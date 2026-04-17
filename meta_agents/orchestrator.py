@@ -265,40 +265,43 @@ if __name__ == "__main__":
     # 1) PICO configuration (shared)
     # ─────────────────────────────────────────
     MY_PICO = PICO(
-        population="Type 2 diabetes mellitus patients with cardiovascular risk",
-        intervention="SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin)",
-        comparison="Placebo",
-        outcome="Major adverse cardiovascular events (MACE: CV death, non-fatal MI, non-fatal stroke)",
-        study_design="Randomized controlled trial",
-        time_frame="≥12 weeks follow-up"
+        population="General population across racial and ethnic groups (Non-Hispanic White, Black/African American, Hispanic/Latino, Asian/Pacific Islander, American Indian/Alaska Native)",
+        intervention="Racial/ethnic minority groups (Black, Hispanic, Asian/Pacific Islander, American Indian/Alaska Native)",
+        comparison="Non-Hispanic White population",
+        outcome="Skin cancer incidence rate or prevalence by race/ethnicity (cutaneous melanoma, basal cell carcinoma, squamous cell carcinoma, non-melanoma skin cancer)",
+        study_design="Observational studies (cohort, cross-sectional, registry-based, population-based)",
+        time_frame="2000-2025"
     )
 
     INCLUSION = [
-        "Randomized controlled trials (RCT)",
-        "Adult patients (≥18 years) with T2DM",
-        "SGLT2 inhibitor as intervention",
-        "Placebo or usual care as comparator",
-        "Report MACE or its components",
-        "Follow-up ≥12 weeks"
+        "Observational studies (cohort, cross-sectional, registry-based, population-based)",
+        "Human subjects",
+        "Report skin cancer incidence rates or prevalence by race/ethnicity",
+        "Include at least two racial/ethnic groups for comparison",
+        "Cutaneous malignancies (melanoma, BCC, SCC, NMSC, ALM, keratinocyte carcinoma)",
+        "Published in English",
+        "Published 2000-2025"
     ]
 
     EXCLUSION = [
-        "Non-randomized studies",
-        "Animal studies or in vitro",
-        "Type 1 diabetes mellitus",
-        "Conference abstracts without full data",
-        "Duplicate publications"
+        "Non-cutaneous melanoma (uveal, conjunctival, ocular, mucosal melanoma)",
+        "Non-skin cancers (lung, oral cavity, esophageal, penile, paranasal sinus)",
+        "Case reports or case series (n<10)",
+        "Studies reporting only treatment outcomes without incidence/prevalence data",
+        "Studies focused solely on awareness or knowledge surveys",
+        "Animal studies or in vitro studies",
+        "Conference abstracts without full data"
     ]
 
     COMMON = dict(
         pico=MY_PICO,
         inclusion_criteria=INCLUSION,
         exclusion_criteria=EXCLUSION,
-        rob_tool="RoB2",
+        rob_tool="NOS",
         target_journal="PLOS ONE",
-        protocol_doi="CRD42025XXXXXX",   # PROSPERO registration number
-        title="SGLT2 Inhibitors and Major Adverse Cardiovascular Events in "
-              "Type 2 Diabetes: A Systematic Review and Meta-Analysis",
+        protocol_doi="CRD42025XXXXXX",
+        title="Racial and Ethnic Disparities in Skin Cancer Incidence and Prevalence: "
+              "A Systematic Review and Meta-Analysis",
     )
 
     # ─────────────────────────────────────────
@@ -339,9 +342,7 @@ if __name__ == "__main__":
             **COMMON,
             search_mode="csv",
             csv_files={
-                "Embase":   "embase_results.csv",     # ← update filename
-                "Cochrane": "cochrane_results.csv",   # ← update filename
-                # "PubMed": "pubmed_results.csv",     # optional
+                "Embase": "records_tabular.csv",
             },
         )
 

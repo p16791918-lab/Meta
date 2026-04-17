@@ -452,7 +452,30 @@ def run_search_agent(
             }
         )
     """
-    strategy = build_search_strategy(pico, date_range)
+    # In CSV mode, skip the Claude API call and use a static strategy
+    if mode == "csv":
+        strategy = {
+            "mesh_terms": {
+                "P": ["Skin Neoplasms", "Melanoma"],
+                "I": ["Ethnic Groups", "Racial Groups", "Minority Groups"],
+                "C": ["White People"],
+                "O": ["Incidence", "Prevalence"],
+            },
+            "pubmed_query": (
+                "(skin cancer OR melanoma OR \"basal cell carcinoma\" OR \"squamous cell carcinoma\") "
+                "AND (race OR ethnicity OR racial OR ethnic disparities)"
+            ),
+            "cochrane_query": (
+                "(skin cancer OR melanoma) AND (race OR ethnicity)"
+            ),
+            "embase_query": (
+                "'skin cancer'/exp AND ('racial group'/exp OR 'ethnic group'/exp) AND [2000-2025]/py"
+            ),
+            "estimated_results": 0,
+            "notes": "Static strategy (CSV mode — no API call needed)",
+        }
+    else:
+        strategy = build_search_strategy(pico, date_range)
 
     all_mesh = []
     for terms in strategy.get("mesh_terms", {}).values():

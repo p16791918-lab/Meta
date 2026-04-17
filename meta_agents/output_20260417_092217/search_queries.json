@@ -1,0 +1,17 @@
+{
+  "mode": "csv",
+  "pubmed": "(skin cancer OR melanoma OR \"basal cell carcinoma\" OR \"squamous cell carcinoma\") AND (race OR ethnicity OR racial OR ethnic disparities)",
+  "cochrane": "(skin cancer OR melanoma) AND (race OR ethnicity)",
+  "embase": "'skin cancer'/exp AND ('racial group'/exp OR 'ethnic group'/exp) AND [2000-2025]/py",
+  "mesh_terms": [
+    "Skin Neoplasms",
+    "Melanoma",
+    "Ethnic Groups",
+    "Racial Groups",
+    "Minority Groups",
+    "White People",
+    "Incidence",
+    "Prevalence"
+  ],
+  "total_records": 7
+}

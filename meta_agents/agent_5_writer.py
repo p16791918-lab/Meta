@@ -5,8 +5,8 @@ Agent 5: Manuscript Writing Agent
 - Adapts to target journal style
 - Outputs complete manuscript
 """
-import anthropic
 from typing import Dict, List, Optional
+from shared.claude_cli import call_claude
 from shared.prompts import WRITER_AGENT_PROMPT
 from shared.models import MetaAnalysisProject
 
@@ -24,7 +24,7 @@ JOURNAL_STYLES = {
 def write_section(
     section: str,
     context: Dict,
-    client: anthropic.Anthropic,
+    client=None,
     target_journal: str = "PLOS ONE"
 ) -> str:
     """Write a single manuscript section."""
@@ -113,14 +113,7 @@ def write_section(
     if section not in section_prompts:
         return f"[Section '{section}' not recognized]"
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=3000,
-        system=WRITER_AGENT_PROMPT,
-        messages=[{"role": "user", "content": section_prompts[section]}]
-    )
-
-    return response.content[0].text
+    return call_claude(section_prompts[section], system=WRITER_AGENT_PROMPT)
 
 
 def write_full_manuscript(project: MetaAnalysisProject) -> Dict[str, str]:
@@ -128,8 +121,6 @@ def write_full_manuscript(project: MetaAnalysisProject) -> Dict[str, str]:
     Write the complete manuscript for a meta-analysis project.
     Returns dict of section_name -> text.
     """
-    client = anthropic.Anthropic()
-
     context = {
         "title": project.title,
         "pico": {
@@ -155,7 +146,7 @@ def write_full_manuscript(project: MetaAnalysisProject) -> Dict[str, str]:
 
     for section in sections_order:
         print(f"[Agent 5: Writer] Writing {section}...")
-        text = write_section(section, context, client, project.target_journal)
+        text = write_section(section, context, target_journal=project.target_journal)
         manuscript[section] = text
         print(f"[Agent 5: Writer] ✓ {section} ({len(text.split())} words)")
 

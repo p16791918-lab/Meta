@@ -6,8 +6,8 @@ Agent 2: Screening Agent
 - PRISMA flowchart numbers
 """
 import json
-import anthropic
 from typing import List, Dict
+from shared.claude_cli import call_claude
 from shared.prompts import SCREENING_AGENT_PROMPT
 from shared.models import ScreeningDecision, RoBLevel, PICO
 
@@ -29,7 +29,6 @@ def screen_studies(
             "rob_summary": { low, moderate, high, critical }
         }
     """
-    client = anthropic.Anthropic()
     decisions = []
 
     # Batch studies into groups of 10 to reduce API calls
@@ -78,14 +77,7 @@ def screen_studies(
         Return ONLY the JSON array. No explanations.
         """
 
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=3000,
-            system=SCREENING_AGENT_PROMPT,
-            messages=[{"role": "user", "content": user_message}]
-        )
-
-        raw = response.content[0].text.strip()
+        raw = call_claude(user_message, system=SCREENING_AGENT_PROMPT)
         clean = raw.replace("```json", "").replace("```", "").strip()
 
         try:

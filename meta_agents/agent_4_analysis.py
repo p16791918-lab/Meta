@@ -6,8 +6,8 @@ Agent 4: Statistical Analysis Agent
 - Outputs analysis narrative for Results section
 """
 import json
-import anthropic
 from typing import List, Dict, Optional
+from shared.claude_cli import call_claude
 from shared.prompts import ANALYSIS_AGENT_PROMPT
 from shared.models import ExtractedStudy, AnalysisResult, OutcomeType
 
@@ -30,8 +30,6 @@ def run_analysis_agent(
             "grade_assessment": str
         }
     """
-    client = anthropic.Anthropic()
-
     if subgroup_vars is None:
         subgroup_vars = []
     if sensitivity_scenarios is None:
@@ -110,14 +108,7 @@ def run_analysis_agent(
 
     print(f"[Agent 4: Analysis] Generating analysis for {len(studies)} studies...")
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4000,
-        system=ANALYSIS_AGENT_PROMPT,
-        messages=[{"role": "user", "content": user_message}]
-    )
-
-    raw = response.content[0].text.strip()
+    raw = call_claude(user_message, system=ANALYSIS_AGENT_PROMPT)
     clean = raw.replace("```json", "").replace("```", "").strip()
 
     try:

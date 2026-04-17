@@ -5,8 +5,8 @@ Agent 3: Data Extraction Agent
 - Standardizes units and effect measures
 """
 import json
-import anthropic
 from typing import List, Dict
+from shared.claude_cli import call_claude
 from shared.prompts import EXTRACTION_AGENT_PROMPT
 from shared.models import ExtractedStudy, OutcomeData, OutcomeType, StudyDesign
 
@@ -29,7 +29,6 @@ def extract_data(
     Returns:
         List[ExtractedStudy]
     """
-    client = anthropic.Anthropic()
     extracted = []
 
     if secondary_outcomes is None:
@@ -83,14 +82,7 @@ def extract_data(
         Return ONLY JSON.
         """
 
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=2000,
-            system=EXTRACTION_AGENT_PROMPT,
-            messages=[{"role": "user", "content": user_message}]
-        )
-
-        raw = response.content[0].text.strip()
+        raw = call_claude(user_message, system=EXTRACTION_AGENT_PROMPT)
         clean = raw.replace("```json", "").replace("```", "").strip()
 
         try:
