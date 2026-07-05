@@ -17,10 +17,13 @@ import os
 import sys
 from datetime import datetime
 from shared.models import PICO, MetaAnalysisProject
-from agent_1_search import run_search_agent, build_search_strategy
+from agent_1_search import (
+    run_search_agent, build_search_strategy, gather_sources,
+)
 from agent_2_screening import run_screening_2stage, generate_prisma_text
 from agent_3_extraction import extract_data, to_r_dataframe
 from fetch_fulltext import write_retrieval_report
+from merge_sources import merge_sources
 from agent_4_analysis import run_analysis_agent, save_r_script
 from agent_5_writer import write_full_manuscript, compile_manuscript
 
@@ -40,9 +43,19 @@ def run_meta_analysis(
     # search_mode = "pubmed_mcp" : Use PubMed MCP server (recommended)
     # search_mode = "entrez"     : Use biopython Entrez API (no MCP needed)
     # search_mode = "csv"        : Import from CSV files (Embase, etc.)
+    # search_mode = "multi"      : Search several databases + dedup (see `sources`)
     # search_mode = "demo"       : Synthetic data for pipeline testing
     mcp_server_url: str = "http://localhost:3000",
     csv_files: dict = None,
+    # ── Multi-source (search_mode="multi") ─────────────────────────────────────
+    sources: dict = None,
+    # sources example — PubMed (live) + Embase (pre-downloaded CSV):
+    #   {
+    #     "PubMed": {"mode": "entrez"},
+    #     "Embase": {"csv": "records_tabular.csv"},
+    #   }
+    dedup_fuzzy_title: bool = True,
+    dedup_title_threshold: float = 0.92,
     # ── Full-text retrieval (Phase 1 → Phase 2 gate) ───────────────────────────
     fulltext_dir: str = "fulltext",
     # fetch full text only for abstract-screened survivors:
@@ -76,6 +89,7 @@ def run_meta_analysis(
         "pubmed_mcp": "PubMed MCP",
         "entrez":     "PubMed Entrez API",
         "csv":        f"CSV import ({', '.join((csv_files or {}).keys())})",
+        "multi":      f"Multi-source ({', '.join((sources or {}).keys())})",
         "demo":       "DEMO (synthetic data)",
     }.get(search_mode, search_mode)
 
@@ -111,6 +125,36 @@ def run_meta_analysis(
         )
         studies_raw = _generate_demo_studies(pico, n=15)
         print(f"[STEP 1/5] Demo mode: using {len(studies_raw)} synthetic studies")
+    elif search_mode == "multi":
+        from shared.models import SearchResult
+        if not sources:
+            raise ValueError(
+                "search_mode='multi' requires a `sources` dict, e.g.\n"
+                "  sources={'PubMed': {'mode': 'entrez'}, "
+                "'Embase': {'csv': 'records_tabular.csv'}}"
+            )
+        source_lists, strategy = gather_sources(
+            pico, sources, date_range, max_search_results, mcp_server_url,
+        )
+        studies_raw, dedup_report = merge_sources(
+            source_lists,
+            fuzzy_title=dedup_fuzzy_title,
+            title_threshold=dedup_title_threshold,
+        )
+        search_result = SearchResult(
+            pico=pico,
+            mesh_terms=[t for v in strategy.get("mesh_terms", {}).values() for t in v],
+            pubmed_query=strategy["pubmed_query"],
+            cochrane_query=strategy["cochrane_query"],
+            embase_query=strategy["embase_query"],
+            total_hits=len(studies_raw),
+            studies=studies_raw,
+        )
+        with open(f"{output_dir}/dedup_report.json", "w", encoding="utf-8") as f:
+            json.dump(dedup_report, f, indent=2, ensure_ascii=False)
+        print(f"[STEP 1/5] Multi-source: {dedup_report['records_by_source']} → "
+              f"{dedup_report['total_after']} unique "
+              f"({dedup_report['duplicates_removed']} duplicates removed)")
     else:
         search_result = run_search_agent(
             pico,
@@ -327,11 +371,28 @@ if __name__ == "__main__":
 
     # ─────────────────────────────────────────
     # 2) Select search mode
-    #    python orchestrator.py [mcp|entrez|csv|demo]
+    #    python orchestrator.py [mcp|entrez|csv|multi|demo]
     # ─────────────────────────────────────────
     mode = sys.argv[1] if len(sys.argv) > 1 else "demo"
 
-    if mode == "mcp":
+    if mode == "multi":
+        # ── MODE E: Multi-source (PubMed live + Embase CSV) + dedup ────
+        # Prerequisites:
+        #   pip install biopython
+        #   export NCBI_EMAIL="your@email.com"
+        # PubMed is searched live; Embase is read from the pre-downloaded CSV.
+        project = run_meta_analysis(
+            **COMMON,
+            search_mode="multi",
+            sources={
+                "PubMed": {"mode": "entrez"},
+                "Embase": {"csv": "records_tabular.csv"},
+                # "Cochrane": {"csv": "cochrane.csv"},   # optional
+            },
+            max_search_results=200,
+        )
+
+    elif mode == "mcp":
         # ── MODE A: PubMed MCP server ─────────────────────────────────
         # Prerequisites:
         #   pip install pubmed-mcp

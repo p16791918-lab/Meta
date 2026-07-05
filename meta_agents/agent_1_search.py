@@ -29,12 +29,12 @@ SearchMode = Literal["pubmed_mcp", "entrez", "csv"]
 
 # ── CSV column mapping (varies by database export format) ────────────────────
 _CSV_COLUMN_MAP = {
-    "pmid":     ["PMID", "PubMed ID", "Accession Number", "pubmed_id", "pmid"],
+    "pmid":     ["PMID", "MEDLINE PMID", "PubMed ID", "pubmed_id", "pmid"],
     "title":    ["Title", "Article Title", "title", "TI"],
     "abstract": ["Abstract", "abstract", "AB", "Author Abstract"],
     "year":     ["Year", "Publication Year", "PY", "year", "Cover Date"],
     "authors":  ["Authors", "Author Names", "AU", "authors", "Author(s)"],
-    "journal":  ["Source title", "Journal", "SO", "Publication Title"],
+    "journal":  ["Source title", "Journal", "Source", "SO", "Publication Title"],
     "doi":      ["DOI", "Digital Object Identifier", "doi"],
 }
 
@@ -516,6 +516,55 @@ def run_search_agent(
 
     print(f"[Agent 1: Search] ✓ Total records: {len(studies)}")
     return search_result
+
+
+def gather_sources(
+    pico: PICO,
+    sources: dict,
+    date_range: tuple = ("2000/01/01", "2025/12/31"),
+    max_results: int = 200,
+    mcp_server_url: str = "http://localhost:3000",
+) -> tuple:
+    """
+    Collect results from multiple databases, keeping each source SEPARATE so
+    they can be merged/deduplicated with provenance downstream.
+
+    sources spec:
+        {
+          "PubMed": {"mode": "entrez"},                 # or {"mode": "pubmed_mcp"}
+          "Embase": {"csv": "records_tabular.csv"},      # pre-downloaded export
+          "Cochrane": {"csv": "cochrane.csv"},           # optional
+        }
+
+    Returns:
+        (source_lists, strategy)
+        source_lists = {"PubMed": [study, ...], "Embase": [study, ...]}
+    """
+    strategy = build_search_strategy(pico, date_range)
+    source_lists: dict = {}
+
+    for label, spec in sources.items():
+        if "csv" in spec:
+            try:
+                source_lists[label] = load_from_csv(spec["csv"], source_label=label)
+            except FileNotFoundError as e:
+                print(f"[Agent 1: Search] ⚠ Skipping {label}: {e}")
+                source_lists[label] = []
+            continue
+
+        mode = spec.get("mode", "entrez")
+        if mode == "entrez":
+            studies = fetch_via_entrez(strategy["pubmed_query"], max_results)
+        elif mode == "pubmed_mcp":
+            studies = fetch_via_pubmed_mcp(strategy["pubmed_query"], max_results, mcp_server_url)
+        else:
+            raise ValueError(f"Unknown source mode '{mode}' for {label}. "
+                             f"Use 'entrez', 'pubmed_mcp', or a 'csv' path.")
+        for s in studies:
+            s.setdefault("source", label)
+        source_lists[label] = studies
+
+    return source_lists, strategy
 
 
 # Backwards-compatibility alias

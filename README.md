@@ -123,10 +123,24 @@ python agent_1_search.py
 
 | 모드 | 명령어 | 필요 조건 |
 |------|--------|-----------|
+| **다중 소스 + 중복제거** | `python orchestrator.py multi` | PubMed(live) + Embase(CSV), biopython |
 | PubMed MCP | `python orchestrator.py mcp` | pubmed-mcp 서버 설치 |
 | Entrez API | `python orchestrator.py entrez` | pip install biopython |
 | CSV 가져오기 | `python orchestrator.py csv` | Embase/Cochrane CSV 파일 |
 | 데모 | `python orchestrator.py demo` | 없음 (기본값) |
+
+### 다중 소스 병합 (`multi`)
+여러 DB 결과를 합치고 중복을 제거합니다. `orchestrator.py`의 `sources`에서 지정:
+```python
+sources={
+    "PubMed": {"mode": "entrez"},               # 실제 PubMed 검색
+    "Embase": {"csv": "records_tabular.csv"},    # 미리 내보낸 CSV
+    # "Cochrane": {"csv": "cochrane.csv"},       # 선택
+}
+```
+중복제거 우선순위: **① PMID → ② DOI → ③ 제목+연도 유사도(≥0.92)**.
+결과는 `output_.../dedup_report.json`에 소스별 건수·중복 수·겹침(overlap)이 기록되고,
+각 논문에 출처(`sources: ["PubMed","Embase"]`)가 표시됩니다.
 
 ## 참고
 
