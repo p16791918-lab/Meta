@@ -18,8 +18,9 @@ import sys
 from datetime import datetime
 from shared.models import PICO, MetaAnalysisProject
 from agent_1_search import run_search_agent, build_search_strategy
-from agent_2_screening import screen_studies, generate_prisma_text
+from agent_2_screening import run_screening_2stage, generate_prisma_text
 from agent_3_extraction import extract_data, to_r_dataframe
+from fetch_fulltext import write_retrieval_report
 from agent_4_analysis import run_analysis_agent, save_r_script
 from agent_5_writer import write_full_manuscript, compile_manuscript
 
@@ -42,6 +43,15 @@ def run_meta_analysis(
     # search_mode = "demo"       : Synthetic data for pipeline testing
     mcp_server_url: str = "http://localhost:3000",
     csv_files: dict = None,
+    # ── Full-text retrieval (Phase 1 → Phase 2 gate) ───────────────────────────
+    fulltext_dir: str = "fulltext",
+    # fetch full text only for abstract-screened survivors:
+    #   - PMC open-access papers are fetched automatically (needs biopython)
+    #   - paywalled papers: drop your PDFs into fulltext_dir as <PMID>.pdf
+    use_pmc: bool = True,
+    allow_abstract_fallback: bool = False,
+    # allow_abstract_fallback=True lets Phase 2 fall back to the abstract when no
+    # full text is available (used in demo mode; NOT recommended for real reviews)
     # csv_files example:
     # {
     #   "Embase":   "embase_results.csv",
@@ -126,14 +136,18 @@ def run_meta_analysis(
 
     search_result.studies = studies_raw
 
-    # ── AGENT 2: SCREENING ────────────────────────────────────────────────────
-    print("\n[STEP 2/5] Study Screening (PRISMA)")
-    screening = screen_studies(
+    # ── AGENT 2: SCREENING (two-stage PRISMA) ─────────────────────────────────
+    # Phase 1 (abstract) → retrieve full text for survivors → Phase 2 (full text)
+    print("\n[STEP 2/5] Study Screening (PRISMA, two-stage)")
+    screening = run_screening_2stage(
         studies_raw,
         pico,
         inclusion_criteria,
         exclusion_criteria,
-        rob_tool
+        rob_tool,
+        fulltext_dir=fulltext_dir,
+        use_pmc=use_pmc,
+        allow_abstract_fallback=allow_abstract_fallback,
     )
 
     project.included_studies = [
@@ -148,17 +162,24 @@ def run_meta_analysis(
         f.write(prisma_text)
     print(prisma_text)
 
-    # ── AGENT 3: DATA EXTRACTION ──────────────────────────────────────────────
+    # List of studies that still need a manually downloaded (paywalled) PDF
+    n_need = write_retrieval_report(
+        screening["retrieval"], f"{output_dir}/fulltext_needed.csv"
+    )
+    if n_need:
+        print(f"[STEP 2/5] ⚠ {n_need} full-text PDF(s) still needed → "
+              f"see {output_dir}/fulltext_needed.csv")
+        print(f"           Download them (e.g. via institutional access), save as "
+              f"{fulltext_dir}/<PMID>.pdf, and re-run.")
+
+    # ── AGENT 3: DATA EXTRACTION (from full text) ─────────────────────────────
     print("\n[STEP 3/5] Data Extraction")
-    included_raw = [
-        s for s in studies_raw
-        if any(d.pmid == s.get("pmid") and d.phase2_decision == "include"
-               for d in screening["decisions"])
-    ]
+    # Extract from the full text of the finally-included studies (not the abstract)
+    included_fulltext = screening["included_fulltext"]
 
     outcome_type = _infer_outcome_type(pico.outcome)
     extracted = extract_data(
-        included_raw,
+        included_fulltext,
         primary_outcome_name=pico.outcome,
         outcome_type=outcome_type
     )
@@ -348,7 +369,11 @@ if __name__ == "__main__":
 
     else:
         # ── MODE D: Demo (default, pipeline test) ─────────────────────
+        # Synthetic studies have no real full text, so skip PMC and let
+        # Phase 2 fall back to the abstract just to exercise the pipeline.
         project = run_meta_analysis(
             **COMMON,
             search_mode="demo",
+            use_pmc=False,
+            allow_abstract_fallback=True,
         )

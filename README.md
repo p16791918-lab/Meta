@@ -19,7 +19,7 @@ meta_agents/
 ## 설치
 
 ```bash
-pip install biopython                 # entrez(PubMed) 검색 시
+pip install biopython pypdf           # entrez(PubMed) 검색 + PDF 전문 파싱
 export NCBI_EMAIL="your@email.com"    # PubMed 실제 검색 시
 export NCBI_API_KEY="..."             # 선택 (초당 10건)
 ```
@@ -59,6 +59,14 @@ run_meta_analysis(
 )
 ```
 
+### 4. 전문(full-text) 확보 워크플로우
+정식 2단계 선별에서는 초록 통과분의 **전문**이 필요합니다.
+
+1. 먼저 한 번 실행하면 Phase 1(초록) 통과분에 대해 PMC 오픈액세스 전문을 자동 수집합니다.
+2. 확보 못 한 유료 논문은 `output_.../fulltext_needed.csv` 에 목록으로 나옵니다.
+3. 그 논문들을 **기관 계정으로 PDF 다운로드** → `meta_agents/fulltext/<PMID>.pdf` 로 저장.
+4. **다시 실행**하면 이제 그 PDF들을 전문으로 읽어 Phase 2(전문 선별)·데이터 추출에 사용합니다.
+
 ## 산출물 (output_YYYYMMDD_HHMMSS/)
 
 | 파일 | 내용 |
@@ -76,12 +84,16 @@ run_meta_analysis(
 - Boolean operator 검색식 자동 생성
 - PubMed Entrez API 호출
 
-### Agent 2: Screening
-- 포함/배제 기준 적용
-- Title/Abstract → Full-text 2단계 선별
-- RoB 2 / NOS 비뚤림 위험 평가
+### Agent 2: Screening (2단계 PRISMA)
+- **Phase 1 (초록)**: 제목/초록만 보고 전문을 확보할 가치가 있는지 판정 (`screen_phase1`)
+- **전문 확보**: Phase 1 통과분만 전문 수집 (`fetch_fulltext.py`)
+  - PMC 오픈액세스 논문 → 자동 수집 (biopython 필요)
+  - 유료 논문 → `fulltext/<PMID>.pdf` 로 직접 넣기 (기관 계정으로 다운로드)
+  - 확보 못 한 논문은 `output_.../fulltext_needed.csv` 에 목록으로 남음
+- **Phase 2 (전문)**: 실제 전문을 읽고 최종 포함/제외 + RoB/NOS 평가 (`screen_phase2`)
 
 ### Agent 3: Extraction
+- **전문(full-text)에서** 수치 추출 (초록 아님)
 - 연속형 (mean ± SD) / 이진형 (events/total) 데이터 추출
 - R data.frame 코드 자동 생성
 
