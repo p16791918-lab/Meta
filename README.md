@@ -19,10 +19,16 @@ meta_agents/
 ## 설치
 
 ```bash
-pip install anthropic biopython
-export ANTHROPIC_API_KEY="sk-ant-..."
-export NCBI_EMAIL="your@email.com"   # PubMed 실제 검색 시
+pip install biopython                 # entrez(PubMed) 검색 시
+export NCBI_EMAIL="your@email.com"    # PubMed 실제 검색 시
+export NCBI_API_KEY="..."             # 선택 (초당 10건)
 ```
+
+> **API 키 관련**: 모든 에이전트는 `claude` CLI를 통해 Claude 구독으로 동작하므로
+> `ANTHROPIC_API_KEY`가 **필요하지 않습니다.** 단, `pubmed_mcp` 모드(Mode A)만
+> Anthropic SDK의 hosted-MCP 기능을 써서 예외적으로 API 키가 필요합니다.
+> (`pip install anthropic` + `export ANTHROPIC_API_KEY=...`)
+> 로컬/Codespaces에서 `claude` CLI를 못 찾으면 `export CLAUDE_BIN=$(which claude)`.
 
 ## 사용법
 

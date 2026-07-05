@@ -19,10 +19,9 @@ import re
 from pathlib import Path
 from typing import Literal, Optional
 
-import anthropic
-
 from shared.models import PICO, SearchResult
 from shared.prompts import SEARCH_AGENT_PROMPT
+from shared.claude_cli import call_claude_json
 
 # ── Supported search modes ───────────────────────────────────────────────────
 SearchMode = Literal["pubmed_mcp", "entrez", "csv"]
@@ -58,11 +57,12 @@ def build_search_strategy(
     date_range: tuple = ("2000/01/01", "2025/12/31"),
 ) -> dict:
     """
-    Use Claude API to generate PICO → MeSH terms + search queries.
+    Generate PICO → MeSH terms + search queries via the `claude` CLI.
     Called by all modes before fetching actual literature.
-    """
-    client = anthropic.Anthropic()
 
+    Routes through the claude CLI (uses your Claude subscription) instead of
+    the Anthropic SDK, so no ANTHROPIC_API_KEY is required.
+    """
     user_message = f"""
     Please create a comprehensive search strategy for this meta-analysis:
 
@@ -93,17 +93,8 @@ def build_search_strategy(
     }}
     """
 
-    print("[Agent 1: Search] Generating search strategy via Claude...")
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=2000,
-        system=SEARCH_AGENT_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
-    )
-
-    raw = response.content[0].text.strip()
-    clean = raw.replace("```json", "").replace("```", "").strip()
-    return json.loads(clean)
+    print("[Agent 1: Search] Generating search strategy via claude CLI...")
+    return call_claude_json(user_message, system=SEARCH_AGENT_PROMPT)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -138,7 +129,17 @@ def fetch_via_pubmed_mcp(
     """
     Fetch literature via PubMed MCP server.
     Automatically falls back to Entrez on failure.
+
+    Note: this mode uses the Anthropic SDK's hosted-MCP feature, which does
+    require ANTHROPIC_API_KEY. The `entrez` and `csv` modes do not.
     """
+    try:
+        import anthropic
+    except ImportError:
+        print("[Agent 1: Search] ⚠ anthropic SDK not installed for MCP mode "
+              "→ fallback to Entrez")
+        return fetch_via_entrez(query, max_results)
+
     client = anthropic.Anthropic()
     print(f"[Agent 1: Search] Trying PubMed MCP @ {mcp_server_url} ...")
 
