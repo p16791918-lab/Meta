@@ -24,7 +24,7 @@ from agent_2_screening import run_screening_2stage, generate_prisma_text
 from agent_3_extraction import extract_data, to_r_dataframe
 from fetch_fulltext import write_retrieval_report
 from merge_sources import merge_sources
-from cache_utils import run_key, cache_dir_for
+from cache_utils import run_key, cache_dir_for, load_json, save_json
 from agent_4_analysis import run_analysis_agent, save_r_script
 from agent_5_writer import write_full_manuscript, compile_manuscript
 
@@ -128,60 +128,95 @@ def run_meta_analysis(
     # ── AGENT 1: SEARCH ───────────────────────────────────────────────────────
     print("\n[STEP 1/5] Literature Search")
 
-    if search_mode == "demo":
-        strategy = build_search_strategy(pico, date_range)
-        from shared.models import SearchResult
-        search_result = SearchResult(
-            pico=pico,
-            mesh_terms=[t for v in strategy.get("mesh_terms", {}).values() for t in v],
-            pubmed_query=strategy["pubmed_query"],
-            cochrane_query=strategy["cochrane_query"],
-            embase_query=strategy["embase_query"],
-            total_hits=0,
-            studies=[],
-        )
-        studies_raw = _generate_demo_studies(pico, n=15)
-        print(f"[STEP 1/5] Demo mode: using {len(studies_raw)} synthetic studies")
-    elif search_mode == "multi":
-        from shared.models import SearchResult
-        if not sources:
-            raise ValueError(
-                "search_mode='multi' requires a `sources` dict, e.g.\n"
-                "  sources={'PubMed': {'mode': 'entrez'}, "
-                "'Embase': {'csv': 'records_tabular.csv'}}"
+    from shared.models import SearchResult
+    studies_raw = None
+    search_result = None
+
+    # Reuse a frozen search set if the search already ran once. Live PubMed
+    # results shift between runs (relevance sort + result cap), so freezing the
+    # merged set keeps the review reproducible AND lets the per-study screening
+    # cache line up on resume instead of re-screening a shifted set.
+    if cache_dir:
+        cached_studies = load_json(cache_dir, "studies.json")
+        cached_meta = load_json(cache_dir, "search_meta.json")
+        if cached_studies and cached_meta:
+            studies_raw = cached_studies
+            search_result = SearchResult(
+                pico=pico,
+                mesh_terms=cached_meta.get("mesh_terms", []),
+                pubmed_query=cached_meta.get("pubmed", ""),
+                cochrane_query=cached_meta.get("cochrane", ""),
+                embase_query=cached_meta.get("embase", ""),
+                total_hits=len(cached_studies),
+                studies=cached_studies,
             )
-        source_lists, strategy = gather_sources(
-            pico, sources, date_range, max_search_results, mcp_server_url,
-        )
-        studies_raw, dedup_report = merge_sources(
-            source_lists,
-            fuzzy_title=dedup_fuzzy_title,
-            title_threshold=dedup_title_threshold,
-        )
-        search_result = SearchResult(
-            pico=pico,
-            mesh_terms=[t for v in strategy.get("mesh_terms", {}).values() for t in v],
-            pubmed_query=strategy["pubmed_query"],
-            cochrane_query=strategy["cochrane_query"],
-            embase_query=strategy["embase_query"],
-            total_hits=len(studies_raw),
-            studies=studies_raw,
-        )
-        with open(f"{output_dir}/dedup_report.json", "w", encoding="utf-8") as f:
-            json.dump(dedup_report, f, indent=2, ensure_ascii=False)
-        print(f"[STEP 1/5] Multi-source: {dedup_report['records_by_source']} → "
-              f"{dedup_report['total_after']} unique "
-              f"({dedup_report['duplicates_removed']} duplicates removed)")
-    else:
-        search_result = run_search_agent(
-            pico,
-            mode=search_mode,
-            date_range=date_range,
-            max_results=max_search_results,
-            mcp_server_url=mcp_server_url,
-            csv_files=csv_files,
-        )
-        studies_raw = search_result.studies
+            print(f"[STEP 1/5] Using frozen search set from cache: "
+                  f"{len(studies_raw)} studies "
+                  f"(delete {cache_dir}/studies.json to re-search)")
+
+    if studies_raw is None:
+        if search_mode == "demo":
+            strategy = build_search_strategy(pico, date_range)
+            search_result = SearchResult(
+                pico=pico,
+                mesh_terms=[t for v in strategy.get("mesh_terms", {}).values() for t in v],
+                pubmed_query=strategy["pubmed_query"],
+                cochrane_query=strategy["cochrane_query"],
+                embase_query=strategy["embase_query"],
+                total_hits=0,
+                studies=[],
+            )
+            studies_raw = _generate_demo_studies(pico, n=15)
+            print(f"[STEP 1/5] Demo mode: using {len(studies_raw)} synthetic studies")
+        elif search_mode == "multi":
+            if not sources:
+                raise ValueError(
+                    "search_mode='multi' requires a `sources` dict, e.g.\n"
+                    "  sources={'PubMed': {'mode': 'entrez'}, "
+                    "'Embase': {'csv': 'records_tabular.csv'}}"
+                )
+            source_lists, strategy = gather_sources(
+                pico, sources, date_range, max_search_results, mcp_server_url,
+            )
+            studies_raw, dedup_report = merge_sources(
+                source_lists,
+                fuzzy_title=dedup_fuzzy_title,
+                title_threshold=dedup_title_threshold,
+            )
+            search_result = SearchResult(
+                pico=pico,
+                mesh_terms=[t for v in strategy.get("mesh_terms", {}).values() for t in v],
+                pubmed_query=strategy["pubmed_query"],
+                cochrane_query=strategy["cochrane_query"],
+                embase_query=strategy["embase_query"],
+                total_hits=len(studies_raw),
+                studies=studies_raw,
+            )
+            with open(f"{output_dir}/dedup_report.json", "w", encoding="utf-8") as f:
+                json.dump(dedup_report, f, indent=2, ensure_ascii=False)
+            print(f"[STEP 1/5] Multi-source: {dedup_report['records_by_source']} → "
+                  f"{dedup_report['total_after']} unique "
+                  f"({dedup_report['duplicates_removed']} duplicates removed)")
+        else:
+            search_result = run_search_agent(
+                pico,
+                mode=search_mode,
+                date_range=date_range,
+                max_results=max_search_results,
+                mcp_server_url=mcp_server_url,
+                csv_files=csv_files,
+            )
+            studies_raw = search_result.studies
+
+        # Freeze the search set so resumed runs reuse it exactly.
+        if cache_dir and search_mode != "demo":
+            save_json(cache_dir, "studies.json", studies_raw)
+            save_json(cache_dir, "search_meta.json", {
+                "pubmed": search_result.pubmed_query,
+                "cochrane": search_result.cochrane_query,
+                "embase": search_result.embase_query,
+                "mesh_terms": search_result.mesh_terms,
+            })
 
     project.search_results = search_result
 
