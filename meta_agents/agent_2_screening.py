@@ -217,7 +217,13 @@ def screen_phase1(
     interrupted run skips already-screened studies on the next attempt.
     """
     done = load_done(cache_dir, "phase1.jsonl")
-    decisions: List[ScreeningDecision] = [_dict_to_decision(r) for r in done.values()]
+    # Only reuse cached decisions for studies in the CURRENT set — the cache may
+    # contain leftovers from earlier (pre-freeze) search sets that must not
+    # pollute this run's decision list or PRISMA counts.
+    current_pmids = {str(s.get("pmid", "")) for s in studies}
+    decisions: List[ScreeningDecision] = [
+        _dict_to_decision(r) for pmid, r in done.items() if pmid in current_pmids
+    ]
     todo = [s for s in studies if str(s.get("pmid", "")) not in done]
 
     if done:
@@ -297,9 +303,12 @@ def screen_phase2(
     Resumable: each result is cached per PMID in cache_dir/phase2.jsonl.
     """
     done = load_done(cache_dir, "phase2.jsonl")
-    decisions: List[ScreeningDecision] = [_dict_to_decision(r) for r in done.values()]
-    if done:
-        print(f"[Agent 2: Phase 2] Resume: {len(done)} cached")
+    current_pmids = {str(s.get("pmid", "")) for s in studies_fulltext}
+    decisions: List[ScreeningDecision] = [
+        _dict_to_decision(r) for pmid, r in done.items() if pmid in current_pmids
+    ]
+    if decisions:
+        print(f"[Agent 2: Phase 2] Resume: {len(decisions)} cached")
     print(f"[Agent 2: Phase 2] Full-text screening {len(studies_fulltext)} studies...")
 
     for idx, study in enumerate(studies_fulltext):
