@@ -152,6 +152,13 @@ def fetch_fulltext(
             text, source = _read_local(pmid, fulltext_dir)
         if text is None and use_pmc and pmid:
             text, source = _fetch_pmc(pmid, ncbi_email, ncbi_api_key)
+            if text:
+                # Cache the fetched OA text to disk so a resumed run does not
+                # re-download it (the retrieval step is slow, not token-costed).
+                try:
+                    Path(fulltext_dir, f"{pmid}.txt").write_text(text, encoding="utf-8")
+                except OSError:
+                    pass
 
         if text:
             text = text[:MAX_FULLTEXT_CHARS]
