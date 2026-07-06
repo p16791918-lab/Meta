@@ -5,17 +5,19 @@ Agent 3: Data Extraction Agent
 - Standardizes units and effect measures
 """
 import json
-from typing import List, Dict
+from typing import List, Dict, Optional
 from shared.claude_cli import call_claude
 from shared.prompts import EXTRACTION_AGENT_PROMPT
 from shared.models import ExtractedStudy, OutcomeData, OutcomeType, StudyDesign
+from cache_utils import load_done, append_record
 
 
 def extract_data(
     included_studies: List[Dict],
     primary_outcome_name: str,
     outcome_type: str = "continuous",
-    secondary_outcomes: List[str] = None
+    secondary_outcomes: List[str] = None,
+    cache_dir: Optional[str] = None,
 ) -> List[ExtractedStudy]:
     """
     Extract quantitative data from included studies.
@@ -25,6 +27,7 @@ def extract_data(
         primary_outcome_name: e.g. "HbA1c change from baseline"
         outcome_type: "continuous" | "binary" | "time-to-event"
         secondary_outcomes: list of secondary outcome names
+        cache_dir: if set, cache the raw extraction per PMID (resumable)
 
     Returns:
         List[ExtractedStudy]
@@ -34,9 +37,25 @@ def extract_data(
     if secondary_outcomes is None:
         secondary_outcomes = []
 
+    done = load_done(cache_dir, "extracted.jsonl")
+    if done:
+        print(f"[Agent 3: Extraction] Resume: {len(done)} cached")
     print(f"[Agent 3: Extraction] Extracting data from {len(included_studies)} studies...")
 
     for idx, study in enumerate(included_studies):
+        pmid = str(study.get("pmid", ""))
+        cached = done.get(pmid)
+        if cached is not None:
+            d = cached.get("data", {})
+            try:
+                extracted.append(_build_extracted_study(d, study, idx,
+                                                         primary_outcome_name, outcome_type))
+                print(f"[Agent 3: Extraction] ({idx + 1}/{len(included_studies)}) "
+                      f"{d.get('study_id', pmid)} ✓ (cached)")
+            except (KeyError, TypeError) as e:
+                print(f"[Agent 3: Extraction] ⚠ cached parse error {pmid}: {e}")
+            continue
+
         user_message = f"""
         Extract all quantitative data from this study for a meta-analysis.
 
@@ -87,53 +106,10 @@ def extract_data(
 
         try:
             d = json.loads(clean)
-
-            po = d.get("primary_outcome", {})
-            otype_map = {
-                "continuous": OutcomeType.CONTINUOUS,
-                "binary": OutcomeType.BINARY,
-                "time-to-event": OutcomeType.TIME_TO_EVENT
-            }
-            primary = OutcomeData(
-                name=po.get("name", primary_outcome_name),
-                outcome_type=otype_map.get(po.get("type", outcome_type), OutcomeType.CONTINUOUS),
-                intervention_mean=po.get("intervention_mean"),
-                intervention_sd=po.get("intervention_sd"),
-                intervention_n=po.get("intervention_n"),
-                control_mean=po.get("control_mean"),
-                control_sd=po.get("control_sd"),
-                control_n=po.get("control_n"),
-                intervention_events=po.get("intervention_events"),
-                intervention_total=po.get("intervention_total"),
-                control_events=po.get("control_events"),
-                control_total=po.get("control_total"),
-                hr=po.get("hr"),
-                hr_ci_low=po.get("hr_ci_low"),
-                hr_ci_high=po.get("hr_ci_high"),
-            )
-
-            design_map = {
-                "RCT": StudyDesign.RCT,
-                "cohort": StudyDesign.COHORT,
-                "case-control": StudyDesign.CASE_CONTROL,
-                "cross-sectional": StudyDesign.CROSS_SECTIONAL
-            }
-
-            study_obj = ExtractedStudy(
-                study_id=d.get("study_id", f"Study{idx+1}"),
-                pmid=d.get("pmid", study.get("pmid", "")),
-                design=design_map.get(d.get("design", "RCT"), StudyDesign.RCT),
-                n_total=d.get("n_total", 0),
-                n_intervention=d.get("n_intervention", 0),
-                n_control=d.get("n_control", 0),
-                follow_up_weeks=d.get("follow_up_weeks"),
-                country=d.get("country"),
-                primary_outcome=primary,
-                secondary_outcomes=[],
-                confounders_adjusted=d.get("confounders_adjusted", []),
-                notes=d.get("notes", "")
-            )
+            study_obj = _build_extracted_study(d, study, idx,
+                                               primary_outcome_name, outcome_type)
             extracted.append(study_obj)
+            append_record(cache_dir, "extracted.jsonl", {"pmid": pmid, "data": d})
             print(f"[Agent 3: Extraction] ({idx+1}/{len(included_studies)}) {study_obj.study_id} ✓")
 
         except (json.JSONDecodeError, KeyError) as e:
@@ -141,6 +117,55 @@ def extract_data(
 
     print(f"[Agent 3: Extraction] ✓ Extracted {len(extracted)}/{len(included_studies)} studies")
     return extracted
+
+
+def _build_extracted_study(d, study, idx, primary_outcome_name, outcome_type):
+    """Build an ExtractedStudy from a parsed extraction dict `d`."""
+    po = d.get("primary_outcome", {})
+    otype_map = {
+        "continuous": OutcomeType.CONTINUOUS,
+        "binary": OutcomeType.BINARY,
+        "time-to-event": OutcomeType.TIME_TO_EVENT
+    }
+    primary = OutcomeData(
+        name=po.get("name", primary_outcome_name),
+        outcome_type=otype_map.get(po.get("type", outcome_type), OutcomeType.CONTINUOUS),
+        intervention_mean=po.get("intervention_mean"),
+        intervention_sd=po.get("intervention_sd"),
+        intervention_n=po.get("intervention_n"),
+        control_mean=po.get("control_mean"),
+        control_sd=po.get("control_sd"),
+        control_n=po.get("control_n"),
+        intervention_events=po.get("intervention_events"),
+        intervention_total=po.get("intervention_total"),
+        control_events=po.get("control_events"),
+        control_total=po.get("control_total"),
+        hr=po.get("hr"),
+        hr_ci_low=po.get("hr_ci_low"),
+        hr_ci_high=po.get("hr_ci_high"),
+    )
+
+    design_map = {
+        "RCT": StudyDesign.RCT,
+        "cohort": StudyDesign.COHORT,
+        "case-control": StudyDesign.CASE_CONTROL,
+        "cross-sectional": StudyDesign.CROSS_SECTIONAL
+    }
+
+    return ExtractedStudy(
+        study_id=d.get("study_id", f"Study{idx+1}"),
+        pmid=d.get("pmid", study.get("pmid", "")),
+        design=design_map.get(d.get("design", "RCT"), StudyDesign.RCT),
+        n_total=d.get("n_total", 0),
+        n_intervention=d.get("n_intervention", 0),
+        n_control=d.get("n_control", 0),
+        follow_up_weeks=d.get("follow_up_weeks"),
+        country=d.get("country"),
+        primary_outcome=primary,
+        secondary_outcomes=[],
+        confounders_adjusted=d.get("confounders_adjusted", []),
+        notes=d.get("notes", "")
+    )
 
 
 def to_r_dataframe(studies: List[ExtractedStudy]) -> str:

@@ -1,0 +1,10 @@
+# Resume cache & run logs
+meta_agents/.cache/
+run.log
+
+# Full-text PDFs (institutional access — do not commit)
+meta_agents/fulltext/
+
+# Python
+__pycache__/
+*.pyc

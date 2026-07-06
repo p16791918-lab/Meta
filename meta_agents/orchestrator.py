@@ -24,6 +24,7 @@ from agent_2_screening import run_screening_2stage, generate_prisma_text
 from agent_3_extraction import extract_data, to_r_dataframe
 from fetch_fulltext import write_retrieval_report
 from merge_sources import merge_sources
+from cache_utils import run_key, cache_dir_for
 from agent_4_analysis import run_analysis_agent, save_r_script
 from agent_5_writer import write_full_manuscript, compile_manuscript
 
@@ -65,6 +66,12 @@ def run_meta_analysis(
     allow_abstract_fallback: bool = False,
     # allow_abstract_fallback=True lets Phase 2 fall back to the abstract when no
     # full text is available (used in demo mode; NOT recommended for real reviews)
+    # ── Resume / checkpointing ─────────────────────────────────────────────────
+    resume: bool = True,
+    cache_base: str = ".cache",
+    # resume=True caches each screened/extracted study per PMID under
+    # cache_base/<review-hash>/, so an interrupted run (terminal closed, rate
+    # limit, crash) continues where it stopped instead of re-spending tokens.
     # csv_files example:
     # {
     #   "Embase":   "embase_results.csv",
@@ -107,6 +114,16 @@ def run_meta_analysis(
         protocol_doi=protocol_doi,
         target_journal=target_journal
     )
+
+    # Resumable cache, namespaced by the research question so changing the
+    # PICO / criteria automatically starts a fresh cache.
+    cache_dir = None
+    if resume:
+        key = run_key(title, pico.population, pico.intervention,
+                      pico.comparison, pico.outcome,
+                      inclusion_criteria, exclusion_criteria)
+        cache_dir = cache_dir_for(cache_base, key)
+        print(f"  Resume cache : {cache_dir}/  (delete to force a clean run)")
 
     # ── AGENT 1: SEARCH ───────────────────────────────────────────────────────
     print("\n[STEP 1/5] Literature Search")
@@ -192,6 +209,7 @@ def run_meta_analysis(
         fulltext_dir=fulltext_dir,
         use_pmc=use_pmc,
         allow_abstract_fallback=allow_abstract_fallback,
+        cache_dir=cache_dir,
     )
 
     project.included_studies = [
@@ -225,7 +243,8 @@ def run_meta_analysis(
     extracted = extract_data(
         included_fulltext,
         primary_outcome_name=pico.outcome,
-        outcome_type=outcome_type
+        outcome_type=outcome_type,
+        cache_dir=cache_dir,
     )
     project.extracted_data = extracted
 

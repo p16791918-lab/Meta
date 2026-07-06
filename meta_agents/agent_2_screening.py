@@ -12,10 +12,11 @@ for backward compatibility but should not be used for real reviews.
 """
 import json
 import os
-from typing import List, Dict
+from typing import List, Dict, Optional
 from shared.claude_cli import call_claude
 from shared.prompts import SCREENING_AGENT_PROMPT
 from shared.models import ScreeningDecision, RoBLevel, PICO
+from cache_utils import load_done, append_record
 
 _ROB_MAP = {
     "low": RoBLevel.LOW,
@@ -23,6 +24,28 @@ _ROB_MAP = {
     "high": RoBLevel.HIGH,
     "critical": RoBLevel.CRITICAL,
 }
+
+
+def _decision_to_dict(d: ScreeningDecision) -> dict:
+    return {
+        "pmid": d.pmid, "title": d.title,
+        "phase1_decision": d.phase1_decision, "phase1_reason": d.phase1_reason,
+        "phase2_decision": d.phase2_decision, "phase2_reason": d.phase2_reason,
+        "rob_tool": d.rob_tool,
+        "rob_overall": d.rob_overall.name.lower() if d.rob_overall else None,
+    }
+
+
+def _dict_to_decision(r: dict) -> ScreeningDecision:
+    return ScreeningDecision(
+        pmid=str(r.get("pmid", "")), title=r.get("title", ""), authors="", year=0,
+        phase1_decision=r.get("phase1_decision", "uncertain"),
+        phase1_reason=r.get("phase1_reason", ""),
+        phase2_decision=r.get("phase2_decision"),
+        phase2_reason=r.get("phase2_reason"),
+        rob_tool=r.get("rob_tool"),
+        rob_overall=_ROB_MAP.get(r.get("rob_overall") or "", None),
+    )
 
 
 def screen_studies(
@@ -183,15 +206,24 @@ def screen_phase1(
     pico: PICO,
     inclusion_criteria: List[str],
     exclusion_criteria: List[str],
+    cache_dir: Optional[str] = None,
 ) -> List[ScreeningDecision]:
     """
     Phase 1 — title/abstract screening ONLY.
     Decides which studies are worth retrieving the full text for.
     Returns one ScreeningDecision per study (phase1 fields filled).
+
+    Resumable: results are cached per PMID in cache_dir/phase1.jsonl, so an
+    interrupted run skips already-screened studies on the next attempt.
     """
-    decisions: List[ScreeningDecision] = []
-    batches = _batches(studies, 10)
-    print(f"[Agent 2: Phase 1] Abstract screening {len(studies)} studies "
+    done = load_done(cache_dir, "phase1.jsonl")
+    decisions: List[ScreeningDecision] = [_dict_to_decision(r) for r in done.values()]
+    todo = [s for s in studies if str(s.get("pmid", "")) not in done]
+
+    if done:
+        print(f"[Agent 2: Phase 1] Resume: {len(done)} cached, {len(todo)} remaining")
+    batches = _batches(todo, 10)
+    print(f"[Agent 2: Phase 1] Abstract screening {len(todo)} studies "
           f"in {len(batches)} batches...")
 
     for bi, batch in enumerate(batches):
@@ -231,13 +263,15 @@ def screen_phase1(
         clean = raw.replace("```json", "").replace("```", "").strip()
         try:
             for d in json.loads(clean):
-                decisions.append(ScreeningDecision(
+                dec = ScreeningDecision(
                     pmid=str(d.get("pmid", "")),
                     title=d.get("title", ""),
                     authors="", year=0,
                     phase1_decision=d.get("phase1_decision", "uncertain"),
                     phase1_reason=d.get("phase1_reason", ""),
-                ))
+                )
+                decisions.append(dec)
+                append_record(cache_dir, "phase1.jsonl", _decision_to_dict(dec))
         except json.JSONDecodeError as e:
             print(f"[Agent 2: Phase 1] ⚠ JSON parse error in batch {bi + 1}: {e}")
         print(f"[Agent 2: Phase 1] Batch {bi + 1}/{len(batches)} done")
@@ -254,17 +288,25 @@ def screen_phase2(
     exclusion_criteria: List[str],
     rob_tool: str = "NOS",
     allow_abstract_fallback: bool = False,
+    cache_dir: Optional[str] = None,
 ) -> List[ScreeningDecision]:
     """
     Phase 2 — full-text screening + Risk of Bias, one study per call.
     Only studies with retrieved full text are assessed. Studies without full
     text get phase2_decision="not_retrieved" (unless allow_abstract_fallback).
+
+    Resumable: each result is cached per PMID in cache_dir/phase2.jsonl.
     """
-    decisions: List[ScreeningDecision] = []
+    done = load_done(cache_dir, "phase2.jsonl")
+    decisions: List[ScreeningDecision] = [_dict_to_decision(r) for r in done.values()]
+    if done:
+        print(f"[Agent 2: Phase 2] Resume: {len(done)} cached")
     print(f"[Agent 2: Phase 2] Full-text screening {len(studies_fulltext)} studies...")
 
     for idx, study in enumerate(studies_fulltext):
         pmid = str(study.get("pmid", ""))
+        if pmid in done:
+            continue
         title = study.get("title", "")
         text = study.get("fulltext")
         source = study.get("fulltext_source")
@@ -273,14 +315,16 @@ def screen_phase2(
             if allow_abstract_fallback and study.get("abstract"):
                 text, source = study["abstract"], "abstract_fallback"
             else:
-                decisions.append(ScreeningDecision(
+                dec = ScreeningDecision(
                     pmid=pmid, title=title, authors="", year=0,
                     phase1_decision="include", phase1_reason="passed Phase 1",
                     phase2_decision="not_retrieved",
                     phase2_reason="Full text could not be retrieved "
                                   "(paywalled / not in PMC).",
                     rob_tool=rob_tool,
-                ))
+                )
+                decisions.append(dec)
+                # NOT cached on purpose: retry once the user supplies the PDF
                 print(f"[Agent 2: Phase 2] ({idx + 1}) PMID {pmid}: NOT RETRIEVED — skipped")
                 continue
 
@@ -315,14 +359,16 @@ def screen_phase2(
         clean = raw.replace("```json", "").replace("```", "").strip()
         try:
             d = json.loads(clean)
-            decisions.append(ScreeningDecision(
+            dec = ScreeningDecision(
                 pmid=pmid, title=title, authors="", year=0,
                 phase1_decision="include", phase1_reason="passed Phase 1",
                 phase2_decision=d.get("phase2_decision", "exclude"),
                 phase2_reason=d.get("phase2_reason", ""),
                 rob_tool=rob_tool,
                 rob_overall=_ROB_MAP.get(d.get("rob_overall", ""), None),
-            ))
+            )
+            decisions.append(dec)
+            append_record(cache_dir, "phase2.jsonl", _decision_to_dict(dec))
             print(f"[Agent 2: Phase 2] ({idx + 1}) PMID {pmid}: "
                   f"{d.get('phase2_decision')} [{source}]")
         except json.JSONDecodeError as e:
@@ -340,6 +386,7 @@ def run_screening_2stage(
     fulltext_dir: str = "fulltext",
     use_pmc: bool = True,
     allow_abstract_fallback: bool = False,
+    cache_dir: Optional[str] = None,
 ) -> Dict:
     """
     Correct PRISMA flow:
@@ -357,7 +404,8 @@ def run_screening_2stage(
     from fetch_fulltext import fetch_fulltext
 
     # ── Phase 1: abstract ──────────────────────────────────────────────────
-    p1 = screen_phase1(studies, pico, inclusion_criteria, exclusion_criteria)
+    p1 = screen_phase1(studies, pico, inclusion_criteria, exclusion_criteria,
+                       cache_dir=cache_dir)
     p1_by_pmid = {d.pmid: d for d in p1}
 
     advanced = [
@@ -371,7 +419,7 @@ def run_screening_2stage(
 
     # ── Phase 2: full text ─────────────────────────────────────────────────
     p2 = screen_phase2(retrieval, pico, inclusion_criteria, exclusion_criteria,
-                        rob_tool, allow_abstract_fallback)
+                        rob_tool, allow_abstract_fallback, cache_dir=cache_dir)
     p2_by_pmid = {d.pmid: d for d in p2}
 
     # ── Merge decisions (carry Phase 1 result into every record) ───────────
