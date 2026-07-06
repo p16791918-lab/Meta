@@ -80,34 +80,41 @@ def _fetch_pmc(pmid: str, email: Optional[str],
     if key:
         Entrez.api_key = key
 
-    try:
-        # PMID → PMCID
-        h = Entrez.elink(dbfrom="pubmed", db="pmc", id=str(pmid))
-        rec = Entrez.read(h)
-        h.close()
-        pmcid = None
-        for linkset in rec:
-            for db in linkset.get("LinkSetDb", []):
-                for link in db.get("Link", []):
-                    pmcid = link["Id"]
-                    break
-        if not pmcid:
+    import time
+    last_err = None
+    for attempt in range(3):  # retry transient NCBI errors (EOF / rate spikes)
+        try:
+            # PMID → PMCID
+            h = Entrez.elink(dbfrom="pubmed", db="pmc", id=str(pmid))
+            rec = Entrez.read(h)
+            h.close()
+            pmcid = None
+            for linkset in rec:
+                for db in linkset.get("LinkSetDb", []):
+                    for link in db.get("Link", []):
+                        pmcid = link["Id"]
+                        break
+            if not pmcid:
+                return None, None  # genuinely not in PMC — don't retry
+
+            # Fetch full-text XML (only the OA subset returns a real body)
+            h = Entrez.efetch(db="pmc", id=pmcid, rettype="full", retmode="xml")
+            xml = h.read()
+            h.close()
+            if isinstance(xml, bytes):
+                xml = xml.decode("utf-8", errors="ignore")
+
+            text = _xml_to_text(xml)
+            if text and len(text) > 500:
+                return text, "pmc_oa"
             return None, None
+        except Exception as e:  # noqa: BLE001  (transient network/NCBI error)
+            last_err = e
+            if attempt < 2:
+                time.sleep(1.5 * (attempt + 1))  # 1.5s, 3s backoff
 
-        # Fetch full-text XML (only the OA subset returns a real body)
-        h = Entrez.efetch(db="pmc", id=pmcid, rettype="full", retmode="xml")
-        xml = h.read()
-        h.close()
-        if isinstance(xml, bytes):
-            xml = xml.decode("utf-8", errors="ignore")
-
-        text = _xml_to_text(xml)
-        if text and len(text) > 500:
-            return text, "pmc_oa"
-        return None, None
-    except Exception as e:  # noqa: BLE001
-        print(f"[FullText] ⚠ PMC fetch failed for PMID {pmid}: {e}")
-        return None, None
+    print(f"[FullText] ⚠ PMC fetch failed for PMID {pmid} after retries: {last_err}")
+    return None, None
 
 
 def _xml_to_text(xml: str) -> str:
