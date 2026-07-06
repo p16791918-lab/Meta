@@ -13,7 +13,7 @@ for backward compatibility but should not be used for real reviews.
 import json
 import os
 from typing import List, Dict, Optional
-from shared.claude_cli import call_claude
+from shared.claude_cli import call_claude, extract_json
 from shared.prompts import SCREENING_AGENT_PROMPT
 from shared.models import ScreeningDecision, RoBLevel, PICO
 from cache_utils import load_done, append_record
@@ -260,9 +260,8 @@ def screen_phase1(
         ]
         """
         raw = call_claude(user_message, system=SCREENING_AGENT_PROMPT)
-        clean = raw.replace("```json", "").replace("```", "").strip()
         try:
-            for d in json.loads(clean):
+            for d in extract_json(raw):
                 dec = ScreeningDecision(
                     pmid=str(d.get("pmid", "")),
                     title=d.get("title", ""),
@@ -272,7 +271,7 @@ def screen_phase1(
                 )
                 decisions.append(dec)
                 append_record(cache_dir, "phase1.jsonl", _decision_to_dict(dec))
-        except json.JSONDecodeError as e:
+        except (json.JSONDecodeError, TypeError) as e:
             print(f"[Agent 2: Phase 1] ⚠ JSON parse error in batch {bi + 1}: {e}")
         print(f"[Agent 2: Phase 1] Batch {bi + 1}/{len(batches)} done")
 
@@ -356,9 +355,8 @@ def screen_phase2(
         }}
         """
         raw = call_claude(user_message, system=SCREENING_AGENT_PROMPT)
-        clean = raw.replace("```json", "").replace("```", "").strip()
         try:
-            d = json.loads(clean)
+            d = extract_json(raw)
             dec = ScreeningDecision(
                 pmid=pmid, title=title, authors="", year=0,
                 phase1_decision="include", phase1_reason="passed Phase 1",
@@ -371,7 +369,7 @@ def screen_phase2(
             append_record(cache_dir, "phase2.jsonl", _decision_to_dict(dec))
             print(f"[Agent 2: Phase 2] ({idx + 1}) PMID {pmid}: "
                   f"{d.get('phase2_decision')} [{source}]")
-        except json.JSONDecodeError as e:
+        except (json.JSONDecodeError, AttributeError) as e:
             print(f"[Agent 2: Phase 2] ⚠ JSON parse error for PMID {pmid}: {e}")
 
     return decisions

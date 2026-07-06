@@ -5,9 +5,42 @@ instead of the Anthropic SDK (no ANTHROPIC_API_KEY needed).
 from __future__ import annotations
 import json
 import os
+import re
 import subprocess
 import tempfile
 from pathlib import Path
+
+
+def extract_json(raw: str):
+    """
+    Parse JSON from an LLM/CLI response robustly.
+
+    Handles the common ways the model wraps its answer:
+      - ```json ... ``` code fences
+      - leading prose before the JSON
+      - trailing prose AFTER the JSON ("Extra data" errors)
+      - multiple values (returns the first complete array/object)
+    """
+    s = (raw or "").strip()
+    s = re.sub(r"^```(?:json)?", "", s).strip()
+    s = re.sub(r"```$", "", s).strip()
+
+    try:
+        return json.loads(s)
+    except json.JSONDecodeError:
+        pass
+
+    # Scan for the first '[' or '{' and decode a single complete value there,
+    # ignoring anything the model appended afterwards.
+    decoder = json.JSONDecoder()
+    for i, ch in enumerate(s):
+        if ch in "[{":
+            try:
+                obj, _ = decoder.raw_decode(s[i:])
+                return obj
+            except json.JSONDecodeError:
+                continue
+    raise json.JSONDecodeError("No JSON value found in response", s, 0)
 
 # Locate the claude binary
 _CLAUDE_PATH = os.environ.get(
@@ -75,5 +108,4 @@ def call_claude_json(prompt: str, system: str = "", **kwargs) -> dict | list:
     Like call_claude() but strips markdown fences and JSON-parses the response.
     """
     raw = call_claude(prompt, system=system, **kwargs)
-    clean = raw.replace("```json", "").replace("```", "").strip()
-    return json.loads(clean)
+    return extract_json(raw)

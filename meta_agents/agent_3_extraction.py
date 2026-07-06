@@ -6,7 +6,7 @@ Agent 3: Data Extraction Agent
 """
 import json
 from typing import List, Dict, Optional
-from shared.claude_cli import call_claude
+from shared.claude_cli import call_claude, extract_json
 from shared.prompts import EXTRACTION_AGENT_PROMPT
 from shared.models import ExtractedStudy, OutcomeData, OutcomeType, StudyDesign
 from cache_utils import load_done, append_record
@@ -102,10 +102,9 @@ def extract_data(
         """
 
         raw = call_claude(user_message, system=EXTRACTION_AGENT_PROMPT)
-        clean = raw.replace("```json", "").replace("```", "").strip()
 
         try:
-            d = json.loads(clean)
+            d = extract_json(raw)
             study_obj = _build_extracted_study(d, study, idx,
                                                primary_outcome_name, outcome_type)
             extracted.append(study_obj)
