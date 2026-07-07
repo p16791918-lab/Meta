@@ -524,6 +524,7 @@ def gather_sources(
     date_range: tuple = ("2000/01/01", "2025/12/31"),
     max_results: int = 200,
     mcp_server_url: str = "http://localhost:3000",
+    pubmed_query_override: str = None,
 ) -> tuple:
     """
     Collect results from multiple databases, keeping each source SEPARATE so
@@ -541,6 +542,12 @@ def gather_sources(
         source_lists = {"PubMed": [study, ...], "Embase": [study, ...]}
     """
     strategy = build_search_strategy(pico, date_range)
+    # A curated, precise query beats the auto-generated one for reproducibility
+    # and precision (fewer off-topic hits).
+    pubmed_q = pubmed_query_override or strategy["pubmed_query"]
+    strategy["pubmed_query"] = pubmed_q  # record the query actually used
+    if pubmed_query_override:
+        print(f"[Agent 1: Search] Using curated PubMed query override")
     source_lists: dict = {}
 
     for label, spec in sources.items():
@@ -554,9 +561,9 @@ def gather_sources(
 
         mode = spec.get("mode", "entrez")
         if mode == "entrez":
-            studies = fetch_via_entrez(strategy["pubmed_query"], max_results)
+            studies = fetch_via_entrez(pubmed_q, max_results)
         elif mode == "pubmed_mcp":
-            studies = fetch_via_pubmed_mcp(strategy["pubmed_query"], max_results, mcp_server_url)
+            studies = fetch_via_pubmed_mcp(pubmed_q, max_results, mcp_server_url)
         else:
             raise ValueError(f"Unknown source mode '{mode}' for {label}. "
                              f"Use 'entrez', 'pubmed_mcp', or a 'csv' path.")

@@ -57,6 +57,9 @@ def run_meta_analysis(
     #   }
     dedup_fuzzy_title: bool = True,
     dedup_title_threshold: float = 0.92,
+    pubmed_query_override: str = None,
+    # A curated PubMed query string. When set, it replaces the auto-generated
+    # query for precision. Changing it also changes the cache key (fresh run).
     # ── Full-text retrieval (Phase 1 → Phase 2 gate) ───────────────────────────
     fulltext_dir: str = "fulltext",
     # fetch full text only for abstract-screened survivors:
@@ -121,7 +124,8 @@ def run_meta_analysis(
     if resume:
         key = run_key(title, pico.population, pico.intervention,
                       pico.comparison, pico.outcome,
-                      inclusion_criteria, exclusion_criteria)
+                      inclusion_criteria, exclusion_criteria,
+                      pubmed_query_override or "")
         cache_dir = cache_dir_for(cache_base, key)
         print(f"  Resume cache : {cache_dir}/  (delete to force a clean run)")
 
@@ -177,6 +181,7 @@ def run_meta_analysis(
                 )
             source_lists, strategy = gather_sources(
                 pico, sources, date_range, max_search_results, mcp_server_url,
+                pubmed_query_override=pubmed_query_override,
             )
             studies_raw, dedup_report = merge_sources(
                 source_lists,
@@ -403,14 +408,38 @@ if __name__ == "__main__":
     ]
 
     EXCLUSION = [
-        "Non-cutaneous melanoma (uveal, conjunctival, ocular, mucosal melanoma)",
-        "Non-skin cancers (lung, oral cavity, esophageal, penile, paranasal sinus)",
+        "Reviews of any kind (narrative, systematic, scoping), editorials, commentaries, letters",
         "Case reports or case series (n<10)",
-        "Studies reporting only treatment outcomes without incidence/prevalence data",
-        "Studies focused solely on awareness or knowledge surveys",
-        "Animal studies or in vitro studies",
-        "Conference abstracts without full data"
+        "Studies that do NOT report skin cancer incidence or prevalence separately by race/ethnicity",
+        "Studies reporting only mortality, survival, or treatment outcomes without incidence/prevalence",
+        "Non-cutaneous melanoma (uveal, conjunctival, ocular, mucosal melanoma)",
+        "Non-skin cancers (lung, oral cavity, esophageal, penile, vulvar, head/neck, renal, etc.)",
+        "Single-country/single-center series covering only one racial/ethnic group",
+        "Animal/veterinary or in vitro studies",
+        "Studies focused solely on awareness, knowledge, behavior, or risk-factor exposure",
+        "Conference abstracts without full data",
     ]
+
+    # Curated, precise PubMed query — requires the skin-cancer, race/ethnicity,
+    # AND incidence/prevalence concepts to all be central, and drops reviews /
+    # case reports at the source. Far fewer off-topic hits than the broad query.
+    PRECISE_PUBMED_QUERY = (
+        '('
+        '"Skin Neoplasms"[Mesh] OR melanoma[tiab] OR "basal cell carcinoma"[tiab] '
+        'OR "squamous cell carcinoma"[tiab] OR "non-melanoma skin cancer"[tiab] '
+        'OR "nonmelanoma skin cancer"[tiab] OR "keratinocyte carcinoma"[tiab] '
+        'OR "cutaneous malignancy"[tiab]'
+        ') AND ('
+        '"Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Minority Groups"[Mesh] '
+        'OR "Health Status Disparities"[Mesh] OR "Healthcare Disparities"[Mesh] '
+        'OR race[tiab] OR racial[tiab] OR ethnic[tiab] OR ethnicity[tiab] '
+        'OR "racial disparities"[tiab] OR minority[tiab]'
+        ') AND ('
+        '"Incidence"[Mesh] OR "Prevalence"[Mesh] OR incidence[tiab] '
+        'OR prevalence[tiab] OR "incidence rate"[tiab] OR epidemiology[sh]'
+        ') AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] '
+        'NOT (review[pt] OR "case reports"[pt] OR comment[pt] OR editorial[pt] OR letter[pt])'
+    )
 
     COMMON = dict(
         pico=MY_PICO,
@@ -443,7 +472,8 @@ if __name__ == "__main__":
                 "Embase": {"csv": "records_tabular.csv"},
                 # "Cochrane": {"csv": "cochrane.csv"},   # optional
             },
-            max_search_results=200,
+            pubmed_query_override=PRECISE_PUBMED_QUERY,
+            max_search_results=300,
         )
 
     elif mode == "mcp":
