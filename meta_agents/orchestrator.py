@@ -474,6 +474,11 @@ if __name__ == "__main__":
             },
             pubmed_query_override=PRECISE_PUBMED_QUERY,
             max_search_results=300,
+            # Screen on the abstract when full text can't be retrieved (many
+            # eligible Embase / paywalled papers have no PMID/PMC), instead of
+            # skipping them. Final included studies still need full text for
+            # accurate data extraction — see fulltext_needed.csv.
+            allow_abstract_fallback=True,
         )
 
     elif mode == "mcp":
