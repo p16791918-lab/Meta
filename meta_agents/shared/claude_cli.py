@@ -42,26 +42,41 @@ def extract_json(raw: str):
                 continue
     raise json.JSONDecodeError("No JSON value found in response", s, 0)
 
-# Locate the claude binary
-_CLAUDE_PATH = os.environ.get(
-    "CLAUDE_BIN",
+# Optional explicit override
+_CLAUDE_PATH = os.environ.get("CLAUDE_BIN", "")
+
+# VS Code / Codespaces bundle the CLI inside the extension folder, whose version
+# number changes on every auto-update — so glob for it rather than hardcoding.
+_EXT_GLOBS = [
+    os.path.expanduser("~/.vscode-remote/extensions/"
+                       "anthropic.claude-code-*/resources/native-binary/claude"),
+    os.path.expanduser("~/.vscode-server/extensions/"
+                       "anthropic.claude-code-*/resources/native-binary/claude"),
     "/home/codespace/.vscode-remote/extensions/"
-    "anthropic.claude-code-2.1.109-linux-x64/resources/native-binary/claude"
-)
+    "anthropic.claude-code-*/resources/native-binary/claude",
+]
 
 
 def _find_claude() -> str:
-    """Return path to claude binary, raising if not found."""
-    if Path(_CLAUDE_PATH).is_file():
-        return _CLAUDE_PATH
-    # Try PATH
+    """Return path to the claude binary, robust to extension version changes."""
+    import glob
     import shutil
+
+    # 1) explicit override
+    if _CLAUDE_PATH and Path(_CLAUDE_PATH).is_file():
+        return _CLAUDE_PATH
+    # 2) on PATH
     found = shutil.which("claude")
     if found:
         return found
+    # 3) any installed extension version (newest wins)
+    for pattern in _EXT_GLOBS:
+        matches = sorted(glob.glob(pattern))
+        if matches:
+            return matches[-1]
     raise FileNotFoundError(
-        f"claude binary not found at {_CLAUDE_PATH}. "
-        "Set CLAUDE_BIN env var or ensure the binary is on PATH."
+        "claude binary not found. Install Claude Code, put `claude` on PATH, "
+        "or set CLAUDE_BIN to its full path."
     )
 
 
