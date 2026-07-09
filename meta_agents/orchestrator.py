@@ -264,12 +264,16 @@ def run_meta_analysis(
         f.write(prisma_text)
     print(prisma_text)
 
-    # List of studies that still need a manually downloaded (paywalled) PDF
+    # Only INCLUDED studies that lack full text need a manual PDF (for accurate
+    # data extraction). Excluded studies are irrelevant; don't list them.
+    included_needing_ft = [
+        s for s in screening["included_fulltext"] if not s.get("fulltext_source")
+    ]
     n_need = write_retrieval_report(
-        screening["retrieval"], f"{output_dir}/fulltext_needed.csv"
+        included_needing_ft, f"{output_dir}/fulltext_needed.csv"
     )
     if n_need:
-        print(f"[STEP 2/5] ⚠ {n_need} full-text PDF(s) still needed → "
+        print(f"[STEP 2/5] ⚠ {n_need} INCLUDED study PDF(s) needed for extraction → "
               f"see {output_dir}/fulltext_needed.csv")
         print(f"           Download them (e.g. via institutional access), save as "
               f"{fulltext_dir}/<PMID>.pdf, and re-run.")
