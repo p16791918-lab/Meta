@@ -7,7 +7,7 @@ Agent 4: Statistical Analysis Agent
 """
 import json
 from typing import List, Dict, Optional
-from shared.claude_cli import call_claude
+from shared.claude_cli import call_claude, extract_json
 from shared.prompts import ANALYSIS_AGENT_PROMPT
 from shared.models import ExtractedStudy, AnalysisResult, OutcomeType
 
@@ -109,14 +109,13 @@ def run_analysis_agent(
     print(f"[Agent 4: Analysis] Generating analysis for {len(studies)} studies...")
 
     raw = call_claude(user_message, system=ANALYSIS_AGENT_PROMPT)
-    clean = raw.replace("```json", "").replace("```", "").strip()
 
     try:
-        result = json.loads(clean)
+        result = extract_json(raw)
         print("[Agent 4: Analysis] ✓ Analysis plan and R code generated")
         print(f"  ▸ Evidence certainty: {result.get('grade_table', {}).get('overall_certainty', 'N/A')}")
         return result
-    except json.JSONDecodeError:
+    except (json.JSONDecodeError, AttributeError):
         print("[Agent 4: Analysis] ⚠ JSON parse failed, returning raw response")
         return {
             "analysis_plan": "",
