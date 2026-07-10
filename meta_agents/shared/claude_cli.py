@@ -109,7 +109,8 @@ def call_claude(prompt: str, system: str = "", model: str = "claude-sonnet-4-6",
     try:
         result = subprocess.run(
             [binary, "-p", full_prompt],
-            capture_output=True, text=True, timeout=120
+            capture_output=True, text=True,
+            timeout=int(os.environ.get("CLAUDE_CLI_TIMEOUT", "600")),
         )
         if result.returncode != 0 and result.stderr:
             raise RuntimeError(f"claude CLI error: {result.stderr.strip()}")
