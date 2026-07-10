@@ -72,6 +72,12 @@ def run_meta_analysis(
     # ── Resume / checkpointing ─────────────────────────────────────────────────
     resume: bool = True,
     cache_base: str = ".cache",
+    stop_for_manual_pdfs: bool = True,
+    # When True, the pipeline STOPS after screening if any papers still need to
+    # be obtained by hand (included studies with no full text, or not-retrieved
+    # studies that couldn't be screened), lists them, and does NOT run
+    # extraction/analysis/writing. Add the PDFs and re-run, or pass proceed to
+    # synthesize with only what was retrieved.
     # resume=True caches each screened/extracted study per PMID under
     # cache_base/<review-hash>/, so an interrupted run (terminal closed, rate
     # limit, crash) continues where it stopped instead of re-spending tokens.
@@ -264,19 +270,46 @@ def run_meta_analysis(
         f.write(prisma_text)
     print(prisma_text)
 
-    # Only INCLUDED studies that lack full text need a manual PDF (for accurate
-    # data extraction). Excluded studies are irrelevant; don't list them.
-    included_needing_ft = [
-        s for s in screening["included_fulltext"] if not s.get("fulltext_source")
+    # ── Papers the USER must obtain before final synthesis ────────────────────
+    #   (1) included studies with no full text  → needed for accurate extraction
+    #   (2) not-retrieved studies (no full text AND no abstract) → couldn't be
+    #       screened at all; must be obtained to classify include/exclude
+    need_pdf = [s for s in screening["included_fulltext"] if not s.get("fulltext_source")]
+    not_retrieved = [
+        s for s in screening["retrieval"]
+        if not s.get("fulltext_source") and not s.get("abstract")
     ]
-    n_need = write_retrieval_report(
-        included_needing_ft, f"{output_dir}/fulltext_needed.csv"
-    )
-    if n_need:
-        print(f"[STEP 2/5] ⚠ {n_need} INCLUDED study PDF(s) needed for extraction → "
-              f"see {output_dir}/fulltext_needed.csv")
-        print(f"           Download them (e.g. via institutional access), save as "
-              f"{fulltext_dir}/<PMID>.pdf, and re-run.")
+    write_retrieval_report(need_pdf, f"{output_dir}/fulltext_needed.csv")
+
+    import csv as _csv
+    to_obtain = ([("included: need PDF for extraction", s) for s in need_pdf] +
+                 [("not retrieved: need to classify", s) for s in not_retrieved])
+    with open(f"{output_dir}/papers_to_obtain.csv", "w", newline="", encoding="utf-8") as f:
+        w = _csv.writer(f)
+        w.writerow(["reason", "pmid", "title", "year", "journal", "doi", "save_as"])
+        for reason, s in to_obtain:
+            pmid = str(s.get("pmid", "")).strip()
+            w.writerow([reason, pmid, s.get("title", ""), s.get("year", ""),
+                        s.get("journal", ""), s.get("doi", ""),
+                        f"fulltext/{pmid}.pdf" if pmid else "fulltext/<no PMID — see DOI>.pdf"])
+
+    if to_obtain:
+        print("\n" + "=" * 64)
+        print(f"  PAUSED — {len(to_obtain)} paper(s) must be obtained before synthesis")
+        print("=" * 64)
+        for reason, s in to_obtain:
+            pmid = str(s.get("pmid", "")).strip() or "(no PMID)"
+            print(f"  [{reason}]")
+            print(f"     {pmid} | {(s.get('title') or '')[:66]}")
+        print("-" * 64)
+        print(f"  Full list : {output_dir}/papers_to_obtain.csv")
+        print(f"  Next      : download each PDF → save as {fulltext_dir}/<PMID>.pdf → re-run")
+        print(f"  Or        : `python orchestrator.py multi proceed` to synthesize now")
+        print(f"              with only the {len(project.included_studies)} retrieved studies")
+        print("=" * 64 + "\n")
+        if stop_for_manual_pdfs:
+            print("[STOP] Skipping extraction / analysis / writing until papers are provided.")
+            return project
 
     # ── AGENT 3: DATA EXTRACTION (from full text) ─────────────────────────────
     print("\n[STEP 3/5] Data Extraction")
@@ -461,6 +494,9 @@ if __name__ == "__main__":
     #    python orchestrator.py [mcp|entrez|csv|multi|demo]
     # ─────────────────────────────────────────
     mode = sys.argv[1] if len(sys.argv) > 1 else "demo"
+    # `proceed` (or `go`) as an extra arg = synthesize now, even if some papers
+    # still need to be obtained by hand.
+    proceed = any(a in ("proceed", "go", "force") for a in sys.argv[2:])
 
     if mode == "multi":
         # ── MODE E: Multi-source (PubMed live + Embase CSV) + dedup ────
@@ -483,6 +519,7 @@ if __name__ == "__main__":
             # skipping them. Final included studies still need full text for
             # accurate data extraction — see fulltext_needed.csv.
             allow_abstract_fallback=True,
+            stop_for_manual_pdfs=not proceed,
         )
 
     elif mode == "mcp":
