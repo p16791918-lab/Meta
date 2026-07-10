@@ -177,8 +177,9 @@ def fetch_fulltext(
         print(f"[FullText]  PMID {pmid or '—'}: {source or 'NOT RETRIEVED'}")
 
     n_ok = sum(1 for s in out if s["fulltext_source"])
-    print(f"[FullText] ✓ {n_ok}/{len(out)} retrieved | "
-          f"{len(out) - n_ok} need a manual (paywalled) PDF")
+    print(f"[FullText] ✓ {n_ok}/{len(out)} with full text | "
+          f"{len(out) - n_ok} without (screened on abstract where available; "
+          f"only INCLUDED ones will need a PDF)")
     return out
 
 
