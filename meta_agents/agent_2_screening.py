@@ -10,13 +10,53 @@ that pass abstract screening have their full text retrieved and then assessed.
 The legacy screen_studies() (abstract-only, both phases in one pass) is kept
 for backward compatibility but should not be used for real reviews.
 """
+import hashlib
 import json
 import os
+import re
 from typing import List, Dict, Optional
 from shared.claude_cli import call_claude, extract_json
 from shared.prompts import SCREENING_AGENT_PROMPT
 from shared.models import ScreeningDecision, RoBLevel, PICO
-from cache_utils import load_done, append_record
+from cache_utils import append_record
+
+
+def _study_key(s: dict) -> str:
+    """Stable per-record cache key: PMID if present, else a title hash.
+    (Many Embase records have no PMID; keying them all by '' would collide.)"""
+    pmid = str(s.get("pmid", "")).strip()
+    if pmid:
+        return pmid
+    title = re.sub(r"\W+", " ", str(s.get("title", "")).lower()).strip()
+    return "T:" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:12]
+
+
+def _rec_key(r: dict) -> str:
+    """Same key, computed from a cached decision record (has pmid + title)."""
+    pmid = str(r.get("pmid", "")).strip()
+    if pmid:
+        return pmid
+    title = re.sub(r"\W+", " ", str(r.get("title", "")).lower()).strip()
+    return "T:" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:12]
+
+
+def _load_cache(cache_dir: Optional[str], name: str) -> Dict[str, dict]:
+    """Load a .jsonl decision cache keyed by _rec_key (PMID or title hash)."""
+    done: Dict[str, dict] = {}
+    if not cache_dir:
+        return done
+    path = os.path.join(cache_dir, name)
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    try:
+                        r = json.loads(line)
+                        done[_rec_key(r)] = r
+                    except json.JSONDecodeError:
+                        continue
+    return done
 
 _ROB_MAP = {
     "low": RoBLevel.LOW,
@@ -216,15 +256,15 @@ def screen_phase1(
     Resumable: results are cached per PMID in cache_dir/phase1.jsonl, so an
     interrupted run skips already-screened studies on the next attempt.
     """
-    done = load_done(cache_dir, "phase1.jsonl")
+    done = _load_cache(cache_dir, "phase1.jsonl")
     # Only reuse cached decisions for studies in the CURRENT set — the cache may
     # contain leftovers from earlier (pre-freeze) search sets that must not
     # pollute this run's decision list or PRISMA counts.
-    current_pmids = {str(s.get("pmid", "")) for s in studies}
+    current_keys = {_study_key(s) for s in studies}
     decisions: List[ScreeningDecision] = [
-        _dict_to_decision(r) for pmid, r in done.items() if pmid in current_pmids
+        _dict_to_decision(r) for k, r in done.items() if k in current_keys
     ]
-    todo = [s for s in studies if str(s.get("pmid", "")) not in done]
+    todo = [s for s in studies if _study_key(s) not in done]
 
     if done:
         print(f"[Agent 2: Phase 1] Resume: {len(done)} cached, {len(todo)} remaining")
@@ -302,10 +342,10 @@ def screen_phase2(
 
     Resumable: each result is cached per PMID in cache_dir/phase2.jsonl.
     """
-    done = load_done(cache_dir, "phase2.jsonl")
-    current_pmids = {str(s.get("pmid", "")) for s in studies_fulltext}
+    done = _load_cache(cache_dir, "phase2.jsonl")
+    current_keys = {_study_key(s) for s in studies_fulltext}
     decisions: List[ScreeningDecision] = [
-        _dict_to_decision(r) for pmid, r in done.items() if pmid in current_pmids
+        _dict_to_decision(r) for k, r in done.items() if k in current_keys
     ]
     if decisions:
         print(f"[Agent 2: Phase 2] Resume: {len(decisions)} cached")
@@ -313,7 +353,7 @@ def screen_phase2(
 
     for idx, study in enumerate(studies_fulltext):
         pmid = str(study.get("pmid", ""))
-        if pmid in done:
+        if _study_key(study) in done:
             continue
         title = study.get("title", "")
         text = study.get("fulltext")

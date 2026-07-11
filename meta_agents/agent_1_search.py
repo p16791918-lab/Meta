@@ -232,45 +232,65 @@ def fetch_via_entrez(query: str, max_results: int = 200) -> list:
             print("[Agent 1: Search] ⚠ No PMIDs returned")
             return []
 
-        handle = Entrez.efetch(db="pubmed", id=pmids, rettype="abstract", retmode="xml")
-        records = Entrez.read(handle)
-        handle.close()
-
+        # Fetch in batches — a single efetch of hundreds of records often drops
+        # the connection (IncompleteRead). Batch + retry with backoff.
+        import time
         studies = []
-        for article in records.get("PubmedArticle", []):
-            medline = article["MedlineCitation"]
-            art     = medline["Article"]
-            abstract_parts = art.get("Abstract", {}).get("AbstractText", [""])
-            abstract_text  = " ".join(str(a) for a in abstract_parts)
+        batch_size = 150
+        for start in range(0, len(pmids), batch_size):
+            chunk = pmids[start:start + batch_size]
+            records = None
+            for attempt in range(3):
+                try:
+                    handle = Entrez.efetch(db="pubmed", id=chunk,
+                                           rettype="abstract", retmode="xml")
+                    records = Entrez.read(handle)
+                    handle.close()
+                    break
+                except Exception as e:  # noqa: BLE001 (transient network/NCBI error)
+                    if attempt < 2:
+                        time.sleep(2 * (attempt + 1))
+                    else:
+                        print(f"[Agent 1: Search] ⚠ efetch batch "
+                              f"{start}-{start + len(chunk)} failed: {e}")
+            if not records:
+                continue
 
-            pub_date = (art.get("Journal", {})
-                           .get("JournalIssue", {})
-                           .get("PubDate", {}))
-            year_str = pub_date.get("Year") or pub_date.get("MedlineDate", "0")[:4]
-            try:
-                year = int(year_str)
-            except (ValueError, TypeError):
-                year = 0
+            for article in records.get("PubmedArticle", []):
+                medline = article["MedlineCitation"]
+                art     = medline["Article"]
+                abstract_parts = art.get("Abstract", {}).get("AbstractText", [""])
+                abstract_text  = " ".join(str(a) for a in abstract_parts)
 
-            doi = next(
-                (str(loc) for loc in art.get("ELocationID", [])
-                 if loc.attributes.get("EIdType") == "doi"),
-                ""
-            )
+                pub_date = (art.get("Journal", {})
+                               .get("JournalIssue", {})
+                               .get("PubDate", {}))
+                year_str = pub_date.get("Year") or pub_date.get("MedlineDate", "0")[:4]
+                try:
+                    year = int(year_str)
+                except (ValueError, TypeError):
+                    year = 0
 
-            studies.append({
-                "pmid":     str(medline["PMID"]),
-                "title":    str(art.get("ArticleTitle", "")),
-                "abstract": abstract_text,
-                "year":     year,
-                "authors":  [
-                    f"{a.get('LastName', '')} {a.get('Initials', '')}"
-                    for a in art.get("AuthorList", [])
-                ],
-                "journal":  str(art.get("Journal", {}).get("Title", "")),
-                "doi":      doi,
-                "source":   "pubmed_entrez",
-            })
+                doi = next(
+                    (str(loc) for loc in art.get("ELocationID", [])
+                     if loc.attributes.get("EIdType") == "doi"),
+                    ""
+                )
+
+                studies.append({
+                    "pmid":     str(medline["PMID"]),
+                    "title":    str(art.get("ArticleTitle", "")),
+                    "abstract": abstract_text,
+                    "year":     year,
+                    "authors":  [
+                        f"{a.get('LastName', '')} {a.get('Initials', '')}"
+                        for a in art.get("AuthorList", [])
+                    ],
+                    "journal":  str(art.get("Journal", {}).get("Title", "")),
+                    "doi":      doi,
+                    "source":   "pubmed_entrez",
+                })
+            print(f"[Agent 1: Search]   fetched {len(studies)}/{len(pmids)}...")
 
         print(f"[Agent 1: Search] ✓ Entrez → {len(studies)} articles")
         return studies
