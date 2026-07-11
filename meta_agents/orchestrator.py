@@ -509,7 +509,7 @@ if __name__ == "__main__":
                 # "Cochrane": {"csv": "cochrane.csv"},   # optional
             },
             pubmed_query_override=PRECISE_PUBMED_QUERY,
-            max_search_results=300,
+            max_search_results=700,  # covers the full ~686-result breast query
             # Screen on the abstract when full text can't be retrieved (many
             # eligible Embase / paywalled papers have no PMID/PMC), instead of
             # skipping them. Final included studies still need full text for
