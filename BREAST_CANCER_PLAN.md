@@ -74,12 +74,20 @@ NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it)
   발생률 격차 논문으로 좁힌 것(5272→2000→506).
 
 ## 구현 순서 (새 대화에서)
-1. `orchestrator.py` __main__의 MY_PICO / INCLUSION / EXCLUSION / PRECISE_PUBMED_QUERY를
-   위 유방암 버전으로 교체 (title도).
-2. `python orchestrator.py multi` → 검색·스크리닝 → 포함 논문 목록 확보 (추출은 null 예상).
-3. **Claude가 포함 논문 전문을 읽고** age-adjusted 발생률을 인종별로 추출 →
-   `run_meta_analysis.py`의 STUDIES를 유방암 데이터로 새로 작성 (log(minority/nhw), SE).
-4. `python run_meta_analysis.py` → pooled IRR·forest plot. 필요시 아형·민감도.
+- ✅ **완료**: orchestrator.py의 PICO/기준/검색어/title 유방암 버전으로 교체됨(commit 5a49488).
+- ✅ **완료**: Embase 501건이 `meta_agents/records_tabular.csv`에 변환·저장됨
+  (필드형 export를 `convert_embase.py`로 표 형식 변환).
+
+**새 대화는 여기서 시작:**
+1. Codespace에서 `python orchestrator.py multi` 실행 → PubMed 자동검색 + Embase 병합
+   → 2단계 스크리닝 → **[PAUSED] 포함 논문 목록** 제시 (추출은 null 예상, 정상).
+   (`export NCBI_EMAIL/NCBI_API_KEY` 먼저; claude CLI 로그인 필요)
+2. `python report_status.py`로 포함 논문·구할 PDF 확인.
+3. **Claude가 포함 논문 전문(fulltext/<PMID>.pdf 또는 OA)을 읽고** age-adjusted
+   발생률을 인종별로 추출 → `run_meta_analysis.py`의 STUDIES를 유방암 데이터로 새로 작성
+   (log(minority_rate/nhw_rate), se_from_ci/se_from_rates).
+   - ⚠️ PDF 읽기: 이 환경은 `pip install --force-reinstall cffi` 후 pdfminer.six 사용 가능.
+4. `python run_meta_analysis.py` → pooled IRR·forest plot. 필요시 아형(TNBC 등)·민감도.
 
 ## 주의
 - 자동 추출(Agent 3)은 rate를 못 담음 → **데이터는 Claude가 직접 추출**(4-C 하이브리드 핵심).
