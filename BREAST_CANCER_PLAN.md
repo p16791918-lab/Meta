@@ -46,25 +46,32 @@ EXCLUSION
 - crude rate만 보고(age-adjusted 없음) — 또는 민감도에서만
 
 ## 검색 (하이브리드)
-- PubMed(entrez, 정밀 쿼리) + Embase CSV. 예시 정밀 쿼리:
-  `("Breast Neoplasms"[Mesh] OR breast cancer[tiab] OR breast carcinoma[tiab])
-   AND ("Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR race[tiab] OR ethnic*[tiab] OR racial[tiab])
-   AND ("Incidence"[Mesh] OR incidence[tiab] OR "incidence rate"[tiab])
+- PubMed(entrez, 정밀 쿼리) + Embase CSV. Embase와 같은 강도로 조인 PubMed 쿼리
+  (orchestrator.py의 PRECISE_PUBMED_QUERY에 넣을 것):
+  `("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab])
+   AND (race[ti] OR racial[ti] OR ethnic*[ti] OR minorit*[ti] OR disparit*[ti]
+        OR Black[ti] OR Hispanic[ti] OR White[ti] OR Asian[ti] OR "African American"[ti]
+        OR "Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Health Status Disparities"[Mesh])
+   AND (incidence[ti] OR "incidence rate"[tiab] OR "age-adjusted"[tiab]
+        OR "age-standardized"[tiab] OR "Incidence"[Mesh])
    AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
-   NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt])`
+   NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt])`
 - Embase는 유방암용으로 새로 export 필요(records_tabular.csv 교체). 사용자가 직접 검색·export 예정.
 
-### Embase 검색어 (사용자가 Embase.com에서 실행 → CSV export)
+### Embase 검색어 (확정 — 506건, 사용자가 export → records_tabular.csv)
 ```
 ('breast cancer'/exp OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
-AND ('ethnicity'/exp OR 'ethnic group'/exp OR 'racial group'/exp OR 'health disparity'/exp
-     OR race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minority:ti,ab)
-AND ('incidence'/exp OR incidence:ti,ab OR 'incidence rate':ti,ab)
+AND (race:ti OR racial:ti OR ethnic*:ti OR minorit*:ti OR disparit*:ti
+     OR black:ti OR hispanic:ti OR white:ti OR asian:ti OR 'african american':ti)
+AND (incidence:ti OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab
+     OR 'age-standardized':ti,ab OR 'age standardization'/exp)
 AND [2000-2025]/py AND [english]/lim AND [humans]/lim
 NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it)
 ```
 - export 필드: Title, Abstract, Author Names, Publication Year, Source, Publication Type,
   MEDLINE PMID, DOI (Abstract·PMID 필수). 저장: `meta_agents/records_tabular.csv`.
+- 이 검색어는 race/disparity를 **제목(ti)**, incidence를 **제목 또는 rate 용어**에 요구해
+  발생률 격차 논문으로 좁힌 것(5272→2000→506).
 
 ## 구현 순서 (새 대화에서)
 1. `orchestrator.py` __main__의 MY_PICO / INCLUSION / EXCLUSION / PRECISE_PUBMED_QUERY를
