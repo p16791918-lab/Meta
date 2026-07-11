@@ -52,7 +52,19 @@ EXCLUSION
    AND ("Incidence"[Mesh] OR incidence[tiab] OR "incidence rate"[tiab])
    AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
    NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt])`
-- Embase는 유방암용으로 새로 export 필요(records_tabular.csv 교체). 없으면 PubMed만으로 시작 가능.
+- Embase는 유방암용으로 새로 export 필요(records_tabular.csv 교체). 사용자가 직접 검색·export 예정.
+
+### Embase 검색어 (사용자가 Embase.com에서 실행 → CSV export)
+```
+('breast cancer'/exp OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
+AND ('ethnicity'/exp OR 'ethnic group'/exp OR 'racial group'/exp OR 'health disparity'/exp
+     OR race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minority:ti,ab)
+AND ('incidence'/exp OR incidence:ti,ab OR 'incidence rate':ti,ab)
+AND [2000-2025]/py AND [english]/lim AND [humans]/lim
+NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it)
+```
+- export 필드: Title, Abstract, Author Names, Publication Year, Source, Publication Type,
+  MEDLINE PMID, DOI (Abstract·PMID 필수). 저장: `meta_agents/records_tabular.csv`.
 
 ## 구현 순서 (새 대화에서)
 1. `orchestrator.py` __main__의 MY_PICO / INCLUSION / EXCLUSION / PRECISE_PUBMED_QUERY를
