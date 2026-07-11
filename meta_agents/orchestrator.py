@@ -426,20 +426,19 @@ if __name__ == "__main__":
     # 1) PICO configuration (shared)
     # ─────────────────────────────────────────
     MY_PICO = PICO(
-        population="General population across racial and ethnic groups (Non-Hispanic White, Black/African American, Hispanic/Latino, Asian/Pacific Islander, American Indian/Alaska Native)",
+        population="Women in the general population across racial and ethnic groups (Non-Hispanic White, Black/African American, Hispanic/Latina, Asian/Pacific Islander, American Indian/Alaska Native)",
         intervention="Racial/ethnic minority groups (Black, Hispanic, Asian/Pacific Islander, American Indian/Alaska Native)",
-        comparison="Non-Hispanic White population",
-        outcome="Skin cancer incidence rate or prevalence by race/ethnicity (cutaneous melanoma, basal cell carcinoma, squamous cell carcinoma, non-melanoma skin cancer)",
+        comparison="Non-Hispanic White women",
+        outcome="Invasive breast cancer age-adjusted incidence rate by race/ethnicity",
         study_design="Observational studies (cohort, cross-sectional, registry-based, population-based)",
         time_frame="2000-2025"
     )
 
     INCLUSION = [
         "Observational studies (cohort, cross-sectional, registry-based, population-based)",
-        "Human subjects",
-        "Report skin cancer incidence rates or prevalence by race/ethnicity",
+        "Human subjects, women",
+        "Report invasive breast cancer age-adjusted incidence rates by race/ethnicity",
         "Include at least two racial/ethnic groups for comparison",
-        "Cutaneous malignancies (melanoma, BCC, SCC, NMSC, ALM, keratinocyte carcinoma)",
         "Published in English",
         "Published 2000-2025"
     ]
@@ -447,33 +446,30 @@ if __name__ == "__main__":
     EXCLUSION = [
         "Reviews of any kind (narrative, systematic, scoping), editorials, commentaries, letters",
         "Case reports or case series (n<10)",
-        "Studies that do NOT report skin cancer incidence or prevalence separately by race/ethnicity",
-        "Studies reporting only mortality, survival, or treatment outcomes without incidence/prevalence",
-        "Non-cutaneous melanoma (uveal, conjunctival, ocular, mucosal melanoma)",
-        "Non-skin cancers (lung, oral cavity, esophageal, penile, vulvar, head/neck, renal, etc.)",
-        "Single-country/single-center series covering only one racial/ethnic group",
-        "Animal/veterinary or in vitro studies",
-        "Studies focused solely on awareness, knowledge, behavior, or risk-factor exposure",
+        "Studies that do NOT report breast cancer incidence separately by race/ethnicity",
+        "Studies reporting only mortality, survival, stage, or treatment outcomes without incidence",
+        "Studies reporting only prevalence (no incidence) — handle separately, not pooled",
+        "Non-breast cancers; male breast cancer; studies of DCIS/in-situ only",
+        "Studies reporting only crude (non-age-adjusted) rates",
+        "Single racial/ethnic group only (for the primary within-study IRR analysis)",
+        "Animal or in vitro studies",
+        "Studies focused solely on awareness, knowledge, screening behavior, or risk-factor exposure",
         "Conference abstracts without full data",
     ]
 
-    # Curated, precise PubMed query — requires the skin-cancer, race/ethnicity,
-    # AND incidence/prevalence concepts to all be central, and drops reviews /
-    # case reports at the source. Far fewer off-topic hits than the broad query.
+    # Curated, precise PubMed query — requires the breast-cancer, race/ethnicity,
+    # AND incidence concepts to all be central, and drops reviews / case reports
+    # at the source. Mirrors the Embase query strength (race/disparity in title).
     PRECISE_PUBMED_QUERY = (
         '('
-        '"Skin Neoplasms"[Mesh] OR melanoma[tiab] OR "basal cell carcinoma"[tiab] '
-        'OR "squamous cell carcinoma"[tiab] OR "non-melanoma skin cancer"[tiab] '
-        'OR "nonmelanoma skin cancer"[tiab] OR "keratinocyte carcinoma"[tiab] '
-        'OR "cutaneous malignancy"[tiab]'
+        '"Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab]'
         ') AND ('
-        '"Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Minority Groups"[Mesh] '
-        'OR "Health Status Disparities"[Mesh] OR "Healthcare Disparities"[Mesh] '
-        'OR race[tiab] OR racial[tiab] OR ethnic[tiab] OR ethnicity[tiab] '
-        'OR "racial disparities"[tiab] OR minority[tiab]'
+        'race[ti] OR racial[ti] OR ethnic*[ti] OR minorit*[ti] OR disparit*[ti] '
+        'OR Black[ti] OR Hispanic[ti] OR White[ti] OR Asian[ti] OR "African American"[ti] '
+        'OR "Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Health Status Disparities"[Mesh]'
         ') AND ('
-        '"Incidence"[Mesh] OR "Prevalence"[Mesh] OR incidence[tiab] '
-        'OR prevalence[tiab] OR "incidence rate"[tiab] OR epidemiology[sh]'
+        'incidence[ti] OR "incidence rate"[tiab] OR "age-adjusted"[tiab] '
+        'OR "age-standardized"[tiab] OR "Incidence"[Mesh]'
         ') AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] '
         'NOT (review[pt] OR "case reports"[pt] OR comment[pt] OR editorial[pt] OR letter[pt])'
     )
@@ -485,7 +481,7 @@ if __name__ == "__main__":
         rob_tool="NOS",
         target_journal="PLOS ONE",
         protocol_doi="CRD42025XXXXXX",
-        title="Racial and Ethnic Disparities in Skin Cancer Incidence and Prevalence: "
+        title="Racial and Ethnic Disparities in Breast Cancer Incidence: "
               "A Systematic Review and Meta-Analysis",
     )
 
