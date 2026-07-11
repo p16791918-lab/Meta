@@ -1,0 +1,72 @@
+{
+  "Overall invasive BC incidence \u2014 Black vs White": {
+    "k": 3,
+    "irr": 0.6893,
+    "ci_low": 0.4765,
+    "ci_high": 0.997,
+    "pi_low": 0.3297,
+    "pi_high": 1.441,
+    "I2": 99.9017,
+    "tau2": 0.1061,
+    "Q": 2035.2577,
+    "Q_df": 2,
+    "p_Q": 0.0,
+    "p": 0.0482
+  },
+  "TNBC incidence \u2014 Black vs White": {
+    "k": 3,
+    "irr": 1.9049,
+    "ci_low": 1.841,
+    "ci_high": 1.971,
+    "pi_low": 1.7874,
+    "pi_high": 2.0301,
+    "I2": 86.4993,
+    "tau2": 0.0008,
+    "Q": 14.8141,
+    "Q_df": 2,
+    "p_Q": 0.0006,
+    "p": 0.0
+  },
+  "TNBC incidence \u2014 Hispanic vs White": {
+    "k": 2,
+    "irr": 0.8516,
+    "ci_low": 0.832,
+    "ci_high": 0.8717,
+    "pi_low": 0.8231,
+    "pi_high": 0.8811,
+    "I2": 55.1598,
+    "tau2": 0.0002,
+    "Q": 2.2301,
+    "Q_df": 1,
+    "p_Q": 0.1353,
+    "p": 0.0
+  },
+  "TNBC incidence \u2014 API/Asian vs White": {
+    "k": 2,
+    "irr": 0.7022,
+    "ci_low": 0.6871,
+    "ci_high": 0.7177,
+    "pi_low": 0.6871,
+    "pi_high": 0.7177,
+    "I2": 0,
+    "tau2": 0,
+    "Q": 0.4759,
+    "Q_df": 1,
+    "p_Q": 0.4903,
+    "p": 0.0
+  },
+  "TNBC incidence \u2014 AIAN vs White": {
+    "k": 2,
+    "irr": 0.8612,
+    "ci_low": 0.8097,
+    "ci_high": 0.916,
+    "pi_low": 0.8097,
+    "pi_high": 0.916,
+    "I2": 0,
+    "tau2": 0,
+    "Q": 0.2044,
+    "Q_df": 1,
+    "p_Q": 0.6512,
+    "p": 0.0
+  }
+}

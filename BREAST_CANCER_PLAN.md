@@ -92,3 +92,23 @@ NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it)
 ## 주의
 - 자동 추출(Agent 3)은 rate를 못 담음 → **데이터는 Claude가 직접 추출**(4-C 하이브리드 핵심).
 - Embase 유방암 CSV가 있으면 병합에 넣고, 없으면 PubMed 단독으로 진행 후 나중에 추가.
+
+## 진행 로그 (2026-07-11)
+- ⚠️ **이 원격환경은 NCBI/PubMed(eutils)가 네트워크 정책으로 차단됨**(proxy 403).
+  → orchestrator의 PubMed 자동검색·claude CLI 스크리닝 경로 **사용 불가**.
+  대신 Claude(=본 세션)가 **Embase 501건 abstract에서 직접 스크리닝·추출**하는
+  하이브리드로 진행(계획의 4-C 핵심을 네이티브로 수행).
+- ✅ 스크리닝: 501건 → 발생률+인종+유방암 키워드 → rate 값이 담긴 abstract 22건 선별
+  → 연령표준화 발생률(per 100k)을 인종별로 추출.
+- ✅ 추출 결과: `meta_agents/extracted_studies_breast.md`
+- ✅ 메타분석 스크립트: `meta_agents/run_meta_analysis_breast.py`
+  (DL random-effects, forest plot PNG, JSON, 요약)
+- ✅ 결과: `meta_agents/RESULTS_breast.md`, `output_breast/forest_breast.png`,
+  `output_breast/meta_results_breast.json`
+- **핵심 결론**: 전체 침습성 발생률은 모든 소수인종 < 백인(흑인 0.69·히스패닉 0.70·
+  아시안 0.74·AIAN 0.68). **유일한 예외 = 흑인 TNBC 발생률 백인의 1.9배**(ER- 1.8배).
+  즉 흑인 유방암 격차는 전체 발생률이 아니라 **공격적 아형(TNBC/ER-)에 집중**.
+- 한계: abstract 기반 추출(전문 미검증), US SEER/USCS 연구 간 데이터 중복(독립성 위배 →
+  pooled CI 과소추정), 검진접근 교란. → RESULTS_breast.md 참조.
+- 다음 할 일(선택): PubMed 접근 가능한 환경에서 전문 확인·연구 추가, 아형 세분화,
+  민감도분석(검진율 보정), 방식 B(단일인종 rate pooling) 보조 분석.
