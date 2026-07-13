@@ -307,18 +307,34 @@ def screen_phase1(
         """
         raw = call_claude(user_message, system=SCREENING_AGENT_PROMPT)
         try:
-            for d in extract_json(raw):
-                dec = ScreeningDecision(
-                    pmid=str(d.get("pmid", "")),
-                    title=d.get("title", ""),
-                    authors="", year=0,
-                    phase1_decision=d.get("phase1_decision", "uncertain"),
-                    phase1_reason=d.get("phase1_reason", ""),
-                )
-                decisions.append(dec)
-                append_record(cache_dir, "phase1.jsonl", _decision_to_dict(dec))
+            parsed = extract_json(raw)
+            if not isinstance(parsed, list):
+                parsed = [parsed]
         except (json.JSONDecodeError, TypeError) as e:
             print(f"[Agent 2: Phase 1] ⚠ JSON parse error in batch {bi + 1}: {e}")
+            parsed = []
+
+        # Match the model's decisions back to the ORIGINAL batch studies and
+        # cache with the study's own pmid/title, so the cache key is stable
+        # across resumes (the model often paraphrases titles).
+        parsed_by_pmid = {str(x.get("pmid", "")).strip(): x
+                          for x in parsed if str(x.get("pmid", "")).strip()}
+        for j, s in enumerate(batch):
+            spid = str(s.get("pmid", "")).strip()
+            d = parsed_by_pmid.get(spid) if spid else None
+            if d is None and j < len(parsed):
+                d = parsed[j]           # positional fallback (batch order)
+            if d is None:
+                continue
+            dec = ScreeningDecision(
+                pmid=spid,
+                title=s.get("title", ""),
+                authors="", year=0,
+                phase1_decision=d.get("phase1_decision", "uncertain"),
+                phase1_reason=d.get("phase1_reason", ""),
+            )
+            decisions.append(dec)
+            append_record(cache_dir, "phase1.jsonl", _decision_to_dict(dec))
         print(f"[Agent 2: Phase 1] Batch {bi + 1}/{len(batches)} done")
 
     advanced = sum(1 for d in decisions if d.phase1_decision != "exclude")
