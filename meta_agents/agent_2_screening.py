@@ -318,20 +318,23 @@ def screen_phase1(
         # cache with the study's own pmid/title, so the cache key is stable
         # across resumes (the model often paraphrases titles).
         parsed_by_pmid = {str(x.get("pmid", "")).strip(): x
-                          for x in parsed if str(x.get("pmid", "")).strip()}
+                          for x in parsed if isinstance(x, dict)
+                          and str(x.get("pmid", "")).strip()}
+        # Cache a decision for EVERY study in the batch (default "uncertain" if
+        # the model returned no matching decision) so nothing loops forever.
         for j, s in enumerate(batch):
             spid = str(s.get("pmid", "")).strip()
             d = parsed_by_pmid.get(spid) if spid else None
-            if d is None and j < len(parsed):
+            if d is None and j < len(parsed) and isinstance(parsed[j], dict):
                 d = parsed[j]           # positional fallback (batch order)
-            if d is None:
-                continue
+            if not isinstance(d, dict):
+                d = {}
             dec = ScreeningDecision(
                 pmid=spid,
                 title=s.get("title", ""),
                 authors="", year=0,
                 phase1_decision=d.get("phase1_decision", "uncertain"),
-                phase1_reason=d.get("phase1_reason", ""),
+                phase1_reason=d.get("phase1_reason", "") or "auto: no model decision",
             )
             decisions.append(dec)
             append_record(cache_dir, "phase1.jsonl", _decision_to_dict(dec))
