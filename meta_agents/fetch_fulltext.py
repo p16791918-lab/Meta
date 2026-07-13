@@ -152,7 +152,12 @@ def fetch_fulltext(
 
     out: List[Dict] = []
     for s in studies:
-        pmid = str(s.get("pmid", "")).strip()
+        raw_pmid = str(s.get("pmid", "")).strip()
+        # Some Embase records store "12345678; http://.../12345678" — use just
+        # the numeric PMID for file names / lookups so disk caching works and
+        # resumed runs don't re-download.
+        m = re.match(r"\d+", raw_pmid)
+        pmid = m.group() if m else ""
         text, source = (None, None)
 
         if pmid:
