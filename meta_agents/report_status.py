@@ -59,7 +59,7 @@ def _load_overrides(path=OVERRIDES_PATH):
     with open(path, encoding="utf-8") as f:
         for row in csv.DictReader(f):
             dec = (row.get("decision") or "").strip().lower()
-            if dec in ("exclude", "include"):
+            if dec in ("exclude", "include", "narrative"):
                 out.append({
                     "decision": dec,
                     "reason": (row.get("reason") or "").strip(),
@@ -154,7 +154,7 @@ def main():
 
     # ── Apply analyst overrides (manual_decisions.csv) ────────────────────────
     overrides = _load_overrides()
-    manual_ex, manual_inc = {}, {}      # key -> reason
+    manual_ex, manual_inc, manual_narr = {}, {}, {}   # key -> reason
     if overrides:
         for k in advanced:
             ov = _match_override(S.get(k, {}), overrides)
@@ -162,11 +162,14 @@ def main():
                 continue
             if ov["decision"] == "exclude":
                 manual_ex[k] = ov["reason"]
+            elif ov["decision"] == "narrative":
+                manual_narr[k] = ov["reason"]
             else:
                 manual_inc[k] = ov["reason"]
-        # remove analyst-excluded from the automated buckets
-        included = [k for k in included if k not in manual_ex]
-        not_retrieved = [k for k in not_retrieved if k not in manual_ex]
+        moved = set(manual_ex) | set(manual_narr)
+        # analyst-excluded and narrative-only both leave the meta-analysis set
+        included = [k for k in included if k not in moved]
+        not_retrieved = [k for k in not_retrieved if k not in moved]
         excluded = [k for k in excluded if k not in manual_ex]
         # analyst force-includes: ensure present in included, absent elsewhere
         for k in manual_inc:
@@ -178,24 +181,30 @@ def main():
     total_excluded = len(excluded) + len(manual_ex)
 
     print("=" * 60)
-    print(f"  Identified (after dedup) : {len(studies)}")
-    print(f"  Advanced past abstract   : {len(advanced)}")
-    print(f"  Included                 : {len(included)}")
-    print(f"  Excluded                 : {total_excluded}"
+    print(f"  Identified (after dedup)   : {len(studies)}")
+    print(f"  Advanced past abstract     : {len(advanced)}")
+    print(f"  Included (meta-analysis)   : {len(included)}")
+    if manual_narr:
+        print(f"  Included (narrative only)  : {len(manual_narr)}")
+    print(f"  Excluded                   : {total_excluded}"
           + (f"  (incl. {len(manual_ex)} analyst)" if manual_ex else ""))
-    print(f"  Not retrieved (unscreened): {len(not_retrieved)}")
+    print(f"  Not retrieved (unscreened) : {len(not_retrieved)}")
     print("=" * 60)
 
-    if manual_ex or manual_inc:
+    if manual_ex or manual_inc or manual_narr:
         print(f"\n── ANALYST OVERRIDES (manual_decisions.csv) ──")
         for k, reason in manual_ex.items():
             s = S.get(k, {})
-            print(f"   EXCLUDE  {_disp_pmid(s)} | {(s.get('title') or '')[:52]}")
-            print(f"            ↳ {reason[:96]}")
+            print(f"   EXCLUDE    {_disp_pmid(s)} | {(s.get('title') or '')[:50]}")
+            print(f"              ↳ {reason[:94]}")
+        for k, reason in manual_narr.items():
+            s = S.get(k, {})
+            print(f"   NARRATIVE  {_disp_pmid(s)} | {(s.get('title') or '')[:50]}")
+            print(f"              ↳ {reason[:94]}")
         for k, reason in manual_inc.items():
             s = S.get(k, {})
-            print(f"   INCLUDE  {_disp_pmid(s)} | {(s.get('title') or '')[:52]}")
-            print(f"            ↳ {reason[:96]}")
+            print(f"   INCLUDE    {_disp_pmid(s)} | {(s.get('title') or '')[:50]}")
+            print(f"              ↳ {reason[:94]}")
 
     need_pdf = [k for k in included if not _has_fulltext(S.get(k, {}))]
     have_ft = [k for k in included if _has_fulltext(S.get(k, {}))]

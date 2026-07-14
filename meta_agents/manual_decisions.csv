@@ -12,3 +12,4 @@ exclude,"News highlight in Cancer (not original research) summarizing a TNBC stu
 exclude,"JNCI 'Stat bite' — a statistical factoid item, not a primary study",17179475,,"Stat bite Breast cancer in young U.S. women"
 exclude,"Breast Diseases: A Year Book Quarterly digest (secondary reprint/commentary), not a primary study",,10.1016/S1043-321X(09)79313-0,"Age-Related Crossover in Breast Cancer Incidence Rates between Black and White women"
 exclude,"BMJ editorial (b91), not a primary incidence study",19139139,,"Ethnicity influences breast cancer risk diagnosis and treatment"
+narrative,"Eligible primary study (PA Cancer Registry 1985-2004) but abstract gives only direction (white>black) and APC trends — no age-adjusted rates by race or rate ratio/CI; full text unobtainable. Include in review narrative, not in meta-analysis",,10.1089/jwh.2010.2082,"Time Trends and Racial Differences in Female Breast Cancer Incidence in Pennsylvania 1985-2004"
