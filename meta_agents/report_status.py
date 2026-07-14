@@ -71,15 +71,25 @@ def _load_overrides(path=OVERRIDES_PATH):
 
 
 def _match_override(study, overrides):
-    """Return the first override matching this study (by PMID, DOI, or title)."""
+    """Return the first override matching this study.
+
+    Each override matches by its most specific identifier only: a PMID-keyed
+    override matches by PMID, a DOI-keyed one by DOI, and a title-only one by
+    title (exact or prefix). This keeps the readable title on a PMID/DOI-keyed
+    row from ever false-matching a different study.
+    """
     spmid = _num_pmid(study.get("pmid"))
     sdoi = _norm(study.get("doi"))
     stitle = _norm(study.get("title"))
     for ov in overrides:
-        if ov["pmid"] and spmid and ov["pmid"] == spmid:
-            return ov
-        if ov["doi"] and sdoi and ov["doi"] == sdoi:
-            return ov
+        if ov["pmid"]:
+            if spmid and ov["pmid"] == spmid:
+                return ov
+            continue
+        if ov["doi"]:
+            if sdoi and ov["doi"] == sdoi:
+                return ov
+            continue
         t = ov["title"]
         if t and len(t) >= 20 and stitle and (stitle == t
                                               or stitle.startswith(t)
