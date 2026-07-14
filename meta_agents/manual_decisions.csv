@@ -1,0 +1,2 @@
+decision,reason,pmid,doi,title
+exclude,"Conference abstract (SABCS 2024, Clin Cancer Res suppl); reports ILC subtype incidence by race only (not overall invasive BC), relative differences without CI — not usable for quantitative synthesis",,,"Evaluating the impact of race, ethnicity, and neighborhood-level socioeconomic factors on invasive lobular carcinoma incidence and survival in the United States"

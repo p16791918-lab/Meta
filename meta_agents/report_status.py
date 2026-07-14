@@ -16,6 +16,7 @@ no-PMID Embase record onto the single key "" and badly undercount both the
 "advanced" and "included" tallies (this used to make the report disagree with
 the orchestrator's own PRISMA numbers).
 """
+import csv
 import glob
 import hashlib
 import json
@@ -25,14 +26,66 @@ import sys
 
 from cache_utils import file_key
 
+# Analyst decisions that override the automated screening (e.g. a paper the
+# pipeline marked "include" on its abstract but which, on closer reading, is a
+# conference abstract / wrong subtype / has no usable data). Lives in the repo
+# so it travels to the Codespace on `git pull`. See _load_overrides.
+OVERRIDES_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                              "manual_decisions.csv")
+
+
+def _norm(t) -> str:
+    return re.sub(r"\W+", " ", str(t or "").lower()).strip()
+
+
+def _num_pmid(raw) -> str:
+    m = re.match(r"\d+", str(raw or "").strip())
+    return m.group() if m else ""
+
 
 def _key(rec) -> str:
     """PMID if present, else a title hash — matches agent_2_screening._rec_key."""
     pmid = str(rec.get("pmid", "")).strip()
     if pmid:
         return pmid
-    title = re.sub(r"\W+", " ", str(rec.get("title", "")).lower()).strip()
-    return "T:" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:12]
+    return "T:" + hashlib.sha1(_norm(rec.get("title", "")).encode("utf-8")).hexdigest()[:12]
+
+
+def _load_overrides(path=OVERRIDES_PATH):
+    """Load analyst decisions: list of {decision, reason, pmid, doi, title}."""
+    if not os.path.exists(path):
+        return []
+    out = []
+    with open(path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            dec = (row.get("decision") or "").strip().lower()
+            if dec in ("exclude", "include"):
+                out.append({
+                    "decision": dec,
+                    "reason": (row.get("reason") or "").strip(),
+                    "pmid": _num_pmid(row.get("pmid")),
+                    "doi": _norm(row.get("doi")),
+                    "title": _norm(row.get("title")),
+                })
+    return out
+
+
+def _match_override(study, overrides):
+    """Return the first override matching this study (by PMID, DOI, or title)."""
+    spmid = _num_pmid(study.get("pmid"))
+    sdoi = _norm(study.get("doi"))
+    stitle = _norm(study.get("title"))
+    for ov in overrides:
+        if ov["pmid"] and spmid and ov["pmid"] == spmid:
+            return ov
+        if ov["doi"] and sdoi and ov["doi"] == sdoi:
+            return ov
+        t = ov["title"]
+        if t and len(t) >= 20 and stitle and (stitle == t
+                                              or stitle.startswith(t)
+                                              or t.startswith(stitle)):
+            return ov
+    return None
 
 
 def _load_jsonl(path):
@@ -89,13 +142,50 @@ def main():
     # advanced but never full-text screened (no full text AND no abstract): not in p2
     not_retrieved = [k for k in advanced if k not in p2_by]
 
+    # ── Apply analyst overrides (manual_decisions.csv) ────────────────────────
+    overrides = _load_overrides()
+    manual_ex, manual_inc = {}, {}      # key -> reason
+    if overrides:
+        for k in advanced:
+            ov = _match_override(S.get(k, {}), overrides)
+            if not ov:
+                continue
+            if ov["decision"] == "exclude":
+                manual_ex[k] = ov["reason"]
+            else:
+                manual_inc[k] = ov["reason"]
+        # remove analyst-excluded from the automated buckets
+        included = [k for k in included if k not in manual_ex]
+        not_retrieved = [k for k in not_retrieved if k not in manual_ex]
+        excluded = [k for k in excluded if k not in manual_ex]
+        # analyst force-includes: ensure present in included, absent elsewhere
+        for k in manual_inc:
+            if k not in included:
+                included.append(k)
+        not_retrieved = [k for k in not_retrieved if k not in manual_inc]
+        excluded = [k for k in excluded if k not in manual_inc]
+
+    total_excluded = len(excluded) + len(manual_ex)
+
     print("=" * 60)
     print(f"  Identified (after dedup) : {len(studies)}")
     print(f"  Advanced past abstract   : {len(advanced)}")
     print(f"  Included                 : {len(included)}")
-    print(f"  Excluded                 : {len(excluded)}")
+    print(f"  Excluded                 : {total_excluded}"
+          + (f"  (incl. {len(manual_ex)} analyst)" if manual_ex else ""))
     print(f"  Not retrieved (unscreened): {len(not_retrieved)}")
     print("=" * 60)
+
+    if manual_ex or manual_inc:
+        print(f"\n── ANALYST OVERRIDES (manual_decisions.csv) ──")
+        for k, reason in manual_ex.items():
+            s = S.get(k, {})
+            print(f"   EXCLUDE  {_disp_pmid(s)} | {(s.get('title') or '')[:52]}")
+            print(f"            ↳ {reason[:96]}")
+        for k, reason in manual_inc.items():
+            s = S.get(k, {})
+            print(f"   INCLUDE  {_disp_pmid(s)} | {(s.get('title') or '')[:52]}")
+            print(f"            ↳ {reason[:96]}")
 
     need_pdf = [k for k in included if not _has_fulltext(S.get(k, {}))]
     have_ft = [k for k in included if _has_fulltext(S.get(k, {}))]
