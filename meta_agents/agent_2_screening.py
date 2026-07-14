@@ -40,6 +40,15 @@ def _rec_key(r: dict) -> str:
     return "T:" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:12]
 
 
+def _dec_key(d: ScreeningDecision) -> str:
+    """Same key, from a ScreeningDecision object (pmid or title hash)."""
+    pmid = str(d.pmid).strip()
+    if pmid:
+        return pmid
+    title = re.sub(r"\W+", " ", str(d.title).lower()).strip()
+    return "T:" + hashlib.sha1(title.encode("utf-8")).hexdigest()[:12]
+
+
 def _load_cache(cache_dir: Optional[str], name: str) -> Dict[str, dict]:
     """Load a .jsonl decision cache keyed by _rec_key (PMID or title hash)."""
     done: Dict[str, dict] = {}
@@ -472,12 +481,12 @@ def run_screening_2stage(
     # ── Phase 1: abstract ──────────────────────────────────────────────────
     p1 = screen_phase1(studies, pico, inclusion_criteria, exclusion_criteria,
                        cache_dir=cache_dir)
-    p1_by_pmid = {d.pmid: d for d in p1}
+    p1_by_key = {_dec_key(d): d for d in p1}
 
     advanced = [
         s for s in studies
-        if p1_by_pmid.get(str(s.get("pmid", "")))
-        and p1_by_pmid[str(s.get("pmid", ""))].phase1_decision != "exclude"
+        if p1_by_key.get(_study_key(s))
+        and p1_by_key[_study_key(s)].phase1_decision != "exclude"
     ]
 
     # ── Full-text retrieval (survivors only) ───────────────────────────────
@@ -486,14 +495,14 @@ def run_screening_2stage(
     # ── Phase 2: full text ─────────────────────────────────────────────────
     p2 = screen_phase2(retrieval, pico, inclusion_criteria, exclusion_criteria,
                         rob_tool, allow_abstract_fallback, cache_dir=cache_dir)
-    p2_by_pmid = {d.pmid: d for d in p2}
+    p2_by_key = {_dec_key(d): d for d in p2}
 
     # ── Merge decisions (carry Phase 1 result into every record) ───────────
     decisions: List[ScreeningDecision] = []
     for s in studies:
-        pmid = str(s.get("pmid", ""))
-        d1 = p1_by_pmid.get(pmid)
-        d2 = p2_by_pmid.get(pmid)
+        key = _study_key(s)
+        d1 = p1_by_key.get(key)
+        d2 = p2_by_key.get(key)
         if d2 is not None:
             decisions.append(d2)
         elif d1 is not None:
@@ -512,8 +521,8 @@ def run_screening_2stage(
         for lvl in ("low", "moderate", "high", "critical")
     }
 
-    included_pmids = {d.pmid for d in p2 if d.phase2_decision == "include"}
-    included_fulltext = [s for s in retrieval if str(s.get("pmid", "")) in included_pmids]
+    included_keys = {_dec_key(d) for d in p2 if d.phase2_decision == "include"}
+    included_fulltext = [s for s in retrieval if _study_key(s) in included_keys]
 
     print(f"[Agent 2] ✓ Two-stage screening complete")
     print(f"  ▸ Phase 1 excluded:        {phase1_excluded}")
