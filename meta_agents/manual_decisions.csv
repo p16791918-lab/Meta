@@ -1,3 +1,5 @@
 decision,reason,pmid,doi,title
 exclude,"Conference abstract (SABCS 2024, Clin Cancer Res suppl); reports ILC subtype incidence by race only (not overall invasive BC), relative differences without CI — not usable for quantitative synthesis",,,"Evaluating the impact of race, ethnicity, and neighborhood-level socioeconomic factors on invasive lobular carcinoma incidence and survival in the United States"
 exclude,"News/commentary article (JNCI News section), not a primary study; cites SEER incidence (Black 99.3, White 113.2/100k) secondhand with no methods, person-years, or CI — not usable for quantitative synthesis",10716956,,"Inner-city mammography programs aim to make breast cancer a visible disease"
+exclude,"Editorial/commentary ('A Clarion Call to Action'), not a primary incidence study; also unobtainable",27045151,,"Early Breast Cancer Screening for African-American Women A Clarion Call to Action"
+exclude,"News article (MDedge) reporting on a CDC release, not a primary study — secondhand, no methods or CI",,,"CDC Cancer incidence and survival improve racial disparities persist"
