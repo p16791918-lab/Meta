@@ -23,6 +23,8 @@ import os
 import re
 import sys
 
+from cache_utils import file_key
+
 
 def _key(rec) -> str:
     """PMID if present, else a title hash — matches agent_2_screening._rec_key."""
@@ -39,14 +41,12 @@ def _load_jsonl(path):
     return [json.loads(l) for l in open(path, encoding="utf-8") if l.strip()]
 
 
-def _has_fulltext(pmid, fulltext_dir="fulltext"):
-    """True only for a real numeric PMID with a local .txt/.pdf on disk.
-    No-PMID records (key 'T:...') never match, so they surface as need-PDF."""
-    pmid = str(pmid).strip()
-    if not pmid or pmid.startswith("T:"):
-        return False
-    return (os.path.exists(os.path.join(fulltext_dir, pmid + ".txt"))
-            or os.path.exists(os.path.join(fulltext_dir, pmid + ".pdf")))
+def _has_fulltext(s, fulltext_dir="fulltext"):
+    """True if this study's local .txt/.pdf exists, by its filesystem key
+    (numeric PMID, or 'T_<hash>' for no-PMID papers)."""
+    fk = file_key(s.get("pmid", ""), s.get("title", ""))
+    return (os.path.exists(os.path.join(fulltext_dir, fk + ".txt"))
+            or os.path.exists(os.path.join(fulltext_dir, fk + ".pdf")))
 
 
 def _disp_pmid(s) -> str:
@@ -97,8 +97,8 @@ def main():
     print(f"  Not retrieved (unscreened): {len(not_retrieved)}")
     print("=" * 60)
 
-    need_pdf = [k for k in included if not _has_fulltext(k)]
-    have_ft = [k for k in included if _has_fulltext(k)]
+    need_pdf = [k for k in included if not _has_fulltext(S.get(k, {}))]
+    have_ft = [k for k in included if _has_fulltext(S.get(k, {}))]
 
     print(f"\n── INCLUDED with full text ({len(have_ft)}) — nothing to do ──")
     for k in have_ft:
@@ -108,7 +108,9 @@ def main():
     print(f"\n── ★ INCLUDED but NEED A PDF ({len(need_pdf)}) — get these for extraction ──")
     for k in need_pdf:
         s = S.get(k, {})
-        print(f"   {_disp_pmid(s)} | {(s.get('title') or '')[:64]} | DOI: {s.get('doi', '') or '-'}")
+        fk = file_key(s.get("pmid", ""), s.get("title", ""))
+        print(f"   {_disp_pmid(s)} | {(s.get('title') or '')[:60]} | DOI: {s.get('doi', '') or '-'}")
+        print(f"       → save as: fulltext/{fk}.pdf")
 
     print(f"\n── NOT RETRIEVED ({len(not_retrieved)}) — get these to classify (no abstract) ──")
     for k in not_retrieved:

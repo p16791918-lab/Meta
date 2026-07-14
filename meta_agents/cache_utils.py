@@ -14,6 +14,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 from typing import Dict, List, Optional
 
 
@@ -21,6 +22,23 @@ def run_key(*parts) -> str:
     """Short stable hash identifying a specific review configuration."""
     blob = "||".join(str(p) for p in parts)
     return hashlib.sha1(blob.encode("utf-8")).hexdigest()[:12]
+
+
+def file_key(pmid, title: str = "") -> str:
+    """Filesystem-safe key for naming a study's local full-text file.
+
+    Numeric PMID when present, else 'T_' + a title hash. This mirrors the
+    pipeline's internal study key ('T:' + the same hash) but with a
+    filename-safe separator, so no-PMID records (Embase-only papers,
+    conference abstracts) can still be dropped in as  fulltext/<file_key>.pdf
+    and be picked up on the next run.
+    """
+    raw = str(pmid or "").strip()
+    m = re.match(r"\d+", raw)
+    if m:
+        return m.group()
+    t = re.sub(r"\W+", " ", str(title).lower()).strip()
+    return "T_" + hashlib.sha1(t.encode("utf-8")).hexdigest()[:12]
 
 
 def cache_dir_for(base: str, key: str) -> str:

@@ -24,7 +24,7 @@ from agent_2_screening import run_screening_2stage, generate_prisma_text
 from agent_3_extraction import extract_data, to_r_dataframe
 from fetch_fulltext import write_retrieval_report
 from merge_sources import merge_sources
-from cache_utils import run_key, cache_dir_for, load_json, save_json
+from cache_utils import run_key, cache_dir_for, load_json, save_json, file_key
 from agent_4_analysis import run_analysis_agent, save_r_script
 from agent_5_writer import write_full_manuscript, compile_manuscript
 
@@ -289,9 +289,10 @@ def run_meta_analysis(
         w.writerow(["reason", "pmid", "title", "year", "journal", "doi", "save_as"])
         for reason, s in to_obtain:
             pmid = str(s.get("pmid", "")).strip()
+            fkey = file_key(pmid, s.get("title", ""))
             w.writerow([reason, pmid, s.get("title", ""), s.get("year", ""),
                         s.get("journal", ""), s.get("doi", ""),
-                        f"fulltext/{pmid}.pdf" if pmid else "fulltext/<no PMID — see DOI>.pdf"])
+                        f"fulltext/{fkey}.pdf"])
 
     if to_obtain:
         print("\n" + "=" * 64)
@@ -299,8 +300,10 @@ def run_meta_analysis(
         print("=" * 64)
         for reason, s in to_obtain:
             pmid = str(s.get("pmid", "")).strip() or "(no PMID)"
+            fkey = file_key(s.get("pmid", ""), s.get("title", ""))
             print(f"  [{reason}]")
             print(f"     {pmid} | {(s.get('title') or '')[:66]}")
+            print(f"     → save as: fulltext/{fkey}.pdf")
         print("-" * 64)
         print(f"  Full list : {output_dir}/papers_to_obtain.csv")
         print(f"  Next      : download each PDF → save as {fulltext_dir}/<PMID>.pdf → re-run")

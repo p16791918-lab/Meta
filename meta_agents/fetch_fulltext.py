@@ -20,6 +20,8 @@ import re
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
+from cache_utils import file_key
+
 # Cap on how much full text to keep (chars). Long enough for methods/results,
 # short enough to stay within a single claude CLI call.
 MAX_FULLTEXT_CHARS = 40000
@@ -158,17 +160,19 @@ def fetch_fulltext(
         # resumed runs don't re-download.
         m = re.match(r"\d+", raw_pmid)
         pmid = m.group() if m else ""
+        # Filesystem key: numeric PMID, else a title-hash ('T_...') so a no-PMID
+        # paper dropped in as  fulltext/<file_key>.pdf  is still found here.
+        fkey = file_key(raw_pmid, s.get("title", ""))
         text, source = (None, None)
 
-        if pmid:
-            text, source = _read_local(pmid, fulltext_dir)
+        text, source = _read_local(fkey, fulltext_dir)
         if text is None and use_pmc and pmid:
             text, source = _fetch_pmc(pmid, ncbi_email, ncbi_api_key)
             if text:
                 # Cache the fetched OA text to disk so a resumed run does not
                 # re-download it (the retrieval step is slow, not token-costed).
                 try:
-                    Path(fulltext_dir, f"{pmid}.txt").write_text(text, encoding="utf-8")
+                    Path(fulltext_dir, f"{fkey}.txt").write_text(text, encoding="utf-8")
                 except OSError:
                     pass
 
@@ -179,7 +183,7 @@ def fetch_fulltext(
         s2["fulltext"] = text
         s2["fulltext_source"] = source
         out.append(s2)
-        print(f"[FullText]  PMID {pmid or '—'}: {source or 'NOT RETRIEVED'}")
+        print(f"[FullText]  {fkey}: {source or 'NOT RETRIEVED'}")
 
     n_ok = sum(1 for s in out if s["fulltext_source"])
     print(f"[FullText] ✓ {n_ok}/{len(out)} with full text | "
@@ -199,12 +203,13 @@ def write_retrieval_report(studies: List[Dict], path: str) -> int:
         w.writerow(["pmid", "title", "year", "journal", "action", "save_as"])
         for s in need:
             pmid = str(s.get("pmid", "")).strip()
+            fkey = file_key(pmid, s.get("title", ""))
             w.writerow([
                 pmid,
                 s.get("title", ""),
                 s.get("year", ""),
                 s.get("journal", ""),
                 "Download PDF via institutional (school) access",
-                f"fulltext/{pmid or 'UNKNOWN'}.pdf",
+                f"fulltext/{fkey}.pdf",
             ])
     return len(need)
