@@ -119,6 +119,28 @@ def _fetch_pmc(pmid: str, email: Optional[str],
     return None, None
 
 
+def _title_matches(title: str, text: str, min_ratio: float = 0.55) -> bool:
+    """Guard against the PMC fetch returning the WRONG article.
+
+    A correct full text should contain most of the study's title words. If fewer
+    than `min_ratio` of the title's significant words appear in the retrieved
+    text, treat it as a mismatch (wrong/duplicated article) and reject it. This
+    is what prevents the earlier corruption (same article cached under many
+    PMIDs) from ever being used again, regardless of the root cause.
+    """
+    if not title:
+        return True  # nothing to verify against
+    stop = {"the", "and", "for", "with", "among", "from", "cancer", "breast",
+            "study", "women", "united", "states", "incidence", "rates", "rate",
+            "trends", "analysis", "a", "an", "of", "in", "by", "to", "on"}
+    words = [w for w in re.findall(r"[a-z]{4,}", title.lower()) if w not in stop]
+    if len(words) < 3:
+        return True  # too few distinctive words to judge; don't reject
+    low = text.lower()
+    hits = sum(1 for w in set(words) if w in low)
+    return hits / len(set(words)) >= min_ratio
+
+
 def _xml_to_text(xml: str) -> str:
     """Crudely strip a PMC JATS XML document down to readable body text."""
     m = re.search(r"<body[ >].*?</body>", xml, flags=re.S)
@@ -168,6 +190,14 @@ def fetch_fulltext(
         text, source = _read_local(fkey, fulltext_dir)
         if text is None and use_pmc and pmid:
             text, source = _fetch_pmc(pmid, ncbi_email, ncbi_api_key)
+            if text and not _title_matches(str(s.get("title", "")), text):
+                # Retrieved article does not match this study's title — the PMC
+                # fetch returned the wrong/duplicated paper. Reject it so the
+                # study falls back to abstract screening instead of being
+                # screened/extracted on someone else's full text.
+                print(f"[FullText]  ⚠ PMC content mismatch for {fkey} "
+                      f"('{str(s.get('title',''))[:50]}') — rejected")
+                text, source = None, None
             if text:
                 # Cache the fetched OA text to disk so a resumed run does not
                 # re-download it (the retrieval step is slow, not token-costed).
