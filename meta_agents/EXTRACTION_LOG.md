@@ -40,6 +40,28 @@ Ghana/GBHS 84.4 excluded (foreign population).
 Hispanic 14.7, AIAN 14.7, Asian ~12. Black vs White TNBC **IRR 1.93 (1.88–1.97)**.
 (Hispanic/Asian/AIAN vs White IRRs available in the paper — CIs still to pull.)
 
+## Data-inclusion framework (DECIDED)
+
+Hybrid (Cochrane-style). "Strict" means *extract the comparable number from each
+study*, not drop studies:
+- **Primary pool**: whole-age (or widest adult age) age-adjusted invasive
+  incidence, aggregate race categories (Black / Hispanic / Asian / AIAN vs NHW),
+  US population registries. Pull each study's most comparable rate.
+- **Secondary / sensitivity / subgroup**: age-restricted (e.g. <50), Asian
+  ethnic subgroups (Japanese/Filipino/Chinese…), single-state (Hawaii, CA),
+  international (England). Not dropped — moved to their own strata.
+- Random-effects (DL) handles residual heterogeneity.
+- Sparse comparisons (e.g. AIAN — few source studies) are reported as such, not
+  forced.
+
+Extraction tooling confirmed working in this env: pdfplumber (tables) and
+pypdfium2 page-render → Read (figures).
+
+## 36504334 (Hawaii) — read (age<50 panel, 2010–2014 AAIR /100k)
+Japanese American 52.0 (45.6–58.9); NHW 39.8 (34.8–45.1); Native Hawaiian
+33.2 (28.7–38.1); Filipino 31.7 (27.4–36.4). → SECONDARY (Hawaii, age<50,
+Asian subgroups). All-ages aggregate (Table 2) still to pull if present.
+
 ## Open decisions (for "publication-grade" discussion)
 - **US-only vs international?** 39822259 is England (UK ethnic categories:
   white / Black African / Black Caribbean / South Asian). Mixing with US
