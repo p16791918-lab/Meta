@@ -145,6 +145,19 @@ STUDIES: List[Study] = [
           se_from_rates(127.3, 186.5, py_minority=798_000, py_nhw=89_600_000),
           minority_rate=127.3, nhw_rate=186.5, notes="USCS 2018; SE Poisson-approx"),
 
+    # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
+    #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
+    #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
+    #    135.9 (129.6–142.4); foreign-born Asian aggregate 78.5 (76.6–80.4).
+    #    Primary point = person-year-weighted combined Asian 96.4 vs NHW 145.6
+    #    (cases: Asian 1804+6858=8662, NHW 76 235). Nativity strata kept for a
+    #    secondary analysis.
+    Study("Gomez2010_20147696", 2010, "California CR", "invasive_incidence", "Asian",
+          irr_from_rates(96.4, 145.6),
+          se_from_rates(96.4, 145.6, py_minority=8_985_000, py_nhw=52_360_000),
+          minority_rate=96.4, nhw_rate=145.6,
+          notes="CA 2000-2004; derived PY-weighted US-born+foreign-born Asian; age-adj 2000 std"),
+
     # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
     #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
     #    per 100,000: Black 33.8, White 17.5, Hispanic 14.7, AIAN 14.7, Asian ~12.

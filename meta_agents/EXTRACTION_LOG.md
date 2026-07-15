@@ -77,3 +77,20 @@ Asian subgroups). All-ages aggregate (Table 2) still to pull if present.
 - Verify T_101456b59470 has a NHW breast reference.
 - Extract the 8 incoming PDFs.
 - Need ≥2 studies per comparison before any forest plot renders.
+
+
+## Progress update (extraction ongoing)
+Pooled so far (random-effects):
+- **Black vs NHW = 0.952 (0.915-0.990)**, p=0.014 — 41082230 + MMWR
+- **Asian vs NHW = 0.714 (0.616-0.827)**, p<0.001 — MMWR(A/PI) + Gomez 20147696
+- Hispanic vs NHW: MMWR only (need 2nd) ; AIAN vs NHW: MMWR only (need 2nd)
+- TNBC Black vs White: T_e7879b363303 (1)
+
+Gomez 20147696 (CA CR 1988-2004, Table 2, age-adj 2000 std): NHW 145.6
+(144.6-146.7); US-born Asian 135.9 (129.6-142.4); foreign-born Asian 78.5
+(76.6-80.4). Nativity strata available for a secondary analysis.
+
+Re-screen recovered 12 studies (were wrongly excluded on corrupted full text) —
+need PDFs: 21351091 39853979 23446808 21301957 15986118 29982593 25214237
+33074325 26513636 21473509 31764279 28365834. These fill Hispanic/AIAN + add
+Black/Asian.

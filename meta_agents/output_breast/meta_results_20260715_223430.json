@@ -1,0 +1,30 @@
+{
+  "Invasive BC Incidence \u2014 Black vs NHW": {
+    "k": 2,
+    "irr": 0.952,
+    "ci_low": 0.915,
+    "ci_high": 0.99,
+    "pi_low": 0.89,
+    "pi_high": 1.017,
+    "I2": 92.9,
+    "tau2": 0.0007,
+    "Q": 14.05,
+    "Q_df": 1,
+    "p_Q": 0.0002,
+    "p_effect": 0.013797
+  },
+  "Invasive BC Incidence \u2014 Asian vs NHW": {
+    "k": 2,
+    "irr": 0.714,
+    "ci_low": 0.616,
+    "ci_high": 0.827,
+    "pi_low": 0.554,
+    "pi_high": 0.92,
+    "I2": 98.8,
+    "tau2": 0.0112,
+    "Q": 83.09,
+    "Q_df": 1,
+    "p_Q": -0.0,
+    "p_effect": 7e-06
+  }
+}
