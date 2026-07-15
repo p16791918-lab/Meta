@@ -122,6 +122,15 @@ STUDIES: List[Study] = [
           minority_rate=148.5, nhw_rate=152.9,
           notes="SEER17 2013-2015, age-std Segi world, 20-74y; full-text Table 2"),
 
+    # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
+    #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
+    #    per 100,000: Black 33.8, White 17.5, Hispanic 14.7, AIAN 14.7, Asian ~12.
+    #    Black vs White TNBC IRR 1.93 (1.88–1.97). SUBTYPE stratum (not primary).
+    Study("TNBC_Te7879b3", 2023, "SEER/USCS", "tnbc_incidence", "Black",
+          math.log(1.93), se_from_ci(1.93, 1.88, 1.97),
+          minority_rate=33.8, nhw_rate=17.5,
+          notes="TNBC subtype; Black vs White IRR 1.93 (1.88-1.97); full-text; citation TBD"),
+
 ]
 
 
