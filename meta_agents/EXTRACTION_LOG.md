@@ -94,3 +94,20 @@ Re-screen recovered 12 studies (were wrongly excluded on corrupted full text) �
 need PDFs: 21351091 39853979 23446808 21301957 15986118 29982593 25214237
 33074325 26513636 21473509 31764279 28365834. These fill Hispanic/AIAN + add
 Black/Asian.
+
+
+## 34861613 (Du & Song 2022, SEER) — comprehensive
+Table 2 (age-adj 2000 std, per 100k) 2012-2018: NHW 190.5 (189.8-191.2);
+NHB 183.1 (181.5-184.8); NHAPI 149.2 (147.7-150.7); AIAN 139.9 (134.5-145.5);
+Hispanic 137.0 (135.9-138.2). -> all 4 comparisons.
+Table 3 HR status (2000-2018): HR-neg NHAPI 22.3, NHW 28.0, NHB 46.5, AIAN 21.9,
+Hispanic 23.3; HR-pos NHAPI 109.5, NHW 146.6, NHB 114.1, AIAN 96.5, Hispanic 97.7.
+=> subtype x race data available.
+
+## All-4 pooled (illustrates the OVERLAP problem)
+Black 0.955 (0.934-0.976) k=3 I2=88% | Hispanic 0.719 (0.713-0.725) k=2 I2=0%
+| Asian 0.736 (0.666-0.814) k=3 I2=99% | AIAN 0.711 (0.662-0.763) k=2 I2=74%.
+Hispanic I2=0% because MMWR & DuSong are the SAME SEER data (0.719 vs 0.719) —
+concrete evidence that pooling overlapping registry analyses is circular.
+DECISION PENDING (after full charting): overall-pool (redundant w/ SEER) vs
+disaggregated subgroups/subtype (novel) vs narrative synthesis.

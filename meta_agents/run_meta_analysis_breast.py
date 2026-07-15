@@ -145,6 +145,28 @@ STUDIES: List[Study] = [
           se_from_rates(127.3, 186.5, py_minority=798_000, py_nhw=89_600_000),
           minority_rate=127.3, nhw_rate=186.5, notes="USCS 2018; SE Poisson-approx"),
 
+    # ── 34861613 — Du & Song, Cancer Epidemiology 2022. SEER age-adjusted
+    #    incidence per 100,000 (2000 US std), Table 2, period 2012–2018:
+    #    NHW 190.5 (189.8–191.2); NHB 183.1 (181.5–184.8); NHAPI 149.2
+    #    (147.7–150.7); AIAN 139.9 (134.5–145.5); Hispanic 137.0 (135.9–138.2).
+    #    NOTE: SEER-based → overlaps MMWR/USCS (non-independence to handle).
+    Study("DuSong2022_34861613", 2022, "SEER", "invasive_incidence", "Black",
+          irr_from_rates(183.1, 190.5),
+          se_logirr_from_rate_cis(183.1, 181.5, 184.8, 190.5, 189.8, 191.2),
+          minority_rate=183.1, nhw_rate=190.5, notes="SEER 2012-2018, Table 2"),
+    Study("DuSong2022_34861613", 2022, "SEER", "invasive_incidence", "Hispanic",
+          irr_from_rates(137.0, 190.5),
+          se_logirr_from_rate_cis(137.0, 135.9, 138.2, 190.5, 189.8, 191.2),
+          minority_rate=137.0, nhw_rate=190.5, notes="SEER 2012-2018, Table 2"),
+    Study("DuSong2022_34861613", 2022, "SEER", "invasive_incidence", "Asian",
+          irr_from_rates(149.2, 190.5),
+          se_logirr_from_rate_cis(149.2, 147.7, 150.7, 190.5, 189.8, 191.2),
+          minority_rate=149.2, nhw_rate=190.5, notes="SEER 2012-2018 NHAPI, Table 2"),
+    Study("DuSong2022_34861613", 2022, "SEER", "invasive_incidence", "AIAN",
+          irr_from_rates(139.9, 190.5),
+          se_logirr_from_rate_cis(139.9, 134.5, 145.5, 190.5, 189.8, 191.2),
+          minority_rate=139.9, nhw_rate=190.5, notes="SEER 2012-2018, Table 2"),
+
     # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
     #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
     #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
