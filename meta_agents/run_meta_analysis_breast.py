@@ -89,6 +89,16 @@ def irr_from_rates(r_minority, r_nhw):
     return math.log(r_minority / r_nhw)
 
 
+def se_logirr_from_rate_cis(r_m, lo_m, hi_m, r_n, lo_n, hi_n):
+    """SE of log(IRR) when the paper gives a 95% CI for EACH rate (not the IRR).
+    Treats the two age-standardized rates as independent:
+       SE(log r) = (ln hi - ln lo) / (2*1.96);  SE(log IRR) = sqrt(SE_m^2 + SE_n^2).
+    """
+    se_m = (math.log(hi_m) - math.log(lo_m)) / (2 * 1.96)
+    se_n = (math.log(hi_n) - math.log(lo_n)) / (2 * 1.96)
+    return math.sqrt(se_m ** 2 + se_n ** 2)
+
+
 # ─── Dataset — FILL FROM FULL-TEXT EXTRACTION ────────────────────────────────
 # Populate one Study(...) per minority-vs-NHW comparison. Prefer se_from_ci when
 # the paper reports a 95% CI for the rate ratio; fall back to se_from_rates only
@@ -100,7 +110,18 @@ def irr_from_rates(r_minority, r_nhw):
 #         minority_rate=126.0, nhw_rate=133.0, notes="SEER 2015-2019, age-adj"),
 
 STUDIES: List[Study] = [
-    # (awaiting full-text extraction of included studies)
+
+    # ── 41082230 — "Breast Cancer Incidence Rates in Ghanaian and US Black
+    #    Women From 2013 to 2017" (SEER 17). Full-text Table 2, age-standardized
+    #    (Segi world std), women 20–74, 2013–2015 (US SEER comparison window).
+    #    NHB 148.5 (146.4–150.7); NHW 152.9 (151.9–153.8) per 100,000.
+    #    (Ghana/GBHS 84.4 excluded — a foreign population, not a US racial minority.)
+    Study("PMID41082230", 2024, "SEER 17", "invasive_incidence", "Black",
+          irr_from_rates(148.5, 152.9),
+          se_logirr_from_rate_cis(148.5, 146.4, 150.7, 152.9, 151.9, 153.8),
+          minority_rate=148.5, nhw_rate=152.9,
+          notes="SEER17 2013-2015, age-std Segi world, 20-74y; full-text Table 2"),
+
 ]
 
 
