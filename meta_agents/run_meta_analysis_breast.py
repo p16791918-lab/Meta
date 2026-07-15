@@ -122,6 +122,29 @@ STUDIES: List[Study] = [
           minority_rate=148.5, nhw_rate=152.9,
           notes="SEER17 2013-2015, age-std Segi world, 20-74y; full-text Table 2"),
 
+    # ── 35025856 — Ellington et al., MMWR 2022 "Trends in Breast Cancer
+    #    Incidence, by Race, Ethnicity, and Age — United States, 1999–2018"
+    #    (USCS = SEER+NPCR, ~99% of US pop). Age-adjusted rates per 100,000,
+    #    year 2018 (Table). NHW 186.5; NHB 174.0; Hispanic 134.0; A/PI 143.5;
+    #    AI/AN 127.3. No rate CIs in source → SE is Poisson-approx from
+    #    annualized national case counts (rates are extremely stable, ~99% cover).
+    Study("MMWR2022_35025856", 2022, "USCS", "invasive_incidence", "Black",
+          irr_from_rates(174.0, 186.5),
+          se_from_rates(174.0, 186.5, py_minority=12_980_000, py_nhw=89_600_000),
+          minority_rate=174.0, nhw_rate=186.5, notes="USCS 2018; SE Poisson-approx"),
+    Study("MMWR2022_35025856", 2022, "USCS", "invasive_incidence", "Hispanic",
+          irr_from_rates(134.0, 186.5),
+          se_from_rates(134.0, 186.5, py_minority=11_380_000, py_nhw=89_600_000),
+          minority_rate=134.0, nhw_rate=186.5, notes="USCS 2018; SE Poisson-approx"),
+    Study("MMWR2022_35025856", 2022, "USCS", "invasive_incidence", "Asian",
+          irr_from_rates(143.5, 186.5),
+          se_from_rates(143.5, 186.5, py_minority=5_080_000, py_nhw=89_600_000),
+          minority_rate=143.5, nhw_rate=186.5, notes="USCS 2018 A/PI (incl. PI); SE Poisson-approx"),
+    Study("MMWR2022_35025856", 2022, "USCS", "invasive_incidence", "AIAN",
+          irr_from_rates(127.3, 186.5),
+          se_from_rates(127.3, 186.5, py_minority=798_000, py_nhw=89_600_000),
+          minority_rate=127.3, nhw_rate=186.5, notes="USCS 2018; SE Poisson-approx"),
+
     # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
     #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
     #    per 100,000: Black 33.8, White 17.5, Hispanic 14.7, AIAN 14.7, Asian ~12.
