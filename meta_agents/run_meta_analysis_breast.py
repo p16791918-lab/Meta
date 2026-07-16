@@ -166,6 +166,33 @@ STUDIES: List[Study] = [
           irr_from_rates(139.9, 190.5),
           se_logirr_from_rate_cis(139.9, 134.5, 145.5, 190.5, 189.8, 191.2),
           minority_rate=139.9, nhw_rate=190.5, notes="SEER 2012-2018, Table 2"),
+    # DuSong Table 3 — subtype by HR status (age-adj rates 2000-2018, per 100k)
+    # HR-negative (aggressive): NHW 28.0; NHB 46.5; NHAPI 22.3; AIAN 21.9; Hisp 23.3
+    Study("DuSong2022_34861613", 2022, "SEER", "hrneg_incidence", "Black",
+          irr_from_rates(46.5, 28.0), se_logirr_from_rate_cis(46.5,46.0,47.1, 28.0,27.9,28.2),
+          minority_rate=46.5, nhw_rate=28.0, notes="SEER HR-negative, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrneg_incidence", "Hispanic",
+          irr_from_rates(23.3, 28.0), se_logirr_from_rate_cis(23.3,22.9,23.6, 28.0,27.9,28.2),
+          minority_rate=23.3, nhw_rate=28.0, notes="SEER HR-negative, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrneg_incidence", "Asian",
+          irr_from_rates(22.3, 28.0), se_logirr_from_rate_cis(22.3,21.9,22.7, 28.0,27.9,28.2),
+          minority_rate=22.3, nhw_rate=28.0, notes="SEER HR-negative NHAPI, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrneg_incidence", "AIAN",
+          irr_from_rates(21.9, 28.0), se_logirr_from_rate_cis(21.9,20.5,23.3, 28.0,27.9,28.2),
+          minority_rate=21.9, nhw_rate=28.0, notes="SEER HR-negative, Table 3"),
+    # HR-positive: NHW 146.6; NHB 114.1; NHAPI 109.5; AIAN 96.5; Hisp 97.7
+    Study("DuSong2022_34861613", 2022, "SEER", "hrpos_incidence", "Black",
+          irr_from_rates(114.1, 146.6), se_logirr_from_rate_cis(114.1,113.3,115.0, 146.6,146.2,147.0),
+          minority_rate=114.1, nhw_rate=146.6, notes="SEER HR-positive, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrpos_incidence", "Hispanic",
+          irr_from_rates(97.7, 146.6), se_logirr_from_rate_cis(97.7,97.0,98.4, 146.6,146.2,147.0),
+          minority_rate=97.7, nhw_rate=146.6, notes="SEER HR-positive, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrpos_incidence", "Asian",
+          irr_from_rates(109.5, 146.6), se_logirr_from_rate_cis(109.5,108.7,110.4, 146.6,146.2,147.0),
+          minority_rate=109.5, nhw_rate=146.6, notes="SEER HR-positive NHAPI, Table 3"),
+    Study("DuSong2022_34861613", 2022, "SEER", "hrpos_incidence", "AIAN",
+          irr_from_rates(96.5, 146.6), se_logirr_from_rate_cis(96.5,93.5,99.5, 146.6,146.2,147.0),
+          minority_rate=96.5, nhw_rate=146.6, notes="SEER HR-positive, Table 3"),
 
     # ── 26513636 — DeSantis et al., "Breast Cancer Statistics, 2015" CA Cancer
     #    J Clin. NAACCR (~93% of US), age-adjusted 2000 std, 2008–2012 (Fig 1):

@@ -97,3 +97,17 @@ All IRR vs NHW (NHW=1 reference). #17-resolved: the "31.3" is NHW's rate; Black=
 56. [ ] Hispanic **1.05** (0.99–1.11)
 57. [ ] API **1.41** (1.33–1.49)
 58. [ ] AIAN **1.04** (0.82–1.31)
+
+---
+
+## 34861613 (Du & Song) — HR-status subtypes (Table 3, age-adj rates) · items 59–66
+**HR-negative (aggressive)** rates /100k
+59. [ ] NHW **28.0** (27.9–28.2)
+60. [ ] NHB **46.5** (46.0–47.1)
+61. [ ] NHAPI **22.3** (21.9–22.7) · AIAN **21.9** (20.5–23.3) · Hispanic **23.3** (22.9–23.6)
+**HR-positive** rates /100k
+62. [ ] NHW **146.6** (146.2–147.0)
+63. [ ] NHB **114.1** (113.3–115.0)
+64. [ ] NHAPI **109.5** (108.7–110.4)
+65. [ ] AIAN **96.5** (93.5–99.5)
+66. [ ] Hispanic **97.7** (97.0–98.4)
