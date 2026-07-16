@@ -130,3 +130,18 @@ Clean age-adjusted rate tables came from MMWR 35025856, DuSong 34861613, Gomez
 PDFs (33392441, 34508608, 30503975, 12115511) are counts/crude/figure studies
 that do not add clean age-adjusted rates. Next data increment = the 12 recovered
 PDFs (likely rate-table studies: 26513636, 39853979, 21351091, 33074325, ...).
+
+
+## Recovered-PDF extraction (12/12 arrived)
+- 21351091 (Liu, Int J Cancer 2012, LA County SEER) adj RR vs NHW: Black 0.78
+  (0.77-0.79); Hispanic 0.49 (0.48-0.50); Chinese 0.45; Filipina 0.76;
+  Japanese 0.68; Korean 0.34. (model-adjusted RR; Asian subgroups = disaggregated)
+- 26513636 (DeSantis, BC Statistics 2015, CA Cancer J Clin, NAACCR 2008-2012,
+  Fig 1): NHW 128.1; NHB 124.3; AI/AN 91.9; Hispanic 91.9; API 88.3. 4 comparisons,
+  NAACCR base = less SEER overlap. Fig 2 subtype% by race (TNBC: NHW 11, NHB 22,
+  Hisp 12, API 10 %).
+Pools now: Black 0.920 (k5) | Hispanic 0.653 (k4) | Asian 0.724 (k4) | AIAN 0.716
+(k3). I2 ~99% (large-N + real population/method differences).
+Still to chart from PDFs: 31764279(AIAN), 28365834(Asian CA), 29982593(Black-White),
+33074325(subtype JAMA), 39853979(subtype JAMA), 15986118, 23446808, 25214237,
+21301957 — mostly figure/trend based.

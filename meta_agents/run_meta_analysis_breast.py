@@ -167,6 +167,28 @@ STUDIES: List[Study] = [
           se_logirr_from_rate_cis(139.9, 134.5, 145.5, 190.5, 189.8, 191.2),
           minority_rate=139.9, nhw_rate=190.5, notes="SEER 2012-2018, Table 2"),
 
+    # ── 26513636 — DeSantis et al., "Breast Cancer Statistics, 2015" CA Cancer
+    #    J Clin. NAACCR (~93% of US), age-adjusted 2000 std, 2008–2012 (Fig 1):
+    #    NHW 128.1; NHB 124.3; AI/AN 91.9; Hispanic 91.9; API 88.3 per 100,000.
+    #    No published CIs → SE Poisson-approx from estimated national case counts.
+    #    NAACCR base makes this less SEER-overlapping than the other US studies.
+    Study("DeSantis2016_26513636", 2016, "NAACCR", "invasive_incidence", "Black",
+          irr_from_rates(124.3, 128.1),
+          se_from_rates(124.3, 128.1, py_minority=101_800_000, py_nhw=673_000_000),
+          minority_rate=124.3, nhw_rate=128.1, notes="NAACCR 2008-2012; SE approx"),
+    Study("DeSantis2016_26513636", 2016, "NAACCR", "invasive_incidence", "Hispanic",
+          irr_from_rates(91.9, 128.1),
+          se_from_rates(91.9, 128.1, py_minority=100_100_000, py_nhw=673_000_000),
+          minority_rate=91.9, nhw_rate=128.1, notes="NAACCR 2008-2012; SE approx"),
+    Study("DeSantis2016_26513636", 2016, "NAACCR", "invasive_incidence", "Asian",
+          irr_from_rates(88.3, 128.1),
+          se_from_rates(88.3, 128.1, py_minority=65_100_000, py_nhw=673_000_000),
+          minority_rate=88.3, nhw_rate=128.1, notes="NAACCR 2008-2012 API; SE approx"),
+    Study("DeSantis2016_26513636", 2016, "NAACCR", "invasive_incidence", "AIAN",
+          irr_from_rates(91.9, 128.1),
+          se_from_rates(91.9, 128.1, py_minority=6_260_000, py_nhw=673_000_000),
+          minority_rate=91.9, nhw_rate=128.1, notes="NAACCR 2008-2012 CHSDA; SE approx"),
+
     # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
     #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
     #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
@@ -179,6 +201,29 @@ STUDIES: List[Study] = [
           se_from_rates(96.4, 145.6, py_minority=8_985_000, py_nhw=52_360_000),
           minority_rate=96.4, nhw_rate=145.6,
           notes="CA 2000-2004; derived PY-weighted US-born+foreign-born Asian; age-adj 2000 std"),
+
+    # ── 21351091 — Liu et al., Int J Cancer 2012 "Invasive breast cancer
+    #    incidence trends by detailed race/ethnicity and age" (LA County SEER).
+    #    Multivariable-adjusted incidence RR vs NH white (adj. period + age):
+    #    Black 0.78 (0.77-0.79); Hispanic 0.49 (0.48-0.50); Chinese 0.45
+    #    (0.44-0.47); Filipina 0.76 (0.73-0.78); Japanese 0.68 (0.65-0.70);
+    #    Korean 0.34 (0.32-0.36). NOTE: model-adjusted RR (not ratio-of-rates);
+    #    LA County (Hispanic much lower than national).
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Black",
+          math.log(0.78), se_from_ci(0.78, 0.77, 0.79),
+          minority_rate=None, nhw_rate=None, notes="adj RR, LA County"),
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Hispanic",
+          math.log(0.49), se_from_ci(0.49, 0.48, 0.50),
+          notes="adj RR, LA County (much lower than national)"),
+    # Asian ethnic subgroups (disaggregated dataset — not in the aggregate Asian pool)
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Chinese",
+          math.log(0.45), se_from_ci(0.45, 0.44, 0.47), notes="adj RR vs NHW"),
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Filipina",
+          math.log(0.76), se_from_ci(0.76, 0.73, 0.78), notes="adj RR vs NHW"),
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Japanese",
+          math.log(0.68), se_from_ci(0.68, 0.65, 0.70), notes="adj RR vs NHW"),
+    Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Korean",
+          math.log(0.34), se_from_ci(0.34, 0.32, 0.36), notes="adj RR vs NHW"),
 
     # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
     #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
