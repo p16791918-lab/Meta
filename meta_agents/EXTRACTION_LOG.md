@@ -176,3 +176,12 @@ provides the subgroup RRs (Chinese 0.45, Filipina 0.76, Japanese 0.68, Korean
 0.34 - consistent with the "2x" statement). => Use as narrative/supporting
 citation for Asian-subgroup heterogeneity; NOT a separate quantitative point
 (avoid LA County double-count).
+
+## 30503975 (Loo 2019, Hawaii Tumor Registry) — VERIFIED figure-based
+Fig 1 = age-adjusted incidence TREND line chart, 5 groups, 1984-2013, NO printed
+data labels -> exact values not extractable (eyeball 2009-2013: Native Hawaiian
+~175, White ~150, Japanese ~145, Filipino ~105, Chinese ~90). No rate table.
+Key NARRATIVE finding: Native Hawaiian incidence HIGHEST (above White) in Hawaii;
+Japanese approaching/exceeding White. Overlaps 36504334 (Hawaii). => narrative
+(Native Hawaiian > White) not a precise quantitative point.
+33392441 similarly: Table 1 = counts/woman-years only; rates in figures.
