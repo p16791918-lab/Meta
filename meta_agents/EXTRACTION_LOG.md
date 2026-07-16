@@ -166,3 +166,13 @@ Current primary pools (k): Black 0.939 (0.878-1.004) k6 — CI crosses 1 (Black-
 convergence) | Hispanic 0.678 k5 | Asian 0.756 k5 | AIAN 0.698 k5. All I2~99%.
 TNBC Black 1.997 (1.865-2.139) k2. Charting phase COMPLETE (clean-rate data extracted;
 remaining are trend/age/figure/international = secondary narrative).
+
+## 12115511 (Deapen 2002, Int J Cancer, LA County CSP) — NARRATIVE
+Asian-American ethnic-subgroup TRENDS in LA County (1972-2000). Qualitative:
+Japanese/Filipino ~2x Chinese/Korean; Japanese approaching/surpassing NHW; APC
+Asian +6.3%/yr vs NHW +1.5%/yr (>=50y). No clean rate table in abstract/intro
+(scan figures/tables only). OVERLAPS 21351091 (Liu, LA County) which already
+provides the subgroup RRs (Chinese 0.45, Filipina 0.76, Japanese 0.68, Korean
+0.34 - consistent with the "2x" statement). => Use as narrative/supporting
+citation for Asian-subgroup heterogeneity; NOT a separate quantitative point
+(avoid LA County double-count).
