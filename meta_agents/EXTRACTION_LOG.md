@@ -145,3 +145,24 @@ Pools now: Black 0.920 (k5) | Hispanic 0.653 (k4) | Asian 0.724 (k4) | AIAN 0.71
 Still to chart from PDFs: 31764279(AIAN), 28365834(Asian CA), 29982593(Black-White),
 33074325(subtype JAMA), 39853979(subtype JAMA), 15986118, 23446808, 25214237,
 21301957 — mostly figure/trend based.
+
+
+## Remaining 8 recovered PDFs — charted / characterized
+- 33074325 (Zhao, JAMA, SEER18 2010-15): ✅ overall IRR Black 1.04, Hisp 0.79,
+  API 0.90, AIAN 0.82; TNBC IRR Black 2.07, Hisp 0.94, API 0.79, AIAN 0.89.
+  => TNBC Black now POOLS: 1.997 (1.87-2.14).
+- 39853979 (JAMA 2025): incidence TRENDS (APC) line-chart figures; no clean rate
+  table. Secondary/trend narrative.
+- 15986118 (Joslyn, NAACCR 1994-98): AGE-SPECIFIC rates + Black-White CROSSOVER
+  (Black>White <40, reverses >50). Secondary/age-pattern narrative. Hisp/non-Hisp
+  RR by age 1.09->0.55.
+- 28365834 (Asian CA), 29982593 (Black-White brief 3pp), 23446808 (trend) = APC/
+  figure/counts, not clean overall aggregate rates. Trends narrative.
+- 25214237 (UK Leicester): South Asian incidence ~45% lower than white
+  (international; white ~111.7/128). International/SA subgroup.
+- 21301957 (US Indian-Pakistani): South Asian subgroup (small). Disaggregated.
+
+Current primary pools (k): Black 0.939 (0.878-1.004) k6 — CI crosses 1 (Black-White
+convergence) | Hispanic 0.678 k5 | Asian 0.756 k5 | AIAN 0.698 k5. All I2~99%.
+TNBC Black 1.997 (1.865-2.139) k2. Charting phase COMPLETE (clean-rate data extracted;
+remaining are trend/age/figure/international = secondary narrative).

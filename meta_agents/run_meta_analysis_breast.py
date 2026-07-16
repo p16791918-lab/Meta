@@ -198,6 +198,29 @@ STUDIES: List[Study] = [
           math.log(0.56), se_from_ci(0.56, 0.55, 0.57),
           minority_rate=72.7, nhw_rate=130.4, notes="IHS-linked, misclassification-corrected"),
 
+    # ── 33074325 — Zhao et al., JAMA Netw Open 2020 "Variation in BC Subtype
+    #    Incidence by Race/Ethnicity" (SEER 18, 2010–2015). Age-standardized IRR
+    #    vs NHW (Fig 1 + text). Overall: Black 1.04 (1.02–1.05); Hispanic 0.79
+    #    (0.75–0.83); API 0.90 (0.89–0.92); AIAN 0.82 (0.81–0.83).
+    Study("Zhao2020_33074325", 2020, "SEER 18", "invasive_incidence", "Black",
+          math.log(1.04), se_from_ci(1.04, 1.02, 1.05),
+          notes="SEER18 2010-2015 IRR; Black slightly HIGHER (convergence era)"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "invasive_incidence", "Hispanic",
+          math.log(0.79), se_from_ci(0.79, 0.75, 0.83), notes="SEER18 2010-2015 IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "invasive_incidence", "Asian",
+          math.log(0.90), se_from_ci(0.90, 0.89, 0.92), notes="SEER18 2010-2015 API IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "invasive_incidence", "AIAN",
+          math.log(0.82), se_from_ci(0.82, 0.81, 0.83), notes="SEER18 2010-2015 IRR"),
+    # TNBC subtype IRRs vs NHW (Fig 1D)
+    Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "Black",
+          math.log(2.07), se_from_ci(2.07, 2.01, 2.14), notes="SEER18 TNBC IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "Hispanic",
+          math.log(0.94), se_from_ci(0.94, 0.91, 0.98), notes="SEER18 TNBC IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "Asian",
+          math.log(0.79), se_from_ci(0.79, 0.75, 0.83), notes="SEER18 TNBC API IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "AIAN",
+          math.log(0.89), se_from_ci(0.89, 0.76, 1.04), notes="SEER18 TNBC IRR"),
+
     # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
     #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
     #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
