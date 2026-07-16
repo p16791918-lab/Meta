@@ -65,7 +65,7 @@ def run_meta_analysis(
     # fetch full text only for abstract-screened survivors:
     #   - PMC open-access papers are fetched automatically (needs biopython)
     #   - paywalled papers: drop your PDFs into fulltext_dir as <PMID>.pdf
-    use_pmc: bool = True,
+    use_pmc: bool = os.getenv("USE_PMC", "1") != "0",
     allow_abstract_fallback: bool = False,
     # allow_abstract_fallback=True lets Phase 2 fall back to the abstract when no
     # full text is available (used in demo mode; NOT recommended for real reviews)
