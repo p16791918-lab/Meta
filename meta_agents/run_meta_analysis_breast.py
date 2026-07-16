@@ -189,6 +189,15 @@ STUDIES: List[Study] = [
           se_from_rates(91.9, 128.1, py_minority=6_260_000, py_nhw=673_000_000),
           minority_rate=91.9, nhw_rate=128.1, notes="NAACCR 2008-2012 CHSDA; SE approx"),
 
+    # ── 31764279 — Gopalani et al., Epidemiology 2020 "Trends in Cancer Incidence
+    #    Among AI/AN and NHW" (IHS-linked, corrects AI/AN misclassification;
+    #    age-std 2000, 1999–2015, Table 1). Female breast: AI/AN 72.7 (71.6–73.8);
+    #    NHW 130.4 (130.3–130.6); RR 0.56 (0.55–0.57). Methodologically the best
+    #    AI/AN estimate (registry studies overestimate the AI/AN rate → RR nearer 1).
+    Study("Gopalani2020_31764279", 2020, "IHS-linked", "invasive_incidence", "AIAN",
+          math.log(0.56), se_from_ci(0.56, 0.55, 0.57),
+          minority_rate=72.7, nhw_rate=130.4, notes="IHS-linked, misclassification-corrected"),
+
     # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
     #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
     #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
