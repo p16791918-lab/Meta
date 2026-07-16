@@ -211,7 +211,35 @@ STUDIES: List[Study] = [
           math.log(0.90), se_from_ci(0.90, 0.89, 0.92), notes="SEER18 2010-2015 API IRR"),
     Study("Zhao2020_33074325", 2020, "SEER 18", "invasive_incidence", "AIAN",
           math.log(0.82), se_from_ci(0.82, 0.81, 0.83), notes="SEER18 2010-2015 IRR"),
-    # TNBC subtype IRRs vs NHW (Fig 1D)
+    # Subtype IRRs vs NHW (Fig 1, panels A-D)
+    # A. HR+/ERBB2- (luminal A-like)
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2neg_incidence", "Black",
+          math.log(0.86), se_from_ci(0.86, 0.84, 0.87), notes="SEER18 HR+/HER2- IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2neg_incidence", "Hispanic",
+          math.log(0.78), se_from_ci(0.78, 0.76, 0.79), notes="SEER18 HR+/HER2- IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2neg_incidence", "Asian",
+          math.log(0.87), se_from_ci(0.87, 0.85, 0.88), notes="SEER18 HR+/HER2- API IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2neg_incidence", "AIAN",
+          math.log(0.74), se_from_ci(0.74, 0.69, 0.79), notes="SEER18 HR+/HER2- IRR"),
+    # B. HR+/ERBB2+ (luminal B-like)
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2pos_incidence", "Black",
+          math.log(1.12), se_from_ci(1.12, 1.08, 1.16), notes="SEER18 HR+/HER2+ IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2pos_incidence", "Hispanic",
+          math.log(0.91), se_from_ci(0.91, 0.88, 0.94), notes="SEER18 HR+/HER2+ IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2pos_incidence", "Asian",
+          math.log(1.04), se_from_ci(1.04, 1.00, 1.08), notes="SEER18 HR+/HER2+ API IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrpos_her2pos_incidence", "AIAN",
+          math.log(0.94), se_from_ci(0.94, 0.81, 1.09), notes="SEER18 HR+/HER2+ IRR"),
+    # C. HR-/ERBB2+ (HER2-enriched)
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrneg_her2pos_incidence", "Black",
+          math.log(1.46), se_from_ci(1.46, 1.38, 1.54), notes="SEER18 HR-/HER2+ IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrneg_her2pos_incidence", "Hispanic",
+          math.log(1.05), se_from_ci(1.05, 0.99, 1.11), notes="SEER18 HR-/HER2+ IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrneg_her2pos_incidence", "Asian",
+          math.log(1.41), se_from_ci(1.41, 1.33, 1.49), notes="SEER18 HR-/HER2+ API IRR"),
+    Study("Zhao2020_33074325", 2020, "SEER 18", "hrneg_her2pos_incidence", "AIAN",
+          math.log(1.04), se_from_ci(1.04, 0.82, 1.31), notes="SEER18 HR-/HER2+ IRR"),
+    # D. TNBC
     Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "Black",
           math.log(2.07), se_from_ci(2.07, 2.01, 2.14), notes="SEER18 TNBC IRR"),
     Study("Zhao2020_33074325", 2020, "SEER 18", "tnbc_incidence", "Hispanic",

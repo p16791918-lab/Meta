@@ -74,3 +74,26 @@ Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `
 ---
 
 ## Priority first: #17, #46, #39, then figure/table image-reads #25–29 & #30–35.
+
+---
+
+## 33074325 — additional molecular subtypes (Figure 1, panels A–C) · items 47–58
+All IRR vs NHW (NHW=1 reference). #17-resolved: the "31.3" is NHW's rate; Black=1.04×it; we use the ratio.
+
+**A. HR+/ERBB2- (Fig 1A)**
+47. [ ] Black **0.86** (0.84–0.87)
+48. [ ] Hispanic **0.78** (0.76–0.79)
+49. [ ] API **0.87** (0.85–0.88)
+50. [ ] AIAN **0.74** (0.69–0.79)
+
+**B. HR+/ERBB2+ (Fig 1B)**
+51. [ ] Black **1.12** (1.08–1.16)
+52. [ ] Hispanic **0.91** (0.88–0.94)
+53. [ ] API **1.04** (1.00–1.08)
+54. [ ] AIAN **0.94** (0.81–1.09)
+
+**C. HR-/ERBB2+ HER2-enriched (Fig 1C)**
+55. [ ] Black **1.46** (1.38–1.54)
+56. [ ] Hispanic **1.05** (0.99–1.11)
+57. [ ] API **1.41** (1.33–1.49)
+58. [ ] AIAN **1.04** (0.82–1.31)
