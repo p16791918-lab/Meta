@@ -188,6 +188,18 @@ STUDIES: List[Study] = [
           math.log(1.93), se_from_ci(1.93, 1.88, 1.97),
           minority_rate=33.8, nhw_rate=17.5,
           notes="TNBC subtype; Black vs White IRR 1.93 (1.88-1.97); full-text; citation TBD"),
+    Study("TNBC_Te7879b3", 2023, "SEER/USCS", "tnbc_incidence", "Hispanic",
+          math.log(0.84), se_from_ci(0.84, 0.82, 0.86),
+          minority_rate=14.7, nhw_rate=17.5,
+          notes="TNBC subtype; Hispanic vs White IRR 0.84 (0.82-0.86)"),
+    Study("TNBC_Te7879b3", 2023, "SEER/USCS", "tnbc_incidence", "Asian",
+          math.log(0.69), se_from_ci(0.69, 0.68, 0.69),
+          minority_rate=12.0, nhw_rate=17.5,
+          notes="TNBC subtype; Asian vs White IRR 0.69 (0.68-0.69)"),
+    Study("TNBC_Te7879b3", 2023, "SEER/USCS", "tnbc_incidence", "AIAN",
+          math.log(0.84), se_from_ci(0.84, 0.75, 0.93),
+          minority_rate=14.7, nhw_rate=17.5,
+          notes="TNBC subtype; AIAN vs White IRR 0.84 (0.75-0.93)"),
 
 ]
 

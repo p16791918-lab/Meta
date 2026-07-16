@@ -111,3 +111,22 @@ Hispanic I2=0% because MMWR & DuSong are the SAME SEER data (0.719 vs 0.719) —
 concrete evidence that pooling overlapping registry analyses is circular.
 DECISION PENDING (after full charting): overall-pool (redundant w/ SEER) vs
 disaggregated subgroups/subtype (novel) vs narrative synthesis.
+
+
+## More charting (this pass)
+- TNBC subgroups added (T_e7879b363303): Black 1.93(1.88-1.97); Hispanic 0.84
+  (0.82-0.86); Asian 0.69(0.68-0.69); AIAN 0.84(0.75-0.93) vs White. (1 study
+  each until subtype studies 33074325/39853979 arrive.)
+- 34508608 & 33392441: Table 1 gives COUNTS + woman-years only -> crude rates
+  only, age-adjusted rates are in figures. NOT clean age-adjusted -> use for
+  ER/subtype narrative + trends, not primary rate pool. (Age-adjusted HR-neg by
+  race already captured from DuSong 34861613 Table 3.)
+- 39822259 England: White 199.6; Black African 118.2 (111.6-125.1). Kept as a
+  UK/international stratum (pending US-only decision), not in primary pool.
+
+## Status: charting of AVAILABLE clean-rate PDFs is essentially complete
+Clean age-adjusted rate tables came from MMWR 35025856, DuSong 34861613, Gomez
+20147696, 41082230 (+ 36504334 Hawaii secondary, TNBC T_e78). Remaining local
+PDFs (33392441, 34508608, 30503975, 12115511) are counts/crude/figure studies
+that do not add clean age-adjusted rates. Next data increment = the 12 recovered
+PDFs (likely rate-table studies: 26513636, 39853979, 21351091, 33074325, ...).
