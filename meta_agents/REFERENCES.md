@@ -56,7 +56,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 22. Stotter A, Jenkins J, Edmondson-Jones M, Blackledge H, Kearins O. Temporal changes in breast cancer incidence in South Asian women. Cancer Epidemiol. 2014;38(6):663–669. doi:10.1016/j.canep.2014.08.009. PMID: 25214237. *(verified; UK study — international comparison)*
 
-23. [author list — confirm at submission] Ethnicity and breast cancer incidence in over 329,500 women in England. Eur J Surg Oncol. 2026;52:109585. *(2026 in-press; not yet indexed in PubMed/Crossref by author/title as of extraction — the "PMID 39822259" in our records may be an Embase identifier. Confirm author list on the journal page at submission. UK study — international comparison only, narrative.)*
+23. Gathani T, Kan SW, Sweetland S, Reeves GK. Ethnicity and breast cancer incidence in over 329 500 women in England in 2011–2019. Eur J Surg Oncol. 2026;52:109585. *(authors verified from PDF; the "39822259" in our records was an Embase identifier, not a PMID. UK study — international comparison only, narrative.)*
 
 24. Movsisyan Vernon AS, Maguire FB, Ullah AT, Hofer BM, Parikh-Patel A, Wun T, Hussain SK, Keegan THM. Cancer Incidence and Trends in Persistent Poverty Areas of California by [race/ethnicity]. Cancer Med. 2025;14(15):e71088. doi:10.1002/cam4.71088. PMID: 40736150. *(verified authors/journal; confirm full title)*
 
