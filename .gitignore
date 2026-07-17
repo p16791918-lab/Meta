@@ -8,3 +8,4 @@ meta_agents/fulltext/
 # Python
 __pycache__/
 *.pyc
+meta_agents/output_breast/*.json
