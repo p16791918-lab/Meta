@@ -187,8 +187,8 @@ def fig2():
     forest_panel(ax, rows, "Disaggregated Asian / Pacific Islander ethnic subgroups vs NHW",
                  xlim=(0.16, 1.7))
     fig.text(0.02, 0.02,
-             "Same aggregate 'Asian/API' category, disaggregated: Korean 0.28 ↔ "
-             "Native Hawaiian 1.11 — a ~4× spread the pooled estimate hides.",
+             "Same aggregate 'Asian/API' category, disaggregated: Korean 0.34 ↔ "
+             "Native Hawaiian 1.11 — a ~3× spread the pooled estimate hides.",
              fontsize=8.5, color=INK2, ha="left")
     fig.tight_layout(rect=[0, 0.05, 1, 1])
     fig.savefig("figures/fig2_subgroups_forest.png", dpi=300, facecolor=SURFACE)
@@ -333,8 +333,8 @@ def fig5():
     N_FULLTEXT = 485    # advanced past abstract → full-text assessed
     N_FT_EXCL = 458     # excluded at full text (incl. 23 analyst; +33006431 non-US/MIR)
     N_INCL = 27         # included in review after reconciliation
-    N_QUANT = 15        # quantitative synthesis (meta-analysis)
-    N_NARR = 12         # narrative synthesis
+    N_QUANT = 14        # quantitative synthesis (meta-analysis)
+    N_NARR = 13         # narrative synthesis (incl. 12115511, demoted)
 
     fig, ax = plt.subplots(figsize=(10.5, 9))
     fig.patch.set_facecolor(SURFACE); ax.set_facecolor(SURFACE)

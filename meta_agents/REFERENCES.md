@@ -8,7 +8,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 ---
 
-## A. Included studies — quantitative synthesis (n = 15)
+## A. Included studies — quantitative synthesis (n = 14)
 
 1. Davis Lynn BC, Figueroa JD, Laryea D, Awittor FK, Oti NOO, Booker QS, et al. Breast Cancer Incidence Rates in Ghanaian and US Black Women From 2013 Through 2017. JAMA Netw Open. 2025;8(10):e2537160. doi:10.1001/jamanetworkopen.2025.37160. PMID: 41082230. *(verified)*
 
@@ -38,9 +38,9 @@ article. Author names shown were verified from the PDFs where noted.
 
 14. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. *(verified from PDF; flag #46 resolved. Note: same first author as ref 3, Du XL)*
 
-15. Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast cancer incidence rates among Asian-American women. Int J Cancer. 2002;99(5):747–750. PMID: 12115511. *(verified authors from PDF)*
+## B. Included studies — narrative synthesis (n = 13)
 
-## B. Included studies — narrative synthesis (n = 12)
+15. Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast cancer incidence rates among Asian-American women. Int J Cancer. 2002;99(5):747–750. PMID: 12115511. *(verified authors from PDF; demoted to narrative — annual-rate trends paper, single pooled summary is period-sensitive and overlaps Liu, ref 8)*
 
 16. Davis Lynn BC, Rosenberg PS, Anderson WF, Gierach GL. Black–White Breast Cancer Incidence Trends: Effects of Ethnicity. J Natl Cancer Inst. 2018;110(11):1270–1272. doi:10.1093/jnci/djy112. PMID: 29982593. *(verified)*
 

@@ -330,23 +330,13 @@ STUDIES: List[Study] = [
 
     # ── 12115511 — Deapen et al., Int J Cancer 2002 "Rapidly rising breast
     #    cancer incidence rates among Asian-American women" (LA County CSP/CCR,
-    #    Table I, age-adj 1970 US std, 1988-1997). Ethnic-subgroup rows only:
-    #    10-year mean age-adj rate vs NHW mean (124.3); SE from summed Poisson
-    #    case counts sqrt(1/C_e + 1/C_w). NHW/Black/Hispanic/API NOT added (LA
-    #    County → overlaps Liu 21351091; addressed in registry-cluster sensitivity).
-    #    Scanned PDF read via image render (txt was corrupted). Adds Korean k=2.
-    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Chinese",
-          irr_from_rates(47.25, 124.31), se_logrr_from_counts(683, 31897),
-          minority_rate=47.25, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
-    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Japanese",
-          irr_from_rates(85.04, 124.31), se_logrr_from_counts(758, 31897),
-          minority_rate=85.04, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
-    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Filipina",
-          irr_from_rates(84.37, 124.31), se_logrr_from_counts(1177, 31897),
-          minority_rate=84.37, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
-    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Korean",
-          irr_from_rates(28.58, 124.31), se_logrr_from_counts(271, 31897),
-          minority_rate=28.58, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
+    #    Table I, 1988-1997). DEMOTED TO NARRATIVE (not pooled here): its rates
+    #    are annual (a trends paper), so any single summary is an analyst
+    #    derivation whose value is sensitive to the period chosen (Korean 0.23
+    #    [10-yr mean] vs 0.35 [1997]); it also overlaps Liu 21351091 (both LA
+    #    County). Cited narratively as the foundational "rapidly rising" analysis;
+    #    subgroup ordering (Korean lowest → Filipina/Japanese higher) is carried
+    #    by Liu (21351091) + Hawaii (30503975) + Gomez (28365834, narrative).
 
     # ── 36504334 — Hicks/Liu et al., Cancer Causes Control 2023 "Characterizing
     #    breast cancer incidence and trends among AANHPI in Hawai'i" (SEER Hawaii,

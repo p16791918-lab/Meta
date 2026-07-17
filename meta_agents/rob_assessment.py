@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phase C — Risk-of-Bias assessment for the 15 quantitative studies.
+"""Phase C — Risk-of-Bias assessment for the 14 quantitative studies.
 
 Population-based cancer-incidence (surveillance) studies do not fit clinical-trial
 or cohort RoB tools, so we assess six domains tailored to registry incidence-by-race
@@ -50,9 +50,9 @@ ROB = [
      [L, S, S, L, L, S], "Asian Indian/Pakistani via surname; two denominator estimates (high/low) (D3,D6)"),
     ("21473509", "Lepeak 2011 · Wisconsin CRS",
      [L, L, L, L, L, H], "state registry; RR rounded to 0.8, NO CI reported (D6 high)"),
-    ("12115511", "Deapen 2002 · LA County CSP",
-     [L, S, L, L, S, S], "scanned table; 10-yr-mean rate is analyst derivation; regional; overlaps Liu (D5,D6)"),
-    ("Te7879b3", "TNBC-trends 2023 · SEER/USCS",
+    # 12115511 (Deapen 2002) demoted to narrative — trends paper, single-summary
+    # value is period-sensitive + overlaps Liu; not in the quantitative synthesis.
+    ("Te7879b3", "Du & Li 2023 · SEER/USCS (TNBC)",
      [L, S, L, L, L, S], "full-text TNBC IRRs w/ CI; citation still to be confirmed (D6)"),
 ]
 
@@ -64,7 +64,7 @@ FULL = {"L": "Low", "S": "Some concerns", "H": "High"}
 
 def print_table():
     print("=" * 78)
-    print("  RISK OF BIAS — 15 quantitative studies (L=low, S=some concerns, H=high)")
+    print("  RISK OF BIAS — 14 quantitative studies (L=low, S=some concerns, H=high)")
     print("=" * 78)
     print(f"  {'Study':<40} " + " ".join(d.split(chr(10))[0] for d in DOMAINS))
     print("  " + "-" * 74)

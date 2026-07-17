@@ -172,7 +172,7 @@ Table 1, p.2. Age-adjusted, 2004–2006 (no CI in source).
 **Black–White age crossover** = NOW QUANTITATIVE via 15986118 (items 75–80). Corroborated
 narratively by DeSantis 26513636 p.3 (median age at dx Black 58 vs White 62).
 
-## 12115511 (Deapen 2002, Int J Cancer, LA County CSP) — Asian subgroups · items 92–95
+## 12115511 (Deapen 2002) — Asian subgroups · items 92–95 · NOTE: DEMOTED TO NARRATIVE (period-sensitive derivation + overlaps Liu); values retained for provenance only, not pooled
 Table I (scanned PDF, read via image render; txt was corrupted). Age-adj (1970 US std)
 invasive BC rate /100k, 1988–1997. Values below = 10-year mean rate; SE from summed
 Poisson case counts. NHW 10-yr mean = **124.3** (total cases 31,897).

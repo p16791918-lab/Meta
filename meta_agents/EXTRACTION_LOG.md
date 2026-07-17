@@ -342,3 +342,19 @@ crossover figure. Noted the printed 40–44 RR (0.84) is a likely typo (73.99/10
 = 0.74). No all-ages age-adjusted rate exists in this paper (all tables are
 age-specific), so 15986118 remains a descriptive age-crossover source, not a
 contributor to the aggregate pooled IRRs. CROSS_CHECK items 96–99.
+
+---
+
+## 12115511 (Deapen) DEMOTED to narrative — 2026-07-17
+
+User questioned the analyst derivation. Sensitivity check of the summary method
+showed it is consequential for the rising-trend subgroups: Korean IRR 0.23
+(10-yr mean) / 0.26 (1993-97) / 0.35 (1997 only); Japanese 0.68 / 0.76 / 0.89.
+Because (a) the value depends on the period chosen (this is a "rapidly rising"
+trends paper), and (b) 12115511 overlaps Liu 21351091 (both LA County), the 4
+Deapen subgroup rows were REMOVED from STUDIES and 12115511 moved to narrative.
+Impact: Korean returns to k=1 (Liu 0.34); Chinese/Filipina/Japanese remain k=2
+(Liu + Hawaii); subgroup ordering unchanged. Quantitative synthesis 15 -> 14;
+narrative 12 -> 13 (included total still 27). Updated: STUDIES, fig2 caption,
+fig5 PRISMA (14/13), fig6 RoB (14 studies), GRADE text, manuscript, REFERENCES.
+CROSS_CHECK items 92-95 retained for provenance but no longer feed the pool.
