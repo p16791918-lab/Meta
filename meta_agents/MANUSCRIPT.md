@@ -2,10 +2,10 @@
 
 **Junyoung Park** (ORCID: 0009-0005-3623-4882)¹\*
 
-¹ [Affiliation — institution, city, country: TO COMPLETE]
-\* Corresponding author. Email: [preferred correspondence email — CONFIRM]
+¹ Pusan National University, Busan, South Korea
+\* Corresponding author. Email: p094123@naver.com
 
-*Target journal: PLOS ONE. Draft — placeholders in `[brackets]` need the author to finalize (affiliation, correspondence email, funding, competing interests; and the reference list).*
+*Target journal: PLOS ONE. Draft — remaining placeholders in `[brackets]`: funding and competing-interests confirmation, and the reference list.*
 
 ---
 
@@ -146,9 +146,9 @@ Synthesizing 15 population-based analyses across multiple US registry systems, w
 
 **Competing interests.** [The authors have declared that no competing interests exist. — CONFIRM]
 
-**Author contributions (CRediT).** [Conceptualization, Methodology, Formal analysis, Data curation, Writing – original draft, Writing – review & editing: — ASSIGN per author.]
+**Author contributions (CRediT).** Junyoung Park: Conceptualization, Methodology, Formal analysis, Data curation, Investigation, Software, Visualization, Writing – original draft, Writing – review & editing. [Revise if co-authors are added.]
 
-**Author list.** Junyoung Park (ORCID: 0009-0005-3623-4882) — [affiliation and corresponding-author email TO COMPLETE]. [If co-authors are added, list their names, affiliations, and ORCIDs here.]
+**Author list.** Junyoung Park (ORCID: 0009-0005-3623-4882), Pusan National University, Busan, South Korea; corresponding author, p094123@naver.com.
 
 ---
 
