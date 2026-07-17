@@ -5,7 +5,7 @@
 ¹ Pusan National University, Busan, South Korea
 \* Corresponding author. Email: p094123@naver.com
 
-*Target journal: PLOS ONE. Draft — remaining placeholders in `[brackets]`: funding and competing-interests confirmation, and the reference list.*
+*Target journal: PLOS ONE. Draft — remaining: ref 23 author list (2026 in-press) to confirm at submission.*
 
 ---
 
@@ -142,9 +142,9 @@ Synthesizing 14 population-based analyses across multiple US registry systems, w
 
 **Use of AI assistance.** An AI assistant (Claude, Anthropic) was used to support the literature-search pipeline, two-stage screening, extraction of age-adjusted rates from full-text tables and figures, statistical analysis, figure generation, and drafting. The AI is not an author and bears no responsibility for the work; all AI outputs — including every extracted value, computed estimate, and drafted claim — were verified by the author(s), who take full responsibility for the content.
 
-**Funding.** [The author(s) received no specific funding for this work. — CONFIRM]
+**Funding.** The author received no specific funding for this work.
 
-**Competing interests.** [The authors have declared that no competing interests exist. — CONFIRM]
+**Competing interests.** The author has declared that no competing interests exist.
 
 **Author contributions (CRediT).** Junyoung Park: Conceptualization, Methodology, Formal analysis, Data curation, Investigation, Software, Visualization, Writing – original draft, Writing – review & editing. [Revise if co-authors are added.]
 
