@@ -38,7 +38,13 @@ We included population-based studies that reported age-adjusted (age-standardize
 
 ### Information sources and search
 
-We searched PubMed and Embase [dates and full query strings TBD — held in the Codespace search logs]. No language restriction was applied at search. Records were deduplicated to 941 unique reports.
+We searched MEDLINE (via PubMed) and Embase for records published 2000–2025, restricted to English-language human studies, on [search execution date TBD]. The search deliberately required a race/ethnicity/disparity term in the title and an incidence/rate term in the title or abstract, to target primary incidence-disparity studies.
+
+The PubMed query was: `("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab]) AND (race[ti] OR racial[ti] OR ethnic*[ti] OR minorit*[ti] OR disparit*[ti] OR Black[ti] OR Hispanic[ti] OR White[ti] OR Asian[ti] OR "African American"[ti] OR "Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Health Status Disparities"[Mesh]) AND (incidence[ti] OR "incidence rate"[tiab] OR "age-adjusted"[tiab] OR "age-standardized"[tiab] OR "Incidence"[Mesh]) AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt])`.
+
+The Embase query was: `('breast cancer'/exp OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab) AND (race:ti OR racial:ti OR ethnic*:ti OR minorit*:ti OR disparit*:ti OR black:ti OR hispanic:ti OR white:ti OR asian:ti OR 'african american':ti) AND (incidence:ti OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab OR 'age-standardized':ti,ab OR 'age standardization'/exp) AND [2000-2025]/py AND [english]/lim AND [humans]/lim NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it)`; it returned 506 records, exported for merging.
+
+Records from PubMed (n = [TBD]) and Embase (n = 506) were combined and deduplicated by fuzzy title matching to 941 unique reports ([n TBD] duplicates removed).
 
 ### Study selection
 
