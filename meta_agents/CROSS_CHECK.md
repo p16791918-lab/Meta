@@ -1,4 +1,4 @@
-# Data cross-check — by PMID (descending), items 1–89
+# Data cross-check — by PMID (descending), items 1–91
 
 Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `[x]`.
 **rate** = age-adjusted incidence per 100,000; **IRR/RR** = ratio vs NHW.
@@ -163,3 +163,10 @@ Table 1, p.2. Age-adjusted, 2004–2006 (no CI in source).
 
 **Black–White age crossover** = NOW QUANTITATIVE via 15986118 (items 75–80). Corroborated
 narratively by DeSantis 26513636 p.3 (median age at dx Black 58 vs White 62).
+
+## 41082230 (Ghana/US, JAMA Netw Open) — ER-status subtypes (Table 2, age-std Segi) · items 90–91
+NB: this study has NO PDF, but its PMC .txt keeps Table 2 as inline text → extractable.
+Black (NHB) vs White (NHW), age-standardized /100k:
+90. [ ] ER-positive: NHB **105.4** (103.6–107.3) vs NHW **128.5** (127.9–129.7) → IRR 0.82
+91. [ ] ER-negative: NHB **43.1** (42.0–44.3) vs NHW **24.0** (23.6–24.4) → IRR **1.80** (aggressive)
+    Pools with Du&Song HR-status → HR/ER-negative Black pooled **1.73**, HR/ER-pos **0.80**.

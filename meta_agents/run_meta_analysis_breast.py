@@ -121,6 +121,17 @@ STUDIES: List[Study] = [
           se_logirr_from_rate_cis(148.5, 146.4, 150.7, 152.9, 151.9, 153.8),
           minority_rate=148.5, nhw_rate=152.9,
           notes="SEER17 2013-2015, age-std Segi world, 20-74y; full-text Table 2"),
+    # ER-status subtypes (Table 2, age-std Segi) — Black vs White. ER-negative
+    # shows the aggressive-subtype Black excess (IRR 1.80), corroborating the
+    # TNBC / HER2-enriched pattern; pools with Du&Song HR-status.
+    Study("PMID41082230", 2024, "SEER 17", "hrpos_incidence", "Black",
+          irr_from_rates(105.4, 128.5),
+          se_logirr_from_rate_cis(105.4, 103.6, 107.3, 128.5, 127.9, 129.7),
+          minority_rate=105.4, nhw_rate=128.5, notes="ER-positive age-std; Black vs White"),
+    Study("PMID41082230", 2024, "SEER 17", "hrneg_incidence", "Black",
+          irr_from_rates(43.1, 24.0),
+          se_logirr_from_rate_cis(43.1, 42.0, 44.3, 24.0, 23.6, 24.4),
+          minority_rate=43.1, nhw_rate=24.0, notes="ER-negative age-std; Black vs White (aggressive)"),
 
     # ── 35025856 — Ellington et al., MMWR 2022 "Trends in Breast Cancer
     #    Incidence, by Race, Ethnicity, and Age — United States, 1999–2018"

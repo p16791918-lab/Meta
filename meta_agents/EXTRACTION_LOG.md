@@ -259,3 +259,18 @@ New disaggregated-subgroup analysis: Korean 0.34 ↔ Native Hawaiian 1.11 = **3.
 - 30503975 subtype × ethnicity (Native Hawaiian TNBC 0.86 / HER2-enriched 1.19 /
   HR+HER2+ 1.35; Japanese TNBC 1.07) — would extend subtype analysis to disaggregated API.
 - 28365834 stage-summed total-invasive Asian subgroups (adds Vietnamese, South Asian, SE Asian).
+
+---
+
+## txt-vs-PDF audit (user: "detailed data needs the PDF, not txt") — 2026-07-17
+
+Confirmed the pattern, with one important nuance:
+- Of 14 charted studies, only **41082230 has no PDF** (txt only). All others have PDFs.
+- BUT 41082230's PMC-sourced .txt keeps Table 2 as **inline text**, so its data IS
+  extractable without a PDF. Auditing it revealed ER-status subtype rates I had missed:
+  - ER-positive Black 105.4 vs White 128.5 → IRR 0.82  (hrpos_incidence)
+  - ER-negative Black 43.1 vs White 24.0 → IRR **1.80** (hrneg_incidence, aggressive)
+  Added both → HR/ER-negative Black now pools k=2 (Du&Song 1.66 + Ghana 1.80) = **1.73**.
+- General rule going forward: **corrupted or poorly-linearized .txt lose table structure**
+  (that caused the earlier false exclusions); **PMC-XML-derived .txt keep tables inline**
+  and are usable. When in doubt, prefer the PDF via pdfplumber. STUDIES 65 → 67.
