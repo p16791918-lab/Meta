@@ -311,7 +311,10 @@ Every included study examined and assigned to quantitative or narrative synthesi
 29982593, 28365834, 23446808, 39853979, 33392441, 34508608.
 
 ### Narrative — non-US (PICO is US racial/ethnic disparities) (3)
-25214237 (UK Leicester), 39822259 (England), 33006431 (Canada + mortality-to-
+25214237 (UK Leicester), 39822259 (England), 33006431 (mortality-to-
+[CORRECTION 2026-07-17: 33006431 is a US study (Nobel et al., Cancer Med 2020),
+not Canadian — the earlier "Canada" came from a corrupted .txt. Still excluded on
+outcome: it reports the mortality-to-incidence RATIO, not incidence.] mortality-to-
 incidence RATIO — wrong outcome too; exclude regardless of PICO decision).
 
 ### Narrative — US but different design / redundant (3)

@@ -12,11 +12,11 @@ article. Author names shown were verified from the PDFs where noted.
 
 1. Davis Lynn BC, Figueroa JD, Laryea D, Awittor FK, Oti NOO, Booker QS, et al. Breast Cancer Incidence Rates in Ghanaian and US Black Women From 2013 Through 2017. JAMA Netw Open. 2025;8(10):e2537160. doi:10.1001/jamanetworkopen.2025.37160. PMID: 41082230. *(verified)*
 
-2. Ellington TD, Henley SJ, Wilson RJ, Miller JW. Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years — United States, 1999–2018. MMWR Morb Mortal Wkly Rep. 2022;71(2):43–47. [author list & pages — verify] PMID: 35025856.
+2. Ellington TD, Miller JW, Henley SJ, Wilson RJ, Wu M, Richardson LC. Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years — United States, 1999–2018. MMWR Morb Mortal Wkly Rep. 2022;71(2):43–47. doi:10.15585/mmwr.mm7102a2. PMID: 35025856. *(verified)*
 
 3. Du XL, Song L. Breast cancer incidence trends in Asian women aged 20 or older as compared to [other race/ethnic groups]. Cancer Epidemiol. 2022;76:102076. doi:10.1016/j.canep.2021.102076. PMID: 34861613. *(verified authors/journal; confirm full title)*
 
-4. DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith RA, Jemal A. Breast cancer statistics, 2015: Convergence of incidence rates between black and white women. CA Cancer J Clin. 2016;66(1):31–42. PMID: 26513636.
+4. DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith RA, Jemal A. Breast cancer statistics, 2015: Convergence of incidence rates between black and white women. CA Cancer J Clin. 2016;66(1):31–42. doi:10.3322/caac.21320. PMID: 26513636. *(verified)*
 
 5. Gopalani SV, Janitz AE, Martinez SA, Gutman P, Khan S, Campbell JE. Trends in Cancer Incidence Among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999–2015. Epidemiology. 2020;31(2):205–213. doi:10.1097/EDE.0000000000001140. PMID: 31764279. *(verified)*
 
@@ -42,11 +42,11 @@ article. Author names shown were verified from the PDFs where noted.
 
 ## B. Included studies — narrative synthesis (n = 12)
 
-16. Davis Lynn BC, Rosenberg PS, Anderson WF, Gierach GL. Black–White Breast Cancer Incidence Trends: Effects of Ethnicity. J Natl Cancer Inst. 2018;110(11):1270–1272. [vol/pages — verify] PMID: 29982593. *(verified authors from PDF)*
+16. Davis Lynn BC, Rosenberg PS, Anderson WF, Gierach GL. Black–White Breast Cancer Incidence Trends: Effects of Ethnicity. J Natl Cancer Inst. 2018;110(11):1270–1272. doi:10.1093/jnci/djy112. PMID: 29982593. *(verified)*
 
-17. [author list — verify] Breast cancer in Asian Americans in California, 1988–2013: increasing incidence trends and recent data on breast cancer subtypes. Breast Cancer Res Treat. 2017;164(1):139–147. PMID: 28365834.
+17. Gomez SL, Von Behren J, McKinley M, Clarke CA, Shariff-Marco S, Cheng I, Reynolds P, Glaser SL. Breast cancer in Asian Americans in California, 1988–2013: increasing incidence trends and recent data on breast cancer subtypes. Breast Cancer Res Treat. 2017;164(1):139–147. doi:10.1007/s10549-017-4229-1. PMID: 28365834. *(verified)*
 
-18. Hou N, Huo D. A trend analysis of breast cancer incidence rates in the United States from 2000 to 2009 shows a recent increase. Breast Cancer Res Treat. 2013;138(2):633–641. PMID: 23446808. *(verified authors from PDF)*
+18. Hou N, Huo D. A trend analysis of breast cancer incidence rates in the United States from 2000 to 2009 shows a recent increase. Breast Cancer Res Treat. 2013;138(2):633–641. doi:10.1007/s10549-013-2434-0. PMID: 23446808. *(verified)*
 
 19. Li NHY, Li CI. Incidence Rate Trends of Breast Cancer Overall and by Molecular Subtype by Race and Ethnicity and Age. JAMA Netw Open. 2025;8(1):e2456142. doi:10.1001/jamanetworkopen.2024.56142. PMID: 39853979. *(verified)*
 
@@ -68,7 +68,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 ## C. Excluded on adjudication (cited in text as an exclusion)
 
-28. [author list — verify] Disparities in mortality-to-incidence ratios by race/ethnicity for female breast cancer. [journal — Canada; verify]. PMID: 33006431. *(excluded: non-US + mortality-to-incidence ratio outcome)*
+28. Nobel TB, Asumeng CK, Jasek J, Van Beck KC, Mathur R, Qiao B, Brown JJ. Disparities in mortality-to-incidence ratios by race/ethnicity for female breast cancer. Cancer Med. 2020;9(21):8226–8234. doi:10.1002/cam4.3309. PMID: 33006431. *(verified; excluded — outcome is the mortality-to-incidence RATIO, not incidence. NB: this is a US study; the earlier "Canada" note came from a corrupted .txt, now corrected)*
 
 ## D. Methodological references
 
