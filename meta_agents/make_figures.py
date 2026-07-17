@@ -353,10 +353,13 @@ def fig5():
 
     cx = 3.7  # main column x
     # boxes top→bottom
-    box(cx, 9.2, 5.6, 1.0,
-        f"Records identified after deduplication\n(PubMed + Embase)   n = {N_DEDUP}",
+    box(cx, 9.2, 5.6, 1.05,
+        "Records identified from databases   n = 1,187\n"
+        "PubMed n = 686 · Embase n = 501",
         fc="#eaf1fb")
     box(cx, 7.4, 5.6, 1.0, f"Records screened (title / abstract)\nn = {N_DEDUP}")
+    box(8.2, 9.2, 3.0, 0.85, "Duplicates removed\nn = 246", fc="#f4f6f9")
+    arrow(cx + 2.8, 9.2, 8.2 - 1.5, 9.2)
     box(cx, 5.4, 5.6, 1.1, f"Reports assessed for eligibility\n(full text)   n = {N_FULLTEXT}")
     box(cx, 2.9, 6.0, 1.6,
         f"Studies included in the review   n = {N_INCL}\n"
