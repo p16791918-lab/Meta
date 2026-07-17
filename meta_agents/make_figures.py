@@ -327,12 +327,14 @@ def fig4():
 
 # ── Figure 5: PRISMA 2020 flow diagram ───────────────────────────────────────
 def fig5():
-    # Final counts from Codespace report_status.py (cache 8f982a):
+    # Final counts (Codespace report_status.py cache 8f982a + analyst reconciliation).
     N_DEDUP = 941       # identified after deduplication
     N_ABS_EXCL = 456    # excluded at title/abstract (941 - 485)
     N_FULLTEXT = 485    # advanced past abstract → full-text assessed
-    N_FT_EXCL = 457     # excluded at full text (incl. 22 analyst overrides)
-    N_INCL = 28         # included in review (27 meta-eligible + 1 narrative)
+    N_FT_EXCL = 458     # excluded at full text (incl. 23 analyst; +33006431 non-US/MIR)
+    N_INCL = 27         # included in review after reconciliation
+    N_QUANT = 15        # quantitative synthesis (meta-analysis)
+    N_NARR = 12         # narrative synthesis
 
     fig, ax = plt.subplots(figsize=(10.5, 9))
     fig.patch.set_facecolor(SURFACE); ax.set_facecolor(SURFACE)
@@ -358,8 +360,9 @@ def fig5():
     box(cx, 5.4, 5.6, 1.1, f"Reports assessed for eligibility\n(full text)   n = {N_FULLTEXT}")
     box(cx, 2.9, 6.0, 1.6,
         f"Studies included in the review   n = {N_INCL}\n"
-        f"• Quantitative synthesis (meta-analysis)\n"
-        f"• Narrative synthesis (figure-only / non-US)",
+        f"• Quantitative synthesis (meta-analysis)   n = {N_QUANT}\n"
+        f"• Narrative synthesis (figure-only / non-US /   n = {N_NARR}\n"
+        f"   other-design)",
         fc="#eaf7ee", ec="#1c7a3e")
     arrow(cx, 8.7, cx, 7.95)
     arrow(cx, 6.9, cx, 5.98)
@@ -374,7 +377,7 @@ def fig5():
         "— conference abstracts\n— news / editorials\n"
         "— wrong outcome (mortality,\n   stage, screening, MIR)\n"
         "— secondary/summary reports\n— no usable rate/RR data\n"
-        "(incl. 22 analyst-adjudicated)",
+        "(incl. 23 analyst-adjudicated)",
         fc="#fdecec", ec="#b5423f")
     arrow(cx + 2.8, 5.4, ex - 1.6, 5.4)
 
