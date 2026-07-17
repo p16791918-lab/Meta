@@ -1,6 +1,11 @@
 # Racial and Ethnic Disparities in Breast Cancer Incidence in the United States: A Systematic Review and Meta-Analysis Showing That Aggregate Racial Categories Conceal Ethnic, Molecular-Subtype, and Age-Specific Disparities
 
-*Target journal: PLOS ONE. Draft — placeholders in `[brackets]` need the author/Codespace to finalize (search dates, exact query strings, author list, funding).*
+**Junyoung Park** (ORCID: 0009-0005-3623-4882)¹\*
+
+¹ [Affiliation — institution, city, country: TO COMPLETE]
+\* Corresponding author. Email: [preferred correspondence email — CONFIRM]
+
+*Target journal: PLOS ONE. Draft — placeholders in `[brackets]` need the author to finalize (affiliation, correspondence email, funding, competing interests; and the reference list).*
 
 ---
 
@@ -143,7 +148,7 @@ Synthesizing 15 population-based analyses across multiple US registry systems, w
 
 **Author contributions (CRediT).** [Conceptualization, Methodology, Formal analysis, Data curation, Writing – original draft, Writing – review & editing: — ASSIGN per author.]
 
-**Author list.** [Full name(s), affiliation(s), ORCID(s), and corresponding-author email — TO COMPLETE.]
+**Author list.** Junyoung Park (ORCID: 0009-0005-3623-4882) — [affiliation and corresponding-author email TO COMPLETE]. [If co-authors are added, list their names, affiliations, and ORCIDs here.]
 
 ---
 
