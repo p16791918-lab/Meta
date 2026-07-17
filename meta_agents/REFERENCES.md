@@ -32,9 +32,9 @@ article. Author names shown were verified from the PDFs where noted.
 
 11. Moran MS, Gonsalves L, Goss DM, Ma S. Breast cancers in U.S. residing Indian-Pakistani versus non-Hispanic White women: comparative analysis of clinical-pathologic features, treatment, and survival. Breast Cancer Res Treat. 2011;128(2):543–551. PMID: 21301957. *(verified authors from PDF)*
 
-12. Lepeak L, Tevaarwerk A, Jones N, Williamson A, Cetnar J, LoConte N. Persistence in Breast Cancer Disparities Between African Americans and Whites in Wisconsin. WMJ. 2011;110(1):21–25. [vol/pages — verify] PMID: 21473509. *(verified authors from PDF)*
+12. Lepeak L, Tevaarwerk A, Jones N, Williamson A, Cetnar J, LoConte N. Persistence in Breast Cancer Disparities Between African Americans and Whites in Wisconsin. WMJ. 2011;110(1):21–25. PMID: 21473509. *(verified)*
 
-13. Joslyn SA, Foote ML, Nasseri K, Coughlin SS, [+ authors — verify]. Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer Res Treat. 2005;92(2):97–105. PMID: 15986118. *(verified authors from PDF)*
+13. Joslyn SA, Foote ML, Nasseri K, Coughlin SS, Howe HL. Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer Res Treat. 2005;92(2):97–105. doi:10.1007/s10549-005-2112-y. PMID: 15986118. *(verified)*
 
 14. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. *(verified from PDF; flag #46 resolved. Note: same first author as ref 3, Du XL)*
 
