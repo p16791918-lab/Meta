@@ -30,7 +30,7 @@ We hypothesized that the reassuring aggregate picture — near-parity for Black 
 
 ## Methods
 
-This review followed the PRISMA 2020 statement. [A protocol was/was not registered — TBD.]
+This review followed the PRISMA 2020 statement. It was not prospectively registered in PROSPERO; to support transparency the full protocol (PICO, search strategy, eligibility criteria, and analysis plan), the extracted data, and all analysis code are openly available (see Data availability). We regard the complete public availability of data and code as a stronger reproducibility guarantee than registration alone.
 
 ### Eligibility criteria
 
@@ -127,4 +127,26 @@ Synthesizing 15 population-based analyses across multiple US registry systems, w
 
 - **Data and code.** `run_meta_analysis_breast.py` (dataset and DerSimonian–Laird models), `sensitivity_analysis.py`, `rob_assessment.py`, `grade_assessment.py`, `make_figures.py`. Extraction provenance and value-by-value cross-check in `EXTRACTION_LOG.md` and `CROSS_CHECK.md`; screening decisions in `manual_decisions.csv`.
 
-*[Author contributions, funding, competing interests, data-availability statement, and the full reference list to be completed.]*
+## Declarations
+
+**Protocol and registration.** This systematic review was not prospectively registered, as the analysis was already complete when registration was considered; PROSPERO accepts registrations only up to completion of data extraction. The review is instead documented by openly available protocol, data, and code.
+
+**Data availability.** All data and analysis code are openly available in the project repository at https://github.com/p16791918-lab/meta (branch `claude/usage-question-q3vm84`): the dataset and DerSimonian–Laird models (`run_meta_analysis_breast.py`), sensitivity analyses (`sensitivity_analysis.py`), risk-of-bias assessment (`rob_assessment.py`), GRADE assessment (`grade_assessment.py`), figure generation (`make_figures.py`), the search protocol (`BREAST_CANCER_PLAN.md`), the screening-decision log (`manual_decisions.csv`), and value-by-value extraction provenance (`EXTRACTION_LOG.md`, `CROSS_CHECK.md`). No proprietary data were used; all incidence estimates derive from published, aggregate registry reports.
+
+**Ethics.** This study used only published, aggregate registry data and did not involve human participants or identifiable data; institutional review board approval was not required.
+
+**Use of AI assistance.** An AI assistant (Claude, Anthropic) was used to support the literature-search pipeline, two-stage screening, extraction of age-adjusted rates from full-text tables and figures, statistical analysis, figure generation, and drafting. The AI is not an author and bears no responsibility for the work; all AI outputs — including every extracted value, computed estimate, and drafted claim — were verified by the author(s), who take full responsibility for the content.
+
+**Funding.** [The author(s) received no specific funding for this work. — CONFIRM]
+
+**Competing interests.** [The authors have declared that no competing interests exist. — CONFIRM]
+
+**Author contributions (CRediT).** [Conceptualization, Methodology, Formal analysis, Data curation, Writing – original draft, Writing – review & editing: — ASSIGN per author.]
+
+**Author list.** [Full name(s), affiliation(s), ORCID(s), and corresponding-author email — TO COMPLETE.]
+
+---
+
+## References
+
+*[To complete — 27 included studies (15 quantitative + 12 narrative) plus methodological and background citations, in PLOS ONE (Vancouver/numbered) style. A drafted reference list keyed to PMIDs/DOIs can be generated on request.]*
