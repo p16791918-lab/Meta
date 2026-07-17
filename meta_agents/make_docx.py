@@ -36,8 +36,8 @@ def reference_entries(path='REFERENCES.md'):
     for line in open(path, encoding='utf-8'):
         m = re.match(r'^(\d+)\.\s+(.*)', line.rstrip('\n'))
         if m:
-            # strip the trailing italic provenance note *(...)*
-            txt = re.sub(r'\s*\*\([^*]*\)\*\s*$', '', m.group(2))
+            # strip trailing italic notes: provenance *(...)* and/or category *[...]*
+            txt = re.sub(r'(\s*\*[\(\[][^*]*[\)\]]\*\s*)+$', '', m.group(2))
             out.append((int(m.group(1)), txt))
     return out
 

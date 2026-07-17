@@ -25,8 +25,8 @@ Fig4 age crossover · Fig5 PRISMA flow · Fig6 risk of bias.
   extraction/analysis/drafting; all outputs author-verified).
 
 ## Before clicking Submit (3 quick checks)
-1. **Reference reflow** — optionally run Zotero/EndNote so in-text numbers match
-   order-of-appearance (or let the typesetter reflow).
+1. **Reference reflow** — done: in-text citation numbers are already in strict
+   order of first appearance and map one-to-one to the reference list.
 2. **Figures** — run each TIFF through the PLOS PACE tool (pace.apexcovantage.com).
 3. **Suggested reviewers** — add 3–5 (cancer-registry epidemiology / race-ethnicity
    disparities; not recent co-authors).
