@@ -339,6 +339,39 @@ STUDIES: List[Study] = [
           irr_from_rates(77.9, 100.7), se_logirr_from_rate_cis(77.9, 71.8, 84.2, 100.7, 94.7, 106.9),
           minority_rate=77.9, nhw_rate=100.7, notes="age >=50; FA lowest both ages; paper IRR 0.77"),
 
+    # ── 30503975 — Loo et al., Cancer Epidemiology 2019, Hawaii SEER 2010-2013.
+    #    Table 1: invasive BC IR + IRR (95% CI) vs White, all ages, by ethnicity.
+    #    SECOND Hawaii source (crude IRR) — pools with Liu's LA-County subgroups
+    #    (Chinese/Filipina/Japanese) and adds Native Hawaiian. Reported IRRs used.
+    Study("Loo2019_30503975", 2019, "SEER Hawaii", "invasive_incidence", "Japanese",
+          math.log(1.03), se_from_ci(1.03, 1.02, 1.03),
+          minority_rate=158.2, nhw_rate=154.2, notes="Hawaii crude IRR vs White; all ages"),
+    Study("Loo2019_30503975", 2019, "SEER Hawaii", "invasive_incidence", "NativeHawaiian",
+          math.log(1.11), se_from_ci(1.11, 1.10, 1.12),
+          minority_rate=171.5, nhw_rate=154.2, notes="Hawaii crude IRR vs White; all ages"),
+    Study("Loo2019_30503975", 2019, "SEER Hawaii", "invasive_incidence", "Filipina",
+          math.log(0.69), se_from_ci(0.69, 0.68, 0.71),
+          minority_rate=107.0, nhw_rate=154.2, notes="Hawaii crude IRR vs White; all ages"),
+    Study("Loo2019_30503975", 2019, "SEER Hawaii", "invasive_incidence", "Chinese",
+          math.log(0.59), se_from_ci(0.59, 0.55, 0.64),
+          minority_rate=91.7, nhw_rate=154.2, notes="Hawaii crude IRR vs White; all ages"),
+
+    # ── 21301957 — Kakarala et al., Breast Cancer Res Treat 2011 (California CR
+    #    1998-2002). Table 1: invasive BC age-adjusted rate (95% CI), Asian
+    #    Indian/Pakistani vs NHW. All ages IP(high denom) 72.3 (67.0-77.9) vs
+    #    NHW 149.5 (148.5-150.4) → IRR 0.48. NEW ethnic subgroup (South Asian).
+    Study("Kakarala2011_21301957", 2011, "California CR", "invasive_incidence", "AsianIndian",
+          irr_from_rates(72.3, 149.5), se_logirr_from_rate_cis(72.3, 67.0, 77.9, 149.5, 148.5, 150.4),
+          minority_rate=72.3, nhw_rate=149.5, notes="Asian Indian/Pakistani vs NHW; CA 1998-2002"),
+
+    # ── 21473509 — Lepeak et al., WMJ 2011. Table 1: age-adjusted invasive BC
+    #    incidence, African American vs White, Wisconsin state registry 2004-2006:
+    #    103.0 vs 121.2 (RR 0.8; no CI reported → SE from rates). Adds a non-SEER
+    #    STATE registry data point (geographic diversity) to the Black pool.
+    Study("Lepeak2011_21473509", 2011, "Wisconsin CRS", "invasive_incidence", "Black",
+          irr_from_rates(103.0, 121.2), se_from_rates(103.0, 121.2),
+          minority_rate=103.0, nhw_rate=121.2, notes="Wisconsin state registry 2004-06; no CI reported"),
+
     # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
     #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
     #    per 100,000: Black 33.8, White 17.5, Hispanic 14.7, AIAN 14.7, Asian ~12.
@@ -360,6 +393,29 @@ STUDIES: List[Study] = [
           minority_rate=14.7, nhw_rate=17.5,
           notes="TNBC subtype; AIAN vs White IRR 0.84 (0.75-0.93)"),
 
+]
+
+
+# ─── Black–White age crossover (15986118, NAACCR 1994-1998, Table 1) ──────────
+# Age-specific invasive BC incidence per 100,000 and rate ratio (95% CI) vs White.
+# Documents the classic crossover: Black excess in young women reverses after ~40.
+# Not pooled (single source, fine age bands) — reported as a descriptive table.
+# (age_band, white_rate, black_rate, black_RR, lo, hi, api_RR)
+AGE_CROSSOVER_15986118 = [
+    ("20-24",   1.20,   2.30, 1.92, 1.42, 2.60, None),
+    ("25-29",   7.81,  12.20, 1.56, 1.38, 1.77, 0.68),
+    ("30-34",  25.38,  33.21, 1.31, 1.26, 1.36, 0.73),
+    ("35-39",  58.20,  68.50, 1.18, 1.12, 1.24, 0.82),
+    ("40-44", 115.40, 117.59, 1.02, 0.98, 1.04, 0.84),
+    ("45-49", 190.70, 184.77, 0.97, 0.93, 1.00, 0.80),
+    ("50-54", 253.25, 230.87, 0.91, 0.88, 0.94, 0.74),
+    ("55-59", 301.30, 269.46, 0.89, 0.86, 0.92, 0.73),
+    ("60-64", 354.80, 285.29, 0.80, 0.77, 0.83, 0.64),
+    ("65-69", 414.53, 333.60, 0.80, 0.77, 0.83, 0.55),
+    ("70-74", 466.59, 366.04, 0.78, 0.75, 0.81, 0.52),
+    ("75-79", 482.97, 394.05, 0.82, 0.79, 0.85, 0.49),
+    ("80-84", 465.23, 388.29, 0.83, 0.79, 0.87, 0.47),
+    ("85+",   395.10, 332.72, 0.84, 0.79, 0.89, 0.40),
 ]
 
 
@@ -521,6 +577,38 @@ def run_all():
         print(f"  {label:<44} {res['irr']:>6.3f}  {ci:>16}  {res['I2']:>4.0f}%  {p_str}")
     print("═" * 72)
 
+    # ── Disaggregated Asian / ethnic-subgroup analysis (vs NHW) ───────────────
+    print("\n" + "═" * 72)
+    print("  DISAGGREGATED ETHNIC SUBGROUPS vs NHW (invasive incidence)")
+    print("  Shows the ~2-3x spread hidden by the aggregate 'Asian/API' category.")
+    print("═" * 72)
+    print(f"  {'Subgroup':<16}{'k':>3}  {'IRR':>6}  {'95% CI':>16}  {'I2':>5}  sources")
+    print("─" * 72)
+    subgroup_rows = []
+    for g in ["Korean", "Chinese", "AsianIndian", "Vietnamese", "Filipina",
+              "Japanese", "NativeHawaiian"]:
+        ss = _subset(g)
+        if not ss:
+            continue
+        srcs = ",".join(sorted({s.source for s in ss}))
+        if len(ss) >= 2:
+            r = random_effects_meta(ss)
+            subgroup_rows.append((g, r["irr"]))
+            ci = f"({r['ci_low']:.3f}-{r['ci_high']:.3f})"
+            print(f"  {g:<16}{len(ss):>3}  {r['irr']:>6.3f}  {ci:>16}  {r['I2']:>4.0f}%  {srcs}")
+        else:
+            s = ss[0]
+            subgroup_rows.append((g, s.irr))
+            ci = f"({s.ci_low:.3f}-{s.ci_high:.3f})"
+            print(f"  {g:<16}{len(ss):>3}  {s.irr:>6.3f}  {ci:>16}  {'   -':>5}  {srcs}")
+    print("─" * 72)
+    if subgroup_rows:
+        lo_g = min(subgroup_rows, key=lambda x: x[1])
+        hi_g = max(subgroup_rows, key=lambda x: x[1])
+        print(f"  Range: {lo_g[0]} {lo_g[1]:.2f}  ↔  {hi_g[0]} {hi_g[1]:.2f}  "
+              f"({hi_g[1]/lo_g[1]:.1f}x spread) — aggregation masks this.")
+    print("═" * 72)
+
     # ── Age-stratified descriptive (age-crossover / effect modification) ──────
     age_rows = [s for s in STUDIES
                 if s.outcome in ("invasive_incidence_age_lt50", "invasive_incidence_age_ge50")]
@@ -544,6 +632,21 @@ def run_all():
         print("  Note: Japanese highest when young (IRR 1.31); Native Hawaiian")
         print("  overtakes when older (IRR 1.37) — within-API age crossover.")
         print("═" * 72)
+
+    # ── Black–White age crossover (NAACCR 15986118) ──────────────────────────
+    print("\n" + "═" * 72)
+    print("  BLACK–WHITE AGE CROSSOVER — age-specific RR vs White (95% CI)")
+    print("  Source: 15986118, NAACCR 1994-1998, Table 1 (rate+RR+CI). Descriptive.")
+    print("═" * 72)
+    print(f"  {'Age':<8}{'White rate':>11}{'Black rate':>11}{'Black RR (95% CI)':>22}{'API RR':>9}")
+    print("─" * 72)
+    for band, wr, br, rr, lo, hi, api in AGE_CROSSOVER_15986118:
+        api_s = f"{api:.2f}" if api is not None else "  -"
+        print(f"  {band:<8}{wr:>11.1f}{br:>11.1f}{f'{rr:.2f} ({lo:.2f}-{hi:.2f})':>22}{api_s:>9}")
+    print("─" * 72)
+    print("  Black RR 1.92 at 20-24 → crosses 1.0 near 40-44 → 0.78-0.84 after 60.")
+    print("  API RR falls monotonically 0.68 → 0.40; consistently below White.")
+    print("═" * 72)
 
     return results
 

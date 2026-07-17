@@ -218,3 +218,44 @@ qualitatively: DeSantis median age at diagnosis Black 58 vs White 62; establishe
 younger-onset excess in Black women. Not entered as a quantitative meta-analysis row.
 
 **STUDIES now: 59 rows** (was 53) — +6 Hawaii age-stratified.
+
+---
+
+## Full re-sweep of ALL included PDFs — 2026-07-17 (user challenge: "did you read them all?")
+
+Honest answer: I had NOT. Systematically dumped every table + rate-text from all 34
+fulltext PDFs. Found substantial extractable data previously missed:
+
+### NEW rows added to STUDIES (+6, now 65)
+| Paper | Data | Outcome |
+|---|---|---|
+| 30503975 Loo 2019 (Hawaii SEER 2010-13) | Japanese 1.03, Native Hawaiian 1.11, Filipina 0.69, Chinese 0.59 (IRR+CI vs White) | invasive_incidence subgroup |
+| 21301957 Kakarala 2011 (CA CR) | Asian Indian/Pakistani 72.3 vs NHW 149.5 → IRR 0.48 | invasive_incidence subgroup (NEW: South Asian) |
+| 21473509 Lepeak 2011 (Wisconsin CRS) | Black 103.0 vs White 121.2 (state registry, no CI) | invasive_incidence Black (geographic diversity) |
+
+**Consequence:** Chinese/Filipina/Japanese now have k=2 (Liu LA + Hawaii) → POOLABLE.
+New disaggregated-subgroup analysis: Korean 0.34 ↔ Native Hawaiian 1.11 = **3.3x spread**.
+
+### NEW descriptive: Black–White age crossover NOW QUANTITATIVE
+- **15986118** (NAACCR 1994-98) Table 1 = full age-specific rate + RR + 95% CI for
+  Black, AI, API vs White across 14 age bands. Black RR 1.92 (20-24) → 1.02 (40-44,
+  crossover) → 0.78-0.84 (60+). API RR monotonic 0.68→0.40. Stored as
+  AGE_CROSSOVER_15986118, printed by run_all(). This REPLACES my earlier (wrong)
+  claim that Black-White crossover was "narrative only."
+
+### Confirmed figure-only (rates readable off-axis, no CI — NOT extracted as rows)
+- Li&Li 39853979 (Fig 2-5: race×subtype×age panels + APC tables)
+- MMWR 35025856 (Fig 2 race×age), 23446808 Hou&Huo (Fig 2/4 race×ER trends)
+- 33392441, 34508608, 29982593 (ER-subtype / convergence trend figures)
+- 28365834 California Asian: Table 1 is STAGE-specific (localized/regional/distant)
+  by 7 Asian subgroups incl. Vietnamese/South Asian/SE Asian; Fig 2 age<50/≥50 trends.
+  Stage-sum → total invasive derivable (Korean 0.47 … Japanese 0.82) but not yet added.
+
+### Out of US scope (UK studies — international context / narrative only)
+- 39822259 (Eur J Surg Oncol 2026, UK: White ASIR 199.6, Indian 134.7)
+- 25214237 (Leicester UK South Asian vs White)
+
+### FLAGGED for optional future add (not yet in STUDIES)
+- 30503975 subtype × ethnicity (Native Hawaiian TNBC 0.86 / HER2-enriched 1.19 /
+  HR+HER2+ 1.35; Japanese TNBC 1.07) — would extend subtype analysis to disaggregated API.
+- 28365834 stage-summed total-invasive Asian subgroups (adds Vietnamese, South Asian, SE Asian).

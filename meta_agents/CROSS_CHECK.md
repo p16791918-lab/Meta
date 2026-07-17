@@ -1,4 +1,4 @@
-# Data cross-check — by PMID (descending), items 1–74
+# Data cross-check — by PMID (descending), items 1–89
 
 Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `[x]`.
 **rate** = age-adjusted incidence per 100,000; **IRR/RR** = ratio vs NHW.
@@ -130,6 +130,36 @@ Japanese highest when young → Native Hawaiian overtakes when older.
 73. [ ] Japanese **107.1** (100.9–113.4) → IRR 1.06 (paper 1.06, 0.98–1.15; ns)
 74. [ ] Filipino **77.9** (71.8–84.2) → IRR 0.77 (paper 0.77, 0.70–0.85)
 
-**Black–White age crossover** = narrative only (no extractable rate+CI table in included
-full-texts): DeSantis 26513636 p.3 — median age at diagnosis Black **58** vs White **62**;
-well-established younger-onset excess in Black women. Not entered as a quantitative row.
+---
+
+## 15986118 (Racial/ethnic disparities, NAACCR 1994–1998) — BLACK–WHITE AGE CROSSOVER · items 75–80
+Table 1, p.2 — age-specific invasive BC rate /100k + RR (95% CI) vs White. **Full 14-band
+table is in run_all() output**; spot-check the anchors:
+75. [ ] 20–24y: White **1.20**, Black **2.30**, RR **1.92** (1.42–2.60)
+76. [ ] 30–34y: White 25.38, Black RR **1.31** (1.26–1.36); API RR 0.73
+77. [ ] 40–44y: White 115.40, Black RR **1.02** (0.98–1.04) ← crossover point
+78. [ ] 60–64y: White 354.80, Black RR **0.80** (0.77–0.83); API RR 0.64
+79. [ ] 85+y: White 395.10, Black RR 0.84 (0.79–0.89); API RR **0.40**
+80. [ ] API RR monotonic decline 0.68 (25–29) → 0.40 (85+)
+
+## 30503975 (Loo 2019, SEER Hawaii 2010–2013) — overall + subtype ethnic IRR · items 81–86
+Table 1, p.4. Invasive BC rate /100k + IRR (95% CI) vs White. **All Subtypes (overall):**
+81. [ ] White (ref) **154.2** (145.0–164.0)
+82. [ ] Japanese **158.2** → IRR 1.03 (1.02–1.03)
+83. [ ] Native Hawaiian **171.5** → IRR **1.11** (1.10–1.12)
+84. [ ] Filipina **107.0** → IRR 0.69 (0.68–0.71)
+85. [ ] Chinese **91.7** → IRR 0.59 (0.55–0.64)
+86. [ ] (subtype panels also charted for narrative: NativeHawaiian TNBC 0.86, HER2+/HR+ 1.35;
+        Japanese TNBC 1.07 — NOT yet in STUDIES, flagged for optional subtype-by-ethnicity add)
+
+## 21301957 (Kakarala 2011, California CR 1998–2002) — Asian Indian/Pakistani · items 87–88
+Table 1, p.2 (invasive, "high" denominator).
+87. [ ] Asian Indian/Pakistani all-ages **72.3** (67.0–77.9) vs NHW **149.5** (148.5–150.4) → IRR 0.48
+88. [ ] (age bands also in table: <40 10.0, 40–64 141.5, 65+ 186.8 — narrative)
+
+## 21473509 (Lepeak 2011, Wisconsin CRS) — Black vs White, state registry · item 89
+Table 1, p.2. Age-adjusted, 2004–2006 (no CI in source).
+89. [ ] African American **103.0** vs White **121.2** → RR 0.8 (state-level; SE from rates)
+
+**Black–White age crossover** = NOW QUANTITATIVE via 15986118 (items 75–80). Corroborated
+narratively by DeSantis 26513636 p.3 (median age at dx Black 58 vs White 62).
