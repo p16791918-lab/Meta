@@ -36,7 +36,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 13. Joslyn SA, Foote ML, Nasseri K, Coughlin SS, [+ authors — verify]. Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer Res Treat. 2005;92(2):97–105. PMID: 15986118. *(verified authors from PDF)*
 
-14. [author list — verify] Incidence trends in triple-negative breast cancer among women in the United States. Am J Cancer Res. 2023;13(2):678–691. *(no PMID — CROSS_CHECK flag #46; confirm authors/citation)*
+14. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. *(verified from PDF; flag #46 resolved. Note: same first author as ref 3, Du XL)*
 
 15. Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast cancer incidence rates among Asian-American women. Int J Cancer. 2002;99(5):747–750. PMID: 12115511. *(verified authors from PDF)*
 
@@ -62,7 +62,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 25. Yost K, Perkins C, Cohen R, Morris C, Wright W. Socioeconomic status and breast cancer incidence in California for different race/ethnic groups. Cancer Causes Control. 2001;12(8):703–711. PMID: 11562110. *(verified authors from PDF)*
 
-26. Jain RV, [author list — verify]. Cancer incidence in the south Asian population of California, 1988–2000. J Carcinog. [year;vol:pages — verify]. *(no PMID)*
+26. Jain RV, Mills PK, Parikh-Patel A. Cancer incidence in the south Asian population of California, 1988–2000. J Carcinog. [year;vol:pages — verify, ~2005]. *(verified authors from PDF; no PMID)*
 
 27. [author list — verify] Time Trends and Racial Differences in Female Breast Cancer Incidence in Pennsylvania 1985–2004. J Womens Health (Larchmt). 2010. doi:10.1089/jwh.2010.2082. *(narrative-only; abstract-level data)*
 

@@ -69,7 +69,7 @@ Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `
 43. [ ] IRR Hispanic **0.84** (0.82–0.86)
 44. [ ] IRR Asian **0.69** (0.68–0.69)
 45. [ ] IRR AIAN **0.84** (0.75–0.93)
-46. [ ] ⚠️ **FLAG** — confirm citation (author/journal/year); came in as no-PMID `T_` file.
+46. [x] ✅ **RESOLVED** — Du XL, Li Z. "Incidence trends in triple-negative breast cancer among women in the US from 2010 to 2019 by race/ethnicity, age and tumor stage." Am J Cancer Res. 2023;13(2):678–691. (same first author as 34861613)
 
 ---
 
