@@ -296,3 +296,30 @@ Lesson reinforced: a "figure-only / inaccessible" verdict can be wrong when the 
 corrupted AND the PDF is a scan — render the scan and look. (Contrast 33392441, checked
 same day: genuinely figure-only — its rates live only in trend-line figures, no numeric
 rate table, and it is SEER data overlapping sources already pooled → kept narrative.)
+
+---
+
+## FINAL study-level reconciliation — all 27 included studies classified (2026-07-17)
+
+Every included study examined and assigned to quantitative or narrative synthesis.
+
+### Quantitative synthesis (15)
+41082230, 35025856, 34861613, 26513636, 31764279, 33074325, 20147696, 21351091,
+36504334, 30503975, 21301957, 21473509, 15986118, T_e7879b363303 (TNBC), 12115511.
+
+### Narrative — figure-only trend papers (rates in figures, no CI; mostly SEER overlap) (6)
+29982593, 28365834, 23446808, 39853979, 33392441, 34508608.
+
+### Narrative — non-US (PICO is US racial/ethnic disparities) (3)
+25214237 (UK Leicester), 39822259 (England), 33006431 (Canada + mortality-to-
+incidence RATIO — wrong outcome too; exclude regardless of PICO decision).
+
+### Narrative — US but different design / redundant (3)
+40736150 (exposure = persistent-poverty AREA, not race vs NHW: breast IRR 0.79
+PPA-vs-nonPPA); 11562110 (Yost — SES-stratified CA incidence, overlaps Gomez/Liu/
+Deapen; SES-gradient mechanism); T_101456b59470 (Jain — CA South Asian invasive
+breast 75.2 vs NHW 144 → IRR 0.52, no CI, overlaps Kakarala 21301957; corroborates).
+
+Total 15 + 6 + 3 + 3 = 27. Data collection COMPLETE.
+Pending analyst decision: US-only PICO → move the 3 non-US to excluded
+(included 27→24; add to manual_decisions.csv). 33006431 excluded regardless.
