@@ -325,8 +325,70 @@ def fig4():
     print("wrote figures/fig4_age_crossover.png")
 
 
+# ── Figure 5: PRISMA 2020 flow diagram ───────────────────────────────────────
+def fig5():
+    # Final counts from Codespace report_status.py (cache 8f982a):
+    N_DEDUP = 941       # identified after deduplication
+    N_ABS_EXCL = 456    # excluded at title/abstract (941 - 485)
+    N_FULLTEXT = 485    # advanced past abstract → full-text assessed
+    N_FT_EXCL = 457     # excluded at full text (incl. 22 analyst overrides)
+    N_INCL = 28         # included in review (27 meta-eligible + 1 narrative)
+
+    fig, ax = plt.subplots(figsize=(10.5, 9))
+    fig.patch.set_facecolor(SURFACE); ax.set_facecolor(SURFACE)
+    ax.set_xlim(0, 10); ax.set_ylim(0, 10); ax.axis("off")
+
+    def box(x, y, w, h, text, fc="#f4f6f9", ec=INK2, bold_first=True):
+        ax.add_patch(plt.Rectangle((x - w / 2, y - h / 2), w, h, facecolor=fc,
+                                   edgecolor=ec, lw=1.3, zorder=2))
+        lines = text.split("\n")
+        ax.text(x, y, text, ha="center", va="center", fontsize=8.6,
+                color=INK, zorder=3, linespacing=1.45)
+
+    def arrow(x0, y0, x1, y1):
+        ax.annotate("", xy=(x1, y1), xytext=(x0, y0),
+                    arrowprops=dict(arrowstyle="-|>", color=INK2, lw=1.5), zorder=1)
+
+    cx = 3.7  # main column x
+    # boxes top→bottom
+    box(cx, 9.2, 5.6, 1.0,
+        f"Records identified after deduplication\n(PubMed + Embase)   n = {N_DEDUP}",
+        fc="#eaf1fb")
+    box(cx, 7.4, 5.6, 1.0, f"Records screened (title / abstract)\nn = {N_DEDUP}")
+    box(cx, 5.4, 5.6, 1.1, f"Reports assessed for eligibility\n(full text)   n = {N_FULLTEXT}")
+    box(cx, 2.9, 6.0, 1.6,
+        f"Studies included in the review   n = {N_INCL}\n"
+        f"• Quantitative synthesis (meta-analysis)\n"
+        f"• Narrative synthesis (figure-only / non-US)",
+        fc="#eaf7ee", ec="#1c7a3e")
+    arrow(cx, 8.7, cx, 7.95)
+    arrow(cx, 6.9, cx, 5.98)
+    arrow(cx, 4.85, cx, 3.72)
+
+    # side exclusion boxes
+    ex = 8.2
+    box(ex, 7.4, 3.0, 1.0, f"Excluded at\ntitle/abstract\nn = {N_ABS_EXCL}", fc="#fdecec", ec="#b5423f")
+    arrow(cx + 2.8, 7.4, ex - 1.5, 7.4)
+    box(ex, 5.4, 3.2, 2.2,
+        f"Excluded at full text\nn = {N_FT_EXCL}\n"
+        "— conference abstracts\n— news / editorials\n"
+        "— wrong outcome (mortality,\n   stage, screening, MIR)\n"
+        "— secondary/summary reports\n— no usable rate/RR data\n"
+        "(incl. 22 analyst-adjudicated)",
+        fc="#fdecec", ec="#b5423f")
+    arrow(cx + 2.8, 5.4, ex - 1.6, 5.4)
+
+    ax.text(0.2, 9.85, "PRISMA 2020 flow — racial/ethnic disparities in breast cancer incidence",
+            fontsize=12, fontweight="bold", color=INK)
+    fig.tight_layout()
+    fig.savefig("figures/fig5_prisma.png", dpi=300, facecolor=SURFACE)
+    plt.close(fig)
+    print("wrote figures/fig5_prisma.png")
+
+
 if __name__ == "__main__":
     fig1()
     fig2()
     fig3()
     fig4()
+    fig5()
