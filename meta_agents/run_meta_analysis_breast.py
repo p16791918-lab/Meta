@@ -84,6 +84,11 @@ def se_from_ci(irr, ci_low, ci_high):
     return (math.log(ci_high) - math.log(ci_low)) / (2 * 1.96)
 
 
+def se_logrr_from_counts(cases_minority, cases_nhw):
+    """SE of log(rate ratio) from case counts (Poisson): sqrt(1/c_m + 1/c_n)."""
+    return math.sqrt(1 / cases_minority + 1 / cases_nhw)
+
+
 def irr_from_rates(r_minority, r_nhw):
     """Convenience: log(IRR) from two rates."""
     return math.log(r_minority / r_nhw)
@@ -322,6 +327,26 @@ STUDIES: List[Study] = [
           math.log(0.68), se_from_ci(0.68, 0.65, 0.70), notes="adj RR vs NHW"),
     Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Korean",
           math.log(0.34), se_from_ci(0.34, 0.32, 0.36), notes="adj RR vs NHW"),
+
+    # ── 12115511 — Deapen et al., Int J Cancer 2002 "Rapidly rising breast
+    #    cancer incidence rates among Asian-American women" (LA County CSP/CCR,
+    #    Table I, age-adj 1970 US std, 1988-1997). Ethnic-subgroup rows only:
+    #    10-year mean age-adj rate vs NHW mean (124.3); SE from summed Poisson
+    #    case counts sqrt(1/C_e + 1/C_w). NHW/Black/Hispanic/API NOT added (LA
+    #    County → overlaps Liu 21351091; addressed in registry-cluster sensitivity).
+    #    Scanned PDF read via image render (txt was corrupted). Adds Korean k=2.
+    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Chinese",
+          irr_from_rates(47.25, 124.31), se_logrr_from_counts(683, 31897),
+          minority_rate=47.25, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
+    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Japanese",
+          irr_from_rates(85.04, 124.31), se_logrr_from_counts(758, 31897),
+          minority_rate=85.04, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
+    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Filipina",
+          irr_from_rates(84.37, 124.31), se_logrr_from_counts(1177, 31897),
+          minority_rate=84.37, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
+    Study("Deapen2002_12115511", 2002, "LA County CSP", "invasive_incidence", "Korean",
+          irr_from_rates(28.58, 124.31), se_logrr_from_counts(271, 31897),
+          minority_rate=28.58, nhw_rate=124.31, notes="LA County 1988-97 mean; overlaps Liu (LA)"),
 
     # ── 36504334 — Hicks/Liu et al., Cancer Causes Control 2023 "Characterizing
     #    breast cancer incidence and trends among AANHPI in Hawai'i" (SEER Hawaii,

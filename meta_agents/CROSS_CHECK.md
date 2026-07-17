@@ -1,4 +1,4 @@
-# Data cross-check — by PMID (descending), items 1–91
+# Data cross-check — by PMID (descending), items 1–95
 
 Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `[x]`.
 **rate** = age-adjusted incidence per 100,000; **IRR/RR** = ratio vs NHW.
@@ -163,6 +163,18 @@ Table 1, p.2. Age-adjusted, 2004–2006 (no CI in source).
 
 **Black–White age crossover** = NOW QUANTITATIVE via 15986118 (items 75–80). Corroborated
 narratively by DeSantis 26513636 p.3 (median age at dx Black 58 vs White 62).
+
+## 12115511 (Deapen 2002, Int J Cancer, LA County CSP) — Asian subgroups · items 92–95
+Table I (scanned PDF, read via image render; txt was corrupted). Age-adj (1970 US std)
+invasive BC rate /100k, 1988–1997. Values below = 10-year mean rate; SE from summed
+Poisson case counts. NHW 10-yr mean = **124.3** (total cases 31,897).
+92. [ ] Chinese mean **47.3** (cases 683) → IRR 0.38 (0.35–0.41)
+93. [ ] Japanese mean **85.0** (cases 758) → IRR 0.68 (0.64–0.74)
+94. [ ] Filipina mean **84.4** (cases 1177) → IRR 0.68 (0.64–0.72)
+95. [ ] Korean mean **28.6** (cases 271) → IRR 0.23 (0.20–0.26)
+Spot-check anchor years (Table I): 1988 Chinese 42.5 / Japanese 69.5 / Filipino 81.5 /
+Korean 26.1 / NHW 134.9;  1997 Chinese 50.8 / Japanese 114.3 / Filipino 98.1 / Korean 44.5 / NHW 128.6.
+NB: LA County → overlaps Liu 21351091 (registry-cluster sensitivity in Phase C).
 
 ## 41082230 (Ghana/US, JAMA Netw Open) — ER-status subtypes (Table 2, age-std Segi) · items 90–91
 NB: this study has NO PDF, but its PMC .txt keeps Table 2 as inline text → extractable.

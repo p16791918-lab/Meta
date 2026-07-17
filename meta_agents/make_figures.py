@@ -185,10 +185,10 @@ def fig2():
     fig, ax = plt.subplots(figsize=(9.5, 5.6))
     fig.patch.set_facecolor(SURFACE); ax.set_facecolor(SURFACE)
     forest_panel(ax, rows, "Disaggregated Asian / Pacific Islander ethnic subgroups vs NHW",
-                 xlim=(0.25, 1.6))
+                 xlim=(0.16, 1.7))
     fig.text(0.02, 0.02,
-             "Same aggregate 'Asian/API' category, disaggregated: Korean 0.34 ↔ "
-             "Native Hawaiian 1.11 — a ~3× spread the pooled estimate hides.",
+             "Same aggregate 'Asian/API' category, disaggregated: Korean 0.28 ↔ "
+             "Native Hawaiian 1.11 — a ~4× spread the pooled estimate hides.",
              fontsize=8.5, color=INK2, ha="left")
     fig.tight_layout(rect=[0, 0.05, 1, 1])
     fig.savefig("figures/fig2_subgroups_forest.png", dpi=300, facecolor=SURFACE)

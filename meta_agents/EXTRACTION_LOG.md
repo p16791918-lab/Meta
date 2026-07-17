@@ -274,3 +274,25 @@ Confirmed the pattern, with one important nuance:
 - General rule going forward: **corrupted or poorly-linearized .txt lose table structure**
   (that caused the earlier false exclusions); **PMC-XML-derived .txt keep tables inline**
   and are usable. When in doubt, prefer the PDF via pdfplumber. STUDIES 65 → 67.
+
+---
+
+## 12115511 (Deapen 2002) recovered from scanned PDF — 2026-07-17
+
+The included study 12115511 ("Rapidly rising breast cancer incidence rates among
+Asian-American women", Deapen, Int J Cancer 2002) had a CORRUPTED .txt (a different
+article — a lifestyle/nativity survivorship paper) AND a scanned (image-only) PDF that
+pdfplumber could not extract. Rendered the scan to PNG (pypdfium2 scale=3) and read
+Table I directly. It contains annual age-adjusted invasive BC rates + case counts by
+ethnicity for LA County 1988–1997 — a clean quantitative source after all.
+
+Added Asian subgroup rows (Chinese/Japanese/Filipina/Korean) using 10-year mean rate
+vs NHW mean (124.3) and Poisson SE from summed case counts (se_logrr_from_counts).
+Korean now k=2, Chinese/Filipina/Japanese k=3. Main-race rows (Black/Hispanic/API)
+NOT added — LA County overlaps Liu 21351091 (flagged for registry-cluster sensitivity).
+STUDIES 83 → 87.
+
+Lesson reinforced: a "figure-only / inaccessible" verdict can be wrong when the txt is
+corrupted AND the PDF is a scan — render the scan and look. (Contrast 33392441, checked
+same day: genuinely figure-only — its rates live only in trend-line figures, no numeric
+rate table, and it is SEER data overlapping sources already pooled → kept narrative.)
