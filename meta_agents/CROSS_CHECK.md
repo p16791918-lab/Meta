@@ -1,4 +1,4 @@
-# Data cross-check — by PMID (descending), items 1–46
+# Data cross-check — by PMID (descending), items 1–74
 
 Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `[x]`.
 **rate** = age-adjusted incidence per 100,000; **IRR/RR** = ratio vs NHW.
@@ -111,3 +111,25 @@ All IRR vs NHW (NHW=1 reference). #17-resolved: the "31.3" is NHW's rate; Black=
 64. [ ] NHAPI **109.5** (108.7–110.4)
 65. [ ] AIAN **96.5** (93.5–99.5)
 66. [ ] Hispanic **97.7** (97.0–98.4)
+
+---
+
+## 36504334 (Hawaii SEER, Cancer Causes Control 2023) — AGE-STRATIFIED · items 67–74
+2010–2014 AAIR /100k, invasive BC. Reference = Non-Hispanic White. Age crossover:
+Japanese highest when young → Native Hawaiian overtakes when older.
+
+**Age <50 years · Results text p.4 (para "Among young women, the 2010–2014…") + Table 2**
+67. [ ] NHW (ref) **39.8** (34.8–45.1)
+68. [ ] Japanese **52.0** (45.6–58.9) → IRR 1.31
+69. [ ] Native Hawaiian **33.2** (28.7–38.1) → IRR 0.83
+70. [ ] Filipino **31.7** (27.4–36.4) → IRR 0.80
+
+**Age ≥50 years · Results text p.5 + Table 2 (older-women panel)**
+71. [ ] NHW (ref) **100.7** (94.7–106.9)
+72. [ ] Native Hawaiian **137.6** (128.2–147.4) → IRR **1.37** (paper-reported 1.37, 1.25–1.49)
+73. [ ] Japanese **107.1** (100.9–113.4) → IRR 1.06 (paper 1.06, 0.98–1.15; ns)
+74. [ ] Filipino **77.9** (71.8–84.2) → IRR 0.77 (paper 0.77, 0.70–0.85)
+
+**Black–White age crossover** = narrative only (no extractable rate+CI table in included
+full-texts): DeSantis 26513636 p.3 — median age at diagnosis Black **58** vs White **62**;
+well-established younger-onset excess in Black women. Not entered as a quantitative row.

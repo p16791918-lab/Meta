@@ -312,6 +312,33 @@ STUDIES: List[Study] = [
     Study("Liu2012_21351091", 2012, "LA County SEER", "invasive_incidence", "Korean",
           math.log(0.34), se_from_ci(0.34, 0.32, 0.36), notes="adj RR vs NHW"),
 
+    # ── 36504334 — Hicks/Liu et al., Cancer Causes Control 2023 "Characterizing
+    #    breast cancer incidence and trends among AANHPI in Hawai'i" (SEER Hawaii,
+    #    2010-2014 AAIR per 100,000). AGE-STRATIFIED (<50 vs ≥50) by ethnicity.
+    #    This paper does double duty: it feeds the AGE-CROSSOVER analysis AND the
+    #    Asian-disaggregation theme (Japanese / Filipino / Native Hawaiian).
+    #    NHW reference age <50: 39.8 (34.8-45.1); age ≥50: 100.7 (94.7-106.9).
+    #    IRRs computed here match the paper's reported IRRs (≥50: NH 1.37, JA 1.06,
+    #    FA 0.77). Segregated from the main pool (different, age-specific outcome).
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_lt50", "Japanese",
+          irr_from_rates(52.0, 39.8), se_logirr_from_rate_cis(52.0, 45.6, 58.9, 39.8, 34.8, 45.1),
+          minority_rate=52.0, nhw_rate=39.8, notes="age <50; 2010-2014 AAIR; JA highest when young"),
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_lt50", "NativeHawaiian",
+          irr_from_rates(33.2, 39.8), se_logirr_from_rate_cis(33.2, 28.7, 38.1, 39.8, 34.8, 45.1),
+          minority_rate=33.2, nhw_rate=39.8, notes="age <50; 2010-2014 AAIR"),
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_lt50", "Filipino",
+          irr_from_rates(31.7, 39.8), se_logirr_from_rate_cis(31.7, 27.4, 36.4, 39.8, 34.8, 45.1),
+          minority_rate=31.7, nhw_rate=39.8, notes="age <50; 2010-2014 AAIR; FA lowest"),
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_ge50", "NativeHawaiian",
+          irr_from_rates(137.6, 100.7), se_logirr_from_rate_cis(137.6, 128.2, 147.4, 100.7, 94.7, 106.9),
+          minority_rate=137.6, nhw_rate=100.7, notes="age >=50; NH highest when older (crossover); paper IRR 1.37"),
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_ge50", "Japanese",
+          irr_from_rates(107.1, 100.7), se_logirr_from_rate_cis(107.1, 100.9, 113.4, 100.7, 94.7, 106.9),
+          minority_rate=107.1, nhw_rate=100.7, notes="age >=50; paper IRR 1.06 (ns)"),
+    Study("Hawaii2023_36504334", 2023, "SEER Hawaii", "invasive_incidence_age_ge50", "Filipino",
+          irr_from_rates(77.9, 100.7), se_logirr_from_rate_cis(77.9, 71.8, 84.2, 100.7, 94.7, 106.9),
+          minority_rate=77.9, nhw_rate=100.7, notes="age >=50; FA lowest both ages; paper IRR 0.77"),
+
     # ── T_e7879b363303 — "Incidence trends in triple-negative breast cancer
     #    among women in the US" (full paper, 14pp). Age-adjusted TNBC incidence
     #    per 100,000: Black 33.8, White 17.5, Hispanic 14.7, AIAN 14.7, Asian ~12.
@@ -493,6 +520,30 @@ def run_all():
         p_str = f"{res['p']:.4f}" if res['p'] >= 0.0001 else "<0.001"
         print(f"  {label:<44} {res['irr']:>6.3f}  {ci:>16}  {res['I2']:>4.0f}%  {p_str}")
     print("═" * 72)
+
+    # ── Age-stratified descriptive (age-crossover / effect modification) ──────
+    age_rows = [s for s in STUDIES
+                if s.outcome in ("invasive_incidence_age_lt50", "invasive_incidence_age_ge50")]
+    if age_rows:
+        print("\n" + "═" * 72)
+        print("  AGE-STRATIFIED — within-study IRR vs NHW (effect modification by age)")
+        print("  Source: Hawaii SEER 36504334; NOT pooled with the age-adjusted main")
+        print("  analysis — a separate, age-specific outcome. Shows the crossover.")
+        print("═" * 72)
+        print(f"  {'Group':<16} {'<50y IRR (95% CI)':<24} {'>=50y IRR (95% CI)':<24}")
+        print("─" * 72)
+        groups = ["Japanese", "NativeHawaiian", "Filipino"]
+        idx = {(s.minority_group, s.outcome): s for s in age_rows}
+        for g in groups:
+            lt = idx.get((g, "invasive_incidence_age_lt50"))
+            ge = idx.get((g, "invasive_incidence_age_ge50"))
+            lt_s = f"{lt.irr:.2f} ({lt.ci_low:.2f}-{lt.ci_high:.2f})" if lt else "-"
+            ge_s = f"{ge.irr:.2f} ({ge.ci_low:.2f}-{ge.ci_high:.2f})" if ge else "-"
+            print(f"  {g:<16} {lt_s:<24} {ge_s:<24}")
+        print("─" * 72)
+        print("  Note: Japanese highest when young (IRR 1.31); Native Hawaiian")
+        print("  overtakes when older (IRR 1.37) — within-API age crossover.")
+        print("═" * 72)
 
     return results
 

@@ -185,3 +185,36 @@ Key NARRATIVE finding: Native Hawaiian incidence HIGHEST (above White) in Hawaii
 Japanese approaching/exceeding White. Overlaps 36504334 (Hawaii). => narrative
 (Native Hawaiian > White) not a precise quantitative point.
 33392441 similarly: Table 1 = counts/woman-years only; rates in figures.
+
+---
+
+## Age-stratified extraction (age-crossover / effect modification) — 2026-07-17
+
+**Rationale:** the overall age-adjusted pool converges (Black IRR 0.94, CI crosses 1)
+partly because age-standardization masks opposing age-specific patterns. Extracting
+age-stratified rates surfaces the crossover that the pooled estimate hides.
+
+### 36504334 — Hawaii SEER (Cancer Causes Control 2023), 2010–2014 AAIR /100k
+Double-duty source: age strata × disaggregated API ethnicity. NHW = reference.
+
+| Group | <50y AAIR (95% CI) | IRR | ≥50y AAIR (95% CI) | IRR |
+|---|---|---|---|---|
+| NHW (ref) | 39.8 (34.8–45.1) | — | 100.7 (94.7–106.9) | — |
+| Japanese | 52.0 (45.6–58.9) | 1.31 | 107.1 (100.9–113.4) | 1.06 (ns) |
+| Native Hawaiian | 33.2 (28.7–38.1) | 0.83 | 137.6 (128.2–147.4) | **1.37** |
+| Filipino | 31.7 (27.4–36.4) | 0.80 | 77.9 (71.8–84.2) | 0.77 |
+
+Computed IRR CIs (rates treated independent) reproduce the paper's reported IRRs
+(≥50: NH 1.37, JA 1.06, FA 0.77) → extraction validated.
+**Within-API crossover:** Japanese highest when young; Native Hawaiian overtakes
+when older. Added to STUDIES as outcomes `invasive_incidence_age_lt50` /
+`invasive_incidence_age_ge50` (6 rows). Kept OUT of the main age-adjusted pool.
+
+### Black–White age crossover — NARRATIVE ONLY
+No included full-text gives an extractable Black-vs-White rate+CI table by age band
+(MMWR 35025856 and Li&Li 39853979 report it as APC trends / figures; DeSantis 26513636
+Fig 2 is case-distribution/survival, not age-specific incidence). Documented
+qualitatively: DeSantis median age at diagnosis Black 58 vs White 62; established
+younger-onset excess in Black women. Not entered as a quantitative meta-analysis row.
+
+**STUDIES now: 59 rows** (was 53) — +6 Hawaii age-stratified.
