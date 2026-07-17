@@ -121,12 +121,29 @@ Synthesizing 14 population-based analyses across multiple US registry systems, w
 
 ## Figures
 
-- **Fig 1.** Forest plots of pooled invasive breast cancer IRR versus NHW for the four aggregate racial groups (the "convergence" view).
-- **Fig 2.** Disaggregated Asian/Pacific Islander ethnic subgroups versus NHW (Korean 0.28 ↔ Native Hawaiian 1.11).
-- **Fig 3.** Molecular-subtype gradient: Black women (rising with aggressiveness to TNBC ~2.0) contrasted with Native Hawaiian women (HER2-positive high, TNBC low).
-- **Fig 4.** Age crossover: Black–White rate ratio by age band (NAACCR) and within-API crossover (Hawaii).
-- **Fig 5.** PRISMA 2020 flow diagram.
-- **Fig 6.** Risk-of-bias traffic-light across six registry-tailored domains.
+**Fig 1.** Forest plots of pooled invasive breast cancer IRR versus NHW for the four aggregate racial groups (the "convergence" view).
+
+![Fig 1](figures/fig1_main_forest.png)
+
+**Fig 2.** Disaggregated Asian/Pacific Islander ethnic subgroups versus NHW (Korean 0.34 ↔ Native Hawaiian 1.11).
+
+![Fig 2](figures/fig2_subgroups_forest.png)
+
+**Fig 3.** Molecular-subtype gradient: Black women (rising with aggressiveness to TNBC ~2.0) contrasted with Native Hawaiian women (HER2-positive high, TNBC low).
+
+![Fig 3](figures/fig3_subtypes_forest.png)
+
+**Fig 4.** Age crossover: Black–White rate ratio by age band (NAACCR) and within-API crossover (Hawaii).
+
+![Fig 4](figures/fig4_age_crossover.png)
+
+**Fig 5.** PRISMA 2020 flow diagram.
+
+![Fig 5](figures/fig5_prisma.png)
+
+**Fig 6.** Risk-of-bias traffic-light across six registry-tailored domains.
+
+![Fig 6](figures/fig6_rob.png)
 
 ## Supporting information
 
