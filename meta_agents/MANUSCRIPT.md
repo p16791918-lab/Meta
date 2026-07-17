@@ -154,4 +154,4 @@ Synthesizing 15 population-based analyses across multiple US registry systems, w
 
 ## References
 
-*[To complete — 27 included studies (15 quantitative + 12 narrative) plus methodological and background citations, in PLOS ONE (Vancouver/numbered) style. A drafted reference list keyed to PMIDs/DOIs can be generated on request.]*
+A drafted reference list (Vancouver / PLOS ONE numbered style) for the 27 included studies, the adjudicated exclusion, and the methodological citations is in `REFERENCES.md`. Author lists and a few volume/page fields marked `[verify]` there require confirmation against NCBI (blocked in the analysis environment; run the E-utilities command in the Codespace). Numbering will be reconciled to order-of-appearance once inline citation markers are inserted into the body.
