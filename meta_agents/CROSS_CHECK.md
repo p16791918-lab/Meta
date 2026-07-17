@@ -1,4 +1,4 @@
-# Data cross-check — by PMID (descending), items 1–95
+# Data cross-check — by PMID (descending), items 1–99
 
 Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `[x]`.
 **rate** = age-adjusted incidence per 100,000; **IRR/RR** = ratio vs NHW.
@@ -141,6 +141,14 @@ table is in run_all() output**; spot-check the anchors:
 78. [ ] 60–64y: White 354.80, Black RR **0.80** (0.77–0.83); API RR 0.64
 79. [ ] 85+y: White 395.10, Black RR 0.84 (0.79–0.89); API RR **0.40**
 80. [ ] API RR monotonic decline 0.68 (25–29) → 0.40 (85+)
+
+## 15986118 Table 2 — HISPANIC vs non-Hispanic (all) age-specific · items 96–99
+Reference = **non-Hispanic (all races)**, NOT NHW — separate from the vs-White crossover.
+Hispanic near-parity when young, then steadily lower. (rate/100k, RR vs non-Hispanic)
+96. [ ] 20–24y: non-Hisp 1.13, Hisp 1.23 → RR **1.09** (0.73–1.63)
+97. [ ] 35–39y: non-Hisp 52.33, Hisp 36.79 → RR 0.70 (0.65–0.75)
+98. [ ] 40–44y: non-Hisp 100.48, Hisp 73.99 → RR **0.74** (paper prints 0.84 — likely typo; 73.99/100.48=0.74)
+99. [ ] 80–84y: non-Hisp 376.47, Hisp 210.54 → RR **0.56** (0.51–0.62)
 
 ## 30503975 (Loo 2019, SEER Hawaii 2010–2013) — overall + subtype ethnic IRR · items 81–86
 Table 1, p.4. Invasive BC rate /100k + IRR (95% CI) vs White. **All Subtypes (overall):**

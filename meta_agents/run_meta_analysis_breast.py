@@ -489,6 +489,27 @@ AGE_CROSSOVER_15986118 = [
     ("85+",   395.10, 332.72, 0.84, 0.79, 0.89, 0.40),
 ]
 
+# 15986118 Table 2 — Hispanic vs NON-HISPANIC (all) age-specific rate + RR (95% CI).
+# NB: reference is "non-Hispanic (all races combined)", NOT NHW — so this is NOT
+# directly comparable to the vs-White crossover above and is kept as a separate,
+# descriptive series. Hispanic shows near-parity at 20-24 (RR 1.09) then a steady
+# decline to 0.56. (age, non-Hisp rate, Hisp rate, RR, lo, hi)
+AGE_HISPANIC_15986118 = [
+    ("20-24",   1.13,   1.23, 1.09, 0.73, 1.63),
+    ("25-29",   7.33,   6.45, 0.88, 0.74, 1.04),
+    ("30-34",  23.11,  17.14, 0.74, 0.67, 0.82),
+    ("35-39",  52.33,  36.79, 0.70, 0.65, 0.75),
+    ("40-44", 100.48,  73.99, 0.74, 0.70, 0.78),  # paper prints RR 0.84 — likely typo (73.99/100.48=0.74)
+    ("45-49", 165.64, 118.07, 0.71, 0.67, 0.75),
+    ("50-54", 218.72, 145.14, 0.66, 0.63, 0.70),
+    ("55-59", 258.29, 169.11, 0.65, 0.61, 0.69),
+    ("60-64", 294.97, 198.09, 0.67, 0.63, 0.71),
+    ("65-69", 337.19, 219.35, 0.65, 0.61, 0.69),
+    ("70-74", 377.25, 231.57, 0.61, 0.57, 0.65),
+    ("75-79", 390.33, 232.25, 0.59, 0.55, 0.64),
+    ("80-84", 376.47, 210.54, 0.56, 0.51, 0.62),
+]
+
 
 # ─── Random-effects meta-analysis (DerSimonian-Laird) ─────────────────────────
 
@@ -717,6 +738,9 @@ def run_all():
     print("─" * 72)
     print("  Black RR 1.92 at 20-24 → crosses 1.0 near 40-44 → 0.78-0.84 after 60.")
     print("  API RR falls monotonically 0.68 → 0.40; consistently below White.")
+    hisp_lo = AGE_HISPANIC_15986118[-1]
+    print(f"  Hispanic vs non-Hispanic (all): {AGE_HISPANIC_15986118[0][3]:.2f} at 20-24 "
+          f"→ {hisp_lo[3]:.2f} at 80-84 (ref = non-Hispanic, not NHW).")
     print("═" * 72)
 
     return results

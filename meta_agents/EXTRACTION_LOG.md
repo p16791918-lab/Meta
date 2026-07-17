@@ -326,3 +326,19 @@ breast 75.2 vs NHW 144 → IRR 0.52, no CI, overlaps Kakarala 21301957; corrobor
 Total 15 + 6 + 3 + 3 = 27. Data collection COMPLETE.
 Pending analyst decision: US-only PICO → move the 3 non-US to excluded
 (included 27→24; add to manual_decisions.csv). 33006431 excluded regardless.
+
+---
+
+## 15986118 under-extraction fixed — Hispanic age-crossover (Table 2) — 2026-07-17
+
+User flagged that 15986118 (Joslyn/NAACCR) was under-mined. Re-checked all 4 tables:
+Table 1 = Black/AI/API vs White age-specific (already extracted → AGE_CROSSOVER);
+Table 2 = **Hispanic vs non-Hispanic (all)** age-specific (WAS MISSED); Tables 3–4 =
+stage-stratified (out of scope). Added Table 2 as AGE_HISPANIC_15986118. Hispanic
+near-parity at 20–24 (RR 1.09) → steady decline to 0.56 at 80–84 — a Hispanic
+age gradient. CAVEAT: reference is "non-Hispanic (all races combined)", NOT NHW,
+so it is kept as a separate descriptive series, not merged into the vs-White
+crossover figure. Noted the printed 40–44 RR (0.84) is a likely typo (73.99/100.48
+= 0.74). No all-ages age-adjusted rate exists in this paper (all tables are
+age-specific), so 15986118 remains a descriptive age-crossover source, not a
+contributor to the aggregate pooled IRRs. CROSS_CHECK items 96–99.
