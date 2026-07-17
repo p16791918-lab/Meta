@@ -64,7 +64,7 @@ article. Author names shown were verified from the PDFs where noted.
 
 26. Jain RV, Mills PK, Parikh-Patel A. Cancer incidence in the south Asian population of California, 1988–2000. J Carcinog. 2005;4:21. doi:10.1186/1477-3163-4-21. *(authors verified from PDF; volume/article per BMC J Carcinog — confirm article number at submission)*
 
-27. [author list — verify] Time Trends and Racial Differences in Female Breast Cancer Incidence in Pennsylvania 1985–2004. J Womens Health (Larchmt). 2011;20(3):325–331. doi:10.1089/jwh.2010.2082. *(volume/pages verified via Crossref; author list still to confirm; narrative-only, abstract-level data)*
+27. Han Y, Talbott E, Donovan M. Time Trends and Racial Differences in Female Breast Cancer Incidence in Pennsylvania 1985–2004. J Womens Health (Larchmt). 2011;20(3):325–331. doi:10.1089/jwh.2010.2082. *(verified via Crossref; narrative-only, abstract-level data)*
 
 ## C. Excluded on adjudication (cited in text as an exclusion)
 
