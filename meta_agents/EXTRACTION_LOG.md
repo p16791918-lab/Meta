@@ -358,3 +358,19 @@ Impact: Korean returns to k=1 (Liu 0.34); Chinese/Filipina/Japanese remain k=2
 narrative 12 -> 13 (included total still 27). Updated: STUDIES, fig2 caption,
 fig5 PRISMA (14/13), fig6 RoB (14 studies), GRADE text, manuscript, REFERENCES.
 CROSS_CHECK items 92-95 retained for provenance but no longer feed the pool.
+
+---
+
+## Gomez 20147696 — derived combined-Asian removed for consistency — 2026-07-17
+
+User noted (correctly) that the analyst-derived combined-Asian value (96.4,
+PY-weighted from US-born 135.9 + foreign-born 78.5) is the same kind of derived
+value we demoted for 12115511. For consistency ("no analyst-derived value in the
+pool"), the combined-Asian row was REMOVED from the aggregate Asian comparison.
+Impact: Asian pool 0.756 (k=5) -> 0.782 (k=4, all direct-reported) — the derived
+value was not driving the estimate. Gomez now contributes its DIRECT, non-derived
+nativity finding as a sub-analysis (outcome invasive_incidence_nativity):
+US-born Asian IRR 0.93 (≈NHW), foreign-born 0.54 (~half) — a generational gradient,
+which is Gomez's actual novel contribution. Updated: STUDIES, run_all nativity
+block, MANUSCRIPT (API 0.76->0.78, sensitivity 0.75-0.82, nativity sentence),
+GRADE text, CROSS_CHECK #39 (resolved). fig1 Asian panel now k=4.

@@ -294,16 +294,21 @@ STUDIES: List[Study] = [
 
     # ── 20147696 — Gomez et al., Am J Public Health 2010 "Hidden Breast Cancer
     #    Disparities in Asian Women" (California Cancer Registry, Table 2, age-adj
-    #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian aggregate
-    #    135.9 (129.6–142.4); foreign-born Asian aggregate 78.5 (76.6–80.4).
-    #    Primary point = person-year-weighted combined Asian 96.4 vs NHW 145.6
-    #    (cases: Asian 1804+6858=8662, NHW 76 235). Nativity strata kept for a
-    #    secondary analysis.
-    Study("Gomez2010_20147696", 2010, "California CR", "invasive_incidence", "Asian",
-          irr_from_rates(96.4, 145.6),
-          se_from_rates(96.4, 145.6, py_minority=8_985_000, py_nhw=52_360_000),
-          minority_rate=96.4, nhw_rate=145.6,
-          notes="CA 2000-2004; derived PY-weighted US-born+foreign-born Asian; age-adj 2000 std"),
+    #    2000 US std). 2000–2004: NHW 145.6 (144.6–146.7); US-born Asian 135.9
+    #    (129.6–142.4); foreign-born Asian 78.5 (76.6–80.4).
+    #    NOT pooled into the aggregate Asian comparison: the paper reports no single
+    #    combined-Asian rate, and a person-year-weighted combination would be an
+    #    analyst derivation (cf. the 12115511 decision). Instead Gomez contributes
+    #    its DIRECT nativity values — its actual novel finding — as a NATIVITY
+    #    sub-analysis: US-born Asian ≈ NHW, foreign-born Asian ~half of NHW.
+    Study("Gomez2010_20147696", 2010, "California CR", "invasive_incidence_nativity", "AsianUSborn",
+          irr_from_rates(135.9, 145.6),
+          se_logirr_from_rate_cis(135.9, 129.6, 142.4, 145.6, 144.6, 146.7),
+          minority_rate=135.9, nhw_rate=145.6, notes="US-born Asian vs NHW; direct (CA 2000-2004)"),
+    Study("Gomez2010_20147696", 2010, "California CR", "invasive_incidence_nativity", "AsianForeignborn",
+          irr_from_rates(78.5, 145.6),
+          se_logirr_from_rate_cis(78.5, 76.6, 80.4, 145.6, 144.6, 146.7),
+          minority_rate=78.5, nhw_rate=145.6, notes="foreign-born Asian vs NHW; direct (CA 2000-2004)"),
 
     # ── 21351091 — Liu et al., Int J Cancer 2012 "Invasive breast cancer
     #    incidence trends by detailed race/ethnicity and age" (LA County SEER).
@@ -690,6 +695,21 @@ def run_all():
         print(f"  Range: {lo_g[0]} {lo_g[1]:.2f}  ↔  {hi_g[0]} {hi_g[1]:.2f}  "
               f"({hi_g[1]/lo_g[1]:.1f}x spread) — aggregation masks this.")
     print("═" * 72)
+
+    # ── Nativity sub-analysis (Gomez 20147696, direct values) ────────────────
+    nat = [s for s in STUDIES if s.outcome == "invasive_incidence_nativity"]
+    if nat:
+        print("\n" + "═" * 72)
+        print("  NATIVITY — Asian incidence by migrant status vs NHW (20147696)")
+        print("═" * 72)
+        lab = {"AsianUSborn": "US-born Asian", "AsianForeignborn": "Foreign-born Asian"}
+        for s in nat:
+            print(f"  {lab.get(s.minority_group, s.minority_group):<20} "
+                  f"IRR {s.irr:.2f} ({s.ci_low:.2f}-{s.ci_high:.2f})   rate {s.minority_rate}")
+        print("─" * 72)
+        print("  US-born Asian ≈ NHW; foreign-born ~half — a generational gradient")
+        print("  the aggregate 'Asian' rate conceals (direct values, not derived).")
+        print("═" * 72)
 
     # ── Age-stratified descriptive (age-crossover / effect modification) ──────
     age_rows = [s for s in STUDIES

@@ -31,7 +31,7 @@ FINDINGS = [
      "Substantially lower incidence (~0.68), robust"),
     ("Asian/API vs NHW — invasive (aggregate)", "Asian", "invasive_incidence", LOW,
      "−1 inconsistency, −1 indirectness (the 'Asian/API' label pools ethnicities that differ ~3×)",
-     "The aggregate ~0.76 is not a meaningful quantity — it hides Korean 0.34 ↔ Native Hawaiian 1.11"),
+     "The aggregate ~0.78 is not a meaningful quantity — it hides Korean 0.34 ↔ Native Hawaiian 1.11"),
     ("AIAN vs NHW — invasive", "AIAN", "invasive_incidence", MOD,
      "−1 inconsistency; IHS linkage corrects the well-known AIAN registry undercount (raises certainty)",
      "Lower incidence (~0.70); registry-only estimates understate it vs IHS-linked"),

@@ -60,7 +60,7 @@ Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `
 36. [ ] NHW **145.6** (144.6–146.7)
 37. [ ] US-born Asian aggregated **135.9** (129.6–142.4)
 38. [ ] Foreign-born Asian aggregated **78.5** (76.6–80.4)
-39. [ ] ⚠️ **MY CALC** — combined Asian **96.4** (PY-weighted of #37+#38; cases 1804+6858, PY 3,068,003+6,749,192). Verify #37/#38; 96.4 is my derivation.
+39. [x] ✅ **RESOLVED** — the derived combined-Asian (96.4) was REMOVED from the pool for consistency with the 12115511 decision. Gomez now contributes DIRECT nativity values: US-born 135.9→IRR 0.93, foreign-born 78.5→IRR 0.54 (both vs NHW 145.6). Verify #36/#37/#38 rates against Table 2.
 
 ### (no PMID) T_e7879b363303 — TNBC trends paper · **Results text + IRR table**
 40. [ ] rate Black **33.8**
