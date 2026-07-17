@@ -29,7 +29,7 @@ Open `fulltext/<PMID>.pdf`, go to the stated location, confirm the value, tick `
 14. [ ] Hispanic **0.79** (0.75–0.83)
 15. [ ] API **0.90** (0.89–0.92)
 16. [ ] AIAN **0.82** (0.81–0.83)
-17. [ ] ⚠️ **FLAG** — NHW absolute rate "**31.3**/100 000" looks too low (usually ~130); I used only the IRRs — confirm typo / special denominator.
+17. [x] ✅ **RESOLVED** — the "31.3" is only an absolute NHW rate we do NOT use; we pooled the IRRs (Black 1.04, etc.), which are scale-invariant (Black = 1.04 × whatever the NHW rate is). Odd absolute value does not affect any extracted ratio.
 **TNBC · Figure 1 panel D (IRR vs NHW)**
 18. [ ] Black **2.07** (2.01–2.14)
 19. [ ] Hispanic **0.94** (0.91–0.98)
