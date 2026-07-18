@@ -25,10 +25,12 @@ protection against undisclosed post-hoc flexibility — through complete public
 availability of the protocol (PICO, search strategy, eligibility criteria, and
 analysis plan), the full extracted dataset, the value-by-value extraction and
 cross-check logs, the screening-decision log, and all analysis code, which
-reproduces the entire analysis end-to-end from a clean environment. We argue in
-the Methods that this is a stronger, verifiable reproducibility guarantee than a
-registration record alone. We are happy to add the completed-protocol document as
-a supplementary file if the editor prefers.
+reproduces the entire analysis end-to-end from a clean environment. We describe
+these openly available materials in the Methods as an important reproducibility
+safeguard notwithstanding the absence of prospective registration (we have
+softened the earlier wording so as not to imply that public code supersedes
+registration). We are happy to add the completed-protocol document as a
+supplementary file if the editor prefers.
 
 > *Methods (Overview):* "It was not prospectively registered in PROSPERO; to
 > support transparency the full protocol …, the extracted data, and all analysis
@@ -132,14 +134,25 @@ from the openly available code, decision log, and cross-check file.
 highly specific but may have low sensitivity; relevant studies could have been
 missed.
 
-**Response.** We agree this is a deliberate specificity-over-sensitivity design
-and have made the trade-off explicit in the Limitations. The strategy was chosen
-to target *primary* incidence-disparity studies rather than papers that mention a
-disparity only in passing. Because the principal US registry systems (SEER,
-NAACCR, USCS, and the California and Hawaii registries) are each represented among
-the included studies, the major sources of national and regional incidence data
-are captured; we nonetheless state plainly that a more sensitive search could add
-further regional analyses.
+**Response.** We agree this is a deliberate specificity-over-sensitivity design,
+and we have now justified it actively in the Methods (not only acknowledged it in
+the Limitations). Two points bear on the "why title?" question. First, the design
+was chosen to retrieve studies whose *primary objective* is racial/ethnic
+variation in breast cancer incidence, rather than the far larger literature that
+reports race only as a covariate in clinical, treatment, or survival analyses; an
+unrestricted all-fields search returns that tangential set in overwhelming volume
+with little gain in eligible primary-rate studies. Second, the search was **not**
+title-only for the concept: in PubMed the race/ethnicity concept was captured by
+title terms *or* the corresponding MeSH descriptors ("Racial Groups",
+"Ethnicity", "Health Status Disparities"), and the incidence concept by title,
+abstract, or the "Incidence" MeSH, so studies indexed to controlled vocabulary
+were retrieved regardless of title wording (the title anchoring was strict only in
+Embase). Because the principal US registry systems (SEER, NAACCR, USCS, and the
+California and Hawaii registries) are each represented among the included studies,
+the major sources of national and regional incidence data are captured; we
+nonetheless state plainly that a more sensitive, abstract-wide search could add
+further regional analyses. If the editor wishes, we can run and report a
+supplementary abstract-wide search to quantify any incremental yield.
 
 > *Limitations:* "… our search was deliberately specific — anchoring the
 > race/ethnicity/disparity term in the article title — which favours precision
