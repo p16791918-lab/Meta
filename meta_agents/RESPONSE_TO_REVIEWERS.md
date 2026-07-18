@@ -126,6 +126,46 @@ from the openly available code, decision log, and cross-check file.
 
 ---
 
+## 6. Search sensitivity (title-anchored strategy)
+
+**Comment.** The search anchors the race/ethnicity term in the title, which is
+highly specific but may have low sensitivity; relevant studies could have been
+missed.
+
+**Response.** We agree this is a deliberate specificity-over-sensitivity design
+and have made the trade-off explicit in the Limitations. The strategy was chosen
+to target *primary* incidence-disparity studies rather than papers that mention a
+disparity only in passing. Because the principal US registry systems (SEER,
+NAACCR, USCS, and the California and Hawaii registries) are each represented among
+the included studies, the major sources of national and regional incidence data
+are captured; we nonetheless state plainly that a more sensitive search could add
+further regional analyses.
+
+> *Limitations:* "… our search was deliberately specific — anchoring the
+> race/ethnicity/disparity term in the article title — which favours precision
+> over sensitivity and may have missed studies that reported incidence
+> disparities only as a secondary result … but we cannot exclude that a more
+> sensitive search would add further regional analyses."
+
+## 7. Choice of between-study variance estimator (DerSimonian–Laird)
+
+**Comment.** Why DerSimonian–Laird rather than REML or a Hartung–Knapp
+adjustment?
+
+**Response.** We used DerSimonian–Laird as the conventional random-effects
+default and have added a justification. Critically, our inference does not depend
+on the precise width of the aggregate confidence intervals — we emphasize the
+*direction* of effects and the disaggregated strata — so the choice of variance
+estimator has negligible bearing on the conclusions. We additionally confirmed
+robustness with fixed-effect and one-estimate-per-registry-family analyses.
+
+> *Methods (Quantitative synthesis):* "DerSimonian–Laird was chosen as the
+> conventional random-effects default; because our inference rests on the
+> direction of effects and on the disaggregated strata rather than on the precise
+> width of the aggregate confidence intervals, the choice of between-study
+> variance estimator (e.g., restricted maximum likelihood, or a Hartung–Knapp
+> adjustment) has negligible bearing on the conclusions …"
+
 ## Minor / technical
 
 - **Reference ordering.** In-text citation numbers are in strict order of first
@@ -143,7 +183,10 @@ from the openly available code, decision log, and cross-check file.
   uninterpretable). We added a qualitative assessment: registry data ascertain
   essentially all incident cases and are reported regardless of the direction of
   any race/ethnicity contrast, so selective publication of "positive" findings
-  does not operate as in hypothesis-testing studies.
+  does not operate as in hypothesis-testing studies. Grey literature and
+  conference abstracts were not sought because primary age-adjusted rates were
+  required; the near-census nature of registry reporting attenuates the
+  file-drawer problem.
 
 We believe these revisions address the reviewers' concerns while preserving the
 paper's central contribution. We thank the reviewers again for improving the
