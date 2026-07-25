@@ -12,15 +12,15 @@ US cancer surveillance routinely reports breast cancer incidence in a handful of
 
 We believe the work is a good fit for *PLOS ONE* for two reasons. First, its contribution is methodological and generalizable — it uses meta-analytic heterogeneity itself to demonstrate *why* aggregate categories mislead, with direct implications for how surveillance agencies and etiologic researchers should report and stratify race/ethnicity data. Second, it embodies *PLOS ONE*'s emphasis on transparency and reproducibility: the complete dataset, analysis code (meta-analysis, sensitivity analyses, risk-of-bias and GRADE assessments, and figure generation), search protocol, and a value-by-value extraction log are openly available, and the entire analysis reproduces from a clean environment.
 
-This manuscript is original, is not under consideration elsewhere, and all authors have approved the submission. We have no competing interests to declare. We disclose that an AI assistant (Claude, Anthropic) was used to support the search pipeline, screening, data extraction, analysis, and drafting; the author verified all outputs and takes full responsibility for the content. The review was not prospectively registered, as noted in the Methods.
+This manuscript is original, is not under consideration elsewhere, and all authors have approved the submission. We have no competing interests to declare. We disclose that an AI assistant (Claude, Anthropic) was used to support the search pipeline, screening, data extraction, analysis, and drafting; the author(s) reviewed the AI outputs, cross-checked key values and all claims against the sources, and take full responsibility for the content, with all extracted values and analysis code made openly available for verification (as detailed in the Methods and Declarations). The review was not prospectively registered, as noted in the Methods.
 
 Thank you for considering our work.
 
 Sincerely,
 
-**Junyoung Park** (ORCID 0009-0005-3623-4882)
-Pusan National University, Busan, South Korea
-p094123@naver.com
+**[Author name(s) pending co-author/supervisor approval]**
+[Affiliation pending]
+[Corresponding-author email pending]
 
 ---
 

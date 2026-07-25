@@ -107,24 +107,29 @@ claim in both the Results and the Discussion.
 **Comment.** How were AI outputs verified? What fraction was human-reviewed? Is
 it reproducible?
 
-**Response.** We have expanded the Methods to specify the scope of AI use and the
-verification procedure, and we disclose the same in the Declarations. AI
-assistance was confined to retrieval, de-duplication, and first-pass
-classification. Every full-text inclusion/exclusion decision was reviewed by the
-author, and each of the 27 included studies — together with every value
-extracted from it — was verified by the author against the primary full text
-(100% human verification of included records). The two-stage pipeline, its
-per-record decisions, and the value-by-value extraction are fully reproducible
-from the openly available code, decision log, and cross-check file.
+**Response.** We have expanded the Methods and Declarations to specify the scope
+of AI use and the verification procedure, and we describe its limits candidly. AI
+assistance was confined to retrieval, de-duplication, first-pass classification,
+and initial data extraction. Every full-text inclusion/exclusion decision was
+reviewed by the author; each extracted value was recorded with its exact source
+location, and a subset — the key rate ratios and the intermediate quantities
+driving each pooled estimate — was cross-checked by the author against the
+primary sources. We do not claim a full independent double-extraction of every
+value; instead, all extracted values with their source locations and all analysis
+code are openly available, so any reported value can be traced to and checked
+against its source, and every computed estimate is reproducible from the code.
+We have also added the single-reviewer/AI-assisted extraction design to the
+Limitations. (Note: an earlier draft overstated this as "100% human
+verification"; we corrected it to reflect what was actually done.)
 
-> *Methods (Study selection):* "AI assistance was confined to retrieval,
-> de-duplication, and first-pass classification; every full-text inclusion or
-> exclusion was reviewed by the author, and each of the 27 included studies —
-> together with all data subsequently extracted from it — was verified by the
-> author against the primary full text (100% human verification of included
-> records). The two-stage pipeline, its per-record decisions, and the
-> value-by-value extraction are fully reproducible from the openly available
-> code, decision log, and cross-check file."
+> *Methods (Study selection):* "… every full-text inclusion or exclusion decision
+> was reviewed by the author. Each extracted value was recorded together with its
+> exact source location …, and a subset of values — including the key rate ratios
+> and the intermediate quantities driving each pooled estimate — was cross-checked
+> by the author against the primary sources …; a full independent double-extraction
+> of every reported value was not performed. … all extracted values, their source
+> locations, the per-record screening decisions, and the analysis code are openly
+> available … so that any reported value can be traced to its source."
 
 ---
 
