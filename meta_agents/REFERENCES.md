@@ -1,6 +1,6 @@
 # References — PLOS ONE numbered style (order of appearance)
 
-Numbered by first appearance in the manuscript body. The bracketed tag on each entry records its synthesis role (quantitative / narrative / excluded / method). Entries carrying a PMID were cross-checked against the authoritative PubMed record (first author, year, title) and DOI-only entries against Crossref, using `verify_citations.py`; four titles were corrected as a result (refs 8, 12, 14, 18, 29). Entries 5, 7, 9–11, and 27 carry no PMID/DOI in our records (methodological classics and one 2026 in-press article) and are verified against the source. See `EXTRACTION_LOG.md` for provenance.
+Numbered by first appearance in the manuscript body. The bracketed tag on each entry records its synthesis role (quantitative / narrative / excluded / method). Entries carrying a PMID were cross-checked against the authoritative PubMed record (first author, year, title) and DOI-only entries against Crossref, using `verify_citations.py`; titles were corrected as a result (refs 8, 12, 14, 18, 29). PMIDs for refs 5, 7, 9–11, and 27 were subsequently resolved via title search and added; refs 5 and 27 are to be confirmed on the next authoritative verify run. See `EXTRACTION_LOG.md` for provenance.
 
 1. DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith RA, Jemal A. Breast cancer statistics, 2015: Convergence of incidence rates between black and white women. CA Cancer J Clin. 2016;66(1):31–42. doi:10.3322/caac.21320. PMID: 26513636. *(verified)*  *[quantitative]*
 
@@ -10,19 +10,19 @@ Numbered by first appearance in the manuscript body. The bracketed tag on each e
 
 4. Kong X, Liu Z, Cheng R, Sun L, Huang S, Fang Y, Wang J. Variation in Breast Cancer Subtype Incidence and Distribution by Race/Ethnicity in the United States From 2010 to 2015. JAMA Netw Open. 2020;3(10):e2020303. PMID: 33074325. *(verified authors from PDF)*  *[quantitative]*
 
-5. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. *(verified from PDF; flag #46 resolved. Note: same first author, Du XL, as ref 14)*  *[quantitative]*
+5. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. PMID: 36895969. *(PMID resolved via title search; confirm on next verify run. Same first author, Du XL, as ref 14)*  *[quantitative]*
 
 6. Joslyn SA, Foote ML, Nasseri K, Coughlin SS, Howe HL. Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer Res Treat. 2005;92(2):97–105. doi:10.1007/s10549-005-2112-y. PMID: 15986118. *(verified)*  *[quantitative]*
 
-7. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71.  *[method]*
+7. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. PMID: 33782057.  *[method]*
 
 8. Nobel TB, Asumeng CK, Jasek J, Van Beck KC, Mathur R, Qiao B, Brown JJ. Disparities in mortality-to-incidence ratios by race/ethnicity for female breast cancer in New York City, 2002-2016. Cancer Med. 2020;9(21):8226–8234. doi:10.1002/cam4.3309. PMID: 33006431. *(verified; excluded — outcome is the mortality-to-incidence RATIO, not incidence. NB: this is a US study; the earlier "Canada" note came from a corrupted .txt, now corrected)*  *[excluded]*
 
-9. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7(3):177–188.  *[method]*
+9. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7(3):177–188. PMID: 3802833.  *[method]*
 
-10. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557–560.  *[method]*
+10. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557–560. PMID: 12958120.  *[method]*
 
-11. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, Schünemann HJ; GRADE Working Group. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924–926.  *[method]*
+11. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, Schünemann HJ; GRADE Working Group. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924–926. PMID: 18436948.  *[method]*
 
 12. Davis Lynn BC, Figueroa JD, Laryea D, Awittor FK, Oti NOO, Booker QS, et al. Breast Cancer Incidence Rates in Ghanaian and US Black Women From 2013 Through 2015. JAMA Netw Open. 2025;8(10):e2537160. doi:10.1001/jamanetworkopen.2025.37160. PMID: 41082230. *(verified against PubMed; title year corrected 2017→2015)*  *[quantitative]*
 
@@ -54,7 +54,7 @@ Numbered by first appearance in the manuscript body. The bracketed tag on each e
 
 26. Stotter A, Jenkins J, Edmondson-Jones M, Blackledge H, Kearins O. Temporal changes in breast cancer incidence in South Asian women. Cancer Epidemiol. 2014;38(6):663–669. doi:10.1016/j.canep.2014.08.009. PMID: 25214237. *(verified; UK study — international comparison)*  *[narrative]*
 
-27. Gathani T, Kan SW, Sweetland S, Reeves GK. Ethnicity and breast cancer incidence in over 329 500 women in England in 2011–2019. Eur J Surg Oncol. 2026;52:109585. *(authors verified from PDF; the "39822259" in our records was an Embase identifier, not a PMID. UK study — international comparison only, narrative.)*  *[narrative]*
+27. Gathani T, Kan SW, Sweetland S, Reeves GK. Ethnicity and breast cancer incidence in over 329 500 women in England in 2011–2019. Eur J Surg Oncol. 2026;52:109585. PMID: 39794169. *(PMID resolved via title search; confirm on next verify run. The earlier "39822259" was an Embase identifier, not a PMID. UK study — international comparison only, narrative.)*  *[narrative]*
 
 28. Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast cancer incidence rates among Asian-American women. Int J Cancer. 2002;99(5):747–750. PMID: 12115511. *(verified authors from PDF; demoted to narrative — annual-rate trends paper, single pooled summary is period-sensitive and overlaps Liu, ref 8)*  *[narrative]*
 
