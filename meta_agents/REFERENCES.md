@@ -1,6 +1,6 @@
 # References — PLOS ONE numbered style (order of appearance)
 
-Numbered by first appearance in the manuscript body. The bracketed tag on each entry records its synthesis role (quantitative / narrative / excluded / method). Entries carrying a PMID were cross-checked against the authoritative PubMed record (first author, year, title) and DOI-only entries against Crossref, using `verify_citations.py`; titles were corrected as a result (refs 8, 12, 14, 18, 29). PMIDs for refs 5, 7, 9–11, and 27 were subsequently resolved via title search and added; refs 5 and 27 are to be confirmed on the next authoritative verify run. See `EXTRACTION_LOG.md` for provenance.
+Numbered by first appearance in the manuscript body. The bracketed tag on each entry records its synthesis role (quantitative / narrative / excluded / method). All 32 entries were verified against the authoritative PubMed record (PMID entries: first author, year, title) or Crossref (DOI-only entries) using `verify_citations.py`; every entry matched (NEEDS REVIEW empty). Several titles were corrected in the process (refs 8, 12, 14, 18, 29), and missing PMIDs were resolved and confirmed (refs 5, 7, 9–11, 27). See `EXTRACTION_LOG.md` for provenance.
 
 1. DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith RA, Jemal A. Breast cancer statistics, 2015: Convergence of incidence rates between black and white women. CA Cancer J Clin. 2016;66(1):31–42. doi:10.3322/caac.21320. PMID: 26513636. *(verified)*  *[quantitative]*
 
@@ -10,7 +10,7 @@ Numbered by first appearance in the manuscript body. The bracketed tag on each e
 
 4. Kong X, Liu Z, Cheng R, Sun L, Huang S, Fang Y, Wang J. Variation in Breast Cancer Subtype Incidence and Distribution by Race/Ethnicity in the United States From 2010 to 2015. JAMA Netw Open. 2020;3(10):e2020303. PMID: 33074325. *(verified authors from PDF)*  *[quantitative]*
 
-5. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. PMID: 36895969. *(PMID resolved via title search; confirm on next verify run. Same first author, Du XL, as ref 14)*  *[quantitative]*
+5. Du XL, Li Z. Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage. Am J Cancer Res. 2023;13(2):678–691. PMID: 36895969. *(PMID confirmed against PubMed. Same first author, Du XL, as ref 14)*  *[quantitative]*
 
 6. Joslyn SA, Foote ML, Nasseri K, Coughlin SS, Howe HL. Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer Res Treat. 2005;92(2):97–105. doi:10.1007/s10549-005-2112-y. PMID: 15986118. *(verified)*  *[quantitative]*
 
@@ -54,7 +54,7 @@ Numbered by first appearance in the manuscript body. The bracketed tag on each e
 
 26. Stotter A, Jenkins J, Edmondson-Jones M, Blackledge H, Kearins O. Temporal changes in breast cancer incidence in South Asian women. Cancer Epidemiol. 2014;38(6):663–669. doi:10.1016/j.canep.2014.08.009. PMID: 25214237. *(verified; UK study — international comparison)*  *[narrative]*
 
-27. Gathani T, Kan SW, Sweetland S, Reeves GK. Ethnicity and breast cancer incidence in over 329 500 women in England in 2011–2019. Eur J Surg Oncol. 2026;52:109585. PMID: 39794169. *(PMID resolved via title search; confirm on next verify run. The earlier "39822259" was an Embase identifier, not a PMID. UK study — international comparison only, narrative.)*  *[narrative]*
+27. Gathani T, Kan SW, Sweetland S, Reeves GK. Ethnicity and breast cancer incidence in over 329 500 women in England in 2011–2019. Eur J Surg Oncol. 2026;52:109585. PMID: 39794169. *(PMID confirmed against PubMed; title "…over 329,500 women in England in 2011-2019". The earlier "39822259" was an Embase identifier, not a PMID. UK study — international comparison only, narrative.)*  *[narrative]*
 
 28. Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast cancer incidence rates among Asian-American women. Int J Cancer. 2002;99(5):747–750. PMID: 12115511. *(verified authors from PDF; demoted to narrative — annual-rate trends paper, single pooled summary is period-sensitive and overlaps Liu, ref 8)*  *[narrative]*
 
