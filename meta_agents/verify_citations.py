@@ -22,6 +22,7 @@ import xml.etree.ElementTree as ET
 API_KEY = os.environ.get('NCBI_API_KEY', '')
 EMAIL   = os.environ.get('NCBI_EMAIL', '')
 EFETCH  = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
+ESEARCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
 CROSSREF = 'https://api.crossref.org/works/'
 
 STOP = set('the a an of and or in on for by to with from between among vs versus '
@@ -89,6 +90,23 @@ def token_overlap(claimed_text, real_title):
     return len(rt & ct) / len(rt)
 
 
+def esearch_by_title(ref):
+    """For entries lacking PMID/DOI, search PubMed by title words + first author
+    and return candidate PMID(s), so a real identifier can be added."""
+    title_words = [w for w in re.findall(r'[A-Za-z]+', ref['text']) if len(w) > 3][:12]
+    term = ' '.join(title_words) + f" AND {ref['first_author']}[au]"
+    params = {'db': 'pubmed', 'term': term, 'retmode': 'json', 'retmax': '3',
+              'tool': 'citation-verify', 'email': EMAIL}
+    if API_KEY:
+        params['api_key'] = API_KEY
+    try:
+        url = ESEARCH + '?' + urllib.parse.urlencode(params)
+        with urllib.request.urlopen(url, timeout=30) as r:
+            return json.load(r).get('esearchresult', {}).get('idlist', [])
+    except Exception as e:
+        return [f'search-error:{e}']
+
+
 def crossref_check(ref):
     try:
         url = CROSSREF + urllib.parse.quote(ref['doi'])
@@ -148,7 +166,9 @@ def main():
                     f"title:{'Y' if c.get('title_ok') else 'N'}\n      Crossref: {c.get('real_first')} "
                     f"{c.get('real_year')} — {c.get('title')}")
         else:
-            lines.append(f"-- [{n}] no PMID and no DOI — verify manually: {r['text'][:80]}…")
+            cand = esearch_by_title(r); time.sleep(0.2)
+            hint = (f"  candidate PMID(s): {cand}" if cand else "  (no PubMed match — likely not indexed)")
+            lines.append(f"-- [{n}] no stored PMID/DOI — verify manually: {r['text'][:70]}…\n    {hint}")
             flags.append(n)
 
     report = '\n'.join(lines)
