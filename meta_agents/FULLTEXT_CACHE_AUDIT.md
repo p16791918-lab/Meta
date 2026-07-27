@@ -1,9 +1,12 @@
-# Full-text cache integrity audit — MUST RESOLVE BEFORE SUBMISSION
+# Full-text cache integrity audit
 
 **Finding:** the local `fulltext/*.txt` cache is corrupted for a majority of the
 checkable included studies — many `.txt` files contain a *different paper* than
 the PMID/reference they are named for. This was found by reading the actual first
 lines of each file (not keyword scoring) and confirmed for several studies.
+**However** (see the correction below) the extracted values came from
+manually-obtained PDFs, not this cache, so the practical impact is limited to
+one citation fix (ref 19) plus an advisable cache refresh.
 
 The citation identities themselves (all 32 PMIDs/DOIs) are correct and were
 verified against PubMed/Crossref (`verify_citations.py`). The problem is the
@@ -37,35 +40,46 @@ download/caching step overwrote several files with the same wrong content.
 (Studies with no local `.txt` — refs 3, 5, 7, 9–11, 13, 14, 17, 18, 24, 27, 30 —
 could not be checked this way.)
 
+## Important correction — the cache is NOT the extraction source
+
+An initial read of this audit over-stated the problem. `EXTRACTION_LOG.md`
+documents that the **values were extracted from manually-obtained PDFs**
+(pdfplumber for tables, pypdfium2 page-render → Read for figures), and that a
+**full re-sweep of all included PDFs** was done on 2026-07-17. The log's
+txt-vs-PDF audit records: *"Of 14 charted studies, only 41082230 has no PDF (txt
+only); all others have PDFs … prefer the PDF."* And 41082230's `.txt` is one of
+the ✅-matching files.
+
+So the corrupted `.txt` cache is a **later artifact** (the files were overwritten
+after extraction — see the heavy churn in git history); it did **not** feed the
+dataset. It breaks convenient *local* re-checking, not the original provenance.
+
 ## What this does and does not mean
 
-- **Does NOT mean the citations are wrong.** All 32 PMIDs/DOIs resolve to the
-  correct papers (verified).
-- **Does mean** the extracted rate values cannot be confirmed against the local
-  cache, and at least one value is misattributed: the "Asian Indian/Pakistani
-  IRR 0.48" data point is attributed to ref 19 (Moran, a clinicopathologic/
-  survival study) whose local file is a screening paper. (That subgroup estimate
-  is independently corroborated by ref 31, Jain, ~0.52, so the *direction* is not
-  at risk — but the provenance is.)
-- The extracted values may still be correct if they were taken from correct PDFs
-  during the original extraction and the `.txt` cache was corrupted later (the
-  git history shows heavy churn/overwrite of these files). **This cannot be
-  assumed; it must be re-verified.**
+- **Citations** — all 32 PMIDs/DOIs resolve correctly (verified). ✅
+- **Extraction provenance** — per the log, from verified PDFs with a full
+  re-sweep; the corrupted `.txt` cache did not supply the values. Human
+  double-checking was partial (as the manuscript states), so a value-level
+  re-check is still worthwhile but is **not** invalidated by the cache issue.
+- **One genuine outstanding item — ref 19.** The value "Asian Indian/Pakistani
+  72.3 vs NHW 149.5 → IRR 0.48" was logged as "Kakarala 2011 (CA CR)", but the
+  attached identifier PMID 21301957 is **Moran** (a clinicopathologic/survival
+  study). The PMID↔study identification is wrong. The subgroup estimate is
+  independently corroborated by ref 31 (Jain, ~0.52), so no conclusion is at
+  risk, but the citation must be corrected or the data point dropped.
 
-## Required action before submission
+## Recommended action before submission (scoped)
 
-1. In an environment where NCBI/publishers are reachable (the Codespace), obtain
-   the **correct** full text for every quantitative study (refs 1, 4, 6, 8→n/a
-   excluded, 12–20, and 3, 5, 13, 14, 17, 18 that lack a local file).
-2. Re-verify each extracted rate in `DATA_VERIFICATION_CHECKLIST` against the
-   correct paper's table/figure. Fix any value that does not match in
-   `run_meta_analysis_breast.py`, then regenerate figures, PRISMA counts, and the
-   manuscript numbers.
-3. Resolve ref 19 specifically: confirm whether Moran (21301957) reports
-   population incidence; if not, replace it with the correct source of the South
-   Asian estimate or drop that data point (ref 31 still supports the direction).
-4. Re-run `verify_citations.py` and re-audit the cache until every included
-   study's full text matches its PMID.
+1. **Resolve ref 19**: find the true source of the South Asian IRR (likely a real
+   Kakarala et al. SEER/CA paper) and correct its PMID/citation, or drop the
+   data point and rely on ref 31 (Jain). Update `run_meta_analysis_breast.py`,
+   `REFERENCES.md`, figures, and counts accordingly.
+2. **Optional but advisable**: refresh the corrupted `.txt` cache from the
+   correct PDFs and spot-re-check a sample of extracted rates against them (use
+   `DATA_VERIFICATION_CHECKLIST`), so local provenance is clean and re-checkable.
+3. Re-run `audit_fulltext_cache.py` until every included study's stored text
+   matches its PMID.
 
-**Until steps 1–4 are complete, the quantitative dataset is not independently
-verified and the manuscript should not be submitted.**
+The corrupted cache alone does not block submission; **ref 19 should be fixed**
+first, and the partial-verification caveat already stated in the manuscript
+remains accurate.
