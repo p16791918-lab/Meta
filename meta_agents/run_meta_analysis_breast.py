@@ -422,16 +422,13 @@ STUDIES: List[Study] = [
     Study("Loo2019_30503975", 2019, "SEER Hawaii", "tnbc_incidence", "Chinese",
           math.log(0.53), se_from_ci(0.53, 0.39, 0.71), notes="Hawaii IRR vs White; TNBC lowest"),
 
-    # ── REMOVED (provenance unresolved): an "Asian Indian/Pakistani 72.3 vs NHW
-    #    149.5 → IRR 0.48 (California CR)" point was previously entered here under
-    #    id "Kakarala2011_21301957". The attached identifier PMID 21301957 is
-    #    Moran et al. (a clinicopathologic/survival comparison, NOT a population
-    #    incidence study), so the value cannot be attributed to that citation and
-    #    its true source could not be confirmed. Dropped from the quantitative
-    #    pool to avoid an unverifiable/misattributed estimate. The South Asian
-    #    (Indian-Pakistani) direction remains supported narratively by Jain
-    #    (CA, ~0.52) and Stotter (UK, ~45% lower). Restore here only if the value
-    #    is re-sourced to a correctly identified primary incidence study.
+    # ── 21301957 — Kakarala et al., Breast Cancer Res Treat 2011 (California CR
+    #    1998-2002). Table 1: invasive BC age-adjusted rate (95% CI), Asian
+    #    Indian/Pakistani vs NHW. All ages IP(high denom) 72.3 (67.0-77.9) vs
+    #    NHW 149.5 (148.5-150.4) → IRR 0.48. NEW ethnic subgroup (South Asian).
+    Study("Kakarala2011_21301957", 2011, "California CR", "invasive_incidence", "AsianIndian",
+          irr_from_rates(72.3, 149.5), se_logirr_from_rate_cis(72.3, 67.0, 77.9, 149.5, 148.5, 150.4),
+          minority_rate=72.3, nhw_rate=149.5, notes="Asian Indian/Pakistani vs NHW; CA 1998-2002"),
 
     # ── 21473509 — Lepeak et al., WMJ 2011. Table 1: age-adjusted invasive BC
     #    incidence, African American vs White, Wisconsin state registry 2004-2006:
@@ -675,7 +672,7 @@ def run_all():
     print(f"  {'Subgroup':<16}{'k':>3}  {'IRR':>6}  {'95% CI':>16}  {'I2':>5}  sources")
     print("─" * 72)
     subgroup_rows = []
-    for g in ["Korean", "Chinese", "Vietnamese", "Filipina",
+    for g in ["Korean", "Chinese", "AsianIndian", "Vietnamese", "Filipina",
               "Japanese", "NativeHawaiian"]:
         ss = _subset(g)
         if not ss:

@@ -166,7 +166,7 @@ def fig1():
 
 # ── Figure 2: disaggregated ethnic subgroups ─────────────────────────────────
 def fig2():
-    order = ["Korean", "Chinese", "Vietnamese", "Filipina",
+    order = ["Korean", "Chinese", "AsianIndian", "Vietnamese", "Filipina",
              "Japanese", "NativeHawaiian"]
     label_map = {"AsianIndian": "Asian Indian/Pakistani", "NativeHawaiian": "Native Hawaiian"}
     rows = []
@@ -333,8 +333,8 @@ def fig5():
     N_FULLTEXT = 485    # advanced past abstract → full-text assessed
     N_FT_EXCL = 458     # excluded at full text (incl. 23 analyst; +33006431 non-US/MIR)
     N_INCL = 27         # included in review after reconciliation
-    N_QUANT = 13        # quantitative synthesis (meta-analysis)
-    N_NARR = 14         # narrative synthesis (incl. 12115511 demoted; Moran reclassified)
+    N_QUANT = 14        # quantitative synthesis (meta-analysis)
+    N_NARR = 13         # narrative synthesis (incl. 12115511, demoted)
 
     fig, ax = plt.subplots(figsize=(10.5, 9))
     fig.patch.set_facecolor(SURFACE); ax.set_facecolor(SURFACE)

@@ -84,20 +84,18 @@ The corrupted cache alone does not block submission; **ref 19 should be fixed**
 first, and the partial-verification caveat already stated in the manuscript
 remains accurate.
 
-## UPDATE — ref 19 resolved
+## UPDATE — ref 19 kept pending author PDF verification (not removed)
 
-The misattributed "Asian Indian/Pakistani IRR 0.48" quantitative point was
-**removed** from the pool (its identifier PMID 21301957 is Moran, a
-clinicopathologic/survival study, and the value's true source could not be
-confirmed). Moran was **reclassified to narrative**. Effect: quantitative
-synthesis 14 → 13 studies, narrative 13 → 14 (total still 27); Fig 2 drops the
-Asian-Indian bar; RoB now 13 studies (Low 79% / Some 19% / High 1%). The South
-Asian direction is retained narratively via refs 26 (Stotter, UK) and 31 (Jain,
-CA, ~0.5). During this fix the Asian-subgroup prose was also reconciled to the
-code output (Chinese 0.47→0.51, Filipina 0.71→0.72, Japanese 0.78→0.84), which
-had drifted; aggregate and TNBC numbers already matched. Manuscript, figures,
-RoB, cover letters, and the docx were regenerated and cross-checked consistent.
+An earlier commit removed the ref-19 data point on inference (PubMed title +
+corrupted `.txt`) without checking the source PDF. That was premature and has
+been **reverted**: ref 19 is restored to the quantitative pool (counts back to
+14 quantitative / 13 narrative) and flagged in `REFERENCES.md` as PENDING author
+verification. The author will confirm, against the actual source PDF, whether
+PMID 21301957 is the correct citation and whether the "Asian Indian/Pakistani
+IRR 0.48" value comes from it — then correct the citation or move it to narrative
+as the evidence dictates. Do not re-remove until that check is done.
 
-The optional cache refresh (re-download correct PDFs, re-audit with
-`audit_fulltext_cache.py`) is still advisable for clean local provenance but does
-not affect the reported values, which were extracted from the original PDFs.
+Separately, the manuscript's Asian-subgroup prose was aligned to the code output
+(Chinese 0.47→0.51, Filipina 0.71→0.72, Japanese 0.78→0.84) so text matches
+Fig 2; the underlying input rates for those subgroups are part of the author's
+PDF verification.
