@@ -84,18 +84,26 @@ The corrupted cache alone does not block submission; **ref 19 should be fixed**
 first, and the partial-verification caveat already stated in the manuscript
 remains accurate.
 
-## UPDATE — ref 19 kept pending author PDF verification (not removed)
+## UPDATE — ref 19 VERIFIED from the source PDF (kept in the pool)
 
-An earlier commit removed the ref-19 data point on inference (PubMed title +
-corrupted `.txt`) without checking the source PDF. That was premature and has
-been **reverted**: ref 19 is restored to the quantitative pool (counts back to
-14 quantitative / 13 narrative) and flagged in `REFERENCES.md` as PENDING author
-verification. The author will confirm, against the actual source PDF, whether
-PMID 21301957 is the correct citation and whether the "Asian Indian/Pakistani
-IRR 0.48" value comes from it — then correct the citation or move it to narrative
-as the evidence dictates. Do not re-remove until that check is done.
+An earlier commit removed the ref-19 data point on inference (the corrupted
+`.txt` plus the PubMed *title*, which reads as clinicopathologic). That was wrong
+on both counts and was reverted. The author supplied the actual Moran PDF, which
+**confirms** the value: Table 1 ("Incidence–invasive, All ages") reports
+age-adjusted invasive incidence for the period 1998–2002 (SEER) — Asian
+Indian/Pakistani **72.3 (67.0–77.9)** vs NHW **149.5 (148.5–150.4)** → IRR 0.48,
+exactly the value used. Moran reports *both* clinicopathologic features *and*
+age-adjusted incidence; it correctly belongs in the quantitative synthesis.
+Internal labels were corrected ("Kakarala"→Moran, "California CR"→SEER); the
+citation (PMID 21301957) and value were always correct.
+
+**Lesson for this cache issue:** the extracted values came from the real PDFs the
+author obtained, exactly as `EXTRACTION_LOG.md` states — the corrupted `.txt`
+cache was never the extraction source. Two inference-based conclusions (from the
+`.txt` and from the PubMed title) were both wrong; the PDF was authoritative. The
+corrupted local cache therefore does not impugn the dataset; refreshing it is
+cosmetic.
 
 Separately, the manuscript's Asian-subgroup prose was aligned to the code output
 (Chinese 0.47→0.51, Filipina 0.71→0.72, Japanese 0.78→0.84) so text matches
-Fig 2; the underlying input rates for those subgroups are part of the author's
-PDF verification.
+Fig 2.

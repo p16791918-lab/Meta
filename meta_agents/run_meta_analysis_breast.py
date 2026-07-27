@@ -422,13 +422,16 @@ STUDIES: List[Study] = [
     Study("Loo2019_30503975", 2019, "SEER Hawaii", "tnbc_incidence", "Chinese",
           math.log(0.53), se_from_ci(0.53, 0.39, 0.71), notes="Hawaii IRR vs White; TNBC lowest"),
 
-    # ── 21301957 — Kakarala et al., Breast Cancer Res Treat 2011 (California CR
-    #    1998-2002). Table 1: invasive BC age-adjusted rate (95% CI), Asian
-    #    Indian/Pakistani vs NHW. All ages IP(high denom) 72.3 (67.0-77.9) vs
-    #    NHW 149.5 (148.5-150.4) → IRR 0.48. NEW ethnic subgroup (South Asian).
-    Study("Kakarala2011_21301957", 2011, "California CR", "invasive_incidence", "AsianIndian",
+    # ── 21301957 — Moran et al., Breast Cancer Res Treat 2011 (SEER, incidence
+    #    period 1998-2002). Table 1: age-adjusted invasive BC incidence (95% CI),
+    #    Asian Indian/Pakistani vs NHW. All ages IP (minimum/high-denominator
+    #    estimate) 72.3 (67.0-77.9) vs NHW 149.5 (148.5-150.4) → IRR 0.48.
+    #    VERIFIED against the source PDF (Moran Table 1, "Incidence–invasive,
+    #    All ages"). Ethnic subgroup (South Asian). (Earlier internal labels
+    #    "Kakarala"/"California CR" were wrong; the value and PMID are correct.)
+    Study("Moran2011_21301957", 2011, "SEER", "invasive_incidence", "AsianIndian",
           irr_from_rates(72.3, 149.5), se_logirr_from_rate_cis(72.3, 67.0, 77.9, 149.5, 148.5, 150.4),
-          minority_rate=72.3, nhw_rate=149.5, notes="Asian Indian/Pakistani vs NHW; CA 1998-2002"),
+          minority_rate=72.3, nhw_rate=149.5, notes="Asian Indian/Pakistani vs NHW; SEER 1998-2002, Moran Table 1 (age-adj invasive)"),
 
     # ── 21473509 — Lepeak et al., WMJ 2011. Table 1: age-adjusted invasive BC
     #    incidence, African American vs White, Wisconsin state registry 2004-2006:

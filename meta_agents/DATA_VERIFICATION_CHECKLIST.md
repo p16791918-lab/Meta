@@ -3,9 +3,10 @@
 Confirm each extracted rate against the cited table/figure in the primary
 full-text PDF, then tick the box. IRR = minority_rate / nhw_rate.
 
-> ⚠ PRIORITY: `Kakarala2011_21301957` (ref 19). Confirm the source PDF for
-> "Asian Indian/Pakistani 72.3 vs NHW 149.5" and whether PMID 21301957 is the
-> correct citation for it; the PMID's PubMed title looks clinicopathologic.
+> ✅ ref 19 (Moran, PMID 21301957) RESOLVED: the author-supplied PDF confirms
+> Table 1 age-adjusted invasive incidence — Asian Indian/Pakistani 72.3 vs NHW
+> 149.5 → IRR 0.48. Kept in the pool; internal labels corrected to Moran/SEER.
+> Remaining studies below still to spot-check against their PDFs.
 
 ## ref ? · ? · `PMID41082230`   [ ] verified
 | ✓ | group | outcome | minority | NHW | source location |
