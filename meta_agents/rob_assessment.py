@@ -46,8 +46,6 @@ ROB = [
      [L, L, S, L, L, L], "age-stratified API ethnicities; regional (Hawaii); small young-age counts (D3)"),
     ("30503975", "Loo 2019 · SEER Hawaii",
      [L, L, S, L, L, L], "overall + subtype ethnic IRR w/ CI; regional; small subtype counts (D3)"),
-    ("21301957", "Moran 2011 · California CR",
-     [L, S, S, L, L, S], "Asian Indian/Pakistani via surname; two denominator estimates (high/low) (D3,D6)"),
     ("21473509", "Lepeak 2011 · Wisconsin CRS",
      [L, L, L, L, L, H], "state registry; RR rounded to 0.8, NO CI reported (D6 high)"),
     # 12115511 (Deapen 2002) demoted to narrative — trends paper, single-summary
@@ -64,7 +62,7 @@ FULL = {"L": "Low", "S": "Some concerns", "H": "High"}
 
 def print_table():
     print("=" * 78)
-    print("  RISK OF BIAS — 14 quantitative studies (L=low, S=some concerns, H=high)")
+    print("  RISK OF BIAS — 13 quantitative studies (L=low, S=some concerns, H=high)")
     print("=" * 78)
     print(f"  {'Study':<40} " + " ".join(d.split(chr(10))[0] for d in DOMAINS))
     print("  " + "-" * 74)
