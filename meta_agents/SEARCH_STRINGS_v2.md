@@ -11,6 +11,22 @@ conference abstracts at the record-type level where the database supports it.
 Run all four on the SAME day; record each database's hit count for the PRISMA
 "Identification" box.
 
+**Screening strategy (per supervisor):** all four databases are searched to
+demonstrate a multi-database search, but the **primary screening corpus is
+Embase**, because Embase encompasses MEDLINE (so PubMed/MEDLINE is covered).
+Scopus and Web of Science are run to document comprehensiveness (report their
+counts); their unique records are not separately screened. This makes the
+**Embase string the critical one** — it must be comprehensive, which is why the
+race/ethnicity block below is expanded to cover disaggregated groups (American
+Indian/Alaska Native, Native Hawaiian/Pacific Islander, South Asian, etc.) that
+the earlier title-only search could miss.
+
+**Note on term coverage:** the race/ethnicity block was expanded beyond the
+aggregate terms because this review's included studies specifically cover AIAN
+(Gopalani) and Native Hawaiian/Pacific Islander (Loo, Ihenacho) and South Asian
+(Jain) populations; a paper titled only "American Indian breast cancer incidence"
+would be missed by aggregate-only terms.
+
 ---
 
 ## 1. PubMed / MEDLINE (broadened — race concept now tiab, not ti only)
@@ -18,9 +34,14 @@ Run all four on the SAME day; record each database's hit count for the PRISMA
 ```
 ("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab] OR "breast neoplasm*"[tiab])
 AND (race[tiab] OR racial[tiab] OR ethnic*[tiab] OR minorit*[tiab] OR disparit*[tiab]
-     OR Black[tiab] OR Hispanic[tiab] OR White[tiab] OR Asian[tiab] OR "African American"[tiab]
-     OR "Racial Groups"[Mesh] OR "Ethnicity"[Mesh] OR "Health Status Disparities"[Mesh]
-     OR "Minority Groups"[Mesh])
+     OR Black[tiab] OR Hispanic[tiab] OR Latin*[tiab] OR White[tiab] OR Asian[tiab]
+     OR "African American"[tiab] OR "American Indian*"[tiab] OR "Alaska Nativ*"[tiab]
+     OR "Native American*"[tiab] OR indigenous[tiab] OR "Pacific Islander*"[tiab]
+     OR "Native Hawaiian*"[tiab] OR "South Asian*"[tiab] OR "Asian American*"[tiab]
+     OR "Ethnicity"[Mesh] OR "Minority Groups"[Mesh] OR "Health Status Disparities"[Mesh]
+     OR "Black or African American"[Mesh] OR "Hispanic or Latino"[Mesh]
+     OR "American Indian or Alaska Native"[Mesh]
+     OR "Native Hawaiian or Other Pacific Islander"[Mesh] OR "Asian"[Mesh])
 AND (incidence[tiab] OR "incidence rate*"[tiab] OR "age-adjusted"[tiab]
      OR "age-standardized"[tiab] OR "age-standardised"[tiab] OR "Incidence"[Mesh])
 AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
@@ -32,8 +53,12 @@ NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[
 ```
 ('breast cancer'/exp OR 'breast cancer':ti,ab OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
 AND (race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minorit*:ti,ab OR disparit*:ti,ab
-     OR black:ti,ab OR hispanic:ti,ab OR white:ti,ab OR asian:ti,ab OR 'african american':ti,ab
-     OR 'ethnic group'/exp OR 'race'/exp OR 'health disparity'/exp)
+     OR black:ti,ab OR hispanic:ti,ab OR latin*:ti,ab OR white:ti,ab OR asian:ti,ab
+     OR 'african american':ti,ab OR 'american indian*':ti,ab OR 'alaska nativ*':ti,ab
+     OR 'native american*':ti,ab OR indigenous:ti,ab OR 'pacific islander*':ti,ab
+     OR 'native hawaiian*':ti,ab OR 'south asian*':ti,ab OR 'asian american*':ti,ab
+     OR 'ethnic group'/exp OR 'race'/exp OR 'health disparity'/exp
+     OR 'American Indian'/exp OR 'Hispanic'/exp OR 'ethnicity'/exp)
 AND (incidence:ti,ab OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab
      OR 'age-standardized':ti,ab OR 'age standardization'/exp)
 AND [2000-2025]/py AND [english]/lim AND [humans]/lim
@@ -45,7 +70,9 @@ NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it OR 'conference a
 ```
 ( TITLE-ABS-KEY ( "breast cancer" OR "breast carcinoma" OR "breast neoplasm*" ) )
 AND ( TITLE-ABS-KEY ( race OR racial OR ethnic* OR minorit* OR disparit*
-        OR black OR hispanic OR white OR asian OR "african american" OR "racial group*" ) )
+        OR black OR hispanic OR latin* OR white OR asian OR "african american"
+        OR "american indian*" OR "alaska nativ*" OR "native american*" OR indigenous
+        OR "pacific islander*" OR "native hawaiian*" OR "south asian*" OR "asian american*" ) )
 AND ( TITLE-ABS-KEY ( incidence OR "incidence rate*" OR "age-adjusted"
         OR "age-standardized" OR "age standardi*ation" ) )
 AND PUBYEAR > 1999 AND PUBYEAR < 2026
@@ -59,7 +86,9 @@ Export: CSV with Title, Abstract, Authors, Year, Source, DOI, PubMed ID, Documen
 ```
 TS=("breast cancer" OR "breast carcinoma" OR "breast neoplasm*")
 AND TS=(race OR racial OR ethnic* OR minorit* OR disparit*
-        OR Black OR Hispanic OR White OR Asian OR "African American" OR "racial group*")
+        OR Black OR Hispanic OR Latin* OR White OR Asian OR "African American"
+        OR "American Indian*" OR "Alaska Nativ*" OR "Native American*" OR indigenous
+        OR "Pacific Islander*" OR "Native Hawaiian*" OR "South Asian*" OR "Asian American*")
 AND TS=(incidence OR "incidence rate*" OR "age-adjusted" OR "age-standardized" OR "age standardi?ation")
 AND PY=(2000-2025)
 AND LA=(English)
