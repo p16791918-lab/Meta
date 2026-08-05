@@ -93,18 +93,16 @@ ER-status); age-band-specific rate ratios; nativity-stratified IRRs; disaggregat
 Asian/Pacific Islander ethnic-subgroup IRRs.
 
 ### ✅PASTE 23. Data extraction (selection and coding)
-Two reviewers will independently screen titles/abstracts then full texts, and
-extract data, resolving disagreements by consensus. Each extracted rate will be
-recorded with its exact source location and verified against the source article.
-Items: age-adjusted rates, IRR/RR, 95% CI or case counts/person-years, registry,
-region, calendar period, race/ethnicity categories, subtype, age band.
-*(NOTE: if only one reviewer + AI is used, change to: "One reviewer will screen
-and extract with AI-assisted support; all decisions and extracted values will be
-verified against source articles." — see decision below.)*
+One reviewer will screen titles/abstracts then full texts and extract data, with
+AI-assisted support for retrieval, de-duplication, and first-pass classification;
+all screening decisions and every extracted value will be verified by the reviewer
+against the source article. Items: age-adjusted rates, IRR/RR, 95% CI or case
+counts/person-years, registry, region, calendar period, race/ethnicity categories,
+subtype, age band.
 
 ### ✅PASTE 24. Risk of bias (quality) assessment
 Risk of bias of included observational studies will be assessed with the
-Newcastle–Ottawa Scale, independently by two reviewers.
+Newcastle–Ottawa Scale.
 
 ### ✅PASTE 25. Strategy for data synthesis
 Random-effects meta-analysis of within-study log-IRRs (restricted maximum
@@ -138,8 +136,10 @@ search and full re-screening/extraction.
 
 ---
 
-## The only real decision before you submit
-**Field 23 (and 24): "two reviewers" vs "single reviewer + AI".** If the supervisor
-or a co-author will actually re-screen/re-extract, keep "two reviewers"
-(recommended — matches the example paper). If it stays single-author + AI, use the
-alternate wording. Decide with the supervisor; it also settles the we/I question.
+## Decisions settled
+- **Reviewer model: single reviewer + AI assistance** (co-author professors advise
+  but do not perform independent screening/extraction). Fields 23–24 reflect this
+  honestly; the single-reviewer design is disclosed as a limitation in the paper.
+- **Authorship: multi-author** (student + two corresponding-author professors) →
+  the manuscript uses **"We"** (to be applied during the full rewrite; author
+  names/affiliations/emails still to be supplied).
