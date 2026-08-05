@@ -1,14 +1,17 @@
-# Search strategy v2 — expanded, 4 databases (sensitivity-oriented)
+# Search strategy v2 — expanded, multi-database (sensitivity-oriented)
 
-Per supervisor feedback, the search is expanded from 2 to **4 databases**
-(PubMed/MEDLINE, Embase, Scopus, Web of Science Core Collection) and **broadened**
-from the earlier title-anchored design to **title/abstract/keyword** for the
-race/ethnicity concept, to raise sensitivity. Three concept blocks joined with AND:
-(1) breast cancer, (2) race/ethnicity/disparity, (3) incidence/age-adjusted rate.
-Limits: 2000–2025, English, human; exclude reviews, letters, editorials, notes,
-conference abstracts at the record-type level where the database supports it.
+Per supervisor feedback, and matching the example paper's format, the search
+covers three database platforms: **(1) MEDLINE and Embase** (searched together on
+the Embase platform, which includes all MEDLINE records — so PubMed/MEDLINE is not
+counted separately), **(2) Scopus**, and **(3) Web of Science Core Collection**.
+The strategy is **broadened** from the earlier title-anchored design to
+**title/abstract/keyword** for the race/ethnicity concept, to raise sensitivity.
+Concept blocks joined with AND: breast cancer; race/ethnicity/disparity;
+incidence/age-adjusted rate; US-context. Limits: 2000–2025, English, human;
+exclude reviews, letters, editorials, notes, conference abstracts at the
+record-type level where the database supports it.
 
-Run all four on the SAME day; record each database's hit count for the PRISMA
+Run all on the SAME day; record each platform's hit count for the PRISMA
 "Identification" box.
 
 **Screening strategy (per supervisor):** all four databases are searched to
@@ -46,7 +49,15 @@ introduce.
 
 ---
 
-## 1. PubMed / MEDLINE (broadened — race concept now tiab, not ti only)
+## 1. MEDLINE and Embase — searched together on the Embase platform
+
+Per the supervisor's example paper, MEDLINE and Embase are searched as a single
+line on the Embase platform (Embase indexes all MEDLINE records, so
+"PubMed/MEDLINE" is not counted as a separate database). This is the **primary
+screening corpus**. Use the Embase string in §2 below and report the combined
+count as "MEDLINE and Embase".
+
+### (Optional) PubMed / MEDLINE — direct, only if you also run PubMed separately
 
 ```
 ("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab] OR "breast neoplasm*"[tiab])
@@ -81,7 +92,7 @@ AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
 NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt] OR "news"[pt])
 ```
 
-## 2. Embase (Elsevier syntax; race concept now ti,ab)
+## 2. MEDLINE and Embase string (run on the Embase platform, MEDLINE included)
 
 ```
 ('breast cancer'/exp OR 'breast cancer':ti,ab OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
