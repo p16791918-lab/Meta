@@ -4,7 +4,7 @@
 Addresses the central threat to the aggregate pooled estimates: the US cancer
 registries overlap (SEER ⊂ NAACCR ⊂ USCS; LA County ⊂ California ⊂ SEER…), so the
 random-effects CI is falsely narrow and studies are NOT independent. For each main
-comparison we report, alongside the primary random-effects (DL) estimate:
+comparison we report, alongside the primary random-effects (REML + Hartung–Knapp) estimate:
 
   FE            fixed-effect (inverse-variance) — method robustness
   LOO           leave-one-out pooled IRR range — influence of any single study
@@ -51,7 +51,7 @@ def leave_one_out(studies):
     irrs = []
     for i in range(len(studies)):
         sub = studies[:i] + studies[i + 1:]
-        r = random_effects_meta(sub)
+        r = random_effects_meta(sub, method="REML", knha=True)
         irrs.append((r["irr"], studies[i].id))
     lo = min(irrs, key=lambda x: x[0])
     hi = max(irrs, key=lambda x: x[0])
@@ -75,8 +75,8 @@ def analyze(group, outcome="invasive_incidence", label=None):
     label = label or group
     print(f"\n{'─'*74}\n  {label}  (k={len(ss)})\n{'─'*74}")
 
-    prim = random_effects_meta(ss)
-    print(f"  {'Primary (random-effects, DL)':<34} {_fmt(prim['irr'], prim['ci_low'], prim['ci_high'])}"
+    prim = random_effects_meta(ss, method="REML", knha=True)
+    print(f"  {'Primary (REML + Hartung–Knapp)':<34} {_fmt(prim['irr'], prim['ci_low'], prim['ci_high'])}"
           f"   I²={prim['I2']:.0f}%")
 
     fe = fixed_effects(ss)
@@ -90,13 +90,13 @@ def analyze(group, outcome="invasive_incidence", label=None):
 
     with_ci = [s for s in ss if s.source not in NO_CI_SOURCES]
     if 2 <= len(with_ci) < len(ss):
-        r = random_effects_meta(with_ci)
+        r = random_effects_meta(with_ci, method="REML", knha=True)
         print(f"  {'Excl. approximated-SE (no CI)':<34} {_fmt(r['irr'], r['ci_low'], r['ci_high'])}"
               f"   (k={len(with_ci)})")
 
     fam = one_per_family(ss)
     if 2 <= len(fam) < len(ss):
-        r = random_effects_meta(fam)
+        r = random_effects_meta(fam, method="REML", knha=True)
         fams = ",".join(sorted({FAMILY.get(s.source, s.source) for s in fam}))
         print(f"  {'One estimate per registry family':<34} {_fmt(r['irr'], r['ci_low'], r['ci_high'])}"
               f"   (k={len(fam)}: {fams})")

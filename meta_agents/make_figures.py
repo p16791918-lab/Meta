@@ -124,7 +124,7 @@ def rows_for_group(group, outcome="invasive_incidence"):
                          irr=s.irr, lo=s.ci_low, hi=s.ci_high,
                          weight=1.0 / (s.se ** 2), pooled=False))
     if len(ss) >= 2:
-        r = random_effects_meta(ss)
+        r = random_effects_meta(ss, method="REML", knha=True)
         rows.append(dict(label=f"Pooled (k={len(ss)}, I²={r['I2']:.0f}%)",
                          irr=r["irr"], lo=r["ci_low"], hi=r["ci_high"],
                          weight=0, pooled=True))
@@ -137,7 +137,7 @@ def pooled_or_single(group, outcome):
     if not ss:
         return None
     if len(ss) >= 2:
-        r = random_effects_meta(ss)
+        r = random_effects_meta(ss, method="REML", knha=True)
         return r["irr"], r["ci_low"], r["ci_high"], len(ss)
     s = ss[0]
     return s.irr, s.ci_low, s.ci_high, 1
@@ -155,7 +155,7 @@ def fig1():
     fig.suptitle("Invasive breast cancer incidence vs non-Hispanic White — aggregate racial groups",
                  fontsize=13, fontweight="bold", color=INK, x=0.02, ha="left")
     fig.text(0.02, 0.945,
-             "Random-effects (DerSimonian-Laird). Pooling shows convergence "
+             "Random-effects (REML, Hartung–Knapp). Pooling shows convergence "
              "(Black CI crosses 1) but I²≈99% — the aggregate masks opposing sub-patterns.",
              fontsize=9, color=INK2, ha="left")
     fig.tight_layout(rect=[0, 0, 1, 0.93])
@@ -175,7 +175,7 @@ def fig2():
         if not ss:
             continue
         if len(ss) >= 2:
-            r = random_effects_meta(ss)
+            r = random_effects_meta(ss, method="REML", knha=True)
             irr, lo, hi, k = r["irr"], r["ci_low"], r["ci_high"], len(ss)
         else:
             s = ss[0]

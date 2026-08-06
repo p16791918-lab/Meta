@@ -15,7 +15,7 @@ HIGH, MOD, LOW, VLOW = "⊕⊕⊕⊕ High", "⊕⊕⊕⊝ Moderate", "⊕⊕⊝�
 def pooled(group, outcome="invasive_incidence"):
     ss = _subset(group, outcome)
     if len(ss) >= 2:
-        r = random_effects_meta(ss)
+        r = random_effects_meta(ss, method="REML", knha=True)
         return r["irr"], r["ci_low"], r["ci_high"], r["I2"], len(ss)
     s = ss[0]
     return s.irr, s.ci_low, s.ci_high, 0.0, 1
