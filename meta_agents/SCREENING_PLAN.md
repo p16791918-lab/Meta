@@ -14,45 +14,51 @@ and author-verifiable.
 - Records removed before screening: duplicate records removed (n)
   *(and, if applicable, records removed by document-type filter (n))*
 
+The PRISMA figure shows a **short list of reasons** like the example
+(Advice/PRISMA flowchart.pptx), which collapses everything off-topic into
+"Not relevant to the research question/topic." We do the same: the figure uses the
+**display categories** below, while the decision log keeps a **fine sub-reason** for
+each record (traceability), and the fine reasons roll up into the display category.
+
 **Screening — title/abstract** → Records screened (n); Records excluded (n), by reason:
-| code | reason (as shown in PRISMA) |
+| display category (shown in PRISMA) | fine sub-reasons rolled up (log only) |
 |---|---|
-| TA1 | Not breast cancer |
-| TA2 | Not an incidence outcome (mortality / survival / prevalence / screening / stage / treatment only) |
-| TA3 | Not a US population |
-| TA4 | Not reported by race/ethnicity |
-| TA5 | Wrong publication type (review, editorial, letter, comment, conference abstract, news) |
-| TA6 | Not a primary population-based/registry study |
+| **Not relevant to the research question/topic** | not breast cancer · not an incidence outcome (mortality/survival/prevalence/screening/stage/treatment) · not reported by race/ethnicity |
+| **Not a US population-based/registry study** | non-US population · not a primary population-based/registry study |
+| **Editorials, commentaries, letters, or conference abstracts** | review · editorial · letter · comment · conference abstract · news |
 
 **Eligibility — full text** → Reports sought (n); not retrieved (n); assessed (n);
 Reports excluded (n), by reason:
-| code | reason (as shown in PRISMA) |
+| display category (shown in PRISMA) | fine sub-reasons rolled up (log only) |
 |---|---|
-| FT1 | Outcome not age-adjusted invasive incidence (e.g., mortality-to-incidence ratio, in-situ only, stage-specific only) |
-| FT2 | No non-Hispanic White reference group |
-| FT3 | No extractable rates or rate ratios (figure-only / annual-percent-change only) |
-| FT4 | Non-US study |
-| FT5 | Male breast cancer / not female |
-| FT6 | Duplicate or overlapping report of an already-included dataset |
-| FT7 | Full text unavailable |
+| **Did not report the outcome of interest** | outcome not age-adjusted invasive incidence (mortality-to-incidence ratio, in-situ only, stage-specific only) · no non-Hispanic White reference group · no extractable rates or rate ratios (figure-/APC-only) |
+| **Ineligible population** | non-US study · male breast cancer / not female |
+| **Overlapping or duplicate dataset** | duplicate/overlapping report of an already-included dataset |
+| **Full text unavailable** | report not retrievable in full text |
 
 **Included** → Studies included in review (n); in quantitative synthesis (n);
 narrative synthesis (n).
 
 ## Decision log schema (`screening_decisions.csv`)
 `record_id, source_db, title, doi, pmid, stage (TA/FT), decision (include/exclude),
-reason_code, note`
-- One row per record. `reason_code` empty when include.
-- Counts per reason_code → the PRISMA numbers, directly.
+display_reason, sub_reason, note`
+- One row per record. `display_reason`/`sub_reason` empty when include.
+- `display_reason` ∈ the categories above → drives the PRISMA figure counts.
+- `sub_reason` is the fine detail → keeps the decision auditable without cluttering
+  the figure.
 
 ## Notes tied to supervisor feedback
 - **Registry overlap is NOT a PRISMA exclusion.** Overlapping registry studies are
   still "included"; the one-estimate-per-registry-family selection for the primary
   analysis is documented in a separate Supplementary table (feedback item 5), not
-  in the PRISMA flow.
-- **"Not a US population" (TA3 / FT4):** the review is **US-only (confirmed)**.
-  Non-US studies are excluded and counted here — the earlier draft kept some non-US
-  as narrative international comparison, but under the confirmed US-only scope they
-  are excluded, not retained as narrative.
-- The reason lists are fixed **before** screening so tallies are consistent; if a
-  new reason is genuinely needed, add a code rather than reusing a vague one.
+  in the PRISMA flow. ("Overlapping or duplicate dataset" at full text means a
+  *duplicate report of the same study/dataset*, e.g. a re-publication — not two
+  distinct studies that happen to share registry data.)
+- **US-only scope (confirmed):** non-US records are excluded — at title/abstract they
+  fall under "Not a US population-based/registry study," at full text under
+  "Ineligible population." The earlier draft kept some non-US as narrative
+  international comparison; under the confirmed US-only scope they are excluded, not
+  retained as narrative.
+- The display categories and their roll-up are fixed **before** screening so tallies
+  are consistent; if a genuinely new sub-reason appears, add it under the right
+  display category rather than inventing a vague new bucket.
