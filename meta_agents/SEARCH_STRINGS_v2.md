@@ -1,18 +1,19 @@
 # Search strategy v2 — expanded, multi-database (sensitivity-oriented)
 
-Per supervisor feedback, and matching the example paper's format, the search
-covers three database platforms: **(1) MEDLINE and Embase** (searched together on
-the Embase platform, which includes all MEDLINE records — so PubMed/MEDLINE is not
-counted separately), **(2) Scopus**, and **(3) Web of Science Core Collection**.
-The strategy is **broadened** from the earlier title-anchored design to
-**title/abstract/keyword** for the race/ethnicity concept, to raise sensitivity.
-Concept blocks joined with AND: breast cancer; race/ethnicity/disparity;
-incidence/age-adjusted rate; US-context. Limits: 2000–2025, English, human;
-exclude reviews, letters, editorials, notes, conference abstracts at the
-record-type level where the database supports it.
+Per supervisor feedback, the search covers **four databases: (1) PubMed/MEDLINE,
+(2) Embase, (3) Scopus, (4) Web of Science Core Collection.** Note (per feedback):
+PubMed and MEDLINE are the same database and are written as **"PubMed/MEDLINE"**
+(one entry), searched via PubMed — not counted as two. The strategy is
+**broadened** from the earlier title-anchored design to **title/abstract/keyword**
+for the race/ethnicity concept, to raise sensitivity. Concept blocks joined with
+AND: breast cancer; race/ethnicity/disparity; incidence/age-adjusted rate;
+US-context. Limits: 2000–2025, English, human; exclude reviews, letters,
+editorials, notes, conference abstracts at the record-type level where the
+database supports it.
 
-Run all on the SAME day; record each platform's hit count for the PRISMA
-"Identification" box.
+Run all four on the SAME day; record each database's hit count for the PRISMA
+"Identification" box. **Embase is the primary screening corpus** (it encompasses
+MEDLINE), per the supervisor; Scopus and WoS document comprehensiveness.
 
 **Screening strategy (per supervisor):** all four databases are searched to
 demonstrate a multi-database search, but the **primary screening corpus is
@@ -49,15 +50,7 @@ introduce.
 
 ---
 
-## 1. MEDLINE and Embase — searched together on the Embase platform
-
-Per the supervisor's example paper, MEDLINE and Embase are searched as a single
-line on the Embase platform (Embase indexes all MEDLINE records, so
-"PubMed/MEDLINE" is not counted as a separate database). This is the **primary
-screening corpus**. Use the Embase string in §2 below and report the combined
-count as "MEDLINE and Embase".
-
-### (Optional) PubMed / MEDLINE — direct, only if you also run PubMed separately
+## 1. PubMed/MEDLINE  (searched via PubMed — one database, not two)
 
 ```
 ("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast carcinoma"[tiab] OR "breast neoplasm*"[tiab])
@@ -92,7 +85,7 @@ AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
 NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt] OR "news"[pt])
 ```
 
-## 2. MEDLINE and Embase string (run on the Embase platform, MEDLINE included)
+## 2. Embase  (Elsevier syntax — primary screening corpus)
 
 ```
 ('breast cancer'/exp OR 'breast cancer':ti,ab OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
