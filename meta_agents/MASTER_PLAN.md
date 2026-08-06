@@ -1,5 +1,9 @@
 # Master revision plan — Phase 2 (supervisor feedback)
 
+**Governing checklist:** `FEEDBACK_COMPLIANCE.md` maps every feedback item and every
+example-paper element to its artifact — check work against it before submission. This
+file sequences the execution.
+
 One place that ties every sub-plan to the feedback, shows current → target state, and
 marks **who** does each step and **what it depends on**. Detailed methods live in the
 linked files; this is the sequencing/checklist. Statuses: ✅ done · 🔜 ready (waiting
