@@ -46,6 +46,17 @@ display_reason, sub_reason, note`
 - `display_reason` ∈ the categories above → drives the PRISMA figure counts.
 - `sub_reason` is the fine detail → keeps the decision auditable without cluttering
   the figure.
+- `decision` also accepts `dup` for records removed as duplicates before screening
+  (counted in the "duplicate records removed" box, not screened).
+
+**Auto-tally:** `python3 tally_prisma.py screening_decisions.csv` reads this log and
+prints every PRISMA number — per-database identification, duplicates removed,
+records screened/excluded with per-category counts (TA), reports assessed/excluded
+with per-category counts (FT), and studies included — and flags any `display_reason`
+that isn't one of the fixed categories. So the counts fall out of the log
+automatically; they are not tallied by hand. (Like the example paper, only these
+aggregate counts go in the flowchart; the per-record log stays as internal,
+author-verifiable backing.)
 
 ## Notes tied to supervisor feedback
 - **Registry overlap is NOT a PRISMA exclusion.** Overlapping registry studies are
