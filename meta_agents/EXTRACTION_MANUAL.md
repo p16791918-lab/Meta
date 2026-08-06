@@ -31,38 +31,51 @@ One row per **study × outcome × race/ethnicity group × (registry/period)** es
 
 ---
 
-## 2. Terminology & group harmonization (feedback #7, line 58)
-Record each label **as reported**, then map to a **controlled vocabulary**; keep the
-raw label so nothing is silently changed.
+## 2. Terminology unification (feedback #7, line 58)
+"Unify" means two things at once: **(a)** use **one canonical label set** consistently
+throughout the manuscript, tables, and figures (defined once in Methods), and **(b)**
+map each study to a canonical label **by what the study actually measured** — never
+relabel a study into a category its definition does not fit. So a mismatch is not just
+flagged and left; the flag triggers a **handling rule** (below) and the handling is
+part of the unification.
 
-**Reference group (comparator).** The reference must be **non-Hispanic White (NHW)**.
-- If a study's reference is "White" that **includes Hispanic White**, flag it; the
-  rate ratio is then not strictly minority-vs-NHW — note under comparability and
-  test in a sensitivity analysis (do not pool it as if NHW without flagging).
+### Canonical vocabulary (defined once, used everywhere)
+- **NHW** = non-Hispanic White — the reference group.
+- **NH Black** = non-Hispanic Black.
+- **Hispanic** = Hispanic/Latino/Latina/Latinx (of any race).
+- **Asian/PI (aggregate)** — and, kept **separate**, the disaggregated subgroups:
+  Chinese, Japanese, Korean, Filipino, Vietnamese, Asian Indian, Native Hawaiian,
+  other Pacific Islander.
+- **AIAN** = American Indian/Alaska Native, with **IHS-linked / misclassification-
+  corrected** vs **registry-only** kept as distinct sub-labels.
+- **Nativity:** US-born vs foreign-born kept separate from the pooled group.
 
-**Black.** Harmonize to **non-Hispanic Black** where the study specifies non-Hispanic;
-if the study's "Black" **includes Hispanic Black**, keep the raw label and flag
-(comparator/definition mismatch).
+The manuscript uses **only these labels** — no switching between "Black" and
+"non-Hispanic Black", "White"/"NHW", or "API"/subgroup synonyms within the text.
 
-**Hispanic.** "Hispanic / Latino / Latina / Latinx / Hispanic-any-race" → **Hispanic**.
-Note whether it is Hispanic-of-any-race vs a specific race (affects the White
-reference definition).
+### Mapping + handling when a study's definition does not match the canonical one
+For each reported group, map to the canonical label by the study's true definition.
+When the definition does **not** match (e.g., the study's "White" includes Hispanic
+White, or its "Black" includes Hispanic Black):
+1. **Prefer a conforming version from the same study.** If the study also reports the
+   canonical version (e.g., non-Hispanic White rates), **use that** and map cleanly.
+   *(This resolves most cases.)*
+2. **Otherwise do not relabel it into the canonical category.** Instead either:
+   - (a) keep it under an **honest distinct label** (e.g., "White, incl. Hispanic")
+     and **do not pool it** with NHW-referenced estimates; or
+   - (b) **exclude it from the primary pool** and report it in a **sensitivity
+     analysis / narratively**.
+3. **Record the decision** (which option, and why) in the row.
 
-**Asian / Pacific Islander.** Keep the **aggregate ("Asian", "API", "Asian or Pacific
-Islander", "NHPI-included")** and the **disaggregated subgroups** (Chinese, Japanese,
-Korean, Filipino, Vietnamese, Asian Indian, Native Hawaiian, other Pacific Islander)
-as **distinct** rows. **Never** merge a subgroup into the aggregate within one pool,
-and never pool the aggregate with its own subgroups (that is the review's whole
-point). Record whether the aggregate includes Pacific Islanders.
+### Rules that always hold
+- **Reference must be NHW.** A comparator that is not non-Hispanic White is handled by
+  the rule above, not silently treated as NHW.
+- **Asian/PI aggregate and its subgroups are never pooled together**, and a subgroup
+  is never merged into the aggregate within one pool — that separation is the review's
+  central point. Record whether an aggregate includes Pacific Islanders.
 
-**American Indian / Alaska Native (AIAN).** Harmonize to **AIAN**; record whether the
-estimate is **IHS-linked / misclassification-corrected** vs **registry-only**
-(these are kept distinct — the correction changes the estimate materially).
-
-**Nativity.** US-born vs foreign-born kept separate from the pooled group.
-
-A harmonization key (raw label → controlled label, + any flag) is saved alongside the
-extraction sheet so every mapping is auditable.
+A harmonization key (raw label → canonical label · match? · handling decision) is
+saved with the extraction sheet so every mapping is auditable.
 
 ---
 
