@@ -84,7 +84,14 @@ pooling it.
 ---
 
 ## Software note
-Whichever tool is chosen (pending decision: Python / R `metafor` / Stata), the
-method-comparison table above is the deliverable. `metafor::rma()` makes it one line
-per row (`method="REML"/"DL"/"PM"`, `test="knha"/"z"`), which is why it is the
-recommended engine; Python results can be cross-checked against it.
+**Decision: Python** (`run_meta_analysis_breast.py`). The current code implements
+DerSimonian–Laird only; it must be extended to add **REML** (iterative τ² estimation)
+and the **Hartung–Knapp** adjustment (t-distribution CI with the HK variance
+correction) so the S-C comparison table can be produced. Implementation notes:
+- REML τ² via Newton–Raphson / Fisher-scoring iteration on the restricted
+  log-likelihood; fall back to Paule–Mandel as a check.
+- Hartung–Knapp: q = Σ wᵢ(θᵢ−θ̂)²/(k−1); SE_HK = √(q/Σwᵢ); CI uses t_{k−1}.
+- Report all rows (REML+HK, REML+Wald, DL+Wald) from the same weights so differences
+  are attributable to method, not data handling.
+- Optionally cross-check one pooled estimate against R `metafor` to validate the REML
+  and HK implementation (validation only; the reported analysis stays in Python).
