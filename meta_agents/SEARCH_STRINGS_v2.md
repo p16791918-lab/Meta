@@ -32,11 +32,14 @@ aggregate terms because this review's included studies specifically cover AIAN
 would be missed by aggregate-only terms.
 
 **Detailed Asian/Pacific Islander subgroups.** Because disaggregated Asian
-ethnicity is the review's central theme, the SEER AANHPI detailed subgroups
-(Chinese, Japanese, Korean, Filipino, Vietnamese, Asian Indian, Pakistani,
-Cambodian, Hmong, Laotian, Thai, Samoan, Guamanian, Chamorro) are included as
+ethnicity is the review's central theme, the major US-reported subgroups
+(Chinese, Japanese, Korean, Filipino, Vietnamese, Asian Indian) are included as
 search terms so single-ethnicity studies (e.g., "Korean American breast cancer
-incidence") are captured. Trade-off: bare terms like "Chinese"/"Japanese"/"Korean"
+incidence") are captured. Rarer subgroups (Pakistani, Cambodian, Hmong, Laotian,
+Thai, Samoan, Guamanian, Chamorro) are not listed individually — they are seldom
+reported separately in US breast-cancer incidence studies and are covered by the
+umbrella terms already present (South Asian, Pacific Islander, Native Hawaiian,
+Asian, Asian American). Trade-off: bare terms like "Chinese"/"Japanese"/"Korean"
 also retrieve non-US (Asian-country) incidence studies. Because eligibility is
 strictly US and the added country-ethnicity terms would otherwise flood the
 screening set with non-US records, a **US-context block is included as a fourth
@@ -60,8 +63,7 @@ AND (race[tiab] OR racial[tiab] OR ethnic*[tiab] OR minorit*[tiab] OR disparit*[
      OR "Native American*"[tiab] OR indigenous[tiab] OR "Pacific Islander*"[tiab]
      OR "Native Hawaiian*"[tiab] OR "South Asian*"[tiab] OR "Asian American*"[tiab]
      OR Chinese[tiab] OR Japanese[tiab] OR Korean[tiab] OR Filipin*[tiab] OR Vietnamese[tiab]
-     OR "Asian Indian*"[tiab] OR Pakistani[tiab] OR Cambodian[tiab] OR Hmong[tiab]
-     OR Laotian[tiab] OR Thai[tiab] OR Samoan[tiab] OR Guamanian[tiab] OR Chamorro[tiab]
+     OR "Asian Indian*"[tiab]
      OR "Ethnicity"[Mesh] OR "Minority Groups"[Mesh] OR "Health Status Disparities"[Mesh]
      OR "Black or African American"[Mesh] OR "Hispanic or Latino"[Mesh]
      OR "American Indian or Alaska Native"[Mesh]
@@ -95,8 +97,7 @@ AND (race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minorit*:ti,ab OR disparit*:
      OR 'native american*':ti,ab OR indigenous:ti,ab OR 'pacific islander*':ti,ab
      OR 'native hawaiian*':ti,ab OR 'south asian*':ti,ab OR 'asian american*':ti,ab
      OR chinese:ti,ab OR japanese:ti,ab OR korean:ti,ab OR filipin*:ti,ab OR vietnamese:ti,ab
-     OR 'asian indian*':ti,ab OR pakistani:ti,ab OR cambodian:ti,ab OR hmong:ti,ab
-     OR laotian:ti,ab OR thai:ti,ab OR samoan:ti,ab OR guamanian:ti,ab OR chamorro:ti,ab
+     OR 'asian indian*':ti,ab
      OR 'ethnic group'/exp OR 'race'/exp OR 'health disparity'/exp
      OR 'American Indian'/exp OR 'Hispanic'/exp OR 'ethnicity'/exp)
 AND (incidence:ti,ab OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab
@@ -125,8 +126,7 @@ AND ( TITLE-ABS-KEY ( race OR racial OR ethnic* OR minorit* OR disparit*
         OR black OR hispanic OR latin* OR white OR asian OR "african american"
         OR "american indian*" OR "alaska nativ*" OR "native american*" OR indigenous
         OR "pacific islander*" OR "native hawaiian*" OR "south asian*" OR "asian american*"
-        OR chinese OR japanese OR korean OR filipin* OR vietnamese OR "asian indian*"
-        OR pakistani OR cambodian OR hmong OR laotian OR thai OR samoan OR guamanian OR chamorro ) )
+        OR chinese OR japanese OR korean OR filipin* OR vietnamese OR "asian indian*" ) )
 AND ( TITLE-ABS-KEY ( incidence OR "incidence rate*" OR "age-adjusted"
         OR "age-standardized" OR "age standardi*ation" ) )
 AND ( TITLE-ABS-KEY ( "United States" OR USA OR America* OR SEER OR NAACCR OR USCS
@@ -153,8 +153,7 @@ AND TS=(race OR racial OR ethnic* OR minorit* OR disparit*
         OR Black OR Hispanic OR Latin* OR White OR Asian OR "African American"
         OR "American Indian*" OR "Alaska Nativ*" OR "Native American*" OR indigenous
         OR "Pacific Islander*" OR "Native Hawaiian*" OR "South Asian*" OR "Asian American*"
-        OR Chinese OR Japanese OR Korean OR Filipin* OR Vietnamese OR "Asian Indian*"
-        OR Pakistani OR Cambodian OR Hmong OR Laotian OR Thai OR Samoan OR Guamanian OR Chamorro)
+        OR Chinese OR Japanese OR Korean OR Filipin* OR Vietnamese OR "Asian Indian*")
 AND TS=(incidence OR "incidence rate*" OR "age-adjusted" OR "age-standardized" OR "age standardi?ation")
 AND TS=("United States" OR USA OR America* OR SEER OR NAACCR OR USCS OR "United States Cancer Statistics"
         OR Alabama OR Alaska OR Arizona OR Arkansas OR California OR Colorado OR Connecticut
