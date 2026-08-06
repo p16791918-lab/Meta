@@ -50,9 +50,9 @@ reason_code, note`
   still "included"; the one-estimate-per-registry-family selection for the primary
   analysis is documented in a separate Supplementary table (feedback item 5), not
   in the PRISMA flow.
-- **"Not a US population" (TA3 / FT4):** non-US studies are excluded from the
-  review (the earlier draft kept some non-US as narrative international comparison;
-  under the revised US-only scope they are excluded and counted here). Confirm this
-  scope choice with the team before finalizing.
+- **"Not a US population" (TA3 / FT4):** the review is **US-only (confirmed)**.
+  Non-US studies are excluded and counted here — the earlier draft kept some non-US
+  as narrative international comparison, but under the confirmed US-only scope they
+  are excluded, not retained as narrative.
 - The reason lists are fixed **before** screening so tallies are consistent; if a
   new reason is genuinely needed, add a code rather than reusing a vague one.

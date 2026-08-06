@@ -7,10 +7,16 @@ the **primary** analysis. All-studies and overlap-excluded analyses are reported
 sensitivity checks. A Supplementary table records overlap, primary-inclusion, and
 the selection reason for every study.
 
-## Step 1 — Characterization table (one row per study, from full text)
-| Study (author, year) | Data source / registry | Region / coverage | Diagnosis period | Age range | Race/ethnicity groups reported | Outcome(s) reported | Age-standard | CI reported? | Sample size / person-years |
+## Step 1 — Supplementary Table S-A: study characterization (overlap detection)
+One row per study (split into extra rows if a study reports from >1 registry). This
+is the table feedback item 5 (line 30) asks for — it makes overlap visible — and it
+also carries the CI-source distinction feedback item 6 (line 42) requires.
 
-*(This is the working table; it also becomes a Supplementary table.)*
+| Study (author, year) | Data source / registry | Registry family | Region / coverage | Diagnosis period | Age range | Race/ethnicity groups reported | Outcome(s) reported | Age-standardization (standard population) | Effect measure & CI source¹ | Sample size / person-years |
+
+¹ **CI/effect source** — one of: `directly-reported IRR/RR (95% CI given)` ·
+`rate-derived IRR (computed from two age-adjusted rates)` · `figure-extracted` ·
+`approximated SE`. (Distinguishing these is required by feedback item 6.)
 
 ## Step 2 — Registry families (for detecting overlap)
 - **USCS** ⊇ **NAACCR** ⊇ **SEER** (national aggregators; USCS ≈ full US, NAACCR
@@ -46,9 +52,33 @@ must not be counted twice for the same question**.
   cleanest, non-overlapping sources).
 - Compare direction/magnitude across the three.
 
-## Step 5 — Supplementary table (as required by feedback)
-| Study | Registry family | Overlaps with | Included in primary? (Y/N) | If representative, for which outcome(s) | Reason for selection / exclusion |
+## Step 5 — Supplementary Table S-B: overlap + representative-study selection
+Feedback item 5 (line 34) requires this table to show, for every study: **overlap
+potential**, **inclusion in the primary analysis**, and the **selection reason**.
+Modeled on the example paper's assessment table (structured per-criterion columns +
+an overall decision), the reason is broken into the five selection criteria so the
+choice is transparent — not a free-text assertion.
+
+**Unit = one row per question (outcome × race/ethnicity subgroup) × study**, because
+the same study can be the representative for one question and excluded for another
+(feedback line 32: the same registry data must not be counted twice for the *same*
+question).
+
+| Question (outcome × subgroup) | Study (author, year) | Registry family | Region / period (overlap drivers) | Overlap potential² | Overlaps with (study) | C1 coverage | C2 sample | C3 period | C4 age-std | C5 CI direct³ | Included in primary? (Y/N) | In Sens A (all) | In Sens B (overlap-excluded) | Reason for selection / exclusion |
+
+² **Overlap potential** — `None` / `Partial` / `High`, judged from shared registry
+family + overlapping region + overlapping calendar period for the same question.
+³ **C1–C5** = the five selection criteria (Step 3): most comprehensive coverage,
+largest sample/person-years, most recent-or-longest period, clear age-standardization,
+directly reported 95% CI. Mark ✓ / – for the chosen representative vs the others so
+the winning criterion is visible.
+
+**Mapping to feedback:** 중복 가능성 → *Overlap potential* + *Overlaps with*;
+주 분석 포함 여부 → *Included in primary?* (+ Sens A / Sens B membership);
+대표연구 선정 이유 → *C1–C5 marks* + *Reason*.
 
 ---
-**Team confirmation needed:** US-only scope means non-US studies (e.g., UK) are
-excluded (not kept as narrative). Confirm before finalizing the overlap table.
+**Scope (confirmed):** the review is **US-only**. Non-US studies (e.g., UK) are
+**excluded** at screening (codes TA3 / FT4) and are **not** retained as narrative
+international comparison. They therefore do not appear in Tables S-A / S-B; they are
+counted only in the PRISMA exclusion tally.
