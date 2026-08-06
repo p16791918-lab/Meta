@@ -50,7 +50,7 @@ ethnicity categories differ from estimates disaggregated by detailed ethnicity
 
 ### ✅PASTE 14. Searches
 We will search PubMed/MEDLINE, Embase, Scopus, and Web of Science Core Collection
-from 1 January 2000 to 31 December 2025, limited to English-language human
+from 1 January 2000 to the search date in 2026, limited to English-language human
 studies. Three concept blocks — breast cancer; race/ethnicity/disparity;
 incidence/age-adjusted rate — combined with a US-context block, using
 title/abstract/keyword fields and controlled vocabulary. Reviews, letters,

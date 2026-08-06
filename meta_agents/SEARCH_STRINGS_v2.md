@@ -7,7 +7,7 @@ PubMed and MEDLINE are the same database and are written as **"PubMed/MEDLINE"**
 **broadened** from the earlier title-anchored design to **title/abstract/keyword**
 for the race/ethnicity concept, to raise sensitivity. Concept blocks joined with
 AND: breast cancer; race/ethnicity/disparity; incidence/age-adjusted rate;
-US-context. Limits: 2000–2025, English, human; exclude reviews, letters,
+US-context. Limits: 2000–2026, English, human; exclude reviews, letters,
 editorials, notes, conference abstracts at the record-type level where the
 database supports it.
 
@@ -83,7 +83,7 @@ AND ("United States"[tiab] OR USA[tiab] OR America*[tiab] OR SEER[tiab] OR NAACC
      OR Oklahoma[tiab] OR Oregon[tiab] OR Pennsylvania[tiab] OR "Rhode Island"[tiab] OR "South Carolina"[tiab]
      OR "South Dakota"[tiab] OR Tennessee[tiab] OR Texas[tiab] OR Utah[tiab] OR Vermont[tiab]
      OR Virginia[tiab] OR Washington[tiab] OR "West Virginia"[tiab] OR Wisconsin[tiab] OR Wyoming[tiab])
-AND (2000:2025[dp]) AND English[lang] AND humans[MeSH]
+AND (2000:2026[dp]) AND English[lang] AND humans[MeSH]
 NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt] OR "news"[pt])
 ```
 
@@ -114,7 +114,7 @@ AND ('united states':ti,ab OR usa:ti,ab OR america*:ti,ab OR seer:ti,ab OR naacc
      OR oklahoma:ti,ab OR oregon:ti,ab OR pennsylvania:ti,ab OR 'rhode island':ti,ab OR 'south carolina':ti,ab
      OR 'south dakota':ti,ab OR tennessee:ti,ab OR texas:ti,ab OR utah:ti,ab OR vermont:ti,ab
      OR virginia:ti,ab OR washington:ti,ab OR 'west virginia':ti,ab OR wisconsin:ti,ab OR wyoming:ti,ab)
-AND [2000-2025]/py AND [english]/lim AND [humans]/lim
+AND [2000-2026]/py AND [english]/lim AND [humans]/lim
 NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it OR 'conference abstract'/it)
 ```
 
@@ -139,7 +139,7 @@ AND ( TITLE-ABS-KEY ( "United States" OR USA OR America* OR SEER OR NAACCR OR US
         OR "North Dakota" OR Ohio OR Oklahoma OR Oregon OR Pennsylvania OR "Rhode Island"
         OR "South Carolina" OR "South Dakota" OR Tennessee OR Texas OR Utah OR Vermont
         OR Virginia OR Washington OR "West Virginia" OR Wisconsin OR Wyoming ) )
-AND PUBYEAR > 1999 AND PUBYEAR < 2026
+AND PUBYEAR > 1999 AND PUBYEAR < 2027
 AND ( LIMIT-TO ( LANGUAGE , "English" ) )
 AND NOT ( DOCTYPE ( re ) OR DOCTYPE ( le ) OR DOCTYPE ( ed ) OR DOCTYPE ( no ) OR DOCTYPE ( cp ) )
 ```
@@ -164,7 +164,7 @@ AND TS=("United States" OR USA OR America* OR SEER OR NAACCR OR USCS OR "United 
         OR "North Dakota" OR Ohio OR Oklahoma OR Oregon OR Pennsylvania OR "Rhode Island"
         OR "South Carolina" OR "South Dakota" OR Tennessee OR Texas OR Utah OR Vermont
         OR Virginia OR Washington OR "West Virginia" OR Wisconsin OR Wyoming)
-AND PY=(2000-2025)
+AND PY=(2000-2026)
 AND LA=(English)
 NOT DT=(Review OR Letter OR Editorial Material OR Note OR Meeting Abstract)
 ```

@@ -45,7 +45,7 @@ Islander subgroups), molecular subtype, age, and nativity.
 
 ### Searches
 PubMed/MEDLINE, Embase, Scopus, and Web of Science Core Collection will be searched
-from 1 January 2000 to 31 December 2025, limited to English-language human studies.
+from 1 January 2000 to the search date in 2026, limited to English-language human studies.
 Three concept blocks (breast cancer; race/ethnicity/disparity; incidence/age-
 adjusted rate) will be combined with a US-context block, using title/abstract/
 keyword fields and controlled vocabulary. Reviews, letters, editorials, notes, and

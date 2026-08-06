@@ -23,7 +23,7 @@ Abstract + DOI + PMID drive de-duplication and screening — make sure they're i
 
 ## 2. Embase  —  embase.com   (primary corpus)
 1. Paste the **§2** string → Search. Apply limits if not in the string
-   (2000–2025, English, humans; exclude review/case report/editorial/note/
+   (2000–2026, English, humans; exclude review/case report/editorial/note/
    conference abstract).
 2. Write the count:  Embase = ______
 3. **Export:** top-right **Export** button →
