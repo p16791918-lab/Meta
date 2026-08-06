@@ -511,7 +511,14 @@ AGE_HISPANIC_15986118 = [
 
 # ─── Random-effects meta-analysis (DerSimonian-Laird) ─────────────────────────
 
-def random_effects_meta(studies: List[Study]):
+def random_effects_meta(studies: List[Study], method="DL", knha=False):
+    """Random-effects pool of within-study log-IRRs.
+
+    method : "DL" (DerSimonian–Laird) or "REML" (restricted max-likelihood) tau^2.
+    knha   : if True, apply the Hartung–Knapp adjustment (t_{k-1} CI with the HK
+             variance correction). Defaults (DL, no HK) reproduce the original
+             behavior so existing callers are unaffected.
+    """
     k = len(studies)
     if k == 0:
         return None
@@ -528,29 +535,74 @@ def random_effects_meta(studies: List[Study]):
     I2 = max(0, (Q - df) / Q * 100) if Q > 0 else 0.0
 
     c = sum(wi_fixed) - sum(w ** 2 for w in wi_fixed) / sum(wi_fixed)
-    tau2 = max(0, (Q - df) / c) if c > 0 else 0.0
+    tau2_dl = max(0, (Q - df) / c) if c > 0 else 0.0
+    if method.upper() == "REML":
+        tau2 = reml_tau2(yi, vi, tau2_init=tau2_dl)
+    else:
+        tau2 = tau2_dl
 
     wi_re = [1 / (v + tau2) for v in vi]
-    theta_re = sum(w * y for w, y in zip(wi_re, yi)) / sum(wi_re)
-    se_re = math.sqrt(1 / sum(wi_re))
+    sw = sum(wi_re)
+    theta_re = sum(w * y for w, y in zip(wi_re, yi)) / sw
+    se_model = math.sqrt(1 / sw)
 
-    ci_low = theta_re - 1.96 * se_re
-    ci_high = theta_re + 1.96 * se_re
-    pi_low = theta_re - 1.96 * math.sqrt(tau2 + se_re ** 2)
-    pi_high = theta_re + 1.96 * math.sqrt(tau2 + se_re ** 2)
+    # CI: Hartung–Knapp (t_{k-1}, HK variance) or Wald (normal, model SE)
+    if knha and k >= 2:
+        q_hk = sum(w * (y - theta_re) ** 2 for w, y in zip(wi_re, yi)) / (k - 1)
+        se_ci = math.sqrt(q_hk / sw)
+        crit = _t_ppf(0.975, k - 1)
+        stat = theta_re / se_ci
+        p = 2 * (1 - _t_cdf(abs(stat), k - 1))
+    else:
+        se_ci = se_model
+        crit = 1.96
+        stat = theta_re / se_ci
+        p = 2 * (1 - _norm_cdf(abs(stat)))
 
-    z = theta_re / se_re
-    p = 2 * (1 - _norm_cdf(abs(z)))
+    ci_low = theta_re - crit * se_ci
+    ci_high = theta_re + crit * se_ci
+
+    # Prediction interval: t_{k-2} when using REML/HK and k>2, else normal
+    pi_crit = _t_ppf(0.975, k - 2) if (method.upper() == "REML" and k > 2) else 1.96
+    pi_sd = math.sqrt(tau2 + se_model ** 2)
+    pi_low = theta_re - pi_crit * pi_sd
+    pi_high = theta_re + pi_crit * pi_sd
 
     return {
-        "k": k, "theta": theta_re, "se": se_re,
+        "k": k, "theta": theta_re, "se": se_model, "se_ci": se_ci,
+        "method": method.upper(), "knha": bool(knha), "crit": crit,
         "irr": math.exp(theta_re),
         "ci_low": math.exp(ci_low), "ci_high": math.exp(ci_high),
         "pi_low": math.exp(pi_low), "pi_high": math.exp(pi_high),
-        "I2": I2, "tau2": tau2, "Q": Q, "Q_df": df,
+        "I2": I2, "tau2": tau2, "tau2_dl": tau2_dl, "Q": Q, "Q_df": df,
         "p_Q": 1 - _chi2_cdf(Q, df),
-        "z": z, "p": p,
+        "z": stat, "p": p,
     }
+
+
+def method_comparison(studies: List[Study], label: str, width=78):
+    """Supplementary Table S-C — pooled estimate under DL / REML / REML+HK."""
+    rows = [
+        ("DerSimonian–Laird (Wald)", "DL", False),
+        ("REML (Wald)", "REML", False),
+        ("REML + Hartung–Knapp *", "REML", True),
+    ]
+    lines = []
+    lines.append("-" * width)
+    lines.append(f"  Method comparison (Table S-C) — {label}   [k={len(studies)}]")
+    lines.append("-" * width)
+    lines.append(f"  {'Model':<26}{'IRR (95% CI)':>22}{'tau2':>9}{'I2':>6}   95% PI")
+    lines.append("-" * width)
+    for name, m, hk in rows:
+        r = random_effects_meta(studies, method=m, knha=hk)
+        ci = f"{r['irr']:.3f} ({r['ci_low']:.3f}-{r['ci_high']:.3f})"
+        pi = f"({r['pi_low']:.3f}-{r['pi_high']:.3f})"
+        lines.append(f"  {name:<26}{ci:>22}{r['tau2']:>9.4f}{r['I2']:>5.0f}%   {pi}")
+    lines.append("-" * width)
+    lines.append("  * primary model. Differences across rows show the estimator's")
+    lines.append("    influence on the pooled estimate rather than assuming none.")
+    lines.append("-" * width)
+    return "\n".join(lines)
 
 
 def _norm_cdf(x):
@@ -573,6 +625,96 @@ def _reg_gamma(a, x, max_iter=200, tol=1e-10):
         if abs(term) < tol:
             break
     return math.exp(-x + a * math.log(x) - ln_gamma_a) * total / a
+
+
+# ─── Student-t distribution (for Hartung–Knapp CIs), pure-math ────────────────
+
+def _betacf(a, b, x, max_iter=200, eps=3e-12):
+    fpmin = 1e-300
+    qab, qap, qam = a + b, a + 1.0, a - 1.0
+    c = 1.0
+    d = 1.0 - qab * x / qap
+    if abs(d) < fpmin:
+        d = fpmin
+    d = 1.0 / d
+    h = d
+    for m in range(1, max_iter + 1):
+        m2 = 2 * m
+        aa = m * (b - m) * x / ((qam + m2) * (a + m2))
+        d = 1.0 + aa * d
+        if abs(d) < fpmin:
+            d = fpmin
+        c = 1.0 + aa / c
+        if abs(c) < fpmin:
+            c = fpmin
+        d = 1.0 / d
+        h *= d * c
+        aa = -(a + m) * (qab + m) * x / ((a + m2) * (qap + m2))
+        d = 1.0 + aa * d
+        if abs(d) < fpmin:
+            d = fpmin
+        c = 1.0 + aa / c
+        if abs(c) < fpmin:
+            c = fpmin
+        d = 1.0 / d
+        de = d * c
+        h *= de
+        if abs(de - 1.0) < eps:
+            break
+    return h
+
+
+def _betai(a, b, x):
+    """Regularized incomplete beta I_x(a, b)."""
+    if x <= 0.0:
+        return 0.0
+    if x >= 1.0:
+        return 1.0
+    lbeta = math.lgamma(a + b) - math.lgamma(a) - math.lgamma(b)
+    bt = math.exp(lbeta + a * math.log(x) + b * math.log(1.0 - x))
+    if x < (a + 1.0) / (a + b + 2.0):
+        return bt * _betacf(a, b, x) / a
+    return 1.0 - bt * _betacf(b, a, 1.0 - x) / b
+
+
+def _t_cdf(t, df):
+    """CDF of Student-t with df degrees of freedom."""
+    x = df / (df + t * t)
+    ib = 0.5 * _betai(df / 2.0, 0.5, x)
+    return 1.0 - ib if t > 0 else ib
+
+
+def _t_ppf(p, df):
+    """Two-sided quantile of Student-t via bisection (df may be non-integer)."""
+    lo, hi = -1000.0, 1000.0
+    for _ in range(200):
+        mid = 0.5 * (lo + hi)
+        if _t_cdf(mid, df) < p:
+            lo = mid
+        else:
+            hi = mid
+    return 0.5 * (lo + hi)
+
+
+# ─── REML estimator of tau^2 (iterative) ──────────────────────────────────────
+
+def reml_tau2(yi, vi, tau2_init=0.0, max_iter=200, tol=1e-8):
+    """Restricted maximum-likelihood tau^2 (Viechtbauer 2005 fixed-point)."""
+    tau2 = max(0.0, tau2_init)
+    for _ in range(max_iter):
+        wi = [1.0 / (v + tau2) for v in vi]
+        sw = sum(wi)
+        theta = sum(w * y for w, y in zip(wi, yi)) / sw
+        num = sum(w * w * ((y - theta) ** 2 - v) for w, y, v in zip(wi, yi, vi))
+        den = sum(w * w for w in wi)
+        new = num / den + 1.0 / sw
+        if new < 0.0:
+            new = 0.0
+        if abs(new - tau2) < tol:
+            tau2 = new
+            break
+        tau2 = new
+    return max(0.0, tau2)
 
 
 # ─── Forest plot (ASCII) ─────────────────────────────────────────────────────
@@ -649,15 +791,16 @@ def run_all():
         if len(subset) < 2:
             print(f"[SKIP] {label} — only {len(subset)} study\n")
             continue
-        res = random_effects_meta(subset)
+        res = random_effects_meta(subset, method="REML", knha=True)  # primary
         if res is None:
             continue
         results[label] = res
         print(forest_plot(subset, res, label))
+        print(method_comparison(subset, label))
         print()
 
     print("\n" + "═" * 72)
-    print("  SUMMARY TABLE — Pooled IRRs (Minority vs NHW)")
+    print("  SUMMARY TABLE — Pooled IRRs (Minority vs NHW) [primary: REML + Hartung–Knapp]")
     print("═" * 72)
     print(f"  {'Comparison':<44} {'IRR':>6}  {'95% CI':>16}  {'I2':>5}  p")
     print("─" * 72)
@@ -682,7 +825,7 @@ def run_all():
             continue
         srcs = ",".join(sorted({s.source for s in ss}))
         if len(ss) >= 2:
-            r = random_effects_meta(ss)
+            r = random_effects_meta(ss, method="REML", knha=True)
             subgroup_rows.append((g, r["irr"]))
             ci = f"({r['ci_low']:.3f}-{r['ci_high']:.3f})"
             print(f"  {g:<16}{len(ss):>3}  {r['irr']:>6.3f}  {ci:>16}  {r['I2']:>4.0f}%  {srcs}")
@@ -767,6 +910,7 @@ if __name__ == "__main__":
         for k, v in results.items():
             out[k] = {
                 "k": v["k"],
+                "model": f"{v.get('method','DL')}" + ("+HK" if v.get("knha") else ""),
                 "irr": round(v["irr"], 3),
                 "ci_low": round(v["ci_low"], 3),
                 "ci_high": round(v["ci_high"], 3),
