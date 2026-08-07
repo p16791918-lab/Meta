@@ -87,7 +87,7 @@ NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[
 ## 2. Embase  (Elsevier syntax — primary screening corpus)
 
 ```
-('breast cancer'/exp OR 'breast cancer':ti,ab OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
+('breast cancer'/exp OR 'breast cancer' OR 'breast cancer':ti,ab OR 'breast carcinoma':ti,ab OR 'breast neoplasm':ti,ab)
 AND (race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minorit*:ti,ab OR disparit*:ti,ab
      OR black:ti,ab OR hispanic:ti,ab OR latin*:ti,ab OR white:ti,ab OR asian:ti,ab
      OR 'african american':ti,ab OR 'american indian*':ti,ab OR 'alaska nativ*':ti,ab
@@ -95,18 +95,24 @@ AND (race:ti,ab OR racial:ti,ab OR ethnic*:ti,ab OR minorit*:ti,ab OR disparit*:
      OR 'native hawaiian*':ti,ab OR 'south asian*':ti,ab OR 'asian american*':ti,ab
      OR chinese:ti,ab OR japanese:ti,ab OR korean:ti,ab OR filipin*:ti,ab OR vietnamese:ti,ab
      OR 'asian indian*':ti,ab
-     OR 'ethnic group'/exp OR 'race'/exp OR 'health disparity'/exp
-     OR 'American Indian'/exp OR 'Hispanic'/exp OR 'ethnicity'/exp)
+     OR 'ethnic group'/exp OR 'ethnic group' OR 'race'/exp OR 'race'
+     OR 'health disparity'/exp OR 'health disparity'
+     OR 'american indian'/exp OR 'american indian' OR 'hispanic'/exp OR 'hispanic'
+     OR 'ethnicity'/exp OR 'ethnicity')
 AND (incidence:ti,ab OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab
-     OR 'age-standardized':ti,ab OR 'age standardization'/exp)
+     OR 'age-standardized':ti,ab OR 'age standardization')
 AND ('united states':ti,ab OR usa:ti,ab OR america*:ti,ab OR seer:ti,ab OR naaccr:ti,ab
-     OR uscs:ti,ab OR 'united states cancer statistics':ti,ab OR 'United States'/exp
+     OR uscs:ti,ab OR 'united states cancer statistics':ti,ab OR 'united states'/exp OR 'united states'
      OR connecticut:ti,ab OR iowa:ti,ab OR 'new mexico':ti,ab OR utah:ti,ab OR hawaii:ti,ab
      OR georgia:ti,ab OR michigan:ti,ab OR washington:ti,ab OR california:ti,ab
      OR kentucky:ti,ab OR louisiana:ti,ab OR 'new jersey':ti,ab)
 AND [2000-2026]/py AND [english]/lim AND [humans]/lim
-NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it OR 'conference abstract'/it)
+NOT ('review'/it OR 'case report'/it OR 'editorial'/it OR 'note'/it OR 'conference abstract'/it)
 ```
+*Run in Embase **Advanced Search** on 2026-08-07 → **3,248 records** (adopted). The
+untagged terms (e.g., `'race'`, `'united states'`) broaden the search across all
+fields; the same string in Quick Search returns 1,703 (a strict subset). See
+`search_v2/SEARCH_LOG.md`.*
 
 ## 3. Scopus (Advanced Search — paste as one query)
 
