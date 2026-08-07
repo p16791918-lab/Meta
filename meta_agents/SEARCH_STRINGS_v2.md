@@ -71,8 +71,7 @@ AND (race[tiab] OR racial[tiab] OR ethnic*[tiab] OR minorit*[tiab] OR disparit*[
      OR "Asian Indian*"[tiab]
      OR "Ethnicity"[Mesh] OR "Minority Groups"[Mesh] OR "Health Status Disparities"[Mesh]
      OR "Black or African American"[Mesh] OR "Hispanic or Latino"[Mesh]
-     OR "American Indian or Alaska Native"[Mesh]
-     OR "Native Hawaiian or Other Pacific Islander"[Mesh] OR "Asian"[Mesh])
+     OR "American Indian or Alaska Native"[Mesh] OR "Asian"[Mesh])
 AND (incidence[tiab] OR "incidence rate*"[tiab] OR "age-adjusted"[tiab]
      OR "age-standardized"[tiab] OR "age-standardised"[tiab] OR "Incidence"[Mesh])
 AND ("United States"[tiab] OR USA[tiab] OR America*[tiab] OR SEER[tiab] OR NAACCR[tiab]
