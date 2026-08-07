@@ -559,3 +559,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 557,TA,exclude,Not relevant to the research question/topic,API screening disaggregation,Disaggregating data on Asian and Pacific Islander women to assess cancer  screening
 558,TA,exclude,Not relevant to the research question/topic,farmworker occupational cohort MOR,"Cancer incidence in the united farmworkers of America (UFW), 1987-1997"
 559,TA,exclude,Not relevant to the research question/topic,traffic-emission risk case-control,Exposure to traffic emissions throughout life and risk of breast cancer: the  Western New York Exposures and Breast Cancer (WEB) study
+560,TA,exclude,Not relevant to the research question/topic,gene-expression-profiling uptake,Influence of provider factors and race on uptake of breast cancer gene expression profiling
+561,TA,exclude,Not relevant to the research question/topic,breast reconstruction rates,Disparity Reduction in U.S. Breast Reconstruction: An Analysis from 2005 to 2017  Using 3 Nationwide Data Sets
+562,TA,exclude,Not relevant to the research question/topic,second primary ovarian,"Risk for Second Primary Ovarian Cancer: A Large Population Based on Surveillance, Epidemiology, and End Results Database"
+563,TA,exclude,Not a US population-based/registry study,Pan-American HDI GLOBOCAN,Exploring disparities in incidence and mortality rates of breast and gynecologic cancers according to the Human Development Index in the Pan-American region
+564,TA,exclude,Not relevant to the research question/topic,diabetes after BC,Incidence and Predictors of Diabetes Mellitus after a Diagnosis of Early-Stage Breast Cancer in the Elderly Using Real-World Data
+565,TA,include,,Guam/Hawaii US-island registry incidence (breast among),Cancer in Guam and Hawaii: A comparison of two U.S. Island populations
+566,TA,exclude,Not relevant to the research question/topic,IBC socioeconomic association,"Association of inflammatory and noninflammatory breast cancer with socioeconomic characteristics in the surveillance, epidemiology, and end results database, 2000-2007"
+567,TA,exclude,Not relevant to the research question/topic,AI/AN mortality,"Regional patterns and trends in cancer mortality among American Indians and Alaska Natives, 1990-2001"
+568,TA,exclude,Not relevant to the research question/topic,mortality by education,"Secular trends in mortality from common cancers in the United States by educational attainment, 1993-2001"
+569,TA,exclude,Not relevant to the research question/topic,NF1 risk single institution,Increased risk of breast cancer in women with NF1
+570,TA,exclude,Not relevant to the research question/topic,South Asian imaging care review,Facilitating Culturally Competent Breast Imaging Care in South Asian Patients
+571,TA,exclude,Not relevant to the research question/topic,obesity/stage at diagnosis,Can obesity explain the racial difference in stage of breast cancer at diagnosis between black and white women?
+572,TA,exclude,Not relevant to the research question/topic,male CVD mortality,"A Prospective Population-Based Study of Cardiovascular Disease Mortality following Treatment for Breast Cancer among Men in the United States, 2000–2019"
+573,TA,exclude,Not relevant to the research question/topic,guideline-concordant care,Receipt of guideline-concordant care among older women with stage i-III breast cancer: A population-based study
+574,TA,exclude,Not relevant to the research question/topic,survival after surgery,Racial Disparities in Survival of Breast Cancer Patients After Surgery
+575,TA,exclude,Not relevant to the research question/topic,late-stage diagnosis poverty,"Persistent poverty and late-stage breast cancer diagnosis in the USA: impacts of rural residence, race, and time within Surveillance, Epidemiology, and End Results registries, 2004 to 2021"
+576,TA,exclude,Not relevant to the research question/topic,phyllodes tumor survival,Pediatric Malignant Phyllodes Tumors of the Breast: Characteristics and Outcomes  Based on the Surveillance Epidemiology and End Results Database
+577,TA,exclude,Not relevant to the research question/topic,male lobular carcinoma,Characterizing lobular carcinoma of the male breast using the SEER database
+578,TA,exclude,Not relevant to the research question/topic,stroke mortality,Temporal trends and risk factors associated with stroke mortality among cancer patients
+579,TA,exclude,Not relevant to the research question/topic,Filipino mortality community program,"Addressing the excess breast cancer mortality in Filipino women in Hawai'i through AANCART, an NCI community network program."
+580,TA,exclude,Not relevant to the research question/topic,surgery refusal survival,Refusal of Cancer-Directed Surgery by Breast Cancer Patients: Risk Factors and Survival Outcomes
+581,TA,exclude,Not relevant to the research question/topic,birthweight risk case-control,Birth weight and other prenatal factors and risk of breast cancer in Asian-Americans
+582,TA,exclude,Not relevant to the research question/topic,coping-stories qualitative,I'm A Jesus Girl: Coping Stories of Black American Women Diagnosed with Breast Cancer
+583,TA,exclude,Not relevant to the research question/topic,physical-activity risk cohort,A prospective study of physical activity and breast cancer incidence in African-American women
+584,TA,exclude,Not relevant to the research question/topic,small-area screening indicators,"Temporal trends in geographic disparities in small-area breast cancer incidence and mortality, 1988 to 2005"
+585,TA,exclude,Not relevant to the research question/topic,digital papillary adenocarcinoma not breast,"Epidemiology, survival and risk of subsequent primary malignancies in patients with digital papillary adenocarcinoma: a retrospective study of 213 patients in the Surveillance, Epidemiology, and End Results Program"
+586,TA,exclude,Not relevant to the research question/topic,second primary ML PORT,Machine learning identifies the association between second primary malignancies and postoperative radiotherapy in young-onset breast cancer patients
+587,TA,include,,CCR Middle Eastern incidence vs NHW,"Breast cancer in the middle eastern population of California, 1988-2004"
+588,TA,exclude,Not relevant to the research question/topic,area-level index methodology,An ecological approach to monitor geographic disparities in cancer outcomes
+589,TA,exclude,Not relevant to the research question/topic,male arterial thromboembolism,Increased risk of arterial thromboembolism in older men with breast cancer
+590,TA,exclude,Not relevant to the research question/topic,screening-program phenotype/stage,"Mind the gap: Racial differences in breast cancer incidence and biologic phenotype, but not stage, among low-income women participating in a government-funded screening program"
+591,TA,exclude,Not relevant to the research question/topic,genetic-counseling uptake,Hereditary breast and ovarian cancer syndrome : the impact of race on uptake of  genetic counseling and testing
+592,TA,exclude,Not relevant to the research question/topic,mammography screening Vital Signs,"Vital signs: Breast cancer screening among women aged 50--74 years --- United States, 2008"
+593,TA,exclude,Not a US population-based/registry study,single-facility Asian-Indian n=50,"Clinicopathologic presentation of Asian-Indian American (AIA) women with stage 0, I & II breast cancer."
+594,TA,exclude,Not relevant to the research question/topic,chemotherapy treatment disparity,Assessing racial/ethnic disparities in chemotherapy treatment among breast cancer patients in context of changing treatment guidelines
+595,TA,exclude,Not relevant to the research question/topic,adiposity risk cohort,Abdominal visceral and subcutaneous adipose tissue associations with postmenopausal breast cancer incidence
+596,TA,exclude,Not relevant to the research question/topic,Wisconsin simulation model,The University of Wisconsin Breast Cancer Epidemiology Simulation Model: An Update
+597,TA,exclude,Not relevant to the research question/topic,survivorship lifestyle Korean-American,Health-Promoting Lifestyle Behaviors of Korean American Breast Cancer Survivors: Adherence to the American Cancer Society Guidelines
+598,TA,exclude,Not relevant to the research question/topic,survival economically disadvantaged,Breast cancer survival among economically disadvantaged women: The influences of delayed diagnosis and treatment on mortality
+599,TA,exclude,Not relevant to the research question/topic,perinatal risk cohort,Pre- and perinatal factors and incidence of breast cancer in the Black Women’s Health Study
+600,TA,exclude,Not relevant to the research question/topic,contralateral prophylactic mastectomy,Trends in use of contralateral prophylactic mastectomy by racial/ethnic group and ER/PR status among patients with breast cancer: A SEER population-based study
+601,TA,exclude,Not relevant to the research question/topic,physical-activity qualitative,Physical Activity and Breast Cancer Prevention Among Chinese American Women: A Qualitative Descriptive Study
+602,TA,exclude,Not a US population-based/registry study,Norway stage,Ethnicity differences in breast cancer stage at the time of diagnosis in Norway
+603,TA,include,,Connecticut registry incidence by race (early-stage/geographic),"Secular trends, race, and geographic disparity of early-stage breast cancer incidence: 25 years of surveillance in Connecticut"
+604,TA,exclude,Not relevant to the research question/topic,tea/coffee risk cohort,Tea and coffee intake in relation to risk of breast cancer in the Black Women's Health Study
+605,TA,include,,Annual Report incidence by race age-feature 1973-1999,"Annual report to the nation on the status of cancer, 1973-1999, featuring implications of age and aging on U.S. cancer burden"
+606,TA,exclude,Not relevant to the research question/topic,screening PRS starting age,Deriving risk-Adapted starting ages of breast cancer screening according to polygenic risk score
+607,TA,exclude,Not relevant to the research question/topic,post-stroke cancer risk WHI,Post-Stroke Cancer Risk among Postmenopausal Women: The Women's Health  Initiative
+608,TA,exclude,Not relevant to the research question/topic,internet support survivors,Issues in internet-based support for chinese-american breast cancer survivors
+609,TA,exclude,Not relevant to the research question/topic,mortality four cancers by race,"Recent trends in mortality rates for four major cancers, by sex and race/ethnicity--United States, 1990-1998."
+610,TA,exclude,Not a US population-based/registry study,sub-Saharan Africa comparison review,Breast cancer in sub-Saharan Africa: how does it relate to breast cancer in  African-American women?
+611,TA,exclude,Not relevant to the research question/topic,height/puberty risk cohort,Pubertal growth and adult height in relation to breast cancer risk in African American women
+612,TA,include,,ACS Breast Cancer Statistics 2022 incidence by race,"Breast Cancer Statistics, 2022"
+613,TA,exclude,Not relevant to the research question/topic,risk-prediction model Black women,A Validated Risk Prediction Model for Breast Cancer in US Black Women
+614,TA,exclude,Not relevant to the research question/topic,indigent diagnosis/survival Michigan,Disparities in cancer diagnosis and survival
+615,TA,exclude,Not relevant to the research question/topic,mammography screening correlates,Correlates of recent and regular mammography screening among Asian-American women
+616,TA,exclude,Not relevant to the research question/topic,acculturation breast density,"Acculturation and breast density in foreign-born, U.S. Chinese women"
+617,TA,include,,Annual Report AI/AN incidence feature 1975-2004,"Annual report to the nation on the status of cancer, 1975-2004, featuring cancer  in American Indians and Alaska Natives"
+618,TA,exclude,Not relevant to the research question/topic,land-use zoning ecological,"Land use, zoning, and breast cancer incidence in California: an ecological study"
+619,TA,exclude,Not relevant to the research question/topic,physical-activity risk cohort,Strenuous physical activity and breast cancer risk in African-American women.

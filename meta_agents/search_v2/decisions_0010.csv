@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+560,exclude,Not relevant to the research question/topic,gene-expression-profiling uptake
+561,exclude,Not relevant to the research question/topic,breast reconstruction rates
+562,exclude,Not relevant to the research question/topic,second primary ovarian
+563,exclude,Not a US population-based/registry study,Pan-American HDI GLOBOCAN
+564,exclude,Not relevant to the research question/topic,diabetes after BC
+565,include,,Guam/Hawaii US-island registry incidence (breast among)
+566,exclude,Not relevant to the research question/topic,IBC socioeconomic association
+567,exclude,Not relevant to the research question/topic,AI/AN mortality
+568,exclude,Not relevant to the research question/topic,mortality by education
+569,exclude,Not relevant to the research question/topic,NF1 risk single institution
+570,exclude,Not relevant to the research question/topic,South Asian imaging care review
+571,exclude,Not relevant to the research question/topic,obesity/stage at diagnosis
+572,exclude,Not relevant to the research question/topic,male CVD mortality
+573,exclude,Not relevant to the research question/topic,guideline-concordant care
+574,exclude,Not relevant to the research question/topic,survival after surgery
+575,exclude,Not relevant to the research question/topic,late-stage diagnosis poverty
+576,exclude,Not relevant to the research question/topic,phyllodes tumor survival
+577,exclude,Not relevant to the research question/topic,male lobular carcinoma
+578,exclude,Not relevant to the research question/topic,stroke mortality
+579,exclude,Not relevant to the research question/topic,Filipino mortality community program
+580,exclude,Not relevant to the research question/topic,surgery refusal survival
+581,exclude,Not relevant to the research question/topic,birthweight risk case-control
+582,exclude,Not relevant to the research question/topic,coping-stories qualitative
+583,exclude,Not relevant to the research question/topic,physical-activity risk cohort
+584,exclude,Not relevant to the research question/topic,small-area screening indicators
+585,exclude,Not relevant to the research question/topic,digital papillary adenocarcinoma not breast
+586,exclude,Not relevant to the research question/topic,second primary ML PORT
+587,include,,CCR Middle Eastern incidence vs NHW
+588,exclude,Not relevant to the research question/topic,area-level index methodology
+589,exclude,Not relevant to the research question/topic,male arterial thromboembolism
+590,exclude,Not relevant to the research question/topic,screening-program phenotype/stage
+591,exclude,Not relevant to the research question/topic,genetic-counseling uptake
+592,exclude,Not relevant to the research question/topic,mammography screening Vital Signs
+593,exclude,Not a US population-based/registry study,single-facility Asian-Indian n=50
+594,exclude,Not relevant to the research question/topic,chemotherapy treatment disparity
+595,exclude,Not relevant to the research question/topic,adiposity risk cohort
+596,exclude,Not relevant to the research question/topic,Wisconsin simulation model
+597,exclude,Not relevant to the research question/topic,survivorship lifestyle Korean-American
+598,exclude,Not relevant to the research question/topic,survival economically disadvantaged
+599,exclude,Not relevant to the research question/topic,perinatal risk cohort
+600,exclude,Not relevant to the research question/topic,contralateral prophylactic mastectomy
+601,exclude,Not relevant to the research question/topic,physical-activity qualitative
+602,exclude,Not a US population-based/registry study,Norway stage
+603,include,,Connecticut registry incidence by race (early-stage/geographic)
+604,exclude,Not relevant to the research question/topic,tea/coffee risk cohort
+605,include,,Annual Report incidence by race age-feature 1973-1999
+606,exclude,Not relevant to the research question/topic,screening PRS starting age
+607,exclude,Not relevant to the research question/topic,post-stroke cancer risk WHI
+608,exclude,Not relevant to the research question/topic,internet support survivors
+609,exclude,Not relevant to the research question/topic,mortality four cancers by race
+610,exclude,Not a US population-based/registry study,sub-Saharan Africa comparison review
+611,exclude,Not relevant to the research question/topic,height/puberty risk cohort
+612,include,,ACS Breast Cancer Statistics 2022 incidence by race
+613,exclude,Not relevant to the research question/topic,risk-prediction model Black women
+614,exclude,Not relevant to the research question/topic,indigent diagnosis/survival Michigan
+615,exclude,Not relevant to the research question/topic,mammography screening correlates
+616,exclude,Not relevant to the research question/topic,acculturation breast density
+617,include,,Annual Report AI/AN incidence feature 1975-2004
+618,exclude,Not relevant to the research question/topic,land-use zoning ecological
+619,exclude,Not relevant to the research question/topic,physical-activity risk cohort
