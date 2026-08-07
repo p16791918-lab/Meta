@@ -499,3 +499,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 497,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",essay/commentary no abstract,"Is breast cancer a disease of affluence, poverty, or both? The case of African American women"
 498,TA,exclude,Not relevant to the research question/topic,geostatistical methodology,A Geostatistical Approach to Large-Scale Disease Mapping with Temporal Misalignment
 499,TA,exclude,Not relevant to the research question/topic,second primary malignancy,Incidence of second primary malignancy after breast cancer and related risk factors—Is breast-conserving surgery safe? A nested case–control study
+500,TA,include,,SEER/IHS AI/AN vs NHW incidence rates 1999-2015,"Trends in Cancer Incidence among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999-2015"
+501,TA,exclude,Not relevant to the research question/topic,ACA health-services utilization,Affordable care act and disparities in health services utilization among ethnic minority breast cancer survivors: Evidence from longitudinal medical expenditure panel surveys 2008–2015
+502,TA,exclude,Not relevant to the research question/topic,SES/race mortality survival,Color or money?: The impact of socioeconomic status and race/ethnicity on breast cancer mortality
+503,TA,exclude,Not relevant to the research question/topic,homeless screening survey,"Demographic, psychosocial, and behavioral associations with cancer screening  among a homeless population"
+504,TA,include,,CCR incidence by race/ethnicity persistent-poverty areas,Cancer Incidence and Trends in Persistent Poverty Areas of California by Race/Ethnicity and Sex
+505,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Hawaii incidence highlights no abstract,Highlights of recent cancer incidence data in Hawaii.
+506,TA,exclude,Not relevant to the research question/topic,Asian-American risk-factor case-control,Changes in Breast Cancer Risk and Risk Factor Profiles among U.S.-Born and Immigrant Asian American Women Residing in the San Francisco Bay Area
+507,TA,exclude,Not relevant to the research question/topic,oral-contraceptive risk case-control,Oral contraceptives and breast cancer among African-american women and white women.
+508,TA,exclude,Not relevant to the research question/topic,WHI estrogen RCT outcomes,Estrogen alone and health outcomes in black women by African ancestry: A secondary analyses of a randomized controlled trial
+509,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",support-program Viewpoint,Lessons Learned From Implementing a Culturally Tailored Virtual Support Program for Asian American Breast Cancer Survivors With Pain and Depression
+510,TA,include,,ACS AANHPI incidence statistics 2016,"Cancer statistics for Asian Americans, Native Hawaiians, and Pacific Islanders, 2016: Converging incidence in males and females"
+511,TA,exclude,Not relevant to the research question/topic,South Asian screening attitudes,Attitudes of South Asian women to breast health and breast cancer screening: findings from a community based sample in the United States
+512,TA,exclude,Not relevant to the research question/topic,BC-renal-cell second cancer association,Studying the association between breast cancer and renal cell carcinoma
+513,TA,exclude,Not relevant to the research question/topic,late-stage incidence screening program,Trends in late-stage breast and cervical cancer incidence rates in Connecticut (United States)
+514,TA,exclude,Not relevant to the research question/topic,Chamorro screening convenience sample,Breast cancer screening among Chamorro women in Southern California
+515,TA,exclude,Not relevant to the research question/topic,AMBER young-onset biology case-control,Biology and etiology of young-onset breast cancers among premenopausal African American women: Results from the AMBER Consortium
+516,TA,include,,Detroit registry breast incidence by race/neighborhood,The role of area-level socioeconomic disadvantage in racial disparities in cancer incidence in metropolitan Detroit
+517,TA,include,,ACS incidence by race/ethnicity 2017,"Breast cancer statistics, 2017, racial disparity in mortality by state"
+518,TA,exclude,Not relevant to the research question/topic,rural Appalachia geographic not race,"Cancer Disparities in Rural Appalachia: Incidence, Early Detection, and Survivorship"
+519,TA,exclude,Not relevant to the research question/topic,ovarian cancer epidemiology,Racial/ethnic differences in the epidemiology of ovarian cancer: A pooled analysis of 12 case-control studies
+520,TA,exclude,Not relevant to the research question/topic,subsequent endometrial cancer,Elevated risks of subsequent endometrial cancer development among breast cancer survivors with different hormone receptor status: a SEER analysis
+521,TA,exclude,Not relevant to the research question/topic,mammography follow-up timeliness,Timeliness of abnormal screening and diagnostic mammography follow-up at  facilities serving vulnerable women
+522,TA,include,,Hawaii disaggregated AANHPI incidence vs NHW by subtype,"Characterizing breast cancer incidence and trends among Asian American, Native Hawaiian, and non-Hispanic White women in Hawaiʻi, 1990-2014"
+523,TA,exclude,Not relevant to the research question/topic,MKK3 genomic biomarker,High expression of MKK3 is associated with worse clinical outcomes in African American breast cancer patients
+524,TA,exclude,Not relevant to the research question/topic,all-cause mortality survival Detroit,All-cause mortality by race and socioeconomic status among women treated for breast cancer in metropolitan Detroit
+525,TA,exclude,Not relevant to the research question/topic,mortality spatial Tennessee,Local Breast Cancer Spatial Patterning: A Tool for Community Health Resource Allocation to Address Local Disparities in Breast Cancer Mortality
+526,TA,exclude,Not relevant to the research question/topic,early death stage IV nomogram,Early Death Incidence and Prediction in Stage IV Breast Cancer
+527,TA,exclude,Not relevant to the research question/topic,Hmong screening survey,Breast cancer screening among Hmong women in California
+528,TA,exclude,Not relevant to the research question/topic,recurrence rates,"Population-based recurrence rates among older women with HR-positive, HER2-negative early breast cancer: Clinical risk factors, frailty status, and differences by race"
+529,TA,exclude,Not relevant to the research question/topic,genetic-reproductive risk AA families,Interactions between genetic and reproductive factors in breast cancer risk in a population-based sample of African-American families
+530,TA,exclude,Not relevant to the research question/topic,clinical-trial enrollment NC,Enrollment and Racial Disparities in Cancer Treatment Clinical Trials in North Carolina
+531,TA,exclude,Not relevant to the research question/topic,CVD medication adherence,Association between nonadherence to cardiovascular risk factor medications after breast cancer diagnosis and incidence of cardiac events
+532,TA,exclude,Not a US population-based/registry study,global GLOBOCAN 2022-2050,Inequality in breast cancer: Global statistics from 2022 to 2050
+533,TA,exclude,Not relevant to the research question/topic,survivorship distress qualitative,Physical distress and cancer care experiences among Chinese-American and non-Hispanic White breast cancer survivors
+534,TA,exclude,Not relevant to the research question/topic,subsequent primary/mortality survivors,Subsequent primary cancer risk and mortality among premenopausal breast cancer  survivors
+535,TA,exclude,Not relevant to the research question/topic,South Asian screening qualitative,Breast cancer beliefs and screening behaviors among South Asian immigrant women living in the United States
+536,TA,exclude,Not relevant to the research question/topic,genomic landscape recurrence,Comparison of the Genomic Landscape Between Primary Breast Cancer in African  American Versus White Women and the Association of Racial Differences With Tumor Recurrence
+537,TA,exclude,Not relevant to the research question/topic,mammography screening intervention,Increasing mammography screening among low-income African American women with  limited access to health information
+538,TA,exclude,Not relevant to the research question/topic,opioid/benzodiazepine prescribing,Concurrent opioid and benzodiazepine prescriptions among older women diagnosed with breast cancer
+539,TA,exclude,Not relevant to the research question/topic,estrogen-metabolism genotypes,Pairwise combinations of estrogen metabolism genotypes in postmenopausal breast  cancer etiology
+540,TA,exclude,Not relevant to the research question/topic,Korean mammography behavior,Do cultural factors predict mammography behaviour among Korean immigrants in the USA?
+541,TA,include,,Pennsylvania registry BC diagnosis by race/income,Racial and socioeconomic disparities in breast cancer diagnosis and mortality in Pennsylvania
+542,TA,exclude,Not relevant to the research question/topic,faith-based screening RCT protocol,Protocol for a cluster randomized trial to evaluate a faith-based breast cancer screening navigation model
+543,TA,include,,ACS African American/Black cancer statistics 2022,Cancer statistics for African American/Black People 2022
+544,TA,exclude,Not relevant to the research question/topic,chemotherapy symptoms/adherence,"Symptom incidence, distress, cancer-related distress, and adherence to chemotherapy among African American women with breast cancer"
+545,TA,exclude,Not relevant to the research question/topic,years-of-life-lost mortality,Calculating expected years of life lost for assessing local ethnic disparities in causes of premature death
+546,TA,exclude,Not relevant to the research question/topic,AYA all-cancer incidence not breast-by-race,"Trends in Cancer Incidence in US Adolescents and Young Adults, 1973-2015"
+547,TA,exclude,Not relevant to the research question/topic,mortality simulation modeling,"Race-specific impact of natural history, mammography screening, and adjuvant treatment on breast cancer mortality rates in the United States"
+548,TA,exclude,Not relevant to the research question/topic,germline mutation prevalence genetics,Prevalence of Germline Mutations among Young Women with Breast Cancer in Louisiana by Cancer Subtype and Race
+549,TA,exclude,Not relevant to the research question/topic,tumor microenvironment biology,Differences in the tumor microenvironment between African-American and European-American breast cancer patients
+550,TA,exclude,Not a US population-based/registry study,Barbados incidence/mortality,Breast cancer incidence and mortality in a caribbean population: Comparisons with African-Americans
+551,TA,exclude,Not a US population-based/registry study,China-US comparison,"Breast cancer disparities: A multicenter comparison of tumor diagnosis, characteristics, and surgical treatment in China and the U.S"
+552,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Stat bite brief note no abstract,Stat bite: Breast cancer in young U.S. women.
+553,TA,exclude,Not relevant to the research question/topic,ACA clinic enrollment/screening,"Impact of Affordable Care Act Provisions on the Racial Makeup of Patients Enrolled at a Deep South, High-Risk Breast Cancer Clinic"
+554,TA,exclude,Not relevant to the research question/topic,CBPR methods Indian country,A community-specific approach to cancer research in Indian country.
+555,TA,exclude,Not relevant to the research question/topic,African-immigrant screening,Factors associated with breast and cervical cancer screening behavior among  African immigrant women in Minnesota
+556,TA,exclude,Not relevant to the research question/topic,survival disparity DoD,Widening disparity in survival between white and African-American patients with breast carcinoma treated in the U. S. Department of defense healthcare system
+557,TA,exclude,Not relevant to the research question/topic,API screening disaggregation,Disaggregating data on Asian and Pacific Islander women to assess cancer  screening
+558,TA,exclude,Not relevant to the research question/topic,farmworker occupational cohort MOR,"Cancer incidence in the united farmworkers of America (UFW), 1987-1997"
+559,TA,exclude,Not relevant to the research question/topic,traffic-emission risk case-control,Exposure to traffic emissions throughout life and risk of breast cancer: the  Western New York Exposures and Breast Cancer (WEB) study
