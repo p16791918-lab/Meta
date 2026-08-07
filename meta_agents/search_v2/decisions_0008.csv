@@ -1,0 +1,41 @@
+record_id,decision,display_reason,sub_reason
+460,exclude,Not relevant to the research question/topic,pregnancy hormone biomarker
+461,include,,Northern Plains registries AI/AN vs NHW breast incidence
+462,exclude,Not relevant to the research question/topic,pregnancy-hormone risk case series
+463,include,,Greater Bay Area 6 Asian-group incidence trends
+464,exclude,Not relevant to the research question/topic,focus-group screening qualitative
+465,exclude,Not relevant to the research question/topic,SES-stage relationship focus
+466,exclude,Not relevant to the research question/topic,lifetime-risk methodology all-cancer
+467,exclude,Not relevant to the research question/topic,time-to-diagnosis mammography
+468,exclude,Not relevant to the research question/topic,all-cancer 85+ incidence/survival not breast
+469,exclude,Not relevant to the research question/topic,endogenous hormone biomarker
+470,exclude,Not relevant to the research question/topic,all-cause mortality SES NCDB
+471,exclude,Not relevant to the research question/topic,ER case ratio not incidence rates
+472,exclude,Not relevant to the research question/topic,MDM2 polymorphism genetics
+473,exclude,Not a US population-based/registry study,Iraq Kurdish study
+474,include,,SEER subtype incidence by persistent poverty/rurality/race
+475,include,,SEER ER/PR subtype incidence rates by race
+476,include,,NAACCR early-onset incidence by race/ethnicity/rurality
+477,include,,USCS NHB vs NHW incidence trends
+478,exclude,Not relevant to the research question/topic,Latina survival disparity
+479,exclude,Not relevant to the research question/topic,CVD mortality metastatic
+480,include,,CI5+SEER AA vs CA age-specific incidence 29 states
+481,exclude,Not a US population-based/registry study,12-case single-institution T4b
+482,exclude,Not relevant to the research question/topic,mammography size/stage
+483,exclude,Not relevant to the research question/topic,late-stage/treatment/death Georgia
+484,exclude,"Editorials, commentaries, letters, or conference abstracts",Clarion Call commentary no abstract
+485,include,,SEER incidence by race-ethnicity+SES 50+
+486,exclude,Not relevant to the research question/topic,clinical presentation/insurance KP
+487,exclude,Not relevant to the research question/topic,spatiotemporal methodology
+488,exclude,Not relevant to the research question/topic,Texas-SEER registry comparison not race
+489,exclude,Not relevant to the research question/topic,Latina education intervention
+490,exclude,Not relevant to the research question/topic,p53/bcl-2 biomarker
+491,exclude,Not a US population-based/registry study,Hong Kong risk estimates
+492,exclude,Not relevant to the research question/topic,pleural effusion cytopathology
+493,exclude,Not relevant to the research question/topic,brain metastases incidence
+494,exclude,Not relevant to the research question/topic,mammography videotape RCT
+495,exclude,Not relevant to the research question/topic,IGF-II biomarker survival
+496,exclude,"Editorials, commentaries, letters, or conference abstracts",address/commentary no abstract
+497,exclude,"Editorials, commentaries, letters, or conference abstracts",essay/commentary no abstract
+498,exclude,Not relevant to the research question/topic,geostatistical methodology
+499,exclude,Not relevant to the research question/topic,second primary malignancy
