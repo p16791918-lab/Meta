@@ -43,13 +43,18 @@ Asian, Asian American). Trade-off: bare terms like "Chinese"/"Japanese"/"Korean"
 also retrieve non-US (Asian-country) incidence studies. Because eligibility is
 strictly US and the added country-ethnicity terms would otherwise flood the
 screening set with non-US records, a **US-context block is included as a fourth
-AND concept**. It is built broadly — country terms + the three national
-surveillance systems (SEER, NAACCR, USCS) + all 50 state names — so that it does
-not drop eligible US studies: population-based incidence studies always name
-their data source (a US registry) or region, so Wisconsin-only (Lepeak),
-California-only, Hawaii-only, etc. studies are still captured. This keeps
-sensitivity for US studies while cutting the non-US noise the subgroup terms
-introduce.
+AND concept**: country terms (United States / USA / America*) + the three national
+surveillance systems (SEER, NAACCR, USCS) + the **SEER registry states**
+(Connecticut, Iowa, New Mexico, Utah, Hawaii, Georgia, Michigan, Washington,
+California, Kentucky, Louisiana, New Jersey). The full 50-state list was trimmed to
+these SEER sites because (i) national registries (NPCR/NAACCR/USCS) already cover
+every other state through the system terms, (ii) very long term lists are rejected
+or truncated by Web of Science / Scopus, and (iii) **US-only eligibility is enforced
+at screening (TA3/FT4) regardless**, so the block only needs to avoid dropping
+US studies, not to be exhaustive. Population-based incidence studies name their data
+source (a US registry) or region, so single-state SEER-site studies are still
+captured; any US study named only by a non-SEER state is recovered via the country/
+system terms or the other databases and confirmed at screening.
 
 ---
 
@@ -73,16 +78,9 @@ AND (incidence[tiab] OR "incidence rate*"[tiab] OR "age-adjusted"[tiab]
 AND ("United States"[tiab] OR USA[tiab] OR America*[tiab] OR SEER[tiab] OR NAACCR[tiab]
      OR USCS[tiab] OR "United States Cancer Statistics"[tiab]
      OR "United States"[Mesh] OR "SEER Program"[Mesh]
-     OR Alabama[tiab] OR Alaska[tiab] OR Arizona[tiab] OR Arkansas[tiab] OR California[tiab]
-     OR Colorado[tiab] OR Connecticut[tiab] OR Delaware[tiab] OR Florida[tiab] OR Georgia[tiab]
-     OR Hawaii[tiab] OR Idaho[tiab] OR Illinois[tiab] OR Indiana[tiab] OR Iowa[tiab]
-     OR Kansas[tiab] OR Kentucky[tiab] OR Louisiana[tiab] OR Maine[tiab] OR Maryland[tiab]
-     OR Massachusetts[tiab] OR Michigan[tiab] OR Minnesota[tiab] OR Mississippi[tiab] OR Missouri[tiab]
-     OR Montana[tiab] OR Nebraska[tiab] OR Nevada[tiab] OR "New Hampshire"[tiab] OR "New Jersey"[tiab]
-     OR "New Mexico"[tiab] OR "New York"[tiab] OR "North Carolina"[tiab] OR "North Dakota"[tiab] OR Ohio[tiab]
-     OR Oklahoma[tiab] OR Oregon[tiab] OR Pennsylvania[tiab] OR "Rhode Island"[tiab] OR "South Carolina"[tiab]
-     OR "South Dakota"[tiab] OR Tennessee[tiab] OR Texas[tiab] OR Utah[tiab] OR Vermont[tiab]
-     OR Virginia[tiab] OR Washington[tiab] OR "West Virginia"[tiab] OR Wisconsin[tiab] OR Wyoming[tiab])
+     OR Connecticut[tiab] OR Iowa[tiab] OR "New Mexico"[tiab] OR Utah[tiab] OR Hawaii[tiab]
+     OR Georgia[tiab] OR Michigan[tiab] OR Washington[tiab] OR California[tiab]
+     OR Kentucky[tiab] OR Louisiana[tiab] OR "New Jersey"[tiab])
 AND (2000:2026[dp]) AND English[lang] AND humans[MeSH]
 NOT (review[pt] OR "case reports"[pt] OR editorial[pt] OR comment[pt] OR letter[pt] OR "news"[pt])
 ```
@@ -104,16 +102,9 @@ AND (incidence:ti,ab OR 'incidence rate':ti,ab OR 'age-adjusted':ti,ab
      OR 'age-standardized':ti,ab OR 'age standardization'/exp)
 AND ('united states':ti,ab OR usa:ti,ab OR america*:ti,ab OR seer:ti,ab OR naaccr:ti,ab
      OR uscs:ti,ab OR 'united states cancer statistics':ti,ab OR 'United States'/exp
-     OR alabama:ti,ab OR alaska:ti,ab OR arizona:ti,ab OR arkansas:ti,ab OR california:ti,ab
-     OR colorado:ti,ab OR connecticut:ti,ab OR delaware:ti,ab OR florida:ti,ab OR georgia:ti,ab
-     OR hawaii:ti,ab OR idaho:ti,ab OR illinois:ti,ab OR indiana:ti,ab OR iowa:ti,ab
-     OR kansas:ti,ab OR kentucky:ti,ab OR louisiana:ti,ab OR maine:ti,ab OR maryland:ti,ab
-     OR massachusetts:ti,ab OR michigan:ti,ab OR minnesota:ti,ab OR mississippi:ti,ab OR missouri:ti,ab
-     OR montana:ti,ab OR nebraska:ti,ab OR nevada:ti,ab OR 'new hampshire':ti,ab OR 'new jersey':ti,ab
-     OR 'new mexico':ti,ab OR 'new york':ti,ab OR 'north carolina':ti,ab OR 'north dakota':ti,ab OR ohio:ti,ab
-     OR oklahoma:ti,ab OR oregon:ti,ab OR pennsylvania:ti,ab OR 'rhode island':ti,ab OR 'south carolina':ti,ab
-     OR 'south dakota':ti,ab OR tennessee:ti,ab OR texas:ti,ab OR utah:ti,ab OR vermont:ti,ab
-     OR virginia:ti,ab OR washington:ti,ab OR 'west virginia':ti,ab OR wisconsin:ti,ab OR wyoming:ti,ab)
+     OR connecticut:ti,ab OR iowa:ti,ab OR 'new mexico':ti,ab OR utah:ti,ab OR hawaii:ti,ab
+     OR georgia:ti,ab OR michigan:ti,ab OR washington:ti,ab OR california:ti,ab
+     OR kentucky:ti,ab OR louisiana:ti,ab OR 'new jersey':ti,ab)
 AND [2000-2026]/py AND [english]/lim AND [humans]/lim
 NOT ('review'/it OR 'case report'/it OR editorial/it OR note/it OR 'conference abstract'/it)
 ```
@@ -131,14 +122,8 @@ AND ( TITLE-ABS-KEY ( incidence OR "incidence rate*" OR "age-adjusted"
         OR "age-standardized" OR "age standardi*ation" ) )
 AND ( TITLE-ABS-KEY ( "United States" OR USA OR America* OR SEER OR NAACCR OR USCS
         OR "United States Cancer Statistics"
-        OR Alabama OR Alaska OR Arizona OR Arkansas OR California OR Colorado OR Connecticut
-        OR Delaware OR Florida OR Georgia OR Hawaii OR Idaho OR Illinois OR Indiana OR Iowa
-        OR Kansas OR Kentucky OR Louisiana OR Maine OR Maryland OR Massachusetts OR Michigan
-        OR Minnesota OR Mississippi OR Missouri OR Montana OR Nebraska OR Nevada
-        OR "New Hampshire" OR "New Jersey" OR "New Mexico" OR "New York" OR "North Carolina"
-        OR "North Dakota" OR Ohio OR Oklahoma OR Oregon OR Pennsylvania OR "Rhode Island"
-        OR "South Carolina" OR "South Dakota" OR Tennessee OR Texas OR Utah OR Vermont
-        OR Virginia OR Washington OR "West Virginia" OR Wisconsin OR Wyoming ) )
+        OR Connecticut OR Iowa OR "New Mexico" OR Utah OR Hawaii
+        OR Georgia OR Michigan OR Washington OR California OR Kentucky OR Louisiana OR "New Jersey" ) )
 AND PUBYEAR > 1999 AND PUBYEAR < 2027
 AND ( LIMIT-TO ( LANGUAGE , "English" ) )
 AND NOT ( DOCTYPE ( re ) OR DOCTYPE ( le ) OR DOCTYPE ( ed ) OR DOCTYPE ( no ) OR DOCTYPE ( cp ) )
@@ -156,14 +141,8 @@ AND TS=(race OR racial OR ethnic* OR minorit* OR disparit*
         OR Chinese OR Japanese OR Korean OR Filipin* OR Vietnamese OR "Asian Indian*")
 AND TS=(incidence OR "incidence rate*" OR "age-adjusted" OR "age-standardized" OR "age standardi?ation")
 AND TS=("United States" OR USA OR America* OR SEER OR NAACCR OR USCS OR "United States Cancer Statistics"
-        OR Alabama OR Alaska OR Arizona OR Arkansas OR California OR Colorado OR Connecticut
-        OR Delaware OR Florida OR Georgia OR Hawaii OR Idaho OR Illinois OR Indiana OR Iowa
-        OR Kansas OR Kentucky OR Louisiana OR Maine OR Maryland OR Massachusetts OR Michigan
-        OR Minnesota OR Mississippi OR Missouri OR Montana OR Nebraska OR Nevada
-        OR "New Hampshire" OR "New Jersey" OR "New Mexico" OR "New York" OR "North Carolina"
-        OR "North Dakota" OR Ohio OR Oklahoma OR Oregon OR Pennsylvania OR "Rhode Island"
-        OR "South Carolina" OR "South Dakota" OR Tennessee OR Texas OR Utah OR Vermont
-        OR Virginia OR Washington OR "West Virginia" OR Wisconsin OR Wyoming)
+        OR Connecticut OR Iowa OR "New Mexico" OR Utah OR Hawaii
+        OR Georgia OR Michigan OR Washington OR California OR Kentucky OR Louisiana OR "New Jersey")
 AND PY=(2000-2026)
 AND LA=(English)
 NOT DT=(Review OR Letter OR Editorial Material OR Note OR Meeting Abstract)
