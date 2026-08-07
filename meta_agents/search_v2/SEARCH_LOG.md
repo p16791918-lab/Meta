@@ -8,7 +8,7 @@ Supplementary Table 1). All searches use the strings in `../SEARCH_STRINGS_v2.md
 |---|---|---|---|---|---|
 | 1 | PubMed/MEDLINE (PubMed) | 2026-08-07 | **1331** | `pubmed_medline_20260807.txt` (MEDLINE tagged) | ✅ received |
 | 2 | Embase (embase.com, **Advanced Search**) | 2026-08-07 | **3248** | `embase_20260807_ADVANCED_3248.csv` | ✅ adopted |
-| 3 | Scopus (scopus.com) | | | | ▢ pending |
+| 3 | Scopus (scopus.com) | 2026-08-07 | **2438** | `scopus_20260807.csv` | ⚠️ confirm total |
 | 4 | Web of Science Core Collection | | | | ▢ pending |
 | | **Total identified** | | | | |
 | | Duplicates removed (cross-DB) | | | | (after all four) |
@@ -24,6 +24,8 @@ Supplementary Table 1). All searches use the strings in `../SEARCH_STRINGS_v2.md
   and MEDLINE-record handling). Advanced (superset) adopted for sensitivity; the
   Quick-search export is kept as `embase_20260807_QUICK_1703.csv` for the record.
   Report Embase as "Advanced Search, n=3248" in Supplementary Table 1.
+- Scopus: 2438 records in one file; **Abstract 100%** (2438/2438), DOI 2319; no
+  PubMed ID column (de-dup via DOI + fuzzy title). Confirm 2438 = full Scopus total.
 - Embase is the primary screening corpus (encompasses MEDLINE); PubMed/Scopus/WoS
   counts document the multi-database search.
 - Next: on receiving Embase (+ Scopus, WoS), normalize all → cross-database
