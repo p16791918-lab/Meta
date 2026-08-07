@@ -159,3 +159,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 157,TA,include,,Connecticut/SEER black vs white incidence trends,Breast cancer trends among black and white women in the United States
 158,TA,include,,NAACCR incidence trends by race/ethnicity stage/geo,"Trends in breast cancer incidence rates by race/ethnicity: Patterns by stage, socioeconomic position, and geography in the United States, 1999-2017"
 159,TA,exclude,Not relevant to the research question/topic,cancer-specific mortality disparities,Lack of reduction in racial disparities in cancer-specific mortality over a  20-year period
+160,TA,exclude,Not a US population-based/registry study,US vs France/West Indies international,Age at breast cancer diagnosis in populations of african and european ancestry
+161,TA,include,,Hawaii multiethnic incidence Asian/PI subpopulations,The high and heterogeneous burden of breast cancer in Hawaii: A unique multiethnic U.S. Population
+162,TA,exclude,Not relevant to the research question/topic,stage at diagnosis segregation,Association between racialized economic segregation and stage at diagnosis for 3 screenable cancers in New York City
+163,TA,exclude,Not relevant to the research question/topic,screening age recommendation,At what age should screening mammography be recommended for Asian women?
+164,TA,exclude,Not relevant to the research question/topic,absolute-risk projection model,Projecting individualized absolute invasive breast cancer risk in African American women
+165,TA,include,,California registry incidence by race/ethnic (SES covariate),Socioeconomic status and breast cancer incidence in California for different race/ethnic groups
+166,TA,exclude,Not relevant to the research question/topic,IBC treatment/survival,Racial disparities in treatment and outcomes between non-Hispanic Black and non-Hispanic White women with nonmetastatic inflammatory breast cancer
+167,TA,exclude,Not relevant to the research question/topic,ER-status association methods,"Race/ethnicity and breast cancer estrogen receptor status: impact of class,  missing data, and modeling assumptions"
+168,TA,exclude,Not relevant to the research question/topic,male BC statins/TRT risk-factor,"Incidence of prostate, colorectal and male breast cancers in relation with statins and testosterone replacement therapy: SEER-Medicare 2007–2015"
+169,TA,include,,USCS incidence by race/ethnicity/age 1999-2018,"Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years - United States, 1999-2018"
+170,TA,exclude,Not relevant to the research question/topic,mortality trends,Disparities in Mortality Trends of Breast Cancer by Racial and Ethnic Status in the United States
+171,TA,exclude,Not relevant to the research question/topic,regional/SES variation not race,"Regional variations in breast cancer incidence among California women, 1988-1997"
+172,TA,exclude,Not relevant to the research question/topic,mammographic density,Does Mammographic Density Reflect Ethnic Differences in Breast Cancer Incidence Rates?
+173,TA,exclude,Not relevant to the research question/topic,mortality CDC WONDER,"Black and White disparity in U.S. female breast cancer mortality: a nationwide analysis, 1999–2023"
+174,TA,exclude,Not relevant to the research question/topic,risk factors by ER/PR cohort,Breast cancer risk factors defined by estrogen and progesterone receptor status:  the multiethnic cohort study
+175,TA,exclude,Not relevant to the research question/topic,diabetes risk-factor cohort,Type II diabetes and incidence of estrogen receptor negative breast cancer in African American women
+176,TA,exclude,Not relevant to the research question/topic,assimilation all-cancer Hispanic,Neighborhood composition and incidence of cancer among Hispanics in the United States
+177,TA,exclude,Not relevant to the research question/topic,distant-stage incidence not race,"Surveillance, Epidemiology, and End Results Data Show Increasing Rates of Distant-Stage Breast Cancer at Presentation in U.S. Women"
+178,TA,include,,young women incidence by stage/race-ethnicity,Trends in stage at diagnosis for young breast cancer patients in the United States
+179,TA,exclude,Not relevant to the research question/topic,Gail model calibration,Effect of changing breast cancer incidence rates on the calibration of the Gail model
+180,TA,exclude,Not relevant to the research question/topic,risk-prediction model validation,Validation of a breast cancer risk prediction model developed for black women
+181,TA,exclude,Not a US population-based/registry study,India epidemic focus,Breast cancer trends in Indian residents and emigrants portend an emerging epidemic for India.
+182,TA,include,,USCS incidence/stage by race Vital Signs,"Vital signs: Racial disparities in breast cancer severity - United States, 2005-2009"
+183,TA,exclude,Not relevant to the research question/topic,suicide mortality,Trends in incidence and associated risk factors of suicide mortality among breast cancer patients
+184,TA,exclude,Not relevant to the research question/topic,future incidence projection all-cancer,"Future of cancer incidence in the United States: burdens upon an aging, changing  nation"
+185,TA,exclude,Not relevant to the research question/topic,pregnancy hormone biomarker,Pregnancy hormone concentrations across ethnic groups: Implications for later cancer risk
+186,TA,exclude,Not relevant to the research question/topic,post-diagnosis depression,Patterns of postdiagnosis depression among late-stage cancer patients: Do racial/ethnic and sex disparities exist?
+187,TA,exclude,Not relevant to the research question/topic,risk-adjusted incidence methodology not race,Risk-adjusted female breast cancer incidence rates in the United States
+188,TA,include,,ACS incidence by race/ethnicity update 2006,Trends in breast cancer by race and ethnicity: Update 2006
+189,TA,exclude,Not relevant to the research question/topic,overall survival older patients,Are there differences in overall survival among older breast cancer patients by race and ethnicity?
+190,TA,include,,Massachusetts registry Asian-subgroup incidence incl breast,"Cancer Incidence Rate Variations among the Chinese, South Asian, and Vietnamese  in Massachusetts, 2011-2015"
+191,TA,exclude,Not relevant to the research question/topic,SES decline in incidence,Socioeconomic disparities in the decline in invasive breast cancer incidence
+192,TA,exclude,Not relevant to the research question/topic,neighborhood stage/size,Neighborhood composition and cancer among hispanics: Tumor stage and size at time of diagnosis
+193,TA,include,,NCDB young Black incidence trends (check population-based at FT),Breast cancer trends and outcomes among young Black Women: A national cancer database analysis
+194,TA,exclude,Not relevant to the research question/topic,exposome study protocol,"Assessing residential neighborhood exposomes and their associations with cancer incidence: rationale, study design, and methods"
+195,TA,exclude,Not relevant to the research question/topic,discrimination risk-factor cohort,Racial discrimination and breast cancer incidence in US Black women
+196,TA,exclude,Not a US population-based/registry study,China/Singapore birth-cohort,The impact of breast cancer-specific birth cohort effects among younger and older Chinese populations
+197,TA,exclude,Not relevant to the research question/topic,second primary malignancies,"Variation in patterns of second primary malignancies across U.S. race and ethnicity groups: a Surveillance, Epidemiology, and End Results (SEER) analysis"
+198,TA,exclude,Not relevant to the research question/topic,treatment-related marrow neoplasm,Risk of marrow neoplasms after adjuvant breast cancer therapy: The national comprehensive cancer network experien
+199,TA,include,,SEER black vs white invasive incidence by age,"Breast cancer epidemiology in blacks and whites: Disparities in incidence, mortality, survival rates and histology"
+200,TA,include,,black-white incidence by ER/PR subtype,Breast Cancer Incidence in Black and White Women Stratified by Estrogen and Progesterone Receptor Statuses
+201,TA,exclude,Not a US population-based/registry study,single community cancer center catchment,A Novel Approach for Conducting a Catchment Area Analysis of Breast Cancer by Age and Stage for a Community Cancer Center
+202,TA,exclude,Not relevant to the research question/topic,oral-contraceptive risk-factor case-control,A case-control study of oral contraceptive use and incident breast cancer
+203,TA,include,,SEER incidence trends younger women by race crossover,Recent trends in breast cancer among younger women in the United States
+204,TA,exclude,Not relevant to the research question/topic,acculturation risk factors,"Acculturation, Behavioral Factors, and Family History of Breast Cancer among Mexican and Mexican-American Women"
+205,TA,include,,SEER incidence trends NHW/NHB/Hispanic,Breast cancer incidence rates in U.S. women re no longer declining
+206,TA,exclude,Not relevant to the research question/topic,dietary-pattern risk-factor cohort,Dietary patterns and breast cancer risk in women participating in the Black  Women's Health Study
+207,TA,include,,SEER disaggregated NHOPI incidence incl breast,"Cancer incidence trends among native hawaiians and other pacific islanders in the united states, 1990-2008"
+208,TA,exclude,Not relevant to the research question/topic,environmental risk-factor case-control Memphis,"Association of environmental factors with breast cancer incidence among African American women in Memphis, Tennessee"
+209,TA,include,,NPCR+SEER TNBC incidence by race/region,Racial and regional disparities of triple negative breast cancer incidence rates in the United States: An analysis of 2011-2019 NPCR and SEER incidence data
+210,TA,include,,SEER Asian vs other incidence trends vs NHW,"Breast cancer incidence trends in Asian women aged 20 or older as compared to other ethnic women in the United States from 2000 to 2018 by time period, age and tumor stage"
+211,TA,exclude,Not relevant to the research question/topic,screening/stage by race,Mammography screening and differences in stage of disease by race/ethnicity
+212,TA,exclude,Not relevant to the research question/topic,BRCA1 mutation analysis genetics,Mutation analysis of BRCA1 gene in African-American patients with breast cancer
+213,TA,exclude,Not relevant to the research question/topic,metastatic survival by SES/rurality,Impact of socioeconomic status and rurality on cancer-specific survival among women with de novo metastatic breast cancer by race/ethnicity
+214,TA,exclude,Not relevant to the research question/topic,incident depression after BC,"Incident depression after breast cancer among older Asian, Native Hawaiian, and Pacific Islander women"
+215,TA,exclude,Not relevant to the research question/topic,ER phenotype characterization not incidence rates,"Estrogen receptor breast cancer phenotypes in the Surveillance, Epidemiology, and End Results database"
+216,TA,exclude,Not relevant to the research question/topic,non-BC-specific death survival,Real-world impact of non–breast cancer–specific death on overall survival in resectable breast cancer
+217,TA,exclude,Not relevant to the research question/topic,reproductive risk factors case-control,"Reproductive characteristics, menopausal status, race and ethnicity, and risk of breast cancer subtypes defined by ER, PR and HER2 status: the Breast Cancer Etiology in Minorities study"
+218,TA,exclude,Not relevant to the research question/topic,smoking risk-factor cohort,A prospective study of smoking and breast cancer risk among African-American women.
+219,TA,exclude,Not relevant to the research question/topic,post-LCIS progression risk,Associations of race and ethnicity with risk of developing invasive breast cancer after lobular carcinoma in situ

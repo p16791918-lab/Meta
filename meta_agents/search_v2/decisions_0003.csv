@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+160,exclude,Not a US population-based/registry study,US vs France/West Indies international
+161,include,,Hawaii multiethnic incidence Asian/PI subpopulations
+162,exclude,Not relevant to the research question/topic,stage at diagnosis segregation
+163,exclude,Not relevant to the research question/topic,screening age recommendation
+164,exclude,Not relevant to the research question/topic,absolute-risk projection model
+165,include,,California registry incidence by race/ethnic (SES covariate)
+166,exclude,Not relevant to the research question/topic,IBC treatment/survival
+167,exclude,Not relevant to the research question/topic,ER-status association methods
+168,exclude,Not relevant to the research question/topic,male BC statins/TRT risk-factor
+169,include,,USCS incidence by race/ethnicity/age 1999-2018
+170,exclude,Not relevant to the research question/topic,mortality trends
+171,exclude,Not relevant to the research question/topic,regional/SES variation not race
+172,exclude,Not relevant to the research question/topic,mammographic density
+173,exclude,Not relevant to the research question/topic,mortality CDC WONDER
+174,exclude,Not relevant to the research question/topic,risk factors by ER/PR cohort
+175,exclude,Not relevant to the research question/topic,diabetes risk-factor cohort
+176,exclude,Not relevant to the research question/topic,assimilation all-cancer Hispanic
+177,exclude,Not relevant to the research question/topic,distant-stage incidence not race
+178,include,,young women incidence by stage/race-ethnicity
+179,exclude,Not relevant to the research question/topic,Gail model calibration
+180,exclude,Not relevant to the research question/topic,risk-prediction model validation
+181,exclude,Not a US population-based/registry study,India epidemic focus
+182,include,,USCS incidence/stage by race Vital Signs
+183,exclude,Not relevant to the research question/topic,suicide mortality
+184,exclude,Not relevant to the research question/topic,future incidence projection all-cancer
+185,exclude,Not relevant to the research question/topic,pregnancy hormone biomarker
+186,exclude,Not relevant to the research question/topic,post-diagnosis depression
+187,exclude,Not relevant to the research question/topic,risk-adjusted incidence methodology not race
+188,include,,ACS incidence by race/ethnicity update 2006
+189,exclude,Not relevant to the research question/topic,overall survival older patients
+190,include,,Massachusetts registry Asian-subgroup incidence incl breast
+191,exclude,Not relevant to the research question/topic,SES decline in incidence
+192,exclude,Not relevant to the research question/topic,neighborhood stage/size
+193,include,,NCDB young Black incidence trends (check population-based at FT)
+194,exclude,Not relevant to the research question/topic,exposome study protocol
+195,exclude,Not relevant to the research question/topic,discrimination risk-factor cohort
+196,exclude,Not a US population-based/registry study,China/Singapore birth-cohort
+197,exclude,Not relevant to the research question/topic,second primary malignancies
+198,exclude,Not relevant to the research question/topic,treatment-related marrow neoplasm
+199,include,,SEER black vs white invasive incidence by age
+200,include,,black-white incidence by ER/PR subtype
+201,exclude,Not a US population-based/registry study,single community cancer center catchment
+202,exclude,Not relevant to the research question/topic,oral-contraceptive risk-factor case-control
+203,include,,SEER incidence trends younger women by race crossover
+204,exclude,Not relevant to the research question/topic,acculturation risk factors
+205,include,,SEER incidence trends NHW/NHB/Hispanic
+206,exclude,Not relevant to the research question/topic,dietary-pattern risk-factor cohort
+207,include,,SEER disaggregated NHOPI incidence incl breast
+208,exclude,Not relevant to the research question/topic,environmental risk-factor case-control Memphis
+209,include,,NPCR+SEER TNBC incidence by race/region
+210,include,,SEER Asian vs other incidence trends vs NHW
+211,exclude,Not relevant to the research question/topic,screening/stage by race
+212,exclude,Not relevant to the research question/topic,BRCA1 mutation analysis genetics
+213,exclude,Not relevant to the research question/topic,metastatic survival by SES/rurality
+214,exclude,Not relevant to the research question/topic,incident depression after BC
+215,exclude,Not relevant to the research question/topic,ER phenotype characterization not incidence rates
+216,exclude,Not relevant to the research question/topic,non-BC-specific death survival
+217,exclude,Not relevant to the research question/topic,reproductive risk factors case-control
+218,exclude,Not relevant to the research question/topic,smoking risk-factor cohort
+219,exclude,Not relevant to the research question/topic,post-LCIS progression risk
