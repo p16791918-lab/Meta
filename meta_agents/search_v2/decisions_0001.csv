@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+40,exclude,Not relevant to the research question/topic,mortality not incidence
+41,exclude,Not relevant to the research question/topic,cancer mortality by nativity not incidence
+42,exclude,Not a US population-based/registry study,perspective/commentary not primary study
+43,exclude,Not relevant to the research question/topic,serum biomarker discovery not incidence
+44,exclude,Not relevant to the research question/topic,financial impact not incidence
+45,exclude,Not relevant to the research question/topic,aspirin risk-factor cohort
+46,include,,SEER incidence by molecular subtype race/ethnicity/age
+47,exclude,Not relevant to the research question/topic,stage-specific survival not incidence
+48,exclude,Not relevant to the research question/topic,all-cause mortality TNBC
+49,include,,Hmong California registry age-adj incidence (verify pub type at FT)
+50,exclude,Not relevant to the research question/topic,survival not incidence
+51,include,,Alaska Native registry incidence vs US white (check breast at FT)
+52,exclude,Not relevant to the research question/topic,vitamin D risk-factor case-cohort
+53,exclude,Not relevant to the research question/topic,sedentary-time risk-factor cohort
+54,include,,SEER Asian Indian/Pakistani vs NHW incidence
+55,exclude,Not relevant to the research question/topic,second primary cancer risk not BC incidence
+56,exclude,Not relevant to the research question/topic,IBC incidence/survival not by race
+57,exclude,Not relevant to the research question/topic,second-line treatment and survival
+58,exclude,Not relevant to the research question/topic,mammographic density risk factor
+59,exclude,Not relevant to the research question/topic,incident diabetes after BC
+60,exclude,Not relevant to the research question/topic,IBC incidence not by race
+61,exclude,Not relevant to the research question/topic,second primary contralateral BC not primary incidence
+62,exclude,Not relevant to the research question/topic,mortality not incidence
+63,exclude,Not relevant to the research question/topic,screening practices not incidence
+64,exclude,Not relevant to the research question/topic,mammography compliance not incidence
+65,exclude,Not relevant to the research question/topic,biomarker/ML study not incidence
+66,include,,SEER invasive incidence by race/age vs NHW
+67,exclude,Not relevant to the research question/topic,lung cancer not breast
+68,exclude,Not relevant to the research question/topic,all-cancer ND mortality/research not breast-by-race
+69,exclude,Not relevant to the research question/topic,reconstruction trial enrollment
+70,exclude,Not relevant to the research question/topic,post-DCIS progression risk not incidence
+71,exclude,Not a US population-based/registry study,narrative review disparities vs biology
+72,exclude,Not relevant to the research question/topic,survival not incidence
+73,exclude,Not relevant to the research question/topic,transgender veterans cohort not race incidence
+74,exclude,Not relevant to the research question/topic,breast-conserving therapy not incidence
+75,exclude,Not relevant to the research question/topic,SNP risk-prediction model
+76,include,,ACS incidence trends by race/ethnicity SEER
+77,exclude,Not a US population-based/registry study,two-hospital presentation/screening not population-based
+78,exclude,Not relevant to the research question/topic,perinatal risk-factor case-control
+79,include,,Arizona registry Hispanic vs NHW invasive
+80,include,,MEC Filipino incidence by generation/nativity
+81,exclude,Not relevant to the research question/topic,hair-product risk-factor cohort
+82,exclude,Not relevant to the research question/topic,Gail risk-model evaluation
+83,exclude,Not relevant to the research question/topic,thyroid-breast second cancer
+84,exclude,Not relevant to the research question/topic,mammographic density
+85,exclude,Not relevant to the research question/topic,DCIS in-situ incidence not invasive
+86,include,,age-specific racial incidence differences <40
+87,exclude,Not relevant to the research question/topic,body-size risk-factor cohort
+88,exclude,Not relevant to the research question/topic,air-pollution risk-factor cohort
+89,exclude,Not relevant to the research question/topic,diagnosis/treatment delays
+90,exclude,Not relevant to the research question/topic,case representativeness methodological
+91,exclude,Not relevant to the research question/topic,cervical cancer not breast
+92,exclude,Not relevant to the research question/topic,cardiometabolic risk-factor cohort
+93,include,,LMDR registry BC subtype incidence White vs Black
+94,exclude,Not relevant to the research question/topic,mortality after DCIS
+95,exclude,Not relevant to the research question/topic,absolute-risk projection model
+96,exclude,Not relevant to the research question/topic,DCIS death risk mortality
+97,exclude,Not a US population-based/registry study,international East Asian vs US comparison
+98,exclude,Not a US population-based/registry study,China Shanghai cohort risk factor
+99,exclude,Not relevant to the research question/topic,migration/acculturation risk-factor case-control

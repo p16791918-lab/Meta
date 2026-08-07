@@ -39,3 +39,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 37,TA,exclude,Not relevant to the research question/topic,time-to-treatment not incidence,Racial Disparities in Time to Treatment Persist in the Setting of a Comprehensive Breast Center
 38,TA,exclude,Not relevant to the research question/topic,male breast cancer GBD multi-country,"Analysis and comparison of the burden of male breast cancer: differences between the global, China, India, and the United States"
 39,TA,exclude,Not relevant to the research question/topic,post-surgery risk-factor study not incidence,Breast cancer risk after hysterectomy with and without salpingo-oophorectomy for benign indications
+40,TA,exclude,Not relevant to the research question/topic,mortality not incidence,The racial disparity in breast cancer mortality.
+41,TA,exclude,Not relevant to the research question/topic,cancer mortality by nativity not incidence,"Assessing racial, ethnic, and nativity disparities in US cancer mortality using a new integrated platform"
+42,TA,exclude,Not a US population-based/registry study,perspective/commentary not primary study,Searching beyond the lamppost to reduce breast cancer disparities
+43,TA,exclude,Not relevant to the research question/topic,serum biomarker discovery not incidence,Serum Biomarkers for Racial Disparities in Breast Cancer Progression
+44,TA,exclude,Not relevant to the research question/topic,financial impact not incidence,Financial Impact of Breast Cancer in Black Versus White Women
+45,TA,exclude,Not relevant to the research question/topic,aspirin risk-factor cohort,Aspirin use and risk of breast cancer in African American women
+46,TA,include,,SEER incidence by molecular subtype race/ethnicity/age,Incidence Rate Trends of Breast Cancer Overall and by Molecular Subtype by Race and Ethnicity and Age
+47,TA,exclude,Not relevant to the research question/topic,stage-specific survival not incidence,"Stage-specific cancer survival in Black and White persons by urbanicity of county of residence, United States, 2015–2021"
+48,TA,exclude,Not relevant to the research question/topic,all-cause mortality TNBC,Racial/Ethnic Disparities in All-Cause Mortality among Patients Diagnosed with  Triple-Negative Breast Cancer
+49,TA,include,,Hmong California registry age-adj incidence (verify pub type at FT),"Cancer incidence in the Hmong in California, 1988-2000"
+50,TA,exclude,Not relevant to the research question/topic,survival not incidence,"Trends in breast cancer survival by race-ethnicity in florida, 1990-2015"
+51,TA,include,,Alaska Native registry incidence vs US white (check breast at FT),The Alaska Native Tumour Registry: fifty years of cancer surveillance data for  Alaska Native people
+52,TA,exclude,Not relevant to the research question/topic,vitamin D risk-factor case-cohort,Vitamin D concentrations and breast cancer incidence among Black/African American and non-Black Hispanic/Latina women
+53,TA,exclude,Not relevant to the research question/topic,sedentary-time risk-factor cohort,Sedentary time and breast cancer incidence in African American women
+54,TA,include,,SEER Asian Indian/Pakistani vs NHW incidence,"Breast cancer among Asian Indian and Pakistani Americans: A surveillance, epidemiology and end results-based study"
+55,TA,exclude,Not relevant to the research question/topic,second primary cancer risk not BC incidence,Second primary cancer risks according to race and ethnicity among U.S. breast cancer survivors
+56,TA,exclude,Not relevant to the research question/topic,IBC incidence/survival not by race,Incidence and survival of inflammatory breast cancer between 1973 and 2015 in the SEER database
+57,TA,exclude,Not relevant to the research question/topic,second-line treatment and survival,Racial inequities in second-line treatment and overall survival among patients with metastatic breast cancer
+58,TA,exclude,Not relevant to the research question/topic,mammographic density risk factor,"Migration history, language acculturation, and mammographic breast density"
+59,TA,exclude,Not relevant to the research question/topic,incident diabetes after BC,"Incident diabetes among older Asian, Native Hawaiian, and Pacific Islander women  with breast cancer"
+60,TA,exclude,Not relevant to the research question/topic,IBC incidence not by race,"Incidence of inflammatory breast cancer in women, 1992-2009, United States"
+61,TA,exclude,Not relevant to the research question/topic,second primary contralateral BC not primary incidence,"Race, ethnicity and risk of second primary contralateral breast cancer in the United States"
+62,TA,exclude,Not relevant to the research question/topic,mortality not incidence,"Trends in breast cancer mortality by race/ethnicity, age, and US census region, United States ─ 1999-2020"
+63,TA,exclude,Not relevant to the research question/topic,screening practices not incidence,Breast and cervical cancer screening among Chinese American women
+64,TA,exclude,Not relevant to the research question/topic,mammography compliance not incidence,Mammography Compliance for Arizona and New Mexico Hispanic and American Indian Women 2016–2018
+65,TA,exclude,Not relevant to the research question/topic,biomarker/ML study not incidence,Identifying Biomarkers Using Support Vector Machine to Understand the Racial Disparity in Triple-Negative Breast Cancer
+66,TA,include,,SEER invasive incidence by race/age vs NHW,Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women
+67,TA,exclude,Not relevant to the research question/topic,lung cancer not breast,"Lung cancer in never smokers: Distinct population-based patterns by age, sex, and race/ethnicity"
+68,TA,exclude,Not relevant to the research question/topic,all-cancer ND mortality/research not breast-by-race,Cancer mortality and research outcomes in a rural state
+69,TA,exclude,Not relevant to the research question/topic,reconstruction trial enrollment,Racial and Ethnic Disparities Among Patients Enrolled in Breast Reconstruction-Related Clinical Trials
+70,TA,exclude,Not relevant to the research question/topic,post-DCIS progression risk not incidence,Race and risk of subsequent aggressive breast cancer following ductal carcinoma  in situ
+71,TA,exclude,Not a US population-based/registry study,narrative review disparities vs biology,Triple-negative breast cancer in African-American women: disparities versus  biology
+72,TA,exclude,Not relevant to the research question/topic,survival not incidence,Racial disparity in breast cancer survival: the impact of pre-treatment  hematologic variables
+73,TA,exclude,Not relevant to the research question/topic,transgender veterans cohort not race incidence,"Incidence of breast cancer in a cohort of 5,135 transgender veterans"
+74,TA,exclude,Not relevant to the research question/topic,breast-conserving therapy not incidence,Disparities in Breast-Conserving Therapy for Non-Hispanic American Indian/Alaska  Native Women Compared with Non-Hispanic White Women
+75,TA,exclude,Not relevant to the research question/topic,SNP risk-prediction model,SNPs and breast cancer risk prediction for African American and Hispanic women
+76,TA,include,,ACS incidence trends by race/ethnicity SEER,Trends in breast cancer by race and ethnicity
+77,TA,exclude,Not a US population-based/registry study,two-hospital presentation/screening not population-based,Breast Cancer Incidence Among Asian American Women in New York City: Disparities in Screening and Presentation
+78,TA,exclude,Not relevant to the research question/topic,perinatal risk-factor case-control,Perinatal factors and breast cancer risk among Hispanics
+79,TA,include,,Arizona registry Hispanic vs NHW invasive,Breast cancer among hispanic and non-hispanic white women in Arizona
+80,TA,include,,MEC Filipino incidence by generation/nativity,"Breast, Colorectal, and Prostate Cancer Incidence among Filipino Americans by Generational Status in the Multiethnic Cohort Study"
+81,TA,exclude,Not relevant to the research question/topic,hair-product risk-factor cohort,Hair product use and breast cancer incidence in the Black Women's Health Study
+82,TA,exclude,Not relevant to the research question/topic,Gail risk-model evaluation,Evaluating breast cancer risk projections for Hispanic women
+83,TA,exclude,Not relevant to the research question/topic,thyroid-breast second cancer,The development of breast carcinoma in women with thyroid carcinoma
+84,TA,exclude,Not relevant to the research question/topic,mammographic density,Racial differences in mammographic breast density
+85,TA,exclude,Not relevant to the research question/topic,DCIS in-situ incidence not invasive,"Incidence of ductal carcinoma in situ in the United States, 2000-2014"
+86,TA,include,,age-specific racial incidence differences <40,Breast cancer racial differences before age 40--implications for screening.
+87,TA,exclude,Not relevant to the research question/topic,body-size risk-factor cohort,Body size and breast cancer risk: the Multiethnic Cohort
+88,TA,exclude,Not relevant to the research question/topic,air-pollution risk-factor cohort,Association between ambient air pollution and breast cancer risk: The multiethnic cohort study
+89,TA,exclude,Not relevant to the research question/topic,diagnosis/treatment delays,Delays in breast cancer diagnosis and treatment by racial/ethnic group
+90,TA,exclude,Not relevant to the research question/topic,case representativeness methodological,Representativeness of breast cancer cases in an integrated health care delivery system
+91,TA,exclude,Not relevant to the research question/topic,cervical cancer not breast,"Racial/Ethnic, socioeconomic, and geographic disparities of cervical cancer  advanced-stage diagnosis in Texas"
+92,TA,exclude,Not relevant to the research question/topic,cardiometabolic risk-factor cohort,Cardiometabolic factors and breast cancer risk in U.S. black women
+93,TA,include,,LMDR registry BC subtype incidence White vs Black,Disparities in breast cancer subtypes among women in the lower Mississippi Delta Region states
+94,TA,exclude,Not relevant to the research question/topic,mortality after DCIS,Breast Cancer Mortality After a Diagnosis of Ductal Carcinoma In Situ
+95,TA,exclude,Not relevant to the research question/topic,absolute-risk projection model,Projecting individualized absolute invasive breast cancer risk in US hispanic women
+96,TA,exclude,Not relevant to the research question/topic,DCIS death risk mortality,Association of a Diagnosis of Ductal Carcinoma in Situ with Death from Breast Cancer
+97,TA,exclude,Not a US population-based/registry study,international East Asian vs US comparison,Contrasting Epidemiology and Clinicopathology of Female Breast Cancer in Asians vs the US Population
+98,TA,exclude,Not a US population-based/registry study,China Shanghai cohort risk factor,"Endogenous Estrogens, Estrogen Metabolites, and Breast Cancer Risk in Postmenopausal Chinese Women"
+99,TA,exclude,Not relevant to the research question/topic,migration/acculturation risk-factor case-control,"Migration history, acculturation, and breast cancer risk in Hispanic women"
