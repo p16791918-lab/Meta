@@ -1,0 +1,41 @@
+record_id,stage,decision,display_reason,sub_reason,title
+0,TA,include,,ACS BC statistics incidence by race US,Breast cancer statistics 2024
+1,TA,include,,ACS BC statistics incidence by race US,"Breast cancer statistics, 2019"
+2,TA,include,,SEER subtype incidence by race,US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status
+3,TA,include,,ILC incidence by race US registry,"Lobular breast cancer statistics, 2025"
+4,TA,exclude,Not relevant to the research question/topic,mortality surveillance not incidence,"Cancer mortality surveillance--United States, 1990-2000."
+5,TA,include,,stage IV incidence SEER (check race/outcome at FT),"Stage IV Breast Cancer Incidence and Survival, 2010-202"
+6,TA,exclude,Not relevant to the research question/topic,air-pollution risk-factor cohort (HR) not incidence rates,Air Pollution and Breast Cancer Incidence in the Multiethnic Cohort Study
+7,TA,exclude,Not relevant to the research question/topic,breast ALCL lymphoma not breast carcinoma,Anaplastic Large Cell Lymphoma of the Breast by Race and Ethnicity
+8,TA,exclude,Not relevant to the research question/topic,socioeconomic/affluence focus not race incidence,Affluence and Breast Cancer
+9,TA,exclude,Not a US population-based/registry study,narrative review not primary study,Breast Cancer Disparities: Socioeconomic Factors versus Biology
+10,TA,include,,US Black incidence rates (check NHW ref at FT),Breast Cancer Incidence Rates in Ghanaian and US Black Women from 2013 Through 2015
+11,TA,include,,ACS Hispanic cancer statistics incidence,"Cancer statistics for the US Hispanic/Latino population, 2021"
+12,TA,include,,female-specific cancers incidence by race US,Disparities and trends of the incidence and mortality of female-specific cancers in the United States
+13,TA,exclude,Not relevant to the research question/topic,mortality (MRR) not incidence,Elevated breast cancer mortality among highly educated Asian American women
+14,TA,include,,BC incidence trends by race/ethnicity older US women,"Breast Cancer Incidence Trends in Older US Women by Race, Ethnicity, Geography, and Stage"
+15,TA,exclude,Not relevant to the research question/topic,mortality simulation modeling,Population simulation modeling of disparities in US breast cancer mortality
+16,TA,exclude,Not relevant to the research question/topic,mammography-use not incidence,"Urbanicity, Income, and Mammography-Use Disparities Among American Indian Women"
+17,TA,include,,NAACCR incidence rate ratios by race/age,Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project
+18,TA,include,,USCS invasive incidence US (check breast-by-race at FT),"Invasive cancer incidence - United States, 2010."
+19,TA,exclude,Not relevant to the research question/topic,genetic-testing referrals not incidence,Racial disparities in breast cancer hereditary risk assessment referrals
+20,TA,exclude,Not relevant to the research question/topic,prognosis (NPI) not incidence,Breast cancer prognosis for young patients
+21,TA,exclude,Not relevant to the research question/topic,chemo-induced alopecia not incidence,Racial and Ethnic Disparities in Persistent Chemotherapy-Induced Alopecia Among Women With Breast Cancer
+22,TA,exclude,Not relevant to the research question/topic,reconstruction rates single-institution not incidence,Disaggregating the Asian-American Breast Cancer Population: Disparities in Reconstruction Rates
+23,TA,exclude,Not relevant to the research question/topic,mortality not incidence,Neighborhood Deprivation and Breast Cancer Mortality among Black and White Women
+24,TA,exclude,Not relevant to the research question/topic,surgical treatment delays not incidence,Asian Ethnic Subgroup Disparities in Delays of Surgical Treatment for Breast Cancer
+25,TA,exclude,Not relevant to the research question/topic,mammography screening not incidence,Disparities in Breast Cancer Screening Between Caucasian and Asian American Women
+26,TA,exclude,Not relevant to the research question/topic,post-BC cardiovascular outcomes not BC incidence,Disparities in cardiometabolic and cardiovascular risk after breast cancer: the Pathways Heart Study
+27,TA,exclude,Not relevant to the research question/topic,treatment patterns not incidence,Real-world treatment patterns among patients diagnosed with hormone receptor-positive metastatic breast cancer in the USA
+28,TA,include,,invasive BC incidence Alaska Native registry (check NHW ref),Invasive breast cancer among Alaska Native women in Alaska
+29,TA,exclude,Not relevant to the research question/topic,small-area/screening-driven trends not race,Small-area incidence trends in breast cancer
+30,TA,exclude,Not relevant to the research question/topic,anthropometric risk-factor study Puerto Rico,Anthropometric measures and breast cancer risk among Hispanic women in Puerto Rico
+31,TA,include,,SEER Black-White incidence trends by ethnicity,Black-white breast cancer incidence trends: Effects of ethnicity
+32,TA,exclude,Not relevant to the research question/topic,COVID diagnosis-rate trends not race incidence,COVID-19 and Rates of Cancer Diagnosis in the US
+33,TA,exclude,Not a US population-based/registry study,Peru genetic-variant study,Association between Ancestry-Specific 6q25 Variants and Breast Cancer Subtypes in Peruvian Women
+34,TA,exclude,Not relevant to the research question/topic,DCIS death rates (mortality),Trends in breast cancer death rates from ductal carcinoma in situ versus invasive cancer in the United States
+35,TA,exclude,Not relevant to the research question/topic,surveillance mammography not incidence,Racial disparities in surveillance mammography among older breast cancer survivors
+36,TA,exclude,Not relevant to the research question/topic,vitamin-D risk-factor cohort not incidence,Vitamin D Supplement Use and Risk of Breast Cancer by Race-Ethnicity
+37,TA,exclude,Not relevant to the research question/topic,time-to-treatment not incidence,Racial Disparities in Time to Treatment Persist in the Setting of a Comprehensive Breast Center
+38,TA,exclude,Not relevant to the research question/topic,male breast cancer GBD multi-country,"Analysis and comparison of the burden of male breast cancer: differences between the global, China, India, and the United States"
+39,TA,exclude,Not relevant to the research question/topic,post-surgery risk-factor study not incidence,Breast cancer risk after hysterectomy with and without salpingo-oophorectomy for benign indications

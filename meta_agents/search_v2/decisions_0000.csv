@@ -1,0 +1,41 @@
+record_id,decision,display_reason,sub_reason
+0,include,,ACS BC statistics incidence by race US
+1,include,,ACS BC statistics incidence by race US
+2,include,,SEER subtype incidence by race
+3,include,,ILC incidence by race US registry
+4,exclude,Not relevant to the research question/topic,mortality surveillance not incidence
+5,include,,stage IV incidence SEER (check race/outcome at FT)
+6,exclude,Not relevant to the research question/topic,air-pollution risk-factor cohort (HR) not incidence rates
+7,exclude,Not relevant to the research question/topic,breast ALCL lymphoma not breast carcinoma
+8,exclude,Not relevant to the research question/topic,socioeconomic/affluence focus not race incidence
+9,exclude,Not a US population-based/registry study,narrative review not primary study
+10,include,,US Black incidence rates (check NHW ref at FT)
+11,include,,ACS Hispanic cancer statistics incidence
+12,include,,female-specific cancers incidence by race US
+13,exclude,Not relevant to the research question/topic,mortality (MRR) not incidence
+14,include,,BC incidence trends by race/ethnicity older US women
+15,exclude,Not relevant to the research question/topic,mortality simulation modeling
+16,exclude,Not relevant to the research question/topic,mammography-use not incidence
+17,include,,NAACCR incidence rate ratios by race/age
+18,include,,USCS invasive incidence US (check breast-by-race at FT)
+19,exclude,Not relevant to the research question/topic,genetic-testing referrals not incidence
+20,exclude,Not relevant to the research question/topic,prognosis (NPI) not incidence
+21,exclude,Not relevant to the research question/topic,chemo-induced alopecia not incidence
+22,exclude,Not relevant to the research question/topic,reconstruction rates single-institution not incidence
+23,exclude,Not relevant to the research question/topic,mortality not incidence
+24,exclude,Not relevant to the research question/topic,surgical treatment delays not incidence
+25,exclude,Not relevant to the research question/topic,mammography screening not incidence
+26,exclude,Not relevant to the research question/topic,post-BC cardiovascular outcomes not BC incidence
+27,exclude,Not relevant to the research question/topic,treatment patterns not incidence
+28,include,,invasive BC incidence Alaska Native registry (check NHW ref)
+29,exclude,Not relevant to the research question/topic,small-area/screening-driven trends not race
+30,exclude,Not relevant to the research question/topic,anthropometric risk-factor study Puerto Rico
+31,include,,SEER Black-White incidence trends by ethnicity
+32,exclude,Not relevant to the research question/topic,COVID diagnosis-rate trends not race incidence
+33,exclude,Not a US population-based/registry study,Peru genetic-variant study
+34,exclude,Not relevant to the research question/topic,DCIS death rates (mortality)
+35,exclude,Not relevant to the research question/topic,surveillance mammography not incidence
+36,exclude,Not relevant to the research question/topic,vitamin-D risk-factor cohort not incidence
+37,exclude,Not relevant to the research question/topic,time-to-treatment not incidence
+38,exclude,Not relevant to the research question/topic,male breast cancer GBD multi-country
+39,exclude,Not relevant to the research question/topic,post-surgery risk-factor study not incidence
