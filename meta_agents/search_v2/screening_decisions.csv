@@ -99,3 +99,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 97,TA,exclude,Not a US population-based/registry study,international East Asian vs US comparison,Contrasting Epidemiology and Clinicopathology of Female Breast Cancer in Asians vs the US Population
 98,TA,exclude,Not a US population-based/registry study,China Shanghai cohort risk factor,"Endogenous Estrogens, Estrogen Metabolites, and Breast Cancer Risk in Postmenopausal Chinese Women"
 99,TA,exclude,Not relevant to the research question/topic,migration/acculturation risk-factor case-control,"Migration history, acculturation, and breast cancer risk in Hispanic women"
+100,TA,include,,LA CSP invasive incidence by detailed race/ethnicity,Invasive breast cancer incidence trends by detailed race/ethnicity and age
+101,TA,include,,Guam/Hawaii registry Filipino/Chamorro incidence,Cumulative Incidence Rates of Breast Cancer by Age for Filipinos and Chamorros in Guam
+102,TA,exclude,Not a US population-based/registry study,international Asian-Western comparison,Female Breast Cancer Incidence among Asian and Western Populations: More Similar Than Expected
+103,TA,include,,California subtype incidence by race black-white crossover,Age-specific incidence of breast cancer subtypes: Understanding the black-white crossover
+104,TA,exclude,Not relevant to the research question/topic,area-level SES cohort not race incidence,Disparities in cancer incidence and mortality by area-level socioeconomic status: a multilevel analysis
+105,TA,exclude,Not relevant to the research question/topic,IBC survival not incidence,Racial/ethnic disparities in inflammatory breast cancer survival in the Michigan Cancer Surveillance Program
+106,TA,exclude,Not relevant to the research question/topic,5-year survival disparities,Trends in 5-year cancer survival disparities by race and ethnicity in the US between 2002-2006 and 2015-2019
+107,TA,include,,SEER New Mexico AI/AN incidence disease mapping,Quantification of Potential Inequities in Breast Cancer Incidence in New Mexico Through Bayesian Disease Mapping
+108,TA,exclude,Not relevant to the research question/topic,MHT risk-factor case-control,"Race, Menopausal Hormone Therapy, and Invasive Breast Cancer in the Carolina Breast Cancer Study"
+109,TA,exclude,Not relevant to the research question/topic,mortality disparity Chicago,The black:white disparity in breast cancer mortality: The example of Chicago
+110,TA,exclude,Not relevant to the research question/topic,mortality by age/geography,Disparity in breast cancer mortality by age and geography in 10 racially diverse US cities
+111,TA,exclude,Not relevant to the research question/topic,genetic-ancestry risk case-control,Genetic ancestry and risk of breast cancer among U.S. Latinas
+112,TA,exclude,Not relevant to the research question/topic,post-benign-breast-disease risk,Understanding Benign Breast Disease and Subsequent Breast Cancer in Hispanic White Females: A Step Closer to Evidence-Based Management
+113,TA,exclude,Not relevant to the research question/topic,supplemental screening,Between-Race Differences in Supplemental Breast Cancer Screening Before and After  Breast Density Notification Law
+114,TA,exclude,Not relevant to the research question/topic,survival Nevada,"Worse Breast Cancer Outcomes for Southern Nevadans, Filipina and Black Women"
+115,TA,exclude,Not relevant to the research question/topic,carcinogenesis-mechanism modeling,Breast cancer as heterogeneous disease: contributing factors and carcinogenesis  mechanisms
+116,TA,exclude,Not a US population-based/registry study,Barbados single-hospital,High triple-negative breast cancer prevalence and aggressive prognostic factors in Barbadian women with breast cancer
+117,TA,exclude,Not relevant to the research question/topic,second primary cancers,Racial and ethnic differences in risk of second primary cancers among breast cancer survivors
+118,TA,exclude,Not relevant to the research question/topic,WHI cohort risk-factor focus,Ethnicity and breast cancer: Factors influencing differences in incidence and outcome
+119,TA,include,,IHS-linked Michigan American Indian breast incidence,Disparities of cancer incidence in Michigan's American Indians: Spotlight on breast cancer
+120,TA,exclude,Not relevant to the research question/topic,nativity risk case-control,Higher Breast Cancer Risk Among Immigrant Asian American Women Than Among US-Born  Asian American Women
+121,TA,exclude,Not a US population-based/registry study,single-institution Austin retrospective,Demonstrating higher incidence of advanced breast malignancies in our young hispanic population
+122,TA,exclude,Not relevant to the research question/topic,venous thromboembolism outcome,Black Patients Experience Highest Rates of Cancer-associated Venous  Thromboembolism
+123,TA,exclude,Not relevant to the research question/topic,survival CONCORD-2,Disparities in breast cancer survival in the United States (2001-2009): Findings from the CONCORD-2 study
+124,TA,exclude,Not relevant to the research question/topic,aspirin risk-factor cohort,Regular aspirin use and breast cancer risk in US black women
+125,TA,exclude,Not relevant to the research question/topic,second primary contralateral by HR status,Second primary breast cancer occurrence according to hormone receptor status
+126,TA,include,,SEER subtype incidence trends by age/race,Incidence trends of breast cancer molecular subtypes by age and race/ethnicity in the US from 2010 to 2016
+127,TA,exclude,Not relevant to the research question/topic,risk-factor prevalence Hawaii,Trends of breast cancer incidence and risk factor prevalence over 25 years
+128,TA,exclude,Not relevant to the research question/topic,diet/screening behaviors Harlem,Diet and breast cancer surveillance behaviors among Harlem women
+129,TA,exclude,Not relevant to the research question/topic,diabetes incidence after hormonal therapy,Hormonal therapy for breast cancer and diabetes incidence among postmenopausal women
+130,TA,exclude,Not relevant to the research question/topic,mortality-to-incidence ratio NYC,"Disparities in mortality-to-incidence ratios by race/ethnicity for female breast cancer in New York City, 2002-2016"
+131,TA,exclude,Not relevant to the research question/topic,mortality trends by state/race,Temporal trends in breast cancer mortality by state and race
+132,TA,exclude,Not relevant to the research question/topic,code-status orders,Racial disparities in the frequency and timing of code status orders among women with breast cancer
+133,TA,exclude,Not relevant to the research question/topic,chemotherapy symptom protocol,"Protocol for Symptom Experience, Management, Outcomes, and Adherence in Women Receiving Breast Cancer Chemotherapy"
+134,TA,include,,NPCR+SEER AI/AN incidence misclassification-adjusted,"Breast cancer incidence among American Indian and Alaska Native women: US, 1999-2004"
+135,TA,exclude,Not relevant to the research question/topic,second primary breast cancer,Risk of second primary breast cancer among cancer survivors: Implications for prevention and screening practice
+136,TA,include,,ACS BC statistics 2015 incidence by race convergence,"Breast cancer statistics, 2015: Convergence of incidence rates between black and white women"
+137,TA,exclude,Not relevant to the research question/topic,mortality by education/race,Cancer mortality in the United States by education level and race
+138,TA,exclude,Not a US population-based/registry study,narrative review young women epidemiology,Epidemiology of breast cancer in young women
+139,TA,exclude,Not relevant to the research question/topic,subsequent cancers after BC,Patterns of Subsequent Cancer Incidence Over Time in Patients with Breast Cancer
+140,TA,exclude,Not relevant to the research question/topic,Mexican-diet risk-factor WHI,Traditional Mexican dietary pattern and cancer risk among women of Mexican descent
+141,TA,include,,SEER ER-negative incidence trends by race/region,Decreasing Incidence of Estrogen Receptor-Negative Breast Cancer in the United States: Trends by Race and Region
+142,TA,include,,USCS TNBC incidence NHB by region (check NHW ref),Are There Regional Differences in Triple Negative Breast Cancer among Non-Hispanic Black Women?
+143,TA,exclude,Not relevant to the research question/topic,AYA metastatic all-cancer not breast incidence,"Poor-Prognosis Metastatic Cancers in Adolescents and Young Adults: Incidence Patterns, Trends, and Disparities"
+144,TA,include,,LA County Asian-American ethnic-specific incidence,Rapidly rising breast cancer incidence rates among Asian-American women
+145,TA,include,,Wisconsin registry AA vs white incidence,Persistence in breast cancer disparities between African Americans and whites in Wisconsin
+146,TA,include,,incidence 20-49y by race/stage/HR (verify pub type at FT),"Breast Cancer Incidence Among US Women Aged 20 to 49 Years by Race, Stage, and Hormone Receptor Status"
+147,TA,exclude,Not relevant to the research question/topic,elderly 85+ epidemiology/nomogram not by race,Epidemiology and prognostic nomogram for invasive breast cancer aged 85 years and older in the USA
+148,TA,include,,ACS cancer statistics African Americans 2016 incidence,"Cancer statistics for African Americans, 2016: Progress and opportunities in reducing racial disparities"
+149,TA,exclude,Not relevant to the research question/topic,clinical-trial enrollment reporting,Race and Ethnicity Reporting and Enrollment Disparities in Clinical Trials Leading to FDA Approvals for Breast Cancer Between 2010 and 2020
+150,TA,exclude,Not relevant to the research question/topic,AI/AN mortality,"Breast cancer mortality among American Indian and Alaska Native women, 1990-2009."
+151,TA,include,,SEER 8 Asian-American subgroup incidence trends,"Cancer incidence trends among asian american populations in the united states, 1990-2008"
+152,TA,exclude,Not relevant to the research question/topic,urinary estrogen-metabolite biomarker,Urinary estrogen metabolites and their ratio among Asian American women
+153,TA,exclude,Not relevant to the research question/topic,survival social determinants,"Association of Social Determinants and Tumor Biology with Racial Disparity in Survival from Early-Stage, Hormone-Dependent Breast Cancer"
+154,TA,exclude,Not relevant to the research question/topic,soy-intake risk-factor case-control,Childhood soy intake and breast cancer risk in Asian American women
+155,TA,include,,USCS state variation TNBC incidence by race,State Variation in Racial and Ethnic Disparities in Incidence of Triple-Negative Breast Cancer among US Women
+156,TA,include,,Annual Report to Nation NAACCR incidence by race,"Annual report to the nation on the status of cancer, part 1: National cancer statistics"
+157,TA,include,,Connecticut/SEER black vs white incidence trends,Breast cancer trends among black and white women in the United States
+158,TA,include,,NAACCR incidence trends by race/ethnicity stage/geo,"Trends in breast cancer incidence rates by race/ethnicity: Patterns by stage, socioeconomic position, and geography in the United States, 1999-2017"
+159,TA,exclude,Not relevant to the research question/topic,cancer-specific mortality disparities,Lack of reduction in racial disparities in cancer-specific mortality over a  20-year period

@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+100,include,,LA CSP invasive incidence by detailed race/ethnicity
+101,include,,Guam/Hawaii registry Filipino/Chamorro incidence
+102,exclude,Not a US population-based/registry study,international Asian-Western comparison
+103,include,,California subtype incidence by race black-white crossover
+104,exclude,Not relevant to the research question/topic,area-level SES cohort not race incidence
+105,exclude,Not relevant to the research question/topic,IBC survival not incidence
+106,exclude,Not relevant to the research question/topic,5-year survival disparities
+107,include,,SEER New Mexico AI/AN incidence disease mapping
+108,exclude,Not relevant to the research question/topic,MHT risk-factor case-control
+109,exclude,Not relevant to the research question/topic,mortality disparity Chicago
+110,exclude,Not relevant to the research question/topic,mortality by age/geography
+111,exclude,Not relevant to the research question/topic,genetic-ancestry risk case-control
+112,exclude,Not relevant to the research question/topic,post-benign-breast-disease risk
+113,exclude,Not relevant to the research question/topic,supplemental screening
+114,exclude,Not relevant to the research question/topic,survival Nevada
+115,exclude,Not relevant to the research question/topic,carcinogenesis-mechanism modeling
+116,exclude,Not a US population-based/registry study,Barbados single-hospital
+117,exclude,Not relevant to the research question/topic,second primary cancers
+118,exclude,Not relevant to the research question/topic,WHI cohort risk-factor focus
+119,include,,IHS-linked Michigan American Indian breast incidence
+120,exclude,Not relevant to the research question/topic,nativity risk case-control
+121,exclude,Not a US population-based/registry study,single-institution Austin retrospective
+122,exclude,Not relevant to the research question/topic,venous thromboembolism outcome
+123,exclude,Not relevant to the research question/topic,survival CONCORD-2
+124,exclude,Not relevant to the research question/topic,aspirin risk-factor cohort
+125,exclude,Not relevant to the research question/topic,second primary contralateral by HR status
+126,include,,SEER subtype incidence trends by age/race
+127,exclude,Not relevant to the research question/topic,risk-factor prevalence Hawaii
+128,exclude,Not relevant to the research question/topic,diet/screening behaviors Harlem
+129,exclude,Not relevant to the research question/topic,diabetes incidence after hormonal therapy
+130,exclude,Not relevant to the research question/topic,mortality-to-incidence ratio NYC
+131,exclude,Not relevant to the research question/topic,mortality trends by state/race
+132,exclude,Not relevant to the research question/topic,code-status orders
+133,exclude,Not relevant to the research question/topic,chemotherapy symptom protocol
+134,include,,NPCR+SEER AI/AN incidence misclassification-adjusted
+135,exclude,Not relevant to the research question/topic,second primary breast cancer
+136,include,,ACS BC statistics 2015 incidence by race convergence
+137,exclude,Not relevant to the research question/topic,mortality by education/race
+138,exclude,Not a US population-based/registry study,narrative review young women epidemiology
+139,exclude,Not relevant to the research question/topic,subsequent cancers after BC
+140,exclude,Not relevant to the research question/topic,Mexican-diet risk-factor WHI
+141,include,,SEER ER-negative incidence trends by race/region
+142,include,,USCS TNBC incidence NHB by region (check NHW ref)
+143,exclude,Not relevant to the research question/topic,AYA metastatic all-cancer not breast incidence
+144,include,,LA County Asian-American ethnic-specific incidence
+145,include,,Wisconsin registry AA vs white incidence
+146,include,,incidence 20-49y by race/stage/HR (verify pub type at FT)
+147,exclude,Not relevant to the research question/topic,elderly 85+ epidemiology/nomogram not by race
+148,include,,ACS cancer statistics African Americans 2016 incidence
+149,exclude,Not relevant to the research question/topic,clinical-trial enrollment reporting
+150,exclude,Not relevant to the research question/topic,AI/AN mortality
+151,include,,SEER 8 Asian-American subgroup incidence trends
+152,exclude,Not relevant to the research question/topic,urinary estrogen-metabolite biomarker
+153,exclude,Not relevant to the research question/topic,survival social determinants
+154,exclude,Not relevant to the research question/topic,soy-intake risk-factor case-control
+155,include,,USCS state variation TNBC incidence by race
+156,include,,Annual Report to Nation NAACCR incidence by race
+157,include,,Connecticut/SEER black vs white incidence trends
+158,include,,NAACCR incidence trends by race/ethnicity stage/geo
+159,exclude,Not relevant to the research question/topic,cancer-specific mortality disparities
