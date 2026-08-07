@@ -279,3 +279,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 277,TA,include,,SEER race/ethnicity age distribution of diagnosis,Race/Ethnicity and Age Distribution of Breast Cancer Diagnosis in the United  States
 278,TA,include,,SEER distant-involvement incidence by race/stage,"Incidence of breast cancer with distant involvement among women in the United States, 1976 to 2009"
 279,TA,exclude,Not a US population-based/registry study,VHA veterans not population-based,Characteristics of women Veterans with incident breast and gynecologic cancers in  the Veterans Health Administration
+280,TA,exclude,Not relevant to the research question/topic,comorbidity profiles not incidence,"Comorbidities among American Indian and Alaska Native People with Cancer: A Surveillance, Epidemiology, and End Results-Medicare Study"
+281,TA,exclude,Not relevant to the research question/topic,male breast cancer,"Incidence of male breast cancer in California, 1988-2000: Racial/ethnic variation in 1759 men"
+282,TA,exclude,Not relevant to the research question/topic,all-cancer Connecticut burden overview,The burden of cancer in Connecticut
+283,TA,exclude,Not relevant to the research question/topic,mammography access/stage,Correlations between access to mammography and breast cancer stage at diagnosis
+284,TA,include,,Japanese/Korean American vs US incidence APC (US subgroups extractable),"Trends in Female Breast Cancer Incidence among Japanese, Korean, and US Populations: An Age-Period-Cohort Analysis"
+285,TA,exclude,Not relevant to the research question/topic,reporting-delay methodology,Impact of reporting delay and reporting error on cancer incidence rates and trends
+286,TA,include,,SEER subtype incidence by race/ethnicity 2010-2015,Variation in breast cancer subtype incidence and distribution by race/ethnicity in the United States from 2010 to 2015
+287,TA,exclude,Not relevant to the research question/topic,chemical-exposure biomarker,Identifying the link between chemical exposures and breast cancer in African American women via integrated in vitro and exposure biomarker data
+288,TA,exclude,Not relevant to the research question/topic,symptomatic awareness/screening,Racial and Ethnic Disparity in Symptomatic Breast Cancer Awareness despite a  Recent Screen: The Role of Tumor Biology and Mammography Facility Characteristics
+289,TA,exclude,Not relevant to the research question/topic,hormone-use risk-factor cohort,A prospective study of female hormone use and breast cancer among black women
+290,TA,exclude,Not relevant to the research question/topic,mortality disparity decomposition,Underlying causes of the black-white racial disparity in breast cancer mortality: A population-based analysis
+291,TA,exclude,Not relevant to the research question/topic,male BC mortality,Racial and ethnic disparities and socioeconomic determinants of male breast cancer mortality in the United States
+292,TA,exclude,Not relevant to the research question/topic,mortality risk factors Texas,Identifying risk factors for disparities in breast cancer mortality among  African-American and Hispanic women
+293,TA,exclude,Not relevant to the research question/topic,decision-aid usability,Usability Testing of a Web-Based Decision Aid for Breast Cancer Risk Assessment Among Multi-Ethnic Women
+294,TA,exclude,Not relevant to the research question/topic,obesity simulation modeling,Collaborative modeling of the impact of obesity on race-specific breast cancer incidence and mortality
+295,TA,exclude,Not relevant to the research question/topic,insurance-mortality,Variation in insurance-mortality relationship amid macroeconomic shifts: a study of SEER female-specific cancer patients in USA
+296,TA,exclude,Not relevant to the research question/topic,VDR polymorphism genetics,Vitamin D receptor polymorphisms and breast cancer risk in a high-incidence population: A pilot study
+297,TA,exclude,Not relevant to the research question/topic,area SES disparities not race,"Temporal trends in area socioeconomic disparities in breast-cancer incidence and mortality, 1988-2005"
+298,TA,exclude,Not relevant to the research question/topic,parity risk-factor cohort,Dual effect of parity on breast cancer risk in African-American women
+299,TA,exclude,Not relevant to the research question/topic,dietary cadmium risk-factor cohort,Dietary cadmium and risk of invasive postmenopausal breast cancer in the VITAL cohort
+300,TA,exclude,Not relevant to the research question/topic,breast lymphoma survival,Epidemiological features of primary breast lymphoma patients and development of a nomogram to predict survival
+301,TA,exclude,Not relevant to the research question/topic,screening rates comparison,Then and now: comparison of baseline breast cancer screening rates at 2 time  intervals
+302,TA,exclude,Not relevant to the research question/topic,histology age patterns not race,Comparison of age-specific incidence rate patterns for different histopathologic types of breast carcinoma
+303,TA,exclude,Not relevant to the research question/topic,disparity modeling typology,Model-based analyses to compare health and economic outcomes of cancer control: Inclusion of disparities
+304,TA,exclude,Not relevant to the research question/topic,adenoid cystic carcinoma not by race,Adenoid cystic carcinoma of the breast in the United States (1977 to 2006): a  population-based cohort study
+305,TA,exclude,Not relevant to the research question/topic,metastatic outcomes survival,"Racial/ethnic differences in the outcomes of patients with metastatic breast cancer: contributions of demographic, socioeconomic, tumor and metastatic characteristics"
+306,TA,exclude,Not relevant to the research question/topic,HER2 incidence/survival by age not race,"Incidence and Survival by Human Epidermal Growth Factor Receptor 2 Status in Young Women With Stage I-III Breast Cancer: SEER, 2010-2016"
+307,TA,exclude,Not relevant to the research question/topic,DCIS in-situ not invasive,Twenty-Five Year Trends in the Incidence of Ductal Carcinoma in Situ in US Women
+308,TA,exclude,Not relevant to the research question/topic,screening-detected surveillance,"Surveillance of screening-detected cancers (Colon and Rectum, Breast, and Cervix) - United States, 2004-2006"
+309,TA,exclude,Not relevant to the research question/topic,AIAN screening narrative,Breast cancer and screening in American Indian and Alaska Native women.
+310,TA,include,,SEER incidence trends by race/ethnicity and subtype,"Recent breast cancer trends among Asian/Pacific Islander, Hispanic, and African-American women in the US: Changes by tumor subtype"
+311,TA,exclude,Not relevant to the research question/topic,mortality Ohio,Why do postmenopausal African-American women not benefit from overall breast cancer mortality decline?
+312,TA,exclude,Not relevant to the research question/topic,Gail model AIAN,Can the Gail model be useful in American Indian and Alaska Native populations?
+313,TA,exclude,Not relevant to the research question/topic,metabolic risk-factor case-control,Metabolic conditions and breast cancer risk among Los Angeles County Filipina Americans compared with Chinese and Japanese Americans
+314,TA,exclude,Not relevant to the research question/topic,AIAN screening practices,"Breast Cancer Screening Practices and Correlates Among American Indian and Alaska Native Women in California, 2003"
+315,TA,exclude,Not relevant to the research question/topic,breast density risk model,One versus two breast density measures to predict 5- and 10-year breast cancer risk
+316,TA,include,,SEER early incidence estimates by race incl breast,Early estimates of cancer incidence for 2015: Expanding to include estimates for white and black races
+317,TA,exclude,Not relevant to the research question/topic,dietary polyphenol risk-factor cohort,Dietary polyphenols and risk of breast cancer in a predominantly low-income population: a prospective analysis in the Southern Community Cohort Study (SCCS)
+318,TA,exclude,Not relevant to the research question/topic,early-onset risk factors BWHS,Differential patterns of risk factors for early-onset breast cancer by er status in African American women
+319,TA,exclude,Not relevant to the research question/topic,Latina health-education intervention,Multi-site implementation of health education programs for Latinas.
+320,TA,exclude,Not relevant to the research question/topic,soy/estrogen biomarker,Soy intake is associated with increased 2-hydroxylation and decreased  16alpha-hydroxylation of estrogens in Asian-American women
+321,TA,include,,Texas registry incidence by race/ethnicity/geography,Risks of developing breast and colorectal cancer in association with incomes and geographic locations in Texas: A retrospective cohort study
+322,TA,include,,SEER continental US vs Hawaii incidence by ethnicity,Inter- and intra-ethnic differences for female breast carcinoma incidence in the continental United States and in the state of Hawaii
+323,TA,exclude,Not relevant to the research question/topic,IGF genotype biomarker,"IGFI genotype, mean plasma level and breast cancer risk in the Hawaii/Los Angeles multiethnic cohort"
+324,TA,include,,CCR Asian-American 7-subgroup incidence trends/subtypes,"Breast cancer in Asian Americans in California, 1988–2013: increasing incidence trends and recent data on breast cancer subtypes"
+325,TA,exclude,Not relevant to the research question/topic,ovulatory-function biomarker,Ethnic differences in ovulatory function in nulliparous women
+326,TA,exclude,Not relevant to the research question/topic,mortality Georgia,A registry-based approach for estimating county-level race disparities in breast cancer mortality: an analysis in Georgia
+327,TA,exclude,Not relevant to the research question/topic,Hispanic/NHW clinical characteristics,Differences between Hispanic and non-Hispanic white women with breast cancer for  clinical characteristics and their correlates
+328,TA,exclude,Not relevant to the research question/topic,thyroid second cancer survivors,"Clinicopathological features, survival and risk in breast cancer survivors with thyroid cancer: an analysis of the SEER database"
+329,TA,exclude,Not relevant to the research question/topic,benign-breast-disease cohort,"Breast cancer incidence in a cohort of women with benign breast disease from a multiethnic, primary health care population"
+330,TA,exclude,Not relevant to the research question/topic,mortality local-area equity,"Paths to health equity: Local area variation in progress toward eliminating  breast cancer mortality disparities, 1990-2009"
+331,TA,exclude,Not a US population-based/registry study,LABC narrative review,Epidemiology of locally advanced breast cancer
+332,TA,exclude,Not relevant to the research question/topic,AAPI screening rates,Asian American and Pacific Islander breast and cervical carcinoma screening rates  and healthy people 2000 objectives
+333,TA,include,,CCR Hispanic incidence by nativity/enclave,Breast cancer incidence patterns among california hispanic women: Differences by nativity and residence in an enclave
+334,TA,exclude,Not relevant to the research question/topic,SES risk-factor cohort BWHS,Individual and neighborhood socioeconomic status in relation to breast cancer incidence in African-American Women
+335,TA,exclude,Not relevant to the research question/topic,study methods/protocol case-control,"Theory, methods, and operational results of the Young Women’s Health History Study: a study of young-onset breast cancer incidence in Black and White women"
+336,TA,include,,SEER US White/Black age-specific incidence (vs Japan),Early- and late-onset breast cancer types among women in the United States and Japan
+337,TA,exclude,Not relevant to the research question/topic,family-history risk-factor case-control,Family history and age at onset of breast cancer in Hispanic and non-Hispanic  white women
+338,TA,exclude,Not relevant to the research question/topic,late-stage geographic not race,Geographic disparities in late stage breast cancer incidence: results from eight states in the United States
+339,TA,include,,Alaska Native registry breast incidence vs US white,"Cancers of the breast, uterus, ovary and cervix among Alaska native women, 1974-2003"
