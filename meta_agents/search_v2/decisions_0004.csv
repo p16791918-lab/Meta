@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+220,exclude,Not relevant to the research question/topic,breastfeeding knowledge survey
+221,exclude,Not relevant to the research question/topic,mortality trends focus
+222,exclude,Not relevant to the research question/topic,COVID all-cancer incidence decline
+223,exclude,Not relevant to the research question/topic,PAH air-pollution ecological
+224,exclude,Not a US population-based/registry study,Swiss population study
+225,exclude,Not a US population-based/registry study,international LDC-MDC comparison
+226,include,,California subtype incidence NHB vs NHW (discrimination covariate)
+227,exclude,Not relevant to the research question/topic,mammographic density international
+228,exclude,Not relevant to the research question/topic,mortality proportion of deaths
+229,exclude,Not relevant to the research question/topic,mortality/survival analysis
+230,exclude,Not relevant to the research question/topic,mortality geographic scale
+231,exclude,Not relevant to the research question/topic,survivorship recruitment methods
+232,exclude,Not relevant to the research question/topic,CVD/mortality after BC
+233,exclude,Not relevant to the research question/topic,reproductive risk factors case-case
+234,include,,disaggregated AANHPI invasive incidence 2000-2022
+235,include,,Annual Report to Nation 2020 NAACCR incidence by race
+236,include,,CCR disaggregated Asian incidence by ethnicity/migrant
+237,exclude,Not relevant to the research question/topic,suicide incidence
+238,include,,SEER AI/AN cancer incidence incl breast 1992-1999
+239,exclude,Not relevant to the research question/topic,sexual-minority density ecological
+240,exclude,Not relevant to the research question/topic,IGF polymorphism genetics
+241,exclude,Not relevant to the research question/topic,incidence-rate methodology not race
+242,exclude,Not relevant to the research question/topic,uninsured/screening ecological
+243,exclude,Not relevant to the research question/topic,early-onset all-cancer not breast-by-race
+244,exclude,Not relevant to the research question/topic,treatment receipt
+245,exclude,Not relevant to the research question/topic,pesticide ecological
+246,include,,CCR breast incidence by race/ethnicity across SES
+247,exclude,Not relevant to the research question/topic,post-benign-biopsy risk single-center
+248,exclude,Not relevant to the research question/topic,NCDB TNBC case features not incidence rates
+249,exclude,Not relevant to the research question/topic,postmastectomy reconstruction
+250,exclude,Not relevant to the research question/topic,neighborhood stress risk-factor cohort
+251,include,,NAACCR TNBC incidence by area (check race at FT)
+252,include,,incidence trends black/white postmenopausal MHT era
+253,include,,Puerto Rico incidence vs US White/Black
+254,exclude,Not relevant to the research question/topic,HR-status incidence not by race
+255,exclude,Not relevant to the research question/topic,BMI risk-factor case-case
+256,exclude,Not relevant to the research question/topic,BRFSS screening study
+257,exclude,Not a US population-based/registry study,4-country indigenous comparison
+258,exclude,Not relevant to the research question/topic,reconstruction policy
+259,include,,SEER IBC incidence by age/race vs LABC
+260,exclude,Not relevant to the research question/topic,presentation/treatment/survival under 35
+261,exclude,Not relevant to the research question/topic,second primary genital cancers
+262,exclude,Not relevant to the research question/topic,staging neighborhood disparities
+263,exclude,Not relevant to the research question/topic,clinical trial participation
+264,exclude,Not relevant to the research question/topic,Korean-American screening adherence
+265,include,,SEER black-white incidence age crossover
+266,exclude,Not a US population-based/registry study,Peru genetic ancestry HER2
+267,exclude,Not relevant to the research question/topic,API absolute-risk model
+268,exclude,Not a US population-based/registry study,East/Southeast Asian international
+269,exclude,Not relevant to the research question/topic,abortion risk-factor cohort
+270,exclude,Not relevant to the research question/topic,hair-relaxer risk-factor cohort
+271,exclude,Not relevant to the research question/topic,age/histology patterns not by race
+272,include,,AIAN national cancer incidence (verify primary data at FT)
+273,exclude,Not relevant to the research question/topic,Hispanic/NHW risk-factor case-control
+274,exclude,Not relevant to the research question/topic,de novo metastatic occurrence by subtype
+275,exclude,Not relevant to the research question/topic,Hispanic mortality
+276,exclude,Not a US population-based/registry study,Hong Kong Chinese
+277,include,,SEER race/ethnicity age distribution of diagnosis
+278,include,,SEER distant-involvement incidence by race/stage
+279,exclude,Not a US population-based/registry study,VHA veterans not population-based

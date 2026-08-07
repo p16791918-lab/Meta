@@ -219,3 +219,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 217,TA,exclude,Not relevant to the research question/topic,reproductive risk factors case-control,"Reproductive characteristics, menopausal status, race and ethnicity, and risk of breast cancer subtypes defined by ER, PR and HER2 status: the Breast Cancer Etiology in Minorities study"
 218,TA,exclude,Not relevant to the research question/topic,smoking risk-factor cohort,A prospective study of smoking and breast cancer risk among African-American women.
 219,TA,exclude,Not relevant to the research question/topic,post-LCIS progression risk,Associations of race and ethnicity with risk of developing invasive breast cancer after lobular carcinoma in situ
+220,TA,exclude,Not relevant to the research question/topic,breastfeeding knowledge survey,Knowledge of the Relationship Between Breastfeeding and Breast Cancer Risk Among Racial and Ethnic Minority Women
+221,TA,exclude,Not relevant to the research question/topic,mortality trends focus,Breast cancer mortality rates have stopped declining in U.S. Women younger than 40 years
+222,TA,exclude,Not relevant to the research question/topic,COVID all-cancer incidence decline,"The COVID-19 pandemic and associated declines in cancer incidence by race/ethnicity and census-tract level SES, rurality, and persistent poverty status"
+223,TA,exclude,Not relevant to the research question/topic,PAH air-pollution ecological,Ambient air emissions of polycyclic aromatic hydrocarbons and female breast cancer incidence in US
+224,TA,exclude,Not a US population-based/registry study,Swiss population study,Socioeconomic and demographic disparities in breast cancer stage at presentation  and survival: A Swiss population-based study
+225,TA,exclude,Not a US population-based/registry study,international LDC-MDC comparison,Higher incidence of premenopausal breast cancer in less developed countries; myth or truth?
+226,TA,include,,California subtype incidence NHB vs NHW (discrimination covariate),"Home mortgage discrimination and incidence of triple-negative and Luminal A breast cancer among non-Hispanic Black and non-Hispanic White females in California, 2006–2015"
+227,TA,exclude,Not relevant to the research question/topic,mammographic density international,Ethnic and geographic differences in mammographic density and their association with breast cancer incidence
+228,TA,exclude,Not relevant to the research question/topic,mortality proportion of deaths,Recent Changes in the Patterns of Breast Cancer as a Proportion of All Deaths According to Race and Ethnicity
+229,TA,exclude,Not relevant to the research question/topic,mortality/survival analysis,"Breast Cancer: 20-Year Comparative Mortality and Survival Analysis by Age, Sex,  Race/Ethnicity, Stage, Grade, Disease Duration, Selected ICD-O-3 Oncophenotypes, and Cohort Entry Time-Period"
+230,TA,exclude,Not relevant to the research question/topic,mortality geographic scale,Identification of racial disparities in breast cancer mortality: does scale  matter?
+231,TA,exclude,Not relevant to the research question/topic,survivorship recruitment methods,Breast cancer survivorship in a multiethnic sample: challenges in recruitment and  measurement
+232,TA,exclude,Not relevant to the research question/topic,CVD/mortality after BC,Race differences in cardiovascular disease and breast cancer mortality among US women diagnosed with invasive breast cancer
+233,TA,exclude,Not relevant to the research question/topic,reproductive risk factors case-case,"Reproductive factors and risk of luminal, HER2-overexpressing, and triple-negative breast cancer among multiethnic women"
+234,TA,include,,disaggregated AANHPI invasive incidence 2000-2022,"Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022"
+235,TA,include,,Annual Report to Nation 2020 NAACCR incidence by race,"Annual report to the nation on the status of cancer, part I: National cancer statistics"
+236,TA,include,,CCR disaggregated Asian incidence by ethnicity/migrant,Hidden breast cancer disparities in Asian women: disaggregating incidence rates by ethnicity and migrant status.
+237,TA,exclude,Not relevant to the research question/topic,suicide incidence,"Incidence rate and risk factors for suicide in patients with breast cancer in the USA: A surveillance, epidemiology, and end results analysis (SEER)"
+238,TA,include,,SEER AI/AN cancer incidence incl breast 1992-1999,"Patterns in cancer incidence among American Indians/Alaska Natives, United States, 1992-1999"
+239,TA,exclude,Not relevant to the research question/topic,sexual-minority density ecological,"Sexual minority population density and incidence of lung, colorectal and female breast cancer in California"
+240,TA,exclude,Not relevant to the research question/topic,IGF polymorphism genetics,IGF gene polymorphisms and breast cancer in African-American and hispanic women
+241,TA,exclude,Not relevant to the research question/topic,incidence-rate methodology not race,Understanding population-based site-specific cancer incidence rates in the USA.
+242,TA,exclude,Not relevant to the research question/topic,uninsured/screening ecological,Breast Cancer Screening and Incidence in Communities With a High Proportion of Uninsured
+243,TA,exclude,Not relevant to the research question/topic,early-onset all-cancer not breast-by-race,"Patterns in Cancer Incidence among People Younger Than 50 Years in the US, 2010 to 2019"
+244,TA,exclude,Not relevant to the research question/topic,treatment receipt,Receipt of standard breast cancer treatment by African American and white women
+245,TA,exclude,Not relevant to the research question/topic,pesticide ecological,Regression analysis of pesticide use and breast cancer incidence in California  Latinas
+246,TA,include,,CCR breast incidence by race/ethnicity across SES,Does socioeconomic disparity in cancer incidence vary across racial/ethnic groups?
+247,TA,exclude,Not relevant to the research question/topic,post-benign-biopsy risk single-center,Subsequent breast cancer risk after benign breast biopsy in racially diverse women: Siteman Cancer Center
+248,TA,exclude,Not relevant to the research question/topic,NCDB TNBC case features not incidence rates,"Features of triple-negative breast cancer Analysis of 38,813 cases from the national cancer database"
+249,TA,exclude,Not relevant to the research question/topic,postmastectomy reconstruction,"Decline in Racial Disparities in Postmastectomy Breast Reconstruction: A  Surveillance, Epidemiology, and End Results Analysis from 1998 to 2014"
+250,TA,exclude,Not relevant to the research question/topic,neighborhood stress risk-factor cohort,Neighborhood disadvantage and individual-level life stressors in relation to breast cancer incidence in US Black women
+251,TA,include,,NAACCR TNBC incidence by area (check race at FT),"Triple-negative breast cancer incidence in the United States: ecological correlations with area-level sociodemographics, healthcare, and health behaviors"
+252,TA,include,,incidence trends black/white postmenopausal MHT era,Forty-year trends in menopausal hormone therapy use and breast cancer incidence  among postmenopausal black and white women
+253,TA,include,,Puerto Rico incidence vs US White/Black,Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females.
+254,TA,exclude,Not relevant to the research question/topic,HR-status incidence not by race,Incidence of invasive breast cancer by hormone receptor status from 1992 to 1998
+255,TA,exclude,Not relevant to the research question/topic,BMI risk-factor case-case,"Body mass index and risk of luminal, HER2-overexpressing, and triple negative breast cancer"
+256,TA,exclude,Not relevant to the research question/topic,BRFSS screening study,"Breast cancer screening among adult women--Behavioral Risk Factor Surveillance System, United States, 2010."
+257,TA,exclude,Not a US population-based/registry study,4-country indigenous comparison,"Cancer incidence in indigenous people in Australia, New Zealand, Canada, and the USA: A comparative population-based study"
+258,TA,exclude,Not relevant to the research question/topic,reconstruction policy,Association of a policy mandating physician-patient communication with racial/ethnic disparities in postmastectomy breast reconstruction
+259,TA,include,,SEER IBC incidence by age/race vs LABC,What can we learn from the age- and race/ethnicity- specific rates of inflammatory breast carcinoma?
+260,TA,exclude,Not relevant to the research question/topic,presentation/treatment/survival under 35,"Racial/ethnic variation in clinical presentation, treatment, and survival among breast cancer patients under age 35"
+261,TA,exclude,Not relevant to the research question/topic,second primary genital cancers,Risk of second primary female genital malignancies in women with breast cancer: A seer analysis
+262,TA,exclude,Not relevant to the research question/topic,staging neighborhood disparities,"A local area analysis of racial, ethnic, and neighborhood disparities in breast  cancer staging"
+263,TA,exclude,Not relevant to the research question/topic,clinical trial participation,"Participation in surgical oncology clinical trials: Gender-, race/ethnicity-, and age-based disparities"
+264,TA,exclude,Not relevant to the research question/topic,Korean-American screening adherence,Analyzing Factors of Breast Cancer Screening Adherence among Korean American  Women Using Andersen's Behavioral Model of Healthcare Services Utilization
+265,TA,include,,SEER black-white incidence age crossover,Age-related crossover in breast cancer incidence rates between black and white ethnic groups
+266,TA,exclude,Not a US population-based/registry study,Peru genetic ancestry HER2,Human epidermal growth factor receptor 2–positive breast cancer is associated with Indigenous American ancestry in Latin American women
+267,TA,exclude,Not relevant to the research question/topic,API absolute-risk model,Projecting individualized absolute invasive breast cancer risk in Asian and pacific islander American women
+268,TA,exclude,Not a US population-based/registry study,East/Southeast Asian international,Recent trends and patterns in breast cancer incidence among Eastern and Southeastern Asian women
+269,TA,exclude,Not relevant to the research question/topic,abortion risk-factor cohort,A prospective study of induced abortion and breast cancer in African-American women
+270,TA,exclude,Not relevant to the research question/topic,hair-relaxer risk-factor cohort,Hair relaxers not associated with breast cancer risk: Evidence from the black women's health study
+271,TA,exclude,Not relevant to the research question/topic,age/histology patterns not by race,Comparison of age distribution patterns for different histopathologic types of breast carcinoma
+272,TA,include,,AIAN national cancer incidence (verify primary data at FT),Cancer rates among American Indians and Alaska Natives: is there a national  perspective
+273,TA,exclude,Not relevant to the research question/topic,Hispanic/NHW risk-factor case-control,Comparative analysis of breast cancer risk factors among hispanic and non-hispanic white women
+274,TA,exclude,Not relevant to the research question/topic,de novo metastatic occurrence by subtype,"Occurrence and outcome of de novo metastatic breast cancer by subtype in a large,  diverse population"
+275,TA,exclude,Not relevant to the research question/topic,Hispanic mortality,Demographic and geographic variations in breast cancer mortality among U.S. Hispanics
+276,TA,exclude,Not a US population-based/registry study,Hong Kong Chinese,Breast cancer in Chinese women younger than age 40: Are they different from their older counterparts?
+277,TA,include,,SEER race/ethnicity age distribution of diagnosis,Race/Ethnicity and Age Distribution of Breast Cancer Diagnosis in the United  States
+278,TA,include,,SEER distant-involvement incidence by race/stage,"Incidence of breast cancer with distant involvement among women in the United States, 1976 to 2009"
+279,TA,exclude,Not a US population-based/registry study,VHA veterans not population-based,Characteristics of women Veterans with incident breast and gynecologic cancers in  the Veterans Health Administration
