@@ -3179,3 +3179,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3177,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",marital status cancer letter,Effect of marital status on cancer incidence and survival rates
 3178,TA,exclude,Not a US population-based/registry study,pedicled TRAM flap Asian,Evolution of the pedicled TRAM flap: A prospective study of 500 consecutive cases by a single surgeon in Asian patients
 3179,TA,exclude,Not relevant to the research question/topic,gabapentin prostatectomy pain trial,"Does Postoperative Gabapentin Reduce Pain, Opioid Consumption & Anxiety & Have a Positive Effect on Health Related Quality of Life After Radical Prostatectomy?"
+3180,TA,exclude,Not relevant to the research question/topic,prostate literacy education trial,Prostate Cancer Symptom Management for Low Literacy Men
+3181,TA,exclude,Not relevant to the research question/topic,indirect method Hispanic group rates methodology,Indirect method to estimate specific Hispanic group cancer rates
+3182,TA,include,,Cancer incidence US Hispanic subgroups vs NHW Florida,"Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos"
+3183,TA,exclude,Not relevant to the research question/topic,cancer risk RA California,Risk of cancer among rheumatoid arthritis patients in California
+3184,TA,exclude,Not relevant to the research question/topic,Laotian California proportionate incidence PIR,"Proportionate cancer incidence in the Laotian population of California, 1988-2006"
+3185,TA,exclude,Not a US population-based/registry study,atomic bomb age at exposure,Heterogeneity of variation of relative risk by age at exposure in the Japanese atomic bomb survivors
+3186,TA,include,,Age-related crossover BC incidence Black White US,Age-Related Crossover in Breast Cancer Incidence Rates between Black and White Women: Implications for Removing Racial Disparities in Breast Cancer Care
+3187,TA,exclude,Not relevant to the research question/topic,IDH1 glioblastoma mutation,Mutational analysis of IDH1 codon 132 in glioblastomas and other common cancers
+3188,TA,include,,Cancer Statistics 2009 US incidence by race,"Cancer statistics, 2009"
+3189,TA,exclude,Not a US population-based/registry study,GSTM1 GSTT1 BC Altai Krai,Studying the association of polymorphic variants of GSTM1 and GSTT1 genes with breast cancer in female residents of altai krai
+3190,TA,exclude,Not relevant to the research question/topic,survivor stories AA QoL trial,Survivor Stories: Impact on Cancer Patients' Quality of Life and Follow-up
+3191,TA,exclude,Not relevant to the research question/topic,GI perforation bevacizumab meta-analysis,Risk of gastrointestinal perforation in patients with cancer treated with bevacizumab: a meta-analysis
+3192,TA,exclude,Not relevant to the research question/topic,MIR mapping SC racial sex disparities,Mapping cancer mortality-to-incidence ratios to illustrate racial and sex disparities in a high-risk population
+3193,TA,exclude,Not relevant to the research question/topic,cancer incidence US military ACTUR vs SEER,Cancer incidence in the U.S. military population: Comparison with rates from the SEER Program
+3194,TA,exclude,Not relevant to the research question/topic,SES BC tumor biology prognosis review,The influence of socioeconomic disparities on breast cancer tumor biology and prognosis: A review
+3195,TA,exclude,Not a US population-based/registry study,Lynch endometrial China conference,Clinicopathological features of endometrial carcinoma associated with lynch syndrome in China
+3196,TA,exclude,Not a US population-based/registry study,letrozole QoL Korea trial,"Assessment of Quality of Life, Bone Density and Safety in Postmenopausal Breast Cancer Patients With Letrozole (Femara) as an Early Adjuvant Treatment"
+3197,TA,exclude,Not a US population-based/registry study,ethnicity cancer Guyana,"Ethnicity and cancer in Guyana, South America"
+3198,TA,exclude,Not a US population-based/registry study,Lynch endometrial China,Clinicopathological features in endometrial carcinoma associated with Lynch syndrome in China
+3199,TA,exclude,Not a US population-based/registry study,downstage BC Brazil cohort,A model to optimize public health care and downstage breast cancer in limited-resource populations in southern Brazil. (Porto Alegre Breast Health Intervention Cohort)
+3200,TA,exclude,Not relevant to the research question/topic,ethnicity body size estrogen Hispanic NHW,"Ethnicity, body size, and estrogen levels in postmenopausal hispanic and non-hispanic white women"
+3201,TA,exclude,Not relevant to the research question/topic,Gaucher disease cancer risk,The underrecognized progressive nature of N370S Gaucher disease and assessment of cancer risk in 403 patients
+3202,TA,exclude,Not relevant to the research question/topic,telomere length BC Long Island,"Telomere length, oxidative damage, antioxidants and breast cancer risk"
+3203,TA,exclude,Not a US population-based/registry study,Polish cancer anemia survey,The Polish Cancer Anemia Survey (POLCAS): A retrospective multicenter study of 999 cases
+3204,TA,exclude,Not a US population-based/registry study,premenopausal hormones Mongolia,Premenopausal Hormone Concentrations in a Population of Women at Very Low Risk of Breast Cancer
+3205,TA,exclude,Not relevant to the research question/topic,PCB occupational BC risk cohort,Occupational exposure to polychlorinated biphenyls and risk of breast cancer
+3206,TA,exclude,Not relevant to the research question/topic,Korean American screening CHW trial,Better Breast and Cervical Cancer Control for Korean American Women
+3207,TA,exclude,Not a US population-based/registry study,mammographic screening Asian Singapore,Early detection of breast cancer through population-based mammographic screening in Asian women: A comparison study between screen-detected and symptomatic breast cancers
+3208,TA,exclude,Not a US population-based/registry study,SES cancer survival New Zealand,Socioeconomic inequalities in cancer survival in New Zealand: The role of extent of disease at diagnosis
+3209,TA,exclude,Not relevant to the research question/topic,VTE cancer epidemiology review,Venous thromboembolism (VTE) in patients with cancer: Epidemiology and risk factors
+3210,TA,exclude,Not relevant to the research question/topic,de novo solid malignancy heart transplant SEER,Comparison of the Incidence of De Novo Solid Malignancies After Heart Transplantation to That in the General Population
+3211,TA,exclude,Not a US population-based/registry study,aprepitant CINV Chinese trial,"A randomized study of aprepitant, ondansetron and dexamethasone for chemotherapy-induced nausea and vomiting in Chinese breast cancer patients receiving moderately emetogenic chemotherapy"
+3212,TA,include,,Fifty years cancer Seneca Nation American Indian NY registry,Fifty years of cancer in an American Indian population
+3213,TA,exclude,Not relevant to the research question/topic,epidemiology BC Japan US short survey,Epidemiology of breast cancer in Japan and the US
+3214,TA,exclude,Not relevant to the research question/topic,cervical cancer prevention women's health,Cervical Cancer Prevention in Women's Health
+3215,TA,exclude,Not relevant to the research question/topic,arm lymphedema Black White risk factors,Risk factors for arm lymphedema following breast cancer diagnosis in Black women and White women
+3216,TA,exclude,Not relevant to the research question/topic,galectin-3 rs4644 racial disparity pilot,Racial disparity in breast cancer and functional germ line mutation in galectin-3 (rs4644): A pilot study
+3217,TA,exclude,Not relevant to the research question/topic,P-cadherin nipple aspirate fluid,Increased shedding of soluble fragments of P-cadherin in nipple aspirate fluids from women with breast cancer
+3218,TA,exclude,Not relevant to the research question/topic,estrogens Alzheimer prevention trial,"A multi-center, randomized, double blind placebo-controlled trial of estrogens to prevent Alzheimer's disease and loss of memory in women: Design and baseline characteristics"
+3219,TA,exclude,Not relevant to the research question/topic,TNBC CNS metastases Dana-Farber,Sites of distant recurrence and clinical outcomes in patients with metastatic triple-negative breast cancer: High incidence of central nervous system metastases
+3220,TA,exclude,Not a US population-based/registry study,obesity cancer postmenopausal Korea,Obesity and risk of cancer in postmenopausal Korean Women
+3221,TA,exclude,Not a US population-based/registry study,immunosuppression kidney recipients,Comparison of four different immunosuppression protocols without long-term steroid therapy in kidney recipients monitored by surveillance biopsy: Five-year outcomes
+3222,TA,exclude,Not a US population-based/registry study,BMI cancer Korean men women,Body mass index and cancer risk in Korean men and women
+3223,TA,exclude,Not a US population-based/registry study,soybean BC receptor status Japan,Effect of soybean on breast cancer according to receptor status: A case-control study in Japan
+3224,TA,exclude,Not a US population-based/registry study,reproductive demographic BC China modeling,Effects of reproductive and demographic changes on breast cancer incidence in China: A modeling analysis
+3225,TA,exclude,Not a US population-based/registry study,soy mammographic density RCT,Soy protein containing isoflavones and mammographic density in a randomized controlled trial in postmenopausal women
+3226,TA,exclude,Not a US population-based/registry study,SPM young BC Taiwan,Increased risk for second primary malignancies in women with breast cancer diagnosed at young age: A population-based study in Taiwan
+3227,TA,exclude,Not a US population-based/registry study,cancer mortality ID Israel,Residential care centers for persons with intellectual disability in Israel. Trends in cancer mortality during 1991-2005
+3228,TA,include,,Cancer disparities Indian/Pakistani immigrants US SEER 1988-2003,"Cancer health disparities among Indian and Pakistani immigrants in the United States a Surveillance, Epidemiology, and End Results-based study from 1988 to 2003"
+3229,TA,exclude,Not relevant to the research question/topic,HDL-cholesterol BC ARIC,HDL-Cholesterol and Incidence of Breast Cancer in the ARIC Cohort Study
+3230,TA,include,,Cancer AIAN young adults US 1999-2004 vs NHW,"Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004"
+3231,TA,exclude,Not relevant to the research question/topic,bisphosphonate osteonecrosis management,Bisphosphonate-associated osteonecrosis: a clinician's reference to patient management.
+3232,TA,exclude,Not a US population-based/registry study,brain function chemo Asian trial,Evaluation of Brain Function Before and After Standard Chemotherapy for Early Breast Cancer
+3233,TA,exclude,Not a US population-based/registry study,BRCA1/2 Chinese Han high-risk,The prevalence of BRCA1 and BRCA2 germline mutations in high-risk breast cancer patients of Chinese Han nationality: Two recurrent mutations were identified
+3234,TA,exclude,Not a US population-based/registry study,diet lifestyle BC progression trial,"The Role of Diet, Complementary Treatment and Lifestyle in Breast Cancer Progression and Survival"
+3235,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",HT US BC incidence critical reflections,Hormone therapy and the rise and perhaps fall of US breast cancer incidence rates: Critical reflections
+3236,TA,exclude,Not a US population-based/registry study,cardiotoxic CMR trial Canada,Characterization of the Cardiotoxic Effects of Chemotherapies With Anthracyclines and Trastuzumab for Breast Cancer by Contrast-enhanced Cardiovascular Magnetic Resonance Imaging (CMR).
+3237,TA,exclude,Not a US population-based/registry study,steroid hormone genes Chinese,Polymorphisms in steroid hormone biosynthesis genes and risk of breast cancer and fibrocystic breast conditions in Chinese women
+3238,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",gossypiboma Tc-99m Korean case,Focal uptake of Tc-99m MDP in a gossypiboma
+3239,TA,exclude,Not relevant to the research question/topic,Latina decision support intervention,Latina a Latina(SM): Developing a breast cancer decision support intervention

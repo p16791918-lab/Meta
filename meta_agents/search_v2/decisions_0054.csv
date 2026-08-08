@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3180,exclude,Not relevant to the research question/topic,prostate literacy education trial
+3181,exclude,Not relevant to the research question/topic,indirect method Hispanic group rates methodology
+3182,include,,Cancer incidence US Hispanic subgroups vs NHW Florida
+3183,exclude,Not relevant to the research question/topic,cancer risk RA California
+3184,exclude,Not relevant to the research question/topic,Laotian California proportionate incidence PIR
+3185,exclude,Not a US population-based/registry study,atomic bomb age at exposure
+3186,include,,Age-related crossover BC incidence Black White US
+3187,exclude,Not relevant to the research question/topic,IDH1 glioblastoma mutation
+3188,include,,Cancer Statistics 2009 US incidence by race
+3189,exclude,Not a US population-based/registry study,GSTM1 GSTT1 BC Altai Krai
+3190,exclude,Not relevant to the research question/topic,survivor stories AA QoL trial
+3191,exclude,Not relevant to the research question/topic,GI perforation bevacizumab meta-analysis
+3192,exclude,Not relevant to the research question/topic,MIR mapping SC racial sex disparities
+3193,exclude,Not relevant to the research question/topic,cancer incidence US military ACTUR vs SEER
+3194,exclude,Not relevant to the research question/topic,SES BC tumor biology prognosis review
+3195,exclude,Not a US population-based/registry study,Lynch endometrial China conference
+3196,exclude,Not a US population-based/registry study,letrozole QoL Korea trial
+3197,exclude,Not a US population-based/registry study,ethnicity cancer Guyana
+3198,exclude,Not a US population-based/registry study,Lynch endometrial China
+3199,exclude,Not a US population-based/registry study,downstage BC Brazil cohort
+3200,exclude,Not relevant to the research question/topic,ethnicity body size estrogen Hispanic NHW
+3201,exclude,Not relevant to the research question/topic,Gaucher disease cancer risk
+3202,exclude,Not relevant to the research question/topic,telomere length BC Long Island
+3203,exclude,Not a US population-based/registry study,Polish cancer anemia survey
+3204,exclude,Not a US population-based/registry study,premenopausal hormones Mongolia
+3205,exclude,Not relevant to the research question/topic,PCB occupational BC risk cohort
+3206,exclude,Not relevant to the research question/topic,Korean American screening CHW trial
+3207,exclude,Not a US population-based/registry study,mammographic screening Asian Singapore
+3208,exclude,Not a US population-based/registry study,SES cancer survival New Zealand
+3209,exclude,Not relevant to the research question/topic,VTE cancer epidemiology review
+3210,exclude,Not relevant to the research question/topic,de novo solid malignancy heart transplant SEER
+3211,exclude,Not a US population-based/registry study,aprepitant CINV Chinese trial
+3212,include,,Fifty years cancer Seneca Nation American Indian NY registry
+3213,exclude,Not relevant to the research question/topic,epidemiology BC Japan US short survey
+3214,exclude,Not relevant to the research question/topic,cervical cancer prevention women's health
+3215,exclude,Not relevant to the research question/topic,arm lymphedema Black White risk factors
+3216,exclude,Not relevant to the research question/topic,galectin-3 rs4644 racial disparity pilot
+3217,exclude,Not relevant to the research question/topic,P-cadherin nipple aspirate fluid
+3218,exclude,Not relevant to the research question/topic,estrogens Alzheimer prevention trial
+3219,exclude,Not relevant to the research question/topic,TNBC CNS metastases Dana-Farber
+3220,exclude,Not a US population-based/registry study,obesity cancer postmenopausal Korea
+3221,exclude,Not a US population-based/registry study,immunosuppression kidney recipients
+3222,exclude,Not a US population-based/registry study,BMI cancer Korean men women
+3223,exclude,Not a US population-based/registry study,soybean BC receptor status Japan
+3224,exclude,Not a US population-based/registry study,reproductive demographic BC China modeling
+3225,exclude,Not a US population-based/registry study,soy mammographic density RCT
+3226,exclude,Not a US population-based/registry study,SPM young BC Taiwan
+3227,exclude,Not a US population-based/registry study,cancer mortality ID Israel
+3228,include,,Cancer disparities Indian/Pakistani immigrants US SEER 1988-2003
+3229,exclude,Not relevant to the research question/topic,HDL-cholesterol BC ARIC
+3230,include,,Cancer AIAN young adults US 1999-2004 vs NHW
+3231,exclude,Not relevant to the research question/topic,bisphosphonate osteonecrosis management
+3232,exclude,Not a US population-based/registry study,brain function chemo Asian trial
+3233,exclude,Not a US population-based/registry study,BRCA1/2 Chinese Han high-risk
+3234,exclude,Not a US population-based/registry study,diet lifestyle BC progression trial
+3235,exclude,"Editorials, commentaries, letters, or conference abstracts",HT US BC incidence critical reflections
+3236,exclude,Not a US population-based/registry study,cardiotoxic CMR trial Canada
+3237,exclude,Not a US population-based/registry study,steroid hormone genes Chinese
+3238,exclude,"Editorials, commentaries, letters, or conference abstracts",gossypiboma Tc-99m Korean case
+3239,exclude,Not relevant to the research question/topic,Latina decision support intervention
