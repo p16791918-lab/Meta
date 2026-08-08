@@ -3419,3 +3419,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3417,TA,exclude,Not a US population-based/registry study,cancer Sami Northern Finland,"Cancer incidence among Sami in Northern Finland, 1979-1998"
 3418,TA,exclude,Not relevant to the research question/topic,oral contraceptives BC risk case-control,Oral contraceptives and the risk of breast cancer
 3419,TA,exclude,Not relevant to the research question/topic,drug metabolizing enzymes Hodgkin second cancers,Polymorphisms of drug metabolizing enzymes and markers of genotoxicity to identify patients with Hodgkin's lymphoma at risk of treatment-related complications
+3420,TA,exclude,Not a US population-based/registry study,Jamaica cancer mortality 1999,"Jamaica cancer mortality statistics, 1999"
+3421,TA,exclude,Not a US population-based/registry study,cancer immigrants Sweden SIR,Cancer risks in first-generation immigrants to Sweden
+3422,TA,exclude,Not relevant to the research question/topic,pegfilgrastim FN docetaxel trial,"A Double-Blind, Placebo-Controlled, Multicenter, Randomized Study Evaluating the Prophylactic Use of Pegfilgrastim on the Incidence of Febrile Neutropenia in Subjects With Advanced Breast Cancer Treated With Single Agent Docetaxel"
+3423,TA,exclude,Not a US population-based/registry study,AIB1 prostate China,Polymorphic CAG/CAA repeat length in the AIB1/SRC-3 gene and prostate cancer risk: A population-based case-control study
+3424,TA,exclude,Not a US population-based/registry study,male BC Israel Ashkenazi,Male breast carcinoma in Israel: Higher incidence but possibly better prognosis in Ashkenazi Jews
+3425,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",recent trends BC incidence mortality conference,Recent trends in breast cancer incidence and mortality
+3426,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",smoking BC epidemiology conference,Smoking (active and passive) and breast cancer: Epidemiologic evidence up to June 2001
+3427,TA,exclude,Not relevant to the research question/topic,cancer incidence Jewish women ovarian risk,Cancer incidence in a population of Jewish women at risk of ovarian cancer
+3428,TA,exclude,Not a US population-based/registry study,BRCA2 uveal melanoma Israeli,Prevalence of the BRCA2 6174 del T mutation in Israeli uveal melanoma patients
+3429,TA,include,,Cancer Statistics 2002 US incidence by race,"Cancer statistics, 2002"
+3430,TA,exclude,Not relevant to the research question/topic,Chinese herbal therapy BC trial,"A Randomized, Double Blind, Pacebo-Controlled Study to Assess The Feasibility, Toxicity And Efficacy (Phase I/II) Of A Chinese Herbal Therapy (CHT) For Symptom Management In Women Undergoing Chemotherapy For Stage I/II/III Breast Cancer"
+3431,TA,exclude,Not relevant to the research question/topic,lighting day night BC hypothesis,Lighting during the day and night: Possible impact on risk of breast cancer
+3432,TA,exclude,Not relevant to the research question/topic,non-founder BRCA Ashkenazi families,Incidence of non-founder BRCA1 and BRCA2 mutations in high risk Ashkenazi breast and ovarian cancer families
+3433,TA,exclude,Not a US population-based/registry study,BC screening Taiwan China,Breast cancer screening in Taiwan and China
+3434,TA,exclude,Not relevant to the research question/topic,high-risk breast duct epithelium trial,"Characterization of High-Risk Breast Duct Epithelium by Cytology, Breast Duct Endoscopy, and cDNA Gene Expression Profile"
+3435,TA,exclude,Not a US population-based/registry study,serum antioxidant cancer Kuwait,Serum antioxidant and cholesterol levels in patients with different types of cancer
+3436,TA,exclude,Not relevant to the research question/topic,mammogram utilization diabetes,Screening mammogram utilization in women with diabetes.
+3437,TA,exclude,Not a US population-based/registry study,passive smoking cancer Japanese,Passive smoking at home and cancer risk: A population-based prospective study in Japanese nonsmoking women
+3438,TA,exclude,Not relevant to the research question/topic,second cancers after conservative surgery BC,Second cancers after conservative surgery and radiation for stages I-II breast cancer: Identifying a subset of women at increased risk
+3439,TA,exclude,Not a US population-based/registry study,eye color ocular melanoma Australia,Eye color and cutaneous nevi predict risk of ocular melanoma in Australia
+3440,TA,exclude,Not relevant to the research question/topic,bevacizumab IBC LABC trial,A Pilot Study to Evaluate Angiogenesis After Treatment With Bevacizumab (Anti-VEGF Humanized Monoclonal Antibody) in Previously Untreated Patients With Inflammatory Breast Cancer or Locally Advanced Breast Cancer
+3441,TA,exclude,Not relevant to the research question/topic,shoulder arm problems RT BC,Shoulder and arm problems after radiotherapy for primary breast cancer
+3442,TA,exclude,Not relevant to the research question/topic,RIZ allele HCC LOH,Preferential loss of a polymorphic RIZ allele in human hepatocellular carcinoma
+3443,TA,exclude,Not a US population-based/registry study,genetic imbalances pT2 BC southern Chinese,Genetic imbalances in pT2 breast cancers of southern Chinese women
+3444,TA,exclude,Not relevant to the research question/topic,ER-alpha phytoestrogens BC cells,Estrogen receptor α mediates the proliferative but not the cytotoxic dose-dependent effects of two major phytoestrogens on human breast cancer cells
+3445,TA,exclude,Not a US population-based/registry study,FFQ isoflavone Japanese,Validity and reproducibility of a self-administered food-frequency questionnaire to assess isoflavone intake in a Japanese population in comparison with dietary records and blood and urine isoflavones
+3446,TA,exclude,Not relevant to the research question/topic,constant incidence twins relatives BC,High constant incidence in twins and other relatives of women with breast cancer
+3447,TA,exclude,Not relevant to the research question/topic,brown rice phenols cancer cells,Characterization of potentially chemopreventive phenols in extracts of brown rice that inhibit the growth of human breast and colon cancer cells
+3448,TA,exclude,Not relevant to the research question/topic,HER-2/neu pre-existent immunity,Pre-existent immunity to the HER-2/neu oncogenic protein in patients with HER-2/neu overexpressing breast and ovarian cancer
+3449,TA,exclude,Not relevant to the research question/topic,SPM renal cell carcinoma,Second primary malignancies associated with renal cell carcinoma: Influence of histologic type
+3450,TA,exclude,Not relevant to the research question/topic,BRCA1/2 Ashkenazi ovarian,BRCA1 and BRCA2 mutation analysis of 208 Ashkenazi Jewish women with ovarian cancer
+3451,TA,exclude,Not a US population-based/registry study,menstrual reproductive BC Shanghai,Association of menstrual and reproductive factors with breast cancer risk: Results from the Shanghai breast cancer study
+3452,TA,exclude,Not relevant to the research question/topic,BRCA1 uterine serous papillary,BRCA1 germline mutations in women with uterine serous papillary carcinoma
+3453,TA,exclude,Not relevant to the research question/topic,pathological node status preop chemo T3N0,Prognostic implications of pathological lymph node status after preoperative chemotherapy for operable T3N0M0 breast cancer
+3454,TA,exclude,Not relevant to the research question/topic,axillary node mets T1a T1b,Predictive factors associated with axillary lymph node metastases in T1a and T1b breast carcinomas: Analysis in more than 900 patients
+3455,TA,exclude,Not a US population-based/registry study,prostate familial breast relatives French,Early onset and familial predisposition to prostate cancer significantly enhance the probability for breast cancer in first degree relatives
+3456,TA,exclude,Not relevant to the research question/topic,cancer prevalence SEER CTR methods,"Cancer prevalence estimates based on tumour registry data in the Surveillance, Epidemiology, and End Results (SEER) program"
+3457,TA,exclude,Not relevant to the research question/topic,breastfeeding duration low income,Breastfeeding duration among low income women
+3458,TA,exclude,Not relevant to the research question/topic,BC diagnosed during HRT,Breast cancer diagnosed during hormone replacement therapy
+3459,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC epidemiology multiracial conference review,"Epidemiology, stage at diagnosis, and tumor biology of breast carcinoma in multiracial and multiethnic populations"
+3460,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",migration patterns BC AIAN conference review,Migration patterns and breast carcinoma
+3461,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",community involvement research conference,Changing the research paradigm: Community involvement in population- based research
+3462,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",excess burden BC minority conference,"The excess burden of breast carcinoma in minority and medically underserved communities: Application, research, and redressing institutional racism"
+3463,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC etiology black white reproductive conference,Breast carcinoma etiology: Current knowledge and new insights into the effects of reproductive and hormonal risk factors in black and white populations
+3464,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",diet BC multiethnic conference review,Diet and breast carcinoma in multiethnic populations
+3465,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",SES BC multicultural conference review,Socioeconomic factors and breast carcinoma in multicultural women
+3466,TA,exclude,Not relevant to the research question/topic,AIB1 glutamine repeat prostate,Amplified in breast cancer-1 glutamine repeat and prostate cancer risk
+3467,TA,exclude,Not relevant to the research question/topic,multiethnic cohort Hawaii LA baseline design,A multiethnic cohort in Hawaii and Los Angeles: Baseline characteristics
+3468,TA,exclude,Not a US population-based/registry study,cancer incidence Karachi Pakistan,"Cancer incidence in Karachi, Pakistan: First results from Karachi Cancer Registry"
+3469,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",genistein soy protection conference,Protection against breast cancer with genistein: A component of soy
+3470,TA,exclude,Not relevant to the research question/topic,pediatric cancer mortality SEER,Temporal trends in pediatric cancer mortality: rare cancers lag behind more common cancers
+3471,TA,exclude,Not relevant to the research question/topic,plain language cancer statistics 2022 lung,Plain language summary of 2022 cancer statistics: Focus on lung cancer
+3472,TA,exclude,Not a US population-based/registry study,global BMI cancer GBD older adults,"Global burden, trends, and inequalities in cancer and subtypes attributable to high BMI among older adults, 1990–2021: a secondary analysis of the global burden of disease study 2021"
+3473,TA,exclude,Not relevant to the research question/topic,BC detection method California CHIS,Factors associated with breast cancer detection method in California women: an analysis of California Health Interview Survey data
+3474,TA,exclude,Not a US population-based/registry study,global BC burden book chapter,Global epidemiological status of breast cancer burden: Potential reduction strategies and preventive measures
+3475,TA,exclude,Not relevant to the research question/topic,dexamethasone docetaxel premedication safety net,Comparative study of dexamethasone premedication regimens with docetaxel chemotherapy in early HER-2 positive breast cancer: A safety net hospital experience
+3476,TA,exclude,Not relevant to the research question/topic,FDA ribociclib male BC approval,"FDA Approval Summary: Ribociclib Indicated for Male Patients with Hormone Receptor–Positive, HER2-Negative Advanced or Metastatic Breast Cancer"
+3477,TA,exclude,Not relevant to the research question/topic,ECOG performance status Kaiser,Revisiting the Association of ECOG Performance Status With Clinical Outcomes in Diverse Patients With Cancer
+3478,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",mammography age 40 opinion,Mammography Screening Should Begin at Age 40 Years
+3479,TA,exclude,Not relevant to the research question/topic,mucoepidermoid carcinoma breast case,Mucoepidermoid carcinoma—a rare salivary gland-type tumor of the breast: are we dealing with primary or secondary?—a case report and literature review

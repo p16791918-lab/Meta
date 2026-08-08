@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3420,exclude,Not a US population-based/registry study,Jamaica cancer mortality 1999
+3421,exclude,Not a US population-based/registry study,cancer immigrants Sweden SIR
+3422,exclude,Not relevant to the research question/topic,pegfilgrastim FN docetaxel trial
+3423,exclude,Not a US population-based/registry study,AIB1 prostate China
+3424,exclude,Not a US population-based/registry study,male BC Israel Ashkenazi
+3425,exclude,"Editorials, commentaries, letters, or conference abstracts",recent trends BC incidence mortality conference
+3426,exclude,"Editorials, commentaries, letters, or conference abstracts",smoking BC epidemiology conference
+3427,exclude,Not relevant to the research question/topic,cancer incidence Jewish women ovarian risk
+3428,exclude,Not a US population-based/registry study,BRCA2 uveal melanoma Israeli
+3429,include,,Cancer Statistics 2002 US incidence by race
+3430,exclude,Not relevant to the research question/topic,Chinese herbal therapy BC trial
+3431,exclude,Not relevant to the research question/topic,lighting day night BC hypothesis
+3432,exclude,Not relevant to the research question/topic,non-founder BRCA Ashkenazi families
+3433,exclude,Not a US population-based/registry study,BC screening Taiwan China
+3434,exclude,Not relevant to the research question/topic,high-risk breast duct epithelium trial
+3435,exclude,Not a US population-based/registry study,serum antioxidant cancer Kuwait
+3436,exclude,Not relevant to the research question/topic,mammogram utilization diabetes
+3437,exclude,Not a US population-based/registry study,passive smoking cancer Japanese
+3438,exclude,Not relevant to the research question/topic,second cancers after conservative surgery BC
+3439,exclude,Not a US population-based/registry study,eye color ocular melanoma Australia
+3440,exclude,Not relevant to the research question/topic,bevacizumab IBC LABC trial
+3441,exclude,Not relevant to the research question/topic,shoulder arm problems RT BC
+3442,exclude,Not relevant to the research question/topic,RIZ allele HCC LOH
+3443,exclude,Not a US population-based/registry study,genetic imbalances pT2 BC southern Chinese
+3444,exclude,Not relevant to the research question/topic,ER-alpha phytoestrogens BC cells
+3445,exclude,Not a US population-based/registry study,FFQ isoflavone Japanese
+3446,exclude,Not relevant to the research question/topic,constant incidence twins relatives BC
+3447,exclude,Not relevant to the research question/topic,brown rice phenols cancer cells
+3448,exclude,Not relevant to the research question/topic,HER-2/neu pre-existent immunity
+3449,exclude,Not relevant to the research question/topic,SPM renal cell carcinoma
+3450,exclude,Not relevant to the research question/topic,BRCA1/2 Ashkenazi ovarian
+3451,exclude,Not a US population-based/registry study,menstrual reproductive BC Shanghai
+3452,exclude,Not relevant to the research question/topic,BRCA1 uterine serous papillary
+3453,exclude,Not relevant to the research question/topic,pathological node status preop chemo T3N0
+3454,exclude,Not relevant to the research question/topic,axillary node mets T1a T1b
+3455,exclude,Not a US population-based/registry study,prostate familial breast relatives French
+3456,exclude,Not relevant to the research question/topic,cancer prevalence SEER CTR methods
+3457,exclude,Not relevant to the research question/topic,breastfeeding duration low income
+3458,exclude,Not relevant to the research question/topic,BC diagnosed during HRT
+3459,exclude,"Editorials, commentaries, letters, or conference abstracts",BC epidemiology multiracial conference review
+3460,exclude,"Editorials, commentaries, letters, or conference abstracts",migration patterns BC AIAN conference review
+3461,exclude,"Editorials, commentaries, letters, or conference abstracts",community involvement research conference
+3462,exclude,"Editorials, commentaries, letters, or conference abstracts",excess burden BC minority conference
+3463,exclude,"Editorials, commentaries, letters, or conference abstracts",BC etiology black white reproductive conference
+3464,exclude,"Editorials, commentaries, letters, or conference abstracts",diet BC multiethnic conference review
+3465,exclude,"Editorials, commentaries, letters, or conference abstracts",SES BC multicultural conference review
+3466,exclude,Not relevant to the research question/topic,AIB1 glutamine repeat prostate
+3467,exclude,Not relevant to the research question/topic,multiethnic cohort Hawaii LA baseline design
+3468,exclude,Not a US population-based/registry study,cancer incidence Karachi Pakistan
+3469,exclude,"Editorials, commentaries, letters, or conference abstracts",genistein soy protection conference
+3470,exclude,Not relevant to the research question/topic,pediatric cancer mortality SEER
+3471,exclude,Not relevant to the research question/topic,plain language cancer statistics 2022 lung
+3472,exclude,Not a US population-based/registry study,global BMI cancer GBD older adults
+3473,exclude,Not relevant to the research question/topic,BC detection method California CHIS
+3474,exclude,Not a US population-based/registry study,global BC burden book chapter
+3475,exclude,Not relevant to the research question/topic,dexamethasone docetaxel premedication safety net
+3476,exclude,Not relevant to the research question/topic,FDA ribociclib male BC approval
+3477,exclude,Not relevant to the research question/topic,ECOG performance status Kaiser
+3478,exclude,"Editorials, commentaries, letters, or conference abstracts",mammography age 40 opinion
+3479,exclude,Not relevant to the research question/topic,mucoepidermoid carcinoma breast case
