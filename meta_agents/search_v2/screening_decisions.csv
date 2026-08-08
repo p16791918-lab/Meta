@@ -2659,3 +2659,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 2657,TA,exclude,Not a US population-based/registry study,esophageal Malawi case-control,"A Case-Control Study of Esophageal Squamous Cell Carcinoma in Lilongwe, Malawi"
 2658,TA,exclude,Not relevant to the research question/topic,acupressure lupus fatigue,Acupressure for Persistent Fatigue in Systemic Lupus Erythematosus Patients
 2659,TA,exclude,Not a US population-based/registry study,cause-specific mortality BCIS Sweden,Cause-specific mortality in women with breast cancer in situ
+2660,TA,exclude,Not a US population-based/registry study,IBIS/BOADICEA validation Iran,Validating the IBIS and BOADICEA Models for Predicting Breast Cancer Risk in the Iranian Population
+2661,TA,exclude,Not relevant to the research question/topic,BC disparities home/abroad review,Breast cancer disparities at home and abroad: A review of the challenges and opportunities for system-level change
+2662,TA,exclude,Not a US population-based/registry study,mammographic density 22 countries,Mammographic density and ageing: A collaborative pooled analysis of cross-sectional data from 22 countries worldwide
+2663,TA,exclude,Not a US population-based/registry study,cancer incidence Hebei China,"Cancer incidence and mortality in Hebei province, 2013"
+2664,TA,exclude,Not a US population-based/registry study,Druze Arab Jewish Israel,"Lower Cancer Rates Among Druze Compared to Arab and Jewish Populations in Israel, 1999-2009"
+2665,TA,exclude,Not a US population-based/registry study,thyroid abnormality Chinese trial,A Prospective Study to Assess Both Thyroid Abnormity Incidence In Chinese Women With Newly Diagnosed Breast Cancer and Thyroid Toxicity of Breast Cancer Patients Undergoing Chemotherapy
+2666,TA,exclude,Not a US population-based/registry study,TDLU involution Chinese,Age-related terminal duct lobular unit involution in benign tissues from Chinese breast cancer patients with luminal and triple-negative tumors
+2667,TA,exclude,Not a US population-based/registry study,BC trends Shanghai Hong Kong,Disparities of time trends and birth cohort effects on invasive breast cancer incidence in Shanghai and Hong Kong pre- and post-menopausal women
+2668,TA,exclude,Not a US population-based/registry study,trastuzumab digestive China trial,"Multicenter, Phase II Study of Chemotherapy in Combination With Trastuzumab in Patients of Pretreated, HER2 Positive, Relapse or Metastatic Carcinoma of Digestive System"
+2669,TA,exclude,Not a US population-based/registry study,PRECAMA Latin America case-control,Molecular Subtypes of Premenopausal Breast Cancer in Latin American Women (PRECAMA): a Multicenter Population-based Case-control Study
+2670,TA,exclude,Not relevant to the research question/topic,TENS nausea vomit trial,Transcutaneous Electric Nerve Stimulation Effects on Nausea and Vomit Chemotherapy-induced
+2671,TA,exclude,Not relevant to the research question/topic,CA125 ovarian pooled analysis,Predictors of pretreatment CA125 at ovarian cancer diagnosis: a pooled analysis in the Ovarian Cancer Association Consortium
+2672,TA,exclude,Not a US population-based/registry study,BC incidence/mortality China 2013,"Female breast cancer incidence and mortality in China, 2013"
+2673,TA,exclude,Not relevant to the research question/topic,menopause aromatase expression,"Menopause is a determinant of breast aromatase expression and its associations with BMI, inflammation, and systemic markers"
+2674,TA,exclude,Not a US population-based/registry study,urban-rural UGIC China,Urban-Rural Disparity in Helicobacter Pylori Infection–Related Upper Gastrointestinal Cancer in China and the Decreasing Trend in Parallel with Socioeconomic Development and Urbanization in an Endemic Area
+2675,TA,exclude,Not a US population-based/registry study,ethnic differences cancer Norway,Ethnic differences in the incidence of cancer in Norway
+2676,TA,exclude,Not a US population-based/registry study,PIH BC Taiwan,Do racial differences exist in the association between pregnancy-induced hypertension and breast cancer risk?
+2677,TA,exclude,Not a US population-based/registry study,lymphedema nomogram China,Validation of a breast cancer nomogram to predict lymphedema in a Chinese population
+2678,TA,exclude,Not a US population-based/registry study,metabolic syndrome BC Korea,Metabolic syndrome and incidence of breast cancer in middle-aged Korean women: a nationwide cohort study
+2679,TA,exclude,Not a US population-based/registry study,TNBC races Singapore,Incidence and prognosis of non-metastatic triple negative breast cancer (TNBC) among different races in Southeast Asia
+2680,TA,exclude,Not relevant to the research question/topic,body fat depots Dallas Heart Study,An Analysis of Individual Body Fat Depots and Risk of Developing Cancer: Insights From the Dallas Heart Study
+2681,TA,exclude,Not relevant to the research question/topic,housing discrimination colorectal Wisconsin,"Housing discrimination, residential racial segregation, and colorectal cancer survival in southeastern Wisconsin"
+2682,TA,exclude,Not a US population-based/registry study,depression mastectomy Korea,Depression in breast cancer patients who have undergone mastectomy: A national cohort study
+2683,TA,exclude,Not relevant to the research question/topic,myoepithelial carcinoma SEER,"Incidence patterns for myoepithelial carcinoma: A Surveillance, Epidemiology, and End Results (SEER) study"
+2684,TA,exclude,Not relevant to the research question/topic,pertuzumab diarrhea incidence,Incidence and management of diarrhea in patients with HER2-positive breast cancer treated with pertuzumab
+2685,TA,exclude,Not a US population-based/registry study,cancer burden Colombia projections,The effect of aging on the burden of cancer in Colombia: projections for the top five frequently occurring cancers in Colombia by Department and gender for 2020 and 2050
+2686,TA,exclude,Not a US population-based/registry study,volumetric density ANN Japanese,Automatic Estimation of Volumetric Breast Density Using Artificial Neural Network-Based Calibration of Full-Field Digital Mammography: Feasibility on Japanese Women With and Without Breast Cancer
+2687,TA,exclude,Not relevant to the research question/topic,ER status imputation SEER methods,Imputing estrogen receptor (ER) status in a population-based cancer registry: a sensitivity analysis
+2688,TA,exclude,Not a US population-based/registry study,SES inequalities cancer New Zealand,Changing socioeconomic inequalities in cancer incidence and mortality: Cohort study with 54 million person-years follow-up 1981–2011
+2689,TA,exclude,Not relevant to the research question/topic,cancer mortality Hispanic groups Florida,Cancer mortality in hispanic ethnic groups
+2690,TA,exclude,Not a US population-based/registry study,BC risk models screening Chinese,Comparison of Breast Cancer Risk Predictive Models and Screening Strategies for Chinese Women
+2691,TA,exclude,Not relevant to the research question/topic,atrial fibrillation BC WHI,The associations of atrial fibrillation with the risks of incident invasive breast and colorectal cancers
+2692,TA,exclude,Not a US population-based/registry study,depression anxiety BC Sweden,"Time-dependent risk of depression, anxiety, and stress-related disorders in patients with invasive and in situ breast cancer"
+2693,TA,exclude,Not a US population-based/registry study,MSH2 early-onset Taiwan,MSH2 rs2303425 Polymorphism is Associated with Early-Onset Breast Cancer in Taiwan
+2694,TA,exclude,Not a US population-based/registry study,male BC Japanese atomic bomb,Male breast cancer incidence and mortality risk in the Japanese atomic bomb survivors – Differences in excess relative and absolute risk from female breast cancer
+2695,TA,exclude,Not a US population-based/registry study,breast anthropomorphic Asian,"A prospective study of breast anthropomorphic measurements, volume & ptosis in 605 Asian patients with breast cancer or benign breast disease"
+2696,TA,exclude,Not relevant to the research question/topic,cancer mortality NYC neighborhoods,Cancer mortality disparities among New York City's Upper Manhattan neighborhoods
+2697,TA,exclude,Not a US population-based/registry study,sunitinib RCC Japan SNP,Clinical effects of single nucleotide polymorphisms on drug-related genes in Japanese metastatic renal cell carcinoma patients treated with sunitinib
+2698,TA,include,,Cancer Statistics 2017 US incidence by race,"Cancer Statistics, 2017"
+2699,TA,exclude,Not a US population-based/registry study,cancer survival First Nations Canada,Cancer survival disparities between first nation and non-Aboriginal adults in Canada: Follow-up of the 1991 census mortality cohort
+2700,TA,exclude,Not a US population-based/registry study,PIK3CA Chinese Western China,Evaluation of PIK3CA mutations as a biomarker in Chinese breast carcinomas from Western China
+2701,TA,exclude,Not a US population-based/registry study,uterine leiomyoma BC Taiwan,Patients with uterine leiomyoma exhibit a high incidence but low mortality rate for breast cancer
+2702,TA,exclude,Not a US population-based/registry study,cancer stress South Korea,"Cancer, Stress, and Ironies of Cancer Understanding in South Korea"
+2703,TA,exclude,Not relevant to the research question/topic,racial/SES disparities IBC outcomes POC-BP,Racial and Socioeconomic Disparities Are More Pronounced in Inflammatory Breast Cancer Than Other Breast Cancers
+2704,TA,exclude,Not a US population-based/registry study,prostate cancer ESRD Korea,Prevalence and survival prognosis of prostate cancer in patients with end-stage renal disease: A retrospective study based on the Korea national database (2003-2010)
+2705,TA,exclude,Not a US population-based/registry study,ER+ BC Japanese case-control,"Genetic and environmental factors and serum hormones, and risk of estrogen receptor-positive breast cancer in pre- and postmenopausal Japanese women"
+2706,TA,exclude,Not a US population-based/registry study,thyroid function Chinese BC,Study on the status of thyroid function and thyroid nodules in chinese breast cancer patients
+2707,TA,exclude,Not relevant to the research question/topic,BC epidemiology prevention chapter,"Breast Cancer Epidemiology, Prevention, and Screening"
+2708,TA,exclude,Not a US population-based/registry study,caveolin-1 China Han,Genetic polymorphisms in caveolin-1 associate with breast cancer risk in Chinese Han population
+2709,TA,exclude,Not relevant to the research question/topic,gene mutation clinical pattern TCGA,Genes with mutation significance were highly associated with the clinical pattern of patients with breast cancer
+2710,TA,exclude,Not relevant to the research question/topic,NACT pCR TNBC advanced,The survival benefit of neoadjuvant chemotherapy and pCR among patients with advanced stage triple negative breast cancer
+2711,TA,exclude,Not a US population-based/registry study,Chinese herbal hepatitis Taiwan,Chinese herbal medicine as an adjunctive therapy ameliorated the incidence of chronic hepatitis in patients with breast cancer: A nationwide population-based cohort study
+2712,TA,exclude,Not a US population-based/registry study,quilting suture LD flap trial,Effects of Quilting Suture Interval on Donor Site Seromas After Breast Reconstruction With Latissimus Dorsi Muscle Flap: A Randomized Trial
+2713,TA,exclude,Not a US population-based/registry study,stage at diagnosis sub-Saharan Africa,Stage at diagnosis of breast cancer in sub-Saharan Africa: a systematic review and meta-analysis
+2714,TA,exclude,Not relevant to the research question/topic,de novo metastatic BC clinicopathologic,Clinicopathologic factors associated with de novo metastatic breast cancer
+2715,TA,exclude,Not a US population-based/registry study,molecular subtypes trends Norway,Molecular subtypes of breast cancer: Long-term incidence trends and prognostic differences
+2716,TA,exclude,Not a US population-based/registry study,bevacizumab paclitaxel neuropathy,Bevacizumab exacerbates paclitaxel-induced neuropathy: A retrospective cohort study
+2717,TA,exclude,Not relevant to the research question/topic,BC screening initiation PROSPR,Breast cancer screening initiation after turning 40 years of age within the PROSPR consortium
+2718,TA,exclude,Not relevant to the research question/topic,US cancer burden DALYs 24 cancers,U.S. Burden of Cancer by Race and Ethnicity According to Disability-Adjusted Life Years
+2719,TA,exclude,Not a US population-based/registry study,body size Han China,The association between body size and breast cancer in han women in northern and eastern China

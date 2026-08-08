@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2660,exclude,Not a US population-based/registry study,IBIS/BOADICEA validation Iran
+2661,exclude,Not relevant to the research question/topic,BC disparities home/abroad review
+2662,exclude,Not a US population-based/registry study,mammographic density 22 countries
+2663,exclude,Not a US population-based/registry study,cancer incidence Hebei China
+2664,exclude,Not a US population-based/registry study,Druze Arab Jewish Israel
+2665,exclude,Not a US population-based/registry study,thyroid abnormality Chinese trial
+2666,exclude,Not a US population-based/registry study,TDLU involution Chinese
+2667,exclude,Not a US population-based/registry study,BC trends Shanghai Hong Kong
+2668,exclude,Not a US population-based/registry study,trastuzumab digestive China trial
+2669,exclude,Not a US population-based/registry study,PRECAMA Latin America case-control
+2670,exclude,Not relevant to the research question/topic,TENS nausea vomit trial
+2671,exclude,Not relevant to the research question/topic,CA125 ovarian pooled analysis
+2672,exclude,Not a US population-based/registry study,BC incidence/mortality China 2013
+2673,exclude,Not relevant to the research question/topic,menopause aromatase expression
+2674,exclude,Not a US population-based/registry study,urban-rural UGIC China
+2675,exclude,Not a US population-based/registry study,ethnic differences cancer Norway
+2676,exclude,Not a US population-based/registry study,PIH BC Taiwan
+2677,exclude,Not a US population-based/registry study,lymphedema nomogram China
+2678,exclude,Not a US population-based/registry study,metabolic syndrome BC Korea
+2679,exclude,Not a US population-based/registry study,TNBC races Singapore
+2680,exclude,Not relevant to the research question/topic,body fat depots Dallas Heart Study
+2681,exclude,Not relevant to the research question/topic,housing discrimination colorectal Wisconsin
+2682,exclude,Not a US population-based/registry study,depression mastectomy Korea
+2683,exclude,Not relevant to the research question/topic,myoepithelial carcinoma SEER
+2684,exclude,Not relevant to the research question/topic,pertuzumab diarrhea incidence
+2685,exclude,Not a US population-based/registry study,cancer burden Colombia projections
+2686,exclude,Not a US population-based/registry study,volumetric density ANN Japanese
+2687,exclude,Not relevant to the research question/topic,ER status imputation SEER methods
+2688,exclude,Not a US population-based/registry study,SES inequalities cancer New Zealand
+2689,exclude,Not relevant to the research question/topic,cancer mortality Hispanic groups Florida
+2690,exclude,Not a US population-based/registry study,BC risk models screening Chinese
+2691,exclude,Not relevant to the research question/topic,atrial fibrillation BC WHI
+2692,exclude,Not a US population-based/registry study,depression anxiety BC Sweden
+2693,exclude,Not a US population-based/registry study,MSH2 early-onset Taiwan
+2694,exclude,Not a US population-based/registry study,male BC Japanese atomic bomb
+2695,exclude,Not a US population-based/registry study,breast anthropomorphic Asian
+2696,exclude,Not relevant to the research question/topic,cancer mortality NYC neighborhoods
+2697,exclude,Not a US population-based/registry study,sunitinib RCC Japan SNP
+2698,include,,Cancer Statistics 2017 US incidence by race
+2699,exclude,Not a US population-based/registry study,cancer survival First Nations Canada
+2700,exclude,Not a US population-based/registry study,PIK3CA Chinese Western China
+2701,exclude,Not a US population-based/registry study,uterine leiomyoma BC Taiwan
+2702,exclude,Not a US population-based/registry study,cancer stress South Korea
+2703,exclude,Not relevant to the research question/topic,racial/SES disparities IBC outcomes POC-BP
+2704,exclude,Not a US population-based/registry study,prostate cancer ESRD Korea
+2705,exclude,Not a US population-based/registry study,ER+ BC Japanese case-control
+2706,exclude,Not a US population-based/registry study,thyroid function Chinese BC
+2707,exclude,Not relevant to the research question/topic,BC epidemiology prevention chapter
+2708,exclude,Not a US population-based/registry study,caveolin-1 China Han
+2709,exclude,Not relevant to the research question/topic,gene mutation clinical pattern TCGA
+2710,exclude,Not relevant to the research question/topic,NACT pCR TNBC advanced
+2711,exclude,Not a US population-based/registry study,Chinese herbal hepatitis Taiwan
+2712,exclude,Not a US population-based/registry study,quilting suture LD flap trial
+2713,exclude,Not a US population-based/registry study,stage at diagnosis sub-Saharan Africa
+2714,exclude,Not relevant to the research question/topic,de novo metastatic BC clinicopathologic
+2715,exclude,Not a US population-based/registry study,molecular subtypes trends Norway
+2716,exclude,Not a US population-based/registry study,bevacizumab paclitaxel neuropathy
+2717,exclude,Not relevant to the research question/topic,BC screening initiation PROSPR
+2718,exclude,Not relevant to the research question/topic,US cancer burden DALYs 24 cancers
+2719,exclude,Not a US population-based/registry study,body size Han China
