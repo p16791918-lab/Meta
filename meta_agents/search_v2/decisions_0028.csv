@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1640,exclude,Not relevant to the research question/topic,EndoScell SLNB trial
+1641,exclude,Not relevant to the research question/topic,drinking water chemicals estrogen
+1642,exclude,Not relevant to the research question/topic,betamethasone radiation dermatitis trial
+1643,exclude,Not relevant to the research question/topic,radiotherapy lung cancer risk SEER
+1644,exclude,Not a US population-based/registry study,Sarawak Malaysia cancer report
+1645,exclude,Not relevant to the research question/topic,ICI trial representation minorities
+1646,exclude,Not a US population-based/registry study,CTEPH cancer Japan cohort
+1647,exclude,Not a US population-based/registry study,CSC gynecological Korean
+1648,exclude,Not relevant to the research question/topic,cancer VTE mortality US WONDER
+1649,exclude,Not a US population-based/registry study,non-cancer risks BC survivors Japan
+1650,exclude,Not relevant to the research question/topic,nomogram lung metastasis SEER
+1651,exclude,Not relevant to the research question/topic,eribulin biweekly trial
+1652,exclude,Not relevant to the research question/topic,breast lymphedema after RT
+1653,exclude,Not a US population-based/registry study,CHIP gastric UK Biobank
+1654,exclude,Not a US population-based/registry study,greenspace cancer UK Biobank
+1655,exclude,Not relevant to the research question/topic,acupuncture CRCI protocol
+1656,exclude,Not relevant to the research question/topic,frailty cardiotoxicity OneFlorida
+1657,exclude,Not relevant to the research question/topic,climate vulnerability cancer NC
+1658,exclude,Not relevant to the research question/topic,hemospheres mastectomy seroma trial
+1659,exclude,Not a US population-based/registry study,female-specific cancers China GBD
+1660,exclude,Not a US population-based/registry study,smoking cancer burden GBD
+1661,exclude,Not relevant to the research question/topic,lymph-flow IT Chinese RCT
+1662,exclude,Not relevant to the research question/topic,reactive lymphadenopathy COVID vaccine
+1663,exclude,Not relevant to the research question/topic,descriptive epidemiology BC world review
+1664,exclude,Not a US population-based/registry study,ILD recurrence Japan database
+1665,exclude,Not relevant to the research question/topic,cost-sharing preventive care US
+1666,exclude,Not relevant to the research question/topic,AVF Medicare ESKD outcomes
+1667,exclude,Not a US population-based/registry study,tobacco cancer burden GBD
+1668,exclude,Not relevant to the research question/topic,RMTL locally advanced BC competing risk
+1669,exclude,Not a US population-based/registry study,BC burden China GBD
+1670,exclude,Not a US population-based/registry study,web risk prediction China CHARLS
+1671,exclude,Not a US population-based/registry study,smoking diabetes cancer survivors Korean
+1672,exclude,Not a US population-based/registry study,physical activity BC risk under 40 international
+1673,exclude,Not a US population-based/registry study,underdiagnosis England modelling
+1674,exclude,Not a US population-based/registry study,cancer mortality disparities worldwide MIR
+1675,exclude,Not relevant to the research question/topic,cardiac dysfunction BC survivors surveillance
+1676,exclude,Not a US population-based/registry study,GLOBOCAN 190 regions MIR
+1677,exclude,Not relevant to the research question/topic,time to treatment 30 cancers NCDB
+1678,exclude,Not a US population-based/registry study,GBD 34 cancer groups 204 countries
+1679,exclude,Not relevant to the research question/topic,social adversity TNBC US Black women
+1680,exclude,Not relevant to the research question/topic,BC burden US GBD by state/SDI
+1681,exclude,Not relevant to the research question/topic,PARPi MDS/AML TriNetX
+1682,exclude,Not a US population-based/registry study,AYA BC Southeast Asia
+1683,exclude,Not a US population-based/registry study,dose-dense NAC Japan JONIE5
+1684,exclude,Not relevant to the research question/topic,BC obesity mortality WONDER
+1685,exclude,Not relevant to the research question/topic,eutideron brain metastases
+1686,exclude,Not relevant to the research question/topic,esketamine sleep quality trial
+1687,exclude,Not relevant to the research question/topic,secondary cancer lung survivors
+1688,exclude,Not relevant to the research question/topic,heart disease mortality after cancer surgery SEER
+1689,exclude,Not relevant to the research question/topic,cancer burden transgender UF Health
+1690,exclude,Not a US population-based/registry study,cancer mortality by ethnicity Colombia
+1691,exclude,Not a US population-based/registry study,cancer education review
+1692,exclude,Not a US population-based/registry study,HRT BC/gyn cancer South Korea
+1693,include,,SEER incidence IDC Asian/Pacific Islander women by US region
+1694,exclude,Not relevant to the research question/topic,occupational stress BC WHI
+1695,exclude,Not relevant to the research question/topic,TCM BC bibliometric
+1696,exclude,Not a US population-based/registry study,ABCB1 atrial fibrillation Taiwan
+1697,exclude,Not a US population-based/registry study,cancer burden Europe GLOBOCAN
+1698,exclude,Not a US population-based/registry study,global male BC GBD
+1699,exclude,Not relevant to the research question/topic,erector spinae block MRM trial
