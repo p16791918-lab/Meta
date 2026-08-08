@@ -859,3 +859,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 857,TA,exclude,Not a US population-based/registry study,circumpolar/Arctic populations,Cancer among circumpolar populations: an emerging public health concern
 858,TA,exclude,Not a US population-based/registry study,Nigeria vs UK women,Molecular characteristics and prognostic features of breast cancer in Nigerian compared with UK women
 859,TA,exclude,Not relevant to the research question/topic,CISNET screening-strategy decision analysis,Collaborative Modeling to Compare Different Breast Cancer Screening Strategies: A  Decision Analysis for the US Preventive Services Task Force
+860,TA,exclude,Not relevant to the research question/topic,narrative review AA identity disparities,Disparities in Breast Cancer Associated With African American Identity
+861,TA,exclude,Not relevant to the research question/topic,BCRAT mortality prediction WHI,Breast Cancer Risk Assessment Tool (BCRAT) and long-term breast cancer mortality in the Women's Health Initiative
+862,TA,exclude,Not relevant to the research question/topic,HUWE1 mutations tumor biology,"Enhanced immortalization, HUWE1 mutations and other biological drivers of breast invasive carcinoma in Black/African American patients"
+863,TA,exclude,Not relevant to the research question/topic,parity/lactation ER-negative AA cohort,Parity and lactation in relation to estrogen receptor negative breast cancer in African American women
+864,TA,exclude,Not relevant to the research question/topic,fracture incidence in BC women,Elevated incidence of fractures in women with invasive breast cancer
+865,TA,exclude,Not relevant to the research question/topic,smoking during pregnancy risk NY,Smoking during pregnancy and breast cancer risk in very young women (United  States)
+866,TA,exclude,Not relevant to the research question/topic,female provider preference screening,"Factors associated with female provider preference among African American women, and implications for Breast cancer screening"
+867,TA,exclude,Not relevant to the research question/topic,plasma proteomics ARIC,Discovering plasma proteins associated with breast cancer incidence in postmenopausal women in the Atherosclerosis Risk in Communities study
+868,TA,exclude,Not relevant to the research question/topic,mammographic density multiethnic SWAN,Mammographic density in a multiethnic cohort
+869,TA,exclude,Not relevant to the research question/topic,CYP SNPs grilled meat interaction,"Genetic polymorphisms of phase I metabolizing enzyme genes, their interaction with lifetime grilled and smoked meat intake, and breast cancer incidence"
+870,TA,exclude,Not relevant to the research question/topic,pathogenic variants cumulative risk,"Pathogenic Variants, Family History, and Cumulative Risk of Breast Cancer in US Women"
+871,TA,exclude,Not relevant to the research question/topic,sleep duration MEC,Association between sleep duration and breast cancer incidence: The multiethnic cohort
+872,TA,exclude,Not relevant to the research question/topic,web program AA survivors evaluation,Evaluation of a Web-Based Program for African American Young Breast Cancer Survivors
+873,TA,exclude,Not relevant to the research question/topic,TNBC molecular phenotypes AA,Molecular phenotypes in triple negative breast cancer from African American patients suggest targets for therapy
+874,TA,exclude,Not relevant to the research question/topic,cancer prevalence CT/IA/UT not race,"Contrasts in cancer prevalence in Connecticut, Iowa, and Utah"
+875,TA,exclude,Not relevant to the research question/topic,dietary patterns CTS,Dietary patterns and breast cancer risk in the California Teachers Study cohort
+876,TA,exclude,Not relevant to the research question/topic,fracture risk older survivors,"Fracture risk in older, long-term survivors of early-stage breast cancer"
+877,TA,exclude,Not relevant to the research question/topic,20-year BCSM stage III SEER,"Twenty-year risks of breast cancer-specific mortality for stage III breast cancer in the surveillance, epidemiology, and end results registry"
+878,TA,exclude,Not relevant to the research question/topic,invasive risk after DCIS/LCIS,"Risk of invasive breast carcinoma among women diagnosed with ductal carcinoma in situ and lobular carcinoma in situ, 1988-2001"
+879,TA,exclude,Not relevant to the research question/topic,seroma formation after surgery,Seroma formation following breast cancer surgery
+880,TA,exclude,Not relevant to the research question/topic,melatonin receptors TNBC survival,Expression of melatonin receptors in triple negative breast cancer (TNBC) in African American and Caucasian women: Relation to survival
+881,TA,exclude,Not relevant to the research question/topic,vitamin D calcium black women subtypes,"Intake of Vitamin D and calcium, sun exposure, and risk of breast cancer subtypes among black women"
+882,TA,exclude,Not relevant to the research question/topic,digital vs film mammography characteristics,Breast Cancer Characteristics Associated With Digital Versus Film-Screen  Mammography for Screen-Detected and Interval Cancers
+883,TA,exclude,Not relevant to the research question/topic,pubertal timing Sister Study,Pubertal timing and breast cancer risk in the Sister Study cohort
+884,TA,exclude,Not relevant to the research question/topic,lymphedema prediction models racial,Feasibility and Clinical Utility of Prediction Models for Breast Cancer-Related Lymphedema Incorporating Racial Differences in Disease Incidence
+885,TA,exclude,Not relevant to the research question/topic,PALB2 germline mutations AA,Germline mutations in PALB2 in African-American breast cancer cases
+886,TA,exclude,Not relevant to the research question/topic,PMRT compliance NCDB,Postmastectomy radiation for N2/N3 breast cancer: factors associated with low  compliance rate
+887,TA,exclude,Not relevant to the research question/topic,smoking radiotherapy lung carcinoma,Effects of smoking and radiotherapy on lung carcinoma in breast carcinoma  survivors
+888,TA,exclude,Not relevant to the research question/topic,BMD subsequent cancer NHEFS,Bone mineral density and the subsequent risk of cancer in the NHANES 1 follow-up cohort
+889,TA,exclude,Not relevant to the research question/topic,distress coping rural women,"Distress, coping, and social support among rural women recently diagnosed with  primary breast cancer"
+890,TA,exclude,Not relevant to the research question/topic,cancer screening in RA patients,"Cumulative Incidence of Cancer Screening for Breast, Cervical, Prostate, and  Colorectal Cancer in Patients With Rheumatoid Arthritis"
+891,TA,exclude,Not relevant to the research question/topic,psychosocial adjuvant adherence AA,Psychosocial influences on suboptimal adjuvant breast cancer treatment adherence among african american women: Implications for education and intervention
+892,TA,exclude,Not relevant to the research question/topic,breast MRI use NHIS,Breast MRI use uncommon among U.S. women
+893,TA,exclude,Not relevant to the research question/topic,epigenetic TNBC AA/white,Epigenetic Profiles of Triple-Negative Breast Cancers of African American and White Females
+894,TA,exclude,Not relevant to the research question/topic,hair straighteners non-reproductive cancers,Use of hair straighteners and chemical relaxers and incidence of non-reproductive  cancers
+895,TA,exclude,Not relevant to the research question/topic,21-gene recurrence score male BC,Distribution of 21-Gene Recurrence Scores in Male Breast Cancer in the United  States
+896,TA,exclude,Not a US population-based/registry study,Ontario First Nations Canada,"Cancer incidence and mortality in Ontario First Nations, 1968-1991 (Canada)"
+897,TA,exclude,Not relevant to the research question/topic,AA stage III characteristics inner-city,Characteristics and treatment modalities for African American women diagnosed with stage III breast cancer
+898,TA,exclude,Not relevant to the research question/topic,OC use ER-negative AA cohort,Oral contraceptive use and estrogen/progesterone receptor-negative breast cancer among African American women
+899,TA,exclude,Not relevant to the research question/topic,thyroid disease Sister Study,Thyroid Disease and Breast Cancer Risk in the Sister Study
+900,TA,exclude,Not relevant to the research question/topic,waist circumference CPS-II,"Waist circumference, body mass index, and postmenopausal breast cancer incidence in the Cancer Prevention Study-II Nutrition Cohort"
+901,TA,exclude,Not relevant to the research question/topic,TP53 ER status CBCS,"TP53 Pathway Function, Estrogen Receptor Status, and Breast Cancer Risk Factors  in the Carolina Breast Cancer Study"
+902,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",environmental risk conference paper,Ongoing research to identify environmental risk factors in breast carcinoma
+903,TA,exclude,Not relevant to the research question/topic,BRCA1/2 penetrance US sample,Characterization of BRCA1 and BRCA2 mutations in a large United States sample
+904,TA,exclude,Not relevant to the research question/topic,HER-2 codon 655 polymorphism,Ethnic variation in the HER-2 codon 655 genetic polymorphism previously associated with breast cancer
+905,TA,exclude,Not a US population-based/registry study,endocrine cancer global GBD trends,Endocrine cancer trends 1990–2021: global disparities and health inequalities
+906,TA,exclude,Not relevant to the research question/topic,elderly mammography decisions,Factors influencing elderly women's mammography screening decisions: implications  for counseling
+907,TA,exclude,Not relevant to the research question/topic,repeat surgery breast conservation NCDB,"Repeat surgery after breast conservation for the treatment of stage 0 to II  breast carcinoma: a report from the National Cancer Data Base, 2004-2010"
+908,TA,exclude,Not relevant to the research question/topic,PRS/density risk prediction NHS,"Addition of a polygenic risk score, mammographic density, and endogenous hormones  to existing breast cancer risk prediction models: A nested case-control study"
+909,TA,exclude,Not relevant to the research question/topic,BRCA1/2 young diverse racial groups,Breast cancer in young women (YBC): Prevalence of BRCA1/2 mutations and risk of secondary malignancies across diverse racial groups
+910,TA,exclude,Not relevant to the research question/topic,Ohio Medicaid mental illness outcomes,Breast cancer stage and treatment among Ohio medicaid beneficiaries with and without mental illness
+911,TA,exclude,Not relevant to the research question/topic,serum vitamin D military case-control,Serum 25-hydroxyvitamin D and breast cancer in the military: a case-control study  utilizing pre-diagnostic serum
+912,TA,exclude,Not a US population-based/registry study,global trends incidence/mortality 1973-1997,Global trends in breast cancer incidence and mortality 1973-1997
+913,TA,exclude,Not relevant to the research question/topic,medical racism NAVAH trial,Medical Racism and Physician Trust Impressions of African-American Breast Cancer Patients Enrolled on the Navigator-Assisted Hypofractionation (NAVAH) Phase I Clinical Trial
+914,TA,exclude,Not relevant to the research question/topic,Pakikisama Filipinas partnership,Pakikisama: lessons learned in partnership building with Filipinas with breast  cancer for culturally meaningful support
+915,TA,exclude,Not relevant to the research question/topic,basal/luminal risk factors AMBER,Epidemiology of basal-like and luminal breast cancers among black women in the amber consortium
+916,TA,include,,California Cancer Registry incidence IRR by rurality/race,Disparities in cancer incidence by rurality in California
+917,TA,exclude,Not relevant to the research question/topic,tamoxifen side effects by race,Profiles of tamoxifen-related side effects by race and smoking status in women with breast cancer
+918,TA,exclude,Not relevant to the research question/topic,abuse victimization BWHS,Abuse victimization and risk of breast cancer in the Black Women's Health Study: Abuse and breast cancer risk in black women
+919,TA,exclude,Not relevant to the research question/topic,ovariectomy/hysterectomy reproductive risk,"Breast cancer risk and ovariectomy, hysterectomy, and tubal sterilization in the  women's contraceptive and reproductive experiences study"

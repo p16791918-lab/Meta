@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+860,exclude,Not relevant to the research question/topic,narrative review AA identity disparities
+861,exclude,Not relevant to the research question/topic,BCRAT mortality prediction WHI
+862,exclude,Not relevant to the research question/topic,HUWE1 mutations tumor biology
+863,exclude,Not relevant to the research question/topic,parity/lactation ER-negative AA cohort
+864,exclude,Not relevant to the research question/topic,fracture incidence in BC women
+865,exclude,Not relevant to the research question/topic,smoking during pregnancy risk NY
+866,exclude,Not relevant to the research question/topic,female provider preference screening
+867,exclude,Not relevant to the research question/topic,plasma proteomics ARIC
+868,exclude,Not relevant to the research question/topic,mammographic density multiethnic SWAN
+869,exclude,Not relevant to the research question/topic,CYP SNPs grilled meat interaction
+870,exclude,Not relevant to the research question/topic,pathogenic variants cumulative risk
+871,exclude,Not relevant to the research question/topic,sleep duration MEC
+872,exclude,Not relevant to the research question/topic,web program AA survivors evaluation
+873,exclude,Not relevant to the research question/topic,TNBC molecular phenotypes AA
+874,exclude,Not relevant to the research question/topic,cancer prevalence CT/IA/UT not race
+875,exclude,Not relevant to the research question/topic,dietary patterns CTS
+876,exclude,Not relevant to the research question/topic,fracture risk older survivors
+877,exclude,Not relevant to the research question/topic,20-year BCSM stage III SEER
+878,exclude,Not relevant to the research question/topic,invasive risk after DCIS/LCIS
+879,exclude,Not relevant to the research question/topic,seroma formation after surgery
+880,exclude,Not relevant to the research question/topic,melatonin receptors TNBC survival
+881,exclude,Not relevant to the research question/topic,vitamin D calcium black women subtypes
+882,exclude,Not relevant to the research question/topic,digital vs film mammography characteristics
+883,exclude,Not relevant to the research question/topic,pubertal timing Sister Study
+884,exclude,Not relevant to the research question/topic,lymphedema prediction models racial
+885,exclude,Not relevant to the research question/topic,PALB2 germline mutations AA
+886,exclude,Not relevant to the research question/topic,PMRT compliance NCDB
+887,exclude,Not relevant to the research question/topic,smoking radiotherapy lung carcinoma
+888,exclude,Not relevant to the research question/topic,BMD subsequent cancer NHEFS
+889,exclude,Not relevant to the research question/topic,distress coping rural women
+890,exclude,Not relevant to the research question/topic,cancer screening in RA patients
+891,exclude,Not relevant to the research question/topic,psychosocial adjuvant adherence AA
+892,exclude,Not relevant to the research question/topic,breast MRI use NHIS
+893,exclude,Not relevant to the research question/topic,epigenetic TNBC AA/white
+894,exclude,Not relevant to the research question/topic,hair straighteners non-reproductive cancers
+895,exclude,Not relevant to the research question/topic,21-gene recurrence score male BC
+896,exclude,Not a US population-based/registry study,Ontario First Nations Canada
+897,exclude,Not relevant to the research question/topic,AA stage III characteristics inner-city
+898,exclude,Not relevant to the research question/topic,OC use ER-negative AA cohort
+899,exclude,Not relevant to the research question/topic,thyroid disease Sister Study
+900,exclude,Not relevant to the research question/topic,waist circumference CPS-II
+901,exclude,Not relevant to the research question/topic,TP53 ER status CBCS
+902,exclude,"Editorials, commentaries, letters, or conference abstracts",environmental risk conference paper
+903,exclude,Not relevant to the research question/topic,BRCA1/2 penetrance US sample
+904,exclude,Not relevant to the research question/topic,HER-2 codon 655 polymorphism
+905,exclude,Not a US population-based/registry study,endocrine cancer global GBD trends
+906,exclude,Not relevant to the research question/topic,elderly mammography decisions
+907,exclude,Not relevant to the research question/topic,repeat surgery breast conservation NCDB
+908,exclude,Not relevant to the research question/topic,PRS/density risk prediction NHS
+909,exclude,Not relevant to the research question/topic,BRCA1/2 young diverse racial groups
+910,exclude,Not relevant to the research question/topic,Ohio Medicaid mental illness outcomes
+911,exclude,Not relevant to the research question/topic,serum vitamin D military case-control
+912,exclude,Not a US population-based/registry study,global trends incidence/mortality 1973-1997
+913,exclude,Not relevant to the research question/topic,medical racism NAVAH trial
+914,exclude,Not relevant to the research question/topic,Pakikisama Filipinas partnership
+915,exclude,Not relevant to the research question/topic,basal/luminal risk factors AMBER
+916,include,,California Cancer Registry incidence IRR by rurality/race
+917,exclude,Not relevant to the research question/topic,tamoxifen side effects by race
+918,exclude,Not relevant to the research question/topic,abuse victimization BWHS
+919,exclude,Not relevant to the research question/topic,ovariectomy/hysterectomy reproductive risk
