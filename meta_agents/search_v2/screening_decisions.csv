@@ -3839,3 +3839,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3837,TA,exclude,Not relevant to the research question/topic,diabetes physical activity BC Hispanic case-control,"Diabetes, physical activity and breast cancer among Hispanic women"
 3838,TA,exclude,Not a US population-based/registry study,public-private partnership women cancer Africa,Innovative public-private partnership: A diagonal approach to combating women's cancers in Africa; [Partenariat public-privé novateur: Une approche diagonale de la lutte contre les cancers féminins en Afrique]
 3839,TA,exclude,Not relevant to the research question/topic,mode of detection DCIS review,Mode of detection and secular time for ductal carcinoma in situ
+3840,TA,exclude,Not relevant to the research question/topic,social isolation mammary tumor mice,"Social isolation reduces mammary development, tumor incidence, and expression of epigenetic regulators in wild-type and p53-heterozygotic mice"
+3841,TA,exclude,Not a US population-based/registry study,soy BC Shanghai Women's Health,Adolescent and adult soy food intake and breast cancer risk: Results from the Shanghai Women's Health Study
+3842,TA,exclude,Not relevant to the research question/topic,DCIS systematic review incidence treatment,"Ductal carcinoma in Situ of the breast: A systematic review of incidence, treatment, and outcomes"
+3843,TA,exclude,Not relevant to the research question/topic,epidemiology DCIS review,Epidemiology of ductal carcinoma in situ
+3844,TA,exclude,Not relevant to the research question/topic,existential counseling Latina survivors,Existential counseling as a vehicle to support Latina breast cancer survivors
+3845,TA,include,,IBC among Arab Americans SEER California Detroit NJ,"Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008)"
+3846,TA,exclude,Not relevant to the research question/topic,drug-nutrient interactions,Drug-nutrient interactions
+3847,TA,exclude,Not relevant to the research question/topic,intro cancer prevention book chapter,Introduction to cancer prevention
+3848,TA,exclude,Not relevant to the research question/topic,spatial geographic source patients JHU,Spatial analyses identify the geographic source of patients at a National Cancer Institute Comprehensive Cancer Center
+3849,TA,exclude,Not relevant to the research question/topic,epidemiology IBC book chapter,Epidemiology of inflammatory breast cancer
+3850,TA,exclude,Not a US population-based/registry study,herbal preparations BC German,The use of herbal preparations to alleviate climacteric disorders and risk of postmenopausal breast cancer in a German case-control study
+3851,TA,exclude,Not a US population-based/registry study,pregabalin fibromyalgia Japan,"A randomized, double-blind, multicenter, placebo-controlled phase III trial to evaluate the efficacy and safety of pregabalin in Japanese patients with fibromyalgia"
+3852,TA,exclude,Not relevant to the research question/topic,US mortality atlases history,A history and critique of U.S. mortality atlases
+3853,TA,exclude,Not relevant to the research question/topic,plasma MMP BC Multiethnic Cohort,Plasma matrix metalloproteinases and postmenopausal breast cancer risk: A nested case-control study in the Multiethnic Cohort study
+3854,TA,exclude,Not relevant to the research question/topic,statins VTE cancer,Statins Decrease the Occurrence of Venous Thromboembolism in Patients with Cancer
+3855,TA,exclude,Not relevant to the research question/topic,variation RT after BCS,Variation in receipt of radiation therapy after breast-conserving surgery: Assessing the impact of physicians and geographic regions
+3856,TA,exclude,Not relevant to the research question/topic,TERT-CLPTM1L ER-negative BC GWAS,"A common variant at the TERT-CLPTM1L locus is associated with estrogen receptorĝ€""negative breast cancer"
+3857,TA,exclude,Not relevant to the research question/topic,BC subtypes ER/PR/HER2 distribution survival California,"Breast cancer subtypes as defined by the estrogen receptor (ER), progesterone receptor (PR), and the human epidermal growth factor receptor 2 (HER2) among women with invasive breast cancer in California, 1999-2004"
+3858,TA,exclude,Not relevant to the research question/topic,cancer stage dual Medicare-Medicaid,Cancer stage comparison between dual medicare-medicaid eligibles using medicaid as a supplemental health insurance program and low-income nonduals
+3859,TA,exclude,Not relevant to the research question/topic,genomics BC book chapter,Genomics in the Diagnosis and Management of Breast Cancer
+3860,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC Mississippi commentary,Breast cancer in Mississippi: what can we do?
+3861,TA,include,,Asian ethnicity BC subtypes California Cancer Registry,Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry
+3862,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Hispanics unique cancer risk survey,Hispanics have a unique cancer risk profile
+3863,TA,exclude,Not relevant to the research question/topic,light deficiency BC book chapter,Newly recognized player in breast cancer risk: Light deficiency
+3864,TA,exclude,Not relevant to the research question/topic,smoking BC WHI,Association of active and passivesmoking with risk of breast cancer among postmenopausal women: A prospective cohort study
+3865,TA,exclude,Not relevant to the research question/topic,alcohol BC Asian-American LA case-control,Alcohol and breast cancer risk among Asian-American women in Los Angeles County
+3866,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC rate continues decline survey,Breast cancer rate continues to decline
+3867,TA,exclude,Not relevant to the research question/topic,benign neutropenia athletes,Sports medicine pearls and pitfalls: Benign neutropenia in athletes
+3868,TA,exclude,Not relevant to the research question/topic,psychooncology book chapter,Psychooncology
+3869,TA,exclude,Not relevant to the research question/topic,fiber reproductive BioCycle,Effect of daily fiber intake on reproductive function: The BioCycle Study
+3870,TA,exclude,Not relevant to the research question/topic,prevention BC epidemiology risk factors review,"Prevention of breast cancer (Part I): Epidemiology, risk factors, and risk assessment tools"
+3871,TA,exclude,Not relevant to the research question/topic,racial disparities medical care BC chapter,Racial disparities in the medical care of women with breast cancer
+3872,TA,exclude,Not relevant to the research question/topic,risk factors LR DCIS,Risk factors for non-invasive and invasive local recurrence in patients with ductal carcinoma in situ
+3873,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",economic cost cancer mortality survey,"Economic cost of cancer mortality is high in U.S., regardless of how cost is measured"
+3874,TA,exclude,Not relevant to the research question/topic,genetic polymorphisms gene-environment BC chapter,Genetic polymorphisms predisposing individuals to breast cancer via gene-environment interaction
+3875,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",model falls short BC risk black women,Model falls short when predicting breast cancer risk in black women
+3876,TA,exclude,Not a US population-based/registry study,IBC Japanese US comparison two-institution,"A comparison of epidemiology, biology, and prognosis of inflammatory breast cancer in Japanese and US populations"
+3877,TA,exclude,Not a US population-based/registry study,cancer risk migrants Europe overview,Cancer risk diversity in non-western migrants to Europe: An overview of the literature
+3878,TA,exclude,Not a US population-based/registry study,body weight malignancy diabetes Taiwan,Association of body weight with the risk for malignancies in hospitalized patients with or without diabetes mellitus in Taiwan
+3879,TA,exclude,Not relevant to the research question/topic,refusal RT survival SEER,Refusal of radiation therapy and its associated impact on survival
+3880,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Sisters Network AA advocacy survey,The Sisters Network: A national African American breast cancer survivor advocacy organization
+3881,TA,exclude,Not relevant to the research question/topic,HER2 HR IBC survival California Registry,"Prognostic impact of human epidermal growth factor-like receptor 2 and hormone receptor status in inflammatory breast cancer (IBC): Analysis of 2,014 IBC patient cases from the California Cancer Registry"
+3882,TA,exclude,Not relevant to the research question/topic,arsenic cancer mortality Strong Heart,Arsenic exposure and cancer mortality in a US-based prospective cohort: The strong heart study
+3883,TA,exclude,Not relevant to the research question/topic,sexual minority density BC incidence ecological,County-level association of sexual minority density with breast cancer incidence: Results from an ecological study
+3884,TA,exclude,Not relevant to the research question/topic,chemo CSF older BC,Chemotherapy characteristics are important predictors of primary prophylactic CSF administration in older patients with breast cancer
+3885,TA,exclude,Not relevant to the research question/topic,BC in utero book chapter,Breast cancer may originate in utero: The importance of the intrauterine environment for breast cancer development
+3886,TA,exclude,Not relevant to the research question/topic,SPM after DFSP SEER,Risk of subsequent primary malignancies after dermatofibrosarcoma protuberans diagnosis: A national study
+3887,TA,exclude,Not relevant to the research question/topic,county poverty distant stage cancer NAACCR,County-level poverty and distant stage cancer in the United States
+3888,TA,exclude,Not relevant to the research question/topic,disparities BC treatment outcomes review,"Disparities in breast cancer treatment and outcomes: Biological, social, and health system determinants and opportunities for research"
+3889,TA,exclude,Not relevant to the research question/topic,adult stature cancer WHI,Adult stature and risk of cancer at different anatomic sites in a cohort of postmenopausal women
+3890,TA,exclude,Not relevant to the research question/topic,CAC screening radiation cancer risk,Coronary artery calcification screening: Estimated radiation dose and cancer risk
+3891,TA,include,,Cancer incidence patterns Seneca American Indian NY registry,Changes in cancer incidence patterns among a northeastern American Indian population: 1955-1969 versus 1990-2004
+3892,TA,exclude,Not relevant to the research question/topic,loco-regional recurrences AA terminal BC hospice,Increased incidence of loco-regional recurrences among African American women with terminal stage breast cancer
+3893,TA,exclude,Not relevant to the research question/topic,chemo dose reduction CIPN BC,Chemotherapy dose reduction due to chemotherapy induced peripheral neuropathy in breast cancer patients receiving chemotherapy in the neoadjuvant or adjuvant settings: A single-center experience
+3894,TA,exclude,Not relevant to the research question/topic,dry bean mammary cancer rats,Chemical composition and mammary cancer inhibitory activity of dry bean
+3895,TA,exclude,Not a US population-based/registry study,hereditary BC sub-Saharan Africa,Hereditary breast cancer in sub-Saharan Africa
+3896,TA,exclude,Not a US population-based/registry study,ERBB2 variation BC Shanghai,Heritable variation of ERBB2 and breast cancer risk
+3897,TA,exclude,Not relevant to the research question/topic,cancer pain diverse patients,Consistent and Breakthrough Pain in Diverse Advanced Cancer Patients: A Longitudinal Examination
+3898,TA,exclude,Not a US population-based/registry study,breast cervical cancer low-resource,Why the time is right to tackle breast and cervical cancer in low-resource settings; [Pourquoi est-il temps de s'attaquer au cancer du sein et du col de l'utérus dans les milieux à faibles ressources?]
+3899,TA,exclude,Not a US population-based/registry study,vitamin D Arctic aboriginal,Vitamin D deficiency and disease risk among aboriginal Arctic populations

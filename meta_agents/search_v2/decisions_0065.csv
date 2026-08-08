@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3840,exclude,Not relevant to the research question/topic,social isolation mammary tumor mice
+3841,exclude,Not a US population-based/registry study,soy BC Shanghai Women's Health
+3842,exclude,Not relevant to the research question/topic,DCIS systematic review incidence treatment
+3843,exclude,Not relevant to the research question/topic,epidemiology DCIS review
+3844,exclude,Not relevant to the research question/topic,existential counseling Latina survivors
+3845,include,,IBC among Arab Americans SEER California Detroit NJ
+3846,exclude,Not relevant to the research question/topic,drug-nutrient interactions
+3847,exclude,Not relevant to the research question/topic,intro cancer prevention book chapter
+3848,exclude,Not relevant to the research question/topic,spatial geographic source patients JHU
+3849,exclude,Not relevant to the research question/topic,epidemiology IBC book chapter
+3850,exclude,Not a US population-based/registry study,herbal preparations BC German
+3851,exclude,Not a US population-based/registry study,pregabalin fibromyalgia Japan
+3852,exclude,Not relevant to the research question/topic,US mortality atlases history
+3853,exclude,Not relevant to the research question/topic,plasma MMP BC Multiethnic Cohort
+3854,exclude,Not relevant to the research question/topic,statins VTE cancer
+3855,exclude,Not relevant to the research question/topic,variation RT after BCS
+3856,exclude,Not relevant to the research question/topic,TERT-CLPTM1L ER-negative BC GWAS
+3857,exclude,Not relevant to the research question/topic,BC subtypes ER/PR/HER2 distribution survival California
+3858,exclude,Not relevant to the research question/topic,cancer stage dual Medicare-Medicaid
+3859,exclude,Not relevant to the research question/topic,genomics BC book chapter
+3860,exclude,"Editorials, commentaries, letters, or conference abstracts",BC Mississippi commentary
+3861,include,,Asian ethnicity BC subtypes California Cancer Registry
+3862,exclude,"Editorials, commentaries, letters, or conference abstracts",Hispanics unique cancer risk survey
+3863,exclude,Not relevant to the research question/topic,light deficiency BC book chapter
+3864,exclude,Not relevant to the research question/topic,smoking BC WHI
+3865,exclude,Not relevant to the research question/topic,alcohol BC Asian-American LA case-control
+3866,exclude,"Editorials, commentaries, letters, or conference abstracts",BC rate continues decline survey
+3867,exclude,Not relevant to the research question/topic,benign neutropenia athletes
+3868,exclude,Not relevant to the research question/topic,psychooncology book chapter
+3869,exclude,Not relevant to the research question/topic,fiber reproductive BioCycle
+3870,exclude,Not relevant to the research question/topic,prevention BC epidemiology risk factors review
+3871,exclude,Not relevant to the research question/topic,racial disparities medical care BC chapter
+3872,exclude,Not relevant to the research question/topic,risk factors LR DCIS
+3873,exclude,"Editorials, commentaries, letters, or conference abstracts",economic cost cancer mortality survey
+3874,exclude,Not relevant to the research question/topic,genetic polymorphisms gene-environment BC chapter
+3875,exclude,"Editorials, commentaries, letters, or conference abstracts",model falls short BC risk black women
+3876,exclude,Not a US population-based/registry study,IBC Japanese US comparison two-institution
+3877,exclude,Not a US population-based/registry study,cancer risk migrants Europe overview
+3878,exclude,Not a US population-based/registry study,body weight malignancy diabetes Taiwan
+3879,exclude,Not relevant to the research question/topic,refusal RT survival SEER
+3880,exclude,"Editorials, commentaries, letters, or conference abstracts",Sisters Network AA advocacy survey
+3881,exclude,Not relevant to the research question/topic,HER2 HR IBC survival California Registry
+3882,exclude,Not relevant to the research question/topic,arsenic cancer mortality Strong Heart
+3883,exclude,Not relevant to the research question/topic,sexual minority density BC incidence ecological
+3884,exclude,Not relevant to the research question/topic,chemo CSF older BC
+3885,exclude,Not relevant to the research question/topic,BC in utero book chapter
+3886,exclude,Not relevant to the research question/topic,SPM after DFSP SEER
+3887,exclude,Not relevant to the research question/topic,county poverty distant stage cancer NAACCR
+3888,exclude,Not relevant to the research question/topic,disparities BC treatment outcomes review
+3889,exclude,Not relevant to the research question/topic,adult stature cancer WHI
+3890,exclude,Not relevant to the research question/topic,CAC screening radiation cancer risk
+3891,include,,Cancer incidence patterns Seneca American Indian NY registry
+3892,exclude,Not relevant to the research question/topic,loco-regional recurrences AA terminal BC hospice
+3893,exclude,Not relevant to the research question/topic,chemo dose reduction CIPN BC
+3894,exclude,Not relevant to the research question/topic,dry bean mammary cancer rats
+3895,exclude,Not a US population-based/registry study,hereditary BC sub-Saharan Africa
+3896,exclude,Not a US population-based/registry study,ERBB2 variation BC Shanghai
+3897,exclude,Not relevant to the research question/topic,cancer pain diverse patients
+3898,exclude,Not a US population-based/registry study,breast cervical cancer low-resource
+3899,exclude,Not a US population-based/registry study,vitamin D Arctic aboriginal
