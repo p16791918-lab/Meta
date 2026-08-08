@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4360,exclude,Not relevant to the research question/topic,LAN COVID incidence US
+4361,exclude,Not relevant to the research question/topic,EDC hair product pregnancy
+4362,exclude,Not relevant to the research question/topic,BC disparities high-risk African ancestry review
+4363,exclude,Not relevant to the research question/topic,disparities BC Caucasian AA model review
+4364,exclude,"Editorials, commentaries, letters, or conference abstracts",BC incidence age race HR subtype SEER abstract
+4365,exclude,Not relevant to the research question/topic,circadian prostate cancer disparities
+4366,exclude,Not relevant to the research question/topic,TNBC risk factors Latina review
+4367,exclude,Not relevant to the research question/topic,NSABP STAR recruitment minorities
+4368,exclude,Not relevant to the research question/topic,phenotypes genotypes BC African ancestry
+4369,exclude,Not a US population-based/registry study,BC Arica Chile review
+4370,exclude,Not relevant to the research question/topic,cancer incidence immigrants methodological
+4371,exclude,Not relevant to the research question/topic,IBC outcomes race SES Florida
+4372,exclude,Not relevant to the research question/topic,obesity screening review
+4373,exclude,Not relevant to the research question/topic,carrageenan mammary carcinoma time-trend
+4374,exclude,Not relevant to the research question/topic,ethnic enclaves cancer outcomes systematic review
+4375,exclude,Not a US population-based/registry study,BC multi-ethnic Asian Singapore-Malaysia registry
+4376,exclude,"Editorials, commentaries, letters, or conference abstracts",correction BC incidence race MMWR
+4377,exclude,"Editorials, commentaries, letters, or conference abstracts",early-onset BC incidence race subtype abstract
+4378,exclude,Not relevant to the research question/topic,chemo endometrial Black White GOG
+4379,exclude,Not a US population-based/registry study,social class BC mortality Geneva
+4380,exclude,Not relevant to the research question/topic,prostate cancer race disparity review
+4381,exclude,Not relevant to the research question/topic,exercise prostate cancer incidence
+4382,exclude,Not relevant to the research question/topic,black-white mortality life expectancy
+4383,exclude,"Editorials, commentaries, letters, or conference abstracts",BC incidence young 20-49 race stage HR abstract
+4384,exclude,Not relevant to the research question/topic,epigenetic racial disparity BC review
+4385,exclude,"Editorials, commentaries, letters, or conference abstracts",incidence survival BC US race stage abstract
+4386,exclude,Not a US population-based/registry study,BC treatment ethnicity British Columbia
+4387,exclude,Not relevant to the research question/topic,obesity cancer survivorship race review
+4388,exclude,"Editorials, commentaries, letters, or conference abstracts",higher BC incidence Asian California abstract
+4389,include,,Cancer burden foreign-born US-born Arab Americans Detroit SEER
+4390,exclude,Not relevant to the research question/topic,CKD Hispanics acculturation
+4391,exclude,Not relevant to the research question/topic,treatment adherence IBC Caucasian AA
+4392,exclude,Not relevant to the research question/topic,survival BC review registries
+4393,exclude,Not a US population-based/registry study,BC mortality ethnic South Africa
+4394,exclude,Not relevant to the research question/topic,roadmap reduce BC incidence mortality review
+4395,exclude,Not relevant to the research question/topic,risk factors endometrial cancer Black women
+4396,exclude,"Editorials, commentaries, letters, or conference abstracts",structural racism subtype BC incidence California abstract
+4397,exclude,Not relevant to the research question/topic,racial disparity DCIS biomarkers review
+4398,exclude,Not relevant to the research question/topic,trends cancer incidence mortality US 1975-2016 all-cancer
+4399,exclude,Not a US population-based/registry study,cancer Black individuals Canada scoping review
+4400,exclude,Not relevant to the research question/topic,mammogram Korean American immigrant
+4401,exclude,Not relevant to the research question/topic,mammography HT rates drop
+4402,exclude,Not relevant to the research question/topic,disparities BC care review
+4403,exclude,Not relevant to the research question/topic,health behaviors AA BC survivors review
+4404,exclude,Not relevant to the research question/topic,perceptions endocrine therapy AA survivors
+4405,exclude,Not relevant to the research question/topic,rural urban cancer Mississippi registry
+4406,exclude,Not relevant to the research question/topic,neighborhood SES indices systematic review
+4407,exclude,Not a US population-based/registry study,BC survival ethnicity England
+4408,exclude,"Editorials, commentaries, letters, or conference abstracts",subtype BC incidence AA Caucasian abstract
+4409,exclude,Not relevant to the research question/topic,homicide mortality cities
+4410,exclude,Not relevant to the research question/topic,California Neighborhoods Data System resource
+4411,exclude,Not relevant to the research question/topic,Latino enclaves healthcare accessibility
+4412,exclude,Not relevant to the research question/topic,p53 codon 72 colorectal race
+4413,exclude,Not relevant to the research question/topic,epigenetic cancer disparities review
+4414,exclude,Not a US population-based/registry study,organochlorines BC Japanese
+4415,exclude,"Editorials, commentaries, letters, or conference abstracts",breastfeeding AA BC abstract
+4416,exclude,"Editorials, commentaries, letters, or conference abstracts",contralateral cellular atypia AA abstract
+4417,exclude,"Editorials, commentaries, letters, or conference abstracts",menthol cigarettes BC AA abstract
+4418,exclude,Not relevant to the research question/topic,brain metastasis de novo BC SEER
+4419,exclude,Not relevant to the research question/topic,lipidomic AA NHW tumors
