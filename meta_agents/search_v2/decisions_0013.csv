@@ -29,7 +29,7 @@ record_id,decision,display_reason,sub_reason
 767,exclude,Not relevant to the research question/topic,atrial fibrillation outcome
 768,exclude,Not relevant to the research question/topic,pesticide risk CTS cohort
 769,exclude,Not relevant to the research question/topic,mammography intervention Chinese
-770,exclude,Not relevant to the research question/topic,NCI funding disparities
+770,exclude,"Editorials, commentaries, letters, or conference abstracts",NCI funding disparities
 771,exclude,Not relevant to the research question/topic,lymphedema survivorship Pathways
 772,exclude,Not relevant to the research question/topic,mental-illness cohort SIR
 773,exclude,Not relevant to the research question/topic,second primary colorectal

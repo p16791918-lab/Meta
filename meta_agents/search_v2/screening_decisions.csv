@@ -127,7 +127,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 125,TA,exclude,Not relevant to the research question/topic,second primary contralateral by HR status,Second primary breast cancer occurrence according to hormone receptor status
 126,TA,include,,SEER subtype incidence trends by age/race,Incidence trends of breast cancer molecular subtypes by age and race/ethnicity in the US from 2010 to 2016
 127,TA,exclude,Not relevant to the research question/topic,risk-factor prevalence Hawaii,Trends of breast cancer incidence and risk factor prevalence over 25 years
-128,TA,exclude,Not relevant to the research question/topic,diet/screening behaviors Harlem,Diet and breast cancer surveillance behaviors among Harlem women
+128,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",diet/screening behaviors Harlem,Diet and breast cancer surveillance behaviors among Harlem women
 129,TA,exclude,Not relevant to the research question/topic,diabetes incidence after hormonal therapy,Hormonal therapy for breast cancer and diabetes incidence among postmenopausal women
 130,TA,exclude,Not relevant to the research question/topic,mortality-to-incidence ratio NYC,"Disparities in mortality-to-incidence ratios by race/ethnicity for female breast cancer in New York City, 2002-2016"
 131,TA,exclude,Not relevant to the research question/topic,mortality trends by state/race,Temporal trends in breast cancer mortality by state and race
@@ -188,7 +188,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 186,TA,exclude,Not relevant to the research question/topic,post-diagnosis depression,Patterns of postdiagnosis depression among late-stage cancer patients: Do racial/ethnic and sex disparities exist?
 187,TA,exclude,Not relevant to the research question/topic,risk-adjusted incidence methodology not race,Risk-adjusted female breast cancer incidence rates in the United States
 188,TA,include,,ACS incidence by race/ethnicity update 2006,Trends in breast cancer by race and ethnicity: Update 2006
-189,TA,exclude,Not relevant to the research question/topic,overall survival older patients,Are there differences in overall survival among older breast cancer patients by race and ethnicity?
+189,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",overall survival older patients,Are there differences in overall survival among older breast cancer patients by race and ethnicity?
 190,TA,include,,Massachusetts registry Asian-subgroup incidence incl breast,"Cancer Incidence Rate Variations among the Chinese, South Asian, and Vietnamese  in Massachusetts, 2011-2015"
 191,TA,exclude,Not relevant to the research question/topic,SES decline in incidence,Socioeconomic disparities in the decline in invasive breast cancer incidence
 192,TA,exclude,Not relevant to the research question/topic,neighborhood stage/size,Neighborhood composition and cancer among hispanics: Tumor stage and size at time of diagnosis
@@ -275,7 +275,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 273,TA,exclude,Not relevant to the research question/topic,Hispanic/NHW risk-factor case-control,Comparative analysis of breast cancer risk factors among hispanic and non-hispanic white women
 274,TA,exclude,Not relevant to the research question/topic,de novo metastatic occurrence by subtype,"Occurrence and outcome of de novo metastatic breast cancer by subtype in a large,  diverse population"
 275,TA,exclude,Not relevant to the research question/topic,Hispanic mortality,Demographic and geographic variations in breast cancer mortality among U.S. Hispanics
-276,TA,exclude,Not a US population-based/registry study,Hong Kong Chinese,Breast cancer in Chinese women younger than age 40: Are they different from their older counterparts?
+276,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Hong Kong Chinese,Breast cancer in Chinese women younger than age 40: Are they different from their older counterparts?
 277,TA,include,,SEER race/ethnicity age distribution of diagnosis,Race/Ethnicity and Age Distribution of Breast Cancer Diagnosis in the United  States
 278,TA,include,,SEER distant-involvement incidence by race/stage,"Incidence of breast cancer with distant involvement among women in the United States, 1976 to 2009"
 279,TA,exclude,Not a US population-based/registry study,VHA veterans not population-based,Characteristics of women Veterans with incident breast and gynecologic cancers in  the Veterans Health Administration
@@ -641,7 +641,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 639,TA,exclude,Not relevant to the research question/topic,risk-prediction model BWHS,Prospective approach to breast cancer risk prediction in African American women:  the black women's health study model
 640,TA,exclude,Not a US population-based/registry study,UF single-institution tumor registry,"Breast cancer and racial disparity between Caucasian and African American women,  part 1 (BRCA-1)"
 641,TA,exclude,Not relevant to the research question/topic,density/mortality,The association of breast density with breast cancer mortality in African American and white women screened in community practice
-642,TA,exclude,Not relevant to the research question/topic,pesticide mortality Mississippi,Association of pesticide exposure and risk of breast cancer mortality in Mississippi
+642,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",pesticide mortality Mississippi,Association of pesticide exposure and risk of breast cancer mortality in Mississippi
 643,TA,exclude,Not relevant to the research question/topic,reconstruction disparities single institution,Evaluating Disparities in Pathways to Breast Reconstruction
 644,TA,exclude,Not relevant to the research question/topic,multiple-cancer prevalence survivorship,Multiple cancer prevalence: A growing challenge in long-term survivorship
 645,TA,exclude,Not relevant to the research question/topic,Native American screening recruitment,Native American recruitment into breast cancer screening: The NAWWA project
@@ -769,7 +769,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 767,TA,exclude,Not relevant to the research question/topic,atrial fibrillation outcome,"Incidence, risk factors, and mortality of atrial fibrillation in breast cancer: a  SEER-Medicare analysis"
 768,TA,exclude,Not relevant to the research question/topic,pesticide risk CTS cohort,Residential proximity to agricultural pesticide use and incidence of breast cancer in the California Teachers Study cohort
 769,TA,exclude,Not relevant to the research question/topic,mammography intervention Chinese,Developing and evaluating an individually tailored intervention to increase mammography adherence among Chinese American Women
-770,TA,exclude,Not relevant to the research question/topic,NCI funding disparities,Disparities in National Cancer Institute and Nonprofit Organization Funding Disproportionately Affect Cancers With Higher Incidence Among Black Patients and Higher Mortality Rates
+770,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",NCI funding disparities,Disparities in National Cancer Institute and Nonprofit Organization Funding Disproportionately Affect Cancers With Higher Incidence Among Black Patients and Higher Mortality Rates
 771,TA,exclude,Not relevant to the research question/topic,lymphedema survivorship Pathways,Risk factors for lymphedema in a prospective breast cancer survivorship study: The pathways study
 772,TA,exclude,Not relevant to the research question/topic,mental-illness cohort SIR,Cancer incidence in a sample of Maryland residents with serious mental illness
 773,TA,exclude,Not relevant to the research question/topic,second primary colorectal,The incidence of second primary cancer in male and female patients with initial colorectal cancer: A SEER population-based study
@@ -2817,8 +2817,8 @@ record_id,stage,decision,display_reason,sub_reason,title
 2815,TA,exclude,Not relevant to the research question/topic,uterine leiomyomata BC BWHS,History of uterine leiomyomata and incidence of breast cancer
 2816,TA,exclude,Not a US population-based/registry study,radical surgery trends China,Trends in radical surgical treatment methods for breast malignancies in China: A multicenter 10-year retrospective study
 2817,TA,exclude,Not a US population-based/registry study,indigenous medicine cancer Australia,"Use of Traditional Indigenous Medicine and Complementary Medicine among Indigenous Cancer Patients in Queensland, Australia"
-2818,TA,exclude,Not relevant to the research question/topic,secondary malignancies WM SEER,Incidence of secondary malignancies among patients with Waldenström macroglobulinemia: An analysis of the SEER database
-2819,TA,exclude,Not relevant to the research question/topic,adiponectin cancer Dallas Heart,A prospective analysis of plasma adiponectin and risk of incident cancer: The dallas heart study
+2818,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",secondary malignancies WM SEER,Incidence of secondary malignancies among patients with Waldenström macroglobulinemia: An analysis of the SEER database
+2819,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",adiponectin cancer Dallas Heart,A prospective analysis of plasma adiponectin and risk of incident cancer: The dallas heart study
 2820,TA,exclude,Not relevant to the research question/topic,ketamine mastectomy chronic pain trial,Effects of Intraoperative Intravenous Ketamine on Chronic Pain After Mastectomy
 2821,TA,exclude,Not relevant to the research question/topic,incident cancer ischemic stroke VISP,"Incident cancer in a cohort of 3,247 cancer diagnosis free ischemic stroke patients"
 2822,TA,exclude,Not relevant to the research question/topic,cancer incidence US 1975-2020 all sites,"The past, present, and future of cancer incidence in the United States: 1975 through 2020"
@@ -3091,7 +3091,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 3089,TA,exclude,Not a US population-based/registry study,SES mortality causes Korea,Changes in contribution of causes of death to socioeconomic mortality inequalities in Korean adults
 3090,TA,exclude,Not relevant to the research question/topic,cancer incidence Three Mile Island,Cancer incidence among residents of the Three Mile Island accident area: 1982-1995
 3091,TA,exclude,Not relevant to the research question/topic,galectin-3 TRAIL breast cells,A galectin-3 sequence polymorphism confers TRAIL sensitivity to human breast cancer cells
-3092,TA,exclude,Not a US population-based/registry study,BC epidemiology Hong Kong,"Breast cancer in Hong Kong, Southern China: The first population-based analysis of epidemiological characteristics, stage-specific, cancer-specific, and disease-free survival in breast cancer patients: 1997-2001"
+3092,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC epidemiology Hong Kong,"Breast cancer in Hong Kong, Southern China: The first population-based analysis of epidemiological characteristics, stage-specific, cancer-specific, and disease-free survival in breast cancer patients: 1997-2001"
 3093,TA,exclude,Not relevant to the research question/topic,unstaged cancer US SEER all sites,Unstaged cancer in the United States: A population-based study
 3094,TA,exclude,Not a US population-based/registry study,AR polyglutamine Egyptian MBC,Androgen receptor polyglutamine tract length in Egyptian male breast cancer patients
 3095,TA,exclude,Not relevant to the research question/topic,HER2 heterogeneity FISH single institution,Evaluation of intratumoral HER-2 heterogeneity by fluorescence in situ hybridization in invasive breast cancer: A single institution study
@@ -3151,7 +3151,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 3149,TA,exclude,Not a US population-based/registry study,mammographic density Pike UK,Changes and tracking of mammographic density in relation to Pike's model of breast tissue aging: A UK longitudinal study
 3150,TA,exclude,Not a US population-based/registry study,pregnancy hormones Mongolian,Study of Pregnancy Hormone Concentrations in Urban and Nomadic Mongolian Women
 3151,TA,exclude,Not relevant to the research question/topic,smoking younger age BC diagnosis,History of smoking is associated with younger age at diagnosis of breast cancer
-3152,TA,exclude,Not relevant to the research question/topic,diabetes cancer consensus report,Diabetes and cancer: A consensus report
+3152,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",diabetes cancer consensus report,Diabetes and cancer: A consensus report
 3153,TA,exclude,Not relevant to the research question/topic,CTC surrogate MBC,Multi-center study evaluating circulating tumor cells as a surrogate for response to treatment and overall survival in metastatic breast cancer
 3154,TA,exclude,Not a US population-based/registry study,BC burden central Sudan,Breast cancer burden in central Sudan
 3155,TA,exclude,Not relevant to the research question/topic,gene expression soy isoflavones cell lines,Gene expression profiling of breast cancer cell lines in response to soy isoflavones using a pangenomic microarray approach
@@ -3194,9 +3194,9 @@ record_id,stage,decision,display_reason,sub_reason,title
 3192,TA,exclude,Not relevant to the research question/topic,MIR mapping SC racial sex disparities,Mapping cancer mortality-to-incidence ratios to illustrate racial and sex disparities in a high-risk population
 3193,TA,exclude,Not relevant to the research question/topic,cancer incidence US military ACTUR vs SEER,Cancer incidence in the U.S. military population: Comparison with rates from the SEER Program
 3194,TA,exclude,Not relevant to the research question/topic,SES BC tumor biology prognosis review,The influence of socioeconomic disparities on breast cancer tumor biology and prognosis: A review
-3195,TA,exclude,Not a US population-based/registry study,Lynch endometrial China conference,Clinicopathological features of endometrial carcinoma associated with lynch syndrome in China
+3195,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Lynch endometrial China conference,Clinicopathological features of endometrial carcinoma associated with lynch syndrome in China
 3196,TA,exclude,Not a US population-based/registry study,letrozole QoL Korea trial,"Assessment of Quality of Life, Bone Density and Safety in Postmenopausal Breast Cancer Patients With Letrozole (Femara) as an Early Adjuvant Treatment"
-3197,TA,exclude,Not a US population-based/registry study,ethnicity cancer Guyana,"Ethnicity and cancer in Guyana, South America"
+3197,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity cancer Guyana,"Ethnicity and cancer in Guyana, South America"
 3198,TA,exclude,Not a US population-based/registry study,Lynch endometrial China,Clinicopathological features in endometrial carcinoma associated with Lynch syndrome in China
 3199,TA,exclude,Not a US population-based/registry study,downstage BC Brazil cohort,A model to optimize public health care and downstage breast cancer in limited-resource populations in southern Brazil. (Porto Alegre Breast Health Intervention Cohort)
 3200,TA,exclude,Not relevant to the research question/topic,ethnicity body size estrogen Hispanic NHW,"Ethnicity, body size, and estrogen levels in postmenopausal hispanic and non-hispanic white women"
@@ -3336,7 +3336,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 3334,TA,exclude,Not relevant to the research question/topic,fluticasone COPD trial,"The efficacy and safety of inhaled fluticasone propionate/salmeterol and ipratropium/albuterol for the treatment of chronic obstructive pulmonary disease: An eight-week, multicenter, randomized, double-blind, double-dummy, parallel-group study"
 3335,TA,exclude,Not a US population-based/registry study,male BC incidence atomic bomb,Male breast cancer incidence among atomic bomb survivors
 3336,TA,exclude,Not relevant to the research question/topic,breast health weight loss Black women trial,A combined breast health/weight loss intervention for Black women
-3337,TA,exclude,Not relevant to the research question/topic,atrazine California risk assessment,A risk assessment of atrazine use in California: Human health and ecological aspects
+3337,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",atrazine California risk assessment,A risk assessment of atrazine use in California: Human health and ecological aspects
 3338,TA,exclude,Not relevant to the research question/topic,pilocarpine mucositis trial,Randomized controlled trial of pilocarpine hydrochloride for the moderation of oral mucositis during autologous blood stem cell transplantation
 3339,TA,exclude,Not relevant to the research question/topic,cancer incidence AYA US age patterns,Cancer incidence patterns among adolescents and young adults in the United States
 3340,TA,exclude,Not a US population-based/registry study,BC epidemiology Maori New Zealand,The epidemiology of breast cancer in Maori women in Aotearoa New Zealand: Implications for screening and treatment
@@ -3377,12 +3377,12 @@ record_id,stage,decision,display_reason,sub_reason,title
 3375,TA,exclude,Not a US population-based/registry study,predictive model BC South Korea,Determining the main risk factors and high-risk groups of breast cancer using a predictive model for breast cancer risk assessment in South Korea
 3376,TA,exclude,Not a US population-based/registry study,mammographic features Singaporean Chinese,Risk factors for breast cancer associated with mammographic features in Singaporean Chinese women
 3377,TA,exclude,Not relevant to the research question/topic,chemo-induced vomiting BC,Chemotherapy-induced vomiting in women treated for breast cancer.
-3378,TA,exclude,Not relevant to the research question/topic,genistein anticancer conference,"Anticancer therapeutic potential of soy isoflavone, genistein"
+3378,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",genistein anticancer conference,"Anticancer therapeutic potential of soy isoflavone, genistein"
 3379,TA,exclude,Not a US population-based/registry study,cancer Greenlandic Inuit,Cancer in Greenlandic inuit 1973-1997: A cohort study
 3380,TA,exclude,Not a US population-based/registry study,cancer AM radio transmitters Korea,Incidence of cancer in the vicinity of Korean AM radio transmitters
 3381,TA,exclude,Not relevant to the research question/topic,exercise BCIS risk,Lifetime Recreational Exercise Activity and Risk of Breast Carcinoma In Situ
 3382,TA,exclude,Not a US population-based/registry study,dietary factors BC Japanese,Dietary factors protective against breast cancer in Japanese premenopausal and postmenopausal women
-3383,TA,exclude,Not relevant to the research question/topic,conservation therapy T1-T2 relapse,"Conservation therapy in T1-T2 breast cancer: Past, current issues, and future challenges and opportunities"
+3383,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",conservation therapy T1-T2 relapse,"Conservation therapy in T1-T2 breast cancer: Past, current issues, and future challenges and opportunities"
 3384,TA,exclude,Not a US population-based/registry study,calcium BC Shanghai,Dietary calcium intake and breast cancer risk among Chinese women in Shanghai
 3385,TA,exclude,Not relevant to the research question/topic,antihypertensive BC Washington case-control,Relation between use of antihypertensive medications and risk of breast carcinoma among women ages 65-79 years
 3386,TA,exclude,Not relevant to the research question/topic,segregation analysis Ashkenazi BC genes,Segregation Analysis of 231 Ashkenazi Jewish Families for Evidence of Additional Breast Cancer Susceptibility Genes
@@ -3399,11 +3399,11 @@ record_id,stage,decision,display_reason,sub_reason,title
 3397,TA,exclude,Not a US population-based/registry study,HSD17B1 CYP17 Singapore Chinese,HSD17B1 and CYP17 polymorphisms and breast cancer risk among Chinese women in Singapore
 3398,TA,include,,Cancer incidence Koreans in US and Kangwha Korea,"Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea"
 3399,TA,exclude,Not a US population-based/registry study,ACE gene BC Singapore Chinese,Angiotensin I-converting enzyme (ACE) gene polymorphism and breast cancer risk among Chinese women in Singapore
-3400,TA,exclude,Not relevant to the research question/topic,ethnicity BC risk factors conference,Ethnicity-related variation in breast cancer risk factors
-3401,TA,exclude,Not relevant to the research question/topic,histopathology BC AA women conference,Histopathology of breast cancer among African-American women
-3402,TA,exclude,Not relevant to the research question/topic,BC young AA women summit summary,"Breast cancer among young African-American women: A summary of data and literature and of issues discussed during the ""Summit Meeting on Breast Cancer Among African American Women,"" Washington, DC, September 8-10, 2000"
+3400,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity BC risk factors conference,Ethnicity-related variation in breast cancer risk factors
+3401,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",histopathology BC AA women conference,Histopathology of breast cancer among African-American women
+3402,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC young AA women summit summary,"Breast cancer among young African-American women: A summary of data and literature and of issues discussed during the ""Summit Meeting on Breast Cancer Among African American Women,"" Washington, DC, September 8-10, 2000"
 3403,TA,exclude,Not a US population-based/registry study,does mammography hurt Jerusalem,Does mammography hurt?
-3404,TA,exclude,Not relevant to the research question/topic,osteoporosis prevention management,Prevention and management of osteoporosis
+3404,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",osteoporosis prevention management,Prevention and management of osteoporosis
 3405,TA,exclude,Not a US population-based/registry study,p53 codon 72 HPV China,p53 Codon 72 polymorphism (C/G) and the risk of human papillomavirus-associated carcinomas in China
 3406,TA,exclude,Not a US population-based/registry study,DCIS trends Singapore,Ductal carcinoma in situ of the breast in Singapore: Recent trends and clinical implications
 3407,TA,exclude,Not relevant to the research question/topic,ovarian cancer Ashkenazi BRCA,Ovarian cancer risk in Ashkenazi Jewish carriers of BRCA1 and BRCA2 mutations
@@ -3414,7 +3414,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 3412,TA,exclude,Not a US population-based/registry study,soy estrogen Singapore Chinese,Soy intake and other lifestyle determinants of serum estrogen levels among postmenopausal Chinese women in Singapore
 3413,TA,exclude,Not relevant to the research question/topic,radiation BC risk pooled 8 cohorts,Radiation effects on breast cancer risk: A pooled analysis of eight cohorts
 3414,TA,exclude,Not relevant to the research question/topic,serum insulin glucose BC ARIC,Serum insulin and glucose levels and breast cancer incidence: The atherosclerosis risk in communities study
-3415,TA,exclude,Not relevant to the research question/topic,lifestyle disease prevention mechanisms,"Lifestyle, health and disease prevention: The underlying mechanisms"
+3415,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",lifestyle disease prevention mechanisms,"Lifestyle, health and disease prevention: The underlying mechanisms"
 3416,TA,exclude,Not a US population-based/registry study,VDR polymorphism Taiwanese BC,Association of Vitamin D Receptor gene polymorphism with sporadic breast cancer in Taiwanese patients
 3417,TA,exclude,Not a US population-based/registry study,cancer Sami Northern Finland,"Cancer incidence among Sami in Northern Finland, 1979-1998"
 3418,TA,exclude,Not relevant to the research question/topic,oral contraceptives BC risk case-control,Oral contraceptives and the risk of breast cancer

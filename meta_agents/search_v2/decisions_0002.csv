@@ -27,7 +27,7 @@ record_id,decision,display_reason,sub_reason
 125,exclude,Not relevant to the research question/topic,second primary contralateral by HR status
 126,include,,SEER subtype incidence trends by age/race
 127,exclude,Not relevant to the research question/topic,risk-factor prevalence Hawaii
-128,exclude,Not relevant to the research question/topic,diet/screening behaviors Harlem
+128,exclude,"Editorials, commentaries, letters, or conference abstracts",diet/screening behaviors Harlem
 129,exclude,Not relevant to the research question/topic,diabetes incidence after hormonal therapy
 130,exclude,Not relevant to the research question/topic,mortality-to-incidence ratio NYC
 131,exclude,Not relevant to the research question/topic,mortality trends by state/race

@@ -28,7 +28,7 @@ record_id,decision,display_reason,sub_reason
 186,exclude,Not relevant to the research question/topic,post-diagnosis depression
 187,exclude,Not relevant to the research question/topic,risk-adjusted incidence methodology not race
 188,include,,ACS incidence by race/ethnicity update 2006
-189,exclude,Not relevant to the research question/topic,overall survival older patients
+189,exclude,"Editorials, commentaries, letters, or conference abstracts",overall survival older patients
 190,include,,Massachusetts registry Asian-subgroup incidence incl breast
 191,exclude,Not relevant to the research question/topic,SES decline in incidence
 192,exclude,Not relevant to the research question/topic,neighborhood stage/size

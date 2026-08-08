@@ -21,7 +21,7 @@ record_id,decision,display_reason,sub_reason
 639,exclude,Not relevant to the research question/topic,risk-prediction model BWHS
 640,exclude,Not a US population-based/registry study,UF single-institution tumor registry
 641,exclude,Not relevant to the research question/topic,density/mortality
-642,exclude,Not relevant to the research question/topic,pesticide mortality Mississippi
+642,exclude,"Editorials, commentaries, letters, or conference abstracts",pesticide mortality Mississippi
 643,exclude,Not relevant to the research question/topic,reconstruction disparities single institution
 644,exclude,Not relevant to the research question/topic,multiple-cancer prevalence survivorship
 645,exclude,Not relevant to the research question/topic,Native American screening recruitment

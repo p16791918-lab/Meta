@@ -14,9 +14,9 @@ record_id,decision,display_reason,sub_reason
 3192,exclude,Not relevant to the research question/topic,MIR mapping SC racial sex disparities
 3193,exclude,Not relevant to the research question/topic,cancer incidence US military ACTUR vs SEER
 3194,exclude,Not relevant to the research question/topic,SES BC tumor biology prognosis review
-3195,exclude,Not a US population-based/registry study,Lynch endometrial China conference
+3195,exclude,"Editorials, commentaries, letters, or conference abstracts",Lynch endometrial China conference
 3196,exclude,Not a US population-based/registry study,letrozole QoL Korea trial
-3197,exclude,Not a US population-based/registry study,ethnicity cancer Guyana
+3197,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity cancer Guyana
 3198,exclude,Not a US population-based/registry study,Lynch endometrial China
 3199,exclude,Not a US population-based/registry study,downstage BC Brazil cohort
 3200,exclude,Not relevant to the research question/topic,ethnicity body size estrogen Hispanic NHW

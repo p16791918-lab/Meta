@@ -31,7 +31,7 @@ record_id,decision,display_reason,sub_reason
 3089,exclude,Not a US population-based/registry study,SES mortality causes Korea
 3090,exclude,Not relevant to the research question/topic,cancer incidence Three Mile Island
 3091,exclude,Not relevant to the research question/topic,galectin-3 TRAIL breast cells
-3092,exclude,Not a US population-based/registry study,BC epidemiology Hong Kong
+3092,exclude,"Editorials, commentaries, letters, or conference abstracts",BC epidemiology Hong Kong
 3093,exclude,Not relevant to the research question/topic,unstaged cancer US SEER all sites
 3094,exclude,Not a US population-based/registry study,AR polyglutamine Egyptian MBC
 3095,exclude,Not relevant to the research question/topic,HER2 heterogeneity FISH single institution

@@ -55,7 +55,7 @@ record_id,decision,display_reason,sub_reason
 273,exclude,Not relevant to the research question/topic,Hispanic/NHW risk-factor case-control
 274,exclude,Not relevant to the research question/topic,de novo metastatic occurrence by subtype
 275,exclude,Not relevant to the research question/topic,Hispanic mortality
-276,exclude,Not a US population-based/registry study,Hong Kong Chinese
+276,exclude,"Editorials, commentaries, letters, or conference abstracts",Hong Kong Chinese
 277,include,,SEER race/ethnicity age distribution of diagnosis
 278,include,,SEER distant-involvement incidence by race/stage
 279,exclude,Not a US population-based/registry study,VHA veterans not population-based

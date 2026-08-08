@@ -31,7 +31,7 @@ record_id,decision,display_reason,sub_reason
 3149,exclude,Not a US population-based/registry study,mammographic density Pike UK
 3150,exclude,Not a US population-based/registry study,pregnancy hormones Mongolian
 3151,exclude,Not relevant to the research question/topic,smoking younger age BC diagnosis
-3152,exclude,Not relevant to the research question/topic,diabetes cancer consensus report
+3152,exclude,"Editorials, commentaries, letters, or conference abstracts",diabetes cancer consensus report
 3153,exclude,Not relevant to the research question/topic,CTC surrogate MBC
 3154,exclude,Not a US population-based/registry study,BC burden central Sudan
 3155,exclude,Not relevant to the research question/topic,gene expression soy isoflavones cell lines

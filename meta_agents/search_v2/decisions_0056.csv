@@ -36,7 +36,7 @@ record_id,decision,display_reason,sub_reason
 3334,exclude,Not relevant to the research question/topic,fluticasone COPD trial
 3335,exclude,Not a US population-based/registry study,male BC incidence atomic bomb
 3336,exclude,Not relevant to the research question/topic,breast health weight loss Black women trial
-3337,exclude,Not relevant to the research question/topic,atrazine California risk assessment
+3337,exclude,"Editorials, commentaries, letters, or conference abstracts",atrazine California risk assessment
 3338,exclude,Not relevant to the research question/topic,pilocarpine mucositis trial
 3339,exclude,Not relevant to the research question/topic,cancer incidence AYA US age patterns
 3340,exclude,Not a US population-based/registry study,BC epidemiology Maori New Zealand

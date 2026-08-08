@@ -37,8 +37,8 @@ record_id,decision,display_reason,sub_reason
 2815,exclude,Not relevant to the research question/topic,uterine leiomyomata BC BWHS
 2816,exclude,Not a US population-based/registry study,radical surgery trends China
 2817,exclude,Not a US population-based/registry study,indigenous medicine cancer Australia
-2818,exclude,Not relevant to the research question/topic,secondary malignancies WM SEER
-2819,exclude,Not relevant to the research question/topic,adiponectin cancer Dallas Heart
+2818,exclude,"Editorials, commentaries, letters, or conference abstracts",secondary malignancies WM SEER
+2819,exclude,"Editorials, commentaries, letters, or conference abstracts",adiponectin cancer Dallas Heart
 2820,exclude,Not relevant to the research question/topic,ketamine mastectomy chronic pain trial
 2821,exclude,Not relevant to the research question/topic,incident cancer ischemic stroke VISP
 2822,exclude,Not relevant to the research question/topic,cancer incidence US 1975-2020 all sites

@@ -17,12 +17,12 @@ record_id,decision,display_reason,sub_reason
 3375,exclude,Not a US population-based/registry study,predictive model BC South Korea
 3376,exclude,Not a US population-based/registry study,mammographic features Singaporean Chinese
 3377,exclude,Not relevant to the research question/topic,chemo-induced vomiting BC
-3378,exclude,Not relevant to the research question/topic,genistein anticancer conference
+3378,exclude,"Editorials, commentaries, letters, or conference abstracts",genistein anticancer conference
 3379,exclude,Not a US population-based/registry study,cancer Greenlandic Inuit
 3380,exclude,Not a US population-based/registry study,cancer AM radio transmitters Korea
 3381,exclude,Not relevant to the research question/topic,exercise BCIS risk
 3382,exclude,Not a US population-based/registry study,dietary factors BC Japanese
-3383,exclude,Not relevant to the research question/topic,conservation therapy T1-T2 relapse
+3383,exclude,"Editorials, commentaries, letters, or conference abstracts",conservation therapy T1-T2 relapse
 3384,exclude,Not a US population-based/registry study,calcium BC Shanghai
 3385,exclude,Not relevant to the research question/topic,antihypertensive BC Washington case-control
 3386,exclude,Not relevant to the research question/topic,segregation analysis Ashkenazi BC genes
@@ -39,11 +39,11 @@ record_id,decision,display_reason,sub_reason
 3397,exclude,Not a US population-based/registry study,HSD17B1 CYP17 Singapore Chinese
 3398,include,,Cancer incidence Koreans in US and Kangwha Korea
 3399,exclude,Not a US population-based/registry study,ACE gene BC Singapore Chinese
-3400,exclude,Not relevant to the research question/topic,ethnicity BC risk factors conference
-3401,exclude,Not relevant to the research question/topic,histopathology BC AA women conference
-3402,exclude,Not relevant to the research question/topic,BC young AA women summit summary
+3400,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity BC risk factors conference
+3401,exclude,"Editorials, commentaries, letters, or conference abstracts",histopathology BC AA women conference
+3402,exclude,"Editorials, commentaries, letters, or conference abstracts",BC young AA women summit summary
 3403,exclude,Not a US population-based/registry study,does mammography hurt Jerusalem
-3404,exclude,Not relevant to the research question/topic,osteoporosis prevention management
+3404,exclude,"Editorials, commentaries, letters, or conference abstracts",osteoporosis prevention management
 3405,exclude,Not a US population-based/registry study,p53 codon 72 HPV China
 3406,exclude,Not a US population-based/registry study,DCIS trends Singapore
 3407,exclude,Not relevant to the research question/topic,ovarian cancer Ashkenazi BRCA
@@ -54,7 +54,7 @@ record_id,decision,display_reason,sub_reason
 3412,exclude,Not a US population-based/registry study,soy estrogen Singapore Chinese
 3413,exclude,Not relevant to the research question/topic,radiation BC risk pooled 8 cohorts
 3414,exclude,Not relevant to the research question/topic,serum insulin glucose BC ARIC
-3415,exclude,Not relevant to the research question/topic,lifestyle disease prevention mechanisms
+3415,exclude,"Editorials, commentaries, letters, or conference abstracts",lifestyle disease prevention mechanisms
 3416,exclude,Not a US population-based/registry study,VDR polymorphism Taiwanese BC
 3417,exclude,Not a US population-based/registry study,cancer Sami Northern Finland
 3418,exclude,Not relevant to the research question/topic,oral contraceptives BC risk case-control
