@@ -3719,3 +3719,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3717,TA,exclude,Not a US population-based/registry study,genetic ancestry DNA methylation Uruguay,Effect of genetic ancestry on leukocyte global DNA methylation in cancer patients
 3718,TA,exclude,Not relevant to the research question/topic,genome-driven oncology benefit estimate,Estimation of the percentage of US patients with cancer who benefit from genome-driven oncology
 3719,TA,exclude,Not relevant to the research question/topic,rural health accessibility cancer Native American,The impact of rural health care accessibility on cancer-related behaviors and outcomes
+3720,TA,exclude,Not relevant to the research question/topic,neighborhood social determinants TNBC Louisiana,Neighborhood social determinants of triple negative breast cancer
+3721,TA,exclude,Not relevant to the research question/topic,trastuzumab cardiomyopathy inner-city,Trastuzumab-induced cardiomyopathy: Incidence and associated risk factors in an inner-city population
+3722,TA,exclude,Not a US population-based/registry study,HBM BSE Mexican students,The health belief model and prediction of breast self-examination practices in female Mexican college students
+3723,TA,exclude,Not relevant to the research question/topic,cancer prevention South Asian Americans chapter,Cancer
+3724,TA,exclude,Not relevant to the research question/topic,DDT in utero BC risk,DDT exposure in utero and breast cancer
+3725,TA,exclude,Not relevant to the research question/topic,HRQOL Black TNBC survivors,Health-related quality of life in Black breast cancer survivors with and without triple-negative breast cancer (TNBC)
+3726,TA,exclude,Not relevant to the research question/topic,LCIS treatment survival SEER,Treatment and survival outcomes of lobular carcinoma in situ of the breast: A SEER population based study
+3727,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",understanding disparity recruit minorities survey,Understanding disparity: Researchers strive to recruit more African Americans and other minorities to studies
+3728,TA,exclude,Not relevant to the research question/topic,vaginal estrogen BC endometrial CVD WHI,"Breast cancer, endometrial cancer, and cardiovascular events in participants who used vaginal estrogen in the Women's Health Initiative Observational Study"
+3729,TA,exclude,Not relevant to the research question/topic,racial disparities initiation adjuvant ET,Racial disparities in initiation of adjuvant endocrine therapy of early breast cancer
+3730,TA,exclude,Not relevant to the research question/topic,SES incidence BC by HR subtype,Socioeconomic status and incidence of breast cancer by hormone receptor subtype
+3731,TA,exclude,Not relevant to the research question/topic,nomogram male BC mortality SEER,Nomogram predicting cause-specific mortality in nonmetastatic male breast cancer: A competing risk analysis
+3732,TA,exclude,Not a US population-based/registry study,cancer care Latin America book chapter,Recent challenges and achievements in cancer care in latin American societies
+3733,TA,exclude,Not relevant to the research question/topic,autoimmune encephalitis epidemiology,Autoimmune encephalitis epidemiology and a comparison to infectious encephalitis
+3734,TA,exclude,Not relevant to the research question/topic,stem cell divisions cancer etiology,"Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention"
+3735,TA,exclude,Not relevant to the research question/topic,barriers mammography Black women,Barriers to Mammography Use for Black Women
+3736,TA,exclude,Not relevant to the research question/topic,cancer screening mental illness,"Cancer screening, prevention, and treatment in people with mental illness"
+3737,TA,exclude,Not relevant to the research question/topic,cancer health disparities tumor biology chapter,Cancer health disparities: Contributions from tumor biology and gene-environment interactions
+3738,TA,exclude,Not relevant to the research question/topic,TNBC risk estrogen signaling review,Triple-negative breast cancer risk in women is defined by the defect of estrogen signaling: Preventive and therapeutic implications
+3739,TA,exclude,Not a US population-based/registry study,ethics media BC Venezuela,"Ethics, risk, and media intervention: Women's breast cancer in venezuela"
+3740,TA,exclude,Not relevant to the research question/topic,NBCCEDP service delivery referral,From cancer screening to treatment: Service delivery and referral in the National Breast and Cervical Cancer Early Detection Program
+3741,TA,exclude,Not relevant to the research question/topic,disparities BC characteristics treatment survival AA white,"Disparities in breast cancer tumor characteristics, treatment, time to treatment, and survival probability among African American and white women"
+3742,TA,exclude,Not relevant to the research question/topic,demographic lifestyle mammography compliance chapter,Demographic and Lifestyle Data: A Practical Application to Stimulating Compliance with Mammography Guidelines Among Poor Women
+3743,TA,exclude,Not relevant to the research question/topic,ASCO HER2 brain metastases guideline,Recommendations on disease management for patients with advanced human epidermal growth factor receptor 2-positive breast cancer and brain metastases: American Society of Clinical Oncology clinical practice guideline
+3744,TA,exclude,Not relevant to the research question/topic,allergies asthma cancer risk Southern Community,Allergies and asthma in relation to cancer risk
+3745,TA,exclude,Not relevant to the research question/topic,diabetes complications BC stage SEER-Medicare,Association of the severity of diabetes-related complications with stage of breast cancer at diagnosis among elderly women with pre-existing diabetes
+3746,TA,exclude,Not relevant to the research question/topic,nationwide mastectomy trends,Nationwide trends in mastectomy for early-stage breast cancer
+3747,TA,exclude,Not relevant to the research question/topic,statins BC stage mortality WHI,Statins and breast cancer stage and mortality in the Women’s Health Initiative
+3748,TA,exclude,Not relevant to the research question/topic,racial disparities mortality metastatic BC,Racial disparities in all-cause mortality among younger commercially insured women with incident metastatic breast cancer
+3749,TA,exclude,Not relevant to the research question/topic,refusal radiation surgery SEER,Refusal of curative radiation therapy and surgery among patients with cancer
+3750,TA,exclude,Not relevant to the research question/topic,pegfilgrastim ANC trajectory,Trajectory of absolute neutrophil counts in patients treated with pegfilgrastim on the day of chemotherapy versus the day after chemotherapy
+3751,TA,exclude,Not relevant to the research question/topic,mobile phone BC screening Korean American,Mobile phone multilevel and multimedia messaging intervention for breast cancer screening: Pilot randomized controlled trial
+3752,TA,exclude,Not relevant to the research question/topic,pregnancy exposures BC generations chapter,Pregnancy Exposures Determine Risk of Breast Cancer in Multiple Generations of Offspring
+3753,TA,exclude,Not relevant to the research question/topic,AA worse prognosis subtypes stages SEER,African American patients with breast cancer have worse prognosis than white patients in certain subtypes and stages
+3754,TA,exclude,Not a US population-based/registry study,cancer epidemiology Pacific Islands small nations,Cancer epidemiology in the small nations of Pacific Islands
+3755,TA,exclude,Not relevant to the research question/topic,persistence mammography stage SEER-Medicare,Association between persistence with mammography screening and stage at diagnosis among elderly women diagnosed with breast cancer
+3756,TA,exclude,Not relevant to the research question/topic,age at cancer diagnosis blacks whites US all-cancer,Age at cancer diagnosis for blacks compared with whites in the United States
+3757,TA,exclude,Not relevant to the research question/topic,risk factors in situ invasive BC NIH-AARP,Epidemiologic risk factors for in situ and invasive breast cancers among postmenopausal women in the national institutes of health-AARP diet and health study
+3758,TA,exclude,Not relevant to the research question/topic,BC stage survival by race Iqbal JAMA,"Differences in breast cancer stage at diagnosis and cancer-specific survival by race and ethnicity in the United States: Iqbal J, Ginsburg O, Rochon PA, et al (Women's College Hosp, Toronto, Ontario, Canada) JAMA 313:165-173, 2015"
+3759,TA,exclude,Not relevant to the research question/topic,PR grade 21-gene RS ILC SEER,Progesterone receptor status and tumor grade predict the 21-gene recurrence score of invasive lobular breast cancer
+3760,TA,exclude,Not relevant to the research question/topic,energy indicators BC white black Nashville,Energy-related indicators and breast cancer risk among white and black women
+3761,TA,exclude,Not relevant to the research question/topic,affluence BC outcomes AA DC registry,Affluence does not influence breast cancer outcomes in African American women
+3762,TA,exclude,Not relevant to the research question/topic,mediation racial disparities ER/PR-neg BC Chicago,Mediation of racial and ethnic disparities in estrogen/progesterone receptor-negative breast cancer by socioeconomic position and reproductive factors
+3763,TA,exclude,Not relevant to the research question/topic,epidemiology BC in women book chapter,Epidemiology of Breast Cancer in Women
+3764,TA,exclude,Not relevant to the research question/topic,cancer cerebrovascular REGARDS,New diagnosis of cancer and the risk of subsequent cerebrovascular events
+3765,TA,exclude,Not relevant to the research question/topic,rosacea cancer NHS II,Personal history of rosacea and risk of incident cancer among women in the US
+3766,TA,exclude,Not relevant to the research question/topic,mushroom cancer US cohorts,Mushroom consumption and risk of total and site-specific cancer in two large U.S. prospective cohorts
+3767,TA,exclude,Not relevant to the research question/topic,visualization BC survival Missouri registry,Improving visualization of female breast cancer survival estimates: Analysis using interactive mapping reports
+3768,TA,exclude,Not relevant to the research question/topic,red meat fish BC Hispanic NHW,"Red meat, poultry, and fish intake and breast cancer risk among Hispanic and Non-Hispanic white women: The Breast Cancer Health Disparities Study"
+3769,TA,exclude,Not relevant to the research question/topic,CPM rising rates NJ,Rising Rates of Contralateral Prophylactic Mastectomy as a Treatment for Early-Stage Breast Cancer
+3770,TA,exclude,Not relevant to the research question/topic,dairy BC meta-analysis,The association between dairy intake and breast cancer in western and Asian populations: A systematic review and meta-analysis
+3771,TA,exclude,Not relevant to the research question/topic,cancer survivorship SOGI book chapter,Cancer survivorship: What are the numbers? the epidemiology of cancer by sexual orientation and gender identity
+3772,TA,exclude,Not relevant to the research question/topic,SES inequalities cancer incidence mortality chapter,Socioeconomic Inequalities in Cancer Incidence and Mortality
+3773,TA,exclude,Not relevant to the research question/topic,metabolic syndrome BC subtypes race NIH-AARP,"Metabolic syndrome and the risk of breast cancer and subtypes by race, menopause and BMI"
+3774,TA,exclude,Not relevant to the research question/topic,rare secretory carcinoma NCDB,Rare breast cancer: 246 invasive secretory carcinomas from the National Cancer Data Base
+3775,TA,exclude,Not relevant to the research question/topic,residential air pollution BC California Teachers,Residential exposure to estrogen disrupting hazardous air pollutants and breast cancer risk the California teachers study
+3776,TA,exclude,Not a US population-based/registry study,urinary metabolite Colombian Hispanic BC,Urinary metabolite and lipid alterations in Colombian Hispanic women with breast cancer: A pilot study
+3777,TA,exclude,Not a US population-based/registry study,cancer survival Cali Colombia,"Cancer survival in Cali, Colombia: A population-based study, 1995-2004; [Superviviencia del cancer en Cali: Estudio poblacional, 1995-2004]"
+3778,TA,exclude,Not a US population-based/registry study,cancer incidence survival Métis Canada,Cancer incidence and survival among Métis adults in Canada: Results from the Canadian census follow-up cohort (1992-2009)
+3779,TA,exclude,Not relevant to the research question/topic,screening impact cancer incidence mortality Missouri,"The impact of screening on cancer incidence and mortality in Missouri, USA, 2004–2013"
