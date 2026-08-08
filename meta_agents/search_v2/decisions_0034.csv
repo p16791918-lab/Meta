@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2000,exclude,Not relevant to the research question/topic,SM NHL survivors SEER SIR
+2001,exclude,Not a US population-based/registry study,tamoxifen cataracts Korea
+2002,exclude,Not a US population-based/registry study,BC survival Poland
+2003,exclude,Not a US population-based/registry study,PRS Japanese females
+2004,exclude,Not relevant to the research question/topic,TAVR Japan outcomes
+2005,exclude,Not relevant to the research question/topic,BC mortality after DCIS SEER
+2006,exclude,Not a US population-based/registry study,CAMO cohort Norway NOWAC
+2007,exclude,Not relevant to the research question/topic,CACS lymphoma cardiotoxicity
+2008,exclude,Not relevant to the research question/topic,neighborhood income RS survival
+2009,exclude,Not a US population-based/registry study,stage-specific BC Canadian immigrant
+2010,exclude,Not a US population-based/registry study,Xavante Indians Brazil genetics
+2011,exclude,Not relevant to the research question/topic,ERBB2 vaccine phase 1 trial
+2012,exclude,Not a US population-based/registry study,BC air pollution ELAPSE Europe
+2013,exclude,Not relevant to the research question/topic,Reiki qigong diabetes trial
+2014,exclude,Not relevant to the research question/topic,BCT vs mastectomy survival SEER
+2015,exclude,Not relevant to the research question/topic,high-fat diet rat model
+2016,exclude,Not relevant to the research question/topic,alpelisib hyperglycemia prophylaxis
+2017,exclude,Not a US population-based/registry study,CDK4/6 Japan claims
+2018,exclude,Not a US population-based/registry study,industrial complex cancer Israel
+2019,exclude,Not a US population-based/registry study,body composition neurotoxicity China
+2020,exclude,Not relevant to the research question/topic,G-CSF cost-effectiveness neutropenia
+2021,include,,Cancer Statistics 2023 US incidence by race
+2022,exclude,Not a US population-based/registry study,QoL TCM Taiwan
+2023,exclude,Not relevant to the research question/topic,pyrotinib lapatinib meta-analysis
+2024,exclude,"Editorials, commentaries, letters, or conference abstracts",DNA methylation age BC risk short survey
+2025,exclude,Not a US population-based/registry study,women's cancer Changle China
+2026,exclude,Not relevant to the research question/topic,VTE solid tumor China
+2027,exclude,Not a US population-based/registry study,diabetes cancer Thailand
+2028,exclude,Not a US population-based/registry study,CHM stage IV BC Taiwan
+2029,exclude,Not relevant to the research question/topic,DNA methylation ER- Black/White
+2030,exclude,Not relevant to the research question/topic,synchronous brain metastases SEER
+2031,exclude,Not a US population-based/registry study,BC awareness Pakistan
+2032,exclude,Not relevant to the research question/topic,SPC Kentucky/Appalachia
+2033,exclude,Not relevant to the research question/topic,esketamine depression trial protocol
+2034,exclude,Not relevant to the research question/topic,subsequent BC HER2+ community California
+2035,exclude,Not relevant to the research question/topic,early cancer detection chapter
+2036,exclude,Not relevant to the research question/topic,tumor morphology AA/Caucasian ML
+2037,exclude,Not relevant to the research question/topic,syndrome cancers FDR PDAC
+2038,include,,TNBC incidence trends US by race/ethnicity SEER 2010-2019
+2039,exclude,Not a US population-based/registry study,NBCS model Cameroon/Uganda
+2040,exclude,Not a US population-based/registry study,epidemiology BC China vs US
+2041,exclude,Not relevant to the research question/topic,SSI inflammatory markers China
+2042,exclude,Not relevant to the research question/topic,SPC pan-cancer SEER/UK Biobank
+2043,exclude,Not a US population-based/registry study,SNP cancer incidence Korea
+2044,exclude,Not a US population-based/registry study,tamoxifen osteoporosis Korea
+2045,exclude,Not a US population-based/registry study,BCS vs mastectomy India
+2046,exclude,Not relevant to the research question/topic,vitamin D CIPN SWOG
+2047,exclude,Not a US population-based/registry study,BC screening Gambia
+2048,exclude,"Editorials, commentaries, letters, or conference abstracts",young Filipino survival conference paper
+2049,exclude,Not a US population-based/registry study,cancer incidence claims Japan
+2050,exclude,Not a US population-based/registry study,cancer diabetes New Zealand
+2051,exclude,Not a US population-based/registry study,BC phenotypes Africa scoping review
+2052,exclude,Not relevant to the research question/topic,lifestyle Black survivors pilot
+2053,exclude,Not a US population-based/registry study,BC care HDI GLOBOCAN
+2054,exclude,Not a US population-based/registry study,CHM TNBC China meta-analysis
+2055,exclude,Not relevant to the research question/topic,BC incidence family history relative age BCSC
+2056,exclude,Not relevant to the research question/topic,BRISK Mariana Islands risk model
+2057,exclude,Not a US population-based/registry study,BC subtypes immigrant Norway
+2058,exclude,Not relevant to the research question/topic,race/ethnicity BC disparities forum
+2059,exclude,Not relevant to the research question/topic,daprodustat CKD Japan
