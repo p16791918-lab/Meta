@@ -1,0 +1,41 @@
+record_id,decision,display_reason,sub_reason
+2960,exclude,Not a US population-based/registry study,PIK3CA rs17849079 Arab
+2961,exclude,Not relevant to the research question/topic,racial disparities treatment HER2 MBC registHER
+2962,exclude,Not a US population-based/registry study,ultrasound surveillance Asian
+2963,exclude,Not a US population-based/registry study,fracture Asian BC Taiwan
+2964,exclude,"Editorials, commentaries, letters, or conference abstracts",tamoxifen depression AA case
+2965,exclude,Not relevant to the research question/topic,HDL-C cancer T2D reverse causality
+2966,exclude,Not a US population-based/registry study,survival stage Korea registry
+2967,exclude,Not a US population-based/registry study,BC mortality Norwegian screening
+2968,exclude,Not a US population-based/registry study,soy isoflavone BC Japan Takayama
+2969,exclude,Not relevant to the research question/topic,CYP19A1 AI bone loss
+2970,exclude,Not a US population-based/registry study,p53 aging cancer IARC GLOBOCAN
+2971,exclude,Not relevant to the research question/topic,statin concentration pharmacogenetics
+2972,exclude,Not relevant to the research question/topic,bladder cancer other neoplasms SEER
+2973,exclude,Not a US population-based/registry study,cancer incidence black Harare Zimbabwe
+2974,exclude,Not a US population-based/registry study,calcium BC Singapore Chinese
+2975,exclude,Not a US population-based/registry study,breast density ethnic New Zealand
+2976,exclude,Not a US population-based/registry study,ER status risk factors Uganda
+2977,exclude,Not relevant to the research question/topic,FDG uptake axillary metastasis
+2978,exclude,Not relevant to the research question/topic,melanoma drainage axillary dissection
+2979,exclude,Not a US population-based/registry study,molecular subtypes Hong Kong pilot
+2980,exclude,"Editorials, commentaries, letters, or conference abstracts",incidence BC young women letter
+2981,exclude,"Editorials, commentaries, letters, or conference abstracts",incidence BC young women reply letter
+2982,exclude,Not relevant to the research question/topic,phytoestrogen Fallopia ER agonist
+2983,exclude,Not relevant to the research question/topic,fogger truck DDT Long Island BC
+2984,exclude,Not a US population-based/registry study,Jobelyn BC Nigeria trial
+2985,exclude,Not a US population-based/registry study,de novo malignancy liver transplant Japan
+2986,exclude,Not relevant to the research question/topic,SES cancer mortality Hispanic paradox Texas
+2987,exclude,Not relevant to the research question/topic,PENELOPEB palbociclib trial
+2988,exclude,Not relevant to the research question/topic,mammographic density Ashkenazi Jewish
+2989,include,,Cancer Statistics for African Americans 2013
+2990,exclude,Not relevant to the research question/topic,spatial BC incidence uninsured Texas
+2991,exclude,Not a US population-based/registry study,social support cancer Japan JPHC
+2992,exclude,Not a US population-based/registry study,smoking BC New Zealand multi-ethnic
+2993,exclude,Not a US population-based/registry study,NET epidemiology Taiwan
+2994,exclude,Not a US population-based/registry study,HER2 mucinous ovarian Singapore
+2995,exclude,Not a US population-based/registry study,cancer incidence South Asian migrants England
+2996,exclude,Not a US population-based/registry study,IL10 docetaxel liver injury Chinese
+2997,exclude,Not relevant to the research question/topic,KAB Arab-American inherited cancer
+2998,exclude,Not a US population-based/registry study,cancer incidence China 2009
+2999,exclude,"Editorials, commentaries, letters, or conference abstracts",black-white crossover subtypes letter

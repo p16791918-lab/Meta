@@ -2959,3 +2959,43 @@ record_id,stage,decision,display_reason,sub_reason,title
 2957,TA,exclude,Not relevant to the research question/topic,passive smoking BC meta-analysis,Lack of an Association between Passive Smoking and Incidence of Female Breast Cancer in Non-Smokers: Evidence from 10 Prospective Cohort Studies
 2958,TA,exclude,Not relevant to the research question/topic,AACR cancer progress report 2013,AACR cancer progress report 2013
 2959,TA,exclude,Not a US population-based/registry study,younger onset Asia APC IARC CI5,Addressing the younger age at onset in breast cancer patients in asia: An age-period-cohort analysis of fifty years of quality data from the international agency for research on cancer
+2960,TA,exclude,Not a US population-based/registry study,PIK3CA rs17849079 Arab,Prevalence of PIK3CA mutations and the SNP rs17849079 in Arab breast cancer patients
+2961,TA,exclude,Not relevant to the research question/topic,racial disparities treatment HER2 MBC registHER,Racial disparities in treatment patterns and clinical outcomes in patients with HER2-positive metastatic breast cancer
+2962,TA,exclude,Not a US population-based/registry study,ultrasound surveillance Asian,Value of ultrasound for postoperative surveillance of asian patients with history of breast cancer surgery: A single-center study
+2963,TA,exclude,Not a US population-based/registry study,fracture Asian BC Taiwan,Fracture in Asian Women with Breast Cancer Occurs at Younger Age
+2964,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",tamoxifen depression AA case,Tamoxifen and depression: Drug interactions in breast cancer
+2965,TA,exclude,Not relevant to the research question/topic,HDL-C cancer T2D reverse causality,The association of high-density lipoprotein cholesterol with cancer incidence in type ii diabetes: A case of reverse causality?
+2966,TA,exclude,Not a US population-based/registry study,survival stage Korea registry,"Survival of Korean adult cancer patients by stage at diagnosis, 2006-2010: National cancer registry study"
+2967,TA,exclude,Not a US population-based/registry study,BC mortality Norwegian screening,Breast cancer mortality in participants of the Norwegian Breast Cancer Screening Program
+2968,TA,exclude,Not a US population-based/registry study,soy isoflavone BC Japan Takayama,Soy isoflavone intake and breast cancer risk in Japan: From the Takayama study
+2969,TA,exclude,Not relevant to the research question/topic,CYP19A1 AI bone loss,Genetic polymorphism at Val(80) (rs700518) of the CYP19A1 gene is associated with aromatase inhibitor associated bone loss in women with ER (+) breast cancer
+2970,TA,exclude,Not a US population-based/registry study,p53 aging cancer IARC GLOBOCAN,P53 mutations associated with aging-related rise in cancer incidence rates
+2971,TA,exclude,Not relevant to the research question/topic,statin concentration pharmacogenetics,Clinical and pharmacogenetic predictors of circulating atorvastatin and rosuvastatin concentrations in routine clinical care
+2972,TA,exclude,Not relevant to the research question/topic,bladder cancer other neoplasms SEER,The risk of bladder cancer in patients diagnosed with other primary neoplasms: Analysis of the SEER database
+2973,TA,exclude,Not a US population-based/registry study,cancer incidence black Harare Zimbabwe,"Trends in the incidence of cancer in the black population of Harare, Zimbabwe 1991-2010"
+2974,TA,exclude,Not a US population-based/registry study,calcium BC Singapore Chinese,Calcium intake is not related to breast cancer risk among Singapore Chinese women
+2975,TA,exclude,Not a US population-based/registry study,breast density ethnic New Zealand,Age and Ethnic Differences in Volumetric Breast Density in New Zealand Women: A Cross-Sectional Study
+2976,TA,exclude,Not a US population-based/registry study,ER status risk factors Uganda,Difference in risk factors for breast cancer by ER status in an indigenous African population
+2977,TA,exclude,Not relevant to the research question/topic,FDG uptake axillary metastasis,The clinical value of tumor FDG uptake for predicting axillary lymph node metastasis in breast cancer with clinically negative axillary lymph nodes
+2978,TA,exclude,Not relevant to the research question/topic,melanoma drainage axillary dissection,Altered drainage patterns in patients with melanoma and previous axillary dissection
+2979,TA,exclude,Not a US population-based/registry study,molecular subtypes Hong Kong pilot,Characterization of Molecular Subtypes of Breast Cancer and Their Relationships With Known Breast Cancer Risk Factors Among Chinese Women in Hong Kong - A Pilot Study
+2980,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",incidence BC young women letter,Incidence rate of breast cancer in young women [3]
+2981,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",incidence BC young women reply letter,Incidence rate of breast cancer in young women - Reply
+2982,TA,exclude,Not relevant to the research question/topic,phytoestrogen Fallopia ER agonist,"2,3-cis-2R,3R-(-)-epiafzelechin-3-O-p-coumarate, a novel flavan-3-ol isolated from Fallopia convolvulus seed, is an estrogen receptor agonist in human cell lines"
+2983,TA,exclude,Not relevant to the research question/topic,fogger truck DDT Long Island BC,Exposure to fogger trucks and breast cancer incidence in the long Island breast cancer study project: A case-control study
+2984,TA,exclude,Not a US population-based/registry study,Jobelyn BC Nigeria trial,"A Prospective Phase II Randomized, Blinded Study to Demonstrate the Effectiveness of Jobelyn for the Treatment of Breast Cancer Patients."
+2985,TA,exclude,Not a US population-based/registry study,de novo malignancy liver transplant Japan,De novo malignancies after adult-to-adult living-donor liver transplantation with a malignancy surveillance program: Comparison with a japanese population-based study
+2986,TA,exclude,Not relevant to the research question/topic,SES cancer mortality Hispanic paradox Texas,"Socioeconomic deprivation as a determinant of cancer mortality and the Hispanic paradox in Texas, USA"
+2987,TA,exclude,Not relevant to the research question/topic,PENELOPEB palbociclib trial,"Phase III Study Evaluating Palbociclib (PD-0332991), a Cyclin-Dependent Kinase (CDK) 4/6 Inhibitor in Patients With Hormone-receptor-positive, HER2-normal Primary Breast Cancer With High Relapse Risk After Neoadjuvant Chemotherapy ""PENELOPEB"""
+2988,TA,exclude,Not relevant to the research question/topic,mammographic density Ashkenazi Jewish,High mammographic density in women of Ashkenazi Jewish descent
+2989,TA,include,,Cancer Statistics for African Americans 2013,"Cancer statistics for African Americans, 2013"
+2990,TA,exclude,Not relevant to the research question/topic,spatial BC incidence uninsured Texas,Spatial patterns of breast cancer incidence and uninsured women of mammography screening age
+2991,TA,exclude,Not a US population-based/registry study,social support cancer Japan JPHC,Social support and cancer incidence and mortality: The JPHC study cohort II
+2992,TA,exclude,Not a US population-based/registry study,smoking BC New Zealand multi-ethnic,Cigarette Smoking and Risk of Breast Cancer in a New Zealand Multi-Ethnic Case-Control Study
+2993,TA,exclude,Not a US population-based/registry study,NET epidemiology Taiwan,The Epidemiology of Neuroendocrine Tumors in Taiwan: A Nation-Wide Cancer Registry-Based Study
+2994,TA,exclude,Not a US population-based/registry study,HER2 mucinous ovarian Singapore,HER2 Amplification and Clinicopathological Characteristics in a Large Asian Cohort of Rare Mucinous Ovarian Cancer
+2995,TA,exclude,Not a US population-based/registry study,cancer incidence South Asian migrants England,"Cancer incidence in South Asian migrants to England, 1986-2004: Unraveling ethnic from socioeconomic differentials"
+2996,TA,exclude,Not a US population-based/registry study,IL10 docetaxel liver injury Chinese,Specific genetic polymorphisms of IL10-592 AA and IL10-819 TT genotypes lead to the key role for inducing docetaxel-induced liver injury in breast cancer patients
+2997,TA,exclude,Not relevant to the research question/topic,KAB Arab-American inherited cancer,"Knowledge, attitudes, and beliefs of Arab-American women regarding inherited cancer risk."
+2998,TA,exclude,Not a US population-based/registry study,cancer incidence China 2009,"The incidences and mortalities of major cancers in China, 2009"
+2999,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",black-white crossover subtypes letter,Re: Age-specific incidence of breast cancer subtypes: Understanding the black-white crossover
