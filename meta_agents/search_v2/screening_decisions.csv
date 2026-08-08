@@ -4119,3 +4119,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 4117,TA,exclude,Not relevant to the research question/topic,potential limitations state cancer registries,The potential and limitations of data from population-based state cancer registries
 4118,TA,exclude,Not relevant to the research question/topic,racial disparities Hodgkin lymphoma SEER,Racial disparities in Hodgkin's lymphoma: a comprehensive population-based analysis
 4119,TA,exclude,Not relevant to the research question/topic,qualitative age interactions BC mini-review,Qualitative age interactions in breast cancer studies: a mini-review
+4120,TA,exclude,Not relevant to the research question/topic,race SES BC subtypes odds NCDB,"Association of race/ethnicity, socioeconomic status, and breast cancer subtypes in the National Cancer Data Base (2010-2011)"
+4121,TA,exclude,Not relevant to the research question/topic,sarcoidosis Black women BWHS,Sarcoidosis in Black Women in the United States Data From the Black Women's Health Study
+4122,TA,exclude,Not relevant to the research question/topic,HCV HBV liver cancer SE Asians,Both HCV and HBV are Major Causes of Liver Cancer in Southeast Asians
+4123,TA,exclude,Not a US population-based/registry study,cancer cases Peru clinic,Cancer cases detected in the prevention and control service of a private cancer clinic in Peru
+4124,TA,exclude,Not relevant to the research question/topic,SNPs ancestry FIND,"Selecting SNPs informative for African, American Indian and European Ancestry: application to the Family Investigation of Nephropathy and Diabetes (FIND)"
+4125,TA,exclude,Not a US population-based/registry study,global cancer crisis review,"The global cancer crisis: a review of growing burden, deepening inequality and initiatives for prevention and early detection"
+4126,TA,exclude,Not relevant to the research question/topic,low-grade serous ovarian SEER,Epidemiology of low-grade serous ovarian cancer
+4127,TA,exclude,Not relevant to the research question/topic,asthma incidence Texas Medicaid,Estimation of Asthma Incidence Among Low-Income Children in Texas: A Novel Approach Using Medicaid Claims Data
+4128,TA,exclude,Not a US population-based/registry study,Canadian BC screening guidelines commentary,When One Size Fits All Fits None: A Commentary on the Impacts of theDraft Canadian Breast Cancer Screening Guidelines on Racialized Populations in Canada
+4129,TA,exclude,Not relevant to the research question/topic,lay navigation Black White survivors,Lay navigation across the cancer continuum for older cancer survivors: Equally beneficial for Black and White survivors?
+4130,TA,exclude,Not relevant to the research question/topic,cancer 15-29 by primary site,Cancer in 15-to 29-year-olds by primary site
+4131,TA,exclude,Not relevant to the research question/topic,BC metastasis lympho-vascular,Breast cancer metastasis through the lympho-vascular system
+4132,TA,exclude,Not relevant to the research question/topic,microsatellite AA head neck cancer,Microsatellite alterations in African Americans with head and neck cancer
+4133,TA,exclude,Not relevant to the research question/topic,racial differences PAM50 subtypes Carolina,Racial Differences in PAM50 Subtypes in the Carolina Breast Cancer Study
+4134,TA,exclude,Not relevant to the research question/topic,social determinants BC risk stage survival review,"Social determinants of breast cancer risk, stage, and survival"
+4135,TA,exclude,Not relevant to the research question/topic,BC mortality hot spots Black women,Breast Cancer Mortality Hot Spots Among Black Women With de Novo Metastatic Breast Cancer
+4136,TA,exclude,Not relevant to the research question/topic,VTE cancer survival California Registry,Incidence of venous thromboembolism and its effect on survival among patients with common cancers
+4137,TA,exclude,Not relevant to the research question/topic,survivorship care plan Asian American,Survivorship Care Plan Preferences and Utilization Among Asian American Breast Cancer Survivors
+4138,TA,exclude,Not relevant to the research question/topic,young Black women first mammogram cancers,Young Black Women May be More Likely to Have First Mammogram Cancers: A New Perspective in Breast Cancer Disparities
+4139,TA,exclude,Not relevant to the research question/topic,hairy cell leukaemia SEER,Hairy cell leukaemia: a heterogeneous disease?
+4140,TA,exclude,Not relevant to the research question/topic,lymphoid neoplasms 6 Asian groups US,"Incidence of lymphoid neoplasms by subtype among six Asian ethnic groups in the United States, 1996-2004"
+4141,TA,exclude,Not a US population-based/registry study,prediagnosis smoking obesity SPC Korea,"Prediagnosis smoking, obesity, insulin resistance, and second primary cancer risk in male cancer survivors: National health insurance corporation study"
+4142,TA,exclude,Not relevant to the research question/topic,dietary patterns colorectal adenomas BWHS,Dietary Patterns and the Risk of Colorectal Adenomas: the Black Women's Health Study
+4143,TA,exclude,Not relevant to the research question/topic,T2D BC incidence Asian Hispanic AA review,"The Relation of Type 2 Diabetes and Breast Cancer Incidence in Asian, Hispanic and African American Populations-A Review"
+4144,TA,exclude,Not a US population-based/registry study,cancer infertile IVF Israel,Cancer incidence in a cohort of infertile women who underwent in vitro fertilization
+4145,TA,exclude,Not relevant to the research question/topic,EGFR TNBC cell line,Ubiquitin Mediated Degradation of EGFR by 17 β-estradiol in Triple Negative MDA-MB-231 (TNBC) Breast Cancer Cells Line
+4146,TA,exclude,Not relevant to the research question/topic,BC stage NJ early detection site,Breast Cancer Stage at Diagnosis in a New Jersey Cancer Education and Early Detection Site
+4147,TA,include,,Excess BC young California-born Asian women vs White,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN WOMEN
+4148,TA,exclude,Not a US population-based/registry study,gallbladder cancer cell lines Chile,Functional and genomic characterization of three novel cell lines derived from a metastatic gallbladder cancer tumor
+4149,TA,exclude,Not relevant to the research question/topic,BC diagnosis inner-city AA Hispanic screening,Breast cancer diagnosis in Inner-City African American and Hispanic women: The importance of early screening
+4150,TA,exclude,Not relevant to the research question/topic,fruit vegetable uterine leiomyomata BWHS,"Intake of fruit, vegetables, and carotenoids in relation to risk of uterine leiomyomata"
+4151,TA,exclude,Not relevant to the research question/topic,meningioma racial disparities SEER,"Racial or Ethnic Disparities in Incidence, Treatment, and Prognosis of Adult Intracranial Meningiomas"
+4152,TA,exclude,Not a US population-based/registry study,malignancy lymphoma Japanese RA,Incidence of Malignancy and the Risk of Lymphoma in Japanese Patients with Rheumatoid Arthritis Compared to the General Population
+4153,TA,exclude,Not relevant to the research question/topic,head neck cancer NHPI disparities,Head and Neck Cancer Among Native Hawaiian and Other Pacific Islander Patients-Disparities in Cancer Stage at Presentation and Survival Outcomes Compared With Other Races A Population-Based Cohort Study
+4154,TA,exclude,Not relevant to the research question/topic,smoking uterine leiomyomata ultrasound,A prospective ultrasound study of cigarette smoking and uterine leiomyomata incidence and growth
+4155,TA,exclude,Not relevant to the research question/topic,cancer health disparities minorities US review,Cancer health disparities in racial/ethnic minorities in the United States
+4156,TA,exclude,Not relevant to the research question/topic,immune responses TNBC AA women review,Immune Responses and Risk of Triple-negative Breast Cancer: Implications for Higher Rates among African American Women
+4157,TA,exclude,Not a US population-based/registry study,BC screening mental health NSW Australia,"Breast cancer screening participation in women using mental health services in NSW, Australia: a population study"
+4158,TA,exclude,Not relevant to the research question/topic,cancer registration literature update,Cancer Registration Literature Update (2006-2008) APOCPC/UICC-ARO Cancer Registration Consortium
+4159,TA,exclude,Not a US population-based/registry study,declining BC incidence HRT countries,Declining incidence of breast cancer after decreased use of hormone-replacement therapy: magnitude and time lags in different countries
+4160,TA,exclude,Not a US population-based/registry study,BC in Caribbean review,Breast Cancer in the Caribbean
+4161,TA,exclude,Not relevant to the research question/topic,BC knowledge AA women below screening age,Breast cancer knowledge & information seeking among African American women below screening age
+4162,TA,exclude,Not relevant to the research question/topic,use of race ethnicity epidemiologic methods,"Use of race and ethnicity in epidemiologic research: Concepts, methodological issues, and suggestions for research"
+4163,TA,exclude,Not relevant to the research question/topic,BC disparities drivers US review,Breast cancer disparities and their drivers in the United States
+4164,TA,include,,Annual Report to Nation 1975-2005 lung tobacco,"Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacco Control"
+4165,TA,exclude,Not relevant to the research question/topic,uterine leiomyomata tobacco alcohol BWHS,"Risk of uterine leiomyomata in relation to tobacco, alcohol and caffeine consumption in the Black Women's Health Study"
+4166,TA,exclude,Not relevant to the research question/topic,BC Mississippi race geography stage,Breast Cancer in Mississippi: Impact of Race and Residential Geographical Setting on Cancer at Initial Diagnosis
+4167,TA,exclude,Not relevant to the research question/topic,BC presentation US geography NCDB,Patterns of Breast Cancer Presentation in the United States: Does Geography Matter?
+4168,TA,exclude,Not relevant to the research question/topic,BC orthopaedic surgeons prevalence,Increased Prevalence of Breast and All-cause Cancer in Female Orthopaedic Surgeons
+4169,TA,exclude,Not a US population-based/registry study,ethnic SES BC incidence New Zealand,Ethnic and socioeconomic trends in breast cancer incidence in New Zealand
+4170,TA,exclude,Not relevant to the research question/topic,unstaged cancer decline SEER,Unstaged cancer: Long-term decline in incidence by site and by demographic and socioeconomic characteristics
+4171,TA,exclude,Not relevant to the research question/topic,BC capacity resources Arizona rural,The association between breast cancer capacity and resources with incidence and mortality in Arizona's low populous counties
+4172,TA,include,,Cancer Statistics 2013 US incidence by race,"Cancer statistics, 2013"
+4173,TA,exclude,Not relevant to the research question/topic,pancreatic cancer epidemiology overview,Epidemiology of pancreatic cancer: an overview
+4174,TA,exclude,Not relevant to the research question/topic,IGFBP-1 leptin C-peptide Multiethnic Cohort,"Lifestyle and dietary correlates of plasma insulin-like growth factor binding protein-1 (IGFBP-1), leptin, and C-peptide: The multiethnic cohort"
+4175,TA,exclude,Not relevant to the research question/topic,colorectal cancer risk prediction white,Colorectal Cancer Risk Prediction Tool for White Men and Women Without Known Susceptibility
+4176,TA,exclude,Not a US population-based/registry study,lung cancer never-smoking Asia,"Predicting Lung Cancer Occurrence in Never-Smoking Females in Asia: TNSF-SQ, a Prediction Model"
+4177,TA,exclude,Not relevant to the research question/topic,in utero endometriosis NHS II,In utero exposures and the incidence of endometriosis
+4178,TA,exclude,Not a US population-based/registry study,BC survival Black women Brazil,Lower breast cancer survival among Black women in Brazil: a population-based retrospective study
+4179,TA,exclude,Not a US population-based/registry study,pregnancy-associated cancer Australia,"Incidence and outcomes of pregnancy-associated cancer in Australia, 1994-2008: a population-based linkage study"
