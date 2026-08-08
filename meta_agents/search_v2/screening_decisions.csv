@@ -3119,3 +3119,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3117,TA,exclude,Not relevant to the research question/topic,25(OH)D T2D WHI,Lack of association between 25(OH)D levels and incident type 2 diabetes in older women
 3118,TA,exclude,Not relevant to the research question/topic,BC brain metastasis subset markers,A subset of breast cancer predisposes to brain metastasis
 3119,TA,exclude,Not relevant to the research question/topic,hormone genetic variation BPC3,Comprehensive analysis of hormone and genetic variation in 36 genes related to steroid hormone metabolism in pre- and postmenopausal women from the Breast and Prostate Cancer Cohort Consortium (BPC3)
+3120,TA,exclude,Not a US population-based/registry study,ESR1 AR polymorphisms Chinese,Selected estrogen receptor 1 and androgen receptor gene polymorphisms in relation to risk of breast cancer and fibrocystic breast conditions among Chinese women
+3121,TA,exclude,Not relevant to the research question/topic,SLURP-1 melanoma stem cells,Role of SLURP-1 in Melanoma and Melanoma Stem Cells
+3122,TA,exclude,Not relevant to the research question/topic,brochure inherited BC black women,Development of a brochure for increasing awareness of inherited breast cancer in black women
+3123,TA,exclude,Not a US population-based/registry study,preventable BC postmenopausal Sweden immigrants,Preventable breast cancer is postmenopausal
+3124,TA,exclude,Not relevant to the research question/topic,interval BC risk factors Colorado,Complementary approaches to assessing risk factors for interval breast cancer
+3125,TA,exclude,Not relevant to the research question/topic,groundwater uranium cancer SC ecological,Groundwater uranium and cancer incidence in South Carolina
+3126,TA,exclude,Not relevant to the research question/topic,promotora screening US-Mexico border trial,A Promotora-administered group education intervention to promote breast and cervical cancer screening in a rural community along the U.S.-Mexico border: A randomized controlled trial
+3127,TA,exclude,Not relevant to the research question/topic,dexrazoxane cardioprotectant children,Dexrazoxane as a cardioprotectant in children receiving anthracyclines
+3128,TA,exclude,Not relevant to the research question/topic,BC Latinas gene expression review,"Breast cancer in latinas: Gene expression, differential response to treatments, and differential toxicities in latinas compared with other population groups"
+3129,TA,exclude,Not relevant to the research question/topic,galectin-3 cleavage angiogenesis,Cleavage of galectin-3 by matrix metalloproteases induces angiogenesis in breast cancer
+3130,TA,exclude,Not relevant to the research question/topic,competing mortality early BC,Predictors of competing mortality in early breast cancer
+3131,TA,exclude,Not a US population-based/registry study,malignancy SLE Taiwan,Malignancy in systemic lupus erythematosus: A nationwide cohort study in Taiwan
+3132,TA,exclude,Not relevant to the research question/topic,BRCA uterine serous carcinoma,BRCA germline mutations in women with uterine serous carcinoma--still a debate.
+3133,TA,exclude,Not a US population-based/registry study,dietary patterns ductal BC Uruguay,Dietary patterns and risk of ductal carcinoma of the breast: A factor analysis in Uruguay
+3134,TA,exclude,Not relevant to the research question/topic,epidemiology TNBC review,Epidemiology of triple negative breast cancers
+3135,TA,exclude,Not a US population-based/registry study,CIA premenopausal Korea,The clinical outcome of chemotherapy-induced amenorrhea in premenopausal young patients with breast cancer with long-term follow-up
+3136,TA,exclude,Not a US population-based/registry study,BHGI LMIC guidelines,The breast health global initiative: Why it matters to all of us
+3137,TA,exclude,Not a US population-based/registry study,clinicopathologic BC Kumasi Ghana,"Clinicopathologic features of female breast cancer in Kumasi, Ghana"
+3138,TA,exclude,Not a US population-based/registry study,population-based BC cervix Gambia,Population-based breast (female) and cervix cancer rates in the Gambia: Evidence of ethnicity-related variations
+3139,TA,exclude,Not relevant to the research question/topic,nutrition nonmelanoma skin cancer,Nutrition and nonmelanoma skin cancers
+3140,TA,exclude,Not a US population-based/registry study,BC four continents training report,"Breast cancer in four continents: Europe, Asia, North and South America. A report of a personal training experience"
+3141,TA,exclude,Not a US population-based/registry study,citrus cancer Ohsaki Japan,Citrus consumption and cancer incidence: The Ohsaki cohort study
+3142,TA,exclude,Not relevant to the research question/topic,age axillary LNR SEER,Age and axillary lymph node ratio in postmenopausal women with T1-T2 node positive breast cancer
+3143,TA,exclude,Not relevant to the research question/topic,cancer incidence AA Caucasian renal allograft,Different patterns of cancer incidence among African American and Caucasian renal allograft recipients
+3144,TA,exclude,Not a US population-based/registry study,radiation second primary atomic bomb,Relationship between radiation exposure and risk of second primary cancers among atomic bomb survivors
+3145,TA,exclude,Not relevant to the research question/topic,founder effects AJ population genetics,"Signatures of founder effects, admixture, and selection in the Ashkenazi Jewish population"
+3146,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",HCC adverse events conference,Integrating recent data in managing adverse events in the treatment of hepatocellular carcinoma
+3147,TA,exclude,Not a US population-based/registry study,teriparatide Japanese osteoporosis,"Effects of teriparatide on bone mineral density and bone turnover markers in Japanese subjects with osteoporosis at high risk of fracture in a 24-month clinical study: 12-Month, randomized, placebo-controlled, double-blind and 12-month open-label phases"
+3148,TA,exclude,Not a US population-based/registry study,alcohol BC JPHC Japan,Alcohol consumption-associated breast cancer incidence and potential effect modifiers: The Japan Public Health Center-based prospective study
+3149,TA,exclude,Not a US population-based/registry study,mammographic density Pike UK,Changes and tracking of mammographic density in relation to Pike's model of breast tissue aging: A UK longitudinal study
+3150,TA,exclude,Not a US population-based/registry study,pregnancy hormones Mongolian,Study of Pregnancy Hormone Concentrations in Urban and Nomadic Mongolian Women
+3151,TA,exclude,Not relevant to the research question/topic,smoking younger age BC diagnosis,History of smoking is associated with younger age at diagnosis of breast cancer
+3152,TA,exclude,Not relevant to the research question/topic,diabetes cancer consensus report,Diabetes and cancer: A consensus report
+3153,TA,exclude,Not relevant to the research question/topic,CTC surrogate MBC,Multi-center study evaluating circulating tumor cells as a surrogate for response to treatment and overall survival in metastatic breast cancer
+3154,TA,exclude,Not a US population-based/registry study,BC burden central Sudan,Breast cancer burden in central Sudan
+3155,TA,exclude,Not relevant to the research question/topic,gene expression soy isoflavones cell lines,Gene expression profiling of breast cancer cell lines in response to soy isoflavones using a pangenomic microarray approach
+3156,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",molecular morphology BC Japan conference,Molecular morphological approach to the pathological study of development and advancement of human breast cancer
+3157,TA,exclude,Not a US population-based/registry study,glucose metabolism cancer China,Glucose metabolism disorders in cancer patients in a Chinese population
+3158,TA,exclude,Not a US population-based/registry study,tamoxifen anastrozole Japanese trial,Phase III randomized adjuvant study of tamoxifen alone versus sequential tamoxifen and anastrozole in Japanese postmenopausal women with hormone-responsive breast cancer: N-SAS BC03 study
+3159,TA,exclude,Not a US population-based/registry study,vegetable-fruit-soy BC Singapore,A vegetable-fruit-soy dietary pattern protects against breast cancer among postmenopausal Singapore Chinese women
+3160,TA,exclude,Not a US population-based/registry study,European ancestry BC Mexican women,European ancestry is positively associated with breast cancer risk in Mexican women
+3161,TA,exclude,Not relevant to the research question/topic,ecological cancer mortality UVB US,"An ecological study of cancer mortality rates in the United States with respect to solar ultraviolet-B doses, smoking, alcohol consumption and urban/rural residence"
+3162,TA,exclude,Not relevant to the research question/topic,cancer Gulf War veterans state registry,Investigating the Risk of Cancer in 1990-1991 US Gulf War Veterans With the Use of State Cancer Registry Data
+3163,TA,exclude,Not relevant to the research question/topic,declining death rates cancer US,Declining death rates reflect progress against cancer
+3164,TA,exclude,Not relevant to the research question/topic,migraine BC postmenopausal,Migraine history and breast cancer risk among postmenopausal women
+3165,TA,exclude,Not relevant to the research question/topic,generational risks cancers US,"Generational risks for cancers not related to tobacco, screening, or treatment in the United States"
+3166,TA,exclude,Not a US population-based/registry study,TBI Latin America lifespan,Traumatic Brain Injury in Latin America: Lifespan Analysis
+3167,TA,exclude,Not relevant to the research question/topic,mutagen sensitivity smoking BC case-control,"Mutagen sensitivity, tobacco smoking and breast cancer risk: A case-control study"
+3168,TA,exclude,Not relevant to the research question/topic,lunasin BBIC cancer prevention,Complementary roles in cancer prevention: Protease inhibitor makes the cancer preventive peptide Lunasin bioavailable
+3169,TA,exclude,Not relevant to the research question/topic,rare cancers US CINA descriptive,"The occurrence of rare cancers in U.S. adults, 1995-2004"
+3170,TA,exclude,Not relevant to the research question/topic,trastuzumab cardiac dysfunction management,Management of trastuzumab-related cardiac dysfunction
+3171,TA,exclude,Not a US population-based/registry study,enzastaurin Japanese phase I,Phase I dose escalation and pharmacokinetic study of oral enzastaurin (LY317615) in advanced solid tumors
+3172,TA,exclude,Not relevant to the research question/topic,BC biology older women biobehavioral,Breast cancer biology and behavior in older women: Biobehavioral perspectives
+3173,TA,exclude,Not a US population-based/registry study,gemcitabine Japanese MBC phase II,Phase II study of gemcitabine monotherapy as a salvage treatment for Japanese metastatic breast cancer patients after anthracycline and taxane treatment
+3174,TA,exclude,Not relevant to the research question/topic,HCT116 colon cell line CSC,Maintenance of HCT116 colon cancer cell line conforms to a stochastic model but not a cancer stem cell model
+3175,TA,exclude,Not relevant to the research question/topic,gender differences lung cancer women,Gender-Associated Differences in Lung Cancer: Clinical Characteristics and Treatment Outcomes in Women
+3176,TA,exclude,Not relevant to the research question/topic,fallopian tube carcinoma RRSO BRCA,Multistep level sections to detect occult fallopian tube carcinoma in risk-reducing salpingo-oophorectomies from women with BRCA mutations: implications for defining an optimal specimen dissection protocol.
+3177,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",marital status cancer letter,Effect of marital status on cancer incidence and survival rates
+3178,TA,exclude,Not a US population-based/registry study,pedicled TRAM flap Asian,Evolution of the pedicled TRAM flap: A prospective study of 500 consecutive cases by a single surgeon in Asian patients
+3179,TA,exclude,Not relevant to the research question/topic,gabapentin prostatectomy pain trial,"Does Postoperative Gabapentin Reduce Pain, Opioid Consumption & Anxiety & Have a Positive Effect on Health Related Quality of Life After Radical Prostatectomy?"
