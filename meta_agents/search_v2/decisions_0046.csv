@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2720,exclude,Not relevant to the research question/topic,iBreastExam handheld scanner validation
+2721,exclude,Not relevant to the research question/topic,OncoCEE CTC leptomeningeal trial
+2722,exclude,Not relevant to the research question/topic,second primary malignancies SEER survivors
+2723,exclude,Not a US population-based/registry study,obesity weight change Chinese women
+2724,exclude,Not a US population-based/registry study,MECC cancer burden Middle East
+2725,exclude,Not relevant to the research question/topic,Asian American cancer mortality trends
+2726,exclude,Not relevant to the research question/topic,BC sexual minorities review
+2727,exclude,Not a US population-based/registry study,second malignancy CML TKI Chinese
+2728,exclude,Not a US population-based/registry study,trastuzumab cardiotoxicity Taiwan
+2729,exclude,Not relevant to the research question/topic,admixture mapping AA AMBER loci
+2730,exclude,Not relevant to the research question/topic,RINT1 predisposition gene
+2731,exclude,Not relevant to the research question/topic,leptin incident cancer Dallas Heart
+2732,include,,BC incidence Japanese in Japan and US CI5
+2733,exclude,Not a US population-based/registry study,two SNPs Chinese BC trial
+2734,exclude,Not a US population-based/registry study,smoking attributable BC Norway
+2735,exclude,Not relevant to the research question/topic,cancer incidence stage poverty US
+2736,exclude,Not relevant to the research question/topic,ACS vs SEER population estimates methods
+2737,exclude,Not a US population-based/registry study,cancer screening disparities China protocol
+2738,exclude,Not relevant to the research question/topic,anthracycline T1 mapping survivors
+2739,exclude,Not relevant to the research question/topic,obesity duration cancer WHI
+2740,exclude,Not a US population-based/registry study,migrant mortality Europe
+2741,exclude,Not a US population-based/registry study,VTE risk Chinese patients
+2742,exclude,Not relevant to the research question/topic,black women macrophages CLS survival
+2743,exclude,Not relevant to the research question/topic,axillary evaluation DCIS SEER-Medicare
+2744,exclude,Not relevant to the research question/topic,cancer incidence relatives BRCA MDA
+2745,exclude,Not a US population-based/registry study,BC outcome HDI GLOBOCAN
+2746,exclude,Not relevant to the research question/topic,active learning model calibration
+2747,exclude,Not a US population-based/registry study,BC incidence/mortality Shanghai
+2748,exclude,Not relevant to the research question/topic,cancer incidence disparities Upper Manhattan ecological
+2749,exclude,Not a US population-based/registry study,BC risk factors Uganda case-control
+2750,exclude,Not relevant to the research question/topic,pegfilgrastim FN US claims
+2751,exclude,Not relevant to the research question/topic,RT noncompliance urban center
+2752,exclude,Not a US population-based/registry study,hysterectomy cancer risk Sweden
+2753,exclude,Not relevant to the research question/topic,mammographic changes fractionation
+2754,exclude,Not relevant to the research question/topic,cancer info disparities internet
+2755,exclude,Not a US population-based/registry study,IPMN extrapancreatic Japan
+2756,exclude,Not relevant to the research question/topic,SIR cancer renal transplant SLE USRDS
+2757,exclude,Not a US population-based/registry study,CTC head neck Taiwan trial
+2758,exclude,Not relevant to the research question/topic,certolizumab Crohn PRECiSE 4
+2759,exclude,Not relevant to the research question/topic,ABCG2 cord RBC anti-Jra
+2760,exclude,Not relevant to the research question/topic,positive margin partial mastectomy
+2761,exclude,Not a US population-based/registry study,global cancer mortality trends
+2762,exclude,"Editorials, commentaries, letters, or conference abstracts",LABC/metastatic management conference paper
+2763,exclude,Not relevant to the research question/topic,atorvastatin biomarkers high-risk trial
+2764,exclude,Not a US population-based/registry study,ecologic study method Europe CI5
+2765,exclude,Not a US population-based/registry study,BRCA BC risk Chinese women
+2766,exclude,Not relevant to the research question/topic,B2M cancer risk ARIC
+2767,exclude,Not a US population-based/registry study,risk assessment tool Saudi Arabia
+2768,exclude,Not a US population-based/registry study,black-white Harare Zimbabwe
+2769,exclude,Not a US population-based/registry study,aggressive BC western Kenya
+2770,exclude,Not relevant to the research question/topic,glembatumumab lung SCC trial
+2771,exclude,Not relevant to the research question/topic,Shreveport myeloma Louisiana
+2772,exclude,Not a US population-based/registry study,ATM/BLM/FANCC carriers Israel
+2773,exclude,Not relevant to the research question/topic,hair product AA BC risk review
+2774,exclude,Not relevant to the research question/topic,trastuzumab cardiac N9831 trial
+2775,exclude,Not relevant to the research question/topic,white carrots DNA damage trial
+2776,exclude,Not relevant to the research question/topic,cancer incidence Appalachia all-cancer
+2777,exclude,Not relevant to the research question/topic,BC menopausal hormone therapy race WHI
+2778,exclude,Not relevant to the research question/topic,physical activity white matter survivors
+2779,exclude,Not a US population-based/registry study,Mammaprint Chinese BC
