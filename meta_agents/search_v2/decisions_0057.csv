@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3360,include,,Migration cancer incidence Japanese in Hawaii vs Caucasians
+3361,exclude,Not relevant to the research question/topic,BRCA prostate Ashkenazi Jews
+3362,exclude,Not a US population-based/registry study,Japanese neoplasm mortality trends
+3363,exclude,Not relevant to the research question/topic,allogeneic breast SCT phase I
+3364,exclude,Not relevant to the research question/topic,cancer disparities race SES SEER all-sites
+3365,exclude,Not relevant to the research question/topic,diet Polish descent US migration
+3366,exclude,Not relevant to the research question/topic,cervical screening NBCCEDP
+3367,exclude,Not relevant to the research question/topic,doxorubicin cardiotoxicity AA
+3368,exclude,Not relevant to the research question/topic,BRCA Jewish uterine serous
+3369,include,,Male breast cancer incidence by race SEER
+3370,exclude,Not relevant to the research question/topic,hemopoietic recovery BC MM transplant
+3371,exclude,Not a US population-based/registry study,GST polymorphisms Shanghai
+3372,exclude,Not a US population-based/registry study,NAT2 BC Turkish
+3373,include,,Cancer Statistics 2004 US incidence by race
+3374,exclude,Not relevant to the research question/topic,health life expectancy mortality immigrants US
+3375,exclude,Not a US population-based/registry study,predictive model BC South Korea
+3376,exclude,Not a US population-based/registry study,mammographic features Singaporean Chinese
+3377,exclude,Not relevant to the research question/topic,chemo-induced vomiting BC
+3378,exclude,Not relevant to the research question/topic,genistein anticancer conference
+3379,exclude,Not a US population-based/registry study,cancer Greenlandic Inuit
+3380,exclude,Not a US population-based/registry study,cancer AM radio transmitters Korea
+3381,exclude,Not relevant to the research question/topic,exercise BCIS risk
+3382,exclude,Not a US population-based/registry study,dietary factors BC Japanese
+3383,exclude,Not relevant to the research question/topic,conservation therapy T1-T2 relapse
+3384,exclude,Not a US population-based/registry study,calcium BC Shanghai
+3385,exclude,Not relevant to the research question/topic,antihypertensive BC Washington case-control
+3386,exclude,Not relevant to the research question/topic,segregation analysis Ashkenazi BC genes
+3387,exclude,Not a US population-based/registry study,cancer incidence Israel Jordan MECC
+3388,exclude,Not relevant to the research question/topic,BC NSAID WHI
+3389,exclude,Not relevant to the research question/topic,TGFBR1*6A cancer meta-analysis
+3390,exclude,Not relevant to the research question/topic,cosmesis lumpectomy irradiation
+3391,exclude,Not relevant to the research question/topic,soya isoflavones DMBA
+3392,exclude,Not relevant to the research question/topic,urinary isothiocyanate Brassica BC
+3393,exclude,Not a US population-based/registry study,BRCA1 eastern Chinese early-onset
+3394,include,,Cancer in the Minnesota Hmong population
+3395,exclude,Not relevant to the research question/topic,ovarian cancer by race US
+3396,exclude,Not relevant to the research question/topic,family history reporting PLCO
+3397,exclude,Not a US population-based/registry study,HSD17B1 CYP17 Singapore Chinese
+3398,include,,Cancer incidence Koreans in US and Kangwha Korea
+3399,exclude,Not a US population-based/registry study,ACE gene BC Singapore Chinese
+3400,exclude,Not relevant to the research question/topic,ethnicity BC risk factors conference
+3401,exclude,Not relevant to the research question/topic,histopathology BC AA women conference
+3402,exclude,Not relevant to the research question/topic,BC young AA women summit summary
+3403,exclude,Not a US population-based/registry study,does mammography hurt Jerusalem
+3404,exclude,Not relevant to the research question/topic,osteoporosis prevention management
+3405,exclude,Not a US population-based/registry study,p53 codon 72 HPV China
+3406,exclude,Not a US population-based/registry study,DCIS trends Singapore
+3407,exclude,Not relevant to the research question/topic,ovarian cancer Ashkenazi BRCA
+3408,exclude,Not a US population-based/registry study,HER2 Ashkenazi BRCA Ontario
+3409,exclude,Not relevant to the research question/topic,race SES breast carcinoma US review
+3410,exclude,Not a US population-based/registry study,interval cancers Singapore screening
+3411,exclude,Not a US population-based/registry study,CYP1A1 BC Japanese
+3412,exclude,Not a US population-based/registry study,soy estrogen Singapore Chinese
+3413,exclude,Not relevant to the research question/topic,radiation BC risk pooled 8 cohorts
+3414,exclude,Not relevant to the research question/topic,serum insulin glucose BC ARIC
+3415,exclude,Not relevant to the research question/topic,lifestyle disease prevention mechanisms
+3416,exclude,Not a US population-based/registry study,VDR polymorphism Taiwanese BC
+3417,exclude,Not a US population-based/registry study,cancer Sami Northern Finland
+3418,exclude,Not relevant to the research question/topic,oral contraceptives BC risk case-control
+3419,exclude,Not relevant to the research question/topic,drug metabolizing enzymes Hodgkin second cancers
