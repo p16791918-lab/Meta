@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1820,exclude,Not relevant to the research question/topic,murine brain metastasis proteomic
+1821,exclude,Not relevant to the research question/topic,sAML vs dnAML survival SEER
+1822,exclude,Not relevant to the research question/topic,Legius syndrome epilepsy
+1823,exclude,Not a US population-based/registry study,lithium neutropenia Egyptian
+1824,exclude,Not relevant to the research question/topic,pN+ HER2+ predictors
+1825,exclude,Not a US population-based/registry study,dMMR CRC European cohort
+1826,exclude,Not relevant to the research question/topic,breast density distribution age/BMI
+1827,exclude,Not a US population-based/registry study,BC burden metabolic China GBD
+1828,exclude,Not a US population-based/registry study,WBC NLR cancer UK Biobank
+1829,exclude,Not relevant to the research question/topic,DPYD genotype fluoropyrimidine
+1830,exclude,Not a US population-based/registry study,BCRL incidence Korea
+1831,exclude,Not a US population-based/registry study,DEHP phthalate UK Biobank
+1832,exclude,Not a US population-based/registry study,interval BC Korean
+1833,exclude,Not a US population-based/registry study,BC survival India NCRP
+1834,exclude,Not relevant to the research question/topic,ticagrelor DAPT trial
+1835,exclude,Not relevant to the research question/topic,cancer incidence UVB ecological NH white
+1836,exclude,Not a US population-based/registry study,YWWACP Hong Kong pilot
+1837,exclude,Not a US population-based/registry study,BC screening Egypt
+1838,exclude,Not relevant to the research question/topic,undiagnosed cancer US COVID USCS
+1839,exclude,Not a US population-based/registry study,genetic risk lifestyle early-onset UK Biobank
+1840,exclude,Not relevant to the research question/topic,stomach cancer nativity Asian/Hispanic CA
+1841,exclude,Not relevant to the research question/topic,reproductive/breast density Hispanic/Black/White
+1842,exclude,Not relevant to the research question/topic,psychosocial stressors gene expression BWHS
+1843,exclude,Not relevant to the research question/topic,carboplatin skin tests
+1844,exclude,Not a US population-based/registry study,BC incidence Golestan Iran
+1845,exclude,Not relevant to the research question/topic,fibroids endometriosis BC Sister Study
+1846,exclude,Not a US population-based/registry study,sleep pancreatic UK Biobank
+1847,exclude,Not relevant to the research question/topic,carcinosarcoma SEER incidence/survival
+1848,exclude,Not a US population-based/registry study,LINC00511 Egyptian
+1849,exclude,Not a US population-based/registry study,Man Van prostate UK
+1850,exclude,Not a US population-based/registry study,olaparib ovarian China
+1851,exclude,Not a US population-based/registry study,physical activity premenopausal BC 19 cohorts
+1852,exclude,Not relevant to the research question/topic,incidence by stage COVID US SEER
+1853,exclude,Not relevant to the research question/topic,SPBC onset/survival SEER
+1854,exclude,Not relevant to the research question/topic,disparities in DCIS review
+1855,exclude,Not relevant to the research question/topic,personal history second primary lung SEER
+1856,exclude,Not relevant to the research question/topic,late VTE AYA California
+1857,exclude,Not relevant to the research question/topic,SBRT axillary metastases
+1858,exclude,Not a US population-based/registry study,Buyang Huanwu TIPN China trial
+1859,exclude,Not relevant to the research question/topic,community navigation screening trial
+1860,exclude,Not a US population-based/registry study,BMI family history Shanghai
+1861,exclude,Not a US population-based/registry study,family health Danish patients
+1862,exclude,Not relevant to the research question/topic,DNL methotrexate neurotoxicity
+1863,exclude,Not a US population-based/registry study,thoracodorsal flap China
+1864,exclude,Not relevant to the research question/topic,hypertension Black/White BC survivors
+1865,exclude,Not relevant to the research question/topic,personal care product puberty BC Sister Study
+1866,exclude,Not relevant to the research question/topic,cancer mortality Germany-born Americans
+1867,exclude,Not a US population-based/registry study,COVID cancer care South Korea
+1868,exclude,Not a US population-based/registry study,FIT CRC screening China
+1869,exclude,Not relevant to the research question/topic,Latino couples communication
+1870,exclude,Not a US population-based/registry study,gyn/breast cancer WLHIV South Africa
+1871,exclude,Not a US population-based/registry study,hereditary BC race KwaZulu-Natal South Africa
+1872,exclude,Not relevant to the research question/topic,cancer incidence US military vs general
+1873,exclude,Not relevant to the research question/topic,self-directed walking toxicity
+1874,exclude,Not relevant to the research question/topic,BC risk assessment models overview
+1875,include,,Cancer Statistics 2024 US incidence by race
+1876,exclude,Not relevant to the research question/topic,nanobots theragnostic
+1877,exclude,Not relevant to the research question/topic,stressful life events pancreatic/HN
+1878,exclude,Not relevant to the research question/topic,cT1-3N1M0 axillary surgery SEER
+1879,exclude,Not relevant to the research question/topic,AI lung cancer bibliometric
