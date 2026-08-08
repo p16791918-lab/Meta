@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4420,exclude,Not relevant to the research question/topic,colon cancer AA white NC diet
+4421,exclude,"Editorials, commentaries, letters, or conference abstracts",increasing TNBC young AA Delaware abstract
+4422,exclude,"Editorials, commentaries, letters, or conference abstracts",changes TNBC AA Delaware abstract
+4423,exclude,Not relevant to the research question/topic,endometrial cancer Black women review
+4424,exclude,"Editorials, commentaries, letters, or conference abstracts",smoking BC AA women abstract
+4425,exclude,"Editorials, commentaries, letters, or conference abstracts",female hormone use BC AA abstract
+4426,exclude,Not relevant to the research question/topic,HT decline NHANES
+4427,exclude,Not a US population-based/registry study,descriptive epidemiology BC China review
+4428,exclude,Not relevant to the research question/topic,synchronous bone metastasis thyroid SEER
+4429,include,,Cancer risk generations Middle Eastern immigrants California vs NHW
+4430,exclude,"Editorials, commentaries, letters, or conference abstracts",second cancers AA Caucasian BC abstract
+4431,exclude,Not relevant to the research question/topic,SES SDH disparities BC incidence treatment review
+4432,exclude,Not relevant to the research question/topic,Vietnamese nail salon screening
+4433,exclude,Not relevant to the research question/topic,metaplastic BC incidence mortality SEER rare
+4434,exclude,Not relevant to the research question/topic,changing landscape cancer USA review
+4435,exclude,Not relevant to the research question/topic,caregivers Hispanic review
+4436,exclude,"Editorials, commentaries, letters, or conference abstracts",IGF-II BC AA Caucasian abstract
+4437,exclude,Not relevant to the research question/topic,colorectal Virginia spatial
+4438,exclude,Not a US population-based/registry study,BC knowledge screening Asian Singapore
+4439,exclude,Not a US population-based/registry study,BC incidence South Africa
+4440,exclude,Not a US population-based/registry study,Singapore national breast screening
+4441,exclude,Not relevant to the research question/topic,ACS guidelines obesity cancer Black Latina WHI
+4442,exclude,"Editorials, commentaries, letters, or conference abstracts",CIPN AA Caucasian survivors abstract
+4443,exclude,Not relevant to the research question/topic,vitamin D deficiency AA disparities review
+4444,exclude,Not a US population-based/registry study,BC incidence China review
+4445,exclude,Not relevant to the research question/topic,social risk CVD BC review
+4446,exclude,"Editorials, commentaries, letters, or conference abstracts",community outreach BC AA Brooklyn abstract
+4447,exclude,"Editorials, commentaries, letters, or conference abstracts",geographic BC incidence trends US abstract
+4448,exclude,Not relevant to the research question/topic,housing discrimination racial cancer disparities MSAs
+4449,exclude,Not relevant to the research question/topic,lifetime risk diabetes US
+4450,exclude,Not a US population-based/registry study,mammography Chinese Yanbian
+4451,exclude,"Editorials, commentaries, letters, or conference abstracts",BC MIR state disparities abstract
+4452,exclude,Not relevant to the research question/topic,racial disparities CRC survival
+4453,exclude,Not relevant to the research question/topic,vitamin D aggressive BC AA
+4454,exclude,Not relevant to the research question/topic,ethnic cytokine gene polymorphisms cancer
+4455,exclude,Not relevant to the research question/topic,UVB cancer mortality ecologic
+4456,exclude,Not relevant to the research question/topic,pain pap smear AA
+4457,exclude,Not relevant to the research question/topic,IGF-I IGFBP-3 race NHANES
+4458,exclude,Not relevant to the research question/topic,serum vitamin D cancer mortality US
+4459,exclude,"Editorials, commentaries, letters, or conference abstracts",international BC incidence differences editorial
+4460,exclude,Not relevant to the research question/topic,TGFβ prostate cancer AA
+4461,exclude,Not relevant to the research question/topic,SES DLBCL mortality
+4462,exclude,Not relevant to the research question/topic,CVD AYA cancer survivors
+4463,exclude,Not relevant to the research question/topic,Kentucky cancer needs assessment focus group
+4464,exclude,Not a US population-based/registry study,adiposity BC Japanese Miyagi
+4465,exclude,Not relevant to the research question/topic,BC risk screening transgender review
+4466,exclude,Not relevant to the research question/topic,soy isoflavones BMD SWAN
+4467,exclude,Not relevant to the research question/topic,biological basis BC disparities precision review
+4468,exclude,Not relevant to the research question/topic,coffee cancer AA Southern Community
+4469,exclude,Not relevant to the research question/topic,kidney transplant wait listing
+4470,exclude,"Editorials, commentaries, letters, or conference abstracts",IL-6 gene BC mortality editorial
+4471,exclude,Not relevant to the research question/topic,maternal child health Latina review
+4472,exclude,Not relevant to the research question/topic,microRNAs cancer racial disparities review
+4473,exclude,Not relevant to the research question/topic,lung cancer epigenetics ethnicity review
+4474,exclude,Not relevant to the research question/topic,childbearing survival BC young women registries
+4475,exclude,Not relevant to the research question/topic,Kaiso transcription factor cancer review
+4476,exclude,Not relevant to the research question/topic,cancer screening older AA focus group
+4477,exclude,Not relevant to the research question/topic,family history uterine fibroid Black
+4478,exclude,Not relevant to the research question/topic,smoking cessation cancer survivors NHANES
+4479,exclude,"Editorials, commentaries, letters, or conference abstracts",race-driven SDH tumor biology Black editorial
