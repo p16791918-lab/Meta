@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1400,exclude,Not relevant to the research question/topic,TNBC pregnancy HLA hypothesis
+1401,exclude,Not relevant to the research question/topic,prophylactic surgery HOC trial
+1402,exclude,Not relevant to the research question/topic,BC mortality by age/race counties
+1403,exclude,Not a US population-based/registry study,Cancer Statistics Korea 2023
+1404,exclude,Not relevant to the research question/topic,heart transplant cardiomyopathy outcomes
+1405,exclude,Not relevant to the research question/topic,US SLN diagnosis P-value method
+1406,exclude,Not a US population-based/registry study,SPM CLL Taiwan registry
+1407,exclude,Not a US population-based/registry study,cancer survival Italy
+1408,exclude,Not relevant to the research question/topic,subsequent primary cancers US survivors SEER
+1409,exclude,Not a US population-based/registry study,global early-onset GBD China
+1410,exclude,Not relevant to the research question/topic,cancer mortality ICH WONDER
+1411,exclude,Not relevant to the research question/topic,DCIS ER/PR subsequent events
+1412,exclude,Not a US population-based/registry study,neoadjuvant response Romania
+1413,exclude,Not a US population-based/registry study,adiposity lipid Korean cohort
+1414,exclude,Not relevant to the research question/topic,acupuncture CRCI meta-analysis
+1415,exclude,Not a US population-based/registry study,BC surgical services South Africa
+1416,exclude,Not relevant to the research question/topic,beta-blockers gastric cancer trial
+1417,exclude,Not relevant to the research question/topic,AMH ovarian reserve model trial
+1418,exclude,Not relevant to the research question/topic,pegfilgrastim TNBC FN trial
+1419,exclude,Not relevant to the research question/topic,cancer mortality rural-urban US
+1420,exclude,Not relevant to the research question/topic,PIM older adults criteria
+1421,exclude,Not relevant to the research question/topic,WISDOM risk-based screening trial
+1422,exclude,Not relevant to the research question/topic,nobiletin polydatin TNBC metastasis
+1423,exclude,Not relevant to the research question/topic,malignancy after heart transplant UNOS
+1424,exclude,Not relevant to the research question/topic,HPV vaccination cancer risk TriNetX
+1425,exclude,Not a US population-based/registry study,Oncotype DX cost-effectiveness Japan
+1426,exclude,Not relevant to the research question/topic,obesity cancer mortality WONDER
+1427,exclude,Not a US population-based/registry study,survivors unmet needs Hong Kong
+1428,exclude,Not a US population-based/registry study,avoidable deaths worldwide GLOBOCAN
+1429,exclude,Not relevant to the research question/topic,within-group socio-behavioral mortality
+1430,exclude,Not relevant to the research question/topic,chemical exposures BC transcriptomic
+1431,exclude,Not relevant to the research question/topic,brain mets gastric/esophageal
+1432,exclude,Not relevant to the research question/topic,mortality trajectories BC survivors US
+1433,exclude,Not relevant to the research question/topic,Trishul ayurvedic rectal cancer
+1434,exclude,Not relevant to the research question/topic,early-onset dementia after cancer Medicaid
+1435,exclude,Not relevant to the research question/topic,dementia after cancer HIV Medicaid
+1436,exclude,Not a US population-based/registry study,gender differences Italy
+1437,exclude,Not a US population-based/registry study,north-south disparity Italy
+1438,exclude,Not relevant to the research question/topic,idiopathic granulomatous mastitis registry
+1439,exclude,Not a US population-based/registry study,autopsy hidden cancer Japan
+1440,exclude,Not relevant to the research question/topic,first vs second primary BC SEER
+1441,exclude,Not relevant to the research question/topic,obesity paradox umbrella review
+1442,exclude,Not relevant to the research question/topic,COVID mammography screening Mayo
+1443,exclude,Not relevant to the research question/topic,Wiskott-Aldrich carriers survey
+1444,exclude,Not relevant to the research question/topic,second primary lung after breast RT SEER
+1445,exclude,Not a US population-based/registry study,NSM BRCA Korea
+1446,exclude,Not relevant to the research question/topic,kidney transplant cancer SES
+1447,exclude,Not relevant to the research question/topic,cancer screening Black women HIV
+1448,exclude,Not relevant to the research question/topic,sacituzumab govitecan TNBC trial
+1449,exclude,Not relevant to the research question/topic,Qibei Jiedu radiation dermatitis trial
+1450,exclude,Not a US population-based/registry study,BRCA1/OBSCN Chinese case report
+1451,exclude,Not a US population-based/registry study,germline Indian NSCLC
+1452,exclude,Not relevant to the research question/topic,socioeconomic/ethnic lymphedema ILR
+1453,include,,ACS Cancer Disparities Report US 2025 incidence by race
+1454,exclude,Not relevant to the research question/topic,early-onset lung cancer US
+1455,exclude,Not relevant to the research question/topic,secondary peritoneal malignancies elderly
+1456,exclude,Not relevant to the research question/topic,lifestyle early-onset cancers ecologic USCS
+1457,include,,Cancer Statistics 2026 US incidence by race
+1458,exclude,Not a US population-based/registry study,PARP inhibitors Chinese MBC
+1459,exclude,Not a US population-based/registry study,global BC burden by age GBD
