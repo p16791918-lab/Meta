@@ -3999,3 +3999,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3997,TA,exclude,Not relevant to the research question/topic,phytoestrogen colitis rat,In utero and postnatal exposure to a phytoestrogen-enriched diet increases parameters of acute inflammation in a rat model of TNBS-induced colitis
 3998,TA,exclude,Not relevant to the research question/topic,oral contraceptive BCIS black white LA,Oral contraceptive use and risk of breast carcinoma in situ (United States)
 3999,TA,include,,Cancer incidence Vietnamese in US and Ha Noi SEER,"Cancer incidence patterns among Vietnamese in the United States and Ha Noi, Vietnam"
+4000,TA,exclude,Not relevant to the research question/topic,nipple involvement predictors BC,Parameters that predict nipple involvement in breast cancer
+4001,TA,exclude,Not relevant to the research question/topic,Tongan-American BC KAP screening,"Tongan-American women's breast cancer knowledge, attitudes, and screening behaviors"
+4002,TA,exclude,Not relevant to the research question/topic,TCF7L2 colon cancer,Variation in TCF7L2 and increased risk of colon cancer
+4003,TA,exclude,Not relevant to the research question/topic,male vs female BC incidence trends SEER,"Comparison of male and female breast cancer incidence trends, tumor characteristics, and survival"
+4004,TA,exclude,Not a US population-based/registry study,mammographic patterns soy Singapore,Mammographic parenchymal patterns and self-reported soy intake in Singapore Chinese women
+4005,TA,exclude,Not relevant to the research question/topic,mortality western cancers AA diet,Mortality from western cancers rose dramatically among African-Americans during the 20th century: Are dietary animal products to blame?
+4006,TA,exclude,Not a US population-based/registry study,cancer kidney transplant Australia NZ,Identifying high risk groups and quantifying absolute risk of cancer after kidney transplantation: A cohort study of 15 183 recipients
+4007,TA,exclude,Not relevant to the research question/topic,skin cancer prevention chapter,Skin cancer prevention
+4008,TA,exclude,Not a US population-based/registry study,BC incidence mortality 35 Caucasian countries,Quantification of changes in breast cancer incidence and mortality since 1990 in 35 countries with Caucasian-majority populations
+4009,TA,exclude,Not relevant to the research question/topic,parity disparity first course treatment BC Atlanta,Parity and disparity in first course treatment of invasive breast cancer
+4010,TA,exclude,Not relevant to the research question/topic,cancer Appalachia 2001-2003 all-cancer,"Cancer in Appalachia, 2001-2003"
+4011,TA,exclude,Not relevant to the research question/topic,genetics BC women African descent chapter,Genetics of breast cancer in women of African descent: An overview
+4012,TA,exclude,Not relevant to the research question/topic,peanuts sitosterol anticancer,"Peanuts as a source of β-sitosterol, a sterol with anticancer properties"
+4013,TA,exclude,Not relevant to the research question/topic,hormone-related supplements BC Philadelphia,A retrospective case-control study of the use of hormone-related supplements and association with breast cancer
+4014,TA,exclude,Not a US population-based/registry study,soyfood adolescence BC Chinese,Soyfood intake during adolescence and subsequent risk of breast cancer among chinese women
+4015,TA,exclude,Not relevant to the research question/topic,disparities BC incidence race SES systematic review,Disparities in breast cancer incidence across racial/ethnic strata and socioeconomic status: A systematic review
+4016,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",annual cancer statistics report questions,Annual cancer statistics report raises key questions.
+4017,TA,exclude,Not relevant to the research question/topic,cancer stage survival SSDI Medicare,Cancer stage at diagnosis and survival among persons with social security disability insurance on medicare
+4018,TA,exclude,Not relevant to the research question/topic,SLE morbidity mortality,Can morbidity and mortality of SLE be improved?
+4019,TA,exclude,Not relevant to the research question/topic,metastatic BC elderly chapter,Metastatic breast cancer: Tailored chemotherapy for the elderly woman
+4020,TA,exclude,Not relevant to the research question/topic,Her-2/neu Puerto Rican biomarker,Her-2/neu oncogene expression in Puerto Rican females with breast cancer.
+4021,TA,exclude,Not relevant to the research question/topic,breast cancer prevention chapter,Breast cancer prevention
+4022,TA,exclude,Not a US population-based/registry study,Shanghai textile cancer study,Development of a cancer research study in the Shanghai textile industry
+4023,TA,exclude,Not relevant to the research question/topic,BRCA underserved populations chapter,BRCA1 and BRCA2 in Underserved and Special Populations
+4024,TA,exclude,Not a US population-based/registry study,cancer mortality Americas,"Trends in cancer mortality in the Americas, 1970-2000"
+4025,TA,exclude,Not relevant to the research question/topic,phytoestrogens BC chapter,Phytoestrogens and breast cancer
+4026,TA,include,,Incidence selected cancers NH-AIAN AYA 1999-2019,"Incidence of selected cancers in Non-Hispanic American Indian and Alaska Native adolescent and young adult populations, 1999-2019"
+4027,TA,include,,Cancer incidence Asian American populations US 2009-2011,"Cancer incidence among Asian American populations in the United States, 2009-2011"
+4028,TA,exclude,Not relevant to the research question/topic,addressing inequalities BC care delivery review,Addressing Inequalities in Breast Cancer Care Delivery
+4029,TA,exclude,Not relevant to the research question/topic,papillary thyroid cancer birthplace Asian American,Papillary thyroid cancer incidence rates vary significantly by birthplace in Asian American women
+4030,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",lowest incidence groups meeting abstract,"Learning from the lowest incidence rates in breast cancer: Health information from men, young women, and Native American/Alaskan native women."
+4031,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC incidence neighborhood SES AANHPI meeting abstract,"Breast cancer incidence rates by neighborhood socioeconomic status and ethnic enclaves among Asian American, Native Hawaiian, and Pacific Islander females in California"
+4032,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Filipinos Chamorros Guam meeting abstract,Cumulative incidence rates of breast cancer for Filipinos and Chamorros in Guam and the United States
+4033,TA,exclude,Not relevant to the research question/topic,gestational choriocarcinoma SEER,Trends in gestational choriocarcinoma: A 27-year perspective
+4034,TA,exclude,Not relevant to the research question/topic,Hidden in Data BC Native American review,"Hidden in the Data: Breast Cancer Patterns, Gaps, and Challenges for Native American Women"
+4035,TA,include,,Annual Report to Nation 1975-2001 survival feature,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival"
+4036,TA,exclude,Not a US population-based/registry study,late-onset BC Korean hospital registry,Characteristics and chronologically changing patterns of late-onset breast cancer in Korean women of age ≥ 70 years: A hospital based-registry study
+4037,TA,include,,Cancer Statistics 2011 US incidence disparities,The Impact of Eliminating Socioeconomic and Racial Disparities on Premature Cancer Deaths
+4038,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnic estrogen metabolites BC editorial,Ethnic Variations in Estrogen and Its Metabolites: Sufficient to Explain Differences in Breast Cancer Incidence Rates?
+4039,TA,include,,Racial/ethnic lifetime age-conditional cancer risk estimates,Racial/ethnic patterns in lifetime and age-conditional risk estimates for selected cancers
+4040,TA,include,,Cancer incidence/mortality API populations US SEER vs NHW,Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the US
+4041,TA,exclude,Not relevant to the research question/topic,cancer statistics trends multiple primary SEER,"Cancer statistics, trends, and multiple primary cancer analyses from the surveillance, epidemiology, and end results (SEER) program"
+4042,TA,exclude,Not a US population-based/registry study,breast gynae cancers ethnic England,"Incidence of breast and gynaecological cancers by ethnic group in England, 2001-2007: a descriptive study"
+4043,TA,include,,Trends BC incidence mortality US 2004-2018 SEER by race,"Trends in Breast Cancer Incidence and Mortality in the United States From 2004-2018: A Surveillance, Epidemiology, and End Results (SEER)-Based Study"
+4044,TA,exclude,Not a US population-based/registry study,cancer incidence AYA Latin America,Cancer Incidence in Adolescents and Young Adults in 24 Selected Populations of Latin America
+4045,TA,exclude,Not a US population-based/registry study,global BC indigenous women systematic review,"Global breast cancer incidence, mortality, and survival among indigenous women: A systematic review and meta-analysis"
+4046,TA,exclude,Not relevant to the research question/topic,thyroid cancer incidence California,"Continued Rapid Increase in Thyroid Cancer Incidence in California: Trends by Patient, Tumor, and Neighborhood Characteristics"
+4047,TA,exclude,Not relevant to the research question/topic,upper-extremity sarcomas SEER,"Upper-extremity sarcomas in the United States: Analysis of the surveillance, epidemiology, and end results database, 1973-1998"
+4048,TA,exclude,Not relevant to the research question/topic,lymphoid malignancies US Asians birthplace,Lymphoid Malignancies in US Asians: Incidence Rate Differences by Birthplace and Acculturation
+4049,TA,exclude,Not relevant to the research question/topic,BC histology receptor Asian Indian Pakistani SEER,Breast cancer histology and receptor status characterization in Asian Indian and Pakistani women in the US - a SEER analysis
+4050,TA,include,,Annual Report to Nation 1975-2009 HPV cancers,"Annual Report to the Nation on the Status of Cancer, 19752009, Featuring the Burden and Trends in Human Papillomavirus (HPV)Associated Cancers and HPV Vaccination Coverage Levels"
+4051,TA,exclude,Not relevant to the research question/topic,age poverty acculturation gastric cancer SEER,"Age, poverty, acculturation, and gastric cancer"
+4052,TA,exclude,Not relevant to the research question/topic,neighborhood obesity BC survival California,Contribution of the Neighborhood Environment and Obesity to Breast Cancer Survival: The California Breast Cancer Survivorship Consortium
+4053,TA,exclude,Not relevant to the research question/topic,dairy uterine leiomyomata BWHS,A Prospective Study of Dairy Intake and Risk of Uterine Leiomyomata
+4054,TA,exclude,Not relevant to the research question/topic,interpreting cancer trends SEER,Interpreting cancer trends
+4055,TA,exclude,Not relevant to the research question/topic,breast cancer African-American women review,Breast cancer in African-American women
+4056,TA,exclude,Not relevant to the research question/topic,racial disparities survival tumor mutation TCGA,"Racial disparities in patient survival and tumor mutation burden, and the association between tumor mutation burden and cancer incidence rate"
+4057,TA,include,,Breast Cancer Statistics 2011 US incidence by race,"Breast cancer statistics, 2011"
+4058,TA,include,,White-Black cancer incidence stage survival older adults SEER,"White-Black Differences in Cancer Incidence, Stage at Diagnosis, and Survival Among Older Adults"
+4059,TA,exclude,Not a US population-based/registry study,cancer 15-29 India England,Cancer at Ages 15-29 Years: The Contrasting Incidence in India and England

@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4000,exclude,Not relevant to the research question/topic,nipple involvement predictors BC
+4001,exclude,Not relevant to the research question/topic,Tongan-American BC KAP screening
+4002,exclude,Not relevant to the research question/topic,TCF7L2 colon cancer
+4003,exclude,Not relevant to the research question/topic,male vs female BC incidence trends SEER
+4004,exclude,Not a US population-based/registry study,mammographic patterns soy Singapore
+4005,exclude,Not relevant to the research question/topic,mortality western cancers AA diet
+4006,exclude,Not a US population-based/registry study,cancer kidney transplant Australia NZ
+4007,exclude,Not relevant to the research question/topic,skin cancer prevention chapter
+4008,exclude,Not a US population-based/registry study,BC incidence mortality 35 Caucasian countries
+4009,exclude,Not relevant to the research question/topic,parity disparity first course treatment BC Atlanta
+4010,exclude,Not relevant to the research question/topic,cancer Appalachia 2001-2003 all-cancer
+4011,exclude,Not relevant to the research question/topic,genetics BC women African descent chapter
+4012,exclude,Not relevant to the research question/topic,peanuts sitosterol anticancer
+4013,exclude,Not relevant to the research question/topic,hormone-related supplements BC Philadelphia
+4014,exclude,Not a US population-based/registry study,soyfood adolescence BC Chinese
+4015,exclude,Not relevant to the research question/topic,disparities BC incidence race SES systematic review
+4016,exclude,"Editorials, commentaries, letters, or conference abstracts",annual cancer statistics report questions
+4017,exclude,Not relevant to the research question/topic,cancer stage survival SSDI Medicare
+4018,exclude,Not relevant to the research question/topic,SLE morbidity mortality
+4019,exclude,Not relevant to the research question/topic,metastatic BC elderly chapter
+4020,exclude,Not relevant to the research question/topic,Her-2/neu Puerto Rican biomarker
+4021,exclude,Not relevant to the research question/topic,breast cancer prevention chapter
+4022,exclude,Not a US population-based/registry study,Shanghai textile cancer study
+4023,exclude,Not relevant to the research question/topic,BRCA underserved populations chapter
+4024,exclude,Not a US population-based/registry study,cancer mortality Americas
+4025,exclude,Not relevant to the research question/topic,phytoestrogens BC chapter
+4026,include,,Incidence selected cancers NH-AIAN AYA 1999-2019
+4027,include,,Cancer incidence Asian American populations US 2009-2011
+4028,exclude,Not relevant to the research question/topic,addressing inequalities BC care delivery review
+4029,exclude,Not relevant to the research question/topic,papillary thyroid cancer birthplace Asian American
+4030,exclude,"Editorials, commentaries, letters, or conference abstracts",lowest incidence groups meeting abstract
+4031,exclude,"Editorials, commentaries, letters, or conference abstracts",BC incidence neighborhood SES AANHPI meeting abstract
+4032,exclude,"Editorials, commentaries, letters, or conference abstracts",Filipinos Chamorros Guam meeting abstract
+4033,exclude,Not relevant to the research question/topic,gestational choriocarcinoma SEER
+4034,exclude,Not relevant to the research question/topic,Hidden in Data BC Native American review
+4035,include,,Annual Report to Nation 1975-2001 survival feature
+4036,exclude,Not a US population-based/registry study,late-onset BC Korean hospital registry
+4037,include,,Cancer Statistics 2011 US incidence disparities
+4038,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnic estrogen metabolites BC editorial
+4039,include,,Racial/ethnic lifetime age-conditional cancer risk estimates
+4040,include,,Cancer incidence/mortality API populations US SEER vs NHW
+4041,exclude,Not relevant to the research question/topic,cancer statistics trends multiple primary SEER
+4042,exclude,Not a US population-based/registry study,breast gynae cancers ethnic England
+4043,include,,Trends BC incidence mortality US 2004-2018 SEER by race
+4044,exclude,Not a US population-based/registry study,cancer incidence AYA Latin America
+4045,exclude,Not a US population-based/registry study,global BC indigenous women systematic review
+4046,exclude,Not relevant to the research question/topic,thyroid cancer incidence California
+4047,exclude,Not relevant to the research question/topic,upper-extremity sarcomas SEER
+4048,exclude,Not relevant to the research question/topic,lymphoid malignancies US Asians birthplace
+4049,exclude,Not relevant to the research question/topic,BC histology receptor Asian Indian Pakistani SEER
+4050,include,,Annual Report to Nation 1975-2009 HPV cancers
+4051,exclude,Not relevant to the research question/topic,age poverty acculturation gastric cancer SEER
+4052,exclude,Not relevant to the research question/topic,neighborhood obesity BC survival California
+4053,exclude,Not relevant to the research question/topic,dairy uterine leiomyomata BWHS
+4054,exclude,Not relevant to the research question/topic,interpreting cancer trends SEER
+4055,exclude,Not relevant to the research question/topic,breast cancer African-American women review
+4056,exclude,Not relevant to the research question/topic,racial disparities survival tumor mutation TCGA
+4057,include,,Breast Cancer Statistics 2011 US incidence by race
+4058,include,,White-Black cancer incidence stage survival older adults SEER
+4059,exclude,Not a US population-based/registry study,cancer 15-29 India England
