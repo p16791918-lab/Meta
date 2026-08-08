@@ -41,10 +41,15 @@ FT_CATEGORIES = [
 ]
 
 
-def registry_family(title, abstract):
+def registry_family(title, abstract, ser=""):
     """Best-guess registry family from title/abstract, for overlap dedup.
     Author confirms at full text. Order matters (most specific first)."""
     s = (title + " " + abstract).lower()
+    # Recurring statistical reports are multi-registry aggregates: decide by the
+    # exact publication series first, so a national report is not mislabeled with
+    # a subgroup registry it merely mentions (e.g. "American Indian/Alaska Native").
+    if ser.startswith("ACS") or ser == "ARN" or ser == "USCS":
+        return "Multi-registry aggregate report (%s)" % ser
     if re.search(r"annual report to the nation", s):
         return "ARN (SEER+NPCR aggregate)"
     if re.search(r"\bus cancer statistics\b|uscs|invasive cancer incidence.*united states", s):
@@ -98,7 +103,7 @@ def main():
             "record_id": i,
             "year": r.get("year", ""),
             "series": series.get(i, ""),
-            "registry_family_guess": registry_family(r.get("title", ""), r.get("abstract", "") or ""),
+            "registry_family_guess": registry_family(r.get("title", ""), r.get("abstract", "") or "", series.get(i, "")),
             "pmid": r.get("pmid", ""),
             "doi": r.get("doi", ""),
             "title": r.get("title", ""),
