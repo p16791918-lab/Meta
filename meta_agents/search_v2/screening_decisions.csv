@@ -1039,3 +1039,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 1037,TA,exclude,Not a US population-based/registry study,SLNB Chinese patients,Is sentinel lymph node biopsy after neoadjuvant chemotherapy feasible in Chinese  patients with invasive breast cancers?
 1038,TA,exclude,Not relevant to the research question/topic,breast/ovarian in relatives BRCA,"Breast and ovarian cancer in relatives of cancer patients, with and without BRCA mutations"
 1039,TA,exclude,Not relevant to the research question/topic,PON1 polymorphisms CPS-II,Association of polymorphisms in the Paraoxonase 1 gene with breast cancer incidence in the CPS-II nutrition cohort
+1040,TA,exclude,Not relevant to the research question/topic,HIV seroprevalence cancer patients,Short communication: Lack of occult HIV infection among non-AIDS-defining cancer patients in three academic oncology clinics in the United States
+1041,TA,exclude,Not a US population-based/registry study,BC young women Latin America,"Breast cancer in young women in Latin America: An Unmet, growing Burden"
+1042,TA,exclude,Not relevant to the research question/topic,ovarian cancer incidence trends MHT,Ovarian cancer incidence trends in relation to changing patterns of menopausal hormone therapy use in the United States
+1043,TA,exclude,Not relevant to the research question/topic,LHW intervention Korean-American screening,Tailored lay health worker intervention improves breast cancer screening outcomes  in non-adherent Korean-American women
+1044,TA,exclude,Not relevant to the research question/topic,refinery occupational SIR Louisiana,"Cancer incidence among refinery and petrochemical employees in Louisiana, 1983-1999"
+1045,TA,exclude,Not relevant to the research question/topic,international recurrent MBC survival,International comparisons of survival after recurrent metastatic breast cancer in  four countries: A population-based study
+1046,TA,exclude,Not relevant to the research question/topic,supraclavicular radiation stroke risk,Supraclavicular radiation for breast cancer does not increase the 10-year risk of stroke
+1047,TA,exclude,Not a US population-based/registry study,global burden red meat GBD,"Global burden of breast cancer and its association with red meat consumption: spatiotemporal trends, projections, and triangulation of evidence"
+1048,TA,exclude,Not relevant to the research question/topic,IGF cord blood birth weight,"Insulin-like growth factor levels in cord blood, birth weight and breast cancer risk"
+1049,TA,exclude,Not relevant to the research question/topic,older women social support qualitative,"Older women, breast cancer, and social support"
+1050,TA,exclude,Not relevant to the research question/topic,COVID screening changes Boston cohort,"Impact of age, race, and family history on COVID-19–related changes in breast cancer screening among the Boston mammography cohort study"
+1051,TA,exclude,Not relevant to the research question/topic,APBI balloon preservation,Excellent Long-term Breast Preservation Rate after Accelerated Partial Breast Irradiation Using a Balloon Device
+1052,TA,exclude,Not relevant to the research question/topic,RNA splicing AA/White TCGA,Differential alternative RNA splicing and transcription events between tumors from African American and White patients in The Cancer Genome Atlas
+1053,TA,exclude,Not relevant to the research question/topic,rural-urban survival by race SEER,"Racial and Ethnic Differences in Rural-Urban Trends in 5-Year Survival of Patients with Lung, Prostate, Breast, and Colorectal Cancers: 1975-2011 Surveillance, Epidemiology, and End Results (SEER)"
+1054,TA,exclude,Not relevant to the research question/topic,emotion expression WHI psychometric,Expression and ambivalence over expression of negative emotion:psychometric analysis in the Women's Health Initiative.
+1055,TA,exclude,Not relevant to the research question/topic,second primary after thyroid cancer,Risk of second primary malignancies in women with papillary thyroid cancer
+1056,TA,exclude,Not relevant to the research question/topic,age at cancer diagnosis AIDS,Age at cancer diagnosis among persons with AIDS in the United States
+1057,TA,exclude,Not a US population-based/registry study,BC age at diagnosis Latin America,Breast cancer age at diagnosis patterns in four Latin American Populations: A comparison with North American countries
+1058,TA,exclude,Not relevant to the research question/topic,vaccinations/screening Arab/European white,Disparities in vaccinations and cancer screening among U.S.- and foreign-born  Arab and European American non-Hispanic White women
+1059,TA,exclude,Not relevant to the research question/topic,rehospitalization advanced cancer CCR,Hospitalization rates and predictors of rehospitalization among individuals with advanced cancer in the year after diagnosis
+1060,TA,exclude,Not relevant to the research question/topic,radiotherapy deserts access ecologic,"Radiotherapy Deserts: The Impact of Race, Poverty, and the Rural-Urban Continuum on Density of Providers and the Use of Radiation Therapy in the US"
+1061,TA,exclude,Not relevant to the research question/topic,LMIC immigrant NYC case series,Optimizing care of breast cancer patients from low resource countries who  immigrate to New York City: A case series from a large public hospital
+1062,TA,exclude,Not relevant to the research question/topic,SMN AYA cancer California,"Incidence, Risk Factors, and Mortality Associated With Second Malignant Neoplasms Among Survivors of Adolescent and Young Adult Cancer"
+1063,TA,exclude,Not relevant to the research question/topic,retinal vascular occlusion FHT,Association of Retinal Vascular Occlusion with Women Filling a Prescription for Female Hormone Therapy
+1064,TA,exclude,Not relevant to the research question/topic,metals toenail Sister Study,Metals and Breast Cancer Risk: A Prospective Study Using Toenail Biomarkers
+1065,TA,exclude,Not relevant to the research question/topic,light at night Georgia case-referent,A case-referent study: light at night and breast cancer risk in Georgia.
+1066,TA,exclude,Not relevant to the research question/topic,Medicaid expansion stage NCDB,Association of Medicaid Expansion under the Affordable Care Act with Breast Cancer Stage at Diagnosis
+1067,TA,exclude,Not relevant to the research question/topic,HER2+ NACT delays outcomes,Disparities in delays and outcomes in patients with HER2-positive breast cancer
+1068,TA,exclude,Not a US population-based/registry study,molecular Latin America PRECAMA,Molecular features of premenopausal breast cancers in Latin American women: Pilot results from the PRECAMA study
+1069,TA,exclude,Not relevant to the research question/topic,synchronous brain metastasis SEER,Estimating the annual frequency of synchronous brain metastasis in the United States 2010–2013: a population-based study
+1070,TA,exclude,Not a US population-based/registry study,Gail model Singapore validation,"Validation of the Gail model for predicting individual breast cancer risk in a  prospective nationwide study of 28,104 Singapore women"
+1071,TA,exclude,Not a US population-based/registry study,subsequent mammography Korean,Rates of change to a positive result in subsequent screening mammography in  Korean women: a retrospective observational study
+1072,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",diet BC/prostate survival conference paper,The role of diet in breast and prostate cancer survival
+1073,TA,exclude,Not a US population-based/registry study,clinicopathological Pakistan,Clinico-pathological features of breast cancer in Pakistan
+1074,TA,exclude,Not relevant to the research question/topic,false-negative mammograms NMD,False-Negative Screening and Diagnostic Mammograms in the National Mammography Database From 2010 to 2022
+1075,TA,exclude,Not relevant to the research question/topic,obesity clinicopathological safety-net,Impact of Obesity on Breast Cancer Clinicopathological Characteristics in Underserved US Community Safety-Net Hospital: A Retrospective Single-Center Study
+1076,TA,exclude,Not relevant to the research question/topic,GWAS paclitaxel neuropathy CALGB,A genome-wide association study identifies novel loci for paclitaxel-induced  sensory peripheral neuropathy in CALGB 40101
+1077,TA,exclude,Not relevant to the research question/topic,Ka Lokahi Wahine training program,Ka Lokahi Wahine: a culturally based training for health professionals.
+1078,TA,exclude,Not relevant to the research question/topic,PAR ovarian cancer OCWAA,Racial Differences in Population Attributable Risk for Epithelial Ovarian Cancer in the OCWAA Consortium
+1079,TA,exclude,Not relevant to the research question/topic,BRCA testing predictors Black women,Predictors of BRCA1/2 genetic testing among Black women with breast cancer: a population-based study
+1080,TA,exclude,Not relevant to the research question/topic,psychosocial risk appraisal older women,Psychosocial factors influencing breast cancer risk appraisal among older women.
+1081,TA,exclude,Not relevant to the research question/topic,cold environment cancer risk ecologic,Can the aging influence cold environment mediated cancer risk in the USA female population?
+1082,TA,exclude,Not a US population-based/registry study,anthropometry PRECAMA Latin America,"Anthropometry, body shape in early-life and risk of premenopausal breast cancer  among Latin American women: results from the PRECAMA study"
+1083,TA,exclude,Not relevant to the research question/topic,county mammography uptake rural-urban,County-level factors predicting low uptake of screening mammography
+1084,TA,exclude,Not relevant to the research question/topic,cord serum estrogens Chinese/US,"Cord serum estrogens, androgens, insulin-like growth factor-I, and insulin-like growth factor binding protein-3 in Chinese and U.S. Caucasian neonates"
+1085,TA,exclude,Not relevant to the research question/topic,young-onset postpartum BC Utah outcomes,Young-Onset Breast Cancer Outcomes by Time since Recent Childbirth in Utah
+1086,TA,exclude,Not relevant to the research question/topic,descriptive epi second primary BC,The descriptive epidemiology of second primary breast cancer
+1087,TA,exclude,Not relevant to the research question/topic,smoking correlates CTS,Correlates of active and passive smoking in the California Teachers Study cohort
+1088,TA,exclude,Not relevant to the research question/topic,age-dependent hormone receptors oxidant,Age-dependent changes in breast cancer hormone receptors and oxidant stress markers
+1089,TA,exclude,Not relevant to the research question/topic,neighborhood determinants screening All of Us,Evaluating the association between upstream perceived individual and neighborhood determinants of health and intensity of breast cancer screening
+1090,TA,exclude,Not relevant to the research question/topic,SES disparities screening BRFSS,Socioeconomic disparities in breast cancer screening among US women: trends from 2000 to 2005.
+1091,TA,exclude,Not relevant to the research question/topic,Marin County white women incidence increase,Increase in breast cancer incidence in middle-aged women during the 1990s
+1092,TA,exclude,Not relevant to the research question/topic,racial disparity locoregional treatment SEER,Reduced racial disparity in receipt of optimal locoregional treatment for women with early-stage breast cancer
+1093,TA,exclude,Not a US population-based/registry study,national screening disparity Korea,The effect of national cancer screening on disparity reduction in cancer stage at diagnosis by income level
+1094,TA,exclude,Not relevant to the research question/topic,Native Hawaiian qualitative experience,Native Hawaiian women and the experience of breast cancer
+1095,TA,exclude,Not relevant to the research question/topic,uninsured MN screening program estimates,Estimating uninsured and underinsured women eligible for Minnesota’s Breast Cancer Screening Program
+1096,TA,exclude,Not relevant to the research question/topic,rice consumption cancer NHS/HPFS,Rice consumption and cancer incidence in US men and women
+1097,TA,exclude,Not relevant to the research question/topic,rice consumption CTS,Association between rice consumption and risk of cancer incidence in the California Teachers Study
+1098,TA,exclude,Not relevant to the research question/topic,ER+ BC environmental pollutants SEER county,Estrogen receptor positive breast cancers and their association with environmental factors.
+1099,TA,exclude,Not relevant to the research question/topic,adjuvant endocrine therapy adherence,Adjuvant endocrine therapy for breast cancer patients: impact of a health system outreach program to improve adherence
