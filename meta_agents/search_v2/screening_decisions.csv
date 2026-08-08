@@ -2999,3 +2999,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 2997,TA,exclude,Not relevant to the research question/topic,KAB Arab-American inherited cancer,"Knowledge, attitudes, and beliefs of Arab-American women regarding inherited cancer risk."
 2998,TA,exclude,Not a US population-based/registry study,cancer incidence China 2009,"The incidences and mortalities of major cancers in China, 2009"
 2999,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",black-white crossover subtypes letter,Re: Age-specific incidence of breast cancer subtypes: Understanding the black-white crossover
+3000,TA,exclude,Not a US population-based/registry study,BC trends Israeli Jewish Arab,"Breast cancer trends in Israeli Jewish and Arab Women, 1996-2007"
+3001,TA,exclude,Not a US population-based/registry study,BC care Latin America review,A review of breast cancer care and outcomes in Latin America
+3002,TA,exclude,Not relevant to the research question/topic,second primary ovarian after breast,Declining second primary ovarian cancer after first primary breast cancer
+3003,TA,exclude,Not a US population-based/registry study,insulin glargine cancer France,Does insulin glargine increase the risk of cancer compared with other basal insulins? A French nationwide cohort study based on national administrative databases
+3004,TA,exclude,Not relevant to the research question/topic,SPM myeloma ASCT City of Hope,Second Primary Malignancies after Autologous Hematopoietic Cell Transplantation for Multiple Myeloma
+3005,TA,exclude,Not relevant to the research question/topic,adjuvant chemo TRAM scarring,Adjuvant chemotherapy reduces the incidence of abdominal hypertrophic scarring following immediate TRAM breast reconstruction
+3006,TA,exclude,Not relevant to the research question/topic,preoperative MRI multiple surgeries SEER-Medicare,The association of preoperative breast magnetic resonance imaging and multiple breast surgeries among older women with early stage breast cancer
+3007,TA,exclude,Not a US population-based/registry study,Gail recalibration Spanish,Recalibration of the Gail model for predicting invasive breast cancer risk in Spanish women: A population-based cohort study
+3008,TA,exclude,Not relevant to the research question/topic,SIM2 ETS2 Down syndrome malignancy,Potential contribution of SIM2 and ETS2 functional polymorphisms in Down syndrome associated malignancies
+3009,TA,exclude,Not relevant to the research question/topic,cost BC screening Medicare,The cost of breast cancer screening in the medicare population
+3010,TA,exclude,Not a US population-based/registry study,T2DM cancer risk Taiwan,Modest increase in risk of specific types of cancer types in type 2 diabetes mellitus patients
+3011,TA,exclude,Not relevant to the research question/topic,VTE mastectomy ACS-NSQIP,"Risk factors associated with venous thromboembolism in 49,028 mastectomy patients"
+3012,TA,exclude,Not relevant to the research question/topic,delayed detection Texas counties,Determinants of delayed detection of cancers in Texas Counties in the United States of America
+3013,TA,exclude,Not relevant to the research question/topic,insulin glargine cancer meta-analysis,Insulin Glargine and Cancer Risk in Patients with Diabetes: A Meta-Analysis
+3014,TA,exclude,Not a US population-based/registry study,BC subtypes Sarawak Malaysia,"Incidence and risk factors for breast cancer subtypes in three distinct South-East Asian ethnic groups: Chinese, Malay and natives of Sarawak, Malaysia"
+3015,TA,exclude,Not relevant to the research question/topic,FDG PET synchronous esophageal,"18(18)F-FDG PET-detected synchronous primary neoplasms in the staging of esophageal cancer: Incidence, cost, and impact on management"
+3016,TA,exclude,Not a US population-based/registry study,depression Korean BC longitudinal,Predictors of depression in Korean breast cancer patients: A one-year longitudinal study
+3017,TA,exclude,Not relevant to the research question/topic,daidzein rat uterus BC cells,Daidzein-Estrogen interaction in the rat uterus and its effect on human breast cancer cell growth
+3018,TA,exclude,Not a US population-based/registry study,BC screening KAP China,"Improving breast cancer outcomes among women in China: Practices, knowledge, and attitudes related to breast cancer screening"
+3019,TA,exclude,Not relevant to the research question/topic,bone marrow failure epidemiology,What's all the fuss about facts and figures about bone marrow failure and conditions
+3020,TA,exclude,Not a US population-based/registry study,BC screening practices Taiwan,Understanding breast cancer screening practices in Taiwan: A country with universal health care
+3021,TA,exclude,Not a US population-based/registry study,BRCA SNP Indian early-onset,BRCA1/BRCA2 gene mutations/SNPs and BRCA1 haplotypes in early-onset breast cancer patients of Indian ethnicity
+3022,TA,exclude,Not relevant to the research question/topic,LRR nipple-sparing mastectomy,Risk of locoregional recurrence in patients with false-negative frozen section or close margins of retroareolar specimen in nipple-sparing mastectomy
+3023,TA,exclude,Not a US population-based/registry study,Gail SE Asia Singapore,Assessing risk of breast cancer in an ethnically South-East Asia population (results of a multiple ethnic groups study)
+3024,TA,exclude,Not relevant to the research question/topic,metformin docetaxel prostate trial,"A Multicentric, Randomized, Phase II Study Evaluating the Combination of METFORMIN With TAXOTERE®+Metformine Placebo Versus TAXOTERE®+Metformin for the Treatment of Metastatic Hormone-refractory Prostate Cancer."
+3025,TA,exclude,Not relevant to the research question/topic,Friedreich ataxia mouse neoplasia,Clinical data and characterization of the liver conditional mouse model exclude neoplasia as a non-neurological manifestation associated with Friedreich's ataxia
+3026,TA,exclude,Not a US population-based/registry study,cancer registry comparability Sweden,"Comparability of cancer identification among Death Registry, Cancer Registry and Hospital Discharge Registry"
+3027,TA,exclude,Not a US population-based/registry study,raloxifene surveillance Japan,"Safety and effectiveness profile of raloxifene in long-term, prospective, postmarketing surveillance"
+3028,TA,exclude,Not a US population-based/registry study,elderly Asian European BC comparison,A cross-sectional study of elderly Asian and European women with primary operable breast cancer aged 70 and older. Are there differences?
+3029,TA,exclude,Not relevant to the research question/topic,light deficiency BC endocrine ecological,Light deficiency confers breast cancer risk by endocrine disorders
+3030,TA,exclude,Not a US population-based/registry study,cancer incidence Nigeria PBCR,Cancer incidence in Nigeria: A report from population-based cancer registries
+3031,TA,exclude,Not relevant to the research question/topic,harmonic scalpel BCS,Evaluation of the harmonic scalpel in breast conserving and axillary staging surgery
+3032,TA,exclude,Not a US population-based/registry study,postmenopausal BC Iran PAF,Postmenopausal breast cancer in Iran; risk factors and their population attributable fractions
+3033,TA,exclude,Not relevant to the research question/topic,trichosanthin BC cells mice,Trichosanthin Inhibits Breast Cancer Cell Proliferation in Both Cell Lines and Nude Mice by Promotion of Apoptosis
+3034,TA,exclude,Not relevant to the research question/topic,selective preoperative MRI reoperation,Selective preoperative magnetic resonance imaging in women with breast cancer: No reduction in the reoperation rate
+3035,TA,exclude,Not relevant to the research question/topic,metastatic brain tumors US estimate,Toward determining the lifetime occurrence of metastatic brain tumors estimated from 2007 United States cancer incidence data
+3036,TA,exclude,Not relevant to the research question/topic,rare prostate variants SEER,A comprehensive review of incidence and survival in patients with rare histological variants of prostate cancer in the United States from 1973 to 2008
+3037,TA,exclude,Not relevant to the research question/topic,positive margin BCS palpable,Positive margin rates following breast-conserving surgery for stage I-III breast cancer: Palpable versus nonpalpable tumors
+3038,TA,exclude,Not relevant to the research question/topic,endometrial MMR young patients,Clinical and pathologic features of young endometrial cancer patients with loss of mismatch repair expression
+3039,TA,exclude,Not a US population-based/registry study,cancer screening learning disability UK,"Access to Cancer Screening in People with Learning Disabilities in the UK: Cohort Study in the Health Improvement Network, a Primary Care Research Database"
+3040,TA,exclude,Not relevant to the research question/topic,diabetes metformin BC WHI,"Diabetes, metformin, and breast cancer in postmenopausal women"
+3041,TA,exclude,Not relevant to the research question/topic,smoking taxane PK toxicity,Influence of smoking on the pharmacokinetics and toxicity profiles of taxane therapy
+3042,TA,exclude,Not relevant to the research question/topic,seaweed early BC trial,Dietary Seaweed and Early Breast Cancer: A Randomized Trial
+3043,TA,exclude,Not relevant to the research question/topic,TNBC epidemiology recommendations review,Triple-negative breast cancer: Epidemiological considerations and recommendations
+3044,TA,exclude,Not relevant to the research question/topic,cancer screening AA Arab Chaldean Detroit,Strategies for reducing cancer incidence and mortality in African American and Arab American and chaldean communities in the Detroit Metropolitan area
+3045,TA,exclude,Not a US population-based/registry study,cancer parents schizophrenia,Cancer in parents of persons with schizophrenia: Is there a genetic protection?
+3046,TA,exclude,Not a US population-based/registry study,obesity NCT response Chinese,Obesity or overweight is associated with worse pathological response to neoadjuvant chemotherapy among Chinese women with breast cancer
+3047,TA,exclude,Not relevant to the research question/topic,red clover menopause trial,Alternative Treatments for Menopausal Women: The Efficacy of a Novel Red Clover Treatment on Menopausal Women.
+3048,TA,exclude,Not a US population-based/registry study,breastfeeding parity BC subtypes Spain,"Breast feeding, parity and breast cancer subtypes in a Spanish cohort"
+3049,TA,exclude,Not a US population-based/registry study,basal insulin cancer Israel GOH,Effect of elevated basal insulin on cancer incidence and mortality in cancer incident patients: The Israel GOH 29-year follow-up study
+3050,TA,exclude,Not a US population-based/registry study,BC incidence European women 20-39,Breast cancer incidence trends in European women aged 20-39 years at diagnosis
+3051,TA,exclude,Not a US population-based/registry study,second cancers NMSC Korea,Risk of second cancers after the diagnosis of non-melanoma skin cancer in Korean patients
+3052,TA,exclude,Not a US population-based/registry study,descriptive epidemiology BC international,"The descriptive epidemiology of female breast cancer: An international comparison of screening, incidence, survival and mortality"
+3053,TA,exclude,Not a US population-based/registry study,risk factors BC Northeast China,Risk factors related to female breast cancer in regions of Northeast China: A 1: 3 matched case-control population-based study
+3054,TA,exclude,Not relevant to the research question/topic,pCR prognosis biomarker model,Prognosis of treatment response (pathological complete response) in breast cancer
+3055,TA,exclude,Not relevant to the research question/topic,BRCA mutations Puerto Rico prevalence,Identification of the prevalent BRCA1 and BRCA2 mutations in the female population of Puerto Rico
+3056,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",palliative RT bone mets Japan survey,Patterns of practice in palliative radiotherapy for painful bone metastases: A survey in Japan
+3057,TA,exclude,Not relevant to the research question/topic,mammographic density adiposity 4 studies,Mammographic density and risk of breast cancer by adiposity: an analysis of four case-control studies
+3058,TA,exclude,Not relevant to the research question/topic,PKC ER TNBC AA Caucasian biomarker,PKC and ER are associated with triple-negative breast cancers in African American and Caucasian patients
+3059,TA,exclude,Not a US population-based/registry study,de novo malignancy liver transplant Korea,De novo malignancies after liver transplantation: Incidence comparison with the Korean cancer registry
