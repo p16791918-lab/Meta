@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2780,exclude,Not relevant to the research question/topic,HDCT ASCT TNBC trial
+2781,exclude,Not a US population-based/registry study,GGT cancer risk Korea
+2782,exclude,Not relevant to the research question/topic,BC lymphedema HRU costs
+2783,exclude,Not relevant to the research question/topic,vaginal estrogen QoL NYC
+2784,exclude,Not a US population-based/registry study,BC spatiotemporal Hangzhou
+2785,exclude,Not a US population-based/registry study,BC incidence Shijiazhuang
+2786,exclude,Not relevant to the research question/topic,leukoencephalopathy SRS survivors
+2787,exclude,Not relevant to the research question/topic,bilateral BC genomic evolution
+2788,exclude,Not a US population-based/registry study,BC risk factors Vietnam case-control
+2789,exclude,Not relevant to the research question/topic,dietary energy density CPS-II
+2790,exclude,Not a US population-based/registry study,cardiotoxicity endothelium Denmark
+2791,exclude,Not relevant to the research question/topic,tamoxifen AI benefit/risk by age/race
+2792,exclude,Not a US population-based/registry study,non-SLN nomogram Chinese
+2793,exclude,Not a US population-based/registry study,SES BC incidence Jerusalem
+2794,exclude,Not relevant to the research question/topic,cancer incidence homeless Boston
+2795,exclude,Not relevant to the research question/topic,diabetes cancer mortality AI Strong Heart
+2796,include,,Cancer Statistics Hispanics/Latinos 2015
+2797,exclude,Not a US population-based/registry study,ancestry BC incidence Trinidad Tobago
+2798,exclude,Not relevant to the research question/topic,cancer coronary calcium MESA
+2799,exclude,Not relevant to the research question/topic,vitamin D metabolism ancestry trial
+2800,exclude,Not a US population-based/registry study,CRA menopause Chinese patients
+2801,exclude,Not a US population-based/registry study,second primary prostate Korea
+2802,exclude,Not a US population-based/registry study,pirarubicin capecitabine Chinese trial
+2803,exclude,Not relevant to the research question/topic,molecular markers ethnicity BC risk lab
+2804,exclude,Not relevant to the research question/topic,coal mines cancer Illinois GIS
+2805,exclude,Not a US population-based/registry study,raloxifene safety Japan
+2806,exclude,"Editorials, commentaries, letters, or conference abstracts",AACR disparities conference review
+2807,exclude,Not a US population-based/registry study,dietary inflammatory index Sweden
+2808,exclude,Not a US population-based/registry study,body size hormones IGF Chinese
+2809,exclude,Not a US population-based/registry study,Chinese women UK breast health
+2810,exclude,Not relevant to the research question/topic,early palliative RT survival
+2811,exclude,Not relevant to the research question/topic,cancer death rates congressional districts
+2812,exclude,Not relevant to the research question/topic,cancer literacy AA Latina Arab Detroit
+2813,exclude,Not a US population-based/registry study,BRCA penetrance Korean
+2814,exclude,Not a US population-based/registry study,EGFR T790M European BC
+2815,exclude,Not relevant to the research question/topic,uterine leiomyomata BC BWHS
+2816,exclude,Not a US population-based/registry study,radical surgery trends China
+2817,exclude,Not a US population-based/registry study,indigenous medicine cancer Australia
+2818,exclude,Not relevant to the research question/topic,secondary malignancies WM SEER
+2819,exclude,Not relevant to the research question/topic,adiponectin cancer Dallas Heart
+2820,exclude,Not relevant to the research question/topic,ketamine mastectomy chronic pain trial
+2821,exclude,Not relevant to the research question/topic,incident cancer ischemic stroke VISP
+2822,exclude,Not relevant to the research question/topic,cancer incidence US 1975-2020 all sites
+2823,exclude,Not relevant to the research question/topic,early estimates SEER 2012 methods
+2824,exclude,Not a US population-based/registry study,BC challenges screening China registry
+2825,exclude,Not a US population-based/registry study,nab-paclitaxel cost China
+2826,exclude,Not a US population-based/registry study,SPM uterine cancer Taiwan
+2827,exclude,Not a US population-based/registry study,pegfilgrastim filgrastim Chinese trial
+2828,exclude,Not relevant to the research question/topic,psychosocial interventions Black women review
+2829,exclude,Not relevant to the research question/topic,health disparities BC continuum review
+2830,exclude,Not a US population-based/registry study,appendicitis malignancy Taiwan
+2831,exclude,Not a US population-based/registry study,TCM post-mastectomy meta-analysis
+2832,exclude,Not relevant to the research question/topic,residential environment BC systematic review
+2833,exclude,Not a US population-based/registry study,urban-rural BC SES China
+2834,exclude,Not relevant to the research question/topic,mHealth counseling survivors trial
+2835,exclude,Not a US population-based/registry study,mammographic density Asian
+2836,exclude,Not relevant to the research question/topic,white matter changes brain mets RT
+2837,exclude,Not relevant to the research question/topic,contralateral preventive mastectomy Florida
+2838,exclude,Not a US population-based/registry study,BC incidence/mortality Hong Kong
+2839,exclude,Not a US population-based/registry study,subsequent malignancies thyroid Korea
