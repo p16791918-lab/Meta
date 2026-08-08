@@ -4719,3 +4719,76 @@ record_id,stage,decision,display_reason,sub_reason,title
 4717,TA,exclude,Not relevant to the research question/topic,exercise cancer narrative review,Benefits of exercise and/or physical activity in the five types of cancer with the highest incidence and mortality worldwide: A narrative review
 4718,TA,exclude,Not relevant to the research question/topic,mammary neoplasia chimpanzees,PROSPECTIVE POSTMORTEM ASSESSMENT OF THE INCIDENCE OF MAMMARY NEOPLASIA IN CHIMPANZEES (PAN TROGLODYTES)
 4719,TA,exclude,Not relevant to the research question/topic,radiotherapy proximity cancer mortality county US,"Proximity to Radiotherapy Center, Population, Average Income, and Health Insurance Status as Predictors of Cancer Mortality at the County Level in the United States"
+4720,TA,exclude,Not relevant to the research question/topic,WBC growth factors NHL SEER-Medicare treatment,"Comparative Effectiveness of White Blood Cell Growth Factors on Neutropenia, Infection, and Survival in Older People with Non-Hodgkin's Lymphoma Treated with Chemotherapy"
+4721,TA,exclude,Not relevant to the research question/topic,pesticide colorectal cancer review,Association between pesticide exposure and colorectal cancer risk and incidence: A systematic review
+4722,TA,exclude,Not a US population-based/registry study,EGFR-TKI CNS failure NSCLC Korea,Frequent Central Nervous System Failure After Clinical Benefit With Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors in Korean Patients With Nonsmall-Cell Lung Cancer
+4723,TA,exclude,Not relevant to the research question/topic,MCED screening trial microsimulation,Clinical performance and utility: A microsimulation model to inform the design of screening trials for a multi-cancer early detection test
+4724,TA,exclude,Not relevant to the research question/topic,cancer genomics diversity ethnicity review,Cancer Genomics: Diversity and Disparity Across Ethnicity and Geography
+4725,TA,exclude,Not relevant to the research question/topic,community engagement neighborhood cancer AA,Community Engagement to Inform Multilevel Analyses of the Role of Neighborhood Factors in Cancer Control Behaviors in African Americans
+4726,TA,exclude,Not relevant to the research question/topic,estrogen replacement ovarian cancer mortality,Estrogen replacement therapy and ovarian cancer mortality in a large prospective study of US women
+4727,TA,exclude,Not relevant to the research question/topic,cervical cancer screening Latinas TPB,Using the Theory of Planned Behavior to Understand Cervical Cancer Screening Among Latinas
+4728,TA,exclude,Not relevant to the research question/topic,diet PA body fatness BC young women review,"THE ROLE OF DIET, PHYSICAL ACTIVITY, BODY FATNESS, AND BREASTFEEDING IN BREAST CANCER IN YOUNG WOMEN: EPIDEMIOLOGICAL EVIDENCE"
+4729,TA,exclude,Not relevant to the research question/topic,oncology midlife menopause review,Oncology in midlife and beyond
+4730,TA,exclude,Not relevant to the research question/topic,nanospray soy isoflavone extracts,Nanospray Drying as a Novel Tool to Improve Technological Properties of Soy Isoflavone Extracts
+4731,TA,exclude,Not relevant to the research question/topic,Hodgkin lymphoma epidemiology review,"New aspects in descriptive, etiologic, and molecular epidemiology of Hodgkin's lymphoma"
+4732,TA,exclude,Not a US population-based/registry study,cancer registries roles Australia,Changing roles of population-based cancer registries in Australia
+4733,TA,exclude,Not relevant to the research question/topic,genetic counseling AA Latinos Midwest,Communicating risk and the landscape of cancer prevention - an exploratory study that examines perceptions of cancer-related genetic counseling and testing among African Americans and Latinos in the Midwest
+4734,TA,exclude,Not a US population-based/registry study,choroidal metastasis Mexico,Primary Cancer Sites and Clinical Features of Choroidal Metastasis in Mexican Patients
+4735,TA,exclude,Not a US population-based/registry study,oncology unmet needs Africa Ghana,Unmet Needs in Oncology Clinical Research and Treatment in Africa: Focus on Ghana
+4736,TA,exclude,Not a US population-based/registry study,gastric cancer micrometastasis Korea,Biopathologic features and clinical significance of micrometatasis in the lymph node of early gastric cancer
+4737,TA,exclude,Not relevant to the research question/topic,sarcoidosis gene-environment interactions,Gene-environment interactions in sarcoidosis: challenge and opportunity
+4738,TA,exclude,Not a US population-based/registry study,cancer screening obesity Canada,Cancer screening among the overweight and obese in Canada
+4739,TA,exclude,Not relevant to the research question/topic,miR-216b AML prognosis,Overexpression of miR-216b: Prognostic and predictive value in acute myeloid leukemia
+4740,TA,exclude,Not a US population-based/registry study,precision medicine BC Latin America,Recommendations for streamlining precision medicine in breast cancer care in Latin America
+4741,TA,exclude,Not relevant to the research question/topic,SRE cost prostate cancer Medicare,The Economic Burden of Skeletal-Related Events Among Elderly Men with Metastatic Prostate Cancer
+4742,TA,exclude,Not relevant to the research question/topic,hormone therapy postmenopausal review,Update on hormone therapy for the management of postmenopausal women
+4743,TA,exclude,Not relevant to the research question/topic,cancer education Milwaukee high school,Impact of a Cancer Health Education Curriculum Among Milwaukee Public High School Students
+4744,TA,exclude,Not relevant to the research question/topic,Hodgkin lymphoma trends review,"Current Insight on Trends, Causes, and Mechanisms of Hodgkin's Lymphoma"
+4745,TA,exclude,Not a US population-based/registry study,trastuzumab biosimilar budget China,Budget Impact Analysis of the Introduction of a Trastuzumab Biosimilar for HER2-Positive Breast Cancer in China
+4746,TA,exclude,Not a US population-based/registry study,diet lung cancer Chinese Singapore,"Diet, reproductive factors and lung cancer risk among Chinese women in Singapore: Evidence for a protective effect of soy in nonsmokers"
+4747,TA,exclude,Not relevant to the research question/topic,BC gynecological cancer SLE meta-analysis,Breast and gynecological cancer risk in systemic lupus erythematosus: A meta-analysis of cohort studies
+4748,TA,exclude,Not relevant to the research question/topic,vitamin A cancer women meta-analysis,Dietary Vitamin A Intake and Circulating Vitamin A Concentrations and the Risk of Three Common Cancers in Women: A Meta-Analysis
+4749,TA,exclude,Not a US population-based/registry study,Aidi injection lung cancer China meta,The Hepatorenal Toxicity and Tumor Response of Chemotherapy With or Without Aidi Injection in Advanced Lung Cancer: A Meta-Analysis of 80 Randomized Controlled Trials
+4750,TA,exclude,Not a US population-based/registry study,radiation positive margins BC Japan,Efficacy of radiation therapy in Japanese patients with positive margins after breast-conserving surgery
+4751,TA,exclude,Not relevant to the research question/topic,gastric carcinoma micrometastasis nodes,Immunohistochemically detected micrometastases of the lymph nodes in patients with gastric carcinoma
+4752,TA,exclude,Not a US population-based/registry study,TNBC somatic profiling Sub-Saharan Africa,Coding and regulatory somatic profiling of triple-negative breast cancer in Sub-Saharan African patients
+4753,TA,exclude,Not relevant to the research question/topic,emerging approaches BC molecular review,Emerging Approaches in Breast Cancer: From Molecular Mechanisms to Diagnosis and Therapeutic Strategies
+4754,TA,exclude,Not relevant to the research question/topic,lifestyle factors cancer narrative review,Lifestyle Factors and Cancer: A Narrative
+4755,TA,exclude,Not a US population-based/registry study,BC stage survival Latin America Caribbean,Stage at diagnosis and stage-specific survival of breast cancer in Latin America and the Caribbean: A systematic review and meta-analysis
+4756,TA,exclude,Not a US population-based/registry study,rural-urban NET incidence Ontario Canada,Rural-urban disparities in incidence and outcomes of neuroendocrine tumors: A population-based analysis of 6271 cases
+4757,TA,exclude,Not a US population-based/registry study,cancer patterns trends Peru,"Cancer patterns, trends, and transitions in Peru: a regional perspective"
+4758,TA,exclude,Not relevant to the research question/topic,stage at diagnosis rurality deprivation Maine,"Stage at Diagnosis for Common Cancers according to Rurality, Area Deprivation, and Insurance, 2017 to 2021"
+4759,TA,exclude,Not relevant to the research question/topic,pegfilgrastim biosimilar safety review,Achieving white blood cell equity: are the safety profiles of biosimilar and reference pegfilgrastims comparable?
+4760,TA,exclude,Not relevant to the research question/topic,cancer-related anemia scoping review global,Mapping the epidemiology of cancer-related anemia: A systematic scoping review of global prevalence and incidence
+4761,TA,exclude,Not relevant to the research question/topic,perinatal factors lupus NHS,Perinatal factors and adult-onset lupus
+4762,TA,exclude,Not a US population-based/registry study,SES cancer survival England Wales,Socioeconomic inequalities in cancer survival in England and Wales
+4763,TA,exclude,Not a US population-based/registry study,somatic oncogenic variants Latin America review,Somatic Landscape of Oncogenic Variants Across the Main Cancer Subtypes in Latin America: A Narrative Review
+4764,TA,exclude,Not relevant to the research question/topic,childbirth after AYA cancer NC,Childbirth after adolescent and young adult cancer: a population-based study
+4765,TA,exclude,Not relevant to the research question/topic,G2-M checkpoint lung cancer AA,Less efficient G2-M checkpoint is associated with an increased risk of lung cancer in African Americans
+4766,TA,exclude,Not a US population-based/registry study,8q24 prostate African-Barbadian,8q24 Risk Alleles and Prostate Cancer in African-Barbadian Men
+4767,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",cancer inequities Latin America editorial,A reflective analysis on the inequities in cancer diagnosis and treatment in Latin America: a call to action for public health
+4768,TA,exclude,Not relevant to the research question/topic,green tea prostate cancer prevention,Molecular targets for green tea in prostate cancer prevention
+4769,TA,exclude,Not relevant to the research question/topic,WBC growth factors ASCO guideline,2006 update of recommendations for the use of white blood cell growth factors: An evidence-based clinical practice guideline
+4770,TA,exclude,Not relevant to the research question/topic,first mammogram BC survival young women,First mammogram-detected cancers portend worse survival in young women diagnosed with breast cancer
+4771,TA,exclude,Not a US population-based/registry study,germline variants cancer predisposition LAC,Germline Genetic Variants in Cancer Predisposition Genes in Patients From Latin America and the Caribbean
+4772,TA,exclude,Not a US population-based/registry study,chemoradiation gastric Ashkenazi Israel,Ethnic Variation in Toxicity and Outcome of Adjuvant Chemoradiation for Gastric Cancer in Israel
+4773,TA,exclude,Not relevant to the research question/topic,reproductive endometriosis NHS,Reproductive history and endometriosis among premenopausal women
+4774,TA,exclude,Not relevant to the research question/topic,food groups colon cancer AA Caucasian,Food groups and colon cancer risk in African-Americans and Caucasians
+4775,TA,exclude,Not relevant to the research question/topic,pegfilgrastim two decades review,Two decades of pegfilgrastim: what have we learned? Where do we go from here?
+4776,TA,exclude,Not a US population-based/registry study,socioeconomic impact cancer Latin America,Socioeconomic Impact of Cancer in Latin America and The Caribbean
+4777,TA,exclude,Not relevant to the research question/topic,cancer prevention midlife CDC meeting,Opportunities for Cancer Prevention During Midlife Highlights from a Meeting of Experts
+4778,TA,exclude,Not relevant to the research question/topic,plant-based diet prostate cancer progression,Potential attenuation of disease progression in recurrent prostate cancer with plant-based diet and stress reduction
+4779,TA,exclude,Not relevant to the research question/topic,SGLT2 inhibitors anthracyclines cardiac,Sodium-Glucose Co-Transporter-2 Inhibitors and Cardiac Outcomes Among Patients Treated With Anthracyclines
+4780,TA,exclude,Not a US population-based/registry study,menopause Latin America Costa Rica,"Menopause in Latin America: Symptoms, attitudes, treatments and future directions in Costa Rica"
+4781,TA,exclude,Not a US population-based/registry study,cancer epidemic Caribbean review,The cancer epidemic in the Caribbean region: Further opportunities to reverse the disease trend
+4782,TA,exclude,Not relevant to the research question/topic,prostate carcinoma IGF-I IGFBP-3 insulin,"Prostate carcinoma incidence in relation to prediagnostic circulating levels of insulin-like growth factor I, insulin-like growth factor binding protein 3, and insulin"
+4783,TA,exclude,Not relevant to the research question/topic,frailty ambulatory surgery morbidity,Association of Patient Frailty With Increased Morbidity After Common Ambulatory General Surgery Operations
+4784,TA,exclude,Not a US population-based/registry study,immigrant children cancer psychosocial Spain,AMOR II: An Effort to Eradicate Psychosocial Barriers Induced by Immigration Phenomenon in Children With Cancer
+4785,TA,exclude,Not relevant to the research question/topic,degarelix leuprolide prostate CV trial,Cardiovascular Safety of Degarelix Versus Leuprolide for Advanced Prostate Cancer The PRONOUNCE Trial Study Design
+4786,TA,exclude,Not relevant to the research question/topic,WBC growth factors AML MDS NHL SEER-Medicare,Use of White Blood Cell Growth Factors and Risk of Acute Myeloid Leukemia or Myelodysplastic Syndrome Among Elderly Patients With Non-Hodgkin Lymphoma
+4787,TA,exclude,Not relevant to the research question/topic,survival Medicaid 8 cancers Ohio,Survival disparities by Medicaid status An Analysis of 8 Cancers
+4788,TA,exclude,Not relevant to the research question/topic,alcohol medical conditions primary care,Associations Between Medical Conditions and Alcohol Consumption Levels in an Adult Primary Care Population
+4789,TA,exclude,Not relevant to the research question/topic,fertility preservation counselling referral,Referral for fertility preservation counselling in female cancer patients
+4790,TA,exclude,Not relevant to the research question/topic,evolutionary carcinogenesis LMIC review,Human Evolutionary Carcinogenesis and Effects of Demographic and Epidemiologic Transitions in Low- and Middle-Income Countries
+4791,TA,exclude,Not relevant to the research question/topic,adult after childhood lymphoma survivorship,Adult life after surviving lymphoma in childhood
+4792,TA,exclude,Not relevant to the research question/topic,barriers care abnormal screening navigation,Barriers to health care contribute to delays in follow-up among women with abnormal cancer screening: Data from the Patient Navigation Research Program
