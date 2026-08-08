@@ -2899,3 +2899,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 2897,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",HBOC symposium conference review,"5th International Symposium on Hereditary Breast and Ovarian Cancer, BRCA: Twenty Years of Advances"
 2898,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ARS 2014 conference review,"96th Annual Meeting of the American Radium Society, ARS 2014"
 2899,TA,exclude,Not relevant to the research question/topic,exercise RCT AA women MetS,An Exercise Randomized Controlled Trial Targeting African-American Women With Metabolic Syndrome and High Risk for Breast Cancer
+2900,TA,exclude,Not a US population-based/registry study,mammography uptake Singapore trial,Physician-led Video-assisted Intervention for Increasing Mammography Uptake in Private Primary Care Practice in Singapore: A Cluster-Randomized Trial
+2901,TA,exclude,Not relevant to the research question/topic,exergaming biomarkers Black women trial,Exergaming Intervention and Breast Cancer Biomarkers in Black Women
+2902,TA,exclude,Not a US population-based/registry study,cancer mortality country of birth Sweden,"Cancer mortality by country of birth, sex, and socioeconomic position in Sweden, 1961-2009"
+2903,TA,exclude,Not relevant to the research question/topic,alcohol BC Multiethnic Cohort,Alcohol consumption and breast cancer risk among women from five ethnic groups with light to moderate intakes: The Multiethnic Cohort Study
+2904,TA,exclude,Not a US population-based/registry study,premature ovarian failure Chinese,Impact of premature ovarian failure on mortality and morbidity among Chinese women
+2905,TA,exclude,Not a US population-based/registry study,NHL survivors second cancers Nordic,"Age-time risk patterns of solid cancers in 60 901 non-Hodgkin lymphoma survivors from Finland, Norway and Sweden"
+2906,TA,exclude,Not relevant to the research question/topic,cancer mortality burden 1985-2005 SEER,"Assessing progress in reducing the burden of cancer mortality, 1985-2005"
+2907,TA,exclude,Not a US population-based/registry study,avoidable mortality urbanization Taiwan,"Differences in age-standardized mortality rates for avoidable deaths based on urbanization levels in Taiwan, 1971-2008"
+2908,TA,exclude,Not a US population-based/registry study,body fat doxorubicin PK Asian,Body fat composition impacts the hematologic toxicities and pharmacokinetics of doxorubicin in Asian breast cancer patients
+2909,TA,exclude,Not relevant to the research question/topic,competing risks BC mortality estimation,Competing risks analysis in mortality estimation for breast cancer patients from independent risk groups
+2910,TA,exclude,Not a US population-based/registry study,extraesophageal malignancy Barrett Israel,Extraesophageal malignancies among patients with barrett esophagus
+2911,TA,exclude,Not a US population-based/registry study,CYP2D6 hot flashes Dutch TEAM,CYP2D6 genotype in relation to hot flashes as tamoxifen side effect in a Dutch cohort of the tamoxifen exemestane adjuvant multinational (TEAM) trial
+2912,TA,exclude,Not relevant to the research question/topic,undiagnosed diabetes cancer SEER-Medicare,"Undiagnosed diabetes in breast, colorectal, lung, and prostate cancer: Incidence and risk factors"
+2913,TA,exclude,Not relevant to the research question/topic,sorafenib chemo meta-analysis,Efficacy and safety profile of combining sorafenib with chemotherapy in patients with HER2-negative advanced breast cancer: A meta-analysis
+2914,TA,exclude,Not relevant to the research question/topic,BC subtype distribution early-onset races,Distinct breast cancer subtypes in women with early-onset disease across races
+2915,TA,exclude,Not a US population-based/registry study,cancer incidence China 2010,"The incidences and mortalities of major cancers in China, 2010"
+2916,TA,exclude,Not a US population-based/registry study,BC screening practices Hong Kong,Breast cancer screening practices among hong kong chinese women
+2917,TA,include,,Breast Cancer Statistics 2013 US incidence by race,"Breast cancer statistics, 2013"
+2918,TA,exclude,Not relevant to the research question/topic,composite SES index registry confidentiality,Using a composite index of socioeconomic status to investigate health disparities while protecting the confidentiality of cancer registry data
+2919,TA,exclude,Not relevant to the research question/topic,oral hypoglycemic cancer risk T2DM,Gender-specific effects of oral hypoglycaemic agents on cancer risk in type 2 diabetes mellitus
+2920,TA,exclude,Not relevant to the research question/topic,prostate screening BRCA IMPACT,Targeted prostate cancer screening in BRCA1 and BRCA2 mutation carriers: Results from the initial screening round of the IMPACT study
+2921,TA,exclude,Not relevant to the research question/topic,AET adherence modifiable factors,Modifiable risk factors for adherence to adjuvant endocrine therapy among breast cancer patients
+2922,TA,exclude,Not a US population-based/registry study,reconstruction tissue expanders Japan,Clinical outcome of reconstruction with tissue expanders for patients with breast cancer and mastectomy
+2923,TA,exclude,Not relevant to the research question/topic,vitamin D solid tumor levels,Low 25-hydroxyvitamin D levels in people with a solid tumor cancer diagnosis: The tip of the iceberg?
+2924,TA,exclude,Not relevant to the research question/topic,melanoma glioma risk SEER,Exploring the association between melanoma and glioma risks
+2925,TA,exclude,Not relevant to the research question/topic,BCT DCIS tumor size,Breast conserving therapy for DCIS - Does size matter?
+2926,TA,exclude,Not a US population-based/registry study,TCM moist desquamation case series,Treating breast cancer radiotherapy-induced moist desquamation with a traditional chinese medicine formula: A case series pilot study
+2927,TA,exclude,Not relevant to the research question/topic,AMH genes BC Caucasian AA,Genetic variants in anti-mullerian hormone and anti-mullerian hormone receptor genes and breast cancer risk in caucasians and African Americans
+2928,TA,exclude,Not a US population-based/registry study,VTE Asian tamoxifen Taiwan,No increased venous thromboembolism risk in Asian breast cancer patients receiving adjuvant tamoxifen
+2929,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",gastric signet ring bone marrow case,Bone marrow infiltration as the initial presentation of gastric signet ring cell adenocarcinoma
+2930,TA,exclude,Not a US population-based/registry study,receptor BC Southern Africa,Racial comparison of receptor-defined breast cancer in Southern African women: Subtype prevalence and age - Incidence analysis of nationwide cancer registry data
+2931,TA,exclude,Not relevant to the research question/topic,CPM predictors reconstruction,Predictors of contralateral prophylactic mastectomy and the impact on breast reconstruction
+2932,TA,exclude,Not a US population-based/registry study,risk assessment models Korean women,Validation of risk assessment models for predicting the incidence of breast cancer in Korean women
+2933,TA,exclude,Not relevant to the research question/topic,dosimetry heart left breast IMRT,A dosimetry study precisely outlining the heart substructure of left breast cancer patients using intensity-modulated radiation therapy
+2934,TA,exclude,Not relevant to the research question/topic,Ras/MAPK TNBC targeting rationale,Rationale for targeting the Ras/MAPK pathway in triple-negative breast cancer
+2935,TA,exclude,Not relevant to the research question/topic,local recurrence conservative surgery,Factors Associated with the Incidence of Local Recurrences of Breast Cancer in Women Who Underwent Conservative Surgery
+2936,TA,exclude,Not relevant to the research question/topic,nutritional status body composition PK,Assessment of nutritional status in cancer - the relationship between body composition and pharmacokinetics
+2937,TA,exclude,Not relevant to the research question/topic,cognitive brain function adjuvant trial,A Prospective Pilot Study to Evaluate the Effect of Systemic Adjuvant Therapy on the Cognitive and Brain Function of Breast Cancer Patients
+2938,TA,exclude,Not a US population-based/registry study,mushroom ovarian cancer Chinese,Mushroom intake and risk of epithelial ovarian cancer in Southern Chinese women
+2939,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",pleomorphic lobular male breast Japan case,Pleomorphic lobular carcinoma in a male breast: A case report with review of the literature
+2940,TA,exclude,Not relevant to the research question/topic,mammography cost-effectiveness review,Is mammography for breast cancer screening cost-effective in both western and asian countries?: Results of a systematic review
+2941,TA,exclude,Not relevant to the research question/topic,solid tumors kidney transplant children,Solid tumors following kidney transplantation in children
+2942,TA,exclude,Not relevant to the research question/topic,respiratory quotient BC WHI,An exploratory study of respiratory quotient calibration and association with postmenopausal breast cancer
+2943,TA,exclude,Not relevant to the research question/topic,plasma metabolomic BC by race subtype,Plasma metabolomic profiles in breast cancer patients and healthy controls: By race and tumor receptor subtypes
+2944,TA,exclude,Not relevant to the research question/topic,mastectomy flap necrosis expander fill,Synergistic interactions with a high intraoperative expander fill volume increase the risk for mastectomy flap necrosis
+2945,TA,exclude,Not relevant to the research question/topic,cancer mortality API NYC subgroups,"Cancer mortality among asians and pacific islanders in New York City, 2001-2010"
+2946,TA,exclude,Not relevant to the research question/topic,reduce CRC diet lifestyle review,Is it possible to reduce the incident of colorectal cancer by modifying diet and lifestyle?
+2947,TA,exclude,Not a US population-based/registry study,sleep disturbance cancer Taiwan,The risk of cancer among patients with sleep disturbance: A nationwide retrospective study in Taiwan
+2948,TA,exclude,Not relevant to the research question/topic,soy red clover BC systematic review,"Soy, red clover, and isoflavones and breast cancer: A systematic review"
+2949,TA,exclude,Not a US population-based/registry study,BCIS Chinese women multicenter,"A nation-wide multicenter retrospective study of the epidemiological, pathological and clinical characteristics of breast cancer in situ in Chinese women in 1999-2008"
+2950,TA,exclude,Not relevant to the research question/topic,sodium oxybate fibromyalgia extension,Long-term tolerability and maintenance of therapeutic response to sodium oxybate in an open-label extension study in patients with fibromyalgia
+2951,TA,exclude,Not relevant to the research question/topic,EMS sepsis antibiotics trial,A Prospective Randomized Controlled Trial to Investigate the Effects of Training Emergency Medical Services (EMS) Personnel in Recognizing and Initiating Treatment in the Prehospital Setting Together With Early Administration of Antibiotics for Patients Suspected of (Severe) Sepsis and Septic Shock
+2952,TA,exclude,Not a US population-based/registry study,SPM thyroid cancer Taiwan,Second primary malignancies following thyroid cancer: A population-based study in Taiwan
+2953,TA,exclude,Not relevant to the research question/topic,design recurrent terminal event trials,The Design of Intervention Trials Involving Recurrent and Terminal Events
+2954,TA,exclude,Not a US population-based/registry study,KoBCRAT Korean risk model,Korean Risk Assessment Model for Breast Cancer Risk Prediction
+2955,TA,exclude,Not relevant to the research question/topic,mammographic features mortality healthy,Beyond Breast Cancer: Mammographic Features and Mortality Risk in a Population of Healthy Women
+2956,TA,exclude,Not a US population-based/registry study,ethnic BC risk survival immigrants Sweden,Ethnic differences in breast cancer risk and survival: A study on immigrants in Sweden
+2957,TA,exclude,Not relevant to the research question/topic,passive smoking BC meta-analysis,Lack of an Association between Passive Smoking and Incidence of Female Breast Cancer in Non-Smokers: Evidence from 10 Prospective Cohort Studies
+2958,TA,exclude,Not relevant to the research question/topic,AACR cancer progress report 2013,AACR cancer progress report 2013
+2959,TA,exclude,Not a US population-based/registry study,younger onset Asia APC IARC CI5,Addressing the younger age at onset in breast cancer patients in asia: An age-period-cohort analysis of fifty years of quality data from the international agency for research on cancer

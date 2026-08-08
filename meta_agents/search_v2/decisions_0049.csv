@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2900,exclude,Not a US population-based/registry study,mammography uptake Singapore trial
+2901,exclude,Not relevant to the research question/topic,exergaming biomarkers Black women trial
+2902,exclude,Not a US population-based/registry study,cancer mortality country of birth Sweden
+2903,exclude,Not relevant to the research question/topic,alcohol BC Multiethnic Cohort
+2904,exclude,Not a US population-based/registry study,premature ovarian failure Chinese
+2905,exclude,Not a US population-based/registry study,NHL survivors second cancers Nordic
+2906,exclude,Not relevant to the research question/topic,cancer mortality burden 1985-2005 SEER
+2907,exclude,Not a US population-based/registry study,avoidable mortality urbanization Taiwan
+2908,exclude,Not a US population-based/registry study,body fat doxorubicin PK Asian
+2909,exclude,Not relevant to the research question/topic,competing risks BC mortality estimation
+2910,exclude,Not a US population-based/registry study,extraesophageal malignancy Barrett Israel
+2911,exclude,Not a US population-based/registry study,CYP2D6 hot flashes Dutch TEAM
+2912,exclude,Not relevant to the research question/topic,undiagnosed diabetes cancer SEER-Medicare
+2913,exclude,Not relevant to the research question/topic,sorafenib chemo meta-analysis
+2914,exclude,Not relevant to the research question/topic,BC subtype distribution early-onset races
+2915,exclude,Not a US population-based/registry study,cancer incidence China 2010
+2916,exclude,Not a US population-based/registry study,BC screening practices Hong Kong
+2917,include,,Breast Cancer Statistics 2013 US incidence by race
+2918,exclude,Not relevant to the research question/topic,composite SES index registry confidentiality
+2919,exclude,Not relevant to the research question/topic,oral hypoglycemic cancer risk T2DM
+2920,exclude,Not relevant to the research question/topic,prostate screening BRCA IMPACT
+2921,exclude,Not relevant to the research question/topic,AET adherence modifiable factors
+2922,exclude,Not a US population-based/registry study,reconstruction tissue expanders Japan
+2923,exclude,Not relevant to the research question/topic,vitamin D solid tumor levels
+2924,exclude,Not relevant to the research question/topic,melanoma glioma risk SEER
+2925,exclude,Not relevant to the research question/topic,BCT DCIS tumor size
+2926,exclude,Not a US population-based/registry study,TCM moist desquamation case series
+2927,exclude,Not relevant to the research question/topic,AMH genes BC Caucasian AA
+2928,exclude,Not a US population-based/registry study,VTE Asian tamoxifen Taiwan
+2929,exclude,"Editorials, commentaries, letters, or conference abstracts",gastric signet ring bone marrow case
+2930,exclude,Not a US population-based/registry study,receptor BC Southern Africa
+2931,exclude,Not relevant to the research question/topic,CPM predictors reconstruction
+2932,exclude,Not a US population-based/registry study,risk assessment models Korean women
+2933,exclude,Not relevant to the research question/topic,dosimetry heart left breast IMRT
+2934,exclude,Not relevant to the research question/topic,Ras/MAPK TNBC targeting rationale
+2935,exclude,Not relevant to the research question/topic,local recurrence conservative surgery
+2936,exclude,Not relevant to the research question/topic,nutritional status body composition PK
+2937,exclude,Not relevant to the research question/topic,cognitive brain function adjuvant trial
+2938,exclude,Not a US population-based/registry study,mushroom ovarian cancer Chinese
+2939,exclude,"Editorials, commentaries, letters, or conference abstracts",pleomorphic lobular male breast Japan case
+2940,exclude,Not relevant to the research question/topic,mammography cost-effectiveness review
+2941,exclude,Not relevant to the research question/topic,solid tumors kidney transplant children
+2942,exclude,Not relevant to the research question/topic,respiratory quotient BC WHI
+2943,exclude,Not relevant to the research question/topic,plasma metabolomic BC by race subtype
+2944,exclude,Not relevant to the research question/topic,mastectomy flap necrosis expander fill
+2945,exclude,Not relevant to the research question/topic,cancer mortality API NYC subgroups
+2946,exclude,Not relevant to the research question/topic,reduce CRC diet lifestyle review
+2947,exclude,Not a US population-based/registry study,sleep disturbance cancer Taiwan
+2948,exclude,Not relevant to the research question/topic,soy red clover BC systematic review
+2949,exclude,Not a US population-based/registry study,BCIS Chinese women multicenter
+2950,exclude,Not relevant to the research question/topic,sodium oxybate fibromyalgia extension
+2951,exclude,Not relevant to the research question/topic,EMS sepsis antibiotics trial
+2952,exclude,Not a US population-based/registry study,SPM thyroid cancer Taiwan
+2953,exclude,Not relevant to the research question/topic,design recurrent terminal event trials
+2954,exclude,Not a US population-based/registry study,KoBCRAT Korean risk model
+2955,exclude,Not relevant to the research question/topic,mammographic features mortality healthy
+2956,exclude,Not a US population-based/registry study,ethnic BC risk survival immigrants Sweden
+2957,exclude,Not relevant to the research question/topic,passive smoking BC meta-analysis
+2958,exclude,Not relevant to the research question/topic,AACR cancer progress report 2013
+2959,exclude,Not a US population-based/registry study,younger onset Asia APC IARC CI5
