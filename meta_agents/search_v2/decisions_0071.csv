@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4180,exclude,Not relevant to the research question/topic,BCS trends AAPI SEER treatment
+4181,exclude,Not a US population-based/registry study,BC Central South America
+4182,exclude,Not relevant to the research question/topic,TNBC AA women health disparities review
+4183,exclude,Not a US population-based/registry study,disease history comorbidity Japan Nurses
+4184,exclude,Not relevant to the research question/topic,reproductive uterine leiomyomata AA BWHS
+4185,exclude,Not relevant to the research question/topic,cancer epidemiology Hispanic populations review
+4186,exclude,Not relevant to the research question/topic,family history genetic testing BC inequities
+4187,exclude,Not a US population-based/registry study,sleep cancer Chinese adults
+4188,exclude,"Editorials, commentaries, letters, or conference abstracts",measuring cancer indigenous populations editorial
+4189,exclude,Not a US population-based/registry study,ER PR status BC Kashmir
+4190,exclude,Not a US population-based/registry study,cancer incidence family income Korea
+4191,exclude,Not relevant to the research question/topic,Black heterogeneity cancer mortality Florida
+4192,exclude,Not relevant to the research question/topic,gendered interpretations BC migrant review
+4193,exclude,Not relevant to the research question/topic,Black feminist thought BC disparities
+4194,exclude,Not a US population-based/registry study,Cancer Statistics China 2015
+4195,exclude,Not relevant to the research question/topic,community recruitment South Asian BC NJ
+4196,exclude,Not a US population-based/registry study,cancer incidence First Nations Manitoba
+4197,exclude,Not relevant to the research question/topic,race not factor survival TNBC
+4198,exclude,Not a US population-based/registry study,mammography screening Taiwan
+4199,exclude,Not a US population-based/registry study,haplotypes cancer driver genes Brazil
+4200,exclude,Not relevant to the research question/topic,atypical femoral fractures BC bisphosphonate
+4201,exclude,Not relevant to the research question/topic,epidemiology ovarian cancer BRCA
+4202,exclude,Not relevant to the research question/topic,SPM gastric cancer SEER
+4203,exclude,Not a US population-based/registry study,cost of illness cancer Japan
+4204,exclude,Not relevant to the research question/topic,cancer mortality diabetes US
+4205,exclude,Not relevant to the research question/topic,prostate cancer susceptibility genes
+4206,exclude,Not relevant to the research question/topic,neighborhood RCC mortality
+4207,exclude,Not relevant to the research question/topic,HRT BC heterogeneous risks race BCSC
+4208,exclude,Not relevant to the research question/topic,screening mammography outcomes white Chinese Filipino
+4209,exclude,Not relevant to the research question/topic,oncologic anthropology African ancestry TNBC
+4210,exclude,Not relevant to the research question/topic,endocrine therapy nonadherence Black White
+4211,exclude,Not relevant to the research question/topic,ethnic disparities immune microenvironment TNBC review
+4212,exclude,Not a US population-based/registry study,prostate cancer Southern Africa
+4213,include,,Cancer Statistics Hispanics/Latinos 2012
+4214,exclude,Not relevant to the research question/topic,cancer disparities Polynesian populations review
+4215,exclude,Not relevant to the research question/topic,metabolites AA EA bladder cancer
+4216,include,,Annual Report to Nation 1975-2008 excess weight
+4217,exclude,Not a US population-based/registry study,prediagnosis BMI SPC male Korea
+4218,exclude,"Editorials, commentaries, letters, or conference abstracts",divergent BC trends NM AI Hispanic NHW abstract
+4219,exclude,Not relevant to the research question/topic,navigating BC young adults review
+4220,exclude,Not relevant to the research question/topic,community economic distress BC CRC counties
+4221,exclude,Not a US population-based/registry study,cancer mortality/incidence UVB China
+4222,exclude,Not relevant to the research question/topic,population differences BC severity review
+4223,exclude,Not relevant to the research question/topic,anthropometric Fuchs corneal dystrophy WHI
+4224,exclude,Not relevant to the research question/topic,metastatic BC survival regional disparity SEER
+4225,exclude,Not relevant to the research question/topic,acculturation PA Chinese American survivors
+4226,exclude,Not relevant to the research question/topic,BC Filipino migrants review institutional
+4227,exclude,Not relevant to the research question/topic,ethnic differences cutaneous melanoma SEER
+4228,exclude,Not a US population-based/registry study,soy foods BC Japan JACC
+4229,exclude,Not relevant to the research question/topic,cancer mortality Black US 1999-2019
+4230,exclude,Not relevant to the research question/topic,ovarian cancer survival race DoD
+4231,exclude,Not relevant to the research question/topic,racial differences cancer susceptibility survival review
+4232,exclude,Not relevant to the research question/topic,surgery indigenous cancer systematic review
+4233,exclude,Not relevant to the research question/topic,idiopathic granulomatous mastitis benign
+4234,exclude,Not relevant to the research question/topic,Vital Signs BC screening 50-74 MMWR reprint
+4235,exclude,Not relevant to the research question/topic,improving validity underserved methodology
+4236,exclude,Not a US population-based/registry study,phyto-oestrogen South Asian British
+4237,exclude,Not relevant to the research question/topic,BC ethnicity environment review
+4238,exclude,Not a US population-based/registry study,BC risk factors Geneva Shanghai
+4239,exclude,Not relevant to the research question/topic,involving American Indians cancer trials
