@@ -739,3 +739,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 737,TA,exclude,Not relevant to the research question/topic,geographic/cohort incidence not race,Geography of breast cancer incidence according to age & birth cohorts
 738,TA,exclude,Not relevant to the research question/topic,HER2+ characteristics/treatment NCDB,"Characteristics and treatment of human epidermal growth factor receptor 2 positive breast cancer: 43,485 cases from the National Cancer Database treated in 2010 and 2011"
 739,TA,exclude,Not relevant to the research question/topic,miRNA/tRF genomics TNBC,Race Disparities in the Contribution of miRNA Isoforms and tRNA-Derived Fragments  to Triple-Negative Breast Cancer
+740,TA,exclude,Not relevant to the research question/topic,NBCCEDP screening Iowa,Early indicators of the effect of a breast cancer screening program for  low-income women
+741,TA,exclude,Not relevant to the research question/topic,GIS distant-stage NJ,Use of a geographic information system to identify and characterize areas with  high proportions of distant stage breast cancer
+742,TA,exclude,Not relevant to the research question/topic,hospital-volume mortality NCDB,Low Hospital Volume Is Associated with Higher All-Cause Mortality in Black Women with Triple Negative Breast Cancer
+743,TA,exclude,Not relevant to the research question/topic,mucinous BC nomogram survival,Nomogram for predicting outcomes in elderly women with mucinous breast cancer: A retrospective study combined with external validation in southwest China
+744,TA,exclude,Not relevant to the research question/topic,IBC death nomogram,Nomograms for Estimating Cause-Specific Death Rates of Patients With Inflammatory Breast Cancer: A Competing-Risks Analysis
+745,TA,exclude,Not relevant to the research question/topic,screening impact incidence/mortality not race,Assessing the impact of screening mammography: Breast cancer incidence and mortality rates in Connecticut (1943-2002)
+746,TA,exclude,Not relevant to the research question/topic,PCP/SES spatio-temporal,Influence of primary care physician availability and socioeconomic deprivation on breast cancer from 1988 to 2008: A spatio-temporal analysis
+747,TA,exclude,Not relevant to the research question/topic,discrimination mammography behavior,"Perceived everyday discrimination, socioeconomic status, and mammography behavior"
+748,TA,exclude,Not relevant to the research question/topic,neighborhood-disadvantage risk cohort Sister Study,Neighborhood Disadvantage and Breast Cancer among Women Living in the United States
+749,TA,exclude,Not relevant to the research question/topic,male lymph-node survival,Negative Lymph Node Count and Lymph Node Ratio Are Associated With Survival in Male Breast Cancer
+750,TA,exclude,Not relevant to the research question/topic,spatial clusters not race,Spatial Clusters of Breast Cancer Mortality and Incidence in the Contiguous USA: 2000–2014
+751,TA,include,,population-based inflammatory breast cancer incidence by demographics,Population-based statistics for women diagnosed with inflammatory breast cancer (United States)
+752,TA,exclude,Not a US population-based/registry study,global birth-cohort patterns,Birth Cohort Effects in Breast Cancer Incidence: Global Patterns and Trends
+753,TA,exclude,Not relevant to the research question/topic,Lexis smoothing methodology,Smoothing Lexis diagrams using kernel functions: A contemporary approach
+754,TA,include,,US-Affiliated Pacific Islands incidence vs US,Breast cancer incidence and stage at diagnosis in the six US-Affiliated Pacific  Islands
+755,TA,exclude,Not relevant to the research question/topic,COVID CoC-facility diagnosis impact,Rates of newly diagnosed breast cancer at commission on cancer facilities during the early phase of the COVID-19 pandemic
+756,TA,exclude,Not relevant to the research question/topic,SEER rurality methodology,"Providing higher resolution indicators of rurality in the Surveillance, Epidemiology, and End Results (SEER) database: Implications for patient privacy and research"
+757,TA,exclude,Not relevant to the research question/topic,Tennessee Appalachian geospatial not race,Assessing health disparities in breast cancer incidence burden in Tennessee: geospatial analysis
+758,TA,exclude,Not relevant to the research question/topic,Medicaid-expansion SVI not race,Medicaid expansion in California and breast cancer incidence across neighborhoods with varying social vulnerabilities
+759,TA,exclude,Not relevant to the research question/topic,AJCC staging validation survival,Validation of the 8th AJCC prognostic staging system for breast cancer in a population-based setting
+760,TA,exclude,Not relevant to the research question/topic,mammographic density biomarker,Ethnic differences in mammographic densities
+761,TA,exclude,Not relevant to the research question/topic,second primary lung cancer,Risk-based screening for second primary extrapulmonary malignancies in stage I lung cancer patients: A study based on SEER database
+762,TA,exclude,Not a US population-based/registry study,Shanghai/HK/LA comparison,"Historical Trends in Incidence of Breast Cancer in Shanghai, Hong Kong and Los Angeles, 1973-2012: A Joinpoint and Age-Period-Cohort Analysis"
+763,TA,exclude,Not relevant to the research question/topic,community screening intervention,A community-based collaborative approach to improve breast cancer screening in underserved African American women
+764,TA,exclude,Not relevant to the research question/topic,survivor mortality rural West Texas,Disparities in Breast Cancer Survivors in Rural West Texas
+765,TA,exclude,Not relevant to the research question/topic,endogenous hormone biomarker,Racial differences in premenopausal endogenous hormones
+766,TA,exclude,Not relevant to the research question/topic,industrial air-toxics risk MEC,Exposure to industrial air toxics and risk of breast cancer in California: The Multiethnic Cohort Study
+767,TA,exclude,Not relevant to the research question/topic,atrial fibrillation outcome,"Incidence, risk factors, and mortality of atrial fibrillation in breast cancer: a  SEER-Medicare analysis"
+768,TA,exclude,Not relevant to the research question/topic,pesticide risk CTS cohort,Residential proximity to agricultural pesticide use and incidence of breast cancer in the California Teachers Study cohort
+769,TA,exclude,Not relevant to the research question/topic,mammography intervention Chinese,Developing and evaluating an individually tailored intervention to increase mammography adherence among Chinese American Women
+770,TA,exclude,Not relevant to the research question/topic,NCI funding disparities,Disparities in National Cancer Institute and Nonprofit Organization Funding Disproportionately Affect Cancers With Higher Incidence Among Black Patients and Higher Mortality Rates
+771,TA,exclude,Not relevant to the research question/topic,lymphedema survivorship Pathways,Risk factors for lymphedema in a prospective breast cancer survivorship study: The pathways study
+772,TA,exclude,Not relevant to the research question/topic,mental-illness cohort SIR,Cancer incidence in a sample of Maryland residents with serious mental illness
+773,TA,exclude,Not relevant to the research question/topic,second primary colorectal,The incidence of second primary cancer in male and female patients with initial colorectal cancer: A SEER population-based study
+774,TA,exclude,Not relevant to the research question/topic,neuroendocrine carcinoma characterization/survival,"Invasive neuroendocrine carcinoma of the breast: A population-based study from the surveillance, epidemiology and end results (SEER) database"
+775,TA,exclude,Not relevant to the research question/topic,mammography Latinas relationships,Are health-care relationships important for mammography adherence in Latinas?
+776,TA,exclude,Not relevant to the research question/topic,ovarian-LMP second primary,Epithelial ovarian cancer and low malignant potential (LMP) tumors associated with a lower incidence of second primary breast cancer
+777,TA,exclude,Not a US population-based/registry study,French Polynesia incidence,Cancer incidence in French Polynesia 1985-95
+778,TA,exclude,Not relevant to the research question/topic,SES black-white narrative,Socioeconomic factors and breast cancer in black and white Americans
+779,TA,exclude,Not relevant to the research question/topic,male survival Florida,Disparities in Overall Survival for Male Breast Cancer Patients in the State of  Florida (1996-2007)
+780,TA,exclude,Not relevant to the research question/topic,BRCA mutation genetics,Racial differences in the incidence of BRCA1 and BRCA2 mutations in a cohort of early onset breast cancer patients: African American compared to white women
+781,TA,exclude,Not relevant to the research question/topic,young early-stage survival,Cancer-Specific Survival Outcome in Early-Stage Young Breast Cancer: Evidence From the SEER Database Analysis
+782,TA,exclude,Not relevant to the research question/topic,mammography maintenance predictors,Baseline predictors of initiation vs. maintenance of regular mammography use  among rural women
+783,TA,exclude,Not relevant to the research question/topic,mammographic density MEC,Mammographic density and breast cancer risk: the multiethnic cohort study
+784,TA,exclude,Not relevant to the research question/topic,hormone-related risk case-control Nashville,Associations of hormone-related factors with breast cancer risk according to hormone receptor status among white and African American women
+785,TA,exclude,Not relevant to the research question/topic,prostate after male BC,Descriptive characteristics of prostate cancer in patients with a history of primary male breast cancer - a SEER analysis
+786,TA,exclude,Not relevant to the research question/topic,lymphedema diagnosis/treatment,Diagnosis and treatment of lymphedema after breast cancer: A population-based study
+787,TA,exclude,Not relevant to the research question/topic,smoking survival,Smoking and survival in female breast cancer patients
+788,TA,include,,Annual Report incidence by race/ethnicity age 20-49,"Annual Report to the Nation on the Status of Cancer, Featuring Cancer in Men and Women Age 20–49 Years"
+789,TA,exclude,Not relevant to the research question/topic,Appalachian reconstruction,Appalachian Status Is a Negative Predictor of Breast Reconstruction Following  Breast Cancer Resection
+790,TA,exclude,Not relevant to the research question/topic,schizophrenia cohort incidence,Analysis of the incidence and outcomes of breast cancer in women with schizophrenia
+791,TA,exclude,Not relevant to the research question/topic,spindle cell carcinoma survival,Clinicopathological characteristics and survival outcomes in spindle cell carcinoma (SpCC) of the breast: A SEER population-based study
+792,TA,exclude,Not relevant to the research question/topic,IGF-1 genetics biomarker,Genetic factors related to racial variation in plasma levels of insulin-like growth factor-1: Implications for premenopausal breast cancer risk
+793,TA,exclude,Not relevant to the research question/topic,stigma/sleep survivorship,"The associations of self-stigma, social constraints, and sleep among Chinese American breast cancer survivors"
+794,TA,exclude,Not relevant to the research question/topic,neonatal outcomes pregnancy-associated,Neonatal outcomes of pregnancy-associated breast cancer: Population-based study on 11 million births
+795,TA,exclude,Not relevant to the research question/topic,social-class BMI risk cohort,The modifying effect of social class on the relationship between body mass index and breast cancer incidence.
+796,TA,exclude,Not relevant to the research question/topic,Army VOC occupational cohort,Risk of breast cancer among enlisted Army women occupationally exposed to  volatile organic compounds
+797,TA,exclude,Not relevant to the research question/topic,postoperative pain NIS,Incidence and risk factors of pain following breast cancer surgery: a  retrospective national inpatient sample database study
+798,TA,exclude,Not a US population-based/registry study,Asia multicountry HER2,"Human epidermal growth factor receptor 2 status of breast cancer patients in Asia: Results from a large, multicountry study"
+799,TA,exclude,Not relevant to the research question/topic,occupation risk Wisconsin cohort,Higher-status occupations and breast cancer: A life-course stress approach

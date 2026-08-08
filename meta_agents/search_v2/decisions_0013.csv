@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+740,exclude,Not relevant to the research question/topic,NBCCEDP screening Iowa
+741,exclude,Not relevant to the research question/topic,GIS distant-stage NJ
+742,exclude,Not relevant to the research question/topic,hospital-volume mortality NCDB
+743,exclude,Not relevant to the research question/topic,mucinous BC nomogram survival
+744,exclude,Not relevant to the research question/topic,IBC death nomogram
+745,exclude,Not relevant to the research question/topic,screening impact incidence/mortality not race
+746,exclude,Not relevant to the research question/topic,PCP/SES spatio-temporal
+747,exclude,Not relevant to the research question/topic,discrimination mammography behavior
+748,exclude,Not relevant to the research question/topic,neighborhood-disadvantage risk cohort Sister Study
+749,exclude,Not relevant to the research question/topic,male lymph-node survival
+750,exclude,Not relevant to the research question/topic,spatial clusters not race
+751,include,,population-based inflammatory breast cancer incidence by demographics
+752,exclude,Not a US population-based/registry study,global birth-cohort patterns
+753,exclude,Not relevant to the research question/topic,Lexis smoothing methodology
+754,include,,US-Affiliated Pacific Islands incidence vs US
+755,exclude,Not relevant to the research question/topic,COVID CoC-facility diagnosis impact
+756,exclude,Not relevant to the research question/topic,SEER rurality methodology
+757,exclude,Not relevant to the research question/topic,Tennessee Appalachian geospatial not race
+758,exclude,Not relevant to the research question/topic,Medicaid-expansion SVI not race
+759,exclude,Not relevant to the research question/topic,AJCC staging validation survival
+760,exclude,Not relevant to the research question/topic,mammographic density biomarker
+761,exclude,Not relevant to the research question/topic,second primary lung cancer
+762,exclude,Not a US population-based/registry study,Shanghai/HK/LA comparison
+763,exclude,Not relevant to the research question/topic,community screening intervention
+764,exclude,Not relevant to the research question/topic,survivor mortality rural West Texas
+765,exclude,Not relevant to the research question/topic,endogenous hormone biomarker
+766,exclude,Not relevant to the research question/topic,industrial air-toxics risk MEC
+767,exclude,Not relevant to the research question/topic,atrial fibrillation outcome
+768,exclude,Not relevant to the research question/topic,pesticide risk CTS cohort
+769,exclude,Not relevant to the research question/topic,mammography intervention Chinese
+770,exclude,Not relevant to the research question/topic,NCI funding disparities
+771,exclude,Not relevant to the research question/topic,lymphedema survivorship Pathways
+772,exclude,Not relevant to the research question/topic,mental-illness cohort SIR
+773,exclude,Not relevant to the research question/topic,second primary colorectal
+774,exclude,Not relevant to the research question/topic,neuroendocrine carcinoma characterization/survival
+775,exclude,Not relevant to the research question/topic,mammography Latinas relationships
+776,exclude,Not relevant to the research question/topic,ovarian-LMP second primary
+777,exclude,Not a US population-based/registry study,French Polynesia incidence
+778,exclude,Not relevant to the research question/topic,SES black-white narrative
+779,exclude,Not relevant to the research question/topic,male survival Florida
+780,exclude,Not relevant to the research question/topic,BRCA mutation genetics
+781,exclude,Not relevant to the research question/topic,young early-stage survival
+782,exclude,Not relevant to the research question/topic,mammography maintenance predictors
+783,exclude,Not relevant to the research question/topic,mammographic density MEC
+784,exclude,Not relevant to the research question/topic,hormone-related risk case-control Nashville
+785,exclude,Not relevant to the research question/topic,prostate after male BC
+786,exclude,Not relevant to the research question/topic,lymphedema diagnosis/treatment
+787,exclude,Not relevant to the research question/topic,smoking survival
+788,include,,Annual Report incidence by race/ethnicity age 20-49
+789,exclude,Not relevant to the research question/topic,Appalachian reconstruction
+790,exclude,Not relevant to the research question/topic,schizophrenia cohort incidence
+791,exclude,Not relevant to the research question/topic,spindle cell carcinoma survival
+792,exclude,Not relevant to the research question/topic,IGF-1 genetics biomarker
+793,exclude,Not relevant to the research question/topic,stigma/sleep survivorship
+794,exclude,Not relevant to the research question/topic,neonatal outcomes pregnancy-associated
+795,exclude,Not relevant to the research question/topic,social-class BMI risk cohort
+796,exclude,Not relevant to the research question/topic,Army VOC occupational cohort
+797,exclude,Not relevant to the research question/topic,postoperative pain NIS
+798,exclude,Not a US population-based/registry study,Asia multicountry HER2
+799,exclude,Not relevant to the research question/topic,occupation risk Wisconsin cohort
