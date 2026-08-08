@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1940,exclude,Not relevant to the research question/topic,BC screening COVID universally insured US
+1941,exclude,Not relevant to the research question/topic,racial disparities BC treatment SEER-Medicare
+1942,exclude,Not relevant to the research question/topic,intestinal organoids drug metabolism
+1943,exclude,Not relevant to the research question/topic,publication gap gyn cancers
+1944,exclude,Not relevant to the research question/topic,SVI cancer mortality counties
+1945,exclude,Not relevant to the research question/topic,ORC MetS NHANES prevalence
+1946,exclude,Not relevant to the research question/topic,GAN mammogram artifacts
+1947,exclude,Not relevant to the research question/topic,delay screenable cancer COVID NCDB
+1948,exclude,Not a US population-based/registry study,BC clinical features China
+1949,exclude,Not relevant to the research question/topic,IMPC nomogram SEER
+1950,exclude,Not relevant to the research question/topic,E7130 phase 1 Japan trial
+1951,exclude,Not relevant to the research question/topic,alopecia areata incidence rates US claims
+1952,exclude,Not a US population-based/registry study,cancer survival Iran IRANCANSURV
+1953,exclude,Not relevant to the research question/topic,ADH active surveillance
+1954,exclude,Not relevant to the research question/topic,parabens luminal BC cell lines
+1955,exclude,Not a US population-based/registry study,AF BC survivors Korea
+1956,exclude,Not relevant to the research question/topic,cancer screening military vs civilian BRFSS
+1957,exclude,Not relevant to the research question/topic,cancer/noncancer mortality survivors SEER
+1958,exclude,Not relevant to the research question/topic,CNN BC risk prediction BCSC
+1959,exclude,Not a US population-based/registry study,SSI BCRL Denmark
+1960,exclude,Not a US population-based/registry study,FN Asian Singapore
+1961,exclude,Not relevant to the research question/topic,obesity thyroid Sister Study
+1962,exclude,Not a US population-based/registry study,EWAS Scottish cohort
+1963,exclude,Not relevant to the research question/topic,alpelisib hyperglycemia
+1964,exclude,Not a US population-based/registry study,cancer mortality 47 countries
+1965,exclude,Not a US population-based/registry study,physical activity cancer Korea
+1966,exclude,Not relevant to the research question/topic,cancer mortality by race US 2018-2020
+1967,exclude,Not a US population-based/registry study,palbociclib myelosuppression Japan
+1968,exclude,Not a US population-based/registry study,cholesterol BC Japan
+1969,exclude,Not relevant to the research question/topic,cancer screening US territories
+1970,exclude,Not a US population-based/registry study,PRS Korean women
+1971,exclude,"Editorials, commentaries, letters, or conference abstracts",NIH women's health RFI conference paper
+1972,exclude,Not relevant to the research question/topic,hysterectomy/oophorectomy BC Sister Study
+1973,exclude,Not relevant to the research question/topic,accelerometer PA postmenopausal BC WHAC
+1974,exclude,Not a US population-based/registry study,RAGE T1DM Egyptian
+1975,exclude,Not relevant to the research question/topic,LEP pelvic floor decision-making
+1976,exclude,Not a US population-based/registry study,single-port mastectomy China
+1977,exclude,Not relevant to the research question/topic,neighborhood factors TNBC single-institution
+1978,exclude,Not a US population-based/registry study,Gail Asian Singapore
+1979,exclude,Not relevant to the research question/topic,Cancer Moonshot mortality US
+1980,exclude,Not relevant to the research question/topic,aging assessment pilot
+1981,exclude,Not a US population-based/registry study,KRAS Indonesia CRC
+1982,exclude,Not relevant to the research question/topic,HLA-DPB1 SSC transplant
+1983,exclude,Not a US population-based/registry study,axillary surgery Nigeria trial
+1984,exclude,Not a US population-based/registry study,surgical treatment Brazil
+1985,exclude,Not relevant to the research question/topic,Landmark Series AAPI disaggregation review
+1986,exclude,Not relevant to the research question/topic,stellate ganglion block trial
+1987,exclude,Not a US population-based/registry study,ginseng Shanghai women
+1988,exclude,Not a US population-based/registry study,urban-rural birth cohort BC Taiwan
+1989,exclude,Not relevant to the research question/topic,suicide after cancer surgery SEER
+1990,exclude,Not a US population-based/registry study,FHBC breast density Korea
+1991,exclude,Not relevant to the research question/topic,SDoH metastatic BC delivery trial
+1992,exclude,Not relevant to the research question/topic,race-related phyllodes tumor
+1993,exclude,Not relevant to the research question/topic,Hispanic knowledge/beliefs Indiana
+1994,exclude,Not relevant to the research question/topic,hyperglycemia glucocorticoids taxane
+1995,exclude,Not relevant to the research question/topic,chemo older TNBC SEER
+1996,exclude,Not relevant to the research question/topic,racial disparities mortality after SPC SEER
+1997,exclude,Not a US population-based/registry study,estrogen-DNA adducts Taiwan
+1998,exclude,Not relevant to the research question/topic,aggressive EOL care nursing homes SEER
+1999,exclude,Not relevant to the research question/topic,additional malignancies CLL
