@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+620,exclude,Not relevant to the research question/topic,GWAS SNP genetics
+621,exclude,Not relevant to the research question/topic,density risk-prediction model
+622,exclude,Not relevant to the research question/topic,bone-marrow-suppression late effects
+623,exclude,Not relevant to the research question/topic,Hmong screening
+624,exclude,Not relevant to the research question/topic,screening knowledge/compliance NHIS
+625,exclude,Not relevant to the research question/topic,body-fat/density biomarker MEC
+626,exclude,Not relevant to the research question/topic,all-cancer 85+ statistics not breast-by-race
+627,exclude,Not a US population-based/registry study,Phoenix IHS single-center chart review
+628,exclude,Not relevant to the research question/topic,early-stage outcome/survival
+629,exclude,Not relevant to the research question/topic,reproductive risk factors Marin survey
+630,exclude,Not relevant to the research question/topic,IGF-I dietary biomarker MEC
+631,exclude,Not a US population-based/registry study,Latin America review
+632,exclude,Not relevant to the research question/topic,CONCORD worldwide survival
+633,exclude,Not relevant to the research question/topic,prevention research agenda
+634,exclude,Not relevant to the research question/topic,fibroadenoma BBD risk
+635,exclude,Not relevant to the research question/topic,ethnic-mixture/BMI risk modifiers MEC
+636,exclude,Not relevant to the research question/topic,SLE risk factor Medicare
+637,exclude,Not relevant to the research question/topic,TNBC outcomes/survival single clinic
+638,exclude,Not a US population-based/registry study,Barbados risk factors
+639,exclude,Not relevant to the research question/topic,risk-prediction model BWHS
+640,exclude,Not a US population-based/registry study,UF single-institution tumor registry
+641,exclude,Not relevant to the research question/topic,density/mortality
+642,exclude,Not relevant to the research question/topic,pesticide mortality Mississippi
+643,exclude,Not relevant to the research question/topic,reconstruction disparities single institution
+644,exclude,Not relevant to the research question/topic,multiple-cancer prevalence survivorship
+645,exclude,Not relevant to the research question/topic,Native American screening recruitment
+646,exclude,Not relevant to the research question/topic,population-projection methodology
+647,exclude,Not relevant to the research question/topic,papilloma biopsies not incidence
+648,exclude,Not relevant to the research question/topic,research-participation qualitative
+649,exclude,Not relevant to the research question/topic,mental health survivors
+650,exclude,Not relevant to the research question/topic,DCIS treatment trends
+651,exclude,Not relevant to the research question/topic,focus-group perceptions qualitative
+652,exclude,Not relevant to the research question/topic,male-female epidemiology comparison
+653,exclude,Not relevant to the research question/topic,ctDNA genomics/treatment metastatic
+654,exclude,Not relevant to the research question/topic,obesity risk single-clinic cohort
+655,exclude,Not relevant to the research question/topic,second primary cancers survivors
+656,exclude,Not relevant to the research question/topic,Marin affluent-county trends not race
+657,exclude,Not relevant to the research question/topic,competing-risk death elderly
+658,exclude,Not relevant to the research question/topic,cancer-literacy tool
+659,exclude,Not relevant to the research question/topic,education mortality
+660,exclude,Not relevant to the research question/topic,body-size risk cohort BWHS
+661,exclude,Not relevant to the research question/topic,time-to-second-primary
+662,exclude,Not relevant to the research question/topic,hormone-therapy incidence regional not race
+663,exclude,Not relevant to the research question/topic,basal-like metastasis prognosis single institution
+664,exclude,Not relevant to the research question/topic,ER-status incidence not by race
+665,exclude,Not relevant to the research question/topic,Marin ER-positive excess NHW
+666,exclude,Not relevant to the research question/topic,sex-hormone weight-loss biomarker
+667,exclude,Not relevant to the research question/topic,trastuzumab hypertension treatment
+668,exclude,Not relevant to the research question/topic,race HR+ trial outcomes/survival
+669,exclude,Not a US population-based/registry study,China age-at-diagnosis comparison
+670,exclude,Not relevant to the research question/topic,AIAN biomarkers biorepository
+671,exclude,Not relevant to the research question/topic,Marin hormone-therapy incidence not race
+672,exclude,Not relevant to the research question/topic,HIV malignancy single center
+673,exclude,Not relevant to the research question/topic,thromboembolic events outcome
+674,exclude,Not relevant to the research question/topic,Connecticut ALAN ecological
+675,exclude,Not relevant to the research question/topic,mammographic density Japan/Hawaii
+676,exclude,Not relevant to the research question/topic,mutagen-sensitivity biomarker
+677,exclude,Not relevant to the research question/topic,neighborhood indices late-stage prediction
+678,exclude,Not relevant to the research question/topic,Vietnamese navigator abnormal mammograms
+679,exclude,Not relevant to the research question/topic,HER2 cardiotoxicity treatment

@@ -619,3 +619,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 617,TA,include,,Annual Report AI/AN incidence feature 1975-2004,"Annual report to the nation on the status of cancer, 1975-2004, featuring cancer  in American Indians and Alaska Natives"
 618,TA,exclude,Not relevant to the research question/topic,land-use zoning ecological,"Land use, zoning, and breast cancer incidence in California: an ecological study"
 619,TA,exclude,Not relevant to the research question/topic,physical-activity risk cohort,Strenuous physical activity and breast cancer risk in African-American women.
+620,TA,exclude,Not relevant to the research question/topic,GWAS SNP genetics,Genetic susceptibility loci for subtypes of breast cancer in an African American  population
+621,TA,exclude,Not relevant to the research question/topic,density risk-prediction model,Using clinical factors and mammographic breast density to estimate breast cancer risk: Development and validation of a new predictive model
+622,TA,exclude,Not relevant to the research question/topic,bone-marrow-suppression late effects,Disparities in the Occurrence of Long-Term Effects of Bone Marrow Suppression after Treatment in Adolescent Young Adult Breast Cancer Survivors
+623,TA,exclude,Not relevant to the research question/topic,Hmong screening,"Cancer screening, reproductive history, socioeconomic status, and anticipated  cancer-related behavior among Hmong adults"
+624,TA,exclude,Not relevant to the research question/topic,screening knowledge/compliance NHIS,"Racial differences in breast cancer screening, knowledge and compliance"
+625,TA,exclude,Not relevant to the research question/topic,body-fat/density biomarker MEC,Association of imaging-based body fat distribution and mammographic density in the multiethnic cohort adiposity phenotype study
+626,TA,exclude,Not relevant to the research question/topic,all-cancer 85+ statistics not breast-by-race,"Cancer statistics for adults aged 85 years and older, 2019"
+627,TA,exclude,Not a US population-based/registry study,Phoenix IHS single-center chart review,Breast cancer in Native American women treated at an urban-based indian health referral center 1982-2003
+628,TA,exclude,Not relevant to the research question/topic,early-stage outcome/survival,"Outcome of African-American compared to White-American patients with early-stage breast cancer, stratified by phenotype"
+629,TA,exclude,Not relevant to the research question/topic,reproductive risk factors Marin survey,"Differences in reproductive risk factors for breast cancer in middle-aged women in Marin County, California and a sociodemographically similar area of Northern California"
+630,TA,exclude,Not relevant to the research question/topic,IGF-I dietary biomarker MEC,Dietary and lifestyle correlates of plasma insulin-like growth factor-I (IGF-I) and IGF binding protein-3 (IGFBP-3): The Multiethnic Cohort
+631,TA,exclude,Not a US population-based/registry study,Latin America review,"Breast cancer in Latin America: global burden, patterns, and risk factors"
+632,TA,exclude,Not relevant to the research question/topic,CONCORD worldwide survival,Cancer survival in five continents: a worldwide population-based study (CONCORD)
+633,TA,exclude,Not relevant to the research question/topic,prevention research agenda,California Breast Cancer Prevention Initiatives: Setting a research agenda for prevention
+634,TA,exclude,Not relevant to the research question/topic,fibroadenoma BBD risk,Breast fibroadenomas are not associated with increased breast cancer risk in an African American contemporary cohort of women with benign breast disease
+635,TA,exclude,Not relevant to the research question/topic,ethnic-mixture/BMI risk modifiers MEC,Ethnic Mixture and Body Mass Index as Modifiers of Breast Cancer Risk among Native Hawaiian Women: Insights from the Multiethnic Cohort
+636,TA,exclude,Not relevant to the research question/topic,SLE risk factor Medicare,Comparison of breast cancer risk in women with and without systemic lupus erythematosus in a Medicare population
+637,TA,exclude,Not relevant to the research question/topic,TNBC outcomes/survival single clinic,Racial differences in outcomes of triple-negative breast cancer
+638,TA,exclude,Not a US population-based/registry study,Barbados risk factors,Risk factors for breast cancer in a black population-the barbados national cancer study
+639,TA,exclude,Not relevant to the research question/topic,risk-prediction model BWHS,Prospective approach to breast cancer risk prediction in African American women:  the black women's health study model
+640,TA,exclude,Not a US population-based/registry study,UF single-institution tumor registry,"Breast cancer and racial disparity between Caucasian and African American women,  part 1 (BRCA-1)"
+641,TA,exclude,Not relevant to the research question/topic,density/mortality,The association of breast density with breast cancer mortality in African American and white women screened in community practice
+642,TA,exclude,Not relevant to the research question/topic,pesticide mortality Mississippi,Association of pesticide exposure and risk of breast cancer mortality in Mississippi
+643,TA,exclude,Not relevant to the research question/topic,reconstruction disparities single institution,Evaluating Disparities in Pathways to Breast Reconstruction
+644,TA,exclude,Not relevant to the research question/topic,multiple-cancer prevalence survivorship,Multiple cancer prevalence: A growing challenge in long-term survivorship
+645,TA,exclude,Not relevant to the research question/topic,Native American screening recruitment,Native American recruitment into breast cancer screening: The NAWWA project
+646,TA,exclude,Not relevant to the research question/topic,population-projection methodology,Impact of intercensal population projections and error of closure on breast cancer surveillance: Examples from 10 California counties
+647,TA,exclude,Not relevant to the research question/topic,papilloma biopsies not incidence,Breast papillomas in the United States: single institution data on  underrepresented minorities with a multi-institutional update on incidence
+648,TA,exclude,Not relevant to the research question/topic,research-participation qualitative,Beyond Tuskegee: A contemporary qualitative assessment of barriers to research participation among Black women
+649,TA,exclude,Not relevant to the research question/topic,mental health survivors,Disparities in mental health between rural and nonrural cancer survivors: A preliminary study
+650,TA,exclude,Not relevant to the research question/topic,DCIS treatment trends,Trends in the treatment of ductal carcinoma in situ of the breast
+651,TA,exclude,Not relevant to the research question/topic,focus-group perceptions qualitative,"“For lack of knowledge, our people will perish”: Using focus group methodology to explore African-American communities’ perceptions of breast cancer and the environment"
+652,TA,exclude,Not relevant to the research question/topic,male-female epidemiology comparison,"Comparative epidemiology of breast cancer among men and women in the US, 1996 to 2000"
+653,TA,exclude,Not relevant to the research question/topic,ctDNA genomics/treatment metastatic,"Racial Differences in ctDNA Profiles, Targeted Therapy Use, and Outcomes in Metastatic Breast Cancer"
+654,TA,exclude,Not relevant to the research question/topic,obesity risk single-clinic cohort,Obesity and Early-Onset Breast Cancer and Specific Molecular Subtype Diagnosis in Black and White Women: NIMHD Social Epigenomics Program
+655,TA,exclude,Not relevant to the research question/topic,second primary cancers survivors,"Second primary breast, endometrial, and ovarian cancers in Black and White breast cancer survivors over a 35-year time span: Effect of age"
+656,TA,exclude,Not relevant to the research question/topic,Marin affluent-county trends not race,"Breast cancer incidence and mortality trends in an affluent population: Marin County, California, USA, 1990-1999"
+657,TA,exclude,Not relevant to the research question/topic,competing-risk death elderly,Competing Risk of Death in Elderly Patients with Newly Diagnosed Stage I Breast Cancer
+658,TA,exclude,Not relevant to the research question/topic,cancer-literacy tool,Working with African American women to develop a cancer literacy assessment tool
+659,TA,exclude,Not relevant to the research question/topic,education mortality,Is education associated with mortality for breast cancer and cardiovascular disease among black and white women?
+660,TA,exclude,Not relevant to the research question/topic,body-size risk cohort BWHS,A prospective study of body size and breast cancer in black women
+661,TA,exclude,Not relevant to the research question/topic,time-to-second-primary,"Trends and age, sex, and race disparities in time to second primary cancer from 1990 to 2019"
+662,TA,exclude,Not relevant to the research question/topic,hormone-therapy incidence regional not race,Regional changes in hormone therapy use and breast cancer incidence in California from 2001 to 2004
+663,TA,exclude,Not relevant to the research question/topic,basal-like metastasis prognosis single institution,"Basal cell-like (triple-negative) breast cancer, a predictor of distant  metastasis in African American women"
+664,TA,exclude,Not relevant to the research question/topic,ER-status incidence not by race,"Trends in breast cancer incidence by estrogen receptor status in the United States, 2004–2020"
+665,TA,exclude,Not relevant to the research question/topic,Marin ER-positive excess NHW,Geographic Excess of Estrogen Receptor-Positive Breast Cancer
+666,TA,exclude,Not relevant to the research question/topic,sex-hormone weight-loss biomarker,Sex hormone changes during weight loss and maintenance in overweight and obese postmenopausal African-American and non-African-American women
+667,TA,exclude,Not relevant to the research question/topic,trastuzumab hypertension treatment,Trastuzumab therapy and new-onset hypertension in adolescents and young adults with breast cancer
+668,TA,exclude,Not relevant to the research question/topic,race HR+ trial outcomes/survival,Race and hormone receptor-positive breast cancer outcomes in a randomized chemotherapy trial
+669,TA,exclude,Not a US population-based/registry study,China age-at-diagnosis comparison,Age of diagnosis of breast cancer in china: almost 10 years earlier than in the United States and the European union
+670,TA,exclude,Not relevant to the research question/topic,AIAN biomarkers biorepository,Regional differences in breast cancer biomarkers in american indian and alaska native women
+671,TA,exclude,Not relevant to the research question/topic,Marin hormone-therapy incidence not race,"Recent trends in hormone therapy utilization and breast cancer incidence rates in the high incidence population of Marin County, California."
+672,TA,exclude,Not relevant to the research question/topic,HIV malignancy single center,Malignancy Trends in HIV-Infected Patients Over the Past 10 Years in a Single-Center Retrospective Observational Study in the United States
+673,TA,exclude,Not relevant to the research question/topic,thromboembolic events outcome,Risk factors and incidence of thromboembolic events (TEEs) in older men and women with breast cancer
+674,TA,exclude,Not relevant to the research question/topic,Connecticut ALAN ecological,Kernel density analysis reveals a halo pattern of breast cancer incidence in Connecticut
+675,TA,exclude,Not relevant to the research question/topic,mammographic density Japan/Hawaii,Comparison of mammographic densities and their determinants in women from Japan and Hawaii
+676,TA,exclude,Not relevant to the research question/topic,mutagen-sensitivity biomarker,gamma-Radiation-induced chromosomal mutagen sensitivity is associated with breast  cancer risk in African-American women: caffeine modulates the outcome of mutagen sensitivity assay
+677,TA,exclude,Not relevant to the research question/topic,neighborhood indices late-stage prediction,"Comparing Neighborhood Indices of Socioeconomic Status, Segregation, and Healthcare Access for Predicting Late-Stage Breast Cancer"
+678,TA,exclude,Not relevant to the research question/topic,Vietnamese navigator abnormal mammograms,Assessing the Impact of a Patient Navigator Intervention Program for Vietnamese-American Women with Abnormal Mammograms
+679,TA,exclude,Not relevant to the research question/topic,HER2 cardiotoxicity treatment,Racial disparities in the rate of cardiotoxicity of HER2-targeted therapies among women with early breast cancer
