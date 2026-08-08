@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2360,exclude,Not relevant to the research question/topic,urban vs rural outcomes SEER-Medicare
+2361,exclude,Not relevant to the research question/topic,intestinal prep colonoscopy trial
+2362,exclude,Not a US population-based/registry study,elderly BC China
+2363,exclude,Not a US population-based/registry study,miR-182 Iran
+2364,exclude,Not a US population-based/registry study,filgrastim Korea pilot
+2365,exclude,Not relevant to the research question/topic,AJCC LCSPM SEER staging
+2366,exclude,Not a US population-based/registry study,Lynch syndrome Chilean
+2367,exclude,Not a US population-based/registry study,incidence/mortality Volta Ghana
+2368,exclude,Not relevant to the research question/topic,radiation SPM BRCA carriers
+2369,exclude,Not relevant to the research question/topic,cancer mortality US blacks by birthplace
+2370,exclude,Not relevant to the research question/topic,juvenile phyllodes case
+2371,exclude,Not a US population-based/registry study,BC risk prediction Korea KCPS-II
+2372,exclude,Not a US population-based/registry study,BC incidence/survival Queensland Australia
+2373,exclude,Not relevant to the research question/topic,BRCA disclosure Black women
+2374,exclude,Not relevant to the research question/topic,vitamin D melanoma PLCO
+2375,exclude,Not relevant to the research question/topic,BC incidence younger SEER age-focused
+2376,exclude,Not relevant to the research question/topic,cause-specific mortality AYA
+2377,exclude,Not relevant to the research question/topic,PSMAxCD3 lung trial
+2378,exclude,Not a US population-based/registry study,BC transition model China
+2379,exclude,Not relevant to the research question/topic,African ancestry TNBC subtypes
+2380,exclude,Not relevant to the research question/topic,obesity methylation Black/White
+2381,exclude,Not relevant to the research question/topic,BOOP radiotherapy review
+2382,exclude,Not a US population-based/registry study,economic evaluation Asia
+2383,exclude,Not a US population-based/registry study,infection tumor incidence Japan
+2384,exclude,Not relevant to the research question/topic,cervical screening ED trial
+2385,exclude,Not relevant to the research question/topic,accelerometer PA cancer WHI OPACH
+2386,exclude,Not relevant to the research question/topic,fasting CRC trial
+2387,exclude,Not a US population-based/registry study,dietary acid Iran
+2388,exclude,Not a US population-based/registry study,disabilities BC Germany
+2389,exclude,Not a US population-based/registry study,BC screening disabilities South Korea
+2390,exclude,Not relevant to the research question/topic,age CVD BC chemo
+2391,exclude,Not a US population-based/registry study,alcohol flushing Japan JPHC
+2392,exclude,Not relevant to the research question/topic,bone metastases at diagnosis SEER
+2393,exclude,Not a US population-based/registry study,SCOPE Chinese women trial
+2394,exclude,Not a US population-based/registry study,BASIC survivorship Singapore
+2395,exclude,Not relevant to the research question/topic,nodal positivity age NCDB
+2396,exclude,Not relevant to the research question/topic,family history BC retrospective
+2397,exclude,Not relevant to the research question/topic,Adventist cohort cancer vs Census
+2398,exclude,Not a US population-based/registry study,cancer incidence occupation Korea
+2399,exclude,Not a US population-based/registry study,cancer attributable Peru feasibility
+2400,exclude,Not a US population-based/registry study,PEONY pertuzumab Asia trial
+2401,exclude,Not relevant to the research question/topic,NSCLC PET/CT radiomics
+2402,exclude,Not a US population-based/registry study,thelarche Bangladeshi/British
+2403,exclude,Not relevant to the research question/topic,primary prevention BC agenda commentary
+2404,exclude,Not a US population-based/registry study,cervical cancer worldwide 2018
+2405,exclude,Not relevant to the research question/topic,oral care everolimus trial
+2406,include,,Subtype-specific BC incidence black vs white men US
+2407,exclude,Not relevant to the research question/topic,Native Health Initiative NM screening trial
+2408,exclude,Not a US population-based/registry study,Nigeria cancer walk
+2409,exclude,Not a US population-based/registry study,reimbursement anticancer China
+2410,exclude,Not relevant to the research question/topic,bimodal age CBCS etiologic
+2411,exclude,Not relevant to the research question/topic,cancer mortality diabetes US
+2412,exclude,Not relevant to the research question/topic,trastuzumab cardiac trials pooled
+2413,include,,Cancer Statistics 2020 US incidence by race
+2414,exclude,Not a US population-based/registry study,translated mammography reminders Australia
+2415,exclude,Not a US population-based/registry study,Bayesian BC mortality Saudi
+2416,exclude,Not relevant to the research question/topic,IBC vs non-IBC metastatic SEER
+2417,exclude,Not relevant to the research question/topic,APOBEC3A/3B expression
+2418,exclude,Not relevant to the research question/topic,diet PA obesity cancer Black women WHI
+2419,exclude,Not a US population-based/registry study,miR-34a E2F survival tombstone
