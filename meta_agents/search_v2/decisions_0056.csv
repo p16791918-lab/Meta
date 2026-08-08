@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3300,exclude,Not relevant to the research question/topic,cancer incidence US Air Force SIR
+3301,exclude,Not relevant to the research question/topic,soya isoflavones COX-2 MCF-7
+3302,exclude,Not a US population-based/registry study,cancer incidence 0-34 Denmark
+3303,exclude,"Editorials, commentaries, letters, or conference abstracts",styrene BC Texas letter
+3304,exclude,Not relevant to the research question/topic,antibacterial prophylaxis SCT trial
+3305,exclude,Not a US population-based/registry study,CYP19 STRP Nigerian
+3306,exclude,Not relevant to the research question/topic,expanded BC registry New Mexico infrastructure
+3307,exclude,Not relevant to the research question/topic,physical activity BC ARIC
+3308,exclude,Not a US population-based/registry study,PIK3CA Singapore Chinese
+3309,exclude,Not a US population-based/registry study,hormonal body-size BC Taiwan
+3310,exclude,Not relevant to the research question/topic,vitamin D UVB cancer survival black white
+3311,exclude,Not relevant to the research question/topic,flavonoids prostate cell lines
+3312,exclude,Not a US population-based/registry study,KAP BC Nigerian women
+3313,exclude,Not relevant to the research question/topic,geostatistical cancer mortality kriging
+3314,exclude,Not relevant to the research question/topic,low-fat diet BC WHI trial
+3315,exclude,Not a US population-based/registry study,Korean BC clinical characteristics 15yr
+3316,exclude,Not relevant to the research question/topic,novel genetic risk BC young women
+3317,exclude,Not a US population-based/registry study,BRCA Chilean families
+3318,exclude,Not a US population-based/registry study,heterocyclic amines Chinese Singapore
+3319,exclude,Not relevant to the research question/topic,DHEA telomeres anti-aging
+3320,exclude,Not a US population-based/registry study,prognostic factors Indian women BCT
+3321,exclude,"Editorials, commentaries, letters, or conference abstracts",sepsis epidemiology race sex conference
+3322,include,,Cancer incidence South Asian population California 1988-2000
+3323,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity BC incidence outcome letters
+3324,exclude,Not relevant to the research question/topic,TOR inhibitors malignancy transplant
+3325,exclude,Not relevant to the research question/topic,patient assistance BC disparities trial
+3326,exclude,Not relevant to the research question/topic,alemtuzumab kidney transplant
+3327,exclude,Not a US population-based/registry study,alcohol BC Japanese cohort
+3328,exclude,Not a US population-based/registry study,RT HCC phase II Taiwan
+3329,exclude,Not a US population-based/registry study,international BC mortality fat intake
+3330,exclude,Not relevant to the research question/topic,antioxidants hormonal cancer prevention
+3331,exclude,Not relevant to the research question/topic,TS polymorphisms 5FU colon
+3332,exclude,Not relevant to the research question/topic,TS polymorphisms capecitabine colon
+3333,exclude,Not a US population-based/registry study,occupational class cancer French GAZEL
+3334,exclude,Not relevant to the research question/topic,fluticasone COPD trial
+3335,exclude,Not a US population-based/registry study,male BC incidence atomic bomb
+3336,exclude,Not relevant to the research question/topic,breast health weight loss Black women trial
+3337,exclude,Not relevant to the research question/topic,atrazine California risk assessment
+3338,exclude,Not relevant to the research question/topic,pilocarpine mucositis trial
+3339,exclude,Not relevant to the research question/topic,cancer incidence AYA US age patterns
+3340,exclude,Not a US population-based/registry study,BC epidemiology Maori New Zealand
+3341,exclude,Not a US population-based/registry study,BC Maori New Zealand ethnicity methods
+3342,exclude,Not a US population-based/registry study,obesity cancer Japan
+3343,exclude,Not relevant to the research question/topic,breast cancer race rising tide review
+3344,exclude,Not relevant to the research question/topic,brown kelp endocrine rats
+3345,include,,Cancer Statistics 2005 US incidence by race
+3346,exclude,Not relevant to the research question/topic,predictive model hormone-responsive BC
+3347,exclude,"Editorials, commentaries, letters, or conference abstracts",mammary cancer social interactions conference
+3348,exclude,Not a US population-based/registry study,post-op DVT Malaysia
+3349,exclude,Not relevant to the research question/topic,contralateral BC thromboembolic AA tamoxifen NSABP
+3350,exclude,Not a US population-based/registry study,perceptions BC Arab Israeli
+3351,exclude,Not relevant to the research question/topic,survival recurrence BRCA carriers
+3352,exclude,Not a US population-based/registry study,BRCA young Korean BC
+3353,exclude,Not relevant to the research question/topic,cancer in Jews overview
+3354,exclude,Not a US population-based/registry study,cancer indigenous Amazon Ecuador
+3355,exclude,Not a US population-based/registry study,HRT hormone-dependent cancers Norway
+3356,exclude,Not relevant to the research question/topic,accrual elderly minority ACOSOG trials
+3357,exclude,Not relevant to the research question/topic,reproductive factors BC white AA case-control
+3358,exclude,Not relevant to the research question/topic,near-infrared breast density risk
+3359,exclude,Not relevant to the research question/topic,genistein BC cells apoptosis

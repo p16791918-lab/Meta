@@ -3299,3 +3299,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3297,TA,exclude,Not relevant to the research question/topic,absolute BC risk model white density,Projecting absolute invasive breast cancer risk in white women with a model that includes mammographic density
 3298,TA,include,,Patterns cancer incidence US Hispanics/Latinos 1995-2000,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000"
 3299,TA,exclude,Not relevant to the research question/topic,neoplasms leukopenia 6-MP IBD,Incidence of Neoplasms in Patients Who Develop Sustained Leukopenia During or After Treatment With 6-Mercaptopurine for Inflammatory Bowel Disease
+3300,TA,exclude,Not relevant to the research question/topic,cancer incidence US Air Force SIR,Cancer incidence in the U.S. Air Force: 1989-2002
+3301,TA,exclude,Not relevant to the research question/topic,soya isoflavones COX-2 MCF-7,Soya isoflavones suppress phorbol 12-myristate 13-acetate-induced COX-2 expression in MCF-7 cells
+3302,TA,exclude,Not a US population-based/registry study,cancer incidence 0-34 Denmark,Cancer incidence in the age range 0-34 years: Historical and actual status in Denmark
+3303,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",styrene BC Texas letter,Styrene and breast cancer incidence in Texas: A comment on an ecological association [1]
+3304,TA,exclude,Not relevant to the research question/topic,antibacterial prophylaxis SCT trial,"Randomized, Double Blinded, Placebo-Controlled Trial of Antibacterial Prophylaxis for the Prevention of Bacterial Infections in the Post-Engraftment Phase After Allogeneic Hematopoeitic Stem Cell Transplantation"
+3305,TA,exclude,Not a US population-based/registry study,CYP19 STRP Nigerian,Simple tandem repeat (TTTA)(n) polymorphism in CYP19 (aromatase) gene and breast cancer risk in Nigerian women
+3306,TA,exclude,Not relevant to the research question/topic,expanded BC registry New Mexico infrastructure,Expanded Breast Cancer Registry and Tissue Repository
+3307,TA,exclude,Not relevant to the research question/topic,physical activity BC ARIC,Physical activity and breast cancer incidence in middle-aged women: A prospective cohort study
+3308,TA,exclude,Not a US population-based/registry study,PIK3CA Singapore Chinese,Mutational hotspot in exon 20 of PIK3CA in breast cancer among Singapore Chinese
+3309,TA,exclude,Not a US population-based/registry study,hormonal body-size BC Taiwan,"Hormonal and body-size factors in relation to breast cancer risk: A prospective study of 11,889 women in a low-incidence area"
+3310,TA,exclude,Not relevant to the research question/topic,vitamin D UVB cancer survival black white,Lower vitamin-D production from solar ultraviolet-B irradiance may explain some differences in cancer survival rates
+3311,TA,exclude,Not relevant to the research question/topic,flavonoids prostate cell lines,Novel antiproliferative flavonoids induce cell cycle arrest in human prostate cancer cell lines
+3312,TA,exclude,Not a US population-based/registry study,KAP BC Nigerian women,"Knowledge, attitude and practice of Nigerian women towards breast cancer: A cross-sectional study"
+3313,TA,exclude,Not relevant to the research question/topic,geostatistical cancer mortality kriging,Geostatistical analysis of disease data: Visualization and propagation of spatial uncertainty in cancer mortality risk using Poisson kriging and p-field simulation
+3314,TA,exclude,Not relevant to the research question/topic,low-fat diet BC WHI trial,Low-fat dietary pattern and risk of invasive breast cancer: The Women's Health Initiative randomized controlled dietary modification trial
+3315,TA,exclude,Not a US population-based/registry study,Korean BC clinical characteristics 15yr,Changing patterns in the clinical characteristics of Korean patients with breast cancer during the last 15 years
+3316,TA,exclude,Not relevant to the research question/topic,novel genetic risk BC young women,Identification of Novel Genetic Risk Factors That Contribute to the Risk for Breast Cancer
+3317,TA,exclude,Not a US population-based/registry study,BRCA Chilean families,"Incidence of BRCA1 and BRCA2 mutations in 54 Chilean families with breast/ovarian cancer, genotype-phenotype correlations"
+3318,TA,exclude,Not a US population-based/registry study,heterocyclic amines Chinese Singapore,Dietary exposure to heterocyclic amines in a Chinese population
+3319,TA,exclude,Not relevant to the research question/topic,DHEA telomeres anti-aging,"Beneficial effects & side effects of DHEA: True anti-aging & age-promoting effects, as well as anti-cancer & cancer-promoting effects of DHEA evaluated from the effects on the normal & cancer cell telomeres & other parameters"
+3320,TA,exclude,Not a US population-based/registry study,prognostic factors Indian women BCT,Profile of prognostic factors in 1022 Indian women with early-stage breast cancer treated with breast-conserving therapy
+3321,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",sepsis epidemiology race sex conference,"Epidemiology of sepsis: Race, sex, and chronic alcohol abuse"
+3322,TA,include,,Cancer incidence South Asian population California 1988-2000,"Cancer incidence in the South Asian population of California, 1988-2000"
+3323,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnicity BC incidence outcome letters,Re: Ethnicity and breast cancer: Factors influencing differences in incidence and outcome (multiple letters) [1]
+3324,TA,exclude,Not relevant to the research question/topic,TOR inhibitors malignancy transplant,Maintenance immunosuppression with target-of-rapamycin inhibitors is associated with a reduced incidence of de novo malignancies
+3325,TA,exclude,Not relevant to the research question/topic,patient assistance BC disparities trial,Patient Assistance to Reduce Breast Cancer Disparities
+3326,TA,exclude,Not relevant to the research question/topic,alemtuzumab kidney transplant,Alemtuzumab induction and prednisone-free maintenance immunotherapy in kidney transplantation: Comparison with basiliximab induction - Long-term results
+3327,TA,exclude,Not a US population-based/registry study,alcohol BC Japanese cohort,Prospective study of alcohol consumption and breast cancer risk in Japanese women
+3328,TA,exclude,Not a US population-based/registry study,RT HCC phase II Taiwan,A Phase II Clinical and Mechanistic Study of Radiotherapy for Locally Advanced Hepatocellular Carcinoma
+3329,TA,exclude,Not a US population-based/registry study,international BC mortality fat intake,An international epidemiologic study of breast cancer mortality and total fat intake in postmenopausal women
+3330,TA,exclude,Not relevant to the research question/topic,antioxidants hormonal cancer prevention,Antioxidants and the prevention of hormonally regulated cancer
+3331,TA,exclude,Not relevant to the research question/topic,TS polymorphisms 5FU colon,Thymidylate Synthase Polymorphisms as a Predictor of Toxicity to 5-Fluorouracil Based Chemotherapy in Stage III Colon Cancer
+3332,TA,exclude,Not relevant to the research question/topic,TS polymorphisms capecitabine colon,Thymidylate Synthase Polymorphisms as a Predictor of Toxicity to Capecitabine Based Adjuvant Chemotherapy in Colon Cancer Treatment
+3333,TA,exclude,Not a US population-based/registry study,occupational class cancer French GAZEL,"Occupational class, occupational mobility and cancer incidence among middle-aged men and women: A prospective study of the French GAZEL cohort"
+3334,TA,exclude,Not relevant to the research question/topic,fluticasone COPD trial,"The efficacy and safety of inhaled fluticasone propionate/salmeterol and ipratropium/albuterol for the treatment of chronic obstructive pulmonary disease: An eight-week, multicenter, randomized, double-blind, double-dummy, parallel-group study"
+3335,TA,exclude,Not a US population-based/registry study,male BC incidence atomic bomb,Male breast cancer incidence among atomic bomb survivors
+3336,TA,exclude,Not relevant to the research question/topic,breast health weight loss Black women trial,A combined breast health/weight loss intervention for Black women
+3337,TA,exclude,Not relevant to the research question/topic,atrazine California risk assessment,A risk assessment of atrazine use in California: Human health and ecological aspects
+3338,TA,exclude,Not relevant to the research question/topic,pilocarpine mucositis trial,Randomized controlled trial of pilocarpine hydrochloride for the moderation of oral mucositis during autologous blood stem cell transplantation
+3339,TA,exclude,Not relevant to the research question/topic,cancer incidence AYA US age patterns,Cancer incidence patterns among adolescents and young adults in the United States
+3340,TA,exclude,Not a US population-based/registry study,BC epidemiology Maori New Zealand,The epidemiology of breast cancer in Maori women in Aotearoa New Zealand: Implications for screening and treatment
+3341,TA,exclude,Not a US population-based/registry study,BC Maori New Zealand ethnicity methods,The epidemiology of breast cancer in Maori women in Aotearoa New Zealand: Implications for ethnicity data analysis
+3342,TA,exclude,Not a US population-based/registry study,obesity cancer Japan,Obesity and risk of cancer in Japan
+3343,TA,exclude,Not relevant to the research question/topic,breast cancer race rising tide review,Breast cancer and race: A rising tide does not lift all boats equally
+3344,TA,exclude,Not relevant to the research question/topic,brown kelp endocrine rats,Brown kelp modulates endocrine hormones in female Sprague-Dawley rats and in human luteinized granulosa cells
+3345,TA,include,,Cancer Statistics 2005 US incidence by race,"Cancer statistics, 2005"
+3346,TA,exclude,Not relevant to the research question/topic,predictive model hormone-responsive BC,A predictive model for the development of hormone-responsive breast cancer
+3347,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",mammary cancer social interactions conference,Mammary cancer and social interactions: Identifying multiple environments that regulate gene expression throughout the life span
+3348,TA,exclude,Not a US population-based/registry study,post-op DVT Malaysia,The incidence of post-operative deep vein thrombosis in general surgical patients of hospital Universiti Sains Malaysia
+3349,TA,exclude,Not relevant to the research question/topic,contralateral BC thromboembolic AA tamoxifen NSABP,Contralateral breast cancer and thromboembolic events in African American women treated with tamoxifen
+3350,TA,exclude,Not a US population-based/registry study,perceptions BC Arab Israeli,Perceptions of breast cancer among Arab Israeli women
+3351,TA,exclude,Not relevant to the research question/topic,survival recurrence BRCA carriers,Survival and recurrence after breast cancer in BRCA1/2 mutation carriers
+3352,TA,exclude,Not a US population-based/registry study,BRCA young Korean BC,Incidence of BRCA1 and BRCA2 mutations in young Korean breast cancer patients
+3353,TA,exclude,Not relevant to the research question/topic,cancer in Jews overview,Cancer in Jews: Introduction and overview
+3354,TA,exclude,Not a US population-based/registry study,cancer indigenous Amazon Ecuador,"Cancer among indigenous people in the Amazon basin of Ecuador, 1985-2000"
+3355,TA,exclude,Not a US population-based/registry study,HRT hormone-dependent cancers Norway,Hormone replacement therapy and incidence of hormone-dependent cancers in the Norwegian women and cancer study
+3356,TA,exclude,Not relevant to the research question/topic,accrual elderly minority ACOSOG trials,A report on accrual rates for elderly and minority-ethnicity cancer patients to clinical trials of the american college of surgeons oncology group
+3357,TA,exclude,Not relevant to the research question/topic,reproductive factors BC white AA case-control,Reproductive factors and risk of breast carcinoma in a study of White and African-American women
+3358,TA,exclude,Not relevant to the research question/topic,near-infrared breast density risk,Non-ionizing near-infrared radiation transillumination spectroscopy for breast tissue density and assessment of breast cancer risk.
+3359,TA,exclude,Not relevant to the research question/topic,genistein BC cells apoptosis,Genistein inversely affects tubulin-binding agent-induced apoptosis in human breast cancer cells
