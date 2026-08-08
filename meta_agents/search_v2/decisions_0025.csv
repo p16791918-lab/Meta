@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1460,exclude,Not relevant to the research question/topic,pain management disparities SEER-Medicare
+1461,exclude,Not a US population-based/registry study,DS-8201 Chinese HER2+ retrospective
+1462,include,,TriNetX BC incidence young women by race/ethnicity
+1463,exclude,Not relevant to the research question/topic,RRM BRCA survival outcomes
+1464,exclude,Not a US population-based/registry study,reconstruction rates Australia
+1465,exclude,Not relevant to the research question/topic,NGS use disparities Flatiron
+1466,exclude,Not a US population-based/registry study,AI-CAD mammography Asia multireader
+1467,exclude,Not relevant to the research question/topic,NIH survivorship funding
+1468,exclude,Not a US population-based/registry study,incidence common cancers Georgia country
+1469,exclude,Not relevant to the research question/topic,TCM external wash neuropathy trial
+1470,include,,AANHPI breast cancer incidence US
+1471,exclude,Not a US population-based/registry study,global BC survival WHO GBCI
+1472,exclude,Not a US population-based/registry study,SPM Chinese lymphoma
+1473,exclude,Not a US population-based/registry study,MIRAY1 Japan workforce initiative
+1474,exclude,Not relevant to the research question/topic,shoulder impairment reconstruction single-institution
+1475,exclude,Not relevant to the research question/topic,second primary Black survivors Detroit ROCS
+1476,exclude,Not relevant to the research question/topic,AIDS-defining illness Medicaid HIV
+1477,exclude,Not a US population-based/registry study,social inequalities Brazil registry
+1478,include,,Cancer incidence Navajo Nation AIAN 2014-2018
+1479,exclude,Not relevant to the research question/topic,auricular stimulation antiemetic trial
+1480,exclude,Not relevant to the research question/topic,auricular stimulation antiemetic trial
+1481,exclude,Not a US population-based/registry study,nutrition cachexia Bangladesh trial
+1482,exclude,Not a US population-based/registry study,acupuncture hot flashes China trial
+1483,exclude,Not a US population-based/registry study,fertility-sparing EC China trial
+1484,exclude,Not relevant to the research question/topic,LINC01279 biomarker BC
+1485,exclude,Not a US population-based/registry study,axillary web syndrome Taiwan
+1486,exclude,Not a US population-based/registry study,epidemiology Chinese women GBD
+1487,exclude,Not a US population-based/registry study,cancer incidence SLE Korean
+1488,exclude,Not relevant to the research question/topic,trastuzumab cardiac Hispanic South Texas
+1489,exclude,Not a US population-based/registry study,33 early-onset cancers global GBD
+1490,exclude,Not relevant to the research question/topic,breastfeeding PAF TNBC risk factors
+1491,exclude,Not a US population-based/registry study,DFTI mortality Korean cohort
+1492,exclude,Not a US population-based/registry study,polymorphisms Iranian women
+1493,exclude,Not relevant to the research question/topic,race microbe transcriptomic TNBC
+1494,exclude,Not relevant to the research question/topic,aggressive prostate after testicular SEER
+1495,exclude,Not a US population-based/registry study,Peru registries biobanks
+1496,exclude,Not relevant to the research question/topic,RMC-5552 phase 1 trial
+1497,exclude,Not a US population-based/registry study,AYA cancer burden China
+1498,exclude,Not a US population-based/registry study,fracture risk endocrine Korean
+1499,exclude,Not relevant to the research question/topic,basal cell carcinoma incidence US
+1500,exclude,Not relevant to the research question/topic,COVID all-cause mortality SEER
+1501,exclude,Not a US population-based/registry study,CBSM program China protocol
+1502,exclude,Not relevant to the research question/topic,US cancer diagnoses during COVID SEER
+1503,exclude,Not relevant to the research question/topic,immunogenomic TNBC obese black/white
+1504,exclude,Not relevant to the research question/topic,locally advanced BC by receptor SEER
+1505,exclude,Not relevant to the research question/topic,BWL Black survivors pilot protocol
+1506,exclude,Not relevant to the research question/topic,CV adverse events ICI real-world
+1507,exclude,Not relevant to the research question/topic,comorbidity All of Us survivors
+1508,exclude,Not relevant to the research question/topic,cognitive impairment survival WHI LILAC
+1509,exclude,Not a US population-based/registry study,biomarkers NAC Latino Colombian
+1510,exclude,Not relevant to the research question/topic,MRI markers dense breasts risk
+1511,exclude,Not a US population-based/registry study,TNF-alpha Bangladeshi case-control
+1512,exclude,Not a US population-based/registry study,BRCA founder Russian screening
+1513,exclude,"Editorials, commentaries, letters, or conference abstracts",racial BC/CVD mortality WHI letter
+1514,exclude,Not relevant to the research question/topic,patient portal engagement oncology
+1515,exclude,"Editorials, commentaries, letters, or conference abstracts",AACR conference review early-onset
+1516,exclude,Not relevant to the research question/topic,Grisotti flap trial
+1517,exclude,Not relevant to the research question/topic,cancer mortality African Americans WONDER
+1518,exclude,Not a US population-based/registry study,TCM hand/foot bath CIPN trial
+1519,exclude,Not relevant to the research question/topic,AST/ALT ratio BC case-control
