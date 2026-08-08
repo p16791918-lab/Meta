@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2120,exclude,Not relevant to the research question/topic,qigong thoracotomy trial
+2121,exclude,Not relevant to the research question/topic,socioeconomic stress ancestry normal breast
+2122,exclude,Not a US population-based/registry study,cumulative mammographic density Israel
+2123,exclude,Not relevant to the research question/topic,NUT carcinoma symposium
+2124,exclude,Not relevant to the research question/topic,albumin paclitaxel trial
+2125,exclude,Not a US population-based/registry study,pediatric TBI Latin America trial
+2126,exclude,Not relevant to the research question/topic,remimazolam anesthesia trial
+2127,exclude,Not relevant to the research question/topic,HF phenotype BC survivors
+2128,exclude,Not relevant to the research question/topic,cancer screening telehealth survey
+2129,exclude,Not relevant to the research question/topic,recruitment minority communication
+2130,exclude,Not a US population-based/registry study,hypothyroidism after BC Korea
+2131,include,,State-level BC incidence trends by race/ethnicity US
+2132,exclude,Not relevant to the research question/topic,racial disparities cancer thrombosis CCR
+2133,exclude,Not relevant to the research question/topic,andrographolide ER+ cells
+2134,exclude,Not relevant to the research question/topic,bone metastases epidemiology SEER
+2135,exclude,Not a US population-based/registry study,cancer mortality Latin America 2021
+2136,exclude,Not relevant to the research question/topic,CAC lung/colorectal MESA
+2137,include,,Cancer disparities urban AI/AN vs NHW US 1999-2017
+2138,exclude,Not a US population-based/registry study,African Female BC Nigeria protocol
+2139,exclude,Not relevant to the research question/topic,LncRNA Chidamide cells
+2140,exclude,Not relevant to the research question/topic,GWR county-level BC sociodemographic
+2141,exclude,Not a US population-based/registry study,mitoxantrone China trial
+2142,exclude,Not relevant to the research question/topic,sacituzumab neutropenia case report
+2143,exclude,Not a US population-based/registry study,bilateral BC China
+2144,exclude,Not a US population-based/registry study,GWAS hypertension Korea
+2145,exclude,Not a US population-based/registry study,imatinib SNP GIST Japan
+2146,exclude,Not relevant to the research question/topic,BC incidence redlining Massachusetts
+2147,exclude,Not relevant to the research question/topic,Long Red Line redlining BC
+2148,exclude,Not a US population-based/registry study,case-control 30-39 risk prediction UK
+2149,exclude,Not a US population-based/registry study,nasopharyngeal carcinoma China
+2150,exclude,Not relevant to the research question/topic,Maackiain TNBC
+2151,include,,ACS Cancer Disparities Report US 2021 incidence by race
+2152,exclude,Not relevant to the research question/topic,metastatic bone disease disparities SEER
+2153,exclude,Not a US population-based/registry study,young women BC Switzerland
+2154,exclude,Not relevant to the research question/topic,opioid ED survivors SEER-Medicare
+2155,exclude,Not relevant to the research question/topic,pregnancy-related BC epidemiology review
+2156,exclude,Not relevant to the research question/topic,cancer diagnosed after metastasis SEER
+2157,exclude,Not relevant to the research question/topic,lifestyle HF subtypes BC survivors WHI
+2158,exclude,Not relevant to the research question/topic,anti-NXP2 myopathies
+2159,exclude,Not relevant to the research question/topic,endocrine therapy premenopausal review
+2160,exclude,Not relevant to the research question/topic,SPN sebaceous carcinoma SEER
+2161,exclude,Not a US population-based/registry study,abemaciclib China PMSS
+2162,exclude,Not relevant to the research question/topic,HER2 mutation immune TCGA
+2163,include,,ER-negative BC incidence NHB US SEER vs Ghana
+2164,exclude,Not a US population-based/registry study,germline pancreatic China
+2165,exclude,Not a US population-based/registry study,Nigeria cancer walk
+2166,exclude,Not a US population-based/registry study,treatment delays Filipino COVID
+2167,exclude,Not relevant to the research question/topic,community distress screening/incidence counties
+2168,exclude,Not relevant to the research question/topic,menstrual cycle cancer cohort
+2169,exclude,Not relevant to the research question/topic,African-ancestry TNBC gene expression
+2170,exclude,Not relevant to the research question/topic,CTC liver cancer platform
+2171,exclude,Not relevant to the research question/topic,cancer thrombosis increasing CCR
+2172,exclude,Not relevant to the research question/topic,pegfilgrastim OBI Henry Ford
+2173,exclude,Not relevant to the research question/topic,racial/SES BC outcomes AJCC SEER
+2174,exclude,Not relevant to the research question/topic,palbociclib myelosuppression bone RT
+2175,exclude,Not relevant to the research question/topic,SPM Hodgkin CCR HIV
+2176,include,,Cancer Statistics 2022 US incidence by race
+2177,exclude,Not a US population-based/registry study,docetaxel Iran PMS
+2178,exclude,Not a US population-based/registry study,TCM QoL meta-analysis
+2179,exclude,Not a US population-based/registry study,neutropenic fever Ethiopia
