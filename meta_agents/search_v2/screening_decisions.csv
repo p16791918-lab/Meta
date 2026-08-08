@@ -3239,3 +3239,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3237,TA,exclude,Not a US population-based/registry study,steroid hormone genes Chinese,Polymorphisms in steroid hormone biosynthesis genes and risk of breast cancer and fibrocystic breast conditions in Chinese women
 3238,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",gossypiboma Tc-99m Korean case,Focal uptake of Tc-99m MDP in a gossypiboma
 3239,TA,exclude,Not relevant to the research question/topic,Latina decision support intervention,Latina a Latina(SM): Developing a breast cancer decision support intervention
+3240,TA,exclude,Not relevant to the research question/topic,diet patterns BC Hispanic NHW Four-Corners,Diet patterns and breast cancer risk in Hispanic and non-Hispanic white women: The Four-Corners Breast Cancer Study
+3241,TA,exclude,Not a US population-based/registry study,neurological complications malignancy Pakistan,The spectrum of neurological complications in Pakistani patients with malignancies
+3242,TA,exclude,Not a US population-based/registry study,parity breastfeeding BC Nigeria,Parity and breastfeeding are protective against breast cancer in Nigerian women
+3243,TA,include,,Cancer Statistics 2008 US incidence by race,"Cancer statistics, 2008"
+3244,TA,exclude,Not relevant to the research question/topic,treatment survival subtypes black women,Treatment and survival outcome for molecular breast cancer subtypes in black women.
+3245,TA,exclude,Not a US population-based/registry study,cosmetic outcome SSM Japan,Cosmetic outcome and patient satisfaction after skin-sparing mastectomy for breast cancer with immediate reconstruction of the breast
+3246,TA,exclude,Not a US population-based/registry study,IMN metastasis Chinese ERM,"Breast cancer subpopulation with high risk of internal mammary lymph nodes metastasis: Analysis of 2,269 Chinese breast cancer patients treated with extended radical mastectomy"
+3247,TA,include,,Cancer incidence South Asians India/Singapore/UK/US,"Cancer incidence rates among South Asians in four geographic regions: India, Singapore, UK and US"
+3248,TA,exclude,Not relevant to the research question/topic,epidemiology IBC review,The Epidemiology of Inflammatory Breast Cancer
+3249,TA,exclude,Not relevant to the research question/topic,bisphosphonate bone loss gyn trial,The Impact of Bisphosphonates on Bone Loss in Patients Undergoing Surgery and Postoperative Chemotherapy for Gynecologic Malignancies.
+3250,TA,exclude,Not relevant to the research question/topic,anemia adjuvant chemo IBCSG,Anemia during adjuvant non-taxane chemotherapy for early breast cancer: Incidence and risk factors from two trials of the International Breast Cancer Study Group
+3251,TA,exclude,Not relevant to the research question/topic,natural immunity mutation model,"Evidence that natural immunity to breast cancer and prostate cancer exists in the majority of their risk populations is predicted by a novel, inherently saturated, ordered mutation model"
+3252,TA,exclude,Not a US population-based/registry study,BC screening feasibility East Hong Kong,The acceptance and feasibility of breast cancer screening in the East
+3253,TA,exclude,Not relevant to the research question/topic,BMI cancer incidence meta-analysis,Body-mass index and incidence of cancer: a systematic review and meta-analysis of prospective observational studies
+3254,TA,exclude,Not a US population-based/registry study,light at night BC Israel,Light at night co-distributes with incident breast but not lung cancer in the female population of Israel
+3255,TA,exclude,Not a US population-based/registry study,PONV prophylaxis Japanese,"Comparison of propofol, droperidol, and metoclopramide for prophylaxis of postoperative nausea and vomiting after breast cancer surgery: A prospective, randomized, double-blind, placebo-controlled study in Japanese patients"
+3256,TA,exclude,Not a US population-based/registry study,ADH Mammotome Asian screen,Underestimation of malignancy of atypical ductal hyperplasia diagnosed on 11-gauge stereotactically guided Mammotome breast biopsy: An Asian breast screen experience
+3257,TA,exclude,Not relevant to the research question/topic,ABT-888 irinotecan phase I,"A Phase I Dose-Escalation Study of Oral ABT-888 (NSC #737664) Plus Intravenous Irinotecan (CPT-11, NSC#616348) Administered in Patients With Advanced Solid Tumors"
+3258,TA,exclude,Not a US population-based/registry study,telomere length cancer susceptibility UK,Is telomere length in peripheral blood lymphocytes correlated with cancer susceptibility or radiosensitivity?
+3259,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",CDC decrease BC incidence news brief,CDC reports a decrease in the incidence of breast cancer
+3260,TA,exclude,Not a US population-based/registry study,ethnic ancestry paternal age BC Jerusalem,Ethnic ancestry and increased paternal age are risk factors for breast cancer before the age of 40 years
+3261,TA,exclude,Not a US population-based/registry study,lymphedema China,Lymphedema in China - Experiences and prospects
+3262,TA,exclude,Not a US population-based/registry study,fermented soybean NK cells trial,Chemotherapy-induced immunosuppression is restored by a fermented soybean extract: a proof of concept clinical trial
+3263,TA,exclude,Not relevant to the research question/topic,ACS challenge goal cancer incidence SEER,A midpoint assessment of the American Cancer Society challenge goal to decrease cancer incidence by 25% between 1992 and 2015
+3264,TA,exclude,Not a US population-based/registry study,APC BC Hong Kong,Age-period-cohort projections of breast cancer incidence in a rapidly transitioning Chinese population
+3265,TA,exclude,Not relevant to the research question/topic,time to surgery DCIS black white,Disparities in time to definitive surgical treatment between black and white women diagnosed with ductal carcinoma in situ
+3266,TA,exclude,Not relevant to the research question/topic,leukocyte count cancer WHI,"Prospective study of leukocyte count as a predictor of incident breast, colorectal, endometrial, and lung cancer and mortality in postmenopausal women"
+3267,TA,include,,Cambodian cancer incidence California Washington 1998-2002,"Cambodian cancer incidence rates in California and Washington, 1998-2002"
+3268,TA,include,,Cancer incidence American Indians Wisconsin IHS-linked,Improving cancer incidence estimates for American Indians in Wisconsin
+3269,TA,exclude,Not relevant to the research question/topic,mammography utilization rural urban AA,Utilization of mammography services among elderly rural and urban African American women
+3270,TA,exclude,Not a US population-based/registry study,cancer incidence mortality Caribbean,Cancer incidence and mortality in the Caribbean
+3271,TA,exclude,Not relevant to the research question/topic,ASCO cardiac pulmonary late effects,American society of clinical oncology clinical evidence review on the ongoing care of adult cancer survivors: Cardiac and pulmonary late effects
+3272,TA,exclude,Not relevant to the research question/topic,unstaged cancer elders Ohio,Complexity of care needs and unstaged cancer in elders: A population-based study
+3273,TA,exclude,Not a US population-based/registry study,cost mammography Chinese Hong Kong,Cost effectiveness of mammography screening for Chinese women
+3274,TA,exclude,Not relevant to the research question/topic,Spanish diabetes self-management trial,Spanish Diabetes Self-Management Program
+3275,TA,include,,Cancer incidence Middle Eastern population California 1988-2004,"Cancer incidence in the Middle Eastern population of California, 1988-2004."
+3276,TA,exclude,Not a US population-based/registry study,cancer incidence Indians Delhi Mumbai BC Canada,"Cancer incidence in Indians from three areas: Delhi and Mumbai, India, and British Columbia, Canada"
+3277,TA,exclude,Not a US population-based/registry study,BC registry Asian Singapore,Clinical observations from a breast cancer registry in Asian women
+3278,TA,exclude,Not a US population-based/registry study,CYP11A1 haplotype Shanghai,Haplotype analysis of CYP11A1 identifies promoter variants associated with breast cancer risk
+3279,TA,exclude,Not relevant to the research question/topic,steroid hormone SNP age BC white,Age-specific association of steroid hormone pathway gene polymorphisms with breast cancer risk
+3280,TA,exclude,Not relevant to the research question/topic,30-year chemo/hormonal trial,Thirty-year follow-up of chemo/hormonal therapy in node-positive breast cancer
+3281,TA,exclude,Not a US population-based/registry study,spectrum BC Asian multinational,Spectrum of breast cancer in Asian women
+3282,TA,exclude,Not relevant to the research question/topic,disparities in breast cancer review,Disparities in Breast Cancer
+3283,TA,exclude,Not relevant to the research question/topic,metastatic gene expression AA Caucasian cell lines,Metastatic progression and gene expression between breast cancer cell lines from African American and Caucasian women
+3284,TA,exclude,Not relevant to the research question/topic,race gonadotropin feedback trial,Effect of Race on Gonadotropin Responses to Short Term Negative and Positive Feedback Effects of Gonadal Steroids
+3285,TA,exclude,Not a US population-based/registry study,breastfeeding BC Korea case-control,Dose-dependent protective effect of breast-feeding against breast cancer among ever-lactated women in Korea
+3286,TA,exclude,Not relevant to the research question/topic,adiponectin normal levels study,Normal Serum Adiponectin Levels in Females During the Childbearing Ages and Normal Serum Adiponectin Levels in Pregnancy
+3287,TA,exclude,Not a US population-based/registry study,CYP1A1 BC North Indian,Association of CYP1A1 polymorphisms with breast cancer in North Indian women
+3288,TA,include,,Cancer incidence Korean-American immigrants US SEER,Cancer incidence among Korean-American immigrants in the United States and native Koreans in South Korea
+3289,TA,exclude,Not relevant to the research question/topic,IGF-1 genotype breast volume,Insulin-like growth factor-1 genotype predicts breast volume after pregnancy and hormonal contraception and is associated with circulating insulin-like growth factor-1 levels: implications for risk of early-onset breast cancer in young women from hereditary breast cancer families.
+3290,TA,exclude,Not relevant to the research question/topic,solar UV-B cancer incidence mortality US,"Solar ultraviolet-B exposure and cancer incidence and mortality in the United States, 1993-2002"
+3291,TA,exclude,Not relevant to the research question/topic,ethnic minority MA.17 letrozole trial,Clinical outcomes of ethnic minority women in MA.17: A trial of letrozole after 5 years of tamoxifen in postmenopausal women with early stage breast cancer
+3292,TA,exclude,Not relevant to the research question/topic,NYC immigrant minorities CANIMP program,New York city's Immigrant Minorities: Reducing cancer health disparities
+3293,TA,exclude,Not relevant to the research question/topic,genistein endometrial cancer cells,Changes in gene expressions elicited by physiological concentrations of genistein on human endometrial cancer cells
+3294,TA,exclude,Not relevant to the research question/topic,Paget disease breast incidence trends US,"Paget disease of the breast: Changing patterns of incidence, clinical presentation, and treatment in the U.S."
+3295,TA,exclude,Not a US population-based/registry study,pravastatin Japan MEGA trial,Primary prevention of cardiovascular disease with pravastatin in Japan (MEGA Study): a prospective randomised controlled trial
+3296,TA,exclude,Not a US population-based/registry study,cancer incidence Qidong China,"Trends in the incidence of cancer in Qidong, China, 1978-2002"
+3297,TA,exclude,Not relevant to the research question/topic,absolute BC risk model white density,Projecting absolute invasive breast cancer risk in white women with a model that includes mammographic density
+3298,TA,include,,Patterns cancer incidence US Hispanics/Latinos 1995-2000,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000"
+3299,TA,exclude,Not relevant to the research question/topic,neoplasms leukopenia 6-MP IBD,Incidence of Neoplasms in Patients Who Develop Sustained Leukopenia During or After Treatment With 6-Mercaptopurine for Inflammatory Bowel Disease

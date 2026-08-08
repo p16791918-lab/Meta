@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3240,exclude,Not relevant to the research question/topic,diet patterns BC Hispanic NHW Four-Corners
+3241,exclude,Not a US population-based/registry study,neurological complications malignancy Pakistan
+3242,exclude,Not a US population-based/registry study,parity breastfeeding BC Nigeria
+3243,include,,Cancer Statistics 2008 US incidence by race
+3244,exclude,Not relevant to the research question/topic,treatment survival subtypes black women
+3245,exclude,Not a US population-based/registry study,cosmetic outcome SSM Japan
+3246,exclude,Not a US population-based/registry study,IMN metastasis Chinese ERM
+3247,include,,Cancer incidence South Asians India/Singapore/UK/US
+3248,exclude,Not relevant to the research question/topic,epidemiology IBC review
+3249,exclude,Not relevant to the research question/topic,bisphosphonate bone loss gyn trial
+3250,exclude,Not relevant to the research question/topic,anemia adjuvant chemo IBCSG
+3251,exclude,Not relevant to the research question/topic,natural immunity mutation model
+3252,exclude,Not a US population-based/registry study,BC screening feasibility East Hong Kong
+3253,exclude,Not relevant to the research question/topic,BMI cancer incidence meta-analysis
+3254,exclude,Not a US population-based/registry study,light at night BC Israel
+3255,exclude,Not a US population-based/registry study,PONV prophylaxis Japanese
+3256,exclude,Not a US population-based/registry study,ADH Mammotome Asian screen
+3257,exclude,Not relevant to the research question/topic,ABT-888 irinotecan phase I
+3258,exclude,Not a US population-based/registry study,telomere length cancer susceptibility UK
+3259,exclude,"Editorials, commentaries, letters, or conference abstracts",CDC decrease BC incidence news brief
+3260,exclude,Not a US population-based/registry study,ethnic ancestry paternal age BC Jerusalem
+3261,exclude,Not a US population-based/registry study,lymphedema China
+3262,exclude,Not a US population-based/registry study,fermented soybean NK cells trial
+3263,exclude,Not relevant to the research question/topic,ACS challenge goal cancer incidence SEER
+3264,exclude,Not a US population-based/registry study,APC BC Hong Kong
+3265,exclude,Not relevant to the research question/topic,time to surgery DCIS black white
+3266,exclude,Not relevant to the research question/topic,leukocyte count cancer WHI
+3267,include,,Cambodian cancer incidence California Washington 1998-2002
+3268,include,,Cancer incidence American Indians Wisconsin IHS-linked
+3269,exclude,Not relevant to the research question/topic,mammography utilization rural urban AA
+3270,exclude,Not a US population-based/registry study,cancer incidence mortality Caribbean
+3271,exclude,Not relevant to the research question/topic,ASCO cardiac pulmonary late effects
+3272,exclude,Not relevant to the research question/topic,unstaged cancer elders Ohio
+3273,exclude,Not a US population-based/registry study,cost mammography Chinese Hong Kong
+3274,exclude,Not relevant to the research question/topic,Spanish diabetes self-management trial
+3275,include,,Cancer incidence Middle Eastern population California 1988-2004
+3276,exclude,Not a US population-based/registry study,cancer incidence Indians Delhi Mumbai BC Canada
+3277,exclude,Not a US population-based/registry study,BC registry Asian Singapore
+3278,exclude,Not a US population-based/registry study,CYP11A1 haplotype Shanghai
+3279,exclude,Not relevant to the research question/topic,steroid hormone SNP age BC white
+3280,exclude,Not relevant to the research question/topic,30-year chemo/hormonal trial
+3281,exclude,Not a US population-based/registry study,spectrum BC Asian multinational
+3282,exclude,Not relevant to the research question/topic,disparities in breast cancer review
+3283,exclude,Not relevant to the research question/topic,metastatic gene expression AA Caucasian cell lines
+3284,exclude,Not relevant to the research question/topic,race gonadotropin feedback trial
+3285,exclude,Not a US population-based/registry study,breastfeeding BC Korea case-control
+3286,exclude,Not relevant to the research question/topic,adiponectin normal levels study
+3287,exclude,Not a US population-based/registry study,CYP1A1 BC North Indian
+3288,include,,Cancer incidence Korean-American immigrants US SEER
+3289,exclude,Not relevant to the research question/topic,IGF-1 genotype breast volume
+3290,exclude,Not relevant to the research question/topic,solar UV-B cancer incidence mortality US
+3291,exclude,Not relevant to the research question/topic,ethnic minority MA.17 letrozole trial
+3292,exclude,Not relevant to the research question/topic,NYC immigrant minorities CANIMP program
+3293,exclude,Not relevant to the research question/topic,genistein endometrial cancer cells
+3294,exclude,Not relevant to the research question/topic,Paget disease breast incidence trends US
+3295,exclude,Not a US population-based/registry study,pravastatin Japan MEGA trial
+3296,exclude,Not a US population-based/registry study,cancer incidence Qidong China
+3297,exclude,Not relevant to the research question/topic,absolute BC risk model white density
+3298,include,,Patterns cancer incidence US Hispanics/Latinos 1995-2000
+3299,exclude,Not relevant to the research question/topic,neoplasms leukopenia 6-MP IBD
