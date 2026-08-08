@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2240,exclude,Not a US population-based/registry study,chefs cooking fumes Taiwan
+2241,exclude,Not a US population-based/registry study,pyrotinib diarrhea TCM China
+2242,exclude,Not a US population-based/registry study,lymphedema Colombia
+2243,exclude,Not relevant to the research question/topic,NC BCCCP screening program
+2244,exclude,Not relevant to the research question/topic,post-mastectomy pain syndrome cohort
+2245,exclude,Not a US population-based/registry study,HER2 gastric China monitoring
+2246,exclude,Not relevant to the research question/topic,mediation racial TNBC WHI
+2247,exclude,Not a US population-based/registry study,palbociclib China phase 1
+2248,exclude,Not a US population-based/registry study,ulipristal fibroids Japan
+2249,exclude,Not relevant to the research question/topic,cancer mortality AANHPI California
+2250,exclude,Not a US population-based/registry study,SES cancer England
+2251,exclude,Not a US population-based/registry study,birth cohort BC South Korea
+2252,exclude,Not a US population-based/registry study,age-specific BC Japan bimodal
+2253,exclude,Not relevant to the research question/topic,race stromal TME review
+2254,exclude,Not a US population-based/registry study,IL-2RA/RB Chinese Han
+2255,exclude,Not a US population-based/registry study,alcohol BC Japan pooled
+2256,exclude,Not relevant to the research question/topic,fatal infections cancer SEER
+2257,exclude,Not relevant to the research question/topic,5-year OS BC US SEER survival
+2258,exclude,Not relevant to the research question/topic,leuprorelin AI/tamoxifen trial
+2259,exclude,Not relevant to the research question/topic,smart home ECG cardiotoxicity
+2260,exclude,Not relevant to the research question/topic,HSPA6 thymoquinone TNBC
+2261,exclude,Not a US population-based/registry study,infliximab uveitis Norway
+2262,exclude,Not relevant to the research question/topic,DTX3 copy number BC
+2263,exclude,Not relevant to the research question/topic,BC screening recommendations Black women
+2264,exclude,Not relevant to the research question/topic,Black representation oral chemo trials
+2265,exclude,"Editorials, commentaries, letters, or conference abstracts",NCCN 2021 conference review
+2266,exclude,Not a US population-based/registry study,CRC screening Saudi Arabia trial
+2267,exclude,Not relevant to the research question/topic,metaplastic BC chemo SEER
+2268,exclude,Not relevant to the research question/topic,TEALS lung screening AI/AN
+2269,exclude,Not a US population-based/registry study,cancer Africa untold story
+2270,exclude,Not a US population-based/registry study,expressive writing Oman trial
+2271,exclude,Not relevant to the research question/topic,everolimus pneumonitis MBC
+2272,exclude,Not a US population-based/registry study,endometriosis cancer Korea
+2273,exclude,Not relevant to the research question/topic,bright spots racial equity mortality
+2274,exclude,Not relevant to the research question/topic,T2D duration cancer NHS/HPFS
+2275,exclude,Not a US population-based/registry study,somatic mutations Saudi Arabia
+2276,exclude,Not a US population-based/registry study,BC incidence/mortality Iran YLL
+2277,exclude,Not relevant to the research question/topic,SMN Hodgkin children COG
+2278,exclude,Not relevant to the research question/topic,10-year BC outcomes under 35
+2279,exclude,Not relevant to the research question/topic,IGM lactation case report
+2280,exclude,Not relevant to the research question/topic,SPTC meta-analysis
+2281,exclude,Not relevant to the research question/topic,SPM myeloma lenalidomide SEER-Medicare
+2282,exclude,Not a US population-based/registry study,BC incidence/mortality Iran spatial
+2283,exclude,Not relevant to the research question/topic,secondary liver cancer SEER
+2284,exclude,Not relevant to the research question/topic,aspirin cancer older adults ASPREE
+2285,exclude,Not relevant to the research question/topic,radiotherapy toxicity collagen vascular
+2286,exclude,Not a US population-based/registry study,COVID mammography Taiwan
+2287,exclude,Not a US population-based/registry study,exome secondary findings Japan
+2288,exclude,Not relevant to the research question/topic,metabolomics BC CPS-II
+2289,exclude,Not relevant to the research question/topic,sex representation FDA trials
+2290,exclude,Not relevant to the research question/topic,teriparatide osteosarcoma surveillance
+2291,exclude,Not a US population-based/registry study,VEGF SNP China Han
+2292,exclude,Not relevant to the research question/topic,MetS TNBC outcomes
+2293,exclude,Not a US population-based/registry study,cancer cluster fertilizer Korea
+2294,exclude,Not a US population-based/registry study,AYA cancer France
+2295,exclude,Not relevant to the research question/topic,metformin disparities NAC trial
+2296,exclude,Not a US population-based/registry study,telomere Singapore Chinese
+2297,exclude,Not relevant to the research question/topic,aspirin cancer PLCO
+2298,exclude,Not relevant to the research question/topic,CIPN stibium trial
+2299,exclude,Not relevant to the research question/topic,physical activity depression survivors
