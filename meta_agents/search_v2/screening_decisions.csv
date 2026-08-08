@@ -3059,3 +3059,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 3057,TA,exclude,Not relevant to the research question/topic,mammographic density adiposity 4 studies,Mammographic density and risk of breast cancer by adiposity: an analysis of four case-control studies
 3058,TA,exclude,Not relevant to the research question/topic,PKC ER TNBC AA Caucasian biomarker,PKC and ER are associated with triple-negative breast cancers in African American and Caucasian patients
 3059,TA,exclude,Not a US population-based/registry study,de novo malignancy liver transplant Korea,De novo malignancies after liver transplantation: Incidence comparison with the Korean cancer registry
+3060,TA,exclude,Not a US population-based/registry study,phenocopy BRCA Israeli carriers,Phenocopy breast cancer rates in Israeli BRCA1 BRCA2 mutation carrier families: Is the risk increased in non-carriers?
+3061,TA,exclude,Not relevant to the research question/topic,QoL symptom clusters survivors,All's well that ends well? Quality of life and physical symptom clusters in long-term cancer survivors across cancer types
+3062,TA,exclude,Not relevant to the research question/topic,doxorubicin dendrimers mouse/rat,Doxorubicin-conjugated PEGylated dendrimers show similar tumoricidal activity but lower systemic toxicity when compared to PEGylated liposome and solution formulations in mouse and rat tumor models
+3063,TA,exclude,Not a US population-based/registry study,attributable causes BC China,"Attributable causes of breast cancer and ovarian cancer in China: Reproductive factors, oral contraceptives and hormone replacement therapy"
+3064,TA,exclude,Not relevant to the research question/topic,chest wall dose PMRT outcome,Higher chest wall dose results in improved locoregional outcome in patients receiving postmastectomy radiation
+3065,TA,exclude,Not a US population-based/registry study,BC age Black White South East England,Breast cancer and age in Black and White women in South East England
+3066,TA,exclude,Not relevant to the research question/topic,metformin TNBC survival MDA,Effect of metformin on survival outcomes in diabetic patients with triple receptor-negative breast cancer
+3067,TA,exclude,Not a US population-based/registry study,sex disparities cancer incidence CI5,Enigmatic sex disparities in cancer incidence
+3068,TA,exclude,Not a US population-based/registry study,BC MRI/US screening Taiwan,Breast cancers detected by breast MRI screening and ultrasound in asymptomatic Asian women: 8 years of experience in Taiwan
+3069,TA,exclude,Not relevant to the research question/topic,obesity follow-up abnormal mammogram BCSC,The impact of obesity on follow-up after an abnormal screening mammogram
+3070,TA,exclude,Not a US population-based/registry study,BRCA1 VUS Taiwanese,"Multimodel assessment of BRCA1 mutations in Taiwanese (ethnic Chinese) women with early-onset, bilateral or familial breast cancer"
+3071,TA,exclude,Not relevant to the research question/topic,racial variation BC treatment DoD,Racial variation in breast cancer treatment among Department of Defense beneficiaries
+3072,TA,exclude,Not a US population-based/registry study,comorbidity mortality Danish BC,"Impact of comorbidity on mortality: A cohort study of 62,591 Danish women diagnosed with early breast cancer, 1990-2008"
+3073,TA,exclude,Not relevant to the research question/topic,SES inequities cancer mortality US 1960-2006,"Shrinking, widening, reversing, and stagnating trends in US socioeconomic inequities in cancer mortality for the total, black, and white populations: 1960-2006"
+3074,TA,exclude,Not relevant to the research question/topic,cytoplasmic ER breast cancer,Cytoplasmic estrogen receptor in breast cancer
+3075,TA,exclude,Not a US population-based/registry study,tamoxifen CYP2D6 Japanese,Dose-adjustment study of tamoxifen based on CYP2D6 genotypes in Japanese breast cancer patients
+3076,TA,exclude,Not a US population-based/registry study,cancer attributable obesity China,"Estimation of cancer incidence and mortality attributable to overweight, obesity, and physical inactivity in China"
+3077,TA,exclude,Not a US population-based/registry study,BC incidence Maryland inpatient SID,Breast cancer incidence analysis using inpatient data
+3078,TA,exclude,Not relevant to the research question/topic,exemestane BC risk chemoprevention,Exemestane reduces breast cancer risk in high-risk postmenopausal women
+3079,TA,exclude,Not relevant to the research question/topic,diet obesity BC update review,"Diet, obesity and breast cancer: An update"
+3080,TA,exclude,Not relevant to the research question/topic,DCIS microinvasion outcomes,"Ductal carcinoma in situ with microinvasion: Prognostic implications, long-term outcomes, and role of axillary evaluation"
+3081,TA,exclude,Not a US population-based/registry study,IBC Algerian molecular,Molecular and epidemiological characteristics of inflammatory breast cancer in Algerian patients
+3082,TA,exclude,Not relevant to the research question/topic,therapy-related APL pathogenesis,Therapy-related acute promyelocytic leukemia: Observations relating to APL pathogenesis and therapy
+3083,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",SABCS 2011 conference,34th Annual CTRC-AACR San Antonio Breast Cancer Symposium
+3084,TA,exclude,Not relevant to the research question/topic,patient navigation safety net,Impact of patient navigation from diagnosis to treatment in an urban safety net breast cancer population
+3085,TA,exclude,Not a US population-based/registry study,MBC BRCA2 AR Egyptian Moroccan,"Clinical profile, BRCA2 expression, and the androgen receptor CAG repeat region in Egyptian and Moroccan male breast cancer patients"
+3086,TA,exclude,Not relevant to the research question/topic,cardiac anthracycline trastuzumab SEER-Medicare,"Cardiac risk associated with the receipt of anthracycline and trastuzumab in a large nationwide cohort of older women with breast cancer, 1998-2005"
+3087,TA,exclude,Not relevant to the research question/topic,psychological morbidity ethnic minority meta,Psychological morbidity and quality of life of ethnic minority patients with cancer: A systematic review and meta-analysis
+3088,TA,exclude,Not relevant to the research question/topic,black-white tobacco lung cancer treatment,Disparities between blacks and whites in tobacco and lung cancer treatment
+3089,TA,exclude,Not a US population-based/registry study,SES mortality causes Korea,Changes in contribution of causes of death to socioeconomic mortality inequalities in Korean adults
+3090,TA,exclude,Not relevant to the research question/topic,cancer incidence Three Mile Island,Cancer incidence among residents of the Three Mile Island accident area: 1982-1995
+3091,TA,exclude,Not relevant to the research question/topic,galectin-3 TRAIL breast cells,A galectin-3 sequence polymorphism confers TRAIL sensitivity to human breast cancer cells
+3092,TA,exclude,Not a US population-based/registry study,BC epidemiology Hong Kong,"Breast cancer in Hong Kong, Southern China: The first population-based analysis of epidemiological characteristics, stage-specific, cancer-specific, and disease-free survival in breast cancer patients: 1997-2001"
+3093,TA,exclude,Not relevant to the research question/topic,unstaged cancer US SEER all sites,Unstaged cancer in the United States: A population-based study
+3094,TA,exclude,Not a US population-based/registry study,AR polyglutamine Egyptian MBC,Androgen receptor polyglutamine tract length in Egyptian male breast cancer patients
+3095,TA,exclude,Not relevant to the research question/topic,HER2 heterogeneity FISH single institution,Evaluation of intratumoral HER-2 heterogeneity by fluorescence in situ hybridization in invasive breast cancer: A single institution study
+3096,TA,exclude,Not a US population-based/registry study,occult carcinoma breast reduction Europe,Occult breast carcinoma in breast reduction specimens in European women
+3097,TA,exclude,Not a US population-based/registry study,cancer care Australia Pacific,Disparities in cancer care in Australia and the Pacific
+3098,TA,exclude,Not a US population-based/registry study,BC occupation industry France CECILE,"Breast cancer risk by occupation and industry: Analysis of the CECILE study, a population-based case-control study in France"
+3099,TA,exclude,Not relevant to the research question/topic,studying cancer minorities numbers SEER,Studying cancer in minorities: A look at the numbers
+3100,TA,exclude,Not relevant to the research question/topic,raloxifene tamoxifen benefit/risk STAR,Benefit/risk assessment for breast cancer chemoprevention with raloxifene or tamoxifen for women age 50 years or older
+3101,TA,exclude,Not a US population-based/registry study,CoQ10 BC Chinese Shanghai,Low plasma coenzyme Q(10) levels and breast cancer risk in Chinese women
+3102,TA,exclude,Not a US population-based/registry study,risk factors BC Korea,Risk factors and control strategies for the rapidly rising rate of breast cancer in Korea
+3103,TA,exclude,Not a US population-based/registry study,BRCA2 Portuguese founder mutation,International distribution and age estimation of the Portuguese BRCA2 c.156-157insAlu founder mutation
+3104,TA,exclude,Not a US population-based/registry study,de novo neoplasm liver transplant Europe,Evolution and management of de novo neoplasm post-liver transplantation: A 20-year experience from a single European centre
+3105,TA,exclude,Not relevant to the research question/topic,NADC HIV ACTG trials,Incidence of Non-AIDS-defining cancer in antiretroviral treatment-naïve subjects after antiretroviral treatment initiation: An ACTG longitudinal linked randomized trials analysis
+3106,TA,exclude,Not relevant to the research question/topic,cancer burden HIV US,Cancer burden in the HIV-infected population in the United States
+3107,TA,exclude,Not relevant to the research question/topic,cancer chronic pain Michigan registry,Cancer-related chronic pain
+3108,TA,exclude,Not relevant to the research question/topic,cancer prevalence NC registry methods,Getting cancer prevalence right: Using state cancer registry data to estimate cancer survivors
+3109,TA,exclude,Not a US population-based/registry study,total cholesterol cancer Korea,Total cholesterol and cancer risk in a large prospective study in Korea
+3110,TA,exclude,Not relevant to the research question/topic,multivitamin mortality cancer Multiethnic Cohort,Multivitamin use and the risk of mortality and cancer incidence
+3111,TA,exclude,Not a US population-based/registry study,cancer HIV Caribbean/Latin America,"Cancer in HIV-infected persons from the caribbean, central and South America"
+3112,TA,exclude,Not relevant to the research question/topic,pioglitazone cancer Kaiser,Cohort study of pioglitazone and cancer incidence in patients with diabetes
+3113,TA,exclude,Not a US population-based/registry study,BC age diagnosis ethnicity Sweden immigrants,Does the breast cancer age at diagnosis differ by ethnicity? A study on immigrants to Sweden
+3114,TA,exclude,Not a US population-based/registry study,bazedoxifene Japanese osteoporosis,"Effects of bazedoxifene on bone mineral density, bone turnover, and safety in postmenopausal japanese women with osteoporosis"
+3115,TA,exclude,Not a US population-based/registry study,suture SSI BC surgery China,Cosmetic outcome and surgical site infection rates of antibacterial absorbable (Polyglactin 910) suture compared to Chinese silk suture in breast cancer surgery: A randomized pilot research
+3116,TA,include,,Racial differences BC incidence trends Pennsylvania 1985-2004,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004"
+3117,TA,exclude,Not relevant to the research question/topic,25(OH)D T2D WHI,Lack of association between 25(OH)D levels and incident type 2 diabetes in older women
+3118,TA,exclude,Not relevant to the research question/topic,BC brain metastasis subset markers,A subset of breast cancer predisposes to brain metastasis
+3119,TA,exclude,Not relevant to the research question/topic,hormone genetic variation BPC3,Comprehensive analysis of hormone and genetic variation in 36 genes related to steroid hormone metabolism in pre- and postmenopausal women from the Breast and Prostate Cancer Cohort Consortium (BPC3)

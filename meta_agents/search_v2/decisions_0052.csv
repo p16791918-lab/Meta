@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3060,exclude,Not a US population-based/registry study,phenocopy BRCA Israeli carriers
+3061,exclude,Not relevant to the research question/topic,QoL symptom clusters survivors
+3062,exclude,Not relevant to the research question/topic,doxorubicin dendrimers mouse/rat
+3063,exclude,Not a US population-based/registry study,attributable causes BC China
+3064,exclude,Not relevant to the research question/topic,chest wall dose PMRT outcome
+3065,exclude,Not a US population-based/registry study,BC age Black White South East England
+3066,exclude,Not relevant to the research question/topic,metformin TNBC survival MDA
+3067,exclude,Not a US population-based/registry study,sex disparities cancer incidence CI5
+3068,exclude,Not a US population-based/registry study,BC MRI/US screening Taiwan
+3069,exclude,Not relevant to the research question/topic,obesity follow-up abnormal mammogram BCSC
+3070,exclude,Not a US population-based/registry study,BRCA1 VUS Taiwanese
+3071,exclude,Not relevant to the research question/topic,racial variation BC treatment DoD
+3072,exclude,Not a US population-based/registry study,comorbidity mortality Danish BC
+3073,exclude,Not relevant to the research question/topic,SES inequities cancer mortality US 1960-2006
+3074,exclude,Not relevant to the research question/topic,cytoplasmic ER breast cancer
+3075,exclude,Not a US population-based/registry study,tamoxifen CYP2D6 Japanese
+3076,exclude,Not a US population-based/registry study,cancer attributable obesity China
+3077,exclude,Not a US population-based/registry study,BC incidence Maryland inpatient SID
+3078,exclude,Not relevant to the research question/topic,exemestane BC risk chemoprevention
+3079,exclude,Not relevant to the research question/topic,diet obesity BC update review
+3080,exclude,Not relevant to the research question/topic,DCIS microinvasion outcomes
+3081,exclude,Not a US population-based/registry study,IBC Algerian molecular
+3082,exclude,Not relevant to the research question/topic,therapy-related APL pathogenesis
+3083,exclude,"Editorials, commentaries, letters, or conference abstracts",SABCS 2011 conference
+3084,exclude,Not relevant to the research question/topic,patient navigation safety net
+3085,exclude,Not a US population-based/registry study,MBC BRCA2 AR Egyptian Moroccan
+3086,exclude,Not relevant to the research question/topic,cardiac anthracycline trastuzumab SEER-Medicare
+3087,exclude,Not relevant to the research question/topic,psychological morbidity ethnic minority meta
+3088,exclude,Not relevant to the research question/topic,black-white tobacco lung cancer treatment
+3089,exclude,Not a US population-based/registry study,SES mortality causes Korea
+3090,exclude,Not relevant to the research question/topic,cancer incidence Three Mile Island
+3091,exclude,Not relevant to the research question/topic,galectin-3 TRAIL breast cells
+3092,exclude,Not a US population-based/registry study,BC epidemiology Hong Kong
+3093,exclude,Not relevant to the research question/topic,unstaged cancer US SEER all sites
+3094,exclude,Not a US population-based/registry study,AR polyglutamine Egyptian MBC
+3095,exclude,Not relevant to the research question/topic,HER2 heterogeneity FISH single institution
+3096,exclude,Not a US population-based/registry study,occult carcinoma breast reduction Europe
+3097,exclude,Not a US population-based/registry study,cancer care Australia Pacific
+3098,exclude,Not a US population-based/registry study,BC occupation industry France CECILE
+3099,exclude,Not relevant to the research question/topic,studying cancer minorities numbers SEER
+3100,exclude,Not relevant to the research question/topic,raloxifene tamoxifen benefit/risk STAR
+3101,exclude,Not a US population-based/registry study,CoQ10 BC Chinese Shanghai
+3102,exclude,Not a US population-based/registry study,risk factors BC Korea
+3103,exclude,Not a US population-based/registry study,BRCA2 Portuguese founder mutation
+3104,exclude,Not a US population-based/registry study,de novo neoplasm liver transplant Europe
+3105,exclude,Not relevant to the research question/topic,NADC HIV ACTG trials
+3106,exclude,Not relevant to the research question/topic,cancer burden HIV US
+3107,exclude,Not relevant to the research question/topic,cancer chronic pain Michigan registry
+3108,exclude,Not relevant to the research question/topic,cancer prevalence NC registry methods
+3109,exclude,Not a US population-based/registry study,total cholesterol cancer Korea
+3110,exclude,Not relevant to the research question/topic,multivitamin mortality cancer Multiethnic Cohort
+3111,exclude,Not a US population-based/registry study,cancer HIV Caribbean/Latin America
+3112,exclude,Not relevant to the research question/topic,pioglitazone cancer Kaiser
+3113,exclude,Not a US population-based/registry study,BC age diagnosis ethnicity Sweden immigrants
+3114,exclude,Not a US population-based/registry study,bazedoxifene Japanese osteoporosis
+3115,exclude,Not a US population-based/registry study,suture SSI BC surgery China
+3116,include,,Racial differences BC incidence trends Pennsylvania 1985-2004
+3117,exclude,Not relevant to the research question/topic,25(OH)D T2D WHI
+3118,exclude,Not relevant to the research question/topic,BC brain metastasis subset markers
+3119,exclude,Not relevant to the research question/topic,hormone genetic variation BPC3
