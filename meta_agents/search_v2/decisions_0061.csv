@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3600,exclude,Not relevant to the research question/topic,lymph node metastasis SEER risk factors
+3601,exclude,Not relevant to the research question/topic,SPM RCC SEER SIR
+3602,exclude,Not relevant to the research question/topic,cannabis genotoxicity cancer incidence US
+3603,exclude,Not relevant to the research question/topic,BRCA1 methylation TNBC risk case-control
+3604,exclude,Not relevant to the research question/topic,racial disparities mortality BC Maryland CVD
+3605,exclude,Not relevant to the research question/topic,predicting BC risk women veterans MVP
+3606,exclude,Not relevant to the research question/topic,uterine cancer management book chapter
+3607,exclude,Not relevant to the research question/topic,STOPP PIM older breast colorectal
+3608,exclude,Not relevant to the research question/topic,supportive medication US foreign-born Hispanic BC
+3609,exclude,Not relevant to the research question/topic,second primary cancer BC survivors SEER
+3610,exclude,Not relevant to the research question/topic,NCCN genetic testing AA BC
+3611,exclude,Not relevant to the research question/topic,BMD screening fractures AI BC
+3612,exclude,Not a US population-based/registry study,genomic diversity BC Latin America
+3613,exclude,Not relevant to the research question/topic,physical activity ethnicity QoL BC New Mexico
+3614,exclude,Not a US population-based/registry study,osteoporosis Latin America position statement
+3615,exclude,Not relevant to the research question/topic,IBC recognition diagnosis review
+3616,exclude,Not relevant to the research question/topic,port infections oncology
+3617,exclude,Not relevant to the research question/topic,incident comorbidities tamoxifen AI diverse cohort
+3618,exclude,Not relevant to the research question/topic,ER-/PR+ HER2- classification SEER
+3619,exclude,Not a US population-based/registry study,BC screening advances book chapter
+3620,exclude,Not relevant to the research question/topic,genetic ancestry BC subtypes Hispanic book chapter
+3621,exclude,Not relevant to the research question/topic,tea BC risk Sister Study
+3622,exclude,Not relevant to the research question/topic,pan-cancer racial disparities molecular SEER
+3623,exclude,Not relevant to the research question/topic,opioid second breast cancer events
+3624,exclude,Not relevant to the research question/topic,CVD mortality US cancer SEER
+3625,exclude,Not relevant to the research question/topic,BRCA1/2 RT outcomes MDA
+3626,exclude,Not relevant to the research question/topic,APP oncology care Medicare BC
+3627,exclude,Not relevant to the research question/topic,circular DNA buffalo milk
+3628,exclude,Not a US population-based/registry study,endometrial cancer book chapter
+3629,exclude,Not relevant to the research question/topic,coronary artery disease epidemiology chapter
+3630,exclude,Not relevant to the research question/topic,CPR metastatic cancer NIS
+3631,exclude,Not relevant to the research question/topic,COVID hospitalized US cohort
+3632,exclude,Not a US population-based/registry study,cancer incidence Cotonou Benin
+3633,exclude,Not relevant to the research question/topic,gestational diabetes BC before 55
+3634,exclude,Not relevant to the research question/topic,AKR1C3 SNP characterization
+3635,exclude,Not relevant to the research question/topic,air pollution BC BWHS risk
+3636,exclude,Not a US population-based/registry study,mathematical modeling BC Japan
+3637,exclude,Not relevant to the research question/topic,COVID oncology impact survey
+3638,exclude,Not relevant to the research question/topic,SPM BPDCN national database
+3639,exclude,Not relevant to the research question/topic,epidemiology of breast cancer book chapter
+3640,include,,Structural racism TNBC incidence Black White SEER
+3641,exclude,Not relevant to the research question/topic,healthy lifestyle endoscopic screening CRC
+3642,exclude,Not relevant to the research question/topic,metastatic free interval survival SEER
+3643,exclude,Not relevant to the research question/topic,contralateral BC risk SEER
+3644,exclude,Not relevant to the research question/topic,risk racial disparity COVID cancer
+3645,exclude,Not a US population-based/registry study,epidemiology of breast cancer book chapter
+3646,exclude,Not relevant to the research question/topic,minority health disparities nutrition cancer chapter
+3647,exclude,Not relevant to the research question/topic,sedentary behavior BC meta-analysis
+3648,exclude,Not relevant to the research question/topic,mental health race mortality cancer
+3649,exclude,Not relevant to the research question/topic,equitable screening mammography Black women simulation
+3650,exclude,Not relevant to the research question/topic,SSB tax cancer burden
+3651,exclude,Not a US population-based/registry study,social gradient cancer incidence Costa Rica
+3652,exclude,Not relevant to the research question/topic,refining BC prognosis age staging SEER
+3653,exclude,"Editorials, commentaries, letters, or conference abstracts",corrigendum nutrimetabolomics
+3654,exclude,Not relevant to the research question/topic,nomogram late BCSD SEER
+3655,exclude,Not relevant to the research question/topic,county-level factors FBC incidence US ecological
+3656,exclude,Not relevant to the research question/topic,BCG vaccination cancer follow-up
+3657,exclude,Not relevant to the research question/topic,intersectionality race rurality BC outcomes SEER
+3658,exclude,Not relevant to the research question/topic,drivers late-stage BC mortality Georgia
+3659,exclude,Not relevant to the research question/topic,corneal perforation orbital metastatic BC case
