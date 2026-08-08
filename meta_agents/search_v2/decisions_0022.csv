@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1280,exclude,Not relevant to the research question/topic,textbook oncologic outcomes NCDB
+1281,exclude,Not relevant to the research question/topic,screening adherence Utah survivors
+1282,exclude,Not a US population-based/registry study,BC mortality Ashkenazi Brazil
+1283,exclude,Not a US population-based/registry study,BHGI Latin America guidelines
+1284,exclude,Not relevant to the research question/topic,bilateral oophorectomy risk BWHS
+1285,exclude,Not a US population-based/registry study,young adults Latin America hospital
+1286,exclude,Not a US population-based/registry study,global survival simulation
+1287,exclude,Not relevant to the research question/topic,vitamin D VITAL RCT
+1288,exclude,Not relevant to the research question/topic,oral paclitaxel encequidar trial
+1289,exclude,Not a US population-based/registry study,mammography screening Chile RCT
+1290,exclude,Not a US population-based/registry study,cancer mortality Argentina Cordoba
+1291,exclude,Not relevant to the research question/topic,mortality trends 15-45 US WONDER
+1292,exclude,Not relevant to the research question/topic,ribociclib dose trial AMALEE
+1293,exclude,Not relevant to the research question/topic,Ashkenazi cancer burden review
+1294,exclude,Not relevant to the research question/topic,state tax policy screening/mortality
+1295,exclude,Not relevant to the research question/topic,defining urban/rural methodology
+1296,exclude,Not relevant to the research question/topic,race/immigrant cancer diagnosis NHIS survey
+1297,exclude,Not a US population-based/registry study,network Andean cancer control
+1298,exclude,Not a US population-based/registry study,LAC code against cancer
+1299,exclude,Not relevant to the research question/topic,cancer mortality congressional district
+1300,exclude,Not relevant to the research question/topic,cancer mortality US counties 1980-2014
+1301,exclude,Not a US population-based/registry study,lifetime probabilities China
+1302,exclude,Not relevant to the research question/topic,biobanking recruitment Maine
+1303,exclude,Not relevant to the research question/topic,wealth health expenditure MIR state
+1304,exclude,Not relevant to the research question/topic,female-specific lung cancer All of Us
+1305,exclude,Not relevant to the research question/topic,privileged US citizens health outcomes
+1306,exclude,Not relevant to the research question/topic,osteoporosis mortality multiple-cause
+1307,exclude,Not relevant to the research question/topic,DNA methylation breast milk race
+1308,exclude,Not relevant to the research question/topic,fear of thyroid cancer survey
+1309,exclude,Not relevant to the research question/topic,obesity HPV vaccination disparities
+1310,exclude,Not relevant to the research question/topic,pertuzumab biosimilar PK
+1311,exclude,Not relevant to the research question/topic,emergency contraception survivors
+1312,exclude,Not relevant to the research question/topic,disabilities necessary care
+1313,exclude,Not relevant to the research question/topic,energy balance NCI portfolio
+1314,exclude,Not relevant to the research question/topic,GnRHa adverse events FAERS
+1315,exclude,Not a US population-based/registry study,CONCORD-2 global survival
+1316,exclude,Not a US population-based/registry study,mortality Americas 1980-2010
+1317,exclude,Not a US population-based/registry study,mortality Latin American cities
+1318,exclude,Not a US population-based/registry study,t-MN transplant Japan
+1319,exclude,Not relevant to the research question/topic,HCC NCS1 biomarker
+1320,exclude,Not a US population-based/registry study,GBD diet burden
+1321,exclude,Not a US population-based/registry study,colon cancer PRS ML UK Biobank
+1322,exclude,Not relevant to the research question/topic,rural-urban HRQOL SEER-MHOS
+1323,exclude,Not relevant to the research question/topic,cervical cancer expression genomics
+1324,exclude,Not relevant to the research question/topic,filgrastim biosimilars noninferiority
+1325,exclude,Not a US population-based/registry study,PTSD cancer SE Asia
+1326,exclude,"Editorials, commentaries, letters, or conference abstracts",Vernonia extract MCF-7 conference paper
+1327,exclude,Not a US population-based/registry study,Open Streets Latin America HIA
+1328,exclude,Not a US population-based/registry study,workforce cancer mortality simulation
+1329,exclude,Not a US population-based/registry study,molecular subtypes Jamaican women
+1330,exclude,Not relevant to the research question/topic,socioeconomic HF trastuzumab SEER-Medicare
+1331,exclude,Not a US population-based/registry study,genomic Chinese BC sequencing
+1332,exclude,Not relevant to the research question/topic,obesity/T2D cancer risk TriNetX
+1333,exclude,Not relevant to the research question/topic,biomarker/treatment metastatic TNBC by race Flatiron
+1334,exclude,Not relevant to the research question/topic,SPM young women PORT SEER
+1335,exclude,Not relevant to the research question/topic,platycodon cardioprotective trial protocol
+1336,include,,SEER incidence by age/race/molecular subtype US women
+1337,exclude,Not a US population-based/registry study,miRNA SNP Vietnamese women
+1338,exclude,Not a US population-based/registry study,incidence trends Harare Zimbabwe
+1339,exclude,Not a US population-based/registry study,mRNA vaccine Pakistani cohort
