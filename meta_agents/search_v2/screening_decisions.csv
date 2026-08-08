@@ -1219,3 +1219,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 1217,TA,exclude,Not relevant to the research question/topic,HSD3B1 genotype ER+ outcomes,Association of HSD3B1 Genotype and Clinical Outcomes in Postmenopausal Estrogen-Receptor-Positive Breast Cancer
 1218,TA,exclude,Not relevant to the research question/topic,selenium BC review,Selenium and breast cancer - An update of clinical and epidemiological data
 1219,TA,exclude,Not a US population-based/registry study,cancer mortality under 50 countries,Trends in cancer mortality under age 50 in 15 upper-middle and high-income countries
+1220,TA,exclude,Not relevant to the research question/topic,cross-ancestry PRS risk stratification,Integration of a Cross-Ancestry Polygenic Model With Clinical Risk Factors Improves Breast Cancer Risk Stratification
+1221,TA,exclude,Not relevant to the research question/topic,BSE Chinese immigrants SF,Breast self-examination among Chinese immigrant women
+1222,TA,exclude,Not a US population-based/registry study,SNP northwest Chinese Han,Association of polymorphisms in LOC105377871 and CASC16 with breast cancer in the northwest Chinese Han population
+1223,TA,exclude,Not relevant to the research question/topic,nomogram survival SEER elderly,A nomogram for predicting breast cancer specific survival in elderly patients with breast cancer: a SEER population-based analysis
+1224,TA,exclude,Not relevant to the research question/topic,DDE cancer mortality ecologic US,Cancer mortality and environmental exposure to DDE in the United States
+1225,TA,exclude,Not relevant to the research question/topic,Myc TNBC cancer stem cells,Myc mediates cancer stem-like cells and EMT changes in triple negative breast cancers cells
+1226,TA,exclude,Not relevant to the research question/topic,liver metastases SEER prognosis,A population-based study on liver metastases in women with newly diagnosed breast cancer
+1227,TA,exclude,Not relevant to the research question/topic,local therapy metastatic survival,Local therapy in metastatic breast cancer is associated with improved survival
+1228,TA,exclude,Not a US population-based/registry study,GBD physical activity burden,"The global, regional, and national disease burden of breast cancer attributable to low physical activity from 1990 to 2019: an analysis of the Global Burden of Disease Study 2019"
+1229,TA,exclude,Not a US population-based/registry study,transcriptomics Saudi Arabia,Transcriptomics profiling study of breast cancer from Kingdom of Saudi Arabia revealed altered expression of Adiponectin and Fatty Acid Binding Protein4: Is lipid metabolism associated with breast cancer?
+1230,TA,exclude,Not a US population-based/registry study,young women Dakar Senegal,"Breast cancer in women younger than 35 years : features and outcomes in the  breast unit at Aristide le Dantec Teaching Hospital, Dakar"
+1231,TA,exclude,Not relevant to the research question/topic,CVD Pathways Heart Study,Risk of Cardiovascular Disease in Women With and Without Breast Cancer: The Pathways Heart Study
+1232,TA,exclude,Not a US population-based/registry study,global cancer aging burden,Aging and the global cancer burden: A population-based cohort study and predictive modelling analysis using the global cancer database
+1233,TA,exclude,Not a US population-based/registry study,WES Buryat ethnic group,"Whole Exome Sequencing Revealed Rare Variants in BRCA2, RAD51D, FANGC, CYP24A1 Genes in Breast/Ovarian Cancer Patients from a Small Buryat Ethnic Group"
+1234,TA,exclude,Not relevant to the research question/topic,esophageal adenocarcinoma GERD,Esophageal adenocarcinoma incidence in individuals with gastroesophageal reflux: Synthesis and estimates from population studies
+1235,TA,exclude,Not a US population-based/registry study,molecular subtypes Chinese women,Clinicopathological features of breast cancer with different molecular subtypes in chinese women
+1236,TA,exclude,Not relevant to the research question/topic,SES survival NPCR patterns of care,The impact of socioeconomic status on survival after cancer in the United States: Findings from the National Program of Cancer Registries patterns of care study
+1237,TA,exclude,Not relevant to the research question/topic,etiologic subtypes CBCS,Evidence for etiologic subtypes of breast cancer in the Carolina Breast Cancer Study
+1238,TA,exclude,Not relevant to the research question/topic,second primary in men with BC CA,Risk of second primary cancer in men with breast cancer
+1239,TA,exclude,Not relevant to the research question/topic,emotional suppression Chinese,Emotional suppression and depressive symptoms in women newly diagnosed with early breast cancer
+1240,TA,exclude,Not a US population-based/registry study,BC mortality Latin America,Disparities in breast cancer mortality among Latin American women: trends and predictions for 2030
+1241,TA,exclude,Not a US population-based/registry study,21-gene cost-effectiveness Japan,"Societal cost-effectiveness analysis of the 21-gene assay in estrogen-receptor-positive, lymph-node-negative early-stage breast cancer in Japan"
+1242,TA,exclude,Not a US population-based/registry study,breast density subtypes Japan,"Relationship Between Breast Density, Breast Cancer Subtypes, and Prognosis"
+1243,TA,exclude,Not relevant to the research question/topic,metformin senescence signature,Metformin induces a senescence-associated gene signature in breast cancer cells
+1244,TA,exclude,Not relevant to the research question/topic,reexcision DCIS predictors,Predictors of Reexcision following Breast-Conserving Surgery for Ductal Carcinoma In Situ
+1245,TA,exclude,Not relevant to the research question/topic,CEE WHI RCT,Effects of Conjugated Equine Estrogen in Postmenopausal Women with Hysterectomy: The Women's Health Initiative Randomized Controlled Trial
+1246,TA,exclude,Not relevant to the research question/topic,SDOH BC mortality US counties,Geographical Variation in Social Determinants of Female Breast Cancer Mortality Across US Counties
+1247,TA,exclude,Not relevant to the research question/topic,green tea polyphenols in vitro,Green tea polyphenols and its constituent epigallocatechin gallate inhibits proliferation of human breast cancer cells in vitro and in vivo
+1248,TA,exclude,Not relevant to the research question/topic,obstetric complications survivors NIS,Obstetric complications at time of delivery amongst breast cancer survivors: A population-based cohort study
+1249,TA,exclude,Not a US population-based/registry study,cancer mortality Latin America 2019,Cancer mortality predictions for 2019 in Latin America
+1250,TA,exclude,Not relevant to the research question/topic,Atabey case-control design Puerto Rico,Breast cancer in a caribbean population in transition: Design and implementation of the atabey population-based case-control study of women in the San Juan metropolitan area in Puerto Rico
+1251,TA,exclude,Not a US population-based/registry study,clinical profile Nepal,Clinical profile of patients presenting with breast cancer in Nepal
+1252,TA,exclude,Not relevant to the research question/topic,cognitive function tamoxifen,Preliminary assessment of cognitive function in breast cancer patients treated with tamoxifen
+1253,TA,exclude,Not relevant to the research question/topic,primary tumor excision metastatic SEER,Exploring the Value of Additional Primary Tumour Excision Combined with Systemic Therapy Administered in Different Sequences for Patients with de Novo Metastatic Breast Cancer
+1254,TA,exclude,Not a US population-based/registry study,MARRES Korea robotic surgery,Mastectomy with Reconstruction Including Robotic Endoscopic Surgery (MARRES): a prospective cohort study of the Korea Robot-Endoscopy Minimal Access Breast Surgery Study Group (KoREa-BSG) and Korean Breast Cancer Study Group (KBCSG)
+1255,TA,exclude,Not a US population-based/registry study,BC mortality Peru,Breast cancer mortality trends in Peruvian women
+1256,TA,exclude,Not a US population-based/registry study,GBD alcohol burden,Global burden of breast cancer attributable to alcohol consumption: a multi-regional observational analysis (1990–2021)
+1257,TA,exclude,Not relevant to the research question/topic,mammogram completion diabetes,Mammogram Order Completion Rates Among Women with Diabetes
+1258,TA,exclude,Not a US population-based/registry study,GBD high fasting glucose,Global disease burden of breast cancer attributable to high fasting plasma glucose: a comprehensive analysis from the global burden of disease study
+1259,TA,exclude,Not relevant to the research question/topic,caveolin-1 mutations US,Caveolin-1 mutations in human breast cancer: Functional association with estrogen receptor α-positive status
+1260,TA,exclude,Not a US population-based/registry study,GBD tobacco burden,"The global, regional, and national disease burden of breast cancer attributable to tobacco from 1990 to 2019: a global burden of disease study"
+1261,TA,exclude,Not a US population-based/registry study,BC Latin America/Caribbean,Breast cancer in Latin America and the Caribbean
+1262,TA,exclude,Not a US population-based/registry study,clinical characteristics Korea 2000,Clinical Characteristics of Breast Cancer Patients in Korea in 2000
+1263,TA,exclude,Not relevant to the research question/topic,joint symptoms anastrozole,Joint symptoms: a practical problem of anastrozole.
+1264,TA,exclude,Not relevant to the research question/topic,sFlt-1 exercise women,Increased plasma levels of soluble vascular endothelial growth factor receptor 1 (sFlt-1) in women by moderate exercise and increased plasma levels of vascular endothelial growth factor in overweight/obese women
+1265,TA,exclude,Not a US population-based/registry study,cost-effectiveness screening China,"Cost–effectiveness of risk-based breast cancer screening programme, China"
+1266,TA,exclude,Not a US population-based/registry study,TGFB polymorphisms Indian women,Transforming growth factor β signaling pathway associated gene polymorphisms may explain lower breast cancer risk in Western Indian women
+1267,TA,exclude,Not relevant to the research question/topic,palbociclib benign ethnic neutropenia AA,Hematologic safety of palbociclib in combination with endocrine therapy in patients with benign ethnic neutropenia and advanced breast cancer
+1268,TA,exclude,Not relevant to the research question/topic,high-dose chemo RT CALGB,Impact of High-Dose Chemotherapy on the Ability to Deliver Subsequent Local-Regional Radiotherapy for Breast Cancer: Analysis of Cancer and Leukemia Group B Protocol 9082
+1269,TA,exclude,Not a US population-based/registry study,atypical hyperplasia screening cohort,Atypical hyperplasia of the breast: The black hole of routine breast cancer screening
+1270,TA,exclude,Not relevant to the research question/topic,preventive care unvaccinated NHIS,Exploring preventive care practices among unvaccinated individuals in the United States during the COVID-19 pandemic
+1271,TA,exclude,Not a US population-based/registry study,cancer mortality Latin America 2023,Cancer mortality predictions for 2023 in Latin America with focus on stomach cancer
+1272,TA,exclude,Not a US population-based/registry study,BC policy Latin America,Breast cancer policy in Latin America: Account of achievements and challenges in five countries
+1273,TA,exclude,Not relevant to the research question/topic,adenoid cystic carcinoma NCDB subtype,Rare breast cancer: 933 adenoid cystic carcinomas from the national cancer data base
+1274,TA,exclude,Not relevant to the research question/topic,CV outcomes advanced BC chemo,Cardiovascular outcomes in women with advanced breast cancer exposed to chemotherapy
+1275,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Preface young women Latin America,Preface
+1276,TA,exclude,Not relevant to the research question/topic,thymoquinone TNBC cells,Thymoquinone Alterations of the Apoptotic Gene Expressions and Cell Cycle Arrest in Genetically Distinct Triple-Negative Breast Cancer Cells
+1277,TA,exclude,Not a US population-based/registry study,inflammatory biomarkers Latin America,Inflammatory biomarkers and risk of breast cancer among young women in Latin America: a case-control study
+1278,TA,exclude,Not a US population-based/registry study,NGS CNV Ghana,Next-generation sequencing identifies recurrent copy number variations in invasive breast carcinomas from Ghana
+1279,TA,exclude,Not a US population-based/registry study,BC Latin America expert survey,Breast cancer in Latin America: results of the Latin American and Caribbean  Society of Medical Oncology/Breast Cancer Research Foundation expert survey

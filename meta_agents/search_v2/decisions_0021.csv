@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1220,exclude,Not relevant to the research question/topic,cross-ancestry PRS risk stratification
+1221,exclude,Not relevant to the research question/topic,BSE Chinese immigrants SF
+1222,exclude,Not a US population-based/registry study,SNP northwest Chinese Han
+1223,exclude,Not relevant to the research question/topic,nomogram survival SEER elderly
+1224,exclude,Not relevant to the research question/topic,DDE cancer mortality ecologic US
+1225,exclude,Not relevant to the research question/topic,Myc TNBC cancer stem cells
+1226,exclude,Not relevant to the research question/topic,liver metastases SEER prognosis
+1227,exclude,Not relevant to the research question/topic,local therapy metastatic survival
+1228,exclude,Not a US population-based/registry study,GBD physical activity burden
+1229,exclude,Not a US population-based/registry study,transcriptomics Saudi Arabia
+1230,exclude,Not a US population-based/registry study,young women Dakar Senegal
+1231,exclude,Not relevant to the research question/topic,CVD Pathways Heart Study
+1232,exclude,Not a US population-based/registry study,global cancer aging burden
+1233,exclude,Not a US population-based/registry study,WES Buryat ethnic group
+1234,exclude,Not relevant to the research question/topic,esophageal adenocarcinoma GERD
+1235,exclude,Not a US population-based/registry study,molecular subtypes Chinese women
+1236,exclude,Not relevant to the research question/topic,SES survival NPCR patterns of care
+1237,exclude,Not relevant to the research question/topic,etiologic subtypes CBCS
+1238,exclude,Not relevant to the research question/topic,second primary in men with BC CA
+1239,exclude,Not relevant to the research question/topic,emotional suppression Chinese
+1240,exclude,Not a US population-based/registry study,BC mortality Latin America
+1241,exclude,Not a US population-based/registry study,21-gene cost-effectiveness Japan
+1242,exclude,Not a US population-based/registry study,breast density subtypes Japan
+1243,exclude,Not relevant to the research question/topic,metformin senescence signature
+1244,exclude,Not relevant to the research question/topic,reexcision DCIS predictors
+1245,exclude,Not relevant to the research question/topic,CEE WHI RCT
+1246,exclude,Not relevant to the research question/topic,SDOH BC mortality US counties
+1247,exclude,Not relevant to the research question/topic,green tea polyphenols in vitro
+1248,exclude,Not relevant to the research question/topic,obstetric complications survivors NIS
+1249,exclude,Not a US population-based/registry study,cancer mortality Latin America 2019
+1250,exclude,Not relevant to the research question/topic,Atabey case-control design Puerto Rico
+1251,exclude,Not a US population-based/registry study,clinical profile Nepal
+1252,exclude,Not relevant to the research question/topic,cognitive function tamoxifen
+1253,exclude,Not relevant to the research question/topic,primary tumor excision metastatic SEER
+1254,exclude,Not a US population-based/registry study,MARRES Korea robotic surgery
+1255,exclude,Not a US population-based/registry study,BC mortality Peru
+1256,exclude,Not a US population-based/registry study,GBD alcohol burden
+1257,exclude,Not relevant to the research question/topic,mammogram completion diabetes
+1258,exclude,Not a US population-based/registry study,GBD high fasting glucose
+1259,exclude,Not relevant to the research question/topic,caveolin-1 mutations US
+1260,exclude,Not a US population-based/registry study,GBD tobacco burden
+1261,exclude,Not a US population-based/registry study,BC Latin America/Caribbean
+1262,exclude,Not a US population-based/registry study,clinical characteristics Korea 2000
+1263,exclude,Not relevant to the research question/topic,joint symptoms anastrozole
+1264,exclude,Not relevant to the research question/topic,sFlt-1 exercise women
+1265,exclude,Not a US population-based/registry study,cost-effectiveness screening China
+1266,exclude,Not a US population-based/registry study,TGFB polymorphisms Indian women
+1267,exclude,Not relevant to the research question/topic,palbociclib benign ethnic neutropenia AA
+1268,exclude,Not relevant to the research question/topic,high-dose chemo RT CALGB
+1269,exclude,Not a US population-based/registry study,atypical hyperplasia screening cohort
+1270,exclude,Not relevant to the research question/topic,preventive care unvaccinated NHIS
+1271,exclude,Not a US population-based/registry study,cancer mortality Latin America 2023
+1272,exclude,Not a US population-based/registry study,BC policy Latin America
+1273,exclude,Not relevant to the research question/topic,adenoid cystic carcinoma NCDB subtype
+1274,exclude,Not relevant to the research question/topic,CV outcomes advanced BC chemo
+1275,exclude,"Editorials, commentaries, letters, or conference abstracts",Preface young women Latin America
+1276,exclude,Not relevant to the research question/topic,thymoquinone TNBC cells
+1277,exclude,Not a US population-based/registry study,inflammatory biomarkers Latin America
+1278,exclude,Not a US population-based/registry study,NGS CNV Ghana
+1279,exclude,Not a US population-based/registry study,BC Latin America expert survey
