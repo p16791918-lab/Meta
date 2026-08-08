@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1100,exclude,Not relevant to the research question/topic,mammography guideline military
+1101,include,,Somali population cancer incidence Olmsted County
+1102,exclude,Not relevant to the research question/topic,young women US vs South Korea comparison
+1103,exclude,Not relevant to the research question/topic,ANN cancer burden prediction
+1104,exclude,Not relevant to the research question/topic,cancer incidence/survival after ED Midwest
+1105,exclude,Not relevant to the research question/topic,screening Rockland County survey
+1106,include,,AYA cancer statistics 2020 incidence by race/ethnicity
+1107,exclude,Not a US population-based/registry study,Chinese older people cancer stats
+1108,exclude,Not relevant to the research question/topic,BC risk SNPs white women model
+1109,exclude,Not relevant to the research question/topic,HRT lobular/ductal histologic
+1110,exclude,Not relevant to the research question/topic,CVD AYA survivors Kaiser
+1111,exclude,Not relevant to the research question/topic,rural BC control barriers narrative
+1112,exclude,Not relevant to the research question/topic,air pollutants Arkansas rural case-control
+1113,exclude,Not relevant to the research question/topic,preventable incidence lifestyle white adults
+1114,exclude,Not relevant to the research question/topic,insurance reconstruction recovery
+1115,exclude,Not relevant to the research question/topic,mammographic screening performance by race NMD
+1116,exclude,Not relevant to the research question/topic,omission multimodal therapy older
+1117,exclude,Not relevant to the research question/topic,mammography screening legislation states
+1118,exclude,Not relevant to the research question/topic,opioid incident cancer SEER-Medicare
+1119,exclude,Not relevant to the research question/topic,cancer prevalence disparities Medicaid
+1120,exclude,Not relevant to the research question/topic,early detection rural/urban California stage
+1121,exclude,Not relevant to the research question/topic,screening prevalence USAPI
+1122,exclude,Not a US population-based/registry study,BC mortality trends Americas/Australasia
+1123,exclude,Not relevant to the research question/topic,neighborhood deprivation reconstruction complications
+1124,exclude,Not relevant to the research question/topic,Native Hawaiian family capacity intervention
+1125,exclude,Not relevant to the research question/topic,basal cell skin cancer other cancers
+1126,exclude,Not relevant to the research question/topic,travel G-CSF febrile neutropenia
+1127,exclude,Not relevant to the research question/topic,mammography use trends 2000-2006
+1128,exclude,Not relevant to the research question/topic,LCIS incidence/management SEER
+1129,exclude,Not relevant to the research question/topic,COVID treatment delays survey
+1130,exclude,Not relevant to the research question/topic,testosterone aggressive prostate cancer
+1131,exclude,Not relevant to the research question/topic,incident cancer subsequent stroke
+1132,exclude,Not relevant to the research question/topic,housing status cancer screening veterans
+1133,exclude,Not relevant to the research question/topic,IGF-1 soy seaweed supplements
+1134,exclude,Not relevant to the research question/topic,community perspectives Wisconsin qualitative
+1135,exclude,Not relevant to the research question/topic,geospatial BC mortality NC
+1136,exclude,Not relevant to the research question/topic,rural reconstruction WV
+1137,exclude,Not relevant to the research question/topic,immunotherapy use survival stage IV
+1138,exclude,Not relevant to the research question/topic,reconstruction women 70+ NCDB
+1139,exclude,Not relevant to the research question/topic,self-rated health survivors
+1140,exclude,Not relevant to the research question/topic,SRS vs WBRT brain mets
+1141,exclude,Not relevant to the research question/topic,BC mortality young women 1970-2008
+1142,exclude,Not relevant to the research question/topic,BCCEDP Ohio outcomes
+1143,exclude,Not a US population-based/registry study,miRNA Lebanese BC
+1144,exclude,Not relevant to the research question/topic,genetic variation admixed Hispanic/NHW risk
+1145,exclude,Not relevant to the research question/topic,BC mortality same-sex partners NHIS
+1146,exclude,Not relevant to the research question/topic,Idaho NBCCEDP survival
+1147,exclude,Not relevant to the research question/topic,familial risk HBOC screening Nevada
+1148,exclude,"Editorials, commentaries, letters, or conference abstracts",ASCO clinical cancer advances 2008 report
+1149,exclude,Not relevant to the research question/topic,endometrial cancer risk factors NIH-AARP
+1150,exclude,Not relevant to the research question/topic,screening deprivation later-stage Appalachia
+1151,exclude,Not relevant to the research question/topic,BMI reconstruction complications
+1152,exclude,Not relevant to the research question/topic,cancer prevention lesbians
+1153,exclude,Not relevant to the research question/topic,BC risk/screening sexual minority NHIS
+1154,exclude,Not relevant to the research question/topic,sexual assault physical health
+1155,exclude,Not relevant to the research question/topic,aspirin VTE cancer NIS
+1156,exclude,Not relevant to the research question/topic,radiologic technologists cohort SIR
+1157,exclude,Not relevant to the research question/topic,ADI BC outcomes WNY
+1158,exclude,Not relevant to the research question/topic,gender-affirming chest reconstruction
+1159,exclude,Not relevant to the research question/topic,PFAS phenols NHANES cancer

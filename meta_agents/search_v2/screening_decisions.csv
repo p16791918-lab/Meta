@@ -1099,3 +1099,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 1097,TA,exclude,Not relevant to the research question/topic,rice consumption CTS,Association between rice consumption and risk of cancer incidence in the California Teachers Study
 1098,TA,exclude,Not relevant to the research question/topic,ER+ BC environmental pollutants SEER county,Estrogen receptor positive breast cancers and their association with environmental factors.
 1099,TA,exclude,Not relevant to the research question/topic,adjuvant endocrine therapy adherence,Adjuvant endocrine therapy for breast cancer patients: impact of a health system outreach program to improve adherence
+1100,TA,exclude,Not relevant to the research question/topic,mammography guideline military,The Impact of Mammography Screening Guideline Changes Among Women Serving in the U.S. Military
+1101,TA,include,,Somali population cancer incidence Olmsted County,Cancer incidence in the Somali population of Olmsted County: A Rochester epidemiology project study
+1102,TA,exclude,Not relevant to the research question/topic,young women US vs South Korea comparison,"Young women with breast cancer in the United States and South Korea: comparison of demographics, pathology and management"
+1103,TA,exclude,Not relevant to the research question/topic,ANN cancer burden prediction,Predicting future cancer burden in the United States by artificial neural networks
+1104,TA,exclude,Not relevant to the research question/topic,cancer incidence/survival after ED Midwest,Cancer Incidence and Survival after Emergency Department Care in the U.S. Midwest: An Opportunity for Cancer Interception
+1105,TA,exclude,Not relevant to the research question/topic,screening Rockland County survey,"Breast cancer screening in Rockland County, New York: A survey of attitudes and behaviors"
+1106,TA,include,,AYA cancer statistics 2020 incidence by race/ethnicity,"Cancer statistics for adolescents and young adults, 2020"
+1107,TA,exclude,Not a US population-based/registry study,Chinese older people cancer stats,"Cancer statistics in Chinese older people, 2022: current burden, time trends, and comparisons with the US, Japan, and the Republic of Korea"
+1108,TA,exclude,Not relevant to the research question/topic,BC risk SNPs white women model,Breast Cancer Risk From Modifiable and Nonmodifiable Risk Factors Among White Women in the United States
+1109,TA,exclude,Not relevant to the research question/topic,HRT lobular/ductal histologic,"Relation of regimens of combined hormone replacement therapy to lobular, ductal, and other histologic types of breast carcinoma"
+1110,TA,exclude,Not relevant to the research question/topic,CVD AYA survivors Kaiser,Cardiovascular disease risk profiles in survivors of adolescent and young adult (AYA) cancer: The kaiser permanente AYA cancer survivors study
+1111,TA,exclude,Not relevant to the research question/topic,rural BC control barriers narrative,Identifying key barriers to effective breast cancer control in rural settings
+1112,TA,exclude,Not relevant to the research question/topic,air pollutants Arkansas rural case-control,Carcinogenic air pollutants and breast cancer risk in the Arkansas rural community health study: A nested case-control study
+1113,TA,exclude,Not relevant to the research question/topic,preventable incidence lifestyle white adults,Preventable Incidence and Mortality of Carcinoma Associated With Lifestyle Factors Among White Adults in the United States
+1114,TA,exclude,Not relevant to the research question/topic,insurance reconstruction recovery,Impact of Insurance Status on Postoperative Recovery after Microsurgical Breast  Reconstruction
+1115,TA,exclude,Not relevant to the research question/topic,mammographic screening performance by race NMD,"Screening mammographic performance by race and age in the National Mammography Database: 29,479,665 screening mammograms from 13,181,241 women"
+1116,TA,exclude,Not relevant to the research question/topic,omission multimodal therapy older,Omission of multimodal therapy in older adults with high-risk breast cancer
+1117,TA,exclude,Not relevant to the research question/topic,mammography screening legislation states,Variability in mammography screening legislation across the States
+1118,TA,exclude,Not relevant to the research question/topic,opioid incident cancer SEER-Medicare,"The association of prescription opioid use with incident cancer: A Surveillance,  Epidemiology, and End Results-Medicare population-based case-control study"
+1119,TA,exclude,Not relevant to the research question/topic,cancer prevalence disparities Medicaid,"Disparities in prevalence rates for lung, colorectal, breast, and prostate cancers in medicaid"
+1120,TA,exclude,Not relevant to the research question/topic,early detection rural/urban California stage,Early cancer detection among rural and urban californians
+1121,TA,exclude,Not relevant to the research question/topic,screening prevalence USAPI,"Breast, cervical, and colorectal cancer screening prevalence in the US-Affiliated  Pacific Islands"
+1122,TA,exclude,Not a US population-based/registry study,BC mortality trends Americas/Australasia,Trends and predictions to 2020 in breast cancer mortality: Americas and Australasia
+1123,TA,exclude,Not relevant to the research question/topic,neighborhood deprivation reconstruction complications,Neighborhood Deprivation is Associated With Increased Postoperative Complications After Implant-Based Breast Reconstruction
+1124,TA,exclude,Not relevant to the research question/topic,Native Hawaiian family capacity intervention,Building family capacity for native Hawaiian women with breast cancer
+1125,TA,exclude,Not relevant to the research question/topic,basal cell skin cancer other cancers,Association of basal cell skin cancers with other cancers (United States)
+1126,TA,exclude,Not relevant to the research question/topic,travel G-CSF febrile neutropenia,Risks and consequences of travel burden on prophylactic granulocyte colony-stimulating factor administration and incidence of febrile neutropenia in an aged Medicare population
+1127,TA,exclude,Not relevant to the research question/topic,mammography use trends 2000-2006,Recent trends in U.S. mammography use from 2000-2006: a population-based  analysis
+1128,TA,exclude,Not relevant to the research question/topic,LCIS incidence/management SEER,Trends in incidence and management of lobular carcinoma in situ: A population-based analysis
+1129,TA,exclude,Not relevant to the research question/topic,COVID treatment delays survey,Patient-reported treatment delays in breast cancer care during the COVID-19 pandemic
+1130,TA,exclude,Not relevant to the research question/topic,testosterone aggressive prostate cancer,Testosterone treatment and the risk of aggressive prostate cancer in men with low testosterone levels
+1131,TA,exclude,Not relevant to the research question/topic,incident cancer subsequent stroke,Association between incident cancer and subsequent stroke
+1132,TA,exclude,Not relevant to the research question/topic,housing status cancer screening veterans,Housing Status and Cancer Screening in US Veterans
+1133,TA,exclude,Not relevant to the research question/topic,IGF-1 soy seaweed supplements,Serum IGF-1 concentrations change with soy and seaweed supplements in healthy postmenopausal American women
+1134,TA,exclude,Not relevant to the research question/topic,community perspectives Wisconsin qualitative,Community and Research Perspectives on Cancer Disparities in Wisconsin
+1135,TA,exclude,Not relevant to the research question/topic,geospatial BC mortality NC,Geospatial Associations between Female Breast Cancer Mortality Rates and Environmental Socioeconomic Indicators for North Carolina
+1136,TA,exclude,Not relevant to the research question/topic,rural reconstruction WV,Disparities in Rural Breast Cancer Care: Factors Affecting Choice of Breast Reconstruction in a West Virginia Tertiary Care Hospital
+1137,TA,exclude,Not relevant to the research question/topic,immunotherapy use survival stage IV,Trends in Immunotherapy (IO) Use and Survival Among Patients With High-Incidence Stage IV Cancers Across the United States
+1138,TA,exclude,Not relevant to the research question/topic,reconstruction women 70+ NCDB,Postmastectomy breast reconstruction in women aged 70 and older: An analysis of the National Cancer Database (NCDB)
+1139,TA,exclude,Not relevant to the research question/topic,self-rated health survivors,Estimated Effects of Potential Interventions to Prevent Decreases in Self-Rated Health Among Breast Cancer Survivors
+1140,TA,exclude,Not relevant to the research question/topic,SRS vs WBRT brain mets,Stereotactic Radiosurgery Versus Whole Brain Radiation Therapy: A Propensity Score Analysis and Predictors of Care for Patients With Brain Metastases From Breast Cancer
+1141,TA,exclude,Not relevant to the research question/topic,BC mortality young women 1970-2008,"Health and economic impact of breast cancer mortality in young women, 1970-2008"
+1142,TA,exclude,Not relevant to the research question/topic,BCCEDP Ohio outcomes,"The Breast and Cervical Cancer Early Detection Program, Medicaid, and breast cancer outcomes among Ohio's underserved women"
+1143,TA,exclude,Not a US population-based/registry study,miRNA Lebanese BC,microRNA Expression in Ethnic Specific Early Stage Breast Cancer: an Integration and Comparative Analysis
+1144,TA,exclude,Not relevant to the research question/topic,genetic variation admixed Hispanic/NHW risk,"Genetic variation in genes involved in hormones, inflammation and energetic factors and breast cancer risk in an admixed population"
+1145,TA,exclude,Not relevant to the research question/topic,BC mortality same-sex partners NHIS,"Risk of breast cancer mortality among women cohabiting with same sex partners: Findings from the national health interview survey, 1997-2003"
+1146,TA,exclude,Not relevant to the research question/topic,Idaho NBCCEDP survival,"Breast cancer stage, surgery, and survival statistics for Idaho's National Breast and Cervical Cancer Early Detection Program population, 2004-2012"
+1147,TA,exclude,Not relevant to the research question/topic,familial risk HBOC screening Nevada,Screening Familial Risk for Hereditary Breast and Ovarian Cancer
+1148,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ASCO clinical cancer advances 2008 report,"Clinical cancer advances 2008: major research advances in cancer treatment,  prevention, and screening--a report from the American Society of Clinical Oncology"
+1149,TA,exclude,Not relevant to the research question/topic,endometrial cancer risk factors NIH-AARP,Endometrial cancer risk factors by 2 main histologic subtypes: the NIH-AARP Diet  and Health Study
+1150,TA,exclude,Not relevant to the research question/topic,screening deprivation later-stage Appalachia,"Breast cancer screening, area deprivation, and later-stage breast cancer in appalachia: Does geography matter?"
+1151,TA,exclude,Not relevant to the research question/topic,BMI reconstruction complications,The Effects of Body Mass Index on Postoperative Complications in Patients  Undergoing Autologous Free Flap Breast Reconstruction
+1152,TA,exclude,Not relevant to the research question/topic,cancer prevention lesbians,Cancer prevention and screening behaviors in lesbians
+1153,TA,exclude,Not relevant to the research question/topic,BC risk/screening sexual minority NHIS,"Breast Cancer Risk, Screening, and Prevalence Among Sexual Minority Women: An Analysis of the National Health Interview Survey"
+1154,TA,exclude,Not relevant to the research question/topic,sexual assault physical health,Sexual assault and physical health: Findings from a population-based study of older adults
+1155,TA,exclude,Not relevant to the research question/topic,aspirin VTE cancer NIS,Aspirin Is Associated With Reduced Rates of Venous Thromboembolism in Older Patients With Cancer
+1156,TA,exclude,Not relevant to the research question/topic,radiologic technologists cohort SIR,"Cancer incidence in the U.S. radiologic technologists health study, 1983-1998"
+1157,TA,exclude,Not relevant to the research question/topic,ADI BC outcomes WNY,Area deprivation index and breast cancer outcomes among patients in Western New York
+1158,TA,exclude,Not relevant to the research question/topic,gender-affirming chest reconstruction,"Nationwide Estimates of Gender-Affirming Chest Reconstruction in the United  States, 2016-2019"
+1159,TA,exclude,Not relevant to the research question/topic,PFAS phenols NHANES cancer,"Exploratory profiles of phenols, parabens, and per- and poly-fluoroalkyl substances among NHANES study participants in association with previous cancer diagnoses"
