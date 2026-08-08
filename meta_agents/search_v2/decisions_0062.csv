@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3660,exclude,"Editorials, commentaries, letters, or conference abstracts",erratum CBE screening Mumbai
+3661,exclude,Not relevant to the research question/topic,tamoxifen adherence men SEER-Medicare
+3662,include,,Incidence trends leading cancers AIAN 2012-2016 vs NHW
+3663,exclude,Not relevant to the research question/topic,DDE DDT survival Carolina BC Study
+3664,exclude,Not relevant to the research question/topic,hormonal therapies cardiovascular AHA statement
+3665,exclude,Not relevant to the research question/topic,AF cancer subtypes NIS
+3666,exclude,Not a US population-based/registry study,genetic ancestry BC Colombia
+3667,exclude,Not a US population-based/registry study,estrogen exposure BC subtypes Mexico
+3668,exclude,"Editorials, commentaries, letters, or conference abstracts",USPSTF mammography dissenting view
+3669,exclude,Not a US population-based/registry study,TNBC Chile Latin America
+3670,exclude,"Editorials, commentaries, letters, or conference abstracts",insights from outside BJOG
+3671,exclude,"Editorials, commentaries, letters, or conference abstracts",cancer progress priorities breast
+3672,exclude,Not relevant to the research question/topic,bibliometric robotic surgery BC
+3673,exclude,Not relevant to the research question/topic,antidiabetic medication BC survival Medicare
+3674,exclude,Not relevant to the research question/topic,fertility preservation race NYC
+3675,exclude,Not relevant to the research question/topic,red/processed meat CRC Sister Study
+3676,exclude,Not relevant to the research question/topic,SPM after lymphoma SEER
+3677,exclude,Not relevant to the research question/topic,thyroid disorder BC WHI
+3678,exclude,Not a US population-based/registry study,high-cost drugs BC Latin America
+3679,exclude,Not a US population-based/registry study,ethnoracial BC staging Brazil
+3680,exclude,Not relevant to the research question/topic,lung cancer mortality BC SEER
+3681,exclude,Not relevant to the research question/topic,genetic counseling Latina BC FL PR
+3682,exclude,Not relevant to the research question/topic,AI deep learning BC screening
+3683,exclude,Not relevant to the research question/topic,endocrine therapy initiation BC
+3684,exclude,Not relevant to the research question/topic,SPM melanoma in situ SEER
+3685,exclude,Not relevant to the research question/topic,germline predisposition mutations AA BC
+3686,exclude,Not relevant to the research question/topic,de novo vs secondary APL SEER
+3687,exclude,Not relevant to the research question/topic,epidemiology of breast cancer book chapter
+3688,exclude,Not relevant to the research question/topic,racial disparities TNBC mortality stage treatment SEER
+3689,exclude,Not relevant to the research question/topic,gender disparity BC veteran male vs female
+3690,exclude,Not relevant to the research question/topic,cancer aging health characteristics
+3691,exclude,Not relevant to the research question/topic,metastatic BC transgender case
+3692,exclude,Not relevant to the research question/topic,ruxolitinib capecitabine trial
+3693,exclude,Not relevant to the research question/topic,cancer-directed therapy hospice AIAN
+3694,exclude,"Editorials, commentaries, letters, or conference abstracts",Black women denser breast tissue news
+3695,exclude,Not relevant to the research question/topic,BC survival Hispanic country of origin SEER
+3696,exclude,Not relevant to the research question/topic,BC epidemiology risk factors review
+3697,exclude,Not relevant to the research question/topic,innate immune variants disparities breast prostate
+3698,exclude,Not relevant to the research question/topic,redlining mortgage BC survival ecological
+3699,exclude,Not relevant to the research question/topic,protecting confidentiality registry geography
+3700,exclude,Not relevant to the research question/topic,breast implants mammogram outcomes
+3701,exclude,Not relevant to the research question/topic,BC subtypes prognosis SEER
+3702,exclude,Not a US population-based/registry study,cancer incidence mortality Quito Ecuador
+3703,exclude,Not relevant to the research question/topic,targeting CSC TNBC book chapter
+3704,exclude,Not relevant to the research question/topic,Un Abrazo Hispanic co-survivors
+3705,exclude,Not a US population-based/registry study,phyllodes tumor Hispanic Colombia
+3706,exclude,Not relevant to the research question/topic,patient tumor characteristics BC care survival SEER
+3707,exclude,Not relevant to the research question/topic,breast cancer among Asian Americans book chapter review
+3708,exclude,Not relevant to the research question/topic,docetaxel diffusion prostate SEER-Medicare
+3709,exclude,Not relevant to the research question/topic,pretransplant malignancy heart transplant
+3710,exclude,Not relevant to the research question/topic,breast cancer in lymphoma survivors chapter
+3711,exclude,Not relevant to the research question/topic,HER2 disparities luminal subtypes distribution
+3712,exclude,Not relevant to the research question/topic,HER2 race mastectomy rates SEER
+3713,include,,Cancer incidence Filipinos USA and Philippines SEER
+3714,exclude,Not relevant to the research question/topic,TNBC biologic demographic social review
+3715,exclude,Not relevant to the research question/topic,sociodemographic BC subtypes New Jersey case-only
+3716,exclude,Not relevant to the research question/topic,depression treatment elderly cancer SEER-Medicare
+3717,exclude,Not a US population-based/registry study,genetic ancestry DNA methylation Uruguay
+3718,exclude,Not relevant to the research question/topic,genome-driven oncology benefit estimate
+3719,exclude,Not relevant to the research question/topic,rural health accessibility cancer Native American
