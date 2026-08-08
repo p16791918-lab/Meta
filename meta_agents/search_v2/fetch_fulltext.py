@@ -197,10 +197,29 @@ def main():
         w.writeheader()
         w.writerows(rows)
 
+    # Records WITHOUT auto-retrieved PMC full text -> manual institutional download.
+    manual = [r for r in rows if r["source"] != "pmc"]
+    manual_path = os.path.join(HERE, "manual_download_needed.csv")
+    with open(manual_path, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["record_id", "year", "title", "doi",
+                                          "doi_url", "pmid", "oa_url", "source"])
+        w.writeheader()
+        for r in manual:
+            w.writerow({
+                "record_id": r["record_id"], "year": r["year"], "title": r["title"],
+                "doi": r["doi"],
+                "doi_url": ("https://doi.org/%s" % r["doi"]) if r["doi"] else "",
+                "pmid": r["pmid"], "oa_url": r["oa_url"], "source": r["source"],
+            })
+
     from collections import Counter
     print("\n=== coverage ===")
     for k, v in Counter(r["source"] for r in rows).most_common():
         print("  %4d  %s" % (v, k))
+    print("\nauto-retrieved (PMC full text): %d" % sum(1 for r in rows if r["source"] == "pmc"))
+    print("MANUAL download needed        : %d  -> %s" % (len(manual), manual_path))
+    print("  (open each doi_url with institutional access; %d have an OA link already)"
+          % sum(1 for r in manual if r["oa_url"]))
     print("full text saved to: %s/" % OUTDIR)
     print("coverage log: %s" % COVERAGE)
 

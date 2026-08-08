@@ -31,8 +31,14 @@ python3 ft_screen_template.py
   article is open-access.
 - `fulltext_coverage.csv` — per record: pmid/doi/pmcid, retrieval `source`
   (`pmc` / `unpaywall-oa-link` / `no-oa-full-text` / `none`), char count, `oa_url`.
-  Paywalled records show a `no-oa-full-text` source; open their `doi` with
-  institutional access.
+- `manual_download_needed.csv` — **the manual worklist**: every record the fetch
+  could NOT pull as PMC full text, with a ready `doi_url`. Work through these with
+  institutional access; some already carry an `oa_url` (free copy) to try first.
+- `download_links.csv` — pre-generated (already committed) link sheet for ALL 242
+  (`doi_url`, `pubmed_url`) so manual retrieval can start before/independently of
+  the Codespace run. Record 2038 has no DOI/PMID — find it by title:
+  "Incidence trends in triple-negative breast cancer among women in the United
+  States from 2010 to 2019 by race/ethnicity".
 - `ft_screening_log.csv` — the working sheet. For each record the author fills:
   - `ft_decision` = include | exclude
   - `ft_reason` (when excluding) = one of, EXACTLY:
