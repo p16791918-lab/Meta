@@ -2539,3 +2539,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 2537,TA,include,,Cancer Statistics for Hispanics/Latinos 2018,"Cancer Statistics for Hispanics/Latinos, 2018"
 2538,TA,exclude,Not relevant to the research question/topic,rural-urban cancer incidence US NAACCR,Rural-Urban differences in cancer incidence and trends in the United States
 2539,TA,exclude,Not a US population-based/registry study,GBD 29 cancer groups,"Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life-years for 29 cancer groups, 1990 to 2016 a systematic analysis for the global burden of disease study global burden of disease cancer collaboration"
+2540,TA,exclude,Not a US population-based/registry study,gyn misinformation tweets China,Nature and Diffusion of Gynecologic Cancer-Related Misinformation on Social Media: Analysis of Tweets
+2541,TA,exclude,Not relevant to the research question/topic,second primary lung after BC SEER,"Second primary lung cancer after breast cancer: A population-based study of 6,269 women"
+2542,TA,exclude,Not a US population-based/registry study,BRONJ survey Japan,National Survey on Bisphosphonate-Related Osteonecrosis of the Jaws in Japan
+2543,TA,exclude,Not a US population-based/registry study,FN antimicrobial Filipino,Compliance with guideline-based empiric antimicrobial therapy for febrile neutropenia in adult filipino cancer patients and their effect on outcomes
+2544,TA,exclude,Not relevant to the research question/topic,BRCA diverse populations review,Mutations in context: implications of BRCA testing in diverse populations
+2545,TA,exclude,Not relevant to the research question/topic,ER status CBC after DCIS SEER,Estrogen-receptor status and risk of contralateral breast cancer following DCIS
+2546,TA,exclude,Not relevant to the research question/topic,subcutaneous trastuzumab SafeHer,Adjuvant Subcutaneous Trastuzumab for HER2-Positive Early Breast Cancer: Subgroup Analyses of Safety and Active Medical Conditions by Body Weight in the SafeHer Phase III Study
+2547,TA,exclude,Not relevant to the research question/topic,second cancers Hodgkin SEER,Trends in the Risks of Secondary Cancers in Patients With Hodgkin Lymphoma
+2548,TA,include,,Cancer incidence Hmong Minnesota 2000-2012,"Cancer patterns in Hmong in Minnesota, 2000 to 2012"
+2549,TA,exclude,Not a US population-based/registry study,pancreatic metastases Japan,Analysis of Prognostic Factors in Pancreatic Metastases: A Multicenter Retrospective Analysis
+2550,TA,exclude,Not relevant to the research question/topic,CPM psychosocial outcomes,Prospective study of psychosocial outcomes of having contralateral prophylactic mastectomy among women with nonhereditary breast cancer
+2551,TA,exclude,Not a US population-based/registry study,case-control BC Malaysia,"A case-control study of breast cancer risk factors in 7,663 women in Malaysia"
+2552,TA,exclude,Not relevant to the research question/topic,second neoplasm Hodgkin,Risk of a second neoplasm on long-term survivors of Hodgkin's lymphoma
+2553,TA,exclude,Not a US population-based/registry study,BMI cancer China T2DM,Body mass index and cancer risk among Chinese patients with type 2 diabetes mellitus
+2554,TA,exclude,Not relevant to the research question/topic,acupressure post-op pain trial,Acupressure for Preventing Post-Operative Pain and Opioid Use Among Breast Cancer Patients Receiving Surgery
+2555,TA,exclude,Not a US population-based/registry study,8-isoprostane German ESTHER,"Urinary 8-isoprostane levels and occurrence of lung, colorectal, prostate, breast and overall cancer: Results from a large, population-based cohort study with 14 years of follow-up"
+2556,TA,exclude,Not a US population-based/registry study,occupational inequalities Japan,Occupational inequalities in female cancer incidence in Japan: Hospital-based matched case-control study with occupational class
+2557,TA,exclude,Not a US population-based/registry study,HBV extra-hepatic cancers China,HBV infection and extra-hepatic cancers in adolescents and 20s: A retrospective study in China
+2558,TA,exclude,Not relevant to the research question/topic,hormonal contraceptives pathology DoD CBCP,The Impact of Hormonal Contraceptives on Breast Cancer Pathology
+2559,TA,exclude,Not a US population-based/registry study,CHF anthracycline/trastuzumab Korea,Incidence and risk factors for congestive heart failure in patients with early breast cancer who received anthracycline and/or trastuzumab: a big data analysis of the Korean Health Insurance Review and Assessment service database
+2560,TA,exclude,Not a US population-based/registry study,diabetes after cancer Korea,Incidence of diabetes after cancer development a Korean national cohort study
+2561,TA,exclude,Not relevant to the research question/topic,whole grain cancer Framingham,Associations of Whole and Refined Grain Intakes with Adiposity-Related Cancer Risk in the Framingham Offspring Cohort (1991–2013)
+2562,TA,exclude,Not a US population-based/registry study,incidence/mortality Trinidad Tobago,Cancer incidence and mortality rates and trends in Trinidad and Tobago
+2563,TA,exclude,Not a US population-based/registry study,SM CML TKI Japan,Incidence and outcome of second malignancies in patients with chronic myeloid leukemia during treatment with tyrosine kinase inhibitors
+2564,TA,exclude,Not a US population-based/registry study,BC prevalence SES South Korea,Higher breast cancer prevalence associated with higher socioeconomic status in the South Korean population; Has it resulted from overdiagnosis?
+2565,TA,exclude,Not relevant to the research question/topic,breast metastases RCC case,Breast metastases from renal cell carcinoma in a male patient: A rare case and review of the literature
+2566,TA,exclude,Not relevant to the research question/topic,bone metastasis prostate SEER,The homogeneous and heterogeneous risk factors for the morbidity and prognosis of bone metastasis in patients with prostate cancer
+2567,TA,exclude,Not relevant to the research question/topic,botulinum CIPN trial,Botulinum Toxin A for the Treatment of Chemotherapy Induced Peripheral Neuropathy
+2568,TA,exclude,Not a US population-based/registry study,pegteograstim Korea trial,A Phase II Study to Evaluate the Safety and Efficacy of Pegteograstim in Korean Breast Cancer Patients Receiving Dose-dense Doxorubicin/Cyclophosphamide
+2569,TA,exclude,Not a US population-based/registry study,metastatic spine 3 continents,Metastatic Spine Tumor Epidemiology: Comparison of Trends in Surgery Across Two Decades and Three Continents
+2570,TA,exclude,Not a US population-based/registry study,ethnic disparity BC survival Thailand,Ethnic disparity in breast cancer survival in southern Thai women
+2571,TA,exclude,Not relevant to the research question/topic,PALINA palbociclib AAW BEN,PALINA: A phase II safety study of palbociclib in combination with letrozole or fulvestrant in African American women with hormone receptor positive HER2 negative advanced breast cancer
+2572,TA,exclude,Not a US population-based/registry study,chest wall recurrence Korea,Chest wall recurrence in pT1-2N0-1 breast cancer patients after mastectomy without radiotherapy
+2573,TA,exclude,Not relevant to the research question/topic,gender minority cancer primary site NAACCR,Frequency and distribution of primary site among gender minority cancer patients: An analysis of U.S. national surveillance data
+2574,TA,exclude,Not a US population-based/registry study,risk prediction Nigeria,Development of a breast cancer risk prediction model for women in Nigeria
+2575,TA,exclude,Not a US population-based/registry study,metabolites BC Korea,Analysis of metabolites and metabolic pathways in breast cancer in a Korean prospective cohort: the Korean Cancer Prevention Study-II
+2576,TA,exclude,Not relevant to the research question/topic,video counseling HPV trial,Video-assisted Counseling for Human Papillomavirus Vaccination: A Pilot Study
+2577,TA,exclude,Not relevant to the research question/topic,feedback device weight loss trial,What is the Effect of a Feedback Device on Weight Loss and Metabolic Measurements in Obese People With the Metabolic Syndrome?
+2578,TA,exclude,Not a US population-based/registry study,intracystic papillary China,Intracystic papillary carcinoma of the breast: Experience of a major Chinese cancer center
+2579,TA,exclude,Not a US population-based/registry study,BMI cancer China T2D Ningbo,Does body mass index and adult height influence cancer incidence among Chinese living with incident type 2 diabetes?
+2580,TA,exclude,Not a US population-based/registry study,Lynch syndrome Japan,Tumor development in Japanese patients with Lynch syndrome
+2581,TA,exclude,Not relevant to the research question/topic,Gail model meta-analysis,Assessment of performance of the Gail model for predicting breast cancer risk: A systematic review and meta-analysis with trial sequential analysis
+2582,TA,exclude,Not relevant to the research question/topic,BRCA testing decision support trial,Decision Support for BRCA Testing in Ethnically Diverse Women
+2583,TA,exclude,Not a US population-based/registry study,BRCA1 methylation ovarian Norway,White blood cell BRCA1 promoter methylation status and ovarian cancer risk
+2584,TA,exclude,Not a US population-based/registry study,falls CNS drugs China,Research of falls risk of taking central nervous system drugs in oncology inpatients
+2585,TA,exclude,Not a US population-based/registry study,adolescent obesity male BC Israel,"Adolescent obesity and adult male breast cancer in a cohort of 1,382,093 men"
+2586,TA,exclude,Not relevant to the research question/topic,false-positive mammography Boston,False-positive mammography and its association with health service use
+2587,TA,exclude,Not a US population-based/registry study,cost-effectiveness screening Vietnam,Cost-effectiveness of breast cancer screening using mammography in Vietnamese women
+2588,TA,exclude,Not relevant to the research question/topic,ARIC cancer infrastructure,Enhancing the infrastructure of the atherosclerosis risk in Communities (ARIC) study for cancer epidemiology research: Aric cancer
+2589,TA,exclude,Not a US population-based/registry study,disparities cancer trials worldwide,"Disparities in breast, lung, and cervical cancer trials worldwide"
+2590,TA,exclude,Not a US population-based/registry study,induced abortion South Asia meta-analysis,Induced abortion as an independent risk factor for breast cancer: a systematic review and meta-analysis of studies on south asian women
+2591,TA,exclude,Not relevant to the research question/topic,metabolic profiles TNBC AA,Metabolic profiles of triple-negative and luminal A breast cancer subtypes in African-American identify key metabolic differences
+2592,TA,exclude,Not a US population-based/registry study,pegfilgrastim Korea observational,"An Observational, Prospective, Open Label, Multicenter Study to Evaluate the Safety and Efficacy of Pegfilgrastim (Neulasta®) as Secondary Prophylaxis to Decrease the Incidence of Febrile Neutropenia in Korean Female Patients With Breast Cancer."
+2593,TA,exclude,Not relevant to the research question/topic,personal care product BC Sister Study,Associations between personal care product use patterns and breast cancer risk among white and black women in the sister study
+2594,TA,exclude,Not relevant to the research question/topic,second primary ALL SEER,Second primary acute lymphoblastic leukemia in adults: a SEER analysis of incidence and outcomes
+2595,TA,exclude,Not a US population-based/registry study,247 GWAS temperature adaptation,Combination of 247 genome-wide association studies reveals high cancer risk as a result of evolutionary adaptation
+2596,TA,exclude,Not a US population-based/registry study,urban-rural BC China,Urban rural disparity in female breast cancer incidence rate in China and the increasing trend in parallel with socioeconomic development and urbanization in a rural setting
+2597,TA,exclude,Not relevant to the research question/topic,CSF decision support claims,Real-world impact of a decision support tool on colony-stimulating factor use and chemotherapy-induced febrile neutropenia among patients with breast cancer
+2598,TA,exclude,Not a US population-based/registry study,cancer China diabetes,Cancer risk in chinese diabetes patients: A retrospective cohort study based on management data
+2599,TA,exclude,Not a US population-based/registry study,BC Latin America map,Breast Cancer in Latin America: A Map of the Disease in the Region
