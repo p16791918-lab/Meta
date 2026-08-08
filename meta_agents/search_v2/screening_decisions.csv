@@ -919,3 +919,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 917,TA,exclude,Not relevant to the research question/topic,tamoxifen side effects by race,Profiles of tamoxifen-related side effects by race and smoking status in women with breast cancer
 918,TA,exclude,Not relevant to the research question/topic,abuse victimization BWHS,Abuse victimization and risk of breast cancer in the Black Women's Health Study: Abuse and breast cancer risk in black women
 919,TA,exclude,Not relevant to the research question/topic,ovariectomy/hysterectomy reproductive risk,"Breast cancer risk and ovariectomy, hysterectomy, and tubal sterilization in the  women's contraceptive and reproductive experiences study"
+920,TA,exclude,Not relevant to the research question/topic,radiotherapy CVD laterality survivors,Long-term safety of radiotherapy and breast cancer laterality in older survivors
+921,TA,exclude,Not relevant to the research question/topic,weight gain WNY case-control,"Lifetime adult weight gain, central adiposity, and the risk of pre- and  postmenopausal breast cancer in the Western New York exposures and breast cancer study"
+922,TA,exclude,Not relevant to the research question/topic,organochlorine recurrence Long Island,"Adipose concentrations of organochlorine compounds and breast cancer recurrence  in Long Island, New York"
+923,TA,exclude,Not relevant to the research question/topic,exosomal annexin A2 TNBC biomarker,Serum exosomal-annexin a2 is associated with african-American triple-negative breast cancer and promotes angiogenesis
+924,TA,exclude,Not relevant to the research question/topic,cruciferous vegetable survival Pathways,Associations of Cruciferous Vegetable Intake with Breast Cancer Survival in a Diverse Population in the Pathways Study
+925,TA,exclude,Not relevant to the research question/topic,family history risk BWHS,Family history of cancer and risk of breast cancer in the Black Women's Health Study
+926,TA,exclude,Not relevant to the research question/topic,endometriosis familial risk Yale,The familial risk of breast cancer in women with endometriosis from Yale series
+927,TA,exclude,Not relevant to the research question/topic,placental characteristics reduced risk,Placental characteristics and reduced risk of maternal breast cancer
+928,TA,exclude,Not relevant to the research question/topic,ACE inhibitor cancer NHANES,Cross-sectional associations between angiotensin-converting enzyme inhibitor use and cancer diagnosis in US adults
+929,TA,exclude,Not relevant to the research question/topic,chemo adherence delays AA,Predictors of Adherence and Treatment Delays among African American Women Recommended to Receive Breast Cancer Chemotherapy
+930,TA,exclude,Not relevant to the research question/topic,AYA cancer survival SEER,Adolescent and young adult cancer survival
+931,TA,exclude,Not relevant to the research question/topic,ethnic plasma estrogen levels,Ethnic differences in post-menopausal plasma oestrogen levels: High oestrone levels in Japanese-American women despite low weight
+932,TA,exclude,Not relevant to the research question/topic,environmental chemicals Alaska Native case-control,Case-control study of breast cancer and exposure to synthetic environmental  chemicals among Alaska Native women
+933,TA,exclude,Not relevant to the research question/topic,Camp Lejeune water male BC,"Evaluation of contaminated drinking water and male breast cancer at Marine Corps  Base Camp Lejeune, North Carolina: a case control study"
+934,TA,exclude,Not relevant to the research question/topic,four-quadrant random sections,Utility of four-quadrant random sections in mastectomy specimens
+935,TA,exclude,Not relevant to the research question/topic,African ancestry gene expression TNBC,African Ancestry–Associated Gene Expression Profiles in Triple-Negative Breast Cancer Underlie Altered Tumor Biology and Clinical Outcome in Women of African Descent
+936,TA,exclude,Not relevant to the research question/topic,mammography use AA BWHS,Recent mammography use among African-American women.
+937,TA,exclude,Not relevant to the research question/topic,fractures vs CVD/BC WHI,Incidence of fractures compared to cardiovascular disease and breast cancer: The Women's Health Initiative Observational Study
+938,TA,exclude,Not relevant to the research question/topic,A NULIFE recruitment strategies,Strategies for recruitment of healthy premenopausal women into the African American nutrition for life (A NULIFE) study
+939,TA,exclude,Not relevant to the research question/topic,GIS early-detection disparities Dane County,Identifying geographic disparities in the early detection of breast cancer using  a geographic information system
+940,TA,exclude,Not relevant to the research question/topic,organochlorine pesticides Long Island,"Breast cancer risk in relation to adipose concentrations of organochlorine  pesticides and polychlorinated biphenyls in Long Island, New York"
+941,TA,exclude,Not relevant to the research question/topic,mammography adherence RCT AA,Mammography Adherence in African-American Women: Results of a Randomized Controlled Trial
+942,TA,exclude,Not relevant to the research question/topic,late detection MN counties spatial,Late detection of breast and colorectal cancer in Minnesota counties: an  application of spatial smoothing and clustering
+943,TA,exclude,Not relevant to the research question/topic,family history prostate/breast AA men,Association between family history of prostate and breast cancer among African-American men with prostate cancer
+944,TA,exclude,Not relevant to the research question/topic,intervention cost-benefit AA,Benefits and costs of interventions to improve breast cancer outcomes in African American women
+945,TA,exclude,Not relevant to the research question/topic,fracture risk survivors WHI,Fracture risk among breast cancer survivors: results from the Women's Health  Initiative Observational Study
+946,TA,exclude,Not a US population-based/registry study,Philippines Metro Manila epidemiology,"Epidemiology and clinicopathology of breast cancer in Metro Manila and Rizal Province, Philippines"
+947,TA,exclude,Not relevant to the research question/topic,qualitative chemo older women,"A qualitative study of factors affecting chemotherapy use in older women with breast cancer: Barriers, promoters, and implications for intervention"
+948,TA,exclude,Not relevant to the research question/topic,IGFBP variation African descent,Genetic variation in IGFBP2 and IGFBP5 is associated with breast cancer in populations of African descent
+949,TA,exclude,Not relevant to the research question/topic,VDR polymorphisms miRNA AA,Vitamin D receptor polymorphisms and associated miRNAs in the development of breast cancer in African American women
+950,TA,exclude,Not a US population-based/registry study,Mongolia incidence,Breast cancer incidence in Mongolia
+951,TA,exclude,Not relevant to the research question/topic,false positive mammograms DCE,False positive mammograms and detection controlled estimation
+952,TA,exclude,Not relevant to the research question/topic,glucocorticoid receptor expression,Glucocorticoid receptor expression in breast cancer associates with older patient age
+953,TA,exclude,Not relevant to the research question/topic,nutrition/PA guidelines WHI,"Nutrition and physical activity cancer prevention guidelines, cancer risk, and mortality in the women's health initiative"
+954,TA,exclude,Not relevant to the research question/topic,male BC subtype distribution by race California,Male breast cancer according to tumor subtype and race: A population-based study
+955,TA,include,,Asian Indian/Pakistani SEER cancer incidence rates,Cancer among Asian Indians/Pakistanis living in the United States: Low incidence and generally above average survival
+956,TA,exclude,Not relevant to the research question/topic,AMBER etiology subtypes AA,A collaborative study of the etiology of breast cancer subtypes in African American women: The AMBER consortium
+957,TA,exclude,Not relevant to the research question/topic,SOGI cancer screening BRFSS,Modifiers of Cancer Screening Prevention Among Sexual and Gender Minorities in  the Behavioral Risk Factor Surveillance System
+958,TA,exclude,Not relevant to the research question/topic,SLE autoantibody BC protection,Association of systemic lupus erythematosus autoantibody diversity with breast cancer protection
+959,TA,exclude,Not relevant to the research question/topic,recurrence patterns AA/EA,Distinctions in breast tumor recurrence patterns post-therapy among racially distinct populations
+960,TA,exclude,Not relevant to the research question/topic,SULT2B1b subcellular localization,Sulfotransferase 2B1b in human breast: Differences in subcellular localization in African American and Caucasian women
+961,TA,exclude,Not relevant to the research question/topic,atrazine Kentucky ecological,Regional assessment of atrazine exposure and incidence of breast and ovarian cancers in Kentucky
+962,TA,exclude,Not relevant to the research question/topic,Michigan stage/mortality trends by race,"Trends in Breast Cancer Stage and Mortality in Michigan (1992-2009) by Race, Socioeconomic Status, and Area Healthcare Resources"
+963,TA,exclude,Not relevant to the research question/topic,nonkeratinocyte skin cancer after RT SEER,Incidence of Nonkeratinocyte Skin Cancer after Breast Cancer Radiation Therapy
+964,TA,exclude,Not relevant to the research question/topic,cancer trial enrollment reimbursement,Cancer trial enrollment after state-mandated reimbursement
+965,TA,exclude,Not relevant to the research question/topic,cardiometabolic risk Pathways Heart,Risk of Cardiometabolic Risk Factors in Women with and Without a History of Breast Cancer: The Pathways Heart Study
+966,TA,exclude,Not relevant to the research question/topic,thyroid disorders risk case-control,Do thyroid disorders increase the risk of breast cancer?
+967,TA,exclude,Not relevant to the research question/topic,metformin/TTh hormone cancers men,"Metformin and testosterone replacement therapy inversely associated with hormone-associated cancers (prostate, colorectal and male breast cancers) among older White and Black men"
+968,TA,include,,Annual Report to the Nation 1975-2006 incidence by race,"Annual report to the nation on the status of cancer, 1975-2006, featuring  colorectal cancer trends and impact of interventions (risk factors, screening, and treatment) to reduce future rates"
+969,TA,exclude,Not a US population-based/registry study,subtype/survival Indigenous Peru,Breast cancer subtype and survival among Indigenous American women in Peru
+970,TA,exclude,Not relevant to the research question/topic,hereditary VUS AA women,Hereditary variants of unknown significance in African American women with breast cancer
+971,TA,exclude,Not relevant to the research question/topic,cancer mortality trends US 1950-1992,"Ethnic differences in cancer mortality trends in the US, 1950-1992"
+972,TA,exclude,Not a US population-based/registry study,risk factors Filipino women Manila,Risk factors for breast cancer among Filipino women in Manila
+973,TA,exclude,Not relevant to the research question/topic,HGF gene somatic mutation,Somatic mutation and functional polymorphism of a novel regulatory element in the  HGF gene promoter causes its aberrant expression in human breast cancer
+974,TA,exclude,Not relevant to the research question/topic,reliability reporting induced abortion,Case-control differences in the reliability of reporting a history of induced  abortion
+975,TA,exclude,Not relevant to the research question/topic,premature cancer mortality California SDOH,"Race and neighborhood social determinants of premature cancer mortality in California adults, 2015–2021"
+976,TA,exclude,Not relevant to the research question/topic,estrone sulfate mammographic density,Increases in serum estrone sulfate level are associated with increased  mammographic density during menopausal hormone therapy
+977,TA,exclude,Not a US population-based/registry study,estrogen-related cancers Taiwan,The emerging epidemic of estrogen-related cancers in young women in a developing Asian country
+978,TA,exclude,Not relevant to the research question/topic,ER-/PR+ characterization,Characterization of estrogen receptor-negative/progesterone receptor-positive breast cancer
+979,TA,exclude,Not a US population-based/registry study,global burden BC 2020/2040 GLOBOCAN,Current and future burden of breast cancer: Global statistics for 2020 and 2040

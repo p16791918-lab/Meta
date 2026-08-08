@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+920,exclude,Not relevant to the research question/topic,radiotherapy CVD laterality survivors
+921,exclude,Not relevant to the research question/topic,weight gain WNY case-control
+922,exclude,Not relevant to the research question/topic,organochlorine recurrence Long Island
+923,exclude,Not relevant to the research question/topic,exosomal annexin A2 TNBC biomarker
+924,exclude,Not relevant to the research question/topic,cruciferous vegetable survival Pathways
+925,exclude,Not relevant to the research question/topic,family history risk BWHS
+926,exclude,Not relevant to the research question/topic,endometriosis familial risk Yale
+927,exclude,Not relevant to the research question/topic,placental characteristics reduced risk
+928,exclude,Not relevant to the research question/topic,ACE inhibitor cancer NHANES
+929,exclude,Not relevant to the research question/topic,chemo adherence delays AA
+930,exclude,Not relevant to the research question/topic,AYA cancer survival SEER
+931,exclude,Not relevant to the research question/topic,ethnic plasma estrogen levels
+932,exclude,Not relevant to the research question/topic,environmental chemicals Alaska Native case-control
+933,exclude,Not relevant to the research question/topic,Camp Lejeune water male BC
+934,exclude,Not relevant to the research question/topic,four-quadrant random sections
+935,exclude,Not relevant to the research question/topic,African ancestry gene expression TNBC
+936,exclude,Not relevant to the research question/topic,mammography use AA BWHS
+937,exclude,Not relevant to the research question/topic,fractures vs CVD/BC WHI
+938,exclude,Not relevant to the research question/topic,A NULIFE recruitment strategies
+939,exclude,Not relevant to the research question/topic,GIS early-detection disparities Dane County
+940,exclude,Not relevant to the research question/topic,organochlorine pesticides Long Island
+941,exclude,Not relevant to the research question/topic,mammography adherence RCT AA
+942,exclude,Not relevant to the research question/topic,late detection MN counties spatial
+943,exclude,Not relevant to the research question/topic,family history prostate/breast AA men
+944,exclude,Not relevant to the research question/topic,intervention cost-benefit AA
+945,exclude,Not relevant to the research question/topic,fracture risk survivors WHI
+946,exclude,Not a US population-based/registry study,Philippines Metro Manila epidemiology
+947,exclude,Not relevant to the research question/topic,qualitative chemo older women
+948,exclude,Not relevant to the research question/topic,IGFBP variation African descent
+949,exclude,Not relevant to the research question/topic,VDR polymorphisms miRNA AA
+950,exclude,Not a US population-based/registry study,Mongolia incidence
+951,exclude,Not relevant to the research question/topic,false positive mammograms DCE
+952,exclude,Not relevant to the research question/topic,glucocorticoid receptor expression
+953,exclude,Not relevant to the research question/topic,nutrition/PA guidelines WHI
+954,exclude,Not relevant to the research question/topic,male BC subtype distribution by race California
+955,include,,Asian Indian/Pakistani SEER cancer incidence rates
+956,exclude,Not relevant to the research question/topic,AMBER etiology subtypes AA
+957,exclude,Not relevant to the research question/topic,SOGI cancer screening BRFSS
+958,exclude,Not relevant to the research question/topic,SLE autoantibody BC protection
+959,exclude,Not relevant to the research question/topic,recurrence patterns AA/EA
+960,exclude,Not relevant to the research question/topic,SULT2B1b subcellular localization
+961,exclude,Not relevant to the research question/topic,atrazine Kentucky ecological
+962,exclude,Not relevant to the research question/topic,Michigan stage/mortality trends by race
+963,exclude,Not relevant to the research question/topic,nonkeratinocyte skin cancer after RT SEER
+964,exclude,Not relevant to the research question/topic,cancer trial enrollment reimbursement
+965,exclude,Not relevant to the research question/topic,cardiometabolic risk Pathways Heart
+966,exclude,Not relevant to the research question/topic,thyroid disorders risk case-control
+967,exclude,Not relevant to the research question/topic,metformin/TTh hormone cancers men
+968,include,,Annual Report to the Nation 1975-2006 incidence by race
+969,exclude,Not a US population-based/registry study,subtype/survival Indigenous Peru
+970,exclude,Not relevant to the research question/topic,hereditary VUS AA women
+971,exclude,Not relevant to the research question/topic,cancer mortality trends US 1950-1992
+972,exclude,Not a US population-based/registry study,risk factors Filipino women Manila
+973,exclude,Not relevant to the research question/topic,HGF gene somatic mutation
+974,exclude,Not relevant to the research question/topic,reliability reporting induced abortion
+975,exclude,Not relevant to the research question/topic,premature cancer mortality California SDOH
+976,exclude,Not relevant to the research question/topic,estrone sulfate mammographic density
+977,exclude,Not a US population-based/registry study,estrogen-related cancers Taiwan
+978,exclude,Not relevant to the research question/topic,ER-/PR+ characterization
+979,exclude,Not a US population-based/registry study,global burden BC 2020/2040 GLOBOCAN
