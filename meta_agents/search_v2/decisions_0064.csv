@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3780,include,,Risk of cancer Asian Americans Kaiser cohort ethnic groups
+3781,exclude,Not relevant to the research question/topic,contralateral BC patterns SEER
+3782,exclude,Not relevant to the research question/topic,cancer screening US 2018 ACS guidelines
+3783,exclude,Not relevant to the research question/topic,cancer stage HIV transplant recipients
+3784,exclude,Not a US population-based/registry study,secular trends BC mortality East Asia US
+3785,exclude,"Editorials, commentaries, letters, or conference abstracts",current climate breast cancer
+3786,exclude,Not relevant to the research question/topic,cancer stage AIAN Medicaid
+3787,exclude,Not relevant to the research question/topic,insurance status demographics tumor site SEER
+3788,exclude,Not relevant to the research question/topic,cancer incidence Medicare ESRD hemodialysis
+3789,exclude,Not relevant to the research question/topic,BC survival molecular subtypes SEER
+3790,exclude,Not relevant to the research question/topic,de novo metastasis BC subtype NCDB
+3791,exclude,Not relevant to the research question/topic,male breast papilloma IDC case
+3792,exclude,Not relevant to the research question/topic,common cancers centenarians SEER
+3793,exclude,Not a US population-based/registry study,GBD mortality 264 causes
+3794,exclude,Not relevant to the research question/topic,menopausal VMS BC risk SWAN
+3795,exclude,Not relevant to the research question/topic,patient navigation BC screening AA RCT
+3796,exclude,Not relevant to the research question/topic,CAC noncardiovascular MESA
+3797,exclude,Not relevant to the research question/topic,brain CNS tumors AYA US
+3798,exclude,Not relevant to the research question/topic,disaggregating Hispanic cancer mortality
+3799,exclude,Not relevant to the research question/topic,lung cancer suicide SEER
+3800,exclude,Not relevant to the research question/topic,nomograms luminal BC survival SEER
+3801,exclude,Not relevant to the research question/topic,squamous cell carcinoma breast SEER rare
+3802,exclude,Not a US population-based/registry study,BC incidence stage survival ethnic South East England
+3803,exclude,"Editorials, commentaries, letters, or conference abstracts",ACS progress cancer deaths groups lag
+3804,exclude,Not relevant to the research question/topic,antidepressants tamoxifen CYP2D6
+3805,exclude,Not relevant to the research question/topic,Black cosmetologists diabetes education
+3806,exclude,Not a US population-based/registry study,sonographic surveillance contralateral BC Asian
+3807,exclude,Not relevant to the research question/topic,familial cancer prevalence CHIS
+3808,exclude,Not a US population-based/registry study,sex steroids mammographic density UK
+3809,exclude,Not a US population-based/registry study,triglyceride statins cancer T2DM Chinese
+3810,exclude,"Editorials, commentaries, letters, or conference abstracts",BC risk genomics metabolomics editorial
+3811,exclude,Not a US population-based/registry study,ethnic mammographic density British
+3812,exclude,"Editorials, commentaries, letters, or conference abstracts",decline incidence midpoint assessment survey
+3813,exclude,Not relevant to the research question/topic,cancer young adults 20-39 overview
+3814,exclude,Not a US population-based/registry study,ESR-alpha polymorphisms BC China
+3815,exclude,Not relevant to the research question/topic,immunity breast prostate model SEER
+3816,exclude,Not relevant to the research question/topic,sex disparities cancer incidence SEER
+3817,exclude,Not relevant to the research question/topic,prognosis ipsilateral recurrence NSABP
+3818,exclude,Not relevant to the research question/topic,gender representation cancer research
+3819,exclude,Not relevant to the research question/topic,survival stage IV BC White Black SEER
+3820,exclude,Not relevant to the research question/topic,Latina health needs central Illinois chapter
+3821,exclude,Not relevant to the research question/topic,BC coverage China US news
+3822,exclude,Not relevant to the research question/topic,new paradigm cancer treatment
+3823,exclude,"Editorials, commentaries, letters, or conference abstracts",EuroEpi NordicEpi 2013 conference
+3824,exclude,Not relevant to the research question/topic,coalition Hmong BC screening
+3825,exclude,Not relevant to the research question/topic,ductal carcinoma in situ book chapter
+3826,exclude,Not relevant to the research question/topic,etiology risk factors book chapter
+3827,exclude,Not relevant to the research question/topic,obesity diabetes ethnic disparities BC Hispanic review
+3828,exclude,Not relevant to the research question/topic,health education internet cancer
+3829,exclude,"Editorials, commentaries, letters, or conference abstracts",cancer leading death US Hispanics survey
+3830,exclude,Not relevant to the research question/topic,light exposure hormonal cancer chapter
+3831,exclude,Not relevant to the research question/topic,dairy meat BC BWHS
+3832,exclude,Not relevant to the research question/topic,ecological UVB vitamin D cancer review
+3833,exclude,Not relevant to the research question/topic,patient navigation BC diagnosis DC
+3834,exclude,Not relevant to the research question/topic,poultry fish cancer NIH-AARP
+3835,exclude,Not relevant to the research question/topic,adenoid cystic breast carcinoma California rare
+3836,exclude,Not relevant to the research question/topic,genistein colitis rat
+3837,exclude,Not relevant to the research question/topic,diabetes physical activity BC Hispanic case-control
+3838,exclude,Not a US population-based/registry study,public-private partnership women cancer Africa
+3839,exclude,Not relevant to the research question/topic,mode of detection DCIS review
