@@ -2599,3 +2599,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 2597,TA,exclude,Not relevant to the research question/topic,CSF decision support claims,Real-world impact of a decision support tool on colony-stimulating factor use and chemotherapy-induced febrile neutropenia among patients with breast cancer
 2598,TA,exclude,Not a US population-based/registry study,cancer China diabetes,Cancer risk in chinese diabetes patients: A retrospective cohort study based on management data
 2599,TA,exclude,Not a US population-based/registry study,BC Latin America map,Breast Cancer in Latin America: A Map of the Disease in the Region
+2600,TA,exclude,Not a US population-based/registry study,FMF cancer Israel,"Familial Mediterranean Fever and Incidence of Cancer: An Analysis of 8,534 Israeli Patients With 258,803 Person-Years"
+2601,TA,include,,Cancer Statistics 2018 US incidence by race,"Cancer statistics, 2018"
+2602,TA,exclude,Not a US population-based/registry study,miRNA age-onset Asian,Differential microRNA expression in breast cancer with different onset age
+2603,TA,exclude,Not relevant to the research question/topic,primary breast DLBCL SEER,Primary breast diffuse large B-cell lymphoma: A populationbased study from 1975 to 2014
+2604,TA,exclude,Not a US population-based/registry study,delays developing countries,Delays in breast cancer detection and treatment in developing countries
+2605,TA,exclude,Not relevant to the research question/topic,induced abortion BC meta-analysis,Induced abortion and breast cancer
+2606,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",APTA conference review,"APTA Combined Sections Meeting, Platform and Poster Research Abstracts"
+2607,TA,exclude,Not relevant to the research question/topic,TGF-beta liver disease chapter,Role of TGF-β in alcohol-induced liver disease
+2608,TA,exclude,Not relevant to the research question/topic,BC synchronous hepatic metastases SEER,Incidence and survival outcomes of breast cancer with synchronous hepatic metastases: A population-based study
+2609,TA,exclude,Not relevant to the research question/topic,cancer residential segregation Massachusetts,Cancer incidence and multilevel measures of residential economic and racial segregation for cancer registries
+2610,TA,include,,SEER BC incidence/survival disparities by age/race/SES 1981-2010,"The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioeconomic status by decade, 1981–2010"
+2611,TA,exclude,Not relevant to the research question/topic,bone metastases bladder SEER,Bone metastases pattern in newly diagnosed metastatic bladder cancer: A population-based study
+2612,TA,exclude,Not a US population-based/registry study,breast cancer cell lines Chinese,Novel cancer cell lines derived from primary breast tumors in Chinese patients
+2613,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",estradiol-progesterone VMS conference paper,A 17β-estradiol-progesterone oral capsule for vasomotor symptoms in postmenopausal women a randomized controlled trial
+2614,TA,exclude,Not a US population-based/registry study,actionable gene TNBC Asian,Actionable gene alterations in an Asian population with triple- negative breast cancer
+2615,TA,exclude,Not a US population-based/registry study,female malignancy mortality Japan/Korea/Singapore,"Temporal trends of common female malignances on breast, cervical, and ovarian cancer mortality in Japan, Republic of Korea, and Singapore: Application of the age-period-cohort model"
+2616,TA,exclude,Not relevant to the research question/topic,radiation angiosarcoma case,Atypical presentation of radiation-associated breast angiosarcoma: A case report and review of literature
+2617,TA,exclude,Not relevant to the research question/topic,population-based cancer survival CONCORD,"Population-based cancer survival in the United States: Data, quality control, and statistical methods"
+2618,TA,exclude,Not relevant to the research question/topic,ZDHHC3 AA marker mechanism,ZDHHC3 as a Risk and Mortality Marker for Breast Cancer in African American Women
+2619,TA,exclude,Not a US population-based/registry study,mammographic density DCIS/IDC Korea,Comparison of the association of mammographic density and clinical factors with ductal carcinoma in situ versus invasive ductal breast cancer in Korean women
+2620,TA,exclude,Not relevant to the research question/topic,microRNAs disparities chapter,"MicroRNAs and Their Impact on Breast Cancer, the Tumor Microenvironment, and Disparities"
+2621,TA,exclude,Not relevant to the research question/topic,AGE cancer disparity chapter,The Role of Advanced Glycation End-Products in Cancer Disparity
+2622,TA,exclude,Not a US population-based/registry study,eribulin Japan post-marketing,Safety and effectiveness of eribulin in Japanese patients with locally advanced or metastatic breast cancer: a post-marketing observational study
+2623,TA,exclude,Not a US population-based/registry study,BMI abdominal circumference Asian,"BMI change and abdominal circumference are risk factors for breast cancer, even in Asian women"
+2624,TA,exclude,Not relevant to the research question/topic,cancer ER utilization NJ,Improving cancer patient emergency room utilization: A New Jersey state assessment
+2625,TA,exclude,Not relevant to the research question/topic,sedentary time postmenopausal BC WHI,Sedentary time and postmenopausal breast cancer incidence
+2626,TA,exclude,Not relevant to the research question/topic,family history trends BCSC/CBCS,Emerging trends in family history of breast cancer and associated risk
+2627,TA,exclude,Not a US population-based/registry study,tamoxifen toremifene CYP2D6 China trial,"Multicenter Prospective, Parallel-controlled Phase III Clinical Study on Comparing Efficacy of Tamoxifen Versus Toremifene in CYP2D6 Intermediate/Poor Metabolizers of Premenopausal Patients With ER-positive Early Breast Cancer"
+2628,TA,exclude,Not relevant to the research question/topic,YAPPETIZER TNBC neoadjuvant trial,"Multicenter, Randomized, Phase II Study of Neoadjuvant Chemotherapy Associated or Not With Zoledronate and Atorvastatin in Triple Negative Breast Cancers - YAPPETIZER Study"
+2629,TA,exclude,Not relevant to the research question/topic,Ewing sarcoma MSK outcomes,Morbidity and mortality after treatment of Ewing sarcoma: A single-institution experience
+2630,TA,exclude,Not a US population-based/registry study,radiation heart disease Korea,Radiation-related heart disease after breast cancer radiation therapy in Korean women
+2631,TA,exclude,Not relevant to the research question/topic,urban/rural BC/cervical incidence SES mediation,Urban/Rural Differences in Breast and Cervical Cancer Incidence: The Mediating Roles of Socioeconomic Status and Provider Density
+2632,TA,exclude,Not relevant to the research question/topic,obesity BC development review,Roles of obesity in the development and progression of breast cancer
+2633,TA,exclude,Not a US population-based/registry study,benefit finding survivors China,Psychosocial correlates of benefit finding in breast cancer survivors in China
+2634,TA,exclude,Not relevant to the research question/topic,Project ECHO cervical telementoring,Project ECHO: A telementoring program for cervical cancer prevention and treatment in low-resource settings
+2635,TA,exclude,Not relevant to the research question/topic,ambulance transport ED Medicare,Geographic Variation in Use of Ambulance Transport to the Emergency Department
+2636,TA,exclude,Not relevant to the research question/topic,subsequent kidney cancer SEER,Risk of Subsequent Primary Kidney Cancer After Another Malignancy: A Population-based Study
+2637,TA,exclude,Not relevant to the research question/topic,common variants CBC WECARE,Association of Common Genetic Variants with Contralateral Breast Cancer Risk in the WECARE Study
+2638,TA,exclude,Not relevant to the research question/topic,RT access disparities AA review,"The pervasive crisis of diminishing radiation therapy access for vulnerable populations in the United States, part 1: African-American patients"
+2639,TA,exclude,Not relevant to the research question/topic,colder environments cancer US ecological,Colder environments are associated with a greater cancer incidence in the female population of the United States
+2640,TA,exclude,Not relevant to the research question/topic,risk factors BC Guam/Saipan case-control,Risk factors for breast cancer in the breast cancer risk model study of Guam and Saipan
+2641,TA,exclude,Not a US population-based/registry study,BRCA cohort Japan,Prospective Cohort Study of Germline Variant Carriers With BRCA1 or BRCA2
+2642,TA,exclude,Not relevant to the research question/topic,video intervention Black trials,Video intervention increases participation of black breast cancer patients in therapeutic trials
+2643,TA,exclude,Not relevant to the research question/topic,CPS-II nutrition cohort trial,Cancer Prevention Study-II Nutrition Cohort
+2644,TA,exclude,Not relevant to the research question/topic,DCIS octogenarians SEER grade,Incidence and treatments of DCIS in octogenarians: grade matters
+2645,TA,exclude,Not a US population-based/registry study,Danggui TCM myelosuppression,"Danggui Buxue Decoction, a Classical Formula of Traditional Chinese Medicine, Fails to Prevent Myelosuppression in Breast Cancer Patients Treated with Adjuvant Chemotherapy: A Prospective Study"
+2646,TA,exclude,Not a US population-based/registry study,Chinese herbal BC Taiwan,Prescription of Chinese herbal products is associated with a decreased risk of invasive breast cancer
+2647,TA,exclude,Not a US population-based/registry study,cancer mortality Latin America 2017,Cancer mortality predictions for 2017 in Latin America
+2648,TA,exclude,Not relevant to the research question/topic,breastfeeding BC Black mothers review,Breastfeeding and Breast Cancer Risk Reduction: Implications for Black Mothers
+2649,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",HR+ BC male vs female SEER conference paper,Hormone Receptor-Positive Breast Cancer Has a Worse Prognosis in Male Than in Female Patients
+2650,TA,exclude,Not relevant to the research question/topic,longitude time zone cancer US ecological,Longitude position in a time zone and cancer risk in the United States
+2651,TA,exclude,Not a US population-based/registry study,FGFR2 Turkish early-onset,Polymorphism in the second intron of the FGFR2 gene rs1219648 associated with the early-onset breast cancer in Turkish population
+2652,TA,exclude,Not a US population-based/registry study,survival analysis First Nations Canada,"Choice of relative or cause-specific approach to cancer survival analysis impacts estimates differentially by cancer type, population, and application: Evidence from a Canadian population-based cohort study"
+2653,TA,exclude,Not relevant to the research question/topic,3D MRI density quadrant,3D MRI for Quantitative Analysis of Quadrant Percent Breast Density: Correlation with Quadrant Location of Breast Cancer
+2654,TA,exclude,Not a US population-based/registry study,educational BC mortality Europe,The turn of the gradient? Educational differences in breast cancer mortality in 18 European populations during the 2000s
+2655,TA,exclude,Not a US population-based/registry study,ovarian stimulation BC Sweden,Ovarian stimulation and risk of breast cancer in Swedish women
+2656,TA,exclude,Not a US population-based/registry study,Arab men perceptions Qatar,Perceptions of Arab men regarding female breast cancer screening examinations—Findings from a Middle East study
+2657,TA,exclude,Not a US population-based/registry study,esophageal Malawi case-control,"A Case-Control Study of Esophageal Squamous Cell Carcinoma in Lilongwe, Malawi"
+2658,TA,exclude,Not relevant to the research question/topic,acupressure lupus fatigue,Acupressure for Persistent Fatigue in Systemic Lupus Erythematosus Patients
+2659,TA,exclude,Not a US population-based/registry study,cause-specific mortality BCIS Sweden,Cause-specific mortality in women with breast cancer in situ
