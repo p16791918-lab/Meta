@@ -4299,3 +4299,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 4297,TA,exclude,Not relevant to the research question/topic,residential segregation racial cancer disparities review,Residential Segregation and Racial Cancer Disparities: A Systematic Review
 4298,TA,exclude,Not relevant to the research question/topic,BC disparities biological determinants review,Breast cancer disparities in outcomes; unmasking biological determinants associated with racial and genetic diversity
 4299,TA,exclude,Not relevant to the research question/topic,TNBC view from 10000 feet review,"Triple-Negative Breast Cancers A View From 10,000 Feet"
+4300,TA,exclude,Not relevant to the research question/topic,counties CRC mortality disparities,Counties Eliminating Racial Disparities in Colorectal Cancer Mortality
+4301,TA,exclude,Not relevant to the research question/topic,HCC disparities treatment survival SEER,"Racial, Ethnic, and Socioeconomic Disparities in Curative Treatment Receipt and Survival in Hepatocellular Carcinoma"
+4302,TA,exclude,Not relevant to the research question/topic,acculturation Asian immigrants review,Measuring culture: a critical review of acculturation and health in Asian immigrant populations
+4303,TA,exclude,Not relevant to the research question/topic,psychosocial African AA BC,Psychosocial Issues Facing African and African American Women Diagnosed With Breast Cancer
+4304,TA,exclude,Not relevant to the research question/topic,review ethnic differences BC,A review of the ethnic differences in breast cancer
+4305,TA,exclude,Not relevant to the research question/topic,social determinants racial BC mortality SC,Social Determinants of Racial Disparities in Breast Cancer Mortality Among Black and White Women
+4306,TA,exclude,Not relevant to the research question/topic,BC AA tumor biology review,Breast cancer in African-American women: differences in tumor biology from European-American women
+4307,TA,exclude,Not relevant to the research question/topic,racial disparities BC outcome host-tumor review,Racial disparities in breast cancer outcome - Insights into host-tumor interactions
+4308,TA,exclude,Not relevant to the research question/topic,DCIS White vs Chinese Americans characteristics SEER,Comparison of the ductal carcinoma in situ between White Americans and Chinese Americans
+4309,TA,exclude,Not relevant to the research question/topic,adiposity metabolic syndrome BC AA white review,"Adiposity, the metabolic syndrome, and breast cancer in African-American and white American women"
+4310,TA,exclude,Not relevant to the research question/topic,pancreatic cancer AA disparities,Pancreatic Cancer Disparities in African Americans
+4311,TA,exclude,Not relevant to the research question/topic,racial differences genetic factors BC review,Racial differences in genetic factors associated with breast cancer
+4312,TA,exclude,Not relevant to the research question/topic,SCCA anus race sex disparities,Race- and Sex-Based Disparities in the Therapy and Outcomes of Squamous Cell Carcinoma of the Anus
+4313,TA,exclude,Not relevant to the research question/topic,bladder cancer gender race age review,"Gender, racial and age differences in bladder cancer incidence and mortality"
+4314,TA,exclude,Not relevant to the research question/topic,HIV diagnosis SES,"Association Between Community Socioeconomic Position and HIV Diagnosis Rate Among Adults and Adolescents in the United States, 2005 to 2009"
+4315,TA,exclude,Not relevant to the research question/topic,thyroid cancer race equal access,Effect of race on thyroid cancer care in an equal access healthcare system
+4316,TA,exclude,Not relevant to the research question/topic,attitudes knowledge immigrant screening,"Attitudes, knowledge, and health-seeking behaviors of five immigrant minority communities in the prevention and screening of cancer: A focus group approach"
+4317,TA,exclude,Not relevant to the research question/topic,racial disparities liver cancer review,Racial disparities in liver cancer: Evidence for a role of environmental contaminants and the epigenome
+4318,TA,exclude,Not relevant to the research question/topic,oral cancer race stage survival SEER,Racial disparity in stage at diagnosis and survival among adults with oral cancer in the US
+4319,TA,exclude,Not relevant to the research question/topic,NSCLC Hispanic paradox California,How Do Social Factors Explain Outcomes in Non-Small-Cell Lung Cancer Among Hispanics in California? Explaining the Hispanic Paradox
+4320,TA,exclude,Not relevant to the research question/topic,pediatric neuro-oncology survival California,Pediatric neuro-oncology survival disparities in California
+4321,TA,exclude,Not relevant to the research question/topic,cancer trends Hispanic men South Florida,"Cancer trends among Hispanic men in South Florida, 1981-1998"
+4322,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",white paper Filipino Americans health,White paper on the health status of Filipino Americans and recommendations for research
+4323,TA,exclude,Not relevant to the research question/topic,BC disparities decision-making review,Breast cancer disparities and decision-making among US women
+4324,TA,exclude,Not relevant to the research question/topic,leukemia disparities national,Understanding disparities in leukemia: a national study
+4325,TA,exclude,Not relevant to the research question/topic,disparities cancer screening minorities,DISPARITIES IN CANCER SCREENING PRACTICES AMONG MINORITY AND UNDERREPRESENTED POPULATIONS
+4326,TA,exclude,Not relevant to the research question/topic,Hodgkin lymphoma survival disparities,Disparities in survival after Hodgkin lymphoma: a population-based study
+4327,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnic variation BC incidence outcomes debate,Ethnic variation in breast cancer incidence and outcomes-the debate continues
+4328,TA,exclude,Not relevant to the research question/topic,obesity TNBC disparities review,"Obesity and Triple-Negative Breast Cancer Disparities, Controversies, and Biology"
+4329,TA,exclude,Not relevant to the research question/topic,breast density Vietnamese American,"Immigration history, lifestyle characteristics, and breast density in the Vietnamese American Women's Health Study: a cross-sectional analysis"
+4330,TA,exclude,Not relevant to the research question/topic,appraisal AA white BC,African-American and white women's appraisal of their breast cancer
+4331,TA,exclude,Not relevant to the research question/topic,late-stage prostate cancer incidence Florida,"Geographical, temporal and racial disparities in late-stage prostate cancer incidence across Florida: A multiscale joinpoint regression analysis"
+4332,TA,exclude,Not relevant to the research question/topic,obesity breastfeeding TNBC review,Obesity and lack of breastfeeding: a perfect storm to augment risk of breast cancer?
+4333,TA,include,,Cancer among Hispanic women South Florida FCDS 1981-1998,Cancer among Hispanic women in South Florida: An 18-year assessment - A report from the Florida Cancer Data System
+4334,TA,exclude,Not relevant to the research question/topic,colorectal cancer Texas rural classifications,Colorectal cancer incidence and mortality in Texas 1990-1992: A comparison of rural classifications
+4335,TA,exclude,Not relevant to the research question/topic,environmental pollutants cancer disparities review,Hazardous Environmental Pollutants and Cancer Disparities: A Systematic Review on the Consideration of Race and Ethnicity in Environmental Epidemiology Research
+4336,TA,include,,Cancer incidence sub-Saharan African-born Blacks vs US-born Blacks SEER,Cancer Incidence Profile in Sub-Saharan African-Born Blacks in the United States: Similarities and Differences With US-Born Non-Hispanic Blacks
+4337,TA,exclude,Not relevant to the research question/topic,molecular cellular racial disparity BC review,Molecular and Cellular Factors Associated with Racial Disparity in Breast Cancer
+4338,TA,exclude,Not relevant to the research question/topic,racial disparities pancreatic cancer smoking obesity,Are Racial Disparities in Pancreatic Cancer Explained by Smoking and Overweight/Obesity?
+4339,TA,exclude,Not relevant to the research question/topic,BC screening Korean women genetic review,Breast cancer screening for Korean women must consider traditional risks as well as two genetic risk factors - Genetic polymorphisms and inheritable gene mutations
+4340,TA,exclude,Not relevant to the research question/topic,disparities HR+ BC review,Disparities in Hormone Receptor-Positive Breast Cancer
+4341,TA,exclude,Not relevant to the research question/topic,racial differences survival brain tumor,Racial differences in survival after diagnosis with primary malignant brain tumor
+4342,TA,exclude,Not relevant to the research question/topic,natural agents miRNA BC AA CA review,The Therapeutic Value of Natural Agents to Treat miRNA Targeted Breast Cancer in African-American and Caucasian-American Women
+4343,TA,exclude,Not a US population-based/registry study,MMTV breast tumors Australian Vietnamese,Mouse mammary tumor virus-like gene sequences in breast tumors of Australian and Vietnamese women
+4344,TA,exclude,Not relevant to the research question/topic,osseous spinal neoplasms SES,Socioeconomic Predictors of Surgical Resection and Survival for Patients With Osseous Spinal Neoplasms
+4345,TA,exclude,Not relevant to the research question/topic,stillbirth after AYA cancer Texas,Stillbirth After Adolescent and Young Adult Cancer: A Population-Based Study
+4346,TA,exclude,Not relevant to the research question/topic,self-reported cancer nativity NHANES,Examining the relationship between self-reported lifetime cancer diagnosis and nativity: findings from the National Health and Nutrition Examination Survey (NHANES) 2011-2018
+4347,TA,exclude,Not relevant to the research question/topic,education cancer amenable mortality NHB NHW,The role of education on Cancer amenable mortality among non-Hispanic blacks & non-Hispanic whites in the United States (1989-2018)
+4348,TA,exclude,Not a US population-based/registry study,mammographic Chinese-Australian,Factors associated with mammographic decisions of Chinese-Australian women
+4349,TA,exclude,Not relevant to the research question/topic,BRCA young black women Florida,A high frequency of BRCA mutations in young black women with breast cancer residing in Florida
+4350,TA,exclude,Not relevant to the research question/topic,mammography BC biology AA review,Mammography screening and breast cancer biology in African American women - a review
+4351,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",state variation TNBC rates NPCR-SEER abstract,"State variation in racial and ethnic disparities in triple-negative breast cancer rates: NPCR-SEER incidence data, 2015-2019"
+4352,TA,exclude,Not relevant to the research question/topic,HCT access race sex,Access to Hematopoietic Stem Cell Transplantation Effect of Race and Sex
+4353,TA,exclude,Not relevant to the research question/topic,caveolin prostate AA,Elevated caveolin-1 levels in African-American versus white-American prostate cancer
+4354,TA,exclude,Not relevant to the research question/topic,top 100 cited health disparities bibliometric,The Top 100 Cited Papers in Health Care Disparities: a Bibliometric Analysis
+4355,TA,exclude,Not relevant to the research question/topic,germline mutations AA prostate,Rare germline mutations in African American men diagnosed with early-onset prostate cancer
+4356,TA,exclude,Not relevant to the research question/topic,racial disparities NSCLC treatment SEER,Racial Disparities and Treatment Trends in a Large Cohort of Elderly Black and White Patients With Nonsmall Cell Lung Cancer
+4357,TA,include,,Cancer Statistics for Hispanics 2003,"Cancer statistics for Hispanics, 2003"
+4358,TA,exclude,Not relevant to the research question/topic,corpus uteri cancer ethnic US,"Ethnic and geographic variations in corpus uteri cancer burden: evidence based on data from 29 states and the District of Columbia. CI5 IX, X and SEER data (1998-2010)"
+4359,TA,exclude,Not relevant to the research question/topic,genes tumor biology environment disparities review,"Interactions among genes, tumor biology and the environment in cancer health disparities: examining the evidence on a national and global scale"

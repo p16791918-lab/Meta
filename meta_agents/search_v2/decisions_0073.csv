@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4300,exclude,Not relevant to the research question/topic,counties CRC mortality disparities
+4301,exclude,Not relevant to the research question/topic,HCC disparities treatment survival SEER
+4302,exclude,Not relevant to the research question/topic,acculturation Asian immigrants review
+4303,exclude,Not relevant to the research question/topic,psychosocial African AA BC
+4304,exclude,Not relevant to the research question/topic,review ethnic differences BC
+4305,exclude,Not relevant to the research question/topic,social determinants racial BC mortality SC
+4306,exclude,Not relevant to the research question/topic,BC AA tumor biology review
+4307,exclude,Not relevant to the research question/topic,racial disparities BC outcome host-tumor review
+4308,exclude,Not relevant to the research question/topic,DCIS White vs Chinese Americans characteristics SEER
+4309,exclude,Not relevant to the research question/topic,adiposity metabolic syndrome BC AA white review
+4310,exclude,Not relevant to the research question/topic,pancreatic cancer AA disparities
+4311,exclude,Not relevant to the research question/topic,racial differences genetic factors BC review
+4312,exclude,Not relevant to the research question/topic,SCCA anus race sex disparities
+4313,exclude,Not relevant to the research question/topic,bladder cancer gender race age review
+4314,exclude,Not relevant to the research question/topic,HIV diagnosis SES
+4315,exclude,Not relevant to the research question/topic,thyroid cancer race equal access
+4316,exclude,Not relevant to the research question/topic,attitudes knowledge immigrant screening
+4317,exclude,Not relevant to the research question/topic,racial disparities liver cancer review
+4318,exclude,Not relevant to the research question/topic,oral cancer race stage survival SEER
+4319,exclude,Not relevant to the research question/topic,NSCLC Hispanic paradox California
+4320,exclude,Not relevant to the research question/topic,pediatric neuro-oncology survival California
+4321,exclude,Not relevant to the research question/topic,cancer trends Hispanic men South Florida
+4322,exclude,"Editorials, commentaries, letters, or conference abstracts",white paper Filipino Americans health
+4323,exclude,Not relevant to the research question/topic,BC disparities decision-making review
+4324,exclude,Not relevant to the research question/topic,leukemia disparities national
+4325,exclude,Not relevant to the research question/topic,disparities cancer screening minorities
+4326,exclude,Not relevant to the research question/topic,Hodgkin lymphoma survival disparities
+4327,exclude,"Editorials, commentaries, letters, or conference abstracts",ethnic variation BC incidence outcomes debate
+4328,exclude,Not relevant to the research question/topic,obesity TNBC disparities review
+4329,exclude,Not relevant to the research question/topic,breast density Vietnamese American
+4330,exclude,Not relevant to the research question/topic,appraisal AA white BC
+4331,exclude,Not relevant to the research question/topic,late-stage prostate cancer incidence Florida
+4332,exclude,Not relevant to the research question/topic,obesity breastfeeding TNBC review
+4333,include,,Cancer among Hispanic women South Florida FCDS 1981-1998
+4334,exclude,Not relevant to the research question/topic,colorectal cancer Texas rural classifications
+4335,exclude,Not relevant to the research question/topic,environmental pollutants cancer disparities review
+4336,include,,Cancer incidence sub-Saharan African-born Blacks vs US-born Blacks SEER
+4337,exclude,Not relevant to the research question/topic,molecular cellular racial disparity BC review
+4338,exclude,Not relevant to the research question/topic,racial disparities pancreatic cancer smoking obesity
+4339,exclude,Not relevant to the research question/topic,BC screening Korean women genetic review
+4340,exclude,Not relevant to the research question/topic,disparities HR+ BC review
+4341,exclude,Not relevant to the research question/topic,racial differences survival brain tumor
+4342,exclude,Not relevant to the research question/topic,natural agents miRNA BC AA CA review
+4343,exclude,Not a US population-based/registry study,MMTV breast tumors Australian Vietnamese
+4344,exclude,Not relevant to the research question/topic,osseous spinal neoplasms SES
+4345,exclude,Not relevant to the research question/topic,stillbirth after AYA cancer Texas
+4346,exclude,Not relevant to the research question/topic,self-reported cancer nativity NHANES
+4347,exclude,Not relevant to the research question/topic,education cancer amenable mortality NHB NHW
+4348,exclude,Not a US population-based/registry study,mammographic Chinese-Australian
+4349,exclude,Not relevant to the research question/topic,BRCA young black women Florida
+4350,exclude,Not relevant to the research question/topic,mammography BC biology AA review
+4351,exclude,"Editorials, commentaries, letters, or conference abstracts",state variation TNBC rates NPCR-SEER abstract
+4352,exclude,Not relevant to the research question/topic,HCT access race sex
+4353,exclude,Not relevant to the research question/topic,caveolin prostate AA
+4354,exclude,Not relevant to the research question/topic,top 100 cited health disparities bibliometric
+4355,exclude,Not relevant to the research question/topic,germline mutations AA prostate
+4356,exclude,Not relevant to the research question/topic,racial disparities NSCLC treatment SEER
+4357,include,,Cancer Statistics for Hispanics 2003
+4358,exclude,Not relevant to the research question/topic,corpus uteri cancer ethnic US
+4359,exclude,Not relevant to the research question/topic,genes tumor biology environment disparities review
