@@ -4059,3 +4059,63 @@ record_id,stage,decision,display_reason,sub_reason,title
 4057,TA,include,,Breast Cancer Statistics 2011 US incidence by race,"Breast cancer statistics, 2011"
 4058,TA,include,,White-Black cancer incidence stage survival older adults SEER,"White-Black Differences in Cancer Incidence, Stage at Diagnosis, and Survival Among Older Adults"
 4059,TA,exclude,Not a US population-based/registry study,cancer 15-29 India England,Cancer at Ages 15-29 Years: The Contrasting Incidence in India and England
+4060,TA,exclude,Not relevant to the research question/topic,diet cancer AIAN review,What is the role of diet in the development of cancer in American Indian and Alaska Native populations?
+4061,TA,exclude,Not relevant to the research question/topic,ESRD risk US,Risk of ESRD in the United States
+4062,TA,exclude,Not relevant to the research question/topic,BC survival Asian American Kaiser,Differences in breast cancer survival across Asian American ethnicities compared with non-Latina White females in Kaiser Permanente Northern California
+4063,TA,exclude,Not a US population-based/registry study,BC survival South Asian England Wales,Breast cancer survival in South Asian women in England and Wales
+4064,TA,exclude,Not relevant to the research question/topic,UV thyroid cancer SEER,Ultraviolet Light Exposure Decreases Thyroid Cancer Risk: A National Perspective
+4065,TA,include,,Cancer Statistics 2014 US incidence by race,"Cancer Statistics, 2014"
+4066,TA,include,,Annual Report to Nation 1975-2007 brain tumors,"Annual Report to the Nation on the Status of Cancer, 1975-2007, Featuring Tumors of the Brain and Other Nervous System"
+4067,TA,exclude,Not relevant to the research question/topic,TNBC stem cells African ancestry review,"Triple-Negative Breast Cancer, Stem Cells, and African Ancestry"
+4068,TA,exclude,Not relevant to the research question/topic,cancer declines Great Recession California,Recent declines in cancer incidence: related to the Great Recession?
+4069,TA,exclude,Not relevant to the research question/topic,review cancer US Hispanic populations,A Review of Cancer in US Hispanic Populations
+4070,TA,exclude,Not a US population-based/registry study,epidemiology cancer older adults systematic review,Epidemiology of Cancer in Older Adults: A Systematic Review
+4071,TA,include,,Annual Report to Nation 1975-2000 surveillance uses,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer prevention and control"
+4072,TA,exclude,Not a US population-based/registry study,cancer Indigenous Australians review,Cancer in Indigenous Australians: a review
+4073,TA,exclude,Not relevant to the research question/topic,PTLD kidney transplant,Lymphoproliferative Disorders After Adult Kidney Transplant: Epidemiology and Comparison of Registry Report With Claims-Based Diagnoses
+4074,TA,exclude,Not relevant to the research question/topic,thyroid cancer NHPI SEER,"Thyroid Cancer Incidence, Clinical Presentation, and Survival Among Native Hawaiian and Other Pacific Islanders"
+4075,TA,exclude,Not relevant to the research question/topic,BC disparities genomics AA review,Breast Cancer Disparities How Can We Leverage Genomics to Improve Outcomes?
+4076,TA,exclude,Not relevant to the research question/topic,cancer incidence KY PA WV Appalachia all-cancer,"Cancer incidence in Kentucky, Pennsylvania, and West Virginia: Disparities in Appalachia"
+4077,TA,exclude,Not a US population-based/registry study,cancer Martinique registry,Cancer burden in the Caribbean: an overview of the Martinique Cancer Registry profile
+4078,TA,exclude,Not relevant to the research question/topic,sarcoidosis Black women BWHS,Reproductive and Hormonal Factors in Relation to Incidence of Sarcoidosis in US Black Women
+4079,TA,exclude,Not a US population-based/registry study,BC ovarian cervical Mumbai India,"Trends in breast, ovarian and cervical cancer incidence in Mumbai, India over a 30-year period, 1976-2005: an age-period-cohort analysis"
+4080,TA,exclude,Not relevant to the research question/topic,cervical screening older Hispanic,Psychosocial correlates of cervical cancer screening among older Hispanic women
+4081,TA,exclude,Not relevant to the research question/topic,dietary lignan BC ER/PR,Dietary lignan intake and postmenopausal breast cancer risk by estrogen and progesterone receptor status
+4082,TA,include,,Annual Report to Nation state-level COVID,"Annual Report to the Nation on the Status of Cancer, featuring state-level statistics after the onset of the COVID-19 pandemic"
+4083,TA,exclude,Not relevant to the research question/topic,place is power communities BC disparities,Place Is Power: Investing in Communities as a Systemic Leverage Point to Reduce Breast Cancer Disparities by Race
+4084,TA,exclude,Not relevant to the research question/topic,brain metastasis race systematic review,Incidence of brain metastasis according to patient race and primary cancer origin: a systematic review
+4085,TA,exclude,Not relevant to the research question/topic,news coverage cancer US,"News coverage of cancer in the United States: A national sample of newspapers, television, and magazines"
+4086,TA,exclude,Not relevant to the research question/topic,disability rates AAPI subpopulations,Comparison of Disability Rates Among Older Adults in Aggregated and Separate Asian American/Pacific Islander Subpopulations
+4087,TA,exclude,Not a US population-based/registry study,global burden women's cancers,The global burden of women's cancers: a grand challenge in global health
+4088,TA,exclude,Not a US population-based/registry study,BC awareness screening Taiwan,Impact of breast cancer patients' awareness on attendance at screening
+4089,TA,exclude,Not relevant to the research question/topic,mammography experiences AIAN,Assessment of Mammography Experiences and Satisfaction Among American Indian/Alaska Native Women
+4090,TA,exclude,Not relevant to the research question/topic,mediastinal large B-cell lymphoma SEER,Racial patterns of patients with primary mediastinal large B-cell lymphoma SEER analysis
+4091,TA,exclude,Not relevant to the research question/topic,liver cancer Pennsylvania geographic,Liver Cancer Incidence and Area-Level Geographic Disparities in Pennsylvania-A Geo-Additive Approach
+4092,TA,exclude,Not relevant to the research question/topic,mitochondrial prostate cancer ethnic,Mitochondrial biology and prostate cancer ethnic disparity
+4093,TA,exclude,Not relevant to the research question/topic,BC Asian heritage disparity trends review,Breast Cancer in Women of Asian Heritage: Disparity Trends in the Asian American Breast Cancer Population Literature
+4094,TA,exclude,Not relevant to the research question/topic,screening mammography BC disparities review,"The Role of Screening Mammography in Addressing Disparities in Breast Cancer Diagnosis, Treatment, and Outcomes"
+4095,TA,exclude,Not relevant to the research question/topic,SES HPV-associated cancers,Examining the Association Between Socioeconomic Status and Potential Human Papillomavirus-associated Cancers
+4096,TA,exclude,Not relevant to the research question/topic,cancer disparities Northern Plains AI behaviors,Cancer-Related Disparities and Opportunities for Intervention in Northern Plains American Indian Communities
+4097,TA,exclude,Not relevant to the research question/topic,nano-diagnostics oral cancer,Nano-diagnostics as an emerging platform for oral cancer detection: Current and emerging trends
+4098,TA,include,,Cancer incidence Asian Americans 5 ethnicities California,"Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean, and Japanese ethnicities"
+4099,TA,exclude,Not relevant to the research question/topic,racial differences ESCC molecular,Racial Differences in Esophageal Squamous Cell Carcinoma: Incidence and Molecular Features
+4100,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",Is BC Asian women different editorial,Is Breast Cancer in Asian and Asian American Women a Different Disease?
+4101,TA,exclude,Not relevant to the research question/topic,systematic review survivorship Asian American,A Systematic Review of the Impact of Cancer Survivorship Interventions With Asian American Cancer Survivors
+4102,TA,exclude,Not a US population-based/registry study,temporal trends cancer WCBA GBD,Temporal Trends in Cancer Burden and 27 Subtypes Among Women of Childbearing Age Globally from 1990 to 2021
+4103,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",ASO visual abstract BC Asian American NYC,ASO Visual Abstract: Breast Cancer Incidence Among Asian American Women in New York City-Disparities in Screening and Presentation
+4104,TA,exclude,Not relevant to the research question/topic,prostate cancer epidemiology review,An In-Depth Look Into the Epidemiological and Etiological Aspects of Prostate Cancer: A Literature Review
+4105,TA,exclude,Not relevant to the research question/topic,understanding BC disparities multi-scale review,Understanding breast cancer disparities-a multi-scale challenge
+4106,TA,exclude,Not relevant to the research question/topic,cancer research AANHPI heterogeneity perspective,"Cancer Research in Asian American, Native Hawaiian, and Pacific Islander Populations: Accelerating Cancer Knowledge by Acknowledging and Leveraging Heterogeneity"
+4107,TA,exclude,Not a US population-based/registry study,BC incidence receptor African Caribbean Guadeloupe,"Incidence, mortality and receptor status of breast cancer in African Caribbean women: Data from the cancer registry of Guadeloupe"
+4108,TA,exclude,Not relevant to the research question/topic,BC hormones risk factors review,Breast cancer: hormones and other risk factors
+4109,TA,exclude,Not relevant to the research question/topic,genetic admixture Latinos LALES,Variation in genetic admixture and population structure among Latinos: the Los Angeles Latino eye study (LALES)
+4110,TA,exclude,Not relevant to the research question/topic,Asian American women California BC cervical screening,Asian American Women in California: A Pooled Analysis of Predictors for Breast and Cervical Cancer Screening
+4111,TA,exclude,Not relevant to the research question/topic,BC hormones risk factors reprint,"Breast cancer: hormones and other risk factors (Reprinted from Maturitas, vol 38, pg 103-113)"
+4112,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",breast lesions South Asian Pakistan editorial,Management of Breast Lesions by Breast Physicians in a Heavily Populated South Asian Developing Country
+4113,TA,exclude,Not a US population-based/registry study,cancer incidence survival Metro Manila Philippines,"Cancer Incidence and Survival in Metro Manila and Rizal Province, Philippines"
+4114,TA,exclude,Not a US population-based/registry study,childhood cancer Iran spatiotemporal,Relative risk of childhood and adolescence cancer in Iran: spatiotemporal analysis from 1999 to 2016
+4115,TA,exclude,Not relevant to the research question/topic,racial disparity BC prognosis therapy review,Racial disparity in breast cancer: can it be mattered for prognosis and therapy
+4116,TA,exclude,Not relevant to the research question/topic,genetic susceptibility cancer diverse review,Exploring genetic susceptibility to cancer in diverse populations
+4117,TA,exclude,Not relevant to the research question/topic,potential limitations state cancer registries,The potential and limitations of data from population-based state cancer registries
+4118,TA,exclude,Not relevant to the research question/topic,racial disparities Hodgkin lymphoma SEER,Racial disparities in Hodgkin's lymphoma: a comprehensive population-based analysis
+4119,TA,exclude,Not relevant to the research question/topic,qualitative age interactions BC mini-review,Qualitative age interactions in breast cancer studies: a mini-review

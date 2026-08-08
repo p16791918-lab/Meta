@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4060,exclude,Not relevant to the research question/topic,diet cancer AIAN review
+4061,exclude,Not relevant to the research question/topic,ESRD risk US
+4062,exclude,Not relevant to the research question/topic,BC survival Asian American Kaiser
+4063,exclude,Not a US population-based/registry study,BC survival South Asian England Wales
+4064,exclude,Not relevant to the research question/topic,UV thyroid cancer SEER
+4065,include,,Cancer Statistics 2014 US incidence by race
+4066,include,,Annual Report to Nation 1975-2007 brain tumors
+4067,exclude,Not relevant to the research question/topic,TNBC stem cells African ancestry review
+4068,exclude,Not relevant to the research question/topic,cancer declines Great Recession California
+4069,exclude,Not relevant to the research question/topic,review cancer US Hispanic populations
+4070,exclude,Not a US population-based/registry study,epidemiology cancer older adults systematic review
+4071,include,,Annual Report to Nation 1975-2000 surveillance uses
+4072,exclude,Not a US population-based/registry study,cancer Indigenous Australians review
+4073,exclude,Not relevant to the research question/topic,PTLD kidney transplant
+4074,exclude,Not relevant to the research question/topic,thyroid cancer NHPI SEER
+4075,exclude,Not relevant to the research question/topic,BC disparities genomics AA review
+4076,exclude,Not relevant to the research question/topic,cancer incidence KY PA WV Appalachia all-cancer
+4077,exclude,Not a US population-based/registry study,cancer Martinique registry
+4078,exclude,Not relevant to the research question/topic,sarcoidosis Black women BWHS
+4079,exclude,Not a US population-based/registry study,BC ovarian cervical Mumbai India
+4080,exclude,Not relevant to the research question/topic,cervical screening older Hispanic
+4081,exclude,Not relevant to the research question/topic,dietary lignan BC ER/PR
+4082,include,,Annual Report to Nation state-level COVID
+4083,exclude,Not relevant to the research question/topic,place is power communities BC disparities
+4084,exclude,Not relevant to the research question/topic,brain metastasis race systematic review
+4085,exclude,Not relevant to the research question/topic,news coverage cancer US
+4086,exclude,Not relevant to the research question/topic,disability rates AAPI subpopulations
+4087,exclude,Not a US population-based/registry study,global burden women's cancers
+4088,exclude,Not a US population-based/registry study,BC awareness screening Taiwan
+4089,exclude,Not relevant to the research question/topic,mammography experiences AIAN
+4090,exclude,Not relevant to the research question/topic,mediastinal large B-cell lymphoma SEER
+4091,exclude,Not relevant to the research question/topic,liver cancer Pennsylvania geographic
+4092,exclude,Not relevant to the research question/topic,mitochondrial prostate cancer ethnic
+4093,exclude,Not relevant to the research question/topic,BC Asian heritage disparity trends review
+4094,exclude,Not relevant to the research question/topic,screening mammography BC disparities review
+4095,exclude,Not relevant to the research question/topic,SES HPV-associated cancers
+4096,exclude,Not relevant to the research question/topic,cancer disparities Northern Plains AI behaviors
+4097,exclude,Not relevant to the research question/topic,nano-diagnostics oral cancer
+4098,include,,Cancer incidence Asian Americans 5 ethnicities California
+4099,exclude,Not relevant to the research question/topic,racial differences ESCC molecular
+4100,exclude,"Editorials, commentaries, letters, or conference abstracts",Is BC Asian women different editorial
+4101,exclude,Not relevant to the research question/topic,systematic review survivorship Asian American
+4102,exclude,Not a US population-based/registry study,temporal trends cancer WCBA GBD
+4103,exclude,"Editorials, commentaries, letters, or conference abstracts",ASO visual abstract BC Asian American NYC
+4104,exclude,Not relevant to the research question/topic,prostate cancer epidemiology review
+4105,exclude,Not relevant to the research question/topic,understanding BC disparities multi-scale review
+4106,exclude,Not relevant to the research question/topic,cancer research AANHPI heterogeneity perspective
+4107,exclude,Not a US population-based/registry study,BC incidence receptor African Caribbean Guadeloupe
+4108,exclude,Not relevant to the research question/topic,BC hormones risk factors review
+4109,exclude,Not relevant to the research question/topic,genetic admixture Latinos LALES
+4110,exclude,Not relevant to the research question/topic,Asian American women California BC cervical screening
+4111,exclude,Not relevant to the research question/topic,BC hormones risk factors reprint
+4112,exclude,"Editorials, commentaries, letters, or conference abstracts",breast lesions South Asian Pakistan editorial
+4113,exclude,Not a US population-based/registry study,cancer incidence survival Metro Manila Philippines
+4114,exclude,Not a US population-based/registry study,childhood cancer Iran spatiotemporal
+4115,exclude,Not relevant to the research question/topic,racial disparity BC prognosis therapy review
+4116,exclude,Not relevant to the research question/topic,genetic susceptibility cancer diverse review
+4117,exclude,Not relevant to the research question/topic,potential limitations state cancer registries
+4118,exclude,Not relevant to the research question/topic,racial disparities Hodgkin lymphoma SEER
+4119,exclude,Not relevant to the research question/topic,qualitative age interactions BC mini-review
