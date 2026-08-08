@@ -3959,3 +3959,43 @@ record_id,stage,decision,display_reason,sub_reason,title
 3957,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",best science reduction disparities,"""Best science"" for the reduction of disparities in cancer"
 3958,TA,exclude,Not relevant to the research question/topic,endocrine therapy BC chapter,Endocrine therapy of breast cancer
 3959,TA,exclude,Not relevant to the research question/topic,cancer mortality elderly worldwide,"Cancer mortality in the elderly, 1960-1998: A worldwide approach"
+3960,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",childhood cancer survivor study note,Childhood cancer survivor study doubles to examine late effects of new treatments.
+3961,TA,exclude,Not relevant to the research question/topic,tamoxifen chemoprevention mortality model,Modeling the effect of tamoxifen chemoprevention on long-term mortality in white women at high risk of breast cancer
+3962,TA,exclude,Not relevant to the research question/topic,cervix book chapter,Cervix
+3963,TA,exclude,Not a US population-based/registry study,physical activity obesity Canadian survivors,Physical activity and obesity in Canadian Cancer Survivors: Population-based estimates from the 2005 Canadian Community Health Survey
+3964,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",migrant studies BC note,Migrant studies aid the search for factors linked to breast cancer risk.
+3965,TA,exclude,Not relevant to the research question/topic,alcohol BC Hispanic NM case-control,Is alcohol intake associated with breast cancer in hispanic women? The New Mexico women's health study
+3966,TA,exclude,Not relevant to the research question/topic,chemo VTE risk factors,Risk factors for chemotherapy-associated venous thromboembolism in a prospective observational study
+3967,TA,exclude,Not relevant to the research question/topic,NPCR vs SEER registry comparison,"Building the infrastructure for nationwide cancer surveillance and control - A comparison between The National Program of Cancer Registries (NPCR) and The Surveillance, Epidemiology, and End Results (SEER) Program (United States)"
+3968,TA,exclude,Not relevant to the research question/topic,hematopoietic growth factors older BC SEER-Medicare,Temporal and geographic variation in the use of hematopoietic growth factors in older women receiving breast cancer chemotherapy: Findings from a large population-based cohort
+3969,TA,exclude,Not relevant to the research question/topic,diagnostic mammography performance race,Diagnostic mammography performance and race: Outcomes in black and white women
+3970,TA,exclude,Not relevant to the research question/topic,epidemiology of cancer US review,Epidemiology of cancer in the United States
+3971,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",common health problems minorities note,"Common health problems in selected minority, ethnic, and cultural groups"
+3972,TA,exclude,Not a US population-based/registry study,mammography audit Taiwanese,Adjusting Mammography-Audit Recommendations in a Lower-Incidence Taiwanese Population
+3973,TA,exclude,Not relevant to the research question/topic,symptoms after BC treatment LA SEER,Symptoms after breast cancer treatment: Are they influenced by patient characteristics?
+3974,TA,exclude,Not relevant to the research question/topic,feminist critique Korean BC research,A feminist critique of breast cancer research among Korean women
+3975,TA,exclude,Not relevant to the research question/topic,atrazine BC incidence ecologic Missouri,Atrazine exposure and breast cancer incidence: An ecologic study of Missouri counties
+3976,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",probing roots race cancer note,Cancer research: Probing the roots of race and cancer
+3977,TA,exclude,Not a US population-based/registry study,African Caribbean delay help BC UK,Risky shifts or shifting risk: African and African-Caribbean women's narratives on delay in seeking help for breast cancer
+3978,TA,exclude,Not relevant to the research question/topic,symptom management BC treatment LA,Symptom management after breast cancer treatment: Is it influenced by patient characteristics?
+3979,TA,exclude,Not relevant to the research question/topic,multigenic model CYP17 HSD17B1 multiethnic,Building a multigenic model of breast cancer susceptibility: CYP17 and HSD17B1 are two important candidates
+3980,TA,exclude,Not relevant to the research question/topic,soy BC prevention chapter,Soy and breast cancer prevention
+3981,TA,exclude,Not relevant to the research question/topic,algorithms incident BC Medicare claims,Evaluation of three algorithms to identify incident breast cancer in medicare claims data
+3982,TA,exclude,Not relevant to the research question/topic,race BC subtypes survival Carolina case-control,"Race, breast cancer subtypes, and survival in the Carolina Breast Cancer Study"
+3983,TA,exclude,Not relevant to the research question/topic,breast density parenchymal meta-analysis,Breast density and parenchymal patterns as markers of breast cancer risk: A meta-analysis
+3984,TA,exclude,Not relevant to the research question/topic,public relations health brochures,Public relations and cultural aesthetics: Designing health brochures
+3985,TA,exclude,Not relevant to the research question/topic,black women breast cancer review,Black women and breast cancer: A review of the literature
+3986,TA,exclude,Not relevant to the research question/topic,leukemia mitoxantrone,Leukaemia due to mitoxantrone
+3987,TA,exclude,Not relevant to the research question/topic,cancer incidence Mormons Utah religious,Cancer incidence among Mormons and non-Mormons in Utah (United States) 1995-1999
+3988,TA,exclude,Not relevant to the research question/topic,Gail model BWHS accuracy,Diagnostic accuracy of the gail model in the black women's health study
+3989,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",BC Marin County commentary,Breast cancer in Marin County
+3990,TA,exclude,"Editorials, commentaries, letters, or conference abstracts",HRT US BC incidence debate note,Renewed debate on HRT's effect on US breast cancer incidence rates
+3991,TA,exclude,Not relevant to the research question/topic,subsequent primary CRC survivors SEER,"Excess risk of subsequent primary cancers among colorectal carcinoma survivors, 1975-2001"
+3992,TA,exclude,Not relevant to the research question/topic,cause-specific survival IBC SEER,Short- and long-term cause-specific survival of patients with inflammatory breast cancer
+3993,TA,exclude,Not relevant to the research question/topic,sex steroid prostate cancer review,The epidemiology of sex steroid hormones and their signaling and metabolic pathways in the etiology of prostate cancer
+3994,TA,exclude,Not relevant to the research question/topic,pancreatic cancer risk factors case-control,Risk factors for pancreatic cancer: A case-control study based on direct interviews
+3995,TA,exclude,Not relevant to the research question/topic,urinary estrogen metabolites Singapore US,Do urinary estrogen metabolites reflect the differences in breast cancer risk between Singapore Chinese and United States African-American and white women?
+3996,TA,exclude,Not relevant to the research question/topic,CHF anthracycline older BC SEER-Medicare,Congestive heart failure in older women treated with adjuvant anthracycline chemotherapy for breast cancer
+3997,TA,exclude,Not relevant to the research question/topic,phytoestrogen colitis rat,In utero and postnatal exposure to a phytoestrogen-enriched diet increases parameters of acute inflammation in a rat model of TNBS-induced colitis
+3998,TA,exclude,Not relevant to the research question/topic,oral contraceptive BCIS black white LA,Oral contraceptive use and risk of breast carcinoma in situ (United States)
+3999,TA,include,,Cancer incidence Vietnamese in US and Ha Noi SEER,"Cancer incidence patterns among Vietnamese in the United States and Ha Noi, Vietnam"
