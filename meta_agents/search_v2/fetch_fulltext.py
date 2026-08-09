@@ -349,15 +349,18 @@ def main():
     manual = [r for r in rows if r["source"] not in AUTO]
     manual_path = os.path.join(HERE, "manual_download_needed.csv")
     with open(manual_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["record_id", "year", "title", "doi",
-                                          "doi_url", "pmid", "oa_url", "source"])
+        # ids + links pulled to the front for hands-on manual retrieval.
+        w = csv.DictWriter(f, fieldnames=["record_id", "pmid", "pubmed_url", "doi_url",
+                                          "oa_url", "source", "year", "title", "doi"])
         w.writeheader()
         for r in manual:
+            pmid = r["pmid"]
             w.writerow({
-                "record_id": r["record_id"], "year": r["year"], "title": r["title"],
-                "doi": r["doi"],
+                "record_id": r["record_id"], "pmid": pmid,
+                "pubmed_url": ("https://pubmed.ncbi.nlm.nih.gov/%s/" % pmid) if pmid else "",
                 "doi_url": ("https://doi.org/%s" % r["doi"]) if r["doi"] else "",
-                "pmid": r["pmid"], "oa_url": r["oa_url"], "source": r["source"],
+                "oa_url": r["oa_url"], "source": r["source"],
+                "year": r["year"], "title": r["title"], "doi": r["doi"],
             })
 
     from collections import Counter
