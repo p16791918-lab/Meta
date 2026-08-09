@@ -26,3 +26,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 93,include-quant,,NAACCR (7 Delta states),White vs Black + subtype,age-adjusted rates + RR,lower Mississippi Delta subtype-specific rates/RR 2012-2014
 103,include-quant,,California Cancer Registry,race/ethnicity + subtype,age-specific rates + IRR,black-white crossover subtype CCR 2006-2009
 277,exclude,Did not report the outcome of interest,SEER,race/ethnicity,median age + % under 50 + stage,JAMA research letter; reports age distribution & stage NOT age-adjusted incidence rates
+107,include-quant,,SEER (New Mexico),AI/AN vs NHW,Bayesian posterior rate ratio,NM AI/AN vs NHW breast incidence RR 2005-2014
+119,include-quant,,Michigan registry (IHS-linked),American Indian vs White,age-adjusted invasive breast rates,Michigan AI IHS-linked breast incidence vs white; small numbers
+126,include-quant,,SEER 18,race/ethnicity + subtype,age-standardized rates + APC,subtype incidence by race/age 2010-2016; overlaps SEER subtype (2/46)
+141,include-quant,,SEER 12/17,NHB/NHW/HW,fitted ER-negative rates + RR/APC,ER-negative incidence by race + region 1992-2016
+142,include-narrative,,USCS,NHB by region (no NHW),TNBC rate per 100k by region,TNBC NHB regional comparison; comparator=region not NHW -> narrative
+144,include-quant,,LA County / CCR + SEER,Asian-American ethnic groups vs NHW,age-adjusted + age-specific rates,rapidly rising AA incidence LA County; overlaps CCR (100/324)
+145,include-quant,,Wisconsin (WCRS),African American vs White,age-adjusted incidence rates,Wisconsin AA vs white breast incidence 1995-2006
+158,include-quant,,NAACCR CiNA,race/ethnicity vs NHW (age 50-84),age-adjusted rates by stage/SES/geography,NAACCR incidence by race 1999-2017; age 50-84 restricted
+161,include-quant,,Hawaii Tumor Registry,White/Japanese/Native Hawaiian/Filipino/Chinese,age-adjusted rates + subtype,Hawaii 5 groups age-adjusted breast incidence + subtype
+165,recheck,,California Cancer Registry,race/ethnic groups (SES),low-text extraction,PDF text-layer poor (945 chars); author reads PDF - SES x race incidence
+169,include-quant,,USCS,race/ethnicity/age,age-adjusted incidence rates,USCS MMWR incidence by race/age 1999-2018; overlaps USCS (14/142) -> dedup
+178,include-narrative,,NAACCR (42 states) + SEER,NH white/black young-onset,stage-specific incidence rates,young-onset stage-at-diagnosis focus; overall invasive-by-race not primary -> narrative
