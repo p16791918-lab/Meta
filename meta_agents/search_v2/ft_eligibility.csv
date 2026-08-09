@@ -50,3 +50,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 203,include-quant,,SEER 13,NH white/black/Hispanic/API,age-adjusted rates + IRR,young women black-white IRR 1.52 (<30) SEER13 1992-2004
 205,include-quant,,SEER 12,race/ethnicity + ER,age-standardized rates,incidence by race/ER 2000-2007 (decline plateau)
 207,include-quant,,SEER,disaggregated NHOPI,age-adjusted rates + APC,disaggregated NHOPI incidence SEER 1990-2008 (companion to 151)
+209,include-quant,,NPCR + SEER (USCS),NHB/NHW/Hispanic/API/AIAN,age-adjusted TNBC rates + state/region,TNBC AAIR by race 2011-2019; overlaps 155/142 USCS TNBC -> dedup
+210,include-quant,,SEER 18,NHW/NHB/API/Hispanic/AIAN,age-adjusted incidence trends,Asian vs other ethnic incidence trends SEER18 2000-2018
+226,include-narrative,,California Cancer Registry,NHB vs NHW (TNBC/LumA),Poisson IRR,mortgage-discrimination exposure study; race-specific TNBC incidence present but redlining-framed -> narrative
+246,include-quant,,California Cancer Registry,NHW/Black/Hispanic/API by SES,age-adjusted rates (Table 2),breast incidence by race + SES CCR 1998-2002
+251,exclude,Did not report the outcome of interest,NAACCR CiNA,area-level (ecological),SEA-level TNBC incidence,ecological area-level TNBC correlates; no race-specific incidence vs NHW
+252,include-narrative,,SEER 9,White vs Black (50+),age-adjusted trends (figures),HT-focused commentary; White/Black incidence trends in figures only -> narrative
+259,include-quant,,SEER 17,African-American/White/etc,age/race-specific IBC rates,inflammatory breast carcinoma incidence by race SEER17 (subtype)
+278,exclude,Did not report the outcome of interest,SEER,race/ethnicity,distant-stage incidence,advanced/distant-involvement incidence not overall invasive by race
+284,include-quant,,SEER 8 + CI5,US Japanese/White/Black (+native Japan/Korea),age-specific incidence + APC,US Japanese(Hawaii)/White/Black extractable; native Japan/Korea non-US comparators
+286,include-quant,,SEER 18,race/ethnicity + subtype vs NHW,age-standardized rates + IRR,subtype IRRs by race vs NHW SEER18 2010-2015; overlaps 2/46/126 -> dedup
+310,include-quant,,SEER (LA+),API/Hispanic/AA vs White (50+),age-adjusted rates + subtype,subtype incidence trends by race SEER 1992-2004
+316,include-narrative,,SEER 18,white/black,delay-adjusted early estimates,early-estimate projection report all-cancer; breast white/black in validation tables -> narrative/overlap
