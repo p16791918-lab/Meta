@@ -13,3 +13,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 190,include-narrative,,Massachusetts Cancer Registry,Chinese/S.Asian/Vietnamese (ref=All Asians),age-adjusted rates vs All Asians/All MA,reference is All-Asian not NHW -> narrative/context
 385,exclude,Did not report the outcome of interest,SEER + hospital registry,disaggregated AANHPI vs NHW,stage-at-presentation AOR,outcome is advanced-stage odds not incidence rates
 79,recheck,,Arizona Cancer Registry,Hispanic vs NHW,age-adjusted models,mostly tumor-characteristic odds; verify age-adjusted incidence rate per 100k exists
+5,exclude,Did not report the outcome of interest,SEER,stage IV by race,age-adjusted stage IV incidence,stage IV-specific incidence not overall invasive by race vs NHW
+12,include-quant,,SEER,race/ethnicity vs reference,age-standardized incidence + rate ratios,breast among female-specific cancers SEER 2017-2021 rate ratios by race
+14,include-narrative,,USCS,race/ethnicity vs NHW (65+),IRR table,USCS 65+ only; rates include in-situ+invasive combined -> restricted estimand
+17,include-quant,,NAACCR,each race vs white,age-specific rates + RR per 100k,NAACCR Breast Cancer Project age-specific rates + RR
+31,include-quant,,SEER 13,NHB vs NHW,age-standardized rates + APC/projection,convergence NHB/NHW SEER13 1992-2014
+46,include-quant,,SEER 22,race/ethnicity + subtype,age-adjusted rates + APC,subtype-specific incidence by race SEER22 2010-2019
+51,include-quant,,Alaska Native Tumor Registry,Alaska Native vs USW,age-adjusted rates + RR (fig/table),ANTR 1969-2018; OVERLAPS 28/415/428 -> keep representative at dedup
+66,include-quant,,SEER 21,minority vs NH-White,incidence rates by age/race,SEER21 2014-2017 invasive incidence by age and race
+76,include-quant,,SEER,race/ethnicity,rates-by-race table 1975-2000,SEER female breast incidence by race table; check overlap w/ SEER national trends
+80,include-narrative,,Multiethnic Cohort,Filipino by generation,cohort incidence,MEC Filipino generational; comparator=generation not NHW -> verify/narrative
+93,include-quant,,NAACCR (7 Delta states),White vs Black + subtype,age-adjusted rates + RR,lower Mississippi Delta subtype-specific rates/RR 2012-2014
+103,include-quant,,California Cancer Registry,race/ethnicity + subtype,age-specific rates + IRR,black-white crossover subtype CCR 2006-2009
