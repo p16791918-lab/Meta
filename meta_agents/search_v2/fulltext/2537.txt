@@ -1,0 +1,2932 @@
+record_id=2537 pmid=30285281 doi=10.3322/caac.21494
+SOURCE: manual-pdf
+TITLE: Cancer Statistics for Hispanics/Latinos, 2018
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER 2018      425
+Introduction
+Hispanics are the second largest racial/ethnic group in the United States after 
+non-Hispanic whites (NHWs). The US Census Bureau estimated that approxi-
+mately 57.5 million Hispanics lived in the continental United States and Hawaii 
+in 2016, comprising 17.8% of the total population and more than one-third of 
+the populations in some Southern and Western states (eg, California, Texas, and 
+New Mexico).1,2 In addition, more than 3 million Hispanic US citizens live in 
+Puerto Rico, a US territory where 98.9% of the population identifies as Hispanic.2 
+The term Hispanic is used to refer to persons of Mexican, Cuban, Puerto Rican, 
+South or Central American, Dominican, or other Spanish descent. According 
+to US Census Bureau estimates, the majority of Hispanics in the continental US 
+Cancer Statistics for Hispanics/Latinos, 2018
+Kimberly D. Miller, MPH1,*Ann Goding Sauer, MSPH2; Ana P. Ortiz, PhD, MPH3; Stacey A. Fedewa, PhD4;  
+Paulo S. Pinheiro, MD, PhD, MSc5; Guillermo Tortolero-Luna, MD, PhD6; Dinorah Martinez-Tyson, PhD, MPH, MA7;  
+Ahmedin Jemal, DVM, PhD8; Rebecca L. Siegel, MPH9
+Abstract: Cancer is the leading cause of death among Hispanics/Latinos, who rep-
+resent the largest racial/ethnic minority group in the United States, accounting for 
+17.8% (57.5 million) of the total population in the continental United States and 
+Hawaii in 2016. In addition, more than 3 million Hispanic Americans live in the US 
+territory of Puerto Rico. Every 3 years, the American Cancer Society reports on 
+cancer occurrence, risk factors, and screening for Hispanics in the United States 
+based on data from the National Cancer Institute, the North American Association 
+of Central Cancer Registries, and the Centers for Disease Control and Prevention. 
+For the first time, contemporary incidence and mortality rates for Puerto Rico, 
+which has a 99% Hispanic population, are also presented. An estimated 149,100 new 
+cancer cases and 42,700 cancer deaths will occur among Hispanics in the continen-
+tal United States and Hawaii in 2018. For all cancers combined, Hispanics have 25% 
+lower incidence and 30% lower mortality compared with non-Hispanic whites, al-
+though rates of infection-related cancers, such as liver, are up to twice as high in 
+Hispanics. However, these aggregated data mask substantial heterogeneity within 
+the Hispanic population because of variable cancer risk, as exemplified by the sub-
+stantial differences in the cancer burden between island Puerto Ricans and other 
+US Hispanics. For example, during 2011 to 2015, prostate cancer incidence rates in 
+Puerto Rico (146.6 per 100,000) were 60% higher than those in other US Hispanics 
+combined (91.6 per 100,000) and 44% higher than those in non-Hispanic whites 
+(101.7 per 100,000). Prostate cancer is also the leading cause of cancer death 
+among men in Puerto Rico, accounting for nearly 1 in 6 cancer deaths during 2011-
+2015, whereas lung cancer is the leading cause of cancer death among other US 
+Hispanic men combined. Variations in cancer risk are driven by differences in expo-
+sure to cancer-causing infectious agents and behavioral risk factors as well as the 
+prevalence of screening. Strategies for reducing cancer risk in Hispanic populations 
+include targeted, culturally appropriate interventions for increasing the uptake of 
+preventive services and reducing cancer risk factor prevalence, as well as additional 
+funding for Puerto Rico-specific and subgroup-specific cancer research and surveil-
+lance. CA: Cancer J Clin. 2018;68:425-445. © 2018 American Cancer 
+Society.
+Keywords: Hispanics, Latinos, statistics, surveillance
+1Senior Associate Scientist, Surveillance 
+and Health Services Research, Intramural 
+Research, American Cancer Society, Atlanta, 
+GA; 2Senior Associate Scientist, Surveillance 
+and Health Services Research, Intramural 
+Research, American Cancer Society, Atlanta, 
+GA; 3Professor, Epidemiology and Biostatistics, 
+University of Puerto Rico School of Public 
+Health, San Juan, PR; 4Senior Principal 
+Scientist, Surveillance and Health Services 
+Research, Intramural Research, American Cancer 
+Society, Atlanta, GA; 5Research Associate 
+Professor, Miller School of Medicine, University 
+of Miami, Miami, FL; 6Co-Director, Puerto Rico 
+Central Cancer Registry, San Juan, PR; 7Assistant 
+Professor, University of South Florida, Tampa, 
+FL; 8Scientific Vice President, Surveillance and 
+Health Services Research, Intramural Research, 
+American Cancer Society, Atlanta, GA; 9Scientific 
+Director, Surveillance Research, Surveillance 
+and Health Services Research, American Cancer 
+Society, Atlanta, GA. 
+Corresponding author: Kimberly D. Miller, 
+MPH, American Cancer Society, 250 Williams 
+St NW, Atlanta GA 30303; kimberly.miller@
+cancer.org
+DISCLOSURES: Kimberly D. Miller, Ann 
+Goding Sauer, Stacey A. Fedewa, Ahmedin 
+Jemal, and Rebecca L. Siegel are employed 
+by the American Cancer Society and work in 
+the intramural research department, which 
+received a grant from Merck Inc for research 
+outside the submitted work; however, their 
+salary is solely funded through American 
+Cancer Society funds. Ana P. Ortiz, Paulo S. 
+Pinheiro, Guillermo Tortolero-Luna and Dinorah 
+Martinez-Tyson report no conflicts of interest.
+doi: 10.3322/caac.21494. Available online at 
+cacancerjournal.com
+
+2018 Statistics for Hispanics & Latinos
+426      CA: A Cancer Journal for Clinicians
+and Hawaii self-identify as Mexican (63.2%), followed by 
+Puerto Rican (9.5%), Cuban (3.9%), Salvadoran (3.8%), and 
+Dominican (3.3%).3 Federal standards currently define race 
+and ethnicity as separate and distinct concepts; therefore, 
+people of Hispanic origin may identify as any race, includ-
+ing various combinations of European, American Indian, 
+and African ancestry.
+Cancer patterns in US Hispanics are an important pub-
+lic health focus for several reasons. First, Hispanics are 
+especially vulnerable to cancer inequalities because of dis-
+proportionate poverty and other barriers to optimal health. 
+For example, among nonelderly (those aged 18-64 years) 
+patients diagnosed with cancer during 2007 through 2012, 
+Hispanics were more than twice as likely as NHWs to be 
+uninsured or Medicaid-insured.4 In addition, Hispanics as 
+an aggregate group have among the highest prevalence of 
+certain cancer risk factors, including obesity and type 2 di-
+abetes.5,6 Third, the Hispanic population is one of the most 
+rapidly growing in the United States and is expected to 
+nearly double by 2060,1 which has important implications 
+for the future US cancer burden.
+This report provides current cancer incidence, survival, 
+and mortality statistics for Hispanics living in the conti-
+nental United States and Hawaii, including the projected 
+numbers of new cases and deaths in 2018, as well as the 
+prevalence of selected cancer risk factors and screening 
+uptake. In addition, cancer incidence and mortality rates 
+for Puerto Rico, which were not included in previous itera-
+tions of this report because of limitations in incidence data 
+completeness and reliability, are presented herein to high-
+light differences in the cancer burden from the continental 
+United States.
+Materials and Methods
+Incidence and Mortality
+Cancer incidence data in the United States are collected and 
+disseminated by the National Cancer Institute’s (NCI’s) 
+Surveillance, Epidemiology, and End Results (SEER) pro-
+gram and the Centers for Disease Control and Prevention’s 
+(CDC’s) National Program of Cancer Registries (NPCR). 
+The SEER program reports population-based incidence 
+and survival data, covering approximately 28% of the US 
+population and 38% of US Hispanics in the most recent 
+time period, and began coding Hispanic ethnicity in 1992. 
+Twelve SEER registries were the source for incidence trends 
+from 1992 through 2015 (Connecticut, Hawaii, Iowa, New 
+Mexico, Utah, rural Georgia, and the metropolitan areas 
+of Atlanta, Detroit, Los Angeles, San Francisco-Oakland, 
+San Jose-Monterey, and Seattle-Puget Sound).7 In 2000, 5 
+additional catchment areas were added to the SEER pro-
+gram (Kentucky, Greater California, New Jersey, Louisiana, 
+and Greater Georgia); collectively, these 17 registries were 
+the source for the lifetime probability of developing cancer 
+(2013-2015) and 5-year cause-specific survival rates (2008-
+2014).8 Cause-specific survival is a net-survival measure 
+that relies on specified cause of death instead of life tables, 
+which are necessary for calculating relative survival and 
+have historically been unavailable for populations other 
+than whites and blacks.9 Stage at diagnosis was classified 
+based on SEER summary stage 2000 except for gallbladder 
+cancer, which was based on derived SEER summary stage 
+2000 (2004 and later). The lifetime probability of develop-
+ing cancer was calculated using the NCI’s DevCan software 
+(version 6.7.6).10
+The North American Association of Central Cancer 
+Registries (NAACCR) compiles and reports incidence data 
+for 1995 forward from US cancer registries that participate 
+in the SEER program and/or the NPCR and certifies regis-
+tries according to data quality, completeness, and timeliness. 
+Data that met the NAACCR’s highest quality certification 
+standards were the source for 5-year average annual inci-
+dence rates (2011-2015), stage at diagnosis (2011-2015), 
+and the 2018 new cancer case projections (2006-2015) for 
+the United States combined.11,12
+Mortality data by Hispanic origin for the United States 
+have been available since 1990 from the CDC’s National 
+Center for Health Statistics.13 However, long-term mor-
+tality trends (1990-2016) exclude deaths from Louisiana, 
+New Hampshire, and Oklahoma because information on 
+Hispanic origin for these states was not available for one 
+or more years between 1990 and 1996. All other mortality 
+statistics for the United States combined were based on data 
+from all 50 states and the District of Columbia.
+All cancer cases were classified according to the 
+International Classification of Diseases for Oncology.14,15 
+Causes of death were classified according to the International 
+Classification of Diseases 9th and 10th revisions.16,17 
+Incidence and death rates are expressed per 100,000 pop-
+ulation and were calculated using SEER*Stat software 
+(version 8.3.5) based on population estimates from the US 
+Census Bureau and age adjusted to the 2000 US standard 
+population. Ten-year trends in incidence and mortality 
+during 2006 through 2015 are based on the average annual 
+percent change in rates using joinpoint regression analy-
+sis (Joinpoint version 4.6.0.0; National Cancer Institute, 
+Rockville, Maryland). Trends were deemed increasing or 
+decreasing when the slope of the fitted line segment was 
+statistically different from zero (2-sided P value < .05).
+Puerto Rico Incidence and Mortality
+The Puerto Rico Central Cancer Registry has collected 
+information on cancer cases in the territory since 1950 and 
+joined the NPCR in 1997.18,19 Incidence data for Puerto Rico 
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      427
+have historically been available through the CDC’s United 
+States Cancer Statistics; however, the registry first achieved 
+NAACCR gold certification for the most recent data sub-
+mission year (2017), indicating the highest levels of data 
+completeness, quality, and reliability. Puerto Rico mortality 
+rates (2011-2015) for selected cancers herein were previously 
+published in volume 3 of NAACCR’s Cancer Incidence in 
+North America.20 Puerto Rico cancer incidence and mortal-
+ity rates are presented for all races and ethnicities combined; 
+however, because the population is 98.9% Hispanic,2 rates 
+are unlikely to be influenced by cases among non-Hispanics.
+Projected Cancer Cases and Deaths in 2018
+The most recent year for which cancer incidence and mor-
+tality data are available lags 2 to 4 years behind the current 
+year because of the time required for data collection, compi-
+lation, and dissemination. Therefore, we projected the num-
+bers of new cancer cases and deaths among Hispanics in the 
+continental US and Hawaii in 2018 to provide an estimate 
+of the contemporary cancer burden. First, the complete 
+number of cases diagnosed each year from 2006 through 
+2015 was estimated by applying age-specific and sex- 
+specific incidence rates, based on data from 46 states that met 
+NAACCR’s high quality standards for all 10 years (cover-
+ing 96% of the US Hispanic population), to the correspond-
+ing US Census Bureau’s population estimates. Estimated 
+case counts were adjusted for delays in case reporting using 
+age-specific, composite delay factors derived from the 
+NAACCR 2017 data submission (personal communica-
+tion, Don Green [Information Management Services on 
+behalf of NAACCR] and Eric Feuer [NCI]). Then, case 
+counts were projected to 2018 based on the average annual 
+percent change from 2006 through 2015 generated by join-
+point regression modeling. The number of cancer deaths 
+was estimated using the annual percent change for the most 
+recent joinpoint trend based on the actual numbers of can-
+cer deaths from 2002 through 2016. For the complete de-
+tails of this methodology, please refer to Chen et al.21
+Risk Factors and Screening
+Data on behavioral risk factors (cigarette smoking, excess 
+body weight, physical inactivity, and alcohol consumption), 
+FIGURE 1. Leading Sites of New Cancer Cases and Deaths Among Hispanics—2018 Estimates. 
+*Estimates are rounded to the nearest 100 and exclude basal and squamous cell skin cancers and in situ carcinoma except urinary bladder. Estimates exclude 
+Puerto Rico and other US territories. Rankings are based on modeled projections and may differ from the most recent observed data. 
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+428      CA: A Cancer Journal for Clinicians
+receipt of cancer screening, and vaccination coverage 
+were obtained from national population-based surveys. 
+All statistics for adults in the continental US and Hawaii 
+were derived from the National Health Interview Survey 
+(NHIS)22 with the exception of excess body weight, which 
+was obtained from the National Health and Nutrition 
+Examination Survey (NHANES).23 Risk factor and cancer 
+screening information by Hispanic subgroup for adults is 
+limited in NHANES and is available only for Mexicans. 
+Human papillomavirus vaccination coverage among adoles-
+cents in the continental US and Hawaii was obtained from 
+the National Immunization Survey for Teens.24 Previously 
+published estimates from the Behavioral Risk Factor 
+Surveillance System were used for risk factor and screening 
+prevalence in Puerto Rico; these estimates are not directly 
+comparable to NHIS or NHANES estimates. NHIS and 
+NHANES were analyzed using SUDAAN (version 11.0.1; 
+RTI International, Research Triangle Park, NC) to obtain 
+weighted prevalence estimates, which are considered rep-
+resentative of the noninstitutionalized civilian population.
+Selected Findings
+The following sections present cancer incidence, survival, 
+and mortality statistics for Hispanics in the continental US 
+and Hawaii; data are presented separately for Puerto Rico.
+Overall Cancer Occurrence
+Incidence
+In 2018, approximately 149,100 new cancer cases are ex-
+pected to be diagnosed among Hispanics living in the con-
+tinental United States and Hawaii (Figure 1). The most 
+commonly diagnosed cancers among Hispanic men are 
+prostate (21%), colorectal (12%), and lung and bronchus 
+(lung) (8%) cancers, whereas the most commonly diag-
+nosed cancers among Hispanic women are breast (29%), 
+thyroid (8%), and uterine corpus (8%) cancers. The distri-
+bution of cancers in US Hispanics varies from that in the 
+general population because of differences in lifestyle and 
+environmental factors as well as the substantially younger 
+age structure of the population. In 2016, the median age 
+among Hispanics was 27 years compared with 42 years 
+among NHWs.2 Thyroid cancer has become the second 
+most commonly diagnosed cancer in Hispanic women both 
+because it has a younger median age at diagnosis compared 
+with other cancers (age 50 years vs 65 years for all sites 
+combined among women)25 and because incidence rates 
+increased rapidly over the past few decades (Figure 2).7 
+Conversely, lung cancer accounts for a lower percentage 
+of cases among Hispanic men and women (8% and 6%, 
+respectively) than among men and women in the general 
+US population (14% and 13%, respectively),26 reflecting 
+both the low smoking prevalence among Hispanics and 
+the older median age at diagnosis for lung cancer (age 70 
+years).5,25
+The lifetime probability of developing cancer among 
+US Hispanic men and women is 36% and 35%, respec-
+tively, compared with 40% and 39%, respectively, among 
+NHWs, although probabilities vary by cancer types 
+(Table 1). Incidence rates among Hispanic men and 
+women are 25% lower than those among NHWs overall 
+FIGURE 2. Trends in Cancer Incidence Rates Among Hispanics, 1992 to 
+2015. 
+Rates are age adjusted to the 2000 US standard population and are adjusted 
+for reporting delays. Rates are based on cases from the SEER 12 registry 
+areas. *Liver includes the intrahepatic bile duct.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      429
+(Table 2) and are lower for every age group except those 
+aged 5 to 14 years, among whom rates are similar (data 
+not shown). The cancer profile in US Hispanics resem-
+bles that in Latin America, because one-third of the 
+population is foreign-born (Table 3) and thus appears to 
+maintain much of the cancer risk of their country of ori-
+gin. For example, as an aggregated group, Hispanics are 
+less likely than NHWs to be diagnosed with the 4 most 
+common cancers (prostate, breast, lung and bronchus, 
+and colorectal) but have a higher risk of infection-re-
+lated cancers (stomach, liver, and cervix) (Table 2), 
+which, with the exception of liver cancer, occur more 
+frequently in Latin American countries.27 However, 
+incidence varies substantially by nativity and duration 
+of residence, with rates in some groups approaching or 
+surpassing those of NHWs, particularly among US-born 
+Hispanics.28,29
+From 2006 through 2015, overall cancer incidence rates 
+declined by 2.3% per year among Hispanic men, similar to 
+trends in NHW men, but increased slightly by 0.4% annu-
+ally among Hispanic women, compared with stable rates in 
+NHW women (Figure 3 and Table 4). However, an analysis 
+TABLE 1.  Probability (%) of Developing Invasive Cancer During Selected Age Intervals by Race/Ethnicity and Sex, United 
+States, 2013 Through 2015*
+AGE <50 YEARS
+AGE ≥50 YEARS
+ALL AGES
+HISPANIC (%)
+NH WHITE (%)
+HISPANIC (%)
+NH WHITE (%)
+HISPANIC (%)
+NH WHITE (%)
+All cancer types†
+Male
+2.6 (1 in 39)
+3.8 (1 in 26)
+36.3 (1 in 3)
+40.3 (1 in 2)
+36.1 (1 in 3)
+39.9 (1 in 3)
+Female
+4.6 (1 in 22)
+6.2 (1 in 16)
+32.3 (1 in 3)
+36.6 (1 in 3)
+34.6 (1 in 3)
+39.2 (1 in 3)
+Breast
+Female
+1.5 (1 in 65)
+2.1 (1 in 48)
+8.7 (1 in 12)
+11.8 (1 in 8)
+9.9 (1 in 10)
+13.2 (1 in 8)
+Colorectum
+Male
+0.3 (1 in 372)
+0.4 (1 in 248)
+4.5 (1 in 22)
+4.3 (1 in 23)
+4.5 (1 in 22)
+4.3 (1 in 23)
+Female
+0.3 (1 in 380)
+0.4 (1 in 270)
+3.7 (1 in 27)
+3.8 (1 in 26)
+3.9 (1 in 26)
+4.0 (1 in 25)
+Kidney & renal pelvis
+Male
+0.2 (1 in 497)
+0.2 (1 in 410)
+2.2 (1 in 45)
+2.1 (1 in 48)
+2.3 (1 in 43)
+2.2 (1 in 46)
+Female
+0.2 (1 in 628)
+0.2 (1 in 647)
+1.3 (1 in 76)
+1.1 (1 in 91)
+1.4 (1 in 70)
+1.2 (1 in 83)
+Liver & intrahepatic bile duct
+Male
+0.1 (1 in 1,206)
+<0.1 (1 in 2,089)
+2.4 (1 in 42)
+1.2 (1 in 87)
+2.3 (1 in 43)
+1.1 (1 in 89)
+Female
+<0.1 (1 in 3,037)
+<0.1 (1 in 3,708)
+1.2 (1 in 87)
+0.5 (1 in 215)
+1.1 (1 in 87)
+0.5 (1 in 212)
+Lung & bronchus
+Male
+0.1 (1 in 1,557)
+0.2 (1 in 615)
+4.6 (1 in 22)
+7.4 (1 in 14)
+4.4 (1 in 23)
+7.0 (1 in 14)
+Female
+0.1 (1 in 1,454)
+0.2 (1 in 555)
+3.5 (1 in 28)
+6.7 (1 in 15)
+3.5 (1 in 29)
+6.5 (1 in 15)
+Prostate
+Male
+0.1 (1 in 772)
+0.2 (1 in 457)
+10.9 (1 in 9)
+11.2 (1 in 9)
+10.4 (1 in 10)
+10.6 (1 in 9)
+Stomach
+Male
+0.1 (1 in 1,074)
+<0.1 (1 in 2,166)
+1.6 (1 in 64)
+0.9 (1 in 117)
+1.6 (1 in 64)
+0.8 (1 in 119)
+Female
+0.1 (1 in 1,111)
+<0.1 (1 in 3,176)
+1.1 (1 in 89)
+0.4 (1 in 233)
+1.2 (1 in 85)
+0.4 (1 in 227)
+Thyroid
+Male
+0.1 (1 in 768)
+0.2 (1 in 408)
+0.4 (1 in 255)
+0.5 (1 in 190)
+0.5 (1 in 200)
+0.7 (1 in 137)
+Female
+0.7 (1 in 139)
+1.0 (1 in 104)
+1.1 (1 in 90)
+1.1 (1 in 95)
+1.8 (1 in 56)
+2.0 (1 in 51)
+Uterine cervix
+Female
+0.3 (1 in 346)
+0.3 (1 in 353)
+0.5 (1 in 185)
+0.3 (1 in 340)
+0.8 (1 in 123)
+0.6 (1 in 177)
+Uterine corpus
+Female
+0.3 (1 in 316)
+0.3 (1 in 347)
+2.3 (1 in 43)
+2.8 (1 in 36)
+2.6 (1 in 39)
+3.0 (1 in 34)
+NH indicates non-Hispanic.
+NOTE: Percentages and “1 in” numbers may not be equivalent due to rounding. Data exclude Puerto Rico.
+*For those who are free of cancer at the beginning of each age interval.
+†All sites exclude basal cell and squamous cell skin cancers and in situ cancers except urinary bladder.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+430      CA: A Cancer Journal for Clinicians
+based on more complete US population coverage indicated 
+that rates among Hispanic women appear to have stabilized 
+in recent years.30 Although incidence rates continue to be 
+higher in Hispanic men than women, rates are converging 
+(Figure 3). The male-to-female rate ratio has narrowed 
+from 1.48 (95% confidence interval [95% CI], 1.42-1.54) in 
+1992 to 1.07 (95% CI, 1.04-1.10) in 2015.7
+Stage at diagnosis and survival
+Hispanics are generally less likely than NHWs to be diag-
+nosed with cancer at an early stage, with the largest dispari-
+ties for melanoma and female breast cancer (Figure 4). Less 
+access to high-quality care because of lower socioeconomic 
+status contributes to this disparity,31,32 although some 
+studies have shown that Hispanics are at higher risk of 
+advanced-stage diagnosis even when socioeconomic status 
+and health care access are similar.33,34 Surprisingly, how-
+ever, 5-year survival among Hispanics is generally similar 
+to that among NHWs except for melanoma, for which 
+Hispanics, especially men, have reduced survival (78.9% 
+[95% CI, 76.2%-81.4%] versus 87.8% [95% CI, 87.4%-
+88.1%]) (Figure 5). This so-called Hispanic paradox is 
+partly because of incomplete death ascertainment, espe-
+cially for more fatal cancers,35 caused in part by logistical 
+challenges associated with case follow-up for reasons such 
+TABLE 2. Cancer Incidence And Mortality Rates And Ratios Comparing Hispanics With Non-Hispanic Whites, United States, 
+2011 Through 2016
+INCIDENCE, 2011 TO 2015
+MORTALITY, 2012 TO 2016
+MALE
+FEMALE
+MALE
+FEMALE
+HISPANIC
+NH 
+WHITE
+RATE 
+RATIO†
+HISPANIC
+NH 
+WHITE
+RATE 
+RATIO†
+HISPANIC
+NH 
+WHITE
+RATE 
+RATIO†
+HISPANIC
+NH 
+WHITE
+RATE 
+RATIO†
+All sites
+377.6
+505.5
+0.75*
+329.9
+438.4
+0.75*
+138.2
+197.3
+0.70*
+96.4
+141.8
+0.68*
+Breast (female)
+93.0
+130.1
+0.71*
+14.3
+20.6
+0.69*
+Colorectum
+41.7
+44.6
+0.93*
+28.8
+34.2
+0.84*
+14.4
+16.6
+0.87*
+8.8
+11.9
+0.74*
+Gallbladder
+1.2
+0.7
+1.79*
+2.5
+1.1
+2.31*
+0.6
+0.4
+1.42*
+1.2
+0.6
+1.91*
+Liver & intrahepatic bile 
+duct
+19.7
+10.3
+1.91*
+7.8
+3.6
+2.18*
+13.3
+8.3
+1.60*
+6.0
+3.4
+1.73*
+Lung & bronchus
+39.2
+74.3
+0.53*
+24.6
+57.4
+0.43*
+25.3
+54.1
+0.47*
+13.1
+37.9
+0.35*
+Prostate
+91.6
+101.7
+0.90*
+15.9
+18.1
+0.88*
+Stomach
+12.5
+7.8
+1.61*
+7.7
+3.5
+2.18*
+6.5
+3.3
+1.98*
+4.0
+1.7
+2.41*
+Testis
+4.7
+6.8
+0.69*
+0.3
+0.3
+0.97
+Thyroid
+5.4
+8.2
+0.67*
+20.6
+23.0
+0.90*
+0.6
+0.5
+1.05
+0.7
+0.4
+1.53*
+Uterine cervix
+9.6
+7.1
+1.36*
+2.6
+2.1
+1.26*
+NH indicates non-Hispanic.
+Rates are per 100,000 and age adjusted to the 2000 US standard population. Rates exclude Puerto Rico.
+*The difference between the rates for Hispanics and non-Hispanic whites is significant (P < .05).w
+†Ratio is the unrounded Hispanic rate divided by the corresponding unrounded non-Hispanic white rate.
+TABLE 3.  Socioeconomic Characteristics (%) by Race/Ethnicity and Hispanic Origin, United States, 2012 Through 2016
+HISPANIC
+HISPANIC ORIGIN SUBGROUPS
+NH WHITES
+ALL
+MEXICAN
+PUERTO 
+RICAN
+CUBAN
+CENTRAL 
+AMERICAN
+SOUTH 
+AMERICAN
+DOMINICAN
+ALL
+Foreign-born
+34.8
+32.7
+1.6
+56.9
+59.6
+62.4
+54.7
+3.9
+Income below federal poverty 
+level
+23.5
+24.6
+25.4
+18.7
+23.1
+14.2
+26.8
+10.6
+Speak English "not well" or "not 
+at all"*
+25.4
+25.4
+12.8
+33.5
+35.3
+21.5
+30.8
+11.3
+Less than high school diploma, 
+adults aged ≥25 years
+34.4
+39.8
+22.1
+20.5
+44.1
+14.5
+31.2
+8.0
+NH indicates non-Hispanic. Data exclude Puerto Rico.
+*Among respondents ≥5 years who indicated that a language other than English was spoken at home. Respondents were asked to rank English-speaking ability 
+as "not at all," "not well," "well," or "very well."
+Source: US Census Bureau, American Community Survey, Public Use Microdata File, 2012-2016.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      431
+as return migration after diagnosis (“salmon bias”). A selec-
+tively healthy immigrant population also may bias survival 
+statistics for US Hispanics.36,37 Survival differences are also 
+likely influenced to some extent by differences in age struc-
+ture, as survival statistics herein are unadjusted for age.
+Mortality
+Cancer is the leading cause of death among Hispanics in 
+the continental US and Hawaii, followed by heart disease, 
+based on recorded vital statistics data for 2016 (Table 5). In 
+2018, an estimated 42,700 Hispanic men and women will 
+die from cancer (Figure 1). Among men, the most common 
+causes of cancer death are lung (16%), liver (12%), and colo-
+rectal (11%) cancers, whereas among women, the most com-
+mon causes of cancer death are breast (16%), lung (13%), and 
+colorectal (9%) cancers. Notably, lung cancer accounts for a 
+FIGURE 3. Trends in Cancer Incidence and Death Rates by Ethnicity, 1990 
+to 2016.
+Rates are age adjusted to the 2000 US standard population and incidence 
+rates are adjusted for reporting delays. Rates exclude cases and deaths from 
+Puerto Rico. NH indicates non-Hispanic.
+TABLE 4. FIXED INTERVAL TRENDS (AVERAGE ANNUAL PERCENT 
+CHANGE) IN CANCER INCIDENCE AND DEATH RATES, 
+UNITED STATES, 2006 THROUGH 2016
+INCIDENCE, 2006 TO 
+2015
+MORTALITY, 2007 TO 
+2016
+HISPANIC
+NH 
+WHITE
+HISPANIC
+NH 
+WHITE
+All sites
+Male
+-2.3*
+-1.8*
+-1.6*
+-1.6*
+Female
+0.4*
+0.1
+-1.0*
+-1.3*
+Breast
+Female
+0.4*
+0.3
+-1.1*
+-1.8*
+Colon and rectum
+Male
+-2.3*
+-2.6*
+-1.6*
+-2.3*
+Female
+-1.7*
+-2.3*
+-2.3*
+-2.1*
+Gallbladder
+Male
+0.1
+-0.4
+-2.3*
+-1.7*
+Female
+-1.8*
+-1.2*
+-2.7*
+-2.2*
+Liver and intrahepatic bile duct
+Male
+0.8
+3.0*
+1.5*
+2.3*
+Female
+2.8*
+4.0*
+1.2*
+2.3*
+Lung and bronchus
+Male
+-2.0*
+-2.6*
+-3.5*
+-3.3*
+Female
+-0.3
+-1.4*
+-1.4*
+-2.3*
+Prostate
+Male
+-6.1*
+-5.7*
+-2.7*
+-2.1*
+Thyroid
+Male
+3.9*
+3.7*
+0.8
+1.4*
+Female
+3.8*
+3.2*
+0.0
+0.2*
+Stomach
+Male
+-2.0*
+-1.2*
+-2.9*
+-2.9*
+Female
+-0.9*
+-1.4*
+-1.8*
+-3.1*
+Uterine cervix†
+Female
+-4.0*
+-0.3
+-2.3*
+-0.1
+NH indicates non-Hispanic.
+Incidence trends are based on 1992-2015 delay-adjusted incidence rates from 
+the oldest Surveillance, Epidemiology, and End Results (SEER) 12 registries.
+Mortality trends are based on 1990-2016 mortality rates and exclude data 
+from Louisiana, New Hampshire, and Oklahoma.
+NOTE: Incidence and mortality trends are not directly comparable due to dif-
+ferences in data years and population coverage. Rates exclude data from 
+Puerto Rico.
+*The average annual percent change was significantly different from zero 
+(P < .05).
+†Unadjusted for hysterectomy prevalence.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+432      CA: A Cancer Journal for Clinicians
+FIGURE 4. Stage Distribution for Selected Cancers in Hispanic and Non-Hispanic Whites, United States, 2011 to 2015. 
+Percentages may not total 100 because of rounding. NH indicates non-Hispanic. Data exclude cases diagnosed in Puerto Rico.
+FIGURE 5. Five-Year Cause-Specific Survival Rates (%) by Ethnicity, 2008 to 2014. 
+Patients were diagnosed from 2008 through 2014, and all were followed through 2015. 
+NH indicates non-Hispanic. Data are based on the SEER 17 registry areas. *Liver includes the intrahepatic bile duct. 
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      433
+much lower proportion of cancer deaths among Hispanics 
+than among the general population (14% of deaths versus 
+about 25%, respectively), whereas liver cancer accounts for 
+a much higher proportion, particularly among men (12% 
+versus 6%, respectively).26
+Overall cancer death rates are approximately 30% lower 
+in Hispanics than in NHWs (Table 2). However, the rates 
+in Hispanics aged younger than 30 years are the same 
+as those in NHWs except for males aged 15 to 24 years, 
+among whom rates in Hispanics are slightly higher (4.6 
+[95% CI, 4.4-4.9] vs 3.7 [95% CI, 3.6-3.9] per 100,000 pop-
+ulation, respectively, during 2012-2016) (data not shown), 
+which may reflect the lower survival in young Hispanic 
+males for testicular cancer, which is the most commonly 
+diagnosed cancer in this age group, and leukemia, which is 
+more common in young Hispanics than in NHWs.12,38,39 
+There are also marked differences in cancer death rates 
+between Hispanic subpopulations.40,41 For example, col-
+orectal cancer (CRC) death rates among men in Florida are 
+nearly twice as high in Cubans as in Mexicans (18.9 per 
+100,000 vs 10.2 per 100,000, respectively, during 2008-
+2012).41 Similarly, there is also substantial heterogeneity in 
+cancer death rates by nativity. For example, cancer death 
+rates in US-born Hispanic men living in Texas were 61% 
+higher than those in foreign-born Hispanic men (201.4 per 
+100,000 vs 124.8 per 100,000, respectively, during 2008-
+2012) and were similar to those in NHW men (210.1 per 
+100,000 population).28
+Cancer death rates among Hispanics peaked 4 years later 
+than those among NHWs and, since the mid-1990s, have 
+been decreasing slightly more rapidly in men than in women 
+(Figure 3). Rates in Hispanic men and NHW women con-
+verged in the mid-2000s and have since remained similar. 
+From 2007 through 2016, cancer death rates in Hispanics 
+declined by 1.6% per year among men and by 1.0% per year 
+among in women, consistent with the declines in NHWs 
+(Table 4).
+The 4 Major Cancer Sites
+Female breast
+Invasive breast cancer is the most commonly diagnosed can-
+cer and the leading cause of cancer death among Hispanic 
+women in the United States, with 24,000 new cases and 
+3200 deaths expected in 2018. Both incidence and death 
+rates are approximately 30% lower in Hispanics than in 
+NHWs (Table 2), largely because of differences in detec-
+tion practice (incidence only) and reproductive patterns 
+and other hormonal factors that influence breast cancer 
+risk.42 Both younger age at first birth and higher parity are 
+TABLE 5.  Leading Causes of Death Among Hispanics and Non-Hispanic Whites, United States, 2016
+HISPANIC
+NH WHITE
+RANK
+NO. OF DEATHS
+PERCENT 
+TOTAL 
+DEATHS
+DEATH 
+RATE*
+RANK
+NO. OF DEATHS
+PERCENT 
+TOTAL 
+DEATHS
+DEATH RATE*
+Cancer
+1
+39,263
+21
+110.8
+2
+466,467
+22
+160.7
+Heart diseases
+2
+37,799
+20
+116.5
+1
+500,631
+23
+168.5
+Accidents (unintentional 
+injuries)
+3
+15,711
+8
+31.3
+4
+121,641
+6
+53.8
+Cerebrovascular diseases
+4
+10,283
+5
+32.3
+5
+107,491
+5
+36.1
+Diabetes
+5
+8,546
+5
+25.0
+7
+53,399
+3
+18.5
+Alzheimer’s disease
+6
+6,833
+4
+24.4
+6
+97,779
+5
+31.8
+Chronic liver disease & 
+cirrhosis
+7
+6,141
+3
+14.7
+12
+29,432
+1
+11.0
+Chronic lower respiratory 
+diseases
+8
+5,287
+3
+17.3
+3
+135,268
+6
+46.0
+Nephritis, nephrotic 
+syndrome, & nephrosis
+9
+3,775
+2
+11.5
+10
+35,246
+2
+11.9
+Intentional self-harm 
+(suicide)
+10
+3,668
+2
+6.7
+9
+36,531
+2
+17.0
+All causes
+188,254
+100
+528.6
+2,133,463
+100
+748.3
+NH indicates non-Hispanic.
+NOTE: Death rates are not directly comparable to those published in prior years due to updated population denominator data. Data exclude deaths from Puerto 
+Rico.
+*Rates are per 100,000 and age adjusted to the 2000 US standard population.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+434      CA: A Cancer Journal for Clinicians
+associated with lower breast cancer risk and are more com-
+mon in Hispanic women, particularly among those who are 
+foreign-born.43 For example, breast cancer mortality rates 
+in foreign-born Mexican women living in California were 
+28% lower than those in their US-born counterparts (12.9 
+per 100,000 population vs 18.0 per 100,000 population, 
+respectively, during 2008-2012).29 Similarly, an analysis of 
+Florida vital statistics data indicated that, compared with 
+other Hispanic subgroups, Puerto Rican and Cuban women 
+had the highest breast cancer mortality rates, approaching 
+those of NHW women, consistent with the lower parity in 
+these groups.41
+Breast cancer incidence rates in Hispanic women 
+have generally increased since at least 1992 (Figure 2); 
+from 2006 to 2015, breast cancer incidence rates among 
+Hispanic women generally increased on average by 0.4% 
+annually, in contrast to a stable trend among NHW 
+women. Increases during the 1990s are attributed to in-
+creased detection of preclinical disease because of the 
+rapid uptake of mammography screening. In contrast to 
+incidence trends, the breast cancer death rate declined 
+from 1990 to 2016 by 29% in Hispanic women (from 19.6 
+per 100,000 population to 13.9 per 100,000 population) 
+(Figure 6) and by 39% in NHW women (from 33.2 per 
+100,000 population to 20.1 per 100,000 population). 
+From 2007 to 2016, death rates declined by 1.1% per year 
+in Hispanic women and by 1.8% per year in NHW women 
+(Table 4), reflecting improvements in early detection and 
+treatment.44
+Hispanics are less likely than NHWs to be diagnosed 
+with breast cancer at a localized stage (57% vs 65%) 
+(Figure 4), likely because of lower mammography utili-
+zation (Table 6) and delayed follow-up after an abnormal 
+mammogram.45,46 Research is conflicted about differences 
+in breast cancer survival between Hispanic and NHW 
+women. Recent analyses from the California Cancer 
+Registry and the National Comprehensive Cancer Network 
+Breast Cancer Outcomes Database indicated that, despite 
+a larger proportion of advanced-stage, high-tumor grade, 
+and aggressive molecular characteristics, Hispanic women 
+have a lower risk of breast cancer–specific death than 
+NHW women after controlling for sociodemographics, 
+tumor characteristics, and treatment factors.47,48 However, 
+multivariate analysis studies of SEER registry data re-
+port a borderline increased risk of breast cancer death for 
+Hispanic women.34,49 The current 5-year survival rate 
+(cases diagnosed during 2008-2014) based on SEER data 
+are similar for Hispanic women (88%) and NHW women 
+(89%) (Figure 5), although the gap is slightly greater among 
+women aged younger than 50 years (88% in Hispanics vs 
+92% in NHWs).8
+Colon and rectum
+In 2018, an estimated 14,400 Hispanic men and women will 
+be diagnosed with CRC and 4200 will die from the disease 
+(Figure 1). CRC incidence rates among Hispanics are ap-
+proximately 7% to 16% lower than those among NHWs, and 
+death rates are 13% to 26% lower (Table 2). However, the 
+rates vary substantially between Hispanic subgroups and by 
+nativity. For example, a study of Texas residents indicated that 
+FIGURE 6. Trends in Cancer Death Rates Among Hispanics, 1990 to 2016. 
+Rates are age adjusted to the 2000 US standard population. *Liver includes 
+the intrahepatic bile duct.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      435
+CRC mortality rates in US-born Hispanics (24.1 per 100,000 
+men and 12.6 per 100,000 women during 2008-2012) were 
+double those in foreign-born Hispanics (11.6 per 100,000 
+and 6.3 per 100,000 men and women, respectively) and ap-
+proached or surpassed those in NHWs (18.1 per 100,000 and 
+12.6 per 100,000 men and women, respectively).28
+The current rate of decline is similar in Hispanics and 
+NHWs for incidence as well as mortality (approximately 
+2% per year) (Table 4). However, the decline in CRC inci-
+dence rates in the United States began later and initially was 
+slower in Hispanics than in NHWs. As a result, the 32% 
+lower risk of disease experienced by Hispanics in 1992 has 
+narrowed substantially, especially among men.7 Trends vary 
+by state; a recent analysis of California Cancer Registry and 
+vital statistics data indicated that CRC incidence and mor-
+tality rates in the state are already converging among men as 
+a result of stable or slowly declining rates among Hispanic 
+men in contrast to larger declines among NHWs.50
+The proportion of Hispanics diagnosed with CRC at 
+a localized stage is similar to that in NHWs (Figure 4), 
+despite lower CRC screening prevalence among Hispanics, 
+particularly among the uninsured (Table 6). Overall survival 
+is likewise similar (Figure 5) but may differ after adjusting 
+for other factors, particularly by subsite (cause-specific sur-
+vival by subsite is unavailable, because a large proportion of 
+rectal cancer deaths are misclassified as deaths from colon 
+cancer). For example, in 2 analyses of California Cancer 
+Registry data, overall CRC-specific mortality among 
+Hispanics was 7% to 11% lower than that among NHWs 
+after adjusting for sociodemographic, treatment, and other 
+clinical factors,47 but an earlier analysis found a 16% in-
+creased risk of death among Hispanics for rectal cancer.51
+Lung and bronchus
+In 2018, an estimated 10,600 Hispanic men and women 
+will be diagnosed with lung cancer, and 6100 will die from 
+TABLE 6.  Cancer Screening Test Use (%), Adults, United States, 2015
+HISPANIC
+HISPANIC SUBGROUPS
+NH WHITES
+ALL
+UNINSURED 
+(AGE ≤64 
+YEARS)
+MEXICAN
+PUERTO 
+RICAN
+CUBAN
+CENTRAL/SOUTH 
+AMERICAN
+DOMINICAN
+ALL
+UNINSURED 
+(AGE ≤64 
+YEARS)
+Cervical cancer screening (women aged 21-65 years)*
+Pap test within the 
+past 3 years
+77
+64
+77
+79
+82
+77
+81
+83
+58
+Up to date†
+79
+67
+78
+80
+84
+81
+82
+85
+61
+Breast cancer screening (women aged ≥40 years)
+Mammogram within 
+the past year
+46
+22
+44
+50
+40
+50
+48
+50
+20
+Mammogram within 
+the past 2 years
+61
+34
+60
+67
+51
+67
+59
+65
+28
+Colorectal cancer screening‡
+Overall
+Ages ≥45 years
+42
+13
+38
+53
+48
+42
+37
+56
+25
+Ages ≥50 years
+50
+14
+46
+62
+51
+52
+40
+65
+30
+Males
+Ages ≥45 years
+41
+§
+37
+52
+50
+45
+§
+57
+23
+Ages ≥50 years
+50
+§
+45
+65
+48
+55
+§
+66
+30
+Females
+Ages ≥45 years
+43
+9
+40
+53
+46
+41
+35
+56
+28
+Ages ≥50 years
+50
+10
+47
+60
+56
+50
+§
+65
+32
+NH indicates non-Hispanic; Pap, Papanicolaou.
+*Among women with intact uteri.
+†Pap test in the past 3 years among women 21 to 65 years of age OR Pap test and human papillomavirus test within the past 5 years among women 30 to 64 
+years of age.
+‡Fecal occult blood test (FOBT) in past year, sigmoidoscopy in past 5 years, or colonoscopy in past 10 years. Utilization of computed tomography colonography 
+(CTC) in the past 5 years was <2% and incorporating CTC into the overall screening estimates did not alter results and is not included in the above estimates.
+§Estimate not provided due to instability.
+NOTE: Estimates are age adjusted to the 2000 US standard population and do not distinguish between examinations for screening and diagnosis. Estimates 
+exclude Puerto Rico.
+Source: National Health Interview Survey, 2015.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+436      CA: A Cancer Journal for Clinicians
+the disease (Figure 1). Among Hispanics, lung cancer is the 
+leading cause of cancer death in men and the second lead-
+ing cause of cancer death in women; however, compared 
+with NHWs, lung cancer incidence and death rates are ap-
+proximately 50% lower in men and 60% lower in women 
+(Table 2), reflecting historic differences in smoking. 
+TABLE 7.  Current Cigarette Smoking, Electronic Cigarette Use, and Alcohol Consumption (%), Adults Aged 18 Years and 
+Older, United States, 2017
+HISPANIC
+NH WHITE
+MALE
+FEMALE
+TOTAL
+MALE
+FEMALE
+TOTAL
+Cigarette smoking*
+13
+7
+10
+17
+15
+16
+Origin†
+Puerto Rican
+19
+16
+17
+---
+---
+---
+Mexican
+15
+7
+11
+---
+---
+---
+Cuban
+10
+11
+10
+---
+---
+---
+Dominican
+**
+**
+6
+---
+---
+---
+Central/South American
+9
+4
+6
+---
+---
+---
+Education (ages 25 years and older)
+≤12 years, no diploma
+19
+6
+12
+45
+39
+42
+GED
+**
+23
+17
+48
+39
+44
+HS diploma
+11
+8
+9
+26
+24
+25
+Some college
+13
+11
+12
+18
+19
+19
+College degree
+9
+4
+6
+7
+5
+6
+Poverty status‡
+Poor
+17
+9
+12
+34
+35
+34
+Near poor
+15
+7
+11
+33
+25
+29
+Non poor
+11
+6
+9
+14
+11
+12
+Health insurance status (ages 18 to 
+64 years)
+Uninsured
+16
+7
+12
+39
+35
+37
+Insured
+12
+8
+10
+17
+15
+16
+Immigration status§
+US-born (including territories)
+15
+11
+13
+17
+15
+16
+Foreign-born
+11
+4
+8
+16
+6
+11
+E-cigarette use¶
+2
+**
+2
+4
+3
+4
+Alcohol consumption#
+66
+50
+58
+75
+72
+73
+Light
+32
+26
+29
+33
+38
+35
+Moderate
+19
+5
+12
+28
+12
+20
+Heavy
+4
+2
+3
+6
+7
+6
+Binge
+31
+15
+23
+36
+27
+31
+GED indicates General Educational Development high school equivalency; HS, high school; NH, Non-Hispanic.
+*Ever smoked 100 cigarettes in lifetime and smoking every day or some days at time of survey.
+†Estimates based on 2016 and 2017 National Health Interview Survey data combined.
+‡Poor: <99% of poverty threshold. Near poor: 100% to ≤199% of poverty threshold. Non poor: ≥200% of poverty threshold.
+§US-born includes those born in a US territory.
+¶Using e-cigarettes every day or some days at time of survey.
+#Current consumption: ≥12 drinks in lifetime and ≥1 drink in past year. Light: ≥12 drinks in lifetime and ≤3 drinks/week in past year. Moderate: ≥12 drinks in 
+lifetime and (male) 3-14 drinks/week in past year or (female) 3-7 drinks/week in past year. Heavy: ≥12 drinks in lifetime and (male) >14 drinks/week in past year 
+or (female) >7 drinks/week in past year. Binge: current drinker and (male) ≥5 or (female) ≥4 drinks on at least one day in the past year.
+**Estimate not provided due to instability.
+NOTE: Estimates are age adjusted to the 2000 US standard population. Estimates in this report may differ from earlier reports due to revised weights issues for 
+the National Health Interview Survey. Data exclude Puerto Rico.
+Source: National Health Interview Surveys, 2016 and 2017.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      437
+Approximately 80% of all lung cancer deaths in the United 
+States are caused by cigarette smoking among all races 
+combined,52 and smoking prevalence is nearly 40% lower 
+in Hispanics than in NHWs, with substantial variation by 
+sex, subgroup, and nativity but surprisingly less heteroge-
+neity by poverty status (compared to NHWs) (Table 7). 
+Heterogeneity in lung cancer rates within the Hispanic 
+population reflects these diverse smoking patterns. For ex-
+ample, in a study of Florida vital statistics data, the lung 
+cancer death rate in Cuban men (49.4 per 100,000 during 
+2008-2012) was almost double that in Mexican men (26.2 
+per 100,000), because Cubans historically have been more 
+likely to smoke and to be heavy smokers.41,53
+Overall, Hispanic smokers are more likely to be light 
+smokers (≤10 cigarettes per day) and intermittent smok-
+ers (nondaily smokers, regardless of cigarettes per day) than 
+NHWs.54 However, it is unclear whether Hispanics have 
+lower lung cancer risk compared with NHWs after ad-
+justing for smoking history, particularly at lower levels of 
+smoking. A previous analysis reported lower risk of lung 
+cancer among low-level smokers (≤20 cigarettes per day) 
+in Hispanics compared with NHWs.55 However, a recent 
+analysis of a large female cohort indicated that the lower 
+risk in Hispanics compared with NHWs at similar levels of 
+smoking was largely attenuated by fully adjusting for socio-
+economic and clinical factors.56
+Although SEER data indicate that declines in incidence 
+rates in Hispanic women have leveled off in the most recent 
+time period, an analysis of national cancer registry data re-
+ported that incidence rates among Hispanic women declined 
+by approximately 1% per year from 2010 to 2014.30 Because 
+of larger declines among men, lung cancer incidence rates in 
+young Hispanic and non-Hispanic white women born since 
+the mid-1960s exceed those of men.57 Lung cancer death 
+rates among Hispanics have been declining for 2 decades 
+in men, but only since 2003 in women (Figure 6), similar 
+to trends in NHWs. From 2007 through 2016, lung cancer 
+death rates decreased by 3.5% per year in Hispanic men and 
+by 1.4% per year in Hispanic women (Table 4).
+Hispanic patients are more likely than NHW patients to 
+be diagnosed at a distant stage of lung cancer (54% vs 51%) 
+(Figure 4), although stage-specific survival rates are similar. For 
+example, the 5-year survival for regional stage disease is 34.0% 
+(95% CI, 31.8%-36.1%) in Hispanic patients compared with 
+32.6% (95% CI, 32.1%-33.2%) in NHW patients. However, 
+lung cancer survival data for Hispanics are particularly prone 
+to artificial inflation because of the higher likelihood of loss to 
+follow-up coupled with the fatal nature of the disease.35
+Prostate
+In 2018, there will be about 13,900 new cases of prostate 
+cancer in Hispanic men and 2000 deaths from the disease 
+(Figure 1). Incidence rates in the United States range widely 
+by race/ethnicity and are highest in non-Hispanic blacks 
+(179.2 per 100,000 during 2011-2015) and lowest in Asians 
+and Pacific Islanders (56.0 per 100,000); rates in Hispanics 
+(91.6 per 100,000) are most similar to those in NHWs 
+(101.7 per 100,000) (Table 2). it is believed that the sub-
+stantial heterogeneity in prostate cancer incidence rates by 
+country of origin58 largely reflects differences in disease 
+detection through screening with the prostate-specific an-
+tigen (PSA) test, given that well-established risk factors are 
+limited to age and African ancestry.
+Prostate cancer incidence and death rates are decreasing 
+rapidly for men in all racial and ethnic groups. In Hispanic 
+men, incidence and death rates have dropped by 42% and 
+49%, respectively, since the mid-1990s (Figures 2 and 6). 
+In the most recent decade of available data, incidence and 
+death rates fell annually by 6.1% and 2.7%, respectively, 
+similar to declines among NHWs (Table 4). Declines in in-
+cidence rates have accelerated in recent years in both groups, 
+likely reflecting US Preventive Services Task Force recom-
+mendations against the routine use of the PSA test for av-
+erage-risk men aged 75 and older in 2008 and for all men 
+in 2012.59
+Most prostate cancers are diagnosed at an early stage. 
+Hispanic men are somewhat less likely than NHW men 
+to be diagnosed with localized stage disease (71% vs 74%) 
+(Figure 4), for which the 5-year survival rate is 98% in 
+both groups. Differences in stage distribution most likely 
+reflect lower PSA screening uptake among Hispanic men. 
+The 5-year survival rate for all stages combined is 93% in 
+Hispanic men and 94% in NHW men (Figure 5).
+Cancer Sites With Higher Rates for Hispanics
+Liver and intrahepatic bile duct
+In 2018, an estimated 6500 Hispanic men and women will 
+be diagnosed with liver cancer, and 4000 will die from the 
+disease. The burden of liver cancer in the United States is 
+particularly high among racial and ethnic minority groups, 
+and incidence rates in Hispanics are double those in NHWs 
+(Table 2). Notably, the risk of liver cancer in US-born 
+Hispanics is double that in immigrants, especially among 
+men; this is in contrast to Asian/Pacific Islanders, among 
+whom rates are higher in the foreign-born.60 For example, 
+liver cancer death rates in US-born Mexican men resid-
+ing in California were nearly double those of foreign-born 
+Mexican men in the state (21.6 per 100,000 vs 11.8 per 
+100,000 during 2008-2012).29 The cause for this pattern is 
+unclear but may reflect greater acculturation and a higher 
+prevalence of risk factors for liver cancer, such as hepatitis 
+C virus (HCV) infection, higher alcohol use, obesity, and 
+type 2 diabetes, among those who are US-born.29,61 
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+438      CA: A Cancer Journal for Clinicians
+Trends in liver cancer mortality mirror those for incidence 
+because of the high fatality rate (Figures 2 and 6). Patterns 
+of liver cancer occurrence in Hispanics have been similar to 
+those in NHWs since the early 1990s, when ethnicity infor-
+mation was first recorded in health and vital statistics data. 
+Since 1992, incidence rates for men have doubled in both 
+Hispanics and NHWs but have begun to level off in Hispanic 
+men, which may reflect an influx of immigrants with lower 
+risk or a maturation of the liver cancer burden associated 
+with HCV infection in baby boomers (those born between 
+1945 and 1965). From 2006 through 2015, incidence rates 
+for Hispanics increased by 2.8% per year in women but were 
+stable in men (Table 4). The long-term increase in the United 
+States has been attributed primarily to the hepatitis C virus in-
+fection epidemic, which began in the 1960s and peaked in the 
+late 1980s.62,63 Although the overall prevalence of HCV ap-
+pears to be similar between NHWs and Hispanics, one study 
+indicated that Puerto Ricans had a substantially higher 
+prevalence of chronic HCV infection than other Hispanic 
+subgroups.64
+The rise in obesity and type 2 diabetes likely also has 
+contributed to liver cancer trends in more recent years. 
+Although obesity prevalence has begun to level off in 
+NHWs in the past decade, it has continued to increase 
+among Mexicans, particularly men (Figure 7). Among all 
+Hispanic adults aged 20 years and older combined, 51% 
+of women and 43% of men were obese in 2015 and 2016, 
+compared with 38% of both NHW men and women.65 
+In addition, Hispanics are twice as likely as NHWs to 
+report being diagnosed with type 2 diabetes and are 50% 
+more likely to die from the disease,66 although occur-
+rence varies substantially by subpopulation.67 Notably, 
+diabetes was the second leading cause of death in Mexico 
+in 2015.68
+Five-year survival for liver cancer is approximately 20% 
+for both Hispanics and NHWs (Figure 5). Even for the 
+43% of Hispanic patients who are diagnosed with localized 
+disease (Figure 4), 5-year survival is only 34% compared to 
+37% in NHWs.8
+Stomach (gastric cancer)
+An estimated 3900 Hispanic men and women will be di-
+agnosed with gastric cancer in 2018, and 1900 will die 
+from the disease. Like liver cancer, gastric cancer rates in 
+Hispanics are similar to those in Asians/Pacific Islanders, 
+blacks, and American Indians/Alaska natives and are about 
+double those in NHWs (Table 2).26 There is also variation 
+among Hispanic subgroups, with death rates in Central/
+South Americans more than 2-fold those in Cubans.40,41 
+Gastric cancer remains common throughout Mexico, 
+Central and South America, and Asia but has become rare 
+in high-income countries such as the United States.27
+More than 90% of gastric cancers are adenocarcino-
+mas classified as proximal (cardia) or distal (noncardia) 
+based on tumor site.69 The ethnic disparity in gastric can-
+cer is driven wholly by noncardia tumors, for which the 
+incidence rate is 6.0 per 100,000 in Hispanics compared 
+with 2.1 per 100,000 in NHWs; the rate for cardia tu-
+mors is slightly lower in Hispanics (1.5 per 100,000) than 
+in NHWs (2.3 per 100,000). Chronic infection with 
+Helicobacter pylori (H. pylori) is the strongest risk factor for 
+noncardia gastric cancer but is inversely associated with 
+cardia tumors, for which risk factors include obesity and 
+chronic gastroesophageal reflux disease.69 According to 
+population-based NHANES estimates, the H. pylori in-
+fection prevalence is 3 times higher among Mexicans 
+than among NHWs (64% vs 21%, respectively)70 and is 
+particularly high among foreign-born Hispanics, reflect-
+ing higher H. pylori prevalence in immigrant countries of 
+origin.71 South America has the second highest H. pylori 
+prevalence worldwide after Africa.
+Stomach cancer incidence and death rates have been de-
+clining among Hispanics residing in the United States since 
+at least the early 1990s (Figure 6). Reasons for the decline 
+are complex and not well understood but are thought to be 
+caused in part by declining H. pylori prevalence as a result 
+of improved hygiene and advances in food preservation (eg, 
+FIGURE 7. Obesity (%) Trends in Mexican Americans and Non-Hispanic 
+Whites, Adults Aged 20 to 74 Years, United States, 1976 to 2016.
+Estimates are age adjusted to the 2000 US standard population. Obesity was 
+defined as a body mass index of 30.0 kg/m2 or greater. Data for Mexicans are 
+for 1982 through 1984. NH indicates non-Hispanic.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      439
+refrigeration).72 Declines in H. pylori seroprevalence in re-
+cent birth cohorts have been slower among Hispanics com-
+pared with NHWs, likely because of immigration.70 The 
+pace of the decline in stomach cancer rates also has been 
+more rapid historically in NHWs than in Hispanics but has 
+accelerated in recent years among Hispanics, particularly 
+men: from 2007 through 2016, death rates for stomach 
+cancer declined by approximately 2% per year in Hispanic 
+women compared with 3% per year in NHWs and Hispanic 
+men (Table 4).
+Hispanic patients are less likely to be diagnosed with lo-
+calized stage disease than NHWs (24% vs 28%), for which 
+survival is approximately 70% for both groups. The 5-year 
+survival for noncardia tumors is higher for NHWs (39.0% 
+[95% CI, 37.8%-40.3%]) than for Hispanics (34.2% [95% 
+CI, 32.5%-35.9%]), whereas the rate for cardia tumors is 
+more similar (25.4% [95% CI, 24.2%-26.6%] vs 22.7% 
+[95% CI, 19.6%-26.0%], respectively).
+Uterine cervix
+In 2018, an estimated 2400 Hispanic women will be diag-
+nosed with cervical cancer (Figure 1), and 600 will die from 
+the disease. Hispanic and non-Hispanic black women have 
+the highest incidence of cervical cancer in the United States, 26 
+with rates in Hispanics 36% higher than those in NHW 
+women (Table 2). The variation in rates between Hispanic 
+subgroups in part may reflect differences in background 
+rates in immigrant countries of origin, which vary up to 
+3-fold across Central and South America,73 as well as dif-
+ferences in access to and uptake of cervical cancer screening 
+(Table 6).
+Between 1992 and 2015, incidence rates for cervical can-
+cer declined by more than one-half in Hispanic women (from 
+21.1 per 100,000 to 8.2 per 100,000) and by 33% in NHW 
+women (from 8.8 per 100,000 to 5.9 per 100,000), whereas 
+death rates declined by greater than 30% from 1990 to 2016 in 
+both groups (Figures 2 and 6). These declines are largely be-
+cause of uptake of the Papanicolaou (Pap) test for cervical can-
+cer screening.74 During the most recent 10 years of available 
+data, both incidence and mortality continued to decline rapidly 
+in Hispanic women but began to stabilize in NHW women 
+(Table 4). However, an analysis of national cancer registry data 
+with more complete population coverage suggests declines in 
+incidence also may be leveling off among Hispanic women.30
+According to NAACCR data, Hispanic women are 
+about as likely as NHW women to be diagnosed with local 
+stage disease (42% vs 44%, respectively), despite a lower 
+prevalence of cervical cancer screening (79% vs 85%, re-
+spectively) (Table 6). In addition, overall 5-year survival for 
+cervical cancer is slightly higher for Hispanics (72%) than 
+for NHWs (70%) (Figure 5), although, when confined to 
+women aged younger than 50 years, Hispanic women have 
+slightly lower 5-year survival (77% vs 80%).
+The available 9-valent human papillomavirus (HPV) 
+vaccine has the potential to avert nearly 90% of all cancers 
+caused by HPV.75 In 2016, HPV vaccine initiation was sub-
+stantially higher in Hispanic girls and boys aged 13 to 17 
+years (71% and 68%, respectively) than in NHWs (60% and 
+50%).24 Similarly, the percentage of Hispanic adolescents 
+who had completed the vaccination series was higher than 
+among NHWs for both girls (55% vs 46%, respectively) and 
+boys (46% vs 35%, respectively).24
+Gallbladder
+Gallbladder cancer is one of the few cancers that occur more 
+often in women than in men. In 2018, an estimated 1000 
+Hispanic women will be diagnosed with gallbladder cancer. 
+Hispanic women in the United States have the second high-
+est incidence and mortality rates after American Indian/
+Alaska Native women.76 The incidence rate in Hispanic 
+women (2.5 per 100,000) is double that of Hispanic men (1.2 
+per 100,000) and NHW women (1.1 per 100,000) and triple 
+that of NHW men (0.7 per 100,000) (Table 2). There is lim-
+ited information on gallbladder cancer by Hispanic subgroup 
+in the United States, largely because of the disease’s rarity and 
+low survival. Globally, the disease burden has a unique dis-
+tribution, with the highest occurrence by far in Chile, where 
+rates in women are more than 3 times higher than those in 
+any other country.77 Rates are also high in Mexico and in 
+some South American countries (eg, Uruguay, Argentina, 
+and Colombia), although they are similar to those in the 
+United States for most of Central America and Cuba.
+Reasons for the higher risk among women, and among 
+Hispanic women in particular, are not well understood. The 
+strongest known risk factor for gallbladder cancer is chronic 
+gallstones (cholelithiasis); however, only a small percentage 
+(range, 1%-3%) of those with the condition develop cancer, 
+and the presence of stones is neither sufficient nor necessary 
+for the development of malignancy.78,79 Some risk factors for 
+cholesterol gallstones, which are more prevalent and more 
+strongly linked to gallbladder cancer than other gallstone 
+types, are more common in Hispanics than non-Hispanics, 
+including excess body weight, physical inactivity, and higher 
+parity.78,80 In addition, older age, exogenous estrogen use, 
+and certain hereditary factors that affect cholesterol secre-
+tion in the bile also increase cholesterol gallstone risk.78,81 
+Hormonal factors that influence the risk of gallstone disease 
+may contribute to higher gallbladder cancer rates among 
+women. Gallbladder cancer risk also is increased through 
+chronic cholecystitis (inflammation), which may be due to 
+multiple causes, including gallstones, primary sclerosing 
+cholangitis, and possibly certain infections.78
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+440      CA: A Cancer Journal for Clinicians
+Gallbladder cancer incidence and mortality trends are 
+similar because of the high fatality rate. Over the past 
+decade, sex-specific patterns were similar in NHWs and 
+Hispanics, with incidence declining by approximately 1% 
+to 2% per year in women and remaining stable in men, 
+whereas death rates declined by approximately 2% to 3% 
+per year in all groups (Table 4).
+Gallbladder cancer typically does not present symptoms 
+until it is advanced, resulting in a late stage at diagnosis and a 
+poor prognosis. Five-year survival, which is similar by sex, is 
+23% among Hispanics and 20% among NHWs. Approximately 
+1 in 10 patients are diagnosed at a localized stage, for which 
+5-year survival is approximately 64% among Hispanics.
+Childhood leukemia
+Leukemia incidence in Hispanics is 31% lower than in 
+NHWs among adults (those aged 20 years), but about 20% 
+higher in children (those aged birth-14 years) for both acute 
+lymphocytic leukemia (ALL) and acute myeloid leukemia 
+(AML), the 2 major pediatric subtypes.12 Reasons for the 
+higher rates in Hispanic children are not understood, but 
+may result from variation in collective genetic and environ-
+mental exposures.43,82 Hispanic children also have inferior 
+leukemia survival, which appears to stem from a higher 
+likelihood of relapse, perhaps because of differences in drug 
+efficacy that might be overcome with a more individual-
+ized chemotherapy regimen.83,84 The 5-year survival rate 
+for ALL is 90% in Hispanic children and 95% in NHW 
+children, whereas survival for AML is 68% and 74%, re-
+spectively.8 Incidence trends from 1992 through 2015 are 
+generally similar for Hispanics and NHWs based on SEER 
+data; from 2006 to 2015, rates for ALL increased slightly, 
+by approximately 1% per year, but were stable for AML.7 
+Death rates (2007-2016) for ALL declined by 3.6% per year 
+in both groups, but for AML declined by approximately 1% 
+per year in NHWs and were stable in Hispanics.13
+TABLE 8.  Cancer Incidence and Mortality Rates Comparing Puerto Rico to the Continental US and Hawaii, 2011-2015
+INCIDENCE
+PUERTO RICO
+NHWs
+OTHER US HISPANICS
+MORTALITY RATES‡
+RATE
+RATE
+RATE RATIO†
+RATE
+RATE RATIO†
+PUERTO RICO
+NHWs
+OTHER US HISPANICS
+All sites
+Male
+412.8
+505.5
+0.82*
+377.6
+1.09*
+152.7
+200.6
+140.6
+Female
+325.7
+438.4
+0.74*
+329.9
+0.98*
+94.6
+143.6
+97.1
+Breast (female)
+93.2
+130.1
+0.72*
+93.0
+1.00
+17.9
+20.8
+14.3
+Colon & rectum
+Male
+52.5
+44.6
+1.18*
+41.7
+1.26*
+19.7
+16.9
+14.7
+Female
+35.1
+34.2
+1.03
+28.8
+1.22*
+12.2
+12.1
+9.0
+Liver & intrahepatic bile duct
+Male
+12.8
+10.3
+1.24*
+19.7
+0.65*
+9.2
+8.2
+13.1
+Female
+4.2
+3.6
+1.17*
+7.8
+0.54*
+3.6
+3.4
+5.9
+Lung & bronchus
+Male
+24.7
+74.3
+0.33*
+39.2
+0.63*
+19.8
+56.3
+26.5
+Female
+12.3
+57.4
+0.21*
+24.6
+0.50*
+8.9
+39.0
+13.3
+Prostate
+146.6
+101.7
+1.44*
+91.6
+1.60*
+26.7
+18.2
+16.2
+Stomach
+Male
+10.6
+7.8
+1.37*
+12.5
+0.85*
+6.8
+3.4
+6.7
+Female
+6.3
+3.5
+1.80*
+7.7
+0.82*
+3.5
+1.7
+4.0
+Thyroid
+Male
+10.7
+8.2
+1.32*
+5.4
+1.97*
+0.4
+0.5
+0.5
+Female
+42.2
+23.0
+1.84*
+20.6
+2.05*
+0.3
+0.4
+0.7
+Uterine cervix
+12.9
+7.1
+1.82*
+9.6
+1.34*
+2.5
+2.1
+2.6
+NHW indicates non-Hispanic white in the continental US and Hawaii. Puerto Rico incidence data include all races/ethnicities combined. Rates are age adjusted 
+to the 2000 US standard population.
+*The difference between the rates is significant (P < .05).
+†Ratio is the unrounded rate in the population in the continental US and Hawaii divided by the corresponding unrounded Puerto Rico rate.
+‡Mortality rates for Puerto Rico were derived from Copeland et al.; mortality rate ratios are unavailable.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      441
+Cancer Occurrence in Puerto Rico
+High-quality incidence data from the Puerto Rico Central 
+Cancer Registry provide a new and important opportunity 
+to assess the current disease burden and identify opportuni-
+ties for cancer control in the territory. Puerto Rico residents 
+are especially vulnerable to cancer disparities because of so-
+cioeconomic inequalities; in 2016, approximately 44% of the 
+population lived in poverty,85 compared with 19% of other 
+US Hispanics and 9% of NHWs.86 Although the percent-
+age of individuals in Puerto Rico without health insurance 
+was comparatively low in 2015 (6%), nearly one-half (49%) 
+of the population was insured by Medicaid, compared with 
+20% in the continental United States (all races/ethnicities 
+combined).87 In addition, previous studies have suggested 
+that cancer trends in Puerto Rico differ strikingly from 
+those of the continental United States and Hawaii.19,88‒91 
+For example, one study reported increasing CRC incidence 
+and mortality rates among men in Puerto Rico in the early 
+2000s, when trends among all races/ethnicities combined 
+were rapidly declining in the continental United States.89
+According to newly available data for the most recent 
+5 years (2011-2015), CRC and prostate cancer incidence 
+rates among men in Puerto Rico were 18% and 44% higher, 
+respectively, than those among NHWs (Table 8), in con-
+trast to lower rates among other US Hispanics combined. 
+Conversely, lung cancer incidence rates were substantially 
+lower among island Puerto Ricans compared to both 
+NHWs and other US Hispanics. However, Puerto Rico in-
+cidence rates for infection-related cancers surpassed those 
+in NHWs but were lower than those in other US Hispanics, 
+with the exception of cervical cancer. Rates for gallbladder 
+cancer and childhood leukemia, which also disproportion-
+ately burden US Hispanics, were similar between island 
+Puerto Ricans and NHWs (data not shown).
+Mortality differences generally mirrored those for inci-
+dence, with higher rates among men in Puerto Rico com-
+pared with those in NHWs for cancers of the prostate 
+(26.7 per 100,000 vs 18.2 per 100,000 during 2011-2015, 
+respectively) and colorectum (19.7 per 100,000 vs 16.9 
+per 100,000, respectively).13,20 Notably, despite having 
+breast cancer incidence rates similar to those in other US 
+Hispanics, women in Puerto Rico had 26% higher breast 
+cancer mortality rates during 2011 through 2015 (17.9 per 
+100,000 vs 14.2 per 100,000, respectively) (Table 8). Breast 
+cancer is the leading cancer cause of death among women 
+in Puerto Rico, accounting for 18% of cancer deaths during 
+2011-2015, whereas prostate cancer is the leading cancer 
+cause of death among men in Puerto Rico (17% of can-
+cer deaths). This is in contrast to the continental US and 
+Hawaii, in which lung cancer is the leading cause of cancer 
+death in each state except among women in Utah (all races 
+combined).13 It is important to note that cancer occurrence 
+in island Puerto Ricans and Puerto Ricans living in the con-
+tinental US and Hawaii also differ substantially, although 
+analyses using contemporary data are needed.58,92 In addi-
+tion, contemporary differences between Puerto Rico and 
+other US Hispanics should be compared to earlier studies 
+with caution due to the rapidly changing composition of the 
+Hispanic population in the continental US and Hawaii.
+Cancer patterns in Puerto Rico likely reflect underly-
+ing cancer risk factors as well as differences in health care 
+access and infrastructure; however, data on risk factors 
+and cancer screening prevalence are limited to data from 
+the Behavioral Risk Factor Surveillance System (BRFSS), 
+which are not directly comparable to estimates from NHIS 
+and NHANES previously presented herein. A recent anal-
+ysis of BRFSS data for all races/ethnicities combined found 
+lower current cigarette smoking prevalence in Puerto Rico 
+(11%) than in any US state except Utah (9%) in 2015,94 
+which may reflect the effects of high cigarette excise taxes 
+in the territory. However, prevalence is similar or higher for 
+other risk factors associated with urbanization, such as obe-
+sity (30% for both Puerto Rico and median US), physical 
+inactivity (47% versus 26% US median), and diabetes (27% 
+versus 16%).93 Additionally, colorectal cancer screening and 
+cervical cancer screening are substantially lower in Puerto 
+Rico compared with the US overall.94 Conversely, higher 
+use of the PSA test in the territory compared to the conti-
+nental US and Hawaii overall has been reported.90 While 
+this likely influences prostate cancer incidence rates in the 
+territory, it does not explain the higher mortality rates.
+There are also several challenges for Puerto Rico’s health 
+care system that likely impact cancer care, including an on-
+going government debt crisis, outmigration of healthcare 
+personnel, and federal disenfranchisement. For example, 
+Puerto Rico is largely excluded from major national legis-
+lation, such as most components of the Patient Protection 
+and Affordable Care Act.95,96 These issues are complex and 
+interwoven; in 2015, the disparity in federal support for 
+health care resources in Puerto Rico compared with states 
+was estimated to account for approximately $25 billion of 
+Puerto Rico’s >$70 billion debt.96 In particular, federal 
+assistance to the Medicaid program in Puerto Rico func-
+tions as an annual block grant, with the federal government 
+matching up to a set maximum; in contrast, state programs 
+have no annual cap on the amount to which the federal 
+matching assistance percentage applies. However, Puerto 
+Rico does receive assistance through some federal cancer 
+control programs, such as the CDC’s National Breast and 
+Cervical Cancer Early Detection Program, which provides 
+low-income and uninsured women access to breast and cer-
+vical cancer screening.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+442      CA: A Cancer Journal for Clinicians
+References
+	
+1.	 Vespa J, Armstrong DM, Medina L. 
+Demographic Turning Points for the 
+United States: Population Projections 
+for 2020 to 2060. Current Population 
+Reports, P25–1144. Washington, DC: US 
+Census Bureau; 2018.
+	
+2.	 US Census Bureau. Annual Estimates of 
+the Resident Population for the United 
+States S, Counties, and Puerto Rico 
+Commonwealth and Municipios: April 
+1, 2010 to July 1, 2016. Suitland, MD: 
+US Census Bureau; 2017. factfinder. 
+census.gov/faces/tableservices/jsf/
+pages/productview.xhtml?src=bkmk. 
+October 16, 2017.
+	
+3.	 US Census Bureau. American Community 
+Survey (ACS), 2016 1-Year Estimates 
+(released 2017). Suitland, MD: US Census 
+Bureau; 
+2017. 
+census.gov/programs- 
+surveys/acs/news/data-releases/2016/
+release.html#par_textimage_11. October 
+16, 2017.
+	
+4.	 Pan HY, Walker GV, Grant SR, et al. 
+Insurance status and racial dispari-
+ties in cancer-specific mortality in the 
+United States: a population-based anal-
+ysis. Cancer Epidemiol Biomarkers Prev. 
+2017;26:869-875.
+	
+5.	 Goding Sauer A, Siegel RL, Jemal A, 
+Fedewa SA. Updated review of preva-
+lence of major risk factors and use of 
+screening tests for cancer in the United 
+States. Cancer Epidemiol Biomarkers 
+Prev. 2017;26:1192-1208.
+	
+6.	 Selvin E, Parrinello CM, Sacks DB, 
+Coresh J. Trends in prevalence and 
+control of diabetes in the United States, 
+1988–1994 and 1999–2010. Ann Intern 
+Med. 2014;160:517-525.
+	
+7.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: Incidence-SEER 13 Regs 
+Research Data with Delay-Adjustment, 
+Malignant Only, Nov. 2017 Sub (1992–
+2015) xxaaaKatrina/Rita Population 
+Adjustmentxxbbb-Linked To County 
+Attributes-Total 
+US, 
+1969–2016 
+Counties. 
+Bethesda, 
+MD: 
+National 
+Cancer Institute, Division of Cancer 
+Cancer control efforts in Puerto Rico in the aftermath 
+of Hurricane Maria, which caused severe devastation to the 
+territory in September 2017, require careful monitoring and 
+evaluation to determine the resulting effects on cancer out-
+comes.97 Cancer care and surveillance are greatly hampered 
+by population displacement and disruptions in infrastruc-
+ture resulting from natural disasters, as was the case in the 
+Gulf states after Hurricane Katrina.98 However, these con-
+ditions have been exacerbated in Puerto Rico: more than 
+one-third of the territory’s hospitals still lacked electricity 
+nearly 3 months post-Maria.97 Recent analyses have esti-
+mated that one-third of the greater than 1000 excess deaths 
+that occurred after the hurricane through December 2017 
+were because of delayed or interrupted health care.99,100
+Data Limitations and Future Challenges
+Although “Hispanic” is a term that encompasses an ex-
+tremely heterogeneous population with various lifestyle 
+behaviors and cancer risks, conventionally reported 
+Hispanic cancer data in the United States are reported in 
+aggregate, masking important differences between sub-
+populations. In addition, data on cancer in Hispanics have 
+only been available for the past 3 decades. Uniform coding 
+of ethnicity in SEER registries began in 1992 and is based 
+on medical records or through a match to a Spanish sur-
+name list and thus may be less accurate than self-reported 
+ethnicity and result in undercounting Hispanics.101 In ad-
+dition, although classification has improved substantially 
+over time, mortality data for Hispanics also should be in-
+terpreted with caution because of potential inconsistencies 
+in reporting ethnicity on death certificates.102 Although 
+some states reported Hispanic origin on death certificates 
+as early as 1979, an Hispanic origin item was not added 
+to the US Standard Death Certificate until 1989, and the 
+revision was not adopted by every state until 1997. The 
+influence of undocumented immigration status on can-
+cer incidence and mortality rates is likely minor, as these 
+individuals have a low cancer risk because of their young 
+age and because census estimates attempt to account for 
+this population. Finally, although the projected numbers 
+of new cancer cases and deaths provide a reasonably ac-
+curate estimate of the current cancer burden in the United 
+States, they cannot be used to track trends over time be-
+cause they are model based; instead, we recommend the 
+use of age-standardized or age-specific cancer death rates 
+from the National Center for Health Statistics and cancer 
+incidence rates from SEER or NAACCR.
+Conclusions
+Although cancer risk in US Hispanics overall is generally 
+low compared with other groups, rates among Hispanic de-
+scendants approach or surpass those in NHWs, which will 
+result in a growing cancer burden given that the majority of 
+Hispanic population growth is driven by birth rather than 
+immigration. Furthermore, newly available cancer incidence 
+rates for Puerto Rico highlight a concerning burden of CRC 
+and prostate cancer in addition to a higher occurrence of 
+infection-related cancers, especially given ongoing health 
+care infrastructure challenges that have been exacerbated 
+by the recent hurricane. Efforts to further progress in can-
+cer control among Hispanics in the US, including Puerto 
+Rico, must consider the substantial differences in cancer risk 
+within this heterogeneous population. Effective strategies 
+for decreasing cancer rates among Hispanics include the use 
+of culturally appropriate lay health advisors and patient nav-
+igators; targeted, community-based intervention programs 
+to increase screening and vaccination rates and encourage 
+healthy lifestyle behaviors; and further funding for Puerto 
+Rico–specific and subgroup-specific cancer research and 
+surveillance. 
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      443
+Control 
+and 
+Population 
+Sciences, 
+Surveillance Research Program; 2017.
+	
+8.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: 
+Incidence-SEER 
+18 
+Regs 
+Research Data + Hurricane Katrina 
+Impacted Louisiana Cases, Nov. 2017 
+Sub 
+(2000–2015) 
+xxaaaKatrina/Rita 
+Population Adjustmentxxbbb-Linked To 
+County Attributes-Total US, 1969–2016 
+Counties. Bethesda, MD: National Cancer 
+Institute, Division of Cancer Control 
+and Population Sciences, Surveillance 
+Research Program, Surveillance Systems 
+Branch; 2017.
+	
+9.	 Arias E, Eschbach K, Schauman WS, 
+Backlund EL, Sorlie PD. The Hispanic 
+mortality advantage and ethnic mis-
+classification on US death certificates. 
+Am J Public Health. 2010;100(suppl 
+1):S171-S177.
+	 10.	 Surveillance 
+Research 
+Program. 
+DevCan—Probability 
+of 
+Developing 
+or Dying of Cancer. Software, Version 
+6.7.6. 
+Bethesda, 
+MD: 
+Statistical 
+Research and Applications Branch, 
+National Cancer Institute, National 
+Institutes of Health; 2018. surveillance.
+cancer.gov/devcan/. Accessed October 
+16, 2017.
+	 11.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: North American Association 
+of Central Cancer Registries (NAACCR) 
+Incidence Data-CiNA Analytic File, 
+1995–2015, for Expanded Races, Custom 
+File With County, ACS Facts and 
+Figures Projection Project. Bethesda, 
+MD: North American Association of 
+Central Cancer Registries; 2018.
+	 12.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: North American Association 
+of Central Cancer Registries (NAACCR) 
+Incidence Data-CiNA Analytic File, 
+1995–2015, for NHIAv2 Origin, Custom 
+File With County, ACS Facts and 
+Figures Projection Project. Bethesda, 
+MD: North American Association of 
+Central Cancer Registries; 2018.
+	 13.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: 
+Mortality-All 
+COD, 
+Aggregated 
+With 
+State, 
+Total 
+US 
+(1990–2016) xxaaaEarly release with 
+Vintage 2016 Katrina/Rita Population 
+Adjustmentxxbbb. 
+Bethesda, 
+MD: 
+National Cancer Institute, Division 
+of Cancer Control and Population 
+Sciences, 
+Surveillance 
+Research 
+Program, Surveillance Systems Branch; 
+2018. 
+Underlying 
+mortality 
+data 
+provided by the National Center for 
+Health Statistics.
+	 14.	 Fritz A, Percy C, Jack A, eds. Interna­
+tional Classification of Diseases for 
+Oncology, 3rd edn. Geneva, Switzerland: 
+World Health Organization; 2000.
+	 15.	 Percy C, Van Holten V, Muir C 
+eds. International Classification of 
+Diseases 
+for 
+Oncology, 
+2nd 
+edn. 
+Geneva, Switzerland: World Health 
+Organization; 1990.
+	 16.	 World Health Organization. Manual 
+of 
+the 
+International 
+Statistical 
+Classification 
+of 
+Diseases 
+Injuries 
+and Causes of Death. Vol Revision. 
+Geneva, Switzerland: World Health. 
+Organization. 1975;1:9th.
+	 17.	 World Health Organization. Manual 
+of 
+the 
+International 
+Statistical 
+Classification of Diseases Injuries and 
+Causes of Death. Vol 1. 10th Revision. 
+Geneva, Switzerland: World Health. 
+Organization. 1990.
+	 18.	 Copeland 
+G, 
+Green 
+D, 
+Firth 
+R, 
+et al, eds. Cancer in North America: 
+2011–2015. Vol 2: Registry-Specific 
+Cancer Incidence in the United States 
+and Canada. Springfield, IL: North 
+American 
+Association 
+of 
+Central 
+Cancer Registries Inc; 2018.
+	 19.	 O’Neil ME, Henley SJ, Singh SD, 
+et al. Invasive cancer incidence—Puerto 
+Rico, 2007–2011. MMWR Morb Mortal 
+Wkly Rep. 2015;64:389-393.
+	 20.	 Copeland 
+G, 
+Green 
+D, 
+Firth 
+R, 
+et al., eds. Cancer in North America, 
+2011–2015. Vol 3: Registry-Specific 
+Cancer Mortality in the United States 
+and Canada. Springfield, IL: North 
+American 
+Association 
+of 
+Central 
+Cancer Registries Inc; 2018.
+	 21.	 Chen HS, Portier K, Ghosh K, et al. 
+Predicting US-and state-level cancer 
+counts for the current calendar year. 
+Part I: evaluation of temporal projec-
+tion methods for mortality. Cancer. 
+2012;118:1091-1099.
+	 22.	 National Center for Health Statistics. 
+National 
+Health 
+Interview 
+Survey, 
+2015-2017. Public-Use Data File and 
+Documentation. Atlanta, GA: Centers 
+for Disease Control and Prevention; 
+2018. cdc.gov/nchs/nhis. Accessed July 
+1, 2018.
+	 23.	 Centers 
+for 
+Disease 
+Control 
+and 
+Prevention. 
+National 
+Health 
+and 
+Nutrition Examination Survey. Atlanta, 
+GA: Centers for Disease Control and 
+Prevention; 
+2018. 
+cdc.gov/nchs/
+nhanes/index.htm. Accessed May 1, 
+2018.
+	 24.	 National 
+Center 
+for 
+Immunization 
+and 
+Respiratory 
+Diseases, 
+Centers 
+for Disease Control and Prevention. 
+TeenVaxView. Atlanta, GA: Centers 
+for Disease Control and Prevention; 
+2017. cdc.gov/vaccines/imz-managers/ 
+coverage/teenvaxview/index.html. 
+Accessed November 28, 2017.
+	 25.	 Noone AM, Howlader N, Krapcho M 
+eds. SEER Cancer Statistics Review, 
+1975–2015. National Cancer Institute: 
+Bethesda, MD; 2017.
+	 26.	 Siegel RL, Miller KD, Jemal A. Cancer 
+statistics, 2018. CA Cancer J Clin. 
+2018;68:7-30.
+	 27.	 Bray F, Ferlay J, Soerjomataram I, Siegel 
+RL, Torre LA, Jemal A. Global cancer 
+statistics 2018: GLOBOCAN estimates of 
+incidence and mortality worldwide for 
+36 cancers in 185 countries [published 
+online ahead of print 2018]. CA Cancer 
+J Clin. doi: https://doi.org/10.3322/
+caac.21492.
+	 28.	 Pinheiro PS, Callahan KE, Gomez SL, 
+et al. High cancer mortality for US-
+born Latinos: evidence from California 
+and Texas [serial online]. BMC Cancer. 
+2017;17:478.
+	 29.	 Pinheiro PS, Callahan KE, Stern MC, de 
+Vries E. Migration from Mexico to the 
+United States: a high-speed cancer tran-
+sition. Int J Cancer. 2018;142:477-488.
+	 30.	 Cronin KA, Lake AJ, Scott S, et al. 
+Annual Report to the Nation on the 
+Status of Cancer, part I: national cancer 
+statistics. Cancer. 2018;124:2785-2800.
+	 31.	 Harvey VM, Enos CW, Chen JT, 
+Galadima H, Eschbach K. The role of 
+neighborhood characteristics in late 
+stage 
+melanoma 
+diagnosis 
+among 
+Hispanic men in California, Texas, and 
+Florida, 1996–2012 [serial online]. J 
+Cancer Epidemiol. 2017;2017:8418904.
+	 32.	 Fang CY, Tseng M. Ethnic density 
+and cancer: a review of the evidence. 
+Cancer. 2018;124:1877-1903.
+	 33.	 Ward E, Halpern M, Schrag N, et al. 
+Association of insurance with can-
+cer care utilization and outcomes. CA 
+Cancer J Clin. 2008;58:9-31.
+	 34.	 Iqbal J, Ginsburg O, Rochon PA, Sun P, 
+Narod SA. Differences in breast cancer 
+stage at diagnosis and cancer-specific 
+survival by race and ethnicity in the 
+United States. JAMA. 2015;313:165-173.
+	 35.	 Pinheiro PS, Morris CR, Liu L, Bungum 
+TJ, Altekruse SF. The impact of fol-
+low-up type and missed deaths on pop-
+ulation-based cancer survival studies 
+for Hispanics and Asians. J Natl Cancer 
+Inst Monogr. 2014;2014:210-217.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2018 Statistics for Hispanics & Latinos
+444      CA: A Cancer Journal for Clinicians
+	 36.	 Franzini L, Ribble JC, Keddie AM. 
+Understanding the Hispanic paradox. 
+Ethn Dis. 2001;11:496-518.
+	 37.	 Turra CM, Elo IT. The impact of salmon 
+bias on the Hispanic mortality ad-
+vantage: new evidence from Social 
+Security data. Popul Res Policy Rev. 
+2008;27:515-530.
+	 38.	 DeRouen MC, Mujahid M, Srinivas S, 
+Keegan TH. Disparities in adolescent 
+and young adult survival after testicu-
+lar cancer vary by histologic subtype: 
+a population-based study in California 
+1988–2010. J Adolesc Young Adult 
+Oncol. 2016;5:31-40.
+	 39.	 Kahn JM, Keegan TH, Tao L, Abrahao 
+R, Bleyer A, Viny AD. Racial disparities 
+in the survival of American children, 
+adolescents, and young adults with 
+acute lymphoblastic leukemia, acute 
+myelogenous leukemia, and Hodgkin 
+lymphoma. Cancer. 2016;122:2723-2730.
+	 40.	 Martinez Tyson D, Medina-Ramirez P, 
+Flores AM, Siegel R, Loi CA. Unpacking 
+Hispanic 
+ethnicity—cancer 
+mortal-
+ity differentials among Hispanic sub-
+groups in the United States, 2004–2014. 
+Front Public Health. doi: https://doi.
+org/10.3389/fpubh.2018.00219.
+	 41.	 Pinheiro PS, Callahan KE, Siegel RL, 
+et al. Cancer mortality in Hispanic 
+ethnic 
+groups. 
+Cancer 
+Epidemiol 
+Biomarkers Prev. 2017;26:376-382.
+	 42.	 Chlebowski RT, Chen Z, Anderson 
+GL, et al. Ethnicity and breast cancer: 
+factors influencing differences in inci-
+dence and outcome. J Natl Cancer Inst. 
+2005;97:439-448.
+	 43.	 Stern MC, Fejerman L, Das R, et al. 
+Variability in cancer risk and outcomes 
+within US Latinos by national origin 
+and genetic ancestry. Curr Epidemiol 
+Rep. 2016;3:181-190.
+	 44.	 Berry DA, Cronin KA, Plevritis SK, 
+et al. Effect of screening and adjuvant 
+therapy on mortality from breast can-
+cer. N Engl J Med. 2005;353:1784-1792.
+	 45.	 Press R, Carrasquillo O, Sciacca RR, 
+Giardina EG. Racial/ethnic disparities 
+in time to follow-up after an abnor-
+mal mammogram. J Womens Health 
+(Larchmt). 2008;17:923-930.
+	 46.	 Stuver SO, Zhu J, Simchowitz B, 
+Hassett MJ, Shulman LN, Weingart SN. 
+Identifying women at risk of delayed 
+breast cancer diagnosis. Jt Comm J 
+Qual Patient Saf. 2011;37:568-575.
+	 47.	 Ellis L, Canchola AJ, Spiegel D, 
+Ladabaum U, Haile R, Gomez SL. 
+Racial and ethnic disparities in cancer 
+survival: the contribution of tumor, 
+sociodemographic, institutional, and 
+neighborhood characteristics. J Clin 
+Oncol. 2018;36:25-33.
+	 48.	 Warner ET, Tamimi RM, Hughes ME, 
+et al. Racial and ethnic differences in 
+breast cancer survival: mediating effect 
+of tumor characteristics and sociode-
+mographic and treatment factors. J Clin 
+Oncol. 2015;33:2254-2261.
+	 49.	 Ooi SL, Martinez ME, Li CI. Disparities 
+in breast cancer characteristics and 
+outcomes by race/ethnicity. Breast 
+Cancer Res Treat. 2011;127:729-738.
+	 50.	 Martinsen RP, Morris CR, Pinheiro PS, 
+Parikh-Patel A, Kizer KW. Colorectal 
+cancer trends in California and the 
+need for greater screening of Hispanic 
+men. Am J Prev Med. 2016;51:e155-e163.
+	 51.	 Le H, Ziogas A, Lipkin SM, Zell JA. 
+Effects of socioeconomic status and 
+treatment 
+disparities 
+in 
+colorectal 
+cancer 
+survival. 
+Cancer 
+Epidemiol 
+Biomarkers Prev. 2008;17:1950-1962.
+	 52.	 Islami F, Goding Sauer A, Miller KD, 
+et al. Proportion and number of can-
+cer cases and deaths attributable to 
+potentially modifiable risk factors in 
+the United States. CA Cancer J Clin. 
+2018;68:31-54.
+	 53.	 Kaplan RC, Bangdiwala SI, Barnhart 
+JM, et al. Smoking among US Hispanic/
+Latino adults: the Hispanic community 
+health study/study of Latinos. Am J 
+Prev Med. 2014;46:496-506.
+	 54.	 Reyes-Guzman CM, Pfeiffer RM, Lubin 
+J, et al. Determinants of light and inter-
+mittent smoking in the United States: 
+results from three pooled National 
+Health 
+Surveys. 
+Cancer 
+Epidemiol 
+Biomarkers Prev. 2017;26:228-239.
+	 55.	 Haiman CA, Stram DO, Wilkens LR, 
+et al. Ethnic and racial differences in 
+the smoking-related risk of lung cancer. 
+N Engl J Med. 2006;354:333-342.
+	 56.	 Patel MI, Wang A, Kapphahn K, et al. 
+Racial and ethnic variations in lung 
+cancer incidence and mortality: results 
+from the Women’s Health Initiative. J 
+Clin Oncol. 2016;34:360-368.
+	 57.	 Jemal A, Miller KD, Ma J, et al. Higher 
+lung cancer incidence in young women 
+than young men in the United States. N 
+Engl J Med. 2018;378:1999-2009.
+	 58.	 Pinheiro PS, Sherman RL, Trapido EJ, 
+et al. Cancer incidence in first genera-
+tion US Hispanics: Cubans, Mexicans, 
+Puerto Ricans, and new Latinos. 
+Cancer Epidemiol Biomarkers Prev. 
+2009;18:2162-2169.
+	 59.	 Jemal A, Ma J, Siegel R, Fedewa S, 
+Brawley O, Ward EM. Prostate cancer 
+incidence rates 2 years after the US 
+Preventive Services Task Force recom-
+mendations against screening. JAMA 
+Oncol. 2016;2:1657-1660.
+	 60.	 El-Serag HB, Lau M, Eschbach K, 
+Davila J, Goodwin J. Epidemiology of 
+hepatocellular carcinoma in Hispanics 
+in the United States. Arch Intern Med. 
+2007;167:1983-1989.
+	 61.	 Pinheiro PS, Callahan KE, Boscoe FP, 
+et al. Cancer site-specific disparities 
+in New York, including the 1945–1965 
+birth cohort’s impact on liver cancer 
+patterns. Cancer Epidemiol Biomarkers 
+Prev. 2018;27:917-927.
+	 62.	 Armstrong GL, Alter MJ, McQuillan 
+GM, Margolis HS. The past incidence of 
+hepatitis C virus infection: implications 
+for the future burden of chronic liver 
+disease in the United States. Hepatology 
+2000;31:777-782.
+	 63.	 Davila JA, Morgan RO, Shaib Y, 
+McGlynn KA, El-Serag HB. Hepatitis C 
+infection and the increasing incidence 
+of hepatocellular carcinoma: a popu-
+lation-based study. Gastroenterology 
+2004;127:1372-1380.
+	 64.	 Kuniholm MH, Jung M, Everhart JE, et 
+al. Prevalence of hepatitis C virus in-
+fection in US Hispanic/Latino adults: 
+results from the NHANES 2007–2010 
+and HCHS/SOL studies. The J Infect Dis. 
+2014;209:1585-1590.
+	 65.	 Hales CM, Carroll MD, Fryar CD, Ogden 
+CL. Prevalence of obesity among adults 
+and youth: United States, 2015–2016. 
+NCHS Data Brief. 2017;288:1-8.
+	 66.	 Dominguez K, Penman-Aguilar A, 
+Chang MH, et al. Vital signs: leading 
+causes of death, prevalence of diseases 
+and risk factors, and use of health ser-
+vices among Hispanics in the United 
+States—2009-2013. MMWR Morb Mortal 
+Wkly Rep. 2015;64:469-478.
+	 67.	 Schneiderman N, Llabre M, Cowie CC, 
+et al. Prevalence of diabetes among 
+Hispanics/Latinos from diverse back-
+grounds: the Hispanic Community 
+Health Study/Study of Latinos (HCHS/
+SOL). Diabetes Care. 2014;37:2233-2239.
+	 68.	 World Health Organization. Global 
+Health Estimates 2016: Deaths by Cause, 
+Age, Sex, by Country and by Region, 
+2000–2016. 
+Geneva, 
+Switzerland: 
+World Health Organization; 2018.
+	 69.	 Karimi P, Islami F, Anandasabapathy 
+S, Freedman ND, Kamangar F. Gastric 
+cancer: descriptive epidemiology, risk 
+factors, screening, and prevention. 
+Cancer Epidemiol Biomarkers Prev. 
+2014;23:700-713.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2018;68:425–445
+VOLUME 68 | NUMBER 6 | NOVEMBER/DECEMBER  2018      445
+	 70.	 Grad YH, Lipsitch M, Aiello AE. 
+Secular trends in Helicobacter pylori 
+seroprevalence in adults in the United 
+States: evidence for sustained race/
+ethnic disparities. Am J Epidemiol. 
+2012;175:54-59.
+	 71.	 Hooi JKY, Lai WY, Ng WK, et al. Global 
+prevalence of Helicobacter pylori in-
+fection: systematic review and me-
+ta-analysis. Gastroenterology. 2017;153: 
+420-429.
+	 72.	 Bertuccio P, Chatenoud L, Levi F, 
+et al. Recent patterns in gastric can-
+cer: a global overview. Int J Cancer. 
+2009;125:666-673.
+	 73.	 Sierra MS, Soerjomataram I, Antoni 
+S, et al. Cancer patterns and trends in 
+Central and South America. Cancer 
+Epidemiol. 2016;44(suppl 1):S23-S42.
+	 74.	 Schiffman M, Castle PE, Jeronimo J, 
+Rodriguez AC, Wacholder S. Human 
+papillomavirus and cervical cancer. 
+Lancet. 2007;370:890-907.
+	 75.	 Serrano B, de Sanjose S, Tous S, et al. 
+Human papillomavirus genotype attri-
+bution for HPVs 6, 11, 16, 18, 31, 33, 45, 
+52 and 58 in female anogenital lesions. 
+Eur J Cancer. 2015;51:1732-1741.
+	 76.	 Henley SJ, Weir HK, Jim MA, Watson 
+M, Richardson LC. Gallbladder can-
+cer incidence and mortality, United 
+States 1999–2011. Cancer Epidemiol 
+Biomarkers Prev. 2015;24:1319-1326.
+	 77.	 Torre LA, Siegel RL, Islami F, Bray F, 
+Jemal A. Worldwide burden of and 
+trends in mortality from gallbladder 
+and other biliary tract cancers. Clin 
+Gastroenterol Hepatol. 2018;16:427-437.
+	 78.	 Stinton LM, Shaffer EA. Epidemiology 
+of gallbladder disease: cholelithiasis 
+and cancer. Gut Liv. 2012;6:172-187.
+	 79.	 Shrikhande SV, Barreto SG, Singh 
+S, 
+Udwadia 
+TE, 
+Agarwal 
+AK. 
+Cholelithiasis in gallbladder cancer: 
+coincidence, cofactor, or cause!. Eur J 
+Surg Oncol. 2010;36:514-519.
+	 80.	 Figueiredo JC, Haiman C, Porcel J, et al. 
+Sex and ethnic/racial-specific risk fac-
+tors for gallbladder disease [serial on-
+line]. BMC Gastroenterol. 2017;17:153.
+	 81.	 Cirillo DJ, Wallace RB, Rodabough 
+RJ, et al. Effect of estrogen ther-
+apy on gallbladder disease. JAMA. 
+2005;293:330-339.
+	 82.	 Lim JY, Bhatia S, Robison LL, Yang JJ. 
+Genomics of racial and ethnic dispar-
+ities in childhood acute lymphoblastic 
+leukemia. Cancer. 2014;120:955-962.
+	 83.	 Bhatia S, Sather HN, Heerema NA, Trigg 
+ME, Gaynon PS, Robison LL. Racial and 
+ethnic differences in survival of chil-
+dren with acute lymphoblastic leuke-
+mia. Blood. 2002;100:1957-1964.
+	 84.	 Kahn JM, Cole PD, Blonquist TM. 
+et al. An investigation of toxicities 
+and survival in Hispanic children and 
+adolescents with ALL: results from 
+the Dana-Farber Cancer Institute ALL 
+Consortium protocol 05–001. Pediatr 
+Blood Cancer. 2018;65:e26871.
+	 85.	 Bishaw A, Benson C. Poverty: 2015 
+and 
+2016. 
+American 
+Community 
+Survey Briefs. Suitland, MD: US Census 
+Bureau, 
+Economics 
+and 
+Statistics 
+Administration, US Department of 
+Commerce; 2017. ­census.gov/content/
+dam/Census/library/publications/2017/ 
+acs/acsbr16-01.pdf. Accessed August 9, 
+2018.
+	 86.	 Semega JL, Fontenot KR, Kollar MA. 
+Income and Poverty in the United 
+States: 
+2016. 
+US 
+Census 
+Bureau, 
+Current Population Reports, P60–259. 
+Washington, 
+DC: 
+US 
+Government 
+Printing Office; 2017.
+	 87.	 Kaiser Family Foundation. Puerto Rico: 
+Fast Stats. Menlo Park, CA: Henry J 
+Kaiser Family Foundation; 2017. kff.
+org/disparities-policy/fact-sheet/ 
+puerto-rico-fast-facts/. Accessed August 
+13, 2018.
+	 88.	 Ortiz AP, Soto-Salgado M, Calo WA, 
+et al. Incidence and mortality rates of 
+selected infection-related cancers in 
+Puerto Rico and in the United States. 
+Infect Agent Cancer. 2010;5:10.
+	 89.	 Soto-Salgado M, Suarez E, Calo W, 
+Cruz-Correa M, Figueroa-Valles NR, 
+Ortiz AP. Incidence and mortality rates 
+for colorectal cancer in Puerto Rico 
+and among Hispanics, non-Hispanic 
+whites, and non-Hispanic blacks in 
+the United States, 1998–2002. Cancer. 
+2009;115:3016-3023.
+	 90.	 Soto-Salgado M, Suarez E, Torres-
+Cintron 
+M, 
+Pettaway 
+CA, 
+Colon 
+V, Ortiz AP. Prostate cancer inci-
+dence and mortality among Puerto 
+Ricans: an updated analysis com-
+paring men in Puerto Rico with US 
+racial/ethnic groups. P R Health Sci J. 
+2012;31:107-113.
+	 91.	 Ortiz AP, Soto-Salgado M, Calo W, 
+et al. Disparities in breast cancer in 
+Puerto Rico and among Hispanics, non- 
+Hispanic whites, and non-Hispanics 
+blacks in the United States, 1992–2004. 
+Breast J. 2010;16:666-668.
+	 92.	 Ho GY, Figueroa-Valles NR, De La Torre-
+Feliciano T, et al. Cancer disparities 
+between mainland and island Puerto 
+Ricans. Rev Panam Salud Publica. 
+2009;25:394-400.
+	 93.	 Pickens CM, Pierannunzi C, Garvin W, 
+TownM. Surveillance for certain health 
+behaviors and conditions among states 
+and selected local areas—Behavioral 
+Risk Factor Surveillance System, United 
+States, 2015. MMWR Surveill Summ. 
+2018;67:1-90.
+	 94.	 Gamble S, Mawokomatanda T, Xu F, 
+et al. Surveillance for certain health 
+behaviors and conditions among states 
+and selected local areas—Behavioral 
+risk factor surveillance system, United 
+States, 2013 and 2014. MMWR Surveill 
+Summ. 2017;66:1-144.
+	 95.	 Portela M, Sommers BD. On the out-
+skirts of national health reform: a 
+comparative assessment of health in-
+surance and access to care in Puerto 
+Rico and the United States. Milbank Q. 
+2015;93:584-608.
+	 96.	 Roman J. The Puerto Rico health-
+care crisis. Ann Am Thorac Soc. 
+2015;12:1760-1763.
+	 97.	 Seervai S. How Hurricane Maria 
+Worsened 
+Puerto 
+Rico’s 
+Health 
+Care 
+Crisis. 
+Washington, 
+DC: 
+The 
+Commonwealth 
+Fund; 
+2017. 
+commonwealthfund.org/publications/
+features/2017/puerto-rico-health-care-
+crisis/. Accessed August 13, 2018.
+	 98.	 Joseph DA, Wingo PA, King JB, 
+et al. Use of state cancer surveillance 
+data to estimate the cancer burden in 
+disaster-affected 
+areas—Hurricane 
+Katrina, 2005. Prehosp Disaster Med. 
+2007;22:282-290.
+	 99.	 Santos-Lozada AR, Howard JT. Use of 
+death counts from vital statistics to 
+calculate excess deaths in Puerto Rico 
+following Hurricane Maria [published 
+online ahead of print August 2, 2018]. 
+JAMA. 
+doi: 
+https://doi.org/10.1001/
+jama.2018.10929.
+	100.	 Kishore N, Marques D, Mahmud A, 
+et al. Mortality in Puerto Rico after 
+Hurricane Maria. N Engl J Med. 
+2018;379:162-170.
+	101.	 Stewart SL, Swallen KC, Glaser SL, 
+Horn-Ross PL, West DW. Comparison 
+of methods for classifying Hispanic 
+ethnicity 
+in 
+a 
+population-based 
+cancer registry. Am J Epidemiol. 
+1999;149:1063-1071.
+	102.	 Arias E, Schauman WS, Eschbach 
+K, Sorlie PD, Backlund E. The valid-
+ity of race and Hispanic origin re-
+porting on death certificates in the 
+United States. Vital Health Stat. 2008; 
+2(148):1-23.
+ 15424863, 2018, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21494 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

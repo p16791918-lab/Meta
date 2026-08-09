@@ -1,49 +1,9 @@
 record_id,pmid,pubmed_url,doi_url,title,source,year,doi
-86,11918384,https://pubmed.ncbi.nlm.nih.gov/11918384/,,Breast cancer racial differences before age 40--implications for screening.,manual-pdf-lowtext,2002,
-157,16258086,https://pubmed.ncbi.nlm.nih.gov/16258086/,https://doi.org/10.1200/jco.2004.01.0421,Breast cancer trends among black and white women in the United States,unavailable,2005,10.1200/jco.2004.01.0421
-165,11562110,https://pubmed.ncbi.nlm.nih.gov/11562110/,https://doi.org/10.1023/a:1011240019516,Socioeconomic status and breast cancer incidence in California for different race/ethnic groups,manual-pdf-lowtext,2001,10.1023/a:1011240019516
-238,15219802,https://pubmed.ncbi.nlm.nih.gov/15219802/,https://doi.org/10.1016/j.phr.2004.05.009,"Patterns in cancer incidence among American Indians/Alaska Natives, United States, 1992-1999",pdf-no-textlayer,2004,10.1016/j.phr.2004.05.009
-253,10761199,https://pubmed.ncbi.nlm.nih.gov/10761199/,,Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females.,unavailable,2000,
 381,20336785,https://pubmed.ncbi.nlm.nih.gov/20336785/,https://doi.org/10.1002/cncr.25016,Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study ,MISSING,2010,10.1002/cncr.25016
 384,16958083,https://pubmed.ncbi.nlm.nih.gov/16958083/,https://doi.org/10.1002/cncr.22193,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations",MISSING,2006,10.1002/cncr.22193
-415,17929614,https://pubmed.ncbi.nlm.nih.gov/17929614/,,Women's cancers among Alaska Natives 1969-2003.,unavailable,2006,
-424,12223421,https://pubmed.ncbi.nlm.nih.gov/12223421/,,Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and i,unavailable,2002,
-428,18323374,https://pubmed.ncbi.nlm.nih.gov/18323374/,,Women's cancers among Alaska Natives: [corrected] 1969-2003.,unavailable,2007,
-475,11899120,https://pubmed.ncbi.nlm.nih.gov/11899120/,https://doi.org/10.1023/a:1013960609008,The greater impact of menopause on ER- than ER+ breast cancer incidence: A possible explanation (United States),manual-pdf-lowtext,2002,10.1023/a:1013960609008
-476,41665696,https://pubmed.ncbi.nlm.nih.gov/41665696/,https://doi.org/10.1007/s10552-026-02134-3,"Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, ",unavailable,2026,10.1007/s10552-026-02134-3
 1800,38801414,https://pubmed.ncbi.nlm.nih.gov/38801414/,https://doi.org/10.1158/1055-9965.epi-24-0072,"Rural–Urban Cancer Incidence and Trends in the United States, 2000 to 2019",MISSING,2024,10.1158/1055-9965.epi-24-0072
 2038,,,,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, ",MISSING,2023,
 2151,34878180,https://pubmed.ncbi.nlm.nih.gov/34878180/,https://doi.org/10.3322/caac.21703,"American Cancer Society's report on the status of cancer disparities in the United States, 2021",MISSING,2022,10.3322/caac.21703
-2176,35020204,https://pubmed.ncbi.nlm.nih.gov/35020204/,https://doi.org/10.3322/caac.21708,"Cancer statistics, 2022",MISSING,2022,10.3322/caac.21708
-2302,33392441,https://pubmed.ncbi.nlm.nih.gov/33392441/,https://doi.org/10.1093/jncics/pkaa005,"Breast Cancer Incidence Trends by Estrogen Receptor Status among Asian American Ethnic Groups, 1990-2014",MISSING,2021,10.1093/jncics/pkaa005
-2413,31912902,https://pubmed.ncbi.nlm.nih.gov/31912902/,https://doi.org/10.3322/caac.21590,"Cancer statistics, 2020",MISSING,2020,10.3322/caac.21590
-2473,30762872,https://pubmed.ncbi.nlm.nih.gov/30762872/,https://doi.org/10.3322/caac.21555,"Cancer statistics for African Americans, 2019",MISSING,2019,10.3322/caac.21555
-2537,30285281,https://pubmed.ncbi.nlm.nih.gov/30285281/,https://doi.org/10.3322/caac.21494,"Cancer Statistics for Hispanics/Latinos, 2018",MISSING,2018,10.3322/caac.21494
-2548,29975407,https://pubmed.ncbi.nlm.nih.gov/29975407/,https://doi.org/10.1002/cncr.31592,"Cancer patterns in Hmong in Minnesota, 2000 to 2012",MISSING,2018,10.1002/cncr.31592
-2601,29313949,https://pubmed.ncbi.nlm.nih.gov/29313949/,https://doi.org/10.3322/caac.21442,"Cancer statistics, 2018",MISSING,2018,10.3322/caac.21442
-2610,,,https://doi.org/10.2147/cmar.s173099,"The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioecon",MISSING,2018,10.2147/cmar.s173099
-2698,28055103,https://pubmed.ncbi.nlm.nih.gov/28055103/,https://doi.org/10.3322/caac.21387,"Cancer Statistics, 2017",MISSING,2017,10.3322/caac.21387
-2732,,,https://doi.org/10.1093/jjco/hyw119,Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Contine,MISSING,2016,10.1093/jjco/hyw119
-2796,26375877,https://pubmed.ncbi.nlm.nih.gov/26375877/,https://doi.org/10.3322/caac.21314,"Cancer statistics for Hispanics/Latinos, 2015",MISSING,2015,10.3322/caac.21314
-2843,25559415,https://pubmed.ncbi.nlm.nih.gov/25559415/,https://doi.org/10.3322/caac.21254,"Cancer statistics, 2015",MISSING,2015,10.3322/caac.21254
-2917,24114568,https://pubmed.ncbi.nlm.nih.gov/24114568/,https://doi.org/10.3322/caac.21203,"Breast cancer statistics, 2013",MISSING,2014,10.3322/caac.21203
-2989,23386565,https://pubmed.ncbi.nlm.nih.gov/23386565/,https://doi.org/10.3322/caac.21173,"Cancer statistics for African Americans, 2013",MISSING,2013,10.3322/caac.21173
-3116,,,https://doi.org/10.1089/jwh.2010.2082,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004",MISSING,2011,10.1089/jwh.2010.2082
-3182,19661072,https://pubmed.ncbi.nlm.nih.gov/19661072/,https://doi.org/10.1158/1055-9965.epi-09-0329,"Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos",MISSING,2009,10.1158/1055-9965.epi-09-0329
-3186,,,https://doi.org/10.1016/s1043-321x(09)79313-0,Age-Related Crossover in Breast Cancer Incidence Rates between Black and White Women: Implications for Removing Racial D,MISSING,2009,10.1016/s1043-321x(09)79313-0
-3188,19474385,https://pubmed.ncbi.nlm.nih.gov/19474385/,https://doi.org/10.3322/caac.20006,"Cancer statistics, 2009",MISSING,2009,10.3322/caac.20006
-3212,19109819,https://pubmed.ncbi.nlm.nih.gov/19109819/,https://doi.org/10.1002/cncr.24039,Fifty years of cancer in an American Indian population,MISSING,2009,10.1002/cncr.24039
-3228,18696716,https://pubmed.ncbi.nlm.nih.gov/18696716/,https://doi.org/10.1002/cncr.23686,"Cancer health disparities among Indian and Pakistani immigrants in the United States a Surveillance, Epidemiology, and E",MISSING,2008,10.1002/cncr.23686
-3230,18720386,https://pubmed.ncbi.nlm.nih.gov/18720386/,https://doi.org/10.1002/cncr.23731,"Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004",MISSING,2008,10.1002/cncr.23731
-3243,18287387,https://pubmed.ncbi.nlm.nih.gov/18287387/,https://doi.org/10.3322/ca.2007.0010,"Cancer statistics, 2008",MISSING,2008,10.3322/ca.2007.0010
-3247,18094016,https://pubmed.ncbi.nlm.nih.gov/18094016/,https://doi.org/10.1093/ije/dym219,"Cancer incidence rates among South Asians in four geographic regions: India, Singapore, UK and US",MISSING,2008,10.1093/ije/dym219
-3267,17654663,https://pubmed.ncbi.nlm.nih.gov/17654663/,https://doi.org/10.1002/cncr.22914,"Cambodian cancer incidence rates in California and Washington, 1998-2002",MISSING,2007,10.1002/cncr.22914
-3268,17844709,https://pubmed.ncbi.nlm.nih.gov/17844709/,,Improving cancer incidence estimates for American Indians in Wisconsin,MISSING,2007,
-3275,18159978,https://pubmed.ncbi.nlm.nih.gov/18159978/,,"Cancer incidence in the Middle Eastern population of California, 1988-2004.",MISSING,2007,
-3288,17242674,https://pubmed.ncbi.nlm.nih.gov/17242674/,https://doi.org/10.1177/107327480701400111,Cancer incidence among Korean-American immigrants in the United States and native Koreans in South Korea,MISSING,2007,10.1177/107327480701400111
-3298,16933057,https://pubmed.ncbi.nlm.nih.gov/16933057/,https://doi.org/10.1007/s10552-006-0045-3,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000",MISSING,2006,10.1007/s10552-006-0045-3
-3322,,,https://doi.org/10.1186/1477-3163-4-21,"Cancer incidence in the South Asian population of California, 1988-2000",MISSING,2005,10.1186/1477-3163-4-21
-3345,15661684,https://pubmed.ncbi.nlm.nih.gov/15661684/,https://doi.org/10.3322/canjclin.55.1.10,"Cancer statistics, 2005",MISSING,2005,10.3322/canjclin.55.1.10
 3360,15328946,https://pubmed.ncbi.nlm.nih.gov/15328946/,,The effect of migration on cancer incidence among Japanese in Hawaii,MISSING,2004,
 3369,14997057,https://pubmed.ncbi.nlm.nih.gov/14997057/,https://doi.org/10.1023/b:brea.0000010701.08825.2d,Is male breast cancer similar or different than female breast cancer?,MISSING,2004,10.1023/b:brea.0000010701.08825.2d
 3373,14974761,https://pubmed.ncbi.nlm.nih.gov/14974761/,https://doi.org/10.3322/canjclin.54.1.8,"Cancer Statistics, 2004",MISSING,2004,10.3322/canjclin.54.1.8

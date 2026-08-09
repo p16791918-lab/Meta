@@ -1,0 +1,1167 @@
+record_id=2302 pmid=33392441 doi=10.1093/jncics/pkaa005
+SOURCE: manual-pdf
+TITLE: Breast Cancer Incidence Trends by Estrogen Receptor Status among Asian American Ethnic Groups, 1990-2014
+
+Breast Cancer Incidence Trends by Estrogen Receptor Status Among
+Asian American Ethnic Groups, 1990–2014
+Alyssa W. Tuan
+, MS,1,‡ Brittny C. Davis Lynn, PhD, MPH,2,*,‡ Pavel Chernyavskiy
+, PhD,2,3 Mandi Yu
+,
+PhD,1 Scarlett L. Gomez, PhD, MPH,4 Gretchen L. Gierach
+, PhD, MPH,2,† Philip S. Rosenberg, PhD2,†
+1Division of Cancer Control and Population Sciences, National Cancer Institute, National Institutes of Health, US Department of Health and Human Services, Bethesda,
+MD, USA; 2Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, US Department of Health and Human Services,
+Bethesda, MD, USA; 3Department of Mathematics and Statistics, University of Wyoming, Laramie, WY, USA and 4Department of Epidemiology and Biostatistics,
+University of California San Francisco, San Francisco, CA, USA
+‡Authors contributed equally to this work.
+†Authors are co-senior authors.
+*Correspondence to: Brittny C. Davis Lynn, National Cancer Institute, 9609 Medical Center Dr., Bethesda, MD 20892, USA (e-mail: brittny.davis@nih.gov).
+Abstract
+Background: Westernization and etiologic heterogeneity may play a role in the rising breast cancer incidence in Asian
+American (AA) women. We report breast cancer incidence in Asian-origin populations. Methods: Using a specialized
+Surveillance, Epidemiology, and End Results-9 Plus API Database (1990–2014), we analyzed breast cancer incidence overall, by
+estrogen receptor (ER) status, and age group among non-Hispanic white (NHW) and AA women. We used age-period-cohort
+models to assess time trends and quantify heterogeneity by ER status, race and ethnicity, and age. Results: Overall, breast
+cancer incidence increased for most AA ethnicities (Filipina: estimated annual percentage change [EAPC] ¼ 0.96%/year, 95%
+conﬁdence interval [CI] ¼ 0.61% to 1.32%; South Asian: EAPC ¼ 1.68%/year, 95% CI ¼ 0.24% to 3.13%; Chinese: EAPC ¼ 0.65%/
+year, 95% CI ¼ 0.03% to 1.27%; Korean: EAPC ¼ 2.55%/year, 95% CI ¼ 0.13% to 5.02%; and Vietnamese women: EAPC ¼ 0.88%/
+year, 95% CI ¼ 0.37% to 1.38%); rates did not change for NHW (EAPC ¼ -0.2%/year, 95% CI ¼ -0.73% to 0.33%) or Japanese
+women (EAPC ¼ 0.22%/year, 95% CI ¼ -1.26% to 1.72%). For most AA ethnicities, ER-positive rates statistically signiﬁcantly in-
+creased, whereas ER-negative rates statistically signiﬁcantly decreased. Among older women, ER-positive rates were stable
+for NHW and Japanese women. ER-negative rates decreased fastest in NHW and Japanese women among both age groups.
+Conclusions: Increasing ER-positive incidence is driving an increase overall for most AA women despite declining ER-
+negative incidence. The similar trends in NHW and Japanese women (vs other AA ethnic groups) highlight the need to better
+understand the inﬂuences of westernization and other etiologic factors on breast cancer incidence patterns in AA women.
+Heterogeneous trends among AA ethnicities underscore the importance of disaggregating AA data and studying how breast
+cancer differentially affects the growing populations of diverse AA ethnic groups.
+Breast cancer incidence is lower among Asian American (AA)
+women compared with non-Hispanic white (NHW) women;
+however, incidence rates among AAs have been rising continu-
+ously
+(1,2).
+For
+example,
+rates
+among
+Asian
+women
+in
+California increased steadily over the past 15 years, whereas in-
+cidence stabilized among NHW women (3). Additionally, be-
+tween 2000 and 2015, the Asian population in the United States
+grew by 72%, from 11.9 million to 20.4 million people—the fast-
+est growth rate of any major racial or ethnic group (4). High pop-
+ulation growth rate and rising breast cancer incidence among
+Asian women indicate the need to better understand breast
+cancer epidemiology in this population, which could inform
+prevention methods to reduce the breast cancer burden in the
+United States.
+Research suggests that westernization—a process whereby
+foreign-born groups acculturate to American lifestyles (eg,
+changes to diet, reproductive practices, and environmental
+exposures)—has an important influence on breast cancer risk
+among AA women (5). This risk may vary among ethnic groups.
+Gomez et al. (6) found that breast cancer incidence in California
+was higher among American-born Chinese and Filipina women
+compared with foreign-born Chinese and Filipina women in
+California; however, incidence was similar among American-
+born Japanese women compared with foreign-born Japanese
+Received: July 16, 2019; Revised: January 6, 2020; Accepted: January 28, 2020
+Published by Oxford University Press 2020. This work is written by US Government employees and is in the public domain in the US.
+1 of 8
+JNCI Cancer Spectrum (2020) 4(2): pkaa005
+doi: 10.1093/jncics/pkaa005
+First published online February 6, 2020
+Article
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+women, who immigrated at earlier ages in life and are also
+rather westernized (6).
+When racial and ethnic groups are analyzed separately, we
+can elucidate trends and glean insights that are frequently
+masked in combined data (7,8). Such disaggregation benefits
+analyses of AAs, a diverse group that includes more than 19 dif-
+ferent origin groups with unique histories, cultures, languages,
+and other characteristics (4). Indeed, previous research suggests
+that breast cancer incidence among AA women in California
+and nationally is heterogeneous among ethnic groups (6,9).
+Here, we have extended previous work disaggregating AA
+ethnicities (9) to better understand breast cancer incidence pat-
+terns and heterogeneity. Specifically, we analyzed incidence of
+invasive female breast cancers among AA ethnic groups using
+data from the Surveillance Epidemiology and End Results (SEER)
+Program. We applied age-period-cohort models to investigate,
+for the first time, AA ethnic group-specific secular trends by
+age, birth cohort patterns, and estrogen receptor (ER) status.
+Examining trends by ER status is particularly important within
+the context of this study. It is becoming inherently clear that
+there is notable etiologic heterogeneity in risk factor associa-
+tions by ER status, particularly for age at first birth and body
+mass index (10,11). For example, younger age at first birth has
+been associated with increased risk of ER-negative but de-
+creased risk of ER-positive breast cancer. A more complex rela-
+tionship exists between obesity and breast cancer risk by ER
+status, menopausal status, and race and ethnicity (12,13).
+Careful interpretation of secular trends in breast cancer inci-
+dence can shed light on whether the observed patterns are con-
+sistent with the hypothesis that westernization is contributing
+to the rising incidence of breast cancer among AA women.
+Methods
+Study Data
+Invasive breast cancer incidence data were obtained from the
+SEER Program database (3,14) for diagnosis years from 1990
+through 2014. This database includes registries in the SEER 9
+database
+(San
+Francisco–Oakland
+Standard
+Metropolitan
+Statistical Area, Connecticut, Detroit [Metropolitan], Hawaii,
+Iowa, New Mexico, Seattle [Puget Sound], Utah, and Atlanta
+[Metropolitan]) and the remainder of California and New Jersey.
+For our study, we included Filipina, Chinese, Japanese, South
+Asian (Asian Indian/Pakistani), Korean, Vietnamese, and NHW
+women (as a comparison group) ages 30–84 years. Asian ethnic-
+ity was assigned using the North American Association of
+Central
+Cancer
+Registries
+Asian
+and
+Pacific
+Islander
+Identification Algorithm (NAPIIA) (15). This algorithm uses in-
+formation on birthplace and surname to assign Asian ethnicity
+if not already specified. However, 11% of the AA cancer cases
+were classified as “other Asian; Asian, not otherwise specified”
+and were not included in a specific AA category in this study.
+We used data for ages 30–84 years because of the relative rarity
+of very early onset breast cancers (ages 0 to 29 years) and be-
+cause SEER does not have disaggregated population data for
+women ages 85 years and older. Data from the six AA ethnicities
+noted above were combined to form the “All Asian Americans”
+group.
+The data were organized into eleven 5-year age groups (30–
+34, 35–39, 40–44, 45–49, 50–54, 55–59, 60–64, 65–69, 70–74, 75–79,
+80–84 years) and five 5-year periods by year of diagnosis (1990–
+1994, 1995–1999, 2000–2004, 2005–2009, 2010–2014). We used a
+previously established imputation method (16) to assign cases
+with unknown ER status either an ER-positive or ER-negative
+value according to the observed proportions of existing ER-
+positive or ER-negative cases diagnosed in the same 5-year age
+and 5-year period group. This method is based on standard im-
+putation procedures and is consistent with the approach pre-
+sented by Howlader et al. (17). We imputed ER status for about
+20% of NHW cases and about 13% for all AA cases and each eth-
+nicity included.
+Statistical Analysis
+We calculated age-standardized incidence rates per 100 000
+woman-years using the 2000 US standard population and esti-
+mated corresponding annual percent changes (EAPCs) in the
+age-standardized rates over time. We also applied age-period-
+cohort models (18) to calculate local drifts (19), which estimate
+the EAPCs specific for each age group. Data were stratified by
+race and ethnicity, ER status, and premenopausal (defined as
+ages
+30–49 years)
+and
+postmenopausal
+(defined
+as
+ages
+50–84 years) age groups. These analyses were performed using
+MATLAB (version 2018a, MathWorks Inc., Natwick, MA) using
+the age-standardized rates over time (18).
+Heterogeneity in average local drifts between ethnic and age
+groups was assessed using age-period-cohort models and corre-
+sponding Wald tests (20). Specifically, we compared local drifts
+for 5-year age groups and the combination of age groups corre-
+sponding to premenopausal (four 5-year age groups 30–49 years)
+and postmenopausal (seven 5-year age groups 50–84 years) age
+categories. In our analyses, we focused on two primary con-
+trasts: differences between all AA ethnicities combined vs NHW
+women and differences between the six AA ethnic groups. The
+test for heterogeneity in average local drifts between race and
+ethnic groups was adjusted for age group, whereas the hetero-
+geneity test between age groups was adjusted for race and eth-
+nicity. All Wald tests and confidence intervals were computed
+using an alpha level of 0.05, unless otherwise specified. All tests
+were two-sided.
+Results
+The analysis included 764 538 invasive breast cancer cases
+among NHW women and 62 121 cases among AA women ages
+30–84 years and diagnosed from 1990 through 2014. Numbers of
+cases for the AA ethnicities from largest to smallest were
+Filipina (n ¼ 20 513), Chinese (n ¼ 14 274), Japanese (n ¼ 12 850),
+South Asian (n ¼ 5657), Korean (n ¼ 4650), and Vietnamese
+(n ¼ 4177). Among AAs, there were a total of 48 700 ER-positive
+cases and 13 421 ER-negative cases (Table 1). About 19% of NHW
+cases were younger than age 50 years at diagnosis, as were a
+similar percentage (20%) of Japanese cases. For the other AA
+ethnicities, a higher percentage of cases were under age 50
+years:
+Filipina
+(30%),
+Chinese
+(34%),
+South
+Asians
+(38%),
+Vietnamese (41%), and Korean (41%). Supplementary Table 1
+(available online) lists cases by registry, race and ethnicity (in-
+cluded in this analysis), and ER status for women aged 30 to
+84 years.
+The overall breast cancer incidence rate in most AA ethnic
+groups increased statistically significantly in the United States
+from 1990 through 2014, whereas the rate did not change statis-
+tically significantly in NHW (EAPC ¼ -0.2%/year, 95% confidence
+interval
+[CI]
+¼
+-0.73%
+to
+0.33%)
+and
+Japanese
+women
+(EAPC ¼ 0.22%/year, 95% CI ¼ -1.26% to 1.72%) (Table 2 and
+2 of 8
+|
+JNCI Cancer Spectrum, 2020, Vol. 4, No. 2
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+Figure 1A). The incidence rate increased statistically signifi-
+cantly over time among the remaining five AA ethnicities:
+Filipina (EAPC ¼ 0.96%/year, 95% CI ¼ 0.61% to 1.32%), South
+Asian (EAPC ¼ 1.68%/year, 95% CI ¼ 0.24% to 3.13%), Chinese
+(EAPC ¼ 0.65%/year,
+95%
+CI
+¼
+0.03%
+to
+1.27%),
+Korean
+(EAPC ¼ 2.55%/year, 95% CI ¼ 0.13% to 5.02%), and Vietnamese
+(EAPC ¼ 0.88%/year, 95% CI ¼ 0.37% to 1.38%). Among these
+trends, Korean women had the greatest increase, whereas
+Chinese women had the smallest increase.
+The EAPCs among AA ethnic groups also varied by ER and
+menopausal status. ER-positive breast cancer incidence in all
+age groups increased statistically significantly for all AA women
+combined
+(EAPC ¼ 1.14%/year,
+95%
+CI
+¼
+0.39%
+to
+1.89%),
+whereas there was no statistically significant change for NHW
+women (EAPC ¼ 0.30%/year, 95% CI ¼ -0.29% to 0.89%; Table 2).
+The ER-positive EAPC increased statistically significantly for
+Filipina,
+South
+Asian,
+Chinese,
+Korean,
+and
+Vietnamese
+women, whereas it did not change statistically significantly for
+Japanese women (Table 2). NHW and Japanese women had the
+highest incidence of ER-positive breast tumors (Figure 1B). For
+ER-positive breast cancer among premenopausal-aged women,
+the EAPC increased statistically significantly for all groups ex-
+cept Chinese and Korean women. Premenopausal-aged NHW
+and Japanese women had the highest incidence of ER-positive
+tumors (Figure 2). Among postmenopausal-aged women, the
+EAPC for ER-positive tumors increased statistically significantly
+for all races and ethnicities except NHW and Japanese women
+(Table 2); although not increasing, these two groups had the
+highest incidence (Figure 2). ER-positive incidence increased
+more among premenopausal-aged vs postmenopausal-aged
+NHW and Japanese women; the opposite was true (eg, higher
+EAPC in postmenopausal-aged vs premenopausal-aged women)
+in the other AA ethnicities (Table 2). Among them, the EAPC for
+ER-positive breast cancer was greatest among postmenopausal-
+aged Korean women (EAPC ¼ 3.91%/year, 95% CI ¼ 1.15% to
+6.75%).
+Overall, the EAPC of ER-negative breast cancer decreased
+less quickly in all AA women combined (-1.52%/year, 95% CI ¼
+2.56%
+to 0.46%)
+compared
+with
+that
+of
+NHW women
+(2.24%/year, 95% CI ¼ 3.15% to 1.32%) (Table 2). Among
+AA ethnicities, the ER-negative EAPC decreased the most in
+Japanese women (2.44%/year, 95% CI ¼ 3.70% to 1.17%).
+The ER-negative EAPC also decreased statistically significantly
+among Filipina and Chinese women; trends among South
+Asian, Korean, and Vietnamese women were not statistically
+significant. For the ER-negative premenopausal age group, the
+EAPC
+decreased
+statistically
+significantly
+in the
+Japanese,
+Filipina, Chinese, and NHW groups and for all AAs combined;
+changes in other groups were not statistically significant. For
+the ER-negative postmenopausal age group, statistically signif-
+icant EAPC decreases were found in the NHW and Japanese
+groups, which also had the highest incidence rates (Figure 3),
+whereas nonstatistically significant changes were found in
+the other groups.
+We used Wald tests to identify statistically significant trend
+heterogeneity in average local drifts within strata defined by
+age group and ethnicity. This approach is complimentary to the
+calculated EAPCs and, in some cases, is more conservative be-
+cause it is impacted less by outliers. There was statistically sig-
+nificant heterogeneity in incidence trends between all AAs
+combined and NHW women among both pre- and postmeno-
+pausal age groups (Table 3). The average local drift among all
+AA women combined was statistically significantly different
+from that of NHW women, adjusted for age group (ER-positive
+Table 1. Study counts by ER status, race and ethnicity, and premenopausal or postmenopausal age group, Specialized SEER 9 Plus API Database*
+Group
+Overall
+ER-positive breast cancer
+ER-negative breast cancer
+Premenopausal-age group,
+30–49 y
+Postmenopausal-age group,
+50–84 y
+Premenopausal-age group,
+30–49 y
+Postmenopausal-age group,
+50–84 y
+Counts
+Woman-Years
+Counts
+Woman-Years
+Counts
+Woman-Years
+Counts
+Woman-Years
+Counts
+Woman-Years
+Non-Hispanic
+white
+764 538
+295 655 087
+112 025
+139 567 280
+507 694
+156 087 807
+40 860
+139 567 280
+103 959
+156 087 807
+All Asian
+Americans
+62 121
+43 530 340
+15 019
+24 013 525
+33 681
+19 516 815
+4717
+24 013 525
+8704
+19 516 815
+Japanese
+12 850
+6 175 845
+2227
+2 743 520
+8347
+3 432 325
+535
+2 743 520
+1741
+3 432 325
+Filipina
+20 513
+11 880 329
+4595
+6 375 269
+11 454
+5 505 060
+1551
+6 375 269
+2913
+5 505 060
+South Asian
+5657
+4 979 442
+1573
+3 324 678
+2730
+1 654 764
+628
+3 324 678
+726
+1 654 764
+Chinese
+14 274
+11 546 698
+3915
+6 322 621
+7314
+5 224 077
+1090
+6 322 621
+1955
+5 224 077
+Korean
+4650
+4 708 609
+1427
+2 714 287
+1977
+1 994 322
+483
+2 714 287
+763
+1 994 322
+Vietnamese
+4177
+4 239 414
+1275
+2 533 154
+1830
+1 706 260
+437
+2 533 154
+635
+1 706 260
+*Counts for all Asian Americans combined and counts for each Asian ethnic group were separately imputed. Thus, the summed counts of Asian ethnic groups in a single column may be slightly different from the count for all
+Asian Americans combined. ER ¼ estrogen receptor.
+AQ6
+A. W. Tuan
+|
+3 of 8
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+P < .001 and ER-negative P < .001) (Table 3). The average local
+drift for breast cancer incidence was also statistically signifi-
+cantly heterogeneous by menopausal-age status, adjusted for
+race and ethnicity (ER-positive P ¼ .008 and ER-negative P <
+.001). ER-positive breast cancer rates increased for both AA
+and NHW women, but compared with AA women, the in-
+crease was larger among NHW premenopausal-aged women
+and smaller among NHW postmenopausal-aged women. ER-
+Figure 1. Age-standardized incidence trends of female breast cancer among the six Asian American ethnicities and non-Hispanic white women by (A) all cases, (B) ER-
+positive breast cancer, and (C) ER-negative breast cancer. Specialized SEER 9 Plus API Database. ER ¼ estrogen receptor; NH ¼ non-Hispanic.
+Figure 2. Age-standardized incidence trends of female breast cancer among the six Asian American ethnicities and non-Hispanic white women by premenopausal age
+group (ages 30–49 years) and postmenopausal age group (ages 50–84 years) for ER-positive breast cancers. ER ¼ estrogen receptor; NHW ¼ non-Hispanic white.
+4 of 8
+|
+JNCI Cancer Spectrum, 2020, Vol. 4, No. 2
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+negative rates decreased for both AA and NHW women, but
+among
+postmenopausal-aged
+women,
+the
+decrease
+was
+smaller in AA women compared with NHW women.
+Trends were also statistically significantly heterogeneous
+among the AA ethnicities (Table 3). Local drifts for each race
+and ethnicity are presented in the Supplementary Figure 1
+(available online). The average local drifts among the six AA
+ethnicities were statistically significantly heterogeneous when
+adjusted for age group (ER-positive P < .001 and ER-negative P <
+.001). The average local drift of premenopausal-aged AA women
+Table 2. Estimated annual percent change in the age-standardized rate per 100 000 woman-years (2000 US standard population) for female
+breast cancer among the six Asian American ethnicities and non-Hispanic white women by estrogen receptor status and age group, 1990–2014
+Group
+Overall
+ER-positive breast cancer
+ER-negative breast cancer
+All ages
+All ages
+Premenopausal
+age-group,
+30–49 y
+Postmenopausal
+age-group,
+50–84 y
+All ages
+Premenopausal
+age-group,
+30–49 y
+Postmenopausal
+age-group,
+50–84 y
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+EAPC
+(95% CI)
+Non-Hispanic
+white
+0.20
+(0.73 to 0.33)
+0.30
+(0.29 to 0.89)
+1.28*
+(1.03 to 1.54)
+0.01
+(0.79 to 0.82)
+2.24*
+(3.15 to -1.32)
+2.63*
+(3.16 to -2.09)
+2.06*
+(3.23 to -0.89)
+All Asian
+Americans
+0.55
+(0.09 to 1.20)
+1.14*
+(0.39 to 1.89)
+0.98*
+(0.69 to 1.28)
+1.21*
+(0.19 to 2.24)
+1.52*
+(2.56 to -0.46)
+2.55*
+(3.28 to -1.82)
+0.98
+(2.35 to 0.42)
+Japanese
+0.22
+(1.26 to 1.72)
+0.81
+(0.82 to 2.47)
+1.19*
+(0.39 to 2.00)
+0.64
+(1.75 to 3.09)
+2.44*
+(3.70 to -1.17)
+3.76*
+(4.74 to -2.78)
+1.85*
+(3.34 to -0.33)
+Filipina
+0.96*
+(0.61 to 1.32)
+1.71*
+(1.20 to 2.22)
+0.59*
+(0.13 to 1.06)
+2.18*
+(1.49 to 2.88)
+1.59*
+(2.90 to -0.26)
+3.12*
+(3.92 to -2.32)
+0.75
+(2.50 to 1.02)
+South Asian
+1.68*
+(0.24 to 3.13)
+2.53*
+(0.76 to 4.33)
+2.05*
+(0.61 to 3.51)
+2.71*
+(0.66 to 4.79)
+1.06
+(4.22 to 2.22)
+1.27
+(3.79 to 1.31)
+0.99
+(4.78 to 2.95)
+Chinese
+0.65*
+(0.03 to 1.27)
+1.21*
+(0.33 to 2.10)
+0.95
+(0.82 to 2.75)
+1.37*
+(0.55 to 2.20)
+1.40*
+(1.94 to -0.86)
+3.11*
+(3.55 to -2.67)
+0.46
+(1.17 to 0.26)
+Korean
+2.55*
+(0.13 to 5.02)
+3.46*
+(1.20 to 5.78)
+2.78
+(0.01 to 5.65)
+3.91*
+(1.15 to 6.75)
+0.33
+(3.47 to 4.27)
+0.36
+(4.79 to 4.28)
+0.69
+(3.98 to 5.59)
+Vietnamese
+0.88*
+(0.37 to 1.38)
+1.80*
+(0.70 to 2.90)
+1.50*
+(0.96 to 2.05)
+1.99*
+(0.45 to 3.54)
+1.65
+(3.94 to 0.70)
+2.10
+(4.64 to 0.50)
+1.46
+(4.65 to 1.85)
+*Statistically signiﬁcant change in the EAPC at the P < .05 level (two-sided test). CI ¼ conﬁdence interval; EAPC ¼ estimated annual percentage change; ER ¼ estrogen
+receptor.
+Figure 3. Age-standardized incidence trends of female breast cancer among the six Asian American ethnicities and non-Hispanic white women by premenopausal age
+group (ages 30–49 years) and postmenopausal age group (ages 50–84 years) for ER-negative breast cancers. ER ¼ estrogen receptor; NHW ¼ non-Hispanic white.
+A. W. Tuan
+|
+5 of 8
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+was
+statistically
+significantly
+heterogeneous
+from
+that
+of
+postmenopausal-aged AA women when adjusted for ethnicity
+(ER-positive P < .001 and ER-negative P < .001). ER-positive
+breast cancer rates increased for all AA ethnicities, but the rate
+increases varied. Decreases in ER-negative rates among AA eth-
+nicities also varied, and some increases were noted among
+Korean and South Asian postmenopausal-aged women.
+Discussion
+We analyzed invasive female breast cancer incidence rates
+among six AA ethnic groups and NHW women from 1990
+through 2014 using data from a specialized SEER 9 Plus API data-
+base. We found that overall breast cancer incidence rates for
+most AA ethnicities increased, whereas the overall rate did not
+statistically significantly change for Japanese women, similar to
+NHW women; the increases in overall incidence rates among
+most AA ethnicities are due to statistically significant increases
+in ER-positive breast cancer rates, whereas ER-negative rates
+are decreasing or comparatively stable; incidence trends are
+heterogeneous by AA ethnicity, overall and by menopausal age
+groups; and trends among NHW and Japanese women were
+most similar, which may be indicative of long-standing west-
+ernization effects on breast cancer in Japanese women com-
+pared with other AAs.
+In this study, overall breast cancer incidence rates for most
+AA ethnicities increased, whereas the rates did not statistically
+significantly change for NHW and Japanese women. This find-
+ing is consistent with Gomez et al. (3), who found that breast
+cancer incidence in California increased for all AA groups stud-
+ied except for Japanese women. Elevated rates and similar
+trends among NHW and Japanese women may be indicative of
+more established westernization among the Japanese ethnic
+group relative to the other Asian ethnic groups. The magnitude
+of age-standardized incidence rates for breast cancer cases
+overall and for ER-positive breast cancer of Japanese women
+were most like NHW women—these two groups had the highest
+rates out of all of the groups studied. These similarities may
+point to shared etiologic factors between Japanese and NHW
+women that could be an area for future research. Particular at-
+tention to rapid increases in breast cancer rates for Koreans,
+which may be multifactorial in origin (21–23), may also be war-
+ranted. Furthermore, incidence of ER-positive breast cancer in-
+creased statistically significantly in all AA women combined,
+whereas there was no significant change for NHW women; inci-
+dence of ER-negative breast cancer statistically significantly de-
+creased less quickly in all AA women combined compared with
+NHW women. Understanding the etiology of rising ER-positive
+breast cancer rates and slow-to-decrease ER-negative breast
+cancer rates among most AAs could lead to important preven-
+tion and screening or early detection strategies.
+Incidence rate trends were heterogeneous across AA ethnic
+groups and across age groups. Our analysis shows that disag-
+gregated data for AA groups reveal heterogeneous trends that
+are masked when group data are aggregated into one Asian race
+category. Indeed, we found considerable and statistically signifi-
+cant variation in breast cancer incidence and in EAPCs among
+AA ethnicities by ER status and age and between the aggregated
+AA and NHW groups. For example, ER-positive breast cancer
+statistically significantly increased for Korean women by 3.46%
+per year, whereas there was no statistically significant change
+for Japanese women (EAPC ¼ 0.81%/year). Similarly, an analysis
+of AA populations in California challenges the notion that
+breast cancer rates are uniformly low among AAs (6). We found
+that the average local drift of all premenopausal-aged AA
+women was statistically significantly heterogeneous from that
+of all postmenopausal-aged AA women. These findings support
+the view that incidence rates are heterogeneous by AA ethnic
+and age groups.
+Migration history and other factors related to westernization
+may help explain these observed trends. Breast cancer inci-
+dence was high for both established AA ethnic groups and re-
+cently migrated groups in the United States. Incidence overall
+was highest in Japanese and Filipina women and lowest in
+Vietnamese women. South Asian women surpassed Chinese
+women in incidence despite the South Asian population gener-
+ally having more recent migration to the United States after
+1960 compared with the Chinese population, which has been ar-
+riving continuously to the United States since the 1820s (24).
+Table 3. Average local drifts with 95% conﬁdence intervals for female breast cancer among the six Asian American ethnicities, non-Hispanic
+white group, and the all Asian Americans group by ER status and age group, 1990–2014.
+Group
+ER-positive breast cancer
+ER-negative breast cancer
+Premenopausal-age
+group, 30–49 y
+Postmenopausal-age
+group, 50–84 y
+Premenopausal-age
+group, 30–49 y
+Postmenopausal-age
+group, 50–84 y
+Average Local Drift
+(95% CI)
+Average Local Drift
+(95% CI)
+Average Local Drift
+(95% CI)
+Average Local Drift
+(95% CI)
+Non-Hispanic white
+1.61 (1.24 to 1.98)
+0.08 (0.14 to 0.30)
+2.22 (2.56 to -1.89)
+1.94 (2.12 to -1.75)
+All Asian Americans
+1.06 (0.57 to 1.55)
+1.35 (1.07 to 1.64)
+2.35 (2.75 to -1.95)
+0.70 (1.00 to -0.39)
+Phetage*
+.008
+<.001
+Phetrace†
+<.001
+<.001
+Japanese
+2.05 (1.56 to 2.55)
+0.84 (0.20 to 1.47)
+3.38 (4.10 to -2.67)
+1.60 (2.45 to -0.73)
+Filipina
+0.55 (0.01 to 1.09)
+2.29 (0.77 to 3.82)
+2.95 (3.65 to -2.25)
+0.09 (2.0 to 1.8)
+South Asian
+1.65 (0.42 to 2.89)
+2.76 (2.09 to 3.42)
+0.25 (1.52 to 1.03)
+0.27 (0.80 to 1.33)
+Chinese
+1.19 (0.39 to 2.00)
+1.42 (0.53 to 2.31)
+3.25 (4.14 to -2.35)
+0.89 (2.42 to 0.64)
+Korean
+2.83 (2.20 to 3.46)
+5.26 (4.61 to 5.91)
+0.57 (1.75 to 0.61)
+2.11 (1.04 to 3.19)
+Vietnamese
+0.43 (0.29 to 1.15)
+1.64 (0.72 to 2.57)
+2.33 (3.15 to -1.52)
+1.43 (3.28 to 0.41)
+Phetage*
+<.001
+<.001
+Phetrace†
+<.001
+<.001
+*Two-sided P value for heterogeneity in average local drifts between age groups (adjusted for race/ethnicity). CI ¼ conﬁdence interval; ER ¼ estrogen receptor.
+†Two-sided P value for heterogeneity in average local drifts between race and ethnicity (adjusted for age group).
+6 of 8
+|
+JNCI Cancer Spectrum, 2020, Vol. 4, No. 2
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+Filipinos have the longest history in the United States circa the
+1800s, and Japanese individuals arrived in the 1880s. That cur-
+rent breast cancer incidence trends among Japanese women
+more closely follow NHW women than such trends among
+Filipina women may be due to more recent immigration waves
+of Filipinos to the United States compared with Japanese indi-
+viduals. In 2015, 52% of Filipino Americans were foreign-born
+compared with 27% of Japanese Americans (25,26). Additionally,
+recent immigrants may be coming from regions in parts of Asia
+with rising incidence rates (27).
+The heterogeneous breast cancer incidence trends found
+among AAs in the United States likely reflect the complexities
+of acculturation, screening factors, and breast cancer risk fac-
+tors (23,28–36). The similarities between Japanese and NHW
+women in our study may be due to similar mammography
+behaviors, westernization correlated with long US residency,
+high socioeconomic status, high levels of health insurance
+coverage, and a usual source of medical care (23). In contrast
+to Japanese women, Vietnamese women in our study had the
+lowest breast cancer incidence rates. According to the US
+Census, the Vietnamese American population had the lowest
+English language proficiency rates, lower socioeconomic sta-
+tus, and lower educational attainment and were more likely
+to be employed in service jobs compared with the other AA
+ethnicities (30). These factors may be associated with screen-
+ing behaviors. Vietnamese American cases also had one of the
+lowest median diagnostic ages, whereas, in contrast, Japanese
+Americans had a higher median age at diagnosis than the five
+other AA ethnicities in our study (25,26,37–40). We also ob-
+served that ER-positive breast cancer incidence rates increased
+faster in premenopausal-aged NHW and Japanese women, un-
+like all other AA ethnicities studied. This may be due in part
+to
+differences
+in
+screening
+behaviors
+because
+ER-positive
+breast cancer is two times more likely to be detected by mam-
+mography than ER-negative breast cancer (41,42). Lastly, po-
+tential
+anthropometric
+(43–45),
+behavioral
+(23,46–54),
+reproductive (55–61), and genetic (62,63) breast cancer risk fac-
+tors may contribute to the observed findings in our study. Our
+findings are hypothesis-generating and highlight the need to
+uncover specific risk factors and mechanisms underlying the
+observed heterogeneous incidence patterns by menopausal
+age groups, ER status, and race and ethnicity to inform pre-
+vention and screening strategies among AA ethnicities as well
+as NHW women.
+The strength of this study is its analysis of AA women by
+ethnicity, an analysis that was only possible through the
+comprehensive characterization of AA ethnicities captured by
+the specialized SEER 9 Plus API database. Limitations of the
+study are that the specialized SEER 9 Plus API data are not
+representative of the whole United States, ER status is miss-
+ing, there lacks place of birth data, and there is potential eth-
+nicity misclassification within the registry or based on the
+NAPIIA. Future research should investigate contributors to
+breast cancer incidence rates by ER and HER2 statuses among
+specific AA ethnicities, forecast rates among these groups,
+and analyze the relationship between factors related to accul-
+turation and incidence. The incidence rate of ER-negative
+breast cancer, known for its early onset and poor prognosis
+(64), also did not decrease among all AA women as quickly
+as for NHW women; thus, enhanced preventive measures
+may be needed. The results of this study call attention to the
+need for cancer researchers to study how breast cancer dif-
+ferentially affects the growing populations of diverse AA eth-
+nic groups.
+Funding
+This research was supported by the Intramural Research
+Program of the National Institutes of Health, National
+Cancer Institute.
+Notes
+The study sponsors had no role in the design of the study; the
+collection, analysis, or interpretation of the data; the writing of
+the manuscript; or the decision to submit the manuscript for
+publication.
+Author contributions: SLG, GLG, and PSR were responsible
+for the conduct and oversight of this project. AWT, BCDL, MY,
+GLG, and PSR were involved in the analytic concept and design.
+AWT and MY participated in the acquisition of the data. BCDL,
+PC, and PSR contributed to the statistical analyses. AWT, BCDL,
+GLG, and PSR participated in preparation of the manuscript. All
+authors participated in interpretation of the results and critical
+revision of the manuscript for important intellectual content.
+All authors read and approved the final manuscript.
+This research is supported by the Intramural Research
+Program, Cancer Research Training Award Fellowship Program,
+and the Cancer Prevention Fellowship Program of the National
+Cancer Institute at the National Institutes of Health. The
+authors acknowledge David Check in the National Cancer
+Institute
+Division
+of
+Cancer
+Epidemiology
+and
+Genetics
+Biostatistics Branch for graphical support.
+All authors declare no competing financial interests.
+References
+1.
+American Cancer Society. Cancer Facts & Figures 2018. Atlanta, GA: American
+Cancer Society; 2018.
+2.
+Lin CH, Yap YS, Lee KH, et al. Contrasting epidemiology and clinicopathology
+of female breast cancer in Asians versus the US population. J Natl Cancer Inst.
+2019;111(12):1298–1306 doi:10.1093/jnci/djz090.
+3.
+Gomez SL, Von Behren J, McKinley M, et al. Breast cancer in Asian Americans
+in California, 1988-2013: increasing incidence trends and recent data on
+breast cancer subtypes. Breast Cancer Res Treat. 2017;164(1):139–147.
+4.
+Lopez G, Ruiz NG, Patten E. Key facts about Asian Americans, a diverse and
+growing population. Pew Research Center. https://www.pewresearch.org/
+fact-tank/2017/09/08/key-facts-about-asian-americans/.
+Published
+Septemeber 8, 2017. Accessed December 2017.
+5.
+Ziegler RG, Hoover RN, Pike MC, et al. Migration patterns and breast cancer
+risk in Asian-American women. J Natl Cancer Inst. 1993;85(22):1819–1827.
+6.
+Gomez SL, Quach T, Horn-Ross PL, et al. Hidden breast cancer disparities in
+Asian women: disaggregating incidence rates by ethnicity and migrant sta-
+tus. Am J Public Health. 2010;100(suppl 1):S125–31.
+7.
+Medhanie GA, Fedewa SA, Adissu H, et al. Cancer incidence proﬁle in sub-
+Saharan African-born blacks in the United States: similarities and differences
+with US-born non-Hispanic blacks. Cancer. 2017;123(16):3116–3124.
+8.
+Davis Lynn BC, Rosenberg PS, Anderson WF, et al. Black-White breast cancer
+incidence trends: effects of ethnicity. J Natl Cancer Inst. 2018;110(11):
+1270–1272.
+9.
+Gomez SL, Noone AM, Lichtensztajn DY, et al. Cancer incidence trends
+among Asian American populations in the United States, 1990-2008. J Natl
+Cancer Inst. 2013;105(15):1096–1110.
+10. Anderson KN, Schwab RB, Martinez ME. Reproductive risk factors and breast
+cancer subtypes: a review of the literature. Breast Cancer Res Treat. 2014;144(1):
+1–10.
+11. Picon-Ruiz M, Morata-Tarifa C, Valle-Gofﬁn JJ, et al. Obesity and adverse
+breast cancer risk and outcome: mechanistic insights and strategies for in-
+tervention. CA Cancer J Clin. 2017;67(5):378–397.
+12. Amadou A, Ferrari P, Muwonge R, et al. Overweight, obesity and risk of pre-
+menopausal breast cancer according to ethnicity: a systematic review and
+dose-response meta-analysis. Obes Rev. 2013;14(8):665–678.
+13. Amadou A, Hainaut P, Romieu I. Role of obesity in the risk of breast cancer:
+lessons from anthropometry. J Oncol. 2013;2013:1–19.
+14. National Cancer Institute Surveillance, Epidemiology, and End Results
+Program SEER 9, (1990-2014) National Cancer Institute, DCCPS, Surveillance
+Research Program, Surveillance Systems Branch. http://www.seer.cancer.
+gov. Published 2017. Accessed September 21, 2017.
+A. W. Tuan
+|
+7 of 8
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+15. North American Association of Central Cancer Registries. NAACCR Race and
+Ethnicity Work Group NAACCR Asian Paciﬁc Islander Identiﬁcation Algorithm
+[NAPIIA v1.2.1]. Springﬁeld, IL: North American Association of Central Cancer
+Registries; 2011.
+16. Anderson WF, Katki HA, Rosenberg PS. Incidence of breast cancer in the
+United States: current and future trends. J Natl Cancer Inst. 2011;103(18):
+1397–1402.
+17. Howlader N, Noone AM, Yu M, et al. Use of imputed population-based cancer
+registry data as a method of accounting for missing information: application
+to estrogen receptor status for breast cancer. Am J Epidemiol. 2012;176(4):
+347–356.
+18. Rosenberg PS, Barker KA, Anderson WF. Estrogen receptor status and the fu-
+ture burden of invasive and in situ breast cancers in the United States. J Natl
+Cancer Inst. 2015;107(9):djv159.
+19. Anderson WF, Rabkin CS, Turner N, et al. The changing face of noncardia gas-
+tric cancer incidence among US non-Hispanic whites. J Natl Cancer Inst. 2018;
+110(6):608–615.
+20. Rosenberg PS, Check DP, Anderson WF. A web tool for age-period-cohort
+analysis of cancer incidence and mortality rates. Cancer Epidemiol Biomarkers
+Prev. 2014;23(11):2296–2302.
+21. Sung HN, Rosenberg PS, Chen WQ, et al. Female breast cancer incidence
+among Asian and Western populations: more similar than expected. J Natl
+Cancer Inst. 2015;107(7):djv107.
+22. Perry CS, Otero JC, Palmer JL, et al. Risk factors for breast cancer in East
+Asian women relative to women in the West. Asia-Pac J Clin Oncol. 2009;
+5(4):219–231.
+23. McCracken M, Olsen M, Chen MS, et al. Cancer incidence, mortality, and asso-
+ciated risk factors among Asian Americans of Chinese, Filipino, Vietnamese,
+Korean, and Japanese ethnicities. CA Cancer J Clin. 2007;57(4):190–205.
+24. Zong J, Batalova J. Asian immigrants in the United States. Migration Policy
+Institute.
+https://www.migrationpolicy.org/article/asian-immigrants-
+united-states. Published January 6, 2016. Accessed December 2017.
+25. Lopez G, Cilluffo A, Patten E. Filipinos in the U.S. fact sheet. Pew Research
+Center. https://www.pewsocialtrends.org/fact-sheet/asian-americans-ﬁlipi-
+nos-in-the-u-s/. Published September 8, 2017. Accessed December 2017.
+26. Lopez G, Cilluffo A, Patten E. Japanese in the U.S. fact sheet. Pew Research
+Center. https://www.pewsocialtrends.org/fact-sheet/asian-americans-japa-
+nese-in-the-u-s/. Published September 8, 2017. Accessed December 2017.
+27. Morey BN, Gee GC, von Ehrenstein OS, et al. Higher breast cancer risk among
+immigrant Asian American women than among US-born Asian American
+women. Prev Chronic Dis. 2019;16:180221.
+28. Harding C, Pompei F, Burmistrov D, et al. Breast cancer screening, incidence,
+and mortality across US counties. JAMA Intern Med. 2015;175(9):1483–1489.
+29. Center for Disease Control and Prevention. QuickStats: Percentage of U.S.
+Women Aged 50-74 Years Who Have Never Had a Mammogram, by Place of Birth
+and Length of Residence in the United States-National Health Interview Survey, 2013
+and 2015. Atlanta, GA: Center for Disease Control and Prevention; 2017:309.
+30. Reeves TJ, Bennett CE. We the People: Asians in the United States, Census 2000
+Special Reports; Suitland, MD: U.S. Census Bureau; 2004.
+31. Misra R, Menon U, Vadaparampil ST, et al. Age- and sex-speciﬁc cancer pre-
+vention and screening practices among Asian Indian immigrants in the
+United States. J Investig Med. 2011;59(5):787–792.
+32. Menon U, Szalacha LA, Prabhughate A. Breast and cervical cancer screening
+among South Asian immigrants in the United States. Cancer Nurs. 2012;35(4):
+278–287.
+33. Oh KM, Taylor KL, Jacobsen KH. Breast cancer screening among Korean
+Americans: a systematic review. J Community Health. 2017;42(2):324–332.
+34. Choi KS, Lee S, Park EC, et al. Comparison of breast cancer screening rates be-
+tween Korean women in America versus Korea. J Womens Health. 2010;19(6):
+1089–1096.
+35. Yao NL, Hillemeier MM. Disparities in mammography rate among immigrant
+and native-born women in the US: progress and challenges. J Immigr Minor
+Health. 2014;16(4):613–621.
+36. Sabatino SA, White MC, Thompson TD, et al. Cancer screening test use-United
+States, 2013. MMWR Morb Mortal Wkly Rep. 2015;64(17):464–468.
+37. Lopez
+G,
+Cilluffo
+A,
+Patten
+E.
+Indians
+in
+the
+U.S.
+fact
+sheet.
+Pew
+Research Center. https://www.pewsocialtrends.org/fact-sheet/asian-ameri-
+cans-indians-in-the-u-s/.
+Published
+September
+8,
+2017.
+Accessed
+December 2017.
+38. Lopez G, Cilluffo A, Patten E. Chinese in the U.S. fact sheet. Pew Research
+Center.
+https://www.pewsocialtrends.org/fact-sheet/asian-americans-chi-
+nese-in-the-u-s/. Published September 8, 2017. Accessed December 2017.
+39. Lopez G, Cilluffo A, Patten E. Koreans in the U.S. fact sheet. Pew
+Research Center. https://www.pewsocialtrends.org/fact-sheet/asian-ameri-
+cans-koreans-in-the-u-s/.
+Published
+September
+8,
+2017.
+Accessed
+December 2017.
+40. Lopez G, Cilluffo A, Patten E. Vietnamese in the U.S. fact sheet. Pew Research
+Center.
+https://www.pewsocialtrends.org/fact-sheet/asian-americans-viet-
+namese-in-the-u-s-fact-sheet/.
+Published
+September
+8,
+2017.
+Accessed
+December 2017.
+41. Munoz D, Near AM, van Ravesteyn NT, et al. Effects of screening and sys-
+temic adjuvant therapy on ER-speciﬁc US breast cancer mortality. J Natl
+Cancer Inst. 2014;106(11):dju289.
+42. Howlader N, Altekruse SF, Li CI, et al. US incidence of breast cancer subtypes de-
+ﬁned by joint hormone receptor and HER2 status. J Natl Cancer Inst. 2014;106(5):
+dju055.
+43. Chen MJ, Wu WY, Yen AM, et al. Body mass index and breast cancer: analysis
+of a nation-wide population-based prospective cohort study on 1 393 985
+Taiwanese women. Int J Obes. 2016;40(3):524–530.
+44. Tseng M, Byrne C, Evers KA, et al. Acculturation and breast density in
+foreign-born, U.S. Chinese women. Cancer Epidemiol Biomark Prev. 2006;15(7):
+1301–1305.
+45. Bae JM, Kim EH. Breast density and risk of breast cancer in Asian women: a
+meta-analysis of observational studies. J Prev Med Public Health. 2016;49(6):
+367–375.
+46. Malik A, Jeyaraj PA, Shankar A, et al. Passive smoking and breast cancer-a
+suspicious link. Asian Pac J Cancer Prev. 2015;16(14):5715–5719.
+47. Nitta J, Nojima M, Ohnishi H, et al. Weight gain and alcohol drinking associa-
+tions with breast cancer risk in Japanese postmenopausal women-results
+from the Japan Collaborative Cohort (JACC) Study. Asian Pac J Cancer Prev.
+2016;17(3):1437–1443.
+48. Iwasaki M, Tsugane S. Risk factors for breast cancer: epidemiological evi-
+dence from Japanese studies. Cancer Sci. 2011;102(9):1607–1614.
+49. Wu AH, Vigen C, Razavi P, et al. Alcohol and breast cancer risk among Asian-
+American women in Los Angeles County. Breast Cancer Res. 2012;14(6):
+50. Kruk J. Association between vegetable, fruit and carbohydrate intake and
+breast cancer risk in relation to physical activity. Asian Pac J Cancer Prev. 2014;
+15(11):4429–4436.
+51. Lee H, Wang Q, Yang F, et al. SULT1A1 Arg213His polymorphism, smoked
+meat, and breast cancer risk: a case-control study and meta-analysis. DNA
+Cell Biol. 2012;31(5):688–699.
+52. Xie Q, Chen ML, Qin Y, et al. Isoﬂavone consumption and risk of breast can-
+cer: a dose-response meta-analysis of observational studies. Asia Pac J Clin
+Nutr. 2013;22(1):118–127.
+53. Woo HD, Park KS, Shin A, et al. Glycemic index and glycemic load dietary pat-
+terns and the associated risk of breast cancer: a case-control study. Asian Pac
+J Cancer Prev. 2013;14(9):5193–5198.
+54. Tam C, Li Q, Friedenreich C, et al. Lifetime physical activity in postmeno-
+pausal Caucasian and Chinese-Canadian women. Eur J Cancer Prev. 2014;
+23(2):90–95.
+55. Wu AH, Ziegler RG, Pike MC, et al. Menstrual and reproductive factors and
+risk of breast cancer in Asian-Americans. Br J Cancer. 1996;73(5):680–686.
+56. Nichols HB, Trentham-Dietz A, Love RR, et al. Differences in breast cancer
+risk
+factors
+by
+tumor
+marker
+subtypes
+among
+premenopausal
+Vietnamese and Chinese women. Cancer Epidemiol Biomarkers Prev. 2005;
+14(1):41–47.
+57. Thompson D. Postmenopausal women should still steer clear of HRT: task
+force. Medical Express website. Published 2017. https://medicalxpress.com/
+news/2017-12-postmenopausal-women-hrt-task.html. Accessed December
+2017.
+58. Kawai M, Kakugawa Y, Nishino Y, et al. Reproductive factors and breast can-
+cer risk in relation to hormone receptor and menopausal status in Japanese
+women. Cancer Sci. 2012;103(10):1861–1870.
+59. Lin CH, Chen YC, Chiang CJ, et al. The emerging epidemic of estrogen-related
+cancers in young women in a developing Asian country. Int J Cancer. 2012;
+130(11):2629–2637.
+60. Li H, Sun XZ, Miller E, et al. BMI, reproductive factors, and breast cancer mo-
+lecular subtypes: a case-control study and meta-analysis. J Epidemiol. 2017;
+27(4):143–151.
+61. Wu JQ, Li YY, Ren JC, et al. Induced abortion and breast cancer: results from a
+population-based case control study in China. Asian Pac J Cancer Prev. 2014;
+15(8):3635–3640.
+62. Killelea BK, Chagpar AB, Horowitz NR, et al. Characteristics and treatment of
+human epidermal growth factor receptor 2 positive breast cancer: 43,485
+cases from the National Cancer Database treated in 2010 and 2011. Am J Surg.
+2017;213(2):426–432.
+63. Pathmanathan N, Geng JS, Li WC, et al. Human epidermal growth factor re-
+ceptor 2 status of gastric cancer patients in Asia: results from a large, multi-
+country study. Asia-Pac J Clin Oncol. 2017;13(3):249–260.
+64. Munoz DF, Plevritis SK. Estimating breast cancer survival by molecular sub-
+type in the absence of screening and adjuvant treatment. Med Decis Mak.
+2018;38(suppl 1):32s–43s.
+8 of 8
+|
+JNCI Cancer Spectrum, 2020, Vol. 4, No. 2
+Downloaded from https://academic.oup.com/jncics/article/4/2/pkaa005/5728641 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+

@@ -166,40 +166,40 @@ record_id,year,pmid,doi,source,chars,title
 2137,2022,35119703,10.1002/cncr.34122,cached,23789,"Cancer disparities among non-Hispanic urban American Indian and Alaska Native populations in the United States, 1999-201"
 2151,2022,34878180,10.3322/caac.21703,MISSING,0,"American Cancer Society's report on the status of cancer disparities in the United States, 2021"
 2163,2022,,10.1101/2022.02.21.22271266,unpaywall-oa,21867,Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA
-2176,2022,35020204,10.3322/caac.21708,MISSING,0,"Cancer statistics, 2022"
-2302,2021,33392441,10.1093/jncics/pkaa005,MISSING,0,"Breast Cancer Incidence Trends by Estrogen Receptor Status among Asian American Ethnic Groups, 1990-2014"
+2176,2022,35020204,10.3322/caac.21708,manual-pdf,121966,"Cancer statistics, 2022"
+2302,2021,33392441,10.1093/jncics/pkaa005,manual-pdf,45836,"Breast Cancer Incidence Trends by Estrogen Receptor Status among Asian American Ethnic Groups, 1990-2014"
 2406,2020,32337499,10.1093/jncics/pkz091,cached,9561,Subtype-specific breast cancer incidence rates in black versus white men in the United States
-2413,2020,31912902,10.3322/caac.21590,MISSING,0,"Cancer statistics, 2020"
+2413,2020,31912902,10.3322/caac.21590,manual-pdf,106783,"Cancer statistics, 2020"
 2440,2019,31428891,10.1007/s10552-019-01216-9,cached,23500,Cancer incidence and associations with known risk and protective factors: the Alaska EARTH study
 2453,2019,31392297,10.1093/jncics/pkz040,cached,30971,Incidence and survival among young women with stage I-III breast cancer: Seer 2000-2015
-2473,2019,30762872,10.3322/caac.21555,MISSING,0,"Cancer statistics for African Americans, 2019"
+2473,2019,30762872,10.3322/caac.21555,manual-pdf,104595,"Cancer statistics for African Americans, 2019"
 2510,2019,31575554,10.1158/1055-9965.epi-19-0288,cached,21977,"Disparities in cancer incidence and trends among American Indians and Alaska natives in the United States, 2010–2015"
-2537,2018,30285281,10.3322/caac.21494,MISSING,0,"Cancer Statistics for Hispanics/Latinos, 2018"
-2548,2018,29975407,10.1002/cncr.31592,MISSING,0,"Cancer patterns in Hmong in Minnesota, 2000 to 2012"
-2601,2018,29313949,10.3322/caac.21442,MISSING,0,"Cancer statistics, 2018"
-2610,2018,,10.2147/cmar.s173099,MISSING,0,"The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioecon"
-2698,2017,28055103,10.3322/caac.21387,MISSING,0,"Cancer Statistics, 2017"
-2732,2016,,10.1093/jjco/hyw119,MISSING,0,Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Contine
-2796,2015,26375877,10.3322/caac.21314,MISSING,0,"Cancer statistics for Hispanics/Latinos, 2015"
-2843,2015,25559415,10.3322/caac.21254,MISSING,0,"Cancer statistics, 2015"
-2917,2014,24114568,10.3322/caac.21203,MISSING,0,"Breast cancer statistics, 2013"
-2989,2013,23386565,10.3322/caac.21173,MISSING,0,"Cancer statistics for African Americans, 2013"
-3116,2011,,10.1089/jwh.2010.2082,MISSING,0,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004"
-3182,2009,19661072,10.1158/1055-9965.epi-09-0329,MISSING,0,"Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos"
-3186,2009,,10.1016/s1043-321x(09)79313-0,MISSING,0,Age-Related Crossover in Breast Cancer Incidence Rates between Black and White Women: Implications for Removing Racial D
-3188,2009,19474385,10.3322/caac.20006,MISSING,0,"Cancer statistics, 2009"
-3212,2009,19109819,10.1002/cncr.24039,MISSING,0,Fifty years of cancer in an American Indian population
-3228,2008,18696716,10.1002/cncr.23686,MISSING,0,"Cancer health disparities among Indian and Pakistani immigrants in the United States a Surveillance, Epidemiology, and E"
-3230,2008,18720386,10.1002/cncr.23731,MISSING,0,"Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004"
-3243,2008,18287387,10.3322/ca.2007.0010,MISSING,0,"Cancer statistics, 2008"
-3247,2008,18094016,10.1093/ije/dym219,MISSING,0,"Cancer incidence rates among South Asians in four geographic regions: India, Singapore, UK and US"
-3267,2007,17654663,10.1002/cncr.22914,MISSING,0,"Cambodian cancer incidence rates in California and Washington, 1998-2002"
-3268,2007,17844709,,MISSING,0,Improving cancer incidence estimates for American Indians in Wisconsin
-3275,2007,18159978,,MISSING,0,"Cancer incidence in the Middle Eastern population of California, 1988-2004."
-3288,2007,17242674,10.1177/107327480701400111,MISSING,0,Cancer incidence among Korean-American immigrants in the United States and native Koreans in South Korea
-3298,2006,16933057,10.1007/s10552-006-0045-3,MISSING,0,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000"
-3322,2005,,10.1186/1477-3163-4-21,MISSING,0,"Cancer incidence in the South Asian population of California, 1988-2000"
-3345,2005,15661684,10.3322/canjclin.55.1.10,MISSING,0,"Cancer statistics, 2005"
+2537,2018,30285281,10.3322/caac.21494,manual-pdf,100824,"Cancer Statistics for Hispanics/Latinos, 2018"
+2548,2018,29975407,10.1002/cncr.31592,manual-pdf,37082,"Cancer patterns in Hmong in Minnesota, 2000 to 2012"
+2601,2018,29313949,10.3322/caac.21442,manual-pdf,105873,"Cancer statistics, 2018"
+2610,2018,,10.2147/cmar.s173099,manual-pdf,61423,"The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioecon"
+2698,2017,28055103,10.3322/caac.21387,manual-pdf,100408,"Cancer Statistics, 2017"
+2732,2016,,10.1093/jjco/hyw119,manual-pdf,2594,Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Contine
+2796,2015,26375877,10.3322/caac.21314,manual-pdf,117522,"Cancer statistics for Hispanics/Latinos, 2015"
+2843,2015,25559415,10.3322/caac.21254,manual-pdf,101815,"Cancer statistics, 2015"
+2917,2014,24114568,10.3322/caac.21203,manual-pdf,51289,"Breast cancer statistics, 2013"
+2989,2013,23386565,10.3322/caac.21173,manual-pdf,76429,"Cancer statistics for African Americans, 2013"
+3116,2011,,10.1089/jwh.2010.2082,unavailable,0,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004"
+3182,2009,19661072,10.1158/1055-9965.epi-09-0329,manual-pdf,46434,"Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos"
+3186,2009,,10.1016/s1043-321x(09)79313-0,manual-pdf,61585,Age-Related Crossover in Breast Cancer Incidence Rates between Black and White Women: Implications for Removing Racial D
+3188,2009,19474385,10.3322/caac.20006,manual-pdf,90562,"Cancer statistics, 2009"
+3212,2009,19109819,10.1002/cncr.24039,manual-pdf,34457,Fifty years of cancer in an American Indian population
+3228,2008,18696716,10.1002/cncr.23686,manual-pdf,40070,"Cancer health disparities among Indian and Pakistani immigrants in the United States a Surveillance, Epidemiology, and E"
+3230,2008,18720386,10.1002/cncr.23731,manual-pdf,68922,"Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004"
+3243,2008,18287387,10.3322/ca.2007.0010,manual-pdf,69695,"Cancer statistics, 2008"
+3247,2008,18094016,10.1093/ije/dym219,manual-pdf,51165,"Cancer incidence rates among South Asians in four geographic regions: India, Singapore, UK and US"
+3267,2007,17654663,10.1002/cncr.22914,manual-pdf,25991,"Cambodian cancer incidence rates in California and Washington, 1998-2002"
+3268,2007,17844709,,unavailable,0,Improving cancer incidence estimates for American Indians in Wisconsin
+3275,2007,18159978,,manual-pdf,34672,"Cancer incidence in the Middle Eastern population of California, 1988-2004."
+3288,2007,17242674,10.1177/107327480701400111,manual-pdf,43944,Cancer incidence among Korean-American immigrants in the United States and native Koreans in South Korea
+3298,2006,16933057,10.1007/s10552-006-0045-3,manual-pdf,37036,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000"
+3322,2005,,10.1186/1477-3163-4-21,manual-pdf,55581,"Cancer incidence in the South Asian population of California, 1988-2000"
+3345,2005,15661684,10.3322/canjclin.55.1.10,manual-pdf,63290,"Cancer statistics, 2005"
 3360,2004,15328946,,MISSING,0,The effect of migration on cancer incidence among Japanese in Hawaii
 3369,2004,14997057,10.1023/b:brea.0000010701.08825.2d,MISSING,0,Is male breast cancer similar or different than female breast cancer?
 3373,2004,14974761,10.3322/canjclin.54.1.8,MISSING,0,"Cancer Statistics, 2004"

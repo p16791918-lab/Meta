@@ -1,0 +1,3724 @@
+record_id=2473 pmid=30762872 doi=10.3322/caac.21555
+SOURCE: manual-pdf
+TITLE: Cancer statistics for African Americans, 2019
+
+CA CANCER J CLIN 2019;69:211–233
+211
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+Abstract: In the United States, African American/black individuals bear a dispro-
+portionate share of the cancer burden, having the highest death rate and the lowest 
+survival rate of any racial or ethnic group for most cancers. To monitor progress in 
+reducing these inequalities, every 3 years the American Cancer Society provides 
+the estimated number of new cancer cases and deaths for blacks in the United 
+States and the most recent data on cancer incidence, mortality, survival, screening, 
+and risk factors using data from the National Cancer Institute, the North American 
+Association of Central Cancer Registries, and the National Center for Health 
+Statistics. In 2019, approximately 202,260 new cases of cancer and 73,030 cancer 
+deaths are expected to occur among blacks in the United States. During 2006 
+through 2015, the overall cancer incidence rate decreased faster in black men than 
+in white men (2.4% vs 1.7% per year), largely due to the more rapid decline in lung 
+cancer. In contrast, the overall cancer incidence rate was stable in black women 
+(compared with a slight increase in white women), reflecting increasing rates for 
+cancers of the breast, uterine corpus, and pancreas juxtaposed with declining 
+trends for cancers of the lung and colorectum. Overall cancer death rates declined 
+faster in blacks than whites among both males (2.6% vs 1.6% per year) and females 
+(1.5% vs 1.3% per year), largely driven by greater declines for cancers of the lung, 
+colorectum, and prostate. Consequently, the excess risk of overall cancer death in 
+blacks compared with whites dropped from 47% in 1990 to 19% in 2016 in men and 
+from 19% in 1990 to 13% in 2016 in women. Moreover, the black-white cancer dis-
+parity has been nearly eliminated in men <50 years and women ≥70 years. Twenty-
+five years of continuous declines in the cancer death rate among black individuals 
+translates to more than 462,000 fewer cancer deaths. Continued progress in 
+­reducing disparities will require expanding access to high-quality prevention, 
+early detection, and treatment for all Americans. CA Cancer J Clin 2019;69:211-233. 
+© 2019 American Cancer Society. 
+Keywords: blacks, cancer statistics, incidence, mortality
+Introduction
+Non-Hispanic (NH) blacks are the second-largest racial/ethnic minority group in 
+the United States after Hispanics, comprising 13% of the total US population. In 
+the United States, African American/black individuals bear a disproportionate 
+share of the cancer burden, having the highest death rate and the lowest survival rate 
+of any racial or ethnic group for most cancers and other leading causes of death, in-
+cluding heart diseases, stroke, and diabetes (Table 1). Socioeconomic status (SES), 
+which is strongly correlated with race in this country, is the most critical factor 
+driving these racial inequalities. For example, in 2017, the proportion of blacks liv-
+ing below the federal poverty level (21%) was more than double that of NH whites 
+(9%), and just 22% of blacks, versus 36% of NH whites, had completed 4 years of 
+college.1,2 Individuals with lower SES experience numerous barriers to high-qual-
+ity health care, including lack of adequate insurance coverage. Individuals without 
+health insurance are more likely to be diagnosed with advanced cancer and to have 
+a higher risk of cancer death compared with those who are insured.3-5 In 2017, 
+11% of blacks were uninsured compared with 6% of whites.6 The 2010 passage of 
+Cancer Statistics for African Americans, 2019
+Carol E. DeSantis, MPH
+1; Kimberly D. Miller, MPH
+2; Ann Goding Sauer, MSPH
+3; Ahmedin Jemal, DVM, PhD
+4;  
+Rebecca L. Siegel, MPH
+5
+1 Principal Scientist, Surveillance and 
+Health Services Research, American 
+Cancer Society, Atlanta, GA; 2 Senior 
+Associate Scientist, Surveillance and 
+Health Services Research, American 
+Cancer Society, Atlanta, GA; 3 Senior 
+Associate Scientist, Surveillance 
+and Health Services Research, 
+Intramural Research, American Cancer 
+Society, Atlanta, GA; 4 Vice President, 
+Surveillance and Health Services 
+Research, American Cancer Society, 
+Atlanta, GA; 5 Scientific Director, 
+Surveillance Research, Surveillance and 
+Health Services Research, American 
+Cancer Society, Atlanta, GA. 
+Corresponding author: Carol E. 
+DeSantis, MPH, Principal Scientist, 
+Surveillance and Health Services 
+Research, American Cancer Society; 250 
+Williams Street NW, Atlanta, GA 30303; 
+carol.desantis@cancer.org
+DISCLOSURES: All authors are employed 
+by the American Cancer Society, 
+which receives grants from private 
+and corporate foundations, including 
+foundations associated with companies 
+in the health sector for research outside 
+of the submitted work. The authors are 
+not funded by or key personnel for any 
+of these grants, and their salary is solely 
+funded through American Cancer Society 
+funds.
+doi: 10.3322/caac.21555. Available 
+online at cacancerjournal.com
+
+Cancer Stats for African Americans, 2019
+212
+CA: A Cancer Journal for Clinicians
+the Patient Protection and Affordable Care Act (ACA) and 
+the subsequent expansion of Medicaid helped reduce the 
+number of uninsured blacks by one-half, particularly among 
+those with lower SES. However, coverage gains were lowest 
+among blacks,7,8 and it remains to be seen whether insurance 
+coverage alone will ultimately reduce cancer disparities.
+In this report, we provide data and information on ­cancer 
+occurrence among the African American/black community 
+in the United States, including incidence, survival, mortal-
+ity, and the estimated numbers of new cases and deaths in 
+2019, as well as the prevalence of cancer risk factors and 
+screening. We also estimate the total number of cancer 
+deaths averted among blacks as a result of the continuous 
+decline in cancer mortality since the early 1990s.
+Materials and Methods
+Incidence and Mortality Data
+There are 2 sources for cancer incidence data reported in 
+this article. The Surveillance, Epidemiology, and End 
+Results (SEER) program of the National Cancer Institute 
+(NCI) reports long-term, high-quality, population-based 
+incidence data covering up to 28% of the US population. 
+Long-term incidence trends (1975-2015) were based on 
+data from the SEER 9 registries.9 SEER data are available 
+for whites and blacks beginning in 1973 and by Hispanic 
+ethnicity beginning in 1992, and thus analyses of long-
+term trends do not exclude persons of Hispanic ethnicity. 
+Five-year relative survival rates and the lifetime probability 
+of developing cancer were based on data from the SEER 
+18 registries, which are available from 2000 onward. Much 
+of the statistical information presented in this report was 
+previously published in the SEER Cancer Statistics Review 
+1975-2015.10
+The North American Association of Central Cancer 
+Registries (NAACCR) compiles and reports incidence data 
+from cancer registries that participate in the SEER pro-
+gram and the Centers for Disease Control and Prevention’s 
+National Program of Cancer Registries (NPCR) and 
+approach 100% coverage of the US population in the most 
+recent period. These data are available from 1995 onward 
+and were the source for projected new cancer cases in 2019, 
+distribution of cases by stage at diagnosis, incidence rates 
+in the most recent period (2011-2015) by site and state, and 
+analyses of trends in incidence rates from 1995 to 2015.11 
+Overall US rates from NAACCR do not include data from 
+Kansas, Minnesota, Nevada, or New Mexico because these 
+registries did not submit data or failed to meet NAACCR 
+high-quality standards for all years during 2011 through 
+2015. Eighteen additional states (Arkansas, Georgia, 
+Indiana, Maryland, Massachusetts, Mississippi, Missouri, 
+Montana, New York, North Dakota, Ohio, Oklahoma, 
+Oregon, South Carolina, South Dakota, Tennessee, 
+Vermont, and Virginia) and the District of Columbia were 
+excluded from analyses of incidence trends because data 
+TABLE 1.  Leading Causes of Death by Sex Among NH Blacks and Whites, 2016
+MALES
+NH BLACK
+NH WHITE
+RANK
+NO.
+%
+DEATH RATE*
+RANK
+NO.
+%
+DEATH RATE*
+Cause of death
+Heart diseases
+1
+40,040
+24%
+267.2
+1
+266,981
+25%
+214.1
+Cancer
+2
+35,215
+21%
+228.1
+2
+247,202
+23%
+190.7
+Accidents (unintentional injuries)
+3
+12,452
+7%
+65.8
+3
+76,025
+7%
+72.4
+Cerebrovascular diseases
+4
+8,114
+5%
+57.4
+5
+43,711
+4%
+35.8
+Diabetes
+5
+6,976
+4%
+45.3
+6
+30,010
+3%
+23.6
+All causes
+168,742
+1,088.7
+1,077,329
+880.6
+NH BLACK
+NH WHITE
+FEMALES
+RANK
+NO.
+%
+DEATH RATE*
+RANK
+NO.
+%
+DEATH RATE*
+Cause of death
+Heart diseases
+1
+36,563
+23%
+171.2
+1
+233,632
+22%
+131.3
+Cancer
+2
+34,510
+22%
+156.1
+2
+219,262
+21%
+138.2
+Cerebrovascular diseases
+3
+10,074
+6%
+48.0
+5
+63,776
+6%
+35.6
+Diabetes
+4
+7,077
+4%
+32.8
+7
+23,389
+2%
+14.4
+Alzheimer disease
+5
+6,126
+4%
+30.3
+4
+67,893
+6%
+35.6
+All causes
+158,057
+735.4
+1,056,078
+635.4
+Abbreviation: NH, non-Hispanic.
+*Rates are per 100,000 population and age adjusted to the 2000 US standard population.
+Source: National Center for Health Statistics, Centers for Disease Control and Prevention.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+213
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+were not available for all years during 1995 through 2015. 
+Some of the data presented here were previously published in 
+volumes 1 and 2 of Cancer in North America: 2011-2015.12,13
+Mortality data were obtained from the National Center 
+for Health Statistics (NCHS), as reported by the SEER 
+program.14 Data are available for whites and blacks begin-
+ning in 1969 and by Hispanic ethnicity since 1990. When 
+available, incidence and mortality data are presented for NH 
+blacks and NH whites. Incidence and death rates were age 
+standardized to the 2000 US standard population and are 
+expressed per 100,000 population. Incidence trends were 
+adjusted for delays in reporting based on SEER delay fac-
+tors to account for the additional time required for the com-
+plete registration of cases. All cancer cases were classified 
+according to the International Classification of Diseases for 
+Oncology.15 Causes of death were classified according to the 
+International Classification of Diseases.16 The probability of 
+developing cancer was calculated using the NCI’s DevCan 
+software (version 6.7.3).17 All cancer cases and deaths were 
+accessed using SEER*Stat software (version 8.3.5).18 The 
+annual percent change in rates was quantified using the 
+NCI’s Joinpoint Regression Program (version 4.6.0.0).19
+Projected Cancer Cases and Deaths in 2019
+The most recent year for which incidence and mortality 
+data are available lags 2 to 4 years behind the current year 
+because of the time required for data collection, compila-
+tion, quality control, and dissemination. Therefore, we 
+projected the numbers of new cancer cases and deaths 
+for blacks in the United States in 2019 to provide an 
+estimate of the contemporary cancer burden. To calculate 
+the number of invasive cancer cases, a generalized linear 
+mixed model was used to estimate complete counts for each 
+county (or health service area for rare cancers) from 2002 
+through 2016 using delay-adjusted, high-quality incidence 
+data from 48 states and the District of Columbia (96% pop-
+ulation coverage) and geographic variations in sociodemo-
+graphic and lifestyle factors, medical settings, and cancer 
+screening behaviors.20 Modeled counts were aggregated for 
+the United States for each year, and a time series projection 
+method (vector autoregression) was applied to all 15 years 
+to estimate cases for 2019. For complete details of the case 
+projection methodology, please refer to Zhu et al.21
+The numbers of cancer deaths expected to occur in 2019 
+among blacks in the United States were estimated based 
+on annual percent changes in the actual numbers of cancer 
+deaths from 1998 through 2016, as reported to the NCHS. 
+For the complete details of this methodology, please refer 
+to Chen et al.22
+Other Statistics
+The estimated numbers of cancer deaths averted in black 
+men and women because of the reduction in overall cancer 
+death rates were estimated by subtracting the number of 
+recorded cancer deaths from the number that would have 
+been expected if cancer death rates had remained at their 
+peak. The expected numbers of deaths were calculated by 
+applying the 5-year, age-specific cancer death rates in the 
+peak year for age-standardized cancer death rates (1990 in 
+men, 1991 in women) to the corresponding age-specific 
+populations in the subsequent years through 2016. We then 
+summed the difference between the number of expected 
+and observed deaths in each age group and calendar year 
+separately for men and women.
+Risk Factors and Screening Data
+Data from publicly available, population-based surveys were 
+used to generate weighted prevalence estimates of cancer 
+risk factors and screening utilization. The 2015 National 
+Health Interview Survey (NHIS) (response rate, 55%) was 
+used for estimates of cancer screening; the 2017 NHIS 
+(response rate, 53%) was used for estimates of cigarette 
+smoking and physical inactivity.23 The 2015 and 2016 
+National Health and Nutrition Examination Surveys were 
+used to estimate overweight and obesity, because those 
+surveys collect height and weight in physical examinations 
+(response rate, 55%).24 Estimates were calculated using 
+SAS-callable SUDAAN (version 11.0.1; RTI International, 
+Research Triangle Park, North Carolina) and accounted for 
+the complex survey designs.
+Selected Findings
+Overall Cancer Occurrence
+Incidence
+Approximately 98,020 cancer cases in black men and 
+104,240 cases in black women are expected to be newly 
+diagnosed in 2019 (Fig. 1). Prostate cancer is the most 
+commonly diagnosed cancer in black men, and breast can-
+cer is the most commonly diagnosed in black women, each 
+accounting for nearly one-third of cancers diagnosed in each 
+sex. Cancers of the lung and colorectum are the second and 
+third most commonly diagnosed cancers, respectively, in 
+both black men and women. Together, the 4 most common 
+cancers (breast, prostate, colorectal, and lung) account for 
+more than one-half (54%) of all cancer cases among blacks. 
+The lifetime probability of being diagnosed with cancer 
+among black men and women is 37% and 34%, respectively, 
+compared with 40% and 39%, respectively, among white 
+men and women (Table 2).
+Differences in cancer incidence rates between blacks and 
+whites in the United States are presented as incidence rate 
+ratios in Table 3. Among males, incidence rates in blacks 
+are higher overall (9%), and for the most common cancers, 
+including cancers of the prostate, lung, colorectum, kidney, 
+liver, and pancreas. In contrast, black females have a lower 
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+214
+CA: A Cancer Journal for Clinicians
+incidence rate overall (7%) and for many cancers, including 
+cancers of the lung, breast (only 3% lower), uterine corpus, 
+and thyroid. Importantly, analyses of uterine corpus can-
+cer that exclude women who have had a hysterectomy find 
+similar or even higher incidence rates in black women than 
+in white women because hysterectomy is more common in 
+black women.25,26
+Incidence rates for all cancers combined increased from 
+the mid-1970s to the early 1990s in blacks; rates were 
+higher and increased faster in males than in females (Fig. 2). 
+Among men, rates have decreased since the early 1990s, 
+with the pace accelerating after 2009. During the most 
+recent period (2006-2015), the decrease in overall cancer 
+incidence rates in men was faster in NH blacks (2.4% per 
+year) than in NH whites (1.7%) (Table 4). These trends 
+reflect large declines, from 2.7% to 4.5% annually among 
+blacks, for cancers of the lung, prostate, and colorectum. 
+Among women, the overall cancer incidence rate has been 
+relatively stable among NH blacks since 2009 but has 
+increased slowly (0.2% per year) among NH whites.
+Mortality
+Cancer is the second-leading cause of death in blacks, after 
+heart diseases, accounting for nearly one-quarter of all 
+reported deaths in 2016 (Table 1). An estimated 36,840 
+black men and 36,190 black women are expected to die 
+from cancer in 2019. Lung cancer is the leading cause of 
+cancer death among both men (25%) and women (20%), 
+followed by breast cancer in women (18%) and prostate 
+cancer in men (15%) (Fig. 1). Colorectal cancer (CRC) is 
+expected to be the third-leading cause of cancer death for 
+black men and women.
+Overall cancer death rates were lower in blacks than 
+in whites during the early 1950s; however, rates increased 
+sharply in blacks during 1950 through 1990 and have 
+remained higher compared with whites since the 1960s.27 
+Cancer death rates peaked in black men and women in the 
+early 1990s and have subsequently declined, with a steeper 
+decline observed in men compared with in women (Fig. 2). 
+This progress translates into the avoidance of more than 
+462,000 deaths from cancer (Fig. 3). From 2007 to 2016, 
+the death rate declined faster in blacks than in whites 
+among both males (2.6% vs 1.6% per year) and females 
+(1.5% vs 1.3% per year). As a result, the overall black-white 
+racial disparity has narrowed, particularly in males (Fig. 4). 
+In 1990, the cancer death rate in males was 47% higher in 
+blacks than in whites, but only 19% higher in 2016. Among 
+females, the disparity decreased from 19% in 1990 to 13% 
+in 2016.
+The decline in the black-white cancer mortality dispar-
+ity is even more striking in some age groups (Fig. 5). For 
+example, among men aged 40 to 49 years, the cancer death 
+rate during 1990-1991 was 102% higher in NH blacks than 
+in NH whites, but it was only 17% higher in 2015-2016. 
+Likewise, among women aged 40 to 49 years, the over-
+all disparity narrowed from 44% in 1990-1991 to 30% in 
+FIGURE 1. Leading Sites of New Cancer Cases and Deaths Among Blacks, United States, 2019 Estimates.
+Estimates are rounded to the nearest 10 and exclude basal cell and squamous cell skin cancers and in situ carcinoma, except urinary bladder. Ranking is 
+based on modeled projections and may differ from the most recent observed data.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+215
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+2015-2016. In fact, among black women aged 80 to 89 years, 
+the mortality rate was 8% higher than NH whites during 
+2002-2003, but 3% lower in 2015-2016. Steeper declines 
+among blacks in death rates for lung and other smoking- 
+related cancers, as well as for prostate, colorectal, and cervi-
+cal cancers have contributed to the recent narrowing of the 
+black-white cancer disparity. Indeed, lung and cervical cancer 
+death rates have converged in young blacks and whites.28-30
+Table 5 presents NH black-white mortality rate ratios 
+for selected cancers during 2012 through 2016. The largest 
+disparities are for cancers of the stomach, prostate, uterine 
+corpus, and myeloma, for which death rates among blacks 
+are about twice as high as those among whites. Despite 
+lower incidence rates in NH black compared with NH 
+white women for uterine corpus and breast cancers, death 
+rates for these cancers in black women are 98% and 41% 
+higher, respectively. Death rates that are lower in blacks 
+than in whites reflect lower incidence rates, such as for non- 
+Hodgkin lymphoma, brain and other nervous system can-
+cers, and urinary bladder cancer (males).
+Geographic variation
+Cancer incidence and death rates vary widely by state. Among 
+NH blacks, the total cancer incidence rate ranges from 182.7 
+TABLE 2.  Lifetime Probability of Developing or Dying from Invasive Cancers* by Race and Sex, United States, 2013  
+to 2015
+DEVELOPING
+DYING
+BLACK
+(%)
+NH WHITE
+(%)
+BLACK
+(%)
+NH WHITE
+(%)
+All sites†
+Male
+36.6 (1 in 3)
+39.9 (1 in 3)
+22.0 (1 in 5)
+21.9 (1 in 5)
+Female
+34.0 (1 in 3)
+39.2 (1 in 3)
+18.7 (1 in 5)
+18.9 (1 in 5)
+Breast
+Female
+11.5 (1 in 9)
+13.2 (1 in 8)
+3.1 (1 in 32)
+2.6 (1 in 39)
+Colon & rectum
+Male
+4.4 (1 in 23)
+4.3 (1 in 23)
+2.2 (1 in 46)
+1.8 (1 in 55)
+Female
+4.2 (1 in 24)
+4.0 (1 in 25)
+2.0 (1 in 51)
+1.7 (1 in 59)
+Kidney & renal pelvis
+Male
+2.0 (1 in 50)
+2.2 (1 in 46)
+0.5 (1 in 195)
+0.6 (1 in 159)
+Female
+1.3 (1 in 79)
+1.2 (1 in 83)
+0.3 (1 in 336)
+0.3 (1 in 297)
+Leukemia
+Male
+1.2 (1 in 86)
+1.9 (1 in 52)
+0.7 (1 in 150)
+1.0 (1 in 96)
+Female
+0.9 (1 in 109)
+1.3 (1 in 74)
+0.5 (1 in 191)
+0.7 (1 in 139)
+Liver & bile duct
+Male
+1.6 (1 in 62)
+1.1 (1 in 89)
+1.2 (1 in 83)
+0.9 (1 in 114)
+Female
+0.6 (1 in 173)
+0.5 (1 in 212)
+0.5 (1 in 182)
+0.5 (1 in 219)
+Lung & bronchus
+Male
+6.9 (1 in 15)
+7.0 (1 in 14)
+5.8 (1 in 17)
+6.0 (1 in 17)
+Female
+5.1 (1 in 19)
+6.5 (1 in 15)
+3.9 (1 in 26)
+5.0 (1 in 20)
+Myeloma
+Male
+1.4 (1 in 73)
+0.8 (1 in 122)
+0.7 (1 in 142)
+0.5 (1 in 221)
+Female
+1.2 (1 in 80)
+0.6 (1 in 175)
+0.7 (1 in 141)
+0.3 (1 in 291)
+Ovary
+Female
+0.9 (1 in 107)
+1.3 (1 in 75)
+0.7 (1 in 140)
+0.9 (1 in 106)
+Pancreas
+Male
+1.6 (1 in 64)
+1.6 (1 in 62)
+1.4 (1 in 73)
+1.4 (1 in 71)
+Female
+1.7 (1 in 59)
+1.5 (1 in 66)
+1.5 (1 in 65)
+1.3 (1 in 76)
+Prostate
+Male
+14.8 (1 in 7)
+10.6 (1 in 9)
+4.0 (1 in 25)
+2.2 (1 in 45)
+Stomach
+Male
+1.2 (1 in 83)
+0.8 (1 in 119)
+0.8 (1 in 132)
+0.4 (1 in 278)
+Female
+0.8 (1 in 118)
+0.4 (1 in 227)
+0.5 (1 in 206)
+0.2 (1 in 436)
+Thyroid
+Male
+0.3 (1 in 325)
+0.7 (1 in 137)
+<0.1 (1 in 2,893)
+0.1 (1 in 1,743)
+Female
+1.1 (1 in 87)
+2.0 (1 in 51)
+0.1 (1 in 1,273)
+0.1 (1 in 1,576)
+Urinary bladder‡
+Male
+1.8 (1 in 56)
+4.2 (1 in 24)
+0.5 (1 in 183)
+1.0 (1 in 99)
+Female
+0.8 (1 in 123)
+1.2 (1 in 82)
+0.3 (1 in 295)
+0.4 (1 in 283)
+Uterine cervix
+Female
+0.7 (1 in 140)
+0.6 (1 in 177)
+0.4 (1 in 281)
+0.2 (1 in 506)
+Uterine corpus
+Female
+2.7 (1 in 37)
+3.0 (1 in 34)
+1.0 (1 in 101)
+0.6 (1 in 176)
+Abbreviation: NH, non-Hispanic.
+Note: Percentages and “1 in” numbers may not be equivalent due to rounding.
+*For those who have not been previously diagnosed with cancer.
+†All sites exclude basal and squamous cell skin cancers and in situ carcinoma except urinary bladder.
+‡Includes in situ carcinomas.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+216
+CA: A Cancer Journal for Clinicians
+(cases per 100,000) in Wyoming to 674.1 in Wisconsin among 
+black men and from 171.2 in Wyoming to 493.5 in Wisconsin 
+among black women (Table 6). The relatively low incidence 
+rates among black men and women in Wyoming may be a 
+statistical anomaly due to the very small black population in 
+the state. Aside from Wisconsin, the highest death rates are 
+found in Louisiana and Mississippi among black men and 
+in Pennsylvania and the District of Columbia among black 
+women (Table 7). State differences in the cancer burden reflect 
+differences in the prevalence of risk factors, such as smoking 
+and obesity, as well as cancer screening (eg, mammography).
+Survival and stage distribution
+The 5-year relative survival rate is lower in blacks than in 
+whites for every stage of diagnosis for most cancer sites 
+(Fig. 6). Much of this results from socioeconomic barri-
+ers to timely, high-quality medical care.31-34 As a result, 
+for most cancer types, blacks are more likely than whites 
+to be diagnosed at a later stage of disease (Fig. 7), when 
+treatment choices are more limited and often less effective. 
+Many studies have found that, in equal-access health care 
+systems, racial disparities in cancer outcomes are elimi-
+nated.35 However, other studies report that racial dispari-
+ties persist even after accounting for socioeconomic factors 
+and access to care.27,36,37 For example, a recent comprehen-
+sive study of racial disparities in cancer in the United States 
+indicated that blacks have higher death rates than whites 
+even within the same socioeconomic strata.27
+A higher prevalence of comorbidities among black 
+patients also likely contributes to survival differences.38,39 
+For example, diabetes is more common in blacks than in 
+other racial/ethnic groups and is associated with an increased 
+risk of cancer death.38 In addition, some cancer-associated 
+genetic mutations and aggressive tumor characteristics are 
+more common among persons of African ancestry, and 
+likely contribute to racial disparities for some cancers.40-42 
+TABLE 3.  Comparison of Cancer Incidence Rates Between NH Blacks and Whites, United States, 2011 to 2015
+MALE
+FEMALE
+CANCER
+NH BLACK 
+RATE*
+NH WHITE 
+RATE*
+RATE 
+DIFFERENCE†
+RATE  
+RATIO‡
+CANCER
+NH BLACK 
+RATE*
+NH WHITE 
+RATE*
+RATE 
+DIFFERENCE†
+RATE 
+RATIO‡
+Kaposi sarcoma
+1.6
+0.4
+1.2
+3.75
+Kaposi sarcoma
+0.2
+<0.1
+0.2
+3.89
+Myeloma
+15.9
+7.5
+8.4
+2.13
+Myeloma
+11.7
+4.5
+7.2
+2.60
+Stomach
+14.1
+7.8
+6.3
+1.81
+Stomach
+7.7
+3.5
+4.2
+2.18
+Prostate
+179.2
+101.7
+77.5
+1.76
+Liver & intrahepatic bile duct
+5.2
+3.6
+1.6
+1.46
+Liver & intrahepatic bile duct
+17.6
+10.3
+7.3
+1.70
+Pancreas
+14.8
+10.9
+3.9
+1.36
+Breast
+1.9
+1.3
+0.6
+1.44
+Uterine cervix
+9.2
+7.1
+2.1
+1.30
+Larynx
+8.5
+5.9
+2.6
+1.43
+Esophagus
+2.3
+1.8
+0.5
+1.24
+Colon & rectum
+55.2
+44.6
+10.6
+1.24
+Colon & rectum
+40.7
+34.2
+6.5
+1.19
+Pancreas
+17.3
+14.6
+2.7
+1.19
+Kidney & renal pelvis
+13.1
+11.4
+1.7
+1.14
+Lung & bronchus
+85.4
+74.3
+11.1
+1.15
+Breast
+126.5
+130.1
+-3.6
+0.97
+Kidney & renal pelvis
+25.4
+22.5
+2.9
+1.13
+Uterine corpus
+24.4
+26.1
+-1.7
+0.93
+Hodgkin lymphoma
+3.2
+3.2
+0.0
+0.98
+Hodgkin lymphoma
+2.4
+2.6
+-0.2
+0.93
+Esophagus
+6.8
+8.7
+-1.9
+0.79
+Lung & bronchus
+49.2
+57.4
+-8.2
+0.86
+Oral cavity & pharynx
+14.6
+19.3
+-4.7
+0.76
+Leukemia
+8.9
+11.2
+-2.3
+0.80
+Leukemia
+13.7
+18.5
+-4.8
+0.74
+Ovary
+9.3
+11.9
+-2.6
+0.78
+Non-Hodgkin lymphoma
+17.0
+23.9
+-6.9
+0.71
+Oral cavity & pharynx
+5.1
+6.9
+-1.8
+0.75
+Brain & ONS
+4.9
+8.7
+-3.8
+0.57
+Non-Hodgkin lymphoma
+12.0
+16.2
+-4.2
+0.74
+Urinary bladder
+19.9
+39.5
+-19.6
+0.50
+Urinary bladder
+6.6
+9.7
+-3.1
+0.68
+Thyroid
+3.9
+8.2
+-4.3
+0.48
+Thyroid
+14.0
+23.0
+-9.0
+0.61
+Testis
+1.5
+6.8
+-5.3
+0.22
+Brain & ONS
+3.6
+6.3
+-2.7
+0.57
+Melanoma of the skin
+1.2
+34.0
+-32.8
+0.03
+Melanoma of the skin
+1.0
+22.1
+-21.1
+0.04
+All sites
+549.1
+505.5
+43.6
+1.09
+All sites
+407.0
+438.4
+-31.4
+0.93
+Abbreviations: NH, non-Hispanic; ONS, other nervous system.
+Note: Sites are listed in descending order by rate ratio.
+*Rates are per 100,000 population and age adjusted to the 2000 US standard population.
+†The rate difference is the rate in blacks minus the rate in whites.
+‡The rate ratio is the unrounded rate in blacks divided by the unrounded rate in whites.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+217
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+The underrepresentation of blacks and other racial/ethnic 
+minorities in clinical trials may exacerbate survival dispar-
+ities by limiting knowledge about the efficacy of therapeu-
+tic agents in diverse populations.43-45 In 2012, only 17% of 
+industry-funded clinical trial patients were from a racial/
+ethnic minority group, despite representing one-third of 
+the US population.43
+Nevertheless, the overall 5-year relative survival rate 
+among blacks has improved from 27% during 1960-1963 
+to 63% during 2008-2014, compared with an increase in 
+whites from 39% to 70%.10 Improvements in survival over 
+time reflect earlier diagnoses and advances in treatment. 
+Importantly, improvements in survival do not always indi-
+cate progress against cancer, such as when they result from 
+the detection of indolent cancers (overdiagnosis) or when 
+early diagnosis does not extend lifespan (lead time bias).
+Selected Cancers
+Female breast
+Breast cancer is the most common cancer among black 
+women in the United States and is the second-leading 
+cause of cancer death, with an estimated 33,840 new cases 
+of breast cancer and 6,540 deaths expected to occur in 
+2019. During 2008 through 2012, the overall breast cancer 
+­incidence rate among NH black women was 126.5 cases per 
+100,000 women compared with 130.1 per 100,000 among 
+NH white women (Table 3). However, rates were higher 
+among NH black women than among NH white women 
+in 8 US states (Alabama, Indiana, Louisiana, Michigan, 
+Mississippi, Missouri, North Carolina, and Virginia) and 
+were not significantly different in 20 other states.46 Breast 
+cancer incidence rates are also higher among blacks than 
+among whites for women younger than 45 years. The 
+median age of diagnosis is 59 years for black women 
+­compared with 63 years for white women.10 One in 9 black 
+women is expected to be diagnosed with breast cancer in 
+her lifetime, compared with 1 in 8 white women (Table 2).
+Similar to patterns in white women, rates in black women 
+increased rapidly during the 1980s, largely due to increased 
+detection because of mammography screening ­uptake; 
+decreased slightly (0.5% per year) during 1998 through 
+2005; and increased during the most recent 10-year period 
+(2006-2015) (Fig. 8). The recent annual percent change was 
+larger in NH black women (0.9% per year) compared with 
+that in NH white women (0.4% per year), contributing to 
+a convergence in incidence rates.47,48 The current increase 
+in breast cancer incidence reflects the trend for hormone 
+­receptor (HR)-positive disease, as rates for the less common 
+HR-negative cancer are decreasing.47 A recent ecologic 
+analysis concluded that increases in body mass index and 
+declines in the mean number of live births were contrib-
+uting factors to breast cancer trends from 1980 to 2011, 
+particularly among black women.49 Black women younger 
+than 40 years experienced the largest increase in mean body 
+mass index, from 25.6 kg/m2 in 1980 to 31.2 kg/m2 in 2009, 
+compared with an increase from 23.6 to 25.7 kg/m2 in white 
+women over the same period.49
+Breast cancer death rates were similar between black and 
+white women before the mid-1980s.10 However, a larger 
+increase in black women from the mid-1970s to the early 
+1990s, followed by a slower decline, led to a widening black-
+white disparity that peaked in the early 2010s, with rates 
+found to be 44% higher in black women (Fig. 4). Even over 
+the most recent 10-year period (2007-2016), the pace of the 
+decline has been somewhat slower among NH black women 
+than among NH white women (1.5% vs 1.8% per year). As 
+a result, breast cancer death rates remain 41% higher in NH 
+black women than in NH white women (Table 5).
+Higher breast cancer death rates among black women 
+likely result from a combination of factors that are diffi-
+cult to parse, including more advanced stage at diagnosis, 
+higher prevalence of obesity and other comorbidities, and 
+unfavorable tumor characteristics (eg, triple-negative dis-
+ease, ­inflammatory carcinoma, higher grade) as well as less 
+­access and adherence to high-quality cancer treatment.40,41 
+A recent study by American Cancer Society researchers 
+found that differences in insurance status and tumor char-
+acteristics were the most important factors contributing to 
+FIGURE 2. Trends in Cancer Incidence (1975 to 2015) and Death 
+Rates (1975 to 2016) Among Blacks by Sex, United States.
+Rates are age adjusted to the 2000 US standard population and are 2-year 
+moving averages. Incidence rates also are adjusted for reporting delay.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+218
+CA: A Cancer Journal for Clinicians
+the higher risk of death among younger (<65 years) black 
+patients who had early-stage, ­HR-positive disease, explain-
+ing one-third and one-fifth of the disparity, respectively.50 
+Although black women are twice as likely as women of 
+other races/ethnicities to be diagnosed with triple-negative 
+breast cancers,46 which are aggressive and challenging to 
+treat, some of the largest disparities in outcomes are for 
+patients with HR-positive tumors, which are amenable to 
+endocrine therapy.51 In this study of California patients 
+with breast cancer who were diagnosed from 2005 to 2012, 
+the risk of death was 31% to 39% higher in black women 
+compared with white women for those who had stage 
+II/III, HR-positive breast cancers after adjustment for de-
+mographic factors, other tumor characteristics, first course 
+of treatment, neighborhood SES, and insurance status. A 
+recent meta-analysis documented that black patients with 
+early-stage breast cancer were significantly more likely 
+(odds ratio, 1.41; 95% confidence interval, 1.06-1.87) to 
+experience delays of 90 days or more in the initiation of 
+adjuvant therapy.52 Importantly, the wide geographic 
+variation in racial disparities in breast cancer mortality sug-
+gests that these inequalities are not inevitable.53-56
+The 5-year relative survival rate for breast cancer 
+diagnosed during 2008 through 2014 was 81% among 
+black women, compared with 91% among white women 
+(Fig. 6), reflecting both later stage at detection and poorer 
+stage-specific survival. Only about one-half (54%) of 
+breast cancers are diagnosed at a local stage among black 
+women, compared with 64% among white women (Fig. 7), 
+despite similar reported mammography screening rates 
+(Table 8). However, several studies have documented 
+that self-reported survey data overestimate mammogra-
+phy screening prevalence, particularly among black and 
+Hispanic women.57-59 Additionally, black women are more 
+likely to be screened at lower resourced and nonaccredited 
+facilities and also to experience longer intervals between 
+mammograms and lack of timely follow-up of suspicious 
+results.60-62 A recent study of patients with breast cancer in 
+Chicago concluded that differences in the method of detec-
+tion and facility accreditation accounted for nearly all of the 
+racial disparity in breast cancer stage at diagnosis.63
+Colon and rectum
+CRC is the third most common cancer diagnosed among 
+both black men and women, with 19,740 new cases expected 
+to be diagnosed in 2019 (Fig. 1). The median age of CRC 
+diagnosis is 63 years for black men and 64 years for black 
+women, compared with ages 66 and 70 years for white men 
+and women, respectively.10 CRC is also the third-leading 
+cause of cancer death in black men and women, with 7,110 
+deaths from CRC expected in 2019.
+Blacks have the highest rates of CRC of any racial/ 
+ethnic group in the United States. Compared with NH whites, 
+incidence rates are 24% higher in NH black males and 19% 
+higher in NH black females (Table 3). The ­increased risk of 
+CRC among blacks may result from a higher prevalence of 
+obesity (among women) and physical inactivity (Table 9), 
+which are known risk factors for CRC. One study found that 
+unhealthy diet, physical inactivity, smoking, and excess body 
+weight together accounted for 44% of the increased risk of 
+CRC associated with lower educational attainment and 36% 
+of the excess risk associated with neighborhood SES.64 In 
+addition, CRC screening has historically lagged behind in 
+TABLE 4.  Fixed-Interval Trends (Average Annual Percent 
+Change) in Cancer Incidence Rates (2006  
+to 2015) and Death Rates (2007 to 2016) Among 
+NH Blacks and Whites by Sex, United States
+MALE
+FEMALE
+NH  
+BLACK
+NH  
+WHITE
+NH  
+BLACK
+NH 
+WHITE
+All sites
+Incidence
+−2.4*
+−1.7*
+0.2
+0.2*
+Death
+−2.6*
+−1.6*
+−1.5*
+−1.3*
+Breast (female)
+Incidence
+–
+0.9*
+0.4*
+Death
+−1.5*
+−1.8*
+Colorectum
+Incidence
+−2.7*
+−2.7*
+−2.8*
+−2.3*
+Death
+−2.7*
+−2.3*
+−3.2*
+−2.1*
+Lung & bronchus
+Incidence
+−3.1*
+−2.4*
+−1.1*
+−0.9*
+Death
+−4.1*
+−3.3*
+−2.7*
+−2.3*
+Myeloma
+Incidence
+1.6*
+1.8*
+1.3*
+1.8*
+Death
+−1.1*
+−0.8*
+−0.1
+−0.6*
+Prostate
+Incidence
+−4.5*
+−5.5*
+–
+Death
+−3.4*
+−2.1*
+Stomach
+Incidence
+−2.1*
+−0.9
+−1.6*
+−0.7*
+Death
+−3.1*
+−2.9*
+−3.5*
+−3.1*
+Uterine cervix
+Incidence
+–
+−2.0*
+−0.4
+Death
+−2.6*
+−0.1
+Uterine corpus
+Incidence
+–
+2.5*
+1.0*
+Death
+2.2*
+1.7*
+Abbreviation: NH, non-Hispanic.
+*The annual percent change is significantly different from zero (P < .05).
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+219
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+blacks compared with whites and remains slightly lower. 
+In 2015, 62% of blacks aged 50 years and older were up to 
+date on guideline-recommended CRC screening, compared 
+with 65% of whites (Table 8). Furthermore, a recent study of 
+Medicare enrollees indicated that blacks more often received 
+colonoscopies from physicians with a lower polyp detection 
+rate and were 31% more likely than whites to be diagnosed 
+with an interval cancer.65
+Before 1989, CRC incidence rates were predominantly 
+higher in white men than in black men and were similar 
+for women of both races. Since 1989, however, incidence 
+rates have been higher for blacks than for whites in both 
+men and women, likely reflecting racial differences in risk 
+factor trends and/or greater access to and utilization of rec-
+ommended screening tests by whites.66 From 2006 to 2015, 
+incidence rates decreased by 2.7% per year among black 
+men and by 2.8% per year among black women, similar to 
+declines in whites (Table 4).
+The racial disparity is larger for CRC mortality; death 
+rates are 47% higher in black men and 34% higher in black 
+women (Table 5). Similar to the pattern for incidence, CRC 
+mortality rates were historically higher among whites than 
+among blacks, with the crossover occurring around 1979 
+for women and 1984 for men. However, from 2007 to 2016, 
+CRC death rates declined faster in blacks than in whites 
+(Table 4), resulting in a narrowing of the racial disparity 
+among both men and women (Fig. 4).
+The 5-year relative survival rate for CRC among blacks 
+improved from 45% during 1975-1977 to 58% during 
+2008-2014, which is a smaller improvement than that 
+among whites (an increase from 50% to 65% over the same 
+period).10 Stage at diagnosis is the most important prog-
+nostic factor for CRC, and black patients remain slightly 
+less likely to be diagnosed with local-stage disease (37% vs 
+39%, respectively) (Fig. 7). Moreover, lower 5-year relative 
+survival rates also are observed in black patients who have 
+CRC within each stage at diagnosis (Fig. 6). Racial dis-
+parities in CRC survival largely reflect differences in treat-
+ment, SES, comorbidities, and tumor characteristics.3,67-69 
+Numerous studies have documented that blacks with 
+CRC are less likely than whites to receive recommended 
+surgical treatment, radiation, and chemotherapy.67,68,70,71 
+Unfavorable tumor characteristics are estimated to account 
+for 26% of the black-white survival disparity in patients 
+younger than 65 years but for 40% to 50% of the dispar-
+ity in older (≥65 years) patients, likely because of universal 
+health care access among seniors through Medicare.67-69 
+For example, one study found that black patients with CRC 
+were approximately 4 times more likely than white patients 
+to be diagnosed with proximal tumors, which are more dif-
+ficult to detect and associated with less favorable survival.72 
+Notably, among patients with CRC who are younger than 
+65 years, differences in insurance status explained nearly 
+one-half (47%) of the excess risk of death in blacks.67
+FIGURE 3. Total Number of Cancer Deaths Averted From 1991 to 2016 in Black Men and From 1992 to 2016 in Black Women.
+The blue line represents the actual number of cancer deaths recorded in each year, and the red line represents the expected number of cancer deaths that 
+would have been expected if cancer death rates had remained at their peak.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+220
+CA: A Cancer Journal for Clinicians
+Lung and bronchus
+Lung cancer is the second-leading cause of cancer in black 
+men and women, with 25,390 new cases expected to be 
+diagnosed in 2019 (Fig. 1). Lung cancer is also the lead-
+ing cause of cancer death in blacks, with 16,550 deaths 
+expected in 2019. Although lung cancer rates are 15% higher 
+in black men than in white men, the reverse is true for women 
+(rates are 14% lower in black women), reflecting ­racial 
+and sex differences in historic smoking patterns (Fig. 9). 
+Higher rates of lung cancer among black men are limited 
+to non-small cell lung cancer, with rates of small cell lung 
+cancer slightly lower in black men compared with white 
+men (7.1 vs 9.0 cases per 100,000 men).11 Lung cancer inci-
+dence rates peaked in black men in the mid-1980s and have 
+FIGURE 4. Trends in Cancer Death Rates and Mortality Rate Ratios Among Non-Hispanic (NH) Blacks and Whites by Site and Sex, United 
+States, 1990 to 2016.
+Note: Vertical scales (death rates and rate ratios) differ by site.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+221
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+since been steadily declining (Fig. 8). In contrast, incidence 
+rates did not peak in black women until the early 2000s. 
+From 2006 to 2015, lung cancer incidence rates decreased 
+faster in black men and women (by 3.1% and 1.1% per year, 
+respectively) compared with whites (by 2.4% and 0.9% per 
+year, respectively) (Table 4).
+Black men have the highest lung cancer death rate of 
+any racial or ethnic group. Lung cancer death rates in men 
+began to decline in 1990, with acceleration in the decline 
+beginning in 1994.10 Similar to the pattern for incidence 
+trends, the decline in lung cancer death rates has been faster 
+in black men and women compared with whites (Table 4). 
+FIGURE 5. Trends in Cancer Deaths Rates Among Non-Hispanic (NH) Blacks and Whites by Sex and Age Group, United States, 1990 to 2016. 
+Note: Vertical scales differ by age group.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+222
+CA: A Cancer Journal for Clinicians
+As a result, the racial disparity in lung cancer death rates 
+among men of all ages has been substantially reduced, 
+from an excess of 40% during 1990-1992 to 18% during 
+2012-2016 (Fig. 4), and has been eliminated in adults 
+younger than 40 years.29 The declines in lung cancer death 
+rates are the result of decreases in smoking prevalence over 
+the previous 40 years, which have been more rapid in blacks 
+than in whites (Fig. 9).
+The 5-year relative survival rate for lung cancer is lower 
+in blacks than in whites (16% vs 19%, respectively) (Fig. 6). 
+Five-year relative survival in blacks increases to 52% for 
+local-stage lung cancers; however, only 16% of cases are 
+detected early, because symptoms generally do not appear 
+until the disease is advanced. Numerous studies have doc-
+umented that, even when lung cancer is diagnosed early, 
+blacks remain less likely than whites to receive curative- 
+intent surgery, even after accounting for socioeconomic fac-
+tors.73-75 For example, one recent population-based study of 
+patients with early-stage lung cancer who were diagnosed 
+during 2004 through 2013 indicated that surgery was rec-
+ommended less often for black patients than for patients 
+from other racial/ethnic groups, and, as a result, 47% of 
+black patients did not receive surgical treatment compared 
+with 38% of Hispanics and whites and 34% of Asians.76 
+However, another recent study indicated that racial differ-
+ences in the receipt of surgery were eliminated in 2010 for 
+patients with early-stage lung cancer who were treated at 
+Veterans Affairs facilities, and there were subsequently no 
+differences in survival between blacks and whites.77
+Myeloma
+An estimated 6,910 new cases of multiple myeloma and 
+2,360 myeloma deaths are expected among blacks in 2019. 
+Myeloma is the seventh most common cancer diagnosed in 
+both black men and black women in the United States and 
+the most common hematologic malignancy. Incidence rates 
+for myeloma in NH blacks are more than double those in 
+NH whites (Table 3). The racial disparity is even greater 
+before age 50 years, with rates 2.5 and 3.5 times higher in 
+NH black men and women, respectively.11 The median age 
+at diagnosis is 66 years in blacks compared with 70 years 
+in whites.10 During 2006 through 2015, incidence rates 
+TABLE 5.  Comparison of Cancer Death Rates Between NH Blacks and Whites, United States, 2012 to 2016
+MALE
+FEMALE
+CANCER
+NH BLACK 
+RATE*
+NH WHITE 
+RATE*
+RATE 
+DIFFERENCE†
+RATE  
+RATIO‡
+CANCER
+NH BLACK 
+RATE*
+NH WHITE 
+RATE*
+RATE 
+DIFFERENCE†
+RATE 
+RATIO‡
+Stomach
+8.4
+3.3
+5.1
+2.55
+Myeloma
+5.6
+2.4
+3.2
+2.32
+Prostate
+39.8
+18.1
+21.7
+2.20
+Stomach
+3.9
+1.7
+2.2
+2.32
+Myeloma
+7.6
+4.0
+3.6
+1.92
+Uterine corpus
+8.7
+4.4
+4.3
+1.98
+Larynx
+3.2
+1.7
+1.5
+1.88
+Uterine cervix
+3.6
+2.1
+1.5
+1.75
+Liver & intrahepatic bile duct
+13.6
+8.3
+5.3
+1.64
+Breast
+28.9
+20.6
+8.3
+1.41
+Colon & rectum
+24.5
+16.6
+7.9
+1.47
+Liver & intrahepatic bile duct
+4.8
+3.4
+1.4
+1.40
+Oral cavity & pharynx
+4.8
+4.0
+0.8
+1.20
+Colon & rectum
+16.0
+11.9
+4.1
+1.34
+Pancreas
+15.2
+12.9
+2.3
+1.18
+Pancreas
+12.5
+9.5
+3.0
+1.31
+Lung & bronchus
+63.9
+54.1
+9.8
+1.18
+Esophagus
+1.8
+1.5
+0.3
+1.15
+Kidney & renal pelvis
+5.6
+5.7
+−0.1
+0.99
+Urinary bladder
+2.4
+2.3
+0.1
+1.08
+Hodgkin lymphoma
+0.4
+0.4
+0.0
+0.92
+Kidney and renal pelvis
+2.3
+2.4
+−0.1
+0.97
+Leukemia
+7.4
+9.3
+−1.9
+0.80
+Hodgkin lymphoma
+0.2
+0.2
+0.0
+0.93
+Esophagus
+5.7
+7.9
+−2.2
+0.72
+Lung & bronchus
+33.3
+37.9
+−4.6
+0.88
+Non-Hodgkin lymphoma
+5.3
+7.6
+−2.3
+0.70
+Leukemia
+4.5
+5.1
+−0.6
+0.88
+Urinary bladder
+5.5
+8.4
+−2.9
+0.66
+Ovary
+6.3
+7.5
+−1.2
+0.84
+Brain & ONS
+3.3
+6.1
+−2.8
+0.55
+Non-Hodgkin lymphoma
+3.4
+4.6
+−1.2
+0.74
+Melanoma of the skin
+0.4
+4.7
+−4.3
+0.10
+Brain & ONS
+2.2
+4.1
+−1.9
+0.54
+Melanoma of the skin
+0.3
+2.0
+−1.7
+0.15
+All sites
+239.8
+197.3
+42.5
+1.22
+All sites
+160.4
+141.8
+18.6
+1.13
+Abbreviations: NH, non-Hispanic; ONS, other nervous system.
+Note: Sites are listed in descending order by rate ratio.
+*Rates are per 100,000 population and age adjusted to the 2000 US standard population.
+†The rate difference is the rate in blacks minus the rate in whites.
+‡The rate ratio is the unrounded rate in blacks divided by the unrounded rate in whites.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+223
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+TABLE 6.  Incidence Rates* for Selected Cancers in Non-Hispanic Black Males and Females by State, 2011 to 2015
+ALL CANCERS
+LUNG & BRONCHUS
+COLON & RECTUM
+PROSTATE
+BREAST
+MALE
+FEMALE
+MALE
+FEMALE
+MALE
+FEMALE
+MALE
+FEMALE
+Alabama
+556.9
+380.1
+90.1
+38.6
+62.2
+44.3
+188.9
+124.5
+Alaska
+386.3
+324.2
+76.8
+†
+†
+†
+113.8
+111.4
+Arizona
+392.1
+360.7
+67.3
+43.2
+37.0
+35.1
+116.8
+113.4
+Arkansas
+586.0
+390.6
+114.9
+50.4
+60.2
+46.6
+179.4
+117.2
+California
+510.3
+403.4
+68.9
+48.2
+52.0
+40.9
+161.6
+130.3
+Colorado
+474.6
+351.2
+56.1
+41.1
+50.7
+32.5
+154.1
+116.1
+Connecticut
+539.1
+407.6
+75.3
+44.5
+51.9
+35.9
+172.3
+126.6
+Delaware
+589.2
+432.4
+81.3
+59.1
+51.2
+37.7
+214.7
+133.2
+District of Columbia‡§
+606.4
+472.9
+88.6
+59.2
+62.5
+45.5
+180.4
+143.9
+Florida
+478.8
+360.1
+64.1
+35.6
+50.3
+36.6
+165.2
+108.7
+Georgia
+564.2
+399.8
+83.8
+40.7
+57.7
+41.8
+194.3
+128.4
+Hawaii
+522.2
+354.3
+†
+†
+49.9
+†
+181.6
+120.3
+Idaho
+362.1
+353.9
+†
+†
+†
+†
+†
+†
+Illinois
+587.9
+442.1
+100.1
+63.2
+66.5
+47.5
+178.6
+134.9
+Indiana
+517.3
+422.1
+91.8
+63.1
+52.0
+41.5
+141.6
+130.2
+Iowa
+572.6
+453.5
+98.1
+65.6
+52.3
+42.1
+172.5
+110.4
+Kansas‡
+–
+–
+–
+–
+–
+–
+–
+–
+Kentucky
+580.1
+454.7
+110.6
+76.9
+59.9
+47.7
+157.6
+129.2
+Louisiana
+616.0
+423.3
+106.5
+49.1
+67.0
+48.6
+191.8
+134.2
+Maine
+365.4
+295.3
+†
+†
+†
+†
+107.2
+†
+Maryland
+530.2
+404.6
+70.7
+46.9
+49.0
+36.8
+188.9
+132.5
+Massachusetts
+504.5
+393.7
+63.6
+42.7
+45.7
+34.7
+179.5
+119.9
+Michigan
+571.6
+426.8
+95.3
+62.2
+54.5
+41.3
+181.7
+127.5
+Minnesota‡
+530.7
+402.2
+77.8
+53.8
+45.8
+42.9
+159.3
+102.6
+Mississippi
+604.3
+402.2
+111.5
+46.4
+72.2
+50.8
+196.3
+121.0
+Missouri
+568.3
+444.9
+107.9
+65.5
+57.0
+42.8
+159.4
+134.1
+Montana
+586.6
+†
+†
+†
+†
+†
+†
+†
+Nebraska
+625.2
+422.6
+99.2
+60.3
+78.0
+43.6
+203.9
+120.1
+Nevada‡
+380.2
+326.0
+62.5
+47.9
+49.7
+35.6
+101.2
+102.5
+New Hampshire
+408.4
+227.1
+†
+†
+†
+†
+150.5
+†
+New Jersey
+555.2
+421.4
+72.8
+49.2
+54.3
+42.6
+202.2
+128.7
+New Mexico‡
+392.2
+335.4
+62.6
+41.7
+33.0
+30.4
+125.9
+109.1
+New York
+571.2
+407.5
+68.0
+42.1
+52.1
+37.7
+217.4
+122.0
+North Carolina
+565.6
+410.3
+96.1
+47.3
+51.9
+37.3
+183.8
+134.0
+North Dakota
+329.3
+224.6
+†
+†
+†
+†
+†
+†
+Ohio
+531.9
+412.5
+94.3
+63.4
+49.6
+37.9
+167.2
+127.5
+Oklahoma
+578.8
+407.2
+97.1
+56.9
+54.2
+42.5
+186.2
+119.7
+Oregon
+526.6
+409.1
+83.4
+57.8
+51.1
+33.1
+169.8
+123.9
+Pennsylvania
+592.6
+465.4
+94.7
+68.9
+55.6
+42.3
+171.9
+130.5
+Rhode Island
+447.0
+367.6
+74.2
+45.0
+33.9
+27.9
+127.7
+114.8
+South Carolina
+560.6
+392.5
+90.2
+41.5
+54.8
+36.9
+186.0
+127.8
+South Dakota
+263.4
+203.1
+†
+†
+†
+†
+†
+†
+Tennessee
+563.7
+402.9
+102.6
+51.7
+57.8
+41.1
+179.5
+126.3
+Texas
+535.0
+399.7
+90.1
+48.2
+58.0
+41.2
+153.6
+120.0
+Utah
+504.0
+372.5
+72.6
+†
+64.2
+†
+172.2
+99.8
+Vermont
+305.3
+328.1
+†
+†
+†
+†
+†
+†
+Virginia
+528.5
+398.6
+84.8
+47.9
+49.0
+38.8
+175.3
+135.1
+Washington
+500.8
+383.3
+71.4
+45.1
+44.3
+32.3
+148.3
+123.1
+West Virginia
+533.4
+390.5
+96.1
+47.6
+56.8
+42.4
+157.2
+124.7
+Wisconsin
+674.1
+493.5
+118.6
+75.0
+62.1
+42.8
+204.4
+138.9
+Wyoming
+182.7
+171.2
+†
+†
+†
+†
+†
+†
+United States
+549.1
+407.0
+85.4
+49.2
+55.2
+40.7
+179.2
+126.5
+–Data unavailable.
+*Rates are per 100,000 population and age adjusted to the 2000 US standard population.
+†Rates are suppressed when they are based on fewer than 25 cases.
+‡Data from these registries are not included in US combined rates, either because they did not consent or did not meet North American Association of Central 
+Cancer Registries high-quality data standards for all years during 2011 through 2015.
+§Rates are for cases diagnosed from 2011 to 2014.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+224
+CA: A Cancer Journal for Clinicians
+TABLE 7.  Death Rates* for Selected Cancers in Non-Hispanic Black Males and Females by State, 2012 to 2016
+ALL CANCERS
+LUNG & BRONCHUS
+COLON & RECTUM
+PROSTATE 
+BREAST
+MALE
+FEMALE
+MALE
+FEMALE
+MALE
+FEMALE
+MALE
+FEMALE
+Alabama
+265.3
+158.4
+75.2
+28.9
+27.4
+17.9
+45.1
+28.2
+Alaska
+210.2
+138.2
+†
+†
+†
+†
+†
+†
+Arizona
+188.7
+146.2
+47.0
+27.8
+19.9
+16.4
+28.3
+25.2
+Arkansas
+274.0
+172.2
+88.8
+36.7
+27.1
+19.8
+41.7
+29.6
+California
+225.4
+166.9
+52.2
+34.1
+22.3
+16.9
+43.2
+31.6
+Colorado
+209.2
+143.6
+43.8
+26.5
+21.7
+10.9
+49.4
+29.0
+Connecticut
+203.4
+142.8
+48.8
+25.8
+18.5
+12.3
+33.0
+21.8
+Delaware
+212.9
+163.5
+58.8
+39.0
+17.4
+14.2
+33.6
+25.2
+District of Columbia
+262.0
+189.3
+61.9
+37.0
+26.7
+17.9
+40.8
+34.3
+Florida
+200.8
+138.0
+46.9
+22.9
+21.0
+14.3
+37.6
+25.8
+Georgia
+241.7
+148.7
+62.1
+26.5
+26.3
+15.3
+44.2
+28.8
+Hawaii
+173.9
+105.8
+†
+†
+†
+†
+†
+†
+Idaho
+†
+†
+†
+†
+†
+†
+†
+†
+Illinois
+269.2
+182.5
+73.9
+43.8
+29.6
+19.0
+44.5
+31.3
+Indiana
+254.0
+175.9
+70.2
+44.7
+25.2
+18.3
+38.6
+29.1
+Iowa
+234.8
+176.4
+66.1
+47.5
+19.5
+17.9
+†
+19.9
+Kansas
+240.6
+170.4
+70.7
+40.1
+25.1
+15.9
+41.4
+28.1
+Kentucky
+250.4
+173.8
+78.4
+49.2
+23.2
+17.2
+34.5
+27.7
+Louisiana
+278.4
+174.6
+85.0
+36.3
+28.4
+18.1
+37.0
+32.5
+Maine
+152.9
+131.2
+†
+†
+†
+†
+†
+†
+Maryland
+229.0
+154.1
+55.3
+32.3
+23.9
+14.3
+37.5
+27.9
+Massachusetts
+190.7
+129.3
+42.1
+26.1
+14.9
+12.2
+36.5
+19.0
+Michigan
+245.2
+173.4
+70.6
+40.8
+24.5
+16.8
+35.9
+29.1
+Minnesota
+220.1
+158.5
+56.5
+32.4
+13.2
+11.8
+36.3
+22.6
+Mississippi
+292.2
+169.9
+91.0
+33.3
+31.1
+19.0
+49.9
+31.4
+Missouri
+270.1
+178.7
+82.3
+45.0
+26.6
+16.2
+37.7
+31.3
+Montana
+†
+†
+†
+†
+†
+†
+†
+†
+Nebraska
+244.3
+172.8
+66.9
+47.7
+35.4
+20.0
+34.9
+26.9
+Nevada
+203.1
+146.5
+48.4
+36.9
+26.5
+15.0
+31.4
+27.4
+New Hampshire
+127.9
+†
+†
+†
+†
+†
+†
+†
+New Jersey
+228.5
+162.7
+54.4
+31.9
+25.3
+15.0
+44.4
+31.4
+New Mexico
+208.7
+128.5
+45.7
+†
+†
+†
+37.8
+†
+New York
+202.9
+145.7
+46.7
+26.5
+19.5
+14.5
+36.9
+26.3
+North Carolina
+251.6
+155.2
+71.2
+30.3
+24.1
+15.2
+39.6
+28.2
+North Dakota
+†
+†
+†
+†
+†
+†
+†
+†
+Ohio
+243.9
+173.3
+72.5
+44.9
+23.4
+15.9
+36.6
+30.5
+Oklahoma
+259.2
+171.3
+69.7
+38.8
+28.4
+17.1
+42.9
+34.0
+Oregon
+236.7
+158.1
+49.9
+39.8
+23.0
+†
+44.0
+30.8
+Pennsylvania
+259.7
+183.7
+69.8
+44.6
+24.5
+15.9
+42.7
+30.9
+Rhode Island
+154.9
+96.2
+37.1
+20.4
+†
+†
+†
+23.1
+South Carolina
+261.1
+154.3
+69.0
+27.1
+25.1
+15.0
+45.7
+27.9
+South Dakota
+†
+†
+†
+†
+†
+†
+†
+†
+Tennessee
+278.0
+174.4
+83.1
+40.4
+30.1
+18.0
+45.4
+30.4
+Texas
+241.1
+159.0
+66.9
+32.5
+26.8
+16.5
+34.2
+29.7
+Utah
+155.2
+154.3
+†
+†
+†
+†
+†
+†
+Vermont
+†
+†
+†
+†
+†
+†
+†
+†
+Virginia
+241.8
+157.8
+63.9
+32.9
+25.0
+15.8
+39.7
+29.0
+Washington
+207.0
+135.5
+46.7
+29.3
+17.4
+10.8
+31.4
+23.7
+West Virginia
+258.0
+176.3
+66.0
+39.7
+28.0
+15.3
+38.4
+32.5
+Wisconsin
+289.6
+192.8
+88.4
+50.1
+26.7
+17.1
+35.7
+30.8
+Wyoming
+†
+†
+†
+†
+†
+†
+†
+†
+United States
+239.8
+160.4
+63.9
+33.3
+24.5
+16.0
+39.8
+28.9
+*Rates are per 100,000 population and age adjusted to the 2000 US standard population.
+†Rates are suppressed when they are based on fewer than 25 deaths.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+225
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+FIGURE 6. Five-year Relative Survival Rates for Selected Cancers by Race and Stage at Diagnosis, United States, 2008 to 2014. 
+Note: Relative survival rates do not exclude persons of Hispanic ethnicity because necessary life tables are only available for black and white populations.
+FIGURE 7. Stage Distribution for Selected Cancers Among Non-Hispanic (NH) Blacks and Whites, United States, 2008 to 2014. 
+Note: Percentages may not total 100% because of rounding.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+226
+CA: A Cancer Journal for Clinicians
+increased in NH black men and women (by 1.6% and 
+1.3% per year, respectively) as well as NH white men and 
+women (by 1.8% per year in both).
+Myeloma is preceded by the asymptomatic, premalignant 
+plasma cell disorder known as monoclonal gammopathy of 
+undetermined significance (MGUS), and individuals with 
+MGUS have a risk of progression to myeloma of about 1% 
+to 2% per year.78 MGUS is more prevalent and is diagnosed 
+at earlier ages among blacks than among other racial/ethnic 
+groups.79,80 Excess body weight is the only known modifi-
+able risk factor for myeloma; the risk is about 20% higher 
+in adults who are overweight or obese compared with those 
+who are normal weight.81 Elevated rates of obesity among 
+blacks may contribute to their excess risk (Table 9).82 A fam-
+ily history of hematopoietic cancers is also associated with 
+increased risk for MGUS and myeloma, with some studies 
+finding a stronger association among blacks than whites.83,84 
+Immunobiological factors have been hypothesized to con-
+tribute to racial disparities as well.79
+Myeloma death rates among blacks are approximately 
+double those among whites (Table 5), largely reflect-
+ing higher incidence rates. From 2007 to 2016, myeloma 
+death rates declined by 1.1% per year among NH black 
+men, 0.8% per year among NH white men, and 0.6% per 
+year among NH white women, but were level for NH 
+black women. Five-year relative survival improved from 
+29% during 1975-1977 to 54% during 2008-2014, sim-
+ilar to gains among whites.10 Progress in survival reflects 
+major ­advances in treatment over the past several decades, 
+­including stem cell transplantation, proteasome inhibitors, 
+and ­immunomodulators.85 Notably, 5-year relative survival 
+during 2008-2014 is slightly higher in black women than in 
+white women (53% vs 49%) and is similar in black men and 
+white men (51% vs 50%).10
+Prostate
+Prostate cancer is the most commonly diagnosed cancer 
+among black men and the second-leading cause of cancer 
+death, with 29,570 cases and 5,350 deaths expected to occur 
+in 2019. The median age of diagnosis for prostate cancer is 
+63 years for black men, compared with 66 years for white 
+men.10 It is estimated that 1 in 7 black men will be diag-
+nosed with prostate cancer in their lifetime compared with 
+1 in 9 white men (Table 2).
+During 2011 to 2015, the average annual prostate can-
+cer incidence rate was 179 cases per 100,000 black men, 
+76% higher than the rate in white men (Table 3). Similar 
+to the pattern in white men, incidence rates in black men 
+increased sharply between 1989 and 1992, reflecting the 
+increased use of the prostate-specific antigen (PSA) blood 
+test for the detection of prostate cancer, but have since been 
+generally declining, with an acceleration in the decline in 
+the last decade (Fig. 8). During 2006 through 2015, pros-
+tate cancer incidence rates declined annually by 4.5% in 
+NH black men and by 5.5% in NH white men (Table 4). 
+It is unclear whether these declines reflect less screening 
+after the 2012 US Preventive Services Task Force recom-
+mendations against routine PSA testing, a reduced pool of 
+indolent cancers, and/or combinations of these and other 
+factors.86
+The only well established risk factors for prostate can-
+cer are older age; African ancestry; a family history of the 
+disease; and certain inherited genetic conditions, including 
+mutations in BRCA1 and BRCA2 and Lynch syndrome. 
+Men who have a first-degree relative with a history of pros-
+tate cancer are 2 to 3 times more likely to be diagnosed 
+with the disease than men without a family history.87,88 
+Increasing evidence suggests that obesity and smoking may 
+be associated with an increased risk of aggressive disease, 
+FIGURE 8. Trends in Incidence Rates for Selected Cancers Among Non-Hispanic Blacks by Sex, United States, 1975 to 2015.
+Rates are age adjusted to the 2000 US standard population and adjusted for delays in reporting.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+227
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+with some studies suggesting that the links are stronger for 
+black men.89-93 Black men and Jamaican men of African 
+descent have the highest prostate cancer incidence rates 
+worldwide, suggesting differences in inherited genetic 
+susceptibility.42,94
+Similarly, black men have the highest mortality rate for 
+prostate cancer of any racial or ethnic group in the United 
+States at 2.3 times higher than the rate in white men 
+(Table 5). Studies have documented that aggressive prostate 
+cancers are relatively more common in black men.95,96 
+A recent predictive modeling study of the natural his-
+tory of prostate cancer concluded that black men develop 
+prostate cancer at younger ages compared with the general 
+male population in the United States, and they are 44% 
+to 75% more likely to develop metastases before clinical 
+diagnosis.96
+The prostate cancer death rate in black men has 
+dropped by greater than 50%, from a peak of 81.9 deaths 
+per 100,000 men in 1993 to 39.8 deaths per 100,000 
+men during 2012-2016. From 2006 through 2015, death 
+rates decreased faster in blacks than in whites (3.4% vs 
+2.1% per year), resulting in a narrowing disparity (Fig. 4). 
+The decrease has been attributed to improved surgical 
+and radiologic treatment, the use of hormonal therapy for 
+advanced-stage disease, and earlier detection through PSA 
+testing.86 However, the extent of the contribution of PSA 
+testing is particularly unclear. Long-term follow-up results 
+from US-based and UK-based randomized trials indicated 
+no reduction in prostate cancer mortality as a result of PSA 
+testing, whereas another European trial demonstrated a 
+modest benefit.97 Notably, black men represented only 4.4% 
+of the participants in the US study.98 Studies continue to 
+TABLE 8.  HPV Vaccination (2017) and Cancer Screening 
+(2015) in NH Blacks and Whites, United States
+NH BLACK, %
+NH WHITE, %
+HPV vaccination (youth 13-17 y)
+Females
+≥ 1 Dose
+73
+64
+Up-to-date*
+56
+50
+Males
+≥ 1 Dose
+67
+57
+Up-to-date*
+45
+40
+Breast cancer screening (women ≥40 y)
+Mammogram within the past year
+55
+50
+Mammogram within the past 2 years
+69
+65
+Cervical cancer screening (women 21-65 y)†
+Pap test within the past 3 years
+85
+83
+Up-to-date‡
+86
+85
+Colorectal cancer screening (adults ≥50 y)§
+Overall
+62
+65
+Males
+63
+66
+Females
+61
+65
+Colorectal cancer screening (adults ≥45 y)§
+Overall
+53
+56
+Males
+54
+57
+Females
+53
+56
+Prostate-specific antigen test (men ≥50 y)
+Within the past year
+31
+37
+Abbreviations: HPV: human papillomavirus; NH, non-Hispanic; Pap, Papanicolaou 
+staining.
+Note: Estimates for screening are age-adjusted to the 2000 US standard pop-
+ulation and do not distinguish between examinations for screening and 
+diagnosis.
+*Includes those who received ≥3 doses and those who received 2 doses when 
+the first HPV vaccine dose was initiated before age 15.
+†Among women with intact uteri.
+‡Pap test within the past 3 years among women ages 21 to 65 or Pap test and 
+HPV test within the past 5 years among women ages 30 to 64.
+§Either a fecal occult blood test or a fecal immunochemical test within the past 
+year, sigmoidoscopy within the past 5 years, or a colonoscopy within the past 
+10 years.
+Sources: Vaccination: Walker 2018.114 Screening: National Health Interview, 
+2015.
+TABLE 9.  Risk Factors for Cancer Among NH Black  
+and White Adults by Sex, United States
+NH BLACK, %
+NH WHITE, %
+Obesity (BMI ≥ 30.0 kg/m2)*
+All
+47
+38
+Men
+37
+38
+Women
+55
+38
+Overweight (BMI 25.0-29.9 kg/m2)*
+All
+28
+32
+Men
+34
+37
+Women
+24
+27
+No leisure-time physical activity†
+All
+35
+22
+Men
+31
+21
+Women
+38
+23
+Current cigarette smoking†‡
+All
+15
+16
+Men
+19
+17
+Women
+12
+15
+Abbreviations: BMI: body mass index; NH, non-Hispanic.
+Note: Estimates are age-adjusted to the 2000 US standard population.
+*Among adults aged ≥20 years.
+†Among adults aged ≥18 years.
+‡Ever smoked 100 cigarettes and currently smoking at least some days.
+Sources: BMI: National Health and Nutrition Examination Surveys, 2015-2016. 
+Physical activity and smoking: Centers for Disease Control and Prevention. 
+National Health Interview Survey, 2017.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+228
+CA: A Cancer Journal for Clinicians
+document that black men are more likely to receive inferior 
+treatment for prostate cancer.95,99,100 For example, a recent 
+study of patients with local-stage prostate cancer recruited 
+from 5 US cancer registries documented that 64% of black 
+men received guideline-compliant radiation therapy com-
+pared with 77% of white men.99
+The overall 5-year relative survival rate for prostate can-
+cer is 96% among blacks and 98% among whites (Fig. 6). 
+Eighty-six percent of prostate cancers in black men are 
+diagnosed at a local or regional stage (Fig. 7), for which 
+the 5-year relative survival rate approaches 100%. Five-year 
+survival rates drop to 30% when the cancer is diagnosed at 
+distant stage.
+Stomach
+In 2019, an estimated 4,340 new cases of stomach cancer 
+and 1,990 stomach cancer deaths will occur in black men 
+and women. Although now a relatively uncommon malig-
+nancy in the United States, stomach cancer incidence rates 
+remain 1.8 times higher in NH black men and 2.2 times 
+higher in NH black women (Table 5). Higher rates of stom-
+ach cancer in blacks are limited to noncardia gastric can-
+cers.101 Helicobacter pylori infection is the most important 
+risk factor for noncardia stomach cancer and is more com-
+mon in blacks and Hispanics compared with NH whites. 
+According to National Health and Nutrition Examination 
+Survey data from 1999 to 2000, H. pylori infection in the 
+United States was more than twice as high in NH blacks 
+(52%) as in NH whites (21%).102 A more recent analysis in 
+US veterans confirmed higher rates of H. pylori infection 
+among black men.103
+From 2006 through 2015, overall stomach cancer 
+incidence rates decreased 2.1% per year in NH black men, 
+1.6% per year in NH black women, and 0.7% per year in 
+NH white women, whereas rates were level in NH white 
+men (Table 4). These declines are largely attributed to the 
+decreasing prevalence of H. pylori infection in the United 
+States.102 However, a recent study that examined these 
+trends by age found that rates of noncardia gastric cancer 
+increased in some women younger than 40 years, includ-
+ing an increase of 2% per year from 1999 to 2014 in NH 
+blacks.104 Reasons for this trend are unknown but may 
+result from an increased risk of autoimmune gastritis.105
+Similar to the pattern for incidence rates, stomach can-
+cer death rates are 2.6 times higher in NH black men and 
+2.3 times higher in NH black women compared with their 
+white counterparts. Interestingly, the racial disparity is 
+greater among men for mortality but greater among women 
+for ­incidence (Tables 5 and 6). Stomach cancer death rates 
+have sharply declined in NH blacks, by greater than 3% per 
+year during 2007 through 2016 (Table 4). Racial disparities 
+in gastric cancer mortality are primarily driven by differences 
+in incidence, as stage at diagnosis and survival are similar 
+between blacks and whites (Figs. 6 and 7).106 Symptoms of 
+stomach cancer are usually nonspecific, resulting in nearly 
+1 in 3 patients diagnosed with metastatic disease, for which 
+the 5-year relative survival is only 6% (Fig. 6).
+Uterine cervix
+An estimated 2,250 new cases of invasive cervical cancer 
+and 770 deaths are expected to occur among black women in 
+2019. The incidence rate of cervical cancer is 30% higher in 
+NH black women than in NH white women (Table 3) with 
+the largest disparity among older women.107 The black-
+white disparity is even greater when incidence rates are 
+­adjusted for hysterectomy prevalence, which is higher in 
+black women.108,109 Nevertheless, a faster decline in the 
+cervical cancer incidence rate among NH black women 
+than among white women has substantially narrowed the 
+racial disparity overall and has eliminated it among women 
+younger than 50 years as of the mid-2000s.30 Declines 
+in cervical cancer incidence and mortality have slowed in 
+black women and stabilized in white women over the last 
+decade (Table 4), perhaps approaching a nadir.
+Cervical cancer screening is recommended for women 
+aged 21 to 65 years. After age 65 years, most women with a 
+recent negative Papanicolaou test should discontinue screening. 
+According to 2015 data from the NHIS, 86% of NH black 
+women and 85% of NH white women were up to date on 
+cervical cancer screening (Table 8). A recent study, however, 
+found substantially lower screening prevalence among older 
+women; for example, 22% to 24% of NH black women aged 
+61 to 70 years had not had a Papanicolaou test within 5 years, 
+compared with 7% among those aged 41 to 45 years.107
+FIGURE 9. Trends in Adult Smoking Prevalence (%) by Sex and Race, 
+United States, 1965 to 2017.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+229
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+The overall 5-year relative survival rate for cervical 
+cancer among black women is 56%, compared with 68% 
+among white women (Fig. 6), partly because black women 
+are more likely to be diagnosed with regional-stage or dis-
+tant-stage disease (Fig. 7). Racial differences in stage at 
+diagnosis may be because of differences in the quality of 
+screening and follow-up after abnormal results, as well as 
+less screening.110,111 Lower SES, lack of health insurance, 
+and older age are also associated with lower screening rates 
+and an increased risk of late-stage diagnosis.28,107,112 
+Cervical cancer mortality rates are 75% higher in NH 
+black than NH white women. A recent study estimated that 
+47% of black-white differences in cervical cancer mortality 
+are caused by treatment differences, and 19% are caused by a 
+lack of health insurance.113 The study indicated that, among 
+patients with early-stage cervical cancer, a greater proportion 
+of black women (17%) failed to receive surgery, which is the 
+standard of care, compared with white (9%) and Hispanic 
+(12%) women.
+Virtually all cervical cancers are caused by persistent 
+human papillomavirus (HPV) infection, particularly HPV 
+types 16 and 18. Vaccines that protect against the types 
+of HPV that cause 90% of cervical cancers, as well as sev-
+eral other cancers and diseases, are recommended by the 
+Centers for Disease Control and Prevention for use in all 
+boys and girls by age 13 years. Data from the 2017 National 
+Immunization Survey-Teen indicated higher rates of HPV 
+vaccination among NH black adolescents compared with 
+whites: 56% of NH black girls and 45% of NH black boys 
+had completed the HPV vaccination series compared with 
+50% and 40% of NH white girls and boys, respectively 
+(Table 8).114 Hopefully, the reduction in the recommended 
+number of vaccine doses from 3 (originally) to 2 in October 
+2016 will facilitate higher completion rates for this highly 
+effective cancer intervention.115
+Uterine corpus
+An estimated 7,460 new cases and 2,500 deaths because 
+of uterine corpus cancer will occur among black women 
+in 2019. More than 90% of uterine corpus cancers arise in 
+the endometrium.11 The uterine corpus cancer incidence 
+rate in NH black women (24.4 per 100,000 women) is 7% 
+lower than that for NH white women (26.1 per 100,000 
+women). However, analyses that account for hysterectomy 
+prevalence observe incidence rates that are similar, or 
+even higher, in NH black women.25,26 In contrast, among 
+women younger than 50 years, a recent study noted that 
+uterine corpus cancer rates remain lower among NH black 
+women, even after accounting for hysterectomy preva-
+lence.116 From 2006 to 2015, the incidence rate for uter-
+ine corpus cancer increased by about 2.5% per year among 
+NH black women and by 1.0% per year among NH white 
+women (Table 4). These trends may not reflect true disease 
+occurrence, because they do not account for hysterectomy 
+prevalence, which is higher in black women and rising, but 
+declining in white women.117 Increasing rates of uterine 
+corpus cancer are likely because of the rising prevalence 
+of obesity.118 An estimated 60% of uterine corpus cancers 
+among women of all races are attributable to excess body 
+weight.119
+From 2007 to 2016, the death rate for cancer of the uter-
+ine corpus increased by 2.2% per year in NH black women 
+and by 1.7% per year in white women, mirroring the trends 
+for incidence. Despite similar incidence rates, the uterine 
+corpus cancer death rate in black women is nearly double 
+that in white women (8.7 vs 4.4 deaths per 100,000 women). 
+The wide mortality gap reflects the substantially lower 
+5-year relative survival rate in black women (62%) com-
+pared with white women (83%). A recent study concluded 
+that later stage at diagnosis, more aggressive tumors, and 
+a lower likelihood of optimal surgical treatment accounted 
+for most of this disparity.120 About 41% of uterine corpus 
+cancers are diagnosed at a regional or distant stage in black 
+women, compared with 27% in white women. Agressive 
+histologic subtypes, including uterine serous cancer and 
+uterine carcinosarcoma, are more common in black women 
+than white women, particularly among women aged 50 and 
+older.26,121,122
+Data Limitations
+Although the estimated numbers of new cancer cases and 
+deaths expected to occur in 2019 provide a reasonably 
+accurate portrayal of the contemporary cancer burden in 
+blacks, they are model-based, 3-year–ahead, and 4-year–
+ahead projections that should be interpreted with caution 
+and should not be used to track trends over time. The most 
+informative metrics for tracking cancer trends are age-
+standardized or age-specific cancer death rates from the 
+NCHS and cancer incidence rates from SEER, NPCR, 
+and/or NAACCR.
+Conclusions
+Although African American/black individuals continue to 
+bear a disproportionate share of the cancer burden, substan-
+tial progress has been made over the past several decades to 
+reduce this disparity. Among men, the overall cancer death 
+rate was 47% higher for blacks than for whites in 1990 versus 
+19% higher in 2016; among females, the disparity ­decreased 
+from 19% to 13% over the same period, with the disparity 
+nearly eliminated for some age groups. Continued progress 
+toward equitable cancer outcomes will require ­expanding 
+access to high-quality cancer prevention, early detection, 
+and treatment for all Americans. ■
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+230
+CA: A Cancer Journal for Clinicians
+References
+	
+1.	 Fontenot K, Semega J, Kollar M; US 
+Census Bureau. Income and Poverty in 
+the United States: 2017. Current Pop­
+ulation Reports P60-263. Washington, 
+DC: US Government Printing Office; 2018.
+	
+2.	 US Census Bureau. Educational Attain­
+ment in the United States: 2017. Table 1. 
+Educational Attainment of the Population 
+18 Years and Over, by Age, Sex, Race, 
+and Hispanic Origin: 2017. Suitland, 
+MD: US Census Bureau; 2017. census.
+gov/data/tables/2017/demo/education-­
+attainment/cps-detailed-­tables.html. 
+Accessed November 27, 2018.
+	
+3.	 Pan HY, Walker GV, Grant SR, et al. 
+Insurance status and racial dispari­
+ties in cancer-specific mortality in the 
+United States: a population-based anal­
+ysis. Cancer Epidemiol Biomarkers Prev. 
+2017;26:869-875.
+	
+4.	 Ward 
+E, 
+Halpern 
+M, 
+Schrag 
+N, 
+et al. Association of insurance with 
+cancer care utilization and outcomes. 
+CA Cancer J Clin. 2008;58:9-31.
+	
+5.	 Niu X, Roche LM, Pawlish KS, Henry 
+KA. Cancer survival disparities by 
+health insurance status. Cancer Med. 
+2013;2:403-411.
+	
+6.	 Berchick E, Hood E, Barnett J. Health 
+Insurance Coverage in the United States: 
+2017. Current Population Reports P60-
+264. Washington, DC: US Government 
+Printing Office; 2018.
+	
+7.	 Siegel RL, Miller KD, Jemal A. Cancer 
+statistics, 2017. CA Cancer J Clin. 2017; 
+67:7-30.
+	
+8.	 Soni A, Sabik LM, Simon K, Sommers BD. 
+Changes in insurance coverage among 
+cancer patients under the Affordable 
+Care Act. JAMA Oncol. 2018;4:122-124.
+	
+9.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: Incidence-SEER 9 Regs Research 
+Data with Delay-Adjustment, Malignant 
+Only, 
+Nov 
+2017 
+Sub 
+(1975-2015) 
+<Katrina/Rita Population Adjustment> 
+Linked To County Attributes-Total US, 
+1969-2013 
+Counties. 
+Bethesda, 
+MD: 
+National Cancer Institute, Department of 
+Cancer Control and Pop­ulation Sciences, 
+Surveillance Research Program; 2018.
+	 10.	 Noone AM, Howlader N, Krapcho M, 
+et al, eds. SEER Cancer Statistics Review, 
+1975-2015. Bethesda, MD: National 
+Cancer Institute; 2018.
+	 11.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat 
+Database: North American Association 
+of Central Cancer Registries (NAACCR) 
+Incidence 
+Data-CiNA 
+Analytic 
+File, 
+1995-2015, for NHIA v2 Origin, Custom 
+File With County, American Cancer 
+Society (ACS) Facts and Figures Projection 
+Project. Springfield, IL: North American 
+Association of Central Cancer Registries; 
+2018.
+	 12.	 Copeland G, Green D, Firth R, et al, eds. 
+Cancer in North America: 2011-2015. 
+Vol 1. Combined Cancer Incidence for 
+the United States, Canada and North 
+America. Springfield, IL: North American 
+Association of Central Cancer Registries; 
+2018.
+	 13.	 Copeland G, Green D, Firth R, et al, 
+eds. Cancer in North America: 2011-
+2015. Vol 2. Registry-Specific Cancer 
+Incidence for the United States and 
+Canada. Springfield, IL: North American 
+Association of Central Cancer Registries; 
+2018.
+	 14.	 Surveillance, Epidemiology, and End 
+Results (SEER) Program. SEER*Stat Data­
+base: Mortality-All COD, Total US (1969-
+2016) <Early release with Vintage 2016 
+Katrina/Rita Population Adjustment> 
+Linked To County Attributes-Total US, 
+1969-2016 Counties. Bethesda, MD: 
+National Cancer Institute, Department of 
+Cancer Control and Pop­ulation Sciences, 
+Surveillance Research Program; 2018 
+(underlying mortality data provided by 
+the National Center for Health Statistics).
+	 15.	 Fritz A, Percy C, Jack A, et al. eds. 
+International 
+Classification 
+of 
+Dis­
+eases for Oncology. 3rd ed. Geneva, 
+Switzerland: World Health Organization; 
+2000.
+	 16.	 World Health Organization. International 
+Statistical Classification of Diseases and 
+Related Health Problems. 10th Revision. 
+Volumes I-III. Geneva, Switzerland: 
+World Health Organization; 2011.
+	 17.	 Statistical Research and Applications 
+Branch, National Cancer Institute. DevCan: 
+Probability of Developing or Dying 
+of Cancer Software. Version 6.7.6. 
+Bethesda, MD: Surveillance Research 
+Program, Statistical Methodology and 
+Applications, National Cancer Institute; 
+2018.
+	 18.	 Surveillance Research Program, National 
+Cancer Institute. SEER*Stat Software. 
+Version 8.3.5. Bethesda, MD: National 
+Cancer Institute; 2018.
+	 19.	 Statistical Research and Applications 
+Branch, 
+National 
+Cancer 
+Institute. 
+Joinpoint Regression Program, Version 
+4.6.0.0. April, 2018; Bethesda, MD: 
+Statistical Research and Applications 
+Branch, National Cancer Institute; 2018.
+	 20.	 Pickle LW, Hao Y, Jemal A, et al. A 
+new method of estimating United 
+States and state-level cancer incidence 
+counts for the current calendar year. CA 
+Cancer J Clin. 2007;57:30-42.
+	 21.	 Zhu L, Pickle LW, Ghosh K, et al. 
+Predicting US- and state-level cancer 
+counts for the current calendar year: 
+part II: evaluation of spatiotempo­
+ral projection methods for incidence. 
+Cancer 2012;118:1100-1109.
+	 22.	 Chen HS, Portier K, Ghosh K, et al. 
+Predicting US- and state-level cancer 
+counts for the current calendar year: 
+part I: evaluation of temporal projec­
+tion methods for mortality. Cancer 
+2012;118:1091-1099.
+	 23.	 National Center for Health Statistics. 
+National Health Interview Survey, 2017. 
+Public-use data file and documentation. 
+Hyattsville, MD: National Center for 
+Health Statistics; 2018. cdc.gov/nchs.
+nhis.htm. Accessed July 9, 2018.
+	 24.	 National Center for Health Statistics. 
+National Health and Nutrition Exam­
+ination Survey, 2015-2016. Public-use 
+data file and documentation. Hyattsville, 
+MD: National Center for Health Statistics; 
+2018. cdc.gov/nchs/nhanes/index.htm. 
+Accessed November 4, 2018.
+	 25.	 Siegel RL, Devesa SS, Cokkinides V, Ma 
+J, Jemal A. State-level uterine corpus 
+cancer incidence rates corrected for 
+hysterectomy prevalence, 2004 to 2008. 
+Cancer Epidemiol Biomarkers Prev. 
+2013;22:25-31.
+	 26.	 Jamison PM, Noone AM, Ries LA, Lee 
+NC, Edwards BK. Trends in endometrial 
+cancer incidence by race and histology 
+with a correction for the prevalence 
+of hysterectomy, SEER 1992 to 2008. 
+Cancer Epidemiol Biomarkers Prev. 
+2013;22:233-241.
+	 27.	 Singh GK, Jemal A. Socioeconomic and 
+racial/ethnic disparities in cancer mor­
+tality, incidence, and survival in the 
+United States, 1950-2014: over six de­
+cades of changing patterns and widening 
+inequalities [serial online]. J Environ 
+Public Health. 2017;2017:2819372.
+	 28.	 Simard EP, Fedewa S, Ma J, Siegel R, 
+Jemal A. Widening socioeconomic dis­
+parities in cervical cancer mortality 
+among women in 26 states, 1993-2007. 
+Cancer 2012;118:5110-5116.
+	 29.	 Jemal A, Center MM, Ward E. The 
+convergence of lung cancer rates 
+between blacks and whites under the age 
+of 40, United States. Cancer Epidemiol 
+Biomarkers Prev. 2009;18:3349-3352.
+	 30.	 Simard EP, Naishadham D, Saslow D, 
+Jemal A. Age-specific trends in black-
+white disparities in cervical cancer 
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+231
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+incidence in the United States: 1975-
+2009. Gynecol Oncol. 2012;127:611-615.
+	 31.	 Zeng C, Wen W, Morgans AK, Pao W, 
+Shu XO, Zheng W. Disparities by race, 
+age, and sex in the improvement of sur­
+vival for major cancers: results from the 
+National Cancer Institute Surveillance, 
+Epidemiology, and End Results (SEER) 
+program in the United States, 1990 to 
+2010. JAMA Oncol. 2015;1:88-96.
+	 32.	 Bach PB, Schrag D, Brawley OW, 
+Galaznik A, Yakren S, Begg CB. Survival 
+of blacks and whites after a cancer di­
+agnosis. JAMA 2002;287:2106-2113.
+	 33.	 Shavers VL, Brown ML. Racial and 
+ethnic disparities in the receipt of 
+cancer treatment. J Natl Cancer Inst. 
+2002;94:334-357.
+	 34.	 Smedley BD, Stith AY, Nelson AR, eds. 
+Unequal Treatment: Confronting Racial 
+and Ethnic Disparities in Health Care. 
+Committee 
+on 
+Understanding 
+and 
+Eliminating Racial and Ethnic Disparities 
+in Health Care. Washington, DC: The 
+National Academies Press; 2002.
+	 35.	 Ellis L, Canchola AJ, Spiegel D, 
+Ladabaum U, Haile R, Gomez SL. Racial 
+and ethnic disparities in cancer survival: 
+the contribution of tumor, sociodemo­
+graphic, institutional, and neighborhood 
+characteristics. J Clin Oncol. 2018;36: 
+25-33.
+	 36.	 Kish JK, Yu M, Percy-Laurry A, 
+Altekruse SF. Racial and ethnic dispari­
+ties in cancer survival by neighborhood 
+socioeconomic status in Surveillance, 
+Epidemiology, and End Results (SEER) 
+registries. J Natl Cancer Inst Monogr. 
+2014;2014:236-243.
+	 37.	 Du XL, Lin CC, Johnson NJ, Altekruse 
+S. Effects of individual-level socioeco­
+nomic factors on racial disparities in 
+cancer treatment and survival: find­
+ings from the National Longitudinal 
+Mortality Study, 1979-2003. Cancer 
+2011;117:3242-3251.
+	 38.	 Lam C, Cronin K, Ballard R, Mariotto 
+A. Differences in cancer survival 
+among white and black cancer patients 
+by presence of diabetes mellitus: es­
+timations based on SEER-Medicare-
+linked data resource. Cancer Med. 
+2018;7:3434-3444.
+	 39.	 Tammemagi CM, Nerenz D, Neslund-
+Dudas C, Feldkamp C, Nathanson D. 
+Comorbidity and survival disparities 
+among black and white patients with 
+breast cancer. JAMA 2005;294:1765-1772.
+	 40.	 Newman LA, Kaljee LM. Health dispar­
+ities and triple-negative breast cancer 
+in African American women: a review. 
+JAMA Surg. 2017;152:485-493.
+	 41.	 Daly B, Olopade OI. A perfect storm: 
+how tumor biology, genomics, and 
+health care delivery patterns collide 
+to create a racial survival disparity 
+in breast cancer and proposed in­
+terventions for change. CA Cancer 
+J Clin. 2015;65:221-238.
+	 42.	 McGinley KF, Tay KJ, Moul JW. Prostate 
+cancer in men of African origin. Nature 
+Rev Urol. 2016;13:99-107.
+	 43.	 Center for Information and Study 
+on 
+Clinical 
+Research 
+Participation 
+(CISCRP). Proportion of study volun­
+teers by race and ethnicity in clinical 
+research studies, 2012 [serial online]. 
+J Natl Cancer Inst. 2017;109:djx077.
+	 44.	 Chen MS Jr, Lara PN, Dang JH, Paterniti 
+DA, Kelly K. Twenty years post-NIH 
+Revitalization Act: enhancing minority 
+participation in clinical trials (EMPaCT): 
+laying the groundwork for improving 
+minority clinical trial accrual: renewing 
+the case for enhancing minority partic­
+ipation in cancer clinical trials. Cancer 
+2014;120(suppl 7):1091-1096.
+	 45.	 Wallace TA, Martin DN, Ambs S. 
+Interactions among genes, tumor bi­
+ology and the environment in cancer 
+health disparities: examining the ev­
+idence on a national and global scale. 
+Carcinogenesis 2011;32:1107-1121.
+	 46.	 DeSantis CE, Ma J, Goding Sauer A, 
+Newman LA, Jemal A. Breast can­
+cer statistics, 2017, racial disparity in 
+mortality by state. CA Cancer J Clin. 
+2017;67:439-448.
+	 47.	 DeSantis CE, Fedewa SA, Goding Sauer 
+A, Kramer JL, Smith RA, Jemal A. Breast 
+cancer statistics, 2015: convergence of 
+incidence rates between black and white 
+women. CA Cancer J Clin. 2016;66: 
+31-42.
+	 48.	 DeSantis CE, JemalA. Re: black-white 
+breast cancer incidence trends: ef­
+fects of ethnicity [serial online]. J Natl 
+Cancer Inst. 2018;110;djy162.
+	 49.	 Pfeiffer RM, Webb-Vargas Y, Wheeler 
+W, Gail MH. Proportion of US trends in 
+breast cancer incidence attributable to 
+long-term changes in risk factor distri­
+butions. Cancer Epidemiol Biomarkers 
+Prev. 2018;27:1214-1222.
+	 50.	 Jemal A, Robbins AS, Lin CC, et al. 
+Factors that contributed to black-
+white disparities in survival among 
+nonelderly women with breast cancer 
+between 2004 and 2013. J Clin Oncol. 
+2018;36:14-24.
+	 51.	 Tao L, Gomez SL, Keegan TH, Kurian 
+AW, Clarke CA. Breast cancer mortality 
+in African-American and non-Hispanic 
+white women by molecular subtype and 
+stage at diagnosis: a population-based 
+study. Cancer Epidemiol Biomarkers 
+Prev. 2015;24:1039-1045.
+	 52.	 Green AK, Aviki EM, Matsoukas K, 
+Patil S, Korenstein D, Blinder V. Racial 
+disparities in chemotherapy administra­
+tion for early-stage breast cancer: a sys­
+tematic review and meta-analysis. Breast 
+Cancer Res Treat. 2018;172:247-263.
+	 53.	 Sighoko D, Murphy AM, Irizarry B, 
+Rauscher G, Ferrans C, Ansell D. 
+Changes in the racial disparity in breast 
+cancer mortality in the ten US cities 
+with the largest African American popula­
+tions from 1999 to 2013: the reduction in 
+breast cancer mortality disparity in 
+Chicago. Cancer Causes Control. 2017;28: 
+563-568.
+	 54.	 Hunt BR, Hurlbert MS. Black:white 
+disparities in breast cancer mortality 
+in the 50 largest cities in the United 
+States, 2005-2014. Cancer Epidemiol. 
+2016;45:169-173.
+	 55.	 Rust G, Zhang S, Malhotra K, et al. 
+Paths to health equity: local area vari­
+ation in progress toward eliminating 
+breast cancer mortality disparities, 
+1990-2009. Cancer 2015;121:2765-2774.
+	 56.	 Moore JX, Royston KJ, Langston ME, 
+et al. Mapping hot spots of breast can­
+cer mortality in the United States: 
+place matters for Blacks and Hispanics. 
+Cancer Causes Control.2018;29:739-750.
+	 57.	 Allgood KL, Rauscher GH, Whitman S, 
+Vasquez-Jones G, Shah AM. Validating 
+self-reported mammography use in 
+vulnerable communities: findings and 
+recommendations. Cancer Epidemiol 
+Biomarkers Prev. 2014;23:1649-1658.
+	 58.	 Cronin KA, Miglioretti DL, Krapcho M, 
+et al. Bias associated with self-­report of 
+prior screening mammography. Cancer 
+Epidemiol Biomarkers Prev. 2009;18: 
+1699-1705.
+	 59.	 Rauscher GH, Johnson TP, Cho YI, 
+Walk JA. Accuracy of self-reported can­
+cer-screening histories: a meta-­analysis. 
+Cancer 
+Epidemiol 
+Biomarkers 
+Prev. 
+2008;17:748-757.
+	 60.	 Molina Y, Silva A, Rauscher GH. Racial/
+ethnic disparities in time to a breast 
+cancer diagnosis: the mediating effects 
+of health care facility factors. Med Care. 
+2015;53:872-878.
+	 61.	 George P, Chandwani S, Gabel M, et al. 
+Diagnosis and surgical delays in African 
+American and white women with ear­
+ly-stage breast cancer. J Womens Health 
+(Larchmt). 2015;24:209-217.
+	 62.	 Rauscher GH, Allgood KL, Whitman S, 
+Conant E. Disparities in screening mam­
+mography services by race/­ethnicity 
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Stats for African Americans, 2019
+232
+CA: A Cancer Journal for Clinicians
+and health insurance. J Womens Health 
+(Larchmt). 2012;21:154-160.
+	 63.	 Warnecke RB, Campbell RT, Vijayasiri G, 
+Barrett RE, Rauscher GH. A Multilevel 
+examination of health disparity: the 
+role of policy implementation in neigh­
+borhood context, in patient ­resources, 
+and in healthcare facilities on later 
+stage of breast cancer diagnosis. Cancer 
+Epidemiol Biomarkers Prev. 2019;28: 
+59-66.
+	 64.	 Doubeni CA, Major JM, Laiyemo AO, 
+et al. Contribution of behavioral risk 
+­factors and obesity to ­socioeconomic 
+differences in colorectal ­cancer inci­
+dence. J Natl Cancer Inst. 2012;104: 
+1353-1362.
+	 65.	 Fedewa SA, Flanders WD, Ward KC, 
+et al. Racial and ethnic disparities in 
+interval colorectal cancer incidence: 
+a population-based cohort study. Ann 
+Intern Med. 2017;166:857-866.
+	 66.	 Irby K, Anderson WF, Henson DE, 
+Devesa SS. Emerging and widening 
+colorectal carcinoma disparities be­
+tween blacks and whites in the United 
+States (1975-2002). Cancer Epidemiol 
+Biomarkers Prev. 2006;15:792-797.
+	 67.	 Sineshaw HM, Ng K, Flanders WD, 
+Brawley OW, Jemal A. Factors that con­
+tribute to differences in survival of black 
+vs white patients with colorectal cancer. 
+Gastroenterology 2018;154:906-915.e907.
+	 68.	 Lai Y, Wang C, Civan JM, et al. Effects 
+of cancer stage and treatment differ­
+ences on racial disparities in survival 
+from colon cancer: a United States pop­
+ulation-based study. Gastroenterology 
+2016;150:1135-1146.
+	 69.	 Silber JH, Rosenbaum PR, Ross RN, 
+et al. Racial disparities in colon cancer 
+survival: a matched cohort study. Ann 
+Intern Med. 2014;161:845-854.
+	 70.	 Potosky AL, Harlan LC, Kaplan RS, 
+Johnson KA, Lynch CF. Age, sex, and 
+racial differences in the use of standard 
+adjuvant therapy for colorectal cancer. 
+J Clin Oncol. 2002;20:1192-1202.
+	 71.	 Jessup JM, Stewart A, Greene FL, 
+Minsky BD. Adjuvant chemotherapy for 
+stage III colon cancer: implications of 
+race/ethnicity, age, and differentiation. 
+JAMA 2005;294:2703-2711.
+	 72.	 Thornton JG, Morris AM, Thornton 
+JD, Flowers CR, McCashland TM. 
+Racial variation in colorectal polyp 
+and tumor location. J Natl Med Assoc. 
+2007;99:723-728.
+	 73.	 Check DK, Albers KB, Uppal KM, et al. 
+Examining the role of access to care: ra­
+cial/ethnic differences in receipt of resec­
+tion for early-stage non-small cell lung 
+cancer among integrated system mem­
+bers and non-members. Lung Cancer 
+2018;125:51-56.
+	 74.	 Lathan CS. Lung cancer care: the im­
+pact of facilities and area measures. 
+Transl Lung Cancer Res. 2015;4:385-391.
+	 75.	 Coughlin SS, Matthews-Juarez P, Juarez 
+PD, Melton CE, King M. Opportunities 
+to address lung cancer disparities 
+among African Americans. Cancer Med. 
+2014;3:1467-1476.
+	 76.	 Soneji S, Tanner NT, Silvestri GA, 
+Lathan CS, Black W. Racial and ethnic 
+disparities in early-stage lung cancer 
+survival. Chest 2017;152:587-597.
+	 77.	 Williams CD, Salama JK, Moghanaki 
+D, Karas TZ, Kelley MJ. Impact of race 
+on treatment and survival among US 
+veterans with early-stage lung cancer. 
+J Thorac Oncol. 2016;11:1672-1681.
+	 78.	 Kyle RA, Therneau TM, Rajkumar SV, 
+et al. A long-term study of prognosis 
+in monoclonal gammopathy of unde­
+termined significance. N Engl J Med. 
+2002;346:564-569.
+	 79.	 Smith CJ, Ambs S, Landgren O. 
+Biological determinants of health dis­
+parities in multiple myeloma [serial 
+online]. Blood Cancer J. 2018;8:85.
+	 80.	 Landgren O, Graubard BI, Kumar S, et al. 
+Prevalence of myeloma precursor state 
+monoclonal gammopathy of undeter­
+mined significance in 12372 individu­
+als 10-49 years old: a population-based 
+study from the National Health and 
+Nutrition Examination Survey [serial 
+online]. Blood Cancer J. 2017;7:e618.
+	 81.	 Lauby-Secretan B, Scoccianti C, Loomis 
+D, Grosse Y, Bianchini F, Straif K. Body 
+fatness and cancer—viewpoint of the 
+IARC Working Group. N Engl J Med. 
+2016;375:794-798.
+	 82.	 Sonderman JS, Bethea TN, Kitahara 
+CM, et al. Multiple myeloma mortality 
+in relation to obesity among African 
+Americans [serial online]. J Natl Cancer 
+Inst. 2016;108:djw120.
+	 83.	 Schinasi LH, Brown EE, Camp NJ, 
+et al. Multiple myeloma and family his­
+tory of lymphohaematopoietic cancers: 
+results from the International Multiple 
+Myeloma Consortium. Br J Haemotol. 
+2016;175:87-101.
+	 84.	 Greenberg AJ, Rajkumar SV, Vachon 
+CM. Familial monoclonal gammopa­
+thy of undetermined significance and 
+multiple myeloma: epidemiology, risk 
+factors, and biological characteristics. 
+Blood 2012;119:5359-5366.
+	 85.	 Kazandjian D, Landgren O. A look back­
+ward and forward in the regulatory and 
+treatment history of multiple myeloma: 
+approval of novel-novel agents, new 
+drug development, and longer patient 
+survival. Semin Oncol. 2016;43:682-689.
+	 86.	 Negoita S, Feuer EJ, Mariotto A, et al. 
+Annual report to the nation on the sta­
+tus of cancer, part II: recent changes in 
+prostate cancer trends and disease char­
+acteristics. Cancer 2018;124:2801-2814.
+	 87.	 Kicinski M, Vangronsveld J, Nawrot TS. 
+An epidemiological reappraisal of the 
+familial aggregation of prostate cancer: 
+a meta-analysis [serial online]. PLoS 
+One 2011;6:e27130.
+	 88.	 Nemesure B, Wu SY, Hennis A, Leske 
+MC. Family history of prostate cancer 
+in a black population. J Immigr Minor 
+Health. 2013;15:1107-1112.
+	 89.	 World Cancer Research Fund Inter­
+national/American Institute for Cancer 
+Research. Continuous Update Project 
+Expert Report 2018: Diet, Nutrition, 
+Physical Activity and Prostate Cancer. 
+2018. London, UK: World Cancer Fund 
+International; 2018. dietandcancerre­
+port.org. Accessed November 27, 2018.
+	 90.	 Gansler T, Shah R, Wang Y, et al. 
+Smoking and prostate cancer-specific 
+mortality after diagnosis in a large 
+prospective cohort. Cancer Epidemiol 
+Biomarkers Prev. 2018;27:665-672.
+	 91.	 Vidal AC, Freedland SJ. Obesity and 
+prostate cancer: a focused update on 
+active surveillance, race, and molecu­
+lar subtyping. Eur Urol. 2017;72:78-83.
+	 92.	 Barrington WE, Schenk JM, Etzioni R, 
+et al. Difference in association of obe­
+sity with prostate cancer risk between 
+US African American and non-Hispanic 
+white men in the Selenium and Vitamin 
+E Cancer Prevention Trial (SELECT). 
+JAMA Oncol. 2015;1:342-349.
+	 93.	 Murphy AB, Akereyeni F, Nyame YA, 
+et al. Smoking and prostate cancer 
+in a multi-ethnic cohort. Prostate 2013; 
+73:1518-1528.
+	 94.	 Karakas C, Wang C, Deng F, Huang H, 
+Wang D, Lee P. Molecular mechanisms 
+involving prostate cancer racial dispar­
+ity. Am J Clin Exp Urol. 2017;5:34-48.
+	 95.	 Miller EA, Pinsky PF, Black A, Andriole 
+GL, Pierre-Victor D. Secondary pros­
+tate cancer screening outcomes by 
+race in the Prostate, Lung, Colorectal, 
+and Ovarian (PLCO) screening trial. 
+Prostate 2018;78:830-838.
+	 96.	 Tsodikov A, Gulati R, de Carvalho TM, 
+et al. Is prostate cancer different in 
+black men? Answers from 3 natural his­
+tory models. Cancer 2017;123:2312-2319.
+	 97.	 Fenton JJ, Weyrich MS, Durbin S, Liu Y, 
+Bang H, Melnikow J. Prostate-specific 
+antigen-based screening for prostate 
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2019;69:211–233
+233
+VOLUME 69 | NUMBER 3 | MAY/JUNE 2019
+cancer: evidence report and systematic 
+review for the US Preventive Services 
+Task Force. JAMA 2018;319:1914-1931.
+	 98.	 Pinsky PF, Prorok PC, Yu K, et al. 
+Extended mortality results for prostate 
+cancer screening in the PLCO trial with 
+median follow-up of 15 years. Cancer 
+2017;123:592-599.
+	 99.	 Lee DJ, Barocas DA, Zhao Z, et al. 
+Contemporary prostate cancer radiation 
+therapy in the United States: patterns of 
+care and compliance with quality mea­
+sures. Pract Rad Oncol. 2018;8:307-316.
+	100.	 Schmid M, Meyer CP, Reznor G, et al. 
+Racial differences in the surgical care 
+of Medicare beneficiaries with local­
+ized prostate cancer. JAMA Oncol. 
+2015;2:85-93.
+	101.	 Gupta S, Tao L, Murphy JD, et al. Race/
+ethnicity-, socioeconomic status-, and 
+anatomic subsite-specific risks for gas­
+tric cancer. Gastroenterology 2019;156: 
+59-62.e4.
+	102.	 Grad YH, Lipsitch M, Aiello AE. Secular 
+trends in Helicobacter pylori seroprev­
+alence in adults in the United States: 
+evidence for sustained race/ethnic dis­
+parities. Am J Epidemiol. 2012;175:54-59.
+	103.	 Nguyen T, Ramsey D, Graham D, 
+et al. The prevalence of Helicobacter py­
+lori remains high in African American 
+and Hispanic veterans. Helicobacter. 
+2015;20:305-315.
+	104.	 Islami F, DeSantis CE, Jemal A. Incidence 
+trends of esophageal and gastric cancer 
+subtypes by race, ethnicity, and age in 
+the United States, 1997-2014 [published 
+online ahead of print June 11, 2018]. Clin 
+Gastroenterol Hepatol. doi: 10.1016/j.
+cgh.2018.05.044.
+	105.	 Anderson WF, Rabkin CS, Turner N, 
+Fraumeni JF Jr, Rosenberg PS, Camargo 
+MC. The changing face of noncardia 
+gastric cancer incidence among US 
+non-Hispanic whites. J Natl Cancer Inst. 
+2018;110:608-615.
+	106.	 Jim MA, Pinheiro PS, Carreira H, Espey 
+DK, Wiggins CL, Weir HK. Stomach 
+cancer survival in the United States by 
+race and stage (2001-2009): findings 
+from the CONCORD-2 study. Cancer 
+2017;123(suppl 24):4994-5013.
+	107.	 White MC, Shoemaker ML, Benard VB. 
+Cervical cancer screening and incidence 
+by age: unmet needs near and after the 
+stopping age for screening. Am J Prev 
+Med. 2017;53:392-395.
+	108.	 Yoo W, Kim S, Huh WK, et al. Recent 
+trends in racial and regional disparities 
+in cervical cancer incidence and mor­
+tality in United States [serial online]. 
+PLoS One 2017;12:e0172548.
+	109.	 Rositch AF, Nowak RG, Gravitt PE. 
+Increased age and race-specific inci­
+dence of cervical cancer after correc­
+tion for hysterectomy prevalence in the 
+United States from 2000 to 2009. Cancer 
+2014;120:2032-2038.
+	110.	 Benard VB, Howe W, Royalty J, Helsel 
+W, Kammerer W, Richardson LC. 
+Timeliness of cervical cancer diagno­
+sis and initiation of treatment in the 
+National Breast and Cervical Cancer 
+Early Detection Program. J Womens 
+Health (Larchmt). 2012;21:776-782.
+	111.	 Horner MJ, Altekruse SF, Zou Z, 
+Wideroff L, Katki HA, Stinchcomb DG. 
+US geographic distribution of prevaccine 
+era cervical cancer screening, incidence, 
+stage, and mortality. Cancer Epidemiol 
+Biomarkers Prev. 2011;20:591-599.
+	112.	 Churilla T, Egleston B, Dong Y, et al. 
+Disparities in the management and 
+outcome of cervical cancer in the 
+United States according to health insur­
+ance status. Gynecol Oncol. 2016;141: 
+516-523.
+	113.	 Markt SC, Tang T, Cronin AM, et al. 
+Insurance status and cancer treat­
+ment mediate the association between 
+race/ethnicity and cervical cancer 
+survival [serial online]. PLoS One 
+2018;13:e0193047.
+	114.	 Walker TY, Elam-Evans LD, Yankey D, 
+et al. National, regional, state, and se­
+lected local area vaccination coverage 
+among adolescents aged 13-17 years—
+United States, 2017. MMWR Morb Mortal 
+Wkly Rep. 2018;67:909-917.
+	115.	 Meites E, Kempe A, Markowitz LE. Use of 
+a 2-dose schedule for human papilloma­
+virus vaccination—updated recommen­
+dations of the Advisory Committee on 
+Immunization Practices. MMWR Morb 
+Mortal Wkly Rep. 2016;65:1405-1408.
+	116.	 Temkin SM, Kohn EC, Penberthy L, et al. 
+Hysterectomy-corrected rates of endo­
+metrial cancer among women younger 
+than age 50 in the United States. Cancer 
+Causes Control. 2018;29:427-433.
+	117.	 Temkin SM, Minasian L, Noone AM. 
+The end of the hysterectomy epidemic 
+and endometrial cancer incidence: 
+what are the unintended consequences 
+of declining hysterectomy rates [serial 
+online]? Front Oncol. 2016;6:89.
+	118.	 Felix AS, Brinton LA. Cancer prog­
+ress and priorities: uterine cancer. 
+Cancer Epidemiol Biomarkers Prev. 
+2018;27:985-994.
+	119.	 Islami F, Goding Sauer A, Miller KD, 
+et al. Proportion and number of can­
+cer cases and deaths attributable to 
+potentially modifiable risk factors in 
+the United States. CA Cancer J Clin. 
+2018;68:31-54.
+	120.	 Sud S, Holmes J, Eblan M, Chen R, Jones 
+E. Clinical characteristics ­associated 
+with racial disparities in endome­
+trial cancer outcomes: a Surveillance, 
+Epidemiology and End Results analy­
+sis. Gynecol Oncol. 2018;148:349-356.
+	121.	 Dubil EA, Tian C, Wang G, et al. Racial 
+disparities in molecular subtypes of 
+endometrial cancer. Gynecol Oncol. 
+2018;149:106-116.
+	122.	 Tarney CM, Tian C, Wang G, et al. 
+Impact of age at diagnosis on racial dis­
+parities in endometrial cancer patients. 
+Gynecol Oncol. 2018;149:12-21.
+ 15424863, 2019, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21555 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -69,9 +69,11 @@ def main():
         w.writeheader()
         w.writerows(rows)
 
-    # Still-missing manual worklist (no usable text yet).
+    # Manual worklist = ONLY records still to be downloaded. Drop obtained
+    # (HAVE), logged-unavailable, and PDF-present-but-no-textlayer (already
+    # downloaded, author reads directly) — so the list shows just what's left.
     HAVE = lambda s: s in ("pmc", "unpaywall-oa", "cached", "manual-pdf")
-    still = [r for r in rows if not HAVE(r["source"])]
+    still = [r for r in rows if r["source"] == "MISSING"]
     with open(MANUAL, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "pmid", "pubmed_url", "doi_url",
                                           "title", "source", "year", "doi"])

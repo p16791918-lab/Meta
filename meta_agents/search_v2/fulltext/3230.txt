@@ -1,0 +1,2614 @@
+record_id=3230 pmid=18720386 doi=10.1002/cncr.23731
+SOURCE: manual-pdf
+TITLE: Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004
+
+An Update on Cancer in American Indians and Alaska
+Natives, 1999-2004
+Supplement to Cancer
+Cancer in American Indian and Alaska Native Young
+Adults (Ages 20–44 Years): US, 1999–2004
+Hannah K. Weir, PhD1
+Melissa A. Jim, MPH1,2
+Loraine D. Marrett, PhD3
+Temeika Fairley, PhD1
+1 Division of Cancer Prevention and Control,
+National Center for Chronic Disease Prevention
+and Health Promotion, Centers for Disease Con-
+trol and Prevention, Atlanta, Georgia.
+2 Division of Epidemiology and Disease Preven-
+tion, Indian Health Service, Albuquerque, New
+Mexico.
+3 Division of Preventive Oncology, Cancer Care
+Ontario, Toronto, Ontario, Canada.
+BACKGROUND. An examination of cancer incidence patterns in American Indians
+and Alaska Native (AI/AN) young adults may provide insight into their present
+and future cancer burden.
+METHODS. To reduce racial misclassification, incidence data were linked with the
+Indian Health Service (IHS) patient services database. Age-adjusted cancer inci-
+dence rates per 100,000 (AAR) and corresponding rate ratios (RR) for young
+adults (ages 20-44 years) were compared across IHS regions and for selected can-
+cers within Contract Health Service Delivery Area counties by race (AI/AN vs
+non-Hispanic whites [NHW]) and sex.
+RESULTS. The all-sites cancer incidence rate was lower for AI/ANs (AAR of 83.8)
+than for NHWs (AAR of 111.2) (RR of 0.75) but varied by IHS regions. Among the
+leading cancers in AI/AN females the risk was elevated for stomach (RR of 3.22),
+colorectal (RR of 1.30), uterine (RR of 1.61), and kidney (RR of 1.39) cancers and
+was lower for breast (RR of 0.70) and thyroid (RR of 0.71) cancers. Among AI/AN
+young adult males the risk was elevated for stomach (RR of 2.62), liver (RR of
+1.89), and kidney (RR of 1.59) cancers and lower for testicular germ cell cancer
+(RR of 0.64) and lymphoma (RR of 0.60). The risk for these and other cancers var-
+ied across IHS regions.
+CONCLUSIONS. Many of the cancer patterns that characterize the AI/AN popula-
+tion overall are apparent among young adults. Compared with NHW young
+adults, the overall cancer burden among AI/AN young adults was lower but var-
+ied for selected cancers and across IHS regions. Cancer control and research stra-
+tegies are needed to address the unique genetic, social, cultural, and lifestyle
+aspects of AI/AN young adults. Cancer 2008;113(5 suppl):1153–67. Published
+2008 by the American Cancer Society.*
+KEYWORDS: American Indian, Alaskan Native, cancer, incidence, surveillance,
+Surveillance, Epidemiology, End Results (SEER), National Program of Cancer
+Registries (NPCR).
+H
+ealth disparities have persisted for many years among the Amer-
+ican Indian/Alaska Native (AI/AN) populations and other racial
+and ethnic populations in the US.1-3 Although the overall cancer
+burden appears lower in the AI/AN population than in other racial
+and ethnic groups, the incidence and death rates for selected can-
+cers, and within specific geographic regions of the US, are higher,4-7
+overall cancer survival rates are lower,8,9 and cancer death rates may
+be increasing for selected cancers.6,9 With more than 560 federally
+This supplement was sponsored by Cooperative
+Agreement Number U50 DP424071-04 from the
+Centers for Disease Control and Prevention, Divi-
+sion of Cancer Prevention and Control.
+The findings and conclusions in this report are
+those of the authors and do not necessarily
+represent the official position of the Centers for
+Disease Control and Prevention.
+Address for reprints: Hannah K. Weir, PhD, Cen-
+ters for Disease Control and Prevention, MS K53,
+4770 Buford Hwy., NE, Atlanta, GA 30341; Fax:
+(505) 248-4393; E-mail: hbw4@cdc.gov
+Received May 5, 2008; accepted June 3, 2008.
+*This article is a US Government work and, as
+such, is in the public domain in the United
+States of America.
+Published 2008 by the American Cancer Society*
+DOI 10.1002/cncr.23731
+Published online 20 August 2008 in Wiley InterScience (www.interscience.wiley.com).
+1153
+
+recognized tribes throughout the US, each with its own
+genetic makeup, social customs, culture, and lifestyles,
+these differences may reflect unique exposure opportu-
+nities and genetic predispositions.
+There are several compelling reasons for examin-
+ing the cancer burden in young adults between the
+ages of 20-44 years. An examination of incidence pat-
+terns in this age group may foretell the future cancer
+burden (because of unique and changing exposure
+opportunities
+of
+young
+adulthood)
+and
+provide
+insight into etiologic relations (because the time
+since exposure and diagnosis may be somewhat
+shorter in young adults than for older adults).10-12 In
+particular, an analysis of incidence patterns among
+the AI/AN young adult population compared with
+the non-Hispanic white (NHW) young adult popu-
+lation may provide insight into the present and
+future disease burden in the AI/AN population and
+serve
+as
+a
+critical
+first
+step
+toward
+describing,
+monitoring, and eventually eliminating health dis-
+parities.
+Past efforts to characterize the burden of cancer
+in the AI/AN population accurately have been hin-
+dered by incomplete population coverage and racial
+misclassification, thus leading to the under–reporting
+of
+cancer
+incidence
+in
+the
+AI/AN
+population.
+Through the efforts of the 2 federal cancer surveil-
+lance programs, the Centers for Disease Control and
+Prevention
+(CDC)’s
+National
+Program
+of
+Cancer
+Registries (NPCR) and the National Cancer Institute
+(NCI)’s Surveillance, Epidemiology, and End Results
+(SEER) program, there are now population-based
+cancer registries operating in all 50 states and the
+District of Columbia. The combined coverage of the
+2 federal programs now allows us to better monitor
+the burden of cancer in racially, ethnically, and geo-
+graphically diverse populations throughout the US,
+including the many diverse AI/AN populations.13
+The
+standard
+cancer
+registration
+practice
+of
+abstracting race information directly from medical
+records appears to underestimate the cancer burden
+in the AI/AN population, and special methods such
+as the linkage of cancer registry data to the Indian
+Health Service (IHS) patient services database are
+therefore
+required
+to
+obtain
+more
+precise
+esti-
+mates.2,4,14 The IHS provides medical services to AI/
+AN persons who are eligible members of federally
+recognized tribes. Services are provided to residents
+of Contract Health Service Delivery Areas (CHSDA),
+counties specifically served by the IHS. Linkage of
+cancer registry data to IHS records and analyses re-
+stricted to CHSDA counties have helped address
+issues related to the misclassification of race in the
+AI/AN population.4,14
+The purpose of this report is to describe cancer
+incidence in the AI/AN young adult population (ages
+20-44 years) and to compare it with that among
+NHW young adults. This analysis is part of a larger
+effort to characterize the cancer burden in the AI/AN
+population as a whole by IHS regions. We anticipate
+that our findings will inform cancer control planners
+about the needs of this population and stimulate
+research into the causes and management of cancers
+in AI/AN young adults.
+MATERIALS AND METHODS
+Detailed descriptions of the data sources and meth-
+ods used for this analysis are found in another article
+in this supplement.14
+Cancer Cases
+Cancer incidence data for the period 1999 through
+2004 were analyzed from 47 population-based regis-
+tries that participate in either or both of the 2 federal
+cancer surveillance programs, provided permission
+for use of their data, and met data quality criteria
+(see footnote in Table 1). Data were collected and
+reported by use of standards established by the
+North American Association of Central Cancer Regis-
+tries (NAACCR).15 Primary site and histology were
+coded according to the International Classification of
+Diseases for Oncology (ICD-O) edition in use at the
+time of diagnosis and converted to the third edi-
+tion.16 For this report, cancers were categorized
+according to the SEER site recodes and the SEER
+modification of the third edition of the International
+Classification of Childhood Cancer (ICCC-3) group-
+ings.17 Because pediatric cancers tend to be dissemi-
+nated
+at
+the
+time
+of
+diagnosis,
+the
+ICCC
+was
+developed to better characterize these cancers by
+using primarily histologic information.18 The SEER
+site recodes were developed to categorize adult can-
+cers by primary site in the body in which the cancer
+arose (eg, digestive system, respiratory system, etc).
+Cancers in adolescents and young adults include
+cancers that could be characterized by both of these
+coding systems.19,20 Therefore, a combination of the
+2
+systems
+was
+used
+to
+identify
+and
+categorize
+selected cancers by use of SAS software (version 9.1;
+SAS Institute Inc, Cary, NC)21 (for details see Supple-
+mentary Table 1 at www.cdc/cancer-URL to be deter-
+mined). Cancers defined mainly on the basis of
+histology (eg, leukemia, lymphoma, melanoma, sar-
+coma, etc) were put into their respective ICCC-3
+categories first; the remaining cancers, which were
+primarily carcinomas, were then classified by the
+appropriate SEER site recodes. When possible, can-
+1154
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+All Cancers Combined Incidence by Indian Health Service Region for American Indians/Alaska Nativesa and Non-Hispanic Whites, Ages 20-44 Years, US, 1999-2004
+IHS Region
+Sex
+CHSDA Counties
+All Counties
+AI/AN
+Count
+AI/AN
+Rateb
+95% CI For
+AI/AN Rate
+NHW
+Count
+NHW
+Rateb
+Rate Ratioc
+(AI/AN:NHW)
+95% CI For
+Rate Ratio
+AI/AN Count
+AI/AN
+Rateb
+95% CI For
+AI/AN Rate
+NHW
+Count
+NHW
+Rateb
+Rate Ratioc
+(AI/AN:NHW)
+95% CI For
+Rate Ratio
+Northern Plains
+Both sexes
+500
+105.5
+96.4-115.2
+16,897
+106.7
+0.99
+0.90-1.08
+698
+78.6
+72.9-84.7
+86,447
+109.6
+0.72d
+0.66-0.77
+Males
+187
+79.7
+68.6-92.1
+6258
+78.7
+1.01
+0.87-1.17
+259
+57.9
+51.0-65.4
+32,150
+81.3
+0.71d
+0.63-0.80
+Females
+313
+129.8
+115.7-145.0
+10,639
+134.8
+0.96
+0.86-1.08
+439
+98.9
+89.8-108.6
+54,297
+138.1
+0.72d
+0.65-0.79
+Alaskae
+Both sexes
+249
+114.9
+101.1-130.1
+1080
+104.1
+1.10
+0.96-1.27
+249
+114.9
+101.1-130.1
+1080
+104.1
+1.10
+0.96-1.27
+Males
+80
+74.3
+58.9-92.5
+434
+80.8
+0.92
+0.71-1.17
+80
+74.3
+58.9-92.5
+434
+80.8
+0.92
+0.71-1.17
+Females
+169
+154.9
+132.4-180.1
+646
+129.1
+1.20d
+1.01-1.42
+169
+154.9
+132.4-180.1
+646
+129.1
+1.20d
+1.01-1.42
+Southern Plains
+Both sexes
+760
+120
+111.5-128.8
+5841
+103.6
+1.16d
+1.07-1.25
+876
+89.9
+84.0-96.1
+32,337
+110.3
+0.81d
+0.76-0.87
+Males
+257
+82.2
+72.4-93.0
+2182
+77
+1.07
+0.93-1.22
+292
+59.3
+52.7-66.6
+12,504
+85.1
+0.70d
+0.62-0.78
+Females
+503
+155.7
+142.4-170.0
+3659
+130.4
+1.19d
+1.09-1.31
+584
+119.9
+110.4-130.1
+19,833
+135.7
+0.88d
+0.81-0.96
+Pacific Coast
+Both sexes
+524
+65.3
+59.8-71.1
+32,552
+113.4
+0.58d
+0.53-0.63
+679
+44.9
+41.6-48.5
+62,842
+114.6
+0.39d
+0.36-0.42
+Males
+202
+50.7
+43.9-58.2
+12,670
+87.7
+0.58d
+0.50-0.66
+268
+35
+30.9-39.5
+24,857
+89.6
+0.39d
+0.34-0.44
+Females
+322
+79.5
+71.0-88.6
+19,882
+139.4
+0.57d
+0.51-0.64
+411
+55
+49.8-60.6
+37,985
+140.4
+0.39d
+0.35-0.43
+East
+Both sexes
+104
+55.6
+45.5-67.4
+21,608
+116.8
+0.48d
+0.39-0.58
+513
+36.9
+33.8-40.2
+222,841
+114.8
+0.32d
+0.29-0.35
+Males
+34
+35.7
+24.7-49.9
+8028
+87.3
+0.41d
+0.28-0.57
+182
+25.6
+22.0-29.6
+82,953
+85.8
+0.30d
+0.26-0.35
+Females
+70
+76.2
+59.4-96.3
+13,580
+146.2
+0.52d
+0.41-0.66
+331
+48.5
+43.5-54.1
+139,888
+143.6
+0.34d
+0.30-0.38
+Southwest
+Both sexes
+704
+65.4
+60.7-70.5
+12,766
+107.8
+0.61d
+0.56-0.66
+760
+60.2
+56.0-64.7
+24,717
+107.7
+0.56d
+0.52-0.60
+Males
+246
+46.2
+40.5-52.4
+4871
+81
+0.57d
+0.50-0.65
+268
+42.5
+37.5-47.9
+9383
+80.5
+0.53d
+0.46-0.60
+Females
+458
+83.5
+76.0-91.5
+7895
+135.3
+0.62d
+0.56-0.68
+492
+77.1
+70.4-84.3
+15,334
+135.7
+0.57d
+0.52-0.62
+Total
+Both sexes
+2841
+83.8
+80.8-87.0
+90,744
+111.2
+0.75d
+0.73-0.78
+3775
+60.5
+58.5-62.4
+430,264
+112.9
+0.54d
+0.52-0.55
+Males
+1006
+59.9
+56.2-63.7
+34,443
+84
+0.71d
+0.67-0.76
+1349
+42.7
+40.5-45.1
+162,281
+85
+0.50d
+0.48-0.53
+Females
+1835
+106.7
+101.9-111.7
+56,301
+138.7
+0.77d
+0.73-0.81
+2426
+78.1
+75.0-81.2
+267,983
+140.9
+0.55d
+0.53-0.58
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) program.
+IHS indicates Indian Health Service; AI/AN, American Indians/Alaska Natives; 95% CI, 95% confidence interval; NHW, non-Hispanic whites.
+a AI/AN race is reported by National Program of Cancer Registries and SEER registries or through linkage with the IHS patient registration database. AI/AN persons of Hispanic origin are included.
+b Rates are per 100,000 persons and are age-adjusted to the 2000 US standard population (19 age groups-Census P25-1130).
+c Rate ratios are calculated in SEER*Stat prior to rounding of rates and may not equal the rate ratio calculated from rates presented in the table.
+d Rate ratio is statistically significant (P <.05).
+e Rates and rate ratios for Alaska in the Contract Health Service Delivery Areas (CHSDA) counties section are the same as those in the ‘‘All Counties’’ section because all counties in Alaska are CHSDA counties.
+Years of data and registries used: 1999-2004 (41 states and the District of Columbia): Alabama,* Alaska,* Arkansas, Arizona,* California,* Colorado,* Connecticut,* Delaware, District of Columbia, Florida,* Georgia, Hawaii, Idaho,* Illinois, Indiana,* Iowa,* Kentucky, Louisiana,*
+Maine,* Massachusetts,* Michigan,* Minnesota,* Missouri, Montana,* Nebraska,* Nevada,* New Hampshire, New Jersey, New Mexico,* New York,* North Carolina,* Ohio, Oklahoma,* Oregon,* Pennsylvania,* Rhode Island,* Texas,* Utah,* Washington,* West Virginia, Wisconsin,*
+and Wyoming*; 1999 and 2002-2004: North Dakota*; 2001-2004: South Dakota*; 2003-2004: Mississippi* and Virginia; 2004: Tennessee. *States with at least 1 county designated as CHSDA.Percent regional coverage of AI/AN in CHSDA counties to AI/AN in all counties: Alaska:
+100%; East: 13.1%; Northern Plains: 59.0%; Southern Plains: 64.1%; Pacific Coast: 55.6%; Southwest: 87.5%.
+Cancer in AI/AN Young Adults/Weir et al
+1155
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cers were grouped by systems (eg, digestive, genital,
+endocrine, urinary, etc) and by specific cancer type
+within these systems.
+In this report, incidence data referred to invasive
+cancers, with the exception of cancer of the urinary
+bladder (bladder), which included both in situ and
+invasive cancers. It should also be noted that cancer
+registries throughout North America coded all pilocy-
+tic astrocytoma (ICD-O-3 9421) as invasive. For con-
+sistency across the period of analysis (1999-2004),
+those cancers newly classified as malignant, begin-
+ning in 2001 with the introduction of ICD-O-3, were
+excluded. Additional changes in ICD-O-3 applied to
+low malignant potential tumors of the ovary, which
+were no longer coded as malignant beginning in
+2001. These cancers were also excluded.
+Race and Population Data and Geographic Coverage
+In this report, cancer patients were classified as
+‘‘American Indian’’ or ‘‘Alaska Native’’ (AI/AN) if they
+were identified as such in the medical record or
+through linkage with the IHS patient services data-
+base. As described in detail elsewhere,4 linkages
+between cancer registries and IHS records were con-
+ducted by use of Link Plus,22 a probabilistic linkage
+software program developed by the CDC.
+County-level population estimates produced by
+the US Census Bureau were used as denominators in
+the rate calculations. To manage multiple race data
+collected beginning in 2000, a technique of bridging
+multiple
+race
+categories
+into
+single-race
+annual
+population estimates was developed by the CDC’s
+National Center for Health Statistics, in collaboration
+with the Census Bureau.23 The NCI made further
+refinements regarding race and county geographic
+codes and provided public access to these esti-
+mates24 through its SEER*Stat statistical analysis soft-
+ware.25
+Analyses
+Averaged annual age-adjusted incidence rates per
+100,000 population and 95% confidence intervals
+(95% CIs) for the period 1999 through 2004 were cal-
+culated by use of SEER*Stat software (version 6.3.6)25
+by race and ethnicity (AI/AN, NHW), sex (males and
+female), IHS regions (Alaska, East, Northern Plains,
+Pacific Coast, Southern Plain, and Southwest), and
+within CHSDA counties (Fig. 1). Rates were adjusted
+to the 2000 US standard population by use of 5-year
+age groups (20-24, 25-29, 30-34, 35-39, and 40-44
+years). Rates based on case counts of <5 cases for
+the entire period were italicized, and the correspond-
+ing case counts and rate ratios (RRs) were sup-
+pressed. CIs were constructed by use of the modified
+gamma method to ensure proper coverage for small
+case counts, low incidence rates, and populations
+with age distributions that differ from the standard
+age distribution.26
+RRs and rate differences were calculated for the
+purpose of comparing incidence rates between AI/
+AN and NHW populations. RRs were calculated as
+the age-adjusted incidence rate among the AI/AN
+population divided by the age-adjusted incidence
+rate among the NHW population. P values for rate
+ratios
+used
+the
+method
+developed
+by
+Fay
+and
+Feuer.27 Rate differences, which reflected either the
+higher or lower rates of cancer incidence in the AI/
+AN population compared with the NHW population,
+were calculated by subtracting the NHW rate from
+the AI/AN rate.
+RESULTS
+A total of 3775 incident cancer cases were diagnosed
+among the AI/AN young adult population (ages 20-
+44 years) in participating cancer registries during the
+period between 1999 and 2004 (Table 1). A majority
+of these cases (ie, 2841) representing 75.3% of all
+incident cases were diagnosed among AI/AN resi-
+dents of CHSDA counties. Cancer incidence rates
+among AI/AN young adult CHSDA residents were
+uniformly higher than rates based on AI/AN resi-
+dents of all counties combined (except in Alaska,
+where all counties are designated as CHSDA). In con-
+trast, there was little difference in NHW rates noted
+between CHSDA counties and all counties combined.
+These findings are consistent with improved classifi-
+cation of AI/AN cancer cases within CHSDA coun-
+ties,
+which
+increased
+rates
+for
+AI/AN
+but
+had
+minimal effect on rates for NHW. Because AI/AN
+incidence rates for residents of CHSDA counties pro-
+vide a more valid estimate of incidence rates for AI/
+AN populations than do rates for all counties com-
+bined, the remaining portion of this report will focus
+solely on rates calculated for residents of CHSDA
+counties.
+Age-adjusted
+incidence
+rates
+for
+all
+cancers
+combined were higher in females than for males in
+both the AI/AN and NHW young adult populations
+(Table 1). Rates among AI/AN young adult females
+varied most across IHS regions, from a low of 76.2
+per 100,000 females (East) to a high of 155.7 per
+100,000 females (Southern Plains), compared with
+rates among AI/AN young adult males, which ranged
+from 35.7 (East) to 82.2 per 100,000 males (Southern
+Plains). There was relatively little variation in rates
+for NHW young adults noted across regions.
+1156
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Compared with NHW young adults, AI/AN young
+adult males and females had lower all sites com-
+bined incidence rates, with significantly reduced RRs
+(RRs of 0.71 and 0.77, respectively), with the Pacific
+Coast, East, and Southwest regions having the lowest
+RRs (Table 1). In Alaska and the Southern Plains, AI/
+AN young adult females had elevated cancer inci-
+dence
+rates
+compared
+with
+NHW
+young
+adult
+females. AI/AN young adult males had cancer inci-
+dence rates that were similar to the NHW young
+adult population in Alaska, the Northern Plains, and
+the
+Southern
+Plains,
+as
+did
+AI/AN young
+adult
+females in the Northern Plains.
+Table 2 shows case counts, age-adjusted inci-
+dence rates, and corresponding RRs for major cancer
+groups and for specific cancers within all IHS regions
+combined. Among all cancers diagnosed in AI/AN
+young adult males (n 5 1006), 4 cancers accounted
+for approximately 60% of all diagnoses: cancers of
+the digestive system (20%), the male genital system
+(18%), lymphomas (12%), and cancers of the urinary
+system (9%). Cancers of the digestive system were
+the leading cancers among AI/AN young adult males
+in all but the Pacific Coast, where cancers of the
+male genital system were most common, followed by
+cancers of the digestive system (data not shown).
+Among all cancers diagnosed in AI/AN young adult
+females (n 5 1835), 4 cancers accounted for nearly
+75% of all diagnoses: breast cancer (29%), cancers of
+the female genital system (21%), the endocrine sys-
+tem (12%), and the digestive system (10%). Breast
+cancer was the leading cancer among AI/AN young
+adult females in all IHS regions (data not shown).
+Although melanoma ranked third in NHW females
+and second in NHW males, accounting for 13% of
+cancers in males and females combined, it was
+much less common in AI/AN young adults (<4% of
+incident cancers).
+Specific cancers found to have statistically signif-
+icantly higher incidence rates in the AI/AN young
+adult population (Table 2) included: male and female
+digestive system cancers (RR of 1.26), including male
+and female stomach cancer (RR of 2.86); female col-
+orectal cancer (CRC) (RR of 1.32); male hepatic (liver)
+cancer (RR of 1.89); female genital system cancers
+(RR of 1.15), including corpus uteri (uterine) cancer
+(RR of 1.61); and male and female urinary system
+cancers (RR of 1.28), including renal (kidney) cancer
+(RR of 1.50). The largest excess, as measured by rate
+differences, occurred for cancers of the digestive sys-
+tem and urinary cancers in males and females and
+genital cancers in females.
+Specific cancers found to have statistically signif-
+icantly lower incidence rates in the AI/AN young
+FIGURE 1. States and Contract Health Service Delivery Areas (CHSDA) counties by Indian Health Service region.
+Cancer in AI/AN Young Adults/Weir et al
+1157
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+Cancer Incidence for American Indians/Alaska Nativesa and Non-Hispanic Whites, Ages 20-44 Years, CHSDA Counties, US, 1999-2004
+Site
+Sex
+AI/AN Countb
+AI/AN Ratec
+95% CI For
+AI/AN Rate
+NHW Countb
+NHW Ratec
+Rate Ratiod
+(AI/AN:NHW)
+95% CI For
+Rate Ratio
+Rate Difference
+(AI/AN-NHW)
+All sites combined
+Both sexes
+2841
+83.8
+80.8-87.0
+90,744
+111.2
+0.75d
+0.73-0.78
+-27.4
+Male
+1006
+59.9
+56.2-63.7
+34,443
+84.0
+0.71d
+0.67-0.76
+-24.1
+Female
+1835
+106.7
+101.9-111.7
+56,301
+138.7
+0.77d
+0.73-0.81
+-32.0
+Oral cavity and pharynx
+Both sexes
+72
+2.2
+1.7-2.7
+2114
+2.6
+0.85
+0.66-1.07
+-0.4
+Male
+46
+2.9
+2.1-3.9
+1418
+3.4
+0.85
+0.62-1.14
+-0.5
+Female
+26
+1.5
+1.0-2.2
+696
+1.7
+0.87
+0.56-1.28
+-0.2
+Digestive system
+Both sexes
+388
+11.7
+10.6-12.9
+7550
+9.2
+1.28d
+1.15-1.42
+2.5
+Male
+198
+12.3
+10.6-14.1
+4218
+10.2
+1.20d
+1.04-1.39
+2.1
+Female
+190
+11.2
+9.7-12.9
+3332
+8.1
+1.38d
+1.18-1.60
+3.1
+Esophagus
+Both sexes
+11
+0.3
+0.2-0.6
+322
+0.4
+0.88
+0.44-1.58
+20.1
+Male
+9
+0.6
+0.3-1.1
+269
+0.6
+0.89
+0.40-1.70
+0.0
+Female
+
+0.1
+53
+0.1
+Stomach
+Both sexes
+60
+1.8
+1.4-2.3
+523
+0.6
+2.86d
+2.15-3.73
+1.2
+Male
+32
+2.0
+1.4-2.8
+313
+0.8
+2.62d
+1.76-3.77
+1.2
+Female
+28
+1.7
+1.1-2.4
+210
+0.5
+3.22d
+2.09-4.78
+1.2
+Colon and rectum
+Both sexes
+219
+6.6
+5.7-7.5
+4764
+5.8
+1.14
+0.99-1.30
+0.8
+Male
+97
+6.0
+4.9-7.3
+2510
+6.1
+0.99
+0.80-1.21
+20.1
+Female
+122
+7.2
+6.0-8.6
+2254
+5.5
+1.30d
+1.08-1.56
+1.7
+Anus, anal canal and anorectum
+Both sexes
+13
+0.4
+0.2-0.7
+439
+0.5
+0.75
+0.39-1.28
+20.1
+Male
+6
+0.4
+0.1-0.8
+209
+0.5
+0.71
+0.26-1.57
+20.1
+Female
+7
+0.4
+0.2-0.9
+230
+0.6
+0.77
+0.31-1.59
+20.2
+Hepatic carcinoma
+Both sexes
+28
+0.8
+0.5-1.2
+437
+0.5
+1.55d
+1.02-2.28
+0.3
+Male
+23
+1.4
+0.9-2.1
+312
+0.7
+1.89d
+1.17-2.88
+0.7
+Female
+
+0.3
+125
+0.3
+Pancreas
+Both sexes
+28
+0.9
+0.6-1.2
+638
+0.8
+1.12
+0.74-1.63
+0.1
+Male
+17
+1.1
+0.6-1.7
+383
+0.9
+1.17
+0.67-1.89
+0.2
+Female
+11
+0.7
+0.3-1.2
+255
+0.6
+1.06
+0.52-1.92
+0.1
+Respiratory system
+Both sexes
+110
+3.4
+2.8-4.1
+3745
+4.5
+0.76d
+0.62-0.91
+21.1
+Male
+63
+4.0
+3.1-5.1
+1919
+4.6
+0.88
+0.67-1.13
+20.6
+Female
+47
+2.8
+2.1-3.7
+1826
+4.4
+0.64d
+0.47-0.85
+21.6
+Larynx
+Both sexes
+12
+0.4
+0.2-0.6
+359
+0.4
+0.87
+0.45-1.53
+0.0
+Male
+8
+0.5
+0.2-1.0
+238
+0.6
+0.92
+0.39-1.81
+20.1
+Female
+
+0.2
+121
+0.3
+Lung and bronchus
+Both sexes
+97
+3.0
+2.4-3.6
+3373
+4.0
+0.74d
+0.60-0.90
+21.0
+Male
+54
+3.4
+2.6-4.5
+1674
+4.0
+0.86
+0.64-1.12
+20.6
+Female
+43
+2.6
+1.9-3.5
+1699
+4.1
+0.63d
+0.45-0.85
+21.5
+Bones and joints
+Both sexes
+19
+0.5
+0.3-0.8
+554
+0.7
+0.75
+0.44-1.18
+20.2
+Male
+8
+0.4
+0.2-0.9
+321
+0.8
+0.56
+0.23-1.12
+20.4
+Female
+11
+0.6
+0.3-1.1
+233
+0.6
+1.00
+0.49-1.84
+0.0
+Soft tissue and other extraosseous sarcoma
+Both sexes
+114
+3.2
+2.7-3.9
+2581
+3.2
+1.02
+0.84-1.23
+0.0
+Male
+60
+3.4
+2.6-4.4
+1476
+3.6
+0.93
+0.71-1.21
+20.2
+Female
+54
+3.1
+2.3-4.0
+1105
+2.8
+1.13
+0.84-1.48
+0.3
+(continued )
+1158
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+(continued )
+Site
+Sex
+AI/AN Countb
+AI/AN Ratec
+95% CI For
+AI/AN Rate
+NHW Countb
+NHW Ratec
+Rate Ratiod
+(AI/AN:NHW)
+95% CI For
+Rate Ratio
+Rate Difference
+(AI/AN-NHW)
+Kaposi sarcoma
+Both sexes
+26
+0.8
+0.5-1.1
+403
+0.5
+1.53
+0.98-2.27
+0.3
+Male
+25
+1.5
+1.0-2.2
+390
+1.0
+1.55
+0.99-2.32
+0.5
+Female
+
+0.1
+13
+0.0
+Melanoma
+Both sexes
+104
+3.0
+2.5-3.6
+12,192
+15.1
+0.20d
+0.16-0.24
+212.1
+Male
+40
+2.4
+1.7-3.2
+5149
+12.6
+0.19d
+0.13-0.26
+210.2
+Female
+64
+3.6
+2.8-4.6
+7043
+17.6
+0.21d
+0.16-0.26
+214.0
+Breast
+Female
+534
+31.8
+29.2-34.6
+18,619
+45.3
+0.70d
+0.64-0.77
+213.5
+Female genital system
+Female
+394
+23.0
+20.8-25.4
+8048
+19.9
+1.15d
+1.04-1.28
+3.1
+Cervix
+Female
+187
+10.8
+9.3-12.4
+3888
+9.7
+1.11
+0.95-1.29
+1.1
+Corpus uteri
+Female
+122
+7.3
+6.0-8.7
+1847
+4.5
+1.61d
+1.33-1.94
+2.8
+Ovary cancer
+Female
+62
+3.6
+2.8-4.6
+1565
+3.8
+0.95
+0.72-1.22
+20.2
+Male genital system
+Male
+181
+10.1
+8.7-11.7
+6373
+15.7
+0.64d
+0.55-0.75
+25.6
+Prostate
+Male
+13
+0.9
+0.5-1.4
+708
+1.7
+0.51d
+0.27-0.87
+20.8
+Testicular germ cell
+Male
+163
+8.9
+7.6-10.4
+5585
+13.8
+0.64d
+0.55-0.75
+24.9
+Urinary system
+Both sexes
+147
+4.5
+3.8-5.3
+2884
+3.5
+1.28d
+1.08-1.51
+1.0
+Male
+94
+5.9
+4.8-7.2
+1835
+4.4
+1.34d
+1.07-1.64
+1.5
+Female
+53
+3.1
+2.3-4.1
+1049
+2.6
+1.22
+0.91-1.61
+0.5
+Renal cancer
+Both sexes
+120
+3.7
+3.0-4.4
+2016
+2.4
+1.50d
+1.24-1.80
+1.3
+Male
+75
+4.7
+3.7-5.9
+1230
+3.0
+1.59d
+1.24-2.00
+1.7
+Female
+45
+2.7
+2.0-3.6
+786
+1.9
+1.39d
+1.01-1.88
+0.8
+Brain and other nervous system
+Both sexes
+97
+2.7
+2.2-3.3
+3325
+4.1
+0.66d
+0.53-0.81
+21.4
+Male
+58
+3.3
+2.5-4.3
+1935
+4.8
+0.69d
+0.52-0.90
+21.5
+Female
+39
+2.2
+1.5-3.0
+1390
+3.5
+0.62d
+0.44-0.86
+21.3
+Astrocytoma
+Both sexes
+52
+1.5
+1.1-1.9
+1795
+2.2
+0.66d
+0.49-0.88
+20.7
+Male
+31
+1.8
+1.2-2.5
+1065
+2.6
+0.68d
+0.46-0.97
+20.8
+Female
+21
+1.2
+0.7-1.8
+730
+1.8
+0.65d
+0.40-1.00
+20.6
+Endocrine system
+Both sexes
+238
+6.8
+5.9-7.7
+8256
+10.2
+0.66d
+0.58-0.75
+23.4
+Male
+26
+1.5
+1.0-2.3
+1618
+4.0
+0.39d
+0.25-0.57
+22.5
+Female
+212
+11.9
+10.3-13.6
+6640
+16.6
+0.71d
+0.62-0.82
+24.7
+Thyroid
+Both sexes
+237
+6.7
+5.9-7.7
+8157
+10.1
+0.67d
+0.58-0.76
+23.4
+Male
+26
+1.5
+1.0-2.3
+1556
+3.8
+0.40d
+0.26-0.59
+22.3
+Female
+211
+11.8
+10.3-13.5
+6601
+16.5
+0.71d
+0.62-0.82
+24.7
+Lymphoma
+Both sexes
+201
+5.8
+5.0-6.7
+8464
+10.5
+0.55d
+0.48-0.64
+24.7
+Male
+123
+7.3
+6.0-8.7
+4932
+12.1
+0.60d
+0.50-0.72
+24.8
+Female
+78
+4.4
+3.4-5.4
+3532
+8.8
+0.49d
+0.39-0.62
+24.4
+Hodgkin lymphoma
+Both sexes
+53
+1.4
+1.0-1.8
+3359
+4.2
+0.33d
+0.25-0.44
+22.8
+Male
+33
+1.8
+1.2-2.5
+1801
+4.5
+0.40d
+0.27-0.56
+22.7
+Female
+20
+1.0
+0.6-1.6
+1558
+4.0
+0.26d
+0.16-0.40
+23.0
+Non-Hodgkin lymphoma
+Both sexes
+131
+3.9
+3.3-4.6
+4586
+5.6
+0.69d
+0.58-0.82
+21.7
+Male
+79
+4.9
+3.8-6.1
+2753
+6.7
+0.72d
+0.57-0.91
+21.8
+Female
+52
+3.0
+2.2-3.9
+1833
+4.5
+0.66d
+0.49-0.87
+21.5
+(continued )
+Cancer in AI/AN Young Adults/Weir et al
+1159
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+(continued )
+Site
+Sex
+AI/AN Countb
+AI/AN Ratec
+95% CI For
+AI/AN Rate
+NHW Countb
+NHW Ratec
+Rate Ratiod
+(AI/AN:NHW)
+95% CI For
+Rate Ratio
+Rate Difference
+(AI/AN-NHW)
+Leukemia
+Both sexes
+116
+3.2
+2.7-3.9
+2543
+3.1
+1.04
+0.85-1.25
+0.1
+Male
+63
+3.6
+2.7-4.6
+1419
+3.5
+1.03
+0.78-1.33
+0.1
+Female
+53
+2.9
+2.2-3.8
+1124
+2.8
+1.05
+0.78-1.39
+0.1
+Lymphoid
+Both sexes
+36
+0.9
+0.7-1.3
+794
+1.0
+0.97
+0.67-1.36
+20.1
+Male
+22
+1.2
+0.7-1.8
+514
+1.3
+0.93
+0.57-1.43
+20.1
+Female
+14
+0.7
+0.4-1.2
+280
+0.7
+1.06
+0.57-1.83
+0.0
+Acute myeloid
+Both sexes
+45
+1.3
+0.9-1.7
+1146
+1.4
+0.91
+0.66-1.23
+20.1
+Male
+22
+1.3
+0.8-2.0
+564
+1.4
+0.94
+0.58-1.44
+20.1
+Female
+23
+1.3
+0.8-1.9
+582
+1.5
+0.88
+0.55-1.34
+20.2
+Chronic myeloproliferative Disease
+Both sexes
+29
+0.8
+0.6-1.2
+468
+0.6
+1.46
+0.97-2.13
+0.2
+Male
+16
+1.0
+0.5-1.6
+276
+0.7
+1.41
+0.79-2.33
+0.3
+Female
+13
+0.7
+0.4-1.3
+192
+0.5
+1.56
+0.81-2.72
+0.2
+Other
+Both sexes
+126
+3.8
+3.1-4.5
+3494
+4.3
+0.88
+0.73-1.05
+20.5
+Male
+46
+2.8
+2.0-3.7
+1830
+4.4
+0.63d
+0.46-0.84
+21.6
+Female
+80
+4.7
+3.7-5.8
+1664
+4.1
+1.14
+0.90-1.43
+0.6
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries (NPCR) and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) program.
+CHSDA indicates Contract Health Service Delivery Areas; AI/AN, American Indians/Alaska Natives; 95% CI, 95% confidence interval; NHW, non-Hispanic whites.
+a AI/AN race is reported by NPCR and SEER registries or through linkage with the Indian Health Service patient registration database. AI/AN persons of Hispanic origin are included.
+b Rates based on counts 5 are presented in italics.
+c Rates are per 100,000 persons and are age-adjusted to the 2000 US standard population (19 age groups-Census P25-1130).
+d Rate ratio is statistically significant (P <.05).
+Counts <6 are suppressed; if no cases were reported, then rates could not be calculated.
+Years of data and registries used: 1999-2004 (41 states and the District of Columbia): Alabama,* Alaska,* Arkansas, Arizona,* California,* Colorado,* Connecticut,* Delaware, District of Columbia, Florida,* Georgia, Hawaii, Idaho,* Illinois, Indiana,* Iowa,* Kentucky, Louisiana,*
+Maine,* Massachusetts,* Michigan,* Minnesota,* Missouri, Montana,* North Carolina,* Nebraska,* Nevada,* New Hampshire, New Jersey, New Mexico,* New York,* Ohio, Oklahoma,* Oregon,* Pennsylvania,* Rhode Island,* Texas,* Utah,* Washington,* West Virginia, Wisconsin,*
+and Wyoming*; 1999 and 2002-2004: North Dakota*; 2001-2004: South Dakota*; 2003-2004: Mississippi* and Virginia; 2004: Tennessee. *States with at least 1 county designated as CHSDA.
+1160
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+adult population (Table 2) included: female respira-
+tory cancer (RR of 0.64), including cancer of the lung
+and bronchus (RR of 0.63); male and female mela-
+noma (RR of 0.20); female breast cancer (RR of 0.70);
+male genital cancers (RR of 0.64), including prostate
+cancer (RR of 0.51) and testicular germ cell cancer
+(RR of 0.64); male and female brain and other nerv-
+ous system cancers (RR of 0.66), including astrocy-
+toma
+(RR
+of
+0.66);
+male
+and
+female
+endocrine
+cancers (RR of 0.66), including thyroid cancer (RR of
+0.67); and male and female lymphoma (RR of 0.55),
+including Hodgkin lymphoma (RR of 0.33) and non-
+Hodgkin lymphoma (NHL) (RR of 0.69). The largest
+deficits, as measured by rate differences, occurred for
+female breast cancer, melanoma, testicular germ cell
+cancers, and lymphoma and thyroid cancer.
+Figures 2a and 2b graphically display statistically
+significant log RRs from Table 2 for selected cancers
+within CHSDA counties by IHS region for AI/AN
+young adult males and females compared with NHW
+young adult males and females.
+ In Alaska, the cancer burden in AI/AN females was
+higher for breast cancer and lower for melanoma.
+ In the East, the cancer burden for AI/AN females
+was higher for uterine cancer and lower for breast
+and thyroid cancer; for AI/AN males, it was lower
+for
+melanoma,
+stomach
+cancer,
+and
+testicular
+germ cell tumors (testis).
+ In the Northern Plains, the cancer burden in both
+AI/AN males and females was higher for stomach
+and CRC cancer and lower for melanoma.
+ In the Pacific Coast, the cancer burden was higher
+for Kaposi sarcoma in AI/AN males and lower for
+melanoma in both males and females, NHL and
+testis cancer in males, and breast and thyroid can-
+cer in females.
+ In the Southern Plains, the cancer burden was
+higher
+for
+cervix
+and
+CRC
+cancers
+in
+AI/AN
+females and for kidney cancer, stomach cancer,
+and leukemia in males; the cancer burden was
+lower for melanoma in males and females and for
+testis cancer in males.
+ In the Southwest, the cancer burden was higher
+for kidney cancer in males and stomach and uter-
+ine cancers in AI/AN females, and lower for breast,
+cervix, melanoma, thyroid, and lung cancer in
+females, and melanoma, NHL, testis, and lung can-
+cer in males.
+For all other cancers, the rate ratios among the
+AI/AN and NHW young adult populations were not
+statistically significantly different or data were insuf-
+ficient to identify statistically significant differences.
+DISCUSSION
+Our analyses support earlier findings that there were
+pronounced disparities in the cancer burden among
+AI/AN
+populations
+and
+between
+the
+AI/AN and
+NHW population,4 and that many of these disparities
+FIGURE 2. (a and b) Statistically significant rate ratios (P < .05) to explain
+the cancer burden in the American Indian/Alaskan Native young adult popu-
+lation compared with the cancer burden in the non-Hispanic white population
+by sex and Indian Health Service regions in individuals ages 20 to 44 years
+in the US Contract Health Service Delivery Areas (CHSDA) counties, 1999
+through 2004. CRC indicates colorectal cancer; NHL, non-Hodgkin lymphoma.
+Source: Cancer registries in the Centers for Disease Control and Prevention’s
+National Program of Cancer Registries and/or the National Cancer Institute’s
+Surveillance, Epidemiology, and End Results (SEER) program. Years of data
+and registries used: 1999-2004 (41 states and the District of Columbia): Ala-
+bama,* Alaska,* Arizona,* Arkansas, California,* Colorado,* Connecticut,*
+Delaware, District of Columbia, Florida,* Georgia, Hawaii, Idaho,* Illinois, In-
+diana,* Iowa,* Kentucky, Louisiana,* Maine,* Massachusetts,* Michigan,*
+Minnesota,* Missouri, Montana,* Nebraska,* Nevada,* New Hampshire, New
+Jersey, New Mexico,* New York,* North Carolina,* Ohio, Oklahoma,* Oregon,*
+Pennsylvania,* Rhode Island,* Texas,* Utah,* Washington,* West Virginia,
+Wisconsin,* and Wyoming*; 1999 and 2002-2004: North Dakota*; 2001-
+2004: South Dakota*; 2003-2004: Mississippi* and Virginia; 2004: Tennes-
+see. *States with at least 1 county designated as CHSDA.
+Cancer in AI/AN Young Adults/Weir et al
+1161
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+were also apparent in the young adult population.
+For example, the burden in AI/AN young adults
+residing in CHSDA counties was higher for cancers
+of the stomach, liver, and kidney; and lower for all
+sites combined, NHL, melanoma, and cancers of the
+breast, thyroid, prostate, testis, and brain. However,
+these summary estimates can be misleading, as they
+missed disparities that were evident only in specific
+IHS regions. Because regional differences were likely
+a function of the heterogeneity of AI/AN populations
+with respect to genetic, social, cultural, and lifestyle
+aspects,
+some
+of
+which
+are
+known
+to
+vary
+by
+region,6,7,28 future analyses would benefit from routi-
+nely including region-specific data.
+To our knowledge, the current analysis is the first
+to systematically describe the cancer burden among
+AI/AN young adults between the ages of 20 and 44
+years.
+As
+such,
+several
+limitations
+need
+to
+be
+acknowledged when interpreting these results, espe-
+cially as they relate to the regional data. First,
+although linking cancer registry data to the IHS
+patient services database and focusing the analysis
+on IHS CHSDA appears to have reduced racial mis-
+classification,4,14 such strategies could not correct for
+misclassification among AI/AN individuals who were
+not members of federally recognized tribes and as
+such were not eligible for IHS services, or who did
+not access IHS services. Second, because analyses
+were restricted to CHSDA counties, the results can-
+not be generalized to AI/AN individuals who lived
+outside CHSDA, often in predominately urban areas,
+and who were therefore not represented in these
+rates.14
+Third,
+the
+AI/AN
+population
+was
+small,
+accounting for approximately 1% of the total US
+population,29 and a diagnosis of cancer in a young
+adult was a rare event. Therefore, the total number
+of incident cases in AI/AN young adults in this study
+was small, resulting in low statistical power to detect
+differences in the cancer burden. Thus, our ability to
+examine regional differences by cancer type was lim-
+ited. Future analyses would benefit from expanding
+coverage to include more diagnosis years and more
+population-based cancer registries.
+Describing the cancer burden is an essential first
+step toward eliminating these disparities. There are 2
+perspectives by which to view the cancer burden: a
+cancer
+control
+perspective
+and
+a
+surveillance
+research perspective. Of particular interest to cancer
+control planners should be the identification of can-
+cers that accounted for the majority of cancers diag-
+nosed in the AI/AN young adult population (female
+breast cancer, lymphoma, and cancers of the female
+and male digestive, genital, and endocrine systems).
+Of particular interest to researchers should be the
+finding that the relative burden of selected cancers
+(female breast, Kaposi sarcoma, leukemia, and can-
+cers of the digestive, genital, respiratory, and urinary
+systems) differed among the AI/AN populations, as
+defined by IHS regions, as well as when compared
+with the NHW young adult population. The leading
+cancers and those with statistically significant rate
+differences are discussed below.
+Digestive System
+Cancers
+of
+the
+digestive
+system
+accounted
+for
+approximately 14% of all cancers diagnosed in AI/AN
+young adults. Compared with NHW young adults,
+the AI/AN population was at increased risk for stom-
+ach and CRC in males and females and liver cancer
+in males. Other studies have reported an elevated
+risk for stomach cancer among the AI/AN popula-
+tion3,30,31 and the incidence of stomach cancer may
+be increasing in the AI/AN population as a whole.3
+The present study confirmed an elevated risk for
+stomach cancer among AI/AN young adult males in
+the Northern and Southern Plains and identified
+reduced risk in the East (Fig. 2a). Among AI/AN
+young adult females, risk was elevated in the North-
+ern Plains and the Southwest (Fig. 2b). Risk factors
+for stomach cancer include infection with Helicobac-
+ter pylori32 and a diet low in fruits and vegetables
+and high in red meat consumption.33,34 Five-year
+survival after a diagnosis of stomach cancer in the
+AI/AN population was approximately 14%.8
+The present study also found that AI/AN young
+adult females had elevated risk for CRC in the North-
+ern and Southern Plains. This finding is consistent
+with a concurrent study that demonstrated wide vari-
+ability in incidence rates across IHS regions, includ-
+ing higher incidence rates in both AI/AN adult males
+and females in Alaska and in the Northern and
+Southern Plains.35 Incidence rates were also high
+among younger (age <50 years) males and females
+compared with older males and females, suggesting
+a greater susceptibility to CRC in younger ages
+among the AI/AN population than among the NHW
+population.35 The incidence of CRC appears to be
+increasing in the AI/AN population4,36 and risk fac-
+tors thought to increase risk include personal and
+family history of polyps, inflammatory bowel syn-
+drome,
+cigarette
+smoking,
+alcohol
+consumption,
+physical inactivity, and a diet high in animal fats and
+low in fruits and vegetables.30 Infection with H.
+pylori37 and diabetes38 are emerging as potential
+additional risk factors for CRC. The extent to which
+these risk factors can explain the variability of CRC
+incidence in AI/AN young adults will require further
+1162
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+research. Five-year survival after a diagnosis of CRC
+in the AI/AN population was approximately 50%.8
+AI/AN young adult males had a higher risk of he-
+patic (liver) cancer than NHW young adult males;
+however, the case counts were too small to allow cal-
+culation of regional incidence rates. Elevated risk for
+liver and intrahepatic bile duct cancers in the AI/AN
+population has been reported elsewhere.39-41 Risk
+factors for liver cancer include chronic inflammation
+(cirrhosis) because of excessive alcohol consump-
+tion32 or infection with hepatitis B and C (HBV and
+HCV, respectively)32,42;
+more recently, diabetes
+is
+emerging as a possible risk factor.43,44 In the early
+1980s, infection with HBV was implicated as a lead-
+ing cause of liver cancer in Alaska Native children
+and adolescents, and an HBV immunization program
+was instituted. As these immunized children become
+young adults, rates of liver cancer may decline.45
+However, more recently, liver cancer incidence has
+been reported to be increasing in the general popula-
+tion, attributed primarily to increased prevalence of
+individuals chronically infected with the HCV.42 Mon-
+itoring of incidence rates among AI/AN young adults
+may help elucidate the relationship between liver
+cancer and known and suspected risk factors. Five-
+year survival after a diagnosis of liver cancer in the
+AI/AN population was approximately 10%.8
+Female Breast Cancer
+Breast cancers accounted for approximately 30% of
+all cancers diagnosed in AI/AN young adult women,
+and breast cancer was the leading cancer diagnosed
+in AI/AN women across all IHS regions. Although the
+overall burden of breast cancer was lower in AI/AN
+than for NHW young adult women, the burden was
+not uniformly distributed across all IHS regions: the
+burden was lower in the Pacific Coast, East, and
+Southwest and elevated in Alaska. This distribution is
+consistent with a concurrent study that has shown
+wide variability in the breast cancer burden in AI/AN
+women across IHS regions.46 Of particular interest is
+the finding that breast cancer incidence rates have
+been increasing for several decades in Alaska among
+AI/AN women but not among white women.47 Differ-
+ences in cancer burden among AI/AN women across
+IHS regions suggest the need for research into the
+role that screening, genetic factors, reproductive his-
+tories (eg, parity, breast feeding, age at first full–term
+pregnancy, etc), health behaviors (eg, diet and physi-
+cal activity) and environmental exposures play in
+them.46 Five-year survival after a diagnosis of breast
+cancer in the AI/AN population was approximately
+75%.8
+Genital System
+Cancers of the genital system accounted for approxi-
+mately 14% of all cancers diagnosed in AI/AN young
+adults. Cancer of the cervix uteri (cervix) accounted
+for approximately 50% of all female genital system
+cancers. Compared with the risk for NHW young
+adult women, the risk for cancer of the cervix was
+higher in the Southern Plains and lower in the
+Southwest. Screening for cancer of the cervix by use
+of the Papanicolaou (Pap) test is recommended for
+women of all ages who have been sexually active.
+Virtually all cancers of the cervix are now believed to
+be associated with infection with the human papillo-
+mavirus (HPV).32 An HPV vaccine has recently been
+approved for use in the US for women ages 9 to 26
+years30 and the vaccine offers hope for future reduc-
+tion in the incidence of cancer of the cervix. In the
+meantime, current incidence patterns likely reflect
+differences in the prevalence of persistent HPV infec-
+tion and screening activity across the IHS regions.
+Prevalence
+estimates
+for
+recommended
+screening
+(including the Pap test) were the lowest in the South-
+ern Plains,48 the region with elevated cervical cancer
+risk. Close surveillance of cervical cancer will be
+necessary to ensure that high-risk populations are
+reached by both screening and vaccination programs.
+Five-year survival after a diagnosis of cervical cancer
+in the AI/AN population was approximately 70%.8
+Uterine cancer accounted for approximately 30%
+of all female genital tract cancers. AI/AN young adult
+women were at increased risk for corpus uteri (uter-
+ine) cancer in the East and Southwest. Risk factors
+for uterine cancer include elevated or prolonged ex-
+posure to unopposed estrogen, including estrogen
+replacement therapy, obesity, early menarche, nulli-
+parity, and a history of polycystic ovary syndrome.30
+The finding that AI/AN young adult women were at
+elevated risk for uterine cancer is somewhat incon-
+sistent with an earlier study that showed that AI/AN
+women of all ages had lower uterine cancer risk than
+NHW females in New Mexico.49 The extent to which
+this finding reflects the geographic variability in uter-
+ine cancer risk or represents a new and increasing
+risk
+of
+uterine
+cancer
+in
+the
+AI/AN
+population
+requires further investigation. Five-year survival after
+a diagnosis of uterine cancer in the AI/AN popula-
+tion was approximately 77%.8
+Malignant
+germ
+cell
+tumors
+of
+the
+testis
+accounted for approximately 90% of all male genital
+cancers in this age group. The risk was uniformly
+lower among AI/AN young adult males than among
+NHW young adult males. Apart from a history of
+undescended testicle, few if any modifiable risk fac-
+tors have been identified for testis cancer.50 Testis
+Cancer in AI/AN Young Adults/Weir et al
+1163
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cancer is often curable, as evidenced by the finding
+that 5-year relative survival in AI/AN males was 90%.8
+The overall burden of prostate cancer was lower
+in AI/AN young adult males than in NHW young
+adult males; however, the case counts were too small
+to allow calculation of regional incidence rates.
+Urinary System
+Cancers of the urinary system accounted for approxi-
+mately 5% of all cancers diagnosed in AI/AN young
+adults. Compared with NHW young adult males, AI/
+AN males were at elevated risk for renal (kidney) can-
+cer. Other studies have reported elevated risks for kid-
+ney cancer among the AI/AN population,3,30 with
+some analyses reporting that the AI/AN population as
+a whole has the highest rates of kidney and renal pel-
+vis cancers in the US.51 The current study found that
+AI/AN young adult males had an elevated risk for kid-
+ney cancer in the Southern Plains and Southwest. This
+finding is consistent with a concurrent study that has
+shown wide variability in incidence rates for kidney
+cancer across IHS regions.52 Cigarette smoking and
+obesity are well-documented risk factors for kidney
+cancer, whereas diets that include fruits and vegeta-
+bles and physical activity may decrease risk.30 Five-
+year survival after a diagnosis of kidney cancer in the
+AI/AN population was approximately 66%.8
+Endocrine Cancer
+Cancers
+of
+the
+endocrine
+system
+accounted
+for
+approximately 12% of all cancers diagnosed in AI/AN
+young adult females and approximately 3% of can-
+cers diagnosed in AI/AN young adult males. Essen-
+tially all endocrine cancers in AI/AN young adults
+were thyroid cancers. Incidence rates were uniformly
+lower in AI/AN young adult females than for NHW
+females. To our knowledge, apart from exposure to
+ionizing radiation, little is known about risk factors
+for thyroid cancer. Recent increases in thyroid cancer
+incidence throughout the US may be because of
+increased detection of subclinical papillary thyroid
+cancer, rather than to a true increase in the inci-
+dence of the cancer.53 Additional research is required
+for knowing whether the lower cancer burden in the
+AI/AN young adult population reflects lower incidence
+of thyroid cancer or lower detection of subclinical can-
+cers and, as such, was related to access to healthcare.
+Five-year survival after a diagnosis of thyroid cancer in
+the AI/AN population was greater than 90%.8
+Lymphoma
+Lymphomas accounted for less than 1% of all can-
+cers diagnosed in AI/AN young adults, and NHL
+accounted for the majority (65%) of these lympho-
+mas. Compared with the NHW young adult popula-
+tion, the overall burden of lymphoma, including
+Hodgkin lymphoma and NHL, was lower in AI/AN
+young adults. AI/AN young adult males had a lower
+risk of NHL in the Pacific Coast and Southwest. Risk
+factors for NHL include immune suppression and ex-
+posure to certain infectious agents (eg, human im-
+munodeficiency
+virus
+[HIV],
+H.
+pylori,
+etc)
+and
+chemicals.30 Five-year survival after a diagnosis of NHL
+in the AI/AN population was approximately 46%.8
+Other Cancers
+The overall burden of melanoma was uniformly
+lower in AI/AN young adults than for NHW young
+adults. Likewise, the overall burden of respiratory
+cancers appeared lower in the AI/AN young adult
+population than for the NHW young adult popula-
+tion despite the finding that the prevalence of smok-
+ing was higher overall in the AI/AN population.48
+The majority of respiratory system cancers in AI/AN
+young adults (88%) were cancers of the lung and
+bronchus (lung). The Southwest had a statistically
+significant lower lung cancer burden both in young
+males and females. This finding supports the obser-
+vation that current smoking prevalence estimates
+(cigarette smoking being a well-established risk fac-
+tor for lung cancer30) were lower in this region than
+in other IHS regions.48
+The burden of leukemia was elevated among AI/
+AN young adult males in the Southern Plains. Risk
+factors for leukemia include genetic abnormalities
+(eg, Down syndrome), cigarette smoking, exposure to
+chemicals, including benzene, and ionizing radiation.
+Kaposi sarcoma accounted for <1% of all cancers
+diagnosed in AI/AN young adults. Risk was elevated
+for AI/AN young adult males in the Pacific Coast.
+Kaposi sarcoma is associated with infection with
+HIV.32 HIV infection was higher in AI/AN young
+adults than in NHW young adults.54
+Living With Cancer
+The 5-year relative survival rates for many cancers of
+primary importance in the AI/AN population, includ-
+ing breast cancer and cancers of the digestive, geni-
+tal, and urinary systems, are lower than the rates in
+the NHW population.8 This finding suggests that AI/
+AN males and females may have limited access to
+diagnostic services or evidenced-based treatments9
+including clinical trails. AI/AN males and females
+also have reportedly lower participation in clinical
+trials.55 Participants in clinical trials have higher edu-
+1164
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cation and income,56 whereas the AI/AN populations
+as a whole have less educational attainment, lower
+incomes, less insurance coverage, and less access to
+personal healthcare providers.48 Even for those can-
+cers with higher survival rates in the AI/AN popula-
+tion (thyroid, testis, uterine), the consequence of
+such a diagnosis can be great. These young males
+and females have most of their potential years of life
+ahead of them and, as a consequence of their diag-
+nosis, may spend decades living with the physical,
+reproductive, social, emotional, and spiritual effects
+of a cancer diagnosis and treatment or have their
+lives tragically shortened.10,11,57 A diagnosis of cancer
+in a young adult is rare and healthcare practitioners
+need to be aware of the unique cancer burden in
+this population so that they can respond promptly
+and appropriately to the first signs and symptoms of
+disease.
+Many of the cancer patterns that characterize
+the AI/AN population overall are apparent among
+young adults. Elevated risk may result from the
+higher prevalence of known and suspected risk factors.
+Data from the Behavioral Risk Factor Surveillance
+System (BRFSS) suggests that AI/AN populations as a
+whole have high prevalence of diabetes and obesity
+(colorectal, kidney, liver, and uterine cancers) and
+excessive alcohol (colorectal and liver cancer) and
+tobacco (colorectal, kidney, and liver cancer)48 con-
+sumption. In addition, the AI/AN population may be at
+greater risk for infection and/or it may be infected at
+an earlier age with HBV, HCV, HIV, and H. pylori than
+other racial groups.53,58,59 How these risk factors oper-
+ate individually or synergistically within the genetic
+composition of the AI/AN population is an area for
+research. In the meantime, cancer control planners
+should continue to address modifiable risk factors in
+the AI/AN population and in particular the young
+adult population as changes in the cancer burden
+because of changes in risk factor prevalence may first
+become apparent in this population. In particular,
+AI/AN adolescent girls and young adult females
+should be receiving HPV immunization and Pap
+screening, as indicated, as part of routine prevention
+healthcare.
+Strategies
+for accomplishing
+this and
+other cancer control measures must address the
+unique social, cultural, and lifestyle aspects of the
+AI/AN young adult population.60
+Several cancers described in this report (CRC in
+the Southern and Northern Plains, and Kaposi sar-
+coma in the Pacific Coast) may denote sentinel
+events and foretell an increasing cancer burden in
+the AI/AN young adult population. The extent to
+which these findings reflect the geographic variability
+in cancer risk, or represent a new and increasing risk
+of cancer in the AI/AN population, requires further
+investigation. Monitoring of incidence rates among
+AI/AN young adults may help elucidate the relation
+between these cancers and known and suspected
+risk factors, and such monitoring will be necessary to
+ensure that high-risk populations are being reached
+by cancer control efforts.
+REFERENCES
+1.
+Jones DS. The persistence of American Indian health dis-
+parities. Am J Public Health. 2006;96:2122-2134.
+2.
+Puukka E, Stehr-Green P. Becker TM. Measuring the health
+status gap for American Indians/Alaska Natives: getting
+closer to the truth. Am J Public Health. 2005;95:838-843.
+3.
+Paltoo DN, Chu KC. Patterns in cancer incidence among
+American
+Indians/Alaska
+Natives,
+United
+States,
+1992-
+1999. Public Health Rep. 2004;119:443-451.
+4.
+Espey DK, Wu XC, Swan J, et al. Annual report to the
+nation on the status of cancer, 1975-2004, featuring cancer
+in American Indians and Alaska Natives. Cancer. 2007;110:
+2119-2152.
+5.
+Kelly JJ, Lanier AP, Alberts S, Wiggins CL. Differences in
+cancer incidence among Indians in Alaska and New Mex-
+ico and U.S. Whites, 1993-2002. Cancer Epidemiol Biomar-
+kers Prev. 2006;15:1515-1519.
+6.
+Espey D, Paisano R, Cobb N. Regional patterns and trends
+in cancer mortality among American Indians and Alaska
+Natives, 1990-2001. Cancer. 2005;103:1045-1053.
+7.
+Cobb N, Paisano RE. Patterns of cancer mortality among
+Native Americans. Cancer. 1998;83:2377-2383.
+8.
+Ries LAG, Young JL, Keel GE, Eisner MP, Lin YD, Horner
+M-J,
+eds.
+SEER
+Survival
+Monograph:
+Cancer
+Survival
+Among Adults, U.S. SEER Program, 1988-2001. Patients and
+Tumor Characteristics. NIH Pub. No. 07-621556. Bethesda,
+MD: National Cancer Institute, SEER Program; 2007.
+9.
+Swan J, Edwards BK. Cancer rates among American Indians
+and Alaska Natives: is there a national perspective? Cancer.
+2003;98:1262-1272.
+10. Cancer Care Ontario. Cancer in Young Adults in Canada.
+Toronto: Cancer Care Canada; 2006. Available at: http://
+www.phac-aspc.gc.ca/publicat/cyac-cjac06/index.html
+Accessed January 15, 2008.
+11. Marrett LD, Frood J, Nishri D, Ugnat AM, and the CYAC
+Working Group. Cancer incidence in young adults in Can-
+ada: preliminary results of a cancer surveillance project.
+Chronic Dis Canada. 2006;23:58-64.
+12. Doll R. Progress against cancer: an epidemiologic assess-
+ment. The 1991 John C. Cassel Memorial Lecture. Am J
+Epidemiol. 1991;134:675-688.
+13. U.S. Cancer Statistics Working Group. United States Cancer
+Statistics: 2004 Incidence. Atlanta: Department of Health
+and Human Services, Centers for Disease Control and Pre-
+vention and National Cancer Institute; 2007.
+14. Espey DK, Wiggins C, Jim MA, Miller BA, Johnson CJ,
+Becker TM. Methods for improving cancer surveillance
+data in American Indian and Alaska Native populations.
+Cancer. 2008; 113(5 suppl):1120-1130.
+15. Havener L, Hulstrom D. Data Standards and Data Diction-
+ary. Version 11. 10th ed. In: North American Association of
+Central Cancer Registries, ed. Standards for Cancer Regis-
+tries. Springfield, IL: North American Association of Central
+Cancer Registries; 2004.
+Cancer in AI/AN Young Adults/Weir et al
+1165
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+16. Fritz A, Percy C, Jack A. International classification of dis-
+eases of oncology. Geneva: World Health Organization; 2000.
+17. Ries L, Melbert D, Krapcho M, et al. SEER Cancer Statistics
+Review, 1975-2004. Available at: http://seer.cancer.gov/csr/
+1975_2004/, based on November 2006 SEER data submis-
+sion. Bethesda, MD: National Cancer Institute; 2007.
+18. Steliarova-Foucher E, Stiller C, Lacour B, Kaatsch P. Inter-
+national Classification of Childhood Cancer, third edition.
+Cancer. 2005;103:1457-1467.
+19. Bleyer A, O’Leary M, Barr R, Ries LAG, eds. Cancer Epide-
+miology in Older Adolescents and Young Adults 15 to 29
+Years of Age, Including SEER Incidence and Survival: 1975-
+2000. NIH Pub. No. 06-5767. Bethesda, MD: National Can-
+cer Institute; 2007.
+20. Barr RD, Holowaty EJ, Birch JM. Classification schemes for
+tumors diagnosed in adolescents and young adults. Cancer.
+2006;106:1425-1430.
+21. SAS Institute Inc. The SAS system for Windows. Version
+9.1. Cary, NC: SAS Institute Inc; 1999.
+22. Centers for Disease Control and Prevention. LinkPlus: a
+suite of publicly available software programs for collecting
+and processing cancer registry data. Available at: http://www.
+cdc.gov/cancer/npcr/tools/registryplus/lp.htm. Accessed July
+2008.
+23. National Center for Health Statistics. Estimates of the July
+1, 2000 and July 1, 2001, United States resident population
+from the Vintage 2001 postcensal series by year, age, sex,
+race, and Hispanic origin, prepared under a collaborative
+arrangement with the U.S. Census Bureau. 2003. Available
+at:
+http://www.cdc.gov/nchs/about/major/dvs/popbridge/
+popbridge/htm. Accessed July 2005.
+24. National Cancer Institute. Surveillance, Epidemiology, and
+End Results (SEER) Program. Statistical Resources. U.S.
+population
+data
+1969-2004.
+Available
+at:
+http://seer.
+cancer.gov/resources. Accessed June 2005.
+25. Surveillance Research Program, National Cancer Institute
+SEER*Stat software. Available at: http://www.seer.cancer.
+gov/ seerstat. Accessed June 2005.
+26. Tiwari RC, Clegg LX, Zou Z. Efficient interval estimation for
+age-adjusted cancer rates. Stat Methods Med Res. 2006;15:
+547-569.
+27. Fay MP, Feuer EJ. Confidence intervals for directly standar-
+dized rates: a method based on the gamma distribution.
+Stat Med. 1997;16:791-801.
+28. Denny CH, Holtzman D, Cobb N. Surveillance for health
+behaviors of American Indians and Alaska Natives. Find-
+ings from the Behavioral Risk Factor Surveillance System,
+1997-2000. MMWR Surveill Summ. 2003;52:1-13.
+29. Ogunwole SU. We the People: American Indians and Alaska
+Natives in the United States. In: Census 2000 Special
+Reports
+(CENSR-28);
+2006.
+Available
+at:
+http://www.
+census.gov/prod/2006pubs/censr-28.pdf. Accessed July 2008.
+30. American Cancer Society. Cancer Facts and Figures 2007.
+Atlanta: American Cancer Society; 2007.
+31. Wiggins CL, Becker TM, Key CR, Samet JM. Stomach cancer
+among New Mexico’s American Indians, Hispanic whites,
+and non-Hispanic whites. Cancer Res. 1989;49: 1595-1599.
+32. American Cancer Society. Cancer Facts and Figures 2005.
+Atlanta: American Cancer Society; 2005.
+33. Gonzalez CA, Pera G, Agudo A, et al. Fruit and vegetable
+intake and the risk of stomach and oesophagus adenocar-
+cinoma in the European Prospective Investigation into
+Cancer and Nutrition (EPIC-EURGAST). Int J Cancer. 2006;
+118:2559-2566.
+34. Gonzalez CA, Jakszyn P, Pera G, et al. Meat intake and risk
+of stomach and esophageal adenocarcinoma within the
+European Prospective Investigation Into Cancer and Nutri-
+tion (EPIC). J Natl Cancer Inst. 2006;98:345-354.
+35. Perdue DG, Perkins C, Jackson-Thompson J, et al. Regional
+differences in colorectal cancer incidence, stage, and sub-
+site among American Indians and Alaska Natives, 1999-
+2004. Cancer. 2008;113(5 suppl):1179-1190.
+36. Chao A, Gilliland FD, Hunt WC, Bulterys M, Becker TM,
+Key CR. Increasing incidence of colon and rectal cancer
+among Hispanics and American Indians in New Mexico
+(United States), 1969-94. Cancer Causes Control. 1998;9:
+137-144.
+37. Zumkeller N, Brenner H, Zwahlen M, Rothenbacher D.
+Helicobacter pylori infection and colorectal cancer risk: a
+meta-analysis. Helicobacter. 2006;11:75-80.
+38. Yang YX, Hennessy S, Lewis JD. Type 2 diabetes mellitus
+and the risk of colorectal cancer. Clin Gastroenterol Hepa-
+tol. 2005;3:587-594.
+39. Jim M, Perdue D, Richardson L, et al. Primary liver cancer
+incidence among American Indian and Alaska Natives,
+United States, 1999-2004. Cancer. 2008;113(suppl).
+40. Chung YH, Di Bisceglie AM, McMahon BJ, et al. Hepatocel-
+lular carcinoma not related to hepatitis B virus infection
+among Alaska natives. Int J Circumpolar Health. 1999;58:
+208-213.
+41. Lanier AP, McMahon BJ, Alberts SR, Popper H, Heyward
+WL. Primary liver cancer in Alaskan natives, 1980-1985.
+Cancer. 1987;60:1915-1920.
+42. El-Serag HB. Hepatocellular carcinoma: recent trends in the
+United States. Gastroenterology. 2004;127(5 suppl 1):S27-34.
+43. El-Serag HB, Hampel H, Javadi F. The association between
+diabetes and hepatocellular carcinoma: a systematic review
+of epidemiologic evidence. Clin Gastroenterol Hepatol. 2006;
+4:369-380.
+44. Richardson LC, Pollack LA. Diabetes and cancer—a review.
+Nat Clin Pract Rev Oncol. 2005;2:6.
+45. Lanier AP, Holck P, Ehrsam Day G, Key C. Childhood
+cancer among Alaska Natives. Pediatrics. 2003;112:e396-
+e403.
+46. Wingo PW, King J, Swan J, et al. Breast cancer incidence
+among American Indian and Alaska Native Women: US,
+1999-2004. Cancer. 2008;113(5 suppl):1191-1202.
+47. Lanier AP. Cancer incidence in Alaska Natives: comparison
+of 2 time periods, 1989-93 vs. 1969-73. Cancer. 1998;83:
+1815-1817.
+48. Steele CB, Cardinez, Richardson LC, Tom-Orme, Shaw K.
+Surveillance for health behaviors in American Indians and
+Alaska Natives—findings from the Behavioral Risk Factor
+Surveillance System, 2000-2006. Cancer. 2008;113(5 suppl):
+1131-1141.
+49. Schiff M, Key CR, Gilliland FD, Becker TM. Ethnic differ-
+ences in uterine corpus cancer incidence and mortality in
+New Mexico’s American Indians, Hispanics and non-His-
+panic whites. Int J Epidemiol. 1997;26:249-255.
+50. Garner MJ, Turner MC, Ghadirian P, Krewski D. Epidemiol-
+ogy of testicular cancer: an overview. Int J Cancer. 2005;
+116:331-339.
+51. [No authors listed.] Stat bite: kidney cancer incidence,
+2000-2003. J Natl Cancer Inst. 2006;98:1181.
+52. Wilson RT, Richardson LC, Kelly JJ, Lanier AP, Jim MA,
+Kaur J. Cancers of the urinary tract among American
+Indians and Alaska Natives in the United States, 1994–
+2004. Cancer. 2008;113(5 suppl):1213-1224.
+1166
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+53. Davies L, Welch G. Increasing incidence of thyroid cancer
+in the United States, 1973-2002. JAMA. 2006;295:2164-2167.
+54. Centers
+for
+Disease
+Control.
+HIV/AIDS
+Surveillance
+Report, 2005. Vol 17. Revised ed. Atlanta: US Department
+of Health and Human Services, Centers for Disease Control;
+2007:1-46.
+55. Burhansstipanov L. Overcoming psycho-social barriers to
+Native American cancer screening research. In: Conference
+Summary: Recruitment and Retention of Minority Partici-
+pants in Clinical Cancer Research. NIH Pub No. 96-4182.
+Bethesda, MD: National Cancer Advisory Board, National
+Cancer Institute, US Department of Health and Human
+Services; 1996:109-127.
+56. Brawley O. Recruitment of minorities into clinical trials. In:
+Conference Summary: Recruitment and Retention of Mi-
+nority Participants in Clinical Cancer Research. NIH Pub
+No. 96-4182. Bethesda, MD: National Cancer Advisory
+Board, National Cancer Institute, US Department of Health
+and Human Services; 1996.
+57. Richardson LC, Wingo PA, Zack MM, Zahran HS, King JB.
+Health-related quality of life (HRQOL) in cancer survivors
+between 20-64: population-based estimates from the Be-
+havioral Risk Factor Surveillance System (BRFSS). Cancer.
+2008;112:1380-1389.
+58. Rawls RA, Vega KJ. Viral hepatitis in minority America.
+J Clin Gastroenterol. 2002;39:144-151.
+59. Sinha SK, Martin B, Sargent M, McConnell JP, Bernstein CN.
+Age at acquisition of Helicobacter pylori in a pediatric Cana-
+dian First Nations population. Helicobacter. 2002;7:76-85.
+60. Call KT, McApline DD, Johnson PJ, et al. Barriers to care
+among American Indians in public health care programs.
+Med Care. 2006;44:595-600.
+Cancer in AI/AN Young Adults/Weir et al
+1167
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23731 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

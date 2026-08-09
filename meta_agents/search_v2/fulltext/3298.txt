@@ -1,0 +1,1797 @@
+record_id=3298 pmid=16933057 doi=10.1007/s10552-006-0045-3
+SOURCE: manual-pdf
+TITLE: Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000
+
+Abstract
+Objective
+Current and comprehensive data on cancer
+incidence in US Latinos has been limited.
+Methods
+Using a standardized approach to uniformly
+assign Hispanic/Latino race/ethnicity to cancer records,
+data from 15 central cancer registries, representing
+more than 85% of the US Latino population, were
+included in the analysis. Average annual age-adjusted
+incidence rates and standard errors were calculated for
+Hispanic, non-Hispanic white and non-Hispanic black
+males and females. To compare cancer incidence
+among Hispanic and non-Hispanic populations, stan-
+dardized incidence ratios (SIRs) also were calculated.
+Results
+Latino populations had overall lower inci-
+dence for all cancers combined and the four leading
+cancers (breast, prostate, lung and colorectal) than
+non-Hispanic populations, however, cancers of lesser
+impact in non-Hispanic populations (liver, gallbladder,
+stomach, penis and cervix) were more commonly
+diagnosed among Latinos.
+Conclusions
+Understanding the patterns of cancer
+incidence in this diverse racial/ethnic minority group
+can serve to both stimulate research into the unique
+behaviors, exposures and genetics that drive cancer
+risk among Latinos and to direct prevention and con-
+trol efforts tailored to this population.
+Keywords
+Cancer incidence Æ Hispanic/Latino
+populations
+Introduction
+The 2000 US census clearly conﬁrmed the Hispanic/
+Latino population as the nation’s fastest growing
+minority group. While the US population has grown
+by 13% since the 1990 census, the Latino population
+has grown by 58% and now comprises approximately
+13% of the total US population, a proportion similar
+to that of African-Americans [1]. One of the chal-
+lenges to providing cancer incidence data for this
+population has been the lack or inconsistency of
+methods used by population-based cancer registries to
+identify Latinos among reported cancer cases. Meth-
+ods used to assign Hispanic/Latino ethnicity have in-
+cluded
+one
+or
+a
+combination
+of
+the
+following
+approaches:
+medical
+record
+notation,
+birthplace
+information, death certiﬁcates, race, visual cues or
+identiﬁcation, self-identiﬁcation in research studies
+used to supplement registry information, and use of
+surnames and maiden names to identify Latino heri-
+tage. Many registries did not use any protocol and did
+not produce information about Latino populations in
+their registry [2].
+Therefore, in order to address the need for reliable
+and comprehensive national cancer incidence data for
+Latinos, it is necessary to ﬁrst develop a standardized
+approach to Latino identiﬁcation in cancer registry
+S. E. Carozza (&)
+Department of Epidemiology & Biostatistics, Texas A&M
+University Health Science Center School of Rural Public
+Health, 3000 Briarcrest Drive, Suite 310, Bryan, TX 77802,
+USA
+e-mail: scarozza@srph.tamhsc.edu
+H. L. Howe
+North American Association of Central Cancer Registries,
+2121 West White Oaks Drive, Springﬁeld, Illinois 62704,
+USA
+Cancer Causes Control (2006) 17:1067–1075
+DOI 10.1007/s10552-006-0045-3
+123
+ORIGINAL PAPER
+Patterns of cancer incidence among US Hispanics/Latinos,
+1995–2000
+Susan E. Carozza Æ Holly L. Howe
+Received: 22 September 2005 / Accepted: 29 May 2006
+ Springer Science+Business Media B.V. 2006
+
+records. To that end, the North American Association
+of Central Cancer Registries (NAACCR), a profes-
+sional
+organization
+that,
+among
+other
+activities,
+develops uniform data standards for cancer registration
+and certiﬁes population-based registries for data qual-
+ity for incidence statistics, convened an expert panel to
+develop
+a
+standard
+Hispanic/Latino
+identiﬁcation
+protocol for use by its member registries. This protocol
+was applied by all registries responding to a special
+NAACCR call for data to produce Latino cancer
+incidence rates [3]. This report is based on these NA-
+ACCR data, which represent the ﬁrst comprehensive
+national cancer incidence rates for the US Hispanic/
+Latino population.
+Materials and methods
+Participating registries
+In April 2003, NAACCR issued a call for data from its
+US member registries, requesting they submit cancer
+data for diagnosis years 1995 through 2000 for the
+purpose of generating national cancer incidence sta-
+tistics for Hispanic/Latino, non-Hispanic white and
+non-Hispanic black populations. Fifteen population-
+based central cancer registries, including those with the
+largest Latino populations, met the NAACCR criteria
+for data completeness and quality (i.e. silver or gold
+certiﬁcation levels) for inclusion in the combined can-
+cer statistics for Latino populations presented in this
+report. Fourteen state central cancer registries (Ari-
+zona, California, Colorado, Florida, Idaho, Illinois,
+Iowa, New Jersey, New Mexico, New York, North
+Carolina, Texas, Washington, and Wyoming) partici-
+pated, as did one metropolitan area (Detroit, Michi-
+gan). The data from these registries were used for the
+comparison white and black non-Hispanic populations
+as well.
+NAACCR best practice guideline for identiﬁcation
+of Hispanic/Latino persons
+Hispanic ethnicity was assigned to the cancer cases
+through the standardized use of the NAACCR His-
+panic Identiﬁcation Algorithm (NHIA), the details of
+which are available in the ﬁnal report of the NA-
+ACCR Expert Panel on Hispanic Identiﬁcation [4].
+Brieﬂy, NHIA uses a combination of NAACCR
+variables, including Spanish/Hispanic origin, birth-
+place, race, surname, and maiden name, to directly or
+indirectly classify cases as Hispanic/Latino for analytic
+purposes. Cases reported as having Spanish/Hispanic
+origin (as indicated by a standard NAACCR data
+element
+reported
+by
+all
+member
+registries)
+are
+directly identiﬁed as Hispanic in the dataset. Cases
+reported as non-Spanish/non-Hispanic, Spanish by
+surname only, or unknown whether Spanish are
+evaluated
+for
+possible
+Hispanic
+ethnicity
+by
+the
+algorithm through indirect identiﬁcation. The ultimate
+goal of the algorithm is to classify these cases as
+Hispanic or non-Hispanic based on an evaluation of
+the strength of the birthplace, race, and/or surname
+associations with Hispanic ethnicity status. After the
+individual registries have applied NHIA to their
+database, cases not ultimately classiﬁed as Hispanic
+are classiﬁed as non-Hispanic, leaving no cases with
+‘‘unknown’’ Hispanic status, and these data are re-
+ported to NAACCR. Hispanic ethnicity is assigned
+regardless of race of the individual, e.g., a case having
+a race code of black and a positive indicator for
+Hispanic status according to the algorithm would be
+assigned Hispanic ethnicity.
+Statistical analysis
+Rates for Hispanic, non-Hispanic white and non-
+Hispanic black males and females were calculated per
+100,000 population and age-adjusted by the direct
+method to the 2000 US population standard. Hispanic
+rates presented include all races, however, only a
+small number of Hispanic cases had a race code other
+than white. The incidence rates are annual averages
+for the period 1995 through 2000. Estimates of the
+population used for the calculation of rates for the
+US for 1995 through 2000 were obtained from the
+National Cancer Institute (NCI) Surveillance, Epide-
+miology and End Results (SEER) program, based on
+US Bureau of Census population estimates for these
+years. These population estimates represent a modi-
+ﬁcation of the annual time series of population esti-
+mates produced by the Population Estimates Program
+of the Bureau of the Census with support from the
+NCI [5]. The standard error of the difference be-
+tween adjusted cancer incidence rates was used to
+calculate a Z (standard normal) statistic in order to
+evaluate the statistical signiﬁcance of rate differences
+among the populations [6]. To further quantify the
+difference in incidence rates between Hispanic/Latino
+and non-Hispanic males and females, standardized
+incidence ratios (SIRs) were calculated by dividing
+the age-adjusted incidence rate for Hispanics by the
+age-adjusted incidence rate for non-Hispanic white
+and non-Hispanic black populations. Corresponding
+95% conﬁdence intervals for the SIRs also were
+calculated.
+1068
+Cancer Causes Control (2006) 17:1067–1075
+123
+
+Results
+A total of 3,645,670 cancers (all invasive and bladder
+in situ) were diagnosed in the 6 year study period
+(1995–2000) among the central cancer registries com-
+prising the NAACCR US combined areas. Of these,
+306,918 (8.4%) were diagnosed among Hispanic/Latino
+populations, 2,998,532 (82.2%) among non-Hispanic
+white populations, and 340,220 (9.3%) among non-
+Hispanic black populations. The areas covered in the
+NAACCR combined cancer incidence rates used in
+this study represent more than 85% of the total US
+Hispanic/Latino population, however, only 45.2% of
+the US non-Hispanic white population and 47.2% of
+the US non-Hispanic black population is covered by
+the registries providing these data.
+Common cancers in Hispanic/Latino populations
+The leading cancers among Latino males were prostate
+(27.2% of all cancers among Latino males), lung and
+bronchus (11.4%), colorectal (11.1%), non-Hodgkin
+lymphoma (5.6%), and bladder (4.1%). These top ﬁve
+sites accounted for 59.4% of the total cancers diag-
+nosed among Latino males. The leading cancers among
+Latina females were breast (29.2% of all cancers
+among Latina females), colorectal (9.9%), lung and
+bronchus (6.8%), cervix uteri (6.2%), and corpus uteri
+(5.2%). Together, these sites accounted for 57.3% of
+total cancers diagnosed among Latina females.
+Comparison of common cancer sites with non-
+Hispanic populations
+Total cancers
+For the majority of cancer sites, average annual age-
+adjusted cancer incidence rates were statistically sig-
+niﬁcantly lower among Hispanic males and females
+than their non-Hispanic counterparts (Tables 1–3). The
+overall rate for cancer among Latino males was 443.0
+per 100,000, compared to 562.4 per 100,000 among non-
+Hispanic white males and 661.0 per 100,000 among non-
+Hispanic black males. Among Latina females, the
+overall cancer rate was 313.0 per 100,000, compared to
+434.9 among non-Hispanic white females and 391.7 per
+100,000 among non-Hispanic black females.
+Prostate cancer
+Although this was the leading type of cancer diagnosed
+in Latino males, the incidence rate was signiﬁcantly
+lower than the corresponding rate in non-Hispanic
+white (SIR = 0.88) and non-Hispanic black males
+(SIR = 0.55).
+Lung and bronchus cancer
+This cancer was among the top ﬁve cancers diagnosed
+in both Hispanic males and females; however, the
+magnitude of the incidence rates was approximately
+half that of the rates in their non-Hispanic counter-
+parts, a difference that was statistically signiﬁcant.
+Breast cancer (in females)
+Breast cancer was the most commonly diagnosed can-
+cer in Latina females, with an incidence rate of 89.2 per
+100,000. Although a leading cancer, Latina breast
+cancer rates were statistically signiﬁcantly less than
+those of both non-Hispanic white females (SIR = 0.64)
+and non-Hispanic black females (SIR = 0.79).
+Colon cancer
+Colon cancer was the second most common cancer
+diagnosed among Latina females (26.3 per 100,000)
+and the third most common cancer diagnosed among
+Latino males (35.7 per 100,000). Incidence rates for
+both Hispanic males and females were substantially
+lower, however, than those of non-Hispanic males
+and
+females,
+a
+difference
+that
+was
+statistically
+signiﬁcant.
+Cervical cancer
+The incidence rate for cervical cancer was 1.8 times
+higher among Latina females than non-Hispanic white
+females, a statistically signiﬁcant difference, but was
+equivalent to the incidence rate among non-Hispanic
+black females.
+Bladder cancer
+With the exception of non-Hispanic black males
+(SIR = 1.17, 95% CI = 1.12, 1.22), Hispanic incidence
+rates for bladder cancer were statistically signiﬁcantly
+lower than those in non-Hispanic populations.
+Non-Hodgkin lymphoma (NHL)
+A common cancer in Hispanics, NHL incidence rates
+for Latino males (20.1 per 100,000) and Latina females
+(13.6 per 100,000) were statistically signiﬁcantly lower
+than their non-Hispanic white counterparts, but slightly
+higher
+than
+those
+for
+non-Hispanic
+black
+males
+Cancer Causes Control (2006) 17:1067–1075
+1069
+123
+
+Table 1 Incidence ratesa for Hispanic, non-Hispanic white and non-Hispanic black males and females. Selected areas in the US, 1995–
+2000
+Cancer site
+Males
+Females
+Hispanic
+Non-His-
+panic white
+Non-His-
+panic black
+Hispanic
+Non-His-
+panic white
+Non-His-
+panic black
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+All sites
+443.0
+1.25
+562.4
+0.46
+661.0
+1.64
+313.0
+0.84
+434.9
+0.36
+391.7
+0.99
+Oral cavity and pharynx
+12.4
+0.20
+16.8
+0.08
+20.7
+0.27
+4.0
+0.10
+6.8
+0.05
+6.4
+0.13
+Lip
+0.9
+0.06
+2.0
+0.03
+0.1
+0.02
+0.2
+0.02
+0.4
+0.01
+0.1
+0.01
+Tongue
+2.7
+0.09
+4.0
+0.04
+4.5
+0.12
+1.0
+0.05
+1.7
+0.02
+1.3
+0.06
+Major salivary gland
+1.1
+0.06
+1.7
+0.03
+1.1
+0.07
+0.7
+0.04
+0.9
+0.02
+0.9
+0.05
+Floor of mouth
+1.0
+0.05
+1.3
+0.02
+2.0
+0.08
+0.2
+0.02
+0.6
+0.01
+0.5
+0.04
+Gum and other mouth
+1.8
+0.08
+2.2
+0.03
+3.1
+0.10
+0.9
+0.05
+1.4
+0.02
+1.4
+0.06
+Nasopharynx
+0.7
+0.04
+0.7
+0.02
+1.2
+0.06
+0.2
+0.02
+0.3
+0.01
+0.4
+0.03
+Oropharynx
+0.6
+0.05
+0.6
+0.01
+1.3
+0.07
+0.1
+0.02
+0.2
+0.01
+0.3
+0.03
+Hypopharynx
+1.5
+0.07
+1.5
+0.02
+3.0
+0.10
+0.2
+0.02
+0.4
+0.01
+0.5
+0.04
+Digestive system
+108.4
+0.63
+109.9
+0.20
+139.0
+0.76
+69.2
+0.42
+73.2
+0.14
+92.9
+0.49
+Esophagus
+6.0
+0.15
+7.8
+0.05
+13.5
+0.23
+1.5
+0.06
+2.1
+0.02
+4.0
+0.10
+Stomach
+17.3
+0.26
+10.2
+0.06
+19.9
+0.30
+9.0
+0.15
+4.4
+0.04
+10.2
+0.16
+Small intestine
+1.4
+0.07
+1.8
+0.03
+2.9
+0.11
+1.1
+0.05
+1.3
+0.02
+2.0
+0.07
+Colon excluding rectum
+35.7
+0.37
+47.1
+0.13
+53.8
+0.48
+26.3
+0.26
+35.9
+0.10
+43.0
+0.34
+Rectum and rectosigmoid junction
+17.1
+0.24
+19.6
+0.09
+17.3
+0.26
+9.0
+0.15
+11.9
+0.06
+11.4
+0.17
+Anus
+1.0
+0.05
+1.2
+0.02
+1.4
+0.07
+1.3
+0.06
+1.6
+0.02
+1.3
+0.06
+Liver
+12.4
+0.20
+5.2
+0.04
+9.5
+0.19
+4.6
+0.11
+1.9
+0.02
+3.2
+0.09
+Gallbladder
+1.6
+0.08
+0.8
+0.02
+1.0
+0.07
+3.3
+0.09
+1.3
+0.02
+1.8
+0.07
+Pancreas
+11.4
+0.21
+12.7
+0.07
+16.3
+0.26
+9.2
+0.15
+9.7
+0.05
+13.5
+0.19
+Respiratory system
+66.7
+0.50
+104.8
+0.20
+135.5
+0.74
+26.3
+0.25
+61.1
+0.13
+52.7
+0.37
+Larynx
+7.5
+0.16
+8.1
+0.05
+13.1
+0.22
+1.0
+0.05
+1.8
+0.02
+2.5
+0.08
+Lung and bronchus
+56.7
+0.46
+93.5
+0.19
+120.1
+0.70
+24.5
+0.25
+58.2
+0.13
+49.4
+0.36
+Bones and joints
+1.0
+0.05
+1.2
+0.02
+0.9
+0.05
+0.8
+0.04
+0.9
+0.02
+0.7
+0.04
+Soft tissue including heart
+3.1
+0.09
+3.6
+0.04
+3.4
+0.11
+2.4
+0.07
+2.6
+0.03
+2.7
+0.08
+Skin excluding basal and squamous
+7.7
+0.15
+25.8
+0.10
+5.3
+0.12
+4.4
+0.10
+15.4
+0.07
+2.2
+0.07
+Melanoma of the skin
+3.9
+0.11
+22.3
+0.09
+1.1
+0.07
+3.4
+0.08
+14.2
+0.07
+0.9
+0.05
+Breast (excl. in situ)
+1.0
+0.06
+1.5
+0.02
+2.0
+0.09
+89.2
+0.44
+138.7
+0.21
+113.2
+0.53
+Female genital system
+–
+–
+–
+–
+–
+–
+49.3
+0.32
+55.3
+0.13
+51.0
+0.35
+Cervix uteri
+–
+–
+–
+–
+–
+–
+16.0
+0.17
+8.9
+0.06
+15.6
+0.19
+Corpus uteri
+–
+–
+–
+–
+–
+–
+16.1
+0.19
+24.0
+0.09
+18.1
+0.21
+Uterus, NOS
+–
+–
+–
+–
+–
+–
+0.9
+0.05
+0.8
+0.02
+1.6
+0.06
+Ovary
+–
+–
+–
+–
+–
+–
+13.0
+0.17
+17.9
+0.08
+12.0
+0.17
+Male genital system
+140.2
+0.71
+160.3
+0.24
+247.5
+1.01
+–
+–
+–
+–
+–
+–
+Prostate
+135.2
+0.70
+152.8
+0.24
+245.0
+1.01
+–
+–
+–
+–
+–
+–
+Testis
+3.4
+0.06
+6.4
+0.05
+1.2
+0.05
+–
+–
+–
+–
+–
+–
+Penis
+1.4
+0.07
+0.8
+0.02
+1.0
+0.07
+–
+–
+–
+–
+–
+–
+Urinary system
+37.6
+0.37
+59.6
+0.15
+35.5
+0.39
+14.3
+0.19
+19.4
+0.08
+16.0
+0.20
+Bladder (incl. in situ)
+21.2
+0.29
+41.8
+0.13
+18.1
+0.29
+5.4
+0.12
+10.6
+0.05
+7.1
+0.14
+Kidney, renal pelvis
+15.5
+0.22
+16.4
+0.08
+16.7
+0.25
+8.6
+0.14
+8.2
+0.05
+8.4
+0.15
+Ureter
+0.5
+0.05
+1.0
+0.02
+0.3
+0.04
+0.2
+0.03
+0.4
+0.01
+0.2
+0.02
+Eye
+0.6
+0.04
+1.1
+0.02
+0.3
+0.03
+0.4
+0.03
+0.8
+0.02
+0.2
+0.02
+Brain and other nervous system
+6.1
+0.13
+8.9
+0.06
+4.8
+0.12
+4.7
+0.10
+6.4
+0.05
+3.7
+0.09
+Brain
+5.7
+0.12
+8.4
+0.06
+4.3
+0.12
+4.3
+0.09
+5.9
+0.04
+3.2
+0.09
+Endocrine system
+3.3
+0.09
+4.5
+0.04
+2.7
+0.09
+9.5
+0.13
+10.2
+0.06
+6.1
+0.12
+Thyroid
+2.7
+0.08
+3.8
+0.04
+1.9
+0.08
+9.0
+0.13
+9.6
+0.06
+5.4
+0.11
+Lymphomas
+23.0
+0.26
+26.8
+0.10
+20.6
+0.26
+15.6
+0.19
+19.0
+0.08
+13.0
+0.18
+Hodgkin’s disease
+2.9
+0.08
+3.4
+0.04
+2.8
+0.08
+2.0
+0.06
+2.8
+0.03
+1.9
+0.06
+Non-Hodgkin’s lymphoma
+20.1
+0.25
+23.4
+0.09
+17.8
+0.25
+13.6
+0.18
+16.3
+0.07
+11.1
+0.16
+Multiple myeloma
+6.4
+0.15
+6.2
+0.05
+12.3
+0.23
+4.5
+0.10
+4.0
+0.03
+9.7
+0.16
+Leukemias
+11.9
+0.19
+16.5
+0.08
+12.1
+0.22
+7.8
+0.13
+9.7
+0.05
+7.8
+0.14
+Acute lymphocytic
+2.2
+0.05
+1.7
+0.03
+1.0
+0.05
+1.7
+0.05
+1.3
+0.02
+0.7
+0.04
+Chronic lymphocytic
+2.4
+0.10
+5.2
+0.04
+3.8
+0.13
+1.3
+0.06
+2.7
+0.03
+1.9
+0.07
+Acute myeloid
+3.5
+0.11
+4.8
+0.04
+3.5
+0.12
+2.5
+0.07
+3.1
+0.03
+2.6
+0.08
+Chronic myeloid
+2.0
+0.08
+2.1
+0.03
+1.9
+0.08
+1.2
+0.05
+1.2
+0.02
+1.2
+0.05
+1070
+Cancer Causes Control (2006) 17:1067–1075
+123
+
+(SIR = 1.13, 95% CI = 1.09, 1.17) and non-Hispanic
+black females (SIR = 1.23, 95% CI = 1.18, 1.27).
+Stomach cancer
+The incidencerate of stomach cancer among Latino males
+was 1.7 times that of non-Hispanic white males, a
+statistically signiﬁcant difference, but was slightly lower
+than the rate for non-Hispanic black males (SIR = 0.87,
+95% CI = 0.83, 0.91). As with males, the stomach cancer
+incidence rate for Latina females was twice as high as the
+non-Hispanic white female rate, again a statistically signif-
+icant difference, and slightly lower than the non-Hispanic
+black female rate (SIR = 0.88, 95% CI = 0.84, 0.92).
+Table 2 Standardized incidence ratios comparing Hispanic males to non-Hispanic white and non-Hispanic black males. Selected areas
+of the US, 1995–2000
+Rank for
+Hispanics
+Cancer site
+Standardized incidence ratio (95% CI)a
+Hispanic:non-Hispanic
+white
+Hispanic:non-Hispanic
+black
+All sites
+0.79
+(0.78, 0.79)
+0.67
+(0.67, 0.68)
+1
+Prostate
+0.88
+(0.88, 0.89)
+0.55
+(0.54, 0.56)
+2
+Lung and bronchus
+0.61
+(0.60, 0.62)
+0.47
+(0.46, 0.48)
+3
+Colon excl. rectum
+0.76
+(0.74, 0.77)
+0.66
+(0.65, 0.68)
+4
+Bladder (incl. in situ)
+0.51
+(0.49, 0.52)
+1.17
+(1.12, 1.22)
+5
+Non-Hodgkin’s lymphoma
+0.86
+(0.84, 0.88)
+1.13
+(1.09, 1.17)
+6
+Stomach
+1.70
+(1.64, 1.75)
+0.87
+(0.83, 0.91)
+7
+Rectum and rectosigmoid
+0.87
+(0.85, 0.90)
+0.99
+(0.95, 1.03)
+8
+Kidney and renal pelvis
+0.95
+(0.92, 0.97)
+0.93
+(0.89, 0.97)
+9
+Oral cavity and pharynx
+0.74
+(0.71, 0.76)
+0.60
+(0.58, 0.62)
+10
+Liver
+2.38
+(2.30, 2.47)
+1.31
+(1.24, 1.37)
+11
+Leukemia
+0.72
+(0.70. 0.75)
+0.98
+(0.94, 1.03)
+12
+Pancreas
+0.90
+(0.86, 0.93)
+0.70
+(0.67, 0.73)
+13
+Multiple myeloma
+1.03
+(0.98, 1.08)
+0.52
+(0.49, 0.55)
+14
+Brain and other nervous system
+0.69
+(0.66, 0.72)
+1.27
+(1.19, 1.36)
+15
+Esophagus
+0.77
+(0.73, 0.81)
+0.44
+(0.42, 0.47)
+16
+Melanoma of the skin
+0.17
+(0.17, 0.18)
+3.55
+(3.09, 4.06)
+17
+Testis
+0.53
+(0.51, 0.55)
+2.83
+(2.59, 3.10)
+18
+Hodgkin’s disease
+0.85
+(0.80, 0.90)
+1.04
+(0.96, 1.12)
+19
+Thyroid
+0.71
+(0.67, 0.76)
+1.42
+(1.28, 1.57)
+20
+Gallbladder
+2.00
+(1.79, 2.23)
+1.60
+(1.35, 1.89)
+21
+Penis
+1.75
+(1.57, 1.95)
+1.40
+(1.18, 1.66)
+a95% CI: lower bound, upper bound of 95% conﬁdence interval ; Standard incidence ratio (SIR) conﬁdence interval calculation:
+Exponentiate: ln RH  ln RNH  z1:96
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+SE RH
+ð
+Þ=RH
+ð
+Þ2þ SE RNH
+ð
+Þ=RNH
+ð
+Þ2
+q
+where RH is the rate for Hispanic populations and RNH is
+the rate for either non-Hispanic white or non-Hispanic black populations
+Data source: North American Association of Central Cancer Registries ﬁle submissions as of July 2003 from Arizona, California,
+Colorado, Florida, Idaho, Illinois, Iowa, New Jersey, New Mexico, New York, North Carolina, Texas, Washington, Wyoming and
+metropolitan Detroit, Michigan
+Table 1 continued
+Cancer site
+Males
+Females
+Hispanic
+Non-His-
+panic white
+Non-His-
+panic black
+Hispanic
+Non-His-
+panic white
+Non-His-
+panic black
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Rate
+SE
+Other
+0.9
+0.06
+1.4
+0.02
+1.2
+0.07
+0.7
+0.04
+0.8
+0.02
+0.9
+0.05
+Ill-deﬁned & unknown
+13.6
+0.23
+14.9
+0.08
+18.3
+0.28
+10.6
+0.16
+11.4
+0.06
+13.5
+0.19
+aIncidence rates are per 100,000 population and are age-adjusted using the 2000 US population standard
+Data source: North American Association of Central Cancer Registries ﬁle submissions as of July 2003 from Arizona, California,
+Colorado, Florida, Idaho, Illinois, Iowa, New Jersey, New Mexico, New York, North Carolina, Texas, Washington, Wyoming and
+metropolitan Detroit, Michigan
+Cancer Causes Control (2006) 17:1067–1075
+1071
+123
+
+Liver cancer
+The liver cancer incidence rate among Latino males
+was 2.4 times higher than among non-Hispanic white
+males, and 1.3 times higher than among non-Hispanic
+black males, both statistically signiﬁcant differences.
+Similarly, the liver cancer rate for Latina females was
+statistically signiﬁcantly higher than the rate for non-
+Hispanic
+white
+and
+non-Hispanic
+black
+females
+(SIRs = 2.42 and 1.44, respectively).
+Gallbladder cancer
+The incidence rate for gallbladder cancer among La-
+tino males was 2.0 times higher than the non-Hispanic
+white male rate, and 1.6 times higher than the non-
+Hispanic black male rate, both statistically signiﬁcant
+differences. Incidence of gallbladder cancer also was
+statistically signiﬁcantly greater in Latina females, with
+their incidence being 2.5 times higher than the non-
+Hispanic white female rate, and 1.8 times higher than
+the non-Hispanic black female rate.
+Testicular cancer
+The incidence rate for cancer of the testis among
+Latino males (3.4 per 100,000) was approximately half
+that of non-Hispanic white males (6.4 per 100,000),
+however, it was 2.8 times that of non-Hispanic black
+males (1.2 per 100,000), with both differences being
+statistically signiﬁcant.
+Penile cancer
+The incidence rate for cancer of the penis among
+Latino males was 1.8 times higher than non-Hispanic
+white males and 1.4 times higher than non-Hispanic
+black males, with both differences being statistically
+signiﬁcant.
+Ovarian cancer
+The rate of ovarian cancer was statistically signiﬁcantly
+lower
+among
+Latina
+women
+(13.0
+per
+100,000)
+Table 3 Standardized incidence ratios comparing Hispanic females to non-Hispanic white and non-Hispanic black females. Selected
+areas of the US, 1995–2000
+Rank for Hispanics
+Cancer site
+Standardized incidence ratio (95% CI)
+Hispanic:non-Hispanic
+white
+Hispanic:non-Hispanic
+black
+All sites
+0.72
+(0.72, 0.72)
+0.80
+(0.79, 0.80)
+1
+Breast (excl. in situ)
+0.64
+(0.64, 0.65)
+0.79
+(0.78, 0.80)
+2
+Colon excluding rectum
+0.73
+(0.72, 0.75)
+0.61
+(0.60, 0.63)
+3
+Lung and bronchus
+0.42
+(0.41, 0.43)
+0.50
+(0.48, 0.51)
+4
+Corpus uteri
+0.67
+(0.65, 0.69)
+0.89
+(0.86, 0.92)
+5
+Cervix uteri
+1.80
+(1.75, 1.84)
+1.03
+(0.99, 1.06)
+6
+Non-Hodgkin’s lymphoma
+0.83
+(0.81, 0.86)
+1.23
+(1.18, 1.27)
+7
+Ovary
+0.73
+(0.71, 0.75)
+1.08
+(1.04, 1.13)
+8
+Pancreas
+0.95
+(0.92, 0.98)
+0.68
+(0.65, 0.71)
+9
+Stomach
+2.05
+(1.97, 2.12)
+0.88
+(0.84, 0.92)
+10
+Rectum and rectosigmoid
+0.76
+(0.73, 0.78)
+0.79
+(0.76, 0.82)
+11
+Thyroid
+0.94
+(0.91, 0.97)
+1.67
+(1.59, 1.75)
+12
+Kidney and renal pelvis
+1.05
+(1.01, 1.09)
+1.02
+(0.98, 1.07)
+13
+Leukemias
+0.80
+(0.78, 0.83)
+1.00
+(0.95, 1.05)
+14
+Bladder (incl. in situ)
+0.51
+(0.49, 0.53)
+0.76
+(0.72, 0.81)
+15
+Brain and other nervous system
+0.73
+(0.70, 0.77)
+1.27
+(1.19, 1.35)
+16
+Liver
+2.42
+(2.30, 2.55)
+1.44
+(1.34, 1.55)
+17
+Multiple myeloma
+1.13
+(1.07, 1.18)
+0.46
+(0.44, 0.49)
+18
+Oral cavity and pharynx
+0.59
+(0.56, 0.62)
+0.63
+(0.59, 0.67)
+19
+Melanoma of the skin
+0.24
+(0.23, 0.25)
+3.78
+(3.36, 4.25)
+20
+Gallbladder
+2.54
+(2.39, 2.70)
+1.83
+(1.67, 2.01)
+21
+Hodgkin’s disease
+0.71
+(0.67, 0.76)
+1.05
+(0.97, 1.15)
+22
+Esophagus
+0.71
+(0.66, 0.77)
+0.38
+(0.34, 0.41)
+a95% CI: lower bound, upper bound of 95% conﬁdence interval ; Standard incidence ratio (SIR) conﬁdence interval calculation:
+Exponentiate: ln RH  ln RNH  1:96
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+SE RH
+ð
+Þ=RH
+ð
+Þ2þ SE RNH
+ð
+Þ=RNH
+ð
+Þ2
+q
+where RH is the rate for Hispanic populations and RNH is the
+rate for either non-Hispanic white or non-Hispanic black populations
+Data source: North American Association of Central Cancer Registries ﬁle submissions as of July 2003 from Arizona, California,
+Colorado, Florida, Idaho, Illinois, Iowa, New Jersey, New Mexico, New York, North Carolina, Texas, Washington, Wyoming and
+metropolitan Detroit, Michigan
+1072
+Cancer Causes Control (2006) 17:1067–1075
+123
+
+compared to non-Hispanic white women (17.9 per
+100,000), but only slightly higher than the rate for non-
+Hispanic black women (12.0 per 100,000).
+Uterine cancer
+Latina women had a statistically signiﬁcantly lower
+rate of uterine cancer (16.1 per 100,000) than both non-
+Hispanic white (24.0 per 100,000) and non-Hispanic
+black women (18.1 per 100,000).
+Cancers of the buccal cavity and pharynx
+The rate of cancers of the buccal cavity and pharynx
+was statistically signiﬁcantly lower among the Hispanic
+population than among the non-Hispanic population,
+regardless of gender.
+Discussion
+These data indicate that cancer incidence for all cancer
+sites combined is substantially lower among Latino
+males and Latina females than among non-Hispanic
+white and non-Hispanic black males and females, due
+largely to lower incidence of prostate, lung and bron-
+chus, breast, and colon cancers. However, for speciﬁc
+cancers including gallbladder, liver, stomach, cervical,
+penile, testicular, thyroid, and brain cancers and NHL,
+there are patterns of increased incidence among His-
+panic populations as compared to non-Hispanic white
+and/or non-Hispanic black populations. These differing
+patterns of incidence for total and speciﬁc cancers have
+been noted previously in studies of the epidemiology of
+cancer in Hispanic populations; however, the compar-
+isons have been mainly to non-Hispanic white popu-
+lations [7–10]. Seeing several distinct patterns when
+comparing the cancer experience of Hispanic popula-
+tions to non-Hispanic black as well as non-Hispanic
+white populations (i.e., Hispanic rates higher than non-
+Hispanic rates; Hispanic rates higher than non-His-
+panic white but equivalent to non-Hispanic black;
+Hispanic rates intermediate between non-Hispanic
+white and non-Hispanic black) gives added dimension
+to considering the etiology of and prevention strategies
+for these cancers in these populations.
+One pattern seen in these data is the increased
+incidence of liver and gallbladder cancers in Latino
+males and Latina females and of penile cancer in La-
+tino males. Although the greatest excess for these
+cancers is seen in comparison to non-Hispanic white
+males and females, Hispanic rates are also higher than
+those of non-Hispanic black males and females. A
+variety of tumors occur in the liver, but the most
+commonly diagnosed type is hepatocellular carcinoma
+(HCC). Unlike many cancers, there are well-estab-
+lished risk factors for HCC, including chronic infection
+with hepatitis B and C viruses, alcohol consumption
+and cigarette smoking, dietary exposure to aﬂatoxins,
+low intake of antioxidant vitamins and selenium, high
+intake of iron, long-term ingestion of inorganic arsenic
+and occupational exposure to thorotrast and vinyl
+chloride [11, 12]. For gallbladder cancer among North
+American populations in general and Mexican Amer-
+icans in particular, the single strongest risk factor
+identiﬁed to date is a history of cholesterol gallstones, a
+condition more prevalent in women than men. How-
+ever, the risk factors for these stones (obesity, multiple
+pregnancies,
+low
+plasma
+high
+density
+lipoprotein
+(HDL), female hormones and insulin resistance) do
+not account for all observed incidence, leaving a pos-
+sible role for genetic susceptibility. In addition, there is
+accumulating evidence for a role for chronic infection
+in the development of gallbladder cancer [13, 14].
+Studies of the etiology of penile cancer generally
+implicate sexual transmission of an infectious agent,
+with human papillomavirus (HPV) a likely candidate
+[15]. The elevated rates of both penile and cervical
+cancers are consistent with that hypothesis. Higher
+rates of liver, gallbladder and penile cancers in His-
+panics are likely due to a higher prevalence in this
+population of one or more of the identiﬁed risk factors.
+A second interesting pattern seen in these data was
+that for stomach and cervical cancers. For these can-
+cers, incidence rates are higher in Latinos than in non-
+Hispanic white populations but lower or equivalent to
+those in non-Hispanic black populations. In recent
+years, biological as well as epidemiological evidence
+has clearly established the role of HPV as the sexually
+transmitted agent in the etiology of cervical cancer, to
+the point of meriting public health action, possibly
+through HPV testing and vaccination in high risk
+populations [16, 17]. Similarly, an infectious agent,
+Helicobacter pylori, has been implicated in the etiology
+of stomach cancers within the last decade [18, 19].
+Higher infection rates for both HPV and H. pylori
+have been noted in black and Hispanic populations
+when compared to white populations [20, 21].
+A ﬁnal pattern noted in these data was for those
+cancer sites where the highest rate was seen among
+non-Hispanic white males and females, the lowest rate
+was among non-Hispanic black males and females, and
+an intermediate rate was seen for Hispanic males and
+females. The cancers exhibiting this incidence pattern
+included bladder, brain, melanoma, testicular, thyroid
+and NHL. Risk factors for these cancers, where known,
+Cancer Causes Control (2006) 17:1067–1075
+1073
+123
+
+are quite diverse and include a mix of environmental
+and occupational factors [22–26]. Interestingly, how-
+ever, there is a consistent socio-economic gradient
+seen, with higher income associated with higher risk,
+for brain, NHL and testicular cancers; this gradient
+may also exist for thyroid cancers, but is less well
+established.
+While NHIA is the best standardized method
+available to date for identifying Hispanic ethnicity
+indirectly
+in
+population-based
+cancer
+surveillance
+programs, some limitations should be noted. The
+indirect method of the algorithm relies heavily on the
+Spanish surname list from the 1990 census as well as
+birthplace and other information (such as maiden
+name) recorded in the medical record. In general, use
+of surname without additional information such as self-
+reported ethnicity, maiden name, or birthplace may
+result in misclassiﬁcation. Use of the surname list may
+not be appropriate for populations in areas of the US
+that were once occupied by Spain and have adopted
+Hispanic surnames but are not actually Hispanic by
+inheritance. Similarly, someone with a reported birth-
+place of a country of largely Hispanic population may
+not personally have a Hispanic heritage. Additionally,
+the surname portion of the algorithm has been found
+to be overly sensitive in some counties having sparse
+Hispanic populations. NHIA has since been modiﬁed
+such that registries can tailor the surname portion to
+address this problem for counties that meet a set
+threshold for percent Hispanic population. The mag-
+nitude of the misclassiﬁcation resulting from these
+scenarios, however, is likely to be small and should not
+overly impact the interpretation of these data. One
+purpose of studying cancer incidence by race/ethnicity
+is to reveal differences in disease risk among distinct
+populations and, ultimately, to identify risk factors
+associated with different cultures. NHIA aids in this
+goal by capturing individuals living in a heavily His-
+panic environment as the ones of interest when esti-
+mating the cancer burden of Hispanics.
+Despite some potential limitations in the algorithm,
+the use of a standardized approach to the identiﬁcation
+of Hispanic/Latino individuals in population-based
+cancer registry data for a large proportion of the US
+Hispanic/Latino population is a strength of this study.
+The size of the Hispanic/Latino population included in
+the study area should result in more reliable estimates
+of cancer incidence than has been available previously.
+As these data suggest, the pattern of cancer incidence
+among the Hispanic population differs sharply from
+that of other racial groups in the United States. Cancer
+prevention among the Hispanic population will require
+culturally-relevant
+strategies
+that
+can
+address
+a
+complex mix of environmental, cultural and socio-
+economic risk factors. Of particular interest is the
+higher incidence among Hispanic men and women of
+cancers having an infectious etiology. This could be a
+reﬂection of either the impact of recent immigrants on
+this population or the overall lower socio-economic
+conditions of this segment of the US population—or
+both. The picture will be clearer, and more complex,
+when the uniform NAACCR algorithm for assigning
+Hispanic ethnicity to population-based cancer inci-
+dence data begins to provide national cancer statistics
+for Hispanic subgroups with potentially unique etiol-
+ogies (e.g. Mexican, Cuban, South and Central Amer-
+ican, Puerto Rican) and for Hispanic populations in
+differing regions of the United States.
+Acknowledgments
+This project has been funded in part with
+federal funds from the National Cancer Institute, National
+Institutes of Health, Department of Health and Human Services,
+under Contract No. HHSN261200444001C and ADB No. N02-
+PC-44401. We are grateful to Information Management Services,
+Inc. for their statistical support.
+References
+1. ADNET (2004) Data on race and Hispanic origin. US
+Census
+Bureau
+http://www.census.gov/mso/www/pres_lib/
+racedata/sld001.htm. Accessed: July 6, 2004
+2. O’Malley C, Hu KU, West D (2001) North American
+Association of Central Cancer Registries: Race and Ethnic-
+ity Identiﬁer Assessment Project 2001. Available from URL
+http://www.naaccr.org/ﬁlesystem/pdf/FinalReportof-
+June82001meeting.pdf
+3. Howe HL, Carozza SE, O’Malley C, et al (1995–2000)
+Cancer in U.S. Hispanics/Latinos. North American Associ-
+ation of Central Cancer Registries: http://www.naaccr.org/
+index.asp?Col_SectionKey = 11&Col_ContentID = 219
+4. NAACCR (2003) Report of the NAACCR Expert Panel on
+Hispanic Identiﬁcation 2003. North American Association of
+Central Cancer Registries: http://www.naaccr.org/ﬁlesystem/
+pdf/Hispanic_Identiﬁcation_Report_2003.pdf
+5. SEER (2004) Population estimates used in NCI’s SEER*Stat
+software. NCI Surveillance Epidemiology and End Results
+Program
+http://www.seer.cancer.gov/popdata/methods.pdf.
+Accessed: June 30, 2004
+6. Ries L, Eisner M, Kosary C, et al (1975–2000) SEER Cancer
+statistics review. National Cancer Institute: http://seer.can-
+cer.gov/csr/1975_2000
+7. Canto MT, Chu KC (2000) Annual cancer incidence rates for
+Hispanics in the United States: surveillance, epidemiology,
+and end results, 1992–1996. Cancer 88(11):2642–2652
+8. O’Brien K, Cokkinides V, Jemal A, et al (2003) Cancer sta-
+tistics for Hispanics, 2003. CA Cancer J Clin 53(4):208–226
+9. Miller BA, Kolonel LN, Bernstein L, et al (eds) (1996) Ra-
+cial/ethnic patterns of cancer in the United States 1988–1992.
+NIH Pub. No. 96-4104, Bethesda, MD
+10. Trapido EJ, Burciaga Valdez R, Obeso JL, Strickman-Stein
+N, Rotger A, Pe´rez-Stable EJ (1995) Epidemiology of cancer
+among Hispanics in the United States. J Natl Cancer Inst
+Monogr 18:17–28
+1074
+Cancer Causes Control (2006) 17:1067–1075
+123
+
+11. el-Serag HB (2001) Epidemiology of hepatocellular carci-
+noma. Clin Liver Dis 5(1):87–107, vi
+12. Chen CJ, Yu MW, Liaw YF (1997) Epidemiological char-
+acteristics and risk factors of hepatocellular carcinoma.
+J Gastroenterol Hepatol 12(9–10):S294–S308
+13. Lazcano-Ponce EC, Miquel JF, Munoz N, et al (2001) Epi-
+demiology and molecular pathology of gallbladder cancer.
+CA Cancer J Clin 51(6):349–364
+14. Fraumeni JF Jr, Devesa SS, McLaughlin JA, Stanford JL
+(1996) Biliary tract cancer. In: Fraumeni JF Jr (ed) Cancer
+epidemiology and prevention. Oxford University Press, New
+York, NY, pp 794–805
+15. Dillner J, von Krogh G, Horenblas S, Meijer CJ (2000)
+Etiology of squamous cell carcinoma of the penis. Scand J
+Urol Nephrol Suppl 205:189–193
+16. Franco EL, Schlecht NF, Saslow D (2003) The epidemiology
+of cervical cancer. Cancer J 9(5):348–359
+17. Bosch FX, Manos MM, Munoz N, et al (1995) Prevalence of
+human papillomavirus in cervical cancer: a worldwide per-
+spective. International biological study on cervical cancer
+(IBSCC) Study Group. J Natl Cancer Inst 87(11):796–802
+18. Plummer M, Franceschi S, Munoz N (2004) Epidemiology of
+gastric cancer. IARC Sci Publ 157:311–326
+19. Alexander GA, Brawley OW (2000) Association of Heli-
+cobacter pylori infection with gastric cancer. Mil Med
+165(1):21–28
+20. Burk RD, Ho GY, Beardsley L, Lempa M, Peters M, Bier-
+man R (1996) Sexual behavior and partner characteristics are
+the predominant risk factors for genital human papilloma-
+virus infection in young women. J Infect Dis 174(4):679–689
+21. Everhart JE, Kruszon-Moran D, Perez-Perez GI, Tralka TS,
+McQuillan G (2000) Seroprevalence and ethnic differences
+in Helicobacter pylori infection among adults in the United
+States. J Infect Dis 181(4):1359–1363
+22. Pashos CL, Botteman MF, Laskin BL, Redaelli A (2002)
+Bladder cancer: epidemiology, diagnosis, and management.
+Cancer Pract 10(6):311–322
+23. Wrensch M, Minn Y, Chew T, Bondy M, Berger MS (2002)
+Epidemiology of primary brain tumors: current concepts and
+review of the literature. Neuro-oncol 4(4):278–299
+24. Huyghe E, Matsuda T, Thonneau P (2003) Increasing inci-
+dence of testicular cancer worldwide: a review. J Urol
+170(1):5–11
+25. Nagataki S, Nystrom E (2002) Epidemiology and primary
+prevention of thyroid cancer. Thyroid 12(10):889–896
+26. Chiu BC, Weisenburger DD (2003) An update of the epi-
+demiology of non-Hodgkin’s lymphoma. Clin Lymphoma
+4(3):161–168
+Cancer Causes Control (2006) 17:1067–1075
+1075
+123
+
