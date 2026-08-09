@@ -25,3 +25,4 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 80,include-narrative,,Multiethnic Cohort,Filipino by generation,cohort incidence,MEC Filipino generational; comparator=generation not NHW -> verify/narrative
 93,include-quant,,NAACCR (7 Delta states),White vs Black + subtype,age-adjusted rates + RR,lower Mississippi Delta subtype-specific rates/RR 2012-2014
 103,include-quant,,California Cancer Registry,race/ethnicity + subtype,age-specific rates + IRR,black-white crossover subtype CCR 2006-2009
+277,exclude,Did not report the outcome of interest,SEER,race/ethnicity,median age + % under 50 + stage,JAMA research letter; reports age distribution & stage NOT age-adjusted incidence rates
