@@ -73,3 +73,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 361,include-quant,,SEER 13,race/ethnicity + SES,age-standardized rates + Joinpoint,post-WHI decline by race/SES; incidence by race SEER13 1992-2005
 369,include-quant,,NPCR + SEER,race/ethnicity + subtype,incidence rates + RR,young women 20-49 incidence + RR by race + subtype 2004-2013
 377,include-quant,,SEER 18 / NPCR-SEER,race/ethnicity younger vs older,cumulative incidence + IRR,IRR/MRR by race younger/older 2000-2013
+383,include-quant,,SEER 11,6 racial/ethnic groups + ER/PR,age-adjusted rates,ER/PR-specific incidence by race 6 groups SEER11 1992-1998
+402,include-quant,,State Cancer Profiles (SC),African American vs European American,annual incidence rates,SC AA/EA incidence (State Cancer Profiles=NPCR/SEER); quality-of-care focus; state-level
+405,include-quant,,SEER 18,NHW/NHB/API/Hispanic,age-standardized rates + APC,incidence trends by race SEER18 2000-2009
+419,include-quant,,California Cancer Registry,NHW/NHB/Hispanic + TNBC,age-adjusted + age-specific rates,TNBC + overall incidence by race young AA CCR 1988-2006
+425,include-narrative,,SEER 17,API women by region (no NHW),age-adjusted IDC rates,API invasive ductal carcinoma by US region; comparator=region not NHW -> narrative
+426,include-quant,,SEER 12,NHW/NHB/Hispanic,age-adjusted ILC rates + APC,invasive lobular carcinoma incidence by race SEER12 1992-2019 (subtype lobular)
+427,include-narrative,,California Cancer Registry,AANHPI by enclave/nSES (not NHW),age-adjusted rates + IRR,ethnic enclave/nSES AANHPI incidence CCR 2008-2012; comparator=enclave/nSES not NHW -> narrative
+436,include-quant,,SEER,race/ethnicity vs NHW,age-standardized rates,incidence by race SEER 2000-2023 (Hispanic/AIAN/API/NHB/NHW rates)
+438,include-quant,,SEER,NHW/black/AIAN/API + histology,age-adjusted rates + APC,histologic-subtype incidence by race SEER 1995-2004
+448,include-quant,,California + Massachusetts (SEER),race/ethnicity + SES,age-standardized rates + RR,CA+MA incidence by race + SES gradient 1978-2002
+453,include-quant,,SC + Ohio state registries (non-SEER),race + ER/Grade subtype,age-specific + age-adjusted rates,subtype (grade/HR) incidence by race SC+Ohio 1996-2004
+455,include-quant,,SEER,ethnic groups (18-39),age-adjusted incidence rates,young 18-39 incidence by ethnicity SEER 1973-2009; survival-focused but rates present

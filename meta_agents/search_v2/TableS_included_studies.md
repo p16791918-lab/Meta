@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **65** (quantitative synthesis: 55; narrative synthesis: 10).
+Studies included after full-text review (PRISMA 2020). Total included: **77** (quantitative synthesis: 65; narrative synthesis: 12).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -69,3 +69,15 @@ Studies included after full-text review (PRISMA 2020). Total included: **65** (q
 | 63 | Decline in US breast cancer rates after the Women's Health Initiative: socioeconomic and racial/ethnic differentials. (2010) | SEER 13 | race/ethnicity + SES | age-standardized rates + Joinpoint | quantitative | 20147667 |  |
 | 64 | Differences in breast cancer incidence among young women aged 20–49 years by stage and tumor characteristics, age, race, and ethnicity, 2004–2013 (2018) | NPCR + SEER | race/ethnicity + subtype | incidence rates + RR | quantitative | 29445940 | 10.1007/s10549-018-4699-9 |
 | 65 | Racial/ethnicity disparities in invasive breast cancer among younger and older  women: An analysis using multiple measures of population health (2016) | SEER 18 / NPCR-SEER | race/ethnicity younger vs older | cumulative incidence + IRR | quantitative | 27792934 | 10.1016/j.canep.2016.10.013 |
+| 66 | Rates for breast cancer characteristics by estrogen and progesterone receptor status in the major racial/ethnic groups (2002) | SEER 11 | 6 racial/ethnic groups + ER/PR | age-adjusted rates | quantitative | 12206512 | 10.1023/a:1016361932220 |
+| 67 | Disparities in Breast Cancer Incidence, Mortality, and Quality of Care among African American and European American Women in South Carolina (2016) | State Cancer Profiles (SC) | African American vs European American | annual incidence rates | quantitative | 26741869 | 10.14423/smj.0000000000000396 |
+| 68 | A trend analysis of breast cancer incidence rates in the United States from 2000 to 2009 shows a recent increase (2013) | SEER 18 | NHW/NHB/API/Hispanic | age-standardized rates + APC | quantitative | 23446808 | 10.1007/s10549-013-2434-0 |
+| 69 | Higher population-based incidence rates of triple-negative breast cancer among young African-American women (2011) | California Cancer Registry | NHW/NHB/Hispanic + TNBC | age-adjusted + age-specific rates | quantitative | 21656753 | 10.1002/cncr.25862 |
+| 70 | Regional disparities in incidence and outcomes of invasive ductal carcinoma of the breast among Asian and Pacific Islander women in the United States (2025) | SEER 17 | API women by region (no NHW) | age-adjusted IDC rates | narrative | 40543242 | 10.1016/j.canep.2025.102861 |
+| 71 | Trends in Incidence of Invasive Lobular Carcinoma of the Breast by Race: Patterns by Age, Cancer Stage, and Socioeconomic Factors in the United States, 1992-2019 (2025) | SEER 12 | NHW/NHB/Hispanic | age-adjusted ILC rates + APC | quantitative | 39837694 | 10.1016/j.clbc.2024.12.015 |
+| 72 | The role of ethnic enclaves and neighborhood socioeconomic status in invasive breast cancer incidence rates among Asian American, Native Hawaiian, and Pacific Islander females in California (2025) | California Cancer Registry | AANHPI by enclave/nSES (not NHW) | age-adjusted rates + IRR | narrative | 39438356 | 10.1007/s10552-024-01907-y |
+| 73 | Incidence, Trends, and Racial/Ethnic Disparities in Female Breast Cancer in the United States, 2000-2023: A SEER Based Study (2026) | SEER | race/ethnicity vs NHW | age-standardized rates | quantitative | 42466659 | 10.1177/10732748261470901 |
+| 74 | Changes in breast cancer incidence rates in the United States by histologic subtype and race/ethnicity, 1995 to 2004 (2007) | SEER | NHW/black/AIAN/API + histology | age-adjusted rates + APC | quantitative | 18086787 | 10.1158/1055-9965.epi-07-0546 |
+| 75 | Race/ethnicity and changing US socioeconomic gradients in breast cancer incidence: California and Massachusetts, 1978-2002 (United States) (2006) | California + Massachusetts (SEER) | race/ethnicity + SES | age-standardized rates + RR | quantitative | 16425100 | 10.1007/s10552-005-0408-1 |
+| 76 | Racial differences in the incidence of breast cancer subtypes defined by combined histologic grade and hormone receptor status (2010) | SC + Ohio state registries (non-SEER) | race + ER/Grade subtype | age-specific + age-adjusted rates | quantitative | 20024610 | 10.1007/s10552-009-9472-2 |
+| 77 | Comparison of clinicopathologic features and survival in young American women aged 18-39 years in different ethnic groups with breast cancer (2013) | SEER | ethnic groups (18-39) | age-adjusted incidence rates | quantitative | 23907433 | 10.1038/bjc.2013.387 |
