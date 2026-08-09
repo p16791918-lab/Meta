@@ -18,17 +18,18 @@ Nothing here fabricates content: if no full text is reachable, the record is
 logged as 'abstract-only' or 'none' — never invented. Eligibility/extraction is
 a SEPARATE author step (see ft_screen_template.py); this only fetches.
 
-Requirements:  pip install requests
-Environment:
+Requirements:  pip install requests pypdf   (pypdf enables OA-PDF text extraction;
+               without it, OA PDFs are recorded as a link only)
+Environment (all optional — the NCBI key auto-loads from the repo .mcp.json):
   NCBI_API_KEY    (raises the E-utilities rate limit to ~10 req/s)
   NCBI_EMAIL      (NCBI etiquette; identifies the caller)
-  UNPAYWALL_EMAIL (optional; enables the Unpaywall OA fallback)
+  UNPAYWALL_EMAIL (enables the Unpaywall OA fallback; defaults to the project email)
 
 Usage:
   cd meta_agents/search_v2
-  NCBI_API_KEY=... NCBI_EMAIL=you@example.com UNPAYWALL_EMAIL=you@example.com \
-      python3 fetch_fulltext.py
-  # then inspect fulltext_coverage.csv and the fulltext/ directory
+  python3 fetch_fulltext.py            # incremental: reuses already-saved full texts
+  python3 fetch_fulltext.py --force    # re-fetch everything from scratch
+  # then inspect fulltext_coverage.csv, manual_download_needed.csv, and fulltext/
 """
 import csv
 import os
@@ -165,6 +166,58 @@ def unpaywall_oa(doi):
     return loc.get("url_for_pdf") or loc.get("url")
 
 
+def _pdf_to_text(data):
+    import io
+    try:
+        import pypdf
+        reader = pypdf.PdfReader(io.BytesIO(data))
+        return "\n".join((p.extract_text() or "") for p in reader.pages)
+    except Exception:
+        pass
+    try:
+        from pdfminer.high_level import extract_text
+        return extract_text(io.BytesIO(data))
+    except Exception:
+        return None
+
+
+def _html_to_text(html):
+    html = re.sub(r"(?is)<(script|style|noscript).*?</\1>", " ", html)
+    html = re.sub(r"(?is)<br\s*/?>", "\n", html)
+    html = re.sub(r"(?is)</(p|div|h[1-6]|li|tr|section)>", "\n", html)
+    text = re.sub(r"(?s)<[^>]+>", " ", html)
+    text = (text.replace("&nbsp;", " ").replace("&amp;", "&")
+                .replace("&lt;", "<").replace("&gt;", ">"))
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*\n+", "\n\n", text)
+    return text.strip()
+
+
+def fetch_oa_text(url):
+    """Download an Unpaywall OA URL and extract text. Accept a PDF if it yields
+    >800 chars; accept an HTML page only if it looks like full text (has a
+    Methods/Results section and is long), so paywalled abstract pages are not
+    mistaken for full text. Returns None to fall back to link-only."""
+    try:
+        r = SESSION.get(url, timeout=60)
+    except requests.RequestException:
+        return None
+    if not r or r.status_code != 200 or not r.content:
+        return None
+    ctype = r.headers.get("Content-Type", "").lower()
+    is_pdf = "pdf" in ctype or url.lower().split("?")[0].endswith(".pdf") or r.content[:5] == b"%PDF-"
+    if is_pdf:
+        text = _pdf_to_text(r.content)
+        return text if text and len(text) > 800 else None
+    try:
+        text = _html_to_text(r.text)
+    except Exception:
+        return None
+    if text and len(text) > 2000 and re.search(r"method|result|incidence", text, re.I):
+        return text
+    return None
+
+
 def load_includes():
     dec = {}
     with open(DECISIONS, newline="", encoding="utf-8") as f:
@@ -182,6 +235,7 @@ def main():
     if not API_KEY:
         print("WARNING: NCBI_API_KEY not set — slow and rate-limited.")
 
+    force = "--force" in sys.argv
     rows = []
     for n, (rid, rec) in enumerate(includes, 1):
         pmid = (rec.get("pmid") or "").strip()
@@ -189,6 +243,19 @@ def main():
         pmcid = source = oa_url = ""
         chars = 0
         text = None
+
+        # Resumable: reuse an already-saved full text (skip the network) unless --force.
+        cached = os.path.join(OUTDIR, "%d.txt" % rid)
+        if not force and os.path.isfile(cached) and os.path.getsize(cached) > 600:
+            body = open(cached, encoding="utf-8").read()
+            m = re.search(r"^SOURCE:\s*(\S+)", body, re.M)
+            source = m.group(1) if m else "cached"
+            chars = len(body)
+            rows.append(dict(record_id=rid, year=rec.get("year", ""), pmid=pmid, doi=doi,
+                             pmcid="", source=source, oa_url="", chars=chars,
+                             title=rec.get("title", "")[:120]))
+            print("[%3d/%d] rec %-4d %-18s %6d chars  (cached)" % (n, len(includes), rid, source, chars))
+            continue
 
         if pmid:
             pmcid = pmid_to_pmcid(pmid) or ""
@@ -201,12 +268,13 @@ def main():
         if text is None and doi:
             oa_url = unpaywall_oa(doi) or ""
             if oa_url:
-                source = "unpaywall-oa-link"  # link recorded; author opens it
+                text = fetch_oa_text(oa_url)          # try to grab the OA PDF/HTML text
+                source = "unpaywall-oa" if text else "unpaywall-oa-link"
 
         if text:
-            with open(os.path.join(OUTDIR, "%d.txt" % rid), "w", encoding="utf-8") as f:
-                f.write("record_id=%d pmid=%s doi=%s pmcid=%s\nTITLE: %s\n\n%s\n"
-                        % (rid, pmid, doi, pmcid, rec.get("title", ""), text))
+            with open(cached, "w", encoding="utf-8") as f:
+                f.write("record_id=%d pmid=%s doi=%s pmcid=%s\nSOURCE: %s\nTITLE: %s\n\n%s\n"
+                        % (rid, pmid, doi, pmcid, source, rec.get("title", ""), text))
             chars = len(text)
         if not source:
             source = "none" if not (pmid or doi) else "no-oa-full-text"
@@ -223,8 +291,9 @@ def main():
         w.writeheader()
         w.writerows(rows)
 
-    # Records WITHOUT auto-retrieved PMC full text -> manual institutional download.
-    manual = [r for r in rows if r["source"] != "pmc"]
+    # Records WITHOUT auto-retrieved full text -> manual institutional download.
+    AUTO = {"pmc", "unpaywall-oa", "cached"}
+    manual = [r for r in rows if r["source"] not in AUTO]
     manual_path = os.path.join(HERE, "manual_download_needed.csv")
     with open(manual_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "year", "title", "doi",
@@ -242,9 +311,10 @@ def main():
     print("\n=== coverage ===")
     for k, v in Counter(r["source"] for r in rows).most_common():
         print("  %4d  %s" % (v, k))
-    print("\nauto-retrieved (PMC full text): %d" % sum(1 for r in rows if r["source"] == "pmc"))
+    print("\nauto-retrieved full text (pmc + unpaywall-oa + cached): %d"
+          % sum(1 for r in rows if r["source"] in AUTO))
     print("MANUAL download needed        : %d  -> %s" % (len(manual), manual_path))
-    print("  (open each doi_url with institutional access; %d have an OA link already)"
+    print("  (open each doi_url with institutional access; %d have an OA link to try first)"
           % sum(1 for r in manual if r["oa_url"]))
     print("full text saved to: %s/" % OUTDIR)
     print("coverage log: %s" % COVERAGE)
