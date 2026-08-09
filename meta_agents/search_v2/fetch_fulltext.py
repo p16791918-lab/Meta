@@ -88,7 +88,10 @@ UNPAYWALL = "https://api.unpaywall.org/v2/"
 # NCBI: 10 req/s with a key, 3 without. Stay under.
 DELAY = 0.12 if API_KEY else 0.34
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "breast-incidence-review/1.0 (mailto:%s)" % (EMAIL or "anon")})
+# Some OA hosts 403 a non-browser UA, so present a browser UA for OA downloads.
+BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
+SESSION.headers.update({"User-Agent": BROWSER_UA})
 
 
 def _eutils_params(extra):
@@ -153,17 +156,24 @@ def fetch_pmc_text(pmcid):
 
 
 def unpaywall_oa(doi):
+    """Return (pdf_url, page_url) from Unpaywall's OA locations (best first).
+    Either may be empty. We try the PDF, then the landing page."""
     if not UNPAYWALL_EMAIL or not doi:
-        return None
+        return "", ""
     r = get(UNPAYWALL + urllib.parse.quote(doi), params={"email": UNPAYWALL_EMAIL})
     if not r or r.status_code != 200:
-        return None
+        return "", ""
     try:
         data = r.json()
     except ValueError:
-        return None
-    loc = data.get("best_oa_location") or {}
-    return loc.get("url_for_pdf") or loc.get("url")
+        return "", ""
+    locs = []
+    if data.get("best_oa_location"):
+        locs.append(data["best_oa_location"])
+    locs += [l for l in (data.get("oa_locations") or []) if l not in locs]
+    pdf_url = next((l.get("url_for_pdf") for l in locs if l.get("url_for_pdf")), "")
+    page_url = next((l.get("url") for l in locs if l.get("url")), "")
+    return pdf_url or "", page_url or ""
 
 
 def _pdf_to_text(data):
@@ -193,29 +203,59 @@ def _html_to_text(html):
     return text.strip()
 
 
-def fetch_oa_text(url):
-    """Download an Unpaywall OA URL and extract text. Accept a PDF if it yields
-    >800 chars; accept an HTML page only if it looks like full text (has a
-    Methods/Results section and is long), so paywalled abstract pages are not
-    mistaken for full text. Returns None to fall back to link-only."""
+def _get_bytes(url):
     try:
-        r = SESSION.get(url, timeout=60)
-    except requests.RequestException:
-        return None
-    if not r or r.status_code != 200 or not r.content:
-        return None
-    ctype = r.headers.get("Content-Type", "").lower()
-    is_pdf = "pdf" in ctype or url.lower().split("?")[0].endswith(".pdf") or r.content[:5] == b"%PDF-"
-    if is_pdf:
-        text = _pdf_to_text(r.content)
-        return text if text and len(text) > 800 else None
-    try:
-        text = _html_to_text(r.text)
-    except Exception:
-        return None
-    if text and len(text) > 2000 and re.search(r"method|result|incidence", text, re.I):
-        return text
-    return None
+        r = SESSION.get(url, timeout=60, allow_redirects=True)
+    except requests.RequestException as e:
+        return None, "err:%s" % type(e).__name__
+    if not r or r.status_code != 200:
+        return None, "http:%s" % (r.status_code if r else "none")
+    return r, ""
+
+
+def fetch_oa_text(pdf_url, page_url):
+    """Try, in order: the OA PDF URL; a citation_pdf_url discovered on the OA
+    landing page; the landing page HTML itself. Returns (text|None, note) where
+    note explains the outcome for logging."""
+    tried = []
+    # 1) direct PDF url
+    for u in [pdf_url]:
+        if not u:
+            continue
+        r, err = _get_bytes(u)
+        if err:
+            tried.append("pdf %s" % err)
+            continue
+        if r.content[:5] == b"%PDF-" or "pdf" in r.headers.get("Content-Type", "").lower():
+            t = _pdf_to_text(r.content)
+            if t and len(t) > 600:
+                return t, "pdf-ok"
+            tried.append("pdf-short(%d)" % (len(t) if t else 0))
+        else:
+            tried.append("pdf-not-pdf")
+    # 2) landing page -> look for citation_pdf_url meta, else use HTML text
+    if page_url:
+        r, err = _get_bytes(page_url)
+        if err:
+            tried.append("page %s" % err)
+        elif r is not None:
+            html = r.text
+            m = re.search(r'citation_pdf_url"\s+content="([^"]+)"', html) \
+                or re.search(r'content="([^"]+)"\s+name="citation_pdf_url"', html)
+            if m:
+                r2, err2 = _get_bytes(m.group(1))
+                if not err2 and (r2.content[:5] == b"%PDF-" or "pdf" in r2.headers.get("Content-Type", "").lower()):
+                    t = _pdf_to_text(r2.content)
+                    if t and len(t) > 600:
+                        return t, "citation-pdf-ok"
+                    tried.append("cit-pdf-short")
+                else:
+                    tried.append("cit-pdf %s" % (err2 or "not-pdf"))
+            t = _html_to_text(html)
+            if t and len(t) > 1500 and re.search(r"method|result|incidence|age-adjusted", t, re.I):
+                return t, "html-ok"
+            tried.append("html-short(%d)" % (len(t) if t else 0))
+    return None, "; ".join(tried) or "no-oa-url"
 
 
 def load_includes():
@@ -234,6 +274,14 @@ def main():
     print("included records: %d" % len(includes))
     if not API_KEY:
         print("WARNING: NCBI_API_KEY not set — slow and rate-limited.")
+    try:
+        import pypdf  # noqa: F401
+    except ImportError:
+        try:
+            import pdfminer  # noqa: F401
+        except ImportError:
+            print("WARNING: no PDF library — OA PDFs cannot be extracted. "
+                  "Run:  pip install pypdf   then re-run.")
 
     force = "--force" in sys.argv
     rows = []
@@ -252,7 +300,7 @@ def main():
             source = m.group(1) if m else "cached"
             chars = len(body)
             rows.append(dict(record_id=rid, year=rec.get("year", ""), pmid=pmid, doi=doi,
-                             pmcid="", source=source, oa_url="", chars=chars,
+                             pmcid="", source=source, oa_url="", oa_note="", chars=chars,
                              title=rec.get("title", "")[:120]))
             print("[%3d/%d] rec %-4d %-18s %6d chars  (cached)" % (n, len(includes), rid, source, chars))
             continue
@@ -265,10 +313,12 @@ def main():
                 time.sleep(DELAY)
                 if text:
                     source = "pmc"
+        oa_note = ""
         if text is None and doi:
-            oa_url = unpaywall_oa(doi) or ""
+            oa_pdf, oa_page = unpaywall_oa(doi)
+            oa_url = oa_pdf or oa_page
             if oa_url:
-                text = fetch_oa_text(oa_url)          # try to grab the OA PDF/HTML text
+                text, oa_note = fetch_oa_text(oa_pdf, oa_page)
                 source = "unpaywall-oa" if text else "unpaywall-oa-link"
 
         if text:
@@ -280,14 +330,14 @@ def main():
             source = "none" if not (pmid or doi) else "no-oa-full-text"
 
         rows.append(dict(record_id=rid, year=rec.get("year", ""), pmid=pmid, doi=doi,
-                         pmcid=pmcid, source=source, oa_url=oa_url, chars=chars,
+                         pmcid=pmcid, source=source, oa_url=oa_url, oa_note=oa_note, chars=chars,
                          title=rec.get("title", "")[:120]))
-        print("[%3d/%d] rec %-4d %-18s %6d chars  %s"
-              % (n, len(includes), rid, source, chars, rec.get("title", "")[:56]))
+        tail = ("  [%s]" % oa_note) if source == "unpaywall-oa-link" else "  " + rec.get("title", "")[:48]
+        print("[%3d/%d] rec %-4d %-18s %6d chars%s" % (n, len(includes), rid, source, chars, tail))
 
     with open(COVERAGE, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "year", "pmid", "doi",
-                                          "pmcid", "source", "oa_url", "chars", "title"])
+                                          "pmcid", "source", "oa_url", "oa_note", "chars", "title"])
         w.writeheader()
         w.writerows(rows)
 
