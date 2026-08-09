@@ -132,3 +132,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 2732,include-narrative,,CI5 + SEER 9/Hawaii,Japanese Japan vs US (White/Black),age-standardized rates (CI5),brief CI5-based Japanese Japan vs US ASRs; very short -> narrative
 3182,include-quant,,Florida Cancer Data System,Cuban/Mexican/PR vs NHW/NHB,age-adjusted rates,first-generation Hispanic subgroups vs NHW Florida 1999-2001; Hispanic disaggregation; verify breast
 3186,exclude,Overlapping or duplicate dataset,SEER 9,black vs white,age-standardized crossover,book-chapter duplicate of 265 (same SEER9 1975-2004 crossover analysis)
+1470,exclude,Did not report the outcome of interest,-,-,commentary,invited commentary accompanying rec 234 (JAMA Netw Open); no independent incidence data
+3212,include-quant,,New York State Cancer Registry,American Indian (Seneca) vs general pop,standardized incidence ratios (SIR),Seneca/NY American Indian SIRs via NYSCR 50yr; SIR obs/exp metric; verify breast row
+3228,include-narrative,,SEER 17,Asian Indian/Pakistani vs NHW,approximate incidence / PIR,AIPA SEER 1988-2003; incidence could not be calculated accurately (PIR/survival focus) -> narrative; overlaps 54/955
+3230,include-quant,,NPCR+SEER (IHS-linked),AI/AN vs NHW (20-44),age-adjusted rates + RR,AI/AN vs NHW young adults 20-44 incidence + RR 1999-2004; overlaps AIAN national
+3247,include-quant,,SEER 11 + state,South Asian US vs US whites,age-adjusted rates + IRR,South Asian US vs US whites SEER11; India/Singapore/UK non-US comparators; overlaps 3322
+3267,include-quant,,SEER (CA + Puget Sound),Cambodian vs NHW/Asian,age-adjusted rates + RR,Cambodian vs NHW incidence + RR CA+WA 1998-2002; key Cambodian subgroup
+3275,include-quant,,California Cancer Registry,Middle Eastern vs NHW,age-adjusted rates + RR,Middle Eastern vs NHW incidence + RR CCR 1988-2004; overlaps 587 (same ME California data)
+3288,include-quant,,SEER,Korean-American vs white/black,age-standardized rates,Korean-American vs white/black US incidence SEER + Kangwha Korea comparator; overlaps 3398
+3298,include-quant,,NAACCR,Hispanic vs NHW/NHB,age-adjusted rates,national Hispanic vs NHW incidence NAACCR 1995-2000; verify breast row
+3322,include-quant,,California Cancer Registry,South Asian vs NHW/API,age-adjusted rates + IRR,South Asian vs NHW/API incidence + IRR CCR 1988-2000; key South Asian; overlaps 3247
+3845,include-narrative,,SEER (CA/Detroit/NJ),Arab American vs NHW (IBC),OR-based IBC odds,Arab American inflammatory BC CA/Detroit/NJ SEER 1988-2008; OR not incidence rate -> narrative; key Arab subgroup
+4026,include-quant,,NPCR+SEER (IHS-linked),NH-AI/AN AYA,age-adjusted rates + AAPC,AI/AN AYA incidence 1999-2019; breast among leading; overlaps AIAN national/AYA

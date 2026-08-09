@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **118** (quantitative synthesis: 92; narrative synthesis: 26).
+Studies included after full-text review (PRISMA 2020). Total included: **129** (quantitative synthesis: 101; narrative synthesis: 28).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -122,3 +122,14 @@ Studies included after full-text review (PRISMA 2020). Total included: **118** (
 | 116 | The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioeconomic status by decade, 1981–2010 (2018) | SEER 9 | race + SES | age-adjusted rates by decade | quantitative |  | 10.2147/cmar.s173099 |
 | 117 | Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Continents (2016) | CI5 + SEER 9/Hawaii | Japanese Japan vs US (White/Black) | age-standardized rates (CI5) | narrative |  | 10.1093/jjco/hyw119 |
 | 118 | Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos (2009) | Florida Cancer Data System | Cuban/Mexican/PR vs NHW/NHB | age-adjusted rates | quantitative | 19661072 | 10.1158/1055-9965.epi-09-0329 |
+| 119 | Fifty years of cancer in an American Indian population (2009) | New York State Cancer Registry | American Indian (Seneca) vs general pop | standardized incidence ratios (SIR) | quantitative | 19109819 | 10.1002/cncr.24039 |
+| 120 | Cancer health disparities among Indian and Pakistani immigrants in the United States a Surveillance, Epidemiology, and End Results-based study from 1988 to 2003 (2008) | SEER 17 | Asian Indian/Pakistani vs NHW | approximate incidence / PIR | narrative | 18696716 | 10.1002/cncr.23686 |
+| 121 | Cancer in American Indian and Alaska Native Young Adults (Ages 20-44 Years): US, 1999-2004 (2008) | NPCR+SEER (IHS-linked) | AI/AN vs NHW (20-44) | age-adjusted rates + RR | quantitative | 18720386 | 10.1002/cncr.23731 |
+| 122 | Cancer incidence rates among South Asians in four geographic regions: India, Singapore, UK and US (2008) | SEER 11 + state | South Asian US vs US whites | age-adjusted rates + IRR | quantitative | 18094016 | 10.1093/ije/dym219 |
+| 123 | Cambodian cancer incidence rates in California and Washington, 1998-2002 (2007) | SEER (CA + Puget Sound) | Cambodian vs NHW/Asian | age-adjusted rates + RR | quantitative | 17654663 | 10.1002/cncr.22914 |
+| 124 | Cancer incidence in the Middle Eastern population of California, 1988-2004. (2007) | California Cancer Registry | Middle Eastern vs NHW | age-adjusted rates + RR | quantitative | 18159978 |  |
+| 125 | Cancer incidence among Korean-American immigrants in the United States and native Koreans in South Korea (2007) | SEER | Korean-American vs white/black | age-standardized rates | quantitative | 17242674 | 10.1177/107327480701400111 |
+| 126 | Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000 (2006) | NAACCR | Hispanic vs NHW/NHB | age-adjusted rates | quantitative | 16933057 | 10.1007/s10552-006-0045-3 |
+| 127 | Cancer incidence in the South Asian population of California, 1988-2000 (2005) | California Cancer Registry | South Asian vs NHW/API | age-adjusted rates + IRR | quantitative |  | 10.1186/1477-3163-4-21 |
+| 128 | Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008) (2013) | SEER (CA/Detroit/NJ) | Arab American vs NHW (IBC) | OR-based IBC odds | narrative |  | 10.1186/2193-1801-2-3 |
+| 129 | Incidence of selected cancers in Non-Hispanic American Indian and Alaska Native adolescent and young adult populations, 1999-2019 (2023) | NPCR+SEER (IHS-linked) | NH-AI/AN AYA | age-adjusted rates + AAPC | quantitative | 37119997 | 10.1016/j.annepidem.2023.04.016 |
