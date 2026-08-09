@@ -1,2 +1,7 @@
 record_id,pmid,doi,title,note
 157,16258086,10.1200/jco.2004.01.0421,Breast cancer trends among black and white women in the United States,"ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies"
+253,10761199,,Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females.,Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies
+415,17929614,,Women's cancers among Alaska Natives 1969-2003.,Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN
+424,12223421,,Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites,"Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies"
+428,18323374,,Women's cancers among Alaska Natives: [corrected] 1969-2003.,Women's cancers Alaska Natives (corrected dup of 415)
+476,41665696,10.1007/s10552-026-02134-3,"Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019","Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800)"

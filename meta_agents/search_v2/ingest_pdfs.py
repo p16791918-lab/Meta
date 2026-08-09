@@ -40,15 +40,20 @@ def pdf_to_text(path):
 
 
 def main():
-    if not os.path.isdir(PDFDIR):
-        os.makedirs(PDFDIR, exist_ok=True)
-        print("created %s — put <record_id>.pdf files there and re-run." % PDFDIR)
-        return
+    os.makedirs(PDFDIR, exist_ok=True)
     os.makedirs(OUTDIR, exist_ok=True)
     recs = list(csv.DictReader(open(MERGED, encoding="utf-8")))
 
+    # Accept PDFs in either fulltext_pdf/ or directly in fulltext/ (named <id>.pdf).
+    pdfs = sorted(set(glob.glob(os.path.join(PDFDIR, "*.pdf"))
+                      + glob.glob(os.path.join(OUTDIR, "*.pdf"))))
+    if not pdfs:
+        print("no PDFs found in %s or %s — save each as <record_id>.pdf and re-run."
+              % (PDFDIR, OUTDIR))
+        return
+
     ingested, failed = [], []
-    for path in sorted(glob.glob(os.path.join(PDFDIR, "*.pdf"))):
+    for path in pdfs:
         base = os.path.splitext(os.path.basename(path))[0]
         if not base.isdigit():
             print("skip (name not a record_id): %s" % os.path.basename(path))
