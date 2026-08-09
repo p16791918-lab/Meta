@@ -1,0 +1,383 @@
+record_id=2453 pmid=31392297 doi=10.1093/jncics/pkz040 pmcid=PMC6668585
+TITLE: Incidence and survival among young women with stage I-III breast cancer: Seer 2000-2015
+
+Breast cancer in premenopausal women, particularly younger premenopausal women, has been consistently associated with high risk of disease relapse and death (1). Premenopausal women often present with breast cancer that has aggressive molecular characteristics (2). For example, gene-expression profiling suggests proportionally more basal-like and HER2–enriched tumors occur in these women (3,4). Also, studies using receptor status and other histologic tumor features as indicators of disease biology report that young patients tend to have high-grade and highly proliferative breast tumors (2).
+Additional factors appear to be associated with development and prognosis of breast cancer in premenopausal women. In particular, previous work observed that women younger than 40 years of age tend to present with higher stage cancer than older women (5–7). This finding may be attributable in part to disease biology described above; however, young premenopausal women, compared to perimenopausal or postmenopausal women, disproportionately experience clinical and social circumstances associated with care delays, including lack of screening, dense breast tissue, less access to care, or low clinician suspicion for malignancy (8–10). Rather than an image-detected lesion, young women frequently present with a palpable mass, which has been associated with diagnostic delay and higher stage cancer at presentation (7, 8). Additionally, familial risk due to germline mutations remains a well-established risk factor for breast cancer diagnosis at a young age (11–14). Lastly, pregnancy-associated breast cancer, which by definition occurs in premenopausal women, appears to have distinct and more aggressive molecular characteristics (15) and has been associated with lower survival compared to nonpregnancy-associated breast cancer in young women (16).
+Population-based studies of women diagnosed over a decade ago supported gradual increases in breast cancer incidence in young women (17–19), and a recent study reported an increased incidence of young women presenting with de novo stage IV breast cancer (20). Less is known about contemporary patterns of incidence and survival in earlier stage, operable breast cancer and how these patterns are changing by cancer subtype among premenopausal women. Improved understanding of these patterns could offer additional insight into the etiology of premenopausal breast cancer and ideally result in improved preventive, diagnostic, and therapeutic strategies. In this context, we characterized recent population-based data from the United States on incidence and survival among women aged 20–49 years diagnosed with stage I–III breast cancer.
+Methods
+Study Population
+Our retrospective cohort study was approved by the University of Iowa Institutional Review Board. Data were obtained from the US Surveillance, Epidemiology, and End Results (SEER) 18 registries database (November 2017 submission, 2000–2015) from the National Cancer Institute. The 18 population-based cancer registries that provided data for the SEER program comprised approximately 28% of the total US population (21). Stage and grade for breast cancer diagnoses in the SEER 18 registries database were assigned using the American Joint Committee on Cancer adjusted 6th edition (22) and Bloom-Richardson criteria (23), respectively. For hormone receptor (HR) status, HR+ status was defined as having either positive or borderline estrogen receptor (ER) or progesterone receptor (PR) status, and HR− status was defined as having both ER− and PR− status. Women with borderline ER and PR status were grouped with ER+ and PR+, respectively, because of changes in assay interpretation guidelines that no longer allow for a borderline result and indicate a cutoff of 1% positive tumor cell nuclei be used, compared to historical cutoffs of up to 10% (24). The HER2 receptor status of the breast tumors was not included in analyses, as SEER began reporting this information in 2010; additional years will be needed to assess a comparable time period for incidence and survival using this characteristic.
+We identified 181 663 women aged 20–49 years whose initial cancer diagnosis was breast cancer during 2000–2015. We excluded women whose diagnoses were not microscopically confirmed (n = 680); reported only from a nursing or convalescent home, hospice, autopsy, or death certificate (n = 24); and not stage I–III (n = 15 996), leaving 164 963 women in our analytic sample. Our analytic subsample excluded an additional 15 142 women if their breast cancer was of unknown HR status, or HR+ but of unknown grade, leaving 149 821 women. Completeness of staging (Supplementary Table 1, available online) and HR status and grade (Supplementary Table 2, available online) improved over time throughout the study period, but less so for staging. Distributions of age, race and ethnicity, and cancer stage did not differ appreciably between those with known and unknown classification of HR status and grade (data not shown).
+Statistical Analysis
+Age at breast cancer diagnosis was grouped into three age decades: 20–29, 30–39, and 40–49 years. Race and ethnicity were classified using SEER definitions into six mutually exclusive groups: non-Hispanic white, black, American Indian/Alaska Native, and Asian/Pacific Islander; Hispanic; and non-Hispanic (unknown race). Cancer stage was stratified as I, II, or III. HR status and grade were categorized as HR+ low-grade (well and moderately differentiated: grades 1–2), HR+ high-grade (poorly differentiated and undifferentiated: grades 3–4), and HR−.
+We estimated incidence for each age decade as the number of annual breast cancer diagnoses per 100 000 women and age-adjusted to the 2000 US standard population by 5-year age groups using SEER*Stat Version 8.3.5 software (25). Average annual percent changes (AAPCs) in incidence and 95% confidence intervals (CIs) for 2000–2015 were estimated using Joinpoint Regression Program software, version 4.6.0.0 (26). We applied least-squares regression models with the natural logarithm of the age-adjusted rates as the outcome and diagnosis year as the predictor. Piecewise regression models also were assessed via a modified Bayesian information criterion model selection method (27) and fit using the Joinpoint software. Errors in the regression models were assumed to be normally distributed. Model assumptions were evaluated by examining the residuals, and no violations were observed.
+We estimated survival for women diagnosed during 2000–2014. Women diagnosed in 2015 in the analytic sample (n = 10 469) and subsample (n = 10 094) were excluded because of lack of follow-up time, as were women diagnosed during 2000–2014 with no follow-up time (sample: n = 67; subsample: n = 44), leaving 154 427 and 139 683 women, respectively, for analysis. We generated Kaplan-Meier estimates and 95% CIs for 5- and 10-year survival using SEER*Stat; 10-year Kaplan-Meier curves were plotted using R Version 3.5.1 (28).
+Stratifying by age decade, we used the analytic sample to describe patient race and ethnicity and cancer stage and compare incidence and survival by these characteristics. Because of sparse numbers, we did not examine incidence and survival for non-Hispanic American Indian/Alaska Native women or non-Hispanic women of unknown race. We used our analytic subsample to describe HR status and grade frequencies and compare incidence and survival by this characteristic. Because the women in our sample may have a relatively high prevalence of germline mutations (29), we assessed whether a second primary malignancy confounded our survival estimates by conducting a subanalysis to remove women later diagnosed with a second primary malignancy from the analytic sample (n = 16 552 [10.7%]) and subsample (n = 14 605 [10.5%]).
+Results
+Our analytic sample comprised 3826 women aged 20–29 years, 34 585 women aged 30–39 years, and 126 552 women aged 40–49 years (Table 1). The proportion of stage III breast cancer decreased with age, with the opposite pattern observed for stage I and II cancer. Stage III cancer tended to be higher among non-Hispanic blacks and Hispanics compared to non-Hispanic whites and Asian/Pacific Islanders with the opposite observed for stage I cancer; proportions for stage II cancer tended to be similar among racial and ethnic groups (Supplementary Table 3, available online). In our analytic subsample, the proportion of HR+ high-grade and HR− cancer each decreased with age, whereas that for HR+ low-grade cancer increased with age (Table 1).
+Table 1.
+Frequencies of patient and tumor characteristics among women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2015, SEER 18 registries*
+Characteristic
+20–29 years
+30–39 years
+40–49 years
+No. (%)
+No. (%)
+No. (%)
+Analytic sample
+3826
+34 585
+126 552
+Race and ethnicity
+Non-Hispanic white
+1921 (50.2)
+19 272 (55.7)
+79 781 (63.0)
+Non-Hispanic black
+687 (18.0)
+4955 (14.3)
+15 026 (11.9)
+Non-Hispanic American Indian/Alaska Native
+33 (0.9)
+238 (0.7)
+746 (0.6)
+Non-Hispanic Asian/Pacific Islander
+377 (9.9)
+3868 (11.2)
+12 964 (10.2)
+Hispanic (all races)
+792 (20.7)
+6071 (17.6)
+17 445 (13.8)
+Non-Hispanic (unknown race)
+16 (0.4)
+181 (0.5)
+590 (0.5)
+Stage
+I
+902 (23.6)
+9961 (28.8)
+53 207 (42.0)
+II
+2011 (52.6)
+17 064 (49.3)
+53 014 (41.9)
+III
+913 (23.9)
+7560 (21.9)
+20 331 (16.1)
+Analytic subsample
+3459
+31 564
+114 798
+HR status and grade
+HR+ low grade
+1002 (29.0)
+11 759 (37.3)
+62 848 (54.7)
+HR+ high grade
+1194 (34.5)
+9823 (31.1)
+27 437 (23.9)
+HR−
+1263 (36.5)
+9982 (31.6)
+24 513 (21.4)
+*
+Because of rounding, percentages might not total 100. HR = hormone receptor, SEER = Surveillance, Epidemiology, and End Results.
+Incidence
+Using our analytic sample, the overall incidence of stage I–III breast cancer increased during 2000–2015 among women in each age decade studied, particularly those aged 20–29 years (Table 2). In each decade, incidence increased among non-Hispanic whites but was rather stable among non-Hispanic blacks (Table 2, Figure 1). Incidence also increased among non-Hispanic Asian/Pacific Islanders aged 20–29 and 40–49 years but remained stable among those aged 30–39 years. Patterns among Hispanics were similar or lesser in magnitude than those among non-Hispanic whites. Stratifying overall incidence by stage revealed positive AAPCs for stage I cancer among women aged 20–29 and 40–49 years, but negative among those aged 30–39 years. The AAPCs for stage II and III cancer decreased with age, being negative for women aged 30–49 years with stage III cancer (Table 2, Figure 2).
+Figure 1.
+Breast cancer incidence rate by race and ethnicity for women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2015, SEER 18 registries. A) Women ages 20–29 years. B) Women ages 30–39 years. C) Women ages 40–49 years. Rates were calculated using the analytic sample. Women with breast cancer ascertained by the Alaska Native registry were excluded from incidence estimations for the Hispanic group because this registry only ascertains patients from the Native American and Alaska Native populations within the state. SEER = Surveillance, Epidemiology, and End Results.
+Figure 2.
+Breast cancer incidence rate by stage and HR status and grade for women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2015, SEER 18 registries. A) Women ages 20–29 years. B) Women ages 30–39 years. C) Women ages 40–49 years. D) Women ages 20–29 years. E) Women ages 30–39 years. F) Women ages 40–49 years. Rates for (A, B, and C) were calculated using the analytic sample; rates for (D, E, and F) were calculated using the analytic subsample. HR = hormone receptor; SEER = Surveillance, Epidemiology, and End Results.
+Table 2.
+AAPCs in incidence of patient and tumor characteristics for women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2015, SEER 18 registries
+Characteristic
+20–29 years
+30–39 years
+40–49 years
+AAPC (95% CI)
+AAPC (95% CI)
+AAPC (95% CI)
+Analytic sample
+1.62 (1.16 to 2.09)
+0.31 (−0.07 to 0.69)
+0.34 (0.18 to 0.51)
+Race and ethnicity
+Non-Hispanic white
+2.11 (1.52 to 2.69)
+0.55 (0.19 to 0.91)
+0.56 (0.41 to 0.72)
+Non-Hispanic black
+0.60 (−1.20 to 2.43)
+0.28 (−0.31 to 0.87)
+0.24 (−0.08 to 0.56)
+Non-Hispanic Asian/Pacific Islander
+1.87 (−0.32 to 4.10)
+−0.02 (−0.81 to 0.76)
+1.02 (0.61 to 1.44)
+Hispanic (all races)*
+1.07 (−0.08 to 2.23)
+0.71 (−0.06 to 1.50)
+0.39 (−0.04 to 0.83)
+Stage
+I
+1.88 (0.33 to 3.45)
+−0.79 (−1.30 to -0.27)
+0.43 (0.15 to 0.72)
+II
+1.77 (0.86 to 2.70)
+1.41 (0.98 to 1.85)
+0.78 (0.54 to 1.02)
+III
+1.02 (0.01 to 2.03)
+−0.73 (−1.35 to -0.10)
+−1.03 (−1.33 to -0.71)
+Analytic subsample
+2.26 (1.49 to 3.03)
+0.88 (0.34 to 1.42)
+0.97 (0.72 to 1.23)
+HR status and grade
+HR+ low grade
+5.67 (4.14 to 7.21)
+2.67 (2.07 to 3.26)
+2.84 (2.37 to 3.31)
+HR+ high grade
+3.83 (2.40 to 5.28)
+2.69 (2.19 to 3.19)
+1.34 (0.97 to 1.71)
+HR−
+−0.26 (−1.25 to 0.74)
+−1.22 (−2.07 to -0.35)
+−1.20 (−1.89 to -0.50)
+*
+Women with breast cancer ascertained by the Alaska Native registry were excluded from incidence estimations for the Hispanic group because this registry only ascertains patients from the Native American and Alaska Native populations within the state. AAPC = average annual percentage change; CI = confidence interval; HR = hormone receptor; SEER = Surveillance, Epidemiology, and End Results.
+Examining incidence by HR status and grade using our analytic subsample, we observed that the increased incidence among women in each age decade was driven by HR+ cancer (Table 2, Figure 2). Among women aged 20–29 and 40–49 years, the largest AAPCs were for HR+ low-grade cancer; among women aged 30–39 years, the AAPCs for HR+ low- and high-grade cancer were similar (Table 2). By 2015, the incidence of HR+ low- and high-grade cancer each exceeded the incidence of HR− cancer in each age decade (Figure 2). These incidence patterns tended to persist across each racial and ethnic group (Supplementary Figure 1, available online). A decrease in HR- cancer was observed for each age decade (Table 2). The pattern of highest AAPCs among women aged 20–29 years persisted among each race and ethnicity, cancer stage, and receptor subtype. Improved completeness of classification for HR status and grade over time throughout the study period (Supplementary Table 2, available online) may have positively biased AAPC estimates for the analytic subsample; however, comparing AAPCs for each age decade between the analytic sample and subsample suggested the impact of this bias was modest (Table 2). Results of piecewise regression models were not substantively different from those of unsegmented regression models (data not shown).
+Survival
+Overall survival varied by age at diagnosis, with women aged 20–29 years having the lowest survival (Table 3). Survival also varied by race and ethnicity, being lower among non-Hispanic blacks and Hispanics compared to non-Hispanic whites and Asian/Pacific Islanders (Table 3, Figure 3). In particular, among women aged 20–29 years, survival was markedly lower among non-Hispanic blacks compared to non-Hispanic whites. Survival tended to be similar across age decades for stage I and II cancer, but lower for women aged 20–29 years with stage III cancer compared to the other age decades (Table 3, Figure 4).
+Figure 3.
+Ten-year survival by race and ethnicity for women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2014, SEER 18 registries. A) Women ages 20–29 years. B) Women ages 30–39 years. C) Women ages 40–49 years. Survival was calculated using the analytic sample. Numbers of patients at risk are given below the x-axis. SEER = Surveillance, Epidemiology, and End Results.
+Figure 4.
+Ten-year survival by stage and HR status and grade for women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2014, SEER 18 registries. A) Women ages 20–29 years. B) Women ages 30–39 years. C) Women ages 40–49 years. D) Women ages 20–29 years. E) Women ages 30–39 years. F) Women ages 40–49 years. Survival for (A, B, and C) was calculated using the analytic sample; survival for (D, E, and F) was calculated using the analytic subsample. Numbers of patients at risk are given below the x-axis. HR = hormone receptor; SEER = Surveillance, Epidemiology, and End Results.
+Table 3.
+Five- and ten-year survival by patient and tumor characteristics among women aged 20–49 years diagnosed with stage I–III breast cancer, 2000–2014, SEER 18 registries
+Characteristic
+Years
+20–29 years
+30–39 years
+40–49 years
+No.*
+Survival
+No.*
+Survival
+No.*
+Survival
+(95% CI)
+(95% CI)
+(95% CI)
+Analytic sample
+5
+3544
+85.6 (84.2 to 86.8)
+32 277
+87.9 (87.5 to 88.3)
+118 606
+91.8 (91.6 to 91.9)
+10
+3544
+74.6 (72.6 to 76.4)
+32 277
+78.9 (78.4 to 79.5)
+118 606
+84.9 (84.6 to 85.2)
+Race and ethnicity
+Non-Hispanic white
+5
+1782
+88.6 (86.9 to 90.1)
+18 103
+89.7 (89.2 to 90.1)
+75 346
+93.1 (92.9 to 93.3)
+10
+1782
+78.4 (75.9 to 80.7)
+18 103
+81.2 (80.5 to 81.9)
+75 346
+86.8 (86.5 to 87.1)
+Non-Hispanic black
+5
+642
+78.4 (74.6 to 81.7)
+4616
+80.3 (79.1 to 81.5)
+14 114
+83.5 (82.8 to 84.2)
+10
+642
+62.4 (57.1 to 67.2)
+4616
+69.6 (67.9 to 71.1)
+14 114
+73.7 (72.8 to 74.6)
+Non-Hispanic Asian/Pacific Islander
+5
+347
+89.2 (84.9 to 92.4)
+3589
+91.9 (90.8 to 92.8)
+11 901
+94.2 (93.7 to 94.6)
+10
+347
+77.9 (71.3 to 83.2)
+3589
+83.9 (82.2 to 85.4)
+11 901
+88.3 (87.5 to 89.1)
+Hispanic (all races)
+5
+731
+83.3 (80.1 to 86.1)
+5588
+86.0 (84.9 to 87.0)
+16 026
+90.8 (90.3 to 91.3)
+10
+731
+74.7 (70.3 to 78.5)
+5588
+75.6 (74.1 to 77.1)
+16 026
+82.9 (82.1 to 83.7)
+Stage
+I
+5
+843
+95.6 (93.8 to 96.9)
+9351
+96.6 (96.2 to 97.0)
+49 875
+97.5 (97.3 to 97.6)
+10
+843
+89.1 (85.8 to 91.7)
+9351
+91.9 (91.2 to 92.6)
+49 875
+93.9 (93.6 to 94.2)
+II
+5
+1855
+89.5 (87.8 to 90.9)
+15 807
+90.4 (89.9 to 90.9)
+49 529
+92.2 (92.0 to 92.5)
+10
+1855
+80.0 (77.5 to 82.3)
+15 807
+81.7 (80.9 to 82.4)
+49 529
+84.9 (84.5 to 85.3)
+III
+5
+846
+66.9 (63.2 to 70.3)
+7119
+71.0 (69.8 to 72.1)
+19 202
+75.9 (75.3 to 76.6)
+10
+846
+48.1 (43.6 to 52.4)
+7119
+55.5 (54.0 to 56.9)
+19 202
+61.8 (61.0 to 62.7)
+Analytic subsample
+5
+3186
+85.0 (83.6 to 86.4)
+29 336
+87.9 (87.5 to 88.3)
+107 161
+91.8 (91.6 to 92.0)
+10
+3186
+74.2 (72.1 to 76.1)
+29 336
+78.8 (78.3 to 79.4)
+107 161
+85.0 (84.7 to 85.2)
+HR status and grade
+HR+ low grade
+5
+914
+94.1 (92.1 to 95.7)
+10 842
+95.0 (94.5 to 95.4)
+58 277
+96.9 (96.7 to 97.1)
+10
+914
+81.2 (77.1 to 84.6)
+10 842
+85.4 (84.5 to 86.3)
+58 277
+91.1 (90.8 to 91.4)
+HR+ high grade
+5
+1097
+83.5 (80.8 to 85.8)
+9082
+88.0 (87.2 to 88.7)
+25 717
+90.0 (89.6 to 90.4)
+10
+1097
+67.7 (63.6 to 71.4)
+9082
+75.3 (74.2 to 76.5)
+25 717
+80.2 (79.6 to 80.8)
+HR−
+5
+1175
+79.6 (76.9 to 81.9)
+9412
+79.8 (78.9 to 80.7)
+23 167
+81.4 (80.8 to 81.9)
+10
+1175
+73.8 (70.8 to 76.6)
+9412
+74.3 (73.3 to 75.3)
+23 167
+75.1 (74.5 to 75.8)
+*
+Number of patients at risk at start of follow-up. CI = confidence interval; HR = hormone receptor; SEER = Surveillance, Epidemiology, and End Results.
+Stratifying by HR status and disease grade, 10-year survival estimates for HR+ low- and high-grade cancer decreased with decreasing age; estimates for HR− cancer were similar across age decades (Table 3, Figure 4). Ten-year survival for women aged 20–29 years with HR+ high-grade cancer was lower than that for women with either HR+ low-grade or HR− cancer; this pattern persisted across each racial and ethnic group (Supplementary Figure 2, available online). Among women aged 20–29 years, the largest declines in survival after 5 years were observed for those with HR+ low- and high-grade cancer; this pattern tended to be similar but of lesser magnitude among women aged 30–49 years. Notably, 10-year survival among women aged 20–29 years with stage I HR+ high-grade cancer (79.8%) was lower than that for women with stage I HR− cancer (89.3%) (Supplementary Table 4, available online). Median follow-up times for the analytic sample and subsample were 83 months and 80 months, respectively. Removing women first diagnosed in 2000–2014 with a second primary malignancy did not substantively alter the survival results (data not shown).
+Discussion
+Our population-based analysis provides insights into contemporary patterns in incidence and survival of young women with stage I–III breast cancer in the United States. Incidence is increasing among women aged 20–49 years, driven by marked increases in HR+ cancer. Among women aged 30–49 years, increases in HR+ cancer were counterbalanced by decreases in HR− cancer. Although women in each age decade were observed to have increases in both HR+ low- and high-grade cancer, AAPCs for HR+ low-grade cancer were greater than those for HR+ high-grade cancer among women aged 20–29 and 40–49 years. We also observed consistent increases in HR+ cancer across racial and ethnic groups. Examining 10-year survival revealed that survival for women with HR+ cancer decreased with decreasing age, being lowest among women aged 20–29 years, among whom survival was lowest for those with HR+ high-grade cancer. Deaths after 5 years were observed disproportionately for women with HR+ cancer, particularly among those aged 20–29 years. Ten-year survival among women aged 20–29 years with stage I cancer was lower for HR+ high-grade than HR− cancer.
+The increased incidence in breast cancer that we observed among women aged 20–39 years is consistent with findings from population-based analyses from the United States, Europe, and Asia (17–20, 30–32); however, these studies included diagnoses that spanned 1975–2015 and did not assess incidence for stage I–III breast cancer by HR status and grade. Our analyses of women diagnosed from 2000 to 2015 suggest an increased incidence among women aged 20–29 years, largely driven by HR+ cancer, and stable incidence among those aged 30–39 years. A study that analyzed SEER data among women aged 25–39 years diagnosed with breast cancer from 1976–2009 reported increased incidence over the study period for women with distant metastases, particularly for ER+ cancer, but no change to overall incidence of localized and regionalized cancer (20). Important distinctions between our study and the previous one that used SEER data are that we included women younger than age 25 years, our study period was more recent, and we observed differing incidence patterns for HR+ and HR− cancer for localized and regionalized cancer.
+Our finding that young women, particularly those aged 20–29 years, have poor survival and that, over time, survival was lower for those with HR+ than HR− cancer was suggested in other recent smaller series. A prospective, observational study of nearly 3000 women aged 18–40 years diagnosed with breast cancer during 2000–2008 reported that risk of death continued to increase over time for women with ER+ cancer, but risk of death peaked at 2 years for women with ER− cancer (33). A study of 2125 Chinese women diagnosed with breast cancer during 2004–2011 observed lower 5-year survival among women no more than 40 years old with luminal A and luminal B cancers compared to those aged 41–50 years, but not among those with HER2+ cancer or HER2− and HR− cancer (34). A recent study of 17 575 women diagnosed with stage I–III breast cancer and enrolled in the National Comprehensive Cancer Network Outcomes Database Project reported that women younger than 40 years of age had poorer clinical outcomes compared to older women, particularly those with luminal breast cancers; however, the women studied received treatment from 2000–2007, a period during which the use of adjuvant taxanes as HER2-directed therapy and dose-dense approaches were emerging (1). Our findings suggest that differences in survival for HR+ and HR− cancer persist despite therapeutic advances. A recent study using SEER 9 data examined breast cancer survival for women diagnosed at aged 20–39 years from 1975 to 2015 and reported improvements in 5-year survival over the study period (32). Important distinctions between the previous study and our study include our use of SEER 18 data, examination of 10-year survival, and estimation of survival patterns by disease HR status and grade as well as patient race and ethnicity.
+With regard to both incidence and survival, our observation of increasing incidence of breast cancer in non-Hispanic white women aged 20–49 years is a rare report of inferior cancer findings in this racial and ethnic group. The lower survival that we observed among non-Hispanic blacks and Hispanics has been reported previously in recent work that suggested intentional care delivery may overcome this (35). Taken together, our incidence and survival findings suggest that there will be a continuing and growing increase in the number of deaths for women aged 20–29 years diagnosed with HR+ cancer.
+Undertreatment and disparities in care also may contribute to the inferior survival that we observed for the youngest women with HR+ breast cancer. Only late in our study period did data emerge on the recurrence-free survival benefit from near-complete estrogen deprivation with ovarian function suppression and an aromatase inhibitor for women under age 35 years (36–38), with guidelines recommending this therapy being published in 2016 (39). Young age has been associated with lower likelihood of both treatment-related amenorrhea and the corresponding improved disease outcomes in HR+ breast cancer (40–42). Young age also has been associated with lower adherence to anti-estrogen therapies (43), which itself has been associated with increased mortality (44). Additionally, issues of fertility and pregnancy are salient for these women of reproductive age and may influence treatment decisions (45, 46). Disparities in care delivery, particularly aspects of care that can be finance- and time-intensive and impact cosmesis, may impact breast cancer survival in younger women. In a report using the National Cancer Database, women aged 40 years and younger were less likely to receive radiation therapy if they underwent breast-conserving therapy (47). A report from the US Department of Defense database on outcomes in a single-payer system identified equivalent rates of 10-year overall survival between women younger than 50 years and those 50 years and older, even though the younger cohort received significantly more chemotherapy than the older cohort (48). This finding suggests that therapy and better access to care could mitigate disease outcomes.
+Our finding that young women with stage I HR+ breast cancer had disproportionally lower 10-year survival may suggest opportunities to improve survival through more intentional care delivery. For example, near-complete estrogen deprivation has demonstrated outcome benefit for premenopausal women with HR+ breast cancer (36–38), albeit with likely compromise to bone, cardiac, and reproductive health. Areas for study may include applying this treatment regimen to young women with high-risk stage I cancer, implementing a longer duration of anti-estrogen therapy, and conducting more intentional follow-up after diagnosis for these women who might otherwise be perceived by providers and patients alike to be at lower risk.
+Important aspects of our work include use of a large, population-based and racially and ethnically diverse sample. By using the SEER 18 registries database, we were able to study breast cancer occurrence for more than one-quarter of the US population. Limitations of our study include that this work is retrospective, and neoadjuvant or adjuvant treatment information was unavailable. Improved reporting of HR status and grade throughout the study period may have positively biased AAPC estimates in our analytic subsample; however, distributions of age, race and ethnicity, and stage were similar between women with known and unknown HR status and grade, and effects on the AAPCs were observed to be modest. Further, younger women with breast cancer have disproportionately more germline mutations than women diagnosed at older aged (12–14) and could be vulnerable to second cancers that may impact their survival. For example, the rate of germline BRCA mutations in the Prospective Outcomes in Sporadic versus Hereditary Breast Cancer study was 12% (49). After a median of 8.2 years of follow-up, these women had comparable outcomes to women without these mutations. Excluding women in our analyses who developed second cancers during the study period did not alter our findings for survival. Lastly, we did not have information on reproductive health; thus, we were unable to study the influence of parity or peripartum status on incidence and survival estimates.
+Among women aged 20–39 years, breast cancer has the highest incidence and mortality of any cancer across less-developed to highly developed nations (50), underscoring the need to decrease the burden of this malignancy. Importantly, these women are younger than the age cutoffs used for initiation of radiographic screening, and further, the dense breast of younger women may limit the utility of imaging in this population (51). Although questions regarding accuracy and age cutoffs would need to be addressed, perhaps this could ultimately offer an opportunity to study novel approaches to diagnosis, such as circulating free DNA (52–54).
+In summary, we characterized incidence and survival by age decade for a large, population-based retrospective cohort of premenopausal women diagnosed with stage I–III breast cancer. We observed that HR+ cancer increased in each age decade and tended to account for the highest death rate beyond 5 years, particularly among women aged 20–29 years. Our findings suggest that with longer-term follow-up, this disparity in survival will become more apparent, prompting the need for further evaluation of preventive, diagnostic, and therapeutic strategies for these women.
+Funding
+This work was supported by grants from the Centers for Disease Control and Prevention (grant numbers U01DD001035, U01DD001223), the National Cancer Institute (grant number HHSN2612013000201), and the Nealie Belk Stevens Fund for Breast Cancer Research.
+Notes
+Affiliations of authors: Department of Internal Medicine (AT) and Department of Cancer Biology (LRM), Wake Forest University School of Medicine, Wake Forest University, Winston-Salem, NC; Department of Epidemiology, College of Public Health (AR, EP, KMC, CFL, PAR), Division of Health Services Research, College of Pharmacy (MCS), and Department of Biostatistics, College of Public Health (JO, PAR), University of Iowa, Iowa City, IA; Department of Internal Medicine, Virginia Commonwealth University, Richmond, VA (WGH).
+Previous presentation: Presented at ESMO 2018 Munich, Germany.
+The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publication. The authors have no conflicts of interest to disclose.
+Supplementary Material
+pkz040_Supplementary_Data
+Click here for additional data file.

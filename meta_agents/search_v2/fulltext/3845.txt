@@ -1,0 +1,756 @@
+record_id=3845 pmid= doi=10.1186/2193-1801-2-3 pmcid=
+SOURCE: unpaywall-oa
+TITLE: Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008)
+
+R E S E A R C H Open Access
+Characterizing inflammatory breast cancer among
+Arab Americans in the California, Detroit and New
+Jersey Surveillance, Epidemiology and End Results
+(SEER) registries (1988 –2008)
+Kelly A Hirko 1,2*, Amr S Soliman 3, Mousumi Banerjee 4, Julie Ruterbusch 5, Joe B Harford 6, Robert M Chamberlain 1,7,
+John J Graff 8, Sofia D Merajver 1,2,9 and Kendra Schwartz 10
+Abstract
+Introduction: Inflammatory breast cancer (IBC) is characterized by an apparent geographical distribution in
+incidence, being more common in North Africa than other parts of the world. Despite the rapid growth of
+immigrants to the United States from Arab nations, little is known about disease patterns among Arab Americans
+because a racial category is rarely considered for this group. The aim of this study was to advance our
+understanding of the burden of IBC in Arab ethnic populations by describing the proportion of IBC among
+different racial groups, including Arab Americans from the Detroit, New Jersey and California Surveillance,
+Epidemiology and End Results (SEER) registries.
+Methods: We utilized a validated Arab surname algorithm to identify women of Arab descent from the SEER
+registries. Differences in the proportion of IBC out of all breast cancer and IBC characteristics by race and
+menopausal status were evaluated using chi-square tests for categorical variables, t-tests and ANOVA tests for
+continuous variables, and log-rank tests for survival data. We modeled the association between race and IBC among
+all women with breast cancer using hierarchical logistic regression models, adjusting for individual and census
+tract-level variables.
+Results: Statistically significant differences in the proportion of IBC out of all breast cancers by race were evident. In
+a hierarchical model, adjusting for age, estrogen and progesterone receptor, human epidermal growth receptor 2,
+registry and census-tract level education, Arab-Americans (OR=1.5, 95% CI=1.2,1.9), Hispanics (OR=1.2, 95%
+CI=1.1,1.3), Non-Hispanic Blacks (OR=1.3, 95% CI=1.2, 1.4), and American Indians/Alaskans (OR=1.9, 95% CI=1.1, 3.4)
+had increased odds of IBC, while Asians (OR=0.6, 95% CI=0.6, 0.7) had decreased odds of IBC as compared to
+Non-Hispanic Whites.
+Conclusions: IBC may be more common among certain minority groups, including Arab American women.
+Understanding the descriptive epidemiology of IBC by race may generate hypotheses about risk factors for this
+aggressive disease. Future research should focus on etiologic factors that may explain these differences.
+Keywords: Inflammatory breast cancer, Arab, Race, Hierarchical logistic regression
+* Correspondence: kellyannelamb@gmail.com
+1Department of Epidemiology, University of Michigan School of Public
+Health, Ann Arbor, MI 48109, USA
+2Center for Global Health, University of Michigan, Ann Arbor, MI 48104, USA
+Full list of author information is available at the end of the article
+a SpringerOpen Journal
+© 2013 Hirko et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly cited.
+Hirko et al. SpringerPlus 2013, 2:3
+http://www.springerplus.com/content/2/1/3
+Background
+Inflammatory breast cancer (IBC) is an aggressive type
+of breast cancer with poor prognosis. IBC is character-
+ized by an apparent non uniform geographical distribu-
+tion in incidence, being more common in North Africa
+than in other parts of the world. Prior studies have
+demonstrated that between 1-6% of all breast cancers
+in the United States are IBC (Taylor & Meltzer 1938;
+Haagensen 1971; Levine et al. 1985), while the propor-
+tion of IBC in Tunisia has been reported as high as 55%
+(Mourali et al. 1980) with more recent estimates sug-
+gesting that IBC represents 5-7% of all breast cancers in
+Tunisia (Boussen et al. 2008). A population-based study
+in Egypt established that 11% of all breast cancers there
+were IBC, which is considerably higher than what is
+reported in most of the western world (Soliman et al.
+2009). In addition to geographical variability in IBC oc-
+currence, studies also suggest that substantial disparities
+in IBC occurrence may exist by age, race, and socioeco-
+nomic status (SES) (Levine et al. 1985; Chang et al.
+1998a; Hance et al. 2005). Studies in the U.S. have
+demonstrated a higher incidence rate of IBC among Af-
+rican American women as compared to White women,
+and comparable rates among Hispanic and non-Hispanic
+white women; moreover, a younger mean age of IBC
+onset among Hispanic women as compared to White
+and African American women has been noted (Hance
+et al. 2005; Wingo et al. 2004; Il'yasova et al. 2011). Fur-
+thermore, socioeconomics may play an important role in
+IBC risk, as is evident in the rural predominance of the
+disease in Tunisia where the SES is generally lower than
+in urban regions (Mourali et al. 1980; Boussen et al.
+2008; Boussen et al. 2010a), and also in the comparison
+of IBC in North African migrants to France compared
+with French women living in the same region (Le et al.
+2005). A steady decline in IBC cases has been reported
+appearing in parallel with improved socioeconomic con-
+ditions in Tunisia (Boussen et al. 2010b), lending further
+support for the association between SES and IBC.
+Arabic immigrants represent a rapidly growing popu-
+lation in the United States (Zogby 1990; Abraham &
+Abraham 1983), although the overall size of the Arab
+American population is highly debated (Jamil et al.
+2009). While Arab Americans live in all fifty states, it is
+estimated that the majority reside in California,
+Michigan, New York, Florida, and New Jersey (Arab
+American Institute 2004). Despite the rapid growth of
+immigrants from Arab nations, little is known about dis-
+ease patterns among this group because a racial/ethnic
+category is often not designated for this group, resulting
+in broad inclusion of Arabs into the White racial cat-
+egory. Previous studies have constructed and utilized
+surname databases to identify Arab immigrants and to
+describe relative proportions of different cancer types
+among this population (Nasseri 2007; Schwartz et al.
+2004; Lauderdale 2006). A recent study in the Detroit
+SEER registry demonstrated increased odds of IBC
+among Arab Americans as compared to European-
+Americans (Alford et al. 2009); however, this estimate
+failed to reach statistical significance, perhaps due to the
+small sample size.
+The aim of this study was to examine the occurrence
+of IBC among Arab Americans in the California, Detroit
+and New Jersey SEER registries. These registries have
+the largest expected Arab American populations and
+were included to maximize the number of Arab Ameri-
+cans in our sample. Understanding the descriptive epi-
+demiology of IBC in Arab Americans may generate
+hypotheses about potential risk factors for this aggressive
+disease.
+Methods
+The study population consisted of all women diagnosed
+with primary invasive breast cancer from 1988 – 2008 in
+the SEER population-based cancer registries in Detroit,
+New Jersey and California. For each case, the following
+information from routinely collected registry data was
+obtained: age at diagnosis, race, hormonal receptor sta-
+tus, tumor characteristics, staging, and survival time.
+The Reporting Recommendations for Tumor Marker
+Prognostic Studies (REMARK) guidelines were followed
+in the reporting of the hormonal receptor results
+(McShane et al. 2005). Assay results for estrogen and
+progesterone receptor status, prior to neoadjuvant ther-
+apy, if available, were abstracted by the SEER registries
+from the medical record (Johnson & Adamo 2008).
+Cases where the assay was not performed or was border-
+line or undetermined were not included in our logistic
+regression model of marker status by race/ethnicity. The
+percent of individuals over 25 years of age without a
+high school diploma within a census tract was also
+obtained from the SEER registries. We categorized the
+census-tract level education as high, middle, and low
+based on tertiles of the overall distribution of this vari-
+able in our dataset as follows: High education = <10.85%
+less than high school graduate; Middle education =
+>10.85% less than high school graduate and <21.97% less
+than high school graduate; Low education = >21.97%
+less than high school graduate. Women 50 years of age
+and older were considered post-menopausal while those
+under the age of 50 were considered pre-menopausal.
+Data were stripped of all personal identifiers, and the
+analyses were approved by the University of Michigan
+Institutional Review Board, Wayne State University
+Human Investigations Committee, the California Protec-
+tion for Human Subjects Committee, and the Institu-
+tional Review Board at the University of Medicine and
+Dentistry of New Jersey.
+Hirko et al. SpringerPlus 2013, 2:3 Page 2 of 8
+http://www.springerplus.com/content/2/1/3
+Using a validated Arabic name algorithm, we identified
+Arab American women based on maiden name or sur-
+name if maiden name was not available in the National
+Cancer Institute ’s SEER registry data from Detroit, New
+Jersey and California in 1988 – 2008. The Arabic name
+algorithm was created by compiling names from vital
+statistics records that indicated Arab ethnicity, Arab
+community group name rosters, and other publicly avail-
+able name lists. There are over 13,000 surnames on the
+lists and they have been reviewed multiple times by Arab
+community members for accuracy. Several quality con-
+trol measures were used in creating the lists (Schwartz
+et al. 2004), and a recent telephone validation survey
+demonstrated that the lists have a 91% positive predict-
+ive value [Schwartz et al, in press]. The SEER race codes
+and Spanish and Hispanic origin variable based on the
+direct identification component of NAACCR Hispanic
+Identification Algorithm were utilized to identify the
+other racial categories in our study. We then compared
+the proportion of IBC out of all breast cancers and the
+tumor characteristics and survival time among Arab
+American, non-Hispanic White (NHW), non-Hispanic
+Black (NHB), Hispanic, Asian, and American Indian/Al-
+askan women.
+IBC cases were identified using comprehensive coding
+including ICD-O 8530, which requires pathologic plug-
+ging of the dermal lymphatics with tumor emboli, or the
+extent of disease (EOD) codes EOD-E70 or EOD-E 710 –
+730 or AJCC T4d. This comprehensive case definition of
+IBC has been utilized in recent publications on IBC
+from SEER registries (Schlichting et al. 2011; Schairer
+et al. 2011).
+We evaluated differences in the proportion of IBC out
+of all breast cancer and IBC characteristics by race and
+menopausal status using chi-square tests or Fisher's
+exact test for categorical variables and t-tests and
+ANOVA tests for continuous variables. Log-rank tests
+were utilized to evaluate differences in IBC survival by
+race and menopausal status. Logistic regression models
+were utilized to characterize differences in tumor marker
+status among the IBC cases by race. We then modeled
+the association between race and IBC among all women
+with breast cancer using hierarchical logistic regression
+models, adjusting for age, tumor marker status, registry
+and the derived census tract-level education variable.
+This model accounts for the hierarchical structure and
+clustering of the data by specifying random effects for
+the individual-level and census tract-level variables. Con-
+founders were included in the model based upon our
+prior knowledge. Furthermore, potential confounders
+that resulted in at least a 10% change-in-estimate criteria
+between the crude and adjusted measures were included
+in the model. We tested for interactions between race
+and each of the characteristics; significant interactions
+were retained in the model along with their main effects.
+The hierarchical logistic model was restricted to the
+years 1999 – 2008, where tumor marker status informa-
+tion was more regularly reported in SEER. Data analysis
+was performed using SAS version 9.0 (SAS Institute Inc,
+Cary, NC); P≤.05 was used to determine statistical
+significance.
+Results
+A total of 621,465 female breast cancer cases were
+included in our study population, of which 9,135 (1.47%)
+were considered IBC. As shown in Table 1, Hispanic
+women had the lowest mean age at IBC diagnosis of
+52.6 years. Arab Americans (58.5 years) and NHW
+women (60.1 years) were diagnosed with IBC at older
+ages compared to the other racial groups in our study.
+Compared to NHW women, all other racial categories
+were more likely to be diagnosed with estrogen receptor
+(ER) negative and progesterone receptor (PR) negative
+tumors, and were more likely to be diagnosed when pre-
+menopausal (Table 1), although this trend was the least
+pronounced among the Arab American women. Arab
+Americans had the longest mean survival time of 50.5
+months, while American Indian/Alaskan natives had the
+shortest mean survival of 24.8 months (p<.0001). Statis-
+tically significant differences in the proportion of IBC
+out of all breast cancers by racial/ethnic group were evi-
+dent; 2.91% IBC among American Indian/Alaskan, 2.3%
+IBC among Hispanics, 2.2% IBC among NHB, 1.7% IBC
+among Arab Americans, 1.3% IBC among NHW and
+1.2% IBC among Asians (Table 2).
+In a hierarchical model, adjusting for age, ER, PR,
+human epidermal receptor 2 (Her2), registry and census
+tract-level education, Arab-Americans (OR=1.5, 95%
+CI=1.2, 1.9), NHB (OR=1.3, 95% CI=1.2, 1.4), Hispanics
+(OR=1.2, 95% CI=1.1,1.3), and American Indians/Alaskans
+(OR=1.9, 95% CI=1.1, 3.4) all had increased odds of IBC
+diagnosis as compared to NHW, while Asians had a
+decreased odds of IBC as compared to NHW (OR=0.6,
+95% CI=0.6, 0.7) (T able 3). Interaction terms for race by
+each characteristic were evaluated in the hierarchical
+model. The interaction term for race by ER was statisti-
+cally significant (p<.0001) and was included in the final
+model. NHW women were less likely to have ER/PR nega-
+tive tumors as compared to all other racial categories, al-
+though this difference was not statistically significant
+among Arab-Americans and American Indian/Alaskan
+natives (T able 4). Hispanic (45.8%) and American Indian/
+Alaskan (42.1%) women had the highest percentage of
+IBC cases diagnosed in the premenopausal years as com-
+pared to the other racial groups, while only 26.6% of Arab
+American women were diagnosed in premenopausal years
+(T able 5). Premenopausal IBC cases were more likely to be
+ER/PR negative, and in the low education category as
+Hirko et al. SpringerPlus 2013, 2:3 Page 3 of 8
+http://www.springerplus.com/content/2/1/3
+compared to postmenopausal IBC cases. Further, preme-
+nopausal women had a significantly improved mean sur-
+vival of 96.4 months as compared to 59.2 months among
+postmenopausal women (p<.0001) (T able 5).
+Discussion
+This study demonstrated significant differences in the
+presentation of IBC and the proportion of IBC out of all
+breast cancers by racial group. Our finding of a younger
+age at onset of IBC among Hispanic women as com-
+pared to NHB and NHW women is consistent with a
+previous study (Wingo et al. 2004). Almost half of the
+IBC cases among Hispanic and American Indian/
+Alaskan natives occurred before the age of 50. While
+previous studies suggest that IBC rates are similar be-
+tween non-Hispanic whites and Hispanic women, we
+found the proportion of IBC out of all breast cancers
+was significantly higher among Hispanic women as com-
+pared to NHW. If the IBC rates are in fact similar be-
+tween these women, our results may be explained by
+differences in the trends of non-IBC breast cancer be-
+tween groups, as non-IBC breast cancer incidence rates
+have remained stable after declining 7% from 2002 to
+2003 (American Cancer Society 2012; DeSantis et al.
+2011). These findings highlight the limitation of using
+proportion of IBC out of all breast cancer instead of IBC
+Table 1 Inflammatory breast cancer characteristics by race
+Arab NHW a NHB b Hispanic Asian AI_Al c p-value
+(n=94) (n=6,035) (n=1,085) (n=1,415) (n=449) (n=19)
+n (%) n(%) n(%) n(%) n(%) n(%)
+Estrogen Receptor
+d
+Positive 38 (42.2%) 2,219 (39.3%) 332 (32.1%) 491 (36.4%) 156 (36.7%) 7 (36.8%) 0.0070
+Negative 36 (40.0%) 1,833 (32.4%) 391 (37.7%) 474 (35.1%) 156 (36.7%) 7 (36.8%)
+Unknown 16 (17.8%) 1,598 (28.3) 313 (30.2%) 384 (28.5%) 113 (26.6%) 5 (26.3%)
+Progesterone Receptor
+d
+Positive 23 (25.6%) 1,762 (31.2%) 252 (24.3%) 380 (28.2%) 117 (27.5%) 4 (21.1%) 0.0003
+Negative 50 (55.5%) 2,195 (38.8%) 453 (43.7%) 570 (42.2%) 189 (44.5%) 10 (52.6%)
+Unknown 17 (18.9%) 1,693 (30%) 331 (32%) 399 (29.6%) 119 (28%) 5 (26.3%)
+Combined Hormonal Status
+e
+ER+ PR+ 20 (27.4%) 1,597 (40.6%) 222 (31.6%) 336 (35.7%) 108 (35.3%) 4 (28.6%) 0.0002
+ER+ PR- 17 (23.3%) 538 (13.7%) 98 (14%) 136 (14.4%) 44 (14.4%) 3 (21.4%) 0.0948
+ER- PR+ 3 (4.1%) 158 (4.0%) 28 (4%) 42 (4.5%) 9 (2.9%) 0 (0%) 0.8900
+ER- PR - 33 (45.2%) 1,642 (41.7%) 354 (50.4%) 428 (45.4%) 145 (47.4%) 7 (50.0%) 0.0129
+Her-2 Receptor
+f
+Positive 14 (29.2%) 594 (21.9%) 94 (17.9%) 248 (29.9%) 83 (31.1%) 2(18.2%) <0.0001
+Negative 12 (25.0%) 906 (33.4%) 166 (31.7%) 310 (37.3%) 91 (34.1%) 5 (45.5%)
+Unknown 22 (45.8%) 1,209 (44.6%) 264 (50.4%) 272 (32.8%) 93 (34.8%) 4 (36.3%)
+Education
+g
+High 36 (38.3%) 2,233 (37.0%) 183 (16.9%) 198 (14.0%) 128 (28.5%) 3 (15.8%) <0.0001
+Middle 30 (31.9%) 2,021 (33.5%) 249 (23.0%) 262 (18.5%) 127 (28.3%) 8 (42.1%)
+Low 28 (29.8%) 1,781 (29.5%) 653 (60.2%) 955 (67.5%) 194 (43.2%) 8 (42.1%)
+Menopausal Status
+Pre (<50 yr) 25 (26.6%) 1,565 (25.9%) 389 (35.9%) 648 (45.8%) 162 (36.1%) 8 (42.1%) <0.0001
+Post (≥50 yr) 69 (73.4%) 4,470 (74.1%) 696 (64.1%) 767 (54.2%) 287 (63.9%) 11 (57.9%)
+%No Education
+g 18.6 (15) 17.7 (13) 29.4 (18) 35.2 (21) 23.7 (17) 28.8 (18) <0.0001
+Age at diagnosis 58.5 (11.7) 60.1 (14.6) 56.2 (14.5) 52.6 (14) 54.0 (12.5) 54.8 (12.7) <0.0001
+Survival (months) 50.5 (51.3) 47.6 (49.3) 33.2 (37.5) 43.1 (44.2) 49.7 (47.4) 24.8 (25.7) <0.0001
+a NHW=Non-Hispanic White.
+b NHB = Non-Hispanic Black.
+cAI_Al = American Indian/Alaskan native.
+d Sample size for ER and PR for cases diagnosed 1990 –2008 only (NHW=5650, NHB=1036, Hispanic=1349, Arab=90, Asian=425, AI_Al=19).
+e Combined hormonal status based only on non-missing data from 1990–2008 (sample size for NHW = 3935, NHB=702, Hispanic =942 , Arab=73, Asian=306, Al_AI=14).
+f Sample size for HER2 for cases diagnosed 1999 –2008 (NHW=1209, NHB=524, Hispanic=830, Arab=48, Asian=267, Al_AI=11).
+g% No Education (25 years of age or older without a high school diploma) and Education (tertiles of distribution) based on census tract-level informati on.
+*ANOVA test for continuous variables, chi-sq for categorical (or Fisher's exact test for cell counts <5), log-rank test for Survival.
+Hirko et al. SpringerPlus 2013, 2:3 Page 4 of 8
+http://www.springerplus.com/content/2/1/3
+incidence rates to evaluate racial disparities. If denomin-
+ator data were available for the Arab population in the
+SEER geographic areas, we would have been able to cal-
+culate age-standardized incidence rates for the racial
+groups.
+The racial disparities in IBC occurrence described in this
+study may be partially explained by risk factors for IBC
+that were not adequately controlled for in our analysis.
+For example, several reproductive factors have been
+found to be associated with IBC occurrence in previous
+studies. IBC patients have been reported to have a
+younger age at menarche and a younger age at first live
+birth as compared to non-inflammatory breast cancer
+and non breast cancer patients (Mourali et al. 1980;
+Chang et al. 1998a; Boussen et al. 2010b; Chang et al.
+1998b; Le et al. 2006; Levine 2004). Further, duration of
+breast feeding exceeding 24 months was found to be sig-
+nificantly associated with IBC in one study (Le et al.
+2005). If these reproductive factors are in fact risk fac-
+tors for IBC and differ by race, as we may suspect
+(Anderson et al. 2005; Hall et al. 2005), it could possibly
+explain some of the racial disparities in IBC occurrence
+observed in our study. In addition to reproductive risk
+factors for IBC, obesity has been shown to be a risk fac-
+tor for premenopausal IBC but not for postmenopausal
+non-IBC in one study (Levine & Venerose 2005), while
+another study demonstrated that IBC patients had sig-
+nificantly higher BMI than both non-IBC patients and
+non-breast cancer patients irrespective of menopausal
+status (Chang et al. 1998b). Finally, we utilized census-
+tract level information on education as a proxy for
+socioeconomic status, to account for the contextual ef-
+fect of living in a community with lower educational at-
+tainment, since individual-level education and SES
+information was unavailable in our dataset. According to
+2010 Census information, African-Americans and Hispa-
+nics have similar rates of poverty, which are approxi-
+mately threefold greater than Whites (The US Census
+Bureau 2010). Without detailed information on repro-
+ductive factors, obesity and individual-level SES available
+in the SEER dataset, we cannot control for these factors
+in our analysis. Therefore, it is possible that some of the
+difference in proportion of IBC by race may be explained
+by residual differences in risk factors that are not
+accounted for in our study. It has been suggested that
+the effect of certain risk factors for IBC may differ
+according to menopausal status (Levine & Venerose
+2005). This was apparent in urban – rural differences in
+IBC cases in Tunisia seen only in premenopausal
+patients (Mourali et al. 1980), and in obesity as a
+risk factor for premenopausal women only (Levine &
+Venerose 2005). Therefore, we stratified our hierarchical
+model by derived menopausal status to evaluate whether
+menopause modified the association between race and
+IBC. Our derived menopausal status variable has been
+shown to be a robust indicator of actual menopausal sta-
+tus (Phipps et al. 2010; Morabia & Flandre 1992), and
+has been utilized in several population-based studies on
+breast cancer (Anderson et al. 2003; Anderson et al.
+2004). Stratifying our results for the effect of race
+on IBC, we found that menopausal status did not
+significantly modify the effect of race on IBC (data not
+shown); however, we did find significant differences in
+disease characteristics between pre-menopausal and
+post-menopausal IBC cases. The differences in education
+and hormonal receptor status may provide evidence for
+differing etiologies for premenopausal and postmeno-
+pausal IBC cases, and this should be considered in
+future research on IBC risk factors. However, it is im-
+portant to note that we used age as a proxy for meno-
+pausal status. Thus, differences in IBC occurrence by
+menopausal status in our analysis may simply reflect the
+effect of age and not necessarily an effect of menopause.
+Early treatment is critical to improve outcomes for IBC.
+Our study found improved survival among Arab Americans
+IBC cases compared to all other racial categories. This
+Table 2 Proportion of IBC out of all breast cancers by
+race and registry
+Race All Breast Cancer IBC %IBC p-value
+All Races combined 621,465 9,135 1.47% -
+NHW 462,717 6,035 1.30% <0.0001
+NHB 49,980 1,085 2.17%
+Hispanic 61,062 1,415 2.32%
+Arab-American 5,539 94 1.70%
+Asian 37,085 449 1.21%
+American Indian/Alaskan 652 19 2.91%
+Other 506 6 1.19%
+Unknown 3,924 32 0.82%
+New Jersey Registry 135,764 1,333 0.98% <0.0001
+Detroit Registry 60,412 808 1.34%
+California Registry 425,289 6,994 1.64%
+*P-value from chi square test.
+Table 3 Odds ratios (95% CI) for IBC by race
+Race Crude Model Age-Adjusted HLM a
+Non-Hispanic White 1.0 (ref) 1.0 (ref) 1.0 (ref)
+Non-Hispanic Black 1.8 (1.7, 2.0) 1.7 (1.6, 1.8) 1.3 (1.2, 1.4)
+Hispanic 1.7 (1.6, 1.8) 1.5 (1.4, 1.6) 1.2 (1.1, 1.3)
+Arab-American 1.4 (1.1, 1.8) 1.3 (1.1, 1.6) 1.5 (1.2, 1.9)
+Asian 0.9 (0.8, 0.9) 0.8 (0.7, 0.8) 0.6 (0.6, 0.7)
+American Indian/Alaskan 2.2 (1.4, 3.5) 2.0 (1.2, 3.2) 1.9 (1.1, 3.4)
+Other 0.9 (0.3, 2.3) 0.8 (0.3, 2.0) 1.1 (0.3, 3.8)
+Unknown 0.6 (0.4, 0.9) 0.6 (0.4, 0.9) 0.9 (0.6, 1.3)
+a=Hierarchical logistic regression model adjusted for age, ER, PR, Her2, registry
+and census tract-level education and included interaction term between race
+and ER.
+Hirko et al. SpringerPlus 2013, 2:3 Page 5 of 8
+http://www.springerplus.com/content/2/1/3
+finding was also recently reported in non-IBC cases among
+Arab Americans (Alford et al. 2009). American Indian/Al-
+askan natives were found to have the shortest mean sur-
+vival time, and efforts to reach these populations for early
+treatment of disease should become a priority. We also
+found improved survival times among premenopausal IBC
+cases as compared to postmenopausal women, which is not
+entirely surprising due to the implications of age on
+survival. These survival disparities need to be addressed
+and may reflect a lack of early detection, lack of timely and
+aggressive treatment, and access to care. Without complete
+treatment information including chemotherapy in our data-
+set, we are unable to explore these survival differences in
+more depth in this study.
+Limitations of this study include a potential for misclassifi-
+cation of Arab women, especially where the maiden name
+Table 4 Odds ratios (95% CI) for marker status at IBC diagnosis by race
+Marker a NHW NHB Hispanic Arab Asian AI_Al
+ER+PR+ 1.0 0.72 (0.61, 0.84) 0.87 (0.76, 0.99) 0.75 (0.46, 1.2) 0.88 (0.7, 1.1) 0.74 (0.25, 2.2)
+ER- PR- 1.0 1.30 (1.1, 1.5) 1.16 (1.02, 1.3) 1.45 (0.9, 2.2) 1.28 (1.04, 1.57) 1.56 (0.6, 4.0)
+a ER and PR non-missing data from 1990 –2008 only (sample size for NHW = 3935, NHB=702, Hispanic =942 , Arab=73, Asian=306, Al_AI=14).
+Table 5 Study population characteristics of IBC cases by menopausal status (age <50 yr vs. >=50 yr)
+All IBC Premenopausal IBC Postmenopausal IBC p-value
+(n=9,135) (n=2811) (n=6,324)
+n (%) n (%) n (%)
+Race
+Non-Hispanic White 6,035 (66.1%) 1,565 (25.9%) 4,470 (74.1%) <0.0001
+Non-Hispanic Black 1,085 (11.9%) 389 (35.9%) 696 (64.1%)
+Arab-American 94 (1%) 25 (26.6%) 69 (73.4%)
+Hispanic 1,415 (15.5%) 648 (45.8%) 767
+Asian 449 (4.9%) 162 (36.1%) 287 (63.9%)
+American Indian/Alaskan 19 (0.2%) 8 (42.1%) 11 (57.9%)
+Other 6 (0.07%) 1 (16.7%) 5 (83.3%)
+Unknown 32 (0.35%) 13 (40.6%) 19 (59.4%)
+Estrogen Receptor
+a
+Positive 3,258 (37.9%) 893 (33.8%) 2,365 (39.7%) <0.0001
+Negative 2,909 (33.8%) 1,017 (38.4%) 1,892 (31.7%)
+Unknown 2,438 (28.3%) 735 (27.8%) 1,703 (28.6%)
+Progesterone Receptor
+a
+Positive 2,551 (29.7%) 768 (29.0%) 1,783 (29.9%) 0.17
+Negative 3,480 (40.4%) 1,109 (41.9%) 2,371 (39.8%)
+Unknown 2,574 (29.9%) 768 (29.0%) 1,806 (30.3%)
+Her-2 Receptor
+b
+Positive 1,042 (23.6%) 349 (27.3%) 693 (22.1%) 0.0005
+Negative 1,496 (33.9%) 426 (33.4%) 1,070 (34.1%)
+Unknown 1,879 (42.5%) 502 (39.3%) 1,377 (43.8%)
+Education
+c
+High 2,801 (30.7%) 814 (29.0%) 1,987 (31.4%) <0.0001
+Middle 2,702 (29.6%) 756 (26.9%) 1,946 (30.8%)
+Low 3,632 (39.8%) 1,241 (44.2%) 2,391 (37.8%)
+% No Education
+c 22.1 (17) 24.1 (18.4) 21.2 (16.3) <0.0001
+Age at diagnosis 58.1 (14.7) 41.7 (5.8) 65.4 (11.2) <0.0001
+Survival time in months 46.5 (122.2) 96.4 (77.3) 59.2 (61.1) <0.0001
+a Sample size for ER and PR for cases diagnosed 1990 –2008 only (IBC=8,605, pre-menopause=2,645, post-menopause =5,960)).
+b Sample size for HER2 for cases diagnosed 1999 –2008 (IBC=4,417, pre-menopause=1,277, post-menopause =3,140).
+c % No Education (25 years of age or older without a high school diploma) and Education (tertiles of distribution) based on census tract-level informati on.
+* ANOVA test for continuous variables, chi-sq for categorical (or Fisher's exact test for cell counts <5), log-rank test for Survival. All statistica l tests comparing
+differences in premenopausal and postmenopausal IBC cases.
+Hirko et al. SpringerPlus 2013, 2:3 Page 6 of 8
+http://www.springerplus.com/content/2/1/3
+was unavailable. We were unable to assess the magnitude
+of this potential misclassification bias, as we did not have
+access to the actual surnames within our dataset. However,
+we believe that the possibility of misclassification is limited
+as many Arab ancestry women keep their maiden names
+upon marriage (Al-Hegelan 1980; Kayyali 2006; Kleffner
+Nydell 2005), and maiden names are available for a large
+proportion of the women. Another possible limitation of
+this study was the lack of information on country of origin
+or date of immigration to the United States. The Arab
+American immigrant group is composed of individuals
+from many diverse Arab nations. Without information on
+c o u n t r yo fo r i g i n ,w em a yb em i ssing critical information
+that could explain disparities in IBC occurrence. We did
+evaluate the place of birth variable in our dataset, however
+this variable was missing for 42% of breast cancer cases.
+Therefore, we were unable to accurately assess this factor
+in our analysis. Further, we would surmise that immigrants
+arriving earlier in life would be more likely to experience
+cancer rates comparable to non-Arab Whites versus immi-
+grants who arrived later (Zogby 1990). Without informa-
+tion on time of immigration, we may be mixing the effect
+of IBC occurrence between recent Arab immigrants, who
+maintain certain cultural norms from their countries of ori-
+gin, with Arab women who have become acculturated to
+the Western lifestyle after having been born in or living in
+the U.S. for a considerable amount of time. It would be
+beneficial to evaluate IBC cancer occurrence by time of im-
+migration among migrant groups in the U.S. in order to
+understand potential environmental risk factors for the dis-
+ease. A further limitation could be the use of different la-
+boratories to determine hormonal receptor status in our
+dataset. Additionally, the hormonal receptor data were not
+routinely collected during our study period, so we do have
+to be concerned about missing data for these variables. To
+overcome this limitation, we restricted our analysis on ER/
+PR from 1990 forward and on Her2 from 1999 forward,
+when this information was more regularly reported in the
+SEER registries. Lack of data on other potentially impor-
+tant covariates including rep roductive factors, obesity,
+individual-level SES, acculturation, and urban/rural status
+could lead to residual confounding in our analysis. It is also
+important to consider that our data came from the Detroit
+SEER, which only includes 3 counties in Michigan, while
+the California and New Jersey registries are state-wide. This
+could potentially affect the generalizability of our results if
+we think that these registries are not representative of the
+overall population of women with breast cancer in the Uni-
+ted States. Finally, this is a purely descriptive analysis and
+we are unable to draw causal inferences from the results.
+Strengths of this study include the use of large-scale
+population-based SEER registry data, which is considered
+to be reliable and accurate as it meets International
+Agency for Research on Cancer (IARC) standards,
+ensuring a certain degree of data quality and comparability
+based on a number of factors (Parkin et al. 2003). Further,
+the IBC case ascertainment definition used in this study is
+considered valid and is not as conservative as previous
+studies requiring the pathological diagnosis of IBC. The
+name algorithm to identify Arab ancestry has been con-
+structed and utilized to describe relative proportion of
+cancer among this population in previous studies (Nasseri
+2007; Schwartz et al. 2004; Lauderdale 2006). Finally, this
+study is innovative as it maximized the number of Arab
+Americans represented in the study sample by applying
+data from California, Detroit, and New Jersey registries.
+Conclusions
+Our results suggest that IBC occurrence may be more
+common among certain minority groups, including Arab
+American women. With the significant lack of epidemio-
+logic data on IBC, this study represents important pro-
+gress to our understanding of this rare and aggressive
+disease. By evaluating racial disparities in IBC occur-
+rence, we hope to generate further hypotheses about po-
+tentially modifiable risk factors for IBC. Future research
+should focus on etiologic factors that may underlie these
+differences and also examine country of origin and date
+of immigration to the U.S. to further understand poten-
+tially modifiable risk factors for IBC.
+Competing interests
+The authors declare that they have no competing interest.
+Authors’ contributions
+KH, AS, KS, SM, JH, MB and RC all participated in the conception and design
+of this study. JR, KS and JG were critical to the acquisition and analysis of the
+data. All authors reviewed and given final approval for this version of the
+manuscript for publication.
+Acknowledgements
+We would like to thank Xiaoling Niu from the New Jersey SEER Cancer
+Registry and Allyn Fernandez-Ami and Dr. Cyllene Morris from the California
+Cancer Registry for their efforts in compiling the datasets for our analysis.
+The authors also would like to thank Kirsten Herold for her review and
+comments on the manuscript. This work supported in part by the Avon
+Foundation (AS,SDM), the Breast Cancer Research Foundation (SDM), The
+University of Michigan Center for Global Health and Rackham School of
+Graduate studies (KH) and the Cancer Epidemiology Education in Special
+Populations Program of the University of Michigan (CA R25 112383).
+Author details
+1Department of Epidemiology, University of Michigan School of Public
+Health, Ann Arbor, MI 48109, USA. 2Center for Global Health, University of
+Michigan, Ann Arbor, MI 48104, USA. 3Department of Epidemiology,
+University of Nebraska Medical Center, Omaha, NE 68198-4395, USA.
+4Department of Biostatistics, University of Michigan School of Public Health,
+Ann Arbor, MI 48109, USA. 5Department of Oncology, Wayne State University
+School of Medicine, Detroit, MI, USA. 6Department of Health and Human
+Services, Center for Global Health, National Cancer Institute, National
+Institutes of Health, Bethesda, MD 20892, USA. 7Dept. of Epidemiology,
+University of Texas M.D. Anderson Cancer Center, Houston, Texas, USA.
+8Department of Radiation Oncology, Cancer Institute of New Jersey - Robert
+Wood Johnson Medical School, New Brunswick, NJ 08901, USA. 9Department
+of Internal Medicine, University of Michigan Medical School, Ann Arbor, MI
+48109, USA. 10Department of Family Medicine and Public Health Sciences,
+Wayne State University School of Medicine, Detroit, MI, USA.
+Hirko et al. SpringerPlus 2013, 2:3 Page 7 of 8
+http://www.springerplus.com/content/2/1/3
+Received: 2 October 2012 Accepted: 26 December 2012
+Published: 7 January 2013
+References
+Taylor G, Meltzer A (1938) Inflammatory carcinoma of the breast. Am J Cancer
+33:33–49
+Haagensen C (1971) Diseases of the breast, 2nd edn. PA, Saunders, Philadelphia,
+pp 576–584
+Levine PH, Steinhorn SC, Ries LG, Aron JL (1985) Inflammatory breast cancer: the
+experience of the surveillance, epidemiology, and end results (SEER)
+program. J Natl Cancer Inst 74(2):291 –297
+Mourali N, Muenz L, Tabbane F et al (1980) Epidemiologic features of rapidly
+progressing breast cancer in Tunisia. Cancer 46:2741 –2746
+Boussen H, Bouzaiene H, Hassouna JB, Gamoudi A, Benna F, Rahal K (2008)
+Inflammatory breast cancer in Tunisia: reassessment of incidence and
+clinicopathological features. Semin Oncol 35:17 –24
+Soliman AS, Banerjee M, Lo AC, Ismail K, Hablas A, Seifeldin IA, Ramadan M, Omar
+HG, Fokuda A, Harford JB, Merajver SD (2009) High proportion of
+inflammatory breast cancer in the population-based cancer registry of
+Gharbiah, Egypt. Breast J 15(4):432 –434
+Chang S, Parker SL, Pham T, Buzdar AU, Hursting SD (1998a) Inflammatory breast
+carcinoma incidence and survival: the surveillance, epidemiology, and end
+results program of the National Cancer Institute, 1975 –1992. Cancer 82
+(12):2366–2372. doi:10.1002/(SICI)1097-0142(19980615)82:12\2366::AID-
+CNCR103.0.CO;2-N
+Hance KW, Anderson WF, Devesa SS, Young HA, Levine PH (2005) Trends in
+inflammatory breast carcinoma incidence and survival: the surveillance,
+epidemiology, and end results program at the National Cancer Institute.
+J Natl Cancer Inst 97(13):966 –975
+Wingo PA, Jamison PM, Young JL, Gargiullo P (2004) Population-based statistics
+for women diagnosed with inflammatory breast cancer (United States).
+Cancer Causes Control 15(3):321 –328
+Il'yasova D, Siamakpour-Reihani AI, Akushevich L, Spector N, Schildkraut J (2011)
+What can we learn from the age- and race/ethnicity-specific rates of
+inflammatory breast carcinoma? Breast Cancer Res Treat 130:691 –697
+Boussen H, Bouzaiene H, Ben JH et al (2010a) Inflammatory breast cancer in
+Tunisia: reassessment of incidence and clinicopathological features. Semin
+Oncol 35(1):17–24
+Le MG, Arriagada R, Contesso G et al (2005) Dermal lymphatic emboli in
+inflammatory and noninflammatory breast cancer: a French-Tunisian joint
+study in 337 patients. Clin Breast Cancer 6:439 –445
+Boussen H, Bouzaiene H, Ben Hassouna J, Dhiab T, Khomsi F, Benna F,
+Gamoudi A, Mourai N, Hechiche M, Rahal K, Levine PH (2010b) Inflammatory
+breast cancer in Tunisia: epidemiological and clinical trends. Cancer
+116(11 Suppl):2730 –2735
+Zogby J (1990) Arab Americans Today: A Demographic Profile of Arab Americans.
+Arab American Institute, Washington, DC
+Abraham SY, Abraham N (eds) (1983) Arabs in the New World: Studies on
+Arab-American Communities. Wayne State University, Detroit, Mich
+Jamil H, Templin T, Fakhouri M et al (2009) Comparison of personal
+characteristics, tobacco use, and health states in Chaldean, Arab American
+and non-Middle Eastern white adults. J Immigr Minor Health 11:310 –317
+Arab American Institute (2004) Arab American demographics. Arab American
+Institute, Washington
+Nasseri K (2007) Construction and validation of a list of common Middle Eastern
+surnames for epidemiologic research. Cancer Detect Prev 31:424 –29
+Schwartz KL, Kulwicki A, Weiss LK et al (2004) Cancer among Arab Americans in
+the metropolitan Detroit area. Ethn Dis 14:141 –146
+Lauderdale DS (2006) Birth outcome for Arabic-named women in California
+before and after September 11. Demography 43:185 –201
+Alford SH, Schwartz K, Soliman A, Johnson CC, Gruber SB, Merajver SD (2009)
+Breast cancer characteristics at diagnosis and survival among Arab-American
+women compared to European- and African-American women. Breast
+Cancer Res Treat 114(3):339 –346
+McShane LM, Altman DG, Sauerbrei W, Taube SE, Gion M, Clark GM (2005)
+REporting recommendations for tumor MARKer prognostic studies (REMARK).
+Nat Clin Pract Oncol 2:416 –422
+Johnson CH, Adamo M (2008) SEER program coding and staging manual 2007.
+NIH Publication Number 07 –5581, 2008 revision. National Cancer Institute,
+Bethesda, MD
+Schlichting JA, Soliman AS, Schairer C, Banerjee M, Rozek LS, Schottenfield D,
+Harford JB, Merajver SD (2012) Association of inflammatory and
+noninflammatory breast cancer with socioeconomic characteristics in the
+Surveillance, Epidemiology, and End Results Database, 2000 –2007. Cancer
+Epidemiol Biomarkers Prev 1:155 –165
+Schairer C, Brown LM, Mai PL (2011) Inflammatory breast cancer: high risk of
+contralateral breast cancer compared to comparably staged non-
+inflammatory breast cancer. Breast Cancer Res Treat 129:117 –124
+American Cancer Society (2012) Cancer Facts and Figures. http://www.cancer.
+org/STT/CAFF2012PW Secured.pdf
+DeSantis C, Howlader N, Cronin KA, Jemal A (2011) Breast cancer incidence rates
+in U.S. women are no longer declining. Cancer Epidemiol Biomarkers Prev
+20(5):733–739
+Chang S, Buzdar AU, Hursting SD (1998b) Inflammatory breast cancer and body
+mass index. J Clin Oncol 16(12):3731 –3735
+Le MG, Arriagada R, Bahi J, Pfeiffer F, Cammoun M, Tabbane F et al (2006) Are
+risk factors for breast cancer similar in women with inflammatory breast
+cancer and those with non-inflammatory breast cancer? Breast 15:355 –362
+Levine PH (2004) Factors for the development of aggressive inflammatory and
+non-inflammatory breast cancer. Breast Cancer Res Treat 88(1):S91
+Anderson WF, Schairer C, Chen BE, Hance KW, Levine PH (2005) Epidemiology of
+Inflammatory Breast Cancer (IBC). Breast Dis 22:9 –23
+Hall IJ, Moorman PG, Millikan RC, Newman B (2005) Comparative analysis of
+breast cancer risk factors among African-American women and White
+women. Am J Epidemiol 1:40 –51
+Levine PH, Venerose C (2005) The epidemiology of inflammatory breast cancer.
+Semin Oncol 35:11 –16
+The US, Bureau C (2010) About poverty: highlights for the calendar year of 2009.
+The US Census Bureau, Washington, DC
+Phipps AI, Ichikawa L, Bowles EJA, Carney PJ, Kerlikowske K, Miglioretti DL, Buist
+DSM (2010) Defining Menopausal status in Epidemiologic Studies: A
+Comparison of Multiple Approaches and their Effects on Breast Cancer Rates.
+Maturitas 67(1):60 –66
+Morabia A, Flandre P (1992) Misclassification bias related to definition of
+menopausal status in case –control studies of breast cancer. Int J Epidemiol
+21:222–228
+Anderson WF, Chu KC, Chang S (2003) Inflammatory breast carcinoma and
+noninflammatory locally advanced breast carcinoma: distinct
+clinicopathologic entities? J Clin Oncol 21:2254 –2259
+Anderson WF, Chu KC, Chang S, Sherman ME (2004) Comparison of age-specific
+incidence rate patterns for different histopathologic types of breast
+carcinoma. Cancer Epidemiol Biomarkers Prev 13:1128 –1135
+Al-Hegelan N (1980) Women in the Arab World. Arab Perspectives 1:7
+Kayyali R (2006) The Arab Americans (The New Americans). Greenwood Press,
+Westport, Print
+Kleffner Nydell M (2005) Understanding Arabs: A Guide for Modern Times.
+Nicholar Brealey Publishing, London, Print
+Parkin DM, Whelan SL, Ferlay J, Teppo L, Thomas DB (2003) Cancer incidence in
+five continents, VIIIth edn. IARC, Lyon, France
+doi:10.1186/2193-1801-2-3
+Cite this article as: Hirko et al. : Characterizing inflammatory breast cancer
+among Arab Americans in the California, Detroit and New Jersey
+Surveillance, Epidemiology and End Results (SEER) registries (1988–2008).
+SpringerPlus 2013 2:3.
+Submit your manuscript to a 
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁ  eld
+7 Retaining the copyright to your article
+    Submit your next manuscript at 7 springeropen.com
+Hirko et al. SpringerPlus 2013, 2:3 Page 8 of 8
+http://www.springerplus.com/content/2/1/3

@@ -1,0 +1,1163 @@
+record_id=4040 pmid=18066673 doi=10.1007/s10552-007-9088-3 pmcid=PMC2268721
+TITLE: Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the US
+
+Introduction
+A goal of the U.S. Department of Health and Human Service’s Healthy People 2010 program is the elimination of health disparities that occur by race and ethnicity [1]. Health disparities have been defined as “…differences in the incidence, prevalence, mortality, and burden of diseases and other adverse health conditions that exist among specific population groups in the United States [2].” This definition implies that a cancer health disparity exists when one segment of a population is found to have higher cancer rates (or some other measure of interest that indicates adverse conditions) than another population segment, or referent group. In this study, we report cancer incidence, mortality, and stage distributions among Asians and Pacific Islanders (API) residing in the U.S. and note health disparities, using the cancer experience of the non-Hispanic white population as the referent group. We identify specific API groups that may benefit from cancer control interventions or from further analytic epidemiologic research to follow up on etiologic leads.
+Cancer surveillance systems, composed of high quality population-based (state or metropolitan area) central cancer registries, enable the monitoring of health disparities related to cancer incidence, mortality, patient survival, treatment, and quality of life [3]. The broad geographic coverage of national surveillance programs, such as the National Cancer Institute’s (NCI) Surveillance, Epidemiology, and End Results (SEER) Program which currently includes 26% of the U.S. population, facilitates the inclusion of more detailed racial/ethnic groups in such analyses by virtue of the large population base. Similarly, data from several state vital records offices that collect and report death information for an expanded set of racial/ethnic groups enables the identification of disparities in cancer mortality [4]. The lack of comparably-detailed racial/ethnic population estimates, however, often constrains U.S. health surveillance systems to report cancer rates for combined groups, such as API. This limitation obscures important differences in the cancer experience of heterogeneous populations [5–7]. As a result, national statistics on cancer for Asian ethnic groups are not routinely available [8]. In this study, we have taken advantage of population data from the 2000 decennial census for detailed racial/ethnic groups, to calculate incidence and mortality rates for several specific API groups: Asian Indian/Pakistani, Chinese, Filipino, Guamanian, Native Hawaiian, Japanese, Kampuchean, Korean, Laotian, Samoan, Tongan, and Vietnamese (mortality data only are available for a subset of these groups—see Materials and methods). The databases used in these analyses can be accessed, under a data user agreement, from the SEER Web site [9].
+Material and methods
+Study data
+Information on new cancer diagnoses among API groups and non-Hispanic whites (referent group) occurring during the 5-year period from 1 January 1998 to 31 December 2002 was obtained from U.S. state and regional population-based cancer registries that participate in the NCI’s SEER Program. The reporting areas included in this analysis were: Atlanta, Detroit, Seattle/Puget Sound; and the states of California (registries for Los Angeles County, the Greater San Francisco Bay Area, and the rest of California), Connecticut, Hawaii, Iowa, Kentucky, Louisiana, New Jersey, New Mexico, and Utah. These registries cover 54% of the U.S. API population [10]. The specific API groups included in the incidence comparisons were Asian Indian/Pakistani (combined, due to SEER coding rules [11]), Chinese, Filipino, Guamanian, Native Hawaiian, Japanese, Kampuchean, Korean, Laotian, Samoan, Tongan, and Vietnamese. Approximately 7% of the API cancer cases were classified as “Asian not otherwise specified” (NOS) or “Pacific Islander NOS” and could not be included in the analysis. Only invasive cancers were analyzed, with the exception of the urinary bladder. Bladder cancers reported as either in situ or invasive were combined, since information in medical records needed to distinguish between these types of tumors is frequently either unavailable or unreliable [12]. The primary cancer type was coded according to the International Classification of Diseases for Oncology (ICD-O) edition in use at the time of diagnosis, converted to ICD-O Third Edition, and then categorized into cancer site groupings [13].
+Cancer deaths occurring during the 1998–2002 study period were identified from all deaths reported to state vital records offices and consolidated by the National Vital Statistics System of the National Center for Health Statistics. The underlying cause of death was coded based on the version of the International Classification of Diseases (ICD) in use at the time of death. Deaths due to malignant neoplasm were then grouped to ensure comparability of disease categories across the ICD versions [13]. Since specification of expanded API racial categories on death certificates is currently required for seven states only (California, Hawaii, Illinois, New Jersey, New York, Texas, and Washington) and for nine API ethnic groups [14], we restricted our mortality analyses to these areas and groups (Table 1). Thus, the geographic coverage differs between the incidence and mortality analyses. Approximately 72% of the API population covered in the mortality analysis is also included in the incidence analysis. The seven states in the mortality analysis include over 68% of the total U.S. API population; representing 80% of Native Hawaiians, 79% of Filipinos, 77% of Japanese, 74% of Chinese and of Samoans, 65% of Koreans, 62% of Vietnamese, 61% of Guamanians, and 60% of Asian Indians [15]. Less than 0.1% of the API deaths were classified as “API NOS” and were excluded from the analysis. Deaths among non-Hispanic whites in these states are also included for purposes of comparison.Table 1Geographic areas included in cancer incidence and mortality rates for each racial/ethnic group, 1998–2002 Incidence ratesMortality ratesCAaCTHIIAKYLANJNMUTAtlanta metroDetroit metroSeattle–Puget SoundbCA, HI, IL, NJ, NY, TX, and WAAsian Indian or PakistanicXX–dXXXXXXXX2XChineseXXXXXXXXXXX9XFilipinoXXXXXXXXXXX11XGuamanianX–eX–e–e–e–e–e–e–d–d6XNative HawaiianXfXfJapaneseXXXXXXXXXXX9XKampucheanXX–e–e–e–e–e–dXX–d6–gKoreanXXXXXXXXXXX10XLaotianXXXX–eX–e–eXXX4–gSamoanX–eX–e–e–e–e–eX–d–d5XTonganX–dX–d–d–d–d–dX–d–d1e–gVietnameseXXXXXXXXXXX6XX—Indicates area was included in rate calculationsaIncludes cancer registries for Los Angeles, San Francisco/Oakland, San Jose/Monterey, and all remaining areas in California combinedbIndicates number of counties within the 11-county Seattle–Puget Sound area for which population estimates were NOT suppressed by the Census Bureau; and thus could be included in the incidence analysescIncidence rates calculated for combined group of Asian Indians & Pakistanis due to SEER program coding rules; mortality rates calculated only for Asian Indians due to NCHS coding rulesdArea not included in rate calculation due to supression of population data by Census BureaueArea not included in rate calculation due to small population size (<1,000); see materials and methods and Statistical analysisfNative Hawaiian rates calculated only for the state of HawaiigMortality data not available from NCHS for these race/ethnic groups [3]
+Table 1
+Geographic areas included in cancer incidence and mortality rates for each racial/ethnic group, 1998–2002
+Incidence rates
+Mortality rates
+CAa
+CT
+HI
+IA
+KY
+LA
+NJ
+NM
+UT
+Atlanta metro
+Detroit metro
+Seattle–Puget Soundb
+CA, HI, IL, NJ, NY, TX, and WA
+Asian Indian or Pakistanic
+X
+X
+–d
+X
+X
+X
+X
+X
+X
+X
+X
+2
+X
+Chinese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+9
+X
+Filipino
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+11
+X
+Guamanian
+X
+–e
+X
+–e
+–e
+–e
+–e
+–e
+–e
+–d
+–d
+6
+X
+Native Hawaiian
+Xf
+Xf
+Japanese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+9
+X
+Kampuchean
+X
+X
+–e
+–e
+–e
+–e
+–e
+–d
+X
+X
+–d
+6
+–g
+Korean
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+10
+X
+Laotian
+X
+X
+X
+X
+–e
+X
+–e
+–e
+X
+X
+X
+4
+–g
+Samoan
+X
+–e
+X
+–e
+–e
+–e
+–e
+–e
+X
+–d
+–d
+5
+X
+Tongan
+X
+–d
+X
+–d
+–d
+–d
+–d
+–d
+X
+–d
+–d
+1e
+–g
+Vietnamese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+6
+X
+X—Indicates area was included in rate calculations
+Data analysis
+Cancer incidence and mortality rates were calculated for the combined 5-year study period, 1998–2002, as cases or deaths per 100,000 persons. The rates were age-adjusted to the 2000 U.S. standard population using 19 age groups (<1, 1–4, 5–9,…, 80–84, 85+). Rates and 95% confidence intervals (95% CI) [16] were generated using SEER*Stat software [http://www.seer.cancer.gov/seerstat/]. As rates based on small counts (either the number of diagnosed cases or deaths) tend to have poor reliability, they are not shown in tables if the case or death count is  <16 [17, 18].
+Detailed population data for specific API groups are available only from the decennial U.S. census. Therefore, we centered our study on the 2000 census and used the population counts, multiplied by five, as denominators for incidence and mortality rate calculations. In the 2000 census, individuals were able to indicate multiple race/ethnic responses on the census form [19]. These responses can be tabulated as two population values for detailed API groups; namely, the specific API group alone (counting those who self-identified with only one API group) and the specific API group alone or in combination with any other racial/ethnic groups (counting those who self-identified with either a single API group or with more than one racial/ethnic group, at least one of which was the specific API group of interest). Thus, the population counts for each of the specific API groups are not mutually exclusive. Population data for non-Hispanic whites consist of bridged single-race estimates available for each year from 1998 to 2002 [20, 21].
+Cancer registries and state vital records offices have also begun collecting and reporting multiple race and ethnicity information from medical records and death certificates. These sources, however, generally include only a single race or ethnicity designation (>99.95% of cancer diagnoses in SEER registries, data not shown). Therefore, only single race or ethnicity information was used for classifying cases and deaths in this study [11, 22].
+Due to the lack of consistency between racial/ethnic information for the numerators (generally, single race from medical records or state vital records offices) and population denominators (either self-reported single race alone; or single race alone or in combination with other races), we calculated two rates for each cancer type, specific API group, and gender. These may be considered as representing a maximum rate (based on the smaller, single-race/ethnicity alone denominator) [23] and a minimum rate (based on the larger denominator that includes both multiple-race/ethnicity and single-race/ethnicity respondents) [24].
+Census Bureau policy for Census 2000 data is to not disclose race/ethnicity-specific population counts below 100 for a particular geographic area [25]. Thus, we were unable to obtain comprehensive population denominators for some of the SEER reporting areas. When race/ethnicity-specific census population data were suppressed for an entire registry, the registry was excluded from rate calculations for that particular API group. However, when the census population data were suppressed for a subset of the counties within the Seattle/Puget Sound metropolitan area, we chose to calculate an incidence rate that included all remaining counties for which the race/ethnic-specific population data were not suppressed. This resulted in the exclusion of selected counties in Seattle/Puget Sound from incidence rate calculations for each of the API groups, with the exception of Filipinos (Table 1).
+In addition, when a specific API population group in a SEER registry coverage area was less than 1,000 (based on single race/ethnicity alone population data), the data for that area was excluded from the cancer incidence rate calculations for that group. The rationale for this exclusion was that incidence rates for specific API groups in these registries with small populations were generally low; suggesting that misclassification of API ethnic information in medical records may be a bigger problem in these areas. Using this population threshold limited the number of geographic areas for Guamanians, Kampucheans, Laotians, Samoans, and Tongans (Table 1), but excluded just 1–2% of the total number of cancer cases in these groups. Cancer incidence and mortality rates for Native Hawaiians are reported only for the State of Hawaii due to the extensive efforts at the Hawaii Tumor Registry to classify all cancer patients with any native Hawaiian ancestry and because of the unique cultural and environmental characteristics of this group [26]. About 60% of the total U.S. Native Hawaiian population resides in Hawaii.
+We examined the distribution of stage of disease at diagnosis for cancers of the colon and rectum, female breast, cervix uteri, and prostate using the SEER historical stage categories of localized, regional, and distant disease [27]. Due to changing medical practices in characterizing prostate cancers, we combined localized and regional prostate cancer cases for the analysis by stage. The age-adjusted distribution of stage at diagnosis for selected cancers was calculated in the following manner. An age-adjusted incidence rate was computed using the direct method for each particular stage group for a specific cancer site, it was then divided by the age-adjusted incidence rate for all stages combined, and the resulting proportion was converted to a percentage.
+Results
+To simplify the presentation of our findings, incidence, and mortality rates appearing in the tables are limited to those based on the single race/ethnicity denominators, with the exception of Native Hawaiian rates. Since the Hawaii Tumor Registry collects extensive multiple race/ethnicity information on their cancer patients and classifies a patient with any native Hawaiian ancestry as native Hawaiian, the most appropriate population denominator for a native Hawaiian rate is the one that includes Hawaiian alone or in any combination. Regardless of which denominators were used, the relative rankings of the cancer sites remained the same for all API groups, however, the magnitude of all the rates were reduced when larger denominators (i.e., population counts based on the specific API group alone or in combination with other any other racial/ethnic group), were used. Rates based on both single race/ethnicity and one or more race/ethnicity denominators are included as appendices. The appendices also include case counts and 95% CI for the rates.
+Incidence rates: Men
+The overall cancer incidence rates were highest among Native Hawaiian and Samoan men, due to high rates of prostate and lung cancers (Table 2), but they do not exceed the overall cancer rate for non-Hispanic white men (Table 4). Lung cancer incidence in Native Hawaiian men, however, was higher than that for non-Hispanic white men. Asian Indian/Pakistani and Guamanian men had the lowest overall cancer rates among the API groups, and Asian Indians/Pakistanis had relatively low rates for lung and colorectal cancers. Prostate cancer was the leading cancer in Asian Indian/Pakistani, Chinese, Filipino, Guamanian, Native Hawaiian, Japanese, and Samoan men, while lung cancer rates were highest in Kampuchean, Korean, Laotian, Tongan, and Vietnamese men. Colorectal cancer was among the top three cancers in Asian Indian/Pakistani, Chinese, Filipino, Native Hawaiian, Japanese, Korean, and men; whereas liver cancer was among the top three in Kampuchean, Laotian, Samoan, and Vietnamese men. Japanese men had the highest colorectal cancer rate (75.9 per 100,000; 95% CI: 71.9, 80.2) and this exceeded the rate in non-Hispanic white men. Among Laotian men, incidence rates for lung, liver, and stomach cancers all exceeded the rate for prostate cancer; in fact, their prostate cancer rate (30.9; 95% CI: 18.2, 51.9) was lowest among the API groups in our study. Stomach cancer was among the top five cancers in all API groups, with the exception of Asian Indian/Pakistani and Filipino men, but ranked much lower in non-Hispanic white men (Appendix Table 1). Rates of stomach cancer were particularly high for Korean (50.0; 95% CI: 44.6, 56.2) and Samoan men (53.0; 95% CI: 33.2, 86.1). Liver cancer was also among the top five cancers in Chinese, Filipino, Kampuchean, Korean, Laotian, Samoan, and Vietnamese men. The liver cancer rate was highest in Laotian men (79.4; 95% CI: 60.7, 105.0). Rates for nasopharyngeal cancer were highest in Chinese and Vietnamese men, but not among the top five cancers for any group, and greatly exceeded the rate in non-Hispanic white men (Appendix Table 1). Nasopharyngeal cancer may also have been high in other API groups, but the number of cases in our study were too small to produce reliable rates.Table 2Top five age-adjusted cancer incidence ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: MenRank Asian Indian or PakistaniChineseFilipino Rate(95% CI) Rate(95% CI) Rate(95% CI)All cancers292.1(277.3, 307.9)All cancers348.8(341.5, 356.2)All cancers393.2(385.0, 401.5)1Prostate98.4(90.0, 107.7)Prostate84.8(81.2, 88.5)Prostate121.9(117.3, 126.6)2Lung30.8(25.7, 36.8)Colorectum54.0(51.2, 57.0)Lung72.5(69.0, 76.1)3Colorectum23.1(19.3, 27.9)Lung53.0(50.1, 56.0)Colorectum50.4(47.5, 53.4)4Non-Hodgn15.8(12.5, 20.1)Liver24.0(22.1, 25.9)Non-Hodgn19.4(17.7, 21.4)5Bladder15.8(12.1, 20.5)Stomach18.3(16.6, 20.2)Liver17.2(15.5, 19.0)GuamanianNative HawaiianbJapaneseAll cancers252.1(189.8, 336.7)All cancers531.6(503.7, 561.1)All Cancers422.4(412.8, 432.3)1Prostate131.5(85.0, 202.4)Prostate119.7(106.1, 135.1)Prostate115.0(110.1, 120.1)2nrLung109.8(97.4, 123.9)Colorectal75.9(71.9, 80.2)3nrColorectal65.7(56.1, 77.1)Lung49.8(46.6, 53.3)4nrBladder21.2(15.3, 29.1)Stomach29.3(26.9, 32.1)5nrNon-Hodgn19.6(14.8, 26.3)Bladder22.9(20.8, 25.4)KampucheanKoreanLaotianAll cancers372.0(325.3, 425.5)All cancers372.6(357.4, 388.4)All Cancers407.2(360.7, 460.3)1Lung82.6(60.1, 112.6)Lung61.1(54.8, 68.2)Lung87.3(64.9, 117.4)2Liver49.1(36.3, 68.5)Colorectum55.9(50.2, 62.2)Liver79.4(60.7, 105.0)3Prostate39.7(25.0, 62.2)Prostate55.7(49.8, 62.3)Stomach33.1(19.1, 55.8)4Colorectum30.0(18.3, 49.5)Stomach55.0(44.6, 56.2)Prostate30.9(18.2, 51.9)5Stomach23.8(12.1, 44.3)Liver35.9(31.6, 40.8)Colorectum30.2(19.4, 48.8)SamoanTonganVietnameseAll cancers566.7(498.8, 645.5)All cancers428.8(329.9, 555.9)All Cancers374.3(358.5, 390.9)1Prostate144.1(110.0, 190.4)Lung107.0(55.2, 193.0)Lung72.3(65.3, 80.2)2Lung111.9(84.4, 151.1)Prostate85.0(44.5, 157.4)Prostate59.1(52.8, 66.3)3Liver54.5(35.2, 86.9)nrLiver55.5(49.9, 62.0)4Stomach53.0(33.2, 86.1)nrColorectum41.2(36.1, 47.1)5Colorectum43.1(26.6, 72.8)nrStomach25.6(21.2, 30.9)aRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following SEER areas: Atlanta, Detroit, Seattle/Puget Sound; and the states of California (registries for Los Angeles County, the Greater San Francisco Bay Area, and the rest of California), Connecticut, Hawaii, Iowa, Kentucky, Louisiana, New Jersey, New Mexico, and UtahbRates for Native Hawaiians are calculated using the one or more race/ethnicities population denominators for Hawaii only (See Materials and methods)Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgn = non-Hodgkin lymphoma
+Table 2
+Top five age-adjusted cancer incidence ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: Men
+Rank
+Asian Indian or Pakistani
+Chinese
+Filipino
+Rate
+(95% CI)
+Rate
+(95% CI)
+Rate
+(95% CI)
+All cancers
+292.1
+(277.3, 307.9)
+All cancers
+348.8
+(341.5, 356.2)
+All cancers
+393.2
+(385.0, 401.5)
+1
+Prostate
+98.4
+(90.0, 107.7)
+Prostate
+84.8
+(81.2, 88.5)
+Prostate
+121.9
+(117.3, 126.6)
+2
+Lung
+30.8
+(25.7, 36.8)
+Colorectum
+54.0
+(51.2, 57.0)
+Lung
+72.5
+(69.0, 76.1)
+3
+Colorectum
+23.1
+(19.3, 27.9)
+Lung
+53.0
+(50.1, 56.0)
+Colorectum
+50.4
+(47.5, 53.4)
+4
+Non-Hodgn
+15.8
+(12.5, 20.1)
+Liver
+24.0
+(22.1, 25.9)
+Non-Hodgn
+19.4
+(17.7, 21.4)
+5
+Bladder
+15.8
+(12.1, 20.5)
+Stomach
+18.3
+(16.6, 20.2)
+Liver
+17.2
+(15.5, 19.0)
+Guamanian
+Native Hawaiianb
+Japanese
+All cancers
+252.1
+(189.8, 336.7)
+All cancers
+531.6
+(503.7, 561.1)
+All Cancers
+422.4
+(412.8, 432.3)
+1
+Prostate
+131.5
+(85.0, 202.4)
+Prostate
+119.7
+(106.1, 135.1)
+Prostate
+115.0
+(110.1, 120.1)
+2
+nr
+Lung
+109.8
+(97.4, 123.9)
+Colorectal
+75.9
+(71.9, 80.2)
+3
+nr
+Colorectal
+65.7
+(56.1, 77.1)
+Lung
+49.8
+(46.6, 53.3)
+4
+nr
+Bladder
+21.2
+(15.3, 29.1)
+Stomach
+29.3
+(26.9, 32.1)
+5
+nr
+Non-Hodgn
+19.6
+(14.8, 26.3)
+Bladder
+22.9
+(20.8, 25.4)
+Kampuchean
+Korean
+Laotian
+All cancers
+372.0
+(325.3, 425.5)
+All cancers
+372.6
+(357.4, 388.4)
+All Cancers
+407.2
+(360.7, 460.3)
+1
+Lung
+82.6
+(60.1, 112.6)
+Lung
+61.1
+(54.8, 68.2)
+Lung
+87.3
+(64.9, 117.4)
+2
+Liver
+49.1
+(36.3, 68.5)
+Colorectum
+55.9
+(50.2, 62.2)
+Liver
+79.4
+(60.7, 105.0)
+3
+Prostate
+39.7
+(25.0, 62.2)
+Prostate
+55.7
+(49.8, 62.3)
+Stomach
+33.1
+(19.1, 55.8)
+4
+Colorectum
+30.0
+(18.3, 49.5)
+Stomach
+55.0
+(44.6, 56.2)
+Prostate
+30.9
+(18.2, 51.9)
+5
+Stomach
+23.8
+(12.1, 44.3)
+Liver
+35.9
+(31.6, 40.8)
+Colorectum
+30.2
+(19.4, 48.8)
+Samoan
+Tongan
+Vietnamese
+All cancers
+566.7
+(498.8, 645.5)
+All cancers
+428.8
+(329.9, 555.9)
+All Cancers
+374.3
+(358.5, 390.9)
+1
+Prostate
+144.1
+(110.0, 190.4)
+Lung
+107.0
+(55.2, 193.0)
+Lung
+72.3
+(65.3, 80.2)
+2
+Lung
+111.9
+(84.4, 151.1)
+Prostate
+85.0
+(44.5, 157.4)
+Prostate
+59.1
+(52.8, 66.3)
+3
+Liver
+54.5
+(35.2, 86.9)
+nr
+Liver
+55.5
+(49.9, 62.0)
+4
+Stomach
+53.0
+(33.2, 86.1)
+nr
+Colorectum
+41.2
+(36.1, 47.1)
+5
+Colorectum
+43.1
+(26.6, 72.8)
+nr
+Stomach
+25.6
+(21.2, 30.9)
+Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgn = non-Hodgkin lymphoma
+Incidence rates: Women
+Native Hawaiian, Samoan, and Tongan women had the highest overall cancer incidence rates, while Asian Indian/Pakistani, Guamanian, and Kampuchean women had the lowest rates (Table 3). The cancer rate in Native Hawaiian women even exceeds that of non-Hispanic white women (Table 4). Breast cancer was the leading cancer in each female API group with the exception of Laotian women, for whom lung cancer had the highest age-adjusted incidence rate and breast cancer had the second highest rate, though the variability associated with each of these rates was large. Breast cancer incidence was highest among Native Hawaiian women (175.8; 95% CI: 163.0, 189.4) and exceeded the rate in non-Hispanic white women. Lung cancer was among the top four cancers in every female API group and Native Hawaiian women had the highest rate (69.7; 95% CI: 61.2, 79.1). Colorectal cancer was one of the top four cancers in all groups for whom there were sufficient data. Japanese women, similar to the men, had the highest colorectal cancer rate (51.9; 95% CI: 49.1, 55.0) among the racial/ethnic groups, even exceeding the rate in non-Hispanic white women. Cervical cancer was among the top five cancers in Kampuchean, Laotian, Samoan, and Vietnamese women and their rates exceeded that for non-Hispanic white women (Appendix Table 1). Endometrial cancer was among the top four leading cancers for all groups with the exception of Kampuchean, Korean, Laotian, and Vietnamese women. Liver cancer was the fifth leading cancer in Kampuchean, Korean, Laotian, and Vietnamese women. Stomach cancer was among the top five cancers for Chinese, Japanese, and Korean women, and greatly exceeded the rate in non-Hispanic white women. As observed in men, nasopharyngeal cancer rates were highest in Chinese and Vietnamese women, while small numbers of cases precluded an evaluation of the rates in many of the other API groups (Appendix Table 1).Table 3Top five age-adjusted cancer incidence ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: WomenRank Asian Indian or PakistaniChineseFilipina Rate(95% CI) Rate(95% CI) Rate(95% CI)All cancers238.1(226.7, 250.2)All cancers270.4(264.7, 276.2)All cancers291.1(285.3, 297.1)1Breast82.1(76.1, 88.8)Breast77.6(74.6, 80.6)Breast100.4(97.1, 103.8)2Colorectum18.8(15.5, 23.0)Colorectum40.2(38.0, 42.5)Colorectum29.4(27.5, 31.4)3Endometrium13.5(10.9, 16.7)Lung29.7(27.8, 31.7)Lung26.0(24.1, 27.9)4Lung13.1(10.2, 16.9)Endometrium12.0(10.9, 13.3)Endometrium18.6(17.2, 20.1)5Ovary12.0(9.7, 15.1)Stomach11.1(10.0, 12.4)Thyroid17.7(16.4, 19.2)GuamanianNative HawaiianbJapaneseAll cancers175.6(132.7, 233.8)All cancers488.5(466.5, 511.3)All Cancers342.4(334.5, 350.2)1Breast45.0(28.3, 78.1)Breast175.8(163.0, 189.4)Breast126.5(121.7, 131.5)2Lung40.7(22.4, 76.4)Lung69.7(61.2, 79.1)Colorectum51.9(49.1, 55.0)3nrColorectum44.0(37.3, 51.6)Lung24.7(22.8, 26.8)4nrEndometrium37.5(31.9, 44.1)Endometrium20.4(18.5, 22.6)5nrPancreas18.6(14.3, 23.9)Stomach15.0(13.6, 16.8)KampucheanKoreanLaotianAll cancers212.3(185.9, 242.4)All cancers254.5(245.2, 264.1)All Cancers297.9(263.0, 337.1)1Breast38.2(28.3, 51.8)Breast53.5(49.7, 57.6)Lung44.4(31.2, 62.3)2Lung24.6(15.6, 37.8)Colorectum35.9(32.3, 39.8)Breast36.9(26.5, 51.5)3Colorectum21.1(13.1, 33.2)Lung27.5(24.3, 31.0)Colorectum27.5(17.1, 42.7)4Cervix Uteri15.3(9.3, 25.3)Stomach26.3(23.3, 29.7)Cervix Uteri24.8(16.0, 38.0)5Liver14.1(7.6, 24.9)Liver14.4(12.2, 17.0)Liver23.1(14.5, 36.4)SamoanTonganVietnameseAll cancers472.0(421.5, 528.6)All cancers504.7(414.1, 616.6)All Cancers270.6(259.6, 282.2)1Breast102.5(81.7, 129.5)Breast118.0(78.1, 181.2)Breast52.8(48.6, 57.5)2Endometrium66.1(50.3, 88.2)Endometrium91.2(56.4, 150.1)Lung34.4(30.3, 39.1)3Lung56.9(39.6, 81.3)nrColorectum33.3(29.3, 37.8)4Colorectum38.6(24.1, 60.5)nrCervix Uteri16.8(14.3, 19.8)5Cervix Uteri18.1(10.6, 32.7)nrLiver16.8(14.0, 20.1)aRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following SEER areas: Atlanta, Detroit, Seattle/Puget Sound; and the states of California (registries for Los Angeles County, the Greater San Francisco Bay Area, and the rest of California), Connecticut, Hawaii, Iowa, Kentucky, Louisiana, New Jersey, New Mexico, and UtahbRates for Native Hawaiians are calculated using the one or more race/ethnicities population denominators for Hawaii only (See Materials and methods)Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Endometrium = corpus uterus, NOS
+Table 3
+Top five age-adjusted cancer incidence ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: Women
+Rank
+Asian Indian or Pakistani
+Chinese
+Filipina
+Rate
+(95% CI)
+Rate
+(95% CI)
+Rate
+(95% CI)
+All cancers
+238.1
+(226.7, 250.2)
+All cancers
+270.4
+(264.7, 276.2)
+All cancers
+291.1
+(285.3, 297.1)
+1
+Breast
+82.1
+(76.1, 88.8)
+Breast
+77.6
+(74.6, 80.6)
+Breast
+100.4
+(97.1, 103.8)
+2
+Colorectum
+18.8
+(15.5, 23.0)
+Colorectum
+40.2
+(38.0, 42.5)
+Colorectum
+29.4
+(27.5, 31.4)
+3
+Endometrium
+13.5
+(10.9, 16.7)
+Lung
+29.7
+(27.8, 31.7)
+Lung
+26.0
+(24.1, 27.9)
+4
+Lung
+13.1
+(10.2, 16.9)
+Endometrium
+12.0
+(10.9, 13.3)
+Endometrium
+18.6
+(17.2, 20.1)
+5
+Ovary
+12.0
+(9.7, 15.1)
+Stomach
+11.1
+(10.0, 12.4)
+Thyroid
+17.7
+(16.4, 19.2)
+Guamanian
+Native Hawaiianb
+Japanese
+All cancers
+175.6
+(132.7, 233.8)
+All cancers
+488.5
+(466.5, 511.3)
+All Cancers
+342.4
+(334.5, 350.2)
+1
+Breast
+45.0
+(28.3, 78.1)
+Breast
+175.8
+(163.0, 189.4)
+Breast
+126.5
+(121.7, 131.5)
+2
+Lung
+40.7
+(22.4, 76.4)
+Lung
+69.7
+(61.2, 79.1)
+Colorectum
+51.9
+(49.1, 55.0)
+3
+nr
+Colorectum
+44.0
+(37.3, 51.6)
+Lung
+24.7
+(22.8, 26.8)
+4
+nr
+Endometrium
+37.5
+(31.9, 44.1)
+Endometrium
+20.4
+(18.5, 22.6)
+5
+nr
+Pancreas
+18.6
+(14.3, 23.9)
+Stomach
+15.0
+(13.6, 16.8)
+Kampuchean
+Korean
+Laotian
+All cancers
+212.3
+(185.9, 242.4)
+All cancers
+254.5
+(245.2, 264.1)
+All Cancers
+297.9
+(263.0, 337.1)
+1
+Breast
+38.2
+(28.3, 51.8)
+Breast
+53.5
+(49.7, 57.6)
+Lung
+44.4
+(31.2, 62.3)
+2
+Lung
+24.6
+(15.6, 37.8)
+Colorectum
+35.9
+(32.3, 39.8)
+Breast
+36.9
+(26.5, 51.5)
+3
+Colorectum
+21.1
+(13.1, 33.2)
+Lung
+27.5
+(24.3, 31.0)
+Colorectum
+27.5
+(17.1, 42.7)
+4
+Cervix Uteri
+15.3
+(9.3, 25.3)
+Stomach
+26.3
+(23.3, 29.7)
+Cervix Uteri
+24.8
+(16.0, 38.0)
+5
+Liver
+14.1
+(7.6, 24.9)
+Liver
+14.4
+(12.2, 17.0)
+Liver
+23.1
+(14.5, 36.4)
+Samoan
+Tongan
+Vietnamese
+All cancers
+472.0
+(421.5, 528.6)
+All cancers
+504.7
+(414.1, 616.6)
+All Cancers
+270.6
+(259.6, 282.2)
+1
+Breast
+102.5
+(81.7, 129.5)
+Breast
+118.0
+(78.1, 181.2)
+Breast
+52.8
+(48.6, 57.5)
+2
+Endometrium
+66.1
+(50.3, 88.2)
+Endometrium
+91.2
+(56.4, 150.1)
+Lung
+34.4
+(30.3, 39.1)
+3
+Lung
+56.9
+(39.6, 81.3)
+nr
+Colorectum
+33.3
+(29.3, 37.8)
+4
+Colorectum
+38.6
+(24.1, 60.5)
+nr
+Cervix Uteri
+16.8
+(14.3, 19.8)
+5
+Cervix Uteri
+18.1
+(10.6, 32.7)
+nr
+Liver
+16.8
+(14.0, 20.1)
+Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Endometrium = corpus uterus, NOS
+Stage distribution
+Age-adjusted percentage stage distributions are shown for cancers of the colon and rectum, female breast, cervix uteri, and prostate in Figs. 1a–d, 1e. Laotian, Samoan, and Vietnamese men had lower percentages of colorectal cancers diagnosed at an early (localized) stage relative to the other API groups and to non-Hispanic whites. The total number of cases was fairly small, however, for Laotian (n = 30) and Samoan (n = 31) men. Among women, Laotians again had a lower percentage of localized stage diagnoses, but this was also based on a small total number of colorectal cancers (n = 24). For female breast cancer, Laotian, Samoan, and Tongan women had a smaller percentage of cases diagnosed at localized stage than the other groups. The total number of breast cancer cases in each of these groups was 45, 94, and 35, respectively. Kampuchean, Laotian, and Samoan women had smaller percentages of cervical cancers diagnosed at localized stage (total number of cervical cancers = 22, 28, and 19, respectively). Comparisons of the stage distribution of prostate cancer across the API groups indicated that Kampuchean, Samoan, and Tongan men had smaller percentages of local/regional cancers than the other groups, though the total number of cases was limited (n = 27, 77, and 16, respectively).Fig. 1(a) Age-adjusted percentage distributions of stage at diagnosis for colorectal cancer,1998–2002: Men. (b) Age-adjusted percentage distributions of stage at diagnosis for colorectal cancer, 1998–2002: Women. (c) Age-adjusted percentage distributions of stage at diagnosis for breast cancer, 1998–2002: Women. (d) Age-adjusted percentage distributions of stage at diagnosis for cervix uteri cancer, 1998–2002: Women. (e) Age-adjusted percentage distributions of stage at diagnosis for prostate cancer, 1998–2002: Men
+Fig. 1
+(a) Age-adjusted percentage distributions of stage at diagnosis for colorectal cancer,1998–2002: Men. (b) Age-adjusted percentage distributions of stage at diagnosis for colorectal cancer, 1998–2002: Women. (c) Age-adjusted percentage distributions of stage at diagnosis for breast cancer, 1998–2002: Women. (d) Age-adjusted percentage distributions of stage at diagnosis for cervix uteri cancer, 1998–2002: Women. (e) Age-adjusted percentage distributions of stage at diagnosis for prostate cancer, 1998–2002: Men
+Mortality rates: Men
+The overall cancer death rates were highest among Samoan and Native Hawaiian men (Table 5) and, unlike the incidence rates, exceeded the overall cancer death rate for non-Hispanic white men (Table 4). Asian Indian men had the lowest overall cancer mortality rate among the API groups, largely due to relatively low rates for lung and colorectal cancers. Lung and bronchus cancer had the highest age-adjusted death rate for each Asian ethnic group. Native Hawaiian men had the highest lung cancer rate (87.7 per 100,000; 95% CI: 76.4, 100.7), and exceeded the rate in non-Hispanic white men (72.2 per 100,000; 95% CI: 71.8, 72.7). Prostate cancer mortality was among the top three causes of cancer death in Asian Indian, Filipino, Native Hawaiian, and Samoan men. Samoan men had the highest rate (36.2 per 100,000; 95% CI: 18.9, 64.4), but it is based on relatively few deaths and its confidence interval includes the rates seen for native Hawaiian and non-Hispanic white men. Colorectal cancer was among the top three causes of cancer death in Chinese, Filipino, Native Hawaiian, and Japanese men. Samoans had the highest rate (31.6 per 100,000; 95% CI: 17.2, 56.0). Liver cancer was in the top four causes of cancer death for all male Asian ethnic groups, except, Native Hawaiians and Japanese. Samoans also had the highest rate for this site (32.9 per 100,000; 95% CI: 19.3, 56.1). Stomach cancers were in the top four causes of cancer death for all male Asian ethnic groups, except Asian Indians and Filipinos. Samoans had the highest rate for this site as well (40.9 per 100,000; 95% CI: 24.1, 67.6).Table 4Top five age-adjusted cancer rates and 95% CI for non-Hispanic white men and women, 1998–2002 RankMenWomen Rate(95% CI) Rate(95% CI)IncidenceaAll cancers587.0(585.6, 588.5)All cancers448.5(447.3, 449.6)1Prostate170.0(169.3, 170.8)Breast145.2(144.5, 145.8)2Lung89.2(88.7, 89.8)Lung59.0(58.6, 59.4)3Colorectum65.6(65.2, 66.1)Colorectum47.6(47.2, 47.9)4Bladder43.0(42.6, 43.4)Endometrium26.0(25.7, 26.2)5Melanoma29.3(29.0, 29.6)Melanoma19.3(19.0, 19.5)MortalitybAll cancers241.3(240.5, 242.1)All cancers171.7(171.1, 172.2)1Lung72.2(71.8, 72.7)Lung44.5(44.2, 44.8)2Prostate27.7(27.4, 28.0)Breast27.8(27.5, 28.0)3Colorectum24.6(24.3, 24.8)Colorectum17.3(17.1, 17.5)4Pancreas12.6(12.4, 12.8)Ovary9.8(9.7, 9.9)5Non-Hodgkin10.6(10.5, 10.8)Pancreas9.5(9.4, 9.6)aRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following SEER areas: Atlanta, Detroit, Seattle/Puget Sound; and the states of California (registries for Los Angeles County, the Greater San Francisco Bay Area, and the rest of California), Connecticut, Hawaii, Iowa, Kentucky, Louisiana, New Jersey, New Mexico, and UtahbRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following States: California, Hawaii, Illinois, New Jersey, New York, Texas, and WashingtonAbbreviations: Lung = lung and bronchus; Endometrium = corpus uterus, NOS; Non-Hodgn = non-Hodgkin lymphomaTable 5Top five age-adjusted cancer mortality ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: MenRank KoreanSamoanVietnamese Rate(95% CI) Rate(95% CI) Rate(95% CI)All cancers82.8(75.7, 90.5)All cancers167.8(163.4, 172.4)All Cancers155.6(150.6, 160.8)1Lung17.2(14.1, 21.1)Lung47.0(44.78, 49.5)Lung47.9(45.7, 50.8)2Prostate10.6(7.8, 14.2)Liver20.3(18.8, 21.9)Prostate17.8(16.1, 19.8)3Pancreas5.8(4.1, 8.3)Colorectum19.5(18.0, 21.2)Colorectum16.1(14.6, 17.8)4Liver5.3(3.6, 7.7)Stomach11.7(10.5, 12.9)Liver11.3(10.1, 12.7)5Leukemia4.8(3.3, 7.1)Prostate10.4(9.2, 11.7)Non-Hodgkin9.1(7.9, 10.4)GuamanianNative HawaiianbJapaneseAll cancers147.0(106.5, 201.8)All cancers263.7(243.7, 285.4)All Cancers173.7(167.7, 179.9)1Lung47.4(28.4, 81.0)Lung87.7(76.4, 100.7)Lung39.5(36.7, 42.5)2nrColorectum26.9(20.8, 34.9)Colorectum25.8(23.6, 28.3)3nrProstate21.9(15.7, 30.1)Stomach16.6(14.8, 18.7)4nrStomach14.1(9.9, 20.2)Prostate15.2(13.5, 17.3)5nrLiver11.8(7.9, 17.7)Pancreas12.2(10.6, 14.0)KoreanSamoanVietnameseAll cancers196.5(186.2, 207.4)All cancers293.9(247.6, 348.6)All Cancers159.9(149.9, 170.7)1Lung50.6(45.3, 56.2)Lung74.0(53.6, 102.9)Lung43.9(38.7, 49.9)2Stomach31.5(27.5, 36.0)Stomach40.9(24.1, 67.6)Liver33.8(29.6, 38.8)3Liver26.3(23.0, 30.2)Prostate36.2(18.9, 64.4)Stomach12.7(9.8, 16.4)4Colorectum17.6(14.6, 21.3)Liver32.9(19.3, 56.1)Pancreas8.9(6.6, 11.9)5Pancreas11.4(9.1, 14.3)Colorectum31.6(17.2, 56.0)Colorectum8.8(6.6, 11.7)aRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following States: California, Hawaii, Illinois, New Jersey, New York, Texas, and WashingtonbRates for Native Hawaiians are calculated using the one or more race/ethnicities population denominators for Hawaii only (See Materials and methods)Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgkin = non-Hodgkin lymphoma
+Table 4
+Top five age-adjusted cancer rates and 95% CI for non-Hispanic white men and women, 1998–2002
+Rank
+Men
+Women
+Rate
+(95% CI)
+Rate
+(95% CI)
+All cancers
+587.0
+(585.6, 588.5)
+All cancers
+448.5
+(447.3, 449.6)
+1
+Prostate
+170.0
+(169.3, 170.8)
+Breast
+145.2
+(144.5, 145.8)
+2
+Lung
+89.2
+(88.7, 89.8)
+Lung
+59.0
+(58.6, 59.4)
+3
+Colorectum
+65.6
+(65.2, 66.1)
+Colorectum
+47.6
+(47.2, 47.9)
+4
+Bladder
+43.0
+(42.6, 43.4)
+Endometrium
+26.0
+(25.7, 26.2)
+5
+Melanoma
+29.3
+(29.0, 29.6)
+Melanoma
+19.3
+(19.0, 19.5)
+All cancers
+241.3
+(240.5, 242.1)
+All cancers
+171.7
+(171.1, 172.2)
+1
+Lung
+72.2
+(71.8, 72.7)
+Lung
+44.5
+(44.2, 44.8)
+2
+Prostate
+27.7
+(27.4, 28.0)
+Breast
+27.8
+(27.5, 28.0)
+3
+Colorectum
+24.6
+(24.3, 24.8)
+Colorectum
+17.3
+(17.1, 17.5)
+4
+Pancreas
+12.6
+(12.4, 12.8)
+Ovary
+9.8
+(9.7, 9.9)
+5
+Non-Hodgkin
+10.6
+(10.5, 10.8)
+Pancreas
+9.5
+(9.4, 9.6)
+Abbreviations: Lung = lung and bronchus; Endometrium = corpus uterus, NOS; Non-Hodgn = non-Hodgkin lymphoma
+Table 5
+Top five age-adjusted cancer mortality ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: Men
+Rank
+Korean
+Samoan
+Vietnamese
+Rate
+(95% CI)
+Rate
+(95% CI)
+Rate
+(95% CI)
+All cancers
+82.8
+(75.7, 90.5)
+All cancers
+167.8
+(163.4, 172.4)
+All Cancers
+155.6
+(150.6, 160.8)
+1
+Lung
+17.2
+(14.1, 21.1)
+Lung
+47.0
+(44.78, 49.5)
+Lung
+47.9
+(45.7, 50.8)
+2
+Prostate
+10.6
+(7.8, 14.2)
+Liver
+20.3
+(18.8, 21.9)
+Prostate
+17.8
+(16.1, 19.8)
+3
+Pancreas
+5.8
+(4.1, 8.3)
+Colorectum
+19.5
+(18.0, 21.2)
+Colorectum
+16.1
+(14.6, 17.8)
+4
+Liver
+5.3
+(3.6, 7.7)
+Stomach
+11.7
+(10.5, 12.9)
+Liver
+11.3
+(10.1, 12.7)
+5
+Leukemia
+4.8
+(3.3, 7.1)
+Prostate
+10.4
+(9.2, 11.7)
+Non-Hodgkin
+9.1
+(7.9, 10.4)
+Guamanian
+Native Hawaiianb
+Japanese
+All cancers
+147.0
+(106.5, 201.8)
+All cancers
+263.7
+(243.7, 285.4)
+All Cancers
+173.7
+(167.7, 179.9)
+1
+Lung
+47.4
+(28.4, 81.0)
+Lung
+87.7
+(76.4, 100.7)
+Lung
+39.5
+(36.7, 42.5)
+2
+nr
+Colorectum
+26.9
+(20.8, 34.9)
+Colorectum
+25.8
+(23.6, 28.3)
+3
+nr
+Prostate
+21.9
+(15.7, 30.1)
+Stomach
+16.6
+(14.8, 18.7)
+4
+nr
+Stomach
+14.1
+(9.9, 20.2)
+Prostate
+15.2
+(13.5, 17.3)
+5
+nr
+Liver
+11.8
+(7.9, 17.7)
+Pancreas
+12.2
+(10.6, 14.0)
+Korean
+Samoan
+Vietnamese
+All cancers
+196.5
+(186.2, 207.4)
+All cancers
+293.9
+(247.6, 348.6)
+All Cancers
+159.9
+(149.9, 170.7)
+1
+Lung
+50.6
+(45.3, 56.2)
+Lung
+74.0
+(53.6, 102.9)
+Lung
+43.9
+(38.7, 49.9)
+2
+Stomach
+31.5
+(27.5, 36.0)
+Stomach
+40.9
+(24.1, 67.6)
+Liver
+33.8
+(29.6, 38.8)
+3
+Liver
+26.3
+(23.0, 30.2)
+Prostate
+36.2
+(18.9, 64.4)
+Stomach
+12.7
+(9.8, 16.4)
+4
+Colorectum
+17.6
+(14.6, 21.3)
+Liver
+32.9
+(19.3, 56.1)
+Pancreas
+8.9
+(6.6, 11.9)
+5
+Pancreas
+11.4
+(9.1, 14.3)
+Colorectum
+31.6
+(17.2, 56.0)
+Colorectum
+8.8
+(6.6, 11.7)
+Abbreviations: Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgkin = non-Hodgkin lymphoma
+Mortality rates: Women
+Samoan and Native Hawaiian women had the highest overall cancer death rates (Table 6), and even exceed the cancer mortality rate for non-Hispanic white women (Table 4). Asian Indian women had the lowest overall cancer death rate. Lung cancer was the leading cause of cancer death in each female API group, with the exception of Asian Indian women, for whom breast cancer had the highest age-adjusted rate (Table 6). Native Hawaiian women had the highest lung cancer death rate of all the API groups (47.6 per 100,000; 95% CI: 40.6, 55.6), but the confidence interval included the rate seen for non-Hispanic white women. Breast cancer was among the top three cancer causes of death for each female Asian ethnic group, except Koreans, where it was in the top five. Samoan and native Hawaiian women had the highest breast cancer death rates among the API groups. Colorectal cancer was among the top four cancers in every female API group, except Guamanian and Samoan women, for whom the data were too sparse to evaluate for this cancer. Liver cancer was among the top four cancer causes of death in Chinese, Korean, and Vietnamese women and their rates exceed the liver cancer mortality rate for non-Hispanic white women (Appendix Table 2). Stomach cancer was among the top five cancer causes of death for Chinese, Native Hawaiian, Japanese, Korean, and Vietnamese women and their rates exceeded the rate in non-Hispanic white women (Appendix Table 2). The cervical cancer death rate in Vietnamese women, though not among the top five cancers, exceeded the rate in non-Hispanic white women (Appendix Table 2).Table 6Top five age-adjusted cancer mortality ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: WomenRankAsian IndianChineseFilipina Rate(95% CI) Rate(95% CI) Rate(95% CI)All cancers67.4(62.2, 73.1)All cancers107.7(104.5, 110.9)All Cancers96.1(92.8, 99.5)1Breast11.2(9.4, 13.5)Lung23.8(22.4, 25.4)Breast17.2(15.9, 18.6)2Lung6.4(4.8, 8.5)Colorectum12.8(11.7, 13.9)Lung17.2(15.8, 18.7)3Colorectum5.3(3.8, 7.3)Breast12.3(11.3, 13.4)Colorectum9.0(8.0, 10.1)4Ovary5.0(3.7, 6.8)Liver7.4(6.5, 8.2)Pancreas6.3(5.4, 7.2)5Pancreas3.5(2.4, 5.2)Stomach7.3(6.5, 8.2)Ovary5.6(4.9, 6.5)GuamanianNative HawaiianbJapaneseAll cancers98.5(69.5, 138.8)All cancers198.9(184.4, 214.4)All Cancers117.0(112.9, 121.4)1nrLung47.6(40.6, 55.6)Lung19.7(18.1, 21.5)2nrBreast33.5(27.9, 40.1)Colorectal15.3(13.8, 17.0)3nrPancreas16.8(12.7, 21.8)Breast15.1(13.6, 16.9)4nrColorectum13.1(9.5, 17.7)Pancreas10.6(9.4, 12.1)5nrStomach10.3(9.5, 17.7)Stomach10.2(9.0, 11.6)KoreanSamoanVietnameseAll cancers108.2(102.6, 114.1)All cancers209.3(176.5, 248.2)All Cancers97.8(91.2, 104.9)1Lung20.7(18.2, 23.4)Lung42.0(27.1, 63.7)Lung20.2(17.1, 23.7)2Stomach14.5(12.5, 16.8)Breast36.2(24.0, 54.9)Liver10.9(8.8, 13.6)3Colorectum12.1(10.3, 14.2)nrBreast7.6(6.1, 9.5)4Liver11.7(9.9, 13.7)nrColorectum7.4(5.6, 9.7)5Breast7.8(6.5, 9.3)nrStomach7.0(5.3, 9.2)aRates are average annual per 100,000 age-adjusted to the 2000 U.S. standard population for the following States: California, Hawaii, Illinois, New Jersey, New York, Texas, and WashingtonbRates for Native Hawaiians are calculated using the one or more race/ethnicities population denominators for Hawaii only (See Materials and methods)Abbreviations:  Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgkin = non-Hodgkin lymphoma
+Table 6
+Top five age-adjusted cancer mortality ratesa and 95% CI by Asian or Pacific Islander subgroup, 1998–2002: Women
+Rank
+Asian Indian
+Chinese
+Filipina
+Rate
+(95% CI)
+Rate
+(95% CI)
+Rate
+(95% CI)
+All cancers
+67.4
+(62.2, 73.1)
+All cancers
+107.7
+(104.5, 110.9)
+All Cancers
+96.1
+(92.8, 99.5)
+1
+Breast
+11.2
+(9.4, 13.5)
+Lung
+23.8
+(22.4, 25.4)
+Breast
+17.2
+(15.9, 18.6)
+2
+Lung
+6.4
+(4.8, 8.5)
+Colorectum
+12.8
+(11.7, 13.9)
+Lung
+17.2
+(15.8, 18.7)
+3
+Colorectum
+5.3
+(3.8, 7.3)
+Breast
+12.3
+(11.3, 13.4)
+Colorectum
+9.0
+(8.0, 10.1)
+4
+Ovary
+5.0
+(3.7, 6.8)
+Liver
+7.4
+(6.5, 8.2)
+Pancreas
+6.3
+(5.4, 7.2)
+5
+Pancreas
+3.5
+(2.4, 5.2)
+Stomach
+7.3
+(6.5, 8.2)
+Ovary
+5.6
+(4.9, 6.5)
+Guamanian
+Native Hawaiianb
+Japanese
+All cancers
+98.5
+(69.5, 138.8)
+All cancers
+198.9
+(184.4, 214.4)
+All Cancers
+117.0
+(112.9, 121.4)
+1
+nr
+Lung
+47.6
+(40.6, 55.6)
+Lung
+19.7
+(18.1, 21.5)
+2
+nr
+Breast
+33.5
+(27.9, 40.1)
+Colorectal
+15.3
+(13.8, 17.0)
+3
+nr
+Pancreas
+16.8
+(12.7, 21.8)
+Breast
+15.1
+(13.6, 16.9)
+4
+nr
+Colorectum
+13.1
+(9.5, 17.7)
+Pancreas
+10.6
+(9.4, 12.1)
+5
+nr
+Stomach
+10.3
+(9.5, 17.7)
+Stomach
+10.2
+(9.0, 11.6)
+Korean
+Samoan
+Vietnamese
+All cancers
+108.2
+(102.6, 114.1)
+All cancers
+209.3
+(176.5, 248.2)
+All Cancers
+97.8
+(91.2, 104.9)
+1
+Lung
+20.7
+(18.2, 23.4)
+Lung
+42.0
+(27.1, 63.7)
+Lung
+20.2
+(17.1, 23.7)
+2
+Stomach
+14.5
+(12.5, 16.8)
+Breast
+36.2
+(24.0, 54.9)
+Liver
+10.9
+(8.8, 13.6)
+3
+Colorectum
+12.1
+(10.3, 14.2)
+nr
+Breast
+7.6
+(6.1, 9.5)
+4
+Liver
+11.7
+(9.9, 13.7)
+nr
+Colorectum
+7.4
+(5.6, 9.7)
+5
+Breast
+7.8
+(6.5, 9.3)
+nr
+Stomach
+7.0
+(5.3, 9.2)
+Abbreviations:  Lung = lung and bronchus; Liver = liver and intrahepatic bile duct; Non-Hodgkin = non-Hodgkin lymphoma
+Discussion
+Possible disparities in cancer incidence and mortality were identified for some of the API populations studied, using non-Hispanic whites as the referent. Liver cancer incidence and death rates were notably high among Chinese, Kampuchean, Korean, Laotian, Samoan, and Vietnamese men; and the rates for all API groups and both sexes in our study exceeded those for non-Hispanic white men and women. Infection with hepatitis B and C viruses is the major cause of liver cancer and individuals migrating from Asian, Middle Eastern, and African countries, where the viruses are endemic have been widely reported to be at increased risk for this cancer [28]. Stomach cancer incidence and death rates were higher for many of the API groups in our study when compared to rates for non-Hispanic whites. Asian Indian/Pakistani, and Filipinos were the exceptions, with their rates being closer to those for non-Hispanic whites. Studies of migrant populations suggest that exposure early in life to Helicobacter pylori plays a role in stomach cancer risk, in addition to possible dietary factors [29]. A majority of the API cancer patients in our study were born outside of the U.S., with the exception of Japanese-Americans and Native Hawaiians (data not shown). Birthplace information was missing from registry records, however, for about 28% of the API in this study. Incidence and death rates for nasopharyngeal cancer among Chinese, Filipino, and Vietnamese groups in our study are several times the magnitude of rates seen in other U.S. racial/ethnic groups [30]. Rates may also be high in other U.S. API groups, but the number of cases in our study is too small to provide precise estimates. Chinese and several Southeast populations—including Filipinos, Thais, and Vietnamese—have previously been reported at increased risk for this cancer [31] and rates are known to remain high among Chinese immigrants to the U.S. and other countries [32]. Consumption of preserved foods beginning at an early age is frequent among these groups and has been associated with this cancer [31].
+The low rates of lung, colorectal, and stomach cancers we observed among Asian Indians, either living in India or residing in other countries, have also been reported by others [33–35]. Factors such as lower tobacco use and components of the South Asian diet have been suggested as playing important roles in these patterns [36–38]. Breast cancer was a leading cancer among API women in our study, as it is in other racial/ethnic groups [39], but the breast cancer incidence rate in each API group, with the exception of native Hawaiians, was lower than that for non-Hispanic white women.
+Though based on small numbers, we note that Samoan women had a smaller percentage of breast cancers diagnosed at an early stage and their breast cancer death rate was among the highest of the API groups. Others have reported low screening rates among Samoan women and note the need for targeted efforts to improve doctor–patient communication on prevention behavior [40, 41]. Samoan men had lower percentages of colorectal and prostate cancers diagnosed at an early stage and this may be reflected in their higher mortality rates for these cancers. Increased efforts to improve screening for these cancers in specific API groups may be needed. These results are based on small numbers of deaths among Samoans, however, and need to be confirmed in other studies. Furthermore, our findings must be interpreted cautiously, since the geographic coverage of the API study populations included in the incidence and mortality analyses are somewhat different.
+Limitations of the source data must be recognized when analyzing racial/ethnic patterns of disease. Evaluations of the accuracy of cancer registry data on race/ethnicity, which is extracted from patient medical records, have shown varying levels of misclassification [42–47]. A recent comparison of self-reported race/ethnicity obtained from interview studies with that from registry records was conducted by the Greater Bay Area Cancer Registry (comprising the San Francisco/Oakland and San Jose/Monterey regions of California) [42]. They found that sensitivities and positive predictive values (PV+) were high for non-Hispanic Whites and Blacks and were moderately high for Chinese (sensitivity = 77%, PV+ = 92%) leading to a 16% underestimate of Chinese cases. For Japanese and Filipinos, they reported comparable results of about 80% for both sensitivity and PV+; while for Vietnamese they reported low sensitivity (47%) and moderate PV+ (75%), yielding a 37% underestimate for this group. There were too few Koreans, South Asians (mostly Asian Indians), Laotians, Kampucheans, and Pacific Islanders to provide reliable estimates of sensitivity or PV+ in their study. In addition, about 7% of the diagnosed cancer cases in our incidence analysis were classified as Asian NOS or Pacific Islander NOS, thereby depressing the rates we reported for specific Asian or Pacific Islander groups. To address this problem, collaborative efforts are underway between the SEER Program registries and the National Association of Central Cancer Registries to improve how central registries classify cancer patients into specific Asian or Pacific Islander groups by using name lists and information on birthplace. Similar misclassification problems have been identified for death certificate information on race/ethnicity and have been reported to result in an 11% underestimate of mortality rates for the API group as a whole [48]. The impact of nonspecific API race on the mortality rates in our study is small, however, since less than 0.1% of deaths were coded as “API, NOS.” These limitations suggest that the API rates we have reported are generally biased downward, in spite of the fact that we used the single race population denominators in our rate calculations.
+In conclusion, we found some evidence for cancer health disparities between specific API populations and non-Hispanic whites. The addition of population denominators for detailed API groups to SEER*Stat software developed by the National Cancer Institute’s Surveillance Research Program will enable public health researchers to utilize SEER databases to further investigate cancer incidence and mortality rates among these groups in the US [8]. Additional studies might include analyses that incorporate tumor characteristics (e.g., cancer subsite, histology, and grade) or other sociodemographic factors when examining racial/ethnic differences in cancer patterns.

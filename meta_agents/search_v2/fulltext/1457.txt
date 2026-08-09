@@ -1,0 +1,5566 @@
+record_id=1457 pmid=41528114 doi=10.3322/caac.70043 pmcid=PMC12798275
+TITLE: Cancer statistics, 2026
+
+INTRODUCTION
+Cancer is a global public health problem. In the United States, it is the second‐leading cause of death overall and the leading cause among people younger than 85 years. Although cancer mortality has declined in the United States for several decades, there are numerous threats to this progress, such as rising incidence for many common cancers; persistent socioeconomic, racial, and ethnic disparities; and a potential uptick in advanced‐stage diagnoses in the wake of pandemic‐related delays in detection. For example, disruptions in colorectal cancer (CRC) screening and care are projected to result in 4000–7000 excess deaths by 2040;
+1
+ however, the rebound unique to CRC screening, driven by increased stool testing, may mitigate this impact.
+2
+ Importantly, cancer screening uptake since the pandemic has been slower among communities of color,
+3
+ which may exacerbate existing disparities in survival and mortality.
+This article provides the estimated numbers of new cancer cases and deaths in 2026 in the United States nationally and for each state as well as a comprehensive overview of cancer occurrence based on up‐to‐date, population‐based data for cancer incidence and mortality through 2022 and 2023, respectively. We also estimate the total number of cancer deaths averted through 2023 because of the continuous decline in the cancer death rate since the early 1990s.
+MATERIALS AND METHODS
+Data sources
+Population‐based cancer incidence data in the United States have been collected by the National Cancer Institute's (NCI) Surveillance, Epidemiology, and End Results (SEER) program since 1973 and by the Centers for Disease Control and Prevention's (CDC) National Program of Cancer Registries (NPCR) since 1995. The SEER program is the only source for historic population‐based incidence data from the eight oldest SEER areas (Connecticut, Hawaii, Iowa, New Mexico, Utah, and the metropolitan areas of Atlanta, San Francisco‐Oakland, and Seattle‐Puget Sound), which represent approximately 8% of the US population.
+4
+ Historical survival data (1975–1977 and 1995–1997) are based on the SEER 8 areas plus the Detroit metropolitan area, as published previously.
+5
+ Contemporary survival statistics are based on data from the SEER 8 registries plus the Alaska Native Tumor Registry, California, Georgia, Idaho, Kentucky, Louisiana, New Jersey, New York, and Texas,
+6
+ representing 42% of the US population, with vital status follow‐up through 2022. Twenty‐one SEER registries, which additionally include Illinois and cover 46% of the United States population, were the source for the probability of developing cancer.
+The North American Association of Central Cancer Registries (NAACCR) compiles and reports incidence data from 1995 onward for registries that participate in the SEER program and/or the NPCR. These data approach 100% coverage of the US population for the most recent years and were the source for the projected new cancer cases in 2026, contemporary incidence trends, cross‐sectional incidence rates, and stage distribution.
+7
+, 
+8
+ The incidence data presented herein differ slightly from those published online in the NAACCR's CiNA (Cancer in North America) Explorer (https://apps.naaccr.org/explorer/; accessed August 27, 2025) because rates are adjusted for delays in case reporting using state‐level delay factors. Incidence data for Puerto Rico were abstracted from the CiNA Explorer.
+Mortality data from 1930 to 2023 were provided by the National Center for Health Statistics (NCHS).
+9
+, 
+10
+ Forty‐seven states and the District of Columbia met data quality requirements for reporting to the national vital statistics system in 1930, and Texas, Alaska, and Hawaii began reporting in 1933, 1959, and 1960, respectively. The methods for abstraction and age‐adjustment of mortality data before 1969 are described elsewhere.
+10
+, 
+11
+ Contemporary 5‐year mortality rates for Puerto Rico were sourced from State Cancer Profiles (https://statecancerprofiles.cancer.gov; accessed July 18, 2025), a collaboration between the CDC and the NCI.
+All cancer cases were classified according to the International Classification of Diseases for Oncology, third edition, except childhood and adolescent cancers, which were classified according to the International Classification of Childhood Cancer.
+12
+, 
+13
+, 
+14
+ CRC case data exclude appendiceal cancers except for estimated new diagnoses in 2026. Causes of death were classified according to the International Classification of Diseases.
+15
+Statistical analysis
+Incidence and mortality
+All incidence and mortality rates were age standardized to the 2000 US standard population (19 age groups for incidence, 20 age groups for mortality) and expressed per 100,000 persons (or per million for childhood and adolescent cancer incidence), as calculated by the NCI's SEER*Stat software, version 9.0.41. Population data before 2010 were modified intercensal annual estimates by age, sex, race, and Hispanic origin produced by the US Census Bureau and the NCHS in collaboration with the NCI (https://seer.cancer.gov/popdata/modifications.html; accessed October 13, 2025). Population estimates for 2010–2019 were produced by Woods & Poole Economics, Inc. (https://seer.cancer.gov/popdata/W&P_ICen_Tech_Documentation.pdf; accessed October 13, 2025) and, for 2020–2023, were based on Vintage 2023 estimates (https://seer.cancer.gov/popdata/; accessed August 15, 2025). Population estimates incorporate race‐bridging, which combines multiple‐race categories in the 2000 and 2010 census into individual race categories. These population estimates differ from those used in the calculation of rates provided in CDC Wonder (https://wonder.cdc.gov/wonder/help/ucd‐expanded.html#Population%202022; accessed August 15, 2025), resulting in differences for some years. Official US Census Bureau intercensal population estimates are anticipated to be available for future data releases. (For more information on population estimates issued by the US Census Bureau, see https://census.gov/programs‐surveys/popest.html; accessed August 15, 2025).
+The probability of developing cancer was calculated using NCI's DevCan software, version 6.9.2, and the annual percent change (APC) in rates was quantified using NCI's Joinpoint Regression Program, version 5.4.0.0. Trends were described as increasing or decreasing when the APC was statistically significant based on a two‐sided p value < .05, calculated using the parametric method; otherwise, they were described as stable. Trend and lifetime risk analyses exclude cancer incidence in 2020 because the Joinpoint and DevCan modeling programs were not designed to accommodate such a large single‐year data anomaly as occurred because of pandemic‐related disruptions in health care.
+16
+All statistics presented by race exclude Hispanic ethnicity to minimize racial misclassification. Racial misclassification for the American Indian and Alaska Native (AIAN) population was further mitigated by restricting incidence rates to Purchased/Referred Care Delivery Area counties and adjusting nationally representative mortality rates using classification ratios previously published by the NCHS.
+17
+Whenever possible, cancer incidence rates were adjusted for delays in reporting, which occur because of lags in case capture and data corrections. Delay adjustment has the largest effect on most recent data years and for cancers that are frequently diagnosed in outpatient settings (e.g., melanoma, leukemia, and prostate cancer). For example, the leukemia incidence rate for 2022 was 13% higher after adjusting for reporting delays (15.4 vs. 13.6 per 100,000 persons). Delay adjustment is particularly important when quantifying contemporary trends.
+18
+ In addition, rates for uterine corpus and uterine cervix cancers were corrected for hysterectomy prevalence by removing these women from the population at risk (denominator) based on Behavioral Risk Factor Surveillance System data during 2018–2022 by state, age (20–39 years or 20–29, 30–39, 40–49, 50–59, 60–69, 70–79, and 80 years and older), and race and ethnicity.
+19
+ The case count for each cancer was then added back to the at‐risk populations because hysterectomy is a common treatment for both cancers. Corrected rates were age adjusted to the 2000 US standard population using the same method described above.
+Survival
+Relative survival is a measure of survival in the absence of competing causes of death. It is calculated as the ratio of the observed survival among a group of patients with cancer to their expected survival in the general population. Expected survival is calculated using life tables that match each patient with cancer to their respective sex, age, race, geographic area, socioeconomic status, and year of diagnosis, which are updated annually using population and mortality data.
+20
+ Thus, relative survival is a measure of net cancer survival, and is useful for tracking progress in cancer early detection and treatment. In addition, relative survival measures excess mortality and thus does not require detailed cause‐of‐death information, which is often unavailable or unreliable,
+21
+ despite active follow‐up of patients from diagnosis to death or loss to follow‐up by SEER registry personnel. For the current analysis, we used the Ederer II method for calculating expected survival
+22
+ and the actuarial method to calculate survival, with life tables that included detailed information by Hispanic ethnicity.
+20
+ Relative survival was calculated by cancer site and race (all races, White, and Black) for three diagnosis periods (1975–1977, 1995–1997, and 2015–2021) and by stage at diagnosis (all stages, localized, regional, and distant).
+Projected cancer cases and deaths in 2026
+The most recent year for which incidence and mortality data are available lags 2–3 years behind the current year because of the time required for data collection, compilation, quality control, and dissemination. Therefore, we project the numbers of new cancer cases and deaths in the United States in 2026 to estimate the contemporary cancer burden using two‐step statistical modeling, as described in detail elsewhere.
+23
+, 
+24
+ Briefly, complete cancer diagnoses were estimated for every state from 2008 through 2022 based on high‐quality, delay‐adjusted incidence data from 50 states and the District of Columbia (99.7% population coverage) as well as state‐level variations in sociodemographic characteristics, lifestyle factors, medical settings, and cancer screening behaviors.
+25
+ Counts were adjusted for the deficit in cases during March through May 2020 because of the coronavirus disease 2019 pandemic based on the proportion of cases diagnosed in those months in previous years. Modeled state and national counts were then projected 4 years ahead using a novel, data‐driven Joinpoint algorithm.
+24
+ Basal cell and squamous cell skin cancers cannot be estimated because these diagnoses are not recorded by most cancer registries. Ductal carcinoma in situ of the female breast and in situ melanoma of the skin were estimated by approximating annual case counts from 2013 through 2022 based on NAACCR age‐specific incidence rates, delay factors for invasive disease (delay factors are unavailable for in situ cases), and US population estimates. Counts were then projected 4 years ahead based on the average APC generated by the Joinpoint regression model. The number of cancer deaths expected to occur in 2026 was estimated by applying the data‐driven Joinpoint algorithm described above to reported cancer deaths from 2009 through 2023 at the state and national levels.
+24
+Other statistics
+The number of cancer deaths averted in men and women because of the reduction in cancer death rates since the early 1990s was estimated by summing the annual difference between the number of cancer deaths recorded and the number that would have been expected if cancer death rates had remained at their peak. The expected number of deaths was estimated by applying the 5‐year, age‐specific and sex‐specific cancer death rate in the peak year for age‐standardized cancer death rates (1990 in men, 1991 in women) to the corresponding age‐specific and sex‐specific population estimates in subsequent years through 2023.
+SELECTED FINDINGS
+Expected number of new cancer cases and deaths
+Table 1 presents the estimated numbers of new invasive cancer cases in the United States in 2026 by sex and cancer type. In total, there will be approximately 2,114,850 new cancer diagnoses, the equivalent of about 5800 cases each day. In addition, there will be about 122,680 new cases of melanoma in situ of the skin and 60,730 new cases of ductal carcinoma in situ diagnosed in women in 2026. The estimated numbers of new cases for selected cancers by state are shown in Table 2. The lifetime probability of being diagnosed with invasive cancer is one in three for both men (39.2%) and women (38.7%; Table 3). Although most (60%) cancer diagnoses are still in people aged 65 years or older, an increasing portion are in younger adults, including 28% in people aged 50–64 years and 12% in people younger than 50. However, age distribution varies widely by cancer type; for example, the proportion of diagnoses before age 50 years ranges from 1% of prostate cancers and 2% of lung cancers to 17% of breast cancers and 47% of cervical cancers.
+7
+TABLE 1
+Estimated number of new cancer cases and deaths by sex, United States, 2026.
+Estimated New Cases
+Estimated Deaths
+Both sexes
+Male
+Female
+Both sexes
+Male
+Female
+All sites
+2,114,850
+1,094,070
+1,020,780
+626,140
+327,290
+298,850
+Oral cavity & pharynx
+60,480
+43,070
+17,410
+13,150
+9420
+3730
+Tongue
+20,420
+14,250
+6170
+3560
+2460
+1100
+Mouth
+15,810
+9230
+6580
+3340
+2030
+1310
+Pharynx
+21,760
+17,880
+3880
+4760
+3780
+980
+Other oral cavity
+2490
+1710
+780
+1490
+1150
+340
+Digestive system
+369,970
+203,500
+166,470
+178,700
+102,000
+76,700
+Esophagus
+22,530
+17,580
+4950
+16,290
+12,940
+3350
+Stomach
+31,510
+17,900
+13,610
+10,740
+6360
+4380
+Small intestine
+14,450
+7470
+6980
+2170
+1250
+920
+Colon & rectum
+a
+158,850
+84,160
+74,690
+55,230
+30,110
+25,120
+Colon
+108,860
+55,410
+53,450
+Rectum
+49,990
+28,750
+21,240
+Anus, anal canal, & anorectum
+11,270
+3570
+7700
+1700
+570
+1130
+Liver & intrahepatic bile duct
+42,340
+27,790
+14,550
+30,980
+19,650
+11,330
+Gallbladder & other biliary
+12,640
+5950
+6690
+4590
+1960
+2630
+Pancreas
+67,530
+35,190
+32,340
+52,740
+27,230
+25,510
+Other digestive organs
+8850
+3890
+4960
+4260
+1930
+2330
+Respiratory system
+247,820
+124,540
+123,280
+130,550
+67,260
+63,290
+Larynx
+12,290
+9730
+2560
+3960
+3180
+780
+Lung & bronchus
+229,410
+110,910
+118,500
+124,990
+63,040
+61,950
+Other respiratory organs
+6120
+3900
+2220
+1600
+1040
+560
+Bones & joints
+4110
+2290
+1820
+2210
+1240
+970
+Soft tissue (including heart)
+13,910
+7840
+6070
+5400
+2960
+2440
+Skin (excluding basal & squamous)
+119,750
+70,590
+49,160
+14,570
+9850
+4720
+Melanoma of the skin
+112,000
+65,400
+46,600
+8510
+5500
+3010
+Other nonepithelial skin
+7750
+5190
+2560
+6060
+4350
+1710
+Breast
+324,580
+2670
+321,910
+42,670
+530
+42,140
+Genital system
+463,560
+345,900
+117,660
+71,970
+37,400
+34,570
+Uterine cervix
+13,490
+13,490
+4200
+4200
+Uterine corpus
+68,270
+68,270
+14,450
+14,450
+Ovary
+21,010
+21,010
+12,450
+12,450
+Vulva
+7130
+7130
+1750
+1750
+Vagina & other genital, female
+7760
+7760
+1720
+1720
+Prostate
+333,830
+333,830
+36,320
+36,320
+Testis
+9810
+9810
+630
+630
+Penis & other genital, male
+2260
+2260
+450
+450
+Urinary system
+169,700
+118,460
+51,240
+34,400
+23,760
+10,640
+Urinary bladder
+84,530
+64,730
+19,800
+17,870
+12,640
+5230
+Kidney & renal pelvis
+80,450
+50,770
+29,680
+15,160
+10,200
+4960
+Ureter & other urinary organs
+4720
+2960
+1760
+1370
+920
+450
+Eye & orbit
+3200
+1720
+1480
+530
+280
+250
+Brain & other nervous system
+24,740
+13,830
+10,910
+18,350
+9970
+8380
+Endocrine system
+53,200
+16,630
+36,570
+3500
+1700
+1800
+Thyroid
+45,240
+13,240
+32,000
+2320
+1100
+1220
+Other endocrine
+7960
+3390
+4570
+1180
+600
+580
+Lymphoma
+88,240
+48,660
+39,580
+21,070
+12,390
+8680
+Hodgkin lymphoma
+8920
+4890
+4030
+1100
+680
+420
+Non‐Hodgkin lymphoma
+79,320
+43,770
+35,550
+19,970
+11,710
+8260
+Myeloma
+36,000
+20,150
+15,850
+10,850
+5780
+5070
+Leukemia
+67,790
+39,070
+28,720
+23,910
+13,900
+10,010
+Acute lymphocytic leukemia
+6250
+3600
+2650
+1600
+930
+670
+Chronic lymphocytic leukemia
+22,760
+13,810
+8950
+4350
+2720
+1630
+Acute myeloid leukemia
+22,720
+12,160
+10,560
+11,500
+6520
+4980
+Chronic myeloid leukemia
+9650
+5810
+3840
+1170
+630
+540
+Other leukemia
+6410
+3690
+2720
+5290
+3100
+2190
+Other & unspecified primary sites
+67,800
+35,150
+32,650
+54,310
+28,850
+25,460
+Note: Estimates are rounded to the nearest 10 and cases exclude basal cell and squamous cell skin cancer and in situ carcinoma except urinary bladder. About 60,730 cases of female breast ductal carcinoma in situ and 122,680 cases of melanoma in situ will be diagnosed in 2026. These are model‐based estimates that should be interpreted with caution.
+a
+Deaths for colon and rectal cancers are combined because a large number of deaths from rectal cancer are misclassified as colon.
+TABLE 2
+Estimated number of new cases for selected cancers by state, United States, 2026.
+a
+State
+All sites
+Female breast
+Colon & rectum
+Leukemia
+Lung & bronchus
+Melanoma of the skin
+Non‐Hodgkin lymphoma
+Prostate
+Urinary bladder
+Uterine cervix
+Uterine corpus
+Alabama
+30,710
+4,900
+2690
+870
+3960
+1450
+960
+5400
+1210
+250
+910
+Alaska
+4040
+580
+340
+110
+440
+140
+140
+750
+170
+—
+a
+110
+Arizona
+44,620
+7090
+3330
+1450
+4350
+3890
+1690
+5540
+1970
+280
+1430
+Arkansas
+20,420
+2720
+1620
+600
+2710
+1050
+670
+3150
+780
+150
+520
+California
+206,500
+34,170
+16,650
+6380
+16,670
+12,170
+8310
+32,610
+7370
+1490
+7390
+Colorado
+30,160
+5210
+2210
+1030
+2620
+2190
+1190
+4480
+1220
+190
+890
+Connecticut
+24,020
+3940
+1690
+830
+2670
+770
+980
+4000
+1190
+120
+850
+Delaware
+8410
+1240
+520
+200
+950
+450
+290
+1410
+350
+—
+a
+260
+District of Columbia
+3190
+590
+230
+80
+330
+90
+100
+450
+100
+—
+a
+110
+Florida
+183,100
+24,700
+12,850
+7060
+18,570
+10,530
+7600
+26,970
+7630
+1200
+5490
+Georgia
+68,440
+10,440
+5350
+1960
+6780
+3700
+2190
+11,420
+2310
+470
+2050
+Hawaii
+9420
+1700
+840
+240
+870
+550
+340
+1310
+310
+60
+390
+Idaho
+12,470
+1890
+900
+490
+1090
+1080
+490
+2030
+580
+70
+310
+Illinois
+78,880
+12,340
+6160
+2360
+9430
+4390
+2890
+13,050
+3180
+490
+2740
+Indiana
+44,950
+6530
+3510
+1410
+6230
+2330
+1630
+6440
+1890
+290
+1420
+Iowa
+22,710
+3030
+1630
+810
+2500
+1780
+860
+3320
+960
+120
+700
+Kansas
+16,680
+2620
+1410
+520
+2090
+860
+670
+2650
+620
+100
+540
+Kentucky
+31,440
+4280
+2660
+990
+5060
+1610
+1150
+4290
+1310
+210
+940
+Louisiana
+29,870
+4250
+2500
+870
+3390
+1310
+1020
+5440
+1030
+200
+710
+Maine
+10,680
+1600
+730
+380
+1460
+410
+440
+1820
+640
+—
+a
+390
+Maryland
+38,160
+6290
+2740
+1060
+3920
+2030
+1350
+7230
+1400
+220
+1350
+Massachusetts
+43,250
+7340
+2910
+1410
+5390
+1370
+1760
+7310
+1990
+180
+1520
+Michigan
+68,730
+9900
+4830
+2110
+8460
+3330
+2490
+10,530
+3030
+370
+2170
+Minnesota
+39,830
+5670
+2630
+1330
+3970
+3450
+1560
+6340
+1600
+160
+1210
+Mississippi
+18,080
+2670
+1690
+550
+2660
+660
+620
+3170
+650
+140
+480
+Missouri
+42,350
+6300
+3200
+1350
+5780
+2310
+1530
+5530
+1590
+250
+1230
+Montana
+8130
+1150
+550
+250
+760
+620
+280
+1260
+370
+—
+a
+200
+Nebraska
+12,680
+1770
+950
+380
+1320
+840
+450
+2030
+480
+60
+390
+Nevada
+18,110
+2880
+1530
+560
+1770
+1120
+630
+2970
+790
+160
+520
+New Hampshire
+10,150
+1560
+670
+350
+1330
+470
+450
+1760
+540
+—
+a
+350
+New Jersey
+60,740
+9510
+4540
+2090
+5640
+2570
+2500
+11,480
+2650
+360
+2260
+New Mexico
+11,840
+1910
+940
+400
+920
+750
+430
+2140
+450
+100
+420
+New York
+125,860
+19,010
+9140
+4120
+13,150
+4530
+5060
+22,180
+5410
+770
+4270
+North Carolina
+74,400
+11,820
+5050
+2260
+8880
+4180
+2500
+11,190
+2770
+420
+2220
+North Dakota
+4650
+660
+360
+160
+480
+380
+170
+810
+180
+—
+a
+120
+Ohio
+78,080
+11,400
+5830
+2170
+10,120
+4600
+2810
+11,670
+3390
+490
+2590
+Oklahoma
+24,570
+3550
+2010
+730
+3100
+1210
+840
+3390
+920
+180
+700
+Oregon
+27,970
+4290
+1890
+840
+2970
+1660
+1120
+3630
+1270
+140
+890
+Pennsylvania
+90,250
+13,720
+6520
+2910
+10,710
+3890
+3410
+13,470
+4160
+510
+3300
+Rhode Island
+7260
+1160
+490
+250
+910
+270
+300
+1310
+380
+—
+a
+260
+South Carolina
+36,920
+6030
+2820
+1010
+4550
+2010
+1200
+6900
+1410
+240
+1110
+South Dakota
+6200
+860
+460
+200
+690
+450
+200
+910
+250
+—
+a
+170
+Tennessee
+44,660
+6920
+3560
+1330
+6380
+1850
+1520
+7190
+1780
+310
+1340
+Texas
+161,330
+24,270
+13,310
+5660
+14,260
+5910
+5850
+24,090
+5050
+1470
+5260
+Utah
+15,170
+2380
+1030
+600
+790
+1900
+600
+2650
+530
+100
+530
+Vermont
+4680
+710
+310
+160
+590
+250
+200
+850
+230
+—
+a
+170
+Virginia
+52,160
+8470
+3770
+1320
+6060
+2560
+1790
+9120
+1910
+290
+1710
+Washington
+48,590
+7710
+3300
+1550
+5020
+2860
+1900
+6980
+1980
+280
+1400
+West Virginia
+13,590
+1680
+1060
+400
+2110
+590
+450
+1640
+580
+80
+500
+Wisconsin
+42,140
+6030
+2680
+1550
+4220
+2340
+1620
+7050
+1790
+180
+1390
+Wyoming
+3640
+500
+270
+100
+330
+270
+120
+500
+170
+—
+a
+110
+United States
+2,114,850
+321,910
+158,850
+67,790
+229,410
+112,000
+79,320
+333,830
+84,530
+13,490
+68,270
+Note: Estimates are rounded to the nearest 10 and exclude basal and squamous cell skin cancers and in situ carcinomas except urinary bladder. State estimates may not sum to US total because of rounding and exclusion of state estimates of fewer than 50 cases. These are model‐based estimates that should be interpreted with caution.
+a
+Fewer than 50 cases.
+TABLE 3
+Probability (%) of developing invasive cancer during selected age intervals by sex, United States, 2019–2022.
+a
+Site
+Sex
+Birth to 49 years
+50–64 years
+65–84 years
+85 years and older
+Birth to death
+All sites
+b
+Male
+3.4 (1 in 29)
+11.3 (1 in 9)
+31.4 (1 in 3)
+18.6 (1 in 5)
+39.2 (1 in 3)
+Female
+6.0 (1 in 17)
+10.8 (1 in 9)
+24.3 (1 in 4)
+14.1 (1 in 7)
+38.7 (1 in 3)
+Breast
+Female
+2.2 (1 in 46)
+4.0 (1 in 25)
+7.3 (1 in 14)
+2.6 (1 in 38)
+13.0 (1 in 8)
+Colon & rectum
+Male
+0.4 (1 in 223)
+1.2 (1 in 83)
+2.5 (1 in 40)
+1.6 (1 in 62)
+4.0 (1 in 25)
+Female
+0.4 (1 in 237)
+0.9 (1 in 115)
+2.1 (1 in 48)
+1.6 (1 in 63)
+3.8 (1 in 26)
+Kidney & renal pelvis
+Male
+0.3 (1 in 383)
+0.7 (1 in 145)
+1.5 (1 in 68)
+0.6 (1 in 180)
+2.2 (1 in 45)
+Female
+0.2 (1 in 595)
+0.3 (1 in 287)
+0.8 (1 in 128)
+0.3 (1 in 310)
+1.3 (1 in 75)
+Leukemia
+Male
+0.3 (1 in 376)
+0.3 (1 in 300)
+1.2 (1 in 84)
+0.8 (1 in 120)
+1.8 (1 in 56)
+Female
+0.2 (1 in 479)
+0.2 (1 in 448)
+0.7 (1 in 136)
+0.5 (1 in 195)
+1.3 (1 in 77)
+Lung & bronchus
+Male
+0.1 (1 in 922)
+1.0 (1 in 96)
+4.5 (1 in 22)
+2.4 (1 in 42)
+5.4 (1 in 19)
+Female
+0.1 (1 in 831)
+1.0 (1 in 97)
+4.0 (1 in 25)
+1.8 (1 in 56)
+5.4 (1 in 19)
+Melanoma of the skin
+c
+Male
+0.4 (1 in 248)
+0.9 (1 in 116)
+2.4 (1 in 41)
+1.5 (1 in 68)
+3.5 (1 in 28)
+Female
+0.6 (1 in 158)
+0.7 (1 in 145)
+1.2 (1 in 83)
+0.6 (1 in 171)
+2.6 (1 in 39)
+Non‐Hodgkin lymphoma
+Male
+0.2 (1 in 402)
+0.5 (1 in 209)
+1.5 (1 in 66)
+0.9 (1 in 109)
+2.2 (1 in 46)
+Female
+0.2 (1 in 538)
+0.4 (1 in 271)
+1.1 (1 in 87)
+0.6 (1 in 159)
+1.8 (1 in 55)
+Prostate
+Male
+0.2 (1 in 480)
+3.8 (1 in 26)
+11.0 (1 in 9)
+3.3 (1 in 30)
+12.9 (1 in 8)
+Thyroid
+Male
+0.2 (1 in 503)
+0.2 (1 in 510)
+0.3 (1 in 360)
+0.1 (1 in 1460)
+0.6 (1 in 162)
+Female
+0.8 (1 in 128)
+0.5 (1 in 210)
+0.4 (1 in 226)
+0.1 (1 in 1104)
+1.7 (1 in 60)
+Uterine cervix
+d
+Female
+0.3 (1 in 343)
+0.2 (1 in 553)
+0.2 (1 in 592)
+0.1 (1 in 1593)
+0.6 (1 in 156)
+Uterine corpus
+d
+Female
+0.3 (1 in 289)
+1.1 (1 in 90)
+1.8 (1 in 57)
+0.4 (1 in 246)
+3.1 (1 in 32)
+Note: Probabilities are for those who are free of cancer at the beginning of each age interval.
+a
+Excludes 2020.
+b
+Excludes basal and squamous cell skin cancers and in situ cancers except urinary bladder.
+c
+Probabilities are for non‐Hispanic White individuals only.
+d
+Not adjusted for hysterectomy prevalence.
+Figure 1 depicts the most common cancers diagnosed in men and women in 2026. Prostate cancer, lung and bronchus (hereinafter lung) cancer, and CRC account for almost one half (48%) of all incident cases in men, with prostate cancer alone accounting for nearly one third of diagnoses. In women, breast cancer, lung cancer, and CRC account for 50% of all new diagnoses, with breast cancer alone accounting for nearly one third of cases.
+FIGURE 1
+Leading cancer types of estimated new cancer cases and deaths by sex, United States, 2026. Estimates are rounded to the nearest 10 and cases exclude basal cell and squamous cell skin cancers and in situ carcinoma except urinary bladder. Percentages may not sum to totals because of rounding. Rank is based on modeled projections and may differ from the most recent observed data.
+An estimated 626,140 people in the United States will die from cancer in 2026, corresponding to about 1720 deaths per day (Table 1). Table 4 provides the estimated number of deaths by state for cancer overall and for the 10 cancer types that cause the most deaths. Lung cancer is the leading cancer death, killing more people than second‐ranking CRC and third‐ranking pancreatic cancer combined. Approximately 87% of lung cancers in men and 84% in women are attributable to cigarette smoking.
+26
+ Smoking prevalence dropped from 42% in 1964 to 11% in 2023,
+27
+ but it continues to be the leading cause of preventable death in the United States, accounting for approximately 182,830 cancer deaths in 2026 directly or through secondhand smoke exposure.
+26
+TABLE 4
+Estimated number of deaths for selected cancers by state, United States, 2026.
+State
+All sites
+Brain & other nervous system
+Female breast
+Colon & rectum
+Leukemia
+Liver & intrahepatic bile duct
+Lung & bronchus
+Non‐Hodgkin lymphoma
+Pancreas
+Prostate
+Urinary bladder
+Alabama
+10,670
+320
+730
+970
+360
+550
+2370
+280
+760
+560
+310
+Alaska
+1140
+—
+a
+60
+90
+—
+a
+—
+a
+210
+—
+a
+80
+70
+—
+a
+Arizona
+13,800
+350
+1000
+1330
+570
+730
+2330
+450
+1170
+900
+340
+Arkansas
+6840
+190
+390
+670
+220
+360
+1640
+190
+470
+360
+220
+California
+61,280
+1970
+4580
+5660
+2320
+3690
+9580
+2180
+5250
+4210
+1660
+Colorado
+8740
+310
+710
+790
+390
+450
+1340
+290
+750
+670
+260
+Connecticut
+6760
+230
+420
+490
+270
+340
+1240
+220
+600
+430
+220
+Delaware
+2430
+70
+190
+190
+90
+110
+510
+80
+230
+150
+90
+District of Columbia
+820
+—
+a
+80
+80
+30
+40
+150
+—
+a
+70
+70
+—
+a
+Florida
+50,010
+1470
+3360
+4240
+2000
+2200
+9990
+1560
+4280
+2970
+1630
+Georgia
+19,400
+590
+1430
+1750
+700
+990
+3500
+540
+1410
+1160
+530
+Hawaii
+2720
+50
+200
+260
+90
+160
+470
+100
+250
+170
+60
+Idaho
+3510
+130
+250
+310
+150
+190
+580
+90
+300
+240
+90
+Illinois
+23,230
+680
+1350
+2080
+880
+1090
+4880
+730
+2080
+1280
+620
+Indiana
+14,230
+390
+900
+1260
+520
+560
+3430
+450
+1090
+740
+400
+Iowa
+6330
+180
+370
+530
+270
+290
+1350
+230
+510
+330
+180
+Kansas
+5700
+190
+370
+510
+250
+250
+1250
+220
+450
+290
+150
+Kentucky
+10,510
+270
+640
+970
+370
+500
+2870
+310
+760
+450
+310
+Louisiana
+9360
+250
+560
+870
+330
+580
+2080
+260
+750
+450
+220
+Maine
+3560
+100
+200
+260
+120
+130
+800
+120
+280
+220
+130
+Maryland
+11,280
+300
+810
+980
+420
+530
+2120
+370
+960
+710
+320
+Massachusetts
+12,470
+410
+710
+840
+460
+650
+2510
+410
+1200
+710
+330
+Michigan
+21,580
+630
+1320
+1630
+810
+830
+4850
+630
+1900
+1120
+620
+Minnesota
+10,660
+330
+640
+800
+450
+500
+2060
+390
+930
+600
+270
+Mississippi
+6740
+190
+470
+670
+250
+330
+1580
+180
+510
+390
+170
+Missouri
+13,470
+380
+970
+1280
+490
+650
+3320
+420
+1,060
+720
+380
+Montana
+2310
+90
+140
+200
+80
+120
+420
+70
+190
+160
+70
+Nebraska
+3680
+130
+260
+340
+160
+170
+810
+120
+320
+200
+140
+Nevada
+5840
+150
+430
+580
+170
+320
+1050
+170
+490
+400
+200
+New Hampshire
+3050
+110
+180
+190
+90
+140
+630
+100
+270
+180
+110
+New Jersey
+15,150
+400
+1160
+1330
+570
+690
+2890
+470
+1430
+770
+470
+New Mexico
+3970
+120
+280
+360
+170
+170
+590
+120
+290
+270
+110
+New York
+31,140
+850
+1920
+2680
+1190
+1310
+5850
+980
+2930
+1,650
+810
+North Carolina
+21,770
+570
+1460
+1900
+780
+920
+5040
+630
+1840
+1,230
+590
+North Dakota
+1320
+—
+a
+70
+110
+60
+50
+270
+—
+a
+120
+70
+—
+a
+Ohio
+24,590
+640
+1580
+2020
+950
+1050
+5550
+790
+2130
+1350
+750
+Oklahoma
+8490
+250
+580
+820
+320
+360
+1920
+270
+590
+450
+270
+Oregon
+8840
+270
+580
+670
+350
+450
+1610
+310
+710
+590
+300
+Pennsylvania
+27,630
+820
+1770
+2240
+1060
+1260
+5870
+900
+2420
+1440
+850
+Rhode Island
+2120
+70
+120
+150
+70
+140
+410
+70
+200
+110
+70
+South Carolina
+11,700
+360
+800
+970
+420
+590
+2400
+360
+960
+660
+430
+South Dakota
+1810
+—
+a
+90
+150
+80
+50
+380
+60
+160
+100
+—
+a
+Tennessee
+15,270
+400
+1040
+1610
+530
+720
+3690
+450
+1160
+750
+350
+Texas
+46,300
+1360
+3400
+4750
+1820
+3170
+8080
+1470
+3770
+2480
+1,220
+Utah
+3970
+170
+340
+440
+190
+200
+470
+140
+350
+310
+100
+Vermont
+1520
+50
+90
+130
+50
+50
+300
+50
+130
+100
+—
+a
+Virginia
+16,550
+500
+1150
+1490
+650
+780
+3300
+500
+1320
+1020
+440
+Washington
+14,160
+390
+960
+1160
+540
+730
+2570
+510
+1220
+980
+400
+West Virginia
+4710
+120
+290
+420
+180
+190
+1330
+150
+330
+240
+130
+Wisconsin
+11,840
+360
+670
+880
+560
+550
+2310
+410
+1200
+790
+320
+Wyoming
+1160
+—
+a
+80
+130
+—
+a
+50
+210
+—
+a
+110
+70
+—
+a
+United States
+626,140
+18,350
+42,140
+55,230
+23,910
+30,980
+124,990
+19,970
+52,740
+36,320
+14,450
+Note: Estimates are rounded to the nearest 10. State estimates may not sum to US total because of rounding and exclusion of state estimates of fewer than 50 deaths. These are model‐based estimates that should be interpreted with caution.
+a
+Fewer than 50 deaths.
+Trends in cancer incidence
+Figure 2 illustrates long‐term temporal trends in overall cancer incidence by sex from 1975 through 2022. Observed incidence rates in 2020 are presented as data points separate from the trend line because pandemic‐related disruptions in diagnosis resulted in 9%–10% lower rates than expected, mostly for asymptomatic disease.
+16
+, 
+28
+ Incidence rates since 2020 have been a continuation of prepandemic trends except for a small rebound in breast cancer cases in 2021.
+29
+, 
+30
+FIGURE 2
+Trends in cancer incidence (1975–2022) and mortality (1975–2023) rates by sex, United States. Rates are age adjusted to the 2000 US standard population, and incidence rates are adjusted for delays in case reporting. Incidence data for 2020 are shown separate from trend lines.
+Cancer incidence in men spiked during the early 1990s because of a surge in the detection of asymptomatic prostate cancer through rapid, widespread prostate‐specific antigen (PSA) testing.
+31
+ Thereafter, the male rate generally fell until 2014 and remained stable through 2022 at approximately 500 per 100,000 men (Figure 2). In contrast, cancer incidence in women gradually increased from 1978 through 2022 (445 per 100,000 women), narrowing the male‐to‐female incidence rate ratio from a peak of 1.6 in 1992 to 1.1 in 2022 (the rate ratio was 1.4 before the prostate/PSA peak). Higher risk in men for most cancer types reflects greater exposure to carcinogenic environmental and lifestyle factors, such as smoking, as well as other factors, including height,
+32
+, 
+33
+ endogenous hormone exposure, and immune function and response.
+34
+, 
+35
+Figure 3 shows incidence trends for some common cancers by sex. In men, prostate cancer incidence is more than twice that of second‐ranking lung cancer. The prostate cancer incidence rate dropped by almost 40% from 2007 to 2014 because of an 8.4% per year decline in the diagnosis of localized (typically asymptomatic) disease in parallel with recommendations against screening by the US Preventive Services Task Force (USPSTF) for men aged 75 years and older in 2008 and for all men in 2012.
+36
+, 
+37
+ From 2014 through 2022, the prostate cancer incidence rate rose by 2.9% per year (Table 5), with a longer and steeper slope for regional‐stage (4.6% per year since 2013) and distant‐stage (5.6% per year since 2011) disease.
+38
+ Advanced‐stage diagnoses are increasing in men of all ages, and it is possible that expanded use of high‐sensitivity prostate magnetic resonance imaging is itself contributing to the trend, although at least one study found no evidence of an association.
+39
+ In 2018, the USPSTF upgraded their recommendation for prostate cancer screening to informed decision‐making in asymptomatic men aged 55–69 years,
+40
+ consistent with long‐standing American Cancer Society recommendations.
+41
+ Despite concerning incidence trends, PSA screening remains an area of active debate given the high prevalence and severity of treatment complications. A recent 12‐year follow‐up study of men treated for prostate cancer found that, compared with same‐aged men in the general population, prostatectomy was associated with a seven‐fold higher risk of urinary or sexual complications, and radiotherapy was associated with a three‐fold higher risk of bladder cancer.
+42
+ Forty years of follow‐up from the Swedish Malmo study recently reported that men with a PSA <2 ng/mL at age 60 years continued to be at low risk for lethal prostate cancer,
+43
+ highlighting an opportunity for more investigation of a one‐and‐done approach.
+FIGURE 3
+Trends in incidence rates for selected cancers by sex, United States, 1975–2022. Rates are age adjusted to the 2000 US standard population and adjusted for delays in reporting. Data for 2020 are shown separate from trend lines. aExcludes appendix. bIncludes intrahepatic bile duct. cNot adjusted for hysterectomy prevalence.
+TABLE 5
+Trends in incidence rates for selected cancers by sex, United States, 1998–2022.
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+AAPC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+2018–2022
+2013–2022
+All sites
+1998–2001
+1.0
+a
+2001–2004
+−1.0
+2004–2008
+0.4
+2008–2012
+−1.4
+a
+2012–2022
+0.2
+a
+0.2
+a
+0.2
+a
+Male
+1998–2001
+1.3
+2001–2004
+−1.5
+2004–2007
+0.6
+2007–2013
+−2.1
+a
+2013–2022
+−0.0
+−0.0
+−0.0
+Female
+1998–2011
+0.1
+2011–2022
+0.4
+a
+0.4
+a
+0.4
+a
+Female breast
+1998–2001
+−0.6
+2001–2004
+−3.0
+2004–2016
+0.5
+a
+2016–2022
+1.2
+a
+1.2
+a
+1.0
+a
+Colon & rectum
+b
+1998–2001
+−1.3
+a
+2001–2008
+−2.7
+a
+2008–2011
+−4.1
+a
+2011–2017
+−1.3
+a
+2017–2022
+−0.6
+a
+−0.6
+a
+−0.9
+a
+Male
+1998–2003
+−2.0
+a
+2003–2012
+−3.5
+a
+2012–2022
+−1.0
+a
+−1.0
+a
+−1.0
+a
+Female
+1998–2001
+−1.3
+a
+2001–2007
+−2.4
+a
+2007–2011
+−3.8
+a
+2011–2018
+−1.3
+a
+2018–2022
+−0.4
+−0.4
+−0.9
+a
+Kidney & renal pelvis
+1998–2007
+3.5
+a
+2007–2011
+−0.2
+2011–2019
+1.6
+a
+2019–2022
+−0.5
+0.0
+0.9
+a
+Male
+1998–2007
+3.3
+a
+2007–2011
+−0.2
+2011–2019
+1.6
+a
+2019–2022
+−0.6
+−0.0
+0.9
+a
+Female
+1998–2005
+3.8
+a
+2005–2008
+2.4
+2008–2011
+−1.0
+2011–2019
+1.6
+a
+2019–2022
+−0.5
+0.0
+0.9
+a
+Liver & intrahepatic bile duct
+1998–2002
+2.3
+a
+2002–2009
+4.6
+a
+2009–2015
+3.2
+a
+2015–2019
+0.8
+2019–2022
+−0.8
+−0.4
+0.8
+a
+Male
+1998–2002
+3.0
+a
+2002–2009
+4.6
+a
+2009–2015
+2.8
+a
+2015–2019
+0.4
+2019–2022
+−1.7
+−1.2
+0.2
+Female
+1998–2003
+0.9
+2003–2015
+4.0
+a
+2015–2022
+1.8
+a
+1.8
+a
+2.3
+a
+Lung & bronchus
+1998–2006
+−0.4
+a
+2006–2019
+−1.6
+a
+2019–2022
+−3.3
+a
+−2.9
+a
+−2.2
+a
+Male
+1998–2006
+−1.3
+a
+2006–2019
+−2.4
+a
+2019–2022
+−4.2
+a
+−3.7
+a
+−3.0
+a
+Female
+1998–2007
+0.6
+a
+2007–2011
+−1.5
+a
+2011–2019
+−0.6
+a
+2019–2022
+−2.7
+a
+−2.2
+a
+−1.3
+a
+Melanoma of skin
+1998–2005
+3.6
+a
+2005–2022
+1.6
+a
+1.6
+a
+1.6
+a
+Male
+1998–2001
+5.7
+a
+2001–2016
+2.1
+a
+2016–2022
+0.6
+0.6
+1.1
+a
+Female
+1998–2001
+7.0
+a
+2001–2022
+1.8
+a
+1.8
+a
+1.8
+a
+Ovary
+1998–2019
+−1.6
+a
+2019–2022
+−0.1
+−0.5
+−1.1
+Oral cavity & pharynx
+1998–2004
+−0.4
+2004–2016
+1.1
+a
+2016–2022
+0.5
+a
+0.5
+a
+0.7
+a
+Male
+1998–2005
+−0.2
+2005–2016
+1.1
+a
+2016–2022
+0.3
+0.3
+0.6
+a
+Female
+1998–2003
+−1.2
+a
+2003–2022
+0.7
+a
+0.7
+a
+0.7
+a
+Tongue, tonsil, oropharynx
+1998–2019
+2.5
+a
+2019–2022
+0.8
+1.2
+1.9
+a
+Other oral cavity
+1998–2004
+−2.6
+a
+2004–2015
+−0.5
+a
+2015–2022
+−1.0
+a
+−1.0
+a
+−0.9
+a
+Pancreas
+1998–2022
+1.1
+a
+1.1
+a
+1.1
+a
+Male
+1998–2002
+0.4
+2002–2019
+1.2
+a
+2019–2022
+0.4
+0.6
+0.9
+a
+Female
+1998–2022
+1.2
+a
+1.2
+a
+1.2
+a
+Prostate
+1998–2001
+3.2
+2001–2004
+−5.4
+2004–2007
+3.1
+2007–2014
+−6.3
+a
+2014–2022
+2.9
+a
+2.9
+a
+1.9
+a
+Thyroid
+1998–2009
+7.2
+a
+2009–2013
+2.2
+a
+2013–2022
+−1.4
+a
+−1.4
+a
+−1.4
+a
+Male
+1998–2009
+6.6
+a
+2009–2013
+2.5
+2013–2022
+−0.5
+a
+−0.5
+a
+−0.5
+a
+Female
+1998–2009
+7.4
+a
+2009–2013
+2.2
+a
+2013–2022
+−1.7
+a
+−1.7
+a
+−1.7
+a
+Uterine cervix
+c
+1998–2003
+−3.7
+a
+2003–2013
+−1.1
+a
+2013–2016
+1.7
+2016–2022
+−0.7
+a
+−0.7
+a
+0.1
+Uterine corpus
+c
+1998–2004
+−0.5
+2004–2019
+1.4
+a
+2019–2022
+−0.3
+0.2
+0.8
+a
+Note: Trends were analyzed using the Joinpoint Regression Program, version 5.4.0.0 allowing up to four joinpoints.
+Abbreviations: AAPC, average annual percent change; APC, annual percent change (based on incidence rates age adjusted to the 2000 US standard population and adjusted for delays in reporting).
+a
+The APC or AAPC is significantly different from zero (p < .05).
+b
+Excludes appendix.
+c
+Not adjusted for hysterectomy prevalence.
+Breast cancer similarly dominates cancer occurrence in women, with a rate well over twice that of second‐ranking lung cancer. Breast cancer incidence rates have increased slowly since the mid‐2000s (Figure 3, Table 5), largely driven by diagnoses of localized‐stage and hormone receptor‐positive disease.
+44
+ In the past decade (2013–2022), the rate increased by 1% per year overall, with a steeper slope in women younger than 50 years (1.4% vs. 0.7% per year in those 50 years and older) and those who are Hispanic (1.8% per year) or Asian American, Native Hawaiian, or other Pacific Islander (AANHPI, 2.7% per year). The rise in incidence is largely attributed to the decreasing fertility rate and increasing obesity prevalence,
+45
+ although excess body weight is associated with decreased breast cancer risk in premenopausal women.
+46
+ According to the US Census Bureau, the percentage of women aged 15–44 years who did not experience pregnancy hit an all‐time high of 54% in 2024, up from 42% in 1998.
+47
+ Physical inactivity and alcohol consumption account for 7% and 16% of breast cancer cases in the US, respectively,
+26
+ and also may contribute. Even one alcoholic drink per day increases breast cancer risk,
+48
+ and binge and heavy drinking (eight or more drinks per week) has increased in women aged 30–49 years,
+49
+ especially among those with higher education and income
+50
+ and without children.
+51
+ There is some evidence that air pollution may be associated with increased risk,
+52
+ although this exposure is very difficult to study. Many of these factors (including obesity and reproductive factors) are also associated with uterine corpus cancer risk and likely contribute to its rise in incidence since the mid‐2000s. However, these associations seem less pronounced for nonendometrioid subtypes, which are responsible for the increasing trend.
+53
+ Uterine corpus cancer rates appear to have stabilized in recent years in White women but continue to increase in women of all other racial and ethnic groups by 2% or more per year.
+Lung cancer is the third most common cancer diagnosis in men and women combined. Declines in lung cancer incidence continue to be faster in men (3% per year from 2013 to 2022) than in women (1.3% per year; Table 5) because women took up cigarette smoking in large numbers later and were also slower to quit, including upticks in smoking prevalence in some recent generations.
+54
+, 
+55
+ Trends are also less favorable for AANHPI women, among whom lung cancer incidence is increasing by 0.2% per year, and Native American people, among whom rates decreased by only 0.7% per year in men and have yet to decline in women.
+56
+ Native American people have the highest smoking prevalence (15.2% vs. 12.5% in White people in 2023)
+27
+ and the slowest decline, including the only increase in the number of people smoking.
+57
+ Smoking status is not generally captured by population‐based cancer registries but is being newly collected by Commission on Cancer‐accredited hospital‐based registries that submit data to the National Cancer Database, which represents approximately 70% of cancer diagnoses in the United States. A recent analysis indicated that nearly one half of the people diagnosed with any cancer in 2023 were either former (33%) or current (15%) smokers,
+58
+ compared with 11% current smoking prevalence in the general population.
+27
+CRC ranks third in men and women separately but fourth in the sexes combined (Table 1). Incidence continued to decline over the past decade by about 1% per year in men and women overall (Figure 3, Table 5) despite an increase in incidence among people younger than 50 years (by 2.9% per year) and aged 50–64 years (by 0.4% per year). The pace of increase in people younger than 50 years accelerated from 1.3% per year from the mid‐1990s to 2019 to 6.4% per year thereafter because of screening initiation in individuals aged 45–49 years and the diagnosis of prevalent asymptomatic cancers.
+59
+, 
+60
+ Melanoma is one of the most preventable common cancers, with greater than 90% of cases in the United States attributable to ultraviolet radiation exposure.
+26
+ Stable melanoma incidence in men in recent years (Table 5) is the conflation of decreasing rates in those younger than 50 years (by 1% per year since the early 2000s) and increasing rates in men aged 50 years and older, although it slowed from 2.6% per year during 2005–2016 to 0.8% per year from 2016 to 2022. Similarly, a nearly 2% per year increase in melanoma in women masks stable rates in those younger than 50 years since the early 2000s. Liver cancer is also largely preventable (75% of cases are attributed to modifiable risk factors) and has stabilized in men but continues to increase by almost 2% per year in women, consistent with reported differences in generational risk by sex.
+61
+Urinary bladder cancer incidence decreased by about 1% per year over the past decade in both men and women, as did non‐Hodgkin lymphoma. Kidney cancer incidence rates may have stabilized after decades of increase, largely through incidental detection, because two in three new cases are diagnosed at a localized stage (Figure 4), and death rates continue to decrease. After years of decline, cervical cancer incidence has stabilized over the past decade, and rates also may have plateaued for ovarian cancer. Incidence continued to increase by about 1% per year over the past decade for cancers of the pancreas and oral cavity and pharynx, largely confined to cancers of the tongue, tonsil, and oropharynx (increasing by 1.9% per year), which are usually associated with human papillomavirus (HPV).
+FIGURE 4
+Stage distribution for selected cancers by race, United States, 2018–2022. White and Black races are exclusive of Hispanic ethnicity. Stage categories may not sum to 100% because of rounding. aExcludes appendix.
+Cancer survival
+The 5‐year relative survival for all cancers combined has increased from 49% for diagnoses during the mid‐1970s to a milestone 70% during 2015–2021 (Table 6). Contemporary survival is highest for cancers of the thyroid (98%), prostate (98%), testis (95%), and melanoma (95%) and lowest for cancers of the lung (28%), liver (22%), esophagus (22%), and pancreas (13%). Improvements in survival reflect not only advances in treatment but also temporal changes in tumor subtype distribution and increased diagnosis of asymptomatic tumors through screening and imaging (i.e., incidental detection). Earlier detection has contributed to gains in survival for several cancers (e.g., breast, prostate, and kidney) both by increasing the likelihood of successful treatment and through lead‐time (diagnosis before symptoms) and overdiagnosis (diagnosis of indolent or slow‐growing tumors that will never cause harm).
+41
+, 
+62
+, 
+63
+ Likewise, the three‐fold increase in 5‐year relative survival for people diagnosed with pancreatic cancer, from 4% in the mid‐1990s to 13% in 2015–2021, is partly an artifact of an increased number of incidentally detected, well differentiated neuroendocrine tumors (from 4% to 10%) that have much higher survival (72%) than more common ductal adenocarcinomas (8%).
+64
+, 
+65
+TABLE 6
+Trends in 5‐year relative survival (%) by race, United States, 1975–2021.
+All races & ethnicities
+White
+Black
+1975–1977
+1995–1997
+2015–2021
+1975–1977
+1995–1997
+2015–2021
+1975–1977
+1995–1997
+2015–2021
+All sites
+49
+63
+70
+50
+64
+71
+39
+54
+66
+Brain & other nervous system
+23
+32
+33
+22
+31
+30
+25
+39
+37
+Breast (female)
+75
+87
+92
+76
+89
+94
+62
+75
+84
+Colon & rectum
+a
+50
+61
+65
+50
+62
+65
+45
+54
+59
+Colon
+a
+51
+61
+63
+51
+62
+65
+45
+54
+57
+Rectum
+48
+62
+67
+48
+62
+67
+44
+55
+65
+Esophagus
+5
+13
+22
+6
+14
+23
+4
+9
+16
+Hodgkin lymphoma
+72
+84
+89
+72
+85
+90
+70
+82
+88
+Kidney & renal pelvis
+50
+62
+79
+50
+62
+79
+49
+62
+77
+Larynx
+66
+66
+62
+67
+68
+63
+58
+52
+56
+Leukemia
+34
+48
+68
+35
+50
+69
+33
+42
+62
+Liver & intrahepatic bile duct
+3
+7
+22
+3
+7
+21
+2
+4
+21
+Lung & bronchus
+12
+15
+28
+12
+15
+28
+11
+13
+25
+Melanoma of the skin
+82
+91
+95
+82
+91
+95
+57
+b
+76
+b
+70
+Myeloma
+25
+32
+62
+24
+32
+62
+29
+32
+63
+Non‐Hodgkin lymphoma
+47
+56
+74
+47
+57
+76
+49
+49
+70
+Oral cavity & pharynx
+53
+58
+69
+54
+60
+71
+36
+38
+57
+Ovary
+36
+43
+52
+35
+43
+51
+42
+36
+44
+Pancreas
+3
+4
+13
+3
+4
+13
+2
+4
+12
+Prostate
+68
+97
+98
+69
+97
+99
+61
+94
+97
+Stomach
+15
+22
+38
+14
+20
+38
+16
+22
+40
+Testis
+83
+96
+95
+83
+96
+96
+73
+b
+, 
+c
+86b
+88
+Thyroid
+92
+95
+98
+92
+96
+99
+90
+95
+97
+Urinary bladder
+72
+80
+79
+73
+81
+80
+50
+63
+68
+Uterine cervix
+69
+73
+68
+70
+74
+68
+65
+66
+59
+Uterine corpus
+87
+84
+81
+88
+86
+85
+60
+62
+63
+Note: Relative survival is age adjusted for normal life expectancy and based on cases diagnosed in the Surveillance, Epidemiology, and End Results (SEER) 9 areas (1975—1977 and 1995—1997) followed through 2018, and in the SEER 21 areas (2015—2021), followed through 2022. Survival for White and Black people diagnosed during 2015—2021 is exclusive of Hispanic ethnicity.
+a
+Excludes appendix.
+b
+The standard error is between 5 and 10 percentage points.
+c
+For cases diagnosed from 1978 to 1980.
+Survival trends are also influenced by temporal changes in anatomic and/or histologic subtypes as a result of shifting risk factor prevalence. For example, the increase in survival for people diagnosed with oral cavity cancers from 58% in the mid‐1990s to 69% in 2015–2021 partly reflects a decreased proportion of smoking‐related cancers and an increased proportion of HPV infection‐associated cancers, which typically have a better prognosis.
+66
+ The proportion of oral cancers associated with HPV (tongue, tonsil, and oropharynx) has increased by greater than 50% during this time period (from 37% to 58%).
+7
+ Conversely, the decrease in uterine corpus cancer survival from 84% to 81% over the past 2 decades reflects an increased proportion of more aggressive nonendometrioid subtypes, from 9% in the mid‐1990s to 21% in 2015–2021, because of rising incidence.
+53
+ The 5‐year survival for nonendometrioid carcinoma improved from 50% to 58% during this time period but remained about 90% for the more common endometroid subtype.
+67
+, 
+68
+Improved treatment has led to long appreciated survival gains for hematopoietic and lymphoid malignancies. For example, the 5‐year relative survival for chronic myeloid leukemia more than tripled from 22% in the mid‐1970s to 70% for those diagnosed during 2015–2021 because of the development of tyrosine kinase inhibitors, allowing most patients near‐normal life expectancy.
+69
+ More recently, the development of targeted immunotherapy drugs have boosted survival for myeloma from 32% in the mid‐1990s to 62% in 2015–2021 (Table 6). Treatment advances have also accelerated for many of the most fatal cancers. For example, 5‐year survival for liver cancer has increased three‐fold, from 7% in the mid‐1990s to 22%, with the largest improvement for localized‐stage (from 17% to 38%) and regional‐stage (from 5% to 13%) disease (Table 7) because of improved disease management across the spectrum of treatment for locoregional hepatocellular carcinoma, including the introduction of immunotherapy.
+70
+, 
+71
+, 
+72
+ For advanced liver cancer, systemic therapies have been primarily palliative in nature, with newer immunotherapy drugs offering only a modest improvement in survival.
+73
+, 
+74
+, 
+75
+TABLE 7
+Trends in 5‐year relative survival (%) by race and stage at diagnosis, United States, 1975–2021.
+Relative survival
+Survival ratio
+Stage at diagnosis
+1975–1977
+1995–1997
+2015–2021
+2015–2021:1995–1997
+All sites
+Localized
+84
+88
+92
+1.0
+Regional
+51
+54
+69
+1.3
+Distant
+16
+17
+35
+2.0
+Breast (female)
+Localized
+90
+98
+>99
+1.0
+Regional
+67
+80
+87
+1.1
+Distant
+19
+24
+33
+1.3
+Colon & rectum
+Localized
+82
+89
+91
+1.0
+Regional
+52
+66
+74
+1.1
+Distant
+5
+8
+15
+1.8
+Colon
+Localized
+85
+90
+91
+1.0
+Regional
+55
+67
+74
+1.1
+Distant
+6
+9
+14
+1.6
+Rectum
+Localized
+77
+86
+90
+1.1
+Regional
+45
+60
+74
+1.2
+Distant
+4
+8
+18
+2.3
+Liver & intrahepatic bile duct
+Localized
+8
+17
+38
+2.2
+Regional
+<1
+5
+13
+2.6
+Distant
+1
+3
+3
+1.3
+Lung & bronchus
+Localized
+—
+a
+48
+65
+1.4
+Regional
+—
+a
+20
+37
+1.9
+Distant
+—
+a
+2
+10
+4.4
+Melanoma of the skin
+Localized
+92
+97
+>99
+1.0
+Regional
+58
+62
+76
+1.2
+Distant
+15
+16
+35
+2.2
+Ovary
+Localized
+83
+92
+92
+1.0
+Regional
+49
+68
+71
+1.0
+Distant
+15
+27
+32
+1.2
+Prostate
+Localized
+—
+a
+>99
+b
+>99
+1.0
+Regional
+—
+a
+>99
+1.0
+Distant
+—
+a
+32
+38
+1.2
+Stomach
+Localized
+53
+58
+77
+1.3
+Regional
+14
+22
+37
+1.7
+Distant
+2
+3
+8
+2.8
+Note: Relative survival is age adjusted for normal life expectancy and based on cases diagnosed in the Surveillance, Epidemiology, and End Results (SEER) 9 areas (1975–1977 and 1995–1997), followed through 2018, and the SEER 21 areas (2015–2021), followed through 2022. Survival for White and Black people diagnosed during 2015–2021 is exclusive of Hispanic ethnicity.
+a
+Data are unavailable because of changes in stage classification.
+b
+Localized and regional stage are combined.
+In contrast, there have been substantial gains in survival for many other advanced cancers because of a stream of game‐changing, targeted therapies. For all cancers combined, 5‐year relative survival increased from 54% to 69% for regional‐stage disease and from 17% to 35% for distant‐stage disease between the mid‐1990s and 2015–2021. The most notable progress was for both regional‐stage (from 20% to 37%) and distant‐stage (from 2% to 10%) lung cancer and for distant‐stage melanoma (from 16% to 35%), rectal cancer (from 8% to 18%), and stomach cancer (from 3% to 8%; Table 7). Increased longevity not only gives tens of thousands of people more time with family and friends but also benefits the economy by prolonging workforce and consumer participation. The impact is particularly large for high‐mortality cancers like lung and liver cancers, which are usually diagnosed at an advanced stage (72% and 58%, respectively; Figure 4). These remarkable strides are the return on investment of decades of basic research that has unraveled the molecular intricacies of how cancer grows and spreads and clinical trials that have informed disease management.
+76
+, 
+77
+, 
+78
+, 
+79
+, 
+80
+ For people with advanced cancer that does not respond to therapy, a comfort‐focused, end‐of‐life experience is often preferred, yet many patients continue to receive life‐extending care against their wishes and/or despite no survival benefit,
+81
+ underscoring the importance of communication across the treatment continuum.
+Trends in cancer mortality
+Mortality rates are a better indicator of progress against cancer than incidence or survival because they are less affected by detection biases, such as screening and incidental diagnosis.
+82
+ Cancer mortality rose during most of the 20th century (Figure 5), largely because of a rapid increase in lung cancer among men as a consequence of the tobacco epidemic. However, reductions in smoking as well as improvements in disease management and earlier diagnosis have resulted in a 34% overall drop in the cancer death rate from 1991 through 2023, translating to an estimated 4.8 million fewer cancer deaths (3,256,800 in men and 1,555,300 in women) than if mortality had remained at its peak (Figure 6). The number of averted deaths is twice as large for men as for women because the death rate in men peaked higher and declined faster (Figure 5). The contribution of treatment advances to declining mortality has accelerated over the past decade; a recent study estimated that improvements in stage‐specific survival (described in the section above) accounted for nearly 174,000 fewer cancer deaths from 2010 through 2019.
+83
+FIGURE 5
+Trends in cancer mortality rates by sex overall and for selected cancers by sex, United States, 1930–2023. Rates are age adjusted to the 2000 US standard population. Because of historical improvements in International Classification of Diseases coding over time, numerator data for lung and bronchus includes pleura, trachea, mediastinum, and other respiratory organs; colon and rectum includes small intestine; and liver includes intrahepatic bile duct, gallbladder, and other biliary sites. aIncludes uterine corpus and uterine cervix and is not adjusted for hysterectomy prevalence.
+FIGURE 6
+Total number of cancer deaths averted during 1991–2023 in men and 1992–2023 in women, United States. The blue line represents the actual number of cancer deaths recorded in each year; the red line represents the number of cancer deaths that would have been expected if cancer death rates had remained at their peak.
+Despite decades of decline, lung cancer mortality continues to dwarf other cancers, especially among men (Figure 5). The lung cancer death rate has dropped by 62% from the peak in 1990 among men and by 38% from the peak in 2002 among women, consistent with the later downturn in incidence. Over the past decade (2014–2023), the death rate declined by 4.7% per year in men and by 3.5% per year in women (Table 8), steeper than reductions in incidence (Table 5) because of earlier detection and treatment advances that have extended survival.
+56
+, 
+78
+ Mortality declines have accelerated for all lung cancers, regardless of whether they are associated with smoking, but are more rapid for smoking‐related cancers because of reductions in incidence.
+84
+ Declines in lung cancer mortality are also faster in people who live in urban versus rural areas.
+85
+ Low‐dose computed tomography screening reduces the odds of lung cancer mortality by 16%–24% among high‐risk individuals
+86
+, 
+87
+ and is associated with a substantial survival advantage,
+88
+ but it remains underutilized. In 2022, only 18% of people who were eligible for lung cancer screening according to USPSTF guidelines had a test in the past year, with the lowest prevalence in people who were younger than 60 years (<13%) and Native American people (14% vs. 20% of Black people and 18% of White people).
+89
+ Notably, Native American people also have the highest lung cancer mortality at 38.7 per 100,000 compared with 34.5 per 100,000 in White people, who rank second, and 33.1 per 100,000 in Black people, who rank third (Table 9).
+TABLE 8
+Trends in mortality rates for selected cancers by sex, United States, 1975 to 2023.
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+Trend 6
+AAPC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+2019–2023
+2014–2023
+All sites
+1975–1991
+0.5
+a
+1991–2001
+−1.0
+a
+2001–2023
+−1.5
+a
+−1.5
+a
+−1.5
+a
+Male
+1975–1980
+0.9
+a
+1980–1990
+0.3
+a
+1990–1993
+−0.4
+1993–2001
+−1.5
+a
+2001–2023
+‐1.8
+a
+−1.8
+a
+−1.8
+a
+Female
+1975–1991
+0.6
+a
+1991–2001
+−0.7
+a
+2001–2023
+−1.3
+a
+−1.3
+a
+−1.3
+a
+Female breast
+1975–1990
+0.4
+a
+1990–1995
+−1.8
+a
+1995–1998
+−3.3
+a
+1998–2010
+−1.9
+a
+2010–2023
+−1.2
+a
+−1.2
+a
+−1.2
+a
+Colon & rectum
+1975–1984
+−0.5
+a
+1984–2002
+−1.8
+a
+2002–2005
+−3.8
+a
+2005–2012
+−2.4
+a
+2012–2020
+−1.7
+a
+2020–2023
+−0.6
+−0.9
+a
+−1.3
+a
+Male
+1975–1979
+0.6
+1979–1987
+−0.6
+a
+1987–2002
+−1.9
+a
+2002–2005
+−4.1
+a
+2005–2014
+−2.5
+a
+2014–2023
+−1.4
+a
+−1.4
+a
+−1.4
+a
+Female
+1975–1984
+−1.0
+a
+1984–2001
+−1.8
+a
+2001–2011
+−2.9
+a
+2011–2023
+−1.5
+a
+−1.5
+a
+−1.5
+a
+Liver & intrahepatic bile duct
+1975–1980
+0.2
+1980–1987
+2.0
+a
+1987–1996
+3.8
+a
+1996–2000
+0.7
+2000–2015
+2.6
+a
+2015–2023
+−0.3
+a
+−0.3
+a
+0.0
+Male
+1975–1985
+1.5
+a
+1985–1996
+3.8
+a
+1996–1999
+0.3
+1999–2013
+2.7
+a
+2013–2017
+0.7
+2017–2023
+−1.0
+a
+−1.0
+a
+−0.4
+Female
+1975–1984
+0.2
+1984–1995
+3.1
+a
+1995–2008
+1.2
+a
+2008–2014
+3.3
+a
+2014–2023
+0.9
+a
+0.9
+a
+0.9
+a
+Lung & bronchus
+1975–1980
+3.0
+a
+1980–1990
+1.8
+a
+1990–1995
+−0.2
+1995–2005
+−1.0
+a
+2005–2013
+−2.2
+a
+2013–2023
+−4.1
+a
+−4.1
+a
+−4.1
+a
+Male
+1975–1982
+1.8
+a
+1982–1991
+0.4
+a
+1991–2005
+−1.9
+a
+2005–2013
+−2.9
+a
+2013–2023
+−4.7
+a
+−4.7
+a
+−4.7
+a
+Female
+1975–1983
+5.9
+a
+1983–1992
+3.8
+a
+1992–2004
+0.5
+a
+2004–2014
+−1.6
+a
+2014–2020
+−4.0
+a
+2020–2023
+−2.6
+a
+−2.9
+a
+−3.5
+a
+Melanoma of skin
+1975–1988
+1.6
+a
+1988–2013
+0.0
+2013–2017
+−5.9
+a
+2017–2023
+−1.2
+a
+−1.2
+a
+−2.8
+a
+Male
+1975–1989
+2.3
+a
+1989–2013
+0.3
+a
+2013–2017
+−6.4
+a
+2017–2023
+−1.5
+a
+−1.5
+a
+−3.2
+a
+Female
+1975–1988
+0.8
+a
+1988–2013
+−0.5
+a
+2013–2017
+−5.3
+a
+2017–2023
+−0.7
+−0.7
+−2.3
+a
+Oral cavity & pharynx
+1975–1991
+−1.5
+a
+1991–2000
+−2.6
+a
+2000–2009
+−1.4
+a
+2009–2023
+0.8
+a
+0.8
+a
+0.8
+a
+Male
+1975–2007
+−2.1
+a
+2007–2023
+0.7
+a
+0.7
+a
+0.7
+a
+Female
+1975–1989
+−0.9
+a
+1989–2009
+−2.2
+a
+2009–2023
+0.6
+a
+0.6
+a
+0.6
+a
+Tongue, tonsil, oropharynx
+1975–2000
+−1.6
+a
+2000–2009
+−0.2
+2009–2023
+2.1
+a
+2.1
+a
+2.1
+a
+Other oral cavity
+1975–1993
+−1.6
+a
+1993–2006
+−3.0
+a
+2006–2023
+−0.6
+a
+−0.6
+a
+−0.6
+a
+Ovary
+1975–1982
+−1.2
+a
+1982–1992
+0.3
+a
+1992–1998
+−1.2
+a
+1998–2003
+0.5
+2003–2017
+−2.1
+a
+2014–2023
+−3.0
+a
+−3.0
+a
+−2.7
+a
+Pancreas
+1975–1993
+−0.0
+1993–1996
+−0.7
+1996–2021
+0.3
+a
+2021–2023
+−0.9
+−0.3
+0.1
+Male
+1975–1986
+−0.8
+a
+1986–2000
+−0.3
+a
+2000–2021
+0.3
+a
+2021–2023
+−1.0
+−0.3
+0.0
+Female
+1975–1983
+0.8
+a
+1983–1993
+0.3
+a
+1993–1997
+−0.4
+1997–2020
+0.4
+a
+2020–2023
+−0.4
+−0.2
+0.1
+Prostate
+1975–1987
+1.0
+a
+1987–1990
+3.4
+1990–1993
+1.0
+1993–2012
+−3.5
+a
+2012–2023
+−0.6
+a
+−0.6
+a
+−0.6
+a
+Uterine cervix
+b
+1975–1985
+−4.3
+a
+1982–1996
+−1.6
+a
+1996–2003
+−3.9
+a
+2003–2023
+−0.7
+a
+−0.7
+a
+−0.7
+a
+Uterine corpus
+b
+1975–1989
+−1.6
+a
+1989–1997
+−0.7
+a
+1997–2009
+0.4
+a
+2009–2016
+2.4
+a
+2016–2023
+1.3
+a
+1.3
+a
+1.6
+a
+Note: Trends were analyzed using the Joinpoint Regression Program, version 5.4.0.0, allowing up to five joinpoints.
+Abbreviations: AAPC, average annual percent change; APC, annual percent change (based on mortality rates age adjusted to the 2000 US standard population).
+a
+The APC or AAPC is significantly different from zero (p < .05).
+b
+Not adjusted for hysterectomy prevalence.
+TABLE 9
+Incidence and mortality rates for selected cancers by race and ethnicity, United States.
+All races & ethnicities
+White
+Black
+American Indian/Alaskan Native
+a
+Asian American/Pacific Islander
+Hispanic/Latino
+Incidence, 2018–2022
+All sites
+460.6
+482.2
+467.7
+497.8
+311.2
+369.8
+Male
+497.9
+518.0
+541.1
+518.7
+304.4
+383.5
+Female
+436.0
+458.4
+418.2
+488.8
+321.5
+368.3
+Breast (female)
+133.5
+139.5
+133.2
+125.2
+112.5
+106.6
+Colon & rectum
+b
+35.3
+35.2
+40.4
+51.1
+28.5
+32.7
+Male
+40.5
+40.2
+48.1
+58.5
+33.5
+38.4
+Female
+30.7
+30.7
+34.7
+44.9
+24.3
+27.9
+Kidney & renal pelvis
+18.0
+18.2
+19.5
+34.1
+8.4
+18.6
+Male
+24.3
+24.7
+26.7
+45.1
+11.8
+24.1
+Female
+12.4
+12.3
+13.9
+24.8
+5.6
+13.9
+Liver & intrahepatic bile duct
+8.9
+7.7
+10.1
+18.7
+11.4
+14.1
+Male
+13.1
+11.3
+16.0
+25.2
+17.2
+20.1
+Female
+5.2
+4.4
+5.5
+13.2
+6.7
+8.9
+Lung & bronchus
+53.2
+57.8
+54.8
+63.0
+33.2
+28.3
+Male
+59.0
+62.6
+68.6
+66.8
+39.7
+33.0
+Female
+48.8
+54.3
+45.2
+60.5
+28.2
+24.9
+Prostate
+122.3
+118.4
+198.9
+100.6
+66.6
+95.5
+Stomach
+6.6
+5.3
+10.1
+10.5
+9.0
+9.6
+Male
+8.5
+7.2
+12.9
+13.6
+11.6
+11.4
+Female
+5.0
+3.7
+8.2
+8.0
+7.0
+8.2
+Uterine cervix
+c
+9.7
+9.0
+12.1
+16.1
+6.7
+12.2
+Uterine corpus
+c
+42.3
+42.2
+52.6
+49.5
+26.6
+37.8
+Mortality, 2019–2023
+All sites
+145.4
+151.2
+166.5
+176.0
+93.1
+106.0
+Male
+171.5
+178.0
+203.6
+200.6
+107.1
+124.4
+Female
+126.3
+131.2
+143.7
+159.9
+83.1
+93.2
+Breast (female)
+19.2
+19.3
+26.5
+20.9
+11.8
+13.6
+Colon & rectum
+12.9
+12.9
+16.6
+18.6
+9.2
+10.6
+Male
+15.3
+15.2
+21.0
+21.9
+10.9
+13.2
+Female
+10.8
+10.9
+13.4
+16.0
+7.8
+8.6
+Kidney & renal pelvis
+3.4
+3.6
+3.3
+6.4
+1.6
+3.2
+Male
+5.1
+5.3
+4.9
+9.3
+2.4
+4.7
+Female
+2.1
+2.2
+2.1
+4.1
+1.0
+2.1
+Liver & intrahepatic bile duct
+6.6
+6.0
+7.7
+12.5
+8.0
+8.9
+Male
+9.4
+8.5
+12.0
+17.1
+11.4
+12.2
+Female
+4.3
+3.9
+4.6
+8.8
+5.2
+6.1
+Lung & bronchus
+31.5
+34.5
+33.1
+38.7
+18.6
+14.2
+Male
+37.2
+39.6
+44.5
+43.2
+23.4
+18.7
+Female
+27.1
+30.5
+25.3
+35.6
+15.0
+10.9
+Prostate
+19.2
+18.4
+36.9
+20.5
+8.8
+15.4
+Stomach
+2.7
+2.0
+4.5
+5.0
+4.1
+4.5
+Male
+3.5
+2.8
+6.4
+6.6
+5.2
+5.4
+Female
+2.0
+1.4
+3.2
+3.9
+3.3
+3.7
+Uterine cervix
+c
+3.0
+2.9
+5.0
+5.1
+1.9
+3.2
+Uterine corpus
+c
+8.8
+8.1
+18.4
+9.7
+4.7
+6.7
+Note: Rates are per 100,000 persons and age adjusted to the 2000 US standard population. Incidence is adjusted for delays in case reporting. All racial groups are exclusive of Hispanic ethnicity.
+a
+To reduce racial misclassification, incidence rates are limited to Purchased/Referred Care Delivery Area counties, and mortality rates (for the entire United States) are adjusted using factors from the National Center for Health Statistics.
+b
+Excludes appendix.
+c
+Adjusted for hysterectomy prevalence.
+Sustained reductions in mortality for CRC, the second‐most common cause of cancer death in men and women combined, are the result of changing patterns in risk factors (e.g., declines in smoking), screening uptake, and improved treatment. The CRC death rate has dropped by 55% among males since 1980 and by 60% among females since 1969.
+9
+ (Although the rate in women began declining prior to 1969, as shown in Figure 5, those historical data include deaths from cancer in the small intestine and thus are not comparable to contemporary rates.) From 2014 to 2023, the CRC death rate decreased by 1.3% per year overall (Table 8) but increased by about 1% per year in adults younger than 55 years. The death rate for pancreatic cancer, the third most common cancer death, increased gradually since the mid‐1990s but was stable over the past 5 data years, perhaps reflecting earlier diagnosis, including of some less aggressive neuroendocrine tumors.
+90
+Female breast cancer mortality peaked in 1989 and has since decreased by 44% through 2023, translating to the avoidance of an estimated 546,000 deaths. A recent study attributed three fourths of this progress to treatment advances and the remainder to earlier diagnosis through screening.
+91
+ Declines in breast cancer mortality have slowed from 2% per year during the 2000s to 1% per year since 2010 (Table 8), reflecting relatively stable mammography prevalence over the past 2 decades and perhaps increased incidence. Increased incidence also may be contributing to a deceleration in the decline for prostate cancer mortality, from 3.5% per year during the late 1990s and 2000s to 0.6% per year from 2012 through 2023 (Table 8, Figure 5). The prostate cancer death rate in 2023 was 53% lower than the peak in 1993 because of earlier detection through PSA screening and advances in treatment.
+92
+, 
+93
+Melanoma mortality declined by nearly 6% per year during 2013–2017 after 2 decades of stable rates because of breakthrough treatments for metastatic disease, although the pace slowed to 1.2% per year during 2017–2023 (Table 8). Declining mortality trends for melanoma, as well as leukemia (since at least 1975), kidney (since early 1990s), prostate, and breast cancer, are particularly notable given increasing incidence rates and underscore the impact of advances in treatment. Steeper declines in ovarian cancer mortality (2.7% per year) compared with incidence (1% per year; nonsignificant) over the past decade likely also reflect small gains in survival for advanced disease (Table 7) as well as a shift toward earlier diagnosis; 49% of ovarian cancers were diagnosed at a distant stage in 2018–2022 (Figure 4), down from 57% a decade earlier.
+7
+ Liver cancer mortality finally began decreasing in men by 1% per year since 2017 after decades of increase but continued to increase in women, albeit at a slowed pace of 1% per year, over the past decade. Mortality rates also continued to rise for uterine corpus cancer, continuing a 26‐year trend with an annual percent increase of 1.6% per year from 2014 through 2023, and for HPV‐associated oral cancers (tongue, tonsil, and oropharynx) by 2% per year since 2009 (Table 8).
+Recorded number of deaths in 2023
+In total, 3,090,964 deaths were recorded in the United States in 2023 (Table 10). This was 188,893 fewer deaths than in 2022, similar to the drop from 2021 to 2022, and reflects 136,620 fewer deaths from coronavirus disease 2019, which fell from the fourth‐leading cause of death in 2022 (186,552 deaths) to the tenth in 2023 (49,932 deaths). From 2022 to 2023, the age‐adjusted death rate decreased overall (by 8%) and for every leading cause of death including cancer, which decreased by 1.5%, despite 4981 more cancer deaths in 2023 because of the aging and growth of the population.
+TABLE 10
+Leading causes of death in the United States in 2023 versus 2022.
+Cause of death
+2023
+2022
+Rank
+No.
+Rate
+Percent
+Rank
+No.
+Rate
+Percent
+All causes
+3,090,964
+748.8
+3,279,857
+812.5
+Heart diseases
+1
+680,981
+161.4
+22%
+1
+702,880
+170.6
+21%
+Cancer
+2
+613,352
+141.4
+20%
+2
+608,371
+143.6
+19%
+Accidents (unintentional injuries)
+3
+222,698
+62.3
+7%
+3
+227,039
+64.4
+7%
+Cerebrovascular diseases
+4
+162,639
+38.9
+5%
+5
+165,393
+40.6
+5%
+Chronic lower respiratory diseases
+5
+145,357
+33.4
+5%
+6
+147,382
+34.9
+4%
+Alzheimer disease
+6
+114,034
+27.7
+4%
+7
+120,122
+30.1
+4%
+Diabetes mellitus
+7
+95,190
+22.4
+3%
+8
+101,209
+24.3
+3%
+Nephritis, nephrotic syndrome and nephrosis
+8
+55,253
+13.1
+2%
+9
+57,937
+14.1
+2%
+Chronic liver disease and cirrhosis
+9
+52,222
+13.0
+2%
+10
+54,803
+13.8
+2%
+COVID‐19
+10
+49,932
+11.9
+2%
+4
+186,552
+44.5
+6%
+Note: Counts include unknown age. Rates are per 100,000 persons, exclude people with unknown age, and are age adjusted to the 2000 US standard population (5‐year age groups: <1 years, ages 1–4 years through 90 years and older). Death rates presented herein use the vintage 2023 population estimates release on July 1, 2023. Those population estimates differ from prior estimates; therefore, some data are published elsewhere (for more information, see https://seer.cancer.gov/popdata/).
+Abbreviation: COVID‐19, coronavirus disease 2019.
+Although cancer remained the second‐leading cause of death after heart disease in both men and women overall, it is the leading cause of death among men aged 60–79 years and women aged 40–79 years (Table 11). Table 12 presents the number of deaths in 2023 for the five leading cancer types by age and sex. Brain and other nervous system (hereafter brain) tumors are the leading cause of cancer death among children and adolescents younger than 20 years (533 deaths), followed by leukemia (453 deaths). Brain is also the leading cancer death in men aged 20–39 years but ranks fourth among women in this age group. Breast cancer is the leading cancer death among women younger than 50 years, and lung cancer leads among both men and women aged 50 years and older.
+TABLE 11
+Five leading causes of death in the United States by age and sex, 2023.
+Ranking
+All ages
+1–19 years
+20–39 years
+40–59 years
+60–79 years
+80 years and older
+Male
+All causes
+1,617,085
+15,117
+95,043
+234,712
+707,005
+554,046
+1
+Heart diseases
+Accidents (unintentional injuries)
+Accidents (unintentional injuries)
+Heart diseases
+Cancer
+Heart diseases
+376,011
+5351
+42,501
+48,059
+185,881
+152,015
+2
+Cancer
+Assault (homicide)
+Intentional self‐harm (suicide)
+Accidents (unintentional injuries)
+Heart diseases
+Cancer
+322,092
+2810
+13,362
+47,738
+169,846
+93,081
+3
+Accidents (unintentional injuries)
+Intentional self‐harm (suicide)
+Assault (homicide)
+Cancer
+Chronic lower respiratory diseases
+Cerebrovascular diseases
+148,651
+1917
+9457
+38,170
+37,454
+33,113
+4
+Cerebrovascular diseases
+Cancer
+Heart diseases
+Intentional self‐harm (suicide)
+Accidents (unintentional injuries)
+Alzheimer disease
+70,920
+963
+5602
+12,248
+34,647
+26,900
+5
+Chronic lower respiratory diseases
+Congenital anomalies
+Cancer
+Chronic liver disease & cirrhosis
+Cerebrovascular diseases
+Chronic lower respiratory diseases
+67,494
+589
+3966
+11,922
+29,969
+25,819
+Female
+All causes
+1,473,879
+7724
+40,323
+139,014
+538,400
+739,355
+1
+Heart diseases
+Accidents (unintentional injuries)
+Accidents (unintentional injuries)
+Cancer
+Cancer
+Heart diseases
+304,970
+2,459
+14,977
+39,231
+155,478
+183,459
+2
+Cancer
+Cancer
+Cancer
+Heart diseases
+Heart diseases
+Cancer
+291,260
+819
+4350
+20,508
+98,026
+91,363
+3
+Cerebrovascular diseases
+Intentional self‐harm (suicide)
+Intentional self‐harm (suicide)
+Accidents (unintentional injuries)
+Chronic lower respiratory diseases
+Alzheimer disease
+91,719
+726
+3200
+17,913
+37,688
+63,434
+4
+Alzheimer disease
+Assault (homicide)
+Heart diseases
+Chronic liver disease & cirrhosis
+Cerebrovascular diseases
+Cerebrovascular diseases
+77,974
+638
+2606
+6482
+27,191
+58,913
+5
+Chronic lower respiratory diseases
+Congenital anomalies
+Assault (homicide)
+Diabetes mellitus
+Diabetes mellitus
+Chronic lower respiratory diseases
+77,863
+462
+1869
+5150
+19,478
+35,738
+Note: Deaths within each age group do not sum to all ages combined because of the inclusion of unknown ages and deaths occurring in individuals younger than 1 year. In accordance with the National Center for Health Statistics' cause‐of‐death ranking, symptoms, signs, and abnormal clinical or laboratory findings and categories that begin with other and all other were not ranked, and assault excludes legal intervention.
+TABLE 12
+Five leading causes of cancer death in the United States by age and sex, 2023.
+All ages
+Birth to 19 years
+20–39 years
+40–49 years
+50–64 years
+65–79 years
+80 years and older
+Sexes combined
+All sites
+613,352
+1829
+8316
+18,850
+123,009
+276,901
+184,444
+1
+Lung & bronchus
+Brain & ONS
+Breast
+Breast
+Lung & bronchus
+Lung & bronchus
+Lung & bronchus
+131,584
+533
+1045
+2764
+26,276
+67,958
+35,228
+2
+Colon & rectum
+Leukemia
+Colon & rectum
+Colon & rectum
+Colon & rectum
+Pancreas
+Prostate
+53,779
+453
+964
+2941
+13,258
+24,398
+16,598
+3
+Pancreas
+Bones & joints
+Brain & ONS
+Lung & bronchus
+Pancreas
+Colon & rectum
+Colon & rectum
+49,451
+231
+874
+1774
+10,271
+20,562
+16,044
+4
+Breast
+Soft tissue
+a
+Leukemia
+Brain & ONS
+Breast
+Breast
+Pancreas
+42,724
+159
+684
+1212
+10,214
+16,196
+13,559
+5
+Prostate
+Non‐Hodgkin lymphoma
+Uterine cervix
+Pancreas
+Liver
+b
+Liver
+b
+Breast
+33,881
+52
+396
+1051
+6868
+15,671
+12,505
+Male
+All sites
+322,092
+992
+3966
+8524
+64,426
+151,101
+93,081
+1
+Lung & bronchus
+Leukemia
+Brain & ONS
+Colon & rectum
+Lung & bronchus
+Lung & bronchus
+Lung & bronchus
+68,697
+269
+559
+1681
+14,045
+36,437
+17,037
+2
+Prostate
+Brain & ONS
+Colon & rectum
+Lung & bronchus
+Colon & rectum
+Prostate
+Prostate
+33,881
+267
+554
+977
+8067
+14,215
+16,598
+3
+Colon & rectum
+Bones & joints
+Leukemia
+Brain & ONS
+Pancreas
+Pancreas
+Colon & rectum
+29,132
+139
+421
+727
+5850
+13,070
+7112
+4
+Pancreas
+Soft tissue
+a
+Testis
+Pancreas
+Liver
+b
+Colon & rectum
+Urinary bladder
+25,590
+78
+247
+630
+4822
+11,710
+5972
+5
+Liver
+b
+Non‐Hodgkin lymphoma
+Non‐Hodgkin lymphoma
+Esophagus
+Esophagus
+Liver
+b
+Pancreas
+19,401
+33
+237
+396
+3250
+10,615
+5935
+Female
+All sites
+291,260
+837
+4350
+10,326
+58,583
+125,800
+91,363
+1
+Lung & bronchus
+Brain & ONS
+Breast
+Breast
+Lung & bronchus
+Lung & bronchus
+Lung & bronchus
+62,887
+266
+1040
+2742
+12,231
+31,521
+18,191
+2
+Breast
+Leukemia
+Colon & rectum
+Colon & rectum
+Breast
+Breast
+Breast
+42,213
+184
+410
+1260
+10,102
+15,959
+12,370
+3
+Colon & rectum
+Bones & joints
+Uterine cervix
+Lung & bronchus
+Colon & rectum
+Pancreas
+Colon & rectum
+24,647
+92
+396
+797
+5191
+11,328
+8932
+4
+Pancreas
+Soft tissue
+a
+Brain & ONS
+Uterine cervix
+Pancreas
+Colon & rectum
+Pancreas
+23,861
+81
+315
+710
+4421
+8852
+7624
+5
+Uterine corpus
+Kidney
+c
+Leukemia
+Ovary
+Ovary
+Uterine corpus
+Leukemia
+13,342
+25
+263
+530
+3140
+6702
+4031
+Abbreviation: ONS, other nervous system.
+a
+Includes heart.
+b
+Includes intrahepatic bile duct.
+c
+Includes renal pelvis.
+Cancer disparities by race and ethnicity
+This section highlights the most striking cancer disparities among the five broadly defined racial and ethnic groups shown in Table 9. Although race and ethnicity are social constructs that aggregate heterogeneous populations, they are useful for examining the influence of discrimination and inequality in health disparities. Cancer incidence and mortality are highest among AIAN people overall and in women, whereas Black men have the highest sex‐specific rates. The incidence rate in Black men during 2018–2022 was 78% higher than in AANHPI men (541 vs. 304 per 100,000), who have the lowest rate of any sex–race group. AANHPI people are the only group for which incidence in men is lower than in women (322 per 100,000).
+The disproportionate mortality burden in AIAN people is driven by the highest death rates for five of the nine cancer types shown in Table 9, including approximately two‐fold the mortality in White people for cancers of the kidney, liver, stomach, and cervix. High mortality in Black men is largely because of the remarkable burden of prostate cancer, with death rates approximately two to four times those in all other men. Black women have the highest breast and uterine corpus cancer mortality, with the latter approximately two‐fold that of all other women. Although Hispanic and AANHPI people have relatively low risk for most common cancers, liver cancer mortality in these populations is approximately 30%–50% higher and stomach cancer mortality is two‐fold higher than that in White people. However, these aggregated data mask larger and additional disparities for population subgroups. For example, Pacific Islander people have three‐fold higher stomach cancer mortality and two and one half‐fold to three‐fold higher rates of uterine corpus and cervical cancer mortality compared with White women;
+94
+ overall cancer mortality in Pacific Islander people is twice that in Asian Americans among women and 50% higher among men. These cancer disparities are largely attributed to a higher prevalence of risk factors, medical mistrust, and lack of insurance, which hinders access to high‐quality health care.
+95
+Unconscious bias and treatment inequality also contribute to disparities. Cancer survival is lower among Black people than White people for nearly every cancer type, even after controlling for stage at diagnosis (Figure 7) and socioeconomic status.
+96
+ A higher likelihood of more aggressive disease (e.g., triple‐negative breast cancer, nonendometrioid uterine corpus cancer) explains a small portion of this gap, but the largest contributor is less access to high‐quality care across the cancer continuum, from prevention to diagnosis and treatment.
+97
+ For example, Black women have up to twice the risk of White women of not receiving guideline‐concordant diagnostic evaluation for uterine corpus and breast cancer.
+98
+, 
+99
+, 
+100
+ These inequalities translate to later stage diagnosis; only 56% of uterine corpus cancers and 58% of breast cancers are diagnosed at a localized stage in Black women versus 71% and 69%, respectively, in White women (Figure 4). A recent study estimated that CRC mortality rates in Black people would be reduced by 19%, eliminating two thirds of the Black–White disparity, merely by ensuring the same quality screening as White people.
+101
+ Asian, Black, and Hispanic people are less likely to receive both a physician recommendation for cancer screening
+102
+ and recommended germline genetic testing, a necessary step for receipt of targeted therapies that have improved survival for numerous cancers.
+103
+ Lack of diversity in clinical trials also contributes to racial and ethnic disparities in treatment and is an area of increasing focus.
+104
+FIGURE 7
+Five‐year relative survival for selected cancers by race and stage at diagnosis, United States, 2015–2021. All cases were followed through 2022. White and Black races are exclusive of Hispanic ethnicity. aExcludes appendix. bStandard error is between 5 and 10 percentage points.
+Disparities in cancer occurrence and outcomes in large part are rooted in socioeconomic deprivation stemming from inequities that limit opportunities for education and other mechanisms of upward mobility that facilitate economic security.
+105
+ For example, although the practice of mortgage lending discrimination known as redlining ended decades ago, people who live in these areas continue to have later stage cancer diagnoses, lower likelihood of receiving recommended treatment, and higher cancer mortality compared with those who do not.
+106
+, 
+107
+, 
+108
+, 
+109
+, 
+110
+, 
+111
+ Inequalities in socioeconomic status lead to differences in the prevalence of risk factor exposures as well as access to high‐quality cancer prevention, early detection, and treatment.
+112
+, 
+113
+ For example, smoking prevalence in 2023 was 27% in men without a high school diploma versus 5% in men who graduated from college,
+27
+ partly because of targeted advertising in lower income neighborhoods.
+114
+ Similarly, minoritized groups are disproportionately exposed to environmental toxins, such as hazardous soil, water, and air pollutants, that are associated with higher cancer incidence,
+115
+ although exposure to carcinogenic air emissions is reported to be up to 50% higher among people experiencing poverty, regardless of race or ethnicity.
+116
+ Persistent poverty ranks among the leading causes of death alongside smoking
+117
+ and is consistently associated with higher cancer incidence, later stage diagnosis, and worse outcomes.
+96
+, 
+118
+, 
+119
+ The effects of poverty are both compounded by and independent of racial status. One study found that living in a disadvantaged neighborhood increased the likelihood of aggressive prostate cancer by 30% among Black men, but had no impact in White men, suggesting the contribution of race‐specific factors, such as minority stress.
+120
+ The pathway through which social processes, such as those that develop from living in an unsafe neighborhood, may influence cancer development and progression is an evolving area of research.
+121
+Geographic variation in cancer occurrence
+Table 13 shows 5‐year average annual cancer incidence and mortality rates for selected cancers by state. Geographic variation reflects population demographic characteristics and differences in the prevalence of cancer risk factors, early detection practices, and access to care, including state and local public health policies. States have a large influence on the health of their residents by controlling accessibility and affordability of health insurance through the Marketplace and Medicaid.
+122
+, 
+123
+ Cancer death rates range from 122 to 128 per 100,000 in Utah, Hawaii, New York, and Colorado to 178–180 per 100,000 in West Virginia, Mississippi, and Kentucky. This gap is driven largely by lung cancer and mirrors patterns in smoking prevalence, which have remained consistent geographically despite temporal declines. In 2023, the highest smoking prevalence was in West Virginia (22%), Tennessee (18%), and Mississippi (17%), compared with 6% in Utah and 9% in California, Connecticut, Hawaii, Maryland, New Jersey, and Washington.
+124
+ Kentucky smoking prevalence was unavailable in 2023, but it was 18% in 2022.
+125
+TABLE 13
+Incidence (2018–2022) and mortality (2019–2023) rates for selected cancers by state, United States.
+State
+All sites
+Female breast
+Colon & rectum
+a
+Lung & bronchus
+Prostate
+Uterine cervix
+b
+Incidence
+Mortality
+Incidence
+Mortality
+Incidence
+Mortality
+Incidence
+Mortality
+Incidence
+Mortality
+Incidence
+Mortality
+Alabama
+435.7
+159.1
+128.6
+20.4
+38.5
+14.5
+57.8
+39.1
+115.0
+19.9
+14.5
+5.8
+Alaska
+450.6
+148.9
+135.4
+17.3
+40.2
+14.4
+53.4
+31.3
+113.7
+21.7
+8.6
+3.0
+Arizona
+409.9
+132.3
+122.7
+18.7
+31.5
+12.3
+41.7
+25.0
+88.2
+17.7
+8.7
+3.0
+Arkansas
+c
+487.0
+168.5
+124.8
+20.1
+41.6
+15.5
+74.4
+44.6
+118.5
+20.0
+14.0
+5.3
+California
+415.8
+131.9
+127.3
+18.7
+33.1
+12.0
+36.7
+22.6
+107.0
+20.3
+8.9
+2.7
+Colorado
+402.9
+127.6
+135.0
+18.8
+29.6
+11.4
+37.2
+21.8
+105.5
+22.0
+7.5
+2.2
+Connecticut
+491.2
+133.3
+148.6
+16.6
+33.0
+10.3
+54.7
+27.4
+144.3
+19.1
+6.7
+1.8
+Delaware
+482.7
+156.0
+146.7
+22.0
+32.1
+12.3
+56.9
+34.9
+141.5
+20.0
+9.1
+2.5
+District of Columbia
+426.5
+144.7
+139.7
+23.2
+34.9
+13.5
+45.1
+26.0
+139.4
+27.5
+9.4
+2.6
+Florida
+496.1
+138.3
+133.9
+18.7
+35.7
+12.0
+54.4
+30.7
+124.8
+16.7
+12.2
+3.7
+Georgia
+478.6
+150.7
+135.2
+21.0
+38.2
+13.7
+55.9
+32.7
+144.2
+21.7
+11.0
+3.8
+Hawaii
+410.8
+121.6
+139.2
+16.8
+36.6
+12.1
+38.2
+23.3
+105.4
+14.8
+7.9
+2.1
+Idaho
+458.5
+138.6
+134.5
+19.0
+33.8
+12.4
+44.7
+25.3
+124.2
+21.7
+9.1
+2.7
+Illinois
+474.8
+149.7
+136.4
+19.7
+37.5
+13.3
+58.5
+33.7
+129.1
+19.0
+8.9
+2.8
+Indiana
+d
+487.0
+165.4
+130.9
+20.3
+39.2
+14.9
+69.6
+41.6
+121.9
+20.6
+11.6
+3.9
+Iowa
+506.7
+149.2
+137.7
+17.4
+38.1
+13.3
+60.6
+34.3
+133.5
+19.6
+9.0
+2.0
+Kansas
+e
+461.2
+152.6
+136.5
+19.7
+37.3
+13.9
+52.2
+35.6
+125.5
+18.0
+11.3
+3.5
+Kentucky
+528.3
+180.4
+131.4
+21.7
+44.5
+16.5
+84.8
+50.2
+119.9
+18.4
+12.9
+4.2
+Louisiana
+497.0
+165.1
+132.4
+21.8
+42.7
+15.4
+61.4
+39.7
+150.2
+19.4
+13.9
+4.7
+Maine
+495.1
+159.1
+136.6
+17.2
+33.4
+12.5
+67.3
+38.4
+114.4
+21.4
+7.6
+2.1
+Maryland
+459.0
+141.2
+140.0
+19.7
+33.7
+12.5
+49.5
+29.2
+145.4
+20.4
+7.6
+2.6
+Massachusetts
+453.5
+136.1
+141.0
+15.2
+30.3
+10.1
+57.5
+29.6
+121.7
+18.3
+5.7
+1.5
+Michigan
+457.8
+157.4
+132.4
+19.7
+34.3
+13.5
+59.6
+37.4
+122.6
+19.1
+8.4
+2.8
+Minnesota
+495.7
+141.4
+143.0
+17.2
+34.3
+11.4
+54.8
+29.4
+123.8
+19.7
+6.7
+1.8
+Mississippi
+485.3
+179.0
+127.0
+23.6
+45.0
+17.7
+69.5
+45.9
+145.5
+24.8
+14.6
+6.4
+Missouri
+483.5
+162.2
+139.8
+20.2
+38.9
+14.1
+69.3
+41.5
+109.0
+19.2
+11.2
+3.5
+Montana
+465.4
+141.8
+140.5
+18.1
+35.1
+12.4
+45.8
+26.9
+135.6
+22.0
+9.2
+1.9
+Nebraska
+456.8
+148.7
+130.4
+20.1
+36.7
+14.5
+51.9
+31.5
+121.0
+19.2
+8.6
+2.5
+Nevada
+398.4
+144.8
+113.3
+21.4
+34.2
+13.9
+44.1
+30.1
+101.3
+20.7
+10.9
+3.6
+New Hampshire
+485.9
+145.2
+142.3
+17.9
+31.9
+10.9
+59.3
+31.8
+123.0
+19.8
+6.4
+1.6
+New Jersey
+487.0
+130.1
+139.7
+18.9
+36.7
+11.7
+49.2
+25.8
+148.6
+16.1
+8.3
+2.2
+New Mexico
+388.0
+131.4
+118.7
+19.3
+32.6
+12.2
+32.8
+20.9
+96.1
+19.7
+10.2
+3.0
+New York
+473.7
+125.6
+136.5
+16.6
+34.1
+10.9
+52.8
+25.7
+138.5
+15.4
+8.2
+2.1
+North Carolina
+493.0
+154.1
+147.8
+19.8
+34.4
+12.8
+62.7
+36.9
+138.7
+20.6
+9.5
+3.0
+North Dakota
+464.3
+136.4
+132.4
+16.1
+38.3
+12.5
+54.6
+29.7
+125.9
+17.7
+6.8
+1.9
+Ohio
+484.0
+160.3
+134.9
+20.1
+36.8
+13.7
+64.8
+38.7
+125.5
+19.5
+10.2
+3.3
+Oklahoma
+463.1
+174.3
+128.0
+22.2
+39.2
+16.4
+63.3
+43.9
+111.7
+20.7
+14.6
+5.4
+Oregon
+431.1
+149.1
+133.6
+19.3
+31.1
+12.1
+48.1
+30.2
+107.8
+21.4
+8.1
+2.7
+Pennsylvania
+464.8
+151.6
+134.2
+19.2
+35.5
+13.0
+57.1
+33.3
+115.2
+18.5
+8.6
+2.6
+Rhode Island
+467.2
+142.0
+142.3
+16.2
+30.3
+10.8
+60.2
+32.1
+127.0
+18.3
+7.8
+1.6
+South Carolina
+446.9
+156.8
+137.3
+21.0
+34.5
+13.7
+57.9
+36.5
+119.5
+21.3
+10.8
+4.0
+South Dakota
+477.8
+151.1
+134.8
+17.3
+38.2
+13.7
+54.5
+33.1
+136.7
+20.8
+7.1
+3.2
+Tennessee
+465.2
+167.7
+128.1
+21.5
+37.2
+15.2
+67.2
+43.6
+120.4
+19.9
+10.7
+4.3
+Texas
+446.5
+142.9
+127.6
+19.6
+37.3
+13.9
+46.1
+28.2
+118.6
+18.4
+13.0
+4.2
+Utah
+427.9
+121.5
+123.5
+20.3
+27.7
+11.0
+25.1
+15.5
+129.8
+22.5
+8.0
+2.6
+Vermont
+462.7
+150.6
+132.5
+16.7
+30.6
+12.9
+54.7
+31.7
+117.3
+21.7
+7.2
+2.2
+Virginia
+423.1
+147.9
+132.7
+19.9
+32.3
+13.1
+51.5
+32.5
+116.6
+20.6
+7.8
+2.6
+Washington
+448.3
+144.8
+139.7
+18.8
+32.4
+12.1
+48.8
+29.1
+108.2
+21.2
+8.3
+2.3
+West Virginia
+511.5
+177.9
+130.0
+20.8
+42.9
+16.6
+77.1
+48.2
+108.4
+18.8
+13.4
+4.6
+Wisconsin
+480.7
+148.5
+138.8
+17.4
+33.0
+11.6
+55.6
+31.8
+130.8
+21.7
+7.7
+2.0
+Wyoming
+408.8
+144.0
+126.6
+19.6
+34.2
+14.5
+38.2
+27.9
+111.5
+19.3
+13.0
+3.5
+Puerto Rico
+f
+369.5
+100.7
+102.7
+15.4
+38.0
+12.8
+15.7
+10.4
+155.8
+19.3
+15.2
+2.2
+United States
+g
+460.6
+145.4
+133.5
+19.2
+35.3
+12.9
+53.2
+31.5
+122.3
+19.2
+9.7
+3.0
+Note: Rates are per 100,000 persons, age adjusted to the 2000 US standard population using 19 age groups, and incidence rates are adjusted for delays in case reporting.
+a
+Incidence rates exclude appendix.
+b
+Adjusted for hysterectomy prevalence.
+c
+Incidence rates based on cases diagnosed during 2016–2020.
+d
+Incidence rates based on cases diagnosed during 2017–2021.
+e
+Incidence rates are not adjusted for delays in case reporting.
+f
+Incidence rates are not adjusted for delays in case reporting. Mortality rates are for 2018–2022 and were obtained from statecancerprofiles.cancer.gov. Uterine cervix mortality is not adjusted for hysterectomy prevalence.
+g
+Rates exclude Kansas and Puerto Rico.
+Although cervical cancer is mostly preventable, state‐level incidence rates (corrected for hysterectomy prevalence) vary by more than two‐fold, from six per 100,000 women in Massachusetts and New Hampshire to 14–15 per 100,000 women in Mississippi, Oklahoma, Arkansas, and Louisiana (Table 13). Advances in cancer control create and/or exacerbate disparities because of unequal dissemination of interventions. Although HPV vaccination can virtually eliminate cervical cancer
+126
+ and prevent numerous other cancers, large state differences in coverage will likely widen existing disparities. Notably, states with the highest cervical cancer incidence rates have the lowest vaccination coverage. In 2023, up‐to‐date HPV vaccination among boys and girls aged 13–17 years ranged from 38% in Mississippi and 40% in Georgia to 78% in North Dakota, 82% in Massachusetts, and 84% in Rhode Island.
+124
+Cancer in children and adolescents
+Cancer is the second most common cause of death among children aged 1–14 years (after accidents) and the fourth most common cause of death among adolescents (aged 15–19 years). In 2026, an estimated 9680 children (aged birth to 14 years) and 5660 adolescents (aged 15–19 years) will be diagnosed with cancer, and 1090 and 730, respectively, will die from the disease. Before age 20 years, an estimated one in 266 children and adolescents will be diagnosed with cancer and one in 2359 will die from the disease.
+Leukemia is the most common childhood cancer, accounting for 28% of cases, followed closely by central nervous system tumors (27%), one third of which are benign or borderline malignant brain tumors (Table 14). Cancer types and their distribution differ in adolescents, among whom the most common cancer is central nervous system tumors (22%), two thirds of which are benign or borderline malignant brain tumors, followed by lymphoma (19%) and leukemia (13%). Hodgkin lymphoma is much more common than non‐Hodgkin lymphoma among adolescents, whereas the reverse is true among children. Thyroid carcinoma accounts for 12% of cancers in adolescents but only 2% in children.
+TABLE 14
+Incidence rates, case distribution, and 5‐year relative survival by age and international classification of childhood cancer type, ages birth to 19 years, United States.
+Birth to 14 years
+15‐19 years
+Rate per million
+Distribution % (including benign brain)
+Distribution % (malignant only)
+Survival, %
+Rate per million
+Distribution % (including benign brain)
+Distribution % (malignant only)
+Survival, %
+All ICCC groups combined
+184.1
+100
+—
+—
+279.3
+100
+—
+—
+Malignant only
+166.4
+91
+100
+85
+238.0
+85
+100
+88
+Leukemias, myeloproliferative & myelodysplastic diseases
+51.7
+28
+31
+89
+35.4
+13
+15
+78
+Lymphoid leukemia
+40.7
+22
+24
+92
+19.0
+7
+8
+77
+Acute myeloid leukemia
+7.4
+4
+4
+70
+9.1
+3
+4
+70
+Lymphomas and reticuloendothelial neoplasms
+20.6
+11
+13
+95
+51.9
+19
+22
+95
+Hodgkin lymphoma
+5.5
+3
+3
+99
+31.5
+11
+13
+98
+Non‐Hodgkin lymphoma
+a
+11.0
+6
+7
+91
+18.7
+7
+8
+90
+Central nervous system neoplasms
+49.1
+27
+—
+—
+62.4
+22
+—
+—
+Malignant tumors
+31.9
+17
+19
+74
+21.4
+8
+9
+78
+Benign/borderline malignant tumors
+17.2
+9
+—
+98
+41.0
+14
+—
+98
+Neuroblastoma & other peripheral nervous cell tumors
+11.7
+6
+7
+83
+1.3
+<1
+1
+89
+Retinoblasoma
+4.0
+2
+2
+96
+—
+b
+—
+b
+—
+b
+—
+c
+Nephroblastoma & other nonepithelial renal tumors
+8.1
+4
+5
+93
+0.3
+<1
+<1
+—
+c
+Hepatic tumors
+3.6
+2
+2
+79
+1.5
+1
+1
+53
+d
+Hepatoblastoma
+3.1
+2
+2
+82
+0.1
+<1
+<1
+—
+c
+Malignant bone tumors
+7.4
+4
+4
+73
+15.0
+5
+6
+68
+Osteosarcoma
+4.2
+2
+3
+66
+8.4
+3
+3
+62
+Ewing tumor & related bone sarcomas
+2.5
+1
+1
+80
+4.4
+2
+2
+68
+Rhabdomyosarcoma
+5.0
+3
+3
+67
+3.7
+1
+2
+52
+Germ cell & gonadal tumors
+5.5
+3
+3
+94
+27.3
+10
+11
+95
+Thyroid carcinoma
+3.3
+2
+2
+>99
+32.1
+12
+14
+>99
+Malignant melanoma
+1.5
+1
+1
+94
+7.5
+3
+3
+98
+Note: Incidence rates are per 1,000,000 persons, based on diagnoses during 2018–2022, and age‐adjusted to the US standard population. Survival is based on cases diagnosed during 2015–2021, followed through 2022. Benign and borderline brain tumors were included in central nervous system tumor incidence rates.
+Abbreviation: ICCC, International Classification of Childhood Cancer.
+a
+Includes Burkitt lymphoma.
+b
+Statistic could not be calculated because of fewer than six cases during 2018–2022.
+c
+Statistic could not be calculated because of fewer than 25 cases during 2015–2021.
+d
+The standard error is between 5 and 10 percentage points.
+The overall invasive cancer incidence rate in children declined by 0.6% per year from 2015 through 2022, despite a 0.6% annual increase in both major leukemia types and stable lymphoma incidence. The decrease was driven by a decline of greater than 1% per year in malignant brain tumors, which account for about one in five invasive cancers in children (Table 14). Overall cancer incidence in adolescents continued a 0.9% per year increase because of a steeper increase in lymphoid leukemia compared with children, as well as an increase of about 1% per year for both Hodgkin and non‐Hodgkin lymphoma. Malignant brain cancer also decreased in adolescents but was not statistically significant and only accounts for about one in 10 invasive cancers in this age group (Table 14). Thyroid cancer incidence rates in adolescents appear to have stabilized since 2018, after an increasing trend of greater than 4% per year since at least 1998.
+In contrast to incidence, cancer mortality has declined by more than two thirds in children, from six per 100,000 in 1970 to two per 100,000 in 2023, and by more than one half in adolescents, from seven to three per 100,000, although rates appear to have stabilized in recent years. Much of this progress reflects reductions in death because of improved survival for leukemia through the optimization of established chemotherapeutic regimens.
+127
+ In the mid‐1970s, only 50% of children were alive 5 years after a leukemia diagnosis compared with 89% during 2015–2021, with even greater strides for adolescents, from 24% to 78%. Nevertheless, progress among adolescents has lagged behind that in children for some cancers, in part because of differences in tumor biology, clinical trial enrollment, treatment protocols, and tolerance and adherence to treatment.
+128
+ For example, survival is higher in children than in adolescents for lymphoid leukemia (92% vs. 77%), Ewing sarcoma (80% vs. 68%), hepatic tumors (79% vs. 53%), and rhabdomyosarcoma (67% vs. 52%; Table 14). Survival rates are lowest in both children and adolescents for osteosarcoma, rhabdomyosarcoma, and some rare cancers, such as diffuse intrinsic pontine glioma.
+Long‐term survivors of childhood cancer are at substantially elevated risk of treatment‐related adverse health effects as they age. One longitudinal cohort study found that nearly one in six childhood cancer survivors experienced a major cardiovascular event by age 50 years compared with fewer than 1% of community controls.
+129
+ A recent analysis indicated a three‐fold excess overall mortality risk among 7500 childhood cancer survivors aged 50 years or older compared with the general population, predominantly because of subsequent cancer among those originally treated with radiation therapy.
+130
+ Radiation exposure appears to exacerbate, but not fully explain, excess risk of an earlier onset for age‐related diseases among childhood cancer survivors.
+131
+ These studies underscore the need for survivorship care plans for children and adolescents and attention to medical history for older adults to facilitate cancer surveillance and inform prevention and early detection strategies.
+Limitations
+The projected numbers of new cancer cases and deaths in 2026 are rigorously calculated based on high‐quality, population‐based cancer registry data and the underlying cause of death reported on death certificates and provide a valid estimate of the contemporary cancer burden. However, these are model‐based estimates that should not be used to track temporal cancer trends for several reasons. First, the methodology changes over time, most recently in 2021,
+23
+, 
+24
+ to take advantage of improved modeling techniques and cancer surveillance coverage. Second, although the models are robust, they can only account for trends through the most recent data year (currently, 2022 for incidence and 2023 for mortality) and cannot accommodate abrupt fluctuations caused by changes in detection practices, such as those that occur for prostate cancer because of changes in PSA testing. Third, the model can be oversensitive to sudden or steep changes in observed data. The most informative metrics for tracking cancer trends are age‐standardized or age‐specific cancer incidence rates from SEER, the NPCR, and/or the NAACCR and cancer death rates from the NCHS.
+Errors in reporting race and ethnicity in medical records and on death certificates result in underestimated cancer incidence and mortality in persons who are not White, particularly Native American populations. Although racial misclassification for cancer incidence is reduced by confining cases to those diagnosed in residents of Purchased/Referred Care Delivery Area counties, which are associated with the Indian Health Service, these data exclude one third of the Native American population who reside in urban areas. Although mortality data cover the complete Native American population, racial misclassification is mitigated using factors developed by the NCHS for all cancers combined and may overestimate or underestimate rates for individual cancer types.
+17
+ Cancer data for other groups that have been historically marginalized in the United States are mostly limited to the broadly defined racial and ethnic categories developed by the Office of Management and Budget and mask important heterogeneity within these populations. Finally, the lack of sexual orientation and gender identity data collection precludes analysis of cancer occurrence in the LGBTQ+ (lesbian, gay, transgender, and queer or questioning) population, which undoubtedly would inform targeted cancer control efforts given the high prevalence of smoking in this group.
+132
+CONCLUSION
+Cancer mortality continued to decline in the United States through 2023, resulting in 4.8 million deaths averted since 1991 because of reductions in smoking, earlier detection for some cancers, and improved treatment. These interventions have also contributed to a milestone 70% 5‐year survival rate for all cancers combined, including remarkable gains over the past 2 decades for many high‐mortality and advanced cancers. Lung cancer has had among the most notable improvements in survival yet remains the leading cancer‐related death, causing more than twice as many deaths as any other cancer. Among AIAN people, who have the highest lung cancer rates, incidence has yet to decline in women, underscoring the need to redouble culturally sensitive, targeted tobacco‐control efforts. Although decades of scientific investment have translated into longer lives for most people diagnosed with cancer, pending federal cuts to health insurance and cancer research will inevitably reduce access to life‐saving drugs and halt progress at a time when incidence is rising for many common cancers.
+CONFLICT OF INTEREST STATEMENT
+The authors disclosed no conflicts of interest. Rebecca L. Siegel, Tyler B. Kratzer, Nikita Sandeep Wagle, Hyuna Sung, and Ahmedin Jemal are employed by the American Cancer Society, which receives grants from private and corporate foundations, including foundations associated with companies in the health sector, for research outside of the submitted work. The authors are not funded by or key personnel for any of these grants, and their salary is solely funded through American Cancer Society funds.

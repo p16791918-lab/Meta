@@ -1,0 +1,419 @@
+record_id=4027 pmid=26661680 doi=10.1002/ijc.29958 pmcid=PMC5283572
+TITLE: Cancer incidence among Asian American populations in the United States, 2009-2011
+
+Introduction
+Asian Americans are the fastest growing racial/ethnic group in the United
+States (US)1. Between 2000 and
+2010, the Asian American population grew by 43%, from 10.2 million to 14.7 million,
+which was more than four times faster than growth in the total US
+population1. This has been
+fueled primarily by international immigration from Asia2. In 2010, 74% of Asian American adults were
+foreign-born; of those, 36% immigrated in 2000 or later3,4. The most
+populous Asian subgroup was Chinese, with 4 million people, followed by Filipino and
+Asian Indian with 3.4 million and 3.2 million people, respectively1. The heterogeneous Asian American
+population is comprised of distinct subgroups with differences in genetics, culture,
+lifestyle, immigration and settlement experiences5. This diversity must be explored to better understand
+disparities in cancer incidence among Asian subgroups and to identify protective
+attributes as well as risk factors that can shape cancer intervention
+strategies.
+Most cancer research aggregates Asian Americans into one single group,
+potentially blurring important differences among specific Asian subgroups5. Some previous studies using
+population-based cancer registry data have revealed clear differences in cancer
+incidence among specific Asian subgroups6-15. However, these
+studies have a few limitations. Firstly, all reported national rates were based
+solely on data from the Surveillance, Epidemiology, and End Results (SEER) Program,
+whose catchment area excludes some major metropolitan areas with large Asian
+American populations, such as New York, Houston, and Chicago. These areas are only
+covered by the National Program of Cancer Registries (NPCR). Secondly, Asian cancer
+cases in SEER with missing Asian subgroup category were classified as
+not-otherwise-specified (NOS) and routinely excluded from incidence analyses,
+leading to underestimated rates by subgroup. Also, without accurately accounting for
+these NOS cases, which represented up to 13% of all Asians in 2008-2012 SEER data,
+comparisons among the Asian subgroups as well as between these and the other US
+racial groups are possibly biased. The final significant limitation of previous
+studies is the use of inflated population estimates due to the inclusion of
+multiracial Asians in total Asian population. While bridging methods have been
+widely used to compute population estimates for specific Asian subgroups6-15, these methods include multiracial Asians in combination with
+non-Asian race(s) (e.g., Black), thus giving rise to misclassification in population
+estimates and possible mismatches between numerators and denominators.
+In this study, we directly address these limitations by (1) including cancer
+data from all major states with large Asian populations, (2) imputing NOS cases, and
+(3) using population estimates bridged between single Asian race and Asian in
+combination with other Asian race(s). Using 2009-2011 data, we estimate cancer
+incidence rates for each of the six largest Asian subgroups in the US: Chinese,
+Filipino, Japanese, Korean, South Asian, and Vietnamese for 17 most common cancer
+sites.
+Materials and Methods
+Study Data
+Cancer incidence data (2015 submission) on the 3-year period from January
+1, 2009 through December 31, 2011 were obtained from the eight US states with
+the largest population concentration of Asian Americans: California, Florida,
+Hawaii, Illinois, New Jersey, New York, Texas, and Washington state, accounted
+for 68% of the total Asian American population (10 million out of the 14.7
+million total) in the US (Table 1).
+All cases of malignant cancers, in addition to in situ
+urinary bladder cancers were included. Seventeen most common cancer sites were
+classified as follows: oral cavity and pharynx, stomach, colon and rectum, liver
+and intrahepatic bile duct, pancreas, lung and bronchus, breast, cervix uteri,
+corpus uteri, ovary, prostate, urinary bladder, kidney and renal pelvis,
+thyroid, non-Hodgkin’s lymphoma, leukemia, and all-other-sites combined.
+Due to the known high risk for nasopharynx cancer among Asians, we also looked
+at this subcategory within oral cavity and pharynx separately8. Female breast cancer was
+further stratified using a cutoff age of 50 into premenopausal and
+postmenopausal categories because they have different underlying risk factors
+which may vary by Asian subgroup. Cancer site was coded according to the
+International Classification of Diseases for Oncology, Third Edition
+(ICD-O-3).
+The North American Association of Central Cancer Registries (NAACCR)
+Standards for Cancer Registries code Asian race in 12 different subgroups,
+including Asian Indian, Chinese, Filipino, Hmong, Japanese, Kampuchean, Korean,
+Laotian, Pakistani, Thai, Vietnamese, and NOS16. Unfortunately, other Asian subgroups, e.g.
+Malaysians, Indonesians, etc. are not identified by a race descriptor and are
+therefore commonly classified as NOS, lumped together with cases of the 11
+racial subgroups described above for whom a specific subgroup is missing. In our
+study, these cases for which there is no race descriptor were aggregated into a
+single category called Other Specified Asian (OSA).
+All Asian cases were included regardless of Hispanic ethnicity. Race 1
+and Race 2 (NAACCR items 160 and 161) were used as the Asian race
+indicator16. Asians
+cases reporting non-Asian race(s) except white were excluded because Asian only
+takes precedence over white in multiracial coding17. Asian Indian and Pakistani were aggregated
+into one single category, South Asian, according to NAACCR coding protocol.
+Although too small to be included in the aims of this study, smaller Hmong,
+Kampuchean, Laotian, and Thai populations were aggregated into one Southeast
+Asian category in order to account for them in the NOS pool. US non-Hispanic
+whites were used as the referent group.
+NOS cases were reassigned by imputation models stratified by age, sex,
+cancer site, and geographic region. We identified 12 geographic regions, one for
+each state except California, which was divided into five regions due to its
+large Asian American population and an uneven distribution of specific Asian
+subgroups (Table 1). We considered the
+boundary of the local cancer registries, the proportions of different Asian
+subgroups and geographical adjacency to derive these 5 California regions: Los
+Angeles County, Bay Area Region (including Alameda, Contra Costa, Marin, San
+Francisco and San Mateo Counties), Santa Clara Region (including Monterey, San
+Benito, Santa Clara and Santa Cruz Counties), Greater California without Orange
+County, and Orange County. The latter was carved out from Greater California due
+to a substantially higher proportion of Vietnamese than other California
+regions.
+To take into account the NOS cases in our incident counts we proceeded
+as follows. Birthplace was used to enhance the identification of the 11
+specified Asian subgroups as well as identify OSA (e.g., a NOS case with a
+birthplace of China was recoded as Chinese; a NOS case with a birthplace of
+Malaysia was recoded as OSA). In order to estimate the quantity of OSAs that
+could not be identified by birthplace but would have been identified by a race
+specific descriptor had it existed in the NAACCR standards, we used an average
+ratio between those with a specific race without a matching birthplace and those
+of the same race but with a matching birthplace (e.g. Filipino race, birthplace
+Philippines) among Filipinos, Koreans, Southeast Asians, and Vietnamese. The
+choice of these four subgroups was based on the similar history of more recent
+immigration to the US to those of OSAs, such as Indonesia and Malaysia. The
+remaining NOS cases were reassigned by stratified imputation models as performed
+in previous research on cancer risk18.
+Variables are defined as follows: age group j=1-5 for
+ages 0-19, 20-44, 45-59, 60-74, ≥75; cancer site l=1-17
+for oral cavity and pharynx, stomach,…, other-site combined; geographic
+region m=1-12 for Los Angeles County, …, Florida; Asian
+subgroup i=1 for South Asian, 2 for Chinese, 3 for Japanese, 4
+for Filipino, 5 for Korean, 6 for Vietnamese, 7 for Southeast Asian, 8 for OSA,
+and 9 for NOS. D is the number of cases whose race matches
+birthplace, and d is the number of cases whose race does not
+match birthplace.
+For each age group j, cancer site l,
+and geographic region m, we defined the total
+(N) of a specific Asian subgroup i as:
+Nijlm=Dijlm+dijlm Hence, the average ratio (AR) was:
+ARjlm=(∑i=47dijlm∕Dijlm)∕4 The estimate for OSAs that cannot be identified by birthplace
+and the total number of OSAs was given by: d8jlm=D8jlmARjlm
+N8jlm=D8jlm+d8jlm We then defined the proportion (P) of each
+Asian subgroup i over total Asians as: Pijlm=Nijlm∕(∑i=17Nijlm+N8jlm) Given the uneven distribution of NOS cases by age, 18 age groups
+(k=1-18 for ages 0-4, 5-9, …, 80-84, ≥85)
+were used for proportionate partition. The average ratios and proportions based
+on j were used for k when the corresponding
+age groups indexed by k overlap with those groups indexed by
+j (e.g., j=1 when k=1-4).
+Hence, adjusted total (N*) of NOS cases was given
+by: N∗9klm=N9klm−D8klmARjlm Adjusted total of NOS cases were proportionately partitioned to
+each Asian subgroup as follows: N∗iklm=Niklm+N∗9klmPijlm Population data were derived from 2010 US Census. Since Asians
+that report several Asian subgroups are counted several times in census counts,
+the sum of all specific Asian subgroups exceeds the total Asian
+population1. To adjust
+this, we applied sex and age-specific proportions of multiple-Asian-race counts
+for each subgroup to the net difference between the real total and
+single-Asian-race counts to derive subgroup estimates.
+Average annual cancer incidence rates per 100,000 persons were
+calculated with and without stratified imputation for comparison, and
+age-standardized to the 2000 US Standard Population. Corresponding 95%
+confidence intervals (CIs) were calculated with gamma intervals
+modification19. R 3.13
+and SAS 9.3 were used for data analysis.
+This study was approved by the University of Nevada, Las Vegas
+Institutional Review Board (IRB), the Illinois Department of Public Health IRB,
+and the Washington State IRB. Data use agreements were obtained from the SEER
+program, the New York Cancer Registry, the Texas Cancer Registry, the Illinois
+State Cancer Registry, the Washington State Cancer Registry, and the Florida
+Cancer Data System.
+Results
+A total of 90,709 Asian and 1,327,727 non-Hispanic white new cancer cases
+were diagnosed from 2009 to 2011 in the eight states in our study (Table 2). California accounted for 52% of all
+the Asian cases, followed by New York with 10%. Of Asian cancer cases, 15% were NOS
+(12% in SEER and 23% in NPCR). Due to the uneven distribution of NOS cases, the
+increase in overall incidence rates after stratified imputation varied considerably
+by Asian subgroup with the lowest increment of 8% observed in Japanese men and the
+highest of 25% in South Asian women (Table 3
+and 4; Supporting Information Table
+1 and 2). Within
+each Asian subgroup, the increment also differed substantially by cancer site. The
+overall cancer incidence rate for Asian American men was 336.5/100,000 person-years;
+for women it was 299.6/100,000. This was nearly 38% and 33% lower than non-Hispanic
+white men and women, respectively. For the majority of cancer sites, incidence rates
+were lower among all Asian American populations than non-Hispanic whites. However,
+compared to non-Hispanic whites, Asian Americans had significantly higher rates for
+three infection-related cancers – nasopharyngeal, liver, and stomach
+cancers.
+Among the Asian subgroups, Filipinos ranked highest in overall cancer
+incidence for men and second for women, partially due to high prostate and breast
+cancer rates. They also had the highest thyroid cancer rates (9.7/100,000 in men and
+28.5/100,000 in women). Also with high prostate and breast cancer rates, Japanese
+ranked second in men and first in women for overall cancer incidence. Additionally,
+colorectal cancer rates were highest in this group (59.5/100,000 in men and
+40.5/100,000 in women). The lowest overall cancer incidence rates were found in
+South Asian men and Korean women, while Chinese men and women had the second lowest
+overall rates. Remarkably, the Chinese subgroup had the highest nasopharyngeal
+cancer rates (8.0/100,000 in men and 2.5/100,000 in women) and the Koreans had the
+highest stomach cancer rates (37.8/100,000 in men and 18.8/100,000 in women),
+significantly higher than any other Asian populations. Unlike other subgroups, South
+Asians had low nasopharyngeal, stomach, and liver cancer rates, similar to those of
+non-Hispanic whites. Notably, they also showed markedly low colorectal (28.1/100,000
+in men and 22.3/100,000 in women) and lung cancer rates (27.1/100,000 in men and
+14.9/100,000 in women). The Vietnamese subgroup had the highest liver cancer rates
+(52.8/100,000 in men and 15.5/100,000 in women) as well as the highest cervical
+cancer rate (9.0/100,000) among Asian subgroups.
+Discussion
+Our study found that Asian Americans have lower overall cancer incidence
+rates than non-Hispanic whites, especially for the four most common cancers:
+prostate, breast, colorectal, and lung. However, in comparison to non-Hispanic
+whites, Asian Americans are disproportionately affected by infection-related
+cancers, such as nasopharynx, liver and stomach cancers, but notably not cervical
+cancer. These findings are consistent with previous research7-9, although our updated data and new methodology reveal some new
+cancer patterns among specific Asian subgroups.
+The three highest cancer rates in Asian Americans are prostate, lung and
+colorectal in men, and breast, colorectal and lung in women. There is considerable
+variation across Asian subgroups but overall risk for these four cancers is lower
+than in non-Hispanic whites.
+Specific cancer differences
+Prostate cancer rates were highest among Filipino and Japanese men, but
+still 19% and 31% lower than rates of non-Hispanic whites. Vietnamese and Korean
+subgroups showed the lowest risk of prostate cancer among all Asians. Few risk
+factors are known for prostate cancer except for age and African ancestry. Asian
+populations traditionally show low risk for this cancer7-9 but in Western countries like the US incidence is mostly
+driven by the extent of prostate-specific antigen (PSA) screening
+coverage20, which is
+currently not recommended on a population basis. In clear relation with their
+incidence rates, it is not surprising that Filipino and Japanese men have been
+found to have the highest PSA screening rates (48% and 50%, respectively) while
+Vietnamese and Korean men have the lowest (13% and 22%) among all Asian
+subgroups in the California Health Interview Survey21. In the literature, the high incidence of
+prostate cancer for Filipinos among Asian subgroups has been related to their
+lower consumption of non-fermented soy products22. These products are popular in traditional
+Asian diets and have been associated with a 25%-30% reduced risk for prostate
+cancer23,24.
+Breast cancer was the leading cancer among women for all Asian
+subgroups, with Japanese women having a risk comparable to that of non-Hispanic
+white women, mostly attributable to a significantly higher rate among
+premenopausal Japanese women. Unlike other Asian subgroups, two-thirds of the
+Japanese American population is US-born3. Previous studies have shown that the cancer rates in
+US-born Asians approach that of non-Hispanic whites in successive generations
+and that US-born Asians have distinct profiles from their foreign-born
+counterparts13-15. The excess breast cancer
+burden in Japanese Americans may also be partially attributed to higher
+mammogram usage, older age at first childbirth, and lower number of childbirths
+compared to other Asian subgroups21, which are prevalent risk factors for breast cancer in
+Western populations25,26. Premenopausal breast cancer
+has unique protective factors such as weight status and breastfeeding. Further
+research is needed to explain the higher breast cancer risk in premenopausal
+Japanese women.
+Colorectal cancer rates were relatively high only among the Japanese
+subgroup, 25% and 11% higher than those of non-Hispanic white men and women.
+This group also has been found to have the highest colorectal cancer screening
+rate (83%) among Asian subgroups21. Because screening is known to reduce colorectal cancer
+incidence, our findings suggest that environmental factors are strong drivers of
+the colorectal cancer risk in this group. As the only subgroup that is majority
+US-born3, the Japanese
+are more likely to have adopted a Western lifestyle, including dietary habits
+and consequent obesity, which is associated with increased risk for colorectal
+cancer21,27. Similarly, in Japan, an
+increase in dietary intake of milk, meat, eggs, and fat from 1950 to 1970 has
+been met with a concomitant sharp rise in colorectal cancer since the early
+1990s28. In most Asian
+countries, rapid economic growth resulted in a shift from traditional dietary
+patterns to an increased intake of fat, sugar and animal-source foods which
+leads to greater risk of colorectal cancer. Lung cancer rates were highest among
+the Vietnamese subgroup, but still 11% and 47% lower than those of non-Hispanic
+white men and women, respectively. Lung cancer rates are predominantly a
+reflection of past smoking trends, and smoking prevalence is relatively low
+among Asian Americans, particularly women. According to the California Health
+Interview Survey21, Vietnamese
+in California currently have the highest smoking rates among all Asian subgroups
+while South Asians have the lowest. This coincides with our findings of higher
+rates for Vietnamese and remarkably low lung cancer incidence among South
+Asians.
+Stomach cancer rates were high among Koreans, Chinese, Japanese, and
+Vietnamese. Koreans had the highest rates, nearly five times higher than
+non-Hispanic whites. The high risk for Koreans compared to other countries in
+Asia is confirmed by global incidence rates provided by GLOBOCAN29. The primary identified cause
+of non-cardia stomach cancer is infection with Helicobacter
+pylori. Interestingly, stomach cancer rates in South Asian and
+Filipino subpopulations were similar to non-Hispanic whites despite a high
+prevalence of adult H. pylori infection in their countries of
+origin30,31. The extremely high
+vulnerability observed in Korean and other Asian subgroups could be related to a
+high dietary salt intake, which may enhance H. pylori
+colonization, alter gastric mucus viscosity, or damage gastric epithelium, all
+of which facilitate the development of stomach cancer32,33.
+Liver cancer rates were higher than those of non-Hispanic whites in all
+Asian subgroups except South Asian men. The highest rates, almost five times
+higher, were observed in the Vietnamese subpopulation. Infection with hepatitis
+B virus (HBV) is the major cause of liver cancer in Asia and developing
+countries, while in the US, hepatitis C virus (HCV) is the more common viral
+cause. Nonetheless, the Vietnamese American population has a high prevalence,
+14%, of chronic HBV infection34, which may partially be attributed to the absence of
+newborn hepatitis B vaccination in Vietnam until 201235. Moreover, the 6% prevalence of HCV infection
+in Vietnam is high compared to the average prevalence of 2% for most other Asian
+countries34. These
+trends may account for the observed high rates among Vietnamese in our study. In
+general, populations in Asia have a higher risk of liver cancer because they
+tend to acquire HBV and HCV infection at a young age34. South Asians in our study have relatively low
+liver cancer incidence, which may be attributed to a lower prevalence of both
+HBV (3%) and HCV (1%-1.5%) infections in South Asia compared to other countries
+in East and Southeast Asia36,37. Notably, the predominant mode
+of transmission of HBV and HCV in India is blood transfusion and the use of
+unsafe therapeutic injection rather than the usual vertical transmission at the
+time of birth, most common in Asia38,39. There are
+several other risk factors associated with liver cancer, such as alcohol use,
+smoking, and obesity. However, given the lower prevalence of binge drinking,
+smoking, and obesity among Asian Americans21, viral infection is the most likely cause for the heavy
+burden of liver cancer in specific Asian subgroups. Since liver cancer has a
+poor prognosis, more action to screen for and prevent the progression of
+hepatitis B and C among certain Asian subgroups, especially the Vietnamese, is
+warranted.
+Nasopharyngeal cancer rates were strikingly high among Chinese,
+Vietnamese, and Filipino subgroups. The highest rates, observed in Chinese, were
+more than 13 times higher than those of non-Hispanic whites. Infection with
+Epstein-Barr virus (EBV) is associated with
+undifferentiated nasopharyngeal carcinoma40. Previous research indicates that the unusual high risk
+for nasopharyngeal cancer in certain Asian subgroups may be attributed to
+genetic predisposition and environmental factors that alter the oncogenic
+properties of EBV as well as increase susceptibility to environmental
+carcinogens41,42. When adjusted to the World
+Standard, the rates in our study for the Chinese subgroup (6.8/100,000 in men
+and 2.2/100,000 in women) were actually higher than those reported by GLOBOCAN
+for China (2.7/100,000 in men and 1.1/100,000 in women)29. The first generation of
+Chinese Americans came mainly from China’s Guangdong Province where
+nasopharyngeal carcinoma rates are much higher than in other provinces43. Moreover, nasopharyngeal
+cancer is known to occur with obvious familial aggregation43. These patterns may contribute
+to our observed elevated rates. In any case, further studies on nasopharyngeal
+carcinoma in Asian subgroups should be conducted to clarify this increased
+risk.
+Cervical cancer rates were high in the Vietnamese subgroup only. This
+finding is baffling given prior studies showing Vietnamese women with the
+highest cervical screening test (Pap) usage (76% in 2007) among all Asian
+subgroups21. Low
+English proficiency, low educational attachment, and high poverty rates among
+Vietnamese women may adversely impact their receipt of assistance with cervical
+cancer control21,44. We could not find any
+literature on the prevalence of HPV infection and its oncotypes among the
+Vietnamese subgroup.
+Thyroid cancer rates were relatively high among Filipinos compared to
+other Asian subgroups and non-Hispanic whites, although the reasons are unclear.
+Risk factors include a history of goiter or thyroid nodules and lower soy
+isoflavone consumption45. Due
+to early clinical detection and diagnosis, multiple countries including the US
+have experienced a substantial increase in thyroid cancer incidence without a
+concomitant increase in mortality46,47. While
+Filipinos have a higher healthcare access rate and lower poverty rate than other
+Asian subgroups21, it is
+unlikely that increased detection alone would explain this higher risk for
+thyroid cancer.
+The role of acculturation in explaining some of the variability in our
+observed results cannot be directly measured. However, it is worth noting that
+the Japanese, who have the longest history in the US, seem to have intermediate
+rates between those of other Asian subgroups and non-Hispanic whites for
+prostate, breast, and uterine cancer. Their colorectal cancer rates actually
+surpass those of non-Hispanic whites in our study. These cancers are often
+associated with a Western lifestyle. Yet the rates for liver and stomach cancer
+for the Japanese subgroup remain higher than those of non-Hispanic whites. This
+suggests that the process of cancer risk conversion from culture of origin to
+the dominant culture is complex and spans more than one generation. To a lesser
+extent, the Filipino subgroup also shows a pattern consistent conversion in
+cancer risk due to acculturation. South Asians seem to be the most distinct of
+all subgroups and show overall the lowest risk for cancer among men, with
+remarkably low rates of lung and colorectal cancers. Aside from a low smoking
+rate and dominant vegetarian diet21,48, the causes
+of this apparent lack of vulnerability, especially for colorectal cancer, are
+worth further study.
+Overall, these results complement previously published
+research7-9. In the most recent publication
+on this subject, Gomez et al. reported incidence rates by Asian subgroup for
+five of the most common cancer sites for the period 2004-20087. Our rates for 2009-2011 are not
+dissimilar after taking into account the decreasing trends for cancer incidence
+in Asian men and the stable trends in Asian women reported in the most recent
+Annual Report on Cancer49.
+A significant strength of this study is that it provides rates for the
+largest coverage to date of Asian Americans, more than two thirds of the overall
+total national Asian population, by using cancer registry data from both SEER
+and NPCR. Out of the total US Asian population of 14.7 million, 73% of Chinese,
+79% of Filipino, 78% of Japanese, 65% of Korean, 63% of South Asian, and 65% of
+Vietnamese American populations were covered. The inclusion of the NPCR data in
+our study increased the coverage of all Asian subgroups, especially South
+Asians, whose coverage was doubled. An additional strength is our application of
+an equitable and unbiased method to impute Asian NOS cases, which accounted for
+15% of Asian cancer cases. We address the specificities of NAACCR data
+collection on Asians with new methodology building on previous work by Pinheiro
+et al.18. By accounting for
+NOS cases, the overall rates are approximately 5%-6% higher than those based on
+the current race descriptors and algorithm. However, the increment varies
+considerably by cancer site, and is as high as 9% for cancers with better
+prognosis, such as thyroid, breast, and prostate cancers. In summary, this study
+is the first to provide incidence rates that are directly comparable among
+specific Asian subgroups as well as between them and other US reference
+populations.
+NAACCR designed the NAACCR Asian/Pacific Islander Identification
+Algorithm (NAPIIA) to reduce Asian NOS cases17. NAPIIA uses name and birthplace to enhance the race
+identification among Asian NOS cases indirectly. However, its use in this study
+would have introduced bias in the allocation of Asian NOS cases because the
+coverage of the name and surname portion of the algorithm is not uniform across
+major specified Asian subgroups and is absent among OSA subgroups. In practice,
+its use in this study would have substantially overestimated Chinese cancer
+rates and underestimated South Asian rates (data not shown).
+Several limitations may have affected our results. The estimates assume
+that NOS cases occur randomly across all Asian subgroups who share the same sex,
+cancer site, age group, and geographic region. While this is the most logical
+assumption, it is possible that the reality may be somewhat different. The
+precision of our confidence intervals may be overestimated because our
+imputation model does not account for the uncertainty of the observed NOS
+counts. Another possible limitation is that race/ethnicity data from cancer
+registries are derived from medical records and administrative information while
+data from the Census are based on self-identifications alone. The two may not be
+totally comparable. Also, birthplace was used to improve identification of
+specified Asians and estimate OSAs, but the availability of birthplace data may
+not be uniform across Asian subgroups. Finally, due to limited access to Race 2
+data, estimates in Florida were strictly based on Race 1. However, given the
+comparatively low number of Asian cases in Florida, it is unlikely that this
+affected our results.
+This study portrays unique cancer incidence patterns among specific
+Asian subgroups and provides a reliable baseline for future cancer surveillance
+research and health policy. Complex phenomena like acculturation and cancer risk
+conversion may help explain why rates for certain cancers remain higher than
+average among Asian Americans while cancer risk for the leading four cancers
+appears to be converging with US averages15,50. Nonetheless,
+these analyses on the heterogeneity of cancer profiles among Asian subgroups can
+provide unique opportunities to better understand the epidemiology of these
+cancers as well as facilitate future research hypotheses. The variations
+observed require future research to explore cancer susceptibility among Asian
+American subgroups. In addition, this study highlights the critical importance
+of public health efforts that target cancer disparities among Asian subgroups
+through improved surveillance and prevention efforts, including screening and
+community-based education.
+Supplementary Material
+Cancer_Incidence_Supporting_Info

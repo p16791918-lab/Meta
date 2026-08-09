@@ -1,0 +1,4474 @@
+record_id=4082 pmid=40257373 doi=10.1002/cncr.35833 pmcid=PMC12010951
+TITLE: Annual Report to the Nation on the Status of Cancer, featuring state-level statistics after the onset of the COVID-19 pandemic
+
+INTRODUCTION
+The National Cancer Plan
+1
+ postulates that everyone has a role in the effort to make progress against cancer. Since 1999, the North American Association of Central Cancer Registries (NAACCR), in collaboration with the National Cancer Institute (NCI), the Centers for Disease Control and Prevention (CDC), and the American Cancer Society (ACS), has released annual reports informing the public about major changes in patterns and trends observed in the national cancer statistics. The coronavirus disease 2019 (COVID‐19) pandemic has been a major challenge to the resiliency of public health and health care systems, including cancer prevention and control activities and oncology care.
+2
+, 
+3
+, 
+4
+ The cancer surveillance system, funded by the CDC and the NCI, benefiting from the tremendous effort of oncology data specialists (formerly known as certified tumor registrars) and other cancer registry staff, has played a central role in collecting data and disseminating knowledge about changes to cancer patterns and trends to cancer survivors and their medical providers. This Annual Report to the Nation on the Status of Cancer continues the tradition of highlighting major cancer incidence and mortality trends while providing a comprehensive analysis of the changes that occurred during the first year of the COVID‐19 pandemic. In particular, given the unique features of our available data that cover all US states, the District of Columbia, and Puerto Rico, this annual report compares how cancer statistics have changed across geography because of the pandemic.
+MATERIALS AND METHODS
+Data sources
+Cancer incidence data
+Population‐based cancer incidence data by age, sex, and race and ethnicity were obtained from the NAACCR Cancer in North America (CiNA) database, which was comprised of data submitted in December 2023 by registries that participate in the CDC's National Program of Cancer Registries and/or the NCI's Surveillance, Epidemiology, and End Results (SEER) Program.
+5
+ Data from registries that satisfied NAACCR's criteria for data quality were included in the analyses.
+6
+ For rate analyses, 47 states, the District of Columbia, and the territory of Puerto Rico met high‐quality criteria for every year during 2017 through 2021. For trend analyses, 43 states and the District of Columbia met the criteria for every year during 2001 through 2021. This represents 97% coverage for rates and 90% coverage for trends of the population of the United States and Puerto Rico. Registries that were included in specific analyses for this report are listed in corresponding figure legends and table footnotes.
+Anatomic site and histology were coded according to the International Classification of Diseases for Oncology, third edition (ICD‐O‐3.2)
+7
+, 
+8
+, 
+9
+ and were categorized according to the Site Recode ICD‐O‐3/World Health Organization (WHO) 2008 classification.
+10
+ Only cases defined as malignant were included in this report except for in situ urinary bladder cancers, which are included according to the convention in cancer surveillance reporting because of their high rate of progression and recurrence. Malignant behavior was based on the definition in place during the year of diagnosis.
+7
+, 
+8
+, 
+11
+, 
+12
+Cancer mortality data
+Cause of death by age, sex, and race and ethnicity (2001–2022) from all 50 states and the District of Columbia was based on death certificate information reported to state vital statistics offices and compiled through the CDC's National Center for Health Statistics' National Vital Statistics System.
+13
+ The underlying causes of death were selected according to the ICD‐10, then categorized according to SEER Cause of Death Recodes to maximize comparability with ICD‐O classifications.
+14
+Population data
+Population estimates were a modification of the July 1 releases of intercensal (2001–2009 and 2010–2019) and Vintage 2022 (2020–2022) annual county population estimates by age, sex, race, and Hispanic origin produced by the US Bureau of the Census Population Estimates Program.
+15
+ The population estimates for 2001–2009 were produced under a collaborative arrangement between the US Bureau of the Census and the National Center for Health Statistics, with support from the NCI, and the 2010–2020 population estimates were produced by Woods & Poole Economics, Inc., through a contract with the NCI. Special modifications are made to the population data to ensure the accuracy of our statistics, including adjustments to account for population displacement caused by hurricanes in 2005, undercounting of native Hawaiians in Hawaii, and new geographic units in Connecticut.
+15
+ The estimates incorporate single, bridged‐race estimates derived from the original multiple‐race categories in the 2000 and 2010 censuses.
+16
+Demographic characteristics
+Rates and trends are presented by sex, race and ethnicity, and age (all ages, children aged 0–14 years, and adolescents and young adults [AYAs] aged 15–39 years). Information about race and ethnicity was based on information abstracted from medical records for incidence and from death certificates for mortality. This information could either be self‐reported by the patient or suggested from data reported by the provider. In the current report, information about race was used to create four single, bridged‐race groups and then combined with ethnicity to create five mutually exclusive racial and ethnic groups: non‐Hispanic White (White), non‐Hispanic Black or African American (Black), non‐Hispanic American Indian or Alaska Native (AI/AN), non‐Hispanic Asian or Pacific Islander (API), and Hispanic or Latino (any race). For brevity, these groups are referred to as White, Black, AI/AN, API, and Hispanic, respectively, throughout the remainder of this report. Race information for AI/AN persons was considered reliable only for geographic areas covered by the Indian Health Service Purchased/Referred Care Delivery Areas; therefore, to minimize racial misclassification for AI/AN persons, incidence and mortality data for this group were based only on counties covered by Purchased/Referred Care Delivery Areas in states that provided county‐level information.
+17
+ Persons with other or unknown race or unknown ethnicity were included in overall rates but were not allocated into the race‐ and ethnicity‐specific rates.
+Statistical methods
+Cross‐sectional incidence and death rates for all ages combined, for children, and for AYAs by cancer type, race, and ethnicity were calculated using SEER*Stat software, version 8.4.3, 2024.
+18
+ All rates were age standardized to the 2000 US standard population and were expressed per 100,000 standard population, and the incidence data were adjusted for reporting delay.
+19
+ Corresponding 95% confidence intervals (CIs) were calculated as modified gamma intervals and allowed for informal comparisons between groups without specifying a referent group.
+Prior publications indicate that the number of incident cancer cases in diagnostic year 2020 reported to the National Program of Cancer Registries and SEER were 9%–10% lower than expected overall, with much larger deficits for some cancers.
+20
+, 
+21
+ Therefore, to highlight the impact of the pandemic on 2020 cancer diagnosis, and to more accurately depict the underlying burden of cancer in the most recent 5 data years, cross‐sectional incidence rates were calculated for 2020 separately from a 4‐year aggregate of 2017–2019/2021. Cancer death rates did not show significant changes in 2020, so they were calculated for an aggregated most recent 5 years, 2018–2022, according to convention.
+For rates, statistics based on fewer than 20 cases were deemed to be statistically unreliable and were suppressed. Trends based on fewer than 10 cases or deaths in any of the data years were considered statistically unreliable and were suppressed. Incidence and death rates and trends were reported for males and females for each cancer type that ranked in the top 15 incident cancers or causes of cancer death for any race‐ and ethnicity‐specific group, resulting in 18 cancer sites for males and females (when reporting incidence) and 19 cancer sites for males and 20 cancer sites for females (when reporting mortality). For children and AYAs, rates and trends were presented for every cancer type that was among the three most common cancers for each race and ethnicity.
+Temporal trends in delay‐adjusted and age‐adjusted incidence (2001–2021) and age‐adjusted death (2001–2022) rates were estimated using joinpoint regression (Joinpoint software, version 5.2.0; NCI).
+22
+ The joinpoint regression model was not designed to accommodate a 1‐year anomaly in data, as was seen with the 2020 incidence data. The inclusion of such an outlier was shown to influence the location of joinpoints and the value of trend measures and CIs and to provide a poor fit of the model such that trends were characterized inaccurately.
+23
+ Including data from 2020 would make the trends difficult to use for resource allocation or cancer control planning because the drop in incidence in 2020 largely reflects changes in medical care utilization rather than a reduction in the underlying cancer burden.
+24
+ Therefore, trends for incidence excluded data from 2020. Trends for mortality included data from 2020 because the number of cancer deaths in 2020 reported to the CDC were as expected.
+20
+ A maximum of three joinpoints (four line segments) were allowed for both incidence and deaths using the data‐driven, weighted Bayesian Information Criteria method for model selection.
+25
+The annual percent change (APC) characterizes the slope of a single segment fit to the log of the rates, and the average APC (AAPC) is a summary measure over a fixed interval. Corresponding 95% CIs were calculated using the empirical quantile method. Two‐sided, statistically significant (p < .05) tests for line segment slope differences from zero were determined using a t‐test for the APC and the AAPC when they were entirely within the last joinpoint segment and a z‐test when the last joinpoint fell within the last 5 years of data. When the slope of the trend (APC or AAPC) was statistically significant, the trend was considered increasing (slope >0) or declining (slope <0). Trends were considered stable when the slope was not significantly different from zero. Five‐year AAPCs were calculated for both incidence (2017–2021) and mortality (2018–2022). The observed rates for 2020 incidence were not included in the trend calculations, but a Joinpoint‐modeled 2020 rate was used to produce the AAPCs. The AAPC over any fixed interval is calculated using a weighted average of the slope coefficients of the underlying joinpoint regression model with the weights equal to the length of each segment over the interval.
+22
+, 
+26
+Methods for special section: Focus on 2020 incidence
+We examined the potential impact of the COVID‐19 pandemic using several methods. The special focus on 2020 analysis relied on the same CiNA data described above as well as CiNA data submitted in prior submission years. Delay factors were not available for this portion of the analysis; therefore, to compare declines in incidence in 2020 with changes during prior years, we calculated ratios (and corresponding p values) of observed, age‐adjusted rates. The relative decline in 2020 from 2019 was compared with rate ratios for the past 5 years. Because delay factors were not available for this portion of the analysis, we compared diagnosis years based on the first submission year to ensure that the declines were not overestimated. To avoid potential confusion with the delayed‐adjusted rates presented in the core cancer statistics section, only rate ratios are presented for this analysis.
+First, the relative decline in 2020 from 2019 was compared with rate ratios for the past 5 years. We further stratified the rate ratio analysis for diagnosis year 2020 versus 2019 by race, ethnicity, age, sex, stage at diagnosis, month of diagnosis, census tract level, area‐based poverty status (NAACCR data item no. 145), census tract‐level Urban/Rural Indicator Code (NAACCR data item no. 346), and state of diagnosis (NAACCR data item no. 80).
+27
+ This analysis focused on all cancer sites combined and eight site groups: female breast, cervix, colon and rectum, lung and bronchus, oral cavity and pharynx, pancreas, prostate, and thyroid. We focused on these sites because we postulated that screenable tumors that are often diagnosed while asymptomatic and would have been less likely to be detected during the pandemic (breast, cervix, colorectal, lung, and prostate). Thyroid was included because it is often diagnosed as an incidental finding and is likely to be highly affected by a disruption in medical care. Oral cancers were included because they are often diagnosed by dentists, and dental utilization decreased more dramatically because of the pandemic than medical care utilization.
+28
+ Pancreas was included for comparison because we anticipated that sites like pancreas, that are often diagnosed only after a patient is symptomatic, would be less affected.
+We assessed cancer incidence rates by month comparing 2020 with prior years by site, sex, race and ethnicity, urban or rural residence, community poverty, and SEER Summary Stage. We also reviewed the 2020 data by cancer site and registry from multiple submission years to assess whether there were any anomalies that might suggest that the decline in 2020 rates could be partially explained by the interruption of cancer registry operations because of reallocation of public health resources or general strain on operations.
+In addition, to assess the validity of presenting the 4‐year (2017–2019/2021) aggregated rates, the 2021 data and recent trends were reviewed for a possible excess or catch up of cases not diagnosed in 2020 that could skew trends or overestimate rates. Because of published reports suggesting concern about lower screening rates during the pandemic and the subsequent risk of late‐stage diagnosis in the following years,
+29
+ we also looked at the proportion of late‐stage diagnosis for screenable cancers and all sites combined. Late stage was defined as cases diagnosed at regional or distant stage, using SEER Summary Stage 2000 for cases diagnosed in 2017 and SEER Summary Stage 2018 for cases diagnosed in 2018 and later.
+30
+We evaluated late‐stage versus early stage cancers at diagnosis for the past five years. Late‐stage diagnoses indicate cancers with poorer treatment options and outcomes compared to cancer diagnosed at an early stage.
+31
+, 
+32
+ However, a fairly consistent pattern of decreasing cases of unknown stage at diagnosis from 2017 to 2020 was seen when evaluating cancer incidence by stage, suggesting improvements in data collection and/or clinical care. Therefore, to reduce the impact of potential bias, the comparisons of the proportion of late‐stage diagnoses over the most recent five years excluded both unknown and unstaged cases. We used CIs (calculated by CI = p^ ± [1.96 * standard error], where the standard error is calculated as √[p^(1 − p^)/n], where p^ is the sample proportion, and n is the sample size) as an informal comparison between the groups.
+Next, we looked at state‐level declines in incidence from 2019 to 2020, 2020 COVID‐19 policy restrictions, 2020 COVID‐19 deaths, and changes in mammography use. The policy restriction data were used as a proxy measure of curtailed daily‐life activities. The Oxford COVID‐19 government response tracker compiled data by jurisdiction on 24 policy indicators from four categories (containment and closure policies, economic policies, health system policies, and vaccination policies) into a single assessment.
+33
+, 
+34
+
+The New York Times evaluated the summary index by state and ranked the states by level of restriction over the time period from March 1 to November 1, 2020.
+35
+ 2020 COVID‐19 mortality was used as a proxy measure of limits on health care access because of health system capacity. Age‐adjusted COVID‐19 death rates were obtained from the CDC using CDC WONDER.
+36
+ Changes in mammography were used as a proxy measure of limits on health care access because of facility closure and related policies. The percentage of women aged 50–74 who had a mammogram in the past 2 years was obtained from the CDC Behavioral Risk Factor Surveillance System for 2018 and 2020.
+37
+For these analyses, states were grouped into tertiles by ranked stringency of policy restriction, COVID‐19 death rates, and the percentage decline in mammography use. The mammography analysis also included a fourth category for increase in mammography use. Because of differences in data collection in the state for 2020 compared with prior years, Nevada data were excluded from the state‐level incidence decline. These state‐level data, along with state‐level incidence declines for 2020, were mapped using ArcGIS Pro (version 3.2.0) GIS software (Esri).
+38
+RESULTS
+Cancer incidence rates and trends
+The cancer incidence rate (per 100,000 population) for all sites combined during the 4‐year period (2017–2019/2021) was 461.3 overall and was 14% higher among males (499.8) than among females (436.6; Table 1). Incidence rates generally decreased among males by 1.6%–2.2% per year from 2001 through 2013 and then were stable through 2021 (Figure 1, Table 2). In contrast, incidence rates among females increased slightly by 0.3% per year from 2003 through 2021.
+TABLE 1
+Age‐standardized, delay‐adjusted incidence rates (2017–2021, excluding 2020)
+a
+ and fixed‐interval trends (2017–2021)
+b
+ for the most common cancers,
+c
+ all ages, by sex, age group, and racial/ethnic group
+d
+ for areas in the United States with high‐quality incidence data.
+e
+Sex/cancer site or type
+Rank
+All racial/ethnic groups
+Non‐Hispanic White
+Non‐Hispanic Black
+Non‐Hispanic API
+Non‐Hispanic AI/AN: PRCDA
+Hispanic
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+All sites
+f
+Both sexes
+461.3 (460.9–461.6)
+0.1 (−0.1, 0.3)
+.18
+483.7 (483.3–484.2)
+0.2 (0.0–0.5)
+.06
+470.1 (469.0–471.2)
+0.1 (−0.2, 0.4)
+.53
+309.8 (308.6–311.0)
+0.9 (0.3–1.5)
+g
+.001
+502.7 (496.6–508.7)
+0.7 (0.6–0.9)
+g
+< .001
+367.8 (366.9–368.7)
+0.4 (0.2–0.7)
+g
+.02
+Males
+499.8 (499.3–500.4)
+−0.1 (−0.4, 0.2)
+.41
+520.2 (519.5–520.8)
+0.1 (−0.2, 0.4)
+.50
+545.2 (543.3–547.0)
+−0.1 (−0.5, 0.5)
+.68
+305.5 (303.7–307.4)
+0.1 (−0.3, 0.7)
+.51
+525.2 (515.8–534.6)
+0.2 (−0.1, 0.5)
+.25
+387.1 (385.7–388.5)
+−0.4 (−0.7, 0.2)
+.14
+Females
+436.6 (436.1–437.1)
+0.3 (0.1–0.6)
+g
+.05
+460.5 (459.9–461.1)
+0.3 (0.3–0.5)
+g
+.02
+419.9 (418.6–421.3)
+0.6 (0.0–0.9)
+g
+.03
+318.6 (317.0–320.3)
+1.6 (1.1–1.8)
+g
+< .001
+493.0 (484.9–501.1)
+1.3 (1.1–1.5)
+g
+< .001
+361.9 (360.7–363.1)
+1.1 (0.9–1.3)
+g
+< .001
+Children, aged 0–14 years
+17.3 (17.2–17.5)
+−0.8 (−1.8, −0.2)
+g
+.02
+18.0 (17.7–18.2)
+−1.3 (−2.8, −0.4)
+g
+.007
+13.7 (13.4–14.1)
+0.2 (−1.9, 0.7)
+.74
+15.6 (15.0–16.3)
+1.1 (0.6–1.6)
+g
+< .001
+19.9 (17.7–22.4)
+2.0 (0.3–3.7)
+g
+.02
+17.5 (17.2–17.8)
+0.8 (0.5–1.1)
+g
+< .001
+AYAs, aged 15–39 years
+77.6 (77.4–77.9)
+0.3 (−0.7, 0.7)
+.36
+84.6 (84.2–85.0)
+−0.6 (−1.4, −0.2)
+g
+.02
+64.2 (63.6–64.9)
+−0.6 (−2.2, 0.4)
+.23
+60.4 (59.6–61.3)
+1.6 (1.4–1.9)
+g
+< .001
+94.3 (90.2–98.6)
+2.1 (1.7–2.5)
+g
+< .001
+69.5 (69.0–70.0)
+2.5 (1.8–3.0)
+g
+< .001
+Males
+Prostate
+1
+121.1 (120.9–121.4)
+2.9 (1.8–4.3)
+g
+< .001
+116.7 (116.4–117.0)
+3.5 (2.2–5.0)
+g
+< .001
+196.0 (194.9–197.1)
+2.5 (1.6–3.8)
+g
+< .001
+65.0 (64.1–65.8)
+4.0 (2.8–5.6)
+g
+< .001
+102.6 (98.5–106.9)
+3.5 (1.6–6.4)
+g
+< .001
+101.2 (100.5–102.0)
+1.3 (0.5–2.3)
+g
+.02
+Lung and bronchus
+2
+60.8 (60.6–61.0)
+−3.4 (−4.1, −2.9)
+g
+< .001
+64.6 (64.4–64.9)
+−3.3 (−3.8, −2.8)
+g
+< .001
+71.5 (70.8–72.2)
+−3.2 (−3.4, −3.0)
+g
+< .001
+41.0 (40.3–41.7)
+−1.6 (−1.9, −1.3)
+g
+< .001
+68.8 (65.4–72.4)
+−0.9 (−1.6, −0.2)
+g
+.009
+32.8 (32.4–33.3)
+−2.7 (−2.9, −2.4)
+g
+< .001
+Colon and rectum
+3
+42.8 (42.6–43.0)
+−1.0 (−1.3, −0.7)
+g
+< .001
+42.6 (42.4–42.8)
+−0.8 (−1.1, −0.5)
+g
+< .001
+50.4 (49.8–50.9)
+−0.5 (−1.8, 0.4)
+.21
+34.8 (34.2–35.4)
+−1.2 (−1.8, 0.1)
+.07
+58.3 (55.3–61.5)
+0.1 (−0.5, 0.7)
+.74
+40.9 (40.5–41.4)
+−0.9 (−1.4, −0.3)
+g
+.02
+Urinary bladder
+4
+33.5 (33.4–33.7)
+−1.5 (−1.9, −1.3)
+g
+< .001
+38.3 (38.1–38.5)
+−1.4 (−1.9, −1.1)
+g
+< .001
+20.1 (19.7–20.5)
+−0.3 (−1.5, 0.1)
+.13
+14.7 (14.3–15.2)
+−0.7 (−1.0, −0.5)
+g
+< .001
+23.9 (21.8–26.1)
+−5.6 (−11.2, 0.3)
+.07
+19.0 (18.6–19.3)
+−1.0 (−1.3, −0.8)
+g
+< .001
+Melanoma of the skin
+5
+29.8 (29.6–29.9)
+0.1 (−1.1, 1.0)
+.81
+39.2 (39.0–39.4)
+0.6 (−1.1, 1.6)
+.31
+1.1 (1.0–1.2)
+−0.4 (−1.2, 0.5)
+.43
+1.5 (1.4–1.6)
+−0.6 (−1.2, 0.2)
+.17
+14.5 (12.9–16.3)
+3.8 (2.4–5.5)
+g
+< .001
+5.1 (4.9–5.3)
+0.4 (0.0–1.0)
+.07
+Kidney and renal pelvis
+6
+24.0 (23.9–24.2)
+0.6 (0.0–1.1)
+g
+.05
+24.5 (24.4–24.7)
+0.5 (−0.4, 1.2)
+.12
+26.7 (26.3–27.1)
+0.6 (−0.9, 1.1)
+.15
+11.8 (11.4–12.1)
+0.5 (−0.9, 1.2)
+.25
+46.5 (43.8–49.2)
+2.4 (−1.7, 3.2)
+.07
+22.9 (22.6–23.2)
+1.1 (−0.2, 1.5)
+.06
+Non‐Hodgkin lymphoma
+7
+23.0 (22.9–23.2)
+−0.9 (−1.6, −0.5)
+g
+< .001
+24.5 (24.3–24.6)
+−0.8 (−1.4, −0.5)
+g
+< .001
+17.4 (17.1–17.7)
+0.0 (−0.2, 0.2)
+.85
+16.3 (15.9–16.7)
+0.2 (0.0–0.5)
+.07
+20.1 (18.3–22.0)
+−0.2 (−1.0, 0.7)
+.79
+20.4 (20.1–20.7)
+0.1 (−0.2, 0.3)
+.49
+Leukemia
+8
+19.2 (19.1–19.3)
+−0.2 (−0.7, 0.2)
+.33
+20.8 (20.7–21.0)
+0.0 (−1.0, 0.5)
+.93
+14.5 (14.2–14.8)
+−0.6 (−1.7, 0.1)
+.07
+10.9 (10.6–11.3)
+0.9 (0.4–1.5)
+g
+.001
+17.6 (15.9–19.4)
+1.2 (0.1–2.4)
+g
+.03
+14.6 (14.3–14.8)
+0.7 (0.3–1.0)
+g
+< .001
+Oral cavity and pharynx
+9
+18.4 (18.3–18.5)
+0.8 (0.7–0.9)
+g
+< .001
+20.8 (20.7–20.9)
+0.8 (0.1–1.2)
+g
+.03
+13.5 (13.2–13.7)
+−1.6 (−3.4, −0.1)
+g
+.04
+12.2 (11.8–12.5)
+0.7 (0.4–1.2)
+g
+< .001
+20.3 (18.6–22.1)
+2.0 (0.8–3.3)
+g
+< .001
+11.2 (11.0–11.4)
+−0.3 (−0.6, 0.1)
+.12
+Pancreas
+10
+15.5 (15.4–15.6)
+1.1 (1.0–1.2)
+g
+< .001
+15.9 (15.8–16.0)
+1.3 (1.2–1.4)
+g
+< .001
+18.1 (17.8–18.4)
+0.6 (0.3–0.9)
+g
+< .001
+10.7 (10.3–11.0)
+0.6 (0.3–0.9)
+g
+< .001
+15.2 (13.7–16.9)
+2.2 (0.6–4.2)
+g
+.008
+12.8 (12.5–13.0)
+0.7 (0.5–0.9)
+g
+< .001
+Liver and intrahepatic bile duct
+11
+13.4 (13.3–13.4)
+−0.3 (−1.1, 0.2)
+.20
+11.3 (11.2–11.4)
+0.2 (−0.6, 0.7)
+.41
+16.8 (16.5–17.1)
+−3.2 (−4.5, −2.3)
+g
+< .001
+18.0 (17.5–18.4)
+−2.4 (−3.9, −1.7)
+g
+< .001
+27.0 (25.0–29.1)
+−3.6 (−8.8, 0.1)
+.05
+20.1 (19.7–20.4)
+0.3 (−0.2, 0.8)
+.20
+Myeloma
+12
+9.3 (9.2–9.3)
+0.5 (0.0–0.8)
+g
+.05
+8.4 (8.3–8.5)
+0.4 (−0.1, 0.8)
+.08
+18.4 (18.1–18.8)
+0.8 (−1.7, 1.9)
+.20
+5.5 (5.2–5.8)
+0.8 (−1.7, 1.7)
+.29
+11.3 (9.9–12.8)
+2.2 (0.5–4.3)
+g
+.01
+8.5 (8.3–8.7)
+1.2 (0.8–1.7)
+g
+< .001
+Stomach
+13
+8.6 (8.5–8.6)
+0.3 (−0.7, 1.2)
+.19
+7.2 (7.2–7.3)
+−0.1 (−1.0, 0.6)
+.94
+13.2 (12.9–13.5)
+0.7 (−1.9, 2.2)
+.58
+12.1 (11.8–12.5)
+0.1 (−2.8, 2.1)
+.94
+12.8 (11.3–14.3)
+−1.4 (−2.5, −0.3)
+g
+.02
+11.3 (11.1–11.6)
+−1.8 (−2.1, −1.6)
+g
+< .001
+Esophagus
+14
+7.9 (7.8–7.9)
+−0.2 (−0.5, 0.4)
+.32
+8.9 (8.8–9.0)
+0.3 (0.0–1.0)
+g
+.05
+5.6 (5.4–5.7)
+−4.5 (−4.9, −4.2)
+g
+< .001
+3.6 (3.4–3.8)
+−0.8 (−1.5, 0.0)
+.06
+10.2 (9.0–11.6)
+1.4 (−0.2, 3.5)
+.08
+4.9 (4.8–5.1)
+−1.2 (−1.5, −0.7)
+g
+< .001
+Brain and other nervous system
+15
+7.6 (7.5–7.7)
+−0.5 (−1.6, −0.4)
+g
+.005
+8.6 (8.5–8.7)
+−0.4 (−1.6, −0.2)
+g
+.007
+4.9 (4.8–5.1)
+0.1 (−0.3, 0.6)
+.54
+4.6 (4.4–4.9)
+0.1 (−0.4, 0.7)
+.48
+7.2 (6.2–8.4)
+1.0 (−0.6, 2.7)
+.19
+5.9 (5.7–6.1)
+0.1 (−0.4, 1.5)
+.59
+Thyroid
+16
+7.2 (7.1–7.2)
+−1.1 (−2.1, −0.5)
+g
+.001
+7.9 (7.9–8.0)
+−1.3 (−2.5, −0.6)
+g
+.002
+3.6 (3.5–3.7)
+−2.9 (−7.2, 0.1)
+.05
+7.3 (7.1–7.6)
+−0.5 (−1.3, 0.3)
+.17
+6.8 (5.8–7.9)
+4.5 (3.1–6.4)
+g
+< .001
+6.3 (6.1–6.4)
+0.1 (−2.7, 1.6)
+.96
+Testis
+17
+5.8 (5.8–5.9)
+0.5 (0.4–0.6)
+g
+< .001
+7.1 (7.0–7.1)
+0.3 (0.2–0.5)
+g
+< .001
+1.6 (1.5–1.7)
+0.9 (0.4–1.4)
+g
+< .001
+2.2 (2.1–2.4)
+2.1 (1.5–2.9)
+g
+< .001
+7.6 (6.6–8.7)
+2.5 (1.0–4.2)
+g
+.002
+5.8 (5.7–6.0)
+2.6 (2.2–3.0)
+g
+< .001
+Larynx
+18
+5.1 (5.0–5.1)
+−2.6 (−3.1, −2.5)
+g
+< .001
+5.2 (5.1–5.2)
+−2.4 (−2.6, −2.1)
+g
+< .001
+7.2 (7.0–7.4)
+−3.2 (−3.5, −2.9)
+g
+< .001
+2.0 (1.9–2.2)
+−2.2 (−3.1, −1.2)
+g
+< .001
+6.2 (5.3–7.3)
+−1.1 (−2.4, 0.3)
+.12
+4.3 (4.1–4.4)
+−0.5 (−3.4, 1.4)
+.54
+Females
+Breast
+1
+133.5 (133.2–133.8)
+1.6 (0.9–2.0)
+g
+< .001
+140.0 (139.7–140.3)
+1.3 (0.8–1.9)
+g
+< .001
+133.0 (132.2–133.7)
+0.8 (0.6–0.9)
+g
+< .001
+110.8 (109.8–111.7)
+3.3 (2.1–4.3)
+g
+< .001
+125.5 (121.5–129.6)
+1.4 (1.0–1.9)
+g
+< .001
+106.1 (105.4–106.7)
+1.7 (1.2–2.7)
+g
+< .001
+Lung and bronchus
+2
+49.5 (49.3–49.6)
+−2.1 (−2.6, −1.6)
+g
+< .001
+55.4 (55.2–55.5)
+−2.0 (−2.5, −1.6)
+g
+< .001
+46.4 (46.0–46.9)
+−1.4 (−1.9, −1.2)
+g
+< .001
+28.6 (28.1–29.1)
+−1.8 (−3.5, −0.1)
+g
+.04
+61.8 (59.0–64.7)
+0.5 (−0.1, 1.0)
+.08
+23.6 (23.3–23.9)
+−0.5 (−0.7, −0.3)
+g
+< .001
+Colon and rectum
+3
+33.1 (33.0–33.2)
+−0.7 (−0.9, −0.5)
+g
+.001
+33.3 (33.2–33.5)
+−0.6 (−0.8, −0.4)
+g
+.001
+37.0 (36.6–37.5)
+−1.6 (−2.0, −1.0)
+g
+< .001
+25.6 (25.1–26.1)
+0.8 (−0.9, 1.8)
+.33
+45.9 (43.5–48.5)
+0.1 (−0.6, 0.8)
+.74
+30.0 (29.7–30.4)
+0.0 (−0.7, 1.5)
+.83
+Corpus and uterus, NOS
+4
+28.5 (28.4–28.6)
+0.8 (0.4–1.2)
+g
+< .001
+28.4 (28.3–28.6)
+0.0 (−0.7, 0.4)
+.98
+30.1 (29.8–30.5)
+2.3 (2.2–2.5)
+g
+< .001
+22.7 (22.3–23.2)
+2.5 (2.2–2.8)
+g
+< .001
+32.7 (30.7–34.8)
+2.2 (1.6–2.8)
+g
+< .001
+27.5 (27.1–27.8)
+2.7 (2.5–3.6)
+g
+< .001
+Thyroid
+5
+20.0 (19.9–20.1)
+−1.9 (−2.4, −1.4)
+g
+< .001
+20.7 (20.5–20.8)
+−2.8 (−3.6, −2.2)
+g
+< .001
+12.1 (11.9–12.4)
+−1.4 (−3.5, 0.3)
+.11
+22.2 (21.8–22.6)
+−1.0 (−2.1, 0.0)
+g
+.04
+23.5 (21.7–25.3)
+−1.7 (−7.1, 4.2)
+.54
+22.6 (22.3–22.9)
+−0.8 (−1.9, −0.1)
+g
+.03
+Melanoma of the skin
+6
+18.9 (18.8–19.0)
+1.7 (1.5–2.0)
+g
+< .001
+26.5 (26.4–26.7)
+2.3 (2.0–2.6)
+g
+< .001
+0.9 (0.9–1.0)
+−1.4 (−8.8, 0.5)
+.08
+1.2 (1.1–1.3)
+−0.5 (−1.4, 0.5)
+.30
+9.8 (8.6–11.0)
+2.9 (1.7–4.4)
+g
+< .001
+4.9 (4.7–5.0)
+2.0 (1.2–4.4)
+g
+.006
+Non‐Hodgkin lymphoma
+7
+15.9 (15.8–15.9)
+−1.0 (−1.6, −0.6)
+g
+< .001
+16.6 (16.5–16.7)
+−0.9 (−1.9, −0.4)
+g
+< .001
+12.4 (12.2–12.7)
+−1.1 (−2.5, 0.0)
+.05
+11.2 (10.9–11.6)
+0.2 (−0.1, 0.6)
+.14
+15.6 (14.2–17.1)
+−0.4 (−1.1, 0.3)
+.27
+15.5 (15.2–15.7)
+0.2 (0.0–0.5)
+g
+.02
+Kidney and renal pelvis
+8
+12.4 (12.3–12.5)
+0.2 (−0.7, 1.1)
+.47
+12.4 (12.3–12.5)
+0.0 (−0.7, 0.6)
+.96
+14.0 (13.7–14.2)
+0.5 (−0.2, 1.0)
+.11
+5.8 (5.6–6.1)
+1.3 (0.8–2.0)
+g
+< .001
+25.2 (23.4–27.0)
+2.2 (1.5–3.1)
+g
+< .001
+13.3 (13.0–13.5)
+1.7 (1.5–2.1)
+g
+< .001
+Pancreas
+9
+12.1 (12.0–12.1)
+1.1 (1.0–1.2)
+g
+< .001
+11.8 (11.8–11.9)
+1.2 (1.1–1.3)
+g
+< .001
+15.5 (15.3–15.8)
+0.7 (0.4–0.9)
+g
+< .001
+9.2 (9.0–9.5)
+0.8 (0.5–1.2)
+g
+< .001
+13.5 (12.2–14.9)
+1.6 (0.6–2.8)
+g
+.002
+11.0 (10.8–11.3)
+1.0 (0.7–1.3)
+g
+< .001
+Leukemia
+10
+11.8 (11.8–11.9)
+0.2 (−0.2, 0.5)
+.26
+12.6 (12.5–12.7)
+0.4 (−0.2, 0.7)
+.13
+9.8 (9.5–10.0)
+0.2 (−1.3, 1.7)
+.62
+6.9 (6.6–7.1)
+0.8 (0.4–1.3)
+g
+< .001
+12.3 (11.1–13.7)
+1.6 (0.4–2.9)
+g
+.008
+10.3 (10.1–10.5)
+1.0 (0.7–1.4)
+g
+< .001
+Ovary
+11
+10.4 (10.3–10.5)
+−1.6 (−1.7, −1.5)
+g
+< .001
+10.6 (10.5–10.7)
+−1.8 (−2.0, −1.7)
+g
+< .001
+8.8 (8.6–9.0)
+−0.9 (−1.2, −0.5)
+g
+< .001
+9.5 (9.2–9.8)
+0.1 (−0.3, 1.1)
+.27
+13.6 (12.3–15.1)
+−0.2 (−1.3, 1.0)
+.80
+10.1 (9.9–10.3)
+−0.3 (−0.8, 0.7)
+.47
+Urinary bladder
+12
+8.4 (8.3–8.5)
+−1.0 (−1.6, −0.9)
+g
+< .001
+9.5 (9.4–9.6)
+−0.7 (−0.8, −0.5)
+g
+< .001
+6.5 (6.3–6.7)
+−0.6 (−1.0, −0.3)
+g
+< .001
+3.5 (3.4–3.7)
+−0.9 (−1.6, 0.0)
+g
+.04
+6.1 (5.2–7.1)
+0.6 (−0.7, 2.0)
+.31
+5.3 (5.1–5.4)
+0.5 (−0.4, 2.7)
+.22
+Cervix
+13
+7.8 (7.7–7.9)
+−0.7 (−1.7–0.0)
+g
+.05
+7.2 (7.1–7.3)
+−1.2 (−2.5, −0.5)
+g
+.01
+8.7 (8.5–8.9)
+−1.6 (−2.0, −0.2)
+g
+.04
+6.2 (6.0–6.4)
+−0.3 (−1.2, 2.1)
+.78
+12.2 (10.9–13.5)
+0.6 (−0.2, 1.5)
+.14
+10.0 (9.8–10.2)
+0.5 (−0.1, 1.3)
+.09
+Oral cavity and pharynx
+14
+6.7 (6.7–6.8)
+0.6 (0.5–0.7)
+g
+.003
+7.4 (7.3–7.4)
+0.2 (−0.5, 0.9)
+.47
+5.0 (4.9–5.2)
+−0.8 (−0.9, −0.6)
+g
+< .001
+5.6 (5.3–5.8)
+1.3 (0.3–4.1)
+g
+.03
+7.6 (6.7–8.7)
+1.5 (0.1–3.3)
+g
+.04
+4.7 (4.6–4.9)
+3.9 (−0.8, 6.6)
+.06
+Myeloma
+15
+6.2 (6.2–6.3)
+1.3 (0.8–1.5)
+g
+.003
+5.2 (5.2–5.3)
+1.4 (1.2–1.6)
+g
+< .001
+13.9 (13.6–14.1)
+2.0 (1.7–2.2)
+g
+< .001
+3.5 (3.3–3.7)
+1.2 (0.7–1.7)
+g
+< .001
+7.3 (6.4–8.4)
+1.1 (−0.3, 2.6)
+.11
+6.2 (6.1–6.4)
+−1.3 (−3.5, 0.7)
+.17
+Brain and other nervous system
+16
+5.5 (5.4–5.5)
+−0.5 (−0.9, −0.4)
+g
+.004
+6.2 (6.2–6.3)
+−0.4 (−0.8, −0.2)
+g
+.006
+3.6 (3.4–3.7)
+−0.4 (−0.7, 0.0)
+.07
+3.2 (3.0–3.4)
+0.0 (−0.5, 0.5)
+.93
+5.4 (4.6–6.3)
+0.9 (−1.2, 3.4)
+.32
+4.7 (4.5–4.8)
+0.5 (−0.2, 2.3)
+.12
+Liver and intrahepatic bile duct
+17
+5.1 (5.0–5.1)
+1.7 (0.5–2.3)
+g
+.02
+4.3 (4.3–4.4)
+2.2 (0.9–3.1)
+g
+.002
+5.6 (5.4–5.7)
+−1.2 (−3.8, 0.4)
+.13
+6.7 (6.5–7.0)
+−3.1 (−6.9, −1.7)
+g
+< .001
+13.0 (11.8–14.4)
+3.5 (2.3–5.1)
+g
+< .001
+8.4 (8.2–8.6)
+2.4 (2.1–2.7)
+g
+< .001
+Stomach
+18
+4.9 (4.9–5.0)
+3.2 (2.2–3.9)
+g
+< .001
+3.6 (3.6–3.7)
+3.0 (1.2–4.2)
+g
+< .001
+8.0 (7.8–8.2)
+4.3 (0.7–6.0)
+g
+.02
+7.0 (6.8–7.2)
+−2.5 (−2.9, −2.1)
+g
+< .001
+8.0 (7.0–9.1)
+0.2 (−1.0, 1.7)
+.64
+8.0 (7.8–8.2)
+0.7 (0.1–1.7)
+g
+.02
+Children
+Leukemia
+5.2 (5.1–5.3)
+0.5 (0.2, 0.8)
+g
+< .001
+5.1 (5.0–5.2)
+0.3 (0.0–0.6)
+.07
+3.2 (3.0–3.4)
+0.9 (0.3–1.5)
+g
+.003
+5.3 (4.9–5.7)
+0.4 (−0.3, 1.3)
+.25
+6.1 (4.9–7.6)
+−6.7 (−18.4, 0.9)
+.07
+6.5 (6.3–6.7)
+0.8 (0.2–1.3)
+g
+.004
+Brain and other nervous system
+3.6 (3.6–3.7)
+−2.9 (−6.2, −0.1)
+g
+.05
+4.1 (4.0–4.2)
+−4.1 (−8.4, −0.3)
+g
+.04
+3.0 (2.8–3.1)
+1.0 (0.0–2.0)
+g
+.05
+2.9 (2.6–3.2)
+0.7 (−0.2, 1.6)
+.11
+4.4 (3.4–5.6)
+—
+h
+3.0 (2.8–3.1)
+0.0 (−0.5, 0.4)
+.86
+Lymphoma
+1.6 (1.6–1.7)
+0.6 (0.3, 1.0)
+g
+< .001
+1.7 (1.6–1.7)
+0.8 (0.2–1.3)
+g
+.008
+1.5 (1.4–1.6)
+−0.4 (−5.6, 0.7)
+.40
+1.6 (1.4–1.8)
+0.8 (−0.6, 2.4)
+.21
+—
+i
+—
+h
+1.5 (1.4–1.6)
+0.3 (−0.2, 0.9)
+.23
+AYAs
+Female breast
+23.7 (23.5–23.9)
+1.3 (0.9–2.1)
+g
+< .001
+24.2 (23.9–24.5)
+1.1 (0.8–1.9)
+g
+< .001
+27.3 (26.7–28.0)
+0.4 (0.1–0.6)
+g
+.004
+21.8 (21.0–22.5)
+3.9 (1.1–5.7)
+g
+.001
+22.7 (19.8–25.8)
+1.4 (0.0–3.0)
+.06
+19.9 (19.5–20.4)
+2.5 (1.6–4.5)
+g
+.001
+Thyroid
+11.4 (11.3–11.5)
+−1.5 (−3.0, −0.7)
+g
+.004
+12.7 (12.5–12.8)
+−1.6 (−3.1, −0.7)
+g
+< .001
+4.8 (4.6–5.0)
+−3.4 (−6.0–−1.8)
+g
+< .001
+12.9 (12.5–13.3)
+0.6 (−0.5, 1.4)
+.24
+14.1 (12.5–15.8)
+4.8 (3.5–6.4)
+g
+< .001
+11.0 (10.7–11.2)
+0.8 (−1.4, 2.1)
+.32
+Testis
+11.1 (11.0–11.3)
+0.7 (0.6–0.8)
+g
+< .001
+13.2 (13.0–13.4)
+−1.0 (−2.4, 0.0)
+.05
+2.7 (2.5–2.9)
+0.6 (−0.4, 1.7)
+.21
+4.2 (3.9–4.6)
+2.6 (1.9–3.4)
+g
+< .001
+15.9 (13.6–18.5)
+1.7 (0.5–3.0)
+g
+.004
+12.5 (12.2–12.8)
+3.0 (2.6–3.4)
+g
+< .001
+Lymphoma
+7.5 (7.4–7.6)
+−0.4 (−0.6, −0.3)
+g
+< .001
+8.0 (7.8–8.1)
+−0.8 (−1.7, −0.6)
+g
+< .001
+8.3 (8.1–8.5)
+1.3 (−0.4, 2.6)
+.15
+5.7 (5.5–6.0)
+1.9 (1.6–2.3)
+g
+< .001
+6.2 (5.2–7.4)
+0.7 (−1.1, 2.5)
+.43
+6.3 (6.2–6.5)
+3.1 (1.2–4.3)
+g
+< .001
+Melanoma of the skin
+6.3 (6.2–6.4)
+−1.3 (−3.9, −1.0)
+g
+.01
+10.2 (10.0–10.3)
+−0.7 (−1.9, −0.4)
+g
+.003
+0.2 (0.2–0.2)
+−2.1 (−4.2, −0.2)
+g
+.03
+0.4 (0.4–0.5)
+−2.2 (−4.0, −0.4)
+g
+.02
+4.1 (3.2–5.1)
+0.5 (−1.0, 2.0)
+.50
+1.3 (1.2–1.4)
+0.2 (−1.0, 3.7)
+.67
+Colon and rectum
+5.3 (5.3–5.4)
+1.2 (−0.7, 2.2)
+.14
+5.8 (5.7–5.9)
+1.4 (−0.3, 2.2)
+.09
+5.0 (4.8–5.2)
+1.9 (1.5–2.4)
+g
+< .001
+3.7 (3.5–3.9)
+3.1 (1.9–6.1)
+g
+.002
+7.3 (6.1–8.5)
+2.7 (0.9–4.8)
+g
+.004
+4.7 (4.6–4.9)
+2.3 (−0.2, 5.1)
+.06
+Abbreviations: AAPC, average annual percent change; AI/AN, American Indian/Alaska Native; API, Asian/Pacific Islander; AYAs, adolescents and young adults; NOS, not otherwise specified; PRCDA, Indian Health Service Purchased/Referred Care Delivery Area.
+a
+Rates are per 100,000 persons and were age standardized to the 2000 US standard population (19 age groups [ages <1 year, 1–4 years, 5–9 years, …, 80–84 years, ≥85 years]; US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000).
+b
+The AAPC is a weighted average of the annual percent changes over the fixed interval 2017–2021 using the underlying joinpoint model for the period 2001–2021. Joinpoint models with up to three joinpoints are based on rates per 100,000 persons and are age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Joinpoint Regression Program, version 5.2.0.0. Statistical Research and Applications Branch, National Cancer Institute; 2024.
+c
+Cancers are sorted in descending order according to sex‐specific rates for all racial/ethnic groups. More than 15 cancers may appear under males and females to include the top 15 cancers in every racial/ethnic group.
+d
+White, Black, API, and AI/AN (PRCDA 2020 counties) include non‐Hispanic; the racial/ethnic categories are mutually exclusive.
+e
+Source: National Program of Cancer Registries and Surveillance, Epidemiology, and End Results areas reported by the North American Association of Central Cancer Registries as meeting high‐quality incidence data standards for the specified time periods. Registries included in the Joinpoint models (2001–2021) for all racial/ethnic groups, White, Black, AI/AN, API, Hispanic, and non‐Hispanic (43 states, District of Columbia): Alabama, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming. Registries included in the incidence rates (2017–2021) for all racial/ethnic groups, White, Black, AI/AN, API, Hispanic, and non‐Hispanic (47 states, District of Columbia and one territory): Alabama, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming.
+f
+For all sites, myelodysplastic syndromes are included for the rate and average percent change calculations; they are excluded from cancer‐specific analysis. Ovary excludes borderline tumors.
+g
+The AAPC is statistically significantly different from zero (two‐sided p < .05).
+h
+The statistic could not be calculated. The AAPC is based on <10 cases for at least 1 year within the time interval.
+i
+The statistic could not be calculated. The age‐adjusted rate was based on <20 cases for the 5‐year time period.
+FIGURE 1
+Trends in age‐standardized incidence (2001−2021) and mortality (2001−2022) rates are illustrated for all cancer sites combined, all ages, and all racial/ethnic groups combined, by sex. Trends were estimated using joinpoint regression and were characterized using the annual percent change (APC), the slope of a single segment, and the average APC (AAPC), a summary measure of the APCs over a fixed 5‐year interval. Scattered points are observed rates; lines are fitted rates according to joinpoint regression. An asterisk (*) indicates that the APC or AAPC is statistically significantly different from zero (p < .05); 95% confidence limits are given in parentheses.
+TABLE 2
+Joinpoint trends
+a
+ in age‐standardized, delay‐adjusted incidence rates for the most common cancers,
+b
+ all racial/ethnic groups combined by sex and age group, for areas in the United States with high‐quality incidence data,
+c
+ 2001–2021.
+Sex/cancer site or type
+Joinpoint analyses, 2001–2021
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+All sites
+e
+Both sexes
+2001–2003
+−1.6 (−2.3, −0.6)
+f
+.001
+2003–2008
+0.2 (0.0–0.9)
+.08
+2008–2012
+−1.4 (−2.0, −0.9)
+f
+.01
+2012–2021
+0.1 (−0.1, 0.3)
+.18
+Males
+2001–2004
+−1.6 (−2.9, −0.7)
+f
+< .001
+2004–2007
+0.6 (−1.5, 1.2)
+.25
+2007–2013
+−2.2 (−2.8, −1.5)
+f
+.02
+2013–2021
+−0.1 (−0.4, 0.2)
+.41
+Females
+2001–2003
+−1.1 (−1.8, 0.2)
+.23
+2003–2021
+0.3 (0.1–0.6)
+f
+.05
+Children, aged birth to 14 years
+2001–2003
+−1.0 (−2.4, 1.1)
+.51
+2003–2015
+1.3 (0.9–2.3)
+f
+.03
+2015–2021
+−0.8 (−1.8, −0.1)
+f
+.02
+AYAs, aged 15–39 years
+2001–2015
+0.9 (0.8–1.8)
+f
+.002
+2015–2021
+0.3 (−0.9, 0.7)
+.40
+Males
+Prostate
+2001–2004
+−5.2 (−9.3, −2.9)
+f
+< .001
+2004–2007
+3.0 (−0.3, 5.0)
+.07
+2007–2014
+−6.4 (−8.0, −5.4)
+f
+.01
+2014–2021
+2.9 (1.8–4.3)
+f
+.002
+Lung and bronchus
+2001–2006
+−1.5 (−1.9, −0.6)
+f
+.02
+2006–2018
+−2.5 (−2.6, −2.3)
+f
+< .001
+2018–2021
+−3.8 (−4.7, −3.0)
+f
+< .001
+Colon and rectum
+2001–2012
+−3.3 (−3.5, −3.1)
+f
+< .001
+2012–2021
+−1.0 (−1.3, −0.7)
+f
+< .001
+Urinary bladder
+2001–2004
+0.1 (−0.6, 1.2)
+.75
+2004–2014
+−0.7 (−1.4, −0.6)
+f
+< .001
+2014–2021
+−1.5 (−2.0, −1.3)
+f
+< .001
+Melanoma of the skin
+2001–2016
+2.1 (1.9–2.4)
+f
+< .001
+2016–2021
+0.1 (−1.4, 1.0)
+.84
+Kidney and renal pelvis
+2001–2007
+3.1 (2.6–3.7)
+f
+< .001
+2007–2011
+−0.2 (−1.1, 0.7)
+.44
+2011–2016
+1.6 (1.1–2.5)
+f
+.03
+2016–2021
+0.6 (−0.1, 1.1)
+.09
+Non‐Hodgkin lymphoma
+2001–2004
+1.1 (0.2–2.7)
+f
+.01
+2004–2015
+0.0 (−0.9, 0.2)
+.98
+2015–2021
+−0.9 (−1.7, −0.4)
+f
+.009
+Leukemia
+2001–2007
+−0.1 (−1.9, 0.6)
+.75
+2007–2013
+1.9 (1.3–3.5)
+f
+.001
+2013–2021
+−0.2 (−0.7, 0.2)
+.33
+Oral cavity and pharynx
+2001–2021
+0.8 (0.7–0.9)
+f
+< .001
+Pancreas
+2001–2021
+1.1 (1.0–1.2)
+f
+< .001
+Liver and intrahepatic bile duct
+2001–2009
+4.5 (4.1–5.3)
+f
+< .001
+2009–2015
+2.8 (1.9–3.4)
+f
+.003
+2015–2021
+−0.3 (−1.1, 0.2)
+.20
+Myeloma
+2001–2007
+0.7 (−0.3, 1.2)
+.09
+2007–2014
+2.6 (2.2–3.5)
+f
+< .001
+2014–2021
+0.5 (0.0–0.8)
+f
+.05
+Stomach
+2001–2006
+−2.1 (−3.9, −1.4)
+f
+.002
+2006–2014
+−0.5 (−0.8, 1.0)
+.31
+2014–2018
+−2.1 (−3.4, −1.4)
+f
+.005
+2018–2021
+1.1 (−0.5, 2.2)
+.10
+Esophagus
+2001–2008
+0.2 (−0.3, 1.0)
+.38
+2008–2011
+−3.1 (−3.8, −1.4)
+f
+< .001
+2011–2021
+−0.2 (−0.5, 0.4)
+.32
+Brain and other nervous system
+2001–2008
+−0.1 (−0.4, 1.8)
+.70
+2008–2021
+−0.5 (−2.0, −0.4)
+f
+.006
+Thyroid
+2001–2009
+7.1 (6.4–8.0)
+f
+< .001
+2009–2014
+1.9 (0.7–3.8)
+f
+.002
+2014–2021
+−1.1 (−2.1, −0.5)
+f
+.001
+Testis
+2001–2021
+0.5 (0.4–0.6)
+f
+< .001
+Larynx
+2001–2008
+−2.1 (−2.4, −1.0)
+f
+.001
+2008–2021
+−2.6 (−3.1, −2.5)
+f
+< .001
+Females
+Breast
+2001–2004
+−2.9 (−4.8, −1.9)
+f
+< .001
+2004–2017
+0.5 (0.2–0.7)
+f
+.02
+2017–2021
+1.6 (0.9–2.4)
+f
+< .001
+Lung and bronchus
+2001–2007
+0.5 (0.1–1.0)
+f
+.02
+2007–2011
+−1.5 (−2.2, −1.0)
+f
+.02
+2011–2018
+−0.7 (−0.9, 0.1)
+.08
+2018–2021
+−2.5 (−3.3, −1.7)
+f
+< .001
+Colon and rectum
+2001–2008
+−2.4 (−2.6, −2.0)
+f
+< .001
+2008–2011
+−4.1 (−4.6, −3.2)
+f
+.006
+2011–2021
+−0.7 (−0.9, −0.5)
+f
+.002
+Corpus and uterus, NOS
+2001–2003
+−2.3 (−3.1, −1.0)
+f
+< .001
+2003–2016
+1.4 (1.3–1.7)
+f
+< .001
+2016–2021
+0.8 (0.3–1.2)
+f
+.01
+Thyroid
+2001–2009
+7.3 (6.8–7.9)
+f
+< .001
+2009–2013
+2.4 (0.9–4.1)
+f
+.004
+2013–2021
+−1.9 (−2.4, −1.4)
+f
+< .001
+Melanoma of the skin
+2001–2021
+1.7 (1.5–2.0)
+f
+< .001
+Non‐Hodgkin lymphoma
+2001–2003
+1.3 (0.1–2.2)
+f
+.04
+2003–2016
+−0.2 (−0.3, 0.0)
+f
+.04
+2016–2021
+−1.0 (−1.7, −0.6)
+f
+< .001
+Kidney and renal pelvis
+2001–2006
+4.0 (3.0–5.2)
+f
+< .001
+2006–2013
+0.2 (−1.0, 3.3)
+.50
+2013–2017
+1.9 (0.0–3.1)
+.05
+2017–2021
+0.2 (−1.2, 1.1)
+.72
+Pancreas
+2001–2021
+1.1 (1.0–1.2)
+f
+< .001
+Leukemia
+2001–2008
+0.3 (−1.2, 0.8)
+.50
+2008–2011
+3.2 (1.6–4.0)
+f
+.004
+2011–2021
+0.2 (−0.2, 0.5)
+.26
+Ovary
+2001–2021
+−1.6 (−1.7, −1.5)
+f
+< .001
+Urinary bladder
+2001–2004
+0.2 (−0.9, 1.9)
+.86
+2004–2021
+−1.0 (−1.7, −0.9)
+f
+< .001
+Cervix
+2001–2003
+−3.5 (−4.6, −1.5)
+f
+< .001
+2003–2013
+−1.2 (−1.5, −0.4)
+f
+.02
+2013–2016
+1.9 (0.5–2.6)
+f
+.04
+2016–2021
+−0.7 (−1.9, 0.0)
+f
+.05
+Oral cavity and pharynx
+2001–2003
+−1.6 (−2.8, 0.3)
+.10
+2003–2021
+0.6 (0.5–0.7)
+f
+.004
+Myeloma
+2001–2007
+0.2 (−1.3, 0.8)
+.69
+2007–2011
+3.3 (2.2–4.7)
+f
+< .001
+2011–2021
+1.3 (0.8–1.5)
+f
+.007
+Brain and other nervous system
+2001–2004
+1.3 (−0.3, 3.8)
+.11
+2004–2021
+−0.5 (−1.0, −0.4)
+f
+.004
+Liver and intrahepatic bile duct
+2001–2015
+3.8 (3.6–4.2)
+f
+< .001
+2015–2021
+1.7 (0.5–2.3)
+f
+.02
+Stomach
+2001–2008
+−1.1 (−2.6, −0.6)
+f
+.002
+2008–2018
+0.1 (−0.3, 0.7)
+.71
+2018–2021
+4.3 (2.6–5.2)
+f
+< .001
+Children
+Leukemia
+2001–2021
+0.5 (0.2–0.8)
+f
+< .001
+Brain and other nervous system
+2001–2017
+0.7 (0.4–2.0)
+f
+.005
+2017–2021
+−2.9 (−8.1, −0.1)
+f
+.05
+Lymphoma
+2001–2021
+0.6 (0.3–1.0)
+f
+< .001
+AYAs
+Female breast
+2001–2011
+0.1 (−0.8, 0.5)
+.65
+2011–2021
+1.3 (0.9–2.1)
+f
+< .001
+Thyroid
+2001–2009
+6.0 (5.2–8.1)
+f
+< .001
+2009–2014
+2.7 (0.5–4.5)
+f
+.03
+2014–2021
+−1.5 (−3.0, −0.7)
+f
+.006
+Testis
+2001–2021
+0.7 (0.6–0.8)
+f
+< .001
+Lymphoma
+2001–2021
+−0.4 (−0.6, −0.3)
+f
+< .001
+Melanoma of the skin
+2001–2005
+0.9 (−1.0, 5.8)
+.44
+2005–2021
+−1.3 (−4.5, −1.0)
+f
+.01
+Colon and rectum
+2001–2013
+2.1 (1.3–2.6)
+f
+.006
+2013–2016
+7.8 (4.7–9.3)
+f
+.001
+2016–2021
+1.2 (−1.0, 2.2)
+.16
+Abbreviations: AAPC, average annual percent change; APC, annual percent change; AYAs, adolescents and young adults; CI, confidence interval; NOS, not otherwise specified.
+a
+Joinpoint models with up to three joinpoints are based on rates per 100,000 persons and are age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Joinpoint Regression Program, version 5.2.0.0. Statistical Research and Applications Branch, National Cancer Institute; 2024.
+b
+Cancers are listed in descending rank order of sex‐specific, age‐adjusted incidence rates for 2017–2021 for all racial/ethnic groups combined (using data from National Program of Cancer Registries and Surveillance, Epidemiology and End Results Program areas reported by the North American Association of Central Cancer Registries as meeting high‐quality incidence data standards for 2001–2021). More than 15 cancers may appear under men and women to include the top 15 cancers in each racial/ethnic group.
+c
+Source: National Program of Cancer Registries and Surveillance, Epidemiology, and End Results areas reported by the North American Association of Central Cancer Registries as meeting high‐quality incidence data standards for the specified time periods. Registries included in the joinpoint models (2001–2021) for all racial/ethnic groups, White, Black, AI/AN, API, Hispanic, and non‐Hispanic (43 states, District of Columbia): Alabama, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, Wyoming.
+dThe AAPC is the average annual percent change is a weighted average of the APCs over the fixed interval 2017–2021 using the underlying joinpoint model for the period of 2001–2021.
+e
+For all sites, myelodysplastic syndromes are included for the APC calculations; they are excluded from cancer‐specific analysis. Ovary excludes borderline tumors.
+f
+The APC or AAPC is statistically significantly different from zero (two‐sided t‐test; p < .05).
+For both sexes combined, the overall cancer incidence rate during the 4‐year period (2017–2019/2021) was highest among AI/AN persons, followed by White persons, and then Black persons. Hispanic persons had comparatively lower overall cancer incidence rates, and rates were lowest among API persons (Table 1). Overall cancer incidence rates were higher among males than among females of every race and ethnicity except API persons, among whom the rate was higher in females (318.6 vs. 305.5 per 100,000). For all cancers combined, by sex, incidence rates were highest among Black males and among AI/AN females (Table 1).
+Trends in cancer incidence rates for all sites combined during the 5‐year period (2017–2021) were stable among males for all races and ethnicities combined and separately (Table 1). In contrast, rates increased for females for all races and ethnicities combined and separately. After increasing by 1.3% per year since 2003, the childhood cancer incidence rate began to decrease by 0.8% per year in 2015 overall (Table 2). However, rates are only declining among White children (Table 1). The rate is increasing by 0.8%–2.0% among API, AI/AN, and Hispanic children, and it is stable among Black children. Similarly, the cancer incidence rate in AYAs is declining among White AYAs but is increasing by 1.6%–2.5% per year among API, AI/AN, and Hispanic AYAs. The rates were stable among Black AYAs (Table 1).
+Among males, incidence rates increased during 2017–2021 for six of the 18 most common cancers (prostate, pancreas, oral cavity and pharynx, kidney and renal pelvis, myeloma, and testis), whereas the rates were stable for five (stomach, melanoma of the skin, esophagus, leukemia, and liver and intrahepatic bile duct). Among males, incidence rates decreased during 2017–2021 for seven of the top 18 cancers among males (brain and other nervous system, non‐Hodgkin lymphoma, colon and rectum, thyroid, urinary bladder, larynx, and lung and bronchus; Table 1, Figure 2A). The steepest increasing trend was for prostate cancer (AAPC, 2.9% for all races and ethnicities combined), the most common cancer in males, with AAPCs ranging from 1.3% per year in Hispanic males to 4.0% per year in API males. The steepest declining trend was for lung cancer (AAPC, −3.4%), the second most common cancer in males, and laryngeal cancer (AAPC, −2.6%). Lung cancer incidence rates among males decreased for all races and ethnicities, with the most rapid pace among White and Black males (AAPC, −3.3% and −3.2%, respectively). Colorectal cancer incidence rates declined by 0.8% per year in White males and 0.9% in Hispanic males. The colorectal cancer incidence rate was stable in AI/AN, Black, and API males. Incidence rates for fourth‐ranking bladder cancer declined in White, API, and Hispanic males and were stable in Black and AI/AN males (Table 1).
+FIGURE 2
+Average annual percent changes (AAPCs) in age‐standardized, delay‐adjusted incidence rates for 2017–2021 are illustrated for all sites and for the 18 most common cancers in males and females, all ages, and all racial/ethnic groups combined, by sex. The AAPC was a weighted average of the annual percent changes over the fixed 5‐year interval using the underlying joinpoint regression model. AAPCs with an asterisk (*) were statistically significantly different from zero (p < .05) and are depicted as solid‐colored bars; AAPCs with hash marks were not statistically significantly different from zero (stable). NOS indicates not otherwise specified.
+Among females, incidence rates increased during 2017–2021 for eight of the 18 most common cancers (stomach, liver and intrahepatic bile duct, melanoma of the skin, breast, myeloma, pancreas, corpus and uterus not otherwise specified, and oral cavity and pharynx), and two were stable (leukemia and kidney and renal pelvis). Among females, incidence rates decreased during 2017–2021 for eight of the top 18 cancers among females (brain and other nervous system, cervix, colon and rectum, urinary bladder, non‐Hodgkin lymphoma, ovary, thyroid, and lung and bronchus; Table 1, Figure 2B). The steepest increase was for stomach cancer for all races and ethnicities combined (AAPC, 3.2%), driven by increases among White (AAPC, 3.0%) and Black (AAPC, 4.3%) females. API females had declining stomach cancer rates (AAPC, −2.5%); AI/AN females had stable stomach cancer rates; and, among Hispanic females, the steepest increase was for uterine cancer (AAPC, 2.7%) despite a modest increase in stomach cancer (AAPC, 0.7%). For breast cancer, the most common cancer in females, incidence rates increased among all females, with the greatest increase of 3.3% per year among API females and the smallest of 0.8% per year among Black females. Lung cancer incidence rates decreased among most females by 0.5%–2.0% per year, depending on race and ethnicity, but were stable among AI/AN females. Colorectal cancer incidence rates decreased in White and Black females but were stable among API, AI/AN, and Hispanic females. Incidence rates for uterine corpus cancer, the fourth most common cancer among females, increased by 2.2%–2.7% per year for every race and ethnicity except White females, among whom rates were stable (Table 1).
+2020 rates and rankings
+Cancer incidence rates for 2020 were 425.6 overall, 460.5 for males, and 403.7 for females (Table 3), representing an approximately 8% decrease compared with the 4‐year aggregated rates regardless of sex (Table 1).
+TABLE 3
+Age‐standardized, delay‐adjusted incidence rates
+a
+ (2020) for the most common cancers,
+b
+ all ages, by sex, age group, and racial/ethnic group
+c
+ for areas in the United States with high‐quality incidence data.
+d
+Sex/cancer site or type
+Rank
+Rate (95% CI)
+All racial/ethnic groups
+Non‐Hispanic White
+Non‐Hispanic Black
+Non‐Hispanic API
+Non‐Hispanic AI/AN: PRCDA
+Hispanic
+All sites
+e
+Both sexes
+425.6 (424.9–426.2)
+449.7 (448.9–450.6)
+429.2 (427.2–431.3)
+277.6 (275.4–279.9)
+467.7 (456.3–479.3)
+331.6 (329.9–333.3)
+Males
+460.5 (459.5–461.5)
+483.5 (482.2–484.7)
+492.3 (488.9–495.7)
+270.6 (267.2–274.0)
+494.9 (477.3–513.0)
+346.5 (343.9–349.1)
+Females
+403.7 (402.8–404.6)
+428.6 (427.4–429.7)
+388.2 (385.6–390.8)
+288.3 (285.2–291.5)
+453.2 (438.0–468.8)
+328.3 (326.1–330.5)
+Children, aged birth to 14 years
+16.7 (16.3–17.0)
+17.2 (16.7–17.7)
+13.4 (12.6–14.2)
+15.3 (14.0–16.6)
+20.4 (15.9–25.7)
+17.1 (16.4–17.8)
+AYAs, aged 15–39 years
+73.3 (72.7–73.8)
+79.7 (79.0–80.5)
+60.8 (59.5–62.1)
+55.6 (53.9–57.3)
+84.7 (77.0–93.0)
+67.0 (65.9–68.1)
+Males
+Prostate
+1
+109.4 (108.9–109.9)
+106.8 (106.2–107.4)
+174.0 (172.0–176.0)
+56.0 (54.5–57.6)
+91.1 (83.5–99.3)
+85.9 (84.5–87.2)
+Lung and bronchus
+2
+54.9 (54.5–55.2)
+59.0 (58.6–59.4)
+63.4 (62.1–64.6)
+35.6 (34.4–36.8)
+62.6 (56.4–69.2)
+28.4 (27.6–29.2)
+Colon and rectum
+3
+38.3 (38.0–38.6)
+38.5 (38.1–38.9)
+45.1 (44.1–46.2)
+29.5 (28.4–30.6)
+55.0 (49.3–61.2)
+35.3 (34.5–36.1)
+Urinary bladder
+4
+31.4 (31.1–31.7)
+36.1 (35.8–36.5)
+18.3 (17.6–19.0)
+13.6 (12.8–14.4)
+22.4 (18.7–26.6)
+17.4 (16.7–18.0)
+Melanoma of the skin
+5
+26.1 (25.9–26.4)
+34.6 (34.3–35.0)
+1.0 (0.8–1.2)
+1.2 (1.0–1.5)
+13.5 (10.5–17.0)
+4.4 (4.1–4.7)
+Kidney and renal pelvis
+6
+22.6 (22.4–22.9)
+23.2 (23.0–23.5)
+24.2 (23.5–25.0)
+11.2 (10.5–11.9)
+42.5 (37.6–47.8)
+21.3 (20.7–21.9)
+Non‐Hodgkin lymphoma
+7
+21.6 (21.4–21.8)
+23.2 (22.9–23.5)
+15.8 (15.2–16.4)
+14.9 (14.1–15.7)
+20.6 (17.1–24.5)
+18.3 (17.8–18.9)
+Leukemia
+8
+18.2 (18.0–18.5)
+20.0 (19.7–20.2)
+13.4 (12.9–14.0)
+9.9 (9.2–10.5)
+16.8 (13.6–20.5)
+13.6 (13.1–14.2)
+Oral cavity and pharynx
+9
+17.7 (17.5–17.9)
+20.1 (19.8–20.3)
+12.5 (12.0–13.0)
+11.7 (11.0–12.4)
+20.8 (17.5–24.5)
+10.5 (10.1–10.9)
+Pancreas
+10
+15.3 (15.1–15.4)
+15.6 (15.4–15.8)
+18.0 (17.4–18.7)
+10.2 (9.5–10.8)
+18.1 (15.0–21.8)
+12.3 (11.8–12.8)
+Liver and intrahepatic bile duct
+11
+12.3 (12.2–12.5)
+10.6 (10.4–10.8)
+14.7 (14.1–15.2)
+15.8 (15.0–16.7)
+27.3 (23.5–31.5)
+17.9 (17.4–18.5)
+Myeloma
+12
+8.7 (8.5–8.8)
+7.9 (7.8–8.1)
+16.8 (16.1–17.5)
+4.9 (4.4–5.4)
+7.5 (5.5–9.9)
+8.2 (7.8–8.6)
+Stomach
+13
+7.8 (7.7–7.9)
+6.6 (6.5–6.8)
+12.1 (11.5–12.6)
+9.9 (9.2–10.5)
+12.6 (9.9–15.8)
+10.0 (9.6–10.4)
+Esophagus
+14
+7.5 (7.4–7.7)
+8.6 (8.5–8.8)
+5.3 (5.0–5.7)
+3.6 (3.2–4.0)
+9.0 (6.8–11.7)
+4.5 (4.2–4.8)
+Brain and other nervous system
+15
+7.4 (7.3–7.5)
+8.5 (8.3–8.6)
+4.6 (4.3–4.9)
+4.7 (4.3–5.2)
+6.1 (4.2–8.4)
+5.9 (5.6–6.2)
+Thyroid
+16
+6.5 (6.4–6.6)
+7.3 (7.1–7.5)
+3.1 (2.9–3.4)
+6.0 (5.5–6.5)
+7.1 (5.1–9.5)
+5.7 (5.4–6.0)
+Testis
+17
+5.8 (5.6–5.9)
+6.9 (6.7–7.0)
+1.6 (1.4–1.8)
+2.4 (2.1–2.7)
+6.2 (4.5–8.3)
+6.0 (5.7–6.2)
+Larynx
+18
+4.6 (4.5–4.7)
+4.8 (4.7–4.9)
+6.5 (6.1–6.9)
+1.7 (1.4–2.0)
+5.3 (3.7–7.4)
+3.7 (3.5–4.0)
+Females
+Breast
+1
+123.7 (123.2–124.2)
+130.5 (129.8–131.1)
+125.3 (123.8–126.8)
+99.1 (97.3–101.0)
+111.6 (104.1–119.4)
+95.7 (94.6–96.9)
+Lung and bronchus
+2
+44.5 (44.2–44.8)
+50.2 (49.9–50.6)
+41.0 (40.1–41.8)
+24.9 (24.0–25.9)
+54.2 (49.2–59.7)
+20.8 (20.3–21.4)
+Colon and rectum
+3
+29.8 (29.5–30.0)
+30.3 (30.0–30.6)
+32.6 (31.8–33.3)
+22.1 (21.2–23.0)
+40.7 (36.2–45.6)
+26.2 (25.6–26.8)
+Corpus and uterus, NOS
+4
+26.6 (26.4–26.8)
+26.5 (26.2–26.8)
+28.4 (27.8–29.1)
+21.0 (20.2–21.8)
+31.0 (27.1–35.2)
+25.4 (24.8–26.0)
+Thyroid
+5
+17.4 (17.2–17.6)
+18.0 (17.7–18.3)
+10.6 (10.2–11.1)
+18.4 (17.6–19.2)
+20.7 (17.4–24.3)
+19.4 (18.9–19.9)
+Melanoma of the skin
+6
+17.0 (16.8–17.1)
+23.9 (23.6–24.2)
+0.9 (0.7–1.0)
+1.3 (1.1–1.5)
+9.5 (7.3–12.2)
+4.2 (4.0–4.5)
+Non‐Hodgkin lymphoma
+7
+14.8 (14.7–15.0)
+15.7 (15.5–15.9)
+10.8 (10.4–11.2)
+11.4 (10.8–12.0)
+13.4 (10.9–16.3)
+14.4 (14.0–14.9)
+Kidney and renal pelvis
+8
+11.9 (11.7–12.0)
+11.8 (11.6–11.9)
+14.9 (14.4–15.4)
+9.1 (8.6–9.7)
+14.7 (12.1–17.7)
+10.6 (10.2–11.0)
+Pancreas
+9
+11.5 (11.3–11.6)
+12.3 (12.1–12.5)
+9.3 (8.9–9.7)
+6.9 (6.4–7.4)
+11.8 (9.4–14.5)
+9.8 (9.4–10.2)
+Leukemia
+10
+11.2 (11.1–11.4)
+11.3 (11.1–11.5)
+12.7 (12.3–13.2)
+4.9 (4.5–5.3)
+22.7 (19.5–26.4)
+11.7 (11.3–12.1)
+Ovary
+11
+9.7 (9.6–9.8)
+9.9 (9.8–10.1)
+8.4 (8.0–8.8)
+9.1 (8.5–9.7)
+13.2 (10.8–16.1)
+9.1 (8.7–9.5)
+Urinary bladder
+12
+7.7 (7.5–7.8)
+8.7 (8.6–8.9)
+6.2 (5.8–6.5)
+3.4 (3.1–3.8)
+5.2 (3.7–7.0)
+4.7 (4.4–5.0)
+Cervix
+13
+7.2 (7.0–7.3)
+6.7 (6.5–6.8)
+7.7 (7.3–8.1)
+5.9 (5.4–6.3)
+11.1 (8.8–13.9)
+9.1 (8.8–9.5)
+Oral cavity and pharynx
+14
+6.5 (6.4–6.6)
+7.2 (7.0–7.3)
+4.7 (4.4–5.0)
+5.0 (4.6–5.4)
+6.7 (4.9–8.9)
+4.5 (4.2–4.8)
+Myeloma
+15
+6.0 (5.9–6.1)
+5.2 (5.0–5.3)
+13.0 (12.5–13.5)
+3.3 (3.0–3.7)
+7.0 (5.2–9.1)
+5.7 (5.4–6.0)
+Brain and other nervous system
+16
+5.4 (5.2–5.5)
+6.1 (5.9–6.2)
+3.7 (3.5–4.0)
+3.3 (3.0–3.7)
+4.1 (2.7–5.8)
+4.6 (4.3–4.8)
+Liver and intrahepatic bile duct
+17
+4.9 (4.8–5.0)
+4.2 (4.1–4.3)
+5.2 (4.9–5.5)
+6.1 (5.7–6.6)
+12.9 (10.6–15.6)
+7.6 (7.3–8.0)
+Stomach
+18
+4.3 (4.2–4.4)
+3.2 (3.1–3.3)
+7.0 (6.7–7.4)
+6.1 (5.6–6.5)
+6.6 (4.9–8.6)
+6.8 (6.5–7.1)
+Children
+Leukemia
+5.3 (5.1–5.5)
+5.3 (5.0–5.5)
+3.5 (3.2–4.0)
+5.8 (5.0–6.6)
+6.3 (3.9–9.6)
+6.4 (6.0–6.8)
+Brain and ONS
+3.3 (3.1–3.4)
+3.7 (3.4–3.9)
+2.5 (2.1–2.8)
+2.3 (1.9–2.9)
+—
+f
+3.0 (2.7–3.3)
+Lymphoma
+1.5 (1.4–1.6)
+1.7 (1.6–1.9)
+1.4 (1.1–1.6)
+1.2 (0.9–1.6)
+—
+f
+1.3 (1.1–1.5)
+AYAs
+Female breast
+23.6 (23.2–24.0)
+23.9 (23.3–24.5)
+27.7 (26.5–29.0)
+20.7 (19.3–22.1)
+18.3 (13.3–24.4)
+20.4 (19.6–21.3)
+Testis
+11.0 (10.7–11.2)
+12.7 (12.3–13.1)
+2.5 (2.1–2.8)
+5.1 (4.5–5.9)
+13.1 (9.2–18.0)
+13.1 (12.5–13.8)
+Thyroid
+10.1 (9.9–10.3)
+11.3 (11.0–11.5)
+4.5 (4.2–4.9)
+11.1 (10.4–11.9)
+13.5 (10.6–17.0)
+9.7 (9.3–10.1)
+Lymphoma
+7.1 (6.9–7.3)
+7.6 (7.4–7.9)
+7.5 (7.1–8.0)
+5.5 (5.0–6.0)
+4.6 (3.0–6.8)
+6.0 (5.7–6.3)
+Melanoma of the skin
+5.4 (5.3–5.6)
+8.7 (8.4–8.9)
+0.2 (0.1–0.3)
+0.4 (0.3–0.6)
+4.0 (2.4–6.1)
+1.2 (1.1–1.4)
+Colon and rectum
+5.3 (5.2–5.5)
+5.8 (5.6–6.0)
+4.8 (4.5–5.2)
+3.6 (3.2–4.0)
+7.0 (4.9–9.6)
+4.8 (4.5–5.1)
+Abbreviations: API, Asian/Pacific Islander; AI/AN, American Indian/Alaska Native; AYAs, adolescents and young adults; CI, confidence interval; NOS, not otherwise specified; NPCR, National Program of Cancer Registries; ONS, other nervous system; PRCDA, Indian Health Service Purchased/Referred Care Delivery Area; SEER, Surveillance, Epidemiology, and End Results.
+a
+Rates are per 100,000 persons and were age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000).
+b
+Cancers are sorted in descending order according to sex‐specific rates for all racial/ethnic groups. More than 15 cancers may appear under males and females to include the top 15 cancers in every racial/ethnic group.
+c
+White, Black, API, and AI/AN (PRCDA 2020 counties) include non‐Hispanic; the racial/ethnic categories are mutually exclusive.
+d
+Source: National Program of Cancer Registries and Surveillance, Epidemiology, and End Results areas reported by the North American Association of Central Cancer Registries as meeting high‐quality incidence data standards for the specified time periods. Registries included in the incidence rates (2017–2021) for all racial/ethnic groups, White, Black, AI/AN, API, Hispanic, and non‐Hispanic (47 states, the District of Columbia, and one territory): Alabama, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming.
+e
+For all sites, myelodysplastic syndromes are included for the rate and annual percent change calculations; they are excluded from cancer‐specific analyses. Ovary excludes borderline tumors.
+f
+The statistic could not be calculated. The age‐adjusted rate was based on <20 cases for the 5‐year time period.
+For males, the decrease in 2020 rates, compared with the 4‐year rates, was largest for melanoma (12%), colorectal cancer (11%), and laryngeal cancer (10%) and lowest for pancreatic cancer (1%) and brain cancer (3%; Tables 1 and 3). The overall rankings by cancer site were the same for 2020 as for the aggregated 2017−2019/2021 rates for males. For females, the decrease in 2020 rates, compared with the 4‐year average rates, was largest for thyroid cancer (13%); stomach cancer (12%); and lung cancer, colorectal cancer, and melanoma (10% each); and was lowest for brain cancer (2%), oral cancer and myeloma (3% each), and kidney and liver cancers (4% each; Tables 1 and 3). The overall rankings by cancer site were the same for 2020 as for the aggregated 2017–2019/2021 rates for females.
+Cancer death rates and trends
+The overall cancer death rate (per 100,000 standard population) during 2018–2022 was 146.0 and was 37% higher among males (173.2) than among females (126.4; Table 4). Cancer death rates decreased by 1.3%–2.1% per year during 2001–2022, declining more among males than among females (Figure 1, Table 5). Cancer death rates decreased during 2018–2022 for every race and ethnicity (Table 4).
+TABLE 4
+Age‐standardized death rates
+a
+ and fixed‐interval trends (2018–2022)
+b
+ for the most common causes of cancer death,
+c
+ by sex and racial/ethnic group,
+d
+ United States.
+e
+Sex/cancer site or type
+All racial/ethnic groups
+Non‐Hispanic White
+Non‐Hispanic Black
+Non‐Hispanic API
+Non‐Hispanic AI/AN: PRCDA
+Hispanic
+Rank
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+Rate (95% CI)
+AAPC (95% CI)
+p
+All sites
+Both sexes
+146.0 (145.8–146.2)
+−1.5 (−1.6, −1.4)
+f
+< .001
+151.3 (151.1–151.5)
+−1.3 (−1.4, −1.2)
+f
+< .001
+168.6 (168.1–169.2)
+−2.0 (−2.0, −2.0)
+f
+< .001
+93.0 (92.4–93.6)
+−0.9 (−1.6, −0.2)
+f
+.007
+159.7 (156.8–162.6)
+−1.3 (−2.6, −0.7)
+f
+.001
+106.8 (106.4–107.3)
+−1.1 (−1.2, −1.1)
+f
+< .001
+Males
+173.2 (173.0–173.5)
+−1.7 (−1.9, −1.6)
+f
+< .001
+179.0 (178.7–179.3)
+−1.6 (−1.6, −1.6)
+f
+< .001
+208.3 (207.3–209.3)
+−2.1 (−2.4, −1.9)
+f
+< .001
+107.5 (106.6–108.5)
+−1.3 (−2.0, −0.7)
+f
+< .001
+185.8 (181.1–190.7)
+−2.5 (−5.7, −1.0)
+f
+.001
+126.8 (126.0–127.6)
+−1.5 (−1.6, −1.4)
+f
+< .001
+Females
+126.4 (126.2–126.6)
+−1.3 (−1.4, −1.2)
+f
+< .001
+131.0 (130.7–131.3)
+−1.1 (−1.2, −1.0)
+f
+< .001
+144.7 (144.0–145.4)
+−1.9 (−2.4, −1.6)
+f
+< .001
+82.6 (81.9–83.3)
+−1.0 (−1.1, −0.8)
+f
+< .001
+140.9 (137.3–144.5)
+1.0 (−0.6, 2.0)
+.24
+93.2 (92.7–93.8)
+−0.7 (−0.8, −0.3)
+f
+.001
+Children, aged 0–14 years
+1.9 (1.9–2.0)
+−1.5 (−1.7, −1.2)
+f
+< .001
+1.9 (1.8–1.9)
+−1.5 (−1.9, −1.2)
+f
+< .001
+2.1 (1.9–2.2)
+−1.0 (−1.5, −0.5)
+f
+< .001
+1.6 (1.4–1.8)
+−1.9 (−3.0, −0.8)
+f
+.001
+2.2 (1.6–3.0)
+—
+g
+1.9 (1.8–2.0)
+−1.5 (−2.0, −1.0)
+f
+< .001
+AYAs, aged 15–39 years
+8.5 (8.4–8.6)
+−0.1 (−0.9, 0.5)
+.72
+8.4 (8.3–8.5)
+−1.2 (−1.4, −0.4)
+f
+.02
+10.6 (10.4–10.9)
+−1.3 (−1.4, −0.7)
+f
+.008
+6.3 (6.0–6.5)
+−1.1 (−1.4, −0.8)
+f
+< .001
+10.9 (9.7–12.1)
+−0.2 (−1.4, 1.0)
+.70
+8.1 (8.0–8.3)
+0.5 (0.0–2.0)
+f
+.04
+Males
+Lung and bronchus
+1
+38.7 (38.6–38.8)
+−4.5 (−4.8, −4.3)
+f
+< .001
+41.2 (41.0–41.3)
+−4.7 (−4.9, −4.4)
+f
+< .001
+46.7 (46.2–47.1)
+−4.4 (−4.9, −4.0)
+f
+< .001
+23.7 (23.3–24.2)
+−3.1 (−4.2, −2.2)
+f
+< .001
+37.0 (34.9–39.2)
+−5.8 (−9.1, −4.0)
+f
+< .001
+19.4 (19.1–19.7)
+−4.9 (−5.7, −4.3)
+f
+< .001
+Prostate
+2
+19.0 (18.9–19.1)
+−0.6 (−0.9, −0.1)
+f
+.02
+18.1 (18.0–18.2)
+−0.3 (−0.6, 0.2)
+.15
+37.2 (36.7–37.6)
+−1.3 (−2.1, 0.5)
+.09
+8.8 (8.5–9.0)
+−0.5 (−1.3, 1.8)
+.61
+19.4 (17.7–21.1)
+−1.4 (−2.2, −0.3)
+f
+.02
+15.4 (15.1–15.7)
+−0.6 (−1.5, 0.1)
+.07
+Colon and rectum
+3
+15.4 (15.3–15.4)
+−1.7 (−1.9, −1.4)
+f
+< .001
+15.2 (15.1–15.3)
+−1.0 (−1.5, −0.6)
+f
+< .001
+21.3 (21.0–21.7)
+−2.5 (−2.7, −2.4)
+f
+< .001
+10.9 (10.6–11.2)
+0.2 (−1.9, 1.6)
+.81
+20.9 (19.3–22.6)
+−0.2 (−1.0, 0.9)
+.86
+13.4 (13.1–13.6)
+−1.5 (−1.6, −1.3)
+f
+< .001
+Pancreas
+4
+12.9 (12.8–12.9)
+0.3 (0.2–0.4)
+f
+< .001
+13.2 (13.2–13.3)
+0.5 (0.4–0.5)
+f
+< .001
+15.3 (15.0–15.6)
+−0.1 (−0.3, 0.0)
+.07
+8.4 (8.1–8.6)
+0.1 (−0.3, 0.5)
+.49
+11.5 (10.3–12.7)
+0.1 (−3.5, 1.3)
+.94
+9.7 (9.5–9.9)
+0.1 (−0.2, 0.5)
+.41
+Liver and intrahepatic bile duct
+5
+9.5 (9.4–9.5)
+−1.2 (−1.7, −0.8)
+f
+< .001
+8.4 (8.4–8.5)
+−0.5 (−1.0, −0.2)
+f
+.006
+12.3 (12.0–12.5)
+−2.7 (−3.9, −1.7)
+f
+< .001
+11.8 (11.4–12.1)
+−3.1 (−3.6, −2.5)
+f
+< .001
+16.7 (15.4–18.2)
+−6.1 (−12.3, 0.8)
+.07
+12.6 (12.4–12.9)
+−2.3 (−3.6, −1.4)
+f
+< .001
+Leukemia
+6
+7.8 (7.8–7.9)
+−2.0 (−2.2, −1.8)
+f
+< .001
+8.4 (8.3–8.5)
+−1.8 (−2.2, −1.6)
+f
+< .001
+6.6 (6.4–6.8)
+−1.8 (−2.2, −1.4)
+f
+< .001
+4.3 (4.1–4.5)
+−1.1 (−1.6, −0.5)
+f
+< .001
+5.8 (5.0–6.7)
+−1.0 (−2.4, 0.6)
+.22
+5.2 (5.0–5.4)
+−2.3 (−4.6, −1.4)
+f
+.001
+Urinary bladder
+7
+7.1 (7.1–7.2)
+−1.5 (−2.0, −1.1)
+f
+< .001
+8.0 (7.9–8.0)
+−1.2 (−1.8, −0.9)
+f
+< .001
+5.3 (5.1–5.4)
+−0.4 (−0.7, 0.0)
+f
+.05
+2.8 (2.7–3.0)
+−0.3 (−0.8, 0.4)
+.45
+3.7 (3.0–4.5)
+—
+g
+3.8 (3.6–3.9)
+−0.6 (−1.1, 0.0)
+.06
+Esophagus
+8
+6.5 (6.5–6.6)
+−1.3 (−1.6, −1.1)
+f
+< .001
+7.5 (7.4–7.6)
+−0.6 (−0.9, −0.5)
+f
+< .001
+4.5 (4.3–4.6)
+−4.6 (−4.9, −4.4)
+f
+< .001
+2.6 (2.5–2.8)
+−1.2 (−1.8, −0.4)
+f
+.004
+6.5 (5.7–7.4)
+−0.5 (−1.8, 1.1)
+.56
+3.4 (3.2–3.5)
+−2.5 (−6.2, −1.6)
+f
+.003
+Non‐Hodgkin lymphoma
+9
+6.5 (6.5–6.6)
+−2.6 (−3.3, −1.9)
+f
+< .001
+6.9 (6.8–7.0)
+−1.8 (−2.0, −1.4)
+f
+< .001
+4.9 (4.7–5.1)
+−1.7 (−2.1, −1.4)
+f
+< .001
+4.6 (4.4–4.8)
+−1.2 (−1.6, −0.7)
+f
+< .001
+6.1 (5.3–7.1)
+0.0 (−1.3, 1.7)
+.90
+5.4 (5.3–5.6)
+−3.7 (−6.4, −1.3)
+f
+< .001
+Brain and other nervous system
+10
+5.3 (5.3–5.4)
+−0.9 (−1.8, 0.1)
+.07
+6.2 (6.1–6.2)
+−0.2 (−1.2, 0.3)
+.40
+3.4 (3.2–3.5)
+0.4 (−0.1, 0.9)
+.12
+2.9 (2.7–3.0)
+0.8 (0.2–1.7)
+f
+.01
+3.5 (2.9–4.2)
+0.7 (−0.8, 2.8)
+.31
+3.6 (3.5–3.7)
+0.5 (0.1–1.1)
+f
+.02
+Kidney and renal pelvis
+11
+5.1 (5.0–5.1)
+−1.5 (−2.6, −1.1)
+f
+< .001
+5.3 (5.2–5.3)
+−0.9 (−1.1, −0.7)
+f
+< .001
+4.9 (4.8–5.1)
+−1.2 (−1.6, −0.9)
+f
+< .001
+2.3 (2.1–2.4)
+−2.4 (−5.2, −1.2)
+f
+.001
+10.1 (9.0–11.3)
+−0.1 (−1.0, 0.9)
+.86
+4.7 (4.5–4.8)
+−0.9 (−1.2, −0.4)
+f
+< .001
+Oral cavity and pharynx
+12
+4.0 (4.0–4.1)
+2.1 (1.2, 3.1)
+f
+< .001
+4.3 (4.2–4.3)
+1.3 (1.0–1.8)
+f
+< .001
+4.3 (4.1–4.4)
+−2.5 (−3.0, −2.0)
+f
+< .001
+3.1 (3.0–3.3)
+0.7 (0.1–2.6)
+f
+.03
+3.5 (2.9–4.1)
+−0.7 (−2.6, 1.8)
+.64
+2.4 (2.3–2.5)
+0.0 (−0.4, 1.5)
+.77
+Myeloma
+13
+3.8 (3.8–3.9)
+−2.1 (−2.8, −1.6)
+f
+< .001
+3.6 (3.6–3.7)
+−1.9 (−2.9, −1.4)
+f
+.001
+7.2 (7.0–7.4)
+−0.9 (−1.1, −0.7)
+f
+< .001
+1.8 (1.7–1.9)
+−2.4 (−4.2, −1.3)
+f
+< .001
+4.0 (3.3–4.8)
+−0.9 (−2.5, 0.9)
+.33
+3.1 (2.9–3.2)
+−3.1 (−5.8, −1.4)
+f
+.001
+Stomach
+14
+3.6 (3.6–3.6)
+−2.5 (−2.6, −1.9)
+f
+< .001
+2.8 (2.7–2.8)
+−2.7 (−2.8, −2.5)
+f
+< .001
+6.6 (6.5–6.8)
+−4.2 (−6.0, −3.3)
+f
+< .001
+5.4 (5.2–5.6)
+−3.7 (−4.1, −3.3)
+f
+< .001
+7.2 (6.3–8.2)
+−2.3 (−3.5, −0.9)
+f
+.001
+5.7 (5.5–5.8)
+−2.6 (−2.9, −2.3)
+f
+< .001
+Melanoma of the skin
+15
+3.0 (2.9–3.0)
+−1.5 (−2.1, −0.3)
+f
+.02
+3.8 (3.7–3.8)
+−1.0 (−1.8, 0.1)
+.07
+0.4 (0.3–0.4)
+−3.4 (−10.7, −2.0)
+f
+.01
+0.3 (0.3–0.4)
+—
+g
+1.1 (0.8–1.5)
+—
+g
+0.8 (0.8–0.9)
+−2.2 (−3.5, −1.4)
+f
+< .001
+Nonmelanoma skin
+16
+1.8 (1.8–1.8)
+2.4 (1.0–3.5)
+f
+.006
+2.1 (2.1–2.1)
+2.8 (2.0–3.5)
+f
+< .001
+0.7 (0.7–0.8)
+3.5 (−1.8, 9.8)
+.28
+0.5 (0.4–0.5)
+—
+g
+1.2 (0.9–1.6)
+—
+g
+0.7 (0.7–0.8)
+0.3 (−0.4, 1.3)
+.31
+Larynx
+17
+1.6 (1.6–1.6)
+−0.7 (−2.1, 0.1)
+.08
+1.6 (1.6–1.6)
+−0.2 (−1.5, 1.2)
+.84
+2.7 (2.6–2.8)
+−3.4 (−3.8, −3.1)
+f
+< .001
+0.5 (0.5–0.6)
+−2.8 (−4.2, −1.0)
+f
+.003
+1.6 (1.2–2.1)
+—
+g
+1.2 (1.1–1.2)
+−4.1 (−5.2, −3.5)
+f
+< .001
+Soft tissue, including heart
+18
+1.5 (1.5–1.5)
+−0.6 (−2.3, 0.1)
+.08
+1.5 (1.5–1.6)
+−0.6 (−2.5, 0.1)
+.08
+1.6 (1.5–1.7)
+0.7 (−0.1, 1.6)
+.09
+1.1 (1.0–1.2)
+0.9 (−0.1, 2.3)
+.08
+1.4 (1.0–1.9)
+—
+g
+1.2 (1.2–1.3)
+0.9 (0.2–1.8)
+f
+.01
+Bones and joints
+19
+0.6 (0.6–0.6)
+1.8 (1.0–4.0)
+f
+.009
+0.6 (0.6–0.7)
+1.7 (0.8–4.2)
+f
+.01
+0.6 (0.6–0.7)
+0.7 (−0.1, 1.6)
+.08
+0.4 (0.4–0.5)
+3.6 (2.0–5.9)
+f
+< .001
+0.8 (0.6–1.2)
+—
+g
+0.5 (0.5–0.6)
+8.1 (1.1–13.4)
+f
+.01
+Females
+Lung and bronchus
+1
+27.6 (27.5–27.7)
+−3.4 (−3.7, −3.2)
+f
+< .001
+31.0 (30.8–31.1)
+−3.2 (−3.7, −3.0)
+f
+< .001
+25.9 (25.6–26.2)
+−4.2 (−4.6, −3.9)
+f
+< .001
+15.0 (14.7–15.3)
+−2.7 (−3.6, −2.1)
+f
+< .001
+30.5 (28.9–32.2)
+−1.7 (−4.1, −1.2)
+f
+.009
+11.1 (10.9–11.3)
+−1.3 (−3.0, −0.1)
+f
+.03
+Breast
+2
+19.3 (19.2–19.4)
+−1.5 (−1.7, −1.3)
+f
+< .001
+19.4 (19.3–19.5)
+−1.1 (−1.2, −0.9)
+f
+< .001
+26.8 (26.5–27.1)
+−1.4 (−1.5, −1.3)
+f
+< .001
+11.9 (11.6–12.1)
+0.4 (0.0–1.5)
+.07
+17.8 (16.5–19.1)
+1.0 (−0.1, 4.7)
+.06
+13.7 (13.5–13.9)
+−0.9 (−1.1, −0.6)
+f
+< .001
+Colon and rectum
+3
+10.8 (10.7–10.8)
+−1.8 (−2.0, −1.4)
+f
+< .001
+10.9 (10.8–10.9)
+−1.6 (−1.8, −1.2)
+f
+< .001
+13.5 (13.3–13.8)
+−3.0 (−3.2, −2.8)
+f
+< .001
+7.7 (7.5–7.9)
+−1.8 (−2.2, −1.4)
+f
+< .001
+14.5 (13.3–15.7)
+−0.7 (−1.5, 0.3)
+.20
+8.5 (8.4–8.7)
+−0.4 (−1.2, 1.0)
+.43
+Pancreas
+4
+9.8 (9.7–9.8)
+0.2 (−0.3, 0.3)
+.14
+9.8 (9.7–9.9)
+0.2 (−0.2, 0.4)
+.10
+12.3 (12.1–12.5)
+−0.2 (−0.4, 0.0)
+f
+.03
+7.2 (6.9–7.4)
+0.1 (−0.2, 0.4)
+.46
+9.8 (8.9–10.8)
+1.1 (0.0, 2.3)
+f
+.04
+8.2 (8.0–8.4)
+0.4 (0.2–0.5)
+f
+< .001
+Ovary
+5
+6.0 (6.0–6.1)
+−2.8 (−3.5, −2.3)
+f
+< .001
+6.3 (6.3–6.4)
+−2.5 (−2.7, −2.4)
+f
+< .001
+5.5 (5.4–5.6)
+−1.8 (−2.1, −1.5)
+f
+< .001
+4.3 (4.2–4.5)
+−0.8 (−1.1, −0.4)
+f
+< .001
+6.2 (5.4–6.9)
+−1.3 (−2.6, 0.1)
+.06
+4.8 (4.7–4.9)
+−1.4 (−1.6, −1.2)
+f
+< .001
+Corpus and uterus, NOS
+6
+5.2 (5.2–5.3)
+1.1 (0.5–1.5)
+f
+< .001
+4.7 (4.7–4.8)
+0.8 (−0.1, 1.3)
+.07
+9.5 (9.4–9.7)
+1.6 (0.8–1.9)
+f
+.004
+3.7 (3.5–3.8)
+2.7 (2.2–3.4)
+f
+< .001
+4.7 (4.1–5.4)
+—
+g
+4.4 (4.3–4.5)
+2.4 (2.0–3.5)
+f
+.004
+Leukemia
+7
+4.4 (4.4–4.4)
+−1.8 (−2.7, −1.5)
+f
+< .001
+4.6 (4.6–4.7)
+−1.7 (−2.8, −1.3)
+f
+< .001
+4.1 (4.0–4.2)
+−1.5 (−1.8, −1.3)
+f
+< .001
+2.5 (2.4–2.7)
+−2.4 (−6.1, −1.4)
+f
+.007
+3.8 (3.3–4.5)
+−0.7 (−2.2, 1.2)
+.49
+3.4 (3.3–3.5)
+−2.1 (−3.7, −1.3)
+f
+< .001
+Liver and intrahepatic bile duct
+8
+4.2 (4.1–4.2)
+0.7 (0.5–1.0)
+f
+< .001
+3.8 (3.7–3.8)
+1.3 (0.8, 1.7)
+f
+< .001
+4.6 (4.5–4.7)
+−2.4 (−4.3, −0.9)
+f
+.004
+5.1 (4.9–5.3)
+−1.5 (−2.0, −0.9)
+f
+< .001
+8.7 (7.8–9.6)
+1.2 (0.3–2.4)
+f
+.02
+6.1 (5.9–6.2)
+−0.1 (−1.6, 0.7)
+.72
+Non‐Hodgkin lymphoma
+9
+3.7 (3.7–3.8)
+−2.5 (−2.6, −2.3)
+f
+< .001
+3.9 (3.9–4.0)
+−2.4 (−2.6, −1.7)
+f
+< .001
+2.8 (2.7–2.9)
+−3.7 (−5.2, −2.8)
+f
+< .001
+2.7 (2.6–2.9)
+−1.9 (−2.3, −1.5)
+f
+< .001
+3.4 (2.8–4.0)
+−2.7 (−3.9, −1.4)
+f
+< .001
+3.5 (3.4–3.6)
+−1.9 (−2.1, −1.5)
+f
+< .001
+Brain and other nervous system
+10
+3.6 (3.5–3.6)
+−0.4 (−1.2, −0.1)
+f
+.03
+4.1 (4.1–4.1)
+0.0 (−0.9, 0.4)
+.71
+2.3 (2.3–2.4)
+0.6 (0.2–1.1)
+f
+.007
+1.9 (1.8–2.0)
+1.4 (0.7–2.3)
+f
+.001
+2.5 (2.0–3.0)
+—
+g
+2.7 (2.6–2.8)
+−1.9 (−4.1, 0.2)
+.08
+Myeloma
+11
+2.4 (2.4–2.4)
+−2.0 (−2.3, −1.7)
+f
+< .001
+2.1 (2.1–2.2)
+−1.9 (−2.3, −1.7)
+f
+< .001
+4.9 (4.7–5.0)
+−2.5 (−4.1, −1.7)
+f
+.009
+1.2 (1.1–1.3)
+−1.1 (−2.0, 0.1)
+.07
+2.4 (1.9–2.9)
+−1.8 (−4.1, 0.8)
+.18
+2.1 (2.0–2.2)
+−1.4 (−1.7, −0.9)
+f
+< .001
+Cervix uteri
+12
+2.2 (2.2–2.2)
+−0.6 (−0.8, −0.2)
+f
+.04
+2.1 (2.0–2.1)
+0.0 (−0.3, 0.5)
+1.00
+3.2 (3.1–3.3)
+−2.4 (−2.7, −2.1)
+f
+< .001
+1.6 (1.5–1.7)
+−1.7 (−2.5, −0.8)
+f
+< .001
+3.0 (2.5–3.6)
+−1.5 (−2.8, 0.1)
+.06
+2.4 (2.3–2.5)
+−1.7 (−2.0, −1.4)
+f
+< .001
+Kidney and renal pelvis
+13
+2.1 (2.1–2.2)
+−1.5 (−1.6, −1.4)
+f
+< .001
+2.2 (2.2–2.2)
+−1.4 (−1.6, −1.3)
+f
+< .001
+2.1 (2.0–2.2)
+−1.8 (−2.2, −1.3)
+f
+< .001
+1.0 (1.0–1.1)
+−0.9 (−1.7, 0.1)
+.09
+4.1 (3.5–4.7)
+−1.3 (−2.5, 0.1)
+.07
+2.1 (2.0–2.1)
+−1.0 (−1.4, −0.4)
+f
+.001
+Stomach
+14
+2.0 (2.0–2.1)
+−1.8 (−2.0, −1.3)
+f
+< .001
+1.4 (1.4–1.5)
+−2.5 (−2.8, −1.4)
+f
+< .001
+3.3 (3.2–3.4)
+−3.1 (−3.4, −2.8)
+f
+< .001
+3.3 (3.1–3.4)
+−3.4 (−3.9, −3.0)
+f
+< .001
+4.0 (3.4–4.7)
+−0.5 (−2.7, 7.1)
+.93
+3.8 (3.6–3.9)
+−1.2 (−1.6, 0.6)
+.11
+Urinary bladder
+15
+2.0 (2.0–2.0)
+−1.5 (−3.0, −0.8)
+f
+< .001
+2.2 (2.1–2.2)
+−0.4 (−0.5, −0.2)
+f
+.001
+2.1 (2.0–2.2)
+−3.8 (−7.8, −1.5)
+f
+.001
+0.9 (0.8–0.9)
+−0.9 (−1.6, 0.0)
+f
+.04
+1.9 (1.5–2.3)
+—
+g
+1.2 (1.1–1.3)
+−0.8 (−1.4, 0.0)
+f
+.04
+Oral cavity and pharynx
+16
+1.4 (1.4–1.4)
+1.1 (0.3–2.9)
+f
+.004
+1.5 (1.5–1.6)
+1.8 (1.1–2.8)
+f
+< .001
+1.2 (1.1–1.3)
+−2.0 (−2.4, −1.5)
+f
+< .001
+1.2 (1.1–1.3)
+−0.7 (−1.5, 0.4)
+.25
+1.6 (1.2–2.0)
+—
+g
+0.8 (0.7–0.8)
+−0.1 (−0.8, 0.8)
+.90
+Esophagus
+17
+1.4 (1.4–1.4)
+−0.8 (−1.3, 0.3)
+.14
+1.5 (1.5–1.5)
+−0.7 (−0.8, −0.5)
+f
+< .001
+1.5 (1.4–1.5)
+−3.1 (−3.6, −1.5)
+f
+.005
+0.7 (0.6–0.8)
+−1.5 (−2.5, −0.2)
+f
+.03
+1.6 (1.2–2.0)
+—
+g
+0.7 (0.6–0.7)
+−2.0 (−2.6, −1.3)
+f
+< .001
+Melanoma of the skin
+18
+1.3 (1.3–1.3)
+−0.8 (−2.0, 0.8)
+.31
+1.7 (1.7–1.7)
+−0.4 (−1.5, 1.4)
+.66
+0.3 (0.2–0.3)
+−2.5 (−3.5, −1.4)
+f
+< .001
+0.2 (0.2–0.3)
+−1.4 (−3.3, 0.9)
+.26
+0.6 (0.4–0.8)
+—
+g
+0.5 (0.5–0.5)
+−1.4 (−2.1, −0.5)
+f
+.002
+Soft tissue including heart
+19
+1.1 (1.1–1.2)
+−0.7 (−1.6, −0.1)
+f
+.02
+1.1 (1.1–1.1)
+−1.3 (−2.8, −0.3)
+f
+.002
+1.5 (1.4–1.6)
+0.6 (0.3–0.9)
+f
+.001
+0.8 (0.8–0.9)
+0.9 (0.1–2.0)
+f
+.03
+1.0 (0.7–1.3)
+—
+g
+1.0 (1.0–1.1)
+1.0 (0.4–1.7)
+f
+.004
+Gallbladder
+20
+0.6 (0.6–0.6)
+−2.5 (−4.8, −1.5)
+f
+< .001
+0.5 (0.5–0.5)
+−3.5 (−6.2, −1.9)
+f
+< .001
+1.0 (0.9–1.0)
+−5.6 (−8.8, −1.0)
+f
+.008
+0.7 (0.6–0.8)
+−1.0 (−1.8, 0.1)
+.08
+1.0 (0.7–1.3)
+—
+g
+1.0 (0.9–1.0)
+−2.0 (−2.6, −1.1)
+f
+< .001
+Children
+Brain and other nervous system
+0.6 (0.6–0.7)
+−0.6 (−1.0, −0.2)
+f
+.004
+0.7 (0.6–0.7)
+−0.8 (−1.3, −0.2)
+f
+.01
+0.7 (0.6–0.7)
+−0.1 (−1.0, 0.9)
+.85
+0.6 (0.5–0.7)
+−0.8 (−2.3, 1.0)
+.40
+—
+h
+—
+g
+0.6 (0.6–0.7)
+−0.3 (−0.9, 0.4)
+.41
+Leukemia
+0.5 (0.4–0.5)
+−2.8 (−3.3, −2.4)
+f
+< .001
+0.4 (0.4–0.4)
+−3.0 (−3.8, −2.4)
+f
+< .001
+0.4 (0.4–0.5)
+−2.5 (−3.5, −1.7)
+f
+< .001
+0.5 (0.4–0.6)
+−3.7 (−5.0, −2.4)
+f
+< .001
+—
+h
+—
+g
+0.6 (0.6–0.7)
+−3.0 (−3.7, −2.3)
+f
+< .001
+AYAs
+Female breast
+2.2 (2.1–2.2)
+−0.1 (−0.8, 1.8)
+.90
+2.0 (1.9–2.1)
+0.0 (−0.6, 1.4)
+.90
+3.8 (3.6–4.0)
+−2.0 (−2.4, −1.5)
+f
+< .001
+1.3 (1.2–1.5)
+−0.4 (−1.6, 1.0)
+.58
+1.9 (1.3–2.7)
+—
+g
+1.8 (1.7–1.9)
+−0.4 (−1.3, 0.7)
+.52
+Brain and other nervous system
+0.9 (0.9–1.0)
+0.1 (−2.8, 2.4)
+.33
+1.2 (1.1–1.2)
+−0.1 (−0.5, 0.3)
+.56
+0.7 (0.7–0.8)
+0.8 (0.0–1.8)
+.07
+0.6 (0.5–0.7)
+−1.0 (−13.8, 1.3)
+.24
+0.8 (0.5–1.2)
+—
+g
+0.6 (0.6–0.7)
+0.6 (0.0–1.2)
+f
+.03
+Colon and rectum
+0.9 (0.9–0.9)
+0.8 (0.6–1.1)
+f
+< .001
+0.9 (0.9–0.9)
+0.9 (0.4–1.4)
+f
+.001
+1.1 (1.1–1.2)
+0.1 (−0.5, 0.8)
+.69
+0.7 (0.7–0.8)
+0.6 (−0.6, 2.1)
+.29
+1.2 (0.9–1.7)
+—
+g
+0.8 (0.7–0.8)
+2.2 (1.5–3.2)
+f
+< .001
+Leukemia
+0.8 (0.8–0.8)
+−2.3 (−2.7, −2.0)
+f
+< .001
+0.7 (0.7–0.7)
+−2.9 (−3.4, −2.5)
+f
+< .001
+0.9 (0.8–1.0)
+−2.4 (−2.9, −1.8)
+f
+< .001
+0.6 (0.5–0.7)
+−2.3 (−3.4, −1.1)
+f
+< .001
+1.1 (0.8–1.6)
+—
+g
+1.1 (1.1–1.2)
+−1.4 (−1.9, −0.9)
+f
+< .001
+Abbreviations: AAPC, average annual percent change; AI/AN, American Indian/Alaska Native; API, Asian/Pacific Islander; AYAs, adolescents and young adults; AAPC, average annual percent change; NOS, not otherwise specified.
+a
+Rates are per 100,000 persons and are age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000).
+b
+The AAPC is the average annual percent change and is a weighted average of the annual percent change (APC) over the fixed interval 2018–2022 using the underlying Joinpoint model for the period of 2001–2022. Joinpoint models with up to three joinpoints are based on rates per 100,000 persons and are age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Joinpoint Regression Program, version 5.2.0.0. Statistical Research and Applications Branch, National Cancer Institute; 2024.
+c
+Cancers are sorted in descending order according to sex‐specific rates for all racial/ethnic groups. More than 15 cancers may appear under males and females to include the top 15 cancers in every racial/ethnic group.
+d
+White, Black, API, and AI/AN (PRCDA 2017 counties) include non‐Hispanic; the racial/ethnic categories are mutually exclusive.
+e
+Source: National Center for Health Statistics public‐use data file for the total United States, 1975–2022.
+f
+The AAPC is statistically significantly different from zero (two‐sided p < .05).
+g
+The statistic could not be calculated. The AAPC is based on <10 cases for at least 1 year within the time interval.
+h
+The statistic could not be calculated. The age‐adjusted rate was based on <20 cases for the 5‐year time period.
+Source: National Center for Health Statistics public‐use data file for the total United States, 1975–2022.
+TABLE 5
+Joinpoint trends
+a
+ for the most common causes of cancer death,
+b
+ all racial/ethnic groups combined by sex and age group, United States,
+c
+ 2001–2022.
+Sex/cancer site or type
+Joinpoint analyses, 2001–2022
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+Years
+APC (95% CI)
+d
+p
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+Years
+APC (95% CI)
+p
+All sites
+Both sexes
+2001–2008
+−1.5 (−1.8, −1.5)
+e
+< .001
+2008–2016
+−1.4 (−1.5, −1.2)
+e
+< .001
+2016–2019
+−2.1 (−2.3, −1.9)
+e
+< .001
+2019–2022
+−1.3 (−1.5, −0.9)
+e
+< .001
+Males
+2001–2006
+−1.9 (−2.2, −1.8)
+e
+< .001
+2006–2015
+−1.6 (−1.7, −1.4)
+e
+< .001
+2015–2019
+−2.1 (−2.4, −1.9)
+e
+< .001
+2019–2022
+−1.6 (−1.8, −1.2)
+e
+< .001
+Females
+2001–2009
+−1.4 (−1.6, −1.4)
+e
+< .001
+2009–2016
+−1.2 (−1.3, −1.0)
+e
+< .001
+2016–2019
+−2.0 (−2.1, −1.7)
+e
+< .001
+2019–2022
+−1.0 (−1.2, −0.7)
+e
+< .001
+Children, aged birth to 14 years
+2001–2022
+−1.5 (−1.7, −1.2)
+e
+< .001
+AYAs, aged 15–39 years
+2001–2005
+−2.9 (−4.5, −2.1)
+e
+< .001
+2005–2020
+−1.0 (−1.5, −0.8)
+e
+.006
+2020–2022
+0.9 (−0.9, 2.0)
+.49
+Males
+Lung and bronchus
+2001–2005
+−2.0 (−2.2, −1.5)
+e
+< .001
+2005–2012
+−2.9 (−3.0, −2.7)
+e
+< .001
+2012–2015
+−3.8 (−4.2, −3.0)
+e
+< .001
+2015–2018
+−5.4 (−5.7, −5.0)
+e
+< .001
+2018–2022
+−4.5 (−4.8, −3.8)
+e
+< .001
+Prostate
+2001–2012
+−3.5 (−3.9, −3.2)
+e
+< .001
+2012–2022
+−0.6 (−0.9, −0.1)
+e
+.02
+Colon and rectum
+2001–2005
+−3.6 (−4.6, −3.0)
+e
+< .001
+2005–2012
+−2.6 (−3.0, −1.8)
+e
+< .001
+2012–2022
+−1.7 (−1.9, −1.3)
+e
+< .001
+Pancreas
+2001–2022
+0.3 (0.2–0.4)
+e
+< .001
+Liver and intrahepatic bile duct
+2001–2007
+2.2 (0.8–2.8)
+e
+.009
+2007–2012
+3.3 (2.2–4.4)
+e
+< .001
+2012–2017
+0.8 (0.0–1.4)
+.05
+2017–2022
+−1.2 (−1.8, −0.7)
+e
+.02
+Leukemia
+2001–2012
+−0.9 (−1.1, −0.7)
+e
+< .001
+2012–2022
+−2.0 (−2.2, −1.8)
+e
+< .001
+Urinary bladder
+2001–2015
+0.0 (−0.1, 0.2)
+.46
+2015–2022
+−1.5 (−2.0, −1.1)
+e
+< .001
+Esophagus
+2001–2006
+0.1 (−0.8, 2.8)
+.75
+2006–2022
+−1.3 (−1.6, −1.1)
+e
+< .001
+Non‐Hodgkin lymphoma
+2001–2006
+−3.1 (−4.4, −2.4)
+e
+< .001
+2006–2020
+−1.8 (−1.9, −0.7)
+e
+< .001
+2020–2022
+−3.4 (−4.7, −1.9)
+e
+< .001
+Brain and other nervous system
+2001–2006
+−1.2 (−3.3, −0.2)
+e
+.02
+2006–2020
+0.4 (0.2–1.9)
+e
+.02
+2020–2022
+−2.1 (−3.9, 0.1)
+.07
+Kidney and renal pelvis
+2001–2014
+−0.8 (−1.0, 0.6)
+.09
+2014–2022
+−1.5 (−3.2, −1.1)
+e
+.001
+Oral cavity and pharynx
+2001–2009
+−1.4 (−2.4, −0.7)
+e
+.03
+2009–2016
+1.2 (−0.5, 3.2)
+.06
+2016–2019
+−1.3 (−2.5, 0.5)
+.12
+2019–2022
+3.3 (1.8–6.2)
+e
+< .001
+Myeloma
+2001–2009
+−1.4 (−3.0, −1.0)
+e
+.005
+2009–2015
+0.1 (−0.6, 1.7)
+.78
+2015–2022
+−2.1 (−2.9, −1.6)
+e
+.004
+Stomach
+2001–2006
+−3.7 (−5.6, −2.8)
+e
+< .001
+2006–2022
+−2.5 (−2.6, −1.9)
+e
+.001
+Melanoma of the skin
+2001–2009
+1.0 (0.6–1.6)
+e
+< .001
+2009–2014
+−1.3 (−2.1, −0.5)
+e
+.007
+2014–2017
+−7.2 (−8.1, −5.5)
+e
+< .001
+2017–2022
+−1.5 (−2.1, −0.1)
+e
+.04
+Nonmelanoma skin
+2001–2010
+0.7 (−1.4, 1.4)
+.25
+2010–2015
+3.7 (2.2–6.2)
+e
+.007
+201–2020
+−1.3 (−4.0, −0.3)
+e
+.02
+2020–2022
+6.2 (2.3–8.9)
+e
+.006
+Larynx
+2001–2018
+−2.4 (−3.1, −2.3)
+e
+.02
+2018–2022
+−0.7 (−2.1, 1.8)
+.41
+Soft tissue, including heart
+2001–2014
+0.8 (0.4–2.9)
+e
+.002
+2014–2022
+−0.6 (−2.9, 0.1)
+.08
+Bones and joints
+2001–2012
+−0.2 (−3.4, 0.6)
+.57
+2012–2022
+1.8 (1.0, 4.8)
+e
+.009
+Females
+Lung and bronchus
+2001–2003
+0.3 (−0.5, 1.1)
+.56
+2003–2007
+−0.8 (−2.2, −0.6)
+e
+.001
+2007–2014
+−1.8 (−3.4, −1.5)
+e
+< .001
+2014–2020
+−4.1 (−4.6, −3.9)
+e
+< .001
+2020–2022
+−2.7 (−3.6, −2.2)
+e
+< .001
+Breast
+2001–2003
+−1.5 (−2.0, −1.1)
+e
+< .001
+2003–2007
+−2.3 (−2.7, −2.1)
+e
+< .001
+2007–2014
+−1.5 (−1.7, −1.3)
+e
+< .001
+2014–2018
+−0.9 (−1.1, −0.6)
+e
+< .001
+2018–2022
+−1.5 (−1.9, −1.3)
+e
+< .001
+Colon and rectum
+2001–2010
+−3.0 (−3.7, −2.7)
+e
+< .001
+2010–2022
+−1.8 (−2.0, −1.4)
+e
+.002
+Pancreas
+2001–2006
+0.7 (0.2–2.3)
+e
+< .001
+2006–2022
+0.2 (−0.6, 0.3)
+.14
+Ovary
+2001–2005
+−1.1 (−2.0, 0.5)
+.11
+2005–2016
+−2.2 (−2.8, −1.6)
+e
+< .001
+2016–2022
+−2.8 (−4.2, −2.3)
+e
+< .001
+Corpus and uterus, NOS
+2001–2008
+0.1 (−0.7, 0.6)
+.66
+2008–2016
+2.2 (1.9–3.6)
+e
+.005
+2016–2022
+1.1 (0.4–1.5)
+e
+.03
+Leukemia
+2001–2012
+−1.1 (1.4–0.3)
+.06
+2012–2022
+−1.8 (−3.0, −1.5)
+e
+< .001
+Liver and intrahepatic bile duct
+2001–2004
+2.7 (1.5–4.3)
+e
+< .001
+2004–2008
+0.7 (−0.3, 3.4)
+.17
+2008–2014
+3.3 (0.7–4.0)
+e
+.007
+2014–2022
+0.7 (0.5–1.0)
+e
+.008
+Non‐Hodgkin lymphoma
+2001–2005
+−3.7 (5.1, −2.9)
+e
+< .001
+2005–2022
+−2.5 (−2.6, −2.3)
+e
+< .001
+Brain and other nervous system
+2001–2010
+−0.5 (1.3, −0.2)
+e
+.008
+2010–2015
+1.2 (0.5–2.6)
+e
+.006
+2015–2022
+−0.4 (−1.4, −0.1)
+e
+.03
+Myeloma
+2001–2009
+−2.5 (−3.1, −2.1)
+e
+< .001
+2009–2012
+2.1 (0.2–2.9)
+e
+.02
+2012–2022
+−2.0 (−2.3, −1.7)
+e
+< .001
+Cervix uteri
+2001–2004
+−3.0 (−5.5, −1.0)
+e
+< .001
+2004–2022
+−0.6 (−0.8, −0.1)
+e
+.04
+Kidney and renal pelvis
+2001–2022
+−1.5 (−1.6, −1.4)
+e
+< .001
+Stomach
+2001–2008
+−3.0 (−4.6, −2.4)
+e
+< .001
+2008–2022
+−1.8 (−2.0, −1.3)
+e
+.006
+Urinary bladder
+2001–2016
+−0.5 (−0.7, 1.4)
+.13
+2016–2022
+−1.5 (−4.0, −0.8)
+e
+.002
+Oral cavity and pharynx
+2001–2013
+−1.4 (−2.5, −0.8)
+e
+< .001
+2013–2022
+1.1 (0.3–3.0)
+e
+.004
+Esophagus
+2001–2014
+−1.6 (−2.8, −1.4)
+e
+.008
+2014–2022
+−0.8 (−1.3, 1.0)
+.19
+Melanoma of the skin
+2001–2013
+−0.4 (−0.8, 0.1)
+.10
+2013–2017
+−5.6 (−7.7, −3.8)
+e
+.004
+2017–2022
+−0.8 (−2.0, 1.8)
+.39
+Soft tissue, including heart
+2001–2017
+0.2 (0.1–0.8)
+e
+.007
+2017–2022
+−0.7 (−2.4, −0.1)
+e
+.02
+Gallbladder
+2001–2015
+−1.0 (−1.4, 2.2)
+.13
+2015–2022
+−2.5 (−6.3, −1.5)
+e
+.002
+Children
+Brain and other nervous system
+2001–2022
+−0.6 (−1.0, −0.2)
+e
+.004
+Leukemia
+2001–2022
+−2.8 (−3.3, −2.4)
+e
+< .001
+AYAs
+Female breast
+2001–2009
+−3.3 (−7.5, −1.9)
+e
+< .001
+2009–2022
+−0.1 (−0.8, 1.8)
+.90
+Brain and other nervous system
+2001–2006
+−1.9 (−6.7, 1.7)
+.08
+2006–2022
+0.1 (−4.8, 3.3)
+.33
+Colon and rectum
+2001–2022
+0.8 (0.6–1.1)
+e
+< .001
+Leukemia
+2001–2022
+−2.3 (−2.7, −2.0)
+e
+< .001
+Abbreviations: AAPC, average annual percent change; APC, annual percent change; CI, confidence interval; NOS, not otherwise specified; AYAs, adolescents and young adults.
+a
+Joinpoint models with up to three joinpoints are based on rates per 100,000 persons and are age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130 US Government Printing Office; 2000). Joinpoint Regression Program, version 5.2.0.0. Statistical Research and Applications Branch, National Cancer Institute; 2024.
+b
+Cancers are listed in descending rank order of sex‐specific, age‐adjusted death rates for 2016–2020 for all racial/ethnic groups combined. More than 15 cancers may appear under men and women to include the top 15 cancers in each racial/ethnic group.
+c
+Source: National Center for Health Statistics public‐use data file for the total United States, 1975–2022.
+d
+The AAPC is the average annual percent change and is a weighted average of the APCs over the fixed interval 2018–2022 using the underlying joinpoint model for the period of 2001–2022.
+e
+The APC or AAPC is statistically significantly different from zero (two‐sided t‐test; p < .05).
+During 2018–2022, death rates among males decreased for 12 of the 19 most common cancers (prostate, liver and intrahepatic bile duct, esophagus, melanoma of the skin, kidney and renal pelvis, urinary bladder, colon and rectum, leukemia, myeloma, stomach, non‐Hodgkin lymphoma, and lung and bronchus), remained stable for three (soft tissues, including heart; larynx, and brain and other nervous system), and increased for four cancers (nonmelanoma skin, oral cavity and pharynx, bones and joints, and pancreas; Table 4, Figure 3A). During 2018–2022, death rates among females decreased for 14 of the 20 most common cancers (brain and other nervous system; cervix; soft tissue, including heart; urinary bladder; kidney and renal pelvis; breast; stomach; leukemia; colon and rectum; myeloma; gallbladder; non‐Hodgkin lymphoma; ovary; and lung and bronchus), and increased for three cancers (oral cavity and pharynx, corpus and uterus, and liver and intrahepatic bile duct; Table 4, Figure 3B). The largest declines in death rates were observed for lung cancer (AAPC, −4.5% among males and −3.4% among females), which decreased for every race and ethnicity (Table 4).
+FIGURE 3
+Average annual percent changes (AAPCs) in age‐standardized, delay‐adjusted death rates for 2018–2022 are illustrated for all sites and for the 18 most common cancers in males and females, all ages, and all racial/ethnic groups combined, by sex. The AAPC was a weighted average of the annual percent changes over the fixed 5‐year interval using the underlying joinpoint regression model. AAPCs with an asterisk (*) were statistically significantly different from zero (p < .05) and are depicted as solid‐colored bars; AAPCs with hash marks were not statistically significantly different from zero (stable). NOS indicates not otherwise specified.
+Notable differences by sex, race, and ethnicity and changes in trends were observed for several cancers (Tables 4 and 5). Prostate cancer death rates decreased 0.6% per year during 2012–2022; during 2018–2022, prostate cancer death rates decreased in AI/AN males but were stable among White, Black, API, and Hispanic males. During 2018–2022, colorectal cancer death rates were stable among AI/AN males and females (the second most common cancer death in this group), API males, and Hispanic females, but decreased for all other races and ethnicities for both sexes. Pancreatic cancer death rates were stable among females during 2006–2022. Pancreatic cancer death rates increased among males (APC = 0.3% during 2001–2022); during 2018–2022, pancreatic cancer death rates increased among White males and AI/AN and Hispanic females, decreased among Black females, and were stable for all other races and ethnicities. Liver cancer death rates among males increased during 2001–2012, were stable during 2012–2017, and then decreased 1.2% per year during 2017–2022; during 2018–2022, rates decreased among API, Black, Hispanic, and White males and were stable among AI/AN males. Among females, the rate of increase of liver cancer death rates slowed from 3.3% per year during 2008–2014 to 0.7% per year during 2014–2022; during 2018–2022, rates increased among White and AI/AN females and decreased among Black and API females. Breast cancer death rates declined overall and among White, Black, and Hispanic females but remained stable among AI/AN and API females.
+Cancer death rates decreased 1.5% per year during 2001–2022 among children. Among AYAs, cancer death rates decreased 2.9% per year during 2001–2005 and 1% per year during 2005–2020 but then were stable during 2020–2022.
+Special focus on 2020 incidence decline
+The comparison of counts and rates based on multiple submission years of data did not reveal any patterns in the 2020 data or any deviations from recent years that would indicate widespread reporting delays. For all sites combined, the relative decline in 2020 from 2019 was distinctly greater than prior years, regardless of the stringency of COVID‐19 restrictions (Table 6).
+29
+ Additional analysis comparing multiple submission years by site showed similar results, confirming that the declines in the 2020 incidence rates were statistically significant for all major sites (data not shown).
+TABLE 6
+Subsequent submission year declines,
+a
+ all cancers combined among registries grouped by stringency of 2020 coronavirus disease 2019 policy restrictions.
+b
+Diagnosis years
+COVID‐19 restrictions: Rate ratio (p)
+Most stringent
+Intermediate
+Least stringent
+2015 vs. 2016
+1.00 (.17)
+1.00 (.03)
+0.98 (.00)
+2016 vs. 2017
+0.99 (.03)
+1.00 (.81)
+1.01 (.00)
+2017 vs. 2018
+1.00 (.04)
+1.00 (.61)
+0.98 (.00)
+2018 vs. 2019
+1.01 (.03)
+1.00 (.02)
+1.02 (.00)
+2019 vs. 2020
+0.91 (.00)
+0.89 (.00)
+0.88 (.00)
+Abbreviation: COVID‐19, coronavirus disease 2019.
+a
+Relative decline was measured by the ratio of the cancer incidence rates compared with the previous year. Incidence rates were age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Cases were from National Program of Cancer Registries and Surveillance, Epidemiology, and End Results Program areas reported by the North American Association of Central Cancer Registries; because of differences in data collection in the state for 2020 compared with previous years, Nevada data were excluded.
+b
+Tertiles were determined using the state rankings of COVID‐19 policy restrictions during March to November 2020 developed by the New York Times using data from the Oxford COVID‐19 government response tracker.
+33
+ The policy restriction data were used as a proxy measure of curtailed daily‐life activities.
+The preliminary assessments of the cancer incidence rates by month demonstrated that 2020 cancer incidence rates were highest in January and February and lowest in March, April, and May, with April being dramatically lowest (Figure 4). This monthly pattern was seen regardless of sex, race, ethnicity, urban/rural status, community poverty level, stage, or site. These monthly patterns were not seen in the preceding 4 years or in the 2021 rates. Additional years of data are needed for full understanding, but it appears that incidence largely returned to expected rates by site, based on delayed‐adjusted or observed rates, for 2021 (Tables 1 and 3).
+FIGURE 4
+Overall, observed, age‐adjusted rates for all cancer sites combined by month for 2016 through 2021. Max indicates maximum; min, minimum.
+Figure 5 illustrates the mapped state‐level data, displayed by tertile, for the decline in incidence rates from 2019 to 2020 as well as 2020 COVID‐19 policy restrictions, 2020 COVID‐19 death rates, and change in mammography utilization from 2018 to 2020. There appears to be a geographic component to the stringency of COVID‐19 policy restrictions and, to a lesser extent, to COVID‐19 death rates. However, neither policy restrictions, COVID‐19 death rates, or mammography changes appear to explain much of the state‐level decline in 2020 cancer incidence rates.
+FIGURE 5
+Four choropleth US maps illustrate the potential impact of the COVID‐19 pandemic. (A) Map A illustrates the relative decline in cancer incidence rates from 2019 to 2020, with the darkest colors representing greater declines in rates. (B) To approximate curtailed general life activities, map B illustrates the stringency of COVID‐19 policy restrictions from March 1 to November 1, 2020, with the darkest colors representing the most restrictive policies. (C) To approximates limits on health care access because of health system capacity, map C illustrates the magnitude of COVID‐19 death rates during 2020, with the darkest colors representing the highest death rates. (D) To approximate health care access because of facility closure and related policies, map D illustrates the change in mammography use reported in 2018 and 2020, with the darkest colors representing the greatest declines in screening and hashing representing an increase. COVID‐19 indicates coronavirus disease 2019.
+This is further confirmed by Tables 7, 8, and 9,
+29
+, 
+30
+, 
+31
+ which show the relative decline in incidence from 2019 to 2020 for all sites combined and for selected sites according to the stringency of policy restrictions (Table 7), COVID‐19 death rates (Table 8), and mammography utilization (for female breast cancer only; Table 9). Although there appears to be a gradient, with increasing stringency of COVID‐19 restrictions associated with greater declines in 2020 incidence for certain sites (e.g., female breast, thyroid), the differences are minimal, and the CIs overlap for most data points (indicating statistical uncertainty). However, all sites combined, breast cancer, pancreatic cancer, and thyroid cancer appear to have greater declines in 2020 cancer incidence associated with the stringency of COVID‐19 policy restrictions when comparing the decline for the states with the most versus least stringent restrictions (Table 7).
+TABLE 7
+Relative decline in cancer incidence from 2019 to 2020
+a
+ by cancer site among registries grouped by stringency of 2020 coronavirus disease 2019 policy restrictions.
+b
+Cancer site
+COVID‐19 restrictions: Rate ratio (95% CI)
+Most stringent
+Intermediate
+Least stringent
+All sites combined
+0.88 (0.88–0.89)
+0.89 (0.88–0.89)
+0.91 (0.90–0.91)
+Female breast
+0.89 (0.88–0.90)
+0.90 (0.89–0.90)
+0.93 (0.92–0.94)
+Cervix
+0.90 (0.86–0.94)
+0.88 (0.85–0.92)
+0.89 (0.84–0.95)
+Colon and rectum
+0.89 (0.87–0.90)
+0.87 (0.86–0.88)
+0.88 (0.87–0.90)
+Lung and bronchus
+0.86 (0.85–0.87)
+0.87 (0.86–0.88)
+0.87 (0.86–0.89)
+Oral cavity and pharynx
+0.92 (0.90–0.94)
+0.94 (0.92–0.95)
+0.95 (0.93–0.98)
+Pancreas
+0.93 (0.91–0.95)
+0.95 (0.93–0.96)
+0.98 (0.96–1.01)
+Prostate
+0.86 (0.85–0.87)
+0.83 (0.83–0.84)
+0.86 (0.85–0.87)
+Thyroid
+0.81 (0.80–0.83)
+0.85 (0.83–0.86)
+0.90 (0.87–0.93)
+Abbreviations: CI, confidence interval; COVID‐19, coronavirus disease 2019.
+a
+Relative decline was measured by the ratio of the cancer incidence rate in 2020 to that in 2019. Incidence rates were age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130 US Government Printing Office; 2000). Cases were from National Program of Cancer Registries and Surveillance, Epidemiology, and End Results Program areas reported by the North American Association of Central Cancer Registries; because of differences in data collection in the state for 2020 compared with previous years, Nevada data were excluded.
+b
+Tertiles were determined using the state rankings of COVID‐19 policy restrictions during March to November 2020 developed by the New York Times using data from the Oxford COVID‐19 government response tracker.
+33
+ The policy restriction data were used as a proxy measure of curtailed daily‐life activities.
+TABLE 8
+Relative decline in cancer incidence from 2019 to 2020
+a
+ by cancer site among registries grouped by the magnitude of coronavirus disease 2019 death rates in 2020.
+b
+Cancer site
+Tertile of 2020 COVID‐19 death rate: Rate ratio (95% CI)
+Highest, 90.6–141.6 deaths per 100,000
+Intermediate, 70.3–90.5 deaths per 100,000
+Lowest, 16.0–70.2 deaths per 100,000
+All sites combined
+0.88 (0.88–0.88)
+0.89 (0.89–0.90)
+0.90 (0.89–0.90)
+Female breast
+0.88 (0.88–0.89)
+0.92 (0.91–0.93)
+0.90 (0.89–0.91)
+Cervix
+0.87 (0.84–0.91)
+0.89 (0.85–0.93)
+0.91 (0.87–0.95)
+Colon and rectum
+0.87 (0.86–0.88)
+0.88 (0.87–0.89)
+0.88 (0.87–0.9)
+Lung and bronchus
+0.86 (0.85–0.87)
+0.87 (0.86–0.88)
+0.88 (0.87–0.89)
+Oral cavity and pharynx
+0.93 (0.91–0.95)
+0.93 (0.91–0.96)
+0.94 (0.92–0.96)
+Pancreas
+0.94 (0.92–0.96)
+0.95 (0.94–0.98)
+0.96 (0.94–0.98)
+Prostate
+0.84 (0.83–0.85)
+0.86 (0.85–0.86)
+0.86 (0.85–0.87)
+Thyroid
+0.81 (0.79–0.83)
+0.86 (0.84–0.88)
+0.86 (0.84–0.88)
+Abbreviations: CI, confidence interval; COVID‐19, coronavirus disease 2019.
+a
+Relative decline was measured by the ratio of the cancer incidence rate in 2020 to that in 2019. Incidence rates were age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Cases were from National Program of Cancer Registries and Surveillance, Epidemiology, and End Results Program areas reported by the North American Association of Central Cancer Registries; because of differences in data collection in the state for 2020 compared with previous years, Nevada data were excluded.
+b
+Tertiles were determined using the state rankings of age‐adjusted coronavirus disease 2019 death rates obtained from the Centers for Disease Control and Prevention's National Vital Statistics System using CDC Wonder.
+36
+ The 2020 mortality from coronavirus disease 2019 was used as a proxy measure of limits on health care access because of health system capacity.
+TABLE 9
+Relative decline in female breast cancer incidence from 2019 to 2020
+a
+ among registries grouped by change in mammography utilization.
+b
+Cancer site
+Change in mammography use from 2018 to 2020: Rate ratio (95% CI)
+Increase (0.1% to 6.0%)
+Smallest decline (−0.1% to −2.8%)
+Intermediate decline (−2.8% to −7.2%)
+Greatest decline (−7.3% to −21.2%)
+Female breast
+0.91 (0.89–0.92)
+0.91 (0.90–0.92)
+0.89 (0.89–0.90)
+0.90 (0.89–0.91)
+Abbreviation: CI, confidence interval.
+a
+Relative decline was measured by the ratio of the cancer incidence rate in 2020 to that in 2019. Incidence rates were age standardized to the 2000 US standard population (19 age groups: US Bureau of the Census. Current Population Report P25‐1130. US Government Printing Office; 2000). Cases were from National Program of Cancer Registries and Surveillance, Epidemiology, and End Results Program areas reported by the North American Association of Central Cancer Registries; because of differences in data collection in the state for 2020 compared with previous years, Nevada data were excluded.
+b
+Groups were determined using the state rankings of change from 2018 to 2020 in the percentage of women aged 50–74 years who had a mammogram in the past 2 years obtained from the Centers for Disease Control and Prevention's Behavioral Risk Factor Surveillance System for 2018 and 2020.
+37
+ First, states with an increase in mammography use were grouped together; then, tertiles were determined among states with declines in mammography use. Changes in mammography use were used as a proxy measure of limits on health care access.
+Although there was a statistically significant increase in the proportion of late‐stage diagnosis in 2020 for all sites combined and for some screenable cancers compared with prior years, the difference is slight for most sites and is generally followed by a decrease in the proportion of late‐stage diagnosis for 2021 (Figure 6). The exception is cervical cancer, for which late‐stage diagnosis ranged from 52% to 53.4% during 2017 through 2019, then increased to 57.4% in 2020, and to 57.7% in 2021. Prostate cancer also had a modest increase in the proportion of late‐stage diagnosis from 24.3% to 24.4% between 2020 and 2021, but the CIs overlap, indicating statistical instability.
+FIGURE 6
+The percentage of cases diagnosed at late stage (regional or distant) for all sites and for five sites with screenable cancers by year (2017–2021) with confidence intervals. Late stage is defined as the percentage of total staged cancers that are diagnosed as regional or distant based on the National Cancer Institute's Surveillance, Epidemiology and End Results (SEER) summary stage.
+DISCUSSION
+Progress has been made in reducing overall cancer mortality, largely driven by sustained declines in lung cancer. Cancer mortality declined even through the first 2 years of the COVID‐19 pandemic. Despite the overall progress, mortality declines have slowed for several cancers, including colorectal and prostate, partly because of a continued rise in incidence rates, either overall or in certain age groups. In addition, mortality has increased for cancers of the bones and joints among men since 2012 and for liver cancer among women since 2001, although the increase has slowed since 2014. Although overall cancer mortality among children continued to decline, rates among AYAs were stable from 2020 to 2022.
+Of interest is the increase in mortality among men with nonmelanoma skin cancer, the 16th most common cause of cancer death among men. Similar increases in mortality for this cancer associated with ultraviolet radiation have been documented in many parts of the world.
+39
+ However, US population‐based cancer registries do not collect epithelial skin cancers (basal or squamous), and mortality statistics do not differentiate deaths from epithelial cancers versus nonepithelial skin cancers among those who died from nonmelanoma skin cancer. This discrepancy between the two data‐collection systems makes it challenging to compare incidence and mortality rates for nonmelanoma skin cancers. However, because mortality from basal or squamous cell skin cancer is extremely rare, the incidence of cancers classified under the other nonepithelial skin category is assumed to be roughly comparable to the nonmelanoma mortality category. Post hoc analysis indicated that incidence rates for other nonepithelial skin cancers appear to be increasing among men but not among women.
+Unlike mortality, the incidence trend for all cancers combined has been stable in men since 2013 and has increased slowly in women by 0.3% annually. Cancer rates are rising for more cancer sites in women than in men. However, the largest observed increase in cancer among women, stomach cancer, is likely driven primarily by a change in the WHO classification of tumors.
+11
+ Gastrointestinal stromal tumors, or GISTs, are rare tumors commonly diagnosed in the stomach; and, historically, most GISTs were classified as nonmalignant. However, based on increased understanding of these rare tumors, the WHO classification now considers all GISTs to be malignant unless specifically stated otherwise by the pathologist. Because cases of stomach cancer are low, the addition of these GISTs, which became effective with the 2021 diagnoses of cases in the United States,
+40
+, 
+41
+ increased rates, which, in turn, are reflected in the increasing AAPC for stomach cancers. Further review of the data confirms that stomach cancer rates per 100,000 females per year were stable during 2017–2018 (4.7 in 2017 and 2018. 4.8 in 2019, with overlapping CIs) but then increased by about 13% to 5.4 in 2021. This increase reflects an artifact of changes in disease classification rather than a true change in the underlying burden of the disease.
+The continued reduction in tobacco use has led to declines in incidence and death rates for several smoking‐related cancers, including lung, bladder, and larynx. The pace of reduction in the lung cancer death rate has been faster than the decline in incidence since the middle 2000s, coinciding with multiple breakthroughs in treatments for non‐small cell lung cancer
+42
+, 
+43
+, 
+44
+, 
+45
+ and increased access to care through Medicaid expansion.
+46
+, 
+47
+ Reductions in lung cancer mortality during recent years also likely reflect, in part, lung cancer screening, which has been recommended since 2013 and has been accompanied by a simultaneous increase in the proportion of lung cancers diagnosed at an early stage.
+48
+, 
+49
+, 
+50
+ Nevertheless, the screening prevalence remains low, at 18% of eligible adults in 2022,
+51
+ highlighting that there may be opportunities to further decrease lung cancer death rates. Despite remarkable progress, lung cancer remains the leading cause of cancer death for both sexes. As part of the Cancer Moonshot's broader effort to reduce the cancer death rate, the US Department of Health and Human Services unveiled a new framework to further accelerate smoking cessation and reduce smoking‐related and cessation‐related disparities.
+52
+Contrary to the rapid declines in incidence rates in smoking‐associated cancers, incidence rates are increasing for multiple cancers, particularly those associated with excess body weight,
+53
+ including female breast, uterus, colon and rectum (among AYAs), pancreas, kidney, and liver (women). A parallel rise in mortality occurred for colorectal cancer (among AYAs), pancreatic cancer (men), and liver cancer (women).
+The breast cancer incidence rate is gradually increasing. This increase is predominantly driven by estrogen receptor‐positive cancer, which, in part, may reflect a reduction in fertility rates and advancing age at first birth, as well as rises in obesity and alcohol consumption, all of which have been consistently associated with an increased risk of estrogen receptor‐positive cancer.
+54
+, 
+55
+, 
+56
+, 
+57
+ The trend also may relate in part to the increase in binge drinking among middle‐aged women,
+58
+ although any amount of alcohol consumption increases the risk of breast cancer. An estimated 16% of all breast cancer in the United States is attributable to alcohol consumption.
+59
+ Since peaking in 1989, the breast cancer death rate has decreased by 42% as of 2021
+60
+ because of advancements in treatments and earlier detection with screening.
+60
+ However, Black women experience a 40% higher death rate than White women, a disparity that has persisted for decades.
+61
+, 
+62
+Uterine cancer is the fourth most commonly diagnosed cancer in women and one of the few cancers with increasing trends in both incidence and mortality. Well established risk factors for uterine cancer include obesity, physical inactivity, and diabetes as well as early age at menarche, which likely contribute to the increasing incidence trends.
+62
+ One study estimated that a significant portion of all uterine cancers in the United States can be attributed to excess body weight (53%) and physical inactivity (14%),
+59
+ suggesting that these may be intervenable factors for the reduction of these cases. Furthermore, uterine cancer has a significant Black–White mortality disparity, which is even larger than what is observed with breast cancer.
+63
+ Despite comparable incidence rates, the uterine cancer death rates among Black women are double those of White women. Although the higher prevalence of aggressive subtype (nonendometrioid) cancers among Black women may account in part for the difference, survival disparities are evident across subtypes as well as stages.
+64
+, 
+65
+ This points to differences in access to care as well as a lower receipt of both guideline‐concordant diagnostic procedures and treatment among Black women that is well documented in the literature.
+66
+, 
+67
+, 
+68
+, 
+69
+, 
+70
+, 
+71
+ One additional potential risk factor disproportionately affecting Black women is the use of chemical hair relaxers, which may be associated with an increased risk of uterine cancer among postmenopausal women.
+72
+, 
+73
+2020 incidence decline
+Although rates of cancer incidence decreased significantly in 2020, 2021 rates are in alignment with 2019, and current trend data indicating a return to expected incidence rates have been reported.
+74
+, 
+75
+ Because of pandemic‐related disruptions in medical care,
+76
+ cancers that could have been prevented or detected early through screening in 2020 may now be diagnosed at a later stage. Although the proportion of late‐stage cancers increased in 2020 for all sites combined and for most screenable cancers, this pattern reversed in 2021 except for cervix and prostate cancers. For prostate cancer, this is the continuation of a steady increase in advanced‐stage diagnosis reported by us and others in recent years, likely because of updated screening recommendations and advancements in diagnostic tests.
+76
+, 
+77
+ Because fewer cancers were diagnosed in 2020, especially through screening, we may see a larger percentage of cancers diagnosed at a late stage in future years.
+21
+ Additional years of data will help elucidate the impact of the pandemic on stage at diagnosis as well as the effect of any potential shifts in the proportion of cancers diagnosed at later stages.
+The magnitude of the decline in cancer incidence did not appear to be strongly associated with our proxies for state‐level healthcare capacity or community‐level COVID‐19 prevention policies. This was further corroborated by our observation that incidence declined in April 2020 for every demographic group, cancer site, and state, confirming what has been reported previously.
+21
+ This suggests that changes in human behavior and health care facility policies at the local level were likely greater drivers of the decline in cancer diagnosis. Developing and providing public health guidance to medical personnel, as well as the public, on how to safely provide and access health care during times of social disruption may help ensure continued timely diagnosis of cancer.
+78
+Strengths and limitations
+Our study had many strengths, including the use of population‐based cancer registry data that meet the NAACCR high‐quality data standards. We also had the ability to review detailed, population‐based, state‐level incidence data for the entire United States, making this the most comprehensive analysis of the COVID‐19 pandemic's impact on the number of newly diagnosed cancer cases in the United States. Our research data sets also allowed comparison of rates by year based on primary and successive submission files rather than reported statistics. Because we compared 2020 incidence at the time of submission with previous years of incidence at the time of submission, we did not overestimate the extent of the decline. However, we were limited by our proxy measures for health care capacity (deaths from COVID‐19), health care access (breast cancer screening), and the extent of social disruption (policy restrictions) during the COVID‐19 pandemic. These broad, state‐level measures did not account for temporal fluctuations or for location differences. Furthermore, the policy restrictions index measured only the policies enacted and did not assess the extent to which policies were implemented.
+CONCLUSION
+Overall, cancer incidence and death rates continue to decline, representing changes in risk factors, increases in screening utilization, and advances in treatment. However, sustained disparities by race and ethnicity emphasize the need to fully understand the factors that create these differences so that they can be mitigated. Population‐based incidence and mortality data play a vital role in informing cancer control efforts to help reduce the cancer burden in the United States.
+Our analysis indicates that the decline in 2020 cancer diagnoses has not carried over into 2021 incidence rates. However, additional data years are needed to correctly interpret this decline and assess whether cases went undiagnosed or underreported, because the rates in 2021 were not greater than expected. The full impact of the decline in cancer diagnoses during 2020 on stage at diagnosis and survival will become clearer with additional years of incidence data. However, our results underscore the importance of public health policy to ensure continued access to cancer‐related care, even during public health emergencies such as pandemics. Effective cancer control and infectious disease control policies are not mutually exclusive and can be applied simultaneously to protect our nation's health. Population‐based incidence and mortality data play a vital role in informing cancer control efforts to help reduce the cancer burden in the United States.
+AUTHOR CONTRIBUTIONS
+Recinda L. Sherman: Conceptualization; formal analysis; methodology; writing—original draft; and writing—review and editing. Albert U. Firth: Data curation; formal analysis; and methodology. S. Jane Henley: Conceptualization; writing—original draft; and writing—review and editing. Rebecca L. Siegel: Conceptualization; writing—original draft; and writing—review and editing. Serban Negoita: Conceptualization; writing—original draft; and writing—review and editing. Hyuna Sung: Writing—original draft and writing—review and editing. Betsy A. Kohler: Writing—review and editing. Robert N. Anderson: Writing—review and editing. James Cucinelli: Visualization. Susan Scott: Writing—review and editing. Vicki B. Benard: Writing—review and editing. Lisa Richardson: Writing—review and editing. Ahmedin Jemal: Conceptualization and writing—review and editing. Kathleen A. Cronin: Conceptualization; writing—original draft; and writing—review and editing.
+CONFLICT OF INTEREST STATEMENT
+Rebecca L. Siegel, Hyuna Sung, and Ahmedin Jemal are employed by the American Cancer Society, which receives grants from private and corporate foundations, including foundations associated with companies in the health sector for research outside the submitted work. The authors are not funded by any of these grants, their salary is solely funded through American Cancer Society funds, and they have nothing else to disclose. Betsy A. Kohler reports personal fees from the National Firefighters Registry outside the submitted work and is a fiduciary officer of the North American Association of Central Cancer Registries. The remaining authors disclosed no conflicts of interest.

@@ -1,0 +1,473 @@
+record_id=477 pmid=41649619 doi=10.1007/s10552-025-02124-x pmcid=PMC12881098
+TITLE: Spillover effects of public school integration in the southern United States: diverging trends in statewide annual breast cancer incidence, 2001–2019
+
+Introduction
+Racial segregation in the United States of America is well documented as having had a profound impact on disparities in cancer outcomes between non-Hispanic Black and White Americans. Per Jatoi et al., age-adjusted breast cancer mortality in the U.S. is approximately 40% higher among non-Hispanic Black women than non-Hispanic White women, despite lower incidence among the former [1]. Residing in racially segregated neighborhoods—often due to discriminatory practices like redlining rather than personal choice—is associated with an increased likelihood of late-stage diagnosis of, and therefore mortality from, breast and lung cancers [2]. Zeroing in on the effects of historical de jure segregation in the USA on breast cancer outcomes, Krieger et al. find that while non-Hispanic Black women are at significantly greater risk of developing estrogen receptor-negative (ER-) breast cancer than non-Hispanic White women overall, this disparity is amplified for women born in the southern United States before 1965 under the rule of “Jim Crow” laws mandating racial segregation in all public facilities and places of business [3].
+While the broader effects of racial segregation on cancer outcomes have been well established, the specific pathways through which educational segregation—particularly in primary and secondary schools—may influence long-term cancer risk remain underexplored. Under the Grossman model of health demand, education is identified as the single most important determinant of how efficiently an individual can increase their stock of health by consuming one additional unit of medical care [4]. Ehrlich expands on this relationship using optimal control theory to model significant interactions between educational capital and health capital over one’s lifespan [5]. Goldman and Smith further demonstrate this mechanism, showing that the better educated an individual is, the better their self-management of disease—a finding they confirm in a large cohort of HIV patients being treated with highly active antiretroviral therapy (HAART) [6].
+For almost a full century prior to Brown v. Board of Education, the landmark U.S. Supreme Court case that unanimously ruled the segregation of White and Black public school students on the basis of race unconstitutional in 1954, racial minorities in 20 southern states had lived under the rule of discriminatory Jim Crow laws [3, 7]. The separate public schools that were established for Black students during this era were anything but equal, as state governments divested a disproportionate amount of public money into schools for White children. Many schools for Black students had leaking roofs, sagging floors, and windows without glass, and faced shortages of desks, books, and qualified teachers. Additionally, states imposed limits on what Black students could be taught, resulting in limited literacy relative to White students with equivalent years of schooling [8].
+As of May 17, 1954, the day Brown v. Board was decided, 17 southern states still mandated public school segregation. At the start of the 1955–1956 school year, each of these states varied widely in efforts made to comply with the Supreme Court’s order to enforce public school integration with “deliberate speed.” Per Time magazine, which issued a report card of the states’ progresses toward school desegregation, grading each state from “A” to “F,” Missouri (A) was the least resistant to the court’s order, having integrated 80% of its Black students into previously white-only schools starting September 1955. By contrast, while South Carolina (F) was one of several states that made no efforts to desegregate, it was the only state to pass legislation overtly threatening to cut funding from any school district permitting integration [9].
+Given that the Grossman model of health demand establishes a clear relationship between an individual’s level of education and their future health status and that Krieger et al. show significant associations between being born in the Jim Crow era South and an increased risk of breast cancer among non-Hispanic Black women relative to non-Hispanic White women, I performed several segmented linear regressions on trends in annual breast cancer incidence rates among multiple birth cohorts in Missouri and South Carolina to explore potential associations between the integration of public schools in Missouri starting September 1955 and altered trends in breast cancer incidence among non-Hispanic Black women relative to non-Hispanic White women [3, 5]. Evidence of school integration reducing disparities in breast cancer incidence between non-Hispanic Black and White women would substantially enhance policymakers’ knowledge of how interventions aimed at combating de facto public school segregation, still rampant in the U.S. today, could further translate to reduced racial inequity in both cancer and overall health outcomes.
+Methods
+Data source
+To conduct this analysis, I first obtained access to United States Cancer Statistics (USCS) data spanning 2001–2021. USCS compiles cancer incidence data reported to the Centers for Disease Control and Prevention’s (CDC’s) National Program of Cancer Registries (NPCR) and the National Cancer Institute’s (NCI’s) Surveillance, Epidemiology, and End Results (SEER) Program into a single public use database with cancer incidence data for all 50 states, Washington, D.C., and Puerto Rico [10]. The database was analyzed using NCI’s SEER*Stat 8.4.5 software package. I restricted the analytic dataset to statewide breast cancer incidence among non-Hispanic Black and non-Hispanic White women born between 1937 and 1950, as this cohort would have been of school age when Missouri integrated its public schools in September 1955 [9].
+Exposure variables: home state and year of birth
+Given Missouri’s swift integration of public schools following Brown v. Board relative to 16 other Jim Crow states, and South Carolina’s continued resistance to public school integration through 1970, I chose to focus this analysis specifically on breast cancer incidence among female residents of these two states, hypothesizing that any significant changes in annual incidence rates observed among non-Hispanic Black women in Missouri would not be simultaneously observed among non-Hispanic Black women in South Carolina [9]. It should be noted that, while USCS only allows researchers to filter cancer incidence data by home state at diagnosis, not by state of birth, the Federal Reserve finds that both Missouri and South Carolina are relatively sticky with respect to their retention of native residents. As of 2021, 68% of all Missouri residents and 72% of all South Carolina residents were born in their respective home states [11].
+As Sanbonmatsu, Kling, and others note that the benefits of policy interventions that move underprivileged students to better schools are primarily observed in younger children (i.e., ages 6–10) with less lifetime exposure to poverty than teenagers, I further stratified the analytic dataset into two birth cohorts: those born from 1937 to 1943 (11–18 years of age at the time of Missouri public school integration), and those born from 1944 to 1950 (4–11 years of age at the time of integration) [12]. I hypothesized that, given this assumption, significant changes in annual incidence rates would only be observed among non-Hispanic Black women in Missouri born from 1944 to 1950, and not those born from 1937 to 1943.
+Outcome: breast cancer incidence rates (per 100,000) over time
+I used SEER’s AYA Site Recode 2020 Revision variable to identify incident cases of breast cancer (defined as any of the following: 9.6 carcinoma of breast, 9.6.1 breast—infiltrating duct, 9.6.2 breast—adenocarcinoma, 9.6.3 breast—lobular, 9.6.4 breast—phyllodes, 9.6.5 breast—medullary, 9.6.6 breast—paget, 9.6.7 breast—ductal, 9.6.8 breast—metaplastic, 9.6.9 breast—inflammatory, 9.6.10 breast—other) from 2001 to 2019 and used McNeil et al.’s method of cubic spline interpolation to estimate total annual birth cohort populations using 2000, 2010, and 2020 U.S. Census data sourced from the IPUMS National Historical Geographic Information System (NHGIS) [13]. I then derived annual incidence rates per 100,000 from 2001 to 2019 for each cohort of interest using the reported numbers of cases and interpolated population estimates.
+Given that the median age of breast cancer diagnosis in the U.S. is 61–62 years and that cancer risk increases exponentially as individuals’ age into their 60s and 70s, I hypothesized that the treatment effect would first be observable at a median age of 62 years [14, 15]. I therefore set the cutoff points for segmented linear regression at 62, anticipating significant differences in trends in annual breast cancer incidence from median ages 62 onward, and non-significant differences in trend between median ages 54–62.
+Covariates
+In order to minimize the capture of incidence data from women not born and raised in the Jim Crow era South, I restricted the analytic dataset to incidence among non-Hispanic Black and non-Hispanic White women using SEER’s race and origin recode variable, which classifies each case as either NHW (non-Hispanic White), NHB (non-Hispanic Black), NHAIAN (non-Hispanic American Indian/Alaska Native), NHAPI (non-Hispanic Asian/Pacific Islander), or Hispanic. I hypothesized that any changes in trend observed among non-Hispanic Black women in Missouri born between 1944 and 1950 would not be observed among non-Hispanic White women of the same age if the effect was truly correlated with integrating Black students into formerly white-only public schools. As a robustness check, I referenced data from the CDC’s Behavioral Risk Factor Surveillance System (BRFSS) survey to estimate changes in breast cancer screening rates among the 1944–1950 birth cohort from 2008 (then 57–64 years of age) to 2016 (then 65–72 years of age), with screening defined as having had a mammogram within the past two years [16, 17].
+Statistical analysis
+Using Stata® 14.0, I performed several segmented linear regressions on annual incidence rates by median age to compare incidence among non-Hispanic Black and White women in Missouri and South Carolina born from 1944 to 1950 and among corresponding cohorts born from 1937 to 1943. I used Wald tests to assess whether growth rates of annual breast cancer incidence past the median age of 62 were significantly lower in non-Hispanic Black women in Missouri than in non-Hispanic White women in Missouri and non-Hispanic Black women in South Carolina within each birth cohort, and to assess whether growth rates past the median age of 69 were significantly lower among non-Hispanic Black women in Missouri than in non-Hispanic White women in Missouri and non-Hispanic Black women in South Carolina born from 1937 to 1943—in order to test for potential period effects contemporaneously affecting both cohorts around a 2009 cutoff [18]. QueryI additionally built two generalized linear models (GLMs) with a gamma family and log link in order to perform sensitivity and robustness checks and again employed Wald tests to assess whether predicted annual percentage growth in incidence per 100,000 was significantly lower in non-Hispanic Black women in Missouri than in their non-Hispanic White peers in Missouri or their non-Hispanic Black peers in South Carolina. Unlike the segmented linear regression models, which estimated absolute year-over-year change in incidence rates, these GLMs yielded multiplicative effects interpretable as percent change in incidence per each additional year of age.
+Results
+As noted in Table 1, I identified a total of 15,284 incident cases of breast cancer from 2001 to 2019 among Missouri women born between 1944 and 1950 (1,482 among non-Hispanic Black women, 13,802 among non-Hispanic White women), and a total of 12,815 incident cases over the same timespan among Missouri women born between 1937 and 1943 (982 among non-Hispanic Black women, 11,833 among non-Hispanic White women). I additionally identified a total of 13,726 incident cases of breast cancer among South Carolina women born between 1944 and 1950 (3,007 among non-Hispanic Black women, 10,719 among non-Hispanic White women), and a total of 10,132 cases among South Carolina women born between 1937 and 1943 (1,994 among non-Hispanic Black women, 8,138 among non-Hispanic White women).Table 1Annual incident cases of breast cancer by state, birth cohort, and race (2001–2019)StateMissouri (MO)South Carolina (SC)Cohort1944–1950 Births1937–1943 Births1944–1950 Births1937–1943 BirthsRaceBlackWhiteBlackWhiteBlackWhiteBlackWhite2001615465762112334382365200274582445971003659237420034855443598125359963382004625254857212841810335220057054848602129432913502006665955758212545710241220077459246588139483133425200875690556481744981014592009977476063518151512941420107972749612150662944392011997436568416365110748320128779457663168665130496201386839576681667341024652014958624269716374611246220159187467647189679116500201685894486302116959943220179789264607201643109478201862861375941906799245920197491738588182695103435
+Table 1
+Annual incident cases of breast cancer by state, birth cohort, and race (2001–2019)
+Missouri (MO)
+South Carolina (SC)
+1944–1950 Births
+1937–1943 Births
+1944–1950 Births
+1937–1943 Births
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+2001
+61
+546
+57
+621
+123
+343
+82
+365
+2002
+74
+582
+44
+597
+100
+365
+92
+374
+2003
+48
+554
+43
+598
+125
+359
+96
+338
+2004
+62
+525
+48
+572
+128
+418
+103
+352
+2005
+70
+548
+48
+602
+129
+432
+91
+350
+2006
+66
+595
+57
+582
+125
+457
+102
+412
+2007
+74
+592
+46
+588
+139
+483
+133
+425
+2008
+75
+690
+55
+648
+174
+498
+101
+459
+2009
+97
+747
+60
+635
+181
+515
+129
+414
+2010
+79
+727
+49
+612
+150
+662
+94
+439
+2011
+99
+743
+65
+684
+163
+651
+107
+483
+2012
+87
+794
+57
+663
+168
+665
+130
+496
+2013
+86
+839
+57
+668
+166
+734
+102
+465
+2014
+95
+862
+42
+697
+163
+746
+112
+462
+2015
+91
+874
+67
+647
+189
+679
+116
+500
+2016
+85
+894
+48
+630
+211
+695
+99
+432
+2017
+97
+892
+64
+607
+201
+643
+109
+478
+2018
+62
+861
+37
+594
+190
+679
+92
+459
+2019
+74
+917
+38
+588
+182
+695
+103
+435
+As shown in Fig. 1, I observed markedly higher growth in annual breast cancer incidence rates among non-Hispanic Black Missouri women from the median ages of 54–62 than in their non-Hispanic White counterparts in Missouri (p = 0.049) and non-Hispanic Black counterparts in South Carolina (p = 0.083) born between 1944 and 1950. However, as predicted, I observed significantly decreased growth in annual incidence rates among non-Hispanic Black Missouri women past the median age of 62 while observing increased growth among both comparator groups across the post-cutoff period. Table 2 lists annual incidence rates per 100,000 by state, birth cohort, and race.Fig. 1Breast cancer incidence rates per 100,000 by median age (1944–1950 births). Data points represent observed incidence rates per 100,000 while lines of best fit represent regressionestimated predicted incidence ratesTable 2Annual breast cancer incidence rates (per 100,000) by state, birth cohort, and raceStateMissouri (MO)South Carolina (SC)Cohort1944–1950 Births1937–1943 Births1944–1950 Births1937–1943 BirthsRaceBlackWhiteBlackWhiteBlackWhiteBlackWhite2001267.4264.2357.1390.7264.0262.4269.4364.32002325.9281.5279.0377.7214.3275.3299.4370.72003212.4268.0276.0380.6267.5267.0313.7332.82004276.0254.1312.0365.5273.4307.1337.7344.82005313.5265.4316.5388.8275.6313.4300.0341.62006297.7288.9381.7379.4267.3327.9338.9401.22007336.7288.4313.1387.2297.6343.1445.7413.72008344.7337.9381.6432.2373.7350.7342.4447.52009450.8368.3425.1429.8390.9360.1443.4405.72010372.0361.3355.4421.2326.2460.1328.7433.62011473.5373.3483.9480.4357.7450.7382.3482.62012423.4403.7437.1476.6372.7458.9475.6502.82013426.4432.4451.5492.5373.0505.8383.9480.02014481.0461.9344.7528.8371.8514.0434.4486.92015471.1465.9571.1506.2438.3468.0465.7539.42016450.8485.3426.2509.6497.7479.9412.7478.32017527.5494.3593.8509.0482.9445.1473.3544.42018346.3487.0360.0517.4465.7471.3417.5538.82019425.1530.0388.7533.1455.3483.7489.5527.1
+Fig. 1
+Breast cancer incidence rates per 100,000 by median age (1944–1950 births). Data points represent observed incidence rates per 100,000 while lines of best fit represent regressionestimated predicted incidence rates
+Table 2
+Annual breast cancer incidence rates (per 100,000) by state, birth cohort, and race
+Missouri (MO)
+South Carolina (SC)
+1944–1950 Births
+1937–1943 Births
+1944–1950 Births
+1937–1943 Births
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+2001
+267.4
+264.2
+357.1
+390.7
+264.0
+262.4
+269.4
+364.3
+2002
+325.9
+281.5
+279.0
+377.7
+214.3
+275.3
+299.4
+370.7
+2003
+212.4
+268.0
+276.0
+380.6
+267.5
+267.0
+313.7
+332.8
+2004
+276.0
+254.1
+312.0
+365.5
+273.4
+307.1
+337.7
+344.8
+2005
+313.5
+265.4
+316.5
+388.8
+275.6
+313.4
+300.0
+341.6
+2006
+297.7
+288.9
+381.7
+379.4
+267.3
+327.9
+338.9
+401.2
+2007
+336.7
+288.4
+313.1
+387.2
+297.6
+343.1
+445.7
+413.7
+2008
+344.7
+337.9
+381.6
+432.2
+373.7
+350.7
+342.4
+447.5
+2009
+450.8
+368.3
+425.1
+429.8
+390.9
+360.1
+443.4
+405.7
+2010
+372.0
+361.3
+355.4
+421.2
+326.2
+460.1
+328.7
+433.6
+2011
+473.5
+373.3
+483.9
+480.4
+357.7
+450.7
+382.3
+482.6
+2012
+423.4
+403.7
+437.1
+476.6
+372.7
+458.9
+475.6
+502.8
+2013
+426.4
+432.4
+451.5
+492.5
+373.0
+505.8
+383.9
+480.0
+2014
+481.0
+461.9
+344.7
+528.8
+371.8
+514.0
+434.4
+486.9
+2015
+471.1
+465.9
+571.1
+506.2
+438.3
+468.0
+465.7
+539.4
+2016
+450.8
+485.3
+426.2
+509.6
+497.7
+479.9
+412.7
+478.3
+2017
+527.5
+494.3
+593.8
+509.0
+482.9
+445.1
+473.3
+544.4
+2018
+346.3
+487.0
+360.0
+517.4
+465.7
+471.3
+417.5
+538.8
+2019
+425.1
+530.0
+388.7
+533.1
+455.3
+483.7
+489.5
+527.1
+Wald tests revealed that, among women born between 1944 and 1950, the growth of annual breast cancer incidence rates per 100,000 was significantly lower among non-Hispanic Black women in Missouri relative to both non-Hispanic White women in Missouri (p < 0.001) and non-Hispanic Black women in South Carolina (p = 0.017) across the post-cutoff period. Table 3 lists estimated growth rates (with 95% confidence intervals) across both the pre- and post-cutoff periods in all three groups.Table 3Pre- and post-cutoff growth in annual incidence rate per 100,000 (1944–1950 births)Pre-cutoff (Median Ages 54–62)Post-cutoff (Median Ages 62–72)StateRaceΔ (Slope)95% Low95% HighΔ (Slope)95% Low95% HighMOBlack+21.57+13.81+29.33+4.94-1.08+10.96MOWhite+12.36+4.61+20.12+19.10+13.08+25.11SCBlack+13.87+6.12+21.63+14.18+8.16+20.19
+Table 3
+Pre- and post-cutoff growth in annual incidence rate per 100,000 (1944–1950 births)
+Pre-cutoff (Median Ages 54–62)
+Post-cutoff (Median Ages 62–72)
+State
+Race
+Δ (Slope)
+95% Low
+95% High
+Δ (Slope)
+95% Low
+95% High
+MO
+Black
++21.57
++13.81
++29.33
++4.94
+-1.08
++10.96
+MO
+White
++12.36
++4.61
++20.12
++19.10
++13.08
++25.11
+SC
+Black
++13.87
++6.12
++21.63
++14.18
++8.16
++20.19
+As shown in Fig. 2, I observed parallel growth in annual breast cancer incidence rates after the median age of 62 among non-Hispanic Black and White women in Missouri and non-Hispanic Black women in South Carolina born from 1937 to 1943, supporting the hypothesis that reduced incidence would only be observed among the younger birth cohort. Wald testing confirmed that the post-cutoff growth rate of annual incidence per 100,000 was not significantly lower among non-Hispanic Black women in Missouri than among either non-Hispanic White women in Missouri (p = 0.488) or non-Hispanic Black women in South Carolina (p = 0.298).Fig. 2Breast cancer incidence rates per 100,00 by median age (1937–1943 births). Data points represent observed incidence rates per 100,000 while lines of best fit represent regressionestimated predicted incidence rates
+Fig. 2
+Breast cancer incidence rates per 100,00 by median age (1937–1943 births). Data points represent observed incidence rates per 100,000 while lines of best fit represent regressionestimated predicted incidence rates
+Wald testing additionally confirmed that the growth rate of annual incidence per 100,000 past the median age of 69 was not significantly lower among non-Hispanic Black women in Missouri than among either non-Hispanic White women in Missouri (p = 0.089) or non-Hispanic Black women in South Carolina (p = 0.375) born from 1937 to 1943, implying that potential period effects occurring around a 2009 cutoff did not significantly alter annual incidence among this birth cohort. Table 4 lists estimated growth rates (with 95% confidence intervals) across the post-cutoff period in all three groups.Table 4Post-cutoff growth in annual incidence rate per 100,000 (1937–1943 births)StateRaceΔ (Slope)95% Low95% HighMOBlack+7.87+3.50+12.23MOWhite+7.94+3.58+12.30SCBlack+6.60+2.24+10.97
+Table 4
+Post-cutoff growth in annual incidence rate per 100,000 (1937–1943 births)
+State
+Race
+Δ (Slope)
+95% Low
+95% High
+MO
+Black
++7.87
++3.50
++12.23
+MO
+White
++7.94
++3.58
++12.30
+SC
+Black
++6.60
++2.24
++10.97
+As denoted in Table 5 (Appendix B), using the first gamma log-link GLM with Wald tests to compare pre- and post-cutoff percentage growth in annual incidence rates among women born from 1944 to 1950 for sensitivity analysis, I again observed a significant decline in percentage growth of incidence per 100,000 among non-Hispanic Black women in Missouri from the pre-cutoff period to the post-cutoff period. Additionally, I once again found the post-cutoff percentage growth rate in this cohort to be significantly lower than the corresponding percentage growth rates observed in both non-Hispanic White women in Missouri (p = 0.001) and non-Hispanic Black women in South Carolina (p = 0.026).
+As denoted in Table 6 (Appendix B), using the second gamma log-link GLM to compare post-cutoff percentage growth in annual incidence rates among women born from 1937 to 1943, I again observed similar percentage growth in incidence per 100,000 among non-Hispanic Black and White women in Missouri and non-Hispanic Black women in South Carolina. Subsequent Wald testing once again confirmed that the percentage growth rate past the median age of 62 was not significantly lower among non-Hispanic Black Missouri women relative to either non-Hispanic White Missouri women (p = 0.246) or non-Hispanic Black South Carolina women (p = 0.267). Wald testing also confirmed that the percentage growth rate past the median age of 69 was not significantly lower among non-Hispanic Black Missouri women relative to non-Hispanic White Missouri women (p = 0.145) and non-Hispanic Black South Carolina women (p = 0.399) belonging to this birth cohort. Finally, as shown in Table 7 (Appendix B), I found through supplemental analysis of BRFSS data that screening rates within the 1944–1950 birth cohort consistently increased from 2008 to 2016 in both non-Hispanic Black and White women.
+Discussion
+My serial segmented regression analyses of USCS annual breast cancer incidence data indicate that, despite increases in breast cancer screening from 2008 to 2016, non-Hispanic Black women in Missouri born between 1944 and 1950—who were 4–11 years of age at the time of Missouri public school integration in September 1955—saw significantly reduced growth in breast cancer incidence from a median age of 62 (in 2009) onward relative to non-Hispanic White women in Missouri and non-Hispanic Black women in South Carolina—where public schools would remain segregated for another 15 years—belonging to the same birth cohort. I observed no such divergences in growth among non-Hispanic Black and White women in Missouri and South Carolina born from 1937 to 1943 past either a median age of 62 (in 2002) or 69 (in 2009), implying that the divergence observed in non-Hispanic Black Missouri women belonging to the younger birth cohort is likely attributable to cohort-specific effects rather than age effects or contemporaneous period effects impacting both birth cohorts around 2009 (i.e., improved access to breast cancer screenings and/or routine physical exams). My findings suggest that providing students with access to better-quality education before adolescence—during which literacy and numeracy become considerably less malleable—may be associated with protective spillover effects later in life as they reach higher-risk ages for breast cancer. In congruence with Goldman and Smith, I propose two mechanisms for why better-quality education might matter: first, a better-quality education enhances general literacy and therefore supports greater health literacy (the ability to obtain and process health-related information), and second, it also improves individuals’ capacity to comprehend their physicians’ guidance for preventing and/or managing chronic diseases [6]. In the case of breast cancer detection, both mechanisms may play key roles in an individual’s decision to screen regularly and/or start screening at an earlier age.
+Possible threats to the validity of these findings primarily arise from the fact that the Affordable Care Act (ACA) was enacted at approximately the same time the younger birth cohort reached a median age of 62. However, as the major provisions of the ACA aimed to expand health insurance coverage among working-class adults below the age of 65, particularly those with pre-existing conditions, passage of the ACA would only explain why non-Hispanic Black women in Missouri born between 1944 and 1950 saw substantial reductions in breast cancer incidence if the statute were observed to have had inverse consequences on uninsurance within the state, as uninsurance limits access to preventive screenings [19]. Given that data from the U.S. Census Bureau shows that the uninsurance rate fell by 4.0 percentage points in Missouri (13.9% to 8.9%) and 10.5 percentage points in South Carolina (20.5% to 10.0%) from 2010 to 2016, I dismiss the ACA’s passage as a likely alternative explanation for this key finding [20].
+That said, I acknowledge this analysis to have been constrained by the chosen dataset, as using state-level incidence data limited my ability to directly account for individual differences in socioeconomic status, health behaviors, and access to care that may have resulted in varying breast cancer risk and diagnosis timing; I additionally did not have true group population counts available for most of the study period (with the exception of 2010) to estimate annual incidence per 100,000 from. The SEER program’s evolving coding and staging guidelines over time also introduced potential bias—though I would expect such changes to have similarly affected year-to-year reported incidence in both non-Hispanic Black and White women. Lastly, although Federal Reserve data showed that ~70% of individuals born in Missouri and South Carolina continue to reside in their respective states of birth throughout their lifetimes, the nature of the chosen dataset made it impossible to ascertain what percentages of the reported cases and estimated populations were actually exposed to state-specific school integration policies, leaving the study’s findings susceptible to potential exposure misclassification bias due to migration to/from the states of interest. It is possible that, given access to better-quality education earlier on in their lifetimes, members of the 1944–1950 non-Hispanic Black birth cohort in Missouri may have migrated out of the state in pursuit of higher education and/or employment opportunities at a greater rate than their predecessors, potentially contributing to the underestimation of the true magnitude of reduction in annual breast cancer incidence associated with exposure to school integration.
+Overall, given the stated limitations, future research leveraging individual-level datasets such as SEER-Medicare data would be invaluable in clarifying causal mechanisms through which better-quality education influences cancer risk.
+Policy implications
+While de jure segregation has long since been abolished in all 50 states, de facto public school segregation still persists today, even in non-historically Jim Crow states, due to school assignment based on home addresses [21]. New Jersey, for example, ranks among one of the most segregated states in the nation in terms of interaction between Black and White public school students, surpassing all 20 historically Jim Crow states [22]. As a result of Abbott v. Burke, a 1985 civil case where the Superior Court of New Jersey ruled that public school education in disadvantaged communities throughout the state was unconstitutionally substandard, the New Jersey School Development Authority currently oversees the operations of 31 underperforming “SDA” school districts, 21 of which were predominantly Black and/or Hispanic as of 2010 [23]. Despite receiving 60% of New Jersey’s education aid while comprising just 5% of all municipal public school districts in the state, average mathematics and language arts proficiency rates in SDA districts have consistently remained 25 and 30 percentage points lower, respectively, than in non-SDA districts [24, 25]. The New Jersey State Commissioner of Education’s 2012 Funding Report also notes that only 14% of Black and 21% of Hispanic students in New Jersey met the SAT’s College-Readiness Benchmark in 2011, compared to 51% of White students [23]. My findings suggest that if policymakers in New Jersey were to overhaul the state’s current SDA system by consolidating SDA school districts with non-SDA school districts in neighboring municipalities to combat de facto school segregation, whether through more equitable school attendance boundaries or centralized school choice lotteries, younger students currently assigned to SDA districts might eventually benefit not only from improved core subject proficiency and college readiness but also later in life from associations between better-quality education and reduced incidence of breast cancer and other chronic diseases.

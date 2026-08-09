@@ -1,0 +1,682 @@
+record_id=1478 pmid=41385397 doi=10.1002/cncr.70202 pmcid=PMC12700332
+TITLE: Cancer incidence, stage at diagnosis, and trends across the Navajo Nation, 2014–2018
+
+INTRODUCTION
+With a population of more than 400,000 enrolled citizens and a land area the size of West Virginia, the Navajo Nation is one of the largest sovereign Tribal Nations in the United States (Figure 1).
+1
+ Cancer is the second leading cause of death among the Navajo people.
+2
+ Incidence data from national databases show that the overall, breast, and prostate cancer incidence among American Indian/Alaska Native (AI/AN) populations in the Southwest is lower than national averages, whereas incidence is higher for cancers of the colon and rectum, kidney and renal pelvis, stomach, uterine, cervix, liver, and intrahepatic bile duct.
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+ These data also show that AI/AN people are diagnosed at later stages and suffer from poor survival rates.
+7
+, 
+8
+, 
+9
+, 
+10
+ Even after adjusting for age, sex, and stage of diagnosis, AI/AN patients’ risk of cancer death after diagnosis is 51% higher compared to non‐Hispanic White (NHW) populations.
+7
+FIGURE 1
+Map of the Navajo Nation, embedded into the outline of the six counties that cover almost all of the Navajo Nation.
+Although the body of research on cancer surveillance data specific to the AI/AN population has grown, there are several limitations to the data. National cancer surveillance data may group heterogeneous AIAN populations together, which can mask significant differences in the cancer burden of specific populations.
+11
+, 
+12
+ Other studies may exclude AI/AN populations because of sample sizes. Further, higher error rates in reporting race or ethnicity in medical records may result underestimates of cancer incidence and mortality.
+11
+, 
+12
+, 
+13
+, 
+14
+Several studies have further documented substantial variation in AIAN cancer surveillance data by cancer type and geographic location.
+4
+, 
+5
+, 
+6
+, 
+12
+, 
+15
+ For example, a study examining variability at the county level found that cancer incidence among AI/AN people varied widely by the six Indian Health Service (IHS) regions, whereas rates among NHW people did not.
+16
+ A recent study found >20% higher all‐site cancer rates in the Alaska and Southern and Northern Plains regions, but significantly lower rates in the East and Southwest regions, suggesting variability in risk factors.
+4
+ Historically, relatively few cancer cases were observed among the Navajo.
+17
+, 
+18
+, 
+19
+, 
+20
+ However, factors such as environmental contaminants (arsenic and uranium) and changes in the food and water supply on the Navajo Nation
+21
+, 
+22
+, 
+23
+, 
+24
+ demonstrate the importance of historical context, geographic variability, and environmental risk factors. To address cancer disparities in AI people, accurate and specific data corresponding to unique sovereign Tribal Nations is needed to track, plan, implement, and evaluate cancer prevention and control activities.
+Therefore, this study aimed to provide specific cancer rates for the Navajo Nation by using high‐quality cancer and tumor incidence data from three state registries and national databases from 2014 to 2018 and trends from 1998 through 2018. This information can guide prevention and treatment approaches that address the cancer needs of the Navajo Nation.
+METHODS
+Data sources
+All procedures were approved by the Navajo Nation Human Research Review Board as an administrative function of the Navajo Epidemiology Center (protocol NNR.10‐283). Data were obtained from the New Mexico Tumor Registry, Arizona Cancer Registry, and Utah Cancer Registry, which jointly cover the geographic area of the Navajo Nation, using the United States Cancer Statistics American Indian and Alaska Native Incidence Analytic Database.
+25
+ The New Mexico Tumor Registry participates in the National Cancer Institute's Surveillance, Epidemiology, and End Results (SEER) Program.
+26
+, 
+27
+ The Arizona Cancer Registry participates in the Centers for Disease Control and Prevention’s National Program of Cancer Registries (NPCR). The Utah Cancer Registry participates in both the NPCR and SEER Programs. All state cancer registries met the same high standards for complete, accurate, and timely data collection. Data from these registries are routinely linked with the IHS patient records to identify cases that are AI/AN (not including those identifying as mixed race) and does not include Hispanic individuals.
+11
+ Data included cancer cases in the six counties that make up most of the Navajo Nation: Coconino, Navajo, and Apache Counties in Arizona; San Juan and McKinley Counties in New Mexico; and San Juan County in Utah. In total, the Navajo Nation includes >400,000 enrolled members, and approximately half of all Navajo enrolled members (200,000) live in these six counties. The AI/AN population in these counties was used as a proxy for estimating the Navajo cancer incidence as almost all AI/AN individuals residing in these six counties are Navajo (>86%).
+28
+ The final dataset used in this report that was verified for accurate AI/AN case identification was approved through a formally approved three‐way data use agreement between the cancer registries and IHS. The data included cases through 2018 and were last updated November 2020.
+Cancer incidence
+Cancers were coded and classified according to the International Classification of Diseases for Oncology–Third Edition.
+29
+ The site recode as defined by the SEER Program was used.
+30
+ Cancer incidence data from 2014 through 2018 were calculated per 100,000 people. Cancer incidence was calculated for all sites for all Navajo people combined for the most common cancers and separately for males and females. We used county‐level population estimates produced by the U.S. Census Bureau as denominators in the rate calculations. We calculated confidence intervals for age‐adjusted rates and standardized rate ratios following methods described by Tiwari et al.
+31
+ using SEER*Stat 2.5.3. All rates were age standardized to the 2000 U.S. standard population. Navajo rates were compared to those of NHW people living in Arizona and New Mexico. San Juan county, Utah, was not included in these comparisons to be consistent with prior reports,
+32
+, 
+33
+ and is also relatively small (the AI/AN population is approximately 4% of the total study population). A risk ratio (RR) > 1.0 indicated higher incidence for Navajo people. A p value of .05 and two‐tailed tests were used for all analyses to denote statistical significance.
+Trend analysis
+Incidence trends were assessed from 1998 to 2018 for all cancer sites combined as well as the leading cancers among Navajos, which were colorectal, breast, and prostate cancers. Trends were analyzed by using the Joinpoint Trend Analysis Software Version 5.0.2 developed by the National Cancer Institute, Bethesda, Maryland. Trends were estimated by calculating an annual percentage change (APC) and testing whether the change was significantly different from zero (indicating an increase or decrease) using a two‐sided test and p‐value of .05 based on the permutation test.
+34
+ Average annual percent change (AAPC) was tested for the entire period of 1998 through 2018 and APCs for shorter periods within the overall timeframe.
+Stage at diagnosis
+Three cancers that were both common among the Navajo and amenable to intervention were assessed for stage of diagnosis: breast, cervical, and colorectal cancer. These were the cancer types included in prior reports,
+32
+, 
+33
+ allowing for comparison of staging over time. For breast, cervical, and colorectal cancer cases diagnosed during 2014 to 2018, data sources
+35
+ (derived summary stage 2000, summary stage 2000, and summary stage 2018) were obtained from SEER (New Mexico and Utah registries) and NPCR (Arizona Cancer Registry). Cancer staging data were calculated by dividing the number of total cases diagnosed in the local, regional, distant, and unknown stages by the total number of cases. Cancer sites were limited to age ranges corresponding to cancer screening recommendations by the U.S. Preventive Services Task Force at the time of the data collection, including all recommendations with the grade A, B, or C.
+36
+, 
+37
+, 
+38
+ Per the recommendations, cervical cancer was limited to ages 20 through 74, breast cancer to ages 40 through 74 (split into 40–49 and 50–74 years old since recommendation grades were different for these respective age groups), and colorectal cancer to ages 50 through 84 (split into 50–74 and 74–84 years old). Significant differences in diagnostic staging between Navajo and Arizona‐New Mexico NHW people were tested by using chi‐square tests and a p‐value of .05.
+RESULTS
+Incidence
+Total count and age‐adjusted incidence rate per 100,000 people (males and females combined) for the 22 most common cancers among the Navajo people (cancers with at least 25 cases) are summarized in Table 1 and Figure 2 and compared to rates for NHW in the same six counties. During 2014 through 2018, a total of 2981 new cancer cases among Navajos were identified, for a rate of 268.2 per 100,000 (95% CI, 258.4–278.2). The most commonly diagnosed cancer among Navajos in terms of total cases was female breast cancer, with 384 cases and an incidence rate of 60.9 per 100,000, followed by colorectal cancer (366 cases, rate of 32.2), kidney cancer (307 cases, rate of 27.3), and male prostate cancer (222 cases, rate of 50.4).
+TABLE 1
+Cancer incidence rates and rate ratios for the most common cancers among Navajo compared to NHW people 2014–2018, all ages, males and females combined.
+Males and females combined
+Site
+Navajo 6‐county
+a
+AZ‐NM NHW
+Navajo: AZ–NM NHW
+Count
+Rate
+b
+95% CI
+Count
+Rate
+b
+95% CI
+Rate ratio
+c
+95% CI
+All cancer sites combined
+2981
+268.2
+258.4–278.2
+152,243
+404.2
+402.0–406.4
+0.66*
+0.64–0.69
+Female breast
+384
+60.9
+54.8–67.5
+22,768
+123.4
+121.6–125.1
+0.49*
+0.44–0.55
+Prostate
+222
+50.4
+43.7–57.7
+16,454
+81.8
+80.5–83.1
+0.62*
+0.53–0.71
+Colon and rectum
+366
+32.2
+28.9–35.7
+12,083
+32.4
+31.8–33.0
+0.99
+0.89–1.10
+Corpus and uterus, NOS
+172
+28.4
+24.2–33.1
+4528
+23.1
+22.4–23.9
+1.23*
+1.04–1.44
+Kidney and renal pelvis
+307
+27.3
+24.3–30.6
+5333
+14.5
+14.1–14.9
+1.89*
+1.67–2.12
+Stomach
+142
+13.1
+10.9–15.4
+1598
+4.1
+3.9–4.3
+3.19*
+2.66–3.81
+Non–Hodgkin lymphoma
+137
+12.5
+10.5–14.8
+5956
+15.8
+15.4–16.3
+0.79*
+0.66–0.94
+Thyroid
+140
+12.0
+10.1–14.2
+3814
+14.2
+13.7–14.7
+0.84
+0.70–1.00
+Liver and intrahepatic bile duct
+130
+11.4
+9.5–13.6
+2548
+6.3
+6.1–6.6
+1.79*
+1.48–2.15
+Ovary
+60
+9.7
+7.3–12.5
+1961
+10.5
+10.0–11.1
+0.92
+0.69–1.19
+Pancreas
+96
+9.2
+7.4–11.3
+4779
+11.7
+11.3–12.0
+0.79*
+0.63–0.97
+Myeloma
+93
+8.7
+7.0–10.7
+1946
+4.8
+4.6–5.1
+1.80*
+1.44–2.22
+Lung and bronchus
+84
+7.9
+6.3–9.8
+20,234
+48.3
+47.7–49.0
+0.16*
+0.13–0.20
+Testis
+43
+7.4
+5.3–10.1
+644
+6.2
+5.8–6.8
+1.18
+0.84–1.63
+Leukemias
+68
+5.7
+4.4–7.3
+4126
+11.8
+11.4–12.2
+0.49*
+0.37–0.62
+Cervix
+34
+5.6
+3.8–7.9
+780
+6.1
+5.6–6.6
+0.92
+0.63–1.31
+Gallbladder
+41
+4.1
+2.9–5.5
+266
+0.6
+0.6–0.7
+6.25*
+4.34–8.73
+Oral cavity and pharynx
+38
+3.4
+2.4–4.8
+3989
+10.6
+10.2–10.9
+0.33*
+0.23–0.45
+Brain and other nervous system
+34
+3.0
+2.0–4.2
+2127
+6.7
+6.4–7.0
+0.44*
+0.30–0.63
+Melanomas of the skin
+30
+2.9
+1.9–4.2
+11,695
+32.8
+32.2–33.5
+0.09*
+0.06–0.13
+Esophagus
+28
+2.7
+1.8–4.0
+1877
+4.6
+4.4–4.8
+0.60*
+0.39–0.87
+Urinary bladder
+25
+2.4
+1.5–3.5
+8363
+20.1
+19.6–20.5
+0.12*
+0.08–0.18
+Abbreviations: AZ‐NM, NHW people living in Arizona and New Mexico; NHW, non‐Hispanic White; PRCDA, purchased/referred care delivery areas.
+aAmerican Indian/Alaskan Native cancer incidence data in the six counties comprised by most of the Navajo Nation were used as a proxy for Navajo cancer incidence rates.
+b
+Rates are per 100,000 persons and are age‐adjusted to the 2000 U.S. standard population (19 age groups ‐ Census P25‐1130).
+c
+Rate ratios (RR) are calculated in SEER*Stat before rounding of rates and may not equal RR calculated from rates presented in table.
+*RR is statistically significant (p < .05).
+Source: United States Cancer Statistics American Indian/Alaska Native Incidence Analytic Database, data through November 2020.
+FIGURE 2
+A bar chart of the most commonly diagnosed cancers among Navajo compared to non‐Hispanic White (NHW) people: incidence rates 2014–2018 (red bars), males and females combined, compared to non‐Hispanic White people in the same Arizona and New Mexico counties (yellow bars).
+Compared to the Arizona and New Mexico NHW population, the overall cancer incidence for Navajos was 34% lower, RR = 0.66 (95% CI, 0.64–0.69; p < .001). Rate ratios were significantly lower for the incidence of lung cancer (RR = 0.16; 95% CI, 0.13–0.20), female breast cancer (RR = 0.49; 95% CI, 0.44–0.55), leukemia (RR = 0.49; 95% CI, 0.37–0.62), prostate cancer (RR = 0.62; 95% CI, 0.53–0.71), non‐Hodgkin lymphoma (RR = 0.79; 95% CI, 0.66–0.94), and pancreatic cancer (RR = 0.79; 95% CI, 0.63–0.97) (all p‐values <.001). The incidence of colorectal, uterine, ovarian, cervical, and testicular cancers was similar across groups. However, significantly higher incidence was found among Navajos for gallbladder cancer (RR = 6.25; 95% CI, 4.34–8.73), stomach cancer (RR = 3.19; 95% CI, 2.66–3.81), kidney cancer (RR = 1.89; 95% CI, 1.67–2.12), myeloma (RR = 1.80; 95% CI, 1.44–2.22), and liver cancer (RR = 1.79; 95% CI, 1.48–2.15) compared to NHW people in Arizona and New Mexico. See Appendices A and B for cancer rates separated by males and females.
+Trend analysis
+Incidence trends for all cancer sites combined and for breast, colorectal, and prostate cancers were assessed for 1998 through 2018 among both Navajo and NHW people. For all cancer sites combined over the entire period, the rates did not change significantly for Navajos (AAPC = +0.8%; 95% CI, –0.1 to 1.7; p > .05) and decreased significantly for NHWs (AAPC = –0.9%; 95% CI, –1.3 to –0.5; p < .05).
+Shorter periods with significant trends were identified and summarized in Table 2. Among Navajos, for all cancer sites, an increase was observed from 1998 to 2010 (APC = +2.8%; 95% CI, 1.7–3.9; p < .05), whereas from 2010 to 2018, there was a decrease (APC = –2.1%; 95% CI, –3.7 to –0.4; p < .05).
+TABLE 2
+Cancer incidence rate trends with joinpoint analyses for selected cancers among Navajo
+a
+ compared with NHW people by sex, 1998–2018.
+Site
+Sex
+Race
+Trend 1
+Trend 2
+Trend 3, 4
+Years
+APC
+b
+95% LCI
+95% UCI
+Years
+APC
+b
+95% LCI
+95% UCI
+Years
+APC
+b
+95% LCI
+95% UCI
+All cancer sites combined
+Male and female
+Navajo
+a
+1998–2010
+2.8*
+1.7
+3.9
+2010–2018
+−2.1*
+−3.7
+−0.4
+AZ‐NM NHW
+1998–2016
+−0.7*
+−0.8
+−0.5
+2016–2018
+−3.0
+−7.1
+1.2
+Male
+Navajo
+a
+1998–2010
+3.1*
+1.5
+4.7
+2010–2018
+−3.3*
+−5.7
+−0.9
+AZ‐NM NHW
+1998–2007
+−0.6*
+−0.9
+−0.3
+2007–2012
+−2.7*
+−3.7
+−1.6
+2012–2016
+0.1
+−1.6
+1.9
+2016–2018
+−3.9*
+−7.1
+−0.6
+Female
+Navajo
+a
+1998–2010
+2.6*
+1.3
+4
+2010–2018
+−1.0
+−2.9
+0.9
+AZ‐NM NHW
+1998–2016
+−0.1
+−0.3
+0
+2016–2018
+−3.2
+−8.4
+2.4
+Breast
+Female
+Navajo
+a
+1998–2005
+6.2*
+0.7
+12
+2005–2018
+−0.7
+−2.4
+1.1
+AZ‐NM NHW
+1998–2006
+−2.3*
+−3.2
+−1.5
+2006–2009
+3.1
+−4.6
+11.4
+2009–2018
+−0.4
+−1.1
+0.3
+Colon and rectum
+Male and female
+Navajo
+a
+1998‐2006
+9.5*
+1.6
+18.0
+2006–2018
+−0.2
+‐3.2
+2.9
+AZ‐NM NHW
+1998–2003
+−1.2
+−2.6
+0.3
+2003–2006
+−5.0
+−11.2
+1.6
+2006–2018
+−2.0*
+−2.4
+−1.6
+Male
+Navajo
+a
+1998–2018
+2.9*
+1.3
+4.6
+AZ−NM NHW
+1998–2018
+−2.8*
+−3.1
+−2.5
+Female
+Navajo
+a
+1998–2002
+−20.6
+−38.8
+2.9
+2002–2005
+55.0
+−31.3
+249.9
+2005–2018
+−2.3
+−5.2
+0.6
+AZ−NM NHW
+1998–2018
+−2.3*
+−2.5
+−2
+Prostate
+Male
+Navajo
+a
+1998–2000
+−24.0
+−52.6
+21.9
+2000–2009
+7.4*
+1.8
+13.3
+2009–2018
+−10.8*
+−14.4
+−7.1
+AZ−NM NHW
+1998–2007
+−0.0
+−1.6
+1.5
+2007–2012
+−9.6*
+−14.7
+−4.3
+2012–2018
+−0.9
+−4.1
+2.4
+Abbreviations: APC, annual percent change; LCI, lower CI; NHW, non‐Hispanic White; UCI, upper CI.
+a
+American Indian/Alaskan Native cancer incidence data in the six counties comprised by most of the Navajo Nation were used as a proxy for Navajo cancer incidence rates.
+b
+Based on rates that were age‐adjusted to the 2000 US standard population (19 age groups, Census P25‐1130).
+*Two‐sided p < .05.
+Source: United States Cancer Statistics American Indian/Alaska Native Incidence Analytic Database, data through November 2020.
+There was a significant increase in rates of colorectal cancer incidence among Navajos from 1998 to 2018 (AAPC = +3.6%; 95% CI, 0.3–7.0; p < .05; Figure 3), although 2006 to 2018 showed stability (APC = –0.2%; 95% CI, –3.2 to 2.9; p > .05). Among NHW people, rates for colorectal cancer consistently decreased from 1998 to 2018 (AAPC = –2.2%; 95% CI, –3.2 to –1.3; p < .05).
+FIGURE 3
+Estimated annual percentage change in colorectal cancer incidence from 1998 to 2018 for Navajo and non‐Hispanic White people, including overall trend lines.
+For breast cancer, rates did not change significantly for either Navajo women from 1998 to 2018 (AAPC = +1.7%; 95% CI, –0.4 to 3.7; p > .05) or NHW women (AAPC = –0.7%; 95% CI, –1.8 to 0.5; p > .05). However, among Navajo women, rates significantly increased from 1998 to 2005 (APC = +6.2%; 95% CI, 0.7–12.0; p < .05), then was stable from 2005 to 2018 (APC = –0.7%; 95% CI, –2.4 to 1.1; p > .05).
+For prostate cancer, both Navajo and NHW men saw rates decrease during 1998 through 2018 (Navajo AAPC = –4.6%; 95% CI, –9.3 to 0.4; p > .05; NHW AAPC = –2.8%; 95% CI, –4.4 to –1.1; p < .01). Among Navajo men, incidence rates varied over time, including a rapid increase from 2000 to 2009 (APC = +7.4%; 95% CI, –52.6 to 21.9; p < .05), and then a significant decrease for 2009 through 2018 (APC = –10.8%; 95% CI, –14.4 to –7.1; p < .05). Among NHW males, prostate cancer rates decreased from 1998 to 2018 (AAPC = –2.8%; 95% CI, –4.4 to –1.1; p < .05), with a significant decrease from 2007 to 2012 (APC = –9.6%; 95% CI, –14.7 to –4.3; p < .05).
+Stage at diagnosis
+Diagnoses in the local, regional, distant, and unknown stages were calculated for breast, cervical, and colorectal cancers and were compared between Navajo and NHW people. For female breast cancer, the proportion of Navajo women (aged 50–74 years) diagnosed in the local stage was 62.5%, compared to 68.2% for NHW women (Figure 4). A total of 28.5% of Navajo women aged 50 to 74 years were diagnosed in the regional stage, compared to 22.8% for NHW women, with similar proportions being diagnosed in late or unknown stages. The differences between groups were not statistically significant, p = .088. Although sample sizes were small, among women aged 40 to 49 years, the proportion of Navajo women diagnosed with breast cancer in the local stage was 61.5%, similar to NHW women at 58.8%.
+FIGURE 4
+Female breast cancer (ages 50–74) stage at diagnosis for Navajo compared to non‐Hispanic White (NHW) women, 2014–2018 and summarizes the proportion of Navajo and non‐Hispanic White women diagnosed in local, regional, distant, and unknown stages of breast cancer between 2014 and 2018.
+For cervical cancer, there were no differences in staging for cervical cancer between Navajo and NHW women (p = .984). Approximately 48.3% of Navajo and 50.8% of NHW women aged 20 to 64 years were diagnosed in the local stage. The proportion of women diagnosed in the regional stage was 31.0% for Navajo and 29.0% for NHW women, with very similar proportions diagnosed in the distant and unknown stages.
+For colorectal cancer, just over one third of people aged 50 to 74 years in both groups were diagnosed in the local stage (35.7% for Navajo, 36.1% for NHW). Another one third of patients (34.9% for Navajo, 33.9% NHW) were diagnosed in the regional stage. For people aged 75 to 84 years, patterns were similar, with slightly higher proportions of people diagnosed in unknown stages (18% vs. 12% for Navajo, although sample sizes were small). Overall, there were no differences between groups (p = .208 for ages 50–74; p = .224 for ages 75–84), but nearly one third of patients in each group were diagnosed in the distant or unknown stages.
+DISCUSSION
+Using high‐quality registry data, we found that the most commonly diagnosed cancers among the Navajo people were breast, colorectal, prostate, and kidney cancers. In comparison to NHW, Navajos had lower all‐site cancer incidence, and lower rates of lung, breast, prostate, and pancreatic cancers, leukemia and non‐Hodgkin lymphoma. Known risk factors (particularly for colorectal and breast cancer) that are highly prevalent among Navajos include physical inactivity, obesity, type 2 diabetes, and limited access to healthy foods.
+39
+ However, since breast and prostate cancers have lower incidence and with recent stable or trends downward, there may also be unique protective factors on the Navajo Nation that warrant further exploration.
+39
+, 
+40
+, 
+41
+It is possible that lower all‐site incidence is partially related to overall limited access to health care and historically lower cancer screening rates among the Navajo.
+32
+, 
+33
+ For example, Navajo women reported lower mammography screening rates than NHW in the same counties (but higher Pap test) and recent Navajo area IHS screening rates for common cancers were slightly below national targets.
+33
+ Furthermore, although some cancers such as prostate cancer had lower incidence among the Navajo, it has been documented that AI/AN men have higher mortality, even with lower incidence.
+42
+Our findings suggested higher incidence rates of gallbladder cancer, stomach cancer, myeloma, liver, and kidney cancers. These findings have to be evaluated in the geographic and historical context of the region. Potential environmental (e.g., heavy metals in the environment),
+21
+, 
+22
+, 
+23
+, 
+24
+ social and behavioral (e.g., access to healthy foods, substance use),
+4
+, 
+12
+, 
+39
+, 
+40
+, 
+41
+ or other risk factors may be associated with the higher cancer rates. Previous studies have found elevated uranium, arsenic, and bicarbonate concentrations in several Navajo Nation wells used for drinking water.
+24
+ The exposure to arsenic in drinking water has been associated with higher risk of liver, kidney, and bladder cancers.
+43
+ Recent research also documented high prevalence of Helicobacter pylori
+
+44
+, 
+45
+ on the Navajo Nation, a risk factor for gastric cancer, with the majority carrying the cagA variant, which has been associated with greater gastrointestinal disease severity.
+46
+ On the Navajo Nation, an estimated 30% of households do not have access to quality drinking water,
+46
+ potentially increasing risk of drinking contaminated water.
+Related, recent research on cancer and social vulnerability (factoring in race/ethnicity, unemployment, and housing conditions) demonstrated that rates of liver, stomach, and colorectal cancers were higher among those with higher social vulnerability.
+12
+ Notably, the impact of high social vulnerability on risk for stomach and liver cancer incidence was the highest in the Southwest, higher than any region in the country.
+12
+ Further research into these exposures may lead to greater insight into potential underlying causes of these findings and guide prevention efforts specific to the Southwest.
+Trends suggested that in recent years (since 2009), rates for all cancers combined and the most common cancers (i.e., breast, colorectal, prostate) have remained stable or even decreased among Navajos. Although some caution is warranted regarding trend analyses (see limitations), some improvements have been found in early detection over time. For example, 62.5% of Navajo women aged 50 to 74 were diagnosed in the local stage for breast cancer, up from 52.3% in 1994 through 2004.
+32
+ Moreover, among women aged 40 to 49, the proportion was even slightly higher for Navajo than NHW (61.5% vs 58.8%). This improvement may be related to specific programming such as the Navajo Breast and Cervical Cancer Prevention Program, which includes mobile mammography services, culturally adapted educational resources, and screening events. Similarly, although most Navajo people were diagnosed in late stages for colorectal cancer, the proportion diagnosed in the localized stage was 32.5%, up from 24.3% in 1994 through 2004 (NHW 39.1% down to 35.5% over the same period). Notable work on tribal colorectal health has also occurred in nearby areas.
+47
+, 
+48
+ The Tribal Colorectal Health program developed extensive education materials tailored to tribal members and demonstrated positive impact of direct mailing of testing kits and CHR‐led follow‐up.
+47
+ A few other behavioral and educational interventions have further emphasized the need for services tailored to the specific environment and cultural preferences of the Navajo people.
+49
+, 
+50
+ Example elements include addressing issues such as discussing cancer as a culturally sensitive topic; recognizing historical context, such as uranium mining in the area; addressing social and environmental barriers (transportation, poverty); the need for spiritual care; involvement of family members; and connection to other AI/AN cancer survivors.
+50
+, 
+51
+Data Limitations
+Several limitations include the lack of case delay adjustment, factors such as racial misclassifications, migration, and limited capture of all data on Navajo patients. The latest update under the three‐way data use agreement that included accurate AI/AN case verification was submitted in November 2020, but did not include adjustment. However, additional years of incidence data may not improve estimates substantially, as the Navajo Nation was greatly impacted by the COVID‐19 pandemic, suffering the highest incidence and mortality rates in the United States, resulting in frequent lockdowns through 2022.
+52
+ With overall U.S. cancer diagnoses down substantially during the pandemic,
+53
+ this was likely more pronounced among the Navajo. Moreover, several cancers most affected by case delay
+54
+ (i.e., melanoma, leukemia) are not among the most common cancers among the Navajo. Nonetheless, the lack of case delay adjustment represents an important limitation and warrants caution in interpreting the more recent trend analyses. Further, racial misclassification is a common issue with AI/AN cancer surveillance data and leads to underestimation of the true burden of cancer.
+11
+, 
+13
+, 
+14
+ To decrease misclassification of AI/AN, cancer registry data were linked with Indian Health Service data. Cases not identified as AI/AN were able to be linked with IHS data and recoded in the cancer registry data. Although data linkage improved the quality of the data, it did not completely resolve all misclassification issues. In addition, this method of correcting misclassification did not address AI/AN people who sought health care outside of IHS. Furthermore, cancer incidence and stage of diagnosis data were limited to AI/AN residing in the six counties. Although the current 5‐year average county population estimates suggest one of the highest AI/AN densities in the country,
+14
+, 
+27
+ these data exclude Navajos who live outside this region and are not generalizable to all Navajo people.
+CONCLUSIONS AND FUTURE STUDY
+Our findings show that cancer rates among the Navajo people have remained stable or even decreased in recent years. However, rising rates of colorectal cancer among Navajo men, and higher rates of stomach, liver, kidney, and gallbladder cancers when compared to NHW in the same region suggest need for more research. Improvements in early diagnosis compared to earlier reports suggest some successes, possibly affected by tailored screening programs such as the Navajo Breast and Cervical Cancer Prevention Program and tribal colorectal health programs. Furthermore, the first cancer clinic on tribal lands in Tuba City, Arizona, on the Navajo Nation, opened in 2019 (data for the current report predated the opening) provided some culturally appropriate cancer care services locally to alleviate transportation barriers.
+Several areas of future study have emerged. First, it is possible that lower rates of certain cancers may be underdiagnosed among the Navajo, and gaining further insight into screening and stage of diagnosis for other cancers with poor survival rates among Navajo is an important area of future research. Second, several cancers had different incidence rates between males and females (i.e., kidney, liver, stomach cancer), warranting further study. Third, gaining deeper insight into culturally appropriate screening and treatment programs and opportunities to scale successes present avenues for further improving early diagnosis and survival. Finally, continued research on known environmental exposures and behavioral risk factors has the potential to inform cancer prevention efforts tailored to the Navajo setting. By better understanding the occurrence and patterns of cancer among the Navajo people, the Navajo Nation may help position the population to develop solutions, interventions, and improve overall cancer outcomes.
+DISCLAIMER
+The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention or any of the other organizations that authors are affiliated with.
+AUTHOR CONTRIBUTIONS
+Del Yazzie: Conceptualization; investigation; funding acquisition; writing—original draft; writing—review and editing; project administration; and supervision. Dornell Pete: Conceptualization; writing—original draft; funding acquisition; and writing—review and editing. Curtis Briscoe: Conceptualization; supervision; resources; and writing—review and editing. Melissa A. Jim: Methodology; validation; formal analysis; data curation; writing—review and editing; writing—original draft; visualization; and software. Angela Meisner: Writing—review and editing; formal analysis; data curation; validation; methodology; visualization; and software. Charles Wiggins: Funding acquisition; supervision; methodology; and writing—review and editing. Dana Doyle: Conceptualization; writing—original draft; visualization; resources; and data curation. Georgia Yee: Resources; validation; writing—review and editing; investigation; and data curation. Carol Goldtooth: Conceptualization; funding acquisition; and writing—review and editing. Priscilla R. Sanderson: Conceptualization; writing—review and editing; and methodology. Chesleigh Nicole Keene: Writing—review and editing; resources; supervision; project administration; and funding acquisition. Melinda Smith: Writing—original draft; writing—review and editing; visualization; investigation; and project administration. Hannah Sehn: Writing—original draft; writing—review and editing; conceptualization; investigation; and methodology. Shawnell Damon: Writing—review and editing; investigation; conceptualization; and resources. Chelsea L. Kettering: Conceptualization; writing—review and editing; resources. Marc Emerson: Writing—review and editing; resources; and investigation. Caleigh Curley: Visualization; writing—review and editing; funding acquisition; resources; and writing—original draft. Jennifer Bea: Funding acquisition; writing—review and editing; resources; and visualization. Sheldwin Yazzie: Conceptualization; writing—review and editing; and resources. Natalie Joe: Writing—original draft; writing—review and editing; and investigation. Jennifer Doherty: Validation; supervision; and resources. Hendrik Dirk de Heer: Writing—original draft; writing—review and editing; methodology; investigation; and funding acquisition.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conflicts of interest.
+Supporting information
+Supplementary Material

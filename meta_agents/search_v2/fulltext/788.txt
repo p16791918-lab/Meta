@@ -1,0 +1,2232 @@
+record_id=788 pmid=31145458 doi=10.1093/jnci/djz106 pmcid=PMC6910179
+TITLE: Annual Report to the Nation on the Status of Cancer, Featuring Cancer in Men and Women Age 20–49 Years
+
+The American Cancer Society (ACS), Centers for Disease Control and Prevention (CDC), National Cancer Institute (NCI), and North American Association of Central Cancer Registries (NAACCR) have collaborated annually since 1998 to provide updates on cancer incidence and mortality patterns in the United States (1–21). These reports also feature special topics that highlight important trends and opportunities to use cancer surveillance data to target cancer control efforts.
+This year’s special topic highlights incidence and death rates and trends among younger adults, defined here as men and women age 20–49 years. Although cancer incidence and death rates for all cancers combined are considerably lower in younger compared with older adults, cancers in younger men and women have important economic and social impact and can result in greater person-years of life lost than cancers occurring later in life (22–24). Cancer patterns and trends in younger adults may also portend future changes in cancer burden as birth cohorts age, and recognition of adverse trends may aid in targeting cancer-control interventions (25,26). Although sex differences in cancer incidence and mortality have not been the focus of previous annual reports, patterns may differ between younger and older adults (27); thus, as a secondary focus, we describe variations in cancer incidence and death rates by sex. The discussion section will highlight cancers with recent changes in trend and focus on several high-burden cancers in young adults, including breast cancer, colorectal cancer, testicular cancer, and nonmalignant brain and central nervous system (CNS) tumors.
+Methods
+Data Sources
+Please see the Supplementary Methods (available online) for additional details on the data sources.
+Cancer Incidence Data
+Population-based cancer incidence data by age, sex, and race and ethnicity (race/ethnicity) were obtained from registries that participate in CDC’s National Program of Cancer Registries (NPCR) and/or the NCI’s Surveillance, Epidemiology, and End Results (SEER) Program. Only registries whose data satisfied NAACCR’s data quality criteria were included (28). For rate analyses of invasive cancers, 47 states and 1 territory (Puerto Rico) met quality criteria for every year during 2011–2015, and for trend analyses of invasive cancers, 41 states met quality criteria for every year during 1999–2015, representing 97.4% and 87.5% of the population of the United States and Puerto Rico, respectively. (Population coverage data for analyses covering different time periods are provided in figure legends and table footnotes.) Trend analyses for invasive cancers were performed for diagnosis years 1999–2015, whereas trend analyses for in situ breast cancer used data compiled for diagnosis years 2001–2015. The year 2008 was used as the starting point for analyzing nonmalignant CNS tumor trends based on the assumption, supported by review of annual incidence rates, that reporting might need several years to stabilize after nationwide collection was mandated in 2004.
+Anatomic site and histology for invasive cancers were coded as previously described (20). Nonmalignant CNS tumors were selected based on site and morphology site recode International Classification of Diseases for Oncology (ICD)-O-3/World Health Organization 2008: Brain and Other Nervous System with Benign or Borderline Behavior (29). Central Brain Tumor Registry of the United States (CBTRUS) categories were used to generate rates and counts for specific subtypes of nonmalignant CNS tumors (30).
+Cancer Death Rates
+Whereas cancer incidence data were available through 2015, 1 additional year of data was used for the mortality analysis. Cause of death by age, sex, and race/ethnicity (1999–2016) came from the National Vital Statistics System and is based on death certificate information reported to state vital statistics offices and compiled into a national file covering all states and the District of Columbia in the United States by the National Center for Health Statistics (NCHS) (31). Categorization methods for cause of death have been described in previous reports (19).
+Race/Ethnicity Data
+In this report, information on race and ethnicity for records of incidence and death was obtained as previously described (20). All race- and ethnicity-specific analyses in this report were conducted for white, black, Asian Pacific Islander (API), American Indian and Alaska Native (AI/AN), Hispanic, and non-Hispanic adults.
+Age Group Data
+Rates and trends for pediatric cancer incidence and mortality are reported by race/ethnicity for age 0–14, 0–19 , and 15–19 years. For the special section, rates and trends for cancer incidence, survival and mortality are reported by sex, race/ethnicity, and cancer type for age 20–49 years.
+Population Data
+The methods to obtain population estimates used as the denominators to calculate incidence and death rates have been previously described (20). (See Supplementary Methods, available online, for details.)
+Survival Data
+Estimates for 5-year relative survival were calculated for malignant and nonmalignant CNS tumors among individuals age 20–49 years diagnosed from 2008 to 2014 using data from 42 registries considered to have sufficient vital status follow-up to conduct survival analyses (32). Cancers that were identified by death certificate or autopsy only were excluded from the survival analysis, as were patients who died so soon after diagnosis that their survival time was not measurable. The first tumor matching the selection criteria (eg, cancer site, time period, age, or sex) was used in the analysis (33). Patients were followed for vital status through December 31, 2015 (33).
+Statistical Methods
+Cross-sectional incidence (2011–2015) and death rates (2012–2016) for all ages combined and for specific age groups were calculated using SEER*Stat software, version 8.3.5, and are reported as average annual rates as previously described (20,29). All rates were age-standardized to the 2000 US standard population and were expressed per 100 000 population (29). Rates based on fewer than 16 case patients were deemed to be unstable and were suppressed. All incident case counts and rates were adjusted for delay in reporting (34), with the exception of rates and counts for specific subtypes of malignant brain and other nervous system (ONS) and nonmalignant brain and CNS tumors. Delay adjustment factors were developed for this report for in situ breast cancers and nonmalignant CNS tumors. The delay model for nonmalignant CNS tumors was developed based on data submissions to NAACCR from 2011 to 2017, which included sequential reports for diagnosis years 2009–2015 and partial reports for the years 2004–2008.
+Temporal trends in age-standardized, delay-adjusted cancer incidence (1999–2015) and age-adjusted death rates (1999–2016) were estimated using joinpoint regression (35,36). We used the default settings for the maximum number of joinpoints allowed, with three joinpoints (four line segments) allowed based on the length of the time period (37). For shorter time periods a smaller maximum number of joinpoints were used (for breast in situ 2001–2015, a maximum of two joinpoints, and for nonmalignant CNS tumors 2008–2015, a maximum of one joinpoint). Annual percent change (APC) characterizes the slope of a single segment, and average APC (AAPC) is a summary measure of the trend over a fixed interval. In describing trends, the terms increase and decrease are used when the slope of the trend (APC or AAPC) was statistically significant using two-sided tests. Two-sided statistical significance (P < .05) for APC and AAPC was determined using a t test for the APC and for the AAPC when it lies entirely within the last joinpoint segment and a z-test when the AAPC extends beyond the last joinpoint segment (38). A result was considered statistically significant when the P value was less than .05; otherwise, the term stable is used. Trends based on fewer than 10 cases in any of the data years (1999–2015 for incidence and 1999–2016 for deaths) were considered statistically unstable and were suppressed.
+Survival analyses were performed using the Ederer II actuarial method with the complete analysis approach, which includes all patients diagnosed in the most recent years spanning the maximum duration to be estimated (39). See the Supplementary Methods (available online) for additional details on the statistical analyses.
+Results
+Cancer Incidence Rates for All Sites Combined and for the Most Common Cancers Among All Age Groups
+Figure 1 shows trends from 1999 to 2015 in age-standardized, delay-adjusted incidence rates for all cancer sites combined among male and female individuals of all ages. Incidence rates among male patients decreased throughout the study period, with the decrease accelerating from 0.6% (95% CI = −1.0% to −0.3%) (on average) per year during 1999 to 2008 to 2.1% (95% CI = −2.6% to −1.6%) (on average) per year during 2008 to 2015. In contrast, over the same 17-year period, incidence rates among female patients were stable.
+Figure 1.
+Trends in age-standardized incidence (1999‒2015) and mortality rates (1999‒2016), all cancer sites combined, all races and ethnicities combined, by sex. Rates were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). Scattered points were observed rates; lines were fitted rates according to joinpoint regression. Incidence rates were delay-adjusted and covered 88.6% of the US population, and mortality covered the entire United States. Registries included for incidence: Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming. AAPC is a weighted average of the APCs over the fixed interval (2011–2015 for incidence; 2012–2016 for mortality) using the underlying joinpoint model for the period 1999–2015 for incidence and the period 1999–2016 for mortality. Joinpoint models with up to three joinpoints for incidence and mortality are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018. AAPC = average annual percent change; APC = annual percent change; CI = confidence interval.
+Table 1 and Figure 2 present average annual incidence rates and five-year AAPCs (2011–2015) for all cancer sites combined and for the 17 most common cancers among male patients and 18 most common cancers among female patients of all ages. During 2011 to 2015, cancer incidence rates for all sites combined decreased 2.1% (95% CI = −2.6% to −1.6%) per year in male patients and were stable in female patients. The incidence rate for all cancer sites combined among male patients was approximately 1.2 times the rate among female patients (494.3 vs 420.5) (Table 1). For the 14 most common cancer sites among male and female patients alike, incidence rates were higher among male individuals for all but thyroid cancer (male-to-female incidence rate ratio = 0.3), with rate ratios ranging from 1.3 for colon and rectum (colorectal) and pancreas cancers to 4.5 for esophagus and larynx cancers (Figure 2).
+Figure 2.
+Age-standardized, delay-adjusted incidence rates and recent trends (2011–2015) for the 17 most common cancers in male individuals and the 18 most common cancers in female individuals, all races and ethnicities combined, by sex. Rates were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130) and were delay-adjusted and covered 89% of the US population. Registries included in the joinpoint trend analyses: Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming. Registries included in rates and recent trends (2011–2015): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, and Puerto Rico. AAPC is a weighted average of the annual percent change (APCs) over the fixed interval (2011–2015) using the underlying joinpoint model for the period 1999–2015. Joinpoint models with up to three joinpoints are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018. AAPC = average annual percent change; CI = confidence interval; NOS = not otherwise specified.
+Table 1.
+Age-standardized, delay-adjusted incidence rates and fixed-interval trends (2011–2015) for the most common cancers, all ages, by sex, race, and ethnicity, for areas in the United States with high-quality incidence data*
+Sex/cancer site or type†
+All races/ethnicities‡
+White‡
+Black‡
+API‡
+AI/AN (CHSDA)‡
+Hispanic‡
+Non-Hispanic‡
+Rank
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+Rate§
+2011–2015 AAPC‖
+P
+#
+All sites¶
+Both sexes
+—
+450.2
+−0.6
+.42
+455.4
+−0.5
+.55
+462.7
+−1.3
+<.001
+297.3
+−0.4
+<.001
+419.1
+0.0
+.70
+349.9
+−1.2
+<.001
+463.3
+−0.5
+.54
+Male patients
+—
+494.3
+−2.1
+<.001
+494.0
+−1.8
+<.001
+547.2
+−2.9
+<.001
+303.4
+−1.4
+<.001
+439.6
+−0.7
+.004
+383.7
+−2.7
+<.001
+508.1
+−1.9
+<.001
+Female patients
+—
+420.5
+0.0
+.82
+430.1
+0.0
+.38
+406.2
+0.3
+<.001
+296.9
+0.7
+<.001
+407.4
+0.5
+.001
+330.7
+0.7
+.05
+432.5
+0.1
+.04
+Children (ages 0–14 y)
+—
+16.7
+0.9
+<.001
+17.4
+0.8
+<.001
+12.7
+−0.8
+.35
+14.3
+1.2
+.001
+12.5
+−0.4
+.51
+16.2
+0.5
+.004
+16.9
+1.0
+<.001
+Children (ages 0–19 y)
+—
+18.3
+1.7
+.05
+19.2
+1.8
+.06
+13.4
+1.0
+<.001
+15.2
+1.4
+<.001
+13.8
+−0.3
+.58
+17.7
+2.2
+.06
+18.5
+1.7
+.02
+Males
+Prostate
+1
+113.2
+−6.1
+<.001
+104.8
+−6.3
+<.001
+185.5
+−5.4
+<.001
+59.6
+−6.2
+<.001
+81.4
+−7.5
+<.001
+103.5
+−6.5
+<.001
+114.6
+−6.0
+<.001
+Lung and bronchus
+2
+71.4
+−2.6
+<.001
+71.9
+−2.3
+<.001
+84.6
+−3.3
+<.001
+45.5
+−1.5
+<.001
+72.4
+−0.8
+.03
+37.4
+−3.4
+<.001
+75.1
+−2.5
+<.001
+Colon and rectum
+3
+45.9
+−1.5
+.001
+44.9
+−1.3
+.006
+55.2
+−2.7
+<.001
+37.0
+−2.3
+<.001
+52.8
+−1.6
+.002
+43.8
+−2.4
+<.001
+46.4
+−1.3
+.001
+Urinary bladder
+4
+36.0
+−0.9
+<.001
+38.7
+−0.8
+<.001
+20.2
+0.5
+.001
+15.4
+−0.5
+.003
+21.9
+0.4
+.37
+19.2
+−2.0
+<.001
+37.7
+−0.8
+<.001
+Melanoma of the skin
+5
+27.9
+2.3
+<.001
+32.1
+2.5
+<.001
+1.2
+−0.1
+.91
+1.6
+−0.1
+.90
+10.1
+2.7
+.002
+5.0
+0.3
+.27
+30.8
+2.5
+<.001
+Non-Hodgkin lymphoma
+6
+23.4
+−0.3
+.02
+24.3
+−0.2
+.008
+17.4
+0.2
+.28
+16.5
+0.4
+.05
+18.1
+0.3
+.67
+19.7
+−0.3
+.10
+23.9
+−0.2
+.14
+Kidney and renal pelvis
+7
+22.6
+1.5
+<.001
+22.8
+1.4
+.001
+25.5
+1.1
+.003
+11.5
+2.3
+<.001
+32.1
+1.9
+.001
+20.3
+1.7
+.005
+22.9
+1.4
+.001
+Leukemia
+8
+18.9
+0.7
+.14
+19.8
+1.4
+<.001
+14.4
+0.8
+.001
+10.3
+0.7
+.03
+13.9
+0.3
+.73
+13.7
+0.3
+.16
+19.3
+1.4
+<.001
+Oral cavity and pharynx
+9
+18.0
+1.2
+<.001
+18.6
+1.6
+<.001
+14.6
+−2.0
+<.001
+11.7
+0.5
+.04
+16.6
+0.8
+.22
+11.5
+−0.9
+<.001
+18.9
+1.5
+<.001
+Pancreas
+10
+14.6
+1.0
+<.001
+14.5
+1.1
+<.001
+17.2
+0.6
+.001
+10.4
+0.5
+.04
+12.9
+1.3
+.13
+11.9
+0.6
+.004
+14.9
+1.1
+<.001
+Liver and intrahepatic bile duct
+11
+12.7
+2.7
+<.001
+11.5
+3.1
+<.001
+17.9
+2.1
+.005
+20.6
+−0.6
+.008
+21.9
+4.2
+<.001
+19.3
+0.4
+.50
+12.0
+2.8
+<.001
+Stomach
+12
+9.2
+−0.6
+.001
+8.4
+−0.4
+.09
+14.1
+−1.8
+<.001
+14.0
+−2.8
+<.001
+11.5
+−2.5
+.003
+12.5
+−2.1
+<.001
+8.9
+−0.5
+.02
+Myeloma
+13
+8.8
+1.3
+.04
+8.1
+1.2
+.07
+16.9
+2.1
+<.001
+5.2
+2.4
+<.001
+9.0
+1.5
+.11
+8.2
+1.2
+<.001
+8.9
+1.7
+.005
+Esophagus
+14
+8.0
+−0.5
+.31
+8.4
+−1.0
+.001
+6.8
+−4.8
+<.001
+3.6
+−1.0
+.06
+8.1
+−0.8
+.44
+5.0
+−1.7
+<.001
+8.4
+−0.3
+.49
+Brain and other nervous system
+15
+7.8
+−0.6
+.003
+8.4
+−0.2
+.007
+4.9
+0.3
+.23
+4.4
+0.3
+.29
+5.8
+0.7
+.47
+5.8
+−0.6
+<.001
+8.2
+−0.1
+.30
+Thyroid
+16
+7.4
+1.9
+.001
+7.8
+1.8
+.002
+3.9
+4.6
+<.001
+7.5
+5.3
+<.001
+5.0
+4.4
+.005
+6.0
+2.2
+.04
+7.7
+2.0
+.001
+Larynx
+17
+5.9
+−2.3
+<.001
+5.9
+−2.1
+<.001
+8.4
+−3.1
+<.001
+2.1
+−2.8
+<.001
+5.6
+−1.6
+.05
+4.9
+−3.1
+<.001
+6.1
+−2.2
+<.001
+Females
+Breast
+1
+126.4
+0.4
+.001
+128.1
+0.4
+.007
+127.0
+0.7
+.008
+96.2
+1.9
+<.001
+108.7
+0.7
+.003
+95.3
+0.5
+.008
+130.8
+0.6
+<.001
+Lung and bronchus
+2
+52.4
+−1.2
+<.001
+54.8
+−1.1
+<.001
+49.0
+−1.0
+<.001
+28.4
+0.1
+.25
+58.2
+−0.1
+.78
+23.1
+−0.7
+<.001
+55.7
+−1.0
+<.001
+Colon and rectum
+3
+34.8
+−1.0
+<.001
+34.1
+−0.9
+.02
+40.8
+−1.8
+.008
+27.1
+−3.0
+<.001
+42.5
+−1.1
+.001
+30.2
+−0.7
+.27
+35.5
+−1.0
+.001
+Corpus and uterus, NOS
+4
+26.6
+1.2
+<.001
+27.0
+1.1
+<.001
+26.2
+2.4
+<.001
+19.1
+2.2
+<.001
+23.7
+1.6
+.002
+23.5
+2.7
+<.001
+26.9
+1.2
+<.001
+Thyroid
+5
+22.0
+1.0
+.17
+22.8
+1.4
+<.001
+14.2
+0.9
+.48
+22.5
+1.1
+.24
+16.8
+5.5
+<.001
+22.8
+2.5
+<.001
+22.0
+0.7
+.30
+Melanoma of the skin
+6
+17.2
+1.7
+<.001
+20.4
+3.4
+.02
+1.0
+0.0
+.94
+1.3
+−0.2
+.69
+6.5
+1.7
+.03
+4.3
+0.3
+.24
+19.2
+3.5
+.02
+Non-Hodgkin lymphoma
+7
+16.1
+−0.5
+<.001
+16.7
+−0.5
+<.001
+12.4
+0.6
+.001
+11.2
+0.2
+.33
+14.4
+−0.1
+.79
+15.0
+0.1
+.43
+16.2
+−0.5
+<.001
+Kidney and renal pelvis
+8
+11.6
+0.5
+.009
+11.8
+0.5
+.008
+13.1
+0.3
+.52
+5.2
+1.6
+<.001
+18.7
+1.6
+.006
+11.6
+1.9
+<.001
+11.6
+1.0
+.03
+Ovary
+9
+11.6
+−1.5
+<.001
+12.0
+−1.6
+<.001
+9.4
+−0.7
+<.001
+9.6
+−0.1
+.56
+11.3
+−0.7
+.37
+10.2
+−1.2
+<.001
+11.8
+−1.5
+<.001
+Leukemia
+10
+11.5
+0.9
+<.001
+12.0
+1.0
+<.001
+9.4
+1.8
+<.001
+6.7
+0.9
+.003
+9.1
+0.3
+.76
+9.5
+0.4
+.03
+11.6
+0.1
+.82
+Pancreas
+11
+11.2
+1.0
+<.001
+11.0
+1.1
+<.001
+14.8
+0.7
+<.001
+8.9
+0.8
+.001
+11.0
+0.6
+.34
+9.9
+0.6
+<.001
+11.4
+1.1
+<.001
+Urinary bladder
+12
+8.9
+−0.8
+<.001
+9.5
+−0.8
+<.001
+6.7
+−0.3
+.08
+3.9
+−0.5
+.24
+6.3
+1.4
+.09
+5.0
+−1.3
+<.001
+9.3
+−0.7
+<.001
+Cervix
+13
+7.7
+0.5
+.52
+7.5
+1.0
+.43
+9.2
+−2.1
+<.001
+6.2
+−2.6
+<.001
+9.9
+0.4
+.68
+10.0
+−0.3
+.82
+7.4
+0.6
+.42
+Oral cavity and pharynx
+14
+6.5
+0.7
+<.001
+6.7
+1.0
+<.001
+5.1
+−0.8
+<.001
+5.4
+−0.2
+.55
+6.8
+0.9
+.37
+4.4
+0.7
+.07
+6.8
+0.9
+<.001
+Myeloma
+15
+5.8
+1.4
+.002
+5.0
+2.1
+<.001
+12.6
+2.0
+<.001
+3.2
+0.6
+.16
+5.9
+−0.8
+.45
+5.8
+2.1
+<.001
+5.7
+1.3
+.002
+Brain and other nervous system
+16
+5.7
+−0.2
+.007
+6.1
+−0.2
+.07
+3.6
+−0.1
+.63
+3.3
+0.7
+.76
+3.8
+−0.3
+.78
+4.5
+−0.8
+<.001
+5.9
+−0.1
+.34
+Stomach
+17
+4.7
+0.0
+.89
+4.0
+0.1
+.75
+7.7
+−1.3
+<.001
+8.2
+−2.4
+<.001
+6.3
+−1.7
+.03
+7.6
+−1.4
+<.001
+4.3
+−0.8
+<.001
+Liver and intrahepatic bile duct
+18
+4.4
+3.8
+<.001
+4.0
+4.3
+<.001
+5.4
+3.7
+<.001
+7.7
+−0.6
+.02
+9.9
+4.1
+<.001
+7.5
+2.4
+<.001
+4.1
+4.0
+<.001
+*
+Source: NPCR and SEER areas reported by NAACCR as meeting high-quality incidence data standards for the specified time periods. AAPC = average annual percent change; AI/AN = American Indian/Alaska Native; APC = annual percent change; API = Asian/Pacific Islander; CHSDA = Indian Health Service Contract Health Services Delivery Area; NAACCR = North American Association of Central Cancer Registries; NOS = not otherwise specified; NPCR = National Program of Cancer Registries; SEER = Surveillance, Epidemiology, and End Results.
+†
+Cancers are sorted in descending order according to sex-specific rates for all races and ethnicities. More than 15 cancers may appear under male and female patients to include the top 15 cancers in every race and ethnicity group.
+‡
+White, black, API, and AI/AN (CHSDA 2012 counties) include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive. AI/AN (CHSDA 2012) statistics exclude data from Kansas and Minnesota.
+§
+Rates are per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130).
+‖
+AAPC is a weighted average of the APC over the fixed interval 2011–2015 using the underlying joinpoint model for the period 1999–2015. Joinpoint models with up to three joinpoints are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). Joinpoint Regression Program, version 4.6.0.0, Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018.
+Registries included in the joinpoint models (1999–2015) for all races and ethnicities, white, black, AI/AN, API, Hispanic, and non-Hispanic (41 states): Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming.
+Registries included in the incidence rates (2011–2015) for all races and ethnicities, white, black, AI/AN, API, Hispanic, and non-Hispanic (47 states and 1 territory): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, and Puerto Rico.
+¶
+For all sites, myelodysplastic syndromes are included for the rate calculations but not for the APC calculations; they are excluded from cancer-specific analysis. Ovary excludes borderline tumors.
+#
+Two-sided statistical significance for APC and AAPC was determined using a t test for the APC and for the AAPC when it lies entirely within the last joinpoint segment and a z-test when the AAPC extends beyond the last joinpoint segment.
+Among male individuals, incidence rates decreased for 8 of the 17 most common cancers: prostate (5-year AAPC = −6.1%; P < .001); lung and bronchus (−2.6%; P < .001); colorectal (−1.5%; P = .001)); urinary bladder (bladder) (−0.9%; P < .001); non-Hodgkin lymphoma (NHL) (−0.3%; P = .02); stomach (−0.6%; P = .001); ONS (−0.6%; P = .003); and larynx (−2.3%; P < .001) (Figure 2). In contrast, incidence rates among male individuals increased for seven cancers: melanoma of the skin (2.3%; P < .001); kidney and renal pelvis (kidney) (1.5%; P < .001); oral cavity and pharynx (1.2%; P < .001); pancreas (1.0%; P < .001); liver and intrahepatic bile duct (liver) (2.7%; P < .001); myeloma (1.3%; P = .04); and thyroid (1.9%; P = .001). Incidence rates among male individuals were stable for leukemia and esophagus cancer.
+Among female individuals, incidence rates decreased for 6 of the 18 most common cancers: lung and bronchus (5-year AAPC = −1.2%; P < .001); colorectal (−1.0%; P < .001); NHL (−0.5%; P < .001); ovary (−1.5%; P = .009); bladder (−0.8%; P < .001); and brain and ONS (−0.2%; P = .007). However, incidence rates among female individuals increased for nine of the most common cancers: breast (0.4%; P = .001); corpus and uterus not otherwise specified (uterus) (1.2%; P < .001); melanoma of the skin (1.7%; P <.001); kidney (0.5%; P < .001); leukemia (0.9%; P < .001); pancreas (1.0%; P < .001); oral cavity and pharynx (0.7%; P < .001); myeloma (1.4%; P = .002); and liver (3.8%; P < .001). Incidence rates among female individuals were stable for thyroid, cervix, and stomach cancers (Figure 2).
+For most cancer sites, the increasing or decreasing incidence trends from 2011 to 2015 among persons of all ages were continuations of past trends (Supplementary Table 1, available online). For thyroid cancer, recent stable trends in female individuals followed annual increases of 7.4% (95% CI = 7.1% to 7.7%) per year during 1999 to 2009 and 2.1% (95% CI = 0.7% to 3.6%) during 2009 to 2013, with rates stabilizing during 2013 to 2015 (Supplementary Table 1, available online). Substantial changes in thyroid cancer incidence were also observed among male individuals; rates increased 6.9% (95% CI = 6.3% to 7.5%) per year during 1999 to 2009 and 1.9% (95% CI = 0.9% to 2.8%) per year during 2009 to 2015. Prostate cancer incidence rates were stable from 1999 to 2008, then decreased 6.1% (95% CI = −8.0% to − 4.2%) per year. Colorectal cancer incidence rates stabilized among male and female individuals beginning in 2012, after decreasing 3.3% (95% CI = −3.6% to −3.1%) per year among male individuals during 2002 to 2012 and 3.4% (95% CI = −3.9% to −2.9%) per year among female individuals during 2007 to 2012, consistent with trends in last year’s report (20).
+Black male and white female individuals had higher overall cancer incidence rates than other racial groups (Table 1). API male and API female individuals had the lowest rates relative to other racial groups. Non-Hispanic male and female individuals had higher incidence rates than those of Hispanic ethnicity. Among male individuals in each racial and ethnic group, incidence rates during 2011 to 2015 decreased for all cancer sites combined and for each of the three most common cancers (prostate, lung and bronchus, and colorectal) (Table 1). Among female individuals, incidence rates during 2011 to 2015 increased among blacks, API, AI/AN, and non-Hispanics, but were stable in whites and Hispanics; breast cancer incidence rates increased in each racial and ethnic group; lung and bronchus cancer incidence rates decreased in each racial/ethnic group except for API and AI/AN, in whom they were stable; colorectal cancer incidence rates decreased in each racial/ethnic group except Hispanics, in whom they were stable (Table 1).
+Cancer Death Rates and Trends for All Sites Combined and for the Most Common Cancers Among All Age Groups
+Figure 1 shows trends in death rates by sex from 1999 to 2016 for all cancer sites combined. Death rates decreased during this period by 1.8% (95% CI = −1.8% to −1.8%) on average per year among male patients. Among female patients, death rates decreased 0.9% (95% CI = −1.3% to −0.5%) per year from 1999 to 2002, then decreased 1.4% (95% CI = −1.4% to −1.4%) per year from 2002 to 2016.
+Table 2 and Figure 3 present average annual death rates and 5-year AAPCs (2012–2016) for the 19 most common causes of cancer death among male patients and 20 most common among female patients. During 2012 to 2016, cancer death rates for all sites combined decreased 1.8% (95% CI = −1.8% to −1.8%) per year in male patients and 1.4% (95% CI = −1.4% to −1.4%) per year in female patients. The death rate (per 100 000 persons) for all cancers combined among male patients was 1.4 times the rate among female patients (193.1 vs 137.7) (Table 2). For the cancer sites that commonly occur among male and female individuals alike, death rates were higher among male than female patients for every cancer, with male-to-female death rate ratios ranging from 1.3 for pancreas cancer and soft tissue including heart to 4.9 for esophagus cancer (Figure 3).
+Figure 3.
+Age-standardized death rates and recent fixed interval trends (2012–2016) for the 19 most common cancers in male individuals and the 20 most common cancers in female individuals, all races and ethnicities combined, by sex. Five-year AAPC is based on joinpoint trend, 1999–2016. AAPC = average annual percent change; CI = confidence interval; NOS = not otherwise specified. Rates were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). AAPC is a weighted average of the annual percent change over the fixed interval (2012–2016) using the underlying joinpoint model for the period 1999–2016. Joinpoint models with up to three joinpoints are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018.
+Table 2.
+Age-standardized death rates and fixed-interval trends (2012–2016) for the most common causes of cancer death, all ages, by sex, race, and ethnicity*
+Sex/cancer site or type†
+All races/ethnicities‡
+White‡
+Black‡
+API‡
+AI/AN (CHSDA)‡
+Hispanic‡
+Non-Hispanic‡
+Rank
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+Rate§
+2012–2016 AAPC‖
+P
+¶
+All sites¶
+Both sexes
+—
+161.0
+−1.5
+<.001
+161.5
+−1.4
+<.001
+185.7
+−2.1
+<.001
+100.4
+−1.3
+<.001
+148.8
+−0.8
+<.001
+113.6
+−1.2
+<.001
+165.1
+−1.5
+<.001
+Male patients
+—
+193.1
+−1.8
+<.001
+193.0
+−1.7
+<.001
+233.6
+−2.7
+<.001
+119.1
+−1.6
+<.001
+178.8
+−0.7
+.002
+138.2
+−1.6
+<.001
+197.8
+−1.7
+<.001
+Female patients
+—
+137.7
+−1.4
+<.001
+138.2
+−1.3
+<.001
+156.2
+−1.6
+<.001
+87.0
+−1.0
+<.001
+126.8
+−1.4
+<.001
+96.4
+−1.0
+<.001
+141.4
+−1.4
+<.001
+Children (ages 0–14 y)
+—
+2.1
+−1.3
+<.001
+2.2
+−1.3
+<.001
+2.1
+−1.3
+<.001
+1.8
+−1.7
+.02
+1.8
+—#
+—
+2.1
+−1.8
+<.001
+2.1
+−1.3
+<.001
+Children (ages 0–19 y)
+—
+2.3
+−0.4
+.42
+2.4
+−0.4
+.37
+2.2
+−1.7
+<.001
+2.0
+−1.2
+.03
+1.9
+−0.4
+.48
+2.3
+−1.6
+<.001
+2.3
+−0.2
+.66
+Male patients
+Lung and bronchus
+1
+51.6
+−4.3
+<.001
+51.7
+−4.2
+<.001
+62.1
+−5.1
+<.001
+30.3
+−2.8
+<.001
+42.7
+−1.4
+.002
+25.3
+−3.7
+<.001
+54.0
+−4.2
+<.001
+Prostate
+2
+19.2
+−0.9
+.15
+18.0
+−0.6
+.32
+38.9
+−2.2
+.19
+8.6
+−2.6
+<.001
+19.1
+−1.2
+.03
+15.9
+−2.7
+<.001
+19.5
+−0.8
+.20
+Colon and rectum
+3
+16.9
+−2.0
+<.001
+16.5
+−1.8
+<.001
+23.8
+−2.6
+<.001
+11.7
+−2.1
+<.001
+19.5
+−0.6
+.24
+14.4
+−1.6
+<.001
+17.2
+−1.9
+<.001
+Pancreas
+4
+12.6
+0.2
+<.001
+12.6
+0.4
+<.001
+14.8
+−0.4
+.001
+8.2
+0.1
+.45
+10.1
+1.9
+.33
+9.4
+0.1
+.44
+12.9
+0.3
+<.001
+Liver and intrahepatic bile duct
+5
+9.6
+1.1
+.03
+8.9
+1.5
+.01
+13.2
+−0.3
+.73
+13.9
+−2.2
+.02
+14.6
+2.6
+<.001
+13.3
+1.5
+<.001
+9.2
+1.1
+.06
+Leukemia
+6
+8.8
+−2.6
+<.001
+9.1
+−2.5
+<.001
+7.2
+−1.6
+<.001
+4.8
+−0.8
+.04
+5.5
+−0.5
+.54
+6.0
+−0.8
+.001
+8.9
+−2.6
+<.001
+Urinary bladder
+7
+7.6
+−0.1
+.17
+8.0
+0.0
+.36
+5.4
+−0.4
+.12
+2.9
+0.0
+.95
+4.0
+—#
+—
+3.8
+−0.8
+.02
+7.9
+0.1
+.26
+Non-Hodgkin lymphoma
+8
+7.3
+−2.0
+<.001
+7.6
+−2.0
+<.001
+5.2
+−2.0
+<.001
+4.9
+−1.7
+<.001
+5.8
+−0.3
+.69
+6.1
+−1.3
+<.001
+7.3
+−2.1
+<.001
+Esophagus
+9
+7.1
+−1.1
+<.001
+7.5
+−0.6
+<.001
+5.6
+−4.8
+<.001
+2.7
+−1.4
+.009
+6.3
+−0.7
+.38
+3.7
+−1.3
+.001
+7.4
+−1.0
+<.001
+Kidney and renal pelvis
+10
+5.5
+−0.7
+<.001
+5.7
+−0.6
+<.001
+5.5
+−0.9
+<.001
+2.7
+0.3
+.57
+8.2
+−1.1
+.08
+5.0
+−0.6
+.03
+5.6
+−0.7
+<.001
+Brain and other nervous system
+11
+5.4
+0.6
+.002
+5.8
+0.7
+<.001
+3.2
+0.0
+.96
+2.6
+0.3
+.44
+2.8
+1.3
+.25
+3.5
+0.2
+.35
+5.6
+0.7
+<.001
+Stomach
+12
+4.2
+−2.1
+<.001
+3.7
+−2.3
+<.001
+8.2
+−3.2
+<.001
+6.8
+−3.7
+<.001
+7.0
+−3.3
+.002
+6.5
+−2.8
+<.001
+3.9
+−1.8
+<.001
+Myeloma
+13
+4.2
+−0.9
+<.001
+4.0
+−0.8
+<.001
+7.4
+−1.1
+<.001
+2.0
+0.1
+.77
+3.5
+−2.1
+.02
+3.4
+−0.6
+.10
+4.2
+−0.9
+<.001
+Oral cavity and pharynx
+14
+3.9
+1.0
+.008
+3.8
+1.4
+.001
+4.7
+−3.1
+<.001
+3.1
+2.6
+.06
+3.8
+0.0
+.99
+2.4
+1.4
+.25
+4.0
+1.1
+.005
+Melanoma of the skin
+15
+3.7
+−5.0
+<.001
+4.3
+−4.7
+<.001
+0.4
+−1.1
+.15
+0.4
+^
+1.0
+—#
+—
+0.9
+−0.5
+.31
+4.0
+−4.8
+<.001
+Larynx
+16
+1.8
+−2.5
+<.001
+1.7
+−2.2
+<.001
+3.1
+−3.6
+<.001
+0.7
+−2.4
+.01
+1.6
+—#
+—
+1.5
+−2.7
+<.001
+1.8
+−2.4
+<.001
+Nonmelanoma
+17
+1.7
+2.0
+<.001
+1.9
+3.0
+<.001
+0.7
+−2.6
+<.001
+0.4
+^
+1.0
+—#
+—
+0.8
+0.7
+.21
+1.8
+2.2
+<.001
+Soft tissue, including heart
+18
+1.5
+0.7
+.001
+1.6
+0.5
+.005
+1.5
+−0.1
+.78
+1.0
+0.8
+.33
+1.5
+—#
+—
+1.2
+1.1
+.02
+1.6
+−1.0
+.43
+Bones and joints
+19
+0.5
+0.1
+.41
+0.6
+0.3
+.23
+0.6
+0.0
+.93
+0.3
+1.3
+.19
+0.5
+—#
+—
+0.5
+−0.2
+.74
+0.6
+0.1
+.37
+Female patients
+Lung and bronchus
+1
+34.4
+−3.1
+<.001
+35.6
+−2.9
+<.001
+32.4
+−3.8
+<.001
+17.4
+−0.7
+<.001
+29.9
+−2.0
+<.001
+13.1
+−1.4
+<.001
+36.4
+−3.0
+<.001
+Breast
+2
+20.6
+−1.5
+<.001
+20.1
+−1.4
+<.001
+28.1
+−1.5
+<.001
+11.3
+−0.9
+<.001
+14.5
+2.9
+.55
+14.3
+−1.1
+<.001
+21.2
+−1.2
+.001
+Colon and rectum
+3
+11.9
+−1.6
+.007
+11.7
+−1.6
+.001
+15.5
+−3.1
+<.001
+8.4
+−1.7
+<.001
+13.1
+−0.9
+.18
+8.8
+−2.1
+<.001
+12.2
+−1.5
+.01
+Pancreas
+4
+9.6
+0.2
+<.001
+9.4
+0.3
+<.001
+12.2
+−0.2
+.007
+7.2
+0.2
+.29
+8.0
+0.1
+.83
+7.7
+0.1
+.51
+9.7
+0.3
+<.001
+Ovary
+5
+7.0
+−2.3
+<.001
+7.3
+−2.2
+<.001
+6.1
+−1.5
+<.001
+4.4
+−0.8
+.005
+6.4
+−0.7
+.38
+5.3
+−1.3
+<.001
+7.2
+−2.2
+<.001
+Leukemia
+6
+4.9
+−1.3
+<.001
+5.1
+−1.2
+<.001
+4.4
+−1.4
+<.001
+2.8
+−5.3
+.008
+3.1
+—#
+—
+3.8
+−0.8
+.001
+4.9
+−1.3
+<.001
+Corpus and uterus, NOS
+7
+4.7
+2.3
+<.001
+4.4
+2.1
+<.001
+8.5
+2.4
+<.001
+3.1
+2.5
+<.001
+3.6
+—#
+—
+3.9
+2.9
+<.001
+4.8
+2.2
+<.001
+Non-Hodgkin lymphoma
+8
+4.4
+−2.6
+<.001
+4.5
+−2.7
+<.001
+3.3
+−2.1
+<.001
+3.1
+−1.8
+<.001
+3.4
+−3.2
+.002
+3.8
+−2.2
+<.001
+4.4
+−2.3
+<.001
+Liver and intrahepatic bile duct
+9
+3.9
+1.9
+.001
+3.7
+2.8
+<.001
+4.7
+1.7
+<.001
+5.8
+−1.2
+.002
+7.5
+1.0
+.28
+6.0
+1.2
+<.001
+3.7
+2.6
+<.001
+Brain and other nervous system
+10
+3.6
+0.5
+.005
+3.9
+0.6
+.009
+2.1
+−0.1
+.81
+1.9
+2.1
+<.001
+2.1
+—#
+—
+2.6
+2.2
+.02
+3.7
+0.6
+.001
+Myeloma
+11
+2.7
+−1.6
+.05
+2.4
+−1.6
+.04
+5.4
+−2.1
+.26
+1.3
+−1.8
+.01
+2.8
+−2.0
+.11
+2.3
+−1.5
+<.001
+2.7
+−1.6
+.04
+Kidney and renal pelvis
+12
+2.3
+−1.4
+<.001
+2.4
+−1.5
+<.001
+2.3
+−1.4
+<.001
+1.1
+−0.7
+.15
+3.8
+−1.1
+.25
+2.3
+−0.4
+.17
+2.3
+−1.5
+<.001
+Cervix uteri
+13
+2.3
+−0.7
+<.001
+2.2
+0.5
+.16
+3.5
+−4.7
+.04
+1.7
+−2.7
+<.001
+2.8
+−2.1
+.06
+2.6
+1.1
+.58
+2.2
+−0.6
+.001
+Stomach
+14
+2.3
+−1.6
+<.001
+2.0
+−1.6
+<.001
+3.8
+−3.6
+<.001
+4.2
+−3.5
+<.001
+3.7
+−3.0
+.003
+4.0
+−1.9
+<.001
+2.1
+−2.2
+<.001
+Urinary bladder
+15
+2.1
+−0.5
+<.001
+2.2
+−0.3
+.003
+2.4
+−1.4
+<.001
+0.9
+−0.8
+.14
+1.4
+—#
+—
+1.2
+−1.2
+.02
+2.2
+−0.4
+<.001
+Melanoma of the skin
+16
+1.5
+−4.9
+<.001
+1.8
+−4.5
+.001
+0.3
+−2.2
+.007
+0.3
+^
+0.5
+—#
+—
+0.5
+−1.1
+.08
+1.7
+−4.7
+.001
+Esophagus
+17
+1.5
+−1.5
+<.001
+1.5
+−0.9
+<.001
+1.7
+−4.3
+<.001
+0.7
+−1.9
+.01
+1.5
+—#
+—
+0.7
+−2.3
+<.001
+1.5
+−1.4
+<.001
+Oral cavity and pharynx
+18
+1.3
+1.9
+.20
+1.3
+2.1
+.11
+1.3
+−2.4
+<.001
+1.2
+−1.0
+.08
+1.0
+—#
+—
+0.8
+−0.5
+.26
+1.4
+2.0
+.18
+Soft tissue, including heart
+19
+1.2
+0.2
+.05
+1.1
+−0.1
+.19
+1.5
+0.5
+.04
+0.8
+0.6
+.35
+0.9
+—#
+—
+0.9
+0.4
+.44
+1.2
+0.2
+.03
+Gallbladder
+20
+0.7
+−1.3
+<.001
+0.7
+−1.6
+<.001
+1.0
+0.1
+.69
+0.7
+−1.2
+.05
+1.6
+−3.5
+.001
+1.2
+−2.2
+<.001
+0.7
+−1.4
+<.001
+*
+Source: National Center for Health Statistics public-use data file for the total United States, 1975–2016. AAPC = average annual percent change; AI/AN = American Indian/Alaska Native; APC = annual percent change. API = Asian/Pacific Islander; CHSDA = Indian Health Service Contract Health Services Delivery Area; NOS = not otherwise specified.
+†
+Cancers are sorted in descending order according to sex-specific rates for all races and ethnicities. More than 15 cancers may appear under male and female patients to include the top 15 cancers in every race and ethnicity group.
+‡
+White, black, API, and AI/AN (CHSDA 2012 counties) include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+§
+Rates are per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, …, 80–84 years, 85 years; U.S. Bureau of the Census, Current Population Reports, P25–1130. Washington, DC: U.S. Government Printing Office, 2000).
+‖
+AAPC is a weighted average of the APCs over the fixed interval 2012–2016 using the underlying joinpoint model for the period 1999–2016. Joinpoint models with up to three joinpoints are based on rates per 100 000 persons that are age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). Joinpoint Regression Program, version 4.6.0.0. Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018.
+¶
+Two-sided statistical significance for APC and AAPC was determined using a t test for the APC and for the AAPC when it lies entirely within the last joinpoint segment and a z-test when the AAPC extends beyond the last joinpoint segment.
+#
+The statistic could not be calculated. The average annual percent change is based on fewer than 10 cases for at least 1 year within the time interval.
+Among male patients, death rates decreased during 2012 to 2016 for 10 of the 19 most common cancers. The steepest decreases were observed for cancer of the lung and bronchus (5-year AAPC = −4.3%; P < .001); colon and rectum (−2.0%; P < .001); leukemia (−2.6%; P < .001); NHL (−2.0%; P < .001); stomach (−2.1%; P < .001); melanoma of the skin (−5.0%; P < .001); and larynx (−2.5%; P < .001). In contrast, death rates among male patients increased for six cancers, with the steepest increases for liver (1.1%; P = .03), oral cavity and pharynx (1.0%; P = .008), and nonmelanoma skin (2.0%; P < .001). Rates were stable for cancers of the prostate, bladder, and bones and joints (Figure 3;Table 2). Consistent with trends in last year’s report (20,21), prostate cancer death rates declined an average of 3.5% (95% CI = −3.7 to −3.3) per year during 1999 to 2013 and were stable during 2013 to 2016 (Supplementary Table 2).
+Among female patients, death rates decreased for 13 of the 20 most common cancers, including the 3 most common: lung and bronchus (5-year AAPC = −3.1%; P < .001), breast (−1.5%; P < .001), and colorectal (−1.6%; P = .007) (Figure 3;Table 1). In addition to lung and bronchus cancer, the steepest declines were for ovary cancer (−2.3%; P < .001), NHL (−2.6%; P < .001), and melanoma of the skin (−4.9%; P < .001). In contrast, death rates among female patients increased for five cancer types, with the steepest increases observed for cancers of the uterus (2.3%; P < .001) and liver (1.9%; P = .001). Rates were stable for myeloma and oral cavity and pharynx.
+For the most part, recent trends in site-specific death rates among male and female patients were continuations of long-term trends (Supplementary Table 2, available online). One exception is death rates for melanoma of the skin, which have shown rapid declines both in male and female patients during the last several years. Among male patients, death rates were stable from 2009 to 2013, then declined 8.5% (95% CI = −12.2% to −4.6%) per year from 2014 to 2016, and among female patients, death rates declined 0.4% (95% CI = −0.8% to −0.1%) per year from 1999 to 2013 and 6.3% (95% CI = −9.9% to −2.6%) per year from 2013 to 2016.
+Black male and black female patients had the highest cancer death rates of any racial group for all cancer sites combined and for about half of the most common cancers in male and female individuals (Table 2). Non-Hispanic male and female patients had higher overall cancer death rates than those of Hispanic ethnicity. During 2012 to 2016, death rates declined overall and for three of the four most common cancers (lung and bronchus, colorectal, breast) among male and female patients in all racial and ethnic groups, except breast cancer death rates were stable among AI/AN female patients and colorectal cancer death rates were stable among AI/AN male and female patients (Table 2). Prostate cancer death rates were stable among white, black, and non-Hispanic male patients and declined among API, AI/AN, and Hispanic male patients.
+Cancer Incidence and Death Rates and Trends Among Children (Age 0–14 Years) and Adolescents (Age 15–19 Years)
+Among children age 0–14 years, the incidence rate for all cancer sites combined was 16.7 per 100 000 and increased an average of 0.9% (95% CI = 0.7% to 1.0%) per year during 2011 to 2015 (Table 1;Supplementary Table 3, available online). Incidence rates ranged from 12.5 for AI/AN children to 17.4 for white children, and rates increased among white (5-year AAPC = 0.8%, 95% CI = 0.6% to 1.0%), API (1.2%, 95% CI = 0.6% to 1.8%), Hispanic (0.5%, 95% CI = 0.2% to 0.7%), and non-Hispanic (1.0%, 95% CI = 0.9% to 1.1%) children. The cancer death rate among children aged 0–14 years was 2.1 per 100 000 and decreased an average of 1.3% (95% CI = −1.7% to −1.0%) per year during 2012 to 2016. Death rates ranged from 1.8 for API and AI/AN children to 2.2 for white children, and rates decreased in all racial and ethnic groups except AI/AN for whom trends could not be calculated.
+Among adolescents age 15–19 years, the incidence rate for all cancer sites combined was 22.9 and increased an average of 0.9% (95% CI = 0.6% to 1.1%) per year during 2011 to 2015 (Supplementary Table 3, available online). Incidence rates ranged from 15.5 for black adolescents to 24.5 for white adolescents, and rates increased for white (5-year AAPC = 0.9%, 95% CI = 0.6% to 1.2%), black (0.6%, 95% CI = 0.0% to 1.2%), API (2.1%, 95% CI = 1.3% to 3.0%), Hispanic (1.5%, 95% CI = 1.0% to 1.9%), and non-Hispanic (0.8%, 95% CI = 0.5% to 1.1%) adolescents. The death rate for all cancer sites combined among adolescents 15–19 years was 2.9 and was stable during 2012 to 2016. Death rates ranged from 2.2 among AI/AN adolescents to 3.1 among Hispanic adolescents, and rates decreased in white (−1.6%, 95% CI = −2.0% to −1.2%), black (−1.4%, 95% CI = −2.6% to −0.3%), and Hispanic (−1.3%, 95% CI = −2.3% to −0.3%) adolescents.
+Cancer Incidence and Trends Among Men and Women Age 20–49 Years
+Figure 4 shows trends from 1999 to 2015 in age-standardized, delay-adjusted incidence rates for all cancer sites combined among men and among women age 20–49 years. Among men aged 20–49 years, cancer incidence rates increased an average of 0.6% (95% CI = 0.3% to 0.8%) per year during 1999 to 2008 and decreased an average of 0.7% (95% CI = −1.0% to −0.4%) per year during 2008 to 2015. Among women age 20–49 years, rates increased an average of 1.1% (95% CI = 0.9% to 1.2%) per year during 1999 to 2009, were stable during 2009 to 2012, then increased 1.8% (95% CI = 1.0% to 2.6%) per year during 2012 to 2015.
+Figure 4.
+Trends in age-standardized incidence (1999‒2015) and mortality rates (1999‒2016), all cancer sites combined, all races and ethnicities combined, by sex, ages 20–49 years. Rates were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). Scattered points were observed rates; lines were fitted rates according to joinpoint regression. Incidence rates were delay-adjusted and covered 88.6% of the US population, and mortality covered the entire United States. Registries included for incidence: Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming. AAPC is a weighted average of APCs over the fixed interval (2011–2015 for incidence; 2012–2016 for mortality) using the underlying joinpoint model for the period 1999–2015 for incidence and the period 1999–2016 for mortality. Joinpoint models with up to three joinpoints for incidence and mortality are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018. AAPC = average annual percent change; APC = annual percent change; CI = confidence interval.
+Unlike the pattern in incidence rates for all ages, the incidence rate for all invasive cancers among individuals age 20–49 years during 2011 to 2015 was lower among men (115.3) than women (203.3) (Supplementary Table 4, available online). Invasive cancers with the highest incidence rates among men were colon and rectum (13.1), testis (10.7), and melanoma of the skin (9.8), and among women were breast (73.2), thyroid (28.4), and melanoma of the skin (14.1) (Figure 5). The incidence of invasive breast cancer in women far exceeded the incidence of any other cancer in men or women age 20–49 years. Among the 10 most common invasive cancers in men that also occur in females, incidence among men was higher for seven sites, with rate ratios ranging from 1.1 for colorectal to 2.2 for oral cavity and pharynx. Incidence was lower among men for thyroid cancer (rate ratio = 0.2), melanoma of the skin (0.7), and lung and bronchus cancer (0.9). In addition to breast and thyroid cancer, cancers of the female genital organs contributed to younger women having a greater cancer burden than younger men.
+Figure 5.
+Age-standardized, delay-adjusted incidence rates, and fixed-interval trends (2011–2015) for most common cancers, ages 20–49 years by sex, for areas in the United States with high-quality incidence data. AAPC = 5-year average annual percent change; CI = confidence interval; CNS = central nervous system; NOS = not otherwise specified; ONS = other nervous system. §Rates are per 100 000 persons and were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130) and delay-adjusted. ¥Counts in parentheses after the bars are the delay-adjusted counts observed in the 48 registries with high-quality data for 2015. AAPC is a weighted average of the APCs over the fixed interval 2011–2015 using the underlying joinpoint model for the period 1999–2015, except for breast (in situ), which used the period 2001–2015, and nonmalignant brain, which used the period 2008–2015. The maximum number of joinpoints was based on the length of the time period: three for the period 1999–2015, two for the period 2001–2015 (in situ breast cancer), and one for the period 2008–2015 (nonmalignant CNS tumors). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018. Registries included in the joinpoint models (1999–2015) for invasive cancers (41 states): Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming. Registries included in rates for invasive cancers (2011–2015) (47 states and 1 territory): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, and Puerto Rico. Registries included in the joinpoint models (2001–2015) for breast in situ (43 states covering 87.6% of the population of the United States and Puerto Rico): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, Wyoming. Registries included in the joinpoint models (2008–2015) for nonmalignant CNS tumors (46 states and 1 territory covering 97.5% of the population of the United States and Puerto Rico): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, and Puerto Rico.
+During 2011 to 2015, the incidence of all invasive cancers combined decreased among men age 20–49 years (5-year AAPC = −0.7%, 95% CI = −1.0% to −0.4%) and increased among women (1.3%, 95% CI = 0.7% to 1.9%) (Supplementary Table 4, available online). Incidence rates for lung and bronchus cancer declined both in men (−5.3%, 95% CI = −5.6% to −4.9%) and women (−5.6%, 95% CI = −6.4% to −4.7%), and incidence rates for colorectal cancer increased 3.4% (95% CI = 1.6% to 5.2%) among men and 3.8% (95% CI = 1.7% to 5.9%) among women. Incidence rates for prostate cancer among men decreased 8.1% (95% CI = −10.4% to −5.8%) per year. Among women, incidence rates increased 0.5% (95% CI = 0.3% to 0.7%) per year for breast and 3.1% (95% CI = 1.5% to 4.8%) per year for uterus. Unlike thyroid cancer trends for all ages, where incidence rates were stable in women and increasing in men, incidence rates increased 2.2% (95% CI = 1.4% to 2.9%) among women age 20–49 years and were stable among men age 20–49 years. Incidence rates for melanoma of the skin decreased –0.7% (95% CI = −1.1% to −0.3%) among men and were stable among women. For most cancer sites, the increasing or decreasing trends during 2011 to 2015 among men and women age 20–49 years were continuations of longer-term trends (Supplementary Table 5, available online).
+Figure 5 provides incidence rates by 10-year age group. Among men age 20–29 years, the most common invasive cancers were testis, Hodgkin lymphoma, and NHL. Among men age 30–39 years, they were testis, melanoma of the skin, and colorectal, and among men age 40–49 years, they were colorectal, prostate, and kidney and renal pelvis. Among women aged 20–29 years, the most common invasive cancers were thyroid, melanoma of the skin, and breast. Among women age 30–39 years, they were breast, thyroid, and melanoma of the skin, and among women age 40–49 years, they were breast, thyroid, and colorectal. These variations in ranking by decade of age reflected marked differences in age-specific incidence patterns across cancer sites. Five-year AAPCs for colorectal cancer varied by decade of age, with large average annual increases occurring among men age years (AAPC = 10.0%, 95% CI = 5.8% to 14.5%) and women age 20–29 years (AAPC = 11.4%, 95% CI = 6.0% to 17.1%) (data not shown).
+Several cancers in young adults age 20–49 years had pronounced variations in incidence by race/ethnicity (Supplementary Table 4, available online). Incidence rates for testis cancer among men age 20–49 years were highest (12.5) among whites and lowest among black (2.8) and API (3.6) males. Incidence rates for prostate cancer among men age 20–49 years were highest among black (18.6) men and lowest among API (2.0) and AI/AN (4.3) men.
+Cancer Death Rates and Trends Among Men and Women Age 20–49 Years
+The death rate for all cancer sites combined during 2012 to 2016 was 22.8 among men and 27.1 among women age 20–49 years (Supplementary Table 6, available online). The three most common causes of cancer death among men age 20–49 years were colorectal, lung and bronchus, and brain and ONS, and among women were breast, lung and bronchus, and colorectal (Supplementary Table 6, available online). All the top 12 causes of cancer death in younger men also occur in women, and death rates in men consistently exceeded those in women, with death rate ratios ranging from 1.1 for lung and bronchus cancer to 5.4 for esophagus cancer (Figure 6).
+Figure 6.
+Age-standardized death rates and fixed-interval trends (2012–2016) for the most common causes of cancer death ages 20–49 years, by sex. Five-year AAPC is based on joinpoint trend from 1999–2016. AAPC = 5-year average annual percent change; CI = confidence interval; NOS = not otherwise specified. §Rates are per 100 000 persons and were age-standardized to the 2000 US standard population (19 age groups, Census P25–1130) and delay-adjusted. AAPC is a weighted average of the annual percent change over the fixed interval 2012–2016, using the underlying joinpoint model for the period 1999–2016. Joinpoint models with up to three joinpoints are based on rates per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130). For joinpoint analyses, the Joinpoint Regression Program was used (version 4.6.0.0), Bethesda, MD: Statistical Research and Applications Branch, National Cancer Institute; April 2018.
+During 2012 to 2016, death rates for cancers of all sites combined decreased 2.3% (95% CI = −2.4% to −2.2%) per year among men and 1.7% (95% CI = −1.8% to −1.6%) per year among women age 20–49 years (Figure 4;Supplementary Table 7, available online). Among the top causes of cancer death in this age group, death rates increased during 2012 to 2016 for colorectal both in men (AAPC = 1.6%, 95% CI = 1.2% to 2.0%) and women (AAPC = 1.0, 95% CI = 0.5% to 1.5%), decreased for lung and bronchus both in men (AAPC = −6.6%, 95% CI = −7.1% to −6.2%) and women (AAPC = −9.2%, 95% CI = −10.8% to −7.6%), decreased for breast in women (AAPC = −1.3%, 95% CI = −1.9% to −0.7%), and were stable for brain and ONS in men and women (Figure 6;Supplementary Table 6, available online). For most cancer sites, the increasing or decreasing trends during 2012 to 2016 among men and women age 20–49 years were continuations of longer-term trends (Supplementary Table 7, available online).
+Among people age 20–49 years, black men and women had the highest death rates of any racial/ethnic group for cancer of all sites. Among men, blacks had the highest death rates for colon and rectum, lung, pancreas, and NHL. Among women, blacks had the highest death rates for breast, colon and rectum, cervix, leukemia (along with Hispanics), pancreas, and NHL (Supplementary Table 6, available online). White and non-Hispanic men had the highest death rates for brain and ONS, esophagus, and melanoma of the skin; API men had the highest death rates for liver and oral cavity and pharynx cancer; AI/AN men had the highest death rates for kidney cancer; and Hispanic men had the highest death rates for leukemia and stomach cancer. Non-Hispanic women had the highest death rates for lung and bronchus cancer, white and non-Hispanic women had the highest rates for brain and ONS cancer, and AI/AN women had the highest death rates for corpus and uterus cancer.
+In Situ and Invasive Breast Cancer Among Women Age 20–49 Years
+The incidence of invasive breast cancer among women age 20–49 years—73.2 per 100 000—far exceeded the incidence of any other cancer among younger adults during 2011–2015 (Figure 5). Among women age 20–49 years, breast cancer incidence was stable during 1999 to 2002 (APC = −1.0, 95% CI = −2.7% to 0.8%) and increased 0.5% (95% CI = 0.3% − 0.7%) per year during 2002 to 2015 (Supplementary Table 5, available online). The incidence of breast cancer was highest among black (76.3), followed by white (73.0), API (68.4), and AI/AN (53.7) women and higher among non-Hispanic (77.0) than Hispanic (56.3) women (Supplementary Table 4, available online). The incidence of in situ breast cancer among women age 20–49 years was 20.2 per 100 000; if the incidence rates for invasive and nonmalignant were ranked together, breast cancer in situ would be the third leading cancer in women. Trends in the incidence of in situ breast cancer during 2011 to 2015 were stable (Figure 5).
+Breast cancer death rates among women age 20–49 years were more than double the rates for any other cause of cancer death among men or women (Figure 6;Supplementary Table 6, available online). Breast cancer was the leading cause of cancer death among women age 30–39 and 40–49 years and the third leading cause of cancer death among women age 20–29 years (Figure 6). Among women age 20–49 years, breast cancer death rates were stable during 1999 to 2001, decreased 3.3% (95% CI = −4.5% to −2.1%) per year during 2001 to 2007, and decreased 1.3% (95% CI = −1.9% to −0.7%) during 2007 to 2015 (Supplementary Table 7, available online). Although breast cancer incidence rates were only slightly higher among black (76.3) than white (73.0) women age 20–49 years, breast cancer death rates for black women were nearly double those for white women (12.3 and 6.7, respectively) (Supplementary Table 6, available online).
+Brain and ONS Cancers (Malignant) and Nonmalignant CNS Tumors Among Women and Men Age 20–49 Years
+Malignant brain and ONS cancers were the 11th most common invasive cancer among men and the 12th most common among women age 20‒49 years (Figure 5). Brain cancer was the third leading cause of cancer death among men and the sixth among women age 20‒49 years (Figure 6). Although the incidence of malignant brain and ONS cancer was higher among men than women (incidence rate ratio = 1.3), the incidence of nonmalignant CNS tumors was substantially lower (incidence rate ratio = 0.5) (Figure 5). During 2011 to 2015, the incidence of malignant brain and ONS cancer decreased an average of 0.5% (95% CI = −0.7% to −0.2%) per year in men and 0.3% (95% CI = −0.5% to 0.0%) per year in women, whereas the incidence of nonmalignant CNS tumors increased an average of 3.7% (95% CI = 3.1% to 4.4%) per year in men and 3.2% (95% CI = 2.5% to 3.9%) per year in women, with increasing trends in all age-sex strata (Figure 5). During 2012 to 2016, brain and ONS cancer death rates were stable both in men and women age 20‒49 years. (Figure 6).
+Table 3 provides incidence rates for major subtypes of malignant brain and ONS cancers and nonmalignant CNS tumors diagnosed during 2011 to 2015 and 5-year relative survival rates for benign, borderline, and malignant CNS tumors diagnosed during 2008 to 2014 in men and women age 20‒49 years. Incidence rates for the four most common malignant brain cancer subtypes were similar for men and women age 20‒49 years, with the exception of glioblastoma, for which the male rate (1.4) exceeded the female rate (0.9). In contrast, for the most common nonmalignant CNS tumors, rates of meningioma were about three times higher in females, and rates of pituitary tumors were nearly double. Five-year relative survival rates for patients diagnosed with malignant brain and ONS cancers were 55.4% (95% CI = 54.4% to 56.4%) in men and 62.6% (95% CI = 61.5% to 63.7%) in women. Survival rates for benign tumors were 96.2% (95% CI = 95.7% to 96.7%) in men and 97.7% (95% CI = 97.5% to 98.0%) in women, and survival rates for borderline tumors were 93.5% (95% CI = 92.3% to 94.5%) and 94.9% (95% CI = 93.8% to 95.7%) in men and women, respectively.
+Table 3.
+Incidence rates (2011–2015) and counts (2015) for the most common malignant brain and other nervous system and nonmalignant brain and central nervous system tumors by sex and 5-year relative survival rates by behavior (malignant, borderline, benign) for patients ages 20–49 years diagnosed 2008–2014*
+Behavior and histology group
+Men
+Women
+Percentage of all tumors
+Rate
+No. of cases 2015
+Percentage of all tumors
+Rate
+No. of cases 2015
+Malignant brain and ONS tumors‡
+Glioblastoma
+30.6
+1.4
+840
+25.7
+0.9
+558
+Diffuse astrocytoma
+12.5
+0.6
+344
+12.5
+0.4
+271
+Anaplastic astrocytoma
+11.0
+0.5
+303
+12.2
+0.4
+264
+Oligodendroglioma
+8.7
+0.4
+240
+8.7
+0.3
+190
+Benign and borderline brain and CNS tumors‡
+Meningioma
+23.7
+2.0
+1158
+38.8
+5.9
+3498
+Nerve sheath tumors
+20.1
+1.6
+982
+11.1
+1.7
+1001
+Tumors of the pituitary
+36.7
+3.0
+1797
+39.2
+5.7
+3539
+5-year relative survival§
+Malignant, % surviving (95% CI)
+55.4 (54.4 to 56.4)
+15 956
+62.6 (61.5 to 63.7)
+11 892
+Borderline, % surviving (95% CI)
+93.5 (92.3 to 94.5)
+3719
+94.9 (93.8 to 95.7)
+3719
+Benign, % surviving (95% CI)
+96.2 (95.7 to 96.7)
+13 741
+97.7 (97.5 to 98.0)
+28 815
+*
+Source: NPCR and SEER areas reported by NAACCR as meeting high-quality incidence and survival data standards for the specified time periods. CI = confidence interval; CNS = central nervous system; NAACCR = North American Association of Central Cancer Registries; NPCR = National Program of Cancer Registries; ONS = other nervous system; SEER = Surveillance, Epidemiology, and End Results.
+†
+Rates are per 100 000 persons, age-standardized to the 2000 US standard population (19 age groups, Census P25–1130).
+‡
+Registries included in the incidence rates (2011–2015) (47 states and 1 territory): Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, and Puerto Rico.
+§
+Five-year relative survival rate is based on patients diagnosed 2008–2014 and followed through December 31, 2015. Registries (41 states and 1 metropolitan area) covered 80.9% of the population of the United States and Puerto Rico: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, Wyoming, and Detroit.
+Discussion
+Most of the recent trends in cancer incidence and death rates observed in this report are continuations of past trends, reflecting large-scale and long-term population changes in cancer risk factors, screening, diagnostic practices, and treatment. Declines in incidence and death rates for several cancers—including lung and bronchus, bladder, and larynx—pattern historical declines in tobacco smoking (40). In contrast, increasing trends in cancers related to excess weight and to physical inactivity—including uterus, postmenopausal breast, and colorectal (only in young adults)—have been shown to be associated with changing prevalence of these risk factors in recent decades (14). Increasing trends also were observed in several other cancers related to excess body weight, including liver, kidney, and thyroid. Historical changes in prevalence of other risk factors, including human papillomavirus (HPV) and hepatitis C infection, play an important role in declining or increasing trends in certain cancers (15,18).
+Several notable changes in trends were observed in this report. After increasing for many decades (41), incidence rates for thyroid cancer have stabilized in women. Increasing trends in thyroid cancer incidence over the past several decades have been attributed in part to increasing use of ultrasound−guided fine−needle aspiration biopsy (42). A slowing of the increasing trends in thyroid cancer in men and women, beginning in 2009, may be related to revisions in American Thyroid Association management guidelines for small thyroid nodules (43). Earlier trends may reflect a true increase in the occurrence of papillary thyroid cancer as well as changes in diagnostic practice (41).
+Recent rapid declines in death rates from melanoma of the skin likely result from introduction of new therapies that have improved survival rates for advanced melanoma (44). New therapies, including targeted and immune checkpoint inhibitors, have increased the median survival for advanced-stage melanoma from approximately 9 months before 2011 to at least 2 years, based on clinical trials (44). Early indications of the effect of the new therapies on survival at the population level were observed in a study using the SEER-18 database in which 2-year survival among patients diagnosed with metastatic melanoma in the posttargeted era (2011–2014) was 28.3%, a statistically significant improvement over the 23.5% 2-year survival observed among those diagnosed in the pretargeted era (2004–2010) (45).
+Changing trends in prostate cancer incidence and mortality were analyzed in Part II of last year’s report (21). Findings in the current report are similar, although the 5-year AAPC for prostate cancer death rates during 2012 to 2016 is stable rather than continuing to decline (20). These trends may be driven in part by changes issued in 2008 and 2012 in the US Preventive Services Task Force recommendations regarding routine prostate-specific antigen (PSA) testing, which resulted in substantial declines in PSA test rates (46).
+Another important recent change in trend—stabilization of colorectal cancer incidence rates among men and women beginning in 2012 after a long period of decreasing trends—was also noted in last year’s report (20). The recent stabilization in trends among people of all ages may reflect, in part, increases in colorectal cancer incidence in younger adults (47).
+The higher cancer incidence for men compared with women for most cancers has not been systematically described in previous annual reports, but it has been described in a prior study (27). Tobacco use largely accounts for the higher incidence of many cancers in men compared with women (48). Male cancer excesses for several sites are related to higher prevalence of infection with oncogenic agents, including oral HPV (tonsil, oropharynx, hypopharynx) and hepatitis B and C (liver cancer) (15,18). Other site-specific excesses in men are likely related to occupational exposures (49). In addition to differing rates of exposure to exogenous risk factors, differences in cancer incidence rates between men and women may be associated with differences in health-care usage (50), as well as biological differences, including anthropomorphic characteristics, gene expression, and endogenous sex hormones (eg, estrogen) (51). A previous study compared mortality rate ratios for men and women and found that higher death rates among men are largely attributable to differences in incidence, with a more modest impact of differences in survival (52).
+Understanding cancer patterns and trends among younger adults and efforts to reduce the cancer burden are important for several reasons. Persons diagnosed with cancer early in adult life often face challenges and disruptions in their social roles as parents and income earners (22). Many young patients experience long-term sequelae of their cancer and its treatment, affecting their health and health-related quality of life for the remainder of their lifetimes (53). Finally, because cancer trends in younger adults may reflect changing risk factors, identifying adverse trends may help enable timely interventions to reduce the future burden of incident cancers and deaths in the population.
+Declines in lung and bronchus cancer incidence and death rates among men and women age 20‒49 years reflect substantial progress in comprehensive tobacco control (54). These gains may be threatened by the recent uptake in e-cigarette use among adolescents, which is strongly associated with the use of other tobacco products (55). Risk of HPV-related cancer of the oral cavity and pharynx and cervix can be prevented by HPV vaccination, which has been recommended for girls and young women since 2006 and for boys and young men since 2011 (15). Although HPV vaccination rates have been increasing, they remain lower than recommended (56). Melanoma of the skin may be prevented by avoiding ultraviolet exposure from the sun and indoor tanning (25). Declines in melanoma incidence rates among men age 20‒49 years may reflect skin cancer–prevention efforts among children and young adults (57).
+A striking finding in this paper is the substantially greater cancer burden among women age 20‒49 years compared with men of the same age, which is largely attributable to breast and thyroid cancers and melanoma of the skin. The following discussion highlights selected high, burden cancers among younger adults.
+The findings in this report highlight the prominence of female breast cancer among the cancers affecting men and women age 20–49 years. Prior studies have described patterns of breast cancer incidence among younger women by stage, tumor characteristics, age, race, and ethnicity (58,59). Opportunities for primary prevention of breast cancer in younger and premenopausal women are limited. Reproductive factors associated with premenopausal breast cancer include age at menarche, age at first birth, and parity (60). Unlike postmenopausal women, premenopausal women who are overweight or have obesity have a decreased risk of breast cancer (61). In contrast, physical activity has a stronger protective effect among premenopausal than among postmenopausal women (62). Alcohol consumption is a risk factor for breast cancer among women of all ages, and specifically for younger women (63,64).
+Opportunities for secondary prevention of breast cancer in women younger than age 50 years include identification of individuals at high risk who may be recommended to undergo earlier and more intensive screening, be referred for BRCA testing, and/or offered risk-reducing medications (65–69). Among the unique concerns for young women with breast cancer are treatment-related ovarian failure and infertility; counseling for fertility preservation may be offered to women who wish to bear children (70).
+Racial differences in breast cancer incidence, death, and survival among women age 20‒49 years have been explored previously (59). Among women age 20‒49 years, black women are more likely to be diagnosed with regional and distant-stage disease, higher-grade tumors, and more aggressive molecular subtypes of breast cancer compared with women of other racial and ethnic groups (59). Differences in breast cancer survival by molecular subtype likely play a role in the lower survival rates among black women (71). Although reasons for differences in molecular subtype between white and black women are not fully understood, equitable access to care may allow young women to receive the potential benefits of risk assessment and risk reduction, investigation of symptoms, and timely and high-quality treatment. Prior studies have reported that the incidence of distant-stage breast cancer has been increasing among women age 20‒29 and 30‒39 years (25,72). However, a recent analysis of early-onset (age 20‒39 years) metastatic breast cancer in 42 registry areas during the years 2001‒2015 found that, after accounting for trends in unknown stage, the increase was statistically significant only for non-Hispanic black women (73).
+Colorectal cancer is the second leading incident cancer and cancer cause of death among men and women age 20‒49 years. Several studies have reported increasing incidence and death rates from colorectal cancer among younger adults (47,74,75). A recent birth cohort analysis found that risks of colorectal cancer decreased for people born from about 1890 to those born in 1950, but continuously increased for those born from 1950 to 1990, rising back to the level of those born about 1890 for current birth cohorts (47). The authors attributed the increased risk in recent birth cohorts to changes in exposures, including increasing prevalence of overweight and obesity and low levels of physical activity and, to some extent, increasing use of colonoscopy for screening and diagnosis among individuals younger than age 50 years. The most recent revision of ACS guidelines for colorectal cancer screening recommend that screening begin at age 45 years for average-risk individuals (76).
+Testicular cancer is the second leading cancer among men aged 20–49 years, and the incidence is rising. This cancer shows wide variability in incidence rates by race, with higher incidence among white (12.5) and AI/AN (10.5) men and the lowest incidence among black (2.8) and API (3.6) men, as has been noted in previous studies (77). Primary prevention approaches do not exist for well-known testicular cancer risk factors, which include a family history of testicular cancer, reduced fertility, cryptorchidism, hypospadias, a personal history of testicular cancer, and adult height (78). With the introduction of effective cisplatin-based therapies in the 1970s, testicular cancer is highly curable, with a 10-year relative survival approaching 95% (79). Long-term survivors are at increased risk of numerous adverse health effects, however, related to toxicities associated with cisplatin-based chemotherapy and radiation therapy (79).
+The burden of nonmalignant brain and CNS tumors is substantial among adults age 20‒49 years, particularly in women. Incidence rates for meningiomas and benign pituitary tumors (pituitary adenomas) are substantially higher in young women than in men, whereas rates of nerve sheath tumors are similar. The peak in female-to-male ratio for meningiomas during the reproductive years (80) is likely influenced by sex hormones, because progesterone and estrogen receptors are expressed in meningiomas to varying degrees (81). Known risk factors for meningioma include obesity, ionizing radiation exposure, and family history (80); the etiology of other nonmalignant brain tumors is less well understood. The elevated incidence of pituitary adenomas among younger women compared with men may be related, at least in part, to a higher incidence of prolactinomas, a subtype of pituitary adenoma that predominantly affects premenopausal women (82). The symptoms of nonmalignant brain and CNS tumors can be severe and may persist after treatment (83–86). Increasing incidence trends for nonmalignant CNS tumors during the years 2011 to 2015 should be interpreted with caution and may reflect, at least in part, improving timeliness and completeness of case collection and increasing the use of diagnostic imaging rather than true increases in incidence.
+Strengths and Limitations
+The major strength of this study is the high population coverage of cancer incidence data for the United States and Puerto Rico (97.4% for incidence rates from 2011 to 2015 and 87.5% for incidence trends from 1999 to 2015). Many of the limitations in this study, including potential lack of representativeness of cancer incidence data to the US population, have been described in annual reports (13,16,18–20). Several limitations pertain specifically to the special feature of this report. First, we report on in situ breast and nonmalignant brain among adults aged 20‒49 years, but not other noninvasive cancers, because rates for other in situ and nonmalignant cancers are lower and may be inconsistently reported (25,87). Second, the relatively broad age range of 20–49 years used in this study limits the focus on some cancers that are particularly important in adolescents and young adults, for whom a unique classification system has been developed by SEER (88). Our choice to focus on age 20‒49 years was motivated in part by interest in examining trends among younger adults as predictors of future cancer burden for major adult cancers; for example, increasing rates of colorectal cancer among individuals born after 1950 may portend increasing risks in the population as these birth cohorts age. To partially address the second limitation, we have included overall cancer incidence rates and trends for adolescents age 15‒19 years in Supplementary Table 3 (available online) and report rates and trends by decade of age in analyses of cancer incidence and mortality among adults age 20‒49 years.
+Future Directions
+In the 20 years since the first Annual Report to the Nation was published (1), population coverage for cancer incidence based on the most recent 5 years of data—using registries certified as high quality by NAACCR—has expanded from 9.5% to 97.4% of the US population and, for the first time, includes incidence data for a US territory (Puerto Rico). Not only has population coverage increased, but all high-quality state and territorial cancer registries now provide stage-specific incidence rates, and 42 registries met NAACCR criteria for reporting survival data for tumors diagnosed between 2008 and 2014. In parallel with the evolution of cancer staging, refinements in histological classification and identification of prognostic and predictive factors have greatly increased the volume and complexity of information that registries collect, and this trend will continue with growth in precision medicine and genomic characterization of tumors (89), posing a great challenge to cancer registry resources. Acceleration in methods to standardize electronic medical records and laboratory and pathology reports, as well as efforts to import standardized information into registry records, may enhance capacity to meet this challenge (90–93).
+Much of the variability by sex in cancer incidence and death rates for cancers that occur in men and women alike may be attributable to differential exposures, but some variability may be related to differences in susceptibility. Understanding potential differences in cancer susceptibility may shed light on mechanisms of disease and potentially define subgroups at highest risk, enabling primary and secondary prevention (51).
+Statistics provided in this report are consistent with previously reported, ongoing challenges to equitable access to cancer prevention, early detection, and treatment services (94). Although cancer inequities may result from social, economic, and environmental inequities outside the scope of the health−care system, equitable access to care is fundamental to efforts to reduce disparities (95,96). Finally, primary prevention in children, adolescents, and younger adults is crucial for addressing the future burden of cancer (97).
+For all cancer sites combined, cancer incidence rates decreased among men but were stable among women. Death rates continued to decline among men as well as and women of all ages. Differences in rates and trends by race and ethnic group remain, with blacks generally having worse outcomes than other groups. Several cancers that occur among young adults are associated with substantial long-term and late effects related to the disease or its treatment. Access to timely fertility-preservation services and high-quality survivorship care may improve quality of life and health outcomes for young adults diagnosed with cancer (98,99).
+Funding
+This work was supported by the ACS, CDC, NCI at the National Institutes of Health, and NAACCR.
+Notes
+Affiliations of authors: Consultant to North American Association of Central Cancer Registries, Springfield, IL (EMW); North American Association of Central Cancer Registries, Springfield, IL (RLS, BAK); Division of Cancer Prevention and Control, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, GA (SJH, DAS, VB); Surveillance and Health Services Research, American Cancer Society, Atlanta, GA (AJ, JM); Division of Cancer Control and Population Sciences, National Cancer Institute, National Institutes of Health, Bethesda, MD (EJF, SS, KAC); Information Management Services, Inc, Rockville, MD (AUF); National Center for Health Statistics, Centers for Disease Control and Prevention, Hyattsville, MD (RNA).
+The funders had no role in the design of the study; the collection, analysis, or interpretation of the data; the writing of the manuscript; or the decision to submit the manuscript for publication. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the authors’ agencies (ACS, CDC, NCI, NAACCR). The authors have no conflicts of interest related to this work to disclose.
+We gratefully acknowledge the contributions of the state and regional cancer registry staff for their work in collecting the data used in this report. In addition, we thank Daniel Miller, Don Green, and Steve Scoppa of Information Management Services, Inc, for their assistance in compiling the data used in this report.
+Supplementary Material
+djz106_Supplementary_Data
+Click here for additional data file.

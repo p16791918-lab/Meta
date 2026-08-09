@@ -1,0 +1,3427 @@
+record_id=4164 pmid=19033571 doi=10.1093/jnci/djn389 pmcid=PMC2639291
+TITLE: Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacco Control
+
+The American Cancer Society, the Centers for Disease Control and Prevention (CDC), the National Cancer Institute (NCI), and the North American Association of Central Cancer Registries (NAACCR) collaborate each year to produce a report to the nation on the current status of the cancer burden in the United States. The first report, in 1998, documented the first sustained decline in cancer death rates since the 1930s (1). Subsequent reports have updated information on trends in incidence and death rates and featured timely, in-depth analyses of selected topics (2–10). The current report provides updated trends in incidence and death rates for all cancers combined and the top 15 cancers among all races combined and in each of the four major racial and ethnic groups (white, black, Hispanic, and Asian and Pacific Islander [API]) by sex; it provides the mortality data for American Indian/Alaska Natives (AI/AN) who reside in counties that are covered by the Indian Health Service (IHS) Contract Health Service Delivery Area (CHSDA). This report also highlights emerging patterns in lung cancer, tobacco use, and tobacco control at the state and regional levels.
+Subjects and Methods
+Cancers, Cancer Deaths, and Population Estimates
+Information on newly diagnosed invasive cancers, including in situ cancers of the bladder, was obtained from population-based cancer registries that participate in the NCI's Surveillance, Epidemiology, and End Results (SEER) Program and/or the CDC's National Program of Cancer Registries (NPCR). All cancer registries are members of NAACCR.
+For incident cancers, site and histology were coded according to the International Classification of Diseases for Oncology (ICD-O) edition in use at the time of diagnosis, converted to the Third Edition coding (11), and categorized according to SEER site groups (12). For cancer deaths, the underlying causes of death were selected according to the version of the International Classification of Diseases (ICD) codes and selection rules in use at the time of death (ICD-6–ICD-10) (13–17). Cause of death is based on the death certificate information reported to state vital statistics offices, which is consolidated through the CDC National Vital Statistics System (18) and categorized according to SEER site groups (12) to maximize comparability among ICD versions. County-level population estimates, which were summed to the state and national level, were used as denominators in the rate calculations (19). Because the 2000 census allowed respondents to identify themselves as multiracial, the CDC National Center for Health Statistics and the Census Bureau developed methods for bridging multiple-race population estimates to single-race estimates to describe long-term trends in disease rates by race (20). The Census Bureau has provided the NCI with bridged, single-race annual population estimates from 1990 through 2005, with annual reestimates calculated back to the most recent decennial census. The NCI makes slight modifications to the Hawaii population estimates based on additional local information (http://seer.cancer.gov/popdata/methods.html). In 2006, the Census Bureau improved its estimating methodologies; this affected the most recent set of population estimates (2000–2006) for some age groups in several states but not the estimate for the total US population (L. Sink, MS, Bureau of Census, personal communication, 2008).
+In general, July 1 population estimates were used to calculate annual incidence and death rates because these estimates are considered to reflect the average population of a defined geographic area for a calendar year. However, the populations of many counties along the Gulf Coast of Louisiana, Alabama, Mississippi, and Texas were displaced in the fall of 2005 by hurricanes Katrina and Rita. For these states, incidence data for the first 6 months of 2005 and half of the July 1 population estimate were used to calculate state-specific incidence rates for 2005. For the 2005 death rate calculations, the NCI made adjustments to the 2005 population estimates to account for the displacement. The national total population estimates are not affected by these adjustments. Further details on these calculations are provided at http://seer.cancer.gov/popdata/methods.html.
+Incidence data are not uniformly available for every period, geographic area, and racial and ethnic group in the United States. Therefore, analyses of long-term (1975–2005) and short-term (1996–2005) trends in incidence rates and of average rates in defined periods (2001–2005) for the top 15 cancer sites pertain to different geographic areas and populations. Data from the nine original SEER areas (Atlanta, Connecticut, Detroit, Hawaii, Iowa, New Mexico, San Francisco–Oakland, Seattle–Puget Sound, and Utah), which cover about 10% of the US population (9% of US white and US black, 8% of US Hispanic, and 19% of US Asian) (21), were used to evaluate the long-term trends in incidence (1975–2005) for all races and ethnicities combined. Data from 29 population-based cancer registries were used to assess short-term trends (1996–2005), and data from 41 population-based cancer registries were used to estimate average annual (2001–2005) age-standardized incidence rates for all races and ethnicities combined and for the four major racial and ethnic populations (white, black, API, and Hispanic). The 29 and 41 registries met NAACCR's data quality criteria for every year that was included in the analysis; they cover about 65% and 80% of the US population, respectively. The 29 cancer registries represent 66% of the US white population, 58% black, 86% Hispanic, and 84% Asian; the 41 cancer registries represent 81% of the US white population, 76% black, 91% Hispanic, and 90% Asian.
+Similarly, mortality data from the National Center for Health Statistics were not available for every racial and ethnic group for all periods studied. For all races and ethnicities combined, we could examine long-term (1975–2005) and short term (1996–2005) trends and 5-year average annual age-standardized rates (2001–2005) for all sites and the top 15 cancer sites. For each of the five major racial and ethnic populations (white, black, API, AI/AN, and Hispanic), we present short-term trends (1996–2005) and 5-year average annual age-standardized rates (2001–2005). However, the mortality data for the AI/AN population were based on counties served by the IHS CHSDA, because estimated rates based on CHSDA counties have been reported to be more reliable (10). Mortality data presented in this report for AI/AN men and women therefore refer to those residing in CHSDA counties. At the time this report was written, linkage of new incident cases with IHS was incomplete and thus these data were not included.
+Lung Cancer, Tobacco Use, and Tobacco Control Measures
+We defined lung cancer as cancers of the lung and bronchus, except in the age-specific lung cancer mortality analysis, which includes data before the late 1950s, when “lung, pleura, bronchus and trachea” were combined in the standard mortality coding system (ICD-6). We present short-term trends (1996–2005) and average annual age-standardized lung cancer incidence and death rates (2001–2005) for men and women of all races and ethnicities combined by state. Corresponding state-specific lung cancer death rates and trends for black and non-Hispanic white men and women are given in Supplementary Table 1 (available online).
+Information on adult cigarette smoking prevalence from 1997 through 2006 by state and region was obtained from the CDC Behavioral Risk Factor Surveillance System (BRFSS) (22). We chose to examine smoking prevalence data beginning in 1997 because of a change on the assessment of smoking status on the BRFSS questionnaire in 1997 (22). Prevalence of cigarette use in the past month among youth aged 12–17 for 2004–2005 was abstracted from the Substance Abuse and Mental Health Services Administration's National Survey on Drug Use and Health (23). Total federal and state tobacco tax and tobacco prevention spending as a percentage of the CDC minimum spending for comprehensive tobacco control program by state were abstracted from Campaign for Tobacco-Free Kids (24). Trends in the initiation of established smoking (using the adult smoking definition of ever smoking 100 cigarettes and now smoking every day or some days) among adolescents aged 12–17 years were based on the NCI and CDC cosponsored series of Tobacco Use Supplements to the Current Population Survey (TUS-CPS) (25), which was updated from data previously published in NCI's Smoking and Tobacco Control Monograph 14 (26).
+Statistical Analysis
+Long-term trends (1975–2005) in age-standardized cancer incidence and death rates were described using joinpoint regression analysis, which involves fitting a series of joined straight lines on a logarithmic scale to the trends in the annual age-standardized rates (27). Beginning with this year's annual report, we allowed a maximum of four rather than three joinpoints in the model because the additional joinpoint allowed better characterization of emerging trends. The method is described in detail elsewhere (27). The resulting trends of varying time periods were described by annual percent change (APC), ie, the slope of the line segment (27). We present long-term incidence trends that were based on both the observed data and data adjusted for reporting delay (which mostly affects recent years) (28). Descriptions of long-term trends in incidence were based on the delay-adjusted data, except when specifically noted.
+For the short-term (1996–2005) trend analyses, the APC was estimated by fitting a weighted least squares linear regression to the natural logarithms of the age-standardized rates using calendar year as the independent variable. In describing both long-term and short-term trends, the terms “increase” or “decrease” were used when the slope (APC) of the trend was statistically significant (P < .05); otherwise, the terms “stable” or “level” were used.
+Trends in 5-year age-specific lung cancer incidence beginning at ages 30–34 for men and women were described using a semilogarithmic scale by year of diagnosis (1975–2005) and averaged over 2 consecutive years to improve stability. The same method was used to describe trends in 5-year age-specific lung cancer deaths by single year of death (1950–2005) and by year of birth (1860–1970). Birth cohort years were calculated by subtracting the age at death (middle of the 5-year age interval) from the calendar year of death (middle of the 5-year calendar period). The last time interval in the birth cohort analyses covered 6 years (2000–2005), but we assumed that the last year improved stability of the 5-year (2000–2004) estimate without affecting the average. Age-specific and age-standardized (2000 US standard population) rates were expressed per 100 000 population and generated using SEER*Stat Software, Version 6.3 (http://www.seer.cancer.gov/seerstat/) (29). Rates (2001–2005) were suppressed when they were based on fewer than 16 observations. Similarly, the APC statistic was suppressed if a rate was based on fewer than 10 cancers in any one of the years within the designated time interval.
+Weighted BRFSS data (by age, sex, and race and ethnicity) for each state were used to generate adult smoking prevalence estimates using SUDAAN statistical software to account for the complex sampling design (30). The APC in smoking prevalence for each state and region from 1997 through 2006 was estimated using linear logistic regression, with the categorical variable (current smokers) as the dependent variable and year as a continuous independent variable (31).
+Results
+Long-Term Incidence Trends for All Races Combined, 1975–2005
+Overall incidence rates for all racial and ethnic populations combined decreased by 0.8% per year from 1999 through 2005 in both sexes combined, by 1.8% per year from 2001 through 2005 in men, and by 0.6% per year from 1998 through 2005 in women (Table 1). Trends during the most recent periods (last joinpoint segments) for the top 15 cancers differed by sex. Among men, rates continued to decrease for lung and bronchus (lung), colon and rectal (colorectal), oral cavity and pharynx (oral cavity), and stomach cancers. For prostate cancer, rates decreased by 4.4% per year in the period 2001–2005 after increasing by 2.1% annually from 1995 through 2001. In contrast, rates increased for cancers of the kidney and renal pelvis (kidney), liver and intrahepatic bile duct (liver), and esophagus and for myeloma, non-Hodgkin lymphoma (NHL), and melanoma of the skin (melanoma). Incidence rates were stable for cancers of urinary bladder (bladder), pancreas, and brain and other nervous system (brain) and for leukemia. Among women, incidence rates decreased during the most recent joinpoint segments for six of the top 15 cancers (breast, colorectum, uterine corpus and uterus not otherwise specified [uterus], ovary, cervix uteri [cervix], and oral cavity and pharynx). Rates increased for the remaining nine of the top 15 cancers (lung, thyroid, pancreas, bladder, kidney, brain, NHL, melanoma, and leukemia).
+Table 1
+SEER cancer incidence rate trends with joinpoint analyses (up to four joinpoints allowed) for 1975–2005 for the top 15 cancers, by sex, for all races*
+Sex/cancer site or type
+Joinpoint analyses (1975–2005)†
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+All sites§
+Both sexes
+1975–1989
+1.2‖
+1989–1992
+2.8
+1992–1995
+−2.2
+1995–2001
+0.4
+2001–2005
+–1.7‖
+Delay adjusted
+1975–1989
+1.2‖
+1989–1992
+2.8‖
+1992–1995
+−2.4
+1995–1999
+0.9
+1999–2005
+–0.8‖
+Males
+1975–1989
+1.3‖
+1989–1992
+5.1‖
+1992–1995
+−4.8‖
+1995–2001
+0.3
+2001–2005
+–2.2‖
+Delay adjusted
+1975–1989
+1.3‖
+1989–1992
+5.2‖
+1992–1995
+−4.8‖
+1995–2001
+0.3
+2001–2005
+–1.8‖
+Females
+1975–1979
+−0.3
+1979–1987
+1.6‖
+1987–1995
+0.1
+1995–1998
+1.5
+1998–2005
+–0.8‖
+Delay adjusted
+1975–1979
+−0.3
+1979–1987
+1.6‖
+1987–1995
+0.1
+1995–1998
+1.4
+1998–2005
+–0.6‖
+Top 15 cancers for    males¶
+Prostate
+1975–1988
+2.6‖
+1988–1992
+16.5‖
+1992–1995
+−11.6‖
+1995–2001
+2.0‖
+2001–2005
+–4.9‖
+Delay adjusted
+1975–1988
+2.6‖
+1988–1992
+16.5‖
+1992–1995
+−11.5‖
+1995–2001
+2.1‖
+2001–2005
+–4.4‖
+Lung and bronchus
+1975–1982
+1.4‖
+1982–1991
+−0.4
+1991–2005
+−1.9‖
+Delay adjusted
+1975–1982
+1.5‖
+1982–1991
+−0.5
+1991–2005
+−1.8‖
+Colon and rectum
+1975–1985
+1.1‖
+1985–1991
+−1.2‖
+1991–1995
+−3.2‖
+1995–1998
+2.0
+1998–2005
+–3.0‖
+Delay adjusted
+1975–1985
+1.1‖
+1985–1991
+1.2‖
+1991–1995
+−3.1‖
+1995–1998
+1.9
+1998–2005
+–2.8‖
+Urinary bladder
+1975–1987
+0.9‖
+1987–2005
+−0.1
+Delay adjusted
+1975–1986
+0.9‖
+1986–2005
+0.0
+Melanoma of the     skin
+1975–1985
+5.4‖
+1985–2000
+3.4‖
+2000–2003
+−0.4
+2003–2005
+6.4
+Delay adjusted
+1975–1985
+5.4‖
+1985–2000
+3.4‖
+2000–2003
+−0.2
+2003–2005
+7.7‖
+Non-Hodgkin     lymphoma
+1975–1991
+4.2‖
+1991–2005
+0.2
+Delay adjusted
+1975–1991
+4.2‖
+1991–2005
+0.4‖
+Kidney and renal     pelvis
+1975–2005
+1.7‖
+Delay adjusted
+1975–2005
+1.8‖
+Leukemia
+1975–2001
+0.0
+2001–2005
+−2.2‖
+Delay adjusted
+1975–2005
+0.1
+Oral cavity and     pharynx
+1975–1983
+−0.2
+1983–2005
+−1.4‖
+Delay adjusted
+1975–2005
+−1.2‖
+Pancreas
+1975–1993
+−0.9‖
+1993–2005
+0.3
+Delay adjusted
+1975–1993
+−0.9‖
+1993–2005
+0.4
+Stomach
+1975–1988
+−1.2‖
+1988–2005
+−2.1‖
+Delay adjusted
+1975–1988
+−1.2‖
+1988–2005
+−2.0‖
+Liver and intrahepatic     bile duct
+1975–1986
+2.1‖
+1986–1996
+4.9‖
+1996–2005
+2.4‖
+Delay adjusted
+1975–2005
+3.6‖
+Esophagus
+1975–2005
+0.7‖
+Delay adjusted
+1975–2005
+0.7‖
+Brain and other     nervous system
+1975–1991
+1.1‖
+1991–2005
+−0.7‖
+Delay adjusted
+1975–1989
+1.2‖
+1989–2005
+−0.4
+Myeloma
+1975–1991
+1.3‖
+1991–2005
+0.0
+Delay adjusted
+1975–2005
+0.8‖
+Top 15 cancers for    females¶
+Breast
+1975–1980
+−0.5
+1980–1987
+4.0‖
+1987–1992
+−0.2
+1994–1999
+1.7‖
+1999–2005
+–2.4‖
+Delay adjusted
+1975–1980
+−0.6
+1980–1987
+4.0‖
+1987–1994
+−0.2
+1994–1999
+1.7‖
+1999–2005
+–2.2‖
+Lung and bronchus
+1975–1982
+5.5‖
+1982–1990
+3.5‖
+1990–1998
+1.0‖
+1998–2005
+–0.2
+Delay adjusted
+1975–1982
+5.6‖
+1982–1991
+3.4‖
+1991–2005
+0.5‖
+Colon and rectum
+1975–1985
+0.3
+1985–1995
+−1.9‖
+1995–1998
+1.9
+1998–2005
+–2.4‖
+Delay adjusted
+1975–1985
+0.3
+1985–1995
+−1.9‖
+1995–1998
+1.9
+1998–2005
+–2.2‖
+Uterine corpus     and uterus NOS
+1975–1979
+−6.0‖
+1979–1988
+−1.7‖
+1988–1997
+0.7‖
+1997–2005
+–0.6‖
+Delay adjusted
+1975–1979
+−6.0‖
+1979–1988
+−1.7‖
+1988–1997
+0.7‖
+1997–2005
+–0.5‖
+Non-Hodgkin     lymphoma
+1975–1990
+2.9‖
+1990–2005
+1.0‖
+Delay adjusted
+1975–1990
+2.8‖
+1990–2005
+1.2‖
+Melanoma of the     skin
+1975–1981
+4.9‖
+1981–2005
+2.3‖
+Delay adjusted
+1975–1981
+5.7‖
+1981–1993
+1.9‖
+1993–2005
+2.9‖
+Thyroid
+1975–1977
+6.6
+1977–1980
+−5.6
+1980–1996
+2.5‖
+1996–2005
+6.4‖
+Delay adjusted
+1975–1977
+6.7
+1977–1980
+−6.0
+1980–1997
+2.7‖
+1997–2005
+6.9‖
+Ovary§
+1975–1985
+0.1
+1985–2001
+−0.7‖
+2001–2005
+−3.0‖
+Delay adjusted§
+1975–1985
+0.1
+1985–2001
+−0.7‖
+2001–2005
+−2.4‖
+Pancreas
+1975–1983
+1.3‖
+1983–2005
+−0.1
+Delay adjusted
+1975–1984
+1.5‖
+1984–1994
+−0.6
+1994–2005
+0.6‖
+Leukemia
+1975–2005
+0.0
+Delay adjusted
+1975–2005
+0.2‖
+Urinary bladder
+1975–2005
+0.1‖
+Delay adjusted
+1975–2005
+0.2‖
+Kidney and renal     pelvis
+1975–2005
+2.2‖
+Delay adjusted
+1975–2005
+2.3‖
+Uterine cervix
+1975–1981
+−4.6‖
+1981–1996
+−1.1‖
+1996–2005
+−3.8‖
+Delay adjusted
+1975–1981
+−4.6‖
+1981–1996
+−1.1‖
+1996–2005
+−3.6‖
+Oral cavity and     pharynx
+1975–1980
+2.6‖
+1980–2005
+−1.0‖
+Delay adjusted
+1975–1980
+2.6
+1980–2005
+−0.9‖
+Brain and other     nervous system
+1975–1990
+1.5‖
+1990–1994
+−2.4
+1994–2005
+0.5
+Delay adjusted
+1975–1990
+1.5‖
+1990–1994
+−2.5
+1994–2005
+0.8‖
+*
+SEER = Surveillance, Epidemiology, and End Results; APC = annual percent change; NOS = not otherwise specified. Source: SEER-9 areas covering about 10% of the US population (Connecticut, Hawaii, Iowa, Utah, and New Mexico, and the metropolitan areas of San Francisco-Oakland, Detroit, Atlanta, and Seattle-Puget Sound). Nonadjusted rates and rates that were adjusted for delays in reporting are shown.
+†
+Joinpoint analyses with up to four joinpoints were based on rates (per 100 000 persons) and were age adjusted to the 2000 US standard population. Joinpoint analysis used the Joinpoint Regression Program, Version 3.2.0. January 2008, National Cancer Institute.
+‡
+APC is based on rates that were age standardized to the 2000 US standard population.
+§
+All sites excludes myelodysplastic syndromes and borderline tumors of the ovary; ovary excludes borderline tumors.
+‖
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+¶
+The top 15 cancers were selected based on the sex-specific age-standardized incidence rates for 2001–2005 for all races combined and listed in rank order.
+Long-Term Mortality Trends for All Races Combined, 1975–2005
+Overall cancer death rates have continued to decrease since the early 1990s in both men and women (Table 2). Death rates decreased by 1.5% per year from 1993 through 2001 and 2.0% per year from 2001 through 2005 in men and by 0.8% per year from 1994 through 2002 and 1.6% per year from 2002 through 2005 in women. Among the top 15 causes of cancer death, death rates decreased for 10 cancer sites during the most recent period (last joinpoint segment) of the long-term trend in both men and women, although the sites were different: colorectum, stomach, kidney, brain, leukemia, NHL, and myeloma in both men and women; lung, prostate, and oral cavity and pharynx in men; and breast, uterine cervix, and bladder in women. Cancers with increasing mortality trends during the most recent period included esophageal cancer in men, pancreatic cancer in women, and liver cancer in both men and women. Death rates stabilized for cancers of the pancreas and bladder and for melanoma in men and for cancers of the lung, ovary, and uterus in women.
+Table 2
+US cancer death rate trends with joinpoint analyses (up to four joinpoints allowed) for 1975–2005 for the top 15 cancers, by sex, for all races*
+Joinpoint analyses (1975–2005)†
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+Sex/cancer site or type
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+Years
+APC‡
+All sites
+Both sexes
+1975–1990
+0.5§
+1990–1993
+−0.3
+1993–2002
+−1.1§
+2002–2005
+−1.8§
+Males
+1975–1979
+1.0§
+1979–1990
+0.3§
+1990–1993
+−0.5
+1993–2001
+−1.5§
+2001–2005
+−2.0§
+Females
+1975–1990
+0.6§
+1990–1994
+−0.2
+1994–2002
+−0.8§
+2002–2005
+−1.6§
+Top 15 cancers for males‖
+Lung and bronchus
+1975–1978
+2.5§
+1978–1984
+1.2§
+1984–1990
+0.4§
+1990–1993
+−1.1
+1993–2005
+−1.9§
+Prostate
+1975–1987
+0.9§
+1987–1991
+3.0§
+1991–1994
+−0.6
+1994–2005
+−4.1§
+Colon and rectum
+1975–1978
+0.8
+1978–1984
+−0.4
+1984–1990
+−1.3§
+1990–2002
+−2.0§
+2002–2005
+−4.3§
+Pancreas
+1975–1986
+−0.8§
+1986–2003
+−0.3§
+2003–2005
+1.3
+Leukemia
+1975–1995
+−0.2§
+1995–2005
+−0.8§
+Non-Hodgkin lymphoma
+1975–1991
+2.7§
+1991–1997
+1.6§
+1997–2005
+−3.0§
+Esophagus
+1975–1985
+0.7§
+1985–1994
+1.2§
+1994–2005
+0.4§
+Urinary bladder
+1975–1983
+−1.4§
+1983–1987
+−2.7§
+1987–1993
+0.1
+1993–2003
+−0.7§
+2003–2005
+1.1
+Liver and intrahepatic    bile duct
+1975–1979
+0.3
+1979–1987
+2.3§
+1987–1996
+3.9§
+1996–1999
+0.4
+1999–2005
+2.6§
+Kidney and renal pelvis
+1975–1992
+1.1§
+1992–2005
+−0.3§
+Stomach
+1975–1994
+−2.1§
+1994–2005
+−3.7§
+Brain and other nervous    system
+1975–1977
+4.3
+1977–1982
+−0.3
+1982–1991
+1.3§
+1991–2005
+−0.9§
+Myeloma
+1975–1994
+1.5§
+1994–2005
+−1.0§
+Oral cavity and pharynx
+1975–1980
+−0.9
+1980–2005
+−2.2§
+Melanoma of the skin
+1975–1990
+2.2§
+1990–2005
+0.1
+Top 15 cancers for   females‖
+Lung and bronchus
+1975–1982
+6.0§
+1982–1990
+4.2§
+1990–1995
+1.7§
+1995–2003
+0.3§
+2003–2005
+−0.9
+Breast
+1975–1990
+0.4§
+1990–1995
+−1.8§
+1995–1998
+−3.3§
+1998–2005
+−1.8§
+Colon and rectum
+1975–1984
+−1.0§
+1984–2002
+−1.8§
+2002–2005
+−4.3§
+Pancreas
+1975–1984
+0.8§
+1984–2005
+0.1§
+Ovary
+1975–1982
+−1.2§
+1982–1992
+0.3§
+1992–1998
+−1.2§
+1998–2002
+0.8
+2002–2005
+−1.5
+Non-Hodgkin lymphoma
+1975–1995
+2.2§
+1995–1998
+−0.3
+1998–2005
+−3.7§
+Leukemia
+1975–1980
+0.8
+1980–2001
+−0.4§
+2001–2005
+−2.2§
+Uterine corpus and    uterus NOS
+1975–1991
+−1.6§
+1991–2005
+−0.1
+Brain and other nervous    system
+1975–1992
+0.9§
+1992–2005
+−1.0§
+Liver and intrahepatic    bile duct
+1975–1978
+−1.5
+1978–1988
+1.4§
+1988–1995
+3.9§
+1995–2001
+0.3
+2001–2005
+2.1§
+Myeloma
+1975–1993
+1.5§
+1993–2001
+−0.4
+2001–2005
+−2.5§
+Stomach
+1975–1987
+−2.8§
+1987–1990
+−0.4
+1990–2005
+−2.7§
+Kidney and renal pelvis
+1975–1992
+1.3§
+1992–2005
+−0.5§
+Uterine cervix
+1975–1982
+−4.4§
+1982–1995
+−1.6§
+1995–2005
+−3.4§
+Urinary bladder
+1975–1986
+−1.7§
+1986–2005
+−0.4§
+*
+APC = annual percent change; NOS = not otherwise specified. Source: National Center for Health Statistics, 2005 Mortality Special Research File.
+†
+Joinpoint analyses with up to four joinpoints were based on rates (per 100 000 persons) and were age standardized to the 2000 US standard population. Joinpoint Regression Program, Version 3.2.0. January 2008, National Cancer Institute.
+‡
+APC is based on rates that were age standardized to the 2000 US standard population.
+§
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+‖
+The top 15 cancers were selected based on the sex-specific age-standardized death rates for 2001–2005 for all races combined and listed in rank order.
+Cancer Incidence Rates, 2001–2005, and Short-Term Trends by Race and Ethnicity, 1996–2005
+Black men had the highest cancer incidence rate for 2001–2005 among all men, and white women had the highest rate among all women (Table 3). The top three cancer sites were the same among all racial and ethnic populations studied, with some variation in rank order. Beyond the top three sites, race-specific rankings varied substantially among racial and ethnic groups.
+Table 3
+Incidence rates for 2001–2005 and short-term trends for 1996–2005 for the top 15 cancers by sex, race, and ethnicity, selected areas in the United States*
+All races/ethnicities
+White‡
+Black‡
+API‡
+Hispanic‡
+Sex/cancer site or type†
+Rank
+Rate§
+APC‖
+Rank
+Rate§
+APC‖
+Rank
+Rate§
+APC‖
+Rank
+Rate§
+APC‖
+Rank
+Rate§
+APC‖
+Males
+All sites¶
+0
+562.3
+−0.8#
+0
+556.9
+−0.8#
+0
+635.6
+−1.6#
+0
+340.1
+−1.4#
+0
+440.1
+−1.0#
+Prostate
+1
+158.3
+−1.1
+1
+149.8
+−1.3
+1
+236.0
+−1.6#
+1
+84.7
+−1.1
+1
+134.9
+−1.2
+Lung and bronchus
+2
+87.3
+−1.9#
+2
+86.9
+−1.7#
+2
+106.8
+−2.9#
+2
+51.9
+−1.7#
+3
+50.9
+−2.4#
+Colon and rectum
+3
+61.2
+−2.1#
+3
+60.6
+−2.2#
+3
+69.4
+−1.0#
+3
+45.5
+−2.2#
+2
+51.5
+−1.0#
+Urinary bladder
+4
+38.4
+−0.2
+4
+40.6
+−0.2
+5
+18.7
+−0.2
+6
+15.3
+0.1
+4
+21.6
+−0.5
+Non-Hodgkin lymphoma
+5
+23.2
+0.0
+6
+23.7
+0.0
+7
+17.2
+−0.6
+7
+15.0
+−0.6
+5
+19.7
+−0.7
+Melanoma of the skin
+6
+22.0
+2.9#
+5
+24.2
+2.9#
+24
+1.1
+−4.0#
+19
+1.5
+1.1
+16
+4.5
+0.9
+Kidney and renal pelvis
+7
+19.1
+2.5#
+7
+19.3
+2.5#
+4
+20.0
+2.9#
+11
+8.7
+1.2
+6
+17.9
+2.6#
+Leukemia
+8
+16.2
+−0.7
+8
+16.6
+−0.7
+12
+12.3
+−1.0#
+10
+8.8
+−1.3
+9
+12.0
+−1.1
+Oral cavity and pharynx
+9
+16.1
+−1.0#
+9
+16.0
+−0.7#
+6
+17.3
+−3.2#
+8
+10.5
+−2.5#
+11
+11.0
+−2.7#
+Pancreas
+10
+13.0
+0.4#
+10
+12.8
+0.5#
+9
+16.0
+−0.5
+9
+9.3
+−0.5
+10
+11.3
+0.0
+Stomach
+11
+10.3
+−2.4#
+11
+9.3
+−2.5#
+8
+17.1
+−3.2#
+5
+18.3
+−2.8#
+8
+15.0
+−2.3#
+Liver and intrahepatic bile duct
+12
+8.8
+3.3#
+14
+7.8
+3.4#
+11
+12.5
+4.1#
+4
+21.5
+−0.4
+7
+15.6
+2.3#
+Esophagus
+13
+8.6
+0.3
+12
+8.5
+1.2#
+14
+11.0
+−5.8#
+13
+4.0
+−3.9#
+15
+5.7
+−1.2#
+Brain and other nervous system
+14
+7.9
+−0.5#
+13
+8.4
+−0.5#
+15
+4.7
+−0.2
+13
+4.0
+−1.8
+14
+6.3
+0.4
+Larynx
+15
+7.3
+−3.2#
+15
+7.0
+−3.0#
+13
+11.4
+−3.4#
+16
+2.7
+−4.5#
+13
+6.4
+−4.0#
+Myeloma
+16
+7.0
+−0.3
+16
+6.5
+−0.4
+10
+13.3
+0.3
+15
+3.6
+−3.5#
+12
+6.6
+−0.1
+Thyroid
+18
+4.6
+5.8#
+18
+4.8
+5.8#
+19
+2.6
+5.2#
+12
+4.2
+3.4#
+17
+3.7
+4.9#
+Females
+All sites¶
+0
+417.3
+−0.4#
+0
+423.4
+−0.4#
+0
+389.9
+−0.5#
+0
+276.3
+−0.5#
+0
+331.7
+−0.5#
+Breast
+1
+123.6
+−1.3#
+1
+125.9
+−1.3#
+1
+111.5
+−0.6#
+1
+81.6
+−0.2
+1
+91.3
+−0.9#
+Lung and bronchus
+2
+55.4
+0.2
+2
+57.0
+0.3#
+3
+51.1
+−0.1
+3
+27.3
+−0.2
+3
+27.2
+−0.2
+Colon and rectum
+3
+44.8
+−1.7#
+3
+44.0
+−1.8#
+2
+52.4
+−1.0#
+2
+33.6
+−1.4#
+2
+36.2
+−1.2#
+Uterine corpus and uterus NOS
+4
+23.8
+−0.2
+4
+24.4
+−0.4
+4
+20.6
+1.1#
+4
+15.2
+1.1#
+4
+19.0
+1.0#
+Non-Hodgkin lymphoma
+5
+16.3
+0.3
+5
+16.8
+0.2
+7
+11.5
+0.7#
+6
+10.7
+0.0
+5
+15.0
+0.1
+Melanoma of the skin
+6
+14.2
+3.4#
+6
+16.0
+3.5#
+28
+1.0
+−0.3
+21
+1.3
+2.3
+17
+4.3
+1.7#
+Thyroid
+7
+13.4
+7.1#
+7
+13.9
+7.2#
+12
+8.2
+7.1#
+5
+13.4
+4.6#
+7
+13.0
+6.2#
+Ovary¶
+8
+13.3
+−1.7#
+8
+13.8
+−1.8#
+8
+10.1
+−0.9
+8
+9.4
+−1.5#
+8
+11.7
+−0.7
+Pancreas
+9
+10.1
+0.6#
+12
+9.8
+0.7#
+5
+13.4
+−0.1
+10
+7.9
+0.3
+10
+9.8
+0.3
+Kidney and renal pelvis
+10
+9.8
+2.8#
+10
+10.0
+2.9#
+8
+10.1
+2.7#
+14
+4.3
+2.6#
+9
+10.0
+2.1#
+Urinary bladder
+10
+9.8
+−0.3
+9
+10.3
+−0.2
+14
+6.9
+−0.8
+15
+4.0
+−0.2
+14
+5.9
+−0.5
+Leukemia
+12
+9.7
+−0.5
+11
+9.9
+−0.5
+13
+7.8
+−1.0
+12
+5.6
+−1.3
+12
+8.3
+−0.5
+Uterine cervix
+13
+8.5
+−3.7#
+13
+8.1
+−3.5#
+6
+11.9
+−5.0#
+11
+7.8
+−5.3#
+6
+13.4
+−4.2#
+Oral cavity and pharynx
+14
+6.1
+−1.2#
+14
+6.1
+−1.1#
+15
+5.6
+−2.3#
+13
+5.3
+−0.7
+18
+4.0
+−2.2#
+Brain and other nervous system
+15
+5.7
+−0.4#
+14
+6.1
+−0.3
+17
+3.6
+−1.0
+16
+3.1
+0.1
+16
+4.8
+−1.2#
+Stomach
+16
+5.0
+−1.3#
+16
+4.3
+−1.4#
+11
+8.8
+−2.0#
+7
+10.2
+−3.3#
+11
+8.8
+−1.2
+Myeloma
+17
+4.6
+−0.6#
+17
+4.1
+−0.8#
+10
+9.5
+−0.7
+17
+2.7
+−2.2#
+15
+4.9
+−0.2
+Liver and intrahepatic bile duct
+18
+3.1
+1.3#
+18
+2.7
+0.9#
+16
+3.8
+2.1#
+9
+8.0
+0.1
+13
+6.0
+0.7
+*
+API = Asian/Pacific Islander; APC = annual percent change; NOS = not otherwise specified; SEER = Surveillance, Epidemiology, and End Results; NPCR = National Program of Cancer Registries; NAACCR = North American Association of Central Cancer Registries. Source: SEER and NPCR areas reported by NAACCR as meeting high-quality data standards for the specified time periods.
+†
+Cancers are sorted in descending order according to sex-specific rates for all races and ethnicities. More than 15 cancers may appear under males and females to include the top 15 cancers in every race and ethnicity group.
+‡
+White, black, and API include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+§
+Rates (per 100 000 persons) were age standardized to the 2000 US standard population. 2001–2005 rates for all races and ethnicities, white, black, API, Hispanic, and non-Hispanic (40 states and District of Columbia): Alabama, Alaska, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Washington, West Virginia, Wyoming. These registries cover about 80% of the US population.
+‖
+APC is based on rates that were age standardized to the 2000 US standard population. 1996–2005 APCs for all races and ethnicities, white, black, API, and Hispanic (28 states and Metropolitan Atlanta): Alaska, California, Colorado, Connecticut, Delaware, Florida, Metropolitan Atlanta, Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Maine, Michigan, Minnesota, Montana, Nebraska, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Texas, Utah, Washington, West Virginia, Wyoming. These registries cover about 65% of the US population.
+¶
+For all sites, myelodysplastic syndromes are included for the rate calculations but not for the APC calculations; they are excluded from cancer-specific analysis. Ovary excludes borderline tumors.
+#
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+Incidence rates for all cancer sites combined decreased from 1996 through 2005 in both men and women in all racial and ethnic populations (Table 3). Among men, lung and colorectal cancer incidence rates decreased for all populations. Prostate cancer incidence rates were stable in white, API, and Hispanic men but decreased in black men. Among women, breast and colorectal cancer incidence rates decreased for all race and ethnic groups, except for breast cancer in API women. Lung cancer incidence rates increased in white women but were stable in the other populations. Kidney and liver cancer incidence rates increased in both men and women of all racial and ethnic groups except for liver cancer in API and Hispanic women and both kidney and liver cancer in API men.
+Cancer Death Rates, 2001–2005, and Short-Term Trends by Race and Ethnicity, 1996–2005
+Death rates for all cancers combined (2001–2005) were highest for blacks and lowest for API men and women (Table 4). Cancers of the lung, prostate, and colorectum were the three leading causes of cancer death in rank order among men for each major racial and ethnic population, except API men, in whom cancer of the liver ranked second. The corresponding leading sites of cancer death in rank order among women were lung, breast, and colorectum, except among Hispanic women in whom breast cancer ranked first. After the top three sites, race-specific rankings varied for both sexes.
+Table 4
+Death rates for 2001–2005 and short-term trends for 1996–2005 for the top 15 cancers by sex, race, and ethnicity in the United States*
+All races/ethnicities
+White‡
+Black‡
+API‡
+AI/AN (CHSDA counties)‡
+Hispanic‡,§
+Sex/cancer site or type†
+Rank
+Rate‖
+APC¶
+Rank
+Rate‖
+APC¶
+Rank
+Rate‖
+APC¶
+Rank
+Rate‖
+APC¶
+Rank
+Rate‖
+APC¶
+Rank
+Rate‖
+APC¶
+Males
+All sites
+234.4
+−1.7#
+230.7
+−1.5#
+313.1
+−2.5#
+138.8
+−2.0#
+190.0
+−0.7
+159.1
+−1.9#
+Lung and bronchus
+1
+72.0
+−2.0#
+1
+71.3
+−1.8#
+1
+93.1
+−2.8#
+1
+37.5
+−1.6#
+1
+50.2
+−2.3#
+1
+35.0
+−2.5#
+Prostate
+2
+26.7
+−4.1#
+2
+24.6
+−4.0#
+2
+59.4
+−4.0#
+4
+11.0
+−4.1#
+2
+21.1
+−1.9
+2
+20.6
+−3.5#
+Colon and rectum
+3
+22.7
+−2.6#
+3
+22.1
+−2.7#
+3
+31.8
+−1.6#
+3
+14.4
+−2.1#
+3
+20.5
+−1.0
+3
+16.5
+−2.0#
+Pancreas
+4
+12.2
+0.1
+4
+12.1
+0.2#
+4
+15.4
+−0.9#
+6
+8.0
+−0.4
+7
+8.6
+3.3
+5
+9.2
+0.3
+Leukemia
+5
+9.9
+−0.8#
+5
+10.2
+−0.7#
+8
+8.5
+−1.8#
+8
+5.1
+−0.6
+10
+5.7
+1.0
+8
+6.3
+−1.1
+Non-Hodgkin lymphoma
+6
+9.3
+−2.7#
+6
+9.7
+−2.6#
+11
+6.4
+−3.7#
+7
+5.6
+−3.7#
+9
+5.8
+−2.1
+7
+6.7
+−4.3#
+Esophagus
+7
+7.8
+0.5#
+8
+7.8
+1.3#
+7
+9.8
+−4.6#
+10
+3.1
+−3.5
+8
+7.1
+5.3#
+10
+4.2
+−2.1#
+Urinary bladder
+8
+7.5
+−0.3#
+7
+7.9
+−0.2
+13
+5.4
+−1.0
+11
+2.9
+0.0
+13
+2.9
+11
+4.0
+−1.0
+Liver and intrahepatic bile duct
+9
+7.3
+2.1#
+9
+6.7
+2.1#
+6
+10.3
+2.5#
+2
+15.2
+−1.3#
+4
+10.6
+1.4
+4
+11.1
+1.5#
+Kidney and renal pelvis
+10
+6.0
+−0.4
+10
+6.2
+−0.3
+12
+6.1
+−0.5
+13
+2.4
+−4.0#
+6
+9.3
+0.2
+9
+5.3
+0.5
+Stomach
+11
+5.7
+−3.7#
+12
+5.0
+−3.8#
+5
+11.5
+−3.8#
+5
+10.1
+−3.9#
+5
+9.9
+0.1
+6
+8.7
+−2.6#
+Brain and other nervous system
+12
+5.4
+−1.0#
+11
+5.7
+−1.0#
+15
+3.2
+−0.4
+12
+2.6
+2.2
+14
+2.8
+3.1
+13
+3.4
+−0.5
+Myeloma
+13
+4.6
+−1.1#
+14
+4.3
+−0.9#
+9
+8.3
+−2.0#
+14
+1.9
+−2.9#
+11
+4.6
+1.8
+12
+3.6
+−1.8
+Oral cavity and pharynx
+14
+4.0
+−1.9#
+15
+3.8
+−1.7#
+10
+6.7
+−3.0#
+9
+3.3
+−3.0#
+12
+3.8
+14
+2.6
+−4.0#
+Melanoma of the skin
+15
+3.9
+−0.2
+13
+4.4
+−0.1
+24
+0.5
+−0.4
+19
+0.5
+16
+1.5
+17
+0.9
+−3.8#
+Larynx
+16
+2.3
+−2.3#
+16
+2.1
+−2.0#
+14
+4.8
+−3.3#
+16
+0.8
+−3.3
+15
+2.1
+15
+1.9
+−4.1#
+Soft tissue including heart
+17
+1.4
+−2.1#
+18
+1.4
+−1.9#
+16
+1.5
+−3.1#
+15
+0.9
+−2.5
+18
+1.1
+16
+1.0
+−3.2#
+Females
+All sites
+159.9
+−1.0#
+159.2
+−0.9#
+186.8
+−1.2#
+95.9
+−1.1#
+142.0
+−0.2
+105.3
+−1.1#
+Lung and bronchus
+1
+41.0
+0.1
+1
+42.0
+0.2
+1
+39.9
+0.1
+1
+18.5
+−0.7
+1
+33.8
+2.9#
+2
+14.6
+−0.5
+Breast
+2
+25.0
+−2.1#
+2
+24.4
+−2.2#
+2
+33.5
+−1.5#
+2
+12.6
+0.0
+2
+17.1
+1.0
+1
+15.8
+−2.5#
+Colon and rectum
+3
+15.9
+−2.5#
+3
+15.3
+−2.6#
+3
+22.4
+−1.9#
+3
+10.2
+−2.1#
+3
+14.2
+−2.2
+3
+10.9
+−0.9
+Pancreas
+4
+9.3
+0.2#
+5
+9.0
+0.4#
+4
+12.4
+−0.7#
+4
+6.9
+0.5
+5
+7.2
+−1.3
+4
+7.6
+0.7
+Ovary
+5
+8.8
+−0.1
+4
+9.2
+−0.1
+5
+7.5
+−0.1
+7
+4.9
+0.7
+4
+7.5
+0.6
+5
+6.0
+0.4
+Non-Hodgkin lymphoma
+6
+5.9
+−3.2#
+6
+6.2
+−3.3#
+11
+4.2
+−2.3#
+8
+3.8
+−1.4
+8
+4.9
+0.5
+8
+4.6
+−2.8#
+Leukemia
+7
+5.6
+−1.1#
+7
+5.7
+−1.0#
+9
+5.2
+−1.3#
+9
+3.0
+−2.1#
+10
+4.1
+9
+4.0
+−1.5#
+Uterine corpus and uterus NOS
+8
+4.1
+0.1
+8
+3.9
+0.1
+6
+7.1
+0.3
+10
+2.4
+0.4
+13
+3.1
+11
+3.2
+0.0
+Brain and other nervous system
+9
+3.6
+−1.3#
+9
+3.9
+−1.1#
+16
+2.1
+−1.8#
+12
+1.5
+−0.1
+16
+1.4
+14
+2.4
+0.1
+Liver and intrahepatic bile duct
+10
+3.1
+1.1#
+10
+2.9
+1.0#
+12
+3.9
+0.6
+5
+6.6
+0.5
+6
+6.6
+3.2
+6
+5.1
+1.6#
+Myeloma
+11
+3.0
+−1.2#
+12
+2.8
+−1.1#
+7
+6.0
+−1.7#
+13
+1.4
+−1.9
+12
+3.6
+−3.7
+12
+2.6
+−1.7
+Stomach
+12
+2.9
+−2.7#
+13
+2.5
+−2.8#
+8
+5.5
+−3.3#
+6
+5.9
+−4.4#
+7
+5.2
+−3.5
+7
+5.0
+−2.0#
+Kidney and renal pelvis
+13
+2.7
+−0.5#
+11
+2.8
+−0.4
+15
+2.7
+−0.6
+15
+1.2
+−1.2
+9
+4.3
+−0.8
+13
+2.4
+0.8
+Uterine cervix
+14
+2.5
+−3.4#
+14
+2.3
+−3.2#
+10
+4.7
+−4.3#
+11
+2.2
+−5.2#
+11
+3.7
+−2.8
+10
+3.2
+−3.1#
+Urinary bladder
+15
+2.3
+−0.8#
+15
+2.2
+−0.6#
+14
+2.8
+−1.7#
+16
+1.0
+−0.4
+18
+1.2
+15
+1.4
+0.4
+Esophagus
+17
+1.7
+−0.9#
+17
+1.6
+−0.2
+13
+2.8
+−3.9#
+18
+0.8
+−2.0
+15
+1.6
+17
+0.9
+−3.5#
+Oral cavity and pharynx
+18
+1.5
+−2.4#
+18
+1.5
+−2.2#
+17
+1.6
+−4.5#
+14
+1.4
+−0.5
+17
+1.3
+19
+0.8
+−1.9
+Gallbladder
+20
+0.8
+−2.5#
+20
+0.8
+−2.6#
+19
+1.0
+−1.6
+17
+0.8
+−3.5
+14
+2.2
+16
+1.3
+−5.4#
+*
+API = Asian/Pacific Islander; AI/AN = American Indian/Alaska Native; IHS = Indian Health Service; CHSDA = IHS Contract Health Service Delivery Area; APC = annual percent change; NOS = not otherwise specified. Source: National Center for Health Statistics, 2005 Mortality Special Research File.
+†
+Cancers are sorted in descending order according to sex-specific rates for all races and ethnicities. More than 15 cancers may appear under males and females to include the top 15 cancers in every race and ethnicity group.
+‡
+White, black, API, and AI/AN (CHSDA counties) populations include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+§
+Data for Hispanic exclude Maine, Minnesota, New Hampshire, North Dakota, and Oklahoma.
+‖
+Rates (per 100 000 persons) were age standardized to the 2000 US standard population.
+¶
+APC is based on rates that were age standardized to the 2000 US standard population.
+#
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+**
+Statistic could not be calculated. The annual percent change is based on fewer than 10 cancer cases for at least 1 y within the time interval.
+From 1996 through 2005, death rates for all cancers combined decreased for all racial and ethnic populations and in both men and women, except the rates for AI/AN men and women, which were stable. Similarly, death rates for cancers of the lung, prostate, and colorectum in men decreased for all racial and ethnic populations, except prostate and colorectal cancer in AI/AN men. Breast cancer death rates decreased in white, black, and Hispanic women but were stable in API and AI/AN women. Colorectal cancer death rates decreased for white, black, and API women but not for Hispanic and AI/AN women. Lung cancer death rates were stable in all populations, except AI/AN, in whom they increased. Liver cancer death rates increased in white and Hispanic men and women and in black men but decreased for API men and remained stable for the other race and ethnicity and sex groups. Esophageal cancer death rates increased for white and AI/AN men but decreased for black and Hispanic men and women. Death rates for pancreatic cancer increased in white men and women but decreased in black men and women. Cervical cancer death rates decreased for women of all races except AI/AN.
+Trends in Lung Cancer, Tobacco Use, and Tobacco Control
+We present the trends in age-standardized lung cancer incidence and death rates for men and women of all races combined from 1975 through 2005 (Figure 1). Data from the SEER-9 areas are shown separately to illustrate that lung cancer incidence rates in these registries are substantially lower than US incidence rates, especially in men. Furthermore, the lung cancer mortality rates reached a plateau earlier in the SEER-9 registries than nationally in both men and women, especially in men. In the SEER-9 registries, the trends in lung cancer incidence are remarkably similar to those for mortality.
+Figure 1
+Trends in age-standardized lung cancer incidence and death rates by sex, United States, 1975–2005. Solid lines represent fitted values based on joinpoint analyses. Squares represent observed rates. SEER-9 incidence data for 1975–2005 are from the Surveillance, Epidemiology, and Ends Results (SEER)-9 areas and or cover 10% of the US population. US incidence data from 1996 to 2005 are from 29 SEER and or National Program of Cancer Registries areas reported by the North American Association of Central Cancer Registries as meeting high-quality data standards and cover about 65% of the US population. SEER-9 incidence data are adjusted for delays in reporting, but US incidence data are not. US and SEER-9 mortality data for 1975–2005 are from the National Center for Health Statistics, 2005 Mortality Special Research File.
+Temporal trends in age-specific lung cancer incidence rates beginning at ages 30–34 in SEER areas are shown by sex (Figure 2). Among men, incidence rates generally decreased in all age groups since 1990, with the decrease beginning earlier at younger ages. In contrast, among women the incidence rates continued to increase in the three oldest age groups (75–79, 80–84, ≥85 years), and the decreases at younger ages were smaller and less constant compared with those in men aged 50–69 years. The seemingly erratic patterns in the rates for women between ages 30 and 49 years reflect birth cohort patterns of smoking initiation as discussed below. The age-specific mortality patterns (Figure 3) are generally similar to the incidence patterns but show the rise in lung cancer death rates over a broader period, from 1950 through 1975.
+Figure 2
+Trends in age-specific lung cancer incidence rates by year of diagnosis and sex, United States, 1975–2005. Data are from Surveillance, Epidemiology, and Ends Results (SEER)-9 areas, and data points are based on 2-y average rates with the exception of the last point, which averages 3-y rates (1975–1976, 1977–1978, …, 2001–2002, 2003–2005). The SEER-9 areas cover about 10% of the US population.
+Figure 3
+Trends in age-specific lung cancer death rates by year of death and sex, United States, 1950–2005. Rates include cancers of the lung, bronchus, pleura, and trachea. Data are from the National Center for Health Statistics, 2005 Mortality Special Research File.
+Age-specific lung cancer death rates have been decreasing in all age groups among men born after 1925 (Figure 4). Among women, the death rates have not yet leveled off in the oldest age groups (75 years and older), and the decrease below age 50 years has been interrupted among those born between 1950 and 1960. The relationship of this interruption to patterns of smoking initiation among women who passed through adolescence during the late 1960s and 1970s is discussed below.
+Figure 4
+Trends in age-specific lung cancer death rates by year of birth and sex, United States, 1865–1970. Rates include cancers of the lung, bronchus, pleura, and trachea. The points vertically above each cohort year portray the cohort's age-specific mortality experience. Data are from the National Center for Health Statistics, 2005 Mortality Special Research File.
+State-specific lung cancer incidence and mortality rates and trends for all racial and ethnic groups combined are shown in Table 5. Incidence rates (per 100 000) for 2001–2005 ranged from 39.6 in Utah to 136.2 in Kentucky among men and from 22.4 in Utah to 76.2 in Kentucky among women. Lung cancer incidence rates in men decreased from 1996 through 2005 in all but four (Nebraska, Hawaii, Idaho, and Utah) of the 28 states in which incidence trends could be measured. In contrast, lung cancer incidence rate in women decreased over this time in only one state (California) and increased in eight states (Pennsylvania, Illinois, Iowa, Michigan, Minnesota, Nebraska, Kentucky, and Idaho).
+Table 5
+Age-standardized lung cancer incidence and death rates and trends by sex and state*
+Incidence
+Mortality
+Male
+Female
+Male
+Female
+Rate†
+APC‡
+Rate†
+APC‡
+Rate†
+APC‡
+Rate†
+APC‡
+Region/state
+2001–2005
+1996–2005
+Rank§
+2001–2005
+1996–2005
+Rank§
+2001–2005
+1996–2005
+Rank§
+2001–2005
+1996–2005
+Rank§
+Northeast
+85.0
+−1.7‖
+56.5
+0.4‖
+66.5
+−2.3‖
+40.2
+−0.1
+Connecticut
+82.5
+−1.7‖
+24
+58.8
+0.5
+18
+62.0
+−1.7‖
+40
+40.2
+−0.2
+31
+Maine
+99.8
+−0.8‖
+11
+65.7
+0.4
+5
+79.5
+−1.0‖
+16
+48.4
+0.2
+5
+Massachusetts
+86.0
+21
+63.0
+7
+67.3
+−2.1‖
+31
+44.5
+0.2
+17
+New Hampshire
+82.3
+26
+61.5
+11
+67.4
+−1.8‖
+30
+44.8
+−0.3
+15
+New Jersey
+80.9
+−2.7‖
+27
+56.0
+0.0
+22
+64.8
+−2.9‖
+37
+40.4
+−0.7‖
+30
+New York
+80.5
+−1.8‖
+28
+53.7
+0.1
+24
+61.0
+−2.5‖
+41
+37.6
+−0.3
+39
+Pennsylvania
+91.6
+−1.2‖
+16
+55.7
+1.2‖
+23
+73.7
+−1.8‖
+22
+40.5
+0.4
+29
+Rhode Island
+94.5
+−2.4‖
+13
+59.5
+−0.8
+16
+72.8
+−3.4‖
+24
+42.7
+−1.0
+22
+Vermont
+64.6
+−3.7‖
+38
+39.2
+0.0
+34
+Midwest
+93.1
+−1.3‖
+57.6
+1.1‖
+75.6
+−1.5‖
+42.6
+0.6‖
+Illinois
+93.1
+−1.6‖
+15
+57.8
+0.8‖
+21
+74.3
+−2.0‖
+20
+41.9
+0.3
+24
+Indiana
+105.3
+8
+62.2
+9
+87.2
+−1.5‖
+10
+47.4
+0.9‖
+6
+Iowa
+89.3
+−1.4‖
+19
+52.4
+1.4‖
+27
+72.6
+−0.8‖
+26
+38.4
+1.4‖
+37
+Kansas
+73.7
+−1.3‖
+21
+41.5
+1.7‖
+27
+Michigan
+94.3
+−1.3‖
+14
+61.3
+1.0‖
+12
+74.5
+−1.6‖
+19
+44.1
+0.4‖
+20
+Minnesota
+71.4
+−0.5‖
+34
+49.2
+1.8‖
+30
+59.5
+−1.4‖
+43
+37.3
+0.8
+40
+Missouri
+105.4
+7
+61.8
+10
+87.2
+−1.0‖
+11
+46.0
+0.5
+12
+Nebraska
+84.5
+−0.9
+22
+48.8
+1.5‖
+31
+66.9
+−1.7‖
+33
+36.2
+1.1
+43
+North Dakota
+74.9
+33
+47.1
+34
+60.5
+−1.0
+42
+34.1
+1.6
+47
+Ohio
+82.4
+−1.4‖
+14
+45.2
+0.3
+14
+South Dakota
+80.3
+30
+45.0
+38
+67.6
+−1.7
+29
+35.9
+2.7‖
+45
+Wisconsin
+64.3
+−1.1‖
+39
+38.4
+0.9
+36
+South
+99.9
+−1.7‖
+57.8
+0.4‖
+82.1
+−1.9‖
+42.7
+0.3‖
+Alabama
+109.5
+5
+52.5
+26
+94.8
+−1.1‖
+6
+41.6
+1.5‖
+26
+Arkansas
+113.4
+3
+59.0
+17
+99.0
+−1.3‖
+4
+47.1
+1.9‖
+7
+Delaware
+97.8
+−1.9‖
+12
+66.2
+1.7
+4
+80.5
+−1.7‖
+15
+48.7
+0.1
+4
+District of Columbia
+87.8
+20
+46.7
+36
+76.3
+−2.6‖
+18
+36.1
+−2.2
+44
+Florida
+91.4
+−1.7‖
+17
+60.8
+−0.1
+13
+69.8
+−2.0‖
+27
+41.7
+−0.3
+25
+Georgia
+104.1
+9
+53.4
+25
+86.0
+−1.9‖
+12
+39.8
+0.5
+33
+Kentucky
+136.2
+−1.0‖
+1
+76.2
+1.7‖
+1
+111.5
+−0.9
+1
+55.9
+1.2‖
+1
+Louisiana
+111.3
+−1.6‖
+4
+58.2
+0.7
+19
+95.9
+−1.5‖
+5
+46.3
+0.7‖
+10
+Maryland
+73.1
+−2.7‖
+23
+44.1
+−0.5
+19
+Mississippi
+101.3
+−1.7‖
+2
+43.2
+1.3‖
+21
+North Carolina
+85.1
+−2.3‖
+13
+41.3
+1.3‖
+28
+Oklahoma
+107.4
+6
+63.8
+6
+87.6
+−1.8‖
+9
+46.1
+0.6
+11
+South Carolina
+103.8
+10
+52.3
+28
+88.9
+−1.1‖
+8
+40.1
+1.0‖
+32
+Tennessee
+99.9
+−1.3‖
+3
+46.7
+1.8‖
+9
+Texas
+90.4
+−1.9‖
+18
+51.2
+0.1
+29
+72.7
+−2.6‖
+25
+38.5
+−0.7‖
+35
+Virginia
+76.8
+−2.3‖
+17
+42.5
+0.3
+23
+West Virginia
+117.0
+−1.5‖
+2
+69.4
+0.2
+3
+92.8
+−1.9‖
+7
+50.6
+−0.2
+3
+West
+69.0
+−2.4‖
+49.4
+−0.7‖
+56.4
+−2.4‖
+37.4
+−0.7‖
+Alaska
+82.4
+−2.8‖
+25
+62.8
+−0.2
+8
+67.1
+−1.8
+32
+44.2
+−0.7
+18
+Arizona
+57.2
+−2.2‖
+45
+36.9
+−0.4
+41
+California
+67.0
+−2.7‖
+37
+47.5
+−1.4‖
+32
+54.8
+−2.8‖
+47
+36.3
+−1.4‖
+42
+Colorado
+63.0
+−2.5‖
+38
+46.0
+0.7
+37
+51.0
+−2.2‖
+48
+33.6
+0.8
+48
+Hawaii
+67.8
+−1.0
+36
+38.9
+0.8
+39
+49.8
+−1.3
+49
+26.2
+−0.4
+50
+Idaho
+69.6
+−0.3
+35
+46.7
+1.5‖
+35
+55.9
+−1.8‖
+46
+34.9
+1.0
+46
+Montana
+78.2
+−2.2‖
+32
+57.9
+0.5
+20
+64.9
+−1.9
+36
+44.6
+1.2
+16
+Nevada
+84.3
+23
+69.5
+2
+68.3
+−2.8‖
+28
+51.9
+−0.5
+2
+New Mexico
+59.1
+−1.5‖
+40
+38.5
+0.8
+40
+48.8
+−1.7‖
+50
+29.7
+−0.4
+49
+Oregon
+79.9
+−1.8‖
+31
+60.4
+0.1
+14
+66.5
+−2.2‖
+34
+46.7
+0.2
+8
+Utah
+39.6
+−1.1
+41
+22.4
+−0.6
+41
+33.7
+−0.9
+51
+16.9
+−0.6
+51
+Washington
+80.5
+−2.0‖
+29
+60.0
+−0.1
+15
+65.2
+−1.9‖
+35
+45.2
+−0.2
+13
+Wyoming
+62.6
+−3.6‖
+39
+47.2
+0.3
+33
+58.8
+−1.8‖
+44
+38.0
+0.7
+38
+Total United States
+87.3
+−1.9‖
+55.4
+0.2‖
+72.0
+−2.0‖
+41.0
+0.1
+*
+APC = annual percent change; SEER = Surveillance, Epidemiology, and End Results; NPCR = National Program of Cancer Registries; NAACCR = North American Association of Central Cancer Registries. Source: Incidence data are from SEER and NPCR areas reported by NAACCR. Missing data indicate that one or more years of the specified time period did not meet the high-quality data standards designated by NAACCR. Mortality data are from the National Center for Health Statistics, 2005 Mortality Special Research File. Regional estimates for incidence were based on aggregated data from states that met the high-quality data standards designated by NAACCR for the specified period and for mortality they were based on aggregated data from all states in each region.
+†
+Rates (per 100 000 persons) are age standardized to the 2000 US standard population. Incidence rates are available for 40 states and the District of Columbia covering about 80% of the US population.
+‡
+APC is based on age-standardized rates from 1996 to 2005. APCs for incidence rates are available for 28 states covering about 65% of the US population.
+§
+Rank is based on the 2001–2005 rate.
+‖
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+Similar to the incidence rates, mortality rates (per 100 000) for 2001–2005 ranged from 33.7 in Utah to 111.5 in Kentucky for men and from 16.9 in Utah to 55.9 in Kentucky for women (Table 5). Among men, the lung cancer death rate decreased during the years 1996–2005 in 43 of the 50 states and in the District of Columbia, whereas in women, the death rate decreased in only three states (California, New Jersey, and Texas) and increased in 13 states (Alabama, Arkansas, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Kansas, South Dakota, Indiana, Michigan, and Iowa). Further analyses examined these mortality trends separately in non-Hispanic whites and blacks (Supplementary Table 1, available online). Only in California and in the District of Columbia did the death rates decrease from 1996 through 2005 among non-Hispanic white women.
+The long-term (1975–2005) trends in lung cancer death rates for all races and ethnicities combined for three states representing the highest (Kentucky) or lowest (Utah) rates or greatest changes (California), as well as the US average, are shown in Figure 5. Among men, the decrease in the lung cancer death rate began first and has been largest in California, where the male death rate is approaching that in Utah. The death rate among men has also decreased since the early 1990s in Kentucky, although the trend from 1996 through 2005 was not statistically significant (Table 5). However, for women, the lung cancer death rate continued to rise in Kentucky, while it decreased statistically significantly in California. The death rates in Utah were consistently low.
+Figure 5
+Trends in age-standardized lung cancer death rate for the US and selected states by sex, 1975–2005. Solid lines represent fitted values based on joinpoint analyses. Squares represent observed rates. Data are from the National Center for Health Statistics, 2005 Mortality Special Research File.
+A wide variation in adult and youth smoking prevalence and in indices of tobacco control was observed among the 50 states and the District of Columbia (Table 6). Similar to the lung cancer incidence and death rates, current smoking prevalence in adults (18 years and older) in 2006 was lowest in Utah and highest in Kentucky in both men and women. The prevalence of current smoking in Utah and Kentucky was 10.4% (95% confidence interval [CI] = 8.7% to 12.3%) and 29.1% (95% CI = 26.2% to 32.1%), respectively, in men and 9.3% (95% CI = 7.9% to 10.8%) and 28.0% (95% CI = 26.0% to 30.1%), respectively, in women. From 1997 through 2006, adult smoking prevalence decreased in 29 states in men and 30 states in women. States with the largest annual decrease in both sexes include Connecticut, California, Nevada, Utah, and Washington. Smoking prevalence remained stable in the remaining 21 states in men and 20 states in women, except in Mississippi where it increased at the rate of 1.0% per year among women. Corresponding state-specific smoking data for non-Hispanic whites are shown in Supplementary Table 2 (available online). The prevalence of cigarette use in the last month among youth aged 12–17 years in 2004–2005 ranged from 7.1% (95% CI = 5.7% to 8.9%) in the District of Columbia to 17.2% (95% CI = 14.6% to 20.1%) in Kentucky (Table 6).
+Table 6
+Adult and youth smoking prevalence and indices of tobacco control for all races combined by state
+Current smoking prevalence—adult (≥18 y)*
+Cigarette use in past month among youth aged 12–17 y, both sexes, 2004–2005‡
+Total federal plus state tobacco tax§, ($) 2007
+Tobacco prevention spending, % of CDC minimum‖
+Male
+Female
+1997
+2006
+1997
+2006
+Region/state
+% (95% CI)
+% (95% CI)
+APC†
+% (95% CI)
+% (95% CI)
+APC†
+% (95% CI)
+Northeast
+24.4 (23.1 to 25.7)
+20.1 (19.1 to 21.2)
+−2.0¶
+21.2 (20.2 to 22.2)
+17.8 (17.1 to 18.5)
+−2.0¶
+Connecticut
+21.3 (18.3 to 24.6)
+18.9 (17.1 to 20.9)
+−3.0¶
+21.9 (19.3 to 24.7)
+15.2 (14.0 to 16.6)
+−5.0¶
+12.9 (10.8 to 15.5)
+2.71
+0.0
+Maine
+25.2 (22.0 to 28.6)
+22.0 (19.5 to 24.7)
+−2.0
+20.4 (17.7 to 23.3)
+19.9 (18.0 to 22.0)
+−1.0
+15.2 (12.8 to 18.0)
+2.66
+151.2
+Massachusetts
+21.8 (18.4 to 25.7)
+19.3 (17.5 to 21.3)
+−2.0¶
+19.3 (16.8 to 22.0)
+16.4 (15.1 to 17.8)
+−2.0¶
+10.6 (8.7 to 12.9)
+2.16
+36.2
+New Hampshire
+25.9 (22.1 to 30.2)
+19.3 (17.3 to 21.5)
+−3.0¶
+23.6 (20.7 to 26.7)
+18.1 (16.6 to 19.8)
+−3.0¶
+11.0 (9.0 to 13.3)
+1.47
+12.3
+New Jersey
+23.4 (20.5 to 26.6)
+20.7 (19.0 to 22.5)
+−2.0¶
+19.5 (17.3 to 21.9)
+15.6 (14.5 to 16.7)
+−2.0¶
+11.2 (9.2 to 13.5)
+3.33
+24.4
+New York
+24.9 (22.4 to 27.6)
+18.9 (16.8 to 21.2)
+−3.0¶
+21.5 (19.6 to 23.6)
+17.6 (16.0 to 19.3)
+−3.0¶
+10.7 (9.6 to 12.0)
+2.11
+89.2
+Pennsylvania
+26.2 (23.6 to 28.9)
+22.3 (20.0 to 24.9)
+−1.0
+22.4 (20.5 to 24.5)
+20.7 (19.1 to 22.4)
+−1.0
+13.1 (11.9 to 14.4)
+2.01
+48.3
+Rhode Island
+25.5 (22.1 to 29.3)
+19.5 (16.9 to 22.4)
+−3.0¶
+23.2 (20.2 to 26.5)
+18.9 (16.9 to 21.1)
+−2.0¶
+12.0 (9.9 to 14.6)
+3.26
+9.5
+Vermont
+25.2 (22.4 to 28.3)
+19.4 (17.6 to 21.3)
+−3.0¶
+21.5 (19.2 to 23.9)
+16.8 (15.4 to 18.3)
+−3.0¶
+13.8 (11.6 to 16.3)
+2.48
+66.0
+Midwest
+27.0 (25.9 to 28.1)
+23.8 (22.8 to 24.8)
+−2.0¶
+22.4 (21.6 to 23.2)
+19.4 (18.7 to 20.1)
+−2.0¶
+Illinois
+25.0 (22.4 to 27.8)
+24.2 (21.6 to 26.7)
+−1.0
+21.6 (19.5 to 23.8)
+17.0 (15.4 to 18.8)
+−3.0¶
+10.6 (9.5 to 11.8)
+1.68
+13.1
+Indiana
+29.2 (26.2 to 32.5)
+26.4 (24.2 to 28.7)
+−1.0
+23.8 (21.2 to 26.5)
+21.9 (20.3 to 23.6)
+0.0
+12.3 (10.2 to 14.7)
+1.63
+46.6
+Iowa
+25.5 (23.2 to 27.9)
+23.1 (20.9 to 25.5)
+−2.0¶
+21.0 (19.1 to 23.1)
+19.9 (18.2 to 21.7)
+−1.0
+12.2 (10.1 to 14.6)
+1.98
+63.5
+Kansas
+26.7 (23.5 to 30.2)
+22.2 (20.3 to 24.2)
+−3.0¶
+18.8 (16.6 to 21.3)
+18.0 (16.7 to 19.3)
+−1.0
+13.5 (11.3 to 16.2)
+1.40
+7.8
+Michigan
+29.6 (26.7 to 32.7)
+24.8 (22.4 to 27.3)
+−3.0¶
+22.8 (20.6 to 25.1)
+20.1 (18.5 to 21.8)
+−2.0¶
+12.2 (11.1 to 13.5)
+2.72
+6.6
+Minnesota
+24.1 (22.2 to 26.1)
+18.5 (16.1 to 21.0)
+−1.0
+19.8 (18.2 to 21.4)
+18.2 (16.4 to 20.2)
+1.0
+12.9 (10.8 to 15.2)
+1.88
+77.2
+Missouri
+31.6 (27.7 to 35.8)
+24.5 (21.5 to 27.7)
+−3.0¶
+26.0 (23.2 to 28.9)
+22.0 (19.9 to 24.3)
+−2.0¶
+15.8 (13.5 to 18.5)
+0.71
+0.6
+Nebraska
+24.3 (21.4 to 27.5)
+19.6 (17.6 to 21.7)
+−2.0¶
+20.1 (17.6 to 23.0)
+17.8 (16.2 to 19.5)
+−1.0
+12.8 (10.5 to 15.3)
+1.24
+18.8
+North Dakota
+24.3 (21.3 to 27.6)
+21.0 (18.5 to 23.7)
+−1.0
+20.3 (17.7 to 23.2)
+18.1 (16.2 to 20.2)
+−2.0¶
+13.8 (11.7 to 16.1)
+1.01
+38.4
+Ohio
+26.3 (23.3 to 29.6)
+24.9 (21.2 to 29.0)
+−2.0¶
+24.0 (21.6 to 26.5)
+20.1 (17.7 to 22.9)
+−2.0
+12.8 (11.6 to 14.2)
+1.90
+72.4
+South Dakota
+28.0 (24.9 to 31.4)
+21.6 (19.3 to 24.0)
+−5.0¶
+20.8 (18.4 to 23.5)
+19.1 (17.5 to 20.9)
+−1.0
+15.5 (13.1 to 18.3)
+2.11
+57.5
+Wisconsin
+25.6 (22.5 to 29.1)
+23.3 (20.8 to 26.0)
+−1.0
+20.9 (18.2 to 23.8)
+18.4 (16.6 to 20.3)
+−3.0¶
+13.0 (10.9 to 15.3)
+2.41
+48.1
+South
+27.4 (26.5 to 28.4)
+23.4 (22.5 to 24.2)
+−2.0¶
+21.2 (20.5 to 21.9)
+19.0 (18.4 to 19.5)
+−1.0¶
+Alabama
+28.6 (25.4 to 32.0)
+26.1 (22.6 to 29.9)
+0.0
+21.2 (18.8 to 23.7)
+20.5 (18.5 to 22.7)
+−1.0
+12.4 (10.3 to 14.9)
+0.95
+2.9
+Arkansas
+32.0 (27.8 to 36.6)
+25.8 (23.5 to 28.3)
+−2.0¶
+25.2 (22.3 to 28.4)
+21.7 (20.0 to 23.4)
+−2.0¶
+13.1 (10.9 to 15.6)
+1.21
+87.1
+Delaware
+29.2 (25.9 to 32.8)
+23.3 (20.4 to 26.6)
+−3.0¶
+24.2 (21.8 to 26.8)
+20.3 (17.8 to 23.0)
+−3.0¶
+12.2 (10.2 to 14.5)
+1.54
+123.8
+District of   Columbia
+22.7 (19.0 to 27.0)
+21.3 (18.5 to 24.4)
+0.0
+15.4 (12.9 to 18.4)
+14.9 (13.2 to 16.8)
+−1.0
+7.1 (5.7 to 8.9)
+1.64
+48.1
+Florida
+26.0 (23.5 to 28.6)
+23.5 (21.5 to 25.7)
+0.0
+21.4 (19.5 to 23.4)
+18.7 (17.3 to 20.1)
+−2.0¶
+10.1 (9.0 to 11.4)
+0.94
+74.0
+Georgia
+25.2 (22.2 to 28.5)
+22.4 (20.2 to 24.7)
+−2.0¶
+19.8 (17.3 to 22.6)
+17.6 (16.2 to 19.1)
+−1.0¶
+10.9 (9.0 to 13.1)
+0.92
+5.3
+Kentucky
+33.0 (30.2 to 36.0)
+29.1 (26.2 to 32.1)
+−2.0¶
+28.7 (26.6 to 30.8)
+28.0 (26.0 to 30.1)
+0.0
+17.2 (14.6 to 20.1)
+0.90
+9.4
+Louisiana
+29.2 (25.3 to 33.4)
+26.7 (24.4 to 29.1)
+−1.0
+20.3 (17.7 to 23.0)
+20.5 (19.1 to 21.9)
+0.0
+10.0 (8.2 to 12.0)
+0.90
+28.3
+Maryland
+21.7 (19.4 to 24.1)
+19.0 (17.0 to 21.1)
+−2.0¶
+19.3 (17.4 to 21.4)
+16.5 (15.2 to 17.9)
+−2.0¶
+10.6 (8.7 to 12.7)
+2.71
+60.7
+Mississippi
+28.3 (24.3 to 32.7)
+27.8 (25.2 to 30.5)
+0.0
+18.5 (15.9 to 21.5)
+22.6 (20.9 to 24.4)
+1.0¶
+11.1 (9.2 to 13.4)
+0.81
+42.6
+North Carolina
+29.7 (27.0 to 32.4)
+25.3 (23.7 to 27.0)
+−2.0¶
+22.4 (20.5 to 24.4)
+19.0 (18.0 to 20.1)
+−2.0¶
+13.9 (11.6 to 16.5)
+0.98
+40.2
+Oklahoma
+25.2 (21.7 to 29.1)
+27.9 (25.7 to 30.2)
+1.0
+24.0 (21.1 to 27.2)
+22.5 (21.0 to 24.1)
+0.0
+14.9 (12.5 to 17.7)
+1.42
+65.1
+South Carolina
+29.5 (26.1 to 33.0)
+25.6 (23.6 to 27.8)
+−2.0¶
+18.0 (15.8 to 20.4)
+19.2 (17.8 to 20.6)
+1.0
+12.0 (10.0 to 14.2)
+0.62
+8.4
+Tennessee
+27.9 (25.0 to 31.1)
+23.7 (20.7 to 27.0)
+−1.0
+26.0 (23.9 to 28.3)
+21.5 (19.4 to 23.7)
+−1.0
+13.4 (11.3 to 15.8)
+1.33
+31.0
+Texas
+28.0 (25.0 to 31.2)
+20.5 (17.8 to 23.5)
+−3.0¶
+17.4 (15.4 to 19.7)
+15.4 (13.7 to 17.4)
+−2.0¶
+9.9 (8.8 to 11.1)
+2.08
+11.4
+Virginia
+26.0 (22.8 to 29.5)
+20.2 (17.9 to 22.8)
+−2.0¶
+22.9 (20.5 to 25.5)
+18.5 (16.3 to 20.8)
+−2.0¶
+11.1 (9.0 to 13.5)
+0.87
+37.3
+West Virginia
+27.3 (24.3 to 30.5)
+25.4 (22.8 to 28.2)
+−1.0
+27.6 (25.1 to 30.2)
+26.1 (23.9 to 28.4)
+0.0
+16.0 (13.7 to 18.7)
+1.16
+40.0
+West
+22.6 (21.3 to 24.0)
+19.1 (17.8 to 20.4)
+−2.0¶
+17.4 (16.4 to 18.4)
+13.6 (12.9 to 14.4)
+−4.0¶
+Alaska
+27.2 (22.6 to 32.3)
+25.2 (21.4 to 29.5)
+0.0
+25.8 (21.7 to 30.3)
+22.6 (19.4 to 26.3)
+−2.0¶
+10.8 (8.7 to 13.2)
+2.39
+92.5
+Arizona
+22.0 (18.4 to 26.2)
+21.7 (18.0 to 25.9)
+−1.0
+20.2 (16.9 to 24.0)
+14.7 (12.5 to 17.2)
+−2.0
+11.1 (9.0 to 13.6)
+2.69
+84.6
+California
+22.4 (20.2 to 24.8)
+18.5 (16.4 to 20.9)
+−3.0¶
+14.5 (13.0 to 16.1)
+11.4 (10.1 to 12.8)
+−5.0¶
+9.0 (7.8 to 10.3)
+1.56
+46.9
+Colorado
+24.0 (20.9 to 27.4)
+19.3 (17.3 to 21.4)
+−3.0¶
+21.1 (18.3 to 24.3)
+16.5 (15.1 to 18.1)
+−3.0¶
+12.2 (10.1 to 14.5)
+1.23
+105.9
+Hawaii
+21.5 (18.7 to 24.6)
+19.2 (17.2 to 21.4)
+−2.0
+15.8 (13.5 to 18.5)
+15.9 (14.3 to 17.6)
+−1.0
+7.7 (6.1 to 9.7)
+2.41
+96.3
+Idaho
+21.8 (19.7 to 24.1)
+18.7 (16.5 to 21.0)
+−3.0¶
+18.1 (16.3 to 20.1)
+15.0 (13.5 to 16.6)
+−3.0¶
+10.6 (8.7 to 12.9)
+1.15
+12.6
+Montana
+20.8 (18.0 to 23.9)
+18.4 (16.3 to 20.8)
+−1.0
+20.2 (17.7 to 23.0)
+19.4 (17.8 to 21.2)
+−1.0
+14.7 (12.4 to 17.3)
+2.09
+90.6
+Nevada
+25.6 (20.9 to 30.9)
+22.9 (19.8 to 26.2)
+−4.0¶
+30.5 (26.1 to 35.3)
+21.4 (18.7 to 24.5)
+−6.0¶
+10.6 (8.7 to 12.9)
+1.45
+14.8
+New Mexico
+21.6 (18.5 to 25.0)
+22.6 (20.4 to 24.9)
+−1.0
+22.5 (19.9 to 25.4)
+17.8 (16.3 to 19.5)
+−3.0¶
+11.7 (9.6 to 14.3)
+1.50
+70.1
+Oregon
+22.1 (19.5 to 24.9)
+19.8 (17.5 to 22.2)
+−1.0
+19.3 (17.3 to 21.5)
+17.2 (15.6 to 19.0)
+−2.0¶
+11.2 (9.3 to 13.6)
+1.57
+38.8
+Utah
+16.1 (13.8 to 18.7)
+10.4 (8.7 to 12.3)
+−5.0¶
+11.5 (9.7 to 13.7)
+9.3 (7.9 to 10.8)
+−4.0¶
+8.7 (6.8 to 11.0)
+1.31
+47.7
+Washington
+25.0 (22.4 to 27.9)
+18.9 (17.7 to 20.2)
+−4.0¶
+22.7 (20.6 to 24.9)
+15.3 (14.5 to 16.1)
+−4.0¶
+9.2 (7.4 to 11.4)
+2.78
+81.1
+Wyoming
+23.9 (20.3 to 28.0)
+23.8 (21.5 to 26.3)
+−1.0
+24.0 (21.3 to 27.0)
+19.4 (17.7 to 21.2)
+−1.0¶
+14.0 (11.9 to 16.4)
+1.14
+80.1
+Total United States
+25.7 (25.1 to 26.2)
+21.9 (21.4 to 22.4)
+−2.0¶
+20.7 (20.2 to 21.1)
+17.6 (17.3 to 18.0)
+−2.0¶
+*
+APC = annual percent change; BRFSS = Behavioral Risk Factor Surveillance System; SAMHSA = Substance Abuse and Mental Health Services Administration; CDC = Centers for Disease Control and Prevention; CI = confidence interval. Adult smoking prevalence estimates are for current cigarette smoking in persons 18 years of age or older and are based on the CDC's BRFSS data (http://www.cdc.gov/brfss/). State-based BRFSS data were aggregated to represent regions and the total United States.
+†
+APC is based on prevalence estimates from 1997 through 2006.
+‡
+State-specific youth smoking prevalence data are based on the 2004 and 2005 National Survey on Drug Use and Health, SAMHSA, Office of Applied Studies (http://www.oas.samhsa.gov/2k5State/AppB.htm#TabB.14).
+§
+From Campaign for Tobacco-Free Kids. State cigarette prices, taxes, and costs per pack. National Center for Tobacco-Free Kids, 2007.
+‖
+From Campaign for Tobacco-Free Kids. A Broken Promise to Our Children: the 1998 Master Settlement Agreement Nine Years later. National Center for Tobacco-Free Kids, 2007. Based on CDC's annual funding recommendations and each state's FY2008 funding allocations.
+¶
+APC is statistically significantly different from zero (two-sided P < .05, calculated using a t test).
+The tobacco tax is generally lower in many Southern and/or tobacco-growing states (North Carolina, Kentucky, Tennessee, South Carolina, Virginia, West Virginia, Florida, Georgia, Alabama, Mississippi, and Louisiana) than in other regions (Table 6). Only three states (Delaware, Colorado, and Maine) meet the CDC's minimum spending for comprehensive tobacco prevention programs for 2008 based on projected state budgets for 2008. Thirty states and the District of Columbia failed to meet at least 50% of the CDC's minimum spending for tobacco control prevention in 2008.
+Trends in initiation of smoking among 12- to 17-year-old adolescents in the United States, 1940–2000, show that initiation rates increased sharply in girls from 1965 through 1975 (Figure 6). Subsequently, rates decreased through the mid-1980s in both girls and boys but rose again from 1990 through the mid-1990s, especially in boys. Initiation rates were similar for boys and girls during the most recent data years (1996–2000).
+Figure 6
+Initiation of smoking among 12- to 17-year-old adolescents in the United States by sex, 1940–2000. All calculations to determine the year in which respondents began smoking were based on the survey administration date in conjunction with responses given in the survey regarding initiation age of “regular” use and current age. Data are from the Tobacco Use Supplements to the Current Population Survey (25,26). Means and 95% confidence intervals (error bars) are shown.
+Discussion
+This is the first Annual Report to the Nation to document a decline in both the incidence and the death rates from all cancers combined in both men and women. These declines occurred in most racial and ethnic groups and partly reflect decreases in the three most common cancers in men (lung, colorectum, and prostate) and two of the three most common cancers in women (breast and colorectum), as well as the leveling off of lung cancer death rates in women. These cancers account for about half of all cancer cases and deaths in both men and women. The sustained declines in cancer death rates overall and for the three major cancer sites in men and two major cancer sites in women have been discussed previously (2–10). Declines in cancer death rates indicate real progress in cancer control, reflecting a combination of primary prevention, early detection, and treatment.
+Trends in incidence are more difficult to interpret, because both increasing and decreasing trends can result from changes in screening and diagnostic practices as well as changes in exposure to risk factors. Incidence declines attributed to reductions in risk factors include the decrease in lung cancer in men caused by historical patterns of smoking cessation (32,33) and sharp declines in breast cancer incidence in 2002–2003 following reduced use of hormonal replacement therapy (HRT) (34–37). The decline in breast cancer incidence attributed to HRT use is particularly notable because of the short lag time between changes in exposure and resulting changes in incidence. A similarly rapid change in a hormonally related cancer following changes in hormonal therapy was seen in the 1970s when the incidence of endometrial cancer first increased and then decreased with the rise and fall of HRT formulations containing estrogen (38,39).
+Changes in incidence rates can also be related to changes in use of diagnostic and screening modalities. The accelerated decline in the colorectal cancer incidence rate since 1998 may be associated with increased use of colorectal cancer screening, which prevents cancer through removal of precancerous adenomatous polyps (7,10,40,41). Between 2000 and 2005, the percentage of adults aged 50 years and older who reported having had colonoscopy increased from 20% to 39%, whereas the percentage reporting testing for fecal occult blood decreased from 17% to 12% (42). Overall, the use of colorectal screening among adults 50 years and older increased from 27% in 1987 to 50% in 2005 (42,43).
+Changes in use of mammography may have also contributed to recent declines in breast cancer incidence trends that began in 1999. The prevalence of recent mammography began to stabilize or decline in the late 1990s after increasing for many years (44); this trend may have contributed to the decline in incidence, due to decreased detection or reduced number of undiagnosed prevalent cancers (35,45). Long-term declines in cervical cancer incidence in women are likely related to widespread dissemination of cervical cancer screening (46–48).
+In contrast to mammography and colorectal cancer screening, the benefits of prostate-specific antigen (PSA) screening in reducing morbidity and mortality from prostate cancer have not yet been established (49). Trends in use of PSA screening have undoubtedly influenced prostate cancer incidence trends over the last several decades (50), and the leveling off of PSA screening may be contributing to the recent decline in prostate cancer incidence because of decreased detection, or reduced number of undiagnosed prevalent cancers. According to the National Ambulatory Medical Survey (51), the frequency of PSA testing during visits for a general medical examination among American men increased from 1995 through 2002 and then leveled off through 2004.
+The increasing incidence of several other cancers is related, at least in part, to increased detection and use of diagnostic and imagining technology. These cancers include melanoma of the skin, cancer of the kidney and renal pelvis, and thyroid cancer (52–56).
+With respect to trends in lung cancer, tobacco use, and tobacco control, this report documents large geographic variation in tobacco smoking that, together with generational differences in past smoking behavior, is delaying the decrease in lung cancer death rates in women and slowing the decrease in men. Cigarette smoking alone still accounts for approximately 30% of all cancer deaths in the United States, despite reductions in smoking prevalence (57). Most (80%) of these smoking-attributable cancer deaths involve lung cancer, although smoking also causes cancers of the oral cavity, pharynx, larynx, esophagus, stomach, bladder, pancreas, liver, kidney, uterine cervix, and myeloid leukemia (58). Lung cancer is commonly perceived by public health professionals as the sentinel health consequence of cigarette smoking because although smoking causes more deaths from cardiovascular and respiratory diseases than from lung cancer (58), those conditions are less strongly associated with smoking than is lung cancer.
+Sex differences in lung cancer incidence and death rates, and particularly the delayed increase and then leveling off of lung cancer risk in women compared with men (Figure 1), have been described repeatedly elsewhere (32,33,59). These temporal differences reflect the later uptake of cigarette smoking among women, who began smoking predominantly during and after World War II, compared with men, who began cigarette smoking in the early 20th century, with large peaks of initiation during the two World Wars (60,61). Because of the historical differences in smoking patterns, the sustained decrease in lung cancer incidence and death rates in men has been a major contributor to the overall decrease in male cancer incidence and death rates (62), whereas the leveling off of the lung cancer death rate among women has only recently facilitated the downturn in the overall female cancer death rate.
+Less attention has been paid to the prominent state and regional variations in the trends in lung cancer and tobacco use in men and women, particularly as these relate to various indices of state tobacco control activity. Although the lung cancer death rate among men has been decreasing nationally since the early 1990s, the rate of this decrease varies substantially by state and geographic region. For example, the average percentage decrease in the lung cancer death rate among men in California from 1996 through 2005 (2.8% per year) is more than twice that of many states in the Midwest and South. The geographic variation is even more extreme among women, for whom the lung cancer death rate increased from 1996 through 2005 in 13 states and decreased in only three. Although fewer data on trends at the state level are available for lung cancer incidence than for mortality, in five states (Pennsylvania, Illinois, Minnesota, Nebraska, and Idaho), lung cancer incidence among women was increasing and mortality rates were stable during the same time interval. Our findings help to explain why the lung cancer incidence and death rates among women nationally have not decreased, despite reductions in smoking prevalence. At least three factors contribute to the rates and trends among women (Tables 1–4). First, age-specific incidence and death rates continue to increase for age groups 70 and above (Figures 2 and 3), and rates occurring in these age groups heavily influence the trend in the age-standardized rates because they contribute to more than 50% of the age-standardized rates. Second, smoking cessation rates are historically lower in women than men, especially at older ages (63). Based on data from the National Health Interview Surveys, the “quit ratio,” or fraction of ever smokers who had stopped smoking, was more than 50% higher in men than women aged 65 years and older in 1965 and 1970, and remained 15%–19% higher in 1990 and 1994 (63).
+A third factor that is delaying a decrease in female lung cancer incidence and death rates nationally is that incidence and death rates continue to increase in certain regions of the United States. All of the 13 states in which the lung cancer death rates increased in women from 1996 through 2005 are located in the South and Midwest, where, on average, the prevalence of smoking is higher and the annual percentage decrease in current smoking among adult women is lower than in the West and Northeast. State variations in smoking prevalence are influenced by several factors, which include public awareness about the harmful health effects of tobacco use, social norms about tobacco use, educational levels within the state, racial and ethnic variations among the states, tobacco control activities at the state and local level (64,65), and industry promotional activities (66–69). California was the first state in the United States to implement a comprehensive state-wide tobacco control program (70) and has made the greatest progress in reducing tobacco use (71–74), although Utah continues to have the lowest smoking prevalence. Adult smoking prevalence among women in California decreased from 14.5% in 1997 to 11.4% in 2006 (Table 6). Many states in the South and Midwest have only recently achieved a reduction in female smoking prevalence and have not yet experienced a leveling off or decrease of lung cancer incidence and death rates among women. For example, the percentage of adult female current smokers in Kentucky changed little from 1997 (28.7%) to 2006 (28%) (Table 6).
+Most Southern and Midwestern states continue to have a high prevalence of smoking and low excise tax (Table 6), despite compelling evidence that excise taxes and other components of comprehensive tobacco control can achieve substantial reductions in tobacco use (75,76). Many Southern states have historically been economically dependent on tobacco farming and production (77). The exceptionally low lung cancer rate in Utah reflects the religious prohibition against smoking among Mormons (78,79).
+Nationally, the anticipated future decline in age-standardized lung cancer rates in women will be offset by the generation of women born between 1950 and 1960 who passed through adolescence and young adulthood at the time when cigarette brands such as Virginia Slims were introduced and marketed intensively to women (26,33,80,81). A sharp increase in smoking initiation occurred among these women between 1965 and 1975 (Figure 6). These same birth cohorts account for the interruption in the decline in female lung cancer incidence and death rates between ages 30 and 49 years (Figures 2–4). Women who were born in this era will likely continue to offset future decreases in lung cancer incidence and death rates in other birth cohorts over the next 50 years.
+As mentioned above, tobacco smoking causes many cancers in addition to lung cancer. However, only three of these cancers (cancers of the oral cavity, esophagus, and larynx) have a smoking-attributable mortality of greater than 50% (57). Incidence and death rates for cancer of the oral cavity and larynx and incidence rates for squamous cell carcinoma of the esophagus (the histological type most strongly associated with smoking) have decreased in both men and women over the past 15 years (data not shown), following reduction of smoking prevalence over the past 40 years.
+Limitations
+Surveillance of cancer in the United States now covers the majority of the population for incidence and the entire population for mortality. However, certain limitations in data sources, data collection, and analyses may have influenced the findings of this report. First, national and state population estimates provided by the Census Bureau for the period 2000 through 2005 (2006 vintage) were developed based on new methodology that is considered more demographically plausible and more accurate (L. Sink, MS, Bureau of Census, personal communication). The change in methodology had little effect on the national population estimates but had a large effect on age-specific population estimates for some states and counties. Therefore, the national incidence and death rates were not affected, but some state-level rates were. The NCI also developed modifications to these Census population estimates that attempted to account at the county level for changes in population due to displacement of people after hurricanes Katrina and Rita in the most affected counties of Louisiana, Mississippi, Alabama, and Texas.
+Second, we used two different statistical methods for two different geographic sets of aggregate data to describe cancer trends: a single linear regression model to describe short-term trends (1996–2005) by race and ethnicity for geographic areas covering about two-thirds of the United States, and a joinpoint model to describe long-term trends (1975–2005) for all races and ethnicities combined in a subset of these geographic areas covering approximately one-tenth of the US population. The joinpoint model is preferable to single linear regression when a sufficient number of years are available for analysis because it provides the opportunity to identify recent changes in magnitude and direction of trends, although the trends may be unstable when based on rates with large variance and statistical power is low for detecting joinpoint segments. Although enough years of data are now available to use joinpoint analysis for trends by race and ethnicity, we used single linear regression in this report for consistency with previous reports and because trends are presented for multiple sites and racial and ethnic groups. Methods have yet to be adapted for delayed reporting of aggregated data, except for incidence from the nine oldest SEER registries. Delayed reporting may affect the most recent joinpoint segment for the national data. When joinpoint analyses were applied to the fixed interval period for aggregated data based on SEER and NPCR, as reported by NAACCR, the results were generally similar to those based on the most recent 10 years of data from the nine SEER registries (data not shown).
+Third, the Veteran's Health Administration (VA) hospitals have traditionally been a critical source of data for cancers that were diagnosed among veterans who are eligible to receive care from these facilities. In August 2007, the VA formally instituted new requirements and major restrictions for the submission of cancer cases to central cancer registries. Consequently, case reporting from VA facilities to central cancer registries dropped substantially after August 2007, primarily affecting incidence data for 2005. According to data from NCI (http://seer.cancer.gov/csr/1975_2005/resultsmerged/sect_33_VA_adjustment.pdf), as a result of this change in case reporting, cancer incidence rates among men for 2005 in the 17 SEER registries that cover more than a quarter of the US population were underestimated by 1.51% for all cancers combined and 2.33% and 1.18% for lung and prostate cancers, respectively (12). The amount of underestimation based on data from other geographic areas may or may not be similar because of variation in VA reporting to central registries and in the VA's proportionate contribution to the total number of cancers by state or geographic region. The NCI assessed the influence of missing VA cancer cases on the (reporting) delay-adjusted incidence trends in the nine oldest SEER registries. Recent trends in the incidence rates among men for all cancers combined, lung, colorectal, and prostate cancers using the joinpoint model after adjusting for missing VA cancer cases yielded results similar to those based on reporting delay-adjusted data (12). The impact of missing VA cases on future estimates of cancer incidence rates and trends may become greater as central registries fail to receive VA cancer cases. The VA cancers account for at least 3% and possibly as much as 8% of all cancers that were diagnosed in men that were available previously for reporting on national cancer statistics.
+Fourth, analyses of trends in cancer rates and prevalence of smoking according to geographic areas (states or regions) could be affected by the characteristics of the 28 states for which trends in incidence can be measured and possibly by population mobility. The influence of migration on the rates and prevalence of smoking has less effect on large geographic areas (states or regions) than small areas (counties) (82).
+Fifth, as routinely noted in the annual reports (7–10), the broad racial and ethnic groups that were categorized for our analyses may mask variations in the cancer burden by country of origin, eg, Chinese and Vietnamese in the group of API (83) and Cubans and Mexicans in the Hispanic category (9,84) or by other unique characteristics of a variety of high-risk populations (10,82–88). Furthermore, cancer rates for populations other than white and black may be limited by problems in ascertaining race and ethnicity information from basic records (medical records, death certificates, and census reports) (89).
+Finally, estimates based on the CDC's BRFSS data are limited because the survey relies exclusively on telephone interviews and response rates vary widely across states, with a median Council of the American Survey Research Organization response rate, which is the proportion of telephone numbers called that resulted in completed interviews, of 50% (90,91). Although state-specific smoking data are available from the TUS-CPS back to 1992 (25), we did not use them because they are not available for each year to estimate APC in smoking prevalence and because the most recent available year of data at the time of the preparation of this report was 2003.
+Future Directions
+The observed decrease in the incidence and death rates from all cancers combined in men and women overall and in nearly all racial and ethnic groups is highly encouraging. However, this must be seen as a starting point rather than a destination. A dual approach will be needed to sustain and extend this progress into the future. First, the application of existing knowledge must be improved so that evidence-based interventions reach all segments of the population. Second, ongoing research is needed to improve our current methods of prevention, early detection, and treatment.
+The special section of this report highlights geographic disparities in lung cancer, tobacco use, and tobacco control. Reductions in tobacco use provide the largest single opportunity to prevent nearly one-third of cancer deaths through the application of existing knowledge. State policies have an important influence on smoking initiation and cessation. Recent reports by the Institute of Medicine (92) and the CDC (75) document that states with comprehensive tobacco control programs experience more rapid decreases in per capita cigarette sales, smoking prevalence, and lung cancer than states without such programs (72,92). Despite this, most states underfund such programs (75). Although public health and advocacy initiatives have been increasingly effective in increasing tobacco excise taxes and enacting smoke-free laws, these efforts are offset by tobacco industry promotional activities, point-of-sale discounts, and lobbying (92) and are threatened by recurrent budgetary constraints and efforts to reallocate tobacco excise tax funds away from tobacco and/or cancer control.
+Policy approaches can discourage smoking initiation, encourage cessation, and protect nonsmokers from second-hand smoke at the population level. Complimenting these approaches are clinical guidelines to integrate evidence-based treatments for tobacco dependence into standard medical care (93,94) and ongoing research to improve cessation therapies (95,96), to identify genetic determinants of tobacco dependence (97), and to use these findings in drug development (98). Randomized clinical trials are also testing whether the early detection of lung cancer by spiral computed tomography reduces lung cancer mortality in high-risk groups (99,100) and whether novel targeted therapies are effective against certain subtypes of lung cancer (101,102).
+Although cigarette smoking accounts for approximately 85%–90% of lung cancer deaths, the remaining 10%–15% represent 16 000–24 000 of the nearly 162 000 lung cancer deaths that have been projected to occur in 2008 (103). This number would rank among the 10 most common cancers in terms of deaths if considered as a separate category (104). Not all of these occur in lifelong nonsmokers because there is a background rate of lung cancers that are caused by factors other than active smoking, even among current and former smokers. Research interest in lung cancer among never smokers has increased, however, partly because the molecular profile of tumors and clinical response to targeted therapy differs for people who have never smoked than for smokers (105,106), partly because the prevalence of current smoking continues to decrease, and partly because of media attention to this issue.
+Although much progress can be achieved by more comprehensively applying what we know about cancer causation, prevention, and treatment (eg, tobacco control, vaccination for Hepatitis B and human papillomavirus, chemoprevention of breast cancer in high-risk groups, screening for colorectal cancer, and effective treatments for several cancers), additional research is needed across the spectrum of cancer prevention, early detection, treatment, and palliation. Further etiologic research is needed for cancer sites (eg, leukemia, NHL, myeloma, kidney, testicular, brain, and female thyroid cancers) at which incidence has increased and changes in detection and established risk factors may or may not fully explain the trends. Etiologic research is also needed for highly lethal cancers, such as pancreatic cancer, which is now the fourth leading site for cancer deaths in both men and women (103). Genome-wide association studies that involve examining genetic variation at typically hundreds of thousands of places along the genome of patients with specific diseases compared with control individuals have identified promising genetic regions for further investigation for many diseases, including a region on chromosome 15 that have been associated with susceptibility to lung cancer (98). Better prognostic markers are needed to triage newly diagnosed cancers and to individualize treatments to match the aggressiveness of the tumor (107). The extensive research efforts needed to identify cancers early and develop personalized/targeted cancer therapies are beyond the scope of this report but involve better understanding of the genetic and epigenetic changes that occur within cells during progression to cancer, the molecular composition of cancer subtypes, and gene expression and proteomic studies (98,107–109).
+Funding
+The American Cancer Society, the National Cancer Institute, the centers for Disease control and prevention and the North American Association of Central Cancer registries. Funding to pay for the open Access publication charges for the article — was provided by the American Cancer Society.
+Supplementary Material
+[Supplementary Material]
+[JNCI Podcast]
