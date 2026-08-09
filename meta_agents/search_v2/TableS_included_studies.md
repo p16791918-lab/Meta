@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **107** (quantitative synthesis: 83; narrative synthesis: 24).
+Studies included after full-text review (PRISMA 2020). Total included: **118** (quantitative synthesis: 92; narrative synthesis: 26).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -111,3 +111,14 @@ Studies included after full-text review (PRISMA 2020). Total included: **107** (
 | 105 | Cancer Incidence in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)—The Onco-SOL Ancillary Study (2025) | HCHS/SOL + state registries | Hispanic heritage groups | cohort incidence | narrative | 39808161 | 10.1158/1055-9965.epi-24-1325 |
 | 106 | Early-onset cancer incidence in the United States by race/ethnicity between 2011 and 2020 (2024) | SEER | race/ethnicity | age-standardized rates + IRR | quantitative | 39094298 | 10.1016/j.canep.2024.102632 |
 | 107 | Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of Breast Cancer Incidence and Mortality in the US (2022) | USCS | minority vs White by state | age-adjusted rates + state IRR | quantitative | 35699957 | 10.1001/jamanetworkopen.2022.16958 |
+| 108 | Cancer disparities among non-Hispanic urban American Indian and Alaska Native populations in the United States, 1999-2017 (2022) | NPCR+SEER (IHS-linked) | urban AI/AN vs urban NHW | age-adjusted rates + APC | quantitative | 35119703 | 10.1002/cncr.34122 |
+| 109 | Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA (2022) | SEER 17 | NHB/NHW + Ghana | age-standardized rates | quantitative |  | 10.1101/2022.02.21.22271266 |
+| 110 | Breast Cancer Incidence Trends by Estrogen Receptor Status among Asian American Ethnic Groups, 1990-2014 (2021) | SEER 9 + API | 6 Asian ethnicities vs NHW | age-standardized rates + APC | quantitative | 33392441 | 10.1093/jncics/pkaa005 |
+| 111 | Subtype-specific breast cancer incidence rates in black versus white men in the United States (2020) | NPCR+SEER | black vs white MEN | age-standardized rates + IRR | quantitative | 32337499 | 10.1093/jncics/pkz091 |
+| 112 | Cancer incidence and associations with known risk and protective factors: the Alaska EARTH study (2019) | Alaska EARTH cohort (ANTR) | AN cohort (risk factors) | cohort incidence | narrative | 31428891 | 10.1007/s10552-019-01216-9 |
+| 113 | Incidence and survival among young women with stage I-III breast cancer: Seer 2000-2015 (2019) | SEER 18 | race/ethnicity (20-49) | age-adjusted rates + AAPC | quantitative | 31392297 | 10.1093/jncics/pkz040 |
+| 114 | Disparities in cancer incidence and trends among American Indians and Alaska natives in the United States, 2010–2015 (2019) | NPCR (IHS-linked) | AI/AN vs white | age-adjusted rates + APC | quantitative | 31575554 | 10.1158/1055-9965.epi-19-0288 |
+| 115 | Cancer patterns in Hmong in Minnesota, 2000 to 2012 (2018) | Minnesota Cancer Surveillance System | Hmong vs API/NHW | age-adjusted rates + PIR + RR | quantitative | 29975407 | 10.1002/cncr.31592 |
+| 116 | The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioeconomic status by decade, 1981–2010 (2018) | SEER 9 | race + SES | age-adjusted rates by decade | quantitative |  | 10.2147/cmar.s173099 |
+| 117 | Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Continents (2016) | CI5 + SEER 9/Hawaii | Japanese Japan vs US (White/Black) | age-standardized rates (CI5) | narrative |  | 10.1093/jjco/hyw119 |
+| 118 | Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos (2009) | Florida Cancer Data System | Cuban/Mexican/PR vs NHW/NHB | age-adjusted rates | quantitative | 19661072 | 10.1158/1055-9965.epi-09-0329 |

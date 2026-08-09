@@ -120,3 +120,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 1761,recheck,,Hawaii Queen's / HPH tumor registries,race/ethnicity + subtype vs NHW,incidence rates,Hawaii hospital tumor registries; verify population-based denominator else Ineligible population
 1762,include-quant,,SEER,race/ethnicity,age-standardized rates + IRR,early-onset incidence by race SEER 2011-2020; breast among cancers - verify breast row; overlaps 1398/701
 2131,include-quant,,USCS,minority vs White by state,age-adjusted rates + state IRR,state-level IRRs minority vs White USCS 1999-2017; obesity/PA/screening correlates but race IRRs present
+2137,include-quant,,NPCR+SEER (IHS-linked),urban AI/AN vs urban NHW,age-adjusted rates + APC,urban AI/AN vs NHW incidence 1999-2017; breast among cancers; overlaps AIAN national (134/500/2510)
+2163,include-quant,,SEER 17,NHB/NHW + Ghana,age-standardized rates,ERN incidence NHB/NHW SEER17 2013-2015 + Ghana; companion/overlap to rec 10 (preprint)
+2302,include-quant,,SEER 9 + API,6 Asian ethnicities vs NHW,age-standardized rates + APC,6 Asian American ethnicities vs NHW by ER SEER9+API 1990-2014
+2406,include-quant,,NPCR+SEER,black vs white MEN,age-standardized rates + IRR,male breast cancer subtype incidence black/white NPCR-SEER 2010-2016; male-BC target
+2440,include-narrative,,Alaska EARTH cohort (ANTR),AN cohort (risk factors),cohort incidence,Alaska EARTH cohort incidence + risk-factor associations; not primarily AN-vs-NHW breast -> narrative
+2453,include-quant,,SEER 18,race/ethnicity (20-49),age-adjusted rates + AAPC,young women 20-49 incidence by race SEER18 2000-2015; stage I-III + survival focus but incidence-by-race present
+2510,include-quant,,NPCR (IHS-linked),AI/AN vs white,age-adjusted rates + APC,AI/AN vs white incidence 2010-2015; breast among cancers; overlaps AIAN national (134/500/2137)
+2548,include-quant,,Minnesota Cancer Surveillance System,Hmong vs API/NHW,age-adjusted rates + PIR + RR,Hmong vs NHW/API incidence MCSS 2000-2012; key Hmong subgroup; verify breast row
+2610,include-quant,,SEER 9,race + SES,age-adjusted rates by decade,incidence by race/SES/decade SEER9 1981-2010; survival focus but incidence-by-race present
+2732,include-narrative,,CI5 + SEER 9/Hawaii,Japanese Japan vs US (White/Black),age-standardized rates (CI5),brief CI5-based Japanese Japan vs US ASRs; very short -> narrative
+3182,include-quant,,Florida Cancer Data System,Cuban/Mexican/PR vs NHW/NHB,age-adjusted rates,first-generation Hispanic subgroups vs NHW Florida 1999-2001; Hispanic disaggregation; verify breast
+3186,exclude,Overlapping or duplicate dataset,SEER 9,black vs white,age-standardized crossover,book-chapter duplicate of 265 (same SEER9 1975-2004 crossover analysis)

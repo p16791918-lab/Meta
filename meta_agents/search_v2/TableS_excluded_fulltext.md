@@ -1,12 +1,12 @@
 # Table S. Studies excluded at full-text review, with reasons
 
-Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded at full text: **18**.
+Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded at full text: **19**.
 
 | Reason | n |
 |---|---|
 | Did not report the outcome of interest | 8 |
 | Ineligible population | 1 |
-| Overlapping or duplicate dataset | 1 |
+| Overlapping or duplicate dataset | 2 |
 | Full text unavailable | 8 |
 
 | # | Study (title, year) | PMID | DOI | Exclusion reason | Detail |
@@ -21,11 +21,12 @@ Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded 
 | 8 | Breast cancer trends among young women in the United States (2006) | 16804474 | 10.1097/01.ede.0000229195.98786.ee | Did not report the outcome of interest | young women incidence trends by age; NOT stratified by race/ethnicity |
 | 9 | Breast cancer trends and outcomes among young Black Women: A national cancer database analysis (2026) | 40885651 | 10.1016/j.amjsurg.2025.116577 | Ineligible population | NCDB is hospital-based NOT population-based -> invalid incidence denominator |
 | 10 | Regional Disparities in Incidence and Outcomes of Invasive Ductal Carcinoma Among Asian and Pacific Islander Women in the United States (2024) |  | 10.2139/ssrn.5051333 | Overlapping or duplicate dataset | SSRN preprint duplicate of published 425 (same SEER17 API invasive-ductal by region) |
-| 11 | Breast cancer trends among black and white women in the United States (2005) | 16258086 | 10.1200/jco.2004.01.0421 | Full text unavailable | ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies |
-| 12 | Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females. (2000) | 10761199 |  | Full text unavailable | Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies |
-| 13 | Women's cancers among Alaska Natives 1969-2003. (2006) | 17929614 |  | Full text unavailable | Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN |
-| 14 | Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites (2002) | 12223421 |  | Full text unavailable | Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies |
-| 15 | Women's cancers among Alaska Natives: [corrected] 1969-2003. (2007) | 18323374 |  | Full text unavailable | Women's cancers Alaska Natives (corrected dup of 415) |
-| 16 | Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019 (2026) | 41665696 | 10.1007/s10552-026-02134-3 | Full text unavailable | Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800) |
-| 17 | Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011) |  | 10.1089/jwh.2010.2082 | Full text unavailable | Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally |
-| 18 | Improving cancer incidence estimates for American Indians in Wisconsin (2007) | 17844709 |  | Full text unavailable | Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN |
+| 11 | Age-Related Crossover in Breast Cancer Incidence Rates between Black and White Women: Implications for Removing Racial Disparities in Breast Cancer Care (2009) |  | 10.1016/s1043-321x(09)79313-0 | Overlapping or duplicate dataset | book-chapter duplicate of 265 (same SEER9 1975-2004 crossover analysis) |
+| 12 | Breast cancer trends among black and white women in the United States (2005) | 16258086 | 10.1200/jco.2004.01.0421 | Full text unavailable | ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies |
+| 13 | Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females. (2000) | 10761199 |  | Full text unavailable | Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies |
+| 14 | Women's cancers among Alaska Natives 1969-2003. (2006) | 17929614 |  | Full text unavailable | Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN |
+| 15 | Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites (2002) | 12223421 |  | Full text unavailable | Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies |
+| 16 | Women's cancers among Alaska Natives: [corrected] 1969-2003. (2007) | 18323374 |  | Full text unavailable | Women's cancers Alaska Natives (corrected dup of 415) |
+| 17 | Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019 (2026) | 41665696 | 10.1007/s10552-026-02134-3 | Full text unavailable | Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800) |
+| 18 | Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011) |  | 10.1089/jwh.2010.2082 | Full text unavailable | Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally |
+| 19 | Improving cancer incidence estimates for American Indians in Wisconsin (2007) | 17844709 |  | Full text unavailable | Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN |
