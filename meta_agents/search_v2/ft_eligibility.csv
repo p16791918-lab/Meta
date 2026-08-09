@@ -38,3 +38,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 165,recheck,,California Cancer Registry,race/ethnic groups (SES),low-text extraction,PDF text-layer poor (945 chars); author reads PDF - SES x race incidence
 169,include-quant,,USCS,race/ethnicity/age,age-adjusted incidence rates,USCS MMWR incidence by race/age 1999-2018; overlaps USCS (14/142) -> dedup
 178,include-narrative,,NAACCR (42 states) + SEER,NH white/black young-onset,stage-specific incidence rates,young-onset stage-at-diagnosis focus; overall invasive-by-race not primary -> narrative
+134,include-quant,,SEER/NPCR (IHS-linked),AI/AN vs NHW by IHS region,age-adjusted rates + RR,key IHS-linked national AI/AN vs NHW 1999-2004
+146,include-quant,,SEER 17,race/ethnicity + HR,ASIR + IRR,young women 20-49 IRR by race + HR SEER17 2000-2019
+151,include-quant,,SEER,disaggregated Asian American vs NHW,age-adjusted rates + APC,landmark disaggregated Asian incidence SEER 1990-2008
+155,include-quant,,USCS,race/ethnicity vs White by state,age-standardized IR + IRR,TNBC state variation IRR vs White USCS 2015-2019
+182,include-quant,,USCS,black vs white,incidence + IRR + MIR,Vital Signs USCS black/white incidence 2005-2009 (severity focus)
+188,include-quant,,SEER + NAACCR,race/ethnicity,age-standardized rates by race/SES,ACS trends update 2006; overlaps 76 trends series -> dedup
+193,exclude,Ineligible population,NCDB (hospital-based),young Black vs White,standardized incidence,NCDB is hospital-based NOT population-based -> invalid incidence denominator
+199,include-quant,,SEER,black vs white,age-adjusted incidence + RR 1.16,SEER black/white incidence 1995-2004
+200,include-quant,,SEER 17,black vs white + ER/PR,age-specific + cumulative incidence + RR,black/white ER/PR crossover SEER17 2004-2008
+203,include-quant,,SEER 13,NH white/black/Hispanic/API,age-adjusted rates + IRR,young women black-white IRR 1.52 (<30) SEER13 1992-2004
+205,include-quant,,SEER 12,race/ethnicity + ER,age-standardized rates,incidence by race/ER 2000-2007 (decline plateau)
+207,include-quant,,SEER,disaggregated NHOPI,age-adjusted rates + APC,disaggregated NHOPI incidence SEER 1990-2008 (companion to 151)
