@@ -50,9 +50,35 @@ DECISIONS = os.path.join(HERE, "screening_decisions.csv")
 OUTDIR = os.path.join(HERE, "fulltext")
 COVERAGE = os.path.join(HERE, "fulltext_coverage.csv")
 
-API_KEY = os.environ.get("NCBI_API_KEY", "").strip()
-EMAIL = os.environ.get("NCBI_EMAIL", "").strip()
-UNPAYWALL_EMAIL = os.environ.get("UNPAYWALL_EMAIL", "").strip()
+def _from_mcp_json(key):
+    """Fall back to the NCBI key already stored in the repo's .mcp.json
+    (.mcpServers.pubmed.env.*), searching upward from this file. Lets the
+    Codespace run work with a bare `python3 fetch_fulltext.py`."""
+    import json
+    d = HERE
+    for _ in range(6):
+        p = os.path.join(d, ".mcp.json")
+        if os.path.isfile(p):
+            try:
+                cfg = json.load(open(p, encoding="utf-8"))
+                for srv in cfg.get("mcpServers", {}).values():
+                    env = srv.get("env", {})
+                    if key in env and str(env[key]).strip():
+                        return str(env[key]).strip()
+            except (ValueError, OSError):
+                pass
+        parent = os.path.dirname(d)
+        if parent == d:
+            break
+        d = parent
+    return ""
+
+
+API_KEY = os.environ.get("NCBI_API_KEY", "").strip() or _from_mcp_json("NCBI_API_KEY")
+EMAIL = (os.environ.get("NCBI_EMAIL", "").strip() or _from_mcp_json("NCBI_EMAIL")
+         or "p094123@naver.com")
+UNPAYWALL_EMAIL = (os.environ.get("UNPAYWALL_EMAIL", "").strip()
+                   or _from_mcp_json("UNPAYWALL_EMAIL") or EMAIL)
 
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 IDCONV = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
