@@ -1,0 +1,15 @@
+record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
+10,include-quant,,SEER 17,US Black vs NHW (+Ghana non-US),Table age-standardized rates + Fig age-specific,ER-overall age-standardized rates NHB/NHW per 100k; Ghana=non-US comparator
+28,include-quant,,Alaska Native Tumor Registry,Alaska Native vs US White,Fig1 + Suppl Table 1,AN vs USW age-adjusted female breast incidence 1969-2014
+49,include-quant,,California Cancer Registry,Hmong vs NHW/API,site-specific table,Hmong breast-specific age-adjusted rate vs NHW - verify exact breast row in table
+54,include-quant,,SEER 9 + NJ + San Jose,Asian Indian/Pakistani vs NHW,age-specific Poisson rates,AIPA lower than NHW; age-specific incidence rates modeled
+2,include-quant,,SEER (28% US),NH white/black/API/Hispanic subtypes,age-specific rates per 100k by subtype,first national HR/HER2 subtype incidence by race 2010
+100,include-quant,,LA County (CSP/CA-SEER),detailed race/ethnicity incl Filipina vs NHW,AAIR per 100k trends,LA County 1976-2007 detailed race incl Filipina vs NH white
+234,include-quant,,SEER-21,detailed AANHPI ethnicities vs NHW,age-adjusted rate table 2018-2022 + trends,disaggregated AANHPI incidence + NHW comparator
+236,include-quant,,California Cancer Registry,Asian ethnicity + nativity vs NHW,age-adjusted rates + IRRs,Gomez hidden-disparities; Chinese IRR 1.84 Filipina 1.32; CCR 1998-2004
+324,include-quant,,California Cancer Registry,AA ethnic groups vs NHW,IRRs vs NHW overall + subtype,strong extractable IRRs incl TNBC 0.61; CCR 1988-2013
+333,include-quant,,California Cancer Registry,Hispanic by nativity vs NHW,age-adjusted rates,NHW 34% higher than US-born 84% higher than foreign-born Hispanic
+101,include-narrative,,Guam CR + Hawaii TR + SEER,Chamorro/Filipino Guam/Hawaii,cumulative incidence by age,cumulative incidence metric not age-adjusted rate/100k -> narrative
+190,include-narrative,,Massachusetts Cancer Registry,Chinese/S.Asian/Vietnamese (ref=All Asians),age-adjusted rates vs All Asians/All MA,reference is All-Asian not NHW -> narrative/context
+385,exclude,Did not report the outcome of interest,SEER + hospital registry,disaggregated AANHPI vs NHW,stage-at-presentation AOR,outcome is advanced-stage odds not incidence rates
+79,recheck,,Arizona Cancer Registry,Hispanic vs NHW,age-adjusted models,mostly tumor-characteristic odds; verify age-adjusted incidence rate per 100k exists
