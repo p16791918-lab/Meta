@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **129** (quantitative synthesis: 101; narrative synthesis: 28).
+Studies included after full-text review (PRISMA 2020). Total included: **135** (quantitative synthesis: 105; narrative synthesis: 30).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -133,3 +133,9 @@ Studies included after full-text review (PRISMA 2020). Total included: **129** (
 | 127 | Cancer incidence in the South Asian population of California, 1988-2000 (2005) | California Cancer Registry | South Asian vs NHW/API | age-adjusted rates + IRR | quantitative |  | 10.1186/1477-3163-4-21 |
 | 128 | Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008) (2013) | SEER (CA/Detroit/NJ) | Arab American vs NHW (IBC) | OR-based IBC odds | narrative |  | 10.1186/2193-1801-2-3 |
 | 129 | Incidence of selected cancers in Non-Hispanic American Indian and Alaska Native adolescent and young adult populations, 1999-2019 (2023) | NPCR+SEER (IHS-linked) | NH-AI/AN AYA | age-adjusted rates + AAPC | quantitative | 37119997 | 10.1016/j.annepidem.2023.04.016 |
+| 130 | Cancer incidence among Asian American populations in the United States, 2009-2011 (2016) | SEER + state (NPCR) | 6 Asian subgroups vs NHW | age-standardized rates | quantitative | 26661680 | 10.1002/ijc.29958 |
+| 131 | Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the US (2008) | SEER + state | API subgroups vs NHW | age-adjusted rates | quantitative | 18066673 | 10.1007/s10552-007-9088-3 |
+| 132 | Trends in Breast Cancer Incidence and Mortality in the United States From 2004-2018: A Surveillance, Epidemiology, and End Results (SEER)-Based Study (2023) | SEER | race/ethnicity | age-adjusted rates + APC | quantitative | 37223193 | 10.7759/cureus.37982 |
+| 133 | White-Black Differences in Cancer Incidence, Stage at Diagnosis, and Survival Among Older Adults (2018) | SEER 18 | White vs Black (65+) | age-adjusted rates | quantitative | 28553811 | 10.1177/0898264317696777 |
+| 134 | Differences in the cancer burden among foreign-born and US-born Arab Americans living in metropolitan Detroit (2013) | Metropolitan Detroit (MDCSS) | foreign/US-born Arab vs NHW | proportional incidence ratio (PIR) | narrative | 24013772 | 10.1007/s10552-013-0271-4 |
+| 135 | Cancer risk in different generations of Middle Eastern immigrants to California, 1988-2013 (2017) | California Cancer Registry | ME immigrant generations | PIR/SIR generational | narrative | 28801942 | 10.1002/ijc.30928 |

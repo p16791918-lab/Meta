@@ -144,3 +144,9 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 3322,include-quant,,California Cancer Registry,South Asian vs NHW/API,age-adjusted rates + IRR,South Asian vs NHW/API incidence + IRR CCR 1988-2000; key South Asian; overlaps 3247
 3845,include-narrative,,SEER (CA/Detroit/NJ),Arab American vs NHW (IBC),OR-based IBC odds,Arab American inflammatory BC CA/Detroit/NJ SEER 1988-2008; OR not incidence rate -> narrative; key Arab subgroup
 4026,include-quant,,NPCR+SEER (IHS-linked),NH-AI/AN AYA,age-adjusted rates + AAPC,AI/AN AYA incidence 1999-2019; breast among leading; overlaps AIAN national/AYA
+4027,include-quant,,SEER + state (NPCR),6 Asian subgroups vs NHW,age-standardized rates,6 Asian subgroups vs NHW incidence SEER+NPCR 2009-2011; overlaps 151/4040
+4040,include-quant,,SEER + state,API subgroups vs NHW,age-adjusted rates,API subgroups vs NHW incidence 1998-2002; breast among sites - verify; overlaps 4027/151
+4043,include-quant,,SEER,race/ethnicity,age-adjusted rates + APC,incidence by race SEER 2004-2018; overlaps SEER national trends
+4058,include-quant,,SEER 18,White vs Black (65+),age-adjusted rates,White/Black breast incidence older adults 65+ SEER18 2009-2013; survival focus but incidence present
+4389,include-narrative,,Metropolitan Detroit (MDCSS),foreign/US-born Arab vs NHW,proportional incidence ratio (PIR),Arab American foreign/US-born PIR vs NHW MDCSS 1990-2009; PIR not incidence rate -> narrative; overlaps 3845
+4429,include-narrative,,California Cancer Registry,ME immigrant generations,PIR/SIR generational,ME immigrant generations CCR 1988-2013; generational comparison likely PIR -> narrative; overlaps 587/3275
