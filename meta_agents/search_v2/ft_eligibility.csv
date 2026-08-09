@@ -210,3 +210,34 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 4216,exclude,Overlapping or duplicate dataset,multi-registry aggregate report,,,recurring statistical report (ARN); re-reports SEER/NPCR/NAACCR data already captured by primary studies + series representative
 4294,include-narrative,,multi-registry aggregate report,race/ethnicity (aggregate),summary tables,series representative; secondary synthesis of SEER/NPCR/NAACCR - narrative/context (not pooled to avoid double-counting): Cancer Statistics for AA/Black People 2025 (most recent)
 4357,exclude,Overlapping or duplicate dataset,multi-registry aggregate report,,,recurring statistical report (ACS-Hispanic); re-reports SEER/NPCR/NAACCR data already captured by primary studies + series representative
+86,recheck,,,,,PDF present but text-layer poor/scanned (manual-pdf-lowtext); author reads PDF directly
+157,exclude,Full text unavailable,,,,"could not obtain: ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies"
+238,recheck,,,,,PDF present but text-layer poor/scanned (pdf-no-textlayer); author reads PDF directly
+253,exclude,Full text unavailable,,,,could not obtain: Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies
+381,pending,,,,,awaiting full-text retrieval (still in download list): Age/race differences in HER2 testing and in incide
+415,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN
+424,exclude,Full text unavailable,,,,"could not obtain: Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies"
+428,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives (corrected dup of 415)
+475,recheck,,,,,PDF present but text-layer poor/scanned (manual-pdf-lowtext); author reads PDF directly
+476,exclude,Full text unavailable,,,,"could not obtain: Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800)"
+1800,pending,,,,,awaiting full-text retrieval (still in download list): Rural–Urban Cancer Incidence and Trends in the Uni
+2038,pending,,,,,awaiting full-text retrieval (still in download list): Incidence trends in triple-negative breast cancer 
+3116,exclude,Full text unavailable,,,,"could not obtain: Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally"
+3268,exclude,Full text unavailable,,,,"could not obtain: Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN"
+3360,pending,,,,,awaiting full-text retrieval (still in download list): The effect of migration on cancer incidence among 
+3369,pending,,,,,awaiting full-text retrieval (still in download list): Is male breast cancer similar or different than fe
+3394,pending,,,,,awaiting full-text retrieval (still in download list): Cancer in the Minnesota Hmong population
+3398,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence patterns in Koreans in the US and
+3640,pending,,,,,awaiting full-text retrieval (still in download list): Structural Racism and Triple-Negative Breast Cance
+3662,pending,,,,,awaiting full-text retrieval (still in download list): Incidence of and Trends in the Leading Cancers wit
+3713,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence and mortality among Filipinos in 
+3780,pending,,,,,awaiting full-text retrieval (still in download list): Risk of cancer in Asian Americans: a Kaiser Perman
+3861,pending,,,,,awaiting full-text retrieval (still in download list): Asian ethnicity and breast cancer subtypes: A stud
+3891,pending,,,,,awaiting full-text retrieval (still in download list): Changes in cancer incidence patterns among a north
+3999,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence patterns among Vietnamese in the 
+4037,pending,,,,,awaiting full-text retrieval (still in download list): The Impact of Eliminating Socioeconomic and Racial
+4039,pending,,,,,awaiting full-text retrieval (still in download list): Racial/ethnic patterns in lifetime and age-conditi
+4098,pending,,,,,"awaiting full-text retrieval (still in download list): Cancer incidence, mortality, and associated risk f"
+4147,pending,,,,,awaiting full-text retrieval (still in download list): AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-
+4333,pending,,,,,awaiting full-text retrieval (still in download list): Cancer among Hispanic women in South Florida: An 1
+4336,pending,,,,,awaiting full-text retrieval (still in download list): Cancer Incidence Profile in Sub-Saharan African-Bo
