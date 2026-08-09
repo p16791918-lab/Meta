@@ -349,9 +349,9 @@ def main():
     manual = [r for r in rows if r["source"] not in AUTO]
     manual_path = os.path.join(HERE, "manual_download_needed.csv")
     with open(manual_path, "w", newline="", encoding="utf-8") as f:
-        # ids + links pulled to the front for hands-on manual retrieval.
+        # ids + links + title pulled to the front for hands-on manual retrieval.
         w = csv.DictWriter(f, fieldnames=["record_id", "pmid", "pubmed_url", "doi_url",
-                                          "oa_url", "source", "year", "title", "doi"])
+                                          "title", "source", "year", "oa_url", "doi"])
         w.writeheader()
         for r in manual:
             pmid = r["pmid"]
