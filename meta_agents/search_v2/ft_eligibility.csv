@@ -97,3 +97,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 541,include-quant,,Pennsylvania Cancer Registry,black vs white,age-adjusted diagnosis rate,PA black/white incidence + income; PA Cancer Registry
 565,include-narrative,,Guam CR + Hawaii TR,Guam vs Hawaii (not NHW),age-adjusted rates,Guam vs Hawaii breast incidence; comparator=island populations not NHW -> narrative
 587,include-quant,,California Cancer Registry,Middle Eastern vs NHW,age-adjusted rates + IRR,Middle Eastern vs NHW incidence CCR 1988-2004; key ME subgroup
+603,include-narrative,,Connecticut Tumor Registry,White vs non-White,age-adjusted early-stage rates,Connecticut early-stage incidence 25yr + small-area cluster; stage-specific + White/non-White -> narrative
+687,include-narrative,,North Carolina Central Cancer Registry,race x urbanization,age-adjusted rates + IRR,NC urbanization x race incidence 1995-1999; comparator=urban/rural not NHW -> narrative
+701,include-quant,,USCS,race/ethnicity + region,age-adjusted rates + IRR,early-onset incidence by region + race USCS 2001-2020; overlaps USCS national
+751,include-narrative,,26 registries (~40% US),race (unclear),IBC incidence stats,population-based IBC stats 1994-1998; race-specific IBC incidence unclear -> narrative/verify
+754,include-quant,,Pacific Regional Central Cancer Registry,USAPI vs US,age-standardized rates + RR,6 US-Affiliated Pacific Islands vs US incidence PRCCR 2007-2020; comparator=US-overall
+916,include-narrative,,California Cancer Registry,race x rurality,age-adjusted rates + IRR,CCR rurality x race incidence 2015-2019; comparator=rurality not NHW -> narrative
+955,include-quant,,SEER,Asian Indian/Pakistani vs NHW,age-adjusted rates,Asian Indian/Pakistani low incidence vs NHW SEER; overlaps 54/3228 AIPA
+985,exclude,Did not report the outcome of interest,California Cancer Registry,overall (no race),age-specific rates / age-conditional risk,age-conditional/lifetime risk overall California women; NOT stratified by race/ethnicity
+998,include-narrative,,NIH-AARP cohort,race/gender/region,cohort incidence,NIH-AARP prospective cohort incidence by race; cohort not population-based registry -> narrative
+1015,exclude,Did not report the outcome of interest,SEER,overall young women (no race),age-adjusted rates by decade,young women incidence trends by age; NOT stratified by race/ethnicity
+1101,include-quant,,Rochester Epidemiology Project,Somali vs non-Somali/SEER,age-adjusted rates,Somali vs non-Somali/SEER incidence REP Olmsted 2015-2019; African-born subgroup; verify breast row
+1336,include-quant,,SEER 8/17,race/ethnicity + subtype,age-adjusted rates + APC,subtype incidence by race SEER8/17; overlaps SEER subtype series -> dedup

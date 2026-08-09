@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **89** (quantitative synthesis: 74; narrative synthesis: 15).
+Studies included after full-text review (PRISMA 2020). Total included: **99** (quantitative synthesis: 79; narrative synthesis: 20).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -93,3 +93,13 @@ Studies included after full-text review (PRISMA 2020). Total included: **89** (q
 | 87 | Racial and socioeconomic disparities in breast cancer diagnosis and mortality in Pennsylvania (2022) | Pennsylvania Cancer Registry | black vs white | age-adjusted diagnosis rate | quantitative | 35064367 | 10.1007/s10549-021-06492-1 |
 | 88 | Cancer in Guam and Hawaii: A comparison of two U.S. Island populations (2017) | Guam CR + Hawaii TR | Guam vs Hawaii (not NHW) | age-adjusted rates | narrative | 29120826 | 10.1016/j.canep.2017.08.005 |
 | 89 | Breast cancer in the middle eastern population of California, 1988-2004 (2009) | California Cancer Registry | Middle Eastern vs NHW | age-adjusted rates + IRR | quantitative | 19292805 | 10.1111/j.1524-4741.2009.00694.x |
+| 90 | Secular trends, race, and geographic disparity of early-stage breast cancer incidence: 25 years of surveillance in Connecticut (2015) | Connecticut Tumor Registry | White vs non-White | age-adjusted early-stage rates | narrative | 25905822 | 10.2105/ajph.2015.302640 |
+| 91 | Urbanization and breast cancer incidence in North Carolina, 1995-1999 (2005) | North Carolina Central Cancer Registry | race x urbanization | age-adjusted rates + IRR | narrative | 15922628 | 10.1016/j.annepidem.2005.02.006 |
+| 92 | Geographic differences in early-onset breast cancer incidence trends in the USA, 2001–2020, is it time for a geographic risk score? (2025) | USCS | race/ethnicity + region | age-adjusted rates + IRR | quantitative | 39937364 | 10.1007/s10552-025-01968-7 |
+| 93 | Population-based statistics for women diagnosed with inflammatory breast cancer (United States) (2004) | 26 registries (~40% US) | race (unclear) | IBC incidence stats | narrative | 15090727 | 10.1023/b:caco.0000024222.61114.18 |
+| 94 | Breast cancer incidence and stage at diagnosis in the six US-Affiliated Pacific  Islands (2024) | Pacific Regional Central Cancer Registry | USAPI vs US | age-standardized rates + RR | quantitative | 38996557 | 10.1016/j.canep.2024.102611 |
+| 95 | Disparities in cancer incidence by rurality in California (2023) | California Cancer Registry | race x rurality | age-adjusted rates + IRR | narrative | 36622036 | 10.1093/jnci/djac238 |
+| 96 | Cancer among Asian Indians/Pakistanis living in the United States: Low incidence and generally above average survival (2009) | SEER | Asian Indian/Pakistani vs NHW | age-adjusted rates | quantitative | 19067192 | 10.1007/s10552-008-9275-x |
+| 97 | Cancer-related risk factors and incidence of major cancers by race, gender and region; analysis of the NIH-AARP diet and health study (2017) | NIH-AARP cohort | race/gender/region | cohort incidence | narrative | 28854891 | 10.1186/s12885-017-3557-1 |
+| 98 | Cancer incidence in the Somali population of Olmsted County: A Rochester epidemiology project study (2023) | Rochester Epidemiology Project | Somali vs non-Somali/SEER | age-adjusted rates | quantitative | 37740603 | 10.1002/cam4.6558 |
+| 99 | Disparities in breast cancer incidence and survival by age, race, and molecular subtype in US women (2026) | SEER 8/17 | race/ethnicity + subtype | age-adjusted rates + APC | quantitative |  | 10.1038/s41523-026-00935-y |
