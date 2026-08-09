@@ -109,3 +109,14 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 1015,exclude,Did not report the outcome of interest,SEER,overall young women (no race),age-adjusted rates by decade,young women incidence trends by age; NOT stratified by race/ethnicity
 1101,include-quant,,Rochester Epidemiology Project,Somali vs non-Somali/SEER,age-adjusted rates,Somali vs non-Somali/SEER incidence REP Olmsted 2015-2019; African-born subgroup; verify breast row
 1336,include-quant,,SEER 8/17,race/ethnicity + subtype,age-adjusted rates + APC,subtype incidence by race SEER8/17; overlaps SEER subtype series -> dedup
+477,include-narrative,,USCS,NHB vs White (policy/cohort),segmented regression incidence,school-integration spillover; NHB/White incidence but policy/state/cohort-framed -> narrative
+1398,include-quant,,USCS,NH Black vs NH White,age-adjusted IRR,early-onset Black/White IRR USCS 2003-2022; breast among cancers - verify breast row; overlaps USCS
+1462,recheck,,unclear (retrospective),young women,cumulative incidence,short text; retrospective young-women study; verify race stratification + population-based design
+1478,include-quant,,NM Tumor Registry + AZ + UT (IHS-linked),Navajo vs NHW,age-standardized rates + RR,Navajo vs NHW breast incidence 2014-2018; key Navajo subgroup; breast among 22 - verify breast row
+1569,include-narrative,,Multiethnic Cohort,Okinawan vs mainland Japanese,age-adjusted rates + HR,MEC Okinawan vs mainland Japanese; cohort + comparator not NHW -> narrative
+1629,include-narrative,,SEER,race/ethnicity (grouped cancers),age-standardized rates + IRR,SEER fertility-impacting cancer GROUPS by race; breast within reproductive group not separable -> narrative
+1637,include-narrative,,HCHS/SOL + state registries,Hispanic heritage groups,cohort incidence,HCHS/SOL Hispanic heritage disaggregation; cohort + comparator=heritage not NHW -> narrative
+1693,exclude,Overlapping or duplicate dataset,SEER 17,API by region,age-adjusted IDC rates,SSRN preprint duplicate of published 425 (same SEER17 API invasive-ductal by region)
+1761,recheck,,Hawaii Queen's / HPH tumor registries,race/ethnicity + subtype vs NHW,incidence rates,Hawaii hospital tumor registries; verify population-based denominator else Ineligible population
+1762,include-quant,,SEER,race/ethnicity,age-standardized rates + IRR,early-onset incidence by race SEER 2011-2020; breast among cancers - verify breast row; overlaps 1398/701
+2131,include-quant,,USCS,minority vs White by state,age-adjusted rates + state IRR,state-level IRRs minority vs White USCS 1999-2017; obesity/PA/screening correlates but race IRRs present
