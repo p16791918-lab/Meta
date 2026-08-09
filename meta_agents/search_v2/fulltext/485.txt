@@ -1,0 +1,1737 @@
+record_id=485 pmid=19124489 doi=10.1158/1055-9965.epi-08-0679
+SOURCE: manual-pdf
+TITLE: Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005)
+
+Trends in Area-Socioeconomic and Race-Ethnic Disparities
+in Breast Cancer Incidence, Stage at Diagnosis,
+Screening, Mortality, and Survival among
+Women Ages 50 Years and Over (1987-2005)
+Sam Harper,1 John Lynch,1,2,3 Stephen C. Meersman,4 Nancy Breen,4
+William W. Davis,4 and Marsha C. Reichman4
+1Department of Epidemiology, Biostatistics, and Occupational Health, McGill University, Montreal, Quebec, Canada;
+2Health Sciences Division, University of South Australia, Adelaide, South Australia, Australia; 3Department of
+Social Medicine, University of Bristol, Bristol, United Kingdom; and 4Division of Cancer Control and
+Population Sciences, National Cancer Institute, NIH, Bethesda, Maryland
+Abstract
+Background: Breast cancer is the most commonly
+diagnosed cancer and the second leading cause of
+cancer death among women in the United States and
+varies systematically by race-ethnicity and socioeco-
+nomic status. Previous research has often focused
+on disparities between particular groups, but few
+studies have summarized disparities across multiple
+subgroups defined by race-ethnic and socioeconomic
+position.
+Methods: Data on breast cancer incidence, stage,
+mortality, and 5-year cause-specific probability of
+death (100  survival) were obtained from the
+Surveillance, Epidemiology, and End Results program
+and data on mammography screening from the
+National Health Interview Survey from 1987 to 2005.
+We used four area-socioeconomic groups based on the
+percentage of poverty in the county of residence (<10,
+10-15, 15-20, +20%) and five race-ethnic groups (White,
+Black, Asian, American Indian, and Hispanic). We used
+summary measures of disparity based on both rate
+differences and rate ratios.
+Results: From 1987 to 2004, area-socioeconomic dispar-
+ities declined by 20% to 30% for incidence, stage at
+diagnosis, and 5-year cause-specific probability of
+death, and by roughly 100% for mortality, whether
+measured on the absolute or relative scale. In contrast,
+relative area-socioeconomic disparities in mammogra-
+phy use increased by 161%. Absolute race-ethnic
+disparities declined across all outcomes, with the
+largest reduction for mammography (56% decline).
+Relative race-ethnic disparities for mortality and 5-year
+cause-specific probability of death increased by 24%
+and 17%, respectively.
+Conclusions: Our analysis suggests progress towards
+race-ethnic and area-socioeconomic disparity goals
+for breast cancer, especially when measured on the
+absolute scale. However, greater progress is needed to
+address increasing relative socioeconomic disparities
+in mammography and race-ethnic disparities in
+mortality and 5-year cause-specific probability of
+death.
+(Cancer
+Epidemiol
+Biomarkers
+Prev
+2009;18(1):121–31)
+Introduction
+Breast cancer is the most commonly diagnosed cancer
+and the second leading cause of cancer death among
+women in the United States (1). In addition to its high
+overall burden of disease, breast cancer and its risk
+factors have also been shown to vary systematically with
+indicators of social group status such as race, ethnicity,
+and socioeconomic status (2, 3). Such disparities are
+well-documented, and overcoming cancer health
+disparities is both an overarching goal of the Healthy
+People 2010 initiative (4) and one of the National Cancer
+Institute’s key strategic objectives (5).
+Given the current policy emphasis on disparities in
+cancer, it is important to assess the extent of progress
+toward disparity-related goals for two reasons. First,
+monitoring disparities is a natural complement to
+monitoring overall progress in the fight against cancer
+and is crucial for identifying particular groups that may
+be experiencing a high burden of cancer-related illness.
+Second, monitoring disparities is important because it
+affords an opportunity to reconcile observed trends with
+prevailing etiologic explanations for the causes of social
+disparities in cancer (6).
+The purpose of our analysis was to assess temporal
+trends in race-ethnic and socioeconomic disparities
+across a continuum of breast cancer–related outcomes,
+including mammography screening, incidence, stage at
+diagnosis, mortality, and survival. Much of the previous
+research (e.g.; refs. 7, 8) has focused on disparities
+between particular groups (e.g., Black/White, poor/rich)
+and used measures such as rate ratios to quantify
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+Received 7/25/08; revised 9/24/08; accepted 10/10/08.
+Grant support: This project was carried out under contract with the National Cancer
+Institute (263-MQ-611198). The contents of this publication does not necessarily reflect
+the views or policies of the National Cancer Institute.
+Requests for reprints: Sam Harper, Department of Epidemiology, Biostatistics,
+and Occupational Health, McGill University, 1020 Pine Avenue West, Room 34,
+Montreal, Quebec, Canada H3A 1A2. Phone: 514-398-2858; Fax: 514-398-4503.
+E-mail: sam.harper@mcgill.ca
+Copyright D 2009 American Association for Cancer Research.
+doi:10.1158/1055-9965.EPI-08-0679
+121
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+disparity. However, when considering disparities
+across multiple subgroups—and how those may change
+over time—interpreting many rate ratios becomes cum-
+bersome. To overcome this problem, we adopted a
+statistical perspective congruent with the Healthy People
+2010 framework, which seeks to eliminate disparities
+across the entire range of subgroups defined by
+characteristics such as race-ethnicity and socioeconomic
+position (4).
+Materials and Methods
+Data. We obtained data for the analyses of breast
+cancer incidence, stage at diagnosis, mortality, and
+survival from the Surveillance, Epidemiology, and End
+Results (SEER) program of the U.S. National Cancer
+Institute using SEER*Stat software (9). Data on incidence,
+stage at diagnosis, and survival cover f25% of the U.S.
+population, whereas mortality data cover the entire
+nation. Data on mammography were taken from the
+periodic cancer supplements to the annual U.S. National
+Health Interview Surveys (NHIS). All analyses were
+limited to women ages 50 and over and were age-adjusted
+to the 2000 U.S. standard population. Estimates of
+screening began in 1987, and data on breast cancer
+incidence for detailed race-ethnic groups were only
+available since 1992 (10). Thus, our analyses of socioeco-
+nomic disparities cover the years 1987 to 2004 and race-
+ethnic disparities from 1992 to 2004.
+Whether a health outcome is defined in favorable or
+adverse terms (e.g., survival versus death) can affect the
+magnitude of measures of health disparity based on
+ratios (11, 12). Consistent with the Healthy People 2010
+framework for comparing across outcomes (13), we
+measured all breast cancer outcomes in adverse terms.
+To analyze trends in screening for breast cancer, we
+used the proportion of women who reported not
+having a mammogram in the past 2 years. Changes in
+the methods for categorizing income over the span of
+survey years precluded deriving a measure of absolute
+household income. We therefore created quartiles of
+household income based on the weighted distribution
+across reported income categories for each survey year.
+Due to small numbers in the early NHIS cancer
+supplements, we used four race-ethnic groups: White,
+Black, Other race, and Hispanic (Hispanic is not
+mutually exclusive of race).
+To categorize stage at diagnosis, we used SEER’s
+historic Stage A scheme which defines incident cases
+as either localized, regional, distant, or unstaged. A
+comparison of the 1977 and 2000 guidelines for
+determining how far a cancer has spread from its point
+of origin did not affect the distribution of stage at
+diagnosis for breast cancer (14). In order for all outcomes
+to be defined in terms of adverse events, the outcome
+was the percentage of cases diagnosed beyond the
+localized stage, so that improvements over time should
+register as declines in the percentage of cases diagnosed
+beyond the localized stage.
+To measure survival trends, we used the 5-year
+cause-specific
+survival
+rate
+instead
+of
+the
+more
+traditional relative survival rate because relative sur-
+vival rates require reliable expected life tables that are
+not currently available by socioeconomic position or for
+some
+race-ethnic subgroups
+(8). The cause-specific
+survival rate is a net survival statistic that measures
+the likelihood of surviving 5 years in the absence of
+other causes of death (15). We used the Kaplan-Meier
+estimator (16), with individuals dying
+from
+other
+causes treated as censored under the assumption that
+other causes of death are independent of breast cancer
+(7). We used the ‘‘complete’’ or ‘‘multiple-year cohort’’
+method that includes all patients diagnosed in each
+5-year period (excluding those diagnosed in the current
+data year), which gives better predictions of future
+survival than does the traditional ‘‘cohort’’ method
+(17). For example, 5-year cause-specific survival is
+calculated for diagnosis years 1997 to 2001 based on
+follow-up
+data
+through
+calendar
+year
+2002.
+This
+involves a potential 5 years of survival for those
+diagnosed in 1997, 4 years for those diagnosed in 1998,
+and so on to 1 year for those diagnosed in 2001. To
+define survival in adverse terms (so that improvements
+over time register as declines in rates), we used 1
+minus the 5-year cause-specific survival rate (or 100 
+percentage of 5-year cause-specific survival), which is
+the cause-specific probability of dying from breast
+cancer within 5 years of diagnosis.
+To analyze socioeconomic disparities, we used
+incidence data from the nine original SEER registries
+and mortality data from the entire United States. Neither
+data source includes a measure of individual socioeco-
+nomic position, thus, it was not possible to create a
+measure of household income similar to that used for
+the screening analysis. Instead, we linked each case’s
+county of residence to the 1990 U.S. Census to assign
+each case a measure of socioeconomic position based on
+the proportion of the county population living below the
+poverty line (<10, 10-14, 15-19, 20%). Previous analyses
+show that the 1990 county poverty rate is both highly
+correlated with other socioeconomic measures and
+generates stable county rankings over time (18-20). Our
+measure of area-socioeconomic position therefore
+masks within-area individual variation in individual
+socioeconomic position but is similar to previous studies
+with SEER data (19, 21).
+Figure 1. Hypothetical mortality concentration curves.
+Trends in Breast Cancer Disparities
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+122
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+For race-ethnic disparities, we used incidence data
+from 13 SEER registries and U.S. mortality data. Race-
+ethnicity was defined consistent with the SEER Cancer
+Statistics Review, 1975 to 2004 (22), i.e., White, Black,
+American Indian/Alaska Native (AI/AN), Asian/Pacific
+Islander (API), and Hispanic. Hispanic is not mutually
+exclusive from the race groupings. Consistent with SEER
+guidelines for reporting race-ethnicity (10), data for
+Hispanics excludes cases diagnosed in the Alaska
+Natives and Kentucky registries, and data for American
+Indian/Alaska Natives only includes cases diagnosed in
+a Contract Health Service Delivery Area. Consistent with
+SEER’s policy for calculating Hispanic mortality (23), we
+excluded states with a large number of individuals
+with unknown origin/ethnicity (i.e., with a Hispanic
+index z10.00) in any year (n = 413; 2.4% of Hispanic
+deaths). A table of the state-year exclusions can be found
+on the SEER web site (23).
+Statistical Analysis. Many summary measures of
+health disparity exist, and our choice of measures was
+based on a previous review (24). We chose population-
+weighted measures that (a) account for changes over
+time in the underlying distribution of social groups, (b)
+measure disparity as differences from the population
+average rate of health, and (c) place additional weight
+on the health of socioeconomically disadvantaged
+groups. We included measures of both relative
+disparity (i.e., ratios of rates) and absolute disparity
+(i.e., differences in rates) because these two classes of
+measures often diverge over time (25).
+Table 1. Age-adjusted (year 2000 standard) breast cancer incidence, stage at diagnosis, mammography use,
+mortality, and 5-y cause-specific death rates among females aged 50 and over, by area-socioeconomic position,
+1987 and 2004
+1987
+2004
+Percentage of change, 1987-2004
+Incidence (per 100,000)
+Rate
+Population (%)
+Rate
+Population (%)
+Rate
+Population (%)
++20% in poverty
+328.7
+13.1
+302.2
+10.6
+8.1
+19.0
+15-19% in poverty
+329.4
+6.7
+330.0
+7.0
+0.2
+4.8
+10-14% in poverty
+365.5
+24.3
+329.4
+24.2
+9.9
+0.5
+00-09% in poverty
+381.6
+55.8
+345.3
+58.1
+9.5
+4.1
+Total
+367.5
+100.0
+335.7
+100.0
+8.7
+Late stage at diagnosis*
+>Local (%)
+Population (%)
+>Local (%)
+Population (%)
+>Local (%)
+Population (%)
++20% in poverty
+47.8
+13.1
+39.6
+10.6
+17.2
+19.0
+15-19% in poverty
+42.5
+6.7
+36.1
+7.0
+15.1
+4.8
+10-14% in poverty
+42.1
+24.3
+35.6
+24.2
+15.3
+0.5
+00-09% in poverty
+40.9
+55.8
+34.8
+58.1
+14.8
+4.1
+Total
+42.1
+100.0
+35.6
+100.0
+15.5
+Without mammographyc
+%
+Population (%)
+%
+Population (%)
+%
+Population (%)
+Bottom quartileb
+82.8
+25.0
+44.8
+25.0
+45.9
+0.0
+Second quartile
+76.0
+25.0
+30.2
+25.0
+60.3
+0.0
+Third quartile
+69.4
+25.0
+26.0
+25.0
+62.6
+0.0
+Top quartile
+63.7
+25.0
+22.6
+25.0
+64.5
+0.0
+Total
+73.0
+100.0
+30.9
+100.0
+57.6
+Mortality (per 100,000)
+Rate
+Population (%)
+Rate
+Population (%)
+Rate
+Population (%)
++20% in poverty
+85.1
+14.1
+76.3
+12.3
+10.4
+12.9
+15-19% in poverty
+92.0
+18.7
+73.1
+18.1
+20.6
+3.4
+10-14% in poverty
+97.0
+37.4
+75.0
+37.2
+22.7
+0.5
+00-09% in poverty
+102.7
+29.8
+74.4
+32.4
+27.6
+8.9
+Total
+96.1
+100.0
+74.6
+100.0
+22.4
+Cause-specific probability of death
+(% dying of their cancer within 5 y)x
+%
+Cases (%)
+%
+Cases (%)
+%
+Cases (%)
++20% in poverty
+20.6
+11.9
+15.4
+9.8
+25.0
+17.5
+15-19% in poverty
+18.4
+6.2
+13.7
+6.5
+25.7
+4.7
+10-14% in poverty
+16.1
+23.8
+11.8
+24.0
+26.9
+0.7
+00-09% in poverty
+15.3
+58.0
+10.9
+59.7
+28.4
+2.8
+Total
+16.3
+100.0
+11.8
+100.0
+27.9
+NOTE: Based on the proportion of the population in poverty in 1990 in the county of residence for each incident case.
+* Percentage of incident cases diagnosed beyond the localized stage.
+cPercentage of women reporting not having a mammogram in the past 2 y.
+bBased on weighted distribution of household income.
+x Percentage of incident cases dying of their cancer within 5 y of diagnosis. Estimates are for the 5-y cause-specific probability of death in 1992 (cases
+diagnosed from 1987 to 1991) and 2004 (cases diagnosed from 1999 to 2003).
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+123
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+To summarize disparities across area-socioeconomic
+position, we used the concentration index, measured
+both on the relative and absolute scale. The concentration
+index is derived from a concentration curve (Fig. 1) that
+plots the cumulative proportion of, for example, breast
+cancer mortality, against the cumulative proportion of
+the population ranked by socioeconomic position. If the
+curve lies above the diagonal, the index is negative,
+indicating that mortality is disproportionately concen-
+trated among the poor, and if the curve is below the
+diagonal, the index is positive and mortality is more
+concentrated among the rich. The concentration index is
+defined as twice the area between the curve and the
+diagonal, which lies in the interval (1, 1) and equals
+zero if the rates of health are equal among all groups. The
+relative concentration index (RCI) for grouped data (26)
+may be written as RCI = (2 / l)  (RpjyjXj)  1, where l
+is the population average level of health, pj and yj are the
+group’s population share and average health, and Xj is
+the relative rank of the jth socioeconomic group, which is
+defined as Xj = pc  0.5 pj, where pc is the cumulative
+share of the population up to and including group j and
+pj is the share of the population in group j. Xj indicates
+the cumulative share of the population up to the
+midpoint of each group interval. The absolute concen-
+tration index (ACI) is calculated by multiplying the RCI
+by the average level of health: ACI = lRCI, where RCI is
+defined as above and l is the mean level of health in the
+population.
+The concentration index only works with ordinal
+measures
+of
+social
+group
+status,
+so
+to
+measure
+disparities across race-ethnic groups, we used the
+mean log deviation (MLD) as a measure of relative
+disparity and the between-group variance (BGV) as a
+measure of absolute disparity. We used these measures
+because they weight social groups by their population
+size and are more sensitive to deviations further from
+the population average health (24, 27). The MLD
+summarizes the disproportionality between shares of
+health and shares of population (expressed on the
+natural logarithm scale). For grouped data (28), it may
+be written as MLD = Rpj(ln rj), where pj is the
+proportion of the population in group j and rj is the
+ratio of the prevalence or rate of health in group j
+relative to the total rate, i.e., rj = yj/l where yj is the
+rate of health in group j and l is the total population
+rate. The BGV is calculated by squaring the differences
+in
+group
+rates
+from
+the
+population
+average
+and
+weighting by population size: BGV = Rpj(yj  l)2,
+where pj is group j’s population share, yj is group j’s
+average health status, and l is the average health
+status of the population.
+We used a re-sampling technique described previ-
+ously
+(12,
+29)
+to
+generate
+estimates
+of
+precision
+for disparity measures. We used the SE (30) of the
+observed age-adjusted rate for each race-ethnic or
+socioeconomic subgroup in each year to re-estimate
+each rate 1,000 times, assuming a random normal
+Figure 2. Age-adjusted (year 2000 standard) rates of breast cancer incidence, stage at diagnosis, screening, mortality, and 5-y
+cause-specific probability of death (100  5-y cause-specific survival) among females ages 50 and over, by area-socioeconomic
+position (1987-2004) race-ethnicity (1992-2004). The calendar year for the 5-y cause-specific probability of death refers to the data
+year for cases diagnosed in the previous 5 y (e.g., 2004 on the graph refers to cases diagnosed from 1999 to 2003).
+Trends in Breast Cancer Disparities
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+124
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+distribution.
+We
+then
+calculated
+each
+measure
+of
+disparity 1,000 times (in each year) and used the
+resulting distribution to estimate the SE of each index.
+We estimated the change in each index from the
+beginning to the end of the period of observation and
+calculated a 95% confidence interval (CI) for this
+change using the formula
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+SE2
+time1 þ SE2
+time2
+q
+to estimate the
+SE of the change (29). However, because the five
+outcomes we consider are measured on different scales,
+we
+compared
+the
+overall
+change
+in
+disparity
+by
+calculating the percentage change in each index. In
+order
+to
+graphically
+compare
+trends
+in
+absolute
+disparity, we calculated the percentage change in each
+index in each year since the first year of observed data
+(i.e., since 1987 for area-socioeconomic position and
+since 1992 for race-ethnicity).
+Results
+Table 1 shows the rates and distribution of the
+population for incidence, stage at diagnosis, screening,
+mortality, and 5-year cause-specific probability of death
+according to area-socioeconomic position in 1987 and
+2004, and the percentage change over the period of
+study. Figure 2 (top) shows trends from 1987 to 2004
+for all five outcomes according to area-socioeconomic
+position. All five breast cancer outcomes have improved
+across the board since 1987, and particularly for
+mammography use. For incidence, the improvement
+was chiefly due to large declines since early 2000
+and trends for stage at diagnosis have been relatively
+stable since the mid-1990s. Incidence and mortality rates
+were generally higher for the least disadvantaged group
+Table 2. Age-adjusted (year 2000 standard) breast cancer incidence, stage at diagnosis, mammography use,
+mortality, and 5-y cause-specific death rates among females aged 50 and over, by race-ethnicity, 1992 and 2004
+1992
+2004
+Percentage of change, 1992-2004
+Incidence (per 100,000)
+Rate
+Population (%)
+Rate
+Population (%)
+Rate
+Population (%)
+White
+373.3
+76.0
+343.4
+70.1
+8.0
+7.8
+Black
+313.1
+7.9
+313.7
+8.4
+0.2
+6.2
+API
+228.8
+7.6
+226.2
+10.6
+1.2
+39.7
+AI/AN
+249.0
+0.5
+222.1
+0.6
+10.8
+29.4
+Hispanic
+233.1
+8.0
+226.8
+10.3
+2.7
+28.3
+Total
+346.8
+100.0
+316.5
+100.0
+8.7
+Late stage at diagnosis*
+>Local (%) Population (%) >Local (%) Population (%)
+>Local (%)
+Population (%)
+White
+34.9
+76.0
+35.8
+70.1
+2.7
+7.8
+Black
+48.0
+7.9
+44.1
+8.4
+8.0
+6.2
+API
+35.8
+7.6
+33.6
+10.6
+5.9
+39.7
+AI/AN
+39.4
+0.5
+36.0
+0.6
+8.6
+29.4
+Hispanic
+40.7
+8.0
+42.5
+10.3
+4.4
+28.3
+Total
+36.2
+100.0
+36.9
+100.0
+1.8
+Without mammographyc
+%
+Population (%)
+Rate
+Population (%)
+Rate
+Population (%)
+White
+43.4
+83.4
+29.7
+79.4
+31.6
+4.8
+Black
+46.1
+9.5
+32.7
+9.4
+29.0
+0.4
+Other race
+70.4
+2.5
+42.3
+4.1
+39.9
+61.5
+Hispanic
+53.3
+4.6
+37.1
+7.1
+30.5
+53.6
+Total
+44.8
+100.0
+31.0
+100.0
+30.8
+Mortality (per 100,000)
+Rate
+Population (%)
+Rate
+Population (%)
+Rate
+Population (%)
+White
+94.5
+84.3
+74.0
+79.7
+21.7
+5.5
+Black
+102.7
+9.0
+92.4
+9.5
+10.0
+5.5
+API
+46.0
+0.5
+45.8
+0.7
+0.4
+40.4
+AI/AN
+36.8
+2.1
+36.6
+3.5
+0.5
+68.1
+Hispanic
+56.5
+4.1
+47.7
+6.7
+15.6
+62.0
+Total
+92.7
+100.0
+73.0
+100.0
+21.3
+Cause-specific probability of death
+(% dying of their cancer within 5 y)b
+%
+Cases (%)
+%
+Cases (%)
+%
+Cases (%)
+White
+13.7
+81.5
+11.1
+78.5
+18.9
+3.8
+Black
+25.5
+7.3
+21.0
+7.5
+17.7
+2.2
+API
+12.1
+5.3
+8.9
+7.1
+26.0
+34.9
+AI/AN
+18.2
+0.4
+14.3
+0.4
+21.3
+1.1
+Hispanic
+16.0
+5.5
+13.1
+6.6
+17.9
+19.9
+Total
+14.6
+100.0
+11.9
+100.0
+19.0
+NOTE: Hispanic is not mutually exclusive of White, Black, API, and AI/AN.
+* Percentage of incident cases diagnosed beyond the localized stage.
+cPercentage of women reporting not having a mammogram in the past 2 y.
+bPercent of incident cases dying of their cancer within 5 y of diagnosis. Estimates are for the 5-y cause-specific probability of death in 1997 (cases
+diagnosed from 1992-1996) and 2004 (cases diagnosed from 1999-2003).
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+125
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+(<10% poverty), but rates of mammography use were
+lowest among the more disadvantaged groups, which is
+likely to contribute to their higher rates of late stage at
+diagnosis and 5-year cause-specific probability of death.
+Table 2 shows rates and population distribution in
+1992 and 2004 according to race-ethnicity, and Fig. 2
+(bottom) shows race-ethnic–specific trends for the entire
+period. In general terms, improvements in breast
+cancer–related outcomes were larger for screening,
+mortality, and the 5-year cause-specific probability of
+death, and somewhat smaller for incidence and late stage
+at diagnosis. Incidence rates were highest for Whites
+whereas Blacks generally had the highest mortality rates,
+fraction of cases diagnosed beyond the local stage, and
+5-year cause-specific probability of death.
+Changes in area-socioeconomic disparities are shown
+in Table 3 (top). For measures of both relative and
+absolute disparity, the table shows estimates of disparity
+for the first and last years of data, the absolute change in
+each disparity measure and its 95% CI, and the
+percentage change for each of the five outcomes. In
+1987, breast cancer incidence and mortality were rela-
+tively more concentrated among the better-off socioeco-
+nomic groups (indicated by a positive RCI), whereas late
+stage at diagnosis, absence of screening, and 5-year
+cause-specific probability of death were more concen-
+trated among the worse-off groups (indicated by a
+negative RCI). From 1987 to 2004, the RCI for all
+outcomes other than screening moved toward 0, indicat-
+ing that area-socioeconomic disparities had declined.
+This was most notable for mortality, in which the RCI
+significantly declined by 103% from 3.3 to 0.1, whereas
+the declines for incidence and late stage at diagnosis
+were f30%. If disparities are looked at on the absolute
+scale, the picture looked much the same, if not better. The
+ACI declined by roughly 35% for incidence and stage,
+20% for the 5-year cause-specific probability of death,
+and 102% for mortality, the latter of which was
+statistically different from zero. In contrast to the other
+outcomes, relative socioeconomic disparities in screening
+increased by 161% (i.e., the RCI became more negative),
+from 5.5 in 1987 to 14.3 in 2004. However, this large
+relative increase should be put in the context of large
+improvements in screening mammography for all
+groups. As a result, in terms of absolute disparity, the
+ACI for screening showed a slight 11% increase.
+Figure 3 (top) shows the trends in measures of absolute
+and relative disparity over the entire period and shows
+that the changes observed in Table 3 generally occurred
+gradually, with the exception of disparity trends in
+incidence. Area-socioeconomic disparities in incidence
+increased during the 1990s and but declined after 2000 to
+levels below that observed in 1987. Figure 3 (right) shows
+all of the relative disparity measures moving closer to
+zero with the exception of screening, whereas on the
+absolute scale (left), the area-socioeconomic disparity
+situation in 2004 was generally better than in 1987,
+particularly for mortality.
+Table 3. Change in relative and absolute area-socioeconomic disparity and race-ethnic disparity in female breast
+cancer incidence, stage at diagnosis, mammography, mortality, and 5-y cause-specific death rates among those
+ages 50 and over from 1987 to 2004
+Incidence
+Late stage at
+diagnosis*
+Without
+mammographyc
+Mortality
+5-y cause-specific
+probability of deathb
+Area-socioeconomic positionx
+Absolute disparity
+ACI, 1987
+9.8
+1.0
+4.0
+3.1
+0.8
+ACI, 2004
+6.4
+0.6
+4.4
+0.1
+0.6
+Absolute change, 1987-2004
+3.4
+0.4
+0.5
+3.2
+0.2
+95% CI for absolute change
+7.9 to 1.2
+0.3 to 1.1
+1.8 to 0.9
+3.9 to 2.5
+0.1 to 0.4
+Percentage of change, 1987-2004
+34.5
+38.6
+10.7
+102.3
+19.7
+Relative disparity
+RCI (100), 1987
+2.7
+2.3
+5.5
+3.3
+4.7
+RCI (100), 2004
+1.9
+1.7
+14.3
+0.1
+5.3
+Absolute change 1987-2004
+0.8
+0.6
+8.8
+3.4
+1.5
+95% CI for absolute change
+2.0 to 0.5
+1.1 to 2.4
+12.5 to 5.2
+4.2 to 2.5
+0.5 to 2.4
+Percentage of change, 1987-2004
+28.4
+27.3
+161.4
+103.0
+11.3
+Race-ethnicity
+Absolute disparity
+BGV, 1992
+2,756.9
+13.9
+21.8
+139.9
+9.8
+BGV, 2004
+2,252.0
+9.6
+9.5
+129.9
+7.4
+Absolute change, 1992-2004
+504.8
+4.4
+12.3
+10.0
+2.4
+95% CI for absolute change
+1,099.6 to 89.9
+12.1 to 3.3
+32.9 to 8.4
+33.8 to 13.8
+5.2 to 0.3
+Percentage of change, 1992-2004
+18.3
+31.3
+56.3
+7.1
+24.8
+Relative disparity
+MLD (1,000), 1992
+14.0
+4.9
+4.2
+12.5
+16.6
+MLD (1,000), 2004
+13.2
+3.4
+4.3
+15.5
+19.5
+Absolute change, 1992-2004
+0.8
+1.5
+0.1
+3.0
+2.9
+95% CI for change
+4.3 to 2.7
+4.1 to 1.1
+4.6 to 4.7
+0.1 to 5.9
+2.4 to 8.2
+Percentage of change, 1992-2004
+5.7
+30.8
+1.4
+24.0
+17.2
+* Percentage of incident cases diagnosed beyond the localized stage.
+cPercentage of women reporting not having a mammogram in the past 2 y.
+bPercentage of incident cases dying of their cancer within 5 y of diagnosis. First year estimates of 5-y cause-specific probability of death occur in 1992
+(cases diagnosed from 1987 to 1991) for area-socioeconomic position and 1997 (cases diagnosed from 1992 to 1996) for race-ethnicity.
+x For incidence, stage at diagnosis, and mortality, socioeconomic position was based on the proportion of the population in poverty in 1990 in the county of
+residence for each incident case. For screening, socioeconomic position was based on quartiles of household income.
+Trends in Breast Cancer Disparities
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+126
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+Changes in race-ethnic disparities from 1992 to 2004
+are shown in Table 3 (bottom). Relative disparities in
+1992 were smallest for absence of screening (MLD =
+4.2) and late stage at diagnosis (MLD = 4.9), somewhat
+larger for breast cancer incidence (MLD = 14.0) and
+mortality (MLD = 12.5), and largest for the 5-year
+cause-specific
+probability
+of
+death
+(MLD
+=
+16.6).
+Relative race-ethnic disparities in incidence and ab-
+sence of screening remained approximately the same
+between 1992 and 2004, declined by 31% for late
+stage
+at
+diagnosis,
+and
+increased
+24%
+and
+17%,
+respectively, for mortality and the 5-year cause-specific
+probability of death. However, when measured on
+the absolute scale, race-ethnic disparities declined for
+all
+five
+breast
+cancer
+outcomes,
+with
+the
+largest
+proportional reduction in BGV for screening (56%
+decline) and the smallest for mortality (7% percent
+decline).
+Figure 3 (bottom) shows absolute and relative disparity
+trends for race-ethnicity. The left graph plots the
+percentage of change in the BGV relative to its first
+observed value and shows that absolute disparity
+trends in late stage at diagnosis, 5-year cause-specific
+probability of death, and mortality have generally
+declined since the early 1990s. Absolute disparities in
+screening declined sharply after 1992 and have remained
+relatively constant thereafter. However, the trends for
+incidence show that the overall change masked two
+opposing subtrends: the BGV increased 54% (95% CI, 27-
+81%) from 1992 to 2001 but declined sharply by 47% (95%
+CI, 31-63%) from 2001 to 2004 (results not shown). A
+similar pattern was evident for relative disparity in
+incidence: the MLD increased 41% (95% CI, 13-69%) from
+1992 to 2001 but declined by 33% (95% CI, 14-52%) from
+2001 to 2004 (results not shown). Relative disparity in
+mortality showed a similar although less striking pattern
+Figure
+3.
+Relative
+changes from 1987 to
+2004 in absolute and rel-
+ative area-socioeconomic
+and race-ethnic disparity
+in breast cancer incidence,
+stage at diagnosis, screen-
+ing, mortality, and 5-y
+cause-specific probability
+of death among those
+aged 50 and over. The
+calendar year for the 5-y
+cause-specific probability
+of death refers to the data
+year for cases diagnosed
+in the previous 5 y (e.g.,
+2004 on the graph refers
+to cases diagnosed from
+1999 to 2003).
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+127
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+in which the MLD increased during the 1990s but has
+declined since 2000.
+Discussion
+Looking across the entire range of social groups defined
+by area-socioeconomic position, we find that disparities
+in breast cancer–related outcomes have generally
+narrowed since 1987, whether measured on the relative
+or absolute scale. The only exceptions to this pattern for
+area-socioeconomic position were for the 5-year cause-
+specific probability of death and mammography screen-
+ing. Absolute disparities in the 5-year cause-specific
+probability of death significantly declined but relative
+disparities rose slightly, indicating that all groups made
+progress but more advantaged groups improved at a
+slightly faster rate. For mammography, absolute dispar-
+ity remained relatively constant but relative disparity
+increased substantially. Other studies have also noted
+persistent or widening socioeconomic differences in
+mammography, but declining race-ethnic disparities
+(31, 32). The constant level of absolute disparity reflects
+population-wide improvements that have been made in
+cancer screening in the United States since the early 1980s
+(32), but increasing relative disparity also highlights the
+relatively slower uptake of screening over time by lower-
+income groups. Lack of health insurance and having a
+usual source of health care are likely to be important
+barriers to mammography among low-income women,
+and there is evidence that even relatively high-income
+women without health insurance are less likely to receive
+mammograms (33). Among women with access to care,
+wealthier women are more likely to get mammograms,
+regardless of prognosis (34). Systematic reviews suggest
+that both access-enhancing (e.g., providing transporta-
+tion, vouchers) and individual-directed (e.g., counseling,
+reminders) interventions are effective in increasing
+mammography use among lower-income women
+(35, 36). Applied more widely, such interventions could
+help to reduce socioeconomic disparities that still exist for
+stage at diagnosis and cause-specific survival rates.
+Although overall we found relative race-ethnic dis-
+parities in incidence were stable between 1992 and 2004,
+this masked general increases during the 1990s and a
+sharp decline in absolute and relative disparity since
+2001. This recent decline is largely attributable to a steep
+decline in incidence in recent years, particularly among
+White women, the group with the highest incidence rates.
+Previous reports have documented sharp declines for
+breast cancer incidence in the United States in recent
+years, particularly since 2003 (1, 37). Although some of
+the decline in incidence is potentially attributable to
+recent declines in the rates of screening mammography
+(38, 39), the mammography declines do not differ
+substantially by race and are unlikely to be large
+enough to account for the recent decline in incidence
+(37, 40). Furthermore, there is evidence of similarly
+strong declines in incidence among screened populations
+(41, 42). A more likely reason may be the sharp declines in
+the use of postmenopausal hormone replacement therapy
+(37, 40), which dropped precipitously after the results of
+the Women’s Health Initiative Trial were reported in 2002
+(43). Estrogen likely acts as a tumor promoter rather than
+a direct cause of breast cancer, providing the ‘‘fuel’’ for
+tumor growth (40, 44, 45); thus, stopping hormone
+replacement therapy may slow the growth of tumors that
+would otherwise be detected. Given that rates of hormone
+replacement therapy are typically lower among Black
+than White women (46), larger declines in incidence
+among White women would be expected. In addition, the
+recent drop in incidence seems to be larger for estrogen
+receptor-positive (ER+) breast cancers (37, 39, 41, 42), and
+White women seem more likely than Black women to
+have ER+ tumors (47, 48).
+Although the bulk of breast cancer–related outcomes
+showed improvement in terms of race-ethnic disparity,
+for mortality, relative disparity increased significantly
+with little improvement in absolute disparity. This was
+largely due to slower mortality declines among Black
+women, whose mortality rates declined 10% from 1992 to
+2004, compared with a 22% decrease among White
+women (see Table 2). Several other studies have also
+noted widening disparities between Blacks and Whites
+for breast cancer mortality and survival since the early
+1980s (21, 49-52). A large body of evidence suggests that
+multiple factors are associated with poorer survival
+among Black women, including historically lower rates
+of mammography screening (53), poorer access to health
+insurance (54), later stage at diagnosis (55), decreased
+likelihood of receiving stage-appropriate treatment
+(56-61), more comorbid conditions (59, 62), and higher
+rates of obesity (48). More recent studies have also
+documented that Black women are more likely to present
+with breast cancer subtypes or tumor characteristics
+associated with a poorer prognosis such as ER negativity,
+poorer differentiation, and greater lymph node in-
+volvement (47, 48, 59, 63, 64). Socioeconomic differences
+between race-ethnic groups are also likely to play a role in
+the observed race-ethnic mortality and survival dispar-
+ities (56, 65), but a recent meta-analysis of breast cancer
+survival studies (66) found that a 27% increased mortality
+risk among Black women remained after adjustment for
+socioeconomic position. However, many studies included
+only area-based measures or used a single individual
+measure of socioeconomic position, and residual differ-
+ences between race-ethnic groups in lifelong exposure to
+differing socioeconomic environments are likely to
+remain (67-69). Furthermore, studies from clinical trials
+with standardized treatment have generally not shown
+race to be a prognostic factor after adjustment for stage,
+tumor characteristics, and socioeconomic position (65).
+The extent to which these factors may account for the
+observed increase in relative disparity in mortality is
+unclear and it seems unlikely that any single factor can
+fully explain the trends. Trends in health insurance status
+(70) do not seem to differ substantially enough to account
+for the slower mortality declines among Blacks. In
+addition, race-ethnic survival disparities are also evident
+among insured populations with access to medical care
+(71), and there is evidence of widening relative disparities
+among women where access to care is free (50). Race-ethnic
+disparities in mammography and stage at diagnosis have
+generally declined, making them unlikely explanations for
+widening relative disparities in mortality. Increases in both
+screening mammography and adjuvant therapy (tamoxi-
+fen and chemotherapy) made important contributions to
+the decline in breast cancer mortality since the mid-1980s
+(72-74), and studies have generally shown that Blacks
+and Whites derive similar benefits from therapy when
+administered appropriately for stage and disease presen-
+Trends in Breast Cancer Disparities
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+128
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+tation (75). However, changes in the availability and access
+to different types of adjuvant therapy and its relationship
+to tumor characteristics could play some role in the trends
+we observed. Jatoi and colleagues recently reported that
+declines in ER+ breast cancer mortality were roughly twice
+as large as for ER cancers from 1990 to 2003 (76), and
+suggested that this differential decline may be due to the
+widespread adoption of tamoxifen, which is highly
+effective in ER+ cancers but less so for ER disease (77).
+Thus, it may be that higher proportions of ER disease
+among Black women may play some role in the slower
+mortality declines, but a detailed examination of mortality
+trends by race-ethnicity and tumor characteristics would
+seem warranted.
+Our analysis has some limitations. We restricted our
+analysis to women aged 50 and over to focus on both
+mammography screening and on age groups that account
+for the bulk of breast cancer cases. Analyses using younger
+age groups could generate different disparity trends.
+Our estimates of declines in area-socioeconomic
+disparities in breast cancer mortality are generally
+consistent with previous studies (78, 79). However, with
+the exception of data on mammography use from the
+NHIS, measures of individual level socioeconomic
+position were unavailable and it is possible that
+disparities in outcomes based on individual socioeco-
+nomic position would give different results. Heck and
+colleagues found individual education positively associ-
+ated with postmenopausal breast cancer incidence in the
+National Health and Nutrition Examination Survey I
+Epidemiologic Follow-up Study (80). Using individual
+data, Steenland and colleagues showed a generally weak
+but positive education gradient in breast cancer mortal-
+ity, which weakened slightly over time, in the Cancer
+Prevention Studies (81), and a positive gradient based on
+individual occupational status among 27 U.S. states (82).
+However, a recent analysis of 2001 vital statistics data
+from the United States using individual education found
+that the relative risk of breast cancer death was 40% to
+60% higher among women with <12 years of education
+compared to those with >12 years (83), and a similar
+analysis found the annual percentage change in breast
+cancer mortality from 1993 to 2003 was 1.4% for women
+with <12 years of education compared with 4.3% for
+women with 16 or more years (84).
+We also used summary measures of health disparity in
+our analysis, which attempt to quantify disparities across
+all subgroups within a social group such as socioeco-
+nomic position or race-ethnicity. Analyses comparing
+specific groups or using alternative summary measures
+or different definitions of outcomes could produce
+different results (85). However, we also analyzed the
+data using alternative summary measures and found
+results generally similar to those reported here (available
+from the authors upon request).
+In summary, our analysis is generally suggestive
+of
+progress
+toward
+disparity-related
+goals
+for
+breast cancer in terms of race-ethnicity and area-
+socioeconomic position, especially when measured on
+the absolute scale. This is likely due to a combination
+of population-wide improvements in mammography
+screening
+and
+the
+development
+and
+application
+of effective treatment options that has taken place
+over the past two decades. However, we also identified
+important areas in which greater progress is needed,
+particularly for socioeconomic disparities in mammog-
+raphy and race-ethnic disparities in mortality and
+5-year cause-specific death rates. These disparities
+should remain a priority for breast cancer research,
+treatment, and policymaking.
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+Acknowledgments
+The costs of publication of this article were defrayed in part by
+the payment of page charges. This article must therefore be
+hereby marked advertisement in accordance with 18 U.S.C.
+Section 1734 solely to indicate this fact.
+References
+1.
+Howe HL, Wu X, Ries LAG, et al. Annual report to the nation on the
+status of cancer, 1975–2003, featuring cancer among U.S. Hispanic/
+Latino populations. Cancer 2006;107:1711– 42.
+2.
+Newman LA, Martin IK. Disparities in breast cancer. Curr Probl
+Cancer 2007;31:134–56.
+3.
+Bigby J, Holmes MD. Disparities across the breast cancer continuum.
+Cancer Causes Control 2005;16:35–44.
+4.
+U.S. Department of Health and Human Services. Healthy People
+2010: understanding and improving health. Washington, DC: U.S.
+Department of Health and Human Services; 2000.
+5.
+National Institutes of Health. The NCI strategic plan for leading the
+nation to eliminate the suffering and death due to cancer.
+Washington DC: National Cancer Institute U.S. Department of
+Health and Human Services; 2006.
+6.
+Krieger N. Defining and investigating social disparities in cancer:
+critical issues. Cancer Causes Control 2005;16:5–14.
+7.
+Clegg LX, Li FP, Hankey BF, Chu K, Edwards BK. Cancer survival
+among US whites and minorities: a SEER (Surveillance, Epidemiol-
+ogy, and End Results) program population-based study. Arch Intern
+Med 2002;162:1985–93.
+8.
+Jemal A, Clegg LX, Ward E, et al. Annual report to the nation on the
+status of cancer, 1975 – 2001, with a special feature regarding
+survival. Cancer 2004;101:3–27.
+9.
+SEER*Stat software (http://seer.cancer.gov/seerstat/) [computer
+program]. Version 6.4.4. Bethesda, MD: National Cancer Institute;
+2008.
+10. National Cancer Institute. Race recode changes 2007; Available at:
+http://seer.cancer.gov/seerstat/variables/seer/yr1973_2005/race_-
+ethnicity/[last accessed July 18, 2008].
+11. Keppel KG, Pearcy JN. Measuring relative disparities in terms of
+adverse events. J Public Health Manag Pract 2005;11:479– 83.
+12. Keppel K, Pamuk E, Lynch J, et al. Methodological issues in measuring
+health disparities. Vital Health Stat 2005;2(121):1–16.
+13. U.S. Department of Health and Human Services. Healthy People
+2010: understanding and improving health. Washington (DC): U.S.
+Dept. of Health and Human Services; 2000.
+14. Howe HL, Jamison M, Havener L, Chen VW, Reis L; NAACCR
+Collaborative Research Work Group. Site-specific comparison of
+Summary Stage 1977 and Summary Stage 2000 Coding.; available at:
+http://www.naaccr.org/filesystem/pdf/EOD_SS_All%20site-
+s%20ALL.pdf [last accessed July 24, 2007].
+15. National Cancer Institute. Measures of cancer survival. 2006 July 28;
+Available at: http://srab.cancer.gov/survival/measures.html [last
+accessed July 18, 2008].
+16. Kaplan EL, Meier P. Nonparametric-estimation from incomplete
+observations. J Am Stat Assoc 1958;53:457– 81.
+17. Cronin K, Feuer E, Wesley M, Mariotto A, Scoppa S, Green D.
+Current estimates for 5 and 10 year relative survival. Technical report
+no. 2003-04. Bethesda, MD: National Cancer Institute, Statistical
+Research and Applications Branch; 2003. Available at: http://
+srab.cancer.gov/reports.
+18. Singh GK, Miller BA, Hankey BF, Feuer EJ, Pickle LW. Changing area
+socioeconomic patterns in U.S. cancer mortality, 1950-1998: Part I—
+all cancers among men. J Natl Cancer Inst 2002;94:904– 15.
+19. Singh GK, Miller BA, Hankey BF, Edwards BK. Area socio-
+economic variations in U.S. cancer incidence, mortality, stage,
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+129
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+treatment,
+and
+survival,
+1975-1999.
+Bethesda
+(MD):
+National
+Cancer Institute; 2003.
+20. Singh GK, Siahpush M. Widening socioeconomic inequalities in US
+life expectancy, 1980-2000. Int J Epidemiol 2006;35:969–79.
+21. Smigal C, Jemal A, Ward E, et al. Trends in breast cancer by race and
+ethnicity: update 2006. CA Cancer J Clin 2006;56:168–83.
+22. Ries LAG, Melbert D, Krapcho M, et al. SEER Cancer Statistics
+Review, 1973–2004. National Cancer Institute, Bethesda, MD 2007;
+Available at: http://seer.cancer.gov/csr/1975_2004/[last accessed
+July 18, 2008].
+23. National Cancer Institute. Policy for calculating Hispanic mortality
+2007; Available at: http://seer.cancer.gov/seerstat/variables/mort/
+origin_recode_1990+/yr1969_2004/[last accessed July 18, 2008].
+24. Harper S, Lynch J. Methods for measuring cancer disparities: a
+review using data relevant to Healthy People 2010 cancer-related
+objectives. NCI Cancer Surveillance Monograph Series no. 6.
+Washington DC: National Cancer Institute; 2006. http://seer.can-
+cer.gov/publications/disparities/.
+25. Harper S, Lynch J. Selected comparisons of measures of health
+disparities using databases containing data relevant to Healthy
+People 2010 cancer-related objectives. NCI Cancer Surveillance
+Monograph Series no. 7. Washington (DC): National Cancer
+Institute; 2007.
+26. Kakwani N, Wagstaff A, van Doorslaer E. Socioeconomic inequalities
+in health: measurement, computation, and statistical inference.
+J Econometrics 1997;77:87–103.
+27. Sen AK, Foster JE. On economic inequality. Expanded ed. Oxford:
+Clarendon Press; 1997.
+28. Firebaugh G. The new geography of global income inequality.
+Cambridge (MA): Harvard University Press; 2003.
+29. Keppel KG, Pearcy JN, Klein RJ. Measuring progress in Healthy
+People 2010. 2004; (PHS) 2004–1237.
+30. Chiang CL. Standard error of the age-adjusted death rate. Vital Stat
+Spec Rep 1961;47(3):275– 85.
+31. Schootman M, Jeffe DB, Reschke AH, Aft RL. Disparities related to
+socioeconomic status and access to medical care remain in the United
+States among women who never had a mammogram. Cancer Causes
+Control 2003;14:419–25.
+32. Breen N, Wagener DK, Brown ML, Davis WW, Ballard-Barbash R.
+Progress in cancer screening over a decade: results of cancer
+screening from the 1987, 1992, and 1998 National Health Interview
+Surveys. J Natl Cancer Inst 2001;93:1704 –13.
+33. Ross JS, Bradley EH, Busch SH. Use of health care services by
+lower-income and higher-income uninsured adults. JAMA 2006;
+295:2027–36.
+34. Williams BA, Lindquist K, Sudore RL, Covinsky KE, Walter LC.
+Screening mammography in older women: effect of wealth and
+prognosis. Arch Intern Med 2008;168:514 –20.
+35. Legler J, Meissner HI, Coyne C, Breen N, Chollette V, Rimer BK. The
+effectiveness of interventions to promote mammography among
+women with historically lower rates of screening. Cancer Epidemiol
+Biomarkers Prev 2002;11:59– 71.
+36. Bailey TM, Delva J, Gretebeck K, Siefert K, Ismail A. A systematic
+review of mammography educational interventions for low-income
+women. Am J Health Promot 2005;20:96 –107.
+37. Ravdin PM, Cronin KA, Howlader N, et al. The decrease in breast-
+cancer incidence in 2003 in the United States. N Engl J Med 2007;356:
+1670–4.
+38. Breen N, Cronin KA, Meissner HI, et al. Reported drop in
+mammography:
+is
+this
+cause
+for
+concern?
+Cancer
+2007;109:
+2405–9.
+39. Jemal A, Ward E, Thun M. Recent trends in breast cancer incidence
+rates by age and tumor characteristics among U.S. women. Breast
+Cancer Res 2007;9:R28.
+40. Berry DA, Ravdin PM. Breast cancer trends: a marriage between
+clinical trial evidence and epidemiology. J Natl Cancer Inst 2007;99:
+1139–41.
+41. Glass AG, Lacey JV, Jr., Carreon JD, Hoover RN. Breast cancer
+incidence, 1980 – 2006: combined roles of menopausal hormone
+therapy, screening mammography, and estrogen receptor status.
+J Natl Cancer Inst 2007;99:1152 –61.
+42. Kerlikowske K, Miglioretti DL, Buist DSM, Walker R, Carney PA.
+Declines in invasive breast cancer and use of postmenopausal
+hormone therapy in a screening mammography population. J Natl
+Cancer Inst 2007;99:1335 –9.
+43. Hersh AL, Stefanick ML, Stafford RS. National use of postmenopau-
+sal hormone therapy: annual trends and response to recent evidence.
+JAMA 2004;291:47 –53.
+44. Sturmer T, Manson JE. Estrogens and breast cancer: does timing
+really matter? J Clin Epidemiol 2004;57:763–5.
+45. Wiseman RA. Breast cancer: critical data analysis concludes that
+estrogens are not the cause, however lifestyle changes can alter risk
+rapidly. J Clin Epidemiol 2004;57:766–72.
+46. Friedman-Koss D, Crespo C, Bellantoni MF, Andersen RE. The
+relationship
+of
+race/ethnicity
+and
+social
+class
+to
+hormone
+replacement therapy:
+results
+from
+the
+Third
+National Health
+and Nutrition Examination Survey 1988-1994. Menopause 2002;9:
+264–72.
+47. Morris GJ, Naidu S, Topham AK, et al. Differences in breast
+carcinoma characteristics in newly diagnosed African-American
+and Caucasian patients: a single-institution compilation compared
+with the National Cancer Institute’s Surveillance, Epidemiology, and
+End Results database. Cancer 2007;110:876 –84.
+48. Chlebowski RT, Chen Z, Anderson GL, et al. Ethnicity and breast
+cancer: factors influencing differences in incidence and outcome.
+J Natl Cancer Inst 2005;97:439 –48.
+49. Hirschman J, Whitman S, Ansell D. The black:white disparity in
+breast cancer mortality: the example of Chicago. Cancer Causes
+Control 2007;18:323 –33.
+50. Jatoi I, Becher H, Leake CR. Widening disparity in survival between
+white and African-American patients with breast carcinoma treated
+in the U.S. Department of Defense Healthcare System. Cancer 2003;
+98:894–9.
+51. Chu KC, Tarone RE, Brawley OW. Breast cancer trends of black
+women compared with white women. Arch Fam Med 1999;8:521 –8.
+52. Hershman D, McBride R, Jacobson JS, et al. Racial disparities in
+treatment and survival among women with early-stage breast cancer.
+J Clin Oncol 2005;23:6639 –46.
+53. McCarthy EP, Burns RB, Coughlin SS, et al. Mammography use
+helps to explain differences in breast cancer stage at diagnosis
+between older black and white women. Ann Intern Med 1998;128:
+729–36.
+54. Ayanian JZ, Kohler BA, Abe T, Epstein AM. The relation between
+health insurance coverage and clinical outcomes among women with
+breast cancer. N Engl J Med 1993;329:326 –31.
+55. Chu
+KC,
+Lamar
+CA,
+Freeman
+HP.
+Racial
+disparities
+in
+breast
+carcinoma
+survival
+rates—separating
+factors
+that
+affect
+diagnosis
+from
+factors
+that
+affect
+treatment.
+Cancer
+2003;97:
+2853–60.
+56. Bradley CJ, Given CW, Roberts C. Race, socioeconomic status,
+and breast cancer treatment and survival. J Natl Cancer Inst 2002;
+94:490–6.
+57. Li CI, Malone KE, Daling JR. Differences in breast cancer stage,
+treatment, and survival by race and ethnicity. Arch Intern Med 2003;
+163:49–56.
+58. Bickell NA, Wang JJ, Oluwole S, et al. Missed opportunities: racial
+disparities in adjuvant breast cancer treatment. J Clin Oncol 2006;24:
+1357–62.
+59. Banerjee M, George J, Yee C, Hryniuk W, Schwartz K. Disentangling
+the effects of race on breast cancer treatment. Cancer 2007.
+60. Breen N, Wesley MN, Merrill RM, Johnson K. The relationship
+of
+socio-economic
+status
+and
+access
+to
+minimum
+expected
+therapy among female breast cancer patients in the National
+Cancer Institute Black-White Cancer Survival Study. Ethn Dis
+1999;9:111 –25.
+61. Smedley BD, Stith AY, Nelson AR. Unequal treatment: confronting
+racial and ethnic disparities in health care. Washington (DC):
+National Academy Press; 2003.
+62. Tammemagi CM, Nerenz D, Neslund-Dudas C, Feldkamp C,
+Nathanson
+D.
+Comorbidity
+and
+survival
+disparities
+among
+black and white patients with breast cancer. JAMA 2005;294:
+1765–72.
+63. Carey LA, Perou CM, Livasy CA, et al. Race, breast cancer subtypes,
+and survival in the Carolina Breast Cancer Study. JAMA 2006;295:
+2492–502.
+64. Bauer KR, Brown M, Cress RD, Parise CA, Caggiano V. Descriptive
+analysis of estrogen receptor (ER)-negative, progesterone receptor
+(PR)-negative, and HER2-negative invasive breast cancer, the so-
+called triple-negative phenotype: a population-based study from the
+California cancer Registry. Cancer 2007;109:1721–8.
+65. Cross CK, Harris J, Recht A. Race, socioeconomic status, and breast
+carcinoma in the U.S.: what have we learned from clinical studies.
+Cancer 2002;95:1988 –99.
+66. Newman LA, Griffith KA, Jatoi I, Simon MS, Crowe JP, Colditz GA.
+Meta-analysis of survival in African American and White American
+patients with breast cancer: ethnicity compared with socioeconomic
+status. J Clin Oncol 2006;24:1342 –9.
+67. Braveman PA, Cubbin C, Egerter S, et al. Socioeconomic status
+in health research: one size does not fit all. JAMA 2005;294:
+2879–88.
+Trends in Breast Cancer Disparities
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+130
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+
+68. Krieger N, Davey Smith G. ‘‘Bodies count’’, and body counts: social
+epidemiology and embodying inequality. Epidemiol Rev 2004;26:
+92– 103.
+69. Kaufman JS, Cooper RS, McGee DL. Socioeconomic status and health
+in blacks and whites: the problem of residual confounding and the
+resiliency of race. Epidemiology 1997;8:621– 8.
+70. National Center for Health Statistics. Health, United States, 2006 with
+Chartbook on Trends in the Health of Americans. Hyattsville (MD):
+National Center for Health Statistics; 2006.
+71. Field TS, Buist DS, Doubeni C, et al. Disparities and survival among
+breast cancer patients. J Natl Cancer Inst Monogr 2005;35:88 –95.
+72. Berry DA, Cronin KA, Plevritis SK, et al. Effect of screening and
+adjuvant therapy on mortality from breast cancer. N Engl J Med 2005;
+353:1784–92.
+73. Gøtzsche PC, Nielsen M. Screening for breast cancer with mammo-
+graphy. Cochrane Database Syst Rev 2006;Art. No.: CD001877. DOI:
+10.1002/14651858.CD001877.pub2.
+74. Freedman DA, Petitti DB, Robins JM. On the efficacy of screening for
+breast cancer. Int J Epidemiol 2004;33:43–55.
+75. Dignam JJ. Efficacy of systemic adjuvant therapy for breast cancer in
+African-American and Caucasian women. J Natl Cancer Inst Monogr
+2001;30:36 –43.
+76. Jatoi I, Chen BE, Anderson WF, Rosenberg PS. Breast cancer
+mortality trends in the United States according to estrogen receptor
+status and age at diagnosis. J Clin Oncol 2007;25:1683–90.
+77. Early Breast Cancer Trialists’ Collaborative Group. Effects of
+chemotherapy and hormonal therapy for early breast cancer on
+recurrence and 15-year survival: an overview of the randomised
+trials. Lancet 2005;365:1687–717.
+78. Heck KE, Wagener DK, Schatzkin A, Devesa SS, Breen N. Socio-
+economic status and breast cancer mortality, 1989 through 1993: an
+analysis of education data from death certificates. Am J Public Health
+1997;87:1218 –22.
+79. Wagener DK, Schatzkin A. Temporal trends in the socioeconomic
+gradient for breast cancer mortality among US women. Am J Public
+Health 1994;84:1003 –6.
+80. Heck KE, Pamuk ER. Explaining the relation between education and
+postmenopausal breast cancer. Am J Epidemiol 1997;145:366 –72.
+81. Steenland K, Henley J, Thun M. All-cause and cause-specific death
+rates by educational status for two million people in two American
+Cancer Society cohorts, 1959–1996. Am J Epidemiol 2002;156:11–21.
+82. Steenland K, Henley J, Calle E, Thun M. Individual- and area-level
+socioeconomic status variables as predictors of mortality in a cohort
+of 179,383 persons. Am J Epidemiol 2004;159:1047 –56.
+83. Albano JD, Ward E, Jemal A, et al. Cancer mortality in the United
+States by education level and race. J Natl Cancer Inst 2007;99:1384 –94.
+84. Kinsey T, Jemal A, Liff J, Ward E, Thun M. Secular trends in
+mortality from common cancers in the United States by educational
+attainment, 1993-2001. J Natl Cancer Inst 2008;100:1003 –12.
+85. Harper S, Lynch J, Meersman SC, Breen N, Davis WW, Reichman
+ME. An overview of methods for monitoring social disparities in
+cancer with an example using trends in lung cancer incidence by
+area-socioeconomic position and race-ethnicity, 1992–2004. Am J
+Epidemiol 2008;167:889–99.
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2009;18(1). January 2009
+131
+Downloaded from http://aacrjournals.org/cebp/article-pdf/18/1/121/2268614/121.pdf by guest on 09 August 2026
+

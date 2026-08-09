@@ -1,0 +1,757 @@
+record_id=336 pmid=17627009 doi=10.1158/1055-9965.epi-07-0108
+SOURCE: manual-pdf
+TITLE: Early- and late-onset breast cancer types among women in the United States and Japan
+
+Early- and Late-Onset Breast Cancer Types Among
+Women in the United States and Japan
+Rayna K. Matsuno,1,5 William F. Anderson,1 Seiichiro Yamamoto,2 Hideaki Tsukuma,3
+Ruth M. Pfeiffer,1 Ken Kobayashi,4 Susan S. Devesa,1 and Paul H. Levine5
+1Biostatistics Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, Rockville, Maryland;
+2Statistics and Cancer Control Division, Research Center for Cancer Prevention and Screening, National Cancer Center;
+3Department of Cancer Control and Statistics, Osaka Medical Center for Cancer and Cardiovascular Diseases,
+Osaka, Japan; 4Oncology Early Clinical Development, Novartis Pharma KK, Tokyo, Japan; and 5Department
+of Epidemiology and Biostatistics, George Washington University, Washington, District of Columbia
+Abstract
+Background: Although differences in breast cancer incidence
+among Occidental and Asian populations are often attrib-
+uted to variations in environmental exposures and/or life-
+style, fewer studies have systematically examined the effect
+of age-related variations.
+Methods: To further explore age-related geographic breast
+cancer variations, we compared age-specific incidence pat-
+terns among cases of female invasive breast cancer from the
+Surveillance, Epidemiology, and End Results (SEER) pro-
+gram and the Osaka Cancer Registry (1978-1997).
+Results: In SEER, there were 236,130 Whites, 21,137 Blacks,
+and 3,304 Japanese-Americans in Hawaii with invasive breast
+cancer. In Osaka, there were 25,350 cases. Incidence rates per
+100,000 woman-years ranged from 87.6 among Whites to 21.8
+in Osaka. Age-specific incidence rates increased rapidly until
+age 50 years for all race/ethnicity groups, and then continued
+to increase more slowly for Whites, Blacks, and Japanese-
+Americans in Hawaii but plateaud for Osaka. Age-specific
+incidence rates in SEER reflected bimodal (early-onset and
+late-onset) breast cancer populations, whereas Osaka had
+only an early-onset age distribution. These age-specific
+differences in incidence among SEER and Osaka persisted
+after adjustment for calendar-period and birth-cohort effects
+using age-period-cohort models.
+Conclusions: Results confirm striking age-specific differ-
+ences among Occidental and native Japanese breast cancer
+populations, probably due to complex age-related biological
+and/or environmental variations among Occidental and
+Asian breast cancer populations.
+(Cancer Epidemiol Bio-
+markers Prev 2007;16(7):1437–42)
+Introduction
+Breast cancer incidence rates are generally higher in Occidental
+than in Asian populations (1-4), possibly due to a combination
+of environmental, lifestyle, and/or biological factors. For
+example, presumptive environmental and/or lifestyle factors
+shift breast cancer incidence among migrant Asian women
+from the baseline rate in their native country to the rate in their
+adopted country (5-8). Biological effects seem to alter the shape
+of the age-specific incidence rate curve among Occidental and
+native Asian women (1, 3, 4, 9-15). Among Occidental women,
+age-specific incidence rates increase rapidly until menopause,
+and then continue to increase more slowly. Among native
+Asian women, rates increase rapidly until menopause, and
+then plateau or decrease. These age-related biological effects
+have generated interest and debate for decades.
+In 1980, Moolgavkar et al. fit a two-stage breast cancer
+model to six high-risk and low-risk populations, including
+Connecticut and Osaka (14). The model viewed breast cancer
+as the end result of two discrete and irreversible events,
+without distinction for premenopausal (early-onset) and
+postmenopausal (late-onset) breast cancer types. In this model,
+among native Asian women, the late-onset drop in incidence
+was due to a birth-cohort artifact (1, 9) in which the
+progressive increase in risk from one generation to the next
+gives the appearance of a decreasing age-specific incidence
+rate curve. In 1981, Pike and colleagues developed the concept
+of breast tissue ‘‘aging,’’ modified by the timing of certain
+reproductive risk factors such as the age at menarche, first full-
+term pregnancy, and menopause (15). Still others have
+suggested that the different age-specific incidence rate patterns
+among different breast cancer populations result from the
+mixing of distinct breast cancer types according to age at onset
+(16-19). Rates that increase rapidly until age 50 years, and then
+flatten, reflect mostly early-onset breast cancer populations,
+whereas rates that increase continuously with aging result
+from mixed early-onset and late-onset breast cancer types.
+To further explore geographic age-related variations among
+Occidental, migrant Asian, and native Asian breast cancer
+populations, we examined age-specific incidence patterns
+(rates and age distributions) using data from the National
+Cancer Institute’s Surveillance, Epidemiology, and End Results
+(SEER) program and the Osaka Cancer Registry (OCR). To
+account for calendar-period and/or birth-cohort effects, we
+used age-period-cohort models to simultaneously adjust for
+age, calendar-period, and birth-cohort effects.
+Materials and Methods
+Subjects. Female breast cancer case data for Whites, Blacks,
+and Japanese-Americans in Hawaii (JAHI) were obtained from
+the SEER 9-Registry database (November 2004 submission;
+ref. 20). The SEER 9-Registry database includes data from San
+Francisco-Oakland, Connecticut, Detroit, Hawaii, Iowa, New
+Mexico, Seattle, Utah, and Atlanta, covering f10% of the U.S.
+population. Case data for native Japanese women were
+obtained from the OCR (21). The OCR is a population-based
+registry in Osaka Prefecture, the second most populous
+prefecture in Japan, covering f8 million people or f7% of
+1437
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Received 2/5/07; revised 4/16/07; accepted 4/20/07.
+Grant support: Intramural Research Program of the NIH/National Cancer Institute.
+The costs of publication of this article were defrayed in part by the payment of page charges.
+This article must therefore be hereby marked advertisement in accordance with 18 U.S.C.
+Section 1734 solely to indicate this fact.
+Requests for reprints: Rayna K. Matsuno, Biostatistics Branch, Division of Cancer
+Epidemiology and Genetics, National Cancer Institute, NIH, 6120 Executive Boulevard,
+Room 8105, Rockville, MD 20852-7244. Phone: 301-451-6889; Fax: 301-402-0081.
+E-mail: matsunora@mail.nih.gov
+Copyright D 2007 American Association for Cancer Research.
+doi:10.1158/1055-9965.EPI-07-0108
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+
+Japan’s population (22). All primary malignant cases recorded
+in the SEER 9-Registry database and OCR during the period
+1978 to 1997 were included in the analysis.
+Although case data were available for all race/ethnicity
+groups, population data for JAHI could not be directly
+obtained from SEER. The state cancer registry for Hawaii
+reports only case data to SEER; however, it reports both case
+and population data to the International Agency for Research
+on Cancer (IARC; ref. 23). Similarly, OCR reports both case and
+population data to the IARC. To calculate crude incidence rates
+for JAHI and Osaka, we obtained corresponding population
+data from the IARC database, which were either actual census
+data or population counts estimated from census data. For
+consistency, we also used population data from the IARC
+database for Whites and Blacks in SEER.
+Demographic and Tumor Characteristics. Female breast
+cancer cases were stratified by four 5-year calendar-periods of
+diagnosis (1978-1982, 1983-1987, 1988-1992, and 1993-1997),
+premenopausal and postmenopausal surrogates (age <50 and
+50+ years; refs. 24, 25), stage, grade, and histology. SEER and
+OCR tumor stage categories were matched to approximate
+localized, regional, and distant breast cancer (26). Localized
+disease was confined to the breast tissue and fat, including the
+nipple and/or areola. Regional disease included breast cancers
+with regional nodal involvement. Distant disease included
+systemic metastases.
+Tumor grade was dichotomized into low-risk and high-
+risk groups. Low grade included grade I (well differentiated)
+and grade II (moderately differentiated) tumors. High grade
+included grade III (poorly differentiated) and grade IV
+(undifferentiated
+or
+anaplastic)
+tumors.
+Histopathologic
+subtypes were categorized into ductal and lobular groups,
+using the International Classification of Diseases for Oncol-
+ogy, 3rd edition; and the General Rules for Clinical and
+Pathological Recording of Breast Cancer by the Japanese
+Breast Cancer Society (27, 28). All other subtypes were
+designated as other or unknown. Although there is some
+variation with respect to histologic typing between the two
+classification systems, they are comparable with respect to
+breast cancer overall.
+Age-Adjusted Incidence Rates. Breast cancer incidence
+rates were calculated using case data from SEER and OCR
+and population data from the IARC. Rates were age-adjusted
+to the World Standard population (29). Our calculated age-
+adjusted rates were similar to those recorded in the IARC
+database. Relative risks were expressed as incidence rate
+ratios (IRR), in which a given characteristic was compared to
+a referent characteristic with an assigned IRR of 1.0. Secular
+trends were plotted on a log-linear scale, as previously
+described (30).
+Age-Specific Incidence Rates. Age-specific incidence rates
+for the study period 1978 to 1997 were calculated according
+to 12 5-year age groups (25-29 to 80-84). Slope changes in
+overall rates at age 50 years for each race/ethnicity group
+were formally tested using piecewise linear Poisson regres-
+sion models (PROC GENMOD, SAS, v.8e, SAS Institute Inc.).
+The statistical model was defined as:
+log ðincidence rateÞ ¼ 0 þ 1  age þ 2  ðage  50Þ  I
+where I was the indicator variable for age 50 years or older,
+exp(b1) was the change in incidence per year of age before
+50, and exp(b1 + b2) was the corresponding change in
+incidence for age 50 years or older. We allowed for over-
+dispersion in the model by including a deviance variable
+parameter. A change in slope was considered to be statisti-
+cally significant when we rejected the null hypothesis b2
+equal to zero (a = 0.05).
+To determine the age effects after adjustment for calendar-
+period and birth-cohort effects, we fit age-period-cohort
+models to incidence data for Whites, Blacks, JAHI, and
+Osaka using Poisson regression (PROC GENMOD, SAS). We
+used 12 5-year age groups (25-29 to 80-84), 5 5-year calendar-
+periods (1973-1977 to 1993-1997), and 16 5-year birth-cohorts,
+referred to by the mid-year of birth (1893 to 1968) for all
+populations.
+In addition to overall age-specific rates, we calculated age-
+specific incidence rates for 12 5 year age groups (25-29 to 80-84)
+according to calendar-period (i.e., cross-sectional rates) and
+birth-cohort (i.e., longitudinal rates). Cross-sectional age-
+specific rates were determined according to four 5-year
+calendar-periods (1978-1982 to 1993-1997). Longitudinal age-
+specific rates were determined according to 15 5-year birth-
+cohorts, referred to by the mid-year of birth (1898 to 1968).
+Age Distributions. We graphed density plots for age at
+diagnosis by race/ethnicity group and calendar-period (1978-
+1982 to 1993-1997) using S-PLUS (version 6.2 for Windows,
+Insightful Corp.). S-PLUS uses kernel density estimation to
+produce smoothed histograms of the age distributions, and is
+described in detail elsewhere (31-33). In brief, a Gaussian
+kernel was used to estimate the underlying probability density
+function for breast cancer diagnosis conditioned on age. A
+more detailed description is given in Appendix 1.
+Results
+Demographic and Tumor Characteristics. Demographic
+and tumor characteristics for SEER and Osaka for the study
+period 1978 to 1997 are shown in Table 1. In the nine SEER
+areas, there were 236,130 White and 21,137 Black female cases
+of invasive breast cancer. In Hawaii, there were 3,304 Japanese
+cases. In OCR, there were 25,350 cases. The overall age-
+adjusted incidence rates per 100,000 woman-years for the
+study period 1978 to 1997 were highest in Whites (87.6),
+followed by Blacks (80.0), JAHI (72.4), and Osaka (21.8).
+Median age-at-diagnosis was oldest in Whites (64 years) and
+youngest in Osaka (51 years). Similarly, the IRR for cases
+diagnosed after age 50 years compared with cases diagnosed
+before age 50 years was highest in Whites (IRR, 10.84) and
+lowest in Osaka (IRR, 4.73).
+All race/ethnicity groups had lower rates of regional stage
+disease than local stage disease (i.e., IRR for regional compared
+with local stage disease < 1.0), although the relative differences
+were greater for Whites and JAHI. For example, IRRs for
+regional compared with local stage among Whites (IRR,
+0.58) and JAHI (IRR, 0.41) were lower than among Blacks
+(IRR, 0.77) and Osaka (IRR, 0.77). Whites (IRR, 0.86) and JAHI
+(IRR, 0.60) also had lower rates of high-grade tumors
+compared with low-grade tumors. In contrast, Blacks were
+more likely to be diagnosed with high-grade tumors
+(IRR, 1.46). Grade data for Osaka could not be interpreted
+given that 77.7% of cases were coded as missing or unknown.
+All groups had lower rates of lobular carcinoma than ductal
+carcinoma not otherwise specified. However, due to potential
+inconsistencies between the coding systems used in the United
+States and Japan, results should be interpreted with caution.
+All IRRs in Table 1 were statistically significantly different
+from 1.00 at the 95% confidence level.
+Age-Adjusted Incidence Rates. Breast cancer incidence
+rates increased among all four groups from the earliest
+calendar-period 1978-1982 to the latest calendar-period 1993-
+1997 (Table 1; Fig. 1A). The most rapid increase in rates was
+observed in JAHI; the age-adjusted rate increased 75%, from
+51.1 to 89.2 per 100,000 woman-years (IRR, 1.75). The slowest
+increase was observed in Whites (IRR, 1.27). Increases were
+intermediate among Blacks (IRR, 1.37) and Osaka (IRR, 1.51).
+1438 Breast Cancer Incidence Patterns in the United States and Japan
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+
+Age-Specific Incidence Rates. Overall age-specific rates for
+the calendar-period 1978-1997 increased rapidly until age
+50 years then continued to increase more slowly among
+Whites, Blacks, and JAHI (Fig. 1B). In contrast, rates increased
+rapidly until age 50 years then flattened or plateaued among
+women in Osaka. Poisson regression analyses confirmed
+significant changes in slope at age 50 years for all race/
+ethnicity groups (P < 0.001).
+The differences in age-specific incidence rate patterns
+persisted after adjusting for calendar-period and birth-cohort
+effects using age-period cohort-models. However, there were
+statistically significant (P < 0.05) birth-cohort effects in all
+populations. Among Whites and Blacks, there were significant
+effects for birth-cohorts (referred to by the mid-year of birth)
+1918, 1938, and 1943. Among Blacks, the 1908 birth-cohort
+effect was also significant. Among JAHI, there were significant
+effects for birth-cohorts 1903, 1923, and 1943. In Osaka, we
+observed several more significant birth-cohort contrasts, i.e.,
+for 1918, 1928, 1933, 1943, and 1948.
+Among Whites and Blacks, cross-sectional age-specific rates
+for all calendar-periods increased rapidly until age 50 years
+then continued to increase more slowly after age 50 years
+(Fig. 2A and B). Rates among JAHI more closely resembled
+rates among native Japanese in Osaka for the earliest calendar-
+period (1978-1982), but were more like rates among Whites and
+Blacks for subsequent calendar-periods (Fig. 2C). Age-specific
+rates in Osaka increased rapidly until age 50 years then
+plateaued for all calendar-periods (Fig. 2D).
+Longitudinal age-specific rates were presented for 8 of the
+15 birth-cohorts (for clearer graphical depiction; the overall
+interpretation of the results was the same irrespective of which
+birth-cohort were plotted; Fig. 3). Similar to cross-sectional
+age-specific rates (Fig. 2), longitudinal age-specific rates among
+Whites and Blacks increased rapidly until age 50 years then
+continued to increase at a slower pace with successive birth-
+cohort (Fig. 3A and B). Age-specific rates in Osaka increased
+rapidly until age 50 years then tended to plateau, although
+rates for individual birth-cohorts were not completely flat
+(Fig. 3D). Rates for JAHI were intermediate to the patterns for
+Whites, Blacks, and Osaka (Fig. 3C).
+Age Distributions. The age density plots varied during the
+study period 1978 to 1997 according to race/ethnicity group
+Figure 1. Breast cancer incidence rates among Whites, Blacks, and
+JAHI in the United States (nine SEER areas) and Osaka, Japan. A,
+trends in age-adjusted rates by calendar-period (1978-1982, 1983-
+1987, 1988-1992, and 1993-1997). B, age-specific rates for the study
+period 1978 to 1997.
+Table 1. Breast cancer incidence among Whites, Blacks, and JAHI in the United States (nine SEER areas) and Osaka, Japan
+during the years 1978 to 1997
+SEER (n = 260,571)
+Osaka (n = 25,350)
+White
+Black
+JAHI
+Osaka
+Number (n)
+236,130
+21,137
+3,304
+25,350
+Mean age in years (SE)
+63 (0.03)
+57.7 (0.10)
+61.0 (0.22)
+53.5 (0.08)
+Median age in years
+64
+57
+62
+51
+Overall rate (SE)
+87.6 (0.19)
+80.0 (0.56)
+72.4 (1.34)
+21.8 (0.14)
+n
+Rate SE IRR
+n
+Rate SE IRR
+n
+Rate SE IRR
+n
+Rate SE IRR
+Year of diagnosis
+1978-1982
+45,152
+74.3 0.37 ref
+3,481
+64.9 1.12 ref
+458
+51.1 2.47 ref
+4,170 16.9 0.26 ref
+1983-1987
+56,999
+87.8 0.39 1.18
+4,780
+78.0 1.16 1.20
+717
+65.7 2.59 1.29 5,868 21.1 0.28 1.25
+1988-1992
+64,519
+92.7 0.39 1.25
+5,847
+84.1 1.14 1.30
+961
+76.7 2.71 1.50 6,956 22.7 0.28 1.34
+1993-1997
+69,460
+94.0 0.38 1.27
+7,029
+88.6 1.10 1.37
+1,168
+89.2 2.91 1.75 8,356 25.5 0.29 1.51
+Age at diagnosis
+<50
+48,651
+29.5 0.02 ref
+7,010
+31.7 0.12 ref
+683
+29.0 0.99 ref 11,137 12.5 0.01 ref
+50+
+187,479
+319.9 0.1310.84
+14,127
+272.8 1.11 8.61
+2,621
+245.8 5.03 8.48 14,213 59.1 0.05 4.73
+Summary stage
+Local
+137,799
+50.6 0.15 ref
+10,192
+38.6 0.39 ref
+2,263
+48.8 1.10 ref 12,721 11.0 0.10 ref
+Regional
+75,191
+29.1 0.11 0.58
+7,841
+29.9 0.35 0.77
+864
+20.0 0.72 0.41 9,771
+8.5 0.09 0.77
+Distant
+13,940
+5.1 0.05 0.10
+1,996
+7.5 0.17 0.19
+138
+2.9 0.27 0.06 1,453
+1.2 0.03 0.11
+Other/unknown
+9,200
+2.7 0.03 0.05
+1,108
+3.8 0.12 0.10
+39
+0.6 0.12 0.01 1,405
+1.2 0.03 0.11
+Grade
+Low (I-II)
+61,962
+22.7 0.10 ref
+4,194
+16.0 0.25 ref
+1,167
+24.4 0.77 ref
+5,530
+4.8 0.07 ref
+High (III-IV)
+50,910
+19.6 0.09 0.86
+6,109
+23.3 0.31 1.46
+661
+14.6 0.61 0.60
+119
+0.1 0.01 0.02
+Other/unknown
+123,258
+45.2 0.14 1.99
+10,834
+40.7 0.40 2.54
+1,476
+33.4 0.92 1.37 19,701 16.9 0.12 3.52
+Histology
+Duct NOS
+183,553
+68.1 0.17 ref
+16,439
+62.2 0.50 ref
+2,839
+62.2 1.24 ref
+7,821
+6.7 0.08 ref
+Lobular
+17,384
+6.3 0.05 0.09
+972
+3.7 0.12 0.06
+102
+2.2 0.23 0.04
+390
+0.3 0.02 0.04
+Other/unknown
+35,193
+13.2 0.08 0.19
+3,726
+14.0 0.24 0.23
+363
+8.0 0.45 0.13 17,139 14.8 0.11 2.21
+NOTE: Rates per 100,000 woman-years, age-adjusted to the World Standard; ref, referent group; all rate ratios were statistically significantly different from the referent
+group at the 95% confidence level; duct NOS, ductal carcinoma not otherwise specified (histology codes 8000, 8500, 8010, and 8140); lobular carcinoma (histology code
+8520).
+Cancer Epidemiology, Biomarkers & Prevention 1439
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+
+(Fig. 4). Although the relative proportions of early-onset and
+late-onset breast cancer types varied, the peak frequencies (or
+modes) were generally constant near ages 50 (early-onset) and
+70 (late-onset) years. In the earliest calendar-period (1978-1982),
+the age distributions had single modes among all populations
+(Fig. 4, first column). Osaka had the earliest mode (age 46 years),
+followed by JAHI (54 years), Blacks (58 years), and Whites
+(63 years). By the latest calendar-period (1993-1997), a bimodal
+pattern had emerged among Whites, Blacks, and JAHI (Fig. 4,
+fourth column), although the late-onset peak was not as pro-
+minent among Blacks. Among Whites, the modes were at ages
+51 and 71 years. Among Blacks, the modes were at ages 48 and
+71 years. Among JAHI, the modes were at ages 52 and 68 years.
+In contrast with the other three groups, Osaka maintained a
+single early-onset age distribution during the latest calendar-
+period (Fig. 4, fourth row), with a mode at age 48 years.
+Discussion
+Although age-adjusted breast cancer incidence rates increased
+in both SEER and Osaka from 1978-1982 to 1993-1997, age-
+specific patterns (rates and age distributions) suggest that the
+nature of this increase differed among the various cancer
+populations (Fig. 4). In SEER, Whites and Blacks had bimodal
+(early-onset and late-onset) breast cancer populations. In
+Osaka, there was a consistent early-onset age distribution of
+the breast cancer population. JAHI were intermediate to
+Whites and Blacks, and Osaka. The early-onset age distribution
+in Osaka was observed despite having an older general
+population. For example, according to the 2000 census data,
+the median age for women in Osaka Prefecture was older
+(41.3 years) than for Whites (39.7 years) and Blacks (31.5 years)
+in the United States (34-36).
+Figure 2. Observed cross-sectional age-specific breast cancer incidence rates by calendar-period (1978-1982, 1983-1987, 1988-1992, and
+1993-1997). A, Whites in SEER. B, Blacks in SEER. C, JAHI in SEER. D, native Japanese in Osaka, Japan.
+Figure 3. Observed longitudinal age-specific breast cancer incidence rates by the mid-year of birth-cohort (1898, 1908, 1918, 1928, 1938, 1948,
+1958, and 1968). A, Whites in SEER. B, Blacks in SEER. C, JAHI in SEER. D, native Japanese in Osaka, Japan.
+1440 Breast Cancer Incidence Patterns in the United States and Japan
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+
+The changing age distributions among the various breast
+cancer populations also seemed to affect the shape of the age-
+specific incidence rate curves. Increasing late-onset breast
+cancer populations among Whites, Blacks, and JAHI corre-
+sponded with successively steeper slopes in the age-specific
+rates after age 50 years. On the other hand, a constant early-
+onset age distribution for Osaka corresponded to consistently
+flattened or plateaued age-specific incidence rates after age 50.
+Although we observed significant birth-cohort effects for all
+populations, the age effects were 10-fold higher, and the age-
+period-cohort–fitted age curves were very similar to the overall
+(unadjusted) age-specific rate curves (data not shown). This
+supports that age effects and differences between populations
+cannot be explained by birth-cohort or calendar-period artifacts.
+Although the differences in overall breast cancer incidence
+rates among Occidental and Asian populations have been
+often attributed to environmental exposures and/or lifestyle
+(37), our results suggest important age-specific differences as
+well. For example, body mass index is inversely associated
+with premenopausal breast cancer, but is positively associated
+with postmenopausal breast cancer (38, 39). The much lower
+prevalence of obesity (defined as body mass index of 30 kg/m2
+or more) in Japan than in the United States (40, 41) may in part
+explain why the IRRs for postmenopausal relative to preme-
+nopausal breast cancer were highest in SEER and lowest in
+Osaka.
+Geographic variations in screening mammography may also
+explain some of the differences between SEER and Osaka. For
+example, in the United States, screening mammography
+became widely implemented during the 1980s, and the
+coverage rate among women age 40 years and older in 2000
+was estimated to be >70% (42). In this study, cross-sectional
+age-specific incidence rates in SEER increased for all calendar-
+periods, particularly among women age 50 years and older,
+i.e., those targeted for screening. The same effect has been
+shown previously in the United States (43) and in several
+European countries where screening mammography has been
+fully established (44, 45). In contrast, screening mammography
+was not implemented in Japan until the year 2000 (46). In the
+absence of screening mammography, the age-specific inci-
+dence rates in Osaka increased relatively evenly across both
+younger and older ages for each succeeding calendar-period.
+This study is not without limitations. Because we have used
+registry data, key considerations include the completeness and
+accuracy of data. Moreover, we obtained data from a number
+of different sources, so results should be interpreted carefully,
+as comparability across populations can be hindered by
+differences in screening practices, disease classification, and
+data collection. However, both SEER and the OCR meet IARC
+standards, which ensure a certain degree of data quality and
+comparability based on a number of factors (47). Indeed, in all
+groups, >94% of cases were microscopically confirmed in each
+Figure 4. Age distributions among Whites, Blacks, and JAHI in the United States (nine SEER areas) and Osaka, Japan during the calendar-
+periods 1978 to 1982, 1983 to 1987, 1988 to 1992, and 1993 to 1997. The probability density function is a smoothed estimate of the frequency
+of women diagnosed at a given age. Reference lines are shown for ages 50 and 70 y.
+Cancer Epidemiology, Biomarkers & Prevention 1441
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+
+5-year calendar-period (1978-1982 to 1993-1997); and the
+proportion of death certificate only cases was <1% in SEER
+and 7% in Osaka.
+In sum, although breast cancer incidence rates in SEER and
+Osaka have increased over time, the emergence of a late-onset
+peak observed in SEER was absent in Osaka. These distinct
+age-specific patterns may reflect differences in detection, but
+may also be due to the differential effect of certain age-related
+exposures. Further hypothesis-driven studies are needed to
+distinguish the age effects from calendar-period and/or birth-
+cohort effects on geographic variations in breast cancer
+patterns. More specifically, studies are needed to further
+assess whether established risk factors are differentially
+associated with early- and late-onset breast cancer and the
+effect this may have on breast cancer patterns worldwide.
+Appendix A
+The aim of kernel smoothing is to nonparametrically estimate
+a continuous probability density function f, defined as the
+derivative of a cumulative probability distribution function.
+Although a histogram provides such a nonparametric estimate
+of f, it is not smooth, and is also very dependent on the width
+and starting points of the intervals or bins. Kernel smoothing
+avoids both problems. The kernel density estimator for
+observed data points x1, . . ., xn is of the form
+^f ¼ 1
+n
+X
+N
+i¼1
+Kðx  xi; hÞ;
+where K is a probability density function, known as the kernel
+function, the variance of which is controlled by h. The variable
+h is often referred to as the bandwidth or smoothing variable,
+as it dictates the smoothness of fˆ, with larger values of h
+corresponding to smoother curves.
+We use a Gaussian kernel, KðxÞ ¼
+1
+h ﬃﬃﬃﬃ
+2p
+p
+expðx2=2hÞ imple-
+mented in S-PLUS (31-33).
+References
+1.
+Parkin DM, Bray FI, Devesa SS. Cancer burden in the year 2000. The global
+picture. Eur J Cancer 2001;37 Suppl 8:S4–66.
+2.
+Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. CA
+Cancer J Clin 2005;55:74 –108.
+3.
+Bray F, McCarron P, Parkin DM. The changing global patterns of female
+breast cancer incidence and mortality. Breast Cancer Res 2004;6:229 –39.
+4.
+Althuis MD, Dozier JM, Anderson WF, Devesa SS, Brinton LA. Global trends
+in breast cancer incidence and mortality 1973-1997. Int J Epidemiol 2005;34:
+405 –12.
+5.
+Maskarinec G, Noh JJ. The effect of migration on cancer incidence among
+Japanese in Hawaii. Ethn Dis 2004;14:431–9.
+6.
+Stanford JL, Herrinton LJ, Schwartz SM, Weiss NS. Breast cancer incidence
+in Asian migrants to the United States and their descendants. Epidemiology
+1995;6:181 –3.
+7.
+Ziegler RG, Hoover RN, Pike MC, et al. Migration patterns and breast cancer
+risk in Asian-American women. J Natl Cancer Inst 1993;85:1819 –27.
+8.
+Shimizu H, Ross RK, Bernstein L, Yatani R, Henderson BE, Mack TM.
+Cancers of the prostate and breast among Japanese and white immigrants in
+Los Angeles County. Br J Cancer 1991;63:963–6.
+9.
+Pisani P. Breast cancer: geographic variation and risk factors. J Environ
+Pathol Toxicol Oncol 1992;11:313 –6.
+10. Ferlay J, Bray F, Pisani P, Parkin DM. GLOBOCAN 2002, Cancer Incidence,
+Mortality and Prevalence Worldwide, IARC CancerBase No. 5, version 2.0.
+In. Lyon (France): IARC Press; 2004.
+11. Kamangar F, Dores GM, Anderson WF. Patterns of cancer incidence,
+mortality, and prevalence across five continents: defining priorities to
+reduce cancer disparities in different geographic regions of the world. J Clin
+Oncol 2006;24:2137– 50.
+12. Fong M, Henson DE, Devesa SS, Anderson WF. Inter- and intra-ethnic
+differences for female breast carcinoma incidence in the continental United
+States and in the state of Hawaii. Breast Cancer Res Treat 2006;97:57 –65.
+13. Moolgavkar SH, Stevens RG, Lee JA. Effect of age on incidence of breast
+cancer in females. J Natl Cancer Inst 1979;62:493– 501.
+14. Moolgavkar SH, Day NE, Stevens RG. Two-stage model for carcinogenesis:
+epidemiology of breast cancer in females. J Natl Cancer Inst 1980;65:559– 69.
+15. Pike MC, Krailo MD, Henderson BE, Casagrande JT, Hoel DG. ‘Hormonal’
+risk factors, ‘breast tissue age’ and the age-incidence of breast cancer. Nature
+1983;303:767 –70.
+16. Anderson WF, Matsuno RK. Breast cancer heterogeneity: a mixture of at
+least two main types. J Natl Cancer Inst 2006;98:941–58.
+17. Lilienfeld AM, Johnson EA. The age distribution in female breast and genital
+cancers. Cancer 1955;8:875 –82.
+18. de Waard F, Baanders-van Halewijn EA, Huizinga J. The bimodal age
+distribution of patients with mammary carcinoma; evidence for the
+existence of 2 types of human breast cancer. Cancer 1963;17:141–51.
+19. de Waard F. Premenopausal and postmenopausal breast cancer: one disease
+or two? J Natl Cancer Inst 1979;63:549 –52.
+20. Surveillance, Epidemiology, and End Results (SEER) Program (http://
+www.seer.cancer.gov/) Public-Use Data (1973–2002). In: National Cancer
+Institute, DCCPS, Surveillance Research Program, Cancer Statistics Branch,
+released April 2005, based on the November 2004 submission.
+21. Osaka Cancer Registry. Survival of cancer patients in Osaka 1975-89. Osaka,
+Japan: Osaka Foundation for Prevention of Cancer and Circulatory Diseases;
+1998.
+22. Japan Statistical Yearbook 2005: Statistical Training Institute and Statistics
+Bureau, both under the Ministry of Internal Affairs and Communications.
+23. Parkin DM, Whelan SL, Ferlay J, Storm HH. Cancer incidence in five
+continents, Vol. III to VIII IARC CancerBase No. 7. Lyon, France; 2005.
+24. Morabia A, Flandre P. Misclassification bias related to definition of
+menopausal status in case-control studies of breast cancer. Int J Epidemiol
+1992;21:222 –8.
+25. Morabia A, Costanza MC. International variability in ages at menarche,
+first livebirth, and menopause. World Health Organization Collaborative
+Study of Neoplasia and Steroid Contraceptives. Am J Epidemiol 1998;148:
+1195–205.
+26. Shambaugh EM, Weiss MA, Axtell MA. SEER Summary Staging Guide 1977.
+Bethesda (MD): National Cancer Institute; 1977.
+27. Fritz AG, Percy C, Jack A, Sobin LH, Parkin DM, editors. International
+classification of diseases for oncology. 3rd ed: World Health Organization;
+2000.
+28. Sakamoto G, Inaji H, Akiyama F, et al. General rules for clinical and
+pathological recording of breast cancer 2005. Breast Cancer 2005;12 Suppl:
+S1– 27.
+29. Doll R, Payne P, Waterhouse JAH, editors. Cancer incidence in five
+continents, vol. 1. Geneva: UICC; Berlin, Springer; 1977.
+30. Devesa SS, Donaldson J, Fears T. Graphical presentation of trends in rates.
+Am J Epidemiol 1995;141:300 –4.
+31. Venables WN, Ripley BD. Modern Applied Statistics with S-PLUS. 4th ed.
+New York: Springer-Verlag; 2003.
+32. Silverman BW. Density estimation for statistics and data analysis. London
+(United Kingdom): Chapman & Hall; 1986.
+33. Izenman AJ. Recent developments in nonparametric density estimation.
+J Am Stat Assoc 1991;86:205–24.
+34. Table 4: Annual estimates of the population by age and sex of White alone
+not Hispanic for the United States: April 1, 2000 to July 1, 2004 (NC-
+EST2004 –04-WANH). In: Population Division, U.S. Census Bureau; 2005.
+35. Table 4: Annual estimates of the population be age and sex of Black or
+African American alone for the United States: April 1, 2000 to July 1,
+2004
+(NC-EST2004 – 04-BA).
+In:
+Population
+Division,
+U.S.
+Statistics
+Bureau.
+36. Table 3: Population (total and Japanese population), by age (single years)
+and sex, percentage by age, average age, and median age—Japan, All Shi,
+All Gun, Prefectures and 13 major cities. In: Statistics Bureau of Japan,
+Ministry of Internal Affairs and Communication; 2000.
+37. Nelson NJ. Migrant studies aid the search for factors linked to breast cancer
+risk. J Natl Cancer Inst 2006;98:436–8.
+38. Colditz GA, Rosner B. Cumulative risk of breast cancer to age 70 years
+according to risk factor status: data from the Nurses’ Health Study. Am J
+Epidemiol 2000;152:950 –64.
+39. van den Brandt PA, Spiegelman D, Yaun S-S, et al. Pooled analysis of
+prospective cohort studies on height, weight, and breast cancer risk. Am J
+Epidemiol 2000;152:514 –27.
+40. Yoshiike N, Seino F, Tajima S, et al. Twenty-year changes in the prevalence
+of overweight in Japanese adults: the National Nutrition Survey 1976-1995.
+Obes Rev 2002;3:183– 90.
+41. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Prevalence and trends in
+obesity among US adults, 1999-2000. JAMA 2002;288:1723 –7.
+42. Swan J, Breen N, Coates RJ, Rimer BK, Lee NC. Progress in cancer screening
+practices in the United States: results from the 2000 National Health
+Interview Survey. Cancer 2003;97:1528 –40.
+43. Anderson WF, Jatoi I, Devesa SS. Assessing the impact of screening
+mammography: breast cancer incidence and mortality rates in Connecticut
+(1943-2002). Breast Cancer Res Treat 2006;99:333–40.
+44. Hemminki K, Rawal R, Bermejo JL. Mammographic screening is dramati-
+cally changing age-incidence data for breast cancer. J Clin Oncol 2004;22:
+4652–3.
+45. Hemminki K, Bermejo JL. Effects of screening for breast cancer on its age-
+incidence relationships and familial risk. Int J Cancer 2005;117:145 –9.
+46. Endo T. [Breast cancer screening in Japan—present status and recent
+movement]. Nippon Igaku Hoshasen Gakkai Zasshi 2004;64:277–83.
+47. Parkin DM, Whelan SL, Ferlay J, Teppo L, Thomas DB, editors. Cancer
+incidence in five continents: Vol. VIII. Lyon, France: IARC; 2003.
+1442 Breast Cancer Incidence Patterns in the United States and Japan
+Cancer Epidemiol Biomarkers Prev 2007;16(7). July 2007
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/7/1437/2265887/1437.pdf by guest on 09 August 2026
+

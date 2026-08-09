@@ -1,0 +1,1344 @@
+record_id=405 pmid=23446808 doi=10.1007/s10549-013-2434-0
+SOURCE: manual-pdf
+TITLE: A trend analysis of breast cancer incidence rates in the United States from 2000 to 2009 shows a recent increase
+
+BRIEF REPORT
+A trend analysis of breast cancer incidence rates in the United
+States from 2000 to 2009 shows a recent increase
+Ningqi Hou • Dezheng Huo
+Received: 21 November 2012 / Accepted: 28 January 2013 / Published online: 28 February 2013
+ Springer Science+Business Media New York 2013
+Abstract
+Recent reports have shown that the breast cancer
+incidence rate in the US stabilized after a sharp reduction in
+2002 and 2003. It is important to continue monitoring breast
+cancer incidence rates according to age group, race/ethnic-
+ity, estrogen receptor (ER) status, and tumor stage. Age-
+standardized breast cancer incidence rates were calculated
+using data from the surveillance, epidemiology, and end
+results 18 registries from 2000 to 2009, for 677,774 female
+breast cancer patients aged 20 and above. Jointpoint
+regression models were used to ﬁt a series of joined straight
+lines on a log scale to annual age-standardized rates. The
+incidence rates of all breast cancer signiﬁcantly increased for
+non-Hispanic blacks from 2005 to 2009 (annual percentage
+change,
+APC = 2.0 %,
+p = 0.01)
+and
+Asian/Paciﬁc
+Islanders from 2000 to 2009 (APC = 1.2 %, p = 0.02).
+Since 2004, incidence rates in women aged 40–49 years
+signiﬁcantly increased for most racial/ethnic groups (overall
+APC = 1.1 %, p = 0.001). The incidence rate of carcinoma
+in situ signiﬁcantly increased in all racial/ethnic groups, with
+an APC range from 2.3 to 3.0 % (p \ 0.005). The localized
+breast cancer incidence signiﬁcantly increased in non-His-
+panic
+blacks
+(APC = 1.3 %,
+p = 0.004)
+and
+Asians
+(APC = 1.2 %, p = 0.03). ER-positive breast cancer sig-
+niﬁcantly increased in almost all age/race sub-groups after
+2005 (APC by race: non-Hispanic whites 1.5 %, non-His-
+panic blacks 4.3 %, Asian/Paciﬁc Islanders 1.7 %, and
+Hispanics 1.8 %; all p values \0.05), while ER-negative
+breast cancer decreased in most sub-groups (APC by race:
+non-Hispanic whites—3.9 %, non-Hispanic blacks—3.7 %,
+Asian/Paciﬁc Islanders—1.5 %, and Hispanics—4.3 %; all
+p values \0.05). Recently the incidence of breast cancer
+appears to be increasing in certain subgroups, including ER-
+positive, early-stage breast cancers, in particular among non-
+Hispanic blacks and Asian/Paciﬁc Islanders. Further studies
+are warranted to examine possible reasons for these changes,
+such as changes in mammography screening methods and
+risk factors prevalence.
+Keywords
+Breast cancer  Incidence  SEER  Race 
+Hormone receptors  Subgroup
+Background
+There was a sharp decrease in breast cancer incidence from
+2002 to 2003 in the United States, evident in white
+women C50 years of age and for estrogen receptor (ER)
+positive tumors. This has been attributed to the reduced use
+of hormone replacement therapy (HRT) after the July 2002
+publication from the Women’s Health Initiative [1–4].
+Following the sharp decrease, it was reported that a
+decreasing trend continued into 2005 [5, 6]. The most
+recent publications observed that the decline in cancer
+incidence ceased [7], and the rate stabilized from 2004 to
+2008 [8], with ER-positive breast cancer being projected to
+increase [9]. In this brief report, we examined the breast
+cancer incidence rates from 2000 to 2009 in the United
+States, using the updated data from 18 registries of the
+Surveillance, Epidemiology, and End Results (SEER)
+program. We present the rates by age group, race/ethnicity,
+estrogen receptor status, and stage of tumor, in order to
+inform the underlying reasons for the changes.
+N. Hou  D. Huo (&)
+Department of Health Studies, University of Chicago, 5841
+South Maryland Avenue, MC 2007, Chicago, IL 60637, USA
+e-mail: dhuo@health.bsd.uchicago.edu
+123
+Breast Cancer Res Treat (2013) 138:633–641
+DOI 10.1007/s10549-013-2434-0
+
+Methods
+Using data from the SEER 18 registries [10], we examined
+the overall and subgroup trends of breast cancer incidence
+in the United States from 2000 to 2009. We obtained
+patient and population data from SEER 9 Registries
+Database, covering Atlanta, Connecticut, Detroit, Hawaii,
+Iowa, New Mexico, San Francisco-Oakland, Seattle-Puget
+Sound, and Utah; the SEER 4 Registries Database that
+includes Los Angeles, San-Jose Monterey, Rural Georgia,
+and Alaska Native Tumor Registry; and the SEER 5
+Registries Database covering Greater California, Kentucky,
+Table 1 Characteristics of breast cancer patients in the United States: data from the Surveillance, Epidemiology, and End Results 18 registries
+database for cancers diagnosed between 2000 and 2009
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+Total
+N
+65,082
+66,761
+66,665
+64,607
+65,913
+64,773
+67,447
+70,377
+72,391
+73,758
+677,774
+Race/Ethnicity
+White, non-Hispanic
+50,672
+51,808
+50,962
+48,866
+49,272
+47,979
+49,553
+51,196
+52,204
+52,985
+505,497
+77.8 %
+77.6 %
+75.6 %
+74.8 %
+74.1 %
+73.5 %
+72.8 %
+72.1 %
+71.8 %
+71.8 %
+74.6 %
+Black, non-Hispanic
+5,917
+5,970
+6,151
+6,257
+6,544
+6,090
+6,886
+7,343
+7,426
+7,831
+66,415
+9.1 %
+8.9 %
+9.2 %
+9.7 %
+9.9 %
+9.4 %
+10.2 %
+10.4 %
+10.3 %
+10.6 %
+9.8 %
+Asian/Paciﬁc Islander
+3,497
+3,859
+4,153
+3,927
+4,281
+4,435
+4,617
+5,001
+5,474
+5,477
+44,721
+5.4 %
+5.8 %
+6.2 %
+6.1 %
+6.5 %
+6.9 %
+6.9 %
+7.1 %
+7.6 %
+7.4 %
+6.6 %
+Hispanic
+4,755
+4,877
+5,146
+5,283
+5,529
+5,992
+6,101
+6,527
+6,969
+7,140
+58,319
+7.3 %
+7.3 %
+7.7 %
+8.2 %
+8.4 %
+9.3 %
+9.1 %
+9.3 %
+9.6 %
+9.7 %
+8.6 %
+Native American
+241
+247
+253
+274
+287
+277
+290
+310
+318
+325
+2,822
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+Age of diagnosis
+20–39
+3,382
+3,482
+3,170
+3,222
+3,338
+3,110
+3,196
+3,134
+3,335
+3,204
+32,573
+5.2 %
+5.2 %
+4.8 %
+5.0 %
+5.1 %
+4.8 %
+4.7 %
+4.5 %
+4.6 %
+4.3 %
+4.8 %
+40–49
+11,775
+11,840
+11,934
+12,211
+12,593
+12,182
+12,844
+12,997
+12,838
+12,952
+124,166
+18.1 %
+17.7 %
+17.9 %
+18.9 %
+19.1 %
+18.8 %
+19.0 %
+18.5 %
+17.7 %
+17.6 %
+18.3 %
+50–69
+29,328
+30,526
+31,121
+29,875
+30,585
+30,538
+31,844
+34,269
+35,881
+36,906
+320,873
+45.1 %
+45.7 %
+46.7 %
+46.2 %
+46.4 %
+47.2 %
+47.2 %
+48.7 %
+49.6 %
+50.0 %
+47.3 %
+70?
+20,596
+20,907
+20,435
+19,292
+19,392
+18,938
+19,554
+19,971
+20,331
+20,690
+200,106
+31.7 %
+31.3 %
+30.7 %
+29.9 %
+29.4 %
+29.2 %
+29.0 %
+28.4 %
+28.1 %
+28.1 %
+29.5 %
+Unknown
+1
+6
+5
+7
+5
+5
+9
+6
+6
+6
+56
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+0.0 %
+Stage of tumor
+In Situ
+11,322
+11,963
+12,187
+12,166
+12,583
+12,396
+13,187
+13,940
+14,865
+15,139
+129,748
+17.4 %
+17.9 %
+18.3 %
+18.8 %
+19.1 %
+19.1 %
+19.6 %
+19.8 %
+20.5 %
+20.5 %
+19.1 %
+Localized
+32,501
+33,209
+33,103
+31,533
+32,515
+32,064
+33,360
+34,800
+35,668
+36,930
+335,683
+49.9 %
+49.7 %
+49.7 %
+48.8 %
+49.3 %
+49.5 %
+49.5 %
+49.5 %
+49.3 %
+50.1 %
+49. 5 %
+Regional
+16,398
+16,885
+16,752
+16,363
+16,216
+15,894
+16,319
+16,860
+17,135
+16,902
+165,724
+25.2 %
+25.3 %
+25.1 %
+25.3 %
+24.6 %
+24.5 %
+24.2 %
+24.0 %
+23.7 %
+22.9 %
+24.5 %
+Distant
+3,142
+3,154
+3,162
+3,097
+3,346
+3,278
+3,414
+3,587
+3,672
+3,702
+33,554
+4.8 %
+4.7 %
+4.7 %
+4.8 %
+5.1 %
+5.1 %
+5.1 %
+5.1 %
+5.1 %
+5.0 %
+5.0 %
+Unknown
+1,719
+1,550
+1,461
+1,448
+1,253
+1,141
+1,167
+1,190
+1,051
+1,085
+13,065
+2.6 %
+2.3 %
+2.2 %
+2.2 %
+1.9 %
+1.8 %
+1.7 %
+1.7 %
+1.5 %
+1.5 %
+1.9 %
+ER status
+ER?
+33,682
+35,360
+35,905
+36,274
+41,052
+42,668
+45,882
+49,223
+51,924
+54,389
+426,359
+51.8 %
+53.0 %
+53.9 %
+56.2 %
+62.3 %
+65.9 %
+68.0 %
+69.9 %
+71.7 %
+73.7 %
+62.9 %
+ER-
+9,336
+9,562
+9,737
+10,182
+11,950
+12,013
+12,395
+12,480
+12,679
+12,023
+112,357
+14.3 %
+14.3 %
+14.6 %
+15.8 %
+18.1 %
+18.6 %
+18.4 %
+17.7 %
+17.5 %
+16.3 %
+16.6 %
+Unknown
+22,064
+21,839
+21,023
+18,151
+12,911
+10,092
+9,170
+8,674
+7,788
+7,346
+139,058
+33.9 %
+32.7 %
+31.5 %
+28.1 %
+19.6 %
+15.6 %
+13.6 %
+12.3 %
+10.8 %
+10.0 %
+20.5 %
+634
+Breast Cancer Res Treat (2013) 138:633–641
+123
+
+New Jersey, Greater Georgia, and Louisiana. Data of the
+3rd and 4th quarters of 2005 in the Louisiana registry were
+excluded because of Hurricane Katrina.
+Statistical analysis
+We restricted the analysis to women aged 20 years or
+above, and categorized age groups as 20–39, 40–49, 50–69,
+and 70? years. We categorized race/ethnicity subgroups as
+non-Hispanic white, non-Hispanic black, Asian/Paciﬁc
+Islander, Hispanic, and others (data not shown due to small
+sample size).
+Estrogen receptor status was missing for nearly 20 % of
+the records. Since hormone receptors are important bio-
+markers for breast carcinoma and a large portion of missing
+data can be a major source of bias in rate calculation, we
+employed the multiple imputation (MI) method to account
+for the missing values of ER status. Using the chained
+equation methods [11, 12], we generated 15 complete
+datasets with ER, progesterone receptor status, age, race/
+ethnicity, histological type, grade, SEER registry, year of
+diagnosis, tumor size, number of positive lymph nodes,
+SEER historic stage, vital status, and survival time in the
+imputation models.
+Age-adjusted incidence rates were calculated based on
+the 2000 US standard population. We used the Joinpoint
+Regression Program 3.5.4 to ﬁt a series of joined straight
+lines on a log scale to the trends of annual, age-adjusted
+rates, with the ﬁtted slopes indicating annual percentage
+change (APC) [13]. All statistical analyses were performed
+using STATA 12.0, with the exception of the use of SAS
+9.3 to read in the original SEER datasets.
+Results
+The combined SEER registries from 2000 through 2009
+included 677,774 female breast cancer patients 20 years or
+older (Table 1). The proportion of missing ER status has
+decreased from 33.9 % in 2000 to 10.0 % in 2009. Figure 1
+shows the trend of incidence rates of all breast cancer in the
+United States between 2000 and 2009, stratiﬁed by race/
+ethnicity. The rate for non-Hispanic whites decreased sig-
+niﬁcantly from 246.9 per 100,000 in 2000 to 228.8 per
+100,000 in 2005 (APC = -1.8 %, p = 0.01), but then rose
+to 240.6 per 100,000 in 2009 (APC = 1.3 %, p = 0.11). The
+incidence rate for non-Hispanic blacks was stable between
+2000 and 2005 (APC = 0.2 %, p = 0.7), but signiﬁcantly
+increased from 206.0 per 100,000 in 2005 to 224.9 per
+100,000 in 2009 (APC = 2.0 %, p = 0.01). Throughout the
+decade, the incidence rate increased signiﬁcantly for Asian/
+Paciﬁc Islanders (APC = 1.2 %, p = 0.02), but remained
+stable for Hispanic women (APC = 0.41 %, p = 0.3).
+Taking tumor stage into consideration, Fig. 2 shows that
+the incidence of in situ breast cancer signiﬁcantly increased
+in all racial/ethnic groups while for non-Hispanic whites, the
+rate only increased after 2005 (APC ranges from 2.3 to 3.0 %
+by racial/ethnic group, p values \0.01). Localized breast
+cancer signiﬁcantly increased in non-Hispanic blacks
+(APC = 1.3 %, p = 0.004) and Asian/Paciﬁc Islanders
+(APC = 1.2 %, p = 0.03). Regional and distant cancers
+signiﬁcantly decreased in non-Hispanic whites from 2000 to
+2004 (APC = -2.5 %, p = 0.02) and in Hispanics from
+2000 to 2009 (APC = -1.1 %, p = 0.006).
+Stratiﬁed by age and race/ethnicity (Fig. 3), the inci-
+dence rate increased signiﬁcantly in all age groups for non-
+NHW
+NHB
+Asian
+Hisp
+140
+180
+220
+260
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+All Breast Cancer
+** p<0.05 
+NHW (non-Hispanic white): slope I: −1.8 %, p = 0.01; slope II: 1.3 %, p = 0.11;
+NHB (non-Hispanic black): slope I: 0.2 % p = 0.7; slope II: 2.0 % p = 0.01; 
+Asian (Asian/Pacific Islander): 1.2 % p = 0.02; Hisp (Hispanics): 0.3 % p = 0.3
+Fig. 1 Annual incidence rate of
+all female breast cancer in the
+United States with Joinpoint
+Regression (line of trends), by
+race/ethnicity. Data from the
+U.S. National Cancer Institute’s
+Surveillance, Epidemiology,
+and End Results 18 Registries
+Database for cancers diagnosed
+between 2000 and 2009
+Breast Cancer Res Treat (2013) 138:633–641
+635
+123
+
+Hispanic blacks, 2005–2009. For Asian/Paciﬁc Islanders,
+the signiﬁcant increase only occurred in the age group
+40–49 years (APC = 2.3 %, p \ 0.0001). For this age
+group (40–49 years), the incidence rates also increased in
+non-Hispanic whites and Hispanics since 2004 (p val-
+ues \0.005). For non-Hispanic
+whites, the incidence
+decreased signiﬁcantly for both the age 50–69 group and
+the age 70? group (p \ 0.02) between 2000 and 2004.
+Figure 4 presents the temporal trends further stratiﬁed
+by ER status. The incidence of ER-positive breast cancer
+signiﬁcantly increased in almost all age and racial/ethnic
+subgroups after 2005, with annual percent changes partic-
+ularly high for women of older ages: for non-Hispanic
+whites, APC = 1.8, 1.5, 1.4, and 1.6 % in age groups
+20–39, 40–49, 50–69, and 70? , respectively (p val-
+ues \0.02); for non-Hispanic blacks, APC = 2.8, 2.4, 2.2,
+and 4.5 % in age groups 20–39, 40–49, 50–69, and 70? ,
+respectively (p values \0.02). A similar but weaker trend
+was observed in Asians and Hispanics, while there was no
+signiﬁcant change in incidence in Asians aged 20–39 and
+Hispanics aged above 70. On the other hand, the incidence
+of ER-negative breast cancer signiﬁcantly decreased in
+most age and racial/ethnic subgroups: all non-Hispanic
+whites, all non-Hispanic blacks (marginally signiﬁcant in
+age group C70 years old), Asian 20–39 years old, and the
+Hispanics aged C40 years old (Fig. 4, second part).
+Discussions
+Using the SEER 18 registries data, we observed that the
+incidence of all breast cancer signiﬁcantly increased in
+non-Hispanic black and Asian women in recent years
+(2005–2009). This increasing trend is not signiﬁcant in
+non-Hispanic white women, among whom the dramatic
+decrease in incidence following the 2002 WHI publication
+NHW
+NHB
+Asian
+Hisp
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+In situ
+NHW
+NHB
+Asian
+Hisp
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Localized
+NHW
+NHB
+Asian
+Hisp
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Regional and Distant
+* 0.05 < p < 0.1; ** p < 0.05 
+NHW, non-Hispanic white; NHB, non-Hispanic black; Asian, Asian/Pacific Islander; Hisp, Hispanics
+In situ: NHW slope I -0.2 % p = 0.7; slope II 2.9 % p = 0.007; NHB 3.0 % p = 0.00002; Asian 2.7 % p = 0.003; Hispanic 2.3 % 
+p = 0.0002; Localized: NHW slope I -2.7 % p = 0.02; slope II 1.0 % p = 0.11; NHB1.3 % p = 0.004; Asian 1.2 % p = 0.03; Hisp 0.5 %  
+p = 0.051; Regional & distant: NHW slope I -2.5 % p = 0.02; slope II -0.5 % p = 0.3; NHB -0.3 % p = 0.3; Asian -0.3 % p = 0.3; 
+Hisp -1.1 % p = 0.006
+Fig. 2 Annual incidence rate of female breast cancer in the United
+States with Joinpoint Regression (line of trends), by stage of tumor
+and race/ethnicity. Data from the U.S. National Cancer Institute’s
+Surveillance, Epidemiology, and End Results 18 Registries Database
+for cancers diagnosed between 2000 and 2009
+636
+Breast Cancer Res Treat (2013) 138:633–641
+123
+
+NHW
+NHB
+Asian
+Hisp
+15
+20
+25
+30
+35
+40
+45
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 20-39
+NHW
+NHB
+Asian
+Hisp
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 40-49
+NHW
+NHB
+Asian
+Hisp
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 50-69
+NHW
+NHB
+Asian
+Hisp
+260
+310
+360
+410
+460
+510
+560
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 70+
+NHW, non-Hispanic white; NHB, non-Hispanic black; Asian, Asian/Pacific Islander; Hisp, Hispanics
+Slopes with p < 0.1 (* 0.05 < p < 0.1; ** p < 0.05): 
+Age 20-39: NHB slope II 1.7 % p = 0.01; Age 40-49: NHW slope II 1.2 %, p = 0.0006; NHB 0.8 % p = 0.051; Asian 2.3 % p < 0.0001; 
+Hisp slope II 2.0 % p = 0.004; Age 50-69: NHW slope I -2.8 % p = 0.01; NHB 1.1 % p = 0.001; Hisp 0.5 % p = 0.09; Age 70+: NHW  
+slope I -2.6 % p = 0.02; NHB slope II 3.1 % p = 0.02; Asian 1.0 % p = 0.06. 
+Fig. 3 Annual incidence rate of all female breast cancer in the United
+States with Joinpoint Regression (line of trends), by age group and
+race/ethnicity. Data from the U.S. National Cancer Institute’s
+Surveillance, Epidemiology, and End Results 18 Registries Database
+for cancers diagnosed between 2000 and 2009
+Breast Cancer Res Treat (2013) 138:633–641
+637
+123
+
+NHW
+NHB
+Asian
+Hisp
+10
+12
+14
+16
+18
+20
+22
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 20-39
+NHW
+NHB
+Asian
+Hisp
+70
+80
+90
+100
+110
+120
+130
+140
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 40-49
+ER+ Breast Cancer
+NHW
+NHB
+Asian
+Hisp
+160
+180
+200
+220
+240
+260
+280
+300
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 50-69
+NHW
+NHB
+Asian
+Hisp
+150
+200
+250
+300
+350
+400
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 70+
+Slope with p < 0.1 (* 0.05 < p < 0.1; ** p < 0.05):
+Age 20-39: NHW 1.8 % p = 0.001; NHB 2.8 % p = 0.02, Hisp 2.0 % p = 0.008; Age 40-49: NHW 1.5 % P < 0.0001 %; NHB 2.4 % 
+p = 0.004; Asian 2.4 % p < 0.002; Hisp slope II 3.0 % p < 0.002; Age 50-69: NHW slope I -4.8 % p = 0.04; slope II 1.4 % p = 0.03;
+NHB 2.2 % p = 0.003; Asian 1.2 % p = 0.09; Hisp slope I -0.8 % p = 0.07; slope II 4.3 % p = 0.001; Age 70+: NHW slope I -3.3 %
+p = 0.03; slope II 1.6 % p = 0.006; NHB slope II 4.5 % p = 0.003; Asian 1.5 % p < 0.02.
+Fig. 4 Annual incidence rate of ER ? and ER- female breast cancer
+in the United States with Joinpoint Regression (line of trends), by age
+group and race/ethnicity. Data from the U.S. National Cancer
+Institute’s Surveillance, Epidemiology, and End Results 18 Registries
+Database for cancers diagnosed between 2000 and 2009
+638
+Breast Cancer Res Treat (2013) 138:633–641
+123
+
+NHW
+NHB
+Asian
+Hisp
+4
+6
+8
+10
+12
+14
+16
+18
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 20-39
+NHW
+NHB
+Asian
+Hisp
+30
+40
+50
+60
+70
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 40-49
+ER- Breast Cancer
+NHW
+NHB
+Asian
+Hisp
+40
+50
+60
+70
+80
+90
+100
+110
+120
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 50-69
+NHW
+NHB
+Asian
+Hisp
+40
+60
+80
+100
+120
+Yearly rate per 100,000 women
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+year
+Age 70+
+Slops with p < 0.1 (* 0.0 5< p < 0.1; ** p < 0.05):
+Age 20-39: NHW -1.8 % p = 0.004; NHB -1.9 % p = 0.006, Asian -3.7 % p = 0.04; Age 40-49: NHW -3.0 %, p = 0.0001; NHB slope 
+II -8.7 % p = 0.02; Hisp -2.3 % p < 0.001; Age 50-69: NHW -4.5 % p = 0.003; NHB slope II -1.6 % p = 0.02; Hisp -1.8 % p = 0.07; 
+Age 70+: NHW -2.1 % p = 0.0001; NHB -0.9 % p = 0.07; Hisp -2.2 % p = 0.02
+NHW, non-Hispanic white; NHB, non-Hispanic black; Asian, Asian/Pacific Islander; Hisp, Hispanics
+Fig. 4 continued
+Breast Cancer Res Treat (2013) 138:633–641
+639
+123
+
+ended in 2005. The overall trend remained stable in His-
+panics throughout the decade of 2000–2009. Previous
+studies reported that the breast cancer incidence stopped
+declining and has been relatively stable from 2005 to 2007
+[7]. With the most recent 2008 and 2009 data, we observed
+that the incidence has started to increase in many sub-
+groups deﬁned by race/ethnicity, age, tumor stage and type.
+For both non-Hispanic blacks and Asian/Paciﬁc Island-
+ers, the overall increase in breast cancer incidence appears
+to be driven by an increase in early-stage diseases (in situ
+and localized breast cancer), while the incidence of late-
+stage (regional and distant) breast cancer remained stable
+through the decade of 2000–2009. The discordant trend
+observed in non-Hispanic whites is possibly due to the
+marked reduction in the use of hormone replacement
+therapy in this racial group [14]. For Hispanics, although
+the incidence of all breast cancer appears stable between
+2000 and 2009, the incidence of early-stage breast cancer
+signiﬁcantly increased, while the incidence of late-stage
+breast cancer signiﬁcantly decreased.
+The trends for breast cancer subtype split in opposite
+directions, with ER-positive tumor incidence increasing
+while ER-negative tumor incidence decreasing in almost
+all age and racial/ethnic groups in recent years. This
+observation conﬁrms the trend reported by earlier studies
+[7, 9]. Although the decreasing rate of ER-negative breast
+cancer is considerable and signiﬁcant in all age groups,
+ER-breast cancer remains the highest among the blacks
+reported in this and previous studies [15]. On the other
+hand, the ER-positive cancer rate is increasing the fastest in
+blacks compared to all other racial groups, regardless of
+age. Therefore, it is likely that the molecular characteristics
+of breast cancer are shifting among the blacks, with fewer
+triple-negative
+subtype
+cancers diagnosed
+over
+time.
+However, comparing to other racial/ethnic groups, non-
+Hispanic blacks have the highest regional/distant breast
+cancer incidence throughout the decade, suggesting they
+still have the worst prognosis.
+It is possible that the changes in incidence rates, espe-
+cially estrogen receptor positive breast cancer, are due in
+part to improvements in cancer screening methods and,
+therefore, advance in early detection. The full-ﬁeld digital
+mammography has replaced screen-ﬁlm mammography in
+most breast screening programs [16]. Digital mammogra-
+phy has better sensitivity [17] particularly in detecting ER-
+positive and early-stage breast cancer such as ductal car-
+cinoma in situ [18, 19], and was reported to be more
+accurate in women under the age of 50 years [20]. On the
+other hand, however, it is unlikely that the overall trends of
+incidence rates are due to changes in mammography
+screening rate since mammography use has not substan-
+tially changed from 2000 through 2010 [21–23], although it
+has increased by large magnitudes in small groups with
+growing populations, such as new immigrants and Asian
+Americans [23]. Moreover, the U.S. Preventive Service
+Task Force stopped recommending routine screening for
+women age 40–49 in November 2009 [24, 25], which
+means the data we show here were not inﬂuenced by this
+guideline change. Increases in the incidence rate of
+ER? tumor in women younger than 40 may reﬂect that the
+risk factor proﬁle in younger generation have shifted over
+the years, but we could not postulate an exact reason.
+This study has several strengths and limitations. We
+conducted a descriptive analysis of population-based can-
+cer incidence rates from 18 SEER registries with high
+quality data, representing 28 % of the US population. We
+imputed ER status because there is signiﬁcant proportion of
+missing data in this variable, particularly for older patients
+and minorities. The database was large enough for us to do
+subgroup analysis by multiple factors including age of
+diagnosis, racial/ethnicity, stage of tumor, and ER status,
+providing detailed information on incidence trends in small
+subgroups. As discussed above, part of the incidence
+changes may be explained by different screening technol-
+ogy, yet we have limited information to quantify this
+inﬂuence. Moreover, the incidence rates of 2001–2009
+were based on populations extrapolated from the 2000 US
+Census, so the error in the extrapolation might bias the rate
+estimates. Finally, interpretation of recent breast cancer
+trends is limited since this study is descriptive only.
+In conclusion, with the updated SEER registry data up to
+2009, the recent incidence of breast cancer appears to be
+increasing in certain subgroups, including non-Hispanic
+blacks, Asian/Paciﬁc Islanders, early-stage breast cancer,
+and estrogen receptor positive breast cancer. Further
+studies are warranted to examine possible reasons for these
+changes, such as changes in mammography screening
+methods and risk factors prevalence.
+Acknowledgments
+The authors thank Walmy E. Sveen for her
+critical reading of the manuscript.
+Conﬂict of interest
+There are no potential conﬂicts of interest.
+References
+1. Jemal A, Ward E, Thun MJ (2007) Recent trends in breast cancer
+incidence rates by age and tumor characteristics among U.S.
+women. Breast Cancer Res 9(3):R28. doi:10.1186/bcr1672
+2. Katalinic A, Rawal R (2008) Decline in breast cancer incidence
+after decrease in utilisation of hormone replacement therapy.
+Breast Cancer Res Treat 107(3):427–430. doi:10.1007/s10549-
+007-9566-z
+3. Ravdin PM, Cronin KA, Howlader N, Berg CD, Chlebowski RT,
+Feuer EJ, Edwards BK, Berry DA (2007) The decrease in breast-
+cancer incidence in 2003 in the United States. N Engl J Med
+356(16):1670–1674. doi:10.1056/NEJMsr070105
+640
+Breast Cancer Res Treat (2013) 138:633–641
+123
+
+4. Chlebowski RT, Hendrix SL, Langer RD, Stefanick ML, Gass M,
+Lane D, Rodabough RJ, Gilligan MA, Cyr MG, Thomson CA,
+Khandekar J, Petrovitch H, McTiernan A (2003) Inﬂuence of
+estrogen plus progestin on breast cancer and mammography in
+healthy postmenopausal women: the Women’s Health Initiative
+Randomized Trial. JAMA 289(24):3243–3253. doi:10.1001/
+jama.289.24.3243
+5. Cronin KA, Ravdin PM, Edwards BK (2009) Sustained lower
+rates of breast cancer in the United States. Breast Cancer Res
+Treat 117(1):223–224. doi:10.1007/s10549-008-0226-8
+6. Krieger N, Chen JT, Waterman PD (2010) Decline in US breast
+cancer rates after the Women’s Health Initiative: socioeconomic
+and racial/ethnic differentials. Am J Public Health 100(Suppl
+1):S132–S139. doi:10.2105/AJPH.2009.181628
+7. DeSantis C, Howlader N, Cronin KA, Jemal A (2011) Breast
+cancer incidence rates in US women are no longer declining.
+Cancer Epidemiol Biomarkers Prev 20(5):733–739. doi:10.1158/
+1055-9965.EPI-11-0061
+8. Eheman C, Henley SJ, Ballard-Barbash R, Jacobs EJ, Schymura
+MJ, Noone AM, Pan L, Anderson RN, Fulton JE, Kohler BA, Jemal
+A, Ward E, Plescia M, Ries LA, Edwards BK (2012) Annual Report
+to the Nation on the status of cancer, 1975–2008, featuring cancers
+associated with excess weight and lack of sufﬁcient physical
+activity. Cancer 118(9):2338–2366. doi:10.1002/cncr.27514
+9. Anderson WF, Katki HA, Rosenberg PS (2011) Incidence of
+breast cancer in the United States: current and future trends.
+J Natl Cancer Inst 103(18):1397–1402. doi:10.1093/jnci/djr257
+10. SEER-18 Surveillance, Epidemiology, and End Results (SEER)
+Program
+(www.seer.cancer.gov)
+SEER*Stat
+Database:
+Inci-
+dence—SEER
+18
+Regs
+Research
+Data,
+Nov
+2011
+Sub
+(1973–2009) \ Katrina/Rita Population Adjustment [—Linked
+To County Attributes—Total U.S., 1969–2010 Counties, National
+Cancer Institute, DCCPS, Surveillance Research Program, Sur-
+veillance Systems Branch, released Apr 2012, based on the Nov
+2011 submission
+11. White IR, Royston P (2009) Imputing missing covariate values
+for the Cox model. Stat Med 28(15):1982–1998. doi:10.1002/
+sim.3618
+12. Van Buuren S, Boshuizen HC, Knook DL (1999) Multiple
+imputation of missing blood pressure covariates in survival
+analysis. Stat Med 18(6):681–694
+13. Kim HJ, Fay MP, Feuer EJ, Midthune DN (2000) Permutation
+tests for joinpoint regression with applications to cancer rates.
+Stat Med 19(3):335–351
+14. Pfeiffer RM, Mitani A, Matsuno RK, Anderson WF (2008) Racial
+differences inbreast cancertrendsintheUnitedStates(2000–2004).
+J Natl Cancer Inst 100(10):751–752. doi:10.1093/jnci/djn112
+15. Clarke CA, Keegan TH, Yang J, Press DJ, Kurian AW, Patel AH,
+Lacey JV Jr (2012) Age-speciﬁc incidence of breast cancer
+subtypes: understanding the black–white crossover. J Natl Cancer
+Inst 104(14):1094–1101. doi:10.1093/jnci/djs264
+16. Nederend J, Duijm LE, Louwman MW, Groenewoud JH, Donkers-
+van Rossum AB, Voogd AC (2012) Impact of transition from
+analog screening mammography to digital screening mammogra-
+phy on screening outcome in The Netherlands: a population-based
+study. Ann Oncol 23(12):3098–3103. doi:10.1093/annonc/mds146
+17. van Ravesteyn NT, Miglioretti DL, Stout NK, Lee SJ, Schechter
+CB, Buist DS, Huang H, Heijnsdijk EA, Trentham-Dietz A, Al-
+agoz O, Near AM, Kerlikowske K, Nelson HD, Mandelblatt JS,
+de Koning HJ (2012) Tipping the balance of beneﬁts and harms to
+favor screening mammography starting at age 40 years: a com-
+parative modeling study of risk. Ann Intern Med 156(9):609–617.
+doi:10.1059/0003-4819-156-9-201205010-00002
+18. Kirsh VA, Chiarelli AM, Edwards SA, O’Malley FP, Shumak
+RS, Yaffe MJ, Boyd NF (2011) Tumor characteristics associated
+with mammographic detection of breast cancer in the Ontario
+breast screening program. J Natl Cancer Inst 103(12):942–950.
+doi:10.1093/jnci/djr138
+19. Bluekens AM, Holland R, Karssemeijer N, Broeders MJ, den
+Heeten GJ (2012) Comparison of digital screening mammogra-
+phy and screen-ﬁlm mammography in the early detection of
+clinically relevant cancers: a multicenter study. Radiology
+265(3):707–714. doi:10.1148/radiol.12111461
+20. Pisano ED, Gatsonis C, Hendrick E, Yaffe M, Baum JK, Ach-
+aryya S, Conant EF, Fajardo LL, Bassett L, D’Orsi C, Jong R,
+Rebner M (2005) Diagnostic performance of digital versus ﬁlm
+mammography for breast-cancer screening. N Engl J Med
+353(17):1773–1783. doi:10.1056/NEJMoa052911
+21. Ryerson AB, Miller JW, Eheman CR, Leadbetter S, White MC
+(2008) Recent trends in US mammography use from 2000 to
+2006: a population-based analysis. Prev Med 47(5):477–482. doi:
+10.1016/j.ypmed.2008.06.010
+22. Miller JW, King JB, Joseph DA, Richardson LC (2012) Breast
+cancer screening among adult women—behavioral risk factor
+surveillance system, United States, 2010. MMWR Morb Mortal
+Wkly Rep 61(Suppl):46–50
+23. Breen N, Gentleman JF, Schiller JS (2011) Update on mam-
+mography trends: comparisons of rates in 2000, 2005, and 2008.
+Cancer 117(10):2209–2218. doi:10.1002/cncr.25679
+24. U.S. Preventive Services Task Force (2002) Screening for breast
+cancer: recommendations and rationale. Ann Intern Med 137(5
+Part 1):344–346
+25. U.S. Preventive Services Task Force (2009) Screening for breast
+cancer: US preventive services task force recommendation state-
+ment. Ann Intern Med 151(10):716–726. doi:10.1059/0003-4819-
+151-10-200911170-00008 W-236
+Breast Cancer Res Treat (2013) 138:633–641
+641
+123
+

@@ -1,0 +1,993 @@
+record_id=985 pmid=11275449 doi=10.1016/s0749-3797(00)00314-7
+SOURCE: manual-pdf
+TITLE: The risk of developing breast cancer within the next 5, 10, or 20 years of a woman's life
+
+The Risk of Developing Breast Cancer Within the
+Next 5, 10, or 20 Years of a Woman’s Life
+Cyllene R. Morris, DVM, PhD, William E. Wright, PhD, Robert D. Schlag, MSc
+Background:
+The lifetime risk of developing breast cancer is a frequently misinterpreted statistic. Risk
+projections over a shorter time period, conditioned on current age, may be less prone to
+misconceptions and more relevant to populations at different ages. The purpose of this
+study was to estimate the risk of developing breast cancer within the next 5, 10, or 20 years
+for women currently aged 30 to 70 years in California’s four major race/ethnic groups.
+Methods:
+Life tables were used to obtain risk estimates based on 1993–1997 breast cancer incidence
+rates from the California Cancer Registry and statewide mortality rates.
+Results:
+For women currently aged 50, the estimated risk of developing invasive breast cancer
+within 5 years varied from 0.8% (1 in 133) among Hispanics to 1.3% (1 in 75) among
+Caucasians. Risk estimates within 10 years were 2.9% (1 in 34) among Caucasians, 2.3% (1
+in 43) among African Americans, 2.0% (1 in 51) among Asian/Paciﬁc Islanders, and 1.6%
+(1 in 63) among Hispanics. Within 20 years, estimated risks increased to 6.6% (1 in 15)
+among Caucasians, 5.0% (1 in 20) among African Americans, 3.9% (1 in 26) among
+Asian/Paciﬁc Islanders, and 3.7% (1 in 27) among Hispanics. Risk estimates were 8% to
+20% higher when in situ tumors were included in the calculations.
+Conclusions:
+Based on these estimates, the baseline risk of developing breast cancer in the next 1 or 2
+decades of life varies by race/ethnicity and current age, but may be lower than the risk
+perceived by most women.
+Medical Subject Headings (MeSH): breast neoplasms, ethnic groups, life tables, racial
+stocks, risk (Am J Prev Med 2001;20(3):214–218)
+Introduction
+T
+he lifetime risk of developing breast cancer,
+frequently translated into the familiar statistic of
+one-in-nine women, is commonly cited in the
+health care community and the media. Notwithstand-
+ing the value of lifetime risk estimates as a way to
+communicate the need for breast cancer screening,
+misconceptions about this frequently cited number
+may be generating excessive fear and anxiety among
+women. For example, in a recent population-based
+survey, most respondents overestimated their average
+lifetime risk of breast cancer, independent of their age
+or prior exposure to information on breast cancer.1 A
+community survey of mammography use found that
+21% of women in their 40s perceived their personal risk
+as “higher than most.”2 Another study on perceptions
+of breast cancer risk found that 37% of women aged
+,50 overestimated their risk of developing breast can-
+cer within the next 10 years by a factor of ten or more.3
+The authors suggested that the one-in-nine lifetime risk
+may have been misinterpreted by women as being a
+short-term probability.3 Counseling apparently did not
+prevent women from overestimating their risks. In a
+randomized trial of risk counseling among ﬁrst-degree
+relatives of breast cancer patients, about two thirds of
+women who had been counseled continued to overes-
+timate their lifetime risks substantially.4 Similarly, many
+women with a family history of breast cancer who
+attended genetic counseling failed to recall risk ﬁgures
+correctly, and 66% could not accurately recall their
+own lifetime chance of developing the disease.5
+Lifetime risk is deﬁned as a newborn female’s prob-
+ability of eventually being diagnosed with breast cancer.
+It assumes that age-speciﬁc breast cancer incidence
+rates and mortality rates from all causes other than
+breast cancer will remain stable over her lifetime pe-
+riod. Risk projections over a shorter time period are
+therefore more likely to be accurate, and may be more
+meaningful to the general public. In addition, because
+breast cancer incidence and mortality vary markedly by
+race/ethnicity,6,7 race-speciﬁc risk estimates are more
+From the Public Health Institute, California Cancer Registry (Mor-
+ris), and California Department of Health Services, Cancer Surveil-
+lance Section (Wright, Schlag), Sacramento, California
+Address correspondence and reprint requests to: Cyllene R. Mor-
+ris, DVM, PhD, Public Health Institute, California Cancer Registry,
+1700 Tribute Road, Suite 100, Sacramento, CA 95815-4402. E-mail:
+cyllene@ccr.ca.gov.
+214
+Am J Prev Med 2001;20(3)
+0749-3797/01/$–see front matter
+Published by Elsevier Science Inc.
+PII S0749-3797(00)00314-7
+
+informative than estimates based on rates for women of
+all race/ethnic groups combined. The purpose of this
+study was to estimate the baseline risk of being diag-
+nosed with breast cancer within the next 5, 10, or 20
+years of life for California women of four different
+race/ethnicities: non-Hispanic Caucasian, Hispanic,
+non-Hispanic African American, and non-Hispanic
+Asian/Paciﬁc Islander (PI). Risk estimates were based
+on cancer incidence data from the California Cancer
+Registry
+(CCR),
+California’s
+statewide
+population-
+based cancer surveillance system, and mortality data
+from the Center of Health Statistics, California Depart-
+ment of Health Services. The unique diversity of the
+California population allowed for stable estimates of
+risk for these four race/ethnic groups.
+Methods
+In this report, the risk of developing cancer was taken to
+mean the risk of being diagnosed with cancer. Estimates of
+risk were obtained following the methodology of Feuer et
+al.,8,9 based on breast cancer incidence and mortality rates
+from all causes other than breast cancer in California from
+1993 to 1997. Two sets of estimates were calculated: (1) for all
+breast cancers (invasive plus in situ tumors) and (2) for
+invasive breast cancer only. The SAS System release 6.12 (SAS
+Institute Inc., Cary, NC) and DEVCAN, a computer program
+available through the National Cancer Institute (NCI),8 were
+used for all data analyses.
+Breast Cancer Incidence and Mortality Rates
+During the 1993–1997 period, 109,165 female breast cancers
+were diagnosed in California and reported to the CCR as of
+November 1999. Age-speciﬁc incidence rates for breast can-
+cer (Table 1) and mortality rates for all causes other than
+breast cancer were calculated for each race/ethnic group.
+Incidence rates were based on the number of ﬁrst primary
+breast cancers (invasive and invasive plus in situ cases)
+diagnosed in California women from 1993 to 1997. Non–
+breast-cancer mortality rates were obtained by subtracting
+breast cancer related deaths from the total number of deaths
+occurring in California during the period (Center of Health
+Statistics, California Department of Health Services). Race-
+and age-speciﬁc population estimates were obtained from the
+Demographic Research Unit, California Department of
+Finance.
+Deﬁnition of Race/Ethnicity
+Race/ethnicity for breast cancer cases, deaths, and popula-
+tion estimates was grouped into four mutually exclusive
+categories of non-Hispanic Caucasian, non-Hispanic African
+American, Hispanic, and non-Hispanic Asian/Paciﬁc Is-
+lander. Hispanic ethnicity of cases and deaths was based on
+information on the medical record or death certiﬁcate. In
+addition, women of any race who had a last name (or maiden
+name, when present) appearing on the 1980 U.S. Census list
+of 12,497 Hispanic surnames were also classiﬁed as Hispanic.
+The use of information on medical records together with
+surnames to identify Hispanics has been shown to improve
+Table 1. Average annual population estimatesa and female breast cancer 5-year age-speciﬁc incidence rates,b by age group
+and race/ethnicity,c California, 1993–1997
+Age
+group
+Population estimates
+Incidence rates (per 100,000 women)
+Invasive tumors only
+Invasive and in situ tumors
+African
+American Asian/PI Caucasian Hispanic
+African
+American Asian/PI Caucasian Hispanic
+African
+American Asian/PI Caucasian Hispanic
+0–4
+105,555
+143,545
+524,843
+616,276
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+5–9
+100,566
+129,644
+536,355
+469,043
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+10–14
+87,115
+123,966
+496,004
+387,904
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+15–19
+81,599
+116,386
+450,913
+344,454
+0.0
+0.0
+0.1
+0.2
+0.0
+0.0
+0.1
+0.2
+20–24
+81,970
+125,240
+477,303
+354,539
+2.4
+1.3
+1.3
+1.6
+2.7
+1.4
+1.4
+1.6
+25–29
+92,684
+132,472
+579,448
+398,805
+11.2
+5.3
+6.9
+6.4
+11.0
+5.7
+7.4
+6.8
+30–34 103,752
+149,935
+722,708
+397,281
+35.7
+20.0
+22.8
+19.5
+37.8
+22.4
+24.7
+20.1
+35–39 100,822
+157,788
+767,232
+348,393
+60.9
+51.1
+54.9
+42.0
+67.3
+57.7
+62.5
+46.0
+40–41
+86,779
+144,929
+714,183
+273,943 118.9
+103.2
+115.4
+82.4
+132.8
+124.1
+135.9
+92.9
+45–49
+70,103
+118,715
+640,422
+203,253 181.7
+151.3
+200.7
+126.8
+206.6
+180.6
+238.3
+142.8
+50–54
+52,762
+82,352
+511,483
+146,904 204.7
+186.3
+267.8
+150.4
+243.7
+222.7
+318.0
+173.5
+55–59
+43,198
+66,086
+409,220
+114,386 274.6
+207.0
+318.2
+175.4
+314.4
+246.0
+373.9
+196.9
+60–64
+35,926
+58,008
+370,966
+95,868 304.0
+201.7
+382.7
+210.9
+347.9
+234.5
+440.2
+236.4
+65–69
+31,120
+53,501
+384,459
+83,491 331.0
+210.5
+438.0
+249.9
+390.1
+248.2
+505.9
+285.1
+70–74
+27,296
+43,664
+384,039
+63,346 339.2
+202.5
+488.7
+266.2
+394.2
+231.8
+556.3
+301.5
+75–79
+19,731
+28,986
+304,441
+41,801 380.1
+213.2
+504.3
+272.2
+432.8
+251.8
+563.9
+301.4
+80–84
+13,335
+16,981
+221,780
+28,762 357.0
+193.2
+487.6
+221.8
+403.4
+221.4
+530.4
+246.2
+851
+10,750
+12,608
+199,168
+26,418 351.6
+145.9
+407.8
+165.8
+374.0
+149.1
+430.3
+177.9
+aAverage annual population estimates for the 1993–1997 period, California Department of Finance.
+bIncidence rates are based on the number of ﬁrst primary breast cancers diagnosed in California from 1993 through 1997, and reported to the
+California Cancer Registry as of November 1999.
+cRace/ethnicity categories are mutually exclusive. Women of Hispanic ethnicity were identiﬁed by medical record and/or surname, and may be
+of any race.
+Asian/PI, Asian/Paciﬁc Islander
+Am J Prev Med 2001;20(3)
+215
+
+the classiﬁcation of Hispanic ethnicity, which is often under-
+reported in medical records and death certiﬁcates.10
+Risk Estimates
+Calculations were based on a hypothetical cohort of 10
+million newborn females, for whom standard multiple-decre-
+ment life tables were derived.8,9 During each 5-year age
+interval, females in this cohort were considered to be at risk
+for two mutually exclusive events: (1) developing breast
+cancer for the ﬁrst time in their lives or (2) dying of other
+causes without having developed breast cancer. Mortality
+among women with breast cancer did not affect the calcula-
+tions, since they already had developed breast cancer. Prob-
+abilities derived from statewide incidence and mortality rates
+were applied to the hypothetical cohort to generate the
+number of women expected to develop breast cancer or to
+die of other causes without having developed breast cancer,
+during each age interval. Women who survived the interval
+free of breast cancer became the population at risk at the
+beginning of the next age interval. The risk of developing
+breast cancer within a particular age interval was estimated as
+the number of expected incident cancers developing during
+that interval divided by the population at risk (free of breast
+cancer) at the beginning of that period.
+Results
+Estimates of a woman’s risk of being diagnosed with
+invasive breast cancer within the next 5, 10, or 20 years
+(assuming she is free of breast cancer at her current
+age) are shown in Table 2. These estimates reﬂect the
+variation in the incidence of breast cancer by race/
+ethnicity in California, where rates have been highest
+among Caucasian women and lowest among Hispanic
+or Asian/PI women.6 For example, based on 1993–1997
+Table 2. Risk of being diagnosed with breast cancer within the next 5, 10, or 20 years, by race/ethnicity,a assuming no breast
+cancer at current age: California, 1993–1997
+Current
+age
+Invasive tumors only
+Invasive or in situ tumors
+15 years
+1 10 years
+120 years
+15 years
+1 10 years
+120 years
+Risk
+(%)
+One
+in:
+Risk
+(%)
+One
+in:
+Risk
+(%)
+One
+in:
+Risk
+(%)
+One
+in:
+Risk
+(%)
+One
+in:
+Risk
+(%)
+One
+in:
+All races
+30
+0.1
+895
+0.4
+250
+1.8
+56
+0.1
+836
+0.4
+250
+2.0
+50
+40
+0.5
+189
+1.4
+71
+3.8
+26
+0.6
+162
+1.6
+63
+4.5
+22
+50
+1.2
+86
+2.5
+40
+5.7
+18
+1.4
+73
+3.0
+33
+6.7
+15
+60
+1.6
+61
+3.4
+29
+7.0
+14
+1.9
+53
+4.0
+25
+8.0
+13
+70b
+2.1
+47
+4.1
+24
+—
+—
+2.5
+40
+4.7
+21
+—
+—
+African American
+30
+0.2
+563
+0.5
+200
+1.9
+53
+0.2
+532
+0.5
+200
+2.1
+48
+40
+0.6
+169
+1.5
+67
+3.7
+27
+0.7
+152
+1.7
+59
+4.2
+24
+50
+1.0
+98
+2.3
+43
+5.0
+20
+1.2
+83
+2.7
+37
+5.8
+17
+60
+1.5
+67
+3.0
+33
+5.5
+18
+1.7
+58
+3.5
+29
+6.4
+16
+70b
+1.6
+61
+3.2
+31
+—
+—
+1.9
+52
+3.7
+27
+—
+—
+Asian/Paciﬁc Islander
+30
+0.1
+1001
+0.4
+250
+1.6
+63
+0.1
+894
+0.4
+250
+1.9
+53
+40
+0.5
+194
+1.3
+77
+3.2
+31
+0.6
+161
+1.5
+67
+3.8
+26
+50
+0.9
+107
+2.0
+51
+3.9
+26
+1.1
+89
+2.3
+43
+4.6
+22
+60
+1.0
+98
+2.0
+50
+3.9
+26
+1.2
+84
+2.4
+42
+4.5
+22
+70b
+1.0
+98
+2.0
+50
+—
+—
+1.2
+85
+2.3
+43
+—
+—
+Caucasian
+30
+0.1
+879
+0.4
+250
+1.9
+53
+0.1
+811
+0.4
+250
+2.3
+43
+40
+0.6
+174
+1.6
+62
+4.4
+23
+0.7
+148
+1.9
+53
+5.2
+19
+50
+1.3
+75
+2.9
+34
+6.6
+15
+1.6
+63
+3.4
+29
+7.7
+13
+60
+1.9
+52
+4.0
+25
+8.0
+13
+2.2
+45
+4.7
+21
+9.2
+11
+70b
+2.5
+41
+4.7
+21
+—
+—
+2.8
+35
+5.3
+19
+—
+—
+Hispanic
+30
+0.1
+1026
+0.3
+333
+1.3
+77
+0.1
+995
+0.3
+333
+1.5
+67
+40
+0.4
+243
+1.0
+100
+2.6
+38
+0.5
+216
+1.2
+83
+3.0
+33
+50
+0.8
+133
+1.6
+63
+3.7
+27
+0.9
+115
+1.8
+56
+4.2
+24
+60
+1.1
+95
+2.2
+45
+4.5
+22
+1.2
+84
+2.5
+40
+5.0
+20
+70b
+1.3
+76
+2.5
+40
+—
+—
+1.5
+67
+2.8
+36
+—
+—
+aRace/ethnicity categories are mutually exclusive. Women of Hispanic ethnicity were identiﬁed by medical record and/or surname, and may be
+of any race.
+bEstimates were truncated at age 85, and are, therefore, not available for age 70 plus 20.
+216
+American Journal of Preventive Medicine, Volume 20, Number 3
+
+data, the estimated risk of developing invasive breast
+cancer for a 50-year-old woman of Hispanic ethnicity
+was 0.8% (1 in133) within the next 5 years, 1.6% (1 in
+63) within the next 10 years, and 3.7% (1 in 27) within
+the next 20 years. For a Caucasian woman of the same
+age, the risk of invasive breast cancer during the same
+period was substantially higher: 1.3% (1 in 75) within 5
+years, 2.9% (1 in 34) within 10 years, and 6.6% (1 in 15)
+within 20 years. A 50-year-old African-American woman
+had a 1.0% (1 in 98) risk of developing invasive breast
+cancer by age 55, a 2.3% (1 in 43) risk by age 60, and
+a 5.0% (1 in 20) risk by age 70. Similarly, the estimated
+risks for 50-year-old Asian/PI women were 0.9% (1 in
+107), 2.0% (1 in 51), and 3.9% (1 in 26) within the next
+5, 10, and 20 years, respectively.
+The older the woman, the higher the risk of devel-
+oping breast cancer in the next 5 to 20 years of her life,
+reﬂecting the fact that incidence rates increase with
+age.6 However, the risk in the next 20 years for a woman
+at any age was always higher than the risk in the next 10
+years for a woman 10 years older. For example, the
+estimated risk by age 70 for a 50-year-old woman was
+higher than the risk by age 70 for a 60-year-old woman.
+This is because, unlike an older woman who has already
+survived and reached her current age free of breast
+cancer, a woman 10 years younger is still at risk of
+developing breast cancer in the next decade of her life.
+Overall, risk estimates increased by 8% to 20% when
+in situ cancers were included in the calculations (Table
+2). As expected, such an increase in risk estimates for
+the age groups included in this study paralleled the
+proportion of in situ tumors among all breast cancers
+diagnosed in California from 1993 to 1997.6
+Discussion
+The lifetime risk of developing invasive breast cancer,
+albeit a powerful translational statistic, has been fre-
+quently misinterpreted by the lay media and the public.
+The commonly cited one-in-eight ﬁgure (or one in
+nine when truncated to age 85) represents a newborn
+female’s likelihood of eventually being diagnosed with
+invasive breast cancer, and does not apply to women of
+all ages. For women who are currently over 40, esti-
+mates of the risk of developing invasive breast cancer at
+some time during the remainder of their lives actually
+decrease with age,6,11 and differ substantially from
+estimates of lifetime risk for a newborn. The difference
+in risk is due to the fact that an older woman has
+already survived several decades free of breast cancer,
+while a newborn is still at risk of developing breast
+cancer (or dying of other causes) until she reaches that
+particular age. Another frequent misconception is that
+lifetime risk estimates are valid only if all women live to
+a speciﬁc age (e.g., 85 or 95 years), when in reality
+calculations take into account the likelihood of dying of
+other causes at any age.9 In addition to these miscon-
+ceptions, risk estimates are projections of current rates
+into the future and are, therefore, valid only if these
+rates remain stable over time. In the short term, such
+an assumption may hold true, but is probably not
+realistic over a long period of time. On one hand,
+improvements in screening technology may inﬂate
+incidence rates, since more tumors are detected at an
+earlier stage of development. On the other hand, breast
+cancer research may lead to more-effective prevention
+strategies and, therefore, to an actual decrease in risk.
+For these reasons, risk estimates based on current age
+and calculated for the next decade or two may be more
+accurate, less prone to misconceptions and, therefore,
+more meaningful to the general population.
+In this study, the risk of developing breast cancer
+varied markedly by race/ethnicity, reﬂecting the al-
+ready recognized race/ethnic differences in breast can-
+cer rates in California and the United States.6,7,11 The
+accuracy of ethnic classiﬁcation is an ever-present con-
+cern in health studies that utilize medical record data,
+since ethnicity assignment in medical records may
+involve subjective appraisals by hospital personnel. The
+possibility of some misclassiﬁcation of Hispanic ethnic-
+ity in this study cannot be ruled out. However, such
+misclassiﬁcation was minimized by supplementing med-
+ical record information with use of the patient’s sur-
+name. An earlier California study demonstrated that
+use of medical records plus surname reduced the bias
+observed with use of either method alone when com-
+pared with self-identiﬁcation of ethnicity.10
+Differences in mortality rates and in screening prac-
+tices may have a substantial impact on risk estimates.
+High non–breast-cancer-related mortality rates de-
+crease the number of women in the life table at risk for
+breast cancer. When cancer probabilities are applied to
+a smaller population at risk, the expected number of
+breast cancers will be accordingly smaller. Assuming
+identical incidence rates, risk estimates would be lower
+for a race/ethnic group with higher mortality rates,
+because the number of cancers in the life table (to be
+divided by the initial population at risk) would be
+smaller. Mammography screening can also affect breast
+cancer risk in two opposite ways. Screening may reduce
+risk because prevalent cases are excluded from the
+population at risk, but it may also increase the risk due
+to lead time and, particularly for in situ tumors, over-
+diagnosis bias.
+This study is based on California statewide data, and
+we do not know to what extent these risk estimates can
+be extrapolated to other geographic areas in the
+United States. However, interval risks of developing
+invasive breast cancer for African-American and Cauca-
+sian women in this study are consistent with estimates
+from the NCI’s Surveillance, Epidemiology, and End
+Results (SEER) program, based on data from 1995
+through 1997.11 Risk estimates for Hispanic and
+Asian/PI women, or for invasive/in situ tumors were
+Am J Prev Med 2001;20(3)
+217
+
+not available from SEER or, to the best of our knowl-
+edge, from other population-based registries.
+The population-based estimates of risk presented in
+this report do not take into account risk factors other
+than age and race/ethnicity, and represent the average
+risk of breast cancer. More-complex models have been
+developed that project the risk of breast cancer with
+consideration of individual risk factors.12–14 One of
+these models, developed by Claus et al.,12 calculates
+breast cancer risk for women with a ﬁrst-degree family
+history of ovarian cancer. The Gail model,13 and a
+modiﬁcation of this model developed by the National
+Surgical Adjuvant Breast and Bowel Project,14 account
+for individual risk factors such as current age, age at
+menarche, age at ﬁrst live birth, number of previous
+breast biopsies, presence of atypical hyperplasia, and
+number of affected ﬁrst-degree relatives. Such models
+can be very useful to counsel individual women, but
+have limited use for communicating risk to a broader
+population. In addition, these models were developed
+based on the occurrence of breast cancer in Caucasian
+women only, and their validity for women of other
+race/ethnic groups has not been determined.15
+Clearly, age and race/ethnicity alone cannot predict
+the risk of developing cancer for an individual woman,
+for whom the limitations of risk projections should be
+recognized. However, population-based estimates can
+be used by health care providers in primary care
+settings to increase awareness and encourage screening
+among older women and, at the same time, put breast
+cancer risk into perspective among younger women.
+Based on these estimates, the baseline risk of develop-
+ing breast cancer in the next 1 or 2 decades of life may
+be considerably lower than the risk perceived by most
+women. Use of this statistic to communicate a woman’s
+average risk of developing breast cancer at her current
+age may reduce the current confusion and anxiety
+around this serious issue.
+References
+1. Hebert-Croteau N, Goggin P, Kishchuk N. Estimation of breast cancer risk
+by women aged 40 and over: a population-based study. Can J Public Health
+1997;88:392–6.
+2. Harris RP, Fletcher SW, Gonzales JJ, et al. Mammography and age: are we
+targeting the wrong women? Cancer 1991;67:2010–4.
+3. Black WC, Nease RF, Tosteson ANA. Perceptions of breast cancer risk and
+screening effectiveness in women younger than 50 years of age. J Natl
+Cancer Inst 1995;87:720–31.
+4. Lerman C, Lustbader E, Rimer B, et al. Effects of individualized breast
+cancer risk counseling: a randomized trial. J Natl Cancer Inst 1995;87:286–
+92.
+5. Lloyd S, Watson M, Waites B, et al. Familial breast cancer: a controlled
+study of risk perception, psychological morbidity and health beliefs in
+women attending for genetic counseling. Br J Cancer 1996;74:482–7.
+6. Morris CR, Cohen R, Perkins CI, Allen M, Schlag R, Wright WE. Cancer in
+California: 1988–1997. Sacramento, CA: California Department of Health
+Services, Cancer Surveillance Section, 2000.
+7. Miller BA, Kolonel LN, Bernstein L, et al. Racial/ethnic patterns of cancer
+in the United States, 1988–1992. Bethesda, MD: National Cancer Institute,
+1996.
+8. Feuer EJ, Wun LM. DEVCAN: Probability of Developing Cancer Software.
+Bethesda, MD: National Cancer Institute, 1994.
+9. Feuer EJ, Wun LM, Boring CC, Flanders WD, Timmel MJ, Tong T. The
+lifetime risk of developing breast cancer. J Natl Cancer Inst 1993;85:892–7.
+10. Stewart SL, Swallen KC, Glaser SL, Horn-Ross PL, West DW. Comparison of
+methods for classifying Hispanic ethnicity in a population-based cancer
+registry. Am J Epidemiol 1999;149:1063–71.
+11. Ries LAG, Eisner MP, Kosary CL, et al. SEER cancer statistics review,
+1973–1997. Bethesda, MD: National Cancer Institute, 2000.
+12. Claus EB, Risch N, Thompson WD. The calculation of breast cancer risk for
+women with a ﬁrst-degree family history of ovarian cancer. Breast Cancer
+Res Treat 1993;28:115–20.
+13. Gail MH, Brinton LA, Bylar DP, et al. Projecting individualized probabili-
+ties of developing breast cancer for Caucasian females who are being
+examined annually. J Natl Cancer Inst 1989;81:1879–86.
+14. Anderson SJ, Ahnn S, Duff K. NSABP Breast Cancer Prevention Trial risk
+assessment program, version 2. Pittsburgh, PA: National Surgical Adjuvant
+Breast and Bowel Project Biostatistical Center Technical Report, August 14,
+1992.
+15. Constantino JP, Gail MH, Pee D, et al. Validation studies for models
+projecting the risk of invasive and total breast cancer incidence. J Natl
+Cancer Inst 1999;91:1541–8.
+218
+American Journal of Preventive Medicine, Volume 20, Number 3
+

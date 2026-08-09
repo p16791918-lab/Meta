@@ -1,0 +1,8471 @@
+record_id=617 pmid=17939129 doi=10.1002/cncr.23044
+SOURCE: manual-pdf
+TITLE: Annual report to the nation on the status of cancer, 1975-2004, featuring cancer  in American Indians and Alaska Natives
+
+C O M M E N T A R Y
+Annual Report to the Nation on
+the Status of Cancer, 1975–2004,
+Featuring Cancer in American
+Indians and Alaska Natives
+David K. Espey, MD1
+Xiao-Cheng Wu, MD, MPH2,3
+Judith Swan, MSH4
+Charles Wiggins, MPH, PhD5
+Melissa A. Jim, MPH1
+Elizabeth Ward, PhD6
+Phyllis A. Wingo, PhD1
+Holly L. Howe, PhD2
+Lynn A. G. Ries, MS4
+Barry A. Miller, DrPH4
+Ahmedin Jemal, DVM, PhD6
+Faruque Ahmed, PhD1
+Nathaniel Cobb, MD7
+Judith S. Kaur, MD8
+Brenda K. Edwards, PhD4
+1 Division of Cancer Prevention and Control, National Center for Chronic Disease Prevention and
+Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia.
+2 North American Association of Central Cancer Registries, Springfield, Illinois.
+3 Louisiana Tumor Registry, Epidemiology Program, School of Public Health, Louisiana State
+University Health Science Center, Louisiana State University, New Orleans, Louisiana.
+4 Division of Cancer Control and Population Sciences, National Cancer Institute, Bethesda, Maryland.
+5 New Mexico Tumor Registry, University of New Mexico, Albuquerque, New Mexico.
+6 Epidemiology and Surveillance Research Department, American Cancer Society, Atlanta, Georgia.
+7 Division of Epidemiology and Disease Prevention, Indian Health Service, Albuquerque, New Mexico.
+8 Department of Oncology, Mayo Clinic College of Medicine, Rochester, Minnesota.
+BACKGROUND. The American Cancer Society, the Centers for Disease Control and
+Prevention, the National Cancer Institute, and the North American Association of
+Central Cancer Registries collaborate annually to provide updated information on
+cancer occurrence and trends in the U.S. The 2007 report features a comprehensive
+compilation of cancer information for American Indians and Alaska Natives (AI/AN).
+METHODS. Cancer incidence data were available for up to 82% of the U.S. popula-
+tion. Cancer deaths were available for the entire U.S. population. Long-term
+(1975 through 2004) and fixed-interval (1995 through 2004) incidence and mor-
+tality trends were evaluated by annual percent change using regression analyses
+(2-sided P <.05). Cancer screening, risk factors, socioeconomic characteristics,
+incidence data, and stage were compiled for non-Hispanic whites (NHW) and
+AI/AN across 6 regions of the U.S.
+We thank Andrew Lake, Rick Firth, Danielle Mel-
+bert, and Martin Krapcho of Information Manage-
+ment Services, Inc. for assisting in statistical
+analyses.
+We also thank Tom Richards and Mary White, Di-
+vision of Cancer Prevention and Control, Centers
+for Disease Control and Prevention, Atlanta, Geor-
+gia for assistance with graphics and their helpful
+comments on the article.
+Phyllis A. Wingo was under contract with the In-
+dian Health Service for a portion of her work on
+this manuscript.
+This article was originally published online on
+October 15, 2007, and it is presented here with
+the following modifications: Dr. Wu’s degree
+appears correctly above, and some data was
+realigned in the tables to improve the readability
+of the data being presented. The changes do not
+affect the core data or the conclusions of the ar-
+ticle in any way. The publisher apologizes for this
+oversight and any confusion that may have
+ensued.
+Address for reprints: David K. Espey, MD, Division
+of Cancer Prevention and Control, Centers for
+Disease Prevention and Control and Division of
+Epidemiology
+and
+Disease
+Prevention,
+Indian
+Health Service, 5300 Homestead NE, Albuquer-
+que, NM 87110; Fax: (505) 248-4393; E-mail:
+david.espey@ihs.gov
+Received August 13, 2007; revision received
+August 20, 2007; accepted August 21, 2007.
+*This article is a U.S. government work and, as
+such, is in the public domain in the United
+States of America.
+Published 2007 by the American Cancer Society*
+DOI 10.1002/cncr.23044
+Published online 15 October 2007 in Wiley InterScience (www.interscience.wiley.com).
+2119
+
+RESULTS. Overall cancer death rates decreased by 2.1% per year from 2002
+through 2004, nearly twice the annual decrease of 1.1% per year from 1993
+through 2002. Among men and women, death rates declined for most cancers.
+Among women, lung cancer incidence rates no longer were increasing and death
+rates, although they still were increasing slightly, were increasing at a much
+slower rate than in the past. Breast cancer incidence rates in women decreased
+3.5% per year from 2001 to 2004, the first decrease observed in 20 years. Colorec-
+tal cancer incidence and death rates and prostate cancer death rates declined,
+with colorectal cancer death rates dropping more sharply from 2002 through
+2004. Overall, rates for AI/AN were lower than for NHW from 1999 through 2004
+for most cancers, but they were higher for cancers of the stomach, liver, cervix,
+kidney, and gallbladder. Regional analyses, however, revealed high rates for AI/
+AN in the Northern and Southern Plains and Alaska. For cancers of the breast,
+colon and rectum, prostate, and cervix, AI/AN were less likely than NHW to be
+diagnosed at localized stages.
+CONCLUSIONS. For all races/ethnicities combined in the U.S., favorable trends in
+incidence and mortality were noted for lung and colorectal cancer in men and
+women and for breast cancer in women. For the AI/AN population, lower overall
+cancer incidence and death rates obscured important variations by geographic
+regions and less favorable healthcare access and socioeconomic status. Enhanced
+tobacco control and cancer screening, especially in the Northern and Southern
+Plains
+and
+Alaska,
+emerged
+as
+clear
+priorities.
+Cancer
+2007;110:2119–52.
+Published 2007 by the American Cancer Society.*
+KEYWORDS: cancer, incidence, mortality, American Indian, Alaska Native, National
+Program of Cancer Registries, Surveillance, Epidemiology, and End Results, Amer-
+ican Cancer Society, North American Association of Central Cancer Registries,
+U.S., health disparity.
+T
+he American Cancer Society (ACS), the Centers
+for Disease Control and Prevention (CDC), the
+National Cancer Institute (NCI), and the North Amer-
+ican
+Association
+of
+Central
+Cancer
+Registries
+(NAACCR) collaborate annually to assess the cancer
+burden in the U.S. The 1998 report documented the
+first sustained decline in cancer death rates since the
+1930s.1 Subsequent reports updated information on
+trends in incidence and death rates and featured
+timely, in-depth analyses of selected topics.2–9 The
+American Indian and Alaska Native (AI/AN) cancer
+experience has not been described well except for a
+few geographic areas. This 2007 report updates the
+cancer profile for the U.S. and describes regional pat-
+terns of cancer in AI/AN using methods that mitigate
+the effects of race misclassification.
+MATERIALS AND METHODS
+Cancer Cases, Cancer Deaths, and
+Population Estimates
+Population-based cancer registries collect informa-
+tion on all reportable cancer cases. They participate
+in the CDC’s National Program of Cancer Registries
+(NPCR), in the NCI’s Surveillance, Epidemiology, and
+End Results (SEER) Program, or both; and all are
+members of NAACCR. In this report, incidence data
+from these registries refer to invasive cancers, with
+the exception of in situ cancer of the urinary bladder
+(bladder). Primary cancer site and histology data
+were coded according to the International Classifica-
+tion of Diseases (ICD) for Oncology (ICD-O) edition
+in use at the time of diagnosis, converted to the
+Third Edition coding10 and categorized according to
+SEER site groups.11
+U.S. cancer deaths, reported to state vital statis-
+tics offices and consolidated through CDC’s National
+Vital Statistics System,12 were coded using the ver-
+sion of the ICD in use at the time of death.13–16
+Underlying causes of cancer death were grouped
+according to the SEER cause of death recode for
+maximum comparability among ICD versions.11 Mor-
+tality data were provided by all 50 states and the Dis-
+trict
+of
+Columbia;
+however,
+death
+rates
+for
+the
+Hispanic population did not include data from 5
+states (Maine, Minnesota, New Hampshire, North
+Dakota, and Oklahoma) because of incomplete ethni-
+city information for at least one of the reporting
+years in the analyses.17
+2120
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+County level population estimates from the U.S.
+Bureau of the Census, modified by NCI, were used as
+denominators in the rate calculations.18 Because the
+2000 census allowed respondents to identify them-
+selves
+as
+multiracial,
+CDC’s
+National
+Center
+for
+Health Statistics collaborated with the Census Bureau
+to develop bridging methods for single-race esti-
+mates to describe long-term trends in disease.19 The
+bridged,
+single-race
+annual
+population
+estimates
+were used for the years 1990 through 2004.
+All
+analyses
+(long-term
+trends,
+fixed-interval
+trends, and average annual rates) were based on inci-
+dence data for various geographic areas. Incidence
+data were not available uniformly for all populations,
+time periods, and geographic areas. Long-term inci-
+dence trends (1975 through 2004) for all races/ethni-
+cities combined by sex for all sites combined and the
+15 most common cancers were based on SEER inci-
+dence data covering approximately 10% of the U.S.
+population, the only source for long-term incidence
+analyses.20 Fixed-interval trends (1995 through 2004)
+for all race/ethnic populations combined and for
+white, black, Asian/Pacific Islander (API), Hispanic,
+and non-Hispanic populations for all sites combined
+and for the 15 most common cancers were based on
+data from 24 cancer registries covering approxi-
+mately 59% of the U.S. population. Average-annual
+(2000 through 2004), sex-specific, and age-adjusted
+incidence rates for white, black, API, Hispanic, and
+non-Hispanic populations were based on incidence
+data from 39 cancer registries, covering approxi-
+mately 82% of the U.S. population. For the AI/AN
+population, data for 2 geographic catchment areas
+are presented for fixed-interval trends and rates. The
+first includes AI/AN data from all counties in states
+that were included in the analytic dataset. The sec-
+ond includes only data from Indian Health Service
+(IHS) Contract Health Service Delivery Area (CHSDA)
+counties in the states that were included in the ana-
+lytic dataset (see ‘‘Data for AI/AN’’ below, for an ex-
+planation of CHSDA) (Table 1). Because the AI/AN
+population is smaller proportionally than the other
+major race/ethnic populations, 6 years of data (1999
+through 2004) were used for AI/AN incidence and
+death rates to increase the precision of the estimates.
+All
+registry
+data
+included
+in
+the
+analyses
+met
+NAACCR’s standards for high-quality cancer inci-
+dence data. The percent of population coverage for
+each of the cancer incidence datasets used for the
+tables in this report are summarized in Table 1,
+including the percentage of the AI/AN population
+covered by each.
+TABLE 1
+U.S. Population Coverage for Data Sets Used in Cancer Incidence Analyses by Race/Ethnicity
+Race/ethnicity
+Incidence trends
+Incidence rates
+Long-term trends
+Fixed-interval trends
+2000–2004
+39 Statesb
+%d
+AI/AN
+AI/AN (CHSDA Counties)
+1975–2004
+SEERa
+%d
+1995–2004
+24 Statesb
+%d
+1999–2004
+41 Statesb,c
+%d
+1999–2004
+30 Statesb,c
+%d
+2001–2003
+30 Statesb,c
+%d
+(Table 2)
+(Table 4)
+(Table 4)
+(Table 4)
+(Tables 4,7,8)
+(Table 9)
+All race/ethnic groups
+9.4
+59.3
+81.8
+White
+58.8
+82.1
+Black
+56.0
+77.9
+API
+80.6
+89.7
+AI/AN
+48.5
+87.7
+AI/AN (CHSDA counties)
+20.7e
+52.1
+52.7
+Hispanic
+84.6
+91.0
+Non-Hispanic
+55.7
+80.4
+Non-Hispanic white
+19.8
+20.2
+AI/AN indicates American Indian and Alaska Native; CHSDA, Indian Health Service Contract Health Service Delivery Area; SEER, Surveillance, Epidemiology, and End Results; NPCR, National Program of Cancer
+Registries; NAACCR, North American Association of Central Cancer Registries.
+a SEER areas include Connecticut, Hawaii, Iowa, Utah, and New Mexico and the metropolitan areas of San Francisco, Detroit, Atlanta, and Seattle-Puget Sound (ie SEER 9).
+b NPCR and SEER areas with cancer registry data reported by the NAACR as meeting high-quality standards for the specified period.
+c The Wisconsin and Arizona data for the specified period are used for AI/AN as well as AI/AN and non-Hispanic white in CHSDA counties only.
+d Percentage of the U.S. population.
+e Data from 17 states that met high-quality standards for the specified period.
+Report to the Nation, 19752004/Espey et al.
+2121
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Classification of American Indian and
+Alaska Native Race
+Race generally is documented by cancer registries
+based on the patient’s medical record; however, it
+has been determined that many AI/AN were misclas-
+sified as non-Native in some central cancer regis-
+tries21–26
+and
+in
+state
+death
+records.27
+Such
+misclassification leads to underestimation of the true
+burden of cancer in AI/AN populations.
+To improve race classification for AI/AN cases,
+all records for cases diagnosed from 1995 through
+2004 were linked with the IHS patient registration
+database to identify AI/AN cases that were misclassi-
+fied as non-Native. The IHS provides medical ser-
+vices to AI/AN persons who are members of federally
+recognized tribes. Membership criteria are deter-
+mined by individual tribes and typically refer to a
+percentage of ‘‘blood quantum’’ or fraction of AI/AN
+ancestry, with some tribes requiring only proof of
+descent from an AI/AN ancestor, whereas others
+may require as much as one-half ancestry (one-half
+blood quantum).28 The patient registration database
+includes persons who have received services since
+1985 provided either in an IHS and/or tribal facility
+or by a non-IHS or nontribal program and paid by
+IHS Contract Health Services funds. A small number
+of non-AI/AN persons are eligible for IHS services
+through marriage or other basis; these records were
+removed before linkage with the registries. Linkages
+were conducted using LinkPlus, a probabilistic link-
+age software program that was developed by CDC
+that was applied to key patient identifiers (Social Se-
+curity number, first name, last name, middle initial,
+date of birth, and date of death).29 Possible matches,
+requiring manual review, were examined independ-
+ently by 2 reviewers and, when necessary, were adju-
+dicated by a third reviewer.
+The cancer incidence rates in this report use in-
+formation from the IHS linkage in combination with
+information from the race variables that are reported
+routinely by the central cancer registries. Beginning
+with cancer cases diagnosed on January 1, 2000 and
+later, registries report data in multiple race fields for
+multiracial individuals if that information is available
+from medical records.30 Coding rules specify that, for
+persons of multiple races, a nonwhite race takes pri-
+ority over white race for analytic purposes.31 For this
+report, all cases classified as AI/AN in the first race
+field were retained in that category. In addition,
+when the first race field was classified as white or
+unknown and there was a positive IHS link, then the
+case also was reclassified as AI/AN for this report. If
+the first race field was coded as API, black, or other
+race and there was a positive IHS link, then the value
+for first race was retained.
+Data for American Indians and Alaska Natives
+For the AI/AN population in this report, emphasis is
+placed on data from IHS CHSDA counties, which, in
+general, contain federally recognized tribal lands or
+are adjacent to tribal lands (Fig. 1). Unpublished data
+indicate less race misclassification for AI/AN in these
+counties than in non-CHSDA counties. Also, the
+proportions of AI/AN in relation to total population
+are higher in CHSDA counties than in non-CHSDA
+counties; 57% of the U.S. AI/AN population resides
+in the 624 counties designated as CHSDA (Table 1
+Supplement A, which shows the AI/AN population by
+region and residence in CHSDA county, is available
+at
+URL:
+www.seer.cancer.gov/report_to_nation/).
+Analyses restricted to CHSDA counties are presented
+for cancer incidence and death rates and stage distri-
+bution in this report to improve accuracy in inter-
+preting
+cancer
+statistics
+for
+AI/AN
+persons
+(for
+distribution of CHSDA counties, see Fig. 1). All
+results described in the text for AI/AN refer to AI/AN
+persons who reside in CHSDA counties unless noted
+otherwise.
+The
+analysis
+of
+AI/AN
+data
+by
+IHS
+region
+(Alaska,
+Pacific
+Coast,
+Northern
+Plains,
+Southern
+Plains, Southwest, and East) (Fig. 1) was consistent
+with known regional trends for specific health out-
+comes and risk factors for AI/AN. Regional analyses
+have been presented in several publications focusing
+on AI/AN,32–35 and this approach was preferable to
+the use of smaller jurisdictions, such as the Adminis-
+trative Areas defined by IHS,36 which yielded less
+stable estimates. Supplemental information regarding
+population coverage and other measures of the bur-
+den of cancer in the AI/AN by IHS region is con-
+tained in a Table on the NCI web site (available at
+URL: www.seer.cancer.gov/report_to_nation/). Addi-
+tional data regarding cancer incidence and mortality
+are available from the following sites: www.cancer.-
+gov (NCI), www.cancer.org (ACS), www.cdc.gov/can-
+cer/npcr/index.htm
+and
+www.cdc.gov/nchs/about/
+major/dvs/mortdata.htm
+(CDC),
+and
+www.naaccr.
+org/CINAP?index.htm (NAACCR).
+Socioeconomic Status, Healthcare Access, Risk Factors,
+Screening, and Stage
+Data
+regarding
+socioeconomic
+status,
+healthcare
+access, behavioral risk factors, and cancer screening
+by race/ethnicity and geographic region were ob-
+tained from the U.S. Census Bureau and the CDC’s
+Behavioral Risk Factor Surveillance System (BRFSS)
+and were categorized according to Healthy People
+2010
+objectives.37
+Questions
+concerning
+cigarette
+smoking, physical activity, alcohol consumption, and
+Papanicolaou (Pap) tests (women only) were asked of
+2122
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+adults aged 18 years. Questions also were asked
+regarding participation in mammography screening
+among women aged 40 years, colorectal cancer
+screening among persons aged 50 years, and pros-
+tate-specific antigen (PSA) testing among men aged
+50 years who reported no history of prostate can-
+cer. Adults aged 20 years were asked about self-
+reported obesity prevalence.
+The distribution of stage of disease at diagnosis
+for cancers of the breast, prostate, colon and rectum,
+and cervix uteri (cervix) was examined for non-His-
+panic white (NHW) and AI/AN populations region-
+ally and in all regions combined. Cancer incident
+cases were staged using the 2000 SEER Summary
+Stage. To eliminate the effect of different staging sys-
+tems both before 2001 and after 2003, only indivi-
+duals who were diagnosed from 2001 through 2003
+were included for cancer stage statistics.38
+Statistical Analysis
+For all populations, cancer incidence and death rates
+were expressed per 100,000 persons and were age-
+adjusted by 19 age groups (aged < 1 year, ages 1–4
+years, ages 5–9 years, . . ., ages 80–84 years, aged 85
+years) to the 2000 U.S. standard population. Age
+adjustment summarizes age-specific rates and elimi-
+nates the effect of differences in age composition
+among the populations being compared.39 The AI/
+AN population is younger on average than the NHW
+population.40 Rates, standard errors, and 95% confi-
+dence
+intervals
+(95%
+CIs)
+were
+generated
+using
+SEER*Stat software, version 6.3 (available at URL:
+http://www.seer.cancer.gov/seerstat/).20 All incidence
+and
+death
+rates
+that
+were
+calculated
+with < 16
+observations were suppressed. Similarly, the annual
+percent change (APC) statistic was suppressed if it
+was based on < 10 cases for at least 1 year within
+the time interval.
+Long-term cancer incidence and death trends
+(1975 through 2004) were described using joinpoint
+analysis, including the APC for each interval, for all
+races/ethnicities combined.41 Statistical significance
+was set at P <.05. The observed incidence trends
+and
+those
+adjusted
+for
+reporting
+delay
+(mostly
+affecting recent years) were presented using models
+based on long-term reporting patterns in SEER.42
+Nondelay-adjusted and delay-adjusted APCs are pre-
+sented;
+however,
+only
+delay-adjusted
+results
+are
+referred to in the text. APC analysis was used to
+describe fixed interval trends (1995 through 2004);
+the incidence data for the fixed interval APCs were
+not adjusted for reporting delay. For both methods
+of trend analysis, the terms ‘‘increase’’ or ‘‘decrease’’
+were used when the slope of the trend was statisti-
+cally
+significant
+(P <.05);
+otherwise,
+the
+terms
+‘‘stable’’ or ‘‘level’’ were used.
+FIGURE 1. States and Contract Health Service Delivery Area (CHSDA) counties used in cancer incidence analyses for the American Indian/Alaska Native popu-
+lation, by Indian Health Service region.
+Report to the Nation, 19752004/Espey et al.
+2123
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Prevalence estimates for screening and risk fac-
+tors were calculated using data from the BRFSS
+aggregated over the 6-year period 1999 through 2005.
+Not all years were available for each BRFSS-derived
+risk factor, because some questions were not asked
+every year. Prevalence estimates from BRFSS were
+age-adjusted to the 2000 U.S. standard population
+and sample-weighted using SUDAAN software to
+account for the complex BRFSS sampling design.43
+Prevalence estimates for cancer risk factors and
+screening
+were
+suppressed
+if
+they
+were
+based
+on < 50 observations. Prevalence estimates of socio-
+economic characteristics from U.S. Census were not
+age-adjusted. Confidence intervals are provided for
+all prevalence estimates; however, they do not pro-
+vide a basis for significance testing of regional differ-
+ences.44
+Regional, site-specific comparisons of incidence
+rates between AI/AN and NHW populations are
+shown by rate ratios (RR) with 95% CIs. In describing
+rate comparisons for AI/AN and NHW populations,
+the terms ‘‘higher’’ or ‘‘lower’’ were used when the
+RRs differed significantly from 1.0 (P <.05). Thus,
+when the RR was < 1.0, the rate among AI/AN was
+lower
+than
+that
+among
+NHW;
+when
+the
+RR
+was > 1.0, the rate among AI/AN was higher than
+that among NHW. Otherwise, the RRs were described
+as comparable. Relative percents (R%) were cal-
+culated to facilitate comparisons of distributions of
+age-adjusted, stage-specific incidence rates between
+NHW and AI/AN populations across IHS regions.
+RESULTS
+Update on Long-term Incidence Trends, 19752004
+For all populations, both sexes, and all cancer sites
+combined,
+incidence
+rates
+increased
+from
+1975
+through 1992 and then decreased (0.3% per year)
+from 1992 through 2004 (Table 2). For men, the rates
+increased from 1975 through 1992, decreased from
+1992 through 1995, and subsequently stabilized from
+1995 through 2004. For women, rates increased from
+1979 through 1986, increased more slowly from 1986
+through 1999, and stabilized from 1999 through
+2004.
+Among men, prostate cancer incidence rates sta-
+bilized
+from
+1995
+through
+2004
+after
+the
+steep
+increase reported from 1988 through 1992 and the
+subsequent
+decline
+from
+1992
+through
+1995.
+Increases in cancer incidence were noted from 1975
+through 2004 for myeloma and for cancers of the
+kidney and renal pelvis (kidney), liver and intrahe-
+patic bile ducts (liver), and esophagus. Declining
+trends in incidence were noted for the most recent
+joinpoint segments for cancers of the lung and
+bronchus (lung), colon and rectum, oral cavity and
+pharynx (oral cavity), and stomach. Rates were stable
+for
+the
+most
+recent
+joinpoint
+segments
+for
+the
+remaining top 15 cancers in men.
+Among women, breast cancer incidence rates
+decreased for the period 2001 through 2004 by 3.5%
+per year, reversing a long-term increase that began
+in the early 1980s. Lung cancer rates increased from
+1975 through 1998 and stabilized from 1998 through
+2004. Colorectal cancer rates decreased from 1998
+through 2004. Rates also declined for cancers of the
+cervix and stomach from 1975 through 2004 and for
+cancers of the corpus uteri and uterus not otherwise
+specified (uterus), ovary, and oral cavity in the most
+recent joinpoint segments. Increasing trends were
+noted from 1975 through 2004 for melanoma, non-
+Hodgkin lymphoma (NHL), leukemia, and cancers of
+the bladder and kidney. Increasing rates of thyroid
+cancer were noted from 1980 through 1995, with the
+rate of increase nearly tripling from 1995 through
+2004. Pancreatic cancer incidence rates stabilized for
+the most recent joinpoint segment.
+Update on Long-term Mortality Trends,
+19752004
+Cancer death rates for all races/ethnicities and both
+sexes combined decreased by 2.1% per year from
+2002 to 2004 compared with 1.1% per year from 1993
+to 2002 (Table 3). The decreases involved both men
+and women, but they were greater in men than in
+women from 2002 through 2004 (2.6% per year in
+men and 1.8% per year in women). Accelerated
+declines in cancer mortality rates largely reflect more
+rapid decreases in the death rates from leading
+causes of cancer mortality: lung and prostate cancer
+in men, breast cancer in women, and colon and rec-
+tum cancer in both men and women.
+During the last joinpoint segment, rates were
+declining for 12 of the 15 most common causes of
+cancer death in men (lung, prostate, colon and rec-
+tum,
+pancreas,
+leukemia,
+NHL,
+bladder,
+kidney,
+stomach, brain, myeloma, and oral cavity) (Table 4).
+Melanoma rates remained stable from 1990 through
+2004. The rates for only 2 sites—cancer of the liver
+and esophagus—increased (1.8% and 0.4% per year,
+respectively).
+Similarly, rates declined for 10 of the 15 most
+common causes of cancer death in women (breast,
+colon and rectum, NHL, leukemia, brain, myeloma,
+stomach, kidney, cervix, and bladder). Death rates for
+the most recent joinpoint segments were stable in
+women for cancers of the pancreas, ovary, and
+2124
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+Surveillance, Epidemiology, and End Results Cancer Incidence Rate Trends With Joinpoint Analyses for 1975–2004 for the Top 15 Cancers,
+by Sex, for All Races
+Sex/cancer site or type
+Joinpoint analyses (1975–2004)a
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Years
+APCd
+Years
+APCd
+Years
+APCd
+Years
+APCd
+All sitesb
+Both sexes
+1975–1992
+1.4e
+1992–1995
+1.3
+1995–2001
+0.3
+2001–2004
+2.1e
+(Delay-adjusted)
+1975–1992
+1.4e
+1992–2004
+0.3e
+Males
+1975–1989
+1.3e
+1989–1992
+5.0e
+1992–1995
+4.1e
+1995–2004
+0.5e
+(Delay-adjusted)
+1975–1989
+1.3e
+1989–1992
+5.1e
+1992–1995
+4.3e
+1995–2004
+0.2
+Females
+1975–1979
+0.2
+1979–1987
+1.5e
+1987–2001
+0.3e
+2001–2004
+1.7e
+(Delay-adjusted)
+1975–1979
+0.3
+1979–1986
+1.6e
+1986–1999
+0.4e
+1999–2004
+0.5
+Top 15 cancers for malesc
+Prostate
+1975–1988
+2.6e
+1988–1992
+16.2e
+1992–1995
+10.1e
+1995–2004
+0.1
+(Delay-adjusted)
+1975–1988
+2.6e
+1988–1992
+16.2e
+1992–1995
+10.2e
+1995–2004
+0.4
+Lung and bronchus
+1975–1982
+1.4e
+1982–1991
+0.4
+1991–2004
+1.9e
+(Delay-adjusted)
+1975–1982
+1.5e
+1982–1991
+0.5
+1991–2004
+1.8e
+Colon and rectum
+1975–1986
+1.1e
+1986–1995
+2.1e
+1995–1998
+1.1
+1998–2004
+2.8e
+(Delay-adjusted)
+1975–1986
+1.1e
+1986–1995
+2.1e
+1995–1998
+1.1
+1998–2004
+2.6e
+Urinary bladder
+1975–1987
+1.0e
+1987–1995
+0.6
+1995–2000
+1.1
+2000–2004
+1.6e
+(Delay-adjusted)
+1975–1987
+1.0e
+1987–1996
+0.5
+1996–1999
+2.0
+1999–2004
+0.9
+Non-Hodgkin lymphoma
+1975–1991
+4.3e
+1991–2004
+0.1
+(Delay-adjusted)
+1975–1991
+4.2e
+1991–2004
+0.3
+Melanoma of the skin
+1975–1985
+5.4e
+1985–2000
+3.3e
+2000–2004
+0.0
+(Delay-adjusted)
+1975–1985
+5.4e
+1985–2000
+3.4e
+2000–2004
+0.5
+Kidney and renal pelvis
+1975–2004
+1.7e
+(Delay-adjusted)
+1975–2004
+1.8e
+Leukemia
+1975–2001
+0.1
+2001–2004
+3.2
+(Delay-adjusted)
+1975–2004
+0.1
+Oral cavity and pharynx
+1975–1983
+0.1
+1983–2004
+1.5e
+(Delay-adjusted)
+1975–1983
+0.2
+1983–2004
+1.4e
+Pancreas
+1975–1993
+0.8e
+1993–2004
+0.1
+(Delay-adjusted)
+1975–1993
+0.9e
+1993–2004
+0.3
+Stomach
+1975–1988
+1.2e
+1988–2004
+2.1e
+(Delay-adjusted)
+1975–1988
+1.2e
+1988–2004
+2.0e
+Liver and intrahepatic bile duct
+1975–1986
+2.1e
+1986–1996
+5.0e
+1996–2004
+2.1e
+(Delay-adjusted)
+1975–1986
+2.1e
+1986–1996
+4.9e
+1996–2004
+2.5e
+Brain and other nervous system
+1975–1991
+1.1e
+1991–2004
+0.7e
+(Delay-adjusted)
+1975–1991
+1.0e
+1991–2004
+0.6
+Esophagus
+1975–2004
+0.8e
+(Delay-adjusted)
+1975–2004
+0.8e
+Myeloma
+1975–1991
+1.3e
+1991–2004
+0.1
+(Delay-adjusted)
+1975–2004
+0.8e
+Top 15 cancers for femalesc
+Breast
+1975–1980
+0.4
+1980–1987
+3.7e
+1987–2001
+0.4e
+2001–2004
+3.9e
+(Delay-adjusted)
+1975–1980
+0.4
+1980–1987
+3.7e
+1987–2001
+0.5e
+2001–2004
+3.5e
+Lung and bronchus
+1975–1982
+5.5e
+1982–1990
+3.5e
+1990–1998
+1.0e
+1998–2004
+0.5
+(Delay-adjusted)
+1975–1982
+5.5e
+1982–1990
+3.5e
+1990–1998
+1.0e
+1998–2004
+0.1
+Colon and rectum
+1975–1985
+0.3
+1985–1995
+1.9e
+1995–1998
+1.9
+1998–2004
+2.4e
+(Delay-adjusted)
+1975–1985
+0.3
+1985–1995
+1.8e
+1995–1998
+1.8
+1998–2004
+2.2e
+Corpus and uterus, NOS
+1975–1979
+6.0e
+1979–1988
+1.7e
+1988–1998
+0.6e
+1998–2004
+1.0e
+(Delay-adjusted)
+1975–1979
+6.0e
+1979–1988
+1.7e
+1988–1998
+0.6e
+1998–2004
+0.8e
+Non-Hodgkin lymphoma
+1975–1990
+2.9e
+1990–2004
+1.1e
+(Delay-adjusted)
+1975–1988
+3.0e
+1988–2004
+1.4e
+Melanoma of the skin
+1975–1981
+5.2e
+1981–2004
+2.2e
+(Delay-adjusted)
+1975–1981
+5.1e
+1981–2004
+2.3e
+Ovaryb
+1975–1985
+0.1
+1985–2001
+0.7e
+2001–2004
+3.5e
+(Delay-adjusted)b
+1975–1987
+0.1
+1987–2004
+0.9e
+(continued)
+Report to the Nation, 19752004/Espey et al.
+2125
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+uterus. Lung cancer death rates have increased since
+1975. However, the rate of increase has slowed over
+time to 0.2% annually from 1995 to 2004. Finally,
+from 2001 through 2004, liver cancer rates increased
+2.6% annually in women.
+Cancer Incidence Rates, 20002004 and Fixed Interval
+Trends, 19952004
+Table 4 presents cancer incidence for the 15 most
+common cancers for each sex, for all races/ethnici-
+ties combined, and for the 6 major race/ethnic
+populations. In men, the 3 leading incident cancers
+were prostate, lung, and colon and rectum in all
+race/ethnic populations, although colorectal cancer
+ranked second and lung cancer ranked third among
+Hispanic men. For most men, bladder cancer and
+NHL were the fourth and fifth leading incident can-
+cers. However, cancers of the kidney and bladder
+ranked fourth and fifth for black and AI/AN men,
+and liver and stomach ranked fourth and fifth for
+API men.
+Cancer incidence trends for men in all race/eth-
+nic groups combined decreased from 1995 through
+2004. Among men, incidence rates of cancers of the
+lung, larynx, and stomach decreased in each race/
+ethnic population for which the APC was presented.
+Prostate cancer rates decreased for black and AI/AN
+men but were stable for white, API, Hispanic, and
+non-Hispanic
+men.
+Colorectal
+cancer
+incidence
+rates decreased for white, API, and non-Hispanic
+men and remained stable for black, AI/AN, and His-
+panic men. Increases were noted for kidney and
+liver cancer in men except API and AI/AN men, in
+whom the rates remained stable. Thyroid cancer
+showed the largest annual increases in populations
+for which the APC was presented. Melanoma rates
+increased in white and non-Hispanic men, were
+stable in API and Hispanic men, and decreased in
+black men.
+Among women, the 4 leading incident cancers
+from 2000 through 2004 were breast, lung, colon and
+rectum, and uterus across all race/ethnic popula-
+tions (Table 4). NHL was ranked fifth for all popula-
+tions except black, API, and AI/AN women. Cancer
+of the pancreas ranked fifth for black women, thyr-
+oid cancer ranked fifth for API women, and kidney
+TABLE 2
+(continued)
+Sex/cancer site or type
+Joinpoint analyses (1975–2004)a
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Years
+APCd
+Years
+APCd
+Years
+APCd
+Years
+APCd
+Thyroid
+1975–1977
+6.5
+1977–1980
+5.3
+1980–1995
+2.3e
+1995–2004
+5.9e
+(Delay-adjusted)
+1975–1977
+6.5
+1977–1980
+5.3
+1980–1995
+2.3e
+1995–2004
+6.1e
+Pancreas
+1975–1983
+1.4e
+1983–2004
+0.2
+(Delay-adjusted)
+1975–1983
+1.3e
+1983–2004
+0.1
+Leukemia
+1975–2004
+0.1
+(Delay-adjusted)
+1975–2004
+0.2e
+Urinary bladder
+1975–2004
+0.1e
+(Delay-adjusted)
+1975–2004
+0.2e
+Cervix uteri
+1975–1981
+4.6e
+1981–1996
+1.1e
+1996–2004
+3.9e
+(Delay-adjusted)
+1975–1981
+4.6e
+1981–1996
+1.1e
+1996–2004
+3.7e
+Kidney and renal pelvis
+1975–2004
+2.2e
+(Delay-adjusted)
+1975–2004
+2.3e
+Oral cavity and pharynx
+1975–1980
+2.7e
+1980–2004
+1.0e
+(Delay-adjusted)
+1975–1980
+2.6e
+1980–2004
+1.0e
+Stomach
+1975–2004
+1.6e
+(Delay-adjusted)
+1975–2004
+1.6e
+Source: Surveillance, Epidemiology, and End Results (SEER) 9 areas covering about 10% of the U.S. population (Connecticut, Hawaii, Iowa, Utah, and New Mexico and the metropolitan areas of San Francisco,
+Detroit, Atlanta, and Seattle-Puget Sound).
+APC indicates annual percent change; NOS, not otherwise specified.
+a Joinpoint analyses with up to 3 joinpoints are based on rates per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130; Jointpoint [JP] Regression Pro-
+gram, Version 3.0; National Cancer Institute, April, 2005).
+b All sites excludes myelodysplastic syndromes and borderline tumors; ovary excludes borderline tumors.
+c The top 15 cancers were selected based on the sex-specific, age-adjusted incidence rates for 2000–2004 for all races combined and are listed in rank order.
+d APC is based on rates that were age-adjusted to the 2000 U.S. standard population (19 age groups; Census, p25–1130).
+e APC is statistically significantly different from zero (2-sided P <.05).
+2126
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cancer ranked fifth for AI/AN women. The rank-
+ing of cancers beyond the top 5 varied by race/eth-
+nicity.
+Cancer incidence trends for women for all race/
+ethnicities combined were stable from 1995 through
+2004. Although breast cancer rates for all races com-
+bined from 1995 through 2004 appeared stable, the
+use of joinpoint methods revealed that the trend did
+change in 2001, with a statistically significant decline
+of 3.4% per year from 2001 through 2004 (data not
+shown), comparable to the long-term trend results
+based on SEER data. Hispanic women experienced a
+decrease in breast cancer incidence rates from 1995
+through 2004, and rates for AI/AN women were
+TABLE 3
+U.S. Death Rate Trends With Joinpoint Analyses for 1975–2004 for the Top 15 Cancers, by Sex, for All Races
+Sex/cancer site or type
+Joinpoint analyses (1975–2004)a
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Years
+APCc
+Years
+APCc
+Years
+APCc
+Years
+APCc
+All sites
+Both sexes
+1975–1990
+0.5d
+1990–1993
+0.3
+1993–2002
+1.1d
+2002–2004
+2.1d
+Males
+1975–1980
+0.9d
+1980–1992
+0.3d
+1992–2002
+1.5d
+2002–2004
+2.6d
+Females
+1975–1990
+0.6d
+1990–1994
+0.2
+1994–2002
+0.8d
+2002–2004
+1.8d
+Top 15 cancers for malesb
+Lung and bronchus
+1975–1982
+1.7d
+1982–1990
+0.5d
+1990–1994
+1.3d
+1994–2004
+2.0d
+Prostate
+1975–1987
+0.9d
+1987–1991
+3.0d
+1991–1994
+0.5
+1994–2004
+4.1d
+Colon and rectum
+1975–1979
+0.6
+1979–1987
+0.6d
+1987–2002
+1.9d
+2002–2004
+4.9d
+Pancreas
+1975–1986
+0.9d
+1986–2004
+0.2d
+Leukemia
+1975–1995
+0.2d
+1995–2004
+0.8d
+Non-Hodgkin lymphoma
+1975–1981
+1.8d
+1981–1990
+3.0d
+1990–1997
+1.6d
+1997–2004
+3.0d
+Esophagus
+1975–1985
+0.7d
+1985–1994
+1.2d
+1994–2004
+0.4d
+Urinary bladder
+1975–1983
+1.4d
+1983–1987
+2.7d
+1987–1993
+0.1
+1993–2004
+0.6d
+Liver and intrahepatic bile duct
+1975–1985
+1.5d
+1985–1995
+3.8d
+1995–2004
+1.8d
+Kidney and renal pelvis
+1975–1992
+1.1d
+1992–2004
+0.3d
+Stomach
+1975–1987
+2.3d
+1987–1991
+0.9
+1991–2004
+3.5d
+Brain and other nervous system
+1975–1977
+4.4
+1977–1982
+0.3
+1982–1991
+1.3d
+1991–2004
+0.9d
+Myeloma
+1975–1994
+1.5d
+1994–2004
+1.1d
+Oral cavity and pharynx
+1975–1980
+0.8
+1980–2004
+2.2d
+Melanoma of the skin
+1975–1990
+2.2d
+1990–2004
+0.0
+Top 15 cancers for femalesb
+Lung and bronchus
+1975–1982
+6.0d
+1982–1990
+4.2d
+1990–1995
+1.7d
+1995–2004
+0.2d
+Breast
+1975–1990
+0.4d
+1990–2004
+2.2d
+Colon and rectum
+1975–1984
+1.0d
+1984–2002
+1.8d
+2002–2004
+4.5d
+Pancreas
+1975–1984
+0.8d
+1984–2004
+0.1
+Ovary
+1975–1982
+1.2d
+1982–1992
+0.3
+1992–1998
+1.1d
+1998–2004
+0.2
+Non-Hodgkin lymphoma
+1975–1995
+2.2d
+1995–1998
+0.3
+1998–2004
+3.8d
+Leukemia
+1975–1980
+0.8
+1980–2001
+0.4d
+2001–2004
+2.4d
+Corpus and uterus, NOS
+1975–1992
+1.5d
+1992–2004
+0.0
+Brain and other nervous system
+1975–1992
+0.9d
+1992–2004
+1.0d
+Myeloma
+1975–1993
+1.5d
+1993–2001
+0.4
+2001–2004
+2.4d
+Liver and intrahepatic bile duct
+1975–1987
+0.8d
+1987–1995
+3.8d
+1995–2001
+0.3
+2001–2004
+2.6d
+Stomach
+1975–1987
+2.8d
+1987–1990
+0.5
+1990–2004
+2.6d
+Kidney and renal pelvis
+1975–1992
+1.3d
+1992–2004
+0.5d
+Cervix uteri
+1975–1982
+4.3d
+1982–1996
+1.6d
+1996–2004
+3.7d
+Urinary bladder
+1975–1986
+1.7d
+1986–2004
+0.4d
+Source: National Center for Health Statistics public-use data file for the total U.S.
+APC indicates annual percent change; NOS, not otherwise specified.
+a Joinpoint analyses with up to 3 joinpoints are based on rates per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130; Jointpoint [JP] Regression Pro-
+gram, Version 3.0; National Cancer Institute, April, 2005).
+b The top 15 cancers were selected based on the sex-specific, age-adjusted incidence rates for 2000–2004 for all races combined and are listed in rank order.
+c APC is based on rates that were age-adjusted to the 2000 U.S. standard population (19 age groups; Census, p25–1130).
+d APC is statistically significantly different from zero (2-sided P <.05).
+Report to the Nation, 19752004/Espey et al.
+2127
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4
+Incidence Rates for 2000–2004 and Fixed-interval Trends for 1995–2004 for the Top 15 Cancers by Sex, Race, and Ethnicity: Selected Areas in the United States
+Sex/cancer site or typea
+All Races/Ethnicities
+Whiteb
+Blackb
+APIb
+AI/ANb,c
+AI/AN (CHSDA
+counties)b,c
+Hispanicb
+Non-hispanicb
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Males
+All sitesf
+557.8
+0.7g
+549.7
+0.6g
+635.1
+1.5g
+338.2
+1.2g
+297.4
+2.7g
+406.9
+1.9g
+436.9
+0.8g
+568.5
+0.6g
+Prostate
+1
+160.8
+0.6
+1
+151.1
+0.7
+1
+239.3
+1.3g
+1
+86.8
+0.5
+1
+77.5
+3.1g
+1
+104.0
+3.3g
+1
+137.0
+0.8
+1
+162.9
+0.5
+Lung and bronchus
+2
+89.0
+1.9g
+2
+88.3
+1.8g
+2
+109.2
+2.9g
+2
+52.4
+1.7g
+2
+50.3
+4.8g
+2
+68.0
+3.3g
+3
+51.5
+2.5g
+2
+92.0
+1.8g
+Colon and rectum
+3
+62.9
+1.6g
+3
+62.2
+1.7g
+3
+70.2
+0.5
+3
+46.9
+1.9g
+3
+36.8
+2.3
+3
+51.5
+1.1
+2
+52.1
+0.4
+3
+63.7
+1.6g
+Urinary bladder
+4
+38.4
+0.1
+4
+40.5
+0.0
+5
+18.6
+0.1
+6
+15.3
+0.2
+5
+12.0
+4.0
+5
+16.1
+
+4
+21.6
+0.2
+4
+39.6
+0.1
+Non-Hodgkin Lymphoma
+5
+22.8
+0.3g
+5
+23.3
+0.3g
+8
+16.7
+1.0g
+7
+14.8
+0.5
+6
+11.2
+3.7
+6
+14.9
+3.1
+5
+19.7
+0.9
+5
+23.1
+0.2g
+Melanoma of the skin
+6
+21.1
+2.8g
+6
+23.0
+2.9g
+24
+1.0
+4.1g
+19
+1.6
+0.3
+14
+4.4
+
+14
+5.9
+
+16
+4.4
+1.1
+6
+22.8
+3.1g
+Kidney and renal pelvis
+7
+18.4
+2.5g
+7
+18.6
+2.6g
+4
+19.3
+2.5g
+11
+8.6
+1.5
+4
+15.5
+0.3
+4
+22.7
+0.1
+6
+17.4
+2.6g
+7
+18.5
+2.5g
+Leukemia
+8
+16.0
+0.6
+8
+16.4
+0.8
+11
+12.2
+0.9g
+10
+8.8
+1.0
+10
+7.4
+4.1
+10
+10.6
+
+9
+12.1
+0.9
+9
+16.2
+0.5
+Oral cavity and pharynx
+9
+16.0
+1.0g
+9
+15.8
+0.7g
+6
+17.8
+3.1g
+8
+10.4
+2.7g
+9
+9.4
+3.3
+8
+13.0
+1.8
+11
+11.1
+2.6g
+8
+16.5
+0.8g
+Pancreas
+10
+12.9
+0.3g
+10
+12.7
+0.4g
+9
+15.8
+0.8
+9
+9.3
+1.4g
+11
+7.2
+3.2
+11
+9.7
+
+10
+11.4
+0.2
+10
+13.0
+0.3g
+Stomach
+11
+10.5
+2.2g
+11
+9.5
+2.2g
+7
+17.2
+3.2g
+5
+18.4
+3.0g
+7
+9.7
+
+7
+14.2
+
+7
+15.4
+2.0g
+11
+10.1
+2.5g
+Esophagus
+12
+8.6
+0.3
+12
+8.5
+1.3g
+14
+11.4
+5.5g
+12
+4.0
+3.7g
+12
+5.5
+
+12
+7.8
+
+15
+5.7
+1.6g
+12
+8.9
+0.5g
+Liver and intrahepatic bile duct
+13
+8.5
+3.5g
+14
+7.5
+3.6g
+12
+11.9
+3.6g
+4
+21.1
+0.3
+8
+9.5
+5.3
+9
+13.0
+4.7
+8
+15.2
+2.8g
+14
+8.0
+3.3g
+Brain and other nervous system
+14
+7.9
+0.5g
+13
+8.4
+0.5g
+15
+4.7
+0.1
+13
+4.0
+1.1
+15
+3.8
+
+16
+5.0
+
+14
+6.2
+0.1
+13
+8.1
+0.5g
+Larynx
+15
+7.5
+3.1g
+15
+7.2
+3.1g
+13
+11.9
+2.8g
+16
+2.9
+3.4g
+16
+3.7
+
+15
+5.3
+
+13
+6.5
+3.3g
+15
+7.6
+3.1g
+Myeloma
+16
+6.9
+0.3
+16
+6.4
+0.4
+10
+12.9
+0.2
+15
+3.5
+3.5g
+13
+4.8
+
+13
+6.5
+
+12
+6.6
+0.4
+16
+6.9
+0.3
+Thyroid
+18
+4.3
+5.4g
+18
+4.5
+5.5g
+19
+2.4
+4.6g
+14
+3.9
+2.5g
+19
+1.7
+
+19
+2.4
+
+18
+3.5
+4.6g
+18
+4.4
+5.6g
+Females
+All sitesf
+413.1
+0.3
+418.0
+0.3
+384.1
+0.4g
+270.3
+0.5g
+243.2
+1.6g
+334.8
+0.9
+323.3
+0.3
+421.3
+0.2
+Breast
+1
+125.3
+0.9
+1
+127.3
+1.0
+1
+111.4
+0.4
+1
+80.6
+0.2
+1
+62.9
+2.5g
+1
+84.7
+1.8
+1
+90.5
+0.9g
+1
+128.4
+0.8
+Lung and bronchus
+2
+55.2
+0.2
+2
+56.6
+0.3
+3
+51.0
+0.0
+3
+27.1
+0.2
+2
+35.6
+0.5
+2
+48.0
+1.2
+3
+26.7
+0.1
+2
+57.6
+0.3
+Colon and rectum
+3
+45.8
+1.3g
+3
+44.9
+1.4g
+2
+52.9
+0.6
+2
+33.7
+1.3g
+3
+29.7
+0.4
+3
+41.6
+0.3
+2
+36.3
+0.6
+3
+46.5
+1.2g
+Corpus and uterus, NOS
+4
+23.8
+0.4
+4
+24.4
+0.5g
+4
+20.1
+1.0g
+4
+14.7
+0.7
+4
+13.0
+2.2
+4
+18.2
+3.8
+4
+18.8
+0.8g
+4
+24.2
+0.4
+Non-Hodgkin Lymphoma
+5
+16.2
+0.4g
+5
+16.6
+0.3
+7
+11.3
+1.2g
+6
+10.6
+0.4
+5
+9.4
+1.0
+6
+12.8
+0.4
+5
+14.4
+0.2
+5
+16.3
+0.5g
+Melanoma of the skin
+6
+13.6
+3.1g
+6
+15.1
+3.1g
+28
+0.9
+0.7
+21
+1.2
+1.4
+17
+2.8
+
+17
+3.9
+
+17
+4.1
+1.8g
+6
+14.7
+3.4g
+Ovaryf
+7
+13.5
+1.6g
+7
+14.0
+1.7g
+8
+10.0
+1.1
+8
+9.4
+1.5g
+7
+8.3
+4.9g
+7
+11.7
+2.8
+8
+11.5
+0.6
+7
+13.7
+1.7g
+Thyroid
+8
+12.4
+7.0g
+8
+13.0
+7.2g
+13
+7.5
+6.4g
+5
+12.6
+3.5g
+10
+6.2
+7.0g
+10
+8.4
+3.3
+7
+12.0
+5.4g
+8
+12.6
+7.3g
+Pancreas
+9
+10.0
+0.3g
+11
+9.7
+0.4g
+5
+13.2
+0.7
+11
+7.9
+0.5
+8
+7.0
+
+8
+9.4
+
+10
+9.6
+0.1
+10
+10.0
+0.3g
+Urinary bladder
+10
+9.8
+0.2
+9
+10.2
+0.1
+14
+6.8
+0.6
+15
+3.9
+0.8
+16
+3.4
+
+16
+4.4
+
+14
+5.8
+0.9
+9
+10.1
+0.0
+Leukemia
+11
+9.6
+0.5
+10
+9.8
+0.6
+12
+7.8
+0.7
+12
+5.5
+1.7g
+11
+5.6
+0.3
+11
+7.8
+
+12
+8.3
+0.4
+11
+9.6
+0.5
+Kidney and renal pelvis
+12
+9.5
+2.7g
+12
+9.6
+2.8g
+9
+9.7
+2.3g
+14
+4.1
+1.4
+6
+9.3
+2.7
+5
+13.9
+6.2g
+9
+9.7
+2.1g
+12
+9.5
+2.7g
+Cervix uteri
+13
+8.8
+3.7g
+13
+8.4
+3.3g
+6
+12.3
+5.0g
+9
+7.9
+6.3g
+9
+6.6
+5.3g
+9
+9.4
+4.8
+6
+13.8
+4.1g
+13
+8.3
+3.8g
+Oral cavity and pharynx
+14
+6.1
+1.3g
+15
+6.1
+1.3g
+15
+5.5
+1.9g
+13
+5.3
+0.5
+15
+3.7
+
+15
+4.9
+
+18
+4.0
+1.9g
+14
+6.3
+1.1g
+Brain and other nervous system
+15
+5.7
+0.4g
+14
+6.1
+0.2
+18
+3.5
+0.7
+16
+3.0
+0.9
+19
+2.5
+
+19
+3.3
+
+16
+4.9
+0.5
+15
+5.8
+0.3
+Stomach
+16
+5.0
+1.4g
+16
+4.4
+1.4g
+11
+8.9
+2.2g
+7
+10.5
+3.3g
+12
+5.1
+9.3g
+12
+7.6
+5.3g
+11
+9.0
+0.8
+16
+4.7
+1.8g
+(continued)
+2128
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4
+(continued)
+Sex/cancer site or typea
+All races/ethnicities
+Whiteb
+Blackb
+APIb
+AI/ANbc
+AI/AN (CHSDA
+Counties)bc
+Hispanicb
+Non-hispanicb
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Myeloma
+17
+4.6
+0.5
+17
+4.1
+0.7g
+10
+9.3
+0.8
+17
+2.8
+1.5
+13
+4.3
+
+14
+5.8
+
+15
+4.9
+0.8
+17
+4.5
+0.7g
+Liver and intrahepatic bile duct
+18
+3.0
+1.6g
+18
+2.7
+1.4g
+16
+3.7
+1.5
+10
+7.9
+0.0
+14
+4.3
+1.9
+13
+5.9
+
+13
+5.9
+0.8
+18
+2.8
+1.4g
+Source: Surveillance, Epidemiology, and Ends Results and National Program of Cancer Registries areas are reported by the North American Association of Central Cancer Registries as meeting high-quality data standards for the specified periods.
+API indicates Asian/Pacific Islander; AI/AN, American Indian/Alaska Native; APC, annual percent change; NOS, not otherwise specified.
+a Cancers are sorted in descending order according to sex-specific rates for all races/ethnicities. Greater than 15 cancers may appear under males and females to include the top 15 cancers in every race/ethnicity group.
+b White, black, API, AI/AN, and AI/AN (Indian Health Service [IHS] Contract Health Services Delivery Area [CHSDA] counties) include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+c AI/AN race is reported by the registry or through linkage with the IHS patient registration database; rates are based on data for cases who were residents in CHSDA counties at the time of cancer diagnosis. AI/AN rates include data from 1999 through 2004.
+d Rates are per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130).
+e APC is based on rates that were age-adjusted to the 2000 U.S. standard population (19 age groups; Census, p25–1130).
+f All sites excludes myelodysplastic syndromes and borderline tumors; ovary excludes borderline tumors.
+g APC is statistically significantly different from zero (2-sided P <.05).
+ Statistic could not be calculated. The APC is based on <10 cases for at least 1 year within the time interval.
+2000–2004 rates for all races/ethnicities, white, black, API, Hispanic, and non-Hispanic (39 states): Alabama, Alaska, California, Colorado, Connecticut, Delaware, Washington DC, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, West Virginia, Wyoming.
+1999–2004 rates for AI/AN (41 states): Alabama, Alaska, California, Colorado, Connecticut, Delaware, Washington DC, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Massachusetts, Missouri, Montana, Nebraska, Nevada, New Hampshire,
+New Jersey, New Mexico, New York, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, West Virginia, Wyoming; (1999–2003) Arizona, Wisconsin; (2000–2004) Michigan.
+1999–2004 rates for AI/AN (CHSDA counties) (30 states): (1999–2004) Alabama, Alaska, California, Colorado, Connecticut, Florida, Idaho, Indiana, Iowa, Louisiana, Maine, Massachusetts, Montana, Nebraska, Nevada, New Mexico, New York, North Dakota, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, Wyoming; (1999–2003) Arizona, Wisconsin; (2000–2004) Michigan.
+1995–2004 APCs for all races/ethnicities, white, black, AI/AN, API, Hispanic, and non-Hispanic (24 states): California, Colorado, Connecticut, Delaware, Florida, Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Maine, Nebraska, New Jersey, New Mexico, New York, Pennsylva-
+nia, Rhode Island, Texas, Utah, Washington, Wyoming, Atlanta, Detroit.
+1995–2004 APCs for AI/AN (CHSDA counties) (17 states): California, Colorado, Connecticut, Florida, Idaho, Iowa, Louisiana, Maine, Nebraska, New Mexico, New York, Pennsylvania, Rhode Island, Texas, Utah, Washington, Wyoming.
+Report to the Nation, 19752004/Espey et al.
+2129
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+stable. White, API, and non-Hispanic women experi-
+enced a decrease in cancer of the colon and rectum,
+whereas the rates for black, AI/AN, and Hispanic
+women remained stable. Uterine cancer decreased
+among white women, increased among black and
+Hispanic women, and was stable for API and AI/AN
+women. Cervical cancer declined for all race/ethnic
+populations except AI/AN women, in whom it was
+stable, as did stomach cancer for all except Hispanic
+women, in whom rates were stable. Ovarian cancer
+decreased in white, API, and non-Hispanic women
+and remained stable in black, AI/AN, and Hispanic
+women. The use of joinpoint methods for the period
+from 1995 through 2004 revealed a 1.0% decline per
+year in ovarian cancer incidence from 1995 through
+2001 and an increased rate of decline of 3.3% per
+year from 2001 through 2004 for all races combined
+(data not shown); this increased rate of decline was
+confined to white women. Similar patterns were
+observed for uterine cancer (data not shown). Thyr-
+oid cancer rates had the largest annual increase
+(7.0% per year).
+Update on Cancer Death Rates, 20002004 and Fixed
+Interval Trends, 19952004
+Among men, overall cancer death rates from 2000
+through 2004 were highest for black men and lowest
+for API men (Table 5). Cancers of the lung, prostate,
+and colon and rectum were the leading causes of
+cancer death from 2000 through 2004 among men
+for all race/ethnic populations except API men, in
+whom cancer of the liver ranked second. Beyond the
+top 3 sites, race-specific rankings varied.
+For men of most race/ethnic populations, trends
+of all cancers combined and trends of the 3 leading
+causes of cancer death declined from 1995 through
+2004. For AI/AN men, trends in death rates were
+level for all cancers combined, prostate cancer, and
+colorectal cancer and declined for lung cancer.
+Among women, overall cancer death rates from
+2000 through 2004 were highest for black women
+and lowest for API and Hispanic women (Table 5).
+Among all race/ethnic populations, cancer of the
+lung ranked first in cause of death, breast cancer
+ranked second, and colorectal cancer ranked third
+with the exception of Hispanic women, for whom
+breast cancer ranked first and lung cancer ranked
+second. Similar to men, among women, race-specific
+rankings of less common cancers varied. From 1995
+through 2004, women experienced a smaller decrease
+than men in death rates for all cancers combined
+(1.0% per year vs 1.7% per year, respectively). Simi-
+larly, the slight increase in lung cancer mortality in
+women (0.2% per year) contrasted with the substan-
+tial decrease in men (2.0% per year). A comparison
+of death rates from 2000 through 2004 for all cancer
+sites combined showed that API women had the lar-
+gest annual decline (1.4% per year), and AI/AN
+women had a stable death rate.
+SPECIAL SECTION: CANCER AMONG AMERICAN
+INDIANS AND ALASKA NATIVES, 19992004
+General Characteristics
+The 2004 intercensal population estimates of 3.3 mil-
+lion AI/AN persons represented 1.1% of the total U.S.
+population.18 These persons are members of—or
+related to—1 or more of > 550 federally recognized
+or > 200 nonfederally recognized tribes with diverse
+languages, cultures, and histories. The median age of
+the U.S. AI/AN population was 29 years in 2000,
+which was younger than the nationwide median age
+of 35 years.40 Approximately 75% of the AI/AN popu-
+lation reside west of the Mississippi River and is con-
+centrated in Alaska, Oklahoma, and other selected
+regions—the Southwest, Northern Plains, and Pacific
+Northwest (Fig. 2). Approximately one-third of AI/AN
+reside on tribal reservations, trust lands, or other
+tribal-affiliated areas, and others live primarily in
+urban areas.40,45
+Socioeconomic Characteristics, Cancer Risk Factors, and
+Use of Cancer Screening
+Poverty among the AI/AN population was 3 times
+that of the NHW population, with the Southwest AI/
+AN population having the highest regional preva-
+lence of poverty (Table 6). AI/AN adults were less
+likely to graduate from high school and were more
+likely to have less than a ninth grade education than
+NHW adults,
+with
+Alaska
+and
+Southwest
+AI/AN
+populations
+having
+the
+lowest
+formal
+education
+attained. The percentage of AI/AN persons age < 65
+years with no health coverage was twice that of
+NHW adults. The proportion of persons ages 18 to 64
+years with no usual source of care was higher among
+the AI/AN population overall and in all regions. For
+NHW and AI/AN populations in all regions, men
+were more likely than women to have no usual
+source of medical care. It is noteworthy that AI/AN
+persons in Alaska aged 65 years reported the high-
+est prevalence of no healthcare coverage; a 10-fold
+higher
+prevalence
+than
+NHW
+persons
+aged > 65
+years. Additional information regarding cancer inci-
+dence and county poverty level among AI/AN and
+NHW populations for selected cancer sites is avail-
+able in Table Supplement-Poverty (available at URL:
+www.seer.cancer.gov/report_to_nation/).
+2130
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 5
+Death Rates for 2000–2004 and Fixed-interval Trends for 1995–2004 for the Top 15 Cancers by Sex, Race, and Ethnicity: Selected Areas in the United States
+Sex/cancer site or typea
+All races/ethnicities
+Whiteb
+Blackb
+APIb
+AI/ANb
+AI/AN (CHSDA
+Counties)b
+Hispanicb,c
+Non-Hispanicb
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Males
+All sites
+238.7
+1.7f
+234.7
+1.5f
+321.8
+2.4f
+141.7
+2.1f
+152.2
+2.4f
+187.9
+0.8
+162.3
+1.9f
+243.3
+1.6f
+Lung and bronchus
+1
+73.4
+2.0f
+1
+72.6
+1.9f
+1
+95.8
+2.7f
+1
+38.3
+1.3f
+1
+42.8
+3.8f
+1
+49.6
+2.4f
+1
+36.0
+2.5f
+1
+75.9
+1.9f
+Prostate
+2
+27.9
+4.1f
+2
+25.6
+4.1f
+2
+62.3
+3.7f
+4
+11.3
+5.0f
+2
+18.0
+4.5f
+2
+21.5
+2.3
+2
+21.2
+3.5f
+2
+28.1
+4.1f
+Colon and rectum
+3
+23.5
+2.4f
+3
+22.9
+2.4f
+3
+32.7
+1.5f
+3
+15.0
+1.9f
+3
+15.9
+1.9
+3
+20.6
+0.2
+3
+17.0
+1.4f
+3
+23.9
+2.3f
+Pancreas
+4
+12.2
+0.0
+4
+12.0
+0.2
+4
+15.5
+0.7f
+6
+7.9
+1.0
+7
+6.6
+0.1
+7
+7.6
+1.2
+5
+9.1
+0.4
+4
+12.4
+0.1
+Leukemia
+5
+10.0
+0.9f
+5
+10.3
+0.8f
+8
+8.8
+1.6f
+8
+5.0
+0.9
+10
+4.5
+2.1
+10
+5.6
+0.7
+8
+6.4
+1.5f
+5
+10.1
+0.8f
+Non-Hodgkin lymphoma
+6
+9.6
+2.3f
+6
+9.9
+2.3f
+11
+6.5
+3.3f
+7
+5.8
+2.4f
+9
+4.8
+4.5
+9
+6.1
+2.2
+7
+6.9
+4.0f
+6
+9.7
+2.2f
+Esophagus
+7
+7.8
+0.4f
+8
+7.7
+1.3f
+6
+10.2
+4.7f
+10
+3.1
+2.1
+8
+5.2
+0.9
+8
+6.7
+4.6f
+10
+4.2
+2.5f
+7
+8.0
+0.6f
+Urinary bladder
+8
+7.5
+0.4f
+7
+7.9
+0.3
+13
+5.3
+1.5f
+11
+2.9
+0.8
+13
+2.5
+
+13
+3.1
+
+11
+3.9
+1.2
+8
+7.7
+0.3f
+Liver and intrahepatic bile duct
+9
+7.1
+1.8f
+9
+6.5
+1.9f
+7
+10.0
+1.7f
+2
+15.5
+1.1f
+4
+8.3
+1.2
+4
+10.7
+1.5
+4
+10.8
+1.1f
+9
+6.9
+1.8f
+Kidney and renal pelvis
+10
+6.1
+0.3
+10
+6.2
+0.2
+12
+6.1
+0.6
+13
+2.4
+3.8f
+6
+6.6
+1.0
+6
+9.3
+1.9
+9
+5.4
+0.7
+10
+6.1
+0.3
+Stomach
+11
+5.9
+3.7f
+12
+5.2
+3.8f
+5
+11.9
+3.6f
+5
+10.5
+4.3f
+5
+6.7
+1.7
+5
+9.6
+0.0
+6
+9.1
+2.4f
+11
+5.7
+3.9f
+Brain and other nervous system
+12
+5.4
+0.9f
+11
+5.8
+0.9f
+15
+3.2
+0.7
+12
+2.5
+2.4
+14
+2.4
+2.4
+14
+2.6
+1.3
+13
+3.4
+0.8
+12
+5.6
+0.8f
+Myeloma
+13
+4.6
+1.1f
+13
+4.4
+0.9f
+9
+8.5
+1.8f
+14
+1.9
+4.2f
+12
+3.2
+1.0
+11
+4.2
+0.7
+12
+3.7
+0.8
+13
+4.7
+1.1f
+Oral cavity and pharynx
+14
+4.1
+2.1f
+15
+3.8
+1.8f
+10
+6.8
+3.6f
+9
+3.4
+2.6f
+11
+3.2
+2.1
+12
+3.8
+
+14
+2.8
+4.0f
+14
+4.2
+2.0f
+Melanoma of the skin
+15
+3.9
+0.3
+14
+4.3
+0.2
+23
+0.5
+0.4
+19
+0.4
+
+17
+0.9
+
+17
+1.3
+
+17
+0.9
+4.6f
+15
+4.1
+0.1
+Larynx
+16
+2.4
+2.4f
+16
+2.2
+2.1f
+14
+5.0
+3.1f
+15
+0.8
+4.0
+15
+1.6
+
+15
+1.9
+
+15
+1.9
+4.5f
+16
+2.4
+2.2f
+Females
+All sites
+162.2
+1.0f
+161.4
+0.9f
+189.3
+1.1f
+96.7
+1.4f
+112.0
+1.0f
+141.2
+0.1
+106.8
+0.9f
+165.7
+0.9f
+Lung and bronchus
+1
+41.1
+0.2f
+1
+42.1
+0.3f
+1
+39.8
+0.2
+1
+18.5
+1.2f
+1
+27.8
+1.4f
+1
+32.7
+3.1f
+2
+14.6
+0.3
+1
+42.9
+0.4f
+Breast
+2
+25.5
+2.3f
+2
+25.0
+2.4f
+2
+33.8
+1.6f
+2
+12.6
+0.3
+2
+13.9
+1.2
+2
+16.1
+0.2
+1
+16.1
+2.4f
+2
+26.2
+2.2f
+Colon and rectum
+3
+16.4
+2.2f
+3
+15.9
+2.3f
+3
+22.9
+1.7f
+3
+10.3
+1.9f
+3
+10.8
+3.6f
+3
+14.3
+2.4
+3
+11.1
+0.6
+3
+16.7
+2.2f
+Pancreas
+4
+9.2
+0.1
+5
+9.0
+0.2
+4
+12.4
+0.6f
+4
+6.9
+0.6
+4
+6.0
+0.2
+4
+7.3
+0.7
+4
+7.5
+0.6
+4
+9.4
+0.2
+Ovary
+5
+8.9
+0.1
+4
+9.2
+0.1
+5
+7.4
+0.1
+7
+4.8
+0.7
+5
+5.5
+2.2
+5
+7.1
+2.2
+5
+6.1
+0.5
+5
+9.1
+0.0
+Non-Hodgkin lymphoma
+6
+6.2
+2.7f
+6
+6.4
+2.8f
+11
+4.3
+1.4f
+8
+3.9
+1.6
+7
+3.8
+2.1
+8
+5.0
+2.2
+8
+4.8
+2.4f
+6
+6.2
+2.6f
+Leukemia
+7
+5.7
+0.9f
+7
+5.8
+0.8f
+9
+5.3
+0.7
+9
+3.0
+2.9f
+9
+3.5
+1.2
+10
+4.1
+
+9
+4.1
+1.1
+7
+5.8
+0.8f
+Corpus and uterus, NOS
+8
+4.1
+0.1
+9
+3.9
+0.0
+6
+7.1
+0.6
+11
+2.4
+1.1
+13
+2.3
+1.2
+13
+2.9
+
+11
+3.1
+0.5
+8
+4.2
+0.1
+Brain and other nervous system
+9
+3.6
+1.2f
+8
+3.9
+1.0f
+16
+2.2
+1.4f
+12
+1.5
+1.6
+15
+1.5
+
+15
+1.8
+
+13
+2.4
+0.3
+9
+3.7
+1.1f
+Myeloma
+10
+3.1
+1.0f
+10
+2.8
+0.9f
+7
+6.3
+1.3f
+13
+1.5
+1.4
+11
+2.8
+2.9
+12
+3.5
+4.1
+12
+2.7
+0.6
+10
+3.1
+0.9f
+Liver and intrahepatic bile duct
+11
+3.1
+0.9f
+11
+2.8
+0.8f
+12
+3.9
+0.3
+5
+6.7
+0.4
+6
+4.6
+2.4
+6
+6.4
+2.7
+7
+5.0
+1.2
+11
+3.0
+0.7f
+Stomach
+12
+3.0
+2.7f
+13
+2.6
+2.8f
+8
+5.8
+3.2f
+6
+6.2
+4.6f
+8
+3.7
+3.5
+7
+5.5
+1.2
+6
+5.1
+1.8f
+12
+2.9
+3.1f
+Kidney and renal pelvis
+13
+2.8
+0.8f
+12
+2.8
+0.7f
+15
+2.8
+0.9
+15
+1.1
+1.5
+10
+3.2
+2.2
+9
+4.3
+1.7
+14
+2.3
+0.3
+13
+2.8
+0.7f
+Cervix uteri
+14
+2.6
+3.5f
+14
+2.3
+3.2f
+10
+4.9
+4.7f
+10
+2.4
+4.5f
+12
+2.7
+4.2
+11
+4.0
+1.6
+10
+3.3
+3.3f
+14
+2.5
+3.5f
+Urinary bladder
+15
+2.3
+0.5
+15
+2.3
+0.3
+14
+2.8
+1.3f
+16
+1.0
+1.5
+18
+1.1
+
+18
+1.1
+
+16
+1.4
+2.5
+15
+2.3
+0.5
+Esophagus
+16
+1.8
+0.5
+17
+1.7
+0.2
+13
+3.0
+2.9f
+18
+0.8
+3.8
+17
+1.2
+
+16
+1.5
+
+17
+1.0
+1.8
+17
+1.8
+0.3
+(continued)
+Report to the Nation, 19752004/Espey et al.
+2131
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Current smoking prevalence among persons aged
+18 years was higher among AI/AN persons overall
+than among NHW persons, with the highest preva-
+lence among AI/AN populations in Alaska and the
+Northern
+Plains
+(Table
+6).
+Smoking
+prevalence
+among AI/AN was the lowest in the Southwest and
+did not differ greatly from that among NHW. In all
+regions, more AI/AN than NHW men and women
+aged 20 years reported being obese; and, corre-
+spondingly, more AI/AN than NHW persons aged
+18 years reported no leisure time physical activity.
+Whereas heavy drinking was more common among
+men than among women in both populations, the
+percentage of AI/AN persons aged 18 years who
+consumed 5 drinks on 1 occasion was higher over-
+all than that of NHW adults. The estimates for AI/AN
+in the individual regions were less stable; however, in
+Alaska and in the Northern Plains, both AI/AN men
+and AI/AN women had a higher prevalence of heavy
+drinking than NHW. In the Southwest, this was true
+for AI/AN men only.
+The prevalence of cancer screening was lower
+among AI/AN than NHW persons and varied widely
+across IHS regions (Table 6). Mammography screen-
+ing was lower among AI/AN women than among
+NHW women, with the lowest AI/AN prevalence esti-
+mates in the Pacific Coast and Southwest. Similarly,
+among AI/AN men and women aged 50 years, fecal
+occult blood testing (FOBT) and endoscopy within
+the past 5 years were lower than that among NHW
+men and women. The prevalence of endoscopy for
+the AI/AN population in the Southwest was half the
+prevalence for the NHW population. Pap testing
+prevalence was lowest for AI/AN women in the
+Southern Plains and the East and was higher for
+Alaskan AI/AN women than for NHW women. Simi-
+larly, the prevalence of PSA testing was lower for AI/
+AN men than for NHW men.
+Cancer Incidence
+Cancer incidence rates in AI/AN persons for all can-
+cers combined were lower than for NHW persons for
+all regions combined (Tables 7 and 8). However, inci-
+dence rates varied by geographic region and cancer
+site. Among AI/AN men, cancer incidence rates for
+all sites combined ranged from 262 per 100,000 men
+in the Southwest to 611 per 100,000 men in the
+Northern Plains compared with the rates in NHW
+men, which ranged from 513 per 100,000 men in the
+Southwest to 578 per 100,000 men in the East.
+Among AI/AN women, the cancer incidence rates
+ranged from 219 per 100,000 women in the South-
+west to 511 per 100,000 women in Alaska compared
+with a range from 404 per 100,000 women in the
+TABLE 5
+(continued)
+Sex/cancer site or typea
+All races/ethnicities
+Whiteb
+Blackb
+APIb
+AI/ANb
+AI/AN (CHSDA
+counties)b
+Hispanicbc
+Non-Hispanicb
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Rank
+Rated
+APCe
+Oral cavity and pharynx
+18
+1.5
+2.5f
+18
+1.5
+2.3f
+17
+1.7
+4.5f
+14
+1.3
+2.3
+16
+1.3
+
+17
+1.5
+
+19
+0.8
+0.5
+18
+1.6
+2.6f
+Gallbladder
+20
+0.8
+2.8f
+20
+0.8
+3.0f
+19
+1.0
+1.2
+17
+0.8
+4.0f
+14
+1.5
+
+14
+2.3
+
+15
+1.4
+5.2f
+20
+0.8
+2.6f
+Source: National Center for Health Statistics public-use data file for the total U.S.
+API indicates Asian/Pacific Islander; AI/AN, American Indian/Alaska Native; CHSDA, Indian Health Service Contract Health Service Delivery Area; APC, annual percent change; NOS, not otherwise specified.
+a Cancers are sorted in descending order according to sex-specific rates for all races/ethnicities. Greater than 15 cancers may appear under males and females to include the top 15 cancers in every race/ethnicity group.
+b White, black, API, AI/AN, and AI/AN (CHSDA counties) include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+c Data for Hispanic exclude Maine, Minnesota, New Hampshire, North Dakota, and Oklahoma.
+d Rates are per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130).
+e APC is based on rates that were age-adjusted to the 2000 U.S. standard population (19 age groups; Census, p251130).
+f APC is statistically significantly different from zero (2-sided P <.05).
+ Statistic could not be calculated. The APC is based on < 10 cases for at least 1 year within the time interval.
+2132
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Southern Plains to 438 per 100,000 women in the Pa-
+cific Coast among NHW women. In general, these re-
+gional variations persisted for most cancer sites
+among AI/AN populations, and incidence rates were
+significantly higher among AI/AN populations in
+Alaska and the Northern and Southern Plains than
+among AI/AN populations in the Southwest (95% CIs
+for AI/AN incidence rates for all regions combined
+and individual regions are available online at URL:
+www.seer.cancer.gov/report_to_nation/).
+Among AI/AN men, the top 3 incident cancers
+were prostate, lung, and colon and rectum for all
+regions except the Southwest, where the leading can-
+cers were prostate, colon and rectum, and kidney
+(Table 7). Prostate cancer rates for AI/AN men were
+highest in the Northern and Southern Plains and
+were similar to the prostate cancer rates for NHW
+men in those regions. Lung and colorectal cancer
+rates were highest in the Northern Plains and Alaska
+and were elevated significantly compared with NHW
+men. The Southwest had the lowest rates for the top
+3 sites in AI/AN men for all regions combined. Rates
+of kidney cancer in AI/AN men were higher than
+those in NHW men in Alaska, the Northern Plains,
+the Southern Plains, and the Southwest. Stomach
+cancer in AI/AN men was more than 4 times as com-
+mon as in NHW men in Alaska and was twice as
+common in AI/AN men in the Southwest and North-
+ern Plains compared with NHW men. Cancer of the
+liver was greater in AI/AN men than in NHW men in
+5 regions and was highest for AI/AN men in the
+Northern Plains. Gallbladder cancer in AI/AN men
+was 3.7 times that of NHW men for all regions com-
+bined and was 6 times greater in the Southwest, the
+only individual region for which data are shown. The
+incidence rates for leukemia, melanoma, and cancers
+of the bladder, brain, and testis generally were lower
+in AI/AN men than in NHW men.
+Among AI/AN women, the 3 top cancer sites
+were breast, lung, and colon and rectum in all
+regions except the Southwest, where the rate for
+uterine cancer ranked third (Table 8). In Alaska, the
+breast cancer rate among AI/AN women was similar
+to the rate among NHW women; however, in all
+other regions, breast cancer was significantly lower
+among AI/AN women. In the Northern Plains, the
+rate of lung cancer among AI/AN women was nearly
+double that among NHW women; whereas, in the
+Southwest, AI/AN women had one-fifth the lung can-
+cer rate of NHW women. The colorectal cancer rate
+was highest among AI/AN women in Alaska (2.6
+times the rate in NHW women); whereas AI/AN
+women in the Southwest had less than half the color-
+ectal cancer rate of NHW women. Kidney cancer
+incidence for AI/AN women exceeded that for NHW
+women in the Northern and Southern Plains and in
+the Southwest. Stomach cancer, which was elevated
+for AI/AN women overall, was nearly 6 times the rate
+FIGURE 2. Percentage of the county population that is American Indian/Alaska Native, 2004. Source: 2004 Intercensal bridged single-race population esti-
+mates, U.S. Census Bureau/National Cancer Institute. Available at URL: http://seer.cancer.gov/popdata/.
+Report to the Nation, 19752004/Espey et al.
+2133
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 6
+Socioeconomic Characteristics, Access to Healthcare, Cancer Risk Factors, and Use of Cancer Screening for Non-Hispanic White and American Indian/Alaska Native by Indian Health Service
+Region, United States
+Characteristics
+U.S. NHW
+U.S. AI/AN
+AI/AN by Indian Health Service (IHS) region
+Northern plains
+Alaska
+Southern plains
+Pacific coast
+East
+Southwest
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+Socioeconomic statusa
+Persons with income below the federal poverty level
+8.1
+(8.1–8.1)
+25.7
+(25.5–25.9)
+30.1
+(29.6–30.6)
+20.2
+(19.4–21.0)
+20.9
+(20.5–21.3)
+22.5
+(22.1–22.9)
+21.5
+(21.2–21.8)
+34.4
+(34.0–34.8)
+Persons (aged 25 years and older) who graduated from high school
+85.5
+(85.5–85.5)
+70.9
+(70.7–71.1)
+74.5
+(74.1–74.9)
+71.8
+(70.9–72.7)
+75.3
+(74.9–75.7)
+70.6
+(70.1–71.1)
+69.7
+(69.4–70.0)
+66.1
+(65.6–66.6)
+Persons (aged 25 years and older) with less than 9th grade education
+4.6
+(4.6–4.6)
+11.1
+(11.0–11.2)
+7.7
+(7.4–8.0)
+13.8
+(13.1–14.5)
+8.6
+(8.3–8.9)
+11.4
+(11.1–11.7)
+11.6
+(11.4–11.8)
+14.3
+(13.9–14.7)
+Access to health care
+Persons with no health care coverageb
+10.6
+(10.5–10.7)
+23.5
+(22.2–24.7)
+22.8
+(20.4–25.4)
+25.9
+(23.5–28.5)
+27.5
+(23.9–31.5)
+12.6
+(10.2–15.4)
+23.6
+(21.6–25.7)
+36.2
+(33.1–39.4)
+Ages younger than 65 years
+12.8
+(12.7–12.9)
+26.0
+(24.6–27.4)
+24.9
+(22.2–27.8)
+26.9
+(24.3–29.6)
+30.2
+(26.2–34.5)
+14.3
+(11.6–17.6)
+26.4
+(24.1–28.8)
+38.1
+(34.8–41.5)
+Ages 65 years and older
+1.5
+(1.5–1.7)
+4.1
+(3.0–5.5)
+5.8
+(2.6–12.2)
+14.5
+(9.1–22.5)
+5.1
+(3.0–8.6)
+1.9
+(0.7–5.6)
+3.5
+(2.2–5.6)
+5.5
+(2.9–10.1)
+Persons (aged 18–64 years) with no regular source of medical carec
+16.3
+(16.1–16.4)
+26.1
+(24.5–27.7)
+26.6
+(23.3–30.3)
+34.0
+(31.2–36.9)
+22.7
+(19.7–26.2)
+20.0
+(15.4–25.5)
+25.3
+(22.8–28.0)
+40.9
+(37.2–44.6)
+Males
+21.3
+(21.1–21.6)
+31.8
+(29.4–34.4)
+30.9
+(25.8–36.6)
+43.5
+(38.8–48.2)
+29.6
+(24.3–35.5)
+24.3
+(16.8–33.8)
+31.4
+(27.7–35.4)
+47.8
+(42.3–53.4)
+Females
+11.5
+(11.4–11.7)
+19.7
+(18.1–21.6)
+21.9
+(18.1–26.2)
+26.0
+(22.7–29.5)
+16.4
+(13.4–19.9)
+16.2
+(11.2–22.9)
+17.0
+(14.4–19.9)
+34.9
+(30.3–39.9)
+Cancer risk factors
+Persons (aged 18 years and older) who are current smokersb
+22.6
+(22.4–22.7)
+35.8
+(34.4–37.3)
+43.6
+(40.5–46.7)
+44.3
+(41.5–47.1)
+35.4
+(32.1–38.9)
+31.7
+(27.2–36.6)
+37.9
+(35.5–40.3)
+19.6
+(17.2–22.2)
+Males
+23.8
+(23.6–24.0)
+39.3
+(37.1–41.6)
+46.2
+(41.5–51.0)
+49.8
+(45.8–53.8)
+36.2
+(31.0–41.8)
+35.1
+(28.0–42.9)
+42.0
+(38.5–45.6)
+22.4
+(18.8–26.4)
+Females
+21.4
+(21.2–21.6)
+32.0
+(30.2–33.8)
+40.7
+(36.8–44.7)
+39.4
+(35.6–43.4)
+34.7
+(30.6–39.1)
+28.6
+(23.4–34.4)
+32.5
+(29.6–35.6)
+17.0
+(13.8–20.7)
+Persons (aged 20 years and older) who are obese, (self-report)b
+20.8
+(20.6–20.9)
+28.4
+(27.1–29.8)
+30.0
+(27.2–33.0)
+30.2
+(27.6–32.9)
+30.0
+(26.9–33.3)
+30.8
+(26.3–35.6)
+25.5
+(23.4–27.6)
+31.0
+(27.9–34.2)
+Males
+22.2
+(22.0–22.4)
+28.4
+(26.4–30.4)
+29.8
+(25.5–34.4)
+27.0
+(23.4–30.8)
+31.2
+(26.1–36.8)
+31.1
+(24.5–38.6)
+25.3
+(22.4–28.4)
+32.2
+(27.3–37.5)
+Females
+19.4
+(19.3–19.6)
+28.4
+(26.7–30.2)
+30.3
+(26.9–33.9)
+33.0
+(29.4–36.9)
+28.9
+(25.3–32.7)
+30.5
+(24.7–36.9)
+25.6
+(22.9–28.6)
+29.9
+(26.3–33.7)
+Persons (aged 18 years and older) with no leisure
+time physical activityd
+21.9
+(21.7–22.0)
+29.1
+(27.5–30.7)
+28.2
+(25.2–31.4)
+30.8
+(27.7–34.1)
+28.7
+(25.5–32.1)
+29.2
+(23.1–36.1)
+30.9
+(28.4–33.5)
+22.9
+(20.2–25.8)
+Males
+19.6
+(19.4–19.8)
+26.2
+(23.9–28.6)
+25.5
+(21.3–30.2)
+24.7
+(20.9–28.8)
+25.8
+(21.2–31.1)
+31.2
+(21.6–42.7)
+26.2
+(23.0–29.6)
+21.1
+(17.4–25.5)
+Females
+24.0
+(23.8–24.2)
+32.3
+(30.1–34.5)
+31.2
+(27.2–35.6)
+36.2
+(31.6–41.0)
+31.3
+(27.2–35.7)
+27.4
+(20.4–35.8)
+37.3
+(33.7–41.0)
+24.4
+(20.6–28.5)
+Persons (aged 18 years and older) with 5 or more drinks in one
+day at least once in the past yearb
+15.5
+(15.4–15.6)
+18.5
+(17.3–19.8)
+22.3
+(19.8–25.0)
+22.4
+(20.2–24.8)
+18.4
+(15.3–22.0)
+16.9
+(13.3–21.3)
+17.6
+(15.7–19.7)
+17.6
+(15.1–20.4)
+Males
+23.4
+(23.2–23.6)
+27.1
+(25.0–29.2)
+30.5
+(26.3–35.0)
+28.6
+(25.1–32.3)
+28.9
+(23.3–35.1)
+26.4
+(19.7–34.4)
+25.2
+(22.1–28.6)
+28.3
+(24.0–32.9)
+Females
+8.2
+(8.1–8.3)
+9.2
+(8.2–10.3)
+13.0
+(10.8–15.6)
+16.8
+(14.2–19.9)
+8.3
+(6.3–10.8)
+9.1
+(6.2–13.1)
+7.5
+(6.0–9.3)
+8.5
+(6.1–11.7)
+Use of cancer screening
+Mammography in women (aged 40 years and older)e
+within the past 2 years
+76.2
+(75.9–76.4)
+69.0
+(66.1–71.7)
+69.8
+(63.2–75.6)
+70.9
+(63.8–77.0)
+70.2
+(63.5–76.1)
+61.3
+(50.8–70.8)
+72.7
+(68.5–76.5)
+62.2
+(55.4–68.7)
+Colorectal cancer screening in adults (aged 50 years and older)f
+Fecal occult blood test within 1 year
+22.2
+(22.0–22.5)
+17.1
+(14.8–19.7)
+20.8
+(15.5–26.9)
+
+
+11.8
+(8.4–16.2)
+16.9
+(9.9–27.3)
+18.7
+(15.6–22.4)
+12.2
+(8.3–17.7)
+Males
+22.2
+(21.8–22.6)
+17.0
+(13.9–20.7)
+21.9
+(14.5–31.7)
+
+
+13.1
+(7.4–22.1)
+
+
+17.8
+(13.6–22.8)
+
+
+Females
+22.3
+(22.0–22.6)
+17.2
+(14.0–20.9)
+19.3
+(13.0–27.7)
+
+
+10.7
+(7.5–15.0)
+
+
+19.8
+(15.3–25.3)
+
+
+Endoscopy within past 5 years
+41.4
+(41.1–41.7)
+36.4
+(33.1–39.7)
+37.2
+(30.9–44.0)
+39.7
+(33.5–46.4)
+31.8
+(24.8–39.8)
+28.7
+(19.6–40.0)
+42.7
+(38.0–47.7)
+20.9
+(16.1–26.6)
+Males
+43.7
+(43.2–44.1)
+36.5
+(31.7–41.6)
+30.6
+(22.9–39.6)
+33.5
+(26.0–41.9)
+29.3
+(20.3–40.3)
+
+
+44.7
+(37.7–51.9)
+
+
+Females
+39.5
+(39.2–39.9)
+36.2
+(32.0–40.7)
+44.1
+(34.8–53.9)
+44.3
+(35.2–53.9)
+33.8
+(24.1–45.1)
+26.8
+(15.7–41.8)
+40.4
+(34.3–46.8)
+24.4
+(17.4–33.0)
+(continued)
+2134
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+for NHW women in Alaska, 3 times greater than for
+NHW women in the Southwest, and 2 times greater
+than for NHW women in the Northern and Southern
+Plains. The rate of liver cancer among AI/AN women
+ranged from 1.9 times the rate among NHW women
+in the Southern Plains to 3.4 times greater in the
+Northern Plains. The rate of cancer of the cervix was
+elevated in AI/AN women in the Northern and
+Southern Plains. The incidence rate of gallbladder
+cancer was elevated in AI/AN women in the South-
+ern Plains and the Southwest, whereas it was 2.7 and
+7.1 times the rate of NHW women, respectively. The
+incidence rates of NHL, melanoma, and bladder can-
+cer generally were lower in AI/AN women than in
+NHW women.
+Cancer Stage
+Overall, AI/AN persons were less likely than NHW
+persons to be diagnosed with early stages of colorec-
+tal cancer, although this pattern varied by region; the
+difference between AI/AN and NHW persons was
+larger in the Southwest, Northern Plains, and South-
+ern Plains than in other regions (Table 9). Approxi-
+mately three-fourths of prostate cancer cases were
+diagnosed with localized stage among NHW men
+overall and among AI/AN men in Alaska and the
+Southern Plains regions. AI/AN women in all regions
+were less likely than NHW women to be diagnosed
+with localized breast cancer. Similarly, AI/AN women
+in all regions combined were less likely than NHW
+women
+to
+be
+diagnosed
+with
+localized
+cervical
+cancer.
+DISCUSSION
+Overall Cancer Incidence and Mortality Trends in the U.S.
+The overall decline in cancer death rates, which was
+noted first in the 1990s, has accelerated in recent
+years. Declines in colorectal cancer mortality in men
+and women, especially recent declines from 2002
+through 2004, together with the continuation of
+long-term declines in mortality from lung and pros-
+tate cancer in men
+and from
+breast cancer in
+women, strongly contribute to the overall declining
+cancer death rates.
+Noteworthy in this year’s report are the decline
+in the incidence of colorectal cancer in men and
+women, the decline in breast cancer incidence in
+women from 2001 through 2004, and a leveling of
+lung cancer incidence in women after long-term
+increases. Lung cancer incidence rates in men con-
+tinue to decline, and the prostate cancer trend was
+level.
+TABLE 6
+(continued)
+Characteristics
+U.S. NHW
+U.S. AI/AN
+AI/AN by Indian health service (IHS) region
+Northern plains
+Alaska
+Southern plains
+Pacific coast
+East
+Southwest
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+%
+95% CI
+Pap test in women (aged 18 years and older)e
+within the past 3 years
+86.4
+(86.2–86.6)
+82.4
+(80.1–84.5)
+84.4
+(79.9–88.0)
+92.7
+(89.4–95.1)
+80.4
+(75.5–84.6)
+83.4
+(76.4–88.7)
+80.9
+(76.5–84.6)
+82.1
+(76.9–86.2)
+PSA test in men (aged 50 years and older) within 1 yearg
+57.9
+(57.4–58.4)
+49.1
+(43.0–55.1)
+44.5
+(34.3–55.1)
+34.5
+(24.8–45.7)
+63.7
+(52.2–73.9)
+44.7
+(25.2–66.0)
+50.1
+(42.1–58.0)
+38.2
+(28.2–49.4)
+AI/AN indicates American Indian/Alaska Native; NHW, non-Hispanic white; 95% CI, 95% confidence interval; Pap, Papanicolaou; PSA, prostate-specific antigen.
+a Source: Tables P148C, P148I, P159C, P159I from the Census 2000 Summary File 3 (SF 3) prepared by the U.S. Census Bureau, 2002.
+b Source: Behavioral Risk Factor Surveillance System (BRFSS), 1999–2002, 2004, and 2005.
+c Source: BRFSS, 2001, 2002, 2004, and 2005; obesity is based on body mass index >30 kg/m2 and <99.8 kg/m2.
+d Source: BRFSS, 2001, 2002, 2004, and 2005.
+e Source: BRFSS, 1999, 2000, 2002, and 2004.
+f Source: BRFSS, 1999, 2001, 2002, and 2004. Endoscopy includes sigmoidoscopy and colonoscopy.
+g Source: BRFSS, 2001 and 2002.
+ Data suppressed because of small numbers of <50 persons.
+Report to the Nation, 19752004/Espey et al.
+2135
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 7
+Incidence Rates and Rate Ratios of the Top 15 Cancers for American Indian/Alaska Native Males Compared With Non-Hispanic White Males
+by Indian Health Service Region, Contract Health Service Delivery Area Counties in Selected Areas in the United States, 1999–2004
+Cancer site or typea
+U.S. (CHSDA counties)
+Northern plains
+Alaska
+AI/AN
+NHW ratec
+AI/AN:NHW
+AI/AN
+NHW ratec
+AI/AN:NHW
+AI/AN
+NHW ratec
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+All sitesb
+406.9
+553.5
+0.74d
+0.72–0.75
+611.4
+542.5
+1.13d
+1.06–1.20
+543.3
+569.0
+0.95
+0.88–1.03
+Prostate
+1
+104.0
+154.7
+0.67d
+0.64–0.70
+1
+164.6
+160.0
+1.03
+0.91–1.16
+3
+82.1
+179.9
+0.46d
+0.37–0.56
+Lung and bronchus
+2
+68.0
+87.6
+0.78d
+0.73–0.82
+2
+115.5
+86.7
+1.33d
+1.15–1.54
+1
+116.5
+84.8
+1.37d
+1.14–1.64
+Colon and rectum
+3
+51.5
+60.4
+0.85d
+0.80–0.91
+3
+79.8
+62.0
+1.29d
+1.08–1.52
+2
+98.5
+61.4
+1.60d
+1.31–1.95
+Kidney and renal pelvis
+4
+22.7
+17.4
+1.31d
+1.20–1.43
+4
+29.7
+17.4
+1.71d
+1.33–2.15
+5
+28.6
+18.7
+1.53d
+1.06–2.16
+Urinary bladder
+5
+16.1
+41.5
+0.39d
+0.34–0.43
+5
+27.6
+39.4
+0.70d
+0.49–0.95
+6
+23.0
+47.3
+0.49d
+0.31–0.71
+Non-Hodgkin lymphoma
+6
+14.9
+23.2
+0.64d
+0.57–0.72
+8
+20.2
+22.8
+0.89
+0.61–1.24
+11
+13.2
+26.3
+0.50d
+0.32–0.76
+Stomach
+7
+14.2
+8.5
+1.67d
+1.48–1.88
+9
+16.7
+8.4
+1.98d
+1.33–2.80
+4
+34.6
+7.7
+4.46d
+2.89–6.84
+Oral cavity and pharynx
+8
+13.0
+16.6
+0.78d
+0.70–0.88
+6
+21.5
+15.3
+1.40
+0.98–1.92
+8
+20.9
+15.3
+1.36
+0.92–1.97
+Liver and IBD
+9
+13.0
+6.4
+2.02d
+1.79–2.27
+7
+21.0
+5.4
+3.89d
+2.71–5.37
+9
+17.2
+8.2
+2.09d
+1.19–3.46
+Leukemia
+10
+10.6
+16.4
+0.65d
+0.57–0.73
+11
+13.7
+16.4
+0.84
+0.58–1.17
+12
+8.4
+15.2
+0.55d
+0.31–0.95
+Pancreas
+11
+9.7
+12.6
+0.77d
+0.66–0.88
+13
+9.9
+12.0
+0.82
+0.50–1.26
+7
+21.4
+9.6
+2.22d
+1.37–3.47
+Esophagus
+12
+7.8
+8.7
+0.90
+0.76–1.05
+10
+14.1
+9.3
+1.52
+0.95–2.28
+10
+13.2
+9.3
+1.43
+0.80–2.39
+Myeloma
+13
+6.5
+6.3
+1.03
+0.86–1.22
+14
+7.1
+6.5
+1.10
+0.60–1.82
+
+
+6.1
+
+
+Melanoma of the skin
+14
+5.9
+27.4
+0.21d
+0.18–0.25
+
+
+19.0
+
+
+
+
+16.4
+
+
+Larynx
+15
+5.3
+6.7
+0.78d
+0.64–0.94
+12
+10.3
+6.5
+1.58
+0.88–2.56
+
+
+5.2
+
+
+Brain and ONS
+16
+5.0
+8.7
+0.57d
+0.48–0.67
+15
+5.6
+8.4
+0.66
+0.37–1.11
+
+
+8.1
+
+
+Testis
+17
+4.0
+6.6
+0.61d
+0.52–0.71
+17
+5.1
+6.5
+0.79
+0.51–1.24
+13
+6.1
+7.1
+0.86
+0.50–1.48
+Gallbladder
+18
+2.5
+0.7
+3.70d
+2.65–4.99
+
+
+0.6
+
+
+
+
+
+
+
+Cancer site or typea
+Southern plains
+Pacific coast
+East
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+All sitesb
+568.2
+549.3
+1.03
+1.00–1.07
+333.0
+556.8
+0.60d
+0.57–0.63
+286.3
+578.4
+0.50d
+0.44–0.55
+Prostate
+1
+156.9
+146.6
+1.07
+0.99–1.15
+1
+83.1
+160.4
+0.52d
+0.47–0.57
+1
+82.9
+156.3
+0.53d
+0.43–0.65
+Lung and bronchus
+2
+108.7
+109.1
+1.00
+0.91–1.09
+2
+56.5
+82.4
+0.69d
+0.60–0.78
+2
+45.4
+94.5
+0.48d
+0.36–0.63
+Colon and rectum
+3
+68.9
+63.5
+1.08
+0.97–1.21
+3
+44.0
+56.4
+0.78d
+0.67–0.90
+3
+35.5
+65.9
+0.54d
+0.38–0.73
+Kidney and renal pelvis
+4
+25.2
+17.8
+1.41d
+1.19–1.67
+4
+14.8
+16.8
+0.88
+0.70–1.10
+5
+15.1
+18.7
+0.81
+0.48–1.27
+Urinary bladder
+5
+24.8
+34.9
+0.71d
+0.58–0.85
+5
+13.3
+41.9
+0.32d
+0.24–0.41
+4
+20.4
+43.9
+0.46d
+0.28–0.70
+Non-Hodgkin lymphoma
+6
+23.5
+22.1
+1.06
+0.87–1.28
+8
+12.6
+24.1
+0.52d
+0.40–0.67
+
+
+23.9
+
+
+Stomach
+12
+10.2
+7.3
+1.40d
+1.05–1.83
+9
+11.8
+8.2
+1.43d
+1.05–1.90
+
+
+9.9
+
+
+Oral cavity and pharynx
+7
+18.5
+18.3
+1.01
+0.82–1.23
+7
+12.6
+17.1
+0.74d
+0.58–0.93
+6
+9.8
+16.8
+0.58d
+0.33–0.96
+Liver and IBD
+11
+11.1
+6.1
+1.81d
+1.37–2.34
+6
+12.7
+6.5
+1.94d
+1.50–2.46
+
+
+6.9
+
+
+Leukemia
+8
+17.2
+16.3
+1.06
+0.85–1.30
+10
+9.3
+16.6
+0.56d
+0.41–0.74
+
+
+17.1
+
+
+Pancreas
+9
+12.3
+13.0
+0.95
+0.72–1.22
+12
+6.6
+12.8
+0.52d
+0.35–0.73
+
+
+13.3
+
+
+Esophagus
+14
+8.5
+7.8
+1.10
+0.78–1.49
+11
+7.5
+8.7
+0.86
+0.60–1.18
+
+
+8.8
+
+
+Myeloma
+15
+8.3
+5.8
+1.41d
+1.01–1.92
+14
+4.6
+6.4
+0.72
+0.45–1.08
+
+
+6.5
+
+
+Melanoma of the skin
+10
+11.6
+20.4
+0.57d
+0.44–0.73
+13
+5.6
+31.9
+0.18d
+0.12–0.26
+
+
+27.2
+
+
+Larynx
+13
+9.1
+7.8
+1.17
+0.86–1.55
+17
+3.2
+5.8
+0.56d
+0.33–0.88
+
+
+8.2
+
+
+Brain and ONS
+16
+8.1
+8.8
+0.92
+0.68–1.21
+16
+3.7
+9.2
+0.40d
+0.26–0.60
+
+
+8.6
+
+
+Testis
+17
+3.5
+5.6
+0.63d
+0.43–0.91
+15
+3.8
+7.2
+0.53d
+0.38–0.72
+
+
+6.2
+
+
+Gallbladder
+
+
+0.7
+
+
+
+
+0.6
+
+
+
+
+0.8
+
+
+Cancer site or type
+a
+Southwest
+AI/AN
+AI/AN:NHW
+Rank
+Ratec
+NHW ratec
+RR
+95% CI
+All sitesb
+261.5
+513.1
+0.51d
+0.49–0.54
+Prostate
+1
+67.0
+136.7
+0.49d
+0.44–0.54
+Lung and bronchus
+4
+22.1
+78.1
+0.28d
+0.24–0.34
+Colon and rectum
+2
+26.7
+56.1
+0.48d
+0.41–0.55
+Kidney and renal pelvis
+3
+25.1
+15.8
+1.59d
+1.35–1.85
+Urinary bladder
+11
+5.5
+41.1
+0.13d
+0.09–0.19
+Non-Hodgkin lymphoma
+7
+10.4
+20.5
+0.51d
+0.40–0.64
+(continued)
+2136
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+After steadily decreasing for many years, the
+decline in colorectal cancer death rates has acceler-
+ated. The concurrent declines in colorectal cancer
+mortality and incidence are likely associated with
+preventing colorectal cancer through screening and
+removal of precancerous polyps, improving cancer
+outcomes by earlier stage diagnosis, reducing exposure
+to risk factors, and improving cancer treatment.46–52
+Lung cancer incidence trends have stabilized for
+women and have continued declining for men. Both
+joinpoint and fixed-interval trends for lung cancer
+death rates in women demonstrated a considerably
+slower
+rate
+of
+increase
+(APC,
+0.2%)
+from
+1995
+through 2004 than in earlier periods; lung cancer
+incidence rates remained essentially unchanged from
+1998 through 2004. The data suggest that the epi-
+demic of tobacco-related lung cancer in women has
+reached a plateau and likely will begin to decline,
+similar to what is occurring in men, although some
+fluctuations still may occur as trends stabilize.8,9,53,54
+Prostate cancer incidence rates remained stable
+over the past decade. However, substantial declines
+in prostate cancer death rates occurred in all racial/
+ethnic populations, a phenomenon previously ob-
+served in the U.S.55 and in other western coun-
+tries.56,57 The reasons for the decline in prostate
+cancer mortality are unclear. PSA has been used widely
+for prostate cancer screening,58 although to our knowl-
+edge its efficacy in reducing prostate cancer mortality
+has not been established,59 and its contribution to
+declining mortality is uncertain.60,61 Other factors pos-
+sibly related to declining prostate cancer mortality
+rates include more effective treatment62–65 and serendi-
+pitous effects of noncancer-directed therapies.66
+The decrease in breast cancer incidence rates
+from 2001 through 2004 is a change from increasing
+rates during the previous 20 years. Although many
+factors
+influence
+breast
+cancer
+incidence
+rates,
+recent reports highlight changes in hormone-replace-
+ment therapy (HRT) and screening mammography
+use.67–71 Between the years 1987 and 2000, the per-
+centage of women aged 40 years reporting a mam-
+mogram within the past 2 years increased from
+29.1% to 70.1%.72 Recently, however, the direction of
+the trend with the percentage of women who had a
+mammogram
+in
+the
+past
+2
+years
+reversed
+and
+declined nearly 4 percentage points to 66.4%. Reduc-
+tions in mammography use were observed in popu-
+lations that previously reported higher rates: women
+ages 50 to 64 years, NHW women, and women with
+TABLE 7
+(continued)
+Cancer site or type
+a
+Southwest
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Stomach
+5
+16.0
+7.2
+2.23d
+1.79–2.74
+Oral cavity and pharynx
+12
+4.8
+15.5
+0.31d
+0.21–0.43
+Liver and IBD
+6
+12.6
+6.2
+2.05d
+1.62–2.56
+Leukemia
+10
+6.7
+14.8
+0.45d
+0.34–0.59
+Pancreas
+8
+7.6
+11.5
+0.66d
+0.48–0.87
+Esophagus
+13
+4.4
+8.0
+0.55d
+0.36–0.79
+Myeloma
+9
+7.4
+5.4
+1.37
+0.98–1.84
+Melanoma of the skin
+17
+3.6
+29.5
+0.12d
+0.08–0.18
+Larynx
+
+
+6.1
+
+
+Brain and ONS
+16
+3.8
+8.0
+0.48d
+0.32–0.68
+Testis
+14
+4.2
+6.3
+0.67d
+0.50–0.89
+Gallbladder
+15
+4.1
+0.7
+6.33d
+3.87–9.81
+Source: Surveillance, Epidemiology, and Ends Results and National Program of Cancer Registries areas are reported by the North American Association of Central Cancer Registries as meeting high-quality data
+standards from 1999 through 2004.
+CHSDA indicates Indian Health Service (IHS) Contract Health Service Delivery Area; AI/AN, American Indian/Alaska Native; NHW, non-Hispanic white; RR, rate ratio; 95% CI, 95% confidence interval; IBD, intra-
+hepatic bile duct; ONS, other nervous system.
+a Cancers are sorted in descending order according to sex-specific rates for AI/AN. Greater than 15 cancers may appear to include the top 15 cancers in every IHS region.
+b All sites excludes myelodysplastic syndromes and borderline tumors.
+c Rates are per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130).
+d The RR was statistically significant (P <.05).
+ Statistic could not be calculated when <16 cases were reported.
+Years of data and registries used (30 states). 1999–2004: Alabama, Alaska, California, Colorado, Connecticut, Florida, Idaho, Indiana, Iowa, Louisiana, Maine, Massachusetts, Montana, Nebraska, Nevada, New
+Mexico, New York, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, Wyoming; 1993–2003: Arizona, Wisconsin; 2000–2004: Michigan.
+Percent regional coverage of AI/AN CHSDA data to all AI/AN in region: Alaska, 100%; East, 12.2%; North Plains, 38.1%; Pacific Coast, 55.1%; South Plains, 65%; Southwest, 86.1%.
+Report to the Nation, 19752004/Espey et al.
+2137
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 8
+Incidence Rates and Rate Ratios of the Top 15 Cancers for American Indian/Alaska Native Females Compared With Non-Hispanic White Females
+by Indian Health Service Region, Contract Health Service Delivery Area Counties in Selected Areas in the United States, 1999–2004
+Cancer site or typea
+U.S. (CHSDA counties)
+Northern plains
+Alaska
+AI/AN
+NHW ratec
+AI/AN:NHW
+AI/AN
+NHW ratec
+AI/AN:NHW
+AI/AN
+NHW ratec
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+All sitesb
+334.8
+425.8
+0.79d
+0.77–0.80
+468.1
+413.3
+1.13d
+1.07–1.20
+511.0
+415.3
+1.23d
+1.15–1.32
+Breast
+1
+84.7
+134.8
+0.63d
+0.60–0.65
+1
+112.2
+130.5
+0.86d
+0.77–0.96
+1
+139.5
+135.6
+1.03
+0.91–1.17
+Lung and bronchus
+2
+48.0
+59.2
+0.81d
+0.77–0.86
+2
+97.4
+52.0
+1.87d
+1.64–2.12
+3
+78.9
+59.9
+1.32d
+1.08–1.59
+Colon and rectum
+3
+41.6
+43.8
+0.95
+0.90–1.01
+3
+60.4
+45.3
+1.33d
+1.13–1.57
+2
+106.2
+40.6
+2.62d
+2.18–3.14
+Corpus and uterus, NOS
+4
+18.2
+23.4
+0.78d
+0.71–0.84
+4
+21.3
+26.7
+0.80
+0.60–1.03
+5
+14.0
+22.9
+0.61d
+0.41–0.90
+Kidney and renal pelvis
+5
+13.9
+8.7
+1.59d
+1.44–1.75
+5
+18.8
+9.3
+2.03d
+1.51–2.67
+8
+12.0
+8.6
+1.39
+0.85–2.21
+Non-Hodgkin lymphoma
+6
+12.8
+16.4
+0.78d
+0.70–0.87
+6
+16.2
+16.7
+0.97
+0.69–1.31
+10
+9.9
+17.8
+0.55d
+0.33–0.88
+Ovaryb
+7
+11.7
+14.4
+0.81d
+0.73–0.90
+7
+12.6
+14.0
+0.90
+0.63–1.25
+12
+7.6
+13.5
+0.56d
+0.31–0.95
+Pancreas
+8
+9.4
+9.5
+1.00
+0.88–1.13
+11
+9.9
+9.0
+1.09
+0.70–1.61
+9
+11.9
+10.7
+1.12
+0.67–1.78
+Cervix uteri
+9
+9.4
+7.5
+1.25d
+1.11–1.39
+9
+11.3
+7.5
+1.50d
+1.07–2.06
+11
+9.2
+6.0
+1.52
+0.88–2.51
+Thyroid
+10
+8.4
+12.0
+0.70d
+0.63–0.79
+10
+10.2
+11.9
+0.86
+0.60–1.19
+6
+12.6
+12.3
+1.03
+0.69–1.50
+Leukemia
+11
+7.8
+9.7
+0.80d
+0.70–0.91
+8
+11.5
+10.1
+1.14
+0.75–1.66
+14
+5.7
+10.9
+0.52d
+0.27–0.92
+Stomach
+12
+7.6
+3.7
+2.05d
+1.77–2.35
+14
+7.4
+3.5
+2.12d
+1.28–3.28
+4
+17.7
+3.0
+5.90d
+3.41–10.38
+Liver and IBD
+13
+5.9
+2.5
+2.39d
+2.02–2.80
+13
+7.7
+2.3
+3.39d
+1.97–5.35
+
+
+2.7
+
+
+Myeloma
+14
+5.8
+3.8
+1.53d
+1.30–1.79
+15
+5.6
+4.0
+1.41
+0.80–2.28
+13
+7.5
+4.0
+1.88
+0.95–3.55
+Oral cavity and pharynx
+15
+4.9
+6.4
+0.77d
+0.65–0.91
+12
+9.6
+6.1
+1.56d
+1.03–2.26
+7
+12.3
+5.8
+2.12d
+1.23–3.55
+Urinary bladder
+16
+4.4
+10.4
+0.42d
+0.35–0.50
+
+
+10.5
+
+
+
+
+8.6
+
+
+Melanoma of the skin
+17
+3.9
+18.5
+0.21d
+0.18–0.25
+
+
+13.7
+
+
+
+
+12.7
+
+
+Gallbladder
+18
+3.8
+1.1
+3.36d
+2.72–4.11
+
+
+1.4
+
+
+
+
+
+
+
+Cancer site or type
+a
+Southern plains
+Pacific coast
+East
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+Rank
+Ratec
+RR
+95% CI
+All sitesb
+439.2
+403.7
+1.09d
+1.05–1.13
+292.7
+437.5
+0.67d
+0.64–0.70
+258.3
+435.1
+0.59d
+0.54–0.65
+Breast
+1
+115.2
+130.0
+0.89d
+0.83–0.95
+1
+74.5
+142.5
+0.52d
+0.48–0.57
+1
+69.1
+132.8
+0.52d
+0.43–0.62
+Lung and bronchus
+2
+68.8
+62.9
+1.09
+1.00–1.20
+2
+47.0
+60.9
+0.77d
+0.68–0.87
+2
+45.2
+61.3
+0.74d
+0.57–0.93
+Colon and rectum
+3
+54.4
+43.4
+1.25d
+1.13–1.39
+3
+34.8
+42.0
+0.83d
+0.72–0.95
+3
+34.6
+46.9
+0.74d
+0.56–0.96
+Corpus and uterus, NOS
+4
+22.5
+19.4
+1.16
+0.98–1.35
+4
+16.8
+23.7
+0.71d
+0.59–0.85
+4
+13.1
+24.4
+0.54d
+0.33–0.81
+Kidney and renal pelvis
+6
+17.9
+9.1
+1.96d
+1.62–2.36
+7
+10.4
+8.3
+1.26
+0.98–1.59
+5
+11.5
+9.2
+1.25
+0.77–1.91
+Non-Hodgkin lymphoma
+5
+18.4
+15.6
+1.17
+0.97–1.40
+5
+12.4
+16.7
+0.74d
+0.58–0.93
+
+
+16.8
+
+
+Ovaryb
+7
+14.4
+14.0
+1.03
+0.84–1.25
+8
+9.9
+14.9
+0.66d
+0.51–0.84
+
+
+14.6
+
+
+Pancreas
+9
+9.9
+8.7
+1.13
+0.87–1.44
+6
+10.8
+9.7
+1.12
+0.85–1.43
+
+
+10.0
+
+
+Cervix uteri
+8
+14.1
+9.2
+1.53d
+1.25–1.86
+10
+6.9
+7.0
+0.98
+0.74–1.27
+6
+8.2
+7.7
+1.07
+0.62–1.71
+Thyroid
+11
+9.3
+8.1
+1.14
+0.89–1.44
+11
+6.3
+11.0
+0.57d
+0.43–0.75
+7
+7.9
+13.1
+0.60d
+0.34–0.98
+Leukemia
+10
+9.7
+9.7
+1.00
+0.78–1.26
+9
+7.5
+9.7
+0.77
+0.57–1.02
+
+
+9.8
+
+
+Stomach
+13
+7.4
+3.4
+2.18d
+1.60–2.90
+13
+4.4
+3.5
+1.25
+0.81–1.83
+
+
+4.4
+
+
+Liver and IBD
+17
+5.3
+2.8
+1.88d
+1.30–2.64
+12
+5.9
+2.6
+2.29d
+1.58–3.18
+
+
+2.4
+
+
+Myeloma
+15
+6.8
+3.7
+1.86d
+1.36–2.50
+15
+4.1
+3.8
+1.09
+0.70–1.60
+
+
+4.0
+
+
+Oral cavity and pharynx
+16
+5.9
+6.0
+0.98
+0.70–1.32
+17
+3.9
+6.7
+0.59d
+0.39–0.84
+
+
+6.5
+
+
+Urinary bladder
+14
+7.3
+8.5
+0.85
+0.63–1.13
+14
+4.3
+10.1
+0.42d
+0.27–0.62
+
+
+11.3
+
+
+Melanoma of the skin
+12
+7.7
+12.5
+0.62d
+0.47–0.80
+16
+4.0
+22.5
+0.18d
+0.12–0.25
+
+
+17.8
+
+
+Gallbladder
+20
+2.6
+1.0
+2.65d
+1.53–4.31
+
+
+1.1
+
+
+1.1
+Cancer site or type
+a
+Southwest
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+All sitesb
+219.3
+404.3
+0.54d
+0.52–0.57
+Breast
+1
+50.4
+127.2
+0.40d
+0.36–0.43
+Lung and bronchus
+6
+10.3
+56.9
+0.18d
+0.14–0.22
+Colon and rectum
+2
+17.6
+40.3
+0.44d
+0.37–0.51
+Corpus and uterus, NOS
+3
+16.8
+19.7
+0.85d
+0.73–0.99
+Kidney and renal pelvis
+5
+12.6
+8.2
+1.54d
+1.26–1.85
+Non-Hodgkin lymphoma
+7
+9.0
+14.9
+0.60d
+0.47–0.75
+(continued)
+2138
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+high incomes and education levels.70 The drop in
+incidence rates over the last several years may be
+associated in part with the small but significant
+decline in mammography use.68,70 A decrease in
+breast cancer incidence attributable to lower mam-
+mography use would represent an artifact of under-
+diagnosis
+or
+delayed
+diagnosis
+and
+not
+a
+true
+decrease in the rate of invasive breast cancer. Treat-
+ment of ductal and lobular carcinomas in situ, most
+of which are identified by screening mammography,
+also may have contributed to the observed decrease
+in breast cancer incidence.73
+Recent reports also highlight the contribution
+from the dramatic decrease in HRT among postmeno-
+pausal women for the decrease in breast cancer inci-
+dence rates, primarily in those ages 50 to 69 years, and
+among
+women
+with
+estrogen
+receptor-positive
+tumors, which are dependent on hormones for their
+growth.69 Follow-up of women in the Women’s Health
+Initiative may provide valuable answers to the impact
+of HRT cessation on breast cancer risk or timing and
+whether the impact can be sustained over time or
+throughout a woman’s life. Whether the decline in inci-
+dence will accelerate the existing mortality decline also
+needs to be determined.
+Because HRT is also a risk factor for ovarian can-
+cer,74 the decline in breast cancer incidence rates
+prompted further examination of recent trends in
+ovarian cancer. Ovarian cancer incidence rates have
+been declining since the mid-1980s. However, in this
+study, the rate of decline among white women chan-
+ged from 1.0% per year during 1995 through 2001
+to 3.3% per year during 2001 through 2004. The
+earlier declines in ovarian cancer incidence rates
+have been attributed in part to oral contraceptive
+use,75,76 whereas the most recent downturn, such as
+that observed in breast cancer, may be related to the
+abrupt reversal in HRT use.
+The incidence of kidney cancer has been rising
+among men and women since 1975, but death rates
+have been declining since 1992. Similar incidence
+patterns are observed in fixed-interval trends for
+1995 through 2004 for most racial/ethnic popula-
+tions. Much of the increase in incidence has been
+attributed to small tumors77 or tumors diagnosed
+unexpectedly in patients who undergo diagnostic
+TABLE 8
+(continued)
+Cancer site or type
+a
+Southwest
+AI/AN
+NHW rate
+c
+AI/AN:NHW
+Rank
+Ratec
+RR
+95% CI
+Ovaryb
+4
+13.1
+13.7
+0.95
+0.79–1.14
+Pancreas
+11
+7.9
+8.5
+0.92
+0.70–1.18
+Cervix uteri
+10
+7.9
+7.5
+1.06
+0.83–1.33
+Thyroid
+9
+8.4
+14.5
+0.58d
+0.47–0.71
+Leukemia
+14
+6.1
+9.4
+0.65d
+0.50–0.84
+Stomach
+8
+8.8
+3.1
+2.84d
+2.18–3.64
+Liver and IBD
+15
+6.0
+2.3
+2.61d
+1.89–3.51
+Myeloma
+13
+6.1
+3.0
+2.01d
+1.48–2.66
+Oral cavity and pharynx
+18
+2.1
+5.9
+0.35d
+0.21–0.54
+Urinary bladder
+
+
+10.1
+
+
+Melannoma of the skin
+20
+1.8
+18.5
+0.10d
+0.06–0.15
+Gallbladder
+12
+6.6
+0.9
+7.10d
+5.08–9.68
+Source: Surveillance, Epidemiology, and Ends Results and National Program of Cancer Registries areas are reported by the North American Association of Central Cancer Registries as meeting high-quality data
+standards from 1999 through 2004.
+CHSDA indicates Indian Health Service (IHS) Contract Health Service Delivery Area; AI/AN, American Indian/Alaska Native; NHW, non-Hispanic white; RR, rate ratio; 95% CI, 95% confidence interval; NOS, not
+otherwise specified; IBD, intrahepatic bile duct.
+a Cancers are sorted in descending order according to sex-specific rates for AI/AN. Greater than 15 cancers may appear to include the top 15 cancers in every IHS region.
+b All sites excludes myelodysplastic syndromes and borderline tumors.
+c Rates are per 100,000 persons and were age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130).
+d The RR was statistically significant (P <.05).
+ Statistic could not be calculated when <16 cases were reported.
+Years of data and registries used (30 states), 1999–2004: Alabama, Alaska, California, Colorado, Connecticut, Florida, Idaho, Indiana, Iowa, Louisiana, Maine, Massachusetts, Montana, Nebraska, Nevada, New
+Mexico, New York, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, Wyoming; 1999–2003: Arizona, Wisconsin; 2000–2004: Michigan.
+Percent regional coverage of AI/AN CHSDA data to all AI/AN in region: Alaska, 100%; East, 12.2%; North Plains, 38.1%; Pacific Coast, 55.1%; South Plains, 65%; Southwest, 86.1%.
+Report to the Nation, 19752004/Espey et al.
+2139
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 9
+Stage-specific Incidence Counts and Rates for Selected Cancer Sites and Age Groups for American Indian/Alaska Native and Non-Hispanic White
+Populations by Indian Health Service Region, Contract Health Service Delivery Area Counties in Selected Areas in the United States, 2001–2004;
+Males and Females Combined
+Cancer sitea/stageb
+U.S. (CHSDA counties) NHW
+U.S. (CHSDA counties) AI/AN
+Northern plains AI/AN
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Colon and rectum (aged 50 years and older)
+All stages
+67,699
+167.8
+(166.6–169.1)
+100.0
+1,058
+144.4
+(135.5–153.7)
+100.0
+163
+227.4
+(191.7–267.8)
+100.0
+Local
+25,037
+62.2
+(61.4–63.0)
+37.0
+340
+46.9
+(41.9–52.4)
+32.1
+48
+63.7
+(45.9–86.2)
+29.4
+Regional/distant
+36,272
+90.1
+(89.1–91.0)
+53.6
+619
+83.1
+(76.5–90.2)
+58.5
+98
+136.5
+(109.2–168.6)
+60.1
+Unknown
+6,390
+15.6
+(15.2–16.0)
+9.4
+99
+14.3
+(11.6–17.6)
+9.4
+17
+27.1
+(15.3–44.3)
+10.4
+Breast (female aged 40 years and older)
+All stages
+95,866
+294.5
+(292.7–296.4)
+100.0
+1,370
+184.5
+(174.5–194.8)
+100.0
+189
+254.5
+(217.9–295.6)
+100.0
+Local
+60,073
+184.0
+(182.5–185.4)
+62.7
+761
+103.3
+(95.9–111.1)
+55.5
+102
+141.2
+(114.1–172.9)
+54.0
+Regional/distant
+30,524
+95.4
+(94.3–96.5)
+31.8
+505
+66.7
+(60.8–73.0)
+36.9
+75
+95.8
+(74.4–121.6)
+39.7
+Unknown
+5,269
+15.2
+(14.7–15.6)
+5.5
+104
+14.5
+(11.7–17.7)
+7.6
+
+
+
+
+Cervix uteri (aged 20 years and older)
+All stages
+4,729
+10.2
+(9.9–10.5)
+100.0
+175
+12.1
+(10.4–14.1)
+100.0
+19
+13.0
+(7.6–20.9)
+100.0
+Local
+2,485
+5.6
+(5.4–5.8)
+52.5
+75
+5.0
+(3.9–6.3)
+42.9
+
+
+
+
+Regional/distant
+1,802
+3.7
+(3.5–3.9)
+38.1
+84
+5.8
+(4.6–7.2)
+48.0
+
+
+
+
+Unknown
+442
+0.9
+(0.8–1.0)
+9.3
+16
+1.3
+(0.7–2.2)
+9.1
+
+
+
+
+Prostate (aged 50 years and older)
+All stages
+98,770
+552.7
+(549.3–556.2)
+100.0
+1,165
+364.0
+(342.1–387.1)
+100.0
+155
+520.9
+(433.7–620.6)
+100.0
+Local
+75,737
+421.2
+(418.2–424.2)
+76.7
+811
+243.5
+(226.1–261.9)
+69.6
+106
+325.5
+(261.5–401.1)
+68.4
+Regional/distant
+13,357
+74.0
+(72.7–75.2)
+13.5
+200
+60.4
+(51.8–70.1)
+17.2
+29
+94.9
+(61.1–141.2)
+18.7
+Unknown
+9,676
+57.6
+(56.4–58.7)
+9.8
+154
+60.1
+(50.4–71.0)
+13.2
+20
+100.6
+(58.0–159.6)
+12.9
+Cancer site
+a/stage
+b
+Alaska AI/AN
+Southern plains AI/AN
+Pacific coast AI/AN
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Colon and rectum (aged 50 years and older)
+All stages
+153
+321.5
+(270.4–379.3)
+100.0
+333
+191.4
+(171.0–213.6)
+100.0
+211
+129.7
+(111.7–149.7)
+100.0
+Local
+64
+136.7
+(104.0–176.3)
+41.8
+100
+57.9
+(46.9–70.7)
+30.0
+75
+47.1
+(36.4–59.9)
+35.5
+Regional/distant
+82
+172.0
+(135.1–215.6)
+53.6
+194
+109.4
+(94.2–126.2)
+58.3
+123
+74.5
+(61.1–89.9)
+58.3
+Unknown
+
+
+
+
+39
+24.2
+(17.0–33.2)
+11.7
+
+
+
+
+Breast (female aged 40 years and older)
+All stages
+157
+319.0
+(269.6–375.1)
+100.0
+435
+257.8
+(233.9–283.4)
+100.0
+290
+171.9
+(151.5–194.3)
+100.0
+Local
+89
+188.2
+(149.8–233.5)
+56.7
+247
+145.3
+(127.6–164.8)
+56.8
+164
+99.3
+(83.8–116.8)
+56.6
+Regional/distant
+40
+74.6
+(52.9–102.9)
+25.5
+154
+91.2
+(77.3–107.0)
+35.4
+117
+56.5
+(54.3–80.7)
+40.3
+Unknown
+28
+56.2
+(37.0–82.2)
+17.8
+34
+21.3
+(14.7–29.8)
+7.8
+
+
+
+
+Cervix uteri (aged 20 years and older)
+All stages
+
+
+
+
+66
+21.7
+(16.7–27.6)
+100.0
+27
+7.7
+(5.0–11.5)
+100.0
+Local
+
+
+
+
+33
+10.7
+(7.3–15.0)
+50.0
+
+
+
+
+Regional/distant
+
+
+
+
+29
+9.7
+(6.5–13.9)
+43.9
+17
+4.8
+(2.7–8.0)
+63.0
+Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+Prostate (aged 50 years and older)
+All stages
+72
+331.5
+(249.8–431.0)
+100.0
+434
+563.0
+(508.5–621.7)
+100.0
+221
+303.7
+(261.6–350.7)
+100.0
+Local
+53
+235.6
+(169.9–318.7)
+73.6
+318
+399.7
+(354.9–448.6)
+73.3
+156
+210.9
+(176.6–249.9)
+70.6
+Regional/distant
+
+
+
+
+57
+73.3
+(54.7–96.3)
+13.1
+46
+57.3
+(40.4–79.0)
+20.8
+Unknown
+
+
+
+
+59
+90.0
+(67.2–117.7)
+13.6
+19
+35.5
+(20.5–56.5)
+8.6
+Cancer site
+a/stage
+b
+East AI/AN
+Southwest AI/AN
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Colon and rectum (aged 50 years and older)
+All stages
+45
+116.6
+(84.1–157.4)
+100.0
+153
+62.4
+(52.6–73.5)
+100.0
+Local
+
+
+
+
+42
+17.3
+(12.3–23.6)
+27.5
+Regional/distant
+26
+68.4
+(44.1–101.0)
+57.8
+96
+38.3
+(30.8–47.1)
+62.7
+Unknown
+
+
+
+
+
+
+
+
+Breast (female aged 40 years and older)
+All stages
+61
+154.8
+(117.1–200.6)
+100.0
+238
+97.7
+(85.4–111.4)
+100.0
+Local
+35
+92.0
+(63.2–129.2)
+57.4
+124
+50.9
+(42.1–60.9)
+52.1
+Regional/distant
+23
+56.9
+(35.3–86.7)
+37.7
+96
+39.8
+(32.0–48.9)
+40.3
+Unknown
+
+
+
+
+18
+7.1
+(4.1–11.4)
+7.6
+(continued)
+2140
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+evaluation for unrelated conditions.78 Trends from
+SEER from 1997 through 2004 show that increases
+over the past decade are confined to disease in a
+localized stage.20
+Long-term increases in incidence rates of NHL
+continue in women but currently are stable in men,
+and death rates have declined in recent years for
+both men and women. Incidence trends for NHL
+vary by histologic subtype, sex, race/ethnicity, and
+age; long-term trends have been influenced, but are
+not fully explained, by trends in human immunodefi-
+ciency virus-related subtypes.79,80 Moreover, changes
+in coding and classification complicate the analysis
+of incidence trends by histologic subtype.81,82 Recent
+mortality trends may be influenced by improving
+survival;
+5-year
+relative
+survival
+increased
+from
+53.6% for cases diagnosed from 1993 through 1995 to
+63.8% for cases diagnosed in 1996 through 2003.55
+The rapid increase in thyroid cancer incidence rates
+described in the 2006 annual report continued between
+2003 and 2004 across all populations.9 It is postulated
+that increases in the detection of small tumors related to
+increased use of ultrasound and fine-needle aspiration
+account for a large part of this increase.83
+The increase in melanoma incidence trends has
+slowed over the years, especially among men, in
+whom the rates stabilized from 2000 through 2004.
+The
+increase
+in
+the
+fixed-interval
+trends
+(1995
+through 2004) of approximately 3% per year among
+both men and women was also smaller than the 5%
+increase per year during the mid-1970s to the mid-
+1980s. Although long-term increases in melanoma
+incidence rates are influenced by early detection and
+improved reporting of cases diagnosed outside hospi-
+tals, increasing trends are not confined to early-stage
+tumors and also may be influenced by changes in
+sun exposure.84
+Increases in liver cancer incidence and mortality in
+the U.S. population also have been noted previously.
+The risk of liver cancer is elevated in persons with cir-
+rhosis and chronic liver disease, and in the U.S., the
+main preventable causes of these conditions are chronic
+infection with hepatitis B and C viruses, chronic alcohol
+abuse, and nonalcoholic fatty liver disease.85,86 In many
+developing countries in which hepatitis B is endemic,
+chronic hepatitis B virus infection is the major causal
+agent,87 and it is likely that elevated liver cancer rates for
+API and Hispanic men and women are related to high
+rates of chronic viral hepatitis infection acquired in the
+countries of origin of recent immigrants.88 Obesity and
+Type 2 diabetes mellitus (Type 2 diabetes) also are emer-
+ging as risk factors.86
+Cancer in American Indians and Alaska Natives
+The current report enhances AI/AN cancer surveil-
+lance by presenting U.S. regional cancer incidence
+rates and by addressing the significant race misclas-
+sification of this population in cancer statistics. Link-
+TABLE 9
+(continued)
+Cancer site
+a/stage
+b
+East AI/AN
+Southwest AI/AN
+Count
+Ratec
+(95% CI)
+R%
+Count
+Ratec
+(95% CI)
+R%
+Cervix uteri (aged 20 years and older)
+All stages
+
+
+
+
+50
+11.2
+(8.2–15.0)
+100.0
+Local
+
+
+
+
+22
+4.6
+(2.8–7.0)
+44.0
+Regional/distant
+
+
+
+
+22
+4.9
+(3.1–7.5)
+44.0
+Unknown
+
+
+
+
+
+
+
+
+Prostate (aged 50 years and older)
+All stages
+50
+270.2
+(196.0–363.6)
+100.0
+233
+238.1
+(207.2–272.3)
+100.0
+Local
+34
+172.5
+(116.4–247.3)
+68.0
+144
+141.8
+(118.7–168.1)
+61.8
+Regional/distant
+
+
+
+
+54
+52.9
+(39.1–69.9)
+23.2
+Unknown
+
+
+
+
+35
+43.4
+(29.8–60.8)
+15.0
+Source: Surveillance, Epidemiology, and Ends Results (SEER) and National Program of Cancer Registries areas are reported by the North American Association of Central Cancer Registries as meeting high-quality
+data standards for the specified years.
+CHSDA indicates Indian Health Service (IHS) Contract Health Service Delivery Area; AI/AN, American Indian/Alaska Native; NHW, non-Hispanic white; 95% CI, 95% confidence interval; R%, percent distribution
+of the stage-specific incidence rate.
+a Cancers were chosen based on existing evidence base for early detection.
+b 2000 SEER Summary Stage was used for stage of disease at diagnosis.
+c Rates are per 100,000 persons and are age-adjusted to the 2000 U.S. standard population (19 age groups, Census p25–1130).
+ Statistic could not be calculated when <16 cases were reported.
+Years of data and registries used (30 states), 2001—2003: Alabama, Alaska, Arizona, California, Colorado, Connecticut, Florida, Idaho, Indiana, Iowa, Louisiana, Maine, Massachusetts, Michigan, Montana,
+Nebraska, Nevada, New Mexico, New York, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Washington, Wisconsin, and Wyoming.
+Report to the Nation, 19752004/Espey et al.
+2141
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ing IHS and cancer registry data and restricting anal-
+yses to CHSDA counties reduces AI/AN misclassifica-
+tion
+and
+improves
+on
+the
+accuracy
+of
+cancer
+incidence data previously reported for AI/AN. The
+report also includes data from 30 state cancer regis-
+tries and is more representative nationally of the AI/
+AN population than previous reports.
+Findings from this study, as well as prior reports
+from specific regions or registries26,89–92 or from mor-
+tality data,32,34 indicate that wide regional variation
+is characteristic of AI/AN cancer surveillance and
+that region-specific data are essential to characterize
+the AI/AN cancer burden. In general, cancer rates
+among AI/AN persons were highest in Alaska and the
+Northern and Southern Plains and lowest in the
+Southwest. The wide regional variations in cancer
+rates may reflect in part geographic variations in
+screening and in risk factors, such as tobacco use
+(lung, kidney, and colorectal cancer), obesity (color-
+ectal and breast cancer), low level of physical activity
+(breast and colorectal cancer), heavy alcohol con-
+sumption (breast and liver cancer), and dietary fac-
+tors, including consumption of large amounts of red
+meat and inadequate intake of fruits and vegetables
+(colorectal cancer). Research designed to elucidate
+regional variations in risk factors may help identify
+appropriate prevention and control strategies.
+The regional patterns of lung cancer rates mirror
+the regional smoking prevalence from BRFSS, as
+noted in this report and elsewhere.35 Although smok-
+ing prevalence in AI/AN respondents in the South-
+west is similar to that of NHW respondents, AI/AN
+smokers in the Southwest tend to smoke fewer cigar-
+ettes per day compared with non-AI/AN smokers
+and AI/AN smokers in other regions.93,94 Predictably,
+lung cancer incidence rates for the AI/AN population
+in the Southwest were lower than the rates among
+for the NHW population during the period of this
+report, a pattern that was documented previously95,96
+and that reflects the lower rate of cigarette consump-
+tion.93,97,98 Nonetheless, radon exposure during ura-
+nium mining caused a disproportionate number of
+lung cancer cases among AI/AN men in this region
+in the 1970s and 1980s99,100; the proportion of lung
+cancer cases attributable to uranium-related expo-
+sure in the past decade currently is unknown but
+remains a concern in this region.
+Smoking
+also
+has
+been
+associated
+with
+an
+increased risk of developing101 or dying102 from col-
+orectal cancer and of being diagnosed at an earlier
+age.103 Furthermore, there is mounting evidence of
+an association between Type 2 diabetes and colorec-
+tal cancer,104,105 including a positive interaction of
+smoking on this risk.106 The prevalence of Type 2 di-
+abetes is generally higher in AI/AN persons, is grow-
+ing rapidly,107 and exhibits regional differences35,108;
+it is high in the Northern Plains and the Southwest
+and low in Alaska, where, although it is lower, the
+prevalence is increasing at a rapid rate.109 Finally,
+colorectal cancer screening prevalence is low in the
+NHW population and is lower still in the AI/AN
+population except for endoscopic screening preva-
+lence in the East and Alaska, where rates for the AI/
+AN populations are similar to those for the NHW
+populations.
+The
+parity
+in
+endoscopic
+screening
+between AI/AN and NHW persons in Alaska may
+reflect efforts in that state to increase screening for
+the AI/AN population110,111 and also may reflect con-
+cerns that use of FOBT may yield false-positive
+results in a population with high prevalence of Heli-
+cobacter pylori (H. pylori) infection.112 This finding
+also is consistent with the observation of a higher
+probability of early-stage diagnosis for colorectal
+cancer in that region from this report.
+Breast cancer incidence rates in AI/AN women
+were lower than for NHW women overall. Although
+the rate for AI/AN women was similar to the rate for
+NHW women in Alaska, it was nearly 3 times the rate
+of AI/AN women in the Southwest. Similar variations
+have been reported previously and may be because
+of differences in reproductive or behavioral risk fac-
+tors or variations in mammography rates.91 Data
+regarding variations in reproductive characteristics
+among AI/AN women by region are limited, however.
+One study reported no differences in age at first birth
+among women receiving mammograms in IHS or
+tribal clinics in Alaska, where incidence rates are
+relatively high, compared with similar women in Ari-
+zona, where incidence rates are is low.113 Although it
+has been postulated that the recent decline in breast
+cancer
+incidence
+in
+the
+general
+population
+is
+because of the decline in use of HRT, no data are
+available on HRT use in AI/AN women. Higher rates
+of mammography in Alaska may be associated with
+higher breast cancer incidence rates.
+AI/AN persons have higher rates of cancers of
+the kidney and gallbladder than other populations.
+In this report, rates for kidney cancer were generally
+higher in AI/AN than NHW populations, especially in
+the Northern and Southern Plains and the Southwest.
+The recognized risk factors for kidney cancer—smok-
+ing and obesity—account for 20% to 30% of renal cell
+cancers in the U.S.114 Other potential risk factors
+include hypertension and end-stage renal disease,115
+the prevalence of which is 3 times greater in AI/AN
+than NHW populations.116
+Gallbladder cancer is elevated in AI/AN men and
+women for all regions combined; however, the cur-
+2142
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+rent report permits presentation of regional rates
+only for the Southern Plains for women and the
+Southwest for women and men. Elevated rates in the
+AI/AN population may be related to a high preva-
+lence of cholelithiasis,117,118 a strong risk factor for
+gallbladder cancer, and obesity.119 Recent declines in
+gallbladder cancer incidence rates in AI/AN popula-
+tions in the Southwest most likely are because of
+increasing use of laparoscopic cholecystectomy in
+this region.120
+Previous reports have documented high inci-
+dence rates of stomach cancer among AI/AN popula-
+tions in many areas96,121,122; and, in the current
+report, incidence rates for stomach cancer among
+AI/AN persons were consistently higher than those
+for NHW persons in Alaska, the Northern and South-
+ern
+Plains,
+and
+the
+Southwest.
+In
+recent
+years,
+chronic infection with H. pylori has emerged as a key
+factor in the development of gastric cancer 123 and
+several studies have documented high prevalence of
+H.
+pylori
+infection
+in
+Native
+communities.112,124
+Tobacco smoking, alcohol abuse, and obesity—with a
+higher prevalence among AI/AN than NHW popula-
+tions—also are associated with an elevated risk of
+stomach cancer, especially gastric cardia adenocarci-
+noma.125–127 Additional research is needed to charac-
+terize the combination of risk factors that place AI/
+AN persons at higher risk of this disease.
+Although liver cancer incidence is increasing in
+most race/ethnic populations in the U.S., it was ele-
+vated consistently in AI/AN men and women com-
+pared with NHW men and women for the period
+1999 through 2004. Alcohol-related morbidity varies
+across AI/AN communities but remains a significant
+health concern for many tribal groups.35,128,129 Before
+the introduction of hepatitis B vaccination, chronic
+hepatitis B virus infection was endemic among AI/
+AN persons in Alaska.130 Alcohol abuse and viral
+hepatitis have a synergistic, positive association with
+liver cancer and are likely contributors. Furthermore,
+in 2002, the proportion of deaths attributable to
+chronic liver disease, a significant risk factor for liver
+cancer, was 4 times greater in AI/AN populations
+compared with U.S. white populations.131
+Healthcare for American Indians and Alaska Natives
+This study reports less favorable socioeconomic sta-
+tus and healthcare access for AI/AN groups com-
+pared with NHW groups. Having a usual source of
+care is a key predictor of cancer screening and other
+preventive services46; and consistent with this, the
+cancer screening prevalence for AI/AN populations is
+lower compared with the prevalence for NHW popu-
+lations.
+Previous studies have documented that AI/AN
+populations have been diagnosed disproportionately
+with late-stage disease and have relatively poor 5-year
+survival compared with other populations.7,132–137
+The findings in this report are consistent with previ-
+ous studies, indicating that AI/AN populations may
+not have benefited from available screening technol-
+ogies and generally have more late-stage diagnoses
+than NHW populations. These observations in AI/AN
+populations have led to the development of cultu-
+rally
+appropriate
+screening
+programs
+in
+many
+regions.138–141 Although data are limited on factors
+that may be associated with later stage at diagnosis
+among AI/AN populations, studies in other racial
+groups suggest that stage differences among popula-
+tions may be influenced by awareness of cancer
+symptoms, access to a regular healthcare provider,
+and adequacy of follow-up for abnormal screening
+results,
+including
+timeliness
+between
+the
+first
+abnormal test result and receiving a definitive dia-
+gnosis.142,143 Despite persistent disparities, remark-
+able progress has been made in cervical cancer
+control.144
+The IHS provides primary healthcare to approxi-
+mately 1.8 million enrolled members of federally
+recognized tribes of the estimated 3.3 million AI/AN
+in the U.S.145 The 150 IHS hospitals and clinics are
+located primarily on reservation lands and in a few
+cities with relatively large AI/AN populations. Half of
+these healthcare facilities are managed by tribal gov-
+ernments under negotiated agreements with the fed-
+eral government, and half are operated directly by
+the federal government. An additional
+34 urban
+health centers receive some federal funding to pro-
+vide healthcare to urban AI/AN. Eligible AI/AN peo-
+ple can receive free healthcare at any IHS facility, but
+a complex set of rules governs and restricts delivery
+of contract health services for specialty medical care,
+such as cancer treatment, which generally is not
+available in IHS facilities. AI/AN people who do not
+live within the CHSDA counties, who do not have
+access to an IHS facility, or who receive non-IHS
+health benefits may not receive any health benefits
+from IHS. Funding
+for IHS is by Congressional
+appropriation and currently is at the level of $2532,
+compared with $5645 per capita personal medical
+services for U.S. citizens.146 Lower funding for IHS,
+combined with remote rural residence, may contri-
+bute to the lack of primary care even in the CHSDA
+counties.
+Geographic,
+financial,
+and
+bureaucratic
+barriers to receiving appropriate cancer treatment as
+well as cultural beliefs also may contribute to poor
+survival rates among AI/AN persons.
+Report to the Nation, 19752004/Espey et al.
+2143
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Outreach and Community Programs for American
+Indians and Alaska Natives
+Cancer control only recently has become an impor-
+tant concern for many AI/AN communities as cancer
+surveillance has revealed substantial increases in
+cancers that once were quite rare in this popula-
+tion.147–150 Committed professionals, community lea-
+ders,
+survivors,
+and
+partnering
+agencies
+have
+initiated programs to promote comprehensive cancer
+control
+in
+AI/AN
+communities.
+Although
+much
+remains to be done, the CDC, NCI, ACS, and other
+agencies have collaborated with the IHS and tribal
+and state partners around the country to improve
+cancer control for AI/AN populations by funding
+screening and treatment services, supporting coali-
+tions, building cancer control infrastructure, educat-
+ing professionals and the public, and supporting
+surveillance and research.
+Although
+the
+IHS-initiated
+cervical
+cancer
+screening in the 1960s and 1970s resulted in declin-
+ing cervical cancer incidence and mortality rates in
+the 1980s and 1990s,90,144 little screening mammog-
+raphy was being provided to women served by the
+IHS before the establishment of the CDC’s National
+Breast and Cervical Cancer Early Detection Program.
+Fourteen tribal programs, in addition to all 50 states,
+currently receive support from this program to build
+infrastructure and provide screening services (Arctic
+Slope Native Association Limited, Barrow, Ark; Cher-
+okee Nation, Tahlequah, Okla; Cheyenne River Sioux
+Tribe, Eagle Butte, SD; Hopi Tribe, Kykotsmovi, Ariz;
+Kaw Nation of Oklahoma, Newkirk, Okla; Mississippi
+Band of Choctaw Indians, Choctaw, Miss; Native
+American Rehabilitation Association of the North-
+west, Portland, Ore; Navajo Nation, Window Rock,
+Ariz; Poarch Band of Creek Indians, Atmore, Ala;
+South East Alaska Regional Health Consortium, Sitka,
+Alaska;
+South
+Puget
+Intertribal
+Planning
+Agency,
+Shelton, Wash; Southcentral Foundation, Anchorage,
+Alaska; and Yukon-Kuskokwim Health Corporation,
+Bethel, Ark). Annual training for primary care provi-
+ders to perform colposcopy, part of standard diag-
+nostic follow-up for abnormal Pap smear results, is
+provided by IHS and CDC to increase the number
+and distribution of providers trained in colposcopy
+and to reduce the time from abnormal screening
+results to definitive diagnosis.151,152 Continued dili-
+gence in education, training, and prevention services
+to further reduce the death rate from cervical cancer
+is essential.
+The NCI Network for Cancer Control Research
+Among AI/AN Populations (the Network) is a forum
+for Native and non-Native researchers with a mission
+to reduce preventable cancer morbidity and mortal-
+ity to the lowest levels possible and to improve sur-
+vival from cancer to the highest level possible in AI/
+AN populations.153 Realizing the importance of AI/
+AN community participation in research, the Net-
+work
+also
+provides
+curriculum
+development
+and
+instructors for an annual cancer control training
+course for Native researchers.154 NCI is an important
+partner in promoting and funding community net-
+works programs, such as the ‘‘Spirit of Eagles’’ based
+at the Mayo Clinic in Rochester, Minnesota. This
+program works with major cancer centers, nonprofit
+organizations, policy boards, professional societies,
+and
+educators
+through
+community-based
+cancer
+control grants.155 NCI has funded 3 other regional or
+local community networks in the Pacific Northwest,
+the Southwest, and Oklahoma. The NCI Cancer In-
+formation Service collaborates with community net-
+works to reach medically underserved audiences and
+partners with researchers to develop messages, chan-
+nels, and strategies for communicating risk and early
+detection approaches for AI/AN populations. In addi-
+tion, NCI has initiated the Patient Navigator Research
+Program to reduce the time from an abnormal
+screening, to a definitive diagnosis, and, finally, to
+treatment.
+IHS, CDC, NCI, ACS, NAACCR, and others work
+to improve cancer data among AI/AN populations.
+NCI gives technical assistance and training to tribes
+and regional Indian Health Boards to establish and
+maintain tribally operated cancer registration sys-
+tems. Current projects are the Cherokee Nation Can-
+cer Registry (Oklahoma), the Northwest Portland
+Area Registry Project (Idaho, Oregon, and Washing-
+ton),92,156 and the South Dakota Patterns of Care Pro-
+ject. In addition, the Alaska Native Tumor Registry is
+a part of the SEER Program. In most cases, the indi-
+vidual tribal projects collaborate with state-operated
+cancer
+registries
+through
+special
+agreements
+to
+exchange information, maintain confidentiality, and
+contribute to more complete and accurate informa-
+tion
+concerning
+cancer
+in
+AI/AN
+communities.
+Finally, the CDC provides epidemiologic support and
+funding to the IHS to conduct the linkages for popu-
+lation-based cancer registries and promotes other
+cancer control activities that target AI/AN popula-
+tions.
+In the mid-1990s, CDC, ACS, and others pro-
+moted the concept of comprehensive cancer control
+to improve coordination of cancer control activities
+in state and local health departments and tribal orga-
+nizations.157 The CDC Comprehensive Cancer Con-
+trol Program began in 1998 and, since then, it has
+funded 6 tribal organizations (Alaska Native Tribal
+Health Consortium, South Puget Intertribal Planning
+2144
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Agency,
+Northwest
+Portland
+Area
+Indian
+Health
+Board, Aberdeen Tribal Chairmen’s Health Board,
+Fond Du Lac Reservation, and Cherokee Nation) and
+all 50 states, the District of Columbia, and several
+U.S. territories. The National Partnership for Com-
+prehensive Cancer Control, a group of national orga-
+nizations that includes NAACCR, the Intercultural
+Cancer Council, and C-Change, now promotes com-
+prehensive cancer control at federal, state, local,
+tribal, and territorial levels; they also support Com-
+prehensive Cancer Control Leadership Institutes to
+improve implementation of cancer plans in tribal
+communities. Nonprofit organizations such as ACS
+and the Lance Armstrong Foundation are providing
+new resources to AI/AN cancer control efforts. The
+ACS program Circle of Life is designed to decrease
+the breast cancer incidence and death rates among
+American
+Indian
+women.
+The
+Lance
+Armstrong
+Foundation has developed a strategic plan for AI/AN
+survivors to help overcome the fatalism that often
+accompanies a diagnosis of cancer in the community
+setting. All these efforts and more are essential to
+reducing the burden of cancer in AI/AN populations.
+Issues in Data Interpretation
+The cancer surveillance infrastructure in the U.S.
+now provides cancer incidence data for most of the
+population by site, sex, race, and Hispanic origin.
+However, several limitations in the data collection
+and analyses may influence the interpretation of
+results in this report.
+First, the 2 methods that were used for trend
+analysis—joinpoint and fixed-interval trends—some-
+times appear to yield different results. The joinpoint
+method is used for long-term trends but also has the
+flexibility
+to
+identify
+changes
+in
+magnitude
+and
+direction of the trend within shorter intervals. The
+fixed-interval method facilitates comparison between
+groups but lacks the flexibility to identify changes in
+the trend over the fixed interval. Although they were
+not presented, when joinpoint analyses were applied
+to the fixed-interval time period, the results were
+more comparable to the long-term trends despite the
+differences in the U.S. population coverage of 59%
+for the fixed-interval analyses and 10% for the long-
+term joinpoint analyses and despite the lack of delay
+adjustment in the fixed-interval approach.
+Second, as discussed earlier, it was discovered
+that
+many
+AI/AN
+persons
+were
+misclassified
+as
+another race in cancer registry data, and the extent
+of misclassification varied by registry, ranging from
+36% in Minnesota to 57% in California in published
+studies.21–24,158,159 Although linkage with the IHS
+patient registration database improves the race clas-
+sification for AI/AN cases, the issue is not resolved
+completely, because AI/AN persons who are not
+members of the federally recognized tribes and are
+not eligible for IHS services are under-represented in
+the IHS database. Because the denominators used in
+the rate calculations were derived from the U.S. Cen-
+sus estimates, which are based on self-identification
+of race (because it is preferred as the most accurate
+classification), the actual rates for AI/AN persons
+may be higher than those reported in our study.
+Third, the analyses presented here for AI/AN
+populations are based on residents of CHSDA coun-
+ties and exclude many AI/AN residents in urban
+areas that are not included in the CHSDA counties;
+therefore, the findings may not represent all AI/AN
+populations in the U.S. or in individual IHS regions
+(see
+Supplementary
+Table
+1B;
+available
+at
+URL:
+www.seer.cancer.gov/report_to_nation/). In particu-
+lar, the East region includes only 12.2% of the total
+AI/AN population in that region.
+Fourth, the current analysis revealed less varia-
+tion for NHW populations than for AI/AN popula-
+tions
+by
+IHS
+regions
+using
+data
+from
+CHSDA
+counties only. This approach may obscure variation
+in cancer rates for NHW populations by alternate
+state or county groupings.
+Finally,
+the
+median
+BRFSS
+response
+rate
+is
+approximately 50%, the response rates vary widely by
+state, and the surveys rely exclusively on telephone
+interviews.35 Telephone coverage also varies within
+the AI/AN population and is lower in this population
+compared with other racial/ethnic groups.35 Gener-
+ally, the questions regarding cancer screening tests
+do
+not
+distinguish
+between
+tests
+conducted
+for
+screening and tests conducted for diagnostic pur-
+poses. Mixed-mode sampling approaches (ie, com-
+bining random digit dialing, computerized address
+databases, web surveys, etc) are being investigated to
+address concerns about nonresponse and the declin-
+ing coverage of the population with traditional land-
+line household phones.160
+Future Directions
+Each year, the annual report to the nation on cancer
+brings
+together
+key
+agencies
+and
+organizations
+engaged in cancer surveillance in the U.S. to describe
+the latest cancer incidence and mortality data for the
+general population and to focus on a topic that war-
+rants special attention. This year’s report represents
+the 10th anniversary of this collaboration and pro-
+vides improved data for AI/AN, highlighting the re-
+gional burden of cancer and the distinctive patterns
+of specific cancers in this population.
+Report to the Nation, 19752004/Espey et al.
+2145
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer registrars rely on information available in
+medical and administrative records for race/ethnicity
+information; this information often is not available
+or is not collected and recorded in a systematic man-
+ner. Several recent reports have recommended that
+hospitals implement a uniform framework for the
+collection of data concerning race, ethnicity, and lan-
+guage, including a rationale for reporting these data,
+providing scripts and developing other tools to facili-
+tate data collection.161 Another approach to improve
+race classification further for AI/AN is the develop-
+ment and expansion of tribal rosters, such as the
+Northwest tribal roster,25 to complement the IHS
+patient registration database and thereby increase
+the usefulness of data linkages.
+The high rate of misclassification of AI/AN race
+on death certificates has been documented in several
+studies.27,162 Although the cancer mortality data pre-
+sented in this report were not linked to the IHS
+patient registration database to address racial mis-
+classification and likely are underestimates, the de-
+velopment of linkage protocols for death certificates
+is in progress for addressing this challenge in future
+reports.
+Improved surveillance data advance cancer con-
+trol and guide future research to address gaps in
+knowledge. The AI/AN population has high incidence
+rates of several cancers for which some risk factors
+are modifiable, such as cigarette smoking, alcohol
+consumption, obesity, infectious agents (H. pylori
+and several viruses—hepatitis B, hepatitis C, and
+human papillomavirus), and possibly diabetes. To
+reduce cancer burden in AI/AN populations, specific
+cancer prevention and control interventions should
+be targeted accordingly and tailored to their special
+needs. In addition, the generally lower cancer screen-
+ing rates for AI/AN provide a compelling case for
+enhanced
+cancer
+screening
+programs
+for
+AI/AN
+populations in all regions. Regional geographic varia-
+tions for the AI/AN populations are important when
+developing cancer control policies for these popula-
+tions. AI/AN often live in remote communities with
+limited access to prevention services and unfavorable
+socioeconomic conditions, factors that further com-
+plicate successful cancer control programs. Deliver-
+ing cancer screening and other preventive services in
+these communities hinges on innovative and cultu-
+rally appropriate interventions. National and local
+cancer control partners should work with tribes to
+develop such demonstration projects and to explore
+other research needs (eg, identifying causes of the
+disproportionately high rates of colorectal cancer in
+Alaska and the Northern Plains, examining the deter-
+minants of low breast cancer rates in AI/AN women
+in the Southwest, or evaluating the association of di-
+abetes to patterns of colorectal and other cancers in
+AI/AN populations).
+Cigarette smoking remains the single most im-
+portant behavioral risk factor for cancer. This is espe-
+cially true for the AI/AN population, in which the
+use of both cigarettes and smokeless tobacco are
+substantially higher than in any other racial or ethnic
+population in the U.S.163 Although American Indians
+have cultivated and used tobacco since pre-Colum-
+bian times, the recreational or habitual use of com-
+mercial
+tobacco
+products
+is
+a
+relatively
+recent
+phenomenon.
+Many
+AI/AN
+individuals
+still
+use
+tobacco as part of traditional ceremonial or healing
+practices, so tobacco cessation programs must adopt
+culturally appropriate approaches. There are some
+tobacco control activities under way, such as the
+tribal tobacco centers funded by the CDC Office on
+Smoking and Health and tobacco cessation clinics in
+a few IHS and tribal clinics. These activities have
+been rather limited, however; and, until this problem
+is
+addressed
+with
+substantial
+resources,
+further
+increases in the incidence of lung cancer and other
+tobacco-related cancers can be expected in the AI/
+AN population.
+AI/AN populations must have improvements in
+access to high-quality cancer treatment. Achieving
+this will require changes in the healthcare delivery
+system for AI/AN. Few IHS and tribal facilities have
+specialized cancer care capabilities. Many AI/AN
+patients must travel long distances at substantial
+expense for clinic appointments or for scheduled
+treatment. AI/AN patients who are unfamiliar with
+the healthcare system are bewildered by the com-
+plexity
+and
+confusion
+of
+specialty
+cancer
+care.
+Expansion of initiatives such as the patient navigator
+programs could greatly improve access of AI/AN
+patients to needed preventive and treatment services.
+This report emphasizes the importance of ana-
+lyzing regional cancer incidence data for the AI/AN
+population to interpret a national picture which, by
+conveying
+overall
+lower
+AI/AN
+cancer
+incidence
+rates, creates the impression that cancer is not a pri-
+ority for the AI/AN population. In keeping with what
+was noted in last year’s report regarding the Hispanic
+population, subgroup analysis is essential to under-
+stand those differences—by region in the case of the
+AI/AN population—and to develop appropriate inter-
+ventions. Information on geographic variation in
+cancer rates for NHW, non-Hispanic black, and His-
+panic populations is available widely through the
+dissemination of state incidence and death rates in
+such publications as the United States Cancer Statis-
+tics, Cancer in North American from the NAACCR,
+2146
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer Facts and Figures from the ACS, and the Can-
+cer Planet website. Consideration should be given to
+providing regional data for the AI/AN population
+when state-based data are provided for other popula-
+tions. Key to long-range improvement in cancer inci-
+dence,
+morbidity,
+and
+mortality
+is
+building
+the
+infrastructure to support comprehensive cancer con-
+trol at the community level. The data in this report
+will strengthen those efforts.
+In conclusion, considerable progress has occurred
+in cancer surveillance in AI/AN populations to pro-
+vide a more comprehensive and accurate picture of
+the cancer burden in this population than was avail-
+able previously. This report describes disparities in
+cancer incidence and gaps in cancer risk factors and
+screening that provide a clear, albeit challenging,
+course of action for national and local cancer control
+partners. Sufficient diagnostic and treatment capacity
+must be made available as screening services expand
+to accommodate those persons with positive screen-
+ing examinations or those who are diagnosed with
+cancer. The substantial strides made in cervical can-
+cer control for AI/AN women over the last 20 years
+by expanding screening and diagnostic follow-up ser-
+vices should serve as a model for addressing other
+cancers and risk factors. Future progress in decreas-
+ing the cancer burden in AI/AN populations is neces-
+sary
+and
+achievable
+with
+implementation
+of
+comprehensive cancer control programs that provide
+direction and motivate and actively engage partners
+across the spectrum of cancer control advocates,
+healthcare providers,
+policymakers,
+tribal
+leaders,
+and funding agencies.
+In summary, the collaboration among the major
+public health cancer surveillance organizations in
+the U.S. (including, for the first time this year, the
+IHS) to produce the annual report to the nation on
+the status of cancer enables a comprehensive review
+and analysis of the progress being made in diminish-
+ing the cancer burden, highlighting the challenges
+ahead, and focusing on timely issues such as health
+disparities, cancer care, and specific segments of the
+cancer continuum, from screening and risk behaviors
+in healthy persons to quality of life for patients who
+are dying from cancer. This year’s report provides the
+most comprehensive description of cancer incidence
+in
+the
+AI/AN
+population
+available
+to
+date
+and
+highlights several areas of progress in the general
+population, notably the continued decline in cancer
+mortality rates and the recent decline in female
+breast cancer incidence rates after 20 years of in-
+creases. The commitment and leadership from the
+national organizations to the state cancer registries,
+vital statistics systems, and local hospitals and other
+medical facilities that support the infrastructure are
+critical components that provide information for
+cancer control, public policy, and identifying impor-
+tant avenues for future research.
+REFERENCES
+1.
+Wingo PA, Ries LA, Rosenberg HM, Miller DS, Edwards
+BK. Cancer incidence and mortality, 1973–1995: a report
+card for the U.S. Cancer. 1998;82:1197–1207.
+2.
+Wingo PA, Ries LA, Giovino GA, et al. Annual report to the
+nation on the status of cancer, 1973–1996, with a special
+section on lung cancer and tobacco smoking. J Natl Can-
+cer Inst. 1999;91:675–690.
+3.
+Ries LA, Wingo PA, Miller DS, et al. The annual report to
+the nation on the status of cancer, 1973–1997, with a special
+section on colorectal cancer. Cancer. 2000;88:2398–2424.
+4.
+Howe HL, Wingo PA, Thun MJ, et al. Annual report to the
+nation on the status of cancer (1973 through 1998), fea-
+turing cancers with recent increasing trends. J Natl Cancer
+Inst. 2001;93:824–842.
+5.
+Edwards BK, Howe HL, Ries LA, et al. Annual report to
+the nation on the status of cancer, 1973–1999, featuring
+implications of age and aging on U.S. cancer burden.
+Cancer. 2002;94:2766–2792.
+6.
+Weir HK, Thun MJ, Hankey BF, et al. Annual report to the
+nation on the status of cancer, 1975–2000, featuring the
+uses of surveillance data for cancer prevention and con-
+trol. J Natl Cancer Inst. 2003;95:1276–1299.
+7.
+Jemal A, Clegg LX, Ward E, et al. Annual report to the
+nation on the status of cancer, 1975–2001, with a special
+feature regarding survival. Cancer. 2004;101:3–27.
+8.
+Edwards BK, Brown ML, Wingo PA, et al. Annual report to
+the nation on the status of cancer, 1975–2002, featuring
+population-based trends in cancer treatment. J Natl Can-
+cer Inst. 2005;97:1407–1427.
+9.
+Howe HL, Wu X, Ries LA, et al. Annual report to the
+nation on the status of cancer, 1975–2003, featuring can-
+cer
+among
+U.S.
+Hispanic/Latino
+populations.
+Cancer.
+2006;107:1711–1742.
+10.
+Fritz A, Percy C, Jack A. International Classification of Dis-
+eases for Oncology. Geneva, Switzerland: World Health
+Organization; 2000.
+11.
+Ries L, Harkins D, Krapcho M, et al. SEER Cancer Statis-
+tics Review, 1975–2003. Bethesda, Md: National Cancer
+Institute; 2006.
+12.
+National Center for Health Statistics. Vital Statistics of the
+United States, 1950–1999. Volume II. Mortality, Parts A
+and B. Washington, DC: National Center for Health Statis-
+tics, Public Health Service; 2001.
+13.
+World Health Organization. Manual of the International
+Statistical Classification of Diseases, Injuries, and Causes
+of Death. Based on the recommendations of the 9th Revi-
+sion Conference, 1975. Geneva, Switzerland: World Health
+Organization; 1977.
+14.
+Anderson RN, Minino AM, Hoyert DL, Rosenberg HM.
+Comparability of cause of death between ICD-9 and ICD-
+10: preliminary estimates. Natl Vital Stat Rep. 2001;49:1–32.
+15.
+Public Health Service. Manual of the International Statisti-
+cal Classification of Diseases, Injuries, and Causes of
+Death. Adapted for use in the United States. 8th revision.
+1693. Washington, DC: U.S. Department of Health, Educa-
+tion, and Welfare, National Center for Health Statistics,
+Public Health Service; 1967.
+Report to the Nation, 19752004/Espey et al.
+2147
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+16.
+World Health Organization. International Statistical Classifi-
+cation of Diseases and Related Health Problems. 10th revi-
+sion. Geneva, Switzerland: World Health Organization; 1992.
+17.
+National Cancer Institute-SEER. Policy for calculating
+Hispanic mortality. Bethesda, Md: National Cancer Insti-
+tute-SEER Program, 2007. Available at URL: http://seer.
+cancer.gov/seerstat/variables/mort/origin_recode_1990/vol
+Accessed March 15, 2007.
+18.
+National Cancer Institute-SEER Program. Statistical re-
+sources. U.S. population data 1969–2004. Available at
+URL: http://seer.cancer.gov/resources Accessed June 7, 2007.
+19.
+Centers for Disease Control and Prevention (CDC). National
+Center for Health Statistics. National Vital Statistics System.
+U.S. census populations with bridged race categories. Avail-
+able at URL: http://www.cdc.gov/nchs/about/major/dvs/
+popbridge/popbridge.htm Accessed March 15, 2007.
+20.
+Surveillance Research Program. SEER*Stat software. Be-
+thesda, MD: National Cancer Institute, DCCPS, Surveil-
+lance Research Program, Cancer Statistics Branch; 2007.
+Available
+at
+URL:
+http://www.seer.cancer.gov/seerstat
+Accessed July 14, 2007.
+21.
+Frost F, Taylor V, Fries E. Racial misclassification of Native
+Americans in a Surveillance, Epidemiology, and End Results
+cancer registry. J Natl Cancer Inst. 1992;84:957–962.
+22.
+Partin MR, Rith-Najarian SJ, Slater JS, Korn JE, Cobb N,
+Soler JT. Improving cancer incidence estimates for Ameri-
+can Indians in Minnesota. Am J Public Health. 1999;89:
+1673–1677.
+23.
+Kwong S, Perkings C, Snipes K, Wright W. Improving
+American Indian cancer data in the California Cancer
+Registry by linkage with the Indian Health Service. J Regis-
+try Manage. 1998;25:17–20.
+24.
+Sugarman JR, Holliday M, Ross A, Castorina J, Hui Y.
+Improving American Indian cancer data in the Washing-
+ton State Cancer Registry using linkages with the Indian
+Health Service and tribal records. Cancer. 1996;78(7 suppl):
+1564–1568.
+25.
+Becker TM, Bettles J, Lapidus J, et al. Improving cancer
+incidence estimates for American Indians and Alaska
+Natives in the Pacific Northwest. Am J Public Health. 2002;
+92:1469–1471.
+26.
+Harwell TS, Miller SH, Lemons DL, Helgerson SD, Gohdes
+D. Cancer incidence in Montana: rates for American
+Indians exceed those for whites. Am J Prev Med. 2006;30:
+493–497.
+27.
+Harwell TS, Hansen D, Moore KR, Jeanotte D, Gohdes D,
+Helgerson SD. Accuracy of race coding on American In-
+dian death certificates, Montana 1996–1998. Public Health
+Rep. 2002;117:44–49.
+28.
+Indian Health Service. Indian Health Manual, chapter 2.
+Available at URL: http://www.ihs.gov/PublicInfo/Publica-
+tions/IHSManual/2004 Accessed June 26, 2007.
+29.
+Gu D. LinkPlus: a suite of publicly available software pro-
+grams for collecting and processing cancer registry data.
+Atlanta:
+Centers
+for Disease Control
+and Prevention,
+National Center for Chronic Disease Prevention and Health
+Promotion, U.S. Department of Health and Human Services;
+2005. Available at URL: http://www.cdc.gov/cancer/npcr/
+tools/registryplus/lp.htm Accessed February 2, 2007.
+30.
+Office of Management and Budget. Revisions to the
+Standards for the Classification of Federal Data on Race
+and Ethnicity. Federal Register Notice, October 30, 1997.
+Available at URL: http://www.whitehouse.gov/omb/fedreg/
+1997standards.html Accessed March 24, 2007.
+31.
+Johnson CH, editor. SEER Program coding and staging
+manual 2004, revision 1. NIH Pub. No. 04–5581. Bethesda,
+Md: National Cancer Institute; 2004. Available at URL: http://
+seer.cancer.gov/seerstat/variables/seer/yr1973_2003/race_
+ethnicity/ Accessed June 25, 2007.
+32.
+Cobb N, Paisano RE. Patterns of cancer mortality among
+Native Americans. Cancer. 1998;83:2377–2383.
+33.
+Espey DK, Paisano RE, Cobb N. Cancer Mortality Among
+American Indians and Alaska Natives: Regional Differ-
+ences, 1994–1998. Rockville, Md: Indian Health Service; 2003.
+34.
+Espey D, Paisano R, Cobb N. Regional patterns and trends
+in cancer mortality among American Indians and Alaska
+Natives, 1990–2001. Cancer. 2005;103:1045–1053.
+35.
+Denny CH, Holtzman D, Cobb N. Surveillance for health
+behaviors of American Indians and Alaska Natives. Find-
+ings from the Behavioral Risk Factor Surveillance System,
+1997–2000. MMWR Surveill Summ. 2003;52:1–13.
+36.
+Indian Health Service. IHS area offices and facilities.
+Available at URL: http://www.ihs.gov/FacilitiesServices/Area
+Offices/AreaOffices_index.asp, 2003 Accessed May 20, 2006.
+37.
+U.S. Department of Health and Human Services. Tracking
+Healthy People 2010. Volume 2007, 2000. Available at URL:
+http://www.healthypeople.gov Accessed May 20, 2007.
+38.
+Howe HL, Jamison M, Havener L, Chen VW, Ries LAG.
+Site-specific comparison of Summary Stage 1977 and
+Summary Stage 2000 coding, vol 2006. Available at URL:
+http://www.naaccr.org/index.asp?Col_SectionKey11&Col_
+ContentID397 Accessed July 6, 2007.
+39.
+Klein R, Schoenborn C.Age adjustment using the 2000 pro-
+jected U.S. population. In: National Center for Health Sta-
+tistics,
+editor.
+Healthy
+People
+2010
+Statistical
+Notes.
+Hyattsville, Md: National Center for Health Statistics; 2001.
+40.
+Ogunwole SU. We the People: American Indians and
+Alaska Natives in the United States Census 2000 Special
+Reports (CENSR-28). Volume 2007. Washington, DC: U.S.
+Census Bureau; 2006.
+41.
+Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation
+tests for joinpoint regression with applications to cancer
+rates. Stat Med. 2000;19:335–351.
+42.
+Clegg LX, Feuer EJ, Midthune DN, Fay MP, Hankey BF.
+Impact of reporting delay and reporting error on cancer
+incidence rates and trends. J Natl Cancer Inst. 2002;94:
+1537–1545.
+43.
+Research Triangle Institute. SUDAAN User’s Manual. Profes-
+sional Software for Survey Data Analysis. 9th ed. Research Tri-
+angle Park, NC: Research Triangle Institute; 2003.
+44.
+Schenker N, Gentleman JF. On judging the significance of
+differences by examining the overlap between confidence
+intervals. Am Statistician. 2001;55:182–186.
+45.
+Seattle Indian Health Board-Urban Indian Health Insti-
+tute. The Health Status of Urban American Indians and
+Alaska Natives: An Analysis of Select Vital Records and
+Census Data Sources, 2004. Available at URL: http://
+www.uihi.net/Public%20Documents1/UIHI%20Publica-
+tions/2004HealthStatusReport.pdf Accessed May 18, 2007.
+46.
+Swan J, Breen N, Coates RJ, Rimer BK, Lee NC. Progress
+in cancer screening practices in the United States: results
+from the 2000 National Health Interview Survey. Cancer.
+2003;97:1528–1540.
+47.
+Vogelaar I, van Ballegooijen M, Schrag D, et al. How much
+can current interventions reduce colorectal cancer mor-
+tality in the U.S.? Mortality projections for scenarios of
+risk-factor modification, screening, and treatment. Cancer.
+2006;107:1624–1633.
+2148
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+48.
+Gross CP, Andersen MS, Krumholz HM, McAvay GJ, Proc-
+tor D, Tinetti ME. Relation between Medicare screening
+reimbursement and stage at diagnosis for older patients
+with colon cancer. JAMA. 2006;296:2815–2822.
+49.
+Robertson RH, Burkhardt JH, Powell MP, Eloubeidi MA,
+Pisu M, Weissman NW. Trends in colon cancer screening
+procedures in the U.S. Medicare and Tricare populations:
+1999–2001. Prev Med. 2006;42:460–462.
+50.
+Mandel JS, Bond JH, Church TR, et al. Reducing mortality
+from colorectal cancer by screening for fecal occult blood.
+Minnesota Colon Cancer Control Study. N Engl J Med.
+1993;328:1365–1371.
+51.
+Winawer S, Fletcher R, Rex D, et al. Colorectal cancer
+screening and surveillance: clinical guidelines and ration-
+ale–update based on new evidence. Gastroenterology. 2003;
+124:544–560.
+52.
+Phillips KA, Liang SY, Ladabaum U, et al. Trends in colo-
+noscopy for colorectal cancer screening. Med Care. 2007;
+45:160–167.
+53.
+Jemal A, Ward E, Thun MJ. Contemporary lung cancer
+trends among U.S. women. Cancer Epidemiol Biomarkers
+Prev. 2005;14:582–585.
+54.
+Jemal A, Travis WD, Tarone RE, Travis L, Devesa SS. Lung
+cancer rates convergence in young men and women in
+the United States: analysis by birth cohort and histologic
+type. Int J Cancer. 2003;105:101–107.
+55.
+Ries L, Melbert D, Krapcho M, et al. SEER cancer statistics
+review, 1975–2004 [Based on November 2006 SEER data
+submission; posted to the SEER web site, 2007]. Bethesda,
+Md: National Cancer Institute, 2006. Available at URL:
+http://seer.cancer.gov/csr/1975_2004/ Accessed April 13,
+2007.
+56.
+Baade PD, Coory MD, Aitken JF. International trends in
+prostate-cancer mortality: the decrease is continuing and
+spreading. Cancer Causes Control. 2004;15:237–241.
+57.
+Oliver SE, May MT, Gunnell D. International trends in
+prostate-cancer mortality in the ‘‘PSA ERA.’’ Int J Cancer.
+2001;92:893–898.
+58.
+Barry MJ. Clinical practice. Prostate-specific-antigen test-
+ing for early diagnosis of prostate cancer. N Engl J Med.
+2001;344:1373–1377.
+59.
+Harris R, Lohr KN. Screening for prostate cancer: an
+update of the evidence for the U.S. Preventive Services
+Task Force. Ann Intern Med. 2002;137:917–929.
+60.
+Shaw PA, Etzioni R, Zeliadt SB, et al. An ecologic study of
+prostate-specific antigen screening and prostate cancer
+mortality in nine geographic areas of the United States.
+Am J Epidemiol. 2004;160:1059–1069.
+61.
+Feuer EJ, Mariotto A, Merrill R. Modeling the impact of
+the decline in distant stage disease on prostate carcinoma
+mortality rates. Cancer. 2002;95:870–880.
+62.
+Messing EM, Manola J, Sarosdy M, Wilding G, Crawford
+ED, Trump D. Immediate hormonal therapy compared
+with observation after radical prostatectomy and pelvic
+lymphadenectomy in men with node-positive prostate
+cancer. N Engl J Med. 1999;341:1781–1788.
+63.
+Demers RY, Tiwari A, Wei J, Weiss LK, Severson RK, Mon-
+tie J. Trends in the utilization of androgen-deprivation
+therapy for patients with prostate carcinoma suggest an
+effect on mortality. Cancer. 2001;92:2309–2317.
+64.
+Seidenfeld J, Samson DJ, Aronson N, et al. Relative effective-
+ness and cost-effectiveness of methods of androgen suppres-
+sion in the treatment of advanced prostate cancer. Evid Rep
+Technol Assess (Summ). 1999;4:i–x,1–246,I1–36, passim.
+65.
+Bolla M, Gonzalez D, Warde P, et al. Improved survival in
+patients with locally advanced prostate cancer treated
+with radiotherapy and goserelin. N Engl J Med. 1997;337:
+295–300.
+66.
+Platz EA, Leitzmann MF, Visvanathan K, et al. Statin drugs
+and risk of advanced prostate cancer. J Natl Cancer Inst.
+2006;98:1819–1825.
+67.
+Centers for Disease Control and Prevention (CDC). Use of
+Mammograms Among Women Aged > 40 Years—United
+States, 2000–2005. MMWR Morb Moral Weekly Rep. 2007;
+56:49–51.
+68.
+Jemal A, Ward E, Thun MJ. Recent trends in breast cancer
+incidence rates by age and tumor characteristics among
+U.S. women. Breast Cancer Res. 2007;9:R28.
+69.
+Ravdin PM, Cronin KA, Howlader N, et al. The decrease
+in breast-cancer incidence in 2003 in the United States. N
+Engl J Med. 2007;356:1670–1674.
+70.
+Breen N, Cronin KA, Meissner HI, et al. Reported drop in
+mammography: is this cause for concern? Cancer. 2007;109:
+2405–2409.
+71.
+Stewart SL, Sabatino SL, Foster SL, Richardson LC. Decline
+in breast cancer incidence rates in the United States, 1999–
+2003. Morb Mortal Wkly Rep. 2007;56:549–553.
+72.
+Swan J, Breen N, Burhansstipanov L, et al. Cancer screen-
+ing and risk factor rates among American Indians. Am J
+Public Health. 2006;96:340–350.
+73.
+Mokbel K. Contemporary treatment of ductal carcinoma
+in situ of the breast. Med Sci Monitor. 2005;11:RA86–RA93.
+74.
+Beral V, Bull D, Green J, Reeves G. Ovarian cancer and
+hormone replacement therapy in the Million Women
+Study. Lancet. 2007;369:1703–1710.
+75.
+Bray F, Loos AH, Tognazzo S, La Vecchia C. Ovarian can-
+cer in Europe: cross-sectional trends in incidence and
+mortality in 28 countries, 1953–2000. Int J Cancer. 2005;113:
+977–990.
+76.
+Gnagy S, Ming EE, Devesa SS, Hartge P, Whittemore AS.
+Declining ovarian cancer rates in U.S. women in relation
+to parity and oral contraceptive use. Epidemiology. 2000;11:
+102–105.
+77.
+Hollingsworth JM, Miller DC, Daignault S, Hollenbeck BK.
+Rising incidence of small renal masses: a need to reassess
+treatment effect. J Natl Cancer Inst. 2006;98:1331–1334.
+78.
+Jayson M, Sanders H. Increased incidence of serendipi-
+tously discovered renal cell carcinoma. Urology. 1998;51:
+203–205.
+79.
+Clarke CA, Glaser SL. Changing incidence of non-Hodgkin
+lymphomas in the United States. Cancer. 2002;94:2015–2023.
+80.
+Clarke CA, Glaser SL. Epidemiologic trends in HIV-asso-
+ciated lymphomas. Curr Opin Oncol. 2001;13:354–359.
+81.
+Clarke CA, Undurraga DM, Harasty PJ, Glaser SL, Morton
+LM, Holly EA. Changes in cancer registry coding for lym-
+phoma subtypes: reliability over time and relevance for
+surveillance and study. Cancer Epidemiol Biomarkers Prev.
+2006;15:630–638.
+82.
+Morton LM, Wang SS, Devesa SS, Hartge P, Weisenburger
+DD, Linet MS. Lymphoma incidence patterns by WHO
+subtype in the United States, 1992–2001. Blood. 2006;107:
+265–276.
+83.
+Davies L, Welch HG. Increasing incidence of thyroid can-
+cer in the United States, 1973–2002. JAMA. 2006;295:2164–
+2167.
+84.
+Jemal A, Devesa SS, Hartge P, Tucker MA. Recent trends in
+cutaneous melanoma incidence among whites in the
+United States. J Natl Cancer Inst. 2001;93:678–683.
+Report to the Nation, 19752004/Espey et al.
+2149
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+85.
+McGlynn KA, Tarone RE, El-Serag HB. A comparison of
+trends in the incidence of hepatocellular carcinoma and
+intrahepatic cholangiocarcinoma in the United States.
+Cancer Epidemiol Biomarkers Prev. 2006;15:1198–1203.
+86.
+London WT, McGlynn KA. Liver cancer. In: Schottenfeld
+D, Fraumeni J, editors. Cancer Epidemiology and Preven-
+tion. New York: Oxford University Press; 2006:763–786.
+87.
+Perz JF, Armstrong GL, Farrington LA, Hutin YJ, Bell BP.
+The contributions of hepatitis B virus and hepatitis C vi-
+rus infections to cirrhosis and primary liver cancer world-
+wide. J Hepatol. 2006;45:529–538.
+88.
+Chen MS Jr. Cancer health disparities among Asian Amer-
+icans: what we do and what we need to do. Cancer.
+2005;104(12 suppl):2895–2902.
+89.
+Swan J, Edwards BK. Cancer rates among American
+Indians and Alaska Natives: is there a national perspec-
+tive? Cancer. 2003;98:1262–1272.
+90.
+Lanier AP, Kelly JJ, Maxwell J, McEvoy T, Homan C. Can-
+cer in Alaska Native people, 1969–2003. Alaska Med.
+2006;48:30–59.
+91.
+Kelly JJ, Lanier AP, Alberts S, Wiggins CL. Differences in
+cancer incidence among Indians in Alaska and New Mex-
+ico and U.S. whites, 1993–2002. Cancer Epidemiol Biomar-
+kers Prev. 2006;15:1515–1519.
+92.
+Puukka E, Stehr-Green P, Becker TM. Measuring the
+health status gap for American Indians/Alaska Natives:
+getting closer to the truth. Am J Public Health. 2005;95:
+838–843.
+93.
+Gilliland
+FD,
+Mahler
+R,
+Davis
+SM.
+Non-ceremonial
+tobacco use among southwestern rural American Indians:
+the New Mexico American Indian Behavioural Risk Factor
+Survey. Tob Control. 1998;7:156–160.
+94.
+Peterson E, Fenaughty A, Eberhart-Phillips J. Tobacco in
+the Great Land: A Portrait of Alaska’s Leading Cause of
+Death. Anchorage, Alaska: Section of Epidemiology, Divi-
+sion of Public Health, Alaska Department of Health and
+Social Services; 2004. Available at URL: http://www.epi.
+hss.state.ak.us/pubs/tobacco04/t04_complete.pdf Accessed
+May 19, 2007.
+95.
+Key CR. Cancer incidence and mortality in New Mexico,
+1973–77. In: Young JL Jr, Percy CL, Asire AI, editors. Sur-
+veillance, Epidemiology, and End Results: Incidence and
+Mortality Data, 1973–77. NCI Monograph 57, NIH Publi-
+cation No. 81-2330. Bethesda, Md: U.S. Department of
+Health
+and
+Human
+Services,
+Public
+Health
+Service,
+National Institutes of Health, National Cancer Institute;
+1981.
+96.
+Nutting PA, Freeman WL, Risser DR, et al. Cancer inci-
+dence among American Indians and Alaska Natives,
+1980 through 1987. Am J Public Health. 1993;83:1589–
+1598.
+97.
+Sievers ML. Cigarette and alcohol usage by southwestern
+American Indians. Am J Public Health Nations Health. 1968;
+58:71–82.
+98.
+DeStefano F, Coulehan JL, Wiant MK. Blood pressure sur-
+vey on the Navajo Indian reservation. Am J Epidemiol.
+1979;109:335–345.
+99.
+Samet JM, Kutvirt DM, Waxweiler RJ, Key CR. Uranium
+mining and lung cancer in Navajo men. N Engl J Med.
+1984;310:1481–1484.
+100. Gilliland FD, Hunt WC, Pardilla M, Key CR. Uranium
+mining and lung cancer among Navajo men in New Mex-
+ico and Arizona, 1969 to 1993. J Occup Environ Med. 2000;
+42:278–283.
+101. Akhter M, Nishino Y, Nakaya N, et al. Cigarette smoking
+and the risk of colorectal cancer among men: a prospec-
+tive study in Japan. Eur J Cancer Prev. 2007;16:102–107.
+102. Chao A, Thun MJ, Jacobs EJ, Henley SJ, Rodriguez C, Calle
+EE. Cigarette smoking and colorectal cancer mortality in
+the Cancer Prevention Study II. J Natl Cancer Inst. 2000;
+92:1888–1896.
+103. Zisman AL, Nickolov A, Brand RE, Gorchow A, Roy HK.
+Associations between the age at diagnosis and location of
+colorectal cancer and the use of alcohol and tobacco: impli-
+cations for screening. Arch Intern Med. 2006;166:629–634.
+104. Larsson SC, Orsini N, Wolk A. Diabetes mellitus and risk
+of colorectal cancer: a meta-analysis. J Natl Cancer Inst.
+2005;97:1679–1687.
+105. Larsson SC, Giovannucci E, Wolk A. Diabetes and colorec-
+tal cancer incidence in the cohort of Swedish men. Diabe-
+tes Care. 2005;28:1805–1807.
+106. Limburg PJ, Vierkant RA, Fredericksen ZS, et al. Clinically
+confirmed type 2 diabetes mellitus and colorectal cancer
+risk: a population-based, retrospective cohort study. Am J
+Gastroenterol. 2006;101:1872–1879.
+107. Acton KJ, Burrows NR, Moore K, Querec L, Geiss LS,
+Engelgau MM. Trends in diabetes prevalence among
+American Indian and Alaska native children, adolescents,
+and young adults. Am J Public Health. 2002;92:1485–1490.
+108. Burrows NR, Geiss LS, Engelgau MM, Acton KJ. Preva-
+lence of diabetes among Native Americans and Alaska
+Natives, 1990–1997: an increasing burden. Diabetes Care.
+2000;23:1786–1790.
+109. Acton KJ. The Many Voices of the Special Diabetes Program
+for Indians: Reflections on the Past, Directions for the Future,
+2006. Presentation for the 2006 IHS Division of Diabetes
+Treatment and Prevention Regional Meetings. Available at
+URL:
+http://www.ihs.gov/MedicalPrograms/diabetes/[regio-
+nal_mtg_kaps2006.asp Accessed June 14, 2007.
+110. Schraag J. She’ll do—quite well! Pioneering the murky
+waters of nurse practitioner-led screening colonoscopies
+[electronic resource]. EndoNurse 2006. Available at URL:
+http://www.endonurse.com/articles/6c1feat3. Accessed May
+10, 2007.
+111. Meltzer
+W.
+Nurses
+doing
+flexible
+sigmoidoscopy
+and
+colonscopy [electronic resource]. Outpatient Surg. Avail-
+able at URL: http://www.outpatientsurgery.net/2004/os05/
+nurses_flexible_sigmoidoscopy_colonoscopy.php
+Accessed
+May 10, 2007.
+112. Yip R, Limburg PJ, Ahlquist DA, et al. Pervasive occult
+gastrointestinal bleeding in an Alaska native population
+with prevalent iron deficiency. Role of Helicobacter pylori
+gastritis. JAMA. 1997;277:1135–1139.
+113. Kaur JS, Roubidoux MA, Sloan J, Novotny P. Can the Gail
+model be useful in American Indian and Alaska Native
+populations? Cancer. 2004;100:906–912.
+114. Moore LE, Wilson RT, Campleman SL. Lifestyle factors,
+exposures, genetic susceptibility, and renal cell cancer
+risk: a review. Cancer Invest. 2005;23:240–255.
+115. Farivar-Mohseni H, Perlmutter AE, Wilson S, Shingleton
+WB, Bigler SA, Fowler JE Jr. Renal cell carcinoma and end
+stage renal disease. J Urol. 2006;175:2018–2020; discussion
+2021.
+116. Narva AS. The spectrum of kidney disease in American
+Indians. Kidney Int. 2003;83(suppl):S3–S7.
+117. Shaffer EA. Gallstone disease: epidemiology of gallbladder
+stone disease. Best Pract Res Clin Gastroenterol. 2006;20:
+981–996.
+2150
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+118. Everhart JE, Yeh F, Lee ET, et al. Prevalence of gallbladder
+disease in American Indian populations: findings from
+the Strong Heart Study. Hepatology. 2002;35:1507–1512.
+119. Hsing H, Rashid A, Devesa SS, Fraumeni J.Biliary tract
+cancer. In: Schottenfeld D, Fraumeni J, editors. Cancer
+Epidemiology and Prevention. New York, NY: Oxford Uni-
+versity Press; 2006.
+120. Barakat J, Dunkelberg JC, Ma TY. Changing patterns of
+gallbladder carcinoma in New Mexico. Cancer. 2006;106:
+434–440.
+121. Wiggins CL, Becker TM, Key CR, Samet JM. Stomach can-
+cer among New Mexico’s American Indians, Hispanic
+whites, and non-Hispanic whites. Cancer Res. 1989;49:
+1595–1599.
+122. Alberts SR, Kelly JJ, Lanier AP, Sacco F. Occurrence of
+esophageal and gastric cancer in Alaska Natives, 1969–
+2003. Alaska Med. 2006;48:2–11.
+123. Correa P. Helicobacter pylori infection and gastric cancer.
+Cancer Epidemiol Biomarkers Prev. 2003;12:238s–241s.
+124. Bernstein CN, McKeown I, Embil JM, et al. Seroprevalence
+of Helicobacter pylori, incidence of gastric cancer, and
+peptic ulcer-associated hospitalizations in a Canadian
+Indian population. Dig Dis Sci. 1999;44:668–674.
+125. Gammon M, Schoenberg J, Ahsan H, et al. Tobacco, alco-
+hol, and socioeconomic status and adenocarcinomas of
+the esophagus and gastric cardia. J Natl Cancer Inst. 1997;89:
+1277–1284.
+126. Sasazuki S, Sasaki S, Tsugane S. Cigarette smoking, alcohol
+consumption and subsequent gastric cancer risk by subsite
+and histologic type. Int J Cancer. 2002;101:560–566.
+127. Lagergren J, Bergstrom R, Nyren O. Association between
+body mass and adenocarcinoma of the esophagus and
+gastric cardia. Ann Intern Med. 1999;130:883–890.
+128. Indian Health Service. Trends in Indian Health, 1998–
+1999. Rockville, Md: U.S. Department of Health and
+Human Services, Indian Health Service; 2000.
+129. Bialek S, Redd JT, Lynch ACF, et al. Chronic liver disease
+among 2 American Indian patient populations in the
+Southwestern United States: 2000–2003. J Clin Gastroen-
+terol. In press.
+130. Rawls RA, Vega KJ. Viral hepatitis in minority America.
+J Clin Gastroenterol. 2005;39:144–151.
+131. Anderson RN, Smith BL. Deaths: leading causes for 2002.
+Natl Vital Stat Rep. 2005;53:1–89.
+132. Dennis TD. Cancer stage at diagnosis, treatment, and sur-
+vival among American Indians and non-American Indians
+in Montana. Cancer. 2000;89:181–186.
+133. Bleed DM, Risser DR, Sperry S, Hellhake D, Helgerson SD.
+Cancer incidence and survival among American Indians
+registered for Indian health service care in Montana,
+1982–1987. J Natl Cancer Inst. 1992;84:1500–1505.
+134. Brown MO, Lanier AP, Becker TM. Colorectal cancer inci-
+dence and survival among Alaska Natives, 1969–1993. Int
+J Epidemiol. 1998;27:388–396.
+135. Lanier AP, Holck P, Kelly J, Smith B, McEvoy T. Alaska
+Native cancer survival. Alaska Med. 2001;43:61–69, 83.
+136. Clegg LX, Li FP, Hankey BF, Chu K, Edwards BK. Cancer
+survival among US whites and minorities: a SEER (Sur-
+veillance, Epidemiology, and End Results) Program popu-
+lation-based study. Arch Intern Med. 2002;162:1985–1993.
+137. Frost F, Tollestrup K, Hunt WC, Gilliland F, Key CR, Urbina
+CE. Breast cancer survival among New Mexico Hispanic,
+American Indian, and non-Hispanic white women (1973–
+1992). Cancer Epidemiol Biomarkers Prev. 1996;5:861–866.
+138. Becker SA, Affonso DD, Beard MB. Talking circles: North-
+ern Plains tribes American Indian women’s views of can-
+cer as a health issue. Public Health Nurs. 2006;23:27–
+36.
+139. Burhansstipanov L. Community-driven Native American
+cancer survivors’ quality of life research priorities. J Can-
+cer Educ. 2005;20(1 suppl):7–11.
+140. Burhansstipanov L, Tenney M, Russell S, Bad Wound D,
+Plomer K. Overview of the Native American Cancer Con-
+ference III. Risk factors, outreach and intervention strate-
+gies. Cancer. 1996;78(7 suppl):1527–1532.
+141. Cunningham-Sabo L, Davis SM. Pathways to health. A
+health
+promotion
+and
+cancer
+prevention
+project
+for American Indian youth. Alaska Med. 1993;35:275–278,
+296.
+142. Gorin SS, Heck JE, Cheng B, Smith SJ. Delays in breast
+cancer diagnosis and treatment by racial/ethnic group.
+Arch Intern Med. 2006;166:2244–2252.
+143. Allgar VL, Neal RD. Delays in the diagnosis of six cancers:
+analysis of data from the National Survey of NHS Patients:
+Cancer. Br J Cancer. 2005;92:1959–1970.
+144. Chao A, Becker TM, Jordan SW, Darling R, Gilliland FD,
+Key CR. Decreasing rates of cervical cancer among Ameri-
+can Indians and Hispanics in New Mexico (United States).
+Cancer Causes Control. 1996;7:205–213.
+145. Indian Health Service. Indian Health Service fact sheet.
+Available at URL: http://www.ihs.gov/PublicInfo/PublicAf-
+fairs/Welcome_Info/ThisFacts.asp, 2006 Accessed May 8,
+2007.
+146. Allison MT, Rivers PA, Fottler MD. Future public health
+delivery models for Native American tribes. Public Health.
+2007;121:296–307.
+147. Sievers ML, Cohen SL. Lung cancer among Indians of the
+southwestern United States. Ann Intern Med. 1961;54:912–
+915.
+148. Lee BJ. The incidence of cancer among the Indians in the
+southwest Surg Gynecol Obstet. 1930;50:4:196–199.
+149. Palmer EP. Incidence of cancer among Indians of the
+United States and Canada with specific reference to Ari-
+zona. Acta Unio Int Cancrum. 1953;9:373–391.
+150. Johnson M.Lung cancer among the Alaska Natives. In:
+Science
+in
+Alaska,
+Proceedings
+of
+the
+15th
+Alaskan
+Science Conference (1964). Washington, DC: American
+Association for the Advancement of Science, Alaska Divi-
+sion; 1965:110–114.
+151. Waxman AG. Colposcopy training for IHS providers: a
+strategy for improving cervical cancer screening in Native
+Americans. IHS Provider. 1992;17:41–43.
+152. Waxman AG, Inkret W. Teaching colposcopy on the Nav-
+ajo Indian Reservation. Colposcopist. 1991;23:1–2.
+153. Hampton JW, Keala J, Luce P. Overview of National Cancer
+Institute networks for cancer control research in Native
+American
+populations.
+Cancer.
+1996;78(7
+suppl):1545–
+1552.
+154. Becker TM, Joe JR, Cobb N, et al. Training for cancer con-
+trol research: a curriculum for Native researchers. J Can-
+cer Edu. 1999;14:233–237.
+155. Kaur JS, Dignan M, Burhansstipanov L, Baukol P, Claus C.
+The ‘‘Spirit of Eagles’’ legacy. Cancer. 2006;107(8 suppl):
+1987–1994.
+156. Becker TM, Lambert L, Puukka E, Stehr-Green P, Johnson
+CJ. Survival after cancer diagnosis among North-west
+American Indians/Alaska Natives. J Registry Manage. 2005;
+32:76–78.
+Report to the Nation, 19752004/Espey et al.
+2151
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+157. Given LS, Black B, Lowry G, Huang P, Kerner JF. Collabor-
+ating to conquer cancer: a comprehensive approach to
+cancer control. Cancer Causes Control. 2005;16(Suppl 1):
+3–14.
+158. Gomez SL, Glaser SL. Misclassification of race/ethnicity in
+a population-based cancer registry (United States). Cancer
+Causes Control. 2006;17:771–781.
+159. Clegg LX, Reichman ME, Hankey BF, et al. Quality of
+race, Hispanic ethnicity, and immigrant status in popula-
+tion-based cancer registry data: implications for health
+disparity studies. Cancer Causes Control. 2007;18:177–187.
+160. Link MW, Battaglia MP, Frankel MR, Osborn L, Mokdad
+AH. Address-based versus random-digit-dial surveys: com-
+parison of key health and risk indicators. Am J Epidemiol.
+2006;164:1019–1025.
+161. Wilson-Stronks A, Galvez E. Hospitals, Language and Cul-
+ture: A Snapshot of the Nation. The Joint Commission,
+2007. Available at URL: http://www.jointcommission.org/
+NR/rdonlyres/E64E5E89-5734-4D1D-BB4D-C4ACD4BF8BD3/
+0/hlcpaper.pdf Accessed May 10, 2007.
+162. Rosenberg HM, Maurer JD, Sorlie PD, et al. Quality of
+death rates by race and Hispanic origin: a summary of
+current research, 1999. Vital Health Stat 2. 1999;128:1–13.
+163. Centers
+for
+Disease
+Control
+and
+Prevention
+(CDC).
+Tobacco use among adults—United States, 2005. MMWR
+Morb Mortal Wkly Rep. 2006;55:1145–1148.
+2152
+CANCER
+November 15, 2007 / Volume 110 / Number 10
+ 10970142, 2007, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23044 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -1,0 +1,1681 @@
+record_id=207 pmid=23878354 doi=10.1093/jnci/djt156
+SOURCE: manual-pdf
+TITLE: Cancer incidence trends among native hawaiians and other pacific islanders in the united states, 1990-2008
+
+Vol. 105, Issue 15  |  August 7, 2013
+DOI:10.1093/jnci/djt156
+Advance Access publication July 22, 2013
+1086  Articles  |  JNCI
+© The Author 2013. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+Article
+Cancer Incidence Trends Among Native Hawaiians and Other 
+Pacific Islanders in the United States, 1990–2008
+Lihua Liu, Anne-Michelle Noone, Scarlett Lin Gomez, Steve Scoppa, James T. Gibson, Daphne Lichtensztajn, Kari Fish,  
+Lynne R. Wilkens, Marc T. Goodman, Cyllene Morris, Sandy Kwong, Dennis Deapen, Barry A. Miller
+Manuscript received September 25, 2012; revised April 18, 2013; accepted April 19, 2013.
+Correspondence to: Lihua Liu, PhD, Los Angeles Cancer Surveillance Program, University of Southern California, 2001 N Soto St, SSB-305E, Los Angeles, 
+CA 90089–9238 (e-mail: lihualiu@usc.edu).
+	Background	
+Lack of annual population estimates for disaggregated Native Hawaiian and Other Pacific Islander (NHOPI) popu-
+lations limits the ability to examine cancer incidence rates and trends to understand the cancer burdens among 
+NHOPIs.
+	
+Methods	
+Utilizing 1990 and 2000 population census data, we estimated the annual populations by age and sex for Native 
+Hawaiians, Samoans, and Guamanians/Chamorros for 1990–2008 in regions covered by 13 of the National Cancer 
+Institute’s SEER registries. Cancer diagnoses during 1990–2008 from these registries were used to calculate the 
+age-adjusted (2000 US Standard) incidence rates by sex, calendar year/period, and cancer type for each popula-
+tion. The annual percentage change (APC) in incidence rates was estimated with the 95% confidence intervals 
+(95% CIs) calculated for both the rate and APC estimates.
+	
+Results	
+Statistically significant declining trends were found in Native Hawaiians, in men for lung and stomach cancers 
+(APC = –2.3%; 95% CI = –3.3 to –1.3; and APC = –3.8%; 95% CI = –6.0 to –1.6, respectively), and in women for breast 
+cancer (APC = –4.1%; 95% CI = –5.7 to –2.5) since 1998 and lung cancer (APC = –6.4%; 95% CI = –10.7 to –1.8) since 
+2001. Rising incidence trends were experienced by Samoans, especially by Samoan women for breast (APC = 2.7%; 
+95% CI = 0.9 to 4.5) and uterus (APC = 7.3%; 95% CI = 6.2 to 8.4) cancers. With limited data, Guamanians/Chamorros 
+demonstrated lower, but increasing, incidence rates than other NHOPIs.
+	Conclusions	
+Population-based cancer incidence rates for disaggregated NHOPI populations help identify disparities in cancer 
+burden and provide valuable information to improve cancer control efforts among NHOPIs.
+	
+	
+J Natl Cancer Inst;2013;105:1086–1095 
+While substantial strides have been made in understanding cancer 
+incidence patterns and trends among Asian American subgroups 
+(1–10), much less is known about those among Native Hawaiian 
+and Other Pacific Islander (NHOPI) populations in the United 
+States (11–13). Despite the fact that population-based cancer reg-
+istries in the United States routinely collect detailed NHOPI sub-
+group information, lack of information on populations at risk by 
+ethnic subgroup has resulted in severe gaps in the knowledge about 
+cancer burdens in these populations.
+The NHOPI population is a small but fast-growing race group 
+in the United States, representing 0.4% of the country’s total popu-
+lation (14). The NHOPI population is an ethnically and cultur-
+ally diverse group, including people with ancestry in any of the 
+original peoples of Hawaii, Guam, Samoa, or other Pacific Islands. 
+There were more NHOPIs of multirace (0.7 million) than there 
+were NHOPIs of single race (0.5 million), according to the 2010 
+Census (14). Compared with the non-Hispanic (NH) white pop-
+ulation, NHOPIs are younger, less educated, more likely to live 
+in poverty, more likely to live in extended families, and less likely 
+to be employed in management, professional, and high-income 
+occupations (15). There are marked demographic and socioeco-
+nomic differences among the NHOPI subgroups. For example, the 
+median age was 31.8 years for Native Hawaiians, 24.4 for Samoans, 
+and 29.3 for Guamanians; the poverty rate was 15.6% for Native 
+Hawaiians, 20.2% for Samoans, and 13.7% for Guamanians (16).
+To understand the cancer burden in specific minority populations 
+and better target cancer research, control and prevention efforts, 
+the National Cancer Institute’s Surveillance, Epidemiology, and 
+End Results (SEER) Program (17) formed a working group to 
+develop necessary annual population denominators and provide 
+cancer incidence rates and trends for disaggregated Asian American 
+and NHOPI groups. In this report, we present the results for the 
+most common cancers among Native Hawaiians, Samoans, and 
+Guamanians/Chamorros during 1990–2008.
+Materials and Methods
+Cancer Data
+Cancer incidence data used in this study came from the population-
+based SEER registries. They represent new cancer cases diagnosed 
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+JNCI  |  Articles  1087
+jnci.oxfordjournals.org
+between January 1, 1990 and December 31, 2008 reported to the 
+13 SEER registries as shown in Table 1.
+Demographic (ie, age, sex, race/ethnicity) and clinical informa-
+tion on patients is routinely collected by the SEER registries from 
+hospital medical records (18). Although the collection of multiple 
+racial identities were instituted with cancer cases diagnosed in 2000 
+and onward, very few cases (less than 5%) have been reported with 
+multiple races. Furthermore, the quality of the multiracial identity 
+recorded in the registry database cannot be easily distinguished 
+from simple recording errors. Therefore, only the primary race var-
+iable in the database was used in grouping the cancer cases by racial/
+ethnic categories. SEER coding rules require the minority race to 
+be the primary when more than one race is reported, to ensure the 
+representation of smaller populations in cancer registry data (18). 
+The cancer types were classified according to the International 
+Classification of Diseases for Oncology, Third Edition (ICD-O-3) (19), 
+and regrouped into major categories for analysis according to the 
+SEER site recode (20).
+A total of 22 720 NHOPI cancer cases were reported to the 13 
+registries during 1990–2008. We excluded cancer cases with missing 
+or unknown age (1 [0.00%]), missing or unknown sex (3 [0.01%]), 
+unspecific NHOPI identification (1102 [4.85%]), unavailability of 
+population counts across census years for some specific NHOPI 
+subgroups including Tongans (2051 [9.03%]), and withholding of 
+area population less than 100 by 2000 Census (64 [0.28%]). A total 
+of 19 499 (85.8% of the total reported cases) remained for analy-
+sis, including 16 062 Native Hawaiians, 2760 Samoans, and 677 
+Guamanians/Chamorros. For comparison purposes, the 4 099 552 
+non-Hispanic (NH) white cancer cases from the same registries diag-
+nosed during the same time period were also included in the study.
+Population Estimates
+We used the Summary Tape File 2 (STF2) of the 1990 Census and 
+Summary File 2 (SF2) of the 2000 Census to obtain the detailed 
+population counts for specific NHOPI subgroups of Native 
+Hawaiians, Samoans, and Guamanians/Chamorros. Because the 
+2000 Census allowed multiple identifications of race for an indi-
+vidual (21), a bridging method was needed to adjust the 2000 mul-
+tiracial classification scheme into mutually exclusive single race 
+categories to be compatible with the 1990 data. We bridged the 
+2000 Census results from its multirace scheme into a single race 
+scheme for all SEER regions by taking the simple average between 
+the minimum population count (ie, people who reported one race) 
+and the maximum count (ie, people who reported more than one 
+race) for a given racial/ethnic group. The age-sex structures of each 
+of the NHOPI subgroups (in percentages of the total NHOPI pop-
+ulation) from the 1990 Census and the bridged 2000 Census (April) 
+data were applied to the midyear (July) 1990 and 2000 Census 
+Bureau estimates for total NHOPIs to obtain the midyear popu-
+lation estimates for 1990 and 2000, respectively, for the specific 
+NHOPI subgroups. The 1991–1999 age-sex subgroup-specific 
+population estimates were developed using linear interpolations 
+between the 1990 and 2000 midyear estimates, and the 2001–2008 
+estimates were extrapolated using this linear model.
+We adopted the Hawaii Tumor Registry (HTR) 1990–2005 
+population estimates and extrapolated linearly for 2006–2008 for 
+the NHOPI subgroups in Hawaii, as a modification to the above-
+described population estimation method. Before the 2000 Census 
+that adopted a multiracial classification scheme, the racial/ethnic 
+classification from the census was too crude to accurately categorize 
+Hawaii’s multiracial populations. To correct for undercounting of the 
+Table 1.  Distributions of cancer cases and population estimates by racial/ethnic groups and Surveillance, Epidemiology, and End Results 
+(SEER) regions, 1990–2008
+SEER region
+Non-Hispanic white
+Native Hawaiian
+Samoan
+Guamanian/Chamorro
+Case
+Population
+Case
+Population
+Case
+Population
+Case
+Population
+All
+4 099 552
+721 057 524
+16 062
+5 729 112
+2760
+1 381 197
+677
+728 731
+100.0%
+100.0%
+99.9%
+100.0%
+99.6%
+100.0%
+99.0%
+100.0%
+California*
+1 821 989
+312 423 738
+1526
+763 872
+1383
+816 372
+469
+522 268
+44.4%
+43.3%
+9.5%
+13.3%
+50.1%
+59.1%
+69.3%
+71.7%
+Connecticut
+312 154
+50 909 380
+19
+10 444
+†
+6076
+†
+6418
+7.6%
+7.1%
+0.1%
+0.2%
+†
+0.4%
+†
+0.9%
+Hawaii
+29 612
+5 227 124
+14 007
+4 730 170
+1050
+285 883
+72
+54 373
+0.7%
+0.7%
+87.2%
+82.6%
+38.0%
+20.7%
+10.6%
+7.5%
+Iowa
+286 220
+51 542 709
+21
+8854
+†
+3788
+†
+4171
+7.0%
+7.1%
+0.1%
+0.2%
+†
+0.3%
+†
+0.6%
+New Jersey
+692 332
+106 637 859
+213
+19 671
+15
+12 685
+12
+17 772
+16.9%
+14.8%
+1.3%
+0.3%
+0.5%
+0.9%
+1.8%
+2.4%
+New Mexico
+89 670
+15 636 347
+28
+15 975
+†
+6626
+†
+8026
+2.2%
+2.2%
+0.2%
+0.3%
+†
+0.5%
+†
+1.1%
+Utah
+116 870
+36 332 597
+19
+45 119
+60
+98 273
+†
+5063
+2.9%
+5.0%
+0.1%
+0.8%
+2.2%
+7.1%
+†
+0.7%
+Atlanta 
+(metropolitan)
+126 726
+3.1%
+28 644 708
+4.0%
+† 
+†
+3011 
+0.1%
+†
+†
+†
+†
+† 
+†
+†
+†
+Detroit 
+(metropolitan)
+302 508 
+7.4%
+52 845 723 
+7.3%
+† 
+†
+5021
+0.1%
+†
+ †
+2762
+0.2%
+†
+†
+†
+†
+Seattle/Puget 
+Sound
+321 471
+7.8%
+60 857 339 
+8.4%
+220
+1.4%
+126 974
+2.2%
+242
+8.8%
+148 732
+10.8%
+117
+17.3%
+110 641
+15.2%
+*	 Including Los Angeles, San Francisco/Oakland and San Jose/Monterey, and the Greater California registries.
+†	 Data withheld due to case count <10.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1088  Articles  |  JNCI
+Native Hawaiian population in the 1970, 1980, and 1990 censuses, the 
+HTR developed its own population estimates based on survey data 
+collected by the Hawaii Department of Health for the detailed racial/
+ethnic populations in Hawaii for 1975–2005. The HTR population 
+estimates have been routinely used by the HTR and Hawaii 
+Department of Health for generating all cancer statistics by detailed 
+race/ethnicity for the state of Hawaii (22–23). The methodologies 
+used to create the HTR population estimates were derived by 
+apportioning the census sex-age counts by the race distributions 
+for each sex-age group as determined by the annual Health Habits 
+Survey, after adding the census-determined group quarters data. 
+Given that the ethnic distributions from the Health Habits Survey 
+varied from year to year, especially for small population groups, a 
+weighted running average method by sex, age, and race/ethnicity was 
+used to get a smoother center value. Further unpublished technical 
+notes of the HTR estimates are available upon request.
+Because of the Census Bureau’s data withholding rules, we were 
+unable to obtain necessary population denominators for certain 
+NHOPI subgroups in some of the SEER reporting areas where the 
+total population of a group was less than 100 in the 2000 Census 
+SF2 (21). In these situations, an entire registry or a county of an 
+registry was excluded from the analysis for that specific NHOPI 
+subgroup.
+Statistical Methods
+The average annual age-adjusted (2000 US Standard) incidence 
+rates per 100 000 population and 95% confidence intervals (CIs) 
+were generated using SEER*Stat software (http://seer.cancer.gov/
+seerstat/) for the top five most common cancers for NH whites, 
+Native Hawaiians, and Samoans for three time periods (1990–1995, 
+1996–2001, and 2002–2008). For Guamanians/Chamorros, inci-
+dence rates are shown for two time periods (1990–1999 and 2000–
+2008). Diagnosis years were combined as necessary to ensure at 
+least 10 cancer cases per time period for the stability of the rate esti-
+mates (24). Joinpoint regression models (http://surveillance.cancer.
+gov/joinpoint/) were used to analyze the trends of annual or aver-
+age annual incidence rates for NH whites, Native Hawaiians, and 
+Samoans, respectively, over the entire study period (1990–2008), 
+and the annual percentage change (APC) and 95% confidence inter-
+val was estimated for each trend line or segment. These confidence 
+intervals provide more information about the direction and strength 
+of the estimated effect, and statistical significance can be assumed if 
+the confidence interval does not contain zero. A maximum of three 
+joinpoints were allowed based on single-year data, two joinpoints 
+based on two-year grouping, and no joinpoints could be estimated 
+for trends based on five-year grouping due to limited number of 
+data points. When no joinpoints were detected over time for a given 
+group, the APC for the entire study period was provided. Plots of 
+rate estimates and trend lines produced by the joinpoint analysis 
+are shown in semi-logarithmic scale and 3:1 y:x-axis aspect ratio for 
+comparison of changes by cancer type among groups (25–26).
+Results
+There are obvious geographic clusterings of NHOPI populations 
+among SEER registries. Whereas 82.6% of Native Hawaiians live 
+in Hawaii, the majority of Samoans and Guamanians/Chamorros 
+live outside of Hawaii. More Samoans and Guamanians/Chamorros 
+live in California than in Hawaii. Most of the NHOPI cancer cases 
+came from the SEER registries in Hawaii, California, and Seattle/
+Puget Sound (Washington).
+During 1990–2008, similar to NH whites, prostate (in men), 
+breast (in women), lung, and colorectal (CRC) cancers were the top 
+three most common in almost all NHOPI subgroups examined in 
+both sexes, except CRC that was ranked fourth in Samoan women 
+(Tables 2 and 3). However, in contrast to their lower rankings in 
+NH whites, stomach (fourth in Native Hawaiian and Samoan men 
+and fifth in Samoan men), liver (fifth in Samoan men), and pan-
+creatic (fifth in Native Hawaiian women) cancers were among the 
+leading cancers in the NHOPI populations. The incidence rates 
+and trends varied markedly among NHOPIs by cancer type and 
+population subgroup.
+Native Hawaiians
+Among Native Hawaiian men, incidence trends for the top 
+five cancers (prostate, lung, CRC, stomach, and non-Hodgkin 
+lymphoma) were declining, with statistically significant decreases 
+in lung and stomach cancers (–2.3% [95% CI = –3.3 to –1.3 and 
+–3.8%, 95% CI = –6.0 to –1.6, respectively) (Figure 1). Their risks 
+for lung and stomach cancers were consistently higher than those 
+of the NH white men over time, but the differences narrowed with 
+the faster pace of decline in Native Hawaiian men. After slightly 
+rising during the early years, their incidence trends for all cancers 
+combined started to decline with a statistically significant APC 
+of –2.7 (95% CI = –4.3 to –1.1) during 2000–2008 (Figure 1 and 
+Table  2). Declining incidence trends were also observed among 
+Native Hawaiian women for all of the five most common cancers 
+(breast, lung, CRC, uterus, and pancreas) and all sites combined 
+(Figure 2 and Table 3). The decreasing APCs since 1998 for all 
+sites (Figure 2; –3.3%; 95% CI = –4.3 to –2.4) and breast (Figure 2; 
+–4.1%; 95% CI = –5.7 to –2.5) cancers and since 2001 for lung 
+(Figure  2; –6.4%; 95% CI  =  –10.7 to –1.8) reached statistical 
+significance. They also experienced consistently higher incidence 
+rates for uterus and pancreatic cancers over the years than their 
+NH white counterparts (Figure 2 and Table 3).
+Samoans
+In contrast to the decreasing trends in prostate and CRC cancers 
+in NH white and Hawaiian men, both were on the rise for Samoan 
+men (Figure 1 and Table 2). Samoan men consistently had higher 
+incidence rates for lung and stomach cancers than NH white and 
+Native Hawaiian men. Statistically significant APCs of incidence 
+rates were found in Samoan women for breast (2.7%; 95% CI = 0.9 
+to 4.5) (Figure 2) and uterine (7.3%; 95% CI = 6.2 to 8.4) cancers. 
+Despite the substantial decrease in incidence rates in both men and 
+women, Samoans still suffered from the disproportionally higher 
+stomach cancer risk than NH whites and Native Hawaiians (Tables 
+2 and 3, Figures 1 and 2).
+Guamanians/Chamorros
+Limited by small case counts, rates for Guamanians/Chamorros 
+could only be calculated for two broadly grouped time periods 
+(1990–1999 and 2000–2008) as included in Tables 2 and 3 and for 
+the top three cancer sites in men (prostate, lung, CRC) and women 
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+JNCI  |  Articles  1089
+jnci.oxfordjournals.org
+Table 2.  Cancer case counts and age-adjusted incidence rates with 95% confidence interval (CI) of the most common cancers in Native Hawaiian and Other Pacific Islander 
+(NHOPI) subgroups and non-Hispanic whites by time period, males*
+Race/Ethnicity
+Rank
+1990–1995
+1996–2001
+2002–2008
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Non-Hispanic white
+  All Sites
+655 690
+620.9
+(619.3 to 622.4)
+665 295
+590.0
+(588.1 to 590.9)
+800 107
+565.2
+(564.0 to 566.5)
+  Prostate
+1
+202 261
+191.7
+(190.8 to 192.5)
+195 821
+172.2
+(171.4 to 173.0)
+229 665
+158.6
+(158.0 to 159.3)
+  Lung
+2
+101 781
+95.7
+(95.1 to 96.3)
+96 883
+85.8
+(85.3 to 86.4)
+105 743
+75.5
+(75.1 to 76.0)
+  CRC
+3
+73 143
+71.3
+(70.7 to 71.8)
+73 894
+66.5
+(66.0 to 67.0)
+78 328
+55.8
+(55.4 to 56.2)
+  NHL
+6
+26 220
+24.4
+(24.1 to 24.8)
+28 554
+25.2
+(24.9 to 25.5)
+36 092
+25.7
+(25.5 to 26.0)
+  Stomach
+11
+12 032
+11.8
+(11.6 to 12.0)
+11 604
+10.5
+(10.3 to 10.7)
+12 543
+9.0
+(8.8 to 9.1)
+  Liver
+16
+5283
+5.0
+(4.9 to 5.1)
+7287
+6.4
+(6.3 to 6.6)
+11 832
+8.0
+(7.9 to 8.2)
+Native Hawaiian
+  All sites
+1953
+484.8
+(461.5 to 508.8)
+2399
+497.0
+(475.5 to 518.4)
+3126
+432.9
+(417.3 to 448.9)
+  Prostate
+1
+395
+114.6
+(102.7 to 127.4)
+510
+119.3
+(108.6 to 130.7)
+685
+104.2
+(96.4 to 112.5)
+  Lung
+2
+417
+103.4
+(93.1 to 114.4)
+460
+98.6
+(89.3 to 108.5)
+545
+78.7
+(72.0 to 85.8)
+  CRC
+3
+241
+62.1
+(53.8 to 71.2)
+302
+63.4
+(56.1 to 71.4)
+410
+55.8
+(50.4 to 61.7)
+  Stomach
+4
+92
+24.2
+(19.3 to 30.0)
+94
+20.2
+(16.1 to 25.0)
+96
+14.2
+(11.5 to 17.4)
+  NHL
+5
+79
+18.6
+(14.2 to 23.8)
+97
+17.8
+(14.2 to 22.0)
+132
+17.4
+(14.5 to 20.8)
+Samoan
+  All sites
+317
+576.8
+(502.8 to 657.3)
+384
+475.5
+(421.6 to 533.8)
+630
+542.1
+(493.9 to 593.2)
+  Prostate
+1
+64
+163.6
+(121.9 to 213.0)
+83
+120.9
+(93.9 to 152.5)
+148
+169.0
+(140.4 to 201.0)
+  Lung
+2
+69
+120.4
+(90.8 to 155.9)
+79
+100.6
+(77.6 to 127.9)
+108
+98.9
+(79.0 to 121.8)
+  CRC
+3
+28
+42.3
+(26.2 to 64.0)
+40
+47.4
+(31.3 to 68.2)
+71
+45.2
+(34.1 to 58.8)
+  Stomach
+4
+28
+71.3
+(43.3 to 108.0)
+29
+44.1
+(27.7 to 65.5)
+35
+25.5
+(17.1 to 36.6)
+  Liver
+5
+18
+29.7
+(16.2, 49.1)
+27
+30.1
+(18.8 to 45.4)
+34
+30.7
+(19.9 to 44.7)
+1990–1999
+2000–2008
+Guamanian/ Chamorro†
+  All sites
+143
+201.9
+(164.1 to 245.0)
+213
+228.3
+(194.7 to 265.6)
+  Prostate
+1
+32
+65.1
+(41.9 to 95.0)
+65
+87.1
+(65.1 to 113.3)
+  Lung
+2
+27
+37.9
+(23.9 to 56.9)
+34
+37.7
+(25.2 to 53.9)
+  CRC
+3
+11
+17.4
+(7.6 to 33.1)
+28
+28.7
+(17.8 to 43.5)
+*	 Rank based on overall rate from 1990 to 2008 for all areas combined. Incidence rates are age-adjusted to the 2000 US Standard population and presented for invasive cancers only. Abbreviations: Lung = lung and 
+bronchus; Liver = liver and intrahepatic bile duct; CRC = colon and rectum; NHL = non-Hodgkin lymphoma.
+†	 Data for fourth- and fifth-ranked cancers withheld due to cancer case count <10.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1090  Articles  |  JNCI
+Table 3.  Cancer case counts and age-adjusted incidence rates with 95% confidence interval (CI) of the most common cancers in Native Hawaiian and Other Pacific Islander (NHOPI) 
+subgroups and non-Hispanic whites by time period, females*
+Race/Ethnicity
+Rank
+1990–1995
+1996–2001
+2002–2008
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Non-Hispanic white
+  All sites
+589 274
+437.0
+(435.9 to 438.1)
+637 140
+453.0
+(451.8 to 454.1)
+752 046
+441.0
+(440.0 to 442.0)
+  Breast
+1
+183 463
+140.8
+(140.1 to 141.4)
+203 032
+148.4
+(147.7 to 149.0)
+228 639
+136.6
+(136.0 to 137.2)
+  Lung
+2
+76 529
+55.4
+(55.0 to 55.8)
+83 761
+57.8
+(57.4 to 58.2)
+100 847
+56.9
+(56.6 to 57.3)
+  CRC
+3
+71 404
+49.5
+(49.2 to 49.9)
+72 581
+47.7
+(47.4 to 48.1)
+76 608
+41.8
+(41.5 to 42.1)
+  Uterus
+4
+35 755
+26.8
+(26.5 to 27.0)
+37 663
+27.2
+(26.9 to 27.5)
+44 557
+26.0
+(25.8 to 26.3)
+  Pancreas
+11
+14 399
+10.0
+(9.8 to 10.1)
+14 965
+9.8
+(9.6 to 10.0)
+19 291
+10.4
+(10.3 to 10.6)
+  Stomach
+16
+7284
+5.0
+(4.9 to 5.1)
+6872
+4.5
+(4.4 to 4.6)
+7224
+3.9
+(3.8 to 4.0)
+Native Hawaiian
+  All sites
+2175
+459.1
+(439.0 to 479.8)
+2706
+478.1
+(459.7 to 497.1)
+3703
+394.2
+(381.6 to 407.2)
+  Breast
+1
+721
+148.3
+(137.2 to 159.9)
+1010
+173.1
+(162.4 to 184.4)
+1284
+136.8
+(129.4 to 144.5)
+  Lung
+2
+267
+61.2
+(53.8 to 69.3)
+333
+64.5
+(57.6 to 71.9)
+466
+51.6
+(47.0 to 56.5)
+  CRC
+3
+185
+43.3
+(37.0 to 50.2)
+236
+44.9
+(39.2 to 51.1)
+289
+31.3
+(27.8 to 35.1)
+  Uterus
+4
+179
+35.5
+(30.4 to 41.3)
+217
+35.6
+(30.9 to to40.8)
+340
+35.7
+(32.0 to 39.7)
+  Pancreas
+5
+59
+14.3
+(10.7 to 18.6)
+83
+16.4
+(13.0 to 20.4)
+124
+13.5
+(11.2 to 16.1)
+Samoan
+  All sites
+299
+389.8
+(340.7 to 443.4)
+415
+391.2
+(350.6 to 434.9)
+715
+454.6
+(418.9 to 492.3)
+  Breast
+1
+72
+86.4
+(65.9 to 110.9)
+103
+91.3
+(73.5 to 112.0)
+182
+114.8
+(97.6 to 134.0)
+  Uterus
+2
+34
+35.6
+(23.5 to 51.5)
+60
+47.3
+(35.3 to 62.1)
+144
+85.0
+(70.8 to 101.2)
+  Lung
+3
+29
+48.4
+(31.1 to 70.8)
+45
+52.9
+(37.6 to 71.6)
+60
+43.6
+(32.6 to 56.7)
+  CRC
+4
+13
+14.8
+(6.7 to 27.8)
+19
+20.8
+(11.9 to 33.2)
+60
+40.7
+(30.1 to 53.6)
+  Stomach
+5
+24
+41.3
+(25.0 to 63.0)
+21
+24.0
+(14.0 to 37.8)
+24
+18.7
+(11.5 to 28.2)
+1990–1999
+2000–2008
+Guamanian/ Chamorro†
+  All sites
+130
+153.2
+(124.3 to 186.3)
+191
+171.6
+(146.1 to 200.1)
+  Breast
+1
+36
+35.8
+(24.0 to 51.1)
+57
+46.8
+(34.9 to 61.5)
+  Lung
+2
+21
+26.6
+(15.7 to 41.7)
+26
+26.1
+(16.6 to 38.6)
+  CRC
+3
+10
+19.8
+(8.5 to 37.0)
+13
+11.5
+(5.9 to 20.1)
+*	 Rank based on overall rate from 1990 to 2008 for all areas combined. Incidence rates are age-adjusted to the 2000 US standard population and presented for invasive cancers only. Abbreviations: Lung = lung and 
+bronchus; CRC = colon and rectum; Uterus = corpus uteri and uterus, not otherwise specified.
+†	 Data for fourth- and fifth-ranked cancers withheld due to cancer case count <10.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+JNCI  |  Articles  1091
+jnci.oxfordjournals.org
+(breast, lung, CRC), respectively. No joinpoint analysis could be 
+done because of too few data points. Although these top ranked 
+cancers were the same as in the other populations examined, 
+Guamanians/Chamorros demonstrated much lower incidence 
+rates than those of Native Hawaiians and Samoans in both men 
+and women. However, their cancer risks appeared to increase over 
+time, except for lung cancer (Tables 2 and 3).
+Geographic Differences
+As shown in Table 4, Native Hawaiian men residing in Hawaii dis-
+played higher incidence rates for lung cancer but lower incidence 
+rates for prostate and CRC cancers than did Native Hawaiian men 
+living on the mainland. Rates for all cancers combined declined 
+more dramatically for those on the mainland than in Hawaii. 
+Native Hawaiian women in Hawaii appeared to have higher risk 
+for almost all cancers examined (especially for breast, lung, uterine, 
+and all cancers combined) than Native Hawaiian women living on 
+the mainland.
+Discussion
+With a total of nearly 20 000 Native Hawaiian, Samoan, and 
+Guamanian/Chamorro cancer cases from 13 SEER registries during 
+the period 1990–2008, our study highlights several important 
+findings: 1) There are clear differences in cancer incidence rates 
+among NHOPI subgroups and between NHOPIs and NH whites 
+by cancer type; 2)  the cancer-specific incidence trends vary by 
+degree and direction among NHOPI groups; 3)  rising cancer 
+trends in Samoans and Guamanians/Chamorros are of particular 
+concern; and 4) cancer incidence rates and trends differed between 
+Native Hawaiians in Hawaii and those on the mainland.
+NHOPIs share the same burden of common cancers such as 
+prostate, breast, lung, and CRC as NH whites, but they also bear 
+higher risks from cancers including stomach, liver, and uterus. 
+These patterns are consistent with previous findings (23,27–28).
+We observed that female breast cancer incidence trends 
+increased during the 1990s, then decreased afterward among Native 
+Hawaiians but continued to rise among Samoans and Guamanians/
+Figure 1.  Trends of age-adjusted incidence rates and annual percentage 
+change (APC) by racial/ethnic group for the five most common cancers 
+among males, 1990–2008. A) Trends for non-Hispanic whites are shown. 
+The 95% confidence intervals are as follows: All Sites segment 1: –0.8 to 
+10.2, segment 2: –9.4 to 0.3, segment 3: –1.0 to 2.2, segment 4: –1.5 to –0.4; 
+Prostate segment 1: 1.1 to 38.1, segment 2: –25.1 to 2.0, segment 3: –2.8 to 
+7.7, segment 4: –3.8 to –0.6; Lung: –2.0 to –1.8; CRC segment 1: –3.4 to –2.4, 
+segment 2: –1.0 to 3.5, segment 3: –3.2 to –2.8; NHL: 0.2 to 0.6; Liver: 3.5 
+to 4.2; Stomach: –2.5 to –2.1 . B) Trends for Native Hawaiians are shown. 
+The 95% confidence intervals are as follows: All Sites segment 1: –0.7 to 
+2.1, segment 2: –4.3 to –1.1; Prostate: –1.7 to 0.9; Lung: –3.3 to –1.3; CRC: 
+–2.2 to 0.5; NHL: –4.0 to 2.2; Stomach: –6.0 to –1.6. C) Trends for Samoans 
+are shown. The 95% confidence intervals are as follows: All Sites: –1.9 
+to 1.2; Prostate: –2.0 to 3.8; Lung: –3.4 to 0.9; CRC: –5.7 to 6.6; Liver: –4.6 
+to 2.6; Stomach: –21.1 to 3.1. *Statistically significantly different APCs. 
+†Joinpoint and observed rates are based on 2-year groups (1990–1991, 
+1992–1993, ..., 2004–2005, 2006–2007, 2008). ‡Joinpoint and observed 
+rates are based on five-year groups (1990–1994, 1995–1999, 2000–2004, 
+2005–2008). CRC = colon and rectum, Liver = liver and intrahepatic bile 
+duct, Lung = lung and bronchus, NHL = non-Hodgkin lymphoma.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1092  Articles  |  JNCI
+Chamorros. Similar increases in breast cancer incidence during 
+1991–1996 have been reported by the Multiethnic Cohort (MEC) 
+study (29). A subsequent decline in breast cancer incidence rates 
+among Native Hawaiians was reported in the population-based can-
+cer surveillance system in Hawaii (23), as well as within the MEC 
+database (personal communication with LR Wilkens, February 2, 
+2013). Because the MEC is a cohort, incidence rates can be com-
+puted within the cohort; no external population estimates are 
+required. Thus, the comparability between our findings and the 
+MEC trends gave us confidence in our findings. Such changes in 
+breast cancer trends may be attributable to the change in preva-
+lence of breast cancer risk factors among Native Hawaiian women, 
+who in recent years displayed reduced smoking and drinking preva-
+lence and higher utilization of physical exams and screening (30–
+31). Challenges with regard to knowledge, attitude, and recently 
+improved access to breast cancer screening among the Samoan and 
+Guamanian/Chamorro communities may underlie the rising breast 
+cancer trends in these populations (32–35).
+The declining incidence trends in lung and stomach cancers 
+among Native Hawaiians and Samoans parallel national (36) and 
+local (23) trends that were accompanied by reductions in smoking 
+prevalence (37). Rising trends in prostate, breast, uterine, and CRC 
+cancers among Samoans and Guamanians/Chamorros warrant 
+focused attention. These cancers are frequently associated with 
+obesity, especially later in life (38–39). Obesity is highly prevalent 
+in NHOPI populations (39–41).
+When examined separately by geographic location, we found 
+that Native Hawaiians living in Hawaii experienced higher risks 
+for lung, breast, and uterus cancers, but lower risks for CRC and 
+prostate cancers, as compared to the Native Hawaiians living on 
+the US mainland. These geographic differences in cancer rates 
+for Native Hawaiians have not been previously reported. In a dif-
+ferent type of comparison, an earlier study compared the relative 
+risk for several cancers between Samoans and Native Hawaiians 
+living in Los Angeles vs in Hawaii and found different patterns 
+by geography (42). There may well be a web of demographic, 
+Figure 2.  Trends of age-adjusted incidence rates and annual percent-
+age change (APC) by racial/ethnic group for the five most common can-
+cers among females, 1990–2008. A) Trends for non-Hispanic whites are 
+shown. The 95% confidence intervals are as follows: All Sites segment 
+1: –1.2 to 0.6, segment 2: –0.1 to 2.8, segment 3: –0.7 to –0.2; Breast seg-
+ment 1: –2.0 to 1.3, segment 2: 0.3 to 3.4, segment 3: –3.3 to –1.1, seg-
+ment 4: –1.9 to 3.4; Lung segment 1: 0.6 to 1.3, segment 2: –0.6 to –0.1; 
+CRC segment 1: –3.0 to –1.4, segment 2: –1.7 to 5.1, segment 3: –2.6 to 
+–2.1; Uterus segment 1: –0.1 to 1.1, segment 2: –4.6 to 0.5, segment 
+3: 0.1 to 2.5; Pancreas segment 1: –0.5 to 0.2, segment 2: 0.7 to 2.1; 
+Stomach: –2.4 to –1.6. B) Trends for Native Hawaiians are shown. The 
+95% confidence intervals are as follows: All Sites segment 1: 0.3 to 3.6, 
+segment 2: –4.3 to –2.4; Breast segment 1: 1.2 to 7.2, segment 2: –5.7 to 
+–2.5; Lung segment 1: –1.6 to 4.3, segment 2: –10.7 to –1.8; Uterus: –1.5 
+to 1.5; CRC: –4.3 to –1.0; Pancreas: –3.4 to 3.2. C) Trends for Samoans 
+are shown. The 95% confidence intervals are as follows: All Sites: –0.1 
+to 2.8; Breast: 0.9 to 4.5; Uterus: 6.2 to 8.4; Lung: –8.1 to 5.7; CRC: –9.1 
+to 22.9; Stomach: –12.5 to –0.5. *Statistically significantly different 
+APCs. †Joinpoint and observed rates are based on two-year groups 
+(1990–1991, 1992–1993, ..., 2004–2005, 2006–2007, 2008). ‡Joinpoint 
+and observed rates are based on five-year groups (1990–1994, 1995–
+1999, 2000–2004, 2005–2008). CRC = colon and rectum, Liver = liver and 
+intrahepatic bile duct, Lung = lung and bronchus, Uterus = corpus uteri 
+and uterus not otherwise specified.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+JNCI  |  Articles  1093
+jnci.oxfordjournals.org
+social, behavioral, cultural, and disease factors at work that may 
+explain the mainland vs Hawaiian differences. Studies have shown 
+that Native Hawaiian migrants experience similar cultural adjust-
+ment as immigrants (43–44). The migration and westernization 
+experience may result in the same dietary changes and health 
+consequences regardless of the diverse NHOPI cultural back-
+grounds (45–46). Alternatively, these patterns may reflect selec-
+tive migration such that healthier individuals are more likely to 
+migrate over less healthy individuals—the “healthy migrant effect” 
+(47–48), or that more highly educated professionals with better 
+health behaviors are more likely to migrate (49–50). Examination 
+of cancer stage distribution by geographic location did not reveal 
+notable differences (data available upon request), suggesting that 
+the observed differences in incidence rates are likely not attribut-
+able to differences in cancer screening practices. Future research 
+designed to understand the causes for this geographic differences 
+will likely provide valuable insights for reducing cancer disparities 
+among Native Hawaiians.
+Our study is not without limitations. The calculation of cancer 
+rates depends on accurate classification of cancer cases into the 
+specific racial/ethnic subgroups and reliable estimates of annual 
+population at risk. In our analysis, we used the SEER data, which 
+represent the highest quality of population-based cancer registry 
+records. However, previous studies have revealed misclassification 
+issues in identifying NHOPI cancer cases in cancer registry data that 
+may slightly affect the incidence rate estimates (51–54). In estimating 
+the population denominators, we also relied on a set of assumptions 
+regarding the population growth based on the decennial census 
+data. Other studies using different population estimates will yield 
+incidence rates that are not directly comparable to our results. To 
+test the effect of adopting the HTR population estimates methods, 
+we employed a sensitivity analysis using population estimates that 
+were free of the HTR adjustment for census undercounts. Using 
+this alternative set of denominators, the observed trends continue 
+to hold (data available upon request). This sensitivity analysis, along 
+with the agreement with MEC data, indicates the robustness of the 
+population estimates used in the study. Furthermore, the exclusion 
+of the 1102 (4.85%) NHOPI cancer cases from our analysis due to 
+lack of specific subgroup designation may have resulted in a slight 
+underestimate of cancer rates for each of the NHOPI subgroups in 
+the study. Different methods and assumptions for identifying Native 
+Hawaiians in hospital records vs populations censuses, as well as 
+between the HTR and mainland SEER registries, may have affected 
+the rate estimates for this group. Therefore, the observed differences 
+in cancer-specific risks between Native Hawaiians living in Hawaii 
+and those living on the US mainland should be interpreted with 
+caution. Furthermore, the relatively small numbers of population 
+and cancer cases for NHOPI in general and for Samoans and 
+Guamanians/Chamorros in particular may cause unstable rate 
+estimates. Due to the small numbers, we could not compare risk 
+difference by geographic location for Samoans and Guamanians/
+Chamorros as we did for Native Hawaiians, even though the 
+Table 4.  Cancer case counts and age-adjusted incidence rates with 95% confidence interval (CI) of the top five cancers among Native 
+Hawaiians by sex, time period, and geographic location*
+Sex
+Rank
+1990–1995
+1996–2001
+2002–2008
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Count
+Rate
+95% CI
+Males
+  All sites
+Hawaii
+1690
+489.3
+(464.4 to 515)
+2077
+509.0
+(486.1 to 532.9)
+2720
+448.0
+(430.7 to 465.8)
+Mainland
+263
+513.5
+(439.3 to 595.1)
+322
+453.0
+(398.2 to 512.9)
+406
+393.0
+(351.9 to 437.2)
+  Prostate
+1
+Hawaii
+324
+108.3
+(96 to 121.5)
+420
+117.0
+(105.5 to 129.2)
+566
+102.7
+(94.2 to 111.6)
+Mainland
+71
+165.0
+(123.5 to 214.2)
+90
+130.7
+(102.3 to 163.8)
+119
+117.1
+(95.7 to 141.5)
+  Lung
+2
+Hawaii
+381
+110.1
+(98.8 to 122.3)
+411
+104.0
+(93.8 to 114.9)
+497
+85.9
+(78.3 to 93.9)
+Mainland
+36
+79.9
+(52 to 115.7)
+49
+72.2
+(51 to 98.2)
+48
+49.2
+(34.7 to 67)
+  CRC
+3
+Hawaii
+197
+57.8
+(49.5 to 67)
+260
+64.7
+(56.7 to 73.4)
+345
+55.4
+(49.5 to 61.7)
+Mainland
+44
+109.0
+(73.8 to 152.9)
+42
+62.8
+(43.1 to 87.4)
+65
+69.9
+(52.2 to 90.9)
+  Stomach
+4
+Hawaii
+84
+26.2
+(20.7 to 32.7)
+81
+20.1
+(15.7 to 25.2)
+84
+14.8
+(11.7 to 18.3)
+Mainland
+†
+†
+†
+13
+24.5
+(12.1 to 42.6)
+12
+13.7
+(6.5 to 24.4)
+  NHL
+5
+Hawaii
+67
+18.4
+(13.8 to 23.9)
+80
+18.0
+(14.1 to 22.6)
+111
+17.5
+(14.3 to 21.2)
+Mainland
+12
+20.2
+(7.8 to 40.8)
+17
+15.3
+(8.7 to 25.5)
+21
+20.0
+(11.5 to 31.7)
+Females
+  All sites
+Hawaii
+1916
+478.8
+(456.7 to 501.7)
+2363
+499.9
+(479.5 to 521)
+3241
+408.8
+(394.7 to 423.1)
+Mainland
+259
+355.7
+(308.2 to 407.9)
+343
+382.2
+(339.4 to 428.5)
+462
+348.7
+(315.6 to 384.1)
+  Breast
+1
+Hawaii
+626
+153.6
+(141.5 to 166.5)
+882
+182.3
+(170.3 to 194.9)
+1125
+142.9
+(134.6 to 151.5)
+Mainland
+95
+121.1
+(95.9 to 150.7)
+128
+133.7
+(109.7 to 161)
+159
+116.2
+(97.9 to 136.7)
+  Lung
+2
+Hawaii
+242
+64.7
+(56.6 to 73.6)
+289
+66.5
+(58.9 to 74.8)
+423
+54.6
+(49.5 to 60.1)
+Mainland
+25
+39.7
+(24.1 to 60.9)
+44
+55.0
+(39 to 74.8)
+43
+36.3
+(25.8 to 49.4)
+  CRC
+3
+Hawaii
+162
+44.7
+(37.8 to 52.3)
+199
+45.2
+(39 to 52)
+246
+31.3
+(27.5 to 35.4)
+Mainland
+23
+34.8
+(20.5 to 54.5)
+37
+43.6
+(30 to 60.9)
+43
+39.6
+(28.1 to 53.8)
+  Uterus
+4
+Hawaii
+160
+38.0
+(32.2 to 44.5)
+183
+36.2
+(31 to 41.9)
+298
+37.7
+(33.5 to 42.2)
+Mainland
+19
+24.0
+(14.1 to 38.3)
+34
+34.4
+(23.1 to 49)
+42
+27.0
+(19.2 to 36.9)
+  Pancreas
+5
+Hawaii
+52
+14.7
+(10.8 to 19.4)
+72
+16.9
+(13.1 to 21.3)
+110
+13.9
+(11.4 to 16.7)
+Mainland
+†
+†
+†
+11
+14.2
+(6.8 to 25.5)
+14
+14.0
+(7.5 to 23.3)
+*	 Rank based on overall rate from 1990 to 2008 for all areas combined. Incidence rates are age-adjusted to the 2000 US standard population and presented for 
+invasive cancers only. Abbreviations: Lung = lung and bronchus; CRC = colon and rectum; NHL = non-Hodgkin lymphoma; Uterus = corpus uteri and uterus, not 
+otherwise specified.
+†	 Data withheld due to cancer case count <10.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1094  Articles  |  JNCI
+majority of these populations covered by SEER registries actually 
+live on the mainland. Continued cancer surveillance and focused 
+study of individual NHOPI subpopulations is not only necessary, 
+but also important.
+In summary, our study provides much-needed disaggregated 
+information regarding the cancer burden and disparities within 
+the NHOPI populations with novel observations that bear impor-
+tant policy implications. Continued effective and targeted cancer 
+control efforts are needed in all NHOPI populations, especially 
+the Samoan and Guamanian/Chamorro communities. We hope 
+the findings will be useful to promote better cancer control pro-
+grams that aim not only at screening, but also culturally sensitive 
+education and outreach in the NHOPI communities and migrants.
+References
+	
+1.	 Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast 
+cancer incidence rates among Asian-American women. Int J Cancer. 
+2002;99(5):747–750.
+	
+2.	 Deapen D, Cockburn M. Trends in Cancer Incidence in Los Angeles County 
+by Race/Ethnicity, 1976–2000. Los Angeles, California: Cancer Surveillance 
+Program; 2003.
+	
+3.	 Gomez SL, Glaser SL, Kelsey JL, Lee MM, Sidney S. Immigration and 
+acculturation in relation to health and health-related risk factors among 
+specific Asian subgroups in a health maintenance organization. Am J Public 
+Health. 2004;94(11):1977–1984.
+	
+4.	 Wang SS, Carreon JD, Gomez SL, Devesa SS. Cervical cancer incidence 
+among 6 asian ethnic groups in the United States, 1996 through 2004. 
+Cancer. 2010;116(4):949–956.
+	
+5.	 Kwong SL, Chen MS, Jr., Snipes KP, Bal DG, Wright WE. Asian sub-
+groups and cancer incidence and mortality rates in California. Cancer. 
+2005;104(12 suppl):2975–2981.
+	
+6.	 Keegan TH, Gomez SL, Clarke CA, Chan JK, Glaser SL. Recent trends in 
+breast cancer incidence among 6 Asian groups in the Greater Bay Area of 
+Northern California. Int J Cancer. 2007;120(6):1324–1329.
+	
+7.	 Raz DJ, Gomez SL, Chang ET, et al. Epidemiology of non-small cell lung 
+cancer in Asian Americans: incidence patterns among six subgroups by 
+nativity. J Thorac Oncol. 2008;3(12):1391–1397.
+	
+8.	 Gomez SL, Quach T, Horn-Ross PL, et al. Hidden breast cancer disparities 
+in Asian women: disaggregating incidence rates by ethnicity and migrant 
+status. Am J Public Health. 2010;100(suppl 1):S125–131.
+	
+9.	 Horn-Ross PL, McClure LA, Chang ET, et al. Papillary thyroid cancer 
+incidence rates vary significantly by birthplace in Asian American women. 
+Cancer Causes Control. 2011;22(3):479–485.
+	 10.	 Liu L, Zhang J, Wu AH, Pike MC, Deapen D. Invasive breast can-
+cer incidence trends by detailed race/ethnicity and age. Int J Cancer. 
+2012;130(2):395–404.
+	 11.	 Srinivasan S, Guillermo T. Toward improved health: disaggregating Asian 
+American and native Hawaiian/Pacific Islander data. Am J Public Health. 
+2000;90(11):1731–1734.
+	 12.	 Hughes CK, Tsark JU, Kenui CK, Alexander GA. Cancer research stud-
+ies in Native Hawaiians and Pacific Islanders. Ann Epidemiol. 2000;10(8 
+suppl):S49–60.
+	 13.	 Hubbell FA, Luce PH, Afeaki WP, et al. Addressing the cancer control 
+needs of Pacific Islanders: experience of the Pacific Islander Cancer 
+Control Network. Pac Health Dialog. 2004;11(2):233–238.
+	 14.	 Humes KR, Jones NA, Ramirez RR. Overview of Race and Hispanic Origin: 
+2010. 2010 Census Briefs, issued March 2011. C2010BR-02, US Census 
+Bureau. 
+http://www.census.gov/prod/cen2010/briefs/c2010br-02.pdf. 
+Accessed September 1, 2012.
+	 15.	 US 
+Census 
+Bureau. 
+The 
+American 
+community—Pacific 
+Islanders, 
+2004. American community survey reports. http://www.census.gov/
+prod/2007pubs/acs-06.pdf. Accessed September 1, 2012.
+	 16.	 Harris PM, Jones NA. We the People: Pacific Islanders in the United States, 
+Census 2000 Special Reports. http://www.census.gov/prod/2005pubs/
+censr-26.pdf. Accessed February 1, 2013.
+	 17.	 National Cancer Institute. Surveillance Epidemiology and End Results. 
+http://seer.cancer.gov/about. Accessed September 1, 2012.
+	 18.	 Johnson CH, ed. SEER program coding and staging manual 2004. NIH 
+Publication number 04-5581. Bethesda, MD: National Cancer Institute; 2004.
+	 19.	 Fritz A, Percy C, Jack A, Shanmugaratnam K, Sobin L, Parkin DM, Whelan 
+S. International Classification of Diseases for Oncology. 3rd ed. Geneva: World 
+Health Organization, 2000.
+	 20.	 Howlader N, Noone AM, Krapcho M, et al., eds. SEER Cancer Statistics 
+Review, 1975–2008. Bethesda, MD: National Cancer Institute. http://seer.
+cancer.gov/csr/1975_2008/, based on November 2010 SEER data submis-
+sion, posted to the SEER web site, 2011.
+	 21.	 Census 2000 Summary File 2. Technical Documentation/prepared by the 
+US Census Bureau, 2001. http://www.census.gov/prod/cen2000/doc/sf2.
+pdf. Accessed on September 1, 2012.
+	 22.	 Miller BA, Kolonel LN, Bernstein L, et al., eds. Racial/Ethnic Patterns of 
+Cancer in the United States 1988–1992. NIH Pub. No. 96–4104. Bethesda, 
+MD: National Cancer Institute; 1996.
+	 23.	 Green, MD, ed. Hawaii Cancer Facts and Figures 2010. http://www.uhcan-
+cercenter.org/research/research-highlightsreports. February 1, 2013.
+	 24.	 Brillinger DR. The natural variability of vital rates and associated statistics. 
+Biometrics. 1986;42:693–734.
+	 25.	 Devesa SS, Donaldson J, Fears T. Graphical presentation of trends in rates. 
+Am J Epidemiol. 1995;141(4):300–304.
+	 26.	 Jatoi I, Anderson WF, Rao SR, Devesa SS. Breast cancer trends among black 
+and white women in the United States. J Clin Oncol. 2005;23(31):7836–7841.
+	 27.	 Miller BA, Chu KC, Hankey BF, Ries LA. Cancer incidence and mortality 
+patterns among specific Asian and Pacific Islander populations in the U.S. 
+Cancer Causes Control. 2008;19(3):227–256.
+	 28.	 Moore MA, Baumann F, Foliaki S, et al. Cancer epidemiology in the Pacific 
+Islands—past, present and future. Asian Pacific J Cancer Prev. 2010;10(Asian 
+Epidemiology suppl):99–106.
+	 29.	 Pike MC, Kolonel LN, Henderson BE, et al. Breast cancer in a multieth-
+nic cohort in Hawaii and Los Angeles: risk factor-adjusted incidence in 
+Japanese equals and in Hawaiians exceeds that in whites. Cancer Epidemiol 
+Biomarkers Prev. 2002;11(9):795–800.
+	 30.	 Maskarinec G, Zhang Y, Takata Y, et al. Trends of breast cancer incidence and 
+risk factor prevalence over 25 years. Breast Cancer Res Treat. 2006;98:45–55.
+	 31.	 Johnson DB, Oyama N, Marchand LL, Wilkens L. Native Hawaiians mor-
+tality, morbidity, and lifestyle: comparing data from 1982, 1990, and 2000. 
+Pac Health Dialog. 2004;11(2):120–130.
+	 32.	 Wu L, Colby E, Iongi-Filiaga A, Maskarinec GG. American Samoan wom-
+en’s health: experiences and attitudes toward breast and cervical cancer 
+screening. Hawaii Med J. 2010; 69(suppl 3):17–20,
+	 33.	 Mishra SI, Aoelua PL, Hubbell FA. Knowledge of and attitudes about can-
+cer among American Samoans. Cancer Detect Prev. 2000;24(2):186–195.
+	 34.	 Ishida DN, Toomata-Mayer TF, Braginsky NS. Beliefs and attitudes of 
+Samoan women toward early detection of breast cancer and mammogra-
+phy utilization. Cancer. 2001;91(suppl 1):262–266.
+	 35.	 Balajadia RG, Wenzel L, Huh J, Sweningson J, Hubbell FA. Cancer-related 
+knowledge, attitudes, and behaviors among Chamorros on Guam. Cancer 
+Detect Prev. 2008;32S:S4–S15.
+	 36.	 Jemal A, Simard EP, Dorell C, et al. Annual report to the nation on the 
+status of cancer, 1975–2009, featuring the burden and trends in HPV-
+associated cancers and HPV vaccination coverage levels. J Natl Cancer Inst. 
+2013;105(3):175–201.
+	 37.	 Maskarinec G, Dhakal S, Pagano I, et al. Ethnic differences in trends and 
+determinants of cigarette smoking in Hawaii. Ethn Dis. 2005;15(2):316–323.
+	 38.	 Stein CJ, Colditz GA. Modifiable risk factors for cancer. Br J Cancer. 
+2004;90:299–303.
+	 39.	 White KK, Park SY, Kolonel LN, Henderson BE, Wilkens LR. Body 
+size and breast cancer risk: the Multiethnic Cohort. Int J Cancer. 
+2012;131:E705–E716.
+	 40.	 Dachs GU, Currie MJ, McKenzie F, et al. Cancer disparities in indigenous 
+Polynesian populations: Maori, Native Hawaiians, and Pacific people. 
+Lancet Oncol. 2008;9:473–484.
+	 41.	 Cassel KD. Using the social-ecological model as a research and interven-
+tion framework to understand and mitigate obesogenic factors in Samoan 
+populations. Ethnic Health. 2010;15(4):397–416.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+
+JNCI  |  Articles  1095
+jnci.oxfordjournals.org
+	 42.	 Mishra SI, Luce-Aoelua P, Wilkens LR, Bernstein L. Cancer among 
+American-Samoans: site-specific incidence in California and Hawaii. Int J 
+Epidemiol. 1996;25(4):713–721.
+	 43.	 Lassetter JH, Callister LC, Miyamoto SZ. Perceptions of health and well-
+being held by Native Hawaiian migrants. J Transcult Nurs. 2012:23(1) 5–13.
+	 44.	 Lassetter JH. The integral role of food in Native Hawaiian migrants’ per-
+ceptions of health and well-being. J Transcult Nurs. 2011;22(1):63–70.
+	 45.	 Fitzpatrick-Nietschmann J. Pacific Islanders migration and health. West J 
+Med. 1983;139:848–853.
+	 46.	 Ulijaszek S. Modernisation, migration and nutritional health of Pacific 
+Island populations. Environ Sci. 2005;12(3):167–176.
+	 47.	 Choi SH. Testing healthy immigrant effects among later life immi-
+grants in the United States: using multiple indicators. J Aging Health. 
+2012;24(3):457–506.
+	 48.	 Argeseanu CS, Ruben JD, Narayan KM. Health of foreign-born people in 
+the United States: a review. Health Place. 2008;14(4):623–635.
+	 49.	 Nguyen V, Sadler GR, Shi M, et al. Cancer risk factor assessment among 
+Chamorro women. J Cancer Educ. 2003;18(2):100–106.
+	 50.	 Cruz ALH, Chung W, Huh J, et  al. Breast cancer screening among 
+Chamorro women in California. Cancer Detect Prev. 2008;32S:S16–S22.
+	 51.	 Gomez SL, Le GM, West DW, Satariano WA, O’Connor L. Hospital 
+policy and practice regarding the collection of data on race, ethnicity, and 
+birthplace. Am J Public Health. 2003;93(10):1685–1688.
+	 52.	 Gomez SL, Satariano W, Le GM, Weeks P, McClure L, West DW. 
+Variability among hospitals and staff in collection of race, ethnicity, birth-
+place, and socioeconomic information in the Greater San Francisco Bay 
+Area. J Reg Management. 2009;36:105–110.
+	 53.	 Boscoe FP, Schymura MJ, Hsieh MC, Williams MA, Henry KA. Issues 
+with the coding of Pacific Islanders in central cancer registries. J Reg 
+Management. 2008;35(2):48–52.
+	 54.	 Liu L, Tanjasiri SP, Cockburn M. Challenges in identifying native 
+Hawaiians and Pacific Islanders in population-based cancer registries in 
+the US. J Immigr Minor Health. 2011;13(5):860–866.
+Funding
+This research was supported by the National Cancer Institute’s SEER Program 
+under contract HHSN261201000035C awarded to the University of Southern 
+California and under contract HHSN261201100412P awarded to one of the 
+authors (BAM). The collection of cancer incidence data used in this study 
+was supported by the California Department of Health Services as part of the 
+statewide cancer reporting program mandated by California Health and Safety 
+Code Section 103885; the National Cancer Institute’s SEER Program under 
+contract HHSN261201000140C awarded to the Cancer Prevention Institute 
+of California, contract HHSN261201000035C awarded to the University of 
+Southern California, and contract HHSN261201000034C awarded to the 
+Public Health Institute; and the Centers for Disease Control and Prevention’s 
+National Program of Cancer Registries, under agreement #1U58 DP000807-01 
+awarded to the Public Health Institute.
+Notes
+The ideas and opinions expressed herein are those of the authors, and endorse-
+ment by the State of California, the California Department of Health Services, 
+the National Cancer Institute, or the Centers for Disease Control and 
+Prevention or their contractors and subcontractors is not intended nor should 
+be inferred.
+Affiliations of authors: Los Angeles Cancer Surveillance Program, University 
+of Southern California, Los Angeles, CA (LL, DD); Surveillance Research 
+Program, Division of Cancer Control and Population Sciences, National Cancer 
+Institute, Bethesda, MD (BAM) (A-MN, BAM); Cancer Prevention Institute of 
+California, Fremont, CA (SLG, DL); Department of Health Research and Policy, 
+School of Medicine, Stanford University, Stanford, CA (SLG); Information 
+Management Services, Silver Spring, MD (SS, JTG); Cancer Registry of 
+Greater California, Sacramento, CA (KF); University of Hawaii Cancer Center, 
+Honolulu, HI (LRW); Cedars-Sinai Medical Center, Los Angeles, CA (MTG); 
+California Cancer Registry, Sacramento, CA (CM, SK).
+Downloaded from https://academic.oup.com/jnci/article/105/15/1086/924080 by PUSAN NATL UNIV (INACTIVE_ user on 09 August 2026
+

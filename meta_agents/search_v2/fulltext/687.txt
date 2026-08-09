@@ -1,0 +1,908 @@
+record_id=687 pmid=15922628 doi=10.1016/j.annepidem.2005.02.006
+SOURCE: manual-pdf
+TITLE: Urbanization and breast cancer incidence in North Carolina, 1995-1999
+
+Urbanization and Breast Cancer Incidence in North Carolina, 1995–1999
+SUSAN A. HALL, PHD, JAY S. KAUFMAN, PHD, ROBERT C. MILLIKAN, PHD,
+THOMAS C. RICKETTS, PHD, DALE HERMAN, MSPH, AND DAVID A. SAVITZ, PHD
+PURPOSE: Breast cancer incidence rates are reported to be higher in urban compared with rural areas in
+the United States. We investigated the relationship between urbanization and breast cancer in North
+Carolina (1995–1999), and considered hospital characteristics as an explanation.
+METHODS: We calculated age-adjusted in situ and invasive female breast cancer incidence rates stratiﬁed
+by race, urbanization (Urban Inﬂuence Codes), and the presence of a hospital with a cancer registry and
+cancer program approval in a county.
+RESULTS: For white women, incidence rate ratios (IRRs) comparing the most urban with the most rural
+counties were 1.60 for in situ and 1.18 for invasive cancer. For non-white women, IRRs were 1.27 and 0.99,
+respectively. IRRs for incidence in registry hospital counties versus those without were all O 1.00 and
+differences were greater for in situ cancer than invasive. For most strata, urban excesses were attenuated
+when further stratiﬁed by registry hospital status.
+CONCLUSIONS: For most strata, we observed excess incidence in urban counties, but it appeared to be
+explained through the urban preponderance of registry hospitals. Counties with these hospitals may have
+higher incidence because of increased detection. Area hospital characteristics should be considered when
+evaluating geographic patterns of breast cancer incidence.
+Ann Epidemiol 2005;15:796–803.
+ 2005 Elsevier Inc.
+All rights reserved.
+KEY WORDS: Neoplasms, Breast, Epidemiology, Urban Health Services, Rural Health Services, Registries,
+North Carolina.
+INTRODUCTION
+Female breast cancer incidence rates have been reported to
+be higher in urban areas compared with rural areas in the
+United States since 1955. Past studies have found urban ele-
+vations with relative risks ranging from 1.06 to 1.83 (1–16).
+Only one estimate showed higher rates in rural areas, among
+African-Americans only (6). The urban excess has also been
+observed among males with breast cancer (17) and among
+females in Canada (18), European countries (17, 19–24),
+Costa Rica (25), and Japan (17).
+Higher rates in urban areas such as Long Island, New
+York, have been used as a justiﬁcation for studying
+environmental pollution as a cause of breast cancer (26).
+Higher urban incidence may be the result of exposures,
+behaviors, or reproductive patterns more common in urban
+areas that elevate risk. However, higher rates in urban areas
+could arise from differential ascertainment due to higher
+rates of detection in urban areas, and consequently, higher
+reported incidence.
+Quality of reporting has been considered as an explana-
+tion for the urban excess of breast cancer in six studies (1–3,
+10–12). Most found that quality in rural areas was poorer by
+their indicator (percent of incident cases found by review of
+death certiﬁcates) (1–3, 10, 12). One study noted a potential
+reporting bias by ‘‘registry hospital,’’ noting that larger
+hospitals reported more completely, but did not conclude
+that this bias explained the urban excess (5). In a 1995 study,
+American hospitals with the largest cancer caseloads were
+found to more completely report their cases to the
+Surveillance, Epidemiology, and End Results (SEER) Pro-
+gram than hospitals with smaller cancer caseloads. Also, the
+percentage of cases missed and unreported to SEER was
+lower for hospital cancer registries compared with case-
+ﬁnding by the central cancer registry for the SEER region
+(27).
+In North Carolina, a greater proportion of urban than
+rural hospitals are certiﬁed by the American College of
+Surgeons’ (ACOS) Commission on Cancer as ‘‘Approved
+Cancer Programs.’’ Such hospitals are required to have an
+in-house cancer registry (28). Our study was undertaken to
+investigate whether breast cancer incidence rates in urban
+From the Department of Epidemiology, School of Public Health,
+University of North Carolina at Chapel Hill, Chapel Hill, NC (S.A.H.,
+J.S.K, R.C.M., D.A.S.); North Carolina Rural Health Research and Policy
+Analysis Center, Cecil G. Sheps Center for Health Services Research,
+School of Public Health, University of North Carolina at Chapel Hill,
+Chapel Hill, NC (T.C.R.); and North Carolina Central Cancer Registry,
+State Center for Health Statistics, Raleigh, NC (D.H.).
+Address correspondence to: Susan A. Hall, Ph.D., Department of
+Epidemiology, School of Public Health, University of North Carolina at
+Chapel Hill, McGavran-Greenberg Hall, Campus Box 7439, Chapel Hill
+NC 27599-7439. Tel.: (919) 966-7439; Fax: (919) 966-2089. E-mail:
+sahall@email.unc.edu
+This work was supported by UNC’s Lineberger Comprehensive Cancer
+Center Pre-Doctoral Fellowship, and a Dissertation Completion Fellowship
+from the Graduate School at UNC-Chapel Hill.
+Received June 28, 2004; accepted February 7, 2005.
+ 2005 Elsevier Inc.
+All rights reserved.
+1047-2797/05/$–see front matter
+360 Park Avenue South, New York, NY 10010
+doi:10.1016/j.annepidem.2005.02.006
+
+areas were higher than in rural areas in North Carolina
+(NC), measuring urbanization using a standardized, non-
+dichotomous scale that accounts for adjacency with
+Metropolitan Areas (29). We hypothesized that the
+presence of a hospital approved by the ACOS’ Commission
+on Cancer in a county would also be related to higher
+incidence, possibly due to greater detection, more complete
+case-ﬁnding, or more complete case reporting.
+MATERIALS AND METHODS
+We conducted an ecologic study of female breast cancer
+incidence in the state of North Carolina, using county as the
+unit of analysis. Our study was approved by the Institutional
+Review Board of the School of Public Health at the
+University of North Carolina at Chapel Hill. We used
+incident case count data supplied by the North Carolina
+Central Cancer Registry; incident cases were North
+Carolina resident women with a ﬁrst case of invasive or in
+situ breast cancer diagnosed between January 1995 and
+December 1999. For the purposes of this study, breast cancer
+incidence always refers to detected cases of breast cancer, not
+the true incidence of all cases.
+Cancer registry data included age, race, county of
+patient’s residence at diagnosis, year of diagnosis, and stage
+at diagnosis. There were 28,830 cases of breast cancer over
+the study years. We excluded 841 (2.9%) women with
+missing data on race (75), stage at diagnosis, (777), or both
+(11), leaving 27,989 cases for analysis. We stratiﬁed on race
+as the incidence of breast cancer is known to vary by race
+(30). Race was either self-reported or health-care-provider
+recorded; collection methods varied by county and facility.
+We used yearly population estimates provided by the State
+Demographer in order to calculate race and stage-speciﬁc
+incidence rates, averaged over the 5-year period. Rates were
+age-adjusted by the direct method to the year 2000 U.S.
+Standard Population and expressed per 100,000 women of
+the same race. Races were grouped as white and non-white,
+as reliable population denominators from the U.S. Census
+for smaller racial groups (in our data, American Indians and
+Asians) were not considered by the National Program of
+Cancer Registries to be reliable (31). We combined these
+groups with non-whites so that they could still contribute to
+the analysis although they accounted for less than 1% of all
+cases. Stage-speciﬁc rates were calculated as in situ and
+invasive (deﬁned as localized, regional, and distant stage
+combined).
+Urbanization level was measured using the county’s 1993
+Urban Inﬂuence Code (UIC) based on the 1990 U.S.
+Census. This nine-level scale deﬁnes non-Metropolitan
+counties by their adjacency or non-adjacency to a Metro-
+politan Area, and the size of the largest communities within
+them (29). This scale is particularly useful for health
+research as the size of the largest town often deﬁnes whether
+hospitals are located within them, and adjacency may
+inﬂuence access to care (32). We used the full scale and
+a scale grouped as follows: 1–2 Z Metropolitan Area;
+3–6 Z Non-Metropolitan, adjacent to a Metropolitan
+Area; and 7–9 Z Non-Metropolitan, non-adjacent to a
+Metropolitan Area. Our rationale for this grouping was the
+assumption that among non-Metropolitan counties, non-
+adjacency to a Metropolitan Area may represent reduced
+availability of health care services for residents in these areas
+compared with non-Metropolitan, adjacent areas. The UIC
+deﬁnition takes into account Metropolitan Areas in
+adjacent states in their assignment of metropolitan status.
+Rates were calculated for the entire state and for counties
+grouped by urbanization level. Incidence rate ratios (IRRs)
+were calculated comparing the most urban to the most rural
+group, and the most urban to the second most rural group.
+Because our study uses reported incidence and is not based
+on sampling of the NC population in the speciﬁed period,
+every reported case is (theoretically) captured. Thus, we
+did not calculate conﬁdence intervals (which represent
+sampling variability) for our rates or proportions (33).
+We also considered incidence rates by hospital type
+(having a hospital-based registry, or not), race, stage and
+grouped UIC. The presence of a hospital-based registry in
+a county was determined by whether or not any hospital(s)
+in a county was approved by the ACOS’ Commission on
+Cancer in 2002 (28). Such hospitals were designated
+‘‘registry hospitals’’ in this analysis, and each North Carolina
+county (N Z 100) was assigned a yes/no variable indicating
+its presence. A county map was created that included the
+simultaneous geographic distribution of urbanization level
+(grouped UIC) and registry hospital status for each county
+(34). IRRs and incidence rate differences between registry
+and non-registry counties were calculated. We used the non-
+parametric Wilcoxon’s rank sum to test the null hypothesis
+that registry and non-registry rates were a random partition
+of the same underlying distribution of rates.
+RESULTS
+Incidence Rates
+For the state of North Carolina, the rate of average annual
+age-adjusted in situ breast cancer incidence for 1995 to 1999
+Selected Abbreviations and Acronyms
+SEER Z Surveillance, Epidemiology, and End Results Program
+ACOS Z American College of Surgeons
+NC Z North Carolina
+UIC Z Urban Inﬂuence Code
+IRR Z incidence rate ratio
+AEP Vol. 15, No. 10
+Hall et al.
+November 2005: 796–803
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+797
+
+was 22.5 per 100,000 for white women and 18.2 per 100,000
+for non-white women. For invasive breast cancer, incidence
+rates were 118.2 and 104.6 for whites and non-whites,
+respectively. Considering rates by urbanization level, stage,
+and race, the highest rates among white women for in situ
+breast cancer were in the two most urban categories and the
+lowest rates were observed in the two most rural UICs
+(Table 1). Non-white women also had the highest in situ
+rates in the two most urban counties, but the lowest rates
+occurred in the middle of the scale. For invasive breast
+cancer, there was no consistent relationship with urbaniza-
+tion for either race across the full UIC scale.
+Using rates aggregated over the grouped urbanization
+scale, in situ breast cancer incidence rates were highest in the
+most
+urbanized
+counties
+among
+whites
+(IRR Z 1.60
+comparing most urban with most rural) and among non-
+whites (IRR Z 1.27 for the same comparison). Invasive
+breast cancer rates were higher in the most urban counties
+for whites (IRR Z 1.18 comparing most urban with most
+rural) but not non-whites (IRR Z 0.99 for the same
+comparison).
+Registry Hospital Analysis
+Registry hospitals were more likely to be located in
+Metropolitan counties (Fig. 1). As of 2002, there were 31
+ACOS certiﬁed registry hospitals in North Carolina, and 21
+(67.7%) were Metropolitan in location. Eight (25.8%) of
+the registry hospitals were in non-Metropolitan, adjacent
+counties, and only two (6.5%) were in the most rural
+counties.
+We observed higher in situ breast cancer incidence rates
+in counties with registry hospitals compared with counties
+without registry hospitals (Table 2). IRRs were 1.48
+(comparing registry to non-registry county) for whites and
+1.53 for non-whites, considering all of North Carolina.
+Patterns were similar for invasive breast cancer, although
+differences were of smaller magnitude than for in situ disease
+(IRRs Z 1.25 for whites and 1.18 for non-whites). For both
+in situ and invasive incidence in both racial groups, the
+excess persisted in analyses stratiﬁed by urbanization level
+(UIC groups).
+Urban/Rural DifferencesdExplained by
+Registry Hospitals?
+We then considered whether the urban excesses in
+incidence observed in most of our strata could be explained
+by the greater predominance of registry hospitals in urban
+areas. We observed that registry hospitals were related to
+both urbanization and higher incidence. Therefore, we
+recalculated our urban/rural incidence comparisons within
+strata of registry hospital status in order to observe if the
+relationship existed within the strata. The previously
+observed, overall most urban to most rural rate ratio is
+followed by the same comparison within strata of counties
+aggregated according to whether they had a registry hospital,
+or not (Table 3).
+TABLE 1. Age-adjusted* average annual in situ and invasive breast cancer incidence rates per 100,000 women, 1995–1999,
+by race and Urban Inﬂuence Code of North Carolina county, N Z 100
+Whites
+Non-whites
+UIC
+In situ rate
+Invasive rate
+In situ rate
+Invasive rate
+Most urban 1
+26.2
+116.6
+20.3
+91.0
+2
+23.9
+124.8
+20.8
+111.9
+3
+18.6
+105.5
+14.2
+96.1
+4
+18.0
+125.6
+12.8
+107.1
+5
+20.9
+124.2
+11.4
+98.1
+6
+20.3
+109.2
+15.7
+97.3
+7
+21.2
+118.6
+18.5
+119.2
+8
+13.7
+99.6
+13.5
+100.8
+Most rural 9
+12.4
+98.8
+16.5
+100.9
+Grouped UICs
+In situ rate
+(No. of cases)
+Invasive rate
+(No. of cases)
+In situ rate
+(No. of cases)
+Invasive rate
+(No. of cases)
+Metropolitan 1–2
+24.5 (2,534)
+122.7 (12,932)
+20.7 (502)
+107.3 (2,664)
+Non-metropolitan
+adjacent 3–6
+20.1 (854)
+112.0 (4,793)
+13.7 (173)
+97.9 (1,250)
+Non-metropolitan,
+non-adjacent 7–9
+15.3 (241)
+104.0 (1,623)
+16.3 (56)
+108.0 (367)
+Rate ratio (1–2 vs. 7–9)y
+1.60
+1.18
+1.27
+0.99
+Rate ratio (1–2 vs. 3–6)z
+1.22
+1.10
+1.51
+1.10
+*Age-adjusted to the year 2000 U.S. Standard Population.
+yRate ratios for the metropolitan (groups 1–2) versus the non-metropolitan, non-adjacent (groups 7–9).
+zRate ratio for the metropolitan (groups 1–2) versus non-metropolitan adjacent (groups 3–6).
+Hall et al.
+AEP Vol. 15, No. 10
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+November 2005: 796–803
+798
+
+For in situ breast cancer among whites, the previously
+observed urban/rural ratio (1.60) disappeared in counties
+with registry hospitals (RR Z 1.02). Counties without
+registry hospitals still showed an urban excess (1.30). For
+non-white women, the previously observed urban excess
+(IRR Z 1.27)
+was
+essentially
+null
+in
+the
+presence
+(IRRs Z 0.98) and absence (IRR Z 1.00) of a registry
+hospital, suggesting the presence of a registry hospital fully
+explained the urban-rural difference in non-white in situ
+rates.
+For invasive breast cancer among whites, urban/rural rate
+ratios within strata of registry hospital were 1.07 and 1.02, as
+compared to the originally observed IRR of 1.18. Among
+non-whites, there had been no relationship between ur-
+banization and invasive incidence (0.99), but the stratum-
+speciﬁc rate ratios showed inverse associations with urban
+residence in the presence of a registry hospital (0.85) and in
+its absence (0.80). For these non-white women, registry
+hospitals appeared to mask higher rural rates of invasive
+disease.
+DISCUSSION
+We conducted an ecologic study to determine if an urban
+excess of breast cancer incidence was present in North
+Carolina for our study years, and, if so, to consider the role of
+hospital characteristics as a potential explanation. We
+found that greater urbanization, as represented by the
+grouped UIC, was related to higher in situ breast cancer
+incidence in white and non-white women and higher
+invasive incidence among white women but not non-white.
+FIGURE 1. Distribution of grouped urban inﬂuence codes (UICs)* and number of American College of Surgeons certiﬁed registry
+hospitals, North Carolina, 2002.
+AEP Vol. 15, No. 10
+Hall et al.
+November 2005: 796–803
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+799
+
+Both invasive and in situ breast cancer incidence rates for
+both races were elevated among counties with registry
+hospitals, and with the exception of in situ disease among
+whites, urban elevations in rates were attenuated within
+strata deﬁned by the presence of registry hospitals.
+We are aware of no prior studies that consider breast
+cancer incidence by hospital characteristics. Variation in
+breast cancer incidence by urbanization level has not been
+previously studied in North Carolina, a state with a relatively
+large rural population (ranked sixth in the nation by the
+Census for proportion rural in 1990) (35). Prior ecologic
+studies of cancer incidence have varied with respect to the
+measurement of urbanization. Many American studies
+considered incidence as a function of population density,
+or have used a dichotomous deﬁnition of urban and rural
+areas (1–7, 9–11, 14, 36). Population density may perform
+poorly as a proxy for urbanization in large counties with
+a locus of population clustered around a single city (37),
+while dichotomous deﬁnitions may poorly capture hetero-
+geneity within rural areas (32, 38). A recent study of cancer
+incidence using cancer registry data in Texas found residual
+heterogeneity within non-Metropolitan Area rates when
+non-dichotomous urbanization scales such as the UIC or the
+similar Urban-Rural Continuum Code were applied (39).
+Our use of a non-dichotomous measure also revealed
+unique racial patterns in incidence at the very rural end of
+the scale. Among non-white women, invasive incidence
+was highest in the most rural UIC groups compared with the
+other two groups. Also, although white incidence exceeded
+non-white incidence generally in this study, non-white
+incidence was higher than white incidence only in most
+rural UIC group, for both stages. Compared with urban non-
+whites, rural non-whites are of lower socioeconomic status
+in North Carolina (40). We hypothesize that these rural
+women may have especially beneﬁted from federal funding
+programs for screening of low-income women in the 1990s,
+reﬂected in a ‘‘catch-up’’ in rural incidence rates (41).
+We observed that incidence in counties with registry
+hospitals was higher than incidence in counties without
+registry hospitals for all of our strata, although some rates
+were based on small case counts. The presence of a registry
+hospital may be a marker for availability of health care
+TABLE 2. Age-adjusted* average annual county-speciﬁc breast cancer in situ and invasive breast cancer incidence rates per 100,000
+women, North Carolina, 1995–1999, and case counts, by race, presence of registry hospital and Urban Inﬂuence Code (grouped)
+Group, urbanization level
+With registry
+hospital rate
+(No. of cases)
+Without rate
+(No. of cases)
+Rate difference
+Incidence
+rate ratio
+Wilcoxon rank
+sum test p value
+All counties
+27 counties
+73 counties
+In situ
+Whites
+26.1 (2440)
+17.6 (1189)
+8.5
+1.48
+!0.0001
+Non-whites
+21.4 (490)
+14.0 (241)
+7.4
+1.53
+!0.01
+Invasive
+Whites
+129.2 (12271)
+103.1 (7077)
+26.1
+1.25
+!0.0001
+Non-whites
+111.6 (2618)
+94.8 (1663)
+16.8
+1.18
+0.04
+Metropolitan counties
+17 counties
+18 counties
+In situ
+Whites
+26.9 (2015)
+18.0 (519)
+8.9
+1.49
+!0.01
+Non-whites
+22.0 (435)
+15.1 (67)
+6.9
+1.46
+0.07
+Invasive
+Whites
+131.2 (9946)
+102.1 (2986)
+29.1
+1.29
+!0.001
+Non-whites
+112.5 (2280)
+84.0 (384)
+28.5
+1.34
+!0.01
+Non-metropolitan adjacent
+8 counties
+31 counties
+In situ
+Whites
+21.6 (357)
+18.9 (497)
+2.7
+1.14
+0.14
+Non-whites
+16.1 (42)
+13.1 (131)
+3.0
+1.23
+0.07
+Invasive
+Whites
+119.0 (1993)
+105.9 (2800)
+13.1
+1.12
+0.07
+Non-whites
+100.4 (266)
+96.7 (984)
+3.7
+1.04
+0.89
+Non-metropolitan, non-adjacent
+2 counties
+24 counties
+In situ
+Whites
+26.4 (68)
+13.8 (173)
+12.6
+1.91
+0.08
+Non-whites
+22.4 (13)
+15.1 (43)
+7.3
+1.48
+0.80
+Invasive
+Whites
+123.0 (332)
+100.2 (1291)
+22.8
+1.23
+0.18
+Non-whites
+132.2 (72)
+104.7 (295)
+27.5
+1.26
+0.08
+*Age-adjusted to the year 2000 U.S. Standard Population.
+Hall et al.
+AEP Vol. 15, No. 10
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+November 2005: 796–803
+800
+
+services. We found that that physician density was also
+higher in urban counties and counties with a registry
+hospital (data not shown). Registry hospitals are required to
+have mammography available in-house or by referral, and
+mammography must meet the standards set by the American
+College of Radiology or the State Public Health Department
+(28). The magnitude of the differences between registry and
+non-registry hospital rates we observed was larger for in situ
+than invasive cancers. However, these hospitals may also
+ascertain and report cases more completely, so it is difﬁcult
+to know if either or both explanations can account for the
+registry/non-registry incidence difference.
+It is possible that the presence of staff dedicated to
+reporting cases in registry hospitals may result in more
+complete case-ascertainment and/or more complete report-
+ing of cases ascertained than non-registry hospitals. For
+example, registry hospitals may be more likely to report cases
+that are patients of staff physicians, but diagnosed and
+treated outside the hospital setting. We cannot know this
+deﬁnitively, however, without access to proprietary data
+speciﬁcally containing results of studies of case ﬁnding and
+completeness of reporting in registry and non-registry
+hospitals.
+There are other possible explanations for the excess
+incidence of breast cancer in registry hospital counties.
+Registry hospitals and their certiﬁcation by the American
+College of Surgeons may attract more cancer patients for
+care and treatment. These patients may give the address of
+a friend or family member in the same county as the hospital
+when traveling from rural counties, and this local, more
+urban, address becomes associated with the case and
+ultimately reﬂected in the incidence statistic. We are aware
+of no published studies of county of diagnosis of breast
+cancer versus patient’s county of residence to inform this
+hypothesis. One unpublished analysis completed in the early
+1990s of women in 39 North Carolina counties in the
+central and eastern part of the state (that did not share
+a border with another state) found that 26% of women with
+breast cancer were diagnosed outside their county of
+residence. In addition, the six counties that received the
+highest proportion of cases from outside their county were
+located in Metropolitan Areas (42). This supports the idea
+that some women may travel from a non-Metropolitan
+county to a Metropolitan county for diagnosis. The
+expansion of ambulatory surgery centers in North Carolina
+in the 1990s, however, has facilitated outpatient treatment
+and diagnosis of breast cancer at a more local level, possibly
+reducing the need for travel. Due to patient conﬁdentiality
+we have no individual-level data in this analysis that would
+allow us to consider the accuracy of patient address.
+Women in counties with registry hospitals may have
+higher breast cancer risk due to a different distribution of
+risk factors in those counties. For example, women living
+near major urban academic centers such as Raleigh-
+Durham-Chapel Hill, the ‘‘Research Triangle,’’ may have
+lower parity and later age at ﬁrst full-term pregnancy than
+urban women elsewhere in North Carolina. We considered
+a county-level variable estimating parity (the mean number
+of children ever born to women aged 35–44 years) and found
+it was lower in registry hospital counties (1.8) versus
+counties without (2.0), suggesting that risk factors may
+indeed differ (43). This relationship held within grouped
+urbanization level. We also considered an ecologic measure
+of socioeconomic status, but did not ﬁnd that the proportion
+of
+persons
+living
+in
+poverty
+varied
+consistently
+by
+urbanization level and registry hospital status (44). It is
+unknown which of the possible explanations presented
+above may account for our observations; it is possible that all
+are functioning simultaneously making it difﬁcult to isolate
+the relative contribution of a single explanation. There may
+be additional unmeasured variables that are not captured by
+our study. Among whites for in situ disease, an excess
+incidence associated with the most urban counties persisted
+after stratiﬁcation by hospital type, and remains unex-
+plained in our analysis.
+A limitation of these analyses is that the registry status of
+each hospital is known only for 2002; exact certiﬁcation
+dates are held in conﬁdence by the ACOS, so misclassiﬁ-
+cation of registry hospital status over the study period is
+possible. Over the study period, urbanization has increased
+in North Carolina by population in-migration to Metro-
+politan Areas (45). The most recently available 1993 UICs
+TABLE 3. Urban/rural* in situ and invasive breast cancer
+age-adjusted incidence ratey ratio comparisons within strata
+of county’s registry hospital status, North Carolina, 1995–1999
+Rate
+Overall
+With registry
+hospital
+Without
+In situ breast cancer
+Whites
+Most urban rate
+24.5
+26.9
+18.0
+Most rural rate
+15.3
+26.4
+13.8
+Rate ratio
+1.60
+1.02
+1.30
+Non-whites
+Most urban rate
+20.7
+22.0
+15.1
+Most rural rate
+16.3
+22.4
+15.1
+Rate ratio
+1.27
+0.98
+1.00
+Invasive breast cancer
+Whites
+Most urban rate
+122.7
+131.2
+102.1
+Most rural rate
+104.0
+123.0
+100.2
+Rate ratio
+1.18
+1.07
+1.02
+Non-whites
+Most urban rate
+107.3
+112.5
+84.0
+Most rural rate
+108.0
+132.2
+104.7
+Rate ratio
+0.99
+0.85
+0.80
+*Urban Z Urban Inﬂuence Codes 1–2; rural Z Urban Inﬂuence Codes 7–9.
+yAge-adjusted to the year 2000 U.S. Standard Population.
+AEP Vol. 15, No. 10
+Hall et al.
+November 2005: 796–803
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+801
+
+are based on the 1990 Census, so the degree of urbanization
+in our study may be inaccurate. If rural areas were more
+urban than we have measured, then the differences we
+observed would be attenuated. However, most of the
+population gain over this period was in areas already
+classiﬁed as urban, so such migration should not greatly
+change our estimates (45).
+Our results call for further examination of the role of the
+health care availability when evaluating geographic pat-
+terns of breast cancer incidence. The explanatory factors
+behind higher incidence in the presence of a registry
+hospital are unknown, but could include more complete
+reporting due to the presence of the in-house cancer registry
+and differentially greater detection due to mammographic
+screening. Closer study of the exact mechanism(s) by which
+registry hospitals increase incidence is warranted. We
+suggest that urban excesses in reported breast cancer in
+other states may be explained by simple disparities in
+health care availability, a readily testable hypothesis.
+This approach may be a cost-effective ﬁrst step towards
+understanding geographic patterns of incidence before
+embarking on more costly biologic exposure studies.
+We thank Carol Dickinson, C.T.R, and Judy Robertson, C.T.R, for
+reading and commenting on this manuscript. We thank Beth Newman,
+Ph.D., for her comments on this research. We also thank the staff of the
+NC Central Cancer Registry and Lina Patel-Parekh, M.H.A, of the
+American College of Surgeons for their assistance.
+REFERENCES
+1. Griswold M, Wilder C, Cutler S, Pollack E. Cancer in Connecticut, 1935-
+1951. Hartford: Connecticut State Department of Health; 1956.
+2. Haenszel W, Marcus S, Zimmerer E. Cancer Morbidity in Urban and Rural
+Iowa. Washington, DC: U.S. Government Printing Ofﬁce; 1956.
+3. Levin ML, HW, Carroll BE, Gerhardt PR, Handy VH, Ingraham SC.
+Cancer incidence in urban and rural areas of New York State. J Natl
+Cancer Inst. 1960;24:1245–1257.
+4. Higginbotham J, Moulder J, Currier M. Rural v. urban aspects of cancer:
+First-year data from the Mississippi Central Cancer Registry. Fam
+Community Health. 2001;24:1–9.
+5. Howe H, Keller J, Lehnherr M. Relation between population density and
+cancer incidence, Illinois, 1986-1990. Am J Epidemiol. 1993;138:29–36.
+6. Risser D. Cancer incidence and mortality in urban versus rural areas of
+Texas, 1980 through 1985. Tex Med. 1996;92:58–61.
+7. Melton L, Brian D, Williams R. Urban-rural differential in breast cancer
+incidence and mortality in Olmsted County, Minnesota, 1935-1974. Int J
+Epidemiol. 1980;9:155–158.
+8. Lyon J, Gardner J, West D. Cancer in Utah: Risk by religion and place of
+residence. J Natl Cancer Inst. 1980;65:1063–1071.
+9. Pawlega J, Wallace R. Nutrition and age at ﬁrst birth in breast-cancer risk.
+Br J Cancer. 1980;41:941–945.
+10. Nasca P, Mahoney M, Wolfgang P. Population density and cancer
+incidence differentials in New York State, 1978-82. Cancer Causes
+Control. 1992;3:7–15.
+11. Nasca P, Burnett W, Greenwald P, Brennan K, Wolfgang P, Carlton K.
+Population density as an indicator of urban-rural differences in cancer
+incidence, upstate New York, 1968-1972. Am J Epidemiol. 1980;112:
+362–375.
+12. Greenberg R, Stevens J, Whitaker J. Cancer incidence rates among blacks
+in urban and rural Georgia, 1978-82. Am J Public Health. 1985;75:683–
+684.
+13. Chen VW, Groves FD, Fontham ET, Craig JF, Ranier AS, Culley P, et al.
+Cancer in south Louisiana. Part III: Cancers of the breast and the
+reproductive system. J La State Med Soc. 1992;144:171–177.
+14. Prehn A, West D. Evaluating local differences in breast cancer incidence
+rates: A census-based methodology (United States). Cancer Causes
+Control. 1998;9:511–517.
+15. Gregorio DI, Kulldorff M, Barry L, Samociuk H. Geographic differences in
+invasive and in situ breast cancer incidence according to precise
+geographic coordinates, Connecticut, 1991-95. Int J Cancer. 2002;100:
+194–198.
+16. Weiss H, Soong S, Partridge E, Carpenter J, Bryant B, Waterbor J. Cancer
+incidence among predominantly black, rural-poor populations in southern
+states. South Med J. 1997;90:986–992.
+17. Roginski C. Comparison of urban and rural incidence data. In: IARC, ed.
+Cancer Incidence in Five Continents. Lyon: World Health Organization;
+1987: 786.
+18. Bako G, Dewar R, Hanson J, Hill G. Population density as an indicator of
+urban-rural differences in cancer incidence, Alberta, Canada, 1969–73.
+Can J Public Health. 1984;75:152–156.
+19. Clemessen J, Nielsen A. Comparison of age-adjusted cancer incidence
+rates in Denmark and the United States. J Natl Cancer Inst. 1957;19:
+989–998.
+20. Valerianova Z, Gill C, Duffy S, Danon S. Trends in incidence of various
+cancers in Bulgaria, 1981-1990. Int J Epidemiol. 1994;23:1117–1126.
+21. Schouten L, Meijer H, Huveneers J, Kiemeney L. Urban-rural differences
+in cancer incidence in The Netherlands 1989-1991. Int J Epidemiol.
+1996;25:729–736.
+22. Hakama M, Soini I, Kuosma E, Lehtonen M, Aromaa A. Breast cancer
+incidence: Geographical correlations in Finland. Int J Epidemiol. 1979;
+8:33–40.
+23. Wronkowski Z, Bielska-Lasota M, Zielinki J, Romejko M. Striking
+differences in the epidemiological picture of breast cancer in urban and
+rural areas in Poland. Eur J Gynaecol Oncol. 1993;14(suppl.):179–193.
+24. Friis S, Storm H. Urban-rural variation in cancer incidence in Denmark
+1943-1987. Eur J Cancer. 1993;29A:538–544.
+25. Wesseling
+C, Antich
+D, Hogstedt
+C, Rodriguez
+A,
+Ahlbom
+A.
+Geographical differences of cancer incidence in Costa Rica in relation
+to environmental and occupational pesticide exposure. Int J Epidemiol.
+1999;28:365–374.
+26. Gammon MD, Neugut AI, Santella RM, Teitelbaum SL, Britton JA, Terry
+MB, et al. The Long Island Breast Cancer Study Project: Description of
+a multi-institutional collaboration to identify environmental risk factors
+for breast cancer. Breast Cancer Res Treat. 2002;74:235–254.
+27. Zippin C, Lum D, Hankey BF. Completeness of hospital cancer case
+reporting from the SEER Program of the National Cancer Institute.
+Cancer. 1995;76:2343–2350.
+28. American College of Surgeons Commission on Cancer Approvals
+Program.
+2002.
+Available
+at:
+http://web.facs.org/cpm/CPMApproved
+Hospitals_Search.htm. Accessed September 1, 2002.
+29. ERS/USDA Brieﬁng Room - Measuring Rurality: Urban Inﬂuence Codes.
+2001. Available at: http://www.ers.usda.gov/brieﬁng/rurality/UrbanInf/.
+Accessed December 17, 2001.
+30. Kelsey JL, Gammon MD. The epidemiology of breast cancer. CA Cancer
+J Clin. 1991;41:146–165.
+31. Wingo PA, Jamison PM, Hiatt RA, Weir HK, Gargiullo PM, Hutton M,
+et al. Building the infrastructure for nationwide cancer surveillance and
+control-a comparison between the National Program of Cancer Registries
+Hall et al.
+AEP Vol. 15, No. 10
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+November 2005: 796–803
+802
+
+(NPCR) and the Surveillance, Epidemiology, and End Results (SEER)
+Program (United States). Cancer Causes Control. 2003;14:175–193.
+32. Ricketts T, Johnson-Webb K, Taylor P. Deﬁnitions of rural: A handbook
+for health policy makers and researchers. Washington: US Department of
+Health and Human Services; 1998.
+33. Greenland S. Randomization, statistics, and causal inference. Epidemiol-
+ogy. 1990;1:421–429.
+34. ESRI. ArcView, v. 8.0. Redlands, CA: ESRI; 2002.
+35. U.S. Bureau of the Census. 1990 Census of Population and Housing,
+Housing and Population Unit Counts. Washington, D.C.: U.S. Govern-
+ment Printing Ofﬁce; 1995.
+36. Lyon J, Gardner J, Klauber M, Smart C. Low cancer incidence and
+mortality in Utah. Cancer. 1977;39:2608–2618.
+37. Goodall C, Kafadar K, Tukey J. Computing and using rural versus urban
+measures in statistical applications. American Statistician. 1998;52:
+101–111.
+38. Johnson-Webb K. What is rural? Issues and considerations. Journal of
+Rural Health. 1997;13:254–256.
+39. Hawley ST, Chang S, Risser D, Zhang Q. Colorectal cancer incidence and
+mortality in Texas 1990-1992: A comparison of rural classiﬁcations.
+J Rural Health. 2002;18:536–546.
+40. U.S. Bureau of the Census. 1990 Census of Population and Housing:
+Summary Social, Economic and Housing Characteristics-North Carolina.
+Washington DC; 1990. Report No.: 1990 CPH-5–35.
+41. The National Breast and Cervical Cancer Early Detection Program.
+Centers for Disease Control and Prevention, 2003. Available at: http://
+www.cdc.gov/cancer/nbccedp/about.htm. Accessed May 15, 2003.
+42. Newman B, personal communication, 2003.
+43. U.S. Census Bureau. 1990 Census of Population: Social and Economic
+Characteristics, North Carolina, Section 1. Washington, DC: U.S. Census
+Bureau; 1993: 246–255.
+44. U.S. Census Bureau. 1990 Census of Population and Housing: Summary
+Social, Economic andHousing Characteristics, North Carolina. Washington,
+DC: U.S. Census Bureau; 1990 49–54.
+45. North Carolina State Data Center. Metropolitan Area Growth: 1990 to
+1999. Available at: http://demog.state.nc.us/. Accessed December 19,
+2002.
+AEP Vol. 15, No. 10
+Hall et al.
+November 2005: 796–803
+URBANIZATION AND BREAST CANCER INCIDENCE IN NC
+803
+

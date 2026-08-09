@@ -1,0 +1,1932 @@
+record_id=385 pmid= doi=10.1245/s10434-025-16974-x
+SOURCE: manual-pdf
+TITLE: Disparities in Stage at Presentation for Disaggregated Asian American, Native Hawaiian, and Pacific Islander Patients with Breast Cancer
+
+Vol.:(0123456789)
+Ann Surg Oncol (2025) 32:3317–3330 
+https://doi.org/10.1245/s10434-025-16974-x
+ORIGINAL ARTICLE – BREAST ONCOLOGY
+Disparities in Stage at Presentation for Disaggregated Asian 
+American, Native Hawaiian, and Pacific Islander Patients 
+with Breast Cancer
+Advait Thaploo, BS1, Khushi Kohli, BA2, Stephanie Wang, BA2, Frances Dominique V. Ho, MD3,4, 
+Erin Jay G. Feliciano, MD, MBA5, Katarina Wang, MD6, Erika P. Ong, MD7, Bhav Jain, MD8, 
+Mahi Kohli9, Cody Chou, BA2, Samuel Liu, BS10, Ranvir Iyengar9, Isabelle Rose I. Alberto, MD3, 
+Tej A. Patel, BS1, Edward Christopher Dee, MD9  , and Fumiko Chino, MD11
+1The University of Pennsylvania, Philadelphia, PA; 2Harvard University, Cambridge, MA; 3University of the Philippines, 
+Manila, Philippines; 4Philippine Institute for Development Studies, Manila, Philippines; 5NYC Health + Hospitals/
+Elmhurst, Queens, NY; 6University of Rochester, Rochester, NY; 7University of Pittsburgh, Pittsburgh, PA; 8Stanford 
+University School of Medicine, Palo Alto, CA; 9Memorial Sloan Kettering Cancer Center, New York, NY; 10University 
+of Southern California, Los Angeles, CA; 11MD Anderson Cancer Center, Houston, TX 
+ABSTRACT 
+Introduction.  Cancer is the leading cause of death among 
+Asian American, Native Hawaiian, and Pacific Islander 
+(AA&NHPI) populations, who are among the most diverse 
+and rapidly growing racial/ethnic groups in the United 
+States. Despite this population’s diverse socioeconomic, 
+cultural, and immigration backgrounds, little is known 
+about the within-group disparities in breast cancer stages at 
+diagnosis. This study aims to identify AA&NHPI subgroups 
+at heightened risk for advanced breast cancer by analyzing 
+detailed incidence rates and diagnostic stages across these 
+diverse subgroups.
+Methods.  Patient data spanning from 2004 to 2020 were 
+extracted from the National Cancer Database, focusing on 
+individuals newly diagnosed with breast cancer. Individuals 
+were disaggregated into specific AA&NHPI subgroups by 
+self-reported country of origin. Ordinal logistic regression, 
+adjusting for clinical and sociodemographic factors, was 
+used to calculate adjusted odds ratios (AORs). Higher 
+adjusted odds ratios signify more advanced stage diagnoses.
+Results.  Of 3,001,173 patients with breast cancer, 99,128 
+(3.30%) identified as AA&NHPI. Compared with NHW 
+patients, AA&NHPI patients were younger (median age, 
+NHW: 62 years versus AA&NHPI: 57 years, p < 0.001) and 
+more likely to be uninsured (NHW: 1.50% vs. AA&NHPI: 
+2.60%, p  <  0.001). The largest AA&NHPI subgroups 
+were Filipino (n = 21,666, 21.9% of AA&NHPI), Chinese 
+(n = 21,303, 21.5%), Indian/Pakistani (n = 20,295, 20.5%), 
+Vietnamese (n = 6680, 6.74%), and Korean (n = 7776, 
+7.84%). In aggregate, AA&NHPI patients were less likely 
+to present with advanced stage at diagnosis relative to 
+NHW patients (AOR 0.89, 95% confidence interval [CI] 
+0.88–0.90, p < 0.001). However, AA&NHPI disaggre-
+gation demonstrated that Hawaiian (AOR 1.15, 95% CI 
+1.09–1.22, p < 0.001), Hmong (AOR 1.70, 95% CI 1.28–
+2.27, p < 0.001), Laotian (AOR 1.37, 95% CI 1.17–1.61, 
+p < 0.001), and Pacific Islander patients (AOR 1.24, 95% 
+CI 1.17–1.32, p < 0.001) were more likely to present at a 
+more advanced stage relative to NHW patients. Relative to 
+Chinese Americans (the reference AA&NHPI group), all 
+AA&NHPI ethnic groups had higher odds of advanced-
+stage diagnosis with the highest odds in Hmong (AOR 2.41, 
+95% CI 1.81–3.20, p < 0.001), Laotian (AOR 1.89, 95% CI 
+1.61–2.20, p < 0.001), Pacific Islander (AOR 1.71, 95% CI 
+1.60–1.82, p < 0.001), and Hawaiian (AOR 1.57, 95% CI 
+1.48–1.67, p < 0.001) patients.
+Co-first authors: Advait Thaploo and Khushi Kohli.
+© Society of Surgical Oncology 2025
+First Received: 23 September 2024 
+Accepted: 21 January 2025 
+Published online: 1 March 2025
+E. C. Dee, MD 
+e-mail: deee1@mskcc.org
+F. Chino, MD 
+e-mail: FChino@mdanderson.org
+
+3318
+	
+A. Thaploo et al.
+Conclusions.  Our study characterizes disparities in the 
+stage of breast cancer at presentation across disaggregated 
+AA&NHPI groups, with notably advanced diagnoses in 
+patients of Hmong, Laotian, Pacific Islander, Hawaiian, and 
+Kampuchean descent. These findings underscore the need 
+for disaggregated research exploring both risk factors and 
+barriers to early diagnosis, as well as culturally tailored 
+interventions that involve community leaders and leverage 
+cultural norms to improve cancer screening and diagnosis.
+Cancer remains the leading cause of death for Asian 
+American and Pacific Islander (AA&NHPI) populations 
+in the United States, accounting for more than 25% of all 
+deaths.1 The AA&NHPI population, encompassing 22 mil-
+lion individuals and 7% of the U.S. population, is one of 
+the most diverse and fastest-growing groups in the nation.2 
+This heterogeneity spans ethnic, cultural, historical, and 
+socioeconomic dimensions, with roots spanning the Indian 
+subcontinent and East and Southeast Asia, each with distinct 
+immigration histories and patterns.2 Notably, the greatest 
+wealth gap of any group in the United States lies within the 
+AA&NHPI community, with a median household income of 
+$119,000 among Indian Americans compared with $44,000 
+among Burmese Americans.3 Disparities are evident in edu-
+cational attainment as well, with 9% of Bhutanese Ameri-
+cans having a college degree, in contrast to 56% of Korean 
+Americans.4 This great heterogeneity in social determinants 
+of health may hold profound implications for the incidence, 
+detection, and management of cancer within AA&NHPI 
+subgroups.
+AA&NHPI patients with breast cancer exhibit distinct 
+patterns of disease compared with their non-Hispanic White 
+counterparts owing to social determinants of health as well 
+as unique genetic, environmental, and lifestyle factors.5 
+Young Chinese, Japanese, and Korean Asian Americans 
+exhibit higher risks of hormone receptor-positive breast 
+cancer compared with non-Hispanic White Americans, for 
+example.6 Despite significant progress in characterizing 
+breast cancer patterns in the AA&NHPI population, research 
+has largely treated them as a monolithic group.
+Recent studies have underscored the importance of dis-
+aggregating data to understand disparities in diseases, such 
+as prostate, lung, colon, cervical, and skin cancers, among 
+AA&NHPI populations.7-11 This approach, which examines 
+data by specific subgroups rather than broad racial catego-
+ries, highlights the unique characteristics and needs of these 
+diverse groups. Although increasingly recognized, histori-
+cally, many studies have only analyzed data by race, which 
+does not fully capture the diversity within the AA&NHPI 
+communities. Moving toward a more detailed disaggrega-
+tion can uncover important disparities in stage of disease at 
+presentation.
+METHODS
+Data Source and Patients
+The National Cancer Database (NCDB) is a nationwide, 
+hospital-based cancer registry with a methodology that has 
+been described previously. The extensive sample size of the 
+NCDB allows for the analysis to be broken down by specific 
+Asian American populations.12,13
+Our study evaluated a retrospective cohort analysis of 
+female patients diagnosed with breast cancer between 2004 
+and 2020. The demographic scope of our study encom-
+passed female patients self-identifying as non-Hispanic 
+White, Thai, Asian Indian or Pakistani, Chinese, Vietnam-
+ese, Korean, Japanese, Filipino, Hawaiian, Laotian, Kam-
+puchean, or Hmong. Of note, Indian and Pakistani were 
+grouped together, as early years in the NCDB did not disag-
+gregate these distinct subgroups. Because of the relatively 
+small sample sizes of certain subgroups, we combined sev-
+eral Pacific Islander categories—including Micronesian, 
+Chamorro, Guamanian, Polynesian, Tahitian, Samoan, Ton-
+gan, Melanesian, Fiji Islander, and New Guinean—into a 
+single analytical cohort, while we recognize the broad diver-
+sity and cultural differences within this subgroup.14 Patients 
+of Hawaiian descent were analyzed separately owing to a 
+sufficiently large sample size within this subgroup.
+Clinical and Sociodemographic Covariates
+The outcome of interest was cancer stages at diagno-
+sis, ranging from 0 (preinvasive/DCIS) to 4 (metastatic). 
+We adjusted all models for clinical and sociodemographic 
+covariates, including race/ethnicity, age, treatment facility 
+type, median household income from the patient’s ZIP code 
+as a socioeconomic status indicator, the percentage of adults 
+without a high school diploma in the patient’s ZIP code as an 
+educational attainment measure, Charlson–Deyo comorbid-
+ity score, insurance status, and diagnosis year. For income 
+and education, we divided the data into quartiles according 
+to the 2012 American Community Survey, corresponding to 
+each patient’s ZIP code.
+Statistical Analysis
+Pearson’s chi-squared test and Kruskal-Wallis rank-sum 
+test were used to compare categorical and continuous vari-
+ables between different racial subgroups. Ordinal logistic 
+regression was used to analyze the odds of patients pre-
+senting with increasingly advanced stages of breast cancer, 
+adjusting for quantitative and categorical independent vari-
+ables. We calculated two sets of adjusted odds ratios (AORs) 
+and 95% confidence intervals (CIs). In the first model, we 
+compared AA&NHPI racial subgroups to non-Hispanic 
+
+3319
+Breast Cancer Disparities
+White patients to assess their likelihood of presenting with 
+more advanced cancer stages. In the second model, focusing 
+on the AA&NHPI subgroups, we used Chinese patients as 
+the reference group, because they are the largest AA&NHPI 
+subgroup in the United States. The entire population was 
+categorized by receptor status—HR+ with HER2−, HER2+ 
+regardless of estrogen/progesterone receptor status, and 
+triple negative—and the analysis was then rerun for each 
+group. We conducted these analyses by using Stata version 
+16.1 (StataCorp, College Station, TX) and R statistical soft-
+ware. The institutional review board exempted this study, 
+because it used deidentified data.
+RESULTS
+Baseline Characteristics
+Table 1 depicts clinical and sociodemographic char-
+acteristics of NHW patients and aggregated AA&NHPI 
+subgroups. Of the 3,001,173 patients included in the 
+study, 99,128 were in the aggregate AA&NHPI group. 
+AA&NHPI patients were younger relative to NHW patients 
+(median age, NHW: 62 years vs. AA&NHPI: 57 years, 
+p < 0.001). AA&NHPI patients had higher rates of Med-
+icaid (12% vs. 4.8%, p < 0.001), private insurance (60% 
+vs. 52%, p < 0.001), and uninsured status (2.6% vs. 1.5%, 
+p < 0.001) compared with NHW patients, whereas Medi-
+care coverage was lower among AA&NHPI patients (23% 
+vs. 40%, p < 0.001; Table 1). While NHW patients were 
+most frequently treated at a Comprehensive Community 
+Cancer Program (41%), AA&NHPI patients most often 
+received treatment at an academic or research center (36%, 
+p < 0.001). AA&NHPI patients were more represented in 
+the highest zip-code level income bracket compared with 
+their NHW counterparts (54% vs. 36%, p < 0.001). How-
+ever, AA&NHPI patients were also more often residing in 
+zip codes with low high school graduation rates (16% vs. 
+11% for NHW, p < 0.001). Additionally, AA&NHPI patients 
+were slightly more likely to present with zero comorbidi-
+ties (86% vs. 85%, p < 0.001). The largest AA&NHPI sub-
+groups were Chinese (n = 21,303, 21.49% of AA&NHPI), 
+Filipino (n = 21,666, 21.86%), Indian/Pakistani (n = 20,295, 
+20.47%), Vietnamese (n  =  6680, 6.74%), and Korean 
+(n = 7776, 7.84%). In aggregate, AA&NHPI patients pre-
+sented more frequently with stage 0 disease (AA&NHPI: 
+24% vs. NHW: 19%, p < 0.001).
+Table 2 presents a comparison of baseline characteristics 
+of NHW and AA&NHPI groups, disaggregated into specific 
+ethnic populations. Hmong and Laotian patients presented 
+with stage 4 disease most frequently among all populations 
+studied (9.3% and 6.9% respectively; Fig. 1). Hmong and 
+Laotian patients were diagnosed at the youngest median age 
+(52 and 53, respectively). Hmong (24%) and NHW (27%) 
+patients were least likely to be treated in an academic or 
+research program (p < 0.001 for all comparisons).
+Hmong (21%) and Laotian patients (28%) were least 
+likely to live in the highest zip-code level income bracket, 
+whereas Hmong (35%) and Kampuchean (35%) patients 
+were most likely to live in zip codes with low rates of high 
+school education. Hawaiian patients were the least likely to 
+have no documented comorbidities (75%). Indian/Pakistani 
+patients had the highest rate of uninsurance (4.5%), while 
+Kampuchean patients had the highest rate of Medicaid (29%) 
+(p < 0.001 for all comparisons).
+Additionally, any hormone receptor status, HER2-posi-
+tive was highest in Kampuchean (15%) and Laotian (13%) 
+patients (p < 0.001). Hormone receptor-positive, HER2-neg-
+ative was most prevalent among Hawaiian (34%), Japanese 
+(30%), and NHW (30%) patients (p < 0.001). Triple-nega-
+tive breast cancer rates were highest among Hmong (6.8%) 
+and Laotian (7.5%) patients (p < 0.001).
+Disparities in Stage at Presentation
+Taken in aggregate, AA&NHPI patients were less likely 
+to present with advanced stage at diagnosis (AOR 0.89, 95% 
+CI 0.88–0.90, p < 0.001) relative to NHW patients (Sup-
+plementary Table 1). However, individual AA&NHPI popu-
+lations displayed disparities in stage at presentation upon 
+disaggregation.
+In the primary analysis comparing AA&NHPI groups 
+to non-Hispanic White patients (Table 3), Chinese (AOR 
+0.70, 95% CI 0.69–0.72, p  <  0.001), Filipinos (AOR 
+0.90, 95% CI 0.88–0.93, p < 0.001), Japanese (AOR 0.78, 
+95% CI 0.76–0.81, p < 0.001), Koreans (AOR 0.93, 95% 
+CI 0.90–0.97, p = 0.001), and Vietnamese (AOR 0.90, 
+95% CI 0.86–0.95, p < 0.001) were less likely to pre-
+sent at advanced stages compared with non-Hispanic 
+White patients (Fig. 2). Conversely, Hawaiian (AOR 1.15, 
+95% CI 1.09–1.22, p < 0.001), Hmong (AOR 1.70, 95% 
+CI 1.28–2.27, p < 0.001), Laotian (AOR 1.37, 95% CI 
+1.17–1.61, p < 0.001), and Pacific Islander (AOR 1.24, 95% 
+CI 1.17–1.32, p < 0.001) patients were more likely to pre-
+sent at advanced stages compared with non-Hispanic White 
+patients (Table 3).
+In the subgroup analysis with Chinese patients as the 
+referent, all analyzed subgroups were more likely to pre-
+sent at advanced stages compared with Chinese patients 
+(Table 3; Fig. 3). The five ethnic groups with the high-
+est adjusted odds ratios (AOR) were: Hmong (AOR 2.41, 
+95% CI 1.81–3.20, p < 0.001), Laotian (AOR 1.89, 95% 
+CI 1.61–2.20, p < 0.001), Pacific Islander (AOR 1.71, 95% 
+CI 1.60–1.82, p < 0.001), Hawaiian (AOR 1.57, 95% CI 
+1.48–1.67, p < 0.001), and Kampuchean (AOR 1.45, 95% 
+CI 1.25–1.68, p < 0.001).
+
+3320
+	
+A. Thaploo et al.
+Among patients with available receptor status, the anal-
+ysis was repeated with stratification by receptor status to 
+reassess the AORs of advanced stage presentation for all 
+AA&NHPI groups compared with NHW patients. Hawaiian, 
+Hmong, Pacific Islander, and Laotian patients, who initially 
+showed significantly higher odds of late-stage presentation 
+compared with NHW patients, exhibited increased odds only 
+when restricted to the HR-positive, HER2-negative disease 
+cohort. Among these groups, only Pacific Islanders showed 
+increased odds for the cohort restricted to HER2-positive 
+disease (Tables 3 and 4). None of these groups experienced 
+significant and increased odds when restricted to the triple-
+negative cohort.
+The receptor status stratification was continued for the 
+staging analysis referent to Chinese patients. Filipino, 
+Hmong, Laotian, Vietnamese, Hawaiian, Indian/Pakistani, 
+Korean, Pacific Islander, and Thai patients, who initially 
+showed significantly higher odds of late-stage presenta-
+tion compared with Chinese patients, exhibited increased 
+odds in the HR-positive, HER2-negative disease cohort. 
+For the HER2-positive disease cohort, Filipino, Indian/
+Pakistani, and Pacific Islander patients showed significant 
+TABLE 1   Characteristics 
+of baseline cohort stratified 
+by aggregated AA&NHPI 
+versus non-Hispanic White 
+status, including stage at 
+presentation, age, facility 
+type, socioeconomic factors, 
+comorbidity score, insurance 
+status, and year of diagnosis 
+(2004–2020), in the National 
+Cancer Database
+Characteristic
+AA&NHPI N = 99,128a
+Non-His-
+panic White 
+N = 2,902,045a
+pb
+Stage at presentation
+ 0
+23,872 (24%)
+562,911 (19%)
+< 0.001
+ 1
+41,358 (42%)
+1,362,263 (47%)
+ 2
+22,907 (23%)
+643,555 (22%)
+ 3
+7544 (7.6%)
+220,028 (7.6%)
+ 4
+3447 (3.5%)
+113,288 (3.9%)
+Age, years
+57 (13)
+62 (13)
+< 0.001
+Facility type
+ Community cancer program
+6548 (6.6%)
+209,607 (7.2%)
+< 0.001
+ Comprehensive community cancer program
+31,458 (32%)
+1,199,701 (41%)
+ Academic or research program
+36,054 (36%)
+769,748 (27%)
+ Integrated network cancer program
+18,188 (18%)
+606,112 (21%)
+ Unknown
+6880 (6.9%)
+116,877 (4.0%)
+Zip-code level median household income
+ < $38,000
+4570 (4.6%)
+299,092 (10%)
+< 0.001
+ $38,000–$47,999
+10,169 (10%)
+536,700 (18%)
+ $48,000–$62,999
+21,150 (21%)
+709,199 (24%)
+ $63,000 +
+53,725 (54%)
+1,039,448 (36%)
+ Unknown
+9514 (9.6%)
+317,606 (11%)
+Zip-code level percent without high school education
+ 21% or more
+15,833 (16%)
+313,979 (11%)
+< 0.001
+ 13%–20.9%
+17,969 (18%)
+565,897 (19%)
+ 7%–12.9%
+28,443 (29%)
+890,397 (31%)
+ < 7%
+27,380 (28%)
+815,232 (28%)
+ Unknown
+9,503 (9.6%)
+316,540 (11%)
+Charlson-Deyo comorbidity score
+ 0
+85,465 (86%)
+2,452,363 (85%)
+< 0.001
+ 1
+10,877 (11%)
+342,883 (12%)
+ 2
+1811 (1.8%)
+74,307 (2.6%)
+ 3 +
+975 (1.0%)
+32,492 (1.1%)
+Health insurance
+ Uninsured
+2601 (2.6%)
+44,653 (1.5%)
+< 0.001
+ Private insurance or managed care
+59,476 (60%)
+1,499,634 (52%)
+ Medicaid
+11,583 (12%)
+137,986 (4.8%)
+ Medicare
+22,843 (23%)
+1,149,118 (40%)
+ Other government
+965 (1.0%)
+26,766 (0.9%)
+ Unknown
+1660 (1.7%)
+43,888 (1.5%)
+
+3321
+Breast Cancer Disparities
+and increased odds of advanced diagnosis relative to Chi-
+nese patients. In the triple-negative disease cohort, Filipino, 
+Japanese, Kampuchean, Korean, Vietnamese, Indian/Paki-
+stani, and Pacific Islander patients showed significant and 
+increased odds of advanced diagnosis relative to Chinese 
+patients (Fig. 2; Table 5).
+Additionally, receptor subtype analysis revealed signifi-
+cant results for ethnic groups that did not show significantly 
+higher odds of late-stage presentation in the overall analy-
+sis relative to NHW patients. Filipinos (AOR 1.13, 95% CI 
+1.08–1.19, p < 0.001) and Indian/Pakistani patients (AOR 
+1.16, 95% CI 1.10–1.22, p < 0.001) had increased odds of 
+advanced-stage diagnosis in the HR-positive, HER2-negative 
+cohort. Filipinos (AOR 1.10, 95% CI 1.01–1.19, p = 0.030) 
+and Indian/Pakistani patients (AOR 1.17, 95% CI 1.07–1.28, 
+p = 0.001) also showed increased odds in the HER2-positive 
+cohort. For the triple-negative cohort, Japanese (AOR 1.25, 
+95% CI 1.04–1.51, p = 0.019) and Kampuchean patients 
+(AOR 2.07, 95% CI 1.08–3.96, p = 0.028) demonstrated 
+significantly increased odds for advanced-stage diagnosis.
+DISCUSSION
+In this study of 3 million female patients with breast 
+cancer, we found increased odds of advanced diagnosis for 
+Hawaiian, Hmong, Laotian, and Pacific Islander populations 
+in stage at presentation even after adjusting for a range of 
+clinical and socioeconomic factors, including income, edu-
+cation, and comorbidity scores. Disaggregation revealed that 
+all studied groups were more likely to present with a more 
+advanced stage than Chinese patients, who served as the 
+reference AA&NHPI group.
+Our findings align with previous studies on disparities in 
+breast cancer stages among aggregated AA&NHPI popula-
+tions. Surveillance, Epidemiology, and End Results (SEER) 
+studies found that Japanese patients were more likely to be 
+diagnosed at earlier stages compared with non-Hispanic 
+white patients, for example.15,16 Our work expands these 
+findings to smaller groups, such as Hawaiian, Hmong, Lao-
+tian, and Pacific Islanders, who are often overlooked in 
+research.17-20
+As demonstrated, AA&NHPI patients as an aggregated 
+group present at a lower stage of breast cancer. However, 
+a Data are numbers with percentages in parentheses or means with standard deviations in parentheses
+b Pearson’s chi-squared test; Wilcoxon rank-sum test
+Table 1   (continued)
+Characteristic
+AA&NHPI N = 99,128a
+Non-His-
+panic White 
+N = 2,902,045a
+pb
+Year of diagnosis
+ 2004
+3324 (3.4%)
+130,519 (4.5%)
+< 0.001
+ 2005
+3377 (3.4%)
+134,166 (4.6%)
+ 2006
+3504 (3.5%)
+139,617 (4.8%)
+ 2007
+3876 (3.9%)
+145,715 (5.0%)
+ 2008
+4261 (4.3%)
+154,527 (5.3%)
+ 2009
+4405 (4.4%)
+163,229 (5.6%)
+ 2010
+4988 (5.0%)
+162,449 (5.6%)
+ 2011
+5493 (5.5%)
+170,249 (5.9%)
+ 2012
+5814 (5.9%)
+175,552 (6.0%)
+ 2013
+6364 (6.4%)
+183,266 (6.3%)
+ 2014
+6756 (6.8%)
+187,761 (6.5%)
+ 2015
+7351 (7.4%)
+192,234 (6.6%)
+ 2016
+7592 (7.7%)
+194,945 (6.7%)
+ 2017
+8327 (8.4%)
+200,029 (6.9%)
+ 2018
+8182 (8.3%)
+194,328 (6.7%)
+ 2019
+8462 (8.5%)
+200,647 (6.9%)
+ 2020
+7052 (7.1%)
+172,812 (6.0%)
+Subtype
+ Any hormone receptor status, HER2-positive
+7764 (7.8%)
+170,902 (5.9%)
+< 0.001
+ Hormone receptor-positive, HER2-negative
+27,466 (28%)
+858,839 (30%)
+ Triple negative
+3989 (4.0%)
+123,764 (4.3%)
+ Unknown
+59,909 (60%)
+1,748,540 (60%)
+
+3322
+	
+A. Thaploo et al.
+TABLE 2   Characteristics of baseline cohort stratified by disaggregated AA&NHPI versus non-Hispanic White status, including stage at presentation, age, facility type, socioeconomic factors, 
+comorbidity score, insurance status, and year of diagnosis (2004–2020), in the National Cancer Database
+Characteristic
+Non-Hispanic 
+White 
+N = 2,902,045a
+Chinese 
+N = 21,303a
+Filipino 
+N = 21,666a
+Hawaiian 
+N = 4,438a
+Hmong 
+N = ­162a
+Indian/
+Pakistani 
+N = 20,295a
+Japanese 
+N = 11,015a
+Kampu-
+chean 
+N = ­639a
+Korean 
+N = ­7776a
+Laotian 
+N = ­536a
+Pacific 
+Islander 
+N = ­3532a
+Thai 
+N = ­1086a
+Vietnamese 
+N = ­6680a
+pb
+Stage at presentation
+ 0
+562,911 (19%)
+5941 (28%)
+5528 (26%)
+788 (18%)
+23 (14%)
+4418 (22%)
+2684 (24%)
+137 (21%)
+1801 (23%)
+91 (17%)
+677 (19%)
+247 (23%)
+1537 (23%)
+< 0.001
+ 1
+1,362,263 
+(47%)
+9079 (43%)
+8531 (39%)
+1968 (44%)
+51 (31%)
+8296 (41%)
+5250 (48%)
+238 (37%)
+3221 (41%)
+196 (37%)
+1370 (39%)
+443 (41%)
+2715 (41%)
+ 2
+643,555 (22%)
+4479 (21%)
+5000 (23%)
+1148 (26%)
+49 (30%)
+4997 (25%)
+2194 (20%)
+159 (25%)
+1916 (25%)
+150 (28%)
+901 (26%)
+255 (23%)
+1659 (25%)
+ 3
+220,028 (7.6%)
+1255 (5.9%)
+1744 (8.0%)
+365 (8.2%)
+24 (15%)
+1791 (8.8%)
+627 (5.7%)
+70 (11%)
+609 (7.8%)
+62 (12%)
+356 (10%)
+86 (7.9%)
+555 (8.3%)
+ 4
+113,288 (3.9%)
+549 (2.6%)
+863 (4.0%)
+169 (3.8%)
+15 (9.3%)
+793 (3.9%)
+260 (2.4%)
+35 (5.5%)
+229 (2.9%)
+37 (6.9%)
+228 (6.5%)
+55 (5.1%)
+214 (3.2%)
+Age, years
+62 (13)
+57 (13)
+59 (12)
+59 (13)
+52 (15)
+55 (13)
+62 (14)
+54 (12)
+55 (12)
+53 (12)
+57 (12)
+55 (12)
+55 (12)
+< 0.001
+Facility type
+ Community 
+cancer 
+program
+209,607 (7.2%)
+798 (3.7%)
+2011 (9.3%)
+334 (7.5%)
+6 (3.7%)
+1066 (5.3%)
+1346 (12%)
+29 (4.5%)
+326 (4.2%)
+26 (4.9%)
+221 (6.3%)
+58 (5.3%)
+327 (4.9%)
+< 0.001
+ Comprehen-
+sive com-
+munity 
+cancer 
+program
+1,199,701 
+(41%)
+6966 (33%)
+7392 (34%)
+1177 (27%)
+56 (35%)
+5972 (29%)
+2914 (26%)
+205 (32%)
+2478 (32%)
+176 (33%)
+1110 (31%)
+350 (32%)
+2662 (40%)
+ Academic or 
+research 
+program
+769,748 (27%)
+9008 (42%)
+6811 (31%)
+1536 (35%)
+39 (24%)
+8189 (40%)
+3732 (34%)
+234 (37%)
+3042 (39%)
+165 (31%)
+1039 (29%)
+364 (34%)
+1895 (28%)
+ Integrated 
+network 
+cancer 
+program
+606,112 (21%)
+3143 (15%)
+4388 (20%)
+1120 (25%)
+25 (15%)
+3004 (15%)
+2575 (23%)
+93 (15%)
+1354 (17%)
+101 (19%)
+895 (25%)
+219 (20%)
+1271 (19%)
+ Unknown
+116,877 (4.0%)
+1388 (6.5%)
+1064 (4.9%)
+271 (6.1%)
+36 (22%)
+2064 (10%)
+448 (4.1%)
+78 (12%)
+576 (7.4%)
+68 (13%)
+267 (7.6%)
+95 (8.7%)
+525 (7.9%)
+Zip-code level median household income
+ < $38,000
+299,092 (10%)
+1198 (5.6%)
+739 (3.4%)
+202 (4.6%)
+30 (19%)
+879 (4.3%)
+224 (2.0%)
+87 (14%)
+293 (3.8%)
+78 (15%)
+253 (7.2%)
+52 (4.8%)
+535 (8.0%)
+< 0.001
+ $38,000–
+$47,999
+536,700 (18%)
+2588 (12%)
+2103 (9.7%)
+391 (8.8%)
+55 (34%)
+1831 (9.0%)
+920 (8.4%)
+112 (18%)
+623 (8.0%)
+113 (21%)
+455 (13%)
+131 (12%)
+847 (13%)
+ $48,000–
+$62,999
+709,199 (24%)
+3771 (18%)
+5015 (23%)
+1183 (27%)
+36 (22%)
+3849 (19%)
+2340 (21%)
+175 (27%)
+1620 (21%)
+161 (30%)
+924 (26%)
+270 (25%)
+1806 (27%)
+ $63,000 +
+1,039,448 
+(36%)
+12,462 (58%)
+11,547 (53%)
+1964 (44%)
+34 (21%)
+11,741 (58%)
+6483 (59%)
+196 (31%)
+4531 (58%)
+150 (28%)
+1,473 (42%)
+521 (48%)
+2623 (39%)
+ Unknown
+317,606 (11%)
+1284 (6.0%)
+2262 (10%)
+698 (16%)
+7 (4.3%)
+1995 (9.8%)
+1048 (9.5%)
+69 (11%)
+709 (9.1%)
+34 (6.3%)
+427 (12%)
+112 (10%)
+869 (13%)
+Zip-code level percent without high school education
+ ≥ 21%
+313,979 (11%)
+4412 (21%)
+3954 (18%)
+291 (6.6%)
+56 (35%)
+2429 (12%)
+985 (8.9%)
+223 (35%)
+794 (10%)
+164 (31%)
+599 (17%)
+144 (13%)
+1782 (27%)
+< 0.001
+ 13%–20.9%
+565,897 (19%)
+3628 (17%)
+5220 (24%)
+842 (19%)
+34 (21%)
+3100 (15%)
+1394 (13%)
+134 (21%)
+1388 (18%)
+138 (26%)
+688 (19%)
+177 (16%)
+1226 (18%)
+ 7%–12.9%
+890,397 (31%)
+5688 (27%)
+6334 (29%)
+1476 (33%)
+42 (26%)
+5660 (28%)
+3813 (35%)
+135 (21%)
+2178 (28%)
+123 (23%)
+1024 (29%)
+328 (30%)
+1642 (25%)
+ < 7%
+815,232 (28%)
+6296 (30%)
+3897 (18%)
+1131 (25%)
+23 (14%)
+7116 (35%)
+3775 (34%)
+78 (12%)
+2707 (35%)
+77 (14%)
+794 (22%)
+325 (30%)
+1161 (17%)
+ Unknown
+316,540 (11%)
+1279 (6.0%)
+2261 (10%)
+698 (16%)
+7 (4.3%)
+1990 (9.8%)
+1048 (9.5%)
+69 (11%)
+709 (9.1%)
+34 (6.3%)
+427 (12%)
+112 (10%)
+869 (13%)
+
+3323
+Breast Cancer Disparities
+a Data are numbers with percentages in parentheses or means with standard deviations in parentheses
+b Pearson’s chi-squared test; Kruskal-Wallis rank-sum test
+Table 2   (continued)
+Characteristic
+Non-Hispanic 
+White 
+N = 2,902,045a
+Chinese 
+N = 21,303a
+Filipino 
+N = 21,666a
+Hawaiian 
+N = 4,438a
+Hmong 
+N = ­162a
+Indian/
+Pakistani 
+N = 20,295a
+Japanese 
+N = 11,015a
+Kampu-
+chean 
+N = ­639a
+Korean 
+N = ­7776a
+Laotian 
+N = ­536a
+Pacific 
+Islander 
+N = ­3532a
+Thai 
+N = ­1086a
+Vietnamese 
+N = ­6680a
+pb
+Charlson-Deyo comorbidity score
+ 0
+2,452,363 
+(85%)
+19,374 (91%)
+17,951 (83%)
+3335 (75%)
+136 (84%)
+17,385 (86%)
+9421 (86%)
+557 (87%)
+7037 (90%)
+458 (85%)
+2854 (81%)
+982 (90%)
+5975 (89%)
+< 0.001
+ 1
+342,883 (12%)
+1611 (7.6%)
+2892 (13%)
+734 (17%)
+19 (12%)
+2473 (12%)
+1248 (11%)
+62 (9.7%)
+610 (7.8%)
+61 (11%)
+495 (14%)
+91 (8.4%)
+581 (8.7%)
+ 2
+74,307 (2.6%)
+218 (1.0%)
+532 (2.5%)
+229 (5.2%)
+4 (2.5%)
+305 (1.5%)
+227 (2.1%)
+13 (2.0%)
+89 (1.1%)
+12 (2.2%)
+100 (2.8%)
+7 (0.6%)
+75 (1.1%)
+ 3 +
+32,492 (1.1%)
+100 (0.5%)
+291 (1.3%)
+140 (3.2%)
+3 (1.9%)
+132 (0.7%)
+119 (1.1%)
+7 (1.1%)
+40 (0.5%)
+5 (0.9%)
+83 (2.3%)
+6 (0.6%)
+49 (0.7%)
+Health insurance
+ Uninsured
+44,653 (1.5%)
+344 (1.6%)
+445 (2.1%)
+37 (0.8%)
+4 (2.5%)
+911 (4.5%)
+73 (0.7%)
+17 (2.7%)
+331 (4.3%)
+22 (4.1%)
+128 (3.6%)
+48 (4.4%)
+241 (3.6%)
+< 0.001
+ Private 
+insurance 
+or man-
+aged care
+1,499,634 
+(52%)
+12,900 (61%)
+13,587 (63%)
+2514 (57%)
+70 (43%)
+12,597 (62%)
+6497 (59%)
+308 (48%)
+4328 (56%)
+308 (57%)
+1938 (55%)
+685 (63%)
+3744 (56%)
+ Medicaid
+137,986 (4.8%)
+3218 (15%)
+1889 (8.7%)
+402 (9.1%)
+49 (30%)
+2464 (12%)
+226 (2.1%)
+183 (29%)
+1110 (14%)
+106 (20%)
+545 (15%)
+120 (11%)
+1271 (19%)
+ Medicare
+1,149,118 
+(40%)
+4415 (21%)
+5152 (24%)
+1380 (31%)
+36 (22%)
+3658 (18%)
+3985 (36%)
+120 (19%)
+1758 (23%)
+85 (16%)
+799 (23%)
+183 (17%)
+1272 (19%)
+ Other gov-
+ernment
+26,766 (0.9%)
+47 (0.2%)
+344 (1.6%)
+57 (1.3%)
+1 (0.6%)
+128 (0.6%)
+97 (0.9%)
+2 (0.3%)
+146 (1.9%)
+8 (1.5%)
+88 (2.5%)
+29 (2.7%)
+18 (0.3%)
+ Unknown
+43,888 (1.5%)
+379 (1.8%)
+249 (1.1%)
+48 (1.1%)
+2 (1.2%)
+537 (2.6%)
+137 (1.2%)
+9 (1.4%)
+103 (1.3%)
+7 (1.3%)
+34 (1.0%)
+21 (1.9%)
+134 (2.0%)
+Subtype
+ Any 
+hormone 
+receptor 
+status, 
+HER2-
+positive
+170,902 (5.9%)
+1610 (7.6%)
+1885 (8.7%)
+316 (7.1%)
+25 (15%)
+1615 (8.0%)
+500 (4.5%)
+74 (12%)
+619 (8.0%)
+67 (13%)
+287 (8.1%)
+81 (7.5%)
+685 (10%)
+< 0.001
+ Hormone 
+receptor-
+positive, 
+HER2-
+negative
+858,839 (30%)
+5623 (26%)
+5895 (27%)
+1522 (34%)
+34 (21%)
+5690 (28%)
+3352 (30%)
+162 (25%)
+2076 (27%)
+120 (22%)
+951 (27%)
+296 (27%)
+1745 (26%)
+ Triple nega-
+tive
+123,764 (4.3%)
+794 (3.7%)
+676 (3.1%)
+143 (3.2%)
+11 (6.8%)
+1081 (5.3%)
+373 (3.4%)
+31 (4.9%)
+392 (5.0%)
+40 (7.5%)
+128 (3.6%)
+49 (4.5%)
+271 (4.1%)
+ Unknown
+1,748,540 
+(60%)
+13,276 (62%)
+13,210 (61%)
+2457 (55%)
+92 (57%)
+11,909 (59%)
+6790 (62%)
+372 (58%)
+4689 (60%)
+309 (58%)
+2166 (61%)
+660 (61%)
+3979 (60%)
+
+3324
+	
+A. Thaploo et al.
+FIG. 1   Unadjusted propor-
+tions of female patients with 
+Stage 0-IV breast cancer at 
+presentation, stratified by race 
+or ethnicity
+Japanese
+Chinese
+Korean
+Vietnamese
+Hawaiian
+White
+Stage 4
+Stage at Presentation
+Stage 3
+Stage 2
+Stage 1
+Stage 0
+Indian/Pakistani
+Filipino
+Thai
+Kampuchean
+Pacific Islander
+Laotian
+Hmong
+0%
+25%
+50%
+75%
+Percentage
+Race or Ethnicity
+100%
+TABLE 3   Associations 
+(AOR) and 95% CI (based on 
+ordinal logistic regression) 
+of race/ethnicity (relative to 
+NHW and Chinese) and other 
+selected patient and zip-code 
+level characteristics with odds 
+of presenting at progressively 
+higher stage among AA&NHPI 
+patients with breast cancer, 
+2004–2020, in the National 
+Cancer Database
+AOR adjusted odds ratio, CI confidence interval
+Stage at presentation
+p
+Stage at presentation
+p
+AOR (95% CI)
+AOR (95% CI)
+Characteristic
+ Non-Hispanic White
+Ref.
+.
+ Chinese
+0.70 (0.69–0.72)
+< 0.001
+Ref.
+.
+ Filipino
+0.90 (0.88–0.93)
+< 0.001
+1.26 (1.22–1.31)
+< 0.001
+ Hawaiian
+1.15 (1.09–1.22)
+< 0.001
+1.57 (1.48–1.67)
+< 0.001
+ Hmong
+1.70 (1.28–2.27)
+< 0.001
+2.41 (1.81–3.20)
+< 0.001
+ Indian/Pakistani
+1.03 (1.00–1.05)
+0.051
+1.40 (1.35–1.45)
+< 0.001
+ Japanese
+0.78 (0.76–0.81)
+< 0.001
+1.09 (1.05–1.14)
+< 0.001
+ Kampuchean
+1.01 (0.87–1.17)
+0.865
+1.45 (1.25–1.68)
+< 0.001
+ Korean
+0.93 (0.90–0.97)
+0.001
+1.27 (1.21–1.33)
+< 0.001
+ Laotian
+1.37 (1.17–1.61)
+< 0.001
+1.89 (1.61–2.20)
+< 0.001
+ Pacific Islander
+1.24 (1.17–1.32)
+< 0.001
+1.71 (1.60–1.82)
+< 0.001
+ Thai
+1.00 (0.89–1.12)
+0.999
+1.36 (1.22–1.52)
+< 0.001
+ Vietnamese
+0.90 (0.86–0.95)
+< 0.001
+1.27 (1.21–1.34)
+< 0.001
+
+3325
+Breast Cancer Disparities
+disaggregating the data reveals disparities among various 
+AA&NHPI populations. We identified later stages at pres-
+entation for Hawaiian, Hmong, Laotian, and Pacific Islander 
+patients compared with NHW patients, with Hmong patients 
+nearly twice as likely to have advanced diagnoses. These 
+disparities were previously undocumented owing to small 
+sample sizes and merging into broader AA&NHPI sub-
+groups.21,22 This study further identified a compounded 
+disparity in breast cancer outcomes for Hmong and Laotian 
+patients, who exhibit both the highest prevalence of triple-
+negative breast cancer (TNBC)—a subtype associated with 
+poor prognosis—and the highest rates of Stage 4 disease at 
+presentation. These findings are magnified by the observa-
+tion that Hmong and Laotian patients are diagnosed at a 
+median age nearly 10 years younger than NHW patients. 
+These results emphasize the need for further investigation 
+into genetic predispositions, environmental exposures, and 
+systemic barriers to early detection, along with the imple-
+mentation of culturally tailored interventions to address 
+these disparities. One-size-fits-all screening programs may 
+not address the specific needs of smaller, heterogeneous 
+communities and their access barriers.
+Attitudes toward mammogram screening may play a role 
+in presentation rates among Asian-American patients com-
+pared with NHW patients. Contributing factors may include 
+health literacy, financial and insurance limitations, cultural 
+and personal beliefs, fear and embarrassment, self-efficacy, 
+religious and psychological aspects, time constraints, fatal-
+ism, healthcare professional advice, communication barriers, 
+and social support. These factors contribute to lower mam-
+mography rates among AA&NHPI patients compared with 
+NHW patients.23-31
+Disparities in breast cancer stage at diagnosis among 
+Hawaiian, Hmong, Laotian, and Pacific Islander AA&NHPI 
+FIG. 2   Associations (aORs) 
+and 95% confidence intervals 
+(based on ordinal logistic 
+regression) of race/ethnicity 
+(relative to NHW patients) 
+and other selected patient and 
+zip-code level characteristics 
+with odds of presenting at 
+progressively higher stage 
+among AANHPI patients with 
+breast cancer, 2004–2020, in the 
+National Cancer Database
+Japanese
+Chinese
+1.0
+1.5
+Adjusted Odds Ratio
+Race or Ethnicity
+2.0
+Korean
+Vietnamese
+Hawaiian
+Indian/Pakistani
+Filipino
+Thai
+Kampuchean
+Pacific Islander
+Laotian
+Hmong
+
+3326
+	
+A. Thaploo et al.
+subgroups may be influenced by specific cultural, linguis-
+tic, and socioeconomic barriers. Native Hawaiians encounter 
+various healthcare barriers, including cultural challenges, 
+such as limited access to cancer information and health-
+related anxiety; socioeconomic issues, such as poverty; sys-
+temic obstacles, such as lack of insurance and limited access 
+to cancer care; and geographic difficulties owing to the cen-
+tralization of cancer resources in Honolulu.32 In the Hmong 
+community, social marginalization and refugee status con-
+tribute to mistrust of institutions, while cultural stigmas 
+around women’s health contribute to advanced diagnoses.33 
+Many Laotian women serve as primary caregivers, with 
+40% in multigenerational households.34 This role imposes 
+time, financial, and logistical challenges, leading to treat-
+ment delays. Pacific Islander Americans, especially from 
+outer islands, such as the Marshall Islands, face geographic 
+isolation from healthcare facilities, causing further delays.35
+Addressing disparities in breast cancer diagnosis among 
+Hmong, Laotian, and Pacific Islander communities requires 
+culturally informed interventions. For example, the “Life is 
+Precious” program in the Hmong community incorporated 
+family decision-making and shamans to increase women’s 
+intent to obtain mammograms and men’s intent to support 
+screening and treatment.36 Future interventions for the 
+Hmong community should collaborate further with religious 
+leaders and involve male family members in the education 
+and care-seeking process.
+Another successful intervention is the PATH for Women 
+program, which successfully increased breast cancer 
+screening rates in the Laotian community.37 The program 
+addressed challenges, such as low literacy rates and limited 
+FIG. 3   Associations (aORs) 
+and 95% confidence intervals 
+(based on ordinal logistic 
+regression) of race/ethnicity 
+(relative to Chinese American 
+patients) and other selected 
+patient and zip-code level char-
+acteristics with odds of present-
+ing at progressively higher stage 
+among AANHPI patients with 
+breast cancer, 2004–2020, in the 
+National Cancer Database
+Japanese
+1.0
+1.5
+2.0
+2.5
+Adjusted Odds Ratio
+3.0
+Korean
+Vietnamese
+Hawaiian
+Indian/Pakistani
+Race or Ethnicity
+Filipino
+Thai
+Kampuchean
+Pacific Islander
+Laotian
+Hmong
+
+3327
+Breast Cancer Disparities
+Laotian media channels by emphasizing door-to-door and 
+face-to-face outreach using visual-based educational mate-
+rials. Future interventions could replicate this approach, 
+prioritizing personal connections and visual aids. Addition-
+ally, deploying mobile health units with skilled staff and 
+educational materials can enhance outreach. To establish 
+community-based networks, interventions should engage 
+local leaders, partner with community organizations, and 
+host regular health education events. Creating media chan-
+nels could involve collaborating with local radio and TV 
+stations to produce content in Laotian and using social media 
+platforms to share educational information effectively.
+TABLE 4   Associations (AORs) and 95% CI (based on ordinal logis-
+tic regression) of race/ethnicity (relative to NHW) and other selected 
+patient and zip-code level characteristics with odds of presenting at 
+progressively higher stage among AA&NHPI patients with breast 
+cancer, 2004–2020, in the National Cancer Database, stratified by 
+hormone and HER2 receptor status: (a) hormone receptor-positive, 
+HER2-negative; (b) any hormone receptor status, HER2-positive; and 
+(c) triple negative
+AOR adjusted odds ratio, CI confidence interval
+Hormone receptor-posi-
+tive, HER2-negative
+p
+Any hormone receptor 
+status, HER2-positive
+p
+Triple negative
+p
+AOR (95% CI)
+AOR (95% CI)
+AOR (95% CI)
+Characteristic
+ Non-Hispanic White
+Ref.
+.
+Ref.
+.
+Ref.
+.
+ Chinese
+0.84 (0.80–0.88)
+< 0.001
+0.83 (0.76–0.91)
+< 0.001
+0.79 (0.70–0.91)
+0.001
+ Filipino
+1.13 (1.08–1.19)
+< 0.001
+1.10 (1.01–1.19)
+0.030
+1.13 (0.98–1.30)
+0.083
+ Hawaiian
+1.29 (1.17–1.42)
+< 0.001
+0.97 (0.80–1.19)
+0.776
+0.99 (0.74–1.34)
+0.964
+ Hmong
+3.13 (1.72–5.71)
+< 0.001
+1.60 (0.78–3.25)
+0.197
+0.94 (0.32–2.69)
+0.900
+ Indian/Pakistani
+1.16 (1.10–1.22)
+< 0.001
+1.17 (1.07–1.28)
+0.001
+1.00 (0.89–1.11)
+0.934
+ Japanese
+0.81 (0.75–0.86)
+< 0.001
+0.93 (0.79–1.09)
+0.356
+1.25 (1.04–1.51)
+0.019
+ Kampuchean
+0.79 (0.58–1.06)
+0.118
+1.16 (0.77–1.74)
+0.488
+2.07 (1.08–3.96)
+0.028
+ Korean
+1.05 (0.97–1.14)
+0.233
+0.98 (0.85–1.14)
+0.827
+1.09 (0.91–1.31)
+0.344
+ Laotian
+1.78 (1.28–2.47)
+0.001
+0.83 (0.53–1.30)
+0.418
+1.37 (0.76–2.48)
+0.298
+ Pacific Islander
+1.41 (1.25–1.58)
+< 0.001
+1.59 (1.29–1.96)
+<0.001
+1.16 (0.84–1.60)
+0.378
+ Thai
+1.22 (0.98–1.52)
+0.072
+1.06 (0.72–1.54)
+0.772
+1.21 (0.74–2.00)
+0.451
+ Vietnamese
+1.04 (0.95–1.14)
+0.392
+0.95 (0.83–1.09)
+0.477
+1.05 (0.84–1.31)
+0.668
+TABLE 5   Associations (AOR) and 95% CI based on ordinal logistic 
+regression) of race/ethnicity (relative to Chinese) and other selected 
+patient and zip-code level characteristics with odds of presenting at 
+progressively higher stage among AA&NHPI patients with breast 
+cancer, 2004–2020, in the National Cancer Database, stratified by 
+hormone and HER2 receptor status: (a) hormone receptor-positive, 
+HER2-negative; (b) any hormone receptor status, HER2-positive; and 
+(c) triple negative
+AOR adjusted odds ratio, CI confidence interval
+Hormone receptor-posi-
+tive, HER2-negative
+p
+Any hormone receptor 
+status, HER2-positive
+p
+Triple negative
+p
+AOR (95% CI)
+AOR (95% CI)
+AOR (95% CI)
+Characteristic
+ Chinese
+Ref.
+.
+Ref.
+.
+Ref.
+.
+ Filipino
+1.33 (1.24–1.43)
+< 0.001
+1.30 (1.15–1.48)
+< 0.001
+1.43 (1.18–1.74)
+< 0.001
+ Hawaiian
+1.51 (1.35–1.69)
+< 0.001
+1.16 (0.93–1.45)
+0.194
+1.21 (0.87–1.69)
+0.268
+ Hmong
+3.82 (2.07–7.06)
+< 0.001
+2.10 (1.01–4.36)
+0.047
+1.26 (0.43–3.69)
+0.674
+ Indian/Pakistani
+1.36 (1.26–1.46)
+< 0.001
+1.40 (1.23–1.59)
+<0.001
+1.25 (1.05–1.49)
+0.014
+ Japanese
+0.94 (0.86–1.03)
+0.167
+1.05 (0.87–1.27)
+0.607
+1.53 (1.20–1.94)
+0.001
+ Kampuchean
+0.95 (0.70–1.30)
+0.764
+1.51 (0.99–2.31)
+0.057
+2.76 (1.40–5.45)
+0.003
+ Korean
+1.22 (1.10–1.34)
+< 0.001
+1.19 (1.00–1.41)
+0.052
+1.35 (1.08–1.70)
+0.009
+ Laotian
+2.19 (1.56–3.08)
+< 0.001
+1.03 (0.65–1.63)
+0.911
+1.69 (0.91–3.14)
+0.096
+ Pacific Islander
+1.67 (1.47–1.91)
+< 0.001
+1.97 (1.56–2.48)
+<0.001
+1.43 (1.00–2.04)
+0.048
+ Thai
+1.44 (1.15–1.80)
+0.002
+1.27 (0.86–1.88)
+0.239
+1.45 (0.85–2.45)
+0.173
+ Vietnamese
+1.24 (1.12–1.38)
+< 0.001
+1.17 (1.00–1.38)
+0.057
+1.35 (1.04–1.76)
+0.024
+
+3328
+	
+A. Thaploo et al.
+Insights from a focus group study with 66 Samoan church 
+members highlight the effectiveness of culturally aligned, 
+church-based cancer awareness programs.38 The study found 
+strong support within the Samoan community for training 
+pastors to frame cancer not as a spiritual illness but as a 
+physical ailment that can be treated. This approach shifts the 
+perception of cancer away from being seen as an incurable 
+spiritual weakness. Future interventions for Pacific Islander 
+communities can learn from this model by involving spir-
+itual and community leaders in health messaging. Leverag-
+ing the community’s hierarchical structure and deep spiritual 
+beliefs, collaborations with religious institutions and exist-
+ing community structures can enhance the acceptance and 
+impact of health programs.
+Finally, focus groups with Native Hawaiian cancer 
+survivors highlighted the importance of Native Hawaiian 
+traditions, such as support from friends, family, commu-
+nity members, and spiritual beliefs, in coping with cancer 
+diagnosis and treatment.39 The success of the PILI ‘Ohana 
+Project (POP), a community-based participatory research 
+initiative addressing obesity and diabetes disparities, dem-
+onstrates the effectiveness of culturally adapted health 
+programs. POP utilized images of familiar cultural foods, 
+recruited community peer educators, and emphasized family 
+and community involvement.40
+Community-level initiatives, such as cost-free screen-
+ing services, mobile clinics, and educational programs, can 
+enhance access for those facing financial or logistical chal-
+lenges. For example, the Hawai’i Breast and Cervical Cancer 
+Control Program (BCCCP) significantly increased screening 
+rates among Micronesian women from 18% to 90% through 
+tailored educational materials and personalized outreach.41 
+Clinically, it is essential to prioritize cultural competency 
+training for healthcare professionals and enhance diversity 
+in physician training to better serve AA&NHPI patients.42 
+Additionally, hospitals should train more interpreters to 
+ensure patients and families can effectively communicate 
+their beliefs and values.43 On a federal level, interven-
+tions should include compensation for lost wages and costs 
+incurred for screenings. Furthermore, investing in broadband 
+infrastructure and programs like the Affordable Connectivity 
+Program is crucial to improving telehealth access.44
+The study’s limitations include the aggregation of sev-
+eral ethnicities under the Pacific Islander umbrella term, as 
+well as the grouping together of Indian/Pakistani popula-
+tions, which may mask critical cultural and socioeconomic 
+differences within these diverse subgroups. Second, this 
+study cannot establish causality with regards to the drivers 
+of disparities in breast cancer stage at diagnosis owing to its 
+retrospective nature. Third, nativity status may be associated 
+with cancer outcomes, as has been shown for many immi-
+grant groups in California but is unfortunately not available 
+in the NCDB.23 Lastly, while our study accounts for several 
+covariates, including income, education, and comorbidity 
+scores, full clinical details and important qualitative factors 
+including illness experiences and caregiving responsibilities 
+were not available; thus, our findings may not encompass the 
+full spectrum of factors involved in within-group differences.
+In conclusion, our study provides important insights 
+with regards to the complex relationship between the coun-
+try of origin and breast cancer stage at presentation among 
+AA&NHPI subgroups. The identified disparities emphasize 
+the urgent need for targeted and culturally tailored inter-
+ventions to ensure equitable access to timely breast cancer 
+screening, detection, and treatment. Finally, we draw atten-
+tion to the need for sustained research on the diverse cultural, 
+environmental, biological, and socioeconomic forces driving 
+within-group disparities. In combination with the delivery 
+of comprehensive, holistic interventions, this approach may 
+alleviate the high burden of breast cancer among marginal-
+ized AA&NHPI communities.
+SUPPLEMENTARY INFORMATION  The online version con-
+tains supplementary material available at https://​doi.​org/​10.​1245/​
+s10434-​025-​16974-x.
+FUNDING  ECD is funded in part through the Prostate Cancer Foun-
+dation Young Investigator Award and the Cancer Center Support Grant 
+from the National Cancer Institute (P30 CA008748).
+REFERENCES
+	 1.	Minority Health | Minority Health | CDC. https://​www.​cdc.​gov/​
+minor​ity-​healt​h/?​CDC_​AAref_​Val=​https://​www.​cdc.​gov/​minor​
+ityhe​alth/​lcod/​men/​2016/​nonhi​spanic-​asian-​or-​islan​der/​index.​
+htm (2024). Accessed 21 Aug 2024.
+	 2.	Key facts about Asian Americans | Pew Research Center. https://​
+www.​pewre​search.​org/​short-​reads/​2021/​04/​29/​key-​facts-​about-​
+asian-​ameri​cans/ (2024). Accessed 21 Aug 2024.
+	 3.	Racial Wealth Snapshot: Asian Americans And The Racial 
+Wealth Divide » NCRC. https://​ncrc.​org/​racial-​wealth-​snaps​
+hot-​asian-​ameri​cans-​and-​the-​racial-​wealth-​divide-​2023/ (2024). 
+Accessed 21 Aug 2024.
+	 4.	Income Inequality in the U.S. Is Rising Most Rapidly Among 
+Asians | Pew Research Center. https://​www.​pewre​search.​org/​
+social-​trends/​2018/​07/​12/​income-​inequ​ality-​in-​the-u-​s-​is-​ris-
+ing-​most-​rapid​ly-​among-​asians/ (2024). Accessed 21 Aug 2024.
+	 5.	Gomez SL, Yao S, Kushi LH, Kurian AW. Is breast cancer in 
+Asian and Asian American women a different disease? JNCI J 
+Natl Cancer Inst. 2019;111(12):1243–4. https://​doi.​org/​10.​1093/​
+JNCI/​DJZ091.
+	 6.	Lin CH, Yap YS, Lee KH, et al. Contrasting epidemiology and 
+clinicopathology of female breast cancer in Asians vs the US 
+population. JNCI J Natl Cancer Inst. 2019;111(12):1298–306. 
+https://​doi.​org/​10.​1093/​JNCI/​DJZ090.
+	 7.	Jain B, Ng K, Santos PMG, et  al. Prostate cancer dispari-
+ties in risk group at presentation and access to treatment for 
+Asian Americans, Native Hawaiians, and Pacific Islanders: 
+a study with disaggregated ethnic groups. JCO Oncol Pract. 
+2022;18(1):e204–18. https://​doi.​org/​10.​1200/​OP.​21.​00412/​
+ASSET/​IMAGES/​LARGE/​OP.​21.​00412​TA5.​JPEG.
+
+3329
+Breast Cancer Disparities
+	 8.	Jain B, Bajaj SS, Patel TA, et al. Colon cancer disparities in stage 
+at presentation and time to surgery for Asian Americans, native 
+Hawaiians, and Pacific Islanders: a study with disaggregated eth-
+nic groups. Ann Surg Oncol. 2023;30(9):5495–505. https://​doi.​
+org/​10.​1245/​S10434-​023-​13339-0/​FIGUR​ES/2.
+	 9.	Kim DY, Dee EC, Cheng I, Hartman RI. Advanced melanoma 
+presentation and disease-specific survival disparities among 
+disaggregated Asian American, Native Hawaiian, and Pacific 
+Islander populations. J Am Acad Dermatol. 2024;90(3):623–6. 
+https://​doi.​org/​10.​1016/J.​JAAD.​2023.​10.​052.
+	10.	Ho FDV, Thaploo A, Wang K, et al. Cervical cancer disparities in 
+stage at presentation for disaggregated Asian Americans, Native 
+Hawaiians, and Pacific Islanders. Am J Obstet Gynecol. 2024. 
+https://​doi.​org/​10.​1016/J.​AJOG.​2024.​08.​027.
+	11.	Hong JH, Swami N, Dee EC, Gomez SL, Lam MB. Non-small 
+cell lung cancer disparities in stage at presentation and treat-
+ment for Asian American, Native Hawaiian, and Pacific Islander 
+women. J Surg Oncol. 2023;127(5):882–90. https://​doi.​org/​10.​
+1002/​JSO.​27204.
+	12.	Boffa DJ, Rosen JE, Mallin K, et al. Using the national can-
+cer database for outcomes research: a review. JAMA Oncol. 
+2017;3(12):1722–8. https://​doi.​org/​10.​1001/​JAMAO​NCOL.​
+2016.​6905.
+	13	 Mallin K, Browner A, Palis B, et al. Incident cases captured 
+in the national cancer database compared with those in U.S. 
+population based central cancer registries in 2012–2014. Ann 
+Surg Oncol. 2019;26(6):1604–12. https://​doi.​org/​10.​1245/​
+S10434-​019-​07213-1.
+	14.	Taparra K, Dee EC, Dao D, Patel R, Santos P, Chino F. Disaggre-
+gation of Asian American and Pacific Islander women with stage 
+0-II breast cancer unmasks disparities in survival and surgery-
+to-radiation intervals: a national cancer database analysis from 
+2004 to 2017. JCO Oncol Pract. 2022;18(8):e1255–64. https://​
+doi.​org/​10.​1200/​OP.​22.​00001/​ASSET/​IMAGES/​LARGE/​OP.​22.​
+00001​F2.​JPEG.
+	15.	Differences in Breast Cancer Stage at Diagnosis and Cancer-
+Specific Survival by Race and Ethnicity in the United States | 
+Breast Cancer | JAMA | JAMA Network. https://​jaman​etwork.​
+com/​journ​als/​jama/​artic​le-​abstr​act/​20893​53?​casa_​token=​Q8Ufg​
+mTwy8​oAAAAA:​EwU2U​au-​jsNFZ​S9GIB​LmH42​LDguf​wEF4z​
+j97Bs​YRITV​yuX4q​n80sW​jUHcp​JQNZz​sJKaN​MblZ0g (2024). 
+Accessed 21 Aug 2024.
+	16.	Primm KM, Zhao H, Hernandez DC, Chang S. A contemporary 
+analysis of racial and ethnic disparities in diagnosis of early-
+stage breast cancer and stage-specific survival by molecular 
+subtype. Cancer Epidemiol Biomark Prev. 2022;31(6):1185–94. 
+https://​doi.​org/​10.​1158/​1055-​9965.​EPI-​22-​0020.
+	17.	Ho FDV, Thaploo A, Wang K, et al. Cervical cancer disparities in 
+stage at presentation for disaggregated Asian Americans, Native 
+Hawaiians, and Pacific Islanders. Am J Obstet Gynecol. 2024. 
+https://​doi.​org/​10.​1016/J.​AJOG.​2024.​08.​027.
+	18.	Santos PMG, Dee EC, Deville C. Confronting anti-Asian racism 
+and health disparities in the era of COVID-19. JAMA Health 
+Forum. 2021;2(9):e212579–e212579. https://​doi.​org/​10.​1001/​
+JAMAH​EALTH​FORUM.​2021.​2579.
+	19.	Dee EC, Chen S, Santos PMG, Wu SZ, Cheng I, Gomez SL. 
+Anti-Asian American racism: a wake-up call for population-
+based cancer research. Cancer Epidemiol Biomark Prev. 
+2021;30(8):1455–9. https://​doi.​org/​10.​1158/​1055-​9965.​
+EPI-​21-​0445.
+	20.	Taparra K, Miller RC, Deville C. Navigating native Hawaiian and 
+Pacific Islander cancer disparities from a cultural and historical 
+perspective. JCO Oncol Pract. 2021;17(3):130–4. https://​doi.​org/​
+10.​1200/​op.​20.​00831.
+	21	 Ali AH, Kang MS, Kaur K, Al Adhami S, Yuvienco CR. Review 
+of hmong-related health problems: a quick guide for healthcare 
+providers. Cureus. 2020. https://​doi.​org/​10.​7759/​CUREUS.​9808.
+	22.	Lor M. Systematic review: health promotion and disease pre-
+vention among hmong adults in the United States. J Racial 
+Ethn Health Disparit. 2018;5(3):638. https://​doi.​org/​10.​1007/​
+S40615-​017-​0410-9.
+	23.	Gomez SL, Clarke CA, Shema SJ, Chang ET, Keegan THM, 
+Glaser SL. Disparities in breast cancer survival among Asian 
+women by ethnicity and immigrant status: a population-based 
+study. Am J Public Health. 2010;100(5):861–9. https://​doi.​org/​
+10.​2105/​AJPH.​2009.​176651.
+	24.	Becerra MB, Becerra BJ, Daus GP, Martin LR. Determinants of 
+low health literacy among Asian-American and Pacific Islanders 
+in California. J Racial Ethn Health Dispar. 2015;2(2):267–73. 
+https://​doi.​org/​10.​1007/​S40615-​015-​0092-0/​TABLES/3.
+	25	 Sentell T, Baker KK, Onaka A, Braun K. Low health literacy and 
+poor health status in Asian Americans and Pacific Islanders in 
+Hawai’i. J Health Commun. 2011;16(Suppl 3):279–94. https://​
+doi.​org/​10.​1080/​10810​730.​2011.​604390.
+	26.	Shalowitz DI, Hung P, Zahnd WE, Eberth J. Pre-pandemic geo-
+graphic access to hospital-based telehealth for cancer care in the 
+United States. PLoS One. 2023;18(1):e0281071. https://​doi.​org/​
+10.​1371/​JOURN​AL.​PONE.​02810​71.
+	27.	The experience of Asian-American women diagnosed with breast 
+cancer: considerations for providers - ProQuest. https://​www.​
+proqu​est.​com/​openv​iew/​a7e26​bd87b​c408b​9deca​f649c​85c4e​
+36/1?​pq-​origs​ite=​gscho​lar&​cbl=​18750 (2024). Accessed 21 
+Aug 2024.
+	28.	Le MN, Nguyen GT, Pan Z, et al. Unmet needs of Asian Ameri-
+can and Pacific Islander cancer survivors. J Cancer Educ. 
+2017;32(2):374–81. https://​doi.​org/​10.​1007/​S13187-​015-​0952-
+7/​METRI​CS.
+	29.	Nishimoto PW, Foley J. Cultural beliefs of Asian Americans 
+associated with terminal illness and death. Semin Oncol Nurs. 
+2001;17(3):179–89. https://​doi.​org/​10.​1053/​SONU.​2001.​25947.
+	30.	Lei F, Lee E. Cancer screening rates among Asian Americans: a 
+cross-sectional secondary data analysis study. Cancer Control. 
+2023;30:1–10. https://​doi.​org/​10.​1177/​10732​74823​12024​62.
+	31.	Xie H, Li Y, Theodoropoulos N, Wang Q. Mammography screen-
+ing disparities in Asian American women: findings from the Cal-
+ifornia health interview survey 2015–2016. Am J Health Promot. 
+2022;36(2):248–58. https://​doi.​org/​10.​1177/​08901​17121​10481​
+36.
+	32.	Tsark JU, Braun KL. Eyes on the Pacific: cancer issues of native 
+Hawaiians and Pacific Islanders in Hawai’i and the US-Associ-
+ated Pacific. J Cancer Educ. 2009;24(Suppl 2):S68. https://​doi.​
+org/​10.​1080/​08858​19090​34046​19.
+	33.	Lor M, Yu Z, Chen W, et al. Refugee-related trauma patterns 
+and mental health symptoms across three generations of Hmong 
+Americans. J Trauma Stress. 2022;35(4):1087. https://​doi.​org/​
+10.​1002/​JTS.​22813.
+	34.	Asian Americans and their origins: Key facts | Pew Research 
+Center. https://​www.​pewre​search.​org/​short-​reads/​2021/​04/​29/​
+key-​facts-​about-​asian-​origin-​groups-​in-​the-u-​s/ (2024). Accessed 
+21 Aug 2024.
+	35.	Article: Marshall Islanders: Migration Patterns an. | migration-
+policy.org. https://​www.​migra​tionp​olicy.​org/​artic​le/​marsh​all-​
+islan​ders-​migra​tion-​patte​rns-​and-​health-​care-​chall​enges (2024). 
+Accessed 21 Aug 2024.
+	36.	Tanjasiri SP, Kagawa-Singer M, Foo MA, et al. Designing cultur-
+ally and linguistically appropriate health interventions: the “Life 
+Is Precious” Hmong breast cancer study. Health Educ Behav. 
+2007;34(1):140–53. https://​doi.​org/​10.​1177/​10901​98105​285336.
+	37.	Ngoc Nguyen TU, Tanjasiri SP, Kagawa-Singer M, Tran 
+JH, Foo MA. Community health navigators for breast- and 
+
+3330
+	
+A. Thaploo et al.
+cervical-cancer screening among Cambodian and Laotian 
+women: intervention strategies and relationship-building pro-
+cesses. Health Promot Pract. 2008;9(4):356–67. https://​doi.​org/​
+10.​1177/​15248​39906​290251.
+	38	 Aitaoto N, Braun KL, Dang KL, So’a T. Cultural considerations 
+in developing church-based programs to reduce cancer health 
+disparities among Samoans. Ethn Health. 2007;12(4):381–400. 
+https://​doi.​org/​10.​1080/​13557​85070​13007​07.
+	39.	Braun KL, Mokuau N, Hunt GH, Kaanoi M, Gotay CC. Supports 
+and obstacles to cancer survival for Hawaii’s Native People. Can-
+cer Pract. 2002;10(4):192–200. https://​doi.​org/​10.​1046/J.​1523-​
+5394.​2002.​104001.X.
+	40.	Kaholokula JK, Ing CT, Look MA, Delafield R, Sinclair K. Cul-
+turally responsive approaches to health promotion for Native 
+Hawaiians and Pacific Islanders. Ann Hum Biol. 2018;45(3):249. 
+https://​doi.​org/​10.​1080/​03014​460.​2018.​14655​93.
+	41.	Preventing Chronic Disease | Design and Results of a Cultur-
+ally Tailored Cancer Outreach Project by and for Micronesian 
+Women. https://​www.​cdc.​gov/​pcd/​issues/​2012/​10_​0262.​htm 
+(2024). Accessed 21 Aug 2024.
+	42.	Han C, Chou S, Shaligram D, et al. Development of a culturally 
+sensitive Asian American/Pacific Islander curriculum for child 
+psychiatry trainees. Acad Psychiatr. 2022;46(1):89. https://​doi.​
+org/​10.​1007/​S40596-​021-​01566-0.
+	43.	For many Asian Americans, medical interpreters are a vital but 
+scarce resource | PBS News Weekend. https://​www.​pbs.​org/​
+newsh​our/​show/​for-​many-​asian-​ameri​cans-​medic​al-​inter​prete​rs-​
+are-a-​vital-​but-​scarce-​resou​rce (2024). Accessed 21 Aug 2024.
+	44.	Affordable Connectivity Program | Federal Communications 
+Commission. https://​www.​fcc.​gov/​acp (2024). Accessed 21 Aug 
+2024.
+Publisher’s Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.
+

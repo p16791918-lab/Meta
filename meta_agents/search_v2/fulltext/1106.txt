@@ -1,0 +1,2130 @@
+record_id=1106 pmid=32940362 doi=10.3322/caac.21637
+SOURCE: manual-pdf
+TITLE: Cancer statistics for adolescents and young adults, 2020
+
+CA CANCER J CLIN 2020;70:443–459
+443
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+Abstract: Cancer statistics for adolescents and young adults (AYAs) (aged 15-39 
+years) are often presented in aggregate, masking important heterogeneity. The 
+authors analyzed population-based cancer incidence and mortality for AYAs in the 
+United States by age group (ages 15-19, 20-29, and 30-39 years), sex, and race/
+ethnicity. In 2020, there will be approximately 89,500 new cancer cases and 9270 
+cancer deaths in AYAs. Overall cancer incidence increased in all AYA age groups 
+­during the most recent decade (2007-2016), largely driven by thyroid cancer, which 
+rose by approximately 3% annually among those aged 20 to 39 years and 4% among 
+those aged 15 to 19 years. Incidence also increased in most age groups for several 
+cancers linked to obesity, including kidney (3% annually across all age groups), uter-
+ine corpus (3% in the group aged 20-39 years), and colorectum (0.9%-1.5% in the 
+group aged 20-39 years). Rates declined dramatically for melanoma in the group 
+aged 15 to 29 years (4%-6% annually) but remained stable among those aged 30 to 
+39 years. Overall cancer mortality declined during 2008 through 2017 by 1% annually 
+across age and sex groups, except for women aged 30 to 39 years, among whom 
+rates were stable because of a flattening of declines in female breast cancer. Rates 
+increased for cancers of the colorectum and uterine corpus in the group aged 30 
+to 39 years, mirroring incidence trends. Five-year relative survival in AYAs is similar 
+across age groups for all cancers combined (range, 83%-86%) but varies widely for 
+some cancers, such as acute lymphocytic leukemia (74% in the group aged 15-19 
+years vs 51% in the group aged 30-39 years) and brain tumors (77% vs 66%), reflect-
+ing differences in histologic subtype distribution and treatment. Progress in reducing 
+cancer morbidity and mortality among AYAs could be addressed through more equi-
+table access to health care, increasing clinical trial enrollment, expanding research, 
+and greater alertness among clinicians and patients for early symptoms and signs 
+of cancer. Further progress could be accelerated with increased disaggregation by 
+age in research on surveillance, etiology, basic biology, and survivorship. CA Cancer 
+J Clin 2020;70:443-459. © 2020 American Cancer Society. 
+Keywords: adolescent cancer, childhood cancer, epidemiology, pediatric cancer
+Introduction
+Cancer in adolescents and young adults (AYAs) is defined by the National Cancer 
+Institute as diagnoses occurring among those aged 15 to 39 years1 and is unique 
+from cancer diagnosed in other age groups because of important differences in the 
+distribution of cancer types, intrinsic and extrinsic risk factors, tumor biology, and 
+prognosis and survivorship. An increasing body of evidence indicates that tumors in 
+AYAs are molecularly distinct from those in both younger and older age groups, pos-
+sibly suggesting differences in etiology and effective treatment.2-4 In addition, com-
+pared with older patients with cancer, AYAs have a higher risk of long-term and late 
+effects, including infertility, sexual dysfunction, cardiovascular disease, and future 
+cancers,5-8 whereas compared with childhood cancer survivors, the risk of severe late 
+effects is lower.9 AYAs are also more likely than older patients with cancer to expe-
+rience delays in diagnosis for some cancers because of higher uninsured rates, a lack 
+of cost-effective early detection methods, and the rarity of cancer at this age.10,11
+Cancer Statistics for Adolescents and Young Adults, 2020
+Kimberly D. Miller, MPH
+1; Miranda Fidler-Benaoudia, PhD2; Theresa H. Keegan, PhD, MS3; Heather S. Hipp, MD4;  
+Ahmedin Jemal, DVM, PhD
+1; Rebecca L. Siegel, MPH
+1
+1 Surveillance Research, American Cancer 
+Society, Atlanta, Georgia;
+2 Department of Cancer Epidemiology 
+and Prevention Research, Calgary, 
+Alberta Canada; 3 Hematology and 
+Oncology, University of California at 
+Davis Health, Sacramento, California; 
+4 Reproductive Endocrinology and 
+Infertility, Emory University School of 
+Medicine, Atlanta, Georgia. 
+Corresponding Author: Kimberly D. 
+Miller, MPH, Surveillance Research, 
+American Cancer Society, 250 Williams St, 
+NW, Atlanta, GA 30303-1002 (kimberly.
+miller@cancer.org).
+DISCLOSURES: Rebecca L. Siegel, 
+Kimberly D. Miller, and Ahmedin Jemal 
+are employed by the American Cancer 
+Society, which receives grants from 
+private and corporate foundations, 
+including foundations associated with 
+companies in the health sector for 
+research outside of the submitted work. 
+The authors are not funded by or key 
+personnel for any of these grants, and 
+their salary is solely funded through 
+American Cancer Society funds. Miranda 
+Fidler-Benaoudia, Theresa H. Keegan, and 
+Heather S. Hipp made no disclosures.
+doi: 10.3322/caac.21637. Available online 
+at cacancerjournal.com
+
+AYA Cancer Statistics
+444
+CA: A Cancer Journal for Clinicians
+Despite rapid progress in the scientific understanding of 
+cancer in AYAs, important research gaps in etiology, basic 
+biology, treatment, and survivorship persist, partly because 
+this age group continues to be grouped with children and/
+or older adults in many epidemiologic studies. Even within 
+AYA studies, data are often presented in aggregate, masking 
+important differences across AYA age groups. This article 
+summarizes population-based trends in cancer incidence, 
+mortality, and survival among AYAs, with a focus on the het-
+erogeneity within this population, and also briefly reviews 
+survivorship issues.
+Materials and Methods
+Data Sources
+Population-based cancer incidence data in the United 
+States are collected by the National Cancer Institute’s 
+Surveillance, Epidemiology, and End Results (SEER) 
+program and by the Centers for Disease Control and 
+Prevention’s National Program of Cancer Registries 
+(NPCR). Historical incidence and survival trends (1975-
+2016) were based on data from the 9 oldest SEER regis-
+tries, representing 9% of the US population.12 Data from 
+the 18 SEER registries, covering 28% of the US popula-
+tion, were the source for 5-year relative and cancer-specific 
+survival rates.13 Combined SEER and NPCR data for 
+1995 through 2016, as provided by the North American 
+Association of Central Cancer Registries (NAACCR), 
+were the source for the estimated numbers of new cancer 
+cases in 2020, cross-sectional incidence rates (2012-2016), 
+stage distribution (2012-2016), and 10-year average an-
+nual percent changes (AAPCs) in incidence rates (2007-
+2016).14,15 Analyses of incidence trends from 1995 through 
+2016 were based on all available data for the 50 states and 
+the District of Columbia, covering 95% of the US popula-
+tion during that time.
+Mortality data covering all 50 states and the District 
+of Columbia were obtained from the National Center for 
+Health Statistics and were the source for death rates in 
+the most recent time period (2012-2016) and long-term 
+trends (1975-2017).16,17 Incidence and mortality rates for 
+American Indians/Alaska Natives (AI/ANs) were based 
+on cases and deaths in Preferred/Referred Care Delivery 
+Area counties. The 2018 National Health Interview 
+Survey was used for estimates of self-reported cervical 
+cancer screening.18
+Statistical Analyses
+Case estimates were calculated by applying the age- 
+specific proportions of cases diagnosed during 2015 
+through 2016 from the NAACCR analytic file to the 
+previously published total number of estimated cases in 
+2020.19 Similarly, we calculated the estimated number of 
+cancer deaths among AYAs by applying the proportion of 
+deaths in that age group during 2016 through 2017 to the 
+previously published estimates for total cancer deaths in 
+2020. Estimates by cancer type for cases are provided for 
+sexes combined for stability and are not provided for can-
+cer deaths because of sparse data.
+Incidence and death rates, expressed per 100,000 pop-
+ulation, were calculated using SEER*Stat (version 8.3.6) 
+software and were age standardized to the 2000 US stan-
+dard population.20 In analyses of incidence trends for 
+selected sites using NAACCR data, we applied delay ad-
+justment factors from the US Cancer Statistics data file.21 
+All cases were classified according to the AYA site recode/
+World Health Organization 2008 definitions, based on the 
+International Classification of Diseases for Oncology, third 
+edition,22,23 with the exception of melanoma of the skin 
+and solid tumors other than brain, which were classified 
+according to SEER site recode/World Health Organization 
+2008 definitions for comparability to statistics in older age 
+groups as well as differentiation between uterine cervix 
+and uterine corpus. Trends for colorectal cancer incidence 
+excluded the appendix (code C18.1). Causes of death 
+were classified according to the International Statistical 
+Classification of Diseases and Related Health Problems, 10th 
+revision.24 It is important to note that, because of differ-
+ences in classification, incidence and mortality statistics 
+herein are not directly comparable.
+The annual percent change in rates was quantified 
+using the National Cancer Institute’s Joinpoint Regression 
+Program (version 4.7.0.0).25 Screening prevalence estimates 
+were calculated using SAS-callable SUDAAN (version 
+11.0.1; RTI International, Research Triangle Park, North 
+Carolina) and accounted for the complex survey design.
+Selected Findings
+Expected Cases and Deaths in 2020
+In 2020, there will be approximately 89,500 new cancer 
+cases and 9270 cancer deaths in AYAs aged 15 to 39 years 
+in the United States (Table 1). The distribution of cancers 
+among AYAs varies substantially by age (Fig. 1). In par-
+ticular, adolescents (defined hereafter as individuals aged 
+15-19 years) have a unique cancer profile that includes 
+a higher proportion of childhood cancers (eg, Hodgkin 
+lymphoma, acute lymphocytic leukemia [ALL]) versus 
+TABLE 1.  Estimated Cancer Cases and Deaths in 
+Adolescents and Young Adults by Age, 2020
+AGE
+ESTIMATED CASES
+ESTIMATED DEATHS
+15-19 years
+5800
+540
+20-29 years
+24,900
+2210
+30-39 years
+58,800
+6520
+Total
+89,500
+9270
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+445
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+adult cancers (eg, thyroid cancer and melanoma of the 
+skin) compared with those aged 20 to 39 years. The most 
+commonly diagnosed cancers are thyroid cancer, Hodgkin 
+lymphoma, and brain and other nervous system cancers 
+among adolescents; thyroid cancer, testicular germ cell tu-
+mors (GCTs), and melanoma of the skin in the group aged 
+20 to 29 years and female breast cancer, thyroid cancer, and 
+melanoma in those aged 30 to 39 years (Table 2). Notably, 
+the only commonality among the top 3 sites in each age 
+group is thyroid cancer.
+Incidence
+Among AYAs, incidence increases with advancing age for 
+all cancer types except for ALL, bone tumors, and Hodgkin 
+lymphoma, for which rates are highest in adolescents 
+(Table 3). Cancer incidence rates for all sites combined are 
+similar by sex in AYAs aged 15 to 19 years (23 vs 24 cases per 
+100,000 population in females and males, respectively, dur-
+ing 2012-2016). Rates in women compared with men, how-
+ever, are 30% higher in AYAs aged 20 to 29 years (55 vs 42 
+per 100,000 population) and nearly double in those aged 30 
+to 39 years (161 vs 84 per 100,000 population) (Table 3),19 
+primarily because of the substantially higher incidence of 
+breast and thyroid cancers and melanoma of the skin in 
+women. For example, thyroid cancer incidence rates among 
+women in their 20s are greater than 5-fold higher than those 
+among men (15 vs 3 per 100,000 population during 2012-
+2016, respectively).19 Notably, although lung cancer is rare in 
+AYAs, rates among women in their 30s are higher than those 
+among men despite lower smoking prevalence in women; 
+research is ongoing to elucidate the causes of this pattern.26
+Long-term trends in cancer incidence rates among AYAs 
+by age group are shown in Figure 2. Rates among men aged 
+20 to 39 years rapidly increased in the late 1980s and sub-
+sequently declined in the early 1990s in parallel with the 
+human immunodeficiency virus (HIV)/acquired immune 
+deficiency syndrome (AIDS) epidemic, primarily reflect-
+ing a peak in the occurrence of Kaposi sarcoma (Fig. 3). 
+During the past decade of available data (2007-2016), 
+overall incidence rates increased in all AYAs, but may be 
+stabilizing among men in their 20s (Fig. 2). Rising rates in 
+AYAs, especially among women, are largely driven by the 
+increased detection of thyroid cancer, for which rates rose 
+by almost 3% annually among adults aged 20 to 39 years 
+and 4% annually among adolescents during 2007 through 
+2016 (Table 4).13 Indeed, when thyroid cancer is excluded 
+from overall trends, rates in women during 2007 through 
+2016 were stable. Increases in thyroid cancer incidence 
+FIGURE 1. Case Distribution (%) of Leading Cancer Types in Adolescents 
+and Young Adults, 2012 to 2016. Coding for cancers of the thyroid, female 
+breast, colon and rectum, and uterine cervix and melanoma of the skin are 
+based on the Surveillance, Epidemiology, and End Results adult recode 
+variable, excluding a small number of sarcomas of the bone and soft tissue. 
+HL indicates Hodgkin lymphoma; NHL, non-Hodgkin lymphoma; ONS, other 
+nervous system.
+TABLE 2.  Leading Sites of New Cancer Cases in Adolescents and Young Adults, Both Sexes Combined: 2020 Estimatesa
+AGES 15 TO 19 YEARS
+AGES 20 TO 29 YEARS
+AGES 30 TO 39 YEARS
+CANCER TYPE
+NO.
+CANCER TYPE
+NO.
+CANCER TYPE
+NO.
+Thyroid
+800
+Thyroid
+4600
+Breast (female)
+11,100
+Hodgkin lymphoma
+800
+Testicular germ cell tumors
+3000
+Thyroid
+9000
+Brain and ONS
+500
+Melanoma of the skin
+2200
+Melanoma of the skin
+5500
+Non-Hodgkin lymphoma
+500
+Hodgkin lymphoma
+2000
+Colon and rectum
+4100
+Testicular germ cell tumors
+400
+Breast (female)
+1500
+Testicular germ cell tumors
+3100
+Acute lymphoid leukemia
+400
+Non-Hodgkin lymphoma
+1400
+Uterine cervix
+3000
+Bone tumors
+400
+Colon and rectum
+1300
+Non-Hodgkin lymphoma
+2700
+Soft-tissue sarcomas
+400
+Brain and ONS
+1200
+Kidney
+2400
+Melanoma of the skin
+200
+Soft-tissue sarcomas
+1000
+Uterine corpus
+2000
+Acute myeloid leukemia
+200
+Uterine cervix
+800
+Brain and ONS
+1800
+Abbreviation: ONS, other nervous system.
+aEstimates are rounded to the nearest 100 and exclude basal cell and squamous cell skin cancers, benign and borderline brain tumors, and in situ carcinoma of any 
+site except urinary bladder. Ranking is based on modeled progress and may differ from the most recent observed data.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+446
+CA: A Cancer Journal for Clinicians
+TABLE 3.  Cancer Incidence (2012-2016), Mortality (2013-2017), and 5-Year Relative Survival (2009-2015) Rates By Agea
+CANCER TYPE
+15 TO 19 YEARS
+20 TO 29 YEARS
+30 TO 39 YEARS
+INCIDENCE RATE
+DEATH RATE
+5-YEAR SURVIVAL, %
+INCIDENCE RATE
+DEATH RATE
+5-YEAR SURVIVAL, %
+INCIDENCE RATE
+DEATH RATE
+5-YEAR SURVIVAL, %
+All cancer typesb
+23.5
+2.8
+85%
+48.5
+4.9
+86%
+122.5
+15.3
+83%
+Male
+24.0
+3.3
+82%
+42.4
+5.4
+83%
+83.8
+13.4
+79%
+Female
+22.9
+2.3
+88%
+54.9
+4.4
+88%
+161.3
+17.2
+86%
+Bone tumorsc
+1.6
+0.5
+67%
+0.8
+0.3
+68%
+0.8
+0.2
+74%
+Brain and ONSb,c
+2.2
+0.5
+77%
+2.5
+0.6
+73%
+3.7
+1.5
+66%
+Breast (female)
+0.1
+—d
+85%
+5.7
+0.4
+83%
+46.6
+4.8
+86%
+Colon and rectum
+0.9
+<0.1
+82%
+2.2
+0.3
+68%
+8.3
+1.8
+68%
+Hodgkin lymphoma
+3.1
+<0.1
+97%
+4.1
+0.1
+95%
+3.4
+0.2
+94%
+Kidney and renal pelvis
+0.2
+<0.1
+73%
+0.9
+0.1
+83%
+4.9
+0.3
+90%
+Leukemia
+3.1
+0.7
+73%
+2.9
+0.9
+64%
+4.1
+1.1
+69%
+Acute lymphocytic leukemia
+1.7
+0.3
+74%
+0.9
+0.3
+52%
+0.7
+0.3
+51%
+Acute myeloid leukemia
+1.0
+0.3
+66%
+1.1
+0.3
+59%
+1.6
+0.5
+57%
+Lung and bronchus
+0.1
+<0.1
+81%
+0.4
+0.1
+60%
+2.0
+0.8
+39%
+Melanoma of the skin
+1.0
+<0.1
+95%
+4.5
+0.2
+96%
+11.2
+0.6
+94%
+Non-Hodgkin lymphoma
+1.9
+0.1
+88%
+2.9
+0.3
+83%
+5.8
+0.6
+83%
+Oral cavity and pharynx
+0.5
+<0.1
+90%
+0.8
+0.1
+84%
+2.4
+0.2
+82%
+Soft-tissue sarcoma
+1.3
+0.3
+69%
+2.1
+0.4
+69%
+3.6
+0.5
+74%
+Testicular germ cell tumors
+3.5
+<0.1
+96%
+11.7
+0.2
+95%
+13.0
+0.2
+96%
+Thyroid
+3.1
+—d
+99%
+8.7
+<0.1
+>99%
+18.8
+<0.1
+>99%
+Uterine cervix
+0.1
+—d
+—d
+3.1
+0.3
+82%
+12.1
+1.9
+80%
+Uterine corpus
+0.1
+—d
+—d
+1.3
+0.1
+88%
+7.8
+0.5
+91%
+Abbreviation: ONS, other nervous system.
+aIncidence and death rates are per 100,000 population and are age adjusted to the 2000 US standard population. Mortality and incidence are not directly comparable for some cancer types for which cases are defined using 
+histology information, including testicular germ cell tumors, brain and ONS tumors, bone tumors, and soft-tissue sarcomas.
+bThese exclude benign and borderline brain tumors.
+cFor incidence and survival, coding for these cancer types correspond to the following adolescent and young adult site recode/World Health Organization 2008 definitions: bone tumors, including osseous and chrondomatous 
+tumors, brain and ONS tumors, central nervous system tumors, and other intracranial and intraspinal tumors.
+dData are not shown because there were fewer than 16 cases or deaths or could not be calculated because of data limitations.
+Source: Incidence, North American Association of Central Cancer Registries, 2019; mortality, National Center for Health Statistics, 2019; survival, Surveillance, Epidemiology, and End Results (SEER 18) registries, 2019.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+447
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+rates have occurred across all age groups (Fig. 4), largely 
+reflecting increased detection because of advances in 
+imaging.27 Other cancers for which rates are increasing 
+in AYAs include those that have similarly been linked to 
+increased detection (eg, kidney), as well as those cancers 
+associated with the obesity epidemic (eg, colorectal, kid-
+ney, uterine corpus, and possibly leukemia).28,29 However, 
+the extent to which known risk factors contribute specifi-
+cally to the rising incidence in AYAs is unclear, and further 
+research is needed. For example, the increase in kidney 
+cancer, which is the most rapidly increasing cancer across 
+all AYA age groups, is largest for high-grade, aggressive 
+tumors and renal cell carcinoma; renal pelvic cancer rates 
+have not similarly increased, as would be expected from 
+increased detection.30
+By race/ethnicity, cancer incidence rates among AYAs 
+are highest in non-Hispanic Whites (83 per 100,000 
+population) and lowest in Asian/Pacific Islanders (APIs) 
+(54 per 100,000 population) for both sexes (Fig. 5). This 
+reflects generally higher rates in non-Hispanic Whites 
+for thyroid cancer, testicular GCTs, and melanoma com-
+pared with other major racial/ethnic groups. Overall inci-
+dence rates during 2007 through 2016 increased among 
+AYA women for all racial/ethnic groups except AI/ANs 
+(Table 5), among whom rates were stable. Incidence was 
+generally stable among men across all racial/ethnic groups 
+except for APIs and Hispanics, among whom rates 
+increased annually by 1.5% and 0.8%, respectively. These 
+increases largely reflect rates for testicular GCT and thy-
+roid cancer, especially among Hispanics, among whom 
+testicular GCT incidence rates rose by nearly 3% annually, 
+for reasons that are unknown.15
+Cancer Survival and Stage Distribution
+Except for a decline during the HIV/AIDS epidemic from 
+the mid-1980s to the mid-1990s among men aged 20 to 39 
+years, overall 5-year survival among AYAs has increased since 
+the mid-1970s.12,13 Five-year relative survival rates for AYA 
+patients diagnosed during 2009 through 2015 were generally 
+similar across age groups (range, 83%-86%) (Table 3) and 
+were comparable to the rate in children (84%) but were sub-
+stantially higher than that in adults aged ≥40 years (66%).13 
+However, overall AYA cancer survival is largely influenced by 
+the high survival rates of thyroid cancer,31 which has a 5-year 
+survival rate >99%. In addition, many other common cancers 
+in young adults have high 5-year survival rates (eg, ≥94% 
+for testicular GCTs, melanoma, and Hodgkin lymphoma) 
+because of highly effective treatment for testicular GCTs, 
+Hodgkin lymphoma, and early-stage melanoma (Table 3). 
+AYAs are diagnosed at earlier stages than older adults for 
+most cancers except colorectal and female breast cancers, 
+which is due not only to screening differences but also to 
+diagnosis delays resulting from less access to health care.32
+Despite comparable cancer survival in AYAs and chil-
+dren, survival in AYAs is lower for some cancer types.33,34 
+For example, the 5-year relative survival rate for patients 
+with ALL who were diagnosed during 2009 through 2015 
+was higher in children (91%) than in AYAs overall (60%) 
+and in every age group (Table 3).13 Similarly, the 5-year 
+survival rate for patients with non-Kaposi soft-tissue sar-
+coma was lower in AYAs than in children (73% vs 81%) 
+despite higher survival during 1975 through 1977 (70% 
+vs 58%).12
+Five-year cancer-specific survival in AYAs for all cancer 
+types combined is lower in racial/ethnic minorities, especially 
+FIGURE 2. Trends in Adolescent and Young Adult Cancer Incidence and Mortality Rates for All Cancers Combined by Age and Sex, 1975 to 2017. Rates 
+are age adjusted to the 2000 US standard population, and incidence rates are adjusted for reporting delays. Rates for those aged 15 to 19 years are 2-year 
+moving averages.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+448
+CA: A Cancer Journal for Clinicians
+individuals who are non-Hispanic Black (75%) compared 
+with those who are non-Hispanic White (88%) (Fig. 6).13 
+Some of the largest disparities occur among those who are 
+non-Hispanic Black and Hispanic compared with non- 
+Hispanic Whites for ALL (57% and 58% vs 71%, respec-
+tively) and female breast cancer (78% and 85% vs 89%, 
+respectively) and among AI/ANs compared with non- 
+Hispanic Whites for colorectal cancer (59% vs 72%, respec-
+tively). These disparities are not only driven by differences 
+in the timeliness and quality of diagnosis and treatment as a 
+result of inequities in insurance status and access to care but 
+also by differences in tumor characteristics, such as estrogen 
+receptor status for female breast cancer.10,35
+Mortality
+The leading causes of cancer death differ substantially 
+by age group (Table 6). In 2017, leukemia and brain tu-
+mors were among the leading cancer causes of death in 
+all sex and age groups except women aged 30 to 39 years, 
+among whom breast, cervical, and colorectal cancers were 
+the leading cancer causes of death. Importantly, leukemia 
+continues to be the leading cause of cancer death in both 
+adolescents and adults aged 20 to 29 years, a point that 
+is masked when adolescents are combined with children, 
+among whom brain cancer is the leading cancer cause of 
+death.36
+In contrast to incidence, cancer death rates among 
+AYAs aged 15 to 29 years are higher in males than in 
+females (Table 3) because of differences in case distribu-
+tion and lower survival in males for some common cancers 
+(eg, melanoma).16 By race/ethnicity, non-Hispanic Black 
+AYAs have the highest cancer mortality rates (11 per 100,000 
+population) despite 25% lower incidence rates than those in 
+non-Hispanic Whites. In women, this largely reflects sub-
+stantial disparities in breast cancer mortality; breast cancer 
+death rates in non-Hispanic Black women in their 30s are 
+nearly double those in non-Hispanic White women (8.5 vs 
+4.5 deaths per 100,000 population, respectively).17
+Cancer mortality rates in AYAs have been steadily de-
+clining in all age and sex groups since at least 1975 (Fig. 2). 
+Notably, these trends do not reflect the impact of the HIV/
+AIDS epidemic because deaths from HIV/AIDS-related 
+cancers are often attributed to the underlying viral infection. 
+In addition, Kaposi sarcoma was not a separate reportable 
+cause of death until 1999. During the most recent 10 years 
+of available data (2008-2017), mortality rates for all cancers 
+combined declined on average by approximately 1% per 
+year in both men and women but leveled off in recent years 
+among women aged 30 to 39 years, likely reflecting stable 
+rates for breast cancer mortality after more than 2 decades of 
+decline (Table 4). By race/ethnicity, mortality declines over 
+the past decade were steepest in non-Hispanic White and 
+Black AYAs and were stable in Hispanics, AI/AN men, and 
+API women (Table 5).
+Selected sites
+Brain and other nervous system tumors
+Malignant brain and other nervous system tumors (also re-
+ferred to as brain cancer) are a substantial cause of morbidity 
+and mortality in AYAs. An estimated 3700 cases of malignant 
+brain tumors are expected to be diagnosed among AYAs in 
+2020 (Table 2). Brain cancer is the most common cause of 
+cancer death in AYA men and the second leading cause overall 
+after breast cancer (Table 6). Gliomas account for the majority 
+of cases in AYAs, similar to other age groups. Among AYAs, 
+however, there is substantial heterogeneity in the distribution 
+of other brain tumor subtypes by age: adolescents have a higher 
+FIGURE 3. Kaposi Sarcoma and Non-Hodgkin Lymphoma Incidence Rates 
+Compared With All Other Cancers Combined Among Young Adult Men, 
+1975 to 2016. Incidence rates are age adjusted to the 2000 US standard 
+population and are adjusted for reporting delays.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+449
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+TABLE 4.  Ten-Year Fixed-Interval Trends in Incidence (2007-2016) and Mortality (2008-2017) Rates for Selected Cancers in Adolescents and Young Adultsa
+CANCER TYPE
+INCIDENCE AAPC 
+MORTALITY AAPC
+15 TO 19 YEARS
+20 TO 29 YEARS
+30 TO 39 YEARS
+15 TO 39 YEARS
+15 TO 19 YEARS
+20 TO 29 YEARS
+30 TO 39 YEARS
+15 TO 39 YEARS
+All cancer types
+0.9b
+0.5b
+1.0b
+1.0b
+−1.7b
+−1.5b
+−0.6b
+−0.9b
+Male
+1.2b
+0.7b
+0.8b
+0.5b
+−1.7b
+−1.4b
+−0.7b
+−1.0b
+Female
+1.0b
+1.1b
+1.3b
+1.2b
+−1.8b
+−1.7b
+−0.5
+−0.7b
+Bone tumors
+−0.5b
+−0.1
+0.3
+−0.1
+−0.1
+−2.2
+0.8b
+−0.8
+Brain and ONS
+0.4
+−1.6b
+−0.5b
+−0.8b
+−1.0
+−0.8b
+1.1b
+0.5
+Breast (female)
+−2.1
+1.9b
+0.2b
+0.2b
+—c
+0.7
+−0.4
+−0.3
+Colon and rectumd
+0.6
+0.9b
+1.5b
+1.4b
+—c
+−0.0
+1.0b
+0.8b
+Hodgkin lymphoma
+−0.2b
+−0.7b
+−1.2b
+−1.1b
+—c
+−9.9b
+−10.7b
+−10.5b
+Kidney and renal pelvis
+2.9b
+2.6b
+3.2b
+3.1b
+—c
+2.3b
+−1.2b
+1.4
+Leukemia
+1.0b
+1.0b
+1.3b
+0.6
+−2.3b
+−3.1b
+−2.0b
+−1.9b
+Acute lymphocytic leukemia
+0.7b
+1.4b
+1.9b
+1.3b
+−2.7b
+−1.5b
+−0.1
+−1.8b
+Acute myeloid leukemia
+1.1b
+0.4b
+1.2b
+0.9b
+−1.1b
+−3.8b
+−2.1b
+−2.8b
+Lung and bronchus
+0.3
+0.3
+−3.3b
+−2.8b
+—c
+−4.8
+−5.1b
+−4.8b
+Melanoma of the skin
+−6.2b
+−3.5b
+−0.7
+−1.5b
+—c
+−7.5b
+−4.8b
+−5.2b
+Non-Hodgkin lymphoma
+0.9b
+−0.2
+−0.8b
+−0.5b
+−4.8b
+−5.0b
+−3.3b
+−4.0b
+Oral cavity and pharynx
+0.6
+0.5
+0.1
+0.2
+—c
+−1.0b
+−1.5b
+−1.5b
+Soft-tissue sarcoma
+−0.2
+−0.5b
+−1.1b
+−0.8b
+−0.5b
+−0.4b
+0.7
+−0.3b
+Kaposi sarcoma
+—c
+2.5b
+−5.9b
+−4.3b
+—c
+—c
+—c
+—c
+Testicular germ cell tumors
+1.1b
+0.4b
+0.9b
+0.6b
+—c
+0.6
+2.3
+0.5
+Thyroid
+4.3b
+2.5b
+2.8b
+2.8b
+—c
+—c
+−0.8b
+−0.5b
+Uterine cervix
+−4.8b
+−1.6b
+−0.0
+−0.3
+—c
+1.2
+0.2
+0.4
+Uterine corpus
+−0.9
+2.5b
+3.0b
+2.9b
+—c
+0.5
+2.3b
+2.3b
+Abbreviations: AAPC, average annual percent change; ONS, other nervous system.
+aFixed-interval trends represent the 10-year AAPC based on 1995 to 2016 incidence rates and 1975 to 2017 mortality rates. AAPCs were calculated allowing up to 4 joinpoints for incidence trends and 5 joinpoints for mortality 
+trends.
+bThe AAPC is statistically significantly different from zero (P < .05).
+cData were too sparse in some data years to calculate trends.
+dCancers of the appendix were excluded from incidence trends.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+450
+CA: A Cancer Journal for Clinicians
+proportion of intracranial GCTs and other brain tumors as-
+sociated with childhood, such as medulloblastoma, than those 
+aged 20 to 39 years.37 For example, during 2012 through 2016, 
+medulloblastoma accounted for 9% of brain and other nervous 
+system tumors in adolescents compared with 3% of tumors in 
+the group aged 30 to 39 years.
+FIGURE 4. Trends in Adolescent and Young Adult Cancer Incidence Rates by Site and Age, 1995 to 2016. Rates are age adjusted to the 2000 US standard 
+population and are 2-year moving averages. HL indicates Hodgkin lymphoma; NHL, non-Hodgkin lymphoma; ONS, other nervous system.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+451
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+From 2007 to 2016, brain cancer incidence rates were 
+stable in adolescents and declined among adults aged 20 to 
+39 years (Table 4). Reasons for these trends are unknown, as 
+there are few established risk factors for brain tumors other 
+than exposure to ionizing radiation.38 Current trends may be 
+influenced by recent changes in reporting after an improved 
+understanding of tumor biology, as has been hypothesized 
+for younger age groups.39 The 5-year relative survival rate 
+for malignant brain tumors ranges from 77% in adolescents 
+to 66% in the group aged 30 to 39 years, largely reflecting 
+differences in the aggressiveness of glioma subtypes by age.13 
+For example, the 5-year relative survival rate for patients with 
+astrocytoma who were diagnosed during 2009 through 2015 
+was 76% in adolescents compared with 50% in the group 
+aged 30 to 39 years.
+Benign and borderline brain tumors account for a large 
+proportion of overall cases of brain tumors in all age groups; 
+among AYAs in particular, this percentage ranges from 48% 
+in adolescents to 63% in the group aged 30 to 39 years.14 
+Incidence rates for these cancers, which were not reportable 
+until 2004, have increased in recent years largely because of 
+improvements in reporting.40 The overall 5-year relative sur-
+vival rate for benign and borderline tumors is relatively high, 
+at approximately 97%, in all AYA age groups.41
+Female breast
+Breast cancer is the most commonly diagnosed cancer 
+among women aged 30 to 39 years, with an estimated 11,100 
+cases expected in 2020 (Table 2). It is the leading cancer 
+cause of death in AYA women, accounting for 22% of can-
+cer deaths in 2017 (Table 6). The risk of developing breast 
+cancer at a young age is higher for women with a family 
+history of the disease, particularly a diagnosis in a relative 
+aged younger than 50 years and in those with heritable mu-
+tations in cancer susceptibility genes (eg, BRCA1/BRCA2) 
+or certain other genetic syndromes (eg, Li-Fraumeni 
+syndrome).42 However, most AYA women who are diag-
+nosed with breast cancer do not have these risk factors.43 
+Reproductive risk factors generally do not appear to dif-
+fer long-term by age or menopausal status.44,45 However, 
+among younger women, the risk of breast cancer is tempo-
+rarily increased after first birth.
+Incidence rates in non-Hispanic Black AYAs are 14% 
+higher than those in non-Hispanic White AYAs (25.9 vs 
+22.3 per 100,000 population during 2012-2016)19 in con-
+trast to older women, among whom rates are highest in 
+Whites. However, higher incidence rates in non-Hispanic 
+Black AYAs are confined to hormone receptor–negative 
+disease; in particular, triple-negative rates are >50% higher 
+than those in non-Hispanic Whites (6.1 vs 3.9 per 100,000 
+population during 2012-2016, respectively).19 Notably, the 
+FIGURE 5. Cancer Incidence and Mortality Rates by Sex and Race/Ethnicity, 
+Ages 15 to 39 Years, 2012 to 2017. Rates are per 100,000 population and 
+age adjusted to the 2000 US standard population. Rates for American 
+Indians/Alaska Natives are based on Preferred/Referred Delivery Care Area 
+counties.
+TABLE 5.  Ten-Year Fixed-Interval Trends in Cancer 
+Incidence (2007-2016) and Mortality (2008-2017) 
+Rates by Race/Ethnicity in Adolescents and 
+Young Adultsa
+RACE/ETHNICITY
+INCIDENCE AAPC
+MORTALITY AAPC
+MALE
+FEMALE
+MALE
+FEMALE
+Non-Hispanic White
+0.2
+0.8b
+−1.3b
+−1.6b
+Non-Hispanic Black
+0.0
+0.5b
+−1.2b
+−2.0b
+Asian/Pacific Islander
+1.5b
+1.4b
+−1.7b
+0.6
+American Indian/Alaska Native
+0.4
+0.3
+−0.7
+−1.1b
+Hispanic
+0.8b
+1.5b
+−0.1
+0.9
+Abbreviation: AAPC, average annual percent change.
+aFixed-interval trends represent the 10-year AAPC based on 1995 to 2016 inci-
+dence rates and 1990 to 2017 mortality rates. AAPCs were calculated allowing 
+up to 4 joinpoints for incidence trends and 5 joinpoints for mortality trends.
+bThe AAPC is statistically significantly different from zero (P < 0.05).
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+452
+CA: A Cancer Journal for Clinicians
+Black-White disparity in breast cancer mortality is largest in 
+AYAs and declines with age.46 Death rates in non-Hispanic 
+Black AYAs compared with those who are White are nearly 
+double (3.9 vs 2.0 per 100,000 population, respectively, 
+during 2013-2017),17 reflecting in part the higher rates of 
+aggressive tumors with a poorer prognosis combined with 
+inequities in access to high-quality cancer care.
+During the most recent 10 years of available data, 
+breast cancer incidence rates increased by nearly 2% an-
+nually among women aged 20 to 29 years and by 0.2% 
+annually among women in their 30s; rates in adolescents 
+were stable. The overall increase in female breast cancer 
+is largely driven by non-Hispanic Whites, among whom 
+rates have increased since at least 1995.15 Factors thought 
+to be driving the increase include changes in reproductive 
+patterns, such as declines in the fertility rate and older age 
+at first birth. Breast cancer mortality rates are no longer 
+decreasing in AYA women after more than 2 decades of 
+continuous decline, likely reflecting increased incidence 
+(Table 4) (Fig. 7).
+FIGURE 6.  Five-Year Cause-Specific Survival by Race/Ethnicity for Selected Cancers in Adolescents and Young Adults, 2009 to 2015. Patients were 
+diagnosed from 2009 to 2015 and followed through 2016. *Data are suppressed for American Indians/Alaska Natives because of sparse case numbers (<25 
+cases). ONS indicates other nervous system.
+TABLE 6.  Leading Cancer Causes of Death Among Adolescents and Young Adults by Age and Sex, 2017
+15 TO 39 YEARS
+15 TO 19 YEARS
+20 TO 29 YEARS
+30 TO 39 YEARS
+MALE
+CANCER TYPE
+NO.
+%
+NO.
+%
+NO.
+%
+NO.
+%
+All sites
+4303
+All sites
+332
+All sites
+1182
+All sites
+2789
+Brain and ONS
+594
+14%
+Leukemia
+87
+26%
+Leukemia
+225
+19%
+Colon and rectum
+388
+14%
+Leukemia
+556
+13%
+Bone tumors
+64
+19%
+Brain and ONS
+169
+14%
+Brain and ONS
+377
+14%
+Colon and rectum
+467
+11%
+Brain and ONS
+48
+14%
+Testis
+100
+8%
+Leukemia
+244
+9%
+FEMALE
+CANCER TYPE
+NO.
+%
+NO.
+%
+NO.
+%
+NO.
+%
+All sites
+4791
+All sites
+228
+All sites
+933
+All sites
+3630
+Breast
+1063
+22%
+Leukemia
+58
+25%
+Leukemia
+118
+13%
+Breast
+968
+27%
+Uterine cervix
+514
+11%
+Brain and ONS
+49
+21%
+Brain and ONS
+117
+13%
+Uterine cervix
+437
+12%
+Brain and ONS
+407
+8%
+Bone tumors
+40
+18%
+Breast
+95
+10%
+Colon and rectum
+338
+9%
+Abbreviation: ONS, other nervous system.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+453
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+AYA patients with breast cancer are more commonly di-
+agnosed at an advanced stage than older patients; less than 
+one-half (47%) are diagnosed at a localized stage compared 
+with 60% in patients aged 45 to 54 years and 65% in those 
+aged 55 to 64 years.19 In addition to mammographic screen-
+ing not being recommended for AYAs at average breast 
+cancer risk, this also reflects diagnostic delays and a higher 
+proportion of aggressive disease (eg, triple-negative breast 
+cancer) at younger ages.16,47 As a result, the 5-year relative 
+survival rate for female breast cancer is lower in AYAs than 
+in older, screening-aged women (86% vs 91% in women 
+aged 45-64 years).19
+Colon and rectum (colorectum)
+Colorectal cancer is the fourth most commonly diagnosed 
+cancer among adults aged 30 to 39 years, with 4100 cases 
+expected in 2020 (Table 2). In 2017, it was the leading 
+cancer cause of death among men in this age group and 
+the third among women (Table 6). Increasing evidence 
+suggests that colorectal cancer in adults aged <30 years is 
+unique from that diagnosed in older adults, in part because 
+of a higher frequency of tumors occurring in the distal 
+colon or rectum and exhibiting microsatellite instability 
+and mucinous and signet ring cell histologies.48 A fam-
+ily history of young-onset diagnosis and certain hereditary 
+conditions (eg, Lynch syndrome, familial adenomatous 
+polyposis) are associated with a higher risk of colorectal 
+cancer before age 40 years.49,50
+During 2007 through 2016, colorectal cancer incidence 
+rates increased by 0.9% and 1.5% annually among the groups 
+aged 20 to 29 years and 30 to 39 years, respectively (Table 4). 
+Mirroring incidence, colorectal cancer mortality rates like-
+wise increased by approximately 1% annually among those 
+aged 30 to 39 years during 2008 through 2017. These pat-
+terns reflect a birth cohort effect in which colorectal can-
+cer risk has been increasing in subsequent generations since 
+1950.51 In contrast, rates in adults aged ≥65 years are con-
+tinuing to rapidly decline, largely reflecting the widespread 
+uptake of screening with colonoscopy since 2000.52 Reasons 
+for the increases in young adults are not clear but may be 
+associated with obesity and changes in dietary factors.29 
+Similar trends among young adults have been observed in 
+many other high-income countries.53
+The 5-year relative survival rate in the group aged 20 
+to 39 years for patients diagnosed during 2009 through 
+2015 was 68% (Table 3), similar to that in screening-aged 
+adults.52
+Leukemia
+ALL and acute myeloid leukemia (AML) account for the 
+majority of leukemia cases in AYAs, with ALL compris-
+ing most cases in adolescents and AML becoming the pre-
+dominant subtype among older AYAs (Table 2). Leukemia 
+is among the most commonly diagnosed cancers in ado-
+lescents, with approximately 600 cases of ALL and AML 
+combined expected in 2020. Overall, despite progress in 
+optimizing cytotoxic chemotherapy regimens and, more 
+recently, in molecularly targeted agents and immunothera-
+pies, leukemia continues to be the leading cancer cause of 
+death in the group aged 15 to 29 years (Table 6).54
+From 2007 through 2016, incidence rates increased by 
+0.7% to 1.9% annually for ALL and by 0.4% to 1.2% for 
+AML. Increases in leukemia may be linked to increased 
+exposure to radiation (including computed tomography expo-
+sure) and chemotherapy, although it is unclear to what extent 
+each of these factors contributes.55-57 Obesity has also been 
+FIGURE 7. Trends in Adolescent and Young Adult Cancer Mortality Rates by 
+Site, Ages 15 to 39 Years, 1975 to 2017. Rates are age adjusted to the 2000 
+US standard population and are 2-year moving averages. *These include all 
+tumors of the testis and is not limited to germ cell tumors, because histologic 
+information is unavailable on death certificates. HL indicates Hodgkin 
+lymphoma; NHL, non-Hodgkin lymphoma; ONS, other nervous system.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+454
+CA: A Cancer Journal for Clinicians
+proposed as a contributing factor,29 although this is based on 
+prospective cohort studies that are largely confined to older 
+adults.57 The 5-year relative survival rate for ALL and AML 
+is substantially higher in adolescents (74% and 66%, respec-
+tively) compared with older AYA age groups (Table 3), which 
+may reflect inequities in access to care, differences in the re-
+ceipt of adult versus pediatric treatment regimens, and more 
+aggressive disease in older AYAs.58 In one population-based 
+study of AYA patients with ALL, higher overall survival was 
+associated with pediatric regimens delivered in front-line 
+pediatric oncology settings, regardless of age.58
+Lymphoma
+Approximately 4200 cases of Hodgkin lymphoma and 
+4600 cases of non-Hodgkin lymphoma are expected to be 
+diagnosed among AYAs in 2020. Whereas Hodgkin lym-
+phoma accounts for the majority of lymphomas diagnosed 
+in AYAs aged 15 to 29 years, non-Hodgkin lymphoma is 
+more common in the group aged 30 to 39 years (Table 2). 
+Non-Hodgkin lymphoma includes a constellation of sub-
+types that vary in occurrence by age. For example, Burkitt 
+lymphoma accounts for a higher proportion of cases in 
+adolescents than in older AYAs (15% vs 4% in those aged 
+30-39 years).14 Established risk factors for both Hodgkin 
+lymphoma and some types of non-Hodgkin lymphoma (eg, 
+Burkitt lymphoma) include prior infection with Epstein-
+Barr virus (EBV) as well as immunocompromising condi-
+tions, such as infection with HIV and immunosuppression 
+after organ transplantation.59,60 Notably, although EBV-
+associated Hodgkin lymphoma cases appear to peak in 
+AYAs aged 15 to 24 years, non–EBV-associated Hodgkin 
+lymphoma is more common among older AYAs.59 The risk 
+for Hodgkin lymphoma and some non-Hodgkin lymphoma 
+subtypes has also been linked to a family history of disease, 
+particularly in siblings.61,62 Diffuse large B-cell lymphoma 
+may also be linked to obesity.63
+Incidence rates for Hodgkin lymphoma declined by 0.2% 
+to 1% annually across age groups from 2007 through 2016, 
+while death rates declined even more dramatically, by 10% 
+per year, during 2008 through 2017 (Table 4). Conversely, 
+non-Hodgkin lymphoma incidence trends differ direction-
+ally by age, increasing by 1% annually in adolescents but de-
+clining in the group aged 30 to 39 years by 1% annually. 
+However, overall non-Hodgkin lymphoma death rates are 
+declining across AYA age groups. The 5-year relative sur-
+vival rates for Hodgkin lymphoma and non-Hodgkin lym-
+phoma exceeds 94% and 83%, respectively, across all AYA 
+age groups but are slightly higher for adolescents than for 
+older AYAs (Table 3).
+Melanoma of the skin
+Melanoma is the third most commonly diagnosed can-
+cer in the group aged 20 to 39 years. An estimated 7900 
+cases are expected in 2020 among all AYAs combined. It is 
+substantially more common in AYA women than in AYA 
+men, in contrast to older adults, among whom rates are 
+higher in men. Spitzoid malignant melanomas, some of 
+which can be difficult to distinguish from benign Spitz nevi 
+because of similarities in some clinical and histologic 
+features, are rare but account for a higher proportion of 
+melanoma cases in younger individuals compared with older 
+adults.64 In general, melanoma of the skin in AYAs appears 
+to occur among susceptible individuals through genetic in-
+teractions with ultraviolet light exposure in early life, whereas 
+melanoma in older adults likely reflects cumulative lifetime 
+ultraviolet light exposure among those with comparatively 
+less susceptibility.65 Although indoor tanning has decreased 
+in the United States,66 its prevalence in young adult women 
+remains substantially higher than that in older women and 
+in men overall.18 Indoor tanning use is particularly impor-
+tant for AYAs, as the risk of melanoma is approximately 60% 
+higher for people who begin use before age 35 years, and the 
+risk increases with duration and intensity of use.67,68
+Melanoma incidence rates have rapidly declined in ad-
+olescents (6.2% annually during 2007-2016) and adults in 
+their 20s (3.5% annually) after peaking in the early to mid-
+dle 2000s (Table 4). Among the group aged 30 to 39 years, 
+melanoma rates were stable among women in the most re-
+cent time period but slightly declined among men. Recent 
+declines in younger AYAs may reflect successful interven-
+tions to reduce indoor tanning and increase sun-protective 
+behaviors.66 Mirroring incidence, mortality in AYAs has 
+rapidly declined by approximately 5% annually. The 5-year 
+relative survival rate is generally high for melanoma in AYAs 
+(ie, >94%), reflecting the high proportion of cases (80%) di-
+agnosed at an early stage (Fig. 8). Although the higher pro-
+portion of spitzoid melanoma cases in younger patients has 
+been proposed to confer a survival advantage compared with 
+older patients, existing research has largely focused on pedi-
+atric cases, and further research specific to AYAs is needed.64
+Testicular germ cell tumors
+Gonadal GCT rates are substantially higher in AYA men than 
+in AYA women for reasons that are largely unknown but may 
+reflect sex-specific interactions between genetic factors and 
+maternal hormones before birth.17 An estimated 6500 cases 
+of testicular GCT are expected to be diagnosed in AYA men 
+in 2020 (Table 2). Testicular GCTs are the most commonly 
+diagnosed cancer among men aged 20 to 39 years, with rates 
+peaking at ages 30 to 39 years (13 per 100,000 population 
+during 2012-2016).19 Testicular GCT rates are highest in 
+non-Hispanic Whites (13 per 100,000 population), followed 
+by Hispanics (10 per 100,000 population), and AI/ANs (10 
+per 100,000 population), and are lowest in non-Hispanic 
+Black AYAs (2.4 per 100,000 population).19 With the excep-
+tion of cryptorchidism and Klinefelter syndrome, risk factors 
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+455
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+for testicular GCT are not well described, although a family 
+history of testicular GCT in a first-degree relative has been 
+shown to increase risk 4-fold.12,18
+During the most recent 10 years of available data, incidence 
+rates for testicular GCTs increased in all AYA age groups by 
+0.4% to 1.1% annually, whereas mortality rates were stable 
+(Table 4). Little is known about the causes of the rising inci-
+dence rates of testicular GCTs, but trends may reflect changes 
+in in utero exposures to maternal hormones as well as other 
+environmental exposures.69,70 A strong birth cohort effect in 
+testicular GCTs has been described in the United States and 
+several northern European countries, where rates are likewise 
+increasing.53 The 5-year relative survival rate is generally high 
+for testicular GCTs, exceeding 95% in all age groups (Table 3)
+Thyroid
+Thyroid cancer is the most commonly diagnosed cancer in 
+adolescents and in AYAs aged 20 to 29 years in both sexes 
+combined. An expected 14,400 cases are projected to be diag-
+nosed in 2020 among all AYAs (Table 2); most of these cases 
+will occur among women. Similar to older adults, papillary thy-
+roid cancer accounts for most cases of thyroid cancer in AYAs. 
+During the most recent 10 years of available data, thyroid can-
+cer incidence rates rose rapidly in all AYA age groups, whereas 
+mortality rates declined slightly by 0.5% annually (Table 4). 
+Although much of the increase in incidence rates has been at-
+tributed to increased detection, it is increasingly recognized 
+that there may be a true rise in the burden of advanced-stage 
+papillary thyroid cancer;27 however, data for AYAs are sparse. 
+In one study, exposure to tomographic scans substantially in-
+creased the risk of subsequent thyroid cancer by greater than 
+2-fold.55 The 5-year relative survival rate for thyroid cancer is 
+generally high and exceeds 99% in AYAs aged 20 to 39 years 
+(Table 3). Previous studies have found that, although AYAs 
+are more likely to be diagnosed with larger thyroid cancers or 
+with locoregional lymph node involvement compared with 
+older patients, they are less likely to be diagnosed with distant 
+metastases and continue to have a better prognosis than their 
+older counterparts.71
+Uterine cervix
+In 2020, an estimated 3800 cases of cervical cancer are 
+expected among women aged 20 to 39 years (Table 2). Cervical 
+cancer is the second leading cancer cause of death among 
+women aged 30 to 39 years and among AYA women overall. 
+All cases of cervical cancer are attributable to persistent in-
+fection with human papillomavirus, although susceptibility 
+may be increased by cigarette smoking and immunocompro-
+mising factors.72 Recent use of oral contraceptives has also 
+been shown to slightly increase risk.73 However, the cancer 
+can be prevented through vaccination against HPV infection 
+or removal of precancerous lesions detected via screening. 
+From 2013 through 2018, the percentage of women aged 18 
+to 26 years who reported ever initiating human papillomavi-
+rus vaccination (≥1 dose) increased from 37% to 54%, while 
+series completion (≥2 doses) increased from 26% to 35%.74 
+Squamous cell carcinoma is the most common histologic 
+type for all age groups, although childhood cancers that are 
+not detectable through routine screening, such as embryonal 
+rhabdomyosarcoma, occur among young AYAs.75
+Cervical cancer incidence rates decreased by 1.6% annually 
+during 2007 through 2016 among women in their 20s but ap-
+pear to have stabilized among women in their 30s. The stable 
+trend in women aged 30 to 39 years in part reflects attenuating 
+declines in squamous cell cervical cancer rates combined with 
+slight increases in adenocarcinoma rates.76,77 The 5-year rela-
+tive survival rate for patients diagnosed during 2009 through 
+2015 was 82% for patients aged 20 to 29 years and 80% for 
+those aged 30 to 39 years (Table 3). Nearly one-third of cases 
+(34%) are diagnosed at the regional or distant stage, which may 
+reflect screening delays or more aggressive histologic subtypes, 
+particularly in younger AYA women. In 2018, approximately 
+74% of AYAs aged 21 to 29 years were up to date with cervical 
+FIGURE 8. Stage Distribution for Selected Cancers in Adolescents and Young Adults, 2012 to 2016.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+456
+CA: A Cancer Journal for Clinicians
+cancer screening, compared with 90% of adults aged 30 to 39 
+years and 86% of adults aged 40 to 65 years.18
+Survivorship
+AYA cancer survivors are at risk of several late and long-term 
+effects that can influence cognitive, psychosocial, and physi-
+cal functioning as well as financial prospects.78,79 Although 
+cancer treatment regimens in AYAs can be tailored to mini-
+mize long-term and late effects, there is a paucity of data 
+from clinical trials to support modifications.80 In addition, 
+similar to childhood cancer survivors, AYA cancer survivors 
+have a notably higher risk of developing subsequent cancers 
+compared to the general population. In one population-based 
+study, approximately 14% of AYA cancer survivors developed 
+a subsequent cancer 30 years postdiagnosis, with melanoma 
+and breast, gastrointestinal, and genitourinary cancers being 
+the most common subsequent malignancies.6 Another recent 
+analysis of population-based data found that, whereas all-cause 
+late mortality among 5-year AYA cancer survivors declined 
+from 8% among those diagnosed during 1975 through 1984 
+to 5% among those diagnosed during 2005 through 2011, lit-
+tle improvement in late mortality from the original cancer was 
+observed for several cancer types, including colorectal cancer, 
+bone and soft-tissue sarcomas, and cervical cancer.81
+Although much regarding AYA cancer survivorship con-
+tinues to be extrapolated from childhood cancer survivor 
+cohorts,80 recent studies have pointed to notable differences 
+between these 2 patient groups, highlighting the need for 
+survivorship studies specific to AYAs. For example, in a retro-
+spective cohort study of childhood and adolescent survivors, 
+patients diagnosed at ages 15 to 20 years had lower long-term 
+risks of severe, chronic health problems than childhood can-
+cer survivors but a 1.5-fold higher risk of dying from recur-
+rence or progression of their primary cancer.9 Furthermore, 
+compared with both younger and older patient populations 
+and cancer-free peers, AYA cancer survivors report worse 
+overall psychosocial functioning, which may reflect difficultly 
+in coping with cancer during early life transitions.82-84
+Cancer and its treatment can cause substantial disruptions 
+in school and career, as well as changes in functioning and ap-
+pearance, leading to further challenges in resuming daily-life 
+activities.85 Difficulties with fertility, sexual dysfunction, and 
+body image, particularly among women, are common among 
+AYA cancer survivors.8,86 Among AYA survivors who need 
+specific services, a high proportion report a variety of unmet 
+needs within a year after diagnosis, such as access to a men-
+tal health professional (56%), cancer rehabilitation (58%), or 
+pain-management services (63%).87 Notably, a substantial pro-
+portion of AYA patients with cancer, especially women, do not 
+receive adequate information about fertility preservation. In 
+one study of AYA cancer survivors, 18% of males and 38% of 
+females had not made such fertility-preservation arrangements 
+because they were not aware of these options.88
+Finally, AYA cancer survivors experience more financial 
+hardship than the general population and spend more on 
+out-of-pocket medical costs,89 which is compounded by 
+higher uninsured rates among AYAs compared with other 
+age groups. In 2018, uninsured rates in AYAs aged 19 to 25 
+years were similar to those in the group aged 26 to 34 years 
+(14%), compared with 12% among those aged 34 to 44 years 
+and 9% among those aged 45 to 64 years.90 Being uninsured 
+or having public health insurance is associated with signifi-
+cant delays in diagnosis in AYAs, leading to poorer outcomes 
+and more extensive treatment.91 Compared with older sur-
+vivors, young survivors have higher rates of bankruptcy and 
+more frequently forgo needed medical care because of cost.92
+Conclusions
+Although there has been rapid progress in the scientific un-
+derstanding of cancer in AYAs over the last decade, several 
+research gaps in etiology, basic biology, treatment, and survi-
+vorship remain. AYAs diagnosed with cancer also continue to 
+face numerous challenges in health care access during early 
+life transitions, which can negatively impact the timeliness 
+of and adherence to treatment. Although declining mortal-
+ity rates for hematologic malignancies in AYAs point toward 
+progress in effective treatment for these cancers in recent 
+decades, this progress has lagged behind that for children for 
+some cancers, especially in older AYAs. Further progress in 
+reducing cancer morbidity and mortality among AYAs could 
+be addressed through more equitable access to health care; 
+increasing clinical trial enrollment; expanding research on 
+etiology, basic biology, and survivorship; and greater alert-
+ness among clinicians and patients for early symptoms and 
+signs of cancer. Research on cancer in AYAs should also 
+consider the heterogeneity in cancer occurrence within this 
+patient population. In addition, further monitoring of popu-
+lation-based trends for cancers for which mortality rates are 
+increasing, including colorectal and uterine corpus cancers, 
+is warranted. ■
+References
+	 1.	 US Department of Health and Human 
+Services. Closing the Gap: Research and 
+Care Imperatives for Adolescents and 
+Young Adults with Cancer. Report of the 
+Adolescent and Young Adult Oncology 
+Progress Review Group. NIH publication 
+06-6067. US Department of Health and 
+Human Services; 2006.
+	 2.	 Tricoli JV, Boardman LA, Patidar R, et al. 
+A mutational comparison of adult and 
+adolescent and young adult (AYA) colon 
+cancer. Cancer. 2018;124:1070-1082.
+	 3.	 Tricoli JV, Blair DG, Anders CK, et al. 
+Biologic and clinical characteristics of 
+adolescent and young adult cancers: 
+acute lymphoblastic leukemia, colorectal 
+cancer, breast cancer, melanoma, and sar-
+coma. Cancer. 2016;122:1017-1028.
+	 4.	 Bleyer A, Barr R, Hayes-Lattin B, et al. 
+The distinctive biology of cancer in ad-
+olescents and young adults. Nat Rev 
+Cancer. 2008;8:288-298.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+457
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+	 5.	 Chao C, Bhatia S, Xu L, et al. Incidence, 
+risk factors, and mortality associated with 
+second malignant neoplasms among sur-
+vivors of adolescent and young adult can-
+cer. JAMA Netw Open. 2019;2:e195536.
+	 6.	 Lee JS, DuBois SG, Coccia PF, Bleyer A, 
+Olin RL, Goldsby RE. Increased risk of 
+second malignant neoplasms in ado-
+lescents and young adults with cancer. 
+Cancer. 2016;122:116-123.
+	 7.	 Chao C, Xu L, Bhatia S, et al. 
+Cardiovascular disease risk profiles in 
+survivors of adolescent and young adult 
+(AYA) cancer: the Kaiser Permanente AYA 
+Cancer Survivors Study. J Clin Oncol. 
+2016;34:1626-1633.
+	 8.	 Olsson 
+M, 
+Enskar 
+K, 
+Steineck 
+G, 
+Wilderang U, Jarfelt M. Self-perceived 
+physical attractiveness in relation to 
+scars among adolescent and young adult 
+cancer survivors: a population-based 
+study. J Adolesc Young Adult Oncol. 
+2018;7:358-366.
+	 9.	 Suh E, Stratton KL, Leisenring WM, 
+et al. Late mortality and chronic health 
+conditions in long-term survivors of ear-
+ly-adolescent and young adult cancers: 
+a retrospective cohort analysis from the 
+Childhood Cancer Survivor Study. Lancet 
+Oncol. 2020;21:421-435.
+	10.	 Smith EC, Ziogas A, Anton-Culver H. 
+Delay in surgical treatment and survival 
+after breast cancer diagnosis in young 
+women by race/ethnicity. JAMA Surg. 
+2013;148:516-523.
+	11.	 Barr RD, Ferrari A, Ries L, Whelan J, 
+Bleyer WA. Cancer in adolescents and 
+young adults: a narrative review of the 
+current status and a view of the future. 
+JAMA Pediatr. 2016;170:495-501.
+	12.	 Greene MH, Kratz CP, Mai PL, et al. 
+Familial testicular germ cell tumors in 
+adults: 2010 summary of genetic risk fac-
+tors and clinical phenotype. Endocr Relat 
+Cancer. 2010;17:R109-R121.
+	13.	 Davies L, Welch HG. Current thyroid 
+cancer trends in the United States. 
+JAMA Otolaryngol Head Neck Surg. 
+2014;140:317-322.
+	14.	 Surveillance, Epidemiology, and End 
+Results 
+(SEER) 
+Program. 
+SEER*Stat 
+Database: North American Association 
+of Central Cancer Registries (NAACCR) 
+Incidence Data-Cancer in North America 
+(CiNA) Analytic File, 1995-2016, for 
+Expanded Races, Custom File With 
+County, American Cancer Society Facts 
+and Figures Projection Project (which in-
+cludes data from the Centers for Disease 
+Control 
+and 
+Prevention’s 
+National 
+Program 
+of 
+Cancer 
+Registries, 
+the 
+Canadian Council of Cancer Registries’ 
+Provincial and Territorial Registries, and 
+the National Cancer Institute’s SEER 
+Registries). National Cancer Institute, 
+Division of Cancer Control and Population 
+Sciences, Surveillance Research Program; 
+2018.
+	15.	 Surveillance, Epidemiology, and End 
+Results 
+(SEER) 
+Program. 
+SEER*Stat 
+Database: North American Association 
+of Central Cancer Registries (NAACCR) 
+Incidence Data-Cancer in North America 
+(CiNA) Analytic File, 1995-2016, for 
+the NAACCR Hispanic Identification 
+Algorithm (NHIA) version 2 Origin, 
+Custom File With County, American 
+Cancer 
+Society 
+Facts 
+and 
+Figures 
+Projection Project (which includes data 
+from the Centers for Disease Control 
+and Prevention’s National Program of 
+Cancer Registries, the Canadian Council 
+of Cancer Registries’ Provincial and 
+Territorial Registries, and the National 
+Cancer 
+Institute’s 
+SEER 
+Registries). 
+National Cancer Institute, Division of 
+Cancer Control and Population Sciences, 
+Surveillance Research Program; 2018.
+	16.	 Anders CK, Johnson R, Litton J, Phillips 
+M, Bleyer A. Breast cancer before age 40 
+years. Semin Oncol. 2009;36:237-249.
+	17.	 Arora RS, Alston RD, Eden TO, Geraci M, 
+Birch JM. Comparative incidence patterns 
+and trends of gonadal and extragonadal 
+germ cell tumors in England, 1979 to 
+2003. Cancer. 2012;118:4290-4297.
+	18.	 Nordsborg RB, Meliker JR, Wohlfahrt J, 
+Melbye M, Raaschou-Nielsen O. Cancer 
+in first-degree relatives and risk of tes-
+ticular cancer in Denmark. Int J Cancer. 
+2011;129:2485-2491.
+	19.	 Siegel RL, Miller KD, Jemal A. Cancer 
+statistics, 2020. CA Cancer J Clin. 
+2020;70:7-30.
+	20.	 Surveillance Research Program, National 
+Cancer Institute. SEER*Stat Software. 
+National Cancer Institute, Division of 
+Cancer Control and Population Sciences, 
+Surveillance Research Program; 2020.
+	21.	 Surveillance, Epidemiology, and End 
+Results 
+(SEER) 
+Program. 
+SEER*Stat 
+Database: National Program of Cancer 
+Registries 
+(NPCR) 
+and 
+Surveillance, 
+Epidemiology, and End Results (SEER) 
+Incidence-US Cancer Statistics File for 
+Delay Adjustment-1999-2016-jbk 072919 
+(created August 3, 2019). National Cancer 
+Institute, Division of Cancer Control 
+and Population Sciences, Surveillance 
+Research Program; 2019.
+	22.	 Fritz A, Percy C, Jack A, et al, eds. 
+International Classification of Diseases 
+for Oncology. 3rd ed. World Health 
+Organization; 2000.
+	23.	 Barr RD, Holowaty EJ, Birch JM. 
+Classification schemes for tumors diag-
+nosed in adolescents and young adults. 
+Cancer. 2006;106:1425-1430.
+	24.	 World Health Organization. International 
+Statistical Classification of Diseases and 
+Related Health Problems. 10th Revision, 
+Vols I-III. World Health Organization; 2011.
+	25.	 National 
+Cancer 
+Institute. 
+Joinpoint 
+Regression Program, Version 4.7.0.0. 
+Statistical Research and Applications 
+Branch, National Cancer Institute; 2019.
+	26.	 Jemal A, Miller KD, Ma J, et al. Higher 
+lung cancer incidence in young women 
+than young men in the United States. N 
+Engl J Med. 2018;378:1999-2009.
+	27.	 Lim H, Devesa SS, Sosa JA, Check D, 
+Kitahara CM. Trends in thyroid cancer in-
+cidence and mortality in the United States, 
+1974-2013. JAMA. 2017;317:1338-1348.
+	28.	 Liu PH, Wu K, Ng K, et al. Association of 
+obesity with risk of early-onset colorec-
+tal cancer among women. JAMA Oncol. 
+2019;5:37-44.
+	29.	 Sung H, Siegel RL, Rosenberg PS, Jemal 
+A. Emerging cancer trends among young 
+adults in the USA: analysis of a popula-
+tion-based cancer registry. Lancet Public 
+Health. 2019;4:e137-e147.
+	30.	 King SC, Pollack LA, Li J, King JB, 
+Master VA. Continued increase in inci-
+dence of renal cell carcinoma, especially 
+in young patients and high grade dis-
+ease: United States 2001 to 2010. J Urol. 
+2014;191:1665-1670.
+	31.	 Siegel SE, Coccia PF, Barr R, Hayes-
+Lattin B, Bleyer A. RE: A reappraisal 
+of sex-specific cancer survival trends 
+among adolescents and young adults 
+in the United States. J Natl Cancer Inst. 
+2019;111:633-634.
+	32.	 Martin S, Ulrich C, Munsell M, Taylor 
+S, Lange G, Bleyer A. Delays in can-
+cer diagnosis in underinsured young 
+adults and older adolescents. Oncologist. 
+2007;12:816-824.
+	33.	 Tricoli JV, Seibel NL, Blair DG, Albritton 
+K, Hayes-Lattin B. Unique characteris-
+tics of adolescent and young adult acute 
+lymphoblastic leukemia, breast cancer, 
+and colon cancer. J Natl Cancer Inst. 
+2011;103:628-635.
+	34.	 Bleyer A, Montello M, Budd T, Saxman S. 
+National survival trends of young adults 
+with sarcoma: lack of progress is associ-
+ated with lack of clinical trial participa-
+tion. Cancer. 2005;103:1891-1897.
+	35.	 DeRouen 
+MC, 
+Parsons 
+HM, 
+Kent 
+EE, 
+Pollock 
+BH, 
+Keegan 
+THM. 
+Sociodemographic disparities in survival 
+for adolescents and young adults with 
+cancer differ by health insurance status. 
+Cancer Causes Control. 2017;28:841-851.
+	36.	 Curtin SC, Minino AM, Anderson RN. 
+Declines in Cancer Death Rates Among 
+Children and Adolescents in the United 
+States, 1999-2014. NCHS Data Brief, No. 
+257. National Center for Health Statistics; 
+2016.
+	37.	 Zapotocky M, Ramaswamy V, Lassaletta 
+A, Bouffet E. Adolescents and young 
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+AYA Cancer Statistics
+458
+CA: A Cancer Journal for Clinicians
+adults with brain tumors in the context 
+of molecular advances in neuro-oncology. 
+Pediatr Blood Cancer. 2018;65:26861.
+	38.	 Ostrom QT, Adel Fahmideh M, Cote DJ, 
+et al. Risk factors for childhood and 
+adult primary brain tumors. Neuro Oncol. 
+2019;21:1357-1375.
+	39.	 Withrow DR, de Gonzalez AB, Lam 
+CJK, Warren KE, Shiels MS. Trends in 
+pediatric central nervous system tumor 
+incidence in the United States, 1998-
+2013. Cancer Epidemiol Biomarkers Prev. 
+2019;28:522-530.
+	40.	 Li XR, Kruchko C, Wu XC, et al. Are 
+benign and borderline brain tumors un-
+derreported? J Registry Manag. 2016;43: 
+187-194.
+	41.	 Surveillance, 
+Epidemiology, 
+and 
+End 
+Results 
+(SEER) 
+Program. 
+SEER*Stat 
+Database: Incidence-SEER 18 Registries 
+Research 
+Data 
++ 
+Hurricane 
+Katrina 
+Impacted Louisiana Cases, November 2018 
+Submission 
+(2000-2016) 
+<Katrina/Rita 
+Population Adjustment>-Linked To County 
+Attributes-Total US, 1969-2017 Counties. 
+National Cancer Institute, Division of 
+Cancer Control and Population Sciences, 
+Surveillance Research Program; 2019.
+	42.	 Lalloo F, Varley J, Moran A, et al. 
+BRCA1, BRCA2 and TP53 mutations in 
+very early-onset breast cancer with as-
+sociated risks to relatives. Eur J Cancer. 
+2006;42:1143-1150.
+	43.	 Mai PL, Best AF, Peters JA, et al. Risks of 
+first and subsequent cancers among TP53 
+mutation carriers in the National Cancer 
+Institute Li-Fraumeni syndrome cohort. 
+Cancer. 2016;122:3673-3681.
+	44.	 Dartois L, Fagherazzi G, Baglietto L, 
+et al. Proportion of premenopausal and 
+postmenopausal breast cancers attrib-
+utable to known risk factors: estimates 
+from the E3N-EPIC cohort. Int J Cancer. 
+2016;138:2415-2427.
+	45.	 Warner ET, Colditz GA, Palmer JR, 
+Partridge AH, Rosner BA, Tamimi RM. 
+Reproductive factors and risk of pre-
+menopausal breast cancer by age at di-
+agnosis: are there differences before and 
+after age 40? Breast Cancer Res Treat. 
+2013;142:165-175.
+	46.	 DeSantis CE, Ma J, Gaudet MM, et al. 
+Breast cancer statistics, 2019. CA Cancer 
+J Clin. 2019;69:438-451.
+	47.	 Ruddy KJ, Gelber S, Tamimi RM, et al. 
+Breast cancer presentation and diag-
+nostic delays in young women. Cancer. 
+2014;120:20-25.
+	48.	 Willauer AN, Liu Y, Pereira AAL, et al. 
+Clinical and molecular characterization 
+of early-onset colorectal cancer. Cancer. 
+2019;125:2002-2010.
+	49.	 Bonadona V, Bonaiti B, Olschwang S, 
+et al. Cancer risks associated with ger-
+mline mutations in MLH1, MSH2, and 
+MSH6 genes in Lynch syndrome. JAMA. 
+2011;305:2304-2310.
+	50.	 Galiatsatos P, Foulkes WD. Familial ade-
+nomatous polyposis. Am J Gastroenterol. 
+2006;101:385-398.
+	51.	 Siegel RL, Fedewa SA, Anderson WF, 
+et al. Colorectal cancer incidence patterns 
+in the United States, 1974-2013. J Natl 
+Cancer Inst. 2017;109:djw322.
+	52.	 Siegel RL, Miller KD, Goding Sauer A, 
+et al. Colorectal cancer statistics, 2020. 
+CA Cancer J Clin. 2020;70:145-165.
+	53.	 Gupta S, Harper A, Ruan Y, et al. 
+International trends in the incidence of 
+cancer among adolescents and young 
+adults. J Natl Cancer Inst. Published online 
+February 4, 2020. doi:10.1093/jnci/djaa007
+	54.	 Kantarjian HM, Keating MJ, Freireich EJ. 
+Toward the potential cure of leukemias 
+in the next decade. Cancer. 2018;124: 
+4301-4313.
+	55.	 Shao YH, Tsai H, Sinae K, Wu YJ, 
+Demissie K. Exposure to tomographic 
+scans and cancer risk. JNCI Cancer Spectr. 
+2020;4:pkz072.
+	56.	 Morton LM, Swerdlow AJ, Schaapveld 
+M, et al. Current knowledge and future 
+research directions in treatment-related 
+second primary malignancies. EJC Suppl. 
+2014;12:5-17.
+	57.	 Castillo JJ, Reagan JL, Ingham RR, et 
+al. Obesity but not overweight increases 
+the incidence and mortality of leukemia 
+in adults: a meta-analysis of prospective 
+cohort studies. Leuk Res. 2012;36:868-875.
+	58.	 Muffly L, Alvarez E, Lichtensztajn D, 
+Abrahao R, Gomez SL, Keegan T. Patterns 
+of care and outcomes in adolescent and 
+young adult acute lymphoblastic leuke-
+mia: a population-based study. Blood Adv. 
+2018;2:895-903.
+	59.	 Jarrett RF. Risk factors for Hodgkin’s 
+lymphoma by EBV status and signifi-
+cance of detection of EBV genomes in 
+serum of patients with EBV-associated 
+Hodgkin’s lymphoma. Leuk Lymphoma. 
+2003;44(suppl 3):S27-S32.
+	60.	 Teras LR, Rollison DE, Pawlita M, et al. 
+Epstein-Barr virus and risk of non-Hod-
+gkin lymphoma in the Cancer Prevention 
+Study-II and a meta-analysis of serologic 
+studies. Int J Cancer. 2015;136:108-116.
+	61.	 Altieri A, Bermejo JL, Hemminki K. 
+Familial risk for non-Hodgkin lymphoma 
+and other lymphoproliferative malig-
+nancies by histopathologic subtype: the 
+Swedish Family-Cancer Database. Blood. 
+2005;106:668-672.
+	62.	 Linabery AM, Erhardt EB, Richardson 
+MR, et al. Family history of cancer and 
+risk of pediatric and adolescent Hodgkin 
+lymphoma: a Children’s Oncology Group 
+study. Int J Cancer. 2015;137:2163-2174.
+	63.	 Willett EV, Morton LM, Hartge P, 
+et al. Non-Hodgkin lymphoma and 
+obesity: a pooled analysis from the 
+InterLymph Consortium. Int J Cancer. 
+2008;122:2062-2070.
+	64.	 Pol-Rodriquez M, Lee S, Silvers DN, 
+Celebi JT. Influence of age on survival in 
+childhood spitzoid melanomas. Cancer. 
+2007;109:1579-1583.
+	65.	 Anderson WF, Pfeiffer RM, Tucker MA, 
+Rosenberg PS. Divergent cancer path-
+ways for early-onset and late-onset cu-
+taneous malignant melanoma. Cancer. 
+2009;115:4176-4185.
+	66.	 Holman DM, Freeman MB, Shoemaker 
+ML. Trends in melanoma incidence 
+among non-Hispanic Whites in the United 
+States, 2005 to 2014. JAMA Dermatol. 
+2018;154:361-362.
+	67.	 Boniol M, Autier P, Boyle P, Gandini S. 
+Cutaneous melanoma attributable to 
+sunbed use: systematic review and me-
+ta-analysis. BMJ. 2012;345:e4757.
+	68.	 Lazovich D, Isaksson Vogel R, Weinstock 
+MA, Nelson HH, Ahmed RL, Berwick M. 
+Association between indoor tanning and 
+melanoma in younger men and women. 
+JAMA Dermatol. 2016;152:268-275.
+	69.	 Bray F, Ferlay J, Devesa SS, McGlynn KA, 
+Moller H. Interpreting the international 
+trends in testicular seminoma and non-
+seminoma incidence. Nat Clin Pract Urol. 
+2006;3:532-543.
+	70.	 Morimoto LM, Zava D, McGlynn KA, 
+et al. Neonatal hormone concentrations 
+and risk of testicular germ cell tumors 
+(TGCT). Cancer Epidemiol Biomarkers 
+Prev. 2018;27:488-495.
+	71.	 Vriens MR, Moses W, Weng J, et al. 
+Clinical and molecular features of pap-
+illary thyroid cancer in adolescents and 
+young adults. Cancer. 2011;117:259-267.
+	72.	 Syrjanen K, Shabalova I, Petrovichev N, 
+et al. Smoking is an independent risk fac-
+tor for oncogenic human papillomavirus 
+(HPV) infections but not for high-grade 
+CIN. Eur J Epidemiol. 2007;22:723-735.
+	73.	 International Collaboration of Epidemio­
+logical 
+Studies 
+of 
+Cervical 
+Cancer, 
+Appleby P, Beral V, et al. Cervical cancer 
+and hormonal contraceptives: collabo-
+rative reanalysis of individual data for 
+16,573 women with cervical cancer and 
+35,509 women without cervical cancer 
+from 24 epidemiological studies. Lancet. 
+2007;370:1609-1621.
+	74.	 Boersma P, Black LI. Human Papillomavirus 
+Vaccination Among Adults Aged 18-26, 
+2013-2018. NCHS Data Brief, No. 354. 
+National Center for Health Statistics; 2020.
+	75.	 Benard VB, Watson M, Castle PE, Saraiya 
+M. Cervical carcinoma rates among 
+young females in the United States. Obstet 
+Gynecol. 2012;120:1117-1123.
+	76.	 Islami F, Fedewa SA, Jemal A. Trends in 
+cervical cancer incidence rates by age, 
+race/ethnicity, histological subtype, and 
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CA CANCER J CLIN 2020;70:443–459
+459
+VOLUME 70 | NUMBER 6 | NOVEMBER/DECEMBER 2020
+stage at diagnosis in the United States. 
+Prev Med. 2019;123:316-323.
+	77.	 White A, Thompson TD, White MC, et al. 
+Cancer screening test use—United States, 
+2015. MMWR Morb Mortal Wkly Rep. 
+2017;66:201-206.
+	78.	 Barnett M, McDonnell G, DeRosa A, et al. 
+Psychosocial outcomes and interventions 
+among cancer survivors diagnosed during 
+adolescence and young adulthood (AYA): 
+a systematic review. J Cancer Surviv. 
+2016;10:814-831.
+	79.	 Warner EL, Kent EE, Trevino KM, Parsons 
+HM, Zebrack BJ, Kirchhoff AC. Social 
+well-being among adolescents and young 
+adults with cancer: a systematic review. 
+Cancer. 2016;122:1029-1037.
+	80.	 National Comprehensive Cancer Network. 
+Adolescent 
+and 
+Young 
+Adult 
+(AYA) 
+Oncology. NCCN Clinical Practice Guidelines 
+in Oncology. Version 1.2020. National 
+Comprehensive Cancer Network; 2019.
+	81.	 Anderson C, Nichols HB. Trends in late 
+mortality among adolescent and young 
+adult cancer survivors. J Natl Cancer 
+Inst. Published online March 3, 2020. 
+doi:10.1093/jnci/djaa014
+	82.	 Lang MJ, Giese-Davis J, Patton SB, 
+Campbell 
+DJT. 
+Does 
+age 
+matter? 
+Comparing post-treatment psychosocial 
+outcomes in young adult and older adult 
+cancer survivors with their cancer-free 
+peers. Psychooncology. 2018;27:1404-1411.
+	83.	 Bellizzi KM, Smith A, Schmidt S, et al. 
+Positive and negative psychosocial im-
+pact of being diagnosed with cancer as 
+an adolescent or young adult. Cancer. 
+2012;118:5155-5162.
+	84.	 Dieluweit U, Debatin KM, Grabow D, 
+et al. Social outcomes of long-term survi-
+vors of adolescent cancer. Psychooncology. 
+2010;19:1277-1284.
+	85.	 Zebrack B, Isaacson S. Psychosocial care 
+of adolescent and young adult patients 
+with cancer and survivors. J Clin Oncol. 
+2012;30:1221-1226.
+	86.	 Olsson 
+M, 
+Steineck 
+G, 
+Enskar 
+K, 
+Wilderang U, Jarfelt M. Sexual function 
+in adolescent and young adult cancer 
+survivors—a 
+population-based 
+study. 
+J Cancer Surviv. 2018;12:450-459.
+	87.	 Keegan TH, Lichtensztajn DY, Kato I, 
+et al. Unmet adolescent and young adult 
+cancer survivors information and service 
+needs: a population-based cancer registry 
+study. J Cancer Surviv. 2012;6:239-250.
+	88.	 Shnorhavorian M, Harlan LC, Smith AW, 
+et al. Fertility preservation knowledge, 
+counseling, and actions among adoles-
+cent and young adult patients with can-
+cer: a population-based study. Cancer. 
+2015;121:3499-3506.
+	89.	 Guy GP Jr, Yabroff KR, Ekwueme DU, 
+et al. Estimating the health and economic 
+burden of cancer among those diagnosed 
+as adolescents and young adults. Health 
+Aff (Millwood). 2014;33:1024-1031.
+	90.	 Berchick ER, Barnett JC, Upton RD. 
+Current Population Reports, P60-267. 
+Health Insurance Coverage in the United 
+States: 2018. US Government Printing 
+Office; 2019.
+	91.	 Keegan THM, Parsons HM, Chen Y, 
+et al. Impact of health insurance on stage 
+at cancer diagnosis among adolescent 
+and young adults. J Natl Cancer Inst. 
+2019;111:1152-1160.
+	92.	 Zheng Z, Jemal A, Han X, et al. Medical 
+financial hardship among cancer sur-
+vivors in the United States. Cancer. 
+2019;125:1737-1747.
+ 15424863, 2020, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21637 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

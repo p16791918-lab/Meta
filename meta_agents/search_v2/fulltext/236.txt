@@ -1,0 +1,1316 @@
+record_id=236 pmid=20147696 doi=
+SOURCE: manual-pdf
+TITLE: Hidden breast cancer disparities in Asian women: disaggregating incidence rates by ethnicity and migrant status.
+
+HiddenBreastCancerDisparitiesinAsianWomen:Disaggregating
+Incidence Rates by Ethnicity and Migrant Status
+Scarlett Lin Gomez, PhD, Thu Quach, PhD, Pamela L. Horn-Ross, PhD, Jane T. Pham, MPH, Myles Cockburn, PhD,
+Ellen T. Chang, PhD, Theresa H.M. Keegan, PhD, Sally L. Glaser, PhD, and Christina A. Clarke, PhD
+Breast cancer is the most common cancer di-
+agnosed among US women.1Nevertheless, in the
+United States, incidence rates vary substantially
+by standard racial/ethnic categories, with the
+lowestratesreportedforAsiansasasinglegroup.2
+However, within this group, breast cancer in-
+cidence rates vary further by speciﬁc ethnicity,2,3
+with a nearly 3-fold difference between popula-
+tions with the highest rate (Japanese women:126
+per100000)andthelowestrate(Laotianwomen:
+44 per100000).2 Moreover, within each of the
+Asian populations, there is substantial heteroge-
+neity in lifestyles, health care practices, and risk
+factors4–14 that may correspond to important
+differences in breast cancer rates.
+Higher breast cancer incidence rates among
+Asian women living in the United States than
+among those living in Asian countries,15together
+with elevated breast cancer risks associated with
+immigration to andlonger residence in the United
+States,3,16,17 have been centerpiece evidence for
+major roles for environmental, nongenetic factors
+in breast cancer causation. Earlier research has
+shown that immigrant status (US-born vs foreign-
+born) isassociatedwithbreast cancer risk through
+changes in reproductive factors (e.g., higher
+age at ﬁrst live birth, lower breast feeding rates,
+earlier onset of menstruation)18,19 and lifestyle
+factors (e.g., diet)3 but could also indicate varia-
+tions in other environmental exposures.20
+Examination of breast cancer incidence rates
+by immigrant status could inform these and
+other issues in breast cancer etiology. However,
+calculation of the accurate incidence rate
+trends by immigration status has been ham-
+pered by (1) nonrandom missing data on
+immigrant status for approximately 30% of
+cancer registry cases21–23 and (2) the lack of
+annual US Census estimates of Asian population
+counts according to immigrant status. To over-
+come these limitations, we augmented data on
+cancer cases from the population-based Califor-
+nia Cancer Registry (CCR) through statistical
+imputation of immigrant status for cancer cases
+with missing birthplace and then used robust
+demographic methods to compute correspond-
+ing population estimates. With the resulting
+enhanced data resource, we sought to estimate
+breast cancer incidence rates by immigrant
+status, age, and time for speciﬁc Asian popula-
+tions in California, the US state with the largest
+and most diverse Asian population.24
+METHODS
+We obtained information from the CCR
+regarding all females residing in California who
+were diagnosed with a primary invasive breast
+cancer (International Classiﬁcation of Disease
+for Oncology, 3rd Edition, [ICD-O-3] site codes
+C50.0–50.9) from January 1, 1988, through
+December 31, 2004. The CCR comprises 3 of
+the National Cancer Institute’s Surveillance,
+Epidemiology, End Results (SEER) program
+registries and collects information on patient
+race/ethnicity and birthplace from hospital
+medical records, which is obtained primarily
+through self-report; by assumption of hospital
+personnel; on inference from other information
+including race/ethnicity of parents, maiden
+name, surname, and birthplace; and from death
+records.25
+In this study, we included 21147 breast
+cancer cases among the 6 Asian ethnic pop-
+ulations that together comprised 91% of all
+Asian patients with breast cancer in the CCR
+during the study period. Of these, 5732 (27.1%)
+cases were among Chinese women, 3888
+(18.4%) were among Japanese women, 7583
+(35.9%) were among Filipina women, 1304
+(6.2%) were among Korean women, 1130
+(5.3%) were among South Asian women (in-
+cluding Asian Indians, Pakistanis, Sri Lankans,
+and Bangladeshis), and 1510 (7.1%) were
+among Vietnamese women. We excluded from
+further consideration cancer patients classi-
+ﬁed by the registry as ‘‘Other Asian or Asian,
+not otherwise speciﬁed’’ (n=1099).
+Our prior research showed that patients in
+the cancer registry with unknown birthplace
+Objectives. We estimated trends in breast cancer incidence rates for speciﬁc
+Asian populations in California to determine if disparities exist by immigrant
+status and age.
+Methods. To calculate rates by ethnicity and immigrant status, we obtained
+data for 1998 through 2004 cancer diagnoses from the California Cancer Registry
+and imputed immigrant status from Social Security Numbers for the 26% of
+cases with missing birthplace information. Population estimates were obtained
+from the 1990 and 2000 US Censuses.
+Results. Breast cancer rates were higher among US- than among foreign-born
+Chinese (incidence rate ratio [IRR]=1.84; 95% conﬁdence interval [CI]=1.72, 1.96)
+and Filipina women (IRR=1.32; 95% CI=1.20, 1.44), but similar between US- and
+foreign-born Japanese women. US-born Chinese and Filipina women who were
+younger than 55 years had higher rates than did White women of the same age.
+Rates increased over time in most groups, as high as 4% per year among foreign-
+born Korean and US-born Filipina women. From 2000–2004, the rate among US-
+born Filipina women exceeded that of White women.
+Conclusions. These ﬁndings challenge the notion that breast cancer rates are
+uniformly low across Asians and therefore suggest a need for increased
+awareness, targeted cancer control, and research to better understand un-
+derlying factors. (Am J Public Health. 2010;100:S125–S131. doi:10.2105/AJPH.
+2009.163931)
+RESEARCH AND PRACTICE
+Supplement 1, 2010, Vol 100, No. S1 | American Journal of Public Health
+Gomez et al. | Peer Reviewed | Research and Practice | S125
+
+data were more likely to be US-born than those
+with available data.21–23 Thus, we expect that
+rates based on random imputation of immigrant
+status would be underestimated for the US born
+and overestimated for the foreign born. To
+more accurately classify patient immigrant status,
+we used 2 sources of information about birth-
+place: (1) registry-based data available for15387
+patients, or 72.8% of cases (69.7% from hospital
+medical records and 3.1% from death certiﬁ-
+cates) and (2) statistical imputation of immigrant
+status using the ﬁrst 5 digits of the patient’s Social
+Security Number (SSN), indicating the state
+and year of issuance for those who had unknown
+birthplace (n=5409, or 25.6% of patients).26,27
+With this approach, we imputed immigrant
+status as follows: individuals who received their
+SSN before age 25 years were considered US
+born, and those who received their SSN at or
+after age 25 years were considered foreign born.
+The age cut-point was set at 25 years based on
+self-reported nativity in previously interviewed
+cancer patients (n=1836)22 and maximization
+of the area under the receiver-operating charac-
+teristic curve. The optimal positive predictive
+value of this single age cut-point was conﬁrmed
+by using a logistic regression model with age at
+SSN issue as a continuous predictor of foreign-
+born status. This age cut-point resulted in immi-
+grant status classiﬁcations associated with 84%
+sensitivity and 80% speciﬁcity for detecting
+foreign-born (i.e., 80% sensitivity for detecting
+US-born individuals), and was similar across
+Asian populations. The 351 individuals (1.7%)
+with missing or invalid SSNs were assigned an
+immigrant status based on the ethnicity–sex–age
+nativity distribution of the overall sample.
+Population Data for Rate Denominators
+From the 1990 and 2000 Census Summary
+File 3 (SF-3),28,29 we obtained population counts
+by gender, race/ethnicity, immigrant status, and
+5-year age group for the state of California. Data
+from the 20% Integrated Public-Use Microdata
+Sample of the Census also were used to estimate
+age- and immigrant status–speciﬁc population
+counts for the 6 Asian groups30–32 by smoothing
+the distribution with a spline-based function.33
+For intercensal years, we estimated the percent-
+age of foreign-born individuals by using cohort
+component interpolation and extrapolation
+methods, adjusting estimates to the populations
+by age and year provided by the California
+Department of Finance for years1988 to1989
+and by the US Census for years1990 to 2004
+because of data availability. Incidence rates for
+US-born Koreans, South Asians, and Vietnamese
+were not stable enough to report because of 2
+consequences of the recent immigration of these
+groups. First, the US-born populations were sig-
+niﬁcantly smaller than the foreign-born popula-
+tions, and, second, US-born populations have
+considerably younger age distributions, reducing
+stability of age-adjusted rates for cancers, which
+predominantly occur at older ages.
+Statistical Analysis
+We used SEER*Stat software34 to compute
+age-adjusted incidence rates (standardized to the
+US standard million population for 2000) and
+95% conﬁdence intervals (CIs) among women.
+We compared incidence rates between US- and
+foreign-born Asian populations with incidence
+rate ratios (IRRs). We examined time trends
+between 1988 and 2004 using Joinpoint Re-
+gression software35 to calculate the annual per-
+centage changes (APC). We calculated APCs by
+ﬁtting a series of least squares regression lines to
+the natural logarithm of the age-adjusted in-
+cidence rates, with calendar year as a regression
+variable.35
+RESULTS
+During the period 1988–2004, invasive
+breast cancer incidence rates were lower for all
+of the Asian ethnic groups than for non-
+Hispanic White women (Table 1). Table 1,
+which compares rates across ethnicity and
+TABLE 1—Age-Adjusted Incidence Rates of Invasive Breast Cancer Among Women, by Race/
+Ethnicity and Immigrant Status: California Cancer Registry, 1988–2004
+Race/Ethnicity
+No. of Cases
+Population, No.
+Incidence Rate (95% CI)
+Rate Ratioa (95% CI)
+Non-Hispanic Whites
+248421
+142863244
+146.1 (145.5, 146.7)
+Asians (Aggregated)b
+21147
+27237581
+82.7 (81.6, 83.8)
+Foreign-born (Ref)
+16627
+18865657
+76.3 (75.1, 77.5)
+1.00
+US-born
+4520
+8371924
+120.6 (117.1, 124.3)
+1.58 (1.53, 1.63)
+Asians (disaggregated)
+Chinese women
+5732
+7985862
+73.5 (71.6, 75.4)
+Foreign-born (Ref)
+4490
+5626259
+66.3 (64.4, 68.4)
+1.00
+US-born
+1242
+2359603
+122.1 (115.0, 129.0)
+1.84 (1.72, 1.96)
+Japanese
+3888
+3066109
+102.5 (99.3, 105.9)
+Foreign-born (Ref)
+1590
+1236742
+103.1 (97.8, 108.8)
+1.00
+US-born
+2298
+1829367
+106.1 (101.7, 111.0)
+1.03 (0.96, 1.10)
+Filipina
+7583
+7809502
+100.4 (98.1, 102.8)
+Foreign-born (Ref)
+6946
+5577737
+98.2 (95.9, 100.6)
+1.00
+US-born
+637
+2231765
+129.5 (118.7, 141.0)
+1.32 (1.20, 1.44)
+Korean
+1304
+2914486
+46.3 (43.8, 49.0)
+Foreign-born (Ref)
+1212
+2306719
+44.5 (42.0, 47.2)
+1.00
+US-born
+92
+. . .
+. . .
+. . .
+South Asianc
+1130
+2197346
+77.0 (72.1, 82.1)
+Foreign-born (Ref)
+989
+1593537
+70.5 (65.7, 75.6)
+1.00
+US-born
+141
+. . .
+. . .
+. . .
+Vietnamese
+1510
+3264276
+59.9 (56.7, 63.1)
+Foreign-born (Ref)
+1400
+2524663
+57.0 (53.9, 60.3)
+1.00
+US-born
+110
+. . .
+. . .
+. . .
+Note. CI=conﬁdence interval. Ellipses indicate that sample sizes were too small to report because of the potential for large
+errors associated with them. Breast cancer incidence rates are per 100000 person-years, age-standardized to the 2000 US
+population.
+aRatio of the incidence rate in US-born to the incidence rate in foreign-born.
+bConsists of the 6 Asian populations: Chinese, Japanese, Filipina, Korean, South Asian, and Vietnamese women.
+c‘‘South Asian’’ populations include Asian Indians, Pakistanis, Sri Lankans, and Bangladeshis.
+RESEARCH AND PRACTICE
+S126 | Research and Practice | Peer Reviewed | Gomez et al.
+American Journal of Public Health | Supplement 1, 2010, Vol 100, No. S1
+
+immigrant status, shows that US-born Chinese
+and Filipina women had cancer rates that were
+approximately 80% and 30% higher, respec-
+tively, than were rates for their foreign-born
+counterparts. By contrast, rates were compa-
+rable for US-born and foreign-born Japanese
+women (106 and 103 per 100000, respec-
+tively). Incidence rates were signiﬁcantly higher
+for US-born Chinese (122 per 100000; 95%
+CI=115, 129) and Filipina women (130 per
+100000; 95% CI=119, 141) than for US-born
+Japanese women.
+We observed an increase in incidence rates
+across time periods in both the US-born and
+foreign-born aggregated Asian populations,
+although the increase appeared to be greater
+in the US-born Asian populations (Table 2,
+Figure 1). US-born Filipina and foreign-born
+Korean women had the largest increases in
+breast cancer incidence (4% yearly) over time.
+The annual increase in incidence rates was
+statistically signiﬁcant for all groups except
+foreign-born Vietnamese and Japanese
+women. Rates in foreign-born Japanese
+women increased steadily from 1988 to 1999
+before dropping substantially in 2001 to
+2004. Across all time periods, the highest
+breast cancer incidence rate was observed for
+US-born Filipina women diagnosed from
+2000 to 2004 (162.5 per 100000; 95%
+CI=144.3, 182.2).
+In age-speciﬁc data (Table 3), rates were
+higher among US-born than foreign-born
+groups across all age groups examined, ex-
+cept among Japanese women. Notably, in-
+cidence rates for US-born Chinese and Fili-
+pina women aged 44 years or older and
+those aged 45 to 54 years at diagnosis were
+higher than were corresponding rates for
+non-Hispanic White women, whereas inci-
+dence rates for women aged 55 years and
+older were considerably lower.
+DISCUSSION
+Using new, rigorously derived cancer and
+population data estimates for women by im-
+migrant status, we identiﬁed subpopulations of
+US Asian women who appear to have higher
+burdens of breast cancer than were previously
+described. Speciﬁcally, we found that US-born
+Asian women have incidence rates of invasive
+breast cancer nearly 2-fold higher than do
+foreign-born Asian women in all groups ex-
+amined except Japanese women. These ﬁnd-
+ings suggested that breast cancer rates reported
+for speciﬁc US Asian populations are sensitive
+to the proportion of foreign-born women.
+Our results also suggest that rates for US-born
+Chinese, Japanese, and Filipina women
+approached and, among Filipina women
+exceeded, those for non-Hispanic White
+women; this pattern was consistent with
+a strong environmental inﬂuence on breast
+TABLE 2—Age-Adjusted Incidence Rates of Invasive Breast Cancer Among Women, by Race/Ethnicity and Immigrant Status: California Cancer
+Registry, 1988–2004
+1988–1994
+1995–1999
+2000–2004
+Race/Ethnicity
+No. of
+Cases
+Population,
+No.
+Incidence
+Rate (95% CI)
+No. of
+Cases
+Population,
+No.
+Incidence
+Rate (95% CI)
+No. of
+Cases
+Population,
+No.
+Incidence
+Rate (95% CI)
+APC,%
+(95% CI)
+Non-Hispanic Whites
+96695
+59971664
+143.0 (142.1, 143.9)
+89438
+49973547
+149.7 (148.7, 150.7)
+76235
+41363602
+145.6 (144.6, 146.7)
+0.79 (0.5, 1.1);
+–4.8 (–7.5, –2.0)a
+US-born Asians
+Aggregatedb
+1322
+2778015
+104.1 (98.1, 110.4)
+1394
+2525906
+124.4 (117.8, 131.2)
+1804
+3068003
+135.9 (129.6, 142.4)
+2.4 (1.5, 3.3)
+Chinese
+327
+773288
+104.2 (92.2, 117.2)
+392
+714587
+128.8 (115.9, 142.6)
+523
+871728
+135.6 (124.0, 147.9)
+2.0 (0.5, 3.4)
+Japanese
+783
+741176
+99.3 (91.7, 107.3)
+736
+537331
+114.7 (106.2, 123.7)
+779
+550860
+108.7 (101.0, 117.0)
+1.2 (–0.1, 2.6)
+Filipina
+143
+732649
+100.5 (81.4, 123.6)
+174
+675926
+123.8 (102.5, 148.1)
+320
+823190
+162.5 (144.3, 182.2)
+4.2 (2.2, 6.2)
+Korean
+20
+. . .
+. . .
+23
+. . .
+. . .
+49
+. . .
+. . .
+. . .
+South Asianc
+22
+. . .
+. . .
+44
+. . .
+. . .
+75
+. . .
+. . .
+. . .
+Vietnamese
+27
+. . .
+. . .
+25
+. . .
+. . .
+58
+. . .
+. . .
+. . .
+Foreign-born Asians
+Aggregatedb
+4469
+6306269
+70.6 (68.4, 72.8)
+5300
+5810196
+79.3 (77.1, 81.5)
+6858
+6749192
+78.5 (76.6, 80.4)
+1.1 (0.6, 1.6)
+Chinese
+1237
+1879295
+62.8 (59.3, 66.6)
+1389
+1737574
+66.6 (63.1, 70.4)
+1864
+2009390
+68.9 (65.8, 72.2)
+1.0 (0.3, 1.7)
+Japanese
+485
+453257
+95.8 (85.6, 107.0)
+536
+370528
+122.0 (110.6, 134.4)
+569
+412957
+103.9 (95.1, 113.5)
+1.2 (–0.5, 2.9)
+Filipina
+1946
+1923239
+92.2 (88.0, 96.8)
+2178
+1713057
+99.9 (95.7, 104.4)
+2822
+1941441
+101.4 (97.7, 105.4)
+0.8 (0.1, 1.5)
+Korean
+273
+820284
+32.5 (28.5, 37.0)
+392
+704934
+46.8 (42.2, 52.1)
+547
+781501
+52.1 (47.8, 57.2)
+4.2 (3.0, 5.5)
+South Asianc
+216
+426908
+62.5 (53.4, 73.0)
+332
+499412
+76.3 (67.5, 86.2)
+441
+667217
+69.9 (62.9, 77.5)
+. . .
+Vietnamese
+312
+803286
+52.3 (46.2, 59.1)
+473
+784691
+61.6 (55.9, 68.1)
+615
+936686
+56.6 (52.0, 61.9)
+2.4 (–0.2, 5.0)
+Note. APC=annual percentage change; CI=conﬁdence interval. Ellipses indicate that sample sizes were too small to report because of the potential for large errors associated with them. Breast
+cancer incidence rates are per 100000 person-years, age-standardized to the 2000 US population.
+aJoinpoint regression found multiple regression lines that ﬁt the data. The ﬁrst APC is for 1988-2001; the second is for 2001–2004.
+bConsists of the 6 Asian populations: Chinese, Japanese, Filipina, Korean, South Asian, and Vietnamese women.
+c‘‘South Asian’’ populations include Asian Indians, Pakistanis, Sri Lankans, and Bangladeshis.
+RESEARCH AND PRACTICE
+Supplement 1, 2010, Vol 100, No. S1 | American Journal of Public Health
+Gomez et al. | Peer Reviewed | Research and Practice | S127
+
+cancer risk. Our ﬁndings also suggested that
+US-born Asian women younger than 55 years
+in particular have higher risks of breast cancer
+than previously estimated. To our knowledge,
+our study is the ﬁrst to suggest that rates among
+pre- and peri-menopausal US-born Chinese
+and Filipina women were higher than were
+those for non-Hispanic White women.
+These relatively higher rates in Asian pop-
+ulations together with their younger age dis-
+tributions lead to a considerably greater pro-
+portion of breast cancer cases diagnosed
+among young women than occurs in other
+racial/ethnic groups. For example, from 1988–
+2004, the percentage of breast cancers diag-
+nosed among women younger than 55 years
+was 67.5% among US-born Filipina women
+but only 28.9% among non-Hispanic White
+women. Furthermore, age-speciﬁc incidence
+patterns among US- and foreign-born Asian
+women differed from patterns seen in non-
+Hispanic White women, with rates differing
+very little between women 55 years and older
+and those aged 45–54 years. By contrast,
+among non-Hispanic White women, incidence
+rates were nearly 2-fold higher in the 55 years
+and older age group. In this regard, the age-
+speciﬁc incidence patterns we estimated for US-
+born Chinese and Filipinas in particular were
+noteworthy in light of the age-speciﬁc inci-
+dence for African American women, which
+have been shown to be higher than that for
+non-Hispanic Whites among women diagnosed
+who were younger 40 years, but ‘‘crossing
+over’’ to be relatively lower for women di-
+agnosed at older ages.36,37 Although our1988–
+2004 data show that the rates for women
+younger than 40 years were indeed higher for
+African American (15.1 per 100000) than they
+were for non-Hispanic White women (12.8 per
+100000), the rates for US-born Chinese and
+Filipina women were even higher (20.3 and19.8
+per 100000, respectively). Thus, the observed
+ethnic and immigrant differences in the age-
+speciﬁc patterns of breast cancer incidence rela-
+tive to menopause may lend insights into breast
+cancer etiology among Asian women, particu-
+larly as these age-speciﬁc patterns relate to
+changes in acculturation that may be occurring
+during this critical time period.
+Previous studies have reported comparable
+breast cancer incidence rates for US-born
+Japanese and non-Hispanic White women,38,39
+despite the lower prevalence among Japanese
+women of particular breast cancer risk factors
+(e.g., lower weight or body mass index and less
+alcohol consumption).40 We identiﬁed increasing
+rates of breast cancer for US Japanese women,
+regardless of immigrant status, during the period
+1988–2000, mirroring the rising rates of breast
+cancer in Japan,41 which42 nearly doubled be-
+tween 1978 and 1998.41,43,44 Women in Japan
+have become increasingly similar to US White
+women with respect to the population
+prevalence of lifestyle-related breast cancer risk
+factors. After World War II, the number of
+women in the Japanese workforce has risen,45
+which has produced a declining birthrate.46,47
+This societal shift may have resulted in relevant
+changes in the population distribution of breast
+cancer risk factors, such as higher socioeconomic
+status,48 higher body mass index, fewer births,
+and later age at ﬁrst birth.42,49 Consequently,
+breast cancer risk proﬁles may be more similar
+for foreign- and US-born Japanese women than
+for other Asian populations, causing a narrowing
+in the incidence rate gap between Japanese
+immigrants to the United States and those who
+are US-born. In addition, it is likely that the
+foreign-born Japanese immigrated earlier in life,
+and thus may be more acculturated, than other
+foreign-born Asians, based on the younger age of
+SSN issuance among Japanese observed in our
+data.
+Some of our results differ from those
+reported in the only prior examination of
+breast cancer incidence rates by immigrant
+status.17 In an analysis based on 1973 to 1986
+SEER data from Seattle, Washington, and San
+Francisco, Oakland, and Los Angeles, California,
+US-born Chinese and Japanese women had 50%
+higher incidence rates than did their foreign-
+born counterparts, whereas rates among US-
+born Filipinas were slightly lower than those
+among foreign-born Filipinas.17 The difference in
+main ﬁndings may be because of the choice in
+Note. Rates for Korean, South Asian, and Vietnamese women are not shown because of small denominations.
+FIGURE 1—Age-adjusted breast cancer incident rates among California women who are (a) US born and (b) foreign born: California Cancer
+Registry, 1988–2004.
+RESEARCH AND PRACTICE
+S128 | Research and Practice | Peer Reviewed | Gomez et al.
+American Journal of Public Health | Supplement 1, 2010, Vol 100, No. S1
+
+this prior study to randomly distribute immigrant
+status among the 13% to 22% of cancer cases
+with unknown registry birthplace data, which
+resulted in underestimated rates among US-born
+and overestimated rates among foreign-born
+women.22 Second, whereas the 1973–1986
+rates were not directly comparable to ours given
+different populations used for age standardiza-
+tion, the rates among US-born Filipinas were
+substantially lower in the earlier analysis17 than
+they were in our study. The higher rates ob-
+served in our study may suggest a large increase
+in incidence rates in US-born Filipinas, as in-
+dicated by the 4% increase per year during the
+period 1988–2004, as well as immigrant cohort
+differences in risk factor proﬁles.
+Limitations
+Our study had several possible limitations.
+Our imputation of immigrant status based on
+SSN, although an improvement over prior
+methods,50 had an 84% sensitivity and 80%
+speciﬁcity of classiﬁcation. The remaining mis-
+classiﬁcation had a greater relative impact on the
+smaller immigrant group, usually US-born. The
+assignment of immigrant status in some groups
+is fairly sensitive to the SSN age cutoff for imput-
+ing immigrant status; for example, using an
+age cutoff of 20 years instead of 25 years
+would have yielded 21%, 8%, and 34% fewer
+US-born Chinese, Japanese, and Filipina breast
+cancer cases but would have been subject to
+higher misclassiﬁcation rates than the cutoff we
+used. However, the primary function of immi-
+grant status in our study was to indicate accul-
+turation, with those characterized as US-born
+considered to be more acculturated than those
+characterized as foreign-born. Even if imputed
+immigrant status was not completely accurate, it
+was likely to be correlated with acculturation
+level.
+Our population estimates for Asian popu-
+lations by immigrant status may also have
+been subject to error, particularly for speciﬁc
+age groups, which may have biased overall or
+age-speciﬁc rates. Although the Census data
+we used were the most deﬁnitive for esti-
+mating populations, counts stratiﬁed by
+immigrant status were available only for
+a population sample, which reduced their
+robustness. To evaluate the accuracy of the
+assumptions underlying our methods for
+estimating annual populations, we compared
+our 2004 population estimates to those from
+the 2005 American Community Survey
+(ACS), a 2.3% stratiﬁed sample of the pop-
+ulation,51 for California. We found less than
+a 2% difference in the estimates for US- and
+foreign-born Filipinas, suggesting that our ﬁnd-
+ings for Filipinas were unlikely to be biased by
+inaccuracies in the denominator data. For Chi-
+nese women, our population estimates were
+higher than the ACS estimates by about 8% for
+US-born Chinese and about 1.5% for foreign-
+born Chinese; however, if the ACS estimates
+were more accurate, the bias was conservative, as
+we would have underestimated the relative
+difference in rates between US- and foreign-born
+Chinese women. Our estimates for US- and
+foreign-born Japanese women were both
+15% higher than the ACS estimates; how-
+ever, even if the ACS data were more
+TABLE 3—Age-Adjusted Incidence Rates of Breast Cancer Among Women, by Race/Ethnicity, Immigrant Status, and Age Group: California
+Cancer Registry, 1988–2004
+Aged£44 Years
+Aged 45–54 Years
+Aged‡55 Years
+Race/ ethnicity
+No. of Cases Population, No. Incidence Rate (95% CI) No. of Cases Population, No. Incidence Rate (95% CI) No. of Cases Population, No. Incidence Rate (95% CI)
+Non-Hispanic Whites
+25461
+84723489
+27.1 (26.8, 27.5)
+46384
+19287739
+240.7 (238.5, 242.9)
+176576
+38852016
+449.2 (447.1, 451.3)
+US-Born Asian
+Aggregateda
+1008
+7119319
+36.9 (34.6, 39.3)
+1106
+424901
+260.7 (245.5, 276.5)
+2406
+827704
+287.6 (276.1, 299.5)
+Chinese
+343
+2033578
+39.8 (35.6, 44.2)
+366
+132745
+276.9 (249.1, 306.8)
+533
+193280
+275.6 (252.4, 300.3)
+Japanese
+276
+1085402
+23.9 (21.1, 26.9)
+439
+213378
+205.8 (187.0, 226.0)
+1583
+530587
+294.2 (279.5, 309.4)
+Filipina
+222
+2097636
+43.1 (37.3, 49.4)
+208
+62297
+334.3 (290.4, 383.0)
+207
+71832
+263.8 (226.0, 307.3)
+Korean
+38
+. . .
+. . .
+30
+. . .
+. . .
+24
+. . .
+. . .
+South Asianb
+53
+. . .
+. . .
+44
+. . .
+. . .
+44
+. . .
+. . .
+Vietnamese
+76
+. . .
+. . .
+19
+. . .
+. . .
+15
+. . .
+. . .
+Foreign-Born Asian
+Aggregateda
+3450
+11525032
+20.6 (19.9, 21.3)
+5009
+3112504
+161.2 (156.8, 165.8)
+8168
+4228121
+192.6 (188.4, 196.9)
+Chinese
+965
+3326882
+18.9 (17.7, 20.2)
+1266
+936632
+134.8 (127.5, 142.4)
+2259
+1362745
+167.9 (161.0, 175.0)
+Japanese
+230
+663258
+24.8 (21.7, 28.4)
+361
+183894
+196.0 (176.3, 217.3)
+999
+389590
+283.6 (264.3, 303.9)
+Filipina
+1299
+3177600
+25.9 (24.5, 27.5)
+2181
+1016353
+215.1 (206.2, 224.3)
+3466
+1383784
+245.0 (236.7, 253.5)
+Korean
+322
+1445851
+15.8 (14.1, 17.8)
+426
+386120
+110.5 (100.2, 121.5)
+464
+474748
+90.5 (82.2, 99.4)
+South Asianb
+252
+1141235
+17.3 (15.2, 19.8)
+281
+221870
+127.2 (112.8, 143.0)
+456
+230432
+197.1 (177.9, 218.0)
+Vietnamese
+382
+1770206
+17.4 (15.7, 19.5)
+494
+367635
+135.2 (123.5, 147.7)
+524
+386822
+128.3 (117.2, 140.3)
+Note. CI=conﬁdence interval. Ellipses indicate that sample sizes were too small to report because of the potential for large errors associated with them. Breast cancer incidence rates are per
+100000 person-years, age-standardized to the 2000 US population.
+aConsists of the 6 Asian populations: Chinese, Japanese, Filipina, Korean, South Asian, and Vietnamese women.
+b‘‘South Asian’’ populations include Asian Indians, Pakistanis, Sri Lankans, and Bangladeshis.
+RESEARCH AND PRACTICE
+Supplement 1, 2010, Vol 100, No. S1 | American Journal of Public Health
+Gomez et al. | Peer Reviewed | Research and Practice | S129
+
+accurate, this difference would be unlikely to
+explain our ﬁnding of a lack of difference in
+breast cancer rates between US- and foreign-
+born Japanese women, given that the direc-
+tion and degree of difference were similar.
+Conclusions
+Findings from our study support the notion
+that immigrant status is an important variable for
+assessing patterns and trends in breast cancer
+incidence in dynamic populations, like that of
+California, with signiﬁcant immigration. It is likely
+that this measure of acculturation reﬂects pop-
+ulation distributions of nongenetic breast cancer
+risk factors such as diet, age at menarche, age at
+ﬁrst birth, breastfeeding, and other lifestyle and
+reproductive factors. Future studies should ex-
+amine the prevalence of established risk factors
+by immigrant status and socioeconomic status
+among US Asian populations to understand
+further how these and other environmental
+factors explain observed differences in breast
+cancer incidence rates between US- and foreign-
+born Asian women.52 Of particular interest to
+prevention among US-born Asian women of
+postmenopausal age will be the prevalence of use
+of combined hormone therapy and 2 or more
+alcoholic beverages per day. Further exploration
+of recent age-speciﬁc changes in known and
+suspected breast cancer risk factors may provide
+valuable clues to as-yet undiscovered causes of
+breast cancer (e.g. adolescent diet).
+Our ﬁndings challenge the current notion
+based on aggregated data that breast cancer
+rates are uniformly low among US Asian
+women by identifying apparent disparities in
+this diverse population group.53 Speciﬁcally,
+using novel and robust estimating methods to
+characterize immigration status, we found that
+breast cancer rates were high and increasing
+among US-born Chinese and Filipina women, to
+a point where contemporary rates may equal or
+exceed those of non-Hispanic Whites. We also
+estimated higher rates among younger US-born
+Chinese and Filipina women than among non-
+Hispanic White women of comparable age, and
+a sustained increase in breast cancer incidence
+rates over time, particularly among US-born
+Filipina and foreign-born Korean women. To-
+gether, our ﬁndings demonstrate the need to
+consider cancer control and policy efforts tar-
+geted speciﬁcally to these groups, especially
+among US-born Asian women, and to educate
+clinicians and women as to the possibility of these
+previously undocumented risks, especially be-
+cause the number of US-born Asians is projected
+to rise in the future. Our data suggest that, within
+this generation, some groups of Asians are
+experiencing unprecedentedly high rates of
+breast cancer. This situation must be further
+evaluated but also addressed now so that ongo-
+ing and future efforts to reduce the breast cancer
+burden do not overlook Asian women, particu-
+larly those becoming more acculturated to the
+Western lifestyle. Work targeted to these groups
+should include concerted efforts, such as those
+with Asian community organizations, to educate
+young Asian women about lifestyle modiﬁca-
+tions that can help them reduce their risk of
+developing breast cancer in the future.
+Health disparities and inequities experi-
+enced by Asian Americans largely have been
+underdescribed because of stereotypes about
+positive health proﬁles, together with the lack
+of detailed data about the heterogeneous sub-
+populations. Examining data enhanced to en-
+able study of cancer incidence in US immigrant
+groups is an important step toward building an
+evidence base that can inform health policies
+for US Asian populations. j
+About the Authors
+S.L. Gomez, T. Quach, P.L. Horn-Ross, J.T. Pham, E.T.
+Chang, T.H.M. Keegan, S.L. Glaser, and C.A. Clarke are
+with the Northern California Cancer Center, Fremont, CA.
+M. Cockburn is with the Keck School of Medicine, University
+of Southern California, CA.
+Correspondence should be sent to Scarlett Lin Gomez,
+Northern California Cancer Center, 2201 Walnut Avenue,
+Suite 300, Fremont, CA 94538 (e-mail: scarlett@nccc.
+org). Reprints can be ordered at http://www.ajph.org by
+clicking the ‘‘Reprints/ Eprints’’ link.
+This article was accepted June 5, 2009.
+Contributors
+S.L. Gomez supervised the collection of data, originated
+the study, and supervised all aspects of its implementa-
+tion. T. Quach conducted the data analysis and led the
+writing. J.T. Pham and M. Cockburn assisted with the
+study. All authors helped to conceptualize ideas, in-
+terpret ﬁndings, and review drafts of the article. All
+authors certify that they have contributed substantially
+to the article and approve the ﬁnal version.
+Acknowledgments
+This study was supported by the Safeway Foundation
+and a Surveillance, Epidemiology and End Results Rapid
+Response Surveillance Study contract (N01-PC-35136
+and N01-PC-35139). The collection of cancer incidence
+data used in this study was supported by the California
+Department of Health Services as part of the statewide
+cancer reporting program mandated by California Health
+and Safety Code Section 103885; the National Cancer
+Institute’s Surveillance, Epidemiology and End Results
+Program (contract N01-PC-35136 awarded to the
+Northern California Cancer Center, contract N01-PC-
+35139 awarded to the University of Southern California,
+and contract N02-PC-15105 awarded to the Public
+Health Institute); and the Centers for Disease Control
+and Prevention’s National Program of Cancer Registries
+grant (agreement U55/CCR921930-02) awarded to the
+Public Health Institute.
+The authors thank Tim Miller, Rita Leung, Sarah
+Shema, June Kristine Winters, and Laura McClure for
+their help with this article.
+Note. The ideas and opinions expressed herein are
+those of the author and endorsement by the State of
+California, Department of Health Services, the National
+Cancer Institute, and the Centers for Disease Control and
+Prevention or their contractors and subcontractors is not
+intended nor should be inferred.
+Human Participant Protection
+The Northern California Cancer Center institutional
+review board approved this study.
+References
+1.
+Ries LAG, Melbert D, Krapcho M, et al. SEER
+Cancer Statistics Review, 1975-2005. Bethesda, MD;
+2008. Available at: http://seer.cancer.gov/csr/
+1975_2005. Accessed January 20, 2009.
+2.
+Miller BA, Chu KC, Hankey BF, Ries LA. Cancer
+incidence and mortality patterns among speciﬁc Asian
+and Paciﬁc Islander populations in the U.S. Cancer Causes
+Control. 2008;19:227–256.
+3.
+Prehn A, Lin S, Clarke C, et al. Cancer Incidence in
+Chinese, Japanese and Filipinos in the U.S. and Asia 1988–
+1992. Union City, CA: Northern California Cancer
+Center; 1999.
+4.
+Gomez SL, Tan S, Keegan TH, Clarke CA. Dispar-
+ities in mammographic screening for Asian women in
+California: a cross-sectional analysis to identify mean-
+ingful groups for targeted intervention. BMC Cancer.
+2007;4:201.
+5.
+Wu TY, West B, Chen YW, Hergert C. Health
+beliefs and practices related to breast cancer screening in
+Filipino, Chinese and Asian-Indian women. Cancer Detect
+Prev. 2006;30:58–66.
+6.
+Frisbie WP, Cho Y, Hummer RA. Immigration and
+the health of Asian and Paciﬁc Islander adults in the
+United States. Am J Epidemiol. 2001;153(4):372–380.
+7.
+Gomez SL, Kelsey JL, Glaser SL, Lee MM, Sidney S.
+Immigration and acculturation in relation to health
+and health-related risk factors among speciﬁc Asian
+subgroups in a health maintenance organization. Am J
+Public Health. 2004;94:1977–1984.
+8.
+Klatsky AL, Tekawa IS, Armstrong MA. Cardiovas-
+cular risk factors among Asian Americans. Public Health
+Rep. 1996;111:62–64.
+9.
+Klatsky AL, Armstrong MA. Cardiovascular risk
+factors among Asian Americans living in northern
+California. Am J Public Health. 1991;81:1423–1428.
+10.
+Kuo J, Porter K. Health Status of Asian American:
+United States, 1992–94. Atlanta, GA: National Center for
+Health Statistics, Centers for Disease Control and Pre-
+vention; 1998. Vital and Health Statistics No. 298.
+RESEARCH AND PRACTICE
+S130 | Research and Practice | Peer Reviewed | Gomez et al.
+American Journal of Public Health | Supplement 1, 2010, Vol 100, No. S1
+
+11.
+Ponce NA, Gatchell M, Brown ER. Cancer Screening
+Rates Among Asian Ethnic Subgroups. Los Angeles, CA:
+UCLA Center for Health Policy Research Policy Brief;
+2003.
+12.
+Carrasquillo O, Carrasquillo AI, Shea S. Health
+insurance coverage of immigrants living in the United
+States: differences by citizenship status and country of
+origin. Am J Public Health. 2000;90:917–923.
+13.
+Choe JH, Koepsell TD, Heagerty PJ, Taylor VM.
+Colorectal cancer among Asians and Paciﬁc Islanders in
+the U.S.: survival disadvantage for the foreign-born.
+Cancer Detect Prev. 2005; 29(4):361–368.
+14.
+Wu TY, Bancroft J, Guthrie B. An Integrative
+Review on Breast Cancer Screening Practice and Corre-
+lates Among Chinese, Korean, Filipino, and Asian Indian
+American Women. Health Care Women Int. 2005;26:
+225–246.
+15.
+GLOBOCAN 2002 database: summary table by
+cancer. Available at: http://www-dep.iarc.fr/GLOBOCAN/
+Table2_sel.htm. Accessed September 4, 2008.
+16.
+Ziegler RG, Hoover RN, Pike MC, et al. Migration
+patterns and breast cancer risk in Asian-American
+women. J Natl Cancer Inst. 1993;85:1819–1827.
+17.
+Stanford JL, Herrinton LJ, Schwartz SM, Weiss NS.
+Breast cancer incidence in Asian migrants to the United
+States and their descendants. Epidemiology. 1995;6(2):
+181–183.
+18.
+Ziegler RG, Hoover RN, Nomura AM, et al. Relative
+weight, weight change, height, and breast cancer risk in
+Asian- American women. J Natl Cancer Inst. 1996;88
+(10):650–660.
+19.
+Kelsey JL, Horn-Ross PL. Breast cancer: magnitude
+of the problem and descriptive epidemiology. Epidemiol
+Rev. 1993;15:7–16.
+20.
+Nelson NJ. Migrant studies aid the search for factors
+linked to breast cancer risk. J Natl Cancer Inst. 2006;
+98:436–438.
+21.
+Gomez SL, Glaser SL. Quality of birthplace in-
+formation obtained from death certiﬁcates for Hispanics,
+Asians, and Paciﬁc Islanders. Ethn Dis. 2004;14:292–
+295.
+22.
+Gomez SL, Glaser SL, Kelsey JL, Lee MM. Bias in
+completeness of birthplace data for Asian groups in
+a population-based cancer registry (United States). Cancer
+Causes Control. 2004;15:243–253.
+23.
+Lin SS, O’Malley CD, Lui SW. Factors associated
+with missing birthplace information in a population-
+based cancer registry. Ethn Dis. 2001;11:598–605.
+24. Barnes JS, Bennett CE. The Asian Population: 2000.
+Census 2000 Brief. US Census Bureau; 2002. Available
+at: http://www.census.gov/prod/2002pubs/c2kbr01-
+16.pdf. Accessed January 20, 2009.
+25.
+Gomez SL, Le GM, West DW, Satariano WA,
+O’Connor L. Hospital policy and practice regarding the
+collection of data on race, ethnicity and birthplace. Am J
+Public Health. 2003;93:1685–1688.
+26.
+Block G, Matanoski GM, Seltser RS. A method for
+estimating year of birth using social security number. Am
+J Epidemiol. 1983;118:377–395.
+27. Shimizu H, Ross RK, Bernstein L, Yatani R, Henderson
+BE, Mack TM. Cancers of the prostate and breast among
+Japanese and white immigrants in Los Angeles County.
+Br J Cancer. 1991;63:963–966.
+28.
+US Census Bureau. Census 1990 Summary Tape
+File 3. Available at: http://factﬁnder.census.gov/servlet/
+DatasetMainPageServlet?_program=DEC&_tabId=
+DEC2&_submenuId=datasets_1&_lang=en&_ts=
+282591892840. Accessed January 26, 2010.
+29. US Census Bureau. Census 2000 Summary Tape File
+3. Available at: http://factﬁnder.census.gov/servlet/
+DatasetMainPageServlet?_program=DEC&_tabId=DEC1
+&_submenuId=datasets_1&_lang=en&_ts=
+282592024458. Accessed January 26, 2010.
+30. Chang ET, Keegan TH, Gomez SL, et al. The burden
+of liver cancer in Asians and Paciﬁc Islanders in the
+Greater San Francisco Bay Area, 1990 through 2004.
+Cancer. 2007;109:2100–2108.
+31.
+Keegan TH, Gomez SL, Clarke CA, Chan JK, Glaser
+SL. Recent trends in breast cancer incidence among 6
+Asian groups in the Greater Bay Area of Northern
+California. Int J Cancer. 2007;120:1324–1329.
+32.
+Gomez SL, Le GM, Miller T, et al. Cancer Incidence
+Among Asians in the Greater Bay Area, 1990-2002.
+Fremont, CA: Northern California Cancer Center; 2005.
+33.
+R [computer program]. Version 2.8. The R Foun-
+dation for Statistical Computing R Program. Available at:
+http://www.r-project.org. Accessed January 7, 2010.
+34.
+SEER*Stat Software [computer program]. Version
+6.1.4. Bethesda, MD: Surveillance Research Program,
+National Cancer Institute; 2005.
+35.
+Joinpoint Regression Program [computer program].
+Version 3.0. Bethesda, MD: National Cancer Institute;
+2005.
+36.
+Anderson WF, Rosenberg PS, Menashe I, Mitani A,
+Pfeiffer RM. Age-related crossover in breast cancer in-
+cidence rates between black and white ethnic groups.
+J Natl Cancer Inst. 2008;100:1804–1814.
+37. Colditz GA, Baer HJ, Tamimi RM. Breast Cancer. In:
+Schottenfeld D, Fraumeni JF, eds. Cancer Epidemiology
+and Prevention. 3rd ed. New York, New York: Oxford
+University Press; 2006:995–1012.
+38.
+Deapen D, Liu L, Perkins C, Bernstein L, Ross RK.
+Rapidly rising breast cancer incidence rates among Asian-
+American women. Int J Cancer. 2002;99:747–750.
+39.
+McCracken M, Olsen M, Chen MS Jr, et al. Cancer
+incidence, mortality, and associated risk factors among
+Asian Americans of Chinese, Filipino, Vietnamese,
+Korean, and Japanese ethnicities. CA Cancer J Clin. 2007;
+57:190–205.
+40.
+Pike MC, Kolonel LN, Henderson BE, et al. Breast
+cancer in a multiethnic cohort in Hawaii and Los Angeles:
+risk factor-adjusted incidence in Japanese equals and in
+Hawaiians exceeds that in whites. Cancer Epidemiol Bio-
+markers Prev. 2002;11:795–800.
+41.
+Osaka Prefectural Department of Health, Osaka
+Medical Association, Osaka Medical Center for Cancer
+and Cardiovascular Diseases. Cancer Incidence and
+Medical Care in Osaka in 1994 and the Survival in
+1990–1997. Annual Report of Osaka Cancer Registry
+No. 59. Osaka, Japan: Osaka Cancer Registry; 1997.
+42.
+Tung HT, Tsukuma H, Tanaka H, et al. Risk factors
+for breast cancer in Japan, with special attention to
+anthropometric measurements and reproductive history.
+Jpn J Clin Oncol. 1999;29:137–146.
+43.
+The Research Group for Population-Based Cancer
+Registration in Japan. Cancer incidence and incidence
+rates in Japan in 1998: estimates based on data from 12
+population-based cancer registries. Jpn J Clin Oncol.
+2003;33(5):241–245.
+44.
+Nagata C, Kawakami N, Shimizu H. Trends in the
+incidence rate and risk factors for breast cancer in Japan.
+Breast Cancer Res Treat. 1997;44:75–82.
+45.
+Nakano E, Ikenoue M, Ishikawa A. A study on
+family types and the employment status of married
+women in Japan. Jinko Mondai Kenkyu. 1982;Apr(162):
+2–59.
+46.
+Westley SB, Mason A. Women are key players in
+the economies of east and southeast Asia. Asia Pac Pop
+Policy. 1998;1–4.
+47. Okazaki Y. Coping with the declining birthrate. Econ
+Eye. 1981;2:20–23.
+48.
+Fujino Y, Mori M, Tamakoshi A, et al. A prospective
+study of educational background and breast cancer.
+Cancer Causes Control. 2008;19:931–937.
+49.
+Tamakoshi K, Yatsuya H, Wakai K, et al. Impact of
+menstrual and reproductive factors on breast cancer risk
+in Japan: results of the JACC study. Cancer Sci. 2005;
+96:57–62.
+50.
+Emerson SS, Emerson JC. Direct standardization of
+incidence rates in the presence of incomplete data. Stat
+Med. 1993;12:3–12.
+51.
+US Census Bureau. American Community Survey
+(ACS). Washington, DC: US Census Bureau; 2005.
+52.
+Borrell LN, Castor D, Conway FP, Terry MB.
+Inﬂuence of nativity status on breast cancer risk among
+US black women. J Urban Health. 2006;83:211–220.
+53.
+Chen MS. Cancer health disparities among Asian
+Americans: what we do and what we need to do. Cancer.
+2005;104:2895–2902.
+RESEARCH AND PRACTICE
+Supplement 1, 2010, Vol 100, No. S1 | American Journal of Public Health
+Gomez et al. | Peer Reviewed | Research and Practice | S131
+

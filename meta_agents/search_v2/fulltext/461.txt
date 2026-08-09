@@ -1,0 +1,1887 @@
+record_id=461 pmid=26320932 doi=10.1353/hpu.2015.0089
+SOURCE: manual-pdf
+TITLE: Trends and Patterns of Late and Unstaged Lung, Colorectal, Female Breast, and  Prostate Cancers among American Indians in the Northern Plains, 2002-2009
+
+© Meharry Medical College Journal of Health Care for the Poor and Underserved 26 (2015): 1048–1066.
+Trends and Patterns of Late and Unstaged Lung, 
+Colorectal, Female Breast, and Prostate Cancers 
+among American Indians in the  
+Northern Plains, 2002– 2009
+Shinobu Watanabe- Galloway, PhD 
+Kate Watkins, MPH 
+Tinka Duran, BA
+Abstract: Introduction. We investigated incidence and staging patterns of prostate, female 
+breast, lung, and colorectal cancer among American Indians/ Alaska Natives (AI/ ANs) and 
+non- Hispanic Whites (NHWs) in the Northern Plains. Methods. Cancer registry data 
+(2002– 2009) from Nebraska, North Dakota, and South Dakota were analyzed. Incidence 
+rates were calculated and multivariate logistic regression analyses identified factors associated 
+with unstaged versus staged and late- stage cancer cases versus early. Results. The incidence 
+rate was higher among AI/ ANs than NHWs for lung cancer (92.2 vs. 60.6 per 100,000). 
+Compared with NHWs, AI/ ANs were 2.0 times more likely to receive an unstaged diag-
+nosis and 1.2 times more likely to receive a late- stage diagnosis. AI/ ANs were significantly 
+more likely than NHWs to receive an unstaged diagnosis. Discussion. Increased efforts are 
+needed to reduce unstaged and late- stage diagnoses among Northern Plains AIs. Efforts to 
+promote early detection of cancer should target younger AI/ ANs.
+Key words: Cancer, late stage, access, American Indians.
+W
+ithin the American Indian/ Alaska Native (AI/ AN) population in the United 
+States, Northern Plains AI/ AN men and women, respectively, have the highest 
+and second highest cancer incidence rates.1 Moreover, Northern Plains AI/ ANs have 
+the highest cancer mortality rate among the AI/ AN population nationally (275.7 per 
+100,000 population), a higher rate than the national AI/ AN rate (165.6 per 100,000 
+population) and for all races combined in the United States (200.9 per 100,000 popu-
+lation).2 There is a dearth of research on staging trends and patterns in this population.
+In 2005, the Great Plains Tribal Chairmen’s Health Board (GPTCHB) established the 
+Northern Plains Comprehensive Control Program to address cancer disparities among 
+ORIGINAL PAPER
+SHINOBU WATANABE- GALLOWAY is affiliated with the Department of Epidemiology, College of 
+Public Health, University of Nebraska Medical Center. KATE WATKINS is an Epidemiologist, Com-
+municable Disease Program, El Paso County Public Health. TINKA DURAN is affiliated with the 
+Great Plains Tribal Chairmens’ Health Board. Shinobu Watanabe- Galloway is the corresponding author 
+and can be reached at Department of Epidemiology, College of Public Health, University of Nebraska 
+Medical Center, 984395 University of Nebraska Medical Center, Omaha, NE 68198– 4395; by phone at 
+(402) 559– 5387; and by email at swatanabe@unmc .edu.
+
+1049
+Watanabe-Galloway, Watkins, and Duran
+AI/ AN communities in the four- state Northern Plains region (North Dakota, South 
+Dakota, Iowa, and Nebraska), which is regularly served by the GPTCHB. There are 
+17 federally recognized tribes in the region. According to the U.S. Census 2010, there 
+were a total of 179,396 individuals who identified themselves as AI/ AN in this four- 
+state region.3 In this four- state region, AI/ ANs have considerably lower socioeconomic 
+status and less access to health care compared to Non- Hispanic whites (NHWs) in the 
+region and AI/ ANs in other U.S. regions combined. For example, only 42% of North-
+ern Plains AI/ ANs have above a high school education compared to 59% of Northern 
+Plains NHW counterparts and 48% of AI/ ANs in other U.S regions combined. About 
+32% of Northern Plains AI/ AN adults have no health insurance compared to 10% of 
+Northern Plains NHW counterparts and 23% of AI/ ANs in other U.S. regions combined. 
+It is important to note that not all AI/ ANs are eligible to receive care through Indian 
+Health Service (IHS) and/or tribal health care facilities. For instance, individuals that 
+identify as AI/ ANs, but are not enrolled members may not be eligible to receive care 
+through these facilities.
+In 2007, the Northern Plains Tribal Cancer Data Initiative was developed to improve 
+access and use of cancer data. The tribal oversight committee identified cancer stage 
+patterns and trends as some of the primary issues to be investigated under this initia-
+tive. Cancer stage at diagnosis is the primary factor in cancer prognosis and affects 
+treatment options. Patients diagnosed at a later stage have fewer treatment options and 
+less favorable outcomes.4 Past research has shown that cancer patients who are members 
+of ethnic or racial minorities, uninsured, receiving Medicaid, of lower socioeconomic 
+status (SES), living far from hospitals or primary care providers, and living in physician 
+shortage areas are significantly more likely than their counterparts to be diagnosed 
+with late- stage cancer.5– 10 Despite the importance of staging, a substantial proportion 
+of those who are diagnosed with cancer are not staged.11 Reasons for unstaged cancer 
+cases are not well established.
+During the last two decades there have been considerable changes in clinical and 
+public health practices that may have influenced the likelihood that a cancer patient 
+receives staging.12– 14 Among those changes was an increase in cancer screening use, 
+advancements in diagnostic techniques, and availability of new treatment options. The 
+continuing effort of cancer registry programs to improve the thoroughness and accuracy 
+of data may also have contributed to lowering the number of unstaged cases found in 
+the registry data over time. For example, one of the data standard goals established 
+by the North American Association of Central Cancer Registries is reducing the pro-
+portion of cases ascertained from death certificates only. Although death certificates 
+are important to identify additional cases that were not reported by medical facilities, 
+they provide little or no information about the stage or treatment of cancer. If a case 
+is identified only from a death certificate, then stage information must be recorded as 
+“unknown” in the cancer registry database.
+To our knowledge, most published studies that have included analysis of unstaged 
+cancer cases were limited to one cancer site and/or used only data prior to 2000. In 
+this study, we analyzed the data from three cancer registries that cover the Northern 
+Plains region to understand better the patterns and trends of unstaged and late- stage 
+cancers among AI/ ANs compared with non- Hispanic Whites (NHWs). We focused 
+
+1050
+Late and unstaged cancers in Northern Plains
+on the four most common types of cancer, which collectively account for over half of 
+cancers expected to be diagnosed in the United States in 2015 and which are ranked 
+the top four cancers in the AI/ AN population.15
+Methods
+We used cancer registry data (2002– 2009) from Nebraska, North Dakota, and South 
+Dakota to identify incident prostate, female breast, lung, and colorectal cancer cases 
+diagnosed in AI/ ANs and NHWs age 19 years and older from 2002 to 2009. Iowa data 
+were not used because the number of cancer cases reported among AI/ AN residents was 
+too small for state- level analysis. For example, during the 1998– 2007 period, the Iowa 
+Cancer Registry recorded 221 total AI/ AN cases (personal communication Michelle 
+West, 2010). At the time of the data request submitted to state cancer registries, 2009 
+data were the most recently available data. The cutoff of 2002 was used because the 
+data quality prior to 2002 was less optimal for one of the state cancer registries. Because 
+prostate, female breast, lung, and colorectal cancers primarily affect adults, we only 
+used data on individuals 19 years or older. Cases were identified using the International 
+Classification of Diseases for Oncology, Third Edition codes of C619 for prostate cancer; 
+C500– C506, C508, and C509 for female breast cancer; C340– C343, C348, and C349 for 
+lung cancer; and C180– C189, C199, C209, and C260 for colorectal cancer. Within the 
+same cancer site (e.g., breast), if there was more than one tumor per patient, the first 
+diagnosed tumor was included in the analysis. We used the first diagnosis because we 
+were interested in analyzing patient- level data, not tumor- level data.
+The main dependent (outcome) variable is the status of staging (staged vs. unstaged). 
+The SEER summary stage variables were used to categorize tumors into staged (in situ, 
+local, and regional and distant stages) and unstaged (unknown stage). When describing 
+early versus late staging in this study, we considered in situ and local as “early” and 
+regional and distant as “late” stages. We used reporting source information to identify 
+cases that were ascertained based on death certificate information only. Independent 
+variables include the time period at diagnosis, sociodemographic characteristics (age, 
+gender, race/ ethnicity, socioeconomic status [SES]), and residence rurality. The time 
+period at diagnosis was divided into early (2002– 2005) and recent (2006– 2009) periods. 
+Age at the time of cancer diagnosis was categorized in 10-year increments, <55, 55– 64, 
+65– 74, 75– 84, and 85 years or older. We used the following race/ ethnicity categories: 
+NHW and AI/ AN (including both Hispanic and non- Hispanic ethnicity).
+Information about SES is not consistently collected by the state cancer registries, 
+so the U.S. Census Bureau block group information was used to create an SES index, 
+using validated methods.4,16,17 This index was created by using seven indicator variables 
+that were combined into individual block group SES values using principal component 
+analysis. The SES index component scores for the census block groups were then sorted 
+and categorized into quintiles to assign SES value (1 to 5, with 1 indicating the lowest 
+SES level). The seven indicators used were proportion of the population that is work-
+ing class, proportion of the population older than 16 years in the workforce without a 
+job, proportion of the population below 200% of the poverty level, an education index 
+(based on proportion of the population with a college, high school, or less than high 
+
+1051
+Watanabe-Galloway, Watkins, and Duran
+school education), median household income, median rent, and median house value. 
+The average of the surrounding blocks was used to create a value for block groups 
+where the median household income, median rent, or median house value were zero.
+Patients were identified as living in urban, small urban, or rural counties by the 
+county of residence at the time of diagnosis. A dichotomous definition of rural and 
+urban communities6,7,9,18 may mask important differences in cancer incidence and 
+mortality rates and misclassify a vast proportion of the population that may be affected 
+by proximity to an urban area.8 Therefore, Sankaranarayanan et al.,10,19 in an analysis 
+of Nebraska colorectal cancer data, proposed a classification system that incorporates 
+urban influence based on the U.S. Department of Agriculture’s 12-level Urban Influ-
+ence Codes (UIC).16,20,21 Specifically, the UIC classification accounts for a county’s 
+adjacency to metropolitan areas, which may reflect the accessibility and availability 
+of local health services.22 In our previous studies using Nebraska cancer registry data, 
+we first classified cases into the following four residence- county groups using a modi-
+fied UIC code: (1) urban, including either large metropolitan counties (population of 
+one million or more) or small metropolitan counties (population 50,000 to less than 
+a million); (2) small- urban, including micropolitan or urban cluster counties either 
+adjacent or not adjacent to a small or large metropolitan area (population 10,000 to 
+less than 50,000); (3) rural, including non- metropolitan counties not adjacent to a met-
+ropolitan or micropolitan area and containing a town of 2,500– 9,999 population; and 
+(4) remote rural, including non- metropolitan counties not adjacent to a metropolitan 
+or micropolitan area and containing a town of less than 2,500 population (personal 
+communication with Timothy Parker, Sociologist, Economic Research Service, U.S. 
+Department of Agriculture. USDA, July 8, 2008).
+To examine the trend of unstaged cancer cases, unstaged incidence rates were cal-
+culated per 100,000 population and age- adjusted by the direct method using the 2000 
+U.S. standard population.23,24 Incidence rates, rate ratios, and 95% confidence intervals 
+(CIs) were calculated. To identify factors predicting unstaged versus staged cancer cases, 
+multivariate logistic regression analyses were conducted. Odds ratios (ORs) and 95% CIs 
+were obtained to evaluate the associations between patient demographic characteristics, 
+time period, and staging outcome. We used SAS (SAS Institute Inc., Cary, NC, U.S.A.) 
+software Version 9.2, and consider the level of significance to be at p<.05.
+Results
+Table 1 shows the characteristics of AI/ AN and NHW individuals diagnosed with can-
+cer. Compared with NHW cancer patients, AI/ AN cancer patients were significantly 
+younger and more likely to live in rural and lower SES communities. On average 
+AI/ ANs were 8.5 years younger than NHWs when they received a colorectal cancer 
+diagnosis. About half of AI/ AN cancer patients lived in communities classified as having 
+a very low SES, compared with 2% or less of NHWs. More than half (52.1%) of AI/ AN 
+lung cancer patients were females, compared with 43.2% of NHWs.
+Table 2 shows variations in age- adjusted incidence rates and rate ratios (RRs) across 
+the three states. Among the NHW population, the incidence rates were similar across 
+the states for each of the four cancers examined. However, AI/ AN incidence rates varied 
+
+Table 1.
+CHARACTERISTICS OF AI/ ANS AND NHWS INDIVIDUALS WITH LUNG, COLORECTAL, FEMALE BREAST, 
+AND PROSTATE CANCER: NE, SD, AND ND 2002– 2009a
+Lung
+Colorectal
+Female Breast
+Prostate
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+ 
+ No. 
+%
+ 
+No. 
+%
+ 
+X2/ t- test No. 
+%
+ 
+No. 
+%
+ 
+X2/ t-test No. 
+%
+ 
+No. 
+%
+ 
+X2/ t-test No. 
+%
+ 
+No. 
+%
+ 
+X2/ t-test
+Age
+ <55
+42
+10.5
+1421
+8.9
+<.0001
+78
+28.4
+1877
+12.8
+<.0001
+176
+43.0
+6145
+30.7
+<.0001
+24
+8.5
+1622
+8.6
+<.001
+ 55– 64
+99
+24.7
+3136
+19.7
+70
+25.5
+2485
+17.0
+120
+29.3
+4450
+22.2
+94
+33.3
+4954
+26.2
+ 65– 74
+158
+39.4
+5234
+32.8
+74
+26.9
+3604
+24.6
+62
+15.2
+4275
+21.3
+107
+37.9
+6818
+36.1
+ 75– 84
+80
+20.0
+4811
+30.2
+40
+14.5
+4366
+29.8
+39
+9.5
+3563
+17.8
+50
+17.7
+4464
+23.6
+ 85+
+22
+5.5
+1351
+8.5
+13
+4.7
+2298
+15.7
+12
+2.9
+1606
+8.0
+7
+2.5
+1053
+5.6
+ Mean (SD)
+67.7 (10.4)
+70.3 (11.0)
+<.0001
+62.5 (13.4)
+71.0 (13.3)
+<.0001
+57.5 (13.1)
+63.5 (14.5)
+<.0001
+66.7 (9.1)
+68.6 (10.0)
+<.001
+Sex
+ Male
+192
+47.9
+9065
+56.8
+<.001
+143
+52.0
+7623
+52.1
+0.97
+ 
+ 
+ 
+ Female
+209
+52.1
+6888
+43.2
+132
+48.0
+7007
+47.9
+ 
+ 
+ 
+SES
+ Very low
+208
+51.9
+ 261
+1.6
+<.0001
+152
+55.3
+ 268
+1.8
+<.0001
+180
+44.3
+ 270
+1.3
+<.0001
+164
+58.4
+ 374
+2.0
+<.0001
+ Low
+64
+16.0
+1305
+8.2
+31
+11.3
+1297
+8.9
+59
+14.5
+1435
+7.2
+30
+10.7
+1841
+9.7
+ Average
+24
+6.0
+2866
+18.0
+15
+5.5
+3017
+20.6
+34
+8.4
+3495
+17.5
+15
+5.3
+3833
+20.3
+ High
+59
+14.7
+4691
+29.4
+48
+17.5
+4513
+30.9
+82
+20.2
+5733
+28.6
+48
+17.1
+5709
+30.2
+ Very high
+46
+11.5
+6828
+42.8
+29
+10.5
+5523
+37.8
+51
+12.6
+9095
+45.4
+24
+8.5
+7135
+37.8
+Rurality
+ Urban
+76
+19.0
+7439
+46.6
+<.0001
+50
+18.2
+5905
+40.4
+<.0001
+93
+22.9
+9786
+48.9
+<.0001
+48
+17.1
+7780
+41.2
+<.0001
+ Small urban
+30
+7.5
+4111
+25.8
+28
+10.2
+4090
+28.0
+42
+10.3
+4987
+24.9
+21
+7.5
+5104
+27.0
+ Rural 
+34
+8.5
+1402
+8.8
+26
+9.5
+1499
+10.3
+23
+5.7
+1731
+8.6
+18
+6.4
+1783
+9.4
+ Remote rural
+261
+65.1
+2999
+18.8
+171
+62.2
+3124
+21.4
+248
+61.1
+3524
+17.6
+194
+69.0
+4225
+22.4
+Note:
+aSES and Rurality totals will not equal the total number of cases, due to missing county information (N=48 : Lung=2; CRC=12; BR=14; PR=20).
+AI/ AN = American Indian/ Alaska Native
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+SES = Socioeconomic Status
+
+Table 2.
+AGE- ADJUSTED INCIDENCE RATES AND RATE RATIOS FOR OF LUNG, COLORECTAL, FEMALE BREAST, 
+AND PROSTATE CANCER AMONG AI/ ANS AND NHWS: NE, SD, AND ND 2002– 2009
+Lung
+Colorectal
+Female Breast
+Prostate
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+ 
+ No. Rate 
+No. Rate RR No. Rate 
+No. Rate RR No. Rate 
+No. Rate RR No. Rate 
+No. Rate RR
+All
+401
+92.2
+15953
+60.6
+1.5a
+275
+57.0
+14630
+54.4
+1.0
+409
+134.6
+20039
+149.3
+0.9a
+282
+146.3
+18911
+158.5
+0.9
+NE
+36
+58.4
+8861
+63.2
+0.9
+33
+41.3
+7891
+55.2
+0.7
+36
+75.3
+11070
+152.7
+0.5a
+20
+66.5
+9565
+151.6
+0.4a
+SD
+214
+89.4
+3910
+58.1
+1.5a
+159
+59.0
+3474
+50.9
+1.2
+225
+135.4
+4812
+143.0
+0.9
+176
+160.9
+5029
+164.0
+1.0
+ND
+151
+116.1
+3182
+57.2
+2.0a
+83
+61.2
+3265
+56.7
+1.1
+148
+166.5
+4157
+148.0
+1.1
+86
+159.4
+4317
+169.4
+0.9
+Note:
+aRR is significant at .05.
+AI/ AN = American Indian/ Alaska Native
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+
+1054
+Late and unstaged cancers in Northern Plains
+considerably among the three states, with Nebraska AI/ ANs having consistently lower 
+incidence rates than South or North Dakota AI/ ANs. In fact, AI/ ANs in Nebraska 
+were at much lower risk of female breast or prostate cancer than NHWs in the state 
+(RR = 0.5 and RR = 0.4, respectively). The combined data from the three states indicate 
+similar age- adjusted incidence rates between AI/ ANs and NHWs, with the exception 
+of lung cancer, for which the risk was 1.5 times higher for AI/ ANs than for NHWs. 
+In North Dakota, AI/ ANs were two times more likely than NHWs to develop lung 
+cancer.
+Overall, the AI/ AN and NHW staging distributions were similar (Table 3). However, 
+there were significant differences in the age- adjusted incidence rate of late and unstaged 
+cancers (Table 4). AI/ ANs were 1.2 times more likely than NHWs to be diagnosed with late- 
+stage cancer and 2.0 times more likely to receive an unstaged cancer diagnosis. Tables 
+5 and 6 show the results of multivariate analysis for late and unstaged diagnoses. Older 
+age was associated with decreased likelihood of receiving a late- stage diagnosis, and 
+increased likelihood of receiving an unstaged diagnosis. American Indians/ Alaska 
+Natives were significantly more likely than NHWs to receive an unstaged diagnosis of 
+cancer but not a late- stage diagnosis. Sex (being male) was a significant predictor for a 
+late- stage diagnosis of lung cancer. Community- level SES was significantly associated 
+with unstaged diagnosis but not with late- stage diagnosis. The likelihood of late- stage 
+diagnosis was higher in more recent years for lung, female breast, and prostate cancers. 
+On the other hand, the likelihood of unstaged diagnosis was lower in more recent years 
+for each of the four cancers studied.
+Discussion
+Previous publications compiled the evidence for large geographic variations in cancer 
+incidence and mortality within the AI/ AN population.1,25– 28 The present study went a 
+step further to examine the data from a three- state region of the Northern Plains with 
+one of the highest incidence and mortality rates among AI/ ANs, to investigate the trends 
+and patterns of late and unstaged diagnosis of the four most common types of cancers. 
+Previous analyses of data on the Indian Health Service (IHS) Contract Health Services 
+Delivery Area (CHSDA) counties reported that AI/ AN patients tended to be diagnosed 
+with cancer at younger ages.29– 32 The present study examined data from both CHSDA 
+and non- CHSDA counties and found similar results. The difference in age distribution 
+between AI/ ANs and NHWs in our study was especially large for colorectal cancer, for 
+which AI/ ANs were found to be 8.5 years younger than NHWs (average age: 62.5 vs. 
+71.0 years). In addition, 43% of AI/ AN women diagnosed with female breast cancer 
+were younger than 55 years, compared with 30.7% of NHWs. Clinical providers and 
+public health professionals who have roles in educating community members and 
+advising patients should be made aware that AI/ ANs are at higher risk of developing 
+cancer at a younger age. Furthermore, more efforts should be made to increase aware-
+ness of cancer among younger AI/ ANs so that they understand the importance of, and 
+can take the initiative in, leading a healthier lifestyle to decrease the risk of cancer, and 
+following the early detection guidelines.
+Other striking differences between AI/ AN and NHW cancer patients were observed 
+
+TABLE 3.
+STAGING DISTRIBUTION FOR AI/ ANS AND NHWS WITH LUNG, COLORECTAL, FEMALE BREAST, AND 
+PROSTATE CANCERS: NE, SD, AND ND 2002– 2009
+Lung
+Colorectal
+Female Breast
+Prostate
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+AI/ AN
+NHW
+ 
+ 
+No. 
+%
+ 
+No. 
+%
+ 
+No. 
+%
+ 
+No.
+ 
+%
+ 
+No. 
+%
+ 
+No.
+ 
+%
+ 
+No. 
+%
+ 
+No.
+ 
+%
+In situ
+0
+0.0
+10
+0.1
+12
+4.4
+656
+4.5
+52
+12.7
+3352
+16.7
+0
+0.0
+4
+0.0
+Local
+69
+17.2
+2879
+18.0
+79
+28.7
+5389
+36.8
+193
+47.2
+10375
+51.8
+211
+74.8
+14966
+79.1
+Regional
+89
+22.2
+3798
+23.8
+106
+38.5
+5244
+35.8
+126
+30.8
+4998
+24.9
+25
+8.9
+2191
+11.6
+Distant
+197
+49.1
+7566
+47.4
+53
+19.3
+2334
+16.0
+20
+4.9
+698
+3.5
+15
+5.3
+722
+3.8
+Unstaged
+46
+11.5
+1700
+10.7
+25
+9.1
+1007
+6.9
+18
+4.4
+616
+3.1
+31
+11.0
+1028
+5.4
+AI/ AN = American Indian/ Alaska Native
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+
+1056
+Late and unstaged cancers in Northern Plains
+for residence and associated SES. For example, 58% of AI/ ANs diagnosed with prostate 
+cancer were living in communities classified as having very low SES, compared with 
+2.0% among NHWs, and 69.0% of AI/ ANs were living in remote rural communities at 
+the time of diagnosis with prostate cancer. A similar pattern was observed for patients 
+with other cancer types. Results of a 2012 survey conducted by the Northern Plains 
+Tribal Cancer Data Improvement Initiative showed the limited capacity of tribal and 
+IHS health programs to provide comprehensive cancer prevention and control activi-
+ties (unpublished data). Access to colonoscopy for colorectal cancer on reservation 
+communities is especially poor in this region. In most cases, diagnostic tests are done 
+through an outside health care system, which delays cancer detection. Many reserva-
+tion communities are located hundreds of miles away from the nearest hospital that 
+provides cancer screening and diagnostic services, and if the tribe does not have funds, 
+the patient may not be covered for the cost of tests.
+A surprising finding of this study was the large variation in incidence rates across 
+the three states examined. Regardless of cancer type, within the AI/ AN population, 
+in most cases North Dakota had the highest age- adjusted incidence rate, followed by 
+South Dakota. Nebraska AI/ ANs not only had much lower rates than North or South 
+Dakota AIs, but they also had rates lower than Nebraska NHWs for lung, colorectal, 
+Table 4.
+AGE- ADJUSTED INCIDENCE RATES AND RATE RATIOS OF 
+LATE AND UNSTAGED LUNG, COLORECTAL, FEMALE BREAST, 
+AND PROSTATE CANCER AMONG AI/ ANS AND NHWS: NE, SD, 
+AND ND 2002– 2009
+AI/ AN
+NHWs
+Rate Ratio  
+(AI/ AN:NHW)
+ 
+ 
+Rate 
+95% CI
+ 
+Rate 
+95% CI
+ Rate 95% CI
+Late stage
+ Lung
+63.2
+55.9– 70.5
+43.4
+42.6– 44.2
+1.5a
+1.3– 1.6
+ Colorectal
+31.9
+26.9– 36.9
+28.3
+27.7– 28.9
+1.1
+0.9– 1.3
+ Female Breast
+46.7
+39.1– 54.3
+43.4
+42.3– 44.5
+1.1
+0.9– 1.3
+ Prostate
+18.9
+13.0– 24.8
+24.0
+23.1– 24.9
+0.8
+0.5– 1.1
+ Combined
+129.0
+118.9– 139.1
+105.6
+104.4– 106.8
+1.2a
+1.1– 1.3
+Unstaged (all cancers)
+30.5
+25.0– 36.0
+15.4
+14.9– 15.9
+2.0a
+1.6– 2.4
+Note:
+aRR is significant at .05.
+AI/ AN = American Indian/ Alaska Native
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+CI = Confidence Interval
+
+Table 5.
+MULTIVARIATE REGRESSION FOR LATE STAGE CANCERS FOR AI AND NHWS WITH LUNG, 
+COLORECTAL, FEMALE BREAST, AND PROSTATE CANCERS: NE, SD, AND ND 2002– 2009
+Lung
+Colorectal
+Female Breast
+Prostate
+ 
+ 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value
+Age
+ <55
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 55– 64
+0.8
+0.7– 1.0
+.04
+1.0
+0.9– 1.1
+.97
+0.8
+0.7– 0.9
+<.0001
+1.0
+0.8– 1.1
+.64
+ 65– 74
+0.6
+0.5– 0.7
+<.0001
+0.8
+0.7– 0.9
+<.01
+0.7
+0.7– 0.8
+<.0001
+0.7
+0.7– 0.9
+<.0001
+ 75– 84
+0.6
+0.5– 0.7
+<.0001
+0.8
+0.7– 0.9
+<.01
+0.7
+0.6– 0.8
+<.0001
+0.5
+0.4– 0.6
+<.0001
+ 85+
+0.6
+0.5– 0.7
+<.0001
+0.9
+0.8– 1.0
+.18
+0.9
+0.8– 1.0
+.08
+1.1
+0.9– 1.4
+.36
+ 
+<0.0001
+0.0041
+<0.0001
+<0.0001
+Race
+ NHW
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ AI
+0.9
+0.7– 1.2
+.53
+1.3
+1.0– 1.7
+.08
+1.3
+1.0– 1.7
+.02
+1.1
+0.8– 1.7
+.50
+Sex
+ Male
+1.0
+ 
+ 
+1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Female
+0.8
+0.7– 0.9
+<.0001
+1.0
+1.0– 1.1
+.64
+ 
+ 
+SES
+ Very high
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ High
+0.9
+0.8– 1.1
+.42
+1.0
+0.9– 1.1
+.98
+1.0
+0.9– 1.1
+.83
+0.9
+0.8– 1.0
+.12
+ Average
+0.9
+0.7– 1.1
+.18
+1.0
+0.9– 1.2
+.90
+1.0
+0.9– 1.2
+.53
+0.9
+0.7– 1.0
+.10
+ Low
+1.1
+0.8– 1.4
+.61
+1.0
+0.8– 1.2
+.80
+1.1
+0.8– 1.2
+.83
+0.9
+0.7– 1.1
+.23
+ Very low
+1.2
+0.8– 1.7
+.37
+1.1
+0.8– 1.4
+.65
+1.0
+0.8– 1.4
+.61
+0.6
+0.4– 0.8
+<.01
+ 
+0.0851
+0.7266 
+0.0017
+0.0027
+(Continued on p. 1058)
+
+Table 5. (continued)
+Lung
+Colorectal
+Female Breast
+Prostate
+ 
+ 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value 
+OR 
+95% CI 
+p- value
+Rurality
+ Urban
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ Small urban
+1.1
+0.9– 1.3
+.27
+0.9
+0.7– 1.0
+.02
+1.1
+1.0– 1.3
+.04
+0.9
+0.8– 1.1
+.28
+ Rural 
+1.1
+0.9– 1.4
+.24
+1.1
+0.9– 1.3
+.19
+1.1
+1.0– 1.3
+.18
+1.3
+1.0– 1.5
+.03
+ Remote rural
+1.1
+0.9– 1.4
+.25
+1.0
+0.8– 1.1
+.66
+1.1
+1.0– 1.3
+.12
+1.1
+0.9– 1.3
+.28
+ 
+ 0.1185
+0.7046 
+0.0027
+0.2049
+Years of diagnosis
+ 2002– 2005
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 2006– 2009
+1.2
+1.1– 1.3
+<.001
+0.9
+0.9– 1.0
+.06
+1.0
+1.0– 1.1
+.16
+1.1
+1.0– 1.2
+<.01
+AI = American Indian
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+OR = Odds Ratio
+CI = Confidence Interval
+
+Table 6.
+MULTIVARIATE REGRESSION FOR UNSTAGED CANCERS FOR AI AND NHWS WITH LUNG, 
+COLORECTAL, FEMALE BREAST, AND PROSTATE CANCERS: NE, SD, AND ND 2002– 2009
+Lung
+Colorectal
+Female Breast
+Prostate
+ 
+ 
+OR 
+95% CI p- value 
+OR 
+95% CI p- value 
+OR 
+95% CI p- value 
+OR 
+95% CI
+ p- value
+Age
+ <55
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 55– 64
+1.1
+0.8– 1.4
+.56
+0.8
+0.6– 1.0
+.07
+1.1
+0.8– 1.5
+.47
+0.8
+0.6– 1.2
+.27
+ 65– 74
+1.3
+1.0– 1.7
+.03
+1.0
+0.8– 1.3
+.91
+1.2
+0.9– 1.6
+.23
+1.1
+0.8– 1.6
+.52
+ 75– 84
+2.3
+1.8– 2.9
+<.0001
+1.3
+1.0– 1.7
+.02
+2.0
+1.6– 2.7
+<.0001
+3.3
+2.4– 4.6
+<.0001
+ 85+
+6.4
+5.0– 8.2
+<.0001
+4.1
+3.2– 5.2
+<.0001
+8.7
+6.8– 11.0
+<.0001
+14.1
+10.0– 19.8
+<.0001
+ 
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+Race
+ NHW
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ AI
+1.2
+0.9– 1.8
+.23
+1.6
+1.0– 2.7
+.04
+1.8
+1.0– 3.1
+.04
+2.3
+1.4– 3.6
+<.001
+Sex
+ Male
+1.0
+ 
+ 
+1.0
+ 
+ Female
+0.9
+0.9– 1.1
+.31
+1.0
+0.9– 1.1
+1.00 
+SES
+ Very high
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ High
+1.4
+1.2– 1.7
+<.001
+1.2
+0.9– 1.6
+.19
+1.2
+0.9– 1.6
+.24
+1.7
+1.4– 2.2
+<.0001
+ Average
+1.6
+1.3– 2.1
+<.0001
+1.4
+1.0– 1.9
+.04
+2.1
+1.5– 3.1
+<.0001
+1.9
+1.4– 2.6
+<.0001
+ Low
+1.3
+1.0– 1.7
+.08
+1.4
+1.0– 2.0
+.08
+1.8
+1.1– 2.8
+.01
+1.7
+1.2– 2.4
+<.01
+ Very low
+1.2
+0.8– 1.9
+.33
+1.4
+0.8– 2.2
+.22
+1.9
+1.0– 3.5
+.06
+2.3
+1.4– 3.6
+<.001
+ 
+ <0.0001
+<0.0001
+<0.0001
+<0.0001
+(Continued on p. 1060)
+
+Table 6. (continued)
+Lung
+Colorectal
+Female Breast
+Prostate
+ 
+ 
+OR 
+95% CI p- value 
+OR 
+95% CI p- value 
+OR 
+95% CI p- value 
+OR 
+95% CI
+ p- value
+Rurality
+ Urban
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ Small urban
+0.8
+0.7– 1.0
+.03
+0.8
+0.6– 1.0
+.05
+0.6
+0.4– 0.9
+<.01
+0.5
+0.4– 0.6
+<.0001
+ Rural 
+1.1
+0.9– 1.5
+.28
+1.0
+0.7– 1.4
+.90
+0.7
+0.5– 1.1
+.13
+0.6
+0.4– 0.8
+<.01
+ Remote rural
+0.9
+0.7– 1.2
+.65
+1.0
+0.7– 1.3
+.77
+0.7
+0.5– 1.0
+.04
+0.6
+0.5– 0.9
+<.01
+ 
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+Years of diagnosis
+ 2002– 2005
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 
+1.0
+ 
+ 2006– 2009
+ 
+0.6 
+0.5– 0.6
+<.0001
+0.7 
+0.6– 0.8
+ <.0001
+0.5 
+0.4– 0.5
+<.0001
+0.4 
+0.4– 0.5
+<.0001
+AI = American Indian
+NHW = Non- Hispanic White
+NE = Nebraska
+SD = South Dakota
+ND = North Dakota
+OR = Odds Ratio
+CI = Confidence Interval
+
+1061
+Watanabe-Galloway, Watkins, and Duran
+and prostate cancers. For instance, the age- adjusted incidence rate of female breast and 
+prostate cancer among Nebraska AI/ ANs was about half of that of Nebraska NHWs. 
+Due to the relatively small number of cases in Nebraska, the incidence rate estimates 
+are less reliable than for North Dakota or South Dakota. Nevertheless, it is clear that 
+there is a distinct and consistent pattern of cancer incidence rates for Nebraska.
+There are several possible reasons for the observed variations in cancer incidence rates 
+between Nebraska and other two states. One possibility is that AI/ ANs in Nebraska have 
+less exposure to cancer risk factors. For example, Behavioral Risk Factor Surveillance 
+System data indicate that AI/ ANs in Nebraska have a much lower smoking rate and 
+are less obese than AI/ ANs in North and South Dakota.33– 35 A higher cancer screening 
+rate among AI/ ANs in Nebraska than in North and South Dakota may also contribute 
+to variation in incidence rates.33– 35 There could also be a difference in physical environ-
+ment that results in differences in exposure to environmental carcinogens. Another 
+possible cause of variation in incidence rates is under- reporting of cancer among 
+AI/ ANs in Nebraska. A connection between IHS and cancer registry data is done 
+routinely in all three states. However, the connection is not effective if AI/ AN patients 
+do not use IHS health care and are therefore not in the IHS database. There are a 
+variety of reasons why AI/ AN individuals do not use IHS health care. Some AI/ AN 
+individuals with private insurance may choose to use a non- IHS health care system, 
+and other AI/ AN individuals may not be eligible to receive IHS health care. Future 
+research should look into reasons for incidence rate variations across states so that 
+specific recommendations can be made to improve the data quality and/or to decrease 
+the exposure to cancer risk factors.
+As has been found in previously published research,29– 32 the present study found that 
+AI/ ANs are more likely than NHWs to receive a late- stage diagnosis or an unstaged 
+diagnosis. We conducted a multivariate analysis to identify factors that are independently 
+associated with late- or early- stage diagnosis. In this study, being older was found to 
+be a risk factor for late diagnosis of all four cancers. Previous research offers mixed 
+results on the effect of age, and the results differ by type of cancer. For example, older 
+age was associated with delayed presentation with symptoms of female breast cancer36 
+but was unrelated to delayed presentation for colorectal cancer37 and lung cancer.38,39 
+After adjusting for other variables, in this study, race was no longer a predictor for 
+late- stage diagnosis of cancer. However, other studies found non- White ethnic origin to 
+be a risk factor for longer delay in presenting with female breast36 or prostate cancer.40 
+This study found that males were 20% more likely than females to receive a late- stage 
+diagnosis for lung cancer, but other studies did not find such an association.38,39,41,42 
+Previous studies found that lower SES was associated with late- stage diagnosis among 
+men with prostate cancer,40,43,44 but no overall relationship between SES and late- stage 
+diagnosis has been found for colorectal cancer37 or lung cancer.38,39,43 The present study 
+found no association between SES and late- stage diagnosis.
+Multivariate analysis results indicate that the reasons for receiving an unstaged or a 
+late- stage diagnosis differ. Older age was associated with unstaged diagnosis but not with 
+late- stage diagnosis. This result was confirmed by previous research.45– 49 Additionally, 
+lower community SES was associated with likelihood of unstaged diagnosis but not with 
+late- stage diagnosis. Again, this result was replicated in previous research.46,48– 50 Another 
+
+1062
+Late and unstaged cancers in Northern Plains
+difference between the results for late- stage and unstaged diagnoses was that AI/ ANs 
+were significantly more likely to receive an unstaged diagnosis even after adjusting 
+for other factors. Previous studies found an association between being a racial/ ethnic 
+minority and receiving an unstaged cancer diagnosis.11,48,51
+The following strengths and limitations of this study should be considered. The 
+cancer registries of Nebraska and North and South Dakota have all met the data quality 
+standard of the North American Association of Central Cancer Registries in terms of 
+completeness of capturing cancer cases and accuracy of information. These registries 
+also have data- sharing agreements in order to obtain information about individuals 
+who receive cancer care outside of their state of residence. Because it was outside of the 
+scope of study, we did not look into the extent of racial misclassification in these cancer 
+registries. Therefore, it was not possible to determine if or how racial misclassification 
+may have influenced our results regarding the variations in cancer incidence rates 
+across the states. Though cancer registries collect high- quality data on cancer staging 
+and diagnosis, they do not consistently collect demographic information beyond age 
+and sex. Therefore, we used U.S. Census Bureau data to determine the SES of cancer 
+patients. Self- reported individualized information on education, marital status, and 
+income may give a more accurate picture, but such information was not available.
+In summary, compared with NHWs, AI/ ANs in a three- state area of the Northern 
+Plains are diagnosed with cancer at a much earlier age and are more likely to live in 
+rural communities classified as having low SES. An important finding of the study was 
+wide variation in cancer incidence rates across the three states, a finding that warrants 
+future research on cancer surveillance and epidemiology research. Overall, AI/ ANs were 
+20% more likely than NHWs to receive a late- stage diagnosis and two times more likely 
+to receive an unstaged diagnosis. In order to understand the reasons for late- stage and 
+unstaged diagnosis of cancer, future research should examine more detailed informa-
+tion on patients and the health care system. The effect of late and unstaged diagnosis 
+of cancer on survival should also be investigated.
+References
+ 1. 
+Espey DK, Wiggins CL, Jim MA, et al. Methods for improving cancer surveillance 
+data in American Indian and Alaska Native populations. Cancer. 2008 Sep 1;113(5 
+Suppl):1120– 30.
+http:// dx.doi .org/ 10.1002/ cncr.23724
+PMid:18720372
+ 2. 
+Espey D, Paisano R, Cobb N. Regional patterns and trends in cancer mortality among 
+American Indians and Alaska Natives, 1990– 2001. Cancer. 2005 Mar 1;103(5):1045– 53.
+http:// dx.doi .org/ 10.1002/ cncr.20876
+PMid:15685622
+ 3. 
+Norris T, Vines PL, Hoeffel EM. The American Indian and Alaska Native population: 
+2010. U.S. Census Bureau. 2012 Jan;1– 21.
+ 4. 
+Liu L, Deapen D, Bernstein L. Socioeconomic status and cancers of the female breast 
+and reproductive organs: a comparison across racial/ ethnic populations in Los Angeles 
+County, California (United States). Cancer Causes Control. 1998 Aug 1;9(4):369– 80.
+http:// dx.doi .org/ 10.1023/ A:1008811432436
+PMid:9794168
+
+1063
+Watanabe-Galloway, Watkins, and Duran
+ 5. 
+Yost K, Perkins C, Cohen R, et  al. Socioeconomic status and breast cancer inci-
+dence in California for different race/ ethnic groups. Cancer Causes Control. 2001 
+Oct;12(8):703– 11.
+http:// dx.doi .org/ 10.1023/ A:1011240019516
+PMid:11562110
+ 6. 
+Blair SL, Sadler GR, Bristol R, et al. Early cancer detection among rural and urban 
+Californians. BMC Public Health. 2006 Jul 26;6(194):1– 5.
+ 7. 
+Campbell NC, Elliott AM, Sharp L, et al. Rural and urban differences in stage at 
+diagnosis of colorectal and lung cancers. Br J Cancer. 2001 Apr 6;84(7):910– 14.
+http:// dx.doi .org/ 10.1054/ bjoc.2000.1708
+PMid:11286470 PMCid:PMC2363829
+ 8. 
+Hawley ST, Chang S, Risser D, et  al. Colorectal cancer incidence and mortality 
+in Texas 1990– 1992: a comparison of rural classifications. J Rural Health. 2002 
+Fall;18(4):536– 46.
+http:// dx.doi .org/ 10.1111/ j.1748-0361.2002.tb00920.x
+PMid:12380896
+ 9. 
+Higginbotham JC, Moulder J, Currier M. Rural v. urban aspects of cancer: first- year 
+data from the Mississippi Central Cancer Registry. Fam Community Health. 2001 
+Jul;24(2):1– 9.
+http:// dx.doi .org/ 10.1097/ 00003727-200107000-00003
+PMid:11373161
+10. 
+Sankaranarayanan J, Watanabe- Galloway S, Sun J, et al. Rurality and other determi-
+nants of early colorectal cancer diagnosis in Nebraska: a 6-year cancer registry study, 
+1998– 2003. J Rural Health. 2009 Fall;25(4):358– 65.
+http:// dx.doi .org/ 10.1111/ j.1748-0361.2009.00244.x
+PMid:19780915
+11. 
+Merrill RM, Sloan A, Anderson AE, et al. Unstaged cancer in the United States: a 
+population- based study. BMC Cancer. 2011 Sep 21;11(402):1– 10.
+http:// dx.doi .org/ 10.1186/ 1471-2407-11-402
+12. 
+Cetin K, Beebe- Dimmer JL, Fryzek JP, et al. Recent time trends in the epidemiology 
+of stage IV prostate cancer in the United States: analysis of data from the Surveillance, 
+Epidemiology, and End Results program. Urology. 2010 Jun;75(6):1396– 404.
+http:// dx.doi .org/ 10.1016/ j.urology.2009.07.1360
+PMid:19969335 PMCid:PMC4249683
+13. 
+Li J, Djenaba JA, Soman A, et  al. Recent trends in prostate cancer incidence 
+by age, cancer stage, and grade, the United States, 2001– 2007. Prostate Cancer. 
+2012;2012(691380):1– 8.
+http:// dx.doi .org/ 10.1155/ 2012/ 691380
+PMid:23251806 PMCid:PMC3515924
+14. 
+Akinyemiju TF, Soliman AS, Copeland G, et al. Trends in breast cancer stage and 
+mortality in Michigan (1992– 2009) by race, socioeconomic status, and area healthcare 
+resources. PLoS One. 2013 Apr 29;8(4):e61879.
+http:// dx.doi .org/ 10.1371/ journal.pone.0061879
+PMid:23637921 PMCid:PMC3639257
+15. 
+American Cancer Society. Cancer facts & figures 2013. Atlanta, GA: American Cancer 
+Society, 2013. Available at: http:// www .cancer .org/ acs/ groups/ content/ @epidemiology 
+surveilance/ documents/ document/ acspc- 036845 .pdf.
+16. 
+Ghelfi L, Parker T. Developing a county- level measure of urban influence. Amber 
+Waves. 2004 Apr;2(2):1– 4.
+
+1064
+Late and unstaged cancers in Northern Plains
+17. 
+Krieger N. Overcoming the absence of socioeconomic data in medical records: vali-
+dation and application of a census- based methodology. Am J Public Health. 1992 
+May;82(5):703– 10.
+http:// dx.doi .org/ 10.2105/ AJPH.82.5.703
+PMid:1566949 PMCid:PMC1694121
+18. 
+Roetzheim RG, Pal N, Tennant C, et al. Effects of health insurance and race on early 
+detection of cancer. J Natl Cancer Inst. 1999 Aug 18;91(16):1409– 15.
+http:// dx.doi .org/ 10.1093/ jnci/ 91.16.1409
+PMid:10451447
+19. 
+Sankaranarayanan J, Watanabe- Galloway S, Sun J, et al. Age and rural residence effects 
+on accessing colorectal cancer treatments: a registry study. Am J Manag Care. 2010 
+Apr;16(4):265– 73.
+PMid:20394462
+20. 
+Hall SA, Kaufman JS, Ricketts TC. Defining urban and rural areas in U.S. epidemio-
+logic studies. J Urban Health. 2006 Mar;83(2):162– 75.
+http:// dx.doi .org/ 10.1007/ s11524-005-9016-3
+PMid:16736366 PMCid:PMC2527174
+21. 
+Parker T, Ghelfi LM. Using the 2003 Urban Influence Codes to understand rural 
+America. Washington, DC: United States Department of Agriculture, 2004. Available 
+at: http:// www .ers .usda .gov/ amber- waves/ 2004-april/ using- the- 2003-urban- influence 
+- codes- to-understand- rural- america .aspx#.VWS4As9VhBc.
+22. 
+Cramer ME, Chen LW, Mueller KJ, et al. Predictive model to determine need for 
+nursing workforce. Policy, Politics Nurs Pract. 2004 Aug;5(3):174– 90.
+http:// dx.doi .org/ 10.1177/ 1527154404266785
+23. 
+Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. 
+Healthy People 2010. 2001 Jan;20:1– 10.
+24. 
+National Cancer Institute. Surveillance, Epidemiology, and End Results (SEER) Pro-
+gram. U.S. population data 1969– 2013. Bethesda, MD: National Cancer Institute, 
+2014. Available at: http:// seer .cancer .gov/ resources.
+25. 
+Haverkamp D, Espey D, Paisano R, et al. Cancer mortality among American Indians 
+and Alaska Natives: regional differences, 1999– 2003. Rockville, MD: Indian Health Ser-
+vice, 2008. Available at: http:// www .ihs .gov/ epi/ documents/ cancer/ 9903CMAIANRD 
+.pdf.
+26. 
+Cobb N, Paisano RE. Patterns of cancer mortality among Native Americans. Cancer. 
+1998 Dec 1;83(11):2377– 83.
+http:// dx.doi .org/ 10.1002/ (SICI)1097-0142(19981201)83:11<2377::AID-CNCR18>
+3.0.CO;2-Z
+27. 
+Centers for Disease Control and Prevention (CDC). Cancer mortality among American 
+Indians and Alaska Natives—United States, 1994– 1998. MMWR Morb Mortal Wkly 
+Rep. 2003 Aug 1;52(30):704– 07.
+PMid:12894057
+28. 
+Nutting PA, Freeman WL, Risser DR, et al. Cancer incidence among American Indians 
+and Alaska Natives, 1980 through 1987. Am J Public Health. 1993 Nov;83(11):1589– 98.
+http:// dx.doi .org/ 10.2105/ AJPH.83.11.1589
+PMid:8238684 PMCid:PMC1694894
+29. 
+Bliss A, Cobb N, Solomon T, et al. Lung cancer incidence among American Indians 
+and Alaska Natives in the United States, 1999– 2004. Cancer. 2008 Sep 1;113(5 
+Suppl):1168– 78.
+
+1065
+Watanabe-Galloway, Watkins, and Duran
+http:// dx.doi .org/ 10.1002/ cncr.23738
+PMid:18720387
+30. 
+Wingo PA, King J, Swan J, et al. Breast cancer incidence among American Indian and 
+Alaska Native women: U.S., 1999– 2004. 2008 Sep 1;113(5 Suppl):1191– 202.
+31. 
+Henderson JA, Espey DK, Jim MA, et  al. Prostate cancer incidence among 
+American Indian and Alaska Native men, U.S., 1999– 2004. Cancer. 2008 Sep 1;113(5 
+Suppl):1203– 12.
+http:// dx.doi .org/ 10.1002/ cncr.23739
+PMid:18720376
+32. 
+Perdue DG, Perkins C, Jackson- Thompson J, et al. Regional differences in colorectal 
+cancer incidence, stage, and subsite among American Indians and Alaska Natives, 
+1999– 2004. Cancer. 2008 Sep 1;113(5 Suppl):1179– 90.
+http:// dx.doi .org/ 10.1002/ cncr.23726
+PMid:18720388
+33. 
+Great Plains Tribal Chairmen’s Health Board. Cancer health status report for Nebraska 
+American Indian communities, 2012. Rapid City, SD: Great Plains Tribal Chairmen’s 
+Health Board, 2012.
+34. 
+Great Plains Tribal Chairmen’s Health Board and North Dakota Department of Health. 
+Cancer health status report for North Dakota American Indian communities, 2012. 
+Rapid City, SD: Great Plains Tribal Chairmen’s Health Board, 2012.
+35. 
+Great Plains Tribal Chairmen’s Health Board and South Dakota Department of Health. 
+Cancer health status report for South Dakota American Indian communities, 2011. 
+Rapid City, SD: Great Plains Tribal Chairmen’s Health Board, 2011. Available at: 
+http:// getscreened.sd .gov/ documents/ AI- CancerHealthStatus .pdf.
+36. 
+Ramirez AJ, Westcombe AM, Burgess CC, et  al. Factors predicting delayed pre-
+sentation of symptomatic breast cancer: a systematic review. Lancet. 1999 Apr 
+3;353(9159):1127– 31.
+http:// dx.doi .org/ 10.1016/ S0140-6736(99)02142-X
+37. 
+Mitchell E, Macdonald S, Campbell NC, et  al. Influences on pre- hospital delay 
+in the diagnosis of colorectal cancer: a systematic review. Br J Cancer. 2008 Jan 
+15;98(1):60– 70.
+http:// dx.doi .org/ 10.1038/ sj.bjc.6604096
+PMid:18059401 PMCid:PMC2359711
+38. 
+Worden JW, Weisman AD. Psychosocial components of lagtime in cancer diagnosis. 
+J Psychosom Res. 1975 Feb;19(1):69– 79.
+http:// dx.doi .org/ 10.1016/ 0022-3999(75)90052-5
+39. 
+Mor V, Masterson- Allen S, Goldberg R, et al. Pre- diagnostic symptom recognition and 
+help seeking among cancer patients. J Community Health. 1990 Aug;15(4):253– 66.
+http:// dx.doi .org/ 10.1007/ BF01350291
+PMid:2212095
+40. 
+Samet JM, Hunt WC, Lerchen ML, et al. Delay in seeking care for cancer symptoms: 
+a population- based study of elderly New Mexicans. J Natl Cancer Inst. 1988 May 
+18;80(6):432– 38.
+http:// dx.doi .org/ 10.1093/ jnci/ 80.6.432
+PMid:3367383
+41. 
+Risberg T, Sørbye, SW, Norum J, et  al. Diagnostic delay causes more psycho-
+logical distress in female than in male cancer patients. Anticancer Res. 1996 Mar– 
+Apr;16(2):995– 99.
+PMid:8687166
+
+1066
+Late and unstaged cancers in Northern Plains
+42. 
+Bowen EF, Rayner CFJ. Patient and GP led delays in the recognition of symptoms 
+suggestive of lung cancer. Lung Cancer. 2002 Aug;37(2):227– 28.
+http:// dx.doi .org/ 10.1016/ S0169-5002(02)00143-5
+43. 
+Hackett TP, Cassem NH, Raker JW. Patient delay in cancer. N Engl J Med. 1973 Jul 
+5;289(1):14– 20.
+http:// dx.doi .org/ 10.1056/ NEJM197307052890104
+PMid:4708950
+44. 
+Fitzpatrick P, Corcoran N, Fitzpatrick JM. Prostate cancer: How aware is the public? 
+Br J Urol. 1998 Jul;82(1):43– 48.
+http:// dx.doi .org/ 10.1046/ j.1464-410x.1998.00685.x
+PMid:9698661
+45. 
+Yancik R, Wesley MN, Ries LA, et al. Effect of age and comorbidity in postmenopausal 
+breast cancer patients aged 55 years and older. JAMA. 2001 Feb 21;285(7):885– 92.
+http:// dx.doi .org/ 10.1001/ jama.285.7.885
+PMid:11180731
+46. 
+Klassen AC, Curriero F, Kulldorff M, et al. Missing stage and grade in Maryland prostate 
+cancer surveillance data, 1992– 1997. Am J Prev Med. 2006 Feb;30(2 Suppl):S77– 87.
+http:// dx.doi .org/ 10.1016/ j.amepre.2005.09.010
+PMid:16458794
+47. 
+Koroukian SM, Xu F, Beaird H, et al. Complexity of care needs and unstaged cancer 
+in elders: a population- based study. Cancer Detect Prev. 2007;31(3):199– 206.
+http:// dx.doi .org/ 10.1016/ j.cdp.2007.04.002
+PMid:17658225 PMCid:PMC2577170
+48. 
+Worthington JL, Koroukian SM, Cooper GS. Examining the characteristics of unstaged 
+colon and rectal cancer cases. Cancer Detect Prev. 2008;32(3):251– 58.
+http:// dx.doi .org/ 10.1016/ j.cdp.2008.08.006
+PMid:18804920
+49. 
+Bradley CJ, Clement JP, Lin C. Absence of cancer diagnosis and treatment in elderly 
+Medicaid- insured nursing home residents. J Natl Cancer Inst. 2008 Jan 2;100(1):21– 31.
+http:// dx.doi .org/ 10.1093/ jnci/ djm271
+PMid:18159068
+50. 
+Roetzheim RG, Pal N, Gonzalez EC, et  al. Effects of health insurance and 
+race on colorectal cancer treatments and outcomes. Am J Public Health. 2000 
+Nov;90(11):1746– 54.
+http:// dx.doi .org/ 10.2105/ AJPH.90.11.1746
+PMid:11076244 PMCid:PMC1446414
+51. 
+Miller BA, Hankey BF, Thomas TL. Impact of sociodemographic factors, hormone 
+receptor status, and tumor grade on ethnic differences in tumor stage and size for 
+breast cancer in U.S. women. Am J Epidemiol. 2002 Mar 15;155(6):534– 45.
+http:// dx.doi .org/ 10.1093/ aje/ 155.6.534
+PMid:11882527
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+

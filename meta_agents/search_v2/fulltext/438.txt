@@ -1,0 +1,1054 @@
+record_id=438 pmid=18086787 doi=10.1158/1055-9965.epi-07-0546
+SOURCE: manual-pdf
+TITLE: Changes in breast cancer incidence rates in the United States by histologic subtype and race/ethnicity, 1995 to 2004
+
+Short Communication
+Changes in Breast Cancer Incidence Rates in the
+United States by Histologic Subtype and
+Race/Ethnicity, 1995 to 2004
+Christopher I. Li and Janet R. Daling
+Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington
+Abstract
+Breast cancer incidence rates rose throughout the 1980s
+and 1990s in the United States but have recently
+declined through 2004. Studies reporting this decline
+primarily attribute it to the sharp decline in meno-
+pausal hormone use following publication of the
+Women’s Health Initiative trial results. However, they
+have not stratified rates by either histologic type or
+race/ethnicity, which could further inform contributors
+to these trends. Using data from 13 cancer registries that
+participate in the Surveillance, Epidemiology, and End
+Results program, we evaluated annual percent changes
+(APC) in breast cancer incidence rates from 1995 to 2004
+by histologic type and race/ethnicity for intervals
+identified using joinpoint regression. Invasive ductal
+carcinoma and invasive lobular carcinoma incidence
+rates fell steadily from 1998 to 2004 [APC, 3.07% (95%
+confidence interval, 4.10 to 2.02) and APC, 3.18%
+(95% confidence interval, 5.18 to 1.03), respectively].
+Declines in rates of breast cancer overall and invasive
+ductal carcinoma were primarily limited to women z50
+years of age and to non-Hispanic whites and Asian/
+Pacific Islanders, and declines in rates of invasive
+lobular carcinoma were primarily limited to non-
+Hispanic whites. The majority of these declines began
+around 1998 and all began before 2002 when the
+Women’s Health Initiative trial results were published;
+thus, the abrupt decline in hormone therapy use
+starting in 2002 is unlikely to be primarily responsible
+for the recent decline in breast cancer rates. The
+declines observed thus far are likely attributable to
+saturation of screening, although further declines
+related to the widespread cessation of hormone use
+may follow.
+(Cancer Epidemiol Biomarkers Prev
+2007;16(12):2773–80)
+Introduction
+We have previously reported that incidence rates of
+invasive breast cancer increased 4% from 1987 to 1999 in
+the United States and that there were substantial
+variations in incidence patterns by histologic type (1).
+Specifically, rates of invasive ductal carcinoma (IDC), the
+most common histologic type of breast cancer, increased
+3% over this time period, whereas invasive lobular
+carcinoma (ILC) rates increased 52% and invasive
+ductal-lobular carcinoma (IDLC) rates increased 96%.
+Recent reports suggest that incidence rates of invasive
+breast cancer are declining in the United States (2-8).
+Specifically, based on Surveillance, Epidemiology, and
+End Results (SEER) data, an 8.6% decrease in incidence
+was observed from 2001 to 2004 (2).
+One of the primary explanations offered for the
+declines observed is that they are due to the sharp 38%
+to 68% declines (3, 9, 10) in menopausal hormone use
+that occurred after the publication of the Women’s
+Health Initiative (WHI) estrogen and progestin trial
+results (11). Alternatively, Jemal et al. (5) argue that the
+decline is largely due to screening saturation given that
+the decline in rates began around 1999 across multiple
+age groups and were most pronounced for localized
+stage disease and tumors V2 cm in size. However, none
+of these studies reported trends stratified by factors such
+as histologic type and race/ethnicity, factors that have
+been found to be related to hormone use. It is noteworthy
+that although several studies have concluded that the
+primary explanation for the drop in breast cancer
+incidence rates is due to the widespread cessation of
+hormone therapy use that began after the WHI trial
+results were published in July 2002, the data reported in
+two of these studies indicate that rates have been
+dropping steadily since 2000 (6, 7), suggesting that
+factors other than changes in hormone use are respon-
+sible for these trends. Analyses by histologic type are
+particularly relevant given our previous observations
+about differences in breast cancer incidence trends by
+histologic type (1) and data that clearly and consistently
+suggest that combined estrogen and progestin hormone
+therapy (CHT) is associated with a 2.0- to 3.9-fold
+increased risk of lobular carcinomas (both ILC and
+IDLC) but not with IDC risk (12-17). The sharp rise in
+lobular carcinoma incidence rates through the 1990s is
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+Received 6/19/07; revised 9/7/07; accepted 9/17/07.
+Grant support: Fred Hutchinson Cancer Research Center.
+The costs of publication of this article were defrayed in part by the payment of page
+charges. This article must therefore be hereby marked advertisement in accordance
+with 18 U.S.C. Section 1734 solely to indicate this fact.
+Requests for reprints: Christopher I. Li, Fred Hutchinson Cancer Research Center,
+1100 Fairview Avenue North, M4-C308, P. O. Box 19024, Seattle, WA 98109-1024.
+Phone: 206-667-7444. E-mail: cili@fhcrc.org
+Copyright D 2007 American Association for Cancer Research.
+doi:10.1158/1055-9965.EPI-07-0546
+2773
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+thought to be largely due to the strong association
+between CHT use and lobular carcinoma risk. The WHI
+estrogen and progestin trial did not find a difference in
+risk by histology, although the trial was underpowered
+to assess this relationship as it included only 38 ILC and
+23 IDLC cases across both study arms.
+The purpose of this study is to evaluate trends in
+breast cancer incidence rates by histologic type in the
+United States from 1995 to 2004, the past 10 years for
+which SEER data are available. If these declines are in
+fact largely attributable to the marked decrease in
+hormone therapy use, then one may expect that these
+declines would be largely confined to rates after 2002 and
+perhaps be more pronounced among lobular tumors.
+Materials and Methods
+Women (308,702) z30 years of age diagnosed with in situ
+or invasive breast cancer between 1995 and 2004 were
+identified through 13 population-based cancer registries
+in the United States that participate in the SEER Program.
+The underlying female population from which these
+cases were identified increased in size from 10,707,977
+in 1995 to 12,087,807 in 2004. We included the registries
+serving Alaska Natives; Atlanta, Georgia; Connecticut;
+Detroit, Michigan; Hawaii; Iowa; Los Angeles, California;
+New Mexico; Rural Georgia; San Francisco-Oakland,
+California; Seattle-Puget Sound, Washington; and Utah.
+These registries encompass f14% of the U.S. population.
+This population is representative of the country as a
+whole with regard to socioeconomic status and educa-
+tion level, although it does include higher proportions of
+people living in urban areas and who are foreign born
+(18). Individual patient medical records are the source of
+data on patient and tumor characteristics. Informed
+consent was not obtained because cancer is a reportable
+disease by law, and release of information about all
+diagnoses made is mandatory, in the areas covered by
+SEER.
+Estimates of the underlying populations covered by
+the SEER registries are based on data from the U.S.
+Bureau of the Census. Using SEER*Stat 6.3.5 (National
+Cancer Institute, Bethesda, MD; issued April 2007), these
+estimates were used to calculate incidence rates of breast
+cancer overall and by histologic type from 1995 to 2004
+that were age adjusted to the 2000 U.S. population.
+Histologic classifications were based on the following
+International Classification of Diseases for Oncology
+Third Edition (ICD-O-3) codes: 8500 for IDC, 8520 and
+8524 for ILC, and 8522 for IDLC, consistent with previous
+studies (19). Beginning in 2001, SEER switched from
+using the second edition of the ICD-O codes (ICD-O-2) to
+ICD-O-3. Codes 8500, 8520, and 8522 were used in both
+Table 1. Age-adjusted incidence rates of invasive breast carcinoma by histologic type, 1995 to 2004
+Year
+Total population
+in registries
+All invasive cases
+IDC
+No. cases
+Incidence rate
+per 100,000
+No. cases
+Incidence rate
+per 100,000
+N
+1995
+10,707,977
+23,161
+223.2
+15,975
+154.4
+1996
+10,855,811
+23,724
+225.5
+16,764
+159.8
+1997
+11,018,678
+24,888
+231.7
+17,316
+161.6
+1998
+11,170,012
+25,891
+236.8
+18,035
+165.2
+1999
+11,315,376
+26,246
+235.8
+18,057
+162.5
+2000
+11,469,039
+25,892
+228.4
+17,879
+158.1
+2001
+11,665,882
+26,581
+229.8
+17,555
+152.0
+2002
+11,826,781
+26,377
+223.6
+17,258
+146.4
+2003
+11,970,333
+24,998
+207.8
+16,584
+138.1
+2004
+12,087,807
+25,329
+206.7
+17,240
+141.0
+Number of joinpoints from 1995-2004*
+1
+1
+APC (95% CI)*
+1995-1999
+1.68% (0.38 to 3.78)
+1995-1998
+2.43% (0.68 to 5.64)
+19
+1999-2004
+2.82%c (4.26 to 1.36)
+1998-2004
+3.07%c (4.10 to 2.02)
+19
+Year
+Total population in registries
+All in situ cases
+DCIS
+No. cases
+Incidence rate per 100,000
+No. cases
+Incidence rate per 100,000
+1995
+10,707,977
+4,076
+40.1
+3,306
+32.4
+1996
+10,855,811
+4,268
+41.4
+3,450
+33.4
+1997
+11,018,678
+4,858
+46
+3,988
+37.7
+1998
+11,170,012
+5,630
+52.2
+4,609
+42.7
+1999
+11,315,376
+5,862
+53.3
+4,803
+43.7
+2000
+11,469,039
+5,936
+52.9
+4,865
+43.4
+2001
+11,665,882
+6,199
+54.0
+5,098
+44.5
+2002
+11,826,781
+6,314
+53.9
+5,147
+43.9
+2003
+11,970,333
+6,133
+51.2
+5,075
+42.4
+2004
+12,087,807
+6,339
+51.9
+5,352
+43.9
+Number of joinpoints from 1995-2004*
+1
+1
+APC (95% CI)*
+1995-1999
+8.31%c (4.92-11.80)
+1995-1998
+11.10%c (6.35-16.07)
+1999-2004
+0.94% (2.99 to 1.15)
+1998-2004
+0.38% (0.94 to 1.72)
+*Joinpoints represent statistically significant changes in incidence rates based on joinpoint regression, and APCs are shown for the segments between
+joinpoints.
+cAPC is statistically different from zero at P < 0.05.
+Breast Cancer Incidence Rates, 1995 to 2004
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2774
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+ICD-O editions and defined identically in both versions.
+Code 8524 was new to ICD-O-3 and is defined as
+‘‘infiltrating lobular mixed with other types of carcino-
+ma,’’ but it represents a subset of tumors that would have
+been coded as 8520 using ICD-O-2. However, this code is
+uncommonly used as it accounted for only 520 (6%) of
+the 8,537 ILC cases included in this study that were
+diagnosed since 2001. Among in situ carcinoma cases,
+those with the following ICD-O-3 codes were classified
+as ductal carcinoma in situ (DCIS) consistent with
+previous studies: (20) 8201, 8230, 8500, 8501, 8503, 8507,
+and 8523. Race/ethnicity was categorized into five
+groups: non-Hispanic whites, blacks, American Indi-
+ans/Alaska Natives, Asians/Pacific Islanders, and His-
+panic whites.
+Statistically significant changes in incidence rates
+over this time period were evaluated using joinpoint
+regression (21) with the Joinpoint regression software
+developed by the Statistical Research and Applications
+Branch at the National Cancer Institute. This approach
+uses a weighted least squares log-linear approach to
+identify time points when changes in incidence rates
+occur. In evaluating incidence rate trends by histologic
+type, age, and race/ethnicity, we allowed up to two
+joinpoints in each regression model. The best-fitting
+model was chosen based on permutation tests that
+maintain an overall two-sided P value of <0.05. Annual
+percent changes (APC) were calculated for each joined
+line segment starting in 1995 and then between any
+identified
+joinpoints
+through
+2004.
+Heteroscedastic
+errors were assessed based on the number of cases
+in each year and strata using a Poisson model and
+used to calculate 95% confidence intervals (95% CI) for
+each APC.
+Results
+From 1995 to 1999, incidence rates of invasive breast
+cancer increased 1.68% (95% CI, 0.38 to 3.78) per year
+and, from 1999 to 2004, declined 2.82% (95% CI, 4.26 to
+1.36) per year (Table 1). Similarly, IDC and ILC rates
+increased from 1995 to 1998 [2.43%/year (95% CI, 0.68
+to 5.64) and 5.07%/year (95% CI, 1.44 to 12.02),
+respectively] and declined from 1998 to 2004 [3.07%/
+year (95% CI, 4.10 to 2.02) and 3.18%/year (95% CI,
+5.28 to 1.03), respectively]. IDLC rates increased
+sharply, 10.85%/year (95% CI, 7.54-14.25), from 1995 to
+2001, but then declined somewhat from 2001 to 2004
+[5.05%/year (95% CI, 12.18 to 2.65)]. Incidence rates
+of invasive tumors with other or unknown histologic
+types held essentially constant over this time period
+(APC, 1.41%; 95% CI, 3.00 to 0.21). In contrast to the
+rates of invasive tumors, rates of in situ carcinomas and
+DCIS increased considerably from 1995 to 1999 and 1995
+to 1998, respectively [all in situ cases: APC, 8.31% (95%
+CI, 4.92-11.80) and DCIS: APC, 11.10% (95% CI, 6.35-
+16.07)], but remained essentially constant afterwards
+through 2004 [all in situ cases: APC, 0.94% (95% CI,
+2.99 to 1.15) and DCIS: APC, 0.38% (95% CI, 0.94 to
+1.72)]. All of these trends were essentially the same and
+occurred over the same time intervals for women 50 to 79
+years of age, which is an age group of women with high
+prevalences of menopausal hormone use and annual
+mammographic screening (Fig. 1).
+There was some variation in these trends by age and
+race/ethnicity. Rates of invasive breast cancer overall,
+IDC, and ILC were essentially constant from 1995 to 2004
+among women V49 years of age (Table 2). From 1998 to
+2004, rates of invasive breast cancer overall declined
+3.84%/year (95% CI, 5.62 to 2.03) among women 50 to
+59 years of age and 2.77%/year (95% CI, 4.26 to 1.26)
+among women 70 to 79 years of age. A 5.60%/year (95%
+CI, 10.30 to 0.65) decline was observed among women
+60 to 69 years of age from only 2001 to 2004. When
+assessed by histologic type, IDC rates fell 4.48%/year
+(95% CI, 6.41 to 2.51) from 1999 to 2004 for 50- to
+59-year-old women, 4.62%/year (95% CI, 8.12 to 0.99)
+from 2000 to 2004 for 60- to 69-year-old women, and
+3.98%/year (95% CI, 5.09 to 2.86) from 1998 to 2004
+for 70- to 79-year-old women. In contrast, ILC rates
+remained essentially constant from 1995 to 2004 across
+each age strata. IDLC rates increased anywhere from
+5.93%/year to 14.14%/year either across the entire study
+period or through 2000, 2001, or 2002 across all age
+groups. Recent declines in IDLC rates were observed for
+women 50 to 79 years of age, but none of these declines
+were statistically significant. Rates of in situ carcinomas
+and DCIS among women 40 to 79 years of age essentially
+mirrored the overall trends across women of all ages, as
+Table 1. Age-adjusted incidence rates of invasive breast carcinoma by histologic type, 1995 to 2004 (Cont’d)
+ILC
+IDLC
+Other
+No. cases
+Incidence rate
+per 100,000
+No. cases
+Incidence rate
+per 100,000
+No. cases
+Incidence rate
+per 100,000
+1,879
+18.0
+1,319
+12.8
+3,988
+38.0
+1,911
+18.0
+1,293
+12.4
+3,756
+35.2
+2,138
+19.8
+1,543
+14.5
+3,891
+35.8
+2,208
+20.2
+1,818
+16.7
+3,830
+34.6
+2,297
+20.6
+2,060
+18.6
+3,832
+34.0
+2,091
+18.4
+2,315
+20.5
+3,607
+31.4
+2,180
+18.8
+2,457
+21.4
+4,389
+37.6
+2,212
+18.7
+2,652
+22.6
+4,255
+35.8
+2,093
+17.4
+2,345
+19.5
+3,976
+32.8
+2,052
+16.6
+2,346
+19.2
+3,691
+30.0
+1
+1
+0
+1995-1998
+5.07% (1.44 to 12.02)
+1995-2001
+10.85%c (7.54-14.25)
+1995-2004
+1.41% (3.00 to 0.21)
+1998-2004
+3.18%c (5.28 to 1.03)
+2001-2004
+5.05% (12.18 to 2.65)
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2775
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+rates of in situ carcinoma rose from 1995 through about
+1999 and have since held relatively constant.
+With respect to race/ethnicity, rates of invasive breast
+cancer overall and ILC rates experienced statistically
+significant declines only among non-Hispanic whites,
+with a 2.89%/year (95% CI, 4.60 to 1.14) decrease
+observed from 1999 to 2004 for breast cancer overall and
+a 3.16%/year (95% CI, 5.47 to 0.79) decrease observed
+from 1998 to 2004 for ILC. Rates of IDC decreased only
+among non-Hispanic whites (APC, 3.20; 95% CI, 4.28
+to 2.12) and Asian/Pacific Islanders (APC, 1.45; 95%
+CI, 2.85 to 0.03) from 1998 to 2004 and 1997 to 2004,
+respectively. IDLC rates climbed through 2001 for non-
+Hispanic whites and through 1999 for blacks (after which
+nonstatistically significant declines in rates were ob-
+served) but have continued to rise for both Asian/Pacific
+Islanders and Hispanic whites through 2004. Rates of
+in situ carcinoma and DCIS increased through 1999 for
+non-Hispanic whites and through 1998 for Hispanic
+whites and have since stabilized, whereas they rose
+continuously from 1995 to 2004 for blacks and Asians/
+Pacific Islanders.
+Discussion
+After rising steadily from the 1980s through 1998 (1),
+incidence rates of invasive breast cancer declined 8%
+from 2000 to 2004. Authors of prior studies (2, 3, 6-8) also
+Figure 1. Age-adjusted
+breast cancer incidence
+rates for women 50 to 79
+years of age, 1995 to 2004.
+n, all invasive cases; 5,
+IDC; D, ILC; w, IDLC; .,
+all in situ cases; o, DCIS.
+Dashed lines, straight-line
+segments between join-
+points identified using
+joinpoint regression. c,
+APC is statistically signif-
+icantly different from zero
+at P < 0.05.
+Breast Cancer Incidence Rates, 1995 to 2004
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2776
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+documenting the recent decline in these rates have
+hypothesized that it may largely be due to the sharp
+38% to 68% declines (3, 9, 10) in the use of estrogen and
+progestin therapy that occurred after the results of the
+WHI trial showing the harms associated with estrogen
+and progestin use were published in 2002 (11). The data
+presented here do not strongly support this explanation
+and instead support the hypothesis put forth by Jemal
+et al. (5) that saturation of screening may be primarily
+responsible for these decline.
+Most importantly, the decline in rates, both overall and
+by histologic type, clearly began before the results of the
+WHI trial were published in 2002. This has also been
+documented in two recent studies assessing these trends,
+which found that rates began to decline in 2000 (6, 7).
+Here, we found that both IDC (the most common
+histologic type of breast cancer) and ILC rates have
+dropped steadily and at a fairly consistent rate since
+peaking in 1998. Thus, factors other than the widespread
+cessation of hormone therapy that began during the last
+half of 2002 must be at least as important and likely more
+important contributors to these trends.
+What is more likely accounting for the decline in
+rates is saturation of screening. As argued by Jemal
+et al. (5), the observations that these declines began
+around 1999, occurred across all women z50 years of
+age, and were more pronounced for localized disease
+and tumors V2.0 cm all support this hypothesis. The
+data presented here further support this point given
+that declines in rates of both IDC and ILC were
+observed beginning in 1998. In addition, as shown here
+and previously (5, 20), whereas invasive rates have
+fallen, in situ
+carcinoma rates have held constant.
+Mammography is effective in identifying in situ tumors,
+and now that mammography rates have stabilized, and
+in fact started to fall, it may be that rates of invasive
+cancer are falling because in situ rates have stabilized.
+In other words, mammography is having its intended
+effect as in situ lesions are being detected by mammog-
+raphy before they develop into invasive tumors. The
+data support this as rates of invasive cancer began to
+fall when in situ rates began to stabilize.
+There are also several observations reported here that
+are difficult to reconcile with the hormone therapy
+hypothesis. Although clear data on differences in the
+latency of the effects of hormone therapy on the
+development of ILC versus IDC are not available, given
+the strong evidence that estrogen and progestin therapy
+is more strongly related to risk of lobular carcinomas
+than it is to risk of IDC (12–17), one might expect rates
+of ILC to decline more rapidly than those of IDC after
+2002. However, this was not observed, further suggest-
+ing that the widespread abrupt cessation in CHT use
+may not account for the trends observed. Much
+attention has been paid to the observation that this
+recent decline is only observed among hormone
+receptor–positive but not hormone receptor–negative
+disease (2, 5). However, it is difficult to interpret these
+data given the concurrent steady reductions of f50% in
+the proportion of tumors with an unknown ER status
+within the populations studied. One study attempted to
+address this problem using multiple imputation (2), but
+there are inherent biases in using this strategy (22),
+particularly when the proportion of the variable with
+missing data is changing so rapidly over the study
+period, and the methodologic approach used was not
+described.
+A second reason why termination of CHT use is
+unlikely to account for the observed trends is the
+questionable biological plausibility of such an associa-
+tion. Based on studies evaluating the relationship
+between time since last use of menopausal hormone
+therapy and breast cancer risk, it is unlikely that a decline
+in incidence rates would be observed so soon after large
+numbers of women stopped using these hormones. The
+report by the Collaborative Group on Hormonal Factors
+in Breast Cancer evaluated risk among former users who
+had stopped using hormones for 5 years or longer and
+found that these women do not have an increased risk of
+breast cancer (23). However, few studies have evaluated
+shorter intervals since cessation of use. This has been
+evaluated closely in the Nurses’ Health Study, which
+observed that former users of hormone therapy for
+5 years or longer maintained a 44% elevation in their risk
+of breast cancer over the 2 years after they stopped using
+hormones (24). This is very similar to the 46% increased
+risk of breast cancer experienced by current users of
+hormone therapy in this study and indicates that breast
+cancer risk remains elevated among hormone users at
+least 2 years after their use ceases. In addition, the
+Million Women’s Study observed that former users of
+hormone therapy who had stopped using hormones
+within 5 years maintained a 1.15-fold (95% CI, 1.07-1.24)
+elevated risk of breast cancer (although this analysis was
+not stratified by either type of hormone therapy or
+histologic type of breast cancer; ref. 25).
+Third, we found that breast cancer rates only declined
+among non-Hispanic white women but not among
+women of other races/ethnicities. Wei et al. (10)
+evaluated changes in the prevalence of estrogen and
+progestin use by race and observed that, after the WHI
+trial results were published, the prevalence of use fell
+equally across all races, declining 44.1% among whites,
+41.6% among African-Americans, and 38.4% among
+Asians. Prevalence of use is known to vary by race, but
+in this study, baseline rates were relatively similar as
+14.3% of whites were current CHT users before the
+publication of the WHI trial results compared with 10.1%
+of African-Americans and 12.5% of Asians. Despite these
+differences, the complete lack of a decline in rates of
+breast cancer among African-Americans, Asians/Pacific
+Islanders, and Hispanic whites observed here argues
+against cessation of hormone therapy being primarily
+responsible for this trend.
+Breast cancer incidence rates have declined in the
+United States since 1999 for two of the most common
+histologic types of breast cancer, IDC and ILC, which
+accounted for 77% of the invasive tumors included in
+this study. This decline predates the publication of the
+WHI trial results in 2002, and thus, these data do not
+support the hypothesis that the marked decline in rates
+of hormone therapy use that followed is a major
+contributor to this trend. These current trends are most
+likely
+attributable
+to
+saturation
+of
+mammography,
+although, given the nature of the descriptive data used
+here, causation can certainly not be inferred. A major
+limitation of this study is that it is descriptive and does
+not include any individual data on use of hormone
+therapy or use of mammographic screening. Neverthe-
+less, although the decline in hormone therapy use may
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2777
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+not be a major contributor to these trends thus far, the
+true effect of this decline on breast cancer rates may
+yet to be observed based on the risks of breast cancer
+former hormone user experience by time since they last
+used hormones. Given that breast cancer risk likely
+remains elevated for at least 2 years since stopping
+hormone use (24), but returns to baseline by 5 years
+since stopping (23), it is reasonable to speculate that
+breast
+cancer
+rates
+may
+start
+to
+be
+affected
+by
+declining hormone use starting in
+2005
+and may
+continue to be affected through 2008. Thus, continued
+close monitoring of these rates is of public health
+importance.
+References
+1.
+Li CI, Anderson BO, Daling JR, Moe RE. Trends in incidence rates
+of invasive lobular and ductal breast carcinoma. JAMA 2003;289:
+1421–4.
+2.
+Ravdin PM, Cronin KA, Howlader N, et al. The decrease in breast-
+cancer incidence in 2003 in the United States. N Engl J Med 2007;356:
+1670–4.
+3.
+Clarke CA, Glaser SL, Uratsu CS, Selby JV, Kushi LH, Herrinton LJ.
+Recent declines in hormone therapy utilization and breast cancer
+incidence: clinical and population-based evidence. J Clin Oncol 2006;
+24:e49–50.
+4.
+Howe HL, Wu X, Ries LA, et al. Annual report to the nation on the
+status of cancer, 1975-2003, featuring cancer among U.S. Hispanic/
+Latino populations. Cancer 2006;107:1711– 42.
+5.
+Jemal A, Ward E, Thun MJ. Recent trends in breast cancer incidence
+Table 2. Trends in the incidence rates of IDC, ILC, and IDLC by age and race/ethnicity
+Characteristic
+All invasive
+IDC
+No. joinpoints
+APC for time interval
+No. joinpoints
+APC for time interval
+No. jo
+Age
+30-39
+0
+1995-2004: 0.70%
+0
+1995-2004: 0.65%
+40-49
+0
+1995-2004: 0.57%
+1
+1995-1998: 1.20%
+1998-2004: 1.81%
+50-59
+1
+1995-1998: 2.17%
+1
+1995-1999: 1.61%
+1998-2004: 3.84%*
+1999-2004: 4.48%*
+60-69
+1
+1995-2001: 1.73%*
+1
+1995-2000: 1.34%
+2001-2004: 5.60%*
+2000-2004: 4.62%*
+70-79
+1
+1995-1998: 2.57%
+1
+1995-1998: 2.22%
+1998-2004: 2.77%*
+1998-2004: 3.98%*
+80+
+0
+1995-2004: 1.83%*
+1
+1995-1998: 2.22%
+1998-2004: 4.15%
+Race/ethnicity
+Non-Hispanic
+1
+1995-1999: 2.21%
+1
+1995-1998: 2.85%
+White
+1999-2004: 2.89%*
+1998-2004: 3.20%*
+Black
+0
+1995-2004: 0.50%
+2
+1995-1999: 1.22%
+1999-2001: 6.37%
+2001-2004: 2.87%
+American Indian/Alaska
+Native
+0
+1995-2004: 2.40%
+0
+1995-2004: 2.09%
+Asian/Pacific Islander
+0
+1995-2004: 0.16%
+1
+1995-1997: 8.28%
+1997-2004: 1.45%*
+Hispanic white
+0
+1995-2004: 0.73%
+0
+1995-2004: 1.01%
+Characteristic
+All in situ
+No. joinpoints
+APC for each time interval
+Age
+30-39
+2
+1995-1998: 8.90%
+1998-2003: 4.49%
+2003-2004: 16.17%
+40-49
+2
+1995-1998: 9.87%*
+1998-2001: 1.24%
+2001-2004: 2.49%
+50-59
+1
+1995-1999: 7.89%*
+1999-2004: 1.89%
+60-69
+1
+1995-2000: 8.56%*
+2000-2004: 2.13%
+70-79
+1
+1995-1999: 9.09%*
+1999-2004: 1.39%
+80+
+0
+1995-2004: 4.35%*
+Race/ethnicity
+Non-Hispanic
+1
+1995-1999: 8.80%*
+White
+1999-2004: 1.12%
+Black
+0
+1995-2004: 2.80%*
+American Indian/Alaska
+Native
+0
+1995-2004: 2.60%
+Asian/Pacific Islander
+0
+1995-2004: 4.76%*
+Hispanic white
+1
+1995-1998: 12.47%*
+1998-2004: 0.55%
+*APC is statistically different from zero at P < 0.05.
+Breast Cancer Incidence Rates, 1995 to 2004
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2778
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+rates by age and tumor characteristics among U.S. women. Breast
+Cancer Res 2007;9:R28.
+6.
+Glass AG, Lacey JV Jr, Carreon JD, Hoover RN. Breast cancer
+incidence, 1980-2006: combined roles of menopausal hormone
+therapy, screening mammography, and estrogen receptor status.
+J Natl Cancer Inst 2007;99:1152 –61.
+7.
+Kerlikowske K, Miglioretti DL, Buist DS, Walker R, Carney PA.
+Declines in invasive breast cancer and use of postmenopausal
+hormone therapy in a screening mammography population. J Natl
+Cancer Inst 2007;99:1335 –9.
+8.
+Robbins AS, Clarke CA. Regional changes in hormone therapy use
+and breast cancer incidence in California from 2001 to 2004. J Clin
+Oncol 2007;25:3437 –9.
+9.
+Buist DS, Newton KM, Miglioretti DL, et al. Hormone therapy
+prescribing patterns in the United States. Obstet Gynecol 2004;104:
+1042–50.
+10. Wei F, Miglioretti DL, Connelly MT, et al. Changes in women’s use of
+hormones after the Women’s Health Initiative estrogen and progestin
+trial by race, education, and income. J Natl Cancer Inst Monogr
+2005;35:106 –12.
+11. Writing Group for the Women’s Health Initiative Investigators. Risks
+and benefits of estrogen plus progestin in healthy postmenopausal
+women: principal results from the Women’s Health Initiative
+randomized controlled trial. JAMA 2002;288:321 –33.
+12. Chen CL, Weiss NS, Newcomb P, Barlow W, White E. Hormone
+replacement therapy in relation to breast cancer. JAMA 2002;287:
+734–41.
+13. Daling JR, Malone KE, Doody DR, et al. Relation of regimens of
+combined hormone replacement therapy to lobular, ductal, and other
+histologic types of breast carcinoma. Cancer 2002;95:2455 –64.
+14. Li CI, Weiss NS, Stanford JL, Daling JR. Hormone replacement
+therapy in relation to risk of lobular and ductal breast carcinoma in
+middle-aged women. Cancer 2000;88:2570 –7.
+15. Li CI, Malone KE, Porter PL, et al. Relationship between long
+durations and different regimens of hormone therapy and risk of
+breast cancer. JAMA 2003;289:3254–63.
+Table 2. Trends in the incidence rates of IDC, ILC, and IDLC by age and race/ethnicity (Cont’d)
+ILC
+IDLC
+No. joinpoints
+APC for time interval
+No. joinpoints
+APC for time interval
+0
+1995-2004: 2.18%
+0
+1995-2004: 6.14%*
+0
+1995-2004: 0.11%
+0
+1995-2004: 5.93%*
+0
+1995-2004: 0.67%
+1
+1995-2000: 12.32%*
+2000-2004: 3.39%
+0
+1995-2004: 0.84%
+1
+1995-2001: 14.14%*
+2001-2004: 7.80%
+0
+1995-2004: 1.84%
+1
+1995-2002: 8.76%*
+2002-2004: 12.78%
+0
+1995-2004: 0.84%
+0
+1995-2004: 6.32%*
+1998-2004: 4.15%
+1
+1995-1998: 6.66%
+1
+1995-2001: 11.31%*
+1998-2004: 3.16%*
+2001-2004: 5.20%
+0
+1995-2004: 0.79%
+1
+1995-1999: 16.78%*
+1999-2004: 2.51%
+0
+1995-2004: 2.81%
+0
+1995-2004: 1.89%
+0
+1995-2004: 1.51%
+1
+1995-1997: 35.11%
+1997-2004: 6.69%*
+0
+1995-2004: 1.87%
+0
+1995-2004: 6.16%*
+DCIS
+No. joinpoints
+APC for each time interval
+0
+1995-2004: 0.76%
+2
+1995-1998: 11.96%*
+1998-2002: 1.13%
+2002-2004: 5.45%*
+1
+1995-1999: 8.20%*
+1999-2004: 1.65%
+1
+1995-2000: 8.17%*
+2000-2004: 1.38%
+1
+1995-1999: 9.76%*
+1999-2004: 1.15%
+0
+1995-2004: 4.79%*
+1
+1995-1999: 9.00%*
+1999-2004: 0.88%
+0
+1995-2004: 3.58%*
+0
+1995-2004: 0.95%
+0
+1995-2004: 4.92%*
+1
+1995-1998: 12.98%*
+1998-2004: 1.70%
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2779
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+
+16. Newcomb PA, Titus-Ernstoff L, Egan KM, et al. Postmenopausal
+estrogen and progestin use in relation to breast cancer risk. Cancer
+Epidemiol Biomarkers Prev 2002;11:593 –600.
+17. Newcomer LM, Newcomb PA, Potter JD, et al. Postmenopausal
+hormone therapy and risk of breast cancer by histologic type (United
+States). Cancer Causes Control 2003;14:225– 33.
+18. Surveillance Epidemiology and End Results. Characteristics of the
+SEER population compared with the total United States population.
+2007 [accessed 2007 April 30]. Available from: http://www.seer.
+cancer.gov/registries/characteristics.html.
+19. Li CI, Daling JR, Malone KE, et al. Relationship between established
+breast cancer risk factors and risk of seven different histologic types
+of invasive breast cancer. Cancer Epidemiol Biomarkers Prev 2006;15:
+946–54.
+20. Li CI, Daling JR, Malone KE. Age-specific incidence rates of in situ
+breast carcinomas by histologic type, 1980 to 2001. Cancer Epidemiol
+Biomarkers Prev 2005;14:1008–11.
+21. Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for
+joinpoint regression with applications to cancer rates. Stat Med 2000;
+19:335–51.
+22. Greenland S, Finkle WD. A critical look at methods for handling
+missing covariates in epidemiologic regression analyses. Am J
+Epidemiol 1995;142:1255–64.
+23. Collaborative Group on Hormonal Factors in Breast Cancer. Breast
+cancer and hormone replacement therapy: collaborative reanalysis of
+data from 51 epidemiological studies of 52,705 women with breast
+cancer and 108,411 women without breast cancer. Lancet 1997;350:
+1047–59.
+24. Colditz GA, Hankinson SE, Hunter DJ, et al. The use of estrogens and
+progestins and the risk of breast cancer in postmenopausal women.
+N Engl J Med 1995;332:1589– 93.
+25. Reeves GK, Beral V, Green J, Gathani T, Bull D. Hormonal therapy
+for menopause and breast-cancer risk by histological type: a cohort
+study and meta-analysis. Lancet Oncol 2006;7:910– 8.
+Breast Cancer Incidence Rates, 1995 to 2004
+Cancer Epidemiol Biomarkers Prev 2007;16(12). December 2007
+2780
+Downloaded from http://aacrjournals.org/cebp/article-pdf/16/12/2773/1939427/2773.pdf by guest on 09 August 2026
+

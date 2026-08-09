@@ -1,0 +1,1856 @@
+record_id=134 pmid=18720389 doi=10.1002/cncr.23725
+SOURCE: manual-pdf
+TITLE: Breast cancer incidence among American Indian and Alaska Native women: US, 1999-2004
+
+An Update on Cancer in American Indians and Alaska
+Natives, 1999-2004
+Supplement to Cancer
+Breast Cancer Incidence Among American Indian and
+Alaska Native Women: US, 1999–2004
+Phyllis A. Wingo, PhD, MS1
+Jessica King, MPH1
+Judith Swan, MHS2
+Steven S. Coughlin, PhD1
+Judith S. Kaur, MD3
+Julie A. Erb-Alvarez, MPH4
+JeannetteJackson-Thompson, MSPH,PhD5
+Teshia G. Arambula Solomon, PhD6
+1 Division of Cancer Prevention and Control,
+National Center for Chronic Disease Prevention
+and Health Promotion, Centers for Disease Con-
+trol and Prevention, Atlanta, Georgia.
+2 Division
+of
+Cancer
+Control
+and
+Population
+Sciences, National Cancer Institute, Bethesda,
+Maryland.
+3 Division of Medical Oncology, Mayo Clinic, Col-
+lege of Medicine, Rochester, Minnesota.
+4 Southern Plains Inter-Tribal Epidemiology Cen-
+ter, Oklahoma City, Oklahoma.
+5 Missouri Cancer Registry and Department of
+Health Management and Informatics, University
+of Missouri-Columbia, Columbia, Missouri.
+6 Department of Family and Community Medi-
+cine, University of Arizona, Tucson, Arizona.
+BACKGROUND. Breast cancer is a leading cause of cancer morbidity and mortality
+among American Indian and Alaska Native (AI/AN) women. Although published
+studies have suggested that breast cancer rates among AI/AN women are lower
+than those among other racial and ethnic populations, accurate determinations of
+the breast cancer burden have been hampered by misclassification of AI/AN race.
+METHODS. Cancer incidence data from the National Program of Cancer Registries
+and the Surveillance, Epidemiology, and End Results Program were combined to
+estimate age-adjusted rates for the diagnosis years 1999 through 2004. Several
+steps were taken to reduce the misclassification of AI/AN race: linking cases to
+Indian Health Service (IHS) patient services database, restricting analyses to Con-
+tract Health Service Delivery Area counties, and stratifying results by IHS region.
+RESULTS. Breast cancer incidence rates among AI/AN women varied nearly 3-
+fold across IHS regions. The highest rates were in Alaska (134.8) and the Plains
+(Northern, 115.9; Southern, 115.7), and the lowest rates were in the Southwest
+(50.8). The rate in Alaska was similar to the rate among non-Hispanic white
+(NHW) women in Alaska. Overall, AI/AN women had lower rates of breast cancer
+than NHW women, but AI/AN women were more likely to be diagnosed with
+late-stage disease.
+CONCLUSIONS. To the authors’ knowledge, this report provides the most compre-
+hensive breast cancer incidence data for AI/AN women to date. The wide re-
+gional variation indicates an important need for etiologic and health services
+research, and the large percentage of AI/AN women with late-stage disease
+demands innovative approaches for increasing access to screening. Cancer
+2008;113(5 suppl):1191–202. Published 2008 by the American Cancer Society.*
+KEYWORDS: incidence, breast cancer, American Indian/Alaska Native, National
+Program of Cancer Registries, Surveillance, Epidemiology, and End Results.
+B
+reast cancer is a leading cause of cancer morbidity and mortal-
+ity among American Indian and Alaska Native (AI/AN) women.1
+Previous studies have suggested that breast cancer rates are lower
+This supplement was sponsored by Cooperative
+Agreement Number U50 DP424071-04 from the
+Centers for Disease Control and Prevention, Divi-
+sion of Cancer Prevention and Control.
+The findings and conclusions in this report are
+those of the authors and do not necessarily
+represent the official position of the Centers for
+Disease Control and Prevention.
+Phyllis A. Wingo is employed by the Arctic Slope
+Regional Corporation, Inc., which is a contractor
+to the Indian Health Service.
+Address for reprints: Steven S. Coughlin, PhD,
+Centers for Disease Control, 4770 Buford High-
+way NE, Chamblee, GA 30341; MS K55; Fax:
+(770) 488-4639; E-mail: sic9@cdc.gov
+*This article is a US Government work and, as
+such, is in the public domain in the United States
+of America.
+Received May 5, 2008; accepted June 5, 2008.
+Published 2008 by the American Cancer Society*
+DOI 10.1002/cncr.23725
+Published online 20 August 2008 in Wiley InterScience (www.interscience.wiley.com).
+1191
+
+among AI/AN women than among women of other
+racial and ethnic populations in the United States.1-6
+Accurate descriptions of the occurrence of cancer
+among AI/AN populations, however, have been ham-
+pered by reports from selected geographic areas and
+by the misclassification of AI/AN race that results in
+undercounting this population and thus underesti-
+mating its disease burden.6,7
+A nationwide study of breast cancer mortality
+among AI/AN women living in counties in or near
+reservation areas indicated that breast cancer death
+rates generally were lower than the rates among
+women in the general United States population,
+especially in the Pacific Coast, Southwest, and East.4
+However,
+breast
+cancer
+survival
+among
+AI/AN
+women reportedly was lower than among non-His-
+panic white (NHW) women in Surveillance, Epidemi-
+ology, and End Results (SEER) areas.8,9 AI/AN women
+may have poorer breast cancer survival than NHW
+women, even after receiving definitive breast cancer
+therapy.8
+Race- and region-specific differences in breast
+cancer incidence may be accounted for in part by
+differences in established breast cancer risk factors,
+such as parity, age at first birth, other reproductive
+and menstrual factors, hormone-replacement ther-
+apy, alcohol use, physical activity, and obesity, as
+well as by differences in socioeconomic status and
+factors that influence access to care.1,3,10-12 AI/AN
+women reportedly are less likely than NHW women
+to have undergone mammography screening or to
+have a high school education and are more likely to
+live below the poverty level.11,12 In a study of 156,570
+postmenopausal women who participated in the
+Women’s Health Initiative, the age-adjusted hazard
+ratio for breast cancer among AI/AN women was
+lower than that for white women, but adjustment for
+more than 15 breast cancer risk factors attenuated
+the difference.10
+In recent years, the population-based cancer sur-
+veillance infrastructure in the United States has
+matured sufficiently to make available high-quality
+cancer incidence data covering most of the United
+States population. This report provides the most
+comprehensive data to date about the occurrence of
+breast cancer in AI/AN females across 6 geographic
+regions of the United States.
+MATERIALS AND METHODS
+Cancer Cases
+State-wide
+and
+regional
+population-based
+cancer
+registries collect information on new cancer diag-
+noses in the United States. They participate in the
+Centers for Disease Control and Prevention (CDC)
+National Program of Cancer Registries (NPCR), the
+National Cancer Institute (NCI) SEER Program, or
+both.1 Primary cancer site and histology data were
+coded according to the International Classification of
+Diseases for Oncology edition in use at the time of
+diagnosis and converted to the 3rd edition.13 For the
+current study, breast cancer incidence data refer to
+invasive cancers (C500-C509); lymphomas originating
+in the lymphatic tissue of the breast, other histolo-
+gies involving hematopoietic diseases, mesothelio-
+mas, and Kaposi sarcomas are excluded (M9590-
+M9989, M9050-M9055, and M9140). In situ cancers
+were included in selected tabulations. All breast can-
+cer cases that were included in this study were from
+states that agreed to participate in this supplement
+and that meet the United States Cancer Statistics
+standards for high-quality data (Table 1, Fig. 1).1
+Data on stage of disease spanned changes in
+SEER
+Summary
+Stage
+coding.
+Stage
+was
+coded
+according to SEER Summary Stage 1977 rules for di-
+agnosis years 1999 through 2000 and according to
+SEER Summary Stage 2000 rules for diagnosis years
+2001 thorough 2003; collaborative stage data, which
+were reported first for 2004, were not available for
+analysis. Stage data for 1999 through 2003 were com-
+bined for this analysis, because the differences for
+breast cancer cases were minimal in comparative
+analyses of the 2 systems.14,15
+Coding race for AI/AN cancer cases combines in-
+formation from 2 sources: 1) the multiple-race fields
+in central cancer registry records and 2) data linkages
+with the Indian Health Service (IHS) patient registra-
+tion database.16 To identify AI/AN cases that were
+misclassified as nonnative, all case records from each
+state were linked with the IHS patient registration
+database, which contains medical information about
+AI/AN individuals who are members of federally
+recognized tribes and who use IHS services. CDC’s
+LinkPlus was used by the states and IHS to perform
+linkages based on key patient identifiers.17 For this
+report, all cases that were classified as AI/AN in the
+first race field in the cancer registry record were
+retained in that category. When the first race field
+was classified as white or unknown, however, and
+the IHS linkage variable was positive, the case was
+reclassified as AI/AN. Additional details about the
+linkages are available elsewhere.16
+Contract Health Service Delivery Area (CHSDA)
+counties and IHS regions were geographic factors
+that were used to further elucidate the burden of
+cancer incidence in the AI/AN population. CHSDA
+counties, in general, contain federally recognized
+tribal lands or are adjacent to tribal lands. The pro-
+1192
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+Female Breast Cancer Incidence by Indian Health Service Region for American Indians/Alaska Natives and Non-Hispanic Whites: United States,
+1999-2004a
+IHS Region
+CHSDA Counties
+All Counties
+AI/AN
+Count
+AI/AN
+Rateb
+95% CI for
+AI/AN Rate
+NHW
+Rateb
+RR
+(AI/AN:NHW)c
+95% CI
+for RR
+AI/AN
+Count
+AI/AN
+Rateb
+95% CI for
+AI/AN Rate
+NHW
+Rateb
+RR
+(AI/AN:NHW)c
+95% CI
+for RR
+Northern Plains
+541
+115.9
+105.9-126.6
+130.3
+0.89d
+0.81-0.97
+780
+95.4
+88.4-102.8
+130.1
+0.73d
+0.68-0.79
+Alaskae
+314
+134.8
+119.9-151.1
+136.5
+0.99
+0.87-1.12
+314
+134.8
+119.9-151.1
+136.5
+0.99
+0.87-1.12
+Southern Plains
+896
+115.7
+108.1-123.5
+129.6
+0.89d
+0.83-0.96
+1013
+94.0
+88.2-100.1
+128.6
+0.73d
+0.69-0.78
+Pacific Coast
+580
+74.7
+68.4-81.4
+142.6
+0.52d
+0.48-0.57
+753
+53.5
+49.5-57.7
+145.5
+0.37d
+0.34-0.40
+East
+139
+71.4
+59.7-84.7
+133.6
+0.53d
+0.45-0.63
+616
+43.1
+39.6-46.7
+129.6
+0.33d
+0.31-0.36
+Southwest
+571
+50.8
+46.6-55.2
+125.2
+0.41d
+0.37-0.44
+614
+48.5
+44.6-52.6
+127.7
+0.38d
+0.35-0.41
+Total
+3041
+85.3
+82.2-88.5
+134.4
+0.63d
+0.61-0.66
+4090
+65.5
+63.4-67.6
+131.7
+0.50d
+0.48-0.51
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries (NPCR) and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results
+(SEER) Program.
+CHSDA indicates Contract Health Service Delivery Area; IHS, Indian Health Service; AI/AN, American Indians/Alaska Natives; CI, confidence interval; RR, rate ratio; NHW, non-Hispanic whites.
+a AI/AN race is reported by NPCR and SEER registries or through linkage with the IHS patient registration database. AI/AN persons of Hispanic origin are included.
+b Rates are per 100,000 persons and are age-adjusted to the 2000 U.S. standard population (19 age groups; Census P25-1130).
+c RRs are calculated in SEER*Stat before rounding of rates and may not equal the RRs calculated from rates presented in the table.
+d The RR is statistically significant (P <.05).
+e Rates and RRs for Alaska in the CHSDA Counties section are the same as those in the All Counties section, because all counties in Alaska are CHSDA counties. Counts less than 6 were suppressed; if no
+cases were reported, then rates and RRs could not be calculated.
+Years of data and registries used: 1999-2004 (41 states and the District of Columbia): Alaska,* Alabama,* Arkansas, Arizona,* California,* Colorado,* Connecticut,* the District of Columbia, Delaware, Florida,*
+Georgia, Hawaii, Iowa,* Idaho,* Illinois, Indiana,* Kentucky, Louisiana,* Massachusetts,* Maine,* Michigan,* Minnesota,* Missouri, Montana,* North Carolina,* Nebraska,* New Hampshire, New Jersey, New
+Mexico,* Nevada,* New York,* Ohio, Oklahoma,* Oregon,* Pennsylvania,* Rhode Island,* Texas,* Utah,* Washington,* Wisconsin,* West Virginia, and Wyoming*; 1999 and 2002-2004: North Dakota*; 2001-2004:
+South Dakota*; 2003-2004: Mississippi* and Virginia; 2004: Tennessee (asterisks indicate states with at least 1 county designated as a CHSDA).
+Percentage regional coverage of AI/AN in CHSDA Counties compared with AI/AN in all Counties: Alaska, 100%; East 13.1%; Northern Plains, 59%; Southern Plains, 64.1%; Pacific Coast, 55.6%; Southwest, 87.5%.
+FIGURE 1. This map shows states and Contract Health Service Delivery Area (CHSDA) counties by Indian Health Service region.
+Breast CA in AI/AN Women, 1999-2004/Wingo et al
+1193
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+portion of AI/ANs relative to the total population is
+higher in CHSDA counties with less misclassification
+than in non-CHSDA counties.18 The results described
+herein refer to individuals who reside in CHSDA
+counties unless noted otherwise (Fig. 1). The analysis
+of AI/AN data by IHS region conforms with known
+regional patterns of specific health outcomes and
+disease
+risk
+factors
+for
+AI/ANs.4,19-21
+Additional
+details
+about
+CHSDA counties
+and
+IHS regions,
+including population coverage, are provided else-
+where.16
+Population Estimates
+County level population estimates from the United
+States
+Bureau
+of
+the
+Census
+were
+used
+in
+the
+denominators of the rate calculations. These popula-
+tion data have been modified in 2 ways: 1) The
+CDC’s National Center for Health Statistics collabo-
+rated with the U.S. Bureau of the Census to develop
+methods for bridging multiple race data, collected
+since 2000, into single-race annual population esti-
+mates,22 and 2) the NCI made refinements to race
+and county codes for use in SEER*Stat software.23,24
+Statistical Analyses
+For all AI/AN and NHW populations, cancer inci-
+dence rates were expressed per 100,000 females and
+were age-adjusted by 19 age groups (<1 year, 1-4
+years, 5-9 years,. . ., 80-84 years, 85 years) to the
+2000 United States standard population. Rates and
+95% modified g confidence intervals (CIs) were gen-
+erated by using SEER*Stat software version 6.3.6.24,25
+Percentage distributions also were age-adjusted. Rate
+ratios with 95% CIs were provided for regional com-
+parisons of incidence rates between AI/AN and NHW
+populations (Table 1). The annual percentage change
+(APC) was used to describe fixed interval trends over
+time (P <.05); the APC was not analyzed if it was
+based on <10 cases for at least 1 year within the
+time interval.
+RESULTS
+Breast cancer incidence rates among AI/AN women
+in CHSDA counties varied nearly 3-fold across IHS
+regions. The highest rates were in Alaska (134.8) and
+the Plains (Northern, 115.9; Southern, 115.7), and the
+lowest rates were in the Southwest (50.8). Rates for
+AI/AN women in CHSDA counties generally were
+higher than rates for AI/AN women in all counties,
+except in Alaska and the Southwest. In Alaska, the
+CHSDA counties rate was equal to the all counties
+rate, because all counties in Alaska are designated as
+CHSDA counties. In the Southwest, where most
+counties are designated as CHSDA, the CHSDA coun-
+ties rate was similar to the all counties rate.
+In contrast, breast cancer incidence rates among
+NHW women in CHSDA counties did not vary appre-
+ciably by region (Table 1). AI/AN rates were lower
+than NHW rates, with 1 notable exception: The
+breast cancer incidence rate for AI/AN women in
+Alaska (134.8), the highest region-specific rate, was
+nearly identical to the rate for NHW women in
+Alaska (136.5).
+Among AI/AN women in CHSDA counties, the
+rates of breast cancer generally were higher in Alaska
+and the Plains regions and lower in the Southwest
+for each age group (Table 2, Fig. 2). For AI/AN
+women aged <50 years, the rates also were low for
+the Pacific Coast and East. Like the overall rates, the
+age-specific rates for AI/AN women varied widely by
+region,
+whereas
+the
+age-specific
+rates
+for
+NHW
+women did not (Fig. 2). The average age at breast
+cancer diagnosis among AI/AN women (57.5 years)
+was younger than that among NHW women (63.4
+years), with >30% of AI/AN women aged <50 years
+at diagnosis compared with 19% of NHW women.
+AI/AN women in CHSDA counties were less
+likely to have their breast cancer diagnosed at an
+early stage (61.2%) than NHW women (68.6%) (Table
+3), and stage distributions varied by region. Among
+AI/AN women, the percentage of early-stage disease
+ranged from 57.5% (Southwest) to 66.4% (Alaska),
+the percentage of late-stage disease ranged from
+23.6% (Alaska) to 36.1% (Southwest), and the per-
+centage
+of
+unstaged
+tumors
+ranged
+from
+3.3%
+(Pacific Coast) to 10% (Alaska).
+Stage data were examined further by age at diagno-
+sis (Table 3). In CHSDA counties, the disparity of fewer
+early-stage diagnoses and more late-stage diagnoses
+among AI/AN women compared with NHW women
+was present for both younger women and older
+women. AI/AN women who were ages 40 to 64 years at
+diagnosis were more likely to have their cancer diag-
+nosed at a late stage (32.9%) than older AI/AN women
+(28.3%). Older AI/AN females, however, were more
+likely to have unstaged tumors. Although these same
+age-stage relations were present for NHW women, the
+percentages of late-stage disease among NHW women
+were still lower than those among AI/AN women.
+Finally, because recent studies showed declines
+in breast cancer incidence rates during 1999 through
+2003,26,27 trends were examined for AI/AN women
+and NHW women in CHSDA counties (Table 4, Fig. 3).
+Consistent with published reports, rates of breast
+cancer among NHW women declined significantly by
+approximately 3% per year in all regions. In contrast,
+trends for the smaller AI/AN population were vari-
+1194
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+able but approximately level, except for the trends
+among AI/AN women in Alaska, which appeared to
+increase,
+and
+in
+the
+East,
+which
+appeared
+to
+decrease. No trend among AI/AN women, however,
+achieved statistical significance.
+DISCUSSION
+The combined NPCR and SEER breast cancer inci-
+dence data for AI/AN females in this report are more
+comprehensive and cover a greater proportion of the
+AI/AN population than previous publications. Breast
+TABLE 2
+Invasive Female Breast Cancer Incidence Rates by Age and Indian Health Service Region for American Indians/Alaska Natives and Non-Hispanic
+Whites in Contract Health Service Delivery Area Counties: United States, 1999-2004a
+IHS Region
+<40 Years
+40-49 Years
+50-64 Years
+‡ 65 Years
+% of Casesb
+Ratea
+95% CI
+% of Casesb
+Ratea
+95% CI
+% of Casesb
+Ratea
+95% CI
+% of Casesb
+Ratea
+95% CI
+AI/AN
+Northern Plains
+8.7
+12.4
+9.1-16.5
+24.0
+137.5
+114.8-163.2
+38.8
+269.3
+234.1-308.3
+28.5
+373.9
+316.1-439.3
+Alaska
+11.8
+21.5
+15.1-29.5
+24.2
+171.2
+134.9-214.3
+40.8
+356.2
+297.0-423.7
+23.2
+338.9
+264.5-428.1
+Southern Plains
+7.3
+12.9
+9.9-16.4
+18.8
+126.9
+108.4-147.6
+38.2
+271.6
+243.5-301.9
+35.8
+380.2c
+339.6-424.3
+Pacific Coast
+6.2
+5.8c
+4.0-8.0
+22.4
+77.5c
+64.8-92.0
+39.7
+165.0c
+144.3-187.9
+31.7
+274.9c
+236.1-318.2
+East
+6.5
+6.3c
+2.9-11.8
+17.3
+63.6c
+40.7-94.6
+45.3
+190.1c
+146.1-243.3
+30.9
+233.9c
+169.0-315.3
+Southwest
+11.0
+7.2c
+5.5-9.2
+25.0
+69.1c
+58.3-81.4
+37.8
+121.2c
+105.6-138.5
+26.1
+141.0c
+119.0-165.9
+Total
+8.5
+9.5c
+8.4-10.7
+22.1
+98.0c
+90.8-105.8
+39.1
+201.4c
+190.1-213.2
+30.4
+273.9c
+256.3-292.3
+NHW
+Northern Plains
+4.1
+12.4
+11.7-13.0
+15.2
+144.7
+140.9-148.7
+33.0
+299.6
+294.2-305.1
+47.6
+443.5
+436.7-450.3
+Alaska
+6.6
+13.6
+11.1-16.5
+22.6
+135.9
+121.9-151.2
+43.9
+332.3
+307.2-358.9
+26.9
+458.6
+414.9-505.7
+Southern Plains
+3.7
+12.3
+11.3-13.4
+13.9
+145.0
+138.6-151.7
+32.9
+292.1
+283.6-300.8
+49.4
+447.1
+436.4-457.9
+Pacific Coast
+3.6
+12.0
+11.5-12.5
+14.8
+152.7
+149.8-155.6
+34.3
+330.1
+325.9-334.2
+47.3
+496.5
+491.1-501.9
+East
+4.3
+14.3
+13.7-15.0
+15.0
+160.2
+156.5-164.0
+31.8
+302.1
+297.3-307.0
+48.9
+438.5
+432.8-444.3
+Southwest
+3.8
+12.1
+11.4-12.8
+13.4
+136.3
+131.9-140.7
+34.3
+285.2
+279.4-291.0
+48.5
+431.6
+424.3-439.0
+Total
+3.9
+12.7
+12.4-13.0
+14.7
+149.8
+148.1-151.5
+33.4
+308.1
+305.8-310.5
+47.9
+458.3
+455.4-461.3
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program
+(for the states included, see Table 1).
+IHS indicates Indian Health Service; CI, confidence interval; AI/AN, American Indians/Alaska Natives; NHW, non-Hispanic whites.
+a Rates are per 100,000 persons and are age-adjusted to the 2000 U.S. standard population (19 age groups; Census P25-1130).
+b Percentages may not add to 100% because of rounding.
+c The AI/AN rate is statistically significantly lower than the NHW rate (P <.05).
+FIGURE 2. These charts illustrate invasive female breast cancer incidence rates by age and by Indian Health Service region for American Indians/Alaska
+Natives (left) and non-Hispanic whites (right) in Contract Health Service Delivery Area (CHSDA) counties in the United States from 1999 through 2004. Rates are
+per 100,000 persons and are age-adjusted to the 2000 United States standard population (19 age groups; Census P25-1130).
+Breast CA in AI/AN Women, 1999-2004/Wingo et al
+1195
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cancer incidence rates among AI/AN women varied
+nearly 3-fold across IHS regions, with the highest
+rates in Alaska and the Plains and the lowest rates in
+the Southwest. The rate in Alaska was equivalent to
+the rate among NHW women in Alaska. Overall, AI/
+AN women had lower rates of breast cancer than
+NHW
+women,
+but
+AI/AN
+females
+had
+more
+advanced disease.
+The overall lower rates of breast cancer among
+AI/AN women compared with women of other racial
+and ethnic populations and the higher rates of breast
+cancer among AI/AN women residing in Alaska and
+states in the Northern and Southern Plains have
+been observed previously in national and state level
+statistics.1-3,5,6,28,29 For 2004, the United States Can-
+cer Statistics reported breast cancer incidence rates
+among AI/AN women of 58.3 in New Mexico, 103.6
+in Oklahoma, and 149.5 in Alaska.1 A study that was
+restricted to Indian females in Alaska and New Mex-
+ico noted rates of 52 among New Mexico Indian
+women
+and
+233
+among
+Alaskan
+Indian
+women
+(Eskimo and Aleut women were excluded).29 Such
+large regional differences indicate an important need
+for
+etiologic
+and
+health
+services
+research
+about
+breast cancer in AI/AN populations. The Four-Cor-
+ners Breast and Endometrial Cancer Study (Arizona,
+New Mexico, Colorado, and Utah—all in the South-
+west IHS region), for example, was designed to
+examine genetic admixture in relation to gene mar-
+kers and environmental factors among American In-
+dian, Hispanic, and NHW women.30,31 Studies of
+breast cancer risk factors and genetic markers also
+are
+needed
+among
+AI/AN
+populations
+in
+other
+regions. In Alaska, for example, widespread exposure
+to organochlorines has been documented, buts its
+association with breast cancer is uncertain.32
+The wide variation in AI/AN breast cancer inci-
+dence rates by IHS region may be influenced by
+many factors, such as differences in sociodemo-
+graphic population characteristics (eg, urban or rural
+residence), access to healthcare and use of mam-
+mography screening, reproductive behaviors (eg, par-
+ity, breast feeding, age at first full-term pregnancy),
+other health-related behaviors (eg, diet, physical activ-
+ity), environmental exposures, misclassification of AI/
+AN race, or registry operations (eg, case completeness,
+TABLE 3
+Invasive and In Situ Female Breast Cancer, Summary Stage Distribution by Age and Indian Health Service Region for American Indians/Alaska
+Natives and Non-Hispanic Whites in Contract Health Service Delivery Area Counties: United States, 1999-2003a
+IHS Region
+All Ages Combined
+40-64 Years
+‡65 Years
+Earlyb
+% of Casesd
+Latec
+% of Casesd
+Unstaged
+% of Casesd
+Earlyb
+% of Casesd
+Latec
+% of Casesd
+Unstaged
+% of Casesd
+Earlyb
+% of Casesd
+Latec
+% of Casesd
+Unstaged
+% of Casesd
+AI/AN
+Northern Plains
+61.4
+31.2
+7.3
+58.1
+36.0
+6.0
+66.6
+24.4
+9.0
+Alaska
+66.4
+23.6
+10.0
+66.4
+24.7
+8.9
+72.9
+15.9
+11.3
+Southern Plains
+59.1
+32.2
+8.6
+62.1
+31.8
+6.1
+57.9
+29.7
+12.4
+Pacific Coast
+64.0
+32.7
+3.3
+64.7
+33.3
+1.9
+63.6
+31.4
+5.0
+East
+64.1
+32.0
+3.9
+59.4
+34.5
+6.2
+71.7
+26.3
+2.0
+Southwest
+57.5
+36.1
+6.4
+57.0
+36.6
+6.4
+60.3
+33.7
+6.0
+Total
+61.2
+31.8
+7.0
+61.5
+32.9
+5.6
+62.8
+28.3
+8.8
+NHW
+Northern Plains
+68.5
+26.5
+5.0
+68.4
+27.8
+3.8
+70.2
+23.0
+6.8
+Alaska
+66.2
+29.9
+3.9
+65.7
+31.4
+3.0
+68.7
+26.1
+5.1
+Southern Plains
+66.0
+28.4
+5.5
+65.1
+30.6
+4.3
+68.8
+24.0
+7.2
+Pacific Coast
+69.9
+28.0
+2.2
+68.2
+30.4
+1.4
+73.4
+23.3
+3.2
+East
+69.5
+25.3
+5.3
+69.3
+26.7
+4.0
+71.6
+21.3
+7.1
+Southwest
+65.8
+27.6
+6.5
+64.6
+29.9
+5.5
+68.8
+23.5
+7.8
+Total
+68.6
+27.0
+4.3
+67.8
+29.0
+3.2
+71.4
+22.9
+5.8
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) Pro-
+gram (for the states included, see Table 1).
+IHS indicates Indian Health Service; CI, confidence interval; AI/AN, American Indians/Alaska Natives; NHW, non-Hispanic white.
+a For 1999-2000, SEER Summary Stage 1977 was used; for 2001-2003, SEER Summary Stage 2000 was used. Data for the 2 staging systems were combined, because the differences observed in comparative analy-
+ses were minimal (see Howe 200514 and Phillips 200315).
+b Early includes in situ and local stage disease.
+c Late includes regional and distant-stage disease.
+d Percentage stage distribution is age-adjusted to the 2000 U.S. standard population (19 age groups; Census P25-1130) and may not add to 100% because of rounding.
+1196
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4
+Invasive Female Breast Cancer Rates by Year of Diagnosis and Indian Health Service Region for American Indians/Alaska Natives and
+Non-Hispanic Whites in Contract Health Service Delivery Area Counties: United States, 1999-2004a
+IHS Region
+Year of Diagnosis
+1999
+2000
+2001
+2002
+2003
+2004
+APC
+Ratea
+95% CI
+Ratea
+95% CI
+Ratea
+95% CI
+Ratea
+95% CI
+Ratea
+95% CI
+Ratea
+95% CI
+AI/AN
+Northern Plains
+114.8
+87.4-147.6
+127.3
+98.7-161.3
+105.0
+82.1-131.9
+125.9
+102.2-153.1
+124.1
+101.2-150.3
+102.6
+82.6-125.8
+21.4
+Alaska
+87.4
+58.8-124.6
+149.0
+112.5-193.3
+128.0
+94.3-169.5
+123.9
+89.6-166.5
+166.4
+127.7-212.7
+145.9
+110.5-188.6
+6.8
+Southern Plains
+129.3
+109.3-151.7
+112.3
+94.1-132.8
+126.2
+107.3-147.3
+117.5
+99.5-137.7
+113.0
+95.7-132.5
+99.5
+83.6-117.6
+23.8
+Pacific Coast
+73.9
+58.4-92.0
+67.6
+53.0-84.8
+88.0
+71.3-107.3
+86.0
+70.1-104.2
+60.5
+47.8-75.5
+72.0
+58.0-88.3
+21.4
+East
+93.7
+60.1-138.2
+58.4
+34.1-92.9
+77.6
+48.4-117.0
+75.9
+47.9-113.5
+80.2
+53.0-115.9
+48.6
+28.9-76.3
+26.3
+Southwest
+62.1
+50.0-76.1
+53.3
+42.8-65.5
+45.0
+35.6-55.9
+44.5
+35.4-55.2
+48.9
+39.5-59.8
+52.5
+42.8-63.5
+23.0
+Total
+90.1
+81.8-99.0
+84.8
+77.0-93.1
+87.2
+79.5-95.3
+87.7
+80.2-95.7
+84.6
+77.5-92.3
+79.3
+72.5-86.5
+21.8
+NHW
+Northern Plains
+138.2
+134.7-141.8
+136.8
+133.3-140.4
+136.9
+133.4-140.4
+132.9
+129.5-136.3
+121.3
+118.1-124.5
+117.8
+114.7-121.0
+23.3b
+Alaska
+145.7
+126.7-166.6
+156.7
+137.3-178.0
+139.6
+121.9-159.1
+132.6
+115.7-151.3
+136.4
+119.4-155.1
+111.4
+96.4-128.1
+24.9b
+Southern Plains
+134.7
+129.2-140.4
+131.8
+126.4-137.4
+133.8
+128.4-139.5
+128.3
+123.0-133.8
+122.4
+117.2-127.8
+127.0
+121.7-132.4
+21.6b
+Pacific Coast
+151.2
+148.5-154.0
+147.6
+144.9-150.3
+148.5
+145.9-151.2
+144.7
+142.1-147.3
+134.3
+131.9-136.9
+130.1
+127.7-132.6
+23.0b
+East
+142.7
+139.6-145.9
+137.5
+134.4-140.6
+141.1
+138.0-144.2
+131.7
+128.7-134.8
+126.5
+123.6-129.5
+123.0
+120.2-126.0
+23.0b
+Southwest
+129.4
+125.6-133.3
+134.1
+130.3-138.0
+133.8
+130.0-137.6
+129.1
+125.4-132.8
+115.4
+112.0-118.9
+111.3
+107.9-114.7
+23.5b
+Total
+142.1
+140.6-143.7
+139.9
+138.4-141.4
+141.2
+139.7-142.7
+135.6
+134.1-137.1
+126.2
+124.8-127.6
+122.7
+121.3-124.1
+23.0b
+Source: Cancer registries in the Centers for Disease Control and Prevention’s National Program of Cancer Registries and/or the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program
+(for the states included, see Table 1).
+IHS indicates Indian Health Service; CI, confidence interval; APC, annual percentage change; AI/AN, American Indians/Alaska Natives; NHW, non-Hispanic whites.
+a Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard population (19 age groups; Census P25-1130).
+bAPC is statistically significant (P <.05).
+FIGURE 3. These charts illustrate invasive female breast cancer incidence rates by year and by Indian Health Service region for American Indians/Alaska
+Natives (left) and non-Hispanic whites (right) in Contract Health Service Delivery Area (CHSDA) counties in the United States from 1999 through 2004. Rates are
+per 100,000 persons and are age-adjusted to the 2000 United States standard population (19 age groups; Census P25-1130).
+Breast CA in AI/AN Women, 1999-2004/Wingo et al
+1197
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+timeliness). Generally, these factors do not appear to
+explain the 3-fold variation, and data for making re-
+gional comparisons of risk factors among AI/AN
+women are limited. Results from the Strong Heart
+Study (Arizona, Oklahoma, North Dakota, and South
+Dakota) and the Women’s Health Initiative (national)
+indicated that AI/AN women were more likely than
+white women to have large families (5 or more full-
+term pregnancies),10,33 and, although the numbers
+were small, AI/AN women tended to be younger at
+the birth of their first child.10 Analyses from the 2000
+through 2006 Behavioral Risk Factor Surveillance Sys-
+tem indicated wide regional variations in other breast
+cancer risk factors.34 For example, among AI/AN
+women,
+prevalence
+estimates
+for
+obesity
+ranged
+from 25% in the East to 34% in Alaska; no leisure-
+time physical activity ranged from 28% in the South-
+west to between 35% and 38% in Alaska and the
+East; and binge drinking ranged from 14% in Alaska
+to about 7% in the East, Southwest, and Pacific
+Coast. Only Alaska reported AI/AN mammography
+prevalence estimates equivalent to those for NHW
+women; nationally and in other regions, mammog-
+raphy screening during the previous 2 years was
+lower
+among
+AI/AN
+women
+than
+among
+NHW
+females (69% vs 76%, respectively, among women
+aged 40 years).
+According to data from the Behavioral Risk Fac-
+tor Surveillance System, AI/AN respondents are more
+likely than NHW respondents to have lower incomes,
+less education, higher unemployment, no health in-
+surance, and no personal physician.34 These and
+other factors inhibit access to care, such as not hav-
+ing health insurance (ie, currently, approximately
+30% of AI/ANs lack health insurance),35 membership
+in tribes that are not recognized by the federal gov-
+ernment, urban residence (ie, approximately 70% of
+AI/ANs live in urban areas),36,37 and long distances
+to
+travel
+to
+receive
+care.38,39
+More
+specifically,
+although the IHS provides medical services to AI/AN
+individuals who are members of more than 560 fed-
+erally recognized tribes, care is not readily accessible
+to AI/AN individuals who are members of tribes that
+are not recognized by the federal government,2 and
+only about 10% of the urban Indian population can
+access IHS services.39 Many AI/ANs who reside in
+urban areas receive their diagnosis in urban settings
+but then must migrate back to reservation areas to
+access care through the IHS and other tribal facil-
+ities.38,39
+For example, 43%
+of
+Colorado’s
+AI/AN
+population lives in Denver, but the closest IHS facil-
+ity is 390 miles away.39
+Several
+programs
+have
+been
+developed
+to
+increase
+mammography
+screening
+among
+AI/AN
+women. The IHS began cervical cancer screening in
+the 1960s and 1970s, and declines in cervical cancer
+incidence and mortality rates followed in the 1980s
+and 1990s.40,41 Little mammography screening, how-
+ever, was being provided to this population before
+the establishment of the CDC’s National Breast and
+Cervical Cancer Early Detection Program.42
+Fourteen tribal programs, in addition to all 50
+states, currently receive support from this program
+to build infrastructure and provide screening ser-
+vices. (The 14 tribal programs are Arctic Slope Native
+Association
+Limited,
+Barrow,
+Alaska;
+Cherokee
+Nation, Tahlequah, Okla; Cheyenne River Sioux Tribe,
+Eagle Butte, SD; Hopi Tribe, Kykotsmovi, Ariz; Kaw
+Nation
+of
+Oklahoma,
+Newkirk,
+Okla;
+Mississippi
+Band of Choctaw Indians, Choctaw, Miss; Native
+American Rehabilitation Association of the North-
+west, Portland, Ore; Navajo Nation, Window Rock,
+Ariz; Poarch Band of Creek Indians, Atmore, Ala;
+South East Alaska Regional Health Consortium, Sitka,
+Alaska;
+South
+Puget
+Intertribal
+Planning
+Agency,
+Shelton, Wash; Southcentral Foundation, Anchorage,
+Alaska; and Yukon-Kuskokwim Health Corporation,
+Bethel, Alaska.) Despite such efforts, AI/AN females
+still have a low prevalence of mammography screen-
+ing. Systematic reviews have identified community-
+and provider-based interventions that are effective in
+promoting
+mammography
+screening
+in
+diverse
+populations.43 Examples include client reminders, 1-
+on-1 education, and provider assessment and feed-
+back. Replication research may be helpful for tailor-
+ing such evidence-based intervention approaches to
+AI/AN populations, particularly those that reside in
+rural areas and those that have long distances to tra-
+vel. For example, during March through July 2006, a
+mobile mammography truck visited Aberdeen Area
+IHS clinics in the Dakotas and provided more than
+500 digital mammograms.44 The digital images were
+transmitted and reviewed by radiologists at the Uni-
+versity of Michigan within 1 hour of receipt. Women
+watched culturally appropriate health-related videos
+or sought other screening examinations while waiting
+for their results. Because of the rapid telemedicine
+review, the majority of women who needed addi-
+tional images received them the same day and
+avoided traveling long distances another day.
+In the current study, on average, AI/AN women
+were diagnosed with breast cancer at a younger age
+than NHW women; 30% of AI/AN women were diag-
+nosed before age 50 years compared with 19% of
+NHW women. The difference between the age distri-
+butions for AI/AN women and NHW women reflects
+the age structures of the younger AI/AN population
+and the older NHW population. The age-specific
+1198
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+rates for AI/AN women generally were lower than for
+NHW women, with several exceptions by region.
+Age-specific rates for AI/AN women were similar to
+those for NHW women in Alaska and the Plains
+regions. Nonetheless, previous studies have demon-
+strated that women who are diagnosed with breast
+cancer at a young age, usually before age 40 years,
+have poorer survival than women who are diagnosed
+at older ages, probably because of later stage at diag-
+nosis, larger tumors, and higher grade tumors.45,46
+Moreover, selected risk factors (eg, black race and
+high parity) have been associated with an increased
+risk of developing breast cancer at young ages but
+with a decreased risk when diagnosed at older ages,
+when most breast cancers occur.46-49 Large body
+mass index is associated with a lower risk in pre-
+menopausal women and with an elevated risk in
+postmenopausal women.48
+From the early 1980s through 1991, breast cancer
+incidence rates for women of all racial and ethnic
+populations combined have increased about 0.4% per
+year.2 Reports about AI/AN women in Alaska indicate
+that rates have been increasing for 25 years.50,51 More
+recently, from 2001 through 2004, United States and
+SEER breast cancer incidence rates declined precipi-
+tously, about 3.9% per year, in part because women
+stopped receiving hormone-replacement therapy.26,27
+The declines were observed for all racial and ethnic
+populations except AI/AN women. Similarly, in the
+current analysis, incidence rates for NHW women
+decreased
+significantly
+from
+2001
+through
+2003,
+whereas the rates for AI/AN women overall were
+stable. The rate in Alaska appeared to increase, but
+the APC did not achieve statistical significance. Appli-
+cation of the Gail model to AI/AN women who had
+had mammography in Alaska, Arizona, and South
+Dakota predicted that breast cancer rates among Alas-
+kan AI/AN women would increase to between 170
+and 180, higher than the rate for white women.52
+Increased rates also were predicted for AI/AN women
+in South Dakota, and more slowly increasing rates
+seemed likely for AI/AN women in Arizona.
+Possible
+reasons
+for
+the
+trend
+differences
+between AI/AN women and NHW women are com-
+plex and probably involve more than stopping hor-
+mone-replacement therapy. Regardless, except for 1
+study, data about AI/AN women using hormones to
+treat
+menopausal
+symptoms
+are
+limited.33
+The
+Strong Heart Study, which was conducted among AI/
+AN women in Arizona, Oklahoma, and the Dakotas
+in the early 1990s, reported estimates of current hor-
+mone-replacement therapy in perimenopausal and
+postmenopausal women that ranged from 5% in Ari-
+zona to 21% in Oklahoma. It is likely that the per-
+centage
+of
+AI/AN
+women
+who
+use
+hormone-
+replacement therapy is very low. AI/AN women may
+not request hormone-replacement therapy or may
+use traditional medicines to treat the symptoms of
+menopause.
+The patterns of breast cancer stage in the current
+study have potential importance for public health
+practice. Of particular concern are the large percen-
+tages of AI/AN women diagnosed with advanced
+breast cancer. Stage can be a useful marker of inade-
+quate screening mammography services at the popu-
+lation level. Previous studies have identified several
+factors associated with late stage at breast cancer di-
+agnosis, including failure to adhere to mammog-
+raphy screening guidelines, age, less education, race,
+Hispanic
+ethnicity,
+and
+factors
+associated
+with
+decreased access to care (eg, lower income, residence
+in socioeconomically distressed counties, high popu-
+lation density, rural residence, residence in medically
+underserved urban areas, and lack of healthcare in-
+surance or underinsurance).53-57 Clinically, stage is
+used to assess prognosis, plan treatment, and evalu-
+ate outcomes.58 The policy for the CDC’s National
+Breast and Cervical Cancer Early Detection Program,
+which restricts the percentage of women aged <50
+years who can be screened to 25%,42 needs to be
+reviewed carefully, considering the high percentage
+of AI/AN women aged < 50 years (30%) who are
+diagnosed with breast cancer.
+The
+cancer
+surveillance
+infrastructure
+in
+the
+United States now provides cancer incidence data for
+most of the population by site, sex, race and His-
+panic origin.2 Several limitations in data collection
+and analysis, however, may influence the interpreta-
+tion of results in this report. Previous studies have
+demonstrated that many AI/ANs were misclassified
+as another race in cancer registry data and that the
+extent of misclassification varied by registry, ranging
+from
+36%
+(Minnesota)
+to
+57%
+(California).59-64
+Although linkages between cancer registry data and
+the IHS patient registration database improve the
+race classification for AI/AN cases in the numerator
+of the rate calculations, the issue is not resolved
+completely, because AI/AN individuals who are not
+members of the federally recognized tribes, who live
+primarily in urban settings, who live long distances
+from IHS facilities, who live in counties other than
+those designated as CHSDA, or who are not eligible
+for IHS services are underrepresented in the IHS
+database. In contrast, the denominators used in the
+rate calculations are derived from United States cen-
+sus population estimates and are based on self-iden-
+tification of race, which is preferred as the most
+accurate classification. With greater misclassification
+Breast CA in AI/AN Women, 1999-2004/Wingo et al
+1199
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+of race in the numerator and presumably less in the
+denominator, the actual rates for AI/ANs may be
+higher than those reported in the current study.
+Additional details about the misclassification of AI/
+AN race are available elsewhere in this supplement.16
+The analyses presented here for AI/AN popula-
+tions are based on residents of CHSDA counties,
+which cover 56% of the AI/AN population in the
+United States, and exclude many AI/AN residents in
+urban areas. Therefore, the findings likely do not
+represent all AI/AN populations in the United States
+or in individual IHS regions. In particular, the East
+region includes only 13.1% of the total AI/AN popu-
+lation residing there.16
+In summary, this report provides a more com-
+prehensive picture of the breast cancer burden for
+AI/AN women than has been available previously.
+Breast cancer incidence rates for AI/AN women vary
+nearly 3-fold across the IHS regions in the United
+States, and AI/AN women are more likely to have
+advanced-stage disease than NHW women. Although
+many efforts are underway to expand access to care,
+serious challenges remain with providing sufficient
+diagnostic and treatment capacity to accommodate
+women with positive mammography examinations
+and females with new breast cancer diagnoses. The
+large
+percentage
+of
+late-stage
+diagnoses
+can
+be
+reduced only with new and innovative approaches
+tailored to increase mammography screening among
+AI/AN females. The 3-fold regional variation in breast
+cancer rates cannot be explained completely by the
+variations in breast cancer risk factors and signifies a
+need for etiologic and health services research into
+the underlying risk factors in AI/AN women. Finally,
+the large percentage of AI/AN women diagnosed
+before age 50 years underscores the importance of
+studying genetic markers.
+REFERENCES
+1.
+U.S. Cancer Statistics Working Group. United States Cancer
+Statistics: 2004 Incidence and Mortality. Atlanta, Ga: U.S.
+Department of Health and Human Services, Centers for
+Disease Control and Prevention and National Cancer Insti-
+tute; 2007.
+2.
+Espey DK, Wu XC, Swan J, et al. Annual report to the
+nation on the status of cancer, 1975-2004, featuring cancer
+in American Indians and Alaska Natives. Cancer. 2007;110:
+2119-2152.
+3.
+Joslyn SA, Foote ML, Nasseri K, Coughlin SS, Howe HL.
+Racial and ethnic disparities in breast cancer rates by age:
+NAACCR breast cancer project. Breast Cancer Res Treat.
+2005;92:97-105.
+4.
+Espey D, Paisano R, Cobb N. Regional patterns and trends
+in cancer mortality among American Indians and Alaska
+Natives, 1990-2001. Cancer. 2005;103:1045-1053.
+5.
+Paltoo DN, Chu KC. Patterns in cancer incidence among
+American Indians/Alaska Natives, United States, 1992-1999.
+Public Health Rep. 2004;119:443-451.
+6.
+Swan J, Edwards BK. Cancer rates among American Indians
+and Alaska Natives: is there a national perspective? Cancer.
+2003;98:1262-1272.
+7.
+Puukka E, Stehr-Green P, Becker TM. Measuring the health
+status gap for American Indians/Alaska Natives: getting
+closer to the truth. Am J Public Health. 2005;95:838-843.
+8.
+Wampler NS, Lash TL, Silliman RA, Heeren TC. Breast can-
+cer survival of American Indian/Alaska Native women,
+1973-1996. Soz Praventivmed. 2005;50:230-237.
+9.
+Clegg LX, Lie FP, Hankey BF, Chu K. Cancer survival among
+U.S. whites and minorities: a SEER Program population-
+based study. Arch Intern Med. 2002;162:1985-1993.
+10. Chlebowski RT, Chen Z, Anderson GL, et al. Ethnicity and
+breast cancer: factors influencing differences in incidence
+and outcome. J Natl Cancer Inst. 2005;97:439-448.
+11. Smith-Bindman R, Miglioretti DL, Lurie N, et al. Does utili-
+zation of screening mammography explain racial and eth-
+nic differences in breast cancer? Ann Intern Med. 2006;
+144:541-553.
+12. Ward E, Jemal A, Cokkinides V, et al. Cancer disparities by
+race/ethnicity and socioeconomic status. CA Cancer J Clin.
+2004;54:78-93.
+13. Fritz A, Percy C, Jack A, et al., editors. International Classi-
+fication of Diseases for Oncology. Geneva, Switzerland:
+World Health Organization; 2000.
+14. Howe HL, Jamison PM, Havener L, Chen VW, Ries LAG. Site-
+Specific Comparison of Summary Stage 1977 and Summary
+Stage 2000 Coding. Springfield, Ill: North American Association
+of Central Cancer Registries; 2005. Available at: http://www.
+naaccr.org/index.asp?Col_SectionKey511&Col_ContentID5397.
+Accessed on July 9, 2008.
+15. Phillips JL, ed. Summary Stage: Data Effects of the Changes
+in 2000. Springfield, Ill: North American Association of
+Central Cancer Registries; 2003. Available at: http://www.
+naaccr.org/filesystem/pdf/Summary%20Stage%20Report%
+201-21-04b.pdf. Accessed on July 9, 2008.
+16. Espey DK, Wiggins CL, Jim MA, Miller BA, Johnson CJ,
+Becker TM. Methods for improving cancer surveillance
+data in American Indian and Alaska Native populations.
+Cancer. 2008;113(5 suppl):1120-1130.
+17. Centers for Disease Control and Prevention. Link Plus: A
+Suite of Publicly Available Software Programs for Collecting
+and Processing Cancer Registry Data. Atlanta, Ga: Centers
+for Disease Control and Prevention, National Center for
+Chronic Disease Prevention and Health Promotion, U.S.
+Department of Health and Human Services; 2005. Available
+at: http://www.cdc.gov/cancer/npcr/tools/registryplus/lp.htm.
+Accessed on July 9, 2008.
+18. Jim MA, Espey DK, Wiggins C, Cobb N, Wingo PA. Racial
+Misclassification of American Indians Residing Near IHS
+Facilities: Poster P-47, Final Program and Abstracts. Pre-
+sented at the 2006 North American Association of Central
+Cancer Registries Conference, Regina, Saskatchewan, Can-
+ada, June 10-16, 2006.
+19. Cobb N, Paisano RE. Patterns of cancer mortality among
+Native Americans. Cancer. 1998;83:2377-2383.
+20. Espey DK, Paisano RE, Cobb N. Cancer Mortality among
+American Indians and Alaska Natives: Regional Differences,
+1994-1998. Rockville, Md: Indian Health Services; 2003.
+21. Denny CH, Holtzman D, Cobb N. Surveillance for health
+behaviors of American Indians and Alaska Natives. Find-
+1200
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ings from the Behavioral Risk Factor Surveillance System,
+1997-2000. MMWR Surveill Summ. 2003;52:1-13.
+22. Ingram DD, Parker JD, Schenker N, et al. United States
+Census 2000 population with bridged race categories. Vital
+Health Stat 2. 2003;(135):1-55.
+23. National Cancer Institute. Surveillance, Epidemiology, and
+End Results (SEER) Program Statistical Resources. U.S.
+Population Data 1969-2004. Bethesda, Md: National Cancer
+Institute.
+Available
+at:
+http://seer.cancer.gov/popdata.
+Accessed on July 9, 2008.
+24. Surveillance Research Program. SEER*Stat Software. Be-
+thesda, Md: National Cancer Institute; 2007. Available at:
+http://www.seer.cancer.gov/seerstat. Accessed on July 9,
+2008.
+25. Tiwari RC, Clegg LX, Zou Z. Efficient interval estimation for
+age-adjusted cancer rates. Stat Methods Med Res. 2006;
+15:547-569.
+26. Stewart SL, Sabatino SA, Foster SL, Richardson LC. Decline
+in
+breast
+cancer
+incidence—United
+States,
+1999-2003.
+MMWR Wkly Rep. 2007;56:549-553.
+27. Ravdin PM, Cronin KA, Howlader N, et al. The decrease in
+breast-cancer incidence in 2003 in the United States. N
+Engl J Med. 2007;16:1670-1674.
+28. Ries LAG, Eisner MP, Kosary CL, et al., editors. SEER Can-
+cer Statistics Review, 1973-2004. Bethesda Md: National
+Cancer Institute; 2007. Available at: http://www.seer.can-
+cer.gov/csr/1973_2004. Accessed on July 9, 2008.
+29. Kelly JJ, Lanier AP, Alberts S, Wiggins CL. Differences in
+cancer
+incidence
+among
+Indians
+in
+Alaska
+and
+New
+Mexico and U.S. whites, 1993-2002. Cancer Epidemiol
+Biomarkers Prev. 2006;15:1515-1519.
+30. Byers T. Four Corners Breast Cancer Study. National Cancer
+Institute 5R01CA078552-02. Available at: http://cancercontrol.
+cancer.gov/grants/abstract.asp?applid5617 3857. Accessed on
+July 9, 2008.
+31. Slattery ML, Edwards S, Murtaugh MA, et al. Physical activ-
+ity and breast cancer risk among women in the southwes-
+tern United States. Ann Epidemiol. 2007;17:342-353.
+32. Rubin CH, Lanier A, Socha M, Brock JW, Kieszak S, Zahm
+S. Exposure to persistent organochlorines among Alaska
+Native women. Int J Circumpolar Health. 2001;60:157-169.
+33. Cowan LD, Go OT, Howard BV, et al. Parity, postmeno-
+pausal estrogen use, and cardiovascular disease risk factors
+in
+American
+Indian
+women:
+the
+Strong
+Heart
+Study.
+J Womens Health. 1997;6:441-449.
+34. Steele CB, Cardinez CJ, Richardson LC, Tom-Orme L, Shaw
+KM. Surveillance for health behaviors of American Indians
+and Alaska Natives—findings from the Behavioral Risk
+Factor Surveillance System, 2000-2006. Cancer. 2008;113
+(5 suppl):1131-1141.
+35. U.S. Census Bureau. Facts for Features: American Indian
+and Alaska Native Heritage Month: November 2006 (CB06-
+FF. 16). Washington, DC: Public Information Office, U.S.
+Census Bureau; 2006.
+36. Ogunwole SU. We the People: American Indians and Alaska
+Natives in the United States: Census 2000 Special Reports.
+Washington, DC: U.S. Census Bureau; 2006.
+37. Seattle Indian Health Board-Urban Indian Health Institute.
+The Health Status of Urban American Indians and Alaska
+Natives: An Analysis of Select Vital Records and Census
+Data Sources. Seattle, Wash: Seattle Indian Health Board-
+Urban Indian Health Institute; 2004.
+38. Kaur JS. Migration patterns and breast carcinoma. Cancer.
+2000;88:1203-1206.
+39. Burhansstipanov L. Urban Native American health issues.
+Cancer. 2000;88:1207-1213.
+40. Lanier AP, Kelly JJ, Maxwell J, McEvoy T, Homan C. Cancer in
+Alaska Native people, 1969-2003. Alaska Med. 2006;48:30-59.
+41. Chao A, Becker TM, Jordan SW, Darling R, Gilliland FD,
+Key CR. Decreasing rates of cervical cancer among Ameri-
+can Indians and Hispanics in New Mexico (United States).
+Cancer Causes Control. 1996;7:205-213.
+42. Centers for Disease Control and Prevention, National Cen-
+ter for Chronic Disease Prevention and Health Promotion.
+National Breast and Cervical Cancer Early Detection Pro-
+gram, 2007. Atlanta, Ga: Centers for Disease Control and
+Prevention; 2007. Available at: http://www.cdc.gov/cancer/
+nbccedp. Accessed on July 9, 2008.
+43. Centers for Disease Control and Prevention, National Cen-
+ter for Health Marketing. Guide to Community Preventive
+Services
+Website.
+Available
+at:
+www.thecommunitygui-
+de.org. Accessed on July 9, 2008.
+44. Roubideaux M, Russell T, Quisno J, et al. Satellite trans-
+mission of digital screening mammograms from American
+Indian reservations to an academic medical center: initial
+results. Presented at the Annual Meeting of the Radiologi-
+cal Society of North America, Chicago, Illinois, November
+26 to December 1, 2006. Available at: http://rsna2006.
+rsna.org/rsna2006/V2006/conference/event_display.cfm?
+em_id54438804. Accessed on July 9, 2008.
+45. Swanson M, Lin C-S. Survival patterns among younger
+women with breast cancer: the effects of age, race, stage,
+and treatment. Monogr Natl Cancer Inst. 1994;16:69-77.
+46. Yankaskas BC. Epidemiology of breast cancer in young
+women. Breast Dis. 2005-2006;23:3-8.
+47. Janerich DT, Hoff MG. Evidence for a crossover in breast
+cancer risk factors. Am J Epidemiol. 1982;116:737-742.
+48. Valentgas P, Daling JR. Risk factors for breast cancer in
+younger women. Monogr Natl Cancer Inst. 1994;16:15-22.
+49. Ron E, Lubin F. Evidence for a crossover in breast cancer
+risk factors. Am J Epidemiol. 1984;119:139-141.
+50. Lanier AP. Cancer incidence in Alaska Natives: comparison
+of 2 time periods, 1989-1993 versus 1969-1973. Cancer.
+1998;83:1815-1817.
+51. Lanier AP, Kelley JJ, Holck P, Smith B, McEvoy T. Alaska
+Native Cancer Update 1985-97 by Sex, Age, Service Unit
+and Year. Anchorage, Alaska: Alaska Native Epidemiology
+Center; 2000.
+52. Kaur JS, Roubidoux MA, Sloan J, Novotny P. Can the Gail
+model be useful in American Indian and Alaska Native
+populations? Cancer. 2004;100:906-912.
+53. Amey CH, Miller MK, Albrecht SL. The role of race and res-
+idence in determining stage at diagnosis of breast cancer.
+J Rural Health. 1997;13:99-108.
+54. Barry J, Breen N. The importance of residence in predict-
+ing late-stage diagnosis of breast or cervical cancer. Health
+Place. 2005;11:15-29.
+55. Lee-Feldstein A, Feldstein PJ, Buchmueller T, Katterhagen
+G. The relationship of HMOs, health insurance, and deliv-
+ery systems to breast cancer outcomes. Med Care. 2000;
+38:705-718.
+56. Menck HR, Mills PK. The influence of urbanization, age,
+ethnicity, and income on the early diagnosis of breast car-
+cinoma. Cancer. 2001;92:1299-1304.
+57. Taplin SH, Ichikawa L, Yood MU, et al. Reason for late-
+stage breast cancer: absence of screening or detection, or
+breakdown in follow-up? J Natl Cancer Inst. 2004;96:1518-
+1527.
+Breast CA in AI/AN Women, 1999-2004/Wingo et al
+1201
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+58. Hunter CP. Epidemiology, stage at diagnosis, and tumor
+biology of breast carcinoma in multiracial and multiethnic
+populations. Cancer. 2000;88(suppl):1193-1202.
+59. Frost F, Taylor V, Fries E. Racial misclassification of Native
+Americans
+in
+a
+surveillance,
+epidemiology,
+and
+end
+results cancer registry. J Natl Cancer Inst. 1992;84:957-
+962.
+60. Partin MR, Rith-Najarian SJ, Slater JS, Korn JE, Cobb N,
+Soler JT. Improving cancer incidence estimates for Ameri-
+can Indians in Minnesota. Am J Public Health. 1999;89:
+1673-1677.
+61. Kwong S, Perkins C, Snipes K, Wright W. Improving Ameri-
+can Indian cancer data in the California Cancer Registry by
+linkage with the Indian Health Service. J Registry Manage.
+1998;25:17-20.
+62. Sugarman JR, Holliday M, Ross A, Castorina J, Hui Y. Improv-
+ing American Indian cancer data in the Washington State
+Cancer Registry using linkages with the Indian Health Service
+and tribal records. Cancer. 1996;78(7 suppl):1564-1568.
+63. Gomez SL, Glaser SL. Misclassification of race/ethnicity in
+a population-based cancer registry. Cancer Causes Control.
+2006;00:1-11.
+64. Clegg LX, Reichman ME, Hankey BF, et al. Quality of race,
+Hispanic ethnicity, and immigrant status in population-
+based cancer registry data: implications for health disparity
+studies. Cancer Causes Control. 2007;18:177-187.
+1202
+CANCER Supplement
+September 1, 2008 / Volume 113 / Number 5
+ 10970142, 2008, S5, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.23725 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

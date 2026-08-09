@@ -1,0 +1,1056 @@
+record_id=603 pmid=25905822 doi=10.2105/ajph.2015.302640
+SOURCE: manual-pdf
+TITLE: Secular trends, race, and geographic disparity of early-stage breast cancer incidence: 25 years of surveillance in Connecticut
+
+Secular Trends, Race, and Geographic Disparity of
+Early-Stage Breast Cancer Incidence: 25 Years of
+Surveillance in Connecticut
+J. Christopher F. Crabbe, BA, David I. Gregorio, PhD, MS, Holly Samociuk, BA, and Helen Swede, PhD
+Variation from place to place in the occurrence
+of disease and use of health services is real,
+although much of the recorded variation
+has not been fully explained or effectively
+addressed.1,2 Some variation reﬂects differ-
+ences in risk proﬁles across populations related
+to biology,3 geography,4 behavioral risks,5
+physical environments,6 social ecology,7 or
+socioeconomic determinants.8 When noted,
+such differences inform us of etiological forces
+at play and our potential options for controlling
+disease burden among high-risk groups. For
+example, patterns of breast cancer incidence
+are often attributed to the “geography of
+afﬂuence” in diet, reproduction, and related
+behaviors.5,8 Disease control efforts based on
+that understanding rightfully focus on locales
+where individuals have appropriate risk proﬁles.
+Variation that is not readily explained by
+patient or disease factors may be the artifact
+of a community’s capacity to monitor health
+events or deliver health services.9 Regional
+differences in disease occurrence have been
+repeatedly attributed to variation in the in-
+tensity of screening detection efforts.10---13
+Likewise, volatility of breast cancer incidence
+rates has been associated with changes and
+regional variation in the use of hormone re-
+placement therapies (HRTs).14---16
+It is important to distinguish the effects of
+biological or demographic forces of disease
+from health system variability in its capacity to
+deliver care. We illustrated the dynamic tem-
+poral and spatial nature of early stage breast
+cancer incidence within small areas of Con-
+necticut between 1985 and 2009. Because
+secular trends in lifestyle and health services
+occurred during this period, changes in breast
+screening practices13 and menopausal hor-
+mone therapy use,16 together with cohort
+differences in body mass index,17 reproductive
+health,18 and socioeconomic status,8,19 may
+well have affected the spatial and temporal
+presentation of disease within populations.
+Although not a direct test of the effects of these
+associations on the geography of breast cancer
+incidence, we offered insight with regard to the
+appropriateness of considering context when
+examining temporal and spatial disparities in
+disease occurrence.
+METHODS
+Using 25 years of data from the Connecticut
+Tumor Registry (CTR),20 we examined the
+geographic distribution of early stage (i.e.,
+locally invasive) breast cancer (International
+Classiﬁcation of Disease codes 0---3; C50.0---
+50.921) within the state, and hypothesized that
+rate variation represented, to varying degrees,
+the composite effects of underlying biological,
+demographic, and health system factors. Be-
+tween 1985 and 2009, the CTR identiﬁed
+40 747 cancers in women in Connecticut,
+which we aggregated according to 5 surveil-
+lance periods (1985---1989, 1990---1994,
+1995---1999, 2000---2004, and 2005---2009),
+7 age groups (20---29, 30---39, 40---49, 50---59,
+60---69, 70---79, and ‡ 80 years), and 827
+census tracts of residence (according to geo-
+graphic boundaries for the 2010 federal census)
+at time of diagnosis. Because the racial distri-
+bution of the state’s population closely paral-
+leled the patterns of income segregation (i.e., the
+clustering of households according to income
+levels) that could underscore geographic differ-
+ences in breast cancer risk proﬁles and health
+care use,8,22 we completed separate analyses for
+the 38 328 White and 2419 non-White (of
+whom 84% were African American) women.
+We produced race-speciﬁc and directly
+age-adjusted statewide incidence rates for each
+surveillance period by combining aggregate
+case counts from the CTR with population
+Objectives. We considered changes in the geographic distribution of early
+stage breast cancer among White and non-White women while secular trends in
+lifestyle and health care were under way.
+Methods. We aggregated tumor registry and census data by age, race, place of
+residence, and year of diagnosis to evaluate rate variation across Connecticut
+census tracts between 1985 and 2009. Global and local cluster detection tests
+were completed.
+Results. Age-adjusted incidence rates increased by 2.71% and 0.44% per year
+for White and non-White women, respectively. Signiﬁcant global clustering was
+identiﬁed during surveillance of these populations, but the elements of clustering
+differed between groups. Among White women, fewer local clusters were detected
+after 1985 to 1989, whereas clustering increased over time among non-White women.
+Conclusions. Small-area variation of breast cancer incidence rates across time
+periods proved to be dynamic and race-speciﬁc. Incidence rates might have been
+affected by secular trends in lifestyle or health care. Single cross-sectional
+analyses might have confused our understanding of disease occurrence by not
+accounting for the social context in which patient preferences or provider
+capacity inﬂuence the numbers and locations of diagnosed cases. Serial
+analyses are recommended to identify “hot spots” where persistent geographic
+disparities in incidence occur. (Am J Public Health. 2015;105:e64–e70. doi:10.
+2105/AJPH.2015.302640)
+RESEARCH AND PRACTICE
+e64 | Research and Practice | Peer Reviewed | Crabbe et al.
+American Journal of Public Health | Supplement 3, 2015, Vol 105, No. S3
+
+at-risk estimates interpolated from US Census
+data ﬁles from 1990, 2000, and 2010.23 In
+turn, race-speciﬁc and indirectly age-adjusted
+rates were produced for each of the state’s 827
+census tracts by combining the statewide rates
+with the estimated populations at-risk.
+We examined temporal changes in early
+stage breast cancer incidence rates using Join-
+point regression analysis24 and the SaTScan by
+Kulldorff et al.25 Joinpoint analysis uses multi-
+segment least-squares regression to character-
+ize rate changes over time. SaTScan is capable
+of evaluating signiﬁcant disparities of observed-
+to-expected case counts for random durations
+of time within the overall surveillance period.
+We examined the geographic variation of
+incidence rates using both global (Ipop by
+Oden26) and local (SaTScan) spatial statistics. The
+Ipop by Oden (computed using ClusterSeer27)
+provided an overall assessment of the tendency
+of data to spatially cluster by estimating the
+extent to which case counts, in relation to
+population densities throughout Connecticut,
+depart in their distribution from randomness.
+The assessment by Ipop of spatial autocorre-
+lation contrasted observed and expected case
+counts to estimate the proportion of statewide
+variability attributed to the co-location of cen-
+sus tracts with comparable case rates (percent
+variation across tracts).
+We used the SaTScan by Kuldorff28 (version
+9.1.129) to aggregate the case counts and un-
+derlying populations at-risk within census tracts
+by scanning circles of varying size (encom-
+passing 1%---50% of the at-risk population),
+independent of existing geopolitical units
+(e.g., counties or towns) to discern where age-
+adjusted and race-speciﬁc rates signiﬁcantly
+departed, whether high or low, from expecta-
+tion. The spatial scan statistic estimated the risk
+of cancer incidence among women within
+a designated area, relative to the risk among
+women who resided elsewhere around Con-
+necticut. Extensive descriptions and assess-
+ments of these and other cluster detection
+methods are available elsewhere.30,31
+RESULTS
+Among White women, an average age-
+adjusted rate increment of 2.71% per year
+(P < .001) was observed and attributed by
+Joinpoint analysis (Figure 1a) to 3 distinct
+0
+20
+40
+60
+80
+100
+2006
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2009
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+2009
+0
+20
+40
+60
+80
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+2009
+20
+50
+80
+110
+140
+170
+White
+Non-White
+White
+Non-White
+WHI report32
+WHI report32
+WHI report32
+White and
+Non-White
+Year
+Year
+Year
+Incidence Rate
+Mammograms, %
+HRT Prescriptions, Millions
+a
+b
+c
+Note. WHI = Women’s Health Initiative.
+Source: (a) CT Tumor Registry,20 (b) Behavioral Risk Factor Surveillance System data,32 and (c) National Prescription Audit data.14,15
+FIGURE 1—Trends in (a) age-adjusted early stage breast cancer incidence, (b) percentage of
+mammography screening in previous 2 years, and (c) hormone replacement therapy (HRT)
+prescriptions (in millions): Connecticut, 1985–2009.
+RESEARCH AND PRACTICE
+Supplement 3, 2015, Vol 105, No. S3 | American Journal of Public Health
+Crabbe et al. | Peer Reviewed | Research and Practice | e65
+
+periods of time: 1985 to 1996 (+2.2% per
+year), 1996 to 1999 (+9.2%), and 1999 to
+2009 (+0.02%). The SaTScan of temporal
+variation identiﬁed the ﬁnal 12 years of sur-
+veillance (1998---2009) as a period of signiﬁ-
+cant temporal variation in disease incidence
+(i.e., the ratio of observed-to-expected cases was
+1.12; P < .001).
+For non-White women, the average incre-
+ment in age-adjusted breast cancer incidence
+was considerably less (+0.44% per year;
+P = .02), and attributable to 5 brief time
+periods: 1985 to 1992 (+1.0% per year),
+1992 to 1995 (– 5.1%), 1995---1998 (+7.9%),
+1998 to 2007 (– 1.2%), and 2007 to 2009
+(+6.3%). The relatively greater rate volatility
+among non-White women was partially caused
+by their small numbers within Connecticut
+(i.e., annual averages of 97 incident cases
+among 193 675 at-risk women, compared
+with annual averages of 1533 cases among
+1.1 million at-risk White women). Still, similar
+to ﬁndings noted for White women, the SaTScan
+identiﬁed the ﬁnal 12 years of surveillance
+(1998---2009) as a period of signiﬁcant tem-
+poral variation in disease incidence among
+non-White women (i.e., the ratio of observed-
+to-expected cases was 1.08; P < .001).
+The annual breast cancer incidence rates
+for White women co-varied with nationwide
+data on annual mammography use32 and
+HRT prescription volume14,15 (r = 0.97 and
+0.90, respectively). Increasing incidence rates
+between 1985 and 1999 paralleled the ex-
+pansion of mammography and HRT before
+2000, as did the slowing of incidence rates
+thereafter, following the report of adverse
+health outcomes associated with HRT use33
+(Figure 1b and 1c). By comparison, the annual
+breast cancer incidence rates for non-White
+women were less strongly, but still meaning-
+fully, associated with mammography and
+HRT use over time (r = 0.64 and 0.63,
+respectively).
+Tables 1 and 2 summarize the global and
+local cluster analyses. The Ipop test identiﬁed
+signiﬁcant global rate variation across Con-
+necticut (P < .01) for both groups during every
+surveillance period, but the elements of clus-
+tering differed between White and non-White
+populations. For White women, the Ipop ana-
+lysis found the proximity of census tracts with
+comparable incidence rates (identiﬁed as per-
+cent variation across tracts) decreased between
+1985 to 1989 and 2000 to 2004. That is, the
+co-location of census tracts with similar rates
+of disease had progressively lesser impact
+(i.e., reduced geographic disparity) on global
+rate variation across Connecticut, decreasing
+by approximately one third from 38.1% to
+25.7% during this time. However, that de-
+clining trend was reversed for 2005 to 2009
+when the Ipop statistic attributed 33.6% of the
+TABLE 1—Global and Local Cluster Analysis of Age-Adjusted Early Stage Breast Cancer Incidence Rates Within Census Tracts Among White
+Women ‡ 20 Years of Age: Connecticut, 1985–2009
+SaTScan26
+Time Period
+IPop,25 % Variation Across Tracts
+Locationa
+Population at-Riskb
+% Affected Population
+Age-Adjusted Rate
+Relative Riskc
+Pd
+1985–1989
+38.1
+Statewide
+1 139 905
+100.0
+100.0
+1.00
+. . .
+1
+155 379
+13.6
+74.6
+0.72
+< .001
+2
+86 084
+7.6
+131.5
+1.35
+< .001
+3
+150 193
+13.6
+83.1
+0.81
+.009
+4
+131 640
+11.5
+117.1
+1.20
+.043
+5
+8 360
+0.7
+37.2
+0.37
+.045
+1990–1994
+35.4
+Statewide
+1 131 106
+100.0
+123.7
+1.00
+. . .
+6
+115 738
+10.2
+86.6
+0.69
+< .001
+7
+33 905
+3.0
+176.9
+1.45
+< .001
+8
+157 763
+13.9
+147.3
+1.23
+< .001
+9
+75 310
+6.6
+093.8
+0.75
+< .001
+1995–1999
+30.0
+Statewide
+1 109 529
+100.0
+141.6
+1.00
+. . .
+10
+25 870
+2.3
+198.5
+1.42
+.001
+11
+62 438
+5.6
+172.3
+1.23
+.047
+2000–2004
+25.7
+Statewide
+1 099 722
+100.0
+159.0
+1.00
+. . .
+12
+13 431
+1.2
+86.4
+0.54
+.004
+2005–2009
+33.6
+Statewide
+1 107 195
+100.0
+163.2
+1.00
+. . .
+13
+197 641
+17.8
+140.7
+0.84
+< .001
+14
+124 448
+11.2
+193.2
+1.21
+< .001
+15
+7 128
+0.6
+333.1
+2.05
+.002
+aArea locations illustrated in Figure 2.
+bPopulation counts of women ‡ 20 years of age are based on interpolation of 1990, 2000, and 2010 data according to 2010 US Census tract boundaries.
+cRisk estimates of the likelihood an observed rate within an area was signiﬁcantly different from the rate observed outside that area.
+dEstimating the likelihood of rate variation relative to the null hypothesis according to 9999 Monte Carlo simulations.
+RESEARCH AND PRACTICE
+e66 | Research and Practice | Peer Reviewed | Crabbe et al.
+American Journal of Public Health | Supplement 3, 2015, Vol 105, No. S3
+
+global rate variability to the proximity of census
+tracts with comparable disease rates. With
+regard to the overall distribution of incidence
+rates among non-White women, the Ipop ana-
+lysis for 1985 to 1989 found that the proximity
+of census tracts with comparable incidence rates
+had minimal inﬂuence; 4.9% of the overall
+variation was found in the statewide non-White
+rate of disease. However, the proportion of
+statewide variation attributed to co-location of
+tracts with similar disease rates increased 5-fold
+to 26.3% by 2005 to 2009, which signaled
+increased geographic disparities in breast cancer
+in non-White women over time.
+Our ﬁndings on the global variation were
+borne out in the analysis of local event clus-
+tering. For the 1985 to 1989 surveillance
+period, the spatial scan statistic identiﬁed 5
+locations where average annual age-adjusted
+early stage breast cancer incidence rates for
+White women differed signiﬁcantly from the
+experiences of at-risk women residing else-
+where around Connecticut (Figure 2a). Areas 1
+and 3 on the perimeter of the state had rates
+approximately 20% lower than other places
+around the state, whereas Area 5 in central
+Connecticut had a rate two thirds lower than
+that of the rest of Connecticut. Areas 2 and 4
+along the state’s central corridor, by compari-
+son, were places with rates for White women
+that exceeded expectations by 35% and 20%
+respectively. Taken together, these 5 locations
+involved approximately 45% of diagnosed
+cases and 47% of the state’s at-risk White
+population during this period.
+Consistent with ﬁndings from the Ipop
+analysis, progressively fewer clusters that in-
+volved smaller segments of the at-risk popula-
+tion were identiﬁed by the spatial scan statistic
+between 1985 to 1989 and 2000 to 2004.
+For 1990 to 1994, the spatial scan statistic
+identiﬁed 4 locations (Areas 6---9; Figure 2a)
+that pertained to fewer at-risk White women
+around the state (34% vs 47%) and cases
+(33% vs 45%) than those detected during
+1985 to 1989. Areas 3 to 5 in the initial
+analysis were found to be no longer signiﬁ-
+cantly different from the statewide rate,
+whereas a new location (Area 8) reached
+statistical signiﬁcance. Areas 6 and 7 were
+geographically similar to the previously iden-
+tiﬁed Areas 1 and 2.
+Geographic smoothing of age-adjusted rates
+for White women continued through 1995 to
+1999. Two locations (Areas 10 and 11; Figure
+2a) within the state’s central corridor, which
+pertained to only 11% of cases and 8% of
+Connecticut’s at-risk women, reached thresh-
+olds for signiﬁcantly elevated disease rates,
+whereas no place yielded signiﬁcantly fewer
+than expected breast cancer cases. By 2000 to
+2004, only a single location in northeastern
+Connecticut exhibited a lower than expected
+incidence (Area 12), such that only 99% of
+at-risk White women around Connecticut lived
+in locations that had geographically equivalent
+risks of being diagnosed with early disease.
+However, this trend toward homogeneity of
+rates reversed somewhat during 2005 to
+2009, where the spatial scan statistic identiﬁed
+2 locations with signiﬁcantly high (Areas 13
+and 15) and 1 location with signiﬁcantly low
+(Area 14) rates of disease that, together, af-
+fected approximately one third of at-risk White
+women within the state.
+Local rate variation pertained to non-White
+women in Connecticut, but in a manner that
+was dissimilar to the previously described
+pattern described. Unlike White women, the
+geography of average annual age-adjusted rates
+for early breast cancer among non-White
+women was essentially homogeneous between
+1985 and 1999, with progressively more
+variation noted thereafter. Area A in north
+central Connecticut (Figure 2b), a place that
+yielded 12 cases among 818 at-risk non-White
+women (0.6% of the total), for a local rate 5.54
+times greater than that among non-White
+women residing elsewhere around the state,
+was the exception. However, by 2000 to 2004
+a signiﬁcant rate variation was identiﬁed within
+2 settings (Areas B and C) that were home to
+approximately 20% of the state’s non-White
+TABLE 2—Global and Local Cluster Analysis of Age-Adjusted Early Stage Breast Cancer Incidence Rates Within Census Tracts Among Non-White
+Women ‡ 20 Years of Age: Connecticut, 1985–2009
+SaTScan26
+Time Period
+IPop,25 % Variation Across Tracts
+Locationa
+Population at-Riskb
+% Affected Population
+Age-Adjusted Rate
+Relative Riskc
+Pd
+1985–1989
+4.9
+Statewide
+144 454
+100.0
+37.9
+1.00
+. . .
+A
+818
+0.6
+202.6
+5.54
+.022
+1990–1994
+6.5
+Statewide
+157 374
+100.0
+44.2
+1.00
+. . .
+1995–1999
+11.9
+Statewide
+189 055
+100.0
+49.0
+1.00
+. . .
+2000–2004
+14.6
+Statewide
+221 761
+100.0
+55.1
+1.00
+. . .
+B
+28 191
+12.7
+92.4
+1.86
+< .001
+C
+18 346
+8.3
+23.3
+0.40
+.047
+2005–2009
+26.3
+Statewide
+255 716
+100.0
+56.6
+1.00
+. . .
+D
+66 983
+26.2
+75.0
+1.51
+.002
+E
+34 948
+13.7
+33.2
+0.55
+.034
+aArea locations illustrated in Figure 2.
+bPopulation counts of non-White women ‡ 20 years of age are based on interpolation of 1990, 2000, and 2010 data according to 2010 US Census tract boundaries.
+cRisk estimates of the likelihood an observed rate within an area was signiﬁcantly different from the rate observed outside that area.
+dEstimating the likelihood of rate variation relative to the null hypothesis according to 9999 Monte Carlo simulations.
+RESEARCH AND PRACTICE
+Supplement 3, 2015, Vol 105, No. S3 | American Journal of Public Health
+Crabbe et al. | Peer Reviewed | Research and Practice | e67
+
+population. By 2005 to 2009, further variation
+was identiﬁed (Areas D and E), which affected
+approximately 40% of the at-risk, non-White
+women of Connecticut.
+DISCUSSION
+Geographic variation in disease incidence is
+real, and its complex nature is not fully un-
+derstood. As a consequence, our ability to
+effectively control (i.e., minimize) geographic
+disparities in health events is suboptimal.
+Where breast cancer is diagnosed goes beyond
+biological, behavioral, environmental, or social
+exposures of at-risk individuals to include
+contextual aspects of patient preference, health
+care delivery, and informatics that inﬂuence
+the likelihood disease is detected and reported.
+Previously, we described the potential “detec-
+tion effects” of screenable conditions on the
+geography of disease.34,35 Such ﬁndings con-
+tribute to the growing literature on how access
+health services may indirectly inﬂuence the
+temporal and spatial distributions of disease rates.
+We documented the dynamic nature of
+breast cancer case clusters among White and
+non-White women over a 25-year period of
+surveillance. Our ﬁndings underscore the im-
+portance of cautious assessment before drawing
+conclusions about causation or control strategies.
+We reported ﬁndings based on Ipop, which
+were similar to those generated by SaTScan,
+and we believe that using multiple cluster
+detection methods enhances conﬁdence and
+understanding beyond what is possible by
+using either alone. We found global variation
+of breast cancer incidence rates to be evident
+over time, but that the elements of global
+clustering differed between White and non-
+White populations. We further observed that
+local clustering of cancer rates were dynamic
+and race-speciﬁc across time periods. In the
+absence of discernable changes in disease
+etiology or population trends, it could be
+reasonably concluded that our results might
+have been affected by secular trends in lifestyle
+or health care, as well as artifacts of disease
+detection methods. However, such attribution
+is beyond the scope of this article and, there-
+fore, untested. Although plausible, several
+concerns lessen the complete enthusiasm for
+such a conclusion. At best, our ﬁndings are
+not inconsistent with the expectations that
+changes in women’s health care could have
+inﬂuenced geographic and temporal differ-
+ences in disease incidence, but our ﬁndings
+are not sufﬁcient to assert such associations
+as root causes of observed trends.
+Limitations
+Our disparate ﬁndings on geography of
+breast cancer among White and non-White
+women are not easily explained. For White
+women, our data suggested a trend toward
+greater homogeneity of rates over much of the
+surveillance period (fewer, less extensive local
+clusters and less variation of global clustering
+that were attributable to proximity of compa-
+rable rates around the state), whereas we noted
+increased heterogeneity of rates for non-White
+women. Although secular trends in utilization
+of mammography and HRT therapy might
+have accounted for overall changes in disease
+incidence rates for Connecticut, data on race-
+speciﬁc health care use and its effects on
+clinical outcomes were less abundant and were
+not directly examined here.
+Other secular trends at play, as related to
+diet and lifestyle, childbearing and child rearing
+1985-
+1989
+1990-
+1994
+1995-
+1999
+2000-
+2004
+2005-
+2009
+Lower rates
+Higher rates
+1
+2
+3
+4
+5
+A
+6
+7
+9
+8
+10
+11
+12
+B
+C
+13
+14
+15
+E
+D
+a
+b
+FIGURE 2—SaTScan analysis of signiﬁcant age-adjusted early-stage breast cancer incidence
+rates among (a) White women and (b) non-White women: Connecticut: 1985–2009.
+RESEARCH AND PRACTICE
+e68 | Research and Practice | Peer Reviewed | Crabbe et al.
+American Journal of Public Health | Supplement 3, 2015, Vol 105, No. S3
+
+histories, education and employment opportu-
+nities, etc., could have accounted for our
+ﬁndings. For example, obesity prevalence that
+preceded and coincided with this time period17
+could have affected incidence and detection
+patterns of breast cancers to the extent that
+obesity varied geographically. Likewise, dis-
+parate changes to the socioeconomic standing
+of women and households via education and
+workplace opportunities might have been
+relevant.36,37 The capacity of these factors
+to exert individual, system level, and interac-
+tive effects on population health outcomes
+limit the interpretability of our ﬁndings and
+underscored the need for further detailed
+analyses.
+We do not believe that the demographic
+changes within Connecticut’s population, alone,
+were sufﬁcient to produce these results. The
+comparison of selected census tract data from
+1990, 2000, and 2010 regarding population
+density, the percentage of persons aged 60
+years and older, the percentage of non-White
+persons, the percentage of persons below the
+poverty level, and per capita income yielded
+highly correlated results (r = 0.83---0.99),
+which were indicative of a rather stable pop-
+ulation structure within Connecticut. More-
+over, the feasibility seemed low; therefore,
+cyclical population changes could have pro-
+duced the dynamic results reported here.
+Our ﬁndings that White incidence rates in-
+creased over time, whereas their geographic
+rate variation diminished, was consistent with
+a presumption that diffusion of women’s health
+services over these 25 years served to elimi-
+nate disparities in disease occurrence by
+expanding capacities to detect indolent disease
+across locales. As health services reached in-
+creasing numbers of women during the 1990s
+and penetrated previously underscreened
+locales, it could be predicted that the overall
+rate of disease would have increased through
+identiﬁcation of occult cases while relative rate
+differences between communities decreased.
+Places with initially low rates would no longer
+have been so low, whereas places with initially
+high rates would no longer have appeared
+as high. If so, the persistence of local variation
+in disease rates over time might signal genuine
+inequities in health care delivery where some
+populations were consistently underserved.
+Whether the ﬁnding of increasing rate
+variability among non-White women signaled
+increasing disparities among that population
+of women deserves attention. Likewise,
+whether the geographic rate variation we
+reported here mimics a range of other (un-
+examined) geographic disparities pertaining to
+the availability of surgical and adjuvant ther-
+apy options or the availability of clinical trials
+and other ancillary services for women should
+be considered.
+The validity of our ﬁndings depends heavily
+on the tools we selected for analysis. Our
+measures for global and local cluster detection
+are well known and routinely used, but they
+are still not foolproof. The interpretation of no
+results (i.e., the absence of identiﬁed clusters) is
+challenging because having no results does not
+necessarily equate with “failure to reject” the
+null hypothesis. Consensus on how best to use
+the SaTScan is elusive. Analyses by scanning
+circles smaller than those of SaTScan’s default
+setting (i.e., up 50% of at-risk populations), or
+the aggregation of data into lesser or longer
+periods of time, might highlight spatial patterns
+we could not discern. Thorough consideration
+of these and other issues in cluster analysis
+are found elsewhere.38,39
+Conclusions
+In summary, our ﬁndings highlight the dy-
+namic conditions of disease surveillance and
+the importance of ongoing linear panel stud-
+ies.40 On the one hand, our ﬁnding of transi-
+tional disparities (i.e., places where extreme
+rates occurred for limited time periods) offers
+the potential to increase our understanding of
+speciﬁc factors that might contribute to the
+under- and overdetection of disease relative to
+other locales. On the other hand, attention to
+the results of single cross-sectional analyses
+might distract attention from the social context
+in which lifestyle, patient preferences, or pro-
+vider capacity have longer-term inﬂuences on
+geographic variation that we sought to control.
+We recommend that serial analyses be used
+to identify “hot spots” where persistent geo-
+graphic disparities in incidence occur. We
+believe this article provides a relevant example
+of the challenges ahead in addressing the
+geography of racial disparities that affect many
+underserved populations. Our understanding
+of breast cancer in Connecticut and our
+capacity to control its effects is enhanced by
+considering locations where both transitional
+and ongoing disparities can be found. j
+About the Authors
+At the time of the study, J. Christopher F. Crabbe, David I.
+Gregorio, Holly Samociuk, and Helen Swede were with the
+Department of Community Medicine and Health Care,
+University of Connecticut School of Medicine, Farmington.
+Correspondence should be sent to David I. Gregorio,
+PhD, MS, Department of Community Medicine and Health
+Care, University of Connecticut School of Medicine, 263
+Farmington Ave., Farmington, CT 06030-6325 (e-mail:
+gregorio@uchc.edu). Reprints can be ordered at
+http://www.ajph.org by clicking the “Reprints” link.
+This article was accepted February 11, 2015.
+Contributors
+D. I. Gregorio conceptualized the project and the ana-
+lytical strategies. J. C. F. Crabbe was responsible for
+analysis of data. H. Samociuk managed the datasets and
+prepared all the tables and ﬁgures used in the paper.
+H. Swede contributed to problem formulation and dis-
+cussion of results. All authors contributed to the prepa-
+ration of the article.
+Human Participant Protection
+The institutional review boards of the University of
+Connecticut and Connecticut State Department of Public
+Health approved our access to, and analysis of, this
+information.
+References
+1.
+Welch HG, Sharp SM, Gottlieb DJ, Skinner JS,
+Wennberg JE. Geographic variation in diagnosis fre-
+quency and risk of death among Medicare beneﬁciaries.
+JAMA. 2011;305(11):1113---1118.
+2.
+Jencks SF, Huff ED, Cuerdon T. Change in the
+quality of care delivered to Medicare beneﬁciaries,
+1998-1999 to 2000-2001. JAMA. 2003;289(3):305--312.
+3.
+Cooper RS. Genetic factors in ethnic disparities in
+health. In: Anderson NB, Bulatao RA, Cohen B, eds.
+Critical Perspectives on Racial and Ethnic Differences in
+Health in Late Life. Washington, DC: The National
+Academies Press; 2004:269---309.
+4.
+Doll R. Geographic variation in cancer incidence:
+a clue to causation. World J Surg. 1978;2(5):595---602.
+5.
+Vogel VG. Breast cancer risk factors and preventive
+approaches to breast cancer. In: Kavanagh JJ, Singletary
+SE, Einhorn N, et al., eds Cancer in Women. Malden, MA:
+Blackwell Science; 1998:58---91.
+6.
+Gubler DJ. The global threat of emergent/
+re-emergent vector-borne diseases. In: Institute of Med-
+icine Forum on Microbial Threats. Vector-Borne Diseases:
+Understanding Environmental, Human Health, and Eco-
+logical Connections. Washington, DC: National Academies
+Press; 2008:43---64.
+7.
+National Research Council. Understanding the
+Changing Planet: Strategic Directions for the Geographical
+Sciences. Washington, DC: National Academies Press;
+2010.
+8.
+Klassen AC, Smith KC. The enduring and evolving
+relationship between social class and breast cancer:
+a review of the literature. Cancer Epidemiol. 2011;35(3):
+217---234.
+RESEARCH AND PRACTICE
+Supplement 3, 2015, Vol 105, No. S3 | American Journal of Public Health
+Crabbe et al. | Peer Reviewed | Research and Practice | e69
+
+9.
+Wennberg JE. Understanding geographic variations
+in health care delivery. N Engl J Med. 1999;340(1):52---53.
+10.
+Mulley AG. Inconvenient truths about supplier
+induced demand and unwarranted variation in medical
+practice. BMJ. 2009;339:b4073.
+11. Taylor R, Boyages J. Estimating risk of breast cancer
+from population incidence affected by widespread mam-
+mographic screening. J Med Screen. 2001;8(2):73---76.
+12. Morrell S, Barratt A, Irwig L, Howard K, Bieshauvel
+C, Armstrong B. Estimates of overdiagnosis of invasive
+breast cancer associated with screening mammography.
+Cancer Causes Control. 2010;21(2):275---282.
+13.
+Bleyer A, Welch HG. Effect of three decades of
+screening mammography on breast-cancer incidence.
+N Engl J Med. 2012;367(21):1998---2005.
+14.
+Wysowski DK, Golden L, Burke L. Use of meno-
+pausal estrogens and medroxyprogesterone in the United
+States, 1982---1992. Obstet Gynecol. 1995;85(1):6---10.
+15.
+Robbins AS, Clarke CA. Regional changes in
+hormone therapy use and breast cancer. J Clin Oncol.
+2007;25(23):3437---3439.
+16.
+Krieger N. Hormone therapy and the rise and
+perhaps fall of US breast cancer incidence rates: critical
+reﬂections. Int J Epidemiol. 2008;37(3):627---637.
+17. Ogden CL, Fryar CD, Carroll MD, Flegal KM. Mean
+Body Weight, Height and Body Mass Index, United States
+1960---2002. Advance Data From Vital and Health
+Statistics; No. 347. Hyattsville, MD: National Center for
+Health Statistics; 2004.
+18. Martin JA, Hamilton BE, Osterman MJK, Curtin SC,
+Mathews TJ. Births: ﬁnal data for 2012. Natl Vital Stat
+Rep. 2013;62(9):1---68.
+19.
+Adler NE, Stewart J. Health disparities across the
+lifespan: meaning, methods, and mechanisms. Ann N Y
+Acad Sci. 2010;1186:5---23.
+20.
+Heston JF, Kelly JAB, Meigs JW, et al. Forty-Five
+Years of Cancer Incidence in Connecticut 1935---79,
+Monograph No. 70. Bethesda, MD: National Cancer
+Institute; 1986.
+21.
+International Classiﬁcation of Diseases, Ninth Re-
+vision. Geneva, Switzerland: World Health Organization;
+1980.
+22.
+Taylor A, Cheng KK. Social deprivation and breast
+cancer. J Public Health Med. 2003;25(3):228---233.
+23.
+Geolytics, Inc. Neighborhood Change Database
+(NCDB) 1970---2010 Tract Data. East Brunswick, NJ:
+Geolytics, Inc.; 2013.
+24.
+National Cancer Institute. Joinpoint Trend Analysis
+Software. Available at: http://surveillance.cancer.gov/
+joinpoint. Accessed June 20, 2014.
+25. Kulldorff M, Athas WF, Feuer EJ, Miller BA, Key CR.
+Evaluating cluster alarms: a space-time scan statistic and
+brain cancer in Los Alamos, New Mexico. Am J Public
+Health. 1998;88(9):1377---1380.
+26. Oden N. Adjusting Moran’s I for population density.
+Stat Med. 1995;14(1):17---26.
+27.
+Jacquez GM, Greiling DA, Durbeck H, et al. Clus-
+terSeer™User Guide 2: Software for Identifying Disease
+Clusters. Ann Arbor, MI: TerraSeer Press; 2002.
+28.
+Kulldorff M. A spatial scan statistic. Commun Stat
+Theory Methods. 1997;26(6):1481---1496.
+29.
+Kulldorff M, for Information Management Services,
+Inc. SaTScan™version 3.1. Software for the Spatial and
+Space-time Scan Statistics, 2002. Available at: http:/
+www.satscan.org. Accessed June 20, 2014.
+30.
+Rogerson P, Yamada I. Statistical Detection and
+Surveillance of Geographic Clusters. Boca Raton, FL:
+Taylor & Francis Group; 2009.
+31.
+Aldstadt J. Statistical clustering. In: Fischer MM,
+Getis A, eds. Handbook of Applied Spatial Analysis:
+Software Tools, Methods and Applications. Berlin,
+Germany: Springer-Verlag; 2010.
+32. Centers for Disease Control (CDC). Behavioral Risk
+Factor Surveillance System Prevalence and Trends Data,
+2000. Available at: http://apps.nccd.cdc.gov/brfss/page.
+asp?cat=WH&yr=2000&state= All#WH. Accessed June
+20, 2014.
+33.
+Writing Group for the Women’s Health Initiative
+Investigators. Risks and beneﬁts of estrogen plus pro-
+gestin in healthy postmenopausal women: principal re-
+sults from the Women’s Health Initiative randomized
+controlled trial. JAMA. 2002;288(3):321---333.
+34. Gregorio DI, Samociuk H. Prostate cancer incidence
+in light of the spatial distribution of another screening-
+detectable cancer. Spat Spatiotemporal Epidemiol.
+2013;6:1---6.
+35. Gregorio DI, Kulldorff M, Sheehan TJ, Samociuk H.
+Geographic distribution of prostate cancer incidence in
+an era of PSA testing. Urology. 2004;63(1):78---82.
+36.
+Lynch SM. Cohort and life-course patterns in the
+relationship between education and health. Demography.
+2003;40(2):309---331.
+37.
+Fieder M, Huber S, Bookstein FL. Socioeconomic
+status, marital status and childlessness in men and
+women: an analysis of census data from six countries.
+J Biosoc Sci. 2011;43(5):619---635.
+38.
+Goovaerts P, Jacques GM. Detection of temporal
+changes in the spatial distribution of cancer rates using
+local Moran’s I and geostatistically simulated spatial
+neutral models. J Geogr Syst. 2005;7(1):137---159.
+39. Andrienko N, Andrienko G. Exploratory Analysis of
+Spatial and Temporal Data. Berlin, Germany: Springer-
+Verlag; 2006.
+40.
+Kessler RC, Greenberg DF. Linear Panel Analysis,
+Models of Quantitative Change. New York, NY: Academic
+Press; 1981.
+RESEARCH AND PRACTICE
+e70 | Research and Practice | Peer Reviewed | Crabbe et al.
+American Journal of Public Health | Supplement 3, 2015, Vol 105, No. S3
+

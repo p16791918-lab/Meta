@@ -1,0 +1,766 @@
+record_id=427 pmid=39438356 doi=10.1007/s10552-024-01907-y
+SOURCE: manual-pdf
+TITLE: The role of ethnic enclaves and neighborhood socioeconomic status in invasive breast cancer incidence rates among Asian American, Native Hawaiian, and Pacific Islander females in California
+
+Vol.:(0123456789)
+Cancer Causes & Control (2025) 36:183–189 
+https://doi.org/10.1007/s10552-024-01907-y
+ORIGINAL PAPER
+The role of ethnic enclaves and neighborhood socioeconomic status 
+in invasive breast cancer incidence rates among Asian American, 
+Native Hawaiian, and Pacific Islander females in California
+Alya Truong1 · Meg McKinley1,2 · Scarlett Lin Gomez1,2 · Mi‑Ok Kim1,3 · Salma Shariff‑Marco1,2,3 · Iona Cheng1,2,3
+Received: 1 May 2024 / Accepted: 12 August 2024 / Published online: 23 October 2024 
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2024
+Abstract
+Purpose  Few studies have examined whether the incidence rates of invasive breast cancer among Asian American, Native 
+Hawaiian, and Pacific Islander (AANHPI) populations differ by the neighborhood social environment. Thus, we examined 
+associations of ethnic enclave and neighborhood socioeconomic status (nSES) with breast cancer incidence rates among 
+AANHPI females in California.
+Methods  A total of 14,738 AANHPI females diagnosed with invasive breast cancer in 2008–2012 were identified from 
+the California Cancer Registry. AANHPI ethnic enclaves (culturally distinct neighborhoods) and nSES were assessed at 
+the census tract level using 2007–2011 American Community Survey data. Breast cancer age-adjusted incidence rates and 
+incidence rate ratios (IRRs) were estimated for AANHPI ethnic enclave, nSES, and their joint effects. Subgroup analyses 
+were conducted by stage of disease.
+Results  The incidence rate of breast cancer among AANHPI females living in lowest ethnic enclave neighborhoods (quintile 
+(Q)1) were 1.21 times (95% Confidence Interval (CI) 1.11, 1.32) that of AANHPI females living highest ethnic enclave 
+neighborhoods (Q5). In addition, AANHPI females living in highest vs. lowest SES neighborhoods had higher incidence 
+rates of breast cancer (Q5 vs. Q1 IRR = 1.30, 95% CI 1.22 to 1.40). The incidence rate of breast cancer among AANHPI 
+females living in low ethnic enclave + high SES neighborhoods was 1.32 times (95% CI 1.25, 1.39) that of AANHPI females 
+living in high ethnic enclave + low SES neighborhoods. Similar patterns of associations were observed for localized and 
+advanced stage disease.
+Conclusion  For AANHPI females in California, incidence rates of breast cancer differed by nSES, ethnic enclave, when 
+considered independently and jointly. Future studies should examine whether the impact of these neighborhood-level factors 
+on breast cancer incidence rates differ across specific AANHPI ethnic groups and investigate the pathways through which 
+they contribute to breast cancer incidence.
+Keywords  Breast cancer incidence · Asian American, Native Hawaiian, and Pacific Islander (AANHPI) · Neighborhood 
+socioeconomic status · Ethnic enclave · Social environment
+Salma Shariff-Marco and Iona Cheng have been designated as joint 
+senior authors.
+ *	 Iona Cheng 
+	
+iona.cheng@ucsf.edu
+	
+Salma Shariff‑Marco 
+	
+Salma.Shariff-Marco@ucsf.edu
+1	
+Department of Epidemiology and Biostatistics, University 
+of California, 550 16th Street, Second Floor, San Francisco, 
+CA 94158, USA
+2	
+Greater Bay Area Cancer Registry, University of California, 
+San Francisco, CA, USA
+3	
+Helen Diller Family Comprehensive Cancer Center, 
+University of California, San Francisco, CA, USA
+
+184
+	
+Cancer Causes & Control (2025) 36:183–189
+Introduction
+For females in the U.S., breast cancer is the most com-
+monly diagnosed cancer. Over 297,790 new cases of 
+invasive breast cancer were estimated to be diagnosed 
+in women in 2023 [1] and projected to reach 364,000 by 
+2040 [2]. In the U.S., Asian American (AA) populations 
+are one of the fastest-growing racial and ethnic groups 
+with the largest population of AA in the U.S. residing in 
+California [3, 4]. Of note, among AA females in the U.S., 
+breast cancer incidence increased at a rate of 1.17% per 
+year from 1988 to 2013 [5]. Additionally, Native Hawai-
+ian and Pacific Islander (NHPI) females experience a dis-
+proportionate burden of breast cancer compared to other 
+Asian ethnic groups [6, 7].
+Neighborhood contextual factors are increasingly rec-
+ognized as risk factors for breast cancer incidence [8]. 
+Among AANHPI females an increased incidence of breast 
+cancer has been reported among those residing in neigh-
+borhoods of higher socioeconomic status [9] and/or areas 
+that are less culturally distinct [8]. Ethnic enclaves are 
+neighborhoods that are more culturally distinct, typically 
+defined by higher concentrations of specific racial and 
+ethnic groups, recent immigrants, and with households 
+that have limited English-proficiency or are linguistically 
+isolated [10]. Moreover, ethnic enclaves tend to have busi-
+nesses and social communities that reflect the cultural val-
+ues of their residents. Although ethnic enclaves can offer 
+valuable social support that positively impact health, they 
+are often underserved, resulting in a lack of necessary 
+resources for sustaining a healthy lifestyle [11]. However, 
+in recent literature, researchers have found that AANHPI 
+enclaves in California typically are not of lower SES and 
+are more likely to have greater access to primary health-
+care [12].
+Neighborhood socioeconomic status (nSES) has been 
+reported to be an independent risk factor for breast can-
+cer [9, 13]. A positive association (i.e., higher incidence 
+among those residing in higher SES neighborhoods) has 
+been reported in several studies, including studies of 
+AANHPI females [8, 9, 13, 14]. While the association 
+between nSES and breast cancer incidence is well estab-
+lished, there remains a gap in our knowledge of whether 
+living in AANHPI ethnic enclaves may influence this 
+association [9, 13, 14]. Thus, this study investigated the 
+separate and joint effect of ethnic enclave and nSES on 
+invasive breast cancer incidence in a population-based 
+cross-sectional study of AANHPI females diagnosed with 
+invasive breast cancer from 2008 to 2012 in California. 
+Additionally, subgroup analyses by stage of disease were 
+conducted to examine possible differences in the patterns 
+of association between localized vs. advanced disease.
+Methods
+Study population and data
+Using data from the California Cancer Registry (CCR), 
+part of the National Cancer Institute’s Surveillance, Epide-
+miology, and End Results (SEER) program, we obtained 
+information on newly diagnosed invasive breast cancer 
+cases (Internal Classification of Diseases for Oncology, 3rd 
+Edition (ICD-O-3) site code C50.0-C50.9, histology codes 
+8000-8700, 8720-8790, and 8982-8983) from January 1, 
+2008 to December 31, 2012. Registry data are routinely 
+derived from the medical record on age at diagnosis, race 
+and ethnicity, and stage of diagnosis. SEER summary stage 
+at diagnosis was defined as local (1 = localized), regional 
+(2 = regional by direct extension; 3 = regional by lymph 
+nodes; 4 = regional by direct extension and lymph nodes; 
+5 = regional not otherwise specified), remote (7 = remote), 
+and unknown (8 = not abstracted; 9 = unknown or not speci-
+fied). Regional and remote stage were combined as advanced 
+disease.
+A total of 14,738 female AANHPI invasive breast can-
+cer cases diagnosed from 2008 to 2012, who were at least 
+20 years of age were included in this study after excluding 
+females who had unknown breast cancer stage (n = 192). 
+Five-year cumulative incidence rates were calculated using 
+2008–2012 case counts (numerator) and 2010 Census popu-
+lation counts (denominator) at the census-tract level. The 
+age, sex, and race-specific population counts from the 2010 
+Census were multiplied by five as intercensal population 
+counts were not available. Census tracts were assigned to 
+breast cancer cases based on residential address at diagnosis 
+to append neighborhood data.
+Ethnic enclave and neighborhood socioeconomic 
+status
+For this study, a neighborhood was defined using census 
+tracts, a geographic unit with approximately 4,000 residents 
+on average in California that has been used in many stud-
+ies of neighborhood health research [15]. AANHPI ethnic 
+enclave was defined as neighborhoods with a high concen-
+tration of residents with self-reported AANHPI race, recent 
+immigration, AANHPI language use, and linguistic isola-
+tion [16] compared to other neighborhoods [10]. A principal 
+component analysis was conducted as previously described 
+[10, 17, 18] using 2007–2011 American Community Sur-
+vey (ACS) data with four variables capturing the domains 
+described above. Neighborhood socioeconomic status 
+(nSES) was assessed using an established index [16, 19] 
+based on information derived from 2007 to 2011 ACS data 
+on education, household income, income relative to poverty 
+
+185
+Cancer Causes & Control (2025) 36:183–189	
+line, occupation, employment status, rent, and house value 
+[19]. For both ethnic enclave (quintile (Q) 5 = most cultur-
+ally distinct neighborhood, Q1 = least culturally distinct 
+neighborhood) and nSES (Q5 = highest nSES, Q1 = lowest 
+nSES), census tracts were assigned the appropriate compos-
+ite score, and then categorized into quintiles based on the 
+statewide distribution of scores across all census tracts for 
+the decennial Census year of 2010.
+A joint measure of ethnic enclave and nSES was devel-
+oped using the dichotomous ethnic enclave and nSES meas-
+ures (i.e., low enclave [Q1-3], and high enclave [Qs 4 and 
+5), low nSES [Q1-3], high nSES [Qs 4 and 5]). The joint 
+variable included four categories to describe neighborhoods: 
+low enclave + low nSES, low enclave + high nSES, high 
+enclave + low nSES, high enclave + high nSES.
+Statistical analysis
+We calculated frequencies and relative distributions for 
+age group (20–29, 30–39, 40–49, 50–59, 60–69, 70–79, & 
+80 +), year of diagnosis, summary stage (localized, regional/
+distant), ethnic enclave, and nSES. Age-adjusted incidence 
+rates (AAIR) were per 100,000 were age-adjusted using the 
+2000 U.S. standard population. To examine differences in 
+incidence rates by nSES and ethnic enclave, we calculated 
+incidence rate ratios (IRR) for ethnic enclave and nSES quin-
+tiles. Each quintile was compared to a reference (i.e., ethnic 
+enclave (Q5) and nSES (Q1)) and then assessed for trends. 
+To examine differences in joint ethnic enclave + nSES, we 
+calculated IRRs among low enclave + high nSES, high 
+enclave + high nSES, and low enclave + low nSES com-
+pared to high enclave + low nSES neighborhoods. High 
+enclave + low nSES was selected as the reference group as 
+each of these categories had the lowest incidence rate of 
+invasive breast cancer for AANHPI females. We used the 
+NCI’s SEER*Stat software (version 8.4.2) to compute AAIR 
+per 100,000 population and IRR and 95% confidence inter-
+vals (Tiwari modification) [20, 21]. Subgroup analyses were 
+conducted for localized and advanced disease. All statistical 
+tests conducted were two-sided, with a P < 0.05 indicating 
+statistical significance. P values for trend analysis were con-
+ducted using SAS (version 9.4). Relevant data are available 
+through the California Cancer Registry.
+Results
+Cancer case characteristics
+Table 1 presents frequencies and distributions of 14,738 
+AANHPI California females with invasive breast cancer 
+diagnosed from 2008 to 2012. Of them, 71% were diag-
+nosed at ages of 50 or older, 65% with localized disease, and 
+34% with advanced disease (Table 1). Approximately 74% 
+of AANHPI breast cancer cases resided in more culturally 
+distinct neighborhoods (AANHPI enclave Q4 and Q5). The 
+majority of AANHPI breast cancer cases (57%) resided in 
+high nSES neighborhoods (Q4 and Q5) while 43% resided 
+in low SES neighborhoods (Q1-Q3).
+For AANHPI females, AAIR decreased with higher eth-
+nic enclave quintiles such that females residing in the least 
+culturally distinct neighborhoods had the highest incidence 
+rate of breast cancer (Q1 AAIR: 115.10 per 100,000; 95% 
+CI: 105.57, 125.32) while those living in highest AANHPI 
+ethnic enclave neighborhoods (more culturally distinct) 
+had the lowest incidence rate (Q5 IR: 95.21; 95% CI: 
+93.07, 97.39) (Table 2). Relative to AANHPI females 
+residing in the highest ethnic enclave neighborhoods, 
+females residing in the lowest ethnic enclave had a 21% 
+Table 1   Study Characteristics of  Female Asian American/Native 
+Hawaiian/Pacific Islander Invasive Breast Cancer Cases Reported in 
+California from 2008 to 2012 (n = 14,738)
+*Unknown stage (n) = 192 (1.31%)
+n
+%
+Age at Diagnosis (years)
+ 20–29
+101
+0.68
+ 30–39
+947
+6.4
+ 40–49
+3240
+22
+ 50–59
+4095
+28
+ 60–69
+3493
+24
+ 70–79
+1944
+13
+ 80 + 
+918
+6.2
+Year of Diagnosis
+ 2008
+2702
+18
+ 2009
+2766
+19
+ 2010
+2945
+20
+ 2011
+3097
+21
+ 2012
+3228
+22
+SEER Summary Stage*
+ Localized
+9586
+65
+ Regional/Distant
+4960
+34
+Ethnic Enclave
+ Q1 Low Enclave
+557
+4.0
+ Q2 Low Enclave
+1273
+8.0
+ Q3 Low Enclave
+2106
+14
+ Q4 High Enclave
+3184
+22
+ Q5 High Enclave
+7618
+52
+Neighborhood SES
+ Q1 Low Neighborhood SES
+1134
+8.0
+ Q2 Low Neighborhood SES
+2052
+14
+ Q3 Low Neighborhood SES
+3167
+21
+ Q4 High Neighborhood SES
+3872
+26
+ Q5 High Neighborhood SES
+4513
+31
+
+186
+	
+Cancer Causes & Control (2025) 36:183–189
+higher incidence rate of invasive breast cancer (95% CI: 
+1.11, 1.32). Residing in neighborhoods that were less cul-
+turally distinct was associated with increasing incidence 
+of breast cancer ­(Ptrend = 0.01).
+Furthermore, the AAIR increased with nSES such that 
+AANHPI females residing in the lowest SES neighbor-
+hoods (Q1 AAIR: 83.59; 95% CI: 78.67, 88.73) had the 
+lowest incidence rate while those residing in the highest 
+SES neighborhoods had the highest incidence rate of breast 
+cancer (Q5 AAIR: 109.20 per 100,000; 95% CI: 105.97, 
+112.52) (Table 3). Relative to those residing in the lowest 
+SES neighborhoods, AANHPI females residing in the high-
+est SES neighborhoods had a 30% higher incidence rate of 
+invasive breast cancer (IRR = 1.30; 95% CI: 1.22, 1.40). 
+Residing in neighborhoods of higher SES was associated 
+with an increasing incidence of breast cancer ­(Ptrend = 0.01).
+Table 4 shows AAIR and IRR of breast cancer for each 
+category of the joint variable compared to in the reference 
+group, high enclave + low nSES. AANHPI females liv-
+ing in neighborhoods of low ethnic enclave + high nSES 
+(IRR = 1.32 95% 1.25–1.39), low ethnic enclave + low nSES 
+(IRR = 1.23; 95% 1.16–1.29), and high ethnic enclave + high 
+nSES (IRR = 1.20; 95% 1.15–1.24) had a statistically sig-
+nificantly higher incidence rate of breast cancer com-
+pared to females living in high ethnic enclave + low nSES 
+neighborhoods.
+In a subgroup analysis by stage of disease, AANHPI 
+females with localized stage at diagnosis residing the least 
+Table 2   Invasive Breast Cancer Age-Adjusted Incidence Rates 
+(AAIR) and Incidence Rate Ratios (IRR) by Ethnic Enclaves for 
+Asian American/Native Hawaiian/Pacific Islander Females Reported 
+in California from 2008 to 2012
+a Age adjusted incidence rates (AAIR) per 100,000 using the 2000 
+U.S. standard population (18 age groups-Census P25-1130); 95% 
+Confidence Intervals (CI)
+*Indicates statistical significance (p < 0.05) comparing to high ethnic 
+enclave
+**Indicates statistical significance (p < 0.05) of a trend
+Population
+Cases (n)
+AAIRa (95% CI)
+IRR (95% CI)
+7,136,940
+7618
+95.21 (93.07–97.39)
+(ref)
+2,752,040
+3184
+104.50 (100.86–108.24)*
+1.09 (1.05–1.14)
+1,647,505
+2106
+112.54 (107.72–117.52)*
+1.18 (1.13–1.24)
+969,415
+1273
+113.36 (107.13–119.87)*
+1.19 (1.12–1.26)
+383,450
+557
+115.10 (105.57–125.32)*
+1.21 (1.11–1.32)
+0.01**
+Table 3   Invasive Breast Cancer 
+Age-Adjusted Incidence Rates 
+(AAIR)a and Incidence Rate 
+Ratios (IRR) by neighborhood 
+SES (nSES) for Asian 
+American/Native Hawaiian/
+Pacific Islander Females 
+Reported in California from 
+2008 to 2012
+a Age adjusted incidence rates (AAIR) per 100,000 using the 2000 U.S. standard population (18 age groups-
+Census P25-1130); 95% Confidence Intervals (CI)
+*Indicates statistical significance (p < 0.05) comparing to low nSES
+**Indicates statistical significance (p < 0.05) of a trend
+nSES
+Population
+Cases (n)
+AAIRa (95% CI)
+IRR (95% CI)
+Q1 Low
+1,209,465
+1,134
+83.59 (78.67–88.73)
+(ref)
+Q2
+1,948,800
+2,052
+90.18 (86.26–94.24)*
+1.08 (1.00–1.16)
+Q3
+2,752,600
+3,167
+100.54 (97.02–104.15)*
+1.20 (1.12–1.29)
+Q4
+3,220,080
+3,872
+107.88 (104.47–111.38)*
+1.39 (1.21–1.38)
+Q5 High
+3,758,570
+4,513
+109.20 (105.97–112.52)*
+1.30 (1.22–1.40)
+p-trend
+0.00800**
+Table 4   Invasive Breast Cancer Incidence Rate ­Ratiosa by Ethnic Enclave and Neighborhood SES for Asian American/Native Hawaiian/ Pacific 
+Islander females reported in California from 2008 to 2012
+a Age adjusted incidence rates (AAIR) per 100,000 using the 2000 U.S. standard population (18 age groups-Census P25-1130); 95% Confidence 
+Intervals (CI)
+b Low Enclave (Q1 through 3) and High Enclave (Q4 & 5)
+c Low nSES (Q1 through 3) and High nSES (Q4 & 5)
+*Indicates statistical significance (p < 0.05) comparing to high ethnic enclave & low nSES
+n
+n
+AAIR (95% CI)
+IRR (95% CI)
+High Ethnic Enclave & Low nSES
+4,437,330
+4,532
+88.63 (86.03–91.30)
+(ref)
+High Ethnic Enclave & High nSES
+5,451,650
+6,270
+106.09 (103.44–108.79)*
+1.20 (1.15–1.24)
+Low Ethnic Enclave & Low nSES
+1,473,460
+1,821
+108.95 (103.93–114.16)*
+1.23 (1.16–1.29)
+Low Ethnic Enclave & High nSES
+1,526,910
+2,115
+116.70 (111.69–121.89)*
+1.32 (1.25–1.39)
+
+187
+Cancer Causes & Control (2025) 36:183–189	
+culturally distinct neighborhoods (least culturally distinct) 
+had the highest incidence rate of breast cancer (Q1 AAIR: 
+75.16 per 100,000; 95% CI: 67.55, 83.46) while those liv-
+ing in highest AANHPI ethnic enclave neighborhoods 
+(more culturally distinct) had the lowest incidence rate (Q5 
+IR: 61.78; 95% CI: 60.05, 63.54) (Table S1). In contrast, 
+AANHPI females with advanced stage at diagnosis residing 
+in the second to lowest AANHPI ethnic enclave neighbor-
+hood had the highest incidence rate of breast cancer (Q2 
+AAIR: 38.24 per 100,000; 95% CI: 34.67, 42.09) (Table S1). 
+Moreover, AANHPI females living in highest vs. lowest 
+SES neighborhoods had higher incidence rates of localized 
+(Q5 vs. Q1 IRR = 1.44, 95% CI 1.32–1.57) and advanced 
+stage (Q5 vs. Q1 IRR = 1.12, 95% CI 1.00–1.25) breast 
+cancer (Table S2). Similar associations were observed for 
+joint variable of ethnic enclave and nSES when comparing 
+AANHPI females that resided in low ethnic enclave + high 
+nSES neighborhoods to AANHPI females that reside in high 
+ethnic enclave + low nSES neighborhoods for localized stage 
+(IRR = 1.40; 95% 1.31–1.50) and advanced stage at diagno-
+sis (IRR = 1.18; 95% 1.07–1.29) (Table S3).
+Discussion
+For AANHPI females in California, residing in less cultur-
+ally distinct neighborhoods (low ethnic enclaves) was asso-
+ciated with higher incidence rates of invasive breast cancer. 
+In addition, AANHPI females living in neighborhoods of 
+higher SES experienced higher incidence rates of invasive 
+breast cancer compared to those residing in neighborhoods 
+of lower SES. When ethnic enclave and nSES were assessed 
+jointly, the association of ethnic enclave status and invasive 
+breast cancer incidence among AANHPI females in Cali-
+fornia seemed to be driven by nSES, i.e., AANHPI females 
+residing in neighborhoods of higher SES experience higher 
+incidence rates of breast cancer compared to AANHPI resid-
+ing in neighborhoods of lower SES, regardless of ethnic 
+enclave status.
+In prior studies, the examination of AANHPI ethnic 
+enclave and cancer has focused on incidence rates of can-
+cers of lung, liver, hepatocellular carcinoma, colorectal, 
+Hodgkin lymphoma, and non-Hodgkin lymphoma [10, 17, 
+22–25]. These studies report similar patterns of associations 
+as we observed for residing in AANHPI ethnic enclave and 
+breast cancer incidence whereby individuals residing in 
+areas that were less culturally distinct (low ethnic enclave) 
+experienced higher incidence of cancer [22–25]. Our find-
+ings of increased incidence of breast cancer among AANHPI 
+females residing in higher SES neighborhoods are consist-
+ent with previous studies of breast cancer [8, 13, 14]. Also, 
+our findings that residing in neighborhoods that were less 
+culturally distinct (low enclave) and higher SES experienced 
+higher incidence rates of breast cancer compared neighbor-
+hoods that are were culturally distinct (high ethnic enclave) 
+and lower SES are consistent with prior studies of these 
+neighborhood-level factors for other cancer sites [23–25]. It 
+is plausible that the observed higher breast cancer incidence 
+for AANHPI females residing in low enclave + high SES 
+neighborhoods is driven primarily by nSES, as we also see 
+similarly higher breast cancer incidence for females resid-
+ing in high enclave + high SES neighborhoods. Prior studies 
+have reported a higher incidence of breast cancer among 
+females residing in high SES neighborhoods [13, 19, 26] 
+that may be related to higher proportion of residents in those 
+neighborhoods with established breast cancer risk factors, 
+including lower parity, delayed age at first birth, later age 
+at menopause, and greater access to healthcare resources 
+including breast cancer screening.
+The disparities observed in invasive breast cancer inci-
+dence by ethnic enclave status and nSES are likely influ-
+enced by additional neighborhood and individual-level fac-
+tors. Characteristics of the neighborhood such as density 
+and access to social support and healthcare are plausible 
+pathways through which residence in AANHPI enclaves can 
+contribute to breast cancer risk. In a recent study conducted 
+by Guan et al. [12], researchers investigated the geographic 
+accessibility of healthcare by ethnic enclave for Asian Amer-
+icans across five states, including California, and found that 
+ethnic enclaves tend to have less poverty, fewer uninsured 
+individuals, and higher primary care accessibility compared 
+to neighborhoods that are not enclaves. Thus, such charac-
+teristics of the neighborhood may be a plausible pathway by 
+which AANHPI females residing in higher ethnic enclave 
+experience lower incidence rates of invasive breast cancer in 
+comparison to those residing in neighborhoods of lower eth-
+nic enclave. Additionally, individual health behaviors such 
+as nutrition, smoking prevalence, and alcohol consumption 
+may be influenced by neighborhood environments such as 
+AANHPI enclaves and may contribute to breast cancer risk. 
+In a study conducted by Kandula et al., [27] researchers 
+examined smoking prevalence among Asian Americans by 
+neighborhood factors and found a higher smoking preva-
+lence for Asian American females who reside in areas with 
+a lower concentration of Asian residents [27]. Future studies 
+are needed to better understand how neighborhood charac-
+teristics may contribute to breast cancer risk so that they can 
+better inform clinical- and community-level interventions. 
+For example, providing culturally relevant and in-language 
+health education resources for AANHPI females can be pri-
+oritized in neighborhoods with higher risk.
+This study has several strengths. Our large population-
+based sample of invasive breast cancer cases allowed for 
+sufficient numbers to evaluate breast cancer rates among 
+AANHPI females by ethnic enclave and nSES. Additionally, 
+we examined established measures of ethnic enclave and 
+
+188
+	
+Cancer Causes & Control (2025) 36:183–189
+nSES [10, 19, 28, 29]. However, we note some limitations 
+of this study. As a cross-sectional study, we acknowledge 
+that cancer incidence may not align with the critical win-
+dow of neighborhood exposure. We were unable to disag-
+gregate the AANHPI population into distinct Asian ethnic 
+group due to lack of reliable denominator data for the most 
+recent years of diagnosis. Lastly, we were unable to examine 
+individual-level breast cancer risk factors such as smoking, 
+reproductive factors, overweight/obesity, physical activity, 
+and alcohol use. It is important to note that this work can be 
+updated in the future using 2020 Census denominator data 
+as well as appropriate data from the ACS for comparison to 
+our findings.
+Conclusion
+Our study indicates that AANHPI ethnic enclaves and nSES 
+jointly influence breast cancer risk among AANHPI females 
+in California and the association appears to be driven largely 
+by nSES. Future research should evaluate these neighbor-
+hood factors across distinct Asian American ethnic groups. 
+Multilevel, longitudinal data are needed to help elucidate the 
+pathways through which these neighborhood factors jointly 
+influence risk.
+Supplementary Information  The online version contains supplemen-
+tary material available at https://​doi.​org/​10.​1007/​s10552-​024-​01907-y.
+Acknowledgments  The collection of cancer incidence data used in this 
+study was supported by the California Department of Public Health 
+pursuant to California Health and Safety Code Section 103885; Cent-
+ers for Disease Control and Prevention’s (CDC) National Program of 
+Cancer Registries, under cooperative agreement 1NU58DP007156; 
+the National Cancer Institute’s Surveillance, Epidemiology and End 
+Results Program under contract HHSN261201800032I awarded to the 
+University of California, San Francisco, contract HHSN261201800015I 
+awarded to the University of Southern California, and contract 
+HHSN261201800009I awarded to the Public Health Institute, Cancer 
+Registry of Greater California. The ideas and opinions expressed herein 
+are those of the author(s) and do not necessarily reflect the opinions 
+of the State of California, Department of Public Health, the National 
+Cancer Institute, and the Centers for Disease Control and Prevention 
+or their Contractors and Subcontractors.
+Author contributions  Formal Analysis: Alya Truong Supervision: Iona 
+Cheng, Salma Shariff-Marco. Writing—original draft: Alya Truong, 
+Meg McKinley, Iona Cheng, Salma Shariff-Marco. Writing—review 
+& editing: All co-authors.
+Funding  The collection of cancer incidence data used in this study was 
+supported by the California Department of Public Health pursuant to 
+California Health and Safety Code Sect. 103885; Centers for Disease 
+Control and Prevention’s (CDC) National Program of Cancer Reg-
+istries, under cooperative agreement 1NU58DP007156; the National 
+Cancer Institute’s Surveillance, Epidemiology and End Results Pro-
+gram under contract HHSN261201800032I awarded to the Univer-
+sity of California, San Francisco, contract HHSN261201800015I 
+awarded to the University of Southern California, and contract 
+HHSN261201800009I awarded to the Public Health Institute, Cancer 
+Registry of Greater California. The ideas and opinions expressed herein 
+are those of the author(s) and do not necessarily reflect the opinions 
+of the State of California, Department of Public Health, the National 
+Cancer Institute, and the Centers for Disease Control and Prevention 
+or their Contractors and Subcontractors.
+Data availability  Data/SEER*Stat sessions are available upon request.
+Declarations 
+Competing interest  The authors declare no competing interests.
+References
+	 1.	 National Breast Cancer Foundation, INC. https://​www.​natio​nalbr​
+eastc​ancer.​org/​breast-​cancer-​facts/
+	 2.	 Arzanova E, Mayorovitz H (1998) The epidemiology of breast 
+cancer. Imaging 10(1):4. https://​doi.​org/​10.​36255/​exon-​publi​catio​
+ns-​breast-​cancer-​epide​miolo​gy
+	 3.	 Brown A. U.S. Hispanic and Asian populations growing, but for 
+different reasons. Pew Research Center. Published 2014. https://​
+www.​pewre​search.​org/​short-​reads/​2014/​06/​26/u-​s-​hispa​nic-​and-​
+asian-​popul​ations-​growi​ng-​but-​for-​diffe​rent-​reaso​ns/
+	 4.	 Von Behren J, Abrahão R, Goldberg D, Gomez SL, Setiawan VW, 
+Cheng I (2018) The influence of neighborhood socioeconomic 
+status and ethnic enclave on endometrial cancer mortality among 
+Hispanics and Asian Americans/Pacific Islanders in California. 
+Cancer Causes Control 29(9):875–881. https://​doi.​org/​10.​1007/​
+s10552-​018-​1063-7
+	 5.	 Gomez SL, Von Behren J, McKinley M et al (2017) Breast 
+cancer in Asian Americans in California, 1988–2013: increas-
+ing incidence trends and recent data on breast cancer subtypes. 
+Breast Cancer Res Treat 164(1):139–147. https://​doi.​org/​10.​1007/​
+s10549-​017-​4229-1
+	 6.	 Jemal A, Siegel RL (2015) Cancer statistucs for Asian Ameri-
+cans, Native Hawaiians, and Pacific Islanders, 2015: conver-
+gence of incidence between males and females. CA Cancer J Clin 
+2(17):623–624. https://​doi.​org/​10.​3322/​caac.​21335.​Cancer
+	 7.	 CAL*Explorer: An interactive website for California Cancer Reg-
+istry (CCR) cancer statistics [Internet]. The CCR is a program 
+of the California Department of Public Health. Published 2023. 
+Accessed March 17, 2024. https://​explo​rer.​ccrcal.​org/​appli​cation.​
+html?​site=​55&​data_​type=​7&​graph_​type=​10&​compa​reBy=​
+asian_​ethni​city&​chk_​asian_​ethni​city_​10=​10&​chk_​asian_​ethni​
+city_​11=​11&​chk_​asian_​ethni​city_​12=​12&​chk_​asian_​ethni​city_​
+13=​13&​chk_​asian_​ethni​city_​14=​14&​chk_​asian_​ethni​city_
+	 8.	 Morey BN, Gee GC, Wang MC et al (2022) Neighborhood 
+contexts and breast cancer among Asian American Women. J 
+Immigr Minor Heal 24(2):445–454. https://​doi.​org/​10.​1007/​
+s10903-​021-​01196-6
+	 9.	 Krieger N Jr, Quesenberry C, Peng T et al (1999) Social class, 
+race/ethnicity, and incidence of breast, cervix, colon, lung, and 
+prostate cancer among Asian, black, Hispanic, and white residents 
+of the San Francisco Bay Area, 1988±92 (United States) Nancy. 
+Cancer Causes Control 10:525–537
+	10.	 Sangaramoorthy M, Yang J, Guan A et al (2022) Asian Ameri-
+can/Pacific Islander and Hispanic ethnic enclaves, Neighborhood 
+socioeconomic status, and hepatocellular carcinoma incidence 
+in California: an update. Cancer Epidemiol Biomarkers Prev 
+31(2):382–392. https://​doi.​org/​10.​1158/​1055-​9965.​EPI-​21-​1035
+	11.	 Bécares L, Shaw R, Nazroo J et al (2012) Ethnic density effects on 
+physical morbidity, mortality, and health behaviors: a systematic 
+
+189
+Cancer Causes & Control (2025) 36:183–189	
+review of the literature. Am J Public Health 102(12):33–66. 
+https://​doi.​org/​10.​2105/​AJPH.​2012.​300832
+	12.	 Guan A, Pruitt SL, Henry KA et al (2023) Asian American 
+enclaves and healthcare accessibility: an ecologic study across 
+five states. Am J Prev Med 65(6):1015–1025. https://​doi.​org/​10.​
+1016/j.​amepre.​2023.​07.​001
+	13.	 Liu L, Deapen D, Bernstein L (1998) Socioeconomic status and 
+cancers of the female breast and reproductive organs: A com-
+parison across racial/ethnic populations in Los Angeles County, 
+California (United states). Cancer Causes Control 9(4):369–380. 
+https://​doi.​org/​10.​1023/A:​10088​11432​436
+	14.	 Reynolds P, Hurley SE, Quach AT et al (2005) Regional variations 
+in breast cancer incidence among California women, 1988–1997. 
+Cancer Causes Control 16(2):139–150. https://​doi.​org/​10.​1007/​
+s10552-​004-​2616-5
+	15.	 Krieger N, Chen JT, Waterman PD, Soobader MJ, Subramanian 
+SV, Carson R (2002) Geocoding and monitoring of US socio-
+economic inequalities in mortality and cancer incidence: does 
+the choice of area-based measure and geographic level matter? 
+The public health disparities geocoding project. Am J Epidemiol 
+156(5):471–482. https://​doi.​org/​10.​1093/​aje/​kwf068
+	16.	 Yang J, Schupp CW, Harrati A, Clarke C, Keegan TH, Gomez SL. 
+Developing an area based socioeconomic measure from American 
+Community Survey data. Cancer Prevention Institute of Califor-
+nia. Accessed 24 Feb 2022. https://​cance​rregi​stry.​ucsf.​edu/​sites/g/​
+files/​tkssr​a1781/f/​wysiw​yg/​Yang%​20et%​20al.%​202014_​CPIC_​
+ACS_​SES_​Index_​Docum​entat​ion_3-​10-​2014.​pdf
+	17.	 Chang ET, Yang J, Alfaro-Velcamp T, So SKS, Glaser SL, Gomez 
+SL (2010) Disparities in liver cancer incidence by nativity, accul-
+turation, and socioeconomic status in California Hispanics and 
+Asians. Cancer Epidemiol Biomarkers Prev 19(12):3106–3118. 
+https://​doi.​org/​10.​1158/​1055-​9965.​EPI-​10-​0863
+	18.	 Gomez SL, Glaser SL, Mcclure LA (2012) Incidence and out-
+comes in populations. Cancer Causes Control 22(4):631–647. 
+https://​doi.​org/​10.​1007/​s10552-​011-​9736-5.​The
+	19.	 Yost K, Perkins C, Cohen R, Morris C, Wright W (2001) Socio-
+economic status and breast cancer incidence in California for dif-
+ferent race/ethnic groups. Cancer Causes Control 12(8):703–711. 
+https://​doi.​org/​10.​1023/A:​10112​40019​516
+	20.	 Surveillance Research Program, National Cancer Institute 
+SEER*Stat software (seer.cancer.gov/seerstat) version 8.4.2. 
+https://​seer.​cancer.​gov/​help/​seers​tat/​data/​citat​ion-​of-​softw​
+are-​and-​data-​source
+	21.	 Tiwari RC, Clegg LX, Zou Z (2006) Efficient interval estimation 
+for age-adjusted cancer rates. Stat Methods Med Res 15(6):547–
+569. https://​doi.​org/​10.​1177/​09622​80206​070621
+	22.	 DeRouen MC, Hu L, McKinley M et al (2018) Incidence of lung 
+cancer histologic cell-types according to neighborhood factors: 
+a population based study in California. PLoS ONE 13(5):1–15. 
+https://​doi.​org/​10.​1371/​journ​al.​pone.​01971​46
+	23.	 Ladabaum U, Clarke CA, Press DJ et al (2014) Colorectal cancer 
+incidence in asian populations in california: effect of nativity and 
+neighborhood-level factors. Am J Gastroenterol 109(4):579–588. 
+https://​doi.​org/​10.​1038/​ajg.​2013.​488
+	24.	 Glaser SL, Chang ET, Clarke CA, Keegan THM, Yang J, Gomez 
+SL (2015) Hodgkin lymphoma incidence in ethnic enclaves in 
+California. Leuk Lymphoma 56(12):3270–3280. https://​doi.​org/​
+10.​3109/​10428​194.​2015.​10268​15
+	25.	 Clarke CA, Glaser SL, Gomez SL et  al (2011) Lymphoid 
+malignancies in U.S. Asians: incidence rate differences by 
+birthplace and acculturation. Cancer Epidemiol Biomarkers 
+Prev 20(6):1064–1077. https://​doi.​org/​10.​1158/​1055-​9965.​
+EPI-​11-​0038
+	26.	 Akinyemiju TF, Genkinger JM, Farhat M, Wilson A, Gary-Webb 
+TL, Tehranifar P (2015) Residential environment and breast can-
+cer incidence and mortality: a systematic review and meta-analy-
+sis. BMC Cancer. https://​doi.​org/​10.​1186/​s12885-​015-​1098-z
+	27.	 Kandula NR, Wen M, Jacobs EA, Lauderdale DS (2009) Asso-
+ciation between neighborhood context and smoking prevalence 
+among Asian Americans. Am J Public Health 99(5):885–892. 
+https://​doi.​org/​10.​2105/​AJPH.​2007.​131854
+	28.	 Froment M-A, Gomez SL, Roux A, DeRouen MC, Kidd EA 
+(2014) Impact of socioeconomic status and ethnic enclave on cer-
+vical cancer incidence among Hispanics and Asians in California. 
+Physiol Behav 176(3):139–148. https://​doi.​org/​10.​1016/j.​ygyno.​
+2014.​03.​559.​Impact
+	29.	 Von Behren J, Abrahão R, Goldberg D, Gomez SL, Setiawan VW, 
+Cheng I (2018) The influence of neighborhood socioeconomic 
+status and ethnic enclave on endometrial cancer mortality among 
+Hispanics and Asian Americans/Pacific Islanders in California. 
+Physiol Behav 176(1):139–148. https://​doi.​org/​10.​1007/​s10552-​
+018-​1063-7.​The
+Publisher's Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.
+
+Cancer Causes & Control is a copyright of Springer, 2025. All Rights Reserved.
+

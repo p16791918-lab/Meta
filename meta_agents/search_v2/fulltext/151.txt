@@ -1,0 +1,2578 @@
+record_id=151 pmid=23878350 doi=10.1093/jnci/djt157
+SOURCE: manual-pdf
+TITLE: Cancer incidence trends among asian american populations in the united states, 1990-2008
+
+Vol. 105, Issue 15  |  August 7, 2013
+DOI:10.1093/jnci/djt157
+Advance Access publication July 22, 2013
+1096  Articles  |  JNCI
+© The Author 2013. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+Article
+Cancer Incidence Trends Among Asian American Populations  
+in the United States, 1990–2008
+Scarlett Lin Gomez, Anne-Michelle Noone, Daphne Y. Lichtensztajn, Steve Scoppa, James T. Gibson, Lihua Liu, Cyllene Morris, 
+Sandy Kwong, Kari Fish, Lynne R. Wilkens, Marc T. Goodman, Dennis Deapen, Barry A. Miller
+Manuscript received September 19, 2012; revised April 17, 2013; accepted April 18, 2013.
+Correspondence to: Scarlett Lin Gomez, PhD, Cancer Prevention Institute of California, 2201 Walnut Ave, Ste 300, Fremont, CA 94538 (scarlett@cpic.org).
+	Background	
+National cancer incidence trends are presented for eight Asian American groups: Asian Indians/Pakistanis, 
+Chinese, Filipinos, Japanese, Kampucheans, Koreans, Laotians, and Vietnamese.
+	
+Methods	
+Cancer incidence data from 1990 through 2008 were obtained from 13 Surveillance, Epidemiology, End Results 
+(SEER) registries. Incidence rates from 1990 through 2008 and average percentage change were computed using 
+SEER*Stat and Joinpoint software. The annual percentage change (APC) in incidence rates was estimated with 
+95% confidence intervals (95% CIs) calculated for both the rate and APC estimates. Rates for non-Hispanic whites 
+are presented for comparison.
+	
+Results	
+Prostate cancer was the most common malignancy among most groups, followed by lung, colorectal, liver, and 
+stomach cancers. Breast cancer was generally the most common cancer in women, followed by colorectal and 
+lung cancers; liver, cervix, thyroid, and stomach cancers also ranked highly. Among men, increasing trends were 
+observed for prostate (Asian Indians and Pakistanis: APC 1990–2003 = 2.2, 95% CI = 0.3 to 4.1; Filipinos: APC 
+1990–1994 = 19.0, 95% CI = 4.5 to 35.4; Koreans: APC 1990–2008 = 2.9, 95% CI = 1.8 to 4.0), colorectal (Koreans: 
+APC 1990–2008 = 2.2, 95% CI = 0.9 to 3.5), and liver cancers (Filipinos: APC 1990–2008 = 1.6, 95% CI = 0.4 to 2.7; 
+Koreans: APC 1990–2006 = 2.1, 95% CI = 0.4 to 3.7; Vietnamese: APC 1990–2008 = 1.6, 95% CI = 0.3 to 2.8), whereas 
+lung and stomach cancers generally remained stable or decreased. Among women, increases were observed for 
+uterine cancer (Asian Indians: APC 1990–2008 = 3.0, 95% CI = 0.3 to 5.8; Chinese: APC 2004–2008 = 7.0, 95% CI = 1.4 
+to 12.9; Filipina: APC 1990–2008 = 3.0, 95% CI = 2.4 to 3.7; Japanese: APC 1990–2008 = 1.1, 95% CI = 0.1 to 2.0), 
+colorectal cancer (Koreans: APC 1990–2008 = 2.8, 95% CI = 1.7 to 3.9; Laotians: APC: 1990–2008 = 5.9, 95% CI = 4.0 
+to 7.7), lung cancer (Filipinas: APC 1990–2008 = 2.1, 95% CI = 1.4 to 2.8; Koreans: APC 1990–2008 = 2.1, 95% CI = 0.6 
+to 3.6), thyroid cancer (Filipinas: APC 1990–2008 = 2.5, 95% CI = 1.7 to 3.3), and breast cancer in most groups (APC 
+1990–2008 from 1.2 among Vietnamese and Chinese to 4.7 among Koreans). Decreases were observed for stom-
+ach (Chinese and Japanese), colorectal (Chinese), and cervical cancers (Laotians and Vietnamese).
+	Conclusions	
+These data fill a critical knowledge gap concerning the cancer experience of Asian American groups and highlight 
+where increased preventive, screening, and surveillance efforts are needed—in particular, lung cancer among 
+Filipina and Korean women and Asian Indian/Pakistani men, breast cancer among all women, and liver cancer 
+among Vietnamese, Laotian, and Kampuchean women and Filipino, Kampuchean, and Vietnamese men.
+	
+	
+J Natl Cancer Inst;2013;105:1096–1110 
+The Asian American population grew faster than that of any 
+racial group in the United States over the last decade (1), with 
+Asian Americans currently representing 5.6% of the population 
+(2). Two-thirds of Asian Americans are foreign-born, and 25% 
+immigrated within the past decade (3). Asian Americans come from 
+heterogeneous socioeconomic backgrounds (1) and vary in English 
+proficiency, insurance coverage, and use of health services (4,5), 
+factors that play important roles in cancer risk. Despite the Asian 
+American population being comprised of numerous diverse groups 
+originating from more than 50 different countries and speaking 
+more than 100 languages, the dominant research literature tends 
+to aggregate these groups (6). As a population with bimodal 
+distributions of socioeconomic status (5,7–10), Asian Americans 
+are generally portrayed as a “model minority” (11), a misleading 
+narrative that obscures their diversity and complexity (8,9,12–14).
+An appreciation for the heterogeneity of these populations (15) 
+is evident in the increase in publications reporting cancer incidence 
+data for specific Asian American groups (13,16–39). The existence 
+of the National Cancer Institute’s Surveillance, Epidemiology, End 
+Results (SEER) Program, an integrated program of population-based 
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1097
+jnci.oxfordjournals.org
+cancer registries (40–42), facilitates cancer surveillance among spe-
+cific Asian American populations (43). Examining the descriptive 
+epidemiology of cancer among Asian American groups is critical to 
+the identification of opportunities for targeted cancer control and to 
+informing cancer etiology (36).
+Although cancer incidence trends over time have been presented 
+for Asian Americans in California (13,16,20,23,30,31,33,37,39,44–
+46), the lack of detailed annual population estimates has precluded 
+an examination of national trends. We report results from the first 
+analysis of national trends in cancer incidence for the eight larg-
+est Asian American groups—Asian Indians and Pakistanis (com-
+bined), Chinese, Filipinos, Japanese, Kampucheans (Cambodians), 
+Koreans, Laotian, and Vietnamese—from 1990 through 2008.
+Methods
+Study Data
+Cancer incidence data during the 19-year period between January 
+1, 1990, and December 31, 2008, were obtained from 13 US popu-
+lation-based SEER cancer registries. The regions with sufficiently 
+sized Asian American populations included in this analysis are shown 
+in Table 1; these registries cover 54% of the US Asian American 
+population (47), with distributions by registry shown in Table 2.
+SEER data on race and Hispanic ethnicity were generally based 
+on patient’s medical records (48,49). Asian Americans were included 
+in this analysis regardless of Hispanic ethnicity. Information on 
+birthplace and surname was used in certain situations when a spe-
+cific race designation was lacking (50). Nonetheless, approximately 
+7% (increase of 1.2% in 1990 to 10.6% in 2008)  of the Asian 
+American cancer cases were classified as ‘‘other Asian; Asian, not 
+otherwise specified’’ and could not be included in a specific Asian 
+American category. Asian Indians and Pakistanis were combined 
+because of SEER coding rules. Data for non-Hispanic whites were 
+included to serve as a US comparison group.
+Detailed population data for Asian American groups are 
+available from the decennial US Censuses. Individuals could report 
+a single race in the 1990 Census and multiple races in the 2000 
+Census; because of this incompatibility, we developed the following 
+methodology for producing a consistent set of denominators: April 
+1, 1990, and April 1, 2000, Census population distributions by age, 
+sex, and detailed Asian American ethnicity of a given geography were 
+applied as percentages to the midyear (July) 1990 and 2000 Census 
+estimates to yield estimates for the Asian American groups. Because 
+the 1990 Census did not publish county-level population counts 
+for Pakistanis, we used the 1990 public-use microdata samples (51). 
+The April 2000 estimates were derived by calculating an average of 
+the single race alone count (ie, those who self-identified with one 
+Asian American group) and the count for single race alone or in 
+combination with other race(s). The 1991 to 1999 estimates were 
+developed from a linear interpolation between the 1990 and 2000 
+midyear estimates, and the 2001 to 2008 estimates were projected 
+using this linear model. Because of the high percentage of Asian 
+Americans of mixed ethnicity in Hawaii, as well as concerns that 
+the native Hawaiian population has been undercounted in previous 
+Censuses, the Hawaii Tumor Registry has developed improved 
+population estimates derived from sample survey data collected by 
+the Hawaii Department of Health (52). These estimates were used 
+for the Hawaii populations for 1990 to 2005 and estimated for 2006 
+to 2008 based on linear projections from the 2000 to 2005 data. 
+Annual population data were obtained from the Census Bureau for 
+non-Hispanic whites (53,54).
+Because the Census Bureau does not disclose race-/ethnic-
+specific population counts below 100 for any geographic area in 
+the 2000 Census (55), we could not obtain comprehensive Asian 
+American population estimates for some SEER areas. When 
+Census population data were suppressed for an Asian American 
+ethnic group for an entire registry, the registry was excluded from 
+rate calculations for that particular group (Table 1). When popula-
+tion data were suppressed for some counties within a multicounty 
+SEER area, rates were calculated for the remaining counties with 
+available population data, as indicated in Table 1. Because this study 
+was based on secondary analyses of deidentified data, informed 
+consent was not required. Human subjects approval was obtained 
+from the Cancer Prevention Institute of California’s Institutional 
+Review Board.
+Table 1.  Geographic areas included in cancer incidence rates for each Asian American ethnic group, 1990 to 2008*
+California†
+Connecticut
+Hawaii
+Iowa
+New 
+Jersey
+New 
+Mexico
+Utah
+Atlanta 
+metro‡
+Detroit 
+metro‡
+Seattle–Puget 
+Sound‡
+Asian Indian and 
+Pakistani§
+X
+X
+X
+X
+X
+3
+X
+1
+Chinese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+9
+Filipino
+X
+X
+X
+X
+X
+X
+X
+X
+X
+11
+Japanese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+9
+Kampuchean
+X
+X
+X
+X
+X
+X
+X
+1
+9
+Korean
+X
+X
+X
+X
+X
+X
+X
+X
+X
+10
+Laotian
+X
+X
+X
+X
+X
+X
+X
+X
+X
+7
+Vietnamese
+X
+X
+X
+X
+X
+X
+X
+X
+X
+6
+Non-Hispanic white
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+*	 X indicates area was used in rate calculations.
+†	 Includes cancer registries for San Francisco/Oakland, San Jose/Monterey, Los Angeles, and all remaining areas in California combined.
+‡	 Indicates number of counties within the three-county Metropolitan Detroit area, five-county Metropolitan Atlanta area, and the 13-county Seattle–Puget Sound area 
+for which population estimates were not suppressed by the Census Bureau and thus could be included in the incidence analyses.
+§	 Incidence rates calculated for combined group of Asian Indians and Pakistanis because of Surveillance, Epidemiology, End Results program coding rule.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1098  Articles  |  JNCI
+Table 2.  Annual populations and percentage distributions of each Asian American ethnic group and non-Hispanic whites by Surveillance, 
+Epidemiology, End Results registry geographic region and Census year (1990 and 2000)*
+Asian 
+Indian 
+and 
+Pakistani
+Chinese
+Filipino
+Japanese
+Kampuchean
+Korean
+Laotian
+Vietnamese
+Non-
+Hispanic 
+white
+Total SEER
+  1990
+319 350
+943 014
+1 040 610
+660 561
+89 112
+391 190
+81 419
+345 004
+38 062 478
+  2000
+685 041
+1 396 938
+1 420 523
+661 016
+100 909
+557 799
+85 658
+591 877
+37 959 503
+1990
+  California
+181 255
+739 207
+768 495
+327 064
+72 374
+273 141
+61 642
+295 949
+17 088 922
+(56.8%)
+(78.4%)
+(73.9%)
+(49.5%)
+(81.2%)
+(69.8%)
+(75.7%)
+(85.8%)
+(44.9%)
+  Connecticut
+13 093
+11 430
+5319
+3929
+1814
+5311
+3097
+4231
+2 758 317
+(4.1%)
+(1.2%)
+(0.5%)
+(0.6%)
+(2.0%)
+(1.4%)
+(3.8%)
+(1.2%)
+(7.2%)
+  Atlanta (metropolitan)
+8081
+9420
+2184
+3183
+2044
+9 770
+2957
+5749
+1 423 948
+(2.5%)
+(1.0%)
+(0.2%)
+(0.5%)
+(2.3%)
+(2.5%)
+(3.6%)
+(1.7%)
+(3.7%)
+  Hawaii
+0
+68 717
+152 957
+262 054
+122
+20 240
+1 721
+5 621
+290 686
+(0.0%)
+(7.3%)
+(14.7%)
+(39.7%)
+(0.1%)
+(5.2%)
+(2.1%)
+(1.6%)
+(0.8%)
+  Iowa
+3429
+4389
+1574
+1600
+599
+4530
+3312
+2853
+2 670 764
+(1.1%)
+(0.5%)
+(0.2%)
+(0.2%)
+(0.7%)
+(1.2%)
+(4.1%)
+(0.8%)
+(7.0%)
+  Detroit (metropolitan)
+18 107
+9649
+9689
+5851
+96
+6718
+865
+1748
+2 828 785
+(5.7%)
+(1.0%)
+(0.9%)
+(0.9%)
+(0.1%)
+(1.7%)
+(1.1%)
+(0.5%)
+(7.4%)
+  New Jersey
+88 072
+60 774
+54 591
+17 769
+491
+39 659
+494
+7582
+5 728 555
+(27.6%)
+(6.4%)
+(5.2%)
+(2.7%)
+(0.6%)
+(10.1%)
+(0.6%)
+(2.2%)
+(15.1%)
+  New Mexico
+1775
+2766
+2154
+2002
+0
+1565
+559
+1587
+767 785
+(0.6%)
+(0.3%)
+(0.2%)
+(0.3%)
+(0.0%)
+(0.4%)
+(0.7%)
+(0.5%)
+(2.0%)
+  Utah
+0
+5 488
+1 958
+6 682
+1 027
+2 709
+1 824
+2 884
+1 579 032
+(0.0%)
+(0.6%)
+(0.2%)
+(1.0%)
+(1.2%)
+(0.7%)
+(2.2%)
+(0.8%)
+(4.1%)
+  Seattle (Puget Sound)
+5539
+31 172
+41 689
+30 427
+10 545
+27 549
+4946
+16 801
+2 925 684
+(1.7%)
+(3.3%)
+(4.0%)
+(4.6%)
+(11.8%)
+(7.0%)
+(6.1%)
+(4.9%)
+(7.7%)
+2000
+  California
+364 524
+1 056 638
+1 017 248
+345 151
+77 952
+363 811
+60 694
+469 342
+16 371 062
+(53.2%)
+(75.6%)
+(71.6%)
+(52.2%)
+(77.2%)
+(65.2%)
+(70.9%)
+(79.3%)
+(43.1%)
+  Connecticut
+28 090
+20 775
+8938
+5040
+2613
+7675
+3068
+7997
+2 674 033
+(4.1%)
+(1.5%)
+(0.6%)
+(0.8%)
+(2.6%)
+(1.4%)
+(3.6%)
+(1.4%)
+(7.0%)
+  Atlanta (metropolitan)
+28 737
+22 804
+5681
+4905
+2818
+21 874
+3426
+24 111
+1 504 488
+(4.2%)
+(1.6%)
+(0.4%)
+(0.7%)
+(2.8%)
+(3.9%)
+(4.0%)
+(4.1%)
+(4.0%)
+  Hawaii
+0
+89 434
+200 386
+228 734
+282
+28 609
+2137
+8949
+264 244
+(0.0%)
+(6.4%)
+(14.1%)
+(34.6%)
+(0.3%)
+(5.1%)
+(2.5%)
+(1.5%)
+(0.7%)
+  Iowa
+6430
+6790
+2959
+1941
+739
+5605
+4484
+7559
+2 727 974
+(0.9%)
+(0.5%)
+(0.2%)
+(0.3%)
+(0.7%)
+(1.0%)
+(5.2%)
+(1.3%)
+(7.2%)
+  Detroit (metropolitan)
+44 954
+18 809
+13 743
+7434
+143
+9173
+1199
+4715
+2 772 339
+(6.6%)
+(1.3%)
+(1.0%)
+(1.1%)
+(0.1%)
+(1.6%)
+(1.4%)
+(0.8%)
+(7.3%)
+  New Jersey
+190 557
+105 999
+91 022
+16 915
+766
+67 785
+562
+16 088
+5 637 409
+(27.8%)
+(7.6%)
+(6.4%)
+(2.6%)
+(0.8%)
+(12.2%)
+(0.7%)
+(2.7%)
+(14.9%)
+  New Mexico
+3736
+4691
+3895
+2926
+0
+2174
+415
+3482
+828 929
+(0.5%)
+(0.3%)
+(0.3%)
+(0.4%)
+(0.0%)
+(0.4%)
+(0.5%)
+(0.6%)
+(2.2%)
+  Utah
+0
+9499
+4310
+8213
+1517
+4094
+2487
+6444
+1 933 223
+(0.0%)
+(0.7%)
+(0.3%)
+(1.2%)
+(1.5%)
+(0.7%)
+(2.9%)
+(1.1%)
+(5.1%)
+  Seattle (Puget Sound)
+18 014
+61 499
+72 341
+39 756
+14 079
+46 999
+7185
+43 190
+3 245 802
+(2.6%)
+(4.4%)
+(5.1%)
+(6.0%)
+(14.0%)
+(8.4%)
+(8.4%)
+(7.3%)
+(8.6%)
+*	 See Table 1 for registry and county inclusions.
+Statistical Analysis
+Cancer incidence rates and 95% confidence intervals (CIs) were 
+calculated as cases per 100  000 persons and age-adjusted to the 
+2000 US standard population using SEER*Stat software (http://
+seer.cancer.gov/seerstat/). Rates for the top five cancer sites for 
+each group are shown as 5-year average annual rates for the periods 
+1990 to 1994, 1998 to 2002, and 2004 to 2008 (excludes rates from 
+1995 to 1997 and 2003) for the purposes of showing broad trends 
+over this time period, anchored to the 1990 and 2000 Census data, 
+and capturing the beginning and end of the time period (Tables 
+3 and 4). Rates were suppressed for case counts less than 10, with 
+an exception for stomach and prostate cancer among Kampuchean 
+men (56). Annual rates are also shown graphically as trends (57,58), 
+except for smaller groups, for which 2- or 5-year averaged rates are 
+shown (Figures 1 and 2). Joinpoint regression models and annual 
+percentage change (APC) statistics were used to characterize 
+the magnitude and direction of trends (59). A maximum of three 
+joinpoints was allowed based on single-year data. Trends by Asian 
+American ethnic group are also available for eight cancer sites 
+for men (Supplementary Figure  1, available online) and women 
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1099
+jnci.oxfordjournals.org
+Table 3.  Age-adjusted incidence rates and 95% confidence intervals (CI) of the top five cancer sites by Asian American ethnic group and non-Hispanic whites, and by time period 
+(1990–1994, 1998–2002, 2004–2008), men*
+Rank
+1990–1994
+1998–2002
+2004–2008
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Asian Indian and 
+Pakistani
+All sites
+998
+240.7 (221.9 to 260.5)
+All sites
+2304
+279.5 (265.4 to 294.1)
+All sites
+3321
+283.6 (271.8 to 295.7)
+1
+Prostate
+249
+85.1 (73.1 to 98.2)
+Prostate
+704
+95.9 (87.8 to 104.6)
+Prostate
+933
+84.8 (78.6 to 91.4)
+2
+CRC
+104
+22.1 (17.0 to 28.2)
+Lung
+201
+28.1 (23.5 to 33.2)
+Lung
+282
+30.1 (26.0 to 34.6)
+3
+Lung
+82
+20.4 (15.6 to 26.2)
+CRC
+187
+21.4 (17.8 to 25.6)
+CRC
+297
+23.4 (20.3 to 26.8)
+4
+Bladder
+53
+14.6 (10.2 to 20.1)
+Bladder
+101
+15.3 (11.9 to 19.4)
+Bladder
+163
+17.5 (14.4 to 21.0)
+5
+NHL
+60
+11.0 (7.8 to 15.1)
+NHL
+136
+14.5 (11.5 to 18.0)
+NHL
+197
+14.3 (12.0 to 17.0)
+Chinese
+All sites
+6378
+354.1 (344.9 to 363.5)
+All sites
+9242
+337.8 (330.7 to 344.9)
+All sites
+10,705
+320.9 (314.7 to 327.1)
+1
+Prostate
+1263
+75.6 (71.3 to 80.1)
+Prostate
+2211
+82.2 (78.7 to 85.7)
+Prostate
+2488
+74.9 (71.9 to 77.9)
+2
+Lung
+1070
+60.5 (56.7 to 64.4)
+CRC
+1403
+52.1 (49.3 to 55.0)
+Lung
+1678
+52.0 (49.5 to 54.6)
+3
+CRC
+989
+56.8 (53.1 to 60.6)
+Lung
+1351
+51.5 (48.7 to 54.4)
+CRC
+1410
+42.1 (39.9 to 44.4)
+4
+Liver
+474
+24.4 (22.1 to 26.8)
+Liver
+685
+23.6 (21.8 to 25.5)
+Liver
+845
+24.1 (22.5 to 25.8)
+5
+Stomach
+332
+19.2 (17.1 to 21.6)
+Stomach
+461
+17.7 (16.0 to 19.4)
+Stomach
+524
+16.3 (14.9 to 17.7)
+Filipino
+All sites
+7178
+396.6 (387.4 to 406.1)
+All sites
+9420
+385.3 (377.4 to 393.4)
+All sites
+10,847
+385.1 (377.6 to 392.6)
+1
+Prostate
+2224
+131.0 (125.6 to 136.6)
+Prostate
+2879
+122.1 (117.6 to 126.7)
+Prostate
+3224
+117.2 (113.1 to 121.4)
+2
+Lung
+1232
+68.1 (64.3 to 72.1)
+Lung
+1680
+70.1 (66.7 to 73.6)
+Lung
+1831
+68.4 (65.3 to 71.7)
+3
+CRC
+817
+45.6 (42.5 to 48.9)
+CRC
+1214
+49.1 (46.3 to 52.0)
+CRC
+1377
+47.8 (45.2 to 50.5)
+4
+NHL
+354
+18.7 (16.7 to 20.7)
+NHL
+474
+18.8 (17.1 to 20.6)
+NHL
+557
+19.6 (18.0 to 21.4)
+5
+Liver
+257
+13.8 (12.1 to 15.6)
+Liver
+417
+16.6 (15.0 to 18.3)
+Liver
+508
+17.1 (15.6 to 18.7)
+Japanese
+All sites
+7145
+423.7 (413.5 to 434.2)
+All sites
+7797
+405.4 (396.3 to 414.7)
+All sites
+7866
+403.9 (394.8 to 413.1)
+1
+Prostate
+2236
+132.5 (126.8 to 138.4)
+Prostate
+2231
+112.7 (108.0 to 117.6)
+Prostate
+2158
+109.5 (104.9 to 114.4)
+2
+CRC
+1303
+75.2 (71.0 to 79.6)
+CRC
+1403
+73.1 (69.3 to 77.1)
+CRC
+1289
+66.6 (62.9 to 70.4)
+3
+Lung
+869
+51.1 (47.6 to 54.8)
+Lung
+944
+48.0 (44.9 to 51.2)
+Lung
+1045
+52.4 (49.1 to 55.7)
+4
+Stomach
+610
+37.7 (34.6 to 41.0)
+Stomach
+545
+28.5 (26.1 to 31.1)
+Bladder
+476
+24.4 (22.2 to 26.7)
+5
+Bladder
+294
+18.1 (16.0 to 20.4)
+Bladder
+445
+22.7 (20.6 to 24.9)
+Stomach
+475
+24.2 (22.0 to 26.6)
+Kampuchean
+All sites
+204
+287.1 (240.3 to 339.5)
+All sites
+336
+346.3 (303.9 to 392.3)
+All sites
+398
+318.9 (283.9 to 356.7)
+1
+Lung
+42
+81.8 (55.6 to 114.7)
+Lung
+56
+73.2 (53.3 to 97.1)
+Liver
+76
+52.7 (40.1 to 67.7)
+2
+Liver
+34
+40.0 (25.8 to 59.3)
+Liver
+63
+45.8 (34.3 to 59.9)
+Lung
+58
+51.7 (38.0 to 68.3)
+3
+CRC
+18
+31.3 (16.3 to 53.0)
+Prostate
+28
+36.7 (23.4 to 54.0)
+CRC
+56
+43.4 (31.8 to 57.6)
+4
+nr
+CRC
+31
+27.6 (17.0 to 41.7)
+Prostate
+37
+38.1 (25.7 to 53.7)
+5
+Bladder
+10
+18.2 (6.6 to 37.4)
+Stomach
+16
+21.5 (10.9 to 36.7)
+NHL
+22
+17.0 (9.6 to 27.3)
+(Table continues)
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1100  Articles  |  JNCI
+Rank
+1990–1994
+1998–2002
+2004–2008
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Korean
+All sites
+1649
+347.3 (327.4 to 367.9)
+All sites
+2863
+369.5 (354.6 to 384.9)
+All sites
+3843
+400.0 (386.4 to 413.9)
+1
+Lung
+287
+67.4 (58.6 to 77.0)
+Lung
+412
+60.1 (53.9 to 66.8)
+Prostate
+582
+63.5 (58.1 to 69.1)
+2
+Stomach
+253
+55.9 (47.7 to 64.9)
+Prostate
+396
+57.0 (51.1 to 63.4)
+CRC
+575
+58.2 (53.1 to 63.6)
+3
+CRC
+204
+40.9 (34.7 to 47.8)
+CRC
+436
+54.4 (48.9 to 60.3)
+Lung
+493
+57.5 (52.1 to 63.1)
+4
+Prostate
+145
+40.6 (33.5 to 48.6)
+Stomach
+386
+49.2 (43.9 to 54.9)
+Stomach
+502
+52.5 (47.6 to 57.7)
+5
+Liver
+180
+29.7 (25.1 to 34.8)
+Liver
+327
+36.1 (31.8 to 40.7)
+Liver
+369
+34.9 (31.1 to 38.9)
+Laotian
+All sites
+294
+407.1 (352.1 to 467.7)
+All sites
+377
+382.0 (338.3 to 429.3)
+All sites
+416
+371.7 (332.8 to 413.5)
+1
+Lung
+56
+92.5 (67.8 to 122.7)
+Lung
+66
+85.9 (64.1 to 112.0)
+Lung
+72
+70.6 (54.0 to 90.2)
+2
+Liver
+48
+52.4 (37.4 to 72.1)
+Liver
+80
+74.0 (56.6 to 94.7)
+Liver
+82
+64.5 (50.5 to 81.1)
+3
+Stomach
+19
+45.5 (24.2 to 75.2)
+Stomach
+24
+33.2 (19.7 to 51.2)
+CRC
+52
+43.9 (31.5 to 59.1)
+4
+Pancreas
+15
+28.2 (13.9 to 49.5)
+CRC
+30
+26.7 (17.1 to 39.5)
+Prostate
+26
+31.1 (19.5 to 46.2)
+5
+Prostate
+13
+27.9 (13.6 to 49.3)
+Prostate
+18
+24.8 (13.9 to 40.0)
+NHL
+27
+25.6 (16.1 to 38.0)
+Vietnamese
+All sites
+1484
+366.1 (342.9 to 390.3)
+All sites
+2968
+365.1 (349.6 to 381.0)
+All sites
+4136
+367.5 (354.4 to 381.0)
+1
+Lung
+286
+79.0 (68.5 to 90.5)
+Lung
+530
+69.9 (63.1 to 77.2)
+Lung
+752
+73.4 (67.4 to 79.7)
+2
+Prostate
+129
+46.7 (37.9 to 56.7)
+Prostate
+417
+58.8 (52.5 to 65.5)
+Liver
+737
+58.5 (53.7 to 63.5)
+3
+Liver
+197
+45.3 (38.0 to 53.5)
+Liver
+489
+54.8 (49.3 to 60.8)
+Prostate
+602
+56.0 (51.0 to 61.2)
+4
+CRC
+142
+35.6 (28.8 to 43.5)
+CRC
+324
+38.9 (34.1 to 44.2)
+CRC
+487
+41.1 (36.8 to 45.6)
+5
+Stomach
+106
+30.8 (23.7 to 39.1)
+Stomach
+169
+24.6 (20.3 to 29.4)
+Stomach
+213
+21.2 (18.0 to 24.8)
+Non-Hispanic white
+All sites
+550,378
+629.5 (627.8 to 631.2)
+All sites
+564,705
+590.5 (589.0 to 592.1)
+All sites
+572,704
+560.2 (558.7 to 561.6)
+1
+Prostate
+172,608
+198.0 (197.1 to 199.0)
+Prostate
+168,727
+175.1 (174.2 to 175.9)
+Prostate
+162,504
+154.7 (153.9 to 155.5)
+2
+Lung
+85,283
+96.7 (96.1 to 97.4)
+Lung
+79,933
+83.7 (83.2 to 84.3)
+Lung
+74,729
+74.0 (73.5 to 74.6)
+3
+CRC
+61,441
+72.4 (71.8 to 73.0)
+CRC
+61,251
+64.9 (64.3 to 65.4)
+CRC
+54,752
+54.0 (53.5 to 54.4)
+4
+Bladder
+37,047
+43.6 (43.1 to 44.1)
+Bladder
+41,396
+44.0 (43.6 to 44.5)
+Bladder
+43,592
+43.8 (43.4 to 44.2)
+5
+NHL
+21,542
+24.2 (23.9 to 24.6)
+Melanoma
+30,285
+31.2 (30.8 to 31.5)
+Melanoma
+37,884
+37.1 (36.7 to 37.5)
+*	 Incidence rates are presented for invasive cancers only, with the exception of urinary bladder (which included in situ and invasive). The primary cancer type was coded according to the International Classification of 
+Diseases for Oncology (ICD-O) edition in use at the time of diagnosis, converted to ICD-O Third Edition, and then categorized into cancer site groupings for the analysis (104). The Miscellaneous sites category was 
+excluded from the analysis. Bladder = urinary bladder; CRC = colon and rectum; Liver = liver and intrahepatic bile duct; Lung = lung and bronchus; NHL = non-Hodgkin lymphoma; nr = not reliable (case count <10).
+Table 3 (Continued).
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1101
+jnci.oxfordjournals.org
+Table 4.  Age-adjusted incidence rates and 95% confidence intervals (CIs) of the top five cancer sites by Asian American ethnic group and non-Hispanic whites, and by time period, 
+1990–2008, women*
+Rank
+1990–1994
+1998–2002
+2004–2008
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Asian Indian  
+and Pakistani
+All sites
+944
+190.3 (175.9 to 205.6)
+All sites
+2174
+220.6 (210.1 to 231.5)
+All sites
+3308
+250.1 (240.5 to 259.9)
+1
+Breast
+333
+56.1 (49.6 to 63.3)
+Breast
+833
+76.2 (70.5 to 82.1)
+Breast
+1263
+88.3 (83.0 to 93.9)
+2
+CRC
+62
+14.4 (10.4 to 19.4)
+CRC
+140
+16.9 (13.9 to 20.3)
+CRC
+232
+18.8 (16.2 to 21.7)
+3
+Uterine
+61
+13.6 (9.7 to 18.3)
+Uterine
+129
+12.3 (10.2 to 14.8)
+Uterine
+218
+16.4 (14.1 to 18.9)
+4
+Lung
+40
+12.8 (8.5 to 18.3)
+Lung
+88
+12.2 (9.5 to 15.4)
+Lung
+136
+12.4 (10.3 to 14.9)
+5
+Ovary
+59
+9.6 (7.0 to 12.8)
+Ovary
+120
+10.9 (8.8 to 13.4)
+Thyroid
+222
+11.9 (10.2 to 13.8)
+Chinese
+All sites
+5583
+252.7 (246.0 to 259.6)
+All sites
+8920
+261.2 (255.7 to 266.7)
+All sites
+11,103
+263.4 (258.5 to 268.4)
+1
+Breast
+1548
+66.1 (62.8 to 69.6)
+Breast
+2707
+75.5 (72.6 to 78.4)
+Breast
+3477
+78.8 (76.2 to 81.5)
+2
+CRC
+810
+39.6 (36.8 to 42.5)
+CRC
+1266
+38.8 (36.7 to 41.0)
+CRC
+1447
+35.7 (33.9 to 37.7)
+3
+Lung
+642
+31.2 (28.8 to 33.7)
+Lung
+920
+28.5 (26.7 to 30.4)
+Lung
+1207
+29.9 (28.2 to 31.7)
+4
+Uterine
+279
+11.8 (10.4 to 13.2)
+Uterine
+409
+11.6 (10.5 to 12.8)
+Uterine
+621
+14.3 (13.2 to 15.5)
+5
+Stomach
+232
+11.3 (9.9 to 12.9)
+Stomach
+354
+10.9 (9.8 to 12.2)
+Thyroid
+549
+12.2 (11.2 to 13.2)
+Filipina
+All sites
+6470
+273.8 (266.7 to 281.1)
+All sites
+10,114
+285.1 (279.4 to 290.9)
+All sites
+13,352
+312.2 (306.8 to 317.6)
+1
+Breast
+2193
+85.8 (82.1 to 89.7)
+Breast
+3737
+99.2 (96.0 to 102.5)
+Breast
+4673
+103.7 (100.7 to 106.7)
+2
+CRC
+583
+27.8 (25.3 to 30.3)
+CRC
+959
+28.8 (27.0 to 30.8)
+CRC
+1287
+31.8 (30.0 to 33.6)
+3
+Lung
+496
+23.1 (21.0 to 25.4)
+Lung
+821
+25.5 (23.7 to 27.3)
+Lung
+1194
+30.1 (28.4 to 31.9)
+4
+Thyroid
+432
+15.6 (14.1 to 17.2)
+Uterine
+686
+18.3 (16.9 to 19.7)
+Uterine
+1009
+22.0 (20.6 to 23.4)
+5
+Uterine
+359
+14.1 (12.6 to 15.7)
+Thyroid
+668
+17.2 (15.9 to 18.6)
+Thyroid
+976
+21.4 (20.1 to 22.8)
+Japanese
+All sites
+6441
+296.0 (288.5 to 303.7)
+All sites
+8364
+325.7 (318.5 to 333.1)
+All sites
+8577
+307.5 (300.7 to 314.5)
+1
+Breast
+2129
+98.8 (94.5 to 103.3)
+Breast
+2916
+120.1 (115.7 to 124.7)
+Breast
+2702
+104.9 (100.8 to 109.2)
+2
+CRC
+1056
+47.1 (44.2 to 50.1)
+CRC
+1385
+50.5 (47.8 to 53.4)
+CRC
+1295
+43.0 (40.5 to 45.5)
+3
+Lung
+506
+21.7 (19.7 to 23.7)
+Lung
+696
+24.2 (22.4 to 26.1)
+Lung
+907
+27.9 (26.1 to 29.9)
+4
+Stomach
+411
+19.1 (17.2 to 21.1)
+Uterine
+456
+19.2 (17.5 to 21.2)
+Uterine
+488
+20.0 (18.2 to 21.9)
+5
+Uterine
+359
+16.4 (14.7 to 18.3)
+Stomach
+416
+14.6 (13.2 to 16.1)
+Stomach
+356
+11.1 (9.9 to 12.4)
+Kampuchean
+All sites
+208
+206.3 (173.7 to 242.8)
+All sites
+289
+197.6 (173.5 to 224.0)
+All sites
+477
+278.7 (252.6 to 306.6)
+1
+Lung
+23
+31.5 (18.7 to 48.8)
+Breast
+61
+35.3 (26.4 to 46.2)
+Breast
+89
+43.4 (34.4 to 54.0)
+2
+CRC
+20
+22.8 (12.8 to 36.9)
+Lung
+27
+22.4 (14.3 to 33.0)
+CRC
+68
+42.2 (32.3 to 53.9)
+3
+Breast
+29
+19.6 (12.9 to 29.1)
+CRC
+26
+19.3 (12.1 to 28.7)
+Lung
+43
+26.7 (19.0 to 36.3)
+4
+Cervix
+20
+17.3 (10.4 to 27.3)
+Cervix
+21
+13.5 (8.1 to 21.0)
+Liver
+37
+24.8 (17.1 to 34.5)
+5
+Liver
+12
+16.8 (7.6 to 30.6)
+Liver
+16
+12.6 (6.8 to 20.8)
+Cervix
+30
+16.7 (11.0 to 24.2)
+Korean
+All sites
+1762
+220.3 (209.1 to 231.9)
+All sites
+3173
+255.7 (246.5 to 265.2)
+All sites
+4345
+290.6 (281.7 to 299.7)
+1
+Breast
+347
+34.9 (31.2 to 39.0)
+Breast
+789
+53.9 (50.1 to 57.9)
+Breast
+1197
+69.5 (65.5 to 73.6)
+2
+CRC
+191
+27.5 (23.4 to 32.1)
+CRC
+410
+35.7 (32.2 to 39.5)
+CRC
+579
+40.9 (37.5 to 44.5)
+3
+Stomach
+199
+26.0 (22.1 to 30.3)
+Lung
+301
+27.4 (24.3 to 30.9)
+Lung
+371
+28.0 (25.2 to 31.1)
+4
+Lung
+145
+21.4 (17.8 to 25.4)
+Stomach
+298
+26.6 (23.6 to 30.0)
+Stomach
+384
+27.4 (24.6 to 30.4)
+5
+Cervix
+152
+17.0 (14.2 to 20.1)
+Liver
+173
+15.1 (12.9 to 17.7)
+Thyroid
+268
+15.3 (13.5 to 17.4)
+(Table continues)
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1102  Articles  |  JNCI
+Rank
+1990–1994
+1998–2002
+2004–2008
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Count
+Rate (95% CI)
+Laotian
+All sites
+258
+308.9 (267.1 to 354.8)
+All sites
+302
+275.9 (243.8 to 310.8)
+All sites
+347
+268.7 (239.7 to 300.0)
+1
+Cervix
+42
+49.2 (35.0 to 67.2)
+Lung
+40
+40.9 (28.8 to 56.0)
+Breast
+64
+41.3 (31.4 to 53.2)
+2
+Lung
+16
+30.8 (16.5 to 50.9)
+Breast
+46
+34.4 (24.8 to 46.4)
+CRC
+40
+33.7 (23.7 to 46.2)
+3
+Stomach
+14
+23.1 (11.1 to 40.8)
+CRC
+24
+25.0 (15.7 to 37.4)
+Lung
+33
+27.1 (18.4 to 38.3)
+4
+Breast
+25
+22.5 (14.0 to 34.7)
+Cervix
+28
+22.9 (14.8 to 33.7)
+Liver
+28
+23.7 (15.5 to 34.4)
+5
+Liver
+15
+19.5 (9.6 to 34.2)
+Liver
+24
+21.5 (13.5 to 32.4)
+Cervix
+21
+17.1 (10.4 to 26.4)
+Vietnamese
+All sites
+1594
+308.1 (291.1 to 325.8)
+All sites
+2712
+266.7 (255.8 to 277.9)
+All sites
+3944
+285.7 (276.1 to 295.6)
+1
+Breast
+331
+52.3 (46.4 to 58.7)
+Breast
+665
+54.0 (49.7 to 58.5)
+Breast
+1026
+63.0 (59.0 to 67.3)
+2
+Cervix
+215
+38.6 (33.3 to 44.5)
+Lung
+284
+33.7 (29.6 to 38.2)
+CRC
+455
+35.8 (32.3 to 39.6)
+3
+Lung
+141
+37.0 (30.6 to 44.2)
+CRC
+301
+32.5 (28.6 to 36.7)
+Lung
+380
+31.8 (28.5 to 35.4)
+4
+CRC
+131
+30.5 (25.0 to 36.7)
+Liver
+155
+17.7 (14.8 to 20.9)
+Liver
+232
+20.9 (18.1 to 23.9)
+5
+Stomach
+89
+22.6 (17.6 to 28.5)
+Cervix
+187
+16.6 (14.1 to 19.4)
+Thyroid
+266
+15.1 (13.2 to 17.2)
+Non-Hispanic white
+All sites
+488,868
+436.5 (435.2 to 437.7)
+All sites
+538,497
+454.6 (453.3 to 455.8)
+All sites
+538,349
+440.0 (438.8 to 441.2)
+1
+Breast
+152,105
+140.5 (139.8 to 141.3)
+Breast
+172,078
+148.9 (148.1 to 149.6)
+Breast
+162,591
+135.3 (134.6 to 136.0)
+2
+Lung
+63,209
+55.1 (54.6 to 55.5)
+Lung
+70,652
+57.8 (57.4 to 58.3)
+Lung
+72,103
+56.6 (56.2 to 57.1)
+3
+CRC
+59,806
+50.0 (49.6 to 50.4)
+CRC
+60,375
+47.2 (46.8 to 47.6)
+CRC
+53,352
+40.6 (40.2 to 40.9)
+4
+Uterus
+29,655
+26.7 (26.3 to 27.0)
+Uterus
+31,397
+26.9 (26.6 to 27.2)
+Uterus
+32,452
+26.3 (26.0 to 26.6)
+5
+Ovary
+18,279
+16.7 (16.4 to 16.9)
+Melanoma
+22,227
+20.4 (20.2 to 20.7)
+Melanoma
+27,020
+24.3 (24.0 to 24.6)
+*	 Incidence rates are presented for invasive cancers only to with the exception of urinary bladder (which included in situ and invasive). The primary cancer type was coded according to the International Classification 
+of Diseases for Oncology (ICD-O) edition in use at the time of diagnosis to converted to ICD-O Third Edition to and then categorized into cancer site groupings for the analysis (104). The Miscellaneous sites category 
+was excluded from the analysis. Bladder = urinary bladder; Cervix = cervix uteri; CRC = colon and rectum; Liver = liver and intrahepatic bile duct; Lung = lung and bronchus; NHL = non-Hodgkin Lymphoma; nr = not 
+reliable (case count <10); Uterine = corpus uteri to not otherwise specified.
+Table 4 (Continued).
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1103
+jnci.oxfordjournals.org
+(Supplementary Figure  2, available online). Annual percentage 
+changes were considered statistically significant if the 95% 
+confidence interval did not overlap zero.
+Results
+Five Most Common Cancers
+Prostate cancer was the most common malignancy among most 
+Asian American groups, with rates ranging threefold across the 
+groups (Table 3). Among Kampuchean, Laotian, and Vietnamese 
+men, lung cancer rates were highest (comparable with rates for 
+non-Hispanic whites), except in the most recent period when liver 
+cancer surpassed lung cancer among Kampucheans. Among Asian 
+Indians and Pakistanis, Chinese, Filipinos, Japanese, and Koreans, 
+the second and third most common cancers were of the lung and 
+colon/rectum. Japanese and Koreans had the highest colorectal 
+cancer rates, higher than or comparable with non-Hispanic whites. 
+In contrast with non-Hispanic whites, liver and/or stomach cancers 
+ranked among the five most common sites for the Asian American 
+groups.
+Breast cancer was generally the most commonly diagnosed can-
+cer, varying threefold across Asian American populations (Table 4). 
+The highest rates, which were about 30% lower than the rates in 
+non-Hispanic whites, were among Japanese women and Filipinas. 
+Similar to the case for non-Hispanic whites, colorectal and lung 
+cancer were the second and third most common cancers for Asian 
+Figure 1.  Trends of incidence rates and annual percentage change for 
+the top five cancer sites among each Asian American ethnic group, 
+1990–2008, men. Cancer sites are represented by the following plot 
+symbols: prostate: solid black squares and lines; lung: solid gray 
+squares and lines; colorectal cancer (CRC): open black squares and 
+dashed black lines; liver: open gray squares and dashed gray lines; 
+stomach: solid black circles and lines; bladder: solid gray circles and 
+lines; non-Hodgkin lymphoma (NHL): open black circles and dashed 
+black lines. Data are shown by racial/ethnic group: A) Asian Indian/
+Pakistani (95% confidence intervals [CIs] for the annual percentage 
+change (APCs) are: prostate segment 1: 0.3 to 4.1, segment 2: −29.5 to 
+12.2, segment 2: −11.1 to 38.8; Lung: 0.4 to 5.3; CRC: −1.5 to 1.7; Bladder: 
+−0.9 to 3.0; NHL: −2.0 to 3.7); B) Chinese (95% CIs for the APCs are: 
+Prostate: −0.7 to 1.2; Lung segment 1: −7.8 to −0.6, segment 2: −0.8 
+to 1.3; CRC: −2.6 to −1.2; Liver: −1.2 to 0.4; Stomach: −2.3 to −0.3); C) 
+Filipino (95% CIs for the APCs are: Prostate segment 1: 4.5 to 35.4, seg-
+ment 2: −25.8 to 13.6, segment 3: −1.7 to 0.7; Lung: −0.7 to 0.6; CRC: 
+−2.6 to −1.2; NHL: −0.4 to 1.4; Liver: 0.4 to 2.7); D) Japanese (95% CIs 
+for the APCs are: Prostate segment 1: −16.9 to 58.5, segment 2: −24.8 
+to 0.3, segment 3: −6.7 to 24.8, segment 4: −4.9 to 1.3; CRC: −1.3 to 
+−0.4; Lung: −0.7 to 0.9; Bladder: 1.1 to 3.2; Stomach: −4.0 to −2.4), E) 
+Kampuchean (95% CIs for the APCs are: Lung: −9.5 to 5.3; Liver: −0.9 
+to 6.3; Prostate: −3.8 to 14.2; CRC: −4.1 to 11.4; Stomach: −27.0 to 36.5); 
+F) Korean (95% CIs for the APCs are: Prostate: 1.8 to 4.0; CRC: 0.9 to 
+3.5; Lung: −2.3 to 0.3; Stomach: −1.9 to 0.8; Liver segment 1: 0.4 to 
+3.7, segment 2: −44.7 to 19.1); G) Laotian (95% CIs for the APCs are: 
+Liver: −1.9 to 4.2; Lung: −3.9 to 0.6; CRC: −0.4 to 17.1; Prostate: −6.8 to 
+11.1; Stomach: −13.9 to 3.5); H) Vietnamese (95% CIs for the APCs are: 
+Lung: −2.1 to 0.9; Liver: 0.3 to 2.8; Prostate: −1.2 to 2.4; CRC: −0.1 to 
+3.0; Stomach: −4.4 to −1.1). An * indicates the 95% confidence interval 
+for the APC does not include zero. † Joinpoint and observed rates are 
+based on 2-year groups (1990–1991, 1992–1993, 1994–1995, 1996–1997, 
+…, 2008). ‡ Joinpoint and observed rates are based on 5-year groups 
+(1990–1994, 1995–1999, 2000–2004, 2005–2008). Bladder = urinary blad-
+der; CRC = colon and rectum; Liver = liver and intrahepatic bile duct; 
+Lung = lung and bronchus; NHL = non-Hodgkin lymphoma.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1104  Articles  |  JNCI
+American women. However, unique to Asian Americans, liver, cer-
+vix, thyroid, and stomach cancers ranked among the five most com-
+mon cancers.
+Trends Over Time
+Asian Indian and Pakistani men (Figure  1) experienced a statis-
+tically significant 2.2% (95% CI = 0.3 to 4.1) annual increase in 
+prostate cancer incidence in the 1990s, followed by a sharp 3-year 
+decline, and evidence of another increase from 2006 to 2008. This 
+group also experienced a statistically significant increase in lung 
+cancer (APC 1990–2008 = 2.9; 95% CI = 0.4 to 5.3) and a non-
+statistically significant increase in bladder (APC 1990–2008 = 1.1; 
+95% CI  =  −0.9 to 3.0) and non-Hodgkin’s lymphoma (APC 
+1990–2008 = 0.8; 95% CI = −2.0 to 3.7). Chinese men experienced 
+decreasing rates of colorectal (APC = −1.9; 95% CI = −2.6 to −1.2) 
+and stomach cancers (APC = −1.3; 95% CI = −2.3 to −0.3) from 
+1990 to 2008 and lung cancer from 1990 to 1996 (APC = −4.3; 
+95% CI = −7.8 to −0.6). Filipino men experienced a statistically sig-
+nificant 19% (95% CI = 4.5% to 35.4%) annual increase in pros-
+tate cancer rates from 1990 to 1993; liver cancer rates increased 
+a statistically significant 1.6% (95% CI= 0.4% to 2.7%) per year. 
+Among Japanese men, there were statistically significant declines 
+for colorectal (APC 1990–2008 = −0.9; 95% CI = −1.3 to −0.4) and 
+stomach cancer (APC 1990–2008 = −3.2; 95% CI = −4.0 to −2.4) 
+and statistically significant increases for bladder cancer (APC = 2.2; 
+95% CI = 1.1 to 3.2).
+Cancer trends among Kampuchean men did not achieve sta-
+tistical significance, but 5-year averaged rates for lung cancer 
+appeared to decline, and liver, prostate, and colorectal cancers 
+appeared to be rising. Among Korean men, there were statisti-
+cally significant 2.9% (95% CI = 1.8% to 4.0%) and 2.2% (95% 
+CI  =  0.9% to 3.5%) annual increases for prostate and colorec-
+tal cancers, respectively; liver cancer rates increased 2.1% (95% 
+CI = 0.4 to 3.7) annually from 1990 to 2006 and decreased sharply 
+thereafter. Among Laotian men, prostate and colorectal cancer also 
+appeared to increase, whereas stomach and lung cancers decreased. 
+Among Vietnamese men, liver cancer increased statistically signifi-
+cantly (APC = 1.6; 95% CI = 0.3 to 2.8), colorectal cancer increased 
+non-statistically significantly (APC = 1.4; 95% CI = −0.1 to 3.0), 
+and stomach cancer declined statistically significantly (APC = −2.7 
+(95% CI = −4.4 to −1.1)).
+Asian Indians and Pakistanis experienced a statistically sig-
+nificant 3% annual increase in breast (95% CI = 2.4% to 3.6%) 
+and uterine (95% CI = 0.3% to 5.8%) cancer from 1990 to 2008 
+(Figure 2). Chinese women experienced a statistically significant 
+1.2% (95% CI = 0.6% to 1.9%) annual increase in breast cancer 
+from 1990 to 2008, a 7% (95% CI = 1.4% to 12.9%) annual increase 
+in uterine cancer from 2003 to 2008, and statistically significant 
+Figure 1.  Continued
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1105
+jnci.oxfordjournals.org
+decreases in colorectal (APC = −0.7; 95% CI = −1.3 to −0.02) and 
+stomach (APC = −1.5; 95% CI = −2.8 to −0.2) cancers from 1990 to 
+2008. Filipinas experienced statistically significant annual increases 
+in breast (APC  =  1.3; 95% CI  =  0.9 to 1.7), lung (APC  =  2.1; 
+95% CI = 1.4 to 2.8), uterine (APC = 3.0; 95% CI = 2.4 to 3.7), 
+and thyroid (APC = 2.5; 95% CI = 1.7 to 3.3) cancers. Japanese 
+women were the only group with a statistically significant increase 
+(APC = 2.7; 95% CI = 0.2 to 5.4 from 1990 to 1998) and then a non-
+statistically significant decrease (APC = −1.8; 95% CI = −4.1 to 0.6 
+from 1999 onward) in breast cancer incidence. Colorectal cancer 
+incidence remained stable among Japanese women until the period 
+from 2000 to 2001 and then statistically significantly declined by 
+4.3% (95% CI = −7.1 to −1.3). Uterine cancer increased statistically 
+significantly by 1.1% (95% CI = 0.1 to 2.0) per year, and stomach 
+cancer declined statistically significantly by 3.7% (95% CI = −4.8 
+to −2.6) per year.
+Among Kampuchean women, breast (APC = 4.2; 95% CI = −5.9 
+to 15.4), colorectal (APC = 6.9; 95% CI = −7.8 to 23.9), and liver 
+(APC = 5.3; 95% CI = −9.2 to 22.2) cancers increased non-sta-
+tistically significantly over time. Among Korean women, several 
+cancers increased statistically significantly: breast (APC = 4.7; 95% 
+CI = 4.0 to 5.4), colorectal (APC = 2.8; 95% CI = 1.7 to 3.9), and 
+lung (APC = 2.1; 95% CI = 0.6 to 3.6). Cervical cancer rates, high-
+est in Laotian and Vietnamese women, showed statistically signifi-
+cant declines (APC = −7.3, 95% CI = −10.4 to −4.1; APC = −8.5, 
+95% CI = −9.5 to −7.4, respectively). Breast and colorectal cancer 
+Figure  2.  Trends of incidence rates and annual percentage change for 
+the top five cancer sites among each Asian American ethnic group, 1990–
+2008, women. Cancer sites are represented by the following plot symbols: 
+breast: solid black squares and lines; lung: solid gray squares and lines; 
+colorectal cancer (CRC): open black squares and dashed black lines; liver: 
+open gray squares and dashed gray lines; stomach: solid black circles and 
+lines; uterus: solid black triangles and lines; ovary: solid gray triangles and 
+lines; cervix: open black triangles and dashed black lines; thyroid: open 
+gray triangles and dashed gray lines. Data above are shown by racial/eth-
+nic group: A) Asian Indian/Pakistani (95% confidence intervals [CIs] for the 
+annual percentage change (APCs) are: Breast: 2.4 to 3.6; CRC: −1.6 to 4.8; 
+Uterus: 0.3 to 5.8; Lung: −2.0 to 4.5; Ovary: −1.2 to 4.5); B) Chinese (95% 
+CIs for the APCs are: Breast: 0.6 to 1.9; CRC: −1.3 to −0.02; Lung: −1.1 to 
+0.5; Uterus segment 1: −1.7 to 1.7, segment 2: 1.4 to 12.9; Stomach: −2.8 to 
+−0.2), C) Filipina (95% CIs for the APCs are: Breast: 0.9 to 1.7; CRC: −0.03 
+to 2.0; Lung: 1.4 to 2.8; Uterus: 2.4 to 3.7; Thyroid: 1.7 to 3.3); D) Japanese 
+(95% CIs for the APCs are: Breast segment 1: 0.2 to 5.4, segment 2: −4.1 to 
+0.6; CRC segment 1: −0.4 to 1.9, segment 2: −7.1 to −1.3; Lung segment 1: 
+2.5 to 9.8, segment 2: −8.2 to 2.1, segment 3: −7.6 to 29.2, segment 4: −8.2 
+to 1.1; Uterus: 0.1 to 2.0; Stomach: −4.8 to −2.6), E) Kampuchean (95% CIs 
+for the APCs are: Breast: −5.9 to 15.4; CRC: −7.8 to 23.9; Lung: −6.1 to 6.2; 
+Liver: −9.2 to 22.2; Cervix: −18.3 to 16.8), F) Korean (95% CIs for the APCs 
+are: Breast: 4.0 to 5.4; CRC: 1.7 to 3.9; Lung: 0.6 to 3.6; Stomach: −0.8 to 
+1.4; Liver: −2.6 to 0.9, G) Laotian (95% CIs for the APCs are: Breast: 0.04 
+to 6.4; CRC: 4.0 to 7.7; Lung: −10.1 to 9.5; Liver: −1.3 to 6.0; Cervix: −10.4 
+to −4.1), H) Vietnamese (95% CIs for the APCs are: Breast: 0.1 to 2.2; CRC: 
+−0.4 to 2.5; Lung: −2.3 to 0.6; Liver segment 1: −9.2 to 59.5, segment 2: 
+−16.5 to 12.7, segment 3: −0.2 to 9.2; Cervix: −9.5 to −7.4). An * indicates 
+the 95% confidence interval for the APC does not include zero. † Joinpoint 
+and observed rates are based on 2-year groups (1990–1991, 1992–1993, 
+1994–1995, 1996–1997, …, 2008). ‡Joinpoint and observed rates are 
+based on 5-year groups (1990–1994, 1995–1999, 2000–2004, 2005–2008). 
+Cervix = cervix uteri; CRC = colon and rectum; Liver = liver and intrahe-
+patic bile duct; Lung = lung and bronchus; Uterus = corpus and uterus.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1106  Articles  |  JNCI
+increased statistically significantly (APC = 3.2, 95% CI = 0.04 to 
+6.4; APC = 5.9, 95% CI = 4.0 to 7.7, respectively) among Laotians, 
+and breast cancer statistically significantly increased 1.2% (95% 
+CI = 0.1 to 2.2) per year among Vietnamese.
+To assess whether the annual percentage changes and joinpoints 
+might be affected by the inaccurate assumption of linear population 
+trends, we conducted two sensitivity analyses. First, we applied the 
+two-point estimator of the percent change annualized (60), fitting 
+a regression line between the 1990 and 2000 rates. The percent 
+change annualized is an unbiased estimate of the average annual 
+percent change when there are multiple joinpoints or the annual 
+percentage change when there is no joinpoint. For our major find-
+ings, the annual percentage changes are very close to the percent 
+change annualizeds, indicating that our linear population assump-
+tion is reasonable. To assess whether the number of joinpoints and 
+their locations are sensitive to the linear population assumption, we 
+fit joinpoint regressions to a dataset using the 2000 population for 
+the entire time frame. For most groups and most sites (except for 
+Chinese men for prostate, lung, and colorectal cancers), the join-
+points were similar (data not shown).
+Discussion
+This is the first report, to our knowledge, to compare cancer inci-
+dence trends among the eight largest Asian American populations 
+in the United States over a 19-year period using SEER registry 
+data. Disparities in cancer incidence among Asian Americans have 
+been largely overlooked because of lack of detailed information 
+about these heterogeneous populations and stereotypes concern-
+ing positive health profiles, largely because of historical statistics 
+for the aggregated population that over-represent a small num-
+ber of the groups (10). By using detailed race/ethnicity data col-
+lected in the SEER registries and statistical linear interpolation/
+extrapolation of Census population data, we were able to begin 
+tracking the burden of cancer among these rapidly growing Asian 
+American groups. Cancer trends among a more limited number of 
+California’s Asian American populations have been reported previ-
+ously, and although California’s Asian American population rep-
+resents more than half of the SEER Asian American population, 
+this article represents an expansion of this work to the national 
+level and is an important step toward building a broader evidence 
+base that can inform future research and health policies for these 
+growing populations.
+Cancers associated with infectious etiologies exhibited both 
+declining (stomach and cervix cancers) and increasing trends 
+(liver cancer). Some of the observed patterns may reflect immigra-
+tion cohort effects, but they also highlight areas of public health 
+success. The dramatic declines in cervical cancer rates among 
+Southeast Asian (Vietnamese, Kampuchean, Laotian) women 
+are largely attributable to increased cancer screening in these 
+Figure 2.  Continued
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1107
+jnci.oxfordjournals.org
+populations. However, data from the California Health Interview 
+Survey did not show consistent improvements in cervical cancer 
+screening rates for all Asian American groups; for example, the 
+proportion from 2003 to 2007 who had a Pap test within the 
+past 3 years increased from 70% to 76% among Vietnamese and 
+from 68% to 71% among Koreans but decreased from 86% to 
+76% among Filipinas and from 69% to 65% among Chinese and 
+remained stable among Japanese at 75% (61). The increasing 
+trends for liver cancer incidence among nearly all Asian American 
+groups underscore the need for improving hepatitis B vaccina-
+tion rates and hepatitis B and C virus screening in these at-risk 
+populations. Recent studies from California suggest that, over 
+time, disparities across Asian American groups have become more 
+pronounced, with greater incidence seen among foreign-born and 
+Asian Americans with low socioeconomic statuses and living in 
+ethnic enclave neighborhoods (16,17), revealing opportunities for 
+targeted prevention (62,63).
+ In general, Asian American men had lower prostate cancer 
+rates than non-Hispanic white men, but incidence rates and trends 
+varied substantially across the subgroups. The trends in Filipino 
+and Japanese largely mirrored that seen in the general US popu-
+lation: a rapid rise in the early 1990s peaking in 1992, followed 
+by declining rates and stabilization after 1995 (64). South Asians 
+also had a similar pattern but with a delayed peak in the early 
+2000s. However, prostate cancer rates in Chinese appeared to be 
+relatively stable during our study period, and those in Koreans, 
+Vietnamese, and Laotians rose linearly. Although incidence trends, 
+especially those observed in Japanese and perhaps South Asians, 
+may be attributable to screening behavior (61), other factors also 
+likely play a role. Rising incidence rates have been noted in Asian 
+countries where prostate-specific antigen screening is not as 
+prevalent, perhaps attributable to changing lifestyle factors such 
+as increased consumption of animal protein and dietary fat and 
+decreased consumption of phytochemicals common in traditional 
+Asian diets (65,66).
+The breast was the most common cancer site in all Asian American 
+women in the most recent time period (2004–2008), with rates 
+increasing from 1990 to 2008 in all groups except Japanese. This 
+national increase in breast cancer trends among Asian Americans 
+contrasts with the declines among US non-Hispanic white women 
+(67–70) but is consistent with three recent reports in California 
+(13,38,44) showing that among most Asian Americans, especially 
+those born in the United States, rates have increased dramatically 
+over the past 15–20 years. The secular effects in this SEER-wide 
+analysis also mirror the increases seen among women living in Asia 
+(71,72), which are likely due in large part to changes in reproduc-
+tive factors, diet, obesity, and physical activity. Although early stud-
+ies have provided insights on breast cancer risk factors among Asian 
+American women (73–80), contemporary studies in these popula-
+tions could be particularly fruitful in identifying factors contrib-
+uting to changing breast cancer rates. In the meantime, the large 
+national increases and prominent burden of breast cancer among 
+Asian American women warrant the attention of public health, lay, 
+and clinical communities, particularly as mammography screening 
+rates among Asian American women continue to lag behind rates in 
+the general population and are well below the Healthy People 2020 
+target (eg, 62%–68% for Filipinas, Chinese, and other Asians, for 
+proportion receiving a mammogram within the past 2 years, relative 
+to 72.4% in the overall US population) (81).
+From 1990 to 2008, lung cancer ranked among the top four 
+cancer sites in all Asian American ethnic and gender groups. Not 
+only were there no declines in any group, in contrast with declines 
+seen in nearly all US states among non-Hispanic whites (82,83), 
+there were increasing trends among South Asian men and Filipina 
+and Korean women. Unlike nationwide trends, smoking preva-
+lence does not seem to be declining among Asian Americans (61). 
+The relatively high rates of lung cancer among Asian American 
+women are of particular concern because they generally have very 
+low smoking rates (37).
+We detected sharp increases in the incidence of colorectal can-
+cer among Koreans, Kampuchean, Laotians, and Vietnamese and 
+among South Asian and Filipina women, which is consistent with a 
+recent study in California (27). The nationally reported decline in 
+invasive colorectal cancer incidence has been largely attributed to 
+higher screening rates (67); however, some Asian American groups 
+(84–88) are less likely to undergo screening (61). In addition, it is 
+likely that acculturation has resulted in a higher prevalence of colo-
+rectal cancer risk factors, such as obesity, lack of physical activity, 
+smoking, and alcohol consumption (8,12).
+Despite having lower rates of uterine corpus cancer relative 
+to non-Hispanic whites (89–91), incidence rates are increasing in 
+Asian American groups for whom this cancer is one of the five most 
+common sites, in contrast with stable rates among non-Hispanic 
+whites (89,92). Known risk factors for endometrial carcinoma 
+(the vast majority of uterine corpus cancers) include obesity, post-
+menopausal estrogen therapy, nulliparity, early menarche, and late 
+menopause (93). Changes in the prevalence of these risk factors 
+(8,12,61,94–96), especially of obesity, in the Asian American popu-
+lation may explain some of the observed increase (61).
+There are several caveats worth noting when interpreting these 
+results. First, because data on race/ethnicity are primarily derived 
+from medical records (48), they may be misclassified (97–102). 
+Second, rates may be underestimated because of exclusion of cases 
+coded as “Asian, not otherwise specified.” Third, there may be 
+errors associated with the inter- and postcensal annual population 
+estimates; this is a particular concern for the extrapolated post-
+2000 estimates (103). Fourth, small case and denominator counts in 
+some groups lead to unstable rates and potential trends that could 
+not be detected. Finally, many of these patterns could be attribut-
+able to cohort changes in acculturation over time, which could not 
+be assessed.
+In spite of these potential limitations, this report provides 
+important information on cancer trends among the large and 
+growing Asian American population in the United States, serv-
+ing as a critical evidence base to inform future research and health 
+policies. Of particular concern are groups experiencing increases in 
+cancer incidence that could be avoided through preventive, screen-
+ing, and surveillance efforts, including lung cancer among Filipina 
+and Korean women and Asian Indian/Pakistani men, breast can-
+cer among all Asian American women (except Japanese), and liver 
+cancer among Southeast Asian women and Filipino, Kampuchean, 
+and Vietnamese men. These results point to areas where targeted 
+preventive efforts can be undertaken now in public health, policy, 
+and clinical arenas.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1108  Articles  |  JNCI
+References
+	
+1.	 Asian American Center for Advancing Justice. A Community of Contrasts–
+Asian Americans in the United States: 2011. Washington, DC: Asian 
+American Center for Advancing Justice; 2011:1–68.
+	
+2.	 US Census Bureau. 2010 Census Shows Asians are Fastest-Growing Race 
+Group. http://2010.census.gov/news/releases/operations/cb12-cn22.html. 
+Accessed September 1, 2012.
+	
+3.	 American Community Survey. 2007–2009 3-Year Estimates, S0201: 
+Selected Population Profile in the United States. http://factfinder2.census.
+gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_09_3YR_
+S0201&prodType=table. Accessed June 17, 2013.
+	
+4.	 California Health Interview Survey. CHIS 2007 Adult Public Use File. Los 
+Angeles, CA: UCLA Center for Health Policy Research; 2009.
+	
+5.	 Tseng W, McDonnell DD, Ho W, Lee C, Wong S. Ethnic Health Assessment 
+for Asian Americans, Native Hawaiians and Pacific Islanders in California. 
+Prepared for the California Program on Access to Care (CPAC). Berkeley, CA: 
+UC Berkeley School of Public Health; 2010.
+	
+6.	 Pew Research Center. The Rise of Asian Americans. Washington, DC: Pew 
+Research Center; 2012.
+	
+7.	 Asian Pacific American Legal Center of Southern California, Asian Law 
+Caucus, National Asian Pacific American Legal Consortium. The Diverse 
+Face of Asians and Pacific Islanders in California. Asian & Pacific Islander 
+Demographic Profile. Los Angeles: Asian Pacific American Legal Center of 
+Southern California; 2005.
+	
+8.	 Gomez SL, Glaser SL, Kelsey JL, Lee MM, Sidney S. Immigration and 
+acculturation in relation to health and health-related risk factors among 
+specific Asian subgroups in a health maintenance organization. Am J Public 
+Health. 2004;94(11):1977–84.
+	
+9.	 Kuo J, Porter K. Health Status of Asian American: United States, 1992–94: 
+Vital and Health Statistics. Hyattsville, MD: Centers for Disease Control 
+and Prevention, National Center for Health Statistics; 1998.
+	 10.	 Ponce NA, Tseng W, Ong P, Shek YL, Ortiz S, Gatchell M. The State of 
+Asian American, Native Hawaiian and Pacific Islander Health in California 
+Report. Sacramento, CA: California Asian Pacific Islander Joint Legislative 
+Caucus; 2009.
+	 11.	 Takaki R. Strangers from a Different Shore: a History of Asian Americans. New 
+York: Penguin Books; 1989.
+	 12.	 Frisbie WP, Cho Y, Hummer RA. Immigration and the health of 
+Asian and Pacific Islander adults in the United States. Am J Epidemiol. 
+2001;153(4):372–380.
+	 13.	 Gomez SL, Quach T, Horn-Ross PL, et  al. Hidden breast cancer dis-
+parities in Asian women: disaggregating incidence rates by ethnicity and 
+migrant status. Am J Public Health. 2010;100(Suppl 1):S125–S131.
+	 14.	 Gomez SL, Tan S, Keegan TH, Clarke CA. Disparities in mammographic 
+screening for Asian women in California: a cross-sectional analysis to iden-
+tify meaningful groups for targeted intervention. BMC Cancer. 2007;7:201.
+	 15.	 Srinivasan S, Guillermo T. Toward improved health: disaggregating Asian 
+American and Native Hawaiian/Pacific Islander data. Am J Public Health. 
+2000;90(11):1731–1734.
+	 16.	 Chang ET, Keegan TH, Gomez SL, et al. The burden of liver cancer in 
+Asians and Pacific Islanders in the Greater San Francisco Bay Area, 1990 
+through 2004. Cancer. 2007;109(10):2100–2108.
+	 17.	 Chang ET, Yang J, Alfaro-Velcamp T, So SK, Glaser SL, Gomez SL. 
+Disparities in liver cancer incidence by nativity, acculturation, and soci-
+oeconomic status in California Hispanics and Asians. Cancer Epidemiol 
+Biomarkers Prev. 2010;19(12):3106–3118.
+	 18.	 Chen MS Jr. Cancer health disparities among Asian Americans: what we do 
+and what we need to do. Cancer. 2005;104(12 Suppl):2895–2902.
+	 19.	 Chu KC. Cancer data for Asian Americans and Pacific Islanders. Asian Am 
+Pacific Isl J Health. 1998;6(2):130–139.
+	 20.	 Clarke CA, Glaser SL, Gomez SL, Wang SS, Keegan TH, Yang J, 
+Chang ET. Lymphoid malignancies in U.S. Asians: incidence rate differ-
+ences by birthplace and acculturation. Cancer Epidemiol Biomarkers Prev. 
+2011;20(6):1064–1077.
+	 21.	 Cook LS, Goldoft M, Schwartz SM, Weiss NS. Incidence of adenocar-
+cinoma of the prostate in Asian migrants to the United States and their 
+descendants. J Urol. 1998;161(1):152–155.
+	 22.	 Carreon JD, Morton LM, Devesa SS, et al. Incidence of lymphoid neo-
+plasms by subtype among six Asian ethnic groups in the United States, 
+1996–2004. Cancer Causes Control. 2008;19(10):1171–1181.
+	 23.	 Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast 
+cancer incidence rates among Asian-American women. Int J Cancer. 
+2002;99(5):747–750.
+	 24.	 Epplein M, Schwartz SM, Potter JD, Weiss NS. Smoking-adjusted lung 
+cancer incidence among Asian-Americans (United States). Cancer Causes 
+Control. 2005;16(9):1085–1090.
+	 25.	 Flood DM, Weiss NS, Cook LS, Emerson JC, Schwartz SM, Potter JD. 
+Colorectal cancer incidence in Asian migrants to the United States and 
+their descendants. Cancer Causes Control. 2000;11(5):403–411.
+	 26.	 Gale RP, Cozen W, Goodman MT, Wang FF, Bernstein L. Decreased 
+chronic lymphocytic leukemia incidence in Asians in Los Angeles County. 
+Leuk Res. 2000;24(8):665–669.
+	 27.	 Giddings BH, Kwong SL, Parikh-Patel A, Bates JH, Snipes KP. Going 
+against the tide: increasing incidence of colorectal cancer among Koreans, 
+Filipinos, and South Asians in California, 1988–2007. Cancer Causes Control. 
+2012;23(5):691–702.
+	 28.	 Glaser SL, Hsu JL. Hodgkin’s disease in Asians: incidence patterns and risk 
+factors in population-based data. Leuk Res. 2002;26(3):261–269.
+	 29.	 Goggins WB, Wong G. Cancer among Asian Indians/Pakistanis living 
+in the United States: low incidence and generally above average survival. 
+Cancer Causes Control. 2009;20(5):635–643.
+	 30.	 Gomez SL, Aroner SA, Lee MM, West DW. Epidemiology of Cancer in 
+Asian Americans. In: Abesamis-Mendoza N, Ho-Asjoe H, Bateman WB, 
+eds. Handbook of Asian American Health: Taking Notice and Taking Action. 
+Westport, CT: Greenwood Publishing Group; 2010.
+	 31.	 Horn-Ross PL, McClure LA, Chang ET, et al. Papillary thyroid cancer 
+incidence rates vary significantly by birthplace in Asian American women. 
+Cancer Causes Control. 2011;22(3):479–485.
+	 32.	 Kamineni A, Williams MA, Schwartz SM, Cook LS, Weiss NS. The inci-
+dence of gastric carcinoma in Asian migrants to the United States and their 
+descendants. Cancer Causes Control. 1999;10(1):77–83.
+	 33.	 Keegan TH, Gomez SL, Clarke CA, Chan JK, Glaser SL. Recent trends in 
+breast cancer incidence among 6 Asian groups in the Greater Bay Area of 
+Northern California. Int J Cancer. 2007;120(6):1324–1329.
+	 34.	 Liao CK, Rosenblatt KA, Schwartz SM, Weiss NS. Endometrial cancer in 
+Asian migrants to the United States and their descendants. Cancer Causes 
+Control. 2003;14(4):357–360.
+	 35.	 McCracken M, Olsen M, Chen MS Jr, et al. Cancer incidence, mortal-
+ity, and associated risk factors among Asian Americans of Chinese, 
+Filipino, Vietnamese, Korean, and Japanese ethnicities. CA Cancer J Clin. 
+2007;57(4):190–205.
+	 36.	 Miller BA, Chu KC, Hankey BF, Ries LA. Cancer incidence and mortality 
+patterns among specific Asian and Pacific Islander populations in the U.S. 
+Cancer Causes Control. 2008;19(3):227–256.
+	 37.	 Raz DJ, Gomez SL, Chang ET, Kim JY, Keegan TH, Pham J, Kukreja 
+J, Hiatt RA, Jablons DM. Epidemiology of non-small cell lung cancer in 
+Asian Americans: incidence patterns among six subgroups by nativity. J 
+Thorac Oncol. 2008;3(12):1391–1397.
+	 38.	 Reynolds P, Hurley S, Goldberg D, Quach T, Rull R, Von Behren J. An 
+excess of breast cancer among young California-born Asian women. Ethn 
+Dis. 2011;21(2):196–201.
+	 39.	 Wang SS, Carreon JD, Gomez SL, Devesa SS. Cervical cancer incidence 
+among 6 asian ethnic groups in the United States, 1996 through 2004. 
+Cancer. 2010;116(4):949–956.
+	 40.	 Glaser SL, Clarke CA, Gomez SL, O’Malley CD, Purdie DM, West DW. 
+Cancer surveillance research: a vital subdiscipline of cancer epidemiology. 
+Cancer Causes and Control. 2005;16(9):1009–1019.
+	 41.	 Howe HL, Edwards BK, Young JL, et al. A vision for cancer incidence sur-
+veillance in the United States. Cancer Causes Control. 2003;14(7):663–672.
+	 42.	 Wingo PA, Howe HL, Thun MJ, et al. A national framework for cancer sur-
+veillance in the United States. Cancer Causes Control. 2005;16(2):151–170.
+	 43.	 Kwong SL, Chen MS Jr, Snipes KP, Bal DG, Wright WE. Asian subgroups 
+and cancer incidence and mortality rates in California. Cancer. 2005;104(12 
+Suppl):2975–2981.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1109
+jnci.oxfordjournals.org
+	 44.	 Liu L, Zhang J, Wu AH, Pike MC, Deapen D. Invasive breast can-
+cer incidence trends by detailed race/ethnicity and age. Int J Cancer. 
+2012;130(2):395–404.
+	 45.	 Chang ET, Shema SJ, Wakelee HA, Clarke CA, Gomez SL. Uncovering 
+disparities in survival after non-small-cell lung cancer among Asian/Pacific 
+Islander ethnic populations in California. Cancer Epidemiol Biomarkers Prev. 
+2009;18(8):2248–2255.
+	 46.	 Deapen D, Cockburn M. Trends in Cancer Incidence in Los Angeles County by 
+Race/Ethnicity, 1976–2000. Los Angeles, CA: Cancer Surveillance Program; 
+2003.
+	 47.	 National Cancer Institute. Surveillance Epidemiology and End Results Web 
+Site. http://seer.cancer.gov/registries/. Accessed June 4, 2013.
+	 48.	 Gomez SL, Le GM, West DW, Satariano WA, O’Connor L. Hospital 
+policy and practice regarding the collection of data on race, ethnicity, and 
+birthplace. Am J Public Health. 2003;93(10):1685–1688.
+	 49.	 Gomez SL, Satariano W, Le GM, Weeks P, McClure L, West DW. 
+Variability among hospitals and staff in collection of race, ethnicity, birth-
+place, and socioeconomic information in the Greater San Francisco Bay 
+Area. J Reg Management. 2009;36:105–110.
+	 50.	 Adamo MB, Johnson CH, Ruhl JL, Dickie LA. 2010 SEER Program Coding 
+and Staging Manual. NIH Publication number 10–5581. Bethesda, MD: 
+NIH; 2010.
+	 51.	 US Census Bureau. Public-Use Microdata Samples (PUMS). 1990 Census 
+of Population and Housing. http://www.census.gov/main/www/pums.html. 
+Accessed January 1, 2011.
+	 52.	 American Cancer Society, Cancer Research Center of Hawai’i, Hawai’i 
+State Department of Health. Hawai’i Cancer Fact & Figures 2010. http://
+www.uhcancercenter.org/research/research-highlightsreports. 
+Accessed 
+February 4, 2013.
+	 53.	 Centers for Disease Control, National Center for Health Statistics, National 
+Vital Statistics System. U.S. Census Populations With Bridged Race Categories. 
+http://www.cdc.gov/nchs/nvss/bridged_race.htm. Accessed January 1, 2012.
+	 54.	 National Cancer Institute. Surveillance, Epidemiology, and End Results 
+(SEER) Program. Statistical Resources. U.S. Population Data 1969–2008. 
+http://seer.cancer.gov/popdata/. Accessed January 1, 2012.
+	 55.	 US Census Bureau. Appendix H. Characteristic Iterations. Census 2000 
+Summary File 2 Technical Documentation, U.S. Census Bureau, 2001, p H-1. 
+http://www.census.gov/prod/cen2000/doc/sf2.pdf. Accessed January 1, 
+2011.
+	 56.	 Brillinger DR. The natural variability of vital rates and associated statistics. 
+Biometrics. 1986;42(4):693–734.
+	 57.	 Devesa SS, Donaldson J, Fears T. Graphical presentation of trends in rates. 
+Am J Epidemiol. 1995;141(4):300–304.
+	 58.	 Jatoi I, Anderson WF, Rao SR, Devesa SS. Breast cancer trends 
+among black and white women in the United States. J Clin Oncol. 
+2005;23(31):7836–7841.
+	 59.	 Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for joinpoint 
+regression with applications to cancer rates. Stat Med. 2000;19(3):335–351; 
+correction: 2001;20(4):655.
+	 60.	 Fay MP, Tiwari RC, Feuer EJ, Zou Z. Estimating average annual percent 
+change for disease rates without assuming constant change. Biometrics. 
+2006;62(3):847–854.
+	 61.	 California Health Interview Survey. AskCHIS. 2009 Data. http://chis.ucla.
+edu. Accessed February 1, 2012.
+	 62.	 Chang ET, Sue E, Zola J, So SK. 3 For Life: a model pilot program to 
+prevent hepatitis B virus infection and liver cancer in Asian and Pacific 
+Islander Americans. Am J Health Promot. 2009;23(3):176–181.
+	 63.	 Chao SD, Chang ET, Le PV, Prapong W, Kiernan M, So SK. The Jade 
+Ribbon Campaign: a model program for community outreach and educa-
+tion to prevent liver cancer in asian americans. J Immigr Minor Health. 
+2009;11(4):281–290.
+	 64.	 Welch HG, Albertsen PC. Prostate cancer diagnosis and treatment after 
+the introduction of prostate-specific antigen screening: 1986–2005. J Natl 
+Cancer Inst. 2009;101(19):1325–1329.
+	 65.	 Namiki M, Akaza H, Lee SE, et  al. Prostate Cancer Working Group 
+report. Jpn J Clin Oncol. 2010;40(Suppl 1):70–75.
+	 66.	 Park SK, Sakoda LC, Kang D, et al. Rising prostate cancer rates in South 
+Korea. Prostate 2006;66(12):1285–1291.
+	 67.	 Edwards BK, Ward E, Kohler BA, et al. Annual report to the nation on the 
+status of cancer, 1975–2006, featuring colorectal cancer trends and impact 
+of interventions (risk factors, screening, and treatment) to reduce future 
+rates. Cancer. 2010;116(3):544–573.
+	 68.	 Clarke CA, Glaser SL. Declines in breast cancer after the WHI: apparent 
+impact of hormone therapy. Cancer Causes Control. 2007;18(8):847–852.
+	 69.	 Kurian AW, Clarke CA, Carlson RW. The decline in breast cancer inci-
+dence: real or imaginary? Curr Oncol Rep. 2009;11(1):21–28.
+	 70.	 Robbins AS, Clarke CA. A decline in breast-cancer incidence. N Engl J 
+Med 2007;357(5):511–512; author reply 513.
+	 71.	 Shin HR, Joubert C, Boniol M, et al. Recent trends and patterns in breast 
+cancer incidence among Eastern and Southeastern Asian women. Cancer 
+Causes Control. 2010;21(11):1777–1785.
+	 72.	 Ziegler RG, Anderson WF, Gail MH. Increasing breast can-
+cer incidence in China: the numbers add up. J Natl Cancer Inst. 
+2008;100(19):1339–1341.
+	 73.	 Wu AH, Wan P, Hankin J, Tseng CC, Yu MC, Pike MC. Adolescent and 
+adult soy intake and risk of breast cancer in Asian-Americans. Carcinogenesis. 
+2002;23(9):1491–1496.
+	 74.	 Wu AH, Yu MC, Tseng CC, Hankin J, Pike MC. Green tea and risk of 
+breast cancer in Asian Americans. Int J Cancer. 2003;106(4):574–579.
+	 75.	 Wu AH, Yu MC, Tseng CC, Stanczyk FZ, Pike MC. Dietary pat-
+terns and breast cancer risk in Asian American women. Am J Clin Nutr. 
+2009;89(4):1145–1154.
+	 76.	 Wu AH, Ziegler RG, Horn-Ross PL, et  al. Tofu and risk of breast 
+cancer in Asian-Americans. Cancer Epidemiol Biomarkers Prev. 
+1996;5(11):901–906.
+	 77.	 Wu AH, Ziegler RG, Nomura AM, et al. Soy intake and risk of breast 
+cancer in Asians and Asian Americans. Am J Clin Nutr. 1998;68(6 
+Suppl):1437S–1443S.
+	 78.	 Wu AH, Ziegler RG, Pike MC, et  al. Menstrual and reproduc-
+tive factors and risk of breast cancer in Asian-Americans. Br J Cancer. 
+1996;73(5):680–686.
+	 79.	 Ziegler RG, Hoover RN, Nomura AM, et  al. Relative weight, weight 
+change, height, and breast cancer risk in Asian- American women. J Natl 
+Cancer Inst. 1996;88(10):650–660.
+	 80.	 Ziegler RG, Hoover RN, Pike MC, et  al. Migration patterns and 
+breast cancer risk in Asian-American women. J Natl Cancer Inst. 
+1993;85(22):1819–1827.
+	 81.	 Centers for Disease Control and Prevention. Cancer screening—United 
+States, 2010. MMWR Morb Mortal Wkly Rep. 2012;61(3):41–45.
+	 82.	 Centers for Disease Control and Prevention. State-specific trends in lung 
+cancer incidence and smoking—United States, 1999–2008. MMWR Morb 
+Mortal Wkly Rep. 2011;60(36):1243–1247.
+	 83.	 Barnoya J, Glantz S. Association of the California tobacco control pro-
+gram with declines in lung cancer incidence. Cancer Causes Control 
+.2004;15(7):689–695.
+	 84.	 Glenn BA, Chawla N, Surani Z, Bastani R. Rates and sociodemographic 
+correlates of cancer screening among South Asians. J Community Health. 
+2009;34(2):113–121.
+	 85.	 Maxwell AE, Bastani R, Warda US. Demographic predictors of cancer 
+screening among Filipino and Korean immigrants in the United States. 
+Am J Prev Med. 2000;18(1):62–68.
+	 86.	 Misra R, Menon U, Vadaparampil ST, BeLue R. Age- and sex-specific can-
+cer prevention and screening practices among asian Indian immigrants in 
+the United States. J Investig Med. 2011;59(5):787–792.
+	 87.	 Maxwell AE, Crespi CM. Trends in colorectal cancer screening utiliza-
+tion among ethnic groups in California: are we closing the gap? Cancer 
+Epidemiol Biomarkers Prev. 2009;18(3):752–759.
+	 88.	 Wong ST, Gildengorin G, Nguyen T, Mock J. Disparities in colorectal 
+cancer screening rates among Asian Americans and non-Latino whites. 
+Cancer. 2005;104(12 Suppl):2940–2497.
+	 89.	 Duong LM, Wilson RJ, Ajani UA, Singh SD, Eheman CR. Trends in endo-
+metrial cancer incidence rates in the United States, 1999–2006. J Womens 
+Health (Larchmt). 2011;20(8):1157–1163.
+	 90.	 Sabatino SA, Stewart SL, Wilson RJ. Racial and ethnic variations in the 
+incidence of cancers of the uterine corpus, United States, 2001–2003. J 
+Womens Health (Larchmt). 2009;18(3):285–294.
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Vol. 105, Issue 15  |  August 7, 2013
+1110  Articles  |  JNCI
+	 91.	 Merrill RM. Impact of hysterectomy and bilateral oophorectomy on race-
+specific rates of corpus, cervical, and ovarian cancers in the United States. 
+Ann Epidemiol. 2006;16(12):880–887.
+	 92.	 Lacey JV Jr, Chia VM, Rush BB, et  al. Incidence rates of endometrial 
+hyperplasia, endometrial cancer and hysterectomy from 1980 to 2003 
+within a large prepaid health plan. Int J Cancer. 2012;131(8):1921–1929.
+	 93.	 Cramer DW. The epidemiology of endometrial and ovarian cancer. 
+Hematol Oncol Clin North Am. 2012;26(1):1–12.
+	 94.	 Singh GK, Siahpush M, Hiatt RA, Timsina LR. Dramatic increases in obe-
+sity and overweight prevalence and body mass index among ethnic-immi-
+grant and social class groups in the United States, 1976–2008. J Community 
+Health. 2011;36(1):94–110.
+	 95.	 Lee JW, Brancati FL, Yeh HC. Trends in the prevalence of type 2 diabetes 
+in Asians versus whites: results from the United States National Health 
+Interview Survey, 1997–2008. Diabetes Care. 2011;34(2):353–357.
+	 96.	 Ye J, Rust G, Baltrus P, Daniels E. Cardiovascular risk factors among 
+Asian Americans: results from a National Health Survey. Ann Epidemiol. 
+2009;19(10):718–723.
+	 97.	 Clegg LX, Reichman ME, Hankey BF, et  al. Quality of race, Hispanic 
+ethnicity, and immigrant status in population-based cancer registry 
+data: implications for health disparity studies. Cancer Causes Control. 
+2007;18(2):177–187.
+	 98.	 Gomez SL, Glaser SL, Kelsey JL, Lee MM, Sidney S. Inconsistencies 
+between self-reported ethnicity and ethnicity recorded in a health mainte-
+nance organization. Annals of Epidemiology. 2005;15(1):71–79.
+	 99.	 Moscou S, Anderson MR, Kaplan JB, Valencia L. Validity of racial/ethnic 
+classifications in medical records data: an exploratory study. Am J Public 
+Health. 2003;93(7):1084–1086.
+	100.	 Polednak AP. Collecting information on race, Hispanic ethnicity, and 
+birthplace of cancer patients: policies and practices in Connecticut hospi-
+tals. Ethn Dis. 2005;15(1):90–96.
+	101.	 West CN, Geiger AM, Greene SM, et  al. Race and ethnicity: com-
+paring medical records to self-reports. J Natl Cancer Inst Monogr. 
+2005(35):72–74.
+	102.	 Gomez SL, Glaser SL. Misclassification of race/ethnicity in a population-
+based cancer registry. Cancer Causes and Control. 2006;17(6):771–781.
+	103.	 Boscoe FP, Miller BA. Population estimation error and its impact on 1991–
+1999 cancer rates. Professional Geographer. 2004;54(4):516–529.
+	104.	 Howlader N, Noone AM, Krapcho M, et al. SEER Cancer Statistics Review, 
+1975–2009 (Vintage 2009 Populations). Bethesda, MD; National Cancer 
+Institute: 2012. http://seer.cancer.gov/csr/1975_2009_pops09/. Accessed 
+June 4, 2013.
+Funding
+This research was supported by the National Cancer Institute’s SEER Program 
+under contract HHSN261201000140C awarded to the Cancer Prevention 
+Institute of California and under contract HHSN261201100412P awarded 
+to BAM. The collection of cancer incidence data used in this study was sup-
+ported by the California Department of Health Services as part of the state-
+wide cancer reporting program mandated by California Health and Safety 
+Code Section 103885; the National Cancer Institute’s SEER Program under 
+contract HHSN261201000140C awarded to the Cancer Prevention Institute 
+of California, contract HHSN261201000035C awarded to the University of 
+Southern California, and contract HHSN261201000034C awarded to the 
+Public Health Institute; and the Centers for Disease Control and Prevention’s 
+National Program of Cancer Registries, under agreement 1U58 DP000807-01 
+awarded to the Public Health Institute.
+Notes
+The ideas and opinions expressed herein are those of the authors, and endorse-
+ment by the State of California, the California Department of Health Services, 
+the National Cancer Institute, or the Centers for Disease Control and Prevention 
+or their contractors and subcontractors is not intended nor should be inferred.
+Affiliations of authors:Cancer Prevention Institute of California, Fremont, CA 
+(SLG, DYL); Department of Health Research and Policy, School of Medicine, 
+Stanford, CA (SLG); Surveillance Research Program, Division of Cancer 
+Control and Population Sciences, National Cancer Institute, Bethesda, MD 
+(A-MN, BAM); Information Management Services, Silver Spring, MD (SS, 
+JTG); Los Angeles Cancer Surveillance Program, Keck School of Medicine, 
+Los Angeles, CA (LL, DMD); California Cancer Registry, Sacramento, CA 
+(CM, SK); Cancer Registry of Greater California, Sacramento, CA (KF); 
+University of Hawaii Cancer Center, Honolulu, HI (LRW); Department of 
+Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA (DMD).
+Downloaded from https://academic.oup.com/jnci/article/105/15/1096/924698 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+

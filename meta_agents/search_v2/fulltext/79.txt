@@ -1,0 +1,880 @@
+record_id=79 pmid=18065856 doi=
+SOURCE: manual-pdf
+TITLE: Breast cancer among hispanic and non-hispanic white women in Arizona
+
+Breast Cancer among Hispanic and  
+non-Hispanic White Women in Arizona
+María Elena Martínez, MPH, PhD
+Carrie M. Nielson, MPH, PhD
+Ray Nagle, MD, PhD
+Ana Maria Lopez, MD, MPH
+Christina Kim, MD 
+Patricia Thompson, PhD 
+Abstract: Background. Breast cancer in Hispanic women is poorly understood and data on 
+tumor hormone receptor status in this population are limited. Methods. Using data from 
+the Arizona Cancer Registry, we assessed differences in tumor characteristics between His-
+panic and non-Hispanic White (NHW) women using logistic regression modeling. 25,494 
+invasive breast cancer cases (23,657 NHWs and 1,837 Hispanics) reported to the cancer 
+registry in 1995 to 2003 were included in the analysis. Results. In age-adjusted models, 
+compared with NHW women, Hispanics were more likely to have high-grade cancers, 
+larger tumors, a greater number of positive lymph nodes, and advanced stage at diagnosis. 
+Hispanic women were less likely to have tumors that are both estrogen and progesterone 
+receptor positive (ER1/PR1), particularly those under age 60. Conclusions. The profile 
+of tumor presentation in Hispanic women in Arizona is consistent with a more aggressive 
+disease pattern and less favorable prognosis than that of NHWs. 
+Key words: Breast neoplasms; carcinoma, ductal, breast; Hispanics; Mexican Americans; 
+Arizona; southwestern United States.
+R
+ates of breast cancer vary, with incidence and mortality rates in more industrialized 
+nations exceeding those in lower-income countries by a factor of five or more.1 
+In the United States, breast cancer incidence differs significantly among racial/ethnic 
+groups, with rates higher among non-Hispanic Whites (NHWs) and lower among 
+racial/ethnic minority groups, including Hispanics.2 Among Hispanic women, breast 
+cancer is the most commonly diagnosed cancer and is the leading cause of cancer 
+Journal of Health Care for the Poor and Underserved  18 (2007): 130–145.
+Original Paper
+All of the authors are affiliated with the Arizona Cancer Center, University of Arizona (UA), in Tucson. 
+María Elena Martínez is also affiliated with the Mel and Enid Zuckerman Arizona College 
+of Public Health at UA in Tucson. carrie nielson was a Postdoctoral Fellow at the time of the 
+study. Ray Nagle, Patricia Thompson, and Ana Maria Lopez are also affiliated with the 
+Department of Pathology, Ana Maria Lopez with the Department of Medicine, and Christina 
+Kim with the Department of Surgery, all at UA in Tucson. Please address correspondence to María 
+Elena Martínez, MPH, PhD; University of Arizona, Arizona Cancer Center, PO Box 245024, Tucson, 
+AZ; (520) 626-8130; emartinez@azcc.arizona.edu.
+
+131
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+death.3 Data from the Surveillance, Epidemiology, and End Results (SEER) program 
+indicate that for the period of 1992–2002, incidence rates remained stable in both 
+Whites and Hispanics; furthermore, although cancer deaths have declined for both 
+groups, the decline is less pronounced for Hispanics.4 In addition, although breast 
+cancer rates are lower in Hispanic than in NHW women in the U.S.,2 published data 
+indicate that the disease presentation among Hispanic women includes earlier age at 
+diagnosis,5–7 larger tumor size,6 more advanced stage,6–11 higher proportion of adverse 
+prognostic indicators9,12 and co-morbidities,9 and poorer overall survival.8,9,5,7 Reasons 
+for these differences in clinical presentation include lower socioeconomic status lead-
+ing to poor access to health care, cultural factors, population structure, and biological 
+factors resulting in a more aggressive phenotype.2,10,11,13
+Breast tumors can be divided into distinct subtypes,14 partially defined by their hor-
+mone receptor status, which represent biologically distinct malignancies that likely arise 
+from differences in environmental or genetic susceptibility.15 A number of studies have 
+shown that steroid hormone dependent tumors differ with respect to their biology and 
+that these differences are clinically relevant in terms of treatment selection, response, 
+and patient prognosis.16 Furthermore, although most estrogen receptor positive (ER1) 
+tumors are also progesterone receptor positive (PR1) and sensitive to hormone sup-
+pressive therapies, tumors that are ER1/PR- appear to differ in their sensitivity to these 
+agents, particularly the aromatase inhibitors, compared to those that are positive for 
+both receptors,17,18 suggesting heterogeneity within steroid hormone positive tumors. 
+Thus, not unexpectedly, recognized reproductive or hormone-based risk factors also 
+appear to differentially associate with specific disease sub-types when stratified on 
+hormone receptor status.19,20 For example, Ma et al.,19 recently reported that age at first 
+birth and a higher number of children significantly reduced the risk of ER1/PR1 
+but not ER2/PR2 breast cancers. In contrast, breastfeeding and late age at menarche 
+decreased the risk of both receptor subtypes of breast cancer but with a stronger effect 
+size for steroid receptor positive tumors than receptor negative tumors. 
+Little is known about the hormone receptor profile of breast tumors of Hispanic 
+women in the U.S. Results based on national registry data indicate that Hispanic women 
+with breast cancer may be less likely to have hormone receptor positive tumors than 
+NHWs,10,21,22 and less frequently have hormone receptor status determined.22 These 
+results are similar to those previously reported for African American women, who suffer 
+the highest relative mortality from breast cancer across all racial/ethnic groups.23 
+Given the clear evidence for considerable diversity among breast tumors in terms of 
+etiology, biology, and clinical significance, it is important to identify the type-specific 
+presentation of breast cancer in diverse populations in order to gain a better under-
+standing of the disease spectrum within and between populations. Given the paucity of 
+information on characteristics of invasive breast cancers diagnosed in Hispanic women 
+in the U.S., we used data from the Arizona Cancer Registry to assess differences in 
+age, stage, histological grade and type, tumor size, as well as hormone receptor status 
+between Hispanic and NHW women. 
+
+132
+Breast cancer among women in Arizona
+Methods
+Data were obtained from incident breast cancer cases reported to the Arizona Cancer 
+Registry, which is part of the Centers for Disease Control and Prevention’s National 
+Program of Cancer Registries. The registry is a member of the North American 
+Association of Central Cancer Registries, which sets standards for data quality.24 All 
+hospitals, clinics, and physicians in Arizona report cancer cases, clinical characteris-
+tics, and selected demographic information for cases to the Arizona Cancer Registry. 
+Analysis was limited to female invasive breast cancer cases whose racial/ethnic group 
+was either NHW or Hispanic (of any race), who were 18 years of age or older, and 
+who had complete and quality-checked data available for the period from January 1, 
+1995 to December 31, 2003. 
+Age at diagnosis and Hispanic ethnicity of the cases were collected from case report 
+forms submitted to the Arizona Cancer Registry, which are reported directly by the 
+hospitals, clinics, or physicians. Ethnicity data were missing from the case report 
+for 10.5% of invasive breast cancer cases. Of these, 5.3% could be inferred based on 
+surname using the Generally Useful Ethnic Search System (GUESS) developed by the 
+New Mexico Tumor Registry,25 and the remaining 5.2% could not be classified and 
+were excluded from the analyses. Tumor characteristics collected from case reports 
+include the following: tumor size, histology, number of positive lymph nodes, number 
+of lymph nodes examined, histologic grade and stage, histologic type, and ER and PR 
+status. Using number of lymph nodes examined and number of positive nodes, the 
+nodal ratio (i.e., percentage of positive nodes) was calculated by the investigators.26 
+Stage at diagnosis was classified according to the SEER summary staging criteria.27 
+Grade was reported as well-differentiated (grade 1), moderately differentiated (grade 
+2), and poorly differentiated or undifferentiated (grade 3). Histological types were clas-
+sified according to the International Classification of Diseases for Oncology, Second 
+and Third Editions (ICD-O-2 and ICD-O-3, respectively),28,29 where cases diagnosed 
+from 1995 to 2000 were coded using ICD-O-2 and those diagnosed from 2001 to 
+2003 were coded using ICD-O-3. These codes were used to categorize the cases into 
+seven invasive histologic type categories: ductal carcinoma, lobular carcinoma, mixed 
+ductal/lobular carcinoma, tubular adenocarcinoma or cribriform carcinoma, medullary 
+carcinoma, mucinous adenocarcinoma, and inflammatory carcinoma. A category of 
+other invasive histological types was created, which included adenoid cystic carcinoma, 
+adenosquamous carcinoma, apocrine adenocarcinoma, metaplastic carcinoma, secretory 
+carcinoma, and squamous cell carcinoma not further specified. Where the histological 
+type code used was too vague to be categorized (e.g., neoplasm or carcinoma with no 
+other specification of type), the cases were classified as Other/Unclassified. Twenty-nine 
+cases of lymphoma were excluded. For the analyses of ER and PR status, borderline 
+data were excluded. 
+Associations between Hispanic ethnicity and invasive breast cancer characteristics 
+were evaluated by multinomial logistic regression using the Stata version 9.2 statistical 
+software (College Station, TX). Ethnicity was modeled as the independent variable and 
+non-Hispanic Whites served as the reference group. Odds were defined against one 
+category of the dependent variable (i.e., tumor characteristics), which serves as the 
+
+133
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+contrast for all other categories. Given the difference in the age distributions between 
+Hispanics and NHWs and because several breast cancer characteristics are known to 
+be associated with age,30–32 odds ratios (ORs) and 95% confidence intervals (CIs) are 
+adjusted for age at diagnosis by including age as a continuous variable in the models. 
+Results
+A total of 25,494 cases (23,657 NHWs and 1,837 Hispanics) comprised the study 
+population of invasive breast cancer cases. Age and clinical characteristics of the study 
+population according to Hispanic ethnicity are presented in Table 1. Although all char-
+acteristics were statistically different between the two ethnic groups, these were largely 
+driven by the large sample size and were not noted in the table. Hispanic women with 
+invasive breast cancer were more likely to be younger than NHWs; the mean, median, 
+and interquartile range values are 56.3, 55, and 46–67 years, respectively, for Hispan-
+ics and 63.4, 65, and 53–74 for NHWs (p,.0001). A greater proportion of Hispanic 
+compared to NHW women had poorly or undifferentiated cancers, larger size tumors, 
+a higher number of positive lymph nodes, and higher percentage of distant disease. 
+Although the proportion of unknown or missing data varies across specific character-
+istics, this was not materially different between Hispanic and NHW cases. 
+Table 2 presents the distribution of data for hormone receptor status for Hispanic 
+and NHW women. We present the data as reported by the registry in order to gain 
+Table 1. 
+AGE AND CLINICAL CHARACTERISTICS OF WOMEN 
+DIAGNOSED WITH INVASIVE BREAST CANCER:  
+ARIZONA CANCER REGISTRY, 1995–2003
+	
+Non-Hispanic Whites 	
+Hispanics 
+Characteristic	
+(n523,657)	
+(n51,837)
+Age at diagnosis, years n (%)	
+	
+	 18–39	
+991 (4.2)	
+207 (11.3)
+	 40–49	
+3,269 (13.8)	
+453 (24.7)
+	 50–59	
+4,983 (21.1)	
+441 (24.0)
+	 60–69	
+5,678 (24.0)	
+372 (20.3)
+	 70–79	
+5,965 (25.2)	
+263 (14.3)
+	 801	
+2,771 (11.7)	
+101 (5.5)
+Mean age at diagnosis (s.d.)	
+ 63.4 (13.7)	
+ 56.3 (13.8)
+Tumor grade, n (%)	
+	
+	 Grade 1 (well differentiated)	
+4,387 (18.5)	
+209 (11.4)
+	 Grade 2 (moderately differentiated)	
+8,587 (36.3)	
+595 (32.4)
+	 Grade 3 (poorly or undifferentiated)	
+7,155 (30.2)	
+715 (38.9)
+	 Unknown 	
+3,528 (14.9)	
+318 (17.3)
+(Continued on p. 134)
+
+134
+Breast cancer among women in Arizona
+an appreciation of their full range of reporting, including unknown and missing data. 
+Using cases with complete data on receptor status, results show that women of Hispanic 
+ethnicity have a lower proportion of ER and PR positive tumors than NHW women. 
+We next conducted age-adjusted polytomous regression models for stage, size of 
+tumor, grade, and histology type in relation to Hispanic ethnicity (Table 3). Com-
+pared with NHW women, Hispanics are significantly more likely to be diagnosed with 
+moderately differentiated (OR51.38; 95% CI51.17–1.62) or poorly differentiated or 
+Size of primary tumor, n(%)
+	 ,1 cm	
+4,061 (17.2)	
+210 (11.4)
+	 $ 1 and ,2 cm 	
+8,602 (36.4)	
+556 (30.3)
+	 $2 and ,5 cm 	
+7,304 (30.9)	
+695 (37.8)
+	 $5 cm	
+1,356 (5.7)	
+170 (9.3)
+	 Unknown, microscopic only, diffuse,
+	   or no mass found	
+2,334 (9.9)	
+206 (11.2)
+Mean size (s.d.) 	
+ 2.1 (1.9)	
+ 2.5 (2.5)
+Number of positive lymph nodes, n (%)
+	 0	
+ 13,379 (56.6)	
+863 (47.0)
+	 1–3	
+4,163 (17.6)	
+413 (22.5)
+	 4–9	
+1,560 (6.6)	
+155 (8.4)
+	 $10	
+782 (3.3)	
+ 89 (4.8)
+	 Unknown/not done	
+3,773 (16.0)	
+317 (17.3)
+Mean nodal ratioa (s.d.) 	
+ .11 (0.23)	
+ .15 (0.26)
+Stage, n (%)
+	 Local	
+ 14,798 (62.6)	
+945 (51.4)
+	 Regional	
+6,819 (28.8)	
+696 (37.9)
+	 Distant	
+682 (2.9)	
+ 76 (4.1)
+	 Unknown	
+1,358 (5.7)	
+120 (6.5)
+Histology, n (%)
+	 Ductal	
+ 17,545 (74.2)	
+1,454 (79.2)
+	 Lobular	
+2,689 (11.4)	
+142 (7.7)
+	 Mixed ductal/lobular	
+1,926 (8.1)	
+116 (6.3)
+	 Tubular or cribriform	
+369 (1.6)	
+ 12 (0.7)
+	 Medullary	
+195 (0.8)	
+ 37 (2.0)
+	 Mucinous	
+679 (2.9)	
+ 47 (2.6)
+	 Inflammatory	
+141 (0.6)	
+ 19 (1.0)
+	 Other invasiveb	
+113 (0.5)	
+ 10 (0.5)
+aRatio represents positive/examined.
+bIncludes adenoid cystic carcinoma, adenosquamous carcinoma, apocrine adenocarcinoma, metaplastic 
+carcinoma, secretory carcinoma, and squamous cell carcinoma not further specified.
+Table 1 (continued). 
+	
+Non-Hispanic Whites 	
+Hispanics 
+Characteristic	
+(n523,657)	
+(n51,837)
+
+135
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+undifferentiated disease (OR51.74; 95% CI51.48–2.04), with tumors 5 cm or larger 
+in size (OR52.18; 95% CI51.76–2.70), with a higher number of positive lymph nodes 
+(OR51.57; 95% CI51.25–1.98 for $10 positive nodes vs. none), and with distant 
+disease (OR51.65; 95% CI51.29–2.12). As noted in the methods, we categorized the 
+reported invasive cancer histological types into seven groups and an other category. 
+Using ductal invasive carcinomas as the referent group, Hispanic women were signifi-
+cantly less likely than NHW women to have lobular (OR5.73; 95% CI5.61–.87), mixed 
+ductal and lobular (OR5.77; 95% CI5.63–.93), and tubular or cribriform histological 
+types (OR5.42; 95% CI5.24–.75). However, the proportion of medullary invasive 
+breast cancer was significantly higher in Hispanics than in NHWs (OR51.82; 95% 
+Table 2. 
+HORMONE RECEPTOR STATUS OF WOMEN  
+DIAGNOSED WITH INVASIVE BREAST CANCER:  
+ARIZONA CANCER REGISTRY, 1995–2003
+	
+Non-Hispanic Whites 	
+Hispanics 
+Receptor status	
+(n523,657)	
+(n51,837)
+ER status, n (% of all cases)	
+	
+	 Positive	
+13,520 (57.2)	
+931 (50.7)
+	 Negative	
+3,499 (14.8)	
+385 (21.0)
+	 Borderline	
+33 (.1)	
+ 5 (.3)
+	 Ordered, results unknown	
+816 (3.5)	
+63 (3.4)
+	 Testing not done	
+942 (4.0)	
+97 (5.3)
+	 Unknown/no data	
+4,847 (20.5)	
+356 (19.4)
+ER1, n (% of known results)a	
+13,553 (79.5)	
+936 (70.9)
+ER2, n (% of known results)	
+3,499 (20.5)	
+385 (29.1)
+PR status, n (% of all cases)	
+	
+	 Positive	
+11,606 (49..06)	
+786 (42.8)
+	 Negative	
+5,244 (22.17)	
+519 (28.3)
+	 Borderline	
+59 (.25)	
+11 (.6)
+	 Ordered, results unknown	
+816 (3.45)	
+64 (3.5)
+	 Testing not done	
+947 (4.0)	
+94 (5.1)
+	 Unknown/no data	
+4,985 (21.07)	
+363 (19.8) 
+PR1, n (% of known results)	
+11,665 (69.0)	
+797 (60.6)
+PR2, n (% of known results)	
+5,244 (31.0)	
+519 (39.4)
+ER and PR positive,
+	 n (% of known results)	
+11,167 (66.8)	
+762 (58.4)
+aKnown results indicate test was done and result was positive or negative (excludes borderline).
+ER 5 estrogen receptor
+PR 5 progesterone receptor
+
+137
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+CI51.27–2.62). No significant differences were shown for mucinous or inflammatory 
+breast cancers. 
+Associations for hormone receptor status show that breast cancers diagnosed in His-
+panic women are approximately 25% less likely to be positive for ER or PR than those 
+diagnosed in NHWs (Table 4). In our analysis of the different receptor combinations, 
+using women negative for ER and PR (ER2/PR2), Hispanic women were less likely to 
+have ER1/PR2 (OR5.82), ER2/PR1 (OR5.65), and ER1/PR1 (OR50.69) tumors. 
+Because we observed differences in age as well as hormone receptor status between 
+the two ethnic groups, we assessed whether the differences in ER/PR receptor status 
+differed by age. As shown in Figure 1, larger and more uniform differences in hormone 
+receptor status are shown for women younger than 60 years of age. 
+Discussion
+Although breast cancer incidence and mortality rates are lower in Hispanic than in 
+NHW women, the most recent data from the American Cancer Society indicate that 
+Table 4. 
+ODDS RATIOS FOR ESTROGEN RECEPTOR AND 
+PROGESTERONE RECEPTOR STATUS AMONG  
+INVASIVE BREAST CANCER CASES ACCORDING  
+TO HISPANIC ETHNICITY
+	
+Non-Hispanic	
+	
+Odds ratiob 
+Hormone receptor statusa	
+Whites	
+Hispanics	
+(95% CI)
+ER status, n (%)
+  Negative	
+3,499 (20.5)	
+385 (29.1)	
+1.00
+  Positive	
+13,553 (79.5)	
+936 (70.9)	
+.75 (.66–.85)
+PR status, n (%)	
+	
+	
+  Negative	
+5,244 (31.0)	
+519 (39.4)	
+1.00
+  Positive	
+11,665 (69.0)	
+797 (60.6)	
+.74 (.66–.83)
+ER and PR status, n (%)	
+	
+	
+  ER2/PR2	
+3,057 (18.3)	
+355 (27.2)	
+1.00
+  ER1/PR2	
+2,135 (12.8)	
+161 (12.3)	
+.82 (.67–1.00)
+  ER2/PR1	
+352 (2.1)	
+27 (2.1)	
+.65 (.43–.98)
+  ER1/PR1	
+11,167 (66.8)	
+762 (58.4)	
+.69 (.60–.79)
+aSample size varies due to missing or unknown ER or PR values.
+bOdds ratios are adjusted for age at diagnosis using polytomous logistic regression where the indepen-
+dent variable is ethnicity and non-Hispanic Whites serve as the reference category. Odds are defined 
+against one category of the dependent variable, which serves as the contrast for all other categories. 
+N varies due to missing or unknown ER or PR values.
+ER 5 estrogen receptor
+PR 5 progesterone receptor
+
+138
+Breast cancer among women in Arizona
+Hispanic women with breast cancer are 22% more likely to die of their disease than 
+NHWs.4 The higher mortality from breast cancer among Hispanic women might be 
+due to differences in the pattern of prognostic and predictive factors. Results of our 
+analyses corroborate important differences with respect to age, clinical characteristics, 
+and hormone receptor status between Hispanic and NHW women residing in Arizona 
+who present with breast cancer. 
+As has been reported in African American women,23,33–35 our study found that His-
+panic women were more likely to be younger at diagnosis than NHWs. This perhaps 
+reflects differences in the age distribution of the two populations, where the median 
+age of Hispanic females in Arizona is 24.3 and that of NHWs is 41.6 years.36 Early age 
+at diagnosis is associated with poorly differentiated tumor types and low ER and PR 
+positivity.23,37,38 In agreement with published reports,2,6–11,22 results of our data show that 
+women of Hispanic descent diagnosed with breast cancer present with larger tumors, 
+higher grade disease, and more advanced stage. Tumor size and lymph node status are 
+considered to be the two most important prognostic indicators for breast cancer,39,40 
+and along with presence of distant metastasis, provide the basis for the current tumor 
+staging system.41 It is well recognized that survival is substantially lower among women 
+with distant stage disease than those with localized disease.42
+Hormone receptor positive tumors are known to be associated with a more favor-
+able outcome, particularly tumors that are both ER and PR positive, given that this 
+characteristic largely predicts response to hormonal therapies and reflects less ­aggressive 
+Figure 1. Proportion of ER and PR positive invasive breast cancers in Hispanic and 
+non-Hispanic White women according to age.
+ER 5 estrogen receptor
+PR 5 progesterone receptor
+Proportion of known ER/PR results
+Age group (years)
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+ 
+18–39 
+40–49 
+50–59 
+60–69 
+70–79 
+801
+        Non-Hispanic Whites          Hispanics
+
+
+
+139
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+biology.43,44 Few data exist on hormone receptor status in Hispanic breast cancer cases, 
+especially from population-based studies. In our study, Hispanic women were less 
+likely to have tumors that were positive for both ER and PR, which was also shown in 
+the SEER registry data.10,22 Furthermore, when we explored whether a crossover effect 
+occurred around the age of menopause, we found that the difference by hormone 
+receptor status positivity was confined to younger women. The reason for this differ-
+ence is unclear. 
+Our data on histological type indicate that Hispanic women present with a lower 
+proportion of lobular and tubular carcinomas, which are known to be associated with 
+a lower malignant potential.45 We speculate that less common use of postmenopausal 
+hormone replacement therapy among Hispanics46,47 may partly explain the observed 
+lower rates of lobular breast cancer, low grade disease, and tumors with good prognostic 
+features in this population given the recent findings of Borgquist et al.;48 however, this 
+deserves further study. Interestingly, similar to SEER data, Hispanic women in Arizona 
+were more likely than NHWs to be diagnosed with medullary breast carcinomas.22 
+Medullary carcinomas are a rare, pathologic distinct subtype of breast cancer with low 
+ER and PR positivity49 that tend to present in younger women45,50 and that are strongly 
+associated with germ-line or acquired mutations in the BRCA1 gene.45 Paradoxically, 
+despite features of aggressiveness, medullary carcinomas have been associated with a 
+more favorable prognosis.51,52 This may be explained in part by the recent demonstra-
+tion that medullary breast carcinomas have strong basal-like features53 and thus may 
+exhibit enhanced sensitivity to chemotherapy regimens compared with other breast 
+tumor subtypes.54,55 Analyses from SEER data show that while Caucasian women had 
+a significantly lower risk of death from medullary breast carcinomas, this was not the 
+case for African American women.23 This specific disparity in outcome may reflect 
+medical inadequacies and care access impediments affecting underserved populations,56 
+differences in biologic characteristics and behavior of tumors arising in different ethnic 
+groups,57 or a combination of these. At present, the prognosis for Hispanic women with 
+medullary carcinomas is unknown. However, limited access to care and delays and 
+inadequacies in treatment in the Hispanic population may adversely affect outcomes 
+for medullary carcinomas, as has been observed in African American women. 
+For the present study, it is unknown if the observed differences between NHW and 
+Hispanic breast cancer cases are due to differences in the population’s reproductive 
+characteristics, given that these data are not available in the Arizona Cancer Registry. 
+Additionally, using registry data, we are unable to assess the importance of factors such 
+as access to care and other socioeconomic and cultural factors suggested to influence 
+disease outcomes differentially between populations.58,59 Data from the Behavioral 
+Risk Factor Surveillance System (BRFSS) clearly underscore major differences in key 
+determinants of breast cancer outcomes between Hispanics and NHWs in Arizona.60 
+These include lower annual income, lower level of education, and a higher propor-
+tion with no health care coverage among Hispanics than among Whites. Although it 
+has been reported that rates of mammography screening among Hispanics are low, 
+especially among Mexican Americans,61 recent BRFSS data for Arizona do not point 
+to low mammography use (77.6% for Whites and 76.8% for Hispanics) as a major 
+determinant of our findings. 
+
+140
+Breast cancer among women in Arizona
+Whether differences related to poverty, acculturation, and other socioeconomic 
+factors are responsible for differences in disease presentation between Hispanics and 
+NHWs, or whether these differences are biological in nature and reflect the younger age 
+of the population and distinct subtype specific presentation, is a topic of considerable 
+debate. In the Annual Report to the Nation on the Status of Cancer,2 it was noted that 
+the proportion of regional/distant breast cancer increased with increasing poverty index 
+among Hispanics but not NHWs. In addition, Miller et al.,10 found that 50 to 80% of 
+the elevated risk for advanced disease among ethnic minority populations could be 
+explained by sociodemographic factors. However, these results are in contrast to data 
+from Lantz et al.,11 where early-stage breast cancer diagnosis was significantly less com-
+mon in Hispanics than in NHWs independent of socioeconomic factors. More recently, 
+Watlington, et al.13 compared clinical breast cancer characteristics between Hispanic and 
+NHWs in a setting of equal access to care and found differences similar to those found 
+in our study. The authors conclude that their findings support the presence of underly-
+ing biologic differences in the disease between the groups. Understanding the complex 
+dynamic that exist between breast tumor biology in subpopulations (i.e., presence of 
+more aggressive disease types) and the influence of poverty and culture (e.g., inadequate 
+treatment) is essential to effectively reducing disparities between populations. 
+A major strength of our study relates to its population-based design, given that we 
+relied on data reported to the Arizona Cancer Registry. Because 82% of the Hispanic 
+population in Arizona is of Mexican descent,36 this minimizes potential heterogeneity 
+within the Hispanic category related to risk factors and disease outcome; however, this 
+also limits the generalizability of our results to this specific Hispanic group. Limitations 
+of our data also pertain to the incomplete and missing data for several of the charac-
+teristics of interest. Although the proportion of missing data are similar for both ethnic 
+groups, if these missing data reflect a pattern different from those with complete data, 
+our results will be inaccurate. In addition, the lack of standardization for ER and PR 
+expression as well as centralized pathological review is a weakness in the data. 
+Limitations with respect to ascertainment of ethnicity must also be acknowledged. 
+Since data on Hispanic ethnicity are reported to the registry from the health care settings, 
+there is potential for misclassification.62–64 Results of a study conducted in the Greater 
+Bay Area Cancer Registry, a SEER site, show that only 53% of people self-identified as 
+Hispanic (by personal interview) were classified as such by the registry.63 Furthermore, 
+in a recent publication, misclassification was shown to be associated with younger 
+age at diagnosis, having been married, being female, being foreign-born, and cancer 
+diagnosis in a larger hospital,62 variables that are applicable to our study population. 
+Unfortunately, we are unable to assess the extent of misclassification in our population. 
+As noted in the methods, when data are missing for ethnicity (applicable to 10.5% of 
+our study population) the records are run through the GUESS program, which has 
+been shown to be a highly sensitive means of identifying Hispanics of Mexican and 
+Central American descent.63 
+The significance of our study is underscored by the rapid increase in the number 
+of people of Hispanic origin in the U.S. According to the 2004 U.S. Census, Hispan-
+ics became the largest minority group during the preceding decade, with 41.3 million 
+individuals (14% of the overall population).65 With the continued projected growth 
+
+141
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+and aging of the Hispanic population within the U.S. over the coming decades, a bet-
+ter understanding of the clinical presentation for breast cancer, including the specific 
+subtypes of breast tumors occurring in the Hispanic population, is warranted. 
+Conclusion
+Our study indicates that the profile of breast cancer in Hispanic women is consistent 
+with a pattern of more aggressive disease and less favorable prognosis relative to NHWs. 
+Future studies are needed to address not only differences in breast cancer rates by ethnic 
+group but also the type or spectrum of breast cancer that affects specific populations. 
+It will be important for these future studies that cancer registries across the country 
+continue to improve methods of Hispanic ethnicity ascertainment and classification. 
+As differences in the distribution of breast tumor subtypes emerge among populations, 
+studies that systematically address the etiologic factors and mechanisms involved will be 
+warranted. Undoubtedly, these studies will require large samples that include compre-
+hensive epidemiological and risk factor data, as well as tumor tissue and other biological 
+specimens. For Hispanic women, a further informative step might involve the conduct 
+of studies involving women in the U.S. and those in their country of origin. Increasing 
+our understanding of breast cancer among Hispanics to the level of what is known for 
+NHW women has important implications for guiding approaches to optimizing screen-
+ing, diagnostic, and treatment programs for Hispanic women in the U.S. 
+Acknowledgments
+We are grateful to Georgia Armenta Yee, Veronica M. Vensor, and Chris Newton, and 
+Dr. Timothy Flood from the Arizona Cancer Registry for providing the data and review-
+ing the manuscript. We also extend our gratitude to Dr. Eyal Shahar for his advice on 
+the statistical analyses of the data. 
+Grant Support
+Work was supported by a supplement to the Arizona Cancer Center Core Grant from 
+the National Cancer Institute (CA-023074-2953) and by the Avon Foundation. Dr. 
+Nielson was supported by a Cancer Prevention and Control post-doctoral fellowship 
+from the National Cancer Institute (CA-078447) during the conduct of this work.
+Notes
+  1.	
+Parkin DM, Whelan SL, Ferlay J, et al., eds. Cancer incidence in five continents. Vol. 
+VIII. France: International Agency for Research on Cancer, 2002. 
+  2.	
+Howe HL, Wu X, Ries LA, et al. Annual report to the nation on the status of cancer, 
+1975–2003, featuring cancer among U.S. Hispanic/Latino populations. Cancer. 2006 
+Oct 15;107(8):1711–42.
+  3.	
+American Cancer Society (ACS). Cancer facts & figures for Hispanics/Latinos 
+2006–2008. Atlanta: ACS, 2006.
+
+142
+Breast cancer among women in Arizona
+  4.	
+American Cancer Society. Cancer facts & figures 2006. Atlanta: ACS, 2006.
+  5.	
+Elledge RM, Clark GM, Chamness GC, et al. Tumor biologic factors and breast can-
+cer prognosis among white, Hispanic, and black women in the United States. J Natl 
+Cancer Inst. 1994 May 4;86(9):705–12.
+  6.	
+Hedeen AN, White E. Breast cancer size and stage in Hispanic American women, by 
+birthplace: 1992–1995. Am J Public Health. 2001 Jan;91(1):122–5.
+  7.	
+Bayer-Chammard A, Taylor TH, Anton-Culver H. Survival differences in breast 
+cancer among racial/ethnic groups: a population-based study. Cancer Detect Prev. 
+1999;23(6):463–73.
+  8.	
+Clegg LX, Li FP, Hankey BF, et al. Cancer survival among US Whites and minorities: 
+a SEER (Surveillance, Epidemiology, and End Results) Program. Arch Intern Med. 
+2002 Sep;162(17):1985–93.
+  9.	
+Shavers VL, Harlan LC, Stevens JL. Racial/ethnic variation in clinical presentation, 
+treatment, and survival among breast cancer patients under 35. Cancer. 2003 Jan 1; 
+97(1):134–47.
+10.	
+Miller BA, Hankey BF, Thomas TL. Impact of sociodemographic factors, hormone 
+receptor status, and tumor grade on ethnic differences in tumor stage and size for 
+breast cancer in US women. Am J Epidemiol. 2002 Mar 15;155(6):534–45.
+11.	
+Lantz PM, Mujahid M, Schwartz K, et al. The influence of race, ethnicity, and individual 
+socioeconomic factors on breast cancer stage and diagnosis. Am J Public Health. 2006 
+Dec;96(12):2173–8.
+12.	
+Boyle T, McPadden E. Breast cancer presents at earlier age in Mexican American 
+women. Breast J. 2004 Sep–Oct;10(5):462–4.
+13.	
+Watlington AT, Byers T, Mouchawar J, et al. Does having insurance affect differences 
+in clinical presentation between Hispanic and non-Hispanic white women with breast 
+cancer? Cancer. 2007 May;109(10):2093–9.
+14.	
+Sorlie T, Tibshirani R, Parker J, et al. Repeated observation of breast tumor subtypes 
+in independent gene expression data sets. Proc Natl Acad Sci U S A. 2003 Jul 8; 
+100(14):8418–23.
+15.	
+Colditz GA, Rosner BA, Chen WY, et al. Risk factors for breast cancer according 
+to estrogen and progesterone receptor status. J Natl Cancer Inst. 2004 Feb 4;96(3): 
+218–28.
+16.	
+Sorlie T, Wang Y, Xiao C, et al. Distinct molecular mechanisms underlying clinically 
+relevant subtypes of breast cancer: gene expression analyses across three different 
+platforms. BMC Genomics. 2006 May 26;7:127.
+17.	
+Tamoxifen for early breast cancer: an overview of the randomized trials. Early Breast 
+Cancer Triaists’ Collaborative Group. Lancet. 1998 May 16;351(9114):1451–67.
+18.	
+Cui X, Schiff R, Arpino G, et al. Biology of progesterone receptor loss in breast cancer and 
+its implications for endocrine therapy. J Clin Oncol. 2005 Oct 20;23(30):7721–35.
+19.	
+Ma H, Bernstein L, Pike MC, et al. Reproductive factors and breast cancer risk 
+according to joint estrogen and progesterone receptor status: a meta-analysis of 
+epidemiological studies. Breast Cancer Res. 2006;8(4):R43.
+20.	
+Ursin G, Bernstein L, Lord SJ, et al. Reproductive factors and subtypes of breast cancer 
+defined by hormone receptor and histology. Br J Cancer. 2005 Aug 8;93(3):364–71.
+21.	
+Chu KC, Anderson WF. Rates for breast cancer characteristics by estrogen and pro-
+gesterone receptor status in the major racial/ethnic groups. Breast Cancer Res Treat. 
+2002 Jun;74(3):199–211.
+22.	
+Li CI, Malone KE, Daling JR. Differences in breast cancer hormone receptor status 
+
+143
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+and histology by race and ethnicity among women 50 years of age and older. Cancer 
+Epidemiol Biomarkers Prev. 2002 Jul;11(7):601–7.
+23.	
+Joslyn SA. Hormone receptors in breast cancer: racial differences in distribution and 
+survival. Breast Cancer Res Treat. 2002 May;73(1):45–59.
+24.	
+Howe HL, Chen VW, Hotes JL, et al., eds. Cancer in North America, 1994–1998. 
+Volume One: Incidence. Springfield, IL: North American Association of Central 
+Cancer Registries, Inc., 2001. 
+25.	
+Howard CA, Samet JM, Buechley RW, et al. Survey research in New Mexico Hispan-
+ics: some methodological issues. Am J Epidemiol. 1983 Jan;117(1):27–34.
+26.	
+Woodward WA, Vinh-Hung V, Ueno NT, et al. Prognostic value of nodal ratios in 
+node-positive breast cancer. J Clin Oncol. 2006 Jun 20;24(18):2910–6.
+27.	
+Young JL Jr, Roffers SD, Ries LAG, et al., eds. SEER summary staging manual—2000: 
+codes and coding instructions. (NIH Pub. No. 01-4969.) Bethesda, MD: National 
+Cancer Institute, 2001.
+28.	
+Fritz AG, Percy C, Jack A, et al., eds. International classification of diseases for oncol-
+ogy (ICD-O), 3rd Ed. Geneva, Switzerland: WHO Press, 2000.
+29.	
+Percy C, Van Holten V, Muir C. International Classification of Diseases for Oncology 
+(ICD-O), 2nd Ed. Geneva, Switzerland: WHO Press, 1995. 
+30.	
+Yancik R, Ries LG, Yates JW. Breast cancer in aging women. A population-based study 
+of contrasts in stage, surgery, and survival. Cancer. 1989 Mar 1;63(5):976–81.
+31.	
+von Rosen A, Gardelin A, Auer G. Assessment of malignancy potential in mammary 
+carcinoma in elderly patients. Am J Clin Oncol. 1987 Feb;10(1):61–4.
+32.	
+Diab SG, Elledge RM, Clark GM. Tumor characteristics and clinical outcome of 
+elderly women with breast cancer. J Natl Cancer Inst. 2000 Apr 5;92(7):550–6.
+33.	
+Joslyn SA, West MM. Racial differences in breast carcinoma survival. Cancer. 2000 
+Jan 1;88(1):114–23.
+34.	
+Eley JW, Hill HA, Chen VW, et al. Racial differences in survival from breast cancer. 
+Results of the National Cancer Institute Black/White Cancer Survival Study. JAMA. 
+1994 Sep 28;272(12):947–54.
+35.	
+Ragland KE, Selvin S, Merrill DW. Black-white differences in stage-specific cancer sur-
+vival: analysis of seven selected sites. Am J Epidemiol. 1991 Apr 1;133(7):672–82.
+36.	
+U.S. Census Bureau. Population by race and Hispanic or Latino origin, for the United 
+States: 2000 (PHC-T-9). Washington, DC: U.S. Census Bureau, 2001. Available at 
+http://www.census.gov/population/www/cen2000/phc-t9.html.
+37.	
+Olsson H. Tumour biology of a breast cancer at least partly reflects the biology of 
+the tissue/epithelial cell of origin at the time of initiation—a hypothesis. J Steroid 
+Biochem Mol Biol. 2000 Nov 30;74(5):345–50.
+38.	
+Rosen PP, Oberman HA. Tumors of the mammary gland. Washington, DC: Armed 
+Forces Institute of Pathology, 1993. 
+39.	
+Styblo TM, Wood WC. Traditional prognostic factors for breast cancer. In: Bland 
+KI, Copeland EM 3rd, eds. The breast: comprhensive management of benign and 
+malignant diseases, 2nd Ed. Philadelphia: W.B. Saunders Company, 1998; 419–27. 
+40.	
+Cianfrocca M, Goldstein LJ. Prognostic and predictive factors in early-stage breast 
+cancer. Oncologist. 2004;9(6):606–16.
+41.	
+Singletary SE, Allred C, Ashley P, et al. Revision of the American Joint Committee on 
+Cancer staging system for breast cancer. J Clin Oncol. 2002 Sep 1;20(17):3628–36.
+42.	
+American Cancer Society (ACS). Breast cancer facts & figures, 2005–2006. Atlanta: 
+ACS, 2005.
+
+144
+Breast cancer among women in Arizona
+43.	
+Bast RC Jr, Ravdin P, Hayes DF, et al. 2000 update of recommendations for the use 
+of tumor markers in breast and colorectal cancer: clinical practice guidelines of the 
+American Society of Clinical Oncology. J Clin Oncol. 2001 Mar 15;19(6):1865–78.
+44.	
+Esteva FJ, Hortobagyi G. Prognostic molecular markers in early breast cancer. Breast 
+Cancer Res. 2004 6(3):109–18.
+45.	
+Simpson JF, Wilkinson EJ. Malignant neoplasia of the breast: infiltrating carcinomas. 
+In: Bland KI, Copeland EM 3rd, eds. The breast: comprhensive management of benign 
+and malignant diseases, 2nd Ed. Philadelphia: W.B. Saunders Company, 1998; 289. 
+46.	
+Li R, Gilliland FD, Baumgartner K, et al. Hormone replacement therapy and breast 
+carcinoma risk in Hispanic and non-Hispanic women. Cancer. 2002 Sep 1;95(5): 
+960–8.
+47.	
+Newell DA, Markides KS, Ray LA, et al. Postmenopausal hormone replacement 
+therapy use by older Mexican-American women. J Am Geriatr Soc. 2001 Aug;49(8): 
+1046–51.
+48.	
+Borgquist S, Anagnostaki L, Jirström K, et al. Breast tumors following combined 
+hormone replacement therapy express favourable prognostic factors. Int J Cancer. 
+2007 May 15;120(10):2202–7.
+49.	
+Li CI, Uribe DJ, Daling JR. Clinical characteristics of different histologic types of 
+breast cancer. Br J Cancer. 2005 Oct 31;93(9):1046–52.
+50.	
+Anderson WF, Chu KC, Chang S, et al. Comparison of age-specific incidence rate 
+patterns for different histopathologic types of breast carcinoma. Cancer Epidemiol 
+Biomarkers Prev. 2004 Jul;13(7):1128–35.
+51.	
+Ridolfi RL, Rosen PP, Port A, et al. Medullary carcinoma of the beast: a clinicopatho-
+logic study with a ten-year follow-up. Cancer. 1977 Oct;40(4):1365–85.
+52.	
+Eichhorn JH. Medullary carcinoma, provocative now as then. Semin Diagn Pathol. 
+2004 Feb;21(1):65–73.
+53.	
+Bertucci F, Finetti P, Cervera N, et al. Gene expression profiling shows medullary breast 
+cancer is a subgroup of basal breast cancers. Cancer Res. 2006 May 1;66:4636–44.
+54.	
+Rouzier R, Perou CM, Symmans WF, et al. Breast cancer molecular subtypes respond 
+differently to preoperative chemotherapy. Clin Cancer Res. 2005 Aug 15;11(16): 
+5678–85.
+55.	
+Conforti R, Boulet T, Tomasic G. Breast cancer molecular subclassification and 
+estrogen receptor expression to predict efficacy of adjuvant anthracyclines-based 
+chemotherapy: a biomarker study from two randomized trials. Ann Oncol. 2007 May 
+21;[Epub ahead of print].
+56.	
+Bradley CJ, Given CW, Roberts C. Race, socioeconomic status, and breast cancer 
+treatment and survival. J Natl Cancer Inst. 2002 Apr 3;94(7):490–6.
+57.	
+Carey LA, Perou CM, Livasy CA, et al. Race, breast cancer subtypes, and survival in 
+the Carolina Breast Cancer Study. JAMA. 2006 Jun 7;295(21):2492–502.
+58.	
+Ashing-Giwa KT, Padilla G, Tejero J, et al. Understanding the breast cancer experi-
+ence of women: a qualitative study of African American, Asian American, Latina and 
+Caucasian cancer survivors. Psychooncology. 2004 Jun;13(6):408–28. 
+59.	
+Pérez-Stable EJ, Sabogal F, Otero-Sabogal R, et al. Misconceptions about cancer among 
+Latinos and Anglos. JAMA. 1992 Dec 9;268(22):3219–23.
+60.	
+Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance 
+System Survey Data. Atlanta, GA: U.S. Department of Health and Human Services, 
+CDC, 2006.
+
+145
+Martínez, Nielson, Nagle, Lopez, Kim, and Thompson
+61.	
+Ramirez AG, Talavera GA, Villarreal R, et al. Breast cancer screening in regional 
+Hispanic populations. Health Educ Res. 2000 Oct;15(5):559–68.
+62.	
+Gomez SL, Glaser SL. Misclassification of race/ethnicity in a population-based cancer 
+registry (United States). Cancer Causes Control. 2006 Aug;17(6):771–81.
+63.	
+Stewart SL, Swallen KC, Glaser SL, et al. Comparison of methods for classifying 
+Hispanic ethnicity in a population-based cancer registry. Am J Epidemiol. 1999 Jun 
+1;149(11):1063–71.
+64.	
+Swallen KC, West DW, Stewart SL, et al. Predictors of misclassification of Hispanic eth-
+nicity in a population-based cancer registry. Ann Epidemiol. 1997 Apr;7(3):200–6.
+65.	
+U.S. Census Bureau. Hispanic population passes 40 million, Census Bureau reports. 
+Washington, DC: U.S. Census Bureau, 2005. Available at http://www.census.gov/Press-
+Release/www/releases/archives/population/005164.html. 
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+

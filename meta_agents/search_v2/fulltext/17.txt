@@ -1,0 +1,1770 @@
+record_id=17 pmid=15986118 doi=10.1007/s10549-005-2112-y
+SOURCE: manual-pdf
+TITLE: Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer Project
+
+Report
+Racial and ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer
+Project
+Sue A. Joslyn1, Mary L. Foote2, Kiumarss Nasseri3, Steven S. Coughlin4, and Holly L. Howe5
+1University of Northern Iowa, Cedar Falls, IA; 2Wisconsin Department of Health and Family Services, Madison, WI;
+3Public Health Institute, Tri-Counties Regional Cancer Registry, Santa Barbara, CA; 4Centers for Disease Control
+and Prevention, Atlanta, GA; 5North American Association of Central Cancer Registries, Springﬁeld, IL, USA
+Key words: breast carcinoma, crossover eﬀect, ethnicity, incidence, race
+Summary
+Objective. To examine age-speciﬁc rates of breast cancer incidence among racial and ethnic groups in the United States.
+Methods. Subjects were 363,801 women diagnosed with invasive breast cancer diagnosed during 1994–1998 and
+reported in the North American Association of Central Cancer Registries (NAACCR) data set. Variables analyzed
+included race, ethnicity, 5-year age group (from 10 years through 85+ years), and stage at time of diagnosis
+(localized, regional, distant). Incidence rates per 100,000 women were calculated for each 5-year age group and
+stratiﬁed by stage. Rate ratios and 95% conﬁdence intervals were calculated by comparing each racial group with
+whites and Hispanics with non-Hispanics.
+Results. Black women experience signiﬁcantly higher breast cancer incidence up to the age of 40 years and
+signiﬁcantly lower incidence after age 50 compared with white women of the same ages. This is called the ‘crossover’
+eﬀect. This shifting burden of higher incidence occurs at ages 35–39 for localized stage and at ages 55–59 for
+regional stage. For distant stage, black women of all ages experience higher incidence compared with white women.
+Similar crossover eﬀects do not exist for American Indian (AI) or Asian/Paciﬁc Islander (API) women compared
+with white women. Both AI and API women have signiﬁcantly lower incidence of breast cancer compared with
+white women, and Hispanic women have signiﬁcantly lower incidence compared with non-Hispanic women.
+Conclusions. This study highlights racial and ethnic diﬀerences in breast cancer incidence rates among US women.
+The crossover eﬀect between black and white women, particularly the lower incidence of localized stage disease
+diagnosed in older black women, is a signiﬁcant phenomenon that may be associated with screening practices, and
+has implications for public health planning and cancer control initiatives to reduce racial/ethnic disparities.
+Introduction
+Breast cancer is the most commonly diagnosed invasive
+cancer in the United States for women of all racial and
+ethnic groups, with an estimated 211,300 new cases
+diagnosed in 2003 [1]. Two key characteristics of women
+that signiﬁcantly aﬀect breast cancer incidence are age
+and race. Breast cancer diagnosed in younger women is
+often more aggressive [2]. In addition, unlike countries
+with low rates of breast cancer incidence, US rates
+continue to rise after menopause and are highest in the
+older age categories. With respect to racial patterns,
+overall age-standardized rates are higher among white
+women than black women [1]. Race and age interact in
+their eﬀect on breast cancer incidence, and a ‘crossover’
+eﬀect between black and white women has been shown
+in previous studies [3]. This eﬀect manifests as higher
+rates among younger black women and lower ones
+among older black women, relative to white women of
+the same age [3]. Incidence rates for Asian/Paciﬁc
+Islander, American Indian/Alaska Native, and Hispanic
+women are generally lower than those for US white or
+black women, although previous reports have been
+based on limited populations and small samples [4].
+Although researchers have examined diﬀerences in
+breast cancer incidence between black and white women
+[4–6], less is known about diﬀerences among other racial
+and ethnic groups. In addition, the crossover eﬀect has
+not been documented in recent data. This paper focuses
+on age-speciﬁc rates of breast cancer incidence among
+racial and ethnic groups, with a more detailed and
+up-to-date examination of age-related patterns.
+Materials and methods
+Source of data: the NAACCR Breast Cancer Research
+Data Set
+The North American Association of Central Cancer
+Registries (NAACCR) Breast Cancer Research Data Set
+Breast Cancer Research and Treatment (2005) 92: 97–105
+ Springer 2005
+DOI 10.1007/s10549-005-2112-y
+
+covers the 5-year period from 1994 through 1998. It in-
+cludes data from state and city cancer registries that meet
+the NAACCR standards for high data quality [4]. First,
+a registry must have submitted data for each of the
+5 years included in this study, 1994–1998. Second, reg-
+istries were excluded if they had one or more duplicate
+reports for an individual cancer occurrence for one per-
+son per 1000 records in the registry data ﬁle. Third, all
+ﬁles were evaluated for coding accuracy and reliability
+using a standard editing program; registries included in
+the data set are those found to be error-free for variables
+used in the computation of cancer incidence rates. Fi-
+nally, all registries included in the data set had 90% or
+higher case ascertainment rates for each of the 5 years,
+after adjusting for duplicate reports [8]. Of the registries
+meeting these standards, the following consented for
+their data to be used in this study: Arizona, Colorado,
+Connecticut, Delaware, Metropolitan Atlanta (Geor-
+gia), Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana,
+Metropolitan Detroit (Michigan), Montana, Nebraska,
+New Hampshire, New Jersey, North Carolina, Pennsyl-
+vania, Rhode Island, Utah, Washington, West Virginia,
+Wisconsin, Wyoming, Los Angeles (California), and San
+Francisco Bay Area (California). These registries cover
+approximately 40% of the US population.
+To determine if a person is Hispanic, most US reg-
+istries use hospital records. Computer algorithms may
+be used, but never as the sole source for determining
+ethnicity. Population data on Hispanics are often avail-
+able for large areas, but seldom by county. NAACCR
+coding guidelines for Hispanic ethnicity are used most
+often, but surname and place of birth may be employed.
+Maiden name is often collected, and about half of the
+registries use this information to determine Hispanic
+ethnicity [8]. During the time of this study, NAACCR
+had no national standard guidelines for determining
+Hispanic ethnicity. Lack of comparable deﬁnitions of
+Hispanic ethnicity across registries may have resulted in
+inaccurate analyses, and results of this study are inter-
+preted conservatively.
+Population
+counts,
+used
+as
+denominators
+for
+calculating cancer incidence rates, were derived from
+post-1990 US census estimates [9]. Population estimates
+for Asian/Paciﬁc Islanders and whites living in Hawaii
+were adjusted for an assumed undercount of non-white
+populations.
+Ethnic and racial classiﬁcation
+The four standard US census race classiﬁcations with
+available denominator data are: white, black, American
+Indian/Alaska
+Native
+(AI/AN),
+and
+Asian/Paciﬁc
+Islander (API). Ethnicity is categorized as Hispanic or
+non-Hispanic across all racial groups. Data speciﬁc to
+race and ethnicity were included in this study only for
+those registries that reported at least 20 invasive female
+breast cancer cases and at least 100,000 total women in a
+particular subgroup. This minimum value of inclusion
+for the numerator is to ensure conﬁdentiality of cases.
+The denominator value was chosen to minimize insta-
+bility of rates in small populations because data collec-
+tion for minority groups is not standard across all
+registries. Registries included in the analyses of Hispanic
+versus non-Hispanic women could not have more than
+3% of female breast cancer cases classiﬁed as unknown
+Hispanic ethnicity.
+All 26 consenting registries were included in the
+analyses of white populations. For other racial and
+ethnic groups, the contributing registries diﬀered and
+are identiﬁed in the footnote for each table. Because
+rates for AI/AN are based on data from only ﬁve states,
+few, if any, Alaska Natives are included. Thus, the term,
+‘American Indian’ (AI) is used throughout this paper,
+even though the standard US census category of
+‘American Indian/Alaska Native’ was the source for
+population counts.
+Because of these restrictions, analyses presented in
+this paper include invasive incident female breast cancer
+diagnoses occurring among 40% of white, approxi-
+mately 37% of black, 26% of AI, 52% of A/PI, and 27%
+of Hispanic populations in the US. No rates are pre-
+sented for subcategories with 20 or fewer breast cancers.
+Invasive incident female breast cancer is deﬁned by the
+International Classiﬁcation of Diseases for Oncology
+under site code C50 [10].
+Description of subjects and variables
+A total of 363,801 invasive incident breast cancer cases
+diagnosed
+among
+women
+during
+1994–1998
+were
+included in this data set. Diagnoses for 98.3% of these
+were microscopically conﬁrmed, and 0.9% (3137) of the
+total number of cases were based on autopsy ﬁndings or
+death certiﬁcate only. If a case was diagnosed by death
+certiﬁcate only, it would be included in the incidence
+rate but would be categorized as ‘missing’ stage.
+In addition to race and ethnicity, subjects were
+stratiﬁed by age and stage at the time of diagnosis. Age
+was categorized by 5-year age groups from 10–14 years
+through 85+ years, to pinpoint the timing of the
+crossover eﬀect.
+Stage of disease was categorized according to SEER
+summary deﬁnitions for localized, regional, and distant
+stages [11]. Localized disease stage is deﬁned as cancer
+conﬁned to the site/organ of origin (breast). Regional
+stage is deﬁned as direct extension of the cancer to
+adjacent organs/structures or to regional lymph nodes
+(axillary, transpectoral, internal mammary). Distant
+stage includes cases with involvement of distant organs
+or lymph nodes (including supraclavicular, cervical, or
+contralateral
+internal
+mammary),
+either
+by
+direct
+extension or through discontinuous metastasis.
+Statistical analyses
+All incidence rates are per 100,000 women. Average
+annual age-speciﬁc incidence rates were calculated using
+the method of Fay and Feuer [12]. Rate ratios (RR)
+98
+SA Joslyn et al.
+
+were calculated by comparing breast cancer incidence
+rates of white women with each of the other racial cat-
+egories, and by comparing rates of Hispanic women
+with non-Hispanic women. Conﬁdence intervals (95%
+CI) for the RR were estimated using the formula
+exp(ln(RR) ± ZaSD[ln(RR)]) [13].
+Results
+The crossover eﬀect is apparent between black and
+white women for all disease stages combined. Black
+women experience signiﬁcantly higher breast cancer
+incidence up to the age of 40 years and signiﬁcantly
+lower incidence rates after age 50, compared with white
+women of similar age (Table 1). Similar crossover
+eﬀects do not exist for AI or API women compared
+with white women. Both AI women (over age 40) and
+API women (over age 30) have signiﬁcantly lower rates
+of breast cancer incidence compared with white women
+(Figure 1), and diﬀerences in rates between API and
+white women widen with age. No diﬀerences existed in
+incidence rates whether analyses were limited to regis-
+tries with 20 or more cases in a speciﬁc racial group or
+not.
+Although caution is warranted when interpreting
+ethnicity data because of selection methods, rates
+between Hispanic and non-Hispanic women are not
+statistically signiﬁcantly diﬀerent until the age group
+30–34 years. After that, rates for Hispanic women are
+signiﬁcantly
+lower
+than
+for
+non-Hispanic
+women
+(Table 2), and diﬀerences in rates widen with age. The
+point of divergence in rates by ethnicity begins at a
+somewhat younger age (30–34 years) compared with
+that of black and white women (40–44 years).
+When further stratifying breast cancer incidence
+rates by stage at diagnosis in addition to racial group,
+several interesting patterns emerge (Table 3). Within the
+localized stage, the crossover eﬀect between black and
+white women begins approximately at ages 35–39 years.
+For AI women over the age of 40 and API women over
+the age of 30, both groups experience signiﬁcantly lower
+incidence rates for localized breast cancer compared
+with white women.
+For cases diagnosed at the regional stage, black
+women ages 54 years and younger have higher rates of
+breast cancer incidence compared with white women,
+but in older age groups, no signiﬁcant diﬀerences are
+noted. For AI women, rates are lower than those for
+white women, although suﬃcient data are available only
+for women ages 45–64 years. For API women over the
+age of 30, rates are consistently lower than for white
+women.
+Within the distant stage, black women of all ages
+experience higher rates of breast cancer incidence than
+white women (statistically signiﬁcant for all ages over
+30 years). For AI women, no data are presented due to
+low numbers, and for API women, rates are lower than for
+white women (signiﬁcantly lower for women over age 55).
+When rates for Hispanic/non-Hispanic ethnic groups
+are compared within disease stages, lower incidence
+rates are noted for both localized stage (over age 25)
+and regional stage (over age 30) (Table 4). Rates
+among Hispanics were almost always lower than those
+Table 1. Average annual age-speciﬁc breast cancer incidence rates per 100,000 population for race groups in the NAACCR data base, 1994–1998
+Age (years)
+Whitea
+Blackb
+American Indianc
+Asian/Paciﬁc Islanderd
+Rate
+Rate
+RRe
+95% CIf
+Rate
+RR
+95% CI
+Rate
+RR
+95% CI
+20–24
+1.20
+2.30
+1.92
+1.42–2.60
+–g
+–
+–
+–
+–
+–
+25–29
+7.81
+12.20
+1.56
+1.38–1.77
+–
+–
+–
+5.29
+0.68
+0.53–0.88
+30–34
+25.38
+33.21
+1.31
+1.26–1.36
+–
+–
+–
+18.54
+0.73
+0.64–0.83
+35–39
+58.20
+68.50
+1.18
+1.12–1.24
+21.76
+0.37
+0.25–0.56
+47.74
+0.82
+0.75–0.89
+40–44
+115.40
+117.59
+1.02
+0.98–1.04
+57.93
+0.50
+0.38–0.65
+97.39
+0.84
+0.79–0.89
+45–49
+190.70
+184.77
+0.97
+0.93–1.00
+114.28
+0.60
+0.48–0.75
+153.32
+0.80
+0.76–0.84
+50–54
+253.25
+230.87
+0.91
+0.88–0.94
+122.46
+0.48
+0.38–0.61
+187.67
+0.74
+0.70–0.78
+55–59
+301.30
+269.46
+0.89
+0.86–0.92
+163.23
+0.54
+0.43–0.68
+221.40
+0.73
+0.69–0.77
+60–64
+354.80
+285.29
+0.80
+0.77–0.83
+201.39
+0.57
+0.45–0.72
+227.97
+0.64
+0.60–0.68
+65–69
+414.53
+333.60
+0.80
+0.77–0.83
+136.53
+0.33
+0.24–0.45
+229.86
+0.55
+0.52–0.59
+70–74
+466.59
+366.04
+0.78
+0.75–0.81
+129.25
+0.28
+0.19–0.41
+242.61
+0.52
+0.49–0.56
+75–79
+482.97
+394.05
+0.82
+0.79–0.85
+137.34
+0.28
+0.18–0.43
+238.21
+0.49
+0.45–0.53
+80–84
+465.23
+388.29
+0.83
+0.79–0.87
+–
+–
+–
+218.91
+0.47
+0.42–0.53
+85+
+395.10
+332.72
+0.84
+0.79–0.89
+–
+–
+–
+156.39
+0.40
+0.34–0.47
+a Reference group includes data from all consenting US registries.
+b Includes data from all consenting US registries except Idaho, Montana, New Hampshire, Utah, and Wyoming.
+c Includes data from Arizona, Montana, North Carolina, Washington, and Wisconsin.
+d Includes data from Arizona, Los Angeles and Greater Bay Area (California), Colorado, Connecticut, Metro Atlanta (Georgia), Hawaii, Illinois,
+Iowa, Kentucky, Louisiana, Metro Detroit (Michigan), New Jersey, North Carolina, Rhode Island, Utah, Washington, and Wisconsin.
+e Rate ratio comparing each race group rate with that of whites.
+f Conﬁdence interval.
+gRate could not be calculated because fewer than 20 cases were reported.
+Racial/ethnic disparities in breast cancer
+99
+
+for non-Hispanics, although diﬀerences were not always
+statistically signiﬁcant.
+Discussion
+Results of this study reveal signiﬁcant diﬀerences in
+breast cancer incidence rates between racial and ethnic
+groups, with clear evidence of age patterns. Incidence
+rates for AI and API women are clearly lower than for
+white and black women at all ages. Black women have
+signiﬁcantly higher incidence rates than white women at
+ages younger than 40 years, with the largest gap
+occurring in the youngest (20–29 years) age group. This
+pattern reverses after age 50, with white women exhib-
+iting signiﬁcantly higher rates. This crossover eﬀect for
+white and black women has been documented in the
+United States since at least the 1960s [3]. The current
+study reveals that the crossover between black and white
+women occurs at younger ages and earlier stages than
+previously noted [3]. This age group (<40 years) is not
+aﬀected by screening, as mammography in women
+under age 40 is under the discretion of the physician,
+and is rarely screening in nature unless there is a strong
+family history [14]. Other factors may play a signiﬁcant
+role in the apparent crossover in incidence rates for
+white and black women.
+Although several researchers have suggested a pos-
+sible link between this crossover eﬀect and socioeco-
+nomic
+status
+[3, 15],
+no
+studies
+have
+adequately
+examined this relationship to date [16, 17]. For breast
+cancer diagnosed after age 40 years, nulliparity and a
+small number of full-term pregnancies are two factors
+associated with small increases in risk indicating that
+full-term pregnancy occurring before age 40 confers
+protection from breast cancer at later ages. However,
+the immediate eﬀect of a full-term pregnancy in younger
+women appears to be a short-term increased risk for
+breast cancer [16]. Black women have higher parity at all
+ages compared with white women [18], which may
+contribute to the apparent crossover eﬀect of higher
+breast cancer incidence in younger black women. This
+ﬁnding has great public health implications, because
+breast cancer in young black women has been shown to
+be quite aggressive [19].
+Another new ﬁnding from this study is the phe-
+nomenon of Clemmenson’s Hook, which describes
+Age-Specific Breast Cancer Rates
+0.01
+0.1
+1
+10
+100
+1000
+10--14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 80-84
+85+
+Age at Diagnosis (Years)
+Rate per 100,000
+White
+Black
+American Indian
+Asian / PI
+Figure 1. Breast cancer incidence by age and race, NAACCR 1994–1998.
+Table 2. Average annual age-speciﬁc breast cancer incidence rates per
+100,000 population for Hispanic/non-Hispanica ethnic groups in the
+NAACCR data base, 1994–1998
+Age (years)
+Non-Hispanicb
+Rate
+Hispanic
+Rate
+RRc
+95% CId
+20–24
+1.13
+1.23
+1.09
+0.73–1.63
+25–29
+7.33
+6.45
+0.88
+0.74–1.04
+30–34
+23.11
+17.14
+0.74
+0.67–0.82
+35–39
+52.33
+36.79
+0.70
+0.65–0.75
+40–44
+100.48
+73.99
+0.84
+0.70–0.78
+45–49
+165.64
+118.07
+0.71
+0.67–0.75
+50–54
+218.72
+145.14
+0.66
+0.63–0.70
+55–59
+258.29
+169.11
+0.65
+0.61–0.69
+60–64
+294.97
+198.09
+0.67
+0.63–0.71
+65–69
+337.19
+219.35
+0.65
+0.61–0.69
+70–74
+377.25
+231.57
+0.61
+0.57–0.65
+75–79
+390.33
+232.25
+0.59
+0.55–0.64
+80–84
+376.47
+210.54
+0.56
+0.51–0.62
+85+
+321.75
+177.62
+0.55
+0.49–0.62
+a Includes data from Los Angeles and Greater Bay Area (California),
+Colorado, Connecticut, Idaho, Iowa, Kentucky, Metro Detroit
+(Michigan), Kentucky, Nebraska, Rhode Island, Utah, Washington,
+and Wyoming.
+b Reference group for rate ratios.
+c Rate ratio comparing Hispanic with non-Hispanic rates.
+d Conﬁdence interval.
+100
+SA Joslyn et al.
+
+Table 3. Average annual age-speciﬁc breast cancer incidence rates per 100,000 population stratiﬁed by disease stage for racial groups in the
+NAACCR data base, 1994–1998
+Age (years)
+Whitea
+Rate
+Blackb
+American Indianc
+Asian/Paciﬁc Islanderd
+Rate
+RR
+95% CI
+Rate
+RR
+95% CI
+Rate
+RR
+95% CI
+Localized stage
+20–24
+0.59
+–g
+–
+–
+–
+–
+–
+–
+–
+–
+25–29
+3.61
+5.01
+1.39
+1.15–1.69
+–
+–
+–
+2.69
+0.75
+0.52–1.08
+30–34
+12.47
+14.84
+1.19
+1.07–1.32
+–
+–
+–
+9.81
+0.79
+0.66–0.95
+35–39
+30.07
+29.81
+0.99
+0.92–1.07
+–
+–
+–
+25.60
+0.85
+0.76–0.95
+40–44
+65.89
+56.77
+0.86
+0.81–0.91
+33.88
+0.51
+0.36–0.73
+56.50
+0.86
+0.79–0.93
+45–49
+111.14
+92.64
+0.83
+0.79–0.87
+53.61
+0.48
+0.35–0.66
+90.54
+0.81
+0.76–0.87
+50–54
+154.84
+119.39
+0.77
+0.73–0.80
+66.80
+0.43
+0.31–0.60
+117.15
+0.76
+0.71–0.82
+55–59
+189.89
+143.92
+0.76
+0.72–0.80
+81.62
+0.53
+0.38–0.74
+137.97
+0.73
+0.68–0.79
+60–64
+230.94
+155.85
+0.67
+0.64–0.70
+112.20
+0.49
+0.36–0.67
+146.04
+0.63
+0.58–0.68
+65–69
+279.26
+186.08
+0.67
+0.63–0.70
+82.64
+0.30
+0.20–0.45
+158.19
+0.57
+0.53–0.62
+70–74
+316.30
+210.50
+0.67
+0.64–0.70
+–
+–
+–
+178.84
+0.57
+0.53–0.62
+75–79
+325.06
+219.53
+0.68
+0.64–0.72
+–
+–
+–
+165.80
+0.51
+0.46–0.56
+80–84
+300.40
+212.74
+0.71
+0.66–0.76
+–
+–
+–
+160.18
+0.53
+0.46–0.61
+85+
+220.16
+148.46
+0.67
+0.61–0.73
+–
+–
+–
+102.29
+0.46
+0.38–0.56
+Regional stage
+20–24
+0.47
+1.28
+2.72
+1.77–4.17
+–g
+–
+–
+0.21
+0.45
+0.11–1.84
+25–29
+3.37
+5.92
+1.76
+1.47–2.11
+–
+–
+–
+2.43
+0.72
+0.49–1.05
+30–34
+10.74
+14.65
+1.36
+1.22–1.52
+–
+–
+–
+7.42
+0.69
+0.56–0.85
+35–39
+23.94
+30.28
+1.26
+1.17–1.36
+–
+–
+–
+19.10
+0.80
+0.70–0.91
+40–44
+41.82
+47.65
+1.14
+1.07–1.21
+–
+–
+–
+35.69
+0.85
+0.77–0.94
+45–49
+66.67
+71.18
+1.07
+1.01–1.13
+45.15
+0.68
+0.48–0.96
+53.14
+0.80
+0.73–0.88
+50–54
+80.62
+85.91
+1.07
+1.01–1.13
+46.39
+0.58
+0.39–0.86
+57.70
+0.72
+0.65–0.80
+55–59
+89.02
+93.25
+1.05
+0.99–1.12
+58.30
+0.65
+0.44–0.96
+69.56
+0.78
+0.70–0.87
+60–64
+95.54
+89.14
+0.93
+0.87–0.99
+74.80
+0.78
+0.53–1.15
+68.24
+0.71
+0.63–0.79
+65–69
+101.97
+103.88
+1.02
+0.96–1.09
+–
+–
+–
+58.68
+0.58
+0.51–0.66
+70–74
+109.30
+103.77
+0.95
+0.88–1.02
+–
+–
+–
+50.73
+0.46
+0.40–0.53
+75–79
+108.50
+110.35
+1.02
+0.94–1.10
+–
+–
+–
+51.84
+0.48
+0.40–0.57
+80–84
+102.44
+98.62
+0.96
+0.87–1.07
+–
+–
+–
+38.14
+0.37
+0.28–0.49
+85+
+85.36
+87.04
+1.02
+0.91–1.14
+–
+–
+–
+26.56
+0.31
+0.21–0.45
+Distant stage
+20–24
+–g
+–
+–
+–
+–
+–
+–
+–
+–
+–
+25–29
+0.45
+–
+–
+–
+–
+–
+–
+0.17
+0.38
+0.09–1.55
+30–34
+1.21
+2.39
+1.98
+1.50–2.62
+–
+–
+–
+0.91
+0.75
+0.41–1.38
+35–39
+2.28
+4.77
+2.09
+1.72–2.54
+–
+–
+–
+1.61
+0.71
+0.45–1.12
+40–44
+4.07
+8.08
+1.99
+1.70–2.33
+–
+–
+–
+2.96
+0.73
+0.52–1.03
+45–49
+6.96
+12.83
+1.84
+1.61–2.11
+–
+–
+–
+5.89
+0.85
+0.65–1.11
+50–54
+10.19
+17.07
+1.68
+1.47–1.92
+–
+–
+–
+7.72
+0.76
+0.58–1.00
+55–59
+13.35
+21.25
+1.59
+1.39–1.82
+–
+–
+–
+8.17
+0.61
+0.45–0.83
+60–64
+17.10
+25.64
+1.50
+1.32–1.71
+–
+–
+–
+8.91
+0.52
+0.38–0.71
+65–69
+19.65
+27.16
+1.38
+1.21–1.57
+–
+–
+–
+8.12
+0.41
+0.29–0.57
+70–74
+22.77
+30.70
+1.35
+1.18–1.54
+–
+–
+–
+8.70
+0.38
+0.27–0.55
+75–79
+24.81
+31.17
+1.26
+1.08–1.46
+–
+–
+–
+9.43
+0.38
+0.25–0.58
+80–84
+26.67
+34.08
+1.28
+1.07–1.53
+–
+–
+–
+9.15
+0.34
+0.19–0.60
+85+
+22.14
+31.12
+1.41
+1.16–1.71
+–
+–
+–
+9.84
+0.44
+0.24–0.82
+a Reference group includes data from all consenting US registries.
+b Includes data from all consenting US registries except Idaho, Montana, New Hampshire, Utah, and Wyoming.
+c Includes data from Arizona, Montana, North Carolina, Washington, and Wisconsin.
+d Includes data from Arizona, Los Angeles and Greater Bay Area (California), Colorado, Connecticut, Metro Atlanta (Georgia), Hawaii,
+Illinois, Iowa, Kentucky, Louisiana, Metro Detroit (Michigan), New Jersey, North Carolina, Rhode Island, Utah, Washington, and
+Wisconsin.
+e Rate ratio comparing each race group rate with that of whites.
+f Conﬁdence interval.
+g Rate could not be calculated because fewer than 20 cases were reported.
+Racial/ethnic disparities in breast cancer
+101
+
+smaller increases in breast cancer incidence rates with
+increasing age after the age of menopause, and was
+apparent in all race categories (Figure 1). Although the
+increase in incidence rates for API women ages 50–74 in
+the United States is smaller compared with increased
+rates for white and blacks, this increase is noteworthy
+because it contradicts the consistent decline in breast
+cancer incidence beginning at about age 50 years in
+Japanese women in Japan [20]. Although this study did
+not stratify data by speciﬁc Asian subgroup, the iden-
+tiﬁcation of this trend supports the hypothesis that dif-
+ferences in environmental factors between countries
+(e.g.,
+diet,
+obesity,
+alcohol
+use,
+use
+of
+hormone
+replacement therapy) are associated with breast cancer
+incidence.
+The increase in breast cancer incidence noted over
+the past 20 years is explained in part by greater numbers
+of in situ cases detected through screening mammogra-
+phy. However, widespread use of screening does not
+account for all of the increase, and it does not account
+for all variations in incidence by age and race [21].
+Nevertheless, increased screening may indicate increased
+access to health care and preventive services. The Na-
+tional Health Interview Survey (NHIS) examined prev-
+alence of mammography screening over the period
+recommended by the US Preventive Task Services Task
+Force (within the past two years) for the three major
+racial/ethnic groups (whites, blacks, and Hispanics) in
+three
+age
+groups
+(40–49 years,
+50–64 years,
+and
+65+ years). Breen et al. [22] reviewed trends from NHIS
+during 1987–1998 and found that racial disparity in
+breast cancer screening between black and white women
+existed in 1987 but disappeared in 1998. Although the
+percentage of women reporting recent mammograms
+was lower among older black women compared with
+older white women, diﬀerences were not statistically
+signiﬁcant. In terms of age variations, mammography
+use for black women in the younger age group
+(40–49 years) increased by 5%, while in the older age
+groups (50–64 years and 65+ years) use increased for
+black women by 13 and 16%, respectively. Hispanic
+women were still behind white and black women in all
+age groups – 60% compared with 67% of all women. In
+the most recent NHIS report, women with no usual
+source of care, recent immigrants, and the uninsured are
+falling further behind in screening use [23].
+The 1997 Behavioral Risk Factor Surveillance Sur-
+vey (BRFSS) reported prevalence of mammography
+screening (within the recommended past two years) was
+71% for whites, 73% for blacks, and 72% for API.
+However, screening prevalence for AI/AN remained
+behind other racial groups with 60% [24]. Blackman
+et al. [25] reviewed BRFSS trend data for 1989–1997 and
+found that (1) mammography use was consistently lower
+for Hispanic versus non-Hispanic women; (2) women
+aged 50–69 years were more likely to have received a
+mammogram than women in younger and older age
+groups; and (3) women aged 70+ were consistently less
+likely to have had a mammogram within the past two
+years. By 1997, 10-year age groups for women ages 50
+Table 4. Average annual age-speciﬁc breast cancer incidence rates per 100,000 population stratiﬁed by disease stage for Hispanica and non-
+Hispanicb ethnic groups in the NAACCR data base, 1994–1998
+Age
+Localized stage
+Regional stage
+Distant stage
+Non-Hispanic
+Rate
+Hispanic
+Non-Hispanic
+Rate
+Hispanic
+Non-Hispanic
+Rate
+Hispanic
+Rate
+RRc
+95% CId
+Rate
+RR
+95% CI
+Rate
+RR
+95% CI
+20–24
+0.76
+–e
+–
+–
+0.51
+–
+–
+–
+–
+–
+–
+–
+25–29
+3.84
+2.55
+0.66
+0.47–0.93
+3.50
+3.55
+1.01
+0.75–1.36
+0.42
+–
+–
+–
+30–34
+12.66
+7.76
+0.61
+0.50–0.74
+10.61
+7.96
+0.75
+0.62–0.91
+1.11
+1.32
+1.19
+0.73–1.94
+35–39
+30.24
+17.60
+0.58
+0.51–0.66
+24.30
+17.90
+0.74
+0.65–0.85
+2.40
+1.42
+0.59
+0.37–0.94
+40–44
+65.76
+40.33
+0.61
+0.55–0.67
+42.49
+33.91
+0.80
+0.72–0.89
+4.13
+4.28
+1.04
+0.75–1.43
+45–59
+113.22
+69.70
+0.62
+0.57–0.68
+69.76
+51.96
+0.74
+0.67–0.82
+7.24
+5.66
+0.78
+0.58–1.06
+50–54
+163.06
+96.17
+0.59
+0.54–0.64
+86.06
+53.46
+0.62
+0.55–0.70
+10.33
+7.46
+0.72
+0.53–0.98
+55–59
+196.42
+117.94
+0.60
+0.55–0.66
+95.70
+57.50
+0.60
+0.53–0.68
+13.23
+8.38
+0.63
+0.45–0.88
+60–64
+238.85
+133.40
+0.56
+0.51–0.61
+99.86
+66.98
+0.67
+0.59–0.76
+16.60
+13.40
+0.81
+0.60–1.09
+65–69
+283.17
+153.70
+0.54
+0.49–0.59
+99.94
+68.21
+0.68
+0.59–0.78
+18.32
+15.12
+0.83
+0.61–1.11
+70–74
+323.37
+179.82
+0.56
+0.51–0.62
+108.50
+70.90
+0.65
+0.56–0.76
+20.62
+7.53
+0.37
+0.23–0.58
+75–79
+331.59
+174.67
+0.52
+0.46–0.58
+113.67
+75.10
+0.66
+0.55–0.79
+22.20
+11.95
+0.54
+0.35–0.83
+80–84
+313.45
+144.16
+0.46
+0.39–0.54
+102.73
+63.97
+0.62
+0.49–0.78
+23.17
+11.09
+0.48
+0.28–0.83
+85+
+229.21
+95.84
+0.42
+0.35–0.51
+86.31
+50.68
+0.59
+0.45–0.77
+20.81
+11.98
+0.58
+0.33–1.01
+a Includes data from Los Angeles and Greater Bay Area (California), Colorado, Connecticut, Idaho, Iowa, Kentucky, Metro Detroit (Michigan),
+Kentucky, Nebraska, Rhode Island, Utah, Washington, and Wyoming.
+b Reference group for rate ratios.
+c Rate ratio comparing Hispanic with non-Hispanic rates.
+d Conﬁdence interval.
+e Rate could not be calculated because fewer than 20 cases were reported.
+102
+SA Joslyn et al.
+
+and over (50–59, 60–69 and 70+) who reported mam-
+mography during the past two years were similar for
+black and white women. Also noteworthy in 1997 black
+women in the youngest age group (40–49) reported a
+higher screening prevalence (71%) than did white
+women (64%) of the same age.
+A study by Brinton et al. [26] investigated possible
+reasons for the crossover eﬀect. The authors suggested
+that known risk factors (fewer births, later age at ﬁrst
+birth, other reproductive and menstrual factors) were
+responsible for higher population attributable risk
+(PAR) for breast cancer in older white women compared
+with older black women and much lower PAR in
+younger black women. This suggests that these risk
+factors may be more prevalent among older women
+compared with younger women. Also, because breast
+cancer is less aggressive in older women [2], it may
+suggest that, although younger black women (and pos-
+sibly AI and Hispanic women) are more likely to have
+behaviors protective of breast cancer incidence (e.g.,
+younger age at ﬁrst birth, more births), these behaviors
+may lead to more aggressive breast cancer.
+One Michigan study hypothesized that the crossover
+eﬀect could be explained by diﬀerences in the distribu-
+tion of reproductive risk factors [27]. The study focused
+on ﬁrst full-term pregnancy (FFTP), parity, and oral
+contraceptive and hormone replacement therapy in
+younger versus older black and white populations.
+Based on the eﬀects of age at FFTP and parity, the
+authors concluded that the crossover eﬀect between the
+two races is expected. Similar results were noted by
+Palmer et al. [28], who concluded that increased parity
+was associated with increased risk in women younger
+than age 45 years and decreased risk in those ages
+45+ years. This may help explain the crossover eﬀect
+between black and white women.
+A major strength of the present study is that the
+sample is based on a much larger geographic area than
+previous
+crossover
+studies,
+and
+data
+come
+from
+population-based registries. Selection biases found in
+non-population-based studies are reduced or eliminated
+here. This study is not only based on a larger sample,
+but it provides newer data and describes both age- and
+stage-speciﬁc
+diﬀerences
+among
+racial
+and
+ethnic
+groups. Rates of breast cancer incidence in this study are
+very similar to those reported in the most recent Annual
+Report to the Nation on the Status of Cancer [5]. In this
+report, age-adjusted breast cancer incidence rates for
+1995–1999 were standardized to the 2000 US standard
+population and reported for women of all races by age
+categories (all ages, 20–49, 50–64, 65–74 and 75+). Data
+sources included SEER and the National Program of
+Cancer Registry (NPCR) areas meeting high data
+quality standards and covering approximately 55% of
+the US population. The age-adjusted breast cancer
+incidence rates for women of all races (131.9 per
+100,000) in the Annual Report to the Nation agree closely
+with those observed in the present study (129.1 per
+100,000) for 1994–1998. Because the Annual Report to
+the Nation includes the same data source as the current
+study, along with additional SEER and NPCR data,
+the similarity of results supports the generalizability of
+the current study’s ﬁndings, particularly by racial group.
+This report includes racial data for AI and API racial
+groups as well as Hispanic ethnicity. Earlier studies of
+the crossover eﬀect were limited to black and white
+racial groups. While uniform standards for collecting
+racial and ethnic data among cancer registries do not
+exist, the NAACCR selection criteria ensures high
+quality data in general from the participating registries.
+Measures of cancer incidence rates for various racial
+and ethnic populations may be limited by problems in
+ascertaining race or in diﬀerences in the quality of
+information (resulting from errors in reporting race and
+ethnicity on records used for cancer incidence and at-
+risk populations) [29–33]. Rates may be biased because
+of errors in reporting race on death certiﬁcates [30] and
+hospital medical records (used to determine numerators
+for cancer incidence rates) and on censuses and surveys
+(used to determine denominators). Recent evaluation
+studies suggest that reporting race for white and black
+populations is generally reliable, but that biases are
+more serious for some of the smaller populations,
+particularly for AI [31, 33]. Although inter-censal esti-
+mates of denominator data have been criticized as pro-
+ducing inaccurate results, a recent report noted that the
+eﬀect on cancer rates is modest overall [34].
+Cancer registries rely primarily on medical records
+for their case data. The quality of data on race and
+ethnicity is limited by the quality of information avail-
+able in records. Misclassiﬁcation bias may be signiﬁcant,
+and numerators and denominators used to calculate
+rates may not be equivalent, depending on how people
+self-identify in the census versus at a hospital when
+obtaining care. The ‘race/ethnicity’ question appears on
+most admission forms, but if not completed by the pa-
+tient, the question may not be asked by admission staﬀ.
+AIs are most likely under-represented in the counts of
+cancer cases. In addition, because Hispanic ethnicity is
+not included in racial categorization, ethnicity may be
+sharply under-reported. This could explain the particu-
+larly
+low
+incidence
+rates
+for
+AIs
+and
+Hispanics.
+NAACCR is currently assessing the feasibility of
+applying a standard method for producing incidence
+rates for speciﬁc populations other than whites and
+blacks. Although the project was completed in April
+2003, the algorithm was not available at the time this
+study was conducted. As of April 2003, the NAACCR
+Hispanic Identiﬁcation Algorithm (NHIA) was consid-
+ered best practice, and by December 2003 was accepted
+as the standard by SEER, NPCR and NAACCR for
+enhancing Hispanic identiﬁcation [35, 36].
+Comparability problems are possible when rates
+from racial groups in some states are compared with
+rates from groups in diﬀerent states. To determine the
+extent of this limitation, analyses were conducted
+comparing all consenting registries with those selected
+because they had 20 or more cases. No diﬀerence
+Racial/ethnic disparities in breast cancer
+103
+
+between rates by race were found, but rates between
+Hispanic and non-Hispanic women were signiﬁcantly
+diﬀerent. This supports the validity of the main focus of
+this paper – comparing the crossover eﬀect by race – but
+reinforces the limitations of results by ethnicity.
+A further limitation of the present analysis is the lack
+of information about subgroups of women within
+broader racial and ethnic categories. For example, esti-
+mating breast cancer incidence rates was not possible for
+diﬀerent Hispanic groups, such as those from Mexico,
+Cuba, or South or Central America. In addition, speciﬁc
+Asian groups, such as Japanese or Chinese women, were
+not analyzed separately.
+Although the focus of this study was breast cancer
+incidence, the relationship of incidence to subsequent
+mortality is of great interest, especially when examining
+disparities in breast cancer mortality between white
+and black women. Mortality rates for breast cancer
+have
+decreased
+among
+white
+women
+in
+the
+last
+20 years, from 33 to 26 per 100,000 but the mortality
+rate among black women has stabilized at approxi-
+mately 36 per 100,000 [37]. Studies have noted a per-
+sistent disparity in mortality despite improvements in
+mammography screening prevalence and early detec-
+tion among black women [38, 39]. To address this
+disparity, further research is needed in at least three
+areas: disparities in health care screening and treatment
+[40] targeted at women in racial/ethnic minority groups
+and younger ages; increased risks related to biological
+and hormonal patterns [41–43]; and other potentially
+modiﬁable, but relatively well-documented risk factors,
+including obesity, physical activity, dietary patterns,
+and lower socioeconomic status [44–46]. In addition,
+including all states in the analysis as well as data col-
+lected since 1999 would allow more updated and gen-
+eralizable analyses.
+In summary, the results of this study highlight racial
+and ethnic diﬀerences in the age-and stage-speciﬁc rates
+for breast cancer among US women. In particular, the age
+at which incidence increases for black and Hispanic
+women, previously identiﬁed as the crossover eﬀect, was
+found to be younger than previously reported (30–
+34 years for Hispanic versus non-Hispanic women, and
+40–44 years for black versus white women). The consis-
+tently higher rates diagnosed at the distant stage for black
+women of all ages compared with white women have great
+implications for public health planning and cancer con-
+trol initiatives to reduce racial/ethnic disparities. These
+results emphasize the need for continued public health
+programming that focuses on regular mammography
+beginning at age 40, particularly for black women, and
+continuing into the oldest age groups for all women.
+Younger women with known genetic or familial risks are
+guided towards earlier screening, but the racial diﬀeren-
+tial is not as well understood. Further research is
+warranted to determine reasons for racial and ethnic
+diﬀerences in
+breast
+cancer,
+speciﬁcally
+examining
+the interaction and impact of socioeconomic status and
+race/ethnicity on disparities in incidence and mortality.
+Acknowledgements
+Supported in part by the Center for Disease Control
+and Prevention under cooperative agreement U75/
+CCU515998 to the North American Association of
+Central Cancer Registries. Financial support was re-
+ceived from Centers for Disease Control and Prevention
+and North American Association of Central Cancer
+Registries.
+References
+1. Jemal A, Murray T, Samuels A, Ghafoor A, Ward E, Thun MT:
+Cancer statistics 2003. CA Cancer J Clin 53: 5–26, 2002
+2. Pratap R, Shousha S: Breast carcinoma in women under the age of
+50: relationship between p53 immunostaining, tumor grade, and
+axillary lymph node status. Breast Cancer Res Treat 49: 35–39,
+1998
+3. Krieger N: Social class and the black/white crossover in the age-
+speciﬁc incidence of breast cancer: a study linking census-derived
+data to population-based registry records. Am J Epidemiol 131:
+804–814, 1990
+4. Howe HL, Chen VW, Hotes J, Wu XC, Correa C, Fulton JP (eds):
+In: Cancer in North America, 1994–1998, Volume One: Incidence.
+North
+American
+Association
+of
+Central
+Cancer
+Registries,
+Springﬁeld, IL, April 2001
+5. Edwards BK, Howe HL, Ries LAG, et al.: Annual report to the
+nation on the status of cancer, 1973–1999, featuring implications
+of age and aging on the US cancer burden. Cancer 94: 2766–2792,
+2002
+6. Ries LAB, Eisner MP, Kosary CL, Hankey BF, Miller BA, Clegg
+L, Edwards K (eds): In: SEER Cancer Statistics Review, 1973–
+1998. National Cancer Institute, 2001
+7. Hakama M: The peculiar age speciﬁc incidence curve for cancer of
+the breast-Clemmesen’s hook. Acta Pathol Microbiol Scand 75:
+370–374, 1969
+8. Uniform Data Standards Committee, Subcommittee on Method-
+ologic Issues of Measuring Cancer Among Hispanics. Final
+Report of Atlanta Symposium, North American Association of
+Central Cancer Registries, 1996, p 19
+9. http://www.census.gov/population/www/estimates/countypop.
+html, January 15, 2003
+10. Percy C, Fritz A, Jack A, Shanmugarathan S, Sobin L, Parkin
+DM, Whelan S: International Classiﬁcation of Diseases for
+Oncology (ICD-O), 3rd ed. World Health Organization, 2000
+11. Young JLJR, Roﬀers SD, Ries LAG, Fritz AG, Hurlbut AA (eds):
+In: SEER Summary Staging Manual-2000: Codes and Coding
+Instructions. National Cancer Institute, NIH Pub. No. 01-4969,
+Bethesda MD, 2001
+12. Fay MP, Feuer EJ: Conﬁdence intervals for directly standardized
+rates: a method based on the gamma distribution. Stat Med 16:
+791–801, 1997
+13. Rothman KJ, Greenland S: Modern Epidemiology. 2nd ed. Lip-
+pincott-Raven Publishers, Philadelphia, 1998, 238
+14. Jones BA, Patterson EA, Calvocoressi L: Mammography screen-
+ing in African American women: evaluating the research. Cancer
+97: 2047, 2003
+15. Hall SA, Rockhill B: Race, poverty, aﬄuence, and breast cancer
+[letter]. Am J Publ Health 92: 1559, 2002
+16. Kelsey JL, Bernstein L: Epidemiology and prevention of breast
+cancer. Annu Rev Public Health 17: 47–67, 1996
+17. Krieger N: Exposure, susceptibility, and breast cancer risk: a
+hypothesis regarding exogenous carcinogens, breast tissue devel-
+opment, and social gradients, including black/white diﬀerences in
+breast cancer incidence. Breast Cancer Res Treat 13: 205–223,
+1989
+18. http://www.cdc.gov/nchs/data/nvsr/nvsr50/nvsr50-10.pdf; May 2,
+2003
+104
+SA Joslyn et al.
+
+19. Newman LA, Bunner S, Carolin K, et al.: Ethnicity related dif-
+ferences in the survival of young breast carcinoma patients. Cancer
+97(Suppl): 258–272, 2003
+20. Muir C, Waterhouse J, Mack T, et al. (eds): In: Cancer in Five
+Continents, Vol. 5. IARC Scientiﬁc Publication no. 88. Interna-
+tional Agency for Research on Cancer and International Associ-
+ation of Cancer Registries, Lyon, France, 1987
+21. Miller BA, Kolonel LN, Bernstein L,Young Jr JL, Swanson GM,
+West D, Key CR, LiﬀJM, Glover CD, Alexander GA, et al.
+(eds): In: Racial/Ethnic Patterns of Cancer in the United States
+1988–1992. National Cancer Institute, 1996
+22. Breen N, Wagener DK, Brown ML, Davis WW, Ballard-Barbash
+R: Progress in cancer screening over a decade: results of the cancer
+screening from the1987, 1992, and 1998 National Health Interview
+Surveys. J Natl Cancer Inst 93: 1704–1713, 2001
+23. Swan J, Breen N, Coates RJ, Rimer BK, Lee NC: Progress in
+cancer screening practices in the United States: results from the
+2000 National Health Interview Survey. Cancer 97: 1528–1540,
+2003
+24. Behavior Risk Factor Surveillance System 2000, National Center
+for Chronic Disease Prevention and Health Promotion, Centers
+for Disease Control and Prevention 93: 1704–1713, 2001
+25. Blackman DK, Bennett EM, Miller DS: Trends in self-reported use
+of mammograms (1989–1997) and Papanicolaou tests (1991–1997) –
+BehavioralRiskFactor SurveillanceSystem. MMWR48: SS-6,1999
+26. Brinton LA, Benichou J, Gammon MD, Brogan DR, Coates R,
+Schoenberg JB: Ethnicity and variation in breast cancer incidence.
+Int J Cancer 73(3): 349–355, 1997
+27. Pathak DR, Osuch JR, He J: Breast carcinoma etiology: current
+knowledge and new insights into the eﬀects of reproductive and
+hormonal risk factors in black and white populations. Cancer
+88(Suppl): 1230–1238, 2000
+28. Palmer JR, Wise LA, Horton NJ, Adams-Campbell LL, Rosen-
+berg L: Dual eﬀect of parity on breast cancer risk in African
+American women. J Natl Cancer Inst 95: 478–483, 2003
+29. Hulstrom D (ed): Standards for Cancer Registries Volume II: Data
+Standards and Data Dictionary, 7th ed, Version 10. North
+American Association of Central cancer Registries, Springﬁeld, IL,
+March 2002
+30. Poe GS, Powell-Griner E, McLaughlin JK, Placek PJ, Thompson
+GB, Robinson K: Comparability of the death certiﬁcate and the
+1986 national mortality follow-back survey. National Center for
+Health Statistics. Vital and Health Stat volume 2, 1993
+31. Kolonel LN, Goodman MT: Racial variation in cancer: fact or
+artifact. J Natl Cancer Inst 84: 916–917, 1992
+32. Rosenberg HM, Maurer JD, Sorlie PD, Johnson NJ, MacDorman
+MF, Hoyert DL, Spitler JF, Scott C: Quality of death rates by race
+and Hispanic origin: a summary of current research, 1999.
+National Center for Health Statistics. Vital and Health Statistics,
+Series 2, No. 128, September 1999
+33. Hogan H: The 1990 post-enumeration survey: operations and
+results. J Am Stat Assoc 88: 1047–1060, 1993
+34. Schultz J: Cancer rates change slightly with census data correction.
+J Natl Cancer Inst 95: 775–777, 2003
+35. Howe HL, Carozza S, O’Malley C, et al. (eds): In: Cancer in US
+Hispanics/Latinos, 1995–2000. North American Association of
+Central Cancer Registries, Springﬁeld, IL, December 2003
+36. NAACCR Expert Panel in Hispanic Identiﬁcation. Report of the
+NAACCR Expert Panel on Hispanic Identiﬁcation 2003. North
+American Association of Central Cancer Registries, Springﬁeld,
+IL, October 2003
+37. Ries LA, Eisner MP. Kosary CL, Hankey BF, Miller BA, Clegg L,
+Edwards BK (eds): SEER Statistics Review, 1973–1999. National
+Cancer Institute, 2002
+38. Marbella AM, Layde PM: Racial trends in age-speciﬁc breast
+cancer mortality rates in US women. Am J Publ Health 91: 118–
+121, 2001
+39. Chu KC, Tarone RE, Brawley OW: Breast cancer trends of black
+women compared with white women. Arch Fam Med 8: 521–528,
+1999
+40. Shavers VL, Brown ML: Racial and ethnic disparities in the
+receipt of cancer treatment. J Natl Cancer Inst 94: 334–356,
+2002
+41. Poola I, Clark R, DeWitty R, Leﬀall LD: Functionally active
+estrogen receptor isoform proﬁles in the breast tumors of African
+American women are diﬀerent from the proﬁles in breast tumors
+of Caucasian women. Cancer 94: 615–623, 2002
+42. Moormeirer J: Breast cancer in black women. Ann Intern Med 15:
+897–905, 1996
+43. Chu KC, Anderson WF, Fritz A, Ries LA, Brawley OW: Fre-
+quency distributions of breast cancer characteristics classiﬁed by
+estrogen receptor and progesterone receptor status for eight racial
+ethnic groups. Cancer 92: 37–45, 2002
+44. Lannin DR, Mathews HF, Mitchell J, Swanson MS, Swanson FH,
+Edwards MS: Inﬂuence of socioeconomic and cultural factors on
+racial diﬀerence in late-stage presentation of breast cancer. JAMA
+279: 1801–1807, 1998
+45. Bradley CJ, Given CW, Roberts C: Race, socioeconomic status
+and breast cancer treatment and survival. J Natl Cancer Inst 94(7):
+490–504, 2002
+46. Cancer Facts & Figures for African American 2000–2001. Amer-
+ican Cancer Society, 2000
+Address for oﬀprints and correspondence: Sue A. Josyln, PhD, 221
+WRC, University of Northern Iowa, Cedar Falls, IA 50614-0241; Tel.:
++319-273-6155; Fax: +319-273-5958; E-mail: sue.joslyn@uni.edu
+Racial/ethnic disparities in breast cancer
+105
+

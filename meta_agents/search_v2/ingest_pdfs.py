@@ -26,16 +26,30 @@ MANUAL = os.path.join(HERE, "manual_download_needed.csv")
 
 
 def pdf_to_text(path):
+    # PyMuPDF first: no cryptography dependency (pypdf/pdfminer break where the
+    # cryptography rust backend is unavailable). Fall back to the others.
+    try:
+        import pymupdf  # aka fitz
+        doc = pymupdf.open(path)
+        return "\n".join(page.get_text() for page in doc)
+    except BaseException:
+        pass
+    try:
+        import fitz
+        doc = fitz.open(path)
+        return "\n".join(page.get_text() for page in doc)
+    except BaseException:
+        pass
     try:
         import pypdf
         reader = pypdf.PdfReader(path)
         return "\n".join((p.extract_text() or "") for p in reader.pages)
-    except Exception:
+    except BaseException:
         pass
     try:
         from pdfminer.high_level import extract_text
         return extract_text(path)
-    except Exception:
+    except BaseException:
         return None
 
 
