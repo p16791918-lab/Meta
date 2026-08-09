@@ -1,6 +1,6 @@
 # Table S. Characteristics of included studies
 
-Studies included after full-text review (PRISMA 2020). Total included: **77** (quantitative synthesis: 65; narrative synthesis: 12).
+Studies included after full-text review (PRISMA 2020). Total included: **89** (quantitative synthesis: 74; narrative synthesis: 15).
 
 | # | Study (title, year) | Data source / registry | Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | PMID | DOI |
 |---|---|---|---|---|---|---|---|
@@ -81,3 +81,15 @@ Studies included after full-text review (PRISMA 2020). Total included: **77** (q
 | 75 | Race/ethnicity and changing US socioeconomic gradients in breast cancer incidence: California and Massachusetts, 1978-2002 (United States) (2006) | California + Massachusetts (SEER) | race/ethnicity + SES | age-standardized rates + RR | quantitative | 16425100 | 10.1007/s10552-005-0408-1 |
 | 76 | Racial differences in the incidence of breast cancer subtypes defined by combined histologic grade and hormone receptor status (2010) | SC + Ohio state registries (non-SEER) | race + ER/Grade subtype | age-specific + age-adjusted rates | quantitative | 20024610 | 10.1007/s10552-009-9472-2 |
 | 77 | Comparison of clinicopathologic features and survival in young American women aged 18-39 years in different ethnic groups with breast cancer (2013) | SEER | ethnic groups (18-39) | age-adjusted incidence rates | quantitative | 23907433 | 10.1038/bjc.2013.387 |
+| 78 | Trends and Patterns of Late and Unstaged Lung, Colorectal, Female Breast, and  Prostate Cancers among American Indians in the Northern Plains, 2002-2009 (2015) | NE/ND/SD state registries | AI/AN vs NHW | age-adjusted rates + RR | quantitative | 26320932 | 10.1353/hpu.2015.0089 |
+| 79 | Recent trends in breast cancer incidence among 6 Asian groups in the Greater Bay Area of Northern California (2007) | Greater Bay Area / CCR | 6 Asian subgroups vs NHW | age-adjusted rates + APC | quantitative | 17163416 | 10.1002/ijc.22432 |
+| 80 | Persistent poverty and breast cancer incidence by tumor subtype: intersections of rural/urban residence and race within USA Surveillance Epidemiology and End Results Registries, 2017 to 2021 (2026) | SEER 22 | race strata (comparator=poverty) | county-level age-adjusted rates | narrative | 41546752 | 10.1007/s10552-025-02114-z |
+| 81 | Changes in the pattern of breast cancer burden among African American women: Evidence based on 29 states and District of Columbia during 1998 to 2010 (2015) | SEER + NPCR + NAACCR (29 states) | African American vs Caucasian | age-specific rates + RR by region | quantitative | 25442056 | 10.1016/j.annepidem.2014.09.006 |
+| 82 | Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005) (2009) | SEER | race/ethnicity + area-SES (50+) | age-adjusted rates + RR | quantitative | 19124489 | 10.1158/1055-9965.epi-08-0679 |
+| 83 | Trends in Cancer Incidence among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999-2015 (2020) | CDC USCS (NPCR+SEER) | AI/AN vs NHW | AAIR + RR by IHS region | quantitative | 31764279 | 10.1097/ede.0000000000001140 |
+| 84 | Cancer Incidence and Trends in Persistent Poverty Areas of California by Race/Ethnicity and Sex (2025) | California Cancer Registry | race (comparator=PPA/non-PPA) | age-adjusted rates + IRR | narrative | 40736150 | 10.1002/cam4.71088 |
+| 85 | The role of area-level socioeconomic disadvantage in racial disparities in cancer incidence in metropolitan Detroit (2023) | Metro Detroit (MDCSS) | NHB vs NHW | age/sex-adjusted rates + RR | quantitative | 37184135 | 10.1002/cam4.6065 |
+| 86 | Characterizing breast cancer incidence and trends among Asian American, Native Hawaiian, and non-Hispanic White women in Hawaiʻi, 1990-2014 (2023) | Hawaii Tumor Registry | AANHPI + NHW | age-adjusted rates + subtype | quantitative | 36504334 | 10.1007/s10552-022-01659-7 |
+| 87 | Racial and socioeconomic disparities in breast cancer diagnosis and mortality in Pennsylvania (2022) | Pennsylvania Cancer Registry | black vs white | age-adjusted diagnosis rate | quantitative | 35064367 | 10.1007/s10549-021-06492-1 |
+| 88 | Cancer in Guam and Hawaii: A comparison of two U.S. Island populations (2017) | Guam CR + Hawaii TR | Guam vs Hawaii (not NHW) | age-adjusted rates | narrative | 29120826 | 10.1016/j.canep.2017.08.005 |
+| 89 | Breast cancer in the middle eastern population of California, 1988-2004 (2009) | California Cancer Registry | Middle Eastern vs NHW | age-adjusted rates + IRR | quantitative | 19292805 | 10.1111/j.1524-4741.2009.00694.x |

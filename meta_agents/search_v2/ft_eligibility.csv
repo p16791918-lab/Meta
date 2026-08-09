@@ -85,3 +85,15 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 448,include-quant,,California + Massachusetts (SEER),race/ethnicity + SES,age-standardized rates + RR,CA+MA incidence by race + SES gradient 1978-2002
 453,include-quant,,SC + Ohio state registries (non-SEER),race + ER/Grade subtype,age-specific + age-adjusted rates,subtype (grade/HR) incidence by race SC+Ohio 1996-2004
 455,include-quant,,SEER,ethnic groups (18-39),age-adjusted incidence rates,young 18-39 incidence by ethnicity SEER 1973-2009; survival-focused but rates present
+461,include-quant,,NE/ND/SD state registries,AI/AN vs NHW,age-adjusted rates + RR,AI/AN vs NHW breast incidence Northern Plains 2002-2009; late/unstaged focus but overall rates present
+463,include-quant,,Greater Bay Area / CCR,6 Asian subgroups vs NHW,age-adjusted rates + APC,Chinese/Japanese/Filipino/Korean/Vietnamese/S.Asian vs NHW GBACR 1990-2002; overlaps CCR
+474,include-narrative,,SEER 22,race strata (comparator=poverty),county-level age-adjusted rates,persistent-poverty x rural/urban x race SEER22 2017-2021; comparator=poverty not NHW -> narrative
+480,include-quant,,SEER + NPCR + NAACCR (29 states),African American vs Caucasian,age-specific rates + RR by region,AA/CA rate ratios by region/age 29 states 1998-2010
+485,include-quant,,SEER,race/ethnicity + area-SES (50+),age-adjusted rates + RR,incidence by race + area-SES women 50+ SEER 1987-2005
+500,include-quant,,CDC USCS (NPCR+SEER),AI/AN vs NHW,AAIR + RR by IHS region,AI/AN vs NHW breast incidence USCS 1999-2015
+504,include-narrative,,California Cancer Registry,race (comparator=PPA/non-PPA),age-adjusted rates + IRR,persistent-poverty-area incidence by race CCR 2006-2020; comparator=PPA not NHW -> narrative
+516,include-quant,,Metro Detroit (MDCSS),NHB vs NHW,age/sex-adjusted rates + RR,NHB/NHW breast incidence + RR metro Detroit MDCSS; ADI-framed but race-specific rates present
+522,include-quant,,Hawaii Tumor Registry,AANHPI + NHW,age-adjusted rates + subtype,Native Hawaiian/Japanese/Filipino + NHW Hawaii incidence HTR 1990-2014; overlaps 161
+541,include-quant,,Pennsylvania Cancer Registry,black vs white,age-adjusted diagnosis rate,PA black/white incidence + income; PA Cancer Registry
+565,include-narrative,,Guam CR + Hawaii TR,Guam vs Hawaii (not NHW),age-adjusted rates,Guam vs Hawaii breast incidence; comparator=island populations not NHW -> narrative
+587,include-quant,,California Cancer Registry,Middle Eastern vs NHW,age-adjusted rates + IRR,Middle Eastern vs NHW incidence CCR 1988-2004; key ME subgroup
