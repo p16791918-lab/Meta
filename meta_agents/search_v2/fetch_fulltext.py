@@ -205,11 +205,14 @@ def _html_to_text(html):
 
 def _get_bytes(url):
     try:
-        r = SESSION.get(url, timeout=60, allow_redirects=True)
+        r = SESSION.get(url, timeout=60, allow_redirects=True,
+                        headers={"Accept": "application/pdf,text/html,*/*"})
     except requests.RequestException as e:
         return None, "err:%s" % type(e).__name__
-    if not r or r.status_code != 200:
-        return None, "http:%s" % (r.status_code if r else "none")
+    # NB: a requests.Response is falsy for status >= 400, so test `is None`,
+    # and report the REAL status code (not "none") for diagnosis.
+    if r is None or r.status_code != 200:
+        return None, "http:%s" % (r.status_code if r is not None else "noresp")
     return r, ""
 
 
