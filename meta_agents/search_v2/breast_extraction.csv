@@ -1,0 +1,7 @@
+record_id,author_year,registry,period,std_pop,outcome_dim,minority_group,comparison_vs,minority_rate,min_ci_lo,min_ci_hi,nhw_rate,nhw_ci_lo,nhw_ci_hi,irr,irr_ci_lo,irr_ci_hi,provenance,source_location,notes
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,disaggregated-AANHPI,Japanese (young),NHW,,,,,,,1.02,0.91,1.14,directly-reported-IRR,Table 2 / text,young Japanese overall incidence ~ NHW; author verify PDF
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,disaggregated-AANHPI,Filipino (young),NHW,,,,,,,0.95,0.90,1.01,directly-reported-IRR,Table 2 / text,young Filipino overall ~ NHW; author verify PDF
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-TNBC,Asian-American combined,NHW,,,,,,,0.61,0.58,0.65,directly-reported-IRR,text,TNBC AA-combined lower than NHW
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRneg-HER2pos,Asian-American combined,NHW,,,,,,,1.21,1.12,1.30,directly-reported-IRR,text,HR-/HER2+ 20% higher in AA than NHW
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRpos-HER2neg,South Asian,NHW,,,,,,,1.48,1.29,1.69,directly-reported-IRR,text,HR+/HER2- South Asian higher than NHW
+324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRpos-HER2neg,Vietnamese,NHW,,,,,,,1.39,1.12,1.73,directly-reported-IRR,text,HR+/HER2- Vietnamese higher than NHW
