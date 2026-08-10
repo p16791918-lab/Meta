@@ -92,6 +92,7 @@ def main():
         fam, tier, fclass = registry_family(r["registry"])
         r["_family"] = fam
         r["_tier"] = tier
+        r["_fclass"] = fclass
         # Cluster on family CLASS (nested-national collapses to one), so the
         # main analysis keeps one national representative per outcome x group,
         # plus a separate IHS-PRCDA representative where applicable.
@@ -117,10 +118,28 @@ def main():
         best = max(members, key=score)
         rep_id[cl] = id(best)
 
+    # AIAN correction: unlinked national registries (USCS/SEER/NAACCR) racially
+    # MISCLASSIFY and undercount AIAN incidence; the IHS-PRCDA linkage is the
+    # field-standard, more valid source. Where an IHS-PRCDA AIAN representative
+    # exists for the same outcome dimension, demote the national AIAN
+    # representative to an undercount-flagged overlap (Feedback 5: not merely
+    # "most comprehensive coverage" but the most VALID population definition).
+    def is_aian(r):
+        s = (r["minority_group"] + " " + r["outcome_dim"]).lower()
+        return "aian" in s or "american indian" in s or "alaska nativ" in s
+    ihs_aian_dims = {r["outcome_dim"] for r in rows
+                     if is_aian(r) and r["_fclass"] == "IHS-PRCDA"
+                     and rep_id.get(r["_cluster"]) == id(r)}
+
     out = []
     for r in rows:
         if r["_is_anchor"]:
             main_flag, reason = "no (registry-direct anchor)", "SEER-Explorer reference, not a screened study"
+        elif (is_aian(r) and r["_fclass"] == "national"
+              and r["outcome_dim"] in ihs_aian_dims
+              and rep_id.get(r["_cluster"]) == id(r)):
+            main_flag = "no (AIAN undercount)"
+            reason = "unlinked national registry undercounts AIAN; IHS-PRCDA representative preferred"
         elif rep_id.get(r["_cluster"]) == id(r):
             n = len(clusters[r["_cluster"]])
             main_flag = "yes (representative)"
