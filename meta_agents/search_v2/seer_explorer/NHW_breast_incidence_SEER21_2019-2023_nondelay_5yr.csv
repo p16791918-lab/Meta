@@ -1,0 +1,21 @@
+"Breast"
+"SEER 5-Year Age-Adjusted Incidence Rates, 2019-2023"
+"By Race/Ethnicity and Sex, All Ages, All Stages"
+
+"","Female","Female","Female"
+"Race/Ethnicity","Rate per 100,000","Lower 95% C.I.","Upper 95% C.I."
+"Non-Hispanic White","141.3","140.8","141.8"
+
+
+"Data Source:"
+"-SEER Incidence Data, November 2025 Submission (1975-2023), SEER 21 registries [https://seer.cancer.gov/registries/terms.html]."
+"Methodology:"
+"-Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (20 age groups - Census P25-1130)."
+"Race/Ethnicity Coding:"
+"-For more details on SEER race/ethnicity groupings, please see Race and Hispanic Ethnicity Changes [https://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/]."
+"-Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA). "
+"-Incidence data for Hispanics and Non-Hispanics are based on the NAACCR Hispanic Latino Identification Algorithm (NHIA). "
+"Cancer Site Coding:"
+"-See SEER*Explorer Cancer Site Definitions [https://seer.cancer.gov/statistics-network/explorer/cancer-sites.html] for details about the cancer site coding used for SEER Incidence data."
+"-Stage at diagnosis is calculated using the Combined Summary Stage (2004+) recode, created from SEER Combined Summary Stage 2000 (2004-2017) & Derived Summary Stage 2018 (2018+). For more information, see the SEER documentation [https://seer.cancer.gov/seerstat/variables/seer/lrd-stage]."
+Created by https://seer.cancer.gov/statistics-network/explorer/ on Mon Aug 10 2026.
