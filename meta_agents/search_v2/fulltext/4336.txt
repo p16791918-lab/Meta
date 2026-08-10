@@ -1,0 +1,1085 @@
+record_id=4336 pmid=28407201 doi=10.1002/cncr.30701
+SOURCE: manual-pdf
+TITLE: Cancer Incidence Profile in Sub-Saharan African-Born Blacks in the United States: Similarities and Differences With US-Born Non-Hispanic Blacks
+
+Cancer Incidence Profile in Sub-Saharan African-Born Blacks in
+the United States: Similarities and Differences With US-Born
+Non-Hispanic Blacks
+Genet A. Medhanie, DVM, PhD1; Stacey A. Fedewa, MPH, PhD2; Hibret Adissu, DVM, PhD3; Carol E. DeSantis, MPH2;
+Rebecca L. Siegel, MPH2; and Ahmedin Jemal, DVM, PhD
+2
+BACKGROUND: Sub-Saharan African-born blacks (ABs) are one of the fastest-growing populations in the United States. However, to
+the authors’ knowledge, data regarding the cancer burden in this group are lacking, which would inform targeted cancer prevention
+and control. METHODS: The authors calculated age-standardized proportional incidence ratios (PIRs) comparing the frequency of the
+top 15 cancers in ABs with that of US-born non-Hispanic blacks (USBs) by sex and region of birth using incidence data for 2000
+through 2012 from the Surveillance, Epidemiology, and End Results (SEER 17) program. RESULTS: Compared with USBs, ABs had sig-
+nificantly higher PIRs of infection-related cancers (liver, stomach, and Kaposi sarcoma), blood cancers (leukemia and non-Hodgkin
+lymphoma), prostate cancer, and thyroid cancers (females only). For example, the PIR for Kaposi sarcoma in AB versus USB women
+was 12.06 (95% confidence interval [95% CI], 5.23-18.90). In contrast, ABs had lower PIRs for smoking-related and colorectal cancers
+(eg, for lung cancer among men, the PIR was 0.30 [95% CI, 0.27-0.34]). Furthermore, cancer occurrence in ABs versus USBs varied
+by region of birth. For example, the higher PIRs for liver cancer noted among male ABs (PIR, 3.57; 95% CI, 1.79-5.35) and for thyroid
+cancer in female ABs (PIR, 3.03; 95% CI, 2.03-4.02) were confined to Eastern African-born blacks, whereas the higher PIR for prostate
+cancer (PIR, 1.90; 95% CI, 1.78, 2.02) was confined to Western African-born blacks. CONCLUSIONS: The cancer incidence profile of
+ABs is different from that of USBs and varies by region of birth, suggesting differences in environmental, cultural, social, and genetic
+factors. The findings of the current study could stimulate etiologic research and help to inform targeted interventions. Cancer
+2017;123:3116-24. V
+C 2017 American Cancer Society.
+KEYWORDS: Africa, blacks, non-Hispanic, proportional incidence ratio, sub-Saharan.
+INTRODUCTION
+According to data from the 2015 American Community Survey, the number of black African immigrants (a majority of
+them from sub-Saharan Africa) in the United States increased from 1.4 million in 2006 to 2.1 million in 2015.1 This
+number is expected to grow because of the Immigration Act of 1990, an act that was passed2 to encourage immigration
+from underrepresented nations, as well as economic migration and refugee resettlements resulting from civil unrest
+(eg, Southern Sudan).
+There are differences between sub-Saharan African-born blacks and those born in the United States with respect to
+culture, beliefs, socioeconomic status, dietary patterns, and genetics that could affect the occurrence of cancer and other
+diseases.3-7 Despite these differences, cancer occurrence for blacks in the United States is typically presented in aggregate
+without regard to country or region of birth, thereby masking important potential differences that can inform cancer pre-
+vention and control policies and programs for African-born black immigrants.8 In this article, we present what to our
+knowledge is for the first time the distribution of cancer incidence in sub-Saharan African-born blacks residing in the
+United States using data from the Surveillance, Epidemiology, and End Results (SEER) program.
+MATERIALS AND METHODS
+Data Description
+We used the SEER program registries, representing approximately 28% of the US population,9 to identify cancer cases
+diagnosed from 2000 through 2012. We limited our analysis to cases with black race and non-Hispanic ethnicity with a
+known place of birth, excluding approximately 38% of the total number of black cases (207,498 cases). Data from 17 of
+Corresponding author: Ahmedin Jemal, DVM, PhD, Surveillance and Health Services Research Program, American Cancer Society, 250 Williams St NW, Atlanta,
+GA 30303; Fax: (404) 321-4669; ahmedin.jemal@cancer.org
+1Food Animal and Health Research Program, Ohio Agricultural Research and Development Center, The Ohio State University, Wooster, Ohio; 2Surveillance and
+Health Services Research Program, American Cancer Society, Atlanta, Georgia; 3Covance Laboratories, Greenfield, Indiana.
+Additional supporting information may be found in the online version of this article.
+DOI: 10.1002/cncr.30701, Received: January 10, 2017; Revised: February 28, 2017; Accepted: March 7, 2017, Published online April 13, 2017 in Wiley Online
+Library (wileyonlinelibrary.com)
+3116
+Cancer
+August 15, 2017
+Original Article
+
+the 18 SEER registries were used because the Alaska
+Native registry did not contain any black cases. Hispanic
+blacks were excluded because they represent a small per-
+centage of blacks in the United States and may have differ-
+ent cultural practices. We further limited our analysis to
+black patients diagnosed with 1 of the 15 most common
+cancers in males and females in Africa according to GLO-
+BOCAN 2012.10 These included cancers of the lip and
+oral cavity, esophagus, stomach, liver, colorectum, lung
+and bronchus, and urinary bladder as well as Kaposi sarco-
+ma, non-Hodgkin lymphoma (NHL), and leukemia in
+both men and women; cancers of prostate, larynx, naso-
+pharynx, other pharynx, and pancreas in men; and cancers
+of the cervix uteri, breast, corpus uteri, ovary, and thyroid
+in females. We chose to use the top 15 cancers in Africa
+instead of the top 15 cancers in US-born blacks because in
+general cancer patterns in first-generation immigrants are
+known to be similar to those of their countries of origin
+rather than to their host countries.11,12
+We obtained place of birth in the SEER database
+through a custom data request because it is suppressed in
+the publicly available database (Mandi Yu, personal com-
+munication, October 2015). We categorized birthplace
+into sub-Saharan African-born blacks (ABs) and US-born
+non-Hispanic blacks (USBs). Place of birth for ABs was
+categorized further according to the United Nations
+region classification into Eastern (Burundi, Djibouti, East
+Africa-not otherwise specified [NOS], Eritrea, Ethiopia,
+Kenya, Madagascar, Malawi, Mauritius, Mozambique,
+Rwanda, Somalia, United Republic of Tanzania, Uganda,
+Zambia, and Zimbabwe), Western (Gambia, Ghana,
+Liberia, Niger, Nigeria, Senegal, Sierra Leone, Togo, and
+West Africa-NOS), Southern (Southern Africa-NOS,
+South Africa, and Swaziland), and Middle African (Ango-
+la, Cameroon, and Democratic Republic of the Congo)
+regions.13 We identified 4465 newly diagnosed cases from
+1 of the top 15 cancer types among ABs in the SEER data-
+base during the study period. Of these cases, 1682 were
+from Eastern Africa, 2064 were from Western Africa, 104
+were from Southern Africa, 43 were from Middle Africa,
+and 572 were from other African countries NOS. During
+the same time period, we identified 327,773 USBs.
+We considered several covariates in the analysis. Age
+at the time of diagnosis was dichotomized into <20 years,
+20 to 39 years, 40 to 59 years, 60 to 69 years, or 70
+years; the median county-level household income was cat-
+egorized according to the 2000 US Census national medi-
+an family income into <$45,200 and $45,200; and
+marital status was categorized into married (which includ-
+ed common-law partner) and unmarried (which included
+never married, separated, divorced, and widowed). Health
+insurance, which was available for cases included for 2007
+through 2012 only, was categorized into insured or unin-
+sured for the age groups of <65 years and 65 years sepa-
+rately because of substantial differences in the percentage
+of uninsured individuals between the 2 age categories. For
+cancers with early detection methods/tests (female breast,
+prostate, cervix, and colorectum), stage of disease at the
+time of diagnosis was categorized into localized, regional,
+distant, or unknown/missing according to SEER summa-
+ry stage 2000.9
+Statistical Analyses
+We compared age, sex, and socioeconomic status (marital
+status, county-level median income, and health insurance
+status) between ABs and USBs using the Pearson chi-
+square test. To determine whether the distributions of
+cancer types varied between ABs and USBs, age-adjusted
+proportional incidence ratios (PIRs) for each of the 15
+cancer types were estimated with corresponding 95% con-
+fidence intervals (95% CIs) using a method previously
+described.14 Briefly, the PIR was calculated as the
+observed-to-expected ratio. The expected number of cases
+among ABs for each cancer type was calculated by multi-
+plying the total number of observed cancers in an age
+group (aged birth to 4 years, 5-9 years,. . ., aged 85
+years) by the corresponding percentage of cases in USBs,
+which was considered the standard. These observed and
+expected numbers then were summed over age groups to
+obtain the overall age-adjusted observed and expected
+numbers, respectively. For select cancers, we also calculat-
+ed PIRs for Eastern African-born blacks and Western
+African-born blacks versus USBs. The PIRs for the other
+African regions were not calculated because of sparse
+numbers. Comparisons based on <10 cases in ABs or
+USBs were excluded from the PIR analysis because esti-
+mates were deemed unstable. Because detailed population
+data by age and sex for black immigrants from sub-
+Saharan Africa were not available from the US Census
+Bureau, we could not calculate incidence rates, and
+instead used PIRs to describe and compare the burden of
+cancer between ABs and USBs.
+Using
+multinomial
+logistic
+regression
+models
+adjusting for age, county-level household income, and sex
+(colorectal cancer only), we compared the odds of being
+diagnosed at a distant or regional stage of disease com-
+pared with a localized stage (base category) between ABs
+and USBs for cancers with early detection methods. An
+interaction between sex and place of birth also was
+assessed to determine whether the association between
+Cancer Incidence Profile of African-Born Blacks/Medhanie et al
+Cancer
+August 15, 2017
+3117
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+stage at diagnosis and place of birth varied between males
+and females. Cases with unknown/missing stage at diag-
+nosis (among ABs: 20 cases for female breast, 32 cases for
+prostate, 7 cases for cervix, and 14 cases for colorectal and
+among USBs: 1448 cases for female breast, 2745 cases for
+prostate, 259 cases for cervix, and 2738 cases for colorec-
+tal) were excluded from analyses.
+To assess the influence of missing place of birth on
+the study findings, we compared sociodemographic char-
+acteristics and the distribution of cancer among black
+patients with an unknown and known place of birth. We
+also conducted models examining stage of disease at the
+time of diagnosis including missing place of birth as a
+covariate. Statistical analyses were performed using Stata
+statistical software (14.0.1 MP; StataCorp LP, College
+Station, Tex) using 2-tailed tests with a significance level
+set at an a <.05.
+RESULTS
+Demographic and area-based socioeconomic status varied
+significantly between newly diagnosed AB and USB
+patients with cancer (Table 1). Compared with USBs,
+ABs were younger (median age at the time of diagnosis:
+55 years vs 64 years) and were more likely to be married
+(56% vs 36%) and uninsured, both among those aged
+<65 years (15% vs 9%) and those aged 65 years (18%
+vs 1%). ABs were more likely to reside in more affluent
+counties compared with USBs (60% vs 33%). There were
+no significant differences noted with regard to stage of dis-
+ease at the time of diagnosis for cervical, breast, and colo-
+rectal cancers between ABs and USBs (see Supporting
+Information Table 1).
+Table 2 shows the relative frequency of the top 15
+cancers in ABs compared with USBs by sex. Among AB
+females, breast cancer was the most commonly diagnosed
+cancer, accounting for 35.0% of the total cases (741 of
+2119 cases), followed by colorectal (6.0%) and thyroid
+(4.9%) cancer. The pattern was similar for USB females
+except that lung cancer replaced thyroid cancer as the
+third most commonly diagnosed cancer. Among AB
+males, prostate cancer was the most commonly diagnosed
+cancer, representing approximately 37.9% of cases (888
+of 2346 cases), followed by colorectal (8.3%) and liver
+(7.2%) cancer. Prostate cancer also was the most frequent-
+ly diagnosed cancer in USB males (28.6% of the total
+cases), but was followed by lung (19.0%) and colorectal
+(10.7%) cancers. It is interesting to note that lung cancer
+accounted for 19% of all cancer diagnoses among USB
+males, but only 5% in AB males.
+Figure 1 shows PIRs for the 15 top cancers in ABs
+compared with USBs by sex. The PIR was significantly
+higher in ABs for 4 of the 15 top cancers (liver, stomach,
+Kaposi sarcoma, and leukemia) in both females and
+males, and for an additional 2 sites (prostate cancer and
+NHL) in males. In contrast, the PIR was significantly low-
+er in ABs for colorectal and lung cancer in both males and
+females and for cancers of urinary bladder, larynx, and lip
+and oral cavity in males (Table 2) (Figs. 1A and 1B).
+Table 3 depicts the PIRs comparing ABs versus
+USBs by region (Eastern African-born and Western
+African-born blacks) for 5 select cancers by sex. The sig-
+nificantly higher PIRs noted for thyroid cancer in AB
+females and for liver cancer and NHL in AB males were
+observed only in Eastern African-born blacks, whereas a
+higher PIR for prostate cancer was confined to Western
+African-born blacks.
+The percentage of blacks for whom data regarding
+place of birth were missing was greater among younger
+patients and those diagnosed in more recent years and var-
+ied across the registry (see Supporting Information Table
+2). In addition, there were disproportionate numbers of
+breast, thyroid (in females), and prostate cancer cases with
+a missing place of birth (see Supporting Information
+Table 3), The inclusion of missing place of birth in mod-
+els predicting stage of disease did not alter the point esti-
+mate for ABs, and those with an unknown place of birth
+had lower odds of distant stage disease (see Supporting
+Information Table 4).
+DISCUSSION
+In the current study, to the best of our knowledge, we pro-
+vide the first comprehensive description of the cancer inci-
+dence profile of ABs in the United States. Compared with
+USBs, ABs had significantly higher PIRs for infection-
+related cancers (liver, stomach, and Kaposi sarcoma) and
+blood cancers (leukemia and NHL), but lower PIRs for
+smoking-related cancers (lung, lip and oral cavity, larynx,
+and urinary bladder). ABs also had significantly higher
+PIRs for thyroid cancer in females and for prostate cancer.
+It is interesting to note that the significantly higher PIRs
+for thyroid cancer in females and for liver cancer and
+NHL in males were confined to Eastern African-born
+blacks, whereas the higher PIR for prostate cancer was
+observed only in Western African-born blacks.
+Infectious agents are the causes of some of the most
+commonly diagnosed cancers in Africa.15 The higher
+PIRs of infection-associated cancers in ABs were not unex-
+pected considering the high prevalence of infectious
+agents associated with cancer such as herpesvirus 8 (Kaposi
+Original Article
+3118
+Cancer
+August 15, 2017
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1. Case Characteristics Among Sub-Saharan African-Born and US-Born Blacks: SEER 17, 2000 Through 2012
+Sub-Saharan
+Born
+US Born
+African Regions Among Sub-Saharan Blacks
+Eastern
+Western
+Southern
+Middle
+Otherb
+N 5 4465
+N 5 327,773
+N 5 1682
+N 5 2064
+N 5 104
+N 5 43
+N 5 572
+Categories
+% (No.)
+% (No.)
+Pa
+% (No.)
+% (No.)
+% (No.)
+% (No.)
+% (No.)
+Age at diagno-
+sis, y
+<20
+1.4 (61)
+1.0 (3324)
+<.001
+1.6 (27)
+1.1 (23)
+1.0 (1)
+2.3 (1)
+1.6 (9)
+20-39
+13.4 (599)
+4.1 (13,576)
+16.9 (284)
+10.6 (218)
+7.7 (8)
+23.3 (10)
+13.8 (79)
+40-59
+47.3 (2113)
+32.4 (106,345)
+44.6 (750)
+49.2 (1016)
+48.1 (50)
+46.5 (20)
+48.4 (277)
+60-69
+23.1 (1031)
+26.9 (88,231)
+20.9 (351)
+24.8 (512)
+27.9 (29)
+16.3 (7)
+23.1 (132)
+70
+14.8 (661)
+35.5 (116,297)
+16.1 (270)
+14.3 (295)
+15.4 (16)
+11.6 (5)
+13.1 (75)
+Sex
+Male
+52.5 (2346)
+52.2 (171,131)
+.659
+41.8 (703)
+59.8 (1235)
+50.0 (52)
+65.1 (28)
+57.3 (328)
+Female
+47.5 (2119)
+47.8 (156,642)
+58.2 (979)
+40.2 (829)
+50.0 (52)
+34.9 (15)
+42.7 (244)
+Marital status
+Married
+56.1 (2504)
+36.4 (119,469)
+<.001
+52.1 (877)
+60.2 (1241)
+53.9 (56)
+41.9 (18)
+54.5 (312)
+Not married
+37.7 (1682)
+58.3 (190,963)
+40.2 (677)
+34.5 (713)
+39.4 (41)
+53.4 (23)
+39.9 (228)
+Unknown
+6.2 (279)
+5.3 (17,341)
+7.7 (128)
+5.3 (110)
+6.7 (7)
+4.7 (2)
+5.6 (32)
+Health insurance
+at age <65 yc
+Insured
+81.6 (1191)
+86.9 (68,685)
+<.001
+86.5 (477)
+78.4 (541)
+90.2 (37)
+88.9 (8)
+75.7 (128)
+Uninsured
+15.1 (221)
+8.9 (7064)
+11.3 (62)
+18.1 (125)
+7.3 (3)
+11.1 (1)
+17.8 (30)
+Unknown
+3.3 (48)
+4.2 (3351)
+2.2 (12)
+3.5 (24)
+2.5 (1)
+0.0 (0)
+6.5 (11)
+Health insurance
+at age 65 yc
+Insured
+77.3 (438)
+92.1 (64,976)
+<.001
+82.8 (183)
+71.4 (185)
+90.2 (11)
+50.0 (1)
+79.4 (58)
+Uninsured
+17.5 (99)
+0.7 (522)
+12.2 (27)
+23.9 (62)
+8.3 (1)
+50.0 (1)
+11.0 (8)
+Unknown
+5.3 (30)
+7.2 (5087)
+5.0 (11)
+4.7 (12)
+0.0 (0)
+0.0 (0)
+9.6 (7)
+County-level
+median
+household
+income
+<$45,200
+40.4 (1803)
+66.7 (218,522)
+30.1 (507)
+47.2 (975)
+53.8 (56)
+55.8 (43)
+42.1 (241)
+$45,200
+59.6 (2662)
+33.3 (109,237)
+<.001
+69.9 (1175)
+52.8 (1089)
+46.2 (48)
+44.2 (19)
+57.9 (331)
+Median age at
+diagnosis, y
+Median (IQR)
+Median (IQR)
+54.5 (45.0-64.5)
+63.5 (53.0-73.5)
+54.0 (43.0-64.0)
+55.5 (47.0-64.0)
+56.5 (48.0-66.0)
+51.5 (40.0-60.5)
+53.5 (44.0-64.0)
+Abbreviations: IQR, interquartile range; SEER, Surveillance, Epidemiology, and End Results.
+a Comparison between Sub-Saharan-born and US-born non-Hispanic black individuals.
+b African countries not otherwise specified.
+c 2007 through 2012.
+Cancer Incidence Profile of African-Born Blacks/Medhanie et al
+Cancer
+August 15, 2017
+3119
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+sarcoma), secondary to human immunodeficiency virus
+(HIV)/acquired immune deficiency syndrome (AIDS);
+hepatitis B and C viruses (hepatocellular carcinoma); and
+Helicobacter pylori (gastric cancer) in both African indige-
+nous populations and immigrants in the United States.16
+For example, the prevalence of chronic hepatitis B virus
+infection was >8% in blacks born in sub-Saharan Africa
+compared with <2% in US-born blacks.17,18 It also is
+possible that a substantial percentage of ABs may have
+been exposed to aflatoxins, a known risk factor for liver
+cancer, before migrating to the United States through the
+consumption of contaminated food.19 However, the
+higher PIR for liver cancer observed in ABs was confined
+to Eastern African-born blacks, which in part reflects dif-
+ferences in the prevalence of hepatitis virus infection by
+region of birth among ABs.20,21 The higher PIR noted for
+Kaposi sarcoma in ABs was likely secondary to HIV/
+AIDS, because it was estimated that HIV diagnosis rates
+among African-born US residents were 6 times higher
+than those of the US population.22,23 Furthermore, the
+substantially greater PIR for Kaposi sarcoma observed
+among women compared with men reflects the very low
+percentage of the disease in USB women.
+The lower PIR of smoking-related cancers in ABs
+compared with USBs reflects the historical low prevalence
+of smoking in African-born blacks. Between 1990 and
+1994, the prevalence of smoking in foreign-born blacks
+(14%) was significantly lower than that in the USBs
+(30%).24 Africa has by far the lowest smoking-related can-
+cer mortality worldwide. According to the World Health
+TABLE 2. Relative Frequency and PIR of the Top 15 Cancers in Sub-Saharan African-Born Blacks Compared
+With US-Born Blacks: SEER 17, 2000 Through 2012
+Sub-Saharan
+African-Born Blacks
+% (No.)
+US-Born
+Non-Hispanic Blacks
+% (No.)
+PIR (95% CI)
+Females
+Breast
+35.0 (741)
+29.3 (45,832)
+1.01 (0.93-1.09)
+Colorectum
+6.0 (128)
+11.4 (17,893)
+0.66 (0.52-0.80)a
+Thyroid
+4.9 (103)
+1.5 (2318)
+2.05 (1.47-2.64)a
+Lung and bronchus
+4.4 (94)
+14.3 (22,331)
+0.38 (0.29-0.48)a
+Cervix uteri
+3.9 (83)
+2.3 (3631)
+1.09 (0.39-1.81)
+Corpus uteri
+3.8 (80)
+4.4 (6862)
+0.92 (0.61-1.25)
+NHL
+3.4 (72)
+2.5 (3865)
+1.19 (0.93-1.46)
+Leukemia
+3.0 (64)
+1.9 (3039)
+1.62 (1.21-2.03)a
+Stomach
+2.6 (54)
+2.1 (3339)
+1.54 (1.05-2.04)a
+Liver
+2.6 (54)
+1.0 (1600)
+2.76 (1.20-4.33)a
+Ovary
+2.5 (53)
+2.5 (3968)
+0.96 (0.65-1.29)
+Lip and oral cavity
+0.9 (19)
+0.9 (1399)
+0.90 (0.43-1.37)
+Urinary bladder
+0.8 (17)
+1.6 (2500)
+0.84 (0.45-1.23)
+Esophagus
+0.7 (14)
+0.9 (1365)
+0.90 (0.39-1.40)
+Kaposi sarcoma
+0.7 (14)
+0.0 (49)
+12.06 (5.23-18.90)a
+All other cancers
+25.0 (529)
+23.4 (36,646)
+Males
+Prostate
+37.9 (888)
+28.6 (48,858)
+1.53 (1.44-1.61)a
+Colorectum
+8.3 (195)
+10.7 (18,252)
+0.81 (0.65-0.97)a
+Liver
+7.2 (169)
+3.0 (5099)
+2.15 (1.67-2.64)a
+NHL
+5.9 (139)
+3.0 (5083)
+1.34 (1.20-1.48)a
+Lung and bronchus
+5.0 (121)
+19.0 (32,480)
+0.30 (0.27-0.34)a
+Leukemia
+3.0 (70)
+2.2 (3679)
+1.40 (1.21-1.60)a
+Stomach
+2.3 (55)
+2.1 (3675)
+1.14 (1.07-1.22)a
+Pancreas
+2.3 (53)
+3.2 (5550)
+0.73 (0.42-1.05)
+Urinary bladder
+1.9 (44)
+2.8 (4770)
+0.76 (0.67-0.86)a
+Kaposi sarcoma
+1.6 (37)
+0.5 (795)
+1.56 (1.07-2.04)a
+Larynx
+0.9 (22)
+1.9 (3273)
+0.49 (0.32-0.66)a
+Lip and oral cavity
+0.8 (18)
+1.6 (2790)
+0.39 (0.12-0.66)a
+Nasopharynx
+0.6 (13)
+0.2 (371)
+1.64 (0.60-2.68)
+Esophagus
+0.4 (9)
+1.9 (3325)
+Other pharynx
+0.2 (4)
+0.9 (1448)
+All other cancers
+22.4 (527)
+18.5 (31,683)
+Abbreviations: 95% CI, 95% confidence interval; NHL, non-Hodgkin lymphoma; PIR, proportional incidence ratio; SEER, Surveillance, Epidemiology, and End
+Results.
+A PIR >1.00 indicates a higher proportional incidence compared with US-born blacks whereas a PIR <1.00 indicates a lower proportional incidence compared
+with US-born blacks.
+a Value is statistically significant.
+Original Article
+3120
+Cancer
+August 15, 2017
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Organization, approximately 13% of cancer deaths in
+men and 1% of cancer deaths in women in Africa in 2004
+were attributed to tobacco use, compared with 28% in
+men and 4% in women in the Mediterranean, which has
+the second lowest smoking attributable fractions, and
+33% in men and 18% in women in the Americas.25
+Similar to USB women, breast cancer is the most fre-
+quently diagnosed cancer in AB women, which is not sur-
+prising because it also is the most commonly diagnosed
+cancer in most parts of sub-Saharan Africa.26,27 Breast
+cancer incidence rates have increased rapidly in sub-
+Saharan Africa over the last several decades, which may
+reflect changes in risk factors associated with economic
+development, including delayed child bearing, decreased
+parity, shortened duration of breastfeeding, and increased
+prevalence of obesity, as well as an increased awareness of
+breast cancer.28-31
+Prostate cancer was the most frequently diagnosed
+cancer in AB men, which is consistent with data among
+black men born in sub-Saharan Africa and USB men.26,27
+Furthermore, men of African descent originating from
+Western Africa are known to have the highest rates of
+prostate cancer worldwide.32 The higher PIR for prostate
+cancer in Western African-born blacks (65% of whom
+were identified as Nigerian-born individuals) compared
+with USBs and in USBs than Eastern African-born blacks
+(60% of whom were identified as Ethiopian-born or
+Eritrean-born individuals) suggest shared genetic risk
+Figure 1. (A) Proportional incidence ratios (PIRs) of the top 15 cancers in blacks born in sub-Saharan Africa compared with US-
+born blacks for males: Surveillance, Epidemiology, and End Results (SEER) 17 data, 2000 through 2012. (B) PIRs of the top 15
+cancers in blacks born in sub-Saharan Africa compared with US-born blacks for females: SEER 17 data, 2000 through 2012. 95%
+CI indicates 95% confidence interval; NHL, non-Hodgkin lymphoma.
+Cancer Incidence Profile of African-Born Blacks/Medhanie et al
+Cancer
+August 15, 2017
+3121
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+factors33,34 because the majority of USBs trace their roots
+to Western Africa because of the involuntary migration to
+North America as early as the 16th century.34
+The incidence of colorectal cancer globally is highest
+in economically developed countries in part because of
+the high prevalence of obesity and the consumption of an
+unhealthy diet in these countries.35,36 The lower colorec-
+tal cancer PIR in ABs compared with USBs is consistent
+with the global patterns.35,36 The lower risk of colorectal
+cancer noted among native Africans has been attributed to
+a lower prevalence of red meat and animal fat consump-
+tion and differences in the colonic microbiome, including
+lower levels of hydrogen-producing and secondary bile
+salt-producing bacteria.37 O’Keefe et al demonstrated
+reciprocal changes in markers of inflammation and prolif-
+eration in the colonic mucosa within 2 weeks of a closely
+supervised food exchange between rural Africans and Afri-
+can Americans.38
+Similar to liver cancer, the higher PIRs noted among
+ABs compared with USBs for thyroid cancer and NHL
+were confined to Eastern African-born blacks. Reasons for
+these patterns are unknown, but may reflect regional dif-
+ferences in putative risk factors for these cancers. For
+example, the highest incidence and mortality due to
+Epstein-Barr virus-associated NHL in Africa was reported
+in Eastern parts of the continent.39 Similarly, the high
+incidence of thyroid cancer in parts of Eastern Africa has
+been attributed to a high prevalence of iodine deficiency-
+associated goiter in that region.40-42
+There are several limitations to the current study.
+First, we did not have information regarding the length of
+stay in the United States, which could affect health behav-
+iors and access to care.8 Specifically, although accultura-
+tion appears to have benefits in terms of a better
+understanding of the importance of cancer screening and
+an awareness of health services, it also could contribute to
+increased exposure to cancer risk factors such as smoking,
+physical inactivity, and unhealthy dietary habits. In addi-
+tion, we could not calculate cancer incidence rates because
+of a lack of reliable population estimates for ABs, thereby
+underscoring the need for a concerted effort by the US
+Census Bureau to collect detailed population estimates for
+black immigrants from Africa and other parts of the
+world. Such data are important to assess the effect of the
+increasing size of the migrant population on the national
+cancer rates and trends among black individuals as first-
+TABLE 3. PIR of the 5 Most Frequent Cancers in Sub-Saharan African-Born Black Migrants Compared With
+US-Born Blacks By Region of Origin: SEER 17, 2000 Through 2012
+Western African-Born
+Blacks
+Eastern African-Born Blacks
+Percent
+Cases
+PIR (95% CI)
+Percent
+Cases
+PIR (95% CI)
+Femalea
+Breast
+35.5
+294
+1.04 (0.93-1.15)
+34.0
+333
+0.98 (0.85-1.12)
+Colorectum
+7.0
+58
+0.74 (0.51-0.97)b
+5.1
+50
+0.57 (0.41-0.72)b
+Thyroid
+2.7
+22
+1.19 (0.65-1.74)
+7.5
+73
+3.03 (2.03-4.02)b
+Lung and bronchus
+4.0
+33
+0.33 (0.16-0.50)b
+4.6
+45
+0.41 (0.27-0.55)b
+Corpus uteri
+4.0
+33
+0.96 (0.49-1.43)
+2.9
+28
+0.71 (0.41-1.01)
+Malec
+Prostate
+48.5
+599
+1.90 (1.78-2.02)b
+20.2
+142
+0.84 (0.76-0.92)b
+Colorectum
+8.2
+101
+0.80 (0.62-0.98)b
+9.2
+65
+0.90 (0.65-1.15)
+Liver
+4.9
+61
+1.40 (0.11-2.69)
+11.0
+77
+3.57 (1.79-5.35)b
+NHL
+4.8
+59
+1.14 (0.89-1.40)
+7.5
+53
+1.59 (1.36-1.82)b
+Lung and bronchus
+4.0
+49
+0.23 (0.18-0.27)b
+7.0
+49
+0.42 (0.33-0.51)b
+Both sexesd
+Colorectum
+7.7
+159
+0.78 (0.65-0.91)b
+6.8
+115
+0.71 (0.58-0.84)b
+Liver
+3.3
+68
+1.48 (0.27-2.69)
+7.1
+119
+3.52 (1.69-5.36)b
+Lung and bronchus
+4.0
+82
+0.27 (0.21-0.33)b
+5.6
+94
+0.40 (0.32-0.49)b
+NHL
+4.0
+83
+1.17 (0.96-1.40)
+5.5
+93
+1.44 (1.22-1.66)b
+Thyroid
+1.7
+35
+1.25 (0.69-1.80)
+5.1
+86
+3.25 (2.02-4.47)b
+Abbreviations: 95% CI, 95% confidence interval; NHL, non-Hodgkin lymphoma; PIR, proportional incidence ratio; SEER, Surveillance, Epidemiology, and End
+Results.
+A PIR >1.00 indicates a higher proportional incidence compared with US-born blacks, whereas a PIR <1.00 indicates a lower proportional incidence com-
+pared with US-born blacks.
+a Percentages are based on 829 Western African-born and 979 Eastern African-born female blacks, respectively.
+b Value is statistically significant.
+c Percentages are based on 1235 Western African-born and 703 Eastern African-born male blacks, respectively.
+d Percentages are based on 2064 Western African-born and 1682 Eastern African-born male and female blacks, respectively.
+Original Article
+3122
+Cancer
+August 15, 2017
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+generation immigrants tend to have a lower overall cancer
+incidence.43,44
+Moreover, the findings of the current study should
+be interpreted with caution because approximately 38%
+of non-Hispanic blacks were excluded from our main
+analyses due to having an unknown birthplace in the
+SEER database. As with previous studies using the SEER
+database for the analysis of cancer patterns by birth-
+place,45-48 completeness of birthplace was not random
+and varied substantially by age, median family income,
+year of diagnosis, registries, and cancer types (see Support-
+ing Information Tables 2 and 3). In addition, previous
+studies reported that birthplace information in the SEER
+database was more likely to be recorded for foreign-born,
+less acculturated, and dead patients.45-48 However,
+despite these limitations, it is interesting to note that
+when birthplace information is recorded in the registry
+database it is highly accurate compared with self-reported
+data,47,48
+and
+imputation
+data
+reasonably
+predict
+unknown birthplace according to US birth/foreign birth
+for some ethnicities (eg, Hispanics), although not accord-
+ing to region or country of birth.49 Furthermore, the
+inclusion of an unknown place of birth into models pre-
+dicting stage of disease at the time of diagnosis did not
+appear to alter the main findings of the current study.
+The cancer incidence profile of ABs is different from
+that of USBs and varies by countries (region) of origin,
+suggesting regional differences in environmental, cultural,
+social, and genetic factors. The current study findings
+could stimulate etiologic research and help to inform tar-
+geted cancer control interventions.
+FUNDING SUPPORT
+Supported by the Intramural Research Department of the American
+Cancer Society.
+CONFLICT OF INTEREST DISCLOSURES
+The authors made no disclosures.
+AUTHOR CONTRIBUTIONS
+Conceptualization: Genet A. Medhanie, Hibret Adissu, and
+Ahmedin Jemal. Methodology: Genet A. Medhanie, Stacey A.
+Fedewa, and Ahmedin Jemal. Validation: Genet A. Medhanie,
+Stacey A. Fedewa, and Ahmedin Jemal. Formal analysis: Genet A.
+Medhanie. Investigation: Genet A. Medhanie, Stacey A. Fedewa,
+Hibret Adissu, and Ahmedin Jemal. Data curation: Genet A.
+Medhanie. Writing–original draft: Genet A. Medhanie and
+Hibret Adissu. Writing–review and editing: Genet A. Medhanie,
+Stacey A. Fedewa, Hibret Adissu, Carol E. DeSantis, Rebecca L.
+Siegel, and Ahmedin Jemal. Visualization: Genet A. Medhanie.
+Supervision: Stacey A. Fedewa and Ahmedin Jemal. Project
+administration: Ahmedin Jemal.
+REFERENCES
+1. US Census Bureau. American factfinder. https://factfinder.census.
+gov/faces/nav/jsf/pages/guided_search.xhtml. Accessed December 19,
+2016.
+2. Wasem RE. Diversity Immigrant Visa Lottery Issues. Congressional
+Research Service 7-5700. Washington, DC: DIANE Publishing;
+2011.
+3. Ehiwe E, McGee P, Filby M, Thomson K. Black African migrants’
+perceptions of cancer: are they different from those of other ethnici-
+ties, cultures and races? Ethn Inequal Health Soc Care. 2012;5:5-11.
+4. Gambino CP, Trevelyan EN, Fitzwater JT. The Foreign-Born Popu-
+lation From Africa: 2008-2012. Washington, DC: US Census
+Bureau, American Community Survey Briefs; 2014.
+5. Tishkoff SA, Reed FA, Friedlaender FR, et al. The genetic structure
+and history of Africans and African Americans. Science. 2009;324:
+1035-1044.
+6. Campbell MC, Tishkoff SA. African genetic diversity: implications
+for human demographic history, modern human origins, and com-
+plex disease mapping. Annu Rev Genomics Hum Genet. 2008;9:403-
+433.
+7. Bryc K, Auton A, Nelson MR, et al. Genome-wide patterns of pop-
+ulation structure and admixture in West Africans and African Ameri-
+cans. Proc Natl Acad Sci U S A. 2010;107:786-791.
+8. Hurtado-de-Mendoza A, Song M, Kigen O, Jennings Y, Nwabukwu
+I, Sheppard VB. Addressing cancer control needs of African-born
+immigrants in the US: a systematic literature review. Prev Med.
+2014;67:89-99.
+9. Surveillance, Epidemiology, and End Results (SEER) Program.
+SEER*Stat Database: Incidence-SEER 18 Regs Research Data 1
+Hurricane Katrina Impacted Louisiana Cases, Nov. 2015 Sub (2000-
+2012) <Katrina/Rita Population Adjustment>-Linked To County
+Attributes-Total US, 1973-2012 Counties. Bethesda, MD: National
+Cancer Institute, Division of Cancer Control and Population Scien-
+ces, Surveillance Research Program, Surveillance Systems Branch;
+2015.
+10. World Health Organization. GLOBOCAN 2012: Estimated Cancer
+Incidence. Mortality and Prevalence Worldwide in 2012. http://glo-
+bocan.iarc.fr/pages/fact_sheets_population.aspx. Accessed January 15,
+2016.
+11. Maskarinec G, Noh JJ. The effect of migration on cancer incidence
+among Japanese in Hawaii. Ethn Dis. 2004;14:431-439.
+12. Ziegler RG, Hoover RN, Pike MC, et al. Migration patterns and
+breast cancer risk in Asian-American women. J Natl Cancer Inst.
+1997;85:1819-1827.
+13. United Nations Statistics Division. Composition of macro geograph-
+ical (continental) regions, geographical sub-regions, and selected eco-
+nomic and other groupings. https://unstats.un.org/unsd/methods/
+m49/m49regin.htm. Accessed February 20, 2016.
+14. Boyle P, Parkin DM. Cancer registration: principles and methods.
+Statistical methods for registries. IARC Sci Publ. 1991;(95):126-158.
+15. Jemal A, Bray F, Forman D, et al. Cancer burden in Africa and
+opportunities for prevention. Cancer. 2012;118:4372-4384.
+16. Sylla BS, Wild CP. A million Africans a year dying from cancer by
+2030: what can cancer research and control offer to the continent?
+Int J Cancer. 2012;130:245-250.
+17. Parkin DM, Sitas F, Chirenje M, Stein L, Abratt R, Wabinga H.
+Part I: Cancer in Indigenous Africans-burden, distribution, and
+trends. Lancet Oncol. 2008;9:683-692.
+18. Forde KA, Tanapanpanit O, Reddy KR. Hepatitis B and C in Afri-
+can Americans: current status and continued challenges. Clin Gastro-
+enterol Hepatol. 2014;12:738-748.
+19. Wild CP, Gong YY. Mycotoxins and human disease: a largely
+ignored global health issue. Carcinogenesis. 2010;31:71-82.
+20. Yang JD, Altekruse SF, Nguyen MH, Gores GJ, Roberts LR. Impact
+of country of birth on age at the time of diagnosis of hepatocellular
+carcinoma in the United States. Cancer. 2017;123:81-89.
+21. Karoney MJ, Siika AM. Hepatitis C virus (HCV) infection in Afri-
+ca: a review. Pan Afr Med J. 2013;14:44.
+22. Blanas DA, Nichols K, Bekele M, Lugg A, Kerani RP, Horowitz
+CR. HIV/AIDS among African-born residents in the United States.
+J Immigr Minor Health. 2013;15:718-724.
+Cancer Incidence Profile of African-Born Blacks/Medhanie et al
+Cancer
+August 15, 2017
+3123
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+23. Kerani RP, Kent JB, Sides T, et al. HIV among African-born per-
+sons in the United States: a hidden epidemic? J Acquir Immune Defic
+Syndr. 2008;49:102-106.
+24. King G, Polednak AP, Bendel R, Hovey D. Cigarette smoking
+among native and foreign-born African Americans. Ann Epidemiol.
+1999;9:236-244.
+25. Machii R, Saika K. Mortality attributable to tobacco by region based
+on the WHO Global Report. Jpn J Clin Oncol. 2012;42:464-465.
+26. DeSantis CE, Siegel RL, Sauer AG, et al. Cancer statistics for Afri-
+can Americans, 2016: progress and opportunities in reducing racial
+disparities. CA Cancer J Clin. 2016;66:290-308.
+27. Parkin DM, Bray F, Ferlay J, Jemal A. Cancer in Africa 2012. Can-
+cer Epidemiol Biomarkers Prev. 2014;23:953-966.
+28. DeSantis CE, Bray F, Ferlay J, Lortet-Tieulent J, Anderson BO, Jemal
+A. International variation in female breast cancer incidence and mortal-
+ity rates. Cancer Epidemiol Biomarkers Prev. 2015;24:1495-1506.
+29. Boyle P, Howell A. The globalisation of breast cancer. Breast Cancer
+Res. 2010;12(suppl 4):S7.
+30. Porter P. “Westernizing” women’s risks? Breast cancer in lower-
+income countries. N Engl J Med. 2008;358:213-216.
+31. Sighoko D, Kamate B, Traore C, et al. Breast cancer in pre-
+menopausal women in West Africa: analysis of temporal trends and
+evaluation of risk factors associated with reproductive life. Breast.
+2013;22:828-835.
+32. Center MM, Jemal A, Lortet-Tieulent J, et al. International variation
+in prostate cancer incidence and mortality rates. Eur Urol. 2012;61:
+1079-1092.
+33. Fedewa SA, Jemal A. Prostate cancer disease severity and country of
+origin among black men in the United States. Prostate Cancer Pros-
+tatic Dis. 2013;16:176-180.
+34. Voyages Database. Voyages: The Trans-Atlantic Slave Trade Data-
+base; 2009. Available from: http://www.slavevoyages.org. Accessed
+March 16, 2017.
+35. Arnold M, Sierra MS, Laversanne M, Soerjomataram I, Jemal A,
+Bray F. Global patterns and trends in colorectal cancer incidence
+and mortality. Gut. 2017;66:683-691.
+36. Haggar FA, Boushey RP. Colorectal cancer epidemiology: incidence,
+mortality, survival, and risk factors. Clin Colon Rectal Surg. 2009;22:
+191-197.
+37. O’Keefe SJ, Chung D, Mahmoud N, et al. Why do African Ameri-
+cans get more colon cancer than Native Africans? J Nutr. 2007;
+137(suppl 1):175S-182S.
+38. O’Keefe SJ, Li JV, Lahti L, et al. Fat, fibre and cancer risk in Afri-
+can Americans and rural Africans. Nat Commun. 2015;6:6342.
+39. Orem J, Mbidde EK, Lambert B, de Sanjose S, Weiderpass E. Bur-
+kitt’s lymphoma in Africa, a review of the epidemiology and etiolo-
+gy. Afr Health Sci. 2007;7:166-175.
+40. Melak T, Mathewos B, Enawgaw B, Damtie D. Prevalence and
+types of thyroid malignancies among thyroid enlarged patients in
+Gondar, Northwest Ethiopia: a three years institution based retro-
+spective study. BMC Cancer. 2014;14:899.
+41. Okosieme OE. Impact of iodination on thyroid pathology in Africa.
+J R Soc Med. 2006;99:396-401.
+42. Ogbera AO, Kuku SF. Epidemiology of thyroid diseases in Africa.
+Indian J Endocrinol Metab. 2011;15(suppl 2):S82-S88.
+43. Bray F, Parkin DM. Descriptive Studies. In: Ahrens W, Pigeot I,
+editors. Handbook of Epidemiology. New York: Springer, 2014:
+187-258.
+44. Haenszel W. Cancer mortality among the foreign-born in the Unit-
+ed States. J Natl Cancer Inst. 1961;26:37-132.
+45. Lin SS, O’Malley CD, Lui SW. Factors associated with missing
+birthplace information in a population-based cancer registry. Ethn
+Dis. 2001;11:598-605.
+46. Lin SS, Clarke CA, O’Malley CD, Le GM. Studying cancer inci-
+dence and outcomes in immigrants: methodological concerns. Am J
+Public Health. 2002;92:1757-1759.
+47. Gomez SL, Glaser SL, Kelsey JL, Lee MM. Bias in complete-
+ness of birthplace data for Asian groups in a population-based
+cancer registry (United States). Cancer Causes Control. 2004;15:
+243-253.
+48. Gomez SL, Glaser SL. Quality of cancer registry birthplace data for
+Hispanics living in the United States. Cancer Causes Control. 2005;
+16:713-723.
+49. Montealegre JR, Zhou R, Amirian ES, Scheurer ME. Uncovering
+nativity disparities in cancer patterns: multiple imputation strategy
+to handle missing nativity data in the Surveillance, Epidemiology,
+and End Results data file. Cancer. 2014;120:1203-1211.
+Original Article
+3124
+Cancer
+August 15, 2017
+ 10970142, 2017, 16, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.30701 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

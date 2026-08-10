@@ -214,30 +214,30 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 157,exclude,Full text unavailable,,,,"could not obtain: ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies"
 238,recheck,,,,,PDF present but text-layer poor/scanned (pdf-no-textlayer); author reads PDF directly
 253,exclude,Full text unavailable,,,,could not obtain: Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies
-381,pending,,,,,awaiting full-text retrieval (still in download list): Age/race differences in HER2 testing and in incide
 415,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN
 424,exclude,Full text unavailable,,,,"could not obtain: Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies"
 428,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives (corrected dup of 415)
 475,recheck,,,,,PDF present but text-layer poor/scanned (manual-pdf-lowtext); author reads PDF directly
 476,exclude,Full text unavailable,,,,"could not obtain: Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800)"
-1800,pending,,,,,awaiting full-text retrieval (still in download list): Rural–Urban Cancer Incidence and Trends in the Uni
-2038,pending,,,,,awaiting full-text retrieval (still in download list): Incidence trends in triple-negative breast cancer 
 3116,exclude,Full text unavailable,,,,"could not obtain: Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally"
 3268,exclude,Full text unavailable,,,,"could not obtain: Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN"
-3360,pending,,,,,awaiting full-text retrieval (still in download list): The effect of migration on cancer incidence among 
-3369,pending,,,,,awaiting full-text retrieval (still in download list): Is male breast cancer similar or different than fe
-3394,pending,,,,,awaiting full-text retrieval (still in download list): Cancer in the Minnesota Hmong population
-3398,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence patterns in Koreans in the US and
-3640,pending,,,,,awaiting full-text retrieval (still in download list): Structural Racism and Triple-Negative Breast Cance
-3662,pending,,,,,awaiting full-text retrieval (still in download list): Incidence of and Trends in the Leading Cancers wit
-3713,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence and mortality among Filipinos in 
-3780,pending,,,,,awaiting full-text retrieval (still in download list): Risk of cancer in Asian Americans: a Kaiser Perman
-3861,pending,,,,,awaiting full-text retrieval (still in download list): Asian ethnicity and breast cancer subtypes: A stud
-3891,pending,,,,,awaiting full-text retrieval (still in download list): Changes in cancer incidence patterns among a north
-3999,pending,,,,,awaiting full-text retrieval (still in download list): Cancer incidence patterns among Vietnamese in the 
-4037,pending,,,,,awaiting full-text retrieval (still in download list): The Impact of Eliminating Socioeconomic and Racial
-4039,pending,,,,,awaiting full-text retrieval (still in download list): Racial/ethnic patterns in lifetime and age-conditi
-4098,pending,,,,,"awaiting full-text retrieval (still in download list): Cancer incidence, mortality, and associated risk f"
-4147,pending,,,,,awaiting full-text retrieval (still in download list): AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-
-4333,pending,,,,,awaiting full-text retrieval (still in download list): Cancer among Hispanic women in South Florida: An 1
-4336,pending,,,,,awaiting full-text retrieval (still in download list): Cancer Incidence Profile in Sub-Saharan African-Bo
+381,include-quant,,Atlanta SEER + Georgia registry,by age/race + triple subtype,age-adjusted rates,first triple-subtype incidence by age/race Atlanta SEER; subtype
+3360,include-narrative,,Hawaii Tumor Registry,Japanese-in-Hawaii vs white,age-standardized rates (figures),Japanese-in-Hawaii migration; rates graphed figure-based -> narrative; overlaps Hawaii
+3369,exclude,Did not report the outcome of interest,SEER 9/12,male vs female (no race),age-adjusted rates,male vs female breast incidence SEER; NOT stratified by race/ethnicity
+3394,include-narrative,,Minnesota Cancer Surveillance System,Hmong vs US-born NHW,proportional incidence ratio (PIR),Minnesota Hmong PIR not incidence rate -> narrative; overlaps 2548 (newer MCSS Hmong)
+3398,include-quant,,SEER + California,Korean vs NHW,age-adjusted rates + RR,Korean vs NHW incidence + RR US(SEER+CA) 1988-1992; key Korean; overlaps 3288
+3640,include-narrative,,SEER 18,black vs white (TNBC),black-white rate ratios,structural-racism x TNBC black/white SEER18 2010-2016; exposure-framed -> narrative
+3662,include-quant,,NPCR+SEER (IHS-linked),AI/AN vs NHW,age-adjusted rates + RR,AI/AN vs NHW elevated-incidence cancers incl breast + RR by region 2012-2016; overlaps AIAN national
+3780,include-narrative,,Kaiser Permanente (cohort),Asian American vs NHW,cohort incidence,Kaiser Permanente cohort Asian vs NHW; cohort not population-based registry -> narrative
+3861,include-quant,,California Cancer Registry,Asian ethnicity vs NHW + subtype,subtype incidence rates,Asian ethnicity BC subtypes vs NHW CCR; subtype; overlaps CCR Asian (324/463)
+3891,include-quant,,New York State Cancer Registry (IHS-linked),northeastern AI vs NHW,age-adjusted rates,NE American Indian (Seneca) vs NHW breast incidence NYSCR 1955-2004; overlaps 3212
+3999,include-quant,,California Cancer Registry + SEER,Vietnamese US vs NHW,age-adjusted rates + RR,Vietnamese US vs NHW incidence + RR CCR+SEER 1988-1992; Ha Noi non-US comparator; key Vietnamese
+4037,exclude,Did not report the outcome of interest,NAACCR,all-cancer (premature deaths),age-standardized all-cancer rates,ACS eliminate-disparities report; all-cancer premature-deaths/mortality focus; not breast incidence by race
+4039,include-quant,,SEER,detailed race/ethnicity,age-adjusted rates + lifetime/age-conditional risk,DevCan lifetime & age-conditional risk by race incl breast SEER; detailed racial/ethnic groups
+4098,include-quant,,California Cancer Registry,5 Asian ethnicities vs NHW,age-adjusted rates,Chinese/Filipino/Vietnamese/Korean/Japanese vs NHW incidence CCR 2000-2002; overlaps CCR Asian
+4147,include-quant,,California Cancer Registry,CA-born Asian vs NHW,age-adjusted rates,young California-born Asian women excess BC vs NHW CCR; birthplace-stratified; overlaps CCR Asian
+4333,include-quant,,Florida Cancer Data System,Hispanic vs NHW,age-adjusted rates + SRR,Hispanic vs NHW incidence + SRR Miami-Dade FL 1981-1998; overlaps 3182 Florida Hispanic
+4336,include-narrative,,SEER 17,African-born vs US-born Black,proportional incidence ratio (PIR),Sub-Saharan African-born vs US-born Black PIR SEER17 2000-2012; could not calc incidence rates -> narrative; key African-born
+1800,include-narrative,,SEER 22,race (comparator=rurality),supplementary table only,full text unavailable (supp table only); rural-urban comparator not NHW -> narrative; overlaps rural 916/474/476
+2038,exclude,Full text unavailable,,,,no DOI/PMID; could not obtain; TNBC-by-race topic covered by 155/209/286/2406
+3713,exclude,Overlapping or duplicate dataset,,,,"Scopus book chapter (Springer, no PubMed); secondary Filipino synthesis - data covered by primary 80/100/4098"

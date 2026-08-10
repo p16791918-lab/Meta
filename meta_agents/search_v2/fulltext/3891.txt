@@ -1,0 +1,870 @@
+record_id=3891 pmid= doi=10.1111/j.1748-0361.2009.00247.x
+SOURCE: manual-pdf
+TITLE: Changes in cancer incidence patterns among a northeastern American Indian population: 1955-1969 versus 1990-2004
+
+. . . . . Cancer . . . . .
+Changes in Cancer Incidence Patterns Among
+a Northeastern American Indian Population:
+1955-1969 Versus 1990-2004
+Martin C. Mahoney, MD, PhD;1,2 Puthiery Va, MS;1 Adrian Stevens, MPH;3 Amy R. Kahn, MS, CTR;4
+and Arthur M. Michalek, PhD1,2
+ABSTRACT: Purpose: This manuscript examines shifts
+in patterns of cancer incidence among the Seneca Nation
+of Indians (SNI) for the interval 1955-1969 compared to
+1990-2004. Methods: A retrospective cohort design was
+used to examine cancer incidence among the SNI during 2
+time intervals: 1955-1969 and 1990-2004. Person-years at
+risk were multiplied by cancer incidence rates for New
+York State, exclusive of New York City, over 5-year
+intervals. A computer-aided match with the New York
+State Cancer Registry was used to identify incident
+cancers. Overall and site-speciﬁc standardized incidence
+ratios (SIRs = observed/expected × 100), and 95%
+conﬁdence intervals (CIs), were calculated for both time
+periods. Results: During the earlier interval, deﬁcits in
+overall cancer incidence were noted among males (SIR =
+56, CI 36-82) and females (SIR = 71, CI 50-98), and for
+female breast cancers (SIR = 21, CI 4-62). During the
+more recent intervals, deﬁcits in overall cancer incidence
+persisted among both genders (males SIR = 63, CI 52-77;
+females SIR = 67, CI 55-80). Deﬁcits were also noted
+among males for cancers of the lung (SIR = 60, CI 33-98),
+prostate (SIR = 51, CI = 33-76) and bladder (SIR = 17,
+CI = 2–61) and among females for breast (SIR = 33, CI =
+20-53) and uterus (SIR = 36, CI = 10-92). No cancer
+sites demonstrated increased incidence. Persons ages
+60-69 years, 70-79 years, and ages 80+ years tended to
+exhibit deﬁcits in overall incidence. Conclusions: Despite
+marked changes over time, deﬁcits in overall cancer
+incidence have persisted between the time intervals
+studied. Tribal-speciﬁc cancer data are important for the
+development and implementation of comprehensive cancer
+control plans which align with local needs.
+S
+tudies examining cancer incidence
+patterns among American Indians (AIs) have
+generally been limited to data for restricted
+time intervals and/or have been restricted
+to selected geographic regions which either
+have a large numbers of AIs and/or a population-based
+cancer registry.1-9
+While some commonalities exist among members
+of the 500-plus federally recognized tribal groups, each
+community embodies a unique set of experiences,
+environments and cultures resulting in distinct patterns
+of illness and deaths.10 Compared to the majority
+population, American Indians tend to be younger, less
+educated, have more poverty, and lower household
+incomes,11 as well as a lower life expectancy.12
+Despite a population of American Indians and
+Alaska Natives (ANs) which exceeds 4 million in the
+United States,13 a relatively limited number of
+publications have examined cancer patterns. Large
+databases maintained by the Indian Health Service
+(IHS) and the Surveillance, Epidemiology and End
+Results (SEER) program of the National Cancer
+Institute can be used to study incidence patterns.
+However, IHS data are limited to AIs who are eligible
+for and receive Indian Health beneﬁts, while SEER is
+limited to selected geographic regions. In recent years
+IHS records have been linked to state-based cancer
+registries through the National Program of Cancer
+Registries to correct racial misclassiﬁcation. In general,
+cancer patterns for speciﬁc AI groups are difﬁcult to
+compare due to tribal heterogeneity, variable sizes of
+tribal groups, and variable time periods examined.
+The present manuscript examines shifts in patterns
+of cancer incidence within the Seneca Nation of Indians
+(SNI) for the interval 1955-1969 compared to 1990-2004.
+1Roswell Park Cancer Institute, Buffalo, N.Y.
+2University at Buffalo, Buffalo, N.Y.
+3Seneca Nation of Indians Health Department, Salamanca, N.Y.
+4New York State Department of Health, Albany, N.Y.
+For further information, contact: Martin C. Mahoney, MD, PhD,
+Roswell Park Cancer Institute, Elm & Carlton Streets, Buffalo, NY
+14263; e-mail martin.mahoney@roswellpark.org.
+C⃝2009 National Rural Health Association
+378
+Fall 2009
+
+. . . . . Cancer . . . . .
+Methods
+Study Cohort. The cohort consisted of enrolled
+members of the Seneca Nation of Indians who were
+alive during any of the study years, which substantially
+expanded the Seneca cohort beyond that in an earlier
+study.4 The Seneca are members of the Iroquois
+Confederacy, which ranks as the 9th largest tribal group
+in the United States.11
+While the concept of “rural” deﬁes description
+based on a single deﬁnition, features such as
+geographic location, population size, and density of
+inhabitants can be reviewed to characterize a
+community.14 The SNI maintain 2 reservation territories
+in southwestern New York State. These reservations are
+located about 50 miles (the Cattaraugus Reservation)
+and 70 miles (Allegany Reservation) from the nearest
+urbanized area in Buffalo, N.Y., and the majority of SNI
+members reside on or in proximity to these reservation
+areas. The current population (2000 Census) on each of
+these reservation areas is fewer than 2,500 persons,
+which is consistent with the US Census Bureau
+classiﬁcation as rural. Population density is 69.9
+persons per square mile on Cattaraugus and 30.2
+persons per square mile on Allegany.
+Study Design. We utilized a retrospective cohort
+design to examine patterns of cancer incidence during
+1955-1969 and during 1990-2004. While cancer
+incidence among the SNI was assessed between 1955
+and 2004, we focused on incidence during the periods
+1955-1969 and 1990-2004 so as to contrast cancer
+patterns during two distinct time intervals. These
+intervals avoided the inclusion of calendar years during
+the 1970s and 1980s when the Seneca greatly expanded
+the availability of reservation-based medical centers. A
+dynamic cohort was used with individual cohort
+members added through births and removed at time of
+death. Membership was based on tribal roll book
+listings maintained by the Tribal Clerk’s Ofﬁce. This
+research was approved by the SNI and also by our local
+institutional review board.
+Each cohort member contributed 1 person-year to
+the appropriate sex and age category for each complete
+year of survival and 0.5 person-years during their year
+of birth or year of death. Endpoints for person-year
+calculations were: (1) date of death (or age 99 years, if
+date of death was unknown), or (2) survival thru
+December 31, 2004. Sex-speciﬁc person-year totals for
+the study cohort were accumulated over ten 5-year
+intervals (1955-1959, 1960-64, 1965-1969,. . ., and
+1995-2004) and were partitioned into 5-year age
+categories (0-4 years, 5-9 years,. . ., 80-84 years, and
+85-99 years). Cohort members who developed a
+malignancy during the study period continued to
+contribute person-years at risk, allowing for the
+potential development of multiple primary
+malignancies.
+Person-years at risk among the study cohort were
+multiplied by corresponding sex-speciﬁc, age-speciﬁc,
+site-speciﬁc and calendar year-speciﬁc cancer incidence
+rates for New York State, exclusive of New York City.
+Expected cancers were calculated during 5-year periods
+based on the mid-point of each interval (eg, calendar
+year 1957 for the interval 1955-1959, and 2002 for the
+interval 2000-2004), based on data from the New York
+State Cancer Registry (NYSCR) and Census
+enumerations of the state population, exclusive of New
+York City, during corresponding years. Expected cancer
+cases were summarized across each of the three 5-year
+time intervals of each 15-year period (eg, 1955-1969 =
+1955-1959, 1960-1964 and 1965-1969).
+Incident cancers among the SNI were identiﬁed
+through a computer match of cohort members with
+data ﬁles maintained by the NYSCR during each of the
+years included in the study. Cancer has been a
+reportable condition in New York State since 1940,
+when the NYSCR was established. Matching criteria
+included last name, ﬁrst name (ﬁrst 4 characters),
+gender, year of birth (±5 years) and county of
+residence. All possible matches were manually checked
+for conﬁrmation using other available data and allowed
+for accurate determination of true matches. During the
+study interval, cancer cases were classiﬁed at the
+NYSCR using various versions of the International
+Classiﬁcations of Diseases (ICD) (eg, ICD-7, ICD-8,
+ICD-9, ICD-10 and ICD-oncology, 2nd and 3rd editions).
+The NYSCR provided information on incident cancers
+diagnosed among cohort members using the
+topography, histology and behavior codes from the
+ICD for Oncology, Third Edition, US Interim Version
+2000.15
+Analyses. Standardized incidence ratios (SIRs)
+(based on the ratio of [observed cases/expected cases]
+multiplied by 100), were calculated for the intervals
+1955-1969 and for 1990-2004, along with 95% conﬁdence
+intervals (CIs) based on a Poisson distribution.16 A
+point estimate was considered to differ signiﬁcantly
+from expected if its 95% CI did not include 100.
+Results
+The SNI cohort included a total of 54,473
+person-years of observation during the 1955-1969
+interval and 83,266 person-years of observation during
+the 1990-2004 interval. The shape of the population
+pyramids demonstrated a marked shift between time
+Mahoney, Va, Stevens, Kahn and Michalek
+379
+Fall 2009
+ 17480361, 2009, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2009.00247.x by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+. . . . . Cancer . . . . .
+periods, with increases in mid-adult and older adults
+during the later interval. The median ages among males
+increased from 23 to 29 years between the initial
+interval and the later period, while among females the
+median age changed from 24 to 33 years.
+Among SNI males, the most commonly diagnosed
+cancers between 1955-1969 included colorectal cancers
+(n = 7, 27%) followed by oral cancers (n = 3, 12%) and
+cancers of the liver (n = 2; 8%), pancreas (n = 2, 8%),
+and prostate (n = 2, 8%), while during the interval
+1990-2004 common malignancies included prostate
+cancers (n = 24, 23%), colorectal cancers (n = 29, 19%)
+and lung cancers (n = 15; 14%).
+For females, the most commonly diagnosed cancers
+during the interval 1955-1969 included cervix (n = 8,
+22%), colorectal (n = 6, 16%) and breast cancers (n = 3,
+8%). During the interval 1990-2004, common
+malignancies among SNI females were lung cancers
+(n = 26, 22%), colorectal cancers (n = 19, 16%) and
+breast cancers (n = 18; 15%).
+As shown in Table 1, males demonstrated an
+overall deﬁcit of cancer cases for the period 1955-1969
+(SIR = 56, CI 36-82). A deﬁcit of lung cancer cases was
+also noted (SIR = 0, CI 0-44). No individual cancer sites
+were found to be signiﬁcantly elevated during this time
+period. For the interval 1990-2004 males continued to
+exhibit a deﬁcit of overall cancers (SIR = 63, CI 52-77).
+Site-speciﬁc deﬁcits were noted for lung (SIR = 60, CI
+33-98), prostate (SIR = 51, CI 33-76) and bladder cancers
+(SIR = 17, CI 2-17), while no site demonstrated a
+signiﬁcant excess.
+Table 1. Standardized Incidence Ratios for Malignancies Among Seneca Nation of Indians Males:
+1955-1969 and 1990-2004
+Time Period: 1955-1969
+Time Period: 1990-2004
+Cancer Site
+Observed
+Expected
+SIR
+95% CI
+Observed
+Expected
+SIR
+95% CI
+All Sites
+26
+46.7
+56
+36-82
+104
+163.9
+63
+52-77
+Oral
+3
+2.3
+129
+27-378
+7
+4.4
+158
+64-326
+Colorectal
+7
+7.7
+91
+37-188
+20
+18.9
+106
+65-163
+Liver
+2
+0.4
+535
+65-1,932
+4
+1.9
+206
+56-527
+Gallbladder
+0
+0.4
+0
+0-906
+1
+0.3
+389
+10-2,168
+Pancreas
+2
+1.6
+123
+15-445
+5
+3.8
+132
+43-309
+Lung
+0
+8.3
+0
+0-44
+15
+25.2
+60
+33-98
+Prostate
+2
+5.5
+36
+4-131
+24
+47.2
+51
+33-76
+Bladder
+0
+3.1
+0
+0-117
+2
+11.9
+17
+2-61
+Hodgkin & non-Hodgkin Lymphoma
+1
+3.3
+30
+1-168
+7
+8.5
+82
+33-169
+Leukemia
+0
+2.1
+0
+0-177
+6
+5.1
+117
+43-255
+Other
+9
+20
+Statistically signiﬁcant results are highlighted.
+Females exhibited an overall deﬁcit of cancer cases
+(SIR = 71, CI 50-98) as well as a deﬁcit of breast cancer
+cases (SIR = 21, CI 4-62) during the period 1955-1969
+(see Table 2). Between 1990 and 2004 females also
+demonstrated a deﬁcit for malignancies overall (SIR =
+67, CI 55-80) and site-speciﬁc deﬁcits for cancers of the
+breast (SIR = 33, CI 20-53) and uterus (SIR = 36, CI
+10-92). An excess of liver cancers was noted during this
+interval (SIR = 367, CI 100-940).
+Table 3 presents cancer incidence patterns within
+age groups by gender and time period. During the
+earlier 15-year period, males demonstrated a deﬁcit of
+cancer cases only for the age group 50-59 years (SIR =
+0; CI 0-43), while during the latter 15-year interval,
+signiﬁcant deﬁcits in cancer incidence were noted for
+males ages 60-69 years (SIR = 64, CI 43-92), 70-79 years
+(SIR = 61; CI 40-90), and ages 80+ years (SIR = 41; CI
+20-73). Between 1955 and 1969, cancer incidence deﬁcits
+were observed among females ages 60-69 years (SIR =
+24, CI 5-71) and ages 70-79 years (SIR = 28; CI 6-83),
+while from 1990-2004 incidence deﬁcits were observed
+for age groups 70-79 years (SIR = 54; CI = 33-83) and
+ages 80 and above (SIR = 53; CI = 30-86). No signiﬁcant
+excesses were observed for any of the age categories.
+Discussion
+The recently released Report to the Nation on the
+Status of Cancer provided an update on cancer among
+AIs and ANs.17 While comprehensive in scope, cancer
+incidence data was based on SEER data, as well as state
+The Journal of Rural Health
+380
+Vol. 25, No. 4
+ 17480361, 2009, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2009.00247.x by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+. . . . . Cancer . . . . .
+Table 2. Standardized Incidence Ratios for Malignancies Among Seneca Nation of Indians Females:
+1955-1969 and 1990-2004
+Time Period: 1955-1969
+Time Period: 1990-2004
+Cancer Site
+Observed
+Expected
+SIR
+95% CI
+Observed
+Expected
+SIR
+95% CI
+All Sites
+37
+52.2
+71
+50-98
+118
+176.9
+67
+55-80
+Stomach
+1
+1.7
+58
+1-326
+6
+2.3
+263
+97-573
+Colorectal
+6
+8.2
+73
+27-158
+19
+20.7
+92
+55-144
+Liver
+1
+0.2
+429
+11-2,391
+4
+1.1
+367
+100-940
+Gallbladder
+0
+0.7
+0
+0-544
+1
+0.6
+159
+4-886
+Larynx
+0
+0.1
+0
+0-2,580
+2
+1.0
+201
+24-725
+Lung
+1
+1.6
+62
+2-347
+26
+23.1
+112
+73-165
+Breast
+3
+14.1
+21
+4-62
+18
+54.1
+33
+20-53
+Cervix
+8
+4.0
+201
+87-397
+4
+3.5
+115
+31-295
+Uterus
+1
+3.9
+25
+1-142
+4
+11.1
+36
+10-92
+Ovary
+1
+2.9
+34
+1-192
+4
+6.8
+59
+16-152
+Bladder
+0
+1.2
+0
+0-297
+2
+4.9
+41
+5-149
+Hodgkin & non-Hodgkin Lymphoma
+1
+2.5
+40
+1-221
+4
+8.1
+49
+13–126
+Leukemia
+2
+1.6
+129
+16-467
+5
+4.3
+117
+38-274
+Other
+12
+21
+Statistically signiﬁcant results are highlighted.
+cancer registry records linked with IHS patient
+registration ﬁles. While this report represents a
+signiﬁcant addition to our understanding of cancer
+occurrence in AI populations, it does have a number of
+limitations. IHS data are limited to enrolled members of
+federally recognized tribes whose treatment was
+underwritten by IHS (eg, excludes third-party
+insurance). Moreover, cancer incidence data in the
+Table 3. Standardized Incidence Ratios for Malignancies Among Seneca Nation of Indians, by
+Gender and Age Group: 1955-1969 and 1990-2004
+Time Period: 1955-1969
+Time Period: 1990-2004
+Males
+Females
+Males
+Females
+Age Group
+SIR
+95% CI
+SIR
+95% CI
+SIR
+95% CI
+SIR
+95% CI
+0-9 ys
+273
+33-985
+157
+4-873
+94
+2-523
+89
+2-495
+10-19 ys
+0
+0-631
+0
+0-632
+165
+20-595
+300
+62-878
+20-29 ys
+166
+20-599
+0
+0-254
+0
+0-139
+33
+1-186
+30-39 ys
+0
+0-228
+115
+31-294
+95
+31-222
+68
+25-147
+40-49 yrs
+27
+1-151
+135
+67-242
+87
+40-165
+60
+31-105
+50-59 ys
+0
+0-43
+101
+51-181
+73
+45-113
+68
+43-102
+60-69 ys
+73
+35-135
+24
+5-71
+64
+43-92
+87
+61-120
+70-79 ys
+59
+24-122
+28
+6-83
+61
+40-90
+54
+33-83
+80+ ys
+81
+22-208
+98
+27-250
+41
+20-73
+53
+30-86
+Overall
+56
+36-82
+71
+50-98
+63
+52-77
+67
+55-80
+Statistically signiﬁcant results are highlighted.
+report are essentially cross-sectional during a limited
+time interval (1999-2004) and based upon a subset of all
+AIs. Although acknowledging regional variations in
+cancer patterns, this report17 also omits reference to
+speciﬁc northeastern tribal populations.
+Results from the current study document overall
+deﬁcits in cancer incidence among the SNI which have
+continued from an early interval (1955-1969) through a
+Mahoney, Va, Stevens, Kahn and Michalek
+381
+Fall 2009
+ 17480361, 2009, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2009.00247.x by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+. . . . . Cancer . . . . .
+more recent period (1990-2004). We are unaware of
+comparable data on cancer incidence patterns among
+AIs dating back to the earlier period. The cancer deﬁcits
+during earlier years have generally been attributed to
+consumption of a native diet, natural living and
+premature deaths. Throughout the 1970s and 1980s the
+Seneca experienced considerable positive changes,
+including the emergence of reservation-based medical
+centers. Interestingly, data from national surveys noting
+greater rates of cancer risk factors among AIs would
+have suggested elevated cancer incidence.11,17,18
+A prior examination of cancer incidence patterns
+among the Seneca Nation from 1955-1984, noted
+signiﬁcantly lower overall cancer incidence for both
+genders, as well as for cancers of the lung and bladder
+among males and among females for cancers of the
+colon, breast, and bladder.4 Deﬁcits in lung cancer
+incidence were noted among males for both study
+intervals, along with a deﬁcit of male bladder cancers
+between 1990 and 2004, which might suggest lower
+rates of smoking compared to the general population of
+New York State. In contrast, the incidence of lung
+cancer among Seneca females did not differ from
+expected. Deﬁcits in lung cancer incidence have been
+noted among male but not among female AIs,5,8,9
+although others have noted lung cancer deﬁcits among
+both genders.6,19,20 Also, considerable regional variation
+in AI and AN lung cancer incidence patterns has been
+acknowledged.17,20,21 Data on health behaviors among
+the SNI are not well described. National survey data
+show that current smoking rates among AI/AN exceed
+that of non-Hispanic whites17,18 but may not be
+representative of the Seneca.
+Disease patterns for cancer sites amenable to early
+detection did not follow any clear pattern. Colorectal
+cancer incidence among the SNI did not vary
+signiﬁcantly by time period or gender. National
+surveys indicated that rates of colorectal cancer
+screening among AI/ANs lag behind those for
+non-Hispanic whites during more recent calendar
+years.17,18 Similar to the observation of breast cancer
+deﬁcits in other AI groups5,6,8,17,19 deﬁcits in breast
+cancer incidence were noted among the SNI for both
+time intervals. Breast cancer incidence rates vary by age
+group, race/ethnicity, and multiple other risk factors
+such as family history, reproductive factors (eg, late age
+at ﬁrst live birth), breastfeeding history, menstrual
+history (eg, early age at menarche, late menopause),
+obesity, level of exercise, alcohol consumption, and use
+of exogenous hormones.22,23 While detailed information
+on fertility and reproductive patterns are not available,
+US Census data suggest that current fertility rates
+among AI/AN women are higher compared to
+non-Hispanic white women11 which may partially
+explain the lower rate of breast cancer. Contemporary
+rates of mammography among AI/AN women (69%
+within the last 2 years) tend to be slightly lower than
+among white women (76%).17
+The SIR for prostate cancer increased from 36 (n = 2
+cases) to 51 (n = 24 cases) between the 2 time periods.
+While this suggests an apparent difference, it was not
+large enough to be statistically signiﬁcant. National
+data indicate that AI/AN males tend to complete
+prostate speciﬁc antigen testing less often compared to
+non-Hispanic white males (49% vs 58%, respectively).17
+There is some evidence to suggest the occurrence of
+more advanced disease among Seneca during the more
+recent years. Unfortunately, staging data was not
+available for the earlier period. Decreased prostate
+cancer incidence has also been observed in other AI
+groups.5,6,8,17,19,24
+Females demonstrated an excess of liver cancer
+between 1990 and 2004. While hepatobiliary cancers
+have been generally increased among AI
+populations,3,5,6,8-10,17,25 it is difﬁcult to assess the
+signiﬁcance of this observation in the present study
+based on a limited number of cases. Multiple risk
+factors for liver cancer have been identiﬁed and the
+presence of these risk factors among these cases is
+unknown. Moreover, it is possible that some of these
+cases could have represented metastatic disease.
+This study was unable to assess information on
+cancer risk behaviors, lifestyle exposures,
+environmental exposures, genetic factors and/or
+occupational exposures. While the robust size of the
+Seneca Nation facilitated tribal-speciﬁc analyses,
+interpretation of several of the point estimates for
+cancer incidence remains a challenge, especially across
+gender, time interval and site groupings. Since the
+NYSCR did not include cases among New York City
+residents before 1976, it is possible that incident cancer
+cases may have been under-reported prior to statewide
+case reporting. Unique strengths of this study were the
+use of tribal roll books to identify tribal members thus
+eliminating the issues of racial misclassiﬁcation, the
+sizable number of person-years of observation accrued
+and matching the cohort against NYSCR records; also
+the NYSCR is a longstanding member of the National
+Program of Cancer Registries. The retrospective cohort
+design is particularly well suited to this application.
+The deﬁcits in cancer noted among the SNI in older
+age categories is noteworthy since the analytic
+approach adjusts for differences in the age distribution
+of the study population despite increasing numbers of
+persons reaching age 50 years and beyond during the
+1990-2004 study interval. It remains possible that cohort
+members, who were at high risk of eventually
+developing cancer, could have succumbed to other
+The Journal of Rural Health
+382
+Vol. 25, No. 4
+ 17480361, 2009, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2009.00247.x by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+. . . . . Cancer . . . . .
+non-cancer causes of mortality (eg, injuries, diabetes,
+heart disease) prior to reaching ages at which they
+would have developed malignancies. Similar
+age-speciﬁc deﬁcits in cancer incidence were noted
+among Manitoba Indians between 1970 and 1979.8
+These issues may be more fully examined through
+studies of mortality currently under way.
+Despite marked changes over time, deﬁcits in
+overall cancer incidence have persisted between the
+time intervals studied. Of note, deﬁcits were apparent
+for breast and prostate cancers between 1990 and 2004.
+Observational studies are important in documenting
+health disparities and aid in focusing resource
+allocation and/or policy changes to improve health
+outcomes. Approaches emphasizing both primary
+prevention (eg, smoking prevention/cessation, healthy
+body weight) and secondary prevention (eg, screening)
+are likely to generate signiﬁcant changes in disease
+outcomes as well as improvements in quality of life.
+Tribal-speciﬁc data on cancer patterns are important for
+the development and implementation of
+comprehensive cancer control plans focused on
+primary, secondary and tertiary cancer prevention
+strategies which align with local needs.
+References
+1. Becker TM, Bettles J, Lapidus J, et al. Improving cancer incidence
+estimates for American Indians and Alaska Natives in the Paciﬁc
+Northwest. Am J Public Health. 2002;92:1469-1471.
+2. Bleed DM, Risser DR, Sperry S, Hellhake D, Helgerson SD.
+Cancer incidence and survival among American Indians
+registered for Indian health service care in Montana, 1982-1987.
+J Natl Cancer Inst. 1992;84:1500-1505.
+3. Kelly JJ, Lanier AP, Alberts S, Wiggins CL. Differences in cancer
+incidence among Indians in Alaska and New Mexico and U.S.
+Whites, 1993-2002. Cancer Epidemiol Biomarkers Prev.
+2006;15:1515-1519.
+4. Mahoney MC, Michalek AM, Cummings KM, Nasca PC, Emrich
+LJ. Cancer surveillance in a northeastern Native American
+population. Cancer. 1989;64:191-195.
+5. Marrett LD, Chaudhry M. Cancer incidence and mortality in
+Ontario First Nations, 1968-1991 (Canada). Cancer Causes Control.
+2003;14:259-268.
+6. Paltoo DN, Chu KC. Patterns in cancer incidence among
+American Indians/Alaska Natives, United States, 1992-1999.
+Public Health Rep. 2004;119:443-451.
+7. Partin MR, Rith-Najarian SJ, Slater JS, Korn JE, Cobb N, Soler JT.
+Improving cancer incidence estimates for American Indians in
+Minnesota. Am J Public Health. 1999;89:1673-1677.
+8. Young TK, Choi NW. Cancer risks among residents of Manitoba
+Indian reserves, 1970-79. Can Med Assoc J. 1985;132:1269-1272.
+9. Young TK, Frank JW. Cancer surveillance in a remote Indian
+population in northwestern Ontario. Am J Public Health.
+1983;73:515-520.
+10. Mahoney MC, Michalek AM. The health status of American
+Indians and Alaska Natives: 2. Lessons for cancer educators.
+J Cancer Educ. 1999;14:23-27.
+11. Branch USCBRS. The American Community - American Indians and
+Alaska Natives: 2004. Washington, DC: US Census Bureau; 2007.
+12. American Indian, Alaska Native Tables from the Statistical Abstract of
+the United States: 2004-2005: US Census Bureau.
+13. Ogunwole S. The American Indian and Alaska Native Population:
+2000. Washington, DC: United States Census Bureau; 2002.
+14. Hart LG, Larson EH, Lishner DM. Rural deﬁnitions for health
+policy and research. Am J Public Health. 2005;95:1149-1155.
+15. International Classiﬁcation of Diseases for Oncology. 3rd ed. Geneva:
+World Health Organization; 2000.
+16. Bailar JC, Ederer F. Signiﬁcance factors for the ratio of a Poisson
+variable to its expectation. Biometrics. 1964;73:272-277.
+17. Espey DK, Wu XC, Swan J, et al. Annual report to the nation on
+the status of cancer, 1975-2004, featuring cancer in American
+Indians and Alaska Natives. Cancer. 2007:2119-2152.
+18. Steele CB, Cardinez CJ, Richardson LC, Tom-Orme L, Shaw KM.
+Surveillance for health behaviors of American Indians and
+Alaska Natives: ﬁndings from the behavioral risk factor
+surveillance system, 2000-2006. Cancer. 2008;113:
+1131-1141.
+19. Nutting PA, Freeman WL, Risser DR, et al. Cancer incidence
+among American Indians and Alaska Natives, 1980-1987. Am
+J Public Health. 1993;83:1589-1598.
+20. Bliss A, Cobb N, Solomon T, et al. Lung cancer incidence among
+American Indians and Alaska Natives in the United States,
+1999-2004. Cancer. 2008;113:1168-1178.
+21. Wiggins CL, Espey DK, Wingo PA, et al. Cancer among American
+Indians and Alaska Natives in the United States, 1999-2004.
+Cancer. 2008;113:1142-1152.
+22. Mahoney MC. Breast cancer risk reduction and counseling:
+lifestyle, chemoprevention, and surgery. J Natl Compr Canc Netw.
+2007;5:702-710.
+23. Singletary SE. Rating the risk factors for breast cancer. Ann Surg.
+2003;237:474-482.
+24. Henderson JA, Espey DK, Jim MA, German RR, Shaw KM,
+Hoffman RM. Prostate cancer incidence among American Indian
+and Alaska Native men, US, 1999-2004. Cancer.
+2008;113:1203-1212.
+25. Jim MA, Perdue DG, Richardson LC, et al. Primary liver cancer
+incidence among American Indians and Alaska Natives, US,
+1999-2004. Cancer. 2008;113:1244-1255.
+Mahoney, Va, Stevens, Kahn and Michalek
+383
+Fall 2009
+ 17480361, 2009, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2009.00247.x by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

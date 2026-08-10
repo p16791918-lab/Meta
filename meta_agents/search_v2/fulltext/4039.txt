@@ -1,0 +1,3073 @@
+record_id=4039 pmid=16388524 doi=10.1002/cncr.21647
+SOURCE: manual-pdf
+TITLE: Racial/ethnic patterns in lifetime and age-conditional risk estimates for selected cancers
+
+Racial/Ethnic Patterns in Lifetime and Age-Conditional
+Risk Estimates for Selected Cancers
+Barry A. Miller, Dr.P.H.1
+Steven M. Scoppa, B.S.2
+Eric J. Feuer, Ph.D.3
+1 Cancer Statistics Branch, Surveillance Research
+Program, Division of Cancer Control and Population
+Sciences, National Cancer Institute, National Insti-
+tutes of Health, Bethesda, Maryland.
+2 Information Management Services Inc., Silver
+Spring, Maryland.
+3 Statistical Research and Applications Branch,
+Surveillance Research Program, Division of Cancer
+Control and Population Sciences, National Cancer
+Institute, National Institutes of Health, Bethesda,
+Maryland.
+The authors thank Dr. Kathleen A. Cronin (National
+Cancer Institute) for her insightful suggestions for
+improving the article, and Dr. Michael P. Fay (Na-
+tional Institute of Allergy and Infectious Diseases)
+and David Eyerman (Information Management Ser-
+vices Inc.) for their developmental work on the
+DevCan software.
+Address for reprints: Barry A. Miller, Dr.P.H., Can-
+cer Statistics Branch, Surveillance Research Pro-
+gram, Division of Cancer Control and Population
+Sciences, National Cancer Institute, 6116 Execu-
+tive Boulevard, Suite 504, Rockville, MD 20852;
+Fax: (301) 496-8510; E-mail: millerb@mail.nih.gov
+Received March 30, 2005; revision received July
+20, 2005; accepted August 25, 2005.
+*This article is a U.S. Government work and, as
+such, is in the public domain in the United States
+of America.
+BACKGROUND. Estimates of the probability of developing or dying from cancer,
+either over a lifetime or over a speciﬁed number of years, are useful summary
+measures of the burden of cancer in a population.
+METHODS. The authors used publicly available DevCan software and new, detailed,
+racial/ethnic data bases that were developed in the Surveillance Research Program
+of the National Cancer Institute to produce risk estimates for selected major
+cancers among American Indian/Aleut/Eskimo, black, Chinese, Filipino, native
+Hawaiian, Japanese, white (total, non-Hispanic), and Hispanic populations.
+RESULTS. Japanese and non-Hispanic white men had the highest lifetime risk for
+developing cancer (47.94% and 47.41%, respectively), and the American Indian/
+Eskimo/Aleut population (excluding Alaska) had the lowest lifetime risk among
+men (24.30%). Among women, white and American Indian/Eskimo/Aleut (in
+Alaska) populations had higher lifetime risks than Japanese women, whereas
+American Indian/Eskimo/Aleut (excluding Alaska) women had the lowest risk. The
+age-conditional probabilities of developing cancer within the next 10 years among
+men and women age 60 years and the lifetime probabilities of dying from cancer
+also were reported by racial/ethnic group.
+CONCLUSIONS. Racial/ethnic disparities in the lifetime risk of cancer may be
+because of differences in cancer incidence rates, but they also may reﬂect differ-
+ential mortality rates from causes other than the cancer of interest. Furthermore,
+because cross-sectional incidence and mortality rates are used in calculating the
+DevCan lifetime risk estimates, results must be interpreted with caution when
+events, such as the widespread and rapid implementation of a new screening test,
+are known to have inﬂuenced disease rates. Cancer 2006;106:670–82.
+Published 2005 by the American Cancer Society.*
+KEYWORDS: cancer, health disparities, risk, incidence, mortality, race, ethnic
+groups, Surveillance, Epidemiology, and End Results Program.
+L
+ifetime and age-conditional estimates of cancer risk are used
+widely to summarize the cancer experience of the general popu-
+lation and to compare cancer risks among population subgroups.1–8
+The DevCan software,9 which was developed within the Surveillance
+Program of the National Cancer Institute, calculates the probability of
+developing or dying from cancer by using incidence data from regis-
+tries that participate in the Surveillance, Epidemiology, and End Re-
+sults (SEER) Program; mortality data compiled by the National Center
+for Health Statistics; and population estimates from the United States
+Bureau of the Census. Risk estimates of this type represent a measure
+of the population burden of cancer, because they integrate the chance
+of developing cancer and the chance of dying of other causes while
+cancer-free.
+In this article, we present lifetime probabilities of developing or
+670
+Published 2005 by the American Cancer Society*
+DOI 10.1002/cncr.21647
+Published online 30 December 2005 in Wiley InterScience (www.interscience.wiley.com).
+
+dying from selected major cancers and age-condi-
+tional probabilities of developing cancer for several
+racial/ethnic groups. Previous versions of the DevCan
+software produced risk estimates only for whites,
+blacks, and all races combined. Now, the racial/ethnic
+data have been expanded to enable cancer risk com-
+parisons
+among
+American
+Indian/Aleut/Eskimo,
+black, Chinese, Filipino, native Hawaiian, Japanese, all
+Asian and Paciﬁc Islander groups combined, white
+(total, non-Hispanic), and Hispanic populations. An-
+other recent addition to the DevCan software is the
+computation of conﬁdence intervals associated with
+the risk estimates.10 The current report demonstrates
+these new features of DevCan, interprets major ﬁnd-
+ings, and hopefully will prompt cancer researchers
+and health planners to access this publicly available
+resource.
+MATERIALS AND METHODS
+The results presented in this article were generated by
+using version 5.2 of the DevCan software and special
+SEER data ﬁles,11–14 which were based on the 1990
+Census, because the population estimates needed to
+calculate disease rates for several detailed racial/eth-
+nic groups are available only from decennial Census
+data. The DevCan risk measures provide a new assess-
+ment of the cancer burden experienced by these ra-
+cial/ethnic groups and are a useful supplement to the
+incidence and mortality rate comparisons published
+in an earlier report.15
+To derive the probabilities of developing cancer
+for the detailed racial/ethnic groups, incidence rates
+were based on cancer diagnoses during 1988–1992
+from the following SEER reporting areas: metropolitan
+Atlanta and 10 nearby rural Georgia counties; Detroit,
+Los
+Angeles,
+San
+Francisco/Oakland,
+San
+Jose/
+Monterey, and Seattle/Puget Sound; and the states of
+Alaska (American Indian/Aleut/Eskimo populations
+only), Connecticut, Hawaii, Iowa, New Mexico, and
+Utah. The diagnosis years were centered on 1990, so
+that they would be most compatible with the detailed
+racial/ethnic population data from the decennial
+United States Census. The American Indian/Aleut/
+Eskimo population in the United States consists of
+over 500 tribal groups with diverse cultures and health
+behaviors,16 and regional variations in their cancer
+patterns have been noted.15,17 Therefore, risks for de-
+veloping cancer in the American Indian/Aleut/Eskimo
+population are presented separately for the state of
+Alaska (referred to hereinafter as “Alaska Natives”)
+and for the remaining SEER areas (referred to herein-
+after as “American Indians,” because the Alaska Native
+component in other geographic areas is small). Inci-
+dence data from the state of Connecticut are not in-
+cluded in the Hispanic and non-Hispanic white cal-
+culations because of the large proportion of patients
+in that registry for whom Hispanic ethnicity is un-
+known. When calculating the probabilities of develop-
+ing cancer, mortality data are based on the same SEER
+regions that were included in the incidence rate cal-
+culations. When calculating the probabilities of dying
+from cancer, the mortality data are based on all
+United States deaths for 1988–1992, with the following
+exceptions. Hispanic and non-Hispanic white mortal-
+ity data are limited to deaths for 1989–1991, because
+many states had incomplete Hispanic data before
+1989.18 For the same reason, this calendar year restric-
+tion was also applied to the Hispanic and non-His-
+panic white mortality data associated with the proba-
+bility of developing cancer calculations. Furthermore,
+the states of Connecticut, Louisiana, Maine, Maryland,
+Mississippi, New Hampshire, New York, North Da-
+kota, Oklahoma, Vermont, and Virginia and the Dis-
+trict of Columbia are excluded from the Hispanic mor-
+tality calculations because of high proportions of
+patients with unknown Hispanic ethnicity.19
+The DevCan software program uses life-table
+methods based on cross-sectional incidence, mortal-
+ity, and population data for 19 age categories (ages 0
+yrs, 1–4 yrs, 5–9 yrs, 10–14 yrs,… 80–84 yrs, and 85 yrs
+or older) to compute the lifetime and age-conditional
+probability of developing or dying from cancer along
+with the associated 95% conﬁdence interval (95%
+CI).3,10,20 On the basis of user selections, the program
+uses the incidence of ﬁrst cancers of a speciﬁed type
+and mortality from all causes other than the speciﬁed
+cancer as inputs. A life table is constructed for a hy-
+pothetical cancer-free cohort of individuals who are
+exposed to the appropriate gender-speciﬁc and race/
+ethnic-speciﬁc, cross-sectional rates as they age. The
+number of cancer-free individuals at the start of a
+subsequent age interval is computed by subtracting
+the number who develop cancer and the number who
+die of other causes from the number of cancer-free
+individuals at the start of the interval. For these com-
+putations, it is assumed that mortality from other
+causes among the cancer-free group can be approxi-
+mated by mortality from other causes in the total
+population. Incidence rates calculated for the total
+population are adjusted upward to reﬂect the risk for
+a cancer-free population (i.e., individuals living with
+cancer are removed from the denominator).21
+Because the lifetime risk measure is a function of
+both age-speciﬁc incidence rates for a given cancer
+and mortality rates for all causes other than the can-
+cer, two racial/ethnic groups may have identical inci-
+dence rates but very different lifetime risk estimates.
+Thus, in the tables, we compare lifetime risks, which
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+671
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+are measures of the population burden of cancer, with
+age-adjusted rates, which standardize the number alive
+and at risk at each age across racial/ethnic groups. The
+age-adjusted incidence rates are calculated in the same
+manner as those published annually by the National
+Cancer Institute and other organizations by including all
+primary invasive cancers that occur in the covered pop-
+ulations.22 It should be noted that lifetime risk estimates
+do not assume any particular lifespan. Rather, all possi-
+ble life spans are included in the calculation. The lifetime
+risk is computed as the probability of living to the be-
+ginning of an age interval multiplied by the probability of
+developing cancer during that age interval, summed
+over all age intervals. The DevCan risk estimate that
+approximately 14% (or 1 in 7) white women will develop
+breast cancer over their lifetime7 implies that 6 of 7
+women will die of other causes without ever having been
+diagnosed with breast cancer. For example, some of
+those 6 women may die at age 100 years without ever
+developing breast cancer, whereas others may not de-
+velop breast cancer, because they will die at a younger
+age from some other cause. Lifetime risk estimates apply
+only to a cohort of newborns and, as calculated in Dev-
+Can, are based on an assumption that the cross-sec-
+tional incidence and mortality rates will remain constant
+over a lifetime. It should be noted, however, that large
+changes in the incidence rates during a speciﬁed period,
+such as an increase associated with the widespread and
+rapid implementation of a new screening test, will have
+a direct impact on the derived lifetime risk estimates. For
+this reason, age-conditional risk estimates over a shorter
+interval also are produced by DevCan and may be of
+greater utility when communicating risk to the public.
+We present probabilities of developing selected cancers
+within the next 10 years for men and women age 60
+years by racial/ethnic group to demonstrate this feature.
+RESULTS
+Probability of Developing Cancer
+Lifetime probabilities of developing cancer are shown
+in Tables 1 and 2 for women and men, respectively, by
+racial/ethnic group for all cancers combined and for
+selected cancers. The average annual, age-adjusted
+cancer incidence rates for each gender and racial/
+ethnic group also are included in the tables for refer-
+ence. The lifetime risk of developing cancer, for all
+cancers combined, generally is lower among women
+compared with men. Alaska Native women are an
+exception: Their risks for all cancers combined and for
+colorectal cancer are higher compared with their male
+counterparts.
+Japanese men experience the highest lifetime risk
+for developing cancer (47.94%; 95% CI, 46.24–49.70%)
+among all racial/ethnic groups, but their risk is only
+slightly higher than that for non-Hispanic white men,
+and the 95% CIs for these 2 groups overlap. Among the
+speciﬁc cancers shown, Japanese men have the high-
+est lifetime risk for colorectal cancer (9.71%; 95% CI,
+9.03–10.44%) and are among the groups with higher
+risks for cancers of the prostate and urinary bladder,
+although they have a relatively low lifetime risk for
+lung cancer. Non-Hispanic white men have the sec-
+ond highest lifetime probability of developing cancer,
+with high risks for cancers of the prostate, urinary
+bladder, and lung and bronchus. Although native Ha-
+waiian and black men have the highest lifetime risks
+for lung cancer, they experience relatively low risks for
+other selected cancers and appear relatively low in the
+ranking for all cancers combined. Other male Asian
+populations show mid-level risks for developing can-
+cer. American Indian and Alaska Native men generally
+have among the lowest lifetime risks for developing
+cancer overall and for most of the speciﬁc cancers
+shown. An exception is the relatively high risk for
+colorectal cancer among Alaska Native men. The age-
+adjusted incidence rate for colorectal cancer in Alaska
+Native men is also the highest among all of the racial/
+ethnic groups.
+The racial/ethnic pattern in the lifetime risks of
+developing cancer among women differs somewhat
+from that for men. For all cancers combined, the life-
+time risks among white women and Alaska Native
+women exceed the risk in Japanese women. Non-His-
+panic white women have the highest lifetime risks for
+cancers of the breast and the corpus and the uterus,
+whereas the risks for Alaska Native women are highest
+for cancers of the lung and the colon and rectum.
+American Indian women have the lowest lifetime risks
+for all cancers combined and for each of the speciﬁc
+cancers shown, with the exception of cancer of the
+corpus and uterus, for which only Alaska Native
+women have a lower estimated risk (based on few
+patients, however, and broad, overlapping 95% CIs).
+The incidence of cancer of the gallbladder, however, is
+known to be high among American Indian women
+and, although it is not shown in the tables, their life-
+time risk for developing this cancer (1.01%; 95% CI,
+0.60–1.70%) is more than twice as high as the risk for
+the next highest racial/ethnic group.
+We ranked the lifetime risks and age-adjusted
+rates across the racial/ethnic groups to facilitate com-
+parisons of the impact that mortality from other
+causes has on the population burden of a particular
+cancer. The racial/ethnic rankings of lifetime risks of
+developing cancer tend to follow the rankings of age-
+adjusted incidence rates; however, there are some no-
+table exceptions. Black men have the highest age-
+672
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+Lifetime Risk (Percentage) among Women of Developing Invasive Cancer with Age-Adjusted Incidence Rates by Disease Type
+and Racial/Ethnic Group: Surveillance, Epidemiology, and End Results Areas, 1988–1992
+Disease type/group
+Lifetime risk of being diagnosed
+Age-adjusted incidence
+Percent
+LL (%)
+UL (%)
+Rank
+Rate
+LL
+UL
+Rank
+All invasive cancers
+White (total)
+39.48
+39.32
+39.65
+1
+423.82
+422.28
+425.36
+3
+Non-Hispanic whitea
+39.42
+39.23
+39.61
+2
+432.09
+430.32
+433.87
+2
+Alaska Nativeb
+37.32
+33.15
+42.05
+3
+449.19
+408.42
+493.97
+1
+Japanese
+35.79
+34.50
+37.13
+4
+301.86
+293.21
+310.75
+7
+Hawaiian
+34.98
+32.52
+37.67
+5
+408.61
+386.52
+431.86
+4
+Chinese
+34.98
+33.43
+36.60
+6
+275.75
+267.24
+284.50
+10
+Asian/Paciﬁc Islander
+34.94
+34.17
+35.74
+7
+295.78
+291.32
+300.29
+8
+Hispanica
+34.17
+33.46
+34.90
+8
+302.10
+297.86
+306.40
+6
+Filipina
+34.12
+31.86
+36.58
+9
+279.96
+270.63
+289.68
+9
+Black
+31.70
+31.26
+32.15
+10
+398.77
+394.11
+403.48
+4
+Amer Indian (excl AK)c
+20.31
+18.36
+22.50
+11
+189.31
+176.87
+202.54
+11
+All races
+38.34
+38.19
+38.48
+413.16
+411.78
+414.55
+Colon and rectum
+Alaska Nativeb
+9.24
+7.13
+11.98
+1
+93.62
+74.20
+117.54
+1
+Japanese
+7.30
+6.71
+7.93
+2
+49.30
+45.90
+52.95
+5
+Chinese
+7.00
+6.30
+7.78
+3
+44.75
+41.26
+48.48
+6
+Asian/Paciﬁc Islander
+6.05
+5.72
+6.41
+4
+40.33
+38.63
+42.10
+7
+White (total)
+6.03
+5.96
+6.09
+5
+49.77
+49.26
+50.29
+4
+Non-Hispanic whitea
+6.00
+5.93
+6.07
+6
+50.31
+49.73
+50.90
+3
+Black
+5.38
+5.20
+5.57
+7
+57.64
+55.84
+59.49
+2
+Hispanica
+4.74
+4.46
+5.04
+8
+31.84
+30.39
+33.34
+9
+Hawaiian
+4.34
+3.44
+5.51
+9
+39.95
+32.98
+48.20
+8
+Filipina
+4.25
+3.45
+5.28
+10
+26.76
+23.71
+30.26
+10
+Amer Indian (excl AK)c
+2.17
+1.64
+2.96
+11
+19.54
+15.57
+24.36
+11
+All races
+5.97
+5.91
+6.03
+50.04
+49.56
+50.52
+Lung and bronchus
+Alaska Nativeb
+6.45
+4.83
+8.66
+1
+66.57
+51.04
+86.51
+1
+Non-Hispanic whitea
+5.69
+5.62
+5.76
+2
+51.46
+50.86
+52.07
+3
+White (total)
+5.51
+5.45
+5.57
+3
+49.23
+48.71
+49.75
+5
+Hawaiian
+5.50
+4.58
+6.65
+4
+54.24
+46.25
+63.48
+2
+Chinese
+5.40
+4.81
+6.06
+5
+34.04
+31.03
+37.30
+6
+Black
+4.65
+4.49
+4.81
+6
+51.23
+49.57
+52.94
+4
+Asian/Paciﬁc Islander
+3.99
+3.73
+4.27
+7
+27.25
+25.87
+28.69
+7
+Filipina
+3.46
+2.76
+4.39
+8
+22.81
+20.11
+25.94
+9
+Hispanica
+3.45
+3.24
+3.68
+9
+24.71
+23.46
+26.02
+8
+Japanese
+2.76
+2.42
+3.16
+10
+18.88
+16.84
+21.18
+10
+Amer Indian (excl AK)c
+2.16
+1.63
+2.94
+11
+18.39
+14.63
+22.99
+11
+All races
+5.27
+5.22
+5.33
+47.66
+47.19
+48.13
+Breast
+Non-Hispanic whitea
+13.80
+13.69
+13.90
+1
+138.98
+137.96
+140.01
+1
+White (total)
+13.53
+13.44
+13.63
+2
+134.91
+134.03
+135.80
+2
+Hawaiian
+11.97
+10.65
+13.52
+3
+131.47
+119.23
+144.88
+3
+Japanese
+10.70
+10.11
+11.32
+4
+99.28
+94.33
+104.47
+6
+Black
+9.55
+9.33
+9.78
+5
+115.42
+112.94
+117.95
+4
+Filipina
+9.35
+8.54
+10.33
+6
+90.46
+85.55
+95.77
+7
+Hispanica
+9.27
+8.97
+9.60
+7
+84.76
+82.58
+87.01
+8
+Asian/Paciﬁc Islander
+8.89
+8.59
+9.22
+8
+83.69
+81.42
+86.03
+9
+Alaska Nativeb
+8.34
+6.73
+10.48
+9
+101.75
+84.05
+123.44
+5
+Chinese
+7.90
+7.28
+8.58
+10
+69.18
+65.06
+73.54
+10
+Amer Indian (excl AK)c
+4.35
+3.68
+5.23
+11
+44.70
+39.07
+51.09
+11
+All races
+12.85
+12.76
+12.93
+129.65
+128.87
+130.44
+Corpus and uterus
+Non-Hispanic whitea
+2.87
+2.82
+2.92
+1
+26.62
+26.19
+27.07
+2
+White (total)
+2.80
+2.76
+2.84
+2
+25.86
+25.48
+26.25
+3
+Hawaiian
+2.60
+2.05
+3.40
+3
+28.83
+23.31
+35.57
+1
+Japanese
+1.92
+1.68
+2.20
+4
+17.60
+15.56
+19.90
+4
+Hispanica
+1.91
+1.77
+2.06
+5
+16.17
+15.22
+17.19
+6
+Asian/Paciﬁc Islander
+1.64
+1.52
+1.79
+6
+15.17
+14.21
+16.18
+7
+Black
+1.59
+1.50
+1.69
+7
+17.08
+16.13
+18.08
+5
+Filipina
+1.50
+1.22
+2.01
+8
+14.35
+12.47
+16.65
+8
+Chinese
+1.47
+1.24
+1.77
+9
+13.14
+11.41
+15.11
+9
+Amer Indian (excl AK)c
+0.94
+0.62
+1.53
+10
+8.79
+6.40
+11.99
+11
+Alaska Nativeb
+0.77
+0.37
+1.86
+11
+9.39
+4.70
+18.94
+10
+All races
+2.61
+2.57
+2.64
+24.33
+23.99
+24.67
+LL: lower limit of 95% conﬁdence interval; UL: upper limit of 95% conﬁdence interval.
+a Based on data for all Surveillance, Epidemiology, and End Results (SEER) areas except the state of Connecticut, which has a high proportion of patients for which Hispanic ethnicity is unknown.
+b Alaska Native: American Indian/Aleut/Eskimo residents of Alaska at the time of diagnosis.
+c Amer Indian (excl AK): American Indian/Aleut/Eskimo residents of SEER areas, excluding the state of Alaska.
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+673
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+Lifetime Risk (Percentage) among Men of Developing Invasive Cancer with Age-Adjusted Incidence Rates by Disease Type and Racial/Ethnic
+Group: Surveillance, Epidemiology, and End Results Areas, 1988–1992
+Disease type/group
+Lifetime risk of being diagnosed
+Age-adjusted incidence
+Percent
+LL (%)
+UL (%)
+Rank
+Rate
+LL
+UL
+Rank
+All invasive cancers
+Japanese
+47.94
+46.24
+49.70
+1
+427.06
+415.28
+439.15
+6
+Non-Hispanic whitea
+47.41
+47.17
+47.64
+2
+619.94
+617.48
+622.40
+2
+White (total)
+46.48
+46.29
+46.68
+3
+601.95
+599.79
+604.11
+3
+Asian/Paciﬁc Islander
+41.75
+40.95
+42.56
+4
+395.18
+389.29
+401.15
+8
+Chinese
+40.37
+38.79
+42.02
+5
+369.20
+357.92
+380.85
+9
+Filipino
+39.78
+38.35
+41.27
+6
+367.03
+356.06
+378.30
+10
+Hispanica
+39.19
+38.36
+40.03
+7
+409.76
+403.46
+416.15
+7
+Black
+39.17
+38.65
+39.69
+8
+704.18
+696.30
+712.15
+1
+Hawaiian
+34.68
+32.03
+37.60
+9
+463.90
+437.03
+492.57
+5
+Alaska Nativeb
+28.38
+25.17
+31.96
+10
+477.87
+430.26
+530.45
+4
+Amer Indian (excl AK)c
+24.30
+22.19
+26.62
+11
+260.08
+242.03
+279.35
+11
+All races
+45.53
+45.35
+45.71
+595.91
+593.94
+597.89
+Colon and rectum
+Japanese
+9.71
+9.03
+10.44
+1
+81.33
+76.35
+86.62
+2
+Chinese
+7.14
+6.49
+7.86
+2
+59.38
+54.77
+64.36
+7
+Asian/Paciﬁc Islander
+6.88
+6.58
+7.19
+3
+60.64
+58.35
+63.02
+6
+Alaska Nativeb
+6.51
+5.08
+8.32
+4
+100.29
+78.65
+127.28
+1
+White (total)
+6.29
+6.22
+6.36
+5
+72.62
+71.86
+73.39
+5
+Non-Hispanic whitea
+6.27
+6.20
+6.35
+6
+72.97
+72.11
+73.84
+4
+Filipino
+5.55
+5.05
+6.10
+7
+47.57
+43.65
+51.79
+10
+Hispanica
+4.92
+4.67
+5.19
+8
+47.70
+45.56
+49.94
+9
+Black
+4.51
+4.35
+4.68
+9
+76.06
+73.42
+78.78
+3
+Hawaiian
+4.47
+3.66
+5.57
+10
+55.52
+46.73
+66.17
+8
+Amer Indian (excl AK)c
+2.83
+2.16
+3.70
+11
+29.31
+23.38
+36.53
+11
+All races
+6.15
+6.09
+6.21
+72.13
+71.43
+72.83
+Lung and bronchus
+Hawaiian
+9.15
+8.01
+10.55
+1
+110.94
+98.42
+125.28
+2
+Black
+8.83
+8.61
+9.05
+2
+139.63
+136.25
+143.09
+1
+Non-Hispanic whitea
+8.72
+8.63
+8.81
+3
+97.11
+96.15
+98.08
+4
+White (total)
+8.49
+8.41
+8.57
+4
+94.18
+93.34
+95.03
+5
+Chinese
+8.31
+7.64
+9.04
+5
+67.60
+62.82
+72.74
+6
+Asian/Paciﬁc Islander
+7.30
+7.00
+7.60
+6
+64.08
+61.77
+66.48
+7
+Filipino
+6.98
+6.45
+7.55
+7
+63.18
+58.69
+67.96
+8
+Alaska Nativeb
+6.80
+5.40
+8.55
+8
+101.12
+80.26
+127.14
+3
+Japanese
+6.72
+6.16
+7.33
+9
+54.88
+50.80
+59.27
+9
+Hispanica
+5.81
+5.53
+6.11
+10
+53.49
+51.18
+55.89
+10
+Amer Indian (excl AK)c
+3.26
+2.60
+4.11
+11
+34.14
+27.99
+41.54
+11
+All races
+8.43
+8.36
+8.50
+95.38
+94.60
+96.17
+Prostate
+Non-Hispanic whitea
+17.35
+17.21
+17.48
+1
+188.54
+187.16
+189.92
+2
+Japanese
+16.78
+15.79
+17.83
+2
+123.72
+117.31
+130.45
+4
+White (total)
+16.57
+16.46
+16.69
+3
+179.11
+177.91
+180.31
+3
+Black
+14.79
+14.48
+15.11
+4
+239.32
+234.52
+244.22
+1
+Hispanica
+13.52
+13.05
+14.01
+5
+118.87
+115.30
+122.54
+5
+Filipino
+13.31
+12.48
+14.20
+6
+103.62
+97.69
+109.85
+6
+Asian/Paciﬁc Islander
+12.27
+11.83
+12.73
+7
+96.40
+93.33
+99.55
+8
+Amer Indian (excl AK)c
+9.13
+7.79
+10.69
+8
+82.51
+71.86
+94.48
+9
+Hawaiian
+8.96
+7.44
+10.81
+9
+96.98
+83.60
+112.40
+7
+Chinese
+8.74
+7.99
+9.55
+10
+65.61
+60.64
+70.96
+10
+Alaska Nativeb
+4.17
+2.99
+5.74
+11
+62.27
+44.79
+85.44
+11
+All races
+16.22
+16.12
+16.33
+178.39
+177.29
+179.50
+Urinary bladder
+Non-Hispanic whitea
+3.72
+3.66
+3.78
+1
+41.55
+40.91
+42.21
+1
+White (total)
+3.68
+3.63
+3.73
+2
+40.81
+40.24
+41.39
+2
+Japanese
+2.27
+1.93
+2.68
+3
+17.77
+15.38
+20.48
+5
+Hispanica
+2.24
+2.06
+2.43
+4
+20.19
+18.75
+21.72
+3
+Chinese
+2.16
+1.82
+2.58
+5
+17.36
+14.93
+20.18
+6
+Asian/Paciﬁc Islander
+1.77
+1.62
+1.94
+6
+15.06
+13.91
+16.29
+7
+Black
+1.20
+1.12
+1.29
+7
+19.77
+18.42
+21.22
+4
+Filipino
+1.18
+0.98
+1.44
+8
+10.62
+8.84
+12.70
+10
+Hawaiian
+1.00
+0.56
+1.83
+9
+10.91
+6.87
+17.19
+9
+Alaska Nativeb
+0.90
+0.45
+1.75
+10
+14.27
+7.09
+27.45
+8
+Amer Indian (excl AK)c
+0.64
+0.37
+1.16
+11
+6.51
+3.99
+10.39
+11
+All races
+3.30
+3.26
+3.35
+37.25
+36.75
+37.76
+LL: lower limit of 95% conﬁdence interval; UL: upper limit of 95% conﬁdence interval.
+a Based on data for all Surveillance, Epidemiology, and End Results (SEER) areas except the state of Connecticut, which has a high proportion of patients for which Hispanic ethnicity is unknown.
+b Alaska Native: American Indian/Aleut/Eskimo residents of Alaska at the time of diagnosis.
+c Amer Indian (excl AK): American Indian/Aleut/Eskimo residents of SEER areas, excluding the state of Alaska.
+674
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+adjusted incidence rate for all cancers combined, yet
+their lifetime probability of developing cancer is rela-
+tively low, ranking eighth among the racial/ethnic
+groups. A similar pattern is evident in this group for
+cancers of the colon and rectum, prostate, and urinary
+bladder. The large difference between the rankings for
+cancer incidence rate and the lifetime risk may be
+attributed in part to the high mortality because of
+other (i.e., noncancer) causes among black men, par-
+ticularly in younger age groups (Fig. 1A). This results
+in a smaller proportion of the black male population
+surviving to older ages, when cancer becomes more
+prevalent. A similar pattern of high incidence rates
+relative to low rankings for the risk of developing
+cancer occurs for black women and for Alaska Native
+men. These groups also experience high mortality be-
+cause of other causes, thereby reducing their chances
+of surviving to older ages and developing cancer (Fig.
+1A,B).
+Age-Conditional Probability of Developing Cancer
+The
+probabilities
+of
+developing
+selected
+cancers
+within the next 10 years are presented for men and
+women age 60 years in Figure 2. The important thing
+to note about these probabilities is that they reﬂect the
+chances of a cancer diagnosis among the population
+that has already lived to age 60 years without a cancer
+diagnosis and, thus, are quite different from the life-
+time probabilities of developing cancer. The broad
+95% CIs for the risk measures in Alaska Natives and
+native Hawaiians are because of the smaller popula-
+tion sizes of these racial/ethnic groups. There is less
+racial/ethnic variation in the age-conditional risks for
+colorectal cancer than for the other cancers shown.
+For lung cancer, the racial/ethnic groups appear to
+separate into two clusters with higher risks among
+white, black, native Hawaiian, and Alaska Native men
+and women and with lower risks in the Asian, Amer-
+ican Indian, and Hispanic populations. The age-con-
+FIGURE 1. (A) The cumulative probability of dying from causes other than cancer by the end of an age interval is illustrated for men in the United States,
+1988–1992. (B) The cumulative probability of dying from causes other than cancer by the end of age interval is illustrated for women in the United States,
+1988–1992. The asterisk indicates that the results were based on data for 1989–1991 only (CT, Washington DC, LA, ME, MD, MS, NH, NY, ND, OK, VT, and VA
+were excluded); Alaska Native: American Indian/Aleut/Eskimo residents of Alaska at time of death; Am. Indian (excl AK): American Indian/Aleut/Eskimo residents
+of the United States, excluding the state of Alaska.
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+675
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ditional risks for prostate cancer are highest for black
+men (7.23%) and non-Hispanic white men (5.76%).
+Although black men age 60 years clearly have the
+highest probability of developing prostate cancer
+within the next 10 years, their lifetime risk of develop-
+ing this cancer (14.79%) is lower compared with the
+lifetime risk for non-Hispanic white men (17.35%) and
+Japanese men (16.78%) (Table 2).
+Probability of Dying from Cancer
+Tables 3 and 4 shows lifetime probabilities of dying
+from all cancers combined and for selected cancers,
+along with age-adjusted mortality rates, by racial/eth-
+nic group among women and men, respectively. Men
+in the white, native Hawaiian, black, Chinese, and
+Japanese populations and Alaska Native women all
+have among the highest lifetime risks of dying from
+cancer, ranging from approximately 23.3% to 23.9%.
+The risk estimates among men in the top six racial/
+ethnic groups are very nearly the same in magnitude,
+however, and all of their 95% CIs are overlapping, so
+the individual rankings for these groups are not very
+informative. American Indian, Hispanic, and Filipino
+men and women and Alaska Native men have rela-
+tively lower risks of dying from cancer. The risk for all
+cancers combined is slightly lower for women than for
+men; however, women have a higher risk of dying
+from colorectal cancer. The colorectal cancer risks in
+women exceed those for men in Alaska Native, white,
+black, and American Indian populations. It also was
+found that the lifetime risk of dying from cancer of the
+gallbladder (results not shown) was highest among
+American Indian women (0.37%; 95% CI, 0.27–0.52%).
+Black men have the highest lifetime risk of dying from
+prostate cancer as a result of their exceedingly high
+mortality rate from this disease. The level of their risk
+FIGURE 2. The risks (percentages) and 95% conﬁdence intervals of developing invasive cancer between ages 60–70 years are illustrated by racial/ethnic group
+and gender for the Surveillance, Epidemiology, and End Results (SEER) areas, 1988–1992. The asterisk indicates that data were based on all SEER areas except
+the state of Connecticut, which has a high proportion of individuals with unknown Hispanic ethnicity. Alaska Native: American Indian/Aleut/Eskimo residents of Alaska
+at the time of diagnosis; Amer. Indian (excl AK): American Indian/Aleut/Eskimo residents of SEER areas, excluding the state of Alaska.
+676
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 3
+Lifetime Risk (Percentage) among Women of Dying from Cancer and Age-Adjusted Mortality Rates by Cancer Type
+and Racial/Ethnic Group: United States, 1988–1992
+Disease type/group
+Lifetime risk of dying
+Age-adjusted mortality
+Percent
+LL (%)
+UL (%)
+Rank
+Rate
+LL
+UL
+Rank
+All invasive cancers
+Alaska Nativea
+23.42
+20.36
+26.92
+1
+1
+227.81
+196.99
+262.99
+Non-Hispanic Whiteb
+20.66
+20.60
+20.71
+2
+4
+174.24
+173.74
+174.74
+White (total)
+20.48
+20.44
+20.52
+3
+5
+172.89
+172.56
+173.23
+Hawaiian
+19.68
+17.99
+21.57
+4
+3
+179.50
+165.34
+194.77
+Chinese
+19.45
+18.60
+20.34
+5
+7
+112.12
+108.07
+116.29
+Black
+19.37
+19.26
+19.47
+6
+2
+204.64
+203.49
+205.79
+Japanese
+17.93
+17.13
+18.76
+7
+8
+110.40
+106.00
+114.98
+Asian/Paciﬁc Islander
+17.38
+16.94
+17.84
+8
+10
+107.24
+105.16
+109.36
+Hispanicb
+16.84
+16.54
+17.15
+9
+6
+115.32
+113.54
+117.12
+Amer. Indian (excl AK)c
+15.39
+14.69
+16.14
+10
+9
+108.22
+104.22
+112.35
+Filipina
+14.16
+12.79
+15.69
+11
+11
+77.88
+73.90
+82.12
+All races
+20.24
+20.21
+20.28
+174.63
+174.31
+174.95
+Colon and rectum
+Alaska Nativea
+4.20
+2.69
+6.36
+1
+1
+35.95
+23.21
+53.87
+Chinese
+2.76
+2.40
+3.16
+2
+6
+14.27
+12.82
+15.87
+Japanese
+2.73
+2.39
+3.11
+3
+5
+15.76
+14.09
+17.61
+Non-Hispanic Whiteb
+2.66
+2.64
+2.68
+4
+3
+20.27
+20.11
+20.44
+White (total)
+2.66
+2.64
+2.67
+5
+4
+20.31
+20.20
+20.43
+Black
+2.64
+2.60
+2.68
+6
+2
+26.18
+25.76
+26.60
+Asian/Paciﬁc Islander
+2.21
+2.04
+2.41
+7
+8
+12.06
+11.34
+12.82
+Hispanicb
+1.95
+1.83
+2.07
+8
+9
+12.00
+11.42
+12.62
+Hawaiian
+1.90
+1.25
+2.85
+9
+7
+13.67
+9.67
+18.98
+Amer. Indian (excl AK)c
+1.77
+1.50
+2.09
+10
+10
+10.81
+9.54
+12.22
+Filipina
+1.56
+1.08
+2.25
+11
+11
+7.50
+6.24
+9.06
+All races
+2.64
+2.63
+2.66
+20.72
+20.61
+20.83
+Lung and bronchus
+Alaska Nativea
+5.47
+4.00
+7.51
+1
+1
+54.71
+40.61
+73.30
+Hawaiian
+4.81
+4.01
+5.84
+2
+2
+44.97
+38.11
+52.97
+Chinese
+4.53
+4.10
+5.01
+3
+6
+24.82
+22.91
+26.88
+Non-Hispanic Whiteb
+4.34
+4.31
+4.36
+4
+3
+38.09
+37.86
+38.32
+White (total)
+4.24
+4.23
+4.26
+5
+4
+37.19
+37.03
+37.34
+Black
+3.36
+3.32
+3.41
+6
+5
+36.26
+35.78
+36.74
+Asian/Paciﬁc Islander
+3.15
+2.95
+3.36
+7
+8
+18.78
+17.90
+19.70
+Amer. Indian (excl AK)c
+2.48
+2.23
+2.7
+8
+7
+20.09
+18.42
+21.89
+Japanese
+2.36
+2.07
+2.68
+9
+9
+15.37
+13.81
+17.11
+Filipina
+2.31
+1.75
+3.05
+10
+11
+12.39
+10.83
+14.23
+Hispanicb
+2.27
+2.15
+2.39
+11
+10
+14.93
+14.29
+15.60
+All races
+4.11
+4.09
+4.13
+36.71
+36.57
+36.86
+Breast
+Non-Hispanic Whiteb
+3.65
+3.62
+3.67
+1
+2
+33.10
+32.88
+33.32
+White (total)
+3.60
+3.58
+3.62
+2
+3
+32.71
+32.56
+32.86
+Black
+3.31
+3.27
+3.36
+3
+1
+37.68
+37.19
+38.18
+Hawaiian
+2.95
+2.30
+3.83
+4
+4
+28.41
+23.14
+34.81
+Hispanicb
+2.39
+2.29
+2.51
+5
+5
+19.66
+18.96
+20.39
+Chinese
+1.91
+1.66
+2.20
+6
+11
+13.57
+12.25
+15.01
+Japanese
+1.81
+1.59
+2.07
+7
+7
+14.61
+13.12
+16.27
+Asian/Paciﬁc Islander
+1.77
+1.64
+1.90
+8
+8
+14.04
+13.37
+14.76
+Amer. Indian (excl AK)c
+1.71
+1.48
+1.97
+9
+9
+13.81
+12.46
+15.30
+Filipina
+1.65
+1.33
+2.14
+10
+10
+13.73
+12.33
+15.38
+Alaska Nativea
+1.50
+0.91
+2.69
+11
+6
+18.18
+11.37
+29.46
+All races
+3.53
+3.52
+3.55
+32.85
+32.71
+32.99
+Corpus and uterus
+Hawaiian
+0.94
+0.57
+1.59
+1
+1
+8.73
+5.70
+13.06
+Black
+0.72
+0.70
+0.74
+2
+2
+7.27
+7.05
+7.49
+Non-Hispanic Whiteb
+0.50
+0.49
+0.51
+3
+3
+4.02
+3.95
+4.10
+White (total)
+0.50
+0.49
+0.50
+3
+3
+4.02
+3.97
+4.07
+Hispanicb
+0.49
+0.44
+0.55
+4
+4
+3.21
+2.92
+3.53
+Japanese
+0.32
+0.23
+0.46
+5
+8
+2.22
+1.65
+2.96
+Amer. Indian (escl AK)c
+0.32
+0.23
+0.46
+5
+6
+2.38
+1.83
+3.08
+Asian/Paciﬁc Islander
+0.32
+0.27
+0.39
+5
+7
+2.29
+2.01
+2.61
+Chinese
+0.32
+0.24
+0.44
+5
+5
+2.47
+1.95
+3.13
+Filipina
+0.16
+0.11
+0.45
+6
+9
+1.37
+0.97
+2.07
+Alaska Nativea
+—
+—
+—
+—
+—
+—
+—
+—
+All races
+0.52
+0.51
+0.52
+4.27
+4.23
+4.32
+LL: lower limit of 95% conﬁdence interval; UL: upper limit of 95% conﬁdence interval.
+a Based on data for 1989-1991 only (CT, Washington DC, LA, ME, MD, MS, NH, NY, ND, OK, VT, and VA excluded).
+b Alaska Native: American Indian/Aleut/Eskimo residents of Alaska at the time of death.
+c Amer Indian (excl AK): American Indian/Aleut/Eskimo residents of the United States, excluding the state of Alaska (no cases).
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+677
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4
+Lifetime Risk (Percentage) among Men of Dying from Cancer with Age-Adjusted Mortality Rates by Cancer Type
+and Racial/Ethnic Group: United States, 1988–1992
+Disease type/group
+Lifetime risk of dying
+Age-adjusted mortality
+Percent
+LL (%)
+UL (%)
+Rank
+Rate
+LL
+UL
+Rank
+All invasive cancers
+Non-Hispanic Whitea
+23.94
+23.89
+24.00
+1
+3
+273.23
+272.48
+273.98
+Hawaiian
+23.82
+21.94
+25.91
+2
+5
+261.69
+241.99
+283.07
+Black
+23.80
+23.70
+23.91
+3
+1
+394.76
+392.72
+396.82
+White (total)
+23.61
+23.57
+23.65
+4
+4
+271.08
+270.57
+271.59
+Chinese
+23.37
+22.57
+24.20
+5
+7
+179.52
+173.72
+185.51
+Japanese
+23.29
+22.35
+24.27
+6
+8
+171.88
+165.09
+178.92
+Asian/Paciﬁc Islander
+21.70
+21.29
+22.11
+7
+9
+170.97
+167.96
+174.02
+Hispanica
+19.86
+19.55
+20.17
+8
+6
+180.38
+177.62
+183.19
+Alaska Nativeb
+18.56
+16.40
+21.00
+9
+2
+280.63
+243.45
+322.97
+Filipino
+18.26
+17.55
+18.99
+10
+11
+137.32
+132.15
+142.66
+Amer. Indian (excl AK)c
+16.93
+16.26
+17.63
+11
+10
+163.25
+156.99
+169.75
+All races
+23.56
+23.52
+23.60
+279.13
+278.64
+279.62
+Colon and rectum
+Japanese
+3.43
+3.05
+3.85
+1
+6
+25.63
+23.11
+28.40
+Chinese
+2.94
+2.61
+3.31
+2
+7
+21.27
+19.21
+23.53
+Non-Hispanic Whitea
+2.64
+2.62
+2.67
+3
+3
+30.16
+29.91
+30.42
+White (total)
+2.63
+2.61
+2.64
+4
+4
+30.13
+29.96
+30.31
+Asian/Paciﬁc Islander
+2.50
+2.35
+2.67
+5
+8
+19.20
+18.18
+20.27
+Alaska Nativeb
+2.36
+1.53
+3.56
+6
+1
+36.95
+23.70
+56.10
+Hawaiian
+2.22
+1.70
+3.05
+7
+5
+26.44
+20.59
+34.09
+Black
+2.14
+2.11
+2.18
+8
+2
+36.26
+35.63
+36.91
+Filipino
+2.07
+1.82
+2.36
+9
+10
+15.24
+13.55
+17.12
+Hispanica
+2.01
+1.91
+2.13
+10
+9
+18.12
+17.24
+19.03
+Amer. Indian (excl AK)c
+1.48
+1.27
+1.73
+11
+11
+14.10
+12.28
+16.16
+All races
+2.57
+2.55
+2.58
+30.41
+30.24
+30.57
+Lung and bronchus
+Hawaiian
+8.52
+7.37
+9.93
+1
+2
+93.89
+82.44
+107.06
+Non-Hispanic Whitea
+7.98
+7.95
+8.02
+2
+3
+89.58
+89.16
+89.99
+White (total)
+7.78
+7.75
+7.80
+3
+4
+87.75
+87.46
+88.03
+Black
+7.75
+7.68
+7.81
+4
+1
+123.91
+122.81
+125.02
+Chinese
+6.81
+6.35
+7.30
+5
+6
+51.84
+48.75
+55.13
+Asian/Paciﬁc Islander
+5.59
+5.38
+5.81
+6
+9
+44.80
+43.30
+46.36
+Alaska Nativeb
+5.57
+4.35
+7.11
+7
+5
+81.55
+62.67
+105.70
+Japanese
+5.38
+4.92
+5.89
+8
+10
+40.67
+37.48
+44.11
+Hispanica
+4.93
+4.77
+5.10
+9
+8
+45.39
+44.03
+46.80
+Amer. Indian (excl AK)c
+4.84
+4.50
+5.22
+10
+7
+48.99
+45.76
+52.43
+Filipino
+4.46
+4.11
+4.83
+11
+11
+36.12
+33.55
+38.87
+All races
+7.72
+7.70
+7.74
+89.89
+89.61
+90.16
+Prostate
+Black
+4.24
+4.19
+4.29
+1
+1
+75.96
+74.99
+76.95
+Filipino
+3.58
+3.20
+4.00
+2
+7
+21.86
+19.67
+24.23
+Hawaiian
+3.29
+2.34
+4.59
+3
+4
+29.48
+22.04
+39.02
+Non-Hispanic Whitea
+3.14
+3.12
+3.17
+4
+2
+36.00
+35.71
+36.29
+White (total)
+3.07
+3.05
+3.09
+5
+3
+35.44
+35.25
+35.64
+Hispanica
+3.02
+2.87
+3.18
+6
+5
+24.48
+23.36
+25.63
+Japanese
+2.77
+2.37
+3.21
+7
+8
+17.76
+15.41
+20.40
+Amer. Indian (excl AK)c
+2.75
+2.42
+3.11
+8
+6
+23.73
+21.10
+26.62
+Asian/Paciﬁc Islander
+2.59
+2.41
+2.79
+9
+9
+16.84
+15.76
+17.98
+Chinese
+1.67
+1.39
+2.00
+10
+11
+10.48
+8.89
+12.30
+Alaska Nativeb
+0.93
+0.41
+1.87
+11
+10
+14.19
+6.08
+29.03
+All races
+3.20
+3.19
+3.22
+38.21
+38.02
+38.41
+Urinary bladder
+Non-Hispanic Whitea
+0.72
+0.71
+0.73
+1
+1
+8.21
+8.07
+8.34
+White (total)
+0.71
+0.70
+0.72
+2
+2
+8.16
+8.07
+8.26
+Hispanica
+0.53
+0.47
+0.59
+3
+5
+4.41
+3.95
+4.90
+Hawaiian
+0.46
+0.18
+1.15
+4
+4
+4.36
+2.05
+8.92
+Japanese
+0.45
+0.30
+0.66
+5
+7
+2.98
+2.09
+4.16
+Chinese
+0.43
+0.30
+0.60
+6
+8
+2.88
+2.13
+3.86
+Asian/Paciﬁc Islander
+0.40
+0.33
+0.48
+7
+9
+2.75
+2.34
+3.21
+Black
+0.37
+0.36
+0.39
+8
+3
+6.56
+6.28
+6.85
+Amer. Indian (excl AK)c
+0.26
+0.17
+0.39
+9
+10
+2.31
+1.56
+3.35
+Filipino
+0.23
+0.15
+0.34
+10
+11
+1.60
+1.08
+2.31
+Alaska Nativeb
+0.21
+0.04
+0.83
+11
+6
+3.25
+0.62
+12.80
+All races
+0.67
+0.66
+0.67
+7.93
+7.84
+8.02
+LL: lower limit of 95% conﬁdence interval; UL: upper limit of 95% conﬁdence interval.
+a Based on data for 1989–1991 only (CT, Washington DC, LA, ME, MD, MS, NH, NY, ND, OK, VT, and VA excluded).
+b Alaska Native: American Indian/Aleut/Eskimo residents of Alaska at the time of death.
+c Amer Indian (excl AK): American Indian/Aleut/Eskimo residents of the United States, excluding the state of Alaska (no cases).
+678
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+is attenuated relative to the remaining racial/ethnic
+groups, however, because of high mortality from other
+causes among black men. The low rankings for the risk
+of dying from cancer relative to the (high) rankings for
+the age-adjusted mortality rates in Alaska Native men
+and black women is similar to the pattern seen for the
+lifetime risk of developing cancer and the incidence
+rates in these groups.
+DISCUSSION
+Racial/ethnic patterns are described for the lifetime
+and age-conditional probabilities of developing can-
+cer and for the probabilities of dying from cancer.
+Ninety-ﬁve percent CI calculations, which are in-
+cluded now with the DevCan program, aid in inter-
+preting these cancer risk estimates and indicate the
+increased statistical variability associated with point
+estimates for smaller racial/ethnic populations. The
+range in the cancer risk estimates across speciﬁc Asian
+populations indicates that important differences can
+be obscured when analyses are based on a broad
+racial/ethnic category, such as Asian/Paciﬁc Islander.
+Furthermore,
+Alaska
+Native
+cancer
+risks
+differed
+markedly from those for American Indians in the re-
+maining geographic areas for cancers of the colon and
+rectum, lung and bronchus, prostate, and female
+breast. It should be noted that approximately 46% of
+the American Indians who were diagnosed with can-
+cer during the period of the current study derived
+from the New Mexico Tumor Registry, and 29% de-
+rived from the Seattle/Puget Sound Tumor Registry.
+Therefore, our cancer risk estimates for American In-
+dians are inﬂuenced heavily by southwest and Paciﬁc
+northwest tribes and should not be considered repre-
+sentative of all American Indian tribes in the conti-
+nental United States. Cancer rates among American
+Indians in the southwest, in particular, reportedly are
+lower than the rates among tribes in other regions.23,24
+The risk estimates for developing cancer (Tables 1,
+2) are based on data from the SEER regions, which
+covered approximately 14% of the United States pop-
+ulation during the period of the current study. The risk
+estimates for dying from cancer (Tables 3, 4), con-
+versely, are based on data for the entire United States
+population. This difference in geographic coverage
+may account for some of the differences in the racial/
+ethnic risk rankings between Tables 1 and 2 and Ta-
+bles 3 and 4. Our rationale for choosing these popu-
+lation bases was to include the most complete racial/
+ethnic cancer incidence and mortality data available,
+although the geographic coverage differs between the
+two.
+A few patterns of lifetime risk seem counterintui-
+tive. For example, although black men have high over-
+all cancer incidence rates, they experience a relatively
+low lifetime probability of actually developing cancer.
+This type of discrepancy can result when mortality
+from causes other than cancer is particularly high,
+which leads to a smaller proportion of the cohort
+reaching older ages, when cancers predominantly oc-
+cur. In this example, the cancer incidence rates
+present an incomplete picture of the overall cancer
+burden experienced by black men. Conversely, Japa-
+nese men and women experience relatively low non-
+cancer mortality; thus, a greater proportion of this
+cohort survives to older ages, when cancer rates are
+higher. Thus, the entire spectrum of diseases and their
+interactions must be considered when evaluating ra-
+cial/ethnic health disparities.
+It also is important to recognize factors that may
+have an impact on the cross-sectional incidence rates
+used to calculate DevCan lifetime risk estimates. For
+example, the introduction and rapid diffusion of test-
+ing for prostate-speciﬁc antigen (PSA) in the late 1980s
+and early 1990s paralleled dramatic increases in pros-
+tate cancer incidence rates.25–30 An examination of the
+DevCan lifetime risk estimates for prostate cancer,
+calculated from cross-sectional incidence rates during
+that period, shows risk estimates for white men that
+initially were lower than those for black men (Fig. 3).31
+This is followed by a period during the late 1980s and
+early 1990s (as PSA testing and incidence rates began
+to rise), when the DevCan lifetime risk estimates in-
+crease dramatically, with the risk for white men tem-
+porarily exceeding that for black men. This result is
+spurious, at least in part, because DevCan risk esti-
+mates are reﬂecting incidence rates that initially were
+rising more quickly among white men than among
+black men.26,27,29 Conversely, if we were able to follow
+an actual cohort of individuals, many of the men who
+are diagnosed with prostate cancer after a positive PSA
+test otherwise may not have been diagnosed until
+some later point in their lives, after they developed
+clinical symptoms. Thus, the lifetime risk for this co-
+hort would shift toward the younger ages, but the
+overall lifetime risk may be expected to show little or
+no change. (Some portion of screen-detected, slow-
+growing tumors may never have been detected clini-
+cally before the patient died from other causes of
+death.) Because the DevCan lifetime risk estimates are
+derived by using cross-sectional incidence and mor-
+tality rates, they must be interpreted with caution
+when events, such as the widespread and rapid im-
+plementation of a new screening modality, have an
+impact on disease rates.
+Age-conditional
+risk
+estimates
+may
+be
+more
+meaningful to an individual who wants to know how
+published cancer risk statistics apply to them5; and,
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+679
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+when more is known about individual risk factors,
+more sophisticated models can provide even better
+estimates of cancer risk.32 Age-conditional risks also
+may reﬂect the immediate future of an individual bet-
+ter; because, unlike the lifetime risk estimates, age-
+conditional risks do not require an assumption that
+the underlying cross-sectional incidence and mortal-
+ity rates remain constant over an entire lifetime.
+The impact of racial/ethnic misclassiﬁcation must
+be considered when interpreting these results. Infor-
+mation on race/ethnicity is obtained routinely from
+medical records, death certiﬁcates, or surname lists,
+and errors in classiﬁcation as well as noncomparabil-
+ity with self-reported data from the decennial Census
+are well documented.33–39 Racial/ethnic misclassiﬁca-
+tion on death certiﬁcates reportedly reduces the nu-
+merators (deaths) for speciﬁc racial/ethnic groups.37
+However, when combined with the under coverage of
+speciﬁc racial/ethnic groups in the United States Cen-
+sus (population denominators), and when it was as-
+sumed that misclassiﬁcation is uniform across age
+groups, Rosenberg et al. reported that the expected
+net impact on age-adjusted United States mortality
+rates was a slight overestimate (1%) of the white mor-
+tality rate and a larger overestimate (5%) of mortality
+in the black population; whereas mortality rates for
+American Indians (including Alaska Natives) and
+Asians/Paciﬁc Islanders were underestimated sub-
+stantially (nearly 21% and 11%, respectively), and
+those for Hispanics were underestimated slightly
+(about 2%). To investigate the potential effect of ra-
+cial/ethnic misclassiﬁcation in our study, we assumed
+that similar patterns of misclassiﬁcation held for the
+cancer mortality and incidence rates that were used to
+generate the DevCan lifetime risk estimates. We then
+produced a set of “adjusted” lifetime risk estimates
+that took into account racial/ethnic misclassiﬁcation
+(not shown). The revised lifetime risks for dying from
+cancer among white, black, and Hispanic men showed
+no meaningful changes (from 23.61% [Table 4] to
+23.57% [revised]; from 23.80% to 23.83%; and from
+19.86% to 19.89%, respectively), whereas the risk esti-
+mates for American Indians and Asians/Paciﬁc Island-
+ers increased slightly (from 16.93% to 17.08% and from
+21.70% to 22.20%, respectively). These ﬁndings sug-
+gest that racial/ethnic misclassiﬁcation of the magni-
+tude found by Rosenberg et al. does impact the Dev-
+Can lifetime risk estimates, but the differences are
+small when it is assumed that misclassiﬁcations affect
+both mortality and incidence rates. Ongoing efforts to
+cross-reference cancer registry ﬁles systematically
+with administrative records from the Indian Health
+Service will help to reduce the misclassiﬁcation of
+American Indians.35
+In summary, the lifetime and age-conditional
+probabilities of developing cancer, the probabilities of
+dying from cancer, and the associated conﬁdence in-
+tervals now may be calculated for several more racial/
+ethnic groups by using newly available data bases with
+current versions of the DevCan software.9 Data bases
+centered on the 1990 Census produce these statistics
+for Alaska Natives (literally, for American Indian/
+Aleut/Eskimo populations in Alaska), American Indi-
+an/Aleut/Eskimo (excluding Alaskans), black, Chinese,
+Filipino, native Hawaiian, Japanese, white (total, non-
+Hispanic), and Hispanic populations. Alternative data
+bases with more recent incidence and mortality data
+are available for 1992 and forward, but those are lim-
+ited to fewer racial/ethnic groups (American Indian/
+Alaska Native, Asian/Paciﬁc Islander, black, white, and
+FIGURE 3. Age-adjusted incidence rates for invasive cancer of the prostate
+(solid lines) and the lifetime probability of developing prostate cancer (dashed
+lines) are illustrated for black mean and white men. The 1975–2000 time trend
+analyses in this ﬁgure were based on data from the following Surveillance,
+Epidemiology, and End Results regions: metropolitan Atlanta, Detroit, San
+Francisco/Oakland, Seattle/Puget Sound, and the states of Connecticut, Hawaii,
+Iowa, New Mexico, and Utah [(see National Cancer Institute, Surveillance,
+Epidemiology, and End Results (SEER) Program. DevCan database: “SEER 9
+incidence and mortality, 1975–2000, follow-back year_1973” (released April
+2003 based on the November 2002 submission). Bethesda: National Cancer
+Institute, DCCPS, Surveillance Research Program, Cancer Statistics Branch,
+2003. Underlying mortality data provided by NCHS. Available from URL: http://
+www.cdc.gov/nchs [accessed October 7, 2004]31)].
+680
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Hispanic). This is because detailed population esti-
+mates, which are needed for rate calculations, are
+limited to those broader groups in non-Census years.
+The data bases with broader racial/ethnic groups, al-
+though they were not used in the current analysis, can
+be accessed online.9 Another option is to develop a
+data base centered on the 2000 decennial Census in a
+manner similar to our analysis, which was centered on
+the 1990 Census. However, problems concerning the
+noncomparability of race information from different
+sources now are compounded, because the 2000 Cen-
+sus tabulated multiple-race responses from individu-
+als of mixed heritage, and most hospital records and
+death certiﬁcates contain only single-race informa-
+tion. Methods for “bridging” the multiple-race popu-
+lation denominator data to single-race categories, to
+make them more comparable to the numerator data,
+are based on statistical models that have been devel-
+oped only for major race groups (white, black, Asian/
+Paciﬁc Islander, American Indian/Aleut/Eskimo).40
+Even if criteria were developed for reassigning multi-
+ple-race populations to single-race groups, this would
+not be possible for all geographic areas because of the
+Census Bureau’s disclosure policy, which prevents the
+release of age-speciﬁc, race-speciﬁc, gender-speciﬁc
+population counts  100.41
+REFERENCES
+1.
+Brenner H, Stegmaier C, Ziegler H. Magnitude and time
+trends of the lifetime risk of developing cancer in Saarland,
+Germany. Eur J Cancer. 1990;26:978–982.
+2.
+Schouten LJ, Straatman H, Kiemeney L, Verbeek A. Cancer
+incidence—life table risk versus cumulative risk. J Epidemiol
+Commun Health. 1994; 48:596–600.
+3.
+Feuer EJ, Wun LM, Boring CC, Flanders WD, Timmel MJ,
+Tong T. The lifetime risk of developing breast cancer. J Natl
+Cancer Inst. 1993;85:892–897.
+4.
+Moreno V, Sanchez V, Galceran J, Borras JM, Borras J, Bosch
+FX. Risk of developing cancer and dying from cancer in
+Catalonia (Spain). Med Clin. 1998;110:86–93.
+5.
+Merrill RM, Kessler GL, Udler JM, Rasband GC, Feuer
+EJ. Comparison of risk estimates for selected diseases and
+causes of death. Prev Med. 1999;28:179–193.
+6.
+Nazario CM, Figueroa-Valles N, Rosario RV. Breast cancer
+patterns and lifetime risk of developing breast cancer
+among Puerto Rican females. P R Health Sci J. 2000;19:7–13.
+7.
+Ries LAG, Eisner MP, Kosary CL, et al., editors. SEER cancer
+statistics review, 1975–2000. Bethesda: National Cancer In-
+stitute, 2003. Available from URL: http://seer.cancer.gov/
+csr/1975_2000 [accessed March 8, 2005].
+8.
+American Cancer Society. Cancer facts and ﬁgures 2004.
+Atlanta: American Cancer Society, 2004. Available from URL:
+http://www.cancer.org/docroot/STT/stt_0.asp
+[accessed
+March 8, 2005].
+9.
+National Cancer Institute. DevCan—Probability of develop-
+ing or dying of cancer. Available from URL: http://srab.can-
+cer.gov/devcan [accessed March 8, 2005].
+10. Fay MP, Pfeiffer R, Cronin KA, Le C, Feuer EJ. Age-condi-
+tional probabilities of developing cancer. Stat Med. 2003;22:
+1837–1848.
+11. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. SEER*Stat database: inci-
+dence—SEER 14 Regs, November 2002 submission to sim-
+ulate the racial/ethnic monograph by race (1988–1992, 1990
+populations by 5; released October 2003 based on the No-
+vember 2002 submission). Bethesda: National Cancer Insti-
+tute, DCCPS, Surveillance Research Program, Cancer Statis-
+tics Branch, 2003.
+12. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. SEER*Stat database: inci-
+dence—SEER 11 Regs  RG, November 2002 submission to
+simulate the racial/ethnic monograph by origin (1988–1992,
+1990 populations by 5; released October 2003 based on the
+November 2002 submission). Bethesda: National Cancer In-
+stitute, DCCPS, Surveillance Research Program, Cancer Sta-
+tistics Branch, 2003.
+13. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. SEER*Stat database: mortali-
+ty—all COD, total U.S. to simulate the racial/ethnic mono-
+graph by race (1988–1992, 1990 populations by 5; released
+October 2003). Bethesda: National Cancer Institute, DCCPS,
+Surveillance Research Program, Cancer Statistics Branch,
+2003. Underlying mortality data provided by NCHS. Avail-
+able from URL: http://www.cdc.gov/nchs [accessed October
+7, 2004].
+14. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. SEER*Stat database (www-
+.seer.cancer.gov): mortality—all COD, total U.S. to simulate
+the racial/ethnic monograph by origin (1988–1992, 1990
+pops by 5; released October 2003). Bethesda: National Can-
+cer Institute, DCCPS, Surveillance Research Program, Can-
+cer Statistics Branch, 2003. Underlying mortality data pro-
+vided by NCHS. Available from URL: http://www.cdc.gov/
+nchs [accessed October 7, 2004].
+15. Miller BA, Kolonel LN, Bernstein L, et al., editors. Racial/
+ethnic patterns of cancer in the United States 1988–1992.
+Pub. No. 96-4104. Bethesda: National Cancer Institute, 1996.
+16. Department of the Interior, Bureau of Indian Affairs. Indian
+entities recognized and eligible to receive services from the
+United States Bureau of Indian Affairs. Fed Reg. 2002;67:
+46328–46333.
+17. Cobb N, Paisano RE. Patterns of cancer mortality among
+Native Americans. Cancer. 1998;83:2377–2383.
+18. Centers for Disease Control and Prevention, National Center
+for Health Statistics. Mortality data from the National Vital
+Statistics System. Mortality Technical Appendix, 1989. Avail-
+able from URL: http://www.cdc.gov/nchs/datawh/statab/
+pubd/ta.htm [accessed March 8, 2005].
+19. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. Policy for calculating Hispanic
+mortality. Available from URL: http://seer.cancer.gov/seer-
+stat/variables/mort/origin_recode_1990/yr1969_2001/
+[accessed March 8, 2005].
+20. Fay MP. Estimating age-conditional probability of develop-
+ing cancer using a piecewise mid-age joinpoint model for
+the rates (Technical Report 2003-03). Bethesda: Statistical
+Research and Applications Branch, National Cancer Insti-
+tute, 2003.
+21. Wun Lap-Ming, Merrill RM, Feuer EJ. Estimating lifetime
+and age-conditional probabilities of developing cancer. Life-
+time Data Anal. 1998;4:169–186.
+Race-Ethnic Patterns in Lifetime Cancer Risk/Miller et al.
+681
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+22. U.S. Cancer Statistics Working Group. United States Cancer
+statistics: 1999–2001 incidence and mortality web-based re-
+port version. Atlanta: Department of Health and Human
+Services, Centers for Disease Control and Prevention, and
+National Cancer Institute; 2004. Available from URL: http://
+www.cdc.gov/cancer/npcr/uscs [accessed March 8, 2005].
+23. Cobb N, Paisano RE. Patterns of cancer mortality among
+Native Americans. Cancer. 1998;83:2377–2383.
+24. Espy D, Paisano R, Cobb N. Regional patterns and trends in
+cancer mortality among American Indians and Alaska Na-
+tives, 1990–2001. Cancer. 2005;103:1045–1053.
+25. Lu-Yao GL, Greenberg ER. Changes in prostate cancer inci-
+dence and treatment in USA. Lancet. 1994;343:251–254.
+26. Potosky AL, Miller BA, Albertsen PC, Kramer BS. The role of
+increasing detection in the rising incidence of prostate can-
+cer. JAMA. 1995;273:548–552.
+27. Legler JM, Feuer EJ, Potosky AL, Merrill RM, Kramer BS. The
+role of prostate-speciﬁc antigen (PSA) testing patterns in the
+recent prostate cancer incidence decline in the United
+States. Cancer Causes Control. 1998;9:519–527.
+28. Hankey BF, Feuer EJ, Clegg LX, et al. Cancer surveillance
+series: interpreting trends in prostate cancer—Part I: evi-
+dence of the effects of screening in recent prostate cancer
+incidence mortality, and survival rates. J Natl Cancer Inst.
+1999;91:1017–1024.
+29. Etzioni R, Berry KM, Legler JM, Shaw P. Prostate-speciﬁc
+antigen testing in black and white men: an analysis of Medi-
+care claims from 1991–1998. Urology. 2002;59:251–255.
+30. Sarma AV, Schottenfeld D. Prostate cancer incidence, mor-
+tality, and survival trends in the United States: 1981–2001.
+Semin Urol Oncol. 2002;20:3–9.
+31. National Cancer Institute, Surveillance, Epidemiology, and
+End Results (SEER) Program. DevCan database: “SEER 9
+incidence
+and
+mortality,
+1975–2000,
+follow-back
+year
+ 1973” (released April 2003 based on the November 2002
+submission). Bethesda: National Cancer Institute, DCCPS,
+Surveillance Research Program, Cancer Statistics Branch,
+2003. Underlying mortality data provided by NCHS. Avail-
+able from URL: http://www.cdc.gov/nchs [accessed October
+7, 2004].
+32. Gail MH, Brinton LA, Byar DP, Corle DK, Green SB, Schairer
+C, Mulvihill JJ. Projecting individualized probabilities of de-
+veloping breast cancer for white females who are being
+examined annually. J Natl Cancer Inst. 1989;81:1879–1886.
+33. Frost F, Shy KK. Racial differences between linked birth and
+infant death records in Washington State. Am J Public
+Health. 1980;70:974–976.
+34. Blustein J. The reliability of racial classiﬁcations in hospital
+discharge abstract data. Am J Public Health. 1994;84:1018–
+1021.
+35. Kwong SL, Perkins CI, Snipes KP, Wright WE. Improving
+American Indian cancer data in the California cancer regis-
+try by linkage with the Indian Health Service. J Registry
+Manage. 1998;25:17–20.
+36. Swallen KC, Glaser SL, Stewart SL, West DW, Jenkins CNH,
+McPhee SJ. Accuracy of racial classiﬁcation of Vietnamese
+patients in a population-based cancer registry. Ethn Dis.
+1998;8:218–227.
+37. Rosenberg HM, Maurer JD, Sorlie PD, et al. Quality of death
+rates by race and Hispanic origin: a summary of current
+research, 1999. National Center for Health Statistics. Vital
+Health Stat. 1999;128:1–13.
+38. Stewart SL, Swallen KC, Glaser SL, Horn-Ross PL, West DW.
+Comparison of methods for classifying Hispanic ethnicity in
+a population-based cancer registry. Am J Epidemiol. 1999;
+149:1063–1071.
+39. Harwell TS, Hansen D, Moore KR, Jeanotte D, Gohdes D,
+Helgerson SD. Accuracy of race coding on American Indian
+death certiﬁcates, Montana 1996–1998. Public Health Rep.
+2002;117:44–49.
+40. Parker JD, Schenker N, Ingram DD, Weed JA, Heck KE,
+Madans JH. Bridging between two standards for collecting
+information on race and ethnicity: an application to Census
+2000 and vital rates. Public Health Rep. 2004;119:192–205.
+41. U.S. Census Bureau. United States Census 2000. Special
+tabulations disclosure review board rules/requirements.
+Available from URL: http://www.census.gov/population/
+www/cen2000/sptabs/disclosure.html. [accessed March 8,
+2005].
+682
+CANCER
+February 1, 2006 / Volume 106 / Number 3
+ 10970142, 2006, 3, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.21647 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

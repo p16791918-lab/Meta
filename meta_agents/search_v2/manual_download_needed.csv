@@ -1,21 +1,16 @@
-record_id,pmid,pubmed_url,doi_url,title,doi
-381,20336785,https://pubmed.ncbi.nlm.nih.gov/20336785/,https://doi.org/10.1002/cncr.25016,Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study and first report,10.1002/cncr.25016
-1800,38801414,https://pubmed.ncbi.nlm.nih.gov/38801414/,https://doi.org/10.1158/1055-9965.epi-24-0072,"Rural–Urban Cancer Incidence and Trends in the United States, 2000 to 2019",10.1158/1055-9965.epi-24-0072
-2038,,,,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage",
-3360,15328946,https://pubmed.ncbi.nlm.nih.gov/15328946/,,The effect of migration on cancer incidence among Japanese in Hawaii,
-3369,14997057,https://pubmed.ncbi.nlm.nih.gov/14997057/,https://doi.org/10.1023/b:brea.0000010701.08825.2d,Is male breast cancer similar or different than female breast cancer?,10.1023/b:brea.0000010701.08825.2d
-3394,12784344,https://pubmed.ncbi.nlm.nih.gov/12784344/,https://doi.org/10.1002/cncr.11443,Cancer in the Minnesota Hmong population,10.1002/cncr.11443
-3398,12749722,https://pubmed.ncbi.nlm.nih.gov/12749722/,https://doi.org/10.1023/a:1023046121214,"Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea",10.1023/a:1023046121214
-3640,,,https://doi.org/10.1089/heq.2021.0041,Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States,10.1089/heq.2021.0041
-3662,,,https://doi.org/10.1093/aje/kwaa222,"Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016",10.1093/aje/kwaa222
-3713,,,https://doi.org/10.1007/978-3-319-41118-7_3,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends,10.1007/978-3-319-41118-7_3
-3780,,,https://doi.org/10.1007/s10552-016-0798-2,Risk of cancer in Asian Americans: a Kaiser Permanente cohort study,10.1007/s10552-016-0798-2
-3861,,,https://doi.org/10.1007/s10549-010-1173-8,Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry,10.1007/s10549-010-1173-8
-3891,,,https://doi.org/10.1111/j.1748-0361.2009.00247.x,Changes in cancer incidence patterns among a northeastern American Indian population: 1955-1969 versus 1990-2004,10.1111/j.1748-0361.2009.00247.x
-3999,,,https://doi.org/10.1002/ijc.10725,"Cancer incidence patterns among Vietnamese in the United States and Ha Noi, Vietnam",10.1002/ijc.10725
-4037,21685461,https://pubmed.ncbi.nlm.nih.gov/21685461/,https://doi.org/10.3322/caac.20121,The Impact of Eliminating Socioeconomic and Racial Disparities on Premature Cancer Deaths,10.3322/caac.20121
-4039,16388524,https://pubmed.ncbi.nlm.nih.gov/16388524/,https://doi.org/10.1002/cncr.21647,Racial/ethnic patterns in lifetime and age-conditional risk estimates for selected cancers,10.1002/cncr.21647
-4098,17626117,https://pubmed.ncbi.nlm.nih.gov/17626117/,https://doi.org/10.3322/canjclin.57.4.190,"Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean, and Japanese ethnicities",10.3322/canjclin.57.4.190
-4147,21749024,https://pubmed.ncbi.nlm.nih.gov/21749024/,,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN WOMEN,
-4333,12365024,https://pubmed.ncbi.nlm.nih.gov/12365024/,https://doi.org/10.1002/cncr.10834,Cancer among Hispanic women in South Florida: An 18-year assessment - A report from the Florida Cancer Data System,10.1002/cncr.10834
-4336,28407201,https://pubmed.ncbi.nlm.nih.gov/28407201/,https://doi.org/10.1002/cncr.30701,Cancer Incidence Profile in Sub-Saharan African-Born Blacks in the United States: Similarities and Differences With US-Born Non-Hispanic Blacks,10.1002/cncr.30701
+record_id,pmid,pubmed_url,doi_url,title,source,year,doi
+384,16958083,https://pubmed.ncbi.nlm.nih.gov/16958083/,https://doi.org/10.1002/cncr.22193,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations",MISSING,2006,10.1002/cncr.22193
+1800,38801414,https://pubmed.ncbi.nlm.nih.gov/38801414/,https://doi.org/10.1158/1055-9965.epi-24-0072,"Rural–Urban Cancer Incidence and Trends in the United States, 2000 to 2019",MISSING,2024,10.1158/1055-9965.epi-24-0072
+2151,34878180,https://pubmed.ncbi.nlm.nih.gov/34878180/,https://doi.org/10.3322/caac.21703,"American Cancer Society's report on the status of cancer disparities in the United States, 2021",MISSING,2022,10.3322/caac.21703
+3373,14974761,https://pubmed.ncbi.nlm.nih.gov/14974761/,https://doi.org/10.3322/canjclin.54.1.8,"Cancer Statistics, 2004",MISSING,2004,10.3322/canjclin.54.1.8
+3429,11814064,https://pubmed.ncbi.nlm.nih.gov/11814064/,https://doi.org/10.3322/canjclin.52.1.23,"Cancer statistics, 2002",MISSING,2002,10.3322/canjclin.52.1.23
+3522,,,https://doi.org/10.1002/cncr.35026,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cance",MISSING,2024,10.1002/cncr.35026
+3713,,,https://doi.org/10.1007/978-3-319-41118-7_3,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends,MISSING,2016,10.1007/978-3-319-41118-7_3
+4035,15221985,https://pubmed.ncbi.nlm.nih.gov/15221985/,https://doi.org/10.1002/cncr.20288,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival",MISSING,2004,10.1002/cncr.20288
+4057,21969133,https://pubmed.ncbi.nlm.nih.gov/21969133/,https://doi.org/10.3322/caac.20134,"Breast cancer statistics, 2011",MISSING,2011,10.3322/caac.20134
+4065,24399786,https://pubmed.ncbi.nlm.nih.gov/24399786/,https://doi.org/10.3322/caac.21208,"Cancer Statistics, 2014",MISSING,2014,10.3322/caac.21208
+4071,12953083,https://pubmed.ncbi.nlm.nih.gov/12953083/,https://doi.org/10.1093/jnci/djg040,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer preve",MISSING,2003,10.1093/jnci/djg040
+4172,23335087,https://pubmed.ncbi.nlm.nih.gov/23335087/,https://doi.org/10.3322/caac.21166,"Cancer statistics, 2013",MISSING,2013,10.3322/caac.21166
+4213,22987332,https://pubmed.ncbi.nlm.nih.gov/22987332/,https://doi.org/10.3322/caac.21153,"Cancer statistics for Hispanics/Latinos, 2012",MISSING,2012,10.3322/caac.21153
+4216,22460733,https://pubmed.ncbi.nlm.nih.gov/22460733/,https://doi.org/10.1002/cncr.27514,"Annual Report to the Nation on the status of cancer, 1975-2008, featuring cancers associated with excess weight and lack",MISSING,2012,10.1002/cncr.27514
+4357,12924775,https://pubmed.ncbi.nlm.nih.gov/12924775/,https://doi.org/10.3322/canjclin.53.4.208,"Cancer statistics for Hispanics, 2003",MISSING,2003,10.3322/canjclin.53.4.208

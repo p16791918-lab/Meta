@@ -87,7 +87,7 @@ record_id,year,pmid,doi,source,chars,title
 362,2017,28376154,10.1093/jnci/djx030,cached,131757,"Annual Report to the Nation on the Status of Cancer, 1975-2014, Featuring  Survival"
 369,2018,29445940,10.1007/s10549-018-4699-9,cached,20216,"Differences in breast cancer incidence among young women aged 20–49 years by stage and tumor characteristics, age, race,"
 377,2016,27792934,10.1016/j.canep.2016.10.013,cached,21050,Racial/ethnicity disparities in invasive breast cancer among younger and older  women: An analysis using multiple measur
-381,2010,20336785,10.1002/cncr.25016,MISSING,0,Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study 
+381,2010,20336785,10.1002/cncr.25016,manual-pdf,47458,Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study 
 383,2002,12206512,10.1023/a:1016361932220,manual-pdf,40518,Rates for breast cancer characteristics by estrogen and progesterone receptor status in the major racial/ethnic groups
 384,2006,16958083,10.1002/cncr.22193,MISSING,0,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations"
 385,2025,,10.1245/s10434-025-16974-x,manual-pdf,54654,"Disparities in Stage at Presentation for Disaggregated Asian American, Native Hawaiian, and Pacific Islander Patients wi"
@@ -161,7 +161,7 @@ record_id,year,pmid,doi,source,chars,title
 1800,2024,38801414,10.1158/1055-9965.epi-24-0072,MISSING,0,"Rural–Urban Cancer Incidence and Trends in the United States, 2000 to 2019"
 1875,2024,38230766,10.3322/caac.21820,manual-pdf,151104,"Cancer statistics, 2024"
 2021,2023,36633525,10.3322/caac.21763,manual-pdf,133823,"Cancer statistics, 2023"
-2038,2023,,,MISSING,0,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, "
+2038,2023,,,unavailable,0,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, "
 2131,2022,35699957,10.1001/jamanetworkopen.2022.16958,cached,29278,"Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of B"
 2137,2022,35119703,10.1002/cncr.34122,cached,23789,"Cancer disparities among non-Hispanic urban American Indian and Alaska Native populations in the United States, 1999-201"
 2151,2022,34878180,10.3322/caac.21703,MISSING,0,"American Cancer Society's report on the status of cancer disparities in the United States, 2021"
@@ -200,26 +200,26 @@ record_id,year,pmid,doi,source,chars,title
 3298,2006,16933057,10.1007/s10552-006-0045-3,manual-pdf,37036,"Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000"
 3322,2005,,10.1186/1477-3163-4-21,manual-pdf,55581,"Cancer incidence in the South Asian population of California, 1988-2000"
 3345,2005,15661684,10.3322/canjclin.55.1.10,manual-pdf,63290,"Cancer statistics, 2005"
-3360,2004,15328946,,MISSING,0,The effect of migration on cancer incidence among Japanese in Hawaii
-3369,2004,14997057,10.1023/b:brea.0000010701.08825.2d,MISSING,0,Is male breast cancer similar or different than female breast cancer?
+3360,2004,15328946,,manual-pdf,35798,The effect of migration on cancer incidence among Japanese in Hawaii
+3369,2004,14997057,10.1023/b:brea.0000010701.08825.2d,manual-pdf,29687,Is male breast cancer similar or different than female breast cancer?
 3373,2004,14974761,10.3322/canjclin.54.1.8,MISSING,0,"Cancer Statistics, 2004"
-3394,2003,12784344,10.1002/cncr.11443,MISSING,0,Cancer in the Minnesota Hmong population
-3398,2003,12749722,10.1023/a:1023046121214,MISSING,0,"Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea"
+3394,2003,12784344,10.1002/cncr.11443,manual-pdf,15740,Cancer in the Minnesota Hmong population
+3398,2003,12749722,10.1023/a:1023046121214,manual-pdf,34717,"Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea"
 3429,2002,11814064,10.3322/canjclin.52.1.23,MISSING,0,"Cancer statistics, 2002"
 3522,2024,,10.1002/cncr.35026,MISSING,0,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cance"
-3640,2022,,10.1089/heq.2021.0041,MISSING,0,Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States
-3662,2021,,10.1093/aje/kwaa222,MISSING,0,Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populatio
+3640,2022,,10.1089/heq.2021.0041,manual-pdf,39280,Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States
+3662,2021,,10.1093/aje/kwaa222,manual-pdf,44438,Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populatio
 3713,2016,,10.1007/978-3-319-41118-7_3,MISSING,0,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends
-3780,2016,,10.1007/s10552-016-0798-2,MISSING,0,Risk of cancer in Asian Americans: a Kaiser Permanente cohort study
+3780,2016,,10.1007/s10552-016-0798-2,manual-pdf,47185,Risk of cancer in Asian Americans: a Kaiser Permanente cohort study
 3845,2013,,10.1186/2193-1801-2-3,unpaywall-oa,42395,"Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, E"
-3861,2011,,10.1007/s10549-010-1173-8,MISSING,0,Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry
-3891,2009,,10.1111/j.1748-0361.2009.00247.x,MISSING,0,Changes in cancer incidence patterns among a northeastern American Indian population: 1955-1969 versus 1990-2004
-3999,2002,,10.1002/ijc.10725,MISSING,0,"Cancer incidence patterns among Vietnamese in the United States and Ha Noi, Vietnam"
+3861,2011,,10.1007/s10549-010-1173-8,manual-pdf,36550,Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry
+3891,2009,,10.1111/j.1748-0361.2009.00247.x,manual-pdf,28345,Changes in cancer incidence patterns among a northeastern American Indian population: 1955-1969 versus 1990-2004
+3999,2002,,10.1002/ijc.10725,manual-pdf,31520,"Cancer incidence patterns among Vietnamese in the United States and Ha Noi, Vietnam"
 4026,2023,37119997,10.1016/j.annepidem.2023.04.016,cached,20328,"Incidence of selected cancers in Non-Hispanic American Indian and Alaska Native adolescent and young adult populations, "
 4027,2016,26661680,10.1002/ijc.29958,cached,28989,"Cancer incidence among Asian American populations in the United States, 2009-2011"
 4035,2004,15221985,10.1002/cncr.20288,MISSING,0,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival"
-4037,2011,21685461,10.3322/caac.20121,MISSING,0,The Impact of Eliminating Socioeconomic and Racial Disparities on Premature Cancer Deaths
-4039,2006,16388524,10.1002/cncr.21647,MISSING,0,Racial/ethnic patterns in lifetime and age-conditional risk estimates for selected cancers
+4037,2011,21685461,10.3322/caac.20121,manual-pdf,85942,The Impact of Eliminating Socioeconomic and Racial Disparities on Premature Cancer Deaths
+4039,2006,16388524,10.1002/cncr.21647,manual-pdf,61782,Racial/ethnic patterns in lifetime and age-conditional risk estimates for selected cancers
 4040,2008,18066673,10.1007/s10552-007-9088-3,cached,50239,Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the US
 4043,2023,37223193,10.7759/cureus.37982,cached,18398,"Trends in Breast Cancer Incidence and Mortality in the United States From 2004-2018: A Surveillance, Epidemiology, and E"
 4050,2013,23297039,10.1093/jnci/djs491,cached,98944,"Annual Report to the Nation on the Status of Cancer, 19752009, Featuring the Burden and Trends in Human Papillomavirus ("
@@ -229,15 +229,15 @@ record_id,year,pmid,doi,source,chars,title
 4066,2011,21454908,10.1093/jnci/djr077,cached,91518,"Annual Report to the Nation on the Status of Cancer, 1975-2007, Featuring Tumors of the Brain and Other Nervous System"
 4071,2003,12953083,10.1093/jnci/djg040,MISSING,0,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer preve"
 4082,2025,40257373,10.1002/cncr.35833,cached,107991,"Annual Report to the Nation on the Status of Cancer, featuring state-level statistics after the onset of the COVID-19 pa"
-4098,2007,17626117,10.3322/canjclin.57.4.190,MISSING,0,"Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean,"
-4147,2011,21749024,,MISSING,0,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN WOMEN
+4098,2007,17626117,10.3322/canjclin.57.4.190,manual-pdf,65847,"Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean,"
+4147,2011,21749024,,manual-pdf,34041,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN WOMEN
 4164,2008,19033571,10.1093/jnci/djn389,cached,82367,"Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacc"
 4172,2013,23335087,10.3322/caac.21166,MISSING,0,"Cancer statistics, 2013"
 4213,2012,22987332,10.3322/caac.21153,MISSING,0,"Cancer statistics for Hispanics/Latinos, 2012"
 4216,2012,22460733,10.1002/cncr.27514,MISSING,0,"Annual Report to the Nation on the status of cancer, 1975-2008, featuring cancers associated with excess weight and lack"
 4294,2025,39976243,10.3322/caac.21874,cached,78817,"Cancer statistics for African American and Black people, 2025"
-4333,2002,12365024,10.1002/cncr.10834,MISSING,0,Cancer among Hispanic women in South Florida: An 18-year assessment - A report from the Florida Cancer Data System
-4336,2017,28407201,10.1002/cncr.30701,MISSING,0,Cancer Incidence Profile in Sub-Saharan African-Born Blacks in the United States: Similarities and Differences With US-B
+4333,2002,12365024,10.1002/cncr.10834,manual-pdf,33495,Cancer among Hispanic women in South Florida: An 18-year assessment - A report from the Florida Cancer Data System
+4336,2017,28407201,10.1002/cncr.30701,manual-pdf,42063,Cancer Incidence Profile in Sub-Saharan African-Born Blacks in the United States: Similarities and Differences With US-B
 4357,2003,12924775,10.3322/canjclin.53.4.208,MISSING,0,"Cancer statistics for Hispanics, 2003"
 4389,2013,24013772,10.1007/s10552-013-0271-4,cached,18065,Differences in the cancer burden among foreign-born and US-born Arab Americans living in metropolitan Detroit
 4429,2017,28801942,10.1002/ijc.30928,cached,19066,"Cancer risk in different generations of Middle Eastern immigrants to California, 1988-2013"

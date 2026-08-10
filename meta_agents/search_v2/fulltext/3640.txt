@@ -1,0 +1,946 @@
+record_id=3640 pmid= doi=10.1089/heq.2021.0041
+SOURCE: manual-pdf
+TITLE: Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States
+
+Open camera or QR reader and
+scan code to access this article
+and other resources online.
+ORIGINAL RESEARCH
+Open Access
+Structural Racism and Triple-Negative Breast Cancer
+Among Black and White Women in the United States
+Linsey Eldridge1,* and David Berrigan2
+Abstract
+Purpose: To determine the associations between state-level indicators of structural racism and incidence of
+triple-negative breast cancer (TNBC) among black and white women diagnosed with breast cancer.
+Methods: Black and white women diagnosed with breast cancer between 2010 and 2016 were identiﬁed from
+12 states represented in the Surveillance, Epidemiology, and End Results (SEER18) program. State-level disparities
+were measured by black to white rate ratios in educational attainment, political participation, incarceration, and
+unemployment; and dichotomized to ‘‘high’’ or ‘‘low’’ structural racism using the median rate ratio of the 12
+states. Logistic regression was used to examine the associations between indicators of structural racism and
+TNBC among black and white women.
+Results: Living in states with high levels of structural racism in the domains of educational attainment, judicial
+treatment, and political participation were generally associated with greater odds of TNBC among black and
+white women. The increased odds of TNBC was greater for black women living in states with high levels of racial
+disparities than white women. Among black women diagnosed with breast cancer, the odds ratio (OR) of being
+diagnosed with TNBC comparing women living in states with high disparities in educational attainment versus
+those with low disparities was 1.50 (95% conﬁdence interval [CI]: 1.27–1.77). For white women, the OR for edu-
+cational attainment was 1.17 (95% CI: 1.10–1.23).
+Conclusion: Results from this study support the notion that racial health disparities need to be contextualized.
+Further research should address mechanisms through which structural racism inﬂuences health disparities.
+Keywords: breast cancer; TNBC; structural racism; health disparities
+Introduction
+There is an important body of literature seeking to un-
+derstand the role of racism in health disparities. Many
+of these studies addressing the impact of racism on
+health rely on self-reported measures of interpersonal
+discrimination.1,2 In contrast, structural racism refers
+to racism at the macro-level and recognizes the ways
+systems such as housing, education, and employment
+interact to produce racialized outcomes.3 Documenting
+individual experiences of discrimination is important;
+1National Cancer Institute, Center for Global Health, Rockville, Maryland, USA.
+2National Cancer Institute, Division of Cancer Control and Population Sciences, Rockville, Maryland, USA.
+*Address correspondence to: Linsey Eldridge, MPH, National Cancer Institute, Center for Global Health, 9609 Medical Center Drive, Rockville, MD 20850, USA,
+E-mail: linsey.eldridge@nih.gov
+ª Linsey Eldridge and David Berrigan 2022; Published by Mary Ann Liebert, Inc. This Open Access article is distributed under the terms of the
+Creative Commons License [CC-BY] (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+Health Equity
+Volume 6.1, 2022
+DOI: 10.1089/heq.2021.0041
+Accepted December 17, 2021
+Health Equity
+116
+
+however, understanding the ways racism functions at
+the structural level to inﬂuence health necessitates fur-
+ther investigation.
+Interest in understanding structural racism is growing;
+however, limitations to measures of structural racism re-
+main a hindrance to fully studying its effect on health.4–6
+A systematic review of studies conducted in the past 10
+years involving health and structural racism found that
+most measures were within the neighborhood, focusing
+primarily on residential segregation.7 Furthermore, the
+number of studies examining the link between structural
+racism and cancer risk is sparse. Groos et al.’s systematic
+review lists a single study addressing cancer, despite gap-
+ing disparities in cancer incidence and mortality.7 That
+study found that black women living in neighborhoods
+characterized by racial bias in mortgage lending experi-
+enced poorer colorectal cancer outcomes.8
+A more recent study also utilizing neighborhood-
+level measures of structural racism revealed that living
+in redlined census tracts was associated with an
+increased risk of breast cancer mortality for both
+non-Hispanic black and white women.9 Although
+neighborhood-level measures of structural racism
+play an important role in health, they offer a limited
+perspective on the complex systems that embody struc-
+tural racism.10–12
+In another study, Krieger et al. utilize state-level poli-
+cies as a measure of structural racism, ﬁnding that birth-
+place in a state with a history of Jim Crow ordinances was
+associated with an increased risk of estrogen receptor neg-
+ative (ER) breast cancer subtypes among black, but not
+white women.13 Krieger et al. selected ER for attention,
+citing evidence that breast cancer subtype may be affected
+by early life, adolescent, and adult exposures.14
+Both ER tumors, that account for < 30% of breast
+cancer cases, and triple-negative breast cancer (TNBC),
+characterizing 10–15% of breast cancer cases, are signif-
+icant sources of disparities in breast cancer outcomes
+and have important clinical implications. TNBC is
+deﬁned as cases where cancer cells lack joint hor-
+mone receptor (HR; estrogen [ER] and progesterone
+receptors [PR]) and display low levels of human epi-
+dermal growth factor receptor (HER2).15 Black
+women are approximately twice as likely to be diag-
+nosed with TNBC than white women.16 TNBC is as-
+sociated with larger and higher-grade carcinomas at
+diagnosis and cannot be treated by endocrine-based
+treatments,17 resulting in higher rates of 5-year
+cancer-related mortality compared with other types
+of breast cancer (40% vs. 20%).18
+Incidence of TNBC and the strength of the racial dis-
+parity vary by geographic region, suggesting environ-
+mental and social factors may be associated with the
+subtype; however, these factors remain largely under-
+studied.19,20 Instead, studies on breast cancer subtype
+continue to focus on individual and genetic factors.21
+Although the Duffy-null allele, a West African ancestral
+variant, is known to be associated with TNBC,22 relying
+solely on genetics neglects the environmental and social
+exposures that disproportionately affect people by race.
+Furthermore, the racial disparity of TNBC incidence
+varies by state, which cannot be explained by genetics, as
+there is no evidence to suggest African ancestry among
+black Americans also varies signiﬁcantly by state.23 In ad-
+dition, evidence indicates that expression of ER is regu-
+lated by methylation and is modiﬁable,17,24–27 further
+supporting exploration of behavioral and environmental
+factors inﬂuencing racial disparities.
+Individual-level factors such as diet and physical in-
+activity, known to be associated with TNBC,28,29 may
+be mediators on the pathway from community-level
+factors to clinical presentations of breast cancer; how-
+ever, they do not represent the fundamental causes of
+health and health disparities.30 Limited access to fresh
+fruits and vegetables in minority neighborhoods21 and
+inequitable distribution of recreational resources in pri-
+marily black neighborhoods31 may contribute to diet
+and physical inactivity. Furthermore, a recent study on
+the association between body mass index (BMI) and
+county-level indicators of structural racism found that
+high levels of racism was associated with a higher BMI
+in black, but a lower BMI in white people. This ﬁnding
+was stronger for black women than black men.4
+Addressing breast cancer subtype disparities re-
+quires moving beyond genetic and individual factors,
+and toward addressing the social context that shapes
+health. Building on previous work showing state-level
+variation in policies and laws resulted in differential
+health outcomes for sexual minorities,32,33 Lukachko
+et al. examined the ways state-level variation in political
+participation, employment, education, and incarcera-
+tion predict myocardial infarction (MI). Results from
+this study indicated that living in states with high expo-
+sure to structural racism in these domains was associ-
+ated with increased prevalence of MI for black, but
+not white people, regardless of individual age, sex, ed-
+ucation, income, and medical insurance status.2
+This study builds on Lukachko et al.’s work and ad-
+dresses some of the aforementioned limitations of pre-
+vious research on TNBC disparities by examining
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+117
+
+state-level variation in measures of structural racism
+across the domains of political participation, employ-
+ment, educational attainment, and incarceration to as-
+sess whether racism differentially predicts TNBC risk
+among black and white women in the United States.
+Methods
+Data source
+Non-Hispanic black and white women diagnosed with
+breast cancer between January 1, 2010 and December
+31, 2016 were identiﬁed from 17 population-based can-
+cer registries that participate in the SEER program.34
+Only cases diagnosed after 2010 were included because
+this is when SEER began collecting HER2 receptor status,
+used to deﬁne breast cancer subtype. The 12 states repre-
+sented in the data set were California, Connecticut,
+Georgia, Hawaii, Iowa, Kentucky, Louisiana, Michigan,
+New Mexico, New Jersey, Washington, and Utah. The
+analytical data set included 301,600 non-Hispanic
+white women and 46,853 non-Hispanic black women.
+A full IRB review was not required, because the NIH’s
+Ofﬁce of Human Subjects Research have determined
+that the SEER data are exempt (CFR 46.104(4)).
+Measures of structural racism
+Measures of structural racism comprised four domains:
+educational attainment, employment, judicial treat-
+ment, and political participation. State-level disparities
+across these domains were identiﬁed by Lukachko et al.
+as representing the systematic exclusion of black people
+from resources and societal mobility.2
+The domain of educational attainment was the rela-
+tive proportion of blacks to whites over 15 years of age
+with a bachelor’s level degree or higher. These statistics
+were derived from the U.S. Census Bureau, Decennial
+Census, 2010 (https://www.census.gov/data/tables/2010/
+demo/educational-attainment/cps-detailed-tables.html).35
+Employment was the relative state-level unemploy-
+ment rate ratio between blacks and whites. These
+data were obtained from the U.S. Bureau of Labor Sta-
+tistics, 2010 (https://www.bls.gov/opub/ted/2011/ted_
+20111005.htm?view_full).36
+Judicial treatment included two measures: (1) relative
+proportion of blacks to whites incarcerated (jails and
+prisons) and (2) relative proportion of blacks to non-
+blacks among the voting age population disenfranchised
+due to felony convictions. Felony disenfranchisement
+rates for whites for 2010 were not available. Incarcera-
+tion and disenfranchisement data were derived from
+the U.S. Department of Justice, 2010 by Sakala.37,38
+Lastly, political participation also included two mea-
+sures: (1) relative proportion of blacks to whites 18
+years of age and over in each state who were registered
+to vote in 2010 and (2) relative proportion of blacks to
+whites 18 years of age and over who voted in 2010.
+Data were obtained from the U.S. Census Bureau,
+Decennial Census 2010 (https://www.census.gov/data/
+tables/2010/demo/voting-and-registration/voting-reg
+istration-2010-election.html).39
+Relative rate ratios of blacks to whites in each do-
+main were calculated for each of the 12 states. The me-
+dian rate ratio for each domain was used as a cut-point
+to dichotomize each state-level measure of structural
+racism to indicate low versus high exposure to struc-
+tural discrimination. The median was used as a cut-
+point for consistency and ease of interpretation.
+Breast cancer subtype
+Breast cancer subtypes are deﬁned by joint hormone
+receptor (HR and PR) and HER2 status. Using subtype
+information, tumors were classiﬁed into ﬁve categories:
+(1) HER2 +/HR +, (2) HER2 +/HR, (3) HER2/HR +,
+(4) ER/PR/HER2 (triple negative), or (5) un-
+known.34 For this study, TNBC status was dichotomized
+using the aforementioned ﬁve categories. The ﬁrst three
+categories were classiﬁed as non-TNBC and the fourth
+category was classiﬁed as TNBC. Cases with unknown
+subtype were not included in this study.
+Covariates
+Demographic characteristics, including age and marital
+status, were ascertained across SEER registries using
+standardized coding methods based on hospital medi-
+cal records.40 Analyses were adjusted for individual age
+and marital status because both were associated with
+TNBC diagnosis (Table 1), but we were unable to ex-
+amine individual education and socioeconomic status
+because they are not provided by SEER registries.
+Statistical analysis
+State-level indicators of structural racism were
+linked to individual-level data from SEER using fed-
+eral
+information
+processing
+standards
+codes.
+Patients were assigned a value for state-level indica-
+tors based on the state of residence at time of diag-
+nosis
+to
+represent
+high
+or
+low
+exposure
+to
+structural discrimination. Logistic regression analy-
+ses were used to measure the association between in-
+dicators of structural racism and TNBC status by
+race. The interaction between race and indicators
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+118
+
+of structural racism in predicting TNBC using mul-
+tiplicative interaction terms in the model was also
+assessed. All models were adjusted for age and mar-
+ital status. All statistical analysis was done using
+SAS 9.4 statistical software.
+Results
+Distribution of measures of structural racism
+Table 2 shows the distribution of measures of structural
+racism by race. The median for the ratio measures
+representing
+educational
+attainment
+and
+political
+Table 1. Distribution of Clinical, Demographic, and State-Level Indicators of Structural Racism by HER2/HR (TNBC)
+Status, SEER18 Registry 2010–2016
+White women N (%) or mean (std. dev.)
+Black women N (%) or mean (std. dev.)
+Non-TNBC
+N = 297,614 (90.0%)
+TNBC
+N = 3986 (10.0%)
+p
+Non-TNBC
+N = 37,398 (78.8%)
+TNBC
+N = 9455 (20.2%)
+p
+Age
+62.7 (13.3)
+60.0 (14.3)
+< 0.0001a
+59.9 (13.04)
+57.4 (13.06)
+< 0.0001a
+Marital status
+0.0008b
+0.0010b
+Never married
+38,225 (13.6%)
+4454 (14.2%)
+11,119 (31.7%)
+2982 (33.5%)
+Been married
+243,741 (86.4%)
+26,826 (85.8%)
+23,990 (68.3%)
+5921 (66.5%)
+Grade
+< 0.0001b
+< 0.0001b
+Grade I well differentiated
+76,125 (25.6%)
+746 (2.3%)
+6479 (17.3%)
+145 (1.5%)
+Grade II: moderately differentiated
+137,354 (46.1%)
+5897 (17.9%)
+15,822 (42.3%)
+1328 (14.0%)
+Grade III: poorly differentiated
+69,916 (23.5%)
+24,370 (73.9%)
+12,647 (33.8%)
+7437 (78.7%)
+Grade IV: undifferentiated
+785 (0.3%)
+283 (0.9%)
+90 (0.2%)
+58 (0.6%)
+Unknown
+13,434 (4.5%)
+1690 (5.1%)
+2360 (6.3%)
+487 (5.1%)
+State-level disparity
+Education
+< 0.0001b
+0.8030
+Low
+160,665 (54.0%)
+18,340 (55.6%)
+14,037 (37.5%)
+3562 (37.7%)
+High
+136,949 (46.0%)
+14,646 (44.4%)
+23,361 (62.5%)
+5893 (62.3%)
+Unemployment
+0.0052b
+0.4507
+Low
+195,217 (65.6%)
+21,891 (66.4%)
+20,145 (53.9%)
+5134 (54.3%)
+High
+102,397 (34.4%)
+11,095 (33.6%)
+17,253 (46.1%)
+4321 (45.7%)
+Incarceration
+0.1264
+0.9346
+Low
+90,660 (30.5%)
+10,183 (30.9%)
+16,907 (45.2%)
+4270 (45.2%)
+High
+206,954 (69.5%)
+22,803 (69.1%)
+20,491 (54.8%)
+5185 (54.8%)
+Disenfranchisement
+0.1978
+0.0102
+Low
+86,144 (28.9%)
+9436 (28.6%)
+17,204 (46.0%)
+4489 (47.5%)
+High
+211,470 (71.1%)
+23,550 (71.4%)
+20,194 (54.0%)
+4966 (52.5%)
+Voter registration
+0.5328
+Low
+121,371 (40.8%)
+13,411 (40.7%)
+0.6619
+23,571 (63.0%)
+5992 (63.8%)
+High
+176,243 (59.2%)
+19,575 (59.3%)
+13,827 (37.0%)
+3463 (36.63%)
+Voting
+0.0016b
+0.0097b
+Low
+109,051 (36.6%)
+11,795 (35.8%)
+26,310 (70.3%)
+6780 (71.7%)
+High
+188,563 (63.4%)
+21,191 (64.2%)
+11,088 (29.6%)
+2675 (28.3%)
+aStudent’s t-test.
+bChi-square test.
+HER2, human epidermal growth factor receptor; SEER18, Surveillance, Epidemiology, and End Results; TNBC, triple-negative breast cancer.
+Table 2. Distribution of State-Level Measures of Structural Racism
+Measure of structural racism
+Mean for black (SE)
+Mean for white (SE)
+Median ratiosa (SE)
+Rate ratio range for states
+Educational attainment
+% with bachelor’s degree or higher
+0.17 (0.02)
+0.26 (0.01)
+0.59 (0.07)
+0.34–1.05
+Employment
+Unemployment rate
+16.51 (1.25)
+8.42 (0.51)
+2.04 (0.10)
+1.41–2.41
+Judicial treatment
+Incarceration rate
+2.91 (0.48)
+0.45 (0.05)
+6.38 (0.84)
+2.50–11.48
+% disenfranchised
+0.06 (0.02)
+0.01 (0.005)b
+5.04 (0.65)
+1.86–8.92
+Political participation
+% registered to vote
+0.56 (0.05)
+0.68 (0.02)
+0.85 (0.07)
+0.24–1.05
+% voted
+0.40 (0.02)
+0.50 (0.02)
+0.80 (0.05)
+0.55–1.07
+aRate ratio refer to relative proportions of blacks to whites within each state for the year 2010. Only the ratios from the 12 states represented in the
+SEER18 registry are included.
+bRate of non-black disenfranchisement.
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+119
+
+participation were below 1.0, meaning black people
+were under-represented in these domains relative to
+whites. For these two domains, states with a rate ratio
+greater than the median were classiﬁed as low exposure
+to structural racism, and a rate ratio equal to or less
+than the median were classiﬁed as high exposure to
+structural racism. For example, on average, 17% of
+black people and 26% of white people had a bachelor’s
+degree or higher resulting in a median rate ratio of
+0.59. Therefore, states with an educational attainment
+rate ratio of 0.59 or lower were classiﬁed as high exposure
+to structural discrimination.
+For measures of unemployment and judicial treat-
+ment, the median rate ratios were above 1.0, meaning
+black people were over-represented in these domains.
+Therefore, states with a rate ratio at the median or
+above were classiﬁed as high exposure to structural dis-
+crimination.
+Distribution of demographic, clinical,
+and state-level indicators of structural racism
+by TNBC status and race
+Table 1 shows the distribution of clinical, demo-
+graphic, and state-level indicators of structural racism
+by TNBC status and race. White and black women
+diagnosed with TNBC were signiﬁcantly younger
+(60 and 57.4, respectively), than women diagnosed
+with all other subtypes (62.7 and 59.9, respectively).
+Marital status was also signiﬁcantly associated with
+TNBC status for both white and black women.
+White and black women diagnosed with TNBC were
+signiﬁcantly more likely to be diagnosed at grade III
+(73.9% and 78.7%) than women diagnosed with all
+other subtypes.
+Structural racism and TNBC among black women
+As shown in Table 3, in models adjusting for age and
+marital status, associations were statistically signiﬁ-
+cant for disparities in attainment of a bachelor’s
+degree or higher (odds ratio [OR] = 1.50; 95% conﬁ-
+dence interval [CI]: 1.27–1.77), disparities in disen-
+franchisement rates (OR = 1.27; 95% CI: 1.17–1.38),
+and disparities in voting practices (OR = 1.33; 95%
+CI: 1.21–1.45). These results indicate that black
+women living in states with high levels of disparities
+in these areas were more likely to be diagnosed with
+TNBC than black women living in states with low
+levels of disparities in these areas.
+Structural racism and TNBC among white women
+High levels of structural racism across the domains of ed-
+ucational attainment, judicial treatment, and political
+participation were generally associated with greater
+odds of being diagnosed with TNBC among white
+women diagnosed with breast cancer. In models adjusted
+for age and marital status, associations were statistically
+signiﬁcant for disparities in attainment of a bache-
+lor’s degree or higher (OR = 1.17; 95% CI: 1.10–
+1.23), disparities in disenfranchisement (OR = 1.10;
+95% CI: 1.05–1.16), and disparities in voter registra-
+tion (OR = 1.07; 95% CI: 1.03–1.12). These results in-
+dicate that white women living in states with high
+Table 3. OR and 95% CI for HER2/HR (TNBC) Among Non-Hispanic Black and Non-Hispanic White Women Diagnosed
+with Breast Cancer Between 2010 and 2016 (18 SEER Registry Group), in Relation to High Levels of Structural Racism
+in Four Domains
+Measure of structural racisma
+HER2/HRb
+Interaction between race and measures
+of structural racism
+Black
+White
+OR (95% CI)
+p
+OR (95% CI)
+p
+Wald chi-square
+p
+Educational attainment
+Bachelor’s degree or higher
+1.50 (1.27–1.77)
+< 0.0001
+1.17 (1.10–1.23)
+< 0.0001
+60.75
+< 0.0001
+Employment
+Unemployment rate
+1.07 (0.95–1.21)
+0.2793
+0.99 (0.95–1.04)
+0.8123
+6.10
+0.0135
+Judicial treatment
+Incarceration
+0.89 (0.79–1.01)
+0.0689
+0.99 (0.95–1.03)
+0.6472
+1.92
+0.1661
+Disenfranchisement
+1.27 (1.17–1.38)
+< 0.0001
+1.10 (1.05–1.16)
+< 0.0001
+38.78
+< 0.0001
+Political participation
+Voter registration
+1.05 (0.92–1.20)
+0.4819
+1.07 (1.03–1.12)
+0.0009
+2.90
+0.0883
+Voting practices
+1.33 (1.21–1.45)
+< 0.0001
+1.00 (0.96–1.04)
+0.9086
+117.74
+< 0.0001
+aRelative proportion of blacks to whites in domain.
+bAdjusted for age and marital status.
+CI, conﬁdence interval; OR, odds ratio.
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+120
+
+disparities in these areas were more likely to be diag-
+nosed with TNBC than white women living in states
+with states with low disparities.
+Interactions between structural racism and race
+The associations between indicators of structural rac-
+ism and TNBC signiﬁcantly differed by race across
+most domains (Table 3). Interactions between struc-
+tural racism and race were statistically signiﬁcant
+for measures of educational attainment ( p < 0.0001),
+employment ( p = 0.0135), disenfranchisement ( p <
+0.0001), and voting practices ( p < 0.0001). These re-
+sults indicate that the effect of these measures on
+TNBC diagnosis differs signiﬁcantly among black and
+white women. Speciﬁcally, although the association be-
+tween disparities in the areas of educational attainment
+and disenfranchisement and TNBC were positive
+among both black and white women, the associations
+were signiﬁcantly weaker for white women.
+In contrast, whereas the association between the dis-
+parity in voting practices and TNBC were positive
+among black women (resulting in higher prevalence
+of TNBC), they were null among white women
+( p < 0.0001). Finally, although the interaction between
+race and disparities in unemployment was statistically
+signiﬁcant ( p = 0.0135), the ORs were not signiﬁcant
+for either black or white women, suggesting that this
+interaction is likely not practically relevant.
+Discussion
+This study analyzed data on breast cancer subtype for
+patients from the Surveillance, Epidemiology, and
+End Results (SEER18) database to demonstrate the dif-
+ference in the occurrence of TNBC by state-level mea-
+sures of structural racism. The measures used move
+beyond established neighborhood-level measures of
+structural inequities to examine the ways in which ju-
+dicial treatment, employment, education, and political
+participation impact breast cancer.
+In states that measured higher in indicators of struc-
+tural racism the incidence of TNBC was greater in both
+black and white women. Furthermore, for three of the
+four measures, the increase in TNBC was higher in
+black than white women. These ﬁndings support the
+hypothesis that living in states with high measures of
+structural racism increases the odds of TNBC diagnosis
+among black women diagnosed with breast cancer.
+The associations between TNBC and structural rac-
+ism observed in this study were not speciﬁc to black
+women, and among white women diagnosed with
+breast cancer, state-level indicators of structural racism
+also appear to increase the odds of TNBC. This ﬁnding
+was unexpected as other studies have found that mea-
+sures of structural racism are protective for whites.2,4,13
+However, these studies used either different measures
+of structural racism or a different health outcome,
+which may explain these inconsistences.
+There are at least two possible explanations for why
+racial disparities increase the odds of TNBC for white
+women. First, the factors that mediate the relationship
+between structural racism and TNBC for black women
+may also affect TNBC for white women. For example,
+racial disparities in disenfranchisement rates were asso-
+ciated with an increased odd of TNBC for both black
+and white women. The process by which disenfran-
+chisement disparities affect health may include differ-
+ential allocation of health resources as a result of
+inequitable public policies.41
+Studies exploring the link between voter disenfran-
+chisement and health disparities suggest that states
+with low disparities in felon disenfranchisement are
+more likely to have more equitable public policies that
+improve health for both white and black people.42,43 In
+this scenario, structural racism per se is not a causal fac-
+tor inﬂuencing incidence of TNBC in white women,
+rather it is an indicator variable for state-level character-
+istics of health systems that inﬂuence TNBC incidence.
+A second possible explanation is that states with high
+racial disparities may also have high gender disparities
+that negatively impact white women. Although the in-
+creased odds of TNBC was not speciﬁc to black women,
+the strength of the disparity differed by race. The excess
+odds of TNBC was greater for black women living in
+states with high levels of racial disparities than white
+women living in the same states. These ﬁndings indi-
+cate that state-level measures of structural racism de-
+serve investigation as a social determinant of breast
+cancer subtype disparities. Although racism affects all
+states, the measures of discrimination were greater in
+states that measured ‘‘high’’ in structural racism, thus
+potentially increasing the risk of TNBC.
+Differences in state-level policies in education, judicial
+treatment, political participation, and employment pro-
+duce varying degrees of inequities and have direct impli-
+cations on health. This is supported by other studies
+where exposure to high levels of structural racism was
+shown to increase the risk of various health issues, includ-
+ing MI and ER breast cancer.2,13,44 State-level policies
+have the potential to increase inequities or protect mar-
+ginalized groups. Further attention to the geography of
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+121
+
+racial disparities is also warranted, the optimal spatial
+scale for policies to address structural racism and its con-
+sequences is not completely understood.
+The study has several limitations. First, analysis
+was based solely on the 12 states in the SEER18 data-
+base and would have beneﬁtted from inclusion of a
+greater number of states. Although SEER18 is
+thought to be representative of the U.S. population
+in terms of race and age, measures of structural rac-
+ism may not be fully represented by the 12 states in
+this
+study.
+Second,
+SEER18
+does
+not
+include
+individual-level variables that could confound the
+association between structural racism and TNBC, in-
+cluding SES, obesity, and breastfeeding rates, among
+others. Future studies should employ a multilevel
+analysis to adjust for these variables. Third, patients
+were assigned to exposure levels based on state of
+residence at time of diagnosis, not the state they
+were born and/or lived in the longest.
+Despite these limitations, this study has several
+strengths. First, this is the ﬁrst study we are aware of
+to use these measures of structural racism to examine
+disparities in TNBC, adding to the literature examining
+health outcomes and structural racism. To our knowl-
+edge, only three prior studies have examined associa-
+tions between structural racism and cancer incidence
+or mortality.8,13,45 However, a larger number of studies
+have linked structural racism to other behavioral, phys-
+iological, and disease outcomes.4,46,47
+Second, although this was the ﬁrst study to use these
+measures of structural racism and TNBC, these mea-
+sures have been examined in previous studies of cardio-
+vascular disease.2 Third, SEER18 covered about 28% of
+the U.S. population in 2010 and is generally thought to
+be representation of the United States.
+Conclusion
+This study addresses some of the gaps in existing litera-
+ture of discrimination and health disparities by utilizing
+innovative indicators identiﬁed by Lukachko et al.2 Fur-
+thermore, results from this study provide evidence of
+the impact of structural racism on breast cancer subtype.
+The limitations noted earlier can and should be addressed
+by future studies examining state-level indicators of
+structural racism and breast cancer subtype.
+Disclaimer
+The opinions expressed by the authors are their
+own and this material should not be interpreted
+as representing the ofﬁcial viewpoint of the U.S.
+Department of Health and Human Services, the
+National Institutes of Health, or the National Can-
+cer Institute.
+Acknowledgments
+We graciously thank Dr. Richard Moser of the Division
+of Cancer Control and Population Sciences for his
+valuable review of our data analysis. We also thank
+Dr. Paul Pearlman and Kalina Duncan of the Center
+for Global Health for their constructive feedback dur-
+ing the planning and development of this research.
+Author Disclosure Statement
+No competing ﬁnancial interests exist.
+Funding Information
+This research received no speciﬁc grant from any funding
+agency in the public, commercial, or not-for-proﬁt sectors.
+References
+1. Bailey ZD, Krieger N, Age´nor M, et al. Structural racism and health
+inequities in the USA: evidence and interventions. Lancet. 2017;389:
+1453–1463.
+2. Lukachko A, Hatzenbuehler ML, Keyes KM. Structural racism and myo-
+cardial infarction in the United States. Soc Sci Med. 2014;103:42–50.
+3. Powell J. Structural racism: building upon the insights of John Calmore.
+N.C.L Rev. 2007;86:791.
+4. Dougherty GB, Golden SH, Gross AL, et al. Measuring structural racism
+and its association with BMI. Am J Prev Med. 2020;59:530–537.
+5. Yearby R. Structural racism and health disparities: Reconﬁguring the so-
+cial determinants of health framework to include the root cause. J Law
+Med Ethics. 2020;48:518–526.
+6. Riley AR. Neighborhood disadvantage, residential segregation, and
+beyond—lessons for studying structural racism and health. J Racial Ethn
+Health Disparities. 2018;5:357–365.
+7. Groos M, Wallace M, Hardeman R, et al. Measuring inequity: a systematic
+review of methods used to quantify structural racism. J Health Disparities
+Res Pract. 2018;11:13.
+8. Zhou Y, Bemanian A, Beyer KM. Housing discrimination, residential racial
+segregation, and colorectal cancer survival in Southeastern Wisconsin.
+Cancer Epidemiol Biomarkers Prev. 2017;26:561–568.
+9. Collin LJ, Gaglioti AH, Beyer KM, et al. Neighborhood-level redlining and
+lending bias are associated with breast cancer mortality in a large and di-
+verse metropolitan area. Cancer Epidemiol Biomarkers Prev. 2021;30:53–60.
+10. Gee GC. A multilevel analysis of the relationship between institutional
+and individual racial discrimination and health status. Am J Public Health.
+2002;92:615–623.
+11. Jacoby SF, Dong B, Beard JH, et al. The enduring impact of historical and
+structural racism on urban violence in Philadelphia. Soc Sci Med. 2018;
+199:87–95.
+12. Mendez DD, Hogan VK, Culhane JF. Institutional racism, neighbor-
+hood factors, stress, and preterm birth. Ethn Health. 2014;19:479–499.
+13. Krieger N, Jahn JL, Waterman PD. Jim Crow and estrogen-receptor-
+negative breast cancer: US-born black and white non-Hispanic women,
+1992–2012. Cancer Causes Control. 2017;28:49–59.
+14. Palmer JR, Ambrosone CB, Olshan AF. A collaborative study of the etiol-
+ogy of breast cancer subtypes in African American women: the AMBER
+consortium. Cancer Causes Control. 2014;25:309–319.
+15. The Surveillance, Epidemiology, and End Results (SEER) Program. Cancer
+Stat Facts: Female Breast Cancer Subtypes. SEER 21 2014–2018. Available at
+https://seer.cancer.gov/statfacts/html/breast-subtypes.html Accessed
+December 7, 2021.
+16. DeSantis CE, Ma J, Gaudet MM, et al. Breast cancer statistics, 2019. CA
+Cancer J Clin. 2019;69:438–451.
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+122
+
+17. El Hachem G, Gombos A, Awada A. Recent advances in understanding
+breast cancer and emerging therapies with a focus on luminal and triple-
+negative breast cancer. F1000Res. 2019;8. F1000 Faculty Rev-591. doi:
+10.12688/f1000research.17542.1.
+18. Gonçalves H, Jr., Guerra MR, Duarte Cintra JR, et al. Survival study of triple-
+negative and non-triple-negative breast cancerin a Brazilian cohort. Clin Med
+Insights Oncol. 2018;12:1179554918790563.
+19. Plasilova ML, Hayse B, Killelea BK, et al. Features of triple-negative breast
+cancer: analysis of 38,813 cases from the national cancer database.
+Medicine (Baltimore). 2016;95:e4614.
+20. Williams DR, Mohammed SA, Shields AE. Understanding and effectively
+addressing breast cancer in African American women: unpacking the
+social context. Cancer. 2016;122:2138–2149.
+21. Linnenbringer E, Gehlert S, Geronimus AT. Black-White disparities in
+breast cancer subtype: the intersection of socially patterned stress and
+genetic expression. AIMS Public Health. 2017;4:526–556.
+22. Newman LA, Jenkins B, Chen Y, et al. Hereditary susceptibility for triple
+negative breast cancer associated with Western Sub-Saharan African
+Ancestry: results from an International Surgical Breast Cancer Collabora-
+tive. Ann Surg. 2019;270:484–492.
+23. Zakharia F, Basu A, Absher D, et al. Characterizing the admixed African
+ancestry of African Americans. Genome Biol. 2009;10:R141.
+24. Ahmad A, Azim S, Zubair H, et al. Epigenetic basis of cancer health dis-
+parities: Looking beyond genetic differences. Biochim Biophys Acta Rev
+Cancer. 2017;1868:16–28.
+25. Kagara N, Huynh KT, Kuo C, et al. Epigenetic regulation of cancer stem cell
+genes in triple-negative breast cancer. Am J Pathol. 2012;181:257–267.
+26. Karsli-Ceppioglu S, Dagdemir A, Judes G, et al. Epigenetic mechanisms of
+breast cancer: an update of the current knowledge. Epigenomics. 2014;6:
+651–664.
+27. Kumar R, Paul AM, Rameshwar P, et al. Epigenetic dysregulation at the
+crossroad of women’s cancer. Cancers (Basel). 2019;11:1193.
+28. Zhang SM, Hankinson SE, Hunter DJ, et al. Folate intake and risk of breast
+cancer characterized by hormone receptor status. Cancer Epidemiol
+Biomarkers Prev. 2005;14:2004–2008.
+29. Wu Y, Zhang D, Kang S. Physical activity and risk of breast cancer: a meta-
+analysis of prospective studies. Breast Cancer Res Treat. 2013;137:869–
+882.
+30. Beyer KMM, Young S, Bemanian A. Persistent racial disparities in breast
+cancer mortality between Black and White women: what is the role for
+structural racism? In: Geospatial Approaches to Energy Balance and Breast
+Cancer. Edited by Berrigan D, Berger NA. Springer: Energy Balance and
+Cancer, 2019.
+31. Jones SA, Moore LV, Moore K, et al. Disparities in physical activity resource
+availability in six US regions. Prev Med. 2015;78:17–22.
+32. Hatzenbuehler ML, Keyes KM, Hasin DS. State-level policies and psychi-
+atric morbidity in lesbian, gay, and bisexual populations. Am J Public
+Health. 2009;99:2275–2281.
+33. Hatzenbuehler ML, McLaughlin KA, Keyes KM, et al. The impact of insti-
+tutional discrimination on psychiatric disorders in lesbian, gay, and bi-
+sexual populations: a prospective study. Am J Public Health. 2010;100:
+452–459.
+34. National Cancer Institute D. Surveillance Research Program. Surveillance,
+Epidemiology, and End Results (SEER) Program Populations (1969–2018).
+2019 [cited 2020]; Available at www.seer.cancer.gov/popdata Accessed
+October 7, 2019.
+35. Bureau USC. Educational Attainment in the United States: 2010. 2010 [cited
+2020]; Available at https://www.census.gov/data/tables/2010/demo/
+educational-attainment/cps-detailed-tables.html. Accessed October 7,
+2019.
+36. Bureau of Labor Statistics, U.S.D.o.L., Unemployment rates by race and
+ethnicity, 2010. 2011: The Economics Daily. Available at https://www.
+bls.gov/opub/ted/2011/ted_20111005.htm Accessed October 7,
+2019.
+37. Sakala L. Breaking Down Mass Incarceration in the 2010 Census: State-by-
+State Incarceration Rates by Race/Ethnicity 2014 [cited 2020]; Available at
+https://www.prisonpolicy.org/reports/rates.html Accessed October 7, 2019.
+38. Uggen C, Shannon S, Manza J. State-Level Estimates of Felon Disenfran-
+chisement in the United States, 2010. 2012, The Sentencing Project. p. 21.
+NCJ Number 240149. Available at https://sentencingproject.org/wp-content/
+uploads/2016/01/State-Level-Estimates-of-Felon-Disenfranchisement-in-
+the-United-States-2010.pdf Accessed October 7, 2019.
+39. Bureau USC. Voting and Registration in the Election of November 2010.
+2010. Available at: https://www.census.gov/data/tables/2010/demo/
+voting-and-registration/voting-registration-2010-election.html Accessed
+October 7, 2019.
+40. The Surveillance Epidemiology, and End Results (SEER) Program. SEER
+2020 SUBMISSION REQUIREMENTS AND GUIDELINES 2020. Available at
+https://seer.cancer.gov/tools/seer.nov20.instructions.pdf Accessed
+December 4, 2019.
+41. Purtle J. Felon disenfranchisement in the United States: a health equity
+perspective. Am J Public Health. 2013;103:632–637.
+42. Yagoda N. Addressing health disparities through voter engagement. Ann
+Fam Med. 2019;17:459–461.
+43. Brown CL, Raza D, Pinto AD. Voting, health and interventions in health-
+care settings: a scoping review. Public Health Rev. 2020;41:16.
+44. Krieger N, Jahn JL, Waterman PD, et al. Breast cancer estrogen receptor
+status according to biological generation: US Black and White women
+born 1915–1979. Am J Epidemiol. 2018;187:960–970.
+45. Poulson MR, Helrich SA, Kenzik KM, et al. The impact of racial residential
+segregation on prostate cancer diagnosis and treatment. BJU Int 2021;
+127:636–644.
+46. Bell CN, Owens-Young JL. Self-rated health and structural racism indi-
+cated by county-level racial inequalities in socioeconomic status: the role
+of urban-rural classiﬁcation. J Urban Health. 2020;97:52–61.
+47. Owens-Young J, Bell CN. Structural racial inequities in socioeconomic
+status, urban-rural classiﬁcation, and infant mortality in US counties. Ethn
+Dis. 2020;30:389–398.
+Cite this article as: Eldridge L, Berrigan D (2022) Structural racism and
+triple-negative breast cancer among black and white women in the
+United States, Health Equity 6:1, 116–123, DOI: 10.1089/
+heq.2021.0041.
+Abbreviations Used
+BMI ¼ body mass index
+CI ¼ conﬁdence interval
+ER ¼ estrogen receptor negative
+HER2 ¼ human epidermal growth factor receptor
+HR ¼ hormone receptor
+MI ¼ myocardial infarction
+OR ¼ odds ratio
+PR ¼ progesterone receptor
+SEER18 ¼ Surveillance, Epidemiology, and End Results
+TNBC ¼ triple-negative breast cancer
+Publish in Health Equity
+-Immediate, unrestricted online access
+-Rigorous peer review
+-Compliance with open access mandates
+-Authors retain copyright
+-Highly indexed
+-Targeted email marketing
+liebertpub.com/heq
+Eldridge and Berrigan; Health Equity 2022, 6.1
+http://online.liebertpub.com/doi/10.1089/heq.2021.0041
+123
+

@@ -1,0 +1,1115 @@
+record_id=3369 pmid=14997057 doi=10.1023/b:brea.0000010701.08825.2d
+SOURCE: manual-pdf
+TITLE: Is male breast cancer similar or different than female breast cancer?
+
+Breast Cancer Research and Treatment 83: 77–86, 2004.
+© 2004 Kluwer Academic Publishers. Printed in the Netherlands.
+Report
+Is male breast cancer similar or different than female breast cancer?
+William F. Anderson1, Michelle D. Althuis2, Louise A. Brinton2, and Susan S. Devesa2
+1NCI/Division of Cancer Prevention; 2NCI/Division of Cancer Epidemiology and Genetics, Bethesda, MD,
+USA
+Key words: age-frequency distribution, estrogen receptor expression, incidence rates, male breast cancer
+Summary
+Objective. To determine if male breast carcinogenesis was similar to its more common female counterpart, we
+compared incidence patterns among men and women with breast cancer.
+Methods. Breast cancer records were obtained from the SEER database. Women were stratiﬁed by age <50 and
+≥50 years to simulate premenopausal and postmenopausal breast cancer.
+Results. Age-adjusted incidence trends were stable among men but increased among women. Male to female
+breast cancer ratio was higher for blacks than for whites. Favorable prognostic factors reﬂective of tumor bi-
+ology (nuclear grade and hormone receptor expression) were more common for men and postmenopausal women
+than for premenopausal women. For example, low nuclear grade, estrogen and progesterone receptor-positive
+expression were more common among men and postmenopausal women than among premenopausal women. The
+age-speciﬁc incidence rate curve for men increased steadily for all ages with a constant slope. On the other hand,
+age-speciﬁc rates for women increased rapidly until age 50 years then rose at a slower rate for postmenopausal
+women. Age-frequency distribution for male breast cancer was unimodal, with peak incidence at age 71 years.
+Age-frequency distribution for women was bimodal with early-onset and late-onset incidence at 52 and 71 years,
+respectively.
+Conclusions. Gender-speciﬁc incidence trends differed, most likely reﬂective of female-related changes in
+surveillance and/or reproductive risk factors. On the other hand, similar prognostic factor proﬁles reﬂective of
+tumor biology, age-speciﬁc incidence rate patterns, and age-frequency distributions suggested that male breast
+cancer was more like postmenopausal than premenopausal female breast cancer.
+Introduction
+Cancer of the vestigial male breast is a rare disease in
+all parts of the world, accounting in the United States
+for <0.1% of male cancers and <1% of all breast can-
+cers [1]. With fewer than 1500 new cases diagnosed
+annually in this country, our understanding and treat-
+ment strategies for male breast cancer are generally
+extrapolated from our knowledge of female breast can-
+cer. However, if male and female breast carcinogenesis
+were the same disease processes, we might expect
+similar incidence patterns [2]. Some well-established
+facts suggest otherwise.
+For example, incidence rate temporal trends for
+male breast cancer have remained stable for decades
+while rates for female breast cancer have increased
+worldwide [3, 4]. Age-speciﬁc incidence rate curves
+for men increase steadily at all ages [5, 6]; whereas
+rates for women increase rapidly until age 50 years
+then rise more slowly for older women [7]. Age-
+speciﬁc incidence rates for breast cancers deﬁned by
+ER expression differ for women [8–10], but have not
+been established for men.
+In a previous study, we compared female breast
+cancer deﬁned by ER expression [10]. In this anal-
+ysis, we have expanded our original observations:
+(1) to compare breast cancer incidence patterns for
+men and women, (2) to compare breast cancer inci-
+dence patterns deﬁned by ER expression for men and
+women,
+(3) to compare male breast cancer to
+
+78
+WF Anderson et al.
+premenopausal and postmenopausal female breast
+cancers, and (4) to assess whether these patterns
+provided new etiologic clues.
+Material and methods
+We used the National Cancer Institute’s Surveillance,
+Epidemiology, and End Results (SEER) Cancer In-
+cidence Public-Use database (November 2002 sub-
+mission) to obtain male and female breast cancer
+records diagnosed during the years 1973–2000, re-
+cently covering approximately 14% of the US popu-
+lation [11]. The SEER program provided overlapping
+9 and 12 Registry Databases. The 9 Registry Data-
+base collected incidence data for the years 1973–2000
+from SEER’s original catchment regions, including
+registries in Atlanta, Connecticut, Detroit, Hawaii,
+Iowa, New Mexico, San Francisco-Oakland, Seattle-
+Puget Sound, and Utah. The 12 Registry Database
+collected information for the years 1992–2000 from
+SEER’s original 9 registries plus Los Angeles, San
+Jose-Monterey, and the Alaskan Native Tumor regis-
+tries. Although operative for fewer years than the 9
+Registry Database, the 12 Registry Database provided
+more detailed information for tumor characteristics
+and hormone receptor expression. For example, SEER
+did not collect information concerning certain tumor
+features such as tumor size, axillary lymph nodal
+status, and nuclear grade until 1988, and did not col-
+lect data regarding hormone receptor expression until
+1990.
+Incidence rates with standard errors (SE) for males
+and females with breast cancer were calculated us-
+ing SEER stat 5.0.20 [11]. Female cases were di-
+vided into early-onset (<50 years) and late-onset
+(≥50 years) breast cancers to simulate premeno-
+pausal and postmenopausal disease. All rates were
+age-adjusted to the 2000 US standard population
+and expressed per 100,000 man-years or woman-
+years.
+Long-term age-adjusted incidence trends were de-
+rived from the SEER 9 Registry Database, and then
+plotted on a log-linear graph to show temporal changes
+from 1973 to 2000. From the 12 Registry Database,
+we obtained rates for certain patient demographics
+and tumor characteristics, including age-at-diagnosis,
+race, tumor size, axillary lymph nodal status, nu-
+clear grade, estrogen receptor (ER) expression, pro-
+gesterone receptor (PR) expression, and joint ERPR
+expression.
+SEER’s tumor grading conformed to the Interna-
+tional Classiﬁcation of Diseases for Oncology – 2nd
+edition (ICDO-2) [12]. We combined grades I (well
+differentiated) with II (moderately differentiated) and
+grades III (poorly differentiated) with IV (undifferen-
+tiated) into low and high tumor grades, respectively.
+Because no centralized laboratory was used to deter-
+mine hormone receptor expression, each SEER re-
+gistry coded estrogen receptor (ER) and progesterone
+receptor (PR) expression as positive, negative, miss-
+ing, or unknown. We combined missing and unknown
+data into one group, designated as unknown.
+Age-speciﬁc incidence rate curves were charted on
+a log–log scale as originally described by Armitage
+and Doll [13]. We ﬁtted these log–log age-speciﬁc rate
+curves with Poisson regression analyses to quantify
+slope changes and to assess random variation at the
+midpoint of 5-year-age groups, with the focus of
+our inference on change-points [8, 9]. Age-frequency
+distribution curves were plotted as age-frequency
+Figure 1. Age-adjusted (2000 US standard) breast cancer incidence
+temporal trends in SEER’s nine registries, collected during the years
+1973–2000.
+
+Male breast cancer
+79
+Table 1. Male and female breast cancer cases from SEER’s 12 Registry Database, diagnosed during the years 1992–2000a
+Variable
+Males
+Females <50 years
+Females ≥50 years
+(n = 1,456, rate = 1.15 (SE = 0.03))
+(n = 50,730, rate = 42.6 (SE = 0.19))
+(n = 165,334, rate = 367.9 (SE = 0.91))
+n
+Rate
+SE
+RR
+n
+Rate
+SE
+RR
+n
+Rate
+SE
+RR
+Demographics
+Age
+<50
+163
+0.1
+0.01
+1.0
+50,730
+42.6
+0.19
+1.0
+50,730
+42.6
+0.19
+1.0
+50–59
+263
+1.7
+0.11
+12.2
+45,517
+280.5
+1.32
+6.6
+60–69
+384
+3.7
+0.19
+26.3
+46,467
+386.7
+1.80
+9.1
+70–79
+408
+5.6
+0.28
+40.3
+46,692
+472.1
+2.19
+11.1
+80+
+238
+7.8
+0.51
+55.5
+26,658
+434.3
+2.66
+10.2
+Race
+White
+1,189
+1.1
+0.03
+1.0
+39,202
+43.0
+0.22
+1.0
+141,578
+386.5
+1.03
+1.0
+Black
+171
+1.8
+0.15
+1.6
+5,914
+44.4
+0.58
+1.0
+12,250
+321.9
+2.92
+0.8
+Other
+77
+5,228
+10,638
+Unknown
+19
+386
+868
+Tumor features
+Tumor size
+>2.0 cm
+558
+0.5
+0.02
+1.0
+19,587
+16.3
+0.12
+1.0
+48,467
+107.8
+0.49
+1.0
+≤2.0 cm
+745
+0.6
+0.02
+1.3
+26,030
+22.0
+0.14
+1.3
+100,067
+223.2
+0.71
+2.1
+Unknown
+153
+5,113
+16,800
+36.9
+Lymph nodes
+LN-positive
+501
+0.4
+0.02
+1.0
+19,087
+15.9
+0.12
+1.0
+41,656
+94.1
+0.46
+1.0
+LN-negative
+778
+0.6
+0.02
+1.6
+27,419
+23.1
+0.14
+1.4
+102,365
+228.1
+0.72
+2.4
+Unknown
+177
+4,224
+21,313
+Tumor grade
+High
+463
+0.4
+0.02
+1.0
+22,414
+18.6
+0.13
+1.0
+47,656
+107.2
+0.49
+1.0
+Low
+717
+0.6
+0.02
+1.5
+20,139
+17.1
+0.12
+0.9
+83,288
+185.2
+0.64
+1.7
+Unknown
+276
+8,177
+34,390
+Hormone receptors
+ER
+ER-negative
+97
+0.1
+0.01
+1.0
+13,649
+11.3
+0.10
+1.0
+25,334
+57.5
+0.36
+1.0
+ER-positive
+932
+0.7
+0.03
+10.1
+26,152
+22.1
+0.14
+1.9
+101,990
+226.7
+0.71
+3.9
+Unknown
+427
+10,929
+38,010
+PR
+PR-negative
+194
+0.1
+0.01
+1.0
+14,553
+12.1
+0.10
+1.0
+39,386
+88.4
+0.45
+1.0
+PR-positive
+792
+0.6
+0.02
+4.2
+24,136
+20.4
+0.13
+1.7
+83,392
+185.7
+0.65
+2.1
+Unknown
+470
+12,041
+42,556
+Joint ERPR
+ER−PR−
+69
+0.05
+0.006
+1.0
+11,241
+9.3
+0.09
+1.0
+21,536
+48.9
+0.33
+1.0
+ER−PR+
+22
+0.02
+0.004
+0.3
+2,014
+1.7
+0.04
+0.2
+3,084
+7.0
+0.13
+0.1
+ER+PR−
+122
+0.09
+0.009
+1.8
+3,191
+2.7
+0.05
+0.3
+17,546
+38.9
+0.29
+0.8
+ER+PR+
+768
+0.61
+0.022
+11.7
+21,909
+18.5
+0.13
+2.0
+79,995
+118.0
+0.63
+2.4
+Unknown
+475
+12,375
+43,173
+aKey: SE, standard error; Rate, age-adjusted (2000 US standard) incidence rate expressed per 100,000 man- or woman-years; RR, rate ratio
+where a given characteristic is compared to a reference value with an assigned RR of 1.0; ER, estrogen receptor; PR, progesterone receptor.
+
+80
+WF Anderson et al.
+Table 2. Black and white male breast cancer cases from SEER’s 12 Registry Database, diagnosed during the years 1992–2000a
+Variable
+Black males (n = 171, median age = 64 years,
+White males (n = 1,189, median age = 68 years,
+rate = 1.8 (SE = 0.15))
+rate = 1.1 (SE = 0.03))
+n
+Rate
+SE
+RR
+n
+Rate
+SE
+RR
+Age
+Age
+<50
+21
+0.2
+0.04
+1.0
+122
+0.1
+0.01
+1.0
+50–59
+45
+3.4
+0.50
+18.0
+200
+1.6
+0.11
+12.1
+60–69
+39
+4.6
+0.73
+24.3
+320
+3.8
+0.21
+28.4
+70–79
+39
+8.0
+1.28
+42.6
+350
+5.8
+0.31
+43.6
+80+
+27
+15.5
+3.01
+82.8
+197
+7.5
+0.54
+56.7
+Tumor features
+Tumor size
+>2.0 cm
+84
+0.9
+0.10
+1.0
+444
+0.4
+0.02
+1.0
+≤2.0 cm
+70
+0.7
+0.09
+0.8
+624
+0.6
+0.02
+1.3
+Unknown
+17
+121
+Lymph nodes
+LN-positive
+65
+0.6
+0.08
+1.0
+408
+0.4
+0.02
+1.0
+LN-negative
+75
+0.8
+0.10
+1.2
+658
+0.6
+0.03
+1.6
+Unknown
+31
+123
+Tumor grade
+High
+62
+0.7
+0.09
+1.0
+378
+0.4
+0.02
+1.0
+Low
+75
+0.8
+0.09
+1.1
+596
+0.6
+0.02
+1.6
+Unknown
+34
+215
+Hormone receptors
+ER
+ER-negative
+18
+0.2
+0.04
+1.0
+72
+0.1
+0.01
+1.0
+ER-positive
+92
+1.0
+0.11
+5.6
+788
+0.8
+0.03
+11.3
+Unknown
+61
+329
+PR
+PR-negative
+34
+0.3
+0.05
+1.0
+147
+0.1
+0.01
+1.0
+PR-positive
+72
+0.8
+0.10
+2.6
+674
+0.6
+0.03
+4.7
+Unknown
+65
+368
+Joint ERPR
+ER−PR−
+13
+0.12
+0.036
+1.0
+51
+0.05
+0.007
+1.0
+ER−PR+
+5
+0.05
+0.024
+0.4
+15
+0.01
+0.004
+0.3
+ER+PR−
+21
+0.18
+0.041
+1.5
+93
+0.09
+0.009
+1.9
+ER+PR+
+66
+0.73
+0.096
+6.1
+658
+0.63
+0.019
+13.5
+Unknown
+66
+372
+aKey: Median age-at-diagnosis, SE, standard error; Rate, age-adjusted (2000 US standard) incidence rate expressed per 100,000 man- or
+woman-years; RR, rate ratio where a given characteristic is compared to a reference value with an assigned RR of 1.0; ER, estrogen receptor;
+PR, progesterone receptor.
+density functions as previously described [10, 14].
+Brieﬂy, the age-frequency density function repre-
+sented ‘smoothed’ estimates of the age-at-diagnosis
+frequency histogram where the area under the plot in-
+cluded 100% of breast cancer cases, that is, density
+function × 100 = percent.
+
+Male breast cancer
+81
+Figure 2. Age-speciﬁc breast cancer incidence rates in SEER 12 registries stratiﬁed by gender and estrogen receptor status among male and
+female breast cancer cases, collected during the years 1992–2000.
+Results
+SEER’s 9 and 12 Registry Databases included 383,688
+and 217,520 invasive breast cancer cases, respectively.
+Median ages-at-diagnosis were 67 years for men and
+62 years for women in both databases. The frequency
+of male to female breast cancer cases in SEER was 1%
+for blacks and 0.7% for whites in both databases.
+SEER 9 Registry Database (1973–2000)
+Breast cancer incidence rates were stable among men
+over the last three decades, ranging from 0.85 to 1.3
+per 100,000 man-years (Figure 1). On the other hand,
+rates rose nearly 38% among women overall, ranging
+from 98 to 135 per 100,000 woman-years during the
+same time period, with the majority of the increase
+occurring during the 1980s. Most of the temporal
+increase for women occurred in females ≥50 years,
+increasing 48% from 254 to 376 per 100,000 woman-
+years. On the other hand, rates for <50 years were
+fairly constant, ranging from 39 to 43 per 100,000
+woman-years.
+SEER 12 Registry Database (1992–2000)
+Breast cancer incidence rates for certain patient demo-
+graphics, tumor features, and hormone receptor ex-
+pression among men, females <50 years, and females
+≥50 years were derived from SEER’s 12 Registry
+Database (Table 1). Approximately three-quarters of
+all women with breast cancer were ≥50 years of
+age-at-diagnosis. Rates for males with breast cancer
+increased steadily for each decade of life, with the
+highest rate of 7.8 per 100,000 man-years occurring at
+80+ years (RR = 55.5, relative to men age <50 years).
+Incidence rates were greatest among women during
+age 70–79 years (RR = 11.1). Rate ratios for blacks
+compared to whites were higher for men (RR = 1.6)
+
+82
+WF Anderson et al.
+Figure 3. Age-frequency distribution function derived from SEER’s 12 registries for male and female breast cancers, collected during the years
+1992–2000.
+and younger women (RR = 1.0) than for older women
+(RR = 0.8).
+Tumor size and lymph nodal status (prognostic
+factors reﬂective of staging) were more favorable
+for older women (≥50 years) than for either men
+or younger women (<50 years). For example, RR
+for small to large tumors (≤2.0 cm to >2.0 cm) was
+greater for older women (RR = 2.1) than for men or
+for younger women (RR = 1.3). We observed a similar
+pattern for LN-negative to LN-positive tumors. On the
+other hand, RR for tumor grade and hormone receptor
+expression (prognostic factors reﬂective of tumor bio-
+logy) was more favorable for men and older women
+than for younger women. That is, RR for low to high
+nuclear grade was 1.5 and 1.7 for men overall and
+older women compared to 0.9 for younger women. RR
+for ER-positive to ER-negative expression was 10.1
+for men and 3.9 for older women compared to 1.9 for
+younger women. We observed similar patterns for PR
+and joint ERPR expression.
+Breast cancer incidence rates for certain patient
+demographics, tumor features, and hormone receptor
+expression among black and white men with breast
+cancer are shown in Table 2. RR for black to white
+male breast cancer was 1.6 that is, 1.8 to 1.1 per
+100,000 man-years. Male breast cancer incidence
+rates were higher among blacks than whites for all
+ages. Black compared to white male cancer was char-
+acterized by worse prognostic factor proﬁles with
+large tumor sizes, positive LN status, high nuclear
+grade, and negative hormone receptor expression. For
+example, RR for ER-positive to ER-negative expres-
+sion was 5.6 for blacks and 11.3 for whites.
+Male and female age-speciﬁc incidence rate curves
+were presented in Figure 2 for breast cancers overall
+as well as for breast cancers deﬁned by ER expres-
+
+Male breast cancer
+83
+Figure 4. Age-frequency distribution function derived from SEER’s 12 registries for black and white male breast cancers, collected during the
+years 1992–2000.
+sion. Total (or overall) age-speciﬁc rates for males
+with breast cancer increased steadily at all ages with
+a constant slope between 4 and 5. On the other hand,
+total age-speciﬁc rates for females increased rapidly
+until age 50 years with an initial slope of 5–6, and
+then continued to rise more slowly with a ﬁnal slope of
+approximately 2. Rates for ER-negative tumors among
+women increased rapidly until age 50 years, then
+ﬂattened and possibly declined after age 70–75 years.
+On the other hand, ER-positive tumors for women in-
+creased rapidly until age 50 years, and then rose more
+slowly for older women, as did total rates for females.
+ER-positive age–rate curves among males increased
+steadily at all ages. The pattern for ER-negative tu-
+mors among males was less clear due to small sample
+size; but these rates also appeared to increase, albeit at
+a slower rate than ER-positive tumors.
+PR expression did not alter the basic shape of
+the age–rate curve as deﬁned by ER expression.
+For example, joint ER-positive tumors in women
+(ER + PR + or ER + PR −) continued to rise after
+50 years, whereas joint ER-negative tumors in wom-
+en (ER −PR −or ER −PR + ) failed to rise after 50
+years (graph not shown). Joint ERPR patterns for
+males could not be determined due to small sizes for
+some joint receptors.
+Gender-speciﬁc age-frequency density plots were
+displayed in Figure 3. Notwithstanding a very small
+blip at approximately age 50 years, male breast
+cancer demonstrated unimodal age-frequency distri-
+bution with a peak incidence at age 71 years. On
+the other hand, female breast cancer demonstrated
+bimodal age-frequency distribution, with early-onset
+and late-onset peak incidence at 52 and 71 years,
+
+84
+WF Anderson et al.
+respectively. Age-frequency distributions for black
+and white male breast cancers were shown in Figure 4.
+In contrast to unimodal age-frequency distribution
+among white men, black men with breast cancer had
+bimodal age-frequency distribution with early-onset
+and late-onset peak frequencies of 56 and 71 years,
+respectively.
+Discussion
+Gender-speciﬁc temporal differences in age-adjusted
+incidence trends (Figure 1) most likely resulted from
+female-related changes in surveillance, reproductive
+risk factors and/or exposures. On the other hand,
+similar (1) age-frequency distribution, (2) prognostic
+factor proﬁles reﬂective of tumor biology (nuclear
+grade and hormone receptor expression), and (3) age-
+speciﬁc incidence rate patterns suggested that male
+breast cancer was more like postmenopausal than
+premenopausal female breast cancer.
+First,
+unimodal age-frequency distribution for
+male breast cancer was more like late-onset (post-
+menopausal) than early-onset (premenopausal) female
+breast cancer (Figure 3). In contrast to unimodal male
+breast cancer, bimodal or two female breast cancer
+types have long-been suspected [2, 15]. The ﬁrst was
+early-onset and dependent upon hormonal exposures
+operating early in reproductive life, with a peak in-
+cidence of approximately age 50 years. The second
+was late-onset and dependent upon accumulated life-
+time hormonal and/or environmental exposures, with a
+peak incidence of approximately age 70 years. In our
+previous analysis among female breast cancer cases
+[10], we conceptualized these two breast cancer types
+as juxtaposed early-onset and late-onset breast can-
+cer populations. Notably, unimodal male breast cancer
+appeared virtually super imposable with late-onset
+female breast cancer.
+Notwithstanding a nearly imperceptible blip at ap-
+proximately age 50 years (Figure 3); there was no
+male counterpart to early-onset female breast cancer,
+until we stratiﬁed by black–white race (Figure 4). In
+contrast to white men, black men with breast cancer
+had a predominant early-onset peak incidence at age
+56 years. Brunet et al. identiﬁed bimodal male breast
+cancer in a French cohort [16]; but to our knowledge,
+this phenomenon has not been described in any other
+male population.
+Second, favorable prognostic factor proﬁles were
+more common for male breast cancer and postmen-
+opausal than for premenopausal female breast cancer
+(Table 1). That is, breast cancers in men and postmen-
+opausal women were comparatively indolent with low
+grade and hormone receptor-positive expression. On
+the other hand, breast cancers among premenopausal
+women tended to be biologically aggressive, with high
+nuclear grade and hormone receptor-negative expres-
+sion.
+Similar to premenopausal women, black men de-
+veloped early-onset aggressive breast cancer pheno-
+types (Table 2). Male breast cancer overall was 60%
+(RR = 1.6) more common among blacks than whites.
+Worldwide, the frequency of male to female breast
+cancer cases varies from 7 to 14% in sub-Saharan
+Africa to <1% in white Western populations [17, 18].
+Increased breast cancer incidence among black men
+is especially intriguing given decreased overall breast
+cancer incidence among black women. For example,
+overall breast cancer incidence is 15% lower in SEER
+for black compared to white women. However, the
+black to white incidence rate ratio is reversed for
+women younger than age 40 years, where breast can-
+cer rates are 10–40% higher for blacks than whites
+[19, 20]. In addition to developing more early-onset
+disease than do white women, black women more
+commonly develop aggressive breast cancer pheno-
+types, as do black men. Ethnic-related breast cancer
+variation among black women has been attributed to
+higher tumor grade, negative hormone receptor ex-
+pression, advanced stage-at-diagnosis, reduced access
+to health care, socio-cultural factors, etc. [21–23].
+These same biologic and non-biologic factors may
+be operative for black men. Further analytic stud-
+ies are clearly needed to better understand black–
+white ethnic disparity for both male and female breast
+cancers.
+Third, the age-speciﬁc incidence rate curve for
+male breast cancer increased continuously with aging
+as did the rate curve for postmenopausal female breast
+cancer. Indeed, age-speciﬁc breast cancer rates among
+men increased in step with calendar time yielding
+a linear log–log rate curve with a slope between
+4 and 5 (Figure 2), a pattern consistent with hor-
+mone independent epithelial carcinogenesis [24]. Ad-
+mittedly, excessive hormonal exposures have been
+implicated for some male breast cancers resulting
+from Klinefelter’s syndrome, gynecomastia, obesity,
+testicular and/or liver dysfunction [17, 25–27], but
+these high-risk conditions might only account for a
+small portion of male breast cancer cases. In this
+regard, it may be relevant that mean ages-at-diagnosis
+
+Male breast cancer
+85
+are younger for Klinefelter’s syndrome (58 years)
+and gynecomastia (55.4 years) [17, 27] than were
+mean and/or median (67 years) ages-at-diagnosis for
+male breast cancer in the SEER program. Possibly,
+the small blip at approximately age 50 years in the
+age-frequency distribution function for male breast
+cancer overall (Figure 3) might reﬂect a minor compo-
+nent of early-onset hormone-dependent breast cancer
+among men with strong genetic risk [28]. Notably,
+male breast cancer has been associated with heredi-
+tary mutations in the BRCA2 but less frequently with
+the BRCA1 gene [29–31]. The association of male
+breast cancer with BRCA mutations may partly explain
+the relationship of male breast cancer with Jewish
+ancestry [17, 32].
+Notably, age-speciﬁc rates for women deﬁned by
+ER expression diverged, suggesting different etiolo-
+gies for ER-positive and ER-negative breast cancers
+(Figure 2). Paradoxically, incidence rates that stabi-
+lized after age 50 years suggested that endogenous
+hormonal exposures had greater impact upon early-
+onset ER-negative than upon late-onset ER-positive
+tumors [8–10]. Rates for males were largely unaf-
+fected by ER expression; but caution is required in
+interpreting these rates given that there were only 97
+males with ER-negative breast cancers.
+In conclusion, male and female breast carcinogen-
+esis may reﬂect the consequence of two risk factor pro-
+ﬁles, which are relatively dependent or independent
+upon endogenous hormonal exposures operating early
+in reproductive life [10, 33, 34]. Population-based in-
+cidence patterns implied an important etiologic link
+for early-onset hormonal events for ER-negative tu-
+mors and premenopausal female breast cancer. On the
+other hand, accumulated lifetime exposures appeared
+more important for ER-positive tumors, postmeno-
+pausal female breast cancer, and male breast cancer
+overall.
+Limitations of our study included incomplete and
+non-standardized data for estrogen receptor expres-
+sion as well as the lack of data on individual meno-
+pausal status and other well-established risk factors,
+which could impact results. However, the ﬁndings in
+this large-scale dataset that were broadly representa-
+tive of the US population suggested that male breast
+cancer was similar to postmenopausal female breast
+cancer. Although it may seem counterintuitive, late-
+onset ER-positive tumors in both men and women
+appeared less dependent upon endogenous hormonal
+factors than did early-onset ER-negative breast can-
+cers. Notably, black–white ethnic disparity appears
+to exist for both male as well as female breast
+cancers. A better understanding of these compli-
+cated age-related incidence patterns may further eluci-
+date fundamental etiologic mechanisms for all breast
+cancers.
+References
+1.
+Jemal A, Murray T, Samuels A et al.: Cancer statistics, 2003.
+CA Cancer J Clin 53: 5–26, 2003
+2.
+Moolgavkar SH, Lee JA, Hade RD: Comparison of age-
+speciﬁc mortality from breast cancer in males in the United
+States and Japan. J Natl Cancer Inst 60: 1223–1225, 1978
+3.
+Parkin DM, Bray FI, Devesa SS: Cancer burden in the year
+2000. The global picture. Eur J Cancer 37(Suppl 8): S4–S66,
+2001
+4.
+Levi F, Lucchini F, La Vecchia C: Epidemiology of male breast
+cancer. Eur J Cancer Prev 11: 315–318, 2002
+5.
+Ewertz M, Holmberg L, Karjalainen S et al.: Incidence of male
+breast cancer in Scandinavia, 1943–1982. Int J Cancer 43:
+27–31, 1989
+6.
+Thomas DB: Breast cancer in men. Epidemiol Rev 15:
+220–231, 1993
+7.
+Clemmesen J: Carcinoma of the breast. Br J Radiol 21:
+583–590, 1948
+8.
+Yasui Y, Potter JD: The shape of age-incidence curves of fe-
+male breast cancer by hormone-receptor status. Cancer Causes
+Contr 10: 431–437, 1999
+9.
+Tarone RE, Chu KC: The greater impact of menopause on
+ER−than ER+ breast cancer incidence: a possible explana-
+tion (United States). Cancer Causes Contr 13: 7–14, 2002
+10.
+Anderson WF, Chatterjee N, Ershler WB et al.: Estrogen
+receptor breast cancer phenotypes in the surveillance, epi-
+demiology, and end results database. Breast Cancer Res Treat
+76: 27–36, 2002
+11.
+SEER, 2003
+12.
+Percy C, Holten VV, Muir C: International Classiﬁcation of
+Diseases for Oncology. World Health Organization, Geneva,
+1990
+13.
+Armitage P, Doll R: The age distribution of cancer and a multi-
+stage theory of carcinogenesis. Br J Cancer 8: 1–12, 1954
+14.
+Anderson WF, Chu KC, Chatterjee N et al.: Tumor variants
+by hormone receptor expression in white patients with node-
+negative breast cancer from the Surveillance, Epidemiology,
+and End Results database. J Clin Oncol 19: 18–27, 2001
+15.
+von Pirquet C: Allergie des Lebensalters, die bosartigen
+Geschwulste (‘Allergy of age,
+the Malignant Tumors’).
+Thieme Verlag, Leipzig, Germany, 1930
+16.
+Brunet M, Hucher M, Boutros F et al.: [Is there any bimodal-
+ity of the age distribution of male mammary cancer (author’s
+transl)?]. Rev Epidemiol Sante Publique 24: 405–413, 1976
+17.
+Sasco AJ, Lowenfels AB, Pasker-de Jong P: Review arti-
+cle: epidemiology of male breast cancer. A meta-analysis
+of published case-control studies and discussion of selected
+aetiological factors. Int J Cancer 53: 538–549, 1993
+18.
+Amir H, Makwaya CK, Moshiro C et al.: Carcinoma of the
+male breast: a sexually transmitted disease? East Afr Med J
+73: 187–190, 1996
+19.
+Brinton LA, Benichou J, Gammon MD et al.: Ethnicity and
+variation in breast cancer incidence. Int J Cancer 73: 349–355,
+1997
+
+86
+WF Anderson et al.
+20.
+Hankey BF, Miller B, Curtis R et al.: Trends in breast cancer
+in younger women in contrast to older women. J Nat Cancer
+Inst Monogr 16: 7–14, 1994
+21.
+Chen VW, Correa P, Kurman RJ et al.: Histological char-
+acteristics of breast carcinoma in blacks and whites. Cancer
+Epidemiol Biomarkers Prev 3: 127–135, 1994
+22.
+Eley JW, Hill HA, Chen VW et al.: Racial differences in sur-
+vival from breast cancer. Results of the national cancer insti-
+tute black/white cancer survival study. JAMA 272: 947–954,
+1994
+23.
+Henson DE, Chu KC, Levine PH: Histologic grade, stage,
+and survival in breast carcinoma: comparison of African
+American and Caucasian women. Cancer 98:
+908–917,
+2003
+24.
+Pike MC, Krailo MD, Henderson BE et al.: ‘Hormonal’ risk
+factors, ‘breast tissue age’ and the age-incidence of breast
+cancer. Nature 303: 767–770, 1983
+25.
+Keller AZ: Demographic, clinical and survivorship charac-
+teristics of males with primary cancer of the breast. Am J
+Epidemiol 85: 183–199, 1967
+26.
+Hsing AW, McLaughlin JK, Cocco P et al.: Risk factors for
+male breast cancer (United States). Cancer Causes Contr 9:
+269–275, 1998
+27.
+Rose DP: Endocrine epidemiology of male breast cancer
+(review). Anticancer Res 8: 845–850, 1988
+28.
+Everson RB, Li FP, Fraumeni Jr JF et al.: Familial male breast
+cancer. Lancet 1: 9–12, 1976
+29.
+Wooster R, Neuhausen SL, Mangion J et al.: Localization of
+a breast cancer susceptibility gene, BRCA2, to chromosome
+13q12–13. Science 265: 2088–2090, 1994
+30.
+Stratton MR, Ford D, Neuhasen S et al.: Familial male breast
+cancer is not linked to the BRCA1 locus on chromosome 17q.
+Nat Genet 7: 103–107, 1994
+31.
+Thorlacius S, Tryggvadottir L, Olafsdottir GH et al.: Linkage
+to BRCA2 region in hereditary male breast cancer. Lancet 346:
+544–545, 1995
+32.
+Mabuchi K, Bross DS, Kessler II: Risk factors for male breast
+cancer. J Natl Cancer Inst 74: 371–375, 1985
+33.
+Narod SA: Modiﬁers of risk of hereditary breast and ovarian
+cancer. Nature Rev Cancer 2: 113–123, 2002
+34.
+Hamilton AS, Mack TM: Puberty and genetic susceptibility to
+breast cancer in a case-control study in twins. N Engl J Med
+348: 2313–2322, 2003
+Address
+for
+offprints
+and
+correspondence:
+William
+F.
+Anderson, MD MPH, NCI/Division of Cancer Prevention, EPN,
+Room 2144, 6130 Executive Blvd, Bethesda, MD 20892-7317,
+USA; Tel.: +1-301-594-7672; Fax: +1-301-435-6344; E-mail:
+wanderso@mail.nih.gov
+
