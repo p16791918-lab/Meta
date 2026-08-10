@@ -35,7 +35,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 145,include-quant,,Wisconsin (WCRS),African American vs White,age-adjusted incidence rates,Wisconsin AA vs white breast incidence 1995-2006
 158,include-quant,,NAACCR CiNA,race/ethnicity vs NHW (age 50-84),age-adjusted rates by stage/SES/geography,NAACCR incidence by race 1999-2017; age 50-84 restricted
 161,include-quant,,Hawaii Tumor Registry,White/Japanese/Native Hawaiian/Filipino/Chinese,age-adjusted rates + subtype,Hawaii 5 groups age-adjusted breast incidence + subtype
-165,recheck,,California Cancer Registry,race/ethnic groups (SES),low-text extraction,PDF text-layer poor (945 chars); author reads PDF - SES x race incidence
+165,include-quant,,California Cancer Registry,NHW/black/Hispanic/Asian + SES,age-adjusted rates + RR,scanned PDF read: CCR incidence + RR by race/ethnicity + SES 1988-1992 (Yost SES index); overlaps 246/448
 169,include-quant,,USCS,race/ethnicity/age,age-adjusted incidence rates,USCS MMWR incidence by race/age 1999-2018; overlaps USCS (14/142) -> dedup
 178,include-narrative,,NAACCR (42 states) + SEER,NH white/black young-onset,stage-specific incidence rates,young-onset stage-at-diagnosis focus; overall invasive-by-race not primary -> narrative
 134,include-quant,,SEER/NPCR (IHS-linked),AI/AN vs NHW by IHS region,age-adjusted rates + RR,key IHS-linked national AI/AN vs NHW 1999-2004
@@ -210,14 +210,14 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 4216,exclude,Overlapping or duplicate dataset,multi-registry aggregate report,,,recurring statistical report (ARN); re-reports SEER/NPCR/NAACCR data already captured by primary studies + series representative
 4294,include-narrative,,multi-registry aggregate report,race/ethnicity (aggregate),summary tables,series representative; secondary synthesis of SEER/NPCR/NAACCR - narrative/context (not pooled to avoid double-counting): Cancer Statistics for AA/Black People 2025 (most recent)
 4357,exclude,Overlapping or duplicate dataset,multi-registry aggregate report,,,recurring statistical report (ACS-Hispanic); re-reports SEER/NPCR/NAACCR data already captured by primary studies + series representative
-86,recheck,,,,,PDF present but text-layer poor/scanned (manual-pdf-lowtext); author reads PDF directly
+86,include-quant,,SEER + 5 state registries,African-American vs white (30-39),age-specific incidence rates,"scanned PDF read: AA vs white age-30-39 incidence SEER 1994-1998 (AA 48.9 vs white 40.2); screening-focused, single age band"
 157,exclude,Full text unavailable,,,,"could not obtain: ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies"
-238,recheck,,,,,PDF present but text-layer poor/scanned (pdf-no-textlayer); author reads PDF directly
+238,include-quant,,"SEER (12 areas, 42% AI/AN)",AI/AN vs white,age-adjusted rates + RR,scanned PDF read via image: AI/AN vs white incidence 12 SEER 1992-1999; breast top cancer AI/AN women; overlaps AIAN national
 253,exclude,Full text unavailable,,,,could not obtain: Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies
 415,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN
 424,exclude,Full text unavailable,,,,"could not obtain: Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies"
 428,exclude,Full text unavailable,,,,could not obtain: Women's cancers Alaska Natives (corrected dup of 415)
-475,recheck,,,,,PDF present but text-layer poor/scanned (manual-pdf-lowtext); author reads PDF directly
+475,include-quant,,SEER,white vs black + male (ER/PR),age-specific incidence rates,scanned PDF read: ER/PR-specific incidence white vs black + male SEER 1992-1998 (subtype); overlaps 383/200
 476,exclude,Full text unavailable,,,,"could not obtain: Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800)"
 3116,exclude,Full text unavailable,,,,"could not obtain: Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally"
 3268,exclude,Full text unavailable,,,,"could not obtain: Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN"
