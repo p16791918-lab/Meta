@@ -5,3 +5,14 @@ record_id,author_year,registry,period,std_pop,outcome_dim,minority_group,compari
 324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRneg-HER2pos,Asian-American combined,NHW,,,,,,,1.21,1.12,1.30,directly-reported-IRR,text,HR-/HER2+ 20% higher in AA than NHW
 324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRpos-HER2neg,South Asian,NHW,,,,,,,1.48,1.29,1.69,directly-reported-IRR,text,HR+/HER2- South Asian higher than NHW
 324,Chen2017_CCR,California Cancer Registry,2009-2013,2000 US,subtype-HRpos-HER2neg,Vietnamese,NHW,,,,,,,1.39,1.12,1.73,directly-reported-IRR,text,HR+/HER2- Vietnamese higher than NHW
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Asian American (aggregate),NHW,110.5,109.5,111.6,,,,,,,directly-reported-rate,Table (Overall row),NHW pairing needed from SEER-21 2018-2022 (SEER Explorer); author verify
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Asian Indian/Pakistani,NHW,133.6,130.8,136.5,,,,,,,directly-reported-rate,Table,NHW pairing needed same source
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Chinese,NHW,106.0,104.0,108.1,,,,,,,directly-reported-rate,Table,NHW pairing needed same source
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Filipina,NHW,119.5,117.2,122.0,,,,,,,directly-reported-rate,Table,NHW pairing needed same source
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Japanese,NHW,145.8,140.8,151.0,,,,,,,directly-reported-rate,Table,Japanese exceeds NHW; pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Korean,NHW,94.5,91.3,97.8,,,,,,,directly-reported-rate,Table,lowest-tier; pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Laotian/Kampuchean,NHW,54.1,48.7,59.9,,,,,,,directly-reported-rate,Table,lowest; pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Vietnamese,NHW,81.8,78.9,84.8,,,,,,,directly-reported-rate,Table,pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Native Hawaiian/PI (aggregate),NHW,169.1,163.0,175.5,,,,,,,directly-reported-rate,Table,pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Native Hawaiian,NHW,177.2,169.2,185.5,,,,,,,directly-reported-rate,Table,highest; exceeds NHW; pairing needed
+234,Sung2026_SEER21,SEER-21,2018-2022,2000 US,disaggregated-AANHPI,Guamanian/Chamorro/Samoan,NHW,100.9,89.2,113.7,,,,,,,directly-reported-rate,Table,pairing needed
