@@ -126,15 +126,10 @@ def outcome_dimension(groups, note):
 
 
 def _cov_rank(x):
-    """Higher = more comprehensive coverage (for representative selection)."""
-    fam = x["registry_family_norm"]
+    """Coverage tier for representative selection. %US auto-extraction proved
+    unreliable, so rank by registry-family tier only (period breaks ties)."""
     order = {"USCS(NPCR+SEER~99%)": 6, "NAACCR(~93%)": 5, "SEER-national": 4}
-    base = order.get(fam, 2)
-    try:
-        pct = float(x["pct_us"]) if x["pct_us"] else 0
-    except ValueError:
-        pct = 0
-    return (base, pct)
+    return (order.get(x["registry_family_norm"], 2),)
 
 
 def _period_len(p):
@@ -156,6 +151,13 @@ def main():
         rid = int(r["record_id"])
         s = scan(rid) or {"seer_version": "", "uscs": False, "naaccr": False,
                           "period": "", "verify": "", "pct_us": "", "scope": ""}
+        # Prefer the hand-recorded period in the eligibility note (more accurate
+        # than the full-text auto-scan).
+        mnote = re.search(r"\b(19[7-9]\d|20[0-2]\d)\s*[-–]\s*(20[0-2]\d|19[7-9]\d)\b",
+                          r.get("note", ""))
+        if mnote:
+            s["period"] = "%s-%s" % (mnote.group(1), mnote.group(2))
+            s["verify"] = ""
         rec = recs[rid]
         system = s["seer_version"]
         if s["uscs"]:
