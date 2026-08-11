@@ -1,120 +1,120 @@
-record_id,status,groups,title,has_fulltext
-28,DONE,Alaska Native vs US White,Invasive breast cancer among Alaska Native women in Alaska,y
-234,DONE,detailed AANHPI ethnicities vs NHW,"Breast Cancer Incidence in Asian American, Native Hawaiian, ",y
-324,DONE,AA ethnic groups vs NHW,"Breast cancer in Asian Americans in California, 1988–2013: i",y
-182,DONE,black vs white,Vital signs: Racial disparities in breast cancer severity - ,y
-265,DONE,black vs white,Age-related crossover in breast cancer incidence rates betwe,y
-346,DONE,black vs white,Patterns and Trends in Age-Specific Black-White Differences ,y
-463,DONE,6 Asian subgroups vs NHW,Recent trends in breast cancer incidence among 6 Asian group,y
-500,DONE,AI/AN vs NHW,Trends in Cancer Incidence among American Indians and Alaska,y
-2406,DONE,black vs white MEN,Subtype-specific breast cancer incidence rates in black vers,y
-3182,DONE,Cuban/Mexican/PR vs NHW/NHB,"Cancer incidence in first generation U.S. Hispanics: Cubans,",y
-3298,DONE,Hispanic vs NHW/NHB,"Patterns of cancer incidence among US Hispanics/Latinos, 199",y
-4040,DONE,API subgroups vs NHW,Cancer incidence and mortality patterns among specific Asian,y
-3398,DONE,Korean vs NHW,Cancer incidence patterns in Koreans in the US and in Kangwh,y
-3662,DONE,AI/AN vs NHW,Incidence of and Trends in the Leading Cancers with Elevated,y
-4098,DONE,5 Asian ethnicities vs NHW,"Cancer incidence, mortality, and associated risk factors amo",y
-10,TODO,US Black vs NHW (+Ghana non-US),Breast Cancer Incidence Rates in Ghanaian and US Black Women,y
-49,TODO,Hmong vs NHW/API,"Cancer incidence in the Hmong in California, 1988-2000",y
-54,TODO,Asian Indian/Pakistani vs NHW,Breast cancer among Asian Indian and Pakistani Americans: A ,y
-2,TODO,NH white/black/API/Hispanic subtype,US incidence of breast cancer subtypes defined by joint horm,y
-100,TODO,detailed race/ethnicity incl Filipi,Invasive breast cancer incidence trends by detailed race/eth,y
-236,TODO,Asian ethnicity + nativity vs NHW,Hidden breast cancer disparities in Asian women: disaggregat,y
-333,TODO,Hispanic by nativity vs NHW,Breast cancer incidence patterns among california hispanic w,y
-12,TODO,race/ethnicity vs reference,Disparities and trends of the incidence and mortality of fem,y
-17,TODO,each race vs white,Racial and ethnic disparities in breast cancer rates by age:,y
-31,TODO,NHB vs NHW,Black-white breast cancer incidence trends: Effects of ethni,y
-46,TODO,race/ethnicity + subtype,Incidence Rate Trends of Breast Cancer Overall and by Molecu,y
-51,TODO,Alaska Native vs USW,The Alaska Native Tumour Registry: fifty years of cancer sur,y
-66,TODO,minority vs NH-White,Age distributions of breast cancer diagnosis and mortality b,y
-76,TODO,race/ethnicity,Trends in breast cancer by race and ethnicity,y
-93,TODO,White vs Black + subtype,Disparities in breast cancer subtypes among women in the low,y
-103,TODO,race/ethnicity + subtype,Age-specific incidence of breast cancer subtypes: Understand,y
-107,TODO,AI/AN vs NHW,Quantification of Potential Inequities in Breast Cancer Inci,y
-119,TODO,American Indian vs White,Disparities of cancer incidence in Michigan's American India,y
-126,TODO,race/ethnicity + subtype,Incidence trends of breast cancer molecular subtypes by age ,y
-141,TODO,NHB/NHW/HW,Decreasing Incidence of Estrogen Receptor-Negative Breast Ca,y
-144,TODO,Asian-American ethnic groups vs NHW,Rapidly rising breast cancer incidence rates among Asian-Ame,y
-145,TODO,African American vs White,Persistence in breast cancer disparities between African Ame,y
-158,TODO,race/ethnicity vs NHW (age 50-84),Trends in breast cancer incidence rates by race/ethnicity: P,y
-161,TODO,White/Japanese/Native Hawaiian/Fili,The high and heterogeneous burden of breast cancer in Hawaii,y
-165,TODO,NHW/black/Hispanic/Asian + SES,Socioeconomic status and breast cancer incidence in Californ,y
-169,TODO,race/ethnicity/age,"Trends in Breast Cancer Incidence, by Race, Ethnicity, and A",y
-134,TODO,AI/AN vs NHW by IHS region,Breast cancer incidence among American Indian and Alaska Nat,y
-146,TODO,race/ethnicity + HR,Breast Cancer Incidence Among US Women Aged 20 to 49 Years b,y
-151,TODO,disaggregated Asian American vs NHW,Cancer incidence trends among asian american populations in ,y
-155,TODO,race/ethnicity vs White by state,State Variation in Racial and Ethnic Disparities in Incidenc,y
-188,TODO,race/ethnicity,Trends in breast cancer by race and ethnicity: Update 2006,y
-199,TODO,black vs white,Breast cancer epidemiology in blacks and whites: Disparities,y
-200,TODO,black vs white + ER/PR,Breast Cancer Incidence in Black and White Women Stratified ,y
-203,TODO,NH white/black/Hispanic/API,Recent trends in breast cancer among younger women in the Un,y
-205,TODO,race/ethnicity + ER,Breast cancer incidence rates in U.S. women re no longer dec,y
-207,TODO,disaggregated NHOPI,Cancer incidence trends among native hawaiians and other pac,y
-209,TODO,NHB/NHW/Hispanic/API/AIAN,Racial and regional disparities of triple negative breast ca,y
-210,TODO,NHW/NHB/API/Hispanic/AIAN,Breast cancer incidence trends in Asian women aged 20 or old,y
-246,TODO,NHW/Black/Hispanic/API by SES,Does socioeconomic disparity in cancer incidence vary across,y
-259,TODO,African-American/White/etc,What can we learn from the age- and race/ethnicity- specific,y
-284,TODO,US Japanese/White/Black (+native Ja,"Trends in Female Breast Cancer Incidence among Japanese, Kor",y
-286,TODO,race/ethnicity + subtype vs NHW,Variation in breast cancer subtype incidence and distributio,y
-310,TODO,API/Hispanic/AA vs White (50+),"Recent breast cancer trends among Asian/Pacific Islander, Hi",y
-272,TODO,AIAN vs overall SEER/white,Cancer rates among American Indians and Alaska Natives: is t,y
-322,TODO,White/API/Black continental + Hawai,Inter- and intra-ethnic differences for female breast carcin,y
-336,TODO,US White/Black (+Osaka Japan),Early- and late-onset breast cancer types among women in the,y
-339,TODO,Alaska Native vs USW,"Cancers of the breast, uterus, ovary and cervix among Alaska",y
-361,TODO,race/ethnicity + SES,Decline in US breast cancer rates after the Women's Health I,y
-369,TODO,race/ethnicity + subtype,Differences in breast cancer incidence among young women age,y
-377,TODO,race/ethnicity younger vs older,Racial/ethnicity disparities in invasive breast cancer among,y
-383,TODO,6 racial/ethnic groups + ER/PR,Rates for breast cancer characteristics by estrogen and prog,y
-402,TODO,African American vs European Americ,"Disparities in Breast Cancer Incidence, Mortality, and Quali",y
-405,TODO,NHW/NHB/API/Hispanic,A trend analysis of breast cancer incidence rates in the Uni,y
-419,TODO,NHW/NHB/Hispanic + TNBC,Higher population-based incidence rates of triple-negative b,y
-426,TODO,NHW/NHB/Hispanic,Trends in Incidence of Invasive Lobular Carcinoma of the Bre,y
-436,TODO,race/ethnicity vs NHW,"Incidence, Trends, and Racial/Ethnic Disparities in Female B",y
-438,TODO,NHW/black/AIAN/API + histology,Changes in breast cancer incidence rates in the United State,y
-448,TODO,race/ethnicity + SES,Race/ethnicity and changing US socioeconomic gradients in br,y
-453,TODO,race + ER/Grade subtype,Racial differences in the incidence of breast cancer subtype,y
-455,TODO,ethnic groups (18-39),Comparison of clinicopathologic features and survival in you,y
-461,TODO,AI/AN vs NHW,"Trends and Patterns of Late and Unstaged Lung, Colorectal, F",y
-480,TODO,African American vs Caucasian,Changes in the pattern of breast cancer burden among African,y
-485,TODO,race/ethnicity + area-SES (50+),Trends in area-socioeconomic and race-ethnic disparities in ,y
-516,TODO,NHB vs NHW,The role of area-level socioeconomic disadvantage in racial ,y
-522,TODO,AANHPI + NHW,Characterizing breast cancer incidence and trends among Asia,y
-541,TODO,black vs white,Racial and socioeconomic disparities in breast cancer diagno,y
-587,TODO,Middle Eastern vs NHW,Breast cancer in the middle eastern population of California,y
-701,TODO,race/ethnicity + region,Geographic differences in early-onset breast cancer incidenc,y
-754,TODO,USAPI vs US,Breast cancer incidence and stage at diagnosis in the six US,y
-955,TODO,Asian Indian/Pakistani vs NHW,Cancer among Asian Indians/Pakistanis living in the United S,y
-1101,TODO,Somali vs non-Somali/SEER,Cancer incidence in the Somali population of Olmsted County:,y
-1336,TODO,race/ethnicity + subtype,"Disparities in breast cancer incidence and survival by age, ",y
-1398,TODO,NH Black vs NH White,Early-Onset Cancer Incidence Disparities Between Black and W,y
-1478,TODO,Navajo vs NHW,"Cancer incidence, stage at diagnosis, and trends across the ",y
-1762,TODO,race/ethnicity,Early-onset cancer incidence in the United States by race/et,y
-2131,TODO,minority vs White by state,"Associations of Obesity, Physical Activity, and Screening Wi",y
-2137,TODO,urban AI/AN vs urban NHW,Cancer disparities among non-Hispanic urban American Indian ,y
-2163,TODO,NHB/NHW + Ghana,Estrogen receptor negative breast cancer incidence rates are,y
-2302,TODO,6 Asian ethnicities vs NHW,Breast Cancer Incidence Trends by Estrogen Receptor Status a,y
-2453,TODO,race/ethnicity (20-49),Incidence and survival among young women with stage I-III br,y
-2510,TODO,AI/AN vs white,Disparities in cancer incidence and trends among American In,y
-2548,TODO,Hmong vs API/NHW,"Cancer patterns in Hmong in Minnesota, 2000 to 2012",y
-2610,TODO,race + SES,"The fluctuating incidence, improved survival of patients wit",y
-3212,TODO,American Indian (Seneca) vs general,Fifty years of cancer in an American Indian population,y
-3230,TODO,AI/AN vs NHW (20-44),Cancer in American Indian and Alaska Native Young Adults (Ag,y
-3247,TODO,South Asian US vs US whites,Cancer incidence rates among South Asians in four geographic,y
-3267,TODO,Cambodian vs NHW/Asian,Cambodian cancer incidence rates in California and Washingto,y
-3275,TODO,Middle Eastern vs NHW,Cancer incidence in the Middle Eastern population of Califor,y
-3288,TODO,Korean-American vs white/black,Cancer incidence among Korean-American immigrants in the Uni,y
-3322,TODO,South Asian vs NHW/API,Cancer incidence in the South Asian population of California,y
-4026,TODO,NH-AI/AN AYA,Incidence of selected cancers in Non-Hispanic American India,y
-4027,TODO,6 Asian subgroups vs NHW,Cancer incidence among Asian American populations in the Uni,y
-4043,TODO,race/ethnicity,Trends in Breast Cancer Incidence and Mortality in the Unite,y
-4058,TODO,White vs Black (65+),"White-Black Differences in Cancer Incidence, Stage at Diagno",y
-86,TODO,African-American vs white (30-39),Breast cancer racial differences before age 40--implications,y
-238,TODO,AI/AN vs white,Patterns in cancer incidence among American Indians/Alaska N,NO
-475,TODO,white vs black + male (ER/PR),The greater impact of menopause on ER- than ER+ breast cance,y
-381,TODO,by age/race + triple subtype,Age/race differences in HER2 testing and in incidence rates ,y
-3861,TODO,Asian ethnicity vs NHW + subtype,Asian ethnicity and breast cancer subtypes: A study from the,y
-3891,TODO,northeastern AI vs NHW,Changes in cancer incidence patterns among a northeastern Am,y
-3999,TODO,Vietnamese US vs NHW,Cancer incidence patterns among Vietnamese in the United Sta,y
-4039,TODO,detailed race/ethnicity,Racial/ethnic patterns in lifetime and age-conditional risk ,y
-4147,TODO,CA-born Asian vs NHW,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN,y
-4333,TODO,Hispanic vs NHW,Cancer among Hispanic women in South Florida: An 18-year ass,y
+record_id,status,groups,title,has_fulltext,defer_reason
+28,DONE,Alaska Native vs US White,Invasive breast cancer among Alaska Native women in Alaska,y,
+234,DONE,detailed AANHPI ethnicities vs NHW,"Breast Cancer Incidence in Asian American, Native Hawaiian, ",y,
+324,DONE,AA ethnic groups vs NHW,"Breast cancer in Asian Americans in California, 1988–2013: i",y,
+182,DONE,black vs white,Vital signs: Racial disparities in breast cancer severity - ,y,
+265,DONE,black vs white,Age-related crossover in breast cancer incidence rates betwe,y,
+346,DONE,black vs white,Patterns and Trends in Age-Specific Black-White Differences ,y,
+463,DONE,6 Asian subgroups vs NHW,Recent trends in breast cancer incidence among 6 Asian group,y,
+500,DONE,AI/AN vs NHW,Trends in Cancer Incidence among American Indians and Alaska,y,
+2406,DONE,black vs white MEN,Subtype-specific breast cancer incidence rates in black vers,y,
+3182,DONE,Cuban/Mexican/PR vs NHW/NHB,"Cancer incidence in first generation U.S. Hispanics: Cubans,",y,
+3298,DONE,Hispanic vs NHW/NHB,"Patterns of cancer incidence among US Hispanics/Latinos, 199",y,
+4040,DONE,API subgroups vs NHW,Cancer incidence and mortality patterns among specific Asian,y,
+3398,DONE,Korean vs NHW,Cancer incidence patterns in Koreans in the US and in Kangwh,y,
+3662,DONE,AI/AN vs NHW,Incidence of and Trends in the Leading Cancers with Elevated,y,
+4098,DONE,5 Asian ethnicities vs NHW,"Cancer incidence, mortality, and associated risk factors amo",y,
+10,TODO,US Black vs NHW (+Ghana non-US),Breast Cancer Incidence Rates in Ghanaian and US Black Women,y,
+49,TODO,Hmong vs NHW/API,"Cancer incidence in the Hmong in California, 1988-2000",y,
+54,TODO,Asian Indian/Pakistani vs NHW,Breast cancer among Asian Indian and Pakistani Americans: A ,y,
+2,TODO,NH white/black/API/Hispanic subtype,US incidence of breast cancer subtypes defined by joint horm,y,age-adj race x subtype rates in Supplementary Table 3 (not in main PDF) - obtain suppl
+100,TODO,detailed race/ethnicity incl Filipi,Invasive breast cancer incidence trends by detailed race/eth,y,
+236,TODO,Asian ethnicity + nativity vs NHW,Hidden breast cancer disparities in Asian women: disaggregat,y,
+333,TODO,Hispanic by nativity vs NHW,Breast cancer incidence patterns among california hispanic w,y,
+12,TODO,race/ethnicity vs reference,Disparities and trends of the incidence and mortality of fem,y,
+17,TODO,each race vs white,Racial and ethnic disparities in breast cancer rates by age:,y,
+31,TODO,NHB vs NHW,Black-white breast cancer incidence trends: Effects of ethni,y,
+46,TODO,race/ethnicity + subtype,Incidence Rate Trends of Breast Cancer Overall and by Molecu,y,"reports APC(trends)+proportions only, no poolable IRR/rate vs NHW - narrative candidate"
+51,TODO,Alaska Native vs USW,The Alaska Native Tumour Registry: fifty years of cancer sur,y,
+66,TODO,minority vs NH-White,Age distributions of breast cancer diagnosis and mortality b,y,
+76,TODO,race/ethnicity,Trends in breast cancer by race and ethnicity,y,
+93,TODO,White vs Black + subtype,Disparities in breast cancer subtypes among women in the low,y,"Delta-vs-nonDelta geographic RR, not clean race-vs-NHW - review"
+103,TODO,race/ethnicity + subtype,Age-specific incidence of breast cancer subtypes: Understand,y,
+107,TODO,AI/AN vs NHW,Quantification of Potential Inequities in Breast Cancer Inci,y,
+119,TODO,American Indian vs White,Disparities of cancer incidence in Michigan's American India,y,
+126,TODO,race/ethnicity + subtype,Incidence trends of breast cancer molecular subtypes by age ,y,race x subtype table not in flattened text - render/suppl
+141,TODO,NHB/NHW/HW,Decreasing Incidence of Estrogen Receptor-Negative Breast Ca,y,ER-neg trend table - render/suppl
+144,TODO,Asian-American ethnic groups vs NHW,Rapidly rising breast cancer incidence rates among Asian-Ame,y,
+145,TODO,African American vs White,Persistence in breast cancer disparities between African Ame,y,
+158,TODO,race/ethnicity vs NHW (age 50-84),Trends in breast cancer incidence rates by race/ethnicity: P,y,
+161,TODO,White/Japanese/Native Hawaiian/Fili,The high and heterogeneous burden of breast cancer in Hawaii,y,
+165,TODO,NHW/black/Hispanic/Asian + SES,Socioeconomic status and breast cancer incidence in Californ,y,
+169,TODO,race/ethnicity/age,"Trends in Breast Cancer Incidence, by Race, Ethnicity, and A",y,
+134,TODO,AI/AN vs NHW by IHS region,Breast cancer incidence among American Indian and Alaska Nat,y,
+146,TODO,race/ethnicity + HR,Breast Cancer Incidence Among US Women Aged 20 to 49 Years b,y,
+151,TODO,disaggregated Asian American vs NHW,Cancer incidence trends among asian american populations in ,y,
+155,TODO,race/ethnicity vs White by state,State Variation in Racial and Ethnic Disparities in Incidenc,y,
+188,TODO,race/ethnicity,Trends in breast cancer by race and ethnicity: Update 2006,y,
+199,TODO,black vs white,Breast cancer epidemiology in blacks and whites: Disparities,y,
+200,TODO,black vs white + ER/PR,Breast Cancer Incidence in Black and White Women Stratified ,y,race x ER/PR rate table not in flattened text - render/suppl
+203,TODO,NH white/black/Hispanic/API,Recent trends in breast cancer among younger women in the Un,y,
+205,TODO,race/ethnicity + ER,Breast cancer incidence rates in U.S. women re no longer dec,y,
+207,TODO,disaggregated NHOPI,Cancer incidence trends among native hawaiians and other pac,y,
+209,TODO,NHB/NHW/Hispanic/API/AIAN,Racial and regional disparities of triple negative breast ca,y,
+210,TODO,NHW/NHB/API/Hispanic/AIAN,Breast cancer incidence trends in Asian women aged 20 or old,y,
+246,TODO,NHW/Black/Hispanic/API by SES,Does socioeconomic disparity in cancer incidence vary across,y,
+259,TODO,African-American/White/etc,What can we learn from the age- and race/ethnicity- specific,y,
+284,TODO,US Japanese/White/Black (+native Ja,"Trends in Female Breast Cancer Incidence among Japanese, Kor",y,native Japan/Korea migrant RRs - check US-group vs NHW extraction
+286,TODO,race/ethnicity + subtype vs NHW,Variation in breast cancer subtype incidence and distributio,y,
+310,TODO,API/Hispanic/AA vs White (50+),"Recent breast cancer trends among Asian/Pacific Islander, Hi",y,
+272,TODO,AIAN vs overall SEER/white,Cancer rates among American Indians and Alaska Natives: is t,y,
+322,TODO,White/API/Black continental + Hawai,Inter- and intra-ethnic differences for female breast carcin,y,
+336,TODO,US White/Black (+Osaka Japan),Early- and late-onset breast cancer types among women in the,y,
+339,TODO,Alaska Native vs USW,"Cancers of the breast, uterus, ovary and cervix among Alaska",y,
+361,TODO,race/ethnicity + SES,Decline in US breast cancer rates after the Women's Health I,y,
+369,TODO,race/ethnicity + subtype,Differences in breast cancer incidence among young women age,y,
+377,TODO,race/ethnicity younger vs older,Racial/ethnicity disparities in invasive breast cancer among,y,
+383,TODO,6 racial/ethnic groups + ER/PR,Rates for breast cancer characteristics by estrogen and prog,y,
+402,TODO,African American vs European Americ,"Disparities in Breast Cancer Incidence, Mortality, and Quali",y,
+405,TODO,NHW/NHB/API/Hispanic,A trend analysis of breast cancer incidence rates in the Uni,y,
+419,TODO,NHW/NHB/Hispanic + TNBC,Higher population-based incidence rates of triple-negative b,y,
+426,TODO,NHW/NHB/Hispanic,Trends in Incidence of Invasive Lobular Carcinoma of the Bre,y,
+436,TODO,race/ethnicity vs NHW,"Incidence, Trends, and Racial/Ethnic Disparities in Female B",y,
+438,TODO,NHW/black/AIAN/API + histology,Changes in breast cancer incidence rates in the United State,y,
+448,TODO,race/ethnicity + SES,Race/ethnicity and changing US socioeconomic gradients in br,y,
+453,TODO,race + ER/Grade subtype,Racial differences in the incidence of breast cancer subtype,y,
+455,TODO,ethnic groups (18-39),Comparison of clinicopathologic features and survival in you,y,
+461,TODO,AI/AN vs NHW,"Trends and Patterns of Late and Unstaged Lung, Colorectal, F",y,
+480,TODO,African American vs Caucasian,Changes in the pattern of breast cancer burden among African,y,
+485,TODO,race/ethnicity + area-SES (50+),Trends in area-socioeconomic and race-ethnic disparities in ,y,
+516,TODO,NHB vs NHW,The role of area-level socioeconomic disadvantage in racial ,y,"ADI per-quartile RR (SES gradient), not race-vs-NHW IRR - narrative candidate"
+522,TODO,AANHPI + NHW,Characterizing breast cancer incidence and trends among Asia,y,
+541,TODO,black vs white,Racial and socioeconomic disparities in breast cancer diagno,y,
+587,TODO,Middle Eastern vs NHW,Breast cancer in the middle eastern population of California,y,
+701,TODO,race/ethnicity + region,Geographic differences in early-onset breast cancer incidenc,y,
+754,TODO,USAPI vs US,Breast cancer incidence and stage at diagnosis in the six US,y,
+955,TODO,Asian Indian/Pakistani vs NHW,Cancer among Asian Indians/Pakistanis living in the United S,y,
+1101,TODO,Somali vs non-Somali/SEER,Cancer incidence in the Somali population of Olmsted County:,y,
+1336,TODO,race/ethnicity + subtype,"Disparities in breast cancer incidence and survival by age, ",y,
+1398,TODO,NH Black vs NH White,Early-Onset Cancer Incidence Disparities Between Black and W,y,
+1478,TODO,Navajo vs NHW,"Cancer incidence, stage at diagnosis, and trends across the ",y,"Navajo breast 60.9, no in-paper NHW comparator - external pairing"
+1762,TODO,race/ethnicity,Early-onset cancer incidence in the United States by race/et,y,
+2131,TODO,minority vs White by state,"Associations of Obesity, Physical Activity, and Screening Wi",y,
+2137,TODO,urban AI/AN vs urban NHW,Cancer disparities among non-Hispanic urban American Indian ,y,
+2163,TODO,NHB/NHW + Ghana,Estrogen receptor negative breast cancer incidence rates are,y,
+2302,TODO,6 Asian ethnicities vs NHW,Breast Cancer Incidence Trends by Estrogen Receptor Status a,y,
+2453,TODO,race/ethnicity (20-49),Incidence and survival among young women with stage I-III br,y,
+2510,TODO,AI/AN vs white,Disparities in cancer incidence and trends among American In,y,
+2548,TODO,Hmong vs API/NHW,"Cancer patterns in Hmong in Minnesota, 2000 to 2012",y,
+2610,TODO,race + SES,"The fluctuating incidence, improved survival of patients wit",y,
+3212,TODO,American Indian (Seneca) vs general,Fifty years of cancer in an American Indian population,y,
+3230,TODO,AI/AN vs NHW (20-44),Cancer in American Indian and Alaska Native Young Adults (Ag,y,
+3247,TODO,South Asian US vs US whites,Cancer incidence rates among South Asians in four geographic,y,
+3267,TODO,Cambodian vs NHW/Asian,Cambodian cancer incidence rates in California and Washingto,y,
+3275,TODO,Middle Eastern vs NHW,Cancer incidence in the Middle Eastern population of Califor,y,
+3288,TODO,Korean-American vs white/black,Cancer incidence among Korean-American immigrants in the Uni,y,
+3322,TODO,South Asian vs NHW/API,Cancer incidence in the South Asian population of California,y,
+4026,TODO,NH-AI/AN AYA,Incidence of selected cancers in Non-Hispanic American India,y,
+4027,TODO,6 Asian subgroups vs NHW,Cancer incidence among Asian American populations in the Uni,y,
+4043,TODO,race/ethnicity,Trends in Breast Cancer Incidence and Mortality in the Unite,y,
+4058,TODO,White vs Black (65+),"White-Black Differences in Cancer Incidence, Stage at Diagno",y,
+86,TODO,African-American vs white (30-39),Breast cancer racial differences before age 40--implications,y,
+238,TODO,AI/AN vs white,Patterns in cancer incidence among American Indians/Alaska N,NO,
+475,TODO,white vs black + male (ER/PR),The greater impact of menopause on ER- than ER+ breast cance,y,
+381,TODO,by age/race + triple subtype,Age/race differences in HER2 testing and in incidence rates ,y,
+3861,TODO,Asian ethnicity vs NHW + subtype,Asian ethnicity and breast cancer subtypes: A study from the,y,
+3891,TODO,northeastern AI vs NHW,Changes in cancer incidence patterns among a northeastern Am,y,
+3999,TODO,Vietnamese US vs NHW,Cancer incidence patterns among Vietnamese in the United Sta,y,
+4039,TODO,detailed race/ethnicity,Racial/ethnic patterns in lifetime and age-conditional risk ,y,
+4147,TODO,CA-born Asian vs NHW,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN,y,
+4333,TODO,Hispanic vs NHW,Cancer among Hispanic women in South Florida: An 18-year ass,y,
