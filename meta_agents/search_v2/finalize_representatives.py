@@ -87,6 +87,10 @@ def period_key(p):
 
 
 def main():
+    from guard_v2_only import check_ledger
+    bad = check_ledger()
+    if bad:
+        raise SystemExit("CONTAMINATION: non-v2 records in ledger: %s" % dict(bad))
     QUARANTINE = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
     rows = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
             if r.get("verification", "") not in QUARANTINE]

@@ -151,6 +151,10 @@ def analyse(rows, label):
 
 
 def main():
+    from guard_v2_only import check_ledger
+    bad = check_ledger()
+    if bad:
+        raise SystemExit("CONTAMINATION: non-v2 records in ledger: %s" % dict(bad))
     rows = load()
     cells = defaultdict(list)
     for r in rows:
