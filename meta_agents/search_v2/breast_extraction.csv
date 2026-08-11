@@ -67,3 +67,6 @@ SEER-EXPL,SEER22_Explorer_2019-2023,SEER-21,2019-2023,2000 US,aggregate-vs-NHW,A
 161,Loo2019_HTR,Hawaii Tumor Registry (SEER),2000-2016,2000 US,subtype-HRpos-HER2neg,Chinese,White,,,,,,,0.58,,,directly-reported-IRR,Results text,Hawaii multiethnic; comparator=Whites; source CI garbled(OCR) - PDF for CI,hand-extracted
 161,Loo2019_HTR,Hawaii Tumor Registry (SEER),2000-2016,2000 US,subtype-HRpos-HER2pos,Chinese,White,,,,,,,0.72,0.55,0.9,directly-reported-IRR,Results text,Hawaii multiethnic; comparator=Whites,hand-extracted
 161,Loo2019_HTR,Hawaii Tumor Registry (SEER),2000-2016,2000 US,subtype-TNBC,Chinese,White,,,,,,,0.53,0.39,0.71,directly-reported-IRR,Results text,Hawaii multiethnic; comparator=Whites,hand-extracted
+203,Anderson2008_SEER13,SEER 13,1992-2004,2000 US,aggregate-vs-NHW,Black,White,146.9,,,173.2,,,0.848,0.839,0.858,computed-from-rates-Poisson-SE,Table 1,all ages; comparator=White(SEER),hand-extracted
+203,Anderson2008_SEER13,SEER 13,1992-2004,2000 US,age-lt40,Black,White,2.3,,,1.5,,,1.533,1.352,1.739,computed-from-rates-Poisson-SE,Table 1,age<30 young Black excess (crossover),hand-extracted
+203,Anderson2008_SEER13,SEER 13,1992-2004,2000 US,age-ge50,Black,White,394.9,,,478.6,,,0.825,0.814,0.836,computed-from-rates-Poisson-SE,Table 1,age>=50,hand-extracted
