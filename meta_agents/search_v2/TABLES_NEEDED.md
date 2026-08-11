@@ -18,3 +18,11 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 17  | 15986118 | Annual Report to Nation — breast incidence rate by race (NAACCR/CiNA table) |
 | 286 | 33074325 | Zhao 2020 — race x subtype rate table WITH CI; CAUTION: paper reports IRR as NHW-vs-minority (invert for minority/NHW). Migrated value had wrong direction. |
 | 155 | 36862439 | TNBC rate 95% CIs by race (text has point rates only) |
+| 436 | 42466659 | NHW rate 228.9 anomalously high (age-adj 2000 US but ~1.6x normal) - verify definition (in-situ+invasive? age subset). NHB/NHW=0.76 inconsistent with ~0.95 elsewhere |
+| 754 | 38996557 | USAPI vs US-API/Hawaii RR (Appendix Table S2) - comparator is US-API not NHW; check if any vs-NHW estimate |
+| 402 | 26741869 | AA vs EA breast rates (not in flattened text) |
+| 405 | 23446808 | race x subtype trend table |
+| 461 | 26320932 | rates table |
+| 701 | 39937364 | early-onset BC by region x race (regional table) |
+| 955 | 19067192 | rates table |
+| 4058| 28553811 | White-Black 65+ breast incidence (age-stratified table) |
