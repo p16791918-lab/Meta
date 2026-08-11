@@ -38,8 +38,11 @@ def load():
     for r in csv.DictReader(open(REPS, encoding="utf-8")):
         key = (r["record_id"], r["outcome_dim"], r["minority_group"], r["irr"])
         reps[key] = r["main_analysis"]
+    QUARANTINE = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
     rows = []
     for r in csv.DictReader(open(LEDGER, encoding="utf-8")):
+        if r.get("verification", "") in QUARANTINE:
+            continue                      # unverifiable prior values are excluded
         irr, lo, hi = r["irr"].strip(), r["irr_ci_lo"].strip(), r["irr_ci_hi"].strip()
         if not (irr and lo and hi):
             continue                      # need a CI to contribute a variance

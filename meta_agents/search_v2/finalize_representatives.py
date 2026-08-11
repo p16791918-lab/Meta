@@ -87,7 +87,9 @@ def period_key(p):
 
 
 def main():
-    rows = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))]
+    QUARANTINE = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
+    rows = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
+            if r.get("verification", "") not in QUARANTINE]
     for r in rows:
         fam, tier, fclass = registry_family(r["registry"])
         r["_family"] = fam
