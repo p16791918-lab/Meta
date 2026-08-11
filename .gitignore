@@ -9,3 +9,8 @@ meta_agents/fulltext/
 __pycache__/
 *.pyc
 meta_agents/output_breast/*.json
+
+# v1 archived full-text cache (institutional access — do not commit)
+meta_agents/_archive_v1_941corpus/fulltext_v1/
+meta_agents/search_v2/fulltext/
+meta_agents/search_v2/fulltext_pdf/
