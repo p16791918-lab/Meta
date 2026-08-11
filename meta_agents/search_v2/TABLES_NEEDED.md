@@ -11,3 +11,8 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 141 | 34508608 | ER-negative incidence trend table by race (full PDF) |
 | 126 | 32804214 | race × molecular subtype incidence rate table (full PDF) |
 | 1478| 41385397 | Navajo study — an NHW breast incidence comparator for the SAME period (or confirm none reported) |
+| 12  | 41086189 | race-specific breast incidence rates (only NHW 139.0 in text; NHB/AIAN/AAPI/Hispanic in Table 1) |
+| 100 | 21351091 | Liu 2012 LA County — overall age-adjusted breast AAIR by Asian subgroup vs NHW (text has only age-scattered values) |
+| 49  | 16247793 | Hmong breast AAIR table columns (Hmong vs API vs NHW) |
+| 54  | 33099777 | AIPA (Asian Indian/Pakistani) overall incidence IRR vs NHW (text has trend slopes/age only) |
+| 17  | 15986118 | Annual Report to Nation — breast incidence rate by race (NAACCR/CiNA table) |
