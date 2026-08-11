@@ -16,3 +16,5 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 49  | 16247793 | Hmong breast AAIR table columns (Hmong vs API vs NHW) |
 | 54  | 33099777 | AIPA (Asian Indian/Pakistani) overall incidence IRR vs NHW (text has trend slopes/age only) |
 | 17  | 15986118 | Annual Report to Nation — breast incidence rate by race (NAACCR/CiNA table) |
+| 286 | 33074325 | Zhao 2020 — race x subtype rate table WITH CI; CAUTION: paper reports IRR as NHW-vs-minority (invert for minority/NHW). Migrated value had wrong direction. |
+| 155 | 36862439 | TNBC rate 95% CIs by race (text has point rates only) |
