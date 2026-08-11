@@ -30,6 +30,22 @@ the migrated `run_meta` rows (which were NOT re-read from source when imported).
   vs ~140). IRRs are ratios with a shared internal comparator and are
   therefore unaffected and cross-comparable (Feedback 6).
 
+## Verification status of the MAIN representatives
+- VERIFIED against source this session: rec 169 (aggregate), rec 161
+  (subtype x ethnicity, 26 reps — subtype IRRs), rec 234 (disaggregated
+  AANHPI), rec 2406 (male BC), rec 3182 (Hispanic-origin, PDF Table 4),
+  rec 3662 (AIAN regional), rec 4040 (Native Hawaiian), rec 500 (AIAN IHS),
+  rec 3398 / 4098 / 463 / 182 / 346 / 265 / 3298 (hand-extracted).
+- TABLE-INHERITED (from run_meta, not re-verifiable from the current
+  flattened PMC text because the data tables were dropped): rec 210
+  (Du&Song, cites Table 2), and the rec 161 "overall" rows. The run_meta
+  source carries specific table citations and the values are internally
+  consistent; every value that COULD be re-checked (rec 169, rec 161
+  subtypes) matched exactly, so the extractor is accurate where testable.
+  Independent re-verification of the table-only values needs the PDFs
+  (Codespace). These are mostly OVERLAP rows; where one is a MAIN
+  representative it is flagged for PDF re-check.
+
 ## Open items (to finish the audit)
 - rec 161 "disaggregated overall" rows equal the HR+/HER2- subtype value
   exactly (e.g. Japanese 1.030 in both). Plausible (HR+/HER2- is the majority
