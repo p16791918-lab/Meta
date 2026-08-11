@@ -90,3 +90,4 @@ SEER-EXPL,SEER22_Explorer_2019-2023,SEER-21,2019-2023,2000 US,aggregate-vs-NHW,A
 155,Scott2023_USCS,USCS(NPCR+SEER),2015-2019,2000 US,subtype-TNBC,AIAN,NHW,11.2,,,12.9,,,0.868,,,computed-from-rates,Results text,TNBC rate; no CI in flattened text - CI in Table (flag),hand-extracted
 155,Scott2023_USCS,USCS(NPCR+SEER),2015-2019,2000 US,subtype-TNBC,Hispanic,NHW,11.1,,,12.9,,,0.860,,,computed-from-rates,Results text,TNBC rate; no CI in flattened text - CI in Table (flag),hand-extracted
 155,Scott2023_USCS,USCS(NPCR+SEER),2015-2019,2000 US,subtype-TNBC,Asian/PI (aggregate),NHW,9.0,,,12.9,,,0.698,,,computed-from-rates,Results text,TNBC rate; no CI in flattened text - CI in Table (flag),hand-extracted
+2510,Melkonian2019_IHS-PRCDA,"IHS-linked (NPCR/SEER, PRCDA)",2012-2016,2000 US,AIAN,AIAN,White,,,,,,,0.87,,,directly-reported-IRR,Results (Table 3),national AI/AN vs white; CI in Table 3 (flag); PRCDA-linked; breast lower but rising,hand-extracted

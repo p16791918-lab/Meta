@@ -26,3 +26,6 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 701 | 39937364 | early-onset BC by region x race (regional table) |
 | 955 | 19067192 | rates table |
 | 4058| 28553811 | White-Black 65+ breast incidence (age-stratified table) |
+| 2510| 31575554 | AI/AN vs white breast RR=0.87 - need 95% CI from Table 3 |
+| 1762| 39094298 | multi-cancer; breast reported as APC(trend) only - narrative |
+| 2163| (preprint) | DUPLICATE of rec 10 (medRxiv preprint of Jemal 2024) - exclude/overlap |
