@@ -101,3 +101,7 @@ SEER-EXPL,SEER22_Explorer_2019-2023,SEER-21,2019-2023,2000 US,aggregate-vs-NHW,A
 485,Clegg2009_SEER,SEER,2004,2000 US,age-ge50,Asian/PI (aggregate),White (NH),226.2,,,343.4,,,0.659,,,computed-from-rates,Table 1 (women 50+),age>=50; no CI in table; comparator White,hand-extracted
 485,Clegg2009_SEER,SEER,2004,2000 US,age-ge50,AIAN,White (NH),222.1,,,343.4,,,0.647,,,computed-from-rates,Table 1 (women 50+),age>=50; no CI in table; comparator White,hand-extracted
 485,Clegg2009_SEER,SEER,2004,2000 US,age-ge50,Hispanic,White (NH),226.8,,,343.4,,,0.660,,,computed-from-rates,Table 1 (women 50+),age>=50; no CI in table; comparator White,hand-extracted
+66,Miller2021_SEER9,SEER 9,2013-2017,2000 US,aggregate-vs-NHW,Black,NHW,,,,,,,0.97,0.95,1.0,directly-reported-IRR,Table (women 40-75),age 40-75 overall incidence; excl advanced-stage/mortality,hand-extracted
+66,Miller2021_SEER9,SEER 9,2013-2017,2000 US,aggregate-vs-NHW,Asian/PI (aggregate),NHW,,,,,,,0.92,0.9,0.95,directly-reported-IRR,Table (women 40-75),age 40-75,hand-extracted
+66,Miller2021_SEER9,SEER 9,2013-2017,2000 US,aggregate-vs-NHW,AIAN,NHW,,,,,,,0.58,0.52,0.65,directly-reported-IRR,Table (women 40-75),age 40-75 (Native American),hand-extracted
+66,Miller2021_SEER9,SEER 9,2013-2017,2000 US,aggregate-vs-NHW,Hispanic,NHW,,,,,,,0.75,0.73,0.76,directly-reported-IRR,Table (women 40-75),age 40-75,hand-extracted
