@@ -47,3 +47,5 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 1478| 41385397 | Navajo 60.9 - needs external NHW comparator |
 | 455 | 23907433 | race x subtype incidence (has inc+mort; verify age/subtype, separate mortality) |
 | 1336| (npj2026) | recent subtype incidence by race (render table; separate mortality) |
+| 1336| (npj)    | no PDF; subtype incidence table dropped from text - fetch PDF |
+| 4026| 37119997 | no breast-by-race in text; confirm breast reported or exclude |
