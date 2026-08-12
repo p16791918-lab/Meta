@@ -17,8 +17,8 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 12,include-quant,,SEER,race/ethnicity vs reference,age-standardized incidence + rate ratios,breast among female-specific cancers SEER 2017-2021 rate ratios by race
 14,include-narrative,,USCS,race/ethnicity vs NHW (65+),IRR table,USCS 65+ only; rates include in-situ+invasive combined -> restricted estimand
 17,include-quant,,NAACCR,each race vs white,age-specific rates + RR per 100k,NAACCR Breast Cancer Project age-specific rates + RR
-31,include-quant,,SEER 13,NHB vs NHW,age-standardized rates + APC/projection,convergence NHB/NHW SEER13 1992-2014
-46,include-quant,,SEER 22,race/ethnicity + subtype,age-adjusted rates + APC,subtype-specific incidence by race SEER22 2010-2019
+31,include-narrative,,SEER 13,NHB vs NHW,age-standardized rates + APC/projection,convergence NHB/NHW SEER13 1992-2014 | RECLASS q->n: rates in Figure 1 only + APC; no numeric IRR/rate table
+46,include-narrative,,SEER 22,race/ethnicity + subtype,age-adjusted rates + APC,subtype-specific incidence by race SEER22 2010-2019 | RECLASS q->n: APC(trend) + subtype proportions(%); no poolable race-vs-NHW IRR
 51,include-quant,,Alaska Native Tumor Registry,Alaska Native vs USW,age-adjusted rates + RR (fig/table),ANTR 1969-2018; OVERLAPS 28/415/428 -> keep representative at dedup
 66,include-quant,,SEER 21,minority vs NH-White,incidence rates by age/race,SEER21 2014-2017 invasive incidence by age and race
 76,include-quant,,SEER,race/ethnicity,rates-by-race table 1975-2000,SEER female breast incidence by race table; check overlap w/ SEER national trends
@@ -92,7 +92,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 485,include-quant,,SEER,race/ethnicity + area-SES (50+),age-adjusted rates + RR,incidence by race + area-SES women 50+ SEER 1987-2005
 500,include-quant,,CDC USCS (NPCR+SEER),AI/AN vs NHW,AAIR + RR by IHS region,AI/AN vs NHW breast incidence USCS 1999-2015
 504,include-narrative,,California Cancer Registry,race (comparator=PPA/non-PPA),age-adjusted rates + IRR,persistent-poverty-area incidence by race CCR 2006-2020; comparator=PPA not NHW -> narrative
-516,include-quant,,Metro Detroit (MDCSS),NHB vs NHW,age/sex-adjusted rates + RR,NHB/NHW breast incidence + RR metro Detroit MDCSS; ADI-framed but race-specific rates present
+516,include-narrative,,Metro Detroit (MDCSS),NHB vs NHW,age/sex-adjusted rates + RR,NHB/NHW breast incidence + RR metro Detroit MDCSS; ADI-framed but race-specific rates present | RECLASS q->n: ADI(deprivation) per-quartile RR; not race-vs-NHW IRR
 522,include-quant,,Hawaii Tumor Registry,AANHPI + NHW,age-adjusted rates + subtype,Native Hawaiian/Japanese/Filipino + NHW Hawaii incidence HTR 1990-2014; overlaps 161
 541,include-quant,,Pennsylvania Cancer Registry,black vs white,age-adjusted diagnosis rate,PA black/white incidence + income; PA Cancer Registry
 565,include-narrative,,Guam CR + Hawaii TR,Guam vs Hawaii (not NHW),age-adjusted rates,Guam vs Hawaii breast incidence; comparator=island populations not NHW -> narrative
@@ -101,7 +101,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 687,include-narrative,,North Carolina Central Cancer Registry,race x urbanization,age-adjusted rates + IRR,NC urbanization x race incidence 1995-1999; comparator=urban/rural not NHW -> narrative
 701,include-quant,,USCS,race/ethnicity + region,age-adjusted rates + IRR,early-onset incidence by region + race USCS 2001-2020; overlaps USCS national
 751,include-narrative,,26 registries (~40% US),race (unclear),IBC incidence stats,population-based IBC stats 1994-1998; race-specific IBC incidence unclear -> narrative/verify
-754,include-quant,,Pacific Regional Central Cancer Registry,USAPI vs US,age-standardized rates + RR,6 US-Affiliated Pacific Islands vs US incidence PRCCR 2007-2020; comparator=US-overall
+754,include-narrative,,Pacific Regional Central Cancer Registry,USAPI vs US,age-standardized rates + RR,6 US-Affiliated Pacific Islands vs US incidence PRCCR 2007-2020; comparator=US-overall | RECLASS q->n: USAPI vs US-API/Hawaii comparator; not vs NHW
 916,include-narrative,,California Cancer Registry,race x rurality,age-adjusted rates + IRR,CCR rurality x race incidence 2015-2019; comparator=rurality not NHW -> narrative
 955,include-quant,,SEER,Asian Indian/Pakistani vs NHW,age-adjusted rates,Asian Indian/Pakistani low incidence vs NHW SEER; overlaps 54/3228 AIPA
 985,exclude,Did not report the outcome of interest,California Cancer Registry,overall (no race),age-specific rates / age-conditional risk,age-conditional/lifetime risk overall California women; NOT stratified by race/ethnicity
@@ -118,11 +118,11 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 1637,include-narrative,,HCHS/SOL + state registries,Hispanic heritage groups,cohort incidence,HCHS/SOL Hispanic heritage disaggregation; cohort + comparator=heritage not NHW -> narrative
 1693,exclude,Overlapping or duplicate dataset,SEER 17,API by region,age-adjusted IDC rates,SSRN preprint duplicate of published 425 (same SEER17 API invasive-ductal by region)
 1761,exclude,Ineligible population,Queen's + HPH hospital tumor registries,race/ethnicity + subtype,incidence rates (hospital registry),Hawaii hospital tumor registries not population-based HTR; subtype-by-race covered by 522/161
-1762,include-quant,,SEER,race/ethnicity,age-standardized rates + IRR,early-onset incidence by race SEER 2011-2020; breast among cancers - verify breast row; overlaps 1398/701
+1762,include-narrative,,SEER,race/ethnicity,age-standardized rates + IRR,early-onset incidence by race SEER 2011-2020; breast among cancers - verify breast row; overlaps 1398/701 | RECLASS q->n: multi-cancer; breast reported as APC(trend) only
 2131,include-quant,,USCS,minority vs White by state,age-adjusted rates + state IRR,state-level IRRs minority vs White USCS 1999-2017; obesity/PA/screening correlates but race IRRs present
 2137,include-quant,,NPCR+SEER (IHS-linked),urban AI/AN vs urban NHW,age-adjusted rates + APC,urban AI/AN vs NHW incidence 1999-2017; breast among cancers; overlaps AIAN national (134/500/2510)
-2163,include-quant,,SEER 17,NHB/NHW + Ghana,age-standardized rates,ERN incidence NHB/NHW SEER17 2013-2015 + Ghana; companion/overlap to rec 10 (preprint)
-2302,include-quant,,SEER 9 + API,6 Asian ethnicities vs NHW,age-standardized rates + APC,6 Asian American ethnicities vs NHW by ER SEER9+API 1990-2014
+2163,exclude,Overlapping or duplicate dataset,SEER 17,NHB/NHW + Ghana,age-standardized rates,ERN incidence NHB/NHW SEER17 2013-2015 + Ghana; companion/overlap to rec 10 (preprint) | RECLASS ->exclude: medRxiv PREPRINT duplicate of rec 10 (Jemal 2024)
+2302,include-narrative,,SEER 9 + API,6 Asian ethnicities vs NHW,age-standardized rates + APC,6 Asian American ethnicities vs NHW by ER SEER9+API 1990-2014 | RECLASS q->n: EAPC(%/yr) trends only; no absolute rate/IRR
 2406,include-quant,,NPCR+SEER,black vs white MEN,age-standardized rates + IRR,male breast cancer subtype incidence black/white NPCR-SEER 2010-2016; male-BC target
 2440,include-narrative,,Alaska EARTH cohort (ANTR),AN cohort (risk factors),cohort incidence,Alaska EARTH cohort incidence + risk-factor associations; not primarily AN-vs-NHW breast -> narrative
 2453,include-quant,,SEER 18,race/ethnicity (20-49),age-adjusted rates + AAPC,young women 20-49 incidence by race SEER18 2000-2015; stage I-III + survival focus but incidence-by-race present
@@ -229,7 +229,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 3640,include-narrative,,SEER 18,black vs white (TNBC),black-white rate ratios,structural-racism x TNBC black/white SEER18 2010-2016; exposure-framed -> narrative
 3662,include-quant,,NPCR+SEER (IHS-linked),AI/AN vs NHW,age-adjusted rates + RR,AI/AN vs NHW elevated-incidence cancers incl breast + RR by region 2012-2016; overlaps AIAN national
 3780,include-narrative,,Kaiser Permanente (cohort),Asian American vs NHW,cohort incidence,Kaiser Permanente cohort Asian vs NHW; cohort not population-based registry -> narrative
-3861,include-quant,,California Cancer Registry,Asian ethnicity vs NHW + subtype,subtype incidence rates,Asian ethnicity BC subtypes vs NHW CCR; subtype; overlaps CCR Asian (324/463)
+3861,include-narrative,,California Cancer Registry,Asian ethnicity vs NHW + subtype,subtype incidence rates,Asian ethnicity BC subtypes vs NHW CCR; subtype; overlaps CCR Asian (324/463) | RECLASS q->n: subtype case-mix OR; not incidence IRR
 3891,include-quant,,New York State Cancer Registry (IHS-linked),northeastern AI vs NHW,age-adjusted rates,NE American Indian (Seneca) vs NHW breast incidence NYSCR 1955-2004; overlaps 3212
 3999,include-quant,,California Cancer Registry + SEER,Vietnamese US vs NHW,age-adjusted rates + RR,Vietnamese US vs NHW incidence + RR CCR+SEER 1988-1992; Ha Noi non-US comparator; key Vietnamese
 4037,exclude,Did not report the outcome of interest,NAACCR,all-cancer (premature deaths),age-standardized all-cancer rates,ACS eliminate-disparities report; all-cancer premature-deaths/mortality focus; not breast incidence by race
