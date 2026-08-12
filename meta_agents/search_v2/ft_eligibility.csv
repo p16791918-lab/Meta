@@ -128,7 +128,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 2453,include-quant,,SEER 18,race/ethnicity (20-49),age-adjusted rates + AAPC,young women 20-49 incidence by race SEER18 2000-2015; stage I-III + survival focus but incidence-by-race present
 2510,include-quant,,NPCR (IHS-linked),AI/AN vs white,age-adjusted rates + APC,AI/AN vs white incidence 2010-2015; breast among cancers; overlaps AIAN national (134/500/2137)
 2548,include-quant,,Minnesota Cancer Surveillance System,Hmong vs API/NHW,age-adjusted rates + PIR + RR,Hmong vs NHW/API incidence MCSS 2000-2012; key Hmong subgroup; verify breast row
-2610,include-quant,,SEER 9,race + SES,age-adjusted rates by decade,incidence by race/SES/decade SEER9 1981-2010; survival focus but incidence-by-race present
+2610,include-narrative,,SEER 9,race + SES,age-adjusted rates by decade,incidence by race/SES/decade SEER9 1981-2010; survival focus but incidence-by-race present | RECLASS q->n: stage-distribution % not incidence IRR
 2732,include-narrative,,CI5 + SEER 9/Hawaii,Japanese Japan vs US (White/Black),age-standardized rates (CI5),brief CI5-based Japanese Japan vs US ASRs; very short -> narrative
 3182,include-quant,,Florida Cancer Data System,Cuban/Mexican/PR vs NHW/NHB,age-adjusted rates,first-generation Hispanic subgroups vs NHW Florida 1999-2001; Hispanic disaggregation; verify breast
 3186,exclude,Overlapping or duplicate dataset,SEER 9,black vs white,age-standardized crossover,book-chapter duplicate of 265 (same SEER9 1975-2004 crossover analysis)

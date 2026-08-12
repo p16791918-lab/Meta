@@ -45,3 +45,5 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 4039| 16388524 | LIFETIME RISK (DevCan) by race - separate dimension, not incidence IRR |
 | 286 | 33074325 | Zhao race x subtype rates (DIRECTION: paper reports NHW-vs-minority) |
 | 1478| 41385397 | Navajo 60.9 - needs external NHW comparator |
+| 455 | 23907433 | race x subtype incidence (has inc+mort; verify age/subtype, separate mortality) |
+| 1336| (npj2026) | recent subtype incidence by race (render table; separate mortality) |
