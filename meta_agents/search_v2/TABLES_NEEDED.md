@@ -31,3 +31,17 @@ flattened PMC text). Extraction is deferred until the item below is obtained.
 | 2163| (preprint) | DUPLICATE of rec 10 (medRxiv preprint of Jemal 2024) - exclude/overlap |
 | 31  | 29982593 | Davis Lynn 2018 - NHB/NHW rates in Figure 1 only (no numeric table); APC available. Numeric IRR needs figure extraction -> narrative/trends |
 | 4026| 37119997 | no breast-by-race signal; check if breast is reported |
+
+## Poolable but need subtype/incidence-rate table page (in PDF, not main text)
+| record | PMID | what to read |
+|--------|------|--------------|
+| 381 | 20336785 | Lund 2010 Atlanta - age-adjusted incidence rate by race x triple-subtype (Table 3/4; Table 1 is HER2-testing % only) |
+| 485 | 19124489 | ER-status incidence by race (has BOTH incidence+mortality - read incidence table, get NHW) |
+| 66  | 34427920 | ER-status incidence by race (incidence+mortality - separate them) |
+| 2610| (cmar)   | Black rate series - identify overall/subtype + NHW comparator |
+| 455 | 23907433 | race x subtype incidence table |
+| 1336| (npj)    | recent subtype incidence by race |
+| 4026| 37119997 | verify breast-by-race present |
+| 4039| 16388524 | LIFETIME RISK (DevCan) by race - separate dimension, not incidence IRR |
+| 286 | 33074325 | Zhao race x subtype rates (DIRECTION: paper reports NHW-vs-minority) |
+| 1478| 41385397 | Navajo 60.9 - needs external NHW comparator |
