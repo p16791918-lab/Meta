@@ -37,6 +37,16 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 ## 3. Poisson SE from case counts
 - **rec 203, 182.** No ratio CI printed but case counts are. SE(logIRR) =
   sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`.
+- **rec 49 (Mills 2005, Hmong-California).** Hmong female breast AAIR 23.8 (39
+  cases) vs NHW 145.5; only the Hmong case count (39) is available, so SE(logIRR)
+  = 1/sqrt(39) = 0.160 with the large NHW denominator treated as fixed
+  (1/D_nhw ~ 0). IRR 0.164 (0.120-0.224). Period mismatch (Hmong 1988-2000 vs
+  NHW 1995-1999) flagged in-row. Lowest AANHPI subgroup.
+- **rec 3267 (Kem 2007, Cambodian CA+PugetSound).** Author-reported Cambodian/
+  White ratio 0.26 (uses the surname-method "high rate" 41.0 / NHW 155.5); the
+  high/low rate bracket 34.8-41.0 is an ethnic-identification uncertainty range,
+  NOT a 95% CI, so SE(logIRR) = 1/sqrt(58) = 0.131 from the 58 Cambodian cases.
+  IRR 0.264 (0.204-0.341).
 
 ## 4. External NHW comparator (study reports minority only)
 - **rec 234 (Sung 2026).** Reports disaggregated AANHPI rates but no numeric NHW.
@@ -48,6 +58,42 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
   not the NHW-FL rate; NHW-FL ≈ 143 (2000 US std) was back-derived so computed
   IRRs reproduce the authors' rounded ratios (0.8/0.5/0.8/0.7) — flagged to
   refine if the exact NHW is obtained.
+- **rec 51 (ANTR 2021, Alaska Native).** Paper is ANTR-only (Alaska Native
+  people), no in-paper NHW. AN female breast 130.8 (116.7-146.0), 2014-2018,
+  2000 US std. Paired with SEER-Explorer NHW observed annual mean for the SAME
+  window (2014-2018 = 137.4, 2000 US std). IRR 0.952 (0.851-1.065). NOTE: this
+  overlaps rec 28 (Nash 2019, same ANTR registry, 2009-2014) which reports a
+  DIRECTLY-reported IRR 1.09 (0.99-1.21) vs in-paper US White; rec 28 is the
+  cell representative, rec 51 is a sensitivity/overlap estimate (its 0.95 vs
+  rec 28's 1.09 reflects the different period and the external NHW denominator).
+
+## 4b. IRR CI from reported standard errors of rates
+- **rec 4333 (Wilkinson 2002, Miami-Dade Hispanic).** Table 1 gives invasive
+  breast rates with SEs: Hispanic 81.9 (SE 1.2), NHW 125.8 (SE 2.0), 1990-1998.
+  IRR = 81.9/125.8 = 0.651; SE(log rate) = SE_rate/rate; SE(logIRR) =
+  sqrt((1.2/81.9)^2 + (2.0/125.8)^2) = 0.0216 -> IRR 0.651 (0.624-0.679).
+  Regional aggregate Hispanic (Cuban-heavy), collapses with rec 3298 aggregate
+  Hispanic (sensitivity/overlap).
+
+## 5b. Author-reported rate ratios taken as directly reported
+- **rec 587 (Nasseri 2009, Middle Eastern-California).** Authors print the rate
+  ratio and its CI: invasive breast 0.86 (126.2/146.9, 95% CI 0.84-0.88); taken
+  as `directly-reported-IRR`. Standard not stated but NHW=146.9 implies 2000 US.
+  New MENA analytic cell.
+- **rec 955 (Goggins 2009, Asian Indian/Pakistani).** Table 1 prints the female
+  breast SIR relative to US White = 0.61 (0.56-0.66); `directly-reported-SIR`.
+  Overlaps rec 234 Asian Indian/Pakistani (sensitivity). CONTAMINATION NOTE: the
+  uploaded 461.pdf is byte-for-byte this Goggins paper (mis-named); the SIR was
+  attributed to its correct record (955), NOT to rec 461 (Northern Plains AI/AN),
+  whose correct full text is still unavailable (deferred).
+
+## Contamination / mis-classification catches (this extraction pass)
+- **rec 1336** flattened numbers looked like subtype IRRs but rendering showed
+  they are mortality HAZARD RATIOS (Cox models) — demoted (not incidence).
+- **rec 2548 (Hmong-Minnesota)** comparator is "All Minnesotans"/API (total
+  population, both sexes), not NHW women — demoted (incomparable; the clean
+  Hmong-vs-NHW female estimate comes from rec 49 instead).
+- **rec 461/955 PDF mis-filing** resolved as above.
 
 ## 5. Direction conversion
 - **rec 286 (Kong 2020).** Subtype IRRs are printed minority-vs-NHW (verified from

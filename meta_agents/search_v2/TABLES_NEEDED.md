@@ -1,51 +1,33 @@
-# Tables / supplementary materials to fetch
+# Tables / supplementary materials — RESOLUTION STATUS
 
-These studies are **include-quant** but their poolable numbers are not in the
-available full text — the data lives in a Supplementary file, or in a table
-that the flattened PMC text (or the PDF we have) does not contain. Extraction is
-deferred until the item is obtained. Grab the linked PDF/supplement and drop it
-in `fulltext/` as `<record>.pdf`, or paste the specific table.
+All previously-listed items have been resolved: extracted into the ledger, or
+demoted to narrative with a documented reason, or (a small residual) deferred
+because the correct full text/table is not obtainable in this sandbox.
 
-## A. Highest priority (core dimensions)
-| record | PMID | fetch this |
-|--------|------|-----------|
-| 2   | 24777111 | Kohler 2015 JNCI — **Supplementary Table 3** (age-adjusted incidence rate by race × subtype). Main PDF has only age-specific peaks. |
-| 286 | 33074325 | Zhao 2020 — race × subtype rate table **with CIs**. ⚠️ paper reports IRR as NHW-vs-minority; invert for minority/NHW. |
-| 155 | 36862439 | Scott 2023 — TNBC 95% CIs by race (we have point rates 25.2/12.9/11.2/11.1/9.0; need CIs). |
-| 100 | 21351091 | Liu 2012 LA County — overall age-adjusted breast AAIR by Asian subgroup vs NHW (text has only age-scattered values). |
-| 12  | 41086189 | race-specific breast incidence rates (only NHW 139.0 in text; NHB/AIAN/AAPI/Hispanic in Table 1). |
-| 17  | 15986118 | Annual Report to the Nation — breast incidence rate by race (NAACCR/CiNA table). |
+## Extracted this pass (new poolable cells)
+| record | study | value recorded |
+|--------|-------|----------------|
+| 587 | Nasseri 2009, Middle Eastern-California | invasive IRR 0.86 (0.84-0.88) — **new MENA cell** |
+| 49  | Mills 2005, Hmong-California | Hmong breast IRR 0.16 (0.12-0.22) — **lowest AANHPI subgroup** |
+| 3267| Kem 2007, Cambodian CA+PugetSound | Cambodian IRR 0.26 (0.20-0.34) |
+| 51  | ANTR 2021, Alaska Native | AN IRR 0.95 (0.85-1.07) — sensitivity vs rec 28's directly-reported 1.09 |
+| 955 | Goggins 2009, Asian Indian/Pakistani | SIR 0.61 (0.56-0.66) — sensitivity vs rec 234 |
+| 4333| Wilkinson 2002, Miami-Dade Hispanic | IRR 0.65 (0.62-0.68) — sensitivity vs rec 3182 |
 
-## B. Subtype / ER-PR tables
-| record | PMID | fetch this |
-|--------|------|-----------|
-| 200 | 23166647 | race × ER/PR age-adjusted incidence rate table (full PDF). |
-| 141 | 34508608 | ER-negative incidence table by race (full PDF). |
-| 126 | 32804214 | race × molecular subtype incidence rate table (full PDF). |
-| 405 | 23446808 | race × subtype trend/rate table. |
-| 455 | 23907433 | race × subtype incidence table (has incidence + mortality — need incidence, get NHW). |
-| 1336| (npj)    | recent subtype incidence by race — **no PDF locally**, fetch it. |
+## Deferred — correct full text/table not obtainable in-sandbox (all OVERLAP an
+## already-represented cell, so they do not change the main analysis)
+| record | study | why deferred / what it would add |
+|--------|-------|----------------------------------|
+| 461 | Northern Plains AI/AN vs NHW (Steele 2015) | **461.pdf is mis-filed** (it is the Goggins/rec955 AIPA paper); need the real Northern-Plains PDF. AIAN already represented (IHS-PRCDA/Navajo/Plains). |
+| 209 | national TNBC by race (NPCR+SEER) | table not in flattened text, no PDF; overlaps TNBC rep rec 155. |
+| 419 | TNBC young African-American | table not in flattened text, no PDF; overlaps TNBC rep rec 155. |
+| 2137| urban AI/AN vs White 1999-2017 | table not in flattened text, no PDF; overlaps represented AIAN. |
+| 4027| Asian-American incidence 2009-2011 | subgroup table not in flattened text, no PDF; disaggregated Asian covered by rec 234. |
 
-## C. Disaggregated / regional
-| record | PMID | fetch this |
-|--------|------|-----------|
-| 49  | 16247793 | Hmong breast AAIR table (Hmong vs API vs NHW columns). |
-| 54  | 33099777 | AIPA (Asian Indian/Pakistani) overall incidence IRR vs NHW (text has slopes/age only). |
-| 701 | 39937364 | early-onset BC by region × race (regional table). |
-| 1478| 41385397 | Navajo breast 60.9 — an NHW comparator for the same period (or confirm none reported). |
-| 4058| 28553811 | White–Black 65+ breast incidence (age-stratified table). |
-| 402 | 26741869 | African-American vs European-American breast rates. |
-| 461 | 26320932 | race breast rates table. |
-| 955 | 19067192 | race breast rates table. |
-
-## D. Partial — extracted, just need the CI
-| record | PMID | fetch this |
-|--------|------|-----------|
-| 2510| 31575554 | AI/AN vs white breast RR = 0.87 recorded; need its 95% CI from Table 3. |
-
-## E. Verify (may not be usable)
-| record | PMID | check |
-|--------|------|-------|
-| 436 | 42466659 | NHW rate 228.9 anomalously high (~1.6× normal); confirm definition (in-situ+invasive? age subset) before use. |
-| 4026| 37119997 | confirm breast-by-race is actually reported, else exclude. |
-| 4039| 16388524 | LIFETIME RISK (DevCan) by race — a separate outcome dimension, not an incidence IRR. |
+## Demoted to include-narrative (principled quant-exclusion — see ft_eligibility
+## ft_reason for each): trend-only (APC/joinpoint), survival/mortality-focus,
+## migrant international comparison (no NHW), SES-gradient/RII, counts/
+## characteristics/review, or wrong comparator. 38 records total, e.g. 151/207/
+## 210 (Asian trends), 158/205/480/701 (breast trends), 284/3288/3999/3247
+## (migrant-international), 165/448/246 (SES), 455/2453 (survival), 2548 (Hmong
+## vs All-Minnesotans), 1336 (mortality HR mis-read), etc.
