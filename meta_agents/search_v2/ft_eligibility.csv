@@ -80,7 +80,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 425,include-narrative,,SEER 17,API women by region (no NHW),age-adjusted IDC rates,API invasive ductal carcinoma by US region; comparator=region not NHW -> narrative
 426,include-quant,,SEER 12,NHW/NHB/Hispanic,age-adjusted ILC rates + APC,invasive lobular carcinoma incidence by race SEER12 1992-2019 (subtype lobular)
 427,include-narrative,,California Cancer Registry,AANHPI by enclave/nSES (not NHW),age-adjusted rates + IRR,ethnic enclave/nSES AANHPI incidence CCR 2008-2012; comparator=enclave/nSES not NHW -> narrative
-436,include-quant,,SEER,race/ethnicity vs NHW,age-standardized rates,incidence by race SEER 2000-2023 (Hispanic/AIAN/API/NHB/NHW rates)
+436,include-narrative,,SEER,race/ethnicity vs NHW,age-standardized rates,incidence by race SEER 2000-2023 (Hispanic/AIAN/API/NHB/NHW rates) | RECLASS q->n: NHW rate 228.9 non-standard (~1.6x age-adj); NHB/NHW=0.76 inconsistent w/ literature ~0.95 - non-comparable metric
 438,include-quant,,SEER,NHW/black/AIAN/API + histology,age-adjusted rates + APC,histologic-subtype incidence by race SEER 1995-2004
 448,include-quant,,California + Massachusetts (SEER),race/ethnicity + SES,age-standardized rates + RR,CA+MA incidence by race + SES gradient 1978-2002
 453,include-quant,,SC + Ohio state registries (non-SEER),race + ER/Grade subtype,age-specific + age-adjusted rates,subtype (grade/HR) incidence by race SC+Ohio 1996-2004
@@ -233,7 +233,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 3891,include-quant,,New York State Cancer Registry (IHS-linked),northeastern AI vs NHW,age-adjusted rates,NE American Indian (Seneca) vs NHW breast incidence NYSCR 1955-2004; overlaps 3212
 3999,include-quant,,California Cancer Registry + SEER,Vietnamese US vs NHW,age-adjusted rates + RR,Vietnamese US vs NHW incidence + RR CCR+SEER 1988-1992; Ha Noi non-US comparator; key Vietnamese
 4037,exclude,Did not report the outcome of interest,NAACCR,all-cancer (premature deaths),age-standardized all-cancer rates,ACS eliminate-disparities report; all-cancer premature-deaths/mortality focus; not breast incidence by race
-4039,include-quant,,SEER,detailed race/ethnicity,age-adjusted rates + lifetime/age-conditional risk,DevCan lifetime & age-conditional risk by race incl breast SEER; detailed racial/ethnic groups
+4039,include-narrative,,SEER,detailed race/ethnicity,age-adjusted rates + lifetime/age-conditional risk,"DevCan lifetime & age-conditional risk by race incl breast SEER; detailed racial/ethnic groups | RECLASS q->n: lifetime/age-conditional RISK (DevCan %), not age-adj incidence IRR - separate outcome dimension"
 4098,include-quant,,California Cancer Registry,5 Asian ethnicities vs NHW,age-adjusted rates,Chinese/Filipino/Vietnamese/Korean/Japanese vs NHW incidence CCR 2000-2002; overlaps CCR Asian
 4147,include-quant,,California Cancer Registry,CA-born Asian vs NHW,age-adjusted rates,young California-born Asian women excess BC vs NHW CCR; birthplace-stratified; overlaps CCR Asian
 4333,include-quant,,Florida Cancer Data System,Hispanic vs NHW,age-adjusted rates + SRR,Hispanic vs NHW incidence + SRR Miami-Dade FL 1981-1998; overlaps 3182 Florida Hispanic
