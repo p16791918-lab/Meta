@@ -65,7 +65,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 265,include-quant,,SEER 9,black vs white,age-standardized rates (crossover),black/white crossover SEER9 1975-2004; overlaps 103/200/3186 -> dedup
 272,include-quant,,SEER + ANTR,AIAN vs overall SEER/white,age-adjusted rates,all-site AIAN national overview SEER 1988-2000; breast AIAN vs white in site tables - verify
 321,exclude,Did not report the outcome of interest,Texas Cancer Registry,income quintiles (not race),age-adjusted rates by income,Texas breast incidence by income/geography; stratified by SES not race/ethnicity vs NHW
-322,include-quant,,SEER 13,White/API/Black continental + Hawaii,age-adjusted rates + RR,inter/intra-ethnic incidence continental US + Hawaii SEER13 1992-2002
+322,include-narrative,,SEER 13,White/API/Black continental + Hawaii,age-adjusted rates + RR,inter/intra-ethnic incidence continental US + Hawaii SEER13 1992-2002 | RECLASS q->n: case counts + characteristic-specific RRs (tumor size/stage); subgroups as counts not rates - no clean incidence IRR
 336,include-quant,,SEER 9 + Osaka,US White/Black (+Osaka Japan),age-specific incidence rates,US White/Black extractable; Osaka non-US comparator; bimodal SEER9
 339,include-quant,,Alaska Native Tumor Registry,Alaska Native vs USW,age-adjusted rates + RR,AN vs USW breast incidence 1974-2003; overlaps 28/51/415/428 ANTR -> dedup
 346,include-quant,,USCS,black vs white,age-specific 5-yr avg rates,black/white incidence USCS MMWR 1999-2014; overlaps USCS national (169/182) -> dedup
@@ -147,7 +147,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 4027,include-quant,,SEER + state (NPCR),6 Asian subgroups vs NHW,age-standardized rates,6 Asian subgroups vs NHW incidence SEER+NPCR 2009-2011; overlaps 151/4040
 4040,include-quant,,SEER + state,API subgroups vs NHW,age-adjusted rates,API subgroups vs NHW incidence 1998-2002; breast among sites - verify; overlaps 4027/151
 4043,include-quant,,SEER,race/ethnicity,age-adjusted rates + APC,incidence by race SEER 2004-2018; overlaps SEER national trends
-4058,include-quant,,SEER 18,White vs Black (65+),age-adjusted rates,White/Black breast incidence older adults 65+ SEER18 2009-2013; survival focus but incidence present
+4058,include-narrative,,SEER 18,White vs Black (65+),age-adjusted rates,White/Black breast incidence older adults 65+ SEER18 2009-2013; survival focus but incidence present | RECLASS q->n: tumor characteristics + incidence trends over time; no clean cross-sectional 65+ Black/White breast IRR
 4389,include-narrative,,Metropolitan Detroit (MDCSS),foreign/US-born Arab vs NHW,proportional incidence ratio (PIR),Arab American foreign/US-born PIR vs NHW MDCSS 1990-2009; PIR not incidence rate -> narrative; overlaps 3845
 4429,include-narrative,,California Cancer Registry,ME immigrant generations,PIR/SIR generational,ME immigrant generations CCR 1988-2013; generational comparison likely PIR -> narrative; overlaps 587/3275
 0,include-narrative,,multi-registry aggregate report,race/ethnicity (aggregate),summary tables,series representative; secondary synthesis of SEER/NPCR/NAACCR - narrative/context (not pooled to avoid double-counting): ACS Breast Cancer Statistics 2024 (most recent general breast-by-race national report)
