@@ -20,11 +20,19 @@ taken verbatim from the paper and are NOT in this log.
     both numerator and denominator).
 
 ## 2. IRR computed from race-specific rates ± CIs
-- **rec 4098, 463, 100, 381, 485, 333, 522, 4040, 3398, 3182, 3662** and the
-  SEER-Explorer anchor: IRR = minority_rate / NHW_rate. Where both rates carry a
-  95% CI, SE(logIRR) = sqrt(SE_min² + SE_nhw²) with SE(log rate) =
-  (ln hi − ln lo)/(2·1.96); provenance `computed-from-rates-with-CI`. Where a
-  rate lacks a CI, point IRR only; provenance `computed-from-rates`.
+IRR = minority_rate / NHW_rate. With both rate CIs: SE(logIRR) =
+sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenance
+`computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
+`computed-from-rates`. Complete lists (auto-generated from the ledger):
+- **with CI:** rec 10, rec 234, rec 522, rec 2131, rec 3182, rec 3398, rec 4040.
+- **point only (no CI):** rec 2, rec 100, rec 265, rec 333, rec 346, rec 381,
+  rec 463, rec 485, rec 500, rec 4098.
+- Elaborated elsewhere: rec 2 (§1), rec 234 & rec 3182 (§4).
+- **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US
+  — IRR still comparable (ratio), absolute scale differs (flagged in-row).
+- **rec 265/346** use "White"/"Black" not NH-stratified (rec 346 White incl.
+  Hispanic); rec 265 is the crossover from printed age-specific rates, no ratio CI.
+- **rec 500** NHW (130.4) is from the same paper (Gopalani 2020), not external.
 
 ## 3. Poisson SE from case counts
 - **rec 203, 182.** No ratio CI printed but case counts are. SE(logIRR) =
