@@ -1,0 +1,91 @@
+dimension,group,family,main_irr,main_rec,sens_irr,sens_rec,status,n_all,n_kept
+aggregate-vs-NHW,AIAN,national,0.683,169,0.58,66,changed,4,2
+aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.92,66,changed,4,2
+aggregate-vs-NHW,Black,national,0.933,169,0.97,66,changed,9,2
+aggregate-vs-NHW,Hispanic,national,0.718,169,0.75,66,changed,6,2
+disaggregated-AANHPI,Asian Indian/Pakistani,national,0.952,234,0.61,955,changed,2,1
+Hispanic-origin,Cuban,national,0.755,3182,,,dropped,1,0
+Hispanic-origin,Mexican,national,0.503,3182,,,dropped,1,0
+Hispanic-origin,New Latino,national,0.684,3182,,,dropped,1,0
+Hispanic-origin,Puerto Rican,national,0.817,3182,,,dropped,1,0
+age-ge40,Black,national,0.851,265,,,dropped,1,0
+age-ge50,AIAN,national,0.647,485,,,dropped,1,0
+age-ge50,Asian/PI (aggregate),national,0.659,485,,,dropped,1,0
+age-ge50,Black,national,0.825,203,,,dropped,2,0
+age-ge50,Filipina,national,0.774,522,,,dropped,1,0
+age-ge50,Hispanic,national,0.660,485,,,dropped,1,0
+age-ge50,Japanese,national,1.064,522,,,dropped,1,0
+age-ge50,Native Hawaiian,national,1.366,522,,,dropped,1,0
+age-lt40,Black,national,1.183,265,,,dropped,2,0
+age-lt50,Filipina,national,0.768,522,,,dropped,1,0
+age-lt50,Japanese,national,1.479,522,,,dropped,1,0
+age-lt50,Native Hawaiian,national,0.858,522,,,dropped,1,0
+aggregate-vs-NHW,AIAN,IHS-PRCDA,0.560,500,,,dropped,1,0
+disaggregated-AANHPI,Asian American (aggregate),national,0.788,234,,,dropped,1,0
+disaggregated-AANHPI,Cambodian,national,0.264,3267,,,dropped,1,0
+disaggregated-AANHPI,Chinese,national,0.756,234,,,dropped,4,0
+disaggregated-AANHPI,Filipina,national,0.852,234,,,dropped,3,0
+disaggregated-AANHPI,Guamanian/Chamorro/Samoan,national,0.719,234,,,dropped,1,0
+disaggregated-AANHPI,Hmong,national,0.164,49,,,dropped,1,0
+disaggregated-AANHPI,Japanese,national,1.039,234,,,dropped,3,0
+disaggregated-AANHPI,Korean,national,0.674,234,,,dropped,5,0
+disaggregated-AANHPI,Laotian/Kampuchean,national,0.386,234,,,dropped,1,0
+disaggregated-AANHPI,Native Hawaiian,national,1.211,4040,,,dropped,2,0
+disaggregated-AANHPI,Native Hawaiian/PI (aggregate),national,1.205,234,,,dropped,1,0
+disaggregated-AANHPI,Vietnamese,national,0.583,234,,,dropped,3,0
+subtype-ERneg-PRpos,Black,national,1.459,200,,,dropped,1,0
+subtype-ERpos-PRneg,Black,national,0.974,200,,,dropped,1,0
+subtype-HRneg,Black,national,1.796,10,,,dropped,2,0
+subtype-HRpos,Black,national,0.820,10,,,dropped,2,0
+subtype-HRpos-HER2pos,Asian/PI (aggregate),national,0.842,2,,,dropped,1,0
+AIAN,AIAN,national,0.384,107,0.384,107,unchanged,1,1
+AIAN,AIAN,IHS-PRCDA,0.87,2510,0.87,2510,unchanged,1,1
+AIAN,AIAN (Navajo),IHS-PRCDA,0.49,1478,0.49,1478,unchanged,1,1
+AIAN,"AIAN (Northern Plains, provisional)",IHS-PRCDA,1.33,3662,1.33,3662,unchanged,1,1
+AIAN,"AIAN (Southern Plains, provisional)",IHS-PRCDA,1.25,3662,1.25,3662,unchanged,1,1
+AIAN,Alaska Native,national,1.09,28,1.09,28,unchanged,2,1
+Hispanic-origin,Hispanic/Latina (aggregate),national,0.64,3298,0.64,3298,unchanged,2,1
+age-lt40,Black (age<40),national,1.16,199,1.16,199,unchanged,1,1
+age-lt50,AIAN,national,0.75,146,0.75,146,unchanged,1,1
+age-lt50,Asian/PI (aggregate),national,0.96,146,0.96,146,unchanged,1,1
+age-lt50,Black,national,1.01,146,1.01,146,unchanged,1,1
+age-lt50,Hispanic,national,0.76,146,0.76,146,unchanged,1,1
+aggregate-vs-NHW,Black (women),national,0.98,2406,0.98,2406,unchanged,1,1
+disaggregated-AANHPI,Filipino (young),national,0.95,324,0.95,324,unchanged,1,1
+disaggregated-AANHPI,Japanese (young),national,1.02,324,1.02,324,unchanged,1,1
+disaggregated-MENA,Middle Eastern,national,0.86,587,0.86,587,unchanged,1,1
+male-BC,Black (men),national,1.52,2406,1.52,2406,unchanged,1,1
+male-BC-HRneg-HER2pos,Black (men),national,2.62,2406,2.62,2406,unchanged,1,1
+male-BC-HRpos-HER2neg,Black (men),national,1.41,2406,1.41,2406,unchanged,1,1
+male-BC-HRpos-HER2pos,Black (men),national,1.65,2406,1.65,2406,unchanged,1,1
+male-BC-TNBC,Black (men),national,2.27,2406,2.27,2406,unchanged,1,1
+nativity,Chinese (US-born),national,1.84,236,1.84,236,unchanged,1,1
+nativity,Filipina (US-born),national,1.32,236,1.32,236,unchanged,1,1
+subtype-HRneg-HER2pos,Asian-American combined,national,1.21,324,1.21,324,unchanged,1,1
+subtype-HRneg-HER2pos,Asian/PI (aggregate),national,1.41,286,1.41,286,unchanged,1,1
+subtype-HRneg-HER2pos,Black,national,1.46,286,1.46,286,unchanged,1,1
+subtype-HRneg-HER2pos,Japanese,national,0.88,161,0.88,161,unchanged,1,1
+subtype-HRneg-HER2pos,Native Hawaiian,national,1.19,161,1.19,161,unchanged,1,1
+subtype-HRpos-HER2neg,Asian/PI (aggregate),national,0.87,286,0.87,286,unchanged,2,1
+subtype-HRpos-HER2neg,Black,national,0.86,286,0.86,286,unchanged,3,1
+subtype-HRpos-HER2neg,Chinese,national,0.58,161,0.58,161,unchanged,1,1
+subtype-HRpos-HER2neg,Filipino,national,0.64,161,0.64,161,unchanged,1,1
+subtype-HRpos-HER2neg,Hispanic,national,0.78,286,0.78,286,unchanged,2,1
+subtype-HRpos-HER2neg,Japanese,national,1.03,161,1.03,161,unchanged,1,1
+subtype-HRpos-HER2neg,Native Hawaiian,national,1.12,161,1.12,161,unchanged,1,1
+subtype-HRpos-HER2neg,South Asian,national,1.48,324,1.48,324,unchanged,1,1
+subtype-HRpos-HER2neg,Vietnamese,national,1.39,324,1.39,324,unchanged,1,1
+subtype-HRpos-HER2pos,Black,national,1.12,286,1.12,286,unchanged,2,1
+subtype-HRpos-HER2pos,Chinese,national,0.72,161,0.72,161,unchanged,1,1
+subtype-HRpos-HER2pos,Filipino,national,0.88,161,0.88,161,unchanged,1,1
+subtype-HRpos-HER2pos,Hispanic,national,0.91,286,0.91,286,unchanged,2,1
+subtype-HRpos-HER2pos,Japanese,national,1.03,161,1.03,161,unchanged,1,1
+subtype-HRpos-HER2pos,Native Hawaiian,national,1.34,161,1.34,161,unchanged,1,1
+subtype-TNBC,AIAN,national,0.860,155,0.860,155,unchanged,1,1
+subtype-TNBC,Asian-American combined,national,0.61,324,0.61,324,unchanged,1,1
+subtype-TNBC,Asian/PI (aggregate),national,0.700,155,0.700,155,unchanged,3,2
+subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,4,2
+subtype-TNBC,Chinese,national,0.53,161,0.53,161,unchanged,1,1
+subtype-TNBC,Filipino,national,0.84,161,0.84,161,unchanged,1,1
+subtype-TNBC,Hispanic,national,0.860,155,0.860,155,unchanged,3,2
+subtype-TNBC,Native Hawaiian,national,0.86,161,0.86,161,unchanged,1,1
