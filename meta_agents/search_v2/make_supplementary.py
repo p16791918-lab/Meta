@@ -66,6 +66,8 @@ for r in rep:
                  r["main_analysis"]])
 TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", "Main analysis"],
    rows, [1900, 1800, 2200, 2000, 1200, 2200, 2600])
+P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent. For each cell (outcome dimension × group) one representative was kept per registry family, selected by (i) an IRR being computable, (ii) coverage (USCS > NAACCR > SEER-national > state/regional), (iii) most recent end-year then longest span, and (iv) clearest standardization / directly-reported CI.", True)
+P("Main analysis: “yes (representative)” = the estimate carried into the main analysis; “no (overlaps representative)” = collapses to the cell representative and is used only in the all-included sensitivity analysis; “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
 PB()
 
 # ---- S6 provenance ----
@@ -109,6 +111,7 @@ P("Sensitivity = all overlapping estimates (Paule-Mandel + HKSJ); high I² refle
 si = rd("outputs/Table_sensitivity_I2.csv")
 rows = [[r["dimension"], r["group"], r["k_all"], f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
 TB(["Dimension", "Group", "k", "Sensitivity IRR (95% CI)", "I²", "Main IRR (95% CI)"], rows, [1900, 2200, 700, 3000, 900, 3300])
+P("k = number of overlapping estimates pooled. Sensitivity IRR = all k estimates pooled with a Paule-Mandel τ² and a Hartung-Knapp-Sidik-Jonkman confidence interval. I² is the sensitivity (all-included) value; the very high I² reflects repeated inclusion of non-independent, overlapping registry data rather than genuine between-study heterogeneity. Main IRR = the single one-per-registry-family representative, which removes that non-independence. For cells with k < 3 the HKSJ interval (t-distribution with k−1 df) is unstable and over-wide, so the point estimate should be read rather than the interval. Only cells with ≥ 2 overlapping estimates appear here.", True)
 P("Estimator comparison on the largest cell (aggregate Black, k=8): DL IRR 0.934 (τ²=0.0011, I²=98%), HKSJ 0.901–0.969; Paule-Mandel/REML IRR 0.935 (τ²=0.0018), HKSJ 0.902–0.969.")
 PB()
 
