@@ -3,6 +3,39 @@
 각 Supplementary 항목 → 소스 파일 → Feedback 요구사항 매핑. 상태: ✅ 준비됨 /
 🔧 손봐야 함 / 🖊 아직 만들어야 함.
 
+## 0. 교수님 예시 논문 포맷에 맞춘 규칙 (Advice/ 파일 분석)
+
+예시 논문(Advice/Manuscript.docx = 휴대폰-종양 umbrella review)과 Appendix 1.xlsx,
+Supplementary Materials.docx를 분석해 아래 규칙으로 통일한다. **주의: 예시는 umbrella
+review(AMSTAR-2+GRADE)지만 우리는 1차연구 메타분석이라 RoB=Newcastle-Ottawa를 쓴다
+(교수님 RoB 참고문서와 일치).**
+
+**IRR 표기 규칙**
+- 본문/초록 첫 등장: `incidence rate ratio (IRR) = 0.93; 95% CI = 0.92–0.95`
+  (예시가 `odds ratio (OR) = 1.01; 95% CI = ...` 형식 → 지표만 IRR로)
+- 표 안: `Effect type` 컬럼(IRR/SIR) + `Risk estimate (95% CI)`를 **`0.93 [0.92, 0.95]`**
+  (대괄호+쉼표, Appendix 1.xlsx와 동일). 우리 기존 `(0.92-0.95)` → `[0.92, 0.95]`로 통일.
+- 변환 완료본: `TableS4_characteristics_profformat.csv` (대표 88행, 교수님 컬럼 순서).
+
+**본문 Table 1 = 방향 요약 매트릭스** (예시 "Summary of associations" 모방)
+- 행 = 인종·민족군(+세분화), 열 = 차원(전체/아형/연령/남성),
+  셀 = IRR 또는 방향기호(NHW 대비 ↓낮음 / ↔유사 / ↑높음). 정량 전체값은 supplementary로.
+
+**Appendix(study characteristics) 컬럼 순서** (Appendix 1.xlsx 기준, umbrella 전용 항목 제외):
+Specific Outcome · Subgroup · Age group · Regional restriction · Model · Lead author,
+year · Effect type · Risk estimate (95% CI) · Provenance · I²(%) · RoB(NOS).
+
+## 예시 논문 Supplementary 번호체계 (그대로 대응)
+| 예시(휴대폰 논문) | 우리 대응 |
+|---|---|
+| S-Table 1 Final search strategy for each database | S1 검색식 ✅ |
+| S-Table 2 Certainty of Evidence (GRADE) | (선택) GRADE 추가 시 |
+| S-Table 4 Characteristics of included studies | S3/S4 포함연구 특성 ✅ |
+| S-Table 5 Methodological quality (AMSTAR-2) | S7 RoB(Newcastle-Ottawa) ✅ |
+| S-Figure 1 Flow diagram | S2 PRISMA ✅ |
+| Figure 1 harvest/bubble plot (x=outcome, y=근거등급) | 우리 세분화 격차 그림에 응용 가능 |
+
+
 | # | Supplementary 항목 | 소스 파일 | Feedback | 상태 |
 |---|---|---|---|---|
 | **S1 Table** | 데이터베이스별 검색식·플랫폼·검색일·검색결과수 | `../SEARCH_STRINGS_v2.md` + `../SEARCH_LOG.md` | 2번 | ✅ |

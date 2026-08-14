@@ -1,0 +1,89 @@
+Specific_Outcome,Subgroup,Age_group,Regional_restriction,Model,Lead_author_year,Effect_type,Risk_estimate,Provenance,I2,RoB_NOS
+invasive (AI/AN by region),AIAN,all ages,IHS-PRCDA,single representative,Melkonian2019_IHS-PRCDA,IRR,0.87,directly-reported-IRR,single,Good
+invasive (AI/AN by region),AIAN (Navajo),all ages,IHS-PRCDA,single representative,Nihiseah2025_Navajo,IRR,"0.49 [0.44, 0.55]",directly-reported-IRR,single,Good
+invasive (AI/AN by region),"AIAN (Northern Plains, provisional)",all ages,IHS-PRCDA,single representative,Melkonian2020_IHS-PRCDA,IRR,"1.33 [1.26, 1.41]",directly-reported-IRR,single,Good
+invasive (AI/AN by region),"AIAN (Southern Plains, provisional)",all ages,IHS-PRCDA,single representative,Melkonian2020_IHS-PRCDA,IRR,"1.25 [1.11, 1.41]",directly-reported-IRR,single,Good
+invasive (Hispanic by origin),Cuban,all ages,State: Florida,single representative,Pinheiro2009_FL,IRR,"0.755 [0.677, 0.842]",computed-from-rates-with-CI,single,Good
+invasive (Hispanic by origin),Hispanic/Latina (aggregate),all ages,NAACCR/CiNA (~93%),single representative,Howe2006_multistate,SIR,0.64,directly-reported-SIR,single,Good
+invasive (Hispanic by origin),Mexican,all ages,State: Florida,single representative,Pinheiro2009_FL,IRR,"0.503 [0.376, 0.673]",computed-from-rates-with-CI,single,Good
+invasive (Hispanic by origin),New Latino,all ages,State: Florida,single representative,Pinheiro2009_FL,IRR,"0.684 [0.619, 0.756]",computed-from-rates-with-CI,single,Good
+invasive (Hispanic by origin),Puerto Rican,all ages,State: Florida,single representative,Pinheiro2009_FL,IRR,"0.817 [0.726, 0.920]",computed-from-rates-with-CI,single,Good
+invasive female breast,Black,≥40,SEER-national,single representative,Anderson2008_SEER_19066264,IRR,0.851,computed-from-rates,single,Poor
+invasive female breast,AIAN,≥50,SEER-national,single representative,Clegg2009_SEER,IRR,0.647,computed-from-rates,single,Poor
+invasive female breast,Asian/PI (aggregate),≥50,SEER-national,single representative,Clegg2009_SEER,IRR,0.659,computed-from-rates,single,Poor
+invasive female breast,Black,≥50,SEER-national,single representative,Anderson2008_SEER13,IRR,"0.825 [0.814, 0.836]",computed-from-rates-Poisson-SE,single,Good
+invasive female breast,Filipina,≥50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"0.774 [0.700, 0.855]",computed-from-rates-with-CI,single,Good
+invasive female breast,Hispanic,≥50,SEER-national,single representative,Clegg2009_SEER,IRR,0.660,computed-from-rates,single,Poor
+invasive female breast,Japanese,≥50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"1.064 [0.978, 1.157]",computed-from-rates-with-CI,single,Good
+invasive female breast,Native Hawaiian,≥50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"1.366 [1.246, 1.499]",computed-from-rates-with-CI,single,Good
+invasive female breast,Black,<40,SEER-national,single representative,Anderson2008_SEER_19066264,IRR,1.183,computed-from-rates,single,Poor
+invasive female breast,Black (age<40),<40,SEER-national,single representative,Amirikia2008_SEER9,IRR,"1.16 [1.1, 1.23]",directly-reported-IRR,single,Good
+invasive female breast,AIAN,<50,SEER-national,single representative,Hendrick2024_SEER,IRR,"0.75 [0.72, 0.79]",directly-reported-IRR,single,Good
+invasive female breast,Asian/PI (aggregate),<50,SEER-national,single representative,Hendrick2024_SEER,IRR,"0.96 [0.95, 0.97]",directly-reported-IRR,single,Good
+invasive female breast,Black,<50,SEER-national,single representative,Hendrick2024_SEER,IRR,"1.01 [1.0, 1.03]",directly-reported-IRR,single,Good
+invasive female breast,Filipina,<50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"0.768 [0.633, 0.932]",computed-from-rates-with-CI,single,Good
+invasive female breast,Hispanic,<50,SEER-national,single representative,Hendrick2024_SEER,IRR,"0.76 [0.75, 0.77]",directly-reported-IRR,single,Good
+invasive female breast,Japanese,<50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"1.479 [1.252, 1.748]",computed-from-rates-with-CI,single,Good
+invasive female breast,Native Hawaiian,<50,Hawaii Tumor Registry (SEER),single representative,Sangaramoorthy2022_HTR,IRR,"0.858 [0.710, 1.036]",computed-from-rates-with-CI,single,Good
+invasive female breast,AIAN,all ages,IHS-PRCDA,single representative,Gopalani2020_31764279,IRR,"0.560 [0.550, 0.570]",computed-from-rates,99,Good
+invasive female breast,Asian/PI (aggregate),all ages,USCS(NPCR+SEER ~99%),single representative,MMWR2022_USCS,IRR,"0.769 [0.752, 0.788]",computed-from-rates-Poisson-SE,100,Good
+invasive female breast,Black,all ages,USCS(NPCR+SEER ~99%),single representative,MMWR2022_USCS,IRR,"0.933 [0.920, 0.946]",computed-from-rates-Poisson-SE,98,Good
+invasive female breast,Black (women),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"0.98 [0.97, 0.98]",directly-reported-IRR,single,Good
+invasive female breast,Hispanic,all ages,USCS(NPCR+SEER ~99%),single representative,MMWR2022_USCS,IRR,"0.718 [0.707, 0.731]",computed-from-rates-Poisson-SE,99,Good
+invasive (disaggregated Asian/NHPI),Asian American (aggregate),all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.788 [0.780, 0.796]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Asian Indian/Pakistani,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.952 [0.932, 0.973]",computed-from-rates-with-CI,99,Good
+invasive (disaggregated Asian/NHPI),Cambodian,all ages,California-CCR,single representative,Kem2007,IRR,"0.264 [0.204, 0.341]",computed-from-rates-Poisson-SE,single,Good
+invasive (disaggregated Asian/NHPI),Chinese,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.756 [0.741, 0.771]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Filipina,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.852 [0.835, 0.869]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Filipino (young),all ages,California-CCR,single representative,Chen2017_CCR,IRR,"0.95 [0.90, 1.01]",directly-reported-IRR,single,Good
+invasive (disaggregated Asian/NHPI),Guamanian/Chamorro/Samoan,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.719 [0.637, 0.812]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Hmong,all ages,California-CCR,single representative,Mills2005,IRR,"0.164 [0.120, 0.224]",computed-from-rates-Poisson-SE,single,Good
+invasive (disaggregated Asian/NHPI),Japanese,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"1.039 [1.003, 1.076]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Japanese (young),all ages,California-CCR,single representative,Chen2017_CCR,IRR,"1.02 [0.91, 1.14]",directly-reported-IRR,single,Good
+invasive (disaggregated Asian/NHPI),Korean,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.674 [0.651, 0.697]",computed-from-rates-with-CI,100,Good
+invasive (disaggregated Asian/NHPI),Laotian/Kampuchean,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.386 [0.348, 0.428]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),Native Hawaiian,all ages,NAACCR/CiNA (~93%),single representative,Miller2008_NAACCR-API,IRR,"1.211 [1.123, 1.305]",computed-from-rates-with-CI,0,Good
+invasive (disaggregated Asian/NHPI),Native Hawaiian/PI (aggregate),all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"1.205 [1.161, 1.251]",computed-from-rates-with-CI,single,Good
+invasive (disaggregated Asian/NHPI),South Asian,all ages,California-CCR: Greater Bay Area,single representative,Gomez2007_GBACR,IRR,NR,directly-reported-rate,single,Good
+invasive (disaggregated Asian/NHPI),Vietnamese,all ages,SEER-national,single representative,Sung2026_SEER21,IRR,"0.583 [0.562, 0.605]",computed-from-rates-with-CI,single,Good
+invasive (Middle Eastern),Middle Eastern,all ages,California-CCR,single representative,Nasseri2009,IRR,"0.86 [0.84, 0.88]",directly-reported-IRR,single,Good
+male breast cancer,Black (men),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"1.52 [1.44, 1.6]",directly-reported-IRR,single,Good
+male breast cancer,Black (men),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"2.62 [1.48, 4.43]",directly-reported-IRR,single,Good
+male breast cancer,Black (men),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"1.41 [1.32, 1.5]",directly-reported-IRR,single,Good
+male breast cancer,Black (men),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"1.65 [1.4, 1.93]",directly-reported-IRR,single,Good
+male breast cancer,Black (men),all ages,USCS(NPCR+SEER ~99%),single representative,Sung2020_USCS50,IRR,"2.27 [1.67, 3.03]",directly-reported-IRR,single,Good
+invasive female breast,Chinese (US-born),all ages,California-CCR,single representative,Gomez2010_CCR,IRR,"1.84 [1.72, 1.96]",directly-reported-IRR,single,Good
+invasive female breast,Filipina (US-born),all ages,California-CCR,single representative,Gomez2010_CCR,IRR,"1.32 [1.2, 1.44]",directly-reported-IRR,single,Good
+ERneg-PRpos subtype,Black,all ages,SEER-national,single representative,Anderson2012_SEER,IRR,1.459,computed-from-rates,single,Poor
+ERpos-PRneg subtype,Black,all ages,SEER-national,single representative,Anderson2012_SEER,IRR,0.974,computed-from-rates,single,Poor
+HRneg subtype,Black,all ages,SEER-national,single representative,Jemal2024_SEER17,IRR,"1.796 [1.740, 1.853]",computed-from-rates-with-CI,single,Good
+HRneg-HER2pos subtype,Asian-American combined,all ages,California-CCR,single representative,Chen2017_CCR,IRR,"1.21 [1.12, 1.30]",directly-reported-IRR,single,Good
+HRneg-HER2pos subtype,Asian/PI (aggregate),all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"1.41 [1.33, 1.49]",directly-reported-IRR,single,Good
+HRneg-HER2pos subtype,Black,all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"1.46 [1.38, 1.54]",directly-reported-IRR,single,Good
+HRneg-HER2pos subtype,Japanese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.88 [0.82, 0.95]",directly-reported-IRR,single,Good
+HRneg-HER2pos subtype,Native Hawaiian,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"1.19 [1.16, 1.21]",directly-reported-IRR,single,Good
+HRpos subtype,Black,all ages,SEER-national,single representative,Jemal2024_SEER17,IRR,"0.820 [0.805, 0.836]",computed-from-rates-with-CI,single,Good
+HRpos-HER2neg subtype,Asian/PI (aggregate),all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"0.87 [0.85, 0.88]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Black,all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"0.86 [0.84, 0.87]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Chinese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,0.58,directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Filipino,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.64 [0.63, 0.66]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Hispanic,all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"0.78 [0.76, 0.79]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Japanese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"1.03 [1.03, 1.04]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Native Hawaiian,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"1.12 [1.11, 1.14]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,South Asian,all ages,California-CCR,single representative,Chen2017_CCR,IRR,"1.48 [1.29, 1.69]",directly-reported-IRR,single,Good
+HRpos-HER2neg subtype,Vietnamese,all ages,California-CCR,single representative,Chen2017_CCR,IRR,"1.39 [1.12, 1.73]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Asian/PI (aggregate),all ages,SEER-national,single representative,Kohler2015_SEER18,IRR,0.842,computed-from-rates,single,Poor
+HRpos-HER2pos subtype,Black,all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"1.12 [1.08, 1.16]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Chinese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.72 [0.55, 0.9]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Filipino,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.88 [0.86, 0.91]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Hispanic,all ages,SEER-national,single representative,Kong2020_SEER18,IRR,"0.91 [0.88, 0.94]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Japanese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"1.03 [1.02, 1.05]",directly-reported-IRR,single,Good
+HRpos-HER2pos subtype,Native Hawaiian,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"1.34 [1.31, 1.37]",directly-reported-IRR,single,Good
+TNBC subtype,AIAN,all ages,USCS(NPCR+SEER ~99%),single representative,Scott2023_USCS,IRR,"0.860 [0.800, 0.930]",directly-reported-IRR,single,Good
+TNBC subtype,Asian-American combined,all ages,California-CCR,single representative,Chen2017_CCR,IRR,"0.61 [0.58, 0.65]",directly-reported-IRR,single,Good
+TNBC subtype,Asian/PI (aggregate),all ages,USCS(NPCR+SEER ~99%),single representative,Scott2023_USCS,IRR,"0.700 [0.680, 0.720]",directly-reported-IRR,94,Good
+TNBC subtype,Black,all ages,USCS(NPCR+SEER ~99%),single representative,Scott2023_USCS,IRR,"1.950 [1.930, 1.980]",directly-reported-IRR,92,Good
+TNBC subtype,Chinese,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.53 [0.39, 0.71]",directly-reported-IRR,single,Good
+TNBC subtype,Filipino,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.84 [0.8, 0.88]",directly-reported-IRR,single,Good
+TNBC subtype,Hispanic,all ages,USCS(NPCR+SEER ~99%),single representative,Scott2023_USCS,IRR,"0.860 [0.840, 0.880]",directly-reported-IRR,94,Good
+TNBC subtype,Native Hawaiian,all ages,Hawaii Tumor Registry (SEER),single representative,Loo2019_HTR,IRR,"0.86 [0.79, 0.91]",directly-reported-IRR,single,Good
