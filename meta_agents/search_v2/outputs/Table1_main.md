@@ -1,0 +1,77 @@
+# Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial/ethnic groups relative to non-Hispanic White women
+
+Values are the representative estimate per group (one per registry family). Effect measure: IRR unless noted (SIR). RoB = Newcastle-Ottawa; GRADE = certainty of evidence.
+
+
+**Overall invasive breast cancer**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | Good | Low |
+| Hispanic | IRR | 0.718 [0.707, 0.731] | MMWR2022_USCS (2018) | Good | Low |
+| Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | MMWR2022_USCS (2018) | Good | Low |
+| Black | IRR | 0.933 [0.920, 0.946] | MMWR2022_USCS (2018) | Good | Low |
+
+**Asian American / Native Hawaiian / Pacific Islander subgroups**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| Hmong | IRR | 0.164 [0.120, 0.224] | Mills2005 (Hmong 1988-2000 / NHW 1995-1999) | Good | High |
+| Cambodian | IRR | 0.264 [0.204, 0.341] | Kem2007 (1998-2002) | Good | Moderate |
+| Laotian/Kampuchean | IRR | 0.386 [0.348, 0.428] | Sung2026_SEER21 (2018-2022) | Good | Moderate |
+| Vietnamese | IRR | 0.583 [0.562, 0.605] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Korean | IRR | 0.674 [0.651, 0.697] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Guamanian/Chamorro/Samoan | IRR | 0.719 [0.637, 0.812] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Chinese | IRR | 0.756 [0.741, 0.771] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Asian American (aggregate) | IRR | 0.788 [0.780, 0.796] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Filipina | IRR | 0.852 [0.835, 0.869] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Filipino (young) | IRR | 0.95 [0.90, 1.01] | Chen2017_CCR (2009-2013) | Good | Low |
+| Asian Indian/Pakistani | IRR | 0.952 [0.932, 0.973] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Japanese (young) | IRR | 1.02 [0.91, 1.14] | Chen2017_CCR (2009-2013) | Good | Low |
+| Japanese | IRR | 1.039 [1.003, 1.076] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Native Hawaiian/PI (aggregate) | IRR | 1.205 [1.161, 1.251] | Sung2026_SEER21 (2018-2022) | Good | Low |
+| Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | Good | Low |
+
+**Hispanic/Latina by country of origin**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| Mexican | IRR | 0.503 [0.376, 0.673] | Pinheiro2009_FL (1999-2001) | Good | Low |
+| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Howe2006_multistate (1995-2000) | Good | Low |
+| New Latino | IRR | 0.684 [0.619, 0.756] | Pinheiro2009_FL (1999-2001) | Good | Low |
+| Cuban | IRR | 0.755 [0.677, 0.842] | Pinheiro2009_FL (1999-2001) | Good | Low |
+| Puerto Rican | IRR | 0.817 [0.726, 0.920] | Pinheiro2009_FL (1999-2001) | Good | Low |
+
+**American Indian / Alaska Native by region**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Nihiseah2025_Navajo (2014-2018) | Good | Moderate |
+| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | Good | Low |
+| AIAN (Southern Plains, provisional) | IRR | 1.25 [1.11, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
+| AIAN (Northern Plains, provisional) | IRR | 1.33 [1.26, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
+
+**Middle Eastern**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| Middle Eastern | IRR | 0.86 [0.84, 0.88] | Nasseri2009 (1988-2004) | Good | Low |
+
+**Triple-negative breast cancer**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| Chinese | IRR | 0.53 [0.39, 0.71] | Loo2019_HTR (2000-2016) | Good | Low |
+| Asian-American combined | IRR | 0.61 [0.58, 0.65] | Chen2017_CCR (2009-2013) | Good | Low |
+| Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Scott2023_USCS (2015-2019) | Good | Low |
+| Filipino | IRR | 0.84 [0.8, 0.88] | Loo2019_HTR (2000-2016) | Good | Low |
+| AIAN | IRR | 0.860 [0.800, 0.930] | Scott2023_USCS (2015-2019) | Good | Low |
+| Hispanic | IRR | 0.860 [0.840, 0.880] | Scott2023_USCS (2015-2019) | Good | Low |
+| Native Hawaiian | IRR | 0.86 [0.79, 0.91] | Loo2019_HTR (2000-2016) | Good | Low |
+| Black | IRR | 1.950 [1.930, 1.980] | Scott2023_USCS (2015-2019) | Good | Low |
+
+**Male breast cancer**
+
+| Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
+|----|----|----|----|----|----|
+| Black (men) | IRR | 1.52 [1.44, 1.6] | Sung2020_USCS50 (2011-2015) | Good | Low |

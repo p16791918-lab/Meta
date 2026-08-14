@@ -1,0 +1,101 @@
+#!/usr/bin/env python3
+"""Main-text Table 1: headline IRR (vs non-Hispanic White) by racial/ethnic group
+and analytic dimension, in the supervisor's format — Effect type + Risk estimate
+[low, high] + RoB (Newcastle-Ottawa) + GRADE. One headline representative per
+(dimension x group); full per-estimate detail lives in the Supplementary tables.
+"""
+import csv
+import os
+from collections import defaultdict
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(HERE, "outputs")
+REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
+LED = os.path.join(HERE, "breast_extraction.csv")
+ROB = os.path.join(OUT, "TableS_risk_of_bias.csv")
+GRADE = os.path.join(OUT, "TableS_GRADE.csv")
+
+DIMS = [
+    ("aggregate-vs-NHW", "Overall invasive breast cancer"),
+    ("disaggregated-AANHPI", "Asian American / Native Hawaiian / Pacific Islander subgroups"),
+    ("Hispanic-origin", "Hispanic/Latina by country of origin"),
+    ("AIAN", "American Indian / Alaska Native by region"),
+    ("disaggregated-MENA", "Middle Eastern"),
+    ("subtype-TNBC", "Triple-negative breast cancer"),
+    ("male-BC", "Male breast cancer"),
+]
+
+
+def main():
+    qual = {r["record_id"]: r["Overall_quality"]
+            for r in csv.DictReader(open(ROB, encoding="utf-8"))}
+    grade = {(r["dimension"], r["group"], r["record"]): r["GRADE"]
+             for r in csv.DictReader(open(GRADE, encoding="utf-8"))}
+    prov = {}
+    for r in csv.DictReader(open(LED, encoding="utf-8")):
+        prov[(r["record_id"], r["outcome_dim"], r["minority_group"], r["irr"])] = \
+            (r["provenance"], r["author_year"], r["period"])
+
+    # collect representatives per (dim, group)
+    cells = defaultdict(list)
+    for r in csv.DictReader(open(REPS, encoding="utf-8")):
+        if r["main_analysis"].startswith("yes"):
+            cells[(r["outcome_dim"], r["minority_group"])].append(r)
+
+    def pick(cands):
+        # prefer: has CI, Good RoB, highest coverage tier
+        def key(r):
+            has_ci = 1 if (r["irr_ci_lo"].strip() and r["irr_ci_hi"].strip()) else 0
+            good = 1 if qual.get(r["record_id"]) == "Good" else 0
+            return (has_ci, good, int(r["coverage_tier"]))
+        return max(cands, key=key)
+
+    DROP = {("aggregate-vs-NHW", "Black (women)")}  # duplicate aggregate Black
+    rows = []
+    for dim, dlabel in DIMS:
+        members = {g: pick(cs) for (d, g), cs in cells.items()
+                   if d == dim and (d, g) not in DROP}
+        # sort groups by IRR ascending
+        def irrval(g):
+            try:
+                return float(members[g]["irr"])
+            except ValueError:
+                return 99
+        for g in sorted(members, key=irrval):
+            r = members[g]
+            if not r["irr"].strip():
+                continue  # no usable point estimate
+            lo, hi = r["irr_ci_lo"].strip(), r["irr_ci_hi"].strip()
+            est = "%s [%s, %s]" % (r["irr"], lo, hi) if (lo and hi) else (r["irr"] + " (point est.)")
+            pv, auth, period = prov.get((r["record_id"], dim, g, r["irr"]),
+                                        ("", r["record_id"], r["period"]))
+            eff = "SIR" if "SIR" in pv else "IRR"
+            rows.append(dict(dimension=dlabel, group=g, effect=eff, estimate=est,
+                             study=auth, period=period,
+                             rob=qual.get(r["record_id"], "NA"),
+                             grade=grade.get((dim, g, r["record_id"]), "NA")))
+
+    cols = ["dimension", "group", "effect", "estimate", "study", "period", "rob", "grade"]
+    with open(os.path.join(OUT, "Table1_main.csv"), "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
+    with open(os.path.join(OUT, "Table1_main.md"), "w", encoding="utf-8") as f:
+        f.write("# Table 1. Incidence rate ratios of invasive breast cancer among "
+                "U.S. racial/ethnic groups relative to non-Hispanic White women\n\n")
+        f.write("Values are the representative estimate per group (one per registry "
+                "family). Effect measure: IRR unless noted (SIR). RoB = "
+                "Newcastle-Ottawa; GRADE = certainty of evidence.\n\n")
+        cur = None
+        for r in rows:
+            if r["dimension"] != cur:
+                cur = r["dimension"]
+                f.write("\n**%s**\n\n| Group | Effect | Estimate [95%% CI] | "
+                        "Representative study | RoB | GRADE |\n"
+                        "|----|----|----|----|----|----|\n" % cur)
+            f.write("| %s | %s | %s | %s (%s) | %s | %s |\n" % (
+                r["group"], r["effect"], r["estimate"], r["study"], r["period"],
+                r["rob"], r["grade"]))
+    print("wrote outputs/Table1_main.(csv/md) — %d rows" % len(rows))
+
+
+if __name__ == "__main__":
+    main()
