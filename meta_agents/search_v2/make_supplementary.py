@@ -19,7 +19,7 @@ def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-
 
 
 # ---- S1 search strategy ----
-H("Supplementary Table S1. Final search strategy for each database", 1)
+H("Supplementary Table 1. Final search strategy for each database", 1)
 P("Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026, English, human; document-type exclusions.", True)
 t = open(os.path.join(HERE, "..", "SEARCH_STRINGS_v2.md"), encoding="utf-8").read()
 blocks = re.findall(r"## (\d)\. ([^\n]+)\n+```\n(.*?)```", t, re.S)
@@ -36,26 +36,26 @@ for (num, title, code), m in zip(blocks, meta):
 PB()
 
 # ---- S2 PRISMA ----
-H("Supplementary Figure S2. PRISMA 2020 flow diagram", 1)
+H("Supplementary Figure 1. PRISMA 2020 flow diagram", 1)
 IMG("Fig_PRISMA.png", 760, 640)
 PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
-H("Supplementary Table S3. Characteristics of included studies (n = 163)", 1)
+H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
 inc = rd("TableS_included_studies.csv")
 rows = [[r["citation"], r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
 TB(["Study (author, year)", "Data source", "Groups vs NHW", "Synthesis"], rows, [5200, 2700, 2600, 1300])
 PB()
 
 # ---- S4 excluded (no record_id) ----
-H("Supplementary Table S4. Full-text exclusions with reasons", 1)
+H("Supplementary Table 3. Full-text exclusions with reasons", 1)
 exc = rd("TableS_excluded_fulltext.csv")
 rows = [[r["citation"], r["exclusion_reason"]] for r in exc]
 TB(["Study (author, year)", "Exclusion reason"], rows, [7200, 4500])
 PB()
 
 # ---- S5 registry overlap / representatives (author-year, full main_analysis) ----
-H("Supplementary Table S5. Registry overlap and representative selection", 1)
+H("Supplementary Table 4. Registry overlap and representative selection", 1)
 P("One representative per registry family per analytic cell for the main analysis; overlapping estimates retained for sensitivity.", True)
 rep = rd("TableSA_main_representatives.csv")
 rows = []
@@ -71,7 +71,7 @@ P("Main analysis: “yes (representative)” = the estimate carried into the mai
 PB()
 
 # ---- S6 provenance ----
-H("Supplementary Note S6. Provenance of estimates and derivation log", 1)
+H("Supplementary Note 1. Provenance of estimates and derivation log", 1)
 d = open(os.path.join(HERE, "DERIVATIONS.md"), encoding="utf-8").read()
 for line in d.split("\n"):
     line = line.rstrip()
@@ -83,7 +83,7 @@ for line in d.split("\n"):
 PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
-H("Supplementary Table S7. Risk of bias (Newcastle-Ottawa Scale, adapted)", 1)
+H("Supplementary Table 5. Risk of bias (Newcastle-Ottawa Scale, adapted)", 1)
 P("Domains: Selection (max 4), Comparability (max 2), Outcome (max 3). AI-generated first pass; reviewer to spot-check.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
 rows = [[r["study"], r["registry"], r["Selection_/4"], r["Comparability_/2"], r["Outcome_/3"], r["Overall_quality"]] for r in rob]
@@ -95,18 +95,18 @@ P("Overall quality (AHRQ thresholds): Good = Selection 3–4 AND Comparability 1
 PB()
 
 # ---- S8 GRADE ----
-H("Supplementary Table S8. GRADE certainty of evidence", 1)
+H("Supplementary Table 6. GRADE certainty of evidence", 1)
 P("Observational bodies start Low; downgrade for RoB/inconsistency/imprecision; upgrade for large magnitude (IRR≤0.5 or ≥2.0). AI first pass.", True)
 gr = rd("outputs/TableS_GRADE.csv")
 rows = [[r["dimension"], r["group"], r["IRR"], r["rob"], r["up_LargeEffect"], r["GRADE"]] for r in gr]
 TB(["Dimension", "Group", "IRR [95% CI]", "RoB", "+Large", "GRADE"], rows, [2100, 2500, 2400, 1200, 1100, 1700])
-P("RoB = Newcastle-Ottawa rating of the representative study (Table S7).", True)
+P("RoB = Newcastle-Ottawa rating of the representative study (Table 5).", True)
 P("+Large = GRADE upgrade for large magnitude of effect: +1 if IRR ≤ 0.50 or ≥ 2.00; +2 if IRR ≤ 0.20 or ≥ 5.00; otherwise 0. (Large effects are less likely to be fully explained by confounding, so the certainty is raised.)", True)
 P("GRADE = final certainty. Observational bodies of evidence start at Low and are downgraded for risk of bias (representative rated Poor), inconsistency (direction disagreement among overlapping estimates — the registry-overlap I² is not counted here), or imprecision (no confidence interval / interval crossing 1 for a near-null estimate), then upgraded by +Large. Indirectness and publication bias were judged not serious (U.S. population-based registries; census-like case ascertainment). Final: Very low ≤ 0, Low 1–2, Moderate 3, High ≥ 4. AI-generated first pass for reviewer verification.", True)
 PB()
 
 # ---- S9 heterogeneity + estimator ----
-H("Supplementary Table S9. Between-study heterogeneity and estimator comparison", 1)
+H("Supplementary Table 7. Between-study heterogeneity and estimator comparison", 1)
 P("Sensitivity = all overlapping estimates (Paule-Mandel + HKSJ); high I² reflects non-independent registry overlap. Main = one representative per family.", True)
 si = rd("outputs/Table_sensitivity_I2.csv")
 rows = [[r["dimension"], r["group"], r["k_all"], f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
@@ -116,7 +116,7 @@ P("Estimator comparison on the largest cell (aggregate Black, k=8): DL IRR 0.934
 PB()
 
 # ---- S10 sensitivity ----
-H("Supplementary Table S10. Sensitivity analyses", 1)
+H("Supplementary Table 8. Sensitivity analyses", 1)
 P("S10a. Good-RoB-only (Poor studies dropped): 82 of 90 cells unchanged, 1 changed, 7 dropped — all headline results unchanged.")
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r["group"], r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])
@@ -127,9 +127,9 @@ P("Main IRR = representative estimate in the main analysis. Sens IRR = the repre
 PB()
 
 # ---- forest figures ----
-H("Supplementary Figure S11. Forest plot — disaggregated Asian/NHPI subgroups", 1)
+H("Supplementary Figure 2. Forest plot — disaggregated Asian/NHPI subgroups", 1)
 IMG("Fig_forest_AANHPI.png", 900, 640)
-H("Supplementary Figure S12. Forest plot — aggregate groups, Hispanic origin, AI/AN region, MENA", 1)
+H("Supplementary Figure 3. Forest plot — aggregate groups, Hispanic origin, AI/AN region, MENA", 1)
 IMG("Fig_forest_overview.png", 900, 560)
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
