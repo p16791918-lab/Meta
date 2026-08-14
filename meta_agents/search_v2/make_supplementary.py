@@ -98,6 +98,9 @@ P("Observational bodies start Low; downgrade for RoB/inconsistency/imprecision; 
 gr = rd("outputs/TableS_GRADE.csv")
 rows = [[r["dimension"], r["group"], r["IRR"], r["rob"], r["up_LargeEffect"], r["GRADE"]] for r in gr]
 TB(["Dimension", "Group", "IRR [95% CI]", "RoB", "+Large", "GRADE"], rows, [2100, 2500, 2400, 1200, 1100, 1700])
+P("RoB = Newcastle-Ottawa rating of the representative study (Table S7).", True)
+P("+Large = GRADE upgrade for large magnitude of effect: +1 if IRR ≤ 0.50 or ≥ 2.00; +2 if IRR ≤ 0.20 or ≥ 5.00; otherwise 0. (Large effects are less likely to be fully explained by confounding, so the certainty is raised.)", True)
+P("GRADE = final certainty. Observational bodies of evidence start at Low and are downgraded for risk of bias (representative rated Poor), inconsistency (direction disagreement among overlapping estimates — the registry-overlap I² is not counted here), or imprecision (no confidence interval / interval crossing 1 for a near-null estimate), then upgraded by +Large. Indirectness and publication bias were judged not serious (U.S. population-based registries; census-like case ascertainment). Final: Very low ≤ 0, Low 1–2, Moderate 3, High ≥ 4. AI-generated first pass for reviewer verification.", True)
 PB()
 
 # ---- S9 heterogeneity + estimator ----
@@ -117,6 +120,7 @@ TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r
 P("S10b. Directly-reported-only (computed estimates dropped): 51 unchanged, 5 changed, 34 dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios).")
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r["group"], r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch2], [2300, 2600, 2000, 2000, 1500])
+P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in S10a; author-reported IRR/SIR only in S10b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 
 # ---- forest figures ----
