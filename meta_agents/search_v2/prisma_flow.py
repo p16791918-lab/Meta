@@ -52,7 +52,11 @@ def main():
 
     b(mx, 8.4, mw, 1.0, "Records screened\n(title/abstract) (n = 4,793)")
     arrow(ax, mx + mw / 2, 10.2, mx + mw / 2, 9.4)
-    b(rx, 8.45, rw, 0.9, "Records excluded (n = 4,551)")
+    b(rx, 7.95, rw, 1.5,
+      "Records excluded (n = 4,551):\n"
+      "not relevant to topic (n = 3,082);\n"
+      "not a US registry-based study (n = 1,296);\n"
+      "editorial / letter / conference (n = 173)")
     arrow(ax, mx + mw, 8.9, rx, 8.9)
 
     b(mx, 6.4, mw, 1.0, "Reports assessed for eligibility\n(full text) (n = 242)")
