@@ -57,9 +57,12 @@ def main():
 
     b(mx, 6.4, mw, 1.0, "Reports assessed for eligibility\n(full text) (n = 242)")
     arrow(ax, mx + mw / 2, 8.4, mx + mw / 2, 7.4)
-    b(rx, 5.9, rw, 1.7,
-      "Reports excluded (n = 79):\noverlapping / duplicate dataset;\nno age-adjusted rate by race;\n"
-      "full text unavailable;\nwrong outcome / measure")
+    b(rx, 5.7, rw, 1.9,
+      "Reports excluded (n = 79):\n"
+      "overlapping / duplicate dataset (n = 55);\n"
+      "did not report eligible outcome (n = 12);\n"
+      "full text unavailable (n = 9);\n"
+      "ineligible population (n = 3)")
     arrow(ax, mx + mw, 6.9, rx, 6.9)
 
     b(mx, 3.7, mw, 1.5,
