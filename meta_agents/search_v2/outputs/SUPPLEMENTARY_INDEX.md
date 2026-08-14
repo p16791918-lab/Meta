@@ -29,7 +29,7 @@ year · Effect type · Risk estimate (95% CI) · Provenance · I²(%) · RoB(NOS
 | 예시(휴대폰 논문) | 우리 대응 |
 |---|---|
 | S-Table 1 Final search strategy for each database | S1 검색식 ✅ |
-| S-Table 2 Certainty of Evidence (GRADE) | (선택) GRADE 추가 시 |
+| S-Table 2 Certainty of Evidence (GRADE) | **S-GRADE (추가함): High1/Mod5/Low74/VeryLow8)** ✅ |
 | S-Table 4 Characteristics of included studies | S3/S4 포함연구 특성 ✅ |
 | S-Table 5 Methodological quality (AMSTAR-2) | S7 RoB(Newcastle-Ottawa) ✅ |
 | S-Figure 1 Flow diagram | S2 PRISMA ✅ |
@@ -44,6 +44,7 @@ year · Effect type · Risk estimate (95% CI) · Provenance · I²(%) · RoB(NOS
 | **S4 Table** | 전문 제외 목록 + 사유 | `../TableS_excluded_fulltext.csv/.md` | 총평 | ✅ (재생성함) |
 | **S5 Table** | Registry 중복 + 대표연구 선정 이유 | `../TableSA_main_representatives.csv` (권위본) | 5번 | ✅ |
 | **S5b Table** | 연구별 registry·지역·기간·overlap cluster 상세 | `../TableSA_registry_overlap.csv` | 5번 | 🔧 대표컬럼 불일치(아래 주1) |
+| **S-GRADE Table** | 근거확실성(GRADE): RoB·비일관성·비직접성·비정밀성·출판비뚤림 + 대효과 상향 | `TableS_GRADE.csv/.md` | 예시 S-Table 2 | ✅ (검수 필요) |
 | **S6 Table** | 추정치 provenance 구분 + 계산 유도 로그 | `../DERIVATIONS.md` + provenance 분포(주2) | 6번 | ✅ |
 | **S7 Table** | 비뚤림 위험(Newcastle-Ottawa 적응) | `TableS_risk_of_bias.csv/.md` | 4번 | ✅ (검수 필요) |
 | **S8 Table** | 이질성: 전부포함 vs 주분석, I²·τ², 추정량(DL/REML/HKSJ) 비교 | `Table_sensitivity_I2.*` + `Table_method_comparison.md` | 6번 | ✅ |
