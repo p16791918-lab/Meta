@@ -35,7 +35,7 @@ def forest(items, title, fname, color="#2b6cb0", divider_after=None):
     # we plot bottom->top so first item is at top.
     items = list(items)
     n = len(items)
-    fig, ax = plt.subplots(figsize=(8.2, 0.42 * n + 1.4))
+    fig, ax = plt.subplots(figsize=(9.2, 0.42 * n + 1.4))
     ys = list(range(n))[::-1]
     for i, (y, (lab, irr, lo, hi)) in enumerate(zip(ys, items)):
         agg = divider_after is not None and i >= divider_after
@@ -67,7 +67,7 @@ def forest(items, title, fname, color="#2b6cb0", divider_after=None):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     ax.margins(y=0.02)
-    plt.subplots_adjust(left=0.31, right=0.80, top=0.88, bottom=0.15)
+    plt.subplots_adjust(left=0.40, right=0.82, top=0.88, bottom=0.15)
     fig.savefig(os.path.join(OUT, fname), dpi=200)
     plt.close(fig)
     print("wrote outputs/%s (%d rows)" % (fname, n))
