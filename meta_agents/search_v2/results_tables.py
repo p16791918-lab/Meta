@@ -74,9 +74,13 @@ def main():
             main_irr, mlo, mhi, mk = m["irr"], m["lo_hk"], m["hi_hk"], m["k"]
         else:
             main_irr = mlo = mhi = None; mk = 0
+        p_Q = s.get("p_Q", float("nan"))
+        p_str = "<0.001" if p_Q < 0.001 else "%.3f" % p_Q
         srows.append(dict(dimension=dim, group=grp, k_all=len(cr),
                           sens_irr=round(s["irr"], 3), sens_lo=round(s["lo_hk"], 3),
                           sens_hi=round(s["hi_hk"], 3), I2=round(s["I2"]),
+                          Q=round(s["Q"], 2), df=s["df"], p_Q=p_str,
+                          model="random-effects (PM/REML, HKSJ)",
                           tau2=round(s["tau2"], 4),
                           main_irr=round(main_irr, 3) if main_irr else "",
                           main_lo=round(mlo, 3) if main_irr else "",
@@ -91,14 +95,14 @@ def main():
         f.write("Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + "
                 "HKSJ CI); high I2 reflects non-independent overlapping registry data. "
                 "Main = single representative per registry family.\n\n")
-        f.write("| Dimension | Group | k | Sensitivity IRR (95%% CI) | I2%% | Main IRR (95%% CI) | HKSJ unstable (k<3) |\n")
-        f.write("|----|----|----|----|----|----|----|\n")
+        f.write("| Dimension | Group | k | Model | Sensitivity IRR (95%% CI) | I2%% | Q p | Main IRR (95%% CI) | HKSJ unstable (k<3) |\n")
+        f.write("|----|----|----|----|----|----|----|----|----|\n")
         for r in srows:
             mtxt = ("%.3f (%.3f-%.3f)" % (r["main_irr"], r["main_lo"], r["main_hi"])
                     if r["main_irr"] != "" else "-")
-            f.write("| %s | %s | %d | %.3f (%.3f-%.3f) | %d | %s | %s |\n" % (
-                r["dimension"], r["group"], r["k_all"], r["sens_irr"], r["sens_lo"],
-                r["sens_hi"], r["I2"], mtxt, r["hksj_unstable"]))
+            f.write("| %s | %s | %d | %s | %.3f (%.3f-%.3f) | %d | %s | %s | %s |\n" % (
+                r["dimension"], r["group"], r["k_all"], r["model"], r["sens_irr"], r["sens_lo"],
+                r["sens_hi"], r["I2"], r["p_Q"], mtxt, r["hksj_unstable"]))
 
     # ---- method comparison on largest cell ----
     biggest = max(cells.items(), key=lambda kv: len(kv[1]))

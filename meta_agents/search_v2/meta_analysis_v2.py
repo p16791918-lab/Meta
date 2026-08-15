@@ -25,7 +25,7 @@ from collections import defaultdict
 
 import numpy as np
 from scipy.optimize import brentq
-from scipy.stats import t as tdist, norm
+from scipy.stats import t as tdist, norm, chi2
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LEDGER = os.path.join(HERE, "breast_extraction.csv")
@@ -133,6 +133,8 @@ def analyse(rows, label):
                 "I2": float("nan"), "tau2": 0.0}
     out = {}
     Q, _ = fixed_Q(y, v)
+    df = k - 1
+    p_Q = float(chi2.sf(Q, df)) if df > 0 else float("nan")  # Cochran's Q heterogeneity p-value
     I2 = i2(y, v)
     for name, t2 in [("DL", tau2_DL(y, v)), ("PM/REML", tau2_PM(y, v))]:
         mu, se_re, w = pool(y, v, t2)
@@ -144,6 +146,7 @@ def analyse(rows, label):
         lo_h, hi_h = mu - tcrit * se_hk, mu + tcrit * se_hk
         out[name] = {
             "k": k, "irr": math.exp(mu), "tau2": t2, "I2": I2,
+            "Q": Q, "df": df, "p_Q": p_Q, "model": "random-effects",
             "lo_z": math.exp(lo_z), "hi_z": math.exp(hi_z),
             "lo_hk": math.exp(lo_h), "hi_hk": math.exp(hi_h),
         }

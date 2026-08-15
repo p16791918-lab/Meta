@@ -128,9 +128,12 @@ PB()
 H("Supplementary Table 8. Between-study heterogeneity and estimator comparison", 1)
 P("Sensitivity = all overlapping estimates (Paule-Mandel + HKSJ); high I² reflects non-independent registry overlap. Main = one representative per family.", True)
 si = rd("outputs/Table_sensitivity_I2.csv")
-rows = [[r["dimension"], disp_group(r["group"]), r["k_all"], f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
-TB(["Dimension", "Group", "k", "Sensitivity IRR (95% CI)", "I²", "Main IRR (95% CI)"], rows, [1900, 2200, 700, 3000, 900, 3300])
-P("k = number of overlapping estimates pooled. Sensitivity IRR = all k estimates pooled with a Paule-Mandel τ² and a Hartung-Knapp-Sidik-Jonkman confidence interval. I² is the sensitivity (all-included) value; the very high I² reflects repeated inclusion of non-independent, overlapping registry data rather than genuine between-study heterogeneity. Main IRR = the single one-per-registry-family representative, which removes that non-independence. For cells with k < 3 the HKSJ interval (t-distribution with k−1 df) is unstable and over-wide, so the point estimate should be read rather than the interval. Only cells with ≥ 2 overlapping estimates appear here.", True)
+rows = [[r["dimension"], disp_group(r["group"]), r["k_all"], "Random-effects",
+         f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", r["p_Q"],
+         (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
+TB(["Dimension", "Group", "k", "Model", "Sensitivity IRR (95% CI)", "I²", "Q p", "Main IRR (95% CI)"],
+   rows, [1700, 1950, 500, 1500, 2500, 750, 850, 2300])
+P("k = number of overlapping estimates pooled. Model = random-effects for every cell (Paule-Mandel/REML τ² with a Hartung-Knapp-Sidik-Jonkman confidence interval); no fixed-effect model was used. Sensitivity IRR = all k estimates pooled. I² and Q p = the between-study heterogeneity of the all-included (sensitivity) pool; Q p is the p-value of Cochran's Q (χ² with k−1 df). The very high I² / small Q p here reflect repeated inclusion of non-independent, overlapping registry data rather than genuine between-study heterogeneity — which is why it is NOT treated as inconsistency in the GRADE framework (Table 6) and why the main analysis collapses to one representative per registry family. Main IRR = that single representative, which removes the non-independence. For cells with k < 3 the HKSJ interval (t with k−1 df) is unstable and over-wide, so read the point estimate rather than the interval. Only cells with ≥ 2 overlapping estimates appear here.", True)
 P("Estimator comparison (τ² method and confidence-interval method) for every cell "
   "with ≥2 overlapping estimates. Cells marked * have k < 3, where the "
   "Hartung-Knapp interval (t with k−1 df) is unstable; read the point estimate.", True)
