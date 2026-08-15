@@ -48,13 +48,15 @@ PB()
 # ==== Table 2. Aggregate meta-analysis results (k, model, IRR, I2, Q p) ====
 H("Table 2. Aggregate meta-analysis of invasive breast cancer incidence by "
   "racial and ethnic group", 1)
-P("Random-effects meta-analysis (Paule-Mandel/REML τ² with Hartung-Knapp-"
-  "Sidik-Jonkman confidence interval); no fixed-effect model was used. k = number of "
-  "estimates pooled in the all-included (sensitivity) analysis; I² and Cochran's Q "
-  "p-value describe that pool. The main analysis uses one estimate per registry family "
-  "to remove non-independence; the very high I² reflects overlapping registry data "
-  "rather than genuine between-study heterogeneity (see Supplementary Table 8 and the "
-  "GRADE framework).", True)
+P("Primary result = the main-analysis IRR, a single representative estimate per "
+  "registry family (no pooling, so no k / I² / heterogeneity test apply to it). The "
+  "sensitivity analysis pools every overlapping registry estimate for the cell with a "
+  "random-effects model (Paule-Mandel/REML τ², Hartung-Knapp-Sidik-Jonkman CI); the "
+  "No. of estimates, I², and Cochran's Q p-value below describe THAT pool. Because those "
+  "estimates repeatedly include the same nested registries (SEER ⊂ NAACCR ⊂ USCS), they "
+  "are not independent — hence the very high I² / small Q p is a non-independence artifact, "
+  "not genuine between-study heterogeneity (Supplementary Table 8; GRADE framework, "
+  "Table 6). Concordance of the two columns indicates the direction is robust.", True)
 si = {(r["dimension"], r["group"]): r for r in rd("outputs/Table_sensitivity_I2.csv")}
 order = [("aggregate-vs-NHW", "Black"), ("aggregate-vs-NHW", "Hispanic"),
          ("aggregate-vs-NHW", "Asian/PI (aggregate)"), ("aggregate-vs-NHW", "AIAN"),
@@ -65,15 +67,17 @@ for dim, grp in order:
     r = si.get((dim, grp))
     if not r:
         continue
-    pooled = "%s (%s-%s)" % (r["sens_irr"], r["sens_lo"], r["sens_hi"])
     main = ("%s (%s-%s)" % (r["main_irr"], r["main_lo"], r["main_hi"])) if r["main_irr"] else "-"
-    rows.append(["%s — %s" % (label[dim], disp_group(grp)), r["k_all"], "Random-effects",
-                 pooled, r["I2"] + "%", r["p_Q"], main])
-TB(["Comparison (vs NHW)", "k", "Model", "Pooled IRR (95% CI)", "I²", "Q p",
-    "Main IRR (one-per-family)"], rows, [3400, 700, 1900, 2700, 800, 1000, 2900])
+    pooled = "%s (%s-%s)" % (r["sens_irr"], r["sens_lo"], r["sens_hi"])
+    rows.append(["%s — %s" % (label[dim], disp_group(grp)), main, pooled,
+                 r["k_all"], "Random-effects", r["I2"] + "%", r["p_Q"]])
+TB(["Comparison (vs NHW)", "Main IRR (95% CI)\n[primary, one-per-family]",
+    "Sensitivity IRR (95% CI)\n[all overlapping]", "No. of estimates", "Model", "I²", "Q p"],
+   rows, [2900, 2500, 2500, 1200, 1500, 700, 900])
 P("AIAN main analysis uses the Indian Health Service–linked (undercount-corrected) "
-  "representative; the higher unlinked SEER value (0.71) appears only in the sensitivity "
-  "pool. Pooled and main IRRs agree closely for all other groups.", True)
+  "representative; the higher unlinked SEER value (0.71) enters only the sensitivity pool. "
+  "Main and sensitivity estimates agree closely in direction for all groups. No. of "
+  "estimates / I² / Q p are properties of the sensitivity pool only.", True)
 PB()
 
 # ==== Figures ====
