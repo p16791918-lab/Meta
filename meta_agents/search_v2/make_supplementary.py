@@ -118,13 +118,13 @@ PB()
 
 # ---- S10 sensitivity ----
 H("Supplementary Table 9. Sensitivity analyses", 1)
-P("S10a. Good-RoB-only (Poor studies dropped): 82 of 90 cells unchanged, 1 changed, 7 dropped — all headline results unchanged.")
+P("Table 9a. Good-RoB-only (Poor studies dropped): 82 of 90 cells unchanged, 1 changed, 7 dropped — all headline results unchanged.")
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r["group"], r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])
-P("S10b. Directly-reported-only (computed estimates dropped): 51 unchanged, 5 changed, 34 dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios).")
+P("Table 9b. Directly-reported-only (computed estimates dropped): 51 unchanged, 5 changed, 34 dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios).")
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r["group"], r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch2], [2300, 2600, 2000, 2000, 1500])
-P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in S10a; author-reported IRR/SIR only in S10b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
+P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in Table 9a; author-reported IRR/SIR only in Table 9b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 
 # ==== NOTES (after all tables) ====
