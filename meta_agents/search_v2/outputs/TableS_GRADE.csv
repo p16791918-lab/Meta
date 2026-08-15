@@ -1,7 +1,7 @@
 dimension,group,record,IRR,rob,d_RoB,d_Incons,d_Indirect,d_Imprec,d_PubBias,up_LargeEffect,I2_allincl,GRADE
 aggregate-vs-NHW,AIAN,500,"0.560 [0.550, 0.570]",Good,0,0,0,0,0,0,99,Low
 aggregate-vs-NHW,Asian/PI (aggregate),169,"0.769 [0.752, 0.788]",Good,0,0,0,0,0,0,100,Low
-aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,99,Low
+aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,97,Low
 aggregate-vs-NHW,Black (women),2406,"0.98 [0.97, 0.98]",Good,0,0,0,0,0,0,single,Low
 aggregate-vs-NHW,Hispanic,169,"0.718 [0.707, 0.731]",Good,0,0,0,0,0,0,99,Low
 disaggregated-AANHPI,Asian American (aggregate),234,"0.788 [0.780, 0.796]",Good,0,0,0,0,0,0,single,Low
@@ -83,7 +83,7 @@ age-ge50,Native Hawaiian,522,"1.366 [1.246, 1.499]",Good,0,0,0,0,0,0,single,Low
 age-lt50,Native Hawaiian,522,"0.858 [0.710, 1.036]",Good,0,0,0,0,0,0,single,Low
 subtype-HRneg-HER2pos,Native Hawaiian,161,"1.19 [1.16, 1.21]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos-HER2neg,Native Hawaiian,161,"1.12 [1.11, 1.14]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2pos,Native Hawaiian,161,"1.34 [1.31, 1.37]",Good,0,0,0,0,0,0,single,Low
+subtype-HRpos-HER2pos,Native Hawaiian,161,"1.35 [1.347, 1.351]",Good,0,0,0,0,0,0,single,Low
 subtype-TNBC,Native Hawaiian,161,"0.86 [0.79, 0.91]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos-HER2neg,South Asian,324,"1.48 [1.29, 1.69]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos-HER2neg,Vietnamese,324,"1.39 [1.12, 1.73]",Good,0,0,0,0,0,0,single,Low

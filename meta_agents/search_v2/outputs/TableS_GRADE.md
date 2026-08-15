@@ -90,7 +90,7 @@ Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
 | age-lt50 | Native Hawaiian | 0.858 [0.710, 1.036] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRneg-HER2pos | Native Hawaiian | 1.19 [1.16, 1.21] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2neg | Native Hawaiian | 1.12 [1.11, 1.14] | Good | 0 | 0 | 0 | +0 | **Low** |
-| subtype-HRpos-HER2pos | Native Hawaiian | 1.34 [1.31, 1.37] | Good | 0 | 0 | 0 | +0 | **Low** |
+| subtype-HRpos-HER2pos | Native Hawaiian | 1.35 [1.347, 1.351] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-TNBC | Native Hawaiian | 0.86 [0.79, 0.91] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2neg | South Asian | 1.48 [1.29, 1.69] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2neg | Vietnamese | 1.39 [1.12, 1.73] | Good | 0 | 0 | 0 | +0 | **Low** |

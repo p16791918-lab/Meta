@@ -108,7 +108,7 @@ One estimate per registry family; not pooled across groups.
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
 | Japanese | 1.030 | 1.015-1.045 | 161 |
 | Black | 1.120 | 1.081-1.161 | 286 |
-| Native Hawaiian | 1.340 | 1.310-1.370 | 161 |
+| Native Hawaiian | 1.350 | 1.348-1.352 | 161 |
 
 **age-lt50**
 

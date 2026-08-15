@@ -80,7 +80,7 @@ subtype-HRpos-HER2pos,Chinese,national,0.72,161,0.72,161,unchanged,1,1
 subtype-HRpos-HER2pos,Filipino,national,0.88,161,0.88,161,unchanged,1,1
 subtype-HRpos-HER2pos,Hispanic,national,0.91,286,0.91,286,unchanged,2,1
 subtype-HRpos-HER2pos,Japanese,national,1.03,161,1.03,161,unchanged,1,1
-subtype-HRpos-HER2pos,Native Hawaiian,national,1.34,161,1.34,161,unchanged,1,1
+subtype-HRpos-HER2pos,Native Hawaiian,national,1.35,161,1.35,161,unchanged,1,1
 subtype-TNBC,AIAN,national,0.860,155,0.860,155,unchanged,1,1
 subtype-TNBC,Asian-American combined,national,0.61,324,0.61,324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),national,0.700,155,0.700,155,unchanged,3,2
