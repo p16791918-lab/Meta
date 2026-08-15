@@ -113,7 +113,24 @@ si = rd("outputs/Table_sensitivity_I2.csv")
 rows = [[r["dimension"], r["group"], r["k_all"], f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
 TB(["Dimension", "Group", "k", "Sensitivity IRR (95% CI)", "I²", "Main IRR (95% CI)"], rows, [1900, 2200, 700, 3000, 900, 3300])
 P("k = number of overlapping estimates pooled. Sensitivity IRR = all k estimates pooled with a Paule-Mandel τ² and a Hartung-Knapp-Sidik-Jonkman confidence interval. I² is the sensitivity (all-included) value; the very high I² reflects repeated inclusion of non-independent, overlapping registry data rather than genuine between-study heterogeneity. Main IRR = the single one-per-registry-family representative, which removes that non-independence. For cells with k < 3 the HKSJ interval (t-distribution with k−1 df) is unstable and over-wide, so the point estimate should be read rather than the interval. Only cells with ≥ 2 overlapping estimates appear here.", True)
-P("Estimator comparison on the largest cell (aggregate Black, k=8): DL IRR 0.934 (τ²=0.0011, I²=98%), HKSJ 0.901–0.969; Paule-Mandel/REML IRR 0.935 (τ²=0.0018), HKSJ 0.902–0.969.")
+P("Estimator comparison (τ² method and confidence-interval method) for every cell "
+  "with ≥2 overlapping estimates. Cells marked * have k < 3, where the "
+  "Hartung-Knapp interval (t with k−1 df) is unstable; read the point estimate.", True)
+ec = rd("outputs/Table_estimator_comparison.csv")
+ecrows = [[f"{r['group']}{r['klt3']}", r["k"],
+           f"{r['dl_irr']} ({r['dl_ci']})", r["dl_tau2"],
+           f"{r['pm_irr']} ({r['pm_ci']})", r["pm_tau2"],
+           r["hksj_ci"], r["i2"] + "%"] for r in ec]
+TB(["Group", "k", "DerSimonian-Laird IRR (95% CI)", "DL τ²",
+    "Paule-Mandel / REML IRR (95% CI)", "PM τ²", "HKSJ 95% CI", "I²"],
+   ecrows, [2400, 600, 2900, 900, 2900, 900, 1900, 700])
+P("Across the four cells with ≥3 estimates (Black, Hispanic, Asian/Pacific Islander, "
+  "American Indian/Alaska Native), the DerSimonian-Laird and Paule-Mandel/REML pooled "
+  "IRRs differ by ≤0.001, and the Hartung-Knapp interval is wider than the z-based "
+  "interval; the pooled estimate is therefore robust to the choice of τ² estimator and "
+  "interval method. The main analysis nonetheless relies on one representative per "
+  "registry family rather than these pooled values, because the estimates are not "
+  "independent.", True)
 PB()
 
 # ---- S10 sensitivity ----

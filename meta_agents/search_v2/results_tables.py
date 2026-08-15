@@ -119,7 +119,25 @@ def main():
                 "non-independent overlapping registry estimates, not to real "
                 "biological heterogeneity; the main analysis avoids it by using one "
                 "representative per registry family.\n")
-    print("wrote outputs/Table_main_forest, Table_sensitivity_I2, Table_method_comparison")
+    # ---- per-cell estimator comparison (DL vs PM/REML vs HKSJ) ----
+    ec = []
+    for (dim, grp), cr in cells.items():
+        if len(cr) < 2:
+            continue
+        res = M.analyse(cr, "x")
+        dl, pm = res["DL"], res["PM/REML"]
+        ec.append(dict(dimension=dim, group=grp, k=len(cr),
+                       dl_irr="%.3f" % dl["irr"], dl_ci="%.3f-%.3f" % (dl["lo_z"], dl["hi_z"]),
+                       dl_tau2="%.4f" % dl["tau2"], pm_irr="%.3f" % pm["irr"],
+                       pm_ci="%.3f-%.3f" % (pm["lo_z"], pm["hi_z"]), pm_tau2="%.4f" % pm["tau2"],
+                       hksj_ci="%.3f-%.3f" % (pm["lo_hk"], pm["hi_hk"]), i2="%.0f" % pm["I2"],
+                       klt3=("*" if len(cr) < 3 else "")))
+    ec.sort(key=lambda x: (x["klt3"] != "", x["dimension"], x["group"]))
+    with open(os.path.join(OUT, "Table_estimator_comparison.csv"), "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=list(ec[0].keys()))
+        w.writeheader(); w.writerows(ec)
+
+    print("wrote outputs/Table_main_forest, Table_sensitivity_I2, Table_method_comparison, Table_estimator_comparison")
     print("main-forest rows:", len(frows), "| multi-estimate cells:", len(srows))
 
 
