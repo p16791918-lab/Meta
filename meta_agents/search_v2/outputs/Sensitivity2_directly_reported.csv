@@ -1,8 +1,8 @@
 dimension,group,family,main_irr,main_rec,sens_irr,sens_rec,status,n_all,n_kept
-aggregate-vs-NHW,AIAN,national,0.683,169,0.58,66,changed,4,2
-aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.92,66,changed,4,2
-aggregate-vs-NHW,Black,national,0.933,169,0.97,66,changed,8,2
-aggregate-vs-NHW,Hispanic,national,0.718,169,0.75,66,changed,6,2
+aggregate-vs-NHW,AIAN,national,0.683,169,0.58,66,changed,5,2
+aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.92,66,changed,5,2
+aggregate-vs-NHW,Black,national,0.933,169,0.97,66,changed,9,2
+aggregate-vs-NHW,Hispanic,national,0.718,169,0.75,66,changed,7,2
 disaggregated-AANHPI,Asian Indian/Pakistani,national,0.958,234,0.61,955,changed,2,1
 Hispanic-origin,Cuban,national,0.755,3182,,,dropped,1,0
 Hispanic-origin,Mexican,national,0.503,3182,,,dropped,1,0
@@ -84,7 +84,7 @@ subtype-HRpos-HER2pos,Native Hawaiian,national,1.35,161,1.35,161,unchanged,1,1
 subtype-TNBC,AIAN,national,0.860,155,0.860,155,unchanged,1,1
 subtype-TNBC,Asian-American combined,national,0.61,324,0.61,324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),national,0.700,155,0.700,155,unchanged,3,2
-subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,4,2
+subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,5,2
 subtype-TNBC,Chinese,national,0.53,161,0.53,161,unchanged,1,1
 subtype-TNBC,Filipino,national,0.84,161,0.84,161,unchanged,1,1
 subtype-TNBC,Hispanic,national,0.860,155,0.860,155,unchanged,3,2

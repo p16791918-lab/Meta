@@ -23,7 +23,7 @@ Overall (43 studies): {'Good': 40, 'Poor': 3}. Main-analysis representatives (28
 | 199 | Baquet2008_SEER9 | SEER 9 | 1995-2004 | Y | 4 | 2 | 3 | **Good** |
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Y | 4 | 2 | 3 | **Good** |
 | 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | s | 4 | 2 | 3 | **Good** |
-| 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Y | 4 | 2 | 3 | **Good** |
+| 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Y | 3 | 2 | 3 | **Good** |
 | 236 | Gomez2010_CCR | California Cancer Registry | 1988-2004 | Y | 4 | 2 | 3 | **Good** |
 | 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Y | 4 | 2 | 3 | **Good** |
 | 286 | Kong2020_SEER18 | SEER 18 | 2010-2015 | Y | 4 | 2 | 3 | **Good** |

@@ -28,11 +28,11 @@ age-lt50,Hispanic,national,0.76,146,0.76,146,unchanged,1,1
 age-lt50,Japanese,national,1.479,522,1.479,522,unchanged,1,1
 age-lt50,Native Hawaiian,national,0.858,522,0.858,522,unchanged,1,1
 aggregate-vs-NHW,AIAN,IHS-PRCDA,0.560,500,0.560,500,unchanged,1,1
-aggregate-vs-NHW,AIAN,national,0.683,169,0.683,169,unchanged,4,4
-aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.769,169,unchanged,4,4
-aggregate-vs-NHW,Black,national,0.933,169,0.933,169,unchanged,8,8
+aggregate-vs-NHW,AIAN,national,0.683,169,0.683,169,unchanged,5,5
+aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.769,169,unchanged,5,5
+aggregate-vs-NHW,Black,national,0.933,169,0.933,169,unchanged,9,9
 aggregate-vs-NHW,Black (women),national,0.98,2406,0.98,2406,unchanged,1,1
-aggregate-vs-NHW,Hispanic,national,0.718,169,0.718,169,unchanged,6,6
+aggregate-vs-NHW,Hispanic,national,0.718,169,0.718,169,unchanged,7,7
 disaggregated-AANHPI,Asian American (aggregate),national,0.792,234,0.792,234,unchanged,1,1
 disaggregated-AANHPI,Asian Indian/Pakistani,national,0.958,234,0.958,234,unchanged,2,2
 disaggregated-AANHPI,Cambodian,national,0.264,3267,0.264,3267,unchanged,1,1
@@ -84,7 +84,7 @@ subtype-HRpos-HER2pos,Native Hawaiian,national,1.35,161,1.35,161,unchanged,1,1
 subtype-TNBC,AIAN,national,0.860,155,0.860,155,unchanged,1,1
 subtype-TNBC,Asian-American combined,national,0.61,324,0.61,324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),national,0.700,155,0.700,155,unchanged,3,3
-subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,4,3
+subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,5,4
 subtype-TNBC,Chinese,national,0.53,161,0.53,161,unchanged,1,1
 subtype-TNBC,Filipino,national,0.84,161,0.84,161,unchanged,1,1
 subtype-TNBC,Hispanic,national,0.860,155,0.860,155,unchanged,3,3
