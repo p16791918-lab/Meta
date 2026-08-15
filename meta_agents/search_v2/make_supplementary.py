@@ -20,6 +20,16 @@ def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
 from labels import disp_group
 def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
+# First-author labels for the 163 included studies, derived offline from the raw
+# search dumps (MEDLINE FAU / Embase / Scopus / WoS), keyed by record_id. Used to
+# put a real author on the "Study (author, year)" column instead of title-only.
+AUTHORS = json.load(open(os.path.join(HERE, "author_labels.json"), encoding="utf-8"))
+def study_cell(r):
+    au = AUTHORS.get(r["record_id"], "").strip()
+    if not au:
+        return r["citation"]
+    sep = " " if au.endswith(".") else ". "   # avoid "et al.." double period
+    return au + sep + r["citation"]
 
 
 # ---- S1 search strategy ----
@@ -39,7 +49,7 @@ PB()
 # ---- S3 included (author-year via citation; no record_id) ----
 H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
 inc = rd("TableS_included_studies.csv")
-rows = [[r["citation"], r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
+rows = [[study_cell(r), r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
 TB(["Study (author, year)", "Data source", "Groups vs NHW", "Synthesis"], rows, [5200, 2700, 2600, 1300])
 PB()
 
