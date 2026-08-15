@@ -1,8 +1,10 @@
 # Author-attribution audit — internal author_year vs. published first author
 
-The internal `author_year` shorthand in `breast_extraction.csv` was hand-entered during extraction. Cross-checking each included study against the FIRST AUTHOR of the paper identified by its PMID/DOI (from the raw MEDLINE/Embase/Scopus/WoS search dumps) surfaced the mismatches below. Supplementary Table 2 uses the published first author (authoritative). Whether to also relabel the forest-plot / Note 1 / representative-table shorthand is a separate decision — some mismatches are simple label errors (relabel), others may indicate a wrong PMID linked to the row (do NOT relabel; fix the link instead).
+The internal `author_year` shorthand in `breast_extraction.csv` was hand-entered during extraction. Cross-checking each included study against the FIRST AUTHOR of the paper identified by its PMID/DOI (from the raw MEDLINE/Embase/Scopus/WoS search dumps) surfaced the mismatches below.
 
-Total mismatches: **23** of 44 extracted studies.
+**RESOLVED.** All 23 were verified against each row's title/registry/period and found to be simple author-label errors (the linked PMID/DOI is correct; only the hand-entered surname/year was wrong — e.g. three Scarlett Lin Gomez California-registry papers were recorded as Sung/Chen/Wu, and the Hendrick↔Xu and Ellington↔Xie pairs were swapped). No wrong-PMID (type-B) cases were found. `breast_extraction.csv author_year` has been corrected to the published first author across all rows, propagating through the representative table, forest plots (`label()`), Note 1 (`DERIVATIONS.md`), Table 1, and GRADE. Supplementary Table 2 independently uses the dump-derived first author. Statistics are unchanged (author labels do not enter any computation). This table is retained as the provenance record of the correction.
+
+Total corrected: **23** of 44 extracted studies.
 
 | rec | internal author_year | published first author (per PMID) | PMID | Title |
 |---|---|---|---|---|

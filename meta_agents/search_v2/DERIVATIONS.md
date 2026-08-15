@@ -7,7 +7,7 @@ auditable. Rows whose `provenance` is `directly-reported-IRR` / `-SIR` are
 taken verbatim from the paper and are NOT in this log.
 
 ## 1. Age-standardization from age-specific rates
-- **rec 2 (Kohler 2015, Suppl Table 3).** The supplement reports 5-year
+- **rec 2 (Howlader 2014, Suppl Table 3).** The supplement reports 5-year
   age-specific incidence rates (ages 20–85+) by race × subtype, not a single
   age-adjusted rate. We age-standardized each race's 14 age-specific rates to
   the **2000 US standard population** (Census P25-1130 weights for the 20–85+
@@ -49,7 +49,7 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
   IRR 0.264 (0.204-0.341).
 
 ## 4. External NHW comparator (study reports minority only)
-- **rec 234 (Sung 2026).** Reports disaggregated AANHPI rates but no numeric NHW.
+- **rec 234 (Gomez 2026).** Reports disaggregated AANHPI rates but no numeric NHW.
   Paired with the **SEER-Explorer** NHW female-breast rate, same submission
   (Nov 2025), same registry set (SEER-21), same standard (2000 US), same
   period-window handling (non-delay-adjusted, 2018–2022 mean = 140.3). Documented;
@@ -58,7 +58,7 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
   not the NHW-FL rate; NHW-FL ≈ 143 (2000 US std) was back-derived so computed
   IRRs reproduce the authors' rounded ratios (0.8/0.5/0.8/0.7) — flagged to
   refine if the exact NHW is obtained.
-- **rec 51 (ANTR 2021, Alaska Native).** Paper is ANTR-only (Alaska Native
+- **rec 51 (Nash 2022, Alaska Native).** Paper is ANTR-only (Alaska Native
   people), no in-paper NHW. AN female breast 130.8 (116.7-146.0), 2014-2018,
   2000 US std. Paired with SEER-Explorer NHW observed annual mean for the SAME
   window (2014-2018 = 137.4, 2000 US std). IRR 0.952 (0.851-1.065). NOTE: this

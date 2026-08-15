@@ -15,7 +15,6 @@ review(AMSTAR-2+GRADE)지만 우리는 1차연구 메타분석이라 RoB=Newcast
   (예시가 `odds ratio (OR) = 1.01; 95% CI = ...` 형식 → 지표만 IRR로)
 - 표 안: `Effect type` 컬럼(IRR/SIR) + `Risk estimate (95% CI)`를 **`0.93 [0.92, 0.95]`**
   (대괄호+쉼표, Appendix 1.xlsx와 동일). 우리 기존 `(0.92-0.95)` → `[0.92, 0.95]`로 통일.
-- 변환 완료본: `TableS4_characteristics_profformat.csv` (대표 88행, 교수님 컬럼 순서).
 
 **본문 Table 1 = 방향 요약 매트릭스** (예시 "Summary of associations" 모방)
 - 행 = 인종·민족군(+세분화), 열 = 차원(전체/아형/연령/남성),
