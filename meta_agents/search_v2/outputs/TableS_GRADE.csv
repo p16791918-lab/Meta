@@ -1,7 +1,7 @@
 dimension,group,record,IRR,rob,d_RoB,d_Incons,d_Indirect,d_Imprec,d_PubBias,up_LargeEffect,I2_allincl,GRADE
 aggregate-vs-NHW,AIAN,500,"0.560 [0.550, 0.570]",Good,0,0,0,0,0,0,99,Low
 aggregate-vs-NHW,Asian/PI (aggregate),169,"0.769 [0.752, 0.788]",Good,0,0,0,0,0,0,100,Low
-aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,97,Low
+aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,96,Low
 aggregate-vs-NHW,Black (women),2406,"0.98 [0.97, 0.98]",Good,0,0,0,0,0,0,single,Low
 aggregate-vs-NHW,Hispanic,169,"0.718 [0.707, 0.731]",Good,0,0,0,0,0,0,99,Low
 disaggregated-AANHPI,Asian American (aggregate),234,"0.792 [0.784, 0.800]",Good,0,0,0,0,0,0,single,Low
@@ -53,7 +53,7 @@ subtype-HRneg-HER2pos,Black,286,"1.46 [1.38, 1.54]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos,Black,10,"0.820 [0.805, 0.836]",Good,0,0,0,0,0,0,99,Low
 subtype-HRpos-HER2neg,Black,286,"0.86 [0.84, 0.87]",Good,0,0,0,0,0,0,98,Low
 subtype-HRpos-HER2pos,Black,286,"1.12 [1.08, 1.16]",Good,0,0,0,0,0,0,79,Low
-subtype-TNBC,Black,155,"1.950 [1.930, 1.980]",Good,0,0,0,0,0,0,88,Low
+subtype-TNBC,Black,155,"1.950 [1.930, 1.980]",Good,0,0,0,0,0,0,84,Low
 age-lt40,Black (age<40),199,"1.16 [1.1, 1.23]",Good,0,0,0,0,0,0,single,Low
 male-BC-HRneg-HER2pos,Black (men),2406,"2.62 [1.48, 4.43]",Good,0,0,0,0,0,1,single,Moderate
 male-BC-HRpos-HER2neg,Black (men),2406,"1.41 [1.32, 1.5]",Good,0,0,0,0,0,0,single,Low
