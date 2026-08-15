@@ -18,6 +18,7 @@ def GT(groups, subs, rows, w): M.append({"type": "gtable", "groups": groups, "su
 def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
+def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
 
 
 # ---- S1 search strategy ----
@@ -55,7 +56,7 @@ rep = rd("TableSA_main_representatives.csv")
 rows = []
 for r in rep:
     irr = r["irr"]; ci = f" [{r['irr_ci_lo']}, {r['irr_ci_hi']}]" if r['irr_ci_lo'] else ""
-    rows.append([r["author_year"], r["outcome_dim"], r["minority_group"],
+    rows.append([cite(r["author_year"]), r["outcome_dim"], r["minority_group"],
                  r["registry_family"], r["period"], (irr + ci) if irr else "-",
                  r["main_analysis"]])
 TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", "Main analysis"],
@@ -69,7 +70,7 @@ H("Supplementary Table 5. Risk of bias (Newcastle-Ottawa Scale, adapted)", 1)
 P("Each cell shows 1 where the item was met (blank = not met). Selection (max 4): S1–S4; Comparability (max 2): C1–C2; Outcome (max 3): O1–O3. AI-generated first pass; reviewer to spot-check.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
 def _s(v): return "1" if v.strip() == "1" else ""
-rrows = [[r["study"], _s(r["S1_representative"]), _s(r["S2_samplesize"]), _s(r["S3_race_ascertain"]),
+rrows = [[cite(r["study"]), _s(r["S1_representative"]), _s(r["S2_samplesize"]), _s(r["S3_race_ascertain"]),
           _s(r["S4_completeness"]), _s(r["C1_agestd"]), _s(r["C2_comparable"]),
           _s(r["O1_outcome"]), _s(r["O2_stats_CI"]), _s(r["O3_analysis"]), r["Overall_quality"]] for r in rob]
 GT([["Study", 1, True], ["Selection", 4, False], ["Comparability", 2, False], ["Outcome", 3, False], ["Quality", 1, True]],
@@ -128,14 +129,29 @@ PB()
 
 # ==== NOTES (after all tables) ====
 H("Supplementary Note 1. Provenance of estimates and derivation log", 1)
+# map internal record_id -> readable author-year (reader-facing, like the tables)
+_ay = {}
+for r in csv.DictReader(open(os.path.join(HERE, "breast_extraction.csv"), encoding="utf-8")):
+    if r["record_id"] != "SEER-EXPL":
+        _ay.setdefault(r["record_id"], re.sub(r"(\d{4})", r" \1", r["author_year"].split("_")[0]).strip())
+_ay.update({"461": "the Northern Plains AI/AN study",
+            "1336": "the npj Breast Cancer 2026 mortality study",
+            "2548": "Oyenuga 2018 (Hmong-Minnesota)"})
+
+def _rec(text):
+    text = re.sub(r"rec (\d+)/(\d+)", r"rec \1, rec \2", text)      # expand rec a/b
+    text = re.sub(r"rec \d+ (\()", r"\1", text)                     # drop prefix if author-year follows in ()
+    text = re.sub(r"rec (\d+)", lambda m: _ay.get(m.group(1), "study " + m.group(1)), text)
+    return text.replace("**", "")                                   # strip markdown bold
+
 d = open(os.path.join(HERE, "DERIVATIONS.md"), encoding="utf-8").read()
 for line in d.split("\n"):
     line = line.rstrip()
     if not line: continue
-    if line.startswith("## "): H(line[3:], 2)
+    if line.startswith("## "): H(_rec(line[3:]), 2)
     elif line.startswith("# "): pass
-    elif line.startswith("- ") or line.startswith("  "): P("• " + line.strip("- ").strip())
-    else: P(line)
+    elif line.startswith("- ") or line.startswith("  "): P("• " + _rec(line.strip("- ").strip()))
+    else: P(_rec(line))
 PB()
 
 # ==== FIGURES (grouped at the end, like the example paper) ====
