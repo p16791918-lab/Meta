@@ -29,7 +29,7 @@ year · Effect type · Risk estimate (95% CI) · Provenance · I²(%) · RoB(NOS
 | 예시(휴대폰 논문) | 우리 대응 |
 |---|---|
 | S-Table 1 Final search strategy for each database | S1 검색식 ✅ |
-| S-Table 2 Certainty of Evidence (GRADE) | **S-GRADE (추가함): High1/Mod5/Low74/VeryLow8)** ✅ |
+| S-Table 2 Certainty of Evidence (GRADE) | **S-GRADE (추가함): High1/Mod5/Low67/VeryLow15)** ✅ |
 | S-Table 4 Characteristics of included studies | S3/S4 포함연구 특성 ✅ |
 | S-Table 5 Methodological quality (AMSTAR-2) | S7 RoB(Newcastle-Ottawa) ✅ |
 | S-Figure 1 Flow diagram | S2 PRISMA ✅ |

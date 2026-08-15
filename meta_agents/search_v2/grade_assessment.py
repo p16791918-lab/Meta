@@ -5,7 +5,7 @@ Appendix (Study limitations/RoB, Inconsistency, Indirectness, Imprecision,
 Publication bias; upgrade for Large magnitude of effect).
 
 GRADE for a body of OBSERVATIONAL (registry/population-based) evidence:
-  Start = LOW (2/4).
+  Start = LOW (baseline score 0; supervisor GRADE-informed convention).
   Downgrade (-1 each):
     - Risk of bias      : representative study rated Poor (Newcastle-Ottawa).
     - Inconsistency     : all-included estimates for the cell disagree in
@@ -21,8 +21,8 @@ GRADE for a body of OBSERVATIONAL (registry/population-based) evidence:
                           to selective publication) -> 0.
   Upgrade (observational):
     - Large magnitude   : +1 if IRR <=0.5 or >=2.0; +2 if IRR <=0.2 or >=5.0.
-  Final = clamp(start - downgrades + upgrades) to
-          Very low (<=0) / Low (1-2) / Moderate (3) / High (>=4) on a 4-anchor scale.
+  Final = start - downgrades + upgrades, then:
+          High (>= 2) / Moderate (1) / Low (0) / Very low (<= -1).
 
 NOTE: AI-generated first pass; reviewer to spot-check (as for RoB). Evidence-class
 (Ioannidis) grading from the example is umbrella-review-specific and is NOT applied.
@@ -62,7 +62,7 @@ def main():
         dim, grp = r["outcome_dim"], r["minority_group"]
         irr = r["irr"].strip()
         lo, hi = r["irr_ci_lo"].strip(), r["irr_ci_hi"].strip()
-        start = 2  # LOW
+        start = 0  # baseline Low = 0 (supervisor GRADE-informed convention)
         down = {}
         # risk of bias
         rob = qual.get(r["record_id"], "NA")
@@ -100,8 +100,9 @@ def main():
         except ValueError:
             pass
         total = start - sum(down.values()) + up
-        cert = ("High" if total >= 4 else "Moderate" if total == 3
-                else "Low" if total >= 1 else "Very low")
+        # supervisor scoring rule: High >= 2, Moderate = 1, Low = 0, Very low <= -1
+        cert = ("High" if total >= 2 else "Moderate" if total == 1
+                else "Low" if total == 0 else "Very low")
         est = "%s [%s, %s]" % (irr, lo, hi) if (irr and lo and hi) else (irr or "NR")
         rows.append(dict(dimension=dim, group=grp, record=r["record_id"],
                          IRR=est, rob=rob,

@@ -94,19 +94,32 @@ P("Out = Outcome (max 3 stars): (1) outcome assessment — invasive breast cance
 P("Overall quality (AHRQ thresholds): Good = Selection 3–4 AND Comparability 1–2 AND Outcome 2–3; Fair = Selection 2 AND Comparability 1–2 AND Outcome 2–3; Poor = Selection 0–1 OR Comparability 0 OR Outcome 0–1. The 8 Poor ratings arise where only a point estimate without a confidence interval was available (Outcome = 1). Assessment is an AI-generated first pass for reviewer verification.", True)
 PB()
 
-# ---- S8 GRADE ----
-H("Supplementary Table 6. GRADE certainty of evidence", 1)
-P("Observational bodies start Low; downgrade for RoB/inconsistency/imprecision; upgrade for large magnitude (IRR≤0.5 or ≥2.0). AI first pass.", True)
+# ---- Table 6: GRADE-informed scoring framework (like supervisor Table 2) ----
+H("Supplementary Table 6. Certainty of evidence assessment using a GRADE-informed scoring framework", 1)
+framework = [
+    ["Baseline certainty", "All outcomes are bodies of observational, population-based cancer-registry evidence and therefore start at Low (baseline score = 0)."],
+    ["Risk of bias", "Based on the adapted Newcastle-Ottawa Scale (Table 5). Downgraded by −1 when the representative study for the outcome was rated Poor."],
+    ["Inconsistency", "Downgraded by −1 when overlapping estimates for the same cell disagreed in the direction of effect. The very high I² among overlapping registry estimates was NOT treated as inconsistency, because it reflects repeated inclusion of non-independent, nested registry data rather than genuine between-study heterogeneity."],
+    ["Indirectness", "Downgraded by −1 when the population, exposure, comparator, or outcome did not directly correspond to the review question. Judged not serious: U.S. population-based registries directly measure age-adjusted invasive breast-cancer incidence by race/ethnicity versus non-Hispanic White."],
+    ["Imprecision", "Downgraded by −1 when the 95% confidence interval included the null (IRR = 1.0) for a near-null estimate, or when only a point estimate without a confidence interval was available."],
+    ["Publication bias", "Judged not serious: registry data reflect near-complete (census-like) case ascertainment and are not subject to selective publication of significant results; funnel-plot / Egger assessment is not applicable."],
+    ["Strength of association", "Upgraded for a large magnitude of effect: +1 when IRR ≤ 0.50 or ≥ 2.00; +2 when IRR ≤ 0.20 or ≥ 5.00, provided residual bias is unlikely to account for it."],
+    ["Dose–response / confounding", "Not applied: these descriptive incidence studies do not assess an exposure gradient, and residual-confounding upgrades were not used."],
+    ["Scoring rules", "Final certainty from the Low baseline: High (total score ≥ 2), Moderate (1), Low (0), Very low (≤ −1). Per-outcome scores are given in Table 7. Assessment is an AI-generated first pass for reviewer verification."],
+]
+TB(["Criteria", "Descriptions"], framework, [3000, 11400])
+PB()
+
+# ---- Table 7: GRADE results by outcome ----
+H("Supplementary Table 7. GRADE certainty of evidence by outcome", 1)
+P("Certainty derived with the framework in Table 6. RoB = Newcastle-Ottawa rating of the representative study (Table 5); +Large = large-magnitude upgrade (+1 if IRR ≤ 0.50 or ≥ 2.00; +2 if ≤ 0.20 or ≥ 5.00).", True)
 gr = rd("outputs/TableS_GRADE.csv")
 rows = [[r["dimension"], r["group"], r["IRR"], r["rob"], r["up_LargeEffect"], r["GRADE"]] for r in gr]
 TB(["Dimension", "Group", "IRR [95% CI]", "RoB", "+Large", "GRADE"], rows, [2100, 2500, 2400, 1200, 1100, 1700])
-P("RoB = Newcastle-Ottawa rating of the representative study (Table 5).", True)
-P("+Large = GRADE upgrade for large magnitude of effect: +1 if IRR ≤ 0.50 or ≥ 2.00; +2 if IRR ≤ 0.20 or ≥ 5.00; otherwise 0. (Large effects are less likely to be fully explained by confounding, so the certainty is raised.)", True)
-P("GRADE = final certainty. Observational bodies of evidence start at Low and are downgraded for risk of bias (representative rated Poor), inconsistency (direction disagreement among overlapping estimates — the registry-overlap I² is not counted here), or imprecision (no confidence interval / interval crossing 1 for a near-null estimate), then upgraded by +Large. Indirectness and publication bias were judged not serious (U.S. population-based registries; census-like case ascertainment). Final: Very low ≤ 0, Low 1–2, Moderate 3, High ≥ 4. AI-generated first pass for reviewer verification.", True)
 PB()
 
 # ---- S9 heterogeneity + estimator ----
-H("Supplementary Table 7. Between-study heterogeneity and estimator comparison", 1)
+H("Supplementary Table 8. Between-study heterogeneity and estimator comparison", 1)
 P("Sensitivity = all overlapping estimates (Paule-Mandel + HKSJ); high I² reflects non-independent registry overlap. Main = one representative per family.", True)
 si = rd("outputs/Table_sensitivity_I2.csv")
 rows = [[r["dimension"], r["group"], r["k_all"], f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
@@ -116,7 +129,7 @@ P("Estimator comparison on the largest cell (aggregate Black, k=8): DL IRR 0.934
 PB()
 
 # ---- S10 sensitivity ----
-H("Supplementary Table 8. Sensitivity analyses", 1)
+H("Supplementary Table 9. Sensitivity analyses", 1)
 P("S10a. Good-RoB-only (Poor studies dropped): 82 of 90 cells unchanged, 1 changed, 7 dropped — all headline results unchanged.")
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r["group"], r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])

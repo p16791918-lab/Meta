@@ -2,7 +2,7 @@
 
 Observational bodies of evidence start at Low. Downgrades: RoB, inconsistency (direction disagreement, NOT the registry-overlap I2), indirectness, imprecision, publication bias. Upgrade: large magnitude (IRR<=0.5 or >=2.0: +1; <=0.2 or >=5.0: +2). **AI-generated first pass — reviewer to spot-check.**
 
-Distribution: {'Low': 74, 'Moderate': 5, 'High': 1, 'Very low': 8}
+Distribution: {'Low': 67, 'Moderate': 5, 'Very low': 15, 'High': 1}
 
 | Dimension | Group | IRR [95%% CI] | RoB | -RoB | -Incons | -Imprec | +Large | GRADE |
 |----|----|----|----|----|----|----|----|----|
@@ -16,24 +16,24 @@ Distribution: {'Low': 74, 'Moderate': 5, 'High': 1, 'Very low': 8}
 | disaggregated-AANHPI | Cambodian | 0.264 [0.204, 0.341] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Chinese | 0.756 [0.741, 0.771] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Filipina | 0.852 [0.835, 0.869] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Filipino (young) | 0.95 [0.90, 1.01] | Good | 0 | 0 | 1 | +0 | **Low** |
+| disaggregated-AANHPI | Filipino (young) | 0.95 [0.90, 1.01] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Guamanian/Chamorro/Samoan | 0.719 [0.637, 0.812] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Hmong | 0.164 [0.120, 0.224] | Good | 0 | 0 | 0 | +2 | **High** |
 | disaggregated-AANHPI | Japanese | 1.039 [1.003, 1.076] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Japanese (young) | 1.02 [0.91, 1.14] | Good | 0 | 0 | 1 | +0 | **Low** |
+| disaggregated-AANHPI | Japanese (young) | 1.02 [0.91, 1.14] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Korean | 0.674 [0.651, 0.697] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Laotian/Kampuchean | 0.386 [0.348, 0.428] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Native Hawaiian | 1.211 [1.123, 1.305] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.205 [1.161, 1.251] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | South Asian | NR | Good | 0 | 0 | 1 | +0 | **Low** |
+| disaggregated-AANHPI | South Asian | NR | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Vietnamese | 0.583 [0.562, 0.605] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-MENA | Middle Eastern | 0.86 [0.84, 0.88] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | Cuban | 0.755 [0.677, 0.842] | Good | 0 | 0 | 0 | +0 | **Low** |
-| Hispanic-origin | Hispanic/Latina (aggregate) | 0.64 | Good | 0 | 0 | 1 | +0 | **Low** |
+| Hispanic-origin | Hispanic/Latina (aggregate) | 0.64 | Good | 0 | 0 | 1 | +0 | **Very low** |
 | Hispanic-origin | Mexican | 0.503 [0.376, 0.673] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | New Latino | 0.684 [0.619, 0.756] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | Puerto Rican | 0.817 [0.726, 0.920] | Good | 0 | 0 | 0 | +0 | **Low** |
-| AIAN | AIAN | 0.87 | Good | 0 | 0 | 1 | +0 | **Low** |
+| AIAN | AIAN | 0.87 | Good | 0 | 0 | 1 | +0 | **Very low** |
 | AIAN | AIAN (Navajo) | 0.49 [0.44, 0.55] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | AIAN | AIAN (Northern Plains, provisional) | 1.33 [1.26, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
 | AIAN | AIAN (Southern Plains, provisional) | 1.25 [1.11, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
@@ -66,7 +66,7 @@ Distribution: {'Low': 74, 'Moderate': 5, 'High': 1, 'Very low': 8}
 | male-BC-HRpos-HER2neg | Black (men) | 1.41 [1.32, 1.5] | Good | 0 | 0 | 0 | +0 | **Low** |
 | male-BC-HRpos-HER2pos | Black (men) | 1.65 [1.4, 1.93] | Good | 0 | 0 | 0 | +0 | **Low** |
 | male-BC-TNBC | Black (men) | 2.27 [1.67, 3.03] | Good | 0 | 0 | 0 | +1 | **Moderate** |
-| subtype-HRpos-HER2neg | Chinese | 0.58 | Good | 0 | 0 | 1 | +0 | **Low** |
+| subtype-HRpos-HER2neg | Chinese | 0.58 | Good | 0 | 0 | 1 | +0 | **Very low** |
 | subtype-HRpos-HER2pos | Chinese | 0.72 [0.55, 0.9] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-TNBC | Chinese | 0.53 [0.39, 0.71] | Good | 0 | 0 | 0 | +0 | **Low** |
 | nativity | Chinese (US-born) | 1.84 [1.72, 1.96] | Good | 0 | 0 | 0 | +0 | **Low** |
@@ -81,7 +81,7 @@ Distribution: {'Low': 74, 'Moderate': 5, 'High': 1, 'Very low': 8}
 | subtype-HRpos-HER2neg | Hispanic | 0.78 [0.76, 0.79] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2pos | Hispanic | 0.91 [0.88, 0.94] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-TNBC | Hispanic | 0.860 [0.840, 0.880] | Good | 0 | 0 | 0 | +0 | **Low** |
-| age-ge50 | Japanese | 1.064 [0.978, 1.157] | Good | 0 | 0 | 1 | +0 | **Low** |
+| age-ge50 | Japanese | 1.064 [0.978, 1.157] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | age-lt50 | Japanese | 1.479 [1.252, 1.748] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRneg-HER2pos | Japanese | 0.88 [0.82, 0.95] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2neg | Japanese | 1.03 [1.03, 1.04] | Good | 0 | 0 | 0 | +0 | **Low** |
