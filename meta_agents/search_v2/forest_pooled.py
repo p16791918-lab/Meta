@@ -56,7 +56,9 @@ def pooled(cr):
         lo, hi, note = pm["lo_z"], pm["hi_z"], " (z-based)"
     else:
         lo, hi, note = pm["lo_hk"], pm["hi_hk"], ""
-    return pm["irr"], lo, hi, pm["I2"], pm["tau2"], note
+    p = pm.get("p_Q", float("nan"))
+    p_str = "p<0.001" if p < 0.001 else "p=%.2f" % p
+    return pm["irr"], lo, hi, pm["I2"], pm["tau2"], note, p_str
 
 
 def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
@@ -65,11 +67,11 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
     blocks = []
     for dim, grp, disp in groups:
         cr = sorted(cells[(dim, grp)], key=lambda r: r["irr"])
-        pirr, plo, phi, i2, tau2, note = pooled(cr)
+        pirr, plo, phi, i2, tau2, note, p_str = pooled(cr)
         wtot = sum(1.0 / (r["se"] ** 2 + tau2) for r in cr)   # random-effects weights
         for r in cr:
             r["wpct"] = 100.0 * (1.0 / (r["se"] ** 2 + tau2)) / wtot
-        blocks.append((disp, cr, pirr, plo, phi, i2, note))
+        blocks.append((disp, cr, pirr, plo, phi, i2, note, p_str))
     nrows = sum(1 + len(cr) + 1 for _, cr, *_ in blocks) + len(blocks)  # header+studies+diamond+gap
     fig, ax = plt.subplots(figsize=(9.4, 0.34 * nrows + 1.4))
     XI, XW = 1.04, 1.44   # axes-fraction x for the IRR[CI] and Weight columns
@@ -77,10 +79,10 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
     ax.text(XW, 1.006, "Weight", transform=ax.transAxes, fontsize=8, fontweight="bold", ha="left", va="bottom")
     y = nrows
     yticks, ylabels = [], []
-    for disp, cr, pirr, plo, phi, i2, note in blocks:
+    for disp, cr, pirr, plo, phi, i2, note, p_str in blocks:
         y -= 1
-        ax.text(0.088, y, disp, transform=ax.get_yaxis_transform(), fontsize=9,
-                fontweight="bold", va="center", ha="left")
+        ax.text(0.088, y, "%s (k=%d)" % (disp, len(cr)), transform=ax.get_yaxis_transform(),
+                fontsize=9, fontweight="bold", va="center", ha="left")
         for r in cr:
             y -= 1
             ms = 3.0 + 15.0 * math.sqrt(r["wpct"] / 100.0)   # marker area ∝ weight
@@ -96,7 +98,8 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
         cy = 0.22
         ax.add_patch(Polygon([[plo, y], [pirr, y + cy], [phi, y], [pirr, y - cy]],
                              closed=True, facecolor=color, edgecolor="black", lw=0.7, zorder=4))
-        yticks.append(y); ylabels.append("   Pooled (RE), I²=%.0f%%%s" % (i2, note))
+        yticks.append(y)
+        ylabels.append("   Pooled (RE), k=%d, I²=%.0f%%, %s%s" % (len(cr), i2, p_str, note))
         ax.text(XI, y, "%.2f [%.2f, %.2f]" % (pirr, plo, phi),
                 transform=ax.get_yaxis_transform(), fontsize=7.8, va="center", ha="left", fontweight="bold", color="#111")
         ax.text(XW, y, "100%", transform=ax.get_yaxis_transform(),
