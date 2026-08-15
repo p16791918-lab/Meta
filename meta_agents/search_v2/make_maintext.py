@@ -20,6 +20,8 @@ def TB(h, rows, w): M.append({"type": "table", "headers": h, "rows": rows, "widt
 def IMG(p, w, h): M.append({"type": "image", "path": os.path.join(OUT, p), "w": w, "h": h})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
+def cite(ay):  # "Gopalani2020_31764279" -> "Gopalani 2020"; "Ellington2022_USCS" -> "Ellington 2022"
+    return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()
 
 
 # ==== Table 1. Summary of IRRs by racial/ethnic group and analytic dimension ====
@@ -29,17 +31,18 @@ P("One representative estimate per group (one estimate per registry family). Eff
   "measure is the incidence rate ratio (IRR) unless noted as a standardized incidence "
   "ratio (SIR). RoB = Newcastle-Ottawa rating of the representative study; GRADE = "
   "certainty of evidence. Full per-estimate detail is in the Supplementary Materials.", True)
+# Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
+TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "RoB", "GRADE"],
+   [], [3200, 1100, 3000, 3400, 1400, 1300])
+tbl = M[-1]
 cur = None
 for r in t1:
     if r["dimension"] != cur:
         cur = r["dimension"]
-        H(cur, 2)
-        TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "RoB", "GRADE"],
-           [], [3200, 1100, 3000, 3400, 1400, 1300])
-        tbl = M[-1]
+        tbl["rows"].append({"section": cur})
     tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
-                        "%s (%s)" % (r["study"], r["period"]), r["rob"], r["grade"]])
+                        "%s (%s)" % (cite(r["study"]), r["period"]), r["rob"], r["grade"]])
 PB()
 
 # ==== Table 2. Aggregate meta-analysis results (k, model, IRR, I2, Q p) ====

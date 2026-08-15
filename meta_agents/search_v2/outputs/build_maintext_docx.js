@@ -25,9 +25,21 @@ function tcell(text, w, { bold = false, shade = null } = {}) {
 }
 function buildTable(m) {
   const ws = scaleWidths(m.widths);
+  const total = ws.reduce((a, b) => a + b, 0);
   const head = new TableRow({ tableHeader: true,
     children: m.headers.map((h, i) => tcell(h, ws[i], { bold: true, shade: "E7EEF6" })) });
-  const body = m.rows.map(r => new TableRow({ children: r.map((c, i) => tcell(c, ws[i])) }));
+  const body = m.rows.map(r => {
+    // A row shaped {section: "..."} is a full-width section header spanning all columns.
+    if (r && !Array.isArray(r) && r.section !== undefined) {
+      return new TableRow({ children: [new TableCell({
+        width: { size: total, type: WidthType.DXA }, columnSpan: ws.length,
+        shading: { type: ShadingType.CLEAR, color: "auto", fill: "D9E2EF" },
+        margins: { top: 30, bottom: 30, left: 70, right: 70 },
+        children: [new Paragraph({ children: [new TextRun({ text: String(r.section), font: FONT, size: 16, bold: true })] })],
+      })] });
+    }
+    return new TableRow({ children: r.map((c, i) => tcell(c, ws[i])) });
+  });
   return new Table({ columnWidths: ws, width: { size: PAGEW, type: WidthType.DXA },
     borders, rows: [head, ...body] });
 }
