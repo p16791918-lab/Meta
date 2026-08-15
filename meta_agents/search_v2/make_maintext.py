@@ -45,40 +45,11 @@ for r in t1:
                         "%s (%s)" % (cite(r["study"]), r["period"]), r["rob"], r["grade"]])
 PB()
 
-# ==== Table 2. Aggregate meta-analysis results (k, model, IRR, I2, Q p) ====
-H("Table 2. Aggregate meta-analysis of invasive breast cancer incidence by "
-  "racial and ethnic group", 1)
-P("Primary result = the main-analysis IRR, a single representative estimate per "
-  "registry family (no pooling, so no k / I² / heterogeneity test apply to it). The "
-  "sensitivity analysis pools every overlapping registry estimate for the cell with a "
-  "random-effects model (Paule-Mandel/REML τ², Hartung-Knapp-Sidik-Jonkman CI); the "
-  "No. of estimates, I², and Cochran's Q p-value below describe THAT pool. Because those "
-  "estimates repeatedly include the same nested registries (SEER ⊂ NAACCR ⊂ USCS), they "
-  "are not independent — hence the very high I² / small Q p is a non-independence artifact, "
-  "not genuine between-study heterogeneity (Supplementary Table 8; GRADE framework, "
-  "Table 6). Concordance of the two columns indicates the direction is robust.", True)
-si = {(r["dimension"], r["group"]): r for r in rd("outputs/Table_sensitivity_I2.csv")}
-order = [("aggregate-vs-NHW", "Black"), ("aggregate-vs-NHW", "Hispanic"),
-         ("aggregate-vs-NHW", "Asian/PI (aggregate)"), ("aggregate-vs-NHW", "AIAN"),
-         ("subtype-TNBC", "Black")]
-rows = []
-label = {"aggregate-vs-NHW": "Overall invasive breast cancer", "subtype-TNBC": "Triple-negative"}
-for dim, grp in order:
-    r = si.get((dim, grp))
-    if not r:
-        continue
-    main = ("%s (%s-%s)" % (r["main_irr"], r["main_lo"], r["main_hi"])) if r["main_irr"] else "-"
-    pooled = "%s (%s-%s)" % (r["sens_irr"], r["sens_lo"], r["sens_hi"])
-    rows.append(["%s — %s" % (label[dim], disp_group(grp)), main, pooled,
-                 r["k_all"], "Random-effects", r["I2"] + "%", r["p_Q"]])
-TB(["Comparison (vs NHW)", "Main IRR (95% CI)\n[primary, one-per-family]",
-    "Sensitivity IRR (95% CI)\n[all overlapping]", "No. of estimates", "Model", "I²", "Q p"],
-   rows, [2900, 2500, 2500, 1200, 1500, 700, 900])
-P("AIAN main analysis uses the Indian Health Service–linked (undercount-corrected) "
-  "representative; the higher unlinked SEER value (0.71) enters only the sensitivity pool. "
-  "Main and sensitivity estimates agree closely in direction for all groups. No. of "
-  "estimates / I² / Q p are properties of the sensitivity pool only.", True)
-PB()
+# NOTE: no main-text "meta-analysis results" table. The main analysis selects one
+# representative per registry family (not a pool), so the aggregate meta-analysis
+# statistics (k, I², Cochran's Q p) apply only to the all-included sensitivity
+# pool, which is reported in Supplementary Table 8 with the pooled forest plots
+# (Supplementary Figures 1–3). The main-analysis IRRs are already in Table 1.
 
 # ==== Figures ====
 H("Figure 1. PRISMA 2020 flow diagram", 1)

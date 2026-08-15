@@ -22,10 +22,16 @@ Conclusion → References.
 
 | Item | Content | Source artifact | Basis |
 |---|---|---|---|
-| **Table 1** | Headline IRR by racial/ethnic group × analytic dimension, with representative study, RoB, GRADE | `Table1_main.csv/md` | Manuscript Table 1 (summary of associations) |
-| **Table 2** | Aggregate meta-analysis results: **k · Model (random-effects) · pooled IRR [95% CI] · I² (%) · Cochran's Q p** (+ one-per-family main IRR) | `Table_sensitivity_I2.csv` (aggregate rows) | Manuscript Table 2 (No. of results / Effect estimate / I²) |
+| **Table 1** | Headline IRR by racial/ethnic group × analytic dimension (one unified table, dimensions as section rows), with representative study, RoB, GRADE | `Table1_main.csv/md` | Manuscript Table 1 (summary of associations) |
 | **Figure 1** | PRISMA 2020 flow diagram (two-arm) | `Fig_PRISMA.png` | primary-SR standard (Feedback #3) |
-| **Figure 2** *(optional / author's call)* | Forest — disaggregated Asian/NHPI subgroups vs the aggregate (the headline finding) | `Fig_forest_AANHPI.png` | headline finding — but the RoB reference keeps forests in Supplementary, so this may instead stay as S Figure |
+| **Figure 2** | Forest — disaggregated Asian/NHPI subgroups vs the aggregate (headline finding) | `Fig_forest_AANHPI.png` | headline finding |
+| **Figure 3** | Forest — aggregate groups, Hispanic origin, AI/AN region, MENA | `Fig_forest_overview.png` | — |
+
+**No main-text "meta-analysis results" (k / I² / Q p) table.** The main analysis
+selects one representative per registry family — it does not pool — so k, I², and
+Cochran's Q p apply only to the all-included *sensitivity* pool, which lives in
+**Supplementary Table 8** with the pooled forests (S Figures 1–3). Putting a
+pooled table in the main text would misrepresent the non-pooling main analysis.
 
 Methods must state: random-effects only (Paule-Mandel/REML τ², Hartung-Knapp
 CI); Cochran's Q / I² for heterogeneity; one-estimate-per-registry-family main
