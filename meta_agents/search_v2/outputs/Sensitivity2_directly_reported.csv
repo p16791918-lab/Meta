@@ -3,7 +3,7 @@ aggregate-vs-NHW,AIAN,national,0.683,169,0.58,66,changed,4,2
 aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.92,66,changed,4,2
 aggregate-vs-NHW,Black,national,0.933,169,0.97,66,changed,8,2
 aggregate-vs-NHW,Hispanic,national,0.718,169,0.75,66,changed,6,2
-disaggregated-AANHPI,Asian Indian/Pakistani,national,0.952,234,0.61,955,changed,2,1
+disaggregated-AANHPI,Asian Indian/Pakistani,national,0.958,234,0.61,955,changed,2,1
 Hispanic-origin,Cuban,national,0.755,3182,,,dropped,1,0
 Hispanic-origin,Mexican,national,0.503,3182,,,dropped,1,0
 Hispanic-origin,New Latino,national,0.684,3182,,,dropped,1,0
@@ -21,18 +21,18 @@ age-lt50,Filipina,national,0.768,522,,,dropped,1,0
 age-lt50,Japanese,national,1.479,522,,,dropped,1,0
 age-lt50,Native Hawaiian,national,0.858,522,,,dropped,1,0
 aggregate-vs-NHW,AIAN,IHS-PRCDA,0.560,500,,,dropped,1,0
-disaggregated-AANHPI,Asian American (aggregate),national,0.788,234,,,dropped,1,0
+disaggregated-AANHPI,Asian American (aggregate),national,0.792,234,,,dropped,1,0
 disaggregated-AANHPI,Cambodian,national,0.264,3267,,,dropped,1,0
-disaggregated-AANHPI,Chinese,national,0.756,234,,,dropped,4,0
-disaggregated-AANHPI,Filipina,national,0.852,234,,,dropped,3,0
-disaggregated-AANHPI,Guamanian/Chamorro/Samoan,national,0.719,234,,,dropped,1,0
+disaggregated-AANHPI,Chinese,national,0.760,234,,,dropped,4,0
+disaggregated-AANHPI,Filipina,national,0.857,234,,,dropped,3,0
+disaggregated-AANHPI,Guamanian/Chamorro/Samoan,national,0.723,234,,,dropped,1,0
 disaggregated-AANHPI,Hmong,national,0.164,49,,,dropped,1,0
-disaggregated-AANHPI,Japanese,national,1.039,234,,,dropped,3,0
-disaggregated-AANHPI,Korean,national,0.674,234,,,dropped,5,0
-disaggregated-AANHPI,Laotian/Kampuchean,national,0.386,234,,,dropped,1,0
+disaggregated-AANHPI,Japanese,national,1.045,234,,,dropped,3,0
+disaggregated-AANHPI,Korean,national,0.677,234,,,dropped,5,0
+disaggregated-AANHPI,Laotian/Kampuchean,national,0.388,234,,,dropped,1,0
 disaggregated-AANHPI,Native Hawaiian,national,1.211,4040,,,dropped,2,0
-disaggregated-AANHPI,Native Hawaiian/PI (aggregate),national,1.205,234,,,dropped,1,0
-disaggregated-AANHPI,Vietnamese,national,0.583,234,,,dropped,3,0
+disaggregated-AANHPI,Native Hawaiian/PI (aggregate),national,1.212,234,,,dropped,1,0
+disaggregated-AANHPI,Vietnamese,national,0.586,234,,,dropped,3,0
 subtype-ERneg-PRpos,Black,national,1.459,200,,,dropped,1,0
 subtype-ERpos-PRneg,Black,national,0.974,200,,,dropped,1,0
 subtype-HRneg,Black,national,1.796,10,,,dropped,2,0

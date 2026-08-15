@@ -18,19 +18,19 @@ Values are the representative estimate per group (one per registry family). Effe
 |----|----|----|----|----|----|
 | Hmong | IRR | 0.164 [0.120, 0.224] | Mills2005 (Hmong 1988-2000 / NHW 1995-1999) | Good | High |
 | Cambodian | IRR | 0.264 [0.204, 0.341] | Kem2007 (1998-2002) | Good | Moderate |
-| Laotian/Kampuchean | IRR | 0.386 [0.348, 0.428] | Gomez2026_SEER21 (2018-2022) | Good | Moderate |
-| Vietnamese | IRR | 0.583 [0.562, 0.605] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Korean | IRR | 0.674 [0.651, 0.697] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Guamanian/Chamorro/Samoan | IRR | 0.719 [0.637, 0.812] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Chinese | IRR | 0.756 [0.741, 0.771] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Asian American (aggregate) | IRR | 0.788 [0.780, 0.796] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Filipina | IRR | 0.852 [0.835, 0.869] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Laotian/Kampuchean | IRR | 0.388 [0.350, 0.430] | Gomez2026_SEER21 (2018-2022) | Good | Moderate |
+| Vietnamese | IRR | 0.586 [0.566, 0.608] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Korean | IRR | 0.677 [0.654, 0.701] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Guamanian/Chamorro/Samoan | IRR | 0.723 [0.641, 0.817] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Chinese | IRR | 0.760 [0.745, 0.775] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Asian American (aggregate) | IRR | 0.792 [0.784, 0.800] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Filipina | IRR | 0.857 [0.839, 0.874] | Gomez2026_SEER21 (2018-2022) | Good | Low |
 | Filipino (young) | IRR | 0.95 [0.90, 1.01] | Gomez2017_CCR (2009-2013) | Good | Very low |
-| Asian Indian/Pakistani | IRR | 0.952 [0.932, 0.973] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Asian Indian/Pakistani | IRR | 0.958 [0.937, 0.979] | Gomez2026_SEER21 (2018-2022) | Good | Low |
 | Japanese (young) | IRR | 1.02 [0.91, 1.14] | Gomez2017_CCR (2009-2013) | Good | Very low |
-| Japanese | IRR | 1.039 [1.003, 1.076] | Gomez2026_SEER21 (2018-2022) | Good | Low |
-| Native Hawaiian/PI (aggregate) | IRR | 1.205 [1.161, 1.251] | Gomez2026_SEER21 (2018-2022) | Good | Low |
+| Japanese | IRR | 1.045 [1.009, 1.083] | Gomez2026_SEER21 (2018-2022) | Good | Low |
 | Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | Good | Low |
+| Native Hawaiian/PI (aggregate) | IRR | 1.212 [1.168, 1.258] | Gomez2026_SEER21 (2018-2022) | Good | Low |
 
 **Hispanic/Latina by country of origin**
 

@@ -11,22 +11,22 @@ Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
 | aggregate-vs-NHW | Black | 0.933 [0.920, 0.946] | Good | 0 | 0 | 0 | +0 | **Low** |
 | aggregate-vs-NHW | Black (women) | 0.98 [0.97, 0.98] | Good | 0 | 0 | 0 | +0 | **Low** |
 | aggregate-vs-NHW | Hispanic | 0.718 [0.707, 0.731] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Asian American (aggregate) | 0.788 [0.780, 0.796] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Asian Indian/Pakistani | 0.952 [0.932, 0.973] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Asian American (aggregate) | 0.792 [0.784, 0.800] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 [0.937, 0.979] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Cambodian | 0.264 [0.204, 0.341] | Good | 0 | 0 | 0 | +1 | **Moderate** |
-| disaggregated-AANHPI | Chinese | 0.756 [0.741, 0.771] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Filipina | 0.852 [0.835, 0.869] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Chinese | 0.760 [0.745, 0.775] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Filipina | 0.857 [0.839, 0.874] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Filipino (young) | 0.95 [0.90, 1.01] | Good | 0 | 0 | 1 | +0 | **Very low** |
-| disaggregated-AANHPI | Guamanian/Chamorro/Samoan | 0.719 [0.637, 0.812] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Guamanian/Chamorro/Samoan | 0.723 [0.641, 0.817] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Hmong | 0.164 [0.120, 0.224] | Good | 0 | 0 | 0 | +2 | **High** |
-| disaggregated-AANHPI | Japanese | 1.039 [1.003, 1.076] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Japanese | 1.045 [1.009, 1.083] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Japanese (young) | 1.02 [0.91, 1.14] | Good | 0 | 0 | 1 | +0 | **Very low** |
-| disaggregated-AANHPI | Korean | 0.674 [0.651, 0.697] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Laotian/Kampuchean | 0.386 [0.348, 0.428] | Good | 0 | 0 | 0 | +1 | **Moderate** |
+| disaggregated-AANHPI | Korean | 0.677 [0.654, 0.701] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Laotian/Kampuchean | 0.388 [0.350, 0.430] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Native Hawaiian | 1.211 [1.123, 1.305] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.205 [1.161, 1.251] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.212 [1.168, 1.258] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | South Asian | NR | Good | 0 | 0 | 1 | +0 | **Very low** |
-| disaggregated-AANHPI | Vietnamese | 0.583 [0.562, 0.605] | Good | 0 | 0 | 0 | +0 | **Low** |
+| disaggregated-AANHPI | Vietnamese | 0.586 [0.566, 0.608] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-MENA | Middle Eastern | 0.86 [0.84, 0.88] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | Cuban | 0.755 [0.677, 0.842] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | Hispanic/Latina (aggregate) | 0.64 | Good | 0 | 0 | 1 | +0 | **Very low** |

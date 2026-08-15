@@ -55,11 +55,13 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
   IRR 0.264 (0.204-0.341).
 
 ## 4. External NHW comparator (study reports minority only)
-- **rec 234 (Gomez 2026).** Reports disaggregated AANHPI rates but no numeric NHW.
-  Paired with the **SEER-Explorer** NHW female-breast rate, same submission
-  (Nov 2025), same registry set (SEER-21), same standard (2000 US), same
-  period-window handling (non-delay-adjusted, 2018–2022 mean = 140.3). Documented;
-  the 2019–2023 pooled value (141.3) agrees as a sensitivity check.
+- **rec 234 (Gomez 2026).** Disaggregated AANHPI rates are in the main Table
+  (2018–2022, SEER-21); the **in-paper NHW comparator is eTable 3** (Supplement 1):
+  Non-Hispanic White 139.5 (139.0–140.0), same registry (SEER-21), same period
+  (2018–2022), same standard (2000 US). IRRs = subgroup rate / 139.5 with 95% CIs
+  propagated from both rate CIs. (An earlier pass overlooked eTable 3 and paired an
+  external SEER-Explorer NHW of 140.3; using the paper's own NHW is
+  registry/period/standard-consistent and shifts IRRs by <1%.)
 - **rec 3182 (Pinheiro 2009).** Table gives origin rates + rounded IR ratios but
   not the NHW-FL rate; NHW-FL ≈ 143 (2000 US std) was back-derived so computed
   IRRs reproduce the authors' rounded ratios (0.8/0.5/0.8/0.7) — flagged to

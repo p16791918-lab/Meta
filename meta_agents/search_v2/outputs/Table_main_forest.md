@@ -19,19 +19,19 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Hmong | 0.164 | 0.120-0.224 | 49 |
 | Cambodian | 0.264 | 0.204-0.341 | 3267 |
-| Laotian/Kampuchean | 0.386 | 0.348-0.428 | 234 |
-| Vietnamese | 0.583 | 0.562-0.605 | 234 |
-| Korean | 0.674 | 0.651-0.697 | 234 |
-| Guamanian/Chamorro/Samoan | 0.719 | 0.637-0.812 | 234 |
-| Chinese | 0.756 | 0.741-0.771 | 234 |
-| Asian American (aggregate) | 0.788 | 0.780-0.796 | 234 |
-| Filipina | 0.852 | 0.835-0.869 | 234 |
+| Laotian/Kampuchean | 0.388 | 0.350-0.430 | 234 |
+| Vietnamese | 0.586 | 0.565-0.607 | 234 |
+| Korean | 0.677 | 0.654-0.701 | 234 |
+| Guamanian/Chamorro/Samoan | 0.723 | 0.640-0.816 | 234 |
+| Chinese | 0.760 | 0.745-0.775 | 234 |
+| Asian American (aggregate) | 0.792 | 0.784-0.800 | 234 |
+| Filipina | 0.857 | 0.840-0.875 | 234 |
 | Filipino (young) | 0.950 | 0.897-1.006 | 324 |
-| Asian Indian/Pakistani | 0.952 | 0.932-0.973 | 234 |
+| Asian Indian/Pakistani | 0.958 | 0.937-0.979 | 234 |
 | Japanese (young) | 1.020 | 0.911-1.142 | 324 |
-| Japanese | 1.039 | 1.003-1.076 | 234 |
-| Native Hawaiian/PI (aggregate) | 1.205 | 1.161-1.251 | 234 |
+| Japanese | 1.045 | 1.009-1.083 | 234 |
 | Native Hawaiian | 1.211 | 1.123-1.305 | 4040 |
+| Native Hawaiian/PI (aggregate) | 1.212 | 1.168-1.258 | 234 |
 
 **disaggregated-MENA**
 

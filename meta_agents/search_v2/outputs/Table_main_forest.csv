@@ -6,19 +6,19 @@ aggregate-vs-NHW,Black,0.933,0.92,0.946,169
 aggregate-vs-NHW,Black (women),0.98,0.975,0.985,2406
 disaggregated-AANHPI,Hmong,0.164,0.12,0.224,49
 disaggregated-AANHPI,Cambodian,0.264,0.204,0.341,3267
-disaggregated-AANHPI,Laotian/Kampuchean,0.386,0.348,0.428,234
-disaggregated-AANHPI,Vietnamese,0.583,0.562,0.605,234
-disaggregated-AANHPI,Korean,0.674,0.651,0.697,234
-disaggregated-AANHPI,Guamanian/Chamorro/Samoan,0.719,0.637,0.812,234
-disaggregated-AANHPI,Chinese,0.756,0.741,0.771,234
-disaggregated-AANHPI,Asian American (aggregate),0.788,0.78,0.796,234
-disaggregated-AANHPI,Filipina,0.852,0.835,0.869,234
+disaggregated-AANHPI,Laotian/Kampuchean,0.388,0.35,0.43,234
+disaggregated-AANHPI,Vietnamese,0.586,0.565,0.607,234
+disaggregated-AANHPI,Korean,0.677,0.654,0.701,234
+disaggregated-AANHPI,Guamanian/Chamorro/Samoan,0.723,0.64,0.816,234
+disaggregated-AANHPI,Chinese,0.76,0.745,0.775,234
+disaggregated-AANHPI,Asian American (aggregate),0.792,0.784,0.8,234
+disaggregated-AANHPI,Filipina,0.857,0.84,0.875,234
 disaggregated-AANHPI,Filipino (young),0.95,0.897,1.006,324
-disaggregated-AANHPI,Asian Indian/Pakistani,0.952,0.932,0.973,234
+disaggregated-AANHPI,Asian Indian/Pakistani,0.958,0.937,0.979,234
 disaggregated-AANHPI,Japanese (young),1.02,0.911,1.142,324
-disaggregated-AANHPI,Japanese,1.039,1.003,1.076,234
-disaggregated-AANHPI,Native Hawaiian/PI (aggregate),1.205,1.161,1.251,234
+disaggregated-AANHPI,Japanese,1.045,1.009,1.083,234
 disaggregated-AANHPI,Native Hawaiian,1.211,1.123,1.305,4040
+disaggregated-AANHPI,Native Hawaiian/PI (aggregate),1.212,1.168,1.258,234
 disaggregated-MENA,Middle Eastern,0.86,0.84,0.88,587
 Hispanic-origin,Mexican,0.503,0.376,0.673,3182
 Hispanic-origin,New Latino,0.684,0.619,0.756,3182
