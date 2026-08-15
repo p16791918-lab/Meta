@@ -130,12 +130,6 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Black | 0.820 | 0.805-0.836 | 10 |
 
-**age-ge50**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black | 0.825 | 0.814-0.836 | 203 |
-
 **age-ge40**
 
 | Group | IRR | 95% CI | rec |

@@ -8,8 +8,8 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | age-lt40 | Black | 2 | 1.337 (0.258-6.919) | 93 | 1.183 (1.142-1.226) | yes |
 | aggregate-vs-NHW | AIAN | 6 | 0.693 (0.580-0.827) | 99 | 0.560 (0.550-0.570) | no |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 5 | 0.795 (0.700-0.903) | 100 | 0.769 (0.751-0.787) | no |
-| aggregate-vs-NHW | Black | 9 | 0.940 (0.909-0.972) | 99 | 0.933 (0.920-0.946) | no |
-| aggregate-vs-NHW | Hispanic | 5 | 0.734 (0.707-0.762) | 99 | 0.718 (0.706-0.730) | no |
+| aggregate-vs-NHW | Black | 8 | 0.952 (0.935-0.969) | 97 | 0.933 (0.920-0.946) | no |
+| aggregate-vs-NHW | Hispanic | 6 | 0.714 (0.662-0.770) | 99 | 0.718 (0.706-0.730) | no |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 2 | 0.763 (0.045-12.907) | 99 | 0.952 (0.932-0.973) | yes |
 | disaggregated-AANHPI | Korean | 2 | 0.415 (0.001-204.260) | 100 | 0.674 (0.651-0.697) | yes |
 | disaggregated-AANHPI | Native Hawaiian | 2 | 1.248 (0.983-1.585) | 0 | 1.211 (1.123-1.305) | yes |

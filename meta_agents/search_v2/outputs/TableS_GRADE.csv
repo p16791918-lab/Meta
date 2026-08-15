@@ -1,7 +1,7 @@
 dimension,group,record,IRR,rob,d_RoB,d_Incons,d_Indirect,d_Imprec,d_PubBias,up_LargeEffect,I2_allincl,GRADE
 aggregate-vs-NHW,AIAN,500,"0.560 [0.550, 0.570]",Good,0,0,0,0,0,0,99,Low
 aggregate-vs-NHW,Asian/PI (aggregate),169,"0.769 [0.752, 0.788]",Good,0,0,0,0,0,0,100,Low
-aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,98,Low
+aggregate-vs-NHW,Black,169,"0.933 [0.920, 0.946]",Good,0,0,0,0,0,0,99,Low
 aggregate-vs-NHW,Black (women),2406,"0.98 [0.97, 0.98]",Good,0,0,0,0,0,0,single,Low
 aggregate-vs-NHW,Hispanic,169,"0.718 [0.707, 0.731]",Good,0,0,0,0,0,0,99,Low
 disaggregated-AANHPI,Asian American (aggregate),234,"0.788 [0.780, 0.796]",Good,0,0,0,0,0,0,single,Low
@@ -39,21 +39,21 @@ subtype-TNBC,Asian-American combined,324,"0.61 [0.58, 0.65]",Good,0,0,0,0,0,0,si
 age-ge50,Asian/PI (aggregate),485,0.659,Poor,1,0,0,1,0,0,single,Very low
 age-lt50,Asian/PI (aggregate),146,"0.96 [0.95, 0.97]",Good,0,0,0,0,0,0,single,Low
 subtype-HRneg-HER2pos,Asian/PI (aggregate),286,"1.41 [1.33, 1.49]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2neg,Asian/PI (aggregate),286,"0.87 [0.85, 0.88]",Good,0,0,0,0,0,0,single,Low
+subtype-HRpos-HER2neg,Asian/PI (aggregate),286,"0.87 [0.85, 0.88]",Good,0,0,0,0,0,0,99,Low
 subtype-HRpos-HER2pos,Asian/PI (aggregate),2,"0.850 [0.768, 0.941]",Good,0,0,0,0,0,0,single,Low
-subtype-TNBC,Asian/PI (aggregate),155,"0.700 [0.680, 0.720]",Good,0,0,0,0,0,0,94,Low
+subtype-TNBC,Asian/PI (aggregate),155,"0.700 [0.680, 0.720]",Good,0,0,0,0,0,0,90,Low
 age-ge40,Black,265,"0.851 [0.841, 0.862]",Good,0,0,0,0,0,0,single,Low
-age-ge50,Black,203,"0.825 [0.814, 0.836]",Good,0,0,0,0,0,0,single,Low
-age-lt40,Black,265,"1.183 [1.142, 1.226]",Good,0,0,0,0,0,0,single,Low
+age-ge50,Black,485,0.914,Poor,1,0,0,1,0,0,single,Very low
+age-lt40,Black,265,"1.183 [1.142, 1.226]",Good,0,0,0,0,0,0,93,Low
 age-lt50,Black,146,"1.01 [1.0, 1.03]",Good,0,0,0,0,0,0,single,Low
 subtype-ERneg-PRpos,Black,200,"1.459 [1.267, 1.679]",Good,0,0,0,0,0,0,single,Low
 subtype-ERpos-PRneg,Black,200,"0.974 [0.925, 1.027]",Good,0,0,0,1,0,0,single,Very low
-subtype-HRneg,Black,10,"1.796 [1.740, 1.853]",Good,0,0,0,0,0,0,single,Low
+subtype-HRneg,Black,10,"1.796 [1.740, 1.853]",Good,0,0,0,0,0,0,96,Low
 subtype-HRneg-HER2pos,Black,286,"1.46 [1.38, 1.54]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos,Black,10,"0.820 [0.805, 0.836]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2neg,Black,286,"0.86 [0.84, 0.87]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2pos,Black,286,"1.12 [1.08, 1.16]",Good,0,0,0,0,0,0,single,Low
-subtype-TNBC,Black,155,"1.950 [1.930, 1.980]",Good,0,0,0,0,0,0,92,Low
+subtype-HRpos,Black,10,"0.820 [0.805, 0.836]",Good,0,0,0,0,0,0,99,Low
+subtype-HRpos-HER2neg,Black,286,"0.86 [0.84, 0.87]",Good,0,0,0,0,0,0,98,Low
+subtype-HRpos-HER2pos,Black,286,"1.12 [1.08, 1.16]",Good,0,0,0,0,0,0,79,Low
+subtype-TNBC,Black,155,"1.950 [1.930, 1.980]",Good,0,0,0,0,0,0,88,Low
 age-lt40,Black (age<40),199,"1.16 [1.1, 1.23]",Good,0,0,0,0,0,0,single,Low
 male-BC-HRneg-HER2pos,Black (men),2406,"2.62 [1.48, 4.43]",Good,0,0,0,0,0,1,single,Moderate
 male-BC-HRpos-HER2neg,Black (men),2406,"1.41 [1.32, 1.5]",Good,0,0,0,0,0,0,single,Low
@@ -71,9 +71,9 @@ subtype-HRpos-HER2pos,Filipino,161,"0.88 [0.86, 0.91]",Good,0,0,0,0,0,0,single,L
 subtype-TNBC,Filipino,161,"0.84 [0.8, 0.88]",Good,0,0,0,0,0,0,single,Low
 age-ge50,Hispanic,485,0.660,Poor,1,0,0,1,0,0,single,Very low
 age-lt50,Hispanic,146,"0.76 [0.75, 0.77]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2neg,Hispanic,286,"0.78 [0.76, 0.79]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2pos,Hispanic,286,"0.91 [0.88, 0.94]",Good,0,0,0,0,0,0,single,Low
-subtype-TNBC,Hispanic,155,"0.860 [0.840, 0.880]",Good,0,0,0,0,0,0,94,Low
+subtype-HRpos-HER2neg,Hispanic,286,"0.78 [0.76, 0.79]",Good,0,0,0,0,0,0,99,Low
+subtype-HRpos-HER2pos,Hispanic,286,"0.91 [0.88, 0.94]",Good,0,0,0,0,0,0,97,Low
+subtype-TNBC,Hispanic,155,"0.860 [0.840, 0.880]",Good,0,0,0,0,0,0,89,Low
 age-ge50,Japanese,522,"1.064 [0.978, 1.157]",Good,0,0,0,1,0,0,single,Very low
 age-lt50,Japanese,522,"1.479 [1.252, 1.748]",Good,0,0,0,0,0,0,single,Low
 subtype-HRneg-HER2pos,Japanese,161,"0.88 [0.82, 0.95]",Good,0,0,0,0,0,0,single,Low

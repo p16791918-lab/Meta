@@ -18,7 +18,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-ge50 | AIAN | 0.647 (485) | - (-) | **dropped** |
 | age-ge50 | Asian/PI (aggregate) | 0.659 (485) | - (-) | **dropped** |
-| age-ge50 | Black | 0.825 (203) | - (-) | **dropped** |
+| age-ge50 | Black | 0.914 (485) | - (-) | **dropped** |
 | age-ge50 | Filipina | 0.774 (522) | - (-) | **dropped** |
 | age-ge50 | Hispanic | 0.660 (485) | - (-) | **dropped** |
 | age-ge50 | Japanese | 1.064 (522) | - (-) | **dropped** |

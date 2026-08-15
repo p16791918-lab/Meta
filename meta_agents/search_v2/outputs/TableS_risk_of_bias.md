@@ -2,7 +2,7 @@
 
 Domains: Selection (max 4), Comparability (max 2), Outcome (max 3). Quality per AHRQ thresholds (see rob_assessment.py header). **AI-generated first pass — reviewer to spot-check.**
 
-Overall (43 studies): {'Good': 39, 'Poor': 4}. Main-analysis representatives (28): {'Good': 27, 'Poor': 1}
+Overall (43 studies): {'Good': 40, 'Poor': 3}. Main-analysis representatives (28): {'Good': 26, 'Poor': 1}
 
 | Rec | Study | Registry | Period | Main | Sel/4 | Comp/2 | Out/3 | Quality |
 |----|----|----|----|----|----|----|----|----|
@@ -22,13 +22,13 @@ Overall (43 studies): {'Good': 39, 'Poor': 4}. Main-analysis representatives (28
 | 182 | Cronin2012_VitalSigns_23151952 | USCS(NPCR+SEER) | 2004-2008 | s | 4 | 2 | 3 | **Good** |
 | 199 | Baquet2008_SEER9 | SEER 9 | 1995-2004 | Y | 4 | 2 | 3 | **Good** |
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Y | 4 | 2 | 3 | **Good** |
-| 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Y | 4 | 2 | 3 | **Good** |
+| 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | s | 4 | 2 | 3 | **Good** |
 | 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Y | 4 | 2 | 3 | **Good** |
 | 236 | Gomez2010_CCR | California Cancer Registry | 1988-2004 | Y | 4 | 2 | 3 | **Good** |
 | 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Y | 4 | 2 | 3 | **Good** |
 | 286 | Kong2020_SEER18 | SEER 18 | 2010-2015 | Y | 4 | 2 | 3 | **Good** |
 | 324 | Gomez2017_CCR | California Cancer Registry | 2009-2013 | Y | 4 | 2 | 3 | **Good** |
-| 333 | Keegan2010_CCR | California Cancer Registry | 1988-2004 | s | 4 | 2 | 1 | **Poor** |
+| 333 | Keegan2010_CCR | California Cancer Registry | 1988-2004 | s | 4 | 2 | 3 | **Good** |
 | 346 | Richardson2016_27736827 | USCS(NPCR+SEER) | 2011 | s | 4 | 2 | 3 | **Good** |
 | 381 | Lund2010_AtlantaSEER | Metropolitan Atlanta (SEER) | 2003-2004 | s | 4 | 2 | 1 | **Poor** |
 | 463 | Keegan2007_GBACR | Greater Bay Area (Northern CA, | 1990-2002 | Y | 4 | 2 | 2 | **Good** |

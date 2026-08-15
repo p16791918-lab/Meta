@@ -2,7 +2,7 @@
 
 Observational bodies of evidence start at Low. Downgrades: RoB, inconsistency (direction disagreement, NOT the registry-overlap I2), indirectness, imprecision, publication bias. Upgrade: large magnitude (IRR<=0.5 or >=2.0: +1; <=0.2 or >=5.0: +2). **AI-generated first pass — reviewer to spot-check.**
 
-Distribution: {'Low': 71, 'Moderate': 5, 'Very low': 11, 'High': 1}
+Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
 
 | Dimension | Group | IRR [95%% CI] | RoB | -RoB | -Incons | -Imprec | +Large | GRADE |
 |----|----|----|----|----|----|----|----|----|
@@ -50,7 +50,7 @@ Distribution: {'Low': 71, 'Moderate': 5, 'Very low': 11, 'High': 1}
 | subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.850 [0.768, 0.941] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-TNBC | Asian/PI (aggregate) | 0.700 [0.680, 0.720] | Good | 0 | 0 | 0 | +0 | **Low** |
 | age-ge40 | Black | 0.851 [0.841, 0.862] | Good | 0 | 0 | 0 | +0 | **Low** |
-| age-ge50 | Black | 0.825 [0.814, 0.836] | Good | 0 | 0 | 0 | +0 | **Low** |
+| age-ge50 | Black | 0.914 | Poor | 1 | 0 | 1 | +0 | **Very low** |
 | age-lt40 | Black | 1.183 [1.142, 1.226] | Good | 0 | 0 | 0 | +0 | **Low** |
 | age-lt50 | Black | 1.01 [1.0, 1.03] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-ERneg-PRpos | Black | 1.459 [1.267, 1.679] | Good | 0 | 0 | 0 | +0 | **Low** |

@@ -3,8 +3,8 @@ AIAN,Alaska Native,2,1.021,0.432,2.412,68,0.0062,,,,0,yes
 age-lt40,Black,2,1.337,0.258,6.919,93,0.0314,1.183,1.142,1.226,1,yes
 aggregate-vs-NHW,AIAN,6,0.693,0.58,0.827,99,0.0276,0.56,0.55,0.57,1,no
 aggregate-vs-NHW,Asian/PI (aggregate),5,0.795,0.7,0.903,100,0.0104,0.769,0.751,0.787,1,no
-aggregate-vs-NHW,Black,9,0.94,0.909,0.972,99,0.0019,0.933,0.92,0.946,1,no
-aggregate-vs-NHW,Hispanic,5,0.734,0.707,0.762,99,0.0009,0.718,0.706,0.73,1,no
+aggregate-vs-NHW,Black,8,0.952,0.935,0.969,97,0.0004,0.933,0.92,0.946,1,no
+aggregate-vs-NHW,Hispanic,6,0.714,0.662,0.77,99,0.0052,0.718,0.706,0.73,1,no
 disaggregated-AANHPI,Asian Indian/Pakistani,2,0.763,0.045,12.907,99,0.0981,0.952,0.932,0.973,1,yes
 disaggregated-AANHPI,Korean,2,0.415,0.001,204.26,100,0.474,0.674,0.651,0.697,1,yes
 disaggregated-AANHPI,Native Hawaiian,2,1.248,0.983,1.585,0,0.0,1.211,1.123,1.305,1,yes

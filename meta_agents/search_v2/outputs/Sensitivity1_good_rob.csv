@@ -1,6 +1,7 @@
 dimension,group,family,main_irr,main_rec,sens_irr,sens_rec,status,n_all,n_kept
 age-ge50,AIAN,national,0.647,485,,,dropped,1,0
 age-ge50,Asian/PI (aggregate),national,0.659,485,,,dropped,1,0
+age-ge50,Black,national,0.914,485,,,dropped,1,0
 age-ge50,Hispanic,national,0.660,485,,,dropped,1,0
 AIAN,AIAN,national,0.384,107,0.384,107,unchanged,1,1
 AIAN,AIAN,IHS-PRCDA,0.87,2510,0.87,2510,unchanged,1,1
@@ -14,7 +15,6 @@ Hispanic-origin,Mexican,national,0.503,3182,0.503,3182,unchanged,1,1
 Hispanic-origin,New Latino,national,0.684,3182,0.684,3182,unchanged,1,1
 Hispanic-origin,Puerto Rican,national,0.817,3182,0.817,3182,unchanged,1,1
 age-ge40,Black,national,0.851,265,0.851,265,unchanged,1,1
-age-ge50,Black,national,0.825,203,0.825,203,unchanged,2,1
 age-ge50,Filipina,national,0.774,522,0.774,522,unchanged,1,1
 age-ge50,Japanese,national,1.064,522,1.064,522,unchanged,1,1
 age-ge50,Native Hawaiian,national,1.366,522,1.366,522,unchanged,1,1
@@ -30,9 +30,9 @@ age-lt50,Native Hawaiian,national,0.858,522,0.858,522,unchanged,1,1
 aggregate-vs-NHW,AIAN,IHS-PRCDA,0.560,500,0.560,500,unchanged,1,1
 aggregate-vs-NHW,AIAN,national,0.683,169,0.683,169,unchanged,4,4
 aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.769,169,unchanged,4,4
-aggregate-vs-NHW,Black,national,0.933,169,0.933,169,unchanged,9,9
+aggregate-vs-NHW,Black,national,0.933,169,0.933,169,unchanged,8,8
 aggregate-vs-NHW,Black (women),national,0.98,2406,0.98,2406,unchanged,1,1
-aggregate-vs-NHW,Hispanic,national,0.718,169,0.718,169,unchanged,6,5
+aggregate-vs-NHW,Hispanic,national,0.718,169,0.718,169,unchanged,6,6
 disaggregated-AANHPI,Asian American (aggregate),national,0.788,234,0.788,234,unchanged,1,1
 disaggregated-AANHPI,Asian Indian/Pakistani,national,0.952,234,0.952,234,unchanged,2,2
 disaggregated-AANHPI,Cambodian,national,0.264,3267,0.264,3267,unchanged,1,1
