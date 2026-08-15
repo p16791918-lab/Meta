@@ -10,7 +10,7 @@ because the correct full text/table is not obtainable in this sandbox.
 | 587 | Nasseri 2009, Middle Eastern-California | invasive IRR 0.86 (0.84-0.88) — **new MENA cell** |
 | 49  | Mills 2005, Hmong-California | Hmong breast IRR 0.16 (0.12-0.22) — **lowest AANHPI subgroup** |
 | 3267| Kem 2007, Cambodian CA+PugetSound | Cambodian IRR 0.26 (0.20-0.34) |
-| 51  | ANTR 2021, Alaska Native | AN IRR 0.95 (0.85-1.07) — sensitivity vs rec 28's directly-reported 1.09 |
+| 51  | Nash 2022, Alaska Native | AN IRR 0.95 (0.85-1.07) — sensitivity vs rec 28's directly-reported 1.09 |
 | 955 | Goggins 2009, Asian Indian/Pakistani | SIR 0.61 (0.56-0.66) — sensitivity vs rec 234 |
 | 4333| Wilkinson 2002, Miami-Dade Hispanic | IRR 0.65 (0.62-0.68) — sensitivity vs rec 3182 |
 

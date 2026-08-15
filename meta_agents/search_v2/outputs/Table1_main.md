@@ -48,8 +48,8 @@ Values are the representative estimate per group (one per registry family). Effe
 |----|----|----|----|----|----|
 | AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Yazzie2025_Navajo (2014-2018) | Good | Moderate |
 | AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | Good | Very low |
-| AIAN (Southern Plains, provisional) | IRR | 1.25 [1.11, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
-| AIAN (Northern Plains, provisional) | IRR | 1.33 [1.26, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
+| AIAN (Southern Plains, provisional) | IRR | 1.25 [1.11, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | Good | Low |
+| AIAN (Northern Plains, provisional) | IRR | 1.33 [1.26, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | Good | Low |
 
 **Middle Eastern**
 

@@ -56,7 +56,7 @@ PB()
 # ---- S4 excluded (no record_id) ----
 H("Supplementary Table 3. Full-text exclusions with reasons", 1)
 exc = rd("TableS_excluded_fulltext.csv")
-rows = [[r["citation"], r["exclusion_reason"]] for r in exc]
+rows = [[study_cell(r), r["exclusion_reason"]] for r in exc]
 TB(["Study (author, year)", "Exclusion reason"], rows, [7200, 4500])
 PB()
 

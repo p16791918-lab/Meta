@@ -27,10 +27,17 @@ def strip_initials(first):
     return re.sub(r"\s+[A-Z]\.?([- ]?[A-Z]\.?)*\s*$", "", first).strip() or first
 
 
+def norm_title(t):
+    # loose key for title matching: lowercase, drop trailing (year), collapse punctuation
+    t = re.sub(r"\s*\(\d{4}\)\s*$", "", (t or "").strip().lower())
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
 def build_maps():
     pmid_sn, pmid_n = {}, {}          # MEDLINE: surname + author count
     pmid_sn2, pmid_multi = {}, {}     # Embase/WoS by PMID
     doi_sn, doi_multi = {}, {}        # Embase/Scopus/WoS by DOI
+    title_sn, title_multi = {}, {}    # Embase by normalized title (last-resort, for no-PMID/DOI rows)
 
     # 1) MEDLINE
     pmid, cnt, first = None, 0, None
@@ -58,7 +65,10 @@ def build_maps():
         p = os.path.join(RAW, f)
         if not os.path.exists(p):
             continue
-        for r in csv.DictReader(open(p, encoding="utf-8", errors="replace")):
+        rdr = csv.DictReader(open(p, encoding="utf-8", errors="replace"))
+        tkey = [c for c in rdr.fieldnames if c.strip('﻿"').lower() == "title"]
+        tkey = tkey[0] if tkey else "Title"
+        for r in rdr:
             au = r.get("Author Names", "").strip()
             if not au:
                 continue
@@ -70,6 +80,9 @@ def build_maps():
                 pmid_sn2.setdefault(pm, sn); pmid_multi.setdefault(pm, multi)
             if di:
                 doi_sn.setdefault(di, sn); doi_multi.setdefault(di, multi)
+            tk = norm_title(r.get(tkey, ""))
+            if tk:
+                title_sn.setdefault(tk, sn); title_multi.setdefault(tk, multi)
 
     # 3) Scopus (DOI)
     sp = os.path.join(RAW, "scopus_20260807.csv")
@@ -105,11 +118,12 @@ def build_maps():
                 if di:
                     doi_sn.setdefault(di, sn); doi_multi.setdefault(di, multi)
 
-    return pmid_sn, pmid_n, pmid_sn2, pmid_multi, doi_sn, doi_multi
+    return pmid_sn, pmid_n, pmid_sn2, pmid_multi, doi_sn, doi_multi, title_sn, title_multi
 
 
 def main():
-    pmid_sn, pmid_n, pmid_sn2, pmid_multi, doi_sn, doi_multi = build_maps()
+    (pmid_sn, pmid_n, pmid_sn2, pmid_multi, doi_sn, doi_multi,
+     title_sn, title_multi) = build_maps()
 
     rec_sn = {}
     for r in csv.DictReader(open(os.path.join(HERE, "breast_extraction.csv"), encoding="utf-8")):
@@ -117,7 +131,7 @@ def main():
         if m:
             rec_sn.setdefault(r["record_id"], m.group(1))
 
-    def resolve(rid, pm, di):
+    def resolve(rid, pm, di, title=""):
         pm = pm.strip(); di = di.strip().lower()
         if pm in pmid_sn:
             return pmid_sn[pm], (pmid_n.get(pm, 2) > 1)
@@ -127,18 +141,31 @@ def main():
             return doi_sn[di], doi_multi.get(di, True)
         if rid in rec_sn:
             return rec_sn[rid], True
+        tk = norm_title(title)                      # last resort: rows with no PMID/DOI
+        if tk in title_sn:
+            return title_sn[tk], title_multi.get(tk, True)
         return None, None
 
-    inc = list(csv.DictReader(open(os.path.join(HERE, "TableS_included_studies.csv"), encoding="utf-8")))
+    # Resolve for both the included studies (Table 2) and the full-text exclusions
+    # (Table 3). Both tables carry the same record_id / pmid / doi columns.
+    srcs = ["TableS_included_studies.csv", "TableS_excluded_fulltext.csv"]
+    rows = []
+    for s in srcs:
+        p = os.path.join(HERE, s)
+        if os.path.exists(p):
+            rows += list(csv.DictReader(open(p, encoding="utf-8")))
+
     out, miss = {}, []
-    for r in inc:
-        sn, multi = resolve(r["record_id"], r["pmid"], r["doi"])
+    for r in rows:
+        if r["record_id"] in out:
+            continue
+        sn, multi = resolve(r["record_id"], r["pmid"], r["doi"], r.get("citation", ""))
         if sn is None:
             miss.append(r["record_id"]); continue
         out[r["record_id"]] = ("%s et al." % sn) if multi else sn
 
     json.dump(out, open(os.path.join(HERE, "author_labels.json"), "w"), ensure_ascii=False, indent=0)
-    print("author labels: %d / %d resolved" % (len(out), len(inc)))
+    print("author labels: %d resolved (%d rows across %s)" % (len(out), len(rows), ", ".join(srcs)))
     if miss:
         print("  unresolved:", miss)
 

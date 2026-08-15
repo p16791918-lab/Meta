@@ -45,7 +45,7 @@ Overall (43 studies): {'Poor': 8, 'Good': 35}. Main-analysis representatives (28
 | 3267 | Kem2007 | California-CCR + Puget Sound ( | 1998-2002 | Y | 3 | 2 | 3 | **Good** |
 | 3298 | Carozza2006_multistate | Multi-state registries (NAACCR | 1995-2000 | Y | 4 | 2 | 2 | **Good** |
 | 3398 | Gomez2003_SEERplusCCR | SEER + California CR | 1988-1992 | s | 4 | 2 | 3 | **Good** |
-| 3662 | Melkonian2020_IHS-PRCDA | IHS-linked (NPCR/SEER, PRCDA) | 2012-2016 | Y | 4 | 2 | 3 | **Good** |
+| 3662 | Melkonian2021_IHS-PRCDA | IHS-linked (NPCR/SEER, PRCDA) | 2012-2016 | Y | 4 | 2 | 3 | **Good** |
 | 4040 | Miller2008_NAACCR-API | NAACCR/SEER API (state+SEER re | 1998-2002 | Y | 4 | 2 | 3 | **Good** |
 | 4098 | McCracken2007_CCR | California Cancer Registry | 2000-2002 | s | 4 | 2 | 1 | **Poor** |
 | 4333 | Wilkinson2002 | Florida (Miami-Dade FCDS) | 1990-1998 | s | 4 | 1 | 3 | **Good** |

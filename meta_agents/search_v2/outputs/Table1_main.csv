@@ -25,8 +25,8 @@ Hispanic/Latina by country of origin,Cuban,IRR,"0.755 [0.677, 0.842]",Pinheiro20
 Hispanic/Latina by country of origin,Puerto Rican,IRR,"0.817 [0.726, 0.920]",Pinheiro2009_FL,1999-2001,Good,Low
 American Indian / Alaska Native by region,AIAN (Navajo),IRR,"0.49 [0.44, 0.55]",Yazzie2025_Navajo,2014-2018,Good,Moderate
 American Indian / Alaska Native by region,AIAN,IRR,0.87 (point est.),Melkonian2019_IHS-PRCDA,2012-2016,Good,Very low
-American Indian / Alaska Native by region,"AIAN (Southern Plains, provisional)",IRR,"1.25 [1.11, 1.41]",Melkonian2020_IHS-PRCDA,2012-2016,Good,Low
-American Indian / Alaska Native by region,"AIAN (Northern Plains, provisional)",IRR,"1.33 [1.26, 1.41]",Melkonian2020_IHS-PRCDA,2012-2016,Good,Low
+American Indian / Alaska Native by region,"AIAN (Southern Plains, provisional)",IRR,"1.25 [1.11, 1.41]",Melkonian2021_IHS-PRCDA,2012-2016,Good,Low
+American Indian / Alaska Native by region,"AIAN (Northern Plains, provisional)",IRR,"1.33 [1.26, 1.41]",Melkonian2021_IHS-PRCDA,2012-2016,Good,Low
 Middle Eastern,Middle Eastern,IRR,"0.86 [0.84, 0.88]",Nasseri2009,1988-2004,Good,Low
 Triple-negative breast cancer,Chinese,IRR,"0.53 [0.39, 0.71]",Loo2019_HTR,2000-2016,Good,Low
 Triple-negative breast cancer,Asian-American combined,IRR,"0.61 [0.58, 0.65]",Gomez2017_CCR,2009-2013,Good,Low
