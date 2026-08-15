@@ -38,19 +38,28 @@ def main():
     recs = list(csv.DictReader(open(MERGED, encoding="utf-8")))
     rows = {}  # record_id -> dict
 
+    # Records reclassified to INCLUDE in the eligibility log must never appear as
+    # exclusions, even if they were once on the unobtainable list (e.g. 402, later
+    # kept as a narrative include). Guards the excluded count against PRISMA drift.
+    included = set()
+
     # 1) explicit full-text exclusions from the eligibility log
     if os.path.exists(ELIG):
         for r in csv.DictReader(open(ELIG, encoding="utf-8")):
-            if r.get("ft_decision", "").strip() == "exclude":
-                rid = int(r["record_id"])
+            dec = r.get("ft_decision", "").strip()
+            rid = int(r["record_id"])
+            if dec == "exclude":
                 rows[rid] = {"reason": r.get("ft_reason", "").strip(),
                              "detail": r.get("note", "").strip()}
+            elif dec.startswith("include"):
+                included.add(rid)
 
-    # 2) unobtainable records = Full text unavailable (don't override an explicit reason)
+    # 2) unobtainable records = Full text unavailable (don't override an explicit
+    #    reason, and skip anything now kept as an include)
     if os.path.exists(UNAVAIL):
         for r in csv.DictReader(open(UNAVAIL, encoding="utf-8")):
             rid = int(r["record_id"])
-            if rid not in rows:
+            if rid not in rows and rid not in included:
                 rows[rid] = {"reason": "Full text unavailable",
                              "detail": r.get("note", "").strip()}
 

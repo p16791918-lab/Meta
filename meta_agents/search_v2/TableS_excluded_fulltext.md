@@ -1,13 +1,13 @@
 # Table S. Studies excluded at full-text review, with reasons
 
-Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded at full text: **80**.
+Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded at full text: **79**.
 
 | Reason | n |
 |---|---|
 | Did not report the outcome of interest | 12 |
 | Ineligible population | 3 |
 | Overlapping or duplicate dataset | 55 |
-| Full text unavailable | 10 |
+| Full text unavailable | 9 |
 
 | # | Study (title, year) | PMID | DOI | Exclusion reason | Detail |
 |---|---|---|---|---|---|
@@ -83,11 +83,10 @@ Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded 
 | 70 | Cancer statistics for Hispanics, 2003 (2003) | 12924775 | 10.3322/canjclin.53.4.208 | Overlapping or duplicate dataset | recurring statistical report (ACS-Hispanic); re-reports SEER/NPCR/NAACCR data already captured by primary studies + series representative |
 | 71 | Breast cancer trends among black and white women in the United States (2005) | 16258086 | 10.1200/jco.2004.01.0421 | Full text unavailable | could not obtain: ASCO/JCO paywalled + bot-blocked; Black-White SEER trends, redundant with other B-W registry studies |
 | 72 | Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females. (2000) | 10761199 |  | Full text unavailable | could not obtain: Puerto Rican lifetime risk (PRCCR); some overlap w/ other Hispanic/PR studies |
-| 73 | Disparities in Breast Cancer Incidence, Mortality, and Quality of Care among African American and European American Women in South Carolina (2016) | 26741869 | 10.14423/smj.0000000000000396 | Full text unavailable | reviewer could not obtain full text |
-| 74 | Women's cancers among Alaska Natives 1969-2003. (2006) | 17929614 |  | Full text unavailable | could not obtain: Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN |
-| 75 | Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites (2002) | 12223421 |  | Full text unavailable | could not obtain: Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies |
-| 76 | Women's cancers among Alaska Natives: [corrected] 1969-2003. (2007) | 18323374 |  | Full text unavailable | could not obtain: Women's cancers Alaska Natives (corrected dup of 415) |
-| 77 | Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019 (2026) | 41665696 | 10.1007/s10552-026-02134-3 | Full text unavailable | could not obtain: Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800) |
-| 78 | Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage (2023) |  |  | Full text unavailable | no DOI/PMID; could not obtain; TNBC-by-race topic covered by 155/209/286/2406 |
-| 79 | Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011) |  | 10.1089/jwh.2010.2082 | Full text unavailable | could not obtain: Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally |
-| 80 | Improving cancer incidence estimates for American Indians in Wisconsin (2007) | 17844709 |  | Full text unavailable | could not obtain: Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN |
+| 73 | Women's cancers among Alaska Natives 1969-2003. (2006) | 17929614 |  | Full text unavailable | could not obtain: Women's cancers Alaska Natives 1969-2003; overlaps AK Native Registry (51) & other AIAN |
+| 74 | Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites (2002) | 12223421 |  | Full text unavailable | could not obtain: Hawaii/LA Multiethnic Cohort, Japanese risk-adjusted incidence; overlaps MEC subgroup studies |
+| 75 | Women's cancers among Alaska Natives: [corrected] 1969-2003. (2007) | 18323374 |  | Full text unavailable | could not obtain: Women's cancers Alaska Natives (corrected dup of 415) |
+| 76 | Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019 (2026) | 41665696 | 10.1007/s10552-026-02134-3 | Full text unavailable | could not obtain: Rural-urban BC 20-49 by race; overlaps other rural-urban studies (474,477,916,1800) |
+| 77 | Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage (2023) |  |  | Full text unavailable | no DOI/PMID; could not obtain; TNBC-by-race topic covered by 155/209/286/2406 |
+| 78 | Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011) |  | 10.1089/jwh.2010.2082 | Full text unavailable | could not obtain: Time trends BC incidence Pennsylvania 1985-2004; state registry, redundant regionally |
+| 79 | Improving cancer incidence estimates for American Indians in Wisconsin (2007) | 17844709 |  | Full text unavailable | could not obtain: Improving cancer incidence estimates American Indians Wisconsin; AIAN methods, overlaps other AIAN |
