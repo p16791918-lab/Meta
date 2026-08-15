@@ -50,7 +50,7 @@ def load_cells():
 def pooled(cr):
     res = M.analyse(cr, "x")
     pm = res["PM/REML"]
-    return pm["irr"], pm["lo_hk"], pm["hi_hk"], pm["I2"]
+    return pm["irr"], pm["lo_hk"], pm["hi_hk"], pm["I2"], pm["tau2"]
 
 
 def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
@@ -59,10 +59,16 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
     blocks = []
     for dim, grp, disp in groups:
         cr = sorted(cells[(dim, grp)], key=lambda r: r["irr"])
-        pirr, plo, phi, i2 = pooled(cr)
+        pirr, plo, phi, i2, tau2 = pooled(cr)
+        wtot = sum(1.0 / (r["se"] ** 2 + tau2) for r in cr)   # random-effects weights
+        for r in cr:
+            r["wpct"] = 100.0 * (1.0 / (r["se"] ** 2 + tau2)) / wtot
         blocks.append((disp, cr, pirr, plo, phi, i2))
     nrows = sum(1 + len(cr) + 1 for _, cr, *_ in blocks) + len(blocks)  # header+studies+diamond+gap
-    fig, ax = plt.subplots(figsize=(9.2, 0.34 * nrows + 1.2))
+    fig, ax = plt.subplots(figsize=(9.4, 0.34 * nrows + 1.4))
+    XI, XW = 1.04, 1.44   # axes-fraction x for the IRR[CI] and Weight columns
+    ax.text(XI, 1.006, "IRR [95% CI]", transform=ax.transAxes, fontsize=8, fontweight="bold", ha="left", va="bottom")
+    ax.text(XW, 1.006, "Weight", transform=ax.transAxes, fontsize=8, fontweight="bold", ha="left", va="bottom")
     y = nrows
     yticks, ylabels = [], []
     for disp, cr, pirr, plo, phi, i2 in blocks:
@@ -71,19 +77,24 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
                 fontweight="bold", va="center", ha="left")
         for r in cr:
             y -= 1
-            ax.plot([r["lo"], r["hi"]], [y, y], "-", color=color, lw=1.3, zorder=2)
-            ax.plot(r["irr"], y, "s", color=color, ms=5.5, zorder=3)
+            ms = 3.0 + 15.0 * math.sqrt(r["wpct"] / 100.0)   # marker area ∝ weight
+            ax.plot([r["lo"], r["hi"]], [y, y], "-", color=color, lw=1.2, zorder=2)
+            ax.plot(r["irr"], y, "s", color=color, ms=ms, zorder=3)
             yticks.append(y); ylabels.append("   " + r["lab"])
-            ax.text(3.15, y, "%.2f [%.2f, %.2f]" % (r["irr"], r["lo"], r["hi"]),
-                    fontsize=7.6, va="center", ha="right", color="#333")
+            ax.text(XI, y, "%.2f [%.2f, %.2f]" % (r["irr"], r["lo"], r["hi"]),
+                    transform=ax.get_yaxis_transform(), fontsize=7.6, va="center", ha="left", color="#333")
+            ax.text(XW, y, "%.1f%%" % r["wpct"],
+                    transform=ax.get_yaxis_transform(), fontsize=7.6, va="center", ha="left", color="#333")
         # diamond
         y -= 1
         cy = 0.32
         ax.add_patch(Polygon([[plo, y], [pirr, y + cy], [phi, y], [pirr, y - cy]],
                              closed=True, facecolor=color, edgecolor="black", lw=0.7, zorder=4))
         yticks.append(y); ylabels.append("   Pooled (RE), I²=%.0f%%" % i2)
-        ax.text(3.15, y, "%.2f [%.2f, %.2f]" % (pirr, plo, phi),
-                fontsize=7.8, va="center", ha="right", fontweight="bold", color="#111")
+        ax.text(XI, y, "%.2f [%.2f, %.2f]" % (pirr, plo, phi),
+                transform=ax.get_yaxis_transform(), fontsize=7.8, va="center", ha="left", fontweight="bold", color="#111")
+        ax.text(XW, y, "100%", transform=ax.get_yaxis_transform(),
+                fontsize=7.8, va="center", ha="left", fontweight="bold", color="#111")
         y -= 1  # gap
     ax.axvline(1.0, color="#888", ls="--", lw=1, zorder=1)
     ax.set_yticks(yticks); ax.set_yticklabels(ylabels, fontsize=7.8)
@@ -95,11 +106,11 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
     ax.xaxis.set_minor_locator(NullLocator())
     ax.tick_params(axis="x", labelsize=8)
     ax.set_xlabel("Incidence rate ratio vs non-Hispanic White (log scale)", fontsize=9)
-    ax.set_title(title, fontsize=10.5, fontweight="bold", loc="left")
+    ax.set_title(title, fontsize=10.5, fontweight="bold", loc="left", pad=24)
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
-    plt.subplots_adjust(left=0.24, right=0.83, top=0.95, bottom=0.12)
+    plt.subplots_adjust(left=0.24, right=0.58, top=0.92, bottom=0.12)
     fig.savefig(os.path.join(OUT, fname), dpi=200)
     plt.close(fig)
     print("wrote outputs/%s (%d rows)" % (fname, nrows))
@@ -112,20 +123,20 @@ def main():
          ("aggregate-vs-NHW", "Hispanic", "Hispanic / Latina"),
          ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian / Pacific Islander (aggregate)"),
          ("aggregate-vs-NHW", "AIAN", "American Indian / Alaska Native")],
-        "Pooled incidence rate ratios by aggregate racial/ethnic group",
+        "Aggregate racial/ethnic groups (pooled, all-included)",
         "Fig_pool_aggregate.png", color="#2b6cb0")
     subgroup_forest(cells,
         [("subtype-TNBC", "Black", "TNBC — Black"),
          ("subtype-TNBC", "Hispanic", "TNBC — Hispanic"),
          ("subtype-TNBC", "Asian/PI (aggregate)", "TNBC — Asian / Pacific Islander")],
-        "Pooled triple-negative breast cancer IRRs by group",
+        "Triple-negative breast cancer (pooled, all-included)",
         "Fig_pool_tnbc.png", color="#b7472a")
     subgroup_forest(cells,
         [("disaggregated-AANHPI", "Asian Indian/Pakistani", "Asian Indian / Pakistani"),
          ("disaggregated-AANHPI", "Korean", "Korean"),
          ("disaggregated-AANHPI", "Native Hawaiian", "Native Hawaiian"),
          ("AIAN", "Alaska Native", "Alaska Native")],
-        "Pooled IRRs for cells with >=2 studies (disaggregated subgroups)",
+        "Disaggregated subgroups with ≥2 studies (pooled)",
         "Fig_pool_disaggregated.png", color="#2f7d4f")
 
 
