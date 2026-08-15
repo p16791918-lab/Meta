@@ -40,14 +40,14 @@ age-ge50,Asian/PI (aggregate),485,0.659,Poor,1,0,0,1,0,0,single,Very low
 age-lt50,Asian/PI (aggregate),146,"0.96 [0.95, 0.97]",Good,0,0,0,0,0,0,single,Low
 subtype-HRneg-HER2pos,Asian/PI (aggregate),286,"1.41 [1.33, 1.49]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos-HER2neg,Asian/PI (aggregate),286,"0.87 [0.85, 0.88]",Good,0,0,0,0,0,0,single,Low
-subtype-HRpos-HER2pos,Asian/PI (aggregate),2,0.842,Poor,1,0,0,1,0,0,single,Very low
+subtype-HRpos-HER2pos,Asian/PI (aggregate),2,"0.850 [0.768, 0.941]",Good,0,0,0,0,0,0,single,Low
 subtype-TNBC,Asian/PI (aggregate),155,"0.700 [0.680, 0.720]",Good,0,0,0,0,0,0,94,Low
-age-ge40,Black,265,0.851,Poor,1,0,0,1,0,0,single,Very low
+age-ge40,Black,265,"0.851 [0.841, 0.862]",Good,0,0,0,0,0,0,single,Low
 age-ge50,Black,203,"0.825 [0.814, 0.836]",Good,0,0,0,0,0,0,single,Low
-age-lt40,Black,265,1.183,Poor,1,0,0,1,0,0,single,Very low
+age-lt40,Black,265,"1.183 [1.142, 1.226]",Good,0,0,0,0,0,0,single,Low
 age-lt50,Black,146,"1.01 [1.0, 1.03]",Good,0,0,0,0,0,0,single,Low
-subtype-ERneg-PRpos,Black,200,1.459,Poor,1,0,0,1,0,0,single,Very low
-subtype-ERpos-PRneg,Black,200,0.974,Poor,1,0,0,1,0,0,single,Very low
+subtype-ERneg-PRpos,Black,200,"1.459 [1.267, 1.679]",Good,0,0,0,0,0,0,single,Low
+subtype-ERpos-PRneg,Black,200,"0.974 [0.925, 1.027]",Good,0,0,0,1,0,0,single,Very low
 subtype-HRneg,Black,10,"1.796 [1.740, 1.853]",Good,0,0,0,0,0,0,single,Low
 subtype-HRneg-HER2pos,Black,286,"1.46 [1.38, 1.54]",Good,0,0,0,0,0,0,single,Low
 subtype-HRpos,Black,10,"0.820 [0.805, 0.836]",Good,0,0,0,0,0,0,single,Low

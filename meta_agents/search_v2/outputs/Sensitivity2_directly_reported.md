@@ -44,4 +44,4 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | subtype-ERpos-PRneg | Black | 0.974 (200) | - (-) | **dropped** |
 | subtype-HRneg | Black | 1.796 (10) | - (-) | **dropped** |
 | subtype-HRpos | Black | 0.820 (10) | - (-) | **dropped** |
-| subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.842 (2) | - (-) | **dropped** |
+| subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.850 (2) | - (-) | **dropped** |

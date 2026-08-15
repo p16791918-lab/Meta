@@ -14,8 +14,14 @@ taken verbatim from the paper and are NOT in this log.
   groups): std_rate = Σ(rate_i·w_i)/Σw_i. IRR = minority_std / NHW_std.
   - Alignment verified against printed anchors (HR+/HER2− NHW 45–49 = 128.2,
     75–79 = 342.7; TNBC NHW 35–39 = 9.7).
-  - **Point estimates only — no CI** (a proper CI needs age-specific variance
-    propagation, not attempted). Provenance = `computed-from-rates`.
+  - **95% CIs computed by variance propagation.** Suppl Table 3 reports a 95% CI
+    for every age-specific rate (Fig 1 footnote points to it). SE per band =
+    (hi−lo)/(2·1.96); Var(std_rate) = Σ(w_i/Σw)²·SE_i²; SE(logIRR) =
+    √[(SE_min/std_min)² + (SE_nhw/std_nhw)²]. Provenance =
+    `computed-from-rates-with-CI`. (Earlier this cell was carried as point-only;
+    the rate CIs in Suppl Table 3 had been overlooked at extraction and are now
+    propagated — e.g. TNBC Black 1.82 [1.70, 1.95], HR+/HER2− API 0.69
+    [0.66, 0.72].)
   - IRR is invariant to the 20+ vs all-age standard (ages 0–19 contribute ≈0 to
     both numerator and denominator).
 
@@ -24,8 +30,8 @@ IRR = minority_rate / NHW_rate. With both rate CIs: SE(logIRR) =
 sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenance
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates`. Complete lists (auto-generated from the ledger):
-- **with CI:** rec 10, rec 234, rec 522, rec 2131, rec 3182, rec 3398, rec 4040.
-- **point only (no CI):** rec 2, rec 100, rec 265, rec 333, rec 346, rec 381,
+- **with CI:** rec 2, rec 10, rec 234, rec 522, rec 2131, rec 3182, rec 3398, rec 4040.
+- **point only (no CI):** rec 100, rec 265, rec 333, rec 346, rec 381,
   rec 463, rec 485, rec 500, rec 4098.
 - Elaborated elsewhere: rec 2 (§1), rec 234 & rec 3182 (§4).
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US

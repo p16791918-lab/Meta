@@ -37,7 +37,7 @@ subtype-ERneg-PRpos,Black,national,1.459,200,,,dropped,1,0
 subtype-ERpos-PRneg,Black,national,0.974,200,,,dropped,1,0
 subtype-HRneg,Black,national,1.796,10,,,dropped,2,0
 subtype-HRpos,Black,national,0.820,10,,,dropped,2,0
-subtype-HRpos-HER2pos,Asian/PI (aggregate),national,0.842,2,,,dropped,1,0
+subtype-HRpos-HER2pos,Asian/PI (aggregate),national,0.850,2,,,dropped,1,0
 AIAN,AIAN,national,0.384,107,0.384,107,unchanged,1,1
 AIAN,AIAN,IHS-PRCDA,0.87,2510,0.87,2510,unchanged,1,1
 AIAN,AIAN (Navajo),IHS-PRCDA,0.49,1478,0.49,1478,unchanged,1,1

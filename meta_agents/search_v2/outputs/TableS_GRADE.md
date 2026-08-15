@@ -2,7 +2,7 @@
 
 Observational bodies of evidence start at Low. Downgrades: RoB, inconsistency (direction disagreement, NOT the registry-overlap I2), indirectness, imprecision, publication bias. Upgrade: large magnitude (IRR<=0.5 or >=2.0: +1; <=0.2 or >=5.0: +2). **AI-generated first pass — reviewer to spot-check.**
 
-Distribution: {'Low': 67, 'Moderate': 5, 'Very low': 15, 'High': 1}
+Distribution: {'Low': 71, 'Moderate': 5, 'Very low': 11, 'High': 1}
 
 | Dimension | Group | IRR [95%% CI] | RoB | -RoB | -Incons | -Imprec | +Large | GRADE |
 |----|----|----|----|----|----|----|----|----|
@@ -47,14 +47,14 @@ Distribution: {'Low': 67, 'Moderate': 5, 'Very low': 15, 'High': 1}
 | age-lt50 | Asian/PI (aggregate) | 0.96 [0.95, 0.97] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRneg-HER2pos | Asian/PI (aggregate) | 1.41 [1.33, 1.49] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos-HER2neg | Asian/PI (aggregate) | 0.87 [0.85, 0.88] | Good | 0 | 0 | 0 | +0 | **Low** |
-| subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.842 | Poor | 1 | 0 | 1 | +0 | **Very low** |
+| subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.850 [0.768, 0.941] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-TNBC | Asian/PI (aggregate) | 0.700 [0.680, 0.720] | Good | 0 | 0 | 0 | +0 | **Low** |
-| age-ge40 | Black | 0.851 | Poor | 1 | 0 | 1 | +0 | **Very low** |
+| age-ge40 | Black | 0.851 [0.841, 0.862] | Good | 0 | 0 | 0 | +0 | **Low** |
 | age-ge50 | Black | 0.825 [0.814, 0.836] | Good | 0 | 0 | 0 | +0 | **Low** |
-| age-lt40 | Black | 1.183 | Poor | 1 | 0 | 1 | +0 | **Very low** |
+| age-lt40 | Black | 1.183 [1.142, 1.226] | Good | 0 | 0 | 0 | +0 | **Low** |
 | age-lt50 | Black | 1.01 [1.0, 1.03] | Good | 0 | 0 | 0 | +0 | **Low** |
-| subtype-ERneg-PRpos | Black | 1.459 | Poor | 1 | 0 | 1 | +0 | **Very low** |
-| subtype-ERpos-PRneg | Black | 0.974 | Poor | 1 | 0 | 1 | +0 | **Very low** |
+| subtype-ERneg-PRpos | Black | 1.459 [1.267, 1.679] | Good | 0 | 0 | 0 | +0 | **Low** |
+| subtype-ERpos-PRneg | Black | 0.974 [0.925, 1.027] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | subtype-HRneg | Black | 1.796 [1.740, 1.853] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRneg-HER2pos | Black | 1.46 [1.38, 1.54] | Good | 0 | 0 | 0 | +0 | **Low** |
 | subtype-HRpos | Black | 0.820 [0.805, 0.836] | Good | 0 | 0 | 0 | +0 | **Low** |

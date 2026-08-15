@@ -103,6 +103,7 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Chinese | 0.720 | 0.563-0.921 | 161 |
+| Asian/PI (aggregate) | 0.850 | 0.768-0.941 | 2 |
 | Filipino | 0.880 | 0.855-0.905 | 161 |
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
 | Japanese | 1.030 | 1.015-1.045 | 161 |
@@ -135,12 +136,29 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Black | 0.825 | 0.814-0.836 | 203 |
 
+**age-ge40**
+
+| Group | IRR | 95% CI | rec |
+|----|----|----|----|
+| Black | 0.851 | 0.841-0.862 | 265 |
+
 **age-lt50**
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Native Hawaiian | 0.858 | 0.710-1.036 | 522 |
 | Asian/PI (aggregate) | 0.960 | 0.950-0.970 | 146 |
+
+**subtype-ERpos-PRneg**
+
+| Group | IRR | 95% CI | rec |
+|----|----|----|----|
+| Black | 0.974 | 0.924-1.026 | 200 |
+
+**age-lt50**
+
+| Group | IRR | 95% CI | rec |
+|----|----|----|----|
 | Black | 1.010 | 0.995-1.025 | 146 |
 
 **age-ge50**
@@ -154,6 +172,7 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Black (age<40) | 1.160 | 1.097-1.227 | 199 |
+| Black | 1.183 | 1.142-1.226 | 265 |
 
 **nativity**
 
@@ -172,6 +191,12 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Black (men) | 1.410 | 1.323-1.503 | 2406 |
+
+**subtype-ERneg-PRpos**
+
+| Group | IRR | 95% CI | rec |
+|----|----|----|----|
+| Black | 1.459 | 1.267-1.680 | 200 |
 
 **age-lt50**
 
