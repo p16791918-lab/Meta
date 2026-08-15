@@ -35,11 +35,6 @@ for (num, title, code), m in zip(blocks, meta):
     CODE([l.rstrip() for l in code.strip("\n").split("\n")])
 PB()
 
-# ---- S2 PRISMA ----
-H("Supplementary Figure 1. PRISMA 2020 flow diagram", 1)
-IMG("Fig_PRISMA.png", 760, 640)
-PB()
-
 # ---- S3 included (author-year via citation; no record_id) ----
 H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
 inc = rd("TableS_included_studies.csv")
@@ -68,18 +63,6 @@ TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", 
    rows, [1900, 1800, 2200, 2000, 1200, 2200, 2600])
 P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent. For each cell (outcome dimension × group) one representative was kept per registry family, selected by (i) an IRR being computable, (ii) coverage (USCS > NAACCR > SEER-national > state/regional), (iii) most recent end-year then longest span, and (iv) clearest standardization / directly-reported CI.", True)
 P("Main analysis: “yes (representative)” = the estimate carried into the main analysis; “no (overlaps representative)” = collapses to the cell representative and is used only in the all-included sensitivity analysis; “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
-PB()
-
-# ---- S6 provenance ----
-H("Supplementary Note 1. Provenance of estimates and derivation log", 1)
-d = open(os.path.join(HERE, "DERIVATIONS.md"), encoding="utf-8").read()
-for line in d.split("\n"):
-    line = line.rstrip()
-    if not line: continue
-    if line.startswith("## "): H(line[3:], 2)
-    elif line.startswith("# "): pass
-    elif line.startswith("- ") or line.startswith("  "): P("• " + line.strip("- ").strip())
-    else: P(line)
 PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
@@ -139,7 +122,22 @@ TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], r
 P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in S10a; author-reported IRR/SIR only in S10b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 
-# ---- forest figures ----
+# ==== NOTES (after all tables) ====
+H("Supplementary Note 1. Provenance of estimates and derivation log", 1)
+d = open(os.path.join(HERE, "DERIVATIONS.md"), encoding="utf-8").read()
+for line in d.split("\n"):
+    line = line.rstrip()
+    if not line: continue
+    if line.startswith("## "): H(line[3:], 2)
+    elif line.startswith("# "): pass
+    elif line.startswith("- ") or line.startswith("  "): P("• " + line.strip("- ").strip())
+    else: P(line)
+PB()
+
+# ==== FIGURES (grouped at the end, like the example paper) ====
+H("Supplementary Figure 1. PRISMA 2020 flow diagram", 1)
+IMG("Fig_PRISMA.png", 760, 640)
+PB()
 H("Supplementary Figure 2. Forest plot — disaggregated Asian/NHPI subgroups", 1)
 IMG("Fig_forest_AANHPI.png", 900, 640)
 H("Supplementary Figure 3. Forest plot — aggregate groups, Hispanic origin, AI/AN region, MENA", 1)
