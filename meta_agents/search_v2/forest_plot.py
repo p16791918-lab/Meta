@@ -30,21 +30,28 @@ def load():
     return d
 
 
-def forest(items, title, fname, color="#2b6cb0"):
+def forest(items, title, fname, color="#2b6cb0", divider_after=None):
     # items: list of (label, irr, lo, hi) already ordered top->bottom as given;
     # we plot bottom->top so first item is at top.
     items = list(items)
     n = len(items)
     fig, ax = plt.subplots(figsize=(8.2, 0.42 * n + 1.4))
     ys = list(range(n))[::-1]
-    for y, (lab, irr, lo, hi) in zip(ys, items):
+    for i, (y, (lab, irr, lo, hi)) in enumerate(zip(ys, items)):
+        agg = divider_after is not None and i >= divider_after
         ax.plot([lo, hi], [y, y], "-", color=color, lw=1.6, zorder=2)
-        ax.plot(irr, y, "s", color=color, ms=7, zorder=3)
+        ax.plot(irr, y, "D" if agg else "s", color=color, ms=8 if agg else 7, zorder=3)
         ax.text(hi * 1.04, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi),
-                va="center", ha="left", fontsize=8.2, color="#222")
+                va="center", ha="left", fontsize=8.2, color="#222",
+                fontweight="bold" if agg else "normal")
+    if divider_after is not None:
+        ax.axhline(n - divider_after - 0.5, color="#aaa", lw=0.9, ls="-", zorder=1)
     ax.axvline(1.0, color="#888", ls="--", lw=1, zorder=1)
     ax.set_yticks(ys)
     ax.set_yticklabels([lab for lab, *_ in items], fontsize=9)
+    if divider_after is not None:
+        for lbl in ax.get_yticklabels()[divider_after:]:
+            lbl.set_fontweight("bold")
     ax.set_xscale("log")
     ax.set_xlim(0.10, 3.4)
     ticks = [0.12, 0.25, 0.5, 1.0, 2.0, 3.0]
@@ -68,12 +75,16 @@ def forest(items, title, fname, color="#2b6cb0"):
 
 def main():
     d = load()
-    # AANHPI: sort ascending by IRR
-    aan = sorted(d.get("disaggregated-AANHPI", []), key=lambda x: x[1])
-    # drop young-age duplicates for the clean subgroup figure
-    aan = [x for x in aan if "young" not in x[0].lower()]
-    forest(aan, "Disaggregated Asian American / NHPI subgroups (IRR vs NHW)",
-           "Fig_forest_AANHPI.png", color="#b7472a")
+    # AANHPI: disaggregated subgroups (top, sorted by IRR) then the aggregate
+    # summaries pulled to the bottom below a divider, to show how much the single
+    # aggregate values conceal.
+    aan_all = [x for x in d.get("disaggregated-AANHPI", []) if "young" not in x[0].lower()]
+    aan_sub = sorted([x for x in aan_all if "aggregate" not in x[0].lower()], key=lambda x: x[1])
+    aan_agg = sorted([x for x in aan_all if "aggregate" in x[0].lower()], key=lambda x: x[1])
+    aan_agg = [("▶ " + lab, irr, lo, hi) for lab, irr, lo, hi in aan_agg]
+    items = aan_sub + aan_agg
+    forest(items, "Disaggregated Asian/NHPI subgroups vs the aggregate (IRR vs NHW)",
+           "Fig_forest_AANHPI.png", color="#b7472a", divider_after=len(aan_sub))
 
     # overview: aggregate + hispanic-origin + AIAN region + MENA
     ov = []
