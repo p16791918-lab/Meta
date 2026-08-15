@@ -25,11 +25,18 @@ def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Koh
 # put a real author on the "Study (author, year)" column instead of title-only.
 AUTHORS = json.load(open(os.path.join(HERE, "author_labels.json"), encoding="utf-8"))
 def study_cell(r):
+    # "Study (author, year)" column: title, then (author, year) in parentheses —
+    # e.g. "Breast Cancer Incidence in Asian American ... (Gomez et al., 2026)".
     au = AUTHORS.get(r["record_id"], "").strip()
-    if not au:
-        return r["citation"]
-    sep = " " if au.endswith(".") else ". "   # avoid "et al.." double period
-    return au + sep + r["citation"]
+    cit = r["citation"].strip()
+    ym = re.search(r"\s*\((\d{4})\)\s*$", cit)
+    year = ym.group(1) if ym else ""
+    title = cit[:ym.start()].strip() if ym else cit
+    if au and year:
+        return "%s (%s, %s)" % (title, au, year)
+    if year:
+        return "%s (%s)" % (title, year)
+    return cit
 
 
 # ---- S1 search strategy ----
