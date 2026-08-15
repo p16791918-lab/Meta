@@ -127,14 +127,14 @@ def main():
     subgroup_forest(cells,
         [("aggregate-vs-NHW", "Black", "Black / African American"),
          ("aggregate-vs-NHW", "Hispanic", "Hispanic / Latina"),
-         ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian / Pacific Islander (aggregate)"),
+         ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian and Pacific Islander (API)"),
          ("aggregate-vs-NHW", "AIAN", "American Indian / Alaska Native")],
         "Aggregate racial/ethnic groups (pooled, all-included)",
         "Fig_pool_aggregate.png", color="#2b6cb0")
     subgroup_forest(cells,
         [("subtype-TNBC", "Black", "TNBC — Black"),
          ("subtype-TNBC", "Hispanic", "TNBC — Hispanic"),
-         ("subtype-TNBC", "Asian/PI (aggregate)", "TNBC — Asian / Pacific Islander")],
+         ("subtype-TNBC", "Asian/PI (aggregate)", "TNBC — Asian and Pacific Islander (API)")],
         "Triple-negative breast cancer (pooled, all-included)",
         "Fig_pool_tnbc.png", color="#b7472a")
     subgroup_forest(cells,

@@ -78,10 +78,12 @@ def main():
     # AANHPI: disaggregated subgroups (top, sorted by IRR) then the aggregate
     # summaries pulled to the bottom below a divider, to show how much the single
     # aggregate values conceal.
+    from labels import disp_group
     aan_all = [x for x in d.get("disaggregated-AANHPI", []) if "young" not in x[0].lower()]
-    aan_sub = sorted([x for x in aan_all if "aggregate" not in x[0].lower()], key=lambda x: x[1])
-    aan_agg = sorted([x for x in aan_all if "aggregate" in x[0].lower()], key=lambda x: x[1])
-    aan_agg = [("▶ " + lab, irr, lo, hi) for lab, irr, lo, hi in aan_agg]
+    aan_sub = [(disp_group(l), i, lo, hi) for l, i, lo, hi
+               in sorted([x for x in aan_all if "aggregate" not in x[0].lower()], key=lambda x: x[1])]
+    aan_agg = [("▶ " + disp_group(l), i, lo, hi) for l, i, lo, hi
+               in sorted([x for x in aan_all if "aggregate" in x[0].lower()], key=lambda x: x[1])]
     items = aan_sub + aan_agg
     forest(items, "Disaggregated Asian/NHPI subgroups vs the aggregate (IRR vs NHW)",
            "Fig_forest_AANHPI.png", color="#b7472a", divider_after=len(aan_sub))
@@ -91,7 +93,7 @@ def main():
     for lab, irr, lo, hi in sorted(d.get("aggregate-vs-NHW", []), key=lambda x: x[1]):
         if lab.startswith("Black (women)"):
             continue
-        ov.append(("[Overall] " + lab, irr, lo, hi))
+        ov.append(("[Overall] " + disp_group(lab), irr, lo, hi))
     for lab, irr, lo, hi in sorted(d.get("Hispanic-origin", []), key=lambda x: x[1]):
         ov.append(("[Hispanic] " + lab, irr, lo, hi))
     for lab, irr, lo, hi in sorted(d.get("AIAN", []), key=lambda x: x[1]):

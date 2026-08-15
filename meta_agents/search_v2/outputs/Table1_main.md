@@ -25,9 +25,9 @@ Values are the representative estimate per group (one per registry family). Effe
 | Chinese | IRR | 0.756 [0.741, 0.771] | Sung2026_SEER21 (2018-2022) | Good | Low |
 | Asian American (aggregate) | IRR | 0.788 [0.780, 0.796] | Sung2026_SEER21 (2018-2022) | Good | Low |
 | Filipina | IRR | 0.852 [0.835, 0.869] | Sung2026_SEER21 (2018-2022) | Good | Low |
-| Filipino (young) | IRR | 0.95 [0.90, 1.01] | Chen2017_CCR (2009-2013) | Good | Low |
+| Filipino (young) | IRR | 0.95 [0.90, 1.01] | Chen2017_CCR (2009-2013) | Good | Very low |
 | Asian Indian/Pakistani | IRR | 0.952 [0.932, 0.973] | Sung2026_SEER21 (2018-2022) | Good | Low |
-| Japanese (young) | IRR | 1.02 [0.91, 1.14] | Chen2017_CCR (2009-2013) | Good | Low |
+| Japanese (young) | IRR | 1.02 [0.91, 1.14] | Chen2017_CCR (2009-2013) | Good | Very low |
 | Japanese | IRR | 1.039 [1.003, 1.076] | Sung2026_SEER21 (2018-2022) | Good | Low |
 | Native Hawaiian/PI (aggregate) | IRR | 1.205 [1.161, 1.251] | Sung2026_SEER21 (2018-2022) | Good | Low |
 | Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | Good | Low |
@@ -37,7 +37,7 @@ Values are the representative estimate per group (one per registry family). Effe
 | Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
 |----|----|----|----|----|----|
 | Mexican | IRR | 0.503 [0.376, 0.673] | Pinheiro2009_FL (1999-2001) | Good | Low |
-| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Howe2006_multistate (1995-2000) | Good | Low |
+| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Howe2006_multistate (1995-2000) | Good | Very low |
 | New Latino | IRR | 0.684 [0.619, 0.756] | Pinheiro2009_FL (1999-2001) | Good | Low |
 | Cuban | IRR | 0.755 [0.677, 0.842] | Pinheiro2009_FL (1999-2001) | Good | Low |
 | Puerto Rican | IRR | 0.817 [0.726, 0.920] | Pinheiro2009_FL (1999-2001) | Good | Low |
@@ -47,7 +47,7 @@ Values are the representative estimate per group (one per registry family). Effe
 | Group | Effect | Estimate [95% CI] | Representative study | RoB | GRADE |
 |----|----|----|----|----|----|
 | AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Nihiseah2025_Navajo (2014-2018) | Good | Moderate |
-| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | Good | Low |
+| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | Good | Very low |
 | AIAN (Southern Plains, provisional) | IRR | 1.25 [1.11, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
 | AIAN (Northern Plains, provisional) | IRR | 1.33 [1.26, 1.41] | Melkonian2020_IHS-PRCDA (2012-2016) | Good | Low |
 

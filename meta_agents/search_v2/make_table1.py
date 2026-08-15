@@ -5,6 +5,7 @@ and analytic dimension, in the supervisor's format — Effect type + Risk estima
 (dimension x group); full per-estimate detail lives in the Supplementary tables.
 """
 import csv
+from labels import disp_group
 import os
 from collections import defaultdict
 
