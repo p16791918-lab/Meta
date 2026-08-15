@@ -32,6 +32,55 @@ function buildTable(m) {
     borders, rows: [head, ...body] });
 }
 
+// grouped-header table (e.g., Newcastle-Ottawa: Selection/Comparability/Outcome)
+function buildGTable(m) {
+  const ws = scaleWidths(m.widths);
+  const r1 = [];
+  let ci = 0;
+  for (const g of m.groups) {
+    const [label, span, rspan] = g;
+    const w = ws.slice(ci, ci + span).reduce((a, b) => a + b, 0);
+    r1.push(new TableCell({
+      width: { size: w, type: WidthType.DXA },
+      columnSpan: span > 1 ? span : undefined,
+      rowSpan: rspan ? 2 : undefined,
+      shading: { type: ShadingType.CLEAR, color: "auto", fill: "E7EEF6" },
+      verticalAlign: "center",
+      margins: { top: 25, bottom: 25, left: 70, right: 70 },
+      children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: label, font: FONT, size: 15, bold: true })] })],
+    }));
+    ci += span;
+  }
+  const r2 = [];
+  m.subs.forEach((s, i) => {
+    if (s === null) return; // covered by a rowSpan cell above
+    r2.push(new TableCell({
+      width: { size: ws[i], type: WidthType.DXA },
+      shading: { type: ShadingType.CLEAR, color: "auto", fill: "E7EEF6" },
+      margins: { top: 25, bottom: 25, left: 50, right: 50 },
+      children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: s, font: FONT, size: 14, bold: true })] })],
+    }));
+  });
+  const body = m.rows.map(r => new TableRow({ children: r.map((c, i) =>
+    new TableCell({ width: { size: ws[i], type: WidthType.DXA }, margins: { top: 25, bottom: 25, left: 50, right: 50 },
+      children: [new Paragraph({ alignment: i === 0 ? AlignmentType.LEFT : AlignmentType.CENTER, children: [new TextRun({ text: String(c), font: FONT, size: 15 })] })] })) }));
+  return new Table({ columnWidths: ws, width: { size: PAGEW, type: WidthType.DXA }, borders,
+    rows: [new TableRow({ tableHeader: true, children: r1 }), new TableRow({ tableHeader: true, children: r2 }), ...body] });
+}
+
+// search-strategy table: metadata columns + a monospace query cell
+function buildSTable(m) {
+  const ws = scaleWidths(m.widths);
+  const head = new TableRow({ tableHeader: true,
+    children: ["Database", "Platform", "Date", "Records", "Search string"].map((h, i) => tcell(h, ws[i], { bold: true, shade: "E7EEF6" })) });
+  const body = m.rows.map(r => new TableRow({ children: [
+    tcell(r.db, ws[0]), tcell(r.platform, ws[1]), tcell(r.date, ws[2]), tcell(r.records, ws[3]),
+    new TableCell({ width: { size: ws[4], type: WidthType.DXA }, margins: { top: 25, bottom: 25, left: 70, right: 70 },
+      children: r.query.map(l => new Paragraph({ spacing: { after: 0, line: 180 }, children: [new TextRun({ text: l === "" ? " " : l, font: MONO, size: 12 })] })) }),
+  ] }));
+  return new Table({ columnWidths: ws, width: { size: PAGEW, type: WidthType.DXA }, borders, rows: [head, ...body] });
+}
+
 const kids = [];
 kids.push(new Paragraph({ spacing: { after: 200 },
   children: [new TextRun({ text: "Supplementary Materials", font: FONT, bold: true, size: 34 })] }));
@@ -54,6 +103,12 @@ for (const m of M) {
     kids.push(new Paragraph({ spacing: { after: 80 }, children: [] }));
   } else if (m.type === "table") {
     kids.push(buildTable(m));
+    kids.push(new Paragraph({ spacing: { after: 80 }, children: [] }));
+  } else if (m.type === "gtable") {
+    kids.push(buildGTable(m));
+    kids.push(new Paragraph({ spacing: { after: 80 }, children: [] }));
+  } else if (m.type === "stable") {
+    kids.push(buildSTable(m));
     kids.push(new Paragraph({ spacing: { after: 80 }, children: [] }));
   } else if (m.type === "image") {
     try {

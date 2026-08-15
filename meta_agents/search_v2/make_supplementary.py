@@ -14,6 +14,8 @@ def P(t, it=False): M.append({"type": "para", "text": t, "italic": it})
 def TB(h, rows, w): M.append({"type": "table", "headers": h, "rows": rows, "widths": w})
 def IMG(p, w, h): M.append({"type": "image", "path": os.path.join(OUT, p), "w": w, "h": h})
 def CODE(lines): M.append({"type": "code", "lines": lines})
+def GT(groups, subs, rows, w): M.append({"type": "gtable", "groups": groups, "subs": subs, "rows": rows, "widths": w})
+def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
 
@@ -23,16 +25,13 @@ H("Supplementary Table 1. Final search strategy for each database", 1)
 P("Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026, English, human; document-type exclusions.", True)
 t = open(os.path.join(HERE, "..", "SEARCH_STRINGS_v2.md"), encoding="utf-8").read()
 blocks = re.findall(r"## (\d)\. ([^\n]+)\n+```\n(.*?)```", t, re.S)
-meta = [("PubMed/MEDLINE", "PubMed", "1,331"), ("Embase", "Advanced Search", "3,248"),
-        ("Scopus", "Advanced Search", "2,438"), ("Web of Science", "Advanced", "2,082")]
-TB(["#", "Database", "Platform", "Date", "Records"],
-   [[str(i + 1), m[0], m[1], "2026-08-07", m[2]] for i, m in enumerate(meta)] +
-   [["", "Total identified", "", "", "9,099"], ["", "Duplicates removed", "", "", "4,306"],
-    ["", "Unique screened", "", "", "4,793"]],
-   [700, 3200, 3200, 2200, 1500])
-for (num, title, code), m in zip(blocks, meta):
-    P(f"{m[0]} — {m[1]} — {m[2]} records", True)
-    CODE([l.rstrip() for l in code.strip("\n").split("\n")])
+meta = [("PubMed/MEDLINE", "PubMed", "1,331"), ("Embase", "embase.com (Advanced Search)", "3,248"),
+        ("Scopus", "scopus.com (Advanced Search)", "2,438"), ("Web of Science", "Web of Science (Advanced)", "2,082")]
+srows = [{"db": m[0], "platform": m[1], "date": "2026-08-07", "records": m[2],
+          "query": [l.rstrip() for l in code.strip("\n").split("\n")]}
+         for (num, title, code), m in zip(blocks, meta)]
+ST(srows, [1700, 2000, 1200, 1000, 8500])
+P("Total records identified 9,099; duplicate records removed (cross-database) 4,306; unique records screened 4,793.", True)
 PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
@@ -67,10 +66,15 @@ PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
 H("Supplementary Table 5. Risk of bias (Newcastle-Ottawa Scale, adapted)", 1)
-P("Domains: Selection (max 4), Comparability (max 2), Outcome (max 3). AI-generated first pass; reviewer to spot-check.", True)
+P("Each cell shows 1 where the item was met (blank = not met). Selection (max 4): S1–S4; Comparability (max 2): C1–C2; Outcome (max 3): O1–O3. AI-generated first pass; reviewer to spot-check.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
-rows = [[r["study"], r["registry"], r["Selection_/4"], r["Comparability_/2"], r["Outcome_/3"], r["Overall_quality"]] for r in rob]
-TB(["Study", "Registry", "Sel/4", "Comp/2", "Out/3", "Quality"], rows, [2900, 3100, 1100, 1200, 1100, 1500])
+def _s(v): return "1" if v.strip() == "1" else ""
+rrows = [[r["study"], _s(r["S1_representative"]), _s(r["S2_samplesize"]), _s(r["S3_race_ascertain"]),
+          _s(r["S4_completeness"]), _s(r["C1_agestd"]), _s(r["C2_comparable"]),
+          _s(r["O1_outcome"]), _s(r["O2_stats_CI"]), _s(r["O3_analysis"]), r["Overall_quality"]] for r in rob]
+GT([["Study", 1, True], ["Selection", 4, False], ["Comparability", 2, False], ["Outcome", 3, False], ["Quality", 1, True]],
+   [None, "S1", "S2", "S3", "S4", "C1", "C2", "O1", "O2", "O3", None],
+   rrows, [3600, 700, 700, 700, 700, 700, 700, 700, 700, 700, 2100])
 P("Sel = Selection (max 4 stars): (1) representativeness — defined population-based registry; (2) sample size — adequate case count for a stable age-adjusted rate (national/multi-registry or ≥50 cases); (3) ascertainment of race/ethnicity — standard registry coding or IHS/tribal linkage (surname-based or national AI/AN undercount loses the star); (4) case ascertainment completeness (high-completeness registry).", True)
 P("Comp = Comparability (max 2 stars): (1) age-standardization to a stated standard population (e.g., 2000 US); (2) minority and non-Hispanic White comparator from the same standard, diagnosis period and registry (externally-paired comparator loses the star).", True)
 P("Out = Outcome (max 3 stars): (1) outcome assessment — invasive breast cancer via registry/pathology record linkage; (2) statistical reporting — 95% CI or SE reported; (3) appropriate analysis — age-adjusted IRR directly reported or correctly computed with a variance (point-only computation loses the star).", True)
