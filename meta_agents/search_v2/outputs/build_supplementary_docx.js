@@ -81,13 +81,17 @@ function buildSTable(m) {
   return new Table({ columnWidths: ws, width: { size: PAGEW, type: WidthType.DXA }, borders, rows: [head, ...body] });
 }
 
-const kids = [];
-kids.push(new Paragraph({ spacing: { after: 200 },
+const mainKids = [];
+mainKids.push(new Paragraph({ spacing: { after: 200 },
   children: [new TextRun({ text: "Supplementary Materials", font: FONT, bold: true, size: 34 })] }));
-kids.push(new Paragraph({ spacing: { after: 200 },
+mainKids.push(new Paragraph({ spacing: { after: 200 },
   children: [new TextRun({ text: "Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-Analysis", font: FONT, italics: true, size: 20 })] }));
 
+const figKids = [];
+let inFigures = false;
 for (const m of M) {
+  if (m.type === "heading" && m.level === 1 && /Supplementary Figure/.test(m.text)) inFigures = true;
+  const kids = inFigures ? figKids : mainKids;
   if (m.type === "heading") {
     kids.push(new Paragraph({ heading: m.level === 1 ? HeadingLevel.HEADING_1 : HeadingLevel.HEADING_2,
       spacing: { before: 200, after: 100 },
@@ -124,10 +128,17 @@ for (const m of M) {
 
 const doc = new Document({
   styles: { default: { document: { run: { font: FONT, size: 18 } } } },
-  sections: [{
-    properties: { page: { size: { width: 12240, height: 15840, orientation: PageOrientation.LANDSCAPE },
-      margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
-    children: kids,
-  }],
+  sections: [
+    { // landscape: tables + notes
+      properties: { page: { size: { width: 12240, height: 15840, orientation: PageOrientation.LANDSCAPE },
+        margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
+      children: mainKids,
+    },
+    { // portrait: figures
+      properties: { page: { size: { width: 12240, height: 15840 },
+        margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
+      children: figKids,
+    },
+  ],
 });
-Packer.toBuffer(doc).then(b => { fs.writeFileSync("Supplementary_Materials.docx", b); console.log("wrote Supplementary_Materials.docx (" + kids.length + " blocks)"); });
+Packer.toBuffer(doc).then(b => { fs.writeFileSync("Supplementary_Materials.docx", b); console.log("wrote Supplementary_Materials.docx (" + (mainKids.length + figKids.length) + " blocks)"); });

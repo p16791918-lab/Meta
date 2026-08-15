@@ -171,14 +171,29 @@ for line in d.split("\n"):
     else: P(_rec(line))
 PB()
 
-# ==== FIGURES (grouped at the end, like the example paper) ====
+# ==== FIGURES (portrait section, grouped at the end, like the example paper) ====
 H("Supplementary Figure 1. PRISMA 2020 flow diagram", 1)
-IMG("Fig_PRISMA.png", 760, 640)
+IMG("Fig_PRISMA.png", 680, 578)
 PB()
-H("Supplementary Figure 2. Forest plot — disaggregated Asian/NHPI subgroups", 1)
-IMG("Fig_forest_AANHPI.png", 900, 640)
-H("Supplementary Figure 3. Forest plot — aggregate groups, Hispanic origin, AI/AN region, MENA", 1)
-IMG("Fig_forest_overview.png", 900, 560)
+H("Supplementary Figure 2. Representative IRRs — disaggregated Asian/NHPI subgroups", 1)
+P("One representative estimate per subgroup (one per registry family).", True)
+IMG("Fig_forest_AANHPI.png", 680, 568)
+PB()
+H("Supplementary Figure 3. Representative IRRs — aggregate groups, Hispanic origin, AI/AN region, MENA", 1)
+IMG("Fig_forest_overview.png", 680, 534)
+PB()
+H("Supplementary Figure 4. Pooled forest plots — aggregate racial/ethnic groups", 1)
+P("Every contributing study per group with the random-effects pooled diamond "
+  "(Paule-Mandel/REML + Hartung-Knapp) and I². The high I² reflects non-independent "
+  "overlapping registry data (all-included / sensitivity pooling); the main analysis "
+  "instead uses one representative per registry family (Table 4).", True)
+IMG("Fig_pool_aggregate.png", 602, 880)
+PB()
+H("Supplementary Figure 5. Pooled forest plots — triple-negative breast cancer", 1)
+IMG("Fig_pool_tnbc.png", 680, 466)
+PB()
+H("Supplementary Figure 6. Pooled forest plots — disaggregated subgroups with ≥2 studies", 1)
+IMG("Fig_pool_disaggregated.png", 680, 591)
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
 from collections import Counter
