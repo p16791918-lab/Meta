@@ -148,8 +148,8 @@ def main():
         elif (is_aian(r) and r["_fclass"] == "national"
               and r["outcome_dim"] in ihs_aian_dims
               and rep_id.get(r["_cluster"]) == id(r)):
-            main_flag = "no (AIAN undercount)"
-            reason = "unlinked national registry undercounts AIAN; IHS-PRCDA representative preferred"
+            main_flag = "no (AI/AN undercount)"
+            reason = "unlinked national registry undercounts AI/AN; IHS-PRCDA representative preferred"
         elif rep_id.get(r["_cluster"]) == id(r):
             n = len(clusters[r["_cluster"]])
             main_flag = "yes (representative)"

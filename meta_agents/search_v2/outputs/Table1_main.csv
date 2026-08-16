@@ -1,8 +1,8 @@
 dimension,group,effect,estimate,study,period,registry,rob,grade
-Overall invasive breast cancer,Hispanic,IRR,"0.718 [0.707, 0.731]",Ellington2022_USCS,2018,USCS(NPCR+SEER ~99%),Good,Low
-Overall invasive breast cancer,Black,IRR,"0.933 [0.920, 0.946]",Ellington2022_USCS,2018,USCS(NPCR+SEER ~99%),Good,Low
 Overall invasive breast cancer,AIAN,IRR,"0.560 [0.550, 0.570]",Gopalani2020_31764279,1999-2015,IHS-PRCDA,Good,Low
+Overall invasive breast cancer,Hispanic,IRR,"0.718 [0.707, 0.731]",Ellington2022_USCS,2018,USCS(NPCR+SEER ~99%),Good,Low
 Overall invasive breast cancer,Asian/PI (aggregate),IRR,"0.769 [0.752, 0.788]",Ellington2022_USCS,2018,USCS(NPCR+SEER ~99%),Good,Low
+Overall invasive breast cancer,Black,IRR,"0.933 [0.920, 0.946]",Ellington2022_USCS,2018,USCS(NPCR+SEER ~99%),Good,Low
 Asian American subgroups,Hmong,IRR,"0.164 [0.120, 0.224]",Mills2005,Hmong 1988-2000 / NHW 1995-1999,California-CCR,Good,High
 Asian American subgroups,Cambodian,IRR,"0.264 [0.204, 0.341]",Kem2007,1998-2002,California-CCR,Good,Moderate
 Asian American subgroups,Laotian/Kampuchean,IRR,"0.388 [0.350, 0.430]",Gomez2026_SEER21,2018-2022,SEER-national,Good,Moderate
@@ -27,10 +27,10 @@ American Indian and Alaska Native (AI/AN) by region,AIAN (Northern Plains),IRR,"
 Middle Eastern,Middle Eastern,IRR,"0.86 [0.84, 0.88]",Nasseri2009,1988-2004,California-CCR,Good,Low
 Triple-negative breast cancer,Chinese,IRR,"0.53 [0.39, 0.71]",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Good,Low
 Triple-negative breast cancer,Asian-American combined,IRR,"0.61 [0.58, 0.65]",Gomez2017_CCR,2009-2013,California-CCR,Good,Low
+Triple-negative breast cancer,Asian/PI (aggregate),IRR,"0.700 [0.680, 0.720]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
 Triple-negative breast cancer,Filipino,IRR,"0.84 [0.8, 0.88]",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Good,Low
+Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
 Triple-negative breast cancer,Hispanic,IRR,"0.860 [0.840, 0.880]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
 Triple-negative breast cancer,Native Hawaiian,IRR,"0.86 [0.79, 0.91]",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Good,Low
 Triple-negative breast cancer,Black,IRR,"1.950 [1.930, 1.980]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
-Triple-negative breast cancer,Asian/PI (aggregate),IRR,"0.700 [0.680, 0.720]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
-Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Good,Low
 Male breast cancer,Black (men),IRR,"1.52 [1.44, 1.6]",Sung2020_USCS50,2011-2015,USCS(NPCR+SEER ~99%),Good,Low

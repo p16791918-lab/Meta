@@ -30,3 +30,34 @@ def disp_group(g):
     if g.startswith("AIAN ("):          # region subgroups: "AIAN (Navajo)" -> "AI/AN (Navajo)"
         return "AI/AN " + g[len("AIAN "):]
     return g
+
+
+# Reader-facing labels for the internal analytic-dimension keys (the "Dimension"
+# column of the GRADE / heterogeneity / sensitivity tables).
+DIM_DISPLAY = {
+    "aggregate-vs-NHW": "Overall (aggregate)",
+    "disaggregated-AANHPI": "AANHPI subgroup",
+    "Hispanic-origin": "Hispanic by origin",
+    "AIAN": "AI/AN by region",
+    "disaggregated-MENA": "Middle Eastern",
+    "subtype-TNBC": "TNBC",
+    "subtype-HRpos": "HR+",
+    "subtype-HRneg": "HR−",
+    "subtype-HRpos-HER2neg": "HR+/HER2−",
+    "subtype-HRpos-HER2pos": "HR+/HER2+",
+    "subtype-HRneg-HER2pos": "HR−/HER2+",
+    "subtype-ERpos-PRneg": "ER+/PR−",
+    "subtype-ERneg-PRpos": "ER−/PR+",
+    "age-lt40": "Age <40", "age-ge40": "Age ≥40",
+    "age-lt50": "Age <50", "age-ge50": "Age ≥50",
+    "male-BC": "Male BC",
+    "male-BC-TNBC": "Male BC, TNBC",
+    "male-BC-HRpos-HER2neg": "Male BC, HR+/HER2−",
+    "male-BC-HRpos-HER2pos": "Male BC, HR+/HER2+",
+    "male-BC-HRneg-HER2pos": "Male BC, HR−/HER2+",
+    "nativity": "By nativity",
+}
+
+
+def disp_dim(d):
+    return DIM_DISPLAY.get(d, d)

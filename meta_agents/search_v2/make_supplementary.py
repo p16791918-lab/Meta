@@ -18,7 +18,7 @@ def GT(groups, subs, rows, w): M.append({"type": "gtable", "groups": groups, "su
 def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
-from labels import disp_group
+from labels import disp_group, disp_dim
 def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
 # First-author labels for the 163 included studies, derived offline from the raw
 # search dumps (MEDLINE FAU / Embase / Scopus / WoS), keyed by record_id. Used to
@@ -111,7 +111,7 @@ rep = rd("TableSA_main_representatives.csv")
 rows = []
 for r in rep:
     irr = r["irr"]; ci = f" [{r['irr_ci_lo']}, {r['irr_ci_hi']}]" if r['irr_ci_lo'] else ""
-    rows.append([cite(r["author_year"]), r["outcome_dim"], disp_group(r["minority_group"]),
+    rows.append([cite(r["author_year"]), disp_dim(r["outcome_dim"]), disp_group(r["minority_group"]),
                  r["registry_family"], r["period"], (irr + ci) if irr else "-",
                  r["main_analysis"]])
 TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", "Main analysis"],
@@ -158,7 +158,7 @@ PB()
 H("Supplementary Table 7. GRADE certainty of evidence by outcome", 1)
 P("Certainty derived with the framework in Table 6. RoB = Newcastle-Ottawa rating of the representative study (Table 5); +Large = large-magnitude upgrade (+1 if IRR ≤ 0.50 or ≥ 2.00; +2 if ≤ 0.20 or ≥ 5.00).", True)
 gr = rd("outputs/TableS_GRADE.csv")
-rows = [[r["dimension"], disp_group(r["group"]), r["IRR"], r["rob"], r["up_LargeEffect"], r["GRADE"]] for r in gr]
+rows = [[disp_dim(r["dimension"]), disp_group(r["group"]), r["IRR"], r["rob"], r["up_LargeEffect"], r["GRADE"]] for r in gr]
 TB(["Dimension", "Group", "IRR [95% CI]", "RoB", "+Large", "GRADE"], rows, [2100, 2500, 2400, 1200, 1100, 1700])
 PB()
 
@@ -166,7 +166,7 @@ PB()
 H("Supplementary Table 8. Between-study heterogeneity and estimator comparison", 1)
 P("Sensitivity = all overlapping estimates (Paule-Mandel + HKSJ); high I² reflects non-independent registry overlap. Main = one representative per family.", True)
 si = rd("outputs/Table_sensitivity_I2.csv")
-rows = [[r["dimension"], disp_group(r["group"]), r["k_all"], "Random-effects",
+rows = [[disp_dim(r["dimension"]), disp_group(r["group"]), r["k_all"], "Random-effects",
          f"{r['sens_irr']} ({r['sens_lo']}-{r['sens_hi']})", r["I2"] + "%", r["p_Q"],
          (f"{r['main_irr']} ({r['main_lo']}-{r['main_hi']})" if r['main_irr'] else "-")] for r in si]
 TB(["Dimension", "Group", "k", "Model", "Sensitivity IRR (95% CI)", "I²", "Q p", "Main IRR (95% CI)"],
@@ -183,8 +183,8 @@ ecrows = [[f"{disp_group(r['group'])}{r['klt3']}", r["k"],
 TB(["Group", "k", "DerSimonian-Laird IRR (95% CI)", "DL τ²",
     "Paule-Mandel / REML IRR (95% CI)", "PM τ²", "HKSJ 95% CI", "I²"],
    ecrows, [2400, 600, 2900, 900, 2900, 900, 1900, 700])
-P("Across the four cells with ≥3 estimates (Black, Hispanic, Asian/Pacific Islander, "
-  "American Indian/Alaska Native), the DerSimonian-Laird and Paule-Mandel/REML pooled "
+P("Across the four cells with ≥3 estimates (non-Hispanic Black, Hispanic, AANHPI, "
+  "American Indian and Alaska Native), the DerSimonian-Laird and Paule-Mandel/REML pooled "
   "IRRs differ by ≤0.001, and the Hartung-Knapp interval is wider than the z-based "
   "interval; the pooled estimate is therefore robust to the choice of τ² estimator and "
   "interval method. The main analysis nonetheless relies on one representative per "
@@ -194,12 +194,17 @@ PB()
 
 # ---- S10 sensitivity ----
 H("Supplementary Table 9. Sensitivity analyses", 1)
-P("Table 9a. Good-RoB-only (Poor studies dropped): 82 of 90 cells unchanged, 1 changed, 7 dropped — all headline results unchanged.")
+from collections import Counter as _Ctr
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
-TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])
-P("Table 9b. Directly-reported-only (computed estimates dropped): 51 unchanged, 5 changed, 34 dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios).")
+_c1 = _Ctr(r["status"] for r in s1)
+P("Table 9a. Good-RoB-only (Poor studies dropped): %d of %d cells unchanged, %d changed, %d dropped — all headline results unchanged."
+  % (_c1["unchanged"], sum(_c1.values()), _c1["changed"], _c1["dropped"]))
+TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
-TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[r["dimension"], disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch2], [2300, 2600, 2000, 2000, 1500])
+_c2 = _Ctr(r["status"] for r in s2)
+P("Table 9b. Directly-reported-only (computed estimates dropped): %d unchanged, %d changed, %d dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios)."
+  % (_c2["unchanged"], _c2["changed"], _c2["dropped"]))
+TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch2], [2300, 2600, 2000, 2000, 1500])
 P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in Table 9a; author-reported IRR/SIR only in Table 9b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 

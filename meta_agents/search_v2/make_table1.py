@@ -68,10 +68,13 @@ def main():
             except ValueError:
                 return 99
         def is_summary(g):
-            # aggregate/summary rows go to the bottom of a section: the AANHPI
-            # "(aggregate)" rows and the bare "AIAN" national row that sits among
-            # the AI/AN-by-region subgroups.
-            return "aggregate" in g.lower() or g == "AIAN"
+            # Push an umbrella aggregate to the bottom of sections that list subgroups
+            # PLUS their aggregate: the by-country Hispanic section, and each Asian /
+            # NHPI block of the AANHPI section (where the block aggregate should be the
+            # last row under its subgroups). In the Overall section the four groups are
+            # peers (no subgroup list), so nothing is a summary there — sort by IRR.
+            return (dim in ("Hispanic-origin", "disaggregated-AANHPI")
+                    and "aggregate" in g.lower())
         NHPI_KEYS = ("hawaiian", "guamanian", "chamorro", "samoan", "pacific islander")
         def is_nhpi(g):
             return any(k in g.lower() for k in NHPI_KEYS)
