@@ -17,8 +17,16 @@ GROUP_DISPLAY = {
     "Asian/PI (aggregate)": "Asian American, Native Hawaiian, and Pacific Islander (AANHPI)",
     "Native Hawaiian/PI (aggregate)": "Native Hawaiian and Pacific Islander (NHPI)",
     "Black": "non-Hispanic Black (NHB)",
+    # AI/AN keeps the standard umbrella (no "non-Hispanic" prefix): the headline
+    # representative is IHS-linked, defined by tribal/IHS enrollment, and the salient
+    # issue is undercount correction rather than Hispanic-origin stratification.
+    "AIAN": "American Indian and Alaska Native (AI/AN)",
 }
 
 
 def disp_group(g):
-    return GROUP_DISPLAY.get(g, g)
+    if g in GROUP_DISPLAY:
+        return GROUP_DISPLAY[g]
+    if g.startswith("AIAN ("):          # region subgroups: "AIAN (Navajo)" -> "AI/AN (Navajo)"
+        return "AI/AN " + g[len("AIAN "):]
+    return g

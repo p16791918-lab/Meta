@@ -20,7 +20,7 @@ DIMS = [
     ("aggregate-vs-NHW", "Overall invasive breast cancer"),
     ("disaggregated-AANHPI", "Asian American / Native Hawaiian / Pacific Islander subgroups"),
     ("Hispanic-origin", "Hispanic/Latina by country of origin"),
-    ("AIAN", "American Indian / Alaska Native by region"),
+    ("AIAN", "American Indian and Alaska Native (AI/AN) by region"),
     ("disaggregated-MENA", "Middle Eastern"),
     ("subtype-TNBC", "Triple-negative breast cancer"),
     ("male-BC", "Male breast cancer"),

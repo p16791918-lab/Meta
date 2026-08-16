@@ -131,7 +131,7 @@ def main():
         [("aggregate-vs-NHW", "Black", "non-Hispanic Black (NHB)"),
          ("aggregate-vs-NHW", "Hispanic", "Hispanic / Latina"),
          ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian American, Native Hawaiian,\nand Pacific Islander (AANHPI)"),
-         ("aggregate-vs-NHW", "AIAN", "American Indian / Alaska Native")],
+         ("aggregate-vs-NHW", "AIAN", "American Indian and Alaska Native (AI/AN)")],
         "Aggregate racial/ethnic groups (pooled, all-included)",
         "Fig_pool_aggregate.png", color="#2b6cb0")
     subgroup_forest(cells,

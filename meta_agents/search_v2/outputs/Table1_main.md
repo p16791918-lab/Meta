@@ -42,7 +42,7 @@ Values are the representative estimate per group (one per registry family). Effe
 | Cuban | IRR | 0.755 [0.677, 0.842] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
 | Puerto Rican | IRR | 0.817 [0.726, 0.920] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
 
-**American Indian / Alaska Native by region**
+**American Indian and Alaska Native (AI/AN) by region**
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
