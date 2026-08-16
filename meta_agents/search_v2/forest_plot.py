@@ -141,7 +141,7 @@ def main():
         ("Asian American subgroups", block(lambda l: not is_nhpi(l))),
         ("Native Hawaiian and Pacific Islander (NHPI) subgroups", block(is_nhpi)),
     ]
-    sectioned_forest(sections, "Disaggregated Asian/NHPI subgroups vs the aggregate (IRR vs NHW)",
+    sectioned_forest(sections, "Disaggregated Asian American and NHPI subgroups vs the aggregate (IRR vs NHW)",
                      "Fig_forest_AANHPI.png", color="#b7472a")
 
     # overview: aggregate + hispanic-origin + AIAN region + MENA

@@ -62,7 +62,13 @@ IMG("Fig_PRISMA.png", 680, 578)
 PB()
 H("Figure 2. Disaggregated Asian American / Native Hawaiian and Pacific Islander "
   "subgroups versus the aggregate (IRR vs non-Hispanic White)", 1)
-IMG("Fig_forest_AANHPI.png", 720, 470)
+IMG("Fig_forest_AANHPI.png", 720, 490)
+P("Each ▶ aggregate diamond is the directly-reported, population-weighted incidence "
+  "for that umbrella group — not a pooled average of the subgroups above it. Because "
+  "Native Hawaiians are the large majority of the NHPI population, the NHPI aggregate "
+  "(1.21) sits near the Native Hawaiian value and conceals the much lower Guamanian/"
+  "Chamorro/Samoan rate (0.72); likewise the Asian American aggregate (0.79) conceals "
+  "a range from Hmong (0.16) to Japanese (1.04).", True)
 PB()
 H("Figure 3. Aggregate racial and ethnic groups, Hispanic origin, American Indian / "
   "Alaska Native region, and Middle Eastern populations (IRR vs non-Hispanic White)", 1)
