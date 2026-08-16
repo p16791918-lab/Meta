@@ -128,16 +128,16 @@ def subgroup_forest(cells, groups, title, fname, color="#2b6cb0"):
 def main():
     cells = load_cells()
     subgroup_forest(cells,
-        [("aggregate-vs-NHW", "Black", "Black / African American"),
+        [("aggregate-vs-NHW", "Black", "non-Hispanic Black (NHB)"),
          ("aggregate-vs-NHW", "Hispanic", "Hispanic / Latina"),
-         ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian and Pacific Islander (API)"),
+         ("aggregate-vs-NHW", "Asian/PI (aggregate)", "Asian American, Native Hawaiian,\nand Pacific Islander (AANHPI)"),
          ("aggregate-vs-NHW", "AIAN", "American Indian / Alaska Native")],
         "Aggregate racial/ethnic groups (pooled, all-included)",
         "Fig_pool_aggregate.png", color="#2b6cb0")
     subgroup_forest(cells,
-        [("subtype-TNBC", "Black", "TNBC — Black"),
+        [("subtype-TNBC", "Black", "TNBC — non-Hispanic Black (NHB)"),
          ("subtype-TNBC", "Hispanic", "TNBC — Hispanic"),
-         ("subtype-TNBC", "Asian/PI (aggregate)", "TNBC — Asian and Pacific Islander (API)")],
+         ("subtype-TNBC", "Asian/PI (aggregate)", "TNBC — AANHPI")],
         "Triple-negative breast cancer (pooled, all-included)",
         "Fig_pool_tnbc.png", color="#b7472a")
     subgroup_forest(cells,

@@ -29,8 +29,12 @@ H("Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial an
   "ethnic groups relative to non-Hispanic White women, by analytic dimension", 1)
 P("One representative estimate per group (one estimate per registry family). Effect "
   "measure is the incidence rate ratio (IRR) unless noted as a standardized incidence "
-  "ratio (SIR). RoB = Newcastle-Ottawa rating of the representative study; GRADE = "
-  "certainty of evidence. Full per-estimate detail is in the Supplementary Materials.", True)
+  "ratio (SIR). Comparisons are versus non-Hispanic White (NHW) women; Black denotes "
+  "non-Hispanic Black (NHB), and the Asian/Pacific Islander aggregate is labeled AANHPI "
+  "(Asian American, Native Hawaiian, and Pacific Islander), with the Pacific-Islander "
+  "subset shown separately as NHPI. RoB = Newcastle-Ottawa rating of the representative "
+  "study; GRADE = certainty of evidence. Full per-estimate detail is in the "
+  "Supplementary Materials.", True)
 # Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
 TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",

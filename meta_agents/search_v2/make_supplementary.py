@@ -81,6 +81,7 @@ TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", 
    rows, [1900, 1800, 2200, 2000, 1200, 2200, 2600])
 P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent. For each cell (outcome dimension × group) one representative was kept per registry family, selected by (i) an IRR being computable, (ii) coverage (USCS > NAACCR > SEER-national > state/regional), (iii) most recent end-year then longest span, and (iv) clearest standardization / directly-reported CI.", True)
 P("Main analysis: “yes (representative)” = the estimate carried into the main analysis; “no (overlaps representative)” = collapses to the cell representative and is used only in the all-included sensitivity analysis; “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
+P("Terminology: comparisons are versus non-Hispanic White (NHW); “non-Hispanic Black (NHB)” and NHW denote non-Hispanic categories. Five older sources did NOT stratify by Hispanic origin — Anderson 2008 and Brinton 2008 (age-specific), Gleason 2012 (ER/PR subtypes), and Cronin 2012 and Richardson 2016 (aggregate, sensitivity/overlap only) — so their Black/White groups are non-stratified; none is a main-analysis representative for the headline (aggregate/TNBC) cells (Note 1).", True)
 PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
