@@ -73,10 +73,11 @@ def main():
             eff = "SIR" if "SIR" in pv else "IRR"
             rows.append(dict(dimension=dlabel, group=g, effect=eff, estimate=est,
                              study=auth, period=period,
+                             registry=r.get("registry_family", ""),
                              rob=qual.get(r["record_id"], "NA"),
                              grade=grade.get((dim, g, r["record_id"]), "NA")))
 
-    cols = ["dimension", "group", "effect", "estimate", "study", "period", "rob", "grade"]
+    cols = ["dimension", "group", "effect", "estimate", "study", "period", "registry", "rob", "grade"]
     with open(os.path.join(OUT, "Table1_main.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     with open(os.path.join(OUT, "Table1_main.md"), "w", encoding="utf-8") as f:
@@ -90,11 +91,11 @@ def main():
             if r["dimension"] != cur:
                 cur = r["dimension"]
                 f.write("\n**%s**\n\n| Group | Effect | Estimate [95%% CI] | "
-                        "Representative study | RoB | GRADE |\n"
-                        "|----|----|----|----|----|----|\n" % cur)
-            f.write("| %s | %s | %s | %s (%s) | %s | %s |\n" % (
+                        "Representative study | Registry | RoB | GRADE |\n"
+                        "|----|----|----|----|----|----|----|\n" % cur)
+            f.write("| %s | %s | %s | %s (%s) | %s | %s | %s |\n" % (
                 r["group"], r["effect"], r["estimate"], r["study"], r["period"],
-                r["rob"], r["grade"]))
+                r["registry"], r["rob"], r["grade"]))
     print("wrote outputs/Table1_main.(csv/md) — %d rows" % len(rows))
 
 

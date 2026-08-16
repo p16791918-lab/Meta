@@ -33,8 +33,8 @@ P("One representative estimate per group (one estimate per registry family). Eff
   "certainty of evidence. Full per-estimate detail is in the Supplementary Materials.", True)
 # Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
-TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "RoB", "GRADE"],
-   [], [3200, 1100, 3000, 3400, 1400, 1300])
+TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",
+    "RoB", "GRADE"], [], [2900, 950, 2700, 2500, 2100, 1150, 1100])
 tbl = M[-1]
 cur = None
 for r in t1:
@@ -42,7 +42,8 @@ for r in t1:
         cur = r["dimension"]
         tbl["rows"].append({"section": cur})
     tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
-                        "%s (%s)" % (cite(r["study"]), r["period"]), r["rob"], r["grade"]])
+                        "%s (%s)" % (cite(r["study"]), r["period"]),
+                        r.get("registry", ""), r["rob"], r["grade"]])
 PB()
 
 # NOTE: no main-text "meta-analysis results" table. The main analysis selects one
