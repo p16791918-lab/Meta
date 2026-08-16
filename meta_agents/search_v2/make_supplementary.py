@@ -39,6 +39,43 @@ def study_cell(r):
     return cit
 
 
+# ---- Abbreviations (front matter) ----
+H("Abbreviations", 1)
+ABBR = [
+    ("AANHPI", "Asian American, Native Hawaiian, and Pacific Islander"),
+    ("AI/AN", "American Indian and Alaska Native"),
+    ("ANTR", "Alaska Native Tumor Registry"),
+    ("CI", "confidence interval"),
+    ("DL", "DerSimonian-Laird (random-effects τ² estimator)"),
+    ("GRADE", "Grading of Recommendations, Assessment, Development and Evaluations"),
+    ("HER2", "human epidermal growth factor receptor 2"),
+    ("HKSJ", "Hartung-Knapp-Sidik-Jonkman (confidence-interval method)"),
+    ("HR", "hormone receptor"),
+    ("I²", "I-squared (proportion of variation due to between-study heterogeneity)"),
+    ("IHS", "Indian Health Service"),
+    ("IRR", "incidence rate ratio"),
+    ("MENA", "Middle Eastern and North African"),
+    ("NAACCR", "North American Association of Central Cancer Registries"),
+    ("NHB", "non-Hispanic Black"),
+    ("NHPI", "Native Hawaiian and Pacific Islander"),
+    ("NHW", "non-Hispanic White"),
+    ("NOS", "Newcastle-Ottawa Scale"),
+    ("NPCR", "National Program of Cancer Registries"),
+    ("PM", "Paule-Mandel (random-effects τ² estimator, REML-equivalent)"),
+    ("PRCDA", "Purchased/Referred Care Delivery Area (IHS)"),
+    ("PRISMA", "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"),
+    ("Q", "Cochran's Q (heterogeneity test statistic)"),
+    ("REML", "restricted maximum likelihood"),
+    ("RoB", "risk of bias"),
+    ("SEER", "Surveillance, Epidemiology, and End Results Program"),
+    ("SIR", "standardized incidence ratio"),
+    ("TNBC", "triple-negative breast cancer"),
+    ("USCS", "United States Cancer Statistics (NPCR + SEER)"),
+    ("τ²", "tau-squared (between-study variance)"),
+]
+TB(["Abbreviation", "Definition"], [[a, d] for a, d in ABBR], [2200, 9000])
+PB()
+
 # ---- S1 search strategy ----
 H("Supplementary Table 1. Final search strategy for each database", 1)
 P("Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026, English, human; document-type exclusions.", True)
