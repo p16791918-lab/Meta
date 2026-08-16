@@ -12,7 +12,7 @@ Values are the representative estimate per group (one per registry family). Effe
 | AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | IHS-PRCDA | Good | Low |
 | Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
 
-**Asian American / Native Hawaiian / Pacific Islander subgroups**
+**Asian American subgroups**
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
@@ -21,13 +21,18 @@ Values are the representative estimate per group (one per registry family). Effe
 | Laotian/Kampuchean | IRR | 0.388 [0.350, 0.430] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Moderate |
 | Vietnamese | IRR | 0.586 [0.566, 0.608] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Korean | IRR | 0.677 [0.654, 0.701] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
-| Guamanian/Chamorro/Samoan | IRR | 0.723 [0.641, 0.817] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Chinese | IRR | 0.760 [0.745, 0.775] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Filipina | IRR | 0.857 [0.839, 0.874] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Asian Indian/Pakistani | IRR | 0.958 [0.937, 0.979] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Japanese | IRR | 1.045 [1.009, 1.083] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
-| Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | NAACCR/CiNA (~93%) | Good | Low |
 | Asian American (aggregate) | IRR | 0.792 [0.784, 0.800] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
+
+**Native Hawaiian and Pacific Islander (NHPI) subgroups**
+
+| Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
+|----|----|----|----|----|----|----|
+| Guamanian/Chamorro/Samoan | IRR | 0.723 [0.641, 0.817] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
+| Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | NAACCR/CiNA (~93%) | Good | Low |
 | Native Hawaiian/PI (aggregate) | IRR | 1.212 [1.168, 1.258] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 
 **Hispanic/Latina by country of origin**

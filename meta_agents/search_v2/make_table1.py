@@ -72,7 +72,19 @@ def main():
             # "(aggregate)" rows and the bare "AIAN" national row that sits among
             # the AI/AN-by-region subgroups.
             return "aggregate" in g.lower() or g == "AIAN"
+        NHPI_KEYS = ("hawaiian", "guamanian", "chamorro", "samoan", "pacific islander")
+        def is_nhpi(g):
+            return any(k in g.lower() for k in NHPI_KEYS)
+        def seclabel(g):
+            # split the AANHPI block into Asian vs NHPI so the reader can see which
+            # detailed groups are Asian and which are Pacific Islander.
+            if dim == "disaggregated-AANHPI":
+                return ("Native Hawaiian and Pacific Islander (NHPI) subgroups"
+                        if is_nhpi(g) else "Asian American subgroups")
+            return dlabel
         def sortkey(g):
+            if dim == "disaggregated-AANHPI":
+                return (1 if is_nhpi(g) else 0, 1 if is_summary(g) else 0, irrval(g))
             return (1 if is_summary(g) else 0, irrval(g))
         for g in sorted(members, key=sortkey):
             r = members[g]
@@ -83,7 +95,7 @@ def main():
             pv, auth, period = prov.get((r["record_id"], dim, g, r["irr"]),
                                         ("", r["record_id"], r["period"]))
             eff = "SIR" if "SIR" in pv else "IRR"
-            rows.append(dict(dimension=dlabel, group=g, effect=eff, estimate=est,
+            rows.append(dict(dimension=seclabel(g), group=g, effect=eff, estimate=est,
                              study=auth, period=period,
                              registry=r.get("registry_family", ""),
                              rob=qual.get(r["record_id"], "NA"),
