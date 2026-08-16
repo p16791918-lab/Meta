@@ -7,9 +7,9 @@ Values are the representative estimate per group (one per registry family). Effe
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
-| AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | IHS-PRCDA | Good | Low |
 | Hispanic | IRR | 0.718 [0.707, 0.731] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Black | IRR | 0.933 [0.920, 0.946] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
+| AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | IHS-PRCDA | Good | Low |
 | Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
 
 **Asian American / Native Hawaiian / Pacific Islander subgroups**
@@ -45,9 +45,9 @@ Values are the representative estimate per group (one per registry family). Effe
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
 | AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Yazzie2025_Navajo (2014-2018) | IHS-PRCDA | Good | Moderate |
-| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | IHS-PRCDA | Good | Very low |
 | AIAN (Southern Plains) | IRR | 1.25 [1.11, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | IHS-PRCDA | Good | Low |
 | AIAN (Northern Plains) | IRR | 1.33 [1.26, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | IHS-PRCDA | Good | Low |
+| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | IHS-PRCDA | Good | Very low |
 
 **Middle Eastern**
 
@@ -62,11 +62,11 @@ Values are the representative estimate per group (one per registry family). Effe
 | Chinese | IRR | 0.53 [0.39, 0.71] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Asian-American combined | IRR | 0.61 [0.58, 0.65] | Gomez2017_CCR (2009-2013) | California-CCR | Good | Low |
 | Filipino | IRR | 0.84 [0.8, 0.88] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
-| AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Hispanic | IRR | 0.860 [0.840, 0.880] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Native Hawaiian | IRR | 0.86 [0.79, 0.91] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Black | IRR | 1.950 [1.930, 1.980] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
+| AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 
 **Male breast cancer**
 

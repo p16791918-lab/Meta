@@ -63,8 +63,13 @@ def main():
                 return float(members[g]["irr"])
             except ValueError:
                 return 99
+        def is_summary(g):
+            # aggregate/summary rows go to the bottom of a section: the AANHPI
+            # "(aggregate)" rows and the bare "AIAN" national row that sits among
+            # the AI/AN-by-region subgroups.
+            return "aggregate" in g.lower() or g == "AIAN"
         def sortkey(g):
-            return (1 if "aggregate" in g.lower() else 0, irrval(g))
+            return (1 if is_summary(g) else 0, irrval(g))
         for g in sorted(members, key=sortkey):
             r = members[g]
             if not r["irr"].strip():
