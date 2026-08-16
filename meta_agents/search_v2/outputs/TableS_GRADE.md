@@ -2,7 +2,7 @@
 
 Observational bodies of evidence start at Low. Downgrades: RoB, inconsistency (direction disagreement, NOT the registry-overlap I2), indirectness, imprecision, publication bias. Upgrade: large magnitude (IRR<=0.5 or >=2.0: +1; <=0.2 or >=5.0: +2). **AI-generated first pass — reviewer to spot-check.**
 
-Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
+Distribution: {'Low': 70, 'Moderate': 5, 'High': 1, 'Very low': 10}
 
 | Dimension | Group | IRR [95%% CI] | RoB | -RoB | -Incons | -Imprec | +Large | GRADE |
 |----|----|----|----|----|----|----|----|----|
@@ -16,11 +16,9 @@ Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
 | disaggregated-AANHPI | Cambodian | 0.264 [0.204, 0.341] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Chinese | 0.760 [0.745, 0.775] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Filipina | 0.857 [0.839, 0.874] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Filipino (young) | 0.95 [0.90, 1.01] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Guamanian/Chamorro/Samoan | 0.723 [0.641, 0.817] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Hmong | 0.164 [0.120, 0.224] | Good | 0 | 0 | 0 | +2 | **High** |
 | disaggregated-AANHPI | Japanese | 1.045 [1.009, 1.083] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | Japanese (young) | 1.02 [0.91, 1.14] | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Korean | 0.677 [0.654, 0.701] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Laotian/Kampuchean | 0.388 [0.350, 0.430] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Native Hawaiian | 1.211 [1.123, 1.305] | Good | 0 | 0 | 0 | +0 | **Low** |

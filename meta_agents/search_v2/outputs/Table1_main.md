@@ -9,8 +9,8 @@ Values are the representative estimate per group (one per registry family). Effe
 |----|----|----|----|----|----|----|
 | AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | IHS-PRCDA | Good | Low |
 | Hispanic | IRR | 0.718 [0.707, 0.731] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
-| Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Black | IRR | 0.933 [0.920, 0.946] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
+| Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Good | Low |
 
 **Asian American / Native Hawaiian / Pacific Islander subgroups**
 
@@ -23,13 +23,11 @@ Values are the representative estimate per group (one per registry family). Effe
 | Korean | IRR | 0.677 [0.654, 0.701] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Guamanian/Chamorro/Samoan | IRR | 0.723 [0.641, 0.817] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Chinese | IRR | 0.760 [0.745, 0.775] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
-| Asian American (aggregate) | IRR | 0.792 [0.784, 0.800] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Filipina | IRR | 0.857 [0.839, 0.874] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
-| Filipino (young) | IRR | 0.95 [0.90, 1.01] | Gomez2017_CCR (2009-2013) | California-CCR | Good | Very low |
 | Asian Indian/Pakistani | IRR | 0.958 [0.937, 0.979] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
-| Japanese (young) | IRR | 1.02 [0.91, 1.14] | Gomez2017_CCR (2009-2013) | California-CCR | Good | Very low |
 | Japanese | IRR | 1.045 [1.009, 1.083] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Native Hawaiian | IRR | 1.211 [1.123, 1.305] | Miller2008_NAACCR-API (1998-2002) | NAACCR/CiNA (~93%) | Good | Low |
+| Asian American (aggregate) | IRR | 0.792 [0.784, 0.800] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 | Native Hawaiian/PI (aggregate) | IRR | 1.212 [1.168, 1.258] | Gomez2026_SEER21 (2018-2022) | SEER-national | Good | Low |
 
 **Hispanic/Latina by country of origin**
@@ -37,10 +35,10 @@ Values are the representative estimate per group (one per registry family). Effe
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
 | Mexican | IRR | 0.503 [0.376, 0.673] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
-| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Carozza2006_multistate (1995-2000) | NAACCR/CiNA (~93%) | Good | Very low |
 | New Latino | IRR | 0.684 [0.619, 0.756] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
 | Cuban | IRR | 0.755 [0.677, 0.842] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
 | Puerto Rican | IRR | 0.817 [0.726, 0.920] | Pinheiro2009_FL (1999-2001) | State: Florida | Good | Low |
+| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Carozza2006_multistate (1995-2000) | NAACCR/CiNA (~93%) | Good | Very low |
 
 **American Indian and Alaska Native (AI/AN) by region**
 
@@ -63,12 +61,12 @@ Values are the representative estimate per group (one per registry family). Effe
 |----|----|----|----|----|----|----|
 | Chinese | IRR | 0.53 [0.39, 0.71] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Asian-American combined | IRR | 0.61 [0.58, 0.65] | Gomez2017_CCR (2009-2013) | California-CCR | Good | Low |
-| Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Filipino | IRR | 0.84 [0.8, 0.88] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Hispanic | IRR | 0.860 [0.840, 0.880] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Native Hawaiian | IRR | 0.86 [0.79, 0.91] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Black | IRR | 1.950 [1.930, 1.980] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
+| Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 
 **Male breast cancer**
 

@@ -26,9 +26,7 @@ One estimate per registry family; not pooled across groups.
 | Chinese | 0.760 | 0.745-0.775 | 234 |
 | Asian American (aggregate) | 0.792 | 0.784-0.800 | 234 |
 | Filipina | 0.857 | 0.840-0.875 | 234 |
-| Filipino (young) | 0.950 | 0.897-1.006 | 324 |
 | Asian Indian/Pakistani | 0.958 | 0.937-0.979 | 234 |
-| Japanese (young) | 1.020 | 0.911-1.142 | 324 |
 | Japanese | 1.045 | 1.009-1.083 | 234 |
 | Native Hawaiian | 1.211 | 1.123-1.305 | 4040 |
 | Native Hawaiian/PI (aggregate) | 1.212 | 1.168-1.258 | 234 |

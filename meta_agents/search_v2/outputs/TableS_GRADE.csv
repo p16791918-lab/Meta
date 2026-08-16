@@ -9,11 +9,9 @@ disaggregated-AANHPI,Asian Indian/Pakistani,234,"0.958 [0.937, 0.979]",Good,0,0,
 disaggregated-AANHPI,Cambodian,3267,"0.264 [0.204, 0.341]",Good,0,0,0,0,0,1,single,Moderate
 disaggregated-AANHPI,Chinese,234,"0.760 [0.745, 0.775]",Good,0,0,0,0,0,0,single,Low
 disaggregated-AANHPI,Filipina,234,"0.857 [0.839, 0.874]",Good,0,0,0,0,0,0,single,Low
-disaggregated-AANHPI,Filipino (young),324,"0.95 [0.90, 1.01]",Good,0,0,0,1,0,0,single,Very low
 disaggregated-AANHPI,Guamanian/Chamorro/Samoan,234,"0.723 [0.641, 0.817]",Good,0,0,0,0,0,0,single,Low
 disaggregated-AANHPI,Hmong,49,"0.164 [0.120, 0.224]",Good,0,0,0,0,0,2,single,High
 disaggregated-AANHPI,Japanese,234,"1.045 [1.009, 1.083]",Good,0,0,0,0,0,0,single,Low
-disaggregated-AANHPI,Japanese (young),324,"1.02 [0.91, 1.14]",Good,0,0,0,1,0,0,single,Very low
 disaggregated-AANHPI,Korean,234,"0.677 [0.654, 0.701]",Good,0,0,0,0,0,0,100,Low
 disaggregated-AANHPI,Laotian/Kampuchean,234,"0.388 [0.350, 0.430]",Good,0,0,0,0,0,1,single,Moderate
 disaggregated-AANHPI,Native Hawaiian,4040,"1.211 [1.123, 1.305]",Good,0,0,0,0,0,0,11,Low

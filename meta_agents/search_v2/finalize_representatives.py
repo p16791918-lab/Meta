@@ -93,7 +93,11 @@ def main():
         raise SystemExit("CONTAMINATION: non-v2 records in ledger: %s" % dict(bad))
     QUARANTINE = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
     rows = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
-            if r.get("verification", "") not in QUARANTINE]
+            if r.get("verification", "") not in QUARANTINE
+            # Age-restricted ("young") subgroups conflate age x ethnicity and are
+            # excluded from the all-age disaggregated synthesis (kept in the ledger
+            # for provenance; noted narratively).
+            and "young" not in r.get("minority_group", "").lower()]
     for r in rows:
         fam, tier, fclass = registry_family(r["registry"])
         r["_family"] = fam

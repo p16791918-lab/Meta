@@ -55,14 +55,17 @@ def main():
     rows = []
     for dim, dlabel in DIMS:
         members = {g: pick(cs) for (d, g), cs in cells.items()
-                   if d == dim and (d, g) not in DROP}
-        # sort groups by IRR ascending
+                   if d == dim and (d, g) not in DROP
+                   and "young" not in g.lower()}  # drop age-restricted subgroups (conflate age x ethnicity)
+        # sort by IRR ascending, but push aggregate/summary rows to the bottom of the section
         def irrval(g):
             try:
                 return float(members[g]["irr"])
             except ValueError:
                 return 99
-        for g in sorted(members, key=irrval):
+        def sortkey(g):
+            return (1 if "aggregate" in g.lower() else 0, irrval(g))
+        for g in sorted(members, key=sortkey):
             r = members[g]
             if not r["irr"].strip():
                 continue  # no usable point estimate
