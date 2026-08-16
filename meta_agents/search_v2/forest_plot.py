@@ -89,11 +89,18 @@ def main():
            "Fig_forest_AANHPI.png", color="#b7472a", divider_after=len(aan_sub))
 
     # overview: aggregate + hispanic-origin + AIAN region + MENA
+    # use the short abbreviation for the aggregate rows so the compact overview
+    # doesn't clip long umbrella names (full names are in Table 1 / the caption).
+    import re as _re
+    def _short(lab):
+        d2 = disp_group(lab)
+        m = _re.search(r"\(([^)]+)\)\s*$", d2)   # ...(AANHPI) -> AANHPI
+        return m.group(1) if m else d2
     ov = []
     for lab, irr, lo, hi in sorted(d.get("aggregate-vs-NHW", []), key=lambda x: x[1]):
         if lab.startswith("Black (women)"):
             continue
-        ov.append(("[Overall] " + disp_group(lab), irr, lo, hi))
+        ov.append(("[Overall] " + _short(lab), irr, lo, hi))
     for lab, irr, lo, hi in sorted(d.get("Hispanic-origin", []), key=lambda x: x[1]):
         ov.append(("[Hispanic] " + lab, irr, lo, hi))
     for lab, irr, lo, hi in sorted(d.get("AIAN", []), key=lambda x: x[1]):

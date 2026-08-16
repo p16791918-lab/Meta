@@ -13,6 +13,15 @@ Outputs:
 """
 import csv
 import os
+import re
+
+
+def norm_groups(s):
+    """Standardize umbrella shorthand in the free-text 'groups vs NHW' coverage note
+    to match the analysis labels: API -> AANHPI, AIAN -> AI/AN (word-boundary)."""
+    s = re.sub(r"\bAPI\b", "AANHPI", s)
+    s = re.sub(r"\bAIAN\b", "AI/AN", s)
+    return s
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MERGED = os.path.join(HERE, "merged_unique.csv")
@@ -34,7 +43,7 @@ def main():
             "record_id": rid,
             "citation": "%s (%s)" % (rec.get("title", ""), rec.get("year", "")),
             "data_source": r.get("registry_family", "").strip(),
-            "groups_vs_nhw": r.get("groups_vs_nhw", "").strip(),
+            "groups_vs_nhw": norm_groups(r.get("groups_vs_nhw", "").strip()),
             "outcome_measure": r.get("rate_location", "").strip(),
             "synthesis": "quantitative" if dec == "include-quant" else "narrative",
             "note": r.get("note", "").strip(),
