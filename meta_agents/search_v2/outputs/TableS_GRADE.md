@@ -35,8 +35,8 @@ Distribution: {'Low': 70, 'Moderate': 5, 'Very low': 12, 'High': 1}
 | Hispanic-origin | Puerto Rican | 0.817 [0.726, 0.920] | Good | 0 | 0 | 0 | +0 | **Low** |
 | AIAN | AIAN | 0.87 | Good | 0 | 0 | 1 | +0 | **Very low** |
 | AIAN | AIAN (Navajo) | 0.49 [0.44, 0.55] | Good | 0 | 0 | 0 | +1 | **Moderate** |
-| AIAN | AIAN (Northern Plains, provisional) | 1.33 [1.26, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
-| AIAN | AIAN (Southern Plains, provisional) | 1.25 [1.11, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
+| AIAN | AIAN (Northern Plains) | 1.33 [1.26, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
+| AIAN | AIAN (Southern Plains) | 1.25 [1.11, 1.41] | Good | 0 | 0 | 0 | +0 | **Low** |
 | male-BC | Black (men) | 1.52 [1.44, 1.6] | Good | 0 | 0 | 0 | +0 | **Low** |
 | age-ge50 | AIAN | 0.647 | Poor | 1 | 0 | 1 | +0 | **Very low** |
 | age-lt50 | AIAN | 0.75 [0.72, 0.79] | Good | 0 | 0 | 0 | +0 | **Low** |

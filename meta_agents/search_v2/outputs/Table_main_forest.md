@@ -53,8 +53,8 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | AIAN (Navajo) | 0.490 | 0.438-0.548 | 1478 |
-| AIAN (Southern Plains, provisional) | 1.250 | 1.109-1.409 | 3662 |
-| AIAN (Northern Plains, provisional) | 1.330 | 1.257-1.407 | 3662 |
+| AIAN (Southern Plains) | 1.250 | 1.109-1.409 | 3662 |
+| AIAN (Northern Plains) | 1.330 | 1.257-1.407 | 3662 |
 
 **male-BC**
 

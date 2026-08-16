@@ -6,8 +6,8 @@ age-ge50,Hispanic,national,0.660,485,,,dropped,1,0
 AIAN,AIAN,national,0.384,107,0.384,107,unchanged,1,1
 AIAN,AIAN,IHS-PRCDA,0.87,2510,0.87,2510,unchanged,1,1
 AIAN,AIAN (Navajo),IHS-PRCDA,0.49,1478,0.49,1478,unchanged,1,1
-AIAN,"AIAN (Northern Plains, provisional)",IHS-PRCDA,1.33,3662,1.33,3662,unchanged,1,1
-AIAN,"AIAN (Southern Plains, provisional)",IHS-PRCDA,1.25,3662,1.25,3662,unchanged,1,1
+AIAN,AIAN (Northern Plains),IHS-PRCDA,1.33,3662,1.33,3662,unchanged,1,1
+AIAN,AIAN (Southern Plains),IHS-PRCDA,1.25,3662,1.25,3662,unchanged,1,1
 AIAN,Alaska Native,national,1.09,28,1.09,28,unchanged,2,2
 Hispanic-origin,Cuban,national,0.755,3182,0.755,3182,unchanged,1,1
 Hispanic-origin,Hispanic/Latina (aggregate),national,0.64,3298,0.64,3298,unchanged,2,2
