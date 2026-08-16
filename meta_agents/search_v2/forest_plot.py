@@ -73,20 +73,76 @@ def forest(items, title, fname, color="#2b6cb0", divider_after=None):
     print("wrote outputs/%s (%d rows)" % (fname, n))
 
 
+def sectioned_forest(sections, title, fname, color="#2b6cb0"):
+    """sections: list of (header, rows) where rows are (label, irr, lo, hi, is_agg).
+    Each section gets a bold header row and a divider; aggregate rows are bold
+    diamonds."""
+    flat = []  # (label, irr, lo, hi, kind)  kind in {header, study, agg}
+    for hdr, rows in sections:
+        flat.append((hdr, None, None, None, "header"))
+        for lab, irr, lo, hi, is_agg in rows:
+            flat.append((lab, irr, lo, hi, "agg" if is_agg else "study"))
+    n = len(flat)
+    fig, ax = plt.subplots(figsize=(9.6, 0.42 * n + 1.4))
+    ys = list(range(n))[::-1]
+    for y, (lab, irr, lo, hi, kind) in zip(ys, flat):
+        if kind == "header":
+            continue
+        agg = kind == "agg"
+        ax.plot([lo, hi], [y, y], "-", color=color, lw=1.6, zorder=2)
+        ax.plot(irr, y, "D" if agg else "s", color=color, ms=8 if agg else 7, zorder=3)
+        ax.text(hi * 1.04, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi), va="center", ha="left",
+                fontsize=8.2, color="#222", fontweight="bold" if agg else "normal")
+    # dividers above each header after the first
+    for idx, (_, _, _, _, kind) in enumerate(flat):
+        if kind == "header" and idx > 0:
+            ax.axhline(n - idx - 0.5, color="#aaa", lw=0.9, zorder=1)
+    ax.axvline(1.0, color="#888", ls="--", lw=1, zorder=1)
+    ax.set_yticks(ys)
+    ax.set_yticklabels([lab for lab, *_ in flat], fontsize=9)
+    for lbl, (_, _, _, _, kind) in zip(ax.get_yticklabels(), flat):
+        if kind in ("header", "agg"):
+            lbl.set_fontweight("bold")
+    ax.set_ylim(-0.6, n - 0.3)   # headroom so the top section header isn't clipped
+    ax.set_xscale("log"); ax.set_xlim(0.10, 3.4)
+    ticks = [0.12, 0.25, 0.5, 1.0, 2.0, 3.0]
+    ax.xaxis.set_major_locator(FixedLocator(ticks))
+    ax.xaxis.set_major_formatter(FixedFormatter([str(t) for t in ticks]))
+    ax.xaxis.set_minor_locator(NullLocator())
+    ax.tick_params(axis="x", labelsize=8.5)
+    ax.set_xlabel("Incidence rate ratio vs non-Hispanic White (log scale)", fontsize=9.5)
+    ax.set_title(title, fontsize=9.5, fontweight="bold", loc="left", pad=22)
+    ax.text(1.0, 1.02, "← lower        higher →", transform=ax.transAxes,
+            ha="right", va="bottom", fontsize=7.5, color="#777")
+    for s in ("top", "right", "left"):
+        ax.spines[s].set_visible(False)
+    ax.tick_params(axis="y", length=0)
+    plt.subplots_adjust(left=0.42, right=0.82, top=0.86, bottom=0.15)
+    fig.savefig(os.path.join(OUT, fname), dpi=200)
+    plt.close(fig)
+    print("wrote outputs/%s (%d rows)" % (fname, n))
+
+
 def main():
     d = load()
-    # AANHPI: disaggregated subgroups (top, sorted by IRR) then the aggregate
-    # summaries pulled to the bottom below a divider, to show how much the single
-    # aggregate values conceal.
     from labels import disp_group
+    # AANHPI: split into Asian American vs NHPI, each = subgroups (sorted by IRR)
+    # then that block's aggregate; shows how the single aggregates conceal the range.
+    NHPI_KEYS = ("hawaiian", "guamanian", "chamorro", "samoan", "pacific islander")
+    def is_nhpi(l): return any(k in l.lower() for k in NHPI_KEYS)
     aan_all = [x for x in d.get("disaggregated-AANHPI", []) if "young" not in x[0].lower()]
-    aan_sub = [(disp_group(l), i, lo, hi) for l, i, lo, hi
-               in sorted([x for x in aan_all if "aggregate" not in x[0].lower()], key=lambda x: x[1])]
-    aan_agg = [("▶ " + disp_group(l), i, lo, hi) for l, i, lo, hi
-               in sorted([x for x in aan_all if "aggregate" in x[0].lower()], key=lambda x: x[1])]
-    items = aan_sub + aan_agg
-    forest(items, "Disaggregated Asian/NHPI subgroups vs the aggregate (IRR vs NHW)",
-           "Fig_forest_AANHPI.png", color="#b7472a", divider_after=len(aan_sub))
+    def block(pred):
+        subs = sorted([x for x in aan_all if pred(x[0]) and "aggregate" not in x[0].lower()], key=lambda x: x[1])
+        aggs = sorted([x for x in aan_all if pred(x[0]) and "aggregate" in x[0].lower()], key=lambda x: x[1])
+        rows = [(disp_group(l), i, lo, hi, False) for l, i, lo, hi in subs]
+        rows += [("▶ " + disp_group(l), i, lo, hi, True) for l, i, lo, hi in aggs]
+        return rows
+    sections = [
+        ("Asian American subgroups", block(lambda l: not is_nhpi(l))),
+        ("Native Hawaiian and Pacific Islander (NHPI) subgroups", block(is_nhpi)),
+    ]
+    sectioned_forest(sections, "Disaggregated Asian/NHPI subgroups vs the aggregate (IRR vs NHW)",
+                     "Fig_forest_AANHPI.png", color="#b7472a")
 
     # overview: aggregate + hispanic-origin + AIAN region + MENA
     # use the short abbreviation for the aggregate rows so the compact overview
