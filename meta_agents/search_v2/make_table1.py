@@ -56,7 +56,11 @@ def main():
     for dim, dlabel in DIMS:
         members = {g: pick(cs) for (d, g), cs in cells.items()
                    if d == dim and (d, g) not in DROP
-                   and "young" not in g.lower()}  # drop age-restricted subgroups (conflate age x ethnicity)
+                   and "young" not in g.lower()  # drop age-restricted subgroups (conflate age x ethnicity)
+                   # the AI/AN-by-region section shows regions only; the national
+                   # AI/AN aggregate is already the Overall row (avoid a duplicate
+                   # "AI/AN" label with a different value in the same table).
+                   and not (dim == "AIAN" and g == "AIAN")}
         # sort by IRR ascending, but push aggregate/summary rows to the bottom of the section
         def irrval(g):
             try:
