@@ -36,7 +36,7 @@ Overall (43 studies): {'Good': 40, 'Poor': 3}. Main-analysis representatives (28
 | 500 | Gopalani2020_31764279 | IHS-linked | 1999-2015 | Y | 4 | 1 | 2 | **Good** |
 | 522 | Ihenacho2023_HTR | Hawaii Tumor Registry (SEER) | 2010-2014 | Y | 4 | 2 | 3 | **Good** |
 | 587 | Nasseri2009 | California-CCR | 1988-2004 | Y | 3 | 2 | 3 | **Good** |
-| 955 | Goggins2009 | SEER (SF/Seattle/Detroit/Atlan | 1988-2004 | s | 4 | 2 | 3 | **Good** |
+| 955 | Goggins2009 | SEER (SF/Seattle/Detroit/Atlan | 1988-2004 | s | 4 | 1 | 3 | **Good** |
 | 1478 | Yazzie2025_Navajo | Navajo Nation registry (IHS) | 2014-2018 | Y | 4 | 2 | 3 | **Good** |
 | 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | s | 4 | 2 | 3 | **Good** |
 | 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2011-2015 | Y | 4 | 2 | 3 | **Good** |

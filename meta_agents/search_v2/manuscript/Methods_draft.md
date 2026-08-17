@@ -30,8 +30,10 @@ concept blocks with AND—breast cancer, race or ethnicity, incidence or age-adj
 the United States—using database-specific controlled vocabulary together with title/abstract
 terms, so that race and ethnicity terms were not restricted to the title. Results were limited
 to 2000–2026, English, and human studies, with document-type exclusions for reviews, letters,
-editorials, notes, and conference abstracts. The four searches returned 9,099 records. Full
-strings, platforms, dates, and per-database counts are given in Supplementary Table 1.
+editorials, notes, and conference abstracts. The four searches returned 9,099 records. The
+search was limited to these databases; reference lists were not hand-searched and grey
+literature was not sought. Full strings, platforms, dates, and per-database counts are given
+in Supplementary Table 1.
 
 ### Eligibility criteria
 Studies were eligible if they reported invasive breast cancer incidence among women in the
@@ -83,7 +85,11 @@ classification, registry coverage, the use of a comparator drawn from the same s
 whether the outcome was directly reported or correctly computed with a variance. Certainty of
 evidence was rated within a prespecified GRADE-informed framework,³,⁴ with observational
 estimates starting at low certainty and moving down for risk of bias, inconsistency, or
-imprecision and up for a large effect.
+imprecision and up for a large effect. Publication bias and small-study effects were not
+formally tested (funnel plots or Egger regression): the estimates within each cell come
+largely from the same overlapping registry data rather than from independent studies, so
+small-study asymmetry tests would be uninformative, and population-based registry rates are
+not subject to the selective-publication mechanism these tests assume.
 
 ### Statistical analysis
 Each estimate was expressed as an IRR relative to NHW women. When a study reported

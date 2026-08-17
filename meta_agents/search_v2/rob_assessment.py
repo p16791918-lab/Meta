@@ -108,10 +108,11 @@ def score(s):
     # ---- COMPARABILITY ----
     C1 = 1 if re.search(r"2000 us|1970|world|segi|standard", s["std"].lower()) else 0
     j["C1"] = ("standardized to %s" % s["std"]) if C1 else "standardization not stated"
-    ext = ("external" in notes or "seer-explorer" in notes
-           or "back-derived" in notes or s.get("comparison", "").lower().find("external") >= 0)
+    comp_l = s.get("comparison", "").lower()
+    ext = ("external" in notes or "seer-explorer" in notes or "back-derived" in notes
+           or "external" in comp_l or "sir reference" in comp_l)
     C2 = 0 if ext else 1
-    j["C2"] = "externally-paired NHW comparator" if ext else "in-paper NHW comparator, same registry/period/standard"
+    j["C2"] = "externally-referenced comparator (external/SIR standard)" if ext else "in-paper White/NHW comparator, same registry/period/standard"
     comp = C1 + C2
     # ---- OUTCOME ----
     O1 = 1
