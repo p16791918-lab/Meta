@@ -89,8 +89,11 @@ def sectioned_forest(sections, title, fname, color="#2b6cb0"):
         if kind == "header":
             continue
         agg = kind == "agg"
+        # aggregate rows use the SAME square marker as subgroups (not a diamond): the
+        # aggregate is a study's own reported value, not a statistical pool of the
+        # subgroups above it, so it must not carry the meta-analytic diamond glyph.
         ax.plot([lo, hi], [y, y], "-", color=color, lw=1.6, zorder=2)
-        ax.plot(irr, y, "D" if agg else "s", color=color, ms=8 if agg else 7, zorder=3)
+        ax.plot(irr, y, "s", color=color, ms=7, zorder=3)
         ax.text(hi * 1.04, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi), va="center", ha="left",
                 fontsize=8.2, color="#222", fontweight="bold" if agg else "normal")
     # dividers above each header after the first
