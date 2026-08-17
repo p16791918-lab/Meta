@@ -1,6 +1,6 @@
 # Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)
 
-Cells: 90 total — unchanged 62, changed 1, dropped 27.
+Cells: 88 total — unchanged 60, changed 1, dropped 27.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 

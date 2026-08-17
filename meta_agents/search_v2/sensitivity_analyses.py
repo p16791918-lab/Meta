@@ -30,6 +30,8 @@ def load(qual):
     for r in csv.DictReader(open(LED, encoding="utf-8")):
         if r.get("verification") in QUAR or r["record_id"] == "SEER-EXPL":
             continue
+        if "young" in r.get("minority_group", "").lower():
+            continue  # match the main analysis, which excludes age-restricted "young" subgroups
         fam, tier, fclass = registry_family(r["registry"])
         r["_tier"] = tier
         r["_cluster"] = "%s|%s|%s" % (r["outcome_dim"], r["minority_group"], fclass)

@@ -1,6 +1,6 @@
 # Sensitivity #1 — Good-RoB studies only (Poor dropped)
 
-Cells: 90 total — unchanged 86, changed 0, dropped 4.
+Cells: 88 total — unchanged 84, changed 0, dropped 4.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 

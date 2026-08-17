@@ -138,7 +138,10 @@ GT([["Study", 1, True], ["Selection", 4, False], ["Comparability", 2, False], ["
 P("Sel = Selection (max 4 stars): (1) representativeness — defined population-based registry; (2) sample size — adequate case count for a stable age-adjusted rate (national/multi-registry or ≥50 cases); (3) ascertainment of race/ethnicity — standard registry coding or IHS/tribal linkage (surname-based or national AI/AN undercount loses the star); (4) case ascertainment completeness (high-completeness registry).", True)
 P("Comp = Comparability (max 2 stars): (1) age-standardization to a stated standard population (e.g., 2000 US); (2) minority and non-Hispanic White comparator from the same standard, diagnosis period and registry (externally-paired comparator loses the star).", True)
 P("Out = Outcome (max 3 stars): (1) outcome assessment — invasive breast cancer via registry/pathology record linkage; (2) statistical reporting — 95% CI or SE reported; (3) appropriate analysis — age-adjusted IRR directly reported or correctly computed with a variance (point-only computation loses the star).", True)
-P("Overall quality (AHRQ thresholds): Good = Selection 3–4 AND Comparability 1–2 AND Outcome 2–3; Fair = Selection 2 AND Comparability 1–2 AND Outcome 2–3; Poor = Selection 0–1 OR Comparability 0 OR Outcome 0–1. The 8 Poor ratings arise where only a point estimate without a confidence interval was available (Outcome = 1). Assessment is an AI-generated first pass for reviewer verification.", True)
+_ngood = sum(1 for r in rob if r["Overall_quality"] == "Good")
+_npoor = sum(1 for r in rob if r["Overall_quality"] == "Poor")
+P("Overall quality (AHRQ thresholds): Good = Selection 3–4 AND Comparability 1–2 AND Outcome 2–3; Fair = Selection 2 AND Comparability 1–2 AND Outcome 2–3; Poor = Selection 0–1 OR Comparability 0 OR Outcome 0–1. Of %d studies assessed, %d were Good and %d Poor; the Poor ratings arise where only a point estimate without a confidence interval was available (Outcome = 1). Assessment is an AI-generated first pass for reviewer verification."
+  % (len(rob), _ngood, _npoor), True)
 PB()
 
 # ---- Table 6: GRADE-informed scoring framework (like supervisor Table 2) ----

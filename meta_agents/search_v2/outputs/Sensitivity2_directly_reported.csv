@@ -51,8 +51,6 @@ age-lt50,Asian/PI (aggregate),national,0.96,146,0.96,146,unchanged,1,1
 age-lt50,Black,national,1.01,146,1.01,146,unchanged,1,1
 age-lt50,Hispanic,national,0.76,146,0.76,146,unchanged,1,1
 aggregate-vs-NHW,Black (women),national,0.98,2406,0.98,2406,unchanged,1,1
-disaggregated-AANHPI,Filipino (young),national,0.95,324,0.95,324,unchanged,1,1
-disaggregated-AANHPI,Japanese (young),national,1.02,324,1.02,324,unchanged,1,1
 disaggregated-MENA,Middle Eastern,national,0.86,587,0.86,587,unchanged,1,1
 male-BC,Black (men),national,1.52,2406,1.52,2406,unchanged,1,1
 male-BC-HRneg-HER2pos,Black (men),national,2.62,2406,2.62,2406,unchanged,1,1
