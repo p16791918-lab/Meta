@@ -147,7 +147,7 @@ framework = [
     ["Baseline certainty", "All outcomes are bodies of observational, population-based cancer-registry evidence and therefore start at Low (baseline score = 0)."],
     ["Risk of bias", "Based on the adapted Newcastle-Ottawa Scale (Table 5). Downgraded by −1 when the representative study for the outcome was rated Poor."],
     ["Inconsistency", "Downgraded by −1 when overlapping estimates for the same cell disagreed in the direction of effect. The very high I² among overlapping registry estimates was NOT treated as inconsistency, because it reflects repeated inclusion of non-independent, nested registry data rather than genuine between-study heterogeneity."],
-    ["Indirectness", "Downgraded by −1 when the population, exposure, comparator, or outcome did not directly correspond to the review question. Judged not serious: U.S. population-based registries directly measure age-adjusted invasive breast-cancer incidence by race/ethnicity versus non-Hispanic White."],
+    ["Indirectness", "Downgraded by −1 when the population, exposure, comparator, or outcome did not directly correspond to the review question. Judged not serious: U.S. population-based registries directly measure age-adjusted invasive breast-cancer incidence by race/ethnicity against a White reference — non-Hispanic White in most studies, an unstratified White group in a minority (flagged in Table 4 and evaluated in the NHW-comparator sensitivity, Table 9c)."],
     ["Imprecision", "Downgraded by −1 when the 95% confidence interval included the null (IRR = 1.0) for a near-null estimate, or when only a point estimate without a confidence interval was available."],
     ["Publication bias", "Judged not serious: registry data reflect near-complete (census-like) case ascertainment and are not subject to selective publication of significant results; funnel-plot / Egger assessment is not applicable."],
     ["Strength of association", "Upgraded for a large magnitude of effect: +1 when IRR ≤ 0.50 or ≥ 2.00; +2 when IRR ≤ 0.20 or ≥ 5.00, provided residual bias is unlikely to account for it."],
@@ -251,7 +251,11 @@ H("Supplementary Figure 1. Pooled forest plots — aggregate racial/ethnic group
 P("Every contributing study per group with the random-effects pooled diamond "
   "(Paule-Mandel/REML + Hartung-Knapp) and I². The high I² reflects non-independent "
   "overlapping registry data (all-included / sensitivity pooling); the main analysis "
-  "instead uses one representative per registry family (Table 4).", True)
+  "instead uses one representative per registry family (Table 4). Studies marked † used "
+  "an unstratified White comparator (not non-Hispanic White; see Table 4); a few pooled "
+  "cells — the aggregate Black group, Asian Indian/Pakistani, and Alaska Native — therefore "
+  "combine NHW and unstratified-White estimates, a further reason to read these pooled "
+  "values as sensitivity output rather than headline estimates.", True)
 IMG("Fig_pool_aggregate.png", 602, 880)
 PB()
 H("Supplementary Figure 2. Pooled forest plots — triple-negative breast cancer", 1)

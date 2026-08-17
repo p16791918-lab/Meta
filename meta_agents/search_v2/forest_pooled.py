@@ -33,14 +33,22 @@ def label(ay):
     return re.sub(r"(\d{4})", r" \1", parts[0]).strip()
 
 
+_NHW_OK = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
+
+
 def load_cells():
-    ay = {}
+    ay, cmp = {}, {}
     for r in csv.DictReader(open(os.path.join(HERE, "breast_extraction.csv"), encoding="utf-8")):
         ay.setdefault(r["record_id"], r["author_year"])
+        cmp[(r["record_id"], r["outcome_dim"], r["minority_group"])] = r["comparison_vs"].strip()
     rows = M.load()
     cells = defaultdict(list)
     for r in rows:
         r["lab"] = label(ay.get(r["rid"], r["rid"]))
+        # mark studies whose reference is an unstratified White group (not NHW)
+        c = cmp.get((r["rid"], r["dim"], r["grp"]), "")
+        if c and c not in _NHW_OK and not c.startswith("foreign"):
+            r["lab"] += " †"
         r["lo"] = math.exp(r["y"] - Z * r["se"])
         r["hi"] = math.exp(r["y"] + Z * r["se"])
         cells[(r["dim"], r["grp"])].append(r)

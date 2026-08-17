@@ -66,9 +66,6 @@ PB()
 H("Figure 2. Disaggregated Asian American / Native Hawaiian and Pacific Islander "
   "subgroups versus the aggregate (IRR vs non-Hispanic White)", 1)
 IMG("Fig_forest_AANHPI.png", 720, 490)
-P("Comparisons are versus non-Hispanic White women, except the Asian Indian/Pakistani "
-  "estimate, which is a standardized incidence ratio against an unstratified White reference "
-  "(Supplementary Table 4).", True)
 PB()
 H("Figure 3. Aggregate racial and ethnic groups, Hispanic origin, American Indian / "
   "Alaska Native region, and Middle Eastern populations (IRR vs non-Hispanic White)", 1)
