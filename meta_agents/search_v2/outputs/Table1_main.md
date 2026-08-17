@@ -63,17 +63,17 @@ Values are the representative estimate per group (one per registry family). Effe
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
-| Chinese | IRR | 0.53 [0.39, 0.71] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
+| Chinese | IRR | 0.53 [0.39, 0.71] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Asian-American combined | IRR | 0.61 [0.58, 0.65] | Gomez2017_CCR (2009-2013) | California-CCR | Good | Low |
 | Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
-| Filipino | IRR | 0.84 [0.8, 0.88] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
+| Filipino | IRR | 0.84 [0.8, 0.88] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 | Hispanic | IRR | 0.860 [0.840, 0.880] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
-| Native Hawaiian | IRR | 0.86 [0.79, 0.91] | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
+| Native Hawaiian | IRR | 0.86 [0.79, 0.91] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Good | Low |
 | Black | IRR | 1.950 [1.930, 1.980] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Good | Low |
 
 **Male breast cancer**
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB | GRADE |
 |----|----|----|----|----|----|----|
-| Black (men) | IRR | 1.52 [1.44, 1.6] | Sung2020_USCS50 (2011-2015) | USCS(NPCR+SEER ~99%) | Good | Low |
+| Black (men) | IRR | 1.52 [1.44, 1.6] † | Sung2020_USCS50 (2011-2015) | USCS(NPCR+SEER ~99%) | Good | Low |

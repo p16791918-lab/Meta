@@ -95,6 +95,11 @@ def main():
                 continue  # no usable point estimate
             lo, hi = r["irr_ci_lo"].strip(), r["irr_ci_hi"].strip()
             est = "%s [%s, %s]" % (r["irr"], lo, hi) if (lo and hi) else (r["irr"] + " (point est.)")
+            # mark rows whose reference is an unstratified White group (not NHW)
+            cv = r.get("comparison_vs", "").strip()
+            if cv and cv not in ("NHW", "White (NH)", "NHW (external SEER-Explorer)") \
+                    and not cv.startswith("foreign-born"):
+                est += " †"
             pv, auth, period = prov.get((r["record_id"], dim, g, r["irr"]),
                                         ("", r["record_id"], r["period"]))
             eff = "SIR" if "SIR" in pv else "IRR"
