@@ -40,9 +40,15 @@ White (NHW) comparator, either as an incidence rate ratio (IRR) or standardized 
 ratio (SIR) or as age-standardized rates from which a ratio could be computed. Both aggregate
 groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific Islander,
 Hispanic/Latina by origin, and American Indian and Alaska Native [AI/AN] by region) and
-receptor-defined molecular subtypes were included. Reviews, editorials, letters, conference
-abstracts, non-U.S. studies, studies without a usable incidence comparison, and mortality- or
-survival-only reports were excluded.
+receptor-defined molecular subtypes were included. The reference group was recorded as each
+study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
+and those using an unstratified White reference were labelled accordingly, and both were
+retained because the reference and minority rates came from the same source. The review was
+limited to U.S.-resident populations: comparable studies from other countries exist but use a
+different White reference (e.g., White British), different racial and ethnic categories, and
+different standard populations, so their rate ratios are not commensurable with U.S.
+estimates. Reviews, editorials, letters, conference abstracts, non-U.S. studies, studies
+without a usable incidence comparison, and mortality- or survival-only reports were excluded.
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
@@ -65,8 +71,9 @@ analysis a single representative estimate was retained per registry family and o
 by coverage, sample size, recency or length of the diagnosis period, a clear age-standardization
 method, and a directly reported confidence interval. Overall, disaggregated-subgroup, subtype,
 and age-specific results could draw on different studies, but the same registry data were not
-entered twice for the same question. Two sensitivity analyses were run: one pooling all
-eligible estimates and one restricted to directly reported estimates.
+entered twice for the same question. Three sensitivity analyses were run: restricting to
+Good-rated studies, to directly reported estimates, and to estimates with an NHW (rather than
+unstratified White) comparator.
 
 ### Risk of bias and certainty of evidence
 Risk of bias was assessed with a Newcastle-Ottawa Scale adapted for population-based

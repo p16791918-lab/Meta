@@ -162,6 +162,7 @@ def main():
             "outcome_dim": r["outcome_dim"], "minority_group": r["minority_group"],
             "registry_family": r["_family"], "coverage_tier": r["_tier"],
             "period": r["period"], "provenance": r["provenance"],
+            "comparison_vs": r.get("comparison_vs", ""), "std_pop": r.get("std_pop", ""),
             "irr": r["irr"], "irr_ci_lo": r["irr_ci_lo"], "irr_ci_hi": r["irr_ci_hi"],
             "cluster": r["_cluster"], "main_analysis": main_flag,
             "representative_reason": reason,
@@ -171,6 +172,7 @@ def main():
                             -x["coverage_tier"], x["record_id"]))
     cols = ["record_id", "author_year", "outcome_dim", "minority_group",
             "registry_family", "coverage_tier", "period", "provenance",
+            "comparison_vs", "std_pop",
             "irr", "irr_ci_lo", "irr_ci_hi", "cluster", "main_analysis",
             "representative_reason"]
     with open(OUT, "w", newline="", encoding="utf-8") as f:

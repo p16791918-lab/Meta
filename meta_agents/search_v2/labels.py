@@ -61,3 +61,26 @@ DIM_DISPLAY = {
 
 def disp_dim(d):
     return DIM_DISPLAY.get(d, d)
+
+
+# Faithful display of the comparator (reference group) actually used by each source.
+# We do NOT relabel a plain-White comparator as NHW: studies that stratified the
+# reference by Hispanic origin are shown as non-Hispanic White; those that used an
+# unstratified White reference are shown as "White (not NH-stratified)". This keeps
+# the terminology faithful to each original study (per the supervisor's feedback),
+# rather than smoothing every reference to NHW.
+_NHW_SRC = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
+
+
+def disp_comparator(cv):
+    cv = (cv or "").strip()
+    if cv in _NHW_SRC:
+        return "non-Hispanic White (NHW)"
+    if cv.startswith("foreign-born"):
+        return cv  # nativity contrast, not a White reference
+    low = cv.lower()
+    if "men" in low:
+        return "White men (not NH-stratified)"
+    if "white" in low:
+        return "White (not NH-stratified)"
+    return cv or "non-Hispanic White (NHW)"

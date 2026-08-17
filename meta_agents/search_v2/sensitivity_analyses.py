@@ -21,6 +21,8 @@ ROB = os.path.join(HERE, "outputs", "TableS_risk_of_bias.csv")
 OUT = os.path.join(HERE, "outputs")
 QUAR = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
 DIRECT = {"directly-reported-IRR", "directly-reported-SIR"}
+# reference groups that are (or are equivalent to) non-Hispanic White
+NHW_OK = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
 
 
 def load(qual):
@@ -114,6 +116,11 @@ def main():
                "Sensitivity1_good_rob",
                "Sensitivity #1 — Good-RoB studies only (Poor dropped)")
     print("#1 Good-RoB-only     :", dict(c1))
+
+    c3 = write(run(rows, lambda r: r.get("comparison_vs", "").strip() in NHW_OK, "SENS3"),
+               "Sensitivity3_nhw_only",
+               "Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)")
+    print("#3 NHW-comparator    :", dict(c3))
 
 
 if __name__ == "__main__":

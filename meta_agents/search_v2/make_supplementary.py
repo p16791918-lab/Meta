@@ -18,7 +18,7 @@ def GT(groups, subs, rows, w): M.append({"type": "gtable", "groups": groups, "su
 def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
-from labels import disp_group, disp_dim
+from labels import disp_group, disp_dim, disp_comparator
 def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
 # First-author labels for the 163 included studies, derived offline from the raw
 # search dumps (MEDLINE FAU / Embase / Scopus / WoS), keyed by record_id. Used to
@@ -112,13 +112,16 @@ rows = []
 for r in rep:
     irr = r["irr"]; ci = f" [{r['irr_ci_lo']}, {r['irr_ci_hi']}]" if r['irr_ci_lo'] else ""
     rows.append([cite(r["author_year"]), disp_dim(r["outcome_dim"]), disp_group(r["minority_group"]),
-                 r["registry_family"], r["period"], (irr + ci) if irr else "-",
+                 disp_comparator(r.get("comparison_vs", "")), r["registry_family"], r["period"],
+                 (r.get("std_pop", "") or "—"), (irr + ci) if irr else "-",
                  r["main_analysis"]])
-TB(["Study", "Dimension", "Group", "Registry family", "Period", "IRR [95% CI]", "Main analysis"],
-   rows, [1900, 1800, 2200, 2000, 1200, 2200, 2600])
+TB(["Study", "Dimension", "Group", "Comparator", "Registry family", "Period", "Std pop",
+    "IRR [95% CI]", "Main analysis"],
+   rows, [1500, 1450, 1700, 1700, 1550, 1050, 1150, 1750, 2050])
 P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent. For each cell (outcome dimension × group) one representative was kept per registry family, selected by (i) an IRR being computable, (ii) coverage (USCS > NAACCR > SEER-national > state/regional), (iii) most recent end-year then longest span, and (iv) clearest standardization / directly-reported CI.", True)
 P("Main analysis: “yes (representative)” = the estimate carried into the main analysis; “no (overlaps representative)” = collapses to the cell representative and is used only in the all-included sensitivity analysis; “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
-P("Terminology: comparisons are versus non-Hispanic White (NHW); “non-Hispanic Black (NHB)” and NHW denote non-Hispanic categories. Five older sources did NOT stratify by Hispanic origin — Anderson 2008 and Brinton 2008 (age-specific), Gleason 2012 (ER/PR subtypes), and Cronin 2012 and Richardson 2016 (aggregate, sensitivity/overlap only) — so their Black/White groups are non-stratified; none is a main-analysis representative for the headline (aggregate/TNBC) cells (Note 1).", True)
+P("Comparator: the reference group is shown as each source defined it. Studies that stratified the reference by Hispanic origin are shown as non-Hispanic White (NHW); a minority of (mostly older) studies used an unstratified White reference, shown as “White (not NH-stratified)” rather than relabelled as NHW. All comparisons are within a single U.S. registry frame, so the reference rate and the minority rate come from the same source, period, and standard population — the incidence rate ratio is therefore internally valid even where the reference is unstratified White. A sensitivity analysis restricted to NHW-comparator estimates is reported in Supplementary Table 9c.", True)
+P("Standard population: age-standardization is to the 2000 U.S. standard unless the “Std pop” column shows otherwise (Davis Lynn 2025, Segi world, in two Black-subtype cells; a few sensitivity-only estimates on the 1970 world or other standards). Because the rate ratio is formed within each study, the standard population largely cancels; the few non-2000 estimates are flagged here and examined in the heterogeneity table.", True)
 PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
@@ -205,7 +208,12 @@ _c2 = _Ctr(r["status"] for r in s2)
 P("Table 9b. Directly-reported-only (computed estimates dropped): %d unchanged, %d changed, %d dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios)."
   % (_c2["unchanged"], _c2["changed"], _c2["dropped"]))
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch2], [2300, 2600, 2000, 2000, 1500])
-P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in Table 9a; author-reported IRR/SIR only in Table 9b). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
+s3 = rd("outputs/Sensitivity3_nhw_only.csv"); ch3 = [r for r in s3 if r["status"] != "unchanged"]
+_c3 = _Ctr(r["status"] for r in s3)
+P("Table 9c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped. The aggregate, disaggregated-AANHPI, and Hispanic-origin cells are unchanged because they already use an NHW comparator; the dropped cells are those whose only representative used an unstratified White reference — the receptor-defined subtype set (Loo 2019), male breast cancer (Sung 2020), the ER/PR subtypes (Gleason 2012), and two age-specific Black cells — confirming which findings depend on the unstratified-White comparator."
+  % (_c3["unchanged"], sum(_c3.values()), _c3["changed"], _c3["dropped"]))
+TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch3], [2300, 2600, 2000, 2000, 1500])
+P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in Table 9a; author-reported IRR/SIR only in Table 9b; NHW-comparator only in Table 9c). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 
 # ==== NOTES (after all tables) ====
