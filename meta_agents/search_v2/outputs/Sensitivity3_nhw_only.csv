@@ -1,89 +1,86 @@
 dimension,group,family,main_irr,main_rec,sens_irr,sens_rec,status,n_all,n_kept
-AIAN,Alaska Native,national,1.09,28,0.952,51,changed,2,1
-AIAN,AIAN,IHS-PRCDA,0.87,2510,,,dropped,1,0
-age-ge40,Black,national,0.851,265,,,dropped,1,0
-age-lt40,Black,national,1.183,265,,,dropped,2,0
-age-lt40,Black (age<40),national,1.16,199,,,dropped,1,0
-aggregate-vs-NHW,Black (women),national,0.98,2406,,,dropped,1,0
-male-BC,Black (men),national,1.52,2406,,,dropped,1,0
-male-BC-HRneg-HER2pos,Black (men),national,2.62,2406,,,dropped,1,0
-male-BC-HRpos-HER2neg,Black (men),national,1.41,2406,,,dropped,1,0
-male-BC-HRpos-HER2pos,Black (men),national,1.65,2406,,,dropped,1,0
-male-BC-TNBC,Black (men),national,2.27,2406,,,dropped,1,0
-nativity,Chinese (US-born),national,1.84,236,,,dropped,1,0
-nativity,Filipina (US-born),national,1.32,236,,,dropped,1,0
-subtype-ERneg-PRpos,Black,national,1.459,200,,,dropped,1,0
-subtype-ERpos-PRneg,Black,national,0.974,200,,,dropped,1,0
-subtype-HRneg-HER2pos,Japanese,national,0.88,161,,,dropped,1,0
-subtype-HRneg-HER2pos,Native Hawaiian,national,1.19,161,,,dropped,1,0
-subtype-HRpos-HER2neg,Chinese,national,0.58,161,,,dropped,1,0
-subtype-HRpos-HER2neg,Filipino,national,0.64,161,,,dropped,1,0
-subtype-HRpos-HER2neg,Japanese,national,1.03,161,,,dropped,1,0
-subtype-HRpos-HER2neg,Native Hawaiian,national,1.12,161,,,dropped,1,0
-subtype-HRpos-HER2pos,Chinese,national,0.72,161,,,dropped,1,0
-subtype-HRpos-HER2pos,Filipino,national,0.88,161,,,dropped,1,0
-subtype-HRpos-HER2pos,Japanese,national,1.03,161,,,dropped,1,0
-subtype-HRpos-HER2pos,Native Hawaiian,national,1.35,161,,,dropped,1,0
-subtype-TNBC,Chinese,national,0.53,161,,,dropped,1,0
-subtype-TNBC,Filipino,national,0.84,161,,,dropped,1,0
-subtype-TNBC,Native Hawaiian,national,0.86,161,,,dropped,1,0
-AIAN,AIAN,national,0.384,107,0.384,107,unchanged,1,1
-AIAN,AIAN (Navajo),IHS-PRCDA,0.49,1478,0.49,1478,unchanged,1,1
-AIAN,AIAN (Northern Plains),IHS-PRCDA,1.33,3662,1.33,3662,unchanged,1,1
-AIAN,AIAN (Southern Plains),IHS-PRCDA,1.25,3662,1.25,3662,unchanged,1,1
-Hispanic-origin,Cuban,national,0.755,3182,0.755,3182,unchanged,1,1
-Hispanic-origin,Hispanic/Latina (aggregate),national,0.64,3298,0.64,3298,unchanged,2,2
-Hispanic-origin,Mexican,national,0.503,3182,0.503,3182,unchanged,1,1
-Hispanic-origin,New Latino,national,0.684,3182,0.684,3182,unchanged,1,1
-Hispanic-origin,Puerto Rican,national,0.817,3182,0.817,3182,unchanged,1,1
-age-ge50,AIAN,national,0.647,485,0.647,485,unchanged,1,1
-age-ge50,Asian/PI (aggregate),national,0.659,485,0.659,485,unchanged,1,1
-age-ge50,Black,national,0.914,485,0.914,485,unchanged,1,1
-age-ge50,Filipina,national,0.774,522,0.774,522,unchanged,1,1
-age-ge50,Hispanic,national,0.660,485,0.660,485,unchanged,1,1
-age-ge50,Japanese,national,1.064,522,1.064,522,unchanged,1,1
-age-ge50,Native Hawaiian,national,1.366,522,1.366,522,unchanged,1,1
-age-lt50,AIAN,national,0.75,146,0.75,146,unchanged,1,1
-age-lt50,Asian/PI (aggregate),national,0.96,146,0.96,146,unchanged,1,1
-age-lt50,Black,national,1.01,146,1.01,146,unchanged,1,1
-age-lt50,Filipina,national,0.768,522,0.768,522,unchanged,1,1
-age-lt50,Hispanic,national,0.76,146,0.76,146,unchanged,1,1
-age-lt50,Japanese,national,1.479,522,1.479,522,unchanged,1,1
-age-lt50,Native Hawaiian,national,0.858,522,0.858,522,unchanged,1,1
-aggregate-vs-NHW,AIAN,IHS-PRCDA,0.560,500,0.560,500,unchanged,1,1
-aggregate-vs-NHW,AIAN,national,0.683,169,0.683,169,unchanged,5,5
-aggregate-vs-NHW,Asian/PI (aggregate),national,0.769,169,0.769,169,unchanged,5,5
-aggregate-vs-NHW,Black,national,0.933,169,0.933,169,unchanged,9,7
-aggregate-vs-NHW,Hispanic,national,0.718,169,0.718,169,unchanged,7,7
-disaggregated-AANHPI,Asian American (aggregate),national,0.792,234,0.792,234,unchanged,1,1
-disaggregated-AANHPI,Asian Indian/Pakistani,national,0.958,234,0.958,234,unchanged,2,1
-disaggregated-AANHPI,Cambodian,national,0.264,3267,0.264,3267,unchanged,1,1
-disaggregated-AANHPI,Chinese,national,0.760,234,0.760,234,unchanged,4,4
-disaggregated-AANHPI,Filipina,national,0.857,234,0.857,234,unchanged,3,3
-disaggregated-AANHPI,Guamanian/Chamorro/Samoan,national,0.723,234,0.723,234,unchanged,1,1
-disaggregated-AANHPI,Hmong,national,0.164,49,0.164,49,unchanged,1,1
-disaggregated-AANHPI,Japanese,national,1.045,234,1.045,234,unchanged,3,3
-disaggregated-AANHPI,Korean,national,0.677,234,0.677,234,unchanged,5,5
-disaggregated-AANHPI,Laotian/Kampuchean,national,0.388,234,0.388,234,unchanged,1,1
-disaggregated-AANHPI,Native Hawaiian,national,1.211,4040,1.211,4040,unchanged,2,2
-disaggregated-AANHPI,Native Hawaiian/PI (aggregate),national,1.212,234,1.212,234,unchanged,1,1
-disaggregated-AANHPI,Vietnamese,national,0.586,234,0.586,234,unchanged,3,3
-disaggregated-MENA,Middle Eastern,national,0.86,587,0.86,587,unchanged,1,1
-subtype-HRneg,Black,national,1.796,10,1.796,10,unchanged,2,1
-subtype-HRneg-HER2pos,Asian-American combined,national,1.21,324,1.21,324,unchanged,1,1
-subtype-HRneg-HER2pos,Asian/PI (aggregate),national,1.41,286,1.41,286,unchanged,1,1
-subtype-HRneg-HER2pos,Black,national,1.46,286,1.46,286,unchanged,1,1
-subtype-HRpos,Black,national,0.820,10,0.820,10,unchanged,2,1
-subtype-HRpos-HER2neg,Asian/PI (aggregate),national,0.87,286,0.87,286,unchanged,2,2
-subtype-HRpos-HER2neg,Black,national,0.86,286,0.86,286,unchanged,3,3
-subtype-HRpos-HER2neg,Hispanic,national,0.78,286,0.78,286,unchanged,2,2
-subtype-HRpos-HER2neg,South Asian,national,1.48,324,1.48,324,unchanged,1,1
-subtype-HRpos-HER2neg,Vietnamese,national,1.39,324,1.39,324,unchanged,1,1
-subtype-HRpos-HER2pos,Asian/PI (aggregate),national,0.850,2,0.850,2,unchanged,1,1
-subtype-HRpos-HER2pos,Black,national,1.12,286,1.12,286,unchanged,2,2
-subtype-HRpos-HER2pos,Hispanic,national,0.91,286,0.91,286,unchanged,2,2
-subtype-TNBC,AIAN,national,0.860,155,0.860,155,unchanged,1,1
-subtype-TNBC,Asian-American combined,national,0.61,324,0.61,324,unchanged,1,1
-subtype-TNBC,Asian/PI (aggregate),national,0.700,155,0.700,155,unchanged,3,3
-subtype-TNBC,Black,national,1.950,155,1.950,155,unchanged,5,5
-subtype-TNBC,Hispanic,national,0.860,155,0.860,155,unchanged,3,3
+AIAN,AIAN,,0.87,2510,0.384,107,changed,2,1
+aggregate-vs-NHW,AIAN,,0.560,500,0.683,169,changed,6,6
+age-ge40,Black,,0.851,265,,,dropped,1,0
+age-lt40,Black,,1.183,265,,,dropped,2,0
+age-lt40,Black (age<40),,1.16,199,,,dropped,1,0
+aggregate-vs-NHW,Black (women),,0.98,2406,,,dropped,1,0
+male-BC,Black (men),,1.52,2406,,,dropped,1,0
+male-BC-HRneg-HER2pos,Black (men),,2.62,2406,,,dropped,1,0
+male-BC-HRpos-HER2neg,Black (men),,1.41,2406,,,dropped,1,0
+male-BC-HRpos-HER2pos,Black (men),,1.65,2406,,,dropped,1,0
+male-BC-TNBC,Black (men),,2.27,2406,,,dropped,1,0
+nativity,Chinese (US-born),,1.84,236,,,dropped,1,0
+nativity,Filipina (US-born),,1.32,236,,,dropped,1,0
+subtype-ERneg-PRpos,Black,,1.459,200,,,dropped,1,0
+subtype-ERpos-PRneg,Black,,0.974,200,,,dropped,1,0
+subtype-HRneg-HER2pos,Japanese,,0.88,161,,,dropped,1,0
+subtype-HRneg-HER2pos,Native Hawaiian,,1.19,161,,,dropped,1,0
+subtype-HRpos-HER2neg,Chinese,,0.58,161,,,dropped,1,0
+subtype-HRpos-HER2neg,Filipino,,0.64,161,,,dropped,1,0
+subtype-HRpos-HER2neg,Japanese,,1.03,161,,,dropped,1,0
+subtype-HRpos-HER2neg,Native Hawaiian,,1.12,161,,,dropped,1,0
+subtype-HRpos-HER2pos,Chinese,,0.72,161,,,dropped,1,0
+subtype-HRpos-HER2pos,Filipino,,0.88,161,,,dropped,1,0
+subtype-HRpos-HER2pos,Japanese,,1.03,161,,,dropped,1,0
+subtype-HRpos-HER2pos,Native Hawaiian,,1.35,161,,,dropped,1,0
+subtype-TNBC,Chinese,,0.53,161,,,dropped,1,0
+subtype-TNBC,Filipino,,0.84,161,,,dropped,1,0
+subtype-TNBC,Native Hawaiian,,0.86,161,,,dropped,1,0
+AIAN,AIAN (Navajo),,0.49,1478,0.49,1478,unchanged,1,1
+AIAN,AIAN (Northern Plains),,1.33,3662,1.33,3662,unchanged,1,1
+AIAN,AIAN (Southern Plains),,1.25,3662,1.25,3662,unchanged,1,1
+Hispanic-origin,Cuban,,0.755,3182,0.755,3182,unchanged,1,1
+Hispanic-origin,Hispanic/Latina (aggregate),,0.64,3298,0.64,3298,unchanged,2,2
+Hispanic-origin,Mexican,,0.503,3182,0.503,3182,unchanged,1,1
+Hispanic-origin,New Latino,,0.684,3182,0.684,3182,unchanged,1,1
+Hispanic-origin,Puerto Rican,,0.817,3182,0.817,3182,unchanged,1,1
+age-ge50,AIAN,,0.647,485,0.647,485,unchanged,1,1
+age-ge50,Asian/PI (aggregate),,0.659,485,0.659,485,unchanged,1,1
+age-ge50,Black,,0.914,485,0.914,485,unchanged,1,1
+age-ge50,Filipina,,0.774,522,0.774,522,unchanged,1,1
+age-ge50,Hispanic,,0.660,485,0.660,485,unchanged,1,1
+age-ge50,Japanese,,1.064,522,1.064,522,unchanged,1,1
+age-ge50,Native Hawaiian,,1.366,522,1.366,522,unchanged,1,1
+age-lt50,AIAN,,0.75,146,0.75,146,unchanged,1,1
+age-lt50,Asian/PI (aggregate),,0.96,146,0.96,146,unchanged,1,1
+age-lt50,Black,,1.01,146,1.01,146,unchanged,1,1
+age-lt50,Filipina,,0.768,522,0.768,522,unchanged,1,1
+age-lt50,Hispanic,,0.76,146,0.76,146,unchanged,1,1
+age-lt50,Japanese,,1.479,522,1.479,522,unchanged,1,1
+age-lt50,Native Hawaiian,,0.858,522,0.858,522,unchanged,1,1
+aggregate-vs-NHW,Asian/PI (aggregate),,0.769,169,0.769,169,unchanged,5,5
+aggregate-vs-NHW,Black,,0.933,169,0.933,169,unchanged,9,7
+aggregate-vs-NHW,Hispanic,,0.718,169,0.718,169,unchanged,7,7
+disaggregated-AANHPI,Asian American (aggregate),,0.792,234,0.792,234,unchanged,1,1
+disaggregated-AANHPI,Asian Indian/Pakistani,,0.958,234,0.958,234,unchanged,2,1
+disaggregated-AANHPI,Cambodian,,0.264,3267,0.264,3267,unchanged,1,1
+disaggregated-AANHPI,Chinese,,0.760,234,0.760,234,unchanged,4,4
+disaggregated-AANHPI,Filipina,,0.857,234,0.857,234,unchanged,3,3
+disaggregated-AANHPI,Guamanian/Chamorro/Samoan,,0.723,234,0.723,234,unchanged,1,1
+disaggregated-AANHPI,Hmong,,0.164,49,0.164,49,unchanged,1,1
+disaggregated-AANHPI,Japanese,,1.045,234,1.045,234,unchanged,3,3
+disaggregated-AANHPI,Korean,,0.677,234,0.677,234,unchanged,5,5
+disaggregated-AANHPI,Laotian/Kampuchean,,0.388,234,0.388,234,unchanged,1,1
+disaggregated-AANHPI,Native Hawaiian,,1.211,4040,1.211,4040,unchanged,2,2
+disaggregated-AANHPI,Native Hawaiian/PI (aggregate),,1.212,234,1.212,234,unchanged,1,1
+disaggregated-AANHPI,Vietnamese,,0.586,234,0.586,234,unchanged,3,3
+disaggregated-MENA,Middle Eastern,,0.86,587,0.86,587,unchanged,1,1
+subtype-HRneg,Black,,1.796,10,1.796,10,unchanged,2,1
+subtype-HRneg-HER2pos,Asian-American combined,,1.21,324,1.21,324,unchanged,1,1
+subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41,286,1.41,286,unchanged,1,1
+subtype-HRneg-HER2pos,Black,,1.46,286,1.46,286,unchanged,1,1
+subtype-HRpos,Black,,0.820,10,0.820,10,unchanged,2,1
+subtype-HRpos-HER2neg,Asian/PI (aggregate),,0.87,286,0.87,286,unchanged,2,2
+subtype-HRpos-HER2neg,Black,,0.86,286,0.86,286,unchanged,3,3
+subtype-HRpos-HER2neg,Hispanic,,0.78,286,0.78,286,unchanged,2,2
+subtype-HRpos-HER2neg,South Asian,,1.48,324,1.48,324,unchanged,1,1
+subtype-HRpos-HER2neg,Vietnamese,,1.39,324,1.39,324,unchanged,1,1
+subtype-HRpos-HER2pos,Asian/PI (aggregate),,0.850,2,0.850,2,unchanged,1,1
+subtype-HRpos-HER2pos,Black,,1.12,286,1.12,286,unchanged,2,2
+subtype-HRpos-HER2pos,Hispanic,,0.91,286,0.91,286,unchanged,2,2
+subtype-TNBC,AIAN,,0.860,155,0.860,155,unchanged,1,1
+subtype-TNBC,Asian-American combined,,0.61,324,0.61,324,unchanged,1,1
+subtype-TNBC,Asian/PI (aggregate),,0.700,155,0.700,155,unchanged,3,3
+subtype-TNBC,Black,,1.950,155,1.950,155,unchanged,5,5
+subtype-TNBC,Hispanic,,0.860,155,0.860,155,unchanged,3,3

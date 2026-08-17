@@ -150,6 +150,11 @@ def main():
               and rep_id.get(r["_cluster"]) == id(r)):
             main_flag = "no (AI/AN undercount)"
             reason = "unlinked national registry undercounts AI/AN; IHS-PRCDA representative preferred"
+        elif rep_id.get(r["_cluster"]) == id(r) and not (r.get("irr") or "").strip():
+            # the cell's best estimate has no usable IRR (e.g., South Asian overall,
+            # where the only source reported no ratio) — not a usable representative
+            main_flag = "no (no usable IRR)"
+            reason = "sole/best estimate in cell reports no incidence rate ratio"
         elif rep_id.get(r["_cluster"]) == id(r):
             n = len(clusters[r["_cluster"]])
             main_flag = "yes (representative)"

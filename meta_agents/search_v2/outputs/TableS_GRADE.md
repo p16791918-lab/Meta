@@ -2,7 +2,7 @@
 
 Observational bodies of evidence start at Low. Downgrades: RoB, inconsistency (direction disagreement, NOT the registry-overlap I2), indirectness, imprecision, publication bias. Upgrade: large magnitude (IRR<=0.5 or >=2.0: +1; <=0.2 or >=5.0: +2). **AI-generated first pass — reviewer to spot-check.**
 
-Distribution: {'Low': 70, 'Moderate': 5, 'High': 1, 'Very low': 10}
+Distribution: {'Low': 70, 'Moderate': 5, 'High': 1, 'Very low': 9}
 
 | Dimension | Group | IRR [95%% CI] | RoB | -RoB | -Incons | -Imprec | +Large | GRADE |
 |----|----|----|----|----|----|----|----|----|
@@ -23,7 +23,6 @@ Distribution: {'Low': 70, 'Moderate': 5, 'High': 1, 'Very low': 10}
 | disaggregated-AANHPI | Laotian/Kampuchean | 0.388 [0.350, 0.430] | Good | 0 | 0 | 0 | +1 | **Moderate** |
 | disaggregated-AANHPI | Native Hawaiian | 1.211 [1.123, 1.305] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.212 [1.168, 1.258] | Good | 0 | 0 | 0 | +0 | **Low** |
-| disaggregated-AANHPI | South Asian | NR | Good | 0 | 0 | 1 | +0 | **Very low** |
 | disaggregated-AANHPI | Vietnamese | 0.586 [0.566, 0.608] | Good | 0 | 0 | 0 | +0 | **Low** |
 | disaggregated-MENA | Middle Eastern | 0.86 [0.84, 0.88] | Good | 0 | 0 | 0 | +0 | **Low** |
 | Hispanic-origin | Cuban | 0.755 [0.677, 0.842] | Good | 0 | 0 | 0 | +0 | **Low** |

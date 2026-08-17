@@ -1,13 +1,13 @@
 # Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)
 
-Cells: 88 total — unchanged 60, changed 1, dropped 27.
+Cells: 85 total — unchanged 57, changed 2, dropped 26.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
-| AIAN | Alaska Native | 1.09 (28) | 0.952 (51) | **changed** |
-| AIAN | AIAN | 0.87 (2510) | - (-) | **dropped** |
+| AIAN | AIAN | 0.87 (2510) | 0.384 (107) | **changed** |
+| aggregate-vs-NHW | AIAN | 0.560 (500) | 0.683 (169) | **changed** |
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-lt40 | Black | 1.183 (265) | - (-) | **dropped** |
 | age-lt40 | Black (age<40) | 1.16 (199) | - (-) | **dropped** |

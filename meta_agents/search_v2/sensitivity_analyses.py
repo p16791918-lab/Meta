@@ -50,18 +50,22 @@ def best(rows):
     return max(rows, key=score) if rows else None
 
 
-def run(rows, keep, label):
+def run(rows, keep, mainrep, label):
+    # cluster ledger estimates by (dimension, group), matching the main-analysis
+    # cells; the baseline representative is the one finalize_representatives chose
+    # (mainrep), so the sensitivity assesses exactly the displayed main cells.
     clusters = defaultdict(list)
     for r in rows:
-        clusters[r["_cluster"]].append(r)
+        clusters[(r["outcome_dim"], r["minority_group"])].append(r)
     out = []
-    for cl, members in clusters.items():
-        main_rep = best(members)
-        if not main_rep:
+    for (dim, grp), rec in mainrep.items():
+        members = clusters.get((dim, grp), [])
+        base = [r for r in members if r["record_id"] == rec]
+        main_rep = base[0] if base else best(members)
+        if not main_rep or not (main_rep.get("irr") or "").strip():
             continue
         filt = [r for r in members if keep(r)]
         sens_rep = best(filt)
-        dim, grp, fclass = cl.split("|")
         if sens_rep is None:
             status, sirr, srec = "dropped", "", ""
         elif sens_rep["record_id"] == main_rep["record_id"]:
@@ -70,7 +74,7 @@ def run(rows, keep, label):
         else:
             status = "changed"
             sirr, srec = sens_rep["irr"], sens_rep["record_id"]
-        out.append(dict(dimension=dim, group=grp, family=fclass,
+        out.append(dict(dimension=dim, group=grp, family="",
                         main_irr=main_rep["irr"], main_rec=main_rep["record_id"],
                         sens_irr=sirr, sens_rec=srec, status=status,
                         n_all=len(members), n_kept=len(filt)))
@@ -107,19 +111,25 @@ def main():
     qual = {r["record_id"]: r["Overall_quality"]
             for r in csv.DictReader(open(ROB, encoding="utf-8"))}
     rows = load(qual)
-    print("cells assessed:", len(set(r["_cluster"] for r in rows)))
+    # baseline main-analysis representatives, exactly as finalize_representatives chose
+    # them (one per displayed cell): (dimension, group) -> record_id
+    REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
+    mainrep = {(r["outcome_dim"], r["minority_group"]): r["record_id"]
+               for r in csv.DictReader(open(REPS, encoding="utf-8"))
+               if r["main_analysis"].startswith("yes")}
+    print("main-analysis cells:", len(mainrep))
 
-    c2 = write(run(rows, lambda r: r["provenance"] in DIRECT, "SENS2"),
+    c2 = write(run(rows, lambda r: r["provenance"] in DIRECT, mainrep, "SENS2"),
                "Sensitivity2_directly_reported",
                "Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)")
     print("\n#2 directly-reported-only:", dict(c2))
 
-    c1 = write(run(rows, lambda r: r["_qual"] == "Good", "SENS1"),
+    c1 = write(run(rows, lambda r: r["_qual"] == "Good", mainrep, "SENS1"),
                "Sensitivity1_good_rob",
                "Sensitivity #1 — Good-RoB studies only (Poor dropped)")
     print("#1 Good-RoB-only     :", dict(c1))
 
-    c3 = write(run(rows, lambda r: r.get("comparison_vs", "").strip() in NHW_OK, "SENS3"),
+    c3 = write(run(rows, lambda r: r.get("comparison_vs", "").strip() in NHW_OK, mainrep, "SENS3"),
                "Sensitivity3_nhw_only",
                "Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)")
     print("#3 NHW-comparator    :", dict(c3))

@@ -1,12 +1,13 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 88 total — unchanged 49, changed 5, dropped 34.
+Cells: 85 total — unchanged 46, changed 6, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
-| aggregate-vs-NHW | AIAN | 0.683 (169) | 0.58 (66) | **changed** |
+| AIAN | AIAN | 0.87 (2510) | 0.384 (107) | **changed** |
+| aggregate-vs-NHW | AIAN | 0.560 (500) | 0.58 (66) | **changed** |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 0.769 (169) | 0.92 (66) | **changed** |
 | aggregate-vs-NHW | Black | 0.933 (169) | 0.97 (66) | **changed** |
 | aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.75 (66) | **changed** |
@@ -27,7 +28,6 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | age-lt50 | Filipina | 0.768 (522) | - (-) | **dropped** |
 | age-lt50 | Japanese | 1.479 (522) | - (-) | **dropped** |
 | age-lt50 | Native Hawaiian | 0.858 (522) | - (-) | **dropped** |
-| aggregate-vs-NHW | AIAN | 0.560 (500) | - (-) | **dropped** |
 | disaggregated-AANHPI | Asian American (aggregate) | 0.792 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Cambodian | 0.264 (3267) | - (-) | **dropped** |
 | disaggregated-AANHPI | Chinese | 0.760 (234) | - (-) | **dropped** |
