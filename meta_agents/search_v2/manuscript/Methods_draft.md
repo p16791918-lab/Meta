@@ -86,10 +86,11 @@ whether the outcome was directly reported or correctly computed with a variance.
 evidence was rated within a prespecified GRADE-informed framework,³,⁴ with observational
 estimates starting at low certainty and moving down for risk of bias, inconsistency, or
 imprecision and up for a large effect. Publication bias and small-study effects were not
-formally tested (funnel plots or Egger regression): the estimates within each cell come
-largely from the same overlapping registry data rather than from independent studies, so
-small-study asymmetry tests would be uninformative, and population-based registry rates are
-not subject to the selective-publication mechanism these tests assume.
+formally tested with funnel plots or Egger regression. Within each cell the estimates come
+largely from the same overlapping registry data rather than from independent studies, which
+limits the usefulness of small-study asymmetry tests; population-based registry incidence rates
+are also less likely to be affected by the selective reporting these tests are designed to
+detect.
 
 ### Statistical analysis
 Each estimate was expressed as an IRR relative to NHW women. When a study reported
