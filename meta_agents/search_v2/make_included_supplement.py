@@ -30,6 +30,19 @@ OUT_CSV = os.path.join(HERE, "TableS_included_studies.csv")
 OUT_MD = os.path.join(HERE, "TableS_included_studies.md")
 
 
+def study_design(data_source, title):
+    s = (data_source + " " + title).lower()
+    if any(k in s for k in ("multiethnic cohort", "mec ", "nih-aarp", "aarp", "kaiser",
+                            "black women's health", "nurses' health", "cohort study",
+                            "prospective cohort", "women's health initiative", "whi ")):
+        return "Cohort study"
+    if "case-control" in s or "case control" in s:
+        return "Case-control study"
+    # SEER / NAACCR / USCS / NPCR / state / IHS-linked / tribal registries and their
+    # statistics reports are population-based registry (descriptive incidence) studies
+    return "Population-based registry/incidence study"
+
+
 def main():
     recs = list(csv.DictReader(open(MERGED, encoding="utf-8")))
     out = []
@@ -43,6 +56,7 @@ def main():
             "record_id": rid,
             "citation": "%s (%s)" % (rec.get("title", ""), rec.get("year", "")),
             "data_source": r.get("registry_family", "").strip(),
+            "study_design": study_design(r.get("registry_family", ""), rec.get("title", "")),
             "groups_vs_nhw": norm_groups(r.get("groups_vs_nhw", "").strip()),
             "outcome_measure": r.get("rate_location", "").strip(),
             "synthesis": "quantitative" if dec == "include-quant" else "narrative",
@@ -54,7 +68,7 @@ def main():
 
     with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "citation", "data_source",
-                                          "groups_vs_nhw", "outcome_measure",
+                                          "study_design", "groups_vs_nhw", "outcome_measure",
                                           "synthesis", "note", "pmid", "doi"])
         w.writeheader()
         w.writerows(out)

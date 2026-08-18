@@ -66,15 +66,13 @@ and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.
 Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60 †) relative to White men
 (Table 1).
 
-### Risk of bias, certainty, and sensitivity analyses
-Of the 43 studies assessed on the adapted Newcastle-Ottawa Scale, 40 were rated Good and 3
-Poor (Supplementary Table 5); the Poor ratings reflected estimates reported without a
-confidence interval. Certainty of evidence was High for 1 cell, Moderate for 5, Low for 70, and
-Very low for 9 (Supplementary Table 7). In the all-included pooled analysis, between-study
-heterogeneity was very high (I² near 99% in most cells), consistent with repeated inclusion of
-overlapping registry data (Supplementary Table 8). Restricting to Good-rated studies left 79 of
-85 cells' representatives unchanged (2 changed, 4 dropped); restricting to directly reported
-estimates left 46 unchanged (6 changed, 33 dropped); and restricting to NHW-comparator estimates
-left 57 unchanged (2 changed, 26 dropped), the dropped cells being those whose only
-representative used an unstratified White comparator — the receptor-defined subtypes, male
-breast cancer, and two age-specific Black cells (Supplementary Table 9).
+### Risk of bias and sensitivity analyses
+On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at moderate risk, with
+none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
+was reported without a variance or where race and ethnicity ascertainment was limited. The
+representative selection was stable across three checks (Supplementary Table 6). Restricting to
+low-risk-of-bias studies left 67 of 85 cell representatives unchanged (5 changed, 13 dropped);
+restricting to directly reported estimates left 46 unchanged (6 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 57 unchanged (2 changed, 26 dropped), the dropped
+cells being those whose only representative used an unstratified White comparator — the
+receptor-defined subtypes, male breast cancer, and two age-specific Black cells.

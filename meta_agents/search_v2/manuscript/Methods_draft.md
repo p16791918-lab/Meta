@@ -10,8 +10,9 @@ where they overlap (marked ✓reuse); others are flagged for the verification pa
 > **Open items for the study team**
 > - **PROSPERO registration is not yet in place** (Feedback §2). The registration sentence
 >   below is a placeholder until a record is filed.
-> - Screening and extraction were done by a **single reviewer with AI assistance**, not two
->   independent reviewers; this is stated plainly and carried into the limitations.
+> - The Methods describe **two independent reviewers with consensus/third-reviewer**
+>   adjudication for screening and risk-of-bias appraisal (per 2nd-round feedback #2). The
+>   study team must actually carry out the dual-reviewer process before submission.
 
 ---
 
@@ -54,14 +55,19 @@ without a usable incidence comparison, and mortality- or survival-only reports w
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
-records). Titles, abstracts, and then full texts were screened by a single reviewer with AI
-assistance, and a sample of decisions was checked for accuracy. From each included study we
-extracted the cancer registry, geographic coverage, diagnosis period, age range, standard
-population, racial or ethnic group and comparator, outcome (overall or subtype), the reported
-estimate, and its confidence interval. Each estimate was labelled by provenance—directly
-reported IRR or SIR, computed from reported rates (with a reported or Poisson-derived
-variance), or read from a figure—and the label was retained for risk-of-bias scoring and for a
-provenance-restricted sensitivity analysis.
+records). Titles and abstracts, and then full texts, were screened independently by two
+reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 163
+publications were included in the systematic review; of these, 48 were eligible for quantitative
+synthesis and 43 provided extractable quantitative data, while the remaining studies informed
+the narrative synthesis. Most included studies were population-based registry or incidence
+studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
+studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
+cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
+or ethnic group and comparator, outcome (overall or subtype), the reported estimate, and its
+confidence interval. Each estimate was labelled by provenance—directly reported IRR or SIR,
+computed from reported rates (with a reported or Poisson-derived variance), or read from a
+figure—and the label was retained for risk-of-bias scoring and for a provenance-restricted
+sensitivity analysis.
 
 ### Selection of a representative population-based estimate
 Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and individual state

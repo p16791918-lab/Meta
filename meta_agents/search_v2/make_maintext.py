@@ -27,12 +27,15 @@ def cite(ay):  # "Gopalani2020_31764279" -> "Gopalani 2020"; "Ellington2022_USCS
 # ==== Table 1. Summary of IRRs by racial/ethnic group and analytic dimension ====
 H("Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial and "
   "ethnic groups relative to non-Hispanic White women, by analytic dimension", 1)
-P("One representative estimate per group (one estimate per registry family). Effect "
+P("Each value is a representative population-based estimate (a contemporary benchmark) for the "
+  "group — the most recent, broadest-coverage registry estimate with an appropriate population "
+  "definition and standardization — not a meta-analytic pooled estimate; one estimate is shown "
+  "per registry family. Effect "
   "measure is the incidence rate ratio (IRR) unless noted as a standardized incidence "
   "ratio (SIR). Comparisons are versus non-Hispanic White (NHW) women, except where "
   "marked † — the reference in that study was an unstratified White group (not stratified "
   "by Hispanic origin), which may raise the IRR slightly; these estimates are examined in "
-  "the NHW-comparator sensitivity analysis (Supplementary Table 9c). Black denotes "
+  "the NHW-comparator sensitivity analysis (Supplementary Table 6c). Black denotes "
   "non-Hispanic Black (NHB), and the Asian/Pacific Islander aggregate is labeled AANHPI "
   "(Asian American, Native Hawaiian, and Pacific Islander), with the Pacific-Islander "
   "subset shown separately as NHPI. RoB = risk-of-bias rating of the representative "
@@ -53,11 +56,10 @@ for r in t1:
                         r.get("registry", ""), r["rob"]])
 PB()
 
-# NOTE: no main-text "meta-analysis results" table. The main analysis selects one
-# representative per registry family (not a pool), so the aggregate meta-analysis
-# statistics (k, I², Cochran's Q p) apply only to the all-included sensitivity
-# pool, which is reported in Supplementary Table 8 with the pooled forest plots
-# (Supplementary Figures 1–3). The main-analysis IRRs are already in Table 1.
+# NOTE: no "meta-analysis results" table. Estimates within a group come from
+# overlapping registry populations and are not independent, so they were not pooled;
+# the analysis reports a representative population-based (benchmark) estimate per
+# group (Table 1) and the robustness of that selection (Supplementary Table 6).
 
 # ==== Figures ====
 H("Figure 1. PRISMA 2020 flow diagram", 1)

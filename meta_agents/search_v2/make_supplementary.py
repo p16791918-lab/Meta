@@ -84,9 +84,10 @@ PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
 H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
+P("The 163 studies are all publications included in the systematic review; not all entered the quantitative synthesis. “Synthesis” shows how each contributed: quantitative = eligible for quantitative synthesis (n = 48, of which 43 provided extractable quantitative data); narrative = narrative synthesis only (n = 115). Study design is classified from the data source; most included studies are population-based registry/incidence studies rather than cohort studies.", True)
 inc = rd("TableS_included_studies.csv")
-rows = [[study_cell(r), r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
-TB(["Study (author, year)", "Data source", "Groups vs NHW", "Synthesis"], rows, [5200, 2700, 2600, 1300])
+rows = [[study_cell(r), r.get("study_design", ""), r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
+TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW", "Synthesis"], rows, [4000, 2600, 2100, 2200, 1300])
 PB()
 
 # ---- S4 excluded (no record_id) ----
@@ -98,7 +99,7 @@ PB()
 
 # ---- S5 registry overlap / representatives (author-year, full main_analysis) ----
 H("Supplementary Table 4. Registry overlap and representative selection", 1)
-P("One representative per registry family per analytic cell for the main analysis; overlapping estimates retained for sensitivity.", True)
+P("One representative population-based estimate (contemporary benchmark) per registry family per analytic cell for the main analysis — the most recent, broadest-coverage estimate with an appropriate population definition and standardization, not a pooled estimate; overlapping estimates are retained only for the sensitivity re-selection.", True)
 rep = rd("TableSA_main_representatives.csv")
 rows = []
 for r in rep:
@@ -111,7 +112,7 @@ TB(["Study", "Dimension", "Group", "Comparator", "Registry family", "Period", "S
     "IRR [95% CI]", "Main analysis"],
    rows, [1500, 1450, 1700, 1700, 1550, 1050, 1150, 1750, 2050])
 P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent. For each cell (outcome dimension × group) one representative was kept per registry family, selected by (i) an IRR being computable, (ii) coverage (USCS > NAACCR > SEER-national > state/regional), (iii) most recent end-year then longest span, and (iv) clearest standardization / directly-reported CI.", True)
-P("Main analysis: “yes (representative)” = the estimate carried into the main analysis; “no (overlaps representative)” = collapses to the cell representative and is used only in the all-included sensitivity analysis; “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
+P("Main analysis: “yes (representative)” = the estimate carried into the main analysis as the group’s benchmark; “no (overlaps representative)” = an overlapping estimate for the same cell, used only when the representative is re-selected in the sensitivity analyses (Table 6); “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
 P("Comparator: the reference group is shown as each source defined it. Studies that stratified the reference by Hispanic origin are shown as non-Hispanic White (NHW); a minority of studies used an unstratified White reference, shown as “White (not NH-stratified)” rather than relabelled as NHW. These are not simply older reports (they span 2008–2020, and NHW is used from the earliest studies onward); they are concentrated in specific analyses — receptor-defined subtypes, male breast cancer, and AI/AN (IHS-linked) comparisons — where the source did not stratify the White reference by Hispanic origin. All comparisons are within a single U.S. registry frame, so the reference rate and the minority rate come from the same source, period, and standard population — the incidence rate ratio is therefore internally valid even where the reference is unstratified White. A sensitivity analysis restricted to NHW-comparator estimates is reported in Supplementary Table 6c.", True)
 P("Standard population: age-standardization is to the 2000 U.S. standard unless the “Std pop” column shows otherwise (Davis Lynn 2025, Segi world, in two Black-subtype cells; a few sensitivity-only estimates on the 1970 world or other standards). Because the rate ratio is formed within each study, the standard population largely cancels; the few non-2000 estimates are flagged in the “Std pop” column. For the two Black receptor-defined subtype cells (HR+/HER2− and HR−/HER2+) no single study offered both an NHW comparator and the 2000 U.S. standard: the representative (Davis Lynn 2025) has an NHW comparator but the Segi world standard, while the alternative (Gleason 2012) has the 2000 U.S. standard but an unstratified White comparator — the NHW comparator was prioritized.", True)
 PB()
