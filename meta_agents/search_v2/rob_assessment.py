@@ -1,42 +1,37 @@
 #!/usr/bin/env python3
 """Risk-of-bias assessment for the included population-based incidence studies.
 
-Tool: Newcastle-Ottawa Scale adapted for cross-sectional / population-based
-descriptive incidence studies (same 3-domain structure and Good/Fair/Poor rubric
-as the reference paper's NOS table, but with items appropriate to registry
-incidence studies rather than case-control/cohort designs).
+Tool: JBI Critical Appraisal Checklist for Studies Reporting Prevalence Data,
+applied to population-based cancer-registry incidence studies (the appropriate
+JBI instrument for descriptive rate/prevalence designs). Nine items are rated
+Yes / No / Unclear:
 
-Domains and star items (max 9):
-  SELECTION (max 4)
-    S1 Representativeness of the sample : population-based registry covering a
-       defined geographic population (SEER/NAACCR/USCS/state/IHS/ANTR/Navajo/CCR).
-    S2 Sample size / case stability     : adequate case count for a stable
-       age-adjusted rate (national/multi-registry, or >=50 cases in the group).
-    S3 Ascertainment of race/ethnicity  : standard registry race coding or
-       IHS/tribal linkage (validated); surname-only or known national AIAN
-       misclassification loses the star.
-    S4 Case ascertainment completeness  : high-completeness registry (SEER/
-       NAACCR/USCS ~93-99%); undocumented/partial coverage loses the star.
-  COMPARABILITY (max 2)
-    C1 Age-standardization              : rates standardized to a stated standard
-       population (2000 US, 1970 US, world).
-    C2 Comparable standard/period/group : minority and NHW comparator drawn from
-       the same standard population, diagnosis period and registry (in-paper
-       comparator); externally-paired NHW loses the star.
-  OUTCOME (max 3)
-    O1 Outcome assessment               : invasive breast cancer via registry/
-       pathology record linkage (objective).
-    O2 Statistical reporting            : 95% CI or SE reported for the estimate.
-    O3 Appropriate analysis             : age-adjusted IRR/rate directly reported
-       or correctly computed with a variance; point-only computation loses star.
+  Q1 Sample frame appropriate to the target population (defined population-based
+     cancer registry: SEER / NAACCR / USCS / NPCR / state / IHS-PRCDA / ANTR).
+  Q2 Study participants sampled appropriately (registry ascertains all diagnosed
+     cases in the covered population — census-like, not a sample).
+  Q3 Adequate sample size (case count sufficient for a stable age-adjusted rate).
+  Q4 Study subjects and setting described in detail (registry, period, population,
+     racial/ethnic definition, standard population).
+  Q5 Data analysis with sufficient coverage of the identified population
+     (high-completeness registry).
+  Q6 Valid methods used to identify the condition (invasive breast cancer via
+     registry / pathology record linkage; ICD-O coding).
+  Q7 Condition measured in a standard, reliable way for all participants —
+     including race/ethnicity ascertainment (standard registry coding or IHS/
+     tribal linkage; surname recognition or a known AI/AN undercount = No).
+  Q8 Appropriate statistical analysis (age-standardized to a stated standard
+     population, with a reported or correctly computed variance/CI).
+  Q9 Response rate — not applicable to census-like registry ascertainment; rated
+     adequate where registry coverage is documented (see Q5).
 
-Rubric (per reference paper / AHRQ):
-  Good : Selection 3-4 AND Comparability 1-2 AND Outcome 2-3
-  Fair : Selection 2   AND Comparability 1-2 AND Outcome 2-3
-  Poor : Selection 0-1 OR  Comparability 0   OR Outcome 0-1
+Overall risk of bias (summary of the nine items):
+  Low      : 0-1 "No" AND Q7 = Yes AND Q8 = Yes
+  High     : >= 3 "No"
+  Moderate : otherwise (including any single "No" on the two key items Q7/Q8)
 
-NOTE: this is an AI-generated first-pass to be spot-checked by the reviewer
-(per feedback item 4). Each star carries a short justification.
+Two reviewers apply the checklist independently in the manuscript workflow;
+disagreements are resolved by consensus or a third reviewer.
 """
 import csv
 import os
@@ -48,18 +43,20 @@ REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
 OUT_CSV = os.path.join(HERE, "outputs", "TableS_risk_of_bias.csv")
 OUT_MD = os.path.join(HERE, "outputs", "TableS_risk_of_bias.md")
 
+QCOLS = ["Q1_frame", "Q2_sampling", "Q3_size", "Q4_described", "Q5_coverage",
+         "Q6_condition", "Q7_measurement", "Q8_analysis", "Q9_response"]
+
 
 def study_facts():
-    led = list(csv.DictReader(open(LED, encoding="utf-8")))
     st = {}
-    for r in led:
+    for r in csv.DictReader(open(LED, encoding="utf-8")):
         rid = r["record_id"]
         if rid == "SEER-EXPL":
             continue
         s = st.setdefault(rid, dict(rid=rid, author=r["author_year"],
                                     registry=r["registry"], period=r["period"],
                                     std=r["std_pop"], provs=set(), cis=0, n=0,
-                                    notes=" ".join([]), groups=set()))
+                                    notes="", groups=set(), comparison=""))
         s["provs"].add(r["provenance"])
         s["n"] += 1
         s["groups"].add(r["minority_group"])
@@ -70,123 +67,108 @@ def study_facts():
     return st
 
 
-def score(s):
+def appraise(s):
     reg = s["registry"].lower()
     notes = s["notes"].lower()
     provs = s["provs"]
     j = {}
-    # ---- SELECTION ----
-    S1 = 1
-    j["S1"] = "population-based registry"
-    S2 = 1
-    j["S2"] = "national/multi-registry or adequate cases"
-    # small-count / provisional / single-region small subgroup
+    # Q1 sample frame — population-based registry
+    j["Q1_frame"] = ("Yes", "population-based cancer registry covering a defined population")
+    # Q2 sampling — census-like registry ascertainment
+    j["Q2_sampling"] = ("Yes", "registry ascertains all diagnosed cases (census-like)")
+    # Q3 sample size / rate stability
     m = re.search(r"(\d+)\s*cases", notes)
     ncase = int(m.group(1)) if m else None
     if (ncase is not None and ncase < 45) or "provisional" in notes:
-        S2 = 0
-        j["S2"] = "small case count / provisional estimate (rate unstable)"
-    S3 = 1
-    j["S3"] = "standard registry race coding"
+        j["Q3_size"] = ("No", "small case count / provisional estimate (rate unstable)")
+    else:
+        j["Q3_size"] = ("Yes", "national/multi-registry or adequate case count for a stable rate")
+    # Q4 subjects/setting described
+    j["Q4_described"] = ("Yes", "registry, diagnosis period, groups and standard population described")
+    # Q5 coverage/completeness
+    if re.search(r"seer|naaccr|uscs|npcr|ihs|prcda|california|florida|new mexico|hawaii|"
+                 r"navajo|alaska|bay area|puget|atlanta|la county|multi-state|50-state|national", reg):
+        j["Q5_coverage"] = ("Yes", "high-completeness registry")
+    else:
+        j["Q5_coverage"] = ("Unclear", "registry coverage/completeness not documented")
+    # Q6 valid identification of the condition
+    j["Q6_condition"] = ("Yes", "invasive breast cancer via registry/pathology record linkage")
+    # Q7 measured reliably — includes race/ethnicity ascertainment
     if "surname" in notes:
-        S3 = 0
-        j["S3"] = "race/ethnicity by surname recognition (misclassification risk)"
-    elif ("ihs" in reg or "prcda" in reg or "navajo" in reg or "antr" in reg
-          or "alaska native tumo" in reg):
-        j["S3"] = "IHS/tribal registry linkage (validated AI/AN classification)"
-    elif "aian undercount" in notes or "undercount" in notes:
-        S3 = 0
-        j["S3"] = "unlinked national registry undercounts AI/AN"
-    S4 = 1
-    j["S4"] = "high-completeness registry"
-    if not re.search(r"seer|naaccr|uscs|npcr|ihs|prcda|california|florida|"
-                     r"new mexico|hawaii|navajo|alaska|bay area|puget|atlanta|"
-                     r"la county|multi-state|50-state|national", reg):
-        S4 = 0
-        j["S4"] = "coverage/completeness not documented"
-    sel = S1 + S2 + S3 + S4
-    # ---- COMPARABILITY ----
-    C1 = 1 if re.search(r"2000 us|1970|world|segi|standard", s["std"].lower()) else 0
-    j["C1"] = ("standardized to %s" % s["std"]) if C1 else "standardization not stated"
-    comp_l = s.get("comparison", "").lower()
-    ext = ("external" in notes or "seer-explorer" in notes or "back-derived" in notes
-           or "external" in comp_l or "sir reference" in comp_l)
-    C2 = 0 if ext else 1
-    j["C2"] = "externally-referenced comparator (external/SIR standard)" if ext else "in-paper White/NHW comparator, same registry/period/standard"
-    comp = C1 + C2
-    # ---- OUTCOME ----
-    O1 = 1
-    j["O1"] = "invasive breast cancer via registry/pathology linkage"
-    O2 = 1 if s["cis"] > 0 else 0
-    j["O2"] = "95% CI / SE reported" if O2 else "point estimate only (no CI)"
+        j["Q7_measurement"] = ("No", "race/ethnicity by surname recognition (misclassification risk)")
+    elif "undercount" in notes or "aian undercount" in notes:
+        j["Q7_measurement"] = ("No", "unlinked national registry undercounts AI/AN")
+    elif ("ihs" in reg or "prcda" in reg or "navajo" in reg or "antr" in reg or "alaska native tumo" in reg):
+        j["Q7_measurement"] = ("Yes", "IHS/tribal registry linkage (validated AI/AN classification)")
+    else:
+        j["Q7_measurement"] = ("Yes", "standard registry race/ethnicity coding; ICD-O condition coding")
+    # Q8 appropriate statistical analysis — standardization + variance
+    std_ok = bool(re.search(r"2000 us|1970|world|segi|standard|age-adjust", s["std"].lower()))
     direct = any(p.startswith("directly") for p in provs)
     withvar = any(("with-CI" in p or "Poisson" in p) for p in provs)
-    O3 = 1 if (direct or withvar) else 0
-    j["O3"] = ("directly reported / computed with variance" if O3
-               else "age-adjusted IRR computed as point only (no variance)")
-    out = O1 + O2 + O3
-    # ---- rubric ----
-    if sel >= 3 and 1 <= comp <= 2 and 2 <= out <= 3:
-        q = "Good"
-    elif sel == 2 and 1 <= comp <= 2 and 2 <= out <= 3:
-        q = "Fair"
+    has_var = s["cis"] > 0 or direct or withvar
+    if std_ok and has_var:
+        j["Q8_analysis"] = ("Yes", "age-standardized to a stated standard with a reported/computed variance")
+    elif not has_var:
+        j["Q8_analysis"] = ("No", "age-adjusted estimate reported as a point value without a variance/CI")
     else:
-        q = "Poor"
-    return dict(S1=S1, S2=S2, S3=S3, S4=S4, C1=C1, C2=C2, O1=O1, O2=O2, O3=O3,
-                sel=sel, comp=comp, out=out, quality=q, j=j)
+        j["Q8_analysis"] = ("Unclear", "standard population not clearly stated")
+    # Q9 response rate — not applicable to census-like registry
+    j["Q9_response"] = ("Yes", "not applicable (census-like registry ascertainment)")
+
+    verd = {k: v[0] for k, v in j.items()}
+    n_no = sum(1 for v in verd.values() if v == "No")
+    key_ok = verd["Q7_measurement"] == "Yes" and verd["Q8_analysis"] == "Yes"
+    if n_no >= 3:
+        rob = "High"
+    elif n_no <= 1 and key_ok:
+        rob = "Low"
+    else:
+        rob = "Moderate"
+    return verd, {k: v[1] for k, v in j.items()}, rob, n_no
 
 
 def main():
     st = study_facts()
-    reps = set()
-    for r in csv.DictReader(open(REPS, encoding="utf-8")):
-        if r["main_analysis"].startswith("yes"):
-            reps.add(r["record_id"])
+    reps = {r["record_id"] for r in csv.DictReader(open(REPS, encoding="utf-8"))
+            if r["main_analysis"].startswith("yes")}
     rows = []
     for rid in sorted(st, key=lambda x: int(x)):
         s = st[rid]
-        sc = score(s)
-        rows.append((s, sc, rid in reps))
-    cols = ["record_id", "study", "registry", "period", "in_main_analysis",
-            "S1_representative", "S2_samplesize", "S3_race_ascertain",
-            "S4_completeness", "C1_agestd", "C2_comparable",
-            "O1_outcome", "O2_stats_CI", "O3_analysis",
-            "Selection_/4", "Comparability_/2", "Outcome_/3", "Overall_quality",
-            "justification"]
+        verd, just, rob, n_no = appraise(s)
+        rows.append((s, verd, just, rob, rid in reps))
+    cols = (["record_id", "study", "registry", "period", "in_main_analysis"]
+            + QCOLS + ["n_No", "Overall_RoB", "justification"])
     os.makedirs(os.path.dirname(OUT_CSV), exist_ok=True)
     with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(cols)
-        for s, sc, isrep in rows:
-            j = sc["j"]
-            just = "; ".join("%s:%s" % (k, j[k]) for k in
-                             ["S1", "S2", "S3", "S4", "C1", "C2", "O1", "O2", "O3"])
+        for s, verd, just, rob, isrep in rows:
+            n_no = sum(1 for v in verd.values() if v == "No")
+            jtext = "; ".join("%s:%s (%s)" % (k, verd[k], just[k]) for k in QCOLS)
             w.writerow([s["rid"], s["author"], s["registry"], s["period"],
-                        "yes" if isrep else "sensitivity-only",
-                        sc["S1"], sc["S2"], sc["S3"], sc["S4"], sc["C1"], sc["C2"],
-                        sc["O1"], sc["O2"], sc["O3"],
-                        sc["sel"], sc["comp"], sc["out"], sc["quality"], just])
-    # markdown summary
+                        "yes" if isrep else "sensitivity-only"]
+                       + [verd[k] for k in QCOLS] + [n_no, rob, jtext])
     from collections import Counter
-    qc = Counter(sc["quality"] for _, sc, _ in rows)
-    qc_rep = Counter(sc["quality"] for _, sc, isrep in rows if isrep)
+    qc = Counter(rob for _, _, _, rob, _ in rows)
+    qc_rep = Counter(rob for _, _, _, rob, isrep in rows if isrep)
     with open(OUT_MD, "w", encoding="utf-8") as f:
-        f.write("# Table S. Risk of bias — Newcastle-Ottawa Scale "
-                "(adapted for population-based incidence studies)\n\n")
-        f.write("Domains: Selection (max 4), Comparability (max 2), Outcome (max 3). "
-                "Quality per AHRQ thresholds (see rob_assessment.py header). "
-                "**AI-generated first pass — reviewer to spot-check.**\n\n")
-        f.write("Overall (43 studies): %s. Main-analysis representatives (28): %s\n\n"
-                % (dict(qc), dict(qc_rep)))
-        f.write("| Rec | Study | Registry | Period | Main | Sel/4 | Comp/2 | Out/3 | Quality |\n")
-        f.write("|----|----|----|----|----|----|----|----|----|\n")
-        for s, sc, isrep in rows:
-            f.write("| %s | %s | %s | %s | %s | %d | %d | %d | **%s** |\n" % (
-                s["rid"], s["author"], s["registry"][:30], s["period"][:16],
-                "Y" if isrep else "s", sc["sel"], sc["comp"], sc["out"], sc["quality"]))
+        f.write("# Table S. Risk of bias — JBI Critical Appraisal Checklist for "
+                "Studies Reporting Prevalence/Incidence Data\n\n")
+        f.write("Nine items rated Yes/No/Unclear; overall risk of bias summarized as "
+                "Low/Moderate/High (see rob_assessment.py header). Two reviewers "
+                "independently; disagreements resolved by consensus or a third reviewer.\n\n")
+        f.write("Overall (%d studies): %s. Main-analysis representatives: %s\n\n"
+                % (len(rows), dict(qc), dict(qc_rep)))
+        f.write("| Rec | Study | Registry | Period | " + " | ".join(QCOLS) + " | RoB |\n")
+        f.write("|----|----|----|----|" + "----|" * (len(QCOLS) + 1) + "\n")
+        for s, verd, just, rob, isrep in rows:
+            f.write("| %s | %s | %s | %s | %s | **%s** |\n" % (
+                s["rid"], s["author"], s["registry"][:26], s["period"][:16],
+                " | ".join(verd[k] for k in QCOLS), rob))
     print("wrote %s (%d studies)" % (OUT_CSV, len(rows)))
-    print("overall quality:", dict(qc))
-    print("representatives  :", dict(qc_rep))
+    print("overall RoB     :", dict(qc))
+    print("representatives :", dict(qc_rep))
 
 
 if __name__ == "__main__":

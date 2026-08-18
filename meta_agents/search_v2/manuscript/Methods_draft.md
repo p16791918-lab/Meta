@@ -63,50 +63,49 @@ reported IRR or SIR, computed from reported rates (with a reported or Poisson-de
 variance), or read from a figure—and the label was retained for risk-of-bias scoring and for a
 provenance-restricted sensitivity analysis.
 
-### Handling of overlapping registry data
+### Selection of a representative population-based estimate
 Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and individual state
 registries cover overlapping regions and diagnosis periods, the same women can appear in more
-than one study. To avoid counting them repeatedly, each estimate was assigned to a registry
-"family," and the registry, region, diagnosis period, age range, group, and outcome of every
-study were tabulated so that overlaps could be seen (Supplementary Table 5). For the main
-analysis a single representative estimate was retained per registry family and outcome, chosen
-by coverage, sample size, recency or length of the diagnosis period, a clear age-standardization
-method, and a directly reported confidence interval. Overall, disaggregated-subgroup, subtype,
-and age-specific results could draw on different studies, but the same registry data were not
-entered twice for the same question. Three sensitivity analyses were run: restricting to
-Good-rated studies, to directly reported estimates, and to estimates with an NHW (rather than
-unstratified White) comparator.
+than one study; estimates from different publications that draw on the same or nested registry
+populations are therefore not statistically independent. Rather than pool such non-independent
+estimates, we selected for each racial or ethnic group and analytic dimension a single
+**representative population-based estimate** (a contemporary benchmark). Each estimate was
+assigned to a registry "family," and the registry, region, diagnosis period, age range, group,
+and outcome of every study were tabulated so that overlaps could be seen (Supplementary Table 4).
+The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
+SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
+documented age-standardization, and a directly reported confidence interval where available.
+Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
+studies, but the same registry data were not entered twice for the same question. The stability
+of the selection was checked in three ways: restricting to studies at low risk of bias, to
+directly reported (rather than computed) estimates, and to estimates with an NHW (rather than
+unstratified White) comparator (Supplementary Table 6).
 
-### Risk of bias and certainty of evidence
-Risk of bias was assessed with a Newcastle-Ottawa Scale adapted for population-based
-descriptive incidence studies,¹⁴ keeping the three-domain structure (selection, comparability,
-outcome) and the Good/Fair/Poor rating. Domain items covered the accuracy of racial and ethnic
-classification, registry coverage, the use of a comparator drawn from the same source, and
-whether the outcome was directly reported or correctly computed with a variance. Certainty of
-evidence was rated within a prespecified GRADE-informed framework,¹⁵,¹⁶ with observational
-estimates starting at low certainty and moving down for risk of bias, inconsistency, or
-imprecision and up for a large effect. Publication bias and small-study effects were not
-formally tested with funnel plots or Egger regression. Within each cell the estimates come
-largely from the same overlapping registry data rather than from independent studies, which
-limits the usefulness of small-study asymmetry tests; population-based registry incidence rates
-are also less likely to be affected by the selective reporting these tests are designed to
-detect.
+### Risk of bias
+Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
+for studies reporting prevalence/incidence data,¹⁴ which is designed for population-based
+descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
+of the condition, adequate coverage, and appropriate statistical/standardization methods). Two
+reviewers applied the checklist independently, and disagreements were resolved by consensus or a
+third reviewer. Publication bias and small-study effects were not formally tested with funnel
+plots or Egger regression: within each group the estimates come largely from the same overlapping
+registry data rather than from independent studies, which limits the usefulness of small-study
+asymmetry tests, and population-based registry incidence rates are less likely to be affected by
+the selective reporting these tests are designed to detect. Certainty of evidence was not graded,
+because the review describes and compares population-based incidence rather than estimating a
+causal effect for which a GRADE-type certainty rating would be appropriate.
 
 ### Statistical analysis
 Each estimate was expressed as an IRR relative to NHW women. When a study reported
 age-standardized rates rather than a ratio, the IRR was computed from the minority and NHW
 rates of the same study, standard population, and diagnosis period, and its confidence interval
-was propagated from the reported rate intervals by the delta method. Estimates were pooled with
-random-effects models; between-study variance (τ²) was estimated by both the DerSimonian–Laird
-and the Paule–Mandel (restricted maximum likelihood–equivalent) methods, and confidence
-intervals used the Hartung–Knapp–Sidik–Jonkman adjustment¹⁷ rather than a normal
-approximation. For cells with fewer than three estimates the Hartung–Knapp interval is
-unstable and the results are reported with corresponding caution. Between-study heterogeneity
-was summarized with Cochran's Q (and its p value) and with I². I² was high in most pooled
-cells; this most likely reflects repeated inclusion of the same registry data rather than
-genuine biological heterogeneity, so the interpretation of any pooled estimate is limited and
-the one-estimate-per-registry-family main analysis is treated as primary. Analyses were carried
-out in Python 3 using SciPy.
+was propagated from the reported rate intervals by the delta method. Because estimates within a
+group are drawn from overlapping registry populations and are not independent, they were not
+combined into a pooled random-effects estimate; the primary result for each group is the
+representative population-based estimate defined above. The analysis therefore emphasizes the
+racial and ethnic disparities and the heterogeneity among subgroups within each aggregate
+category, displayed group by group rather than summarized as a single pooled value. Analyses
+were carried out in Python 3 using SciPy.
 
 ---
 

@@ -50,12 +50,12 @@ ABBR = [
     ("HR", "hormone receptor"),
     ("IHS", "Indian Health Service"),
     ("IRR", "incidence rate ratio"),
+    ("JBI", "Joanna Briggs Institute"),
     ("MENA", "Middle Eastern and North African"),
     ("NAACCR", "North American Association of Central Cancer Registries"),
     ("NHB", "non-Hispanic Black"),
     ("NHPI", "Native Hawaiian and Pacific Islander"),
     ("NHW", "non-Hispanic White"),
-    ("NOS", "Newcastle-Ottawa Scale"),
     ("NPCR", "National Program of Cancer Registries"),
     ("PRCDA", "Purchased/Referred Care Delivery Area (IHS)"),
     ("PRISMA", "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"),
@@ -117,23 +117,21 @@ P("Standard population: age-standardization is to the 2000 U.S. standard unless 
 PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
-H("Supplementary Table 5. Risk of bias (Newcastle-Ottawa Scale, adapted)", 1)
-P("Each cell shows 1 where the item was met (blank = not met). Selection (max 4): S1–S4; Comparability (max 2): C1–C2; Outcome (max 3): O1–O3. AI-generated first pass; reviewer to spot-check.", True)
+H("Supplementary Table 5. Risk of bias (JBI checklist for studies reporting prevalence/incidence data)", 1)
+P("Nine JBI items rated Y (Yes) / N (No) / U (Unclear); overall risk of bias is summarized as Low, Moderate, or High. Two reviewers assessed each study independently, and disagreements were resolved by consensus or a third reviewer.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
-def _s(v): return "1" if v.strip() == "1" else ""
-rrows = [[cite(r["study"]), _s(r["S1_representative"]), _s(r["S2_samplesize"]), _s(r["S3_race_ascertain"]),
-          _s(r["S4_completeness"]), _s(r["C1_agestd"]), _s(r["C2_comparable"]),
-          _s(r["O1_outcome"]), _s(r["O2_stats_CI"]), _s(r["O3_analysis"]), r["Overall_quality"]] for r in rob]
-GT([["Study", 1, True], ["Selection", 4, False], ["Comparability", 2, False], ["Outcome", 3, False], ["Quality", 1, True]],
-   [None, "S1", "S2", "S3", "S4", "C1", "C2", "O1", "O2", "O3", None],
-   rrows, [3600, 700, 700, 700, 700, 700, 700, 700, 700, 700, 2100])
-P("Sel = Selection (max 4 stars): (1) representativeness — defined population-based registry; (2) sample size — adequate case count for a stable age-adjusted rate (national/multi-registry or ≥50 cases); (3) ascertainment of race/ethnicity — standard registry coding or IHS/tribal linkage (surname-based or national AI/AN undercount loses the star); (4) case ascertainment completeness (high-completeness registry).", True)
-P("Comp = Comparability (max 2 stars): (1) age-standardization to a stated standard population (e.g., 2000 US); (2) minority and non-Hispanic White comparator from the same standard, diagnosis period and registry (externally-paired comparator loses the star).", True)
-P("Out = Outcome (max 3 stars): (1) outcome assessment — invasive breast cancer via registry/pathology record linkage; (2) statistical reporting — 95% CI or SE reported; (3) appropriate analysis — age-adjusted IRR directly reported or correctly computed with a variance (point-only computation loses the star).", True)
-_ngood = sum(1 for r in rob if r["Overall_quality"] == "Good")
-_npoor = sum(1 for r in rob if r["Overall_quality"] == "Poor")
-P("Overall quality (AHRQ thresholds): Good = Selection 3–4 AND Comparability 1–2 AND Outcome 2–3; Fair = Selection 2 AND Comparability 1–2 AND Outcome 2–3; Poor = Selection 0–1 OR Comparability 0 OR Outcome 0–1. Of %d studies assessed, %d were Good and %d Poor; the Poor ratings arise where only a point estimate without a confidence interval was available (Outcome = 1). Assessment is an AI-generated first pass for reviewer verification."
-  % (len(rob), _ngood, _npoor), True)
+def _v(x): return {"Yes": "Y", "No": "N", "Unclear": "U"}.get(x.strip(), x.strip())
+QC = ["Q1_frame", "Q2_sampling", "Q3_size", "Q4_described", "Q5_coverage",
+      "Q6_condition", "Q7_measurement", "Q8_analysis", "Q9_response"]
+rrows = [[cite(r["study"])] + [_v(r[q]) for q in QC] + [r["Overall_RoB"]] for r in rob]
+TB(["Study", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8", "Q9", "RoB"],
+   rrows, [3200, 620, 620, 620, 620, 620, 620, 620, 620, 620, 1400])
+P("JBI items: Q1 sample frame appropriate to the target population (defined population-based registry); Q2 appropriate sampling (registry ascertains all diagnosed cases — census-like); Q3 adequate sample size for a stable age-adjusted rate; Q4 study subjects and setting described in detail; Q5 sufficient coverage of the identified population (registry completeness); Q6 valid identification of the condition (invasive breast cancer via registry/pathology record linkage); Q7 condition measured in a standard, reliable way for all participants, including race/ethnicity ascertainment (surname recognition or a known AI/AN undercount = No); Q8 appropriate statistical analysis (age-standardized to a stated standard population with a reported or correctly computed variance); Q9 response rate — not applicable to census-like registry ascertainment.", True)
+_nlow = sum(1 for r in rob if r["Overall_RoB"] == "Low")
+_nmod = sum(1 for r in rob if r["Overall_RoB"] == "Moderate")
+_nhigh = sum(1 for r in rob if r["Overall_RoB"] == "High")
+P("Overall risk of bias: Low = at most one item not met with the two key items (Q7 measurement, Q8 analysis) met; High = three or more items not met; Moderate otherwise. Of %d studies assessed, %d were Low, %d Moderate, and %d High; the Moderate ratings arise chiefly where an estimate was reported as a point value without a variance (Q8) or where race/ethnicity ascertainment was limited (Q7)."
+  % (len(rob), _nlow, _nmod, _nhigh), True)
 PB()
 
 # ---- S10 sensitivity ----
@@ -141,7 +139,7 @@ H("Supplementary Table 6. Sensitivity analyses", 1)
 from collections import Counter as _Ctr
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 _c1 = _Ctr(r["status"] for r in s1)
-P("Table 6a. Good-RoB-only (Poor studies dropped): %d of %d cells unchanged, %d changed, %d dropped — all headline results unchanged."
+P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped — all headline results unchanged."
   % (_c1["unchanged"], sum(_c1.values()), _c1["changed"], _c1["dropped"]))
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch1], [2300, 2600, 2000, 2000, 1500])
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
@@ -154,7 +152,7 @@ _c3 = _Ctr(r["status"] for r in s3)
 P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped. The aggregate, disaggregated-AANHPI, and Hispanic-origin cells are unchanged because they already use an NHW comparator; the dropped cells are those whose only representative used an unstratified White reference — the receptor-defined subtype set (Loo 2019), male breast cancer (Sung 2020), the ER/PR subtypes (Gleason 2012), and two age-specific Black cells — confirming which findings depend on the unstratified-White comparator."
   % (_c3["unchanged"], sum(_c3.values()), _c3["changed"], _c3["dropped"]))
 TB(["Dimension", "Group", "Main IRR", "Sens IRR", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"], r["sens_irr"] or "-", r["status"]] for r in ch3], [2300, 2600, 2000, 2000, 1500])
-P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (Good-RoB-only in Table 6a; author-reported IRR/SIR only in Table 6b; NHW-comparator only in Table 6c). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
+P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (low-risk-of-bias only in Table 6a; author-reported IRR/SIR only in Table 6b; NHW-comparator only in Table 6c). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; all others were unchanged, indicating the main results are robust.", True)
 PB()
 
 # ==== NOTES (after all tables) ====

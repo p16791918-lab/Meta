@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Main-text Table 1: headline IRR (vs non-Hispanic White) by racial/ethnic group
 and analytic dimension, in the supervisor's format — Effect type + Risk estimate
-[low, high] + RoB (Newcastle-Ottawa) + GRADE. One headline representative per
+[low, high] + RoB (JBI). One representative population-based estimate per
 (dimension x group); full per-estimate detail lives in the Supplementary tables.
 """
 import csv
@@ -27,7 +27,7 @@ DIMS = [
 
 
 def main():
-    qual = {r["record_id"]: r["Overall_quality"]
+    qual = {r["record_id"]: r["Overall_RoB"]
             for r in csv.DictReader(open(ROB, encoding="utf-8"))}
     prov = {}
     for r in csv.DictReader(open(LED, encoding="utf-8")):
@@ -41,11 +41,11 @@ def main():
             cells[(r["outcome_dim"], r["minority_group"])].append(r)
 
     def pick(cands):
-        # prefer: has CI, Good RoB, highest coverage tier
+        # prefer: has CI, low RoB, highest coverage tier
         def key(r):
             has_ci = 1 if (r["irr_ci_lo"].strip() and r["irr_ci_hi"].strip()) else 0
-            good = 1 if qual.get(r["record_id"]) == "Good" else 0
-            return (has_ci, good, int(r["coverage_tier"]))
+            lowrob = 1 if qual.get(r["record_id"]) == "Low" else 0
+            return (has_ci, lowrob, int(r["coverage_tier"]))
         return max(cands, key=key)
 
     DROP = {("aggregate-vs-NHW", "Black (women)")}  # duplicate aggregate Black

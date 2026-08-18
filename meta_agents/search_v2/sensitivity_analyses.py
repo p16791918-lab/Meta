@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Sensitivity analyses requested (Feedback 6):
-  #1  Good-RoB-only : drop studies rated Poor on the Newcastle-Ottawa adaptation.
+  #1  Low-RoB-only : keep only studies rated low risk of bias (JBI).
   #2  Directly-reported-only : keep only estimates the source printed as a ratio
       (provenance directly-reported-IRR / -SIR); drop everything we computed.
 
@@ -108,7 +108,7 @@ def write(out, name, title):
 
 
 def main():
-    qual = {r["record_id"]: r["Overall_quality"]
+    qual = {r["record_id"]: r["Overall_RoB"]
             for r in csv.DictReader(open(ROB, encoding="utf-8"))}
     rows = load(qual)
     # baseline main-analysis representatives, exactly as finalize_representatives chose
@@ -124,10 +124,10 @@ def main():
                "Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)")
     print("\n#2 directly-reported-only:", dict(c2))
 
-    c1 = write(run(rows, lambda r: r["_qual"] == "Good", mainrep, "SENS1"),
+    c1 = write(run(rows, lambda r: r["_qual"] == "Low", mainrep, "SENS1"),
                "Sensitivity1_good_rob",
-               "Sensitivity #1 — Good-RoB studies only (Poor dropped)")
-    print("#1 Good-RoB-only     :", dict(c1))
+               "Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)")
+    print("#1 low-RoB-only      :", dict(c1))
 
     c3 = write(run(rows, lambda r: r.get("comparison_vs", "").strip() in NHW_OK, mainrep, "SENS3"),
                "Sensitivity3_nhw_only",
