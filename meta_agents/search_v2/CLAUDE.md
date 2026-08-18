@@ -2,8 +2,14 @@
 
 **Two standing premises for all manuscript work:**
 
-1. **The supervisor's `Advice/Feedback` is the governing premise (대전제).** Re-read it before
-   drafting or revising any section; if anything conflicts with it, the Feedback wins.
+1. **The supervisor's feedback is the governing premise (대전제).** Two files apply:
+   `Advice/Feedback` (1st round) and `Advice/Feedback2.md` (2nd round). Re-read both before
+   drafting or revising; if anything conflicts, the feedback wins, and the 2nd round wins over
+   the 1st. (2nd round: remove GRADE; RoB via JBI not NOS with ≥2 independent reviewers;
+   distinguish 163 included / 48 quant-eligible / 43 extractable; add study-design column and
+   stop calling studies "cohort"; overlapping-registry pooling is sensitivity-only, not primary;
+   present the representative as a "population-based benchmark", not a pooled estimate; verify all
+   derived IRRs from one master dataset.)
 2. **Write source-grounded, non-AI-sounding prose per `manuscript/WRITING_GUIDE.md`.** Read the
    source paper before writing a factual sentence; tie every quantitative claim to a reference
    read in full or extracted into the ledger; use concrete figures and named studies; vary
