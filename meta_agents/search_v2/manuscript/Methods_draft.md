@@ -19,7 +19,7 @@ where they overlap (marked ✓reuse); others are flagged for the verification pa
 
 ### Protocol and reporting
 The review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses
-(PRISMA) 2020 statement.¹ **[A PROSPERO registration is being prepared; the registration
+(PRISMA) 2020 statement.¹³ **[A PROSPERO registration is being prepared; the registration
 number will be added here.]** The protocol covered the search, eligibility criteria, the
 handling of overlapping registry data, and the planned analyses.
 
@@ -79,11 +79,11 @@ unstratified White) comparator.
 
 ### Risk of bias and certainty of evidence
 Risk of bias was assessed with a Newcastle-Ottawa Scale adapted for population-based
-descriptive incidence studies,² keeping the three-domain structure (selection, comparability,
+descriptive incidence studies,¹⁴ keeping the three-domain structure (selection, comparability,
 outcome) and the Good/Fair/Poor rating. Domain items covered the accuracy of racial and ethnic
 classification, registry coverage, the use of a comparator drawn from the same source, and
 whether the outcome was directly reported or correctly computed with a variance. Certainty of
-evidence was rated within a prespecified GRADE-informed framework,³,⁴ with observational
+evidence was rated within a prespecified GRADE-informed framework,¹⁵,¹⁶ with observational
 estimates starting at low certainty and moving down for risk of bias, inconsistency, or
 imprecision and up for a large effect. Publication bias and small-study effects were not
 formally tested with funnel plots or Egger regression. Within each cell the estimates come
@@ -99,7 +99,7 @@ rates of the same study, standard population, and diagnosis period, and its conf
 was propagated from the reported rate intervals by the delta method. Estimates were pooled with
 random-effects models; between-study variance (τ²) was estimated by both the DerSimonian–Laird
 and the Paule–Mandel (restricted maximum likelihood–equivalent) methods, and confidence
-intervals used the Hartung–Knapp–Sidik–Jonkman adjustment⁵ rather than a normal
+intervals used the Hartung–Knapp–Sidik–Jonkman adjustment¹⁷ rather than a normal
 approximation. For cells with fewer than three estimates the Hartung–Knapp interval is
 unstable and the results are reported with corresponding caution. Between-study heterogeneity
 was summarized with Cochran's Q (and its p value) and with I². I² was high in most pooled
@@ -110,16 +110,11 @@ out in Python 3 using SciPy.
 
 ---
 
-## References (Methods) — draft
+## References
 
-| # | Citation | Status |
-|---|---|---|
-| 1 | Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. | ✓ reuse (supervisor #12) |
-| 2 | Wells GA, Shea B, O'Connell D, et al. The Newcastle–Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses. Ottawa Hospital Research Institute. | ⚠ verify |
-| 3 | Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines: 1. Introduction—GRADE evidence profiles and summary of findings tables. J Clin Epidemiol. 2011;64(4):383–394. | ✓ reuse (supervisor #19) |
-| 4 | Schünemann H, Brożek J, Guyatt G, Oxman A, eds. GRADE Handbook. GRADE Working Group; 2013. | ✓ reuse (supervisor #20) |
-| 5 | IntHout J, Ioannidis JP, Borm GF. The Hartung–Knapp–Sidik–Jonkman method for random effects meta-analysis is straightforward and considerably outperforms the standard DerSimonian–Laird method. BMC Med Res Methodol. 2014;14:25. | ✓ reuse (supervisor #16) |
-
-*DerSimonian–Laird (1986) and the Paule–Mandel/τ² estimator comparison (Veroniki 2016) are
-named in the text; add as numbered references in the verification pass if a formal citation is
-wanted for each estimator.*
+Method-guideline citations are numbered 13–17 in the **unified reference list**
+(`manuscript/References_draft.md`): 13 PRISMA 2020 (Page 2021), 14 Newcastle–Ottawa Scale
+(Wells), 15 GRADE (Guyatt 2011), 16 GRADE Handbook (Schünemann 2013), 17 HKSJ (IntHout 2014).
+DerSimonian–Laird (1986) and the Paule–Mandel/τ² estimator comparison (Veroniki 2016) are named
+in the text; add as numbered references in the verification pass if a formal citation is wanted
+for each estimator.
