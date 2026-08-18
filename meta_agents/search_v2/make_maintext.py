@@ -35,13 +35,13 @@ P("One representative estimate per group (one estimate per registry family). Eff
   "the NHW-comparator sensitivity analysis (Supplementary Table 9c). Black denotes "
   "non-Hispanic Black (NHB), and the Asian/Pacific Islander aggregate is labeled AANHPI "
   "(Asian American, Native Hawaiian, and Pacific Islander), with the Pacific-Islander "
-  "subset shown separately as NHPI. RoB = Newcastle-Ottawa rating of the representative "
-  "study; GRADE = certainty of evidence. Full per-estimate detail, including each study's "
-  "comparator and standard population, is in the Supplementary Materials.", True)
+  "subset shown separately as NHPI. RoB = risk-of-bias rating of the representative "
+  "study. Full per-estimate detail, including each study's comparator and standard "
+  "population, is in the Supplementary Materials.", True)
 # Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
 TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",
-    "RoB", "GRADE"], [], [2900, 950, 2700, 2500, 2100, 1150, 1100])
+    "RoB"], [], [3050, 1000, 2850, 2650, 2250, 1300])
 tbl = M[-1]
 cur = None
 for r in t1:
@@ -50,7 +50,7 @@ for r in t1:
         tbl["rows"].append({"section": cur})
     tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
                         "%s (%s)" % (cite(r["study"]), r["period"]),
-                        r.get("registry", ""), r["rob"], r["grade"]])
+                        r.get("registry", ""), r["rob"]])
 PB()
 
 # NOTE: no main-text "meta-analysis results" table. The main analysis selects one

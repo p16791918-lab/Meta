@@ -14,7 +14,6 @@ OUT = os.path.join(HERE, "outputs")
 REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
 LED = os.path.join(HERE, "breast_extraction.csv")
 ROB = os.path.join(OUT, "TableS_risk_of_bias.csv")
-GRADE = os.path.join(OUT, "TableS_GRADE.csv")
 
 DIMS = [
     ("aggregate-vs-NHW", "Overall invasive breast cancer"),
@@ -30,8 +29,6 @@ DIMS = [
 def main():
     qual = {r["record_id"]: r["Overall_quality"]
             for r in csv.DictReader(open(ROB, encoding="utf-8"))}
-    grade = {(r["dimension"], r["group"], r["record"]): r["GRADE"]
-             for r in csv.DictReader(open(GRADE, encoding="utf-8"))}
     prov = {}
     for r in csv.DictReader(open(LED, encoding="utf-8")):
         prov[(r["record_id"], r["outcome_dim"], r["minority_group"], r["irr"])] = \
@@ -106,28 +103,27 @@ def main():
             rows.append(dict(dimension=seclabel(g), group=g, effect=eff, estimate=est,
                              study=auth, period=period,
                              registry=r.get("registry_family", ""),
-                             rob=qual.get(r["record_id"], "NA"),
-                             grade=grade.get((dim, g, r["record_id"]), "NA")))
+                             rob=qual.get(r["record_id"], "NA")))
 
-    cols = ["dimension", "group", "effect", "estimate", "study", "period", "registry", "rob", "grade"]
+    cols = ["dimension", "group", "effect", "estimate", "study", "period", "registry", "rob"]
     with open(os.path.join(OUT, "Table1_main.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     with open(os.path.join(OUT, "Table1_main.md"), "w", encoding="utf-8") as f:
         f.write("# Table 1. Incidence rate ratios of invasive breast cancer among "
                 "U.S. racial/ethnic groups relative to non-Hispanic White women\n\n")
-        f.write("Values are the representative estimate per group (one per registry "
-                "family). Effect measure: IRR unless noted (SIR). RoB = "
-                "Newcastle-Ottawa; GRADE = certainty of evidence.\n\n")
+        f.write("Values are the representative population-based estimate per group "
+                "(one per registry family). Effect measure: IRR unless noted (SIR). "
+                "RoB = risk of bias.\n\n")
         cur = None
         for r in rows:
             if r["dimension"] != cur:
                 cur = r["dimension"]
                 f.write("\n**%s**\n\n| Group | Effect | Estimate [95%% CI] | "
-                        "Representative study | Registry | RoB | GRADE |\n"
-                        "|----|----|----|----|----|----|----|\n" % cur)
-            f.write("| %s | %s | %s | %s (%s) | %s | %s | %s |\n" % (
+                        "Representative study | Registry | RoB |\n"
+                        "|----|----|----|----|----|----|\n" % cur)
+            f.write("| %s | %s | %s | %s (%s) | %s | %s |\n" % (
                 r["group"], r["effect"], r["estimate"], r["study"], r["period"],
-                r["registry"], r["rob"], r["grade"]))
+                r["registry"], r["rob"]))
     print("wrote outputs/Table1_main.(csv/md) — %d rows" % len(rows))
 
 
