@@ -126,9 +126,8 @@ sensitivity baseline traces to the same underlying value.
 
 ## References
 
-Method-guideline citations are numbered 13–17 in the **unified reference list**
-(`manuscript/References_draft.md`): 13 PRISMA 2020 (Page 2021), 14 Newcastle–Ottawa Scale
-(Wells), 15 GRADE (Guyatt 2011), 16 GRADE Handbook (Schünemann 2013), 17 HKSJ (IntHout 2014).
-DerSimonian–Laird (1986) and the Paule–Mandel/τ² estimator comparison (Veroniki 2016) are named
-in the text; add as numbered references in the verification pass if a formal citation is wanted
-for each estimator.
+Two method-guideline citations remain after the 2nd-round revision (GRADE, the Newcastle–Ottawa
+Scale, and the Hartung–Knapp/estimator references were dropped with the certainty rating and the
+random-effects pooling): 13 PRISMA 2020 (Page 2021) and 14 the JBI critical appraisal checklist
+for studies reporting prevalence/incidence data (Munn 2015). The unified reference list
+(`manuscript/References_draft.md`) is renumbered accordingly.

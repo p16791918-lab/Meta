@@ -49,11 +49,13 @@ Introduction rewrite (v9).
 
 ## D. Statistics & interpretation (Feedback §6 — hard constraints)
 
-12. Do **not** call I² = 99–100% "not a weakness / not noise." State first that it limits
-    interpretation of the pooled estimate, then explain likely causes (registry, region,
-    period, subgroup, standard population).
-13. Do **not** claim DerSimonian–Laird results are unaffected without comparing REML /
-    Hartung–Knapp; report the comparison.
+12. Do **not** present a pooled random-effects IRR, I², or τ² as a primary result (2nd-round
+    feedback §5): estimates within a group come from overlapping/nested registry populations
+    and are not independent. The primary result is one representative population-based estimate
+    per registry family; any pooling is at most a secondary consistency/sensitivity check.
+13. Do **not** describe the representative estimate as a meta-analytic pooled value (2nd-round
+    feedback §6): call it a "representative population-based estimate" or "contemporary
+    benchmark," and state its selection criteria.
 14. Keep provenance explicit: directly-reported IRR vs computed-from-rates vs figure-extracted
     vs approximate SE. Confirm same standard population, period, and comparator before
     computing a rate ratio.
@@ -75,5 +77,5 @@ Introduction rewrite (v9).
 
 - Draft in `manuscript/<Section>_draft.md`; commit after each meaningful change; push to the
   working branch; send the file to the user for review.
-- Method-guideline citations (PRISMA 2020, GRADE, Newcastle–Ottawa) go in Methods and reuse
-  the supervisor's own reference list where they overlap.
+- Method-guideline citations (PRISMA 2020 and the JBI prevalence/incidence appraisal checklist)
+  go in Methods. GRADE and the Newcastle–Ottawa Scale were dropped in the 2nd-round revision.
