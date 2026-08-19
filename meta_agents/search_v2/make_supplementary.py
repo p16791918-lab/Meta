@@ -94,13 +94,24 @@ P("The 163 studies are all publications included in the systematic review; not a
   "analysis, and %d were eligible but provided no extractable data), and the remaining %d "
   "contributed to the narrative synthesis only (163 = %d + %d + %d). Study design is classified "
   "from the data source; most included studies are population-based registry/incidence studies "
-  "rather than cohort studies."
-  % (_next + _nelig, _next, _nelig, _nnarr, _next, _nelig, _nnarr), True)
+  "rather than cohort studies. A PMID (or DOI where no PMID exists) is given for every study so "
+  "that each of the 163 included studies—including the %d in the narrative synthesis—can be "
+  "located individually."
+  % (_next + _nelig, _next, _nelig, _nnarr, _next, _nelig, _nnarr, _nnarr), True)
 _SECT = {
     "quant-extracted": "Quantitative synthesis — data extracted (n = %d)" % _next,
     "quant-eligible": "Quantitative synthesis — eligible, no extractable data (n = %d)" % _nelig,
     "narrative": "Narrative synthesis only (n = %d)" % _nnarr,
 }
+
+
+def _ident(r):
+    p, d = r.get("pmid", "").strip(), r.get("doi", "").strip()
+    if p:
+        return "PMID " + p
+    return ("doi:" + d) if d else ""
+
+
 rows = []
 _cur = None
 for r in inc:
@@ -109,9 +120,9 @@ for r in inc:
         _cur = g
         rows.append({"section": _SECT.get(g, g)})
     rows.append([study_cell(r), r.get("study_design", ""), r.get("data_source", ""),
-                 r.get("groups_vs_nhw", "")])
-TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW"], rows,
-   [4300, 2800, 2400, 2700])
+                 r.get("groups_vs_nhw", ""), _ident(r)])
+TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW", "PMID / DOI"], rows,
+   [3400, 2400, 2100, 2400, 1900])
 PB()
 
 # ---- S4 excluded (no record_id) ----
