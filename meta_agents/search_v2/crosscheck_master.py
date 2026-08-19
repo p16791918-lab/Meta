@@ -252,7 +252,7 @@ def check_E():
         ("Results_draft.md", r"(\d+)\s+of which provided extractable", "studies"),
         ("Results_draft.md", r"\((\d+)\s+individual estimates", "estimates"),
         ("Results_draft.md", r"remaining\s+(\d+)\s+were included in the narrative", "narrative"),
-        ("Results_draft.md", r"(\d+)\s+analytic cells", "cells"),
+        ("Results_draft.md", r"(\d+)\s+representative estimates", "cells"),
         ("Methods_draft.md", r"(\d+)\s*\n?\s*publications were included", "included"),
         ("Methods_draft.md", r"(\d+)\s+were eligible for quantitative", "quant"),
         ("Methods_draft.md", r"remaining\s+(\d+)\s+informed the", "narrative"),

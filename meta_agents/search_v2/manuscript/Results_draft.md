@@ -20,10 +20,12 @@ between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Result
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping estimates to one representative per registry family, 85 analytic cells (racial or
-ethnic group × analytic dimension) remained for the main analysis (Table 1). The reference group
-was non-Hispanic White in most studies and an unstratified White group in a minority (marked †;
-Supplementary Table 4).
+overlapping estimates to one representative per registry family, 85 representative estimates (one
+per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
+and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
+subgroups, AI/AN by region, Middle Eastern populations, triple-negative breast cancer, and male
+breast cancer—are shown in Table 1. The reference group was non-Hispanic White in most studies and
+an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
