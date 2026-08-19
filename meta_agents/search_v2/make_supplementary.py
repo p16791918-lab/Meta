@@ -201,7 +201,6 @@ for r in csv.DictReader(open(os.path.join(HERE, "breast_extraction.csv"), encodi
 
 def _rec(text):
     text = re.sub(r"rec (\d+)/(\d+)", r"rec \1, rec \2", text)      # expand rec a/b
-    text = re.sub(r"rec \d+ (\()", r"\1", text)                     # drop prefix if author-year follows in ()
     text = re.sub(r"rec (\d+)", lambda m: _ay.get(m.group(1), "study " + m.group(1)), text)
     return text.replace("**", "")                                   # strip markdown bold
 
