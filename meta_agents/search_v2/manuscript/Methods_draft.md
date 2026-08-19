@@ -103,8 +103,10 @@ group are drawn from overlapping registry populations and are not independent, t
 combined into a pooled random-effects estimate; the primary result for each group is the
 representative population-based estimate defined above. The analysis therefore emphasizes the
 racial and ethnic disparities and the heterogeneity among subgroups within each aggregate
-category, displayed group by group rather than summarized as a single pooled value. Analyses
-were carried out in Python 3 using SciPy.
+category, displayed group by group rather than summarized as a single pooled value. Studies that met
+the inclusion criteria but did not provide a recoverable non-Hispanic White comparison were not
+placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
+Analyses were carried out in Python 3 using SciPy.
 
 All quantitative results were generated from a single master extraction dataset. Every rate
 ratio not reported directly by a source was recomputed from that study's own age-standardized

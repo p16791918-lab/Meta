@@ -64,6 +64,19 @@ and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.
 Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60)† relative to White men
 (Table 1).
 
+### Narrative synthesis
+The 115 studies not entered into the quantitative synthesis met the inclusion criteria but did not
+report an incidence rate ratio, or age-standardized rates, from which a comparison with a
+non-Hispanic White reference could be recovered; they are listed in Supplementary Table 2. These
+reports most often described incidence within specific racial or ethnic subgroups, by age group, and
+over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
+stage at diagnosis. Where they reported a racial or ethnic comparison, their findings were generally
+in the same direction as the quantitative results—lower overall incidence in most minority groups
+than in NHW women, wide variation among Asian American and Hispanic/Latina subgroups, and a higher
+burden of triple-negative disease in NHB women. Because these studies used varied reference groups,
+standard populations, and reporting formats, their results were summarized qualitatively rather than
+placed on the common IRR scale.
+
 ### Risk of bias and sensitivity analyses
 On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
