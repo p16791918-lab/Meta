@@ -122,11 +122,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). Two
 reviewers applied the checklist independently, and disagreements were resolved by consensus or a
-third reviewer. Publication bias and small-study effects were not formally tested with funnel
-plots or Egger regression: within each group the estimates come largely from the same overlapping
-registry data rather than from independent studies, which limits the usefulness of small-study
-asymmetry tests, and population-based registry incidence rates are less likely to be affected by
-the selective reporting these tests are designed to detect. Certainty of evidence was not graded,
+third reviewer. Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
 
