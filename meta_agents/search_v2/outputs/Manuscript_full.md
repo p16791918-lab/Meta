@@ -278,9 +278,11 @@ or to a specific biological mechanism.
 For surveillance and clinical practice, these results suggest that reporting incidence only at the
 aggregate level can understate risk in subgroups whose incidence is at or above that of NHW women,
 including Native Hawaiian women, several AI/AN regional populations, and NHB women for TNBC.
-Disaggregated reporting, where sample sizes allow, would give a more accurate basis for targeting
-screening and prevention. For AI/AN populations specifically, surveillance based on
-registry–Indian Health Service linkage would help avoid undercounting.
+Disaggregated reporting, where sample sizes allow, would give a more accurate basis for
+characterizing incidence across these subgroups. For AI/AN populations specifically, surveillance
+based on registry–Indian Health Service linkage would help avoid undercounting. Stable estimates
+for the smallest subgroups will require larger or linked data sources and consistent
+standardization across registries and diagnosis periods.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
 disaggregated ethnic subgroups, receptor-defined subtypes, and male breast cancer; overlapping
