@@ -1,6 +1,6 @@
 # Unified reference list (Introduction + Methods + Results) — draft
 
-*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). References are in Vancouver format, completed from a PubMed (.nbib) export (full author list, journal abbreviation, year, volume, issue, pages, and DOI). One reference (#44) has no PubMed record; add its volume and pages, e.g., by importing its DOI (10.1093/aje/kwaa222) into a reference manager. Final formatting (author-count cutoff, page abbreviation) should follow the target journal's style.*
+*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). References are in Vancouver format, completed from a PubMed (.nbib) export (full author list, journal abbreviation, year, volume, issue, pages, and DOI). Final formatting (author-count cutoff, page abbreviation) should follow the target journal's style.*
 
 ## Introduction (1–12)
 1. Giaquinto AN, Sung H, Newman LA, Freedman RA, Smith RA, Star J, et al. Breast cancer statistics 2024. CA Cancer J Clin. 2024;74(6):477-495. doi:10.3322/caac.21863
@@ -50,7 +50,7 @@
 41. Kem R, Chu KC. Cambodian cancer incidence rates in California and Washington, 1998-2002. Cancer. 2007;110(6):1370-5. doi:10.1002/cncr.22914
 42. Carozza SE, Howe HL. Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000. Cancer Causes Control. 2006;17(8):1067-75. doi:10.1007/s10552-006-0045-3
 43. Gomez SL, Le GM, Clarke CA, Glaser SL, France AM, West DW. Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea. Cancer Causes Control. 2003;14(2):167-74. doi:10.1023/a:1023046121214
-44. Melkonian et al. Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016. 2021. doi:10.1093/aje/kwaa222   [no PMID — complete manually]
+44. Melkonian SC, Weir HK, Jim MA, Preikschat B, Haverkamp D, White MC. Incidence of and Trends in the Leading Cancers With Elevated Incidence Among American Indian and Alaska Native Populations, 2012-2016. Am J Epidemiol. 2021;190(4):528-538. doi:10.1093/aje/kwaa222
 45. Miller BA, Chu KC, Hankey BF, Ries LA. Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the U.S. Cancer Causes Control. 2008;19(3):227-56. doi:10.1007/s10552-007-9088-3
 46. McCracken M, Olsen M, Chen MS Jr, Jemal A, Thun M, Cokkinides V, et al. Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean, and Japanese ethnicities. CA Cancer J Clin. 2007;57(4):190-205. doi:10.3322/canjclin.57.4.190
 47. Wilkinson JD, Wohler-Torres B, Trapido E, Fleming LE, MacKinnon J, Peace S. Cancer among Hispanic women in South Florida: an 18-year assessment: a report from the Florida Cancer Data System. Cancer. 2002;95(8):1752-8. doi:10.1002/cncr.10834
@@ -58,5 +58,5 @@
 ---
 ## PMID import block (paste into Zotero/EndNote/PubMed “Send to”)
 ```
-39352042, 24777111, 34427920, 23166647, 20147696, 16247793, 17163416, 19661072, 20447917, 17939129, 31234738, 34918619, 33782057, 26317388, 41082230, 41086189, 21351091, 33705303, 38277147, 36862439, 30503975, 35025856, 23151952, 18507200, 19001605, 42377954, 19066264, 33074325, 28365834, 27736827, 20336785, 19124489, 31764279, 36504334, 19292805, 19067192, 41385397, 35699957, 32337499, 31575554, 17654663, 16933057, 12749722, 18066673, 17626117, 12365024
+39352042, 24777111, 34427920, 23166647, 20147696, 16247793, 17163416, 19661072, 20447917, 17939129, 31234738, 34918619, 33782057, 26317388, 41082230, 41086189, 21351091, 33705303, 38277147, 36862439, 30503975, 35025856, 23151952, 18507200, 19001605, 42377954, 19066264, 33074325, 28365834, 27736827, 20336785, 19124489, 31764279, 36504334, 19292805, 19067192, 41385397, 35699957, 32337499, 31575554, 17654663, 16933057, 12749722, 33506248, 18066673, 17626117, 12365024
 ```
