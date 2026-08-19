@@ -27,7 +27,6 @@ Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN r
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
-not the variation among their subgroups, several of which reach or exceed the NHW rate.
-Subgroup-level surveillance, with linkage-based counting of AI/AN cases, would better
-identify the highest-incidence populations. This descriptive review compares incidence and does not
-assess causes.
+not the variation among their subgroups, several of which reach or exceed the NHW rate; for AI/AN
+populations, the aggregate figure is further affected by registry undercounting. This descriptive
+review compares incidence and does not assess causes.

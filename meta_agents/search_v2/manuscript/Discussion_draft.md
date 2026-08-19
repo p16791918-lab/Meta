@@ -45,14 +45,12 @@ and undercount AI/AN cases, which is why Indian Health Service–linked estimate
 this group.¹⁰,⁴⁰ The available data do not support attributing these differences to genetic ancestry
 or to a specific biological mechanism.
 
-For surveillance and clinical practice, these results suggest that reporting incidence only at the
-aggregate level can understate incidence in subgroups whose rates are at or above that of NHW women,
-including Native Hawaiian women, several AI/AN regional populations, and NHB women for TNBC.
-Disaggregated reporting, where sample sizes allow, would give a more accurate basis for
-characterizing incidence across these subgroups. For AI/AN populations specifically, surveillance
-based on registry–Indian Health Service linkage would help avoid undercounting. Stable estimates
-for the smallest subgroups would benefit from larger or linked data sources and more consistent
-standardization across registries and diagnosis periods.
+At the aggregate level, these categories do not reflect the higher incidence seen in some
+subgroups—Native Hawaiian women, several AI/AN regional populations, and NHB women for
+triple-negative disease. For AI/AN populations, part of the aggregate difference reflects registry
+undercounting rather than lower incidence. Estimates for the smallest subgroups rested on limited
+numbers and differed in standard population and diagnosis period, which constrains their precision
+and comparability.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
 disaggregated ethnic subgroups, receptor-defined subtypes, and male breast cancer; overlapping
