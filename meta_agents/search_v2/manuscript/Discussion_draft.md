@@ -11,8 +11,8 @@ incidence for U.S. racial and ethnic groups against a common non-Hispanic White 
 At the aggregate level, each minority group had lower overall incidence than NHW women—American
 Indian and Alaska Native (AI/AN) women had the lowest incidence rate ratio (IRR 0.56), followed by
 Hispanic/Latina (0.72) and Asian American, Native Hawaiian, and Pacific Islander (AANHPI, 0.77)
-women, with non-Hispanic Black (NHB) women closest to NHW (0.93). Disaggregation showed that these
-aggregate values sit on top of wide within-group variation. Among Asian American subgroups the IRR
+women, with non-Hispanic Black (NHB) women closest to NHW (0.93). Disaggregated estimates varied
+widely within these aggregate categories. Among Asian American subgroups the IRR
 ranged from 0.16 in Hmong women to 1.05 in Japanese women; Native Hawaiian women (1.21) and the
 Native Hawaiian and Pacific Islander (NHPI) aggregate (1.21) were higher than NHW women. Hispanic
 incidence rose from 0.50 in Mexican women to 0.82 in Puerto Rican women, and AI/AN incidence ranged
@@ -45,12 +45,12 @@ and undercount AI/AN cases, which is why Indian Health Service–linked estimate
 this group.¹⁰,⁴⁰ The available data do not support attributing these differences to genetic ancestry
 or to a specific biological mechanism.
 
-For surveillance and clinical practice, the results indicate that reporting incidence only at the
+For surveillance and clinical practice, these results suggest that reporting incidence only at the
 aggregate level can understate risk in subgroups whose incidence is at or above that of NHW women,
 including Native Hawaiian women, several AI/AN regional populations, and NHB women for TNBC.
 Disaggregated reporting, where sample sizes allow, would give a more accurate basis for targeting
 screening and prevention. For AI/AN populations specifically, surveillance based on
-registry–Indian Health Service linkage is needed to avoid undercounting.
+registry–Indian Health Service linkage would help avoid undercounting.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
 disaggregated ethnic subgroups, receptor-defined subtypes, and male breast cancer; overlapping
