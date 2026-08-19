@@ -84,10 +84,34 @@ PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
 H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
-P("The 163 studies are all publications included in the systematic review; not all entered the quantitative synthesis. “Synthesis” shows how each contributed: quantitative = eligible for quantitative synthesis (n = 48, of which 43 provided extractable quantitative data); narrative = narrative synthesis only (n = 115). Study design is classified from the data source; most included studies are population-based registry/incidence studies rather than cohort studies.", True)
 inc = rd("TableS_included_studies.csv")
-rows = [[study_cell(r), r.get("study_design", ""), r.get("data_source", ""), r.get("groups_vs_nhw", ""), r.get("synthesis", "")] for r in inc]
-TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW", "Synthesis"], rows, [4000, 2600, 2100, 2200, 1300])
+from collections import Counter as _C
+_gc = _C(r.get("synth_group", "") for r in inc)
+_next, _nelig, _nnarr = _gc["quant-extracted"], _gc["quant-eligible"], _gc["narrative"]
+P("The 163 studies are all publications included in the systematic review; not all entered the "
+  "quantitative synthesis. They are grouped below by how each contributed: %d were eligible for "
+  "quantitative synthesis (of these, %d provided extractable quantitative data and entered the "
+  "analysis, and %d were eligible but provided no extractable data), and the remaining %d "
+  "contributed to the narrative synthesis only (163 = %d + %d + %d). Study design is classified "
+  "from the data source; most included studies are population-based registry/incidence studies "
+  "rather than cohort studies."
+  % (_next + _nelig, _next, _nelig, _nnarr, _next, _nelig, _nnarr), True)
+_SECT = {
+    "quant-extracted": "Quantitative synthesis — data extracted (n = %d)" % _next,
+    "quant-eligible": "Quantitative synthesis — eligible, no extractable data (n = %d)" % _nelig,
+    "narrative": "Narrative synthesis only (n = %d)" % _nnarr,
+}
+rows = []
+_cur = None
+for r in inc:
+    g = r.get("synth_group", "")
+    if g != _cur:
+        _cur = g
+        rows.append({"section": _SECT.get(g, g)})
+    rows.append([study_cell(r), r.get("study_design", ""), r.get("data_source", ""),
+                 r.get("groups_vs_nhw", "")])
+TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW"], rows,
+   [4300, 2800, 2400, 2700])
 PB()
 
 # ---- S4 excluded (no record_id) ----

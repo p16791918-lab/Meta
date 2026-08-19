@@ -45,6 +45,10 @@ def study_design(data_source, title):
 
 def main():
     recs = list(csv.DictReader(open(MERGED, encoding="utf-8")))
+    # record_ids that actually contributed extractable estimates to the master ledger
+    LEDGER = os.path.join(HERE, "breast_extraction.csv")
+    extractable_ids = {r["record_id"].strip()
+                       for r in csv.DictReader(open(LEDGER, encoding="utf-8"))}
     out = []
     for r in csv.DictReader(open(ELIG, encoding="utf-8")):
         dec = r.get("ft_decision", "").strip()
@@ -52,6 +56,16 @@ def main():
             continue
         rid = int(r["record_id"])
         rec = recs[rid] if 0 <= rid < len(recs) else {}
+        if dec == "include-quant":
+            # quantitative-synthesis eligible: split those that yielded extractable
+            # data (in the master ledger) from those eligible but without usable data
+            extracted = str(rid) in extractable_ids
+            synth_group = "quant-extracted" if extracted else "quant-eligible"
+            synthesis = ("Quantitative (data extracted)" if extracted
+                         else "Quantitative (eligible, no extractable data)")
+        else:
+            synth_group = "narrative"
+            synthesis = "Narrative"
         out.append({
             "record_id": rid,
             "citation": "%s (%s)" % (rec.get("title", ""), rec.get("year", "")),
@@ -59,28 +73,33 @@ def main():
             "study_design": study_design(r.get("registry_family", ""), rec.get("title", "")),
             "groups_vs_nhw": norm_groups(r.get("groups_vs_nhw", "").strip()),
             "outcome_measure": r.get("rate_location", "").strip(),
-            "synthesis": "quantitative" if dec == "include-quant" else "narrative",
+            "synthesis": synthesis,
+            "synth_group": synth_group,
             "note": r.get("note", "").strip(),
             "pmid": rec.get("pmid", ""),
             "doi": rec.get("doi", ""),
         })
-    out.sort(key=lambda x: x["record_id"])
+    # group the rows so quantitative (extracted, then eligible-only) precede narrative
+    grp_order = {"quant-extracted": 0, "quant-eligible": 1, "narrative": 2}
+    out.sort(key=lambda x: (grp_order[x["synth_group"]], x["record_id"]))
 
     with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "citation", "data_source",
                                           "study_design", "groups_vs_nhw", "outcome_measure",
-                                          "synthesis", "note", "pmid", "doi"])
+                                          "synthesis", "synth_group", "note", "pmid", "doi"])
         w.writeheader()
         w.writerows(out)
 
     from collections import Counter
-    counts = Counter(x["synthesis"] for x in out)
+    gc = Counter(x["synth_group"] for x in out)
+    n_ext, n_elig, n_narr = gc["quant-extracted"], gc["quant-eligible"], gc["narrative"]
     with open(OUT_MD, "w", encoding="utf-8") as f:
         f.write("# Table S. Characteristics of included studies\n\n")
         f.write("Studies included after full-text review (PRISMA 2020). "
-                "Total included: **%d** (quantitative synthesis: %d; "
-                "narrative synthesis: %d).\n\n"
-                % (len(out), counts.get("quantitative", 0), counts.get("narrative", 0)))
+                "Total included: **%d** = quantitative-synthesis eligible **%d** "
+                "(of which **%d** provided extractable data and **%d** were eligible but "
+                "provided no extractable data) + narrative synthesis only **%d**.\n\n"
+                % (len(out), n_ext + n_elig, n_ext, n_elig, n_narr))
         f.write("| # | Study (title, year) | Data source / registry | "
                 "Racial/ethnic groups (vs NHW) | Outcome measure | Synthesis | "
                 "PMID | DOI |\n")
@@ -91,8 +110,8 @@ def main():
                 x["groups_vs_nhw"].replace("|", "/"), x["outcome_measure"].replace("|", "/"),
                 x["synthesis"], x["pmid"], x["doi"]))
 
-    print("included studies: %d (quant %d, narrative %d)"
-          % (len(out), counts.get("quantitative", 0), counts.get("narrative", 0)))
+    print("included studies: %d (quant-extracted %d, quant-eligible %d, narrative %d)"
+          % (len(out), n_ext, n_elig, n_narr))
     print("wrote %s and %s" % (os.path.basename(OUT_CSV), os.path.basename(OUT_MD)))
 
 
