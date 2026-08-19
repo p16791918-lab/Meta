@@ -28,7 +28,7 @@ reported in Hawaii,²¹ and the ordering of Hispanic subgroups—lower in Mexica
 Rican and Cuban women—reproduces the gradient described among first-generation U.S. Hispanics.⁸
 The regional range across AI/AN populations, and the low rate in the Navajo area, are in line with
 prior regional and tribal analyses.¹⁰,³³,³⁷,⁴⁰ The higher TNBC incidence in NHB women is also
-concordant with prior subtype-specific work.²,²⁰ The contribution here is to bring these scattered
+concordant with prior subtype-specific work.²,²⁰ The contribution here is to bring these
 estimates together with overlapping registry data reduced to one representative population-based
 estimate per registry family and a consistent NHW comparator, so that aggregate and subgroup
 results can be read side by side.

@@ -97,8 +97,8 @@ rates of the same study, standard population, and diagnosis period, and its conf
 was propagated from the reported rate intervals by the delta method. Because estimates within a
 group are drawn from overlapping registry populations and are not independent, they were not
 combined into a pooled random-effects estimate; the primary result for each group is the
-representative population-based estimate defined above. The analysis therefore emphasizes the
-racial and ethnic disparities and the heterogeneity among subgroups within each aggregate
+representative population-based estimate defined above. The analysis therefore presents the
+racial and ethnic differences and the heterogeneity among subgroups within each aggregate
 category, displayed group by group rather than summarized as a single pooled value. Studies that met
 the inclusion criteria but did not provide a recoverable non-Hispanic White comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
