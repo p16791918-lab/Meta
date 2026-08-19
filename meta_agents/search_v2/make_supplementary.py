@@ -51,7 +51,6 @@ ABBR = [
     ("IHS", "Indian Health Service"),
     ("IRR", "incidence rate ratio"),
     ("JBI", "Joanna Briggs Institute"),
-    ("MENA", "Middle Eastern and North African"),
     ("NAACCR", "North American Association of Central Cancer Registries"),
     ("NHB", "non-Hispanic Black"),
     ("NHPI", "Native Hawaiian and Pacific Islander"),
