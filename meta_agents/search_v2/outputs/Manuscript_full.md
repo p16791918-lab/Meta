@@ -213,10 +213,10 @@ report an incidence rate ratio, or age-standardized rates, from which a comparis
 non-Hispanic White reference could be recovered; they are listed in Supplementary Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
-stage at diagnosis. Where they reported a racial or ethnic comparison, their findings were generally
-in the same direction as the quantitative results—lower overall incidence in most minority groups
-than in NHW women, wide variation among Asian American and Hispanic/Latina subgroups, and a higher
-burden of triple-negative disease in NHB women. Because these studies used varied reference groups,
+stage at diagnosis. Where they reported a racial or ethnic comparison, the patterns they described were broadly
+consistent with the quantitative findings—lower overall incidence in most minority groups than in
+NHW women, wide variation among Asian American and Hispanic/Latina subgroups, and a higher burden
+of triple-negative disease in NHB women. Because these studies used varied reference groups,
 standard populations, and reporting formats, their results were summarized qualitatively rather than
 placed on the common IRR scale.
 
