@@ -69,6 +69,11 @@ and outcome of every study were tabulated so that overlaps could be seen (Supple
 The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
 SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
 documented age-standardization, and a directly reported confidence interval where available.
+For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
+Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
+estimate for the same dimension, because unlinked registries misclassify race and undercount
+this population, so the more valid population definition—rather than the broadest coverage—
+determined the representative.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
 of the selection was checked in three ways: restricting to studies at low risk of bias, to
