@@ -42,8 +42,8 @@ stage at diagnosis, screening, and access to care have also been described and m
 observed patterns.²,²⁸ For AI/AN populations, part of the apparent difference reflects a data
 issue rather than a difference in underlying risk: unlinked national registries misclassify race
 and undercount AI/AN cases, which is why Indian Health Service–linked estimates were preferred for
-this group.¹⁰,⁴⁰ The available data do not support attributing these differences to genetic ancestry
-or to a specific biological mechanism.
+this group.¹⁰,⁴⁰ Genetic or biological mechanisms were not examined in this review, which compares
+incidence rather than distinguishing its underlying causes.
 
 At the aggregate level, these categories do not reflect the higher incidence seen in some
 subgroups—Native Hawaiian women, several AI/AN regional populations, and NHB women for
