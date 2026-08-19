@@ -46,8 +46,8 @@ Records were de-duplicated across databases (4,306 duplicates removed, leaving 4
 records). Titles and abstracts, and then full texts, were screened independently by two
 reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 163
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis and 43 provided extractable quantitative data, while the remaining studies informed
-the narrative synthesis. Most included studies were population-based registry or incidence
+synthesis (43 provided extractable quantitative data) and the remaining 115 informed the
+narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial

@@ -15,8 +15,8 @@ population-based estimate was selected per registry family rather than pooled. E
 ratios not reported directly were recomputed from a single master dataset, and risk of bias was
 assessed with the Joanna Briggs Institute checklist for prevalence and incidence data.
 
-**Results.** Of 4,793 records screened, 163 studies were included (48 eligible for quantitative
-synthesis, 43 with extractable data). Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 163 studies were included—48 eligible for quantitative
+synthesis (43 with extractable data) and 115 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
@@ -25,8 +25,8 @@ Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN r
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
-not the variation among their constituent subgroups, several of which reach or exceed the NHW rate.
-Subgroup-level surveillance, with linkage-based counting of AI/AN cases, would more accurately
+not the variation among their subgroups, several of which reach or exceed the NHW rate.
+Subgroup-level surveillance, with linkage-based counting of AI/AN cases, would better
 identify the highest-incidence populations. This descriptive review compares incidence and does not
 assess causes.
 
@@ -82,8 +82,8 @@ Records were de-duplicated across databases (4,306 duplicates removed, leaving 4
 records). Titles and abstracts, and then full texts, were screened independently by two
 reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 163
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis and 43 provided extractable quantitative data, while the remaining studies informed
-the narrative synthesis. Most included studies were population-based registry or incidence
+synthesis (43 provided extractable quantitative data) and the remaining 115 informed the
+narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
@@ -157,8 +157,8 @@ sensitivity baseline traces to the same underlying value.
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was assessed for 242 reports, of which 79
 were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis and 43 provided extractable estimates (144 estimates in total)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷;
-the remaining 115 contributed to the narrative synthesis. The extracted studies were published
+quantitative synthesis—43 of which provided extractable estimates (144 estimates in
+total)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷—and the remaining 115 were included in the narrative synthesis (163 = 48 + 115). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked

@@ -17,8 +17,8 @@ population-based estimate was selected per registry family rather than pooled. E
 ratios not reported directly were recomputed from a single master dataset, and risk of bias was
 assessed with the Joanna Briggs Institute checklist for prevalence and incidence data.
 
-**Results.** Of 4,793 records screened, 163 studies were included (48 eligible for quantitative
-synthesis, 43 with extractable data). Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 163 studies were included—48 eligible for quantitative
+synthesis (43 with extractable data) and 115 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
@@ -27,7 +27,7 @@ Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN r
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
-not the variation among their constituent subgroups, several of which reach or exceed the NHW rate.
-Subgroup-level surveillance, with linkage-based counting of AI/AN cases, would more accurately
+not the variation among their subgroups, several of which reach or exceed the NHW rate.
+Subgroup-level surveillance, with linkage-based counting of AI/AN cases, would better
 identify the highest-incidence populations. This descriptive review compares incidence and does not
 assess causes.

@@ -13,8 +13,8 @@ unstratified White reference) or noted as a standardized incidence ratio (SIR).
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was assessed for 242 reports, of which 79
 were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis and 43 provided extractable estimates (144 estimates in total)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷;
-the remaining 115 contributed to the narrative synthesis. The extracted studies were published
+quantitative synthesis—43 of which provided extractable estimates (144 estimates in
+total)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷—and the remaining 115 were included in the narrative synthesis (163 = 48 + 115). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
