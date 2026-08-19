@@ -38,6 +38,9 @@ A. 모든 추정치를 provenance(직접보고 IRR/SIR, 발생률로 계산, 그
 ### Q8. 연구마다 표준인구·진단기간이 다르다. 비교 가능한가?
 A. 대표 선정에서 2000 US 표준인구와 최근·긴 기간을 우선했고, 예외(예: 1970 world standard를 쓴 오래된 1편)는 명시했다. 표준인구·기간 차이는 직접 비교를 제한하는 한계로 기술했다. (→ Discussion 한계)
 
+### Q8b. 흑인 수용체-아형 두 셀(HR+/HER2−, HR−/HER2+)의 대표는 2000 US가 아닌 Segi world 표준을 쓴다. 왜 그 estimate를 골랐나?
+A. 이 두 셀에서는 NHW 비교군과 2000 US 표준을 동시에 만족하는 연구가 없었다. 대표로 쓴 Davis Lynn 2025는 NHW 비교군을 갖지만 Segi world 표준이고, 대안인 Gleason 2012는 2000 US 표준이지만 unstratified White 비교군이다. 발생률비는 각 연구 안에서 형성돼 표준인구가 대체로 상쇄되지만 비교군 차이는 참조집단 자체를 바꾸므로, **비교군(NHW)을 우선**했다. 비-2000 표준은 Supplementary Table 4의 "Std pop" 열에 표시했다. (→ Supplementary Table 4)
+
 ## E. 평가·확실성
 
 ### Q9. 왜 GRADE로 근거 확실성을 평가하지 않았나?
