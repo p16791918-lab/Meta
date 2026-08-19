@@ -24,16 +24,25 @@ Four checks, each PASS/FAIL with per-row detail:
   D. Main-vs-sensitivity consistency. For each cell, the "main_irr" printed in every
      sensitivity table (SENS1/2/3) must equal the Table 1 representative IRR.
 
+  E. Manuscript counts vs data. Every count the prose asserts (163 included, 48
+     quant-eligible, 43 extractable, 115 narrative, 145 estimates, 85 cells) must
+     match the value recomputed from ft_eligibility.csv / the ledger / the
+     representatives table, guarding against stale hard-coded numbers in the drafts.
+
 Exit status is non-zero if any check fails, so it can gate the docx rebuild.
 """
 import csv
 import math
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "outputs")
 LEDGER = os.path.join(HERE, "breast_extraction.csv")
+ELIG = os.path.join(HERE, "ft_eligibility.csv")
+REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
+MAN = os.path.join(HERE, "manuscript")
 Z = 1.959963984540054  # norm.ppf(0.975)
 
 # Relative tolerance for a re-derived point estimate vs the stored value. Source
@@ -213,6 +222,63 @@ def check_D():
     return checked, fails
 
 
+# --------------------------------------------------------------------------- E
+def canonical_counts():
+    """Recompute the study/estimate counts the manuscript reports, from the data."""
+    dec = [r.get("ft_decision", "").strip()
+           for r in csv.DictReader(open(ELIG, encoding="utf-8"))]
+    quant = dec.count("include-quant")
+    narrative = dec.count("include-narrative")
+    included = quant + narrative
+    led = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
+           if r["record_id"] != "SEER-EXPL"]
+    studies = len(set(r["record_id"] for r in led))
+    estimates = sum(1 for r in led if "young" not in r["minority_group"].lower())
+    cells = sum(1 for r in csv.DictReader(open(REPS, encoding="utf-8"))
+                if r["main_analysis"].startswith("yes"))
+    return {"included": included, "quant": quant, "narrative": narrative,
+            "studies": studies, "estimates": estimates, "cells": cells}
+
+
+def check_E():
+    """Guard against stale hard-coded counts: every number the manuscript prose
+    asserts for a canonical quantity must match the value recomputed from data.
+    Each pattern captures the number the prose states next to a fixed phrase."""
+    c = canonical_counts()
+    # (file, regex with one capture group, canonical key)
+    probes = [
+        ("Results_draft.md", r"(\d+)\s+included studies", "included"),
+        ("Results_draft.md", r"(\d+)\s+were eligible for\s+quantitative", "quant"),
+        ("Results_draft.md", r"(\d+)\s+of which provided extractable", "studies"),
+        ("Results_draft.md", r"\((\d+)\s+individual estimates", "estimates"),
+        ("Results_draft.md", r"remaining\s+(\d+)\s+were included in the narrative", "narrative"),
+        ("Results_draft.md", r"(\d+)\s+analytic cells", "cells"),
+        ("Methods_draft.md", r"(\d+)\s*\n?\s*publications were included", "included"),
+        ("Methods_draft.md", r"(\d+)\s+were eligible for quantitative", "quant"),
+        ("Methods_draft.md", r"remaining\s+(\d+)\s+informed the", "narrative"),
+        ("Abstract_draft.md", r"(\d+)\s+studies were included", "included"),
+        ("Abstract_draft.md", r"(\d+)\s+eligible for quantitative", "quant"),
+        ("Abstract_draft.md", r"and\s+(\d+)\s+narrative", "narrative"),
+    ]
+    fails, checked = [], 0
+    for fn, pat, key in probes:
+        p = os.path.join(MAN, fn)
+        if not os.path.exists(p):
+            continue
+        text = " ".join(open(p, encoding="utf-8").read().split())  # normalise wraps
+        m = re.search(pat, text)
+        if not m:
+            fails.append(("E-missing", fn, "phrase not found for '%s' (expected %d)"
+                          % (key, c[key])))
+            continue
+        checked += 1
+        got = int(m.group(1))
+        if got != c[key]:
+            fails.append(("E-count", fn, "%s: prose says %d, data gives %d"
+                          % (key, got, c[key])))
+    return checked, fails, c
+
+
 def main():
     rows = led_rows()
     ok = True
@@ -258,6 +324,16 @@ def main():
             print("    FAIL", f)
     else:
         print("    PASS — each sensitivity baseline equals the locked representative")
+
+    nE, fE, cE = check_E()
+    print("\n[E] Manuscript counts vs data (%d numbers checked)" % nE)
+    print("    canonical:", cE)
+    if fE:
+        ok = False
+        for f in fE:
+            print("    FAIL", f)
+    else:
+        print("    PASS — every reported count matches the recomputed value")
 
     print("\n" + "=" * 78)
     print("RESULT:", "ALL CHECKS PASS" if ok else "FAILURES ABOVE")
