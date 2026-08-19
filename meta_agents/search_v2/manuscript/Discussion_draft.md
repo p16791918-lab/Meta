@@ -46,7 +46,7 @@ this group.¹⁰,⁴⁰ The available data do not support attributing these diff
 or to a specific biological mechanism.
 
 For surveillance and clinical practice, these results suggest that reporting incidence only at the
-aggregate level can understate risk in subgroups whose incidence is at or above that of NHW women,
+aggregate level can understate incidence in subgroups whose rates are at or above that of NHW women,
 including Native Hawaiian women, several AI/AN regional populations, and NHB women for TNBC.
 Disaggregated reporting, where sample sizes allow, would give a more accurate basis for
 characterizing incidence across these subgroups. For AI/AN populations specifically, surveillance
