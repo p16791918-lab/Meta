@@ -201,11 +201,11 @@ Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to 
 ### Molecular subtypes
 For triple-negative breast cancer (TNBC), incidence relative to NHW women was highest in NHB
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
-and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipino
+and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
 
 ### Male breast cancer
-Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60 †) relative to White men
+Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60)† relative to White men
 (Table 1).
 
 ### Risk of bias and sensitivity analyses
@@ -239,7 +239,7 @@ These findings are consistent with earlier disaggregated analyses and extend the
 colleagues first described how aggregated Asian American data can hide substantial subgroup
 differences;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
 period.²⁶ The high incidence observed in Native Hawaiian women echoes the heterogeneous burden
-reported in Hawai'i,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
+reported in Hawaii,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
 Rican and Cuban women—reproduces the gradient described among first-generation U.S. Hispanics.⁸
 The regional range across AI/AN populations, and the low rate in the Navajo area, are in line with
 prior regional and tribal analyses.¹⁰,³³,³⁷,⁴⁰ The higher TNBC incidence in NHB women is also

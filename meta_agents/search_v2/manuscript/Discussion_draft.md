@@ -24,7 +24,7 @@ These findings are consistent with earlier disaggregated analyses and extend the
 colleagues first described how aggregated Asian American data can hide substantial subgroup
 differences;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
 period.²⁶ The high incidence observed in Native Hawaiian women echoes the heterogeneous burden
-reported in Hawai'i,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
+reported in Hawaii,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
 Rican and Cuban women—reproduces the gradient described among first-generation U.S. Hispanics.⁸
 The regional range across AI/AN populations, and the low rate in the Navajo area, are in line with
 prior regional and tribal analyses.¹⁰,³³,³⁷,⁴⁰ The higher TNBC incidence in NHB women is also

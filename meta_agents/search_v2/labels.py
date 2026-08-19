@@ -21,6 +21,9 @@ GROUP_DISPLAY = {
     # representative is IHS-linked, defined by tribal/IHS enrollment, and the salient
     # issue is undercount correction rather than Hispanic-origin stratification.
     "AIAN": "American Indian and Alaska Native (AI/AN)",
+    # unify the feminine ethnonym across sources (some registries record "Filipino"
+    # for the same female population labelled "Filipina" elsewhere).
+    "Filipino": "Filipina",
 }
 
 
