@@ -281,7 +281,7 @@ including Native Hawaiian women, several AI/AN regional populations, and NHB wom
 Disaggregated reporting, where sample sizes allow, would give a more accurate basis for
 characterizing incidence across these subgroups. For AI/AN populations specifically, surveillance
 based on registry–Indian Health Service linkage would help avoid undercounting. Stable estimates
-for the smallest subgroups will require larger or linked data sources and consistent
+for the smallest subgroups would benefit from larger or linked data sources and more consistent
 standardization across registries and diagnosis periods.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
