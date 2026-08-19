@@ -1,59 +1,59 @@
 # Unified reference list (Introduction + Methods + Results) — draft
 
-*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). Each reference gives author, year, title, PMID and DOI; journal/volume/pages are best completed by importing the PMID list (bottom) into a reference manager (Zotero/EndNote/Mendeley).*
+*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). References are in Vancouver format, completed from a PubMed (.nbib) export (full author list, journal abbreviation, year, volume, issue, pages, and DOI). One reference (#44) has no PubMed record; add its volume and pages, e.g., by importing its DOI (10.1093/aje/kwaa222) into a reference manager. Final formatting (author-count cutoff, page abbreviation) should follow the target journal's style.*
 
 ## Introduction (1–12)
-1. Giaquinto et al. Breast cancer statistics 2024. 2024. PMID: 39352042; doi:10.3322/caac.21863
-2. Howlader et al. US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status. 2014. PMID: 24777111; doi:10.1093/jnci/dju055
-3. Hendrick et al. Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women. 2021. PMID: 34427920; doi:10.1002/cncr.33846
-4. Gleason et al. Breast Cancer Incidence in Black and White Women Stratified by Estrogen and Progesterone Receptor Statuses. 2012. PMID: 23166647; doi:10.1371/journal.pone.0049359
-5. Gomez et al. Hidden breast cancer disparities in Asian women: disaggregating incidence rates by ethnicity and migrant status.. 2010. PMID: 20147696
-6. Mills et al. Cancer incidence in the Hmong in California, 1988-2000. 2005. PMID: 16247793; doi:10.1002/cncr.21525
-7. Keegan et al. Recent trends in breast cancer incidence among 6 Asian groups in the Greater Bay Area of Northern California. 2007. PMID: 17163416; doi:10.1002/ijc.22432
-8. Pinheiro et al. Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and New Latinos. 2009. PMID: 19661072; doi:10.1158/1055-9965.epi-09-0329
-9. Keegan et al. Breast cancer incidence patterns among california hispanic women: Differences by nativity and residence in an enclave. 2010. PMID: 20447917; doi:10.1158/1055-9965.epi-10-0021
-10. Espey et al. Annual report to the nation on the status of cancer, 1975-2004, featuring cancer  in American Indians and Alaska Natives. 2007. PMID: 17939129; doi:10.1002/cncr.23044
-11. Nash et al. Invasive breast cancer among Alaska Native women in Alaska. 2019. PMID: 31234738; doi:10.1080/22423982.2019.1633190
-12. Nash et al. The Alaska Native Tumour Registry: fifty years of cancer surveillance data for  Alaska Native people. 2022. PMID: 34918619; doi:10.1080/22423982.2021.2013403
+1. Giaquinto AN, Sung H, Newman LA, Freedman RA, Smith RA, Star J, et al. Breast cancer statistics 2024. CA Cancer J Clin. 2024;74(6):477-495. doi:10.3322/caac.21863
+2. Howlader N, Altekruse SF, Li CI, Chen VW, Clarke CA, Ries LA, et al. US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status. J Natl Cancer Inst. 2014;106(5). doi:10.1093/jnci/dju055
+3. Hendrick RE, Monticciolo DL, Biggs KW, Malak SF. Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women. Cancer. 2021;127(23):4384-4392. doi:10.1002/cncr.33846
+4. Gleason MX, Mdzinarishvili T, Sherman S. Breast cancer incidence in black and white women stratified by estrogen and progesterone receptor statuses. PLoS One. 2012;7(11):e49359. doi:10.1371/journal.pone.0049359
+5. Gomez SL, Quach T, Horn-Ross PL, Pham JT, Cockburn M, Chang ET, et al. Hidden breast cancer disparities in Asian women: disaggregating incidence rates by ethnicity and migrant status. Am J Public Health. 2010;100 Suppl 1(Suppl 1):S125-31. doi:10.2105/AJPH.2009.163931
+6. Mills PK, Yang RC, Riordan D. Cancer incidence in the Hmong in California, 1988-2000. Cancer. 2005;104(12 Suppl):2969-74. doi:10.1002/cncr.21525
+7. Keegan TH, Gomez SL, Clarke CA, Chan JK, Glaser SL. Recent trends in breast cancer incidence among 6 Asian groups in the Greater Bay Area of Northern California. Int J Cancer. 2007;120(6):1324-9. doi:10.1002/ijc.22432
+8. Pinheiro PS, Sherman RL, Trapido EJ, Fleming LE, Huang Y, Gomez-Marin O, et al. Cancer incidence in first generation U.S. Hispanics: Cubans, Mexicans, Puerto Ricans, and new Latinos. Cancer Epidemiol Biomarkers Prev. 2009;18(8):2162-9. doi:10.1158/1055-9965.EPI-09-0329
+9. Keegan TH, John EM, Fish KM, Alfaro-Velcamp T, Clarke CA, Gomez SL. Breast cancer incidence patterns among California Hispanic women: differences by nativity and residence in an enclave. Cancer Epidemiol Biomarkers Prev. 2010;19(5):1208-18. doi:10.1158/1055-9965.EPI-10-0021
+10. Espey DK, Wu XC, Swan J, Wiggins C, Jim MA, Ward E, et al. Annual report to the nation on the status of cancer, 1975-2004, featuring cancer in American Indians and Alaska Natives. Cancer. 2007;110(10):2119-52. doi:10.1002/cncr.23044
+11. Nash SH, Zimpelman G, Stillwater B, Olnes M, Provost E. Invasive breast cancer among Alaska Native women in Alaska. Int J Circumpolar Health. 2019;78(1):1633190. doi:10.1080/22423982.2019.1633190
+12. Nash SH, Zimpelman GL, Miller KN, Clark JH, Britton CL. The Alaska Native Tumour Registry: fifty years of cancer surveillance data for Alaska Native people. Int J Circumpolar Health. 2022;81(1):2013403. doi:10.1080/22423982.2021.2013403
 
 ## Methods — guideline references (13–14)
-13. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71.   PMID: 33782057; doi:10.1136/bmj.n71
-14. Munn Z, Moola S, Lisy K, Riitano D, Tufanaru C. Methodological guidance for systematic reviews of observational epidemiological studies reporting prevalence and cumulative incidence data. Int J Evid Based Healthc. 2015;13(3):147–153.   PMID: 26317388; doi:10.1097/XEB.0000000000000054
+13. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. doi:10.1136/bmj.n71
+14. Munn Z, Moola S, Lisy K, Riitano D, Tufanaru C. Methodological guidance for systematic reviews of observational epidemiological studies reporting prevalence and cumulative incidence data. Int J Evid Based Healthc. 2015;13(3):147-53. doi:10.1097/XEB.0000000000000054
 
 ## Results — extracted studies (15–47)
-15. Davis Lynn et al. Breast Cancer Incidence Rates in Ghanaian and US Black Women from 2013 Through 2015. 2025. PMID: 41082230; doi:10.1001/jamanetworkopen.2025.37160
-16. Zhang et al. Disparities and trends of the incidence and mortality of female-specific cancers in the United States. 2025. PMID: 41086189; doi:10.1371/journal.pone.0334128
-17. Liu et al. Invasive breast cancer incidence trends by detailed race/ethnicity and age. 2012. PMID: 21351091; doi:10.1002/ijc.26004
-18. Zahrieh et al. Quantification of Potential Inequities in Breast Cancer Incidence in New Mexico Through Bayesian Disease Mapping. 2021. PMID: 33705303; doi:10.5888/pcd18.200468
-19. Xu et al. Breast Cancer Incidence Among US Women Aged 20 to 49 Years by Race, Stage, and Hormone Receptor Status. 2024. PMID: 38277147; doi:10.1001/jamanetworkopen.2023.53331
-20. Sung et al. State Variation in Racial and Ethnic Disparities in Incidence of Triple-Negative Breast Cancer among US Women. 2023. PMID: 36862439; doi:10.1001/jamaoncol.2022.7835
-21. Loo et al. The high and heterogeneous burden of breast cancer in Hawaii: A unique multiethnic U.S. Population. 2019. PMID: 30503975; doi:10.1016/j.canep.2018.11.006
-22. Ellington et al. Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years - United States, 1999-2018. 2022. PMID: 35025856; doi:10.15585/mmwr.mm7102a2
-23. Cronin et al. Vital signs: Racial disparities in breast cancer severity - United States, 2005-2009. 2012. PMID: 23151952
-24. Baquet et al. Breast cancer epidemiology in blacks and whites: Disparities in incidence, mortality, survival rates and histology. 2008. PMID: 18507200; doi:10.1016/s0027-9684(15)31294-3
-25. Brinton et al. Recent trends in breast cancer among younger women in the United States. 2008. PMID: 19001605; doi:10.1093/jnci/djn344
-26. Gomez et al. Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022. 2026. PMID: 42377954; doi:10.1001/jamanetworkopen.2026.21250
-27. Anderson et al. Age-related crossover in breast cancer incidence rates between black and white ethnic groups. 2008. PMID: 19066264; doi:10.1093/jnci/djn411
-28. Kong et al. Variation in breast cancer subtype incidence and distribution by race/ethnicity in the United States from 2010 to 2015. 2020. PMID: 33074325; doi:10.1001/jamanetworkopen.2020.20303
-29. Gomez et al. Breast cancer in Asian Americans in California, 1988–2013: increasing incidence trends and recent data on breast cancer subtypes. 2017. PMID: 28365834; doi:10.1007/s10549-017-4229-1
-30. Richardson et al. Patterns and Trends in Age-Specific Black-White Differences in Breast Cancer Incidence and Mortality - United States, 1999-2014. 2016. PMID: 27736827; doi:10.15585/mmwr.mm6540a1
-31. Lund et al. Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study and first report. 2010. PMID: 20336785; doi:10.1002/cncr.25016
-32. Harper et al. Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005). 2009. PMID: 19124489; doi:10.1158/1055-9965.epi-08-0679
-33. Gopalani et al. Trends in Cancer Incidence among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999-2015. 2020. PMID: 31764279; doi:10.1097/ede.0000000000001140
-34. Ihenacho et al. Characterizing breast cancer incidence and trends among Asian American, Native Hawaiian, and non-Hispanic White women in Hawaiʻi, 1990-2014. 2023. PMID: 36504334; doi:10.1007/s10552-022-01659-7
-35. Nasseri Breast cancer in the middle eastern population of California, 1988-2004. 2009. PMID: 19292805; doi:10.1111/j.1524-4741.2009.00694.x
-36. Goggins et al. Cancer among Asian Indians/Pakistanis living in the United States: Low incidence and generally above average survival. 2009. PMID: 19067192; doi:10.1007/s10552-008-9275-x
-37. Yazzie et al. Cancer incidence, stage at diagnosis, and trends across the Navajo Nation, 2014–2018. 2025. PMID: 41385397; doi:10.1002/cncr.70202
-38. Xie et al. Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of Breast Cancer Incidence and Mortality in the US. 2022. PMID: 35699957; doi:10.1001/jamanetworkopen.2022.16958
-39. Sung et al. Subtype-specific breast cancer incidence rates in black versus white men in the United States. 2020. PMID: 32337499; doi:10.1093/jncics/pkz091
-40. Melkonian et al. Disparities in cancer incidence and trends among American Indians and Alaska natives in the United States, 2010–2015. 2019. PMID: 31575554; doi:10.1158/1055-9965.epi-19-0288
-41. Kem et al. Cambodian cancer incidence rates in California and Washington, 1998-2002. 2007. PMID: 17654663; doi:10.1002/cncr.22914
-42. Carozza et al. Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000. 2006. PMID: 16933057; doi:10.1007/s10552-006-0045-3
-43. Gomez et al. Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea. 2003. PMID: 12749722; doi:10.1023/a:1023046121214
-44. Melkonian et al. Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016. 2021. doi:10.1093/aje/kwaa222
-45. Miller et al. Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the US. 2008. PMID: 18066673; doi:10.1007/s10552-007-9088-3
-46. McCracken et al. Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean, and Japanese ethnicities. 2007. PMID: 17626117; doi:10.3322/canjclin.57.4.190
-47. Wilkinson et al. Cancer among Hispanic women in South Florida: An 18-year assessment - A report from the Florida Cancer Data System. 2002. PMID: 12365024; doi:10.1002/cncr.10834
+15. Davis Lynn BC, Figueroa JD, Laryea D, Awittor FK, Oti NOO, Booker QS, et al. Breast Cancer Incidence Rates in Ghanaian and US Black Women From 2013 Through 2015. JAMA Netw Open. 2025;8(10):e2537160. doi:10.1001/jamanetworkopen.2025.37160
+16. Zhang Z, Li Y, Huang H, Wei T, Huang Y, Qu X, et al. Disparities and trends of the incidence and mortality of female-specific cancers in the United States. PLoS One. 2025;20(10):e0334128. doi:10.1371/journal.pone.0334128
+17. Liu L, Zhang J, Wu AH, Pike MC, Deapen D. Invasive breast cancer incidence trends by detailed race/ethnicity and age. Int J Cancer. 2012;130(2):395-404. doi:10.1002/ijc.26004
+18. Zahrieh D, Golafshar MA, Patel SH, DeWees TA. Quantification of Potential Inequities in Breast Cancer Incidence in New Mexico Through Bayesian Disease Mapping. Prev Chronic Dis. 2021;18:E23. doi:10.5888/pcd18.200468
+19. Xu S, Murtagh S, Han Y, Wan F, Toriola AT. Breast Cancer Incidence Among US Women Aged 20 to 49 Years by Race, Stage, and Hormone Receptor Status. JAMA Netw Open. 2024;7(1):e2353331. doi:10.1001/jamanetworkopen.2023.53331
+20. Sung H, Wiese D, Jatoi I, Jemal A. State Variation in Racial and Ethnic Disparities in Incidence of Triple-Negative Breast Cancer Among US Women. JAMA Oncol. 2023;9(5):700-704. doi:10.1001/jamaoncol.2022.7835
+21. Loo LWM, Williams M, Hernandez BY. The high and heterogeneous burden of breast cancer in Hawaii: A unique multiethnic U.S. Population. Cancer Epidemiol. 2019;58:71-76. doi:10.1016/j.canep.2018.11.006
+22. Ellington TD, Miller JW, Henley SJ, Wilson RJ, Wu M, Richardson LC. Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years - United States, 1999-2018. MMWR Morb Mortal Wkly Rep. 2022;71(2):43-47. doi:10.15585/mmwr.mm7102a2
+23. Centers for Disease Control and Prevention (CDC). Vital signs: racial disparities in breast cancer severity--United States, 2005-2009. MMWR Morb Mortal Wkly Rep. 2012;61(45):922-6.
+24. Baquet CR, Mishra SI, Commiskey P, Ellison GL, DeShields M. Breast cancer epidemiology in blacks and whites: disparities in incidence, mortality, survival rates and histology. J Natl Med Assoc. 2008;100(5):480-8. doi:10.1016/s0027-9684(15)31294-3
+25. Brinton LA, Sherman ME, Carreon JD, Anderson WF. Recent trends in breast cancer among younger women in the United States. J Natl Cancer Inst. 2008;100(22):1643-8. doi:10.1093/jnci/djn344
+26. Gomez SL, McKinley M, Chan M, Lin K, Yu M, Scoppa S, et al. Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022. JAMA Netw Open. 2026;9(6):e2621250. doi:10.1001/jamanetworkopen.2026.21250
+27. Anderson WF, Rosenberg PS, Menashe I, Mitani A, Pfeiffer RM. Age-related crossover in breast cancer incidence rates between black and white ethnic groups. J Natl Cancer Inst. 2008;100(24):1804-14. doi:10.1093/jnci/djn411
+28. Kong X, Liu Z, Cheng R, Sun L, Huang S, Fang Y, et al. Variation in Breast Cancer Subtype Incidence and Distribution by Race/Ethnicity in the United States From 2010 to 2015. JAMA Netw Open. 2020;3(10):e2020303. doi:10.1001/jamanetworkopen.2020.20303
+29. Gomez SL, Von Behren J, McKinley M, Clarke CA, Shariff-Marco S, Cheng I, et al. Breast cancer in Asian Americans in California, 1988-2013: increasing incidence trends and recent data on breast cancer subtypes. Breast Cancer Res Treat. 2017;164(1):139-147. doi:10.1007/s10549-017-4229-1
+30. Richardson LC, Henley SJ, Miller JW, Massetti G, Thomas CC. Patterns and Trends in Age-Specific Black-White Differences in Breast Cancer Incidence and Mortality - United States, 1999-2014. MMWR Morb Mortal Wkly Rep. 2016;65(40):1093-1098. doi:10.15585/mmwr.mm6540a1
+31. Lund MJ, Butler EN, Hair BY, Ward KC, Andrews JH, Oprea-Ilies G, et al. Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: a population-based study and first report. Cancer. 2010;116(11):2549-59. doi:10.1002/cncr.25016
+32. Harper S, Lynch J, Meersman SC, Breen N, Davis WW, Reichman MC. Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005). Cancer Epidemiol Biomarkers Prev. 2009;18(1):121-31. doi:10.1158/1055-9965.EPI-08-0679
+33. Gopalani SV, Janitz AE, Martinez SA, Gutman P, Khan S, Campbell JE. Trends in Cancer Incidence Among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999-2015. Epidemiology. 2020;31(2):205-213. doi:10.1097/EDE.0000000000001140
+34. Ihenacho U, McKinley MA, Vu A, Hernandez BY, Loo LWM, Gomez SL, et al. Characterizing breast cancer incidence and trends among Asian American, Native Hawaiian, and non-Hispanic White women in Hawai'i, 1990-2014. Cancer Causes Control. 2023;34(3):241-249. doi:10.1007/s10552-022-01659-7
+35. Nasseri K. Breast cancer in the Middle Eastern population of California, 1988-2004. Breast J. 2009;15(2):182-8. doi:10.1111/j.1524-4741.2009.00694.x
+36. Goggins WB, Wong G. Cancer among Asian Indians/Pakistanis living in the United States: low incidence and generally above average survival. Cancer Causes Control. 2009;20(5):635-43. doi:10.1007/s10552-008-9275-x
+37. Yazzie D, Pete D, Briscoe C, Jim MA, Meisner A, Wiggins C, et al. Cancer incidence, stage at diagnosis, and trends across the Navajo Nation, 2014-2018. Cancer. 2025;131(24):e70202. doi:10.1002/cncr.70202
+38. Xie Z, Xie W, Liang Y, Lin H, Wu J, Cui Y, et al. Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of Breast Cancer Incidence and Mortality in the US. JAMA Netw Open. 2022;5(6):e2216958. doi:10.1001/jamanetworkopen.2022.16958
+39. Sung H, DeSantis C, Jemal A. Subtype-Specific Breast Cancer Incidence Rates in Black versus White Men in the United States. JNCI Cancer Spectr. 2020;4(1):pkz091. doi:10.1093/jncics/pkz091
+40. Melkonian SC, Jim MA, Haverkamp D, Wiggins CL, McCollum J, White MC, et al. Disparities in Cancer Incidence and Trends among American Indians and Alaska Natives in the United States, 2010-2015. Cancer Epidemiol Biomarkers Prev. 2019;28(10):1604-1611. doi:10.1158/1055-9965.EPI-19-0288
+41. Kem R, Chu KC. Cambodian cancer incidence rates in California and Washington, 1998-2002. Cancer. 2007;110(6):1370-5. doi:10.1002/cncr.22914
+42. Carozza SE, Howe HL. Patterns of cancer incidence among US Hispanics/Latinos, 1995-2000. Cancer Causes Control. 2006;17(8):1067-75. doi:10.1007/s10552-006-0045-3
+43. Gomez SL, Le GM, Clarke CA, Glaser SL, France AM, West DW. Cancer incidence patterns in Koreans in the US and in Kangwha, South Korea. Cancer Causes Control. 2003;14(2):167-74. doi:10.1023/a:1023046121214
+44. Melkonian et al. Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016. 2021. doi:10.1093/aje/kwaa222   [no PMID — complete manually]
+45. Miller BA, Chu KC, Hankey BF, Ries LA. Cancer incidence and mortality patterns among specific Asian and Pacific Islander populations in the U.S. Cancer Causes Control. 2008;19(3):227-56. doi:10.1007/s10552-007-9088-3
+46. McCracken M, Olsen M, Chen MS Jr, Jemal A, Thun M, Cokkinides V, et al. Cancer incidence, mortality, and associated risk factors among Asian Americans of Chinese, Filipino, Vietnamese, Korean, and Japanese ethnicities. CA Cancer J Clin. 2007;57(4):190-205. doi:10.3322/canjclin.57.4.190
+47. Wilkinson JD, Wohler-Torres B, Trapido E, Fleming LE, MacKinnon J, Peace S. Cancer among Hispanic women in South Florida: an 18-year assessment: a report from the Florida Cancer Data System. Cancer. 2002;95(8):1752-8. doi:10.1002/cncr.10834
 
 ---
 ## PMID import block (paste into Zotero/EndNote/PubMed “Send to”)
