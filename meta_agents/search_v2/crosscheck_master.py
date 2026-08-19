@@ -279,6 +279,23 @@ def check_E():
     return checked, fails, c
 
 
+def check_F(rows):
+    """Every computed/derived-provenance record must appear in the derivation log
+    (DERIVATIONS.md → Supplementary Note 1), so the log stays complete as the
+    ledger changes."""
+    logp = os.path.join(HERE, "DERIVATIONS.md")
+    if not os.path.exists(logp):
+        return 0, [("F-missing", "DERIVATIONS.md", "not found")]
+    logged = set(re.findall(r"rec (\d+)", open(logp, encoding="utf-8").read()))
+    need = {r["record_id"] for r in rows
+            if r["record_id"] != "SEER-EXPL"
+            and (r["provenance"].startswith("computed-from-rates")
+                 or r["provenance"] == "directly-reported-rate")}
+    fails = [("F-omitted", "rec " + rid, "computed record absent from the derivation log")
+             for rid in sorted(need - logged, key=int)]
+    return len(need), fails
+
+
 def main():
     rows = led_rows()
     ok = True
@@ -334,6 +351,15 @@ def main():
             print("    FAIL", f)
     else:
         print("    PASS — every reported count matches the recomputed value")
+
+    nF, fF = check_F(rows)
+    print("\n[F] Derivation-log completeness (%d computed records)" % nF)
+    if fF:
+        ok = False
+        for f in fF:
+            print("    FAIL", f)
+    else:
+        print("    PASS — every computed/derived estimate is in the derivation log")
 
     print("\n" + "=" * 78)
     print("RESULT:", "ALL CHECKS PASS" if ok else "FAILURES ABOVE")

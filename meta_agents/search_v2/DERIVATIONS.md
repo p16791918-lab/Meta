@@ -25,20 +25,27 @@ with how it was derived, so each is reproducible. Estimates reported by the sour
 IRR = minority_rate / NHW_rate. With both rate CIs: SE(logIRR) =
 sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenance
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
-`computed-from-rates`. Complete lists:
-- **with CI:** rec 2, rec 10, rec 234, rec 522, rec 2131, rec 3182, rec 3398, rec 4040.
-- **point only (no CI):** rec 100, rec 265, rec 333, rec 346, rec 381,
-  rec 463, rec 485, rec 500, rec 4098.
-- Elaborated elsewhere: rec 2 (§1), rec 234 & rec 3182 (§4).
+`computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
+The records in each class:
+- **with CI:** rec 10, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3398, rec 4040.
+- **point only (no CI):** rec 100, rec 381, rec 463, rec 485, rec 500, rec 4098.
+- Handled in other sections: rec 2 (§1); rec 234, rec 3182, rec 51 (§4); rec 4333 (§4b); and the Poisson-SE records (§3).
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US
   — the IRR remains comparable (a ratio); the absolute scale differs (flagged in-row).
 - **rec 265/346** use "White"/"Black" not NH-stratified (rec 346 White incl.
-  Hispanic); rec 265 is the crossover from printed age-specific rates, no ratio CI.
+  Hispanic); rec 265 is the crossover from printed age-specific rates.
 - **rec 500** NHW (130.4) is from the same paper (Gopalani 2020), not external.
 
 ## 3. Poisson SE from case counts
-- **rec 203, 182.** No ratio CI printed but case counts are. SE(logIRR) =
-  sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`.
+Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =
+sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`.
+- **rec 169 (Ellington 2022, USCS).** Aggregate age-adjusted rates for women aged ≥20
+  (USCS, ~99% coverage): Black 174.0, Hispanic 134.0, Asian/PI 143.5, AI/AN 127.3, vs
+  NHW 186.5; the paper reports rates, not ratios. IRR = minority / 186.5, with the CI
+  from the annual case counts (e.g., Black 0.933 [0.920, 0.946], Hispanic 0.718
+  [0.707, 0.731]). This supplies three of the four aggregate overall estimates.
+- **rec 203 · rec 182 (Brinton 2008; Cronin 2012).** Rates with case counts but no
+  ratio CI; SE(logIRR) from the counts as above.
 - **rec 49 (Mills 2005, Hmong-California).** Hmong female breast AAIR 23.8 (39
   cases) vs NHW 145.5; only the Hmong case count (39) is available, so SE(logIRR)
   = 1/sqrt(39) = 0.160 with the large NHW denominator treated as fixed
