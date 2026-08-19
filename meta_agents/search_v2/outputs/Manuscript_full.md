@@ -303,8 +303,8 @@ grey literature was not searched.
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them: several Asian, Pacific Islander, Hispanic, and
 AI/AN subgroups differ markedly from their aggregate, and the subtype pattern for NHB women differs
-from the overall pattern. Disaggregated, population-based surveillance with attention to registry
-overlap and to AI/AN undercounting would support a more accurate account of who is affected.
+from the overall pattern. Registry overlap and the undercounting of AI/AN populations warrant
+attention when these differences are interpreted.
 
 ## References
 
