@@ -1,6 +1,6 @@
 # Unified reference list (Introduction + Methods + Results) — draft
 
-*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). GRADE, the Newcastle–Ottawa Scale, and the Hartung–Knapp/estimator references were removed with the certainty rating and the random-effects pooling (2nd-round feedback #1/#2/#5). Each reference gives author, year, title, PMID and DOI; journal/volume/pages are best completed by importing the PMID list (bottom) into a reference manager (Zotero/EndNote/Mendeley).*
+*Order of first appearance: **1–12** Introduction, **13–14** Methods (guideline references: PRISMA 2020, JBI prevalence/incidence appraisal checklist), **15–47** Results (extracted studies first cited there). Each reference gives author, year, title, PMID and DOI; journal/volume/pages are best completed by importing the PMID list (bottom) into a reference manager (Zotero/EndNote/Mendeley).*
 
 ## Introduction (1–12)
 1. Giaquinto et al. Breast cancer statistics 2024. 2024. PMID: 39352042; doi:10.3322/caac.21863

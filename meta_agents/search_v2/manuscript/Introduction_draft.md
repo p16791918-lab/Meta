@@ -1,8 +1,6 @@
-# Introduction — draft v9 (rewritten from sources)
+# Introduction
 
 *Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
-
-Rewritten after reading the source papers rather than paraphrasing titles, in response to (a) the supervisor's feedback (neutral tone, no rhetorical/absolute wording, read-and-summarize) and (b) a style critique that the earlier draft read as machine-smoothed. Concrete figures and named studies are used in place of abstract multi-citation synthesis, and every quantitative claim is tied to a paper we read in full or extracted ourselves (see the "Source check" column). Superscripts refer to the running list below; full Vancouver details are completed in the verification pass.
 
 ---
 
@@ -35,6 +33,4 @@ We reviewed U.S. studies of breast cancer incidence by race and ethnicity and co
 | 11 | Nash et al. (2019) | Invasive breast cancer among Alaska Native women in Alaska | 31234738 | 28 | full text (read) + extracted |
 | 12 | Nash et al. (2022) | The Alaska Native Tumour Registry: fifty years of surveillance | 34918619 | 51 | extracted |
 
-Every quantitative statement in the text is tied to a reference we read in full this session (Giaquinto 2024, Howlader 2014, Hendrick 2021, Gomez 2010, Pinheiro 2009, Espey 2007, Nash 2019) or extracted into our ledger. Six references from the earlier draft that were matched by topic but whose full text we had not confirmed (DeSantis 2019, Cunningham 2010, Satagopan 2021, Gomez 2013, Miller 2021, Kohler 2015) were dropped; they can be reinstated once their full text is read.
-
-*Method-guideline citations (PRISMA 2020 and the JBI prevalence/incidence appraisal checklist) are cited in Methods, not here.*
+Method-guideline citations (PRISMA 2020 and the JBI prevalence/incidence appraisal checklist) are cited in Methods, not in the Introduction.

@@ -1,10 +1,8 @@
-# Results — draft v1
+# Results
 
 *Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
 
-Written per `manuscript/WRITING_GUIDE.md` and `Advice/Feedback` §7 (Results report objective
-numbers, not interpretation). All figures are drawn from the current data package (Table 1,
-Supplementary Tables 4–9). IRRs are versus non-Hispanic White (NHW) women unless marked † (an
+Incidence rate ratios (IRRs) are versus non-Hispanic White (NHW) women unless marked † (an
 unstratified White reference) or noted as a standardized incidence ratio (SIR).
 
 ---

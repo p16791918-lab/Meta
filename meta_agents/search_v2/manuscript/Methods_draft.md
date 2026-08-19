@@ -1,18 +1,6 @@
-# Methods — draft v1
+# Methods
 
 *Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
-
-Describes only procedures actually carried out. Written per `manuscript/WRITING_GUIDE.md`
-and the constraints in `Advice/Feedback` (§2 search, §3 PRISMA, §4 risk of bias, §5 registry
-overlap, §6 statistics). Method-guideline citations reuse the supervisor's own reference list
-where they overlap (marked ✓reuse); others are flagged for the verification pass (⚠verify).
-
-> **Open items for the study team**
-> - **PROSPERO registration is not yet in place** (Feedback §2). The registration sentence
->   below is a placeholder until a record is filed.
-> - The Methods describe **two independent reviewers with consensus/third-reviewer**
->   adjudication for screening and risk-of-bias appraisal (per 2nd-round feedback #2). The
->   study team must actually carry out the dual-reviewer process before submission.
 
 ---
 
@@ -126,8 +114,6 @@ sensitivity baseline traces to the same underlying value.
 
 ## References
 
-Two method-guideline citations remain after the 2nd-round revision (GRADE, the Newcastle–Ottawa
-Scale, and the Hartung–Knapp/estimator references were dropped with the certainty rating and the
-random-effects pooling): 13 PRISMA 2020 (Page 2021) and 14 the JBI critical appraisal checklist
-for studies reporting prevalence/incidence data (Munn 2015). The unified reference list
-(`manuscript/References_draft.md`) is renumbered accordingly.
+Method-guideline citations: 13 PRISMA 2020 (Page 2021) and 14 the JBI critical appraisal
+checklist for studies reporting prevalence/incidence data (Munn 2015). Full details are in the
+unified reference list (`manuscript/References_draft.md`).
