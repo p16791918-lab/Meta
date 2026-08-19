@@ -100,7 +100,7 @@ populations are therefore not statistically independent. Rather than pool such n
 estimates, we selected for each racial or ethnic group and analytic dimension a single
 **representative population-based estimate** (a contemporary benchmark). Each estimate was
 assigned to a registry "family," and the registry, region, diagnosis period, age range, group,
-and outcome of every study were tabulated so that overlaps could be seen (Supplementary Table 4).
+and outcome of each study were tabulated so that overlaps could be seen (Supplementary Table 4).
 The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
 SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
 documented age-standardization, and a directly reported confidence interval where available.
@@ -139,13 +139,13 @@ the inclusion criteria but did not provide a recoverable non-Hispanic White comp
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
 
-All quantitative results were generated from a single master extraction dataset. Every rate
+All quantitative results were generated from a single master extraction dataset. Each rate
 ratio not reported directly by a source was recomputed from that study's own age-standardized
 minority and reference rates, and each such confidence interval was reproduced from the
 component rate intervals (by the delta method when both rates carried an interval, or by scaling
 the minority-rate interval when the reference rate was a fixed population benchmark without a
 reported interval). The main-text table, the forest figures, and the sensitivity tables were all
-regenerated from this master dataset and cross-checked so that every displayed estimate and each
+regenerated from this master dataset and cross-checked so that each displayed estimate and each
 sensitivity baseline traces to the same underlying value.
 
 ## Results
@@ -249,8 +249,8 @@ cancer (TNBC) differed from that for overall incidence: NHB women had the highes
 (1.95), whereas most other groups were at or below the NHW rate.
 
 These findings are consistent with earlier disaggregated analyses and extend them. Gomez and
-colleagues first described how aggregated Asian American data can hide substantial subgroup
-differences;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
+colleagues first documented the wide variation among Asian American subgroups within the aggregate
+category;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
 period.²⁶ The high incidence observed in Native Hawaiian women echoes the heterogeneous burden
 reported in Hawaii,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
 Rican and Cuban women—reproduces the gradient described among first-generation U.S. Hispanics.⁸
@@ -301,8 +301,8 @@ grey literature was not searched.
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them: several Asian, Pacific Islander, Hispanic, and
 AI/AN subgroups differ markedly from their aggregate, and the subtype pattern for NHB women differs
-from the overall pattern. Registry overlap and the undercounting of AI/AN populations warrant
-attention when these differences are interpreted.
+from the overall pattern. Registry overlap and the undercounting of AI/AN populations are relevant
+to how these differences are interpreted.
 
 ## References
 

@@ -21,8 +21,8 @@ cancer (TNBC) differed from that for overall incidence: NHB women had the highes
 (1.95), whereas most other groups were at or below the NHW rate.
 
 These findings are consistent with earlier disaggregated analyses and extend them. Gomez and
-colleagues first described how aggregated Asian American data can hide substantial subgroup
-differences;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
+colleagues first documented the wide variation among Asian American subgroups within the aggregate
+category;⁵ the present estimates span the full set of subgroups over the most recent SEER-21
 period.²⁶ The high incidence observed in Native Hawaiian women echoes the heterogeneous burden
 reported in Hawaii,²¹ and the ordering of Hispanic subgroups—lower in Mexican and higher in Puerto
 Rican and Cuban women—reproduces the gradient described among first-generation U.S. Hispanics.⁸
@@ -73,8 +73,8 @@ grey literature was not searched.
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them: several Asian, Pacific Islander, Hispanic, and
 AI/AN subgroups differ markedly from their aggregate, and the subtype pattern for NHB women differs
-from the overall pattern. Registry overlap and the undercounting of AI/AN populations warrant
-attention when these differences are interpreted.
+from the overall pattern. Registry overlap and the undercounting of AI/AN populations are relevant
+to how these differences are interpreted.
 
 ---
 

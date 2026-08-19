@@ -65,7 +65,7 @@ populations are therefore not statistically independent. Rather than pool such n
 estimates, we selected for each racial or ethnic group and analytic dimension a single
 **representative population-based estimate** (a contemporary benchmark). Each estimate was
 assigned to a registry "family," and the registry, region, diagnosis period, age range, group,
-and outcome of every study were tabulated so that overlaps could be seen (Supplementary Table 4).
+and outcome of each study were tabulated so that overlaps could be seen (Supplementary Table 4).
 The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
 SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
 documented age-standardization, and a directly reported confidence interval where available.
@@ -104,13 +104,13 @@ the inclusion criteria but did not provide a recoverable non-Hispanic White comp
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
 
-All quantitative results were generated from a single master extraction dataset. Every rate
+All quantitative results were generated from a single master extraction dataset. Each rate
 ratio not reported directly by a source was recomputed from that study's own age-standardized
 minority and reference rates, and each such confidence interval was reproduced from the
 component rate intervals (by the delta method when both rates carried an interval, or by scaling
 the minority-rate interval when the reference rate was a fixed population benchmark without a
 reported interval). The main-text table, the forest figures, and the sensitivity tables were all
-regenerated from this master dataset and cross-checked so that every displayed estimate and each
+regenerated from this master dataset and cross-checked so that each displayed estimate and each
 sensitivity baseline traces to the same underlying value.
 
 ---
