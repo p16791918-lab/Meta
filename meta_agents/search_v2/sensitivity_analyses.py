@@ -50,6 +50,12 @@ def best(rows):
     return max(rows, key=score) if rows else None
 
 
+def _ci(r):
+    lo = (r.get("irr_ci_lo") or "").strip()
+    hi = (r.get("irr_ci_hi") or "").strip()
+    return " [%s, %s]" % (lo, hi) if lo and hi else ""
+
+
 def run(rows, keep, mainrep, label):
     # cluster ledger estimates by (dimension, group), matching the main-analysis
     # cells; the baseline representative is the one finalize_representatives chose
@@ -67,16 +73,17 @@ def run(rows, keep, mainrep, label):
         filt = [r for r in members if keep(r)]
         sens_rep = best(filt)
         if sens_rep is None:
-            status, sirr, srec = "dropped", "", ""
+            status, sirr, srec, sci = "dropped", "", "", ""
         elif sens_rep["record_id"] == main_rep["record_id"]:
             status = "unchanged"
-            sirr, srec = sens_rep["irr"], sens_rep["record_id"]
+            sirr, srec, sci = sens_rep["irr"], sens_rep["record_id"], _ci(sens_rep)
         else:
             status = "changed"
-            sirr, srec = sens_rep["irr"], sens_rep["record_id"]
+            sirr, srec, sci = sens_rep["irr"], sens_rep["record_id"], _ci(sens_rep)
         out.append(dict(dimension=dim, group=grp, family="",
-                        main_irr=main_rep["irr"], main_rec=main_rep["record_id"],
-                        sens_irr=sirr, sens_rec=srec, status=status,
+                        main_irr=main_rep["irr"], main_ci=_ci(main_rep),
+                        main_rec=main_rep["record_id"],
+                        sens_irr=sirr, sens_ci=sci, sens_rec=srec, status=status,
                         n_all=len(members), n_kept=len(filt)))
     order = {"changed": 0, "dropped": 1, "unchanged": 2}
     out.sort(key=lambda x: (order[x["status"]], x["dimension"], x["group"]))
@@ -84,8 +91,8 @@ def run(rows, keep, mainrep, label):
 
 
 def write(out, name, title):
-    cols = ["dimension", "group", "family", "main_irr", "main_rec",
-            "sens_irr", "sens_rec", "status", "n_all", "n_kept"]
+    cols = ["dimension", "group", "family", "main_irr", "main_ci", "main_rec",
+            "sens_irr", "sens_ci", "sens_rec", "status", "n_all", "n_kept"]
     with open(os.path.join(OUT, name + ".csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(out)
     from collections import Counter
