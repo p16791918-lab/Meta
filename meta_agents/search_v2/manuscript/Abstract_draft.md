@@ -4,10 +4,10 @@
 
 ---
 
-**Background.** Invasive breast cancer incidence differs across U.S. racial and ethnic groups, but
-values reported for broad aggregate categories may not reflect the variation among their subgroups.
-Disaggregated estimates are scattered across registries with overlapping populations and different
-reference groups, limiting direct comparison.
+**Background.** In the United States, breast cancer incidence is commonly reported for broad racial
+and ethnic categories. Incidence for the detailed subgroups within them, and for receptor-defined
+subtypes, has been reported in separate cancer-registry studies that differ in populations, periods,
+and reference groups.
 
 **Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science Core
 Collection) were searched for U.S. studies reporting female invasive breast cancer incidence by
