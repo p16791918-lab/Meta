@@ -15,13 +15,33 @@ const MANIFEST = path.join(__dirname, "_maintext_manifest.json");
 const OUTDOCX = path.join(__dirname, "Manuscript_Full.docx");
 
 // ---- text (markdown) rendering ------------------------------------------------
+// Unicode superscript digits/signs used for reference callouts. Rendered with a
+// baseline comma between them, the comma "drops"; render the whole citation
+// cluster (digits, range dashes, and joining commas) as true superscript instead.
+const SUP = { "⁰": "0", "¹": "1", "²": "2", "³": "3", "⁴": "4",
+  "⁵": "5", "⁶": "6", "⁷": "7", "⁸": "8", "⁹": "9",
+  "⁺": "+", "⁻": "–" };
+const SUPCLASS = "\\u2070\\u00b9\\u00b2\\u00b3\\u2074-\\u2079\\u207a\\u207b";
+const SUPRE = new RegExp("[" + SUPCLASS + "]+(?:,[" + SUPCLASS + "]+)*", "g");
+function mkRun(text, base, sup) {
+  return new TextRun({ text, bold: base.bold, italics: base.italics, font: FONT,
+    size: base.size || 24, superScript: sup });
+}
+function pushRuns(out, text, base) {
+  let last = 0, m; SUPRE.lastIndex = 0;
+  while ((m = SUPRE.exec(text)) !== null) {
+    if (m.index > last) out.push(mkRun(text.slice(last, m.index), base, false));
+    out.push(mkRun(m[0].replace(/./g, c => (c in SUP ? SUP[c] : c)), base, true));
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) out.push(mkRun(text.slice(last), base, false));
+}
 function runs(text, base = {}) {
   const out = [];
   for (const p of text.split(/(\*\*[^*]+\*\*)/)) {
     if (!p) continue;
     const bold = p.startsWith("**") && p.endsWith("**");
-    out.push(new TextRun({ text: bold ? p.slice(2, -2) : p, bold: bold || base.bold,
-      italics: base.italics, font: FONT, size: base.size || 24 }));
+    pushRuns(out, bold ? p.slice(2, -2) : p, { ...base, bold: bold || base.bold });
   }
   return out;
 }

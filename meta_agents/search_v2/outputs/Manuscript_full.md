@@ -177,9 +177,10 @@ Islander (AANHPI) aggregate 0.77 (0.75–0.79), and non-Hispanic Black (NHB) wom
 
 ### Disaggregated AANHPI subgroups
 Within the AANHPI aggregate, incidence varied across Asian American subgroups from 0.16
-(0.12–0.22) in Hmong women to 1.05 (1.01–1.08) in Japanese women, spanning Cambodian 0.26,
-Laotian 0.39, Vietnamese 0.59, Korean 0.68, Chinese 0.76, Filipina 0.86, and Asian
-Indian/Pakistani 0.96; the Asian American aggregate was 0.79 (0.78–0.80). Among Native Hawaiian
+(0.12–0.22) in Hmong women to 1.05 (1.01–1.08) in Japanese women, with Cambodian 0.26
+(0.20–0.34), Laotian 0.39 (0.35–0.43), Vietnamese 0.59 (0.57–0.61), Korean 0.68 (0.65–0.70),
+Chinese 0.76 (0.75–0.78), Filipina 0.86 (0.84–0.87), and Asian Indian/Pakistani 0.96 (0.94–0.98)
+in between; the Asian American aggregate was 0.79 (0.78–0.80). Among Native Hawaiian
 and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IRR of 0.72
 (0.64–0.82) and Native Hawaiian women 1.21 (1.12–1.31), with an NHPI aggregate of 1.21
 (1.17–1.26) (Table 1; Figure 2).
