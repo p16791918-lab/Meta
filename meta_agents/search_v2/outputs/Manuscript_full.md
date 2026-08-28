@@ -7,13 +7,14 @@ and ethnic categories. Incidence for the detailed subgroups within them, and for
 subtypes, has been reported in separate cancer-registry studies that differ in populations, periods,
 and reference groups.
 
-**Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science Core
-Collection) were searched for U.S. studies reporting female invasive breast cancer incidence by
-racial or ethnic group relative to a White or non-Hispanic White (NHW) comparator, following PRISMA
-2020. Because these registries (SEER, NPCR/USCS, NAACCR, and state) overlap, one representative
-population-based estimate was selected per registry family rather than pooled. Each estimate was an incidence rate ratio (IRR) versus NHW women;
-ratios not reported directly were recomputed from a single master dataset, and risk of bias was
-assessed with the Joanna Briggs Institute checklist for prevalence and incidence data.
+**Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science) were searched
+for U.S. studies reporting female invasive breast cancer incidence by racial or ethnic group
+relative to a White or non-Hispanic White (NHW) comparator, following PRISMA 2020. Because these
+registries (SEER, NPCR/USCS, NAACCR, and state) overlap, one representative estimate per group
+and dimension was selected, not pooled. Each estimate was an
+incidence rate ratio (IRR) versus a non-Hispanic White reference (unstratified White for a minority
+of estimates); ratios not reported directly were recomputed from a single master dataset, and risk
+of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 163 studies were included—48 eligible for quantitative
 synthesis (43 with extractable data) and 115 narrative. Overall incidence was lower than NHW in
@@ -25,9 +26,9 @@ Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN r
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
-not the variation among their subgroups, several of which reach or exceed the NHW rate; for AI/AN
-populations, the aggregate figure is further affected by registry undercounting. This descriptive
-review compares incidence and does not assess causes.
+not the variation among their subgroups, several of which reach or exceed the NHW rate. Because
+unlinked registries undercount AI/AN incidence, Indian Health Service–linked estimates were used
+for that group. This descriptive review compares incidence, not its causes.
 
 ## Introduction
 
@@ -97,13 +98,15 @@ Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and indiv
 registries cover overlapping regions and diagnosis periods, the same women can appear in more
 than one study; estimates from different publications that draw on the same or nested registry
 populations are therefore not statistically independent. Rather than pool such non-independent
-estimates, we selected for each racial or ethnic group and analytic dimension a single
-**representative population-based estimate** (a contemporary benchmark). Each estimate was
-assigned to a registry "family," and the registry, region, diagnosis period, age range, group,
-and outcome of each study were tabulated so that overlaps could be seen (Supplementary Table 4).
-The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
-SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
-documented age-standardization, and a directly reported confidence interval where available.
+estimates, the analytic unit was the **cell** defined by each racial or ethnic group crossed with
+each analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity),
+and one **representative population-based estimate** (a contemporary benchmark) was selected for each
+cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
+age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
+seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
+the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then the most
+recent and longest diagnosis period, a clearly documented age-standardization, and a directly
+reported confidence interval where available.
 For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
 Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
 estimate for the same dimension, because unlinked registries misclassify race and undercount
@@ -154,14 +157,15 @@ sensitivity baseline traces to the same underlying value.
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was assessed for 242 reports, of which 79
 were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis—43 of which provided extractable estimates (145 individual estimates across
-racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷—and the remaining 115 were included in
-the narrative synthesis (163 = 48 + 115). The extracted studies were published
+quantitative synthesis: 43 provided extractable estimates (145 individual estimates across
+racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
+eligible but their rate table could not be obtained and each overlapped a study already
+represented; the remaining 115 informed the narrative synthesis (163 = 43 + 5 + 115). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping estimates to one representative per registry family, 80 representative estimates (one
+overlapping registry-family estimates within each cell, 80 representative estimates (one
 per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
@@ -206,9 +210,10 @@ and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
 
 ### Narrative synthesis
-The 115 studies not entered into the quantitative synthesis met the inclusion criteria but did not
+The 115 narrative-synthesis studies met the inclusion criteria but did not
 report an incidence rate ratio, or age-standardized rates, from which a comparison with a
-non-Hispanic White reference could be recovered; they are listed in Supplementary Table 2. These
+non-Hispanic White reference could be recovered; they, together with the 5 quantitatively eligible
+but non-extractable studies, are listed by category in Supplementary Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
 stage at diagnosis. Where they reported a racial or ethnic comparison, the patterns they described were broadly
@@ -273,8 +278,10 @@ incidence rather than distinguishing its underlying causes.
 
 At the aggregate level, these categories do not reflect the higher incidence seen in some
 subgroups—Native Hawaiian women, several AI/AN regional populations, and NHB women for
-triple-negative disease. For AI/AN populations, part of the aggregate difference reflects registry
-undercounting rather than lower incidence. Estimates for the smallest subgroups rested on limited
+triple-negative disease. For AI/AN populations the aggregate also masks wide regional variation,
+from the Navajo area to the Northern Plains; because unlinked registries undercount AI/AN incidence,
+the main analysis used Indian Health Service–linked estimates, so the reported figures are the
+undercount-adjusted ones rather than the lower unlinked-registry values. Estimates for the smallest subgroups rested on limited
 numbers and differed in standard population and diagnosis period, which constrains their precision
 and comparability.
 

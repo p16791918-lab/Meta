@@ -62,13 +62,15 @@ Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and indiv
 registries cover overlapping regions and diagnosis periods, the same women can appear in more
 than one study; estimates from different publications that draw on the same or nested registry
 populations are therefore not statistically independent. Rather than pool such non-independent
-estimates, we selected for each racial or ethnic group and analytic dimension a single
-**representative population-based estimate** (a contemporary benchmark). Each estimate was
-assigned to a registry "family," and the registry, region, diagnosis period, age range, group,
-and outcome of each study were tabulated so that overlaps could be seen (Supplementary Table 4).
-The representative estimate was the one with the broadest population coverage (USCS > NAACCR >
-SEER-national > state or regional), the most recent and longest diagnosis period, a clearly
-documented age-standardization, and a directly reported confidence interval where available.
+estimates, the analytic unit was the **cell** defined by each racial or ethnic group crossed with
+each analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity),
+and one **representative population-based estimate** (a contemporary benchmark) was selected for each
+cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
+age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
+seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
+the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then the most
+recent and longest diagnosis period, a clearly documented age-standardization, and a directly
+reported confidence interval where available.
 For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
 Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
 estimate for the same dimension, because unlinked registries misclassify race and undercount

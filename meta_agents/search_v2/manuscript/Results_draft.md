@@ -13,14 +13,15 @@ unstratified White reference) or noted as a standardized incidence ratio (SIR).
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was assessed for 242 reports, of which 79
 were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis—43 of which provided extractable estimates (145 individual estimates across
-racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷—and the remaining 115 were included in
-the narrative synthesis (163 = 48 + 115). The extracted studies were published
+quantitative synthesis: 43 provided extractable estimates (145 individual estimates across
+racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
+eligible but their rate table could not be obtained and each overlapped a study already
+represented; the remaining 115 informed the narrative synthesis (163 = 43 + 5 + 115). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping estimates to one representative per registry family, 80 representative estimates (one
+overlapping registry-family estimates within each cell, 80 representative estimates (one
 per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
@@ -65,9 +66,10 @@ and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
 
 ### Narrative synthesis
-The 115 studies not entered into the quantitative synthesis met the inclusion criteria but did not
+The 115 narrative-synthesis studies met the inclusion criteria but did not
 report an incidence rate ratio, or age-standardized rates, from which a comparison with a
-non-Hispanic White reference could be recovered; they are listed in Supplementary Table 2. These
+non-Hispanic White reference could be recovered; they, together with the 5 quantitatively eligible
+but non-extractable studies, are listed by category in Supplementary Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
 stage at diagnosis. Where they reported a racial or ethnic comparison, the patterns they described were broadly

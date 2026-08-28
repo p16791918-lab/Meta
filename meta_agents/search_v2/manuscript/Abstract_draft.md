@@ -9,13 +9,14 @@ and ethnic categories. Incidence for the detailed subgroups within them, and for
 subtypes, has been reported in separate cancer-registry studies that differ in populations, periods,
 and reference groups.
 
-**Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science Core
-Collection) were searched for U.S. studies reporting female invasive breast cancer incidence by
-racial or ethnic group relative to a White or non-Hispanic White (NHW) comparator, following PRISMA
-2020. Because these registries (SEER, NPCR/USCS, NAACCR, and state) overlap, one representative
-population-based estimate was selected per registry family rather than pooled. Each estimate was an incidence rate ratio (IRR) versus NHW women;
-ratios not reported directly were recomputed from a single master dataset, and risk of bias was
-assessed with the Joanna Briggs Institute checklist for prevalence and incidence data.
+**Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science) were searched
+for U.S. studies reporting female invasive breast cancer incidence by racial or ethnic group
+relative to a White or non-Hispanic White (NHW) comparator, following PRISMA 2020. Because these
+registries (SEER, NPCR/USCS, NAACCR, and state) overlap, one representative estimate per group
+and dimension was selected, not pooled. Each estimate was an
+incidence rate ratio (IRR) versus a non-Hispanic White reference (unstratified White for a minority
+of estimates); ratios not reported directly were recomputed from a single master dataset, and risk
+of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 163 studies were included—48 eligible for quantitative
 synthesis (43 with extractable data) and 115 narrative. Overall incidence was lower than NHW in
@@ -27,6 +28,6 @@ Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN r
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
-not the variation among their subgroups, several of which reach or exceed the NHW rate; for AI/AN
-populations, the aggregate figure is further affected by registry undercounting. This descriptive
-review compares incidence and does not assess causes.
+not the variation among their subgroups, several of which reach or exceed the NHW rate. Because
+unlinked registries undercount AI/AN incidence, Indian Health Service–linked estimates were used
+for that group. This descriptive review compares incidence, not its causes.

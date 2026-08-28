@@ -249,9 +249,9 @@ def check_E():
     probes = [
         ("Results_draft.md", r"(\d+)\s+included studies", "included"),
         ("Results_draft.md", r"(\d+)\s+were eligible for\s+quantitative", "quant"),
-        ("Results_draft.md", r"(\d+)\s+of which provided extractable", "studies"),
+        ("Results_draft.md", r"(\d+)\s+provided extractable", "studies"),
         ("Results_draft.md", r"\((\d+)\s+individual estimates", "estimates"),
-        ("Results_draft.md", r"remaining\s+(\d+)\s+were included in the narrative", "narrative"),
+        ("Results_draft.md", r"remaining\s+(\d+)\s+informed the narrative", "narrative"),
         ("Results_draft.md", r"(\d+)\s+representative estimates", "cells"),
         ("Methods_draft.md", r"(\d+)\s*\n?\s*publications were included", "included"),
         ("Methods_draft.md", r"(\d+)\s+were eligible for quantitative", "quant"),

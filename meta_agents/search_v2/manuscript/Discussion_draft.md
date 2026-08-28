@@ -47,8 +47,10 @@ incidence rather than distinguishing its underlying causes.
 
 At the aggregate level, these categories do not reflect the higher incidence seen in some
 subgroups—Native Hawaiian women, several AI/AN regional populations, and NHB women for
-triple-negative disease. For AI/AN populations, part of the aggregate difference reflects registry
-undercounting rather than lower incidence. Estimates for the smallest subgroups rested on limited
+triple-negative disease. For AI/AN populations the aggregate also masks wide regional variation,
+from the Navajo area to the Northern Plains; because unlinked registries undercount AI/AN incidence,
+the main analysis used Indian Health Service–linked estimates, so the reported figures are the
+undercount-adjusted ones rather than the lower unlinked-registry values. Estimates for the smallest subgroups rested on limited
 numbers and differed in standard population and diagnosis period, which constrains their precision
 and comparability.
 
