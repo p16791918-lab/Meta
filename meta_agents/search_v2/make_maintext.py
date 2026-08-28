@@ -72,6 +72,10 @@ PB()
 H("Figure 3. Aggregate racial and ethnic groups, Hispanic origin, American Indian / "
   "Alaska Native region, and Middle Eastern populations (IRR vs non-Hispanic White)", 1)
 IMG("Fig_forest_overview.png", 720, 470)
+PB()
+H("Figure 4. Incidence rate ratio by racial or ethnic group and analytic dimension "
+  "(representative estimate vs non-Hispanic White; 1.0 = the NHW rate)", 1)
+IMG("Fig_heatmap.png", 760, 429)
 
 json.dump(M, open(os.path.join(OUT, "_maintext_manifest.json"), "w"), ensure_ascii=False)
 from collections import Counter

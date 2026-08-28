@@ -63,7 +63,10 @@ Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to 
 For triple-negative breast cancer (TNBC), incidence relative to NHW women was highest in NHB
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
-(0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
+(0.84 †), and Native Hawaiian (0.86 †) women (Table 1). Across groups and analytic dimensions the
+relative ordering shifts with the outcome examined (Figure 4): NHB women, close to the NHW rate for
+overall incidence (0.93), have the highest triple-negative rate (1.95), while several Asian American
+subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
 The 115 narrative-synthesis studies met the inclusion criteria but did not

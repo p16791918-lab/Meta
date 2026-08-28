@@ -112,4 +112,4 @@ const doc = new Document({
     { properties: { page: { size: { orientation: PageOrientation.LANDSCAPE }, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks() },
   ],
 });
-Packer.toBuffer(doc).then(b => { fs.writeFileSync(OUTDOCX, b); console.log("wrote Manuscript_Full.docx (text + Table 1 + Figures 1-3)"); });
+Packer.toBuffer(doc).then(b => { fs.writeFileSync(OUTDOCX, b); console.log("wrote Manuscript_Full.docx (text + Table 1 + Figures 1-4)"); });

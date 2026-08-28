@@ -41,7 +41,10 @@ def forest(items, title, fname, color="#2b6cb0", divider_after=None):
         agg = divider_after is not None and i >= divider_after
         ax.plot([lo, hi], [y, y], "-", color=color, lw=1.6, zorder=2)
         ax.plot(irr, y, "D" if agg else "s", color=color, ms=8 if agg else 7, zorder=3)
-        ax.text(hi * 1.04, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi),
+        # value labels in a fixed right-hand column (axes-fraction x, data y) so they
+        # never collide with markers/whiskers, however far right the point sits.
+        ax.text(1.03, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi),
+                transform=ax.get_yaxis_transform(), clip_on=False,
                 va="center", ha="left", fontsize=8.2, color="#222",
                 fontweight="bold" if agg else "normal")
     if divider_after is not None:
@@ -67,7 +70,7 @@ def forest(items, title, fname, color="#2b6cb0", divider_after=None):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     ax.margins(y=0.02)
-    plt.subplots_adjust(left=0.40, right=0.82, top=0.88, bottom=0.15)
+    plt.subplots_adjust(left=0.40, right=0.78, top=0.88, bottom=0.15)
     fig.savefig(os.path.join(OUT, fname), dpi=200)
     plt.close(fig)
     print("wrote outputs/%s (%d rows)" % (fname, n))
@@ -94,7 +97,8 @@ def sectioned_forest(sections, title, fname, color="#2b6cb0"):
         # subgroups above it, so it must not carry the meta-analytic diamond glyph.
         ax.plot([lo, hi], [y, y], "-", color=color, lw=1.6, zorder=2)
         ax.plot(irr, y, "s", color=color, ms=7, zorder=3)
-        ax.text(hi * 1.04, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi), va="center", ha="left",
+        ax.text(1.03, y, "%.2f [%.2f, %.2f]" % (irr, lo, hi),
+                transform=ax.get_yaxis_transform(), clip_on=False, va="center", ha="left",
                 fontsize=8.2, color="#222", fontweight="bold" if agg else "normal")
     # dividers above each header after the first
     for idx, (_, _, _, _, kind) in enumerate(flat):
@@ -120,7 +124,7 @@ def sectioned_forest(sections, title, fname, color="#2b6cb0"):
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
-    plt.subplots_adjust(left=0.42, right=0.82, top=0.86, bottom=0.15)
+    plt.subplots_adjust(left=0.42, right=0.78, top=0.86, bottom=0.15)
     fig.savefig(os.path.join(OUT, fname), dpi=200)
     plt.close(fig)
     print("wrote outputs/%s (%d rows)" % (fname, n))
