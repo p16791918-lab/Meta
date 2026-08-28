@@ -1,6 +1,5 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
 AIAN,AIAN,,0.87,,2510,0.384," [0.253, 0.546]",107,changed,2,1
-aggregate-vs-NHW,AIAN,,0.560," [0.550, 0.570]",500,0.683," [0.642, 0.726]",169,changed,6,6
 age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,2,0
 age-lt40,Black (age<40),,1.16," [1.1, 1.23]",199,,,,dropped,1,0
@@ -44,6 +43,7 @@ age-lt50,Filipina,,0.768," [0.633, 0.932]",522,0.768," [0.633, 0.932]",522,uncha
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
 age-lt50,Japanese,,1.479," [1.252, 1.748]",522,1.479," [1.252, 1.748]",522,unchanged,1,1
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",522,unchanged,1,1
+aggregate-vs-NHW,AIAN,,0.560," [0.550, 0.570]",500,0.560," [0.550, 0.570]",500,unchanged,6,6
 aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,5,5
 aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,9,7
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,7,7

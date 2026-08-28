@@ -82,9 +82,9 @@ On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at mod
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance or where race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 62 of 80 cell representatives unchanged, with the 5 changed and 13
-dropped cells concentrated in the disaggregated AANHPI subgroups and the AI/AN cells;
-restricting to directly reported estimates left 41 unchanged (6 changed, 33 dropped); and
-restricting to NHW-comparator estimates left 57 unchanged (2 changed, 21 dropped), the dropped
+low-risk-of-bias studies left 64 of 80 cell representatives unchanged, with the 3 changed and 13
+dropped cells concentrated in the disaggregated AANHPI subgroups;
+restricting to directly reported estimates left 42 unchanged (5 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 58 unchanged (1 changed, 21 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells.

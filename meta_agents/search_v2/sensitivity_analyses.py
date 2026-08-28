@@ -36,6 +36,7 @@ def load(qual):
             continue  # female-incidence scope: male breast cancer excluded from the synthesis
         fam, tier, fclass = registry_family(r["registry"])
         r["_tier"] = tier
+        r["_fclass"] = fclass
         r["_cluster"] = "%s|%s|%s" % (r["outcome_dim"], r["minority_group"], fclass)
         r["_qual"] = qual.get(r["record_id"], "NA")
         rows.append(r)
@@ -47,8 +48,24 @@ def score(r):
     return (has_irr, r["_tier"], period_key(r["period"]), PROV_RANK.get(r["provenance"], 0))
 
 
+def is_aian(r):
+    s = (r["minority_group"] + " " + r["outcome_dim"]).lower()
+    return "aian" in s or "american indian" in s or "alaska nativ" in s
+
+
 def best(rows):
     rows = [r for r in rows if (r.get("irr") or "").strip()]
+    if not rows:
+        return None
+    # AI/AN undercount correction (mirror finalize_representatives): where an
+    # IHS-PRCDA estimate is available for the cell, the unlinked national-registry
+    # estimates are demoted, so the selection uses the more valid population
+    # definition rather than the broadest coverage. Without this, best() would
+    # re-select a national estimate the main analysis had deliberately demoted,
+    # producing a spurious "changed" in the sensitivity that reflects a rule
+    # mismatch rather than the restriction.
+    if any(is_aian(r) for r in rows) and any(r.get("_fclass") == "IHS-PRCDA" for r in rows):
+        rows = [r for r in rows if r.get("_fclass") != "national"]
     return max(rows, key=score) if rows else None
 
 
@@ -127,6 +144,22 @@ def main():
                for r in csv.DictReader(open(REPS, encoding="utf-8"))
                if r["main_analysis"].startswith("yes")}
     print("main-analysis cells:", len(mainrep))
+
+    # Invariant guard: with no restriction applied, best() must reproduce the
+    # finalize_representatives choice for every cell. If it does not, the
+    # sensitivity selection rule has drifted from the main-analysis rule (as it
+    # did for AI/AN before the IHS-PRCDA correction was mirrored here), and the
+    # reported "changed"/"dropped" counts would conflate rule mismatch with the
+    # restriction effect. Fail loudly rather than publish inconsistent numbers.
+    clusters0 = defaultdict(list)
+    for r in rows:
+        clusters0[(r["outcome_dim"], r["minority_group"])].append(r)
+    drift = [(k, rec, best(clusters0.get(k, [])))
+             for k, rec in mainrep.items()
+             if best(clusters0.get(k, [])) and best(clusters0.get(k, []))["record_id"] != rec]
+    if drift:
+        raise SystemExit("SELECTION-RULE DRIFT (sensitivity best() != finalize): %s"
+                         % [(k, fr, b["record_id"]) for k, fr, b in drift])
 
     c2 = write(run(rows, lambda r: r["provenance"] in DIRECT, mainrep, "SENS2"),
                "Sensitivity2_directly_reported",

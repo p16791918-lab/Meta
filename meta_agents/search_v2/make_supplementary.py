@@ -174,7 +174,7 @@ H("Supplementary Table 6. Sensitivity analyses", 1)
 from collections import Counter as _Ctr
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 _c1 = _Ctr(r["status"] for r in s1)
-P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped. The changed and dropped cells were concentrated in the disaggregated AANHPI subgroups and the AI/AN cells, whose representatives are computed estimates from moderate-risk-of-bias sources."
+P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped. The changed and dropped cells were concentrated in the disaggregated AANHPI subgroups (with a few age-specific and Middle Eastern cells), whose representatives are computed estimates from moderate-risk-of-bias sources; the AI/AN representatives are unchanged because the IHS-linked estimates preferred in the main analysis are themselves low risk of bias."
   % (_c1["unchanged"], sum(_c1.values()), _c1["changed"], _c1["dropped"]))
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch1], [1800, 2200, 3000, 3000, 900])
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
