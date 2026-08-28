@@ -97,7 +97,10 @@ def main():
             # Age-restricted ("young") subgroups conflate age x ethnicity and are
             # excluded from the all-age disaggregated synthesis (kept in the ledger
             # for provenance; noted narratively).
-            and "young" not in r.get("minority_group", "").lower()]
+            and "young" not in r.get("minority_group", "").lower()
+            # Male breast cancer is outside the female-incidence scope of the review
+            # (eligibility = women); kept in the ledger but excluded from the synthesis.
+            and not r.get("outcome_dim", "").lower().startswith("male")]
     for r in rows:
         fam, tier, fclass = registry_family(r["registry"])
         r["_family"] = fam

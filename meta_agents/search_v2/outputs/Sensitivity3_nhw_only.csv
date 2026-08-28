@@ -5,11 +5,6 @@ age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,2,0
 age-lt40,Black (age<40),,1.16," [1.1, 1.23]",199,,,,dropped,1,0
 aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,,,,dropped,1,0
-male-BC,Black (men),,1.52," [1.44, 1.6]",2406,,,,dropped,1,0
-male-BC-HRneg-HER2pos,Black (men),,2.62," [1.48, 4.43]",2406,,,,dropped,1,0
-male-BC-HRpos-HER2neg,Black (men),,1.41," [1.32, 1.5]",2406,,,,dropped,1,0
-male-BC-HRpos-HER2pos,Black (men),,1.65," [1.4, 1.93]",2406,,,,dropped,1,0
-male-BC-TNBC,Black (men),,2.27," [1.67, 3.03]",2406,,,,dropped,1,0
 nativity,Chinese (US-born),,1.84," [1.72, 1.96]",236,,,,dropped,1,0
 nativity,Filipina (US-born),,1.32," [1.2, 1.44]",236,,,,dropped,1,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0
@@ -30,11 +25,11 @@ subtype-TNBC,Native Hawaiian,,0.86," [0.79, 0.91]",161,,,,dropped,1,0
 AIAN,AIAN (Navajo),,0.49," [0.44, 0.55]",1478,0.49," [0.44, 0.55]",1478,unchanged,1,1
 AIAN,AIAN (Northern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,1,1
 AIAN,AIAN (Southern Plains),,1.25," [1.11, 1.41]",3662,1.25," [1.11, 1.41]",3662,unchanged,1,1
-Hispanic-origin,Cuban,,0.755," [0.677, 0.842]",3182,0.755," [0.677, 0.842]",3182,unchanged,1,1
+Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,0.769," [0.688, 0.860]",3182,unchanged,1,1
 Hispanic-origin,Hispanic/Latina (aggregate),,0.64,,3298,0.64,,3298,unchanged,2,2
-Hispanic-origin,Mexican,,0.503," [0.376, 0.673]",3182,0.503," [0.376, 0.673]",3182,unchanged,1,1
-Hispanic-origin,New Latino,,0.684," [0.619, 0.756]",3182,0.684," [0.619, 0.756]",3182,unchanged,1,1
-Hispanic-origin,Puerto Rican,,0.817," [0.726, 0.920]",3182,0.817," [0.726, 0.920]",3182,unchanged,1,1
+Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,0.512," [0.382, 0.686]",3182,unchanged,1,1
+Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,0.697," [0.629, 0.771]",3182,unchanged,1,1
+Hispanic-origin,Puerto Rican,,0.833," [0.738, 0.939]",3182,0.833," [0.738, 0.939]",3182,unchanged,1,1
 age-ge50,AIAN,,0.647,,485,0.647,,485,unchanged,1,1
 age-ge50,Asian/PI (aggregate),,0.659,,485,0.659,,485,unchanged,1,1
 age-ge50,Black,,0.914,,485,0.914,,485,unchanged,1,1

@@ -63,11 +63,13 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   Non-Hispanic White 139.5 (139.0–140.0), same registry (SEER-21), same period
   (2018–2022), same standard (2000 US). IRRs = subgroup rate / 139.5 with 95% CIs
   propagated from both rate CIs.
-- **rec 3182.** The table gives origin-specific rates and rounded
-  IR ratios but not the NHW-Florida rate; a NHW-FL value of ≈143 (2000 US std)
-  reproduces the authors' rounded ratios (0.8/0.5/0.8/0.7) and was used as the
-  fixed denominator. The CI for each origin group is the origin-rate CI scaled by
-  the same denominator.
+- **rec 3182.** Table 4 gives origin-specific female-breast rates with 95% CIs
+  (Cuban 108.0, Mexican 71.9, New Latino 97.8, Puerto Rican 116.9), and the
+  non-Hispanic White Florida comparator is reported in Table 2: 140.4 (137.6–143.2),
+  same registry (Florida, 1999–2001), same standard (2000 US). IRR = origin rate /
+  140.4, with the 95% CI propagated from both rate CIs by the delta method (e.g.,
+  Cuban 0.769 [0.688, 0.860]). These reproduce the authors' printed rounded rate
+  ratios (0.8/0.5/0.7/0.8).
 - **rec 51 (Alaska Native).** Paper is ANTR-only (Alaska Native
   people), no in-paper NHW. AN female breast 130.8 (116.7-146.0), 2014-2018,
   2000 US std. Paired with the SEER-Explorer NHW observed annual mean for the SAME

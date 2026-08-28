@@ -1,6 +1,6 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 85 total — unchanged 46, changed 6, dropped 33.
+Cells: 80 total — unchanged 41, changed 6, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -12,10 +12,10 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | aggregate-vs-NHW | Black | 0.933 (169) | 0.97 (66) | **changed** |
 | aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.75 (66) | **changed** |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.61 (955) | **changed** |
-| Hispanic-origin | Cuban | 0.755 (3182) | - (-) | **dropped** |
-| Hispanic-origin | Mexican | 0.503 (3182) | - (-) | **dropped** |
-| Hispanic-origin | New Latino | 0.684 (3182) | - (-) | **dropped** |
-| Hispanic-origin | Puerto Rican | 0.817 (3182) | - (-) | **dropped** |
+| Hispanic-origin | Cuban | 0.769 (3182) | - (-) | **dropped** |
+| Hispanic-origin | Mexican | 0.512 (3182) | - (-) | **dropped** |
+| Hispanic-origin | New Latino | 0.697 (3182) | - (-) | **dropped** |
+| Hispanic-origin | Puerto Rican | 0.833 (3182) | - (-) | **dropped** |
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-ge50 | AIAN | 0.647 (485) | - (-) | **dropped** |
 | age-ge50 | Asian/PI (aggregate) | 0.659 (485) | - (-) | **dropped** |

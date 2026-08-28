@@ -1,6 +1,6 @@
 # 지도교수 피드백 합본 (1차 + 2차) 및 반영 현황
 
-*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 원문 출처: `Advice/Feedback`(1차), `Advice/Feedback2.md`(2차). 충돌 시 2차가 우선. 각 항목 아래 **반영**은 현재 원고·산출물 기준 처리 결과입니다.
 

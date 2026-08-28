@@ -39,10 +39,10 @@ Values are the representative population-based estimate per group (one per regis
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
-| Mexican | IRR | 0.503 [0.376, 0.673] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
-| New Latino | IRR | 0.684 [0.619, 0.756] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
-| Cuban | IRR | 0.755 [0.677, 0.842] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
-| Puerto Rican | IRR | 0.817 [0.726, 0.920] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
+| Mexican | IRR | 0.512 [0.382, 0.686] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
+| New Latino | IRR | 0.697 [0.629, 0.771] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
+| Cuban | IRR | 0.769 [0.688, 0.860] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
+| Puerto Rican | IRR | 0.833 [0.738, 0.939] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
 | Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Carozza2006_multistate (1995-2000) | NAACCR/CiNA (~93%) | Low |
 
 **American Indian and Alaska Native (AI/AN) by region**
@@ -71,9 +71,3 @@ Values are the representative population-based estimate per group (one per regis
 | Hispanic | IRR | 0.860 [0.840, 0.880] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |
 | Native Hawaiian | IRR | 0.86 [0.79, 0.91] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Low |
 | Black | IRR | 1.950 [1.930, 1.980] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |
-
-**Male breast cancer**
-
-| Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
-|----|----|----|----|----|----|
-| Black (men) | IRR | 1.52 [1.44, 1.6] † | Sung2020_USCS50 (2011-2015) | USCS(NPCR+SEER ~99%) | Low |

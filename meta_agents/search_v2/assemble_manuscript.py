@@ -12,7 +12,7 @@ M = os.path.join(HERE, "manuscript")
 OUT = os.path.join(HERE, "outputs", "Manuscript_full.md")
 
 TITLE = ("Racial and Ethnic Differences in Breast Cancer Incidence in the "
-         "United States: A Systematic Review and Meta-analysis")
+         "United States: A Systematic Review with Quantitative Synthesis")
 
 
 def body_after_rule(fn):

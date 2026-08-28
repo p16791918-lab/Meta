@@ -1,6 +1,6 @@
 # Discussion
 
-*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 ---
 
@@ -15,7 +15,7 @@ women, with non-Hispanic Black (NHB) women closest to NHW (0.93). Disaggregated 
 widely within these aggregate categories. Among Asian American subgroups the IRR
 ranged from 0.16 in Hmong women to 1.05 in Japanese women; Native Hawaiian women (1.21) and the
 Native Hawaiian and Pacific Islander (NHPI) aggregate (1.21) were higher than NHW women. Hispanic
-incidence rose from 0.50 in Mexican women to 0.82 in Puerto Rican women, and AI/AN incidence ranged
+incidence rose from 0.51 in Mexican women to 0.83 in Puerto Rican women, and AI/AN incidence ranged
 from 0.49 in the Navajo area to 1.33 in the Northern Plains. The pattern for triple-negative breast
 cancer (TNBC) differed from that for overall incidence: NHB women had the highest TNBC incidence
 (1.95), whereas most other groups were at or below the NHW rate.
@@ -53,17 +53,16 @@ numbers and differed in standard population and diagnosis period, which constrai
 and comparability.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
-disaggregated ethnic subgroups, receptor-defined subtypes, and male breast cancer; overlapping
+disaggregated ethnic subgroups and receptor-defined subtypes; overlapping
 registry data were handled explicitly by selecting one representative estimate per registry family;
 the provenance of each estimate was recorded; risk of bias was assessed with a tool designed for
 prevalence and incidence studies; and all derived rate ratios were recomputed and cross-checked
 against a single master extraction dataset. The review also has limitations. It is a descriptive
 comparison of incidence and was not designed to identify causes. Because many estimates come from
 overlapping or nested registry populations, they are not statistically independent and were not
-combined into a pooled summary. Some rate ratios were computed from published rates, and a few used
-a fixed reference rate as the denominator (for example, the Florida Hispanic-origin estimates⁸) or
-an unstratified White comparator (the receptor-defined subtypes and male breast cancer), which can
-move a ratio slightly. Included studies also differed in standard population and diagnosis period,
+combined into a pooled summary. Some rate ratios were computed from published age-standardized rates rather than
+reported directly, and a few used an unstratified White comparator (the receptor-defined
+subtypes), which can move a ratio slightly. Included studies also differed in standard population and diagnosis period,
 which limits direct comparability, and one older study used the 1970 world standard. The review was
 restricted to U.S.-resident populations, so the estimates are not generalizable to countries that
 use a different White reference, different racial and ethnic categories, and different standard

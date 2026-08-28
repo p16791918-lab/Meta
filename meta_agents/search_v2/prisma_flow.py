@@ -94,7 +94,7 @@ def main():
     arrow(ax, rmx + rmw / 2, 3.65, incx + incw, 3.65)
 
     box(ax, incx, 1.3, incw, 1.1,
-        "Studies contributing ≥1 estimate to the meta-analysis\n"
+        "Studies contributing ≥1 estimate to the quantitative synthesis\n"
         "(n = 43; 144 estimates; 28 supplied a main-analysis representative)",
         fc="#cfe6d4")
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)

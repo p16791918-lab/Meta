@@ -1,6 +1,6 @@
 # Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)
 
-Cells: 85 total — unchanged 57, changed 2, dropped 26.
+Cells: 80 total — unchanged 57, changed 2, dropped 21.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -12,11 +12,6 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | age-lt40 | Black | 1.183 (265) | - (-) | **dropped** |
 | age-lt40 | Black (age<40) | 1.16 (199) | - (-) | **dropped** |
 | aggregate-vs-NHW | Black (women) | 0.98 (2406) | - (-) | **dropped** |
-| male-BC | Black (men) | 1.52 (2406) | - (-) | **dropped** |
-| male-BC-HRneg-HER2pos | Black (men) | 2.62 (2406) | - (-) | **dropped** |
-| male-BC-HRpos-HER2neg | Black (men) | 1.41 (2406) | - (-) | **dropped** |
-| male-BC-HRpos-HER2pos | Black (men) | 1.65 (2406) | - (-) | **dropped** |
-| male-BC-TNBC | Black (men) | 2.27 (2406) | - (-) | **dropped** |
 | nativity | Chinese (US-born) | 1.84 (236) | - (-) | **dropped** |
 | nativity | Filipina (US-born) | 1.32 (236) | - (-) | **dropped** |
 | subtype-ERneg-PRpos | Black | 1.459 (200) | - (-) | **dropped** |

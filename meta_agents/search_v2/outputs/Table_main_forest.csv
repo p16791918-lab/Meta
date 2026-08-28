@@ -18,14 +18,13 @@ disaggregated-AANHPI,Japanese,1.045,1.009,1.083,234
 disaggregated-AANHPI,Native Hawaiian,1.211,1.123,1.305,4040
 disaggregated-AANHPI,Native Hawaiian/PI (aggregate),1.212,1.168,1.258,234
 disaggregated-MENA,Middle Eastern,0.86,0.84,0.88,587
-Hispanic-origin,Mexican,0.503,0.376,0.673,3182
-Hispanic-origin,New Latino,0.684,0.619,0.756,3182
-Hispanic-origin,Cuban,0.755,0.677,0.842,3182
-Hispanic-origin,Puerto Rican,0.817,0.726,0.92,3182
+Hispanic-origin,Mexican,0.512,0.382,0.686,3182
+Hispanic-origin,New Latino,0.697,0.63,0.772,3182
+Hispanic-origin,Cuban,0.769,0.688,0.86,3182
+Hispanic-origin,Puerto Rican,0.833,0.738,0.94,3182
 AIAN,AIAN (Navajo),0.49,0.438,0.548,1478
 AIAN,AIAN (Southern Plains),1.25,1.109,1.409,3662
 AIAN,AIAN (Northern Plains),1.33,1.257,1.407,3662
-male-BC,Black (men),1.52,1.442,1.602,2406
 subtype-TNBC,Chinese,0.53,0.393,0.715,161
 subtype-TNBC,Asian-American combined,0.61,0.576,0.646,324
 subtype-TNBC,Asian/PI (aggregate),0.7,0.68,0.72,155
@@ -69,11 +68,7 @@ age-lt40,Black (age<40),1.16,1.097,1.227,199
 age-lt40,Black,1.183,1.142,1.226,265
 nativity,Filipina (US-born),1.32,1.205,1.446,236
 age-ge50,Native Hawaiian,1.366,1.245,1.498,522
-male-BC-HRpos-HER2neg,Black (men),1.41,1.323,1.503,2406
 subtype-ERneg-PRpos,Black,1.459,1.267,1.68,200
 age-lt50,Japanese,1.479,1.252,1.748,522
-male-BC-HRpos-HER2pos,Black (men),1.65,1.405,1.937,2406
 subtype-HRneg,Black,1.796,1.74,1.853,10
 nativity,Chinese (US-born),1.84,1.724,1.964,236
-male-BC-TNBC,Black (men),2.27,1.685,3.058,2406
-male-BC-HRneg-HER2pos,Black (men),2.62,1.514,4.533,2406

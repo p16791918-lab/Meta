@@ -97,7 +97,7 @@ const mainKids = [];
 mainKids.push(new Paragraph({ spacing: { after: 200 },
   children: [new TextRun({ text: "Supplementary Materials", font: FONT, bold: true, size: 34 })] }));
 mainKids.push(new Paragraph({ spacing: { after: 200 },
-  children: [new TextRun({ text: "Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-Analysis", font: FONT, italics: true, size: 20 })] }));
+  children: [new TextRun({ text: "Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis", font: FONT, italics: true, size: 20 })] }));
 
 const figKids = [];
 let inFigures = false;

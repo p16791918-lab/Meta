@@ -20,11 +20,11 @@ disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,,,,dropped,1,0
 AIAN,AIAN (Navajo),,0.49," [0.44, 0.55]",1478,0.49," [0.44, 0.55]",1478,unchanged,1,1
 AIAN,AIAN (Northern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,1,1
 AIAN,AIAN (Southern Plains),,1.25," [1.11, 1.41]",3662,1.25," [1.11, 1.41]",3662,unchanged,1,1
-Hispanic-origin,Cuban,,0.755," [0.677, 0.842]",3182,0.755," [0.677, 0.842]",3182,unchanged,1,1
+Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,0.769," [0.688, 0.860]",3182,unchanged,1,1
 Hispanic-origin,Hispanic/Latina (aggregate),,0.64,,3298,0.64,,3298,unchanged,2,2
-Hispanic-origin,Mexican,,0.503," [0.376, 0.673]",3182,0.503," [0.376, 0.673]",3182,unchanged,1,1
-Hispanic-origin,New Latino,,0.684," [0.619, 0.756]",3182,0.684," [0.619, 0.756]",3182,unchanged,1,1
-Hispanic-origin,Puerto Rican,,0.817," [0.726, 0.920]",3182,0.817," [0.726, 0.920]",3182,unchanged,1,1
+Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,0.512," [0.382, 0.686]",3182,unchanged,1,1
+Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,0.697," [0.629, 0.771]",3182,unchanged,1,1
+Hispanic-origin,Puerto Rican,,0.833," [0.738, 0.939]",3182,0.833," [0.738, 0.939]",3182,unchanged,1,1
 age-ge40,Black,,0.851," [0.841, 0.862]",265,0.851," [0.841, 0.862]",265,unchanged,1,1
 age-ge50,Filipina,,0.774," [0.700, 0.855]",522,0.774," [0.700, 0.855]",522,unchanged,1,1
 age-ge50,Japanese,,1.064," [0.978, 1.157]",522,1.064," [0.978, 1.157]",522,unchanged,1,1
@@ -44,11 +44,6 @@ aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,0.98," [0.97, 0.98]",2
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,7,6
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,1
-male-BC,Black (men),,1.52," [1.44, 1.6]",2406,1.52," [1.44, 1.6]",2406,unchanged,1,1
-male-BC-HRneg-HER2pos,Black (men),,2.62," [1.48, 4.43]",2406,2.62," [1.48, 4.43]",2406,unchanged,1,1
-male-BC-HRpos-HER2neg,Black (men),,1.41," [1.32, 1.5]",2406,1.41," [1.32, 1.5]",2406,unchanged,1,1
-male-BC-HRpos-HER2pos,Black (men),,1.65," [1.4, 1.93]",2406,1.65," [1.4, 1.93]",2406,unchanged,1,1
-male-BC-TNBC,Black (men),,2.27," [1.67, 3.03]",2406,2.27," [1.67, 3.03]",2406,unchanged,1,1
 nativity,Chinese (US-born),,1.84," [1.72, 1.96]",236,1.84," [1.72, 1.96]",236,unchanged,1,1
 nativity,Filipina (US-born),,1.32," [1.2, 1.44]",236,1.32," [1.2, 1.44]",236,unchanged,1,1
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,1.459," [1.267, 1.679]",200,unchanged,1,1

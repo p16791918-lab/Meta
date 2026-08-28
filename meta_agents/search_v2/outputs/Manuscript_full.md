@@ -1,4 +1,4 @@
-# Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis
+# Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis
 
 ## Abstract
 
@@ -20,7 +20,7 @@ synthesis (43 with extractable data) and 115 narrative. Overall incidence was lo
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
-American subgroups, up to 1.21 in Native Hawaiian women, 0.50 (Mexican) to 0.82 (Puerto Rican) by
+American subgroups, up to 1.21 in Native Hawaiian women, 0.51 (Mexican) to 0.83 (Puerto Rican) by
 Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
@@ -161,11 +161,11 @@ between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Result
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping estimates to one representative per registry family, 85 representative estimates (one
+overlapping estimates to one representative per registry family, 80 representative estimates (one
 per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
-subgroups, AI/AN by region, Middle Eastern populations, triple-negative breast cancer, and male
-breast cancer—are shown in Table 1. The reference group was non-Hispanic White in most studies and
+subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
+shown in Table 1. The reference group was non-Hispanic White in most studies and
 an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
@@ -186,8 +186,8 @@ and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IR
 (1.17–1.26) (Table 1; Figure 2).
 
 ### Hispanic/Latina by country of origin
-Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.50 (0.38–0.67),
-New Latino 0.68 (0.62–0.76), Cuban 0.76 (0.68–0.84), and Puerto Rican 0.82 (0.73–0.92); the
+Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.51 (0.38–0.69),
+New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94); the
 aggregate Hispanic/Latina estimate was a standardized incidence ratio of 0.64 (Table 1; Figure 3).
 
 ### American Indian and Alaska Native by region
@@ -204,10 +204,6 @@ For triple-negative breast cancer (TNBC), incidence relative to NHW women was hi
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
-
-### Male breast cancer
-Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60)† relative to White men
-(Table 1).
 
 ### Narrative synthesis
 The 115 studies not entered into the quantitative synthesis met the inclusion criteria but did not
@@ -227,12 +223,12 @@ On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at mod
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance or where race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 67 of 85 cell representatives unchanged, with the 5 changed and 13
+low-risk-of-bias studies left 62 of 80 cell representatives unchanged, with the 5 changed and 13
 dropped cells concentrated in the disaggregated AANHPI subgroups and the AI/AN cells;
-restricting to directly reported estimates left 46 unchanged (6 changed, 33 dropped); and
-restricting to NHW-comparator estimates left 57 unchanged (2 changed, 26 dropped), the dropped
+restricting to directly reported estimates left 41 unchanged (6 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 57 unchanged (2 changed, 21 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
-receptor-defined subtypes, male breast cancer, and two age-specific Black cells.
+receptor-defined subtypes and two age-specific Black cells.
 
 ## Discussion
 
@@ -245,7 +241,7 @@ women, with non-Hispanic Black (NHB) women closest to NHW (0.93). Disaggregated 
 widely within these aggregate categories. Among Asian American subgroups the IRR
 ranged from 0.16 in Hmong women to 1.05 in Japanese women; Native Hawaiian women (1.21) and the
 Native Hawaiian and Pacific Islander (NHPI) aggregate (1.21) were higher than NHW women. Hispanic
-incidence rose from 0.50 in Mexican women to 0.82 in Puerto Rican women, and AI/AN incidence ranged
+incidence rose from 0.51 in Mexican women to 0.83 in Puerto Rican women, and AI/AN incidence ranged
 from 0.49 in the Navajo area to 1.33 in the Northern Plains. The pattern for triple-negative breast
 cancer (TNBC) differed from that for overall incidence: NHB women had the highest TNBC incidence
 (1.95), whereas most other groups were at or below the NHW rate.
@@ -283,17 +279,16 @@ numbers and differed in standard population and diagnosis period, which constrai
 and comparability.
 
 This review has several strengths. The search covered multiple databases; the synthesis included
-disaggregated ethnic subgroups, receptor-defined subtypes, and male breast cancer; overlapping
+disaggregated ethnic subgroups and receptor-defined subtypes; overlapping
 registry data were handled explicitly by selecting one representative estimate per registry family;
 the provenance of each estimate was recorded; risk of bias was assessed with a tool designed for
 prevalence and incidence studies; and all derived rate ratios were recomputed and cross-checked
 against a single master extraction dataset. The review also has limitations. It is a descriptive
 comparison of incidence and was not designed to identify causes. Because many estimates come from
 overlapping or nested registry populations, they are not statistically independent and were not
-combined into a pooled summary. Some rate ratios were computed from published rates, and a few used
-a fixed reference rate as the denominator (for example, the Florida Hispanic-origin estimates⁸) or
-an unstratified White comparator (the receptor-defined subtypes and male breast cancer), which can
-move a ratio slightly. Included studies also differed in standard population and diagnosis period,
+combined into a pooled summary. Some rate ratios were computed from published age-standardized rates rather than
+reported directly, and a few used an unstratified White comparator (the receptor-defined
+subtypes), which can move a ratio slightly. Included studies also differed in standard population and diagnosis period,
 which limits direct comparability, and one older study used the 1970 world standard. The review was
 restricted to U.S.-resident populations, so the estimates are not generalizable to countries that
 use a different White reference, different racial and ethnic categories, and different standard

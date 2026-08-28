@@ -16,10 +16,10 @@ Asian American subgroups,Asian American (aggregate),IRR,"0.792 [0.784, 0.800]",G
 Native Hawaiian and Pacific Islander (NHPI) subgroups,Guamanian/Chamorro/Samoan,IRR,"0.723 [0.641, 0.817]",Gomez2026_SEER21,2018-2022,SEER-national,Moderate
 Native Hawaiian and Pacific Islander (NHPI) subgroups,Native Hawaiian,IRR,"1.211 [1.123, 1.305]",Miller2008_NAACCR-API,1998-2002,NAACCR/CiNA (~93%),Low
 Native Hawaiian and Pacific Islander (NHPI) subgroups,Native Hawaiian/PI (aggregate),IRR,"1.212 [1.168, 1.258]",Gomez2026_SEER21,2018-2022,SEER-national,Moderate
-Hispanic/Latina by country of origin,Mexican,IRR,"0.503 [0.376, 0.673]",Pinheiro2009_FL,1999-2001,State: Florida,Low
-Hispanic/Latina by country of origin,New Latino,IRR,"0.684 [0.619, 0.756]",Pinheiro2009_FL,1999-2001,State: Florida,Low
-Hispanic/Latina by country of origin,Cuban,IRR,"0.755 [0.677, 0.842]",Pinheiro2009_FL,1999-2001,State: Florida,Low
-Hispanic/Latina by country of origin,Puerto Rican,IRR,"0.817 [0.726, 0.920]",Pinheiro2009_FL,1999-2001,State: Florida,Low
+Hispanic/Latina by country of origin,Mexican,IRR,"0.512 [0.382, 0.686]",Pinheiro2009_FL,1999-2001,State: Florida,Low
+Hispanic/Latina by country of origin,New Latino,IRR,"0.697 [0.629, 0.771]",Pinheiro2009_FL,1999-2001,State: Florida,Low
+Hispanic/Latina by country of origin,Cuban,IRR,"0.769 [0.688, 0.860]",Pinheiro2009_FL,1999-2001,State: Florida,Low
+Hispanic/Latina by country of origin,Puerto Rican,IRR,"0.833 [0.738, 0.939]",Pinheiro2009_FL,1999-2001,State: Florida,Low
 Hispanic/Latina by country of origin,Hispanic/Latina (aggregate),SIR,0.64 (point est.),Carozza2006_multistate,1995-2000,NAACCR/CiNA (~93%),Low
 American Indian and Alaska Native (AI/AN) by region,AIAN (Navajo),IRR,"0.49 [0.44, 0.55]",Yazzie2025_Navajo,2014-2018,IHS-PRCDA,Low
 American Indian and Alaska Native (AI/AN) by region,AIAN (Southern Plains),IRR,"1.25 [1.11, 1.41]",Melkonian2021_IHS-PRCDA,2012-2016,IHS-PRCDA,Low
@@ -33,4 +33,3 @@ Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015
 Triple-negative breast cancer,Hispanic,IRR,"0.860 [0.840, 0.880]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
 Triple-negative breast cancer,Native Hawaiian,IRR,"0.86 [0.79, 0.91] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,Black,IRR,"1.950 [1.930, 1.980]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
-Male breast cancer,Black (men),IRR,"1.52 [1.44, 1.6] †",Sung2020_USCS50,2011-2015,USCS(NPCR+SEER ~99%),Low

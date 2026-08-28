@@ -1,6 +1,6 @@
 # Abstract
 
-*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 ---
 
@@ -22,7 +22,7 @@ synthesis (43 with extractable data) and 115 narrative. Overall incidence was lo
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
-American subgroups, up to 1.21 in Native Hawaiian women, 0.50 (Mexican) to 0.82 (Puerto Rican) by
+American subgroups, up to 1.21 in Native Hawaiian women, 0.51 (Mexican) to 0.83 (Puerto Rican) by
 Hispanic origin, and 0.49 (Navajo area) to 1.33 (Northern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 

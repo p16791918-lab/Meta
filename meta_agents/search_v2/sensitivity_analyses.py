@@ -32,6 +32,8 @@ def load(qual):
             continue
         if "young" in r.get("minority_group", "").lower():
             continue  # match the main analysis, which excludes age-restricted "young" subgroups
+        if r.get("outcome_dim", "").lower().startswith("male"):
+            continue  # female-incidence scope: male breast cancer excluded from the synthesis
         fam, tier, fclass = registry_family(r["registry"])
         r["_tier"] = tier
         r["_cluster"] = "%s|%s|%s" % (r["outcome_dim"], r["minority_group"], fclass)

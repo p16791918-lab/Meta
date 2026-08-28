@@ -1,6 +1,6 @@
 # 리뷰어 예상질문 및 대응 (rebuttal 준비용)
 
-*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 이 논문의 실제 설계·선택에 근거한 예상 질문과 답변. 각 답 끝의 (→ …)는 원고 내 근거 위치.
 

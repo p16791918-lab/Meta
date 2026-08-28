@@ -1,6 +1,6 @@
 # Results
 
-*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review and Meta-analysis*
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 Incidence rate ratios (IRRs) are versus non-Hispanic White (NHW) women unless marked † (an
 unstratified White reference) or noted as a standardized incidence ratio (SIR).
@@ -20,11 +20,11 @@ between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Result
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping estimates to one representative per registry family, 85 representative estimates (one
+overlapping estimates to one representative per registry family, 80 representative estimates (one
 per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
-subgroups, AI/AN by region, Middle Eastern populations, triple-negative breast cancer, and male
-breast cancer—are shown in Table 1. The reference group was non-Hispanic White in most studies and
+subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
+shown in Table 1. The reference group was non-Hispanic White in most studies and
 an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
@@ -45,8 +45,8 @@ and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IR
 (1.17–1.26) (Table 1; Figure 2).
 
 ### Hispanic/Latina by country of origin
-Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.50 (0.38–0.67),
-New Latino 0.68 (0.62–0.76), Cuban 0.76 (0.68–0.84), and Puerto Rican 0.82 (0.73–0.92); the
+Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.51 (0.38–0.69),
+New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94); the
 aggregate Hispanic/Latina estimate was a standardized incidence ratio of 0.64 (Table 1; Figure 3).
 
 ### American Indian and Alaska Native by region
@@ -63,10 +63,6 @@ For triple-negative breast cancer (TNBC), incidence relative to NHW women was hi
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1).
-
-### Male breast cancer
-Among men, breast cancer incidence in Black men was 1.52 (1.44–1.60)† relative to White men
-(Table 1).
 
 ### Narrative synthesis
 The 115 studies not entered into the quantitative synthesis met the inclusion criteria but did not
@@ -86,9 +82,9 @@ On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at mod
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance or where race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 67 of 85 cell representatives unchanged, with the 5 changed and 13
+low-risk-of-bias studies left 62 of 80 cell representatives unchanged, with the 5 changed and 13
 dropped cells concentrated in the disaggregated AANHPI subgroups and the AI/AN cells;
-restricting to directly reported estimates left 46 unchanged (6 changed, 33 dropped); and
-restricting to NHW-comparator estimates left 57 unchanged (2 changed, 26 dropped), the dropped
+restricting to directly reported estimates left 41 unchanged (6 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 57 unchanged (2 changed, 21 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
-receptor-defined subtypes, male breast cancer, and two age-specific Black cells.
+receptor-defined subtypes and two age-specific Black cells.

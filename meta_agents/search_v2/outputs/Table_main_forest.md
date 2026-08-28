@@ -41,10 +41,10 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Mexican | 0.503 | 0.376-0.673 | 3182 |
-| New Latino | 0.684 | 0.619-0.756 | 3182 |
-| Cuban | 0.755 | 0.677-0.842 | 3182 |
-| Puerto Rican | 0.817 | 0.726-0.920 | 3182 |
+| Mexican | 0.512 | 0.382-0.686 | 3182 |
+| New Latino | 0.697 | 0.630-0.772 | 3182 |
+| Cuban | 0.769 | 0.688-0.860 | 3182 |
+| Puerto Rican | 0.833 | 0.738-0.940 | 3182 |
 
 **AIAN**
 
@@ -53,12 +53,6 @@ One estimate per registry family; not pooled across groups.
 | AIAN (Navajo) | 0.490 | 0.438-0.548 | 1478 |
 | AIAN (Southern Plains) | 1.250 | 1.109-1.409 | 3662 |
 | AIAN (Northern Plains) | 1.330 | 1.257-1.407 | 3662 |
-
-**male-BC**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black (men) | 1.520 | 1.442-1.602 | 2406 |
 
 **subtype-TNBC**
 
@@ -178,12 +172,6 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Native Hawaiian | 1.366 | 1.245-1.498 | 522 |
 
-**male-BC-HRpos-HER2neg**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black (men) | 1.410 | 1.323-1.503 | 2406 |
-
 **subtype-ERneg-PRpos**
 
 | Group | IRR | 95% CI | rec |
@@ -196,12 +184,6 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Japanese | 1.479 | 1.252-1.748 | 522 |
 
-**male-BC-HRpos-HER2pos**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black (men) | 1.650 | 1.405-1.937 | 2406 |
-
 **subtype-HRneg**
 
 | Group | IRR | 95% CI | rec |
@@ -213,15 +195,3 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Chinese (US-born) | 1.840 | 1.724-1.964 | 236 |
-
-**male-BC-TNBC**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black (men) | 2.270 | 1.685-3.058 | 2406 |
-
-**male-BC-HRneg-HER2pos**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Black (men) | 2.620 | 1.514-4.533 | 2406 |

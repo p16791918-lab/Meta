@@ -21,7 +21,7 @@
 
 ## Included
 - Studies included in review: 163
-  - Quantitative synthesis (meta-analysis): 48 eligible → 43 with extractable data
+  - Quantitative synthesis: 48 eligible → 43 with extractable data
     (5 quantitative-eligible studies deferred: rate table not obtainable; each
     overlaps a study already represented — 461, 209, 419, 2137, 4027)
   - Narrative synthesis only: 115
