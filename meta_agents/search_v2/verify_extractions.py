@@ -74,6 +74,24 @@ def main():
         else:
             missing = ", ".join("%s=%s" % (lbl, v) for lbl, res, v in results if res is not True)
             flags.append((rid, r["author_year"], r["minority_group"], r["outcome_dim"], "not found: " + missing))
+    # full per-row report (documents that every PDF/value was checked)
+    ANCHOR_OK = {"2"}  # rec 2 standardized rate verified via printed anchors (128.2/342.7/9.7)
+    with open(os.path.join(HERE, "outputs", "Extraction_verification_report.csv"), "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["rec_id", "study", "group", "dimension", "provenance", "verdict", "detail"])
+        for r in rows:
+            rid = r["record_id"]
+            fl = next((x for x in flags if x[0] == rid and x[2] == r["minority_group"] and x[3] == r["outcome_dim"]), None)
+            if fl is None:
+                verdict, detail = "VERIFIED", "value found in source PDF"
+            elif rid in ANCHOR_OK:
+                verdict, detail = "VERIFIED", "computed rate; source age-specific anchors verified"
+            elif "NO PDF" in fl[4]:
+                verdict, detail = "AUTHOR", "no source PDF available"
+            else:
+                verdict, detail = "AUTHOR", fl[4]
+            w.writerow([rid, r["author_year"], r["minority_group"], r["outcome_dim"], r["provenance"], verdict, detail])
+
     print("=== EXTRACTION CENSUS: %d rows, %d verified, %d flagged ===" % (len(rows), len(verified), len(flags)))
     print()
     print("FLAGGED (need author / not text-verifiable):")

@@ -1,0 +1,94 @@
+rec_id,PMID,Title,Category / why you check it
+3,41055508,"Lobular breast cancer statistics, 2025 (2025)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+5,42118535,"Stage IV Breast Cancer Incidence and Survival, 2010-202 (2026)",E. EXCLUDED w/o full text: Did not report the outcome of interest
+14,40553473,"Breast Cancer Incidence Trends in Older US Women by Race, Ethnicity, Geography, and Stage (2025)","C. INCLUDED-narrative, no PDF"
+18,24670926,"Invasive cancer incidence - United States, 2010. (2014)","C. INCLUDED-narrative, no PDF"
+46,39853979,Incidence Rate Trends of Breast Cancer Overall and by Molecular Subtype by Race and Ethnicity and Age (2025),"C. INCLUDED-narrative, no PDF"
+66,34427920,Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women (2021),"G. EXTRACTION(low, overlap): overall IRRs not in text"
+80,39132985,"Breast, Colorectal, and Prostate Cancer Incidence among Filipino Americans by Generational Status in the Multiethnic Cohort Study (2024)","C. INCLUDED-narrative, no PDF"
+119,24676851,Disparities of cancer incidence in Michigan's American Indians: Spotlight on breast cancer (2014),"C. INCLUDED-narrative, no PDF"
+142,32778443,Are There Regional Differences in Triple Negative Breast Cancer among Non-Hispanic Black Women? (2021),"C. INCLUDED-narrative, no PDF"
+145,21473509,Persistence in breast cancer disparities between African Americans and whites in Wisconsin (2011),"C. INCLUDED-narrative, no PDF"
+155,36862439,State Variation in Racial and Ethnic Disparities in Incidence of Triple-Negative Breast Cancer among US Women (2023),"A. INCLUDED-extracted, no main PDF"
+156,36301149,"Annual report to the nation on the status of cancer, part 1: National cancer statistics (2022)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+157,16258086,Breast cancer trends among black and white women in the United States (2005),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+158,34731501,"Trends in breast cancer incidence rates by race/ethnicity: Patterns by stage, socioeconomic position, and geography in the United States, 1999-2017 (2022)","C. INCLUDED-narrative, no PDF"
+209,36530732,Racial and regional disparities of triple negative breast cancer incidence rates in the United States: An analysis of 2011-2019 NPCR and SEER incidence data (2022),"B. INCLUDED-eligible, no PDF"
+210,34861613,"Breast cancer incidence trends in Asian women aged 20 or older as compared to other ethnic women in the United States from 2000 to 2018 by time period, age and tumor stage (2022)","C. INCLUDED-narrative, no PDF"
+226,35113296,"Home mortgage discrimination and incidence of triple-negative and Luminal A breast cancer among non-Hispanic Black and non-Hispanic White females in California, 2006–2015 (2022)","C. INCLUDED-narrative, no PDF"
+234,42377954,"Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022 (2026)",F. EXTRACTION: AANHPI subgroup rates in image eTable (verify Table 2/eTable)
+235,32162336,"Annual report to the nation on the status of cancer, part I: National cancer statistics (2020)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+246,20567897,Does socioeconomic disparity in cancer incidence vary across racial/ethnic groups? (2010),"C. INCLUDED-narrative, no PDF"
+251,32671723,"Triple-negative breast cancer incidence in the United States: ecological correlations with area-level sociodemographics, healthcare, and health behaviors (2021)",E. EXCLUDED w/o full text: Did not report the outcome of interest
+252,32212335,Forty-year trends in menopausal hormone therapy use and breast cancer incidence  among postmenopausal black and white women (2020),"C. INCLUDED-narrative, no PDF"
+253,10761199,Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females. (2000),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+259,21850396,What can we learn from the age- and race/ethnicity- specific rates of inflammatory breast carcinoma? (2011),"C. INCLUDED-narrative, no PDF"
+284,42065927,"Trends in Female Breast Cancer Incidence among Japanese, Korean, and US Populations: An Age-Period-Cohort Analysis (2026)","C. INCLUDED-narrative, no PDF"
+286,33074325,Variation in breast cancer subtype incidence and distribution by race/ethnicity in the United States from 2010 to 2015 (2020),"A. INCLUDED-extracted, no main PDF"
+310,18162138,"Recent breast cancer trends among Asian/Pacific Islander, Hispanic, and African-American women in the US: Changes by tumor subtype (2007)","C. INCLUDED-narrative, no PDF"
+316,29509274,Early estimates of cancer incidence for 2015: Expanding to include estimates for white and black races (2018),"C. INCLUDED-narrative, no PDF"
+321,27118258,Risks of developing breast and colorectal cancer in association with incomes and geographic locations in Texas: A retrospective cohort study (2016),E. EXCLUDED w/o full text: Did not report the outcome of interest
+358,24343171,"Annual Report to the Nation on the status of cancer, 1975-2010, featuring  prevalence of comorbidity and impact on survival among persons with lung, colorectal, breast, or prostate cancer (2014)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+362,28376154,"Annual Report to the Nation on the Status of Cancer, 1975-2014, Featuring  Survival (2017)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+369,29445940,"Differences in breast cancer incidence among young women aged 20–49 years by stage and tumor characteristics, age, race, and ethnicity, 2004–2013 (2018)","C. INCLUDED-narrative, no PDF"
+377,27792934,Racial/ethnicity disparities in invasive breast cancer among younger and older  women: An analysis using multiple measures of population health (2016),"C. INCLUDED-narrative, no PDF"
+384,16958083,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations (2006)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+402,26741869,"Disparities in Breast Cancer Incidence, Mortality, and Quality of Care among African American and European American Women in South Carolina (2016)","C. INCLUDED-narrative, no PDF"
+411,25825511,"Annual report to the nation on the status of cancer, 1975-2011, featuring incidence of breast cancer subtypes by race/ethnicity, poverty, and state (2015)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+415,17929614,Women's cancers among Alaska Natives 1969-2003. (2006),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+419,21656753,Higher population-based incidence rates of triple-negative breast cancer among young African-American women (2011),"B. INCLUDED-eligible, no PDF"
+424,12223421,Breast cancer in a multiethnic cohort in Hawaii and Los Angeles: Risk factor-adjusted incidence in Japanese equals and in Hawaiians exceeds that in whites (2002),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+426,39837694,"Trends in Incidence of Invasive Lobular Carcinoma of the Breast by Race: Patterns by Age, Cancer Stage, and Socioeconomic Factors in the United States, 1992-2019 (2025)","C. INCLUDED-narrative, no PDF"
+428,18323374,Women's cancers among Alaska Natives: [corrected] 1969-2003. (2007),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+474,41546752,"Persistent poverty and breast cancer incidence by tumor subtype: intersections of rural/urban residence and race within USA Surveillance Epidemiology and End Results Registries, 2017 to 2021 (2026)","C. INCLUDED-narrative, no PDF"
+476,41665696,"Rural–urban disparities in breast cancer incidence among US women aged 20–49: trends by race/ethnicity, stage, poverty, and state from 2000–2019 (2026)","D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+477,41649619,"Spillover effects of public school integration in the southern United States: diverging trends in statewide annual breast cancer incidence, 2001–2019 (2026)","C. INCLUDED-narrative, no PDF"
+504,40736150,Cancer Incidence and Trends in Persistent Poverty Areas of California by Race/Ethnicity and Sex (2025),"C. INCLUDED-narrative, no PDF"
+510,26766789,"Cancer statistics for Asian Americans, Native Hawaiians, and Pacific Islanders, 2016: Converging incidence in males and females (2016)","C. INCLUDED-narrative, no PDF"
+516,37184135,The role of area-level socioeconomic disadvantage in racial disparities in cancer incidence in metropolitan Detroit (2023),"C. INCLUDED-narrative, no PDF"
+565,29120826,Cancer in Guam and Hawaii: A comparison of two U.S. Island populations (2017),"C. INCLUDED-narrative, no PDF"
+751,15090727,Population-based statistics for women diagnosed with inflammatory breast cancer (United States) (2004),"C. INCLUDED-narrative, no PDF"
+754,38996557,Breast cancer incidence and stage at diagnosis in the six US-Affiliated Pacific  Islands (2024),"C. INCLUDED-narrative, no PDF"
+788,31145458,"Annual Report to the Nation on the Status of Cancer, Featuring Cancer in Men and Women Age 20–49 Years (2019)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+968,19998273,"Annual report to the nation on the status of cancer, 1975-2006, featuring  colorectal cancer trends and impact of interventions (risk factors, screening, and treatment) to reduce future rates (2010)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+998,28854891,"Cancer-related risk factors and incidence of major cancers by race, gender and region; analysis of the NIH-AARP diet and health study (2017)","C. INCLUDED-narrative, no PDF"
+1101,37740603,Cancer incidence in the Somali population of Olmsted County: A Rochester epidemiology project study (2023),"C. INCLUDED-narrative, no PDF"
+1398,41989785,"Early-Onset Cancer Incidence Disparities Between Black and White Individuals in the US, 2003-2022 (2026)","C. INCLUDED-narrative, no PDF"
+1453,41400551,"American Cancer Society’s Report on the Status of Cancer Disparities in the United States, 2025 (2026)","C. INCLUDED-narrative, no PDF"
+1457,41528114,"Cancer statistics, 2026 (2026)","C. INCLUDED-narrative, no PDF"
+1462,41742962,Rising Breast Cancer Incidence and Poor Outcomes in Young Women: A Retrospective Study (2026),E. EXCLUDED w/o full text: Ineligible population
+1569,,Characterizing cancer patterns in Okinawan vs. mainland Japanese Americans: The Multiethnic Cohort Study (2025),"C. INCLUDED-narrative, no PDF"
+1629,40189850,Inequalities in Fertility-Impacting Cancer Incidence Among Young Populations in the United States (2025),"C. INCLUDED-narrative, no PDF"
+1637,39808161,Cancer Incidence in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)—The Onco-SOL Ancillary Study (2025),"C. INCLUDED-narrative, no PDF"
+1800,38801414,"Rural–Urban Cancer Incidence and Trends in the United States, 2000 to 2019 (2024)","C. INCLUDED-narrative, no PDF"
+2038,,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage (2023)","D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+2131,35699957,"Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of Breast Cancer Incidence and Mortality in the US (2022)","G. EXTRACTION(low, overlap): subgroup rates in table"
+2137,35119703,"Cancer disparities among non-Hispanic urban American Indian and Alaska Native populations in the United States, 1999-2017 (2022)","B. INCLUDED-eligible, no PDF"
+2151,34878180,"American Cancer Society's report on the status of cancer disparities in the United States, 2021 (2022)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+2163,,Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA (2022),E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+2440,31428891,Cancer incidence and associations with known risk and protective factors: the Alaska EARTH study (2019),"C. INCLUDED-narrative, no PDF"
+2453,31392297,Incidence and survival among young women with stage I-III breast cancer: Seer 2000-2015 (2019),"C. INCLUDED-narrative, no PDF"
+3116,,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011)","D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+3268,17844709,Improving cancer incidence estimates for American Indians in Wisconsin (2007),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
+3373,14974761,"Cancer Statistics, 2004 (2004)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+3429,11814064,"Cancer statistics, 2002 (2002)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+3522,,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cancer diagnosis (2024)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+3713,,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends (2016),E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+3845,,"Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008) (2013)","C. INCLUDED-narrative, no PDF"
+4027,26661680,"Cancer incidence among Asian American populations in the United States, 2009-2011 (2016)","B. INCLUDED-eligible, no PDF"
+4035,15221985,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival (2004)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4043,37223193,"Trends in Breast Cancer Incidence and Mortality in the United States From 2004-2018: A Surveillance, Epidemiology, and End Results (SEER)-Based Study (2023)","C. INCLUDED-narrative, no PDF"
+4050,23297039,"Annual Report to the Nation on the Status of Cancer, 19752009, Featuring the Burden and Trends in Human Papillomavirus (HPV)Associated Cancers and HPV Vaccination Coverage Levels (2013)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4057,21969133,"Breast cancer statistics, 2011 (2011)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4065,24399786,"Cancer Statistics, 2014 (2014)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4066,21454908,"Annual Report to the Nation on the Status of Cancer, 1975-2007, Featuring Tumors of the Brain and Other Nervous System (2011)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4071,12953083,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer prevention and control (2003)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4082,40257373,"Annual Report to the Nation on the Status of Cancer, featuring state-level statistics after the onset of the COVID-19 pandemic (2025)","C. INCLUDED-narrative, no PDF"
+4164,19033571,"Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacco Control (2008)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4172,23335087,"Cancer statistics, 2013 (2013)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4213,22987332,"Cancer statistics for Hispanics/Latinos, 2012 (2012)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4216,22460733,"Annual Report to the Nation on the status of cancer, 1975-2008, featuring cancers associated with excess weight and lack of sufficient physical activity (2012)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4294,39976243,"Cancer statistics for African American and Black people, 2025 (2025)","C. INCLUDED-narrative, no PDF"
+4357,12924775,"Cancer statistics for Hispanics, 2003 (2003)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+4389,24013772,Differences in the cancer burden among foreign-born and US-born Arab Americans living in metropolitan Detroit (2013),"C. INCLUDED-narrative, no PDF"
+4429,28801942,"Cancer risk in different generations of Middle Eastern immigrants to California, 1988-2013 (2017)","C. INCLUDED-narrative, no PDF"
