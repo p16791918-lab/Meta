@@ -38,15 +38,15 @@ retained because the reference and minority rates came from the same source. The
 limited to U.S.-resident populations: comparable studies from other countries exist but use a
 different White reference (e.g., White British), different racial and ethnic categories, and
 different standard populations, so their rate ratios are not commensurable with U.S.
-estimates. Reviews, editorials, letters, conference abstracts, non-U.S. studies, studies
+estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed), non-U.S. studies, studies
 without a usable incidence comparison, and mortality- or survival-only reports were excluded.
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
 records). Titles and abstracts, and then full texts, were screened independently by two
-reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 163
+reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis (43 provided extractable quantitative data) and the remaining 115 informed the
+synthesis (43 provided extractable quantitative data) and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the

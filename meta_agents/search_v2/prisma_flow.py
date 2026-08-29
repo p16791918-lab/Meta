@@ -70,9 +70,9 @@ def main():
     box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 242)")
     arrow(ax, lmx + lmw / 2, 7.5, lmx + lmw / 2, 6.3)
     box(ax, lex, 4.7, lew, 1.7,
-        "Reports excluded (n = 79):\noverlapping / duplicate dataset (n = 55);\n"
+        "Reports excluded (n = 80):\noverlapping / duplicate dataset (n = 55);\n"
         "did not report eligible outcome (n = 12);\nfull text unavailable (n = 9);\n"
-        "ineligible population (n = 3)")
+        "ineligible population (n = 3);\npreprint, not peer-reviewed (n = 1)")
     arrow(ax, lmx + lmw, 5.85, lex, 5.85)
 
     # ---- right arm (other methods) ----
@@ -85,8 +85,8 @@ def main():
     # ---- included (spans left arm) ----
     incx, incw = 1.3, 8.7
     box(ax, incx, 3.0, incw, 1.3,
-        "Studies included in the review (n = 163)\n"
-        "Quantitative synthesis: 48 eligible (43 with extractable data)   |   Narrative synthesis only: 115",
+        "Studies included in the review (n = 162)\n"
+        "Quantitative synthesis: 48 eligible (43 with extractable data)   |   Narrative synthesis only: 114",
         fc="#cfe6d4")
     arrow(ax, lmx + lmw / 2, 5.4, lmx + lmw / 2, 4.3)
     # right arm merges into included

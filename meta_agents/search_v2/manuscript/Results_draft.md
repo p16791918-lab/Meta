@@ -11,12 +11,12 @@ unstratified White reference) or noted as a standardized incidence ratio (SIR).
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was assessed for 242 reports, of which 79
-were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
+records for title and abstract screening. Full text was assessed for 242 reports, of which 80
+were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis: 43 provided extractable estimates (143 individual estimates across
 racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
 eligible but their rate table could not be obtained and each overlapped a study already
-represented; the remaining 115 informed the narrative synthesis (163 = 43 + 5 + 115). The extracted studies were published
+represented; the remaining 114 informed the narrative synthesis (162 = 43 + 5 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
@@ -69,7 +69,7 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 115 narrative-synthesis studies met the inclusion criteria but did not
+The 114 narrative-synthesis studies met the inclusion criteria but did not
 report an incidence rate ratio, or age-standardized rates, from which a comparison with a
 non-Hispanic White reference could be recovered; they, together with the 5 quantitatively eligible
 but non-extractable studies, are listed by category in Supplementary Table 2. These

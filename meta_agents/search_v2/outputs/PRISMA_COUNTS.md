@@ -17,14 +17,14 @@
 
 ## Eligibility
 - Reports assessed for eligibility (full text): 242
-- Reports excluded: 79 (reasons in `TableS_excluded_fulltext.csv`)
+- Reports excluded: 80 (reasons in `TableS_excluded_fulltext.csv`)
 
 ## Included
-- Studies included in review: 163
+- Studies included in review: 162
   - Quantitative synthesis: 48 eligible → 43 with extractable data
     (5 quantitative-eligible studies deferred: rate table not obtainable; each
     overlaps a study already represented — 461, 209, 419, 2137, 4027)
-  - Narrative synthesis only: 115
+  - Narrative synthesis only: 114
 
 ## Notes for the flowchart
 - Single-reviewer screening with AI assistance; state this in Methods.

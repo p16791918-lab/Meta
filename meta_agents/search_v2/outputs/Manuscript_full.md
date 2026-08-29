@@ -16,8 +16,8 @@ incidence rate ratio (IRR) versus a non-Hispanic White reference (unstratified W
 of estimates); ratios not reported directly were recomputed from a single master dataset, and risk
 of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 163 studies were included—48 eligible for quantitative
-synthesis (43 with extractable data) and 115 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
+synthesis (43 with extractable data) and 114 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
@@ -74,15 +74,15 @@ retained because the reference and minority rates came from the same source. The
 limited to U.S.-resident populations: comparable studies from other countries exist but use a
 different White reference (e.g., White British), different racial and ethnic categories, and
 different standard populations, so their rate ratios are not commensurable with U.S.
-estimates. Reviews, editorials, letters, conference abstracts, non-U.S. studies, studies
+estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed), non-U.S. studies, studies
 without a usable incidence comparison, and mortality- or survival-only reports were excluded.
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
 records). Titles and abstracts, and then full texts, were screened independently by two
-reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 163
+reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis (43 provided extractable quantitative data) and the remaining 115 informed the
+synthesis (43 provided extractable quantitative data) and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
@@ -154,12 +154,12 @@ sensitivity baseline traces to the same underlying value.
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was assessed for 242 reports, of which 79
-were excluded, giving 163 included studies (Figure 1). Of these, 48 were eligible for
+records for title and abstract screening. Full text was assessed for 242 reports, of which 80
+were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis: 43 provided extractable estimates (143 individual estimates across
 racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
 eligible but their rate table could not be obtained and each overlapped a study already
-represented; the remaining 115 informed the narrative synthesis (163 = 43 + 5 + 115). The extracted studies were published
+represented; the remaining 114 informed the narrative synthesis (162 = 43 + 5 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
@@ -212,7 +212,7 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 115 narrative-synthesis studies met the inclusion criteria but did not
+The 114 narrative-synthesis studies met the inclusion criteria but did not
 report an incidence rate ratio, or age-standardized rates, from which a comparison with a
 non-Hispanic White reference could be recovered; they, together with the 5 quantitatively eligible
 but non-extractable studies, are listed by category in Supplementary Table 2. These

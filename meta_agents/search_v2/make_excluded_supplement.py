@@ -29,6 +29,7 @@ OUT_MD = os.path.join(HERE, "TableS_excluded_fulltext.md")
 REASON_ORDER = [
     "Did not report the outcome of interest",
     "Ineligible population",
+    "Preprint (not peer-reviewed)",
     "Overlapping or duplicate dataset",
     "Full text unavailable",
 ]

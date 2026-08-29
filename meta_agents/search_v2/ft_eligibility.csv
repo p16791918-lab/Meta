@@ -113,7 +113,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 1398,include-narrative,"reclassified from quant: early-onset Black-vs-White IRR reported as an annual trend (1.03 in 2003 to 0.94 in 2022), not a single poolable estimate",USCS,NH Black vs NH White,age-adjusted IRR,early-onset Black/White IRR USCS 2003-2022; breast among cancers - verify breast row; overlaps USCS
 1462,exclude,Ineligible population,TriNetX EHR network,young women,incidence proportion (TriNetX),"TriNetX EHR research network denominator, not population-based registry (cf NCDB)"
 1478,include-quant,,NM Tumor Registry + AZ + UT (IHS-linked),Navajo vs NHW,age-standardized rates + RR,Navajo vs NHW breast incidence 2014-2018; key Navajo subgroup; breast among 22 - verify breast row
-1569,include-narrative,,Multiethnic Cohort,Okinawan vs mainland Japanese,age-adjusted rates + HR,MEC Okinawan vs mainland Japanese; cohort + comparator not NHW -> narrative
+1569,exclude,Preprint (not peer-reviewed),Multiethnic Cohort,Okinawan vs mainland Japanese,age-adjusted rates + HR,MEC Okinawan vs mainland Japanese (medRxiv 10.1101/2025.07.14.25331338); comparator not NHW; preprint not peer-reviewed
 1629,include-narrative,,SEER,race/ethnicity (grouped cancers),age-standardized rates + IRR,SEER fertility-impacting cancer GROUPS by race; breast within reproductive group not separable -> narrative
 1637,include-narrative,,HCHS/SOL + state registries,Hispanic heritage groups,cohort incidence,HCHS/SOL Hispanic heritage disaggregation; cohort + comparator=heritage not NHW -> narrative
 1693,exclude,Overlapping or duplicate dataset,SEER 17,API by region,age-adjusted IDC rates,SSRN preprint duplicate of published 425 (same SEER17 API invasive-ductal by region)
