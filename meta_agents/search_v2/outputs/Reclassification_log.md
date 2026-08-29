@@ -85,3 +85,54 @@ upgraded** (each lacks a recoverable all-age NHW-comparable incidence rate/ratio
 
 Net: no new cell; 78 cells and headline results unchanged. Only rec 155 remains an
 unobtained result-relevant record.
+
+## Individual author uploads (post-2nd-batch), close full-text read
+- **rec 284 — Abubakar et al., "Trends in Female Breast Cancer Incidence among Japanese,
+  Korean, and US Populations: An Age–Period–Cohort Analysis" (Cancer Epidemiol Biomarkers
+  Prev).** Registries: Japan 1985–2019, Korea 1993–2017, Hawaii + Los Angeles County
+  1988–2017, SEER 8 1985–2019. **Confirmed NARRATIVE (no upgrade).** All reported estimates
+  are trend metrics — net drift (annual % change in age-adjusted rates), period RRs, and
+  cohort RRs, each relative to a within-population reference period/cohort, not a
+  minority-vs-NHW comparison (e.g., the cited RR 1.88 / 2.11 are native Japanese/Korean
+  *period* RRs for 2015–2019 vs the reference period). Incidence is given only as
+  **age-specific** 5-year-band curves (Fig 1; native Japanese peak 348.4/100k at 80–84,
+  US Japanese >500, US White/Black 420–450 at older ages); no all-age age-standardized ASR
+  is reported from which a US-Japanese-vs-US-White (or any minority-vs-NHW) all-age IRR
+  could be recovered. The minority populations here (Japanese American, Korean American) are
+  already represented by the AANHPI subgroup cells (Japanese 1.05, Korean 0.68; SEER), so no
+  new cell would arise even if an all-age rate existed. Reason confirms the earlier
+  quant→narrative reclassification. No change to the 78 cells or headline results.
+
+- **rec 155 — Sung et al. 2023, "State Variation in Racial and Ethnic Disparities in
+  Incidence of Triple-Negative Breast Cancer among US Women" (JAMA Oncol; PMID 36862439;
+  USCS 2015–2019).** Full text still not obtained, but this is no longer an unverified gap:
+  the JAMA Oncology **abstract** — captured in the provided search-export CSVs
+  (raw_search/embase, raw_search/scopus) — states the by-race TNBC age-standardized rates
+  verbatim: "highest among Black (25.2), followed by White (12.9), American Indian/Alaska
+  Native (11.2), Hispanic (11.1), and Asian or Pacific Islander (9.0) per 100 000." These
+  match the ledger exactly and reproduce every extracted IRR (Black 25.2/12.9 = 1.95, AI/AN
+  0.86, Hispanic 0.86, Asian/PI 0.70; NHW reference 12.9 directly reported). The ledger's
+  verification field for all four rec 155 rows was changed hand-extracted → **abstract-verified**.
+  Independently corroborated by USCS sibling **rec 209** (Zhang 2022): NHB TNBC IRR 1.95
+  reproduced, NHW-TNBC ≈12.8 identical, Hispanic/Asian-PI within rounding (AI/AN differs on
+  sparse single-year 2019 counts). Point estimates and rates are abstract-sourced; the IRR
+  CIs come from the paper's supplement. Result: the 4 TNBC-by-race representatives stand as
+  reported; no headline change; rec 155 no longer counts as a result-relevant unverified record.
+
+- **rec 310 — Hausauer et al. 2007, "Recent breast cancer trends among Asian/Pacific
+  Islander, Hispanic, and African-American women in the US: changes by tumor subtype" (Breast
+  Cancer Res; bcr1839).** **Confirmed NARRATIVE.** Reports temporal **percent change** in
+  subtype-specific incidence, restricted to women aged 50+; no all-age NHW-comparable IRR.
+- **rec 316 — Lewis et al. 2018, "Early Estimates of Cancer Incidence for 2015: Expanding to
+  Include Estimates for White and Black Races" (Cancer; PMID 29509274).** **Confirmed
+  NARRATIVE.** A SEER delay-adjustment **methodology / early-estimate** paper reporting APC
+  trends (female breast +0.3%/yr) for whites and blacks separately, not a race-comparison IRR;
+  any white–black overall ratio would only overlap the broader-coverage overall NHB cell (0.93).
+- **rec 369 — Shoemaker et al. 2018, "Differences in breast cancer incidence among young women
+  aged 20–49 years..." (Breast Cancer Res Treat; PMID 29445940).** **Confirmed NARRATIVE.**
+  Age-restricted to 20–49; excluded from the all-age synthesis.
+- **rec 377 — Hung et al. 2016, "Racial/ethnicity disparities in invasive breast cancer among
+  younger and older women: an analysis using multiple measures of population health" (Cancer
+  Epidemiol; PMID 27792934).** **Confirmed NARRATIVE.** Age-band restricted (15–44 vs 45–64,
+  no all-age; older group capped at 64) and composite-metric (life expectancy, EYLL, cumulative
+  incidence rate); no all-age age-standardized NHW-comparable incidence rate or ratio.
