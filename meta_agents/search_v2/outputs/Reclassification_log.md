@@ -174,3 +174,38 @@ unobtained result-relevant record.
   receptor-defined subtypes; ILC summarized narratively (ILC mirrors the overall pattern —
   NHW highest, then NHB, then Hispanic — with faster recent increases in NHB and Hispanic
   women). The extractable values are recorded here for transparency. No change to the 78 cells.
+- **rec 510 — Torre et al. 2016, "Cancer Statistics for Asian Americans, Native Hawaiians, and
+  Pacific Islanders, 2016" (CA Cancer J Clin; PMID 26766789).** Confirmed NARRATIVE. An ACS
+  statistics report on NCI/SEER/NPCR data. Its breast-specific result is the AANHPI-aggregate
+  incidence trend (increasing ~1.1%/yr 2003-2012 vs stable NHW rates); the by-AANHPI-subgroup
+  numeric tables it prints are all-sites and lung, not breast, and subgroup breast patterns are
+  described only qualitatively ("higher in Japanese, lower in NHPI"). As an ACS summary of the
+  same SEER data underlying the primary AANHPI-subgroup studies (Gomez/Kwong), any breast value
+  would overlap the existing subgroup representatives. No recoverable new NHW-comparable subgroup
+  breast rate.
+- **rec 516 — Purrington et al. 2023, "The role of area-level socioeconomic disadvantage in
+  racial disparities in cancer incidence in metropolitan Detroit" (Cancer Medicine; PMID
+  37184135).** Confirmed NARRATIVE (deferred overlap). It does report race-vs-NHW breast
+  IRRs - overall NHB vs NHW 0.96 (95% CI 0.92-1.00; rates 165.4 vs 169.8) and a substantially
+  elevated NHB TNBC IRR - but only for metropolitan Detroit (Metro Detroit Cancer Surveillance
+  System, a single regional registry), which overlaps and is narrower than the USCS-national
+  representatives already selected for the overall NHB cell (0.93) and the TNBC NHB cell (1.95);
+  the paper's focus is the Area Deprivation Index. Consistent with, but demoted relative to, the
+  existing national representatives. No new cell.
+- **rec 565 - Hernandez et al. 2017, "Cancer in Guam and Hawaii: A comparison of two U.S. Island
+  populations" (Cancer Epidemiol; PMID 29120826).** Confirmed NARRATIVE. Compares two island
+  registries (Guam vs Hawaii) by ethnicity within the islands; there is no non-Hispanic White /
+  US white reference against which a breast IRR could be recovered.
+- **rec 754 - Gopalani et al. 2024, "Breast cancer incidence and stage at diagnosis in the six
+  US-Affiliated Pacific Islands" (Cancer Epidemiol; PMID 38996557).** Confirmed NARRATIVE.
+  Breast incidence in the six USAPI jurisdictions (Guam, CNMI, American Samoa, FSM, Palau, RMI);
+  these island-territory registries carry no NHW/US-white comparator, so no NHW-referenced IRR
+  is recoverable.
+- **rec 751 - Wingo et al. 2004, "Population-based statistics for women diagnosed with
+  inflammatory breast cancer (United States)" (Cancer Causes Control; PMID 15090727).** Kept
+  NARRATIVE - on scope. It does report race-specific rates (IBC 1.3 per 100,000 all races; Black
+  highest at 1.6, ~20% higher than White; Asian lowest), so a Black-vs-White IBC ratio (~1.2)
+  is computable, but inflammatory breast cancer is a niche clinical/histologic subtype outside
+  the review's receptor-defined molecular-subtype cell set (HR/HER2/TNBC) - the same scope basis
+  on which rec 259 (IBC) and rec 426 (ILC) are kept narrative. Extractable values recorded here
+  for transparency. No new cell.
