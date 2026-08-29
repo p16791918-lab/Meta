@@ -209,3 +209,21 @@ unobtained result-relevant record.
   the review's receptor-defined molecular-subtype cell set (HR/HER2/TNBC) - the same scope basis
   on which rec 259 (IBC) and rec 426 (ILC) are kept narrative. Extractable values recorded here
   for transparency. No new cell.
+- **rec 1398 - Lawrence et al. 2026, "Early-Onset Cancer Incidence Disparities Between Black and
+  White Individuals in the US, 2003-2022" (JAMA Netw Open; PMID 41989785).** Confirmed NARRATIVE.
+  Restricted to early-onset cancer (age-restricted) and framed as a temporal IRR trend; the breast
+  finding is a year-by-year Black-White comparison ("largely no Black-White difference 2013-2019;
+  higher in White women 2021-2022, ages 40-49"), not an all-age NHW-referenced incidence rate ratio.
+- **rec 1101 - Mohamed et al. 2023, "Cancer incidence in the Somali population of Olmsted County:
+  A Rochester epidemiology project study" (Cancer Medicine; PMID 37740603).** Confirmed NARRATIVE.
+  Reports a Somali-vs-non-Somali rate ratio within a single county (Rochester Epidemiology Project);
+  the exposure group (Somali immigrants) is not one of the review's analytic cell groups, the
+  comparator is "non-Somali" Olmsted residents rather than a national NHW rate, and numbers are small.
+  No recoverable NHW-referenced breast IRR for a review cell.
+- **rec 998 - Akinyemiju et al. 2017, "Cancer-related risk factors and incidence of major cancers
+  by race, gender and region; analysis of the NIH-AARP diet and health study" (BMC Cancer; PMID
+  28854891).** Confirmed NARRATIVE. A risk-factor cohort study (NIH-AARP, ages 50-71) reporting
+  hazard ratios for breast cancer by WCRF/AICR adherence (e.g., HR 1.38), with the race contrast
+  described as similar-magnitude associations in African-American vs White participants - not an
+  age-standardized population-based race-vs-NHW incidence rate ratio. Cohort design and HR metric,
+  outside the population-based registry framework of the synthesis.
