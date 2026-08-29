@@ -142,3 +142,22 @@ unobtained result-relevant record.
   Epidemiol; PMID 27792934).** **Confirmed NARRATIVE.** Age-band restricted (15–44 vs 45–64,
   no all-age; older group capped at 64) and composite-metric (life expectancy, EYLL, cumulative
   incidence rate); no all-age age-standardized NHW-comparable incidence rate or ratio.
+- **rec 474 — Sherr et al. 2026, "Persistent poverty and breast cancer incidence by tumor
+  subtype: intersections of rural/urban residence and race within SEER, 2017–2021" (Cancer
+  Causes Control; PMID 41546752).** **Confirmed NARRATIVE.** The contrast is persistent-poverty
+  vs non-poverty counties expressed as subtype **rate differences** (e.g., TNBC RD +3.82),
+  stratified by rurality and *county racial composition* (an ecological stratifier); there is
+  no individual-level race-vs-NHW subtype incidence rate ratio to recover, and the poverty
+  effect was non-significant in multivariable models.
+- **rec 477 — Chanpura 2026, "Spillover effects of public school integration in the southern
+  United States: diverging trends in statewide annual breast cancer incidence, 2001–2019"
+  (Cancer Causes Control; PMID 41649619).** **Confirmed NARRATIVE.** A segmented-regression
+  natural-experiment on incidence **trends** among NHB/NHW birth cohorts (1937–1950) in Missouri
+  vs South Carolina; the estimand is a post-cutoff trend change, not an all-age NHB-vs-NHW
+  incidence rate ratio.
+- **rec 504 — Movsisyan Vernon et al. 2025, "Cancer Incidence and Trends in Persistent Poverty
+  Areas of California by Race/Ethnicity and Sex" (Cancer Medicine; PMID 40736150).** **Confirmed
+  NARRATIVE.** IRRs compare **persistent-poverty areas vs non-PPAs** (a geographic/poverty
+  exposure) within race strata across 16 cancers, not minority-vs-NHW; breast is one site and
+  the reported breast IRR is PPA-vs-nonPPA ("lower in PPAs"). California Cancer Registry only
+  (overlaps the existing CCR representative). No recoverable NHW-comparator breast IRR.
