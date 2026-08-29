@@ -165,6 +165,50 @@ last4 = write_rows(ws, rows, widths, author_cols=acols, example=example, wrapcol
 yn_validator(ws, chr(65 + len(headers) - 3), 3, last4)  # AUTHOR agrees column
 yn_validator(ws, chr(65 + len(headers) - 2), 3, last4, '"Low,Moderate,High"')
 
+# ============================ Sheet 6: full-text reports without a local PDF ============================
+# Every full-text-stage report that has no local PDF, so its include/exclude decision
+# could not be checked against the full text. The author obtains each and confirms or
+# overrides the decision. HIGH = a "not retrieved" exclusion (possible missed study) or
+# a quant estimate extracted without the main PDF; sorted HIGH first.
+ws = wb.create_sheet("6_FullText_ToObtain")
+_pdfs = set(os.path.splitext(os.path.basename(p))[0] for p in
+            __import__("glob").glob(os.path.join(HERE, "fulltext", "*.pdf")))
+_inc = rd("TableS_included_studies.csv")
+_exc = rd("TableS_excluded_fulltext.csv")
+def _risk_inc(g):
+    return {"quant-extracted": "HIGH — extracted without main PDF",
+            "quant-eligible": "MED — eligible, not extracted"}.get(g, "LOW — narrative only")
+def _risk_exc(reason):
+    return {"Full text unavailable": "HIGH — not retrieved (possible missed study)",
+            "Did not report the outcome of interest": "MED — excluded without full text",
+            "Ineligible population": "LOW",
+            "Overlapping or duplicate dataset": "LOW — metadata-defensible"}.get(reason, "?")
+frows = []
+for r in _inc:
+    if r["record_id"] not in _pdfs:
+        frows.append([r["record_id"], "INCLUDED (%s)" % r.get("synth_group", ""),
+                      r.get("citation", ""), r.get("pmid", ""), r.get("doi", ""),
+                      _risk_inc(r.get("synth_group", "")), "", "", ""])
+for r in _exc:
+    if r["record_id"] not in _pdfs:
+        frows.append([r["record_id"], "EXCLUDED (%s)" % r["exclusion_reason"],
+                      r.get("citation", "") or r.get("detail", ""), r.get("pmid", ""),
+                      r.get("doi", ""), _risk_exc(r["exclusion_reason"]), "", "", ""])
+frows.sort(key=lambda x: (0 if x[5].startswith("HIGH") else 1 if x[5].startswith("MED") else 2))
+headers = ["record_id", "Current decision (AI)", "Citation / title", "PMID", "DOI", "Risk",
+           "AUTHOR obtained full text? (Yes/No)", "AUTHOR final decision (Include/Exclude)",
+           "AUTHOR note"]
+ws.append(headers); style_header(ws, len(headers))
+example = ["e.g. 2038", "EXCLUDED (Full text unavailable)", "Incidence trends in TNBC...", "",
+           "", "HIGH — not retrieved (possible missed study)", "Yes", "Exclude", "overlaps Sung 2023"]
+last6 = write_rows(ws, frows, [10, 26, 46, 11, 22, 30, 16, 16, 26],
+                   author_cols=[6, 7, 8], example=example, wrapcols=(2, 5, 8))
+yn_validator(ws, "G", 3, last6)
+yn_validator(ws, "H", 3, last6, '"Include,Exclude"')
+ws.cell(row=1, column=6).comment = Comment("HIGH: a 'not retrieved' exclusion (a study we could "
+    "not obtain, so eligibility is unconfirmed — the main risk of a missed study) or a quantitative "
+    "estimate extracted without the main PDF. Obtain these first.", "validation")
+
 # ============================ Sheet 5: Summary (agreement rates) ============================
 ws = wb.create_sheet("5_Summary", 0)  # place first
 ws.sheet_view.showGridLines = False
@@ -194,6 +238,11 @@ rowspec = [
     ("  Author reviewed", "=COUNTIF('4_RoB_Review'!P3:P400,\"Yes\")+COUNTIF('4_RoB_Review'!P3:P400,\"No\")", None),
     ("  Author agrees (Yes)", "=COUNTIF('4_RoB_Review'!P3:P400,\"Yes\")", None),
     ("  RoB agreement rate", '=IFERROR(B21/B20,"")', "0.0%"),
+    ("Full-text reports to obtain (Sheet 6)", None, None),
+    ("  Reports without local PDF", "=COUNTA('6_FullText_ToObtain'!A3:A400)", None),
+    ("  HIGH-risk (obtain first)", "=COUNTIF('6_FullText_ToObtain'!F3:F400,\"HIGH*\")", None),
+    ("  Author obtained", "=COUNTA('6_FullText_ToObtain'!G3:G400)", None),
+    ("  Obtained rate", '=IFERROR(B26/B24,"")', "0.0%"),
 ]
 r0 = 3
 for i, (label, formula, numfmt) in enumerate(rowspec):
@@ -229,6 +278,9 @@ lines = [
     ("Sheet 3 — Extraction verification (147 estimates): open each source at the listed location and confirm", 10, True, None),
     ("        the extracted numbers (col K); enter a correction if any value is wrong (col L).", 10, False, None),
     ("Sheet 4 — Risk of bias review (43 studies): confirm or override each JBI rating (cols P–Q).", 10, True, None),
+    ("Sheet 6 — Full-text to obtain (90 reports with no local PDF): obtain each and confirm/override the", 10, True, None),
+    ("        include/exclude decision (cols G–H). HIGH-risk rows first — these are studies we could not", 10, False, None),
+    ("        retrieve, the main place an eligible study could have been missed.", 10, False, None),
     ("Sheet 5 — Summary: agreement rates, computed automatically. Nothing to fill here.", 10, True, None),
     ("", 10, False, None),
     ("Row 2 of each sheet is a grey EXAMPLE row showing the expected format — delete it before finalizing.", 10, False, "C00000"),
