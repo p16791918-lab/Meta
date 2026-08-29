@@ -32,5 +32,5 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 43 extracted studies contributed 144 estimates; 28 studies supplied at
+- The 43 extracted studies contributed 143 estimates; 26 studies supplied at
   least one main-analysis representative.
