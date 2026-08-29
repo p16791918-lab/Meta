@@ -227,3 +227,8 @@ unobtained result-relevant record.
   described as similar-magnitude associations in African-American vs White participants - not an
   age-standardized population-based race-vs-NHW incidence rate ratio. Cohort design and HR metric,
   outside the population-based registry framework of the synthesis.
+- **rec 1637 - Cancer Incidence in HCHS/SOL (Onco-SOL Ancillary Study), 2025 (Cancer Epidemiol
+  Biomarkers Prev; PMID 39808161).** Author confirmed unobtainable. Already documented as
+  narrative on independent grounds: a cohort study disaggregating Hispanic heritage groups whose
+  comparator is other heritage groups, not a non-Hispanic White reference - no recoverable
+  NHW-referenced breast IRR. narrative-only; no quant impact; no effect on the 78 cells.
