@@ -161,3 +161,16 @@ unobtained result-relevant record.
   exposure) within race strata across 16 cancers, not minority-vs-NHW; breast is one site and
   the reported breast IRR is PPA-vs-nonPPA ("lower in PPAs"). California Cancer Registry only
   (overlaps the existing CCR representative). No recoverable NHW-comparator breast IRR.
+- **rec 426 — Quinn et al. 2025, "Trends in Incidence of Invasive Lobular Carcinoma of the
+  Breast by Race... United States, 1992–2019" (Clin Breast Cancer; PMID 39837694; SEER 12).**
+  **Kept NARRATIVE — on scope, not on data availability.** Unlike the other narrative records,
+  this paper *does* report all-age, age-adjusted, NHW-comparable rates: overall ILC incidence
+  NHW 13.52, NHB 8.60, Hispanic 7.52 per 100 000 (Table 1), which would give ILC IRRs of
+  NHB 8.60/13.52 = 0.64 and Hispanic 7.52/13.52 = 0.56 (no Asian/PI or AI/AN reported; only
+  three groups, 56,540 cases). It is kept narrative because **invasive lobular carcinoma is a
+  histologic subtype, outside the review's receptor-defined molecular-subtype cell set
+  (HR/HER2/TNBC)** — adding it would open a new histologic dimension rather than fill an
+  existing analytic cell. Author decision (this session): keep the subtype axis limited to
+  receptor-defined subtypes; ILC summarized narratively (ILC mirrors the overall pattern —
+  NHW highest, then NHB, then Hispanic — with faster recent increases in NHB and Hispanic
+  women). The extractable values are recorded here for transparency. No change to the 78 cells.
