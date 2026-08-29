@@ -171,8 +171,9 @@ yn_validator(ws, chr(65 + len(headers) - 2), 3, last4, '"Low,Moderate,High"')
 # overrides the decision. HIGH = a "not retrieved" exclusion (possible missed study) or
 # a quant estimate extracted without the main PDF; sorted HIGH first.
 ws = wb.create_sheet("6_FullText_ToObtain")
-_pdfs = set(os.path.splitext(os.path.basename(p))[0] for p in
-            __import__("glob").glob(os.path.join(HERE, "fulltext", "*.pdf")))
+import re as _re
+_pdfs = set(_re.sub(r"_supp(l(ement)?)?$", "", os.path.splitext(os.path.basename(p))[0])
+            for p in __import__("glob").glob(os.path.join(HERE, "fulltext", "*.pdf")))
 _inc = rd("TableS_included_studies.csv")
 _exc = rd("TableS_excluded_fulltext.csv")
 def _risk_inc(g):

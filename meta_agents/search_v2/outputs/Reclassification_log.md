@@ -240,8 +240,11 @@ unobtained result-relevant record.
 ## FINAL STATUS - all obtainable full texts read; remaining records are genuinely unobtainable
 The author has now retrieved every full text that could be found. The 17 reports still without a
 local PDF are all non-result-bearing:
-- **1 quant (rec 155)** - already **abstract-verified** (JAMA Oncol abstract in the provided
-  search CSVs reproduces every by-race TNBC rate and IRR exactly), so its four representatives stand.
+- **1 quant (rec 155)** - now **directly source-verified**: the author supplied the full text and
+  Supplement 1, whose eTable 1 "Total" (national) row reports the between-group TNBC IRRs with CIs
+  verbatim - Black 1.95 (1.93-1.98), AI/AN 0.86 (0.80-0.93), Hispanic 0.86 (0.84-0.88), Asian/PI
+  0.70 (0.68-0.72) - matching all four ledger representatives exactly (rates, IRRs, and CIs). The
+  `directly-reported-IRR` provenance is confirmed; verification field updated to source-verified-eTable1.
 - **4 narrative (rec 80, 402, 1637, 1800)** - each has a documented reason and none yields a
   recoverable all-age NHW-referenced breast IRR (generational/heritage/rural comparators or
   region-only), so none is a quant candidate.
