@@ -52,13 +52,19 @@ it would only add a non-independent overlap to the sensitivity pool (no new cell
 - **rec 259 — inflammatory breast carcinoma by race, SEER.** A niche subtype outside the
   HR/HER2/TNBC set; no new receptor-defined cell.
 
-## Still not obtained (author could not retrieve)
-- **rec 155 — Sung 2023, "State Variation in Racial/Ethnic Disparities in TNBC Incidence"
-  (USCS).** quant-extracted; the only main representative whose values remain unverified
-  (TNBC IRRs: Black 1.95, AANHPI 0.70, AI/AN 0.86, Hispanic 0.86). Needs the full
-  text (a 155_supple file exists but does not contain these values).
-- **rec 80 — Filipino breast/colorectal/prostate incidence.** narrative; no quant impact.
-- **rec 402 — Disparities in breast cancer incidence/mortality/quality.** narrative; no quant impact.
+## Still not obtained (author could not retrieve) — RESOLVED: none is result-relevant
+- **rec 155 — Sung 2023 (USCS TNBC).** Full text not retrieved, but the by-race TNBC rates
+  are stated verbatim in the JAMA Oncology abstract (in the provided search-export CSVs) and
+  match the ledger exactly, so all four IRRs are **abstract-verified** (see the entry above);
+  no longer an unverified record.
+- **rec 80 — Filipino breast/colorectal/prostate incidence.** narrative; author confirmed
+  unobtainable; no quant impact.
+- **rec 402 — Disparities in breast cancer incidence/mortality/quality.** narrative; author
+  confirmed unobtainable; no quant impact.
+
+With rec 155 abstract-verified and rec 80 / 402 confirmed narrative-only, **no unobtained
+full-text report affects any of the 78 cells or the headline results.** The remaining
+unobtained records (workbook Sheet 6) are all narrative-only or already-excluded.
 
 ## Net effect on the analysis
 No new main-analysis cell is created by the 17 files. The 78 cells, the headline
