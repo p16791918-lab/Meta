@@ -232,3 +232,23 @@ unobtained result-relevant record.
   narrative on independent grounds: a cohort study disaggregating Hispanic heritage groups whose
   comparator is other heritage groups, not a non-Hispanic White reference - no recoverable
   NHW-referenced breast IRR. narrative-only; no quant impact; no effect on the 78 cells.
+- **rec 1800 - "Rural-Urban Cancer Incidence and Trends in the United States, 2000 to 2019"
+  (Cancer Epidemiol Biomarkers Prev; PMID 38801414; SEER 22).** Author confirmed unobtainable
+  (supplementary table only). Already narrative on independent grounds: the contrast is
+  rural-urban, not race-vs-NHW, and it overlaps the existing rural/urban records. No quant impact.
+
+## FINAL STATUS - all obtainable full texts read; remaining records are genuinely unobtainable
+The author has now retrieved every full text that could be found. The 17 reports still without a
+local PDF are all non-result-bearing:
+- **1 quant (rec 155)** - already **abstract-verified** (JAMA Oncol abstract in the provided
+  search CSVs reproduces every by-race TNBC rate and IRR exactly), so its four representatives stand.
+- **4 narrative (rec 80, 402, 1637, 1800)** - each has a documented reason and none yields a
+  recoverable all-age NHW-referenced breast IRR (generational/heritage/rural comparators or
+  region-only), so none is a quant candidate.
+- **12 excluded (rec 157, 253, 415, 424, 428, 476, 2038, 3116, 3268 full text unavailable;
+  251 outcome; 2163, 3713 overlapping dataset)** - never part of the quantitative results.
+
+Net conclusion of the full-text verification loop: **every representative in the 78 analytic
+cells is verified against a source (full text or, for rec 155, its abstract); every included
+record's narrative-vs-quantitative classification has a source-grounded reason on file; and no
+unobtained report affects the 78 cells or the headline results.**
