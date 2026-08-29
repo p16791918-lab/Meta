@@ -98,10 +98,9 @@ Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and indiv
 registries cover overlapping regions and diagnosis periods, the same women can appear in more
 than one study; estimates from different publications that draw on the same or nested registry
 populations are therefore not statistically independent. Rather than pool such non-independent
-estimates, the analytic unit was the **cell** defined by each racial or ethnic group crossed with
-each analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity),
-and one **representative population-based estimate** (a contemporary benchmark) was selected for each
-cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
+estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
+analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity)—and one
+**representative population-based estimate** (a contemporary benchmark) was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then the most
@@ -165,8 +164,8 @@ between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Result
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates within each cell, 80 representative estimates (one
-per racial or ethnic group × analytic dimension) remained; all are listed in Supplementary Table 4,
+overlapping registry-family estimates, 80 representative estimates remained, one per analytic
+cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
 shown in Table 1. The reference group was non-Hispanic White in most studies and

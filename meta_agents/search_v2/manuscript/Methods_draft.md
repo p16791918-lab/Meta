@@ -62,10 +62,9 @@ Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and indiv
 registries cover overlapping regions and diagnosis periods, the same women can appear in more
 than one study; estimates from different publications that draw on the same or nested registry
 populations are therefore not statistically independent. Rather than pool such non-independent
-estimates, the analytic unit was the **cell** defined by each racial or ethnic group crossed with
-each analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity),
-and one **representative population-based estimate** (a contemporary benchmark) was selected for each
-cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
+estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
+analytic dimension (overall incidence, a receptor-defined subtype, an age band, or nativity)—and one
+**representative population-based estimate** (a contemporary benchmark) was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then the most
