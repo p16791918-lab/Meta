@@ -64,3 +64,24 @@ it would only add a non-independent overlap to the sensitivity pool (no new cell
 No new main-analysis cell is created by the 17 files. The 78 cells, the headline
 results, and all crosschecks are unchanged. The uploads (a) verified rec 286 and
 (b) confirmed the narrative/deferred classifications with source-grounded reasons.
+
+## Second batch of author-supplied PDFs (GitHub uploads, ~56 files)
+After these uploads, study PDFs = 208 / 242 full-text reports; 34 remain unobtained
+(only **rec 155**, quant-extracted TNBC, is result-relevant — the rest are narrative
+or already-excluded). The 4 quant-eligible (rec 209/419/2137/4027) now have PDFs.
+
+Newly obtained narrative records scanned for a narrative→quantitative upgrade — **none
+upgraded** (each lacks a recoverable all-age NHW-comparable incidence rate/ratio):
+- **rec 1453** — cancer statistics/screening report: percentages (screening, insurance),
+  not incidence rates. Narrative.
+- **rec 1457, 4082** — secondary statistics syntheses; APC/PIR-dominant. Narrative.
+- **rec 1629, 4043, 4294** — non-U.S. or cross-national comparison content. Narrative/ineligible.
+- **rec 2440** — Alaska EARTH cohort, risk-factor focus; no race-vs-NHW breast incidence rate. Narrative.
+- **rec 2453** — young women 20–49 only (age-restricted); excluded from the all-age synthesis. Narrative.
+- **rec 3845** — Arab American *inflammatory* breast cancer (a subtype outside the HR/HER2/TNBC
+  cell set); reports ages/proportions, not an IBC incidence rate vs NHW. Narrative.
+- **rec 4389, 4429** — Middle Eastern immigrants by generation, **PIR** (proportional
+  incidence ratio) metric, overlapping rec 587; PIR is not an incidence rate ratio. Narrative.
+
+Net: no new cell; 78 cells and headline results unchanged. Only rec 155 remains an
+unobtained result-relevant record.
