@@ -87,8 +87,6 @@ One estimate per registry family; not pooled across groups.
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
 | Japanese | 1.030 | 1.025-1.035 | 161 |
 | Native Hawaiian | 1.120 | 1.105-1.135 | 161 |
-| Vietnamese | 1.390 | 1.118-1.728 | 324 |
-| South Asian | 1.480 | 1.293-1.694 | 324 |
 
 **subtype-HRpos-HER2pos**
 
