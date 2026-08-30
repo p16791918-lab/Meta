@@ -64,14 +64,14 @@ def main():
 
     box(ax, lmx, 7.5, lmw, 0.9, "Reports sought for retrieval\n(n = 242)")
     arrow(ax, lmx + lmw / 2, 9.5, lmx + lmw / 2, 8.4)
-    box(ax, lex, 7.55, lew, 0.8, "Reports not retrieved\n(n = 0)")
+    box(ax, lex, 7.55, lew, 0.8, "Reports not retrieved (n = 9):\nfull text unavailable (n = 9)")
     arrow(ax, lmx + lmw, 7.95, lex, 7.95)
 
-    box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 242)")
+    box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 233)")
     arrow(ax, lmx + lmw / 2, 7.5, lmx + lmw / 2, 6.3)
     box(ax, lex, 4.7, lew, 1.7,
-        "Reports excluded (n = 80):\noverlapping / duplicate dataset (n = 55);\n"
-        "did not report eligible outcome (n = 12);\nfull text unavailable (n = 9);\n"
+        "Reports excluded (n = 71):\noverlapping / duplicate dataset (n = 55);\n"
+        "did not report eligible outcome (n = 12);\n"
         "ineligible population (n = 3);\npreprint, not peer-reviewed (n = 1)")
     arrow(ax, lmx + lmw, 5.85, lex, 5.85)
 

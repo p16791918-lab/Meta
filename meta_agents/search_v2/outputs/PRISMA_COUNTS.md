@@ -13,11 +13,13 @@
 - Records screened (title/abstract): 4,793
 - Records excluded: 4,551
 - Reports sought for retrieval: 242
-- Reports not retrieved: 0 (all 242 assessed at full text; see note below)
+- Reports not retrieved: 9 (full text unavailable — records 157, 253, 415, 424, 428, 476,
+  2038, 3116, 3268; sought but could not be obtained, so not assessable)
 
 ## Eligibility
-- Reports assessed for eligibility (full text): 242
-- Reports excluded: 80 (reasons in `TableS_excluded_fulltext.csv`)
+- Reports assessed for eligibility (full text): 233
+- Reports excluded: 71 (reasons in `TableS_excluded_fulltext.csv`): overlapping/duplicate
+  dataset 55; did not report eligible outcome 12; ineligible population 3; preprint 1
 
 ## Included
 - Studies included in review: 162

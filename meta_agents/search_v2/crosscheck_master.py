@@ -225,12 +225,18 @@ def check_D():
 # --------------------------------------------------------------------------- E
 def canonical_counts():
     """Recompute the study/estimate counts the manuscript reports, from the data."""
-    dec = [r.get("ft_decision", "").strip()
-           for r in csv.DictReader(open(ELIG, encoding="utf-8"))]
+    erows = list(csv.DictReader(open(ELIG, encoding="utf-8")))
+    dec = [r.get("ft_decision", "").strip() for r in erows]
     quant = dec.count("include-quant")
     narrative = dec.count("include-narrative")
     excluded = dec.count("exclude")
     included = quant + narrative
+    # PRISMA retrieval step: reports whose full text could not be obtained are
+    # "not retrieved", not "excluded at eligibility" (they were never assessable).
+    not_retrieved = sum(1 for r in erows if r.get("ft_decision") == "exclude"
+                        and "unavailable" in r.get("ft_reason", "").lower())
+    excluded_elig = excluded - not_retrieved          # excluded after assessment
+    assessed = included + excluded_elig               # = 242 - not_retrieved
     led = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
            if r["record_id"] != "SEER-EXPL"]
     studies = len(set(r["record_id"] for r in led))
@@ -240,7 +246,9 @@ def canonical_counts():
     cells = len(rep_rows)
     reps = len(set(r["record_id"] for r in rep_rows))
     return {"included": included, "quant": quant, "narrative": narrative,
-            "excluded": excluded, "studies": studies, "estimates": estimates,
+            "excluded": excluded, "not_retrieved": not_retrieved,
+            "excluded_elig": excluded_elig, "assessed": assessed,
+            "studies": studies, "estimates": estimates,
             "cells": cells, "reps": reps}
 
 
@@ -258,9 +266,14 @@ def check_E():
         ("prisma_flow.py", r"(\d+) eligible \(\d+ with extractable", "quant"),
         ("prisma_flow.py", r"\d+ eligible \((\d+) with extractable", "studies"),
         ("prisma_flow.py", r"Narrative synthesis only: (\d+)", "narrative"),
-        ("prisma_flow.py", r"Reports excluded \(n = (\d+)\)", "excluded"),
+        ("prisma_flow.py", r"Reports not retrieved \(n = (\d+)\)", "not_retrieved"),
+        ("prisma_flow.py", r"Reports assessed for eligibility\\n\(n = (\d+)\)", "assessed"),
+        ("prisma_flow.py", r"Reports excluded \(n = (\d+)\)", "excluded_elig"),
         ("prisma_flow.py", r"(\d+) estimates;", "estimates"),
         ("prisma_flow.py", r"estimates; (\d+) supplied a main-analysis", "reps"),
+        ("outputs/PRISMA_COUNTS.md", r"Reports not retrieved: (\d+)", "not_retrieved"),
+        ("outputs/PRISMA_COUNTS.md", r"assessed for eligibility \(full text\): (\d+)", "assessed"),
+        ("outputs/PRISMA_COUNTS.md", r"Reports excluded: (\d+)", "excluded_elig"),
         ("outputs/PRISMA_COUNTS.md", r"contributed (\d+) estimates", "estimates"),
         ("outputs/PRISMA_COUNTS.md", r"estimates; (\d+) studies supplied", "reps"),
     ]

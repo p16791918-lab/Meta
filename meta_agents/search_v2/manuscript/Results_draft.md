@@ -11,8 +11,8 @@ unstratified White reference) or noted as a standardized incidence ratio (SIR).
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was assessed for 242 reports, of which 80
-were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
+records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
+retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis: 43 provided extractable estimates (143 individual estimates across
 racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
 eligible but their rate table could not be obtained and each overlapped a study already
