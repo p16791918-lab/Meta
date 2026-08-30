@@ -61,11 +61,24 @@
 - [x] "aggregate categories conceal heterogeneity" 반복 감소 (문단별 1회 수준)
 - [x] registry overlap·representative selection·comparator harmonization·provenance를 방법 기여로 집약
 
-## 11. 시각화 강화
-- [x] Figure 2: broad category 대표 + 세부 subgroup 추정치 + **95% CI 함께** (AANHPI forest) — aggregate가 이질성을 가림을 직관 표시
-- [x] group × analytic-dimension **heatmap** 존재 (overall/age/subtype/TNBC 교차, NHW=1.0 발산 컬러)
-- [x] 별도 main **Table 2 없음** — Table 1만 유지("Supplementary Table 2"만 존재), Fig 2 중복 회피
-- [~] **번호 차이**: 교수님 제안은 heatmap=Figure 3이나, 현재 heatmap=**Figure 4**이고 Figure 3은 aggregate/AI-AN/ME overview forest. 핵심 요구(subgroup+CI forest, heatmap, Table 1 유지, Table 2 없음)는 충족. 저자 판단: heatmap을 Figure 3으로 승격하고 overview forest를 재배치할지 선택 가능.
+## 11. 시각화 강화  (교수님 예시 그림 첨부 — `Advice/Feedback3_ExampleFig2_forest.png`, `Advice/Feedback3_ExampleFig3_heatmap.png`)
+- [x] aggregate 대표 + subgroup + **95% CI 함께** 제시하는 forest 존재
+- [x] group × analytic-dimension **heatmap** 존재 (NHW=1.0 발산 컬러, blank=대표값 없음)
+- [x] 별도 main **Table 2 없음** — Table 1만 유지, Fig와 중복 회피
+
+**예시 그림 대조 (illustrative template — 값은 예시):**
+
+| 교수님 예시 | 현재 원고 | 정합 |
+|---|---|---|
+| **Example Fig 2 (forest)**: AANHPI + Hispanic/Latina + AI/AN을 **한 그림에** aggregate diamond→subgroup+CI | Fig 2 = AANHPI만 (aggregate+subgroup+CI); Hispanic-origin·AI/AN-region은 **Fig 3(overview)에 분리**되어 aggregate·Middle Eastern과 혼재 | `[~]` 구조 다름 — 예시는 세 disaggregatable 카테고리를 한 forest로 통합 |
+| **Example Fig 3 (heatmap)**: group×dim, 열=Overall/Age<50/HR−/HR+/HR+HER2−/HR+HER2+/TNBC | Fig 4 = heatmap, 차원 더 많음(age-ge/lt·nativity·ER/PR·MENA 포함), 번호=4 | `[~]` 번호(4→3)·열 큐레이션 차이 |
+
+**정합을 위해 필요한 작업(저자 결정 사항):**
+1. **Figure 2 통합**: 현재 Fig 2(AANHPI) + Fig 3의 Hispanic-origin·AI/AN-region 행을 합쳐 예시처럼 "aggregate→disaggregated" 단일 forest로. NHB(하위집단 없음)·Middle Eastern은 별도 소패널 또는 heatmap에만.
+2. **heatmap을 Figure 3으로 승격**(현재 Fig 4), 열을 예시처럼 대표 차원으로 큐레이션(Overall, Age<50, HR−, HR+, HR+/HER2−, HR+/HER2+, TNBC).
+3. 그림 번호 재정렬(Fig 1 PRISMA → Fig 2 통합 forest → Fig 3 heatmap).
+
+> 참고: 현재 Fig 2(AANHPI)의 값·마커·CI 라벨 구조는 예시 Fig 2의 AANHPI 블록과 사실상 동일(0.769/0.164/0.264/…). 즉 **스타일은 이미 일치**하며, 남은 것은 (a) Hispanic·AI/AN을 같은 forest로 통합할지, (b) heatmap 번호·열 큐레이션 정도.
 
 ---
 

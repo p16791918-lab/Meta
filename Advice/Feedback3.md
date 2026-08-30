@@ -34,3 +34,11 @@ AI/AN 결과에 대한 해석은 main-analysis selection rule과 일치하도록
 
 ## 11. 시각화 강화 (pooled 대신 synthesis 시각화)
 본 연구는 전통적인 의미의 메타분석보다는 systematic review with quantitative synthesis의 성격이 강하므로, pooled effect를 제시하는 방식보다는 synthesis의 결과를 여러 형태로 시각화하여 연구의 강점을 부각하는 것이 좋겠습니다. 예를 들어 Figure 2에서는 broad racial/ethnic category의 대표 추정치와 세부 subgroup별 추정치 및 95% 신뢰구간을 함께 제시하여 aggregate category가 내부의 큰 이질성을 가릴 수 있음을 직관적으로 보여줄 수 있습니다. 또한 Figure 3에서는 racial/ethnic group과 analytic dimension(overall incidence, age group, receptor-defined subtype, TNBC 등)을 교차한 heatmap을 제시하여 동일한 집단에서도 분석 차원에 따라 상대적 incidence pattern이 달라질 수 있음을 보여주면 본 연구의 novelty가 더욱 분명해질 것으로 생각됩니다. 반면 별도의 Table 2에서 aggregate와 subgroup range를 다시 요약하는 것은 Figure 2와 내용이 상당 부분 중복될 수 있으므로, 현재의 Table 1을 주요 수치 확인용 표로 유지하고 Figure 2와 Figure 3을 중심으로 결과의 시각적 synthesis를 강화하는 방향이 더 효율적일 것으로 보입니다.
+
+---
+
+## 항목 11 예시 그림 (교수님 첨부)
+- `Advice/Feedback3_ExampleFig2_forest.png` — "Aggregate-to-disaggregated heterogeneity with 95% CI": AANHPI·Hispanic/Latina·AI/AN을 **한 forest에** 각 aggregate diamond + subgroup + 95% CI로 제시.
+- `Advice/Feedback3_ExampleFig3_heatmap.png` — "Incidence heterogeneity across groups and analytic dimensions": group(행) × analytic dimension(열: Overall, Age <50, HR−, HR+, HR+/HER2−, HR+/HER2+, TNBC) heatmap. Blank = 대표값 없음.
+
+두 그림은 illustrative template(값은 예시). 현재 원고의 Figure 2(AANHPI forest)·Figure 3(overview forest)·Figure 4(heatmap)와의 정합은 `outputs/Feedback3_checklist.md` 항목 11 참조.
