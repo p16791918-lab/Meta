@@ -42,6 +42,7 @@ OUT = os.path.join(HERE, "outputs")
 LEDGER = os.path.join(HERE, "breast_extraction.csv")
 ELIG = os.path.join(HERE, "ft_eligibility.csv")
 REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
+ROB = os.path.join(OUT, "TableS_risk_of_bias.csv")
 MAN = os.path.join(HERE, "manuscript")
 Z = 1.959963984540054  # norm.ppf(0.975)
 
@@ -245,11 +246,18 @@ def canonical_counts():
                 if r["main_analysis"].startswith("yes")]
     cells = len(rep_rows)
     reps = len(set(r["record_id"] for r in rep_rows))
+    # Risk of bias: JBI overall ratings on the extracted studies
+    rob = {"Low": 0, "Moderate": 0, "High": 0}
+    if os.path.exists(ROB):
+        for r in csv.DictReader(open(ROB, encoding="utf-8")):
+            rob[r.get("Overall_RoB", "")] = rob.get(r.get("Overall_RoB", ""), 0) + 1
     return {"included": included, "quant": quant, "narrative": narrative,
             "excluded": excluded, "not_retrieved": not_retrieved,
             "excluded_elig": excluded_elig, "assessed": assessed,
             "studies": studies, "estimates": estimates,
-            "cells": cells, "reps": reps}
+            "cells": cells, "reps": reps,
+            "rob_low": rob["Low"], "rob_moderate": rob["Moderate"],
+            "rob_total": rob["Low"] + rob["Moderate"] + rob["High"]}
 
 
 def check_E():
@@ -286,6 +294,9 @@ def check_E():
         ("Results_draft.md", r"\((\d+)\s+individual estimates", "estimates"),
         ("Results_draft.md", r"remaining\s+(\d+)\s+informed the narrative", "narrative"),
         ("Results_draft.md", r"(\d+)\s+representative estimates", "cells"),
+        ("Results_draft.md", r"(\d+) of the \d+ studies were at low risk", "rob_low"),
+        ("Results_draft.md", r"of the (\d+) studies were at low risk", "rob_total"),
+        ("Results_draft.md", r"and (\d+) at moderate risk", "rob_moderate"),
         ("Methods_draft.md", r"(\d+)\s*\n?\s*publications were included", "included"),
         ("Methods_draft.md", r"(\d+)\s+were eligible for quantitative", "quant"),
         ("Methods_draft.md", r"remaining\s+(\d+)\s+informed the", "narrative"),
