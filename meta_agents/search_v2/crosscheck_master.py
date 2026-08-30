@@ -229,15 +229,19 @@ def canonical_counts():
            for r in csv.DictReader(open(ELIG, encoding="utf-8"))]
     quant = dec.count("include-quant")
     narrative = dec.count("include-narrative")
+    excluded = dec.count("exclude")
     included = quant + narrative
     led = [r for r in csv.DictReader(open(LEDGER, encoding="utf-8"))
            if r["record_id"] != "SEER-EXPL"]
     studies = len(set(r["record_id"] for r in led))
     estimates = sum(1 for r in led if "young" not in r["minority_group"].lower())
-    cells = sum(1 for r in csv.DictReader(open(REPS, encoding="utf-8"))
-                if r["main_analysis"].startswith("yes"))
+    rep_rows = [r for r in csv.DictReader(open(REPS, encoding="utf-8"))
+                if r["main_analysis"].startswith("yes")]
+    cells = len(rep_rows)
+    reps = len(set(r["record_id"] for r in rep_rows))
     return {"included": included, "quant": quant, "narrative": narrative,
-            "studies": studies, "estimates": estimates, "cells": cells}
+            "excluded": excluded, "studies": studies, "estimates": estimates,
+            "cells": cells, "reps": reps}
 
 
 def check_E():
@@ -245,6 +249,21 @@ def check_E():
     asserts for a canonical quantity must match the value recomputed from data.
     Each pattern captures the number the prose states next to a fixed phrase."""
     c = canonical_counts()
+    # (base_dir, file, regex with one capture group, canonical key)
+    # The PRISMA flow figure and its count sheet carry the same numbers as hard-coded
+    # literals; probe them too so the figure cannot drift from the ledger unnoticed
+    # (this is exactly the gap that let "144 estimates / 28 representatives" go stale).
+    here_probes = [
+        ("prisma_flow.py", r"Studies included in the review \(n = (\d+)\)", "included"),
+        ("prisma_flow.py", r"(\d+) eligible \(\d+ with extractable", "quant"),
+        ("prisma_flow.py", r"\d+ eligible \((\d+) with extractable", "studies"),
+        ("prisma_flow.py", r"Narrative synthesis only: (\d+)", "narrative"),
+        ("prisma_flow.py", r"Reports excluded \(n = (\d+)\)", "excluded"),
+        ("prisma_flow.py", r"(\d+) estimates;", "estimates"),
+        ("prisma_flow.py", r"estimates; (\d+) supplied a main-analysis", "reps"),
+        ("outputs/PRISMA_COUNTS.md", r"contributed (\d+) estimates", "estimates"),
+        ("outputs/PRISMA_COUNTS.md", r"estimates; (\d+) studies supplied", "reps"),
+    ]
     # (file, regex with one capture group, canonical key)
     probes = [
         ("Results_draft.md", r"(\d+)\s+included studies", "included"),
@@ -261,8 +280,10 @@ def check_E():
         ("Abstract_draft.md", r"and\s+(\d+)\s+narrative", "narrative"),
     ]
     fails, checked = [], 0
-    for fn, pat, key in probes:
-        p = os.path.join(MAN, fn)
+    all_probes = [(os.path.join(MAN, fn), pat, key) for fn, pat, key in probes] + \
+                 [(os.path.join(HERE, fn), pat, key) for fn, pat, key in here_probes]
+    for p, pat, key in all_probes:
+        fn = os.path.basename(p)
         if not os.path.exists(p):
             continue
         text = " ".join(open(p, encoding="utf-8").read().split())  # normalise wraps
