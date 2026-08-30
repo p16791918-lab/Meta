@@ -21,7 +21,7 @@ PubMed/MEDLINE, Embase, Scopus, Web of Science Core Collection 포함(스크리�
 ### 3. PRISMA flowchart
 예시 논문과 PRISMA 2020 형식으로 재작성.
 
-**반영.** PRISMA 2020 흐름도(Figure 1): 9,099 → 중복 4,306 → 4,793 스크리닝 → 242 전문 → 79 제외 → 163 포함.
+**반영.** PRISMA 2020 흐름도(Figure 1): 9,099 → 중복 4,306 → 4,793 스크리닝 → 242 확보시도 → 9 미확보(not retrieved) → 233 평가 → 71 제외 → 162 포함. (미확보 9건을 PRISMA 논리대로 'not retrieved' 칸으로 분리; estimates 143·대표공급 26편으로 정정.)
 
 ### 4. Risk of bias
 예시 논문의 평가도구·항목·그림 형식 참고해 재정리(가능하면 AI로 하고 일부만 확인).
@@ -55,17 +55,17 @@ race/ethnicity의 causal effect가 아니라 population-based incidence를 기�
 ### 2. Risk of bias 도구 재정비(NOS → JBI)
 adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/incidence용 도구로. "AI-generated first pass" 문구 삭제. 최소 2인 독립 수행 + consensus/third reviewer로 Methods 기술.
 
-**반영.** JBI 9문항 적용(37 Low/6 Moderate/0 High). "AI-generated first pass" 0건. Methods에 2인 독립 + consensus/third reviewer 기술. **실제 2인 수행은 저자 조치 필요**(체크리스트).
+**반영(수정됨).** JBI 9문항 적용(37 Low/6 Moderate/0 High). "AI-generated first pass" 0건. 리뷰어 문안은 **3차 피드백 #4에 따라 실제 프로세스대로 재작성**: 제목·초록은 AI가 선별(저자가 제외 표본 재검증), **전문 포함판정은 저자가 직접 수행**, 추출값은 저자가 원문 대조 검증, RoB는 저자(단일)+AI. 2차의 "2인 독립+제3자" 문안은 실제와 달라 철회하고 **단일 리뷰어+AI를 한계로 명시**(Methods·Discussion). ⚠️ 이 항목만 2차 문안과 의도적으로 다름 — 제2 독립 리뷰어를 실제 투입하면 문구·일치율 갱신 필요.
 
 ### 3. 포함 논문 수 명확화 (163 / 48 / 43)
 163 included / 48 quantitative-synthesis eligible / 43 with extractable data의 의미를 구분하고 Abstract/Methods/Results/PRISMA에서 일관되게.
 
-**반영.** 163 = 48(그중 43 추출) + 115 narrative를 Abstract·Methods·Results에 일관 명시. 실제 narrative synthesis 소절 추가. Supplementary Table 2를 synthesis 종류별로 그룹핑.
+**반영.** 162 = 48(그중 43 추출) + 114 narrative를 Abstract·Methods·Results에 일관 명시(rec 1569 preprint 제외로 163→162; crosscheck E가 27개 카운트 자동 검증). 실제 narrative synthesis 소절 추가. Supplementary Table 2를 synthesis 종류별로 그룹핑.
 
 ### 4. Study design 재정리
 핵심 연구는 cohort가 아니라 SEER/USCS/NAACCR/주별 등록부 기반 population-based registry/incidence study. Supplementary Table 2에 Study design 열 추가, Methods에서 cohort 통칭 금지.
 
-**반영.** Study design 열 추가(158 registry/incidence, 5 cohort). Methods는 "registry or incidence studies … rather than cohort"로 기술.
+**반영.** Study design 열 추가(158 registry/incidence, 4 cohort; 계 162). Methods는 "registry or incidence studies … rather than cohort"로 기술.
 
 ### 5. Overlapping registry pooling을 primary에서 제외
 중복 인구를 독립연구처럼 random-effects pooling해 pooled IRR/I²/CI를 제시하는 것은 해석상 문제 → 삭제하거나 보조 sensitivity로 제한.
@@ -86,5 +86,5 @@ adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/
 
 ## 저자 조치 필요(원고 외)
 - PROSPERO 재등록 → Methods placeholder 채우기
-- 2인 독립 reviewer 실제 수행(스크리닝·RoB)
+- 리뷰어 프로세스: 현재 단일 리뷰어+AI로 정직히 기술(3차 #4). 제2 독립 리뷰어 실제 투입은 선택 — 투입 시 Methods 문구와 일치율(agreement) 보고
 - 최종 타깃 저널 스타일로 참조 서지 형식 조정(현재 47편 Vancouver 완성)
