@@ -43,14 +43,15 @@ without a usable incidence comparison, and mortality- or survival-only reports w
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
-records). Titles and abstracts were screened by a single reviewer (the author), assisted by a
-large language model that ranked and flagged each record against the pre-specified eligibility
-criteria; the author made every include/exclude decision and recorded a reason for each
-exclusion. The author then obtained and read the full texts and made all full-text eligibility
-and inclusion decisions; the language model assisted data extraction and cross-checked each
-extracted value against its source, and every included estimate was verified by the author
-against the source table, figure, or text. There was no second independent reviewer; this is
-noted as a limitation. In all, 162
+records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
+large language model under the author's direction; to check this step, the author re-screened a
+random sample of the records the model had excluded and recorded any that should have been
+retained. The author then obtained and read the full texts and made all full-text eligibility
+and inclusion decisions personally; the language model assisted data extraction and cross-checked
+each extracted value against its source, and every included estimate was verified by the author
+against the source table, figure, or text. Screening and extraction were thus performed by a
+single reviewer with model assistance rather than by two independent reviewers; this is noted as a
+limitation. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis (43 provided extractable quantitative data) and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
