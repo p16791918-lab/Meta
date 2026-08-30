@@ -20,7 +20,7 @@ def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
 from labels import disp_group, disp_dim, disp_comparator
 def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
-# First-author labels for the 163 included studies, derived offline from the raw
+# First-author labels for the included studies, derived offline from the raw
 # search dumps (MEDLINE FAU / Embase / Scopus / WoS), keyed by record_id. Used to
 # put a real author on the "Study (author, year)" column instead of title-only.
 AUTHORS = json.load(open(os.path.join(HERE, "author_labels.json"), encoding="utf-8"))
@@ -82,21 +82,23 @@ P("Total records identified 9,099; duplicate records removed (cross-database) 4,
 PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
-H("Supplementary Table 2. Characteristics of included studies (n = 163)", 1)
 inc = rd("TableS_included_studies.csv")
 from collections import Counter as _C
 _gc = _C(r.get("synth_group", "") for r in inc)
 _next, _nelig, _nnarr = _gc["quant-extracted"], _gc["quant-eligible"], _gc["narrative"]
-P("The 163 studies are all publications included in the systematic review; not all entered the "
+_ninc = _next + _nelig + _nnarr          # total included (recomputed, not hard-coded)
+H("Supplementary Table 2. Characteristics of included studies (n = %d)" % _ninc, 1)
+P("The %d studies are all publications included in the systematic review; not all entered the "
   "quantitative synthesis. They are grouped below by how each contributed: %d were eligible for "
   "quantitative synthesis (of these, %d provided extractable quantitative data and entered the "
   "analysis, and %d were eligible but provided no extractable data), and the remaining %d "
-  "contributed to the narrative synthesis only (163 = %d + %d + %d). Study design is classified "
+  "contributed to the narrative synthesis only (%d = %d + %d + %d). Study design is classified "
   "from the data source; most included studies are population-based registry/incidence studies "
   "rather than cohort studies. A PMID (or DOI where no PMID exists) is given for every study so "
-  "that each of the 163 included studies—including the %d in the narrative synthesis—can be "
+  "that each of the %d included studies—including the %d in the narrative synthesis—can be "
   "located individually."
-  % (_next + _nelig, _next, _nelig, _nnarr, _next, _nelig, _nnarr, _nnarr), True)
+  % (_ninc, _next + _nelig, _next, _nelig, _nnarr, _ninc, _next, _nelig, _nnarr, _ninc, _nnarr),
+  True)
 _SECT = {
     "quant-extracted": "Quantitative synthesis — data extracted (n = %d)" % _next,
     "quant-eligible": "Quantitative synthesis — eligible, no extractable data (n = %d)" % _nelig,

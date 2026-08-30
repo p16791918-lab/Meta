@@ -276,6 +276,7 @@ def check_E():
         ("outputs/PRISMA_COUNTS.md", r"Reports excluded: (\d+)", "excluded_elig"),
         ("outputs/PRISMA_COUNTS.md", r"contributed (\d+) estimates", "estimates"),
         ("outputs/PRISMA_COUNTS.md", r"estimates; (\d+) studies supplied", "reps"),
+        ("outputs/_suppl_manifest.json", r"included studies \(n = (\d+)\)", "included"),
     ]
     # (file, regex with one capture group, canonical key)
     probes = [
