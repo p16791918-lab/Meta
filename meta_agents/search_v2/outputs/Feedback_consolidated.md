@@ -84,6 +84,28 @@ adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/
 
 ---
 
+## 3차 피드백 (채팅 전달, 11항목)
+
+원문이 파일로 남아 있지 않아(채팅 전달) 아래 항목은 **구현·커밋 기록으로 재구성**한 것이며, 번호는 원문과 정확히 일치하지 않을 수 있음. **현재 원고 상태 기준 재검증 결과**를 함께 표기(3차 반영 후에도 원장이 더 바뀌어 당시 숫자와 다를 수 있음).
+
+| Tier | 항목(재구성) | 현재 상태 검증 |
+|---|---|---|
+| 1 | 제목을 "…A Systematic Review **with Quantitative Synthesis**"로(meta-analysis 아님) | ✓ 채택 |
+| 1 | **전문 포함판정을 사람(저자)이 직접 수행**(#4) | ✓ 저자가 전문 정독·판정; Methods를 실제대로(단일+AI) 정직 기술 |
+| 1 | 여성 전용 범위 — **남성 유방암 제외** | ✓ 78셀에 male-BC 셀 0 |
+| 1 | Pinheiro Hispanic-origin 분모를 추정치 대신 **원문 보고 NHW-FL rate 140.4**로 재프레이밍 | ✓ 원장 rec 3182 반영 |
+| 2 | 감도분석 AI/AN이 finalize의 **IHS-linked override 미반영→허위 'changed'** 발생 | ✓ best() 수정+가드; 현재 62/40/56(3/5/1 changed) |
+| 3 | 선정 단위를 **group×dimension = analytic cell**로 통일, registry-family는 셀 내 우선순위 | ✓ Methods 정의 |
+| 3 | **AI/AN aggregate 해석 정정** — IHS-linked는 과소집계가 아니라 undercount-보정 | ✓ Discussion·Methods |
+| 3 | Abstract에 **unstratified-White 비교자 caveat** + 3분류(48=43+5, 114 narrative) | ✓ |
+| 3 | **Abstract <300 단어** 축약 | ✓ 약 251 단어 |
+| 4 | Discussion을 결과→이질성→자료질→해석→한계 흐름으로 **재구성**(반복 감소) | ✓ |
+| 4 | **Figure 4 heatmap**(group×dimension) 추가; forest 값 라벨 고정 우측열; 본문 주석 superscript 렌더링; Asian 하위집단 전부 CI | ✓ 전부 반영 |
+
+**종합:** 11항목 전부 현재 원고에 반영됨. #4(전문 포함판정)만 2차 #2의 "2인 독립" 문안과 충돌 → 실제(단일+AI)대로 정직 기술하고 한계로 명시(위 2차 #2 참조).
+
+---
+
 ## 저자 조치 필요(원고 외)
 - PROSPERO 재등록 → Methods placeholder 채우기
 - 리뷰어 프로세스: 현재 단일 리뷰어+AI로 정직히 기술(3차 #4). 제2 독립 리뷰어 실제 투입은 선택 — 투입 시 Methods 문구와 일치율(agreement) 보고
