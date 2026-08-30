@@ -61,7 +61,11 @@ direct comparability, and one older study used the 1970 world standard. The revi
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
-narrative synthesis were not quantified, and grey literature was not searched.
+narrative synthesis were not quantified, and grey literature was not searched. Screening,
+full-text selection, and extraction were carried out by a single reviewer with large-language-model
+assistance rather than by two independent reviewers, so selection and extraction errors cannot be
+fully excluded; to mitigate this, the full text of every included study was read for the inclusion
+decision and every extracted estimate was checked against its source table, figure, or text.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs

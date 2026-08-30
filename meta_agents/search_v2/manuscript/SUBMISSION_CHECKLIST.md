@@ -7,9 +7,13 @@ or process commentary.
 ## Must complete before submission
 - [ ] **PROSPERO registration.** Not yet filed. Register the protocol and insert the
       registration number in Methods §Protocol and reporting (a bracketed placeholder is there now).
-- [ ] **Dual-reviewer process.** Methods states that screening and risk-of-bias appraisal were
-      done independently by two reviewers with consensus/third-reviewer adjudication. The team
-      must actually carry this out (and record the agreement) before submission.
+- [x] **Reviewer process — described as actually performed.** Methods now states that screening,
+      full-text selection, extraction, and risk-of-bias appraisal were done by a single reviewer
+      (the author) with large-language-model assistance, and that every included study's full text
+      was read for the inclusion decision and every extracted estimate verified against its source;
+      the absence of a second independent reviewer is stated as a limitation in Methods and the
+      Discussion. If a second independent reviewer is added before submission, update this wording
+      and report the inter-reviewer agreement.
 - [ ] **Reference list — full Vancouver.** `References_draft.md` gives author/year/title/PMID/DOI
       for refs 1–47. Complete journal/volume/pages by importing the PMID block into a reference
       manager (Zotero/EndNote/Mendeley). Two entries have no PMID and are entered manually.

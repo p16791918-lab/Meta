@@ -43,8 +43,14 @@ without a usable incidence comparison, and mortality- or survival-only reports w
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
-records). Titles and abstracts, and then full texts, were screened independently by two
-reviewers, and disagreements were resolved by consensus or a third reviewer. In all, 162
+records). Titles and abstracts were screened by a single reviewer (the author), assisted by a
+large language model that ranked and flagged each record against the pre-specified eligibility
+criteria; the author made every include/exclude decision and recorded a reason for each
+exclusion. The author then obtained and read the full texts and made all full-text eligibility
+and inclusion decisions; the language model assisted data extraction and cross-checked each
+extracted value against its source, and every included estimate was verified by the author
+against the source table, figure, or text. There was no second independent reviewer; this is
+noted as a limitation. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis (43 provided extractable quantitative data) and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
@@ -85,9 +91,10 @@ unstratified White) comparator (Supplementary Table 6).
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
 for studies reporting prevalence/incidence data,¹⁴ which is designed for population-based
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
-of the condition, adequate coverage, and appropriate statistical/standardization methods). Two
-reviewers applied the checklist independently, and disagreements were resolved by consensus or a
-third reviewer. Certainty of evidence was not graded,
+of the condition, adequate coverage, and appropriate statistical/standardization methods). The
+checklist was applied to each extracted study by the author (a single assessor) with
+large-language-model assistance, and every item was recorded for all 43 extracted studies
+(Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
 
