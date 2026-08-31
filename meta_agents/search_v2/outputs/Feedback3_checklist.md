@@ -73,12 +73,13 @@
 | **Example Fig 2 (forest)**: AANHPI + Hispanic/Latina + AI/AN을 **한 그림에** aggregate diamond→subgroup+CI | Fig 2 = AANHPI만 (aggregate+subgroup+CI); Hispanic-origin·AI/AN-region은 **Fig 3(overview)에 분리**되어 aggregate·Middle Eastern과 혼재 | `[~]` 구조 다름 — 예시는 세 disaggregatable 카테고리를 한 forest로 통합 |
 | **Example Fig 3 (heatmap)**: group×dim, 열=Overall/Age<50/HR−/HR+/HR+HER2−/HR+HER2+/TNBC | Fig 4 = heatmap, 차원 더 많음(age-ge/lt·nativity·ER/PR·MENA 포함), 번호=4 | `[~]` 번호(4→3)·열 큐레이션 차이 |
 
-**정합을 위해 필요한 작업(저자 결정 사항):**
-1. **Figure 2 통합**: 현재 Fig 2(AANHPI) + Fig 3의 Hispanic-origin·AI/AN-region 행을 합쳐 예시처럼 "aggregate→disaggregated" 단일 forest로. NHB(하위집단 없음)·Middle Eastern은 별도 소패널 또는 heatmap에만.
-2. **heatmap을 Figure 3으로 승격**(현재 Fig 4), 열을 예시처럼 대표 차원으로 큐레이션(Overall, Age<50, HR−, HR+, HR+/HER2−, HR+/HER2+, TNBC).
-3. 그림 번호 재정렬(Fig 1 PRISMA → Fig 2 통합 forest → Fig 3 heatmap).
+**적용 완료 (저자 승인 후 반영):**
+- [x] **Figure 2 통합** — `forest_main.py` → `Fig_forest_main.png`: AANHPI·Hispanic·AI/AN을 한 forest에 aggregate diamond→subgroup+95% CI (예시 레이아웃과 동일). 라벨/값을 좌우 열로 분리해 겹침 제거, 로그축 minor-tick 라벨 깨짐 수정.
+- [x] **heatmap을 Figure 3으로 승격** (옛 Fig 4). 그림 번호 재정렬: Fig 1 PRISMA → Fig 2 통합 forest → Fig 3 heatmap.
+- [x] Results·Discussion의 Figure 2/3/4 참조 재정렬 완료; make_maintext.py 매니페스트·docx 재빌드.
+- [x] **MENA·NHB 처리**: 하위집단이 없어 forest(Fig 2)에서 제외 — heatmap(Fig 3)·Table 1에 유지(정보 손실 없음).
 
-> 참고: 현재 Fig 2(AANHPI)의 값·마커·CI 라벨 구조는 예시 Fig 2의 AANHPI 블록과 사실상 동일(0.769/0.164/0.264/…). 즉 **스타일은 이미 일치**하며, 남은 것은 (a) Hispanic·AI/AN을 같은 forest로 통합할지, (b) heatmap 번호·열 큐레이션 정도.
+> 남은 선택(선택사항): heatmap 열을 예시처럼 대표 차원(Overall, Age<50, HR−, HR+, HR+/HER2−, HR+/HER2+, TNBC)으로 큐레이션할지 — 현재는 전체 차원 표시.
 
 ---
 

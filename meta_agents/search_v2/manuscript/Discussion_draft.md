@@ -20,14 +20,14 @@ they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong w
 Japanese women; Native Hawaiian women (1.21) and the Native Hawaiian and Pacific Islander (NHPI)
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
-Northern Plains (Figure 4). This pattern is consistent with earlier disaggregated work and extends
+Northern Plains (Figure 2). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER-21 period;²⁶ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
 first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
 prior regional and tribal analyses;¹⁰,³³,³⁷,⁴⁰ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
-the outcome examined (Figure 4), so which group ranks highest depends on the tumor being counted.
+the outcome examined (Figure 3), so which group ranks highest depends on the tumor being counted.
 
 Two features of the underlying data shaped these estimates and are part of what the synthesis
 contributes. Because SEER, NPCR/USCS, NAACCR, and state registries cover overlapping populations,

@@ -33,7 +33,7 @@ Relative to NHW women, overall invasive breast cancer incidence was lower in eac
 minority group: American Indian and Alaska Native (AI/AN) women IRR 0.56 (95% CI 0.55–0.57),
 Hispanic/Latina women 0.72 (0.71–0.73), the Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) aggregate 0.77 (0.75–0.79), and non-Hispanic Black (NHB) women 0.93
-(0.92–0.95) (Table 1; Figure 3).
+(0.92–0.95) (Table 1; Figure 2).
 
 ### Disaggregated AANHPI subgroups
 Within the AANHPI aggregate, incidence varied across Asian American subgroups from 0.16
@@ -48,23 +48,23 @@ and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IR
 ### Hispanic/Latina by country of origin
 Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.51 (0.38–0.69),
 New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94); the
-aggregate Hispanic/Latina estimate was a standardized incidence ratio of 0.64 (Table 1; Figure 3).
+aggregate Hispanic/Latina estimate was a standardized incidence ratio of 0.64 (Table 1; Figure 2).
 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
 area to 1.25 (1.11–1.41) in the Southern Plains and 1.33 (1.26–1.41) in the Northern Plains
-(Table 1; Figure 3).
+(Table 1; Figure 2).
 
 ### Middle Eastern populations
 Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to NHW women
-(Table 1; Figure 3).
+(Table 1).
 
 ### Molecular subtypes
 For triple-negative breast cancer (TNBC), incidence relative to NHW women was highest in NHB
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1). Across groups and analytic dimensions the
-relative ordering shifts with the outcome examined (Figure 4): NHB women, close to the NHW rate for
+relative ordering shifts with the outcome examined (Figure 3): NHB women, close to the NHW rate for
 overall incidence (0.93), have the highest triple-negative rate (1.95), while several Asian American
 subgroups that are below the NHW rate overall remain so across subtypes.
 

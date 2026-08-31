@@ -65,15 +65,13 @@ PB()
 H("Figure 1. PRISMA 2020 flow diagram", 1)
 IMG("Fig_PRISMA.png", 680, 578)
 PB()
-H("Figure 2. Disaggregated Asian American / Native Hawaiian and Pacific Islander "
-  "subgroups versus the aggregate (IRR vs non-Hispanic White)", 1)
-IMG("Fig_forest_AANHPI.png", 720, 490)
+H("Figure 2. Aggregate-to-disaggregated heterogeneity in breast cancer incidence "
+  "(representative IRR vs non-Hispanic White, 95% CI): the Asian American, Native Hawaiian "
+  "and Pacific Islander (AANHPI), Hispanic/Latina, and American Indian and Alaska Native "
+  "(AI/AN) aggregates, each shown with its subgroups", 1)
+IMG("Fig_forest_main.png", 660, 792)
 PB()
-H("Figure 3. Aggregate racial and ethnic groups, Hispanic origin, American Indian / "
-  "Alaska Native region, and Middle Eastern populations (IRR vs non-Hispanic White)", 1)
-IMG("Fig_forest_overview.png", 720, 470)
-PB()
-H("Figure 4. Incidence rate ratio by racial or ethnic group and analytic dimension "
+H("Figure 3. Incidence rate ratio by racial or ethnic group and analytic dimension "
   "(representative estimate vs non-Hispanic White; 1.0 = the NHW rate)", 1)
 IMG("Fig_heatmap.png", 760, 429)
 
