@@ -15,10 +15,9 @@ records for title and abstract screening. Full text was sought for 242 reports; 
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis: 42 provided extractable estimates (141 individual estimates across
 racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 6 were
-eligible but did not contribute a representative estimate—five because their rate table could not be
-obtained or overlapped a study already represented, and one because its only estimate compared
-US-born with foreign-born women of the same ethnicity rather than with a White reference; the
-remaining 114 informed the narrative synthesis (162 = 42 + 6 + 114). The extracted studies were published
+eligible but did not contribute a representative estimate because their rate table could not be
+obtained or, more often, their estimates overlapped a study already represented for the same
+analytic cell; the remaining 114 informed the narrative synthesis (162 = 42 + 6 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked

@@ -26,8 +26,8 @@
   - Quantitative synthesis: 48 eligible → 42 with extractable data
     (6 quantitative-eligible studies did not contribute a representative estimate: five
     because the rate table was not obtainable or overlapped a study already represented
-    — 461, 209, 419, 2137, 4027; and 236 because its only estimate used a within-ethnicity
-    foreign-born rather than a White comparator)
+    — 461, 209, 419, 2137, 4027; and 236 whose Asian-subgroup rates (vs non-Hispanic White 146.1) overlap the SEER-based
+    subgroup representatives — 461, 209, 419, 2137, 4027, 236)
   - Narrative synthesis only: 114
 
 ## Notes for the flowchart
