@@ -13,15 +13,17 @@ unstratified White reference) or noted as a standardized incidence ratio (SIR).
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis: 43 provided extractable estimates (143 individual estimates across
-racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 5 were
-eligible but their rate table could not be obtained and each overlapped a study already
-represented; the remaining 114 informed the narrative synthesis (162 = 43 + 5 + 114). The extracted studies were published
+quantitative synthesis: 42 provided extractable estimates (141 individual estimates across
+racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis, while 6 were
+eligible but did not contribute a representative estimate—five because their rate table could not be
+obtained or overlapped a study already represented, and one because its only estimate compared
+US-born with foreign-born women of the same ethnicity rather than with a White reference; the
+remaining 114 informed the narrative synthesis (162 = 42 + 6 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates, 78 representative estimates remained, one per analytic
+overlapping registry-family estimates, 76 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
@@ -71,7 +73,7 @@ subgroups that are below the NHW rate overall remain so across subtypes.
 ### Narrative synthesis
 The 114 narrative-synthesis studies met the inclusion criteria but did not
 report an incidence rate ratio, or age-standardized rates, from which a comparison with a
-non-Hispanic White reference could be recovered; they, together with the 5 quantitatively eligible
+non-Hispanic White reference could be recovered; they, together with the 6 quantitatively eligible
 but non-extractable studies, are listed by category in Supplementary Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
@@ -83,13 +85,13 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 37 of the 43 studies were at low risk of bias and 6 at moderate risk, with
+On the JBI checklist, 35 of the 42 studies were at low risk of bias and 7 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
-was reported without a variance or where race and ethnicity ascertainment was limited. The
+was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 62 of 78 cell representatives unchanged, with the 3 changed and 13
+low-risk-of-bias studies left 58 of 76 cell representatives unchanged, with the 4 changed and 14
 dropped cells concentrated in the disaggregated AANHPI subgroups;
-restricting to directly reported estimates left 40 unchanged (5 changed, 33 dropped); and
-restricting to NHW-comparator estimates left 56 unchanged (1 changed, 21 dropped), the dropped
+restricting to directly reported estimates left 38 unchanged (5 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 56 unchanged (1 changed, 19 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells.

@@ -23,9 +23,11 @@
 
 ## Included
 - Studies included in review: 162
-  - Quantitative synthesis: 48 eligible → 43 with extractable data
-    (5 quantitative-eligible studies deferred: rate table not obtainable; each
-    overlaps a study already represented — 461, 209, 419, 2137, 4027)
+  - Quantitative synthesis: 48 eligible → 42 with extractable data
+    (6 quantitative-eligible studies did not contribute a representative estimate: five
+    because the rate table was not obtainable or overlapped a study already represented
+    — 461, 209, 419, 2137, 4027; and 236 because its only estimate used a within-ethnicity
+    foreign-born rather than a White comparator)
   - Narrative synthesis only: 114
 
 ## Notes for the flowchart
@@ -34,5 +36,5 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 43 extracted studies contributed 143 estimates; 26 studies supplied at
+- The 42 extracted studies contributed 141 estimates; 25 studies supplied at
   least one main-analysis representative.

@@ -49,8 +49,6 @@ age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
 aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,0.98," [0.97, 0.98]",2406,unchanged,1,1
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
-nativity,Chinese (US-born),,1.84," [1.72, 1.96]",236,1.84," [1.72, 1.96]",236,unchanged,1,1
-nativity,Filipina (US-born),,1.32," [1.2, 1.44]",236,1.32," [1.2, 1.44]",236,unchanged,1,1
 subtype-HRneg-HER2pos,Asian-American combined,,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Black,,1.46," [1.38, 1.54]",286,1.46," [1.38, 1.54]",286,unchanged,1,1

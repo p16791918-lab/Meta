@@ -158,12 +158,6 @@ One estimate per registry family; not pooled across groups.
 | Black (age<40) | 1.160 | 1.097-1.227 | 199 |
 | Black | 1.183 | 1.142-1.226 | 265 |
 
-**nativity**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Filipina (US-born) | 1.320 | 1.205-1.446 | 236 |
-
 **age-ge50**
 
 | Group | IRR | 95% CI | rec |
@@ -187,9 +181,3 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Black | 1.796 | 1.740-1.853 | 10 |
-
-**nativity**
-
-| Group | IRR | 95% CI | rec |
-|----|----|----|----|
-| Chinese (US-born) | 1.840 | 1.724-1.964 | 236 |

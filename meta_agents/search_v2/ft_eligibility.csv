@@ -6,7 +6,7 @@ record_id,ft_decision,ft_reason,registry_family,groups_vs_nhw,rate_location,note
 2,include-quant,,SEER (28% US),NH white/black/API/Hispanic subtypes,age-specific rates per 100k by subtype,first national HR/HER2 subtype incidence by race 2010
 100,include-quant,,LA County (CSP/CA-SEER),detailed race/ethnicity incl Filipina vs NHW,AAIR per 100k trends,LA County 1976-2007 detailed race incl Filipina vs NH white
 234,include-quant,,SEER-21,detailed AANHPI ethnicities vs NHW,age-adjusted rate table 2018-2022 + trends,disaggregated AANHPI incidence + NHW comparator
-236,include-quant,,California Cancer Registry,Asian ethnicity + nativity vs NHW,age-adjusted rates + IRRs,Gomez hidden-disparities; Chinese IRR 1.84 Filipina 1.32; CCR 1998-2004
+236,include-quant,,California Cancer Registry,Asian ethnicity + nativity vs NHW,age-adjusted rates + IRRs,"Gomez hidden-disparities; Chinese IRR 1.84 Filipina 1.32; CCR 1998-2004 | DEFERRED from quant synthesis: only estimate is US-born vs foreign-born (within-ethnicity), not vs White — out of scope for the NHW-comparator analysis; removed from ledger (was 2 nativity cells)"
 324,include-quant,,California Cancer Registry,AA ethnic groups vs NHW,IRRs vs NHW overall + subtype,strong extractable IRRs incl TNBC 0.61; CCR 1988-2013
 333,include-quant,,California Cancer Registry,Hispanic by nativity vs NHW,age-adjusted rates,NHW 34% higher than US-born 84% higher than foreign-born Hispanic
 101,include-narrative,,Guam CR + Hawaii TR + SEER,Chamorro/Filipino Guam/Hawaii,cumulative incidence by age,cumulative incidence metric not age-adjusted rate/100k -> narrative

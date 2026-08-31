@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). Two reviewers independently; disagreements resolved by consensus or a third reviewer.
 
-Overall (43 studies): {'Low': 37, 'Moderate': 6}. Main-analysis representatives: {'Low': 22, 'Moderate': 4}
+Overall (42 studies): {'Low': 35, 'Moderate': 7}. Main-analysis representatives: {'Low': 20, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -24,8 +24,7 @@ Overall (43 studies): {'Low': 37, 'Moderate': 6}. Main-analysis representatives:
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
-| 236 | Gomez2010_CCR | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
-| 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | Yes | **Moderate** |
 | 286 | Kong2020_SEER18 | SEER 18 | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 324 | Gomez2017_CCR | California Cancer Registry | 2009-2013 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 333 | Keegan2010_CCR | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |

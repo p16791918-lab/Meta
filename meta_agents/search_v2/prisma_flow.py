@@ -86,7 +86,7 @@ def main():
     incx, incw = 1.3, 8.7
     box(ax, incx, 3.0, incw, 1.3,
         "Studies included in the review (n = 162)\n"
-        "Quantitative synthesis: 48 eligible (43 with extractable data)   |   Narrative synthesis only: 114",
+        "Quantitative synthesis: 48 eligible (42 with extractable data)   |   Narrative synthesis only: 114",
         fc="#cfe6d4")
     arrow(ax, lmx + lmw / 2, 5.4, lmx + lmw / 2, 4.3)
     # right arm merges into included
@@ -95,7 +95,7 @@ def main():
 
     box(ax, incx, 1.3, incw, 1.1,
         "Studies contributing ≥1 estimate to the quantitative synthesis\n"
-        "(n = 43; 143 estimates; 26 supplied a main-analysis representative)",
+        "(n = 42; 141 estimates; 25 supplied a main-analysis representative)",
         fc="#cfe6d4")
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
 

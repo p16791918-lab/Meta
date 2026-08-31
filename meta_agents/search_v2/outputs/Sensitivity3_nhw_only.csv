@@ -4,8 +4,6 @@ age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,2,0
 age-lt40,Black (age<40),,1.16," [1.1, 1.23]",199,,,,dropped,1,0
 aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,,,,dropped,1,0
-nativity,Chinese (US-born),,1.84," [1.72, 1.96]",236,,,,dropped,1,0
-nativity,Filipina (US-born),,1.32," [1.2, 1.44]",236,,,,dropped,1,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0
 subtype-ERpos-PRneg,Black,,0.974," [0.925, 1.027]",200,,,,dropped,1,0
 subtype-HRneg-HER2pos,Japanese,,0.88," [0.82, 0.95]",161,,,,dropped,1,0

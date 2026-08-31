@@ -64,9 +64,7 @@ age-lt50,Black,1.01,0.995,1.025,146
 age-ge50,Japanese,1.064,0.978,1.157,522
 age-lt40,Black (age<40),1.16,1.097,1.227,199
 age-lt40,Black,1.183,1.142,1.226,265
-nativity,Filipina (US-born),1.32,1.205,1.446,236
 age-ge50,Native Hawaiian,1.366,1.245,1.498,522
 subtype-ERneg-PRpos,Black,1.459,1.267,1.68,200
 age-lt50,Japanese,1.479,1.252,1.748,522
 subtype-HRneg,Black,1.796,1.74,1.853,10
-nativity,Chinese (US-born),1.84,1.724,1.964,236
