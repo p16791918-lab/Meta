@@ -255,3 +255,38 @@ Net conclusion of the full-text verification loop: **every representative in the
 cells is verified against a source (full text or, for rec 155, its abstract); every included
 record's narrative-vs-quantitative classification has a source-grounded reason on file; and no
 unobtained report affects the 78 cells or the headline results.**
+
+## DEFERRED-STUDY EXTRACTION SURVEY (final) — all 6 read from PDF, all stay deferred
+Per the instruction to extract from every deferred study that has a PDF and decide its final
+classification. Each of the 6 was read closely; the vs-White(NHW) estimate was recovered from
+the source table in every case, confirming all 6 are genuinely quantitative and White-comparable
+(**none is narrative-only**). None is added to the ledger, because each overlaps a cell that is
+already represented and already carries several in-ledger overlap estimates for the
+overlap-robustness sensitivity analysis; adding them would duplicate the same registry families.
+
+- **rec 209** — USCS(NPCR+SEER) triple-negative incidence by race. Overlaps the TNBC
+  representatives already taken from rec 155 (same USCS source); Black-TNBC alone already has five
+  in-ledger estimates (155, 381, 2, 286, 234). Stays deferred.
+- **rec 236** — Gomez 2010, California Cancer Registry Asian subgroups vs NHW (NHW 146.1;
+  Chinese 73.5, Japanese 102.5, Filipina 100.4, Korean 46.3, Vietnamese 59.9), 1988–2004.
+  Overlaps the SEER-21 subgroup representatives (rec 234) and the CCR overlap already in the
+  ledger (rec 4098, CCR 2000–2002). Stays deferred. (The earlier-removed nativity IRRs stay out.)
+- **rec 419** — Amirikia 2011, California Cancer Registry TNBC and stage **by age band only**
+  (NHW/NHB/Hispanic; Tables 1–2 give no all-age total), 1988–2006. Cannot form an all-age
+  vs-White cell; overlaps the CCR/rec-155 TNBC family. Stays deferred.
+- **rec 2137** — Melkonian 2022, urban NH AI/AN vs urban NHW, USCS-AIAD 2008–2017. All-ages
+  female breast RR 0.57 (urban AI/AN 74.2 vs urban NHW 129.6; Table 2). Urban AI/AN is a subset
+  of the AI/AN aggregate, which is already represented (rec 500) and carries a dozen in-ledger
+  overlap estimates. Stays deferred.
+- **rec 4027** — eight-state SEER+NPCR Asian subgroups, 2009–2011, female breast (per 100k, 2000
+  US std): NHW 134.4; Chinese 82.8, Filipino 111.3, Japanese 127.8, Korean 75.6, South Asian
+  106.3, Vietnamese 72.2, Asian-total 94.5 (Table 4). Overlaps the SEER-21 subgroup
+  representatives (rec 234). Stays deferred.
+- **rec 461** — **the filed PDF is misfiled.** `fulltext/461.pdf` contains the Goggins & Wong 2009
+  Asian Indian/Pakistani SEER paper, whose breast SIR 0.61 (0.56–0.66) is already in the ledger as
+  **rec 955** (a distinct record — no double-count). The *real* rec 461 is a Northern-Plains AI/AN
+  breast study (NE/ND/SD state registries, 2002–2009); its correct full text was never obtained,
+  and Northern-Plains AI/AN is already represented (rec 3662). Stays deferred on both grounds.
+
+Decision: the deferred bucket of 6 is correct as-is; no ledger rows added, no counts change
+(162 included = 42 extractable + 6 deferred + 114 narrative; 76 cells; 25 representatives).

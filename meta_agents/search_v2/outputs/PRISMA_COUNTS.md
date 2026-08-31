@@ -24,10 +24,14 @@
 ## Included
 - Studies included in review: 162
   - Quantitative synthesis: 48 eligible → 42 with extractable data
-    (6 quantitative-eligible studies did not contribute a representative estimate: five
-    because the rate table was not obtainable or overlapped a study already represented
-    — 461, 209, 419, 2137, 4027; and 236 whose Asian-subgroup rates (vs non-Hispanic White 146.1) overlap the SEER-based
-    subgroup representatives — 461, 209, 419, 2137, 4027, 236)
+    (6 quantitative-eligible studies did not contribute a representative estimate because each
+    overlaps a cell already represented by a broader or better-classified study — all are
+    White-comparable, none narrative-only: 209 (USCS triple-negative by race, overlaps 155);
+    236 (California-registry Asian subgroups vs NHW, overlaps the SEER-21 subgroup
+    representatives); 419 (California-registry triple-negative by age band only, no all-age
+    total); 2137 (urban AI/AN, overlaps the AI/AN representatives); 4027 (eight-state SEER+NPCR
+    Asian subgroups, overlaps the SEER-21 subgroup representatives); and 461 (Northern-Plains
+    AI/AN — correct full text not obtainable, and AI/AN otherwise represented))
   - Narrative synthesis only: 114
 
 ## Notes for the flowchart
