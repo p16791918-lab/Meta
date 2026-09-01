@@ -22,10 +22,10 @@ aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mex
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
 Northern Plains (Figure 2). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
-present estimates span over the most recent SEER-21 period;²⁶ the high burden in Native Hawaiian
+present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
 first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
-prior regional and tribal analyses;¹⁰,³³,³⁷,⁴⁰ and the higher TNBC incidence in NHB women is
+prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
 the outcome examined (Figure 3), so which group ranks highest depends on the tumor being counted.
 
@@ -35,7 +35,7 @@ estimates from different publications are not independent; the analysis therefor
 representative population-based estimate per group and analytic dimension rather than pooling them.
 First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
 Service–linked estimate was preferred for that group, and the reported AI/AN figures are the
-undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁰ Second, reference
+undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁴ Second, reference
 groups differed across sources—most used a non-Hispanic White comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
@@ -49,7 +49,7 @@ possible contributors rather than established causes: nativity and generational 
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
 foreign-born proportion and residence in ethnic enclaves and to rates that rise with longer U.S.
 residence,⁵,⁹ and differences in molecular-subtype distribution and in stage at diagnosis,
-screening, and access to care have also been described.²,²⁸ Genetic or biological mechanisms were
+screening, and access to care have also been described.²,²⁹ Genetic or biological mechanisms were
 not examined.
 
 The review has limitations. Because many estimates come from overlapping or nested registry

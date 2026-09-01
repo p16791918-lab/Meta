@@ -14,7 +14,7 @@ The four databases returned 9,099 records; 4,306 duplicates were removed, leavin
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis, and all 48 provided extractable estimates (161 individual estimates across
-racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁴⁷ and entered the analysis—25 supplied
+racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵² and entered the analysis—25 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)

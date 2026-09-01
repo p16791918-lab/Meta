@@ -33,15 +33,9 @@ def load_order():
     n = 0
     for r in intro:
         n += 1; order.append((n, "pmid", r, (inc.get(r, {}).get("pmid") or "").strip(), None))
-    methods = [  # (pmid, manual_fallback_text)
-        ("33782057", None),
-        (None, "Wells GA, Shea B, O'Connell D, et al. The Newcastle-Ottawa Scale (NOS) for "
-               "assessing the quality of nonrandomised studies in meta-analyses. Ottawa: "
-               "Ottawa Hospital Research Institute; 2000."),
-        ("21195583", None),
-        (None, "Schunemann H, Brozek J, Guyatt G, Oxman A, editors. GRADE Handbook. "
-               "GRADE Working Group; 2013."),
-        ("24548571", None),
+    methods = [  # (pmid, manual_fallback_text) — PRISMA 2020 and JBI only
+        ("33782057", None),   # 13: PRISMA 2020 (Page 2021)
+        ("26317388", None),   # 14: JBI prevalence/incidence appraisal (Munn 2015)
     ]
     for pmid, manual in methods:
         n += 1; order.append((n, "pmid" if pmid else "manual", None, pmid, manual))
