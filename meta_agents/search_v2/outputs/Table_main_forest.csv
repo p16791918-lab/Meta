@@ -61,7 +61,6 @@ age-lt50,Asian/PI (aggregate),0.96,0.95,0.97,146
 subtype-ERpos-PRneg,Black,0.974,0.924,1.026,200
 age-lt50,Black,1.01,0.995,1.025,146
 age-ge50,Japanese,1.064,0.978,1.157,522
-age-lt40,Black (age<40),1.16,1.097,1.227,199
 age-lt40,Black,1.183,1.142,1.226,265
 age-ge50,Native Hawaiian,1.366,1.245,1.498,522
 subtype-ERneg-PRpos,Black,1.459,1.267,1.68,200

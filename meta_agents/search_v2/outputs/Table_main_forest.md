@@ -154,7 +154,6 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Black (age<40) | 1.160 | 1.097-1.227 | 199 |
 | Black | 1.183 | 1.142-1.226 | 265 |
 
 **age-ge50**

@@ -1,6 +1,6 @@
 # Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)
 
-Cells: 75 total — unchanged 56, changed 1, dropped 18.
+Cells: 74 total — unchanged 56, changed 1, dropped 17.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -9,7 +9,6 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | AIAN | AIAN | 0.87 (2510) | 0.573 (2137) | **changed** |
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-lt40 | Black | 1.183 (265) | - (-) | **dropped** |
-| age-lt40 | Black (age<40) | 1.16 (199) | - (-) | **dropped** |
 | subtype-ERneg-PRpos | Black | 1.459 (200) | - (-) | **dropped** |
 | subtype-ERpos-PRneg | Black | 0.974 (200) | - (-) | **dropped** |
 | subtype-HRneg-HER2pos | Japanese | 0.88 (161) | - (-) | **dropped** |

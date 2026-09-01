@@ -1,5 +1,5 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
-age-lt40,Black,,1.183," [1.142, 1.226]",265,1.533," [1.352, 1.739]",203,changed,2,1
+age-lt40,Black,,1.183," [1.142, 1.226]",265,1.533," [1.352, 1.739]",203,changed,3,2
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.703," [0.692, 0.715]",4027,changed,2,1
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,3,2
 disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.616," [0.596, 0.637]",4027,changed,6,4
@@ -29,7 +29,6 @@ Hispanic-origin,Puerto Rican,,0.833," [0.738, 0.939]",3182,0.833," [0.738, 0.939
 age-ge50,Filipina,,0.774," [0.700, 0.855]",522,0.774," [0.700, 0.855]",522,unchanged,1,1
 age-ge50,Japanese,,1.064," [0.978, 1.157]",522,1.064," [0.978, 1.157]",522,unchanged,1,1
 age-ge50,Native Hawaiian,,1.366," [1.246, 1.499]",522,1.366," [1.246, 1.499]",522,unchanged,1,1
-age-lt40,Black (age<40),,1.16," [1.1, 1.23]",199,1.16," [1.1, 1.23]",199,unchanged,1,1
 age-lt50,AIAN,,0.75," [0.72, 0.79]",146,0.75," [0.72, 0.79]",146,unchanged,1,1
 age-lt50,Asian/PI (aggregate),,0.96," [0.95, 0.97]",146,0.96," [0.95, 0.97]",146,unchanged,1,1
 age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1

@@ -1,6 +1,6 @@
 dimension,group,k_all,sens_irr,sens_lo,sens_hi,I2,Q,df,p_Q,model,tau2,main_irr,main_lo,main_hi,main_k,hksj_unstable
 AIAN,Alaska Native,2,1.021,0.432,2.412,68,3.11,1,0.078,"random-effects (PM/REML, HKSJ)",0.0062,,,,0,yes
-age-lt40,Black,2,1.337,0.258,6.919,93,15.09,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0314,1.183,1.142,1.226,1,yes
+age-lt40,Black,3,1.27,0.872,1.85,88,16.43,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0213,1.183,1.142,1.226,1,no
 aggregate-vs-NHW,AIAN,7,0.695,0.603,0.802,99,638.41,6,<0.001,"random-effects (PM/REML, HKSJ)",0.0229,0.56,0.55,0.57,1,no
 aggregate-vs-NHW,Asian/PI (aggregate),6,0.798,0.724,0.878,100,1703.9,5,<0.001,"random-effects (PM/REML, HKSJ)",0.0084,0.769,0.751,0.787,1,no
 aggregate-vs-NHW,Black,10,0.954,0.939,0.968,98,368.4,9,<0.001,"random-effects (PM/REML, HKSJ)",0.0004,0.933,0.92,0.946,1,no

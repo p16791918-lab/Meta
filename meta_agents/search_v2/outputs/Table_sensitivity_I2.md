@@ -5,7 +5,7 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | Dimension | Group | k | Model | Sensitivity IRR (95%% CI) | I2%% | Q p | Main IRR (95%% CI) | HKSJ unstable (k<3) |
 |----|----|----|----|----|----|----|----|----|
 | AIAN | Alaska Native | 2 | random-effects (PM/REML, HKSJ) | 1.021 (0.432-2.412) | 68 | 0.078 | - | yes |
-| age-lt40 | Black | 2 | random-effects (PM/REML, HKSJ) | 1.337 (0.258-6.919) | 93 | <0.001 | 1.183 (1.142-1.226) | yes |
+| age-lt40 | Black | 3 | random-effects (PM/REML, HKSJ) | 1.270 (0.872-1.850) | 88 | <0.001 | 1.183 (1.142-1.226) | no |
 | aggregate-vs-NHW | AIAN | 7 | random-effects (PM/REML, HKSJ) | 0.695 (0.603-0.802) | 99 | <0.001 | 0.560 (0.550-0.570) | no |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 6 | random-effects (PM/REML, HKSJ) | 0.798 (0.724-0.878) | 100 | <0.001 | 0.769 (0.751-0.787) | no |
 | aggregate-vs-NHW | Black | 10 | random-effects (PM/REML, HKSJ) | 0.954 (0.939-0.968) | 98 | <0.001 | 0.933 (0.920-0.946) | no |

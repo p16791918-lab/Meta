@@ -48,7 +48,7 @@ def main():
             return (has_ci, lowrob, int(r["coverage_tier"]))
         return max(cands, key=key)
 
-    DROP = {("aggregate-vs-NHW", "Black (women)")}  # duplicate aggregate Black
+    DROP = set()  # (former Black (women) duplicate now merged in the ledger)
     rows = []
     for dim, dlabel in DIMS:
         members = {g: pick(cs) for (d, g), cs in cells.items()

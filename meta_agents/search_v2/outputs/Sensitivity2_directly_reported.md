@@ -1,11 +1,12 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 75 total — unchanged 37, changed 5, dropped 33.
+Cells: 74 total — unchanged 36, changed 6, dropped 32.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
+| age-lt40 | Black | 1.183 (265) | 1.16 (199) | **changed** |
 | aggregate-vs-NHW | AIAN | 0.560 (500) | 0.58 (66) | **changed** |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 0.769 (169) | 0.92 (66) | **changed** |
 | aggregate-vs-NHW | Black | 0.933 (169) | 0.98 (2406) | **changed** |
@@ -23,7 +24,6 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | age-ge50 | Hispanic | 0.660 (485) | - (-) | **dropped** |
 | age-ge50 | Japanese | 1.064 (522) | - (-) | **dropped** |
 | age-ge50 | Native Hawaiian | 1.366 (522) | - (-) | **dropped** |
-| age-lt40 | Black | 1.183 (265) | - (-) | **dropped** |
 | age-lt50 | Filipina | 0.768 (522) | - (-) | **dropped** |
 | age-lt50 | Japanese | 1.479 (522) | - (-) | **dropped** |
 | age-lt50 | Native Hawaiian | 0.858 (522) | - (-) | **dropped** |
