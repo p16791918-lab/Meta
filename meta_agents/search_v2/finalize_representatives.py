@@ -16,8 +16,10 @@ Representative criteria, in Feedback-5 order (most comprehensive first):
                         > state registry > California-CCR/regional
                         > single sub-registry (Hawaii/LA/Greater Bay)  [largest,
                         most comprehensive region/sample]
-  3. period           : most recent end-year, then longest span
-  4. provenance       : directly-reported-IRR / -SIR / -with-CI  >  Poisson-SE
+  3. comparator       : non-Hispanic White  >  unstratified White  [the review's
+                        primary comparator, above recency at equal coverage]
+  4. period           : most recent end-year, then longest span
+  5. provenance       : directly-reported-IRR / -SIR / -with-CI  >  Poisson-SE
                         >  computed-from-rates (no CI)  [clear age-std / CI]
 The SEER-Explorer by-race anchor rows are reference/descriptive and never a
 main-analysis representative (registry-direct, non-independent by construction).
@@ -129,10 +131,16 @@ def main():
         if not r["_is_anchor"]:
             clusters[r["_cluster"]].append(r)
 
+    NHW_SET = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
     def score(r):
         has_irr = 1 if (r.get("irr") or "").strip() else 0
+        # Prefer a non-Hispanic White comparator over an unstratified White one
+        # (the review's primary comparator), ranked above recency so that, at equal
+        # coverage, the cleaner comparator defines the representative.
+        nhw = 1 if r.get("comparison_vs", "").strip() in NHW_SET else 0
         return (has_irr,
                 r["_tier"],
+                nhw,
                 period_key(r["period"]),
                 PROV_RANK.get(r["provenance"], 0))
 

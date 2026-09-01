@@ -44,8 +44,11 @@ def load(qual):
 
 
 def score(r):
+    # mirror finalize_representatives.score: coverage, then NHW-comparator
+    # preference (over unstratified White), then recency, then provenance.
     has_irr = 1 if (r.get("irr") or "").strip() else 0
-    return (has_irr, r["_tier"], period_key(r["period"]), PROV_RANK.get(r["provenance"], 0))
+    nhw = 1 if r.get("comparison_vs", "").strip() in NHW_OK else 0
+    return (has_irr, r["_tier"], nhw, period_key(r["period"]), PROV_RANK.get(r["provenance"], 0))
 
 
 def is_aian(r):

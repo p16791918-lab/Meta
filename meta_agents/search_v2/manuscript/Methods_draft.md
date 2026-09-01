@@ -74,9 +74,10 @@ analytic dimension (overall incidence, a receptor-defined subtype, or an age ban
 **representative population-based estimate** (a contemporary benchmark) was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
-the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then the most
-recent and longest diagnosis period, a clearly documented age-standardization, and a directly
-reported confidence interval where available.
+the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
+non-Hispanic White (rather than an unstratified White) comparator, then the most recent and longest
+diagnosis period, a clearly documented age-standardization, and a directly reported confidence
+interval where available.
 For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
 Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
 estimate for the same dimension, because unlinked registries misclassify race and undercount

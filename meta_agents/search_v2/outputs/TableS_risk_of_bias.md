@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). Two reviewers independently; disagreements resolved by consensus or a third reviewer.
 
-Overall (48 studies): {'Low': 39, 'Moderate': 9}. Main-analysis representatives: {'Low': 20, 'Moderate': 5}
+Overall (48 studies): {'Low': 39, 'Moderate': 9}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|

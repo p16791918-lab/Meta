@@ -95,7 +95,7 @@ def main():
 
     box(ax, incx, 1.3, incw, 1.1,
         "Studies contributing ≥1 estimate to the quantitative synthesis\n"
-        "(n = 48; 156 estimates; 23 supplied a main-analysis representative)",
+        "(n = 48; 156 estimates; 22 supplied a main-analysis representative)",
         fc="#cfe6d4")
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
 

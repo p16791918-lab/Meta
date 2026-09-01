@@ -60,7 +60,7 @@ One estimate per registry family; not pooled across groups.
 | Chinese | 0.530 | 0.393-0.715 | 161 |
 | Asian-American combined | 0.610 | 0.576-0.646 | 324 |
 | Asian/PI (aggregate) | 0.700 | 0.680-0.720 | 155 |
-| Filipino | 0.840 | 0.801-0.881 | 161 |
+| Filipina | 0.840 | 0.801-0.881 | 161 |
 | Native Hawaiian | 0.860 | 0.801-0.923 | 161 |
 | AIAN | 0.860 | 0.798-0.927 | 155 |
 | Hispanic | 0.860 | 0.840-0.880 | 155 |
@@ -80,7 +80,7 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Filipino | 0.640 | 0.625-0.655 | 161 |
+| Filipina | 0.640 | 0.625-0.655 | 161 |
 | Hispanic | 0.780 | 0.765-0.795 | 286 |
 | Black | 0.860 | 0.845-0.875 | 286 |
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
@@ -93,7 +93,7 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Chinese | 0.720 | 0.563-0.921 | 161 |
 | Asian/PI (aggregate) | 0.850 | 0.768-0.941 | 2 |
-| Filipino | 0.880 | 0.855-0.905 | 161 |
+| Filipina | 0.880 | 0.855-0.905 | 161 |
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
 | Japanese | 1.030 | 1.015-1.045 | 161 |
 | Black | 1.120 | 1.081-1.161 | 286 |

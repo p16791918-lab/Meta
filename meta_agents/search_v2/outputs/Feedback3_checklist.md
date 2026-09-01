@@ -12,7 +12,7 @@
 - [x] 본문에 "meta-analysis" 없음 — 유일 등장은 부정문 "not a meta-analytic pooled estimate"
 - [x] 연구설계가 실제 분석과 일치: Methods가 random-effects pooling 미시행을 명시, 셀당 representative estimate 제시
 
-## 2. Representative estimate 선정 기준 명료화
+## 2. Representative estimate 선정 기준 명료화 (선정 순서: coverage → **NHW-비교군 우선** → period → provenance; AI/AN은 IHS-linked override)
 - [x] **analytic cell = racial/ethnic group × analytic dimension**으로 명시 정의 (`Methods_draft.md` §대표선정)
 - [x] "one per registry family"와 "one per group×dimension" 혼재 해소: **분석단위=cell, registry-family는 셀 내 우선순위**로 재배치
 - [x] 동일 cell 내 우선순위를 재현 가능하게 기술: coverage tier(USCS>NAACCR>SEER-national>state) → 최근·최장 기간 → 표준화 → 직접보고 CI; AI/AN은 IHS-PRCDA 우선
@@ -86,4 +86,4 @@
 ## 종합
 - **11항목 중 실질 요구는 전부 적용**([x]). `[~]` 2건은 (a) 항목8의 총계 수치가 최신화됨(163→162), (b) 항목11의 heatmap 번호가 3 대신 4 — 둘 다 요구 내용 자체는 충족, 저자 확인용 표시.
 - 항목 4·5·7·9는 이번 세션에서 실데이터로 재검증(단일+AI 문안, male-BC 0, 추정분모 0, AI/AN status unchanged).
-- 원고 내 관련 카운트(PRISMA·162/48/114·75셀·RoB 39/9·대표 24)는 `crosscheck_master.py` E(30개 숫자)가 자동 검증 — 드리프트 시 FAIL.
+- 원고 내 관련 카운트(PRISMA·162/48/114·73셀·RoB 39/9·대표 22)는 `crosscheck_master.py` E(30개 숫자)가 자동 검증 — 드리프트 시 FAIL.
