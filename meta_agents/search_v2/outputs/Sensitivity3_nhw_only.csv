@@ -57,7 +57,7 @@ disaggregated-AANHPI,Native Hawaiian/PI (aggregate),,1.212," [1.168, 1.258]",234
 disaggregated-AANHPI,Vietnamese,,0.586," [0.566, 0.608]",234,0.586," [0.566, 0.608]",234,unchanged,5,5
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
 subtype-HRneg,Black,,1.796," [1.740, 1.853]",10,1.796," [1.740, 1.853]",10,unchanged,2,1
-subtype-HRneg-HER2pos,Asian-American combined,,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
+subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Black,,1.46," [1.38, 1.54]",286,1.46," [1.38, 1.54]",286,unchanged,1,1
 subtype-HRpos,Black,,0.820," [0.805, 0.836]",10,0.820," [0.805, 0.836]",10,unchanged,2,1
@@ -68,7 +68,7 @@ subtype-HRpos-HER2pos,Asian/PI (aggregate),,0.850," [0.768, 0.941]",2,0.850," [0
 subtype-HRpos-HER2pos,Black,,1.12," [1.08, 1.16]",286,1.12," [1.08, 1.16]",286,unchanged,2,2
 subtype-HRpos-HER2pos,Hispanic,,0.91," [0.88, 0.94]",286,0.91," [0.88, 0.94]",286,unchanged,2,2
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,2,2
-subtype-TNBC,Asian-American combined,,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
+subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,4
 subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,7,7
 subtype-TNBC,Hispanic,,0.860," [0.840, 0.880]",155,0.860," [0.840, 0.880]",155,unchanged,5,5

@@ -25,7 +25,7 @@ REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
 ROWS = [
     ("AI/AN",           {"AIAN"},                                     "aggregate-vs-NHW"),
     ("Hispanic",        {"Hispanic"},                                 "aggregate-vs-NHW"),
-    ("AANHPI",          {"Asian/PI (aggregate)", "Asian-American combined"}, "aggregate-vs-NHW"),
+    ("AANHPI",          {"Asian/PI (aggregate)"}, "aggregate-vs-NHW"),
     ("NHB",             {"Black"},                                    "aggregate-vs-NHW"),
     ("Chinese",         {"Chinese"},                                  "disaggregated-AANHPI"),
     ("Filipina",        {"Filipina", "Filipino"},                     "disaggregated-AANHPI"),

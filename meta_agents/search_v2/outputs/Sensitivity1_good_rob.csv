@@ -44,7 +44,7 @@ disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.12
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,1.459," [1.267, 1.679]",200,unchanged,1,1
 subtype-ERpos-PRneg,Black,,0.974," [0.925, 1.027]",200,0.974," [0.925, 1.027]",200,unchanged,1,1
 subtype-HRneg,Black,,1.796," [1.740, 1.853]",10,1.796," [1.740, 1.853]",10,unchanged,2,2
-subtype-HRneg-HER2pos,Asian-American combined,,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
+subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Black,,1.46," [1.38, 1.54]",286,1.46," [1.38, 1.54]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Japanese,,0.88," [0.82, 0.95]",161,0.88," [0.82, 0.95]",161,unchanged,1,1
@@ -65,7 +65,7 @@ subtype-HRpos-HER2pos,Hispanic,,0.91," [0.88, 0.94]",286,0.91," [0.88, 0.94]",28
 subtype-HRpos-HER2pos,Japanese,,1.03," [1.02, 1.05]",161,1.03," [1.02, 1.05]",161,unchanged,1,1
 subtype-HRpos-HER2pos,Native Hawaiian,,1.35," [1.347, 1.351]",161,1.35," [1.347, 1.351]",161,unchanged,1,1
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,2,2
-subtype-TNBC,Asian-American combined,,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
+subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,4
 subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,7,4
 subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,0.53," [0.39, 0.71]",161,unchanged,1,1

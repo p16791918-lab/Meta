@@ -64,7 +64,7 @@ Values are the representative population-based estimate per group (one per regis
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
 | Chinese | IRR | 0.53 [0.39, 0.71] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Low |
-| Asian-American combined | IRR | 0.61 [0.58, 0.65] | Gomez2017_CCR (2009-2013) | California-CCR | Low |
+| Asian American (aggregate) | IRR | 0.61 [0.58, 0.65] | Gomez2017_CCR (2009-2013) | California-CCR | Low |
 | Asian/PI (aggregate) | IRR | 0.700 [0.680, 0.720] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |
 | Filipina | IRR | 0.84 [0.8, 0.88] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Low |
 | AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |

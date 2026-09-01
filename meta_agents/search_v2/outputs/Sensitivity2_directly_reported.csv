@@ -46,7 +46,7 @@ age-lt50,Asian/PI (aggregate),,0.96," [0.95, 0.97]",146,0.96," [0.95, 0.97]",146
 age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
-subtype-HRneg-HER2pos,Asian-American combined,,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
+subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Black,,1.46," [1.38, 1.54]",286,1.46," [1.38, 1.54]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Japanese,,0.88," [0.82, 0.95]",161,0.88," [0.82, 0.95]",161,unchanged,1,1
@@ -65,7 +65,7 @@ subtype-HRpos-HER2pos,Hispanic,,0.91," [0.88, 0.94]",286,0.91," [0.88, 0.94]",28
 subtype-HRpos-HER2pos,Japanese,,1.03," [1.02, 1.05]",161,1.03," [1.02, 1.05]",161,unchanged,1,1
 subtype-HRpos-HER2pos,Native Hawaiian,,1.35," [1.347, 1.351]",161,1.35," [1.347, 1.351]",161,unchanged,1,1
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,2,1
-subtype-TNBC,Asian-American combined,,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
+subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,2
 subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,7,2
 subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,0.53," [0.39, 0.71]",161,unchanged,1,1

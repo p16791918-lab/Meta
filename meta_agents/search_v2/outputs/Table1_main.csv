@@ -26,7 +26,7 @@ American Indian and Alaska Native (AI/AN) by region,AIAN (Southern Plains),IRR,"
 American Indian and Alaska Native (AI/AN) by region,AIAN (Northern Plains),IRR,"1.33 [1.26, 1.41]",Melkonian2021_IHS-PRCDA,2012-2016,IHS-PRCDA,Low
 Middle Eastern,Middle Eastern,IRR,"0.86 [0.84, 0.88]",Nasseri2009,1988-2004,California-CCR,Moderate
 Triple-negative breast cancer,Chinese,IRR,"0.53 [0.39, 0.71] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
-Triple-negative breast cancer,Asian-American combined,IRR,"0.61 [0.58, 0.65]",Gomez2017_CCR,2009-2013,California-CCR,Low
+Triple-negative breast cancer,Asian American (aggregate),IRR,"0.61 [0.58, 0.65]",Gomez2017_CCR,2009-2013,California-CCR,Low
 Triple-negative breast cancer,Asian/PI (aggregate),IRR,"0.700 [0.680, 0.720]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
 Triple-negative breast cancer,Filipina,IRR,"0.84 [0.8, 0.88] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
