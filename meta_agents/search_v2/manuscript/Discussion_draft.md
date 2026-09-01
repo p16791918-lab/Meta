@@ -35,7 +35,10 @@ estimates from different publications are not independent; the analysis therefor
 representative population-based estimate per group and analytic dimension rather than pooling them.
 First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
 Service–linked estimate was preferred for that group, and the reported AI/AN figures are the
-undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁴ Second, reference
+undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁴ In the Northern
+Plains, for example, unlinked state registries placed AI/AN breast incidence at a rate ratio of
+0.90 relative to NHW women, whereas the IHS-linked estimate for the same region placed it at
+1.33—the comparison reversing direction with case ascertainment.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used a non-Hispanic White comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
