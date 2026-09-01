@@ -53,11 +53,6 @@ DIM_DISPLAY = {
     "subtype-ERneg-PRpos": "ER−/PR+",
     "age-lt40": "Age <40", "age-ge40": "Age ≥40",
     "age-lt50": "Age <50", "age-ge50": "Age ≥50",
-    "male-BC": "Male BC",
-    "male-BC-TNBC": "Male BC, TNBC",
-    "male-BC-HRpos-HER2neg": "Male BC, HR+/HER2−",
-    "male-BC-HRpos-HER2pos": "Male BC, HR+/HER2+",
-    "male-BC-HRneg-HER2pos": "Male BC, HR−/HER2+",
     "nativity": "By nativity",
 }
 

@@ -22,7 +22,6 @@ DIMS = [
     ("AIAN", "American Indian and Alaska Native (AI/AN) by region"),
     ("disaggregated-MENA", "Middle Eastern"),
     ("subtype-TNBC", "Triple-negative breast cancer"),
-    ("male-BC", "Male breast cancer"),
 ]
 
 

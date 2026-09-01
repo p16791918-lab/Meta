@@ -111,7 +111,8 @@ def main():
             # for provenance; noted narratively).
             and "young" not in r.get("minority_group", "").lower()
             # Male breast cancer is outside the female-incidence scope of the review
-            # (eligibility = women); kept in the ledger but excluded from the synthesis.
+            # (eligibility = women); male-only estimates were removed from the ledger,
+            # and this filter remains as a guard against any re-introduction.
             and not r.get("outcome_dim", "").lower().startswith("male")]
     for r in rows:
         fam, tier, fclass = registry_family(r["registry"])
