@@ -290,3 +290,33 @@ overlap-robustness sensitivity analysis; adding them would duplicate the same re
 
 Decision: the deferred bucket of 6 is correct as-is; no ledger rows added, no counts change
 (162 included = 42 extractable + 6 deferred + 114 narrative; 76 cells; 25 representatives).
+
+## SUPERSEDES the "all 6 stay deferred" entry above — 5 entered as overlaps, 1 held out
+After the author supplied the correct rec 461 full text (PMID 26320932) and pushed to extract
+every deferred study that has recoverable data, the deferred bucket was resolved by ENTERING the
+extractable overlaps into the ledger (consistent with how all other overlapping registry
+estimates are handled — as sensitivity-only rows, never representatives). Verified that the
+representative set is byte-for-byte unchanged (76 cells, 25 representatives; Table 1 and all
+figures identical).
+
+Entered as overlap/sensitivity rows (finalize marks each "no (overlaps representative)"):
+- **236** Gomez CCR 1988-2004 — 5 Asian-subgroup breast rates vs NHW 146.1 (state < SEER-21).
+- **4027** Jin eight-state SEER+NPCR 2009-2011 — 7 Asian-subgroup rates vs NHW 134.4 (8-state
+  subset < national SEER-21; a new registry tier was added for the multi-state subset).
+- **461** Watanabe-Galloway NE/ND/SD state 2002-2009 — AI/AN 134.6 vs NHW 149.3, RR 0.9
+  (unlinked state registries → AI/AN-undercount rule demotes below IHS-linked rec 3662).
+- **2137** Melkonian urban IHS-linked 2008-2017 — urban AI/AN 74.2 vs NHW 129.6, RR 0.57
+  (urban UIHO subset < full PRCDA; a new urban-subset tier was added).
+- **419** Amirikia CCR 1988-2006 — triple-negative by age band, age-standardized by the review
+  to all ages (2000 US weights): NHB 23.6, NHW 12.6, Hispanic 10.2 → IRR 1.87 / 0.81
+  (California < USCS; overlaps rec 155).
+
+Held out (1 quantitative-eligible, non-extractable):
+- **209** Zhang NPCR+SEER 2011-2019 — triple-negative, but the paper reports only temporal
+  trends (APC) plus a single 2019 point (NHB 25.0), with no per-race denominators or all-age
+  rate table from which a White comparison could be computed. The project's own worklist had
+  already flagged it "TODO-trend / NARRATIVE?(APC/trend-dominant)."
+
+Counts after the change: 162 included = 47 extractable + 1 non-extractable-quant (209) + 114
+narrative; 48 quantitative-eligible = 47 + 1. 157 estimates; 76 cells; 25 representatives;
+RoB 38 low / 9 moderate of 47. All crosschecks A-F pass.

@@ -23,15 +23,14 @@
 
 ## Included
 - Studies included in review: 162
-  - Quantitative synthesis: 48 eligible → 42 with extractable data
-    (6 quantitative-eligible studies did not contribute a representative estimate because each
-    overlaps a cell already represented by a broader or better-classified study — all are
-    White-comparable, none narrative-only: 209 (USCS triple-negative by race, overlaps 155);
-    236 (California-registry Asian subgroups vs NHW, overlaps the SEER-21 subgroup
-    representatives); 419 (California-registry triple-negative by age band only, no all-age
-    total); 2137 (urban AI/AN, overlaps the AI/AN representatives); 4027 (eight-state SEER+NPCR
-    Asian subgroups, overlaps the SEER-21 subgroup representatives); and 461 (Northern-Plains
-    AI/AN — correct full text not obtainable, and AI/AN otherwise represented))
+  - Quantitative synthesis: 48 eligible → 47 with extractable data
+    (25 supplied a cell representative; the other 22 contributed overlapping estimates carried
+    only in the sensitivity analysis — 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR Asian
+    subgroups; 461 Northern-Plains AI/AN [unlinked state registries, AI/AN-undercount]; 2137
+    urban AI/AN; 419 California triple-negative, age-standardized by the review from reported
+    age-specific rates. 1 quantitative-eligible study did not contribute an extractable estimate:
+    209 (Zhang, NPCR+SEER triple-negative) reports only temporal trends, with no all-age rate
+    from which a White comparison could be recovered.)
   - Narrative synthesis only: 114
 
 ## Notes for the flowchart
@@ -40,5 +39,5 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 42 extracted studies contributed 141 estimates; 25 studies supplied at
+- The 47 extracted studies contributed 157 estimates; 25 studies supplied at
   least one main-analysis representative.

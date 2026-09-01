@@ -10,9 +10,14 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | aggregate-vs-NHW | Asian/PI (aggregate) | 6 | random-effects (PM/REML, HKSJ) | 0.798 (0.724-0.878) | 100 | <0.001 | 0.769 (0.751-0.787) | no |
 | aggregate-vs-NHW | Black | 9 | random-effects (PM/REML, HKSJ) | 0.951 (0.936-0.965) | 96 | <0.001 | 0.933 (0.920-0.946) | no |
 | aggregate-vs-NHW | Hispanic | 7 | random-effects (PM/REML, HKSJ) | 0.719 (0.675-0.765) | 99 | <0.001 | 0.718 (0.706-0.730) | no |
-| disaggregated-AANHPI | Asian Indian/Pakistani | 2 | random-effects (PM/REML, HKSJ) | 0.766 (0.044-13.475) | 99 | <0.001 | 0.958 (0.937-0.979) | yes |
-| disaggregated-AANHPI | Korean | 2 | random-effects (PM/REML, HKSJ) | 0.415 (0.001-210.570) | 100 | <0.001 | 0.677 (0.654-0.701) | yes |
+| disaggregated-AANHPI | Asian American (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.746 (0.350-1.592) | 99 | <0.001 | 0.792 (0.784-0.800) | yes |
+| disaggregated-AANHPI | Asian Indian/Pakistani | 3 | random-effects (PM/REML, HKSJ) | 0.775 (0.442-1.359) | 99 | <0.001 | 0.958 (0.937-0.979) | no |
+| disaggregated-AANHPI | Chinese | 3 | random-effects (PM/REML, HKSJ) | 0.618 (0.370-1.032) | 100 | <0.001 | 0.760 (0.745-0.775) | no |
+| disaggregated-AANHPI | Filipina | 3 | random-effects (PM/REML, HKSJ) | 0.787 (0.586-1.058) | 99 | <0.001 | 0.857 (0.840-0.875) | no |
+| disaggregated-AANHPI | Japanese | 3 | random-effects (PM/REML, HKSJ) | 0.887 (0.529-1.487) | 99 | <0.001 | 1.045 (1.009-1.083) | no |
+| disaggregated-AANHPI | Korean | 4 | random-effects (PM/REML, HKSJ) | 0.419 (0.201-0.876) | 100 | <0.001 | 0.677 (0.654-0.701) | no |
 | disaggregated-AANHPI | Native Hawaiian | 2 | random-effects (PM/REML, HKSJ) | 1.252 (0.950-1.651) | 11 | 0.290 | 1.211 (1.123-1.305) | yes |
+| disaggregated-AANHPI | Vietnamese | 3 | random-effects (PM/REML, HKSJ) | 0.506 (0.318-0.803) | 98 | <0.001 | 0.586 (0.565-0.607) | no |
 | subtype-HRneg | Black | 2 | random-effects (PM/REML, HKSJ) | 1.695 (0.814-3.533) | 96 | <0.001 | 1.796 (1.740-1.853) | yes |
 | subtype-HRpos | Black | 2 | random-effects (PM/REML, HKSJ) | 0.759 (0.286-2.020) | 99 | <0.001 | 0.820 (0.805-0.836) | yes |
 | subtype-HRpos-HER2neg | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.775 (0.176-3.410) | 99 | <0.001 | 0.870 (0.855-0.885) | yes |

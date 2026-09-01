@@ -100,3 +100,34 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   "In [minority]… higher/lower than NHW") and taken as-is. The overall Black
   statement is printed NHW-vs-Black (1.04); it would invert to 0.96 but was left
   unrecorded as ambiguous.
+
+## 7. Overlap studies entered for the sensitivity analysis (not representatives)
+These five were read from full text and enter the ledger only as
+overlap/sensitivity rows; each collapses to an existing cell representative
+(finalize_representatives), so none changes a main-text estimate.
+- **rec 236 (Gomez 2010, California Cancer Registry, 1988-2004).** Table 1
+  prints age-standardized (2000 US) invasive breast rates: NHW 146.1
+  (145.5-146.7); Chinese 73.5 (71.6-75.4), Japanese 102.5 (99.3-105.9), Filipina
+  100.4 (98.1-102.8), Korean 46.3 (43.8-49.0), Vietnamese 59.9 (56.7-63.1). IRR =
+  rate/146.1 with delta-method CI (e.g. Chinese 0.503, 0.490-0.516). State
+  registry (< national SEER-21); overlaps the SEER-21 subgroup reps (rec 234).
+- **rec 4027 (Jin 2016, eight-state SEER+NPCR, 2009-2011).** Table 4 (female)
+  prints breast rates with CIs: NHW 134.4 (133.8-135.1); Chinese 82.8, Filipina
+  111.3, Japanese 127.8, Korean 75.6, South Asian [=Asian Indian/Pakistani]
+  106.3, Vietnamese 72.2, Asian aggregate 94.5. IRR = rate/134.4, delta-method
+  CI. Eight-state subset (< national SEER-21); overlaps rec 234.
+- **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).**
+  Table 2 prints all-ages age-standardized (2000 US) breast rates: AI/AN 134.6,
+  NHW 149.3, RR 0.9. IRR = 134.6/149.3 = 0.902. Unlinked state registries
+  undercount AI/AN, so this is demoted by the AI/AN-undercount rule below the
+  IHS-linked Northern-Plains representative (rec 3662).
+- **rec 2137 (Melkonian 2022, urban IHS-linked USCS-AIAD, 2008-2017).** Table 2
+  prints all-ages breast rates for urban populations: AI/AN 74.2, NHW 129.6, RR
+  0.57. IRR = 74.2/129.6 = 0.573. Urban-restricted IHS subset (< full PRCDA);
+  overlaps the AI/AN aggregate representative (rec 500).
+- **rec 419 (Amirikia 2011, California Cancer Registry, 1988-2006).** Table 2
+  prints age-specific triple-negative rates by race (0-39, 40-49, 50-59, 60-74,
+  >=75). These were age-standardized by the review to all ages with 2000 US
+  standard-population weights (0.5697/0.1540/0.1112/0.1048/0.0603): NHB 23.6, NHW
+  12.6, Hispanic 10.2 per 100,000. IRR(Black)=1.87, IRR(Hispanic)=0.81.
+  California registry (< national USCS); overlaps the USCS TNBC rep (rec 155).

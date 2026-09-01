@@ -47,7 +47,17 @@ def registry_family(reg):
     """
     s = reg.lower()
     if "ihs" in s or "prcda" in s:
+        # An urban-only (UIHO) IHS-linked subset is a subset of the full
+        # PRCDA case pool, so it is less comprehensive than a national
+        # IHS-PRCDA source and must not out-rank it within the cell.
+        if "urban" in s or "uiho" in s:
+            return ("IHS-PRCDA (urban UIHO subset)", 4, "IHS-PRCDA")
         return ("IHS-PRCDA", 5, "IHS-PRCDA")
+    # A fixed multi-state (e.g., 8-state) SEER+NPCR subset covers more than one
+    # state but far less than the full national USCS/NAACCR file; rank it below
+    # national SEER so the national representative is preferred.
+    if "8-state" in s or "eight-state" in s or "8 state" in s:
+        return ("Multi-state SEER+NPCR (8-state subset)", 5, "national")
     if "uscs" in s or "50-state" in s or "npcr" in s:
         return ("USCS(NPCR+SEER ~99%)", 9, "national")
     if "naaccr" in s or "multi-state" in s or "cina" in s:

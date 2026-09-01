@@ -6,7 +6,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
-| AIAN | AIAN | 0.87 (2510) | 0.384 (107) | **changed** |
+| AIAN | AIAN | 0.87 (2510) | 0.573 (2137) | **changed** |
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-lt40 | Black | 1.183 (265) | - (-) | **dropped** |
 | age-lt40 | Black (age<40) | 1.16 (199) | - (-) | **dropped** |

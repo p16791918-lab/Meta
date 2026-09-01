@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). Two reviewers independently; disagreements resolved by consensus or a third reviewer.
 
-Overall (42 studies): {'Low': 35, 'Moderate': 7}. Main-analysis representatives: {'Low': 20, 'Moderate': 5}
+Overall (47 studies): {'Low': 38, 'Moderate': 9}. Main-analysis representatives: {'Low': 20, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -24,12 +24,15 @@ Overall (42 studies): {'Low': 35, 'Moderate': 7}. Main-analysis representatives:
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
+| 236 | Gomez 2010 | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | Yes | **Moderate** |
 | 286 | Kong2020_SEER18 | SEER 18 | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 324 | Gomez2017_CCR | California Cancer Registry | 2009-2013 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 333 | Keegan2010_CCR | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 346 | Richardson2016_27736827 | USCS(NPCR+SEER) | 2011 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 381 | Lund2010_AtlantaSEER | Metropolitan Atlanta (SEER | 2003-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | **Moderate** |
+| 419 | Amirikia 2011 | California Cancer Registry | 1988-2006 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | **Moderate** |
+| 461 | Watanabe-Galloway 2015 | NE/ND/SD state registries | 2002-2009 | Yes | Yes | Yes | Yes | Unclear | Yes | No | Yes | Yes | **Moderate** |
 | 463 | Keegan2007_GBACR | Greater Bay Area (Northern | 1990-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 485 | Harper2009_SEER | SEER | 2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | **Moderate** |
 | 500 | Gopalani2020_31764279 | IHS-linked | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
@@ -38,6 +41,7 @@ Overall (42 studies): {'Low': 35, 'Moderate': 7}. Main-analysis representatives:
 | 955 | Goggins2009 | SEER (SF/Seattle/Detroit/A | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 1478 | Yazzie2025_Navajo | Navajo Nation registry (IH | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2011-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 3182 | Pinheiro2009_FL | Florida Cancer Registry | 1999-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
@@ -45,6 +49,7 @@ Overall (42 studies): {'Low': 35, 'Moderate': 7}. Main-analysis representatives:
 | 3298 | Carozza2006_multistate | Multi-state registries (NA | 1995-2000 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 3398 | Gomez2003_SEERplusCCR | SEER + California CR | 1988-1992 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 3662 | Melkonian2021_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 4027 | Jin 2016 | 8-state SEER+NPCR (Jin) | 2009-2011 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 4040 | Miller2008_NAACCR-API | NAACCR/SEER API (state+SEE | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 4098 | McCracken2007_CCR | California Cancer Registry | 2000-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | **Moderate** |
 | 4333 | Wilkinson2002 | Florida (Miami-Dade FCDS) | 1990-1998 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |

@@ -53,7 +53,7 @@ against the source table, figure, or text. Screening and extraction were thus pe
 single reviewer with model assistance rather than by two independent reviewers; this is noted as a
 limitation. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis (42 provided extractable quantitative data) and the remaining 114 informed the
+synthesis (47 provided extractable quantitative data) and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
@@ -94,7 +94,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 42 extracted studies
+large-language-model assistance, and every item was recorded for all 47 extracted studies
 (Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
