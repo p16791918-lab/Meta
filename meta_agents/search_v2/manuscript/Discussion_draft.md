@@ -7,7 +7,8 @@
 ## Discussion
 
 This review assembled disaggregated, population-based estimates of invasive breast cancer
-incidence for U.S. racial and ethnic groups against a common non-Hispanic White (NHW) comparator.
+incidence for U.S. racial and ethnic groups against a common non-Hispanic White (NHW) comparator
+(an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
 At the aggregate level, each minority group had lower overall incidence than NHW women—American
 Indian and Alaska Native (AI/AN) women had the lowest incidence rate ratio (IRR 0.56), followed by
 Hispanic/Latina (0.72) and Asian American, Native Hawaiian, and Pacific Islander (AANHPI, 0.77)
