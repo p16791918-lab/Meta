@@ -104,7 +104,12 @@ causal effect for which a GRADE-type certainty rating would be appropriate.
 Each estimate was expressed as an IRR relative to NHW women. When a study reported
 age-standardized rates rather than a ratio, the IRR was computed from the minority and NHW
 rates of the same study, standard population, and diagnosis period, and its confidence interval
-was propagated from the reported rate intervals by the delta method. Because estimates within a
+was propagated from the reported rate intervals by the delta method. Every representative therefore
+rested on either a directly reported ratio or on rates from a single source; none relied on a
+comparator supplied from outside its own study or back-estimated to reproduce a rounded ratio. The
+only estimate that borrowed an external reference—an Alaska Native rate whose source reported no
+in-paper White comparator, paired with a SEER-Explorer non-Hispanic White rate for the same
+period—was retained solely as a sensitivity overlap, never as a representative. Because estimates within a
 group are drawn from overlapping registry populations and are not independent, they were not
 combined into a pooled random-effects estimate; the primary result for each group is the
 representative population-based estimate defined above. The analysis therefore presents the
