@@ -88,16 +88,22 @@ _gc = _C(r.get("synth_group", "") for r in inc)
 _next, _nelig, _nnarr = _gc["quant-extracted"], _gc["quant-eligible"], _gc["narrative"]
 _ninc = _next + _nelig + _nnarr          # total included (recomputed, not hard-coded)
 H("Supplementary Table 2. Characteristics of included studies (n = %d)" % _ninc, 1)
+if _nelig:
+    _elig_clause = ("%d were eligible for quantitative synthesis (of these, %d provided extractable "
+                    "quantitative data and entered the analysis, and %d were eligible but provided no "
+                    "extractable data), and the remaining %d contributed to the narrative synthesis only "
+                    "(%d = %d + %d + %d)." % (_next + _nelig, _next, _nelig, _nnarr, _ninc, _next, _nelig, _nnarr))
+else:
+    _elig_clause = ("%d were eligible for quantitative synthesis and all provided extractable quantitative "
+                    "data that entered the analysis, and the remaining %d contributed to the narrative "
+                    "synthesis only (%d = %d + %d)." % (_next, _nnarr, _ninc, _next, _nnarr))
 P("The %d studies are all publications included in the systematic review; not all entered the "
-  "quantitative synthesis. They are grouped below by how each contributed: %d were eligible for "
-  "quantitative synthesis (of these, %d provided extractable quantitative data and entered the "
-  "analysis, and %d were eligible but provided no extractable data), and the remaining %d "
-  "contributed to the narrative synthesis only (%d = %d + %d + %d). Study design is classified "
+  "quantitative synthesis. They are grouped below by how each contributed: %s Study design is classified "
   "from the data source; most included studies are population-based registry/incidence studies "
   "rather than cohort studies. A PMID (or DOI where no PMID exists) is given for every study so "
   "that each of the %d included studies—including the %d in the narrative synthesis—can be "
   "located individually."
-  % (_ninc, _next + _nelig, _next, _nelig, _nnarr, _ninc, _next, _nelig, _nnarr, _ninc, _nnarr),
+  % (_ninc, _elig_clause, _ninc, _nnarr),
   True)
 _SECT = {
     "quant-extracted": "Quantitative synthesis — data extracted (n = %d)" % _next,
@@ -149,7 +155,7 @@ TB(["Study", "Dimension", "Group", "Comparator", "Registry family", "Period", "S
    rows, [1500, 1450, 1700, 1700, 1550, 1050, 1150, 1750, 2050])
 P("Registries are nested (county ⊂ state ⊂ SEER ⊂ NAACCR ⊂ USCS), so overlapping estimates for the same analytic cell are not independent; one representative was kept per registry family per cell (selection criteria in Methods).", True)
 P("Main analysis: “yes (representative)” = the estimate carried into the main analysis as the group’s benchmark; “no (overlaps representative)” = an overlapping estimate for the same cell, used only when the representative is re-selected in the sensitivity analyses (Table 6); “no (AI/AN undercount)” = an unlinked national-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study.", True)
-P("Comparator: the reference group is shown as each source defined it — non-Hispanic White (NHW) where the source stratified by Hispanic origin, or “White (not NH-stratified)” otherwise (the latter concentrated in the receptor-defined subtypes, male breast cancer, and AI/AN comparisons). Because the reference rate and the minority rate come from the same source, period, and standard population, the incidence rate ratio is internally valid even where the reference is unstratified White; a sensitivity analysis restricted to NHW-comparator estimates is reported in Supplementary Table 6c.", True)
+P("Comparator: the reference group is shown as each source defined it — non-Hispanic White (NHW) where the source stratified by Hispanic origin, or “White (not NH-stratified)” otherwise (the latter concentrated in the receptor-defined subtypes and AI/AN comparisons). Because the reference rate and the minority rate come from the same source, period, and standard population, the incidence rate ratio is internally valid even where the reference is unstratified White; a sensitivity analysis restricted to NHW-comparator estimates is reported in Supplementary Table 6c.", True)
 P("Standard population: age-standardization is to the 2000 U.S. standard unless the “Std pop” column shows otherwise. Because the rate ratio is formed within each study, the standard population largely cancels; the few non-2000 estimates are flagged in the “Std pop” column.", True)
 PB()
 
@@ -186,7 +192,7 @@ P("Table 6b. Directly-reported-only (computed estimates dropped): %d unchanged, 
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch2], [1800, 2200, 3000, 3000, 900])
 s3 = rd("outputs/Sensitivity3_nhw_only.csv"); ch3 = [r for r in s3 if r["status"] != "unchanged"]
 _c3 = _Ctr(r["status"] for r in s3)
-P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped. The aggregate, disaggregated-AANHPI, and Hispanic-origin cells are unchanged because they already use an NHW comparator; the dropped cells are those whose only representative used an unstratified White reference — the receptor-defined subtype set (Loo 2019), the ER/PR subtypes (Gleason 2012), and the age-specific Black and US-born nativity cells — confirming which findings depend on the unstratified-White comparator."
+P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped. The aggregate, disaggregated-AANHPI, and Hispanic-origin cells are unchanged because they already use an NHW comparator; the dropped cells are those whose only representative used an unstratified White reference — the receptor-defined subtype set (Loo 2019), the ER/PR subtypes (Gleason 2012), and the two age-specific Black cells — confirming which findings depend on the unstratified-White comparator."
   % (_c3["unchanged"], sum(_c3.values()), _c3["changed"], _c3["dropped"]))
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch3], [1800, 2200, 3000, 3000, 900])
 P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (low-risk-of-bias only in Table 6a; author-reported IRR/SIR only in Table 6b; NHW-comparator only in Table 6c). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; the remaining cells were unchanged. A “dropped” cell means no estimate met the restriction, not that the main estimate changed.", True)
