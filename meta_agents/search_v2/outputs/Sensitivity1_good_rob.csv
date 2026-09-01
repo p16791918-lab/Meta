@@ -39,8 +39,7 @@ age-lt50,Japanese,,1.479," [1.252, 1.748]",522,1.479," [1.252, 1.748]",522,uncha
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",522,unchanged,1,1
 aggregate-vs-NHW,AIAN,,0.560," [0.550, 0.570]",500,0.560," [0.550, 0.570]",500,unchanged,6,5
 aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,5,4
-aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,9,8
-aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,0.98," [0.97, 0.98]",2406,unchanged,1,1
+aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,10,9
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,7,6
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,1

@@ -22,7 +22,7 @@
 - [x] Gopalani 2020(rec 500) = **Low RoB** 확인 (`TableS_risk_of_bias.csv`)
 - [x] 저위험-only 감도에서 AI/AN overall 대표(rec 500) **status = unchanged** (교수님이 본 "대표 변경"은 제거됨)
 - [x] 원인 규명·수정: `sensitivity_analyses.py`의 best()가 finalize의 **IHS-linked override를 미반영**해 허위 'changed' 발생 → override 반영 + drift 가드 추가
-- [x] master dataset부터 재검증: crosscheck A–F PASS, 현재 감도 62/40/56 (unchanged), 3/5/1 changed, 13/33/21 dropped
+- [x] master dataset부터 재검증: crosscheck A–F PASS. **현재 감도(75셀 기준): unchanged 57/37/56, changed 8/5/1, dropped 10/33/18.** AI/AN aggregate(rec 500, Low)는 low-RoB 감도에서 unchanged
 
 ## 4. Study selection 기술 통일
 - [x] Methods의 "2인 독립 reviewer + 제3자" 문안 **철회** → 실제(단일 리뷰어+AI)로 재작성
@@ -31,8 +31,9 @@
 - [x] AI 역할 단계별 투명 기술: T/A 선별=AI(저자가 제외 표본 재검증), **전문 포함판정=저자 직접**, 추출=AI 보조+저자 원문 대조 검증, RoB=저자(단일)+AI
 
 ## 5. Eligibility ↔ population 일치 (male BC)
-- [x] male breast cancer **제외** — 78 대표 셀에 male-BC 0개, Results/Abstract에 male-breast 언급 0
-- [x] eligibility 여성 명시: Methods "invasive breast cancer incidence among women", Abstract "female invasive"
+- [x] male breast cancer **원장에서 제외** — rec 2406의 male-BC 5행 삭제(scope=여성); 75 대표 셀에 male-BC 0개, Results/Table 1/Abstract에 male-breast 0
+- [x] rec 2406의 **여성 흑인 행은 유지**하되 NHB 집계 셀에 overlap으로 병합(중복 'Black (women)' 셀 제거; 대표는 rec 169, 0.93 유지)
+- [x] eligibility 여성 명시: Methods "among women", Abstract "female invasive"
 
 ## 6. Comparator 정의 정확화
 - [x] Abstract: "versus a non-Hispanic White reference (**unstratified White for a minority of estimates**)"
@@ -40,16 +41,15 @@
 - [x] Supplementary Table 4 + sensitivity(6c)에서 NHW-comparator만 제한한 분석으로 구분
 
 ## 7. 재구성 estimate 방법·main 포함 기준
-- [x] **추정/외부 comparator 분모를 쓴 main 대표값 = 0** (검증: 78 대표 provenance에 estimated/external 없음)
+- [x] **추정/외부 comparator 분모를 쓴 main 대표값 = 0** (검증: 75 대표 provenance에 estimated/external 없음)
 - [x] Hispanic-origin(Pinheiro rec 3182): 추정 분모 폐기 → **원문 보고 NHW-Florida rate 140.4 [137.6, 143.2]** 사용
 - [x] provenance 3구분 명시: directly-reported(IRR 39 + SIR 1) / same-paper computed-from-rates(28+5+5) / external-estimated(0)
 - [x] "외부·추정 comparator estimate를 main 대표로 사용" → 해당 없음(0)이므로 타당성 문제 해소
 
 ## 8. Quantitative vs narrative 3분류 명료화
-- [x] **43 extractable / 5 eligible-but-non-extractable / 114 narrative-only** 3범주 일관 사용
-- [x] "162 = 43 + 5 + 114" 명시 (Results); "48 = 43 + 5" (quant-eligible)
-- [x] 모호한 "115 not entered" 표현 해소: 5편(적격·비추출)을 별도 명시, 나머지 114가 narrative
-- [~] 총계는 163→**162**, narrative 115→**114**로 갱신됨 (rec 1569 preprint 제외). 교수님 원문의 163/115는 당시 수치.
+- [x] **후속 세션에서 deferred 6편을 전부 추출·편입** → 이제 **48 전부 extractable + 114 narrative-only** (2범주로 단순화; eligible-but-non-extractable = 0). "162 = 48 + 114" 명시
+- [x] 모호한 "not entered" 표현 해소: 적격 48편 전부 정량 분석 진입(25→24 대표 + 나머지 overlap/sensitivity)
+- [~] 총계는 교수님 원문 163/48/43/115 → 현재 **162/48/48/114** (preprint·중복 정리 및 6편 편입 반영)
 
 ## 9. AI/AN 해석 ↔ selection rule 일치
 - [x] Discussion에서 논리 구분: "unlinked registries misclassify/undercount AI/AN → IHS-linked(**undercount-adjusted**) estimates 사용, unlinked의 더 낮은 값은 배제" (`Discussion_draft.md` L36–38)
@@ -86,4 +86,4 @@
 ## 종합
 - **11항목 중 실질 요구는 전부 적용**([x]). `[~]` 2건은 (a) 항목8의 총계 수치가 최신화됨(163→162), (b) 항목11의 heatmap 번호가 3 대신 4 — 둘 다 요구 내용 자체는 충족, 저자 확인용 표시.
 - 항목 4·5·7·9는 이번 세션에서 실데이터로 재검증(단일+AI 문안, male-BC 0, 추정분모 0, AI/AN status unchanged).
-- 원고 내 관련 카운트(PRISMA·162/48/43/114·78셀·RoB 37/6·대표 26)는 `crosscheck_master.py` E(30개 숫자)가 자동 검증 — 드리프트 시 FAIL.
+- 원고 내 관련 카운트(PRISMA·162/48/114·75셀·RoB 39/9·대표 24)는 `crosscheck_master.py` E(30개 숫자)가 자동 검증 — 드리프트 시 FAIL.

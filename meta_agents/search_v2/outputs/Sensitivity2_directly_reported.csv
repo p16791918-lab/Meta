@@ -1,7 +1,7 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
 aggregate-vs-NHW,AIAN,,0.560," [0.550, 0.570]",500,0.58," [0.52, 0.65]",66,changed,6,2
 aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.92," [0.9, 0.95]",66,changed,5,2
-aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.97," [0.95, 1.0]",66,changed,9,2
+aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.98," [0.97, 0.98]",2406,changed,10,3
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.75," [0.73, 0.76]",66,changed,7,2
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,3,1
 Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,,,,dropped,1,0
@@ -47,7 +47,6 @@ age-lt50,AIAN,,0.75," [0.72, 0.79]",146,0.75," [0.72, 0.79]",146,unchanged,1,1
 age-lt50,Asian/PI (aggregate),,0.96," [0.95, 0.97]",146,0.96," [0.95, 0.97]",146,unchanged,1,1
 age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
-aggregate-vs-NHW,Black (women),,0.98," [0.97, 0.98]",2406,0.98," [0.97, 0.98]",2406,unchanged,1,1
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
 subtype-HRneg-HER2pos,Asian-American combined,,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1

@@ -11,7 +11,6 @@ One estimate per registry family; not pooled across groups.
 | Hispanic | 0.718 | 0.706-0.730 | 169 |
 | Asian/PI (aggregate) | 0.769 | 0.751-0.787 | 169 |
 | Black | 0.933 | 0.920-0.946 | 169 |
-| Black (women) | 0.980 | 0.975-0.985 | 2406 |
 
 **disaggregated-AANHPI**
 

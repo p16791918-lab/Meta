@@ -1,6 +1,6 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 76 total — unchanged 38, changed 5, dropped 33.
+Cells: 75 total — unchanged 37, changed 5, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -8,7 +8,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 |----|----|----|----|----|
 | aggregate-vs-NHW | AIAN | 0.560 (500) | 0.58 (66) | **changed** |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 0.769 (169) | 0.92 (66) | **changed** |
-| aggregate-vs-NHW | Black | 0.933 (169) | 0.97 (66) | **changed** |
+| aggregate-vs-NHW | Black | 0.933 (169) | 0.98 (2406) | **changed** |
 | aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.75 (66) | **changed** |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.61 (955) | **changed** |
 | Hispanic-origin | Cuban | 0.769 (3182) | - (-) | **dropped** |
