@@ -131,3 +131,8 @@ overlap/sensitivity rows; each collapses to an existing cell representative
   standard-population weights (0.5697/0.1540/0.1112/0.1048/0.0603): NHB 23.6, NHW
   12.6, Hispanic 10.2 per 100,000. IRR(Black)=1.87, IRR(Hispanic)=0.81.
   California registry (< national USCS); overlaps the USCS TNBC rep (rec 155).
+- **rec 209 (Zhang 2022, NPCR+SEER/USCS, 2019).** The text (Figure 2A) prints the
+  2019 age-adjusted triple-negative rates by race: NHB 25.0, NHW 12.8, Hispanic
+  11.5, AI/AN 9.4, API 9.5 per 100,000. IRR = rate/12.8 (NHB 1.95, Hispanic 0.90,
+  AI/AN 0.73, API 0.74). Single-year 2019 cross-section; overlaps the USCS TNBC
+  representative (rec 155, 2015-2019 mean), which is preferred on the longer span.

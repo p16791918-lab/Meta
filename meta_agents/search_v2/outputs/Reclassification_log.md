@@ -320,3 +320,16 @@ Held out (1 quantitative-eligible, non-extractable):
 Counts after the change: 162 included = 47 extractable + 1 non-extractable-quant (209) + 114
 narrative; 48 quantitative-eligible = 47 + 1. 157 estimates; 76 cells; 25 representatives;
 RoB 38 low / 9 moderate of 47. All crosschecks A-F pass.
+
+## CORRECTION on rec 209 — it IS extractable (author was right); deferred bucket now empty
+On a closer re-read, rec 209 (Zhang 2022) DOES report per-race age-adjusted triple-negative rates
+in the text (Figure 2A values): "In 2019, the AAIR was 25.0 per 100,000 for NHB, but only 12.8 for
+NHW, 11.5 for Hispanic, 9.4 in AI/AN and 9.5 in API." The earlier "trend-only, not extractable"
+call was wrong. rec 209 is entered as an overlap (2019 single-year TNBC cross-section vs NHW 12.8:
+NHB 1.95, Hispanic 0.90, AI/AN 0.73, API 0.74), overlapping the USCS TNBC representative rec 155
+(preferred on its longer 2015-2019 span). Representatives verified unchanged (76 cells, 25 reps).
+
+FINAL: all 6 formerly-deferred studies are now extracted as overlap/sensitivity rows. The
+deferred bucket is empty. Counts: 162 included = 48 extractable + 114 narrative; 48
+quantitative-eligible all extractable; 161 estimates; 76 cells; 25 representatives; RoB 39 low /
+9 moderate of 48. All crosschecks A-F pass.

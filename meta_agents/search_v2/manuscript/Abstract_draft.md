@@ -19,7 +19,7 @@ of estimates); ratios not reported directly were recomputed from a single master
 of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
-synthesis (47 with extractable data) and 114 narrative. Overall incidence was lower than NHW in
+synthesis (all 48 with extractable data) and 114 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
