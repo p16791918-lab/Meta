@@ -25,21 +25,28 @@ literature was not sought. Full strings, platforms, dates, and per-database coun
 in Supplementary Table 1.
 
 ### Eligibility criteria
-Studies were eligible if they reported invasive breast cancer incidence among women in the
-United States for at least one racial or ethnic group relative to a White or non-Hispanic
-White (NHW) comparator, either as an incidence rate ratio (IRR) or standardized incidence
-ratio (SIR) or as age-standardized rates from which a ratio could be computed. Both aggregate
+Studies were eligible for inclusion if they reported invasive breast cancer incidence among
+women in the United States for at least one racial or ethnic group. Each included study was then
+assigned to one of two synthesis streams by whether a comparison with a White reference could be
+recovered. A study entered the **quantitative synthesis** when it expressed incidence relative to a
+White or non-Hispanic White (NHW) comparator—as an incidence rate ratio (IRR) or standardized
+incidence ratio (SIR), or as age-standardized minority and White rates from which a ratio could be
+computed. A study that met the inclusion criteria but did not yield such a recoverable White
+comparison—reporting, for example, only age-specific or trend data, rates for a single group, or an
+internal or non-White reference—was carried in the **narrative synthesis**. Both aggregate
 groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific Islander,
 Hispanic/Latina by origin, and American Indian and Alaska Native [AI/AN] by region) and
-receptor-defined molecular subtypes were included. The reference group was recorded as each
+receptor-defined molecular subtypes were eligible. The reference group was recorded as each
 study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
 and those using an unstratified White reference were labelled accordingly, and both were
 retained because the reference and minority rates came from the same source. The review was
 limited to U.S.-resident populations: comparable studies from other countries exist but use a
 different White reference (e.g., White British), different racial and ethnic categories, and
 different standard populations, so their rate ratios are not commensurable with U.S.
-estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed), non-U.S. studies, studies
-without a usable incidence comparison, and mortality- or survival-only reports were excluded.
+estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
+non-U.S. studies, reports that did not present invasive female breast cancer incidence by race or
+ethnicity, and mortality- or survival-only reports were excluded. (A study reporting such incidence
+but without a recoverable White comparison was included in the narrative synthesis, not excluded.)
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
