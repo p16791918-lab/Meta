@@ -36,7 +36,7 @@ def disp_group(g):
 
 
 # Reader-facing labels for the internal analytic-dimension keys (the "Dimension"
-# column of the GRADE / heterogeneity / sensitivity tables).
+# column of the Table 1, heterogeneity, and sensitivity tables).
 DIM_DISPLAY = {
     "aggregate-vs-NHW": "Overall (aggregate)",
     "disaggregated-AANHPI": "AANHPI subgroup",

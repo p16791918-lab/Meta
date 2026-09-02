@@ -28,5 +28,6 @@ or process commentary.
       consistency analysis (`meta_analysis_v2.py` still produces it).
 
 ## Repo housekeeping (not manuscript)
-- [ ] `grade_assessment.py` and `forest_pooled.py` are dead code (GRADE removed; pooled forests
-      removed). Delete when convenient.
+- [x] `grade_assessment.py`, `forest_pooled.py`, and `outputs/TableS_GRADE.csv/md` deleted
+      (GRADE removed in round 2; those files still carried GRADE and the "AI-generated first
+      pass" wording, both of which the feedback said to drop).
