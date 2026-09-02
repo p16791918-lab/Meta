@@ -73,11 +73,10 @@ decision and every extracted estimate was checked against its source table, figu
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
-from the overall pattern. Reading these differences reliably rested on the synthesis itself:
-collapsing overlapping registry estimates to one representative per analytic cell, preferring Indian
-Health Service–linked data where unlinked registries undercount AI/AN cases, harmonizing the White
-comparator, and tracing every rate ratio to a single appraised source. That framework, as much as
-any single estimate, is what the review contributes.
+from the overall pattern. These comparisons rest on a synthesis that collapsed overlapping registry
+estimates to one representative per analytic cell, preferred Indian Health Service–linked data where
+unlinked registries undercount AI/AN cases, harmonized the White comparator, and traced every rate
+ratio to a single appraised source.
 
 ---
 
