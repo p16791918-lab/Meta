@@ -27,50 +27,42 @@ Conclusion → References.
 | **Figure 2** | Aggregate-to-disaggregated heterogeneity forest — AANHPI, Hispanic/Latina, and AI/AN, each an aggregate estimate with its subgroups and 95% CIs | `Fig_forest_main.png` | Feedback #11 (visual synthesis of heterogeneity) |
 | **Figure 3** | Heatmap — IRR by racial/ethnic group × analytic dimension (overall, age, receptor subtypes, TNBC) | `Fig_heatmap.png` | Feedback #11 (pattern shifts by dimension) |
 
-**No main-text "meta-analysis results" (k / I² / Q p) table.** The main analysis
-selects one representative per registry family — it does not pool — so k, I², and
-Cochran's Q p apply only to the all-included *sensitivity* pool, which lives in
-**Supplementary Table 8** with the pooled forests (S Figures 1–3). Putting a
-pooled table in the main text would misrepresent the non-pooling main analysis.
+**No meta-analysis results table anywhere.** The main analysis selects one
+representative per registry family — it does not pool — so no pooled IRR, k, I², or
+Cochran's Q p is presented as a result. A naive pool of the all-included
+overlapping estimates was examined only as an internal consistency check (its
+I² ≈ 99–100% reflects the non-independence of overlapping registry data, which is
+exactly why the review does not pool); it is not shown as a finding, per the
+round-2 feedback.
 
-Methods must state: random-effects only (Paule-Mandel/REML τ², Hartung-Knapp
-CI); Cochran's Q / I² for heterogeneity; one-estimate-per-registry-family main
-analysis with all-included and directly-reported sensitivity analyses; NOS RoB;
-GRADE-informed certainty; single-reviewer-with-AI screening; why no funnel plot
-(k<10, non-independent census data).
+Methods state: no pooled random-effects primary estimate; a
+one-representative-per-registry-family main analysis with low-risk-of-bias,
+directly-reported, and NHW-comparator re-selection sensitivity analyses; JBI risk
+of bias (GRADE and Newcastle–Ottawa dropped in round 2); certainty of evidence not
+graded; single-reviewer-with-AI screening.
 
 ## SUPPLEMENTARY (current single `Supplementary_Materials.docx`)
 
 | Item | Content | Basis (Feedback / reference) |
 |---|---|---|
-| **S Table 1** | Final search strategy per database (platform, date, n, full query) | Feedback #2 + RoB-ref S Table 1 |
-| **S Table 2** | Characteristics of included studies (n = 163) | Manuscript supp (characteristics) |
-| **S Table 3** | Full-text exclusions with reasons (n = 79) | RoB-ref S Table 2 (Reasons for exclusion) |
+| **S Table 1** | Final search strategy per database (platform, date, n, full query) | Feedback #2 |
+| **S Table 2** | Characteristics of included studies (n = 162; study-design column) | Feedback 2nd-#4 |
+| **S Table 3** | Full-text exclusions with reasons | round-1 #2 |
 | **S Table 4** | Registry overlap & representative selection (one-per-family + reason) | Feedback #5 |
-| **S Table 5** | Risk of bias — Newcastle-Ottawa per-item star grid | Feedback #4 + RoB-ref S Table 3 |
-| **S Table 6** | Certainty framework — GRADE-informed scoring (Criteria / Descriptions) | Manuscript supp (GRADE framework) |
-| **S Table 7** | GRADE certainty by outcome | GRADE synthesis |
-| **S Table 8** | Between-study heterogeneity (k, model, I², Q p) + DL vs PM/REML vs HKSJ estimator comparison | Feedback #6 (estimator comparison) |
-| **S Table 9** | Sensitivity analyses (9a good-RoB-only; 9b directly-reported-only) | Feedback #5 (sensitivity) |
-| **S Note 1** | Provenance of estimates & derivation log (directly-reported vs computed-from-rates vs Poisson-SE) | Feedback #6 (distinguish IRR types) |
-| **S Figure 1** | Forest — aggregate groups, Hispanic origin, AI/AN region, MENA | RoB-ref keeps forests in Supplementary |
-| **S Figure 2** | Pooled forest — aggregate racial/ethnic groups (all-included, RE diamond + weights) | RoB-ref (forest + sensitivity in supp) |
-| **S Figure 3** | Pooled forest — triple-negative breast cancer | " |
-| **S Figure 4** | Pooled forest — disaggregated subgroups with ≥2 studies | " |
+| **S Table 5** | Risk of bias — JBI checklist per item (Q1–Q9, overall) | Feedback 2nd-#2 |
+| **S Table 6** | Sensitivity analyses (6a low-RoB; 6b directly-reported; 6c NHW-comparator) | Feedback #5 |
+| **S Note 1** | Provenance of estimates & derivation log (directly-reported vs computed-from-rates vs Poisson-SE) | Feedback #6/#7 (distinguish IRR types) |
 
-*(If the headline disaggregated forest `Fig_forest_AANHPI` is NOT promoted to
-main Figure 2, it becomes S Figure 1 and the others shift down.)*
+There are **no GRADE tables and no pooled forest figures** — both were removed in
+round 2. The three key figures (PRISMA, aggregate-to-disaggregated forest,
+group × dimension heatmap) live in the **main text**, not the Supplementary.
 
 ## Notes on the split
-- **Confirmed Supplementary by Feedback + the RoB reference:** search strategy,
-  reasons for exclusion, Newcastle-Ottawa RoB, registry/representative table,
-  estimator comparison, sensitivity, provenance — and, per the RoB reference,
-  the **forest plots** as well.
-- **Main text is deliberately lean:** the summary IRR table (Table 1), the
-  aggregate meta-analysis results table with k/model/I²/Q p (Table 2), and the
-  PRISMA diagram (Figure 1). Promoting the single headline forest to main
-  Figure 2 is optional — the RoB reference would keep it in the Supplementary.
-- **Table 2 (main)** is the aggregate subset of S Table 8; S Table 8 keeps the
-  full per-cell heterogeneity + estimator detail.
+- **Supplementary:** search strategy, reasons for exclusion, the registry/
+  representative table (Feedback #5), JBI risk of bias, the re-selection
+  sensitivity analyses, and the provenance/derivation log.
+- **Main text is deliberately lean:** Table 1 (summary IRRs by group × dimension)
+  plus Figure 1 (PRISMA), Figure 2 (aggregate-to-disaggregated forest), and
+  Figure 3 (group × dimension heatmap). There is no main-text Table 2.
 - Everything is generated from `breast_extraction.csv` via the pipeline, so the
   split is a rendering/placement decision, not a re-analysis.
