@@ -19,9 +19,13 @@ or process commentary.
       manager (Zotero/EndNote/Mendeley). Two entries have no PMID and are entered manually.
 
 ## Optional / conditional
-- [ ] **Six topic-matched references** were set aside because their full text was not confirmed
-      (DeSantis 2019, Cunningham 2010, Satagopan 2021, Gomez 2013, Miller 2021, Kohler 2015).
-      Reinstate any whose full text is read and confirmed relevant.
+- [x] **Deferred overlap candidates — resolved.** The topic-matched studies previously set aside
+      for unconfirmed full text (recs 209, 236, 419, 461, 2137, 4027) were retrieved, extracted,
+      and entered in the ledger this round as overlap estimates; the deferred bucket is now empty.
+      (An earlier draft of this line named six studies by pre-correction author labels; two of
+      those — "Kohler 2015" and "Miller 2021" — are the internal mislabels for Howlader 2014 and
+      Hendrick 2021, already included as refs 2 and 3, and the other four are not records in the
+      current dataset. See AUTHOR_AUDIT.md.)
 - [ ] **Overlapping-registry pooling** was removed entirely (not shown even as a supplementary
       sensitivity). If a reviewer asks to see the I²/heterogeneity artefact of pooling
       non-independent registries, it can be added back as a clearly labelled secondary
