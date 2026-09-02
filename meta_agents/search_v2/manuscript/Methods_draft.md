@@ -57,8 +57,7 @@ retained. The author then obtained and read the full texts and made all full-tex
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. Screening and extraction were thus performed by a
-single reviewer with model assistance rather than by two independent reviewers; this is noted as a
-limitation. In all, 162
+single reviewer with model assistance. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis, all providing extractable quantitative data, and the remaining 114 informed the
 narrative synthesis. Most included studies were population-based registry or incidence
