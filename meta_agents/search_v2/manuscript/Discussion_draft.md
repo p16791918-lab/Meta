@@ -16,8 +16,8 @@ women, with non-Hispanic Black (NHB) women closest to NHW (0.93). For triple-neg
 (TNBC), however, NHB women had the highest incidence (1.95), while most other groups were at or
 below the NHW rate.
 
-The central observation is that these aggregate figures conceal wide variation among the subgroups
-they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
+The central observation is that these aggregate figures average over the wide variation among the
+subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
 Japanese women; Native Hawaiian women (1.21) and the Native Hawaiian and Pacific Islander (NHPI)
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
@@ -46,8 +46,8 @@ sensitivity analysis was restricted to NHW-comparator estimates. The provenance 
 was recorded, and each rate ratio not reported directly was recomputed and cross-checked against a
 single master dataset.
 
-Bringing these disaggregated estimates onto a common NHW scale, with overlap removed and each source
-appraised, lets aggregate and subgroup results be read side by side. The review is descriptive and
+Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
+and each source appraised, lets aggregate and subgroup results be read side by side. The review is descriptive and
 does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
