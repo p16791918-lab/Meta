@@ -32,8 +32,8 @@ recovered. A study entered the **quantitative synthesis** when it expressed inci
 White or non-Hispanic White (NHW) comparator—as an incidence rate ratio (IRR) or standardized
 incidence ratio (SIR), or as age-standardized minority and White rates from which a ratio could be
 computed. A study that met the inclusion criteria but did not yield such a recoverable White
-comparison—reporting, for example, only age-specific or trend data, rates for a single group, or an
-internal or non-White reference—was carried in the **narrative synthesis**. Both aggregate
+comparison—reporting, for example, only age-specific or trend data, rates for a single group, or a
+reference group that was internal or other than White—was carried in the **narrative synthesis**. Both aggregate
 groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific Islander,
 Hispanic/Latina by origin, and American Indian and Alaska Native [AI/AN] by region) and
 receptor-defined molecular subtypes were eligible. The reference group was recorded as each
