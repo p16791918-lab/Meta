@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Assemble the MAIN-TEXT tables/figures manifest (outputs/_maintext_manifest.json),
 rendered to Word by build_maintext_docx.js. Per MANUSCRIPT_VS_SUPPLE.md the main
-text is lean: Table 1 (summary IRRs by group x dimension), Table 2 (aggregate
-meta-analysis with k / model / pooled IRR / I2 / Cochran's Q p), and the key
-figures (PRISMA + the two representative forests). Everything granular stays in
-the Supplementary."""
+text is lean: Table 1 (summary IRRs by group x dimension) and the key figures
+(Figure 1 PRISMA; Figure 2 the aggregate-to-disaggregated heterogeneity forest;
+Figure 3 the group x analytic-dimension heatmap). There is no pooled
+meta-analysis table in the main text — the analysis selects one representative
+per cell rather than pooling. Everything granular stays in the Supplementary."""
 import csv, json, os, re
 from collections import defaultdict, OrderedDict
 from labels import disp_group

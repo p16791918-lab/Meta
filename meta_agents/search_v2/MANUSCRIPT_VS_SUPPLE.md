@@ -22,10 +22,10 @@ Conclusion → References.
 
 | Item | Content | Source artifact | Basis |
 |---|---|---|---|
-| **Table 1** | Headline IRR by racial/ethnic group × analytic dimension (one unified table, dimensions as section rows), with representative study, RoB, GRADE | `Table1_main.csv/md` | Manuscript Table 1 (summary of associations) |
+| **Table 1** | Headline IRR by racial/ethnic group × analytic dimension (one unified table, dimensions as section rows), with representative study and RoB | `Table1_main.csv/md` | Manuscript Table 1 (summary of associations) |
 | **Figure 1** | PRISMA 2020 flow diagram (two-arm) | `Fig_PRISMA.png` | primary-SR standard (Feedback #3) |
-| **Figure 2** | Forest — disaggregated Asian/NHPI subgroups vs the aggregate (headline finding) | `Fig_forest_AANHPI.png` | headline finding |
-| **Figure 3** | Forest — aggregate groups, Hispanic origin, AI/AN region, MENA | `Fig_forest_overview.png` | — |
+| **Figure 2** | Aggregate-to-disaggregated heterogeneity forest — AANHPI, Hispanic/Latina, and AI/AN, each an aggregate estimate with its subgroups and 95% CIs | `Fig_forest_main.png` | Feedback #11 (visual synthesis of heterogeneity) |
+| **Figure 3** | Heatmap — IRR by racial/ethnic group × analytic dimension (overall, age, receptor subtypes, TNBC) | `Fig_heatmap.png` | Feedback #11 (pattern shifts by dimension) |
 
 **No main-text "meta-analysis results" (k / I² / Q p) table.** The main analysis
 selects one representative per registry family — it does not pool — so k, I², and
