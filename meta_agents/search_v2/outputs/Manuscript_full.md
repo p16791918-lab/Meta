@@ -283,8 +283,8 @@ prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
 the outcome examined (Figure 3), so which group ranks highest depends on the tumor being counted.
 
-Two features of the underlying data shaped these estimates and are part of what the synthesis
-contributes. Because SEER, NPCR/USCS, NAACCR, and state registries cover overlapping populations,
+Two features of the underlying data shaped these estimates. Because SEER, NPCR/USCS, NAACCR,
+and state registries cover overlapping populations,
 estimates from different publications are not independent; the analysis therefore retained one
 representative population-based estimate per group and analytic dimension rather than pooling them.
 First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
@@ -319,9 +319,9 @@ White reference, different racial and ethnic categories, and different standard 
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance rather than by two independent reviewers, so selection and extraction errors cannot be
-fully excluded; to mitigate this, the full text of every included study was read for the inclusion
-decision and every extracted estimate was checked against its source table, figure, or text.
+assistance, so selection and extraction errors cannot be excluded; the full text of every included
+study was read for the inclusion decision and every extracted estimate was checked against its
+source table, figure, or text.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
