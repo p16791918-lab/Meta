@@ -115,12 +115,11 @@ rested on either a directly reported ratio or on rates from a single source; non
 comparator supplied from outside its own study or back-estimated to reproduce a rounded ratio. The
 only estimate that borrowed an external reference—an Alaska Native rate whose source reported no
 in-paper White comparator, paired with a SEER-Explorer non-Hispanic White rate for the same
-period—was retained solely as a sensitivity overlap, never as a representative. Because estimates within a
-group are drawn from overlapping registry populations and are not independent, they were not
-combined into a pooled random-effects estimate; the primary result for each group is the
-representative population-based estimate defined above. The analysis therefore presents the
-racial and ethnic differences and the heterogeneity among subgroups within each aggregate
-category, displayed group by group rather than summarized as a single pooled value. Studies that met
+period—was retained solely as a sensitivity overlap, never as a representative. For the
+non-independence reason given above, these estimates were not combined into a pooled
+random-effects estimate; the primary result for each group is the representative population-based
+estimate, and the analysis presents the racial and ethnic differences and the subgroup
+heterogeneity group by group rather than as a single pooled value. Studies that met
 the inclusion criteria but did not provide a recoverable non-Hispanic White comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.

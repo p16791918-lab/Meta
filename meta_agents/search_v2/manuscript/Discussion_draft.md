@@ -56,8 +56,7 @@ residence,⁵,⁹ and differences in molecular-subtype distribution and in stage
 screening, and access to care have also been described.²,²⁹ Genetic or biological mechanisms were
 not examined.
 
-The review has limitations. Because many estimates come from overlapping or nested registry
-populations, they are not statistically independent and were not combined into a pooled summary.
+The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
 and a few used an unstratified White comparator (the receptor-defined subtypes), which can move a
 ratio slightly. Included studies differed in standard population and diagnosis period, limiting
