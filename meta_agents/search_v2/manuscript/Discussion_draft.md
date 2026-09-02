@@ -28,7 +28,7 @@ women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that desc
 first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
 prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
-the outcome examined (Figure 3), so which group ranks highest depends on the tumor being counted.
+the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates. Because SEER, NPCR/USCS, NAACCR,
 and state registries cover overlapping populations,
