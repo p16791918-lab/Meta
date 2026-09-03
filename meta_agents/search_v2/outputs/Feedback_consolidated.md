@@ -21,7 +21,7 @@ PubMed/MEDLINE, Embase, Scopus, Web of Science Core Collection 포함(스크리�
 ### 3. PRISMA flowchart
 예시 논문과 PRISMA 2020 형식으로 재작성.
 
-**반영.** PRISMA 2020 흐름도(Figure 1): 9,099 → 중복 4,306 → 4,793 스크리닝 → 242 확보시도 → 9 미확보(not retrieved) → 233 평가 → 71 제외 → 162 포함. (미확보 9건을 PRISMA 논리대로 'not retrieved' 칸으로 분리; estimates 143·대표공급 26편으로 정정.)
+**반영.** PRISMA 2020 흐름도(Figure 1): 9,099 → 중복 4,306 → 4,793 스크리닝 → 242 확보시도 → 9 미확보(not retrieved) → 233 평가 → 71 제외 → 162 포함. (미확보 9건을 PRISMA 논리대로 'not retrieved' 칸으로 분리; 현재 estimates 156·대표공급 22편·대표 셀 73.)
 
 ### 4. Risk of bias
 예시 논문의 평가도구·항목·그림 형식 참고해 재정리(가능하면 AI로 하고 일부만 확인).
@@ -55,12 +55,12 @@ race/ethnicity의 causal effect가 아니라 population-based incidence를 기�
 ### 2. Risk of bias 도구 재정비(NOS → JBI)
 adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/incidence용 도구로. "AI-generated first pass" 문구 삭제. 최소 2인 독립 수행 + consensus/third reviewer로 Methods 기술.
 
-**반영(수정됨).** JBI 9문항 적용(37 Low/6 Moderate/0 High). "AI-generated first pass" 0건. 리뷰어 문안은 **3차 피드백 #4에 따라 실제 프로세스대로 재작성**: 제목·초록은 AI가 선별(저자가 제외 표본 재검증), **전문 포함판정은 저자가 직접 수행**, 추출값은 저자가 원문 대조 검증, RoB는 저자(단일)+AI. 2차의 "2인 독립+제3자" 문안은 실제와 달라 철회하고 **단일 리뷰어+AI를 한계로 명시**(Methods·Discussion). ⚠️ 이 항목만 2차 문안과 의도적으로 다름 — 제2 독립 리뷰어를 실제 투입하면 문구·일치율 갱신 필요.
+**반영(수정됨).** JBI 9문항 적용(39 Low/9 Moderate/0 High, 계 48). "AI-generated first pass" 0건. 리뷰어 문안은 **3차 피드백 #4에 따라 실제 프로세스대로 재작성**: 제목·초록은 AI가 선별(저자가 제외 표본 재검증), **전문 포함판정은 저자가 직접 수행**, 추출값은 저자가 원문 대조 검증, RoB는 저자(단일)+AI. 2차의 "2인 독립+제3자" 문안은 실제와 달라 철회하고 **단일 리뷰어+AI를 한계로 명시**(Methods·Discussion). ⚠️ 이 항목만 2차 문안과 의도적으로 다름 — 제2 독립 리뷰어를 실제 투입하면 문구·일치율 갱신 필요.
 
 ### 3. 포함 논문 수 명확화 (163 / 48 / 43)
 163 included / 48 quantitative-synthesis eligible / 43 with extractable data의 의미를 구분하고 Abstract/Methods/Results/PRISMA에서 일관되게.
 
-**반영.** 162 = 48(그중 43 추출) + 114 narrative를 Abstract·Methods·Results에 일관 명시(rec 1569 preprint 제외로 163→162; crosscheck E가 27개 카운트 자동 검증). 실제 narrative synthesis 소절 추가. Supplementary Table 2를 synthesis 종류별로 그룹핑.
+**반영.** 162 = 48 quant-eligible(후속 세션에서 overlap 6편 추가 추출로 **48편 전부 추출 가능**, eligible-but-non-extractable=0) + 114 narrative를 Abstract·Methods·Results에 일관 명시(rec 1569 preprint 제외로 163→162; crosscheck E가 30개 카운트 자동 검증). 실제 narrative synthesis 소절 추가. Supplementary Table 2를 synthesis 종류별로 그룹핑.
 
 ### 4. Study design 재정리
 핵심 연구는 cohort가 아니라 SEER/USCS/NAACCR/주별 등록부 기반 population-based registry/incidence study. Supplementary Table 2에 Study design 열 추가, Methods에서 cohort 통칭 금지.
@@ -80,7 +80,7 @@ adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/
 ### 7. Derived IRR 전수 검증 + 단일 master dataset
 저자 계산 IRR/CI의 계산식·denominator·standardization·CI 산출법 재확인. main과 sensitivity 불일치 존재 → 단일 master extraction dataset 기준으로 Main/Supplementary·Figures 재생성 또는 전수 cross-check.
 
-**반영.** `crosscheck_master.py`로 4단계 전수 검증(파생 IRR 78·CI 37 재계산, Table 1·forest·sensitivity 추적) — 전부 PASS. 검증이 실제 원장 오류 2건(rec 234 TNBC 분모, rec 3182 근사분모)을 발견해 원문에서 수정. 모든 표·그림을 단일 원장(`breast_extraction.csv`)에서 재생성.
+**반영.** `crosscheck_master.py`로 A–F 전수 검증(파생 IRR 92·CI 49 재계산, Table 1·forest·sensitivity 추적, 30개 카운트) — 전부 PASS. 검증이 실제 원장 오류 2건(rec 234 TNBC 분모, rec 3182 근사분모)을 발견해 원문에서 수정. 모든 표·그림을 단일 원장(`breast_extraction.csv`)에서 재생성.
 
 ---
 
@@ -94,13 +94,13 @@ adapted NOS는 registry 기반 기술연구에 부적절 → JBI 등 prevalence/
 | 1 | **전문 포함판정을 사람(저자)이 직접 수행**(#4) | ✓ 저자가 전문 정독·판정; Methods를 실제대로(단일+AI) 정직 기술 |
 | 1 | 여성 전용 범위 — **남성 유방암 제외** | ✓ 78셀에 male-BC 셀 0 |
 | 1 | Pinheiro Hispanic-origin 분모를 추정치 대신 **원문 보고 NHW-FL rate 140.4**로 재프레이밍 | ✓ 원장 rec 3182 반영 |
-| 2 | 감도분석 AI/AN이 finalize의 **IHS-linked override 미반영→허위 'changed'** 발생 | ✓ best() 수정+가드; 현재 62/40/56(3/5/1 changed) |
+| 2 | 감도분석 AI/AN이 finalize의 **IHS-linked override 미반영→허위 'changed'** 발생 | ✓ best() 수정+가드; 현재 6a 55/8/10, 6b 35/6/32, 6c 56/0/17 (unchanged/changed/dropped, 각 73셀) |
 | 3 | 선정 단위를 **group×dimension = analytic cell**로 통일, registry-family는 셀 내 우선순위 | ✓ Methods 정의 |
 | 3 | **AI/AN aggregate 해석 정정** — IHS-linked는 과소집계가 아니라 undercount-보정 | ✓ Discussion·Methods |
-| 3 | Abstract에 **unstratified-White 비교자 caveat** + 3분류(48=43+5, 114 narrative) | ✓ |
-| 3 | **Abstract <300 단어** 축약 | ✓ 약 251 단어 |
+| 3 | Abstract에 **unstratified-White 비교자 caveat** + 분류(48 quant-eligible 전부 추출 + 114 narrative; 2분류로 단순화) | ✓ |
+| 3 | **Abstract <300 단어** 축약 | ✓ 297 단어 |
 | 4 | Discussion을 결과→이질성→자료질→해석→한계 흐름으로 **재구성**(반복 감소) | ✓ |
-| 4 | **Figure 4 heatmap**(group×dimension) 추가; forest 값 라벨 고정 우측열; 본문 주석 superscript 렌더링; Asian 하위집단 전부 CI | ✓ 전부 반영 |
+| 4 | **Figure 3 heatmap**(group×dimension) 추가(Fig 1 PRISMA·Fig 2 통합 forest·Fig 3 heatmap로 재정렬); forest 값 라벨 고정 우측열; 본문 주석 superscript 렌더링; Asian 하위집단 전부 CI | ✓ 전부 반영 |
 
 **종합:** 11항목 전부 현재 원고에 반영됨. #4(전문 포함판정)만 2차 #2의 "2인 독립" 문안과 충돌 → 실제(단일+AI)대로 정직 기술하고 한계로 명시(위 2차 #2 참조).
 
