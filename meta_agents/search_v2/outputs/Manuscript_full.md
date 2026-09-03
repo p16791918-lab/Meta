@@ -18,7 +18,7 @@ of estimates); ratios not reported directly were recomputed from a single master
 of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
-synthesis (all 48 with extractable data) and 114 narrative. Overall incidence was lower than NHW in
+synthesis and 114 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
@@ -96,8 +96,7 @@ each extracted value against its source, and every included estimate was verifie
 against the source table, figure, or text. Screening and extraction were thus performed by a
 single reviewer with model assistance. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis, all providing extractable quantitative data, and the remaining 114 informed the
-narrative synthesis. Most included studies were population-based registry or incidence
+synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
@@ -176,8 +175,8 @@ sensitivity baseline traces to the same underlying value.
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis, and all 48 provided extractable estimates (156 individual estimates across
-racial/ethnic groups and analytic dimensions)²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵² and entered the analysis—22 supplied
+quantitative synthesis and entered the analysis, contributing 156 individual estimates across
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)

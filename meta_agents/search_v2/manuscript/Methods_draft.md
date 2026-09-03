@@ -59,8 +59,7 @@ each extracted value against its source, and every included estimate was verifie
 against the source table, figure, or text. Screening and extraction were thus performed by a
 single reviewer with model assistance. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis, all providing extractable quantitative data, and the remaining 114 informed the
-narrative synthesis. Most included studies were population-based registry or incidence
+synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
 studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
