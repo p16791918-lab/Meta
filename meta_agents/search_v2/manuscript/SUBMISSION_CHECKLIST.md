@@ -14,9 +14,11 @@ or process commentary.
       the absence of a second independent reviewer is stated as a limitation in Methods and the
       Discussion. If a second independent reviewer is added before submission, update this wording
       and report the inter-reviewer agreement.
-- [ ] **Reference list — full Vancouver.** `References_draft.md` gives author/year/title/PMID/DOI
-      for refs 1–47. Complete journal/volume/pages by importing the PMID block into a reference
-      manager (Zotero/EndNote/Mendeley). Two entries have no PMID and are entered manually.
+- [ ] **Reference list — adapt to target journal style.** All 52 references are already in full
+      Vancouver format (author, title, journal, year;volume(issue):pages, DOI); ref 23 (CDC MMWR
+      Vital Signs) has no DOI, which is expected for that report. Remaining author task: reformat to
+      the chosen journal's specific reference style (e.g., via Zotero/EndNote/Mendeley) once the
+      target journal is fixed.
 
 ## Optional / conditional
 - [x] **Deferred overlap candidates — resolved.** The topic-matched studies previously set aside
