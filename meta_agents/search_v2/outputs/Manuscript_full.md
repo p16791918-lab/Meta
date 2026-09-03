@@ -9,11 +9,11 @@ and reference groups.
 
 **Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science) were searched
 for U.S. studies reporting female invasive breast cancer incidence by racial or ethnic group,
-following PRISMA 2020; those with a recoverable White or non-Hispanic White (NHW) comparison formed
-the quantitative synthesis and the remainder the narrative synthesis. Because these
-registries (SEER, NPCR/USCS, NAACCR, and state) overlap, one representative estimate per group
+following PRISMA 2020; those with a recoverable non-Hispanic White (NHW) comparison formed
+the quantitative synthesis and the rest the narrative synthesis. Because these
+registries overlap, one representative estimate per group
 and dimension was selected, not pooled. Each estimate was an
-incidence rate ratio (IRR) versus a non-Hispanic White reference (unstratified White for a minority
+incidence rate ratio (IRR) versus an NHW reference (unstratified White for a minority
 of estimates); ratios not reported directly were recomputed from a single master dataset, and risk
 of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
 
