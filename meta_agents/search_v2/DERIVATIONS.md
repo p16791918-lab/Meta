@@ -17,7 +17,7 @@ with how it was derived, so each is reproducible. Estimates reported by the sour
     (hi−lo)/(2·1.96); Var(std_rate) = Σ(w_i/Σw)²·SE_i²; SE(logIRR) =
     √[(SE_min/std_min)² + (SE_nhw/std_nhw)²]. Provenance =
     `computed-from-rates-with-CI` (e.g., TNBC Black 1.82 [1.70, 1.95],
-    HR+/HER2− API 0.69 [0.66, 0.72]).
+    HR+/HER2− AANHPI 0.69 [0.66, 0.72]).
   - IRR is invariant to the 20+ vs all-age standard (ages 0–19 contribute ≈0 to
     both numerator and denominator).
 
@@ -133,6 +133,6 @@ overlap/sensitivity rows; each collapses to an existing cell representative
   California registry (< national USCS); overlaps the USCS TNBC rep (rec 155).
 - **rec 209 (Zhang 2022, NPCR+SEER/USCS, 2019).** The text (Figure 2A) prints the
   2019 age-adjusted triple-negative rates by race: NHB 25.0, NHW 12.8, Hispanic
-  11.5, AI/AN 9.4, API 9.5 per 100,000. IRR = rate/12.8 (NHB 1.95, Hispanic 0.90,
-  AI/AN 0.73, API 0.74). Single-year 2019 cross-section; overlaps the USCS TNBC
+  11.5, AI/AN 9.4, AANHPI 9.5 per 100,000. IRR = rate/12.8 (NHB 1.95, Hispanic 0.90,
+  AI/AN 0.73, AANHPI 0.74). Single-year 2019 cross-section; overlaps the USCS TNBC
   representative (rec 155, 2015-2019 mean), which is preferred on the longer span.
