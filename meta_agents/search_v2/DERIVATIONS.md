@@ -102,7 +102,7 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   unrecorded as ambiguous.
 
 ## 7. Overlap studies entered for the sensitivity analysis (not representatives)
-These five were read from full text and enter the ledger only as
+These six were read from full text and enter the ledger only as
 overlap/sensitivity rows; each collapses to an existing cell representative
 (finalize_representatives), so none changes a main-text estimate.
 - **rec 236 (Gomez 2010, California Cancer Registry, 1988-2004).** Table 1
