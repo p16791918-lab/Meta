@@ -1,6 +1,6 @@
 # Table S. Risk of bias — JBI Critical Appraisal Checklist for Studies Reporting Prevalence/Incidence Data
 
-Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). Two reviewers independently; disagreements resolved by consensus or a third reviewer.
+Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
 Overall (48 studies): {'Low': 39, 'Moderate': 9}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
 

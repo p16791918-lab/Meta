@@ -161,7 +161,7 @@ PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
 H("Supplementary Table 5. Risk of bias (JBI checklist for studies reporting prevalence/incidence data)", 1)
-P("Nine JBI items rated Y (Yes) / N (No) / U (Unclear); overall risk of bias is summarized as Low, Moderate, or High. Two reviewers assessed each study independently, and disagreements were resolved by consensus or a third reviewer.", True)
+P("Nine JBI items rated Y (Yes) / N (No) / U (Unclear); overall risk of bias is summarized as Low, Moderate, or High. The checklist was applied to each study by the author (a single assessor) with large-language-model assistance.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
 def _v(x): return {"Yes": "Y", "No": "N", "Unclear": "U"}.get(x.strip(), x.strip())
 QC = ["Q1_frame", "Q2_sampling", "Q3_size", "Q4_described", "Q5_coverage",

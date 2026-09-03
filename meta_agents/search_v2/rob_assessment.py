@@ -30,8 +30,8 @@ Overall risk of bias (summary of the nine items):
   High     : >= 3 "No"
   Moderate : otherwise (including any single "No" on the two key items Q7/Q8)
 
-Two reviewers apply the checklist independently in the manuscript workflow;
-disagreements are resolved by consensus or a third reviewer.
+The checklist is applied by the author (a single assessor) with
+large-language-model assistance in the manuscript workflow.
 """
 import csv
 import os
@@ -156,8 +156,8 @@ def main():
         f.write("# Table S. Risk of bias — JBI Critical Appraisal Checklist for "
                 "Studies Reporting Prevalence/Incidence Data\n\n")
         f.write("Nine items rated Yes/No/Unclear; overall risk of bias summarized as "
-                "Low/Moderate/High (see rob_assessment.py header). Two reviewers "
-                "independently; disagreements resolved by consensus or a third reviewer.\n\n")
+                "Low/Moderate/High (see rob_assessment.py header). The checklist was applied "
+                "by the author (a single assessor) with large-language-model assistance.\n\n")
         f.write("Overall (%d studies): %s. Main-analysis representatives: %s\n\n"
                 % (len(rows), dict(qc), dict(qc_rep)))
         f.write("| Rec | Study | Registry | Period | " + " | ".join(QCOLS) + " | RoB |\n")
