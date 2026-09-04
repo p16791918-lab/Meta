@@ -57,7 +57,7 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   not a 95% CI, so SE(logIRR) = 1/sqrt(58) = 0.131 from the 58 Cambodian cases.
   IRR 0.264 (0.204-0.341).
 
-## 4. External NHW comparator (study reports minority only)
+## 4. NHW comparator reported apart from the minority rates (same-paper companion table or supplement; rec 51 the one external comparator)
 - **rec 234.** Disaggregated AANHPI rates are in the main Table
   (2018–2022, SEER-21); the **in-paper NHW comparator is eTable 3** (Supplement 1):
   Non-Hispanic White 139.5 (139.0–140.0), same registry (SEER-21), same period
