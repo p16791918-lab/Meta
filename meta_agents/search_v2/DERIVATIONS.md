@@ -27,7 +27,7 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
-- **with CI:** rec 10, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3398, rec 4040.
+- **with CI:** rec 10, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
 - **point only (no CI):** rec 100, rec 381, rec 463, rec 485, rec 500, rec 4098.
 - Handled in other sections: §1 (rec 2), §4 (rec 234, rec 3182, rec 51), §4b (rec 4333), and the Poisson-SE records in §3.
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US
@@ -35,6 +35,12 @@ The records in each class:
 - **rec 265/346** use "White"/"Black" not NH-stratified (rec 346 White incl.
   Hispanic); rec 265 is the crossover from printed age-specific rates.
 - **rec 500** NHW (130.4) is from the same paper (Gopalani 2020), not external.
+- **rec 3298 (Carozza 2006, NAACCR/CiNA, 15 registries, 1995–2000).** The table reports female
+  invasive breast rates with standard errors (2000 US std): Latina 89.2 (SE 0.44), non-Hispanic
+  White 138.7 (SE 0.21). IRR = 89.2/138.7 = 0.643, reproducing the paper's printed SIR of 0.64;
+  95% CI (0.637, 0.650) by the delta method from the reported rate SEs (rate CIs = rate ± 1.96·SE).
+  Representative for the Hispanic/Latina origin-analysis aggregate; overlaps rec 4333 (Miami
+  Hispanic, sensitivity).
 
 ## 3. Poisson SE from case counts
 Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =

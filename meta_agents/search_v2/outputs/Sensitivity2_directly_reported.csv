@@ -6,6 +6,7 @@ aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.98," [0.97, 0.98]",2406,ch
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.75," [0.73, 0.76]",66,changed,7,2
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,3,1
 Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,,,,dropped,1,0
+Hispanic-origin,Hispanic/Latina (aggregate),,0.643," [0.637, 0.650]",3298,,,,dropped,2,0
 Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,,,,dropped,1,0
 Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,,,,dropped,1,0
 Hispanic-origin,Puerto Rican,,0.833," [0.738, 0.939]",3182,,,,dropped,1,0
@@ -40,7 +41,6 @@ subtype-HRpos-HER2pos,Asian/PI (aggregate),,0.850," [0.768, 0.941]",2,,,,dropped
 AIAN,AIAN (Navajo),,0.49," [0.44, 0.55]",1478,0.49," [0.44, 0.55]",1478,unchanged,1,1
 AIAN,AIAN (Northern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,2,1
 AIAN,AIAN (Southern Plains),,1.25," [1.11, 1.41]",3662,1.25," [1.11, 1.41]",3662,unchanged,1,1
-Hispanic-origin,Hispanic/Latina (aggregate),,0.64,,3298,0.64,,3298,unchanged,2,1
 age-lt50,AIAN,,0.75," [0.72, 0.79]",146,0.75," [0.72, 0.79]",146,unchanged,1,1
 age-lt50,Asian/PI (aggregate),,0.96," [0.95, 0.97]",146,0.96," [0.95, 0.97]",146,unchanged,1,1
 age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1

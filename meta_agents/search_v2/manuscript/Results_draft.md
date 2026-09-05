@@ -48,7 +48,7 @@ and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IR
 ### Hispanic/Latina by country of origin
 Among Hispanic/Latina women, incidence differed by country of origin: Mexican 0.51 (0.38–0.69),
 New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94); the
-aggregate Hispanic/Latina estimate was a standardized incidence ratio of 0.64 (Table 1; Figure 2).
+aggregate Hispanic/Latina estimate was 0.64 (0.64–0.65), matching the study's reported standardized incidence ratio (Table 1; Figure 2).
 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
@@ -89,7 +89,7 @@ was reported without a variance, the standard population was not clearly specifi
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
 low-risk-of-bias studies left 55 of 73 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups;
-restricting to directly reported estimates left 35 unchanged (6 changed, 32 dropped); and
+restricting to directly reported estimates left 34 unchanged (6 changed, 33 dropped); and
 restricting to NHW-comparator estimates left 56 unchanged (17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells.

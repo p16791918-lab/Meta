@@ -1,6 +1,6 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 73 total — unchanged 35, changed 6, dropped 32.
+Cells: 73 total — unchanged 34, changed 6, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -13,6 +13,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.75 (66) | **changed** |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.61 (955) | **changed** |
 | Hispanic-origin | Cuban | 0.769 (3182) | - (-) | **dropped** |
+| Hispanic-origin | Hispanic/Latina (aggregate) | 0.643 (3298) | - (-) | **dropped** |
 | Hispanic-origin | Mexican | 0.512 (3182) | - (-) | **dropped** |
 | Hispanic-origin | New Latino | 0.697 (3182) | - (-) | **dropped** |
 | Hispanic-origin | Puerto Rican | 0.833 (3182) | - (-) | **dropped** |

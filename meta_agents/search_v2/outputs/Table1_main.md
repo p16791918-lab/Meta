@@ -43,7 +43,7 @@ Values are the representative population-based estimate per group (one per regis
 | New Latino | IRR | 0.697 [0.629, 0.771] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
 | Cuban | IRR | 0.769 [0.688, 0.860] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
 | Puerto Rican | IRR | 0.833 [0.738, 0.939] | Pinheiro2009_FL (1999-2001) | State: Florida | Low |
-| Hispanic/Latina (aggregate) | SIR | 0.64 (point est.) | Carozza2006_multistate (1995-2000) | NAACCR/CiNA (~93%) | Low |
+| Hispanic/Latina (aggregate) | IRR | 0.643 [0.637, 0.650] | Carozza2006_multistate (1995-2000) | NAACCR/CiNA (~93%) | Low |
 
 **American Indian and Alaska Native (AI/AN) by region**
 
