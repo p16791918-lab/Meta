@@ -30,10 +30,7 @@ prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
 the outcome examined (Figure 3).
 
-Two features of the underlying data shaped these estimates. Because SEER, NPCR/USCS, NAACCR,
-and state registries cover overlapping populations,
-estimates from different publications are not independent; the analysis therefore retained one
-representative population-based estimate per group and analytic dimension rather than pooling them.
+Two features of the underlying data shaped these estimates.
 First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
 Service–linked estimate was preferred for that group, and the reported AI/AN figures are the
 undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁴ In the Northern
