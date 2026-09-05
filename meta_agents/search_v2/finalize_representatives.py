@@ -55,6 +55,14 @@ def registry_family(reg):
         if "urban" in s or "uiho" in s:
             return ("IHS-PRCDA (urban UIHO subset)", 4, "IHS-PRCDA")
         return ("IHS-PRCDA", 5, "IHS-PRCDA")
+    # The Alaska Native Tumor Registry ascertains Alaska Native cases by Indian
+    # Health Service benefit eligibility (tribal enrollment), not by observation
+    # at diagnosis (Nash 2019), so it is a linked, dedicated AI/AN registry — not
+    # subject to the unlinked-registry undercount, and it coexists with the
+    # national aggregate. (Its name carries "(SEER)"; the branch must precede the
+    # generic SEER catch below.)
+    if "antr" in s or "alaska native tum" in s:
+        return ("Alaska Native Tumor Registry (IHS-linked)", 5, "IHS-PRCDA")
     # A fixed multi-state (e.g., 8-state) SEER+NPCR subset covers more than one
     # state but far less than the full national USCS/NAACCR file; rank it below
     # national SEER so the national representative is preferred.
@@ -145,9 +153,16 @@ def main():
                 period_key(r["period"]),
                 PROV_RANK.get(r["provenance"], 0))
 
+    # An estimate that borrows an out-of-paper (external) reference — the one
+    # Alaska Native rate paired with a SEER-Explorer NHW rate — is retained only
+    # as a sensitivity overlap, never as a representative (see Methods). Exclude
+    # such rows from the representative selection unless a cell has nothing else.
+    def is_external(r):
+        return "external" in (r.get("comparison_vs", "") or "").lower()
     rep_id = {}
     for cl, members in clusters.items():
-        best = max(members, key=score)
+        eligible = [m for m in members if not is_external(m)]
+        best = max(eligible or members, key=score)
         rep_id[cl] = id(best)
 
     # AIAN correction: unlinked national registries (USCS/SEER/NAACCR) racially
@@ -181,6 +196,9 @@ def main():
             n = len(clusters[r["_cluster"]])
             main_flag = "yes (representative)"
             reason = ("best of %d in cell by provenance/coverage/period" % n) if n > 1 else "sole estimate in cell"
+        elif is_external(r):
+            main_flag = "no (external comparator)"
+            reason = "borrows an out-of-paper SEER-Explorer NHW reference; sensitivity only"
         else:
             main_flag = "no (overlaps representative)"
             reason = "collapses to cell representative (same outcome x group x family)"

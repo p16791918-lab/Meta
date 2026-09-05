@@ -1,4 +1,5 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
+AIAN,Alaska Native,,1.09," [0.99, 1.21]",28,0.952," [0.851, 1.065]",51,changed,2,1
 age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,3,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0

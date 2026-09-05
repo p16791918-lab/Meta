@@ -1,6 +1,6 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 73 total — unchanged 34, changed 6, dropped 33.
+Cells: 74 total — unchanged 35, changed 6, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 

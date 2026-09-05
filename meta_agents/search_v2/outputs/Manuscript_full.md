@@ -175,14 +175,14 @@ The four databases returned 9,099 records; 4,306 duplicates were removed, leavin
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis and entered the analysis, contributing 156 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
 program, the National Program of Cancer Registries and the United States Cancer Statistics
 file, the North American Association of Central Cancer Registries, Indian Health Service–linked
 and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates, 73 representative estimates remained, one per analytic
+overlapping registry-family estimates, 74 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
@@ -213,7 +213,9 @@ aggregate Hispanic/Latina estimate was 0.64 (0.64–0.65), matching the study's 
 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
-area to 1.25 (1.11–1.41) in the Southern Plains and 1.33 (1.26–1.41) in the Northern Plains
+area to 1.25 (1.11–1.41) in the Southern Plains and 1.33 (1.26–1.41) in the Northern Plains; Alaska
+Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
+Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
 (Table 1; Figure 2).
 
 ### Middle Eastern populations
@@ -248,12 +250,13 @@ On the JBI checklist, 39 of the 48 studies were at low risk of bias and 9 at mod
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 55 of 73 cell representatives unchanged, with the 8 changed and 10
+low-risk-of-bias studies left 56 of 74 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups;
-restricting to directly reported estimates left 34 unchanged (6 changed, 33 dropped); and
-restricting to NHW-comparator estimates left 56 unchanged (17 dropped), the dropped
+restricting to directly reported estimates left 35 unchanged (6 changed, 33 dropped); and
+restricting to NHW-comparator estimates left 56 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
-receptor-defined subtypes and two age-specific Black cells.
+receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
+Native, whose unstratified-White representative gave way to the external-NHW sensitivity estimate.
 
 ## Discussion
 

@@ -50,6 +50,7 @@ Values are the representative population-based estimate per group (one per regis
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
 | AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Yazzie2025_Navajo (2014-2018) | IHS-PRCDA | Low |
+| Alaska Native | IRR | 1.09 [0.99, 1.21] † | Nash2019_ANTR (2009-2014) | Alaska Native Tumor Registry (IHS-linked) | Low |
 | AIAN (Southern Plains) | IRR | 1.25 [1.11, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | IHS-PRCDA | Low |
 | AIAN (Northern Plains) | IRR | 1.33 [1.26, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | IHS-PRCDA | Low |
 

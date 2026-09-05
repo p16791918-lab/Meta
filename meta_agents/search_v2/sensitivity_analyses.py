@@ -56,10 +56,19 @@ def is_aian(r):
     return "aian" in s or "american indian" in s or "alaska nativ" in s
 
 
+def is_external(r):
+    return "external" in (r.get("comparison_vs", "") or "").lower()
+
+
 def best(rows):
     rows = [r for r in rows if (r.get("irr") or "").strip()]
     if not rows:
         return None
+    # mirror finalize_representatives: an out-of-paper (external) comparator is
+    # never a representative, only a sensitivity overlap — exclude it from the
+    # selection unless the cell has nothing else.
+    nonext = [r for r in rows if not is_external(r)]
+    rows = nonext or rows
     # AI/AN undercount correction (mirror finalize_representatives): where an
     # IHS-PRCDA estimate is available for the cell, the unlinked national-registry
     # estimates are demoted, so the selection uses the more valid population
