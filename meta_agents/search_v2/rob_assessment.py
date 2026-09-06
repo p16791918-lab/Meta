@@ -97,7 +97,7 @@ def appraise(s):
     if "surname" in notes:
         j["Q7_measurement"] = ("No", "race/ethnicity by surname recognition (misclassification risk)")
     elif "undercount" in notes or "aian undercount" in notes:
-        j["Q7_measurement"] = ("No", "unlinked national registry undercounts AI/AN")
+        j["Q7_measurement"] = ("No", "unlinked registry undercounts AI/AN")
     elif ("ihs" in reg or "prcda" in reg or "navajo" in reg or "antr" in reg or "alaska native tumo" in reg):
         j["Q7_measurement"] = ("Yes", "IHS/tribal registry linkage (validated AI/AN classification)")
     else:
