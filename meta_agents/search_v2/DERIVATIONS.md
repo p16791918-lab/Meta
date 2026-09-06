@@ -28,7 +28,7 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
 - **with CI:** rec 10, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
-- **point only (no CI):** rec 100, rec 381, rec 463, rec 485, rec 4098.
+- **point only (no CI):** rec 100, rec 381, rec 461, rec 463, rec 485, rec 4098.
 - Handled in other sections: §1 (rec 2), §4 (rec 234, rec 3182, rec 51), §4b (rec 4333), and the Poisson-SE records in §3.
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US
   — the IRR remains comparable (a ratio); the absolute scale differs (flagged in-row).
@@ -40,6 +40,12 @@ The records in each class:
   95% CI (0.637, 0.650) by the delta method from the reported rate SEs (rate CIs = rate ± 1.96·SE).
   Representative for the Hispanic/Latina origin-analysis aggregate; overlaps rec 4333 (Miami
   Hispanic, sensitivity).
+- **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).** Table 2 prints
+  all-ages age-standardized (2000 US) breast rates: AI/AN 134.6, NHW 149.3 (printed RR 0.9).
+  IRR = 134.6/149.3 = 0.902, point estimate only (no rate confidence intervals reported). These
+  NE/ND/SD registries are the only Northern-Plains source in the ledger, so this is the
+  Northern-Plains cell representative; because unlinked state registries undercount AI/AN, the row
+  is flagged as undercount-prone.
 
 ## 3. Poisson SE from case counts
 Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =
@@ -107,7 +113,7 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   unrecorded as ambiguous.
 
 ## 7. Overlap studies entered for the sensitivity analysis (not representatives)
-These six were read from full text and enter the ledger only as
+These five were read from full text and enter the ledger only as
 overlap/sensitivity rows; each collapses to an existing cell representative
 (finalize_representatives), so none changes a main-text estimate.
 - **rec 236 (Gomez 2010, California Cancer Registry, 1988-2004).** Table 1
@@ -121,12 +127,6 @@ overlap/sensitivity rows; each collapses to an existing cell representative
   111.3, Japanese 127.8, Korean 75.6, South Asian [=Asian Indian/Pakistani]
   106.3, Vietnamese 72.2, Asian aggregate 94.5. IRR = rate/134.4, delta-method
   CI. Eight-state subset (< national SEER-21); overlaps rec 234.
-- **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).**
-  Table 2 prints all-ages age-standardized (2000 US) breast rates: AI/AN 134.6,
-  NHW 149.3, RR 0.9. IRR = 134.6/149.3 = 0.902. These NE/ND/SD registries are the
-  only Northern-Plains source in the ledger, so this is the Northern-Plains cell
-  representative; because unlinked state registries undercount AI/AN, the row is
-  flagged as an undercount-prone estimate that likely understates the true rate.
 - **rec 2137 (Melkonian 2022, urban IHS-linked USCS-AIAD, 2008-2017).** Table 2
   prints all-ages breast rates for urban populations: AI/AN 74.2, NHW 129.6, RR
   0.57. IRR = 74.2/129.6 = 0.573. Urban-restricted IHS subset (< full PRCDA);
