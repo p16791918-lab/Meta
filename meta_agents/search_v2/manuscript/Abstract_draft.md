@@ -11,15 +11,13 @@ rate can obscure the subgroups at highest and lowest risk. Estimates for these s
 separate cancer-registry studies that differ in populations, periods, and reference groups, and have
 not been assembled on a common scale.
 
-**Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science) were searched
-for U.S. studies reporting female invasive breast cancer incidence by racial or ethnic group,
-following PRISMA 2020; those with a recoverable non-Hispanic White (NHW) comparison formed
-the quantitative synthesis and the rest the narrative synthesis. Because these
-registries overlap, one representative estimate per group
-and dimension was selected, not pooled. Each estimate was an
-incidence rate ratio (IRR) versus an NHW reference (unstratified White for a minority
-of estimates); ratios not reported directly were recomputed from a single master dataset, and risk
-of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
+**Methods.** Following PRISMA 2020, four bibliographic databases were searched for U.S. studies of
+female invasive breast cancer incidence by race or ethnicity;
+those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
+rest narratively. Because these registries overlap, one representative estimate per group and
+dimension was selected, not pooled. Each was an incidence rate ratio (IRR) versus an NHW reference;
+ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
+with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
 synthesis and 114 narrative. Overall incidence was lower than NHW in
