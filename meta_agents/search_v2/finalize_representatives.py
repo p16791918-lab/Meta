@@ -62,7 +62,7 @@ def registry_family(reg):
     # national aggregate. (Its name carries "(SEER)"; the branch must precede the
     # generic SEER catch below.)
     if "antr" in s or "alaska native tum" in s:
-        return ("Alaska Native Tumor Registry (IHS-linked)", 5, "IHS-PRCDA")
+        return ("Alaska Native Tumor Registry (IHS-linked)", 6, "IHS-PRCDA")
     # A fixed multi-state (e.g., 8-state) SEER+NPCR subset covers more than one
     # state but far less than the full national USCS/NAACCR file; rank it below
     # national SEER so the national representative is preferred.
@@ -168,22 +168,39 @@ def main():
     # AIAN correction: unlinked national registries (USCS/SEER/NAACCR) racially
     # MISCLASSIFY and undercount AIAN incidence; the IHS-PRCDA linkage is the
     # field-standard, more valid source. Where an IHS-PRCDA AIAN representative
-    # exists for the same outcome dimension, demote the national AIAN
-    # representative to an undercount-flagged overlap (Feedback 5: not merely
-    # "most comprehensive coverage" but the most VALID population definition).
+    # exists for the same analytic cell (outcome dimension AND group/region),
+    # demote the national AIAN representative to an undercount-flagged overlap
+    # (Feedback 5: not merely "most comprehensive coverage" but the most VALID
+    # population definition). Matching is per cell, not per dimension, so a
+    # region with no IHS estimate (e.g., Northern Plains breast) keeps its
+    # unlinked estimate rather than being demoted to nothing.
     def is_aian(r):
         s = (r["minority_group"] + " " + r["outcome_dim"]).lower()
         return "aian" in s or "american indian" in s or "alaska nativ" in s
-    ihs_aian_dims = {r["outcome_dim"] for r in rows
-                     if is_aian(r) and r["_fclass"] == "IHS-PRCDA"
-                     and rep_id.get(r["_cluster"]) == id(r)}
+    ihs_aian_cells = {(r["outcome_dim"], r["minority_group"]) for r in rows
+                      if is_aian(r) and r["_fclass"] == "IHS-PRCDA"
+                      and rep_id.get(r["_cluster"]) == id(r)}
+    def undercount_demote(r):
+        # Demote a national/unlinked AI/AN estimate only when a more valid IHS
+        # estimate covers the SAME population:
+        #   (a) an IHS estimate exists for the same analytic cell (dim x group), or
+        #   (b) it is a generic "AIAN" standing in the region-breakdown dimension
+        #       (neither a named region nor the aggregate — redundant with both),
+        #       and the IHS aggregate exists.
+        # Region-, subtype-, and age-specific cells with no IHS counterpart keep
+        # their unlinked estimate instead of being demoted to nothing.
+        if (r["outcome_dim"], r["minority_group"]) in ihs_aian_cells:
+            return True
+        if r["outcome_dim"] == "AIAN" and r["minority_group"].strip() == "AIAN":
+            return ("aggregate-vs-NHW", "AIAN") in ihs_aian_cells
+        return False
 
     out = []
     for r in rows:
         if r["_is_anchor"]:
             main_flag, reason = "no (registry-direct anchor)", "SEER-Explorer reference, not a screened study"
         elif (is_aian(r) and r["_fclass"] == "national"
-              and r["outcome_dim"] in ihs_aian_dims
+              and undercount_demote(r)
               and rep_id.get(r["_cluster"]) == id(r)):
             main_flag = "no (AI/AN undercount)"
             reason = "unlinked national registry undercounts AI/AN; IHS-PRCDA representative preferred"

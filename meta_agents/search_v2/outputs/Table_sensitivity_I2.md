@@ -4,11 +4,12 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 
 | Dimension | Group | k | Model | Sensitivity IRR (95%% CI) | I2%% | Q p | Main IRR (95%% CI) | HKSJ unstable (k<3) |
 |----|----|----|----|----|----|----|----|----|
-| AIAN | Alaska Native | 2 | random-effects (PM/REML, HKSJ) | 1.021 (0.432-2.412) | 68 | 0.078 | - | yes |
-| age-lt40 | Black | 3 | random-effects (PM/REML, HKSJ) | 1.270 (0.872-1.850) | 88 | <0.001 | 1.183 (1.142-1.226) | no |
+| AIAN | Alaska Native | 3 | random-effects (PM/REML, HKSJ) | 1.089 (0.779-1.524) | 81 | 0.005 | 1.090 (0.986-1.205) | no |
+| Hispanic-origin | Hispanic/Latina (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.643 (0.621-0.667) | 0 | 0.577 | 0.643 (0.637-0.650) | yes |
+| age-lt40 | Black | 2 | random-effects (PM/REML, HKSJ) | 1.176 (1.051-1.317) | 0 | 0.561 | 1.183 (1.142-1.226) | yes |
 | aggregate-vs-NHW | AIAN | 7 | random-effects (PM/REML, HKSJ) | 0.695 (0.603-0.802) | 99 | <0.001 | 0.560 (0.550-0.570) | no |
 | aggregate-vs-NHW | Asian/PI (aggregate) | 6 | random-effects (PM/REML, HKSJ) | 0.798 (0.724-0.878) | 100 | <0.001 | 0.769 (0.751-0.787) | no |
-| aggregate-vs-NHW | Black | 10 | random-effects (PM/REML, HKSJ) | 0.954 (0.939-0.968) | 98 | <0.001 | 0.933 (0.920-0.946) | no |
+| aggregate-vs-NHW | Black | 11 | random-effects (PM/REML, HKSJ) | 0.944 (0.919-0.970) | 99 | <0.001 | 0.933 (0.920-0.946) | no |
 | aggregate-vs-NHW | Hispanic | 7 | random-effects (PM/REML, HKSJ) | 0.719 (0.675-0.765) | 99 | <0.001 | 0.718 (0.706-0.730) | no |
 | disaggregated-AANHPI | Asian American (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.746 (0.350-1.592) | 99 | <0.001 | 0.792 (0.784-0.800) | yes |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 3 | random-effects (PM/REML, HKSJ) | 0.775 (0.442-1.359) | 99 | <0.001 | 0.958 (0.937-0.979) | no |

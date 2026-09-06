@@ -21,7 +21,7 @@ subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 
 Japanese women; Native Hawaiian women (1.21) and the Native Hawaiian and Pacific Islander (NHPI)
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
-Northern Plains (Figure 2). This pattern is consistent with earlier disaggregated work and extends
+Southern Plains (Figure 2). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
@@ -32,11 +32,13 @@ the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates.
 First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
-Service–linked estimate was preferred for that group, and the reported AI/AN figures are the
-undercount-adjusted ones rather than the lower unlinked-registry values.¹⁰,⁴⁴ In the Northern
-Plains, for example, unlinked state registries placed AI/AN breast incidence at a rate ratio of
-0.90 relative to NHW women, whereas the IHS-linked estimate for the same region placed it at
-1.33—the comparison reversing direction with case ascertainment.³⁴,⁴⁸ Second, reference
+Service–linked estimate was preferred for that group wherever one was available, and the reported
+AI/AN figures draw on those linked sources rather than the lower unlinked-registry values.¹⁰,⁴⁴
+The contrast is visible across regions: the Indian Health Service–linked estimates place AI/AN
+breast incidence at or above the NHW rate in the Southern Plains (1.33) and among Alaska Native
+women (1.09), whereas the Northern Plains figure—available only from unlinked state registries that
+undercount AI/AN cases—sits at 0.90 and probably understates the true rate. The direction of the
+comparison thus shifts with case ascertainment.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used a non-Hispanic White comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate

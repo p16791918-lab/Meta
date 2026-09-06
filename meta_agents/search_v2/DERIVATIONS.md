@@ -123,9 +123,10 @@ overlap/sensitivity rows; each collapses to an existing cell representative
   CI. Eight-state subset (< national SEER-21); overlaps rec 234.
 - **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).**
   Table 2 prints all-ages age-standardized (2000 US) breast rates: AI/AN 134.6,
-  NHW 149.3, RR 0.9. IRR = 134.6/149.3 = 0.902. Unlinked state registries
-  undercount AI/AN, so this is demoted by the AI/AN-undercount rule below the
-  IHS-linked Northern-Plains representative (rec 3662).
+  NHW 149.3, RR 0.9. IRR = 134.6/149.3 = 0.902. These NE/ND/SD registries are the
+  only Northern-Plains source in the ledger, so this is the Northern-Plains cell
+  representative; because unlinked state registries undercount AI/AN, the row is
+  flagged as an undercount-prone estimate that likely understates the true rate.
 - **rec 2137 (Melkonian 2022, urban IHS-linked USCS-AIAD, 2008-2017).** Table 2
   prints all-ages breast rates for urban populations: AI/AN 74.2, NHW 129.6, RR
   0.57. IRR = 74.2/129.6 = 0.573. Urban-restricted IHS subset (< full PRCDA);

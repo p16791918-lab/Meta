@@ -1,6 +1,6 @@
 # Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)
 
-Cells: 74 total — unchanged 56, changed 8, dropped 10.
+Cells: 74 total — unchanged 55, changed 8, dropped 11.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -14,6 +14,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | disaggregated-AANHPI | Japanese | 1.045 (234) | 0.951 (4027) | **changed** |
 | disaggregated-AANHPI | Korean | 0.677 (234) | 0.562 (4027) | **changed** |
 | disaggregated-AANHPI | Vietnamese | 0.586 (234) | 0.537 (4027) | **changed** |
+| AIAN | AIAN (Northern Plains) | 0.902 (461) | - (-) | **dropped** |
 | age-ge40 | Black | 0.851 (265) | - (-) | **dropped** |
 | age-ge50 | AIAN | 0.647 (485) | - (-) | **dropped** |
 | age-ge50 | Asian/PI (aggregate) | 0.659 (485) | - (-) | **dropped** |

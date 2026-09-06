@@ -14,7 +14,7 @@ The four databases returned 9,099 records; 4,306 duplicates were removed, leavin
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis and entered the analysis, contributing 156 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
@@ -52,7 +52,9 @@ aggregate Hispanic/Latina estimate was 0.64 (0.64–0.65), matching the study's 
 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
-area to 1.25 (1.11–1.41) in the Southern Plains and 1.33 (1.26–1.41) in the Northern Plains; Alaska
+area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90 (a point
+estimate without a reported variance, drawn from unlinked state registries that are known to
+undercount AI/AN cases and so probably understates the true rate). Alaska
 Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
 Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
 (Table 1; Figure 2).
@@ -89,9 +91,9 @@ On the JBI checklist, 39 of the 48 studies were at low risk of bias and 9 at mod
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 56 of 74 cell representatives unchanged, with the 8 changed and 10
+low-risk-of-bias studies left 55 of 74 cell representatives unchanged, with the 8 changed and 11
 dropped cells concentrated in the disaggregated AANHPI subgroups;
-restricting to directly reported estimates left 36 unchanged (5 changed, 33 dropped); and
+restricting to directly reported estimates left 35 unchanged (5 changed, 34 dropped); and
 restricting to NHW-comparator estimates left 56 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska

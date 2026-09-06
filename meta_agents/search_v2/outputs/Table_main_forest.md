@@ -41,6 +41,7 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Mexican | 0.512 | 0.382-0.686 | 3182 |
+| Hispanic/Latina (aggregate) | 0.643 | 0.637-0.650 | 3298 |
 | New Latino | 0.697 | 0.630-0.772 | 3182 |
 | Cuban | 0.769 | 0.688-0.860 | 3182 |
 | Puerto Rican | 0.833 | 0.738-0.940 | 3182 |
@@ -50,8 +51,8 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | AIAN (Navajo) | 0.490 | 0.438-0.548 | 1478 |
-| AIAN (Southern Plains) | 1.250 | 1.109-1.409 | 3662 |
-| AIAN (Northern Plains) | 1.330 | 1.257-1.407 | 3662 |
+| Alaska Native | 1.090 | 0.986-1.205 | 28 |
+| AIAN (Southern Plains) | 1.330 | 1.257-1.407 | 3662 |
 
 **subtype-TNBC**
 

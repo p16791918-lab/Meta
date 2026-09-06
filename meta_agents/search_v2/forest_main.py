@@ -46,8 +46,8 @@ blocks = [
     ("American Indian and Alaska Native", [
         ("AI/AN aggregate", *g("aggregate-vs-NHW", "AIAN"), True),
         ("Navajo area", *g("AIAN", "AIAN (Navajo)"), False),
+        ("Alaska Native", *g("AIAN", "Alaska Native"), False),
         ("Southern Plains", *g("AIAN", "AIAN (Southern Plains)"), False),
-        ("Northern Plains", *g("AIAN", "AIAN (Northern Plains)"), False),
     ]),
 ]
 
