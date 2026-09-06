@@ -2,10 +2,11 @@
 
 ## Abstract
 
-**Background.** In the United States, breast cancer incidence is commonly reported for broad racial
-and ethnic categories. Incidence for the detailed subgroups within them, and for receptor-defined
-subtypes, has been reported in separate cancer-registry studies that differ in populations, periods,
-and reference groups.
+**Background.** In the United States, breast cancer incidence is usually reported for a few broad
+racial and ethnic categories. Each category spans subgroups whose rates can differ severalfold, and
+receptor-defined subtypes reorder the groups again. Estimates for these subgroups come from separate
+cancer-registry studies that differ in populations, periods, and reference groups, and have not been
+assembled on a common scale.
 
 **Methods.** Four databases (MEDLINE via PubMed, Embase, Scopus, and Web of Science) were searched
 for U.S. studies reporting female invasive breast cancer incidence by racial or ethnic group,
