@@ -4,10 +4,10 @@
 
 ---
 
-**Background.** In the United States, breast cancer incidence is usually reported for a few broad
-racial and ethnic categories. Each category is internally diverse—spanning subgroups defined by
+**Background.** In the United States, breast cancer incidence is usually reported for broad racial
+and ethnic categories. Each category is internally diverse—spanning subgroups defined by
 ancestry, nativity, and region, with receptor-defined subtypes cutting across them—so an aggregate
-rate can obscure the subgroups at highest and lowest risk. Estimates for these subgroups come from
+rate does not show which subgroups are at highest and lowest risk. Estimates for these subgroups come from
 separate cancer-registry studies that differ in populations, periods, and reference groups, and have
 not been assembled on a common scale.
 
