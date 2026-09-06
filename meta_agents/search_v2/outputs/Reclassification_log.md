@@ -13,19 +13,21 @@ adds a genuinely new, independent, NHW-comparable estimate.
   Asian/PI HR−/HER2+ 1.41, HR+/HER2− 0.87, TNBC 0.79; Hispanic 0.78 / 0.91 / 0.94.
   **Decision: verified, no change.** (Closes the last no-PDF main-rep gap except rec 155.)
 
-## Quantitatively eligible but deferred (extractable yet redundant) — kept deferred
-Each reports breast data but overlaps a study already represented, so extracting
-it would only add a non-independent overlap to the sensitivity pool (no new cell).
+## Quantitatively eligible overlaps — entered into the ledger as sensitivity rows
+Each reports a recoverable race-vs-NHW breast rate but overlaps a study already
+represented, so it was entered into the ledger only as a non-independent overlap
+in the sensitivity pool (no new cell); none is a main-analysis representative.
 - **rec 209 — TNBC AAIR by race 2011–2019 (USCS).** Overlaps rec 155/142 (same
-  USCS TNBC-by-race source). Deferred.
+  USCS TNBC-by-race source). Entered as overlap.
 - **rec 419 — TNBC + overall, young African American, CCR 1988–2006.** Age-restricted
-  ("young"), which the synthesis excludes from all-age cells; also overlaps CCR. Deferred.
+  ("young"), which the synthesis excludes from all-age cells; also overlaps CCR.
+  Entered as overlap (TNBC Black/Hispanic).
 - **rec 2137 — urban AI/AN vs NHW, 1999–2017.** A multi-cancer disparities paper;
   breast is one site among many and is not given as a standalone AI/AN-vs-NHW breast
-  rate. Overlaps existing AI/AN. Deferred.
+  rate. Overlaps existing AI/AN. Entered as overlap.
 - **rec 4027 — 6 Asian subgroups vs NHW, SEER+NPCR 2009–2011.** Reports all-cancer
   (not breast-specific) subgroup rates in the extractable text; overlaps rec 234/4098
-  (the AANHPI subgroup representatives). Deferred.
+  (the AANHPI subgroup representatives). Entered as overlap.
 
 ## Narrative — confirmed (no recoverable NHW-comparable incidence estimate)
 - **rec 14 — USCS 65+ only; APC/trend.** Age-restricted and trend-dominant.
