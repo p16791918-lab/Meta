@@ -53,8 +53,7 @@ aggregate Hispanic/Latina estimate was 0.64 (0.64–0.65), matching the study's 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
 area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
-estimate without a confidence interval, drawn from unlinked state registries that undercount AI/AN
-cases. Alaska
+estimate without a confidence interval, drawn from unlinked state registries. Alaska
 Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
 Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
 (Table 1; Figure 2).

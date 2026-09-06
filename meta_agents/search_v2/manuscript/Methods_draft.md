@@ -84,7 +84,7 @@ non-Hispanic White (rather than an unstratified White) comparator, then the most
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
 For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
-Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
+Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked-registry
 estimate for the same dimension, because unlinked registries misclassify race and undercount
 this population, so the more valid population definition—rather than the broadest coverage—
 determined the representative.

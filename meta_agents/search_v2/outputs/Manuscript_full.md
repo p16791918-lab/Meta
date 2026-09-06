@@ -121,7 +121,7 @@ non-Hispanic White (rather than an unstratified White) comparator, then the most
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
 For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
-Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked national-registry
+Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked-registry
 estimate for the same dimension, because unlinked registries misclassify race and undercount
 this population, so the more valid population definition—rather than the broadest coverage—
 determined the representative.
@@ -214,8 +214,7 @@ aggregate Hispanic/Latina estimate was 0.64 (0.64–0.65), matching the study's 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
 area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
-estimate without a confidence interval, drawn from unlinked state registries that undercount AI/AN
-cases. Alaska
+estimate without a confidence interval, drawn from unlinked state registries. Alaska
 Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
 Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
 (Table 1; Figure 2).
@@ -288,10 +287,10 @@ concordant with prior subtype-specific work.²,²⁰ The relative ordering of gr
 the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates.
-First, unlinked national registries misclassify race and undercount AI/AN cases, so an Indian Health
-Service–linked estimate was preferred for that group wherever one was available, and the reported
+First, unlinked registries undercount AI/AN cases, so an Indian Health
+Service–linked estimate was preferred for that group wherever one was available, and most reported
 AI/AN figures draw on those linked sources rather than the lower unlinked-registry values.¹⁰,⁴⁴
-The contrast is visible across regions: the Indian Health Service–linked estimates place AI/AN
+The contrast is visible across regions: these linked estimates place AI/AN
 breast incidence above the NHW rate in the Southern Plains (1.33) and close to it among Alaska Native
 women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
 unlinked state registries—sits at 0.90 and understates incidence to the extent those registries miss
