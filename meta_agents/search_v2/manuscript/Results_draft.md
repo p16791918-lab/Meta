@@ -46,9 +46,9 @@ and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IR
 (1.17–1.26) (Table 1; Figure 2).
 
 ### Hispanic/Latina by country of origin
-Among Hispanic/Latina women, origin-specific incidence in Florida differed by country of origin:
-Mexican 0.51 (0.38–0.69), New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83
-(0.74–0.94), against the aggregate Hispanic/Latina rate of 0.72 (Table 1; Figure 2).
+Among Hispanic/Latina women, incidence in Florida differed by country of origin: Mexican 0.51
+(0.38–0.69), New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94),
+against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
 ### American Indian and Alaska Native by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
