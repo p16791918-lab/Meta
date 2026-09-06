@@ -120,11 +120,14 @@ the broadest population coverage (USCS > NAACCR > SEER-national > state or regio
 non-Hispanic White (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
-For American Indian and Alaska Native (AI/AN) populations this order was overridden: an Indian
-Health Service–linked (IHS-PRCDA) estimate was preferred over an unlinked-registry
-estimate for the same dimension, because unlinked registries misclassify race and undercount
-this population, so the more valid population definition—rather than the broadest coverage—
-determined the representative.
+For American Indian and Alaska Native (AI/AN) populations this order was overridden in favour of
+ascertainment validity: because unlinked registries misclassify race and undercount this
+population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
+dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
+estimate for the same cell, ahead of both the coverage and the comparator-type preferences. Where
+the best-ascertained source for a cell reported only an unstratified White comparator, as for Alaska
+Native women, that estimate was kept as the representative and the non-Hispanic-White-comparator
+alternative was carried in the sensitivity analysis.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
 of the selection was checked in three ways: restricting to studies at low risk of bias, to
