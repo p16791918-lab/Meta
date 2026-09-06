@@ -88,9 +88,10 @@ Mexican 0.50 (0.38–0.67), New Latino 0.68 (0.62–0.76), Cuban 0.76 (0.68–0.
 Puerto Rican 0.82 (0.73–0.92).
 
 ### American Indian/Alaska Native by region/tribe
-Navajo 0.49 (0.44–0.55); IHS-PRCDA Southern Plains 1.25 (1.11–1.41) and Northern
-Plains 1.33 (1.26–1.41) (provisional regional estimates). The Alaska Native
-estimate was 1.09 (0.99–1.21) from the directly-reported source.
+Navajo 0.49 (0.44–0.55); IHS-PRCDA Southern Plains 1.33 (1.26–1.41). The Northern
+Plains estimate was 0.90 (unlinked state registries; point estimate, no confidence
+interval). The Alaska Native estimate was 1.09 (0.99–1.21), directly reported from
+the Alaska Native Tumor Registry against an unstratified White reference.
 
 ### Middle Eastern (California, 1988–2004)
 Middle Eastern women: IRR 0.86 (0.84–0.88).
