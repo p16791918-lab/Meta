@@ -38,8 +38,9 @@ The records in each class:
   invasive breast rates with standard errors (2000 US std): Latina 89.2 (SE 0.44), non-Hispanic
   White 138.7 (SE 0.21). IRR = 89.2/138.7 = 0.643, reproducing the paper's printed SIR of 0.64;
   95% CI (0.637, 0.650) by the delta method from the reported rate SEs (rate CIs = rate ± 1.96·SE).
-  Representative for the Hispanic/Latina origin-analysis aggregate; overlaps rec 4333 (Miami
-  Hispanic, sensitivity).
+  An all-Hispanic multi-state estimate; enters the overall Hispanic aggregate cell as a
+  sensitivity overlap of the USCS-national representative (rec 169, 0.72), and overlaps rec 4333
+  (Miami Hispanic).
 - **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).** Table 2 prints
   all-ages age-standardized (2000 US) breast rates: AI/AN 134.6, NHW 149.3 (printed RR 0.9).
   IRR = 134.6/149.3 = 0.902, point estimate only (no rate confidence intervals reported). These
@@ -95,8 +96,8 @@ sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`
   breast rates with SEs: Hispanic 81.9 (SE 1.2), NHW 125.8 (SE 2.0), 1990-1998.
   IRR = 81.9/125.8 = 0.651; SE(log rate) = SE_rate/rate; SE(logIRR) =
   sqrt((1.2/81.9)^2 + (2.0/125.8)^2) = 0.0216 → IRR 0.651 (0.624-0.679).
-  Regional aggregate Hispanic (Cuban-heavy); collapses with rec 3298 aggregate
-  Hispanic (sensitivity/overlap).
+  Regional aggregate Hispanic (Cuban-heavy); enters the overall Hispanic aggregate cell as a
+  sensitivity overlap (with rec 3298) of the USCS-national representative (rec 169).
 
 ## 5. Author-reported rate ratios taken as directly reported
 - **rec 587 (Middle Eastern-California).** The authors print the rate

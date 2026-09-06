@@ -1,6 +1,6 @@
 # Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)
 
-Cells: 74 total — unchanged 55, changed 8, dropped 11.
+Cells: 73 total — unchanged 54, changed 8, dropped 11.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 

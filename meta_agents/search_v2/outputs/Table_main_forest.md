@@ -41,7 +41,6 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Mexican | 0.512 | 0.382-0.686 | 3182 |
-| Hispanic/Latina (aggregate) | 0.643 | 0.637-0.650 | 3298 |
 | New Latino | 0.697 | 0.630-0.772 | 3182 |
 | Cuban | 0.769 | 0.688-0.860 | 3182 |
 | Puerto Rican | 0.833 | 0.738-0.940 | 3182 |

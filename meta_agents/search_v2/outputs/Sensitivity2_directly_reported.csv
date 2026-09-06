@@ -2,11 +2,10 @@ dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,statu
 age-lt40,Black,,1.183," [1.142, 1.226]",265,1.16," [1.1, 1.23]",199,changed,2,1
 aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.92," [0.9, 0.95]",66,changed,5,2
 aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.98," [0.97, 0.98]",2406,changed,11,4
-aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.75," [0.73, 0.76]",66,changed,7,2
+aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.75," [0.73, 0.76]",66,changed,9,2
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,3,1
 AIAN,AIAN (Northern Plains),,0.902,,461,,,,dropped,1,0
 Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,,,,dropped,1,0
-Hispanic-origin,Hispanic/Latina (aggregate),,0.643," [0.637, 0.650]",3298,,,,dropped,2,0
 Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,,,,dropped,1,0
 Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,,,,dropped,1,0
 Hispanic-origin,Puerto Rican,,0.833," [0.738, 0.939]",3182,,,,dropped,1,0
