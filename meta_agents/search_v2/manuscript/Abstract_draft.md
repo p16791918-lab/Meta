@@ -11,10 +11,10 @@ rate can obscure the subgroups at highest and lowest risk. Estimates for these s
 separate cancer-registry studies that differ in populations, periods, and reference groups, and have
 not been assembled on a common scale.
 
-**Methods.** Following PRISMA 2020, four bibliographic databases were searched for U.S. studies of
+**Methods.** Following PRISMA 2020, four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
 those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
-rest narratively. Because these registries overlap, one representative estimate per group and
+rest narratively. Because registries overlap, one representative estimate per group and
 dimension was selected, not pooled. Each was an incidence rate ratio (IRR) versus an NHW reference;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
@@ -24,11 +24,11 @@ synthesis and 114 narrative. Overall incidence was lower than NHW in
 each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
-American subgroups, up to 1.21 in Native Hawaiian women, 0.51 (Mexican) to 0.83 (Puerto Rican) by
+American subgroups, up to 1.21 (Native Hawaiian), 0.51 (Mexican) to 0.83 (Puerto Rican) by
 Hispanic origin, and 0.49 (Navajo area) to 1.33 (Southern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
-**Conclusions.** Reported at the aggregate level, these categories summarize overall differences but
+**Conclusions.** At the aggregate level, these categories summarize overall differences but
 not the variation among their subgroups, several of which reach or exceed the NHW rate. Because
-unlinked registries undercount AI/AN incidence, Indian Health Service–linked estimates were used
-for that group. This descriptive review compares incidence, not its causes.
+unlinked registries undercount AI/AN incidence, Indian Health Service–linked estimates were used.
+This descriptive review compares incidence, not its causes.
