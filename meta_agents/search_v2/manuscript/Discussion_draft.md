@@ -35,10 +35,10 @@ First, unlinked national registries misclassify race and undercount AI/AN cases,
 Service–linked estimate was preferred for that group wherever one was available, and the reported
 AI/AN figures draw on those linked sources rather than the lower unlinked-registry values.¹⁰,⁴⁴
 The contrast is visible across regions: the Indian Health Service–linked estimates place AI/AN
-breast incidence at or above the NHW rate in the Southern Plains (1.33) and among Alaska Native
-women (1.09), whereas the Northern Plains figure—available only from unlinked state registries—sits
-at 0.90 and understates incidence to the extent those registries miss AI/AN cases. The direction of
-the comparison thus shifts with case ascertainment.³⁴,⁴⁸ Second, reference
+breast incidence above the NHW rate in the Southern Plains (1.33) and close to it among Alaska Native
+women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
+unlinked state registries—sits at 0.90 and understates incidence to the extent those registries miss
+AI/AN cases. The AI/AN–NHW comparison thus depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used a non-Hispanic White comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
