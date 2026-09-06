@@ -112,8 +112,8 @@ rates of the same study, standard population, and diagnosis period, and its conf
 was propagated from the reported rate intervals by the delta method. Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
 estimate paired an Alaska Native rate with an external SEER-Explorer non-Hispanic White reference,
-its source having reported no in-paper White comparator; it was used only in the sensitivity
-analysis, not as a representative. For the
+its source having reported no in-paper White comparator; it was retained only as an overlap
+record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
 random-effects estimate; the primary result for each group is the representative population-based
 estimate, and the analysis presents the racial and ethnic differences and the subgroup

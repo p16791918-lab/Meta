@@ -149,8 +149,8 @@ rates of the same study, standard population, and diagnosis period, and its conf
 was propagated from the reported rate intervals by the delta method. Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
 estimate paired an Alaska Native rate with an external SEER-Explorer non-Hispanic White reference,
-its source having reported no in-paper White comparator; it was used only in the sensitivity
-analysis, not as a representative. For the
+its source having reported no in-paper White comparator; it was retained only as an overlap
+record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
 random-effects estimate; the primary result for each group is the representative population-based
 estimate, and the analysis presents the racial and ethnic differences and the subgroup
@@ -253,12 +253,13 @@ none at high risk (Supplementary Table 5); the moderate ratings arose mainly whe
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
 low-risk-of-bias studies left 55 of 74 cell representatives unchanged, with the 8 changed and 11
-dropped cells concentrated in the disaggregated AANHPI subgroups;
+dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
 restricting to directly reported estimates left 35 unchanged (5 changed, 34 dropped); and
 restricting to NHW-comparator estimates left 56 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
-Native, whose unstratified-White representative gave way to the external-NHW sensitivity estimate.
+Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
+estimate reported against a non-Hispanic White reference (1.25).
 
 ## Discussion
 
