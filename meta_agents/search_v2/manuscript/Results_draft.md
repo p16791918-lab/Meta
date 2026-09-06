@@ -91,7 +91,7 @@ was reported without a variance, the standard population was not clearly specifi
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
 low-risk-of-bias studies left 56 of 74 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups;
-restricting to directly reported estimates left 35 unchanged (6 changed, 33 dropped); and
+restricting to directly reported estimates left 36 unchanged (5 changed, 33 dropped); and
 restricting to NHW-comparator estimates left 56 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
