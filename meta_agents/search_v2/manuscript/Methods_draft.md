@@ -60,8 +60,14 @@ against the source table, figure, or text. Screening and extraction were thus pe
 single reviewer with model assistance. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
-studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
-studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
+studies rather than cohort studies (Supplementary Table 2). These registries form several
+overlapping systems: the Surveillance, Epidemiology, and End Results (SEER) program collects
+incidence data from selected states and metropolitan areas; the National Program of Cancer
+Registries (NPCR) covers registries across the remaining states; United States Cancer Statistics
+(USCS) pools SEER and NPCR to reach almost the entire U.S. population; the North American
+Association of Central Cancer Registries (NAACCR) compiles data across member registries;
+IHS-linked files provide case ascertainment for AI/AN populations; and
+individual state or regional registries (for example, California and Hawaii) cover single areas. From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
 or ethnic group and comparator, outcome (overall or subtype), the reported estimate, and its
 confidence interval. Each estimate was labelled by provenance—directly reported IRR or SIR,
@@ -70,9 +76,9 @@ figure—and the label was retained for risk-of-bias scoring and for a provenanc
 sensitivity analysis.
 
 ### Selection of a representative population-based estimate
-Because registry populations overlap in the regions and periods they cover, estimates from
-different publications that draw on the same or nested populations are not statistically
-independent. Rather than pool such non-independent
+Because SEER and NPCR both feed USCS and many registries report into more than one of these
+systems, estimates from different publications that draw on the same or nested populations are not
+statistically independent. Rather than pool such non-independent
 estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
 analytic dimension (overall incidence, a disaggregated subgroup, a receptor-defined subtype, or an
 age band)—and one
@@ -83,7 +89,7 @@ the broadest population coverage (USCS > NAACCR > SEER-national > state or regio
 non-Hispanic White (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
-For American Indian and Alaska Native (AI/AN) populations this order was overridden in favour of
+For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries misclassify race and undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
