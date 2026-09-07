@@ -17,10 +17,8 @@ quantitative synthesis and entered the analysis, contributing 156 individual est
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
-between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
-program, the National Program of Cancer Registries and the United States Cancer Statistics
-file, the North American Association of Central Cancer Registries, Indian Health Service–linked
-and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
+between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
+registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 73 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin

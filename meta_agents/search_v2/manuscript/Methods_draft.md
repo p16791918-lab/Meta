@@ -70,10 +70,9 @@ figure—and the label was retained for risk-of-bias scoring and for a provenanc
 sensitivity analysis.
 
 ### Selection of a representative population-based estimate
-Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and individual state
-registries cover overlapping regions and diagnosis periods, the same women can appear in more
-than one study; estimates from different publications that draw on the same or nested registry
-populations are therefore not statistically independent. Rather than pool such non-independent
+Because registry populations overlap in the regions and periods they cover, estimates from
+different publications that draw on the same or nested populations are not statistically
+independent. Rather than pool such non-independent
 estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
 analytic dimension (overall incidence, a disaggregated subgroup, a receptor-defined subtype, or an
 age band)—and one
