@@ -65,9 +65,9 @@ White reference, different racial and ethnic categories, and different standard 
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance, so selection and extraction errors cannot be excluded; the full text of every included
-study was read for the inclusion decision and every extracted estimate was checked against its
-source table, figure, or text.
+assistance rather than by two independent reviewers; to limit selection and extraction error, the
+full text of every included study was read for the inclusion decision and every extracted estimate
+was checked against its source table, figure, or text.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
