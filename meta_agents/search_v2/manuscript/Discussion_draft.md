@@ -31,9 +31,9 @@ concordant with prior subtype-specific work.²,²⁰ The relative ordering of gr
 the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates.
-First, unlinked registries undercount AI/AN cases, so an Indian Health
-Service–linked estimate was preferred for that group wherever one was available, and most reported
-AI/AN figures draw on those linked sources rather than the lower unlinked-registry values.¹⁰,⁴⁴
+First, unlinked registries undercount AI/AN cases, and most reported
+AI/AN figures draw on Indian Health Service–linked sources rather than the lower unlinked-registry
+values.¹⁰,⁴⁴
 The contrast is visible across regions: these linked estimates place AI/AN
 breast incidence above the NHW rate in the Southern Plains (1.33) and close to it among Alaska Native
 women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
