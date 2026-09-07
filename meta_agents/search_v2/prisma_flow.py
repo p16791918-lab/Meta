@@ -29,28 +29,21 @@ def line(ax, x1, y1, x2, y2):
 
 
 def main():
-    fig, ax = plt.subplots(figsize=(13.6, 11.6))
-    ax.set_xlim(0, 16); ax.set_ylim(0, 14); ax.axis("off")
+    fig, ax = plt.subplots(figsize=(11.0, 11.6))
+    ax.set_xlim(0, 11.2); ax.set_ylim(0, 14); ax.axis("off")
 
-    # columns
-    lmx, lmw = 1.2, 4.7          # left arm main
-    lex, lew = 6.4, 3.9          # left arm exclusions
-    rmx, rmw = 11.2, 4.1         # right arm (other methods)
+    # columns (single database arm; no other-methods arm — none used)
+    lmx, lmw = 1.2, 4.7          # main column
+    lex, lew = 6.4, 3.9          # exclusions column
 
     # stage labels
     for y, lab in [(11.9, "Identification"), (8.3, "Screening"), (2.4, "Included")]:
         ax.text(0.25, y, lab, rotation=90, va="center", ha="center",
                 fontsize=10, fontweight="bold", color=EDGE)
 
-    # arm headers
-    ax.text((lmx + lex + lew) / 2, 13.4, "Identification of studies via databases and registers",
-            ha="center", fontsize=8.5, fontweight="bold", color=EDGE)
-    ax.text(rmx + rmw / 2, 13.4, "Identification of studies via other methods",
-            ha="center", fontsize=8.5, fontweight="bold", color=EDGE)
-
-    # ---- left arm ----
+    # ---- database-search flow ----
     box(ax, lmx, 11.3, lmw, 1.35,
-        "Records identified from:\nDatabases (n = 9,099)\nRegisters (n = 0)")
+        "Records identified from\ndatabases (n = 9,099):\nPubMed/MEDLINE 1,331; Embase 3,248;\nScopus 2,438; Web of Science 2,082")
     box(ax, lex, 11.5, lew, 1.0,
         "Records removed before screening:\nDuplicate records removed (n = 4,306)")
     arrow(ax, lmx + lmw, 11.98, lex, 11.98)
@@ -75,23 +68,13 @@ def main():
         "ineligible population (n = 3);\npreprint, not peer-reviewed (n = 1)")
     arrow(ax, lmx + lmw, 5.85, lex, 5.85)
 
-    # ---- right arm (other methods) ----
-    box(ax, rmx, 11.3, rmw, 1.35,
-        "Records identified from\nother methods:\nCitation searching — not performed\nGrey literature — not sought")
-    box(ax, rmx, 5.4, rmw, 1.35,
-        "Reports assessed for\neligibility: not applicable\n(no other-methods records)")
-    arrow(ax, rmx + rmw / 2, 11.3, rmx + rmw / 2, 6.75)
-
-    # ---- included (spans left arm) ----
+    # ---- included ----
     incx, incw = 1.3, 8.7
     box(ax, incx, 3.0, incw, 1.3,
         "Studies included in the review (n = 162)\n"
         "Quantitative synthesis: 48 studies   |   Narrative synthesis only: 114",
         fc="#cfe6d4")
     arrow(ax, lmx + lmw / 2, 5.4, lmx + lmw / 2, 4.3)
-    # right arm merges into included
-    line(ax, rmx + rmw / 2, 5.4, rmx + rmw / 2, 3.65)
-    arrow(ax, rmx + rmw / 2, 3.65, incx + incw, 3.65)
 
     box(ax, incx, 1.0, incw, 1.4,
         "Studies contributing ≥1 estimate to the quantitative synthesis (n = 48)\n"
@@ -100,8 +83,9 @@ def main():
         fc="#cfe6d4", fs=7.0)
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
 
-    ax.text(0.6, 0.5, "PRISMA 2020 flow diagram. Single-reviewer screening with "
-            "AI assistance. Search date 7 August 2026.", fontsize=7.2, color="#555")
+    ax.text(0.6, 0.5, "PRISMA 2020 flow diagram. Identification via databases only; no registers, "
+            "citation searching, or grey-literature sources were used.\nSingle-reviewer screening "
+            "with AI assistance. Search date 7 August 2026.", fontsize=7.2, color="#555")
     fig.savefig(os.path.join(OUT, "Fig_PRISMA.png"), dpi=200, bbox_inches="tight")
     plt.close(fig)
     print("wrote outputs/Fig_PRISMA.png")
