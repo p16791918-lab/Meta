@@ -246,6 +246,7 @@ def canonical_counts():
                 if r["main_analysis"].startswith("yes")]
     cells = len(rep_rows)
     reps = len(set(r["record_id"] for r in rep_rows))
+    sens_only = studies - reps          # quant studies with no cell representative
     # Risk of bias: JBI overall ratings on the extracted studies
     rob = {"Low": 0, "Moderate": 0, "High": 0}
     if os.path.exists(ROB):
@@ -255,7 +256,7 @@ def canonical_counts():
             "excluded": excluded, "not_retrieved": not_retrieved,
             "excluded_elig": excluded_elig, "assessed": assessed,
             "studies": studies, "estimates": estimates,
-            "cells": cells, "reps": reps,
+            "cells": cells, "reps": reps, "sens_only": sens_only,
             "rob_low": rob["Low"], "rob_moderate": rob["Moderate"],
             "rob_total": rob["Low"] + rob["Moderate"] + rob["High"]}
 
@@ -271,14 +272,16 @@ def check_E():
     # (this is exactly the gap that let "144 estimates / 28 representatives" go stale).
     here_probes = [
         ("prisma_flow.py", r"Studies included in the review \(n = (\d+)\)", "included"),
-        ("prisma_flow.py", r"(\d+) eligible \(\d+ with extractable", "quant"),
-        ("prisma_flow.py", r"\d+ eligible \((\d+) with extractable", "studies"),
+        ("prisma_flow.py", r"Quantitative synthesis: (\d+) studies", "quant"),
+        ("prisma_flow.py", r"quantitative synthesis \(n = (\d+)\)", "studies"),
         ("prisma_flow.py", r"Narrative synthesis only: (\d+)", "narrative"),
         ("prisma_flow.py", r"Reports not retrieved \(n = (\d+)\)", "not_retrieved"),
         ("prisma_flow.py", r"Reports assessed for eligibility\\n\(n = (\d+)\)", "assessed"),
         ("prisma_flow.py", r"Reports excluded \(n = (\d+)\)", "excluded_elig"),
-        ("prisma_flow.py", r"(\d+) estimates;", "estimates"),
-        ("prisma_flow.py", r"estimates; (\d+) supplied a main-analysis", "reps"),
+        ("prisma_flow.py", r"(\d+) extracted estimates", "estimates"),
+        ("prisma_flow.py", r"→ (\d+) representative estimates", "cells"),
+        ("prisma_flow.py", r"estimates \(one per analytic cell\), from (\d+) studies;", "reps"),
+        ("prisma_flow.py", r"the remaining (\d+) studies contributed only", "sens_only"),
         ("outputs/PRISMA_COUNTS.md", r"Reports not retrieved: (\d+)", "not_retrieved"),
         ("outputs/PRISMA_COUNTS.md", r"assessed for eligibility \(full text\): (\d+)", "assessed"),
         ("outputs/PRISMA_COUNTS.md", r"Reports excluded: (\d+)", "excluded_elig"),
