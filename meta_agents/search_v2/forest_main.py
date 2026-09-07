@@ -32,6 +32,7 @@ blocks = [
         ("Filipina", *g("disaggregated-AANHPI", "Filipina"), False),
         ("Asian Indian/Pakistani", *g("disaggregated-AANHPI", "Asian Indian/Pakistani"), False),
         ("Japanese", *g("disaggregated-AANHPI", "Japanese"), False),
+        ("Asian American aggregate", *g("disaggregated-AANHPI", "Asian American (aggregate)"), False),
         ("Guamanian/Chamorro/Samoan", *g("disaggregated-AANHPI", "Guamanian/Chamorro/Samoan"), False),
         ("Native Hawaiian", *g("disaggregated-AANHPI", "Native Hawaiian"), False),
         ("NHPI aggregate", *g("disaggregated-AANHPI", "Native Hawaiian/PI (aggregate)"), False),
