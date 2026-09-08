@@ -109,8 +109,10 @@ for (const m of M) {
       spacing: { before: 200, after: 100 },
       children: [new TextRun({ text: m.text, font: FONT, bold: true, size: m.level === 1 ? 24 : 20 })] }));
   } else if (m.type === "para") {
-    kids.push(new Paragraph({ spacing: { after: 80 },
-      children: [new TextRun({ text: m.text, font: FONT, size: 18, italics: !!m.italic })] }));
+    const _pp = { spacing: { after: 80 },
+      children: [new TextRun({ text: m.text, font: FONT, size: 18, italics: !!m.italic })] };
+    if (m.indent) _pp.indent = { left: m.indent, hanging: 180 };
+    kids.push(new Paragraph(_pp));
   } else if (m.type === "code") {
     for (const line of m.lines) {
       kids.push(new Paragraph({ spacing: { after: 0, line: 190 },

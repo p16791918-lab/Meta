@@ -10,7 +10,7 @@ M = []
 
 
 def H(t, l=1): M.append({"type": "heading", "text": t, "level": l})
-def P(t, it=False): M.append({"type": "para", "text": t, "italic": it})
+def P(t, it=False, ind=0): M.append({"type": "para", "text": t, "italic": it, "indent": ind})
 def TB(h, rows, w): M.append({"type": "table", "headers": h, "rows": rows, "widths": w})
 def IMG(p, w, h): M.append({"type": "image", "path": os.path.join(OUT, p), "w": w, "h": h})
 def CODE(lines): M.append({"type": "code", "lines": lines})
@@ -19,7 +19,7 @@ def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
 from labels import disp_group, disp_dim, disp_comparator
-def cite(ay): return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
+def cite(ay): return re.sub(r"\s*(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
 # First-author labels for the included studies, derived offline from the raw
 # search dumps (MEDLINE FAU / Embase / Scopus / WoS), keyed by record_id. Used to
 # put a real author on the "Study (author, year)" column instead of title-only.
@@ -204,7 +204,7 @@ H("Supplementary Note 1. Provenance of estimates and derivation log", 1)
 _ay = {}
 for r in csv.DictReader(open(os.path.join(HERE, "breast_extraction.csv"), encoding="utf-8")):
     if r["record_id"] != "SEER-EXPL":
-        _ay.setdefault(r["record_id"], re.sub(r"(\d{4})", r" \1", r["author_year"].split("_")[0]).strip())
+        _ay.setdefault(r["record_id"], re.sub(r"\s*(\d{4})", r" \1", r["author_year"].split("_")[0]).strip())
 
 def _rec(text):
     text = re.sub(r"rec (\d+)/(\d+)", r"rec \1, rec \2", text)      # expand rec a/b
@@ -212,13 +212,53 @@ def _rec(text):
     return text.replace("**", "")                                   # strip markdown bold
 
 d = open(os.path.join(HERE, "DERIVATIONS.md"), encoding="utf-8").read()
-for line in d.split("\n"):
-    line = line.rstrip()
-    if not line: continue
-    if line.startswith("## "): H(_rec(line[3:]), 2)
-    elif line.startswith("# "): pass
-    elif line.startswith("- ") or line.startswith("  "): P("• " + _rec(line.strip("- ").strip()))
-    else: P(_rec(line))
+# DERIVATIONS.md is hand-wrapped markdown: a "- " item can span several physical
+# lines, and "  - " marks a nested item. Join wrapped lines into one logical block
+# so each list item renders as a single bullet, and render nested items as an
+# indented sub-bullet — rather than prefixing every physical line with "•".
+_blk = {"lines": [], "lvl": 0}
+
+
+def _flush():
+    if not _blk["lines"]:
+        return
+    text = " ".join(_blk["lines"]).strip()
+    lvl = _blk["lvl"]
+    _blk["lines"] = []
+    _blk["lvl"] = 0
+    if not text:
+        return
+    if lvl == 1:
+        P("•  " + _rec(text), ind=360)
+    elif lvl == 2:
+        P("–  " + _rec(text), ind=720)
+    else:
+        P(_rec(text))
+
+
+for raw in d.split("\n"):
+    s = raw.rstrip()
+    if not s.strip():
+        _flush(); continue
+    if s.startswith("## "):
+        _flush(); H(_rec(s[3:]), 2); continue
+    if s.startswith("# "):
+        _flush(); continue
+    stripped = s.lstrip()
+    indent = len(s) - len(stripped)
+    if stripped.startswith("- "):
+        _flush()
+        _blk["lines"] = [stripped[2:].strip()]
+        _blk["lvl"] = 1 if indent == 0 else 2
+    elif indent >= 2 and _blk["lines"]:
+        _blk["lines"].append(stripped)          # wrapped continuation of the current item
+    elif _blk["lines"] and _blk["lvl"] == 0:
+        _blk["lines"].append(stripped)          # wrapped continuation of a plain paragraph
+    else:
+        _flush()
+        _blk["lines"] = [stripped]
+        _blk["lvl"] = 0
+_flush()
 PB()
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
