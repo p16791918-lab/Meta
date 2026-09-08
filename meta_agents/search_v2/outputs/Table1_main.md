@@ -7,9 +7,9 @@ Values are the representative population-based estimate per group (one per regis
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
-| AIAN | IRR | 0.560 [0.550, 0.570] | Gopalani2020_31764279 (1999-2015) | IHS-PRCDA | Low |
 | Hispanic | IRR | 0.718 [0.707, 0.731] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
 | Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
+| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | IHS-PRCDA | Low |
 | Black | IRR | 0.933 [0.920, 0.946] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
 
 **Asian American subgroups**

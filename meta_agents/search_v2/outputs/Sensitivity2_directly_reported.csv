@@ -44,7 +44,7 @@ age-lt50,AIAN,,0.75," [0.72, 0.79]",146,0.75," [0.72, 0.79]",146,unchanged,1,1
 age-lt50,Asian/PI (aggregate),,0.96," [0.95, 0.97]",146,0.96," [0.95, 0.97]",146,unchanged,1,1
 age-lt50,Black,,1.01," [1.0, 1.03]",146,1.01," [1.0, 1.03]",146,unchanged,1,1
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
-aggregate-vs-NHW,AIAN,,0.560," [0.550, 0.570]",500,0.560," [0.550, 0.570]",500,unchanged,8,5
+aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,8,5
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
 subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1

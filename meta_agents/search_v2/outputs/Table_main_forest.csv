@@ -1,5 +1,4 @@
 dimension,group,irr,ci_lo,ci_hi,record
-aggregate-vs-NHW,AIAN,0.56,0.55,0.57,500
 aggregate-vs-NHW,Hispanic,0.718,0.706,0.73,169
 aggregate-vs-NHW,Asian/PI (aggregate),0.769,0.751,0.787,169
 aggregate-vs-NHW,Black,0.933,0.92,0.946,169

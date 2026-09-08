@@ -7,7 +7,6 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| AIAN | 0.560 | 0.550-0.570 | 500 |
 | Hispanic | 0.718 | 0.706-0.730 | 169 |
 | Asian/PI (aggregate) | 0.769 | 0.751-0.787 | 169 |
 | Black | 0.933 | 0.920-0.946 | 169 |

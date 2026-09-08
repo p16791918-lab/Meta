@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (48 studies): {'Low': 39, 'Moderate': 9}. Main-analysis representatives: {'Low': 17, 'Moderate': 6}
+Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives: {'Low': 17, 'Moderate': 6}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -36,7 +36,7 @@ Overall (48 studies): {'Low': 39, 'Moderate': 9}. Main-analysis representatives:
 | 461 | Watanabe-Galloway 2015 | NE/ND/SD state registries | 2002-2009 | Yes | Yes | Yes | Yes | Unclear | Yes | No | Yes | Yes | **Moderate** |
 | 463 | Keegan2007_GBACR | Greater Bay Area (Northern | 1990-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 485 | Harper2009_SEER | SEER | 2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | **Moderate** |
-| 500 | Gopalani2020_31764279 | IHS-linked | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 500 | Gopalani2020_31764279 | USCS(NPCR+SEER) | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
 | 522 | Ihenacho2023_HTR | Hawaii Tumor Registry (SEE | 2010-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 587 | Nasseri2009 | California-CCR | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
 | 955 | Goggins2009 | SEER (SF/Seattle/Detroit/A | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
