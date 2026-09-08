@@ -59,14 +59,18 @@ each extracted value against its source, and every included estimate was verifie
 against the source table, figure, or text. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
-studies rather than cohort studies (Supplementary Table 2). These registries form several
+studies rather than cohort studies (Supplementary Table 2).
+
+These registries form several
 overlapping systems: the Surveillance, Epidemiology, and End Results (SEER) program collects
 incidence data from selected states and metropolitan areas; the National Program of Cancer
 Registries (NPCR) covers registries across the remaining states; United States Cancer Statistics
 (USCS) pools SEER and NPCR to reach almost the entire U.S. population; the North American
 Association of Central Cancer Registries (NAACCR) compiles data across member registries;
 IHS-linked files provide case ascertainment for AI/AN populations; and
-individual state or regional registries (for example, California and Hawaii) cover single areas. From each study contributing quantitative data we extracted the
+individual state or regional registries (for example, California and Hawaii) cover single areas.
+
+From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
 or ethnic group and comparator, outcome (overall or subtype), the reported estimate, and its
 confidence interval. Each estimate was labelled by provenance—directly reported IRR or SIR,

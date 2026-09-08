@@ -48,7 +48,7 @@ Among Hispanic/Latina women, incidence in Florida differed by country of origin:
 (0.38–0.69), New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94),
 against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
-### American Indian and Alaska Native by region
+### AI/AN by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
 area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
 estimate without a confidence interval, drawn from unlinked state registries. Alaska
