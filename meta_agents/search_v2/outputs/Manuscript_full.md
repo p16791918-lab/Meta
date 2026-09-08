@@ -6,38 +6,38 @@
 and ethnic categories. Each category is internally diverse—spanning subgroups defined by
 ancestry, nativity, and region, with receptor-defined subtypes cutting across them—so an aggregate
 rate does not show which subgroups are at highest and lowest risk. Estimates for these subgroups come from
-separate cancer-registry studies that differ in populations, periods, and reference groups, and have
-not been assembled on a common scale.
+separate cancer-registry studies differing in populations, periods, and reference groups, and not
+yet assembled on a common scale.
 
 **Methods.** Following PRISMA 2020, four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
 those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
-dimension was selected, not pooled. Each was an incidence rate ratio (IRR) versus an NHW reference;
+dimension was selected, not pooled; for American Indian and Alaska Native (AI/AN) populations, an
+Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an incidence rate ratio (IRR) versus NHW;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
 synthesis and 114 narrative. Overall incidence was lower than NHW in
-each aggregate group: American Indian and Alaska Native (AI/AN) 0.56, Hispanic/Latina 0.72, Asian
+each aggregate group: AI/AN 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
-Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
-American subgroups, up to 1.21 (Native Hawaiian), 0.51 (Mexican) to 0.83 (Puerto Rican) by
-Hispanic origin, and 0.49 (Navajo area) to 1.33 (Southern Plains) across AI/AN regions. For
+Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
+subgroups, 0.51 (Mexican) to 0.83 (Puerto Rican) by Hispanic origin, and 0.49 (Navajo area) to
+1.33 (Southern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** At the aggregate level, these categories summarize overall differences but
-not the variation among their subgroups, several of which reach or exceed the NHW rate. Because
-unlinked registries undercount AI/AN incidence, Indian Health Service–linked estimates were used.
+not the variation among their subgroups, several of which reach or exceed the NHW rate.
 This descriptive review compares incidence, not its causes.
 
 ## Introduction
 
 Breast cancer is the most commonly diagnosed cancer in U.S. women and a leading cause of cancer death.¹ Its rates are not the same across racial and ethnic groups. In the American Cancer Society's 2024 report, non-Hispanic Black (NHB) women had breast cancer incidence about 5% lower than non-Hispanic White (NHW) women but 38% higher mortality.¹ NHB women also have the highest rate of triple-negative breast cancer (TNBC),² and their tumors, like those in several other minority groups, are diagnosed at younger ages than in NHW women.³ Differences of this kind have been linked to the distribution of molecular subtypes²,⁴ and to stage at diagnosis, screening, and access to care.¹
 
-Race and ethnicity are recorded in a few broad categories, and rates differ within each. The AANHPI category—Asian American, Native Hawaiian, and Pacific Islander—is a clear example. Treated as one population its incidence sits well below that of NHW women, but that single number covers a wide spread. Using California registry data, Gomez and colleagues⁵ reported an incidence of 146 per 100,000 in NHW women and, within Asian American women, a more-than-twofold spread across ethnic groups—from about 103 per 100,000 in Japanese to 46 in Korean women—that widened with US nativity, the rate in US-born Filipina women surpassing that of White women. The lowest rates fall among Southeast Asian groups such as the Hmong,⁶ and rates differ again across the individual Asian ethnicities followed over time.⁷ Hispanic/Latina women are not one group either: incidence differs by country of origin,⁸ and among California Hispanic women it varies further with nativity and neighborhood.⁹ For AI/AN women, the aggregate rate also depends on how race is ascertained: registries that assign race by observation misclassify and undercount many AI/AN cases, so linkage to Indian Health Service records is needed to recover their rates,¹⁰ which for Alaska Native women are tracked in dedicated registries.¹¹,¹² Subtype rearranges the order once more: NHW women have the highest rate of HR+/HER2− disease while NHB women have the highest rate of TNBC,² so which group ranks highest depends on the tumor being counted.
+Race and ethnicity are recorded in a few broad categories, and rates differ within each. The AANHPI category—Asian American, Native Hawaiian, and Pacific Islander—is a clear example. Treated as one population its incidence sits well below that of NHW women, but that single number covers a wide spread. Using California registry data, Gomez and colleagues⁵ reported an incidence of 146 per 100,000 in NHW women and, within Asian American women, a more-than-twofold spread across ethnic groups—from about 103 per 100,000 in Japanese to 46 in Korean women—that widened with US nativity, the rate in US-born Filipina women surpassing that of NHW women. The lowest rates fall among Southeast Asian groups such as the Hmong,⁶ and rates differ again across the individual Asian ethnicities followed over time.⁷ Hispanic/Latina women are not one group either: incidence differs by country of origin,⁸ and among California Hispanic women it varies further with nativity and neighborhood.⁹ For American Indian and Alaska Native (AI/AN) women, the aggregate rate also depends on how race is ascertained: registries that assign race by observation misclassify and undercount many AI/AN cases, so linkage to Indian Health Service (IHS) records is needed to recover their rates,¹⁰ which for Alaska Native women are tracked in dedicated registries.¹¹,¹² Subtype rearranges the order once more: NHW women have the highest rate of HR+/HER2− disease while NHB women have the highest rate of TNBC,² so which group ranks highest depends on the tumor being counted.
 
-These estimates are dispersed across separate studies. They come from different registries—the Surveillance, Epidemiology, and End Results (SEER) program, the National Program of Cancer Registries, IHS-linked files, and individual state or regional registries—and from different periods, age-standardization methods, and reference groups, with some studies comparing against White women and others specifically against NHW women. Many of the studies draw on the same underlying registry data, so their estimates are not independent, and combining them directly counts some women more than once. What is missing is a synthesis that gathers the disaggregated estimates across registries, collapses these overlapping estimates, and appraises the quality of what remains.
+These estimates are dispersed across separate studies. They are drawn from cancer registries whose populations overlap, and from different periods, age-standardization methods, and reference groups—some studies comparing against White women, others specifically against NHW women. Because many draw on the same or nested registry populations, their estimates are not independent, and combining them directly counts some women more than once. What is missing is a synthesis that gathers the disaggregated estimates across registries, collapses these overlapping estimates, and appraises the quality of what remains.
 
 We reviewed U.S. studies of breast cancer incidence by race and ethnicity and combined them as incidence rate ratios (IRRs) relative to NHW women. The focus was on the disaggregated AANHPI and Hispanic-origin subgroups, on AI/AN women by region, and on the main receptor-defined subtypes. The main analysis retains one representative population-based estimate per registry family, and each contributing study was appraised with the Joanna Briggs Institute checklist for studies reporting prevalence and incidence data.
 
@@ -56,9 +56,9 @@ concept blocks with AND—breast cancer, race or ethnicity, incidence or age-adj
 the United States—using database-specific controlled vocabulary together with title/abstract
 terms, so that race and ethnicity terms were not restricted to the title. Results were limited
 to 2000–2026, English, and human studies, with document-type exclusions for reviews, letters,
-editorials, notes, and conference abstracts. The four searches returned 9,099 records. The
-search was limited to these databases; reference lists were not hand-searched and grey
-literature was not sought. Full strings, platforms, dates, and per-database counts are given
+editorials, notes, and conference abstracts. The four searches returned 9,099 records. Identification
+was via these databases only; no registers were searched, and reference lists (citation
+searching) and grey-literature sources were not used. Full strings, platforms, dates, and per-database counts are given
 in Supplementary Table 1.
 
 ### Eligibility criteria
@@ -66,13 +66,13 @@ Studies were eligible for inclusion if they reported invasive breast cancer inci
 women in the United States for at least one racial or ethnic group. Each included study was then
 assigned to one of two synthesis streams by whether a comparison with a White reference could be
 recovered. A study entered the **quantitative synthesis** when it expressed incidence relative to a
-White or non-Hispanic White (NHW) comparator—as an incidence rate ratio (IRR) or standardized
+White or NHW comparator—as an IRR or standardized
 incidence ratio (SIR), or as age-standardized minority and White rates from which a ratio could be
 computed. A study that met the inclusion criteria but did not yield such a recoverable White
 comparison—reporting, for example, only age-specific or trend data, rates for a single group, or a
 reference group that was internal or other than White—was carried in the **narrative synthesis**. Both aggregate
 groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific Islander,
-Hispanic/Latina by origin, and American Indian and Alaska Native [AI/AN] by region) and
+Hispanic/Latina by origin, and AI/AN by region) and
 receptor-defined molecular subtypes were eligible. The reference group was recorded as each
 study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
 and those using an unstratified White reference were labelled accordingly, and both were
@@ -93,12 +93,21 @@ random sample of the records the model had excluded and recorded any that should
 retained. The author then obtained and read the full texts and made all full-text eligibility
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
-against the source table, figure, or text. Screening and extraction were thus performed by a
-single reviewer with model assistance. In all, 162
+against the source table, figure, or text. In all, 162
 publications were included in the systematic review; of these, 48 were eligible for quantitative
 synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
-studies (drawing on SEER, NPCR/USCS, NAACCR, state, or IHS-linked registries) rather than cohort
-studies (Supplementary Table 2). From each study contributing quantitative data we extracted the
+studies rather than cohort studies (Supplementary Table 2).
+
+These registries form several
+overlapping systems: the Surveillance, Epidemiology, and End Results (SEER) program collects
+incidence data from selected states and metropolitan areas; the National Program of Cancer
+Registries (NPCR) covers registries across the remaining states; United States Cancer Statistics
+(USCS) pools SEER and NPCR to reach almost the entire U.S. population; the North American
+Association of Central Cancer Registries (NAACCR) compiles data across member registries;
+IHS-linked files provide case ascertainment for AI/AN populations; and
+individual state or regional registries (for example, California and Hawaii) cover single areas.
+
+From each study contributing quantitative data we extracted the
 cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
 or ethnic group and comparator, outcome (overall or subtype), the reported estimate, and its
 confidence interval. Each estimate was labelled by provenance—directly reported IRR or SIR,
@@ -107,10 +116,9 @@ figure—and the label was retained for risk-of-bias scoring and for a provenanc
 sensitivity analysis.
 
 ### Selection of a representative population-based estimate
-Because SEER, NAACCR, the United States Cancer Statistics (USCS) file, and individual state
-registries cover overlapping regions and diagnosis periods, the same women can appear in more
-than one study; estimates from different publications that draw on the same or nested registry
-populations are therefore not statistically independent. Rather than pool such non-independent
+Because SEER and NPCR both feed USCS and many registries report into more than one of these
+systems, estimates from different publications that draw on the same or nested populations are not
+statistically independent. Rather than pool such non-independent
 estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
 analytic dimension (overall incidence, a disaggregated subgroup, a receptor-defined subtype, or an
 age band)—and one
@@ -118,10 +126,10 @@ age band)—and one
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
-non-Hispanic White (rather than an unstratified White) comparator, then the most recent and longest
+NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
-For American Indian and Alaska Native (AI/AN) populations this order was overridden in favour of
+For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries misclassify race and undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
@@ -150,54 +158,49 @@ causal effect for which a GRADE-type certainty rating would be appropriate.
 Each estimate was expressed as an IRR relative to NHW women. When a study reported
 age-standardized rates rather than a ratio, the IRR was computed from the minority and NHW
 rates of the same study, standard population, and diagnosis period, and its confidence interval
-was propagated from the reported rate intervals by the delta method. Each representative therefore
+was propagated from the reported rate intervals by the delta method when both rates carried an
+interval, or by scaling the minority-rate interval when the reference rate was a fixed population
+benchmark without a reported interval. Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
-estimate paired an Alaska Native rate with an external SEER-Explorer non-Hispanic White reference,
+estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference,
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
 random-effects estimate; the primary result for each group is the representative population-based
 estimate, and the analysis presents the racial and ethnic differences and the subgroup
 heterogeneity group by group rather than as a single pooled value. Studies that met
-the inclusion criteria but did not provide a recoverable non-Hispanic White comparison were not
+the inclusion criteria but did not provide a recoverable NHW comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
 
-All quantitative results were generated from a single master extraction dataset. Each rate
-ratio not reported directly by a source was recomputed from that study's own age-standardized
-minority and reference rates, and each such confidence interval was reproduced from the
-component rate intervals (by the delta method when both rates carried an interval, or by scaling
-the minority-rate interval when the reference rate was a fixed population benchmark without a
-reported interval). The main-text table, the forest figures, and the sensitivity tables were all
-regenerated from this master dataset and cross-checked so that each displayed estimate and each
-sensitivity baseline traces to the same underlying value.
+All quantitative results were generated from a single master extraction dataset: the main-text
+table, the forest figures, and the sensitivity tables were all regenerated from it and cross-checked
+so that each displayed estimate and each sensitivity baseline traces to the same underlying value.
 
 ## Results
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
-retrieved, and of the 233 assessed, 71 were excluded, giving 162 included studies (Figure 1). Of these, 48 were eligible for
+retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 48 were eligible for
 quantitative synthesis and entered the analysis, contributing 156 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
-between 2002 and 2026 and drew on the Surveillance, Epidemiology, and End Results (SEER)
-program, the National Program of Cancer Registries and the United States Cancer Statistics
-file, the North American Association of Central Cancer Registries, Indian Health Service–linked
-and tribal registries, and individual state or regional registries (Supplementary Table 2). After collapsing
+between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
+registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 73 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
-subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
-shown in Table 1. The reference group was non-Hispanic White in most studies and
+subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
+shown in Table 1. The reference group was NHW in most studies and
 an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
-minority group: American Indian and Alaska Native (AI/AN) women IRR 0.56 (95% CI 0.55–0.57),
-Hispanic/Latina women 0.72 (0.71–0.73), the Asian American, Native Hawaiian, and Pacific
-Islander (AANHPI) aggregate 0.77 (0.75–0.79), and non-Hispanic Black (NHB) women 0.93
+minority group: AI/AN women IRR 0.56 (95% CI 0.55–0.57),
+Hispanic/Latina women 0.72 (0.71–0.73), the AANHPI aggregate 0.77 (0.75–0.79),
+and NHB women 0.93
 (0.92–0.95) (Table 1; Figure 2).
 
 ### Disaggregated AANHPI subgroups
@@ -215,7 +218,7 @@ Among Hispanic/Latina women, incidence in Florida differed by country of origin:
 (0.38–0.69), New Latino 0.70 (0.63–0.77), Cuban 0.77 (0.69–0.86), and Puerto Rican 0.83 (0.74–0.94),
 against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
-### American Indian and Alaska Native by region
+### AI/AN by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
 area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
 estimate without a confidence interval, drawn from unlinked state registries. Alaska
@@ -228,7 +231,7 @@ Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to 
 (Table 1).
 
 ### Molecular subtypes
-For triple-negative breast cancer (TNBC), incidence relative to NHW women was highest in NHB
+For TNBC, incidence relative to NHW women was highest in NHB
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1). Across groups and analytic dimensions the
@@ -238,8 +241,8 @@ subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
 The 114 narrative-synthesis studies met the inclusion criteria but did not
-report an incidence rate ratio, or age-standardized rates, from which a comparison with a
-non-Hispanic White reference could be recovered; they are listed by category in Supplementary
+report an IRR, or age-standardized rates, from which a comparison with an
+NHW reference could be recovered; they are listed by category in Supplementary
 Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
@@ -262,23 +265,22 @@ restricting to NHW-comparator estimates left 55 unchanged (1 changed, 17 dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against a non-Hispanic White reference (1.25).
+estimate reported against an NHW reference (1.25).
 
 ## Discussion
 
 This review assembled disaggregated, population-based estimates of invasive breast cancer
-incidence for U.S. racial and ethnic groups against a common non-Hispanic White (NHW) comparator
+incidence for U.S. racial and ethnic groups against a common NHW comparator
 (an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
-At the aggregate level, each minority group had lower overall incidence than NHW women—American
-Indian and Alaska Native (AI/AN) women had the lowest incidence rate ratio (IRR 0.56), followed by
-Hispanic/Latina (0.72) and Asian American, Native Hawaiian, and Pacific Islander (AANHPI, 0.77)
-women, with non-Hispanic Black (NHB) women closest to NHW (0.93). For triple-negative breast cancer
-(TNBC), however, NHB women had the highest incidence (1.95), while most other groups were at or
+At the aggregate level, each minority group had lower overall incidence than NHW women—AI/AN women had the lowest IRR (0.56), followed by
+Hispanic/Latina (0.72) and AANHPI (0.77)
+women, with NHB women closest to NHW (0.93). For TNBC, however, NHB women had the highest
+incidence (1.95), while most other groups were at or
 below the NHW rate.
 
 The central observation is that these aggregate figures average over the wide variation among the
 subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
-Japanese women; Native Hawaiian women (1.21) and the Native Hawaiian and Pacific Islander (NHPI)
+Japanese women; Native Hawaiian women (1.21) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
 Southern Plains, against a national AI/AN aggregate of 0.56 (Figure 2). This pattern is consistent with earlier disaggregated work and extends
@@ -291,17 +293,18 @@ concordant with prior subtype-specific work.²,²⁰ The relative ordering of gr
 the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates.
-First, unlinked registries undercount AI/AN cases, so an Indian Health
-Service–linked estimate was preferred for that group wherever one was available, and most reported
-AI/AN figures draw on those linked sources rather than the lower unlinked-registry values.¹⁰,⁴⁴
+First, unlinked registries undercount AI/AN cases, and most reported
+AI/AN figures draw on Indian Health Service–linked sources rather than the lower unlinked-registry
+values.¹⁰,⁴⁴
 The contrast is visible across regions: these linked estimates place AI/AN
 breast incidence above the NHW rate in the Southern Plains (1.33) and close to it among Alaska Native
 women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
 unlinked state registries—sits at 0.90 and understates incidence to the extent those registries miss
 AI/AN cases. The AI/AN–NHW comparison thus depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
-groups differed across sources—most used a non-Hispanic White comparator and a minority an
+groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
-sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
+sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
+chiefly the receptor-defined subtypes, can shift a ratio slightly. The provenance of every estimate
 was recorded, and each rate ratio not reported directly was recomputed and cross-checked against a
 single master dataset.
 
@@ -317,17 +320,16 @@ not examined.
 
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
-and a few used an unstratified White comparator (the receptor-defined subtypes), which can move a
-ratio slightly. Included studies differed in standard population and diagnosis period, limiting
+which can move a ratio slightly. Included studies differed in standard population and diagnosis period, limiting
 direct comparability, and one older study used the 1970 world standard. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance, so selection and extraction errors cannot be excluded; the full text of every included
-study was read for the inclusion decision and every extracted estimate was checked against its
-source table, figure, or text.
+assistance rather than by two independent reviewers; to limit selection and extraction error, the
+full text of every included study was read for the inclusion decision and every extracted estimate
+was checked against its source table, figure, or text.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
