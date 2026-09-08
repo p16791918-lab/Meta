@@ -24,9 +24,9 @@ with the Joanna Briggs Institute checklist for incidence data.
 synthesis and 114 narrative. Overall incidence was lower than NHW in
 each aggregate group: AI/AN 0.56, Hispanic/Latina 0.72, Asian
 American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
-Within-group estimates ranged widely—0.16 (Hmong) to 1.05 (Japanese) across Asian
-American subgroups, up to 1.21 (Native Hawaiian), 0.51 (Mexican) to 0.83 (Puerto Rican) by
-Hispanic origin, and 0.49 (Navajo area) to 1.33 (Southern Plains) across AI/AN regions. For
+Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
+subgroups, 0.51 (Mexican) to 0.83 (Puerto Rican) by Hispanic origin, and 0.49 (Navajo area) to
+1.33 (Southern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
 
 **Conclusions.** At the aggregate level, these categories summarize overall differences but
