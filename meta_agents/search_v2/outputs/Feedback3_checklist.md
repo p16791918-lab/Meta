@@ -79,7 +79,7 @@
 - [x] Results·Discussion의 Figure 2/3/4 참조 재정렬 완료; make_maintext.py 매니페스트·docx 재빌드.
 - [x] **MENA·NHB 처리**: 하위집단이 없어 forest(Fig 2)에서 제외 — heatmap(Fig 3)·Table 1에 유지(정보 손실 없음).
 
-> 남은 선택(선택사항): heatmap 열을 예시처럼 대표 차원(Overall, Age<50, HR−, HR+, HR+/HER2−, HR+/HER2+, TNBC)으로 큐레이션할지 — 현재는 전체 차원 표시.
+> heatmap 열 큐레이션 — **결정: 현재 열(Overall, Age<50, Age≥50, HR+/HER2−, HR+/HER2+, HR−/HER2+, TNBC) 유지** (저자 승인). 교수님 예시는 HR−/HR+를 열로 두지만, 우리 데이터에서 HR−·HR+ 단독 subtype은 NHB만 대표값이 있어 두 열이 거의 비게 됨(sparse). 대신 Age≥50는 7/8 그룹, HR−/HER2+는 다수 그룹에 값이 있어 group×dimension 이질성을 더 충실히 보여줌. colormap도 교수님 예시의 순차(viridis) 대신 NHW=1.0 중심 발산을 유지(IRR을 NHW 대비 고/저로 직관 표시). 예시는 illustrative template(값·열 예시)이므로 열/컬러는 데이터에 맞춰 선택.
 
 ---
 
