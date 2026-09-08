@@ -2,8 +2,8 @@
 
 *Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
-Incidence rate ratios (IRRs) are versus non-Hispanic White (NHW) women unless marked † (an
-unstratified White reference) or noted as a standardized incidence ratio (SIR).
+IRRs are versus NHW women unless marked † (an
+unstratified White reference) or noted as an SIR.
 
 ---
 
@@ -22,15 +22,15 @@ registries, and individual state or regional registries (Supplementary Table 2).
 overlapping registry-family estimates, 73 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
-subgroups, AI/AN by region, Middle Eastern populations, and triple-negative breast cancer—are
-shown in Table 1. The reference group was non-Hispanic White in most studies and
+subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
+shown in Table 1. The reference group was NHW in most studies and
 an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
-minority group: American Indian and Alaska Native (AI/AN) women IRR 0.56 (95% CI 0.55–0.57),
-Hispanic/Latina women 0.72 (0.71–0.73), the Asian American, Native Hawaiian, and Pacific
-Islander (AANHPI) aggregate 0.77 (0.75–0.79), and non-Hispanic Black (NHB) women 0.93
+minority group: AI/AN women IRR 0.56 (95% CI 0.55–0.57),
+Hispanic/Latina women 0.72 (0.71–0.73), the AANHPI aggregate 0.77 (0.75–0.79),
+and NHB women 0.93
 (0.92–0.95) (Table 1; Figure 2).
 
 ### Disaggregated AANHPI subgroups
@@ -61,7 +61,7 @@ Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to 
 (Table 1).
 
 ### Molecular subtypes
-For triple-negative breast cancer (TNBC), incidence relative to NHW women was highest in NHB
+For TNBC, incidence relative to NHW women was highest in NHB
 women (1.95, 1.93–1.98). The AANHPI aggregate was 0.70 (0.68–0.72), Hispanic 0.86 (0.84–0.88),
 and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.53 †), Filipina
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1). Across groups and analytic dimensions the
@@ -71,8 +71,8 @@ subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
 The 114 narrative-synthesis studies met the inclusion criteria but did not
-report an incidence rate ratio, or age-standardized rates, from which a comparison with a
-non-Hispanic White reference could be recovered; they are listed by category in Supplementary
+report an IRR, or age-standardized rates, from which a comparison with an
+NHW reference could be recovered; they are listed by category in Supplementary
 Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
@@ -95,4 +95,4 @@ restricting to NHW-comparator estimates left 55 unchanged (1 changed, 17 dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against a non-Hispanic White reference (1.25).
+estimate reported against an NHW reference (1.25).

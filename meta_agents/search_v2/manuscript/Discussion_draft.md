@@ -7,18 +7,17 @@
 ## Discussion
 
 This review assembled disaggregated, population-based estimates of invasive breast cancer
-incidence for U.S. racial and ethnic groups against a common non-Hispanic White (NHW) comparator
+incidence for U.S. racial and ethnic groups against a common NHW comparator
 (an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
-At the aggregate level, each minority group had lower overall incidence than NHW women—American
-Indian and Alaska Native (AI/AN) women had the lowest incidence rate ratio (IRR 0.56), followed by
-Hispanic/Latina (0.72) and Asian American, Native Hawaiian, and Pacific Islander (AANHPI, 0.77)
-women, with non-Hispanic Black (NHB) women closest to NHW (0.93). For triple-negative breast cancer
-(TNBC), however, NHB women had the highest incidence (1.95), while most other groups were at or
+At the aggregate level, each minority group had lower overall incidence than NHW women—AI/AN women had the lowest IRR (0.56), followed by
+Hispanic/Latina (0.72) and AANHPI (0.77)
+women, with NHB women closest to NHW (0.93). For TNBC, however, NHB women had the highest
+incidence (1.95), while most other groups were at or
 below the NHW rate.
 
 The central observation is that these aggregate figures average over the wide variation among the
 subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
-Japanese women; Native Hawaiian women (1.21) and the Native Hawaiian and Pacific Islander (NHPI)
+Japanese women; Native Hawaiian women (1.21) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
 Southern Plains, against a national AI/AN aggregate of 0.56 (Figure 2). This pattern is consistent with earlier disaggregated work and extends
@@ -39,7 +38,7 @@ breast incidence above the NHW rate in the Southern Plains (1.33) and close to i
 women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
 unlinked state registries—sits at 0.90 and understates incidence to the extent those registries miss
 AI/AN cases. The AI/AN–NHW comparison thus depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
-groups differed across sources—most used a non-Hispanic White comparator and a minority an
+groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
 was recorded, and each rate ratio not reported directly was recomputed and cross-checked against a

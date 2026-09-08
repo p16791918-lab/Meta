@@ -29,13 +29,13 @@ Studies were eligible for inclusion if they reported invasive breast cancer inci
 women in the United States for at least one racial or ethnic group. Each included study was then
 assigned to one of two synthesis streams by whether a comparison with a White reference could be
 recovered. A study entered the **quantitative synthesis** when it expressed incidence relative to a
-White or non-Hispanic White (NHW) comparator—as an incidence rate ratio (IRR) or standardized
+White or NHW comparator—as an IRR or standardized
 incidence ratio (SIR), or as age-standardized minority and White rates from which a ratio could be
 computed. A study that met the inclusion criteria but did not yield such a recoverable White
 comparison—reporting, for example, only age-specific or trend data, rates for a single group, or a
 reference group that was internal or other than White—was carried in the **narrative synthesis**. Both aggregate
 groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific Islander,
-Hispanic/Latina by origin, and American Indian and Alaska Native [AI/AN] by region) and
+Hispanic/Latina by origin, and AI/AN by region) and
 receptor-defined molecular subtypes were eligible. The reference group was recorded as each
 study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
 and those using an unstratified White reference were labelled accordingly, and both were
@@ -85,7 +85,7 @@ age band)—and one
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
-non-Hispanic White (rather than an unstratified White) comparator, then the most recent and longest
+NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available.
 For AI/AN populations this order was overridden in favour of
@@ -119,14 +119,14 @@ age-standardized rates rather than a ratio, the IRR was computed from the minori
 rates of the same study, standard population, and diagnosis period, and its confidence interval
 was propagated from the reported rate intervals by the delta method. Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
-estimate paired an Alaska Native rate with an external SEER-Explorer non-Hispanic White reference,
+estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference,
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
 random-effects estimate; the primary result for each group is the representative population-based
 estimate, and the analysis presents the racial and ethnic differences and the subgroup
 heterogeneity group by group rather than as a single pooled value. Studies that met
-the inclusion criteria but did not provide a recoverable non-Hispanic White comparison were not
+the inclusion criteria but did not provide a recoverable NHW comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
 
