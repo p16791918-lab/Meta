@@ -40,7 +40,8 @@ unlinked state registries—sits at 0.90 and understates incidence to the extent
 AI/AN cases. The AI/AN–NHW comparison thus depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
-sensitivity analysis was restricted to NHW-comparator estimates. The provenance of every estimate
+sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
+chiefly the receptor-defined subtypes, can shift a ratio slightly. The provenance of every estimate
 was recorded, and each rate ratio not reported directly was recomputed and cross-checked against a
 single master dataset.
 
@@ -56,8 +57,7 @@ not examined.
 
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
-and a few used an unstratified White comparator (the receptor-defined subtypes), which can move a
-ratio slightly. Included studies differed in standard population and diagnosis period, limiting
+which can move a ratio slightly. Included studies differed in standard population and diagnosis period, limiting
 direct comparability, and one older study used the 1970 world standard. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
