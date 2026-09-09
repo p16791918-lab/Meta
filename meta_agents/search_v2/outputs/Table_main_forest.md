@@ -84,7 +84,6 @@ One estimate per registry family; not pooled across groups.
 | Hispanic | 0.780 | 0.765-0.795 | 286 |
 | Black | 0.860 | 0.845-0.875 | 286 |
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
-| Japanese | 1.030 | 1.025-1.035 | 161 |
 | Native Hawaiian | 1.120 | 1.105-1.135 | 161 |
 
 **subtype-HRpos-HER2pos**
@@ -97,7 +96,6 @@ One estimate per registry family; not pooled across groups.
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
 | Japanese | 1.030 | 1.015-1.045 | 161 |
 | Black | 1.120 | 1.081-1.161 | 286 |
-| Native Hawaiian | 1.350 | 1.348-1.352 | 161 |
 
 **age-lt50**
 

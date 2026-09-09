@@ -8,12 +8,12 @@ subtype-HRneg-HER2pos,Japanese,,0.88," [0.82, 0.95]",161,,,,dropped,1,0
 subtype-HRneg-HER2pos,Native Hawaiian,,1.19," [1.16, 1.21]",161,,,,dropped,1,0
 subtype-HRpos-HER2neg,Chinese,,0.58,,161,,,,dropped,1,0
 subtype-HRpos-HER2neg,Filipina,,0.64," [0.63, 0.66]",161,,,,dropped,1,0
-subtype-HRpos-HER2neg,Japanese,,1.03," [1.03, 1.04]",161,,,,dropped,1,0
+subtype-HRpos-HER2neg,Japanese,,1.03,,161,,,,dropped,1,0
 subtype-HRpos-HER2neg,Native Hawaiian,,1.12," [1.11, 1.14]",161,,,,dropped,1,0
 subtype-HRpos-HER2pos,Chinese,,0.72," [0.55, 0.9]",161,,,,dropped,1,0
 subtype-HRpos-HER2pos,Filipina,,0.88," [0.86, 0.91]",161,,,,dropped,1,0
 subtype-HRpos-HER2pos,Japanese,,1.03," [1.02, 1.05]",161,,,,dropped,1,0
-subtype-HRpos-HER2pos,Native Hawaiian,,1.35," [1.347, 1.351]",161,,,,dropped,1,0
+subtype-HRpos-HER2pos,Native Hawaiian,,1.34,,161,,,,dropped,1,0
 subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,,,,dropped,1,0
 subtype-TNBC,Filipina,,0.84," [0.8, 0.88]",161,,,,dropped,1,0
 subtype-TNBC,Native Hawaiian,,0.86," [0.79, 0.91]",161,,,,dropped,1,0

@@ -20,7 +20,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | subtype-HRpos-HER2pos | Chinese | 0.72 (161) | - (-) | **dropped** |
 | subtype-HRpos-HER2pos | Filipina | 0.88 (161) | - (-) | **dropped** |
 | subtype-HRpos-HER2pos | Japanese | 1.03 (161) | - (-) | **dropped** |
-| subtype-HRpos-HER2pos | Native Hawaiian | 1.35 (161) | - (-) | **dropped** |
+| subtype-HRpos-HER2pos | Native Hawaiian | 1.34 (161) | - (-) | **dropped** |
 | subtype-TNBC | Chinese | 0.53 (161) | - (-) | **dropped** |
 | subtype-TNBC | Filipina | 0.84 (161) | - (-) | **dropped** |
 | subtype-TNBC | Native Hawaiian | 0.86 (161) | - (-) | **dropped** |

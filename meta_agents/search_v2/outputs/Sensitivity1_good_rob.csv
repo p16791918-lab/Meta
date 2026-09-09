@@ -58,7 +58,7 @@ subtype-HRpos-HER2neg,Black,,0.86," [0.84, 0.87]",286,0.86," [0.84, 0.87]",286,u
 subtype-HRpos-HER2neg,Chinese,,0.58,,161,0.58,,161,unchanged,1,1
 subtype-HRpos-HER2neg,Filipina,,0.64," [0.63, 0.66]",161,0.64," [0.63, 0.66]",161,unchanged,1,1
 subtype-HRpos-HER2neg,Hispanic,,0.78," [0.76, 0.79]",286,0.78," [0.76, 0.79]",286,unchanged,2,2
-subtype-HRpos-HER2neg,Japanese,,1.03," [1.03, 1.04]",161,1.03," [1.03, 1.04]",161,unchanged,1,1
+subtype-HRpos-HER2neg,Japanese,,1.03,,161,1.03,,161,unchanged,1,1
 subtype-HRpos-HER2neg,Native Hawaiian,,1.12," [1.11, 1.14]",161,1.12," [1.11, 1.14]",161,unchanged,1,1
 subtype-HRpos-HER2pos,Asian/PI (aggregate),,0.850," [0.768, 0.941]",2,0.850," [0.768, 0.941]",2,unchanged,1,1
 subtype-HRpos-HER2pos,Black,,1.12," [1.08, 1.16]",286,1.12," [1.08, 1.16]",286,unchanged,2,2
@@ -66,7 +66,7 @@ subtype-HRpos-HER2pos,Chinese,,0.72," [0.55, 0.9]",161,0.72," [0.55, 0.9]",161,u
 subtype-HRpos-HER2pos,Filipina,,0.88," [0.86, 0.91]",161,0.88," [0.86, 0.91]",161,unchanged,1,1
 subtype-HRpos-HER2pos,Hispanic,,0.91," [0.88, 0.94]",286,0.91," [0.88, 0.94]",286,unchanged,2,2
 subtype-HRpos-HER2pos,Japanese,,1.03," [1.02, 1.05]",161,1.03," [1.02, 1.05]",161,unchanged,1,1
-subtype-HRpos-HER2pos,Native Hawaiian,,1.35," [1.347, 1.351]",161,1.35," [1.347, 1.351]",161,unchanged,1,1
+subtype-HRpos-HER2pos,Native Hawaiian,,1.34,,161,1.34,,161,unchanged,1,1
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,2,2
 subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,4
