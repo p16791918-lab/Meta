@@ -21,8 +21,16 @@
 
 ---
 
-## 항목 2. 포함·분석 배정·대표값 선정 기준의 일관 적용 — ⬜ 예정
-중복 연구의 제외/민감도 포함 기준, Wingo 2008의 narrative-only 분류 이유, 연구별 추출가능·선택/미선택 로그, 'analytic cell당 하나' 서술 통일, 중복 판정을 registry 명칭이 아니라 지역·기간·인구로.
+## 항목 2. 포함·분석 배정·대표값 선정 기준의 일관 적용 — ✅ 완료
+
+**지적**: 중복 연구의 제외/민감도 포함 기준 불명확, Wingo 2008을 narrative-only로 분류한 이유, 연구별 추출가능·선택/미선택 이유 기록, 'analytic cell당 하나' 일관 기술, 중복 판정을 registry 명칭이 아니라 지역·기간·인구로.
+
+**수정**:
+- **Wingo 2008 재분류**: rec 134는 IHS-linked(CHSDA) AI/AN-vs-NHW breast **RR + 95% CI**를 IHS region별로 보고하는데 narrative-only로 오분류돼 있었음("overlaps AIAN cells"를 이유로 강등한 것이 오류 — overlap이면 quant 민감도 풀에 있어야 함). **include-quant로 재분류**하고 CHSDA 값 추출(national 0.63, Northern Plains 0.89, Southern Plains 0.89, Alaska 0.99, 모두 CI 있음). 최근 IHS-linked 값이 대표를 유지하고 Wingo는 overlap/sensitivity로 편입(옵션 C).
+- **연구별 로그**: Supplementary Table 2(included studies)에 **"Role in synthesis" 컬럼** 추가 — 각 연구가 (a) 정량 추출 가능했는지, (b) 몇 개 analytic cell의 대표인지 / overlap-only인지 / narrative-only인지와 그 이유를 명시. 예: Gomez 2026 "Representative for 10 cells; overlap for 6", Wingo "Overlap/sensitivity only (4 cells)", Gopalani "Overlap only (1 cell)", 대표 미선택 사유는 Supplementary Table 4의 main_analysis 열과 연결.
+- **선정 단위 통일**: 'analytic cell(group × dimension)당 대표 하나'로 Methods·Supplementary Table 2/4 legend에서 일관 기술.
+- **중복 판정 기준**: registry 명칭이 아니라 **registry family + 지역 + 관찰기간 + 대상 인구**로 겹침을 판정(Supplementary Table 4에 registry·region·period·group을 함께 표기해 셀 내 overlap을 확인).
+- **제외 vs 민감도 구분 기준 명시**(Methods): 같은 registry·기간·인구의 추정치를 재출판한 **중복 데이터셋은 제외**, 같은 registry family라도 **다른 기간·지역·subset이면 별개 추정으로 보고 민감도 overlap으로 유지**.
 
 ## 항목 3. 비교군·기간·연령·효과지표 재검증 — ⬜ 예정
 master dataset 핵심정보 원문 재대조(Sung 2020 성별·비교군·기간), NHW vs unstratified White 구분, SIR 해석, 표준인구 미상 시 '불명확' 기록.

@@ -119,6 +119,32 @@ def _ident(r):
     return ("doi:" + d) if d else ""
 
 
+# Per-study role in the synthesis (extractable? representative vs overlap), for reproducibility:
+# tally, per record_id, how many analytic cells each quantitative study represents vs overlaps.
+_rep = {}
+for rr in rd("TableSA_main_representatives.csv"):
+    rid = rr["record_id"]
+    d = _rep.setdefault(rid, {"rep": 0, "ov": 0})
+    d["rep" if rr["main_analysis"].startswith("yes") else "ov"] += 1
+
+
+def _role(r):
+    g = r.get("synth_group", "")
+    if g == "narrative":
+        return "Narrative only (no recoverable NHW comparison)"
+    if g == "quant-eligible":
+        return "Quant-eligible; no extractable data"
+    c = _rep.get(r.get("record_id", ""))
+    if not c:
+        return "Quantitative (extractable)"
+    if c["rep"]:
+        s = "Representative for %d cell%s" % (c["rep"], "s" if c["rep"] > 1 else "")
+        if c["ov"]:
+            s += "; overlap for %d" % c["ov"]
+        return s
+    return "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
+
+
 rows = []
 _cur = None
 for r in inc:
@@ -127,9 +153,16 @@ for r in inc:
         _cur = g
         rows.append({"section": _SECT.get(g, g)})
     rows.append([study_cell(r), r.get("study_design", ""), r.get("data_source", ""),
-                 r.get("groups_vs_nhw", ""), _ident(r)])
-TB(["Study (author, year)", "Study design", "Data source", "Groups vs NHW", "PMID / DOI"], rows,
-   [3400, 2400, 2100, 2400, 1900])
+                 _role(r), _ident(r)])
+TB(["Study (author, year)", "Study design", "Data source", "Role in synthesis", "PMID / DOI"], rows,
+   [3000, 1900, 1800, 2700, 1300])
+P("Role in synthesis records, for each study, whether quantitative data were extractable and how the "
+  "study was used: “Representative for N cell(s)” = supplied the main-analysis benchmark for N analytic "
+  "cells (group × dimension); “overlap for M” = also contributed M overlapping estimates carried only in "
+  "the sensitivity re-selection; “Overlap/sensitivity only” = every estimate overlapped a cell already "
+  "represented by another study; “Narrative only” = met inclusion but reported no recoverable NHW "
+  "comparison. One representative is selected per analytic cell (selection criteria in Methods and "
+  "Supplementary Table 4).", True)
 PB()
 
 # ---- S4 excluded (no record_id) ----

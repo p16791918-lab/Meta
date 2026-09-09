@@ -45,7 +45,11 @@ different White reference (e.g., White British), different racial and ethnic cat
 different standard populations, so their rate ratios are not commensurable with U.S.
 estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
 non-U.S. studies, reports that did not present invasive female breast cancer incidence by race or
-ethnicity, and mortality- or survival-only reports were excluded. (A study reporting such incidence
+ethnicity, and mortality- or survival-only reports were excluded. A publication that re-reported an
+estimate already captured from the same registry, diagnosis period, and population was excluded as
+a duplicate dataset; a publication drawing on the same registry family but a different period,
+region, or subset provided a distinct estimate and was retained as an overlapping estimate for the
+sensitivity analysis, not excluded (overlap handling is described under representative selection). (A study reporting such incidence
 but without a recoverable White comparison was included in the narrative synthesis, not excluded.)
 
 ### Study selection and data extraction
