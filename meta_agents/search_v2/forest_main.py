@@ -81,7 +81,9 @@ for row in rows:
                 va="center", ha="left")
         continue
     _, yy, lab, irr, lo, hi, agg = row
-    ax.plot([lo, hi], [yy, yy], color="#3a7bd5", lw=1.7, zorder=2)
+    is_point = (lo == hi)                       # source reported no CI (point estimate)
+    if not is_point:
+        ax.plot([lo, hi], [yy, yy], color="#3a7bd5", lw=1.7, zorder=2)
     if agg:
         col = "#c0392b" if lab.startswith(("Hispanic", "AI/AN")) else "#2b5fa8"
         ax.plot(irr, yy, marker="D", ms=13, color=col, zorder=3, mec="white", mew=0.6)
@@ -92,7 +94,8 @@ for row in rows:
                 mec="white", mew=0.6)
         ci += 1
         ax.text(-0.37, yy, lab, transform=trans, fontsize=10, va="center", ha="left")
-    ax.text(1.03, yy, f"{irr:.3f} [{lo:.3f}, {hi:.3f}]", transform=trans,
+    txt = f"{irr:.3f} (point est.)" if is_point else f"{irr:.3f} [{lo:.3f}, {hi:.3f}]"
+    ax.text(1.03, yy, txt, transform=trans,
             fontsize=9.5, va="center", ha="left")
 
 import matplotlib.ticker as mticker

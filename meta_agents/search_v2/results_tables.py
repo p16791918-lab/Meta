@@ -43,6 +43,17 @@ def main():
             hi = math.exp(r["y"] + Z * r["se"])
             frows.append(dict(dimension=dim, group=grp, irr=round(r["irr"], 3),
                               ci_lo=round(lo, 3), ci_hi=round(hi, 3), record=r["rid"]))
+    # A representative whose source reports no CI (and no case count for a Poisson
+    # approximation) is a point estimate; it is dropped by the variance-based loader
+    # above. Add it to the forest for the aggregate row only (the three category
+    # anchors), marked as a point estimate (ci_lo == ci_hi == irr).
+    have = {(f["dimension"], f["group"]) for f in frows}
+    for rr in csv.DictReader(open(os.path.join(HERE, "TableSA_main_representatives.csv"), encoding="utf-8")):
+        if (rr["main_analysis"].startswith("yes") and rr["outcome_dim"] == "aggregate-vs-NHW"
+                and rr["irr"].strip() and (rr["outcome_dim"], rr["minority_group"]) not in have):
+            v = round(float(rr["irr"]), 3)
+            frows.append(dict(dimension=rr["outcome_dim"], group=rr["minority_group"],
+                              irr=v, ci_lo=v, ci_hi=v, record=rr["record_id"]))
     dim_rank = {d: i for i, d in enumerate(DIM_ORDER)}
     frows.sort(key=lambda x: (dim_rank.get(x["dimension"], 99), x["irr"]))
     with open(os.path.join(OUT, "Table_main_forest.csv"), "w", newline="", encoding="utf-8") as f:

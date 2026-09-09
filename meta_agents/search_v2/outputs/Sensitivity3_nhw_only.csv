@@ -1,5 +1,5 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
-AIAN,Alaska Native,,1.09," [0.99, 1.21]",28,1.25," [1.11, 1.41]",3662,changed,3,2
+AIAN,Alaska Native,,1.09," [0.99, 1.21]",28,1.25," [1.11, 1.41]",3662,changed,4,3
 age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,2,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0
@@ -18,8 +18,8 @@ subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,,,,dropped,1,0
 subtype-TNBC,Filipina,,0.84," [0.8, 0.88]",161,,,,dropped,1,0
 subtype-TNBC,Native Hawaiian,,0.86," [0.79, 0.91]",161,,,,dropped,1,0
 AIAN,AIAN (Navajo),,0.49," [0.44, 0.55]",1478,0.49," [0.44, 0.55]",1478,unchanged,1,1
-AIAN,AIAN (Northern Plains),,0.902,,461,0.902,,461,unchanged,1,1
-AIAN,AIAN (Southern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,1,1
+AIAN,AIAN (Northern Plains),,1.05,,2510,1.05,,2510,unchanged,2,2
+AIAN,AIAN (Southern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,2,2
 Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,0.769," [0.688, 0.860]",3182,unchanged,1,1
 Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,0.512," [0.382, 0.686]",3182,unchanged,1,1
 Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,0.697," [0.629, 0.771]",3182,unchanged,1,1

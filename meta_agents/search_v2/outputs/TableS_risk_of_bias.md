@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives: {'Low': 17, 'Moderate': 6}
+Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -44,7 +44,7 @@ Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives
 | 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2011-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
-| 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 3182 | Pinheiro2009_FL | Florida Cancer Registry | 1999-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 3267 | Kem2007 | California-CCR + Puget Sou | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
 | 3298 | Carozza2006_multistate | Multi-state registries (NA | 1995-2000 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |

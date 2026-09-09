@@ -9,7 +9,7 @@ Values are the representative population-based estimate per group (one per regis
 |----|----|----|----|----|----|
 | Hispanic | IRR | 0.718 [0.707, 0.731] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
 | Asian/PI (aggregate) | IRR | 0.769 [0.752, 0.788] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
-| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2012-2016) | IHS-PRCDA | Low |
+| AIAN | IRR | 0.87 (point est.) | Melkonian2019_IHS-PRCDA (2010-2015) | IHS-PRCDA | Low |
 | Black | IRR | 0.933 [0.920, 0.946] | Ellington2022_USCS (2018) | USCS(NPCR+SEER ~99%) | Low |
 
 **Asian American subgroups**
@@ -49,7 +49,7 @@ Values are the representative population-based estimate per group (one per regis
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
 | AIAN (Navajo) | IRR | 0.49 [0.44, 0.55] | Yazzie2025_Navajo (2014-2018) | IHS-PRCDA | Low |
-| AIAN (Northern Plains) | IRR | 0.902 (point est.) | Watanabe-Galloway 2015 (2002-2009) | Other/unspecified | Moderate |
+| AIAN (Northern Plains) | IRR | 1.05 (point est.) | Melkonian2019_IHS-PRCDA (2010-2015) | IHS-PRCDA | Low |
 | Alaska Native | IRR | 1.09 [0.99, 1.21] † | Nash2019_ANTR (2009-2014) | Alaska Native Tumor Registry (IHS-linked) | Low |
 | AIAN (Southern Plains) | IRR | 1.33 [1.26, 1.41] | Melkonian2021_IHS-PRCDA (2012-2016) | IHS-PRCDA | Low |
 
