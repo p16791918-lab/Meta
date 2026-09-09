@@ -345,6 +345,43 @@ def check_F(rows):
     return len(need), fails
 
 
+# --------------------------------------------------------------------------- G
+def check_G(rows):
+    """CI validity (feedback #4). Every reported confidence interval in the ledger
+    must bracket its own point estimate (lo <= irr <= hi) and be ordered (lo <= hi).
+    A CI that does not is a hard error — either the source mis-printed it or it was
+    mis-transcribed — and such rows must be repaired to a plausible CI or demoted to
+    a point estimate before they can enter the synthesis (as was done for Loo 2019).
+
+    Separately, subgroup rows (a disaggregated subgroup crossed with a molecular
+    subtype — the cell type where a single stratum has too few cases to support a
+    tight interval) whose relative CI half-width is implausibly narrow are surfaced
+    as WARNINGS, not failures: a national aggregate over a very large N legitimately
+    has a narrow CI, but a subgroup x subtype stratum should not."""
+    hard = []
+    warn = []
+    for r in rows:
+        lo, hi, irr = num(r["irr_ci_lo"]), num(r["irr_ci_hi"]), num(r["irr"])
+        if lo is None or hi is None or irr is None:
+            continue
+        tag = (r["record_id"], r.get("minority_group", ""), r.get("outcome_dim", ""))
+        if not (lo <= hi):
+            hard.append((tag, irr, lo, hi, "CI bounds out of order (lo > hi)"))
+        elif not (lo <= irr <= hi):
+            hard.append((tag, irr, lo, hi, "point estimate outside its own CI"))
+        else:
+            # relative half-width on the log scale; flag a subgroup-subtype stratum
+            # whose interval is tighter than any small-N stratum plausibly supports.
+            dim = (r.get("outcome_dim", "") or "").lower()
+            is_stratum = ("subtype" in dim and "aggregate" not in dim
+                          and "overall" not in dim)
+            if is_stratum and irr > 0 and lo > 0:
+                relhw = (math.log(hi) - math.log(lo)) / 2.0
+                if relhw < 0.02:  # ~ +/-2% on the ratio; implausible for a stratum
+                    warn.append((tag, irr, lo, hi, "subgroup-subtype CI implausibly narrow"))
+    return hard, warn
+
+
 def main():
     rows = led_rows()
     ok = True
@@ -409,6 +446,19 @@ def main():
             print("    FAIL", f)
     else:
         print("    PASS — every computed/derived estimate is in the derivation log")
+
+    hG, wG = check_G(rows)
+    print("\n[G] CI validity (every reported CI brackets its point estimate)")
+    if hG:
+        ok = False
+        for tag, irr, lo, hi, why in hG:
+            print("    FAIL rec %s %s/%s: %.3f in [%.3f, %.3f] — %s"
+                  % (tag[0], tag[1], tag[2], irr, lo, hi, why))
+    else:
+        print("    PASS — every reported CI is ordered and brackets its estimate")
+    for tag, irr, lo, hi, why in wG:
+        print("    WARN rec %s %s/%s: %.3f in [%.3f, %.3f] — %s"
+              % (tag[0], tag[1], tag[2], irr, lo, hi, why))
 
     print("\n" + "=" * 78)
     print("RESULT:", "ALL CHECKS PASS" if ok else "FAILURES ABOVE")
