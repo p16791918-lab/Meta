@@ -20,20 +20,20 @@
 | 12 | Zhang2025_USCS_female | ✅ | USCS 2017-2021, 여성, NHW ref(139.0). Black 129.3/API 110.3/AIAN 113.0/Hisp 101.2 원문 일치. AIAN unlinked→overlap. registry 라벨 "Other/unspecified"(tier1)지만 AIAN 어차피 non-대표 |
 | 28 | Nash2019_ANTR | ✅ | ANTR(IHS-eligibility), 2009-2014, 여성, 2000 US. AN 145.0/USW 133.0 RR 1.09 원문 일치. 비교군 **US White(unstratified)=†** 확인. Alaska Native 셀 대표 |
 | 49 | Mills2005 | ✅ | Hmong California. Hmong 23.8/NHW 145.5 원문 일치, NHW ref. ⚠️기간 불일치(Hmong 1988-2000 vs NHW 1995-1999) 이미 period/notes에 명시 — Hmong 소수라 불가피, 유일 자료라 대표 |
-| 51 | Nash2022 | ⬜ | |
+| 51 | Nash2022 | ✅ | ANTR 2014-2018, Alaska Native 130.8 vs **external SEER-Explorer NHW 137.4**(같은-source 아님)→overlap only(Methods 명시). RR 0.952 |
 | 66 | Hendrick2021_SEER9 | ✅ | SEER 2013-2017, 여성, NHW ref, IRR 직접보고(rate 미보고). Black 0.97/API 0.92/AIAN 0.58/Hisp 0.75 원문 일치. AIAN unlinked→overlap |
-| 100 | Liu2012_LACounty | ⬜ | |
-| 107 | Zahrieh2021_NM-SEER | ⬜ | |
+| 100 | Liu2012_LACounty | ✅ | LA County 2007, NHW ref(145.8). Black 125.2/Chinese 83.9/Korean 81.3/Hisp 77.5 원문 일치(point) |
+| 107 | Zahrieh2021_NM-SEER | ✅ | New Mexico 2005-2014, NHW ref, AIAN 0.384 원문 일치(IRR 직접). NM AI/AN unlinked overlap |
 | 134 | Wingo2008_IHS-CHSDA | ✅ | narrative→quant 재분류(옵션 C). CHSDA national 0.63 + IHS region별 RR·CI 추출. overlap/sensitivity |
-| 146 | Xu2024_SEER | ⬜ | |
+| 146 | Xu2024_SEER | ✅ | 여성 20-49, 2000-2019, NHW ref, IRR 직접보고. age-lt50 Black 1.01/API 0.96/AIAN 0.75/Hisp 0.76. age-specific 대표 |
 | 155 | Sung2023_USCS | ✅ | USCS 2015-2019, 여성, NHW ref, 2000 US 확인. national rate(Black 25.2/White 12.9/AIAN 11.2/Hisp 11.1/API 9.0)로 IRR 완전 일치. state별 값은 리뷰 범위 밖(national cell)이라 미추출. AI/AN TNBC 0.86은 unlinked USCS(유일 자료) |
 | 161 | Loo2019_HTR | ✅ | 원문 재정독. 원문 CI열 내부모순(1.34 CI 1.347–1.351, 0.58 CI 0.46–0.53 — 점추정 제외) → 해당 2셀 점추정. **누락 추출: Japanese HR-/HER2-(TNBC) 1.07 [1.07,1.09] 추가.** 나머지 좁은 CI는 원문대로 보존(경고), †-comparator overlap |
 | 169 | Ellington2022_USCS | ✅ | USCS 1999-2018, 여성 >=20, NHW ref(2018 rate 186.5), 2000 US 확인. Black 0.933/Hisp 0.718/API 0.769/AIAN 0.683(127.3/186.5) 정합. NHB overall 대표 |
-| 182 | Cronin2012_VitalSigns | ⬜ | |
-| 199 | Baquet2008_SEER9 | ⬜ | |
+| 182 | Cronin2012_VitalSigns | ✅ | Vital Signs 2004-2008, black/white 언급(Hisp 미층화)→**unstratified White(†)**로 보수 분류. Black 116.9/122.1=0.957. overlap |
+| 199 | Baquet2008_SEER9 | ✅ | SEER-9 1995-2004, blacks/whites(unstratified White †), age-lt40 Black 1.16(IRR 직접). age-specific |
 | 200 | Gleason2012_SEER | ✅ | SEER-17 2004-2008, black/white만 분류(Hispanic 미층화)→비교군 **unstratified White(†)** 확인. cumulative incidence(CIR) 사용이라 rate 값 큼(비율은 정확). receptor-defined subtype(ERpos-PRneg/ERneg-PRpos) 대표는 † |
-| 203 | Brinton2008_SEER13 | ⬜ | |
-| 209 | Zhang2022 | ⬜ | |
+| 203 | Brinton2008_SEER13 | ✅ | younger women 1992-2004, NHW ref(173.2). Black 146.9/173.2=0.85 원문 일치(IRR 직접) |
+| 209 | Zhang2022 | ✅ | TNBC 2019, NHW ref(12.8). Black 25.0/Hisp 11.5/AIAN 9.4/API 9.5 원문 일치(point). TNBC overlap |
 | 234 | Gomez2026_SEER21 | ✅ | SEER-21 2018-2022, 여성, NHW ref(rate 139.5), 2000 US 확인. 11개 AANHPI subgroup 완전(Other Asian/Other PI는 원문도 rate 미계산). rate 스팟체크 일치(NH 177.2/Laotian 54.1/Chinese 106.0). subtype rate는 Supplement online이라 미추출 |
 | 236 | Gomez2010 | ✅ | CA 1988-2004, 여성, NHW ref(146.1). 5개 subgroup rate 원문 일치(Chinese 73.5/Japanese 102.5/Filipina 100.4/Korean 46.3/Vietnamese 59.9). migrant-status 층화는 분석단위 밖 |
 | 265 | Anderson2008_SEER | ⬜ | |
