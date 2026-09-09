@@ -71,10 +71,22 @@
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
 - rec 286 Kong2020: AI/AN HR+/HER2- 0.74가 unlinked SEER인데 AI/AN subtype 유일 자료라 대표 → AI/AN undercount 방침과 상충 여부 판단.
 - rec 463 Keegan2007: 원문 NHW rate 미제공으로 IRR 불가 → quant 유지 vs narrative 강등 판단.
+- rec 1398 (early-onset Black breast trend): 2022 IRR 0.94를 age-lt50 Black sensitivity overlap으로 편입할지.
 
-## B. 서술(narrative) 113편
-Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 배치로 재검수.
-- 상태: ⬜ 미착수 (배치 단위로 IRR/rate·비교군 존재 여부 스캔 예정)
+## B. 서술(narrative) 113편 — ✅ 재검수 완료
+Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 전수 스캔.
+**방법**: 111편 fulltext를 배치 스캔 → breast+NHW+효과지표/rate 후보 47편 → 각 후보에서
+"breast × White-reference IRR/RR/SIR" 문장을 정밀 확인.
+**결론: 명확한 오분류(quant 승격 대상) 없음.** narrative 분류가 대체로 견고함을 확인.
+개별 판정:
+- **rec 3275** (Nasseri, Middle Eastern CA 1988-2002): female breast RR 0.86(126.16/146.89 vs NHW)를
+  보고하나 **rec 587(Nasseri 2009, 1988-2004, RR 0.86)과 사실상 동일 CCR 데이터 → 중복**. narrative 유지.
+- **rec 322** (Hawaii/continental female breast, White referent): 비교군이 **unstratified White**이고
+  Hawaii/continental 층화 + **histologic**(medullary/inflammatory) subtype 중심이라 national cell 부적합. narrative 유지.
+- **rec 1398** (early-onset Black-vs-NHW, SEER 2003-2022): breast IRR+CI가 있으나 **연도별 trend**(2003 1.03 → 2022 0.94)로
+  단일 poolable 추정치가 아니며(ft_reason에 이미 명시된 재분류 사유), age-lt50 Black 셀은 rec 146이 대표.
+  ⚠️판단 보류: 최신 2022 IRR 0.94를 age-lt50 Black overlap(sensitivity)으로 넣을지.
+- 나머지 44 후보: breast의 White-대비 IRR/RR 직접보고 없음(단일집단·trend·SES/구조·survival HR 등) → narrative 정당.
 
 ## C. 항구적 점검
 - `crosscheck_master.py` [G] CI validity: 모든 보고 CI가 점추정을 포함(순서·bracket) 하는지 확인,
