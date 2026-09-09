@@ -16,12 +16,12 @@
 | rec | author_year | 상태 | 발견/조치 |
 |----:|-------------|:----:|-----------|
 | 2 | Howlader2014_SEER18 | ✅ | SEER-18 excl. Alaska, 2010, 여성, NHW ref, 2000 US 확인. 9개 값 원문 일치. HR-/HER2+ subtype은 Supplementary Table 3(online-only)라 PDF 추출 불가 → 보류 |
-| 10 | DavisLynn2025_SEER17 | ⬜ | subtype-HRpos CI 좁음(대규모 national, 경고만) |
-| 12 | Zhang2025_USCS_female | ⬜ | |
+| 10 | DavisLynn2025_SEER17 | ✅ | Ghana/US Black/NHW, SEER-17 2013-2015, 여성 20-74, NHW ref. **표준인구=Segi 1960 world**(원문 명시)→2000 US 연구와 이질(이미 명시). overall 148.5/152.9, ER+ 105.4/128.5, ER- 43.1/24.0 원문 일치. subtype-HRpos(=ER+)/HRneg(=ER-) 대표. CI 좁음은 대규모 SEER |
+| 12 | Zhang2025_USCS_female | ✅ | USCS 2017-2021, 여성, NHW ref(139.0). Black 129.3/API 110.3/AIAN 113.0/Hisp 101.2 원문 일치. AIAN unlinked→overlap. registry 라벨 "Other/unspecified"(tier1)지만 AIAN 어차피 non-대표 |
 | 28 | Nash2019_ANTR | ✅ | ANTR(IHS-eligibility), 2009-2014, 여성, 2000 US. AN 145.0/USW 133.0 RR 1.09 원문 일치. 비교군 **US White(unstratified)=†** 확인. Alaska Native 셀 대표 |
 | 49 | Mills2005 | ✅ | Hmong California. Hmong 23.8/NHW 145.5 원문 일치, NHW ref. ⚠️기간 불일치(Hmong 1988-2000 vs NHW 1995-1999) 이미 period/notes에 명시 — Hmong 소수라 불가피, 유일 자료라 대표 |
 | 51 | Nash2022 | ⬜ | |
-| 66 | Hendrick2021_SEER9 | ⬜ | |
+| 66 | Hendrick2021_SEER9 | ✅ | SEER 2013-2017, 여성, NHW ref, IRR 직접보고(rate 미보고). Black 0.97/API 0.92/AIAN 0.58/Hisp 0.75 원문 일치. AIAN unlinked→overlap |
 | 100 | Liu2012_LACounty | ⬜ | |
 | 107 | Zahrieh2021_NM-SEER | ⬜ | |
 | 134 | Wingo2008_IHS-CHSDA | ✅ | narrative→quant 재분류(옵션 C). CHSDA national 0.63 + IHS region별 RR·CI 추출. overlap/sensitivity |
@@ -31,7 +31,7 @@
 | 169 | Ellington2022_USCS | ✅ | USCS 1999-2018, 여성 >=20, NHW ref(2018 rate 186.5), 2000 US 확인. Black 0.933/Hisp 0.718/API 0.769/AIAN 0.683(127.3/186.5) 정합. NHB overall 대표 |
 | 182 | Cronin2012_VitalSigns | ⬜ | |
 | 199 | Baquet2008_SEER9 | ⬜ | |
-| 200 | Gleason2012_SEER | ⬜ | |
+| 200 | Gleason2012_SEER | ✅ | SEER-17 2004-2008, black/white만 분류(Hispanic 미층화)→비교군 **unstratified White(†)** 확인. cumulative incidence(CIR) 사용이라 rate 값 큼(비율은 정확). receptor-defined subtype(ERpos-PRneg/ERneg-PRpos) 대표는 † |
 | 203 | Brinton2008_SEER13 | ⬜ | |
 | 209 | Zhang2022 | ⬜ | |
 | 234 | Gomez2026_SEER21 | ✅ | SEER-21 2018-2022, 여성, NHW ref(rate 139.5), 2000 US 확인. 11개 AANHPI subgroup 완전(Other Asian/Other PI는 원문도 rate 미계산). rate 스팟체크 일치(NH 177.2/Laotian 54.1/Chinese 106.0). subtype rate는 Supplement online이라 미추출 |
@@ -48,7 +48,7 @@
 | 485 | Harper2009_SEER | ✅ | 비교군 "White"가 SEER CSR 정의상 NHW 확인 → 변경 없음(성급한 수정 회피) |
 | 500 | Gopalani2020 | ✅ | 원문 Methods "PRCDA 미사용" → IHS-PRCDA 오분류 정정, USCS(NPCR+SEER, unlinked)로. overlap |
 | 522 | Ihenacho2023_HTR | ⬜ | |
-| 587 | Nasseri2009 | ⬜ | |
+| 587 | Nasseri2009 | ✅ | Middle Eastern CA 1988-2004, 여성, NHW ref(원문 "non-Hispanic White (NHW)"), 2000 US. 126.2/146.9 RR 0.86 원문 일치. Middle Eastern(MENA) 대표 |
 | 955 | Goggins2009 | ⬜ | |
 | 1478 | Yazzie2025_Navajo | ✅ | Navajo Nation registry(IHS), 2014-2018, 여성, NHW ref(AZ/NM 6개 county), 2000 US. Navajo 60.9/NHW 123.4 RR 0.49 원문 일치. **NHW rate 123.4[121.6-125.1] 빈칸 보강** |
 | 2131 | Xie2022_USCS | ✅ | USCS(CDC WONDER), 1999-2017, 여성, NHW ref(131.0). Black 0.940/AIAN 0.718/API 0.694/Hisp 0.710 원문 일치. AIAN unlinked→overlap. comparison_vs="White (NH)"는 코드 NHW_OK로 NHW 취급(문제없음) |
@@ -65,7 +65,7 @@
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 22 / 49 (rec 2, 28, 49, 134, 155, 161, 169, 234, 236, 286, 461, 485, 500, 1478, 2131, 2137, 2406, 2510, 3182, 3267, 3662, 4027).
+**진행 요약**: 완료 27 / 49 (rec 2, 10, 12, 28, 49, 66, 134, 155, 161, 169, 200, 234, 236, 286, 461, 485, 500, 587, 1478, 2131, 2137, 2406, 2510, 3182, 3267, 3662, 4027).
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
