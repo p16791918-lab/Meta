@@ -18,8 +18,8 @@ Indian Health Service–linked estimate was preferred to counter registry underc
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
-synthesis and 114 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 162 studies were included—49 eligible for quantitative
+synthesis and 113 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
@@ -94,8 +94,8 @@ retained. The author then obtained and read the full texts and made all full-tex
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. In all, 162
-publications were included in the systematic review; of these, 48 were eligible for quantitative
-synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
+publications were included in the systematic review; of these, 49 were eligible for quantitative
+synthesis and the remaining 113 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -149,7 +149,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 48 extracted studies
+large-language-model assistance, and every item was recorded for all 49 extracted studies
 (Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
@@ -182,11 +182,11 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
-retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis and entered the analysis, contributing 159 individual estimates across
+retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 49 were eligible for
+quantitative synthesis and entered the analysis, contributing 163 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
+sensitivity analysis; the remaining 113 informed the narrative synthesis (162 = 49 + 113). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 73 representative estimates remained, one per analytic
@@ -255,7 +255,7 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 38 of the 48 studies were at low risk of bias and 10 at moderate risk, with
+On the JBI checklist, 39 of the 49 studies were at low risk of bias and 10 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
@@ -297,7 +297,9 @@ Two features of the underlying data shaped these estimates.
 First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
 Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ The correction is
 substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
-ascertainment is used, and the IHS-linked regional estimates place AI/AN breast incidence near or
+ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
+in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
+representative and the earlier one retained for sensitivity. The IHS-linked regional estimates place AI/AN breast incidence near or
 above the NHW rate—Northern Plains 1.05, Alaska Native women 1.09 (confidence interval spanning
 1.0), and Southern Plains 1.33. The lower unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison

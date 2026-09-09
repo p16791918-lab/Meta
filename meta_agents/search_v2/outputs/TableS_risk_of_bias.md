@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
+Overall (49 studies): {'Low': 39, 'Moderate': 10}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -15,6 +15,7 @@ Overall (48 studies): {'Low': 38, 'Moderate': 10}. Main-analysis representatives
 | 66 | Hendrick2021_SEER9 | SEER 9 | 2013-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 100 | Liu2012_LACounty | LA County (SEER) | 2007 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 107 | Zahrieh2021_NM-SEER | New Mexico (SEER) | 2005-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 134 | Wingo2008_IHS-CHSDA | IHS-PRCDA (CHSDA, SEER-NPC | 1999-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 146 | Xu2024_SEER | SEER | 2000-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 155 | Sung2023_USCS | USCS(NPCR+SEER) | 2015-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 161 | Loo2019_HTR | Hawaii Tumor Registry (SEE | 2000-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
