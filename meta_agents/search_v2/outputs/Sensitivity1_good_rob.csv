@@ -58,7 +58,7 @@ subtype-HRpos-HER2neg,Black,,0.86," [0.84, 0.87]",286,0.86," [0.84, 0.87]",286,u
 subtype-HRpos-HER2neg,Chinese,,0.58,,161,0.58,,161,unchanged,1,1
 subtype-HRpos-HER2neg,Filipina,,0.64," [0.63, 0.66]",161,0.64," [0.63, 0.66]",161,unchanged,1,1
 subtype-HRpos-HER2neg,Hispanic,,0.78," [0.76, 0.79]",286,0.78," [0.76, 0.79]",286,unchanged,2,2
-subtype-HRpos-HER2neg,Japanese,,1.03,,161,1.03,,161,unchanged,1,1
+subtype-HRpos-HER2neg,Japanese,,1.03," [1.03, 1.04]",161,1.03," [1.03, 1.04]",161,unchanged,1,1
 subtype-HRpos-HER2neg,Native Hawaiian,,1.12," [1.11, 1.14]",161,1.12," [1.11, 1.14]",161,unchanged,1,1
 subtype-HRpos-HER2pos,Asian/PI (aggregate),,0.850," [0.768, 0.941]",2,0.850," [0.768, 0.941]",2,unchanged,1,1
 subtype-HRpos-HER2pos,Black,,1.12," [1.08, 1.16]",286,1.12," [1.08, 1.16]",286,unchanged,2,2
@@ -74,4 +74,5 @@ subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unch
 subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,0.53," [0.39, 0.71]",161,unchanged,1,1
 subtype-TNBC,Filipina,,0.84," [0.8, 0.88]",161,0.84," [0.8, 0.88]",161,unchanged,1,1
 subtype-TNBC,Hispanic,,0.860," [0.840, 0.880]",155,0.860," [0.840, 0.880]",155,unchanged,5,4
+subtype-TNBC,Japanese,,1.07," [1.07, 1.09]",161,1.07," [1.07, 1.09]",161,unchanged,1,1
 subtype-TNBC,Native Hawaiian,,0.86," [0.79, 0.91]",161,0.86," [0.79, 0.91]",161,unchanged,1,1

@@ -1,6 +1,6 @@
 # Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)
 
-Cells: 76 total — unchanged 37, changed 5, dropped 34.
+Cells: 77 total — unchanged 39, changed 5, dropped 33.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -42,6 +42,5 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | subtype-ERpos-PRneg | Black | 0.974 (200) | - (-) | **dropped** |
 | subtype-HRneg | Black | 1.796 (10) | - (-) | **dropped** |
 | subtype-HRpos | Black | 0.820 (10) | - (-) | **dropped** |
-| subtype-HRpos-HER2neg | Japanese | 1.03 (161) | - (-) | **dropped** |
 | subtype-HRpos-HER2pos | Asian/PI (aggregate) | 0.850 (2) | - (-) | **dropped** |
 | subtype-HRpos-HER2pos | Native Hawaiian | 1.34 (161) | - (-) | **dropped** |

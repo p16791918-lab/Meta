@@ -31,6 +31,7 @@ subtype-TNBC,Filipina,0.84,0.801,0.881,161
 subtype-TNBC,Native Hawaiian,0.86,0.801,0.923,161
 subtype-TNBC,AIAN,0.86,0.798,0.927,155
 subtype-TNBC,Hispanic,0.86,0.84,0.88,155
+subtype-TNBC,Japanese,1.07,1.06,1.08,161
 subtype-TNBC,Black,1.95,1.925,1.975,155
 subtype-HRneg-HER2pos,Japanese,0.88,0.818,0.947,161
 subtype-HRneg-HER2pos,Native Hawaiian,1.19,1.165,1.215,161
@@ -41,6 +42,7 @@ subtype-HRpos-HER2neg,Filipina,0.64,0.625,0.655,161
 subtype-HRpos-HER2neg,Hispanic,0.78,0.765,0.795,286
 subtype-HRpos-HER2neg,Black,0.86,0.845,0.875,286
 subtype-HRpos-HER2neg,Asian/PI (aggregate),0.87,0.855,0.885,286
+subtype-HRpos-HER2neg,Japanese,1.03,1.025,1.035,161
 subtype-HRpos-HER2neg,Native Hawaiian,1.12,1.105,1.135,161
 subtype-HRpos-HER2pos,Chinese,0.72,0.563,0.921,161
 subtype-HRpos-HER2pos,Asian/PI (aggregate),0.85,0.768,0.941,2

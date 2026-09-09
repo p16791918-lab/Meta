@@ -1,6 +1,6 @@
 # Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)
 
-Cells: 76 total — unchanged 58, changed 1, dropped 17.
+Cells: 77 total — unchanged 58, changed 1, dropped 18.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -23,4 +23,5 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | subtype-HRpos-HER2pos | Native Hawaiian | 1.34 (161) | - (-) | **dropped** |
 | subtype-TNBC | Chinese | 0.53 (161) | - (-) | **dropped** |
 | subtype-TNBC | Filipina | 0.84 (161) | - (-) | **dropped** |
+| subtype-TNBC | Japanese | 1.07 (161) | - (-) | **dropped** |
 | subtype-TNBC | Native Hawaiian | 0.86 (161) | - (-) | **dropped** |

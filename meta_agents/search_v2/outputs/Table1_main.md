@@ -73,4 +73,5 @@ Values are the representative population-based estimate per group (one per regis
 | AIAN | IRR | 0.860 [0.800, 0.930] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |
 | Hispanic | IRR | 0.860 [0.840, 0.880] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |
 | Native Hawaiian | IRR | 0.86 [0.79, 0.91] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Low |
+| Japanese | IRR | 1.07 [1.07, 1.09] † | Loo2019_HTR (2000-2016) | Hawaii Tumor Registry (SEER) | Low |
 | Black | IRR | 1.950 [1.930, 1.980] | Sung2023_USCS (2015-2019) | USCS(NPCR+SEER ~99%) | Low |

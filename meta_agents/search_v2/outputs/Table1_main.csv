@@ -35,4 +35,5 @@ Triple-negative breast cancer,Filipina,IRR,"0.84 [0.8, 0.88] †",Loo2019_HTR,20
 Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
 Triple-negative breast cancer,Hispanic,IRR,"0.860 [0.840, 0.880]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
 Triple-negative breast cancer,Native Hawaiian,IRR,"0.86 [0.79, 0.91] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
+Triple-negative breast cancer,Japanese,IRR,"1.07 [1.07, 1.09] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,Black,IRR,"1.950 [1.930, 1.980]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
