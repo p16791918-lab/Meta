@@ -38,16 +38,16 @@
 | 236 | Gomez2010 | ✅ | CA 1988-2004, 여성, NHW ref(146.1). 5개 subgroup rate 원문 일치(Chinese 73.5/Japanese 102.5/Filipina 100.4/Korean 46.3/Vietnamese 59.9). migrant-status 층화는 분석단위 밖 |
 | 265 | Anderson2008_SEER | ⬜ | |
 | 286 | Kong2020_SEER18 | ✅ | SEER, 2010-2015, 여성, NHW ref, 2000 US 확인. 기존 10개 subtype 값 원문 완전 일치. **추가 추출**: overall aggregate 4셀(Black 1.04, API 0.90, AI/AN 0.82, Hispanic 0.79)과 AI/AN HR+/HER2- 0.74(AI/AN subtype 유일 추정치→대표, 단 unlinked SEER). AI/AN overall 0.82는 unlinked라 override로 대표 아님(Melkonian 0.87 유지). ⚠️판단: AI/AN subtype 대표가 unlinked SEER임(다른 자료 없음) |
-| 324 | Gomez2017_CCR | ⬜ | |
-| 333 | Keegan2010_CCR | ⬜ | |
+| 324 | Gomez2017_CCR | ✅ | California Asian 2009-2013, NHW ref, IRR 직접보고. TNBC 0.61/HRneg-HER2pos 1.21 원문 일치. Japanese/Filipino(young) age-specific |
+| 333 | Keegan2010_CCR | ✅ | California Hispanic(nativity) 1988-2004, NHW ref(125.7). Hispanic 78.3/125.7=0.623 정합. computed A |
 | 346 | Richardson2016 | ⬜ | |
 | 381 | Lund2010_AtlantaSEER | ⬜ | |
 | 419 | Amirikia2011 | ⬜ | |
 | 461 | Watanabe-Galloway2015 | ✅ | Northern Plains, unlinked → IHS-linked Melkonian로 대표 교체, overlap 강등 |
-| 463 | Keegan2007_GBACR | ⬜ | |
+| 463 | Keegan2007_GBACR | ⚠️보류 | Bay Area 6 Asian subgroup 1990-2002. minority rate만 있고 **원문에 same-source NHW rate 미제공 → IRR 계산 불가**(현재 IRR 공백). 외부 NHW 붙이면 same-source 원칙 위반이라 안 채움. **narrative 재분류 후보(판단 나중에)**; 6 subgroup 모두 overlap이라 대표 영향 없음 |
 | 485 | Harper2009_SEER | ✅ | 비교군 "White"가 SEER CSR 정의상 NHW 확인 → 변경 없음(성급한 수정 회피) |
 | 500 | Gopalani2020 | ✅ | 원문 Methods "PRCDA 미사용" → IHS-PRCDA 오분류 정정, USCS(NPCR+SEER, unlinked)로. overlap |
-| 522 | Ihenacho2023_HTR | ⬜ | |
+| 522 | Ihenacho2023_HTR | ✅ | Hawaii(HTR), 2010-2014, 여성, NHW ref, age-specific(<50/>=50) AANHPI subgroup. computed A 통과. NH/Japanese/Filipina age별 대표 |
 | 587 | Nasseri2009 | ✅ | Middle Eastern CA 1988-2004, 여성, NHW ref(원문 "non-Hispanic White (NHW)"), 2000 US. 126.2/146.9 RR 0.86 원문 일치. Middle Eastern(MENA) 대표 |
 | 955 | Goggins2009 | ⬜ | |
 | 1478 | Yazzie2025_Navajo | ✅ | Navajo Nation registry(IHS), 2014-2018, 여성, NHW ref(AZ/NM 6개 county), 2000 US. Navajo 60.9/NHW 123.4 RR 0.49 원문 일치. **NHW rate 123.4[121.6-125.1] 빈칸 보강** |
@@ -61,15 +61,16 @@
 | 3398 | Gomez2003_SEERplusCCR | ⬜ | |
 | 3662 | Melkonian2021_IHS-PRCDA | ✅ | Southern Plains 1.33 대표(IHS-linked). region 값 확인 |
 | 4027 | Jin2016 | ✅ | Asian American 2009-2011, 여성, NHW ref, 2000 US. 6개 subgroup+aggregate 완전(Hmong/Laotian/Thai 등은 원문도 "too small"→Southeast Asian 합산, 개별 미산출). computed A 통과 |
-| 4040 | Miller2008_NAACCR-API | ⬜ | |
-| 4098 | McCracken2007_CCR | ⬜ | |
+| 4040 | Miller2008_NAACCR-API | ✅ | NAACCR 1998-2002, NHW ref(145.2). Native Hawaiian 175.8/145.2=1.211 원문 일치 |
+| 4098 | McCracken2007_CCR | ✅ | California Asian 2000-2002, NHW ref(152.9). Chinese 75.1/Filipina 102.4/Vietnamese 55.5/Korean 50.7/Japanese 102.8 원문 일치(point, CI 없음) |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 27 / 49 (rec 2, 10, 12, 28, 49, 66, 134, 155, 161, 169, 200, 234, 236, 286, 461, 485, 500, 587, 1478, 2131, 2137, 2406, 2510, 3182, 3267, 3662, 4027).
+**진행 요약**: 완료 32 / 49 + 보류 1(rec 463). 완료: rec 2,10,12,28,49,66,134,155,161,169,200,234,236,286,324,333,461,485,500,522,587,1478,2131,2137,2406,2510,3182,3267,3662,4027,4040,4098.
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
 - rec 286 Kong2020: AI/AN HR+/HER2- 0.74가 unlinked SEER인데 AI/AN subtype 유일 자료라 대표 → AI/AN undercount 방침과 상충 여부 판단.
+- rec 463 Keegan2007: 원문 NHW rate 미제공으로 IRR 불가 → quant 유지 vs narrative 강등 판단.
 
 ## B. 서술(narrative) 113편
 Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 배치로 재검수.
