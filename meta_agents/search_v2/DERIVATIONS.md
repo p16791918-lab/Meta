@@ -44,9 +44,11 @@ The records in each class:
 - **rec 461 (Watanabe-Galloway 2015, NE/ND/SD state registries, 2002-2009).** Table 2 prints
   all-ages age-standardized (2000 US) breast rates: AI/AN 134.6, NHW 149.3 (printed RR 0.9).
   IRR = 134.6/149.3 = 0.902, point estimate only (no rate confidence intervals reported). These
-  NE/ND/SD registries are the only Northern-Plains source in the ledger, so this is the
-  Northern-Plains cell representative; because unlinked state registries undercount AI/AN, the row
-  is flagged as undercount-prone.
+  NE/ND/SD registries are unlinked and undercount AI/AN. The IHS-PRCDA Melkonian 2019 study
+  (rec 2510) also reports a Northern-Plains breast estimate (RR 1.05), so rec 461 is not the only
+  Northern-Plains source; because the IHS-linked source corrects the AI/AN undercount, rec 2510
+  (1.05) is the Northern-Plains representative and rec 461 (0.902, unlinked, undercount-prone) is
+  demoted to an overlap/sensitivity row.
 
 ## 3. Poisson SE from case counts
 Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =

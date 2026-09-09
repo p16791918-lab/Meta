@@ -13,8 +13,8 @@ unstratified White reference) or noted as an SIR.
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis and entered the analysis, contributing 156 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
+quantitative synthesis and entered the analysis, contributing 159 individual estimates across
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
@@ -28,9 +28,9 @@ an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
-minority group: AI/AN women IRR 0.56 (95% CI 0.55–0.57),
-Hispanic/Latina women 0.72 (0.71–0.73), the AANHPI aggregate 0.77 (0.75–0.79),
-and NHB women 0.93
+minority group: Hispanic/Latina women IRR 0.72 (95% CI 0.71–0.73),
+the AANHPI aggregate 0.77 (0.75–0.79), AI/AN women 0.87 (a point estimate; the Indian Health
+Service–linked national source reported no confidence interval), and NHB women 0.93
 (0.92–0.95) (Table 1; Figure 2).
 
 ### Disaggregated AANHPI subgroups
@@ -50,11 +50,12 @@ against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
 ### AI/AN by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
-area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
-estimate without a confidence interval, drawn from unlinked state registries. Alaska
-Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
-Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
-(Table 1; Figure 2).
+area to 1.33 (1.26–1.41) in the Southern Plains, with the Northern Plains at 1.05 (a point
+estimate without a confidence interval). These regional figures and the national AI/AN aggregate
+(0.87, also a point estimate) are from Indian Health Service–linked sources, which correct the
+undercounting of AI/AN cases in unlinked registries. Alaska Native women, ascertained by the
+IHS–eligibility–based Alaska Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an
+unstratified White reference (Table 1; Figure 2).
 
 ### Middle Eastern populations
 Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to NHW women
@@ -84,13 +85,13 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 39 of the 48 studies were at low risk of bias and 9 at moderate risk, with
+On the JBI checklist, 38 of the 48 studies were at low risk of bias and 10 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 54 of 73 cell representatives unchanged, with the 8 changed and 11
+low-risk-of-bias studies left 55 of 73 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
-restricting to directly reported estimates left 35 unchanged (5 changed, 33 dropped); and
+restricting to directly reported estimates left 36 unchanged (5 changed, 32 dropped); and
 restricting to NHW-comparator estimates left 55 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska

@@ -20,8 +20,8 @@ with the Joanna Briggs Institute checklist for incidence data.
 
 **Results.** Of 4,793 records screened, 162 studies were included—48 eligible for quantitative
 synthesis and 114 narrative. Overall incidence was lower than NHW in
-each aggregate group: AI/AN 0.56, Hispanic/Latina 0.72, Asian
-American, Native Hawaiian, and Pacific Islander (AANHPI) 0.77, and non-Hispanic Black (NHB) 0.93.
+each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
+Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
 subgroups, 0.51 (Mexican) to 0.83 (Puerto Rican) by Hispanic origin, and 0.49 (Navajo area) to
 1.33 (Southern Plains) across AI/AN regions. For
@@ -183,8 +183,8 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 48 were eligible for
-quantitative synthesis and entered the analysis, contributing 156 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
+quantitative synthesis and entered the analysis, contributing 159 individual estimates across
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 114 informed the narrative synthesis (162 = 48 + 114). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
@@ -198,9 +198,9 @@ an unstratified White group in a minority (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
-minority group: AI/AN women IRR 0.56 (95% CI 0.55–0.57),
-Hispanic/Latina women 0.72 (0.71–0.73), the AANHPI aggregate 0.77 (0.75–0.79),
-and NHB women 0.93
+minority group: Hispanic/Latina women IRR 0.72 (95% CI 0.71–0.73),
+the AANHPI aggregate 0.77 (0.75–0.79), AI/AN women 0.87 (a point estimate; the Indian Health
+Service–linked national source reported no confidence interval), and NHB women 0.93
 (0.92–0.95) (Table 1; Figure 2).
 
 ### Disaggregated AANHPI subgroups
@@ -220,11 +220,12 @@ against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
 ### AI/AN by region
 AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
-area to 1.33 (1.26–1.41) in the Southern Plains. The Northern Plains estimate was 0.90, a point
-estimate without a confidence interval, drawn from unlinked state registries. Alaska
-Native women, whose cases are ascertained by the Indian Health Service–eligibility–based Alaska
-Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an unstratified White reference
-(Table 1; Figure 2).
+area to 1.33 (1.26–1.41) in the Southern Plains, with the Northern Plains at 1.05 (a point
+estimate without a confidence interval). These regional figures and the national AI/AN aggregate
+(0.87, also a point estimate) are from Indian Health Service–linked sources, which correct the
+undercounting of AI/AN cases in unlinked registries. Alaska Native women, ascertained by the
+IHS–eligibility–based Alaska Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an
+unstratified White reference (Table 1; Figure 2).
 
 ### Middle Eastern populations
 Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to NHW women
@@ -254,13 +255,13 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 39 of the 48 studies were at low risk of bias and 9 at moderate risk, with
+On the JBI checklist, 38 of the 48 studies were at low risk of bias and 10 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 54 of 73 cell representatives unchanged, with the 8 changed and 11
+low-risk-of-bias studies left 55 of 73 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
-restricting to directly reported estimates left 35 unchanged (5 changed, 33 dropped); and
+restricting to directly reported estimates left 36 unchanged (5 changed, 32 dropped); and
 restricting to NHW-comparator estimates left 55 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
@@ -272,8 +273,8 @@ estimate reported against an NHW reference (1.25).
 This review assembled disaggregated, population-based estimates of invasive breast cancer
 incidence for U.S. racial and ethnic groups against a common NHW comparator
 (an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
-At the aggregate level, each minority group had lower overall incidence than NHW women—AI/AN women had the lowest IRR (0.56), followed by
-Hispanic/Latina (0.72) and AANHPI (0.77)
+At the aggregate level, each minority group had lower overall incidence than NHW women—Hispanic/Latina women had the lowest IRR (0.72), followed by
+AANHPI (0.77) and AI/AN (0.87)
 women, with NHB women closest to NHW (0.93). For TNBC, however, NHB women had the highest
 incidence (1.95), while most other groups were at or
 below the NHW rate.
@@ -283,7 +284,7 @@ subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 
 Japanese women; Native Hawaiian women (1.21) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
-Southern Plains, against a national AI/AN aggregate of 0.56 (Figure 2). This pattern is consistent with earlier disaggregated work and extends
+Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
@@ -293,14 +294,14 @@ concordant with prior subtype-specific work.²,²⁰ The relative ordering of gr
 the outcome examined (Figure 3).
 
 Two features of the underlying data shaped these estimates.
-First, unlinked registries undercount AI/AN cases, and most reported
-AI/AN figures draw on Indian Health Service–linked sources rather than the lower unlinked-registry
-values.¹⁰,⁴⁴
-The contrast is visible across regions: these linked estimates place AI/AN
-breast incidence above the NHW rate in the Southern Plains (1.33) and close to it among Alaska Native
-women (1.09, confidence interval spanning 1.0), whereas the Northern Plains figure—available only from
-unlinked state registries—sits at 0.90 and understates incidence to the extent those registries miss
-AI/AN cases. The AI/AN–NHW comparison thus depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
+First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
+Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ The correction is
+substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
+ascertainment is used, and the IHS-linked regional estimates place AI/AN breast incidence near or
+above the NHW rate—Northern Plains 1.05, Alaska Native women 1.09 (confidence interval spanning
+1.0), and Southern Plains 1.33. The lower unlinked values are therefore best read as reflecting
+incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
+depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
