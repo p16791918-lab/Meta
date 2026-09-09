@@ -26,15 +26,15 @@
 | 107 | Zahrieh2021_NM-SEER | ⬜ | |
 | 134 | Wingo2008_IHS-CHSDA | ✅ | narrative→quant 재분류(옵션 C). CHSDA national 0.63 + IHS region별 RR·CI 추출. overlap/sensitivity |
 | 146 | Xu2024_SEER | ⬜ | |
-| 155 | Sung2023_USCS | ⬜ | TNBC 대표(NHB 1.95). CI 좁음(대규모 national, 경고만) |
+| 155 | Sung2023_USCS | ✅ | USCS 2015-2019, 여성, NHW ref, 2000 US 확인. national rate(Black 25.2/White 12.9/AIAN 11.2/Hisp 11.1/API 9.0)로 IRR 완전 일치. state별 값은 리뷰 범위 밖(national cell)이라 미추출. AI/AN TNBC 0.86은 unlinked USCS(유일 자료) |
 | 161 | Loo2019_HTR | ✅ | 원문 재정독. 원문 CI열 내부모순(1.34 CI 1.347–1.351, 0.58 CI 0.46–0.53 — 점추정 제외) → 해당 2셀 점추정. **누락 추출: Japanese HR-/HER2-(TNBC) 1.07 [1.07,1.09] 추가.** 나머지 좁은 CI는 원문대로 보존(경고), †-comparator overlap |
-| 169 | Ellington2022_USCS | ⬜ | |
+| 169 | Ellington2022_USCS | ✅ | USCS 1999-2018, 여성 >=20, NHW ref(2018 rate 186.5), 2000 US 확인. Black 0.933/Hisp 0.718/API 0.769/AIAN 0.683(127.3/186.5) 정합. NHB overall 대표 |
 | 182 | Cronin2012_VitalSigns | ⬜ | |
 | 199 | Baquet2008_SEER9 | ⬜ | |
 | 200 | Gleason2012_SEER | ⬜ | |
 | 203 | Brinton2008_SEER13 | ⬜ | |
 | 209 | Zhang2022 | ⬜ | |
-| 234 | Gomez2026_SEER21 | ⬜ | AANHPI 다수 셀 대표(SEER-21 최신) |
+| 234 | Gomez2026_SEER21 | ✅ | SEER-21 2018-2022, 여성, NHW ref(rate 139.5), 2000 US 확인. 11개 AANHPI subgroup 완전(Other Asian/Other PI는 원문도 rate 미계산). rate 스팟체크 일치(NH 177.2/Laotian 54.1/Chinese 106.0). subtype rate는 Supplement online이라 미추출 |
 | 236 | Gomez2010 | ⬜ | |
 | 265 | Anderson2008_SEER | ⬜ | |
 | 286 | Kong2020_SEER18 | ✅ | SEER, 2010-2015, 여성, NHW ref, 2000 US 확인. 기존 10개 subtype 값 원문 완전 일치. **추가 추출**: overall aggregate 4셀(Black 1.04, API 0.90, AI/AN 0.82, Hispanic 0.79)과 AI/AN HR+/HER2- 0.74(AI/AN subtype 유일 추정치→대표, 단 unlinked SEER). AI/AN overall 0.82는 unlinked라 override로 대표 아님(Melkonian 0.87 유지). ⚠️판단: AI/AN subtype 대표가 unlinked SEER임(다른 자료 없음) |
@@ -65,7 +65,7 @@
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 10 / 49 (rec 2, 134, 161, 286, 461, 485, 500, 2406, 2510, 3662).
+**진행 요약**: 완료 13 / 49 (rec 2, 134, 155, 161, 169, 234, 286, 461, 485, 500, 2406, 2510, 3662).
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
