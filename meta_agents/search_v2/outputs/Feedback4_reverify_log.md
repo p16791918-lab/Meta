@@ -73,12 +73,29 @@
 - rec 463 Keegan2007: 원문 NHW rate 미제공으로 IRR 불가 → quant 유지 vs narrative 강등 판단.
 - rec 1398 (early-onset Black breast trend): 2022 IRR 0.94를 age-lt50 Black sensitivity overlap으로 편입할지.
 
-## B. 서술(narrative) 113편 — ✅ 재검수 완료
-Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 전수 스캔.
-**방법**: 111편 fulltext를 배치 스캔 → breast+NHW+효과지표/rate 후보 47편 → 각 후보에서
-"breast × White-reference IRR/RR/SIR" 문장을 정밀 확인.
-**결론: 명확한 오분류(quant 승격 대상) 없음.** narrative 분류가 대체로 견고함을 확인.
-개별 판정:
+## B. 서술(narrative) 113편 — ✅ 재검수 완료(2패스)
+
+### ⚠️ 1차 스캔의 결함(정직 기록)
+1차 스캔은 ASCII 하이픈만 매칭해 **유니코드 하이픈(`non‐Hispanic`, U+2010)** 문서를 통째로 놓쳤다.
+"narrative 분류가 견고"라는 1차 결론은 근거가 부실했다. 2차에서 하이픈 정규화 + 넓은 패턴으로 재스캔.
+
+### 2차 스캔(하이픈 정규화)
+1차 대비 **9편이 새로 후보에 올라옴**: rec 46, 126, 207, 504, 1101, 1457, 1629, 2453, 4082.
+각 편을 원문 정독한 결과:
+- **rec 4082**(Annual Report to Nation, 2017-2021 USCS) — **Table에 race별 breast rate 있음**
+  (All 123.7 / NHW 130.5 / NHB 125.3 / AIAN 99.1 / API 111.6 / Hisp 95.7 → IRR NHB 0.96·AIAN 0.76·API 0.86·Hisp 0.73).
+  recoverable하지만 **rec 12(USCS 2017-2021)와 same registry·period 중복**. ft_eligibility note에 이미
+  "secondary synthesis … not pooled to avoid duplication"으로 정확히 기재돼 있었음 → **중복 요약, narrative 유지 정당**.
+- **rec 0·18·1453·1457**(ACS Breast Cancer Statistics·MMWR·Cancer Disparities·Cancer Statistics) — 동일하게
+  전용 SEER/USCS 대표와 **중복인 종합 surveillance 요약**. ft_eligibility note에 이미 중복 사유 기재됨. narrative 유지.
+- **rec 46·126**(subtype APC trend): 절대 rate가 전부 Figure에만 있어 race별 값 추출 불가 → narrative 정당.
+- **rec 504**(persistent-poverty area): IRR이 **PPA vs non-PPA**(지역효과)지 race-vs-NHW 아님 → narrative 정당.
+- **rec 207·1101·1629·2453**: breast 단독 race-vs-NHW rate/IRR 없음(NHPI trend·Somali 소수·fertility cancer group RR·survival) → narrative 정당.
+
+**결론(2차): 종합요약 리포트는 이미 "중복" 사유로 정확히 narrative 처리돼 있었고, 전용 자료를 놓친 quant 오분류는 없음.**
+단 Results의 narrative 설명이 종합리포트 예외를 뭉뚱그렸던 것을 교정함(중복 요약도 narrative 사유임을 명시).
+
+### 1차에서 본 후보 개별 판정(유지):
 - **rec 3275** (Nasseri, Middle Eastern CA 1988-2002): female breast RR 0.86(126.16/146.89 vs NHW)를
   보고하나 **rec 587(Nasseri 2009, 1988-2004, RR 0.86)과 사실상 동일 CCR 데이터 → 중복**. narrative 유지.
 - **rec 322** (Hawaii/continental female breast, White referent): 비교군이 **unstratified White**이고

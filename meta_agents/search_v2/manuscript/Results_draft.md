@@ -73,9 +73,13 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 113 narrative-synthesis studies met the inclusion criteria but did not
-report an IRR, or age-standardized rates, from which a comparison with an
-NHW reference could be recovered; they are listed by category in Supplementary
+The 113 narrative-synthesis studies met the inclusion criteria but contributed no
+independent quantitative estimate—most because they did not report an IRR, or
+age-standardized rates, from which a comparison with an NHW reference could be
+recovered, and a small number of multi-registry summary reports (for example, the
+annual reports to the nation and the annual cancer-statistics summaries) because
+they re-reported registry incidence already quantified from the dedicated primary
+study for the same registry and period; they are listed by category in Supplementary
 Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
