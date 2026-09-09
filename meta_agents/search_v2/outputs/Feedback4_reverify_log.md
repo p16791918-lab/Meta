@@ -19,7 +19,7 @@
 | 10 | DavisLynn2025_SEER17 | ⬜ | subtype-HRpos CI 좁음(대규모 national, 경고만) |
 | 12 | Zhang2025_USCS_female | ⬜ | |
 | 28 | Nash2019_ANTR | ⬜ | Alaska Native, ANTR, †-comparator |
-| 49 | Mills2005 | ⬜ | |
+| 49 | Mills2005 | ✅ | Hmong California. Hmong 23.8/NHW 145.5 원문 일치, NHW ref. ⚠️기간 불일치(Hmong 1988-2000 vs NHW 1995-1999) 이미 period/notes에 명시 — Hmong 소수라 불가피, 유일 자료라 대표 |
 | 51 | Nash2022 | ⬜ | |
 | 66 | Hendrick2021_SEER9 | ⬜ | |
 | 100 | Liu2012_LACounty | ⬜ | |
@@ -35,7 +35,7 @@
 | 203 | Brinton2008_SEER13 | ⬜ | |
 | 209 | Zhang2022 | ⬜ | |
 | 234 | Gomez2026_SEER21 | ✅ | SEER-21 2018-2022, 여성, NHW ref(rate 139.5), 2000 US 확인. 11개 AANHPI subgroup 완전(Other Asian/Other PI는 원문도 rate 미계산). rate 스팟체크 일치(NH 177.2/Laotian 54.1/Chinese 106.0). subtype rate는 Supplement online이라 미추출 |
-| 236 | Gomez2010 | ⬜ | |
+| 236 | Gomez2010 | ✅ | CA 1988-2004, 여성, NHW ref(146.1). 5개 subgroup rate 원문 일치(Chinese 73.5/Japanese 102.5/Filipina 100.4/Korean 46.3/Vietnamese 59.9). migrant-status 층화는 분석단위 밖 |
 | 265 | Anderson2008_SEER | ⬜ | |
 | 286 | Kong2020_SEER18 | ✅ | SEER, 2010-2015, 여성, NHW ref, 2000 US 확인. 기존 10개 subtype 값 원문 완전 일치. **추가 추출**: overall aggregate 4셀(Black 1.04, API 0.90, AI/AN 0.82, Hispanic 0.79)과 AI/AN HR+/HER2- 0.74(AI/AN subtype 유일 추정치→대표, 단 unlinked SEER). AI/AN overall 0.82는 unlinked라 override로 대표 아님(Melkonian 0.87 유지). ⚠️판단: AI/AN subtype 대표가 unlinked SEER임(다른 자료 없음) |
 | 324 | Gomez2017_CCR | ⬜ | |
@@ -55,17 +55,17 @@
 | 2137 | Melkonian2022 | ⬜ | |
 | 2406 | Sung2020_USCS50 | ✅ | 원문 재정독(남성 유방암 논문의 여성 참조패널). **오류 2건 정정**: 비교군 'White'→**NHW**(원문 "white non-Hispanic"), 기간 2011-2015→**2010-2016**(Table 1). **추가 추출**: 여성 subtype 4셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, TNBC 1.93, HR-/HER2+ 1.29; 모두 NHW·CI). ⚠️**판단 필요(나중에)**: USCS(tier9)>SEER(tier6) 규칙상 Sung2020이 Kong2020(rec286)을 제치고 Black HR+/HER2-·HR+/HER2+·HR-/HER2+ 3셀 대표로 자동 교체됨(0.86→0.79, 1.12→1.01, 1.46→1.29). 그러나 이 논문은 남성 유방암 연구의 부수 패널이므로 여성 subtype 대표로 적절한지 재검토 요망 |
 | 2510 | Melkonian2019_IHS-PRCDA | ✅ | AI/AN national 대표 0.87(point, 원문 CI 없음). 기간 2012-2016→2010-2015 정정. IHS region 6개 값 추출 |
-| 3182 | Pinheiro2009_FL | ⬜ | Hispanic 출신국별 |
-| 3267 | Kem2007 | ⬜ | |
+| 3182 | Pinheiro2009_FL | ✅ | FL 1999-2001, 여성, NHW ref(140.4). 출신국별 rate 원문 일치(Cuban 108.0/Mexican 71.9/PR 116.9/New Latino 97.8). Hispanic 출신국 대표 |
+| 3267 | Kem2007 | ✅ | Cambodian CA+WA 1998-2002. 41.0/NHW 155.5 원문 일치, NHW ref. Cambodian 유일 자료라 대표 |
 | 3298 | Carozza2006_multistate | ⬜ | |
 | 3398 | Gomez2003_SEERplusCCR | ⬜ | |
 | 3662 | Melkonian2021_IHS-PRCDA | ✅ | Southern Plains 1.33 대표(IHS-linked). region 값 확인 |
-| 4027 | Jin2016 | ⬜ | AANHPI subgroup |
+| 4027 | Jin2016 | ✅ | Asian American 2009-2011, 여성, NHW ref, 2000 US. 6개 subgroup+aggregate 완전(Hmong/Laotian/Thai 등은 원문도 "too small"→Southeast Asian 합산, 개별 미산출). computed A 통과 |
 | 4040 | Miller2008_NAACCR-API | ⬜ | |
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 13 / 49 (rec 2, 134, 155, 161, 169, 234, 286, 461, 485, 500, 2406, 2510, 3662).
+**진행 요약**: 완료 18 / 49 (rec 2, 49, 134, 155, 161, 169, 234, 236, 286, 461, 485, 500, 2406, 2510, 3182, 3267, 3662, 4027).
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
