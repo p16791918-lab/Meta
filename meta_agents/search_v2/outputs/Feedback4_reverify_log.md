@@ -18,7 +18,7 @@
 | 2 | Howlader2014_SEER18 | ✅ | SEER-18 excl. Alaska, 2010, 여성, NHW ref, 2000 US 확인. 9개 값 원문 일치. HR-/HER2+ subtype은 Supplementary Table 3(online-only)라 PDF 추출 불가 → 보류 |
 | 10 | DavisLynn2025_SEER17 | ⬜ | subtype-HRpos CI 좁음(대규모 national, 경고만) |
 | 12 | Zhang2025_USCS_female | ⬜ | |
-| 28 | Nash2019_ANTR | ⬜ | Alaska Native, ANTR, †-comparator |
+| 28 | Nash2019_ANTR | ✅ | ANTR(IHS-eligibility), 2009-2014, 여성, 2000 US. AN 145.0/USW 133.0 RR 1.09 원문 일치. 비교군 **US White(unstratified)=†** 확인. Alaska Native 셀 대표 |
 | 49 | Mills2005 | ✅ | Hmong California. Hmong 23.8/NHW 145.5 원문 일치, NHW ref. ⚠️기간 불일치(Hmong 1988-2000 vs NHW 1995-1999) 이미 period/notes에 명시 — Hmong 소수라 불가피, 유일 자료라 대표 |
 | 51 | Nash2022 | ⬜ | |
 | 66 | Hendrick2021_SEER9 | ⬜ | |
@@ -50,9 +50,9 @@
 | 522 | Ihenacho2023_HTR | ⬜ | |
 | 587 | Nasseri2009 | ⬜ | |
 | 955 | Goggins2009 | ⬜ | |
-| 1478 | Yazzie2025_Navajo | ⬜ | Navajo area AI/AN, IHS-linked |
-| 2131 | Xie2022_USCS | ⬜ | |
-| 2137 | Melkonian2022 | ⬜ | |
+| 1478 | Yazzie2025_Navajo | ✅ | Navajo Nation registry(IHS), 2014-2018, 여성, NHW ref(AZ/NM 6개 county), 2000 US. Navajo 60.9/NHW 123.4 RR 0.49 원문 일치. **NHW rate 123.4[121.6-125.1] 빈칸 보강** |
+| 2131 | Xie2022_USCS | ✅ | USCS(CDC WONDER), 1999-2017, 여성, NHW ref(131.0). Black 0.940/AIAN 0.718/API 0.694/Hisp 0.710 원문 일치. AIAN unlinked→overlap. comparison_vs="White (NH)"는 코드 NHW_OK로 NHW 취급(문제없음) |
+| 2137 | Melkonian2022 | ✅ | urban NH AI/AN, **IHS-linked(UIHO)**, 2008-2017, NHW ref(129.6), 2000 US. urban US-overall breast 74.2/129.6 RR 0.57 원문 일치. urban subset이라 overlap. 지역별 urban(Alaska 1.31/S.Plains 1.18)은 urban-only subset이라 미추출 |
 | 2406 | Sung2020_USCS50 | ✅ | 원문 재정독(남성 유방암 논문의 여성 참조패널). **오류 2건 정정**: 비교군 'White'→**NHW**(원문 "white non-Hispanic"), 기간 2011-2015→**2010-2016**(Table 1). **추가 추출**: 여성 subtype 4셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, TNBC 1.93, HR-/HER2+ 1.29; 모두 NHW·CI). ⚠️**판단 필요(나중에)**: USCS(tier9)>SEER(tier6) 규칙상 Sung2020이 Kong2020(rec286)을 제치고 Black HR+/HER2-·HR+/HER2+·HR-/HER2+ 3셀 대표로 자동 교체됨(0.86→0.79, 1.12→1.01, 1.46→1.29). 그러나 이 논문은 남성 유방암 연구의 부수 패널이므로 여성 subtype 대표로 적절한지 재검토 요망 |
 | 2510 | Melkonian2019_IHS-PRCDA | ✅ | AI/AN national 대표 0.87(point, 원문 CI 없음). 기간 2012-2016→2010-2015 정정. IHS region 6개 값 추출 |
 | 3182 | Pinheiro2009_FL | ✅ | FL 1999-2001, 여성, NHW ref(140.4). 출신국별 rate 원문 일치(Cuban 108.0/Mexican 71.9/PR 116.9/New Latino 97.8). Hispanic 출신국 대표 |
@@ -65,7 +65,7 @@
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 18 / 49 (rec 2, 49, 134, 155, 161, 169, 234, 236, 286, 461, 485, 500, 2406, 2510, 3182, 3267, 3662, 4027).
+**진행 요약**: 완료 22 / 49 (rec 2, 28, 49, 134, 155, 161, 169, 234, 236, 286, 461, 485, 500, 1478, 2131, 2137, 2406, 2510, 3182, 3267, 3662, 4027).
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
