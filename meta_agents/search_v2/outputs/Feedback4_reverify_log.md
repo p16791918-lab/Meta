@@ -53,7 +53,7 @@
 | 1478 | Yazzie2025_Navajo | ⬜ | Navajo area AI/AN, IHS-linked |
 | 2131 | Xie2022_USCS | ⬜ | |
 | 2137 | Melkonian2022 | ⬜ | |
-| 2406 | Sung2020_USCS50 | ⬜ | 원문에서 성별·비교군·기간 대조 필요(Feedback4 #3 예시) |
+| 2406 | Sung2020_USCS50 | ✅ | 원문 재정독(남성 유방암 논문의 여성 참조패널). **오류 2건 정정**: 비교군 'White'→**NHW**(원문 "white non-Hispanic"), 기간 2011-2015→**2010-2016**(Table 1). **추가 추출**: 여성 subtype 4셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, TNBC 1.93, HR-/HER2+ 1.29; 모두 NHW·CI). ⚠️**판단 필요(나중에)**: USCS(tier9)>SEER(tier6) 규칙상 Sung2020이 Kong2020(rec286)을 제치고 Black HR+/HER2-·HR+/HER2+·HR-/HER2+ 3셀 대표로 자동 교체됨(0.86→0.79, 1.12→1.01, 1.46→1.29). 그러나 이 논문은 남성 유방암 연구의 부수 패널이므로 여성 subtype 대표로 적절한지 재검토 요망 |
 | 2510 | Melkonian2019_IHS-PRCDA | ✅ | AI/AN national 대표 0.87(point, 원문 CI 없음). 기간 2012-2016→2010-2015 정정. IHS region 6개 값 추출 |
 | 3182 | Pinheiro2009_FL | ⬜ | Hispanic 출신국별 |
 | 3267 | Kem2007 | ⬜ | |
@@ -65,7 +65,10 @@
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 7 / 49 (rec 134, 161, 461, 485, 500, 2510, 3662).
+**진행 요약**: 완료 8 / 49 (rec 134, 161, 461, 485, 500, 2406, 2510, 3662).
+
+**나중에 판단할 목록(대표 교체 후보 등)**:
+- rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
 
 ## B. 서술(narrative) 113편
 Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 배치로 재검수.

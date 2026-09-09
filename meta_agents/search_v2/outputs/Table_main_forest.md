@@ -74,8 +74,8 @@ One estimate per registry family; not pooled across groups.
 | Japanese | 0.880 | 0.818-0.947 | 161 |
 | Native Hawaiian | 1.190 | 1.165-1.215 | 161 |
 | Asian American (aggregate) | 1.210 | 1.123-1.304 | 324 |
+| Black | 1.290 | 1.260-1.320 | 2406 |
 | Asian/PI (aggregate) | 1.410 | 1.332-1.492 | 286 |
-| Black | 1.460 | 1.382-1.542 | 286 |
 
 **subtype-HRpos-HER2neg**
 
@@ -83,7 +83,7 @@ One estimate per registry family; not pooled across groups.
 |----|----|----|----|
 | Filipina | 0.640 | 0.625-0.655 | 161 |
 | Hispanic | 0.780 | 0.765-0.795 | 286 |
-| Black | 0.860 | 0.845-0.875 | 286 |
+| Black | 0.790 | 0.785-0.795 | 2406 |
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
 | Japanese | 1.030 | 1.025-1.035 | 161 |
 | Native Hawaiian | 1.120 | 1.105-1.135 | 161 |
@@ -96,8 +96,8 @@ One estimate per registry family; not pooled across groups.
 | Asian/PI (aggregate) | 0.850 | 0.768-0.941 | 2 |
 | Filipina | 0.880 | 0.855-0.905 | 161 |
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
+| Black | 1.010 | 0.995-1.025 | 2406 |
 | Japanese | 1.030 | 1.015-1.045 | 161 |
-| Black | 1.120 | 1.081-1.161 | 286 |
 
 **age-lt50**
 
