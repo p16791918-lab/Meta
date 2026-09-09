@@ -15,7 +15,7 @@
 
 | rec | author_year | 상태 | 발견/조치 |
 |----:|-------------|:----:|-----------|
-| 2 | Howlader2014_SEER18 | ⬜ | |
+| 2 | Howlader2014_SEER18 | ✅ | SEER-18 excl. Alaska, 2010, 여성, NHW ref, 2000 US 확인. 9개 값 원문 일치. HR-/HER2+ subtype은 Supplementary Table 3(online-only)라 PDF 추출 불가 → 보류 |
 | 10 | DavisLynn2025_SEER17 | ⬜ | subtype-HRpos CI 좁음(대규모 national, 경고만) |
 | 12 | Zhang2025_USCS_female | ⬜ | |
 | 28 | Nash2019_ANTR | ⬜ | Alaska Native, ANTR, †-comparator |
@@ -37,7 +37,7 @@
 | 234 | Gomez2026_SEER21 | ⬜ | AANHPI 다수 셀 대표(SEER-21 최신) |
 | 236 | Gomez2010 | ⬜ | |
 | 265 | Anderson2008_SEER | ⬜ | |
-| 286 | Kong2020_SEER18 | ⬜ | subtype 다수. HRpos-HER2neg CI 좁음(national, 경고만) |
+| 286 | Kong2020_SEER18 | ✅ | SEER, 2010-2015, 여성, NHW ref, 2000 US 확인. 기존 10개 subtype 값 원문 완전 일치. **추가 추출**: overall aggregate 4셀(Black 1.04, API 0.90, AI/AN 0.82, Hispanic 0.79)과 AI/AN HR+/HER2- 0.74(AI/AN subtype 유일 추정치→대표, 단 unlinked SEER). AI/AN overall 0.82는 unlinked라 override로 대표 아님(Melkonian 0.87 유지). ⚠️판단: AI/AN subtype 대표가 unlinked SEER임(다른 자료 없음) |
 | 324 | Gomez2017_CCR | ⬜ | |
 | 333 | Keegan2010_CCR | ⬜ | |
 | 346 | Richardson2016 | ⬜ | |
@@ -65,10 +65,11 @@
 | 4098 | McCracken2007_CCR | ⬜ | |
 | 4333 | Wilkinson2002 | ⬜ | |
 
-**진행 요약**: 완료 8 / 49 (rec 134, 161, 461, 485, 500, 2406, 2510, 3662).
+**진행 요약**: 완료 10 / 49 (rec 2, 134, 161, 286, 461, 485, 500, 2406, 2510, 3662).
 
 **나중에 판단할 목록(대표 교체 후보 등)**:
 - rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
+- rec 286 Kong2020: AI/AN HR+/HER2- 0.74가 unlinked SEER인데 AI/AN subtype 유일 자료라 대표 → AI/AN undercount 방침과 상충 여부 판단.
 
 ## B. 서술(narrative) 113편
 Wingo(rec 134)처럼 NHW 비교를 복원할 수 있어 quant로 승격 가능한 편이 더 있는지 배치로 재검수.

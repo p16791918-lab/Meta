@@ -42,10 +42,10 @@ age-lt50,Filipina,,0.768," [0.633, 0.932]",522,0.768," [0.633, 0.932]",522,uncha
 age-lt50,Hispanic,,0.76," [0.75, 0.77]",146,0.76," [0.75, 0.77]",146,unchanged,1,1
 age-lt50,Japanese,,1.479," [1.252, 1.748]",522,1.479," [1.252, 1.748]",522,unchanged,1,1
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",522,unchanged,1,1
-aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,9,9
-aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,5,5
-aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,11,9
-aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,9,9
+aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,10,10
+aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,6,6
+aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,12,10
+aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,10,10
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.792," [0.784, 0.800]",234,unchanged,2,2
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.958," [0.937, 0.979]",234,unchanged,3,2
 disaggregated-AANHPI,Cambodian,,0.264," [0.204, 0.341]",3267,0.264," [0.204, 0.341]",3267,unchanged,1,1
@@ -65,6 +65,7 @@ subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21,
 subtype-HRneg-HER2pos,Asian/PI (aggregate),,1.41," [1.33, 1.49]",286,1.41," [1.33, 1.49]",286,unchanged,1,1
 subtype-HRneg-HER2pos,Black,,1.29," [1.26, 1.32]",2406,1.29," [1.26, 1.32]",2406,unchanged,2,2
 subtype-HRpos,Black,,0.820," [0.805, 0.836]",10,0.820," [0.805, 0.836]",10,unchanged,2,1
+subtype-HRpos-HER2neg,AIAN,,0.74," [0.69, 0.79]",286,0.74," [0.69, 0.79]",286,unchanged,1,1
 subtype-HRpos-HER2neg,Asian/PI (aggregate),,0.87," [0.85, 0.88]",286,0.87," [0.85, 0.88]",286,unchanged,2,2
 subtype-HRpos-HER2neg,Black,,0.79," [0.78, 0.79]",2406,0.79," [0.78, 0.79]",2406,unchanged,4,4
 subtype-HRpos-HER2neg,Hispanic,,0.78," [0.76, 0.79]",286,0.78," [0.76, 0.79]",286,unchanged,2,2

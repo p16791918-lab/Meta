@@ -2,10 +2,10 @@ dimension,group,k_all,sens_irr,sens_lo,sens_hi,I2,Q,df,p_Q,model,tau2,main_irr,m
 AIAN,AIAN (Southern Plains),2,1.089,0.085,13.973,99,73.31,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0796,1.33,1.257,1.407,1,yes
 AIAN,Alaska Native,4,1.065,0.879,1.289,75,12.22,3,0.007,"random-effects (PM/REML, HKSJ)",0.0111,1.09,0.986,1.205,1,no
 age-lt40,Black,2,1.176,1.051,1.317,0,0.34,1,0.561,"random-effects (PM/REML, HKSJ)",0.0,1.183,1.142,1.226,1,yes
-aggregate-vs-NHW,AIAN,8,0.687,0.607,0.776,99,646.26,7,<0.001,"random-effects (PM/REML, HKSJ)",0.0207,,,,0,no
-aggregate-vs-NHW,Asian/PI (aggregate),6,0.798,0.724,0.878,100,1703.9,5,<0.001,"random-effects (PM/REML, HKSJ)",0.0084,0.769,0.751,0.787,1,no
-aggregate-vs-NHW,Black,11,0.944,0.919,0.97,99,706.38,10,<0.001,"random-effects (PM/REML, HKSJ)",0.0016,0.933,0.92,0.946,1,no
-aggregate-vs-NHW,Hispanic,9,0.702,0.663,0.744,99,1476.05,8,<0.001,"random-effects (PM/REML, HKSJ)",0.0055,0.718,0.706,0.73,1,no
+aggregate-vs-NHW,AIAN,9,0.701,0.625,0.786,99,1326.29,8,<0.001,"random-effects (PM/REML, HKSJ)",0.0217,,,,0,no
+aggregate-vs-NHW,Asian/PI (aggregate),7,0.812,0.743,0.886,100,2085.55,6,<0.001,"random-effects (PM/REML, HKSJ)",0.009,0.769,0.751,0.787,1,no
+aggregate-vs-NHW,Black,12,0.952,0.923,0.981,99,861.42,11,<0.001,"random-effects (PM/REML, HKSJ)",0.0022,0.933,0.92,0.946,1,no
+aggregate-vs-NHW,Hispanic,10,0.71,0.671,0.752,99,1491.28,9,<0.001,"random-effects (PM/REML, HKSJ)",0.0062,0.718,0.706,0.73,1,no
 disaggregated-AANHPI,Asian American (aggregate),2,0.746,0.35,1.592,99,147.81,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0071,0.792,0.784,0.8,1,yes
 disaggregated-AANHPI,Asian Indian/Pakistani,3,0.775,0.442,1.359,99,152.97,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0503,0.958,0.937,0.979,1,no
 disaggregated-AANHPI,Chinese,3,0.618,0.37,1.032,100,628.13,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0425,0.76,0.745,0.775,1,no

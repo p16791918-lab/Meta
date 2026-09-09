@@ -82,6 +82,7 @@ One estimate per registry family; not pooled across groups.
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
 | Filipina | 0.640 | 0.625-0.655 | 161 |
+| AIAN | 0.740 | 0.692-0.792 | 286 |
 | Hispanic | 0.780 | 0.765-0.795 | 286 |
 | Black | 0.790 | 0.785-0.795 | 2406 |
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
