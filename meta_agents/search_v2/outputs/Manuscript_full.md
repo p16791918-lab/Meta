@@ -187,13 +187,13 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
 retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 49 were eligible for
-quantitative synthesis and entered the analysis, contributing 163 individual estimates across
+quantitative synthesis and entered the analysis, contributing 169 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 113 informed the narrative synthesis (162 = 49 + 113). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates, 73 representative estimates remained, one per analytic
+overlapping registry-family estimates, 76 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
@@ -223,13 +223,15 @@ Among Hispanic/Latina women, incidence in Florida differed by country of origin:
 against an aggregate Hispanic/Latina IRR of 0.72 (Table 1; Figure 2).
 
 ### AI/AN by region
-AI/AN incidence relative to NHW women varied by region, from 0.49 (0.44–0.55) in the Navajo
-area to 1.33 (1.26–1.41) in the Southern Plains, with the Northern Plains at 1.05 (a point
-estimate without a confidence interval). These regional figures and the national AI/AN aggregate
-(0.87, also a point estimate) are from Indian Health Service–linked sources, which correct the
-undercounting of AI/AN cases in unlinked registries. Alaska Native women, ascertained by the
-IHS–eligibility–based Alaska Native Tumor Registry, had an IRR of 1.09 (0.99–1.21) against an
-unstratified White reference (Table 1; Figure 2).
+AI/AN incidence relative to NHW women varied widely by region. Across the six Indian Health
+Service regions the IRR ranged from 0.57 in the Southwest and 0.61 in the East, through 0.93 in the
+Pacific Coast and 1.05 in the Northern Plains, to 1.33 (1.26–1.41) in the Southern Plains; the
+tribal-specific Navajo area was lowest at 0.49 (0.44–0.55). These regional figures and the national
+AI/AN aggregate (0.87) come from Indian Health Service–linked sources, which correct the
+undercounting of AI/AN cases in unlinked registries; they are point estimates without a reported
+confidence interval, except the Navajo area, Alaska Native, and Southern Plains. Alaska Native
+women, ascertained by the IHS–eligibility–based Alaska Native Tumor Registry, had an IRR of 1.09
+(0.99–1.21) against an unstratified White reference (Table 1; Figure 2).
 
 ### Middle Eastern populations
 Women identified as Middle Eastern had an IRR of 0.86 (0.84–0.88) relative to NHW women
@@ -263,10 +265,10 @@ On the JBI checklist, 39 of the 49 studies were at low risk of bias and 10 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 55 of 73 cell representatives unchanged, with the 8 changed and 10
+low-risk-of-bias studies left 58 of 76 cell representatives unchanged, with the 8 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
-restricting to directly reported estimates left 36 unchanged (5 changed, 32 dropped); and
-restricting to NHW-comparator estimates left 55 unchanged (1 changed, 17 dropped), the dropped
+restricting to directly reported estimates left 39 unchanged (5 changed, 32 dropped); and
+restricting to NHW-comparator estimates left 58 unchanged (1 changed, 17 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
@@ -303,9 +305,10 @@ Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ T
 substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
 ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
-representative and the earlier one retained for sensitivity. The IHS-linked regional estimates place AI/AN breast incidence near or
-above the NHW rate—Northern Plains 1.05, Alaska Native women 1.09 (confidence interval spanning
-1.0), and Southern Plains 1.33. The lower unlinked values are therefore best read as reflecting
+representative and the earlier one retained for sensitivity. The IHS-linked regional estimates span the six IHS regions from 0.57
+(Southwest) to 1.33 (Southern Plains), reaching or exceeding the NHW rate in the Northern Plains
+(1.05), Alaska Native women (1.09, confidence interval spanning 1.0), and the Southern Plains
+(1.33). The lower unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
 depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used an NHW comparator and a minority an

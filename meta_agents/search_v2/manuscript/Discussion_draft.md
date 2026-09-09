@@ -35,9 +35,10 @@ Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ T
 substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
 ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
-representative and the earlier one retained for sensitivity. The IHS-linked regional estimates place AI/AN breast incidence near or
-above the NHW rate—Northern Plains 1.05, Alaska Native women 1.09 (confidence interval spanning
-1.0), and Southern Plains 1.33. The lower unlinked values are therefore best read as reflecting
+representative and the earlier one retained for sensitivity. The IHS-linked regional estimates span the six IHS regions from 0.57
+(Southwest) to 1.33 (Southern Plains), reaching or exceeding the NHW rate in the Northern Plains
+(1.05), Alaska Native women (1.09, confidence interval spanning 1.0), and the Southern Plains
+(1.33). The lower unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
 depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
 groups differed across sources—most used an NHW comparator and a minority an
