@@ -66,10 +66,16 @@
   - DERIVATIONS의 부정확한 "rec 203, rec 182" 표기 정정(rec 203은 directly-reported-IRR).
 
 ## 항목 5. 연구 간 비교 한계·민감도 해석 반영 — ✅ 완료
-- **① "표준인구 상쇄" 취지 수정(Discussion 한계)**: "NHW 비율로 바꿔도 표준인구·연령구조·지역·기간
-  차이는 비율 안에 남으며 공통 비교군으로 상쇄되지 않는다. 비율이 표준인구 스케일을 제거하는 것은
-  분자·분모가 같은 출처·표준화일 때뿐이며, 이는 셀 내부에서만 성립하고 셀 간에는 성립하지 않는다"를
-  명시.
+- **총괄(민감도 결과를 해석에 반영)**: Discussion에 3개 민감도분석의 결론을 명시 — "제한 시 대표가
+  **바뀐 셀은 11·5·1개뿐**이고, 나머지 차이는 자격 추정치 부재로 **drop된 것이지 불일치가 아님**;
+  변화는 near-null AANHPI subgroup·연령 셀(Japanese 등)에 몰려, aggregate 순서는 robust하나 일부
+  near-null subgroup의 부호는 견고하지 않음."
+- **① "표준인구 상쇄" 취지 수정(Discussion)**: (a) 한계 문단에 "NHW 비율로 바꿔도 표준인구·연령구조·
+  지역·기간 차이는 비율 안에 남으며 공통 비교군으로 상쇄되지 않는다(셀 내부에서만 스케일 제거 성립)"를
+  명시하고, (b) **원래의 과잉 주장 문장("common NHW scale … lets aggregate and subgroup results be
+  read side by side")을 직접 수정** → "arranges … on one axis for comparison—though the estimates
+  are not fully commensurable, and the arrangement shows the span of published figures rather than a
+  set of mutually calibrated rates". (사용자 지적: 반박문만 넣고 원 문장을 안 고쳤던 것을 정정.)
 - **② "contemporary benchmark" 재검토(Methods)**: 대표 중 오래된 기간(Middle Eastern 1988-2004,
   Cambodian·Native Hawaiian 1998-2002, Hispanic-origin 1999-2001 등 2005년 이전)이 있어
   "a single population-based benchmark ... not a contemporary one—diagnosis periods vary by cell,

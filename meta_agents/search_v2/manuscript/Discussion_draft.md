@@ -70,8 +70,16 @@ was recorded, and each rate ratio not reported directly was recomputed and cross
 single master dataset.
 
 Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
-and each source appraised, lets aggregate and subgroup results be read side by side. The review is descriptive and
-does not identify causes. Several explanations proposed in the included studies are best treated as
+and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though,
+as noted above, the estimates are not fully commensurable, and the arrangement shows the span of
+published figures rather than a set of mutually calibrated rates. Across the three sensitivity
+analyses the main pattern held: few cells changed representative on restriction (11 under the
+low-risk-of-bias restriction, 5 under the directly-reported restriction, and 1 under the
+NHW-comparator restriction), and most of the differences were cells dropped for lack of a qualifying
+estimate rather than cells that disagreed. The changes that did occur clustered in the disaggregated
+AANHPI subgroups and the age-specific cells whose estimates sit near the NHW rate—Japanese women
+above being the clearest case—so the aggregate ordering is robust while a few near-null subgroup
+signs are not. The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
 foreign-born proportion and residence in ethnic enclaves and to rates that rise with longer U.S.
