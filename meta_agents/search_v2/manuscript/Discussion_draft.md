@@ -42,9 +42,7 @@ earlier eight-state SEER+NPCR estimate⁴⁹ that places it just below (0.95). T
 overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
 near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
 risk of bias: the substituted studies also differ in diagnosis period, registry region, and
-comparator, and any of these can move a borderline estimate across 1.0. The changed and dropped
-cells in the sensitivity analyses (Supplementary Table 6) should be read in that light rather than as
-risk-of-bias effects alone.
+comparator, and any of these can move a borderline estimate across 1.0.
 
 Two features of the underlying data shaped these estimates.
 First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
@@ -70,9 +68,9 @@ was recorded, and each rate ratio not reported directly was recomputed and cross
 single master dataset.
 
 Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
-and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though,
-as noted above, the estimates are not fully commensurable, and the arrangement shows the span of
-published figures rather than a set of mutually calibrated rates. Across the three sensitivity
+and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though the
+estimates are not fully commensurable, for the reasons set out under the limitations below, and the
+arrangement shows the span of published figures rather than a set of mutually calibrated rates. Across the three sensitivity
 analyses the main pattern held: few cells changed representative on restriction (11 under the
 low-risk-of-bias restriction, 5 under the directly-reported restriction, and 1 under the
 NHW-comparator restriction), and most of the differences were cells dropped for lack of a qualifying
