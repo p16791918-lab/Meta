@@ -20,7 +20,8 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | disaggregated-AANHPI | Native Hawaiian | 2 | random-effects (PM/REML, HKSJ) | 1.252 (0.950-1.651) | 11 | 0.290 | 1.211 (1.123-1.305) | yes |
 | disaggregated-AANHPI | Vietnamese | 3 | random-effects (PM/REML, HKSJ) | 0.506 (0.318-0.803) | 98 | <0.001 | 0.586 (0.565-0.607) | no |
 | subtype-HRneg | Black | 2 | random-effects (PM/REML, HKSJ) | 1.695 (0.814-3.533) | 96 | <0.001 | 1.796 (1.740-1.853) | yes |
-| subtype-HRneg-HER2pos | Black | 2 | random-effects (PM/REML, HKSJ) | 1.369 (0.624-3.003) | 94 | <0.001 | 1.290 (1.260-1.320) | yes |
+| subtype-HRneg-HER2pos | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 1.299 (0.401-4.213) | 83 | 0.016 | 1.410 (1.332-1.492) | yes |
+| subtype-HRneg-HER2pos | Black | 3 | random-effects (PM/REML, HKSJ) | 1.358 (1.145-1.612) | 88 | <0.001 | 1.290 (1.260-1.320) | no |
 | subtype-HRpos | Black | 2 | random-effects (PM/REML, HKSJ) | 0.759 (0.286-2.020) | 99 | <0.001 | 0.820 (0.805-0.836) | yes |
 | subtype-HRpos-HER2neg | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.775 (0.176-3.410) | 99 | <0.001 | 0.870 (0.855-0.885) | yes |
 | subtype-HRpos-HER2neg | Black | 3 | random-effects (PM/REML, HKSJ) | 0.796 (0.660-0.960) | 98 | <0.001 | 0.790 (0.785-0.795) | no |

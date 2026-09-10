@@ -71,6 +71,7 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
+| Hispanic | 0.840 | 0.732-0.963 | 2 |
 | Japanese | 0.880 | 0.539-1.437 | 161 |
 | Native Hawaiian | 1.190 | 0.757-1.872 | 161 |
 | Asian American (aggregate) | 1.210 | 1.123-1.304 | 324 |

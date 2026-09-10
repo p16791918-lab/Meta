@@ -33,6 +33,7 @@ subtype-TNBC,AIAN,0.86,0.798,0.927,155
 subtype-TNBC,Hispanic,0.86,0.84,0.88,155
 subtype-TNBC,Japanese,1.08,0.794,1.468,161
 subtype-TNBC,Black,1.95,1.925,1.975,155
+subtype-HRneg-HER2pos,Hispanic,0.84,0.732,0.963,2
 subtype-HRneg-HER2pos,Japanese,0.88,0.539,1.437,161
 subtype-HRneg-HER2pos,Native Hawaiian,1.19,0.757,1.872,161
 subtype-HRneg-HER2pos,Asian American (aggregate),1.21,1.123,1.304,324

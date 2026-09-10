@@ -1,6 +1,6 @@
 # Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)
 
-Cells: 78 total — unchanged 55, changed 11, dropped 12.
+Cells: 79 total — unchanged 56, changed 12, dropped 11.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -14,6 +14,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | disaggregated-AANHPI | Japanese | 1.045 (234) | 0.951 (4027) | **changed** |
 | disaggregated-AANHPI | Korean | 0.677 (234) | 0.562 (4027) | **changed** |
 | disaggregated-AANHPI | Vietnamese | 0.586 (234) | 0.537 (4027) | **changed** |
+| subtype-HRneg-HER2pos | Asian/PI (aggregate) | 1.41 (286) | 1.17 (2) | **changed** |
 | subtype-HRpos-HER2neg | Asian/PI (aggregate) | 0.87 (286) | 0.689 (2) | **changed** |
 | subtype-HRpos-HER2neg | Hispanic | 0.78 (286) | 0.604 (2) | **changed** |
 | subtype-HRpos-HER2pos | Hispanic | 0.91 (286) | 0.687 (2) | **changed** |
@@ -27,5 +28,4 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | disaggregated-AANHPI | Laotian/Kampuchean | 0.388 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.212 (234) | - (-) | **dropped** |
 | disaggregated-MENA | Middle Eastern | 0.86 (587) | - (-) | **dropped** |
-| subtype-HRneg-HER2pos | Asian/PI (aggregate) | 1.41 (286) | - (-) | **dropped** |
 | subtype-HRpos-HER2neg | AIAN | 0.74 (286) | - (-) | **dropped** |
