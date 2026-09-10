@@ -40,7 +40,11 @@ representative and the earlier one retained for sensitivity. The IHS-linked regi
 (1.05), Alaska Native women (1.09, confidence interval spanning 1.0), and the Southern Plains
 (1.33). The lower unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
-depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
+depends on how completely cases are ascertained.³⁴,⁴⁸ The IHS-linked correction, however, was
+available only for the aggregate and regional estimates: no Indian Health Service–linked source
+reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
+HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and are likely to
+understate the true rates. Second, reference
 groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,

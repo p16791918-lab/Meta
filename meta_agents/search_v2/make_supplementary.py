@@ -147,10 +147,25 @@ for rr in rd("TableSA_main_representatives.csv"):
             d["nosel"].add("superseded within its registry family by a broader-coverage or more-recent representative")
 
 
+# Study-specific narrative reasons (why a narrative study was not quantified), from
+# ft_eligibility so the reason is explicit per study rather than a blanket label.
+_narr = {}
+for e in rd("ft_eligibility.csv"):
+    if e.get("ft_decision") == "include-narrative":
+        rsn = ((e.get("ft_reason", "") or "") + " " + (e.get("note", "") or "")).lower()
+        rid = e.get("record_id", "")
+        if "trend" in rsn and "poolable" in rsn:
+            _narr[rid] = ("Narrative only (a race–NHW breast IRR is reported, but as an annual "
+                          "trend, not a single poolable estimate)")
+        elif "secondary synthesis" in rsn or "not pooled to avoid" in rsn or "duplicat" in rsn:
+            _narr[rid] = ("Narrative only (summary report that re-reports registry incidence already "
+                          "quantified from a dedicated primary study for the same registry and period)")
+
+
 def _role(r):
     g = r.get("synth_group", "")
     if g == "narrative":
-        return "Narrative only (no recoverable NHW comparison)"
+        return _narr.get(r.get("record_id", ""), "Narrative only (no recoverable NHW comparison)")
     if g == "quant-eligible":
         return "Quant-eligible; no extractable data"
     c = _rep.get(r.get("record_id", ""))
@@ -189,7 +204,10 @@ P("Role in synthesis records, for each study, whether quantitative data were ext
   "represented by another study, followed by why it was not selected (superseded within its registry "
   "family by a broader-coverage or more-recent representative; an unlinked registry outranked by an "
   "IHS-linked source for AI/AN; an external out-of-paper NHW reference; or no usable rate ratio); "
-  "“Narrative only” = met inclusion but reported no recoverable NHW comparison. One representative is "
+  "“Narrative only” = met inclusion but contributed no quantitative estimate, with the reason given per "
+  "study — no recoverable NHW comparison (most), a race–NHW breast IRR reported only as an annual trend "
+  "(not a single poolable estimate), or a summary report re-reporting registry incidence already "
+  "quantified from a dedicated primary study for the same registry and period. One representative is "
   "selected per analytic cell (selection criteria in Methods and Supplementary Table 4).", True)
 PB()
 

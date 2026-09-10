@@ -67,11 +67,11 @@
 
 **진행 요약**: 완료 48 / 49 + 보류 1(rec 463). **quant 전수 재검수 완료.** 완료: rec 2,10,12,28,49,66,134,155,161,169,200,234,236,286,324,333,461,485,500,522,587,1478,2131,2137,2406,2510,3182,3267,3662,4027,4040,4098.
 
-**나중에 판단할 목록(대표 교체 후보 등)**:
-- rec 2406 Sung2020: 남성 유방암 논문의 여성 패널이 Black subtype 3셀 대표로 자동 선정됨 → 유지/교체 판단.
-- rec 286 Kong2020: AI/AN HR+/HER2- 0.74가 unlinked SEER인데 AI/AN subtype 유일 자료라 대표 → AI/AN undercount 방침과 상충 여부 판단.
-- rec 463 Keegan2007: 원문 NHW rate 미제공으로 IRR 불가 → quant 유지 vs narrative 강등 판단.
-- rec 1398 (early-onset Black breast trend): 2022 IRR 0.94를 age-lt50 Black sensitivity overlap으로 편입할지.
+**판단 결정 완료(교수 확인, 2026-09-10)**:
+- ✅ rec 2406 Sung2020 → **대표 유지(A)**. 커버리지 우선 규칙상 USCS(~99%)가 SEER를 앞섬. 근거를 Feedback4_response 항목 3에 명시.
+- ✅ rec 286 Kong2020 AI/AN subtype → **대표 유지(A)** + unlinked undercount 한계를 Discussion에 명시(IHS-linked subtype 자료 부재).
+- ✅ rec 463 Keegan2007 → **narrative 강등**. 원문에 same-source NHW rate 없음 재확인. ledger 6행 제거, ft_eligibility narrative, quant 49→48·narrative 113→114·estimates 179→173.
+- ✅ rec 1398 → **narrative 유지(A)** + Supp Table 2에 narrative 세부 사유("annual trend, not poolable") 표시(같은 방식으로 trend 6편·중복요약 9편도 사유 구분).
 
 ## B. 서술(narrative) 113편 — ✅ 재검수 완료(2패스)
 

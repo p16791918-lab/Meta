@@ -32,11 +32,22 @@
 - **중복 판정 기준**: registry 명칭이 아니라 **registry family + 지역 + 관찰기간 + 대상 인구**로 겹침을 판정(Supplementary Table 4에 registry·region·period·group을 함께 표기해 셀 내 overlap을 확인).
 - **제외 vs 민감도 구분 기준 명시**(Methods): 같은 registry·기간·인구의 추정치를 재출판한 **중복 데이터셋은 제외**, 같은 registry family라도 **다른 기간·지역·subset이면 별개 추정으로 보고 민감도 overlap으로 유지**.
 
-## 항목 3. 비교군·기간·연령·효과지표 재검증 — ⬜ 예정
-master dataset 핵심정보 원문 재대조(Sung 2020 성별·비교군·기간), NHW vs unstratified White 구분, SIR 해석, 표준인구 미상 시 '불명확' 기록.
+## 항목 3. 비교군·기간·연령·효과지표 재검증 — ✅ 완료
+**정량 연구 전수 정독**(48편, `Feedback4_reverify_log.md`)으로 각 편의 비교군(NHW vs unstratified White)·
+관찰기간·성별(여성 한정)·표준인구·효과지표(IRR/SIR/rate)를 원문 대조.
+- **비교군 명시**: unstratified White(†) = Gleason·Cronin·Baquet·Anderson·Richardson·Gopalani 계열, SIR = Goggins(US White 표준), external NHW = Nash 2022. 코드가 `NHW_OK={NHW, White (NH), external}`로 정확히 구분(민감도3에서 † 제거).
+- **오류 교정**: Sung 2020 비교군 White→NHW·기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
+- **표준인구 이질성**: DavisLynn 2025 = Segi 1960 world(2000 US와 이질) 명시.
 
-## 항목 4. 연령표준화 IRR의 CI 계산 재검토 — ⬜ 예정
-Poisson CI(총 사건 수) 적용 재검토, 원문 SE/CI 우선, 부족 시 점추정 또는 한계 명시, Loo 2019의 좁은 CI 확인.
+**판단 결정(교수 확인)**:
+- **Sung 2020(rec 2406) — 대표 유지(A)**: 남성 유방암 논문의 여성 참조패널이지만 자료원이 USCS(~99% 커버리지)로 SEER 기반 Kong 2020보다 넓고 기간도 최신(2010-2016)이라, **커버리지 우선 규칙상 Black subtype 3셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, HR-/HER2+ 1.29)의 대표로 유지**. 여성 subtype 값도 USCS 전수라 신뢰. Kong 2020은 overlap/sensitivity로 편입.
+- **Keegan 2007(rec 463) — narrative 강등**: 원문이 6개 Asian subgroup의 rate/trend만 보고하고 same-source NHW rate를 제공하지 않아 IRR 복원 불가 → 정량 정의 미충족으로 narrative 재분류.
+- **AI/AN subtype(rec 286 HR+/HER2- 0.74, rec 155 TNBC 0.86) — 대표 유지(A)**: IHS-linked subtype 자료가 없어 unlinked가 유일 자료이므로, undercount 한계를 명시하고 대표로 유지(Alaska Native 선례와 동일 논리).
+
+## 항목 4. 연령표준화 IRR의 CI 계산 재검토 — ✅ 완료
+- **항구 점검 추가**: `crosscheck_master.py [G]`가 모든 보고 CI의 순서·bracket(점추정 포함)을 검증하고, subgroup×subtype의 비현실적으로 좁은 CI를 경고.
+- **Loo 2019(rec 161)**: 원문 CI열 내부모순(1.34 CI 1.347-1.351, 0.58 CI 0.46-0.53 — 점추정 제외) → 해당 셀 점추정화. 누락된 Japanese TNBC 1.07 추가 추출.
+- **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
 
 ## 항목 5. 연구 간 비교 한계·민감도 해석 반영 — ⬜ 예정
 "standard population largely cancels" 수정, "contemporary benchmark" 재검토, Figure 2에 이질 출처 명시, Japanese 등 방향전환 설명.
