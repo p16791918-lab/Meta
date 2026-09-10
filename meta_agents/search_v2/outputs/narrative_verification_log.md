@@ -1,0 +1,157 @@
+# Narrative-synthesis per-study verification log (all 114 examined)
+
+Method: every included report rendered with `pdftotext -layout` (image tables via poppler),
+unicode hyphens normalized, then classified by table type. Studies with a directly-reported
+or computable **race-vs-NHW age-adjusted IRR** were moved to the quantitative synthesis; all
+others are retained as narrative for the reason shown. This log backs the claim that all 114
+narrative-eligible reports (110 current narrative + 4 reclassified) were individually reviewed.
+
+## Reclassified narrative -> quantitative (4)
+- **rec 369** Shoemaker 2018 USCS: Table 1 age-adjusted IRR vs NHW, women 20-49 -> age-lt50 representative.
+- **rec 14** Lee Argov 2024 USCS: Table 1 age-adjusted IRR vs NHW, women >=65 -> new age-ge65 cells.
+- **rec 93** Zahnd 2019 Delta 7-state NAACCR: Tables 3-4 NHW=Ref subtype IRRs -> sensitivity overlap.
+- **rec 210** Du 2022 SEER-18: age-adjusted rates by race+CI -> IRR vs NHW recomputed -> sensitivity overlap.
+
+## Four reports without a retrievable PDF (abstract-only; narrative on design grounds)
+- **rec 80** Multiethnic Cohort (Filipino, generational comparator; cohort, not registry vs NHW).
+- **rec 402** State Cancer Profiles SC (AA 118.5 / EA 124.0, descriptive, no CI; overlaps national Black aggregate).
+- **rec 1637** HCHS/SOL cohort (Hispanic heritage; cohort, not population-based registry IRR).
+- **rec 1800** Rural-Urban SEER-22 (rural-urban comparison; supplementary table only, full text unavailable).
+
+## Current narrative studies (110) by table type
+Category counts: trend/APC only = 24; cohort (non-registry) = 23; no race-vs-NHW incidence table = 19; morphology subtype (IBC/ILC/IDC) = 16; PIR/SIR (indirect; not IRR) = 8; rate/IRR present -> overlaps national rep (sensitivity/narrative) = 6; survival/mortality HR = 6; NO-PDF (abstract only) = 4; SES/exposure comparator = 4
+
+- **rec 1637** [NO-PDF (abstract only)] Cancer Incidence in the Hispanic Community Health Study/Stud
+- **rec 1800** [NO-PDF (abstract only)] Rural–Urban Cancer Incidence and Trends in the United States
+- **rec 402** [NO-PDF (abstract only)] Disparities in Breast Cancer Incidence, Mortality, and Quali
+- **rec 80** [NO-PDF (abstract only)] Breast, Colorectal, and Prostate Cancer Incidence among Fili
+- **rec 2548** [PIR/SIR (indirect; not IRR)] Cancer patterns in Hmong in Minnesota, 2000 to 2012 (2018)
+- **rec 3212** [PIR/SIR (indirect; not IRR)] Fifty years of cancer in an American Indian population (2009
+- **rec 3322** [PIR/SIR (indirect; not IRR)] Cancer incidence in the South Asian population of California
+- **rec 3394** [PIR/SIR (indirect; not IRR)] Cancer in the Minnesota Hmong population (2003)
+- **rec 3891** [PIR/SIR (indirect; not IRR)] Changes in cancer incidence patterns among a northeastern Am
+- **rec 4336** [PIR/SIR (indirect; not IRR)] Cancer Incidence Profile in Sub-Saharan African-Born Blacks 
+- **rec 4389** [PIR/SIR (indirect; not IRR)] Differences in the cancer burden among foreign-born and US-b
+- **rec 4429** [PIR/SIR (indirect; not IRR)] Cancer risk in different generations of Middle Eastern immig
+- **rec 226** [SES/exposure comparator] Home mortgage discrimination and incidence of triple-negativ
+    - evidence: `TNBC (26.2% of NH Black vs 11.8% of NH White cases)                  and Luminal A separately, given these two`
+- **rec 3640** [SES/exposure comparator] Structural Racism and Triple-Negative Breast Cancer among Bl
+- **rec 474** [SES/exposure comparator] Persistent poverty and breast cancer incidence by tumor subt
+- **rec 504** [SES/exposure comparator] Cancer Incidence and Trends in Persistent Poverty Areas of C
+    - evidence: `Non-­Hispanic White                              1,521,974 (61.0)                      50,347 (31.0)          `
+- **rec 11** [cohort (non-registry)] Cancer statistics for the US Hispanic/Latino population, 202
+- **rec 1106** [cohort (non-registry)] Cancer statistics for adolescents and young adults, 2020 (20
+- **rec 1453** [cohort (non-registry)] American Cancer Society’s Report on the Status of Cancer Dis
+    - evidence: `surance in 2024, followed by AIAN (13.3%), Black (10.5%), White                 particularly in younger age gr`
+- **rec 18** [cohort (non-registry)] Invasive cancer incidence - United States, 2010. (2014)
+- **rec 205** [cohort (non-registry)] Breast cancer incidence rates in U.S. women re no longer dec
+- **rec 207** [cohort (non-registry)] Cancer incidence trends among native hawaiians and other pac
+- **rec 2302** [cohort (non-registry)] Breast Cancer Incidence Trends by Estrogen Receptor Status a
+    - evidence: `Non-Hispanic white                     1.61 (1.24 to 1.98)                0.08 (0.14 to 0.30)             2.`
+- **rec 2440** [cohort (non-registry)] Cancer incidence and associations with known risk and protec
+- **rec 2453** [cohort (non-registry)] Incidence and survival among young women with stage I-III br
+    - evidence: `Non-Hispanic white                                         2.11 (1.52 to 2.69)                   0.55 (0.19 to`
+- **rec 246** [cohort (non-registry)] Does socioeconomic disparity in cancer incidence vary across
+- **rec 3360** [cohort (non-registry)] The effect of migration on cancer incidence among Japanese i
+- **rec 339** [cohort (non-registry)] Cancers of the breast, uterus, ovary and cervix among Alaska
+- **rec 3780** [cohort (non-registry)] Risk of cancer in Asian Americans: a Kaiser Permanente cohor
+    - evidence: `Black                  1.1 (1.0-1.1) [p \ 0.001]        1.2 (1.2-1.3) [p \ 0.001]   0.9 (0.6-0.9) [p \ 0.001]`
+- **rec 3861** [cohort (non-registry)] Asian ethnicity and breast cancer subtypes: A study from the
+- **rec 4043** [cohort (non-registry)] Trends in Breast Cancer Incidence and Mortality in the Unite
+- **rec 4147** [cohort (non-registry)] AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN ASIAN
+- **rec 436** [cohort (non-registry)] Incidence, Trends, and Racial/Ethnic Disparities in Female B
+    - evidence: `Hispanic                           1.91 (1.66 to 2.15)            1.82 (1.57 to 2.07)                         `
+- **rec 448** [cohort (non-registry)] Race/ethnicity and changing US socioeconomic gradients in br
+    - evidence: `Hispanic      <5% poverty,                           1793 1417     132 (126,138) 1.05 (0.93,1.19) 2736 1656   `
+- **rec 516** [cohort (non-registry)] The role of area-level socioeconomic disadvantage in racial 
+    - evidence: `Non-­Hispanic White                        9089 (75.1)                  6232 (78.7)                    413 (72`
+- **rec 54** [cohort (non-registry)] Breast cancer among Asian Indian and Pakistani Americans: A 
+- **rec 565** [cohort (non-registry)] Cancer in Guam and Hawaii: A comparison of two U.S. Island p
+- **rec 916** [cohort (non-registry)] Disparities in cancer incidence by rurality in California (2
+    - evidence: `Non-Hispanic White                                   77 529 (55.7)                  57 830 (57.2)            2`
+- **rec 998** [cohort (non-registry)] Cancer-related risk factors and incidence of major cancers b
+- **rec 0** [morphology subtype (IBC/ILC/IDC)] Breast cancer statistics 2024 (2024)
+    - evidence: `Email: angela.giaquinto@cancer.org                     (86.3 per 100,000) alongside White women (86.4 per 100,`
+- **rec 1457** [morphology subtype (IBC/ILC/IDC)] Cancer statistics, 2026 (2026)
+- **rec 259** [morphology subtype (IBC/ILC/IDC)] What can we learn from the age- and race/ethnicity- specific
+    - evidence: `Non-Hispanic Whites         1,920         2.54 (2.42-2.65)       3729           4.77 (4.62-4.93)          66,5`
+- **rec 2610** [morphology subtype (IBC/ILC/IDC)] The fluctuating incidence, improved survival of patients wit
+    - evidence: `75.2% to 83.4%); however, the increment in the last decade                         black and white patients sh`
+- **rec 284** [morphology subtype (IBC/ILC/IDC)] Trends in Female Breast Cancer Incidence among Japanese, Kor
+- **rec 310** [morphology subtype (IBC/ILC/IDC)] Recent breast cancer trends among Asian/Pacific Islander, Hi
+- **rec 336** [morphology subtype (IBC/ILC/IDC)] Early- and late-onset breast cancer types among women in the
+- **rec 425** [morphology subtype (IBC/ILC/IDC)] Regional disparities in incidence and outcomes of invasive d
+- **rec 426** [morphology subtype (IBC/ILC/IDC)] Trends in Incidence of Invasive Lobular Carcinoma of the Bre
+- **rec 4294** [morphology subtype (IBC/ILC/IDC)] Cancer statistics for African American and Black people, 202
+- **rec 438** [morphology subtype (IBC/ILC/IDC)] Changes in breast cancer incidence rates in the United State
+- **rec 453** [morphology subtype (IBC/ILC/IDC)] Racial differences in the incidence of breast cancer subtype
+- **rec 455** [morphology subtype (IBC/ILC/IDC)] Comparison of clinicopathologic features and survival in you
+    - evidence: `Results: A total of 55 153 breast cancer women aged 18-39 years were identified: 63.6% non-Hispanic white (NHW`
+- **rec 463** [morphology subtype (IBC/ILC/IDC)] Recent trends in breast cancer incidence among 6 Asian group
+- **rec 480** [morphology subtype (IBC/ILC/IDC)] Changes in the pattern of breast cancer burden among African
+- **rec 76** [morphology subtype (IBC/ILC/IDC)] Trends in breast cancer by race and ethnicity (2003)
+- **rec 1101** [no race-vs-NHW incidence table] Cancer incidence in the Somali population of Olmsted County:
+- **rec 142** [no race-vs-NHW incidence table] Are There Regional Differences in Triple Negative Breast Can
+- **rec 145** [no race-vs-NHW incidence table] Persistence in breast cancer disparities between African Ame
+- **rec 1629** [no race-vs-NHW incidence table] Inequalities in Fertility-Impacting Cancer Incidence Among Y
+- **rec 165** [no race-vs-NHW incidence table] Socioeconomic status and breast cancer incidence in Californ
+- **rec 190** [no race-vs-NHW incidence table] Cancer Incidence Rate Variations among the Chinese, South As
+- **rec 238** [no race-vs-NHW incidence table] Patterns in cancer incidence among American Indians/Alaska N
+- **rec 2732** [no race-vs-NHW incidence table] Incidence rate for breast cancer in Japanese in Japan and in
+- **rec 31** [no race-vs-NHW incidence table] Black-white breast cancer incidence trends: Effects of ethni
+- **rec 322** [no race-vs-NHW incidence table] Inter- and intra-ethnic differences for female breast carcin
+- **rec 3230** [no race-vs-NHW incidence table] Cancer in American Indian and Alaska Native Young Adults (Ag
+- **rec 3247** [no race-vs-NHW incidence table] Cancer incidence rates among South Asians in four geographic
+- **rec 3275** [no race-vs-NHW incidence table] Cancer incidence in the Middle Eastern population of Califor
+- **rec 3288** [no race-vs-NHW incidence table] Cancer incidence among Korean-American immigrants in the Uni
+- **rec 4058** [no race-vs-NHW incidence table] White-Black Differences in Cancer Incidence, Stage at Diagno
+- **rec 475** [no race-vs-NHW incidence table] The greater impact of menopause on ER- than ER+ breast cance
+- **rec 751** [no race-vs-NHW incidence table] Population-based statistics for women diagnosed with inflamm
+- **rec 754** [no race-vs-NHW incidence table] Breast cancer incidence and stage at diagnosis in the six US
+- **rec 86** [no race-vs-NHW incidence table] Breast cancer racial differences before age 40--implications
+- **rec 103** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] Age-specific incidence of breast cancer subtypes: Understand
+    - evidence: `ethnicity. Among white and Asian women, there were more than                                                  `
+- **rec 1336** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] Disparities in breast cancer incidence and survival by age, 
+    - evidence: `HR+/HER2-                            non-Hispanic White                                  1 (Ref)              `
+- **rec 361** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] Decline in US breast cancer rates after the Women's Health I
+    - evidence: `ER positive          Hispanic                  High             1.5 (0.4, 2.7)                                `
+- **rec 3845** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] Characterizing inflammatory breast cancer among Arab America
+    - evidence: `Non-Hispanic Black               1.8 (1.7, 2.0)   1.7 (1.6, 1.8)       1.3 (1.2, 1.4)   differing etiologies f`
+- **rec 427** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] The role of ethnic enclaves and neighborhood socioeconomic s
+    - evidence: `1,647,505      2106        112.54 (107.72-117.52)*      1.18 (1.13-1.24)       SES neighborhoods, AANHPI femal`
+- **rec 541** [rate/IRR present -> overlaps national rep (sensitivity/narrative)] Racial and socioeconomic disparities in breast cancer diagno
+    - evidence: `Black                                         0.85 (0.82-0.88)        < 0.001 1.14 (1.06-1.22)         < 0.001`
+- **rec 119** [survival/mortality HR] Disparities of cancer incidence in Michigan's American India
+- **rec 252** [survival/mortality HR] Forty-year trends in menopausal hormone therapy use and brea
+- **rec 3228** [survival/mortality HR] Cancer health disparities among Indian and Pakistani immigra
+- **rec 377** [survival/mortality HR] Racial/ethnicity disparities in invasive breast cancer among
+- **rec 510** [survival/mortality HR] Cancer statistics for Asian Americans, Native Hawaiians, and
+- **rec 603** [survival/mortality HR] Secular trends, race, and geographic disparity of early-stag
+- **rec 101** [trend/APC only] Cumulative Incidence Rates of Breast Cancer by Age for Filip
+- **rec 126** [trend/APC only] Incidence trends of breast cancer molecular subtypes by age 
+- **rec 1398** [trend/APC only] Early-Onset Cancer Incidence Disparities Between Black and W
+    - evidence: `Black women; 196.6 cases per 100 000 for White women) to 2022 (184.9 cases per 100 000 for`
+- **rec 141** [trend/APC only] Decreasing Incidence of Estrogen Receptor-Negative Breast Ca
+- **rec 144** [trend/APC only] Rapidly rising breast cancer incidence rates among Asian-Ame
+- **rec 151** [trend/APC only] Cancer incidence trends among asian american populations in 
+- **rec 158** [trend/APC only] Trends in breast cancer incidence rates by race/ethnicity: P
+    - evidence: `to 2017 was 338.9 per 100,000 for non-­Hispanic Black women, 353.4 per 100,000 for non-­Hispanic White women,`
+- **rec 17** [trend/APC only] Racial and ethnic disparities in breast cancer rates by age:
+- **rec 1762** [trend/APC only] Early-onset cancer incidence in the United States by race/et
+- **rec 178** [trend/APC only] Trends in stage at diagnosis for young breast cancer patient
+- **rec 188** [trend/APC only] Trends in breast cancer by race and ethnicity: Update 2006 (
+- **rec 272** [trend/APC only] Cancer rates among American Indians and Alaska Natives: is t
+- **rec 316** [trend/APC only] Early estimates of cancer incidence for 2015: Expanding to i
+- **rec 354** [trend/APC only] Explaining geographic variation in breast and cervical cance
+- **rec 383** [trend/APC only] Rates for breast cancer characteristics by estrogen and prog
+- **rec 3999** [trend/APC only] Cancer incidence patterns among Vietnamese in the United Sta
+- **rec 4026** [trend/APC only] Incidence of selected cancers in Non-Hispanic American India
+- **rec 4039** [trend/APC only] Racial/ethnic patterns in lifetime and age-conditional risk 
+- **rec 405** [trend/APC only] A trend analysis of breast cancer incidence rates in the Uni
+    - evidence: `non-Hispanic white, non-Hispanic black, Asian/Pacific                                             nificantly f`
+- **rec 4082** [trend/APC only] Annual Report to the Nation on the Status of Cancer, featuri
+- **rec 46** [trend/APC only] Incidence Rate Trends of Breast Cancer Overall and by Molecu
+    - evidence: `(12.6%) were Hispanic (any race), and 769 043 (68.4%) were White. Only 6793 females (0.6%)`
+- **rec 477** [trend/APC only] Spillover effects of public school integration in the southe
+- **rec 687** [trend/APC only] Urbanization and breast cancer incidence in North Carolina, 
+- **rec 701** [trend/APC only] Geographic differences in early-onset breast cancer incidenc

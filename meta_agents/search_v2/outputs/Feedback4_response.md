@@ -73,24 +73,32 @@ narrative 112편 주제별 정리+근거 연결, LLM 모델·역할·재검토 �
 
 ---
 
-## 추가 검증. narrative 전편 이미지-표 기준 재대조 (사용자 "narrative는") — ✅ 완료
+## 추가 검증. narrative 전편(114→112→110) 개별 재대조 (사용자 "narrative는"·"114개를 다 봤다고") — ✅ 완료
 
-quant 48편을 poppler 렌더링으로 전수 대조한 것과 동일한 기준을 **narrative 114편에도 적용**해,
-"인종 × 유방암 발생률 × NHW 비교"가 이미지 표에 숨어 있어 정량 추출이 가능한데도 초기 텍스트 추출이
-놓친 논문(Howlader형)을 찾음. 방법: `pdftotext -layout` + 유니코드 하이픈 정규화로 (a) 소수인종·White
-발생률 공존 행, (b) `[Reference]`+IRR(95% CI) 패턴을 전편 스캔 후, 후보를 원문 표로 직접 판독.
+quant를 poppler로 전수 대조한 것과 동일한 기준을 **narrative 전편에 적용**해, "인종 × 유방암 발생률 ×
+NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스트 추출이 놓친 논문(Howlader형)을 찾음.
 
-**결과 — 실제 누락 정량 2편을 quant로 재분류(48→50)**:
-- **rec 369 (Shoemaker 2018, Breast Cancer Res Treat; USCS/NPCR+SEER 99.1%, 2004-2013)**: Table 1이
-  20-49세 여성의 **2000 US 표준화 IRR vs NHW(Tiwari CI)**를 직접 보고 — Black 1.03[1.02,1.04],
-  Asian/PI 0.85[0.84,0.86], AIAN 0.70[0.68,0.73], Hispanic 0.74[0.74,0.75]. 초기 강등 사유
-  "not age-adjusted vs-NHW IRR"는 **사실오류**(표가 이미지라 텍스트 패스가 놓침). age-lt50 셀의
-  대표로 편입(커버리지 tier 9 > 기존 rec 146 SEER tier 6 → rec 146은 sensitivity overlap으로 이동).
-- **rec 14 (Lee Argov 2024, JAMA Netw Open; USCS ~99%, 2001-2019)**: Table 1이 **≥65세 여성의
-  age-adjusted IRR vs NHW**를 직접 보고 — Hispanic 0.70[0.69,0.70], AIAN 0.72[0.70,0.73],
-  Asian/PI 0.62[0.62,0.63], Black 0.93[0.93,0.94]. "trend-dominant"으로 강등됐으나 우측 정렬 표를
-  놓친 것. ≥65는 기존 age-ge50(≥50)과 다른 밴드이므로 **age-ge65 신규 차원 4셀**로 편입.
-- 두 편 모두 JBI Low RoB. RoB 37/48→**39/50 Low**, 11 Moderate 유지.
+**절차의 정직한 기록**: 1차는 자동 검출기 2종(소수인종·White 발생률 공존 행, `[Reference]`+IRR(CI)
+패턴)을 전편에 돌리고 **걸린 후보만** 정밀판독 → rec 369·14 발견. 사용자가 "114개를 다 봤냐"고 지적한
+뒤 **112편 전편을 한 편씩 표 유형으로 분류**하는 감사 로그(`outputs/narrative_verification_log.md`)를
+만들어 재확인 → **1차에 narrative로 잘못 넘겼던 rec 93·210을 추가 적발**. PDF 없는 4편(80·402·1637·
+1800)은 초록만 있어 설계 근거로 판정(코호트 2·rural-urban supp-only 1·State Cancer Profiles 무CI 1).
+
+**결과 — 실제 누락 정량 4편을 quant로 재분류(48→52), narrative 114→110**:
+- **rec 369 (Shoemaker 2018, USCS 99.1%, 2004-2013)**: Table 1이 20-49세 **2000 US 표준화 IRR vs
+  NHW(Tiwari CI)** 직접 보고 — Black 1.03, Asian/PI 0.85, AIAN 0.70, Hispanic 0.74. 강등 사유
+  "not age-adjusted vs-NHW IRR"는 사실오류. **age-lt50 대표**(tier 9 > 기존 rec 146 SEER → rec 146 overlap).
+- **rec 14 (Lee Argov 2024, JAMA Netw Open, USCS ~99%, 2001-2019)**: Table 1이 **≥65세 age-adjusted
+  IRR vs NHW** 직접 보고 — Hispanic 0.70, AIAN 0.72, Asian/PI 0.62, Black 0.93. **age-ge65 신규 차원 4셀**.
+- **rec 93 (Zahnd 2019, Lower Mississippi Delta 7-state NAACCR, 2012-2014)**: Table 3-4가 **NHW=Ref
+  age-adjusted subtype IRR**을 직접 보고 — Black 전체 1.07·HR+/HER2- 0.87·HR-/HER2+ 1.49·TNBC 2.10,
+  Hispanic 0.78 등. (1차에 Table 1-2의 Delta-vs-non-Delta만 보고 race-vs-White 표를 놓쳤던 것을 정정.)
+  지역 7주 subset이라 전국 대표의 **sensitivity overlap**(tier 5).
+- **rec 210 (Du 2022, SEER 18, 2000-2018)**: 인종별 age-adjusted rate+CI 보고(API 기준). 동일 출처
+  rate로 **IRR vs NHW를 delta method 재계산**(DERIVATIONS §2) — Asian/PI 0.742, Black 0.937,
+  AIAN 0.676, Hispanic 0.700. 전국 aggregate 대표의 **sensitivity overlap**(SEER-18 tier 6).
+- 4편 모두 JBI Low. RoB 37/48→**41/52 Low**, 11 Moderate. 대표 79→83(age-ge65 4셀 신규), Table 1
+  헤드라인 불변. 민감도 재계산: low-RoB **62/11/10**, directly-reported 31/5/47, NHW-comparator 64/1/18.
 
 **narrative 유지가 옳다고 확인된 주요 후보(오분류 아님)**:
 - **사례-사례 subtype 분포 OR**(발생률비 아님): rec 3861(CCR Asian subtype OR), rec 3780(Kaiser

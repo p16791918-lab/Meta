@@ -33,7 +33,14 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
-- **with CI:** rec 10, rec 161, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
+- **with CI:** rec 10, rec 161, rec 200, rec 210, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
+- **rec 210 (Du 2022, SEER 18, 2000–2018).** The table prints age-adjusted rates (2000 US std) by
+  race with 95% CIs, referenced to Asian/PI (not NHW). We recompute each group's IRR vs NHW from
+  the same-source rates and rate CIs by the delta method (minority IR / NHW IR 190.4 [190.0–190.8]):
+  Asian/PI 141.3/190.4 = 0.742 [0.737, 0.747], NHB 178.4/190.4 = 0.937 [0.931, 0.943],
+  AIAN 128.8/190.4 = 0.676 [0.659, 0.695], Hispanic 133.3/190.4 = 0.700 [0.696, 0.705].
+  SEER-18 overall estimates; each enters its aggregate-vs-NHW cell as a sensitivity overlap of the
+  USCS-national representative.
 - **rec 161 (Loo 2019, Hawaii HTR).** The source printed IRRs with implausibly narrow CIs
   (e.g. Native Hawaiian HR+/HER2+ 1.35 [1.347–1.351]); its Table 1 rate CIs, however, are
   correct for the sample sizes. We therefore discard the source IRR CIs and recompute each

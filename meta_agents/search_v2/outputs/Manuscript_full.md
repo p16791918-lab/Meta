@@ -18,8 +18,8 @@ Indian Health Serviceâlinked estimate was preferred to counter registry und
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 162 studies were included—50 eligible for quantitative
-synthesis and 112 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 162 studies were included—52 eligible for quantitative
+synthesis and 110 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widelyâ0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
@@ -97,13 +97,17 @@ random sample of the records the model had excluded and recorded any that should
 retained. The author then obtained and read the full texts and made all full-text eligibility
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
-against the source table, figure, or text. During this source re-verification, two reports first
-placed in the narrative set were moved to the quantitative synthesis once their source tables were
-read in full—one reporting national USCS incidence rate ratios versus NHW women for those aged
-20–49 years and one for those aged 65 years and older—because each carried directly reported,
-age-adjusted rate ratios that an initial text-only pass had missed. In all, 162
-publications were included in the systematic review; of these, 50 were eligible for quantitative
-synthesis and the remaining 112 informed the narrative synthesis. Most included studies were population-based registry or incidence
+against the source table, figure, or text. This source re-verification rendered every included
+report's tables as page images, not only its extracted text, so that rate ratios printed in
+image-only tables were not missed. Four reports first placed in the narrative set were moved to
+the quantitative synthesis once their tables were read in full: two national USCS studies giving
+age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years and for those aged
+65 years and older, a seven-state Delta-region study giving age-adjusted subtype rate ratios versus
+NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
+recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
+national representatives. In all, 162
+publications were included in the systematic review; of these, 52 were eligible for quantitative
+synthesis and the remaining 110 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -157,7 +161,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 50 extracted studies
+large-language-model assistance, and every item was recorded for all 52 extracted studies
 (Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
@@ -208,11 +212,11 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
-retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 50 were eligible for
-quantitative synthesis and entered the analysis, contributing 184 individual estimates across
+retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 52 were eligible for
+quantitative synthesis and entered the analysis, contributing 197 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 112 informed the narrative synthesis (162 = 50 + 112). The extracted studies were published
+sensitivity analysis; the remaining 110 informed the narrative synthesis (162 = 52 + 110). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 83 representative estimates remained, one per analytic
@@ -269,7 +273,7 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 112 narrative-synthesis studies met the inclusion criteria but contributed no
+The 110 narrative-synthesis studies met the inclusion criteria but contributed no
 independent quantitative estimate—most because they did not report an IRR, or
 age-standardized rates, from which a comparison with an NHW reference could be
 recovered, and a small number of multi-registry summary reports (for example, the
@@ -287,11 +291,11 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 39 of the 50 studies were at low risk of bias and 11 at moderate risk, with
+On the JBI checklist, 41 of the 52 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 52 of 83 cell representatives unchanged, with the 16 changed and 15
+low-risk-of-bias studies left 62 of 83 cell representatives unchanged, with the 11 changed and 10
 dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
 restricting to directly reported estimates left 31 unchanged (5 changed, 47 dropped); and
 restricting to NHW-comparator estimates left 64 unchanged (1 changed, 18 dropped), the dropped

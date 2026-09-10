@@ -2,7 +2,7 @@
 
 Nine items rated Yes/No/Unclear; overall risk of bias summarized as Low/Moderate/High (see rob_assessment.py header). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (50 studies): {'Low': 39, 'Moderate': 11}. Main-analysis representatives: {'Low': 19, 'Moderate': 5}
+Overall (52 studies): {'Low': 41, 'Moderate': 11}. Main-analysis representatives: {'Low': 19, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -14,6 +14,7 @@ Overall (50 studies): {'Low': 39, 'Moderate': 11}. Main-analysis representatives
 | 49 | Mills2005 | California-CCR | Hmong 1988-2000  | Yes | Yes | No | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 51 | Nash2022 | ANTR (Alaska Native Tumour | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 66 | Hendrick2021_SEER9 | SEER 9 | 2014-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 93 | Zahnd2019_Delta | Delta Region (7-state NAAC | 2012-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 100 | Liu2012_LACounty | LA County (SEER) | 2007 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 107 | Zahrieh2021_NM-SEER | New Mexico (SEER) | 2005-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | Yes | **Moderate** |
 | 134 | Wingo2008_IHS-CHSDA | IHS-PRCDA (CHSDA, SEER-NPC | 1999-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
@@ -26,6 +27,7 @@ Overall (50 studies): {'Low': 39, 'Moderate': 11}. Main-analysis representatives
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 209 | Zhang 2022 | NPCR+SEER (USCS) | 2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
+| 210 | Du2022_SEER18 | SEER 18 | 2000-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | **Moderate** |
 | 236 | Gomez 2010 | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
 | 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | **Low** |
