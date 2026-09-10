@@ -184,13 +184,21 @@ def _role(r):
     return s
 
 
+_theme_ct = _C(r.get("narr_theme", "") for r in inc if r.get("synth_group") == "narrative")
 rows = []
 _cur = None
+_curtheme = None
 for r in inc:
     g = r.get("synth_group", "")
     if g != _cur:
         _cur = g
+        _curtheme = None
         rows.append({"section": _SECT.get(g, g)})
+    if g == "narrative":
+        th = r.get("narr_theme", "") or "Other (subgroup-specific descriptive)"
+        if th != _curtheme:
+            _curtheme = th
+            rows.append({"section": "   Theme: %s (n = %d)" % (th, _theme_ct[th])})
     rows.append([study_cell(r), r.get("study_design", ""), r.get("data_source", ""),
                  _role(r), _ident(r)])
 TB(["Study (author, year)", "Study design", "Data source", "Role in synthesis", "PMID / DOI"], rows,

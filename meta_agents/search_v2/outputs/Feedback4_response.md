@@ -88,8 +88,26 @@
   견고하지 않음을 보이며, 이 변화는 RoB뿐 아니라 대체 연구의 기간·지역·비교군 차이도 반영한다.
   Supplementary Table 6의 changed/dropped 셀도 RoB 단독 효과가 아니라 그 관점에서 읽어야 함"을 추가.
 
-## 항목 6. 서술적 종합·검토 절차 보고 완성 — ⬜ 예정
-narrative 112편 주제별 정리+근거 연결, LLM 모델·역할·재검토 표본·누락 보고, PROSPERO 상태 정리, JBI Q9 표기 정합·RoB 판정 기준.
+## 항목 6. 서술적 종합·검토 절차 보고 완성 — ✅ 완료
+- **① narrative 110편 주제별 정리 + 근거연구 연결**: 6개 주제로 분류(제목·집단·outcome 키워드) —
+  Molecular subtype/histology 22, Geography/region 23, Age/early-onset 20, SES/screening 9,
+  Nativity/immigrant 8, Time trends 8, Other(subgroup-descriptive) 20 (합 110). Results의
+  narrative 소절을 주제별 서술로 재작성(각 주제의 소견을 정량결과와 대조)하고, **Supplementary
+  Table 2를 주제별로 그룹화**(각 연구에 PMID/DOI 부여)해 근거연구를 연결(make_included_supplement.py에
+  theme 분류기 추가, make_supplementary.py에 주제 소제목 렌더).
+- **② LLM 모델·역할·재검토 표본·누락 보고(Methods)**: "large language model (Anthropic's Claude)"가
+  포함/제외 제안, 저자가 최종 판정. **제외 4,551편 중 200편 무작위 재선별(seed 고정)** → breast+race+
+  incidence 11편 정독 → **전부 정당한 제외(false negative 0)**; 근거는 `outputs/screening_audit.md`.
+  발견한 누락(포함군 내)과 후속조치: overlap 6편 추출 + 이미지표 재검증으로 narrative→quant 4편
+  재분류(369·14·93·210).
+- **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 **CRD42023437049**(저자 제공)로
+  교체. 사전 프로토콜(질문·검색·적격기준·중복처리·quant/narrative 분리)과 **등록 후 개발·정련한 사후
+  변경**(analytic-cell 대표값 프레임, provenance tier·커버리지 규칙·AI/AN IHS 우선, 수용체 아형·연령
+  셀, 3개 민감도, narrative→quant 4편 재분류)을 구분 명시. Abstract에도 등록번호 추가.
+- **④ JBI Q9 정합 + RoB 판정 기준(rob_assessment.py·Methods·표 legend)**: Q9(response rate)를
+  표에 **"Yes"→"NA"**로 기록(census-like registry엔 survey response rate 없음; NA는 결함으로 미집계)해
+  "해당없음" 설명과 표기 일치. **전체 RoB 판정 기준**(Low=No≤1 & Q7·Q8 Yes; High=No≥3; else Moderate,
+  적용 8개 항목)을 표 legend와 Methods에 명시. 판정 결과 불변(41 Low/11 Moderate).
 
 ---
 

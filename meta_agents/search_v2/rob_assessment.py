@@ -22,10 +22,10 @@ Yes / No / Unclear:
      tribal linkage; surname recognition or a known AI/AN undercount = No).
   Q8 Appropriate statistical analysis (age-standardized to a stated standard
      population, with a reported or correctly computed variance/CI).
-  Q9 Response rate — not applicable to census-like registry ascertainment; rated
-     adequate where registry coverage is documented (see Q5).
+  Q9 Response rate — recorded NA (not Yes): a census-like registry has no survey
+     response rate, so the item does not apply; NA is not counted as a defect.
 
-Overall risk of bias (summary of the nine items):
+Overall risk of bias (summary of the eight applicable items; Q9 = NA is excluded):
   Low      : 0-1 "No" AND Q7 = Yes AND Q8 = Yes
   High     : >= 3 "No"
   Moderate : otherwise (including any single "No" on the two key items Q7/Q8)
@@ -113,8 +113,9 @@ def appraise(s):
         j["Q8_analysis"] = ("No", "age-adjusted estimate reported as a point value without a variance/CI")
     else:
         j["Q8_analysis"] = ("Unclear", "standard population not clearly stated")
-    # Q9 response rate — not applicable to census-like registry
-    j["Q9_response"] = ("Yes", "not applicable (census-like registry ascertainment)")
+    # Q9 response rate — not applicable to census-like registry (recorded NA, not Yes,
+    # so the table matches the "not applicable" rationale; NA is not counted as a defect)
+    j["Q9_response"] = ("NA", "not applicable — census-like registry ascertainment has no survey response rate")
 
     verd = {k: v[0] for k, v in j.items()}
     n_no = sum(1 for v in verd.values() if v == "No")
@@ -155,9 +156,13 @@ def main():
     with open(OUT_MD, "w", encoding="utf-8") as f:
         f.write("# Table S. Risk of bias — JBI Critical Appraisal Checklist for "
                 "Studies Reporting Prevalence/Incidence Data\n\n")
-        f.write("Nine items rated Yes/No/Unclear; overall risk of bias summarized as "
-                "Low/Moderate/High (see rob_assessment.py header). The checklist was applied "
-                "by the author (a single assessor) with large-language-model assistance.\n\n")
+        f.write("Nine JBI items rated Yes/No/Unclear/NA. Q9 (response rate) is recorded NA "
+                "for every study because census-like registry ascertainment has no survey "
+                "response rate; NA is not counted as a defect. Overall risk of bias uses the "
+                "eight applicable items: **Low** = 0-1 No and Q7 (measurement) = Yes and Q8 "
+                "(analysis) = Yes; **High** = 3 or more No; **Moderate** = otherwise (including "
+                "any single No on the key items Q7 or Q8). The checklist was applied by the "
+                "author (a single assessor) with large-language-model assistance.\n\n")
         f.write("Overall (%d studies): %s. Main-analysis representatives: %s\n\n"
                 % (len(rows), dict(qc), dict(qc_rep)))
         f.write("| Rec | Study | Registry | Period | " + " | ".join(QCOLS) + " | RoB |\n")

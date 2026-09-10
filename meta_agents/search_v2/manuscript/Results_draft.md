@@ -74,21 +74,36 @@ subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
 The 110 narrative-synthesis studies met the inclusion criteria but contributed no
-independent quantitative estimate—most because they did not report an IRR, or
-age-standardized rates, from which a comparison with an NHW reference could be
-recovered, and a small number of multi-registry summary reports (for example, the
-annual reports to the nation and the annual cancer-statistics summaries) because
-they re-reported registry incidence already quantified from the dedicated primary
-study for the same registry and period; they are listed by category in Supplementary
-Table 2. These
-reports most often described incidence within specific racial or ethnic subgroups, by age group, and
-over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
-stage at diagnosis. Where they reported a racial or ethnic comparison, the patterns they described were broadly
-consistent with the quantitative findings—lower overall incidence in most minority groups than in
-NHW women, wide variation among Asian American and Hispanic/Latina subgroups, and a higher burden
-of triple-negative disease in NHB women. Because these studies used varied reference groups,
-standard populations, and reporting formats, their results were summarized qualitatively rather than
-placed on the common IRR scale.
+independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
+rate could be recovered, and a few multi-registry summary reports (for example, the annual
+reports to the nation and the annual cancer-statistics summaries) because they re-reported
+registry incidence already quantified from the dedicated primary study for the same registry
+and period. Grouped by theme in Supplementary Table 2, they fall into six overlapping topics,
+and where they reported a racial or ethnic comparison their findings were broadly consistent
+with the quantitative results.
+
+Molecular subtype and histology was the largest theme (22 studies): these reports described the
+higher triple-negative and hormone-receptor-negative burden in NHB women and the predominance
+of HR+/HER2− disease in NHW women, and extended the picture to inflammatory, lobular, and ductal
+histologies that the receptor-defined cells do not capture. Geography and region (23 studies)
+described variation in incidence across states, counties, and rural–urban gradients and within
+particular registries, including Delta-region, Appalachian, and single-state analyses. Age and
+early-onset (20 studies) reported racial differences concentrated in younger women, among them the
+Black–White age crossover and a higher early-onset burden in NHB women. Socioeconomic status and
+screening (9 studies) tied incidence differences to poverty, neighborhood deprivation, insurance,
+and mammography use rather than to race alone. Nativity and immigrant generation (8 studies)
+reported incidence rising with longer US residence and across immigrant generations in Asian,
+Hispanic, and Middle Eastern populations, echoing the nativity and enclave gradients seen in the
+quantitative subgroups. Time trends (8 studies) tracked rising incidence among Asian American women
+and falling estrogen-receptor-negative rates over recent decades. The remaining 20 were
+subgroup-specific descriptive reports—single Asian ethnicities or AI/AN young adults, for
+example—without a recoverable NHW comparison.
+
+Taken together these narrative findings reproduce the main quantitative patterns—lower overall
+incidence in most minority groups than in NHW women, wide variation among Asian American and
+Hispanic/Latina subgroups, and a higher triple-negative burden in NHB women. Because the studies
+used varied reference groups, standard populations, and reporting formats, their results were
+summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
 On the JBI checklist, 41 of the 52 studies were at low risk of bias and 11 at moderate risk, with

@@ -8,9 +8,17 @@
 
 ### Protocol and reporting
 The review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses
-(PRISMA) 2020 statement.¹³ **[A PROSPERO registration is being prepared; the registration
-number will be added here.]** The protocol covered the search, eligibility criteria, the
-handling of overlapping registry data, and the planned analyses.
+(PRISMA) 2020 statement¹³ and was registered in PROSPERO (CRD42023437049). The registered
+protocol pre-specified the research question, the databases and search strategy, the eligibility
+criteria, the plan to handle overlapping registry data, and the split of eligible studies into a
+quantitative and a narrative synthesis. Several elements were developed or refined after
+registration and are reported here as deviations from the protocol: the analytic-cell framework
+with one representative population-based estimate per cell (in place of statistical pooling of
+non-independent registry estimates); the provenance tiering and the coverage-based rule for
+choosing a representative, including the preference for Indian Health Service–linked sources for
+AI/AN populations; the receptor-defined subtype and age-band cells; the three restriction-based
+sensitivity analyses; and the reclassification of four reports from the narrative to the
+quantitative synthesis after their source tables were re-verified as page images.
 
 ### Search strategy
 Four databases were searched on 7 August 2026: MEDLINE via PubMed, Embase (embase.com
@@ -55,10 +63,15 @@ but without a recoverable White comparison was included in the narrative synthes
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
 records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
-large language model under the author's direction; to check this step, the author re-screened a
-random sample of the records the model had excluded and recorded any that should have been
-retained. The author then obtained and read the full texts and made all full-text eligibility
-and inclusion decisions personally; the language model assisted data extraction and cross-checked
+large language model (Anthropic's Claude) under the author's direction: the model applied the
+criteria to each record and proposed an include/exclude decision, and the author adjudicated the
+included set and a sample of the excluded set. To check the screening for false negatives, a random
+sample of 200 of the 4,551 model-excluded records was re-screened (reproducible seed); 11 mentioned
+breast cancer, race or ethnicity, and incidence and were inspected in full, and all 11 were
+confirmed correctly excluded—as non-U.S., treatment- or risk-factor, or hospital-based rather than
+population-based studies—so no eligible study was recovered from this sample (Supplementary,
+screening audit). The author then obtained and read the full texts and made all full-text eligibility
+and inclusion decisions personally; the model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. This source re-verification rendered every included
 report's tables as page images, not only its extracted text, so that rate ratios printed in
@@ -125,7 +138,13 @@ descriptive rate studies (appropriate sampling frame and case ascertainment, val
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
 large-language-model assistance, and every item was recorded for all 52 extracted studies
-(Supplementary Table 5). Certainty of evidence was not graded,
+(Supplementary Table 5). Item 9 (response rate) was recorded as not applicable for every study,
+because census-like registry ascertainment has no survey response rate; it was therefore not
+counted as a defect. Each study's overall rating used the eight applicable items: low risk of bias
+required no more than one "No" together with a "Yes" on the two key items—valid measurement
+(item 7, including race and ethnicity ascertainment) and appropriate analysis (item 8, age
+standardization with a variance); three or more "No" ratings gave a high risk of bias, and any
+other combination—including a single "No" on either key item—gave a moderate rating. Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
 

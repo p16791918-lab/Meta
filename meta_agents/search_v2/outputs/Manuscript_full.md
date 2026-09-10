@@ -9,7 +9,7 @@ rate does not show which subgroups are at highest and lowest risk. Estimates for
 separate cancer-registry studies differing in populations, periods, and reference groups, and not
 yet assembled on a common scale.
 
-**Methods.** Following PRISMA 2020, four databases were searched for U.S. studies of
+**Methods.** Following PRISMA 2020 (PROSPERO CRD42023437049), four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
 those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
@@ -45,9 +45,17 @@ We reviewed U.S. studies of breast cancer incidence by race and ethnicity and co
 
 ### Protocol and reporting
 The review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses
-(PRISMA) 2020 statement.¹³ **[A PROSPERO registration is being prepared; the registration
-number will be added here.]** The protocol covered the search, eligibility criteria, the
-handling of overlapping registry data, and the planned analyses.
+(PRISMA) 2020 statement¹³ and was registered in PROSPERO (CRD42023437049). The registered
+protocol pre-specified the research question, the databases and search strategy, the eligibility
+criteria, the plan to handle overlapping registry data, and the split of eligible studies into a
+quantitative and a narrative synthesis. Several elements were developed or refined after
+registration and are reported here as deviations from the protocol: the analytic-cell framework
+with one representative population-based estimate per cell (in place of statistical pooling of
+non-independent registry estimates); the provenance tiering and the coverage-based rule for
+choosing a representative, including the preference for Indian Health Service–linked sources for
+AI/AN populations; the receptor-defined subtype and age-band cells; the three restriction-based
+sensitivity analyses; and the reclassification of four reports from the narrative to the
+quantitative synthesis after their source tables were re-verified as page images.
 
 ### Search strategy
 Four databases were searched on 7 August 2026: MEDLINE via PubMed, Embase (embase.com
@@ -92,10 +100,15 @@ but without a recoverable White comparison was included in the narrative synthes
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
 records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
-large language model under the author's direction; to check this step, the author re-screened a
-random sample of the records the model had excluded and recorded any that should have been
-retained. The author then obtained and read the full texts and made all full-text eligibility
-and inclusion decisions personally; the language model assisted data extraction and cross-checked
+large language model (Anthropic's Claude) under the author's direction: the model applied the
+criteria to each record and proposed an include/exclude decision, and the author adjudicated the
+included set and a sample of the excluded set. To check the screening for false negatives, a random
+sample of 200 of the 4,551 model-excluded records was re-screened (reproducible seed); 11 mentioned
+breast cancer, race or ethnicity, and incidence and were inspected in full, and all 11 were
+confirmed correctly excluded—as non-U.S., treatment- or risk-factor, or hospital-based rather than
+population-based studies—so no eligible study was recovered from this sample (Supplementary,
+screening audit). The author then obtained and read the full texts and made all full-text eligibility
+and inclusion decisions personally; the model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. This source re-verification rendered every included
 report's tables as page images, not only its extracted text, so that rate ratios printed in
@@ -162,7 +175,13 @@ descriptive rate studies (appropriate sampling frame and case ascertainment, val
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
 large-language-model assistance, and every item was recorded for all 52 extracted studies
-(Supplementary Table 5). Certainty of evidence was not graded,
+(Supplementary Table 5). Item 9 (response rate) was recorded as not applicable for every study,
+because census-like registry ascertainment has no survey response rate; it was therefore not
+counted as a defect. Each study's overall rating used the eight applicable items: low risk of bias
+required no more than one "No" together with a "Yes" on the two key items—valid measurement
+(item 7, including race and ethnicity ascertainment) and appropriate analysis (item 8, age
+standardization with a variance); three or more "No" ratings gave a high risk of bias, and any
+other combination—including a single "No" on either key item—gave a moderate rating. Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
 
@@ -274,21 +293,36 @@ subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
 The 110 narrative-synthesis studies met the inclusion criteria but contributed no
-independent quantitative estimate—most because they did not report an IRR, or
-age-standardized rates, from which a comparison with an NHW reference could be
-recovered, and a small number of multi-registry summary reports (for example, the
-annual reports to the nation and the annual cancer-statistics summaries) because
-they re-reported registry incidence already quantified from the dedicated primary
-study for the same registry and period; they are listed by category in Supplementary
-Table 2. These
-reports most often described incidence within specific racial or ethnic subgroups, by age group, and
-over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
-stage at diagnosis. Where they reported a racial or ethnic comparison, the patterns they described were broadly
-consistent with the quantitative findings—lower overall incidence in most minority groups than in
-NHW women, wide variation among Asian American and Hispanic/Latina subgroups, and a higher burden
-of triple-negative disease in NHB women. Because these studies used varied reference groups,
-standard populations, and reporting formats, their results were summarized qualitatively rather than
-placed on the common IRR scale.
+independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
+rate could be recovered, and a few multi-registry summary reports (for example, the annual
+reports to the nation and the annual cancer-statistics summaries) because they re-reported
+registry incidence already quantified from the dedicated primary study for the same registry
+and period. Grouped by theme in Supplementary Table 2, they fall into six overlapping topics,
+and where they reported a racial or ethnic comparison their findings were broadly consistent
+with the quantitative results.
+
+Molecular subtype and histology was the largest theme (22 studies): these reports described the
+higher triple-negative and hormone-receptor-negative burden in NHB women and the predominance
+of HR+/HER2− disease in NHW women, and extended the picture to inflammatory, lobular, and ductal
+histologies that the receptor-defined cells do not capture. Geography and region (23 studies)
+described variation in incidence across states, counties, and rural–urban gradients and within
+particular registries, including Delta-region, Appalachian, and single-state analyses. Age and
+early-onset (20 studies) reported racial differences concentrated in younger women, among them the
+Black–White age crossover and a higher early-onset burden in NHB women. Socioeconomic status and
+screening (9 studies) tied incidence differences to poverty, neighborhood deprivation, insurance,
+and mammography use rather than to race alone. Nativity and immigrant generation (8 studies)
+reported incidence rising with longer US residence and across immigrant generations in Asian,
+Hispanic, and Middle Eastern populations, echoing the nativity and enclave gradients seen in the
+quantitative subgroups. Time trends (8 studies) tracked rising incidence among Asian American women
+and falling estrogen-receptor-negative rates over recent decades. The remaining 20 were
+subgroup-specific descriptive reports—single Asian ethnicities or AI/AN young adults, for
+example—without a recoverable NHW comparison.
+
+Taken together these narrative findings reproduce the main quantitative patterns—lower overall
+incidence in most minority groups than in NHW women, wide variation among Asian American and
+Hispanic/Latina subgroups, and a higher triple-negative burden in NHB women. Because the studies
+used varied reference groups, standard populations, and reporting formats, their results were
+summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
 On the JBI checklist, 41 of the 52 studies were at low risk of bias and 11 at moderate risk, with

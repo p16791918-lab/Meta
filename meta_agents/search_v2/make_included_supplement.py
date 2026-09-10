@@ -43,6 +43,31 @@ def study_design(data_source, title):
     return "Population-based registry/incidence study"
 
 
+import re as _re
+_THEME = [
+    ("Nativity & immigrant generation",
+     _re.compile(r"nativity|immigrant|foreign-born|us-born|generation|enclave|acculturat", _re.I)),
+    ("Molecular subtype & histology",
+     _re.compile(r"subtype|receptor|\bER[-+ ]|HER2|triple|molecular|lobular|ductal|inflammatory|luminal|histolog|in situ", _re.I)),
+    ("Age & early-onset",
+     _re.compile(r"young|early-onset|premenopaus|aged? \d|20-4|20-3|<\s?40|<\s?50|older wom|age-specific", _re.I)),
+    ("Socioeconomic status & screening",
+     _re.compile(r"poverty|socioeconomic|\bSES\b|insurance|screening|mammograph|deprivation|income|mortgage|segregation|redlining", _re.I)),
+    ("Geography & region",
+     _re.compile(r"region|county|rural|urban|\bstate\b|geograph|delta|appalach|neighborhood|spatial|hawaii|california|new york|florida|carolina|alaska|new mexico", _re.I)),
+    ("Time trends",
+     _re.compile(r"trend|annual|joinpoint|over time|temporal|\bAPC\b|declin|increas|changing|rising|no longer declining|update", _re.I)),
+]
+
+
+def narr_theme(title, groups, outcome):
+    hay = " ".join([title or "", groups or "", outcome or ""])
+    for name, rx in _THEME:
+        if rx.search(hay):
+            return name
+    return "Other (subgroup-specific descriptive)"
+
+
 def main():
     recs = list(csv.DictReader(open(MERGED, encoding="utf-8")))
     # record_ids that actually contributed extractable estimates to the master ledger
@@ -66,6 +91,8 @@ def main():
         else:
             synth_group = "narrative"
             synthesis = "Narrative"
+        theme = (narr_theme(rec.get("title", ""), r.get("groups_vs_nhw", ""),
+                            r.get("rate_location", "")) if dec == "include-narrative" else "")
         out.append({
             "record_id": rid,
             "citation": "%s (%s)" % (rec.get("title", ""), rec.get("year", "")),
@@ -75,18 +102,24 @@ def main():
             "outcome_measure": r.get("rate_location", "").strip(),
             "synthesis": synthesis,
             "synth_group": synth_group,
+            "narr_theme": theme,
             "note": r.get("note", "").strip(),
             "pmid": rec.get("pmid", ""),
             "doi": rec.get("doi", ""),
         })
-    # group the rows so quantitative (extracted, then eligible-only) precede narrative
+    # group the rows so quantitative (extracted, then eligible-only) precede narrative,
+    # and order the narrative rows by theme (professor's thematic synthesis grouping)
     grp_order = {"quant-extracted": 0, "quant-eligible": 1, "narrative": 2}
-    out.sort(key=lambda x: (grp_order[x["synth_group"]], x["record_id"]))
+    theme_order = {name: i for i, (name, _) in enumerate(_THEME)}
+    theme_order["Other (subgroup-specific descriptive)"] = len(_THEME)
+    out.sort(key=lambda x: (grp_order[x["synth_group"]],
+                            theme_order.get(x.get("narr_theme", ""), -1),
+                            x["record_id"]))
 
     with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["record_id", "citation", "data_source",
                                           "study_design", "groups_vs_nhw", "outcome_measure",
-                                          "synthesis", "synth_group", "note", "pmid", "doi"])
+                                          "synthesis", "synth_group", "narr_theme", "note", "pmid", "doi"])
         w.writeheader()
         w.writerows(out)
 

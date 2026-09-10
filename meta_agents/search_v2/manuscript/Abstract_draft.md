@@ -11,7 +11,7 @@ rate does not show which subgroups are at highest and lowest risk. Estimates for
 separate cancer-registry studies differing in populations, periods, and reference groups, and not
 yet assembled on a common scale.
 
-**Methods.** Following PRISMA 2020, four databases were searched for U.S. studies of
+**Methods.** Following PRISMA 2020 (PROSPERO CRD42023437049), four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
 those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
