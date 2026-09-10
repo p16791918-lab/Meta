@@ -45,7 +45,9 @@
 - **표준인구 기록 방침 명시**(Methods): SEER*Stat·USCS age-adjusted는 2000 US가 프로그램 기본값이라 그대로 기록; 그 외 미명시는 'not stated'. Discussion의 "one older study used the 1970 world standard"도 실제(1970 world/US + 1960 Segi)에 맞게 수정.
 - **관찰기간 원문 대조 오류 3건 정정**(표준인구 재점검 후 기간도 전수 대조): rec 66(Hendrick) 원문 incidence "2014-2017"인데 **2013-2017**로 → 2014-2017; rec 182(Cronin) 제목·본문 "2005-2009"인데 **2004-2008**로 → 2005-2009; rec 346(Richardson) 값 121.5/123.6이 원문 "During 2009-2013"인데 **2011**로 → 2009-2013. (IRR은 비율이라 불변, 기간 라벨만 정정.)
 - **비교군은 오류 없음 확인**: comparison_vs "White" 21행(Loo·Baquet·Gleason·Anderson)은 전수 재확인 결과 모두 unstratified White(†)로 정확. NHW/White(NH)/external은 코드 NHW_OK로 정확.
-- **남은 점검**: 연령(age band) 원문 대조 진행 예정.
+- **연령(age band)도 오류 없음 확인**: age-specific 8셀(rec 324 young=<50, 265 <40/≥40, 199 <40, 522 <50/≥50, 146 <50[20-49], 485 ≥50)을 원문 대조 → 모두 정확.
+
+**항목 3 재점검 종합(4개 필드 전수 대조)**: 비교군 오류 0 · 연령 오류 0 · **표준인구 오류 3건 정정** · **기간 오류 3건 정정**. 첫 전수 정독이 값·비교군 위주였고 표준인구·기간 필드는 소홀했던 점을 인정하고 두 필드를 전수 재대조해 총 6건을 교정.
 
 **판단 결정(교수 확인)**:
 - **Sung 2020(rec 2406) — 대표 유지(A)**: 남성 유방암 논문의 여성 참조패널이지만 자료원이 USCS(~99% 커버리지)로 SEER 기반 Kong 2020보다 넓고 기간도 최신(2010-2016)이라, **커버리지 우선 규칙상 Black subtype 3셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, HR-/HER2+ 1.29)의 대표로 유지**. 여성 subtype 값도 USCS 전수라 신뢰. Kong 2020은 overlap/sensitivity로 편입.
