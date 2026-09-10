@@ -28,12 +28,12 @@ American Indian and Alaska Native (AI/AN) by region,AIAN (Northern Plains),IRR,1
 American Indian and Alaska Native (AI/AN) by region,Alaska Native,IRR,"1.09 [0.99, 1.21] †",Nash2019_ANTR,2009-2014,Alaska Native Tumor Registry (IHS-linked),Low
 American Indian and Alaska Native (AI/AN) by region,AIAN (Southern Plains),IRR,"1.33 [1.26, 1.41]",Melkonian2021_IHS-PRCDA,2012-2016,IHS-PRCDA,Low
 Middle Eastern,Middle Eastern,IRR,"0.86 [0.84, 0.88]",Nasseri2009,1988-2004,California-CCR,Moderate
-Triple-negative breast cancer,Chinese,IRR,"0.53 [0.39, 0.71] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
+Triple-negative breast cancer,Chinese,IRR,"0.53 [0.31, 0.93] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,Asian American (aggregate),IRR,"0.61 [0.58, 0.65]",Gomez2017_CCR,2009-2013,California-CCR,Low
 Triple-negative breast cancer,Asian/PI (aggregate),IRR,"0.700 [0.680, 0.720]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
-Triple-negative breast cancer,Filipina,IRR,"0.84 [0.8, 0.88] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
+Triple-negative breast cancer,Filipina,IRR,"0.84 [0.60, 1.18] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,AIAN,IRR,"0.860 [0.800, 0.930]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
 Triple-negative breast cancer,Hispanic,IRR,"0.860 [0.840, 0.880]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low
-Triple-negative breast cancer,Native Hawaiian,IRR,"0.86 [0.79, 0.91] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
-Triple-negative breast cancer,Japanese,IRR,"1.07 [1.07, 1.09] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
+Triple-negative breast cancer,Native Hawaiian,IRR,"0.86 [0.60, 1.22] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
+Triple-negative breast cancer,Japanese,IRR,"1.08 [0.79, 1.46] †",Loo2019_HTR,2000-2016,Hawaii Tumor Registry (SEER),Low
 Triple-negative breast cancer,Black,IRR,"1.950 [1.930, 1.980]",Sung2023_USCS,2015-2019,USCS(NPCR+SEER ~99%),Low

@@ -57,22 +57,22 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Chinese | 0.530 | 0.393-0.715 | 161 |
+| Chinese | 0.530 | 0.306-0.918 | 161 |
 | Asian American (aggregate) | 0.610 | 0.576-0.646 | 324 |
 | Asian/PI (aggregate) | 0.700 | 0.680-0.720 | 155 |
-| Filipina | 0.840 | 0.801-0.881 | 161 |
-| Native Hawaiian | 0.860 | 0.801-0.923 | 161 |
+| Filipina | 0.840 | 0.599-1.178 | 161 |
+| Native Hawaiian | 0.860 | 0.603-1.226 | 161 |
 | AIAN | 0.860 | 0.798-0.927 | 155 |
 | Hispanic | 0.860 | 0.840-0.880 | 155 |
-| Japanese | 1.070 | 1.060-1.080 | 161 |
+| Japanese | 1.080 | 0.794-1.468 | 161 |
 | Black | 1.950 | 1.925-1.975 | 155 |
 
 **subtype-HRneg-HER2pos**
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Japanese | 0.880 | 0.818-0.947 | 161 |
-| Native Hawaiian | 1.190 | 1.165-1.215 | 161 |
+| Japanese | 0.880 | 0.539-1.437 | 161 |
+| Native Hawaiian | 1.190 | 0.757-1.872 | 161 |
 | Asian American (aggregate) | 1.210 | 1.123-1.304 | 324 |
 | Black | 1.290 | 1.260-1.320 | 2406 |
 | Asian/PI (aggregate) | 1.410 | 1.332-1.492 | 286 |
@@ -81,24 +81,26 @@ One estimate per registry family; not pooled across groups.
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Filipina | 0.640 | 0.625-0.655 | 161 |
+| Chinese | 0.580 | 0.485-0.693 | 161 |
+| Filipina | 0.640 | 0.566-0.724 | 161 |
 | AIAN | 0.740 | 0.692-0.792 | 286 |
 | Hispanic | 0.780 | 0.765-0.795 | 286 |
 | Black | 0.790 | 0.785-0.795 | 2406 |
 | Asian/PI (aggregate) | 0.870 | 0.855-0.885 | 286 |
-| Japanese | 1.030 | 1.025-1.035 | 161 |
-| Native Hawaiian | 1.120 | 1.105-1.135 | 161 |
+| Japanese | 1.030 | 0.926-1.145 | 161 |
+| Native Hawaiian | 1.120 | 1.007-1.246 | 161 |
 
 **subtype-HRpos-HER2pos**
 
 | Group | IRR | 95% CI | rec |
 |----|----|----|----|
-| Chinese | 0.720 | 0.563-0.921 | 161 |
+| Chinese | 0.720 | 0.419-1.237 | 161 |
 | Asian/PI (aggregate) | 0.850 | 0.768-0.941 | 2 |
-| Filipina | 0.880 | 0.855-0.905 | 161 |
+| Filipina | 0.880 | 0.612-1.265 | 161 |
 | Hispanic | 0.910 | 0.880-0.941 | 286 |
 | Black | 1.010 | 0.995-1.025 | 2406 |
-| Japanese | 1.030 | 1.015-1.045 | 161 |
+| Japanese | 1.030 | 0.726-1.462 | 161 |
+| Native Hawaiian | 1.340 | 0.958-1.875 | 161 |
 
 **age-lt50**
 

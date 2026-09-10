@@ -56,7 +56,7 @@
 
 ## 항목 4. 연령표준화 IRR의 CI 계산 재검토 — ✅ 완료
 - **항구 점검 추가**: `crosscheck_master.py [G]`가 모든 보고 CI의 순서·bracket(점추정 포함)을 검증하고, subgroup×subtype의 비현실적으로 좁은 CI를 경고.
-- **Loo 2019(rec 161)**: 원문 CI열 내부모순(1.34 CI 1.347-1.351, 0.58 CI 0.46-0.53 — 점추정 제외) → 해당 셀 점추정화. 누락된 Japanese TNBC 1.07 추가 추출.
+- **Loo 2019(rec 161) — PDF Table 1 렌더링으로 최종 해결**: poppler 설치 후 Table 1(Number of Cases + IR 95% CI)을 확인. 원문 **rate CI는 사례수에 맞게 정상이나 IRR CI만 5–228배 비현실적으로 좁음**(rate CI로 재계산 시 예: NH HR+/HER2+ [1.347,1.351]→[0.96,1.88]). 정오표 없이 원문 데이터로 IRR CI 오류 증명. → **Loo 14개 subtype IRR CI를 Table 1 rate CI로 delta method 재계산해 교체**(computed-from-rates-with-CI, DERIVATIONS §2 등록). 전사 오류(NH HR+/HER2+ 1.34→**1.35**)도 정정. 누락 Japanese TNBC 1.07도 추출.
 - **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
 
 **추가 재검토(핵심 요구였는데 초기 '완료'에서 빠졌던 부분)**:

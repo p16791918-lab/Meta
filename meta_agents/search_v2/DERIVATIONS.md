@@ -27,7 +27,15 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
-- **with CI:** rec 10, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
+- **with CI:** rec 10, rec 161, rec 200, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 3298, rec 3398, rec 4040.
+- **rec 161 (Loo 2019, Hawaii HTR).** The source printed IRRs with implausibly narrow CIs
+  (e.g. Native Hawaiian HR+/HER2+ 1.35 [1.347–1.351]); its Table 1 rate CIs, however, are
+  correct for the sample sizes. We therefore discard the source IRR CIs and recompute each
+  subtype IRR and its CI from the Table 1 age-adjusted rates and rate CIs by the delta method
+  (minority IR / White IR; comparator = unstratified Whites, †). Example: Chinese HR+/HER2−
+  66.8 [56.9–78.1] / White 114.3 [106.4–122.6] = 0.58 [0.49, 0.70] (source gave 0.58
+  [0.46–0.53], which excluded its own point estimate). Verified: recomputed points reproduce
+  the source IRRs (e.g. Japanese HR+/HER2− 118.1/114.3 = 1.03).
 - **point only (no CI):** rec 100, rec 381, rec 461, rec 463, rec 485, rec 4098.
 - Handled in other sections: §1 (rec 2), §4 (rec 234, rec 3182, rec 51), §4b (rec 4333), and the Poisson-SE records in §3.
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US

@@ -4,20 +4,20 @@ age-ge40,Black,,0.851," [0.841, 0.862]",265,,,,dropped,1,0
 age-lt40,Black,,1.183," [1.142, 1.226]",265,,,,dropped,2,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0
 subtype-ERpos-PRneg,Black,,0.974," [0.925, 1.027]",200,,,,dropped,1,0
-subtype-HRneg-HER2pos,Japanese,,0.88," [0.82, 0.95]",161,,,,dropped,1,0
-subtype-HRneg-HER2pos,Native Hawaiian,,1.19," [1.16, 1.21]",161,,,,dropped,1,0
-subtype-HRpos-HER2neg,Chinese,,0.58,,161,,,,dropped,1,0
-subtype-HRpos-HER2neg,Filipina,,0.64," [0.63, 0.66]",161,,,,dropped,1,0
-subtype-HRpos-HER2neg,Japanese,,1.03," [1.03, 1.04]",161,,,,dropped,1,0
-subtype-HRpos-HER2neg,Native Hawaiian,,1.12," [1.11, 1.14]",161,,,,dropped,1,0
-subtype-HRpos-HER2pos,Chinese,,0.72," [0.55, 0.9]",161,,,,dropped,1,0
-subtype-HRpos-HER2pos,Filipina,,0.88," [0.86, 0.91]",161,,,,dropped,1,0
-subtype-HRpos-HER2pos,Japanese,,1.03," [1.02, 1.05]",161,,,,dropped,1,0
-subtype-HRpos-HER2pos,Native Hawaiian,,1.34,,161,,,,dropped,1,0
-subtype-TNBC,Chinese,,0.53," [0.39, 0.71]",161,,,,dropped,1,0
-subtype-TNBC,Filipina,,0.84," [0.8, 0.88]",161,,,,dropped,1,0
-subtype-TNBC,Japanese,,1.07," [1.07, 1.09]",161,,,,dropped,1,0
-subtype-TNBC,Native Hawaiian,,0.86," [0.79, 0.91]",161,,,,dropped,1,0
+subtype-HRneg-HER2pos,Japanese,,0.88," [0.54, 1.44]",161,,,,dropped,1,0
+subtype-HRneg-HER2pos,Native Hawaiian,,1.19," [0.76, 1.88]",161,,,,dropped,1,0
+subtype-HRpos-HER2neg,Chinese,,0.58," [0.49, 0.70]",161,,,,dropped,1,0
+subtype-HRpos-HER2neg,Filipina,,0.64," [0.57, 0.73]",161,,,,dropped,1,0
+subtype-HRpos-HER2neg,Japanese,,1.03," [0.93, 1.15]",161,,,,dropped,1,0
+subtype-HRpos-HER2neg,Native Hawaiian,,1.12," [1.01, 1.25]",161,,,,dropped,1,0
+subtype-HRpos-HER2pos,Chinese,,0.72," [0.42, 1.24]",161,,,,dropped,1,0
+subtype-HRpos-HER2pos,Filipina,,0.88," [0.61, 1.26]",161,,,,dropped,1,0
+subtype-HRpos-HER2pos,Japanese,,1.03," [0.73, 1.47]",161,,,,dropped,1,0
+subtype-HRpos-HER2pos,Native Hawaiian,,1.34," [0.96, 1.88]",161,,,,dropped,1,0
+subtype-TNBC,Chinese,,0.53," [0.31, 0.93]",161,,,,dropped,1,0
+subtype-TNBC,Filipina,,0.84," [0.60, 1.18]",161,,,,dropped,1,0
+subtype-TNBC,Japanese,,1.08," [0.79, 1.46]",161,,,,dropped,1,0
+subtype-TNBC,Native Hawaiian,,0.86," [0.60, 1.22]",161,,,,dropped,1,0
 AIAN,AIAN (East),,0.61,,2510,0.61,,2510,unchanged,2,2
 AIAN,AIAN (Navajo),,0.49," [0.44, 0.55]",1478,0.49," [0.44, 0.55]",1478,unchanged,1,1
 AIAN,AIAN (Northern Plains),,1.05,,2510,1.05,,2510,unchanged,3,3
