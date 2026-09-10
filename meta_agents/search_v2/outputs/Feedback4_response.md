@@ -96,10 +96,12 @@
   Table 2를 주제별로 그룹화**(각 연구에 PMID/DOI 부여)해 근거연구를 연결(make_included_supplement.py에
   theme 분류기 추가, make_supplementary.py에 주제 소제목 렌더).
 - **② LLM 모델·역할·재검토 표본·누락 보고(Methods)**: "large language model (Anthropic's Claude)"가
-  포함/제외 제안, 저자가 최종 판정. **제외 4,551편 중 200편 무작위 재선별(seed 고정)** → breast+race+
-  incidence 11편 정독 → **전부 정당한 제외(false negative 0)**; 근거는 `outputs/screening_audit.md`.
-  발견한 누락(포함군 내)과 후속조치: overlap 6편 추출 + 이미지표 재검증으로 narrative→quant 4편
-  재분류(369·14·93·210).
+  포함/제외 제안, 저자가 최종 판정. **제외 4,551편 중 200편 무작위 재선별(seed 고정)** — 200편 제목·
+  제외사유 전수 확인, breast 또는 race/incidence 관련 **117편 정독** → **전부 정당한 제외(false
+  negative 0)**(비-미국·사망/생존·위험요인·유전·검진/치료·남성/트랜스·사설·병원기반 등); 근거는
+  `outputs/screening_audit.md`. (독립 이중선별은 미시행 — 한계로 명시.) 발견한 누락(포함군 내)과
+  후속조치: overlap 6편 추출 + 이미지표 재검증으로 narrative→quant 4편 재분류(369·14·93·210).
+  ※ 최초 기재("11편 정독")는 200편 중 정독 규모를 축소 표현한 것이라, 200편 전수 확인·117편 정독으로 정정.
 - **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 **CRD42023437049**(저자 제공)로
   교체. 사전 프로토콜(질문·검색·적격기준·중복처리·quant/narrative 분리)과 **등록 후 개발·정련한 사후
   변경**(analytic-cell 대표값 프레임, provenance tier·커버리지 규칙·AI/AN IHS 우선, 수용체 아형·연령

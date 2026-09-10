@@ -66,11 +66,13 @@ records). Titles and abstracts were screened against the pre-specified eligibili
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
 included set and a sample of the excluded set. To check the screening for false negatives, a random
-sample of 200 of the 4,551 model-excluded records was re-screened (reproducible seed); 11 mentioned
-breast cancer, race or ethnicity, and incidence and were inspected in full, and all 11 were
-confirmed correctly excluded—as non-U.S., treatment- or risk-factor, or hospital-based rather than
-population-based studies—so no eligible study was recovered from this sample (Supplementary,
-screening audit). The author then obtained and read the full texts and made all full-text eligibility
+sample of 200 of the 4,551 model-excluded records was re-screened (reproducible seed): every title
+and its recorded exclusion reason was read, and the 117 that concerned breast cancer or race and
+ethnicity with incidence were inspected in full against the eligibility criteria. All 200 were
+confirmed correctly excluded—as non-U.S., mortality- or outcome-only, risk-factor, genetic,
+screening or treatment, male or transgender, editorial, or hospital-based rather than
+population-based incidence studies—so no eligible study was recovered from the sample (Supplementary,
+screening audit). This check does not replace independent dual screening, which was not performed. The author then obtained and read the full texts and made all full-text eligibility
 and inclusion decisions personally; the model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. This source re-verification rendered every included
