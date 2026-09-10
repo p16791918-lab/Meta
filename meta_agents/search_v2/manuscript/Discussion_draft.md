@@ -20,7 +20,11 @@ subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 
 Japanese women; Native Hawaiian women (1.21) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
-Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2). This pattern is consistent with earlier disaggregated work and extends
+Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2). In Figure 2 each aggregate
+and each subgroup is the representative estimate from a separate study, placed on the common NHW
+scale for comparison; the points are not drawn from one source and differ in registry, region, and
+diagnosis period, so the figure shows the range of published estimates rather than a within-study
+decomposition. This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
@@ -28,6 +32,19 @@ first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-
 prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
 the outcome examined (Figure 3).
+
+For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can
+change the direction of the small difference. Japanese women are the clearest example: the
+representative estimate, from a recent SEER-21 source,²⁷ places their overall
+incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the
+representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an
+earlier eight-state SEER+NPCR estimate⁴⁹ that places it just below (0.95). The flip does not
+overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
+near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
+risk of bias: the substituted studies also differ in diagnosis period, registry region, and
+comparator, and any of these can move a borderline estimate across 1.0. The changed and dropped
+cells in the sensitivity analyses (Supplementary Table 6) should be read in that light rather than as
+risk-of-bias effects alone.
 
 Two features of the underlying data shaped these estimates.
 First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
@@ -64,9 +81,14 @@ not examined.
 
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
-which can move a ratio slightly. Included studies differed in standard population and diagnosis period, limiting
-direct comparability, and a few older studies used a 1970 standard population (world or US) and one
-the 1960 Segi world standard. The review was restricted to
+which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
+not by itself make the estimates commensurable: because the cells are drawn from different studies,
+differences in standard population, underlying age structure, registry region, and diagnosis period
+remain embedded in the ratios and are not cancelled by the common comparator. A ratio removes the
+shared standard-population scaling only when its numerator and denominator come from the same
+source and standardization—which holds within each cell but not across cells. Included studies
+differed in standard population and diagnosis period, limiting cross-cell comparability, and a few
+older studies used a 1970 standard population (world or US) and one the 1960 Segi world standard. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
@@ -88,4 +110,4 @@ analytic cell rather than a pooled figure.
 Superscript numbers refer to the unified reference list (`manuscript/References_draft.md`):
 2 Howlader 2014, 5 Gomez 2010, 8 Pinheiro 2009, 9 Keegan 2010, 10 Espey 2007, 20 Sung 2023,
 21 Loo 2019, 27 Gomez 2026, 29 Kong 2020, 34 Watanabe-Galloway 2015, 36 Gopalani 2020,
-40 Yazzie 2025, 44 Melkonian 2019, 48 Melkonian 2021.
+40 Yazzie 2025, 44 Melkonian 2019, 48 Melkonian 2021, 49 Jin 2016.

@@ -65,8 +65,22 @@
   - **rec 169(Ellington)·49(Mills)·3267(Kem)**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → **근사임을 Methods와 DERIVATIONS §3에 명시**("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
   - DERIVATIONS의 부정확한 "rec 203, rec 182" 표기 정정(rec 203은 directly-reported-IRR).
 
-## 항목 5. 연구 간 비교 한계·민감도 해석 반영 — ⬜ 예정
-"standard population largely cancels" 수정, "contemporary benchmark" 재검토, Figure 2에 이질 출처 명시, Japanese 등 방향전환 설명.
+## 항목 5. 연구 간 비교 한계·민감도 해석 반영 — ✅ 완료
+- **① "표준인구 상쇄" 취지 수정(Discussion 한계)**: "NHW 비율로 바꿔도 표준인구·연령구조·지역·기간
+  차이는 비율 안에 남으며 공통 비교군으로 상쇄되지 않는다. 비율이 표준인구 스케일을 제거하는 것은
+  분자·분모가 같은 출처·표준화일 때뿐이며, 이는 셀 내부에서만 성립하고 셀 간에는 성립하지 않는다"를
+  명시.
+- **② "contemporary benchmark" 재검토(Methods)**: 대표 중 오래된 기간(Middle Eastern 1988-2004,
+  Cambodian·Native Hawaiian 1998-2002, Hispanic-origin 1999-2001 등 2005년 이전)이 있어
+  "a single population-based benchmark ... not a contemporary one—diagnosis periods vary by cell,
+  and some representatives predate 2005"로 수정.
+- **③ Figure 2 이질 출처 명시**: forest 그림에 각주 추가("각 점은 별도 연구의 셀 대표값이며 aggregate와
+  subgroup은 단일 출처가 아니고 registry·지역·기간·표준인구가 다름; 다이아=aggregate, 원=subgroup,
+  막대 없음=원문 CI 없음")하고 Discussion 본문에도 동일 취지 문장 추가.
+- **④ Japanese 방향전환 본문 설명(+⑤)**: "대표 Gomez 2026 SEER-21(Moderate RoB)=1.05(NHW 위) →
+  low-RoB 제한 시 Jin 2016 8-state SEER+NPCR=0.95(NHW 아래)로 부호 전환. near-null 차이의 부호가
+  견고하지 않음을 보이며, 이 변화는 RoB뿐 아니라 대체 연구의 기간·지역·비교군 차이도 반영한다.
+  Supplementary Table 6의 changed/dropped 셀도 RoB 단독 효과가 아니라 그 관점에서 읽어야 함"을 추가.
 
 ## 항목 6. 서술적 종합·검토 절차 보고 완성 — ⬜ 예정
 narrative 112편 주제별 정리+근거 연결, LLM 모델·역할·재검토 표본·누락 보고, PROSPERO 상태 정리, JBI Q9 표기 정합·RoB 판정 기준.

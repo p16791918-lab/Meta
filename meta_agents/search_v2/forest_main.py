@@ -113,6 +113,13 @@ ax.text(0.32, 1.28, "Lower incidence", transform=trans, fontsize=10, color="#555
 ax.text(1.28, 1.28, "Higher incidence", transform=trans, fontsize=10, color="#555", ha="center")
 ax.set_title("Aggregate-to-disaggregated heterogeneity with 95% confidence intervals",
              fontsize=12.5, pad=16)
+fig.text(0.34, 0.028,
+         "Each point is the representative estimate for one analytic cell, drawn from a separate "
+         "study; the aggregate and its subgroups are\nnot from a single source and differ in "
+         "registry, region, diagnosis period, and standard population. Diamonds mark aggregate "
+         "groups,\ncircles subgroups; a point without a bar had no confidence interval in its source.",
+         fontsize=7.6, color="#555", ha="left", va="top")
+fig.subplots_adjust(bottom=0.11)
 fig.savefig(os.path.join(OUT, "Fig_forest_main.png"), dpi=200)
 plt.close(fig)
 print("wrote outputs/Fig_forest_main.png")
