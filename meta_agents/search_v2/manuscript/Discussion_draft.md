@@ -65,7 +65,8 @@ not examined.
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
 which can move a ratio slightly. Included studies differed in standard population and diagnosis period, limiting
-direct comparability, and one older study used the 1970 world standard. The review was restricted to
+direct comparability, and a few older studies used a 1970 standard population (world or US) and one
+the 1960 Segi world standard. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the

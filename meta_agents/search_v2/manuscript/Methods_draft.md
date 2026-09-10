@@ -129,6 +129,17 @@ was propagated from the reported rate intervals by the delta method when both ra
 interval, or by scaling the minority-rate interval when the reference rate was a fixed population
 benchmark without a reported interval. Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
+source reported a standardized incidence ratio (SIR) rather than an IRR (South Asian women against
+a US White standard); because an SIR indirectly standardizes to the reference population's age
+structure rather than expressing two directly standardized rates on a common standard, it was read
+on the same relative-to-White scale but labelled as an SIR (Supplementary Table 4) and excluded
+from the directly-reported-IRR sensitivity analysis. The standard population was recorded as each
+source stated it—2000 US for most, with a 1970 world or 1970 US standard in a few older studies and
+the 1960 Segi world standard in one; SEER*Stat and USCS age-adjusted rates use the 2000 US standard
+by default, and that default was recorded where a study reported rates from those programs without
+naming a standard. Where a source neither stated a standard population nor produced its rates through
+such a program (one small-area Bayesian analysis), the standard was recorded as not stated rather
+than inferred from the size of the rates. One
 estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference,
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
