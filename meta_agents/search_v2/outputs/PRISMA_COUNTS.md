@@ -11,18 +11,23 @@
 
 ## Screening
 - Records screened (title/abstract): 4,793
-- Records excluded: 4,551
-- Reports sought for retrieval: 242
+- Records excluded: 4,550
+- Reports sought for retrieval: 243
 - Reports not retrieved: 9 (full text unavailable — records 157, 253, 415, 424, 428, 476,
   2038, 3116, 3268; sought but could not be obtained, so not assessable)
+- Note: record 3720, a Louisiana Tumor Registry triple-negative study reporting an age-adjusted
+  Black-vs-White incidence ratio of 2.21, was identified on the post-hoc screening audit as wrongly
+  excluded and added to the review as a narrative-synthesis study (abstract only; full text not
+  retrievable, so no quantitative estimate was extracted). This is why the excluded count fell by
+  one (4,551 → 4,550) and the assessed/included counts rose by one.
 
 ## Eligibility
-- Reports assessed for eligibility (full text): 233
+- Reports assessed for eligibility (full text): 234
 - Reports excluded: 71 (reasons in `TableS_excluded_fulltext.csv`): overlapping/duplicate
   dataset 55; did not report eligible outcome 12; ineligible population 3; preprint 1
 
 ## Included
-- Studies included in review: 162
+- Studies included in review: 163
   - Quantitative synthesis: 52 studies (all eligible studies contributed extractable estimates)
     (24 supplied a cell representative; the other 28 contributed overlapping estimates carried
     only in the sensitivity analysis — e.g. 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR
@@ -34,7 +39,7 @@
     vs NHW; 93 Zahnd Delta-region 7-state subtype IRRs vs NHW; and 210 Du SEER-18 age-adjusted
     rates by race (IRR vs NHW recomputed) — all carrying rate ratios in tables missed on the
     first text pass, and all entering as overlapping or age-specific estimates.)
-  - Narrative synthesis only: 110
+  - Narrative synthesis only: 111
 
 ## Notes for the flowchart
 - Single-reviewer screening with AI assistance; state this in Methods.

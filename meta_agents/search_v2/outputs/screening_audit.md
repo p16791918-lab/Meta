@@ -3,44 +3,38 @@
 **Purpose.** Check the large-language-model title/abstract screening for false negatives
 (eligible studies wrongly excluded).
 
-**Method (reproducible).** From the 4,551 records the model excluded at title/abstract, a random
-sample of **200** was drawn (Python `random.seed(42)`, `random.sample`). All 200 titles and their
-recorded exclusion reasons were read. Any title related to breast cancer or to race/ethnicity with
-incidence was inspected in full against the eligibility criteria (US, population-based/registry,
-female invasive breast cancer incidence by race or ethnicity, with a recoverable estimate).
+**Method (reproducible).** From the records the model excluded at title/abstract, a random sample
+of **200** was drawn (Python `random.seed(42)`, `random.sample`). All 200 titles and their recorded
+exclusion reasons were read. Of these, 117 concerned breast cancer or race/ethnicity with incidence;
+the titles alone settled most as clearly ineligible, and the **16 whose eligibility was not decidable
+from the title were read in full at the abstract level** against the eligibility criteria (US,
+population-based/registry, female invasive breast cancer incidence by race or ethnicity, with a
+recoverable estimate).
 
-**Result.** 117 of the 200 titles were breast- or race/ethnicity-related and were inspected in
-full; the other 83 were plainly off-topic (other cancers, methods, unrelated topics). **All 200
-were judged correctly excluded — 0 false negatives.** The 117 inspected fell into the exclusion
-categories the screening applied:
-- **Non-US populations** (e.g., Ethiopia 4709, Iran 1952, China 2838/2765, Nigeria 3312, Latin
-  America 1279/1041, sub-Saharan Africa 610, Brazil 3679/4605, England 1896, Canada 4399,
-  Switzerland/China 4238);
-- **Mortality, survival, or outcomes rather than incidence** (290, 1966, 4278, 230, 2454, 502,
-  2173, 1197, 3800);
-- **Risk-factor / etiology studies** (physical activity 583/3307, diet 2070/3159/881, obesity
-  654/2623, alcohol 3148, smoking 3151/2734, pesticides 714, chemicals 932, hypertension 2112,
-  hysterectomy 39, deployment 849);
-- **Genetics / tumor biology** (BRCA 780/2765/2227, ancestry variants 3666, HER2 polymorphism 904,
-  hereditary 343, methylation 2380);
-- **Screening, treatment, or reconstruction** (2424, 1421, 600, 1136, 789, 1916, 2546, 3493);
-- **Excluded populations** — male or transgender breast cancer (1916, 1889);
-- **Editorials, reviews, case reports, or lab studies** (3645, 4105, 2048, 4103, 3913, 2068, 4617);
-- **Hospital-based, not population-based** (rec 77 two-hospital NYC series, and its visual-abstract
-  duplicate 4103).
+**Result — one false negative found (rec 3720).** Reading the 16 ambiguous abstracts identified one
+record that had been wrongly excluded:
+- **rec 3720** — "Neighborhood social determinants of triple negative breast cancer." A Louisiana
+  Tumor Registry study of TNBC diagnosed 2010–2012 that reports, controlling for age, that **African
+  American women had 2.21 times the TNBC incidence of European American women**. This is an eligible
+  US population-based incidence-by-race estimate. Its full text could not be obtained in this
+  workflow, so—like the four other abstract-only inclusions (80, 402, 1637, 1800)—it was **added to
+  the narrative synthesis** rather than extracted (excluded count 4,551 → 4,550; included 162 → 163;
+  narrative 110 → 111). Its direction agrees with the higher NHB triple-negative burden in the
+  quantitative synthesis, and as a single-state estimate it would at most be a sensitivity overlap of
+  the national NHB TNBC representative (1.95), changing no result.
 
-A few neighborhood/SES-exposure titles (e.g., 3720 "neighborhood social determinants of TNBC",
-502 "color or money") were inspected as borderline and resolved as exclusions, consistent with the
-rule that the analytic comparator must be race/ethnicity versus a White reference rather than a
-socioeconomic exposure; these are the same grounds on which SES-exposure reports were placed in the
-narrative rather than the quantitative synthesis.
+The other 15 ambiguous abstracts were confirmed correctly excluded (imaging/sonographic series;
+book chapters and narrative reviews; lab or diet studies; single-institution HER2/FISH; drug
+effectiveness; screening-modality comparison; family-history and environmental-chemical
+case-control; late-stage/metastasis burden), as were the remaining 101 title-decidable records
+(non-US, mortality/survival/outcome, risk-factor, genetic, treatment, male/transgender, editorial,
+hospital-based).
 
-**Conclusion.** In this random sample of 200 model-excluded records, no eligible US
-population-based breast-cancer-incidence-by-race study was wrongly excluded. This checks the
-screening step for false negatives; it does not replace independent dual screening, which was not
-performed (a stated limitation).
+**Conclusion.** One eligible study surfaced in the 200-record sample (~0.5%), indicating a small but
+non-zero false-negative rate. Single-reviewer screening with model assistance, rather than
+independent dual screening, is a limitation. The one study found was moved out of the excluded set.
 
-**Omissions found elsewhere and their follow-up.** Two rounds of source re-verification did find
+**Omissions found elsewhere and their follow-up.** Two rounds of source re-verification also found
 extractable data missed on first pass, all among *included* reports, and all were corrected:
 - six overlapping-registry reports initially deferred were extracted and added to the sensitivity pool;
 - four reports first placed in the narrative set were moved to the quantitative synthesis after their
