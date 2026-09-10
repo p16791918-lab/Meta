@@ -66,3 +66,14 @@ Table 1의 rate CI로 delta method 재계산해 교체할 수 있다(점추정�
 **요약**: 원문 직접 보고값 중 통계적으로 신뢰하기 어려운 것은 **Loo 2019의 IRR CI**뿐이며, PDF Table 1
 검증으로 **원문 rate CI는 정상·IRR CI만 오류**임이 확정됨 → Table 1 rate CI로 재계산해 교체 가능.
 나머지 좁은 CI는 대규모 national 전수라 정상.
+
+---
+## 대표 22개 원문-표 전수 대조 (사용자 요청, poppler 설치 후)
+provenance별로 원문 layout 텍스트/이미지와 대조:
+- **18개 ✓**: rate·IRR·CI가 원문과 직접 일치 (10, 28, 49, 146, 169, 200, 265, 286, 324, 485, 522, 587, 1478, 2406, 2510, 3182, 3267, 3662, 4040 — Nash/Kong/Xu/Ellington/Gleason/Anderson/Ihenacho/Nasseri/Yazzie/Sung2020/Melkonian/Pinheiro/Kem/Miller 등).
+- **rec 2 Howlader**: all-ages subtype rate가 원문 본문에 없으나 이는 정상 — Supplement Table 3의 age-specific rate를 2000 US로 우리가 표준화한 값(DERIVATIONS §1, anchor 검증됨).
+- **rec 234 Gomez 2026**: subgroup rate·rate-CI 원문 일치; NHW 분모 139.5는 eTable3(Supplement, DERIVATIONS §4 기록) — 이번 세션 재확인은 PMC egress 차단으로 불가.
+- **rec 155 Sung 2023**: PDF 부재, txt로 national rate 검증(Black 25.2/White 12.9 등).
+- **rec 161 Loo 2019**: 유일한 실제 데이터 오류(IRR CI) — Table 1 rate CI로 재계산해 교체 예정.
+
+**결론**: 22개 대표 중 실제 데이터 오류는 Loo CI 하나. 나머지는 원문 대조로 검증되었거나 Supplement 기반으로 문서화됨.
