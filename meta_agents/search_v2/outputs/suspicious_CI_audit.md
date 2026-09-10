@@ -77,3 +77,12 @@ provenance별로 원문 layout 텍스트/이미지와 대조:
 - **rec 161 Loo 2019**: 유일한 실제 데이터 오류(IRR CI) — Table 1 rate CI로 재계산해 교체 예정.
 
 **결론**: 22개 대표 중 실제 데이터 오류는 Loo CI 하나. 나머지는 원문 대조로 검증되었거나 Supplement 기반으로 문서화됨.
+
+---
+## overlap-only quant 25편 원문 대조 (사용자 질문 "quant 다 봤냐"에 따라)
+provenance별 layout 대조: 22편 값 원문 일치. 이슈 3편도 확인 완료:
+- rec 51 (Nash 2022): external SEER-Explorer NHW 137.4 — 원문에 없는 게 정상(external anchor, DERIVATIONS §4).
+- rec 419 (Amirikia 2011): Table 2의 age-group별 TNBC rate를 2000 US 표준화 → NHB 23.6/NHW 12.6/Hisp 10.2 재현(이미지 표 렌더링 확인, DERIVATIONS §1).
+- rec 500 (Gopalani 2020): AI/AN breast RR 0.56 [0.55–0.57] 원문 확인(CI 표기 차이로 자동 대조가 놓쳤을 뿐).
+
+**결론: quant 48편(대표 23 + overlap 25) 전수 원문 대조 완료. 실제 데이터 오류는 Loo 하나뿐이었고 해결됨.**

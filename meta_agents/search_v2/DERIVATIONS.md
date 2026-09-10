@@ -21,6 +21,12 @@ with how it was derived, so each is reproducible. Estimates reported by the sour
   - IRR is invariant to the 20+ vs all-age standard (ages 0–19 contribute ≈0 to
     both numerator and denominator).
 
+- **rec 419 (Amirikia 2011, CCR).** Table 2 gives TNBC rates by 5 age groups
+  (0–39, 40–49, 50–59, 60–74, ≥75) per race; standardized to the 2000 US standard
+  (P25-1130 group weights) → all-ages TNBC rates NHB 23.6, NHW 12.6, Hispanic 10.2
+  (reproduces our values). IRR = minority/NHW (point; source gives per-age CIs only):
+  Black 1.87, Hispanic 0.81.
+
 ## 2. IRR computed from race-specific rates ± CIs
 IRR = minority_rate / NHW_rate. With both rate CIs: SE(logIRR) =
 sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenance
