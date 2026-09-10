@@ -59,6 +59,12 @@
 - **Loo 2019(rec 161)**: 원문 CI열 내부모순(1.34 CI 1.347-1.351, 0.58 CI 0.46-0.53 — 점추정 제외) → 해당 셀 점추정화. 누락된 Japanese TNBC 1.07 추가 추출.
 - **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
 
+**추가 재검토(핵심 요구였는데 초기 '완료'에서 빠졌던 부분)**:
+- **총사건수 Poisson CI를 age-standardized 발생률비에 적용한 부분 재검토**(Supplementary Note 1 = DERIVATIONS §3): 해당 행은 rec 169(Ellington)·182(Cronin)·49(Mills)·3267(Kem). 각 원문의 rate SE/CI 제공 여부를 확인.
+  - **rec 182(Cronin)**: 원문이 Black 116.9[116.2–117.6]/White 122.1[121.8–122.3] **rate CI를 보고** → 총사건수 Poisson을 버리고 **delta method로 전환**(0.957 [0.944,0.971]→**[0.951,0.963]**).
+  - **rec 169(Ellington)·49(Mills)·3267(Kem)**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → **근사임을 Methods와 DERIVATIONS §3에 명시**("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
+  - DERIVATIONS의 부정확한 "rec 203, rec 182" 표기 정정(rec 203은 directly-reported-IRR).
+
 ## 항목 5. 연구 간 비교 한계·민감도 해석 반영 — ⬜ 예정
 "standard population largely cancels" 수정, "contemporary benchmark" 재검토, Figure 2에 이질 출처 명시, Japanese 등 방향전환 설명.
 

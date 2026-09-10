@@ -2,7 +2,7 @@
 
 | Estimator | IRR | tau2 | I2%% | z-based 95%% CI | HKSJ 95%% CI |
 |----|----|----|----|----|----|
-| DL | 0.951 | 0.0012 | 99 | 0.933-0.971 | 0.923-0.981 |
+| DL | 0.951 | 0.0011 | 99 | 0.934-0.970 | 0.923-0.981 |
 | PM/REML | 0.952 | 0.0022 | 99 | 0.926-0.977 | 0.923-0.981 |
 
 DL and Paule-Mandel/REML tau2 differ; HKSJ widens the CI relative to the z-based interval. The high I2 is attributable to pooling non-independent overlapping registry estimates, not to real biological heterogeneity; the main analysis avoids it by using one representative per registry family.

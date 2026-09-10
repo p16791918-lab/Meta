@@ -53,13 +53,17 @@ The records in each class:
 ## 3. Poisson SE from case counts
 Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =
 sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`.
+**Limitation (Feedback4 #4):** these are age-standardized rates, so a total-count Poisson SE
+does not fully capture the age-specific weighting of the variance; it is a deliberate approximation
+used only where the source reported no rate SE or interval. Where a source did report rate CIs the
+CI is instead propagated by the delta method (§1, §4, §4b) — e.g. rec 182 (Cronin) was moved to a
+delta-method CI from its printed rate CIs (Black 116.9 [116.2–117.6], White 122.1 [121.8–122.3]),
+giving 0.957 [0.951, 0.963] in place of the earlier total-count Poisson interval.
 - **rec 169 (USCS).** Aggregate age-adjusted rates for women aged ≥20
   (USCS, ~99% coverage): Black 174.0, Hispanic 134.0, Asian/PI 143.5, AI/AN 127.3, vs
   NHW 186.5; the paper reports rates, not ratios. IRR = minority / 186.5, with the CI
   from the annual case counts (e.g., Black 0.933 [0.920, 0.946], Hispanic 0.718
   [0.707, 0.731]). This supplies three of the four aggregate overall estimates.
-- **rec 203, rec 182.** Rates with case counts but no
-  ratio CI; SE(logIRR) from the counts as above.
 - **rec 49 (Hmong-California).** Hmong female breast AAIR 23.8 (39
   cases) vs NHW 145.5; only the Hmong case count (39) is available, so SE(logIRR)
   = 1/sqrt(39) = 0.160 with the large NHW denominator treated as fixed

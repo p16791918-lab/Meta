@@ -127,7 +127,14 @@ age-standardized rates rather than a ratio, the IRR was computed from the minori
 rates of the same study, standard population, and diagnosis period, and its confidence interval
 was propagated from the reported rate intervals by the delta method when both rates carried an
 interval, or by scaling the minority-rate interval when the reference rate was a fixed population
-benchmark without a reported interval. Each representative therefore
+benchmark without a reported interval. Where a source gave the rates and the underlying case counts
+but no rate interval, the interval was approximated from the counts on a Poisson assumption
+(SE(log IRR) = √(1/D_minority + 1/D_NHW), D = cases); this approximation treats the age-standardized
+rate as though its variance were that of the total case count and so does not fully reflect the
+age-specific weighting, and it was used only where the source reported neither a rate standard error
+nor a rate interval (four aggregate estimates and two small single-group rates). Where even the case
+count was unavailable, the estimate was carried as a point estimate without a confidence interval.
+Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
 source reported a standardized incidence ratio (SIR) rather than an IRR (South Asian women against
 a US White standard); because an SIR indirectly standardizes to the reference population's age
