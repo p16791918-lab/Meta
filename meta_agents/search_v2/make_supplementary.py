@@ -124,8 +124,27 @@ def _ident(r):
 _rep = {}
 for rr in rd("TableSA_main_representatives.csv"):
     rid = rr["record_id"]
-    d = _rep.setdefault(rid, {"rep": 0, "ov": 0})
-    d["rep" if rr["main_analysis"].startswith("yes") else "ov"] += 1
+    d = _rep.setdefault(rid, {"rep": 0, "ov": 0, "sel": set(), "nosel": set()})
+    reason = (rr.get("representative_reason", "") or "").lower()
+    ma = (rr.get("main_analysis", "") or "").lower()
+    if ma.startswith("yes"):
+        d["rep"] += 1
+        if "sole" in reason:
+            d["sel"].add("sole estimate in the cell")
+        else:
+            d["sel"].add("best in the cell by coverage/recency/comparator")
+    else:
+        d["ov"] += 1
+        if "undercount" in reason or "undercount" in ma:
+            d["nosel"].add("unlinked registry (AI/AN undercount) outranked by an IHS-linked source")
+        elif "external" in ma or "external" in reason:
+            d["nosel"].add("uses an external (out-of-paper) NHW reference")
+        elif "no usable irr" in ma:
+            d["nosel"].add("reports no usable rate ratio")
+        elif "registry-direct" in ma:
+            d["nosel"].add("registry-direct anchor, not a screened study")
+        else:
+            d["nosel"].add("superseded within its registry family by a broader-coverage or more-recent representative")
 
 
 def _role(r):
@@ -139,10 +158,15 @@ def _role(r):
         return "Quantitative (extractable)"
     if c["rep"]:
         s = "Representative for %d cell%s" % (c["rep"], "s" if c["rep"] > 1 else "")
+        if c["sel"]:
+            s += " (selected: %s)" % "; ".join(sorted(c["sel"]))
         if c["ov"]:
             s += "; overlap for %d" % c["ov"]
         return s
-    return "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
+    s = "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
+    if c["nosel"]:
+        s += " — not selected: %s" % "; ".join(sorted(c["nosel"]))
+    return s
 
 
 rows = []
@@ -157,12 +181,16 @@ for r in inc:
 TB(["Study (author, year)", "Study design", "Data source", "Role in synthesis", "PMID / DOI"], rows,
    [3000, 1900, 1800, 2700, 1300])
 P("Role in synthesis records, for each study, whether quantitative data were extractable and how the "
-  "study was used: “Representative for N cell(s)” = supplied the main-analysis benchmark for N analytic "
-  "cells (group × dimension); “overlap for M” = also contributed M overlapping estimates carried only in "
-  "the sensitivity re-selection; “Overlap/sensitivity only” = every estimate overlapped a cell already "
-  "represented by another study; “Narrative only” = met inclusion but reported no recoverable NHW "
-  "comparison. One representative is selected per analytic cell (selection criteria in Methods and "
-  "Supplementary Table 4).", True)
+  "study was used, with the reason it was or was not selected as a cell representative: “Representative "
+  "for N cell(s)” = supplied the main-analysis benchmark for N analytic cells (group × dimension), with "
+  "the selection basis in parentheses (sole estimate in the cell, or best in the cell by "
+  "coverage/recency/comparator); “overlap for M” = also contributed M overlapping estimates carried only "
+  "in the sensitivity re-selection; “Overlap/sensitivity only” = every estimate overlapped a cell already "
+  "represented by another study, followed by why it was not selected (superseded within its registry "
+  "family by a broader-coverage or more-recent representative; an unlinked registry outranked by an "
+  "IHS-linked source for AI/AN; an external out-of-paper NHW reference; or no usable rate ratio); "
+  "“Narrative only” = met inclusion but reported no recoverable NHW comparison. One representative is "
+  "selected per analytic cell (selection criteria in Methods and Supplementary Table 4).", True)
 PB()
 
 # ---- S4 excluded (no record_id) ----
