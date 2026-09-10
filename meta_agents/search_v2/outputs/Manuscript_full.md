@@ -3,8 +3,8 @@
 ## Abstract
 
 **Background.** In the United States, breast cancer incidence is usually reported for broad racial
-and ethnic categories. Each category is internally diverse—spanning subgroups defined by
-ancestry, nativity, and region, with receptor-defined subtypes cutting across them—so an aggregate
+and ethnic categories. Each category is internally diverseâspanning subgroups defined by
+ancestry, nativity, and region, with receptor-defined subtypes cutting across themâso an aggregate
 rate does not show which subgroups are at highest and lowest risk. Estimates for these subgroups come from
 separate cancer-registry studies differing in populations, periods, and reference groups, and not
 yet assembled on a common scale.
@@ -14,15 +14,15 @@ female invasive breast cancer incidence by race or ethnicity;
 those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
 dimension was selected, not pooled; for American Indian and Alaska Native (AI/AN) populations, an
-Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an incidence rate ratio (IRR) versus NHW;
+Indian Health Serviceâlinked estimate was preferred to counter registry undercounting. Each was an incidence rate ratio (IRR) versus NHW;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 162 studies were included—49 eligible for quantitative
-synthesis and 113 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 162 studies were included—50 eligible for quantitative
+synthesis and 112 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
-Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
+Within-group estimates ranged widelyâ0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
 subgroups, 0.51 (Mexican) to 0.83 (Puerto Rican) by Hispanic origin, and 0.49 (Navajo area) to
 1.33 (Southern Plains) across AI/AN regions. For
 triple-negative breast cancer, incidence was highest in NHB women (1.95).
@@ -97,9 +97,13 @@ random sample of the records the model had excluded and recorded any that should
 retained. The author then obtained and read the full texts and made all full-text eligibility
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
-against the source table, figure, or text. In all, 162
-publications were included in the systematic review; of these, 49 were eligible for quantitative
-synthesis and the remaining 113 informed the narrative synthesis. Most included studies were population-based registry or incidence
+against the source table, figure, or text. During this source re-verification, two reports first
+placed in the narrative set were moved to the quantitative synthesis once their source tables were
+read in full—one reporting national USCS incidence rate ratios versus NHW women for those aged
+20–49 years and one for those aged 65 years and older—because each carried directly reported,
+age-adjusted rate ratios that an initial text-only pass had missed. In all, 162
+publications were included in the systematic review; of these, 50 were eligible for quantitative
+synthesis and the remaining 112 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -153,7 +157,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 49 extracted studies
+large-language-model assistance, and every item was recorded for all 50 extracted studies
 (Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.
@@ -164,8 +168,26 @@ age-standardized rates rather than a ratio, the IRR was computed from the minori
 rates of the same study, standard population, and diagnosis period, and its confidence interval
 was propagated from the reported rate intervals by the delta method when both rates carried an
 interval, or by scaling the minority-rate interval when the reference rate was a fixed population
-benchmark without a reported interval. Each representative therefore
+benchmark without a reported interval. Where a source gave the rates and the underlying case counts
+but no rate interval, the interval was approximated from the counts on a Poisson assumption
+(SE(log IRR) = √(1/D_minority + 1/D_NHW), D = cases); this approximation treats the age-standardized
+rate as though its variance were that of the total case count and so does not fully reflect the
+age-specific weighting, and it was used only where the source reported neither a rate standard error
+nor a rate interval (four aggregate estimates and two small single-group rates). Where even the case
+count was unavailable, the estimate was carried as a point estimate without a confidence interval.
+Each representative therefore
 rested on a directly reported ratio or on minority and reference rates from the same source. One
+source reported a standardized incidence ratio (SIR) rather than an IRR (South Asian women against
+a US White standard); because an SIR indirectly standardizes to the reference population's age
+structure rather than expressing two directly standardized rates on a common standard, it was read
+on the same relative-to-White scale but labelled as an SIR (Supplementary Table 4) and excluded
+from the directly-reported-IRR sensitivity analysis. The standard population was recorded as each
+source stated it—2000 US for most, with a 1970 world or 1970 US standard in a few older studies and
+the 1960 Segi world standard in one; SEER*Stat and USCS age-adjusted rates use the 2000 US standard
+by default, and that default was recorded where a study reported rates from those programs without
+naming a standard. Where a source neither stated a standard population nor produced its rates through
+such a program (one small-area Bayesian analysis), the standard was recorded as not stated rather
+than inferred from the size of the rates. One
 estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference,
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
@@ -186,14 +208,14 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 242 reports; 9 could not be
-retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 49 were eligible for
-quantitative synthesis and entered the analysis, contributing 169 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—22 supplied
+retrieved, and of the 233 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 162 included studies (Figure 1). Of these, 50 were eligible for
+quantitative synthesis and entered the analysis, contributing 184 individual estimates across
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 113 informed the narrative synthesis (162 = 49 + 113). The extracted studies were published
+sensitivity analysis; the remaining 112 informed the narrative synthesis (162 = 50 + 112). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates, 76 representative estimates remained, one per analytic
+overlapping registry-family estimates, 83 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
@@ -247,9 +269,13 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 114 narrative-synthesis studies met the inclusion criteria but did not
-report an IRR, or age-standardized rates, from which a comparison with an
-NHW reference could be recovered; they are listed by category in Supplementary
+The 112 narrative-synthesis studies met the inclusion criteria but contributed no
+independent quantitative estimate—most because they did not report an IRR, or
+age-standardized rates, from which a comparison with an NHW reference could be
+recovered, and a small number of multi-registry summary reports (for example, the
+annual reports to the nation and the annual cancer-statistics summaries) because
+they re-reported registry incidence already quantified from the dedicated primary
+study for the same registry and period; they are listed by category in Supplementary
 Table 2. These
 reports most often described incidence within specific racial or ethnic subgroups, by age group, and
 over time, with others addressing geographic or socioeconomic variation, molecular subtype, and
@@ -261,14 +287,14 @@ standard populations, and reporting formats, their results were summarized quali
 placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 39 of the 49 studies were at low risk of bias and 10 at moderate risk, with
+On the JBI checklist, 39 of the 50 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to
-low-risk-of-bias studies left 58 of 76 cell representatives unchanged, with the 8 changed and 10
+low-risk-of-bias studies left 52 of 83 cell representatives unchanged, with the 16 changed and 15
 dropped cells concentrated in the disaggregated AANHPI subgroups and the age-specific cells;
-restricting to directly reported estimates left 39 unchanged (5 changed, 32 dropped); and
-restricting to NHW-comparator estimates left 58 unchanged (1 changed, 17 dropped), the dropped
+restricting to directly reported estimates left 31 unchanged (5 changed, 47 dropped); and
+restricting to NHW-comparator estimates left 64 unchanged (1 changed, 18 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
@@ -310,7 +336,11 @@ representative and the earlier one retained for sensitivity. The IHS-linked regi
 (1.05), Alaska Native women (1.09, confidence interval spanning 1.0), and the Southern Plains
 (1.33). The lower unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
-depends on how completely cases are ascertained.³⁴,⁴⁸ Second, reference
+depends on how completely cases are ascertained.³⁴,⁴⁸ The IHS-linked correction, however, was
+available only for the aggregate and regional estimates: no Indian Health Service–linked source
+reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
+HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and are likely to
+understate the true rates. Second, reference
 groups differed across sources—most used an NHW comparator and a minority an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
@@ -331,7 +361,8 @@ not examined.
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
 which can move a ratio slightly. Included studies differed in standard population and diagnosis period, limiting
-direct comparability, and one older study used the 1970 world standard. The review was restricted to
+direct comparability, and a few older studies used a 1970 standard population (world or US) and one
+the 1960 Segi world standard. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the

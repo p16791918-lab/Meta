@@ -72,14 +72,14 @@ def main():
     incx, incw = 1.3, 8.7
     box(ax, incx, 3.0, incw, 1.3,
         "Studies included in the review (n = 162)\n"
-        "Quantitative synthesis: 48 studies   |   Narrative synthesis only: 114",
+        "Quantitative synthesis: 50 studies   |   Narrative synthesis only: 112",
         fc="#cfe6d4")
     arrow(ax, lmx + lmw / 2, 5.4, lmx + lmw / 2, 4.3)
 
     box(ax, incx, 1.0, incw, 1.4,
-        "Studies contributing ≥1 estimate to the quantitative synthesis (n = 48)\n"
-        "176 extracted estimates → 79 representative estimates (one per analytic cell), from 23 studies;\n"
-        "the remaining 25 studies contributed only overlapping estimates to the sensitivity analysis",
+        "Studies contributing ≥1 estimate to the quantitative synthesis (n = 50)\n"
+        "184 extracted estimates → 83 representative estimates (one per analytic cell), from 24 studies;\n"
+        "the remaining 26 studies contributed only overlapping estimates to the sensitivity analysis",
         fc="#cfe6d4", fs=7.0)
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
 

@@ -69,7 +69,42 @@
 "standard population largely cancels" 수정, "contemporary benchmark" 재검토, Figure 2에 이질 출처 명시, Japanese 등 방향전환 설명.
 
 ## 항목 6. 서술적 종합·검토 절차 보고 완성 — ⬜ 예정
-narrative 114편 주제별 정리+근거 연결, LLM 모델·역할·재검토 표본·누락 보고, PROSPERO 상태 정리, JBI Q9 표기 정합·RoB 판정 기준.
+narrative 112편 주제별 정리+근거 연결, LLM 모델·역할·재검토 표본·누락 보고, PROSPERO 상태 정리, JBI Q9 표기 정합·RoB 판정 기준.
+
+---
+
+## 추가 검증. narrative 전편 이미지-표 기준 재대조 (사용자 "narrative는") — ✅ 완료
+
+quant 48편을 poppler 렌더링으로 전수 대조한 것과 동일한 기준을 **narrative 114편에도 적용**해,
+"인종 × 유방암 발생률 × NHW 비교"가 이미지 표에 숨어 있어 정량 추출이 가능한데도 초기 텍스트 추출이
+놓친 논문(Howlader형)을 찾음. 방법: `pdftotext -layout` + 유니코드 하이픈 정규화로 (a) 소수인종·White
+발생률 공존 행, (b) `[Reference]`+IRR(95% CI) 패턴을 전편 스캔 후, 후보를 원문 표로 직접 판독.
+
+**결과 — 실제 누락 정량 2편을 quant로 재분류(48→50)**:
+- **rec 369 (Shoemaker 2018, Breast Cancer Res Treat; USCS/NPCR+SEER 99.1%, 2004-2013)**: Table 1이
+  20-49세 여성의 **2000 US 표준화 IRR vs NHW(Tiwari CI)**를 직접 보고 — Black 1.03[1.02,1.04],
+  Asian/PI 0.85[0.84,0.86], AIAN 0.70[0.68,0.73], Hispanic 0.74[0.74,0.75]. 초기 강등 사유
+  "not age-adjusted vs-NHW IRR"는 **사실오류**(표가 이미지라 텍스트 패스가 놓침). age-lt50 셀의
+  대표로 편입(커버리지 tier 9 > 기존 rec 146 SEER tier 6 → rec 146은 sensitivity overlap으로 이동).
+- **rec 14 (Lee Argov 2024, JAMA Netw Open; USCS ~99%, 2001-2019)**: Table 1이 **≥65세 여성의
+  age-adjusted IRR vs NHW**를 직접 보고 — Hispanic 0.70[0.69,0.70], AIAN 0.72[0.70,0.73],
+  Asian/PI 0.62[0.62,0.63], Black 0.93[0.93,0.94]. "trend-dominant"으로 강등됐으나 우측 정렬 표를
+  놓친 것. ≥65는 기존 age-ge50(≥50)과 다른 밴드이므로 **age-ge65 신규 차원 4셀**로 편입.
+- 두 편 모두 JBI Low RoB. RoB 37/48→**39/50 Low**, 11 Moderate 유지.
+
+**narrative 유지가 옳다고 확인된 주요 후보(오분류 아님)**:
+- **사례-사례 subtype 분포 OR**(발생률비 아님): rec 3861(CCR Asian subtype OR), rec 3780(Kaiser
+  코호트 HR; 인구기반 registry 아님).
+- **생존/사망 HR**: rec 1336(race×subtype "1(Ref)…2.33"은 survival HR; 발생은 joinpoint 그림).
+- **추세지표(EAPC/APC/drift)**: rec 2302, rec 405, rec 31, rec 1106, rec 2453 등.
+- **노출·SES 비교군**(NHW 대조 아님): rec 3640(구조적 인종주의 rate ratio), rec 226·448·474·427·541.
+- **연령-교차 미세밴드**(요약 IRR 없음): rec 17, rec 103.
+- **형태학적 아형**(수용체 아형 범위 밖, ILC/IDC/IBC): rec 259·3845(IBC), rec 426(ILC), rec 425(IDC).
+- **지역 하위집단**(자체 비교가 Delta vs non-Delta): rec 93 — race×subtype rate는 계산가능하나
+  전국 대표와 overlap, 자체 비교축이 지리적이라 narrative/sensitivity 등급.
+- **비표준 표준화 의심**: rec 436(2000-2023 전국) — Black/White = 174.9/228.9 = **0.76**으로 전국
+  합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, `suspicious_CI_audit`에 flag하고
+  narrative 유지(대표 대체 불가).
 
 ## 항목 7. 리뷰 기여 명확화·제출자료 최종 점검 — ⬜ 예정
 기존 연구 대비 추가 확인점, 연구 간 일치/불일치·비교가능성·근거부족 집단, 본문·표·그림 수치/번호·비교군·민감도 목록 정합, PDF 그림 잘림.
