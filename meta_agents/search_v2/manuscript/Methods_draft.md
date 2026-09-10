@@ -61,8 +61,8 @@ retained. The author then obtained and read the full texts and made all full-tex
 and inclusion decisions personally; the language model assisted data extraction and cross-checked
 each extracted value against its source, and every included estimate was verified by the author
 against the source table, figure, or text. In all, 162
-publications were included in the systematic review; of these, 49 were eligible for quantitative
-synthesis and the remaining 113 informed the narrative synthesis. Most included studies were population-based registry or incidence
+publications were included in the systematic review; of these, 48 were eligible for quantitative
+synthesis and the remaining 114 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -116,7 +116,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 49 extracted studies
+large-language-model assistance, and every item was recorded for all 48 extracted studies
 (Supplementary Table 5). Certainty of evidence was not graded,
 because the review describes and compares population-based incidence rather than estimating a
 causal effect for which a GRADE-type certainty rating would be appropriate.

@@ -49,16 +49,16 @@ aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",1
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.792," [0.784, 0.800]",234,unchanged,2,2
 disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.958," [0.937, 0.979]",234,unchanged,3,2
 disaggregated-AANHPI,Cambodian,,0.264," [0.204, 0.341]",3267,0.264," [0.204, 0.341]",3267,unchanged,1,1
-disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.760," [0.745, 0.775]",234,unchanged,6,6
-disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,0.857," [0.839, 0.874]",234,unchanged,5,5
+disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.760," [0.745, 0.775]",234,unchanged,5,5
+disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,0.857," [0.839, 0.874]",234,unchanged,4,4
 disaggregated-AANHPI,Guamanian/Chamorro/Samoan,,0.723," [0.641, 0.817]",234,0.723," [0.641, 0.817]",234,unchanged,1,1
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
-disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,1.045," [1.009, 1.083]",234,unchanged,5,5
-disaggregated-AANHPI,Korean,,0.677," [0.654, 0.701]",234,0.677," [0.654, 0.701]",234,unchanged,7,7
+disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,1.045," [1.009, 1.083]",234,unchanged,4,4
+disaggregated-AANHPI,Korean,,0.677," [0.654, 0.701]",234,0.677," [0.654, 0.701]",234,unchanged,6,6
 disaggregated-AANHPI,Laotian/Kampuchean,,0.388," [0.350, 0.430]",234,0.388," [0.350, 0.430]",234,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,2
 disaggregated-AANHPI,Native Hawaiian/PI (aggregate),,1.212," [1.168, 1.258]",234,1.212," [1.168, 1.258]",234,unchanged,1,1
-disaggregated-AANHPI,Vietnamese,,0.586," [0.566, 0.608]",234,0.586," [0.566, 0.608]",234,unchanged,5,5
+disaggregated-AANHPI,Vietnamese,,0.586," [0.566, 0.608]",234,0.586," [0.566, 0.608]",234,unchanged,4,4
 disaggregated-MENA,Middle Eastern,,0.86," [0.84, 0.88]",587,0.86," [0.84, 0.88]",587,unchanged,1,1
 subtype-HRneg,Black,,1.796," [1.740, 1.853]",10,1.796," [1.740, 1.853]",10,unchanged,2,1
 subtype-HRneg-HER2pos,Asian American (aggregate),,1.21," [1.12, 1.30]",324,1.21," [1.12, 1.30]",324,unchanged,1,1

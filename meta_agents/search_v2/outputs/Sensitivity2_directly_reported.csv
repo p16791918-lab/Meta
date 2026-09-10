@@ -21,16 +21,16 @@ age-lt50,Japanese,,1.479," [1.252, 1.748]",522,,,,dropped,1,0
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,,,,dropped,1,0
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,,,,dropped,2,0
 disaggregated-AANHPI,Cambodian,,0.264," [0.204, 0.341]",3267,,,,dropped,1,0
-disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,,,,dropped,6,0
-disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,,,,dropped,5,0
+disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,,,,dropped,5,0
+disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,,,,dropped,4,0
 disaggregated-AANHPI,Guamanian/Chamorro/Samoan,,0.723," [0.641, 0.817]",234,,,,dropped,1,0
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,,,,dropped,1,0
-disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,,,,dropped,5,0
-disaggregated-AANHPI,Korean,,0.677," [0.654, 0.701]",234,,,,dropped,7,0
+disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,,,,dropped,4,0
+disaggregated-AANHPI,Korean,,0.677," [0.654, 0.701]",234,,,,dropped,6,0
 disaggregated-AANHPI,Laotian/Kampuchean,,0.388," [0.350, 0.430]",234,,,,dropped,1,0
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,,,,dropped,2,0
 disaggregated-AANHPI,Native Hawaiian/PI (aggregate),,1.212," [1.168, 1.258]",234,,,,dropped,1,0
-disaggregated-AANHPI,Vietnamese,,0.586," [0.566, 0.608]",234,,,,dropped,5,0
+disaggregated-AANHPI,Vietnamese,,0.586," [0.566, 0.608]",234,,,,dropped,4,0
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,,,,dropped,1,0
 subtype-ERpos-PRneg,Black,,0.974," [0.925, 1.027]",200,,,,dropped,1,0
 subtype-HRneg,Black,,1.796," [1.740, 1.853]",10,,,,dropped,2,0
