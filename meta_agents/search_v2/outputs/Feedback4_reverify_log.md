@@ -34,7 +34,7 @@
 | 200 | Gleason2012_SEER | ✅ | SEER-17 2004-2008, black/white만 분류(Hispanic 미층화)→비교군 **unstratified White(†)** 확인. cumulative incidence(CIR) 사용이라 rate 값 큼(비율은 정확). receptor-defined subtype(ERpos-PRneg/ERneg-PRpos) 대표는 † |
 | 203 | Brinton2008_SEER13 | ✅ | younger women 1992-2004, NHW ref(173.2). Black 146.9/173.2=0.85 원문 일치(IRR 직접) |
 | 209 | Zhang2022 | ✅ | TNBC 2019, NHW ref(12.8). Black 25.0/Hisp 11.5/AIAN 9.4/API 9.5 원문 일치(point). TNBC overlap |
-| 234 | Gomez2026_SEER21 | ✅ | SEER-21 2018-2022, 여성, NHW ref(rate 139.5), 2000 US 확인. 11개 AANHPI subgroup 완전(Other Asian/Other PI는 원문도 rate 미계산). rate 스팟체크 일치(NH 177.2/Laotian 54.1/Chinese 106.0). subtype rate는 Supplement online이라 미추출 |
+| 234 | Gomez2026_SEER21 | ✅✅ | SEER-21 2018-2022, 여성, 2000 US. subgroup rate 원문 일치. **NHW 분모 139.5 = eTable3(Supplement) 렌더링으로 확정**(139.5[139.0,140.0]); aggregate IRR 교차검증 전부 일치(NHB 131.2/Hisp 104.0/AIAN 98.7/AANHPI 112.9 ÷139.5), Black TNBC 25.4/12.7=2.0도 확인. Supplement=fulltext/234_suppl.pdf |
 | 236 | Gomez2010 | ✅ | CA 1988-2004, 여성, NHW ref(146.1). 5개 subgroup rate 원문 일치(Chinese 73.5/Japanese 102.5/Filipina 100.4/Korean 46.3/Vietnamese 59.9). migrant-status 층화는 분석단위 밖 |
 | 265 | Anderson2008_SEER | ✅ | black/white crossover, 2008, **unstratified White(†)**. age-lt40 1.183(15.5/13.1)/age-ge40 0.851(239.5/281.3). age-specific |
 | 286 | Kong2020_SEER18 | ✅ | SEER, 2010-2015, 여성, NHW ref, 2000 US 확인. 기존 10개 subtype 값 원문 완전 일치. **추가 추출**: overall aggregate 4셀(Black 1.04, API 0.90, AI/AN 0.82, Hispanic 0.79)과 AI/AN HR+/HER2- 0.74(AI/AN subtype 유일 추정치→대표, 단 unlinked SEER). AI/AN overall 0.82는 unlinked라 override로 대표 아님(Melkonian 0.87 유지). ⚠️판단: AI/AN subtype 대표가 unlinked SEER임(다른 자료 없음) |
