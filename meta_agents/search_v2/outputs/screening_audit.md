@@ -15,13 +15,13 @@ recoverable estimate).
 record that had been wrongly excluded:
 - **rec 3720** — "Neighborhood social determinants of triple negative breast cancer." A Louisiana
   Tumor Registry study of TNBC diagnosed 2010–2012 that reports, controlling for age, that **African
-  American women had 2.21 times the TNBC incidence of European American women**. This is an eligible
-  US population-based incidence-by-race estimate. Its full text could not be obtained in this
-  workflow, so—like the four other abstract-only inclusions (80, 402, 1637, 1800)—it was **added to
-  the narrative synthesis** rather than extracted (excluded count 4,551 → 4,550; included 162 → 163;
-  narrative 110 → 111). Its direction agrees with the higher NHB triple-negative burden in the
-  quantitative synthesis, and as a single-state estimate it would at most be a sensitivity overlap of
-  the national NHB TNBC representative (1.95), changing no result.
+  American women had 2.21 times the TNBC incidence of European American women** (Table 2, model 1,
+  age-adjusted; Black-vs-White RR = 2.21, 95% CI 1.96–2.48; White = reference). This is an eligible
+  US population-based incidence-by-race estimate. The full text was subsequently obtained (PMID
+  30834239), and the study was **added to the quantitative synthesis** as a regional overlapping
+  estimate for the NHB triple-negative cell (excluded count 4,551 → 4,550; included 162 → 163; quant
+  52 → 53). As a single-state estimate with an unstratified White reference, it is a sensitivity
+  overlap of the national NHB TNBC representative (1.95) and changes no result.
 
 The other 15 ambiguous abstracts were confirmed correctly excluded (imaging/sonographic series;
 book chapters and narrative reviews; lab or diet studies; single-institution HER2/FISH; drug

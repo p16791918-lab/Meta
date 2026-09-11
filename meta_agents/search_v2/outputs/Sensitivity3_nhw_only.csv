@@ -80,5 +80,5 @@ subtype-HRpos-HER2pos,Hispanic,,0.91," [0.88, 0.94]",286,0.91," [0.88, 0.94]",28
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,2,2
 subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,4
-subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,9,9
+subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,10,9
 subtype-TNBC,Hispanic,,0.860," [0.840, 0.880]",155,0.860," [0.840, 0.880]",155,unchanged,6,6

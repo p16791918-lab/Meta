@@ -69,16 +69,16 @@ included set and a sample of the excluded set. To check the screening for false 
 sample of 200 of the model-excluded records was re-screened (reproducible seed): every title and its
 recorded exclusion reason was read, and the abstracts of the records that concerned breast cancer or
 race and ethnicity with incidence were retrieved and read. This re-screen found one wrongly excluded
-record—a Louisiana Tumor Registry triple-negative study reporting an age-adjusted Black-versus-White
-incidence ratio of 2.21—which was added to the review; its full text could not be obtained, so it
-contributes to the narrative synthesis rather than the quantitative synthesis (its direction agrees
-with the higher NHB triple-negative burden reported below). The other 199 were confirmed correctly
-excluded. That one eligible study surfaced in 200 indicates a small residual false-negative rate;
-single-reviewer screening with model assistance, rather than independent dual screening, is a
+record—a Louisiana Tumor Registry triple-negative study—which was added to the review; its full text
+was subsequently obtained, and it entered the quantitative synthesis as a regional overlapping
+estimate for the NHB triple-negative cell (Black-versus-White rate ratio 2.21, 95% CI 1.96–2.48),
+consistent with the higher NHB triple-negative burden reported below. The other 199 were confirmed
+correctly excluded. That one eligible study surfaced in 200 indicates a small residual false-negative
+rate; single-reviewer screening with model assistance, rather than independent dual screening, is a
 limitation (Supplementary, screening audit). The author then obtained and read the full texts and
-made all full-text eligibility and inclusion decisions personally—except for five reports whose full
-text could not be obtained (that Louisiana study and four others), which were assessed and included
-on the basis of their abstracts and enter only the narrative synthesis. The model assisted data
+made all full-text eligibility and inclusion decisions personally—except for four reports whose full
+text could not be obtained, which were assessed and included on the basis of their abstracts and
+enter only the narrative synthesis. The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
 was verified by the author against the source table, figure, or text. This source re-verification rendered every included
 report's tables as page images, not only its extracted text, so that rate ratios printed in
@@ -89,8 +89,8 @@ age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years
 NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
 recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
 national representatives. In all, 163
-publications were included in the systematic review; of these, 52 were eligible for quantitative
-synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
+publications were included in the systematic review; of these, 53 were eligible for quantitative
+synthesis and the remaining 110 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several

@@ -98,10 +98,10 @@
 - **② LLM 모델·역할·재검토 표본·누락 보고(Methods)**: "large language model (Anthropic's Claude)"가
   포함/제외 제안, 저자가 최종 판정. **제외편 중 200편 무작위 재선별(seed 고정)** — 200편 제목·제외사유
   전수 확인 후, 제목만으로 애매한 **16편의 초록을 실제로 열어 판독** → **1편 false negative 발견**:
-  **rec 3720**(Louisiana Tumor Registry TNBC, AA vs EA 연령보정 발생률비 **2.21**) — 적격인데 잘못
-  제외됐음. 전문 입수 불가라 다른 초록-only 포함(80·402·1637·1800)과 동일하게 **narrative로 편입**
-  (제외 4,551→4,550, 포함 162→163, narrative 110→111; 방향은 NHB TNBC 소견과 일치, 단일주라 국가대표
-  1.95의 overlap 수준). 나머지 199편은 정당한 제외 확인. 근거 `outputs/screening_audit.md`. 200편 중
+  **rec 3720**(Louisiana Tumor Registry TNBC, AA vs EA 연령보정 발생률비 **2.21 [1.96,2.48]**,
+  PMID 30834239) — 적격인데 잘못 제외됐음. 이후 교수가 전문 제공 → **quant로 정식 편입**(NHB TNBC
+  sensitivity overlap, White=ref unstratified †, Table 2 model 1). 제외 4,551→4,550, 포함 162→163,
+  quant 52→**53**, narrative 110. 단일주라 국가대표 1.95의 overlap, 결과 불변. 나머지 199편은 정당한 제외 확인. 근거 `outputs/screening_audit.md`. 200편 중
   1편(~0.5%) → 단일선별의 소규모 false-negative 잔존율을 한계로 명시(독립 이중선별 미시행).
   ※ 정직성 정정 이력: 최초 "11편 정독"→"117편 정독(제목판단)"→**"16편 초록 실판독, false negative
   1건"**. 즉 제목만 보고 "0"이라 한 게 틀렸고, 초록을 실제로 열어 3720을 찾음.

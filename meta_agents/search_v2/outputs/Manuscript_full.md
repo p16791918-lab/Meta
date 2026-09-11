@@ -18,8 +18,8 @@ Indian Health Serviceâlinked estimate was preferred to counter registry und
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 163 studies were included—52 eligible for quantitative
-synthesis and 111 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 163 studies were included—53 eligible for quantitative
+synthesis and 110 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widelyâ0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
@@ -106,16 +106,16 @@ included set and a sample of the excluded set. To check the screening for false 
 sample of 200 of the model-excluded records was re-screened (reproducible seed): every title and its
 recorded exclusion reason was read, and the abstracts of the records that concerned breast cancer or
 race and ethnicity with incidence were retrieved and read. This re-screen found one wrongly excluded
-record—a Louisiana Tumor Registry triple-negative study reporting an age-adjusted Black-versus-White
-incidence ratio of 2.21—which was added to the review; its full text could not be obtained, so it
-contributes to the narrative synthesis rather than the quantitative synthesis (its direction agrees
-with the higher NHB triple-negative burden reported below). The other 199 were confirmed correctly
-excluded. That one eligible study surfaced in 200 indicates a small residual false-negative rate;
-single-reviewer screening with model assistance, rather than independent dual screening, is a
+record—a Louisiana Tumor Registry triple-negative study—which was added to the review; its full text
+was subsequently obtained, and it entered the quantitative synthesis as a regional overlapping
+estimate for the NHB triple-negative cell (Black-versus-White rate ratio 2.21, 95% CI 1.96–2.48),
+consistent with the higher NHB triple-negative burden reported below. The other 199 were confirmed
+correctly excluded. That one eligible study surfaced in 200 indicates a small residual false-negative
+rate; single-reviewer screening with model assistance, rather than independent dual screening, is a
 limitation (Supplementary, screening audit). The author then obtained and read the full texts and
-made all full-text eligibility and inclusion decisions personally—except for five reports whose full
-text could not be obtained (that Louisiana study and four others), which were assessed and included
-on the basis of their abstracts and enter only the narrative synthesis. The model assisted data
+made all full-text eligibility and inclusion decisions personally—except for four reports whose full
+text could not be obtained, which were assessed and included on the basis of their abstracts and
+enter only the narrative synthesis. The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
 was verified by the author against the source table, figure, or text. This source re-verification rendered every included
 report's tables as page images, not only its extracted text, so that rate ratios printed in
@@ -126,8 +126,8 @@ age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years
 NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
 recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
 national representatives. In all, 163
-publications were included in the systematic review; of these, 52 were eligible for quantitative
-synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
+publications were included in the systematic review; of these, 53 were eligible for quantitative
+synthesis and the remaining 110 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -238,11 +238,11 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 243 reports; 10 could not be
-retrieved, and of the 234 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 163 included studies (Figure 1). Of these, 52 were eligible for
-quantitative synthesis and entered the analysis, contributing 197 individual estimates across
+retrieved, and of the 234 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 163 included studies (Figure 1). Of these, 53 were eligible for
+quantitative synthesis and entered the analysis, contributing 198 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 111 informed the narrative synthesis (163 = 52 + 111). The extracted studies were published
+sensitivity analysis; the remaining 110 informed the narrative synthesis (163 = 53 + 110). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 83 representative estimates remained, one per analytic
@@ -299,7 +299,7 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 111 narrative-synthesis studies met the inclusion criteria but contributed no
+The 110 narrative-synthesis studies met the inclusion criteria but contributed no
 independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
 rate could be recovered, and a few multi-registry summary reports (for example, the annual
 reports to the nation and the annual cancer-statistics summaries) because they re-reported
@@ -308,7 +308,7 @@ and period. Grouped by theme in Supplementary Table 2, they fall into six overla
 and where they reported a racial or ethnic comparison their findings were broadly consistent
 with the quantitative results.
 
-Molecular subtype and histology was among the largest themes (23 studies): these reports described the
+Molecular subtype and histology (22 studies) described the
 higher triple-negative and hormone-receptor-negative burden in NHB women and the predominance
 of HR+/HER2− disease in NHW women, and extended the picture to inflammatory, lobular, and ductal
 histologies that the receptor-defined cells do not capture. Geography and region (23 studies)
@@ -332,7 +332,7 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 41 of the 52 studies were at low risk of bias and 11 at moderate risk, with
+On the JBI checklist, 42 of the 53 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to

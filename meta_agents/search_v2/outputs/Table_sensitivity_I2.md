@@ -33,5 +33,5 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | subtype-HRpos-HER2pos | Black | 4 | random-effects (PM/REML, HKSJ) | 1.040 (0.949-1.140) | 89 | <0.001 | 1.010 (0.995-1.025) | no |
 | subtype-HRpos-HER2pos | Hispanic | 3 | random-effects (PM/REML, HKSJ) | 0.788 (0.527-1.177) | 93 | <0.001 | 0.910 (0.880-0.941) | no |
 | subtype-TNBC | Asian/PI (aggregate) | 3 | random-effects (PM/REML, HKSJ) | 0.712 (0.551-0.920) | 90 | <0.001 | 0.700 (0.680-0.720) | no |
-| subtype-TNBC | Black | 6 | random-effects (PM/REML, HKSJ) | 1.975 (1.881-2.074) | 83 | <0.001 | 1.950 (1.925-1.975) | no |
+| subtype-TNBC | Black | 7 | random-effects (PM/REML, HKSJ) | 1.992 (1.892-2.096) | 82 | <0.001 | 1.950 (1.925-1.975) | no |
 | subtype-TNBC | Hispanic | 4 | random-effects (PM/REML, HKSJ) | 0.877 (0.793-0.971) | 84 | <0.001 | 0.860 (0.840-0.880) | no |

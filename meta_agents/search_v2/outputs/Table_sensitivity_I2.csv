@@ -28,5 +28,5 @@ subtype-HRpos-HER2neg,Hispanic,3,0.723,0.48,1.088,99,139.27,2,<0.001,"random-eff
 subtype-HRpos-HER2pos,Black,4,1.04,0.949,1.14,89,27.87,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0023,1.01,0.995,1.025,1,no
 subtype-HRpos-HER2pos,Hispanic,3,0.788,0.527,1.177,93,30.74,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0192,0.91,0.88,0.941,1,no
 subtype-TNBC,Asian/PI (aggregate),3,0.712,0.551,0.92,90,20.7,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0094,0.7,0.68,0.72,1,no
-subtype-TNBC,Black,6,1.975,1.881,2.074,83,28.66,5,<0.001,"random-effects (PM/REML, HKSJ)",0.0018,1.95,1.925,1.975,1,no
+subtype-TNBC,Black,7,1.992,1.892,2.096,82,32.75,6,<0.001,"random-effects (PM/REML, HKSJ)",0.0024,1.95,1.925,1.975,1,no
 subtype-TNBC,Hispanic,4,0.877,0.793,0.971,84,18.48,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0025,0.86,0.84,0.88,1,no
