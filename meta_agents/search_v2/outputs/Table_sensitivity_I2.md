@@ -11,10 +11,10 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | age-lt50 | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.903 (0.417-1.957) | 100 | <0.001 | 0.850 (0.840-0.860) | yes |
 | age-lt50 | Black | 2 | random-effects (PM/REML, HKSJ) | 1.021 (0.902-1.156) | 79 | 0.030 | 1.030 (1.020-1.040) | yes |
 | age-lt50 | Hispanic | 2 | random-effects (PM/REML, HKSJ) | 0.749 (0.633-0.888) | 92 | <0.001 | 0.740 (0.735-0.745) | yes |
-| aggregate-vs-NHW | AIAN | 10 | random-effects (PM/REML, HKSJ) | 0.698 (0.631-0.772) | 99 | <0.001 | - | no |
-| aggregate-vs-NHW | Asian/PI (aggregate) | 8 | random-effects (PM/REML, HKSJ) | 0.802 (0.742-0.868) | 100 | <0.001 | 0.769 (0.751-0.787) | no |
-| aggregate-vs-NHW | Black | 14 | random-effects (PM/REML, HKSJ) | 0.958 (0.929-0.988) | 99 | <0.001 | 0.933 (0.920-0.946) | no |
-| aggregate-vs-NHW | Hispanic | 12 | random-effects (PM/REML, HKSJ) | 0.713 (0.679-0.748) | 99 | <0.001 | 0.718 (0.706-0.730) | no |
+| aggregate-vs-NHW | AIAN | 11 | random-effects (PM/REML, HKSJ) | 0.689 (0.619-0.766) | 99 | <0.001 | - | no |
+| aggregate-vs-NHW | Asian/PI (aggregate) | 9 | random-effects (PM/REML, HKSJ) | 0.785 (0.719-0.856) | 100 | <0.001 | 0.769 (0.751-0.787) | no |
+| aggregate-vs-NHW | Black | 15 | random-effects (PM/REML, HKSJ) | 0.949 (0.915-0.984) | 99 | <0.001 | 0.933 (0.920-0.946) | no |
+| aggregate-vs-NHW | Hispanic | 13 | random-effects (PM/REML, HKSJ) | 0.706 (0.671-0.742) | 99 | <0.001 | 0.718 (0.706-0.730) | no |
 | disaggregated-AANHPI | Asian American (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.746 (0.350-1.592) | 99 | <0.001 | 0.792 (0.784-0.800) | yes |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 3 | random-effects (PM/REML, HKSJ) | 0.775 (0.442-1.359) | 99 | <0.001 | 0.958 (0.937-0.979) | no |
 | disaggregated-AANHPI | Chinese | 3 | random-effects (PM/REML, HKSJ) | 0.618 (0.370-1.032) | 100 | <0.001 | 0.760 (0.745-0.775) | no |

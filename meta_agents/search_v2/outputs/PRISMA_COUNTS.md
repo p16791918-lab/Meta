@@ -11,25 +11,25 @@
 
 ## Screening
 - Records screened (title/abstract): 4,793
-- Records excluded: 4,550
-- Reports sought for retrieval: 243
+- Records excluded: 4,549
+- Reports sought for retrieval: 244
 - Reports not retrieved: 9 (full text unavailable — records 157, 253, 415, 424, 428, 476,
   2038, 3116, 3268; sought but could not be obtained, so not assessable)
 - Note: record 3720, a Louisiana Tumor Registry triple-negative study reporting an age-adjusted
   Black-vs-White rate ratio of 2.21 (95% CI 1.96–2.48), was identified on the post-hoc screening
   audit as wrongly excluded and added to the review; its full text was obtained and it entered the
   quantitative synthesis as a regional overlapping estimate for the NHB triple-negative cell. This
-  is why the excluded count fell by one (4,551 → 4,550) and the assessed/included counts rose by one.
+  is why the excluded count fell (from 4,551). A further scan of the whole excluded pool found a second wrongly excluded study, record 2609 (Krieger 2018, Massachusetts Cancer Registry), whose full text reports age-standardized breast incidence by race versus NHW; it too was added to the quantitative synthesis as a single-state overlap. The two additions together account for excluded 4,551 → 4,549 and the assessed/included counts rising by two.
 
 ## Eligibility
-- Reports assessed for eligibility (full text): 234
+- Reports assessed for eligibility (full text): 235
 - Reports excluded: 71 (reasons in `TableS_excluded_fulltext.csv`): overlapping/duplicate
   dataset 55; did not report eligible outcome 12; ineligible population 3; preprint 1
 
 ## Included
-- Studies included in review: 163
-  - Quantitative synthesis: 53 studies (all eligible studies contributed extractable estimates)
-    (24 supplied a cell representative; the other 29 contributed overlapping estimates carried
+- Studies included in review: 164
+  - Quantitative synthesis: 54 studies (all eligible studies contributed extractable estimates)
+    (24 supplied a cell representative; the other 30 contributed overlapping estimates carried
     only in the sensitivity analysis — e.g. 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR
     Asian subgroups; 461 Northern-Plains AI/AN [unlinked state registries, AI/AN-undercount];
     2137 urban AI/AN; 419 California triple-negative, age-standardized by the review from reported
@@ -47,7 +47,7 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 53 extracted studies contributed 198 estimates; 24 studies supplied at
+- The 54 extracted studies contributed 202 estimates; 24 studies supplied at
   least one main-analysis representative (83 representative estimates in all, one per analytic
-  cell), and the remaining 29 studies contributed only overlapping estimates carried in the
+  cell), and the remaining 30 studies contributed only overlapping estimates carried in the
   sensitivity analysis.

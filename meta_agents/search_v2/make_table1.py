@@ -98,6 +98,10 @@ def main():
                 est += " †"
             pv, auth, period = prov.get((r["record_id"], dim, g, r["irr"]),
                                         ("", r["record_id"], r["period"]))
+            # mark CIs the review computed (delta method / Poisson approximation),
+            # as distinct from CIs reported directly in the source
+            if (lo and hi) and pv.startswith("computed"):
+                est += " ‡"
             eff = "SIR" if "SIR" in pv else "IRR"
             rows.append(dict(dimension=seclabel(g), group=g, effect=eff, estimate=est,
                              study=auth, period=period,
@@ -112,7 +116,10 @@ def main():
                 "U.S. racial/ethnic groups relative to non-Hispanic White women\n\n")
         f.write("Values are the representative population-based estimate per group "
                 "(one per registry family). Effect measure: IRR unless noted (SIR). "
-                "RoB = risk of bias.\n\n")
+                "RoB = risk of bias. † reference is an unstratified White group (not NHW). "
+                "‡ 95%% CI computed by the review (delta method from the source's rate CIs, or a "
+                "Poisson approximation), not reported directly; all unmarked CIs are as reported in "
+                "the source.\n\n")
         cur = None
         for r in rows:
             if r["dimension"] != cur:

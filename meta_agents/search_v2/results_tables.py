@@ -42,7 +42,8 @@ def main():
             lo = math.exp(r["y"] - Z * r["se"])
             hi = math.exp(r["y"] + Z * r["se"])
             frows.append(dict(dimension=dim, group=grp, irr=round(r["irr"], 3),
-                              ci_lo=round(lo, 3), ci_hi=round(hi, 3), record=r["rid"]))
+                              ci_lo=round(lo, 3), ci_hi=round(hi, 3), record=r["rid"],
+                              ci_source=("computed" if r.get("prov", "").startswith("computed") else "reported")))
     # A representative whose source reports no CI (and no case count for a Poisson
     # approximation) is a point estimate; it is dropped by the variance-based loader
     # above. Add it to the forest for the aggregate row only (the three category
@@ -53,11 +54,11 @@ def main():
                 and rr["irr"].strip() and (rr["outcome_dim"], rr["minority_group"]) not in have):
             v = round(float(rr["irr"]), 3)
             frows.append(dict(dimension=rr["outcome_dim"], group=rr["minority_group"],
-                              irr=v, ci_lo=v, ci_hi=v, record=rr["record_id"]))
+                              irr=v, ci_lo=v, ci_hi=v, record=rr["record_id"], ci_source="point"))
     dim_rank = {d: i for i, d in enumerate(DIM_ORDER)}
     frows.sort(key=lambda x: (dim_rank.get(x["dimension"], 99), x["irr"]))
     with open(os.path.join(OUT, "Table_main_forest.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["dimension", "group", "irr", "ci_lo", "ci_hi", "record"])
+        w = csv.DictWriter(f, fieldnames=["dimension", "group", "irr", "ci_lo", "ci_hi", "record", "ci_source"])
         w.writeheader(); w.writerows(frows)
     with open(os.path.join(OUT, "Table_main_forest.md"), "w", encoding="utf-8") as f:
         f.write("# Table. Main analysis — representative IRR vs non-Hispanic White\n\n")

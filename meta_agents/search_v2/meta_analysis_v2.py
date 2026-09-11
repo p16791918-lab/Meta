@@ -58,6 +58,7 @@ def load():
             "rid": r["record_id"], "dim": r["outcome_dim"],
             "grp": r["minority_group"], "y": y, "se": se, "v": se * se,
             "irr": float(irr), "is_rep": reps.get(key, "").startswith("yes"),
+            "prov": r.get("provenance", ""),
         })
     return rows
 

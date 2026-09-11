@@ -55,12 +55,20 @@ fall into two correctly-excluded classes:
   MA, 3730 SES by subtype, 340 Asian enclave, 566 IBC by SEP, 1679 social adversity in Black women)
   — the same class carried in the narrative synthesis or excluded throughout.
 
-One borderline non-abstract case is flagged for the author's judgment: **rec 2609** (Massachusetts
-Cancer Registry, 2010–2014) reports incidence stratified by race/ethnicity, so an NHB-versus-NHW
-Massachusetts rate ratio could in principle be recovered; as a single-state estimate it would be a
-sensitivity overlap of the national representatives and would not change a result. The remaining
-flagged records were risk-factor, stage- or mortality-specific, NHW-only, proportionate-incidence
-(PIR), or methodological reports, consistent with their recorded exclusion reasons.
+**A second false negative was confirmed on full-text review: rec 2609** (Krieger 2018, JNCI Cancer
+Spectrum, PMID 31360840). Although framed as a study of residential segregation, its Table 2 reports
+Massachusetts age-standardized (2000 US) breast incidence rates by race with 95% CIs — NHW 140.8,
+NHB 113.6, Hispanic 86.9, Asian/PI 90.4, AIAN 64.1 per 100,000 — from which IRRs versus NHW were
+computed (NHB 0.81, Hispanic 0.62, Asian/PI 0.64, AIAN 0.46; delta method). It was added to the
+quantitative synthesis as a single-state overlap of the national aggregate representatives, changing
+no result. Both confirmed misses (3720, 2609) are neighborhood- or segregation-focused studies that
+nonetheless report race-specific breast incidence — the recurring false-negative pattern here — so a
+few more of that kind may remain in the excluded pool; retrieving and checking the other flagged
+neighborhood/SES studies (e.g. 2146 redlining, 3730 SES-by-subtype, 340 Asian enclave) would settle
+them, and any would be regional sensitivity overlaps that do not change a representative. The
+remaining flagged records were risk-factor, stage- or mortality-specific, NHW-only,
+proportionate-incidence (PIR), conference-abstract, or methodological reports, consistent with their
+recorded exclusion reasons.
 
 **Omissions found elsewhere and their follow-up.** Two rounds of source re-verification also found
 extractable data missed on first pass, all among *included* reports, and all were corrected:

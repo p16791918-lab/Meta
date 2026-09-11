@@ -15,7 +15,8 @@ SRC = os.path.join(OUT, "Table_main_forest.csv")
 
 d = {}
 for r in csv.DictReader(open(SRC, encoding="utf-8")):
-    d[(r["dimension"], r["group"])] = (float(r["irr"]), float(r["ci_lo"]), float(r["ci_hi"]))
+    d[(r["dimension"], r["group"])] = (float(r["irr"]), float(r["ci_lo"]), float(r["ci_hi"]),
+                                       r.get("ci_source", "reported"))
 
 def g(dim, grp):
     return d[(dim, grp)]
@@ -80,10 +81,18 @@ for row in rows:
         ax.text(-0.44, yy, title, transform=trans, fontsize=12, fontweight="bold",
                 va="center", ha="left")
         continue
-    _, yy, lab, irr, lo, hi, agg = row
+    _, yy, lab, irr, lo, hi, csrc, agg = row
     is_point = (lo == hi)                       # source reported no CI (point estimate)
+    computed_ci = (not is_point) and (csrc == "computed")
     if not is_point:
-        ax.plot([lo, hi], [yy, yy], color="#3a7bd5", lw=1.7, zorder=2)
+        # computed CIs (delta method / Poisson approx) drawn as a lighter dashed bar with caps,
+        # to distinguish them from CIs reported directly in the source (solid)
+        if computed_ci:
+            ax.plot([lo, hi], [yy, yy], color="#8ab0e6", lw=1.5, ls=(0, (4, 2)), zorder=2)
+            for xc in (lo, hi):
+                ax.plot([xc, xc], [yy - 0.14, yy + 0.14], color="#8ab0e6", lw=1.2, zorder=2)
+        else:
+            ax.plot([lo, hi], [yy, yy], color="#3a7bd5", lw=1.7, zorder=2)
     if agg:
         col = "#c0392b" if lab.startswith(("Hispanic", "AI/AN")) else "#2b5fa8"
         ax.plot(irr, yy, marker="D", ms=13, color=col, zorder=3, mec="white", mew=0.6)
@@ -95,6 +104,8 @@ for row in rows:
         ci += 1
         ax.text(-0.37, yy, lab, transform=trans, fontsize=10, va="center", ha="left")
     txt = f"{irr:.3f} (point est.)" if is_point else f"{irr:.3f} [{lo:.3f}, {hi:.3f}]"
+    if computed_ci:
+        txt += " ‡"                        # double dagger: CI computed by the review
     ax.text(1.03, yy, txt, transform=trans,
             fontsize=9.5, va="center", ha="left")
 
@@ -117,8 +128,11 @@ fig.text(0.34, 0.028,
          "Each point is the representative estimate for one analytic cell, drawn from a separate "
          "study; the aggregate and its subgroups are\nnot from a single source and differ in "
          "registry, region, diagnosis period, and standard population. Diamonds mark aggregate "
-         "groups,\ncircles subgroups; a point without a bar had no confidence interval in its source.",
+         "groups,\ncircles subgroups; a point without a bar had no confidence interval in its source. "
+         "A solid bar is a 95% CI reported directly in the\nsource; a lighter dashed bar with ‡ is a CI "
+         "the review computed (delta method from the source's rate CIs, or a Poisson approximation).",
          fontsize=7.6, color="#555", ha="left", va="top")
+fig.subplots_adjust(bottom=0.125)
 fig.subplots_adjust(bottom=0.11)
 fig.savefig(os.path.join(OUT, "Fig_forest_main.png"), dpi=200)
 plt.close(fig)

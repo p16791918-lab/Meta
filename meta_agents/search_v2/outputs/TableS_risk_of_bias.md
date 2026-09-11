@@ -2,7 +2,7 @@
 
 Nine JBI items rated Yes/No/Unclear/NA. Q9 (response rate) is recorded NA for every study because census-like registry ascertainment has no survey response rate; NA is not counted as a defect. Overall risk of bias uses the eight applicable items: **Low** = 0-1 No and Q7 (measurement) = Yes and Q8 (analysis) = Yes; **High** = 3 or more No; **Moderate** = otherwise (including any single No on the key items Q7 or Q8). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (53 studies): {'Low': 42, 'Moderate': 11}. Main-analysis representatives: {'Low': 19, 'Moderate': 5}
+Overall (54 studies): {'Low': 43, 'Moderate': 11}. Main-analysis representatives: {'Low': 19, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -49,6 +49,7 @@ Overall (53 studies): {'Low': 42, 'Moderate': 11}. Main-analysis representatives
 | 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2010-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2609 | Krieger2018_MA | Massachusetts Cancer Regis | 2010-2014 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
 | 3182 | Pinheiro2009_FL | Florida Cancer Registry | 1999-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 3267 | Kem2007 | California-CCR + Puget Sou | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
 | 3298 | Carozza2006_multistate | Multi-state registries (NA | 1995-2000 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
