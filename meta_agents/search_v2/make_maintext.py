@@ -28,20 +28,6 @@ def cite(ay):  # "Gopalani2020_31764279" -> "Gopalani 2020"; "Ellington2022_USCS
 # ==== Table 1. Summary of IRRs by racial/ethnic group and analytic dimension ====
 H("Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial and "
   "ethnic groups relative to non-Hispanic White women, by analytic dimension", 1)
-P("Each value is a representative population-based estimate (a contemporary benchmark) for the "
-  "group — the most recent, broadest-coverage registry estimate with an appropriate population "
-  "definition and standardization — not a meta-analytic pooled estimate; one estimate is shown "
-  "per registry family. Effect "
-  "measure is the incidence rate ratio (IRR) unless noted as a standardized incidence "
-  "ratio (SIR). Comparisons are versus non-Hispanic White (NHW) women, except where "
-  "marked † — the reference in that study was an unstratified White group (not stratified "
-  "by Hispanic origin), which may raise the IRR slightly; these estimates are examined in "
-  "the NHW-comparator sensitivity analysis (Supplementary Table 6c). Black denotes "
-  "non-Hispanic Black (NHB), and the Asian/Pacific Islander aggregate is labeled AANHPI "
-  "(Asian American, Native Hawaiian, and Pacific Islander), with the Pacific-Islander "
-  "subset shown separately as NHPI. RoB = risk-of-bias rating of the representative "
-  "study. Full per-estimate detail, including each study's comparator and standard "
-  "population, is in the Supplementary Materials.", True)
 # Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
 TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",
@@ -55,6 +41,19 @@ for r in t1:
     tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
                         "%s (%s)" % (cite(r["study"]), r["period"]),
                         r.get("registry", ""), r["rob"]])
+# Note placed below the table (analysis method, comparator, symbols, abbreviations only).
+P("Note. Each cell shows one representative population-based estimate — the most recent, "
+  "broadest-coverage registry estimate per registry family — not a pooled estimate; the "
+  "selection rule and its robustness are given in the Methods and Supplementary Table 6. "
+  "The effect measure is the incidence rate ratio (IRR) unless marked as a standardized "
+  "incidence ratio (SIR); comparisons are versus non-Hispanic White (NHW) women. "
+  "† the study's reference was an unstratified White group (not stratified by Hispanic "
+  "origin), examined in the NHW-comparator sensitivity analysis (Supplementary Table 6c). "
+  "‡ the 95% confidence interval was computed by the reviewers from published rates rather "
+  "than reported in the source. NHB, non-Hispanic Black; AANHPI, Asian American, Native "
+  "Hawaiian, and Pacific Islander (NHPI, the Pacific Islander subset, shown separately); "
+  "RoB, risk-of-bias rating of the representative study. Full per-estimate detail is in the "
+  "Supplementary Materials.", True)
 PB()
 
 # NOTE: no "meta-analysis results" table. Estimates within a group come from

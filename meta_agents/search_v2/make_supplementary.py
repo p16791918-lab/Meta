@@ -69,7 +69,6 @@ PB()
 
 # ---- S1 search strategy ----
 H("Supplementary Table 1. Final search strategy for each database", 1)
-P("Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026, English, human; document-type exclusions.", True)
 t = open(os.path.join(HERE, "..", "SEARCH_STRINGS_v2.md"), encoding="utf-8").read()
 blocks = re.findall(r"## (\d)\. ([^\n]+)\n+```\n(.*?)```", t, re.S)
 meta = [("PubMed/MEDLINE", "PubMed", "1,331"), ("Embase", "embase.com (Advanced Search)", "3,248"),
@@ -78,7 +77,10 @@ srows = [{"db": m[0], "platform": m[1], "date": "2026-08-07", "records": m[2],
           "query": [l.rstrip() for l in code.strip("\n").split("\n")]}
          for (num, title, code), m in zip(blocks, meta)]
 ST(srows, [1700, 2000, 1200, 1000, 8500])
-P("Total records identified 9,099; duplicate records removed (cross-database) 4,306; unique records screened 4,793.", True)
+P("Note. Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × "
+  "race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026, English, human; "
+  "document-type exclusions. Total records identified 9,099; duplicate records removed "
+  "(cross-database) 4,306; unique records screened 4,793.", True)
 PB()
 
 # ---- S3 included (author-year via citation; no record_id) ----
@@ -97,14 +99,6 @@ else:
     _elig_clause = ("%d were eligible for quantitative synthesis and all provided extractable quantitative "
                     "data that entered the analysis, and the remaining %d contributed to the narrative "
                     "synthesis only (%d = %d + %d)." % (_next, _nnarr, _ninc, _next, _nnarr))
-P("The %d studies are all publications included in the systematic review; not all entered the "
-  "quantitative synthesis. They are grouped below by how each contributed: %s Study design is classified "
-  "from the data source; most included studies are population-based registry/incidence studies "
-  "rather than cohort studies. A PMID (or DOI where no PMID exists) is given for every study so "
-  "that each of the %d included studies—including the %d in the narrative synthesis—can be "
-  "located individually."
-  % (_ninc, _elig_clause, _ninc, _nnarr),
-  True)
 _SECT = {
     "quant-extracted": "Quantitative synthesis — data extracted (n = %d)" % _next,
     "quant-eligible": "Quantitative synthesis — eligible, no extractable data (n = %d)" % _nelig,
@@ -203,6 +197,11 @@ for r in inc:
                  _role(r), _ident(r)])
 TB(["Study (author, year)", "Study design", "Data source", "Role in synthesis", "PMID / DOI"], rows,
    [3000, 1900, 1800, 2700, 1300])
+P("Note. All %d studies are included in the systematic review; not all entered the quantitative "
+  "synthesis, and rows are grouped by contribution: %s Study design is classified from the data "
+  "source; most are population-based registry/incidence studies rather than cohort studies. A PMID "
+  "(or DOI where none exists) is given for every study so each can be located individually."
+  % (_ninc, _elig_clause), True)
 P("Role in synthesis records, for each study, whether quantitative data were extractable and how the "
   "study was used, with the reason it was or was not selected as a cell representative: “Representative "
   "for N cell(s)” = supplied the main-analysis benchmark for N analytic cells (group × dimension), with "
@@ -247,19 +246,19 @@ PB()
 
 # ---- S7 RoB (study = author-year; no record_id) ----
 H("Supplementary Table 5. Risk of bias (JBI checklist for studies reporting prevalence/incidence data)", 1)
-P("Nine JBI items rated Y (Yes) / N (No) / U (Unclear); overall risk of bias is summarized as Low, Moderate, or High. The checklist was applied to each study by the author (a single assessor) with large-language-model assistance.", True)
 rob = rd("outputs/TableS_risk_of_bias.csv")
-def _v(x): return {"Yes": "Y", "No": "N", "Unclear": "U"}.get(x.strip(), x.strip())
+def _v(x): return {"Yes": "Y", "No": "N", "Unclear": "U", "NA": "NA"}.get(x.strip(), x.strip())
 QC = ["Q1_frame", "Q2_sampling", "Q3_size", "Q4_described", "Q5_coverage",
       "Q6_condition", "Q7_measurement", "Q8_analysis", "Q9_response"]
 rrows = [[cite(r["study"])] + [_v(r[q]) for q in QC] + [r["Overall_RoB"]] for r in rob]
 TB(["Study", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8", "Q9", "RoB"],
    rrows, [3200, 620, 620, 620, 620, 620, 620, 620, 620, 620, 1400])
-P("JBI items: Q1 sample frame appropriate to the target population (defined population-based registry); Q2 appropriate sampling (registry ascertains all diagnosed cases — census-like); Q3 adequate sample size for a stable age-adjusted rate; Q4 study subjects and setting described in detail; Q5 sufficient coverage of the identified population (registry completeness); Q6 valid identification of the condition (invasive breast cancer via registry/pathology record linkage); Q7 condition measured in a standard, reliable way for all participants, including race/ethnicity ascertainment (surname recognition or a known AI/AN undercount = No); Q8 appropriate statistical analysis (age-standardized to a stated standard population with a reported or correctly computed variance); Q9 response rate — not applicable to census-like registry ascertainment.", True)
+P("Note. Each item is rated Y (Yes) / N (No) / U (Unclear) / NA (not applicable); overall risk of bias is Low, Moderate, or High.", True)
+P("JBI items: Q1 sample frame appropriate to the target population (defined population-based registry); Q2 appropriate sampling (registry ascertains all diagnosed cases — census-like); Q3 adequate sample size for a stable age-adjusted rate; Q4 study subjects and setting described in detail; Q5 sufficient coverage of the identified population (registry completeness); Q6 valid identification of the condition (invasive breast cancer via registry/pathology record linkage); Q7 condition measured in a standard, reliable way for all participants, including race/ethnicity ascertainment (surname recognition or a known AI/AN undercount = No); Q8 appropriate statistical analysis (age-standardized to a stated standard population with a reported or correctly computed variance); Q9 response rate — recorded NA (not applicable), because census-like registry ascertainment has no survey response rate, so Q9 is not counted as a defect.", True)
 _nlow = sum(1 for r in rob if r["Overall_RoB"] == "Low")
 _nmod = sum(1 for r in rob if r["Overall_RoB"] == "Moderate")
 _nhigh = sum(1 for r in rob if r["Overall_RoB"] == "High")
-P("Overall risk of bias: Low = at most one item not met with the two key items (Q7 measurement, Q8 analysis) met; High = three or more items not met; Moderate otherwise. Of %d studies assessed, %d were Low, %d Moderate, and %d High; the Moderate ratings arise chiefly where an estimate was reported as a point value without a variance (Q8) or where race/ethnicity ascertainment was limited (Q7)."
+P("Overall risk of bias (over the eight applicable items; Q9 = NA excluded): Low = at most one item not met with the two key items (Q7 measurement, Q8 analysis) met; High = three or more items not met; Moderate otherwise. Of %d studies assessed, %d were Low, %d Moderate, and %d High; the Moderate ratings arise chiefly where an estimate was reported as a point value without a variance (Q8) or where race/ethnicity ascertainment was limited (Q7)."
   % (len(rob), _nlow, _nmod, _nhigh), True)
 PB()
 
@@ -268,7 +267,7 @@ H("Supplementary Table 6. Sensitivity analyses", 1)
 from collections import Counter as _Ctr
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 _c1 = _Ctr(r["status"] for r in s1)
-P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped. The changed and dropped cells were concentrated in the disaggregated AANHPI subgroups and the age-specific cells, whose representatives are computed estimates from moderate-risk-of-bias sources; the IHS-linked AI/AN representatives (aggregate, Navajo, Southern Plains, and Alaska Native) are unchanged because they are themselves low risk of bias, whereas the Northern Plains cell drops because its only estimate comes from unlinked state registries rated moderate risk of bias."
+P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c1["unchanged"], sum(_c1.values()), _c1["changed"], _c1["dropped"]))
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch1], [1800, 2200, 3000, 3000, 900])
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
@@ -278,7 +277,7 @@ P("Table 6b. Directly-reported-only (computed estimates dropped): %d unchanged, 
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch2], [1800, 2200, 3000, 3000, 900])
 s3 = rd("outputs/Sensitivity3_nhw_only.csv"); ch3 = [r for r in s3 if r["status"] != "unchanged"]
 _c3 = _Ctr(r["status"] for r in s3)
-P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped. The aggregate, disaggregated-AANHPI, and Hispanic-origin cells are unchanged because they already use an NHW comparator; the dropped cells are those whose only representative used an unstratified White reference — the receptor-defined subtype set (Loo 2019), the ER/PR subtypes (Gleason 2012), and the two age-specific Black cells; the single changed cell is Alaska Native, whose unstratified-White representative (Nash ANTR, 1.09) is replaced by the IHS-linked estimate reported against a non-Hispanic White reference (Melkonian, 1.25) — confirming which findings depend on the unstratified-White comparator."
+P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c3["unchanged"], sum(_c3.values()), _c3["changed"], _c3["dropped"]))
 TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch3], [1800, 2200, 3000, 3000, 900])
 P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (low-risk-of-bias only in Table 6a; author-reported IRR/SIR only in Table 6b; NHW-comparator only in Table 6c). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; the remaining cells were unchanged. A “dropped” cell means no estimate met the restriction, not that the main estimate changed.", True)
