@@ -81,11 +81,10 @@ function tcell(text, w, { bold = false, shade = null } = {}) {
 }
 function buildTable(m) {
   const ws = scaleWidths(m.widths); const total = ws.reduce((a, b) => a + b, 0);
-  const head = new TableRow({ tableHeader: true, children: m.headers.map((h, i) => tcell(h, ws[i], { bold: true, shade: "E7EEF6" })) });
+  const head = new TableRow({ tableHeader: true, children: m.headers.map((h, i) => tcell(h, ws[i], { bold: true })) });
   const body = m.rows.map(r => {
     if (r && !Array.isArray(r) && r.section !== undefined) {
-      return new TableRow({ children: [new TableCell({ width: { size: total, type: WidthType.DXA }, columnSpan: ws.length,
-        shading: { type: ShadingType.CLEAR, color: "auto", fill: "D9E2EF" }, margins: { top: 30, bottom: 30, left: 70, right: 70 },
+      return new TableRow({ children: [new TableCell({ width: { size: total, type: WidthType.DXA }, columnSpan: ws.length, margins: { top: 30, bottom: 30, left: 70, right: 70 },
         children: [new Paragraph({ children: [new TextRun({ text: String(r.section), font: LFONT, size: 16, bold: true })] })] })] });
     }
     return new TableRow({ children: r.map((c, i) => tcell(c, ws[i])) });

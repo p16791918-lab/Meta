@@ -27,13 +27,12 @@ function buildTable(m) {
   const ws = scaleWidths(m.widths);
   const total = ws.reduce((a, b) => a + b, 0);
   const head = new TableRow({ tableHeader: true,
-    children: m.headers.map((h, i) => tcell(h, ws[i], { bold: true, shade: "E7EEF6" })) });
+    children: m.headers.map((h, i) => tcell(h, ws[i], { bold: true })) });
   const body = m.rows.map(r => {
     // A row shaped {section: "..."} is a full-width section header spanning all columns.
     if (r && !Array.isArray(r) && r.section !== undefined) {
       return new TableRow({ children: [new TableCell({
         width: { size: total, type: WidthType.DXA }, columnSpan: ws.length,
-        shading: { type: ShadingType.CLEAR, color: "auto", fill: "D9E2EF" },
         margins: { top: 30, bottom: 30, left: 70, right: 70 },
         children: [new Paragraph({ children: [new TextRun({ text: String(r.section), font: FONT, size: 15, bold: true })] })],
       })] });
@@ -56,7 +55,6 @@ function buildGTable(m) {
       width: { size: w, type: WidthType.DXA },
       columnSpan: span > 1 ? span : undefined,
       rowSpan: rspan ? 2 : undefined,
-      shading: { type: ShadingType.CLEAR, color: "auto", fill: "E7EEF6" },
       verticalAlign: "center",
       margins: { top: 25, bottom: 25, left: 70, right: 70 },
       children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: label, font: FONT, size: 15, bold: true })] })],
@@ -68,7 +66,6 @@ function buildGTable(m) {
     if (s === null) return; // covered by a rowSpan cell above
     r2.push(new TableCell({
       width: { size: ws[i], type: WidthType.DXA },
-      shading: { type: ShadingType.CLEAR, color: "auto", fill: "E7EEF6" },
       margins: { top: 25, bottom: 25, left: 50, right: 50 },
       children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: s, font: FONT, size: 14, bold: true })] })],
     }));
@@ -84,7 +81,7 @@ function buildGTable(m) {
 function buildSTable(m) {
   const ws = scaleWidths(m.widths);
   const head = new TableRow({ tableHeader: true,
-    children: ["Database", "Platform", "Date", "Records", "Search string"].map((h, i) => tcell(h, ws[i], { bold: true, shade: "E7EEF6" })) });
+    children: ["Database", "Platform", "Date", "Records", "Search string"].map((h, i) => tcell(h, ws[i], { bold: true })) });
   const body = m.rows.map(r => new TableRow({ children: [
     tcell(r.db, ws[0]), tcell(r.platform, ws[1]), tcell(r.date, ws[2]), tcell(r.records, ws[3]),
     new TableCell({ width: { size: ws[4], type: WidthType.DXA }, margins: { top: 25, bottom: 25, left: 70, right: 70 },
@@ -105,9 +102,8 @@ for (const m of M) {
   if (m.type === "heading" && m.level === 1 && /Supplementary Figure/.test(m.text)) inFigures = true;
   const kids = inFigures ? figKids : mainKids;
   if (m.type === "heading") {
-    kids.push(new Paragraph({ heading: m.level === 1 ? HeadingLevel.HEADING_1 : HeadingLevel.HEADING_2,
-      spacing: { before: 200, after: 100 },
-      children: [new TextRun({ text: m.text, font: FONT, bold: true, size: m.level === 1 ? 24 : 20 })] }));
+    kids.push(new Paragraph({ spacing: { before: 200, after: 100 },
+      children: [new TextRun({ text: m.text, font: FONT, bold: true, color: "000000", size: m.level === 1 ? 24 : 20 })] }));
   } else if (m.type === "para") {
     const _pp = { spacing: { after: 80 },
       children: [new TextRun({ text: m.text, font: FONT, size: 18, italics: !!m.italic })] };
