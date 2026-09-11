@@ -114,7 +114,12 @@ those resting on a single study (47), and it shows where independent studies agr
 not: the aggregate ordering and most subgroup estimates held across the low-risk-of-bias,
 directly-reported, and NHW-comparator restrictions, while a few near-null differences—chiefly among
 Asian American subgroups, with Japanese women the clearest case—changed sign with the source, and the
-AI/AN comparison depended on whether case ascertainment was IHS-linked. Third, it makes the evidence
+AI/AN comparison depended on whether case ascertainment was IHS-linked. Reviewing the studies
+jointly rather than singly therefore confirmed something no individual report, confined to its own
+registry and period, could establish: that the wide within-aggregate heterogeneity is reproducible
+across independent registries and stable under the risk-of-bias, provenance, and comparator
+restrictions, and is concordant with the earlier single-population studies it draws together—so the
+pattern reflects real differences rather than the choice of any one data source. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a
