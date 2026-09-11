@@ -456,6 +456,26 @@ assistance rather than by two independent reviewers; to limit selection and extr
 full text of every included study was read for the inclusion decision and every extracted estimate
 was checked against its source table, figure, or text.
 
+What this review adds beyond the individual studies is threefold. First, it places estimates that
+were scattered across separate registry reports—each with its own reference group, standard
+population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
+can be read against one another and against their aggregates in one place. Second, by collapsing
+overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
+separates cells corroborated by two or more independent sources (36 of the 83 analytic cells) from
+those resting on a single study (47), and it shows where independent studies agree and where they do
+not: the aggregate ordering and most subgroup estimates held across the low-risk-of-bias,
+directly-reported, and NHW-comparator restrictions, while a few near-null differences—chiefly among
+Asian American subgroups, with Japanese women the clearest case—changed sign with the source, and the
+AI/AN comparison depended on whether case ascertainment was IHS-linked. Third, it makes the evidence
+gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
+subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
+source, and the AI/AN regional and national aggregate figures are point estimates without a
+confidence interval—groups for which a dedicated, and for AI/AN an IHS-linked, primary study is still
+needed. Because studies differed in standard population, period, and region, these estimates are
+best read as a comparable-scale summary of the available evidence rather than as mutually calibrated
+rates, with the provenance and comparator of each estimate (computed CI ‡; unstratified White †)
+marked so readers can weigh them.
+
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
 from the overall pattern. Each comparison rests on a single appraised representative estimate per

@@ -67,8 +67,8 @@ for bi, (title, items) in enumerate(blocks):
         y -= 1.0
 ymin = y
 
-fig, ax = plt.subplots(figsize=(10.5, 12.6))
-fig.subplots_adjust(left=0.34, right=0.80, top=0.93, bottom=0.06)
+fig, ax = plt.subplots(figsize=(10.5, 13.6))
+fig.subplots_adjust(left=0.34, right=0.80, top=0.93, bottom=0.14)
 trans = ax.get_yaxis_transform()          # x: axes fraction, y: data
 ax.axvline(1.0, color="#3a5a80", ls="--", lw=1.1, zorder=1)
 
@@ -124,7 +124,7 @@ ax.text(0.32, 1.28, "Lower incidence", transform=trans, fontsize=10, color="#555
 ax.text(1.28, 1.28, "Higher incidence", transform=trans, fontsize=10, color="#555", ha="center")
 ax.set_title("Aggregate-to-disaggregated heterogeneity with 95% confidence intervals",
              fontsize=12.5, pad=16)
-fig.text(0.34, 0.028,
+fig.text(0.055, 0.105,
          "Each point is the representative estimate for one analytic cell, drawn from a separate "
          "study; the aggregate and its subgroups are\nnot from a single source and differ in "
          "registry, region, diagnosis period, and standard population. Diamonds mark aggregate "
@@ -132,8 +132,6 @@ fig.text(0.34, 0.028,
          "A solid bar is a 95% CI reported directly in the\nsource; a lighter dashed bar with ‡ is a CI "
          "the review computed (delta method from the source's rate CIs, or a Poisson approximation).",
          fontsize=7.6, color="#555", ha="left", va="top")
-fig.subplots_adjust(bottom=0.125)
-fig.subplots_adjust(bottom=0.11)
-fig.savefig(os.path.join(OUT, "Fig_forest_main.png"), dpi=200)
+fig.savefig(os.path.join(OUT, "Fig_forest_main.png"), dpi=200, bbox_inches="tight", pad_inches=0.25)
 plt.close(fig)
 print("wrote outputs/Fig_forest_main.png")

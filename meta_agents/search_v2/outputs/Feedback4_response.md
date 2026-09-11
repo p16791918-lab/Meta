@@ -159,8 +159,22 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
   합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, `suspicious_CI_audit`에 flag하고
   narrative 유지(대표 대체 불가).
 
-## 항목 7. 리뷰 기여 명확화·제출자료 최종 점검 — ⬜ 예정
-기존 연구 대비 추가 확인점, 연구 간 일치/불일치·비교가능성·근거부족 집단, 본문·표·그림 수치/번호·비교군·민감도 목록 정합, PDF 그림 잘림.
+## 항목 7. 리뷰 기여 명확화·제출자료 최종 점검 — ✅ 완료
+- **① 리뷰 기여 명시(Discussion 신규 문단)**: 단일-연구 cell을 함께 검토해 무엇이 추가됐는지 3가지로:
+  (1) 흩어진 추정치를 하나의 NHW 기준 척도로 모아 subgroup을 상호·대집단과 비교, (2) overlap을
+  sensitivity로 남겨 **≥2개 독립 자료원이 뒷받침하는 셀 36개 vs 단일 연구 셀 47개**를 구분하고
+  일치/불일치를 제시(aggregate 순서·대다수 subgroup은 제한분석에서 견고, near-null AANHPI subgroup
+  일부는 자료원 따라 부호 전환, AI/AN은 IHS-linkage 여부에 좌우), (3) **근거부족 집단 명시**(Middle
+  Eastern, 일부 NHPI·Hispanic-origin subgroup, AI/AN 아형은 단일 지역·unlinked 자료; AI/AN 지역·전국
+  aggregate는 CI 없는 점추정 → 전용 IHS-linked 1차 연구 필요).
+- **② 수치·번호 정합**: Figure 1-3·Table 1·Supplementary Table 1-6 참조 전부 해소, 결번 없음.
+  민감도 changed/dropped **목록**을 원자료와 대조 — NHW-comparator: changed 1개(Alaska Native),
+  dropped 18개(수용체 아형 16 + age-specific Black 2)로 본문 서술과 정확히 일치. crosscheck A-G PASS.
+- **③ 비교군 표시**: † (unstratified White, 6셀) 본문·Table 1 일치; **‡ (복원 CI) 신규 표기**를
+  Table 1·Figure 2에 범례와 함께 추가(항목: 복원 CI vs 원문 CI 구분).
+- **④ 그림 잘림**: Figure 2(forest) 하단 캡션이 **잘려 있던 것을 발견·수정**(bottom margin 확대 +
+  bbox_inches tight). Figure 1(PRISMA)·Figure 3(heatmap)은 잘림 없음 확인. 헤드라인 aggregate IRR
+  (0.72/0.77/0.87/0.93, NHB TNBC 1.95) 불변 확인.
 
 ## 항목 8. 서식 de-AI (본문·Supplementary) — ⬜ 예정
 파란 제목→검정, 제목 스타일 점 제거→기본, 표 상단 청록 배경 제거→굵은 글씨+최소 구분선, 표 제목 아래 설명을 표 아래 Note.로 이동, Note는 방법·비교군·기호·약어만.
