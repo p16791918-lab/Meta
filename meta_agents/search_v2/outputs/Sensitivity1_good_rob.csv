@@ -47,10 +47,10 @@ age-lt50,Filipina,,0.768," [0.633, 0.932]",522,0.768," [0.633, 0.932]",522,uncha
 age-lt50,Hispanic,,0.74," [0.74, 0.75]",369,0.74," [0.74, 0.75]",369,unchanged,2,2
 age-lt50,Japanese,,1.479," [1.252, 1.748]",522,1.479," [1.252, 1.748]",522,unchanged,1,1
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",522,unchanged,1,1
-aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,12,9
-aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,8,6
-aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,15,13
-aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,13,11
+aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,13,10
+aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,9,7
+aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,16,14
+aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,14,12
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,1
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,1.459," [1.267, 1.679]",200,unchanged,1,1

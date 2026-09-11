@@ -20,7 +20,7 @@ Indian Health Serviceâlinked estimate was preferred to counter registry und
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 164 studies were included—54 eligible for quantitative
+**Results.** Of 4,793 records screened, 165 studies were included—55 eligible for quantitative
 synthesis and 110 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.

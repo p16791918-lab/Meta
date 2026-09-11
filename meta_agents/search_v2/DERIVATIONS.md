@@ -33,13 +33,18 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
-- **with CI:** rec 10, rec 161, rec 200, rec 210, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 2609, rec 3298, rec 3398, rec 4040.
+- **with CI:** rec 10, rec 161, rec 200, rec 210, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 2146, rec 2609, rec 3298, rec 3398, rec 4040.
 - **rec 2609 (Krieger 2018, Massachusetts Cancer Registry, 2010–2014).** Table 2 prints
   age-standardized (2000 US) breast incidence rates with 95% CIs by race, NHW 140.8 [139.0–142.7]:
   NHB 113.6/140.8 = 0.807 [0.762, 0.855], Hispanic 86.9/140.8 = 0.617 [0.578, 0.660], Asian/PI
   90.4/140.8 = 0.642 [0.597, 0.690], AIAN 64.1/140.8 = 0.455 [0.292, 0.709] (delta method from the
   reported rate CIs). A single-state estimate; each enters its aggregate-vs-NHW cell as a sensitivity
   overlap of the USCS-national representative. Identified on the post-hoc screening audit.
+- **rec 2146 (Wright/Krieger 2022, Massachusetts Cancer Registry, 28 HOLC municipalities, 2005–2015).**
+  Table 3 prints age-standardized (2000 US) breast IR by race, NHW 146.56 [143.91–149.25]: NHB
+  119.06/146.56 = 0.812 [0.772, 0.855], Hispanic 83.71 = 0.571 [0.529, 0.617], Asian/PI 83.15 = 0.567
+  [0.526, 0.612], AIAN 82.57 = 0.563 [0.330, 0.963] (delta method). A single-state estimate (overlaps
+  the national aggregate reps and the other Massachusetts study, rec 2609); post-hoc screening audit.
 - **rec 210 (Du 2022, SEER 18, 2000–2018).** The table prints age-adjusted rates (2000 US std) by
   race with 95% CIs, referenced to Asian/PI (not NHW). We recompute each group's IRR vs NHW from
   the same-source rates and rate CIs by the delta method (minority IR / NHW IR 190.4 [190.0–190.8]):

@@ -11,12 +11,12 @@ unstratified White reference) or noted as an SIR.
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was sought for 244 reports; 10 could not be
-retrieved, and of the 235 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 164 included studies (Figure 1). Of these, 54 were eligible for
-quantitative synthesis and entered the analysis, contributing 202 individual estimates across
+records for title and abstract screening. Full text was sought for 245 reports; 10 could not be
+retrieved, and of the 236 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 165 included studies (Figure 1). Of these, 55 were eligible for
+quantitative synthesis and entered the analysis, contributing 206 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 110 informed the narrative synthesis (164 = 54 + 110). The extracted studies were published
+sensitivity analysis; the remaining 110 informed the narrative synthesis (165 = 55 + 110). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 83 representative estimates remained, one per analytic
@@ -106,7 +106,7 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 43 of the 54 studies were at low risk of bias and 11 at moderate risk, with
+On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in three ways (Supplementary Table 6). Restricting to

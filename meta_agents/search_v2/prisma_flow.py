@@ -51,16 +51,16 @@ def main():
     box(ax, lmx, 9.5, lmw, 0.9, "Records screened\n(n = 4,793)")
     arrow(ax, lmx + lmw / 2, 11.3, lmx + lmw / 2, 10.4)
     box(ax, lex, 8.85, lew, 1.6,
-        "Records excluded (n = 4,549):\nnot relevant to topic (n = 3,080);\n"
+        "Records excluded (n = 4,548):\nnot relevant to topic (n = 3,079);\n"
         "not a US registry-based study (n = 1,296);\neditorial / letter / conference (n = 173)")
     arrow(ax, lmx + lmw, 9.95, lex, 9.95)
 
-    box(ax, lmx, 7.5, lmw, 0.9, "Reports sought for retrieval\n(n = 244)")
+    box(ax, lmx, 7.5, lmw, 0.9, "Reports sought for retrieval\n(n = 245)")
     arrow(ax, lmx + lmw / 2, 9.5, lmx + lmw / 2, 8.4)
     box(ax, lex, 7.55, lew, 0.8, "Reports not retrieved (n = 9):\nfull text could not be obtained")
     arrow(ax, lmx + lmw, 7.95, lex, 7.95)
 
-    box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 235)")
+    box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 236)")
     arrow(ax, lmx + lmw / 2, 7.5, lmx + lmw / 2, 6.3)
     box(ax, lex, 4.7, lew, 1.7,
         "Reports excluded (n = 71):\noverlapping / duplicate dataset (n = 55);\n"
@@ -71,15 +71,15 @@ def main():
     # ---- included ----
     incx, incw = 1.3, 8.7
     box(ax, incx, 3.0, incw, 1.3,
-        "Studies included in the review (n = 164)\n"
-        "Quantitative synthesis: 54 studies   |   Narrative synthesis only: 110",
+        "Studies included in the review (n = 165)\n"
+        "Quantitative synthesis: 55 studies   |   Narrative synthesis only: 110",
         fc="#cfe6d4")
     arrow(ax, lmx + lmw / 2, 5.4, lmx + lmw / 2, 4.3)
 
     box(ax, incx, 1.0, incw, 1.4,
-        "Studies contributing ≥1 estimate to the quantitative synthesis (n = 54)\n"
-        "202 extracted estimates → 83 representative estimates (one per analytic cell), from 24 studies;\n"
-        "the remaining 30 studies contributed only overlapping estimates to the sensitivity analysis",
+        "Studies contributing ≥1 estimate to the quantitative synthesis (n = 55)\n"
+        "206 extracted estimates → 83 representative estimates (one per analytic cell), from 24 studies;\n"
+        "the remaining 31 studies contributed only overlapping estimates to the sensitivity analysis",
         fc="#cfe6d4", fs=7.0)
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
 

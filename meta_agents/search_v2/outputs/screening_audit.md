@@ -42,30 +42,38 @@ term, minus obvious-exclusion markers (non-US country, mortality/survival, treat
 risk-factor, male/transgender, review). This flagged 176 records, whose recorded exclusion reasons
 were reviewed and the strongest content-matches read at the abstract level.
 
-**No further clear false negative of the rec-3720 type** (a full-text article directly reporting a
-race-versus-White incidence rate ratio, wrongly excluded) was found. The closest content-matches
-fall into two correctly-excluded classes:
-- **Conference abstracts** (excluded by the pre-specified document-type rule), including some with
-  eligible-looking content — e.g. 4351 (state variation in TNBC rates by race, NPCR-SEER), 4277
-  (race- and subtype-specific incidence, NHB vs NHW), 4032 (Filipino/Chamorro incidence, Guam), 4388
-  (Asian incidence, Central Valley), 4031 (AANHPI incidence by enclave). If a peer-reviewed
-  full-length version of any of these exists, it would be eligible.
-- **Socioeconomic-, segregation-, redlining-, or enclave-exposure studies** whose comparison is the
-  exposure rather than race versus a White reference (e.g. 2146 redlining MA, 2609 segregation ICE
-  MA, 3730 SES by subtype, 340 Asian enclave, 566 IBC by SEP, 1679 social adversity in Black women)
-  — the same class carried in the narrative synthesis or excluded throughout.
+The flagged records included a set of **neighborhood-, segregation-, redlining-, or enclave-focused
+studies** (e.g. 2146, 2609, 3730, 340, 566, 1679) whose headline comparison is the exposure rather
+than race. Full-text review showed these do not behave uniformly: some carry a race-specific
+age-standardized breast-incidence table as a secondary result and are therefore eligible (confirmed
+below for 2609 and 2146), while others report incidence only by socioeconomic stratum within each
+race and are correctly excluded (3730). The other main group of content-matches were **conference
+abstracts** (excluded by the pre-specified document-type rule), some with eligible-looking content —
+e.g. 4351 (state variation in TNBC rates by race, NPCR-SEER), 4277 (race- and subtype-specific
+incidence, NHB vs NHW), 4032 (Filipino/Chamorro incidence, Guam), 4388 (Asian incidence, Central
+Valley), 4031 (AANHPI incidence by enclave); a peer-reviewed full-length version of any of these
+would be eligible.
 
-**A second false negative was confirmed on full-text review: rec 2609** (Krieger 2018, JNCI Cancer
+**Two further false negatives were confirmed on full-text review: rec 2609 and rec 2146.**
+
+**rec 2609** (Krieger 2018, JNCI Cancer
 Spectrum, PMID 31360840). Although framed as a study of residential segregation, its Table 2 reports
 Massachusetts age-standardized (2000 US) breast incidence rates by race with 95% CIs — NHW 140.8,
 NHB 113.6, Hispanic 86.9, Asian/PI 90.4, AIAN 64.1 per 100,000 — from which IRRs versus NHW were
 computed (NHB 0.81, Hispanic 0.62, Asian/PI 0.64, AIAN 0.46; delta method). It was added to the
 quantitative synthesis as a single-state overlap of the national aggregate representatives, changing
-no result. Both confirmed misses (3720, 2609) are neighborhood- or segregation-focused studies that
-nonetheless report race-specific breast incidence — the recurring false-negative pattern here — so a
-few more of that kind may remain in the excluded pool; retrieving and checking the other flagged
-neighborhood/SES studies (e.g. 2146 redlining, 3730 SES-by-subtype, 340 Asian enclave) would settle
-them, and any would be regional sensitivity overlaps that do not change a representative. The
+no result. **rec 2146** (Wright/Krieger 2022, JNCI Cancer Spectrum, PMID 35603845; Massachusetts
+redlining study) likewise reports, in its Table 3, age-standardized MA breast incidence by race
+(NHW 146.56, NHB 119.06, Hispanic 83.71, Asian/PI 83.15, AIAN 82.57 per 100 000); IRRs vs NHW
+computed (NHB 0.81, Hispanic 0.57, Asian/PI 0.57, AIAN 0.56) and added as single-state overlaps.
+All three confirmed misses (3720, 2609, 2146) are neighborhood- or segregation-focused studies that
+nonetheless carry a race-specific breast-incidence table — the recurring false-negative pattern. Not
+every such study qualifies: rec 3730 (Akinyemiju 2015, SES by hormone-receptor subtype) was checked
+in full and correctly stays excluded, because it reports incidence only by socioeconomic stratum
+within each race, with no race-versus-White rate table. A few more of the qualifying kind may remain;
+checking the other flagged neighborhood/SES studies (e.g. 340 Asian enclave, and the conference
+abstracts) would settle them, and any would be regional sensitivity overlaps that do not change a
+representative. The
 remaining flagged records were risk-factor, stage- or mortality-specific, NHW-only,
 proportionate-incidence (PIR), conference-abstract, or methodological reports, consistent with their
 recorded exclusion reasons.
