@@ -10,6 +10,7 @@ and the same group's row shows how its relative incidence shifts by dimension
 """
 import csv
 import os
+from decimal import Decimal, ROUND_HALF_UP
 
 import matplotlib
 matplotlib.use("Agg")
@@ -99,7 +100,10 @@ def main():
             v = M[i, j]
             # white text on the darkest cells, else near-black
             dark = v <= 0.45 or v >= 1.6
-            ax.text(j, i, "%.2f" % v, ha="center", va="center", fontsize=8.6,
+            # round half-up (epidemiology convention) so 2-decimal labels match the
+            # text and Table 1 — e.g. 1.045 -> 1.05, not %.2f's float-rounded 1.04
+            lab = str(Decimal(str(round(float(v), 3))).quantize(Decimal("0.01"), ROUND_HALF_UP))
+            ax.text(j, i, lab, ha="center", va="center", fontsize=8.6,
                     color="white" if dark else "#1a1a1a")
 
     cb = fig.colorbar(im, ax=ax, fraction=0.035, pad=0.03,
