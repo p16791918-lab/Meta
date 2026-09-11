@@ -18,8 +18,8 @@ Indian Health Serviceâlinked estimate was preferred to counter registry und
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 165 studies were included—55 eligible for quantitative
-synthesis and 110 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 166 studies were included—55 eligible for quantitative
+synthesis and 111 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widelyâ0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
@@ -115,10 +115,12 @@ same signature, and full-text review of the flagged records identified two furth
 studies—both Massachusetts Cancer Registry reports of age-standardized breast incidence by race
 versus NHW—which were likewise added to the quantitative synthesis as single-state overlaps. All
 three misses were neighborhood- or segregation-focused studies that nonetheless reported
-race-specific incidence in a table; another flagged study of that kind was checked and correctly
-excluded, because it reported incidence only by socioeconomic stratum within each race, not a
-race-versus-White comparison. The three added studies entered the sensitivity analysis without
-changing a representative. That eligible studies
+race-specific incidence in a table, and all three entered the sensitivity analysis without changing a
+representative. Other flagged studies of that kind were checked in full with different outcomes: one
+reporting inflammatory breast cancer incidence by race was added to the narrative synthesis (that
+morphological subtype falls outside the receptor-defined quantitative cells), while two were confirmed
+correctly excluded because they reported incidence only by socioeconomic stratum within a single race
+or within each race, not a race-versus-White comparison. That eligible studies
 surfaced this way indicates a small residual false-negative rate; single-reviewer screening with
 model assistance, rather than independent dual screening, is a limitation (Supplementary, screening
 audit). The author then obtained and read the full texts and
@@ -134,9 +136,9 @@ age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years
 65 years and older, a seven-state Delta-region study giving age-adjusted subtype rate ratios versus
 NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
 recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
-national representatives. In all, 165
+national representatives. In all, 166
 publications were included in the systematic review; of these, 55 were eligible for quantitative
-synthesis and the remaining 110 informed the narrative synthesis. Most included studies were population-based registry or incidence
+synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -247,11 +249,11 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 245 reports; 10 could not be
-retrieved, and of the 236 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 165 included studies (Figure 1). Of these, 55 were eligible for
+retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
 quantitative synthesis and entered the analysis, contributing 206 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 110 informed the narrative synthesis (165 = 55 + 110). The extracted studies were published
+sensitivity analysis; the remaining 111 informed the narrative synthesis (166 = 55 + 111). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 83 representative estimates remained, one per analytic
@@ -308,7 +310,7 @@ overall incidence (0.93), have the highest triple-negative rate (1.95), while se
 subgroups that are below the NHW rate overall remain so across subtypes.
 
 ### Narrative synthesis
-The 110 narrative-synthesis studies met the inclusion criteria but contributed no
+The 111 narrative-synthesis studies met the inclusion criteria but contributed no
 independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
 rate could be recovered, and a few multi-registry summary reports (for example, the annual
 reports to the nation and the annual cancer-statistics summaries) because they re-reported
@@ -317,7 +319,7 @@ and period. Grouped by theme in Supplementary Table 2, they fall into six overla
 and where they reported a racial or ethnic comparison their findings were broadly consistent
 with the quantitative results.
 
-Molecular subtype and histology (22 studies) described the
+Molecular subtype and histology (23 studies) described the
 higher triple-negative and hormone-receptor-negative burden in NHB women and the predominance
 of HR+/HER2− disease in NHW women, and extended the picture to inflammatory, lobular, and ductal
 histologies that the receptor-defined cells do not capture. Geography and region (23 studies)

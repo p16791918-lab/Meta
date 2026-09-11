@@ -78,10 +78,12 @@ same signature, and full-text review of the flagged records identified two furth
 studies—both Massachusetts Cancer Registry reports of age-standardized breast incidence by race
 versus NHW—which were likewise added to the quantitative synthesis as single-state overlaps. All
 three misses were neighborhood- or segregation-focused studies that nonetheless reported
-race-specific incidence in a table; another flagged study of that kind was checked and correctly
-excluded, because it reported incidence only by socioeconomic stratum within each race, not a
-race-versus-White comparison. The three added studies entered the sensitivity analysis without
-changing a representative. That eligible studies
+race-specific incidence in a table, and all three entered the sensitivity analysis without changing a
+representative. Other flagged studies of that kind were checked in full with different outcomes: one
+reporting inflammatory breast cancer incidence by race was added to the narrative synthesis (that
+morphological subtype falls outside the receptor-defined quantitative cells), while two were confirmed
+correctly excluded because they reported incidence only by socioeconomic stratum within a single race
+or within each race, not a race-versus-White comparison. That eligible studies
 surfaced this way indicates a small residual false-negative rate; single-reviewer screening with
 model assistance, rather than independent dual screening, is a limitation (Supplementary, screening
 audit). The author then obtained and read the full texts and
@@ -97,9 +99,9 @@ age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years
 65 years and older, a seven-state Delta-region study giving age-adjusted subtype rate ratios versus
 NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
 recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
-national representatives. In all, 165
+national representatives. In all, 166
 publications were included in the systematic review; of these, 55 were eligible for quantitative
-synthesis and the remaining 110 informed the narrative synthesis. Most included studies were population-based registry or incidence
+synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several

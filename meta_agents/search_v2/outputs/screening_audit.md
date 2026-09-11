@@ -68,12 +68,20 @@ redlining study) likewise reports, in its Table 3, age-standardized MA breast in
 computed (NHB 0.81, Hispanic 0.57, Asian/PI 0.57, AIAN 0.56) and added as single-state overlaps.
 All three confirmed misses (3720, 2609, 2146) are neighborhood- or segregation-focused studies that
 nonetheless carry a race-specific breast-incidence table — the recurring false-negative pattern. Not
-every such study qualifies: rec 3730 (Akinyemiju 2015, SES by hormone-receptor subtype) was checked
-in full and correctly stays excluded, because it reports incidence only by socioeconomic stratum
-within each race, with no race-versus-White rate table. A few more of the qualifying kind may remain;
-checking the other flagged neighborhood/SES studies (e.g. 340 Asian enclave, and the conference
-abstracts) would settle them, and any would be regional sensitivity overlaps that do not change a
-representative. The
+every such study qualifies. Three more were retrieved and checked in full:
+- **rec 566** (Schairer 2012, IBC × socioeconomic position, SEER 2000–2007) reports inflammatory
+  breast cancer incidence rate ratios by race versus NHW (Black 1.73, Hispanic-White 1.46, Asian/PI
+  0.79, AIAN 1.55). It is eligible, but inflammatory breast cancer is a morphological subtype outside
+  the receptor-defined quantitative cells, so — like the other IBC reports (259, 3845) — it was added
+  to the **narrative synthesis**, not the quantitative synthesis.
+- **rec 3730** (Akinyemiju 2015, SES by hormone-receptor subtype) and **rec 1679** (Hernandez 2025,
+  social adversity and TNBC among US Black women) were confirmed **correctly excluded**: each reports
+  incidence only by socioeconomic stratum — within each race (3730) or within a single race (1679,
+  Black women only, reference = lowest-SES group) — with no race-versus-White rate table.
+
+A few more of the qualifying kind may remain; checking the other flagged neighborhood/SES studies
+(e.g. 340 Asian enclave, not retrievable here) would settle them, and any would be regional
+sensitivity overlaps that do not change a representative. The
 remaining flagged records were risk-factor, stage- or mortality-specific, NHW-only,
 proportionate-incidence (PIR), conference-abstract, or methodological reports, consistent with their
 recorded exclusion reasons.

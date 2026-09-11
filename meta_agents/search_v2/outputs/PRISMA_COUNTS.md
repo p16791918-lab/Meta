@@ -11,8 +11,8 @@
 
 ## Screening
 - Records screened (title/abstract): 4,793
-- Records excluded: 4,548
-- Reports sought for retrieval: 245
+- Records excluded: 4,547
+- Reports sought for retrieval: 246
 - Reports not retrieved: 9 (full text unavailable — records 157, 253, 415, 424, 428, 476,
   2038, 3116, 3268; sought but could not be obtained, so not assessable)
 - Note: record 3720, a Louisiana Tumor Registry triple-negative study reporting an age-adjusted
@@ -22,12 +22,12 @@
   is why the excluded count fell (from 4,551). A further scan of the whole excluded pool found two more wrongly excluded studies — records 2609 (Krieger 2018) and 2146 (Wright/Krieger 2022), both Massachusetts Cancer Registry reports of age-standardized breast incidence by race versus NHW — each added to the quantitative synthesis as a single-state overlap. The three additions together account for excluded 4,551 → 4,548 and the assessed/included counts rising by three.
 
 ## Eligibility
-- Reports assessed for eligibility (full text): 236
+- Reports assessed for eligibility (full text): 237
 - Reports excluded: 71 (reasons in `TableS_excluded_fulltext.csv`): overlapping/duplicate
   dataset 55; did not report eligible outcome 12; ineligible population 3; preprint 1
 
 ## Included
-- Studies included in review: 165
+- Studies included in review: 166
   - Quantitative synthesis: 55 studies (all eligible studies contributed extractable estimates)
     (24 supplied a cell representative; the other 31 contributed overlapping estimates carried
     only in the sensitivity analysis — e.g. 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR
@@ -39,7 +39,7 @@
     vs NHW; 93 Zahnd Delta-region 7-state subtype IRRs vs NHW; and 210 Du SEER-18 age-adjusted
     rates by race (IRR vs NHW recomputed) — all carrying rate ratios in tables missed on the
     first text pass, and all entering as overlapping or age-specific estimates.)
-  - Narrative synthesis only: 110
+  - Narrative synthesis only: 111
 
 ## Notes for the flowchart
 - Single-reviewer screening with AI assistance; state this in Methods.
