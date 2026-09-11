@@ -30,9 +30,37 @@ case-control; late-stage/metastasis burden), as were the remaining 101 title-dec
 (non-US, mortality/survival/outcome, risk-factor, genetic, treatment, male/transgender, editorial,
 hospital-based).
 
-**Conclusion.** One eligible study surfaced in the 200-record sample (~0.5%), indicating a small but
-non-zero false-negative rate. Single-reviewer screening with model assistance, rather than
+**Conclusion (sample).** One eligible study surfaced in the 200-record sample (~0.5%), indicating a
+small but non-zero false-negative rate. Single-reviewer screening with model assistance, rather than
 independent dual screening, is a limitation. The one study found was moved out of the excluded set.
+
+## Full-pool scan (all 4,551 excluded records)
+
+Because a sampled miss implies others, every excluded record was then scanned at the title+abstract
+level for the same signature—breast + incidence/rate + race/ethnicity + a US registry/population
+term, minus obvious-exclusion markers (non-US country, mortality/survival, treatment, genetic,
+risk-factor, male/transgender, review). This flagged 176 records, whose recorded exclusion reasons
+were reviewed and the strongest content-matches read at the abstract level.
+
+**No further clear false negative of the rec-3720 type** (a full-text article directly reporting a
+race-versus-White incidence rate ratio, wrongly excluded) was found. The closest content-matches
+fall into two correctly-excluded classes:
+- **Conference abstracts** (excluded by the pre-specified document-type rule), including some with
+  eligible-looking content — e.g. 4351 (state variation in TNBC rates by race, NPCR-SEER), 4277
+  (race- and subtype-specific incidence, NHB vs NHW), 4032 (Filipino/Chamorro incidence, Guam), 4388
+  (Asian incidence, Central Valley), 4031 (AANHPI incidence by enclave). If a peer-reviewed
+  full-length version of any of these exists, it would be eligible.
+- **Socioeconomic-, segregation-, redlining-, or enclave-exposure studies** whose comparison is the
+  exposure rather than race versus a White reference (e.g. 2146 redlining MA, 2609 segregation ICE
+  MA, 3730 SES by subtype, 340 Asian enclave, 566 IBC by SEP, 1679 social adversity in Black women)
+  — the same class carried in the narrative synthesis or excluded throughout.
+
+One borderline non-abstract case is flagged for the author's judgment: **rec 2609** (Massachusetts
+Cancer Registry, 2010–2014) reports incidence stratified by race/ethnicity, so an NHB-versus-NHW
+Massachusetts rate ratio could in principle be recovered; as a single-state estimate it would be a
+sensitivity overlap of the national representatives and would not change a result. The remaining
+flagged records were risk-factor, stage- or mortality-specific, NHW-only, proportionate-incidence
+(PIR), or methodological reports, consistent with their recorded exclusion reasons.
 
 **Omissions found elsewhere and their follow-up.** Two rounds of source re-verification also found
 extractable data missed on first pass, all among *included* reports, and all were corrected:
