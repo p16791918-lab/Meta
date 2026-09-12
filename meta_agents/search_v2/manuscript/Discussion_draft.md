@@ -75,7 +75,7 @@ main pattern held across the four sensitivity analyses: few cells changed repres
 restriction, and most of the differences were cells dropped for lack of a qualifying estimate rather
 than cells that disagreed. Standard-population differences changed little, and the changes that did
 occur clustered in the disaggregated AANHPI subgroups and the age-specific cells whose estimates sit
-near the NHW rate—Japanese women above being the clearest case—so the aggregate ordering is robust
+near the NHW rate, as with the Japanese cell above, so the aggregate ordering is robust
 while a few near-null subgroup signs are not. The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
@@ -91,9 +91,11 @@ not by itself make the estimates commensurable: because the cells are drawn from
 differences in standard population, underlying age structure, registry region, and diagnosis period
 remain embedded in the ratios and are not cancelled by the common comparator. A ratio removes the
 shared standard-population scaling only when its numerator and denominator come from the same
-source and standardization—which holds within each cell but not across cells. Included studies
-differed in standard population and diagnosis period, limiting cross-cell comparability, and a few
-older studies used a 1970 standard population (world or US) and one the 1960 Segi world standard. The review was restricted to
+source and standardization—which holds within each cell but not across cells. Diagnosis period and registry region
+differed across cells and are the main limits on cross-cell comparability; standard population
+differed less—most estimates used the 2000 US standard, with a 1970 (world or US) or the 1960 Segi
+world standard in a few older studies, and restricting to the 2000 US standard left the pattern
+essentially unchanged. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
@@ -112,7 +114,7 @@ separates cells corroborated by two or more independent sources (36 of the 83 an
 those resting on a single study (47), and it shows where independent studies agree and where they do
 not: the aggregate ordering and most subgroup estimates held across the low-risk-of-bias,
 directly-reported, NHW-comparator, and standard-population restrictions, while a few near-null differences—chiefly among
-Asian American subgroups, with Japanese women the clearest case—changed sign with the source, and the
+Asian American subgroups, notably Japanese women—changed sign with the source, and the
 AI/AN comparison depended on whether case ascertainment was IHS-linked. Reviewing the studies
 jointly rather than singly therefore confirmed something no individual report, confined to its own
 registry and period, could establish: that the wide within-aggregate heterogeneity is reproducible
