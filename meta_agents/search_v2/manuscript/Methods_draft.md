@@ -155,7 +155,7 @@ for studies reporting prevalence/incidence data,¹⁴ which is designed for popu
 descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
 of the condition, adequate coverage, and appropriate statistical/standardization methods). The
 checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 52 extracted studies
+large-language-model assistance, and every item was recorded for all 55 extracted studies
 (Supplementary Table 5). Item 9 (response rate) was recorded as not applicable for every study,
 because census-like registry ascertainment has no survey response rate; it was therefore not
 counted as a defect. Each study's overall rating used the eight applicable items: low risk of bias
