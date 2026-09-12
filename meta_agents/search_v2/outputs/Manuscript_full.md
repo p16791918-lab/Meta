@@ -342,11 +342,7 @@ restricting to NHW-comparator estimates left 64 unchanged (1 changed, 18 dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against an NHW reference (1.25); and restricting to estimates standardized to the
-2000 U.S. standard population left 81 of 83 unchanged and dropped none, with only two Black
-receptor-subtype cells changing—each from a representative standardized to the 1960 Segi world
-standard to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80
-to 1.60, hormone-receptor-positive 0.82 to 0.70).
+estimate reported against an NHW reference (1.25).
 
 ## Discussion
 
