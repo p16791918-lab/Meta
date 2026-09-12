@@ -111,7 +111,9 @@ seen (Supplementary Table 4). Within a cell, the representative was chosen by ap
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
 NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
-interval where available.
+interval where available. Where a cell had no NHW-comparator source—the receptor-defined subtype
+cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
+as the representative and marked †.
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries misclassify race and undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
