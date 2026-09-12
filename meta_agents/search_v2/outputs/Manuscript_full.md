@@ -156,7 +156,7 @@ ascertainment validity: because unlinked registries misclassify race and underco
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
 estimate for the same cell, ahead of both the coverage and the comparator-type preferences. Where
-the best-ascertained source for a cell reported only an unstratified White comparator, as for Alaska
+this ascertainment-preferred source reported only an unstratified White comparator, as for Alaska
 Native women, that estimate was kept as the representative and the non-Hispanic-White-comparator
 alternative was carried in the sensitivity analysis.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
