@@ -73,13 +73,14 @@ restriction, and most of the differences were cells dropped for lack of a qualif
 than cells that disagreed. Standard-population differences changed little, and the changes that did
 occur clustered in the disaggregated AANHPI subgroups and the age-specific cells whose estimates sit
 near the NHW rate, as with the Japanese cell above, so the aggregate ordering is robust
-while a few near-null subgroup signs are not. The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
+while a few near-null subgroup signs are not.
+
+The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
 foreign-born proportion and residence in ethnic enclaves and to rates that rise with longer U.S.
-residence,⁵,⁹ and differences in molecular-subtype distribution and in stage at diagnosis,
-screening, and access to care have also been described.²,²⁹ Genetic or biological mechanisms were
-not examined.
+residence,⁵,⁹ and differences in molecular-subtype distribution and in screening and access to
+care have also been described.²,²⁹ Genetic or biological mechanisms were not examined.
 
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
