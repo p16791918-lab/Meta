@@ -64,10 +64,9 @@ unstratified White reference—so each comparator was recorded as its source def
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
 chiefly the receptor-defined subtypes, can shift a ratio slightly.
 
-Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
-and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though the
-estimates are not fully commensurable, for the reasons set out under the limitations below, and the
-arrangement shows the span of published figures rather than a set of mutually calibrated rates. The
+These cell estimates are not fully commensurable, for the reasons set out under the limitations
+below, so their arrangement on the common NHW scale shows the span of published figures rather than a
+set of mutually calibrated rates. The
 main pattern held across the four sensitivity analyses: few cells changed representative on
 restriction, and most of the differences were cells dropped for lack of a qualifying estimate rather
 than cells that disagreed. Standard-population differences changed little, and the changes that did
