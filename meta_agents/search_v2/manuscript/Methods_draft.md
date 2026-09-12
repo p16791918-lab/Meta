@@ -62,24 +62,13 @@ records). Titles and abstracts were screened against the pre-specified eligibili
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
 included set and a sample of the excluded set. To check the screening for false negatives, a random
-sample of 200 of the model-excluded records was re-screened (reproducible seed): every title and its
-recorded exclusion reason was read, and the abstracts of the records that concerned breast cancer or
-race and ethnicity with incidence were retrieved and read. This re-screen found one wrongly excluded
-record—a Louisiana Tumor Registry triple-negative study—which was added to the review; its full text
-was subsequently obtained, and it entered the quantitative synthesis as a regional overlapping
-estimate for the NHB triple-negative cell (Black versus an unstratified White reference, rate ratio 2.21, 95% CI 1.96–2.48).
-The other 199 were confirmed correctly excluded. Because that miss implied others, the whole excluded set was then scanned for the
-same signature, and full-text review of the flagged records identified two further wrongly excluded
-studies—both Massachusetts Cancer Registry reports of age-standardized breast incidence by race
-versus NHW—which were likewise added to the quantitative synthesis as single-state overlaps. All
-three misses were neighborhood- or segregation-focused studies that nonetheless reported
-race-specific incidence in a table, and all three entered the sensitivity analysis without changing a
-representative. Other flagged studies of that kind were checked in full with different outcomes: one
-reporting inflammatory breast cancer incidence by race was added to the narrative synthesis (that
-morphological subtype falls outside the receptor-defined quantitative cells), while two were confirmed
-correctly excluded because they reported incidence only by socioeconomic stratum within a single race
-or within each race, not a race-versus-White comparison. The full screening audit is provided in
-the Supplementary. The author then obtained and read the full texts and
+sample of 200 model-excluded records was re-screened (reproducible seed)—each title, its recorded
+exclusion reason, and, where the record concerned breast cancer incidence by race, its abstract and
+full text—and the whole excluded set was then scanned for the signature this sample revealed. The
+audit identified three wrongly excluded studies, all neighborhood- or segregation-focused reports
+that nonetheless tabulated race-specific incidence; each was added to the quantitative synthesis as
+a single-state or regional overlap, and none changed a cell representative. The full audit, with the
+records checked and the reasons retained, is in Supplementary Note 2. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for four reports whose full
 text could not be obtained, which were assessed and included on the basis of their abstracts and
 enter only the narrative synthesis. The model assisted data
