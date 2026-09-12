@@ -40,8 +40,8 @@ representative selection is restricted to low-risk-of-bias studies the cell is i
 earlier eight-state SEER+NPCR estimate⁴⁹ that places it just below (0.95). The flip does not
 overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
 near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
-risk of bias: the substituted studies also differ in diagnosis period, registry region, and
-comparator, and any of these can move a borderline estimate across 1.0.
+risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022)
+and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 Two features of the underlying data shaped these estimates.
 First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
