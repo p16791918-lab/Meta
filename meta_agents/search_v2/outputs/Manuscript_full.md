@@ -112,11 +112,10 @@ made all full-text eligibility and inclusion decisions personally—except for o
 only as a supplementary data table rather than a full article, which was assessed from that table
 and enters only the narrative synthesis (distinct from the nine reports not retrieved at all). The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
-was verified by the author against the source table, figure, or text. This source re-verification rendered every included
-report's tables as page images, not only its extracted text, so that rate ratios in image-only
-tables were not missed; four reports first placed in the narrative set were thereby moved to the
-quantitative synthesis (Supplementary Note 2), all contributing overlapping or age-specific
-estimates rather than displacing the national representatives. In all, 166
+was verified by the author against the source table, figure, or text; this verification moved four
+reports first placed in the narrative set to the quantitative synthesis (Supplementary Note 2), all
+contributing overlapping or age-specific estimates rather than displacing the national
+representatives. In all, 166
 publications were included in the systematic review; of these, 55 were eligible for quantitative
 synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
