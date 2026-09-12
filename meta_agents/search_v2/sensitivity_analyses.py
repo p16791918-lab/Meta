@@ -60,6 +60,12 @@ def is_external(r):
     return "external" in (r.get("comparison_vs", "") or "").lower()
 
 
+def is_us2000(r):
+    # standardized to the 2000 US standard population (the modal standard); the
+    # "2000 US; ..." variants carry an extra source note but the same standard.
+    return (r.get("std_pop", "") or "").strip().lower().startswith("2000 us")
+
+
 def best(rows):
     rows = [r for r in rows if (r.get("irr") or "").strip()]
     if not rows:
@@ -187,6 +193,11 @@ def main():
                "Sensitivity3_nhw_only",
                "Sensitivity #3 — non-Hispanic White comparator only (unstratified-White comparators dropped)")
     print("#3 NHW-comparator    :", dict(c3))
+
+    c4 = write(run(rows, is_us2000, mainrep, "SENS4"),
+               "Sensitivity4_std2000us",
+               "Sensitivity #4 — 2000 US standard population only (other standard populations dropped)")
+    print("#4 2000-US-standard  :", dict(c4))
 
 
 if __name__ == "__main__":

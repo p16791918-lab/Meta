@@ -70,11 +70,13 @@ single master dataset.
 Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
 and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though the
 estimates are not fully commensurable, for the reasons set out under the limitations below, and the
-arrangement shows the span of published figures rather than a set of mutually calibrated rates. Across the three sensitivity
+arrangement shows the span of published figures rather than a set of mutually calibrated rates. Across the four sensitivity
 analyses the main pattern held: few cells changed representative on restriction (11 under the
-low-risk-of-bias restriction, 5 under the directly-reported restriction, and 1 under the
-NHW-comparator restriction), and most of the differences were cells dropped for lack of a qualifying
-estimate rather than cells that disagreed. The changes that did occur clustered in the disaggregated
+low-risk-of-bias restriction, 5 under the directly-reported restriction, 1 under the
+NHW-comparator restriction, and 2 under the 2000 U.S. standard-population restriction), and most of the differences were cells dropped for lack of a qualifying
+estimate rather than cells that disagreed. Standard-population heterogeneity in particular proved
+minor: 81 of 83 representatives were already on the 2000 U.S. standard, and restricting to it dropped
+no cell and changed only two Black receptor-subtype cells, in the same direction. The changes that did occur clustered in the disaggregated
 AANHPI subgroups and the age-specific cells whose estimates sit near the NHW rate—Japanese women
 above being the clearest case—so the aggregate ordering is robust while a few near-null subgroup
 signs are not. The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as

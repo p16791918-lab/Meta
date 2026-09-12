@@ -16,7 +16,7 @@ registration and are reported here as deviations from the protocol: the analytic
 with one representative population-based estimate per cell (in place of statistical pooling of
 non-independent registry estimates); the provenance tiering and the coverage-based rule for
 choosing a representative, including the preference for Indian Health Service (IHS)–linked sources for
-AI/AN populations; the receptor-defined subtype and age-band cells; the three restriction-based
+AI/AN populations; the receptor-defined subtype and age-band cells; the four restriction-based
 sensitivity analyses; and the reclassification of four reports from the narrative to the
 quantitative synthesis after their source tables were re-verified as page images.
 
@@ -125,9 +125,10 @@ kept as the representative because completeness of ascertainment took priority o
 and its NHW-comparator alternative was carried in the sensitivity analysis.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
-of the selection was checked in three ways: restricting to studies at low risk of bias, to
-directly reported (rather than computed) estimates, and to estimates with an NHW (rather than
-unstratified White) comparator (Supplementary Table 6).
+of the selection was checked in four ways: restricting to studies at low risk of bias, to
+directly reported (rather than computed) estimates, to estimates with an NHW (rather than
+unstratified White) comparator, and to estimates standardized to the 2000 U.S. standard population
+(Supplementary Table 6).
 
 ### Risk of bias
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist

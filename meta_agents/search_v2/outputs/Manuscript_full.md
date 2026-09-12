@@ -55,7 +55,7 @@ registration and are reported here as deviations from the protocol: the analytic
 with one representative population-based estimate per cell (in place of statistical pooling of
 non-independent registry estimates); the provenance tiering and the coverage-based rule for
 choosing a representative, including the preference for Indian Health Service (IHS)–linked sources for
-AI/AN populations; the receptor-defined subtype and age-band cells; the three restriction-based
+AI/AN populations; the receptor-defined subtype and age-band cells; the four restriction-based
 sensitivity analyses; and the reclassification of four reports from the narrative to the
 quantitative synthesis after their source tables were re-verified as page images.
 
@@ -164,9 +164,10 @@ kept as the representative because completeness of ascertainment took priority o
 and its NHW-comparator alternative was carried in the sensitivity analysis.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
-of the selection was checked in three ways: restricting to studies at low risk of bias, to
-directly reported (rather than computed) estimates, and to estimates with an NHW (rather than
-unstratified White) comparator (Supplementary Table 6).
+of the selection was checked in four ways: restricting to studies at low risk of bias, to
+directly reported (rather than computed) estimates, to estimates with an NHW (rather than
+unstratified White) comparator, and to estimates standardized to the 2000 U.S. standard population
+(Supplementary Table 6).
 
 ### Risk of bias
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
@@ -323,16 +324,20 @@ summarized qualitatively rather than placed on the common IRR scale.
 On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
-representative selection was examined in three ways (Supplementary Table 6). Restricting to
+representative selection was examined in four ways (Supplementary Table 6). Restricting to
 low-risk-of-bias studies left 62 of 83 cell representatives unchanged, with the 11 changed and 10
 dropped cells falling mainly among the disaggregated AANHPI subgroups and, in smaller numbers, the
 receptor-subtype, age-specific, and Middle Eastern cells;
-restricting to directly reported estimates left 31 unchanged (5 changed, 47 dropped); and
+restricting to directly reported estimates left 31 unchanged (5 changed, 47 dropped);
 restricting to NHW-comparator estimates left 64 unchanged (1 changed, 18 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against an NHW reference (1.25).
+estimate reported against an NHW reference (1.25); and restricting to estimates standardized to the
+2000 U.S. standard population left 81 of 83 unchanged and dropped none, with only two Black
+receptor-subtype cells changing—each from a representative standardized to the 1960 Segi world
+standard to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80
+to 1.60, hormone-receptor-positive 0.82 to 0.70).
 
 ## Discussion
 
@@ -400,11 +405,13 @@ single master dataset.
 Bringing these disaggregated estimates onto a common NHW scale, with overlapping estimates collapsed
 and each source appraised, arranges aggregate and subgroup results on one axis for comparison—though the
 estimates are not fully commensurable, for the reasons set out under the limitations below, and the
-arrangement shows the span of published figures rather than a set of mutually calibrated rates. Across the three sensitivity
+arrangement shows the span of published figures rather than a set of mutually calibrated rates. Across the four sensitivity
 analyses the main pattern held: few cells changed representative on restriction (11 under the
-low-risk-of-bias restriction, 5 under the directly-reported restriction, and 1 under the
-NHW-comparator restriction), and most of the differences were cells dropped for lack of a qualifying
-estimate rather than cells that disagreed. The changes that did occur clustered in the disaggregated
+low-risk-of-bias restriction, 5 under the directly-reported restriction, 1 under the
+NHW-comparator restriction, and 2 under the 2000 U.S. standard-population restriction), and most of the differences were cells dropped for lack of a qualifying
+estimate rather than cells that disagreed. Standard-population heterogeneity in particular proved
+minor: 81 of 83 representatives were already on the 2000 U.S. standard, and restricting to it dropped
+no cell and changed only two Black receptor-subtype cells, in the same direction. The changes that did occur clustered in the disaggregated
 AANHPI subgroups and the age-specific cells whose estimates sit near the NHW rate—Japanese women
 above being the clearest case—so the aggregate ordering is robust while a few near-null subgroup
 signs are not. The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as

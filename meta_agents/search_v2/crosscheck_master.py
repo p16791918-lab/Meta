@@ -205,7 +205,7 @@ def check_D():
             rep[(r["outcome_dim"], norm_g(r["minority_group"]))] = num(r["irr"])
     fails, checked = [], 0
     for name in ("Sensitivity1_good_rob", "Sensitivity2_directly_reported",
-                 "Sensitivity3_nhw_only"):
+                 "Sensitivity3_nhw_only", "Sensitivity4_std2000us"):
         fp = os.path.join(OUT, name + ".csv")
         if not os.path.exists(fp):
             fails.append((name, "-", "sensitivity file not generated"))
