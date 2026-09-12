@@ -155,10 +155,7 @@ For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries misclassify race and undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
-estimate for the same cell, ahead of both the coverage and the comparator-type preferences. Where
-this ascertainment-preferred source reported only an unstratified White comparator, as for Alaska
-Native women, that estimate was kept as the representative and the non-Hispanic-White-comparator
-alternative was carried in the sensitivity analysis.
+estimate for the same cell, ahead of both the coverage and the comparator-type preferences.
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
 of the selection was checked in three ways: restricting to studies at low risk of bias, to
