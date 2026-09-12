@@ -5,12 +5,13 @@ manuscript text itself; the draft prose describes only what was done, with no re
 or process commentary.
 
 ## Must complete before submission
-- [ ] **PROSPERO registration.** Not yet filed. Register the protocol and insert the
-      registration number in Methods §Protocol and reporting (a bracketed placeholder is there now).
+- [x] **PROSPERO registration.** Registered; number CRD42023437049 (author-confirmed) is inserted
+      in Methods §Protocol and reporting and in the Abstract.
 - [x] **Reviewer process — described as actually performed.** Methods now states that screening,
       full-text selection, extraction, and risk-of-bias appraisal were done by a single reviewer
-      (the author) with large-language-model assistance, and that every included study's full text
-      was read for the inclusion decision and every extracted estimate verified against its source;
+      (the author) with large-language-model assistance, and that the full text of all but one
+      included study (rec 1800, available only as a supplementary table) was read for the inclusion
+      decision and every extracted estimate verified against its source;
       the absence of a second independent reviewer is stated as a limitation in Methods and the
       Discussion. If a second independent reviewer is added before submission, update this wording
       and report the inter-reviewer agreement.
