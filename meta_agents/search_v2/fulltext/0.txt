@@ -1,0 +1,2680 @@
+record_id=0 pmid=39352042 doi=10.3322/caac.21863
+SOURCE: manual-pdf
+TITLE: Breast cancer statistics 2024
+
+Received: 30 July 2024
+-
+Accepted: 5 August 2024
+DOI: 10.3322/caac.21863
+A R T I C L E
+Breast cancer statistics 2024
+Angela N. Giaquinto MSPH1
+|
+Hyuna Sung PhD1
+|
+Lisa A. Newman MD, MPH2
+|
+Rachel A. Freedman MD, MPH3
+|
+Robert A. Smith PhD4
+|
+Jessica Star MA, MPH1
+|
+Ahmedin Jemal DVM, PhD1
+|
+Rebecca L. Siegel MPH1
+1Surveillance & Health Equity Science,
+American Cancer Society, Atlanta,
+Georgia, USA
+2Department of Surgery, New York‐
+Presbyterian, Weill Cornell Medicine, New
+York, New York, USA
+3Department of Medical Oncology, Dana‐
+Farber Cancer Institute, Harvard Medical
+School, Boston, Massachusetts, USA
+4Early Cancer Detection Science, American
+Cancer Society, Atlanta, Georgia, USA
+Correspondence
+Angela N. Giaquinto, American Cancer
+Society, 270 Peachtree Street NW Suite 1300,
+Atlanta, GA 30303, USA.
+Email: angela.giaquinto@cancer.org
+Abstract
+This is the American Cancer Society's biennial update of statistics on breast cancer
+among women based on high‐quality incidence and mortality data from the National
+Cancer Institute and the Centers for Disease Control and Prevention. Breast cancer
+incidence continued an upward trend, rising by 1% annually during 2012–2021,
+largely confined to localized‐stage and hormone receptor‐positive disease. A
+steeper increase in women younger than 50 years (1.4% annually) versus 50 years
+and older (0.7%) overall was only significant among White women. Asian American/
+Pacific Islander women had the fastest increase in both age groups (2.7% and 2.5%
+per year, respectively); consequently, young Asian American/Pacific Islander women
+had the second lowest rate in 2000 (57.4 per 100,000) but the highest rate in 2021
+(86.3 per 100,000) alongside White women (86.4 per 100,000), surpassing Black
+women (81.5 per 100,000). In contrast, the overall breast cancer death rate
+continuously declined during 1989–2022 by 44% overall, translating to 517,900
+fewer breast cancer deaths during this time. However, not all women have expe-
+rienced this progress; mortality remained unchanged since 1990 in American In-
+dian/Alaska Native women, and Black women have 38% higher mortality than
+White women despite 5% lower incidence. Although the Black‐White disparity
+partly reflects more triple‐negative cancers, Black women have the lowest survival
+for every breast cancer subtype and stage except localized disease, with which they
+are 10% less likely to be diagnosed than White women (58% vs. 68%), highlighting
+disadvantages in social determinants of health. Progress against breast cancer could
+be accelerated by mitigating racial, ethnic, and social disparities through improved
+clinical trial representation and access to high‐quality screening and treatment.
+K E Y W O R D S
+breast neoplasms, breast cancer, epidemiology, health disparities, incidence, mortality,
+molecular subtype
+This is an open access article under the terms of the Creative Commons Attribution‐NonCommercial‐NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
+© 2024 The Author(s). CA: A Cancer Journal for Clinicians published by Wiley Periodicals LLC on behalf of American Cancer Society.
+CA Cancer J Clin. 2024;74:477–495.
+wileyonlinelibrary.com/journal/caac
+-
+477
+
+INTRODUCTION
+Despite decades of declining mortality through earlier detection and
+advancements in treatment, breast cancer remains the second lead-
+ing cause of cancer death among women overall and the leading
+cause of cancer death in Black and Hispanic women. Continued
+progress may be thwarted by rising breast cancer incidence and long‐
+term consequences of the coronavirus disease 2019 (COVID‐19)
+pandemic, such as delayed diagnosis because of interruptions in
+routine care. For example, breast cancer screening prevalence in the
+United States and Canada declined by an estimated 45% overall
+during January through October 2020 according to one review,1 and
+past‐year mammography had not returned to prepandemic levels in
+2021.2 Disturbances in care were greater and recovery slower in
+minoritized populations,3 which may further widen racial and ethnic
+disparities in breast cancer mortality. However, the impact of these
+disruptions on population‐level breast cancer occurrence and out-
+comes will play out slowly over time.
+Herein, the American Cancer Society provides its biennial update
+of breast cancer statistics among women in the United States, including
+the estimated numbers of new cases and deaths in 2024 by age; inci-
+dence and mortality rates and trends by age, race and ethnicity, stage,
+molecular subtype, and state; 5‐year breast cancer survival by stage at
+diagnosis and breast cancer subtype; and self‐reported mammography
+prevalence nationally and by state.
+MATERIALS AND METHODS
+Data source
+Population‐based cancer incidence data in the United States are
+collected by the National Cancer Institute's (NCI's) Surveillance,
+Epidemiology, and End Results (SEER) program and the Centers for
+Disease Control and Prevention's National Program of Cancer Reg-
+istries. Combined data from the SEER program and the National
+Program of Cancer Registries data provided by the North American
+Association of Central Cancer Registries4,5 were the source for
+short‐term incidence trends (1998–2021) and contemporary inci-
+dence rates (2017–2021) by race and ethnicity, age, molecular
+subtype, state, and stage (SEER summary). Information on breast
+cancer molecular subtypes has been collected by all cancer registries
+since 2004. Cases diagnosed during the periods 1998–2021 and
+2017–2021 both reflect 99% population coverage.
+Long‐term incidence trends (1975–2021) for ductal carcinoma in
+situ (DCIS) and invasive breast cancer by age were based on previ-
+ously published data from 1975 through 2018 from the nine oldest
+SEER registries, covering 9% of the US population, while rates from
+2018 through 2021 are from eight registries (excluding Detroit).6,7
+Data from all 22 SEER registries, covering 48% of the US population,
+were used for the lifetime and age‐specific probability of developing
+breast cancer.8 Data from all SEER registries except Illinois and
+Massachusetts were used in analyses of breast cancer survival by
+SEER summary stage, race and ethnicity, and molecular subtype for
+cases diagnosed during 2014–2020 and following through 2021.9
+Mortality data from 1975 to 2022 are based on the underlying
+cause of death on death certificates reported by the National Center
+for Health Statistics (NCHS) covering all 50 states and the District of
+Columbia and were obtained by using the NCI's SEER*Stat soft-
+ware.10,11 Information on death certificates regarding Hispanic origin
+has been available since 1990 from every state except Louisiana
+(1991), New Hampshire (1993), and Oklahoma (1997).
+Prevalence data on self‐reported mammography use by de-
+mographics were obtained from the 2021 National Health Interview
+Survey,12 which is designed to provide national estimates of health
+behaviors based on in‐person surveys and is conducted by the
+NCHS. Self‐reported mammography use by state was obtained from
+the 2022 Behavioral Risk Factor Surveillance System, which is an
+ongoing system of telephone surveys designed to provide state‐level
+information on health behaviors and is conducted by state health
+departments in cooperation with the Centers for Disease Control
+and Prevention.13 Mammography prevalence estimates do not
+distinguish between examinations for screening and diagnosis.
+Statistical analysis
+The information provided herein applies to breast cancer in women
+unless otherwise specified. The overall estimated numbers of new
+invasive breast cancer and DCIS cases in 2024 were published
+elsewhere, and the methodology was described previously.14 The
+number of age‐specific invasive cases and deaths from breast cancer
+were estimated by first applying the age‐specific proportions of
+observed invasive breast cancer cases diagnosed nationally (2016–
+2020) and deaths (2017–2021) to the total estimated counts and
+then adjusting to previously published, modeled age‐group esti-
+mates. The number of age‐specific DCIS cases was estimated by
+applying the age‐specific proportions of observed DCIS cases diag-
+nosed nationally during 2016–2020 applied to the total number of
+estimated cases of DCIS in 2024.
+All incidence and death rates were age‐standardized to the 2000
+US standard population (19 age groups) and are expressed per
+100,000 women, as calculated by using the NCI's SEER*Stat software
+(version 8.4.3).15 Incidence rates are also adjusted for delays in case
+reporting based on composite national delay factors, with the
+exception of those presented by state. Trends in incidence and
+mortality rates were quantified using the NCI's Joinpoint Regression
+Program to calculate the annual percent change (APC) and the
+average annual percent change (AAPC) during a defined time
+period.16 All incidence trends were adjusted for delays in reporting
+to account for the additional time required for the complete regis-
+tration of cases unless otherwise specified. The age‐specific proba-
+bility of developing or dying from breast cancer was calculated using
+the NCI's DevCan software (version 6.7.5) and used data years
+2018–2019 and 2021.17 To avoid potential bias from the abrupt
+reduction in cancer incidence rates during the first year of the
+478
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+COVID‐19 pandemic, we excluded data from 2020 in modeling an-
+alyses that quantified incidence trends and the probability of
+developing or dying from breast cancer (for more information, see
+Mariotto et al.).18
+Incidence and mortality rates for White, Black, American Indian/
+Alaska Native (AIAN), and Asian American/Pacific Islander (AAPI)
+women are exclusive of individuals with Hispanic ethnicity, except for
+long‐term trends to reduce racial misclassification. Incidence rates
+for AIAN women are restricted to Purchased/Referred Care Delivery
+Areas, whereas mortality rates are for the entire United States and
+are adjusted for racial misclassification using the ratios reported by
+Arias et al.19
+Missing data on estrogen receptor (ER), progesterone receptor
+(PR), and human epidermal growth factor receptor 2 (HER2) status
+were imputed using the approach of Anderson et al.,20 which assumes
+that this information is missing at random, conditional on year of
+diagnosis, age, and race and ethnicity. Specifically, two‐step imputa-
+tion was performed based on the joint distribution of ER (positive,
+negative, and missing or borderline) and PR (positive, negative, and
+missing or borderline) status. In the first step, those cases with
+missing ER or PR (not both) status were allocated to either negative
+or positive receptor status according to the distribution of known
+joint ER/PR status in each diagnosis year, age, and race and ethnicity.
+In the second step, those cases missing both ER and PR status were
+allocated to a hormone receptor (HR)‐positive group (defined as
+either ER‐positive or PR‐positive) and an HR‐negative group (defined
+as both ER‐negative and PR‐negative), according to the updated
+distribution of HR status obtained in the first step. Similarly, for joint
+categories of HR and HER2, we first imputed HR status among cases
+with known HER2 status, then imputed and allocated those with
+unknown HER2 status to either HER2‐negative or HER2‐positive.
+Finally, we allocated cases with both unknown HR and HER2 status
+to the four subtypes according to their updated distributions ob-
+tained in the previous steps. Standard errors used for Joinpoint
+analysis were calculated using the delta method.
+The estimated number of deaths from breast cancer averted in
+women because of the reduction in breast cancer death rates since
+1989 was estimated by summing the differences between the ex-
+pected and observed numbers of deaths for each consecutive year
+through 2022. The expected number of deaths was based on the
+assumption that breast cancer death rates remained at their peak
+1989 level and were estimated by applying 5‐year age‐specific
+cancer death rates in 1989 to the corresponding age‐specific fe-
+male populations from 1990 to 2022.
+SELECTED FINDINGS
+Estimated number of breast cancer cases and deaths
+in 2024
+In 2024, approximately 310,720 new cases of invasive breast
+cancer and 56,500 cases of DCIS will be diagnosed among US
+women, and 42,250 women will die from breast cancer. The ma-
+jority of invasive breast cancer cases (84%) and deaths (91%) occur
+among women aged 50 years and older, with about one half (52%)
+of all deaths in women aged 70 years or older (Table 1). The
+median age at diagnosis for breast cancer in women is 62 years
+overall, but it is younger for Hispanic (57 years), AAPI (57 years),
+Black (60 years), and AIAN (60 years) women compared with
+White women (64 years),8 partly because these populations are
+younger. The median age at breast cancer death is 69 years overall,
+ranging from 63 to 64 years for Hispanic, AAPI, and Black
+women to 70 years among White women.21 Although breast cancer
+predominantly
+affects
+women,
+2790
+cases
+and
+530
+deaths
+(approximately 1% of all breast cancer cases and deaths) are ex-
+pected in men in 2024.
+Probability of developing or dying from invasive
+breast cancer
+Approximately one in eight women in the United States, or 13%,
+will be diagnosed with invasive breast cancer, and one in 43, or 2%,
+will die from the disease (Table 2). These lifetime risks are for
+women at average risk of the disease and account for deaths from
+other causes that may preempt a breast cancer diagnosis. The risk
+of being diagnosed with breast cancer peaks in women aged 70–79
+years (4.2%), whereas the risk of dying from the disease continues
+to increase throughout life.
+Breast cancer characteristics by race and ethnicity
+Breast cancer tumor characteristics, such as subtype, size, and stage
+at diagnosis, differ substantially by race and ethnicity in the United
+States (Table 3). Most women are diagnosed with localized‐stage
+T A B L E 1
+Estimated new ductal carcinoma in situ and invasive
+breast cancer cases and breast cancer deaths among women by
+age, United States, 2024.
+Age, years
+DCIS cases
+Invasive cases
+Deaths
+No.
+%
+No.
+%
+No.
+%
+<40
+1360
+2
+13,180
+4
+990
+2
+40–49
+8750
+15
+37,650
+12
+2620
+6
+50–59
+13,760
+24
+67,310
+22
+6800
+16
+60–69
+17,660
+31
+89,540
+29
+10,010
+24
+70–79
+11,890
+21
+69,130
+22
+10,140
+24
+≥80
+3080
+5
+33,910
+11
+11,690
+28
+All ages
+56,500
+100
+310,720
+100
+42,250
+100
+Note: Estimates are rounded to the nearest 10. Percentages may not
+sum to 100% because of rounding.
+Abbreviation: DCIS, ductal carcinoma in situ.
+GIAQUINTO ET AL.
+-
+479
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+disease, although the proportion ranges from 58% among Black
+women to 68% among White women. Notably, a recent study
+estimated that 61% of women living with metastatic breast cancer
+were originally diagnosed with stage I–III disease.22 Black women
+are also most likely to be diagnosed with tumors that are ≥5 cm
+(12% vs. 7% among White women) and high grade (38% vs. 24%
+among White women).
+The most common molecular subtype in each racial and ethnic
+group is HR‐positive/HER2‐negative, with the largest proportion in
+White women. In contrast, Black women have twice the proportion
+of
+HR‐negative/HER2‐negative
+(triple‐negative)
+breast
+cancer
+(19%) compared with every other group (9%–11%). Although the
+reasons for this variation are not well understood, studies have
+demonstrated that some differences correlate with nativity and
+ancestry among both Black women23 and AAPI women.24,25 Vari-
+ations
+in
+tumor
+characteristics
+likely
+also
+reflect
+social
+de-
+terminants
+of
+health,
+such
+as
+poverty
+and
+residential
+racial
+segregation.26
+Contemporary breast cancer occurrence
+Incidence
+The average annual age‐standardized incidence rate for breast
+cancer in women was 131.8 per 100,000 women during 2017–
+2021, ranging from 104.1 per 100,000 in Hispanic women to
+137.9 per 100,000 in White women (Figure 1). Incidence increases
+with age until the seventh decade of life and declines rapidly
+thereafter (Figure 2), reflecting less screening and under‐ascer-
+tainment of cancers among older women. Racial and ethnic differ-
+ences in incidence vary somewhat by age. For example, Black
+women have the highest rate before age 40 years and at ages 55–
+59 years but the second highest rate in other age groups, whereas
+Hispanic women have rates similar to those of White women
+before age 40 years but have the second lowest rates at age 60
+years and older.
+Importantly, incidence rates across the five broadly defined
+racial and ethnic groups mask wide heterogeneity within these
+populations by nativity, geography, and socioeconomic status. For
+example, despite 21% lower breast cancer incidence in AAPI
+women compared with White women nationally, a recent study
+reported
+an
+11%
+higher
+incidence
+among
+Native
+Hawaiian
+women.27 Another study found that Hispanic women born in the
+United States have 38% higher breast cancer incidence than those
+born outside of the United States.28 Currently, there are few na-
+tionally representative cancer registries that capture information
+on ancestral identity beyond the five Office of Management and
+Budget minimum categories, despite the growing need for dis-
+aggregated data, that becomes more evident as the Hispanic and
+AAPI populations grow.29
+Variation by molecular subtype
+Figure 3 illustrates incidence rates by breast cancer subtype, age,
+and race and ethnicity. The widest racial and ethnic variation is for
+HER2‐negative cancers. These and age‐related differences likely
+reflect the prevalence of breast cancer risk factors30‐32 and
+mammography use,33 as well as genetic variation and family his-
+tory.34,35
+The
+incidence
+of
+HR‐positive/HER2‐negative
+cancer,
+which typically has the best prognosis, follows the same racial and
+ethnic pattern as breast cancer overall among women aged 20
+years and older, with the highest rate in White women and the
+lowest in Hispanic women.
+Black women have incidence rates of triple‐negative breast cancer
+(HR‐negative/HER2‐negative)—approximately two to three times
+those in all other women among both younger and older age groups. As
+noted previously, reasons remain unclear but may partly reflect ge-
+netic factors, particularly those associated with West African
+ancestry.23,36 However, accumulating evidence points to the impor-
+tance of factors associated with the social determinants of health and
+structural racism, such as less breastfeeding (which lowers risk),37,38
+neighborhood
+segregation,
+and
+socioeconomic
+status.39‐41
+For
+example, an unfavorable neighborhood environment—measured by
+healthy food availability, alcohol prevalence, hazardous environment,
+and breastfeeding indicators—has been associated with increased risk
+of triple‐negative breast cancer after controlling for race and age.42
+Survival
+Breast cancer survival varies widely by stage at diagnosis, molec-
+ular subtype, and other clinicopathologic features. Stage at diag-
+nosis is the strongest prognostic indicator, with the 5‐year relative
+T A B L E 2
+Age‐specific 10‐year probability of breast cancer
+diagnosis (2018–2019, 2021) or death (2020–2022) for women,
+United States.
+Current age, years
+Diagnosed with
+invasive breast
+cancer
+Dying from breast
+cancer
+20
+0.1%
+1 in 1344
+<0.1%
+1 in 19,247
+30
+0.5%
+1 in 198
+<0.1%
+1 in 2192
+40
+1.6%
+1 in 62
+0.1%
+1 in 723
+50
+2.5%
+1 in 41
+0.3%
+1 in 348
+60
+3.6%
+1 in 28
+0.5%
+1 in 217
+70
+4.2%
+1 in 24
+0.7%
+1 in 141
+80
+3.1%
+1 in 32
+1.0%
+1 in 103
+Lifetime risk
+13.1%
+1 in 8
+2.3%
+1 in 43
+Note: The probability is among those who have not been previously
+diagnosed with cancer and reflects the likelihood of diagnosis/death
+within 10 years of current age. Percentages and “1 in” numbers may not be
+numerically equivalent due to rounding.
+480
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 3
+Breast cancer patient and tumor characteristics by race and ethnicity, United States, 2017–2021.
+Characteristic
+Prevalence (%)
+All races
+White
+Black
+Hispanic
+AAPI
+AIAN
+Mammographya
+Past year
+49
+51
+55
+44
+44b
+31
+Past 2 years
+67
+68
+73
+65
+62b
+51
+Age at diagnosis
+20–29 years
+1
+<1
+1
+1
+1
+1
+30–39 years
+4
+3
+5
+7
+6
+5
+40–49 years
+13
+11
+15
+20
+22
+15
+50–59 years
+21
+20
+24
+25
+25
+23
+60–69 years
+28
+29
+28
+25
+25
+30
+70–79 years
+23
+25
+18
+15
+15
+19
+≥80 years
+11
+12
+8
+7
+6
+7
+SEER summary stage
+Local
+66
+68
+58
+60
+65
+60
+Regional
+25
+24
+31
+31
+27
+29
+Distant
+6
+5
+8
+6
+5
+7
+Unstaged
+3
+3
+3
+4
+2
+4
+Tumor size, cm
+<2.0
+55
+58
+46
+48
+51
+47
+2.0–4.9
+31
+29
+34
+34
+34
+34
+≥5
+8
+7
+12
+10
+9
+10
+Unknown
+6
+6
+8
+8
+5
+9
+Gradec
+Low
+20
+22
+12
+16
+17
+22
+Intermediate
+43
+45
+37
+41
+44
+41
+High
+27
+24
+38
+31
+29
+28
+Unknown
+10
+9
+12
+12
+10
+10
+ER status
+Positive
+80
+83
+69
+77
+81
+78
+Negative
+16
+14
+27
+18
+16
+17
+Unknown
+4
+4
+4
+5
+4
+5
+Subtype
+HRþ/HER2−
+70
+73
+59
+65
+68
+68
+HRþ/HER2þ
+9
+9
+10
+10
+11
+10
+HR−/HER2þ
+4
+3
+5
+5
+6
+4
+HR−/HER2−
+10
+9
+19
+11
+9
+11
+Unknown
+7
+6
+7
+8
+6
+7
+Note: Percentages may not sum to 100% due to rounding. Race is exclusive of Hispanic ethnicity.
+Abbreviations: −indicates negative; þ, positive; AAPI, Asian American/Pacific Islander; AIAN, American Indian/Alaska Native; ER, estrogen receptor;
+HER2, human epidermal growth factor 2; HR, hormone receptor; SEER, Surveillance, Epidemiology, and End Results.
+aMammography prevalence estimates are for women 40 years and older and age adjusted to the 2000 US standard population using three age groups:
+40–49, 50–64, and 65þ years.
+bMammography estimate does not include Pacific Islander women.
+cData by grade were limited to cases diagnosed from the SEER 22 registries because of a high portion of missing data in the North American Association
+of Central Cancer Registries.
+GIAQUINTO ET AL.
+-
+481
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+survival rate ranging from >99% for localized stage disease to 87%
+for regional stage and 32% for distant stage disease. Black women
+have the lowest survival for regional and distant stage disease,
+with the largest deficit compared with White women for regional
+stage (79% vs. 89%; Figure 4). Although breast cancer survival
+rates for AAPI and Hispanic women are largely comparable to
+those for White women, this metric is known to be overestimated
+for populations with a substantial proportion of foreign‐born in-
+dividuals because of incomplete follow‐up of vital status.43 For
+example, patients who are lost to follow‐up because they leave the
+United States to return to their country after diagnosis are pre-
+sumed alive. Survival also varies widely within these broadly‐
+defined heterogenous groups. For example, the 5‐year relative
+breast cancer survival rate among AAPI women ranges from 94%
+in those who are Japanese to 72% in those who are Tongan,44 and
+Caribbean‐born Black women have higher survival than their US‐
+born counterparts.45
+Survival
+rates
+are
+highest
+for
+HR‐positive/HER2‐negative
+(luminal A surrogate) tumors and lowest for HR‐negative/HER2‐
+negative (triple‐negative) tumors in women of every racial and
+ethnic group (Figure 5). Compared with other subtypes, people with
+triple‐negative breast cancers are more likely to be diagnosed at an
+advanced stage and have fewer effective treatment options.46,47
+Still, Black women have the lowest 5‐year relative survival (73%)
+compared with other racial and ethnic groups (76%‐81%) for this
+subtype. Differences in neighborhood characteristics and receipt of
+chemotherapy and surgery are contributors to this disparity, but do
+not fully explain the differences.48,49
+F I G U R E 2
+Age‐specific female breast cancer (A) incidence (2017–2021) and (B) mortality (2018–2022) rates by race/ethnicity, United
+States. Rates are age adjusted to the 2000 US standard population, and incidence rates are adjusted for delays in reporting. Race is exclusive
+of Hispanic origin. Incidence data for AIAN women are confined to Purchased/Referred Care Delivery Area counties, whereas mortality data
+are for the entire United States with adjustments for racial misclassification on death certificates. AAPI indicates Asian American/Pacific
+Islander; AIAN, American Indian/Alaska Native.
+F I G U R E 1
+Female breast cancer incidence (2017–2021) and
+mortality (2018–2022) rates by race/ethnicity, United States. Rates
+are age adjusted to the 2000 US standard population, and incidence
+rates are adjusted for delays in reporting. Race is exclusive of
+Hispanic origin. Incidence data for AIAN women are confined to
+Purchased/Referred Care Delivery Area counties, whereas
+mortality data are for the entire United States with adjustments for
+racial misclassification on death certificates. AAPI indicates Asian
+American/Pacific Islander; AIAN, American Indian/Alaska Native.
+482
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+F I G U R E 3
+Female breast cancer incidence rates by subtype
+and race and ethnicity for ages (A) older than 20 years, (B) 20–49
+years, and (C) older than 50 years, United States, 2017–2021. Rates
+are age adjusted to the 2000 US standard population and adjusted
+for reporting delays. Breast cancer subtype status was imputed for
+cases with missing information. Y‐axis have different scales. −
+indicates negative; þ, positive; AAPI, Asian American/Pacific
+Islander; AIAN, American Indian/Alaska Native; HER2, human
+epidermal growth factor 2; HR, hormone (estrogen and
+progesterone) receptor.
+Mortality
+The breast cancer death rate is 19.3 per 100,000 women overall but
+ranges from 11.9 per 100,000 in AAPI women to 26.8 per 100,000 in
+Black women; Black women experience the highest mortality in every
+age group except the group aged 75–79 years (Figure 2). Overall, the
+death rate in Black women is 38% higher than in White women and is
+more than double that in AAPI women. The Black–White mortality
+disparity is largest for women aged 20–29 years and narrows with
+age (Figure 6); for example, the death rate is nearly twice as high in
+Black women younger than 50 years compared with only 10%–20%
+higher in women aged 70 years and older. For more information, see
+the section on the Black–White mortality disparity.
+Temporal trends in incidence and mortality
+Incidence
+Invasive breast cancer incidence rose steeply during the 1980s and
+1990s (Figure 7), with an overall increase of approximately 40%
+among women 50 years and older from 1980 to 2000 (from 275 to
+380 cases per 100,000). This trend also occurred in other high‐in-
+come countries50 and coincided with the widespread adoption of
+mammography screening, which increased in the United States from
+F I G U R E 4
+Five‐year relative female breast cancer survival
+rates (%) by stage at diagnosis and race/ethnicity, United States,
+2014−2020. Survival rates are based on patients who were
+diagnosed during 2014−2020 and followed through 2021, survival
+for AIAN women is confined to cases diagnosed in Purchased/
+Referred Care Delivery Area Counties. Race is exclusive of Hispanic
+origin. The standard error for AIAN survival is greater than 3
+percentage points for distant and unstaged disease. AAPI indicates
+Asian American/Pacific Islander; AIAN, American Indian/Alaska
+Native.
+GIAQUINTO ET AL.
+-
+483
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+29% in 1987 to 70% in 2000 among women aged 50 years and
+older.51 Incidence rates for DCIS, which is diagnosed almost exclu-
+sively through screening, more than doubled during this period, from
+33 to 74 cases per 100,000 women aged 50 years and older
+(Figure 7). DCIS is currently considered a cancer precursor as
+opposed to a true cancer because not all lesions progress to invasive
+disease.52,53 DCIS incidence continued to increase until the late
+2000s but has since stabilized in all age groups.
+Invasive breast cancer incidence declined sharply in the early
+2000s, in part attributed to decreased use of menopausal hormone
+therapy after the Women's Health Initiative randomized trial re-
+ported increased risk of breast cancer and heart disease associated
+with combined estrogen plus progesterone therapy.54,55 Since the
+mid‐2000s, however, incidence has steadily increased. During the
+past decade (2012–2021), the rate rose by 1% per year overall, but
+at a steeper pace in Hispanic (1.6% per year) and AAPI (2.6% per
+year) women (Table 4). The rising trend is mostly confined to HR‐
+positive disease (Figure 8) and is attributed to associated risk fac-
+tors, such as increased excess body weight and continued declines in
+the fertility rate.56‐58 The fertility rate declined from 69.4 births per
+1000 women in 2007 to an all‐time low of 54.4 births per 1000
+women in 2023.59 There has also been a shift toward later age at
+first birth, which is associated with an increased risk of HR‐positive
+breast cancer.60 The incidence of HR‐negative tumors has generally
+declined or remained stable in all racial and ethnic groups except
+AAPI women, among whom rates increased by 1.6% per year
+(Figure 8).
+Figure 9 shows breast cancer incidence trends by race and
+ethnicity in younger (20–49 years) versus older (50 years and older)
+women. During the most recent decade (2012–2021), the increase in
+incidence in younger women was faster than the increase among
+older women (1.4% vs. 0.7% per year, respectively), although this
+pattern only occurred significantly in White and Hispanic women and
+was not statistically significant in the latter group (Table 4). Black
+women had the highest incidence rate among younger women during
+F I G U R E 5
+Five‐year relative female breast cancer survival
+rates (%) by subtype and race/ethnicity, United States, 2014–2020.
+Survival rates are based on patients who were diagnosed during
+2014–2020 and were followed through 2021; survival for AIAN
+women is confined to cases diagnosed in purchased/referred care
+delivery area counties. Race is exclusive of Hispanic origin. The
+standard error for AIAN survival is greater than 3 percentage
+points for HR‐negative/HR‐positive and HR‐negative/HER2‐
+negative disease. ‐, negative; þ, positiveAAPI indicates Asian
+American/Pacific Islander; AIAN, American Indian/Alaska Native;
+HER2, human epidermal growth factor receptor; HR hormone
+(estrogen and progesterone) receptor.
+F I G U R E 6
+Breast cancer incidence (2017–2021) and mortality (2018–2022) rate ratios by age group comparing White women to
+(A) Black, (B) Asian American/Pacific Islander, and (C) Hispanic women. Rate ratios are based on unrounded rates. Error bars indicate 95%
+confidence intervals. Race is exclusive of Hispanic ethnicity.
+484
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+most of the past 2 decades, but steeper increases in White and AAPI
+women resulted in crossovers in 2017 and 2021, respectively. Young
+AAPI women had the second lowest rate (57.4 per 100,000) in 2000
+but had the highest rate (86.3 per 100,000) in 2021 alongside White
+women (86.4 per 100,000). AAPI women had the most rapid increase
+in incidence among both younger (2.7% per year) and older (2.5% per
+year) women, followed by Hispanic women (2.4% and 1.6% per year,
+respectively). Steep increases among AAPI women may be related in
+part to the influx of new immigrants, who have elevated breast
+cancer risk. One study found that foreign‐born Asian women had two
+to three times higher breast cancer incidence compared with their
+US‐born counterparts.61 In part because of the rise in younger onset
+breast cancer, the US Preventive Services Task Force lowered the
+recommended age to begin biennial mammography screening from
+50 to 40 years in 2024,62 similar to American Cancer Society
+guidelines (Table 5),63 which are also under review.
+The increase in breast cancer incidence is largely confined to
+localized‐stage diagnosis (Figure 10), which increased by 1.4% per
+year from 2012 to 2021 in contrast to stable rates for regional‐stage
+disease. Although distant‐stage disease rates also increased by 1.1%
+per year, this likely reflects improved staging because the rate of
+unstaged disease decreased by a similar magnitude (1.4% per year).
+The increase in distant stage may also reflect upstaging (from
+regional to distant) as the growing prevalence of advanced imaging
+has resulted in increased detection of micrometastases.64,65
+Mortality
+The breast cancer mortality rate has decreased by 44% from
+approximately 33 deaths per 100,000 women in 1989 to 19 deaths
+per 100,000 in 2022, translating to approximately 517,900 fewer
+breast cancer deaths among US women during that period than
+would have occurred if the peak rate had persisted. A recent
+modeling study estimated that most of the reduction in mortality is
+attributable to advances in the treatment of stage I–III disease (47%)
+and metastatic disease (29%), with an additional 25% associated
+with earlier detection through screening.66 The slowing pace of the
+decline, from 1.9% per year during 1998–2010 to 1.2% per year
+during 2013–2022, likely reflects increasing breast cancer incidence
+as well as the saturation of screening uptake; from 2000 to 2018,
+mammography prevalence remained stable at 64%–66% among
+women aged 40 years and older.51
+Importantly, not all women have experienced progress equally.
+Compared with a 43% reduction in the breast cancer death rate
+among White women since 1990, decreases were only 31%–32%
+among Hispanic and Black women, 13% among AAPI women, and the
+rate remained unchanged among AIAN women (Figure 11). Similarly,
+during the most recent decade, the rate declined annually by 1%–
+1.4% in White and Black women and by 0.7% in Hispanic women, but
+was stable in AAPI and AIAN women (Table 6). Notably, AAPI and
+AIAN women also have the lowest screening prevalence, with 62%
+and 51%, respectively, reporting a mammogram in the past 2 years in
+2021 (Table 3).
+Black–White mortality disparity
+The Black–White disparity in breast cancer mortality reflects dif-
+ferences in incidence rates, subtype and stage distribution, and
+receipt of treatment. In the 1970s, when breast cancer was diag-
+nosed because of symptoms and commonly treated with radical
+mastectomy, death rates were similar in Black and White women
+(Figure 11). However, the unequal dissemination of two major in-
+terventions in the 1980s—earlier detection through mammography
+screening and improved treatment for hormone‐responsive tumors
+with adjuvant endocrine therapy—created a racial disparity that has
+mostly widened over the past 4 decades. The mortality gap peaked
+in 2011, with 44% higher rates in Black versus White women, and
+persists at 36% in 2022. The advent of endocrine therapy unmasked
+F I G U R E 7
+Trends in incidence rates of (A) ductal carcinoma in situ and (B) invasive female breast cancer by age, United States, 1975–
+2021. Rates are age adjusted to the 2000 US standard population, and invasive disease is adjusted for delays in reporting. The y‐axis has
+different scales. Incidence for the year 2020 is shown separate from the trend line.
+GIAQUINTO ET AL.
+-
+485
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+racial differences in breast tumor biology; although the incidence of
+HR‐positive tumors is 22% lower in Black women than in White
+women, the morality rate for these tumors is still 19% higher in
+Black women.67 The incidence of less treatable HR‐negative tumors
+is 65% higher in Black women, but the death rate is 2.2 times
+higher. Black women have lower survival rates than women of every
+other racial and ethnic group for every breast cancer subtype and
+stage of diagnosis except localized‐stage disease, with which they
+are least likely to be diagnosed (58% vs. 68% in White women;
+Table 3).
+Ongoing advances in breast cancer treatment continue to shed
+light on differences in breast tumor biology between Black and White
+women. For example, high‐level evidence from prospective random-
+ized clinical trials, such as the TAILORx and RxPonder trials (Clin-
+icalTrials.gov
+identifiers
+NCT00310180
+and
+NCT01272037,
+respectively) demonstrate that, even after accounting for gene
+T A B L E 4
+Average annual percent change in breast cancer incidence rates from 2012 to 2021 by race, age, and stage at diagnosis.
+Stage
+Race
+All ages
+20–49 years
+≥50 years
+All stages
+All races
+1.0a
+1.4a
+0.7a
+White
+1.0a
+1.4a
+0.7a
+Black
+0.8a
+0.4a
+0.7a
+AIAN
+1.2a
+1.4a
+1.2a
+AAPI
+2.6a
+2.7a
+2.5a
+Hispanic
+1.6a
+2.4a
+1.6a
+Localized
+All races
+1.4a
+1.8a
+1.4a
+White
+1.4a
+2.0a
+1.4a
+Black
+1.4a
+0.9a
+1.8a
+AIAN
+1.6a
+1.7a
+1.6a
+AAPI
+2.9a
+3.0a
+2.5a
+Hispanic
+2.2a
+3.1a
+2.1a
+Regional
+All races
+−0.1
+0.7a
+−0.8a
+White
+−0.6a
+0.5a
+−1.0a
+Black
+−0.3
+−0.4a
+−0.7a
+AIAN
+0.7a
+0.9a
+0.5
+AAPI
+2.0a
+2.4a
+1.9a
+Hispanic
+0.8a
+1.5a
+0.4a
+Distant
+All races
+1.1a
+2.1a
+0.9a
+White
+0.9a
+1.3a
+0.5a
+Black
+0.7a
+1.7a
+0.5a
+AIAN
+3.3a
+4.7a
+2.7a
+AAPI
+3.1a
+3.6a
+2.8a
+Hispanic
+2.7a
+2.0a
+2.3a
+Unstaged
+All races
+−1.4a
+−0.5
+−1.6a
+White
+−2.0a
+−1.1
+−2.1a
+Black
+−2.6a
+−1.5
+−2.6a
+AIAN
+−2.0a
+−2.8
+−1.8a
+AAPI
+−0.3
+−2.7a
+0.2
+Hispanic
+−0.2
+0.2
+−1.8
+Note: Incidence data for the year 2020 were not included in calculating trend; trend uses data from 1998–2021. Average annual percent change (AAPC)
+is annual percent per year. Race is exclusive of Hispanic origin.
+Abbreviations: AAPI, Asian American/Pacific Islander; AIAN, American Indian/Alaska Native.
+aThe AAPC is significantly different from zero (p < .05).
+486
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+expression profiles, Black women with HR‐positive/HER2‐negative
+breast
+cancer
+have
+worse
+outcomes
+compared
+with
+White
+women.68,69 Other advances threaten to widen disparities because of
+unequal delivery of care. For example, PARP inhibitors are now
+approved for use in women with pathogenic BRCA‐mutation–asso-
+ciated breast cancer, but lower genetic testing prevalence among
+Black women will limit eligibility.
+The persistent Black–White mortality disparity can be explained
+in part by the result of disproportionate opportunity and wealth in
+the Black community that ultimately stems from longstanding
+systemic racism and has translated to less access to quality care
+across the cancer continuum.70 For example, although Black women
+self‐report similar or higher mammography prevalence as White
+women, they are more likely to have screening at lower resourced
+facilities and/or those that are not accredited by the American Col-
+lege of Radiology71; to have longer intervals between mammograms;
+and to have delays in the follow‐up of abnormal findings.72,73 Insur-
+ance status is known to contribute because Black women are more
+likely than White women to be underinsured or uninsured,74 which is
+associated with later stage diagnosis, as well as reduced access to
+F I G U R E 9
+Trends in female breast cancer incidence rates by race/ethnicity among women aged (A) 20–49 years and (B) 50 years and
+older, United States, 1998–2021. Rates are age adjusted to the 2000 US standard population and adjusted for delays in reporting. Race is
+exclusive of Hispanic origin. The y‐axis has different scales. The trend shown for American Indian/Alaska Native women is a 3‐year moving
+average due to sparse data.
+F I G U R E 8
+Trends in female breast cancer for (A) hormone receptor‐positive disease and (B) hormone receptor‐negative disease by race/
+ethnicity, among women aged 20 years and older, United States, 2004–2021. Rates are age adjusted to the 2000 US standard population and
+adjusted for delays in reporting. Race is exclusive of Hispanic origin. Missing hormone receptor status was imputed (for more information, see
+Materials and Methods). Trend for AIAN shown is a 3‐year moving average due to sparse data. The AAPC during 2012–2021 is shown in
+parentheses. aThe trend (as measured by the AAPC) was significantly different from zero (p < .05). AAPC indicates average annual percent
+change; AAPI, Asian American/Pacific Islander; AIAN, American Indian/Alaska Native.
+GIAQUINTO ET AL.
+-
+487
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+high‐quality treatment.75,76 Insurance status has been estimated to
+account for approximately one third of the excess risk of death in
+Black nonelderly patients with early stage breast cancer.77 Studies
+have shown that Black patients with breast cancer living in states
+that have expanded Medicaid had decreased delays in receipt of
+chemotherapy and surgery and the Black–White survival disparity was
+reduced compared with nonexpansion states.78‐80 Nevertheless, Black
+women are more likely than White women to experience delays and
+discontinuation of treatment and are less likely to receive guideline‐
+concordant care, regardless of insurance status.81‐83
+Differences in tumor biology, comorbidities, and response to
+treatment also contribute to breast cancer disparities. Black women
+are twice as likely as women of any other race or ethnicity to be
+diagnosed with triple‐negative breast cancer (Table 3), which is more
+aggressive and has few effective therapies. However, among patients
+with triple‐negative breast cancer, Black women have higher death
+rates than White women even after adjusting for demographic, clin-
+ical, treatment, and neighborhood differences.81 Recent studies sug-
+gest this may reflect less sensitivity to neoadjuvant chemotherapy,
+likely because of differences in tumor molecular characteristics and/
+or the microenvironment.49,84‐86 Among Black women who attain a
+pathologic complete response, there is no survival disparity.87
+Triple‐negative breast cancer presents unique challenges to early
+detection. It is more often diagnosed as an interval breast cancer than
+other subtypes and sometimes evades detection by appearing as a
+mass with benign characteristics. Nonetheless, screen‐detected tri-
+ple‐negative breast cancer is associated with a survival advantage in
+both Black and White women.88 In addition, recent studies of dif-
+ferences in the breast tissue microenvironment between Black and
+White women suggest that advances in immunotherapy for triple‐
+negative breast cancer may be particularly relevant in eliminating
+breast cancer disparities.89,90 International research involving the
+study of breast cancer among women in Africa is also enhancing our
+understanding of the role played by germline genetic African ancestry
+in the pathogenesis of triple‐negative breast cancer.91 Collectively,
+the body of extensive yet incomplete research regarding breast
+cancer disparities underscores the critical need for greater diversity
+in breast cancer clinical trials, particularly with the inclusion of more
+Black women, so that results can be more effectively generalized to
+the diverse population of patients with breast cancer.
+Geographic variation
+Table 7 presents state‐level variations in breast cancer incidence,
+mortality, and screening. Differences by state reflect several factors,
+including demographic characteristics and the prevalence of cancer
+risk factors, mammography screening, and access to care, which is
+influenced by public health policy, such as the expansion of Medicaid,
+and other laws and programs.83,92 Breast cancer incidence ranges
+from 113.0 per 100,000 women in Nevada to 143.2 per 100,000 in
+North Carolina, whereas a wider gap exists for mortality, ranging
+from 15.2 per 100,000 women in Massachusetts, to 23.4 per 100,000
+in Mississippi, and 24.0 per 100,000 in the District of Columbia.
+Mammography prevalence ranges from <60% in Wyoming and New
+Mexico to ≥75% in Massachusetts, Connecticut, Louisiana, and
+Rhode Island. Through the detection of asymptomatic lesions,
+mammography screening leads to early diagnosis of cancer, when it
+may be more susceptible to treatment. It is notable that the three
+states with the lowest breast cancer mortality (Massachusetts, Rhode
+Island, and North Dakota) have mammography prevalence of 71%–
+77%, whereas the states with the highest mortality (District of
+Columbia,
+Mississippi,
+and
+Oklahoma)
+have
+a
+prevalence
+of
+62%–69%.
+There are also wide state differences within each racial and
+ethnic group. For example, the death rate among Black women
+ranges by almost two‐fold, from 16.9 per 100,000 in Rhode Island to
+F I G U R E 1 0
+Trends in female breast cancer incidence rates by
+stage, United States, 1998–2021. Rates are age adjusted to the
+2000 US standard population and adjusted for delays in reporting.
+T A B L E 5
+American Cancer Society breast cancer screening
+guideline for women at average riska.
+Age
+Recommendation
+40–44
+years
+Optional annual mammography screening
+45–54
+years
+Annual mammography screening
+≥55
+years
+Transition to biennial mammography or continue annual
+screening as long as overall health is good and life
+expectancy is 10 years or more
+aWomen without a personal history of breast cancer, a suspected or
+confirmed genetic variant known to increase risk of breast cancer [i.e.,
+BRCA1/2], a strong family history, or a history of previous radiotherapy
+to the chest at a young age.
+488
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+32.0 per 100,000 in the District of Columbia, which also has the
+highest incidence rate (144.2 per 100,000). This is in contrast to
+Arizona, which has among the highest death rate for Black women
+(31.1 per 100,000) and has among the lowest incidence rate (106.0
+per 100,000). Low incidence coinciding with high mortality may
+reflect underscreening and later stage diagnosis, whereas high inci-
+dence and mortality may signal lack of access to timely, high‐quality
+treatment. The Black–White breast cancer mortality disparity is
+evident across the majority of states but has disappeared in Colo-
+rado, New Mexico, Oregon, Rhode Island, Washington, and West
+Virginia. Some of this equity may be caused by changing demographic
+characteristics and not progress in early detection and/or treatment
+among Black women. The foreign‐born Black population is highly
+concentrated in the Northeast and South and is generally healthier
+than US‐born African Americans.93,94
+There is a similar two‐fold mortality disparity across states
+among women of other racial and ethnic groups, although sparse data
+limit interpretation. Rates range from <6.5 per 100,000 in Alabama
+and Arkansas to >17 per 100,000 in New Mexico and Hawaii among
+Hispanic women and from ≤7.5 per 100,000 in Connecticut and
+Indiana to 18.5 per 100,000 in Nevada among AAPI women. Data for
+AIAN women are too sparse to provide by state, but incidence varies
+greatly by Purchased/Referred Care Delivery Area region, from
+approximately 70 per 100,000 in the Southwest to 167 per 100,000
+in the Southern Plains.95
+Data limitations
+The estimated numbers of new invasive breast cancer cases and
+deaths in 2024 provide a reasonably accurate portrayal of the
+contemporary cancer burden, but they are model‐based projections
+that should not be used to track trends over time because of several
+limitations documented elsewhere.14 Incidence rates by molecular
+subtype should not be compared with those published before 2022
+because of changes in the classification of borderline positive ER/PR
+status from positive before the SEER November 2020 data submis-
+sion to unknown thereafter. In addition, breast cancer incidence and
+mortality data for broadly defined racial and ethnic groups mask
+substantial
+heterogeneity
+within
+these
+populations.
+Errors
+in
+reporting race and ethnicity in medical records and on death certif-
+icates result in underestimated cancer incidence and mortality
+in some persons, particularly those who are AIAN individuals.
+Methods used to mitigate AIAN racial misclassification limit inci-
+dence data to Purchased/Referred Care Delivery Area counties,
+F I G U R E 1 1
+Trends in female breast cancer death rates by race/ethnicity, United States, 1975–2022. Rates are age adjusted to the 2000
+US standard population. Race is exclusive of Hispanic origin, except for the years 1975–1989 for Black and White women. Mortality rates for
+American Indian/Alaska Native women are 3‐year moving averages for the entire United States with adjustment for racial misclassification on
+death certificates. AAPI indicates Asian American/Pacific Islander; AIAN, American Indian/Alaska Native.
+T A B L E 6
+Average annual percent change in breast cancer
+mortality rates from 2013 to 2022 by race/ethnicity and age.
+Race
+All ages
+20–49 years
+≥50 years
+All races
+−1.2a
+−1.3a
+−1.1a
+White
+−1.0a
+−1.3a
+−1.0a
+Black
+−1.4a
+−2.1a
+−1.2a
+AIAN
+−0.4
+−0.7
+−0.3
+AAPI
+0.3
+0.3
+−0.2
+Hispanic
+−0.7a
+−0.8
+−0.7a
+Note: Trend uses data from 1990 to 2022. Race is exclusive of Hispanic
+origin. Mortality rates for American Indian/Alaska Native women were
+adjusted for misclassification of race on death certificates. Average
+annual percent change (AAPC) is annual percent per year.
+Abbreviations: AAPI, Asian American/Pacific Islander; AIAN, American
+Indian/Alaska Native.
+aThe AAPC is significantly different from zero (p < .05).
+GIAQUINTO ET AL.
+-
+489
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 7
+Female breast cancer incidence (2017–2021), mortality (2018–2022), and mammography prevalence (2022) by race/ethnicity
+and state.
+State
+Incidence rate per 100,000
+Mortality rate per 100,000
+Mammography
+screening,a %
+All races
+White
+Black
+Hispanic
+AAPI
+All races
+White
+Black
+Hispanic
+AAPI
+Alabama
+123.3
+122.3
+130.3
+61.0
+89.8
+20.4
+18.6
+26.8
+6.0
+7.6
+69
+Alaskab
+126.3
+129.5
+101.8
+101.8
+98.1
+17.1
+18.1
+—c
+—c
+10.8
+61
+Arizona
+117.5
+127.0
+106.0
+97.5
+90.7
+18.8
+19.6
+31.1
+15.2
+14.6
+66
+Arkansasb
+124.1
+123.7
+126.8
+106.1
+103.8
+19.8
+19.3
+28.0
+6.4
+9.1
+67
+California
+124.0
+139.9
+124.7
+96.9
+113.1
+18.8
+21.3
+29.3
+14.4
+13.3
+65
+Colorado
+133.3
+138.0
+123.8
+109.7
+100.5
+18.6
+19.1
+22.4
+15.6
+9.0
+64
+Connecticut
+143.1
+148.1
+135.4
+122.8
+88.5
+16.8
+17.2
+23.8
+9.2
+7.3
+75
+Delaware
+139.2
+143.4
+134.8
+111.2
+97.1
+22.0
+21.5
+28.2
+8.0
+—c
+72
+District of Columbia
+141.2
+151.5
+144.2
+87.4
+82.6
+24.0
+15.6
+32.0
+8.6
+—c
+68
+Florida
+126.7
+134.3
+116.8
+108.7
+89.9
+18.6
+19.1
+24.8
+13.9
+13.0
+69
+Georgia
+132.6
+134.7
+134.0
+115.8
+94.1
+20.7
+19.0
+26.4
+11.9
+12.3
+70
+Hawaii
+140.1
+140.2
+116.6
+168.4
+137.7
+16.6
+23.7
+—c
+20.4
+14.7
+72
+Idaho
+132.8
+134.6
+—c
+106.3
+110.8
+19.7
+20.4
+—c
+7.9
+—c
+60
+Illinois
+133.6
+139.8
+133.7
+101.6
+106.6
+20.2
+20.0
+30.7
+11.1
+11.3
+65
+Indianad
+113.4
+115.2
+108.5
+82.1
+80.5
+20.3
+20.3
+25.9
+12.6
+7.5
+69
+Iowa
+136.9
+139.1
+134.1
+76.2
+96.2
+17.8
+17.9
+25.4
+9.4
+7.6
+69
+Kansas
+135.8
+137.3
+134.9
+100.8
+88.6
+19.9
+19.9
+26.3
+15.1
+10.2
+66
+Kentucky
+129.2
+130.0
+133.1
+90.6
+82.7
+21.4
+21.3
+26.1
+10.8
+12.3
+66
+Louisiana
+130.4
+130.2
+137.3
+90.9
+86.3
+22.1
+20.0
+28.1
+12.3
+12.5
+76
+Maine
+132.8
+134.2
+—c
+84.2
+73.8
+16.7
+16.8
+—c
+—c
+—c
+71
+Maryland
+135.5
+144.4
+134.4
+86.4
+101.8
+20.0
+18.6
+25.9
+11.7
+10.4
+74
+Massachusetts
+136.8
+142.7
+120.9
+97.9
+96.6
+15.2
+15.4
+18.6
+10.9
+7.6
+75
+Michigan
+127.0
+129.6
+121.1
+88.8
+88.4
+20.3
+19.7
+27.2
+14.4
+11.7
+71
+Minnesota
+140.4
+143.6
+112.5
+117.3
+87.8
+17.2
+17.3
+23.3
+10.0
+8.6
+71
+Mississippi
+124.6
+124.0
+129.7
+51.1
+88.7
+23.4
+20.1
+30.4
+14.9
+12.3
+69
+Missouri
+133.2
+134.9
+134.2
+74.8
+91.8
+20.0
+19.3
+28.4
+9.4
+9.5
+68
+Montana
+136.3
+137.0
+—c
+70.5
+—c
+17.7
+17.3
+—c
+15.5
+—c
+65
+Nebraska
+130.7
+134.6
+129.9
+100.4
+74.6
+19.5
+19.8
+27.5
+11.0
+—c
+66
+Nevada
+113.0
+121.0
+119.0
+78.1
+107.2
+21.7
+23.4
+31.8
+12.0
+18.5
+61
+New Hampshire
+139.6
+142.4
+82.0
+111.4
+72.8
+17.6
+17.9
+—c
+13.8
+11.8
+72
+New Jersey
+136.4
+148.6
+131.3
+105.3
+106.1
+19.1
+20.2
+25.6
+12.4
+9.9
+70
+New Mexico
+116.3
+125.0
+117.0
+109.6
+93.6
+19.3
+21.7
+28.7
+17.2
+11.2
+59
+New York
+134.1
+144.4
+123.8
+107.5
+110.2
+17.2
+17.6
+23.0
+11.6
+9.2
+72
+North Carolina
+143.2
+145.8
+143.1
+107.0
+92.6
+19.9
+18.8
+26.5
+9.6
+8.3
+71
+North Dakota
+130.9
+131.9
+—c
+—c
+102.0
+16.2
+16.3
+—c
+—c
+—c
+71
+Ohio
+132.3
+134.4
+127.7
+81.6
+93.0
+20.2
+19.8
+26.5
+8.9
+11.2
+66
+Oklahoma
+124.5
+123.4
+132.3
+91.3
+96.6
+22.4
+22.6
+29.2
+14.7
+11.1
+62
+Oregon
+131.1
+133.1
+111.0
+104.7
+96.1
+19.1
+19.9
+18.9
+10.6
+12.3
+67
+Pennsylvania
+131.2
+133.9
+124.8
+102.6
+86.1
+19.6
+19.2
+27.3
+12.8
+9.0
+70
+490
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+excluding one‐third of the population, and are for all‐cancer mortality
+and not specific to breast cancer.19
+Incidence rates and trends are based on cancer registry data
+that do not contain information on breast cancer recurrence. Sta-
+tistics for invasive breast cancer include all histologic subtypes (i.e.,
+invasive ductal carcinoma, invasive lobular carcinoma, medullary
+carcinoma, etc.) and thus mask differences across these heteroge-
+nous disease subtypes. Trends and rates for incidence, mortality,
+and survival are based on deidentified data that do not control for
+social determinants of health (i.e., socioeconomic status, insurance)
+or certain disease characteristics (i.e., comorbidities, receipt of
+treatment).
+Conclusions
+Breast cancer mortality rates continued to decline steadily from
+1989 through 2022, with an overall drop of 44% that translates to
+almost 518,000 fewer women dying from breast cancer in the
+United States during this time. This progress is the result of ad-
+vances in treatment and earlier dection through screening. How-
+ever, these interventions have not been disseminated equally. AIAN
+women have experienced no reduction in mortality, and Black
+women have 38% higher mortality than White women despite lower
+incidence. Black women have the lowest survival of any racial and
+ethnic group for every breast cancer subtype and stage of disease
+except localized‐stage, with which they are 10% less likely than
+White women to be diagnosed. Also concerning is the continued
+rise in breast cancer incidence that is particularly striking among
+Hispanic and AAPI women, who are vulnerable to challenges in
+access to care. Progress against breast cancer could be accelerated
+by mitigating racial disparities through increased racial diversity in
+clinical trials as well as community partnerships and other initiatives
+that increase access to high‐quality screening and treatment among
+underserved women.
+ACKNOWLEDGMENTS
+The authors gratefully acknowledge all cancer registries and their
+staff for their hard work and diligence in collecting cancer informa-
+tion, without which this research could not have been done.
+CONFLICT OF INTEREST STATEMENT
+Lisa A. Newman reports grants from the Breast Cancer Research
+Foundation, the Fashion Footwear Association of New York, Gen-
+entech, and the National Institutes of Health; personal fees from the
+Dana‐Farber Cancer Institute and Susan G. Komen for the Cure;
+T A B L E 7
+(Continued)
+State
+Incidence rate per 100,000
+Mortality rate per 100,000
+Mammography
+screening,a %
+All races
+White
+Black
+Hispanic
+AAPI
+All races
+White
+Black
+Hispanic
+AAPI
+Rhode Island
+139.1
+144.2
+128.5
+90.4
+103.9
+16.1
+16.7
+16.9
+8.9
+—c
+77
+South Carolina
+133.7
+135.9
+132.4
+96.2
+82.2
+21.3
+20.2
+26.2
+10.5
+8.1
+71
+South Dakota
+129.6
+132.9
+—c
+—c
+131.9
+18.3
+18.0
+—c
+—c
+—c
+73
+Tennessee
+124.6
+126.4
+122.2
+88.6
+80.2
+21.7
+20.9
+28.8
+10.3
+10.0
+68
+Texas
+121.4
+133.4
+128.3
+99.3
+92.6
+19.7
+20.6
+28.7
+15.1
+11.8
+66
+Utah
+119.1
+119.0
+77.4
+130.0
+94.4
+20.2
+20.7
+—c
+16.8
+14.5
+64
+Vermont
+127.9
+127.6
+—c
+137.7
+77.5
+16.9
+17.1
+—c
+—c
+—c
+63
+Virginia
+129.0
+131.9
+133.7
+85.8
+86.2
+20.2
+19.5
+27.0
+11.8
+12.0
+71
+Washington
+137.1
+140.9
+108.6
+111.1
+110.3
+18.7
+19.6
+19.3
+12.8
+11.1
+64
+West Virginia
+124.7
+126.0
+118.3
+66.3
+78.3
+21.1
+21.2
+28.6
+—c
+—c
+68
+Wisconsin
+137.0
+138.5
+143.0
+106.1
+81.5
+17.9
+17.8
+26.4
+14.0
+7.7
+71
+Wyoming
+122.7
+126.2
+—c
+89.2
+—c
+19.9
+20.3
+—c
+11.1
+—c
+58
+Puerto Ricoe
+99.0
+17.0
+75
+Note: Race is exclusive of Hispanic origin. Rates are age adjusted to 2000 US standard population.
+Abbreviation: AAPI, indicates Asian American/Pacific Islander.
+aMammography prevalence in past 2 years among women ages 40 and older; estimates are age‐adjusted to the 2000 US standard population using
+three age groups: 40–49, 50–64, and 65þ years.
+bIncidence rates for this registry are for years 2017–2020.
+cStatistic not displayed due to fewer than 25 cases or 10 deaths.
+dIncidence rate was obtained from Cancer in North America (CiNA) Explorer (https://apps.naaccr.org/explorer/).
+eData are for all race and ethnicities combined; mortality data, years 2016–2020.
+GIAQUINTO ET AL.
+-
+491
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+service on a Data and Safety Monitoring Committee at Johns Hop-
+kins Medicine; other support from the Dana‐Farber Cancer Institute,
+Johns Hopkins Medicine, and the Stanford University School of
+Medicine; and travel support from the American Association for
+Cancer Research, all outside the submitted work. Angela N. Gia-
+quinto, Hyuna Sung, Robert A. Smith, Jessica Star, Ahmedin Jemal,
+and Rebecca L. Siegel are employed by the American Cancer Society,
+which receives grants from private and corporate foundations,
+including foundations associated with companies in the health
+sector, for research outside of the submitted work. The authors are
+not funded by or key personnel for any of these grants, and their
+salary is solely funded through American Cancer Society funds. The
+remaining authors made no disclosures.
+ORCID
+Angela N. Giaquinto
+https://orcid.org/0000-0003-2548-9693
+Hyuna Sung
+https://orcid.org/0000-0002-8021-5997
+Lisa A. Newman
+https://orcid.org/0000-0003-2059-0477
+Rachel A. Freedman
+https://orcid.org/0000-0003-0460-674X
+Jessica Star
+https://orcid.org/0000-0003-3522-9609
+Rebecca L. Siegel
+https://orcid.org/0000-0001-5247-8522
+REFERENCES
+1.
+Teglia F, Angelini M, Astolfi L, Casolari G, Boffetta P. Global asso-
+ciation of COVID‐19 pandemic measures with cancer screening: a
+systematic review and meta‐analysis. JAMA Oncol. 2022;8(9):1287‐
+1293. doi:10.1001/jamaoncol.2022.2617
+2.
+Star J, Bandi P, Siegel RL, et al. Cancer screening in the United States
+during the second year of the COVID‐19 pandemic. J Clin Oncol.
+2023;41(27):4352‐4359. doi:10.1200/jco.22.02170
+3.
+Richman I, Tessier‐Sherman B, Galusha D, Oladele CR, Wang K.
+Breast cancer screening during the COVID‐19 pandemic: moving
+from disparities to health equity. J Natl Cancer Inst. 2023;115(2):139‐
+145. doi:10.1093/jnci/djac172
+4.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: North American Association of Central Can-
+cer Registries (NAACCR) Incidence Data—Cancer in North America
+(CiNA) Research Data. 1995–2021, Standard File, American Cancer
+Society Facts and Figures (which includes data from the Centers for
+Disease Control and Prevention's National Program of Cancer
+Registries, the Canadian Cancer Registry's Provincial and Territo-
+rial Registries, and the National Cancer Institute's SEER Registries),
+certified by the NAACCR as meeting high‐quality incidence data
+standards for the specified time periods; National Cancer Institute,
+Division of Cancer Control and Population Sciences, Surveillance
+Research Program, Surveillance Systems Branch; 2023.
+5.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: North American Association of Central Can-
+cer Registries (NAACCR) Incidence Data—Cancer in North America
+(CiNA) Research Data. 1998–2021, Delay Adjusted Factors—
+American Cancer Society Facts and Figures (which includes data
+from the Centers for Disease Control and Prevention's National
+Program of Cancer Registries, the Canadian Cancer Registry's
+Provincial and Territorial Registries, and the National Cancer In-
+stitute's SEER Registries), certified by the NAACCR as meeting
+high‐quality incidence data standards for the specified time periods.
+National Cancer Institute, Division of Cancer Control and Popula-
+tion Sciences, Surveillance Research Program, Surveillance Systems
+Branch; 2023.
+6.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: Incidence—SEER Research Data, 8 Registries,
+November
+2023
+Submission
+(1975–2021)—Linked
+To
+County
+Attributes—Time Dependent (1990–2022) Income/Rurality, 1969–
+2022 Counties. National Cancer Institute, Division of Cancer
+Control and Population Sciences, Surveillance Research Program;
+2024.
+7.
+Surveillance, Epidemiology, and End Results (SEER) Program (www.
+seer.cancer.gov) SEER*Stat Database: Incidence—SEER Research
+Data
+with
+Delay‐Adjustment,
+8
+Registries,
+Malignant
+Only,
+November
+2023
+Submission
+(1975–2021)—Linked
+To
+County
+Attributes—Time Dependent (1990–2022) Income/Rurality, 1969–
+2022 Counties. National Cancer Institute, Division of Cancer Con-
+trol and Population Sciences, Surveillance Research Program; 2024.
+8.
+Surveillance, Epidemiology, and End Results (SEER) Program. SEER*-
+Stat Database: Incidence—SEER Research Limited‐Field Data, 22
+Registries, November 2023 Submission (2000–2021)—Linked To
+County Attributes—Time Dependent (1990–2022) Income/Rurality,
+1969–2022 Counties. National Cancer Institute, Division of Cancer
+Control and Population Sciences, Surveillance Research Program;
+2024.
+9.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: Incidence‐Based Mortality—SEER Research
+Limited‐Field Data, 22 Registries (excluding IL and MA), November
+2023 Submission (2000–2021)—Linked To County Attributes—
+Time
+Dependent
+(1990–2022)
+Income/Rurality,
+1969–2022
+Counties. National Cancer Institute, Division of Cancer Control
+and Population Sciences, Surveillance Research Program; 2024.
+10.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: Mortality—All Causes of Death, Aggregated
+With State, Total U.S. (1990–2022) <Katrina/Rita Population
+Adjustment>. National Cancer Institute, Division of Cancer Control
+and Population Sciences, Surveillance Research Program; 2024.
+Underlying mortality data provided by NCHS (www.cdc.gov/nchs).
+11.
+Surveillance,
+Epidemiology,
+and
+End
+Results
+(SEER)
+Program.
+SEER*Stat Database: Mortality—All Causes of Death, Aggregated
+With State, Total U.S. (1969–2022) <Katrina/Rita Population
+Adjustment>. National Cancer Institute, Division of Cancer Control
+and Population Sciences, Surveillance Research Program; 2024.
+Underlying mortality data provided by NCHS (www.cdc.gov/nchs).
+12.
+National Center for Health Statistics. National Health Interview Sur-
+vey: 2021 NHIS. National Center for Health Statistics; 2022.
+13.
+Centers for Disease Control and Prevention. 2021 BRFSS Survey
+Data and Documentation. U.S. Department of Health and Human
+Services, Centers for Disease Control and Prevention; 2023.
+14.
+Siegel RL, Giaquinto AN, Jemal A. Cancer statistics, 2024. CA Cancer
+J Clin. 2024;74(1):12‐49. doi:10.3322/caac.21820
+15.
+Surveillance Research Program, National Cancer Institute (NCI).
+SEER*Stat software. Version 8.4.3. NCI; 2024. www.seer.cancer.gov/
+seerstat
+16.
+Surveillance Research Program, National Cancer Institute (NCI).
+Joinpoint Regression Program. Version 5.2.0.0. National Cancer Insti-
+tute; 2024.
+17.
+Statistical Research and Applications Branch, National Cancer
+Institute (NCI). DevCan: Probability of Developing or Dying of Cancer
+Software. Version 6.7.5. NCI; 2012. http://surveillance.cancer.gov/
+devcan/
+18.
+Mariotto AB, Feuer EJ, Howlader N, Chen HS, Negoita S, Cronin KA.
+Interpreting cancer incidence trends: challenges due to the COVID‐
+19 pandemic. J Natl Cancer Inst. 2023;115(9):1109‐1111. doi:10.
+1093/jnci/djad086
+19.
+Arias E, Xu J, Curtin S, Bastian B, Tejada‐Vera B. Mortality profile of
+the Non‐Hispanic American Indian or Alaska Native population,
+2019. Natl Vital Stat Rep. 2021;70(12):1‐27.
+492
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+20.
+Anderson WF, Katki HA, Rosenberg PS. Incidence of breast cancer in
+the United States: current and future trends. J Natl Cancer Inst.
+2011;103(18):1397‐1402. doi:10.1093/jnci/djr257
+21.
+Centers for Disease Control and Prevention, National Center for
+Health Statistics (NCHS). National Vital Statistics System, Mortality
+2018–2022 on CDC WONDER Online Database, released 2024.
+Data are from the Multiple Cause of Death Files, 2018–2022, as
+compiled from data provided by the 57 vital statistics jurisdictions
+through the Vital Statistics Cooperative Program. NCHS; 2024.
+22.
+Gallicchio L, Devasia TP, Tonorezos E, Mollica MA, Mariotto A.
+Estimation of the number of individuals living with metastatic cancer
+in the United States. J Natl Cancer Inst. 2022;114(11):1476‐1483.
+doi:10.1093/jnci/djac158
+23.
+Sung H, DeSantis CE, Fedewa SA, Kantelhardt EJ, Jemal A. Breast
+cancer subtypes among Eastern‐African–born Black women and
+other Black women in the United States. Cancer. 2019;125(19):3401‐
+3411. doi:10.1002/cncr.32293
+24.
+Gomez SL, Von Behren J, McKinley M, et al. Breast cancer in Asian
+Americans in California, 1988–2013: increasing incidence trends
+and recent data on breast cancer subtypes. Breast Cancer Res Treat.
+2017;164(1):139‐147. doi:10.1007/s10549‐017‐4229‐1
+25.
+Yu AYL, Thomas SM, DiLalla GD, et al. Disease characteristics and
+mortality among Asian women with breast cancer. Cancer. 2022;
+128(5):1024‐1037. doi:10.1002/cncr.34015
+26.
+Babatunde OA, Zahnd WE, Eberth JM, et al. Association between
+neighborhood social deprivation and stage at diagnosis among
+breast cancer patients in South Carolina. Int J Environ Res Public
+Health. 2021;18(22):11824. doi:10.3390/ijerph182211824
+27.
+Loo LWM, Williams M, Hernandez BY. The high and heterogeneous
+burden of breast cancer in Hawaii: a unique multiethnic U.S. popu-
+lation. Cancer Epidemiol. 2019;58:71‐76. doi:10.1016/j.canep.2018.
+11.006
+28.
+Keegan TH, John EM, Fish KM, Alfaro‐Velcamp T, Clarke CA, Gomez
+SL. Breast cancer incidence patterns among California Hispanic
+women: differences by nativity and residence in an enclave. Cancer
+Epidemiol Biomarkers Prev. 2010;19(5):1208‐1218. doi:10.1158/
+1055‐9965.epi‐10‐0021
+29.
+Vespa J, Medina L, Armstrong DM. Demographic Turning Points for
+the United States: Population Projections for 2020 to 2060. Current
+Population Reports, P25‐1144. US Census Bureau; 2020.
+30.
+Gaudet MM, Gierach GL, Carter BD, et al. Pooled analysis of nine
+cohorts reveals breast cancer risk factors by tumor molecular sub-
+type. Cancer Res. 2018;78(20):6011‐6021. doi:10.1158/0008‐5472.
+can‐18‐0502
+31.
+McCarthy AM, Friebel‐Klingner T, Ehsan S, et al. Relationship of
+established risk factors with breast cancer subtypes. Cancer Med.
+2021;10(18):6456‐6467. doi:10.1002/cam4.4158
+32.
+Hurson AN, Ahearn TU, Koka H, et al. Risk factors for breast cancer
+subtypes by race and ethnicity: a scoping review. J Natl Cancer Inst.
+Published online July 17, 2024. doi:10.1093/jnci/djae172
+33.
+Kohler BA, Sherman RL, Howlader N, et al. Annual report to the
+nation on the status of cancer, 1975–2011, featuring incidence of
+breast cancer subtypes by race/ethnicity, poverty, and state. J Natl
+Cancer Inst. 2015;107(6):djv048. doi:10.1093/jnci/djv048
+34.
+Hines LM, Sedjo RL, Byers T, et al. The interaction between genetic
+ancestry and breast cancer risk factors among Hispanic women: the
+Breast Cancer Health Disparities study. Cancer Epidemiol Biomarkers
+Prev. 2017;26(5):692‐701. doi:10.1158/1055‐9965.epi‐16‐0721
+35.
+Huo D, Hu H, Rhie SK, et al. Comparison of breast cancer molecular
+features and survival by African and European ancestry in the
+Cancer Genome Atlas. JAMA Oncol. 2017;3(12):1654‐1662. doi:10.
+1001/jamaoncol.2017.0595
+36.
+Newman LA, Jenkins B, Chen Y, et al. Hereditary susceptibility for
+triple negative breast cancer associated with Western Sub‐Saharan
+African ancestry: results from an international surgical breast cancer
+collaborative. Ann Surg. 2019;270(3):484‐492. doi:10.1097/sla.
+0000000000003459
+37.
+John EM, Hines LM, Phipps AI, et al. Reproductive history, breast‐
+feeding and risk of triple negative breast cancer: the Breast Cancer
+Etiology in Minorities (BEM) study. Int J Cancer. 2018;142(11):2273‐
+2285. doi:10.1002/ijc.31258
+38.
+Ambrosone CB, Zirpoli G, Ruszczyk M, et al. Parity and breast-
+feeding among African‐American women: differential effects on
+breast cancer risk by estrogen receptor status in the Women's Circle
+of Health study. Cancer Causes Control. 2014;25(2):259‐265. doi:10.
+1007/s10552‐013‐0323‐9
+39.
+Linnenbringer E, Geronimus AT, Davis KL, Bound J, Ellis L, Gomez SL.
+Associations between breast cancer subtype and neighborhood so-
+cioeconomic and racial composition among Black and White women.
+Breast Cancer Res Treat. 2020;180(2):437‐447. doi:10.1007/s10549‐
+020‐05545‐1
+40.
+Qin B, Babel RA, Plascak JJ, et al. Neighborhood social environ-
+mental factors and breast cancer subtypes among Black women.
+Cancer Epidemiol Biomarkers Prev. 2021;30(2):344‐350. doi:10.1158/
+1055‐9965.epi‐20‐1055
+41.
+Wright E, Waterman PD, Testa C, Chen JT, Krieger N. Breast cancer
+incidence, hormone receptor status, historical redlining, and current
+neighborhood Characteristics in Massachusetts, 2005–2015. JNCI
+Cancer Spectr. 2022;6(2):pkac016. doi:10.1093/jncics/pkac016
+42.
+Siegel SD, Brooks MM, Berman JD, et al. Neighborhood factors and
+triple negative breast cancer: the role of cumulative exposure to
+area‐level risk factors. Cancer Med. 2023;12(10):11760‐11772.
+doi:10.1002/cam4.5808
+43.
+Pinheiro PS, Morris CR, Liu L, Bungum TJ, Altekruse SF. The impact
+of follow‐up type and missed deaths on population‐based cancer
+survival studies for Hispanics and Asians. J Natl Cancer Inst Monogr.
+2014;2014(49):210‐217. doi:10.1093/jncimonographs/lgu016
+44.
+American Cancer Society. Cancer Facts & Figures for Asian American,
+Native Hawaiian, and Other Pacific Islander People 2024–2026.
+American Cancer Society; 2024.
+45.
+Barreto‐Coelho P, Cerbon D, Schlumbrecht M, Parra CM, Hurley J,
+George SHL. Differences in breast cancer outcomes amongst Black
+US‐born and Caribbean‐born immigrants. Breast Cancer Res Treat.
+2019;178(2):433‐440. doi:10.1007/s10549‐019‐05403‐9
+46.
+Leon‐Ferre RA, Goetz MP. Advances in systemic therapies for triple
+negative breast cancer. BMJ. 2023;381:e071674. doi:10.1136/bmj‐
+2022‐071674
+47.
+Costa RLB, Gradishar WJ. Triple‐negative breast cancer: current
+practice and future directions. J Oncol Pract. 2017;13(5):301‐303.
+doi:10.1200/jop.2017.023333
+48.
+Cho B, Han Y, Lian M, et al. Evaluation of racial/ethnic differences in
+treatment and mortality among women with triple‐negative breast
+cancer. JAMA Oncol. 2021;7:1016‐1023. doi:10.1001/jamaoncol.
+2021.1254
+49.
+Woriax HE, Thomas SM, Plichta JK, et al. Racial/ethnic disparities in
+pathologic complete response and overall survival in patients with
+triple‐negative breast cancer treated with neoadjuvant chemo-
+therapy. J Clin Oncol. 2024;42(14):1635‐1645. doi:10.1200/jco.23.
+01199
+50.
+Gjorgov AN. Emerging worldwide trends of breast cancer incidence
+in the 1970s and 1980s: data from 23 cancer registration centres.
+Eur J Cancer Prev. 1993;2(6):423‐440. doi:10.1097/00008469‐
+199311000‐00001
+51.
+American Cancer Society. Cancer Prevention & Early Detection Facts &
+Figures 2023–2024. American Cancer Society; 2023–2024.
+52.
+Erbas B, Provenzano E, Armes J, Gertig D. The natural history of
+ductal carcinoma in situ of the breast: a review. Breast Cancer Res
+Treat. 2006;97(2):135‐144. doi:10.1007/s10549‐005‐9101‐z
+53.
+Amin MB, Greene FL, Edge SB, et al. The eighth edition AJCC Cancer
+Staging Manual: continuing to build a bridge from a population‐
+GIAQUINTO ET AL.
+-
+493
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+based to a more “personalized” approach to cancer staging. CA
+Cancer J Clin. 2017;67(2):93‐99. doi:10.3322/caac.21388
+54.
+Coombs NJ, Cronin KA, Taylor RJ, Freedman AN, Boyages J. The
+impact of changes in hormone therapy on breast cancer incidence in
+the US population. Cancer Causes Control. 2010;21(1):83‐90. doi:10.
+1007/s10552‐009‐9437‐5
+55.
+Ravdin PM, Cronin KA, Howlader N, et al. The decrease in breast‐
+cancer incidence in 2003 in the United States. N Engl J Med.
+2007;356(16):1670‐1674. doi:10.1056/nejmsr070105
+56.
+Pfeiffer RM, Webb‐Vargas Y, Wheeler W, Gail MH. Proportion of U.
+S. trends in breast cancer incidence attributable to long‐term
+changes in risk factor distributions. Cancer Epidemiol Biomarkers
+Prev. 2018;27(10):1214‐1222. doi:10.1158/1055‐9965.epi‐18‐0098
+57.
+Davis LBC, Chernyavskiy P, Gierach GL, Rosenberg PS. Decreasing
+incidence of estrogen receptor‐negative breast cancer in the United
+States: trends by race and region. J Natl Cancer Inst. 2022;
+114:263‐270.
+58.
+Rosenberg PS, Barker KA, Anderson WF. Estrogen receptor status
+and the future burden of invasive and in situ breast cancers in the
+United States. J Natl Cancer Inst. 2015;107(9):djv159. doi:10.1093/
+jnci/djv159
+59.
+Hamilton BE, Martin JA, Osterman MJK. Births: Provisional Data for
+2023. Vital Statistics Rapid Release, No. 35. NCHS Vital Statistics
+Rapid Release Reports. National Center for Health Statistics; 2024.
+60.
+Morra A, Jung AY, Behrens S, et al. Breast cancer risk factors and
+survival by tumor subtype: pooled analyses from the Breast Cancer
+Association Consortium. Cancer Epidemiol Biomarkers Prev. 2021;
+30(4):623‐642. doi:10.1158/1055‐9965.epi‐20‐0924
+61.
+Morey BN, Gee GC, von Ehrenstein OS, et al. Higher breast cancer
+risk among immigrant Asian American women than among US‐Born
+Asian American women. Prev Chronic Dis. 2019;16:E20. doi:10.5888/
+pcd16.180221
+62.
+US Preventive Services Task Force. Screening for breast cancer: US
+Preventive Services Task Force recommendation statement. JAMA.
+2024;331(22):1973. doi:10.1001/jama.2024.5535
+63.
+Oeffinger KC, Fontham ETH, Etzioni R, et al. Breast cancer screening
+for women at average risk: 2015 guideline update from the Amer-
+ican Cancer Society. JAMA. 2015;314(15):1599‐1614. doi:10.1001/
+jama.2015.12783
+64.
+Cronin‐Fenton DP, Ries LA, Clegg LX, Edwards BK. Rising incidence
+rates
+of
+breast
+carcinoma
+with
+micrometastatic
+lymph
+node
+involvement. J Natl Cancer Inst. 2007;99(13):1044‐1049. doi:10.
+1093/jnci/djm026
+65.
+Ming Y, Wu N, Qian T, et al. Progress and future trends in PET/CT
+and PET/MRI molecular imaging approaches for breast cancer. Front
+Oncol. 2020;10:1301. doi:10.3389/fonc.2020.01301
+66.
+Caswell‐Jin JL, Sun LP, Munoz D, et al. Analysis of breast cancer
+mortality in the US—1975 to 2019. JAMA. 2024;331(3):233‐241.
+doi:10.1001/jama.2023.25881
+67.
+Jatoi I, Sung H, Jemal A. The emergence of the racial disparity in U.S.
+breast‐cancer mortality. N Engl J Med. 2022;386(25):2349‐2352.
+doi:10.1056/nejmp2200244
+68.
+Albain KS, Gray RJ, Makower DF, et al. Race, ethnicity, and clinical
+outcomes in hormone receptor‐positive, HER2‐negative, node‐
+negative breast cancer in the randomized TAILORx trial. J Natl
+Cancer Inst. 2021;113(4):390‐399. doi:10.1093/jnci/djaa148
+69.
+Abdou Y, Barlow WE, Gralow JR, et al. Abstract GS1‐01: Race and
+clinical outcomes in the RxPONDER trial (SWOG S1007). Cancer Res.
+2023;83(5 suppl):GS1‐01. doi:10.1158/1538‐7445.sabcs22‐gs1‐01
+70.
+Bailey ZD, Krieger N, Agénor M, Graves J, Linos N, Bassett MT.
+Structural racism and health inequities in the USA: evidence and
+interventions. Lancet. 2017;389(10077):1453‐1463. doi:10.1016/
+s0140‐6736(17)30569‐x
+71.
+Warnecke RB, Campbell RT, Vijayasiri G, Barrett RE, Rauscher GH.
+Multilevel examination of health disparity: the role of policy
+implementation in neighborhood context, in patient resources, and
+in healthcare facilities on later stage of breast cancer diagnosis.
+Cancer Epidemiol Biomarkers Prev. 2019;28(1):59‐66. doi:10.1158/
+1055‐9965.epi‐17‐0945
+72.
+Molina Y, Silva A, Rauscher GH. Racial/ethnic disparities in time to a
+breast cancer diagnosis: the mediating effects of health care facility
+factors. Med Care. 2015;53(10):872‐878. doi:10.1097/mlr.
+0000000000000417
+73.
+Lee CI, Zhu W, Onega T, et al. Comparative access to and use of
+digital breast tomosynthesis screening by women's race/ethnicity
+and socioeconomic status. JAMA Netw Open. 2021;4(2):e2037546.
+doi:10.1001/jamanetworkopen.2020.37546
+74.
+Keisler‐Starkey K, Bunch LN, Lindstrom RA. US Census Bureau, Cur-
+rent Population Reports, P60‐821, Health Insurance Coverage in the
+United States: 2022. US Government Publishing Office; 2023:P60‐
+P281.
+75.
+Ward E, Halpern M, Schrag N, et al. Association of insurance with
+cancer care utilization and outcomes. CA Cancer J Clin. 2008;58(1):9‐
+31. doi:10.3322/ca.2007.0011
+76.
+Zhao J, Han X, Nogueira L, et al. Health insurance status and cancer
+stage at diagnosis and survival in the United States. CA Cancer J Clin.
+2022;72(6):542‐560. doi:10.3322/caac.21732
+77.
+Jemal A, Robbins AS, Lin CC, et al. Factors that contributed to
+Black–White disparities in survival among nonelderly women with
+breast cancer between 2004 and 2013. J Clin Oncol. 2018;36(1):14‐
+24. doi:10.1200/jco.2017.73.7932
+78.
+Chavez‐MacGregor M, Lei X, Malinowski C, Zhao H, Shih YC, Gior-
+dano SH. Medicaid expansion, chemotherapy delays, and racial dis-
+parities among women with early‐stage breast cancer. J Natl Cancer
+Inst. 2023;115(6):644‐651. doi:10.1093/jnci/djad033
+79.
+Malinowski C, Lei X, Zhao H, Giordano SH, Chavez‐MacGregor M.
+Association of Medicaid expansion with mortality disparity by race
+and ethnicity among patients with de novo stage IV breast cancer.
+JAMA Oncol. 2022;8(6):863‐870. doi:10.1001/jamaoncol.2022.0159
+80.
+Tamirisa N, Lei X, Malinowski C, Li M, Bedrosian I, Chavez‐
+MacGregor M. Association of Medicaid expansion with reduction
+in racial disparities in the timely delivery of up‐front surgical care for
+patients with early‐stage breast cancer. Ann Surg. 2023;280(1):136‐
+143. doi:10.1097/sla.0000000000006177
+81.
+Cho B, Han Y, Lian M, et al. Evaluation of racial/ethnic differences in
+treatment and mortality among women with triple‐negative breast
+cancer. JAMA Oncol. 2021;7:1016‐1023. doi:10.1001/jamaoncol.
+2021.1254
+82.
+Chavez‐MacGregor M, Clarke CA, Lichtensztajn DY, Giordano SH.
+Delayed initiation of adjuvant chemotherapy among patients with
+breast cancer. JAMA Oncol. 2016;2(3):322‐329. doi:10.1001/
+jamaoncol.2015.3856
+83.
+Sadigh G, Gray RJ, Sparano JA, et al. Breast cancer patients' insurance
+status and residence zip code correlate with early discontinuation of
+endocrine therapy: an analysis of the ECOG‐ACRIN TAILORx trial.
+Cancer. 2021;127(14):2545‐2552. doi:10.1002/cncr.33527
+84.
+Roy AM, Patel A, Catalfamo K, et al. Racial and ethnic disparity in
+preoperative chemosensitivity and survival in patients with early‐
+stage breast cancer. JAMA Netw Open. 2023;6(11):e2344517.
+doi:10.1001/jamanetworkopen.2023.44517
+85.
+Yao S, Cheng TD, Elkhanany A, et al. Breast tumor microenvironment
+in Black women: a distinct signature of CD8þ T‐cell exhaustion. J Natl
+Cancer Inst. 2021;113(8):1036‐1043. doi:10.1093/jnci/djaa215
+86.
+Kim G, Pastoriza JM, Condeelis JS, et al. The contribution of race to
+breast tumor microenvironment composition and disease progres-
+sion. Front Oncol. 2020;10:1022. doi:10.3389/fonc.2020.01022
+87.
+Kim G, Pastoriza JM, Qin J, et al. Racial disparity in distant recurrence‐
+free survival in patients with localized breast cancer: a pooled analysis
+of National Surgical Adjuvant Breast and Bowel Project trials. Cancer.
+2022;128(14):2728‐2735. doi:10.1002/cncr.34241
+494
+-
+BREAST CANCER STATISTICS 2024
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+88.
+Bayard S, Fasano G, Chen Y, et al. Screening mammography miti-
+gates breast cancer disparities through early detection of triple
+negative breast cancer. Clin Imaging. 2021;80:430‐437. doi:10.1016/
+j.clinimag.2021.08.013
+89.
+Yao S, Cheng TYD, Elkhanany A, et al. Breast tumor microenviron-
+ment in Black women: a distinct signature of CD8þ T‐cell exhaus-
+tion. JNCI: J Natl Cancer Inst. 2021;113(8):1036‐1043. doi:10.1093/
+jnci/djaa215
+90.
+Newman LA, Chen Y, Martini R, et al. Tumor‐associated lymphocytes
+and breast cancer survival in Black and White Women. JAMA Surg.
+2024;159(6):712‐714. doi:10.1001/jamasurg.2023.8024
+91.
+Martini R, Delpe P, Chu TR, et al. African Ancestry‐associated gene
+expression profiles in triple‐negative breast cancer underlie altered
+tumor biology and clinical outcome in women of African descent.
+Cancer Discov. 2022;12(11):2530‐2551. doi:10.1158/2159‐8290.cd‐
+22‐0138
+92.
+Toyoda Y, Oh EJ, Premaratne ID, Chiuzan C, Rohde CH. Affordable
+Care Act state‐specific Medicaid expansion: impact on health in-
+surance coverage and breast cancer screening rate. J Am Coll Surg.
+2020;230(5):775‐783. doi:10.1016/j.jamcollsurg.2020.01.031
+93.
+Palarino JV. The immigrant health advantage: an examination of
+African‐Origin Black immigrants in the United States. Popul Res
+Policy Rev. 2021;40(5):895‐929. doi:10.1007/s11113‐021‐09647‐6
+94.
+Singh GK, Hiatt RA. Trends and disparities in socioeconomic and
+behavioural characteristics, life expectancy, and cause‐specific
+mortality of native‐born and foreign‐born populations in the
+United States, 1979–2003. Int J Epidemiol. 2006;35(4):903‐919.
+doi:10.1093/ije/dyl089
+95.
+Kratzer TB, Jemal A, Miller KD, et al. Cancer statistics for American
+Indian and Alaska Native individuals, 2022: including increasing
+disparities in early onset colorectal cancer. CA Cancer J Clin.
+2023;73(2):120‐146. doi:10.3322/caac.21757
+How to cite this article: Giaquinto AN, Sung H, Newman LA,
+et al. Breast cancer statistics 2024. CA Cancer J Clin.
+2024;74(6):477‐495. doi:10.3322/caac.21863
+GIAQUINTO ET AL.
+-
+495
+ 15424863, 2024, 6, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21863, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -1,0 +1,422 @@
+record_id=178 pmid=30426307 doi=10.1007/s10549-018-5042-1
+SOURCE: manual-pdf
+TITLE: Trends in stage at diagnosis for young breast cancer patients in the United States
+
+Vol.:(0123456789)
+1 3
+Breast Cancer Research and Treatment (2019) 173:743–747 
+https://doi.org/10.1007/s10549-018-5042-1
+BRIEF REPORT
+Trends in stage at diagnosis for young breast cancer patients 
+in the United States
+Carol E. DeSantis1,2   · Jiemin Ma1 · Ahmedin Jemal1
+Received: 7 September 2018 / Accepted: 8 November 2018 / Published online: 13 November 2018 
+© Springer Science+Business Media, LLC, part of Springer Nature 2018
+Abstract
+Purpose  Previous studies reported increasing rates of metastatic breast cancer among young US women. However, these 
+studies were based on limited geographic areas and did not account for the sharp decline in unknown-stage disease. In this 
+study, we examined trends in early-onset breast cancer incidence rates by stage at diagnosis in a national dataset, after cor-
+recting for temporal changes in unstaged disease.
+Methods  Using data from 42 states, covering 82% of the US population, we examined trends in incidence rates by stage at 
+diagnosis and race/ethnicity in women ages 20–39 years. Stage was imputed for non-Hispanic (NH) white and NH black 
+cases with missing information by distributing cases proportionally according to survival statistics.
+Results  During 2001–2015, incidence rates of early-onset metastatic breast cancer increased sharply among NH white, NH 
+black, Hispanic, and Asian/Pacific Islander (API) women. Increasing trends were also observed for local-stage disease (all 
+racial/ethnic groups) and regional-stage disease (NH white and API). In contrast, rates decreased sharply for unstaged disease 
+among all groups. After imputing stage for cases with missing information, the increasing trends for regional- and distant-
+stage disease in NH whites and local-stage disease in NH blacks were no longer statistically significant, but the increase in 
+distant-stage disease in NH blacks was unchanged.
+Conclusions  After accounting for the sharp decline in unstaged cases, the increase in incidence rates for distant-stage disease 
+became non-significant in NH whites but not in NH blacks. Future studies should consider accounting for temporal changes 
+in unstaged disease when examining stage-specific incidence trends.
+Keywords  Breast cancer · Incidence trends · Young women · Stage at diagnosis
+Background
+In 2013, Johnson et al. reported that the incidence rate for 
+breast cancers diagnosed at distant-stage increased by 2.1% 
+per year on average during 1976–2009 for women ages 
+25–39 [1]. A subsequent study found rates of distant-stage 
+breast cancers increased by 6.9% per year from 1997 to 2011 
+in women under 40 years [2]. Both of these studies relied on 
+data from the Surveillance, Epidemiology, and End Results 
+(SEER) program of the National Cancer Institute, which 
+covered only 9–28% of the US population. In addition, these 
+studies did not adjust for the sharp decline in unstaged cases 
+over the study period, although Johnson et al. conclude that 
+the decline in unstaged disease was unlikely to explain the 
+increase in distant-stage disease [1]. Herein, we extend these 
+studies using a large, national population-based database to 
+examine contemporary trends in breast cancer incidence 
+rates from 2001 to 2015 by stage at diagnosis and race/eth-
+nicity among women ages 20–39 in the US after correcting 
+for declining rates of unstaged disease.
+Methods
+Population-based cancer incidence data in the US are col-
+lected by the SEER program and the Centers for Disease 
+Control and Prevention’s National Program of Cancer Regis-
+tries and are compiled by the North American Association of 
+Central Cancer Registries (NAACCR). Incidence data from 
+ *	 Carol E. DeSantis 
+	
+carol.desantis@cancer.org
+1	
+Surveillance and Health Services Research, American 
+Cancer Society, Atlanta, GA, USA
+2	
+American Cancer Society, 250 Williams Street, Atlanta, 
+GA 30303, USA
+
+744
+	
+Breast Cancer Research and Treatment (2019) 173:743–747
+1 3
+NAACCR, which included 42 states representing 82% of 
+the US population, were used to describe trends in invasive 
+breast cancers diagnosed in women ages 20–39 years during 
+2001–2015 [3]. Data from Kansas, Maryland, Minnesota, 
+Mississippi, Nevada, New Mexico, Tennessee, Virginia, and 
+the District of Columbia were not included because these 
+states failed to meet NAACCR high-quality standards for 1 
+or more years during the study period or did not consent to 
+participate in this study. Stage at diagnosis was defined using 
+SEER Summary stage.
+All incidence rates were age-standardized to the 2000 
+US standard population and expressed per 100,000 women 
+and were calculated using the NCI’s SEER*Stat software 
+(version 8.3.4) [4]. Incidence rates were adjusted for delays 
+in reporting to account for the additional time required for 
+registration of some cases [5]. Delay-adjustment ratios from 
+the SEER 18 areas for invasive breast cancer cases diag-
+nosed at ages 20–39 were applied to the NAACCR data by 
+racial/ethnic group, stage, and year of diagnosis [6]. Trends 
+in breast cancer incidence rates were examined using Join-
+point software (version 4.2.0.2), with the resulting trends 
+expressed as annual percent change (APC) [7].
+In order to assess the effects of the decline in unstaged 
+cases on the incidence trends for known stages, we parti-
+tioned unstaged cases into localized, regional, and distant 
+groups, based on the 5-year survival in SEER-18 for each 
+stage and year of diagnosis, and conditional on the combined 
+survival of these “restaged” cases equaling the observed sur-
+vival of the unstaged cases. That is, the combined survival 
+for the unstaged cases was estimated as (plocal * Slocal + pre-
+gional * Sregional + pdistant * Sdistant)/100, where p represents 
+the percentage and S represents the observed relative sur-
+vival for localized, regional, and distant cases, respectively. 
+Briefly, we first partitioned all unstaged cases into regional 
+and localized/distant groups, depending on where the 
+observed survival of unstaged cases lies. We then further 
+partitioned a portion of those “restaged” regional cases into 
+localized and distant cases assuming the same percentage of 
+regional cases among staged and unstaged cases. We only 
+imputed stage for non-Hispanic (NH) white and NH black 
+cases due to small case counts for other racial/ethnic groups.
+Results
+There were 134,518 women ages 20–39 years diagnosed 
+with invasive breast cancer during 2001–2015 in the 42 
+states included in the analysis. From 2001 to 2015, overall 
+incidence rates increased slightly among NH white (0.5% per 
+year), NH black (0.3% per year) and Asian/Pacific Islander 
+(API, 1.0% per year) women but were stable among Hispanic 
+women (Table 1). In analyses not adjusted for unknown-
+stage, increasing trends were observed for local-stage 
+disease in all racial/ethnic groups and for regional-stage 
+disease among NH white and API women (Table 1; Fig. 1). 
+Rates of distant-stage disease also increased sharply among 
+all racial/ethnic groups during the study period. How-
+ever, a concomitant sharp decrease (3.9–5.3% per year) in 
+unknown-stage disease occurred among all racial/ethnic 
+groups. In stage-specific analyses adjusted for declines in 
+unstaged cases (limited to NH whites and blacks), incidence 
+rates were statistically significantly increasing only for local-
+stage disease in NH whites and distant-stage disease in NH 
+blacks (Table 1).
+Discussion
+Based on a nationwide database, we found that incidence 
+rates of early-onset de novo metastatic breast cancer (unad-
+justed for changes in unstaged disease) increased sharply 
+in NH white, NH black, Hispanic, and API women aged 
+20–39 years in the US during the most recent time period, 
+confirming and extending the previous findings based on 
+limited geographic areas [1, 2]. For the first time, however, 
+we show that the increase in distant-stage disease among 
+NH white women is no longer statistically significant after 
+2008 when adjusted for the sharp decline in unstaged dis-
+ease because of improved stage ascertainment over the study 
+period.
+Unstaged cases in cancer registry data result from insuffi-
+cient information on tumor size, lymph nodes, and/or metas-
+tases in the medical record to assign stage. These cases are 
+more common in non-whites, uninsured, or in patients resid-
+ing in rural areas [8, 9], and also occur more frequently in 
+patients residing in the South compared to other regions. 
+During 2011–2015, 4% of breast cancer cases were unstaged 
+in patients residing in Southern states, compared to 1–2% for 
+women in other regions (data not shown) [3]. Factors that 
+may have contributed to the sharp decline in unstaged cases 
+include general improvement in the quality and complete-
+ness of cancer registry data, including the 2004 implemen-
+tation of the collaborative staging system which utilizes a 
+computer algorithm to stage cases. It is also possible that 
+increased use of positron emission tomography scans to 
+stage cancers among patients who did not undergo surgery or 
+otherwise were unable to be staged, such as elderly patients 
+or those with comorbid conditions, may have contributed to 
+the decline in the incidence of unstaged disease [8].
+In contrast to the trend in NH white women, the increasing 
+incidence trend for distant-stage disease in NH black women 
+was not affected by adjustment for the decline in unstaged 
+cases. One factor may be the upstaging of more advanced 
+regional-stage disease due to increased use of imaging [10]. 
+However, that is unlikely to fully explain the rising inci-
+dence of distant-stage disease in blacks, as incidence rates 
+
+745
+Breast Cancer Research and Treatment (2019) 173:743–747	
+1 3
+for regional-stage disease remained unchanged during the 
+study period; although, we cannot rule out that there was no 
+upstaging of local-stage disease through imaging that could 
+have offset upstaging of regional-stage diseases. Neverthe-
+less, the increasing trend in distant-stage disease in blacks 
+requires further investigation.
+This study is the largest, population-based study of 
+stage at diagnosis in early-onset breast cancer in the US. 
+However, our study has several limitations. We used race/
+ethnicity- and stage-specific survival instead of medi-
+cal chart review for redistribution of unstaged disease to 
+known stage diseases. We also limited the redistribution 
+of unstaged diseases to NH whites and NH blacks because 
+of sparse data for the other racial and ethnic groups. As a 
+result, we were unable to examine adjusted stage-specific 
+trends in Hispanic or API women.
+In conclusion, incidence rates of early-onset de novo 
+metastatic breast cancer continue to increase in NH black 
+women but have leveled off in NH white women after 
+adjusting for the sharp decline in unstaged disease over the 
+past decades. Future studies on stage-specific incidence 
+trends should consider accounting for temporal changes in 
+unstaged diseases. Also, further studies are needed to iden-
+tify reasons for the increasing rates of metastatic breast 
+cancer in young black women.
+Table 1   Incidence rates and 
+trends in breast cancer incidence 
+rates by stage at diagnosis and 
+race/ethnicity, ages 20–39
+All rates are age adjusted to the US standard population and adjusted for delays in case reporting. Imputed 
+trends have been adjusted for cases with missing stage at diagnosis
+Italics indicate trends adjusted for declines in unstaged disease
+*Indicates trends are significantly different from 0.0, p < 0.5
+Incidence rates per 100,000 and 
+95% confidence intervals
+Joinpoint analyses
+Trend 1
+Trend 2
+2001–2003
+2013–2015
+Years
+APC
+Years
+APC
+Non-Hispanic white
+ All stages
+27.1 (26.7, 27.5)
+28.8 (28.4, 29.3)
+2001–2015
+0.5*
+ Localized
+13.1 (12.9, 13.4)
+14.1 (13.8, 14.4)
+2001–2010
+0.0
+2010–2015
+1.8*
+Imputed trend
+2001–2010
+− 0.2
+2010–2015
+1.7*
+ Regional
+11.7 (11.5, 12.0)
+12.3 (12.0, 12.6)
+2001–2015
+0.3*
+Imputed trend
+2001–2015
+0.2
+ Distant
+1.1 (1.1, 1.2)
+1.9 (1.8, 2.0)
+2001–2008
+6.8*
+2008–2015
+1.8*
+Imputed trend
+2001–2008
+5.4*
+2008–2015
+0.8
+ Unstaged
+1.1 (1.0, 1.2)
+0.6 (0.5, 0.6)
+2001–2015
+− 5.3*
+Non-Hispanic black
+ All stages
+32.0 (31.0, 33.0)
+33.4 (32.4, 34.4)
+2001–2015
+0.3*
+ Localized
+13.0 (12.4, 13.6)
+13.7 (13.1, 14.4)
+2001–2015
+0.5*
+Imputed trend
+2001–2015
+0.2
+ Regional
+14.8 (14.2, 15.5)
+14.7 (14.1, 15.4)
+2001–2015
+− 0.1
+Imputed trend
+2001–2015
+− 0.3
+ Distant
+2.4 (2.1, 2.7)
+3.9 (3.5, 4.2)
+2001–2015
+3.7*
+Imputed trend
+2001–2015
+3.7*
+ Unstaged
+1.8 (1.6, 2.0)
+1.1 (0.9, 1.2)
+2001–2015
+−  5.0*
+Hispanic
+ All stages
+21.2 (20.5, 21.9)
+22.0 (21.3, 22.6)
+2001–2015
+0.2
+ Localized
+8.8 (8.3, 9.3)
+9.5 (9.1, 10.0)
+2001–2015
+0.6*
+ Regional
+10.0 (9.5, 10.5)
+10.1 (9.6, 10.5)
+2001–2015
+− 0.3
+ Distant
+1.1 (0.9, 1.3)
+1.6 (1.4, 1.8)
+2001–2015
+2.9*
+ Unstaged
+1.3 (1.1, 1.5)
+0.8 (0.7, 0.9)
+2001–2015
+− 3.9*
+Asian/Pacific Islander
+ All stages
+22.6 (21.4, 23.8)
+25.4 (24.3, 26.5)
+2001–2015
+1.0*
+ Localized
+11.1 (10.3, 12.0)
+13.1 (12.3, 13.9)
+2001–2015
+1.3*
+ Regional
+9.5 (8.7, 10.3)
+10.1 (9.4, 10.8)
+2001–2004
+− 4.9
+2005–2015
+1.4*
+ Distant
+0.9 (0.7, 1.2)
+1.6 (1.4, 1.9)
+2001–2015
+2.9*
+ Unstaged
+1.0 (0.8, 1.3)
+0.6 (0.4, 0.8)
+2001–2015
+− 4.6*
+
+746
+	
+Breast Cancer Research and Treatment (2019) 173:743–747
+1 3
+Funding  No external funding applies.
+Data Availability  The dataset generated and analyzed during the cur-
+rent study is available from the North American Association of Cancer 
+Registries, https​://www.naacc​r.org/cina-data-produ​cts-overv​iew.
+Compliance with ethical standards 
+Conflict of interest  The authors are employed by the American Can-
+cer Society, which received a Grant from Merck, Inc., for intramural 
+research outside the submitted work; however, their salary is solely 
+funded through American Cancer Society funds.
+Ethical approval  This article does not contain any studies with human 
+participants or animals performed by any of the authors.
+References
+	 1.	 Johnson RH, Chien FL, Bleyer A (2013) Incidence of breast can-
+cer with distant involvement among women in the United States, 
+1976 to 2009. JAMA 309(8):800–805. https​://doi.org/10.1001/
+jama.2013.776
+	 2.	 Di Meglio A, Freedman RA, Lin NU, Barry WT, Metzger-Filho 
+O, Keating NL, King TA, Sertoli MR, Boccardo F, Winer EP, 
+Vaz-Luis I (2016) Time trends in incidence rates and survival of 
+newly diagnosed stage IV breast cancer by tumor histology: a pop-
+ulation-based analysis. Breast Cancer Res Treat 157(3):587–596. 
+https​://doi.org/10.1007/s1054​9-016-3845-5
+	 3.	 SEER*Stat Database: NAACCR Incidence Data—CiNA Analytic 
+File, 1995–2015, Public Use, certified by the North American 
+Association of Central Cancer Registries (NAACCR) as meeting 
+Fig. 1   Trends in breast cancer incidence rates by stage at diagno-
+sis among US women aged 20–39. Rates are age adjusted to the US 
+standard population and adjusted for delays in case reporting. Solid 
+lines indicate Joinpoint fitted trends and circles represent observed 
+data. Source North American Association of Central Cancer Regis-
+tries, 2018
+
+747
+Breast Cancer Research and Treatment (2019) 173:743–747	
+1 3
+high-quality incidence data standards for the specified time peri-
+ods (December 2016)
+	 4.	 Surveillance Research Program, National Cancer Institute 
+SEER*Stat software version 8.3.4. http://www.seer.cance​r.gov/
+seers​tat
+	 5.	 Clegg LX, Feuer EJ, Midthune DN, Fay MP, Hankey BF (2002) 
+Impact of reporting delay and reporting error on cancer incidence 
+rates and trends. J Natl Cancer Inst 94(20):1537–1545
+	 6.	 Surveillance, Epidemiology, and End Results (SEER) Program 
+(http://www.seer.cance​r.gov) SEER*Stat Database: Incidence—
+SEER 18 Regs Research Data + Hurricane Katrina impacted 
+Louisiana cases, Nov 2017 Sub (1973–2015 varying)—linked 
+to county attributes—total U.S., 1969–2013 counties. National 
+Cancer Institute, DCCPS, Surveillance Research Program, Sur-
+veillance Systems Branch, released April 2018, based on the 
+November 2017 submission
+	 7.	 Joinpoint Regression Program, Version 4.5.0.2. June, 2018. Statis-
+tical Research and Applications Branch, National Cancer Institute
+	 8.	 Herget K, Stroup A, Smith K, Wen M, Sweeney C (2017) 
+Unstaged cancer: long-term decline in incidence by site and 
+by demographic and socioeconomic characteristics. Cancer 
+Causes Control 28(4):341–349. https​://doi.org/10.1007/s1055​
+2-017-0874-2
+	 9.	 Merrill RM, Sloan A, Anderson AE, Ryker K (2011) Unstaged 
+cancer in the United States: a population-based study. BMC Can-
+cer 11:402. https​://doi.org/10.1186/1471-2407-11-402
+	10.	 Polednak AP (2015) Increase in distant stage breast cancer inci-
+dence rates in US women aged 25–49 years, 2000–2011: the stage 
+migration hypothesis. J Cancer Epidemiol 2015:710106. https​://
+doi.org/10.1155/2015/71010​6
+

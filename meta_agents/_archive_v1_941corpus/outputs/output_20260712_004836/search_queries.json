@@ -1,0 +1,23 @@
+{
+  "mode": "multi",
+  "pubmed": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast carcinoma\"[tiab]) AND (race[ti] OR racial[ti] OR ethnic*[ti] OR minorit*[ti] OR disparit*[ti] OR Black[ti] OR Hispanic[ti] OR White[ti] OR Asian[ti] OR \"African American\"[ti] OR \"Racial Groups\"[Mesh] OR \"Ethnicity\"[Mesh] OR \"Health Status Disparities\"[Mesh]) AND (incidence[ti] OR \"incidence rate\"[tiab] OR \"age-adjusted\"[tiab] OR \"age-standardized\"[tiab] OR \"Incidence\"[Mesh]) AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] NOT (review[pt] OR \"case reports\"[pt] OR comment[pt] OR editorial[pt] OR letter[pt])",
+  "cochrane": "#1 MeSH descriptor: [Breast Neoplasms] explode all trees | #2 (breast NEXT (cancer OR carcinoma OR neoplasm*)):ti,ab,kw | #3 #1 OR #2 | #4 MeSH descriptor: [Racial Groups] explode all trees | #5 MeSH descriptor: [Ethnicity] explode all trees | #6 (race OR racial OR ethnic* OR minorit* OR disparit* OR Black OR Hispanic OR Latina* OR Asian OR \"African American\" OR \"American Indian\" OR \"Alaska Native\"):ti,ab,kw | #7 #4 OR #5 OR #6 | #8 MeSH descriptor: [Incidence] explode all trees | #9 (incidence OR \"age-adjusted\" OR \"age-standardized\"):ti,ab,kw | #10 #8 OR #9 | #11 #3 AND #7 AND #10, Publication Year 2000 to 2025",
+  "embase": "('breast cancer'/exp OR 'breast carcinoma'/exp OR (breast AND (cancer OR carcinoma)):ti,ab) AND ('racial and ethnic differences'/exp OR 'race'/exp OR 'ethnicity'/exp OR 'health disparity'/exp OR (race OR racial OR ethnic* OR minorit* OR disparit* OR black OR hispanic OR latina* OR asian OR 'african american' OR 'american indian' OR 'alaska native'):ti,ab) AND ('cancer incidence'/exp OR 'incidence'/exp OR (incidence OR 'age-adjusted' OR 'age-standardized'):ti,ab) AND [2000-2025]/py AND [english]/lim AND [humans]/lim NOT ([conference abstract]/lim OR [review]/lim OR [case report]/lim OR [editorial]/lim OR [letter]/lim)",
+  "mesh_terms": [
+    "\"Women\"[Mesh]",
+    "\"Breast Neoplasms\"[Mesh]",
+    "\"Racial Groups\"[Mesh]",
+    "\"Ethnicity\"[Mesh]",
+    "\"African Americans\"[Mesh]",
+    "\"Hispanic or Latino\"[Mesh]",
+    "\"Asian Americans\"[Mesh]",
+    "\"American Indian or Alaska Native\"[Mesh]",
+    "\"Healthcare Disparities\"[Mesh]",
+    "\"Health Status Disparities\"[Mesh]",
+    "\"White People\"[Mesh]",
+    "\"Incidence\"[Mesh]",
+    "\"SEER Program\"[Mesh]",
+    "\"Registries\"[Mesh]"
+  ],
+  "total_records": 941
+}

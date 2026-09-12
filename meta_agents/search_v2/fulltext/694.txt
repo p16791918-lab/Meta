@@ -1,0 +1,3899 @@
+record_id=694 pmid=11390532 doi=10.1093/jnci/93.11.824
+SOURCE: manual-pdf
+TITLE: Annual report to the nation on the status of cancer (1973 through 1998),  featuring cancers with recent increasing trends
+
+SPECIAL ARTICLE
+Annual Report to the Nation on the Status of Cancer
+(1973 Through 1998), Featuring Cancers With Recent
+Increasing Trends
+Holly L. Howe, Phyllis A. Wingo, Michael J. Thun, Lynn A. G. Ries,
+Harry M. Rosenberg, Ellen G. Feigal, Brenda K. Edwards
+Background: The American Cancer Society, the National
+Cancer Institute (NCI), the North American Association of
+Central Cancer Registries, and the Centers for Disease Con-
+trol and Prevention, including the National Center for
+Health Statistics (NCHS), collaborate to provide an annual
+update on cancer occurrence and trends in the United States.
+This year’s report contains a special feature that focuses on
+cancers with recent increasing trends. Methods: From 1992
+through 1998, age-adjusted rates and annual percent
+changes are calculated for cancer incidence and underlying
+cause of death with the use of NCI incidence and NCHS
+mortality data. Joinpoint analysis, a model of joined line
+segments, is used to examine long-term trends for the four
+most common cancers and for those cancers with recent
+increasing trends in incidence or mortality. Statistically sig-
+nificant findings are based on a P value of .05 by use of a
+two-sided test. State-specific incidence and death rates for
+1994 through 1998 are reported for major cancers. Results:
+From 1992 through 1998, total cancer death rates declined in
+males and females, while cancer incidence rates declined
+only in males. Incidence rates in females increased slightly,
+largely because of breast cancer increases that occurred in
+some older age groups, possibly as a result of increased early
+detection. Female lung cancer mortality, a major cause of
+death in women, continued to increase but more slowly than
+in earlier years. In addition, the incidence or mortality rate
+increased in 10 other sites, accounting for about 13% of total
+cancer incidence and mortality in the United States. Conclu-
+sions: Overall cancer incidence and death rates continued to
+decline in the United States. Future progress will require
+sustained improvements in cancer prevention, screening,
+and treatment. [J Natl Cancer Inst 2001;93:824–42]
+The American Cancer Society (ACS), the National Cancer
+Institute (NCI), the North American Association of Central Can-
+cer Registries (NAACCR), and the Centers for Disease Control
+and Prevention (CDC), including the National Center for Health
+Statistics (NCHS) and the Center for Chronic Disease Preven-
+tion and Health Promotion, collaborate to produce an annual
+report on the current burden of cancer in the United States. Four
+years ago, the initial report documented the first sustained de-
+cline in cancer death rates, a notable reversal in the increases
+documented since national record keeping was instituted in the
+1930s (1). The second and third reports updated and confirmed
+these declines in both cancer incidence and death rates (2,3).
+Special features in these reports highlighted lung cancer and the
+tobacco epidemic (2) and opportunities to improve the preven-
+tion, early detection, and treatment of colorectal cancer (3). The
+current report examines trends from 1973 through 1998 in the
+incidence and death rates for the four most common cancers
+(breast, prostate, lung, and colon–rectum cancers), which com-
+prise more than half the cancer burden. This report also features
+specific cancers for which incidence or death rates increased in
+one or more population subgroups during the period from 1992
+through 1998.
+SUBJECTS AND METHODS
+All statistics plus additional data and information on cancer incidence,
+mortality, and survival are available from the following Internet addresses:
+URL, www.seer.cancer.gov (NCI); www.naaccr.org/CINAPlus/index.html
+(NAACCR); www.cdc.gov/cancer/NPCR (CDC); www.cdc.gov/nchs/about/
+major/dvs/mortdata.htm (NCHS); and www.cancer.org (ACS). More detailed
+information, figures, and methodology pertaining to this report are available at
+the NCI Internet address.
+Cancer Cases and Deaths
+Information on newly diagnosed cancer cases in the United States is based on
+data collected by registries in the NCI’s Surveillance, Epidemiology, and End
+Results (SEER) Program (4) and the CDC’s National Program of Cancer Reg-
+istries (NPCR) (5). NAACCR evaluates and publishes data annually from
+registries in both programs (6).
+For the long-term trend analyses, SEER incidence data for 1973 through 1998
+were used. (These data are based on 10% of the U.S. population.) For the
+analyses of more recent trends, the SEER incidence data for 1992 through 1998
+were used; these data are based on 14% of the U.S. population. For estimates of
+the proportion of cases and deaths contributed by each cancer, 1998 incidence
+data from SEER (covering 14% of the U.S. population) and 1998 U.S. mortality
+data were used. State incidence rates are provided for the four most common
+cancers from 30 registries that meet NAACCR criteria for highest quality data
+for 1994 through 1998 (6–8). Approximately 53% of the U.S. population is
+included in the NAACCR combined cancer incidence rates. All information on
+primary site and histology for incidence is converted to the International Clas-
+sification of Diseases for Oncology, 2nd edition (9), with the use of site groups
+published previously (4).
+Affiliations of authors: H. L. Howe, North American Association of Central
+Cancer Registries, Springfield, IL; P. A. Wingo, Division of Cancer Prevention
+and Control, National Center for Chronic Disease Prevention and Health Pro-
+motion, Centers for Disease Control and Prevention (CDC), Atlanta, GA; M. J.
+Thun, Epidemiology and Surveillance Research Department, American Cancer
+Society, Atlanta; L. A. G. Ries, B. K. Edwards (Division of Cancer Control and
+Population Sciences), E. G. Feigal (Division of Cancer Treatment and Diagno-
+sis), National Cancer Institute, Bethesda, MD; H. M. Rosenberg, Division of
+Vital Statistics, National Center for Health Statistics, CDC, Hyattsville, MD.
+Correspondence to: Holly L. Howe, Ph.D., North American Association of
+Central Cancer Registries, Inc., 2121 W. White Oaks Dr., Springfield, IL 62704–
+6495 (e-mail: hhowe@naaccr.org).
+See “Notes” following “References.”
+© Oxford University Press
+824 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Cancer deaths in the United States are reported to state vital statistics offices
+and are consolidated into a national database by NCHS through the National
+Vital Statistics System (NVSS) (10). NVSS codes the underlying cause of death
+according to the version of the International Classification of Diseases (ICD) in
+use in the United States at the time (11,12). A conversion algorithm ensures
+comparability between versions of ICD codes, and they are categorized accord-
+ing to SEER site groups (4).
+Cancer Incidence and Death Rates
+Age-adjusted cancer incidence and death rates were computed by use of
+aggregated annual county resident population estimates from the U.S. Bureau
+of the Census. Population data for Hawaii were adjusted slightly for an over-
+count of white persons.
+All rates were expressed per 100 000 population and were age-adjusted by the
+direct method to the 1970 U.S. standard million population. For this report, a rate
+was calculated when at least 20 cases or deaths occur in the category of interest.
+The term “all sites” refers to all sites combined (except basal and squamous cell
+carcinoma of the skin), including those not shown in the tables or figures.
+This year’s report features 12 cancers for which incidence or death rates
+increased from 1992 through 1998, in contrast to the decreasing trends noted for
+most cancers and for all cancer sites combined. For these cancers, either the
+SEER incidence rate (based on 14% of the population) or the U.S. death rate
+increased in either sex among the total, white, or black population. Age-specific
+trends were not used in the selection of the cancers with increasing trends. The
+interval of 1992 through 1998 was chosen because the decline in cancer inci-
+dence rates began in 1992 (1) and 1998 was the most recent year for which
+incidence and mortality data were available. Combining all data from 1992
+through 1998 also improved the precision of point estimates and the data inter-
+pretability for all populations in the analyses (Hispanic, black, American Indian/
+Alaska Native [AI/AN], Asian/Pacific Islander [API], and white). State cancer
+incidence and death data for 1994 through 1998 were provided to maximize
+geographic coverage (for incidence data) and to include the most recent 5 years
+of available data.
+Statistical Analyses
+Annual percent change (APC) (4) was used to describe the recent trends from
+1992 through 1998, with statistical significance assessed with the use of a two-
+sided P  .05. The APC for the recent trends is the best measure for compari-
+sons among groups because both the beginning and ending years are the same
+(3).
+Long-term trends are better described by joinpoint analysis (JPA), a model of
+joined lines (straight lines on a log scale). JPA chooses a model of line segments,
+such that each is joined at points called a “joinpoint.” Each joinpoint denotes a
+statistically significant change in trend (13). For JPA, the overall statistical
+significance level was set to P  .05, with a maximum of three joinpoints and
+four line segments allowed. An APC was used to describe the trend for each line
+segment. On the figures, lines represent predicted trends and symbols represent
+observed rates.
+RESULTS
+General Update on Overall Trends: All Sites Combined
+Cancer incidence rates for all sites combined decreased from
+1992 through 1998 among all persons in the United States (Fig.
+1), primarily because of a decline of 2.9% per year in white
+males and 3.1% per year in black males (Table 1). Among
+females, cancer incidence rates increased 0.3% per year. During
+1992 through 1998, overall cancer death rates declined 1.1% per
+year (Table 2; Fig. 1). The change was greater among males than
+among females (declines of 1.6% and 0.8% annually, respec-
+tively), with the greatest decrease in black males (decline of
+2.0% per year).
+Long-term trends in incidence and mortality were analyzed
+(Fig. 1; Table 1) both with and without the inclusion of prostate
+cancer to assess the effects of the sudden increase in diagnosis of
+prostate cancer on the overall cancer incidence and to help put
+recent trends in context. JPA revealed three trends in overall
+cancer incidence rates from 1973 through 1998 for all sites, both
+sexes, and all races combined: Rates increased from 1973
+through 1982, accelerated from 1982 through 1992, and declined
+from 1992 through 19981 (Fig. 1; Table 1). The exclusion of
+prostate cancer eliminates the sharp increase in cancer incidence
+that peaked in 1992 and suggests that the decrease in all other
+cancers actually began 5 years earlier (in 1987). The recent
+decline in cancer incidence is evident both with and without the
+inclusion of prostate cancer. Long-term mortality trends were
+similar regardless of the inclusion or exclusion of prostate can-
+cer. When all sites are combined, death rates increased from
+1973 through 1991, were level from 1991 through 1994, and
+declined 1.4% per year from 1994 through 1998 (Fig. 1; Table
+2). The trends in cancer incidence and death rates varied by sex
+and race (Tables 1 and 2).
+Update on the Most Common Cancer Sites
+Cancers of the breast, prostate, lung, and colon–rectum ac-
+counted for 55.9% of all 1998 SEER cases and 52.7% of all 1998
+cancer deaths in the United States. Changes in the rates for these
+sites, therefore, have a strong influence on overall cancer trends.
+Results from incidence and mortality trend analyses for the top
+10 cancers are provided on the NCI Internet site. The 1992
+through 1998 trends in incidence rates for these cancers were
+level or were declining, with the exception of increasing trends
+in melanoma and in female breast cancer. Death rates decreased
+for all of the top 10 sites, except non-Hodgkin’s lymphoma
+(NHL) and female lung cancer, both of which were increasing.
+Fig. 1. All cancers and all cancers except prostate, incidence and death rates,
+joinpoint analyses for 1973 through 1998, all races, both sexes. Incidence data
+are from Surveillance, Epidemiology, and End Results Program areas covering
+10% of the U.S. population. Death data are from the National Center for Health
+Statistics covering the entire U.S. population. Rates are per 100 000 persons and
+are age-adjusted to the 1970 U.S. standard million population.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 825
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Table 1. Cancer incidence rates and trends for 1992 through 1998 and joinpoint analyses for 1973 through 1998 for the most common
+cancers and the 12 cancers with recent increasing rates by site, sex, and race*
+Site
+Average
+annual rate
+(1992–1998)
+APC†
+(1992–1998)
+Joinpoint analyses (1973–1998)
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+All sites
+397.8
+−1.1‡
+1973–1982
+0.8‡
+1982–1992
+1.7‡
+1992–1998
+−1.0‡
+Male
+473.3
+−2.7‡
+1973–1989
+1.4‡
+1989–1992
+5.2‡
+1992–1995
+−4.3‡
+1995–1998
+−0.8
+White
+470.4
+−2.9‡
+1973–1989
+1.4‡
+1989–1992
+5.2‡
+1992–1995
+−4.8‡
+1995–1998
+−0.8
+Black
+596.8
+−3.1‡
+1973–1981
+2.6‡
+1981–1989
+0.8‡
+1989–1993
+5.4‡
+1993–1998
+−4.2‡
+Female
+345.2
+0.3‡
+1973–1980
+0.1
+1980–1987
+1.6‡
+1987–1998
+0.3‡
+White
+354.4
+0.3
+1973–1980
+0.2
+1980–1987
+1.7‡
+1987–1998
+0.3‡
+Black
+337.6
+−0.1
+1973–1991
+1.2‡
+1991–1998
+−0.2
+Female breast
+111.2
+1.2‡
+1973–1980
+−0.7
+1980–1987
+3.8‡
+1987–1998
+0.5
+White
+115.5
+1.1‡
+1973–1980
+−0.6
+1980–1987
+3.9‡
+1987–1998
+0.4
+Black
+101.5
+0.1
+1973–1979
+−0.8
+1979–1986
+4.0‡
+1986–1998
+0.9‡
+Prostate
+149.7
+−5.1‡
+1973–1988
+2.9‡
+1988–1992
+17.5‡
+1992–1995
+−10.0‡
+1995–1998
+0.3
+White
+144.6
+−5.7‡
+1973–1988
+3.1‡
+1988–1992
+17.4‡
+1992–1995
+−11.3‡
+1995–1998
+0.4
+Black
+234.2
+−4.0‡
+1973–1989
+2.2‡
+1989–1992
+22.0‡
+1992–1998
+−4.0‡
+Lung
+54.4
+−1.6‡
+1973–1981
+3.0‡
+1981–1991
+0.9‡
+1991–1998
+−1.2‡
+Male
+71.1
+−2.7‡
+1973–1981
+1.9‡
+1981–1991
+−0.4‡
+1991–1998
+−2.4‡
+White
+69.6
+−2.7‡
+1973–1981
+1.7‡
+1981–1991
+−0.4‡
+1991–1998
+−2.5‡
+Black
+107.2
+−3.2‡
+1973–1984
+3.0‡
+1984–1998
+−1.8‡
+Female
+41.8
+−0.2
+1973–1976
+9.1‡
+1976–1983
+5.2‡
+1983–1991
+3.1‡
+1991–1998
+0.2
+White
+43.6
+−0.1
+1973–1982
+6.5‡
+1982–1991
+3.2‡
+1991–1998
+0.4
+Black
+45.7
+−0.3
+1973–1990
+4.7‡
+1990–1998
+−0.7
+Colon–rectum
+43.3
+−0.7
+1973–1985
+0.8‡
+1985–1995
+−1.8‡
+1995–1998
+0.5
+Male
+51.8
+−1.1
+1973–1986
+1.1‡
+1986–1995
+−2.1‡
+1995–1998
+0.1
+White
+51.4
+−1.3‡
+1973–1986
+1.0‡
+1986–1995
+−2.2‡
+1995–1998
+0.1
+Black
+57.7
+−1.1
+1973–1980
+4.6‡
+1980–1998
+−0.1
+Female
+36.7
+−0.4
+1973–1984
+0.5‡
+1984–1996
+−1.6‡
+1996–1998
+2.5
+White
+36.3
+−0.4
+1973–1984
+0.5‡
+1984–1995
+−1.9‡
+1995–1998
+1.1
+Black
+44.7
+−0.3
+1973–1980
+2.9‡
+1980–1998
+−0.3
+Non-Hodgkin’s lymphoma
+15.7
+0.1
+1973–1991
+3.5‡
+1991–1998
+0.4
+Male
+19.5
+−0.5
+1973–1990
+4.0‡
+1990–1995
+2.0
+1995–1998
+−3.3
+White
+20.2
+−0.8
+1973–1979
+2.4‡
+1979–1988
+5.0‡
+1988–1995
+1.7‡
+1995–1998
+−3.3‡
+Black
+16.0
+−0.1
+1973–1998
+4.1‡
+Female
+12.5
+1.0‡
+1973–1988
+2.9‡
+1988–1998
+1.4‡
+White
+13.0
+0.7
+1973–1988
+3.0‡
+1988–1998
+1.3‡
+Black
+8.7
+4.9‡
+1973–1998
+3.0‡
+Liver and IBD†
+4.3
+4.4‡
+1973–1983
+0.8
+1983–1998
+4.4‡
+Male
+6.6
+4.0‡
+1973–1984
+1.7‡
+1984–1998
+4.4‡
+White
+5.2
+4.0‡
+1973–1984
+0.8
+1984–1998
+4.7‡
+Black
+8.0
+1.1
+1973–1998
+2.4‡
+Female
+2.5
+4.7‡
+1973–1980
+−1.8
+1980–1998
+3.9‡
+White
+2.0
+5.5‡
+1973–1978
+−4.8
+1978–1998
+3.1‡
+Black
+2.8
+4.1
+§
+Esophagus
+3.7
+−0.3
+1973–1998
+0.5‡
+Male
+6.2
+−0.2
+1973–1998
+0.7‡
+White
+5.9
+0.9
+1973–1981
+−0.4
+1981–1998
+1.8‡
+Black
+11.8
+−6.7‡
+1973–1986
+1.5
+1986–1998
+−4.9‡
+Female
+1.7
+−0.9
+1973–1998
+−0.2
+White
+1.6
+−0.7
+1973–1998
+0.0
+Black
+4.0
+−3.6
+1973–1981
+4.3
+1981–1998
+−2.3‡
+Melanoma
+12.9
+2.8‡
+1973–1981
+6.1‡
+1981–1998
+2.8‡
+Male
+16.0
+2.8‡
+1973–1985
+5.7‡
+1985–1998
+3.0‡
+White
+18.2
+2.7‡
+1973–1980
+7.7‡
+1980–1996
+3.9‡
+1996–1998
+−2.1
+Black
+1.1
+§
+§
+Female
+10.6
+2.8‡
+1973–1980
+6.1‡
+1980–1998
+2.1‡
+White
+12.3
+2.9‡
+1973–1980
+6.7‡
+1980–1998
+2.3‡
+Black
+0.7
+§
+§
+Acute myeloid leukemia
+2.7
+1.1
+1973–1987
+−0.9‡
+1987–1998
+2.1‡
+Male
+3.3
+1.8‡
+1973–1988
+−0.5
+1988–1998
+1.9‡
+White
+3.5
+1.7
+1973–1988
+−0.7‡
+1988–1998
+2.2‡
+Black
+2.4
+2.7
+§
+Female
+2.3
+0.4
+1973–1987
+−1.1‡
+1987–1998
+2.4‡
+White
+2.3
+0.9
+1973–1986
+−1.4‡
+1986–1998
+2.3‡
+Black
+2.1
+−1.8
+§
+(Table continues)
+826 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Breast (7.8% of 1998 deaths; 16.3% of 1998 cases). During
+the period from 1973 through 1998, female breast cancer inci-
+dence rates increased by more than 40%, from 82.6 in 1973
+to 118.1 in 1998. Rates increased differentially by age and race.
+For white women, breast cancer incidence rates increased
+by 3.9% per year between 1980 and 1987 (Table 1; Fig. 2) and
+by 0.4% per year between 1987 and 1998. Breast cancer inci-
+dence rates for black women were lower than for white women;
+however, the increase for black women was similar to that for
+white women from 1979 through 1986 and larger for black
+women from 1986 through 1998 (Fig. 2; Table 1). Among white
+women and black women, trends in incidence rates varied by age
+(Fig. 3). Since the late 1980s, the increase in breast cancer in-
+cidence rates in white women was seen primarily in women
+50–74 years old. Among black women 50 years old or older,
+incidence rates increased from 1973 through 1998, although it
+was more difficult to distinguish changes in the age-specific
+trends because of variability in annual rates resulting from small
+numbers of cases. The increases in incidence rates were limited
+to early-stage breast cancer [American Joint Committee on Can-
+cer stages I and II (14)] in both black women and white women,
+as well as in situ disease (data not shown). Increases from 1994
+through 1998 in the incidence of stage II lymph node-positive
+breast cancer among white women 50–64 years old were seen, in
+contrast to the decline observed from 1984 through 1994. No
+increases in breast cancer incidence were apparent in either
+black or white women less than 50 years old. During 1992
+through 1998, incidence rates increased in API women, while
+trends for AI/AN and Hispanic women were difficult to interpret
+because of small numbers of cases (data not shown).
+Death rates from breast cancer decreased by 1.6% annually
+for all races combined from 1989 through 1995; the decrease
+then accelerated to a decline of 3.4% annually from 1995
+through 1998 (Table 2). The breast cancer death rates declined
+among white women (Fig. 2), and the decrease was proportion-
+ately greater in women younger than 50 years of age than in
+older women (Fig. 4). For black women, the most recent death
+rates did not continue to increase, in contrast to the 1.3% annual
+Table 1 (continued). Cancer incidence rates and trends for 1992 through 1998 and joinpoint analyses for 1973 through 1998 for the most
+common cancers and the 12 cancers with recent increasing rates by site, sex, and race*
+Site
+Average
+annual rate
+(1992–1998)
+APC†
+(1992–1998)
+Joinpoint analyses (1973–1998)
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Soft tissue
+(including heart)
+2.4
+2.0
+1973–1990
+0.5‡
+1990–1998
+2.4‡
+Male
+2.8
+1.0
+1973–1998
+0.9‡
+White
+2.8
+0.8
+1973–1998
+0.8‡
+Black
+2.9
+−0.1
+§
+Female
+2.1
+3.2
+1973–1992
+0.5
+1992–1998
+3.9‡
+White
+2.1
+3.3‡
+1973–1998
+1.2‡
+Black
+2.3
+2.1
+§
+Thyroid
+5.3
+2.7‡
+1973–1977
+5.3‡
+1977–1980
+−6.4
+1980–1998
+2.5‡
+Male
+2.9
+0.1
+1973–1977
+6.5
+1977–1980
+−8.4
+1980–1998
+2.1‡
+White
+3.0
+0.5
+1973–1977
+7.6‡
+1977–1980
+−8.5
+1980–1998
+2.6‡
+Black
+1.6
+§
+§
+Female
+7.7
+3.7‡
+1973–1977
+5.0
+1977–1980
+−5.6
+1980–1998
+2.7‡
+White
+7.8
+3.9‡
+1973–1988
+1.1‡
+1988–1998
+3.6‡
+Black
+4.2
+2.8‡
+1973–1988
+−1.1
+1988–1998
+4.1‡
+Small intestine
+1.3
+0.9
+1973–1998
+2.6‡
+Male
+1.6
+−0.8
+1973–1998
+2.7‡
+White
+1.5
+−1.2
+1973–1998
+2.4‡
+Black
+2.7
+1.8
+§
+Female
+1.1
+2.8‡
+1973–1998
+2.4‡
+White
+1.1
+1.8‡
+1973–1998
+2.2‡
+Black
+1.8
+§
+§
+Vulva
+1.7
+2.4‡
+1973–1998
+0.6‡
+White
+1.8
+2.5‡
+1973–1998
+0.7‡
+Black
+1.6
+2.3
+§
+Peritoneum, omentum,
+and mesentery
+0.4
+11.2‡
+1973–1988
+2.3‡
+1988–1998
+11.0‡
+Male
+0.2
+−3.4
+§
+White
+0.2
+§
+§
+Black
+§
+§
+§
+Female
+0.6
+15.1‡
+§
+White
+0.7
+14.9‡
+§
+Black
+0.4
+§
+§
+*Incidence rates and trends for 1992–1998 are based on Surveillance, Epidemiology, and End Results (SEER) registries covering 14% of the U.S. population.
+Rates are per 100 000. Joinpoint analysis of trends for 1973–1998 allowed for up to three joinpoints and are based on data from SEER registries covering 10% of
+the U.S. population.
+†APC  annual percent change; IBD  intrahepatic bile duct.
+‡APC is statistically significantly different from zero (two-sided P<.05).
+§No trend analysis was performed when there were too few cases in any year.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 827
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Table 2. Cancer death rates and trends for 1992 through 1998 and joinpoint analyses for 1973 through 1998 for the most common
+cancers and the 12 cancers with recent increasing rates by site, sex, and race*
+Site
+Average
+annual rate
+(1992–1998)
+APC†
+(1992–1998)
+Joinpoint analyses (1973–1998)
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+All sites
+167.8
+−1.1‡
+1973–1985
+0.5‡
+1985–1991
+0.2‡
+1991–1994
+−0.5
+1994–1998
+−1.4‡
+Male
+209.0
+−1.6‡
+1973–1980
+0.7‡
+1980–1990
+0.2‡
+1990–1994
+−0.8‡
+1994–1998
+−1.9‡
+White
+203.2
+−1.5‡
+1973–1979
+0.7‡
+1979–1990
+0.2‡
+1990–1994
+−0.7‡
+1994–1998
+−1.8‡
+Black
+297.7
+−2.0‡
+1973–1983
+1.7‡
+1983–1990
+0.7‡
+1990–1994
+−0.9
+1994–1998
+−2.5‡
+Female
+139.4
+−0.8‡
+1973–1990
+0.5‡
+1990–1995
+−0.2
+1995–1998
+−1.3‡
+White
+138.0
+−0.8‡
+1973–1990
+0.5‡
+1990–1995
+−0.2
+1995–1998
+−1.4‡
+Black
+166.6
+−0.6‡
+1973–1975
+−1.2
+1975–1991
+0.9‡
+1991–1998
+−0.6‡
+Female breast
+24.7
+−2.4‡
+1973–1979
+−0.3
+1979–1989
+0.5‡
+1989–1995
+−1.6‡
+1995–1998
+−3.4‡
+White
+24.3
+−2.7‡
+1973–1990
+0.2‡
+1990–1995
+−2.0‡
+1995–1998
+−3.6‡
+Black
+31.0
+−0.6
+1973–1991
+1.3‡
+1991–1998
+−0.6
+Prostate
+24.5
+−3.5‡
+1973–1987
+0.8‡
+1987–1991
+2.8‡
+1991–1994
+−1.2
+1994–1998
+−4.5‡
+White
+22.4
+−3.7‡
+1973–1987
+0.7‡
+1987–1991
+2.9‡
+1991–1994
+−1.4
+1994–1998
+−4.7‡
+Black
+53.1
+−2.3‡
+1973–1988
+1.7‡
+1988–1993
+2.6‡
+1993–1998
+−3.0‡
+Lung
+49.1
+−0.8‡
+1973–1980
+2.9‡
+1980–1990
+1.7‡
+1990–1993
+−0.2
+1993–1998
+−0.8‡
+Male
+69.3
+−1.9‡
+1973–1980
+2.0‡
+1980–1990
+0.5‡
+1990–1998
+−1.8‡
+White
+67.8
+−1.8‡
+1973–1980
+1.8‡
+1980–1990
+0.5‡
+1990–1998
+−1.7‡
+Black
+96.2
+−2.5‡
+1973–1982
+2.9‡
+1982–1990
+1.1‡
+1990–1998
+−2.2‡
+Female
+34.0
+0.8‡
+1973–1983
+6.1‡
+1983–1991
+3.7‡
+1991–1998
+0.9‡
+White
+34.6
+0.8‡
+1973–1982
+6.3‡
+1982–1989
+4.1‡
+1989–1993
+2.4‡
+1993–1998
+0.6‡
+Black
+33.6
+0.9‡
+1973–1981
+6.6‡
+1981–1990
+4.1‡
+1990–1998
+1.1‡
+Colon–rectum
+17.1
+−1.8‡
+1973–1984
+−0.6‡
+1984–1998
+−1.8‡
+Male
+20.9
+−2.1‡
+1973–1979
+0.4
+1979–1987
+−0.6‡
+1987–1998
+−2.0‡
+White
+20.6
+−2.3‡
+1973–1978
+0.4
+1978–1986
+−0.6‡
+1986–1998
+−2.1‡
+Black
+27.3
+−0.9‡
+1973–1990
+1.2‡
+1990–1998
+−0.9‡
+Female
+14.3
+−1.7‡
+1973–1984
+−1.1‡
+1984–1998
+−1.9‡
+White
+13.9
+−1.9‡
+1973–1984
+−1.2‡
+1984–1998
+−2.1‡
+Black
+19.6
+−0.6
+1973–1985
+0.5‡
+1985–1998
+−0.6‡
+Non-Hodgkin’s lymphoma
+6.8
+1.1‡
+1973–1977
+−0.2
+1977–1995
+2.2‡
+1995–1998
+−0.2
+Male
+8.4
+1.1‡
+1973–1977
+−0.9
+1977–1991
+2.5‡
+1991–1998
+1.2‡
+White
+8.7
+1.1‡
+1973–1977
+−0.5
+1977–1994
+2.4‡
+1994–1998
+0.3
+Black
+6.3
+2.0
+1973–1976
+−3.7
+1976–1998
+2.5‡
+Female
+5.5
+1.0‡
+1973–1975
+−1.8
+1975–1995
+2.0‡
+1995–1998
+−0.1
+White
+5.8
+0.9
+1973–1975
+−1.9
+1975–1995
+2.0‡
+1995–1998
+−0.3
+Black
+3.8
+2.0‡
+1973–1998
+2.4‡
+Liver and IBD†
+3.5
+2.9‡
+1973–1978
+−1.4‡
+1978–1987
+1.7‡
+1987–1995
+4.0‡
+1995–1998
+2.1‡
+Male
+5.1
+3.0‡
+1973–1978
+−0.9
+1978–1986
+2.0‡
+1986–1998
+3.6‡
+White
+4.6
+3.0‡
+1973–1977
+−1.7
+1977–1985
+1.6‡
+1985–1998
+3.6‡
+Black
+7.5
+2.8‡
+1973–1988
+0.5
+1988–1998
+2.8‡
+Female
+2.3
+2.2‡
+1973–1977
+−2.7‡
+1977–1988
+1.2‡
+1988–1995
+4.2‡
+1995–1998
+0.3
+White
+2.1
+2.2‡
+1973–1978
+−2.1‡
+1978–1988
+1.1‡
+1988–1995
+4.0‡
+1995–1998
+0.5
+Black
+3.0
+1.8
+1973–1998
+1.6‡
+Esophagus
+3.6
+0.5‡
+1973–1998
+0.7‡
+Male
+6.3
+0.5‡
+1973–1975
+2.9
+1975–1983
+0.6‡
+1983–1994
+1.1‡
+1994–1998
+0.2
+White
+5.8
+1.6‡
+1973–1982
+0.6‡
+1982–1998
+1.9‡
+Black
+12.4
+−4.3‡
+1973–1979
+2.7‡
+1979–1989
+−0.6
+1989–1998
+−3.8‡
+Female
+1.5
+0.0
+1973–1980
+1.0‡
+1980–1998
+−0.2‡
+White
+1.3
+0.9
+1973–1998
+0.3‡
+Black
+3.3
+−3.4‡
+1973–1984
+1.1‡
+1984–1998
+−2.1‡
+Melanoma
+2.2
+0.4
+1973–1977
+4.1‡
+1977–1989
+1.3‡
+1989–1998
+0.2
+Male
+3.2
+0.8‡
+1973–1987
+2.4‡
+1987–1998
+0.7‡
+White
+3.6
+1.0‡
+1973–1987
+2.6‡
+1987–1998
+0.8‡
+Black
+0.4
+−2.8
+1973–1998
+−1.2‡
+Female
+1.5
+−0.3
+1973–1979
+3.1‡
+1979–1998
+0.0
+White
+1.7
+−0.3
+1973–1979
+3.2‡
+1979–1998
+0.1
+Black
+0.4
+2.2
+1973–1998
+0.3
+Soft tissue (including heart)
+1.3
+1.0
+1973–1976
+−3.9
+1976–1979
+12.7‡
+1979–1998
+1.3‡
+Male
+1.4
+1.0
+1973–1976
+−5.4‡
+1976–1979
+12.8‡
+1979–1998
+1.1‡
+White
+1.4
+0.7
+1973–1976
+−5.6‡
+1976–1979
+12.8‡
+1979–1998
+1.1‡
+Black
+1.4
+3.7‡
+1973–1982
+5.4‡
+1982–1998
+0.8
+Female
+1.2
+0.8
+1973–1976
+−2.2
+1976–1979
+12.6
+1979–1998
+1.5‡
+White
+1.1
+1.3‡
+1973–1976
+−2.7
+1976–1979
+12.7‡
+1979–1998
+1.4‡
+Black
+1.7
+−2.1
+1973–1994
+3.6‡
+1994–1998
+−3.4
+(Table continues)
+828 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+increase between 1973 and 1991 (Fig. 2). Among black women,
+age-specific declines in death rates occurred among women
+younger than 75 years of age and were statistically significant
+only among women younger than 50 years of age.
+Breast cancer was the most common cancer diagnosed among
+women in all five racial and ethnic populations studied (Fig. 5).
+It was the leading cause of cancer death among Hispanic women
+and was second to lung cancer among all other racial and ethnic
+female groups (Fig. 5). Across these populations, the breast can-
+cer death rate was highest among black women. State-specific
+breast cancer incidence rates varied among white women (from
+95.8 in West Virginia to 130.8 in Hawaii) and among black
+women (from 71.2 in New Mexico to 120.0 in the Atlanta met-
+ropolitan area) (Table 3). Breast cancer death rates for white
+women ranged from 20.1 in Colorado to 27.1 in New Jersey,
+while rates for black women were higher, ranging from 23.2 in
+Nevada to 38.9 in Washington, DC (Table 4).
+Prostate (5.9% of deaths; 14.8% of cases). After a 2.9%
+annual increase in prostate cancer since 1973, a steeper increase
+began in 1988 with the introduction of serologic screening for
+prostate-specific antigen (PSA). Subsequently, incidence rates
+declined by 5.7% per year in white males from 1992 through
+1998 (Table 1). Analysis of long-term trends suggested that the
+recent decline was not monotonic; there was an 11.3% annual
+decrease from 1992 through 1995 and a leveling of rates be-
+tween 1995 and 1998. In black males, incidence declined by
+4.0% per year throughout the 7-year period. Among the five
+racial and ethnic populations, the incidence rate was highest
+among black males and lowest among AI/AN males (Fig. 5).
+Death rates from prostate cancer have varied over time (Table
+2). Among white men, prostate cancer death rates increased by
+0.7% per year from 1973 through 1987, climbed by 2.9% per
+year between 1987 and 1991, stabilized between 1991 and 1994,
+and then declined by 4.7% per year through 1998. Among black
+men, death rates increased by 1.7% per year from 1973 to 1988
+and 2.6% per year from 1988 to 1993, then declined by 3.0% per
+year through 1998 (Table 2).
+Prostate cancer incidence and mortality varied widely by
+race/ethnicity and geographic region (Tables 3 and 4). Prostate
+cancer ranked first in incidence and second to lung cancer as the
+most common cause of cancer death among men across all five
+racial and ethnic populations (Fig. 5). The incidence rates ranged
+from 101.0 among white males in Kentucky to 262.6 among
+black males in the Atlanta metropolitan area (Table 3). For mor-
+tality, the U.S. rate was 21.7 in white males, ranging from 18.7
+in Alaska to 25.9 in Wyoming (Table 4). Many states with the
+highest rates in white males clustered in the north central part of
+the United States (Wyoming, Wisconsin, Minnesota, Montana,
+Idaho, North Dakota, and South Dakota). Among black men, the
+death rates ranged from a low of 34.1 in Nevada to 64.2 in
+Delaware (Table 4). Most of the states with the highest death
+rates in black men were in the southeastern part of the United
+States (Alabama, Florida, Georgia, Mississippi, Tennessee, Vir-
+ginia, North Carolina, and South Carolina).
+Table 2 (continued). Cancer death rates and trends for 1992 through 1998 and joinpoint analyses for 1973 through 1998 for the most
+common cancers and the 12 cancers with recent increasing rates by site, sex, and race*
+Site
+Average
+annual rate
+(1992–1998)
+APC†
+(1992–1998)
+Joinpoint analyses (1973–1998)
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Range of years
+APC†
+Thyroid
+0.3
+−0.2
+1973–1985
+−2.4‡
+1985–1998
+0.1
+Male
+0.3
+1.1
+1973–1984
+−1.5‡
+1984–1998
+0.6
+White
+0.3
+1.2
+1973–1977
+4.2
+1977–1983
+−3.6
+1983–1998
+0.8‡
+Black
+0.2
+§
+1973–1998
+−1.4‡
+Female
+0.4
+−0.8
+1973–1988
+−2.6‡
+1988–1998
+0.3
+White
+0.3
+−0.9
+1973–1988
+−2.8‡
+1988–1998
+0.3
+Black
+0.4
+0.9
+1973–1998
+−1.3‡
+Small intestine
+0.3
+−0.2
+1973–1998
+0.5‡
+Male
+0.4
+0.7
+1973–1998
+0.7‡
+White
+0.4
+1.0
+1973–1998
+0.6‡
+Black
+0.6
+−2.0
+1973–1998
+1.5‡
+Female
+0.3
+−1.2‡
+1973–1998
+0.2‡
+White
+0.3
+−1.8‡
+1973–1998
+0.1
+Black
+0.4
+2.8
+1973–1998
+1.3‡
+Vulva
+0.3
+−1.2
+1973–1984
+−2.4‡
+1984–1998
+0.3
+White
+0.3
+−0.8
+1973–1987
+−2.0‡
+1987–1998
+1.3‡
+Black
+0.3
+−5.8
+1973–1979
+−8.8‡
+1979–1983
+10.1
+1983–1998
+−3.6‡
+Peritoneum, omentum,
+and mesentery
+0.1
+8.2‡
+1973–1977
+−0.5
+1977–1980
+−16.5
+1980–1988
+0.6
+1988–1998
+7.3‡
+Male
+0.1
+−3.8
+1973–1998
+−2.2‡
+White
+0.1
+−4.0
+1973–1998
+−2.0‡
+Black
+0.1
+§
+§
+Female
+0.2
+13.0‡
+1973–1977
+−0.6
+1977–1980
+−18.9
+1980–1988
+0.9
+1988–1998
+12.0‡
+White
+0.2
+13.5‡
+1973–1977
+−0.4
+1977–1980
+−19.8
+1980–1988
+1.8
+1988–1998
+12.2‡
+Black
+0.1
+§
+§
+*Rates are per 100 000 persons and are age-adjusted to the 1970 U.S. standard million population. Joinpoint analysis of trends allowed for up to three joinpoints.
+Death data are from the National Vital Statistics System of the National Center for Health Statistics; the data cover the entire U.S. population.
+†APC  annual percent change; IBD  intrahepatic bile duct.
+‡APC is statistically significantly different from zero (two-sided P<.05).
+§No trend analysis was performed when there were too few cases in any year.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 829
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Lung (28.5% of deaths; 13.2% of cases). Overall, lung
+cancer incidence decreased 1.6% per year between 1992 and
+1998 (Table 1), because of a decline in incidence among men
+(2.7% per year) and a leveling off of the rates among women.
+Long-term trends illustrate that women have lagged behind men
+in lung cancer incidence (Table 1) and mortality (Table 2). Lung
+cancer incidence rates began to decrease in 1981 in men but
+continued to increase until 1991 in women. Lung cancer mor-
+tality began to decrease in 1990 in men, but it continued to
+increase to at least 1998 in women. For 1992 through 1998, the
+death rate decreased by 1.9% per year among men, but it in-
+creased by 0.8% per year among women (Table 2). Lung cancer
+incidence and mortality in women showed a gradual slowing in
+the rates of increase over the past three decades.
+Among men, the death rate from lung cancer for 1992
+through 1998 exceeded that from other cancers in all five racial
+and ethnic populations (Fig. 5). The death rates ranged from 30.5
+in Hispanic males and 33.8 in API males to 96.2 in black males.
+Among women, lung cancer was the leading cause of cancer
+mortality, except among Hispanics. The death rates ranged from
+10.9 in Hispanic females to 34.6 in white females (Fig. 5). Sex-
+and race-specific lung cancer incidence and death rates also
+varied widely across states (Tables 3 and 4). Incidence rates
+were lowest among white females in Utah (19.2) and highest
+among black males in Wisconsin (149.0) (Table 3). Death rates
+ranged from 14.1 among white females in Utah to 123.4 among
+black males in Wisconsin (Table 4).
+Colon–rectum (10.5% of deaths; 11.6% of cases). Colo-
+rectal cancer was among the top four cancers in five racial/ethnic
+populations during 1992 through 1998 (Fig. 5). Colorectal can-
+cer rates ranged from 22.8 in the black population to 10.2 in the
+Hispanic population. Incidence rates for white males declined by
+1.3% per year from 1992 through 1998 and remained constant
+for black males, black females, and white females over this time
+(Table 1). The long-term incidence rates of colorectal cancer in
+all persons increased until 1985, decreased 1.8% per year
+through 1995, and then stabilized through 1998 (Table 1). The
+ascending colon was the only colon subsite with increasing in-
+cidence rates during 1992 through 1998, primarily because of a
+1.5% annual increase in females (data not shown). Death rates
+from colorectal cancer decreased from 1992 through 1998
+in white males, white females, and black males, whereas rates in
+black females were stable. In the long-term trends, the decrease
+in death rates began earlier in women than in men and was larger
+in white than in black populations (Table 2).
+Other Sites With Increasing Trends
+In addition to the recent rise in female breast cancer incidence
+rates and in the long-term increase in female lung cancer death
+rates, an increase in either incidence or mortality rates has been
+observed for 10 other cancer sites. These include NHL, mela-
+noma, and cancer of the liver and intrahepatic bile duct (IBD), as
+well as relatively rare tumor types, such as cancers of the vulva
+and of the peritoneum, omentum, and mesentery. The results for
+each cancer are described in descending order of their contribu-
+tion to total cancer deaths.
+NHL (4.3% of deaths; 4.0% of cases). From 1992 through
+1998, NHL incidence rates increased among black females
+(Table 1), primarily among those younger than 65 years old
+(data not shown). For all males, incidence rates were stable
+during the 7-year period (Table 1). The long-term trends in
+incidence rates increased from 1973 through 1998 by 3.0% per
+year for black females; incidence rates for white females in-
+creased by the same APC through 1988 but then slowed to an
+increase of 1.3% per year for the next 10 years. Incidence rates
+in black males increased 4.1% annually from 1973 through
+1998; those in white males increased 2.4% per year in the 1970s,
+accelerated to an increase of 5.0% per year in the 1980s, and
+slowed to a 1.7% annual increase from 1988 through 1995, when
+the trend reversed to a decline of 3.3% per year from 1995
+through 1998 (Table 1). During 1992 through 1998, death rates
+increased for white males and black females (Table 2). Analysis
+of long-term death rates in white males suggested that rates
+increased from 1977 through 1994 and were stable from 1994
+through 1998 (Table 2).
+Liver and IBD (2.3% of deaths; 1.2% of cases). From 1992
+through 1998, the incidence rates of liver and IBD cancer in-
+creased among all males and females, and the magnitude of the
+rates was consistently higher in males than in females and in
+black populations than in white populations (Table 1). Death
+rates during this time also increased in males (all, white, and
+black) and in females (all and white) (Table 2). The recent
+increases in both incidence rates and death rates were part of a
+long-term pattern of increasing rates for this cancer (Tables 1
+and 2). The incidence rates of cancer of the liver and IBD were
+11.5 among API, 6.1 among Hispanic, 5.6 among AI/AN, 5.1
+among blacks, and 3.4 among whites populations (Fig. 5).
+Esophagus (2.2% of deaths; 0.9% of cases). The overall
+death rate from cancer of the esophagus increased from 1992
+through 1998 because of a 1.6% annual increase in white men;
+however, rates in black men and in black women decreased over
+this period (Table 2). Trends in the incidence rates of esophageal
+Fig. 2. Female breast cancer incidence and death rates by race, 1973 through
+1998. Incidence data are from Surveillance, Epidemiology, and End Results
+Program areas covering 10% of the U.S. population. Death data are from the
+National Center for Health Statistics covering the entire U.S. population. Rates
+are per 100 000 females and are age-adjusted to the 1970 U.S. standard million
+population.
+830 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+cancer during 1992 through 1998 differed by sex and race, with
+incidence rates decreasing among black men and remaining
+stable among other groups (Table 1). The incidence rates and
+death rates in black persons were nearly twice those in white
+persons (Fig. 5). The rates among API, AI/AN, and Hispanic
+populations were lower than the rate in the white population and
+were nearly the same among the three groups. Similar racial and
+ethnic patterns were observed in death rates (Fig. 5).
+The histologic distribution of esophageal cancer has also
+changed, influencing the overall trends of this cancer (data avail-
+Fig. 3. Female breast cancer
+incidence by age and race,
+1973 through 1998. Inci-
+dence data are from Surveil-
+lance, Epidemiology, and
+End Results Program areas
+covering 10% of the U.S.
+population. Rates are per
+100 000 females and are
+age-adjusted to the 1970
+U.S. standard million popu-
+lation.
+Fig. 4. Female breast cancer
+death rates by age and race,
+1973 through 1998. Death
+data are from the National
+Center for Health Statistics
+covering the entire U.S.
+population. Rates are per
+100 000 females and are
+age-adjusted to the 1970
+U.S. standard million popu-
+lation.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 831
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+able on the Internet; see “Subjects and Methods” section). The
+incidence rates of squamous cell carcinoma of the upper esopha-
+gus have decreased gradually since the late 1970s, although they
+are higher in black than in white Americans and in men than in
+women. In contrast, the incidence rates of adenocarcinoma,
+which occurs in the lower esophagus near the gastroesophageal
+junction, have increased more steeply than those of any other
+cancer among men of both races (15).
+Melanoma (1.4% of deaths; 3.5% of cases). From 1992
+through 1998, the incidence rates of melanoma increased an
+average of 2.7% per year and 2.9% per year for both white males
+and white females, respectively (Table 1). The death rates during
+this period increased more slowly for white males (1.0% annu-
+ally) and were stable for white females (Table 2). Melanoma is
+rare among black, API, AI/AN, and Hispanic populations.
+Analyses of long-term trends in the incidence rates of mela-
+noma indicated that sharp increases occurred in white males and
+white females from 1973 until the 1980s that were then followed
+by slower increases (Table 1). The rates of death from melanoma
+among white males rose by 2.6% per year from 1973 through
+1987 and then by 0.8% annually from 1987 through 1998.
+Among white females, death rates increased by 3.2% per year in
+the 1970s and then stabilized through 1998 (Table 2).
+Acute myeloid leukemia (AML) (1.3% of deaths; 0.8% of
+cases). From 1992 through 1998, the incidence of AML in-
+creased by 1.8% per year for all males (Table 1), with most of
+Fig. 5. Cancer incidence and death rates by site and race/ethnicity, 1992 through
+1998. Rates are per 100 000 persons and are age-adjusted to the 1970 U.S.
+standard million population. Incidence data are from Surveillance, Epidemiol-
+ogy, and End Results Program areas covering 14% of the U.S. population. Death
+data are from the National Center for Health Statistics covering the entire U.S.
+population. A) Whites. B) Blacks. C) Asian and Pacific Islanders. D) American
+Indians and Alaska Natives. E) Hispanics. Hispanic is not mutually exclusive
+from whites, blacks, American Indians/Alaska Natives, and Asian/Pacific Is-
+landers. #Rates are based on sex-specific data. NOS  not otherwise specified;
+ONS  other nervous system; IBD  intrahepatic bile duct.
+832 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+Fig. 5. (Continued).
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 833
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+the increase occurring in males who were 65 years old or older
+(data not shown). This recent pattern was part of a longer trend
+of increasing rates since the late 1980s in white males. Data were
+insufficient to assess trends in death rates because of the lack of
+specificity of leukemias on the death certificate.
+Soft (connective) tissue including heart (0.7% of deaths;
+0.6% of cases). The designation of soft tissue refers to the
+anatomic site and not to the type of tumor. Although more than
+90% of soft-tissue tumors are soft-tissue sarcomas, sarcomas of
+specific sites are classified to the specific anatomic site and not
+to soft tissue. The incidence rate of cancers of the soft tissue,
+including heart, increased 3.3% per year among white females
+from 1992 through 1998, while that for the other race–sex
+groups were stable (Table 1). Death rates increased during this
+period for white females (1.3% annually) and black males (3.7%
+annually) (Table 2). The long-term incidence trend in all persons
+increased 0.5% annually from 1973 through 1990 and acceler-
+ated to increase by 2.4% per year from 1990 through 1998. In
+contrast, the long-term mortality trend increased by 12.7% an-
+nually in all persons from 1976 through 1979 and then slowed to
+a 1.3% annual increase through 1998.
+Thyroid (0.4% of deaths; 1.5% of cases). The incidence
+rates for thyroid cancer for 1992 through 1998 were 2.5 times
+higher in women than in men. The overall incidence rate of
+thyroid cancer increased 2.7% per year during 1992 through
+1998, reflecting annual increases in white (3.9%) and black
+(2.8%) women (Table 1). The increases occurred among 20- to
+54-year-old females of both races and older white females (data
+not shown). Long-term trends of incidence rates in white women
+increased 1.1% per year from 1973 through 1988 and then ac-
+celerated to increase by 3.6% per year through 1998. Rates for
+black females were stable through 1988, at which time the rates
+began to increase by 4.1% per year through 1998. Death rates
+remained level during the recent 7-year period (Table 2); how-
+ever, among white males, long-term death rates have increased
+by 0.8% annually from 1983 through 1998. The lowest inci-
+dence rates occurred in black persons (3.0) and in AI/AN popu-
+lations (3.1), the highest rate was among the API population
+Table 3. Average annual cancer incidence rates for selected cancer sites by sex, race, and selected states and geographic areas, 1994 through 1998*
+States and areas
+Female breast
+Prostate
+Lung
+Colon and rectum
+Male
+Female
+Male
+Female
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+Arizona
+105.7
+77.3
+113.2
+138.9
+67.7
+78.9
+43.0
+38.9
+45.5
+41.7
+31.9
+31.6
+California
+117.2
+97.1
+124.3
+198.7
+65.8
+93.8
+45.6
+45.8
+48.0
+54.8
+33.9
+42.4
+Greater Bay Area
+130.6
+92.4
+130.6
+180.4
+62.0
+92.9
+45.8
+45.6
+49.8
+52.8
+35.6
+36.8
+Los Angeles
+110.0
+99.4
+124.6
+205.3
+57.6
+93.9
+39.0
+43.8
+46.6
+56.5
+32.5
+44.7
+Colorado
+110.5
+83.4
+131.1
+163.4
+56.9
+70.1
+35.1
+41.8
+44.5
+47.7
+32.6
+36.7
+Connecticut
+123.6
+94.1
+134.6
+218.1
+74.2
+99.4
+49.5
+38.5
+56.8
+60.1
+40.7
+45.3
+Delaware
+118.8
+106.3
+132.4
+237.2
+92.9
+117.5
+56.8
+63.4
+57.7
+60.6
+40.2
+45.3
+Florida
+112.1
+88.0
+124.9
+201.5
+90.1
+101.3
+54.6
+36.7
+58.4
+56.9
+41.4
+45.0
+Georgia: Atlanta metropolitan area
+117.1
+120.0
+147.4
+262.6
+79.8
+117.6
+46.6
+40.1
+45.7
+56.7
+34.2
+49.9
+Hawaii
+130.8
+72.2
+136.4
+102.7
+68.7
+45.9
+58.1
+34.6
+Idaho
+105.8
+127.9
+61.0
+36.5
+43.7
+32.3
+Illinois
+110.9
+102.3
+119.1
+198.7
+81.0
+121.4
+45.5
+53.9
+55.0
+62.6
+39.7
+48.1
+Iowa
+108.8
+116.2
+125.5
+208.7
+80.5
+113.6
+40.2
+56.0
+59.2
+57.3
+43.0
+49.0
+Kentucky
+101.4
+103.0
+101.0
+151.3
+120.7
+140.3
+58.0
+67.0
+55.5
+65.5
+40.1
+50.3
+Louisiana
+101.0
+89.7
+131.0
+184.0
+95.2
+123.5
+47.6
+39.0
+55.9
+55.8
+36.3
+41.3
+Michigan: Detroit metropolitan area
+111.6
+102.8
+149.2
+256.3
+85.1
+118.5
+51.8
+52.1
+55.7
+59.1
+36.9
+46.3
+Montana
+101.8
+124.3
+69.8
+44.0
+45.5
+33.0
+Nebraska
+108.6
+103.0
+127.4
+175.4
+72.9
+107.9
+36.4
+57.2
+56.0
+48.0
+38.0
+41.1
+New Hampshire
+115.1
+127.4
+76.5
+49.3
+57.1
+40.1
+New Jersey
+120.4
+96.5
+147.3
+227.6
+77.2
+102.1
+47.4
+45.5
+63.1
+62.5
+43.4
+47.0
+New Mexico
+104.5
+71.2
+127.1
+121.3
+54.2
+58.0
+32.7
+31.3
+41.8
+42.2
+30.0
+32.8
+North Carolina
+103.8
+92.9
+112.8
+182.7
+91.8
+106.8
+43.5
+30.5
+47.3
+47.2
+32.0
+39.9
+Pennsylvania
+108.2
+101.4
+129.5
+238.2
+79.5
+122.0
+41.7
+58.6
+60.5
+63.4
+42.0
+44.5
+Rhode Island
+117.0
+86.8
+143.8
+167.8
+92.2
+88.2
+53.8
+57.6
+62.7
+45.6
+44.0
+45.2
+Utah
+99.5
+146.8
+179.9
+35.6
+19.2
+39.2
+29.4
+Washington
+121.0
+99.0
+132.8
+186.6
+73.4
+91.3
+51.4
+44.6
+47.8
+56.0
+35.3
+38.9
+Seattle–Puget Sound, WA
+127.4
+105.3
+134.0
+200.2
+73.4
+98.7
+53.2
+47.4
+48.9
+59.3
+35.2
+40.5
+West Virginia
+95.8
+91.2
+107.0
+174.4
+104.3
+94.0
+54.8
+45.2
+53.1
+72.3
+39.7
+48.7
+Wisconsin
+110.1
+95.9
+134.2
+231.0
+72.0
+149.0
+42.2
+60.7
+57.9
+64.2
+41.4
+46.0
+Wyoming
+98.7
+146.6
+61.6
+39.8
+45.1
+33.4
+SEER Program†
+116.6
+102.0
+133.4
+222.9
+67.7
+103.7
+43.7
+45.6
+50.5
+56.7
+35.9
+44.6
+NPCR‡
+111.4
+95.1
+125.3
+200.4
+78.8
+108.7
+46.6
+44.9
+53.7
+57.2
+38.0
+43.8
+NAACCR combined§
+111.6
+96.6
+126.7
+206.7
+78.0
+109.3
+46.2
+45.1
+53.6
+57.3
+37.9
+44.3
+*Rates are per 100 000 and are age-adjusted to the 1970 U.S. standard million population. Rates are suppressed when incidence counts are fewer than 20 in a 5-year
+period.
+†SEER (Surveillance, Epidemiology, and End Results) Program rates are based on data from Greater Bay Area (California), Los Angeles (California), Atlanta
+metropolitan area (Georgia), Connecticut, Hawaii, Iowa, Detroit metropolitan area (Michigan), New Mexico, Utah, and Seattle–Puget Sound (Washington).
+‡NPCR (National Program of Cancer Registries) rates are based on data from Arizona, California, Colorado, Delaware, Florida, Idaho, Illinois, Kentucky,
+Louisiana, Montana, Nebraska, New Hampshire, New Jersey, North Carolina, Pennsylvania, Rhode Island, Washington, West Virginia, Wisconsin, and Wyoming.
+§NAACCR (North American Association of Central Cancer Registries) rates are based on data from 30 states and areas that meet standards of highest quality
+for 1994–1998. (SEER metropolitan areas within included states are not duplicated in rates.) These states/areas cover approximately 53% of the U.S. population.
+834 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+(6.7), and white persons had intermediate rates (5.4). All of the
+racial and ethnic groups had low mortality rates.
+Small intestine (0.2% of deaths; 0.3% of cases). The inci-
+dence rates of cancer of the small intestine increased, whereas
+the death rate decreased, in women from 1992 through 1998
+(Tables 1 and 2). Long-term increases in both incidence and
+death rates were evident among men and women from 1973
+through 1998, with the average annual increase in incidence
+rates more than five times larger than the increase in death rates.
+Long-term incidence rates increased for men and women (Table
+1) and for both adenocarcinoma and carcinoid neoplasms (his-
+tologic data not shown).
+Vulva (0.1% of deaths; 0.3% of cases). The incidence rates
+for cancer of the vulva increased 2.4% per year from 1992
+through 1998 (Table 1). The increase occurred predominantly
+among females younger than age 65 years (data not shown) and
+involved both squamous cell tumors and tumors of other epithe-
+lial origin. Trends in the death rates from vulvar cancer were
+more variable than incidence trends (Table 2); death rates de-
+creased from the mid-1970s to the mid-1980s and then remained
+Table 4. Average annual cancer death rates for selected cancer sites by sex, race, and state, 1994 through 1998*
+State
+Female breast
+Prostate
+Lung
+Colon and rectum
+Male
+Female
+Male
+Female
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+White
+Black
+Alabama
+20.6
+28.2
+21.2
+58.3
+83.6
+90.4
+34.3
+24.4
+17.5
+24.7
+11.7
+16.9
+Alaska
+21.3
+18.7
+56.1
+41.0
+17.4
+10.9
+Arizona
+21.8
+27.3
+21.1
+42.3
+58.0
+81.5
+33.0
+31.4
+17.5
+21.9
+11.9
+17.8
+Arkansas
+21.1
+29.3
+22.1
+53.8
+91.2
+115.4
+37.9
+28.9
+19.1
+26.6
+13.3
+20.2
+California
+24.2
+30.5
+20.7
+43.0
+53.3
+79.3
+34.8
+37.2
+17.6
+24.0
+12.2
+18.1
+Colorado
+20.1
+28.6
+21.2
+40.8
+46.6
+59.4
+26.0
+29.0
+17.2
+19.2
+11.8
+15.3
+Connecticut
+24.8
+31.7
+20.1
+49.0
+57.2
+76.6
+34.4
+29.5
+19.8
+22.9
+13.3
+15.3
+Delaware
+26.2
+30.1
+22.6
+64.2
+77.6
+97.1
+42.2
+50.3
+21.2
+24.8
+15.8
+24.5
+Washington, DC
+21.6
+38.9
+20.4
+50.5
+44.6
+94.8
+23.3
+41.3
+13.9
+29.7
+12.6
+19.7
+Florida
+22.8
+27.7
+19.7
+55.2
+66.9
+86.2
+37.2
+27.4
+18.7
+23.9
+12.8
+18.5
+Georgia
+21.9
+30.3
+22.4
+59.8
+80.9
+95.9
+35.8
+24.2
+17.1
+24.5
+11.6
+18.3
+Hawaii
+25.5
+23.7
+55.9
+34.9
+19.6
+11.8
+Idaho
+21.9
+24.4
+51.4
+27.9
+17.1
+11.8
+Illinois
+25.1
+33.7
+21.6
+51.5
+66.3
+106.7
+34.1
+44.1
+22.0
+31.1
+14.3
+21.8
+Indiana
+24.2
+33.1
+22.7
+49.9
+77.9
+102.9
+37.2
+45.3
+21.3
+30.8
+14.9
+25.9
+Iowa
+23.1
+29.7
+22.9
+46.3
+64.2
+106.4
+30.6
+35.5
+21.3
+33.9
+15.4
+Kansas
+22.2
+33.3
+21.0
+52.4
+64.7
+84.0
+31.8
+31.8
+18.7
+34.5
+12.7
+20.1
+Kentucky
+23.2
+34.0
+22.6
+49.6
+98.8
+117.0
+43.8
+53.0
+22.6
+29.7
+15.3
+20.6
+Louisiana
+23.4
+31.7
+22.6
+51.5
+80.8
+113.0
+38.0
+34.4
+21.3
+29.6
+13.8
+19.3
+Maine
+23.9
+23.5
+74.0
+41.6
+22.1
+16.0
+Maryland
+25.1
+32.2
+21.7
+56.0
+68.4
+95.2
+39.4
+38.6
+22.3
+30.7
+14.9
+21.2
+Massachusetts
+25.8
+28.9
+22.2
+46.0
+64.2
+68.7
+37.2
+33.3
+23.0
+29.4
+15.5
+18.0
+Michigan
+23.9
+31.4
+21.8
+44.0
+66.1
+94.1
+35.3
+36.8
+20.7
+25.9
+13.1
+20.0
+Minnesota
+23.2
+28.7
+24.5
+57.2
+52.6
+92.8
+29.7
+35.2
+18.9
+26.9
+12.7
+Mississippi
+20.5
+30.3
+21.0
+58.3
+87.7
+106.7
+35.1
+27.0
+18.9
+25.0
+11.6
+18.4
+Missouri
+23.1
+32.7
+20.4
+50.6
+77.1
+106.0
+37.8
+44.1
+20.5
+29.3
+14.1
+21.3
+Montana
+22.0
+24.3
+55.7
+32.7
+18.7
+11.7
+Nebraska
+23.2
+29.7
+19.9
+41.2
+60.4
+90.7
+28.0
+41.7
+22.1
+35.1
+14.1
+21.0
+Nevada
+23.2
+23.2
+22.9
+34.1
+69.0
+79.0
+48.4
+36.9
+21.5
+27.6
+13.9
+18.9
+New Hampshire
+24.7
+22.8
+65.9
+40.3
+21.8
+16.6
+New Jersey
+27.1
+32.3
+22.0
+52.5
+61.4
+88.0
+35.7
+36.8
+23.9
+27.1
+15.8
+20.7
+New Mexico
+22.5
+23.3
+23.4
+47.1
+45.9
+26.8
+24.6
+17.7
+11.5
+New York
+26.8
+28.6
+21.1
+43.5
+59.7
+66.8
+33.4
+27.0
+22.8
+23.8
+15.5
+16.7
+North Carolina
+21.9
+32.5
+21.9
+62.5
+80.4
+102.0
+33.9
+26.1
+19.1
+25.2
+12.8
+20.6
+North Dakota
+22.5
+25.4
+54.7
+26.1
+20.9
+12.9
+Ohio
+25.2
+31.2
+22.4
+48.6
+73.1
+101.1
+37.0
+43.6
+22.4
+28.8
+15.1
+20.2
+Oklahoma
+23.9
+31.5
+20.5
+47.6
+83.3
+87.0
+38.5
+34.8
+19.0
+32.2
+13.5
+16.5
+Oregon
+23.3
+27.2
+23.7
+53.3
+63.0
+83.1
+39.5
+29.2
+18.5
+12.6
+18.0
+Pennsylvania
+25.3
+32.6
+22.3
+53.8
+66.8
+107.0
+32.2
+47.0
+23.0
+29.9
+15.6
+20.8
+Rhode Island
+26.3
+27.6
+23.4
+50.1
+74.3
+81.9
+37.9
+48.8
+24.7
+14.7
+23.8
+South Carolina
+21.3
+30.9
+22.1
+62.0
+76.7
+91.8
+34.0
+24.2
+19.5
+28.3
+12.5
+18.6
+South Dakota
+20.8
+24.1
+57.1
+26.0
+20.7
+14.5
+Tennessee
+23.0
+33.1
+21.5
+55.5
+90.5
+115.3
+36.3
+36.9
+19.7
+34.4
+13.2
+23.5
+Texas
+21.8
+30.8
+21.7
+52.0
+68.7
+105.8
+33.5
+34.4
+19.0
+29.8
+12.3
+20.2
+Utah
+20.8
+25.3
+28.2
+94.1
+14.1
+14.3
+11.2
+Vermont
+23.5
+23.7
+66.1
+35.6
+22.2
+16.5
+Virginia
+23.5
+33.3
+22.4
+55.8
+73.0
+99.6
+35.9
+34.8
+19.1
+29.3
+13.7
+21.6
+Washington
+23.1
+29.9
+21.2
+43.8
+59.6
+78.5
+38.8
+35.2
+17.7
+29.5
+12.6
+14.6
+West Virginia
+22.9
+25.8
+21.8
+52.4
+87.0
+88.5
+42.0
+33.4
+21.1
+36.1
+15.4
+24.6
+Wisconsin
+22.9
+26.4
+24.4
+51.6
+55.3
+123.4
+29.6
+43.1
+20.1
+25.4
+13.4
+18.3
+Wyoming
+23.2
+25.9
+53.2
+31.6
+18.5
+15.6
+United States
+23.8
+30.9
+21.7
+52.1
+66.6
+94.0
+34.9
+33.9
+20.1
+27.2
+13.7
+19.5
+*Death data are from the National Vital Statistics System of the National Center for Health Statistics; the data cover the entire U.S. population. Rates are per
+100 000 persons and are age-adjusted to the 1970 U.S. standard million population. Rates are suppressed when death counts are fewer than 20 in a 5-year period.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 835
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+stable through 1998. Examination of the trend from the mid-
+1980s to 1998 by race revealed death rates increasing in white
+women and decreasing in black women.
+Peritoneum, omentum, and mesentery (0.1% of deaths;
+0.1% of cases). The incidence rates for cancers of the perito-
+neum, omentum, and mesentery increased in white women by
+14.9% per year from 1992 through 1998 (Table 1). Data were
+insufficient to assess incidence trends during 1992 through 1998
+in black females, white males, and black males. An increase of
+similar magnitude was seen in the death rates for white females
+for this same 7-year period (Table 2). The recent increases in
+both incidence rates and death rates were part of long-term in-
+creases since 1973 that accelerated after 1988 (Tables 1 and 2).
+DISCUSSION
+Major Cancer Sites
+Breast. Reasons for the recent (1992 through 1998) increase
+in breast cancer incidence rates may signify increased screening
+and early detection, since the increase was limited to early-stage
+disease. The increase was greatest among white women who
+were 50–64 years old, the population in whom mammography
+has been used most effectively to detect early-stage tumors
+(16,17). The increase in stage II lymph node-positive disease
+that began in 1994 may reflect changes in surgical examination
+of axillary lymph nodes and pathologic techniques. It is not
+known whether any of the increase in incidence was due to age
+and birth cohort changes in reproductive patterns (delayed child-
+bearing and having fewer children) (18–20), recent hormone use
+(21–23), increases in obesity (24,25), or other, as yet unknown,
+risk factors.
+The death rate from breast cancer continues to decline be-
+cause of improvements in early detection and treatment. Regular
+mammography screening, which can detect early-stage breast
+cancers, reduces cancer mortality by about 16% for women 40–
+49 years old and 25%–30% for women 50–69 years old (26).
+Clinical trials have demonstrated that 5-year treatment with
+tamoxifen reduces regional recurrence and the occurrence of
+contralateral tumors by about 50% (27). Tamoxifen is also ben-
+eficial as adjuvant therapy for estrogen receptor-positive tumors
+(28). Adjuvant therapy with polychemotherapy improves sur-
+vival, particularly if it includes anthracycline-containing regi-
+mens (28). Clinical trials (29–32) have also shown that adjuvant
+radiotherapy reduces local recurrence and improves survival
+among breast cancer patients with four or more axillary lymph
+nodes involved.
+Prostate. Following large increases in prostate cancer inci-
+dence due to the introduction of PSA screening in the late 1980s,
+the incidence trend has been stable from 1995 through 1998,
+while death rates have continued to decline for both white males
+and black males. Much of the geographic variation in prostate
+cancer incidence rates reflects differences in PSA screening
+(33,34), with regions of high PSA screening penetration having
+higher incidence rates, often because of the discovery of clini-
+cally insignificant tumors. The correlation between prostate can-
+cer incidence and death rates across states is low (r  .32; P 
+.11, not statistically significant) in white men, illustrating the
+probable influence that PSA screening has on the magnitude of
+the prostate cancer incidence rate (34–36).
+The impact of PSA screening on mortality is not yet known
+because other changes have occurred concurrently, such as the
+shift to earlier stages of disease at diagnosis and the concomitant
+revised recommendations to treat early-stage disease more ag-
+gressively, including with both hormone therapy and surgery or
+radiation therapy. Clinical trials conducted during the past 10
+years have demonstrated the efficacy of hormones in extending
+disease-free survival, despite the competing risks for mortality
+from other diseases in the older aged population of men with
+prostate cancer (37–40).
+Lung. The decrease in lung cancer incidence and death rates
+in men and the slowing of the increase in women reflect reduc-
+tions in tobacco smoking since the 1960s (41,42). During the
+period from 1991 through 1998, lung cancer death rates in
+women increased less rapidly than during earlier periods. Trends
+in incidence and death rates from lung cancer in women have
+followed the same patterns observed among men: Rates declined
+first among young women, remained level in women aged 60–69
+years, and increased among older women (2). These trends fol-
+low the onset of regular cigarette smoking (and later, lung can-
+cer) at younger ages, with progression of the lung cancer epi-
+demic as birth cohorts age (43).
+Colon–rectum. Following a long-term decline that began in
+the mid-1980s, incidence rates of colon–rectum cancer were
+essentially stable from 1995 through 1998. Increased use of
+effective early-detection methods, such as fecal occult blood
+test, sigmoidoscopy, colonoscopy, and barium enema, increases
+incidence in the short run and subsequently decreases mortality.
+However, because these tests can detect precancerous polyps
+and early-stage carcinomas, it is difficult to separate the effects
+of screening from true changes in the incidence of colorectal
+cancer. The full benefit of effective screening for colorectal
+cancer will only be realized if existing screening tools are widely
+used; currently, they are underutilized (44).
+Whereas from 1992 through 1998, the incidence rate for all
+cancers of the colon–rectum were stable, rates for cancer of the
+ascending colon increased. These tumors are beyond the reach of
+sigmoidoscopy. A shift toward more colon carcinomas of the
+ascending and transverse colon has been observed in the United
+States (45) and internationally (46,47). The change in anatomic
+distribution of colorectal tumors may indicate improvements in
+diagnosis of these tumors, combined with increased screening by
+sigmoidoscopy and removal of adenomatous polyps in the de-
+scending colon, rather than a true increase in the incidence of
+ascending colon cancers (47,48).
+Colorectal cancer death rates continued to decline, a trend
+that began in the mid-1980s. For many years, the standard treat-
+ment for colorectal cancer after definitive surgery previously
+was single-agent 5-fluorouracil (5-FU); however, within the past
+10 years, survival has improved with the combination of 5-FU
+and leucovorin (49). Detection of earlier stages of disease and
+more effective treatments have led to the decline in death rates.
+Other Sites With Increasing Trends
+NHL. The etiology of most NHL cases is unknown. Recent
+analyses (50) describe the biologic and clinical heterogeneity
+within the NHLs according to histology, suggesting that future
+epidemiologic investigations focus on NHL risks and causal
+factors according to subtype. Suspected risk factors include
+chronic antigenic stimulation of the immune system and immu-
+nosuppression, primary or acquired immunodeficiency diseases,
+and immunosuppression following transplantation. In the 1980s,
+increases in NHL incidence and mortality in males were asso-
+836 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+ciated with the AIDS epidemic. Individuals occupationally ex-
+posed to chemicals, and perhaps phenoxy herbicides, also appear
+to be at increased risk (51). Recent increases in incidence and
+mortality among women cannot be explained.
+Liver and IBD. While liver cancer ranks as the fifth most
+common cancer in the world (52), it is not a common tumor
+within the United States. Chronic infection with hepatitis B virus
+(HBV) increases the risk of developing liver cancer; this rela-
+tionship is so strong that it has been determined to be causal.
+Liver cancer has one of the widest international variations in
+incidence of any cancer, and this variation correlates with geo-
+graphic differences in the prevalence of chronic HBV infection
+(53). For example, immigrants to the United States from Asia
+have a high prevalence of chronic HBV infection and incidence
+of liver cancer (53). Hepatitis C virus (HCV) infection is reputed
+to be the major cause of liver cancer in areas with low preva-
+lence of chronic HBV infection (53). Some proportion of the
+increase in liver cancer may also be attributed to HCV infection.
+Other risk factors for liver cancer include cirrhosis (a conse-
+quence of chronic HBV and HCV infections), chronic alcohol-
+ism, smoking, aflatoxin exposure, occupational vinyl chloride
+exposure (causing angiosarcoma of the liver), and oral contra-
+ceptive use (53).
+Esophagus. The major risk factors for squamous cell carci-
+noma of the esophagus in the United States are tobacco and
+alcohol consumption, especially in combination (54). Risk fac-
+tors for adenocarcinoma of the esophagus (55), usually preceded
+by the precursor lesion Barrett’s esophagus (56), are obesity
+(15), gastroesophageal reflux (57), tobacco smoking (58,59),
+and perhaps the decreasing prevalence of Helicobacter pylori
+infection (60). Compared with other risk factors, the relative
+importance of obesity and its increasing prevalence in the U.S.
+population on the increasing rates of adenocarcinoma of the
+esophagus is not well understood (61,62). Most esophageal car-
+cinomas are detected when the cancer can no longer be resected,
+which may account for the average survival of less than 1 year
+from the time of diagnosis (4).
+Melanoma. Sunburn at any age is associated with an in-
+creased risk of melanoma (63), as is sporadic overexposure to
+the sun (64). Incidence rates are also higher among persons of
+higher socioeconomic status, most likely reflecting the associa-
+tion of sun exposure and socioeconomic status (64). A recent
+analysis (65) shows that, in the 1990s, age-specific incidence
+rates in women stabilized or declined for tumors at an advanced
+stage and increased more slowly, compared with rates in the
+1970s and 1980s, for tumors of local stage. Earlier detection of
+melanoma in younger populations could be contributing to the
+increasing incidence trends.
+AML. AML is the most common leukemia and occurs most
+frequently in young children and in the elderly (66). Cigarette
+smoking is associated with an increased risk of many types of
+leukemia (66,67). Exposure to benzene, an established carcino-
+gen in cigarette smoke, is associated with an increased risk
+of AML (67), as are occupational and environmental exposures
+to ionizing radiation. Patients treated for multiple myeloma,
+various lymphomas, and breast and ovarian cancers have an
+increased risk of AML as a second malignancy, although no
+increased risk has been reported in cohort studies of children
+treated for acute lymphocytic leukemia (66). Other less well-
+known risk factors may include hair dye use in both men and
+women and infection with human herpesvirus 6 (68).
+The increasing trend in incidence observed in this study could
+be attributable to a residual cohort effect of cigarette smoking in
+older men. Changes in coding practice and the clinical ability to
+identify this specific leukemia may also contribute to some of
+the increase.
+Soft (connective) tissue, including heart. Ninety different
+morphologic types are included in soft-tissue cancers, with
+nearly all of them sarcomas. These tumors are rare, and it has
+been difficult to identify risks for any factors other than common
+etiologic agents, such as genetic susceptibility, ionizing radia-
+tion, occupational exposures to certain chemicals, and immuno-
+suppression (69). Some sarcomas, particularly those occurring
+early in life, are strongly influenced by genetic factors. Still
+others, such as neural sheath sarcomas, fibrosarcomas, and rhab-
+domyosarcomas, have both genetic and environmental etiologies
+(69). Exposure to phenoxy herbicides and related chlorophenols
+used for wood preservation has been associated with an in-
+creased risk of soft-tissue sarcomas (70–72). The reasons for
+incidence increases since 1992 are unknown.
+Small intestine. Cancers of the small intestine make up ap-
+proximately 2% of digestive tract cancers in the United States
+(73). Their rarity is surprising, given that the small intestine
+contributes 75% of the length and 90% of the absorptive area of
+the entire gastrointestinal tract and is one of the most rapidly
+proliferating tissues in the body (74). It is not known why the
+incidence rates and rates of death from cancers of the small
+intestine increased from 1973 through 1998. The long-term
+trends could partly reflect improved diagnosis, because inci-
+dence increased much more steeply than mortality and similar
+proportional increases occurred in adenocarcinomas of intestinal
+epithelial cells and enteroendocrine cells (also called carcinoid
+tumors).
+Thyroid. Cancer of the thyroid is relatively uncommon. Five-
+year relative survival rates are higher than 90%, and death from
+thyroid cancer is rare. Risk is linked to ionizing radiation (75),
+to radiation treatment to the head or neck for benign conditions
+(75) and for Hodgkin’s disease in children (76,77), and to ra-
+diation exposure among atomic bomb survivors (78). Other pos-
+sible risk factors include certain benign thyroid diseases (76) and
+being a Filipino-born person living in the United States (79).
+Current smokers and alcohol consumers have lower risk than
+former or never users (80). A recent study (81) suggests that
+thyroid stimulation during both pregnancy and lactation is asso-
+ciated with a transient increase in the risk of papillary thyroid
+cancer among younger women.
+Long-term survival for thyroid cancer patients is very good;
+however, it worsens with increasing age at diagnosis. Follicular
+and papillary carcinomas have the highest incidence in young
+women but have low mortality; they represent a different disease
+than anaplastic types or undifferentiated carcinomas, both of
+which occur among older patients and have high death rates
+(75). Thus, incidence and mortality statistics may measure these
+differences. A cause for the recent trend is unknown.
+Vulva. The majority of vulva cancers are squamous cell in
+origin and occur in older women and women of low socioeco-
+nomic status (82). Epidemiologic study of this rare tumor is
+limited and has identified few consistent risk factors, although
+some evidence exists for a possible role of human papillomavi-
+rus and cigarette smoking. Although in situ disease was not the
+focus of the present report, increasing trends of in situ tumors
+and level rates of invasive disease for the 1970s and 1980s have
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 837
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+been noted by other investigators (82). In the present study, rates
+of in situ squamous cell tumors in white women increased from
+1973 through 1996 and then leveled off. Among black women,
+rates of in situ squamous cell tumors increased by 7.9% per year
+from 1973 through 1998. Possible explanations for the observed
+trends include increased use of biopsy for suspicious vulva
+lesions, temporal changes in sexual behaviors, or a reporting
+artifact (83).
+Peritoneum, omentum, and mesentery. Primary tumors of
+the peritoneum, omentum, and mesentery are rare, since cancers
+in these sites result largely from metastases from other sites
+(84,85). In females, accurate classification of a peritoneal tumor
+requires good visualization during surgery to distinguish tumors
+of the ovary from those of the peritoneum (86). Misclassification
+of these tumors has been reported (87–89). Thus, the increasing
+incidence trend in females could reflect better classification
+practices due to a gradual realization and greater understanding
+of the characterization of primary peritoneal serous tumors and
+better identification of borderline ovarian and primary mucinous
+tumors compared with metastatic tumors (86).
+Limitations
+Some of the statistically significant findings in analyses that
+test multiple comparisons may be due to chance alone. The
+analyses in this report examined site-specific trends among all
+nine combinations of race (all, black, and white) and sex (all,
+females, and males) and for both incidence (>100 cancers) and
+mortality (>70 causes of cancer death) and thus could include
+results that are statistically spurious.
+Limitations in the trend statistics must also be considered.
+The APC assumes that rates increase or decrease at a constant
+rate over a time interval, an assumption that may not be true.
+Moreover, results of the JPA are not necessarily comparable to
+those in last year’s annual report (3) because the addition of the
+1998 data point may have altered the joinpoints, the direction or
+magnitude of the APC, or both. The JPA complicates compari-
+sons across different groups that have different joinpoints and
+years of inflection. Moreover, the JPA is less able to discern
+changes in trends in the black population because rates are based
+on fewer cases or deaths than for the white population. However,
+the JPA is a flexible, and perhaps more accurate, approach than
+APC in identifying the years in which significant changes in
+trends occurred.
+Another limitation is that, although the NAACCR combined
+rate covers more than 50% of the U.S. population, it may not
+reflect the United States as a whole. Progress in achieving na-
+tionwide coverage of the U.S. population has been substantial in
+the last 5 years. It is anticipated that at least 90% of the U.S.
+population will be covered within the next 5 years by popula-
+tion-based registries meeting quality standards.
+Finally, our assessment of long-term cancer trends is limited
+to white and black populations only. While changing trends for
+other race and ethnic groups may exist, annual population counts
+before 1990 for these other populations are not available; thus,
+annual rates could not be calculated for these years. Further-
+more, cancer incidence and death rates for some racial and eth-
+nic populations may be limited by problems in ascertaining race
+and by the misreporting of race and ethnicity on the basic re-
+cords from which information is collected on cancer incidence,
+deaths, and the population at risk (90–93). Studies (91,93) sug-
+gest that reporting race for the white and black population is
+generally reliable, but biases are more serious for some smaller
+populations, particularly American Indians. These biases can
+affect trends and comparisons among groups.
+Strategies for the Future
+Although it is encouraging that overall cancer incidence and
+death rates continue to decline in the United States, measures to
+sustain this progress must address the entire spectrum of pre-
+vention, early detection, and improved treatment and quality of
+life and must be aimed at reducing mortality among all popula-
+tions. Except for breast and lung cancers in women, the other 10
+cancers that increased in incidence or mortality from 1992
+through 1998 are relatively uncommon, making up about 13% of
+the total cancer incidence and mortality in the United States.
+Prevention is a key strategy for reducing the national cancer
+burden. In particular, the single most critical determinant of
+future cancer incidence and mortality will be the ability to re-
+duce tobacco use in all segments of the population. Effective
+tobacco reduction requires 1) full-scale, well-funded, sustained
+efforts to stop smoking initiation in young people and 2) appli-
+cation of effective and state-of-the-art smoking-cessation pro-
+grams that combine behavioral and pharmacologic approaches
+to increase the quit rate of tobacco-addicted adults (94,95). To-
+bacco smoking causes an estimated 30% of cancer deaths (96).
+Both the avoidance and cessation of smoking effectively reduce
+the risk of many cancers.
+Additional prevention opportunities could substantially re-
+duce the burden from other cancers. For example, although
+melanoma rates in Australia remain the highest in the world,
+prevention programs in that country have been conducted for
+more than 20 years and have been effective in reducing mela-
+noma incidence rates (97). The multistrategy programs address
+not only individual behaviors (use of protective clothing and
+sunscreen to limit sun exposure) and social norms (desirability
+of a suntan), but also social policies that increase sun protection
+and modify the environment. These social policies include in-
+creasing shade in public spaces, planting trees and constructing
+canopies on playgrounds, reducing workplace exposure, avoid-
+ing mid-day scheduling of sport activities, and providing inex-
+pensive sunscreen without sales tax. Protective behavior is en-
+couraged by media depictions of popular role models who
+demonstrate the recommended behaviors.
+Childhood immunization against hepatitis B prevents chronic
+HBV infection and reduces the incidence of liver cancer (98–
+100). Chronic HBV infection beginning in childhood poses the
+highest risk of liver cancer. In the United States, most HBV
+infections occur in adults, yet the small proportion of infections
+that begin in childhood account for a high proportion of chronic
+HBV infections. Hepatitis B vaccination has been successfully
+incorporated into early childhood and adolescent immunizations
+in the United States. In addition, screening for carriers of -fe-
+toprotein has been effective in detecting early-stage liver tumors
+and in improving survival in an HBV-infected AI/AN popula-
+tion (101). It remains unclear whether screening of other popu-
+lations would be as effective (102). However, HBV infection is
+a significant global health problem.
+A vaccine to prevent chronic HCV infection is needed, but its
+development poses major technical challenges due to viral com-
+plexity. The illness, mortality, and economic impact associated
+with HCV infection is projected to be substantial in the next
+10–20 years (103). A randomized clinical trial is in progress to
+838 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+evaluate the impact of ribavirin and interferon on reducing pro-
+gression to cirrhosis and ultimately to liver cancer in individuals
+infected with hepatitis C.
+A second strategy to reduce the cancer burden is to improve
+use of currently effective but underutilized cancer screening and
+to develop more effective screening technologies. For example,
+among the more common cancers, established procedures for
+early detection of colorectal cancers are underused in all popu-
+lation groups (44). Routine regular screening by mammography
+should also be increased, especially in women aged 65 years and
+older. Evidence from successful intervention projects demon-
+strates that they can be used to achieve higher rates of routine
+screening; however, the interventions must be more widely ap-
+plied. A large, randomized clinical trial is currently testing
+whether digital mammography improves detection over screen-
+film mammography. New colon cancer-detection technologies
+now in trials include novel fecal tests to detect cancer markers
+and virtual or computed tomography (CT)–colonography. Stud-
+ies are in progress to determine the impact of PSA screening on
+survival and to clarify clinical guidelines for screening and treat-
+ment of prostate cancer. Spiral CT scanning is under evaluation
+as a screening tool for lung cancer. Information on these and
+on other clinical trials is available on the Internet (http://
+cancernet.gov).
+Improved early-detection approaches are also needed for less
+common cancers. Moreover, for many cancers, no effective
+screening tools are available. For example, early-stage cancers
+of the ovary are not reliably detected by existing screening tests.
+Populations at high risk for particular cancers might benefit from
+screening approaches beyond those recommended for the gen-
+eral population, such as improved approaches to detect adeno-
+carcinoma of the esophagus among persons with Barrett’s
+esophagus. Changes in the anatomic location of certain cancers
+should be considered in the periodic evaluation of screening
+practices. The NCI Cancer Genome Anatomy Project has un-
+covered molecules, proteins, genes, and other biologic sub-
+stances that may be the earliest warning signs of normal cells
+turning cancerous. Research priorities are focusing on molecular
+targets and cancer imaging to identify treatments and early-
+detection tools that are more effective.
+A third strategy is to continue development of state-of-the-art
+diagnostic procedures and treatment. For breast cancer, trials are
+in progress of new preventive agents, such as raloxifene, and
+new therapeutics, such as the taxanes, her-2 neu, and angiogen-
+esis inhibitors. For prostate cancer, a major challenge is to de-
+velop imaging techniques and biomarkers that will distinguish
+the aggressive tumors requiring treatment from those that are
+clinically insignificant. Techniques, such as cryosurgery,
+brachytherapy, and three-dimensional conformal radiotherapy,
+and new drugs for prostate cancer are under active investigation
+in clinical trials. For colorectal cancer, clinical studies are testing
+the use of cyclooxygenase 2 inhibitors for prevention and adju-
+vant treatment; other new treatments, such as oxaliplatin, mono-
+clonal antibodies, angiogenesis inhibitors, and vaccines, also
+show promise. Irinotecan has been approved by the U.S. Food
+and Drug Administration for the treatment of patients with meta-
+static colorectal cancer (104) and is being evaluated in clinical
+trials for earlier stage disease. Information on these clinical trials
+is available on the Internet (http://cancernet.gov).
+A fourth strategy is to identify and reduce disparities across
+diverse populations through dissemination of state-of-the-art
+cancer care to all populations in order to increase survival, im-
+prove quality of life, and decrease mortality. Disparities in
+health and health care can result from socioeconomic factors,
+in conjunction with factors such as race, ethnicity, culture, and
+geography (urban–rural), among others. Widespread recognition
+of the existence of disparities and of the complexities involved
+in understanding their relation to health has led to more re-
+sources and programs to improve prevention, early detection,
+and treatment in all populations. From a clinical perspective,
+when diverse populations are included in clinical trials, all par-
+ticipants with equivalent stage of disease and state-of-the-art
+therapy have similar outcomes, regardless of their sociodemo-
+graphic characteristics. The challenge is to improve access and
+use of cancer control measures across diverse populations, goals
+that have existed for a long time but for which new multifocused
+approaches are needed. Several national efforts have been initi-
+ated to broaden access of diverse patient populations to cancer
+information and clinical trials. Some examples include the
+Special Populations Networks for Cancer Awareness Research
+and Training, a network of institutions that will create and
+implement cancer control, prevention, treatment, research, and
+training programs in minority and underserved communities;
+a revamped national clinical trials program designed to facilitate
+enrolling patients into clinical trials; and a new national cover-
+age decision from Medicare to cover routine care costs for pa-
+tients enrolled in clinical trials. Major steps are being taken to
+make clinical trials more broadly accessible to physicians and
+patients. Training programs have also begun to increase the di-
+versity of scientists in biomedical research and to enhance ex-
+isting careers.
+Coverage of cancer incidence data has expanded dramatically
+in the United States in the last decade, and completeness, accu-
+racy, and timeliness have improved since 1995 (5,6,105–107).
+Cancer incidence data are becoming both national (in that they
+include a greater percentage of the U.S. population) and nation-
+wide (in that local data are increasingly more available for all
+U.S. locations). A national cancer surveillance system can be
+more comprehensive, embracing the entire life cycle from birth
+to death. This surveillance system will be used to address the
+cancer information needs for healthy populations, newly diag-
+nosed patients, patients receiving treatment, and those living
+with and dying of the disease. The goal is to use surveillance
+data in targeting and prioritizing populations so that prevention
+initiatives, early-detection programs, and research can be effec-
+tively focused and so that access to state-of-the-art treatment,
+quality of life, and palliative care for cancer patients and survi-
+vors can be improved.
+REFERENCES
+(1) Wingo PA, Ries LA, Rosenberg HM, Miller DS, Edwards BK. Cancer
+incidence and mortality, 1973–1995: a report card for the U.S. Cancer
+1998;82:1197–207.
+(2) Wingo PA, Ries LA, Giovino GA, Miller DS, Rosenberg HM, Shopland
+DR, et al. Annual report to the nation on the status of cancer, 1973–1996,
+with a special section on lung cancer and tobacco smoking. J Natl Cancer
+Inst 1999;91:675–90.
+(3) Ries LA, Wingo PA, Miller DS, Howe HL, Weir HK, Rosenberg HM, et
+al. The annual report to the nation on the status of cancer, 1973–1997,
+with a special section on colorectal cancer. Cancer 2000;88:2398–424.
+(4) Ries L, Eisner M, Kosary C, Hankey B, Miller B, Edwards BK, editors.
+SEER cancer statistics review, 1973–97. Bethesda (MD): National Cancer
+Institute; 2000. NIH Publ No. 00–2789.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 839
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+(5) Cancer registries: the foundation for comprehensive cancer control. At-
+A-Glance 2000. Atlanta (GA): USDHHS, Centers for Disease Control and
+Prevention; 2000.
+(6) Howe HL, Chen VW, Hotes J, Wu XC, Correa C, editors. Cancer in North
+America, 1994–1998. Vol. I: Incidence. Springfield (IL): North American
+Association of Central Cancer Registries; April 2001.
+(7) Fulton JP, Howe HL. Evaluating the incidence-mortality ratios in esti-
+mating completeness of cancer registration. In: Howe HL, editor. Cancer
+incidence in North America, 1988–1991. Sacramento (CA): North Ameri-
+can Association of Central Cancer Registries; April 1995.
+(8) Howe HL. Conclusions of the work group for high quality criteria for data
+use. NAACCR Narrative; Winter 2001. p. 8–9.
+(9) Percy C, Van Holten V, Muir C, editors. International Classification of
+Diseases for Oncology. 2nd ed. Geneva (Switzerland): World Health
+Organization; 1990.
+(10) National Center for Health Statistics. Vital statistics of the United States,
+1950–1998. Vol. II: Mortality, parts A and B. Washington (DC): U.S.
+Public Health Service; 1954–2000.
+(11) U.S. Department of Health Education and Welfare, National Center for
+Health Statistics. Manual of the International Statistical Classification of
+Diseases, Injuries, and Causes of Death, adapted for use in the United
+States. 8th rev. Washington (DC): U.S. Govt Print Off; Public Health
+Service Publ No. 1693; 1967.
+(12) World Health Organization. Manual of the International Statistical Clas-
+sification of Diseases, Injuries, and Causes of Death, based on the rec-
+ommendations of the ninth revision, conference, 1975. Geneva (Switzer-
+land): World Health Organization; 1977.
+(13) Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for join-
+point regression with applications to cancer rates. Stat Med 2000;19:
+335–51.
+(14) Beahrs OH, Henson DE, Hutter RV, Myers MH. Manual for Staging of
+Cancer. 3rd ed. Philadelphia (PA): Lippincott, American Joint Committee
+on Cancer; 1988.
+(15) Blot WJ, McLaughlin JK. The changing epidemiology of esophageal
+cancer. Semin Oncol 1999;26(5 Suppl 15):2–8.
+(16) Ballard-Barbash R, Taplin SH, Yankaskas B, Ernster VL, Rosenberg R,
+Carney PA, et al. Breast Cancer Surveillance Consortium: a national
+mammography screening and outcomes database. Am J Radiol 1997;169:
+1001–8.
+(17) Chu KC, Tarone RE, Kessler LG, Ries LA, Hankey BF, Miller BA, et al.
+Recent trends in U.S. breast cancer incidence, survival, and mortality
+rates. J Natl Cancer Inst 1996;88:1571–9.
+(18) White E. Projected changes in breast cancer incidence due to the trend
+toward delayed childbearing. Am J Public Health 1987;77:495–7.
+(19) Kelsey JL. Breast cancer epidemiology: summary and future directions.
+Epidemiol Rev 1993;15:256–63.
+(20) Hulka BS, Stark AT. Breast cancer: cause and prevention. Lancet 1995;
+346:883–7.
+(21) Collaborative Group on Hormonal Factors in Breast Cancer. Breast cancer
+and hormone replacement therapy: collaborative reanalysis of data from
+51 epidemiological studies of 52,705 women with breast cancer and
+108,411 women without breast cancer. Lancet 1997;350:1047–59.
+(22) Colditz GA. Relationship between estrogen levels, use of hormone
+replacement therapy, and breast cancer. J Natl Cancer Inst 1998;90:
+814–23.
+(23) Collaborative Group on Hormonal Factors in Breast Cancer. Breast cancer
+and hormonal contraceptives: collaborative reanalysis of individual data
+on 53,297 women with breast cancer and 100,239 women without breast
+cancer from 54 epidemiological studies. Lancet 1996;347:1713–27.
+(24) Huang Z, Willett WC, Colditz GA, Hunter DJ, Manson JE, Rosner B, et
+al. Waist circumference, waist : hip ratio, and risk of breast cancer in the
+Nurses’ Health Study. Am J Epidemiol 1999;150:1316–24.
+(25) Huang Z, Hankinson SE, Colditz GA, Stampfer MJ, Hunter DJ, Manson
+JE, et al. Dual effects of weight and weight gain on breast cancer risk.
+JAMA 1997;278:1407–11.
+(26) Kerlikowske K. Efficacy of screening mammography among women aged
+40 to 49 years and 50 to 69 years: comparison of relative and absolute
+benefit. J Natl Cancer Inst Monogr 1997;22:79–86.
+(27) Fisher B, Costantino JP, Wickerham DL, Redmond CK, Kavanah M,
+Cronin WM, et al. Tamoxifen for prevention of breast cancer: report of the
+National Surgical Adjuvant Breast and Bowel Project P-1 study. J Natl
+Cancer Inst 1998;90:1371–88.
+(28) Early Breast Cancer Trialists’ Collaborative Group. Tamoxifen for early
+breast cancer: an overview of the randomised trials. Lancet 1998;351:
+1451–67.
+(29) Early Breast Cancer Trialists’ Collaborative Group. Favourable and
+unfavourable effects on long-term survival of radiotherapy for early
+breast cancer: an overview of the randomised trials. Lancet 2000;355:
+1757–70.
+(30) Ragaz J, Jackson SM, Le N, Plenderleith IH, Spinelli JJ, Basco VE, et al.
+Adjuvant radiotherapy and chemotherapy in node-positive premenopausal
+women with breast cancer. N Engl J Med 1997;337:956–62.
+(31) Overgaard M, Hansen PS, Overgaard J, Rose C, Andersson M, Bach F,
+et al. Postoperative radiotherapy in high-risk premenopausal women with
+breast cancer who receive adjuvant chemotherapy. Danish Breast Cancer
+Cooperative Group 82b Trial. N Engl J Med 1997;337:949–55.
+(32) Fowble B, Gray R, Gilchrist K, Goodman RL, Taylor S, Tormey DC.
+Identification of a subgroup of patients with breast cancer and histologi-
+cally positive axillary nodes receiving adjuvant chemotherapy who may
+benefit from postoperative radiotherapy. J Clin Oncol 1988;6:1107–17.
+(33) Feuer EJ, Merrill RM, Hankey BF. Cancer surveillance series: interpret-
+ing trends in prostate cancer—part II: Cause of death misclassification and
+the recent rise and fall in prostate cancer mortality. J Natl Cancer Inst
+1999;91:1025–32.
+(34) Hankey BF, Feuer EJ, Clegg LX, Hayes RB, Legler JM, Prorok PC, et al.
+Cancer surveillance series: interpreting trends in prostate cancer—part I:
+evidence of the effects of screening in recent prostate cancer incidence,
+mortality, and survival rates. J Natl Cancer Inst 1999;91:1017–24.
+(35) Legler JM, Feuer EJ, Potosky AL, Merrill RM, Kramer BK. The role of
+prostate-specific antigen (PSA) testing patterns in the recent prostate can-
+cer incidence decline in the United States. Cancer Causes Control 1998;
+9:519–27.
+(36) Etzioni R, Legler JM, Feuer EJ, Merrill RM, Cronin K, Hankey BF.
+Cancer surveillance series: interpreting trends in prostate cancer—part III:
+Quantifying the link between population prostate-specific antigen testing
+and recent declines in prostate cancer mortality. J Natl Cancer Inst 1999;
+91:1033–9.
+(37) Pilepich MV, Caplan R, Byhardt RW, Lawton CA, Gallagher MJ, Mesic
+JB, et al. Phase III trial of androgen suppression using goserelin in unfa-
+vorable-prognosis carcinoma of the prostate treated with definitive radio-
+therapy: report of Radiation Therapy Oncology Group Protocol 85–31.
+J Clin Oncol 1997;15:1013–21.
+(38) Bolla M, Gonzalez D, Warde P, Dubois JB, Mirimanoff RO, Storme G,
+et al. Improved survival in patients with locally advanced prostate can-
+cer treated with radiotherapy and goserelin. N Engl J Med 1997;337:
+295–300.
+(39) Zagars GK, Johnson DE, von Eschenbach AC, Hussey DH. Adjuvant
+estrogen following radiation therapy for stage C adenocarcinoma of the
+prostate: long-term results of a prospective randomized study. Int J Radiat
+Oncol Biol Phys 1988;14:1085–91.
+(40) Granfors T, Modig H, Damber JE, Tomic R. Combined orchiectomy and
+external radiotherapy versus radiotherapy alone for nonmetastatic prostate
+cancer with or without pelvic lymph node involvement: a prospective
+randomized study. J Urol 1998;159:2030–4.
+(41) Shopland DR. Tobacco use and its contribution to early cancer mortality
+with a special emphasis on cigarette smoking. Environ Health Perspect
+1995;103(Suppl 8):131–42.
+(42) Tolley HD, Crane L, Shipley N. Smoking prevalence and lung cancer
+death rates. In: Strategies to control tobacco use in the United States—
+a blueprint for public health action in the 1990s. Smoking and tobacco
+control monograph No. 1. Rockville (MD): U.S. Department of Health
+and Human Services (DHHS), Public Health Service, National Institutes
+of Health, National Cancer Institute; 1992: NIH Publ No. 92–3316.
+(43) Burns DM, Lee L, Shen LZ, Gilpin E, Tolley HD, Vaughn J, et al.
+Cigarette smoking behavior in the United States. In: Changes in cigarette-
+related disease risks and their implication for prevention and control.
+Smoking and tobacco control monograph No. 8. Bethesda (MD): U.S.
+Department of Health and Human Services, Public Health Service,
+National Institutes of Health, National Cancer Institute; 1997: NIH Publ
+No. 97–4213.
+840 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+(44) Trends in screening for colorectal cancer—United States, 1997 and 1999.
+MMWR Morb Mortal Wkly Rep 2001;50:162–6.
+(45) Troisi RJ, Freedman AN, Devesa SS. Incidence of colorectal carcinoma in
+the U.S.: an update of trends by gender, race, age, subsite, and stage,
+1975–1994. Cancer 1999;85:1670–6.
+(46) Thorn M, Bergstrom R, Kressner U, Sparen P, Zack M, Ekbom A. Trends
+in colorectal cancer incidence in Sweden 1959–93 by gender, localization,
+time period, and birth cohort. Cancer Causes Control 1998;9:145–52.
+(47) Stewart RJ, Stewart AW, Turnbull PR, Isbister WH. Sex differences in
+subsite incidence of large-bowel cancer. Dis Colon Rectum 1983;26:
+658–60.
+(48) Schub R, Steinheber FU. Rightward shift of colon cancer. A feature of the
+aging gut. J Clin Gastroenterol 1986;8:630–4.
+(49) O’Connell MJ, Mailliard JA, Kahn MJ, Macdonald JS, Haller DG, Mayer
+RJ, et al. Controlled trial of fluorouracil and low-dose leucovorin given
+for 6 months as postoperative adjuvant therapy for colon cancer. J Clin
+Oncol 1997;15:246–50.
+(50) Groves FD, Linet MS, Travis LB, Devesa SS. Cancer surveillance
+series: non-Hodgkin’s lymphoma incidence by histologic subtype in the
+United States from 1978 through 1995. J Natl Cancer Inst 2000;92:
+1240–51.
+(51) Scherr PA, Mueller NE. Non-Hodgkin’s lymphomas. In: Schottenfeld D,
+Fraumeni JF Jr, editors. Cancer epidemiology and prevention. 2nd ed. New
+York (NY): Oxford University Press; 1996. p. 920–45.
+(52) Bosch FX, Ribes J. Epidemiology of liver cancer in Europe. Can J Gas-
+troenterol 2000;14:621–30.
+(53) London WT, McGlynn KA. Liver cancer. In: Schottenfeld D, Fraumeni JF
+Jr, editors. Cancer epidemiology and prevention. New York (NY): Oxford
+University Press; 1996. p. 772–93.
+(54) U.S. Department of Health and Human Services. Reducing the health
+consequences of smoking: 25 years of progress. A report of the Surgeon
+General. Rockville (MD): U.S. Department of Health and Human Services
+(DHHS), Public Health Service, Centers for Disease Control, Center for
+Chronic Disease Prevention and Health Promotion, Office on Smoking
+and Health; 1989: DHHS Publ No. (CDC)89–8411; 1989.
+(55) Devesa SS, Blot WJ, Fraumeni JF Jr. Changing patterns in the incidence
+of esophageal and gastric carcinoma in the United States. Cancer 1998;
+83:2049–53.
+(56) Montesano R, Hainaut P, Hall J. The use of biomarkers to study patho-
+genesis and mechanisms of cancer: oesophagus and skin cancer as models.
+In: Toniolo P, Boffetta P, Shuker D, Rothman N, Hulka B, Pearce N,
+editors. Application of biomarkers in cancer epidemiology. Lyon
+(France): IARC Scientific Publications; 1997. p. 291–301.
+(57) Chow WH, Finkle WD, McLaughlin JK, Frankl H, Ziel HK, Fraumeni JF
+Jr. The relation of gastroesophageal reflux disease and its treatment to
+adenocarcinomas of the esophagus and gastric cardia. JAMA 1995;274:
+474–7.
+(58) Gammon M, Schoenberg JB, Ahsan H, Risch H, Vaughan T, Chow
+WH, et al. Tobacco, alcohol, and socioeconomic status and adenocarci-
+nomas of the esophagus and gastric cardia. J Natl Cancer Inst 1997;89:
+1277–84.
+(59) Lagergren J, Bergstrom R, Lindgren A, Nyren O. Symptomatic gastro-
+esophageal reflux as a risk factor for esophageal adenocarcinoma. N Engl
+J Med 1999;340:825–31.
+(60) Chow WH, Blaser MJ, Blot WJ, Gammon MD, Vaughan TL, Risch HA,
+et al. An inverse relation between cagA+ strains of Helicobacter pylori
+infection and risk of esophageal and gastric cardia adenocarcinoma. Can-
+cer Res 1998;58:588–90.
+(61) Greenlee RT, Hill-Harmon MB, Murray T, Thun M. Cancer statistics,
+2001. CA Cancer J Clin 2001;51:15–36.
+(62) Mokdad A, Serdula M, Dietz WH, Bowman B, Marks JS, Koplan J. The
+spread of the obesity epidemic in the United States, 1991–1998. JAMA
+1999;282:1519–22.
+(63) Elwood JM, Jopson J. Melanoma and sun exposure: an overview of pub-
+lished studies. Int J Cancer 1997;73:198–203.
+(64) English DR, Armstrong BK, Kricker A, Fleming C. Sunlight and cancer.
+Cancer Causes Control 1997;8:271–83.
+(65) Jemal A, Devesa SS, Hartge P, Tucker MA. Cancer surveillance series:
+recent trends in cutaneous melanoma incidence among whites in the
+United States. J Natl Cancer Inst 2001;93:678–83.
+(66) Linet MS, Cartwright RA. The leukemias. In: Schottenfeld D, Fraumeni
+JF Jr, editors. Cancer epidemiology and prevention. 2nd ed. New York
+(NY): Oxford University Press, 1996; p. 841–92.
+(67) Korte JE, Hertz-Picciotto I, Schulz MR, Ball LM, Duell EJ. The contri-
+bution of benzene to smoking-induced leukemia. Environ Health Perspect
+2000;108:333–9.
+(68) Gentile G, Mele A, Ragona G, Faggioni A, Zompetta C, Tosti ME, et al.
+Human herpes virus-6 seroprevalence and leukaemias: a case–control
+study. GIMEMA (Gruppo Italiano Malattie Ematologiche dell’ Adulto).
+Br J Cancer 1999;80:1103–6.
+(69) Mack TM. Sarcomas and other malignancies of soft tissue, retroperito-
+neum, peritoneum, pleura, heart, mediastinum, and spleen. Cancer
+1995;75(1 Suppl):211–44.
+(70) Wingren G, Fredrikson M, Brage HN, Nordenskjold B, Axelson O.
+Soft tissue sarcoma and occupational exposures. Cancer 1990;66:
+806–11.
+(71) Eriksson M, Hardell L, Adami HO. Exposure to dioxins as a risk factor for
+soft tissue sarcoma: a population-based case–control study. J Natl Cancer
+Inst 1990;82:486–90.
+(72) Lynge E. Cancer in phenoxy herbicide manufacturing workers in Den-
+mark, 1947–87—an update. Cancer Causes Control 1993;4:261–72.
+(73) Barquist E, Zinner M. Neoplasms of the small intestine, vermiform ap-
+pendix, and peritoneum. In: Bast RC, Kufe DW, Pollack RE, et al, editors.
+Cancer medicine. Hamilton (ON): B. C. Decker; 2000. p. 1465–71.
+(74) Schottenfeld D, Islam SS. Cancers of the small intestine. In: Schottenfeld
+D, Fraumeni JF Jr, editors. Cancer epidemiology and prevention. New
+York (NY): Oxford University Press; 1996. p. 806–12.
+(75) Ron E. Thyroid cancer. In: Schottenfeld D, Fraumeni JF Jr, editors.
+Cancer epidemiology and prevention. 2nd ed. New York (NY): Oxford
+University Press; 1996. p. 1000–21.
+(76) Mack WJ, Preston-Martin S, Bernstein L, Qian D, Xiang M. Reproductive
+and hormonal risk factors for thyroid cancer in Los Angeles County
+females. Cancer Epidemiol Biomarkers Prev 1999;8:991–7.
+(77) Sklar C, Whitton J, Mertens A, Stovall M, Green D, Marina N, et al.
+Abnormalities of the thyroid in survivors of Hodgkin’s disease: data from
+the Childhood Cancer Survivor Study. J Clin Endocrinol Metab 2000;85:
+3227–32.
+(78) Thompson DE, Mabuchi K, Ron E, Soda M, Tokunaga M, Ochikubo S,
+et al. Cancer incidence in atomic bomb survivors. Part II: Solid tumors,
+1958–1987. Radiat Res 1994;137(2 Suppl):S17–67.
+(79) Rossing MA, Schwartz SM, Weiss NS. Thyroid cancer incidence in Asian
+migrants to the United States and their descendants. Cancer Causes
+Control 1995;6:439–44.
+(80) Rossing MA, Cushing KL, Voigt LF, Wicklund KG, Daling JR. Risk of
+papillary thyroid cancer in women in relation to smoking and alcohol
+consumption. Epidemiology 2000;11:49–54.
+(81) Rossing MA, Voigt LF, Wicklund KG, Daling JR. Reproductive factors
+and risk of papillary thyroid cancer in women. Am J Epidemiol 2000;
+151:765–72.
+(82) Daling JR, Sherman KJ. Cancers of the vulva and vagina. In: Schottenfeld
+D, Fraumeni JF Jr, editors. Cancer epidemiology and prevention. 2nd ed.
+New York (NY): Oxford University Press; 1996. p. 1117–29.
+(83) Sturgeon SR, Brinton LA, Devesa SS, Kurman RJ. In situ and invasive
+vulvar cancer incidence trends (1973 to 1987). Am J Obstet Gynecol
+1992;166:1482–5.
+(84) Healy JC, Reznek RH. The peritoneum, mesenteries and omenta: normal
+anatomy and pathological processes. Eur Radiol 1998;8:886–900.
+(85) Hamrick-Turner JE, Chiechi MV, Abbitt PL, Ros PR. Neoplastic and
+inflammatory processes of the peritoneum, omentum, and mesentery:
+diagnosis with CT. Radiographics 1992;12:1051–68.
+(86) Weiss N, Cook LS, Farrow DC, Rosenblatt KA. Ovarian cancer. In:
+Schottenfeld D, Fraumeni JF Jr, editors. Cancer epidemiology and pre-
+vention. 2nd ed. New York (NY): Oxford University Press; 1996.
+p. 1040–57.
+(87) McGowan L, Norris HJ. The mistaken diagnosis of carcinoma of the
+ovary. Surg Gynecol Obstet 1991;173:211–5.
+(88) Scully RE, Salazar H. Problems in the histological typing of ovarian
+cancer. In: Stalsberg H, editor. An international survey of distributions
+of histologic types of tumours of the testis and ovary. Vol 75. Geneva
+(Switzerland); UICC Technical Report Series; 1983. p. 123–35.
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+SPECIAL ARTICLE 841
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+
+(89) Gitsch G, Tabery U, Feigl W, Breitenecker G. The differential diagnosis
+of primary peritoneal papillary tumors. Arch Gynecol Obstet 1992;251:
+139–44.
+(90) National Center for Health Statistics. Vital statistics of the United States,
+1994. Vol. II, Part A: Mortality, “Technical Appendix.” Hyattsville (MD):
+National Center for Health Statistics; 1994.
+(91) Rosenberg HM, Maurer JD, Sorlie PD, Johnson NJ, MacDorman MF,
+Hoyert DL, et al. Quality of death rates by race and Hispanic origin:
+a summary of current research, 1999. Hyattsville (MD): National Center
+for Health Statistics. Vital and Health Statistics, Series 2, No. 128. Sep-
+tember 1999.
+(92) Poe GS, Powell-Griner E, McLaughlin JK, Placek PJ, Thompson GB,
+Robinson K. Comparability of the death certificate and the 1986 National
+Mortality Followback Survey. Hyattsville (MD): National Center for
+Health Statistics. Vital Health Stat 1993;2:118.
+(93) Hogan, H. The 1990 post-enumeration survey: operations and results.
+J Am Stat Assoc 1993;88:1047–60.
+(94) Reducing tobacco use: a report of the Surgeon General. MMWR Recom-
+mendations and Reports December 22, 2000;49(RR16):1–27.
+(95) A clinical practice guideline for treating tobacco use and dependence:
+a U.S. Public Health Service Report. JAMA 2000;283:3244–54.
+(96) Doll R, Peto R. The causes of cancer: quantitative estimates of avoidable
+risks of cancer in the United States today. J Natl Cancer Inst 1981;66:
+1191–308.
+(97) Marks R. Melanoma prevention: is it possible to change a population’s
+behavior in the sun? Pigment Cell Res 1994;7:104–6.
+(98) Hsu HM, Lu CF, Lee SC, Lin SR, Chen DS. Seroepidemiologic survey
+for hepatitis B virus infection in Taiwan: the effect of hepatitis B mass
+immunization. J Infect Dis 1999;179:367–70.
+(99) Harpaz R, McMahon BJ, Margolis HS, Shapiro CN, Havron D, Carpenter
+G, et al. Elimination of new chronic hepatitis B virus infections: result of
+the Alaska immunization program. J Infect Dis 2000;181:413–8.
+(100) Chang MH, Chen CJ, Lai MS, Hsu HM, Wu TC, Kong MS, et al. Uni-
+versal hepatitis B vaccination in Taiwan and the incidence of hepatocel-
+lular carcinoma in children. Taiwan Childhood Hepatoma Study Group.
+N Engl J Med 1997;336:1855–9.
+(101) McMahon BJ, Bulkow L, Harpster A, Snowball M, Lanier A, Sacco F, et
+al. Screening for hepatocellular carcinoma in Alaska natives infected with
+chronic hepatitis B: a 16-year population-based study. Hepatology 2000;
+32:842–6.
+(102) Margolis HS, Coleman PJ, Brown RE, Mast EE, Shinengold SH,
+Arevalo JA. Prevention of hepatitis B virus transmission by vaccination.
+An economic analysis of current recommendations. JAMA 1995;274:
+1201–8.
+(103) Wong JB, McQuillan GM, McHutchison JG, Poynard T. Estimating
+future hepatitis C morbidity, mortality, and costs in the United States. Am
+J Public Health 2000;90:1562–9.
+(104) Saltz LB, Cox JV, Blanke C, Rosen LS, Fehrenbacher L, Moore MJ, et al.
+Irinotecan plus fluorouracil and leucovorin for metastatic colorectal
+cancer. Irinotecan Study Group. N Engl J Med 2000;343:905–14.
+(105) Swan J, Wingo PA, Clive R, West D, Miller D, Hutchison C, et al. Cancer
+surveillance in the U.S.: can we have a national system? Cancer 1998;
+83:1282–91.
+(106) Hankey BF, Ries LA, Edwards BK. The Surveillance, Epidemiology and
+End Results Program: a national resource. Cancer Epidemiol Biomarkers
+Prev 1999;8:1117–21.
+(107) Miller M, Swan J. SEER doubles coverage by adding registries for four
+states [news]. J Natl Cancer Inst 2001;93:500.
+NOTES
+1An annual percent change (APC) for 1992 through 1998 based on the join-
+point analysis over the interval 1973 through 1998 may differ from an APC for
+the selected interval of 1992 through 1998 in column 2 of Tables 1 and 2.
+We thank Danielle Harkins and Martin Krapcho, Information Management
+Services, Inc., Silver Spring, MD, for preparing the tables and graphs and Hal
+Margolis of the Centers for Disease Control and Prevention, Atlanta, GA, for
+assisting with the liver cancer strategies.
+Manuscript received January 31, 2001; revised April 25, 2001; accepted April
+26, 2001.
+842 SPECIAL ARTICLE
+Journal of the National Cancer Institute, Vol. 93, No. 11, June 6, 2001
+Downloaded from https://academic.oup.com/jnci/article/93/11/824/2906147 by Pusan National University Medical Library (INACTIVE) user on 09 August 2026
+

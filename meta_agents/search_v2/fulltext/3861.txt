@@ -1,0 +1,1161 @@
+record_id=3861 pmid= doi=10.1007/s10549-010-1173-8
+SOURCE: manual-pdf
+TITLE: Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry
+
+EPIDEMIOLOGY
+Asian ethnicity and breast cancer subtypes: a study
+from the California Cancer Registry
+Melinda L. Telli • Ellen T. Chang • Allison W. Kurian •
+Theresa H. M. Keegan • Laura A. McClure • Daphne Lichtensztajn •
+James M. Ford • Scarlett L. Gomez
+Received: 16 May 2010 / Accepted: 9 September 2010 / Published online: 19 October 2010
+ Springer Science+Business Media, LLC. 2010
+Abstract
+The distribution of breast cancer molecular
+subtypes has been shown to vary by race/ethnicity, high-
+lighting the importance of host factors in breast tumor
+biology. We undertook the current analysis to determine
+population-based distributions of breast cancer subtypes
+among six ethnic Asian groups in California. We deﬁned
+immunohistochemical (IHC) surrogates for each breast
+cancer subtype among Chinese, Japanese, Filipina, Korean,
+Vietnamese, and South Asian patients diagnosed with
+incident, primary, invasive breast cancer between 2002 and
+2007 in the California Cancer Registry as: hormone
+receptor-positive (HR?)/HER2- [estrogen receptor-posi-
+tive (ER?) and/or progesterone receptor-positive (PR?),
+human
+epidermal
+growth
+factor
+receptor
+2-negative
+(HER2-)], triple-negative (ER-, PR-, and HER2-), and
+HER2-positive (ER±, PR±, and HER2?). We calculated
+frequencies of breast cancer subtypes among Asian ethnic
+groups and evaluated their associations with clinical and
+demographic factors. Complete IHC data were available
+for 8,140 Asian women. Compared to non-Hispanic White
+women, Korean [odds ratio (OR) = 1.8, 95% conﬁdence
+interval (CI) = 1.5–2.2], Filipina (OR = 1.3, 95% CI =
+1.2–1.5), Vietnamese (OR = 1.3, 95% CI = 1.1–1.6), and
+Chinese (OR = 1.1, 95% CI = 1.0–1.3) women had a
+signiﬁcantly increased risk of being diagnosed with HER2-
+positive breast cancer subtypes after adjusting for age,
+stage, grade, socioeconomic status, histology, diagnosis
+year, nativity, and hospital ownership status. We report a
+signiﬁcant ethnic disparity in HER2-positive breast cancer
+in a large population-based cohort enriched for Asian-
+Americans. Given the poor prognosis and high treatment
+costs of HER2-positive breast cancer, our results have
+implications for healthcare resource utilization, cancer
+biology, and clinical care.
+Keywords
+Breast cancer subtypes  Asian  Ethnicity 
+HER2-positive breast cancer  Hormone receptor-positive
+breast cancer  Triple-negative breast cancer
+Introduction
+Breast
+tumor
+gene
+expression
+analyses
+using
+DNA
+microarrays have identiﬁed distinct breast cancer molecu-
+lar subtypes that differ markedly in prognosis [1, 2].
+Compared to the two hormone receptor-positive (HR?)
+subtypes (luminal A and luminal B), the human epidermal
+growth factor receptor 2 (HER2)-positive/estrogen receptor
+(ER)-negative and basal-like subtypes have been shown to
+have the least favorable outcomes [2–6]. Combinations of
+immunohistochemical (IHC) markers have been deﬁned
+and validated as clinically relevant surrogates for breast
+cancer subtyping by gene expression [3, 7–9]. Recent
+population-based studies using IHC data have observed an
+M. L. Telli (&)  A. W. Kurian  J. M. Ford
+Division of Medical Oncology, Department of Medicine,
+Stanford University School of Medicine, 875 Blake Wilbur
+Drive, Stanford, CA 94305, USA
+e-mail: mtelli@stanford.edu
+E. T. Chang  A. W. Kurian  T. H. M. Keegan  S. L. Gomez
+Department of Health Research and Policy, Stanford University
+School of Medicine, Stanford, CA, USA
+J. M. Ford
+Department of Genetics, Stanford University School
+of Medicine, Stanford, CA, USA
+E. T. Chang  T. H. M. Keegan  L. A. McClure 
+D. Lichtensztajn  S. L. Gomez
+Cancer Prevention Institute of California, Fremont, CA, USA
+123
+Breast Cancer Res Treat (2011) 127:471–478
+DOI 10.1007/s10549-010-1173-8
+
+increased
+frequency
+of
+basal-like
+or
+triple-negative
+(estrogen receptor (ER)-negative, progesterone receptor
+(PR)-negative, and HER2-negative) breast cancers among
+African [10] and African-American [3, 11, 12] women.
+These important observations suggest that intrinsic tumor
+biology varies by race/ethnicity and may be partially
+responsible for the poor breast cancer outcomes observed
+among African-American women in the United States.
+Asians comprise 57% of the world’s population, and
+breast cancer incidence is increasing rapidly among many
+Asian populations [13–20]. Among Asians in the U.S.,
+incidence and survival patterns vary considerably across
+ethnic populations [21, 22], and data from the Surveillance,
+Epidemiology, and End Results (SEER) cancer registry
+revealed Asian ethnic differences in hormone receptor
+positive versus negative breast cancer [23]. Breast cancer
+subtype distribution among ethnic groups of Asian women,
+however, has not been systematically evaluated. Recent
+studies observed an increased prevalence of HER2-positive
+breast cancer among Asian-Americans unselected for spe-
+ciﬁc Asian ethnicity [24, 25]. California is home to one of the
+largest Asian populations outside of Asia, making it a rich
+geographic region in which to study Asian ethnic differences
+in breast cancer subtypes. The California Cancer Registry
+(CCR) has been collecting data on HER2 status on all breast
+cancers diagnosed statewide since 1999, in addition to ER
+and PR data. Using this unique data resource, we evaluated
+differences in the distribution of breast cancer subtypes
+among the six largest Asian ethnic groups in California.
+Methods
+Study population
+The CCR is a population-based registry that collects data
+about all cancers diagnosed statewide since 1988. Case
+ascertainment is estimated to be 99% complete. For the
+current study, newly diagnosed cases of primary invasive
+breast cancer in women of all ages were identiﬁed from the
+CCR between January 1, 2002 and December 31, 2007.
+Race/ethnicity data in the CCR are based on hospital
+records, which are in turn based on self-report, assumption
+of hospital personnel, or inference using information such
+as birthplace, race/ethnicity of parent, maiden name, or
+surname [26]. Socioeconomic status (SES) in the CCR was
+determined using a composite residential neighborhood-
+level index that combines Census 2000 measures of edu-
+cation, income, occupation, and cost of living within
+Census block groups, as described previously [27]. This
+index was categorized into quintiles based on the state-
+wide distribution of neighborhood-level SES (1 = lowest
+and 5 = highest).
+To classify nativity for patients of Asian ethnicity, we
+used two sources of information about birthplace: (1)
+registry-based data, which were available for 5,558 (68%)
+cases; and (2) for those who had unknown birthplace
+(n = 2,582), statistical imputation of immigrant status
+using the ﬁrst ﬁve digits of the patient’s Social Security
+number (SSN), indicating the state and year of issuance
+[28, 29]. We classiﬁed cases who received their SSN
+before age 25 years as US-born, whereas those who had
+received their SSN at or after age 25 were classiﬁed as
+foreign-born. The age cut-point was set at 25 years based
+on self-reported nativity in previously interviewed cancer
+patients (N = 1,836) [30], and maximization of the area
+under the receiver-operating characteristic curve. This age
+cut-point resulted in immigrant status classiﬁcations asso-
+ciated with 84% sensitivity and 80% speciﬁcity for
+detecting foreign-born, and was similar across the Asian
+populations.
+American Joint Committee on Cancer (AJCC) stage was
+used to deﬁne disease stage as either I, II, III, IV, or un-
+staged [31]. Tumor grade was deﬁned as I, II, III, or other/
+unknown based on Bloom–Richardson criteria [32]. Tumor
+histology was recorded as ductal (International Classiﬁca-
+tion of Diseases—Oncology, 3rd edition (ICD-O-3) mor-
+phology code 8500), lobular (ICD-O-3 morphology code
+8520), or mixed/other (all remaining ICD-O-3 morphology
+codes). Hospital ownership status was recorded as private,
+public, or unknown based on data obtained from the Ofﬁce
+of Statewide Health Planning and Development [33].
+Breast cancer subtype deﬁnitions
+The CCR has mandated statewide collection of breast cancer
+ER and PR data since 1990 and HER2 status since 1999. In
+the CCR, ER, PR, and HER2 status are classiﬁed as positive,
+negative, borderline, not tested, not recorded, or unknown
+based on the laboratory results and pathologist’s interpreta-
+tion in the medical records. In general, ER and PR status are
+based on the results of conventional dextran-coated charcoal
+ER and PR assays or IHC (C5% nuclear staining = positive)
+[34]. HER2 status is recorded on the basis of IHC score (0,
+1? = negative, 2? = borderline, 3? = positive) or ﬂuo-
+rescence in situ hybridization (B2 copies of HER2 = neg-
+ative, [2 copies = positive) [35]. The validity of ER and PR
+classiﬁcation in two SEER registries (including Los Angeles
+County, California) was compared with classiﬁcation by a
+single expert pathology laboratory, and the agreement was
+found to be substantial (j = 0.70) for ER and moderate
+(j = 0.60) for PR [36].
+For this study, combinations of IHC markers were
+used as surrogates for molecular breast cancer subtype as
+follows: HR?/HER2- (ER? and/or PR?, HER2-),
+HER2? (HER2?, ER±, and PR±), and triple-negative
+472
+Breast Cancer Res Treat (2011) 127:471–478
+123
+
+(ER-, PR-, and HER2-). Female cases of ﬁrst, primary,
+invasive breast carcinoma were included if the status of all
+the three IHC markers (ER, PR, and HER2) was known.
+Cases in which any one marker was deﬁned as borderline,
+not tested, not recorded, or unknown were excluded.
+A total of 126,577 incident cases of invasive breast cancer
+were identiﬁed from the CCR between January 1, 2002 and
+December 31, 2007 among Asian, NH White, NH Black, and
+Hispanic women. A total of 89,009 (70% of sample) had
+complete and unequivocal data for all the three IHC markers.
+In this time period, 11,487 cases belonging to the six largest
+Asian groups were identiﬁed, and 8,140 (71% of sample) had
+complete IHC marker data. Borderline IHC results accoun-
+ted for 2% of the cases excluded. We used multivariate
+logistic regression models to identify associations with
+missing tumor marker data among Asians. Independent
+predictors of having missing data on at least one marker
+included race/ethnicity (P = 0.05), age (P = 0.0002),
+stage (P \ 0.0001), grade (P \ 0.0001), tumor histol-
+ogy (P = 0.001), SES (P \ 0.0001), year of diagnosis
+(P \ 0.0001), place of birth (P \ 0.0001), and hospital
+ownership status (P \ 0.0001).
+Statistical analysis
+All analyses were conducted using SAS version 9.1 soft-
+ware (SAS Institute Inc, Cary, NC, USA). We ﬁrst com-
+puted the frequencies of the three breast cancer subtypes
+(HR?/HER2-,
+HER2?,
+and
+triple-negative)
+among
+six Asian ethnic groups in the CCR (Japanese, Chinese,
+Filipina, Korean, Vietnamese, and South Asian). Women
+belonging to any other Asian or Paciﬁc Islander ethnic
+group were grouped together as ‘‘Other Asian.’’ Breast
+cancer subtype frequencies were also calculated in NH
+White, NH Black, and Hispanic reference populations.
+Univariate differences in subtype distribution by race/eth-
+nicity, age at diagnosis, stage at diagnosis, tumor grade,
+tumor histology, year of diagnosis, neighborhood SES,
+nativity, and public versus private hospital ownership were
+evaluated using the v2 test. Since genetic risk of breast
+cancer is associated with young age at diagnosis [37], an
+additional v2 test was performed to compare the frequency
+of breast cancer subtypes by race/ethnicity in two age
+groups (\40 vs. C40 years).
+We used multivariate logistic regression models to cal-
+culate odds ratios (ORs) for the association of either
+HER2? or triple-negative breast cancer, compared to
+HR?/HER2- breast cancer as the referent tumor subtype,
+for each Asian ethnic group, compared with NH Whites as
+the referent racial/ethnic group. ORs were adjusted for age
+at diagnosis, stage at diagnosis, tumor grade, neighborhood
+SES, year of diagnosis, nativity, and hospital ownership
+status.
+Results
+Subtype distribution by race/ethnicity
+Frequencies of breast cancer subtype by detailed racial/
+ethnic group among eligible cases are presented in Table 1.
+Of 89,009 analyzed cases, 58,555 (66%) belonged to the
+HR?/HER2- subtype, 18,524 (21%) to the HER2? sub-
+type, and 11,930 (13%) to the triple-negative subtype.
+Among Asians, Japanese women had the most favorable
+subtype distribution, with a relatively high frequency of the
+HR?/HER2- subtype and a low frequency of HER2? and
+triple-negative subtypes. Korean women, by comparison,
+had the least favorable subtype distribution with a rela-
+tively low frequency of the HR?/HER2- subtype and a
+high frequency of the HER2? subtype. In contrast to the
+19% frequency of HER2? breast cancer in NH Whites,
+Korean, Filipina, and Vietnamese women had increased
+frequencies of HER2? disease, 36% (95% CI 32–40%),
+31% (95% CI 29–32%), and 29% (95% CI 26–33%),
+respectively. NH Black women had a higher frequency of
+triple-negative breast cancer (26%, n = 1,385) when
+compared with NH White women (12%, n = 7,074). The
+distribution of subtypes in all the ethnic groups, except
+Japanese, was signiﬁcantly different from that among NH
+Whites at the P \ 0.0001 level.
+Subtype associations with clinical and demographic
+factors among Asian women
+The distribution of breast cancer subtypes varied signiﬁ-
+cantly among Asian women by age, stage at diagnosis,
+SES, tumor grade, year of diagnosis, histology, nativity,
+and hospital ownership status (Table 2). HR?/HER2-
+tumors were less common in younger age groups and had a
+lower stage distribution than HER2? and triple-negative
+subtypes. The majority of triple-negative tumors were of
+high grade. The frequency of HER2? breast cancer
+decreased and HR?/HER2- breast cancer increased with
+increasing SES. By contrast, the frequency of triple-nega-
+tive breast cancer remained fairly constant across all the
+SES groups. In this sample, 78% of Asian cases were
+foreign-born, and the majority (70%) received treatment
+from public hospitals. Foreign-born women had increased
+frequencies of HER2? breast cancer when compared to
+US-born women, though the frequency of triple-negative
+breast cancer was similar regardless of nativity.
+Subtype distribution by ethnicity and age at diagnosis
+The frequency of breast cancer subtype by Asian ethnic
+group was further stratiﬁed by age group at diagnosis (less
+than 40 years vs. greater than or equal to 40 years of age).
+Breast Cancer Res Treat (2011) 127:471–478
+473
+123
+
+Among Japanese women, HR?/HER2- was the most
+common subtype in both the younger and older age groups
+(57 and 71%, respectively). HER2? and triple-negative
+tumors were relatively more frequent among younger
+Japanese women, though these differences were not sta-
+tistically signiﬁcant. Young South Asian, Vietnamese, and
+Filipina women had the least favorable subtype distribu-
+tions, with a high frequency of HER2? breast cancer
+among young Filipina women (41%) and increased fre-
+quencies of triple-negative breast cancer among young
+Vietnamese (28%) and South Asian (23%) women. The
+highest frequency of triple-negative breast cancer was
+observed among
+younger
+NH Black
+women (36%),
+although relatively high frequencies were also observed
+among younger Hispanic women (27%), older NH Black
+women (25%), and younger NH White women (22%).
+Multivariate analyses
+In multivariate analyses, Korean women were 80% more
+likely than NH White women to be diagnosed with HER2?
+as opposed to HR?/HER2- breast cancer (Table 3).
+Similarly, Filipina, Vietnamese, and Chinese women were
+30, 30, and 10% more likely, respectively, than NH White
+women to be diagnosed with HER2? disease. Conversely,
+Filipina and Chinese women were 30 and 20% less likely,
+respectively, than NH White women to be diagnosed with
+triple-negative as opposed to HR?/HER2- breast cancer,
+whereas South Asian women were 30% more likely. NH
+Black women had double the rate of triple-negative breast
+cancer compared with NH White women, and Hispanic
+women had a 20% higher rate.
+Discussion
+Our study represents one of the most comprehensive pop-
+ulation-based analyses of breast cancer subtypes reported
+in the literature, with over 89,000 cases included. Fur-
+thermore, this is the ﬁrst study to evaluate breast cancer
+subtypes in a large and representative dataset enriched
+for Asian-Americans. Most importantly, we found a
+Table 1 Race/ethnicity of women in California diagnosed with incident, invasive breast cancer from 2002 to 2007 with immunohistochemical
+data for ER, PR, and HER2 (n = 89,009)*
+HR?/HER2-
+HER2?
+Triple-negative
+Total
+N
+(%)
+N
+(%)
+N
+(%)
+(95% CI)
+(95% CI)
+(95% CI)
+Japanese
+794
+(70%)
+221
+(19%)
+121
+(11%)
+1136
+(67–73%)
+(17–22%)
+(9–12%)
+Chinese
+1464
+(64%)
+591
+(26%)
+250
+(11%)
+2305
+(62–65%)
+(24–27%)
+(10–12%)
+Filipina
+1659
+(59%)
+859
+(31%)
+284
+(10%)
+2802
+(57–61%)
+(29–32%)
+(9–11%)
+Korean
+310
+(49%)
+226
+(36%)
+92
+(15%)
+628
+(45–53%)
+(32–40%)
+(12–17%)
+Vietnamese
+375
+(57%)
+194
+(29%)
+94
+(14%)
+663
+(53–60%)
+(26–33%)
+(12–17%)
+South Asian
+359
+(59%)
+140
+(23%)
+107
+(18%)
+606
+(55–63%)
+(20–26%)
+(15–21%)
+Other Asiana
+566
+(58%)
+281
+(29%)
+126
+(13%)
+973
+(55–61%)
+(26–32%)
+(11–15%)
+NH White
+42128
+(70%)
+11296
+(19%)
+7074
+(12%)
+60498
+(69–70%)
+(18–19%)
+(11–12%)
+NH Black
+2706
+(51%)
+1201
+(23%)
+1385
+(26%)
+5292
+(50–52%)
+(22–24%)
+(25–27%)
+Hispanic
+8194
+(58%)
+3515
+(25%)
+2397
+(17%)
+14106
+(57–59%)
+(24–26%)
+(16–18%)
+Total
+58555
+18524
+11930
+89009
+HR?/HER2- = ER? and/or PR?, HER2-; HER2? = ER±, PR±, and HER2?; Triple-negative = ER-, PR-, and HER2-
+* All groups, except Japanese, were signiﬁcantly different from NH Whites with respect to subtype distribution at the P \ 0.0001 level. All the
+P values were adjusted for multiple comparisons using the Bonferroni adjustment
+a Includes women of Asian Indian, Pakistani, Sri Lankan, and Bangladeshi ethnicity
+474
+Breast Cancer Res Treat (2011) 127:471–478
+123
+
+signiﬁcantly increased frequency of HER2-positive breast
+cancer among four of the largest ethnic groups of Asian-
+American women. Compared to NH White women, Korean,
+Filipina, Vietnamese, and Chinese women had a signiﬁcantly
+increased risk of being diagnosed with HER2-positive
+breast cancer. Triple-negative breast cancer, by contrast,
+was not more common among East Asian, compared to
+NH
+White,
+women
+in
+our
+study.
+Among
+Filipina
+women \40 years of age, HER2-positive breast cancer was
+especially common (41%).
+Like others, we observed a high proportion of breast
+cancer among young Asian women. In contrast to NH
+Whites, in whom 4% of all breast cancers developed in
+women less than age 40, breast cancer developed in 10% of
+Chinese, 7% of Filipina, 13% of Korean, 12% of Viet-
+namese, and 15% of South Asian women under the age of
+Table 2 Characteristics of
+Asian women in California
+diagnosed with incident,
+invasive breast cancer from
+2002 to 2007 with
+immunohistochemical data for
+ER, PR, and HER2 (n = 8,140)
+HR?/HER2- = ER? and/or
+PR?, HER2-;
+HER2? = ER±, PR±, and
+HER2?; Triple-
+negative = ER-, PR-, and
+HER2-
+a Neighborhood-level
+socioeconomic status
+(see ‘‘methods’’): 1st quintile
+represents those with the lowest
+SES and the 5th quintile
+represents those with the highest
+SES
+HR?/HER2-
+HER2?
+Triple-negative
+v2 P
+n = 4,961
+n = 2231
+n = 948
+Age at diagnosis, years (mean)
+57.3
+54.9
+55.2
+Age at diagnosis, grouped years
+0–39
+345 (52%)
+216 (32%)
+107 (16%)
+\0.0001
+40–49
+1272 (60%)
+607 (29%)
+238 (11%)
+50?
+3344 (62%)
+1408 (26%)
+603 (11%)
+AJCC stage at diagnosis
+I
+2404 (68%)
+809 (23%)
+324 (9%)
+\0.0001
+II
+1853 (58%)
+922 (29%)
+428 (13%)
+III
+450 (51%)
+310 (35%)
+120 (14%)
+IV
+137 (47%)
+112 (39%)
+41 (14%)
+Unknown
+117 (51%)
+78 (34%)
+35 (15%)
+SES quintilea
+1st
+316 (54%)
+200 (34%)
+66 (11%)
+\0.0001
+2nd
+640 (56%)
+356 (31%)
+139(12%)
+3rd
+946 (61%)
+427 (27%)
+184(12%)
+4th
+1310 (61%)
+591 (27%)
+251 (12%)
+5th
+1749 (64%)
+657 (24%)
+308 (11%)
+Grade
+I
+1162 (87%)
+142 (11%)
+34 (3%)
+\0.0001
+II
+2389 (72%)
+759 (23%)
+178 (5%)
+III
+1111 (38%)
+1140 (39%)
+662 (23%)
+Other/unknown
+299 (53%)
+190 (34%)
+74 (13%)
+Diagnosis year
+2002
+615 (59%)
+289 (28%)
+143 (14%)
+0.01
+2003
+674 (59%)
+316 (28%)
+157(14%)
+2004
+779 (61%)
+338 (26%)
+160(13%)
+2005
+804 (60%)
+387 (29%)
+152 (11%)
+2006
+962 (62%)
+434 (28%)
+159 (10%)
+2007
+1127 (64%)
+467 (26%)
+177 (10%)
+Histology
+Ductal
+3533 (58%)
+1840 (30%)
+744 (12%)
+Lobular
+289 (85%)
+39 (11%)
+13 (4%)
+\0.0001
+Mixed/other
+1139 (68%)
+352 (21%)
+191 (11%)
+Nativity
+US-born
+1182 (66%)
+405 (23%)
+193 (11%)
+Foreign-born
+3779 (59%)
+1826 (29%)
+755 (12%)
+\0.0001
+Hospital status
+Public
+3555 (62%) ‘
+1473 (26%)
+686 (12%)
+Private
+583 (57%)
+348 (34%)
+96 (9%)
+\0.0001
+Unknown
+823 (59%)
+410 (29%)
+166 (12%)
+Breast Cancer Res Treat (2011) 127:471–478
+475
+123
+
+40. Young age at breast cancer diagnosis is highly asso-
+ciated with genetic predisposition to breast cancer, but
+unlike the association between germline mutations in
+BRCA1 and triple-negative breast cancer [38–40], there is
+as yet no known familial gene mutation that confers
+increased risk of HER2-positive disease. Most BRCA-
+associated breast cancers do not demonstrate HER2 posi-
+tivity [41]. Presumably, similar to BRCA1 and basal-like
+breast cancer, ethnic speciﬁc genetic factors exist that
+inﬂuence the expression of the HER2-positive phenotype.
+Table 3 Associations between breast cancer subtype and Asian
+ethnicity, age at diagnosis, stage at diagnosis, grade, histology, SES,
+year of diagnosis, nativity, and hospital status as estimated by ORs
+with 95% conﬁdence intervals (CIs), among women in California
+diagnosed with incident, invasive breast cancer from 2002 to 2007
+HR?/HER2–
+HER2?
+Triple-negative
+OR
+OR
+95% CI
+OR
+95% CI
+Race/ethnicity
+Chinese vs. NH White
+1.0
+1.1
+1.0–1.3
+0.8
+0.7–1.0
+Filipina vs. NH White
+1.0
+1.3
+1.2–1.5
+0.7
+0.6–0.9
+Hispanic vs. NH White
+1.0
+1.1
+1.0–1.2
+1.2
+1.1–1.3
+Japanese vs. NH White
+1.0
+1.0
+0.8–1.2
+0.9
+0.7–1.1
+Korean vs. NH White
+1.0
+1.8
+1.5–2.2
+1.2
+0.9–1.6
+NH Black vs. NH White
+1.0
+1.2
+1.1–1.3
+2.0
+1.8–2.1
+South Asian vs. NH White
+1.0
+1.0
+0.8–1.3
+1.3
+1.0–1.7
+Vietnamese vs. NH White
+1.0
+1.3
+1.1–1.6
+1.0
+0.8–1.4
+Age at diagnosis
+0–39 years vs. 50? years
+1.0
+1.4
+1.3–1.6
+1.5
+1.3–1.6
+40–49 years vs. 50? years
+1.0
+1.2
+1.1–1.2
+1.0
+1.0–1.1
+Stage at diagnosis
+AJCC II vs. I
+1.0
+1.2
+1.2–1.3
+1.1
+1.1–1.2
+AJCC III vs. I
+1.0
+1.6
+1.5–1.7
+1.1
+1.0–1.2
+AJCC IV vs. I
+1.0
+1.8
+1.7–2.0
+1.0
+0.9–1.1
+AJCC unknown vs. I
+1.0
+1.6
+1.4–1.7
+1.2
+1.0–1.3
+Grade
+Grade II vs. grade I
+1.0
+2.3
+2.1–2.4
+3.2
+2.9–3.6
+Grade III vs. grade I
+1.0
+6.8
+6.4–7.2
+29.5
+26.4–33.0
+Grade other/unknown vs. grade I
+1.0
+4.5
+4.1–4.9
+14.4
+12.6–16.4
+Histology
+Lobular vs. ductal
+1.0
+0.4
+0.3–0.4
+0.2
+0.1–0.2
+Mixed/other vs. ductal
+1.0
+0.7
+0.6–0.7
+0.8
+0.7–0.8
+SES quintilea
+1 vs. 5
+1.0
+1.2
+1.1–1.3
+1.1
+1.0–1.2
+2 vs. 5
+1.0
+1.1
+1.1–1.2
+1.1
+1.0–1.2
+3 vs. 5
+1.0
+1.1
+1.0–1.2
+1.0
+1.0–1.1
+4 vs. 5
+1.0
+1.0
+1.0–1.1
+1.0
+1.0–1.1
+Year of diagnosis
+1.0
+1.0
+0.9–1.0
+1.0
+1.0–1.0
+Nativity
+US-born vs. foreign-born
+1.0
+0.9
+0.9–1.0
+1.1
+1.0–1.2
+Nativity unknown vs. foreign-born
+1.0
+0.8
+0.8–0.9
+0.9
+0.8–1.0
+Hospital status
+Public vs. private
+1.0
+0.8
+0.7–0.8
+1.0
+0.9–1.1
+Unknown vs. private
+1.0
+0.8
+0.8–0.9
+1.1
+1.0–1.2
+HR?/HER2- = ER? and/or PR?, HER2-; HER2? = ER±, PR±, and HER2?; Triple-negative = ER-, PR-, and HER2-
+a Neighborhood-level socioeconomic status (see methods): 1st quintile represents those with the lowest SES and the 5th quintile represents those
+with the highest SES
+476
+Breast Cancer Res Treat (2011) 127:471–478
+123
+
+Our results suggest that further studies are warranted to
+explore a potential genetic basis for the increased fre-
+quency of HER2-positive breast cancer among certain
+ethnic groups of Asian women.
+Asians comprise 57% of the world’s population, and
+thus, our results have particular relevance to the challenges
+of breast cancer treatment globally [13, 14]. Breast cancer
+incidence is on the rise in many countries in Asia, as well
+as among Asian-Americans [15–20]. Breast cancer occurs
+at a younger age in Asia, and the postmenopausal rise in
+breast cancer incidence observed in Western populations is
+not seen in most Asian populations [14, 20, 42]. Classic
+studies of Japanese and Chinese migrants to the United
+States, however, highlight the importance of lifestyle fac-
+tors by demonstrating that breast cancer risk rises over
+several generations nearly approaching that of U.S. Whites
+[43]. It is unclear the degree to which the subtype distri-
+bution observed in our study population will change over
+time with increased acculturation to a Western lifestyle and
+a higher percentage of U.S.-born Asian-Americans. None-
+theless, our results have important implications for current
+resource utilizationand clinical care both in the United States
+and in Asia. HER2-positive breast cancer has an aggressive
+clinical course with poorer breast cancer-speciﬁc survival
+than most other breast cancer subtypes [2, 6]. Combination
+chemotherapy and a year of trastuzumab therapy represent
+the current standard treatment for this disease, even in
+patients with early stage disease [44]. As a result, the costs
+associated with the treatment of HER2-positive breast cancer
+are much higher than those for other breast cancer subtypes
+[45]. These high costs of treatment are likely to place a
+ﬁnancial burden on the public healthcare system in Califor-
+nia that provides care for many Asian-Americans in the state,
+in addition to the healthcare systems of countries of limited
+resources providing cancer care in Asia.
+Although our study is strengthened by the large size and
+population-based setting of the CCR, it also has limitations
+inherent to registry-based data. The CCR does not collect
+patient-level data on SES or other environmental or life-
+style factors. Although we adjusted for neighborhood SES,
+which is correlated with individual SES [46], these mea-
+sures capture different types of exposures and, therefore,
+may have distinct, independent associations with breast
+cancer subtypes. Though HER2 data collection was man-
+dated starting in January 1999, uptake was not immediate.
+As a result, we observed increased absence of HER2 data
+in earlier diagnosis years with improvements thereafter.
+Since we could not adjudicate borderline tumor marker test
+results and there was no centralized pathology review, we
+were unable to assign a subtype to borderline IHC results
+(2% of cases excluded), and therefore chose to exclude
+those cases from the current analysis. Despite these short-
+comings, our results for African-Americans and NH Whites
+were consistent with those from prior studies [3, 12], and
+clinical features such as stage and grade distribution were as
+expected according to breast cancer subtype, suggesting that
+our results are valid and generalizable. Our data source is
+unique not only in recording HER2 status for a decade, but
+also in covering a population in which large numbers of
+Asian women well characterized by ethnicity are repre-
+sented. Compared to previous studies of breast cancer sub-
+type by ethnicity [3, 12]; our study includes far greater case
+numbers and thereby lends increased stability and conﬁ-
+dence to our results.
+In conclusion, we report a signiﬁcant ethnic disparity in
+HER2-positive breast cancer among Asian women in a
+large,
+population-based
+cancer
+registry.
+Speciﬁcally,
+HER2-positive breast cancer is overrepresented among
+Korean, Filipina, Vietnamese, and Chinese women when
+compared to NH White women in California. These results
+have clinical and healthcare resource utilization implica-
+tions, given the poor prognosis of HER2-positive breast
+cancer and the high costs associated with the treatment of
+this breast cancer subtype. Future studies to explore the
+basis for this disparity are warranted and may identify
+genetic, lifestyle, and environmental risk factors responsi-
+ble for the differences we observed, with implications for
+prevention and treatment.
+Funding acknowledgments
+This study was supported by grants
+from the National Cancer Institute of the National Institutes of Health
+(N01-PC-35136 and N02-PC-15105), and Centers for Disease Control
+and Prevention, National Program of Cancer Registries (U55/
+CCR921930-02).
+Conﬂict of interest
+All authors report no ﬁnancial conﬂicts of
+interest related to this study. The authors have full control of the
+primary data and agree to allow Breast Cancer Research and Treat-
+ment to review that data if requested.
+References
+1. Perou CM, Sorlie T, Eisen MB et al (2000) Molecular portraits of
+human breast tumours. Nature 406:747–752
+2. Sorlie T, Tibshirani R, Parker J et al (2003) Repeated observation
+of breast tumor subtypes in independent gene expression data
+sets. Proc Natl Acad Sci U S A 100:8418–8423
+3. Carey LA, Perou CM, Livasy CA et al (2006) Race, breast cancer
+subtypes, and survival in the Carolina Breast Cancer Study.
+JAMA 295:2492–2502
+4. Dent R, Trudeau M, Pritchard KI et al (2007) Triple-negative
+breast cancer: clinical features and patterns of recurrence. Clin
+Cancer Res 13:4429–4434
+5. Rakha EA, El-Rehim DA, Paish C et al (2006) Basal phenotype
+identiﬁes a poor prognostic subgroup of breast cancer of clinical
+importance. Eur J Cancer 42:3149–3156
+6. Slamon DJ, Clark GM, Wong SG et al (1987) Human breast
+cancer: correlation of relapse and survival with ampliﬁcation of
+the HER-2/neu oncogene. Science 235:177–182
+7. Cheang MC, Voduc D, Bajdik C et al (2008) Basal-like
+breast
+cancer
+deﬁned
+by
+ﬁve
+biomarkers
+has
+superior
+Breast Cancer Res Treat (2011) 127:471–478
+477
+123
+
+prognostic value than triple-negative phenotype. Clin Cancer
+Res 14:1368–1376
+8. Nielsen TO, Hsu FD, Jensen K et al (2004) Immunohistochemical
+and clinical characterization of the basal-like subtype of invasive
+breast carcinoma. Clin Cancer Res 10:5367–5374
+9. Tischkowitz M, Brunet JS, Begin LR et al (2007) Use of
+immunohistochemical markers can reﬁne prognosis in triple
+negative breast cancer. BMC Cancer 7:134
+10. Huo D, Ikpatt F, Khramtsov A et al (2009) Population differences
+in breast cancer: survey in indigenous African women reveals
+over-representation of triple-negative breast cancer. J Clin Oncol
+27:4515–4521
+11. Bauer KR, Brown M, Cress RD et al (2007) Descriptive analysis
+of estrogen receptor (ER)-negative, progesterone receptor (PR)-
+negative,
+and
+HER2-negative
+invasive
+breast
+cancer,
+the
+so-called triple-negative phenotype: a population-based study
+from the California Cancer Registry. Cancer 109:1721–1728
+12. Lund MJ, Trivers KF, Porter PL et al (2009) Race and triple
+negative threats to breast cancer survival: a population-based
+study in Atlanta, GA. Breast Cancer Res Treat 113:357–370
+13. Liede A, Narod SA (2002) Hereditary breast and ovarian cancer
+in Asia: genetic epidemiology of BRCA1 and BRCA2. Hum
+Mutat 20:413–424
+14. Yip CH (2009) Breast cancer in Asia. Methods Mol Biol
+471:51–64
+15. Seow A, Duffy SW, McGee MA et al (1996) Breast cancer in
+Singapore: trends in incidence 1968–1992. Int J Epidemiol
+25:40–45
+16. Keegan TH, Gomez SL, Clarke CA et al (2007) Recent trends in
+breast cancer incidence among 6 Asian groups in the Greater Bay
+Area of Northern California. Int J Cancer 120:1324–1329
+17. Yang L, Parkin DM, Ferlay J et al (2005) Estimates of cancer
+incidence in China for 2000, projections for 2005. Cancer Epi-
+demiol Biomarkers Prev 14:243–250
+18. Yang L, Parkin DM, Li L et al (2003) Time trends in cancer
+mortality in China: 1987–1999. Int J Cancer 106:771–783
+19. Yang L, Parkin DM, Li LD et al (2004) Estimation and projection
+of the national proﬁle of cancer mortality in China: 1991–2005.
+Br J Cancer 90:2157–2166
+20. Son BH, Kwak BS, Kim JK et al (2006) Changing patterns in the
+clinical characteristics of Korean patients with breast cancer
+during the last 15 years. Arch Surg 141:155–160
+21. Miller BA, Chu KC, Hankey BF et al (2008) Cancer incidence
+and mortality patterns among speciﬁc Asian and Paciﬁc Islander
+populations in the U.S. Cancer Causes Control 19:227–256
+22. Li CI, Malone KE, Daling JR (2003) Differences in breast cancer
+stage, treatment, and survival by race and ethnicity. Arch Intern
+Med 163:49–56
+23. Li CI, Malone KE, Daling JR (2002) Differences in breast cancer
+hormone receptor status and histology by race and ethnicity
+among women 50 years of age and older. Cancer Epidemiol
+Biomarkers Prev 11:601–607
+24. Kwan ML, Kushi LH, Weltzien E et al (2009) Epidemiology of
+breast cancer subtypes in two prospective cohort studies of breast
+cancer survivors. Breast Cancer Res 11:R31
+25. Parise CA, Bauer KR, Brown MM et al (2009) Breast cancer
+subtypes as deﬁned by the estrogen receptor (ER), progesterone
+receptor (PR), and the human epidermal growth factor receptor 2
+(HER2) among women with invasive breast cancer in California,
+1999–2004. Breast J 15(6):593–602 (E pub 9/22/2009)
+26. Gomez SL, Le GM, West DW et al (2003) Hospital policy and
+practice regarding the collection of data on race, ethnicity, and
+birthplace. Am J Public Health 93:1685–1688
+27. Yost K, Perkins C, Cohen R et al (2001) Socioeconomic status
+and breast cancer incidence in California for different race/ethnic
+groups. Cancer Causes Control 12:703–711
+28. Block G, Matanoski GM, Seltser RS (1983) A method for esti-
+mating year of birth using social security number. Am J Epi-
+demiol 118:377–395
+29. Shimizu H, Ross RK, Bernstein L et al (1991) Cancers of the
+prostate and breast among Japanese and white immigrants in Los
+Angeles County. Br J Cancer 63:963–966
+30. Gomez SL, Glaser SL, Kelsey JL et al (2004) Bias in completeness
+of birthplace data for Asian groups in a population-based cancer
+registry (United States). Cancer Causes Control 15:243–253
+31. California Cancer Reporting System Standards, Vol. 1, Cancer
+Reporting in California Abstracting and Coding Procedures for Hos-
+pitals, Eighth Edition, Revised May, 2008: V.7.5 AJCC Stage Group.
+http://www.ccrcal.org/Vol_1_May_2008_html/Vol_1_08.htm
+32. California Cancer Reporting System Standards, Vol. 1, Cancer
+Reporting in California Abstracting and Coding Procedures for
+Hospitals, Eighth Edition, Revised May, 2008: V.3.5.8 Bloom-
+Richardson Grade for Breast Cancer. http://www.ccrcal.org/
+Vol_1_May_2008_html/Vol_1_08.htm
+33. Ofﬁce of Statewide Health Planning and Development (OSHPD)
+Annual Utilization Report of Hospitals (2001). http://www.
+oshpd.cahwnet.gov
+34. California Cancer Reporting System Standards, Vol. 1, Cancer
+Reporting in California Abstracting and Coding Procedures for
+Hospitals, Eighth Edition, Revised May, 2008. http://www.ccrcal.
+org/Vol_1_May_2008_html/Vol_1_08.htm
+35. California Cancer Reporting System Standards, Vol. 1, Cancer
+Reporting in California Abstracting and Coding Procedures for
+Hospitals, Eighth Edition, Revised May, 2008: V.6.4 Tumor
+Marker California-1. http://www.ccrcal.org/Vol_1_May_2008_
+html/Vol_1_08.htm
+36. Ma H, Wang Y, Sullivan-Halley J et al (2009) Breast cancer
+receptor status: do results from a centralized pathology laboratory
+agree with SEER registry reports? Cancer Epidemiol Biomarkers
+Prev 18:2214–2220
+37. Daly MB, Axilbund JE, Bryant E, et al (2010) NCCN clinical
+practice
+guidelines
+in
+oncology.
+Genetic/familial
+high-risk
+assessment: breast and ovarian, v. 1. 2010, p 18. Available at http://
+www.nccn.org
+38. Foulkes WD, Stefansson IM, Chappuis PO et al (2003) Germline
+BRCA1 mutations and a basal epithelial phenotype in breast
+cancer. J Natl Cancer Inst 95:1482–1485
+39. Lakhani SR, Van De Vijver MJ, Jacquemier J et al (2002) The
+pathology of familial breast cancer: predictive value of immu-
+nohistochemical markers estrogen receptor, progesterone recep-
+tor, HER-2, and p53 in patients with mutations in BRCA1 and
+BRCA2. J Clin Oncol 20:2310–2318
+40. Olopade OI, Grushko T (2001) Gene-expression proﬁles in
+hereditary breast cancer. N Engl J Med 344:2028–2029
+41. Grushko TA, Blackwood MA, Schumm PL et al (2002) Molec-
+ular-cytogenetic analysis of HER-2/neu gene in BRCA1-associ-
+ated breast cancers. Cancer Res 62:1481–1488
+42. Han W, Kim SW, Park IA et al (2004) Young age: an indepen-
+dent risk factor for disease-free survival in women with operable
+breast cancer. BMC Cancer 4:82
+43. Ziegler RG, Hoover RN, Pike MC et al (1993) Migration patterns
+and breast cancer risk in Asian-American women. J Natl Cancer
+Inst 85:1819–1827
+44. Carlson RW, Allred DC, Anderson BO et al (2009) NCCN
+clinical practice guideline: breast cancer. J Natl Compr Canc
+Netw 7:122–192
+45. Kurian AW, Thompson RN, Gaw AF et al (2007) A cost-effec-
+tiveness analysis of adjuvant trastuzumab regimens in early
+HER2/neu-positive breast cancer. J Clin Oncol 25:634–641
+46. Krieger N (1992) Overcoming the absence of socioeconomic data
+in medical records: validation and application of a census-based
+methodology. Am J Public Health 82:703–710
+478
+Breast Cancer Res Treat (2011) 127:471–478
+123
+

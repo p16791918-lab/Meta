@@ -1,0 +1,1191 @@
+record_id=955 pmid=19067192 doi=10.1007/s10552-008-9275-x
+SOURCE: manual-pdf
+TITLE: Cancer among Asian Indians/Pakistanis living in the United States: Low incidence and generally above average survival
+
+ORIGINAL PAPER
+Cancer among Asian Indians/Pakistanis living in the United
+States: low incidence and generally above average survival
+William B. Goggins Æ Grace Wong
+Received: 1 August 2007 / Accepted: 19 November 2008 / Published online: 6 December 2008
+ Springer Science+Business Media B.V. 2008
+Abstract
+Background
+South Asian immigrants living in the United
+Kingdom and Canada have been found to have lower rates
+of cancers of all types compared with the native born
+population and most other immigrant groups. Cancer
+among Asian Indian/Pakistani people in the United States
+has been studied very little.
+Methods
+Incidence rates for all cancers combined and
+site-speciﬁc rates for major cancers were estimated for
+Asian Indians/Pakistani population using incidence data
+from the U.S. National Cancer Institutes SEER database
+and population data from the U.S. Census Bureau. Site-
+speciﬁc survival was compared for major cancer sites
+between Asian Indians/Pakistanis and Caucasians using
+Cox proportional hazards models.
+Results
+Cancer rates for Asian Indian/Pakistani males and
+females were considerably lower than for White Americans
+with standardized incidence ratios (SIRs) of 0.46 (95%
+CI = 0.44, 0.48), and 0.55 (95% CI = 0.53, 0.58) respec-
+tively. Site-speciﬁc rates were lower for both genders for
+most sites with particularly low rates observed for lung,
+colorectal, female breast, and prostate cancer. Among
+common cancers sites, survival was generally better among
+Asian Indians/Pakistanis than Caucasians with the notable
+exception of breast cancer for which Caucasians had slightly
+better survival.
+Conclusions
+The ﬁnding that Asian Indians/Pakistanis in
+the United States have relatively low incidence rates for
+most major cancers is consistent with studies from other
+countries. Whether the low incidence of cancer and above
+average cancer survival for this group is related to their
+well-above average socioeconomic status or cultural and
+behavioral factors is a topic for further research.
+Keywords
+SEER  Ethnic  Race  South Asian 
+Inequality
+Introduction
+Considerable ethnic variation in the incidence and survival
+rates for many types of cancers have been reported from
+the United States and other countries. One group whose
+cancer experience has been little studied in the United
+States are Asian Indians, a mostly afﬂuent, and well-edu-
+cated group whose numbers have been rapidly increasing
+in recent years.
+Previous studies have shown that cancer rates for South
+Asians are generally lower than those of the non-South
+Asian population of that country but higher than those of the
+Indian subcontinent. A study using data from the California
+cancer registry found that South Asians, of whom about 90%
+were Asian Indians, had lower cancer incidence than non-
+Hispanic whites for most sites, but higher incidence than
+Whites for liver cancer for both genders, and stomach,
+esophageal, and cervical cancer for females [1]. A registry-
+based study from the United Kingdom [2] found that South
+Asians had substantially lower incidence rates for most
+major cancers than non-South Asians. A Canadian study [3]
+found that cancer mortality rates among South Asians were
+lower than those of both White and Chinese Canadians. Data
+W. B. Goggins (&)  G. Wong
+School of Public Health, Chinese University
+of Hong Kong, Room 501, Shatin, Hong Kong
+e-mail: wgoggins@cuhk.edu.hk
+W. B. Goggins
+Nethersole School of Nursing, Chinese University
+of Hong Kong, Shatin, Hong Kong
+123
+Cancer Causes Control (2009) 20:635–643
+DOI 10.1007/s10552-008-9275-x
+
+from Singapore indicate that Indians there recently have
+lower cancer incidence than either Chinese or Malays [4],
+whereas incidence rates for Indians in Malaysia are
+lower than those for Chinese but higher than those for
+Malays [5].
+A study of female breast cancer survival using U.S.
+cancer registry data found that Asian Indian/Pakistani
+women had non-signiﬁcantly worse overall survival than
+non-Hispanic Whites after adjustment for demographic
+variables only, but that they had non-signiﬁcantly better
+survival after additional adjustment for disease character-
+istics [6]. Two studies from the United Kingdom [7, 8]
+have found that South Asian women, and another found
+that they had about the same survival rate [9]. A study of
+colorectal cancer survival using U.S. cancer registry data
+found that Asian Indians/Pakistanis had signiﬁcantly better
+survival compared with Whites [10].
+In this article, we present ﬁndings on cancer incidence
+and survival on this group using data from the U.S.
+National Cancer Institute’s (NCI) Surveillance Epidemi-
+ology and End Results (SEER) program. Because Asian
+Indians and Pakistanis are included as one category in
+the SEER data these groups are analyzed together.
+However, as about 94% of the Asian Indian/Pakistani
+population of the relevant SEER areas is Asian Indian,
+the inferences drawn from this study mostly apply to this
+group.
+Methods
+Incidence
+Incidence rates for cancers for Asian Indians/Pakistanis
+were estimated using data from the seven SEER registries
+with the largest populations for these groups: the state of
+Connecticut, and the cities of San Francisco, San Jose, Los
+Angeles, Detroit, Seattle, and Atlanta. The gender- and
+age-speciﬁc counts of malignant neoplasms during 1988 to
+2004 were obtained using SEER’s SEERStat 6.3.5 pro-
+gram. The number of person-years was estimated using
+data from the U.S. Census bureau. First, the Asian Indian
+and Pakistani populations for the relevant SEER areas were
+obtained for 1990–2000, and then linear interpolation was
+used to estimate the number of person-years. This method
+assumes that the population change for the period from
+1988 to 2004 was constant, and the yearly rate of popula-
+tion change was equal to the difference between the 2000
+and 1990 populations divided by 10. Gender- and age-
+speciﬁc rates for cancer overall and for common sites were
+then calculated as cases divided by person-years. Age-
+standardized rates (ASR) were estimated using the world
+standard population, and standardized incidence ratios
+(SIRs) comparing the rates for South Asians against rates
+for Whites were then calculated in the standard fashion
+using the standard method [11]. Conﬁdence intervals (CIs)
+for the SIRs were calculated using the ‘‘errors-in-vari-
+ables’’ approach [12] because the reference rates and
+person-years used were not exact. The reference rates for
+Whites were calculated using data from the same six reg-
+istries only. ASRs for the Indian registries in Bombay and
+Madras were obtained from the IARC’s Cancer Mondial
+Statistical Information System [13].
+Survival
+Data from all the 17 SEER registries were used for the
+survival comparisons. Analysis was restricted to 1988–2004
+because Asian Indians/Pakistanis were classiﬁed as ‘‘Other
+Asians’’ before 1988. Site-speciﬁc survival was analyzed for
+cancers of the colon, rectum, stomach, esophagus, pancreas,
+liver, lung and bronchus, prostate, female breast, ovaries,
+brain, and non-Hodgkin’s lymphoma (NHL). Cox propor-
+tional hazards models were used to estimate relative risks
+(RRs) and their 95% CIs for all-cause and cause-speciﬁc
+mortality for each of the above sites after adjusting for
+relevant confounders. For the cause-speciﬁc mortality
+analyses only deaths from cancer of the site being analyzed
+were the considered events, and subjects were considered
+censored at time of death if they had died of other causes.
+Relative risks were estimated for South Asians and Chinese
+with non-Hispanic Whites serving as the reference group.
+Results for Chinese, another recent immigrant group with an
+above-average SES proﬁle, were included for comparison
+purposes. The proportional hazards assumption was veriﬁed
+by visual examination of Kaplan–Meier survival plots. The
+correct functional form for continuous covariates, age and
+year of diagnosis, was determined by examining scatterplots
+of Martingale residuals from Cox models ﬁt omitting the
+relevant covariate vs. that covariate [14]. Two models were
+ﬁt for each type of mortality, one adjusting only for demo-
+graphic factors including age (using linear and quadratic
+terms), gender, year of diagnosis, and registry (through
+stratiﬁcation). For solid tumors, the other models addition-
+ally adjusted for disease characteristics include, SEER
+historic stage (local, regional, distant, or unstaged), tumor
+size (categorized into quartiles), grade (I, II, III, IV, or no
+grade), and histology. For histology, separate categories
+were created for more common histologies (more than 5% of
+cases) with other types being grouped together as ‘‘others’’.
+Models for NHL survival were adjusted for SEER extent of
+disease, grade, and histology. All disease variables were
+controlled for using stratiﬁcation in order to avoid any
+problems due to non-proportional hazards. Analyses were
+restricted to malignant cases. All tests were two-tailed and
+p-values \ 0.05 were considered statistically signiﬁcant.
+636
+Cancer Causes Control (2009) 20:635–643
+123
+
+Results
+Incidence
+Age-standardized
+incidence
+rates
+(ASR)
+for
+Asian
+Indians/Pakistanis, SIRs comparing their incidence rates
+to those of Whites living in the same geographical areas,
+and rates from the Madras and Bombay Indian registries
+are shown in Table 1. Overall cancer incidence was
+around 50% lower in Asian Indians/Pakistanis than in the
+White population, but higher than those observed for
+the Indian registries. Particularly low rates (relative to the
+U.S. White population) were observed for smoking-rela-
+ted sites, including lung and bronchus (SIRs = 0.29 for
+males and =0.20 for females), larynx, and urinary bladder.
+Substantial but non-signiﬁcant excess risk (compared with
+U.S. whites) was observed only for esophageal cancer in
+females and gum and other mouth cancer for males.
+Compared to the Indian registry rates large increased risks
+were noted for colorectal and prostate cancer, whereas
+large decreases are found for stomach and oral cavity
+cancers.
+Survival
+Relative risks, 95% CIs and p-values for the four types of
+models by site are given in Table 2. Results by site are
+discussed below.
+Table 1 Age-standardized rates (world) for Asian Indian/Pakistani for the SEER registries of San Francisco, Seattle, Detroit, Atlanta,
+Connecticut, Los Angeles, and San Jose 1988–2004, SIRs relative to U.S. Whites, ASRs (world) for Bombay and Madras, India 1993–1997
+Cancer
+Asian Indian/Pakistani age-
+standardized rate World (n)
+SIR (95% CI) Asian Indian/Pakistani
+relative to U.S. White population
+India, Madras
+1993–1997 ASR
+(World Standard)
+India, Bombay
+1993–1997 ASR
+(World Standard)
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+All sites
+184.88 (2,550)
+166.25 (2,466)
+0.46 (0.44, 0.48)
+0.55 (0.53, 0.58)
+106.4
+116.6
+117.4
+124.7
+Oral cavity and pharynx
+6.73 (108)
+3.48 (51)
+0.59 (0.46, 0.75)
+0.74 (0.51, 1.09)
+21.9
+10.4
+22.8
+10.3
+Tongue
+2.14 (32)
+0.87 (14)
+0.65 (0.41, 1.04)
+0.82 (0.37, 1.76)
+Gum and other mouth
+1.81 (33)
+1.14 (15)
+1.46 (0.83, 2.61)
+1.06 (0.48, 2.35)
+Esophagus
+2.88 (34)
+2.41 (28)
+0.50 (0.32, 0.77)
+1.77 (0.92, 3.52)
+Stomach
+5.76 (77)
+3.29 (45)
+0.77 (0.56, 1.04)
+1.03 (0.67, 1.60)
+13.6
+6.7
+6.5
+3.4
+Colon and rectum
+16.07 (238)
+12.65 (173)
+0.45 (0.39, 0.53)
+0.49 (0.41, 0.59)
+5.0
+4.1
+6.8
+5.7
+Liver
+4.43 (58)
+1.96 (23)
+0.91 (0.63, 1.32)
+1.26 (0.65, 2.48)
+2.8
+1.1
+4.0
+2.0
+Pancreas
+4.77 (60)
+2.32 (29)
+0.57 (0.41, 0.79)
+0.40 (0.25, 0.62)
+1.9
+0.8
+2.5
+1.9
+Larynx
+1.88 (24)
+0.67 (7)
+0.33 (0.20, 0.53)
+0.46 (0.16, 1.19)
+4.7
+0.5
+7.2
+1.2
+Lung and bronchus
+15.50 (202)
+6.77 (89)
+0.29 (0.25, 0.34)
+0.20 (0.15, 0.25)
+11.1
+2.3
+12.3
+3.9
+Soft tissue
+2.39 (40)
+1.63 (24)
+0.83 (0.53, 1.29)
+0.75 (0.42, 1.30)
+Breast
+0.52 (9)
+59.52 (923)
+0.83 (0.30, 2.20)
+0.61 (0.56, 0.66)
+23.7
+30.3
+Cervix uteri
+NA
+3.60 (56)
+NA
+0.36 (0.26, 0.49)
+30.1
+17.5
+Corpus uteri
+NA
+10.57 (146)
+NA
+0.57 (0.46, 0.69)
+2.5
+2.9
+Ovary
+NA
+9.00 (141)
+NA
+0.86 (0.68, 1.08)
+5.6
+8.5
+Prostate
+63.72 (752)
+NA
+0.54 (0.49, 0.59)
+NA
+4.9
+7.8
+Urinary bladder
+9.19 (116)
+3.01 (38)
+0.36 (0.29, 0.45)
+0.47 (0.31, 0.70)
+2.7
+1.0
+4.8
+1.4
+Kidney/renal pelvis
+5.08 (75)
+2.44 (35)
+0.44 (0.33, 0.58)
+0.45 (0.29, 0.67)
+1.2
+0.8
+2.2
+1.2
+Brain
+4.16 (76)
+4.16 (64)
+0.62 (0.46, 0.83)
+0.84 (0.59, 1.18)
+3.0
+1.7
+3.5
+2.4
+Thyroid
+2.24 (46)
+6.20 (127)
+0.69 (0.46, 1.01)
+0.69 (0.55, 0.87)
+1.1
+1.6
+0.8
+2.0
+Hodgkin’s lymphoma
+1.66 (38)
+1.63 (29)
+0.49 (0.32, 0.73)
+0.51 (0.31, 0.81)
+1.3
+0.5
+0.9
+0.5
+Non-Hodgkin’s lymphoma
+9.60 (160)
+7.84 (123)
+0.50 (0.41, 0.61)
+0.76 (0.60, 0.97)
+3.4
+2.2
+4.6
+3.3
+Myeloma
+3.96 (48)
+2.61 (32)
+0.84 (0.56, 1.25)
+0.95 (0.57, 1.58)
+Leukemia
+9.75 (156)
+6.03 (91)
+0.84 (0.67, 1.04)
+0.83 (0.62, 1.11)
+3.9
+2.7
+4.6
+3.6
+Lymphocytic leukemia
+4.85 (79)
+2.61 (38)
+0.81 (0.60, 1.10)
+0.72 (0.46, 1.12)
+Acute lymphocytic leukemia 2.41 (45)
+1.65 (25)
+1.13 (0.72, 1.78)
+0.91 (0.51, 1.63)
+Acute myeloid leukemia
+2.93 (42)
+2.39 (36)
+0.87 (0.56, 1.34)
+1.07 (0.65, 1.76)
+Chronic myeloid leukemia
+1.19 (24)
+0.61 (11)
+0.94 (0.52, 1.71)
+0.80 (0.33, 1.90)
+Cancer Causes Control (2009) 20:635–643
+637
+123
+
+Table 2 Relative risks (RR) and 95% CI from Cox proportional hazards models: SEER 1988–2004
+Site
+n
+Cause-speciﬁc
+demographic
+Cause-speciﬁc demographic ?
+disease
+All-cause demographic
+All-cause demographic ?
+disease
+RR (95% CI)
+p
+RR (95% CI)
+p
+RR (95% CI)
+p
+RR (95% CI)
+p
+Lung
+Asian Indian/Pakistani Chinese
+454
+.84 (.74, .95)
+.006
+.81 (.71, .92)
+.001
+.89 (.79, .99)
+.038
+.85 (.76, .95)
+.005
+4,783
+.91 (.88, .94)
+\.0001
+.85 (.82, .88)
+\.0001
+.90 (.88, .93)
+\.0001
+.85 (.82, .88)
+\.0001
+Colon
+Asian Indian/Pakistani Chinese
+379
+.63 (.49, .82)
+.0004
+.68 (.53, .88)
+.003
+.69 (.57, .84)
+.0002
+.72 (.59, .88)
+.001
+3,850
+.90 (.85, .96)
+.0007
+.92 (.86, .98)
+.006
+.85 (.81, .89)
+\.0001
+.86 (.82, .90)
+\.0001
+Rectal
+Asian Indian/Pakistani Chinese
+214
+.69 (.49, .97)
+.032
+.85 (.60, 1.20)
+.37
+.85 (.66, 1.10)
+.21
+.97 (.74, 1.27)
+.97
+1,665
+.94 (.86, 1.03)
+.17
+.98 (.89, 1.08)
+.68
+.87 (.81, .94)
+.0003
+.90 (.84, .97)
+.006
+Stomach
+Asian Indian/Pakistani Chinese
+194
+.82 (.64, 1.04)
+.093
+.81 (.64, 1.04)
+.10
+.77 (.64, .93)
+.007
+.76 (.62, .92)
+.006
+1,701
+.92 (.86, .98)
+.015
+.98 (.91, 1.05)
+.62
+.75 (.71, .80)
+\.0001
+.81 (.76, .86)
+\.0001
+Esophagus
+Asian Indian/Pakistani Chinese
+106
+.65 (.49, .86)
+.003
+.64 (.47, .88)
+.005
+.65 (.51, .83)
+.0007
+.68 (.52, .89)
+.006
+380
+1.00 (.88, 1.14)
+.99
+.86 (.74, 1.00)
+.047
+.93 (.82, 1.04)
+.19
+.80 (.70, .92)
+.002
+Pancreas
+Asian Indian/Pakistani Chinese
+132
+.79 (.63, 1.00)
+.045
+.90 (.70, 1.16)
+.42
+.86 (.70, 1.05)
+.14
+.97 (.78, 1.22)
+.82
+791
+.95 (.87, 1.03)
+.18
+.97 (.89, 1.06)
+.51
+.96 (.89, 1.03)
+.26
+.98 (.90, 1.06)
+.60
+Brain
+Asian Indian/Pakistani Chinese
+191
+.84 (.67, 1.05)
+.12
+.86 (.68, 1.10)
+.22
+.91 (.74, 1.11)
+.34
+.94 (.76, 1.15)
+.54
+358
+.76 (.66, .89)
+.0005
+.74 (.63, .87)
+.0002
+.83 (.73, .95)
+.006
+.81 (.70, .93)
+.003
+Liver
+Asian Indian/Pakistani Chinese
+108
+.87 (.64, 1.18)
+.36
+.89 (.67, 1.17)
+.39
+.84 (.66, 1.07)
+.15
+.83 (.64, 1.08)
+.17
+1,321
+.84 (.78, .92)
+\.0001
+.83 (.77, .89)
+\.0001
+.77 (.72, .82)
+\.0001
+.79 (.73, .85)
+\.0001
+Female breast
+Asian Indian/Pakistani Chinese
+1,412
+1.16 (.98, 1.37)
+.08
+.85 (.72, 1.02)
+.076
+1.20 (1.05, 1.37)
+.007
+.97 (.85, 1.12)
+.97
+5,482
+.97 (.89, 1.05)
+.40
+.93 (.85, 1.01)
+.09
+.84 (.79, .89)
+\.0001
+.80 (.75, .85)
+\.0001
+Ovarian
+Asian Indian/Pakistani Chinese
+210
+1.16 (.91, 1.47)
+.22
+1.11 (.86, 1.43)
+.41
+1.24 (1.00, 1.52)
+.046
+1.19 (.95, 1.48)
+.13
+732
+.84 (.74, .95)
+.006
+.94 (.82, 1.08)
+.37
+.85 (.76, .95)
+.005
+.95 (.84, 1.07)
+.41
+Prostate
+Asian Indian/Pakistani Chinese
+1,207
+1.22 (.95, 1.57)
+.11
+1.00 (.78, 1.28)
+.99
+.90 (.77, 1.04)
+.15
+.84 (.72, .98)
+.029
+4,557
+.80 (.71, .89)
+\.0001
+.63 (.56, .70)
+\.0001
+.76 (.72, .81)
+\.0001
+.70 (.66, .711)
+\.0001
+NHL
+Asian Indian/Pakistani Chinese
+416
+1.06 (.86, 1.32)
+.57
+1.11 (.89, 1.37)
+.37
+.87 (.73, 1.03)
+.11
+.89 (.75, 1.07)
+.21
+1,652
+1.17 (1.07, 1.28)
+.0006
+1.22 (1.12, 1.34)
+\.0001
+.93 (.86, .99)
+.033
+.94 (.87, 1.01)
+.079
+Demographic variables: age, age2, gender, year of diagnosis, registry
+Disease variables: SEER historic stage, tumor grade, histology, tumor size; Except for NHL: tumor grade, histology, extent of disease
+638
+Cancer Causes Control (2009) 20:635–643
+123
+
+Lung and bronchus
+Asian Indians/Pakistanis were signiﬁcantly more likely
+than Whites to have adenocarcinomas (46.0 vs. 35.4%)
+which had more favorable prognoses. They were also sig-
+niﬁcantly more likely to have grade I and II, and less likely
+to have grade III and IV tumors. They were non-signiﬁ-
+cantly more likely to have stage IV disease, and there was
+no signiﬁcant difference in tumor size. Asian Indians/
+Pakistanis had modestly but signiﬁcantly better survival
+than Whites in all models. They did slightly better than
+Chinese in cause-speciﬁc models and about the same in all-
+cause models.
+Colon
+Compared with Whites Asian Indians/Pakistanis were
+signiﬁcantly more likely to have adenomas (46.8 vs.
+33.7%). They were non-signiﬁcantly more likely to have
+larger tumors, and the grade and stage distributions were
+very similar. Asian Indians/Pakistanis had signiﬁcantly
+better survival than Whites in all models with RRs ranging
+from .63 to 72 in the various models, with a larger
+advantage for cause-speciﬁc mortality. Adjustment for
+disease characteristics only slightly attenuated the observed
+advantage. Chinese also had signiﬁcantly better survival
+than Whites but their advantage was less than Asian Indi-
+ans/Pakistanis, especially for cause-speciﬁc survival.
+Rectum
+Compared with whites Asian Indians/Pakistanis were
+signiﬁcantly more likely to have adenomas (50.5 vs. 36.4%),
+and they had a more favorable stage distribution, 49.1 vs.
+43.8% stage 1, and 10.7 vs. 15.1% stage 4, but the difference
+was not signiﬁcant (p = .17). Size and grade distributions
+were similar. Asian Indians/Pakistanis had signiﬁcantly
+better cause-speciﬁc survival but after adjustment for dis-
+ease characteristics the difference was attenuated to non-
+signiﬁcance. Their all-cause mortality was non-signiﬁcantly
+better than Whites, but there was almost no difference
+observed after adjustment for diseases traits. Chinese
+enjoyed modest advantages in all-cause mortality but their
+cause-speciﬁc mortality was similar to Whites.
+Stomach
+There were no differences in the distributions of stage,
+histology, grade, or tumor size between Asian Indians/
+Pakistanis and Whites. All-cause survival was signiﬁcantly
+better for Asian Indians/Pakistanis, while their cause-
+speciﬁc survival was non-signiﬁcantly better. Adjustment
+for disease characteristics resulted in little change in the
+RRs. Compared with Whites, Chinese also had signiﬁ-
+cantly better all-cause survival which was similar to that
+for Asian Indians/Pakistanis, but had only a slight advan-
+tage in cause-speciﬁc survival.
+Esophagus
+Compared with Whites, Asian Indians/Pakistanis were
+signiﬁcantly more likely to have squamous cell neoplasms,
+which had a somewhat less favorable prognosis, and less
+likely to have adenocarcinomas. Their proﬁle in terms of
+other tumor characteristics was mixed as they were more
+likely to have regional stage disease and grade II tumors,
+but less likely to have stage I or stage IV disease and grade
+I or grade III/IV tumors. Asian Indians/Pakistanis had
+signiﬁcantly and substantially better survival than Whites
+with RRs below 0.68 in all the models. Chinese had better
+survival than Whites only after adjusting for disease
+severity variables.
+Pancreas
+Asian Indians/Pakistanis were signiﬁcantly less likely to be
+diagnosed with distant stage tumors (45.4 vs. 55.7% for
+Whites). There was little difference between the groups in
+other disease severity variables. Asian Indians/Pakistanis
+had marginally signiﬁcantly better cause-speciﬁc survival
+but this was attenuated to non-signiﬁcance after adjustment
+for disease severity. They also had modest and non-
+signiﬁcant improved all-cause survival which was also
+attenuated after adjustment for disease characteristics.
+There was little difference between Chinese and Whites in
+any of the models.
+Liver
+Asian Indians/Pakistanis were slightly and non-signiﬁ-
+cantly more likely to be diagnosed with stage II disease and
+less likely with stage IV disease. They were also non-
+signiﬁcantly more likely to have grade I or III tumor
+and less likely to have grade II or IV tumor. There was
+little difference between the groups in tumor size or his-
+tology. Asian Indians/Pakistanis showed a modest and non-
+signiﬁcant survival advantage relative to Whites. Survival
+for Chinese was only slightly better than Asian Indians/
+Pakistanis in all models and was signiﬁcantly better than
+White survival (mostly due to larger sample size).
+Female breast
+Asian Indians/Pakistanis were signiﬁcantly more likely to
+be diagnosed with stage II (38.6 vs. 29.9% for whites) and
+stage IV (6.4 vs. 5.4%) tumors (p for trend \ .0001). They
+Cancer Causes Control (2009) 20:635–643
+639
+123
+
+were also signiﬁcantly more likely to have grade III and
+less likely to have grade I tumors and signiﬁcantly more
+likely to have larger tumors. There was little difference in
+histology and more than 90% of both groups had ductal and
+lobular neoplasms. When adjusting for demographic vari-
+able only Asian Indians/Pakistanis had signiﬁcantly worse
+all-cause survival and non-signiﬁcantly (p = .080) worse
+cause-speciﬁc survival. After additional adjustment for
+disease characteristics Asian Indians/Pakistanis had non-
+signiﬁcantly (p = .076) better survival, and all-cause sur-
+vival similar to Whites. Chinese women showed a
+substantial all-cause survival advantage, but had cause-
+speciﬁc survival similar to Whites.
+Ovarian
+Asian Indians/Pakistanis were slightly and non-signiﬁcantly
+less likely than Whites to have stage II or IV tumors. They
+were signiﬁcantly more likely to have larger tumors
+(p = .008). Histology and grade distributions were similar
+for the two groups. Compared with Whites, Asian Indians/
+Pakistanis had signiﬁcantly worse all-cause survival after
+adjustment for demographic factors, and non-signiﬁcantly
+worse all-cause survival. Adjusting for disease characteris-
+tics attenuated the all-cause results to non-signiﬁcance.
+Chinese had signiﬁcantly better survival in both models
+adjusting for demographic factors but this was attenuated to
+non-signiﬁcance after adjustment for disease-related factors.
+Prostate
+Asian Indians/Pakistanis were less likely than Whites to
+have grade 1 tumor (3.4 vs. 7.4%) and more likely to have
+grade 2 tumor (66.6 vs. 63.5%) (p \ .0001). They were
+also more likely to have larger tumors although tumor size
+was missing for most observations. There was no differ-
+ence in percentage with stage IV disease. Asian Indians/
+Pakistanis had a modest and non-signiﬁcant (p = .11)
+increase in cause-speciﬁc mortality relative to Whites
+which disappeared (RR = 1.00) after adjustment for dis-
+ease characteristics. They also had non-signiﬁcantly better
+all-cause survival which became signiﬁcant after adjust-
+ment for disease variables. Chinese had substantially and
+signiﬁcantly better survival in all the models.
+Brain
+Asian Indians/Pakistanis were less likely than Whites to
+have glioblastomas (42.4 vs. 49.8%) which have the least
+favorable prognosis. There was little difference between the
+groups in grade or size distribution. The survival advantage
+for Asian Indians/Pakistanis was modest and non-signiﬁcant
+and was slightly greater for cause-speciﬁc mortality.
+Chinese showed a greater and signiﬁcant survival relative to
+Whites for all the models.
+Non-Hodgkin’s lymphoma
+Asian Indians/Pakistanis were more likely than Whites to
+have mature t- and nk-cell lymphomas (13.8 vs. 7.2%),
+which had more favorable prognoses, and less likely to have
+mature b-cell lymphomas or malignant lymphomas, NOS or
+diffuse, both of which had less favorable prognoses. They
+were also more likely to have extranodal NHL, which also
+had more favorable prognoses. There were no signiﬁcant
+differences in grade or extension of disease. Asian Indians/
+Pakistanis had slightly and non-signiﬁcantly worse cause-
+speciﬁc survival and slightly and non-signiﬁcantly better all-
+cause survival compared with Whites, which showed little
+changes after adjustment for disease factors. Chinese had
+modestly and signiﬁcantly worse cause-speciﬁc survival,
+and slightly better all-cause survival.
+Discussion
+Our study found that Asian Indians/Pakistanis in the U.S.
+SEER areas had substantially lower incidence rates for
+cancers of most sites, with particularly low incidences (SIRs
+less that 0.50 compared to Whites) for cancers of the lung,
+larynx, colorectum, urinary bladder, and kidney and renal
+pelvis in males; lung, colorectum, pancreas, larynx, cervix,
+bladder, and kidney and renal pelvis in females. Substantial
+excesses were observed only for gum and other mouth
+cancer in males, and esophageal cancer in females. In both
+cases, these excesses were statistically signiﬁcant if CIs for
+the SIRs were calculated using standard methods but not
+signiﬁcant if the ‘‘errors-in-variables’’ approach was used.
+In addition, South Asians had generally better survival than
+Whites for most sites, and the differences were signiﬁcant
+for lung, colon, and esophageal cancer in all models, and
+rectal and pancreatic cancer in some models. In general,
+survival for Asian Indians/Pakistanis relative to other groups
+was better for cancers of the digestive system, and worse for
+gender speciﬁc cancers, whereas Chinese generally did
+better for the gender-speciﬁc cancers. Also Chinese tended
+to do relatively better for all-cause survival than for cause-
+speciﬁc survival, whereas no such pattern was noted for
+Asian Indians/Pakistanis. Relatively poor breast cancer
+survival for Asian Indian/Pakistani females appears to result
+from their tendency to present with more advanced disease.
+A study of breast cancer screening practices in Asian-
+Americans found that only 5% of Asian Indian women
+practiced monthly breast self-examination, as compared
+with 23 and 51% of Chinese and Filipino women respec-
+tively [13]. Surveys from the United States have also
+640
+Cancer Causes Control (2009) 20:635–643
+123
+
+reported Asian Indian women were less likely to have had a
+mammogram within the preceding two years [15] and more
+likely to report never having had another mammogram than
+Whites or other Asian-American groups [16].
+Our incidence results are generally consistent with a
+study using data from the California cancer registry [1],
+and indeed there is overlap between the studies because
+both would have included cases during San Francisco
+during 1988 to 2000, and San Jose and Los Angeles during
+1991 to 2000. Our incidence rates are generally lower than
+theirs, particularly for women, but our male oral cavity and
+lung cancer rates were higher than theirs. Also in contrast
+with their study, we did not ﬁnd a substantially higher liver
+cancer rate for Asian Indians/Pakistanis relative to the
+White population from the same geographical areas. The
+differences between the studies could result from geo-
+graphical
+differences
+between
+Asian
+Indian/Pakistani
+populations in different parts of the United States and from
+temporal differences as our study included more recent
+data during 2001 to 2004. A study from the United King-
+dom [2] also found signiﬁcantly lower rates for south
+Asians overall, and for several important sites including the
+lung, colon, rectum, and female breast. Their study also
+found, as did ours that while south Asian males had lower
+esophageal cancer rates, south Asian females had higher
+rates than non-south Asians. The overall magnitude of the
+reduced risk for south Asians relative to non-South Asians
+from their study was generally lower than for our study.
+Differences are not surprising as the South Asian popula-
+tion of the United Kingdom differs from that of the United
+States in terms of national origin, with a larger percentage
+coming from Pakistan and Bangladesh [17], and SES, since
+the Pakistani and Bangladeshi segments of the South Asian
+population in the United Kingdom tend to be relatively
+poor [17].
+One contributing factor to lower cancer incidence in
+Asian Indians/Pakistanis is undoubtedly lower smoking
+prevalence, especially for females. A survey conducted
+during 1999 to 2001 in the United States found that 20 and
+3% of Asian Indian adult males and females smoked
+compared to 29 and 26% for White males and females
+respectively [18]. The differences in smoking prevalence
+are considerably stronger for females than for males and
+this is reﬂected in the lower SIR for lung cancer for Asian
+Indian females (0.20) than for males (0.29). However, for
+other smoking-related cancers such as bladder, stomach,
+and particularly esophageal cancers the SIRs for Asian
+Indian females are higher than those for males. This may
+be due to the fact that smoking is a considerably more
+dominant risk factor for lung cancer than for these other
+cancers [19] and thus other lifestyle or genetic factors may
+have a stronger inﬂuence on gender and ethnic differences
+in the incidence of these other cancers. The lower smoking
+prevalence among Asian Indians may also be a contribut-
+ing factor to their generally better cancer survival as
+smoking may worsen the prognosis for certain cancers
+[20, 21] as well as increasing incidence. Dietary factors are
+also likely important. Diets on the Indian subcontinent
+generally consist of a greater quantity and variety of veg-
+etables and lower meat consumption [22, 23]. Curcumin,
+an ingredient used in curry powders on the Indian sub-
+continent, has been shown to protect against carcinogenesis
+and metastasis in a number of animal tumor models [24]
+Whether or not the amount of curcumin found in turmeric
+or curry powders is enough to have an impact on cancer
+risk is not known [25]. Another likely contributing factor to
+their lower cancer incidence is the lower prevalence of
+obesity, a risk factor for several cancers, in the U.S. Asian
+Indian population. A study using data from the U.S.
+National Health Interview Survey during 1997 to 2000
+found that the prevalence of obesity among Asian Indians
+was 6.2 vs. 19.2% for non-Hispanic whites [26]. Given
+their higher average SES they may also have less exposure
+to occupational risk factors for cancer.
+Asians or Asian/Paciﬁc Islanders are often treated as a
+single group in epidemiological research in the United
+States despite the fact that they are a diverse group in terms
+of culture, length of stay in the United States, and socio-
+economic status. Inclusion of Asian Indians and Pakistanis
+in this group seems even less appropriate as they are
+genetically more similar to Caucasians than to East Asians
+[27]. According to U.S. Census data Asian Indians are the
+wealthiest major ethnic group in the country, with a median
+household income in 1999 of US$63,669 per year, as
+against $44,687 for Whites, $51,444 for Chinese, $60,370
+for Filipinos, and $47,241 for Pakistanis [28]. The extent,
+to which their apparent survival advantage for many can-
+cers can be attributed to better treatment, cannot be
+determined from this study, but the advantage does not
+generally appear to be due to earlier diagnosis or more
+favorable tumor characteristics.
+Most Asian Indians and Pakistanis in the United States
+are recent immigrants. According to the 2000 U.S. Census
+data about only about 9% of Asian Indians and 6% of
+Pakistanis over the age of 18 were born in the U.S. [29].
+These data also show that the majority of adults in both
+groups immigrated after 1985 [29], thus that the extent of
+acculturation to the United States is likely to be quite low.
+The patterns of cancer incidence for these groups may
+begin to more closely resemble those of the general U.S.
+population as they become more acculturated over time.
+Our study does have some limitations. The SEER data
+lumps Asian Indians and Pakistanis into one category so
+there is no way to draw separate inferences for these groups
+which are culturally very different. According to 2000
+census data, Asian Indians made up about 94% of the Asian
+Cancer Causes Control (2009) 20:635–643
+641
+123
+
+Indian/Pakistani population in the SEER areas used for
+incidence and for survival so our inferences primarily apply
+to this group [30]; but there is no way of knowing how
+different the groups are from each other in terms of cancer
+incidence and survival. Other ‘‘South Asian’’ groups
+including Bangladeshis and Sri Lankans are classiﬁed as
+‘‘other Asian’’ by SEER. The SEER registries used for the
+incidence analysis cover about 19% of the Asian Indian
+population and 12% of the Pakistani population of the
+United States, while those used for the survival analyses
+covered 37 and 28% of these populations [30]. As always,
+there is also the possibility of racial misclassiﬁcation
+because race was abstracted from medical records, and some
+Asian Indians and Pakistanis strongly resemble Europeans
+physically. We feel that any bias resulting from this should
+be non-differential. Despite these limitations, we feel that
+the strengths of this study, including its population-based
+nature, use of a geographically diverse cohort, and the large
+sample size make the study ﬁndings accurate and relevant.
+In conclusion, our review of the U.S. SEER data has
+found that Asian Indians/Pakistanis living in the United
+States have a low incidence of most major cancers com-
+pared to U.S. Whites but a higher incidence than what is
+found in India. We have also found that they generally
+have better survival rates following cancer diagnosis, par-
+ticularly for cancers of the digestive system, and that this
+improved survival does not appear to result from more
+favorable disease characteristics at diagnosis. Further
+research is necessary to identify dietary and lifestyle fac-
+tors, other than smoking, responsible for the low cancer
+incidence in this group, and to determine whether their
+better-than-average cancer survival is explained by their
+high relative SES and possibly better treatment options.
+Acknowledgments
+The authors would like to thank the reviewer
+whose comments greatly improved the quality of the manuscript.
+References
+1. Jain RV, Mills PL, Parikh-Patel A (2005) Cancer incidence in the
+south Asian population of California 1988–2000. J Carcinog
+4:21. doi:10.1186/1477-3163-4-21
+2. Winter H, Cheng KK, Cummins C, Maric R, Silcocks P,
+Varghese C (1999) Cancer incidence in the south Asian popula-
+tion of the U.K. (1990–1992). Br J Cancer 79:645–654. doi:
+10.1038/sj.bjc.6690102
+3. Sheth T, Nair C, Nargundkar M, Anand S, Yusuf S (1999) Car-
+diovascular and cancer mortality among Canadians of European,
+south Asian and Chinese origin from 1979 to 1993: an analysis of
+1.2 million deaths. CMAJ 161:132–138
+4. Singapore Cancer Registry report No. 6: Trends in cancer
+incidence in Singapore: 1968–2002. www.hpb.gov.sg/data/hpb.
+home/ﬁles/edu/Report_1968_2002.pdf. Accessed 5 July, 2007
+5. The second report of the National Cancer Registry: Cancer
+Incidence in Malaysia. www.crc.gov.my/publications/documents/
+Report/NCR2ndReport.pdf. Accessed 5 July, 2007
+6. Li CI, Malone KE, Daling JR (2003) Differences in breast cancer
+stage, treatment, and survival by race and ethnicity. Arch Intern
+Med 163:49–56. doi:10.1001/archinte.163.1.49
+7. Farooq S, Coleman MP (2005) Breast cancer survival in South
+Asian women in England and Wales. J Epidemiol Community
+Health 59:402–406. doi:10.1136/jech.2004.030965
+8. Dos Santos Silva I, Mangtani P, De Stavola BL, Bell J, Quinn M,
+Mayer D (2003) Survival from breast cancer among South Asian
+and non-South Asian women resident in South East England. Br J
+Cancer 89(3):508–512. doi:10.1038/sj.bjc.6601097
+9. Velikova G, Booth L, Johnston C, Forman D, Selby P (2004)
+Breast cancer outcomes in South Asian population of West
+Yorkshire. Br J Cancer 90(10):1926–1932. doi:10.1038/sj.bjc.66
+01795
+10. Chien C, Morimoto LM, Tom J, Li CI (2005) Differences in
+colorectal carcinoma stage and survival by race and ethnicity.
+Cancer 104(3):629–639. doi:10.1002/cncr.21204
+11. Breslow NE, Day NE (1987) Statistical Methods in Cancer
+Research: Volume II—the design and analysis of cohort studies.
+IARC Scientiﬁc Publications No. 82
+12. Silcocks P (1994) Estimating conﬁdence limits on a standardised
+mortality ratio when the expected number is not error free.
+J Epidemiol Community Health 48:313–317
+13. Parkin DM, Whelan SL, Ferlay J, Storm H (2005) Cancer inci-
+dence in ﬁve continents, vol I to VIII. IARC CancerBase No. 7,
+Lyon
+14. Therneau TM, Grambsch PM, Fleming TR (1990) Martingale-
+based residuals for survival models. Biometrika 77:147–169. doi:
+10.1093/biomet/77.1.147
+15. Wu TY, West B, Chen YW, Hergert C (2006) Health beliefs and
+practices related to breast cancer screening in Filipino, Chinese
+and Asian-Indian women. Cancer Detect Prev 30:58–66. doi:
+10.1016/j.cdp.2005.06.013
+16. Kagawa-Singer M, Pourat N (2000) Asian American and Paciﬁc
+Islander breast and cervical carcinoma screening rates and Healthy
+People
+2000
+objectives.
+Cancer
+89:696–705.
+doi:10.1002/
+1097-0142(20000801)89:3\696::AID-CNCR27[3.0.CO;2-7
+17. Pierre Cuneo, Ethnic minorities economic performance: Survey-
+ing literature to emphasise facts, analysis and likely patterns for
+the future. April 2001 U.K. Cabinet Ofﬁce Performance and
+Innovation Unit. www.cabinetofﬁce.gov.uk/strategy/downloads/
+ﬁles/ethnic.pdf. Accessed 2 July, 2007
+18. CDC (2004) Prevalence of cigarette use among 14 racial/ethnic
+populations—United States 1999–2001. MMWR, Morb Mortal
+Wkly Rep 53(03):49–52
+19. Siemiatycki J, Krewski D, Franco E, Kaiserman M (1995)
+Associations between cigarette smoking and each of 21 types of
+cancer: a multi-site case-control study. Int J Epidemiol 24(3):
+504–514. doi:10.1093/ije/24.3.504
+20. Bryant A, Cerfolio RJ (2007) Differences in epidemiology, his-
+tology, and survival between cigarette smokers and never-
+smokers
+who
+develop
+non-small
+cell
+lung
+cancer.
+Chest
+132(1):185–192. doi:10.1378/chest.07-0442
+21. Sundelof M, Lagergren J, Ye W (2008) Patient demographics and
+lifestyle factors inﬂuencing long-term survival of oesophageal
+cancer and gastric cardiac cancer in a nationwide study in
+Sweden. Eur J Cancer 44(11):1566–1571. doi:10.1016/j.ejca.2008.
+04.002
+22. Jonnalagadda SS, Diwan S, Cohen DL (2005) U.S. Food Guide
+Pyramid food group intake by Asian Indian immigrants in the
+U.S. J Nutr Health Aging 9(4):226–231
+23. Dos Santos Silva I, Mangtani P, McCormack V, Bhakta D,
+McMichael AJ, Sevak L (2004) Phyto-estrogen intake and breast
+cancer risk in South Asian women in England: ﬁndings from a
+population-based case-control study. Cancer Causes Control
+15:805–818. doi:10.1023/B:CACO.0000043431.85706.d8
+642
+Cancer Causes Control (2009) 20:635–643
+123
+
+24. Surh YJ, Chun KS (2007) Cancer chemopreventive effects of
+curcumin. Adv Exp Med Biol 595:149–172. doi:10.1007/978-0-
+387-46401-5_5
+25. Tayyem RF, Heath DD, Al-Delaimy WK, Rock CL (2006)
+Curcumin content of tumeric and curry powders. Nutr Cancer
+55(2):126–131. doi:10.1207/s15327914nc5502_2
+26. Mohanty SA, Woolhandler S, Himmelstein DU, Bor DH (2005)
+Diabetes and cardiovascular disease among Asian Indians in the
+United States. J Gen Intern Med 20(5):474–478. doi:10.1111/j.
+1525-1497.2005.40294.x
+27. Cavalli-Sforza LL (2000) Genes people and languages. Univer-
+sity of California Press, California
+28. U.S. Census Bureau’s American Factﬁnder Fact sheets for race,
+ethnic or ancestry group. http://factﬁnder.census.gov/servlet/SAFFF
+actsCharIteration?_submenuId=factsheet_2&_sse=on. Accessed 3
+July, 2007
+29. U.S. CensusBureau’sAmericanFactﬁnderCensusSummaryFile 4.
+http://factﬁnder.census.gov/servlet/DTGeoSearchByListServlet?
+ds_name=DEC_2000_SF4_U&_lang=en&_ts=243817643062.
+Accessed 31 Oct, 2008
+30. U.S. Census Bureau’s American Factﬁnder Census Summary File 4.
+http://factﬁnder.census.gov/servlet/DTGeoSearchByListServlet?
+ds_name=DEC_2000_SF4_U&_lang=en&_ts=201676568406.
+Accessed 3 July, 2007
+Cancer Causes Control (2009) 20:635–643
+643
+123
+

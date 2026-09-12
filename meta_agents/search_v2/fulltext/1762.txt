@@ -1,0 +1,237 @@
+record_id=1762 pmid=39094298 doi=10.1016/j.canep.2024.102632
+SOURCE: manual-pdf
+TITLE: Early-onset cancer incidence in the United States by race/ethnicity between 2011 and 2020
+
+Early-onset cancer incidence in the United States by race/ethnicity between
+2011 and 2020
+Anjali Gupta a,b, Tomi Akinyemiju a,c,*
+a Department of Population Health Sciences, Duke University School of Medicine, Durham, NC, USA
+b Stanford University School of Medicine, Stanford, CA, USA
+c Duke Cancer Institute, Duke University School of Medicine, Durham, NC, USA
+A R T I C L E I N F O
+Keywords:
+Early onset
+Disparities
+Cancer incidence
+A B S T R A C T
+We characterized trends in early onset (aged 20–49) cancer incidence by race/ethnicity and sex using the
+2011–2020 Surveillance, Epidemiology, and End Results (SEER) Program dataset. We estimated age-
+standardized cancer incidence rates, incidence rate ratios (IRR), and annual percentage changes (APC) with
+95 % confidence intervals (CI). During the time period examined, cancer incidence increased for female breast
+(APC: 0.64; 95 % CI: 0.10, 1.20), female colorectal (APC: 2.16; 95 % CI: 1.22, 3.10), and male colorectal (APC:
+2.49; 95 % CI: 1.81, 3.19) cancer. Among racial/ethnic groups examined, Hispanic individuals had the largest
+increases in female all sites (APC: 1.31; 95 % CI: 0.38, 2.25), female breast (APC: 1.04; 95 % CI: 0.29, 1.81), and
+female (APC: 4.67; 95 % Cl: 3.07, 6.30) and male (APC: 3.53; 95 % CI: 2.58, 4.49) colorectal cancer incidence.
+Further research is needed to clarify the causal mechanisms driving these patterns.
+1. Brief communication
+In 2024, over 2 million new cancer cases and 600,000 cancer deaths
+are projected to occur in the United States [1]. While substantial prog-
+ress across the cancer care continuum has led to significant declines in
+cancer mortality rates in the last few decades, cancer incidence rates
+have increased among younger adults [2]. In a study of data from 2010
+to 2019, breast cancer had the highest number of incident cases, with
+gastrointestinal cancers having the fastest growing incidence rates
+among all early-onset cancers [3]. We build on prior research evaluating
+increases in early onset cancer (aged 20–49) incidence by describing
+differences in these trends by race/ethnicity and sex.
+In this cross-sectional study, we used 2011–2020 data from the
+Surveillance, Epidemiology, and End Results (SEER) Program [4]. The
+SEER Program provides a comprehensive source of population-based
+information in the United States that includes patient demographics,
+primary tumor site, tumor morphology, stage at diagnosis, first course of
+treatment, and follow-up for vital status. SEER incidence data is ob-
+tained from population-based registries covering approximately 48 % of
+the US population [5]. We used publicly available deidentified data, so
+institutional review board approval and informed consent were not
+necessary. This study followed the Strengthening the Reporting of
+Observational
+Studies
+in
+Epidemiology
+(STROBE)
+guidelines
+for
+cross-sectional studies.
+SEER*Stat software, version 8.4.3, was used to estimate age-
+standardized cancer incidence rates with 95 % confidence intervals
+(95 % CI) for cancer diagnosed in 2011–2020. All incidence rates were
+age-standardized to the 2000 United States population. Incidence rate
+ratios (IRR) with 95 % CI were calculated for the population aged 50 +
+vs. 20–49 for all cancers and the 10 most common cancers. For in-
+dividuals in each age group, incidence rate ratios were further calcu-
+lated
+for
+race/ethnicity
+(Non-Hispanic
+[NH]-White,
+NH-Black,
+Hispanic) and sex (male, female). Moreover, we calculated annual
+percent changes (APC) and 95 % CI for the overall period from 2011 to
+2020 for the four most common cancers (female breast, prostate, lung
+and bronchus, and colorectal) [6] by age group (50 +, 20–49) and by
+race/ethnicity (NH-White, NH-Black, Hispanic) among patients aged
+20–49. Given disruptions in cancer screening and diagnosis due to the
+COVID-19 pandemic in 2020 [7], we also conducted a sensitivity ana-
+lyses calculating APCs and 95 % CIs by age group for cancer diagnosed in
+2011–2019.
+Between 2011 and 2020, cancer incidence rates decreased for in-
+dividuals aged 50 + for all cancer types evaluated, with the greatest
+decreases observed for male lung and bronchus (APC: −
+3.24; 95 % CI:
+* Correspondence to: Department of Population Health Sciences, Duke University School of Medicine, Durham, NC 27708, USA.
+E-mail address: tomi.akinyemiju@duke.edu (T. Akinyemiju).
+Contents lists available at ScienceDirect
+Cancer Epidemiology
+journal homepage: www.elsevier.com/locate/canep
+https://doi.org/10.1016/j.canep.2024.102632
+Received 31 May 2024; Received in revised form 15 July 2024; Accepted 20 July 2024
+Cancer Epidemiology 92 (2024) 102632 
+Available online 1 August 2024 
+1877-7821/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+−
+4.05, −
+2.43), female colorectal (APC: −
+2.47; 95 % CI: −
+3.24,
+−1.181), and male colorectal (APC: −
+2.56; 95 % CI: −
+3.44, −
+1.67)
+(Fig. 1). However, for individuals aged 20–49, cancer incidence rates
+increased for female breast (APC: 0.64; 95 % CI: 0.10, 1.20), female
+colorectal (APC: 2.16; 95 % CI: 1.22, 3.10), and male colorectal (APC:
+2.49; 95 % CI: 1.81, 3.19). Results from sensitivity analyses limited to
+data from 2011–2019 were largely consistent, with some suggestion that
+cancer incidence rates have also increased for female all sites (APC:
+0.66; 95 % CI: 0.35, 0.97) (Supplemental Table 1).
+Cancer IRRs and 95 % CI by age group, race/ethnicity, and sex are
+presented in Supplemental Table 2. Among individuals aged 20–49,
+females had a 70 % higher incidence rate for all cancers overall
+compared with males (IRR: 1.70; 95 % CI: 1.70, 1.71), NH-Black in-
+dividuals had almost 3 times the incidence of prostate cancer compared
+with NH-White individuals (IRR: 2.69; 95 % CI: 2.60–2.77), while His-
+panic (IRR: 0.43; 95 % CI: 0.41, 0.45) and NH-Black (IRR: 0.49; 95 % CI:
+0.45, 0.52) individuals had approximately half the incidence of bladder
+cancer compared with NH-White individuals.
+Fig. 1. Age-standardized cancer incidence rates and 95 % confidence intervals by age group, 2011–2020. APC = annual percent change.
+A. Gupta and T. Akinyemiju
+Cancer Epidemiology 92 (2024) 102632 
+2 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Longitudinal trends among individuals aged 20–49 are presented in
+Fig. 2 by race/ethnicity. Decreases were observed for male prostate,
+female lung and bronchus, and male lung and bronchus across all racial/
+ethnic groups evaluated. Despite having the lowest incidence rates of the
+racial/ethnic groups examined, Hispanic individuals had the largest
+increases in female all sites (APC: 1.31; 95 % CI: 0.38, 2.25), female
+breast (APC: 1.04; 95 % CI: 0.29, 1.81), and female (APC: 4.67; 95 % Cl:
+3.07, 6.30) and male (APC: 3.53; 95 % CI: 2.58, 4.49) colorectal cancer
+incidence during the study period.
+Although age-standardized cancer incidence rates have declined
+significantly between 2011 and 2020 in the United States among in-
+dividuals aged 50+ for all major cancer types, we found that incidence
+rates have risen among individuals aged 20–49 for the following sub-
+groups: female breast, female colorectal, and male colorectal. Among
+the racial/ethnic groups examined, the largest percent increases for
+breast and colorectal cancer were observed for Hispanic individuals
+Fig. 2. Age-standardized cancer incidence rates and 95 % confidence intervals by race/ethnicity among adults aged 20–49, 2011–2020. APC = annual percent
+change; NH = non-Hispanic.
+A. Gupta and T. Akinyemiju
+Cancer Epidemiology 92 (2024) 102632 
+3 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+compared to NH-White and NH-Black individuals. Increases in early
+onset cancer have been attributed to rising obesity [2,8], exposure to
+radiation, earlier age at menarche, and changes in the microbiome [9].
+There is also increasing evidence highlighting the role of early childhood
+factors from the early prenatal to adolescent periods of life, which may
+cause genetic and epigenetic alterations that promote carcinogenesis
+and affect immunity [10,11]. These risk factors may be unequally
+distributed among different population groups in the United States,
+resulting in the observed patterns. Indeed, prior research has docu-
+mented that those who are Hispanic may be disproportionately affected
+by increases in early-onset cancer [3,12]. However, further research is
+needed to clarify the causal mechanisms driving these increases.
+There are several limitations that should be considered in the
+interpretation of our results. First, there were massive disruptions in
+cancer screening and diagnosis due to the COVID-19 pandemic, leading
+to underreporting and apparent declines in 2020 incidence rates [7].
+Second, there is the potential for misclassification of race/ethnicity and
+cause of death; however, this is unlikely to be differential by population
+subgroups. Third, we acknowledge that the SEER incidence data covers
+less than 50 % of the US population [5], and thus our results may not be
+fully generalizable to the entire country. Still, important strengths of this
+analysis include the large sample size, enabling us to identify subgroups
+experiencing the most significant increases in early-onset cancer
+incidence.
+In conclusion, we found that cancer incidence rates have risen among
+young adults over the last decade, particularly for breast and colorectal
+cancer. Future research is needed to identify the causal mechanisms
+driving increases in early onset cancer incidence.
+Role of the funder
+Not applicable.
+Disclosures
+The authors have no disclosures.
+Funding
+No funding.
+CRediT authorship contribution statement
+Anjali Gupta: Writing – review & editing, Writing – original draft,
+Methodology, Formal analysis, Conceptualization. Tomi Akinyemiju:
+Writing – review & editing, Writing – original draft, Supervision,
+Methodology, Formal analysis, Conceptualization.
+Declaration of Competing Interest
+The authors have no disclosures.
+Data Availability
+This analysis utilized secondary data from the SEER Program. More
+information and instructions to request these data are available here:
+https://seer.cancer.gov/data/access.html.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in the
+online version at doi:10.1016/j.canep.2024.102632.
+References
+[1] R.L. Siegel, A.N. Giaquinto, A. Jemal, Cancer statistics, 2024, CA Cancer J. Clin. 74
+(1) (2024) 12–49.
+[2] A. Bleyer, Increasing cancer in adolescents and young adults: cancer types and
+causation implications, J. Adolesc. Young Adult Oncol. 12 (3) (2023) 285–296.
+[3] B. Koh, D.J.H. Tan, C.H. Ng, et al., Patterns in cancer incidence among people
+younger than 50 years in the US, 2010–2019, JAMA Netw. Open 6 (8) (2023)
+e2328171.
+[4] Surveillance, Epidemiology, and End Results (SEER) Program (〈www.seer.cancer.
+gov〉) SEER*Stat Database: Incidence - SEER Research Plus Limited-Field Data, 22
+Registries, Nov 2022 Sub (2000–2020) - Linked To County Attributes - Total U.S.,
+1969–2021 Counties, National Cancer Institute, DCCPS, Surveillance Research
+Program, released April 2023, based on the November 2022 submission.
+[5] SEER, Information About Cancer Statistics, National Cancer Institute. 〈https://seer.
+cancer.gov/about/using-website.html#:~:text=SEER%20collects%20and%20p
+ublishes%20cancer,from%2022%20U.S.%20geographic%20areas〉. (Accessed 8
+February 2024).
+[6] R.L. Siegel, K.D. Miller, N.S. Wagle, A. Jemal, Cancer statistics, 2023, CA: A Cancer
+J. Clin. 73 (1) (2023) 17–48.
+[7] A.B. Mariotto, E.J. Feuer, N. Howlader, H.S. Chen, S. Negoita, K.A. Cronin,
+Interpreting cancer incidence trends: challenges due to the COVID-19 pandemic,
+J. Natl. Cancer Inst. 115 (9) (2023) 1109–1111.
+[8] H. Li, D. Boakye, X. Chen, et al., Associations of body mass index at different ages
+with early-onset colorectal cancer, Gastroenterology 162 (4) (2022) 1088–1097,
+e1083.
+[9] T. Ugai, N. Sasamoto, H.Y. Lee, et al., Is early-onset cancer an emerging global
+epidemic? Current evidence and future implications, Nat. Rev. Clin. Oncol. 19 (10)
+(2022) 656–673.
+[10] N. Akimoto, T. Ugai, R. Zhong, et al., Rising incidence of early-onset colorectal
+cancer – a call to action, Nat. Rev. Clin. Oncol. 18 (4) (2021) 230–243.
+[11] A.M. Bever, M. Song, Early-life exposures and adulthood cancer risk: a life course
+perspective, J. Natl. Cancer Inst. 115 (1) (2023) 4–7.
+[12] C. Muller, E. Ihionkhan, E.M. Stoffel, S.S. Kupfer, Disparities in early-onset
+colorectal cancer, Cells 10 (5) (2021).
+A. Gupta and T. Akinyemiju
+Cancer Epidemiology 92 (2024) 102632 
+4 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+

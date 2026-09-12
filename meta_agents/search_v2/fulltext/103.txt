@@ -1,0 +1,970 @@
+record_id=103 pmid=22773826 doi=10.1093/jnci/djs264
+SOURCE: manual-pdf
+TITLE: Age-specific incidence of breast cancer subtypes: Understanding the black-white crossover
+
+Vol. 104, Issue 14  |  July 18, 2012
+DOI: 10.1093/jnci/djs264
+Advance Access publication on July 5, 2012.
+1094  Articles  |  JNCI
+© The Author 2012. Published by Oxford University Press. All rights reserved.
+For Permissions, please e-mail: journals.permissions@oup.com.
+Article
+Age-Specific Incidence of Breast Cancer Subtypes: 
+Understanding the Black–White Crossover
+Christina A. Clarke, Theresa H. M. Keegan, Juan Yang, David J. Press, Allison W. Kurian, Anish H. Patel, James V. Lacey, Jr
+Manuscript received December 07, 2011; revised April 13, 2012; accepted April 30, 2012.
+Correspondence to: Christina A. Clarke, PhD, MPH, Research Scientist, Cancer Prevention Institute of California, 2201 Walnut Avenue, Suite 300, Fremont, 
+CA 94538-2334 (e-mail: tina@cpic.org).
+Background	
+Breast cancer incidence is higher among black women than white women before age 40 years, but higher among 
+white women than black women after age 40 years (black–white crossover). We used newly available population-
+based data to examine whether the age-specific incidences of breast cancer subtypes vary by race and ethnicity.
+	
+Methods	
+We classified 91 908 invasive breast cancers diagnosed in California between January 1, 2006, and December 31, 
+2009, by subtype based on tumor expression of estrogen receptor (ER) and progesterone receptor (PR)—together 
+referred to as hormone receptor (HR)—and human epidermal growth factor receptor 2 (HER2). Breast cancer sub-
+types were classified as ER or PR positive and HER2 negative (HR+/HER2−), ER or PR positive and HER2 positive 
+(HR+/HER2+), ER and PR negative and HER2 positive (HR−/HER2+), and ER, PR, and HER2 negative (triple-negative). 
+We calculated and compared age-specific incidence rates, incidence rate ratios, and 95% confidence intervals by 
+subtype and race (black, white, Hispanic, and Asian). All P values are two-sided.
+	
+Results	
+We did not observe an age-related black–white crossover in incidence for any molecular subtype of breast cancer. 
+Compared with white women, black women had statistically significantly higher rates of triple-negative breast cancer 
+at all ages but statistically significantly lower rates of HR+/HER2− breast cancers after age 35 years (all P < .05). The 
+age-specific incidence of HR+/HER2+ and HR−/HER2+ subtypes did not vary markedly between white and black women.
+Conclusions	
+The black–white crossover in breast cancer incidence occurs only when all breast cancer subtypes are combined 
+and relates largely to higher rates of triple-negative breast cancers and lower rates of HR+/HER2− breast cancers 
+in black vs white women.
+	
+	
+J Natl Cancer Inst 2012;104:1094–1101
+Among women younger than 40 years in the United States, rates of 
+invasive breast cancer are higher among black women than among 
+white women, but among women aged 40 years or older, the rates 
+are higher among white women than among black women (1–5). 
+This “black–white crossover” in breast cancer incidence was first 
+identified several decades ago and has since been interpreted as evi-
+dence of intrinsic biological differences in breast cancer between 
+black and white women (6–10) or between early- and late-onset 
+breast cancer (1–4) and continues to stimulate discussion of breast 
+cancer epidemiology (11,12).
+Recently, breast cancer epidemiology has also emphasized the 
+heterogeneity of molecularly defined subtypes that are categorized 
+by tumor expression of estrogen receptor (ER) and progesterone 
+receptor (PR) (together referred to as hormone receptor [HR]) as 
+well human epidermal growth factor receptor 2 (HER2/neu and 
+ERbB-2, hereafter referred to as HER2). Currently recognized 
+breast cancer subtypes include ER or PR positive and HER2 negative 
+(HR+/HER2−), ER or PR positive and HER2 positive (HR+/HER2+), 
+ER and PR negative and HER2 positive (HR−/HER2+), and ER, PR, 
+and HER2 negative (triple-negative breast cancer) (13,14). These 
+subtypes are known to differ in their prognosis, response to treat-
+ment (15,16), and, as suggested by preliminary epidemiological stud-
+ies (17,18), risk factors. The incidence rates of breast cancer subtypes 
+vary by race: black women have high rates of triple-negative breast 
+cancer (19) whereas white women have high rates of ER-positive 
+subtypes (20); however, it is unclear whether a black–white crossover 
+(or any potentially informative age-related crossovers between any 
+racial or ethnic groups) occurs when breast cancer molecular sub-
+types are considered separately. We took advantage of recently avail-
+able HER2 data for breast cancers occurring in the large and diverse 
+California population to examine recent age-specific incidence rates 
+of breast cancer by molecular subtype and by race and ethnicity.
+Methods
+Study Population
+We obtained data from the California Cancer Registry, which 
+contributes approximately half of the data in the National Cancer 
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1095
+jnci.oxfordjournals.org
+Table 1.  Distribution of female breast cancer patients by age, race/ethnicity, and subtype, California, 2006–2009*
+ 
+ 
+Race and 
+subtype
+Age at diagnosis, y
+ 
+ 
+Total 
+No. (%)
+20–29  
+No. (%) 
+30–34  
+No. (%) 
+35–39  
+No. (%) 
+40–44  
+No. (%) 
+45–49  
+No. (%) 
+50–54  
+No. (%) 
+55–59  
+No. (%) 
+60–64  
+No. (%) 
+65–69  
+No. (%) 
+70–74  
+No. (%) 
+75–79  
+No. (%) 
+≥80  
+No. (%)
+White
+  HR+/HER2−
+71 (39)
+208 (45)
+607 (48)
+1642 (56)
+3342 (61)
+3963 (60)
+4406 (60)
+5026 (64)
+4747 (65)
+3900 (66)
+3623 (66)
+5353 (62)
+36888 (62)
+  HR+/HER2+
+30 (16)
+70 (15)
+188 (15)
+374 (13)
+578 (10)
+644 (10)
+733 (10)
+665 (8)
+544 (7)
+433 (7)
+358 (6)
+529 (6)
+5146 (9)
+  HR−/HER2+
+19 (10)
+31 (7)
+107 (8)
+161 (5)
+255 (5)
+369 (6)
+365 (5)
+352 (4)
+287 (4)
+183 (3)
+179 (3)
+246 (3)
+2554 (4)
+  TNBC
+32 (17)
+90 (19)
+222 (17)
+376 (13)
+580 (11)
+691 (10)
+773 (11)
+744 (9)
+642 (9)
+466 (8)
+433 (8)
+611 (7)
+5660 (9)
+Black
+  HR+/HER2−
+11 (30)
+35 (35)
+71 (35)
+208 (43)
+315 (46)
+326 (43)
+372 (49)
+372 (51)
+286 (48)
+265 (55)
+216 (55)
+266 (49)
+2743 (47)
+  HR+/HER2+
+10 (27)
+19 (19)
+28 (14)
+71 (15)
+78 (11)
+83 (11)
+78 (10)
+82 (11)
+49 (8)
+44 (9)
+26 (7)
+39 (7)
+607 (11)
+  HR−/HER2+
+—†
+6 (6)
+22 (11)
+28 (6)
+37 (5)
+54 (7)
+53 (7)
+36 (5)
+43 (7)
+23 (5)
+13 (3)
+16 (3)
+334 (6)
+  TNBC
+9 (24)
+23 (23)
+57 (28)
+107 (22)
+147 (22)
+188 (25)
+161 (21)
+140 (19)
+117 (20)
+86 (18)
+61 (16)
+68 (13)
+1164 (20)
+Hispanic
+  HR+/HER2−
+44 (27)
+145 (35)
+383 (44)
+817 (48)
+1092 (52)
+1046 (49)
+969 (52)
+904 (57)
+843 (59)
+650 (60)
+518 (60)
+536 (56)
+7947 (52)
+  HR+/HER2+
+26 (16)
+70 (17)
+127 (14)
+244 (14)
+256 (12)
+246 (12)
+217 (12)
+153 (10)
+142 (10)
+97 (9)
+70 (8)
+59 (6)
+1707 (11)
+  HR−/HER2+
+18 (11)
+49 (12)
+66 (8)
+120 (7)
+145 (7)
+164 (8)
+141 (8)
+83 (5)
+86 (6)
+51 (5)
+42 (5)
+43 (4)
+1008 (7)
+  TNBC
+33 (20)
+98 (24)
+184 (21)
+259 (15)
+306 (15)
+335 (16)
+241 (13)
+190 (12)
+135 (9)
+99 (9)
+75 (9)
+83 (9)
+2038 (13)
+Asian
+  HR+/HER2−
+36 (47)
+77 (38)
+250 (54)
+527 (54)
+765 (54)
+766 (53)
+762 (53)
+618 (53)
+584 (58)
+459 (60)
+353 (61)
+363 (57)
+5560 (55)
+  HR+/HER2+
+11 (14)
+35 (17)
+72 (16)
+127 (13)
+197 (14)
+181 (13)
+191 (13)
+135 (12)
+102 (10)
+60 (8)
+49 (9)
+42 (7)
+1202 (12)
+  HR−/HER2+
+10 (13)
+21 (10)
+36 (8)
+75 (8)
+108 (8)
+142 (10)
+134 (9)
+101 (9)
+74 (7)
+53 (7)
+25 (4)
+25 (4)
+804 (8)
+  TNBC
+8 (10)
+37 (18)
+46 (10)
+84 (9)
+106 (8)
+137 (10)
+129 (9)
+94 (8)
+82 (8)
+67 (9)
+43 (7)
+42 (7)
+875 (9)
+Total
+  HR+/HER2−
+162 (35)
+465 (39)
+1311 (47)
+3194 (52)
+5514 (57)
+6101 (56)
+6509 (57)
+6920 (61)
+6460 (63)
+5274 (64)
+4710 (64)
+6518 (60)
+53138 (59)
+  HR+/HER2+
+77 (17)
+194 (16)
+415 (15)
+816 (13)
+1109 (11)
+1154 (11)
+1219 (11)
+1035 (9)
+837 (8)
+634 (8)
+503 (7)
+669 (6)
+8662 (10)
+  HR−/HER2+
+50 (11)
+107 (9)
+231 (8)
+384 (6)
+545 (6)
+729 (7)
+693 (6)
+572 (5)
+490 (5)
+310 (4)
+259 (4)
+330 (3)
+4700 (5)
+  TNBC
+82 (18)
+248 (21)
+509 (18)
+826 (14)
+1139 (12)
+1351 (12)
+1304 (11)
+1168 (10)
+976 (9)
+718 (9)
+612 (8)
+804 (7)
+9737 (11)
+*	 Excludes breast cancer case subjects for whom race/ethnicity was unknown or could not be classified. HR+ = hormone receptor–positive; HER2− = HER2-negative; HR− = hormone receptor–negative; HER2+ = HER2-
+positive; TNBC = triple-negative breast cancer.† Statistic not displayed for confidentiality reasons because cell contained fewer than five case subjects.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+Vol. 104, Issue 14  |  July 18, 2012
+1096  Articles  |  JNCI
+Institute’s Surveillance, Epidemiology, and End Results (SEER) 
+program and is estimated to include more than 99% of all invasive 
+cancers diagnosed in the state of California. We included in our 
+analysis all 91 908 invasive breast cancers [defined as International 
+Classification of Disease for Oncology, 3rd edition (21), sites 
+50.0–50.9; all histologies other than sarcoma or lymphoma, codes 
+9050–9055, 9140, 9590–9989] diagnosed between January 1, 2006, 
+and December 31, 2009, among women aged 20 years or older.
+The California Cancer Registry has collected information on 
+breast cancer expression of ER and PR since 1990 and of HER2 
+since 1999. The pivotal trials describing the efficacy of trastuzumab 
+for treating HER2-overexpressing breast cancer were published 
+in 2001 for advanced-stage cancers, and in 2006 for cancers of all 
+stages (16,22). Between 1999 and 2006, 71% of all breast cancers 
+had complete HER2 information; after 2006, more than 85% of all 
+breast cancers had HER2 information recorded. Thus, we limited 
+this analysis to 2006–2009, the most recent years for which more 
+complete data were available.
+Tumor expression of ER, PR, and HER2 was recorded in the 
+California Cancer Registry database as positive, negative, border-
+line, not tested, not recorded, or unknown based on pathology or 
+medical record information. Tumor expression of ER and PR was 
+evaluated by pathologists using dextran-coated charcoal assays 
+or immunohistochemistry (23); HER2 expression was tested by 
+immunohistochemistry or fluorescence in situ hybridization (16). 
+Patient race, ethnicity, and age at diagnosis were recorded in the 
+California Cancer Registry database based on direct abstracting 
+from medical records, and race and ethnicity were based largely 
+on the patient’s self-report (24). We categorized race and ethnicity 
+into the following mutually exclusive categories: Hispanic, non-
+Hispanic white, non-Hispanic black, and non-Hispanic Asian or 
+Pacific Islander (hereafter referred to as Hispanic, white, black, and 
+Asian, respectively). Race and/or ethnicity were either not known 
+or could not be categorized for 1159 (1.3%) of the 91 908 invasive 
+breast cancer patients.
+Classification of Breast Cancer Subtypes
+On the basis of tumor expression of ER, PR, and HER2 as described 
+in the pathology record, we classified the breast cancers into four 
+mutually exclusive subtype categories: HR+/HER2−, HR+/HER2+, 
+HR−/HER2+, and triple-negative breast cancer (5,13,14,19,25,26). 
+Of the 90 749 cancers (excluding those for which patient race or 
+ethnicity was unknown), 14 512 (16.0%) did not have information 
+needed to assign to one of these subtypes, including 8006 cancers 
+(8.8%) for whom only HER2 status was unknown, 660 cancers 
+(<1%) for whom only HR status was unknown, and 5846 can-
+cers (6.4%) for whom both HR and HER2 status were unknown. 
+Cancers for which subtype was missing did not differ statistically 
+significantly with respect to patient age, race, or ethnicity from 
+those for which subtype was known (data not shown).
+Statistical Analysis
+We used SEER*Stat software version 7.0.5 (27) developed by the 
+National Cancer Institute to compute age-specific incidence rates 
+per 100 000 woman-years by age group at diagnosis (20–29, 30–34, 
+35–39, 40–44, 45–49, 50–54, 55–59, 60–64, 65–69, 70–74, 75–79, 
+80–84, and ≥85 years), incidence rate ratios, and corresponding 
+95% confidence intervals (CIs) based on the Poisson distribu-
+tion (28). Incidence rate ratios (IRRs) conveyed the relative risk 
+of developing a particular subtype for one population group com-
+pared with a specified reference group. Population estimates were 
+developed by SEER based on US Census projections. Incidence 
+62%
+47%
+52%
+55%
+9%
+11%
+11%
+12%
+4%
+6%
+7%
+8%
+9%
+20%
+13%
+9%
+16%
+16%
+16%
+17%
+White
+ Black
+ Hispanic
+ Asian
+Percentage of breast cancer subtypes
+Racial and ethnic group
+Unclassiﬁed
+Triple-negave
+HR-/HER2+
+HR+/HER2+
+HR+/HER2-
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Figure 1.  Distribution of breast cancer subtypes, by race and ethnicity, among California women, 2006–2009. HR+ = hormone receptor–positive; 
+HER2− = HER2-negative; HR− = hormone receptor–negative; HER2+ = HER2-positive; TNBC = triple-negative breast cancer.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1097
+jnci.oxfordjournals.org
+rate plots were scaled semi-logarithmically to aid visual estimation 
+of proportional rates of change (29). All analyses were conducted 
+in accordance with the Institutional Review Board approval of the 
+Cancer Prevention Institute of California (protocol number 2001-
+043). All statistical comparisons were two-sided.
+Results
+Figure 1 shows the distribution of breast cancer subtypes diagnosed 
+among women in California according to patient race and 
+ethnicity. Among white and Asian women, there were more than 
+six times as many HR+/HER2− tumors as triple-negative tumors 
+(ratio for whites: 6.9:1; ratio for Asian: 6.1:1). The ratios of HR+/ 
+HER2− tumors to triple-negative tumors were much lower among 
+Hispanic women (4.0:1) and black women (2.4:1). Table 1 shows 
+the distribution of breast cancer subtypes by age group for the four 
+racial and ethnic groups and overall, confirming substantial racial 
+and ethnic variation in the proportions of subtypes across all age 
+groups. However, in each racial and ethnic group, proportionately 
+more triple-negative breast cancers were diagnosed at younger 
+ages than at older ages.
+We next examined differences in the age-specific incidence of 
+breast cancer by patient race and ethnicity (Figure 2, A) and molec-
+ular subtype (Figure 2, B). Among women who were younger than 
+45 years at diagnosis, breast cancer incidence rates (expressed as the 
+number of breast cancers diagnosed per 100 000 woman-years were 
+higher among black women than among white women (whites aged 
+40–44 years: 129.2 [95% CI = 124.6 to 134.0]; blacks aged 40–44 
+years: 133.7 [95% CI = 122.1 to 146.2]); among women who were 
+older than 50 years at diagnosis, the rates were higher among white 
+women than among black women (whites aged 50–54 years: 254.7 
+[95% CI = 248.6 to 260.9]; blacks aged 50–54 years: 234.4 [95% CI 
+= 218.0 to 251.7]) (Figure 2, A). Rates among Hispanic women and 
+Asian women were lower than rates among white women and black 
+1
+10
+100
+1000
+20
+40
+60
+80
+Number of breast cancers per 100,000 woman-years
+Age at diagnosis (y)
+A.
+White
+Black
+Hispanic
+Asian
+0.1
+1
+10
+100
+1000
+20
+40
+60
+80
+Number of breast cancers per 100,000 woman-years
+Age at diagnosis (y)
+B.
+HR+/HER2-
+HR+/HER2+
+HR-/HER2+
+Triple-negave
+Figure 2.  Age-specific incidence rates of breast cancer by A) race and ethnicity and by B) molecular subtype, among California women, 2006–2009. 
+HR+ = hormone receptor–positive; HER2− = HER2-negative; HR− = hormone receptor–negative; HER2+ = HER2-positive; TNBC = triple-negative breast 
+cancer.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+Vol. 104, Issue 14  |  July 18, 2012
+1098  Articles  |  JNCI
+women at all ages at diagnosis. At all ages at diagnosis, the magni-
+tudes of the differences in rates between racial and ethnic groups 
+were small compared with the substantial differences in rates 
+among the four breast cancer subtypes (Figure 2, B). At approxi-
+mately age 50 years at diagnosis, the rate of HR+/HER2− breast 
+cancer was almost five times higher than the rate of triple-negative 
+breast cancer (rates among women aged 50–54 years, HR+/HER2−: 
+126.1 [95% CI = 123.0 to 129.3]; triple-negative: 27.8 [95% CI = 
+26.3 to 29.3]). At all ages, rates of HR+/HER2+ and triple-negative 
+breast cancers were similar. HR−/HER2+ breast cancer had the low-
+est age-specific incidence rates.
+Figure 3 shows age-specific incidence rates by molecular 
+subtype for the four racial and ethnic groups. There was no age-
+related crossover between rates among black women vs white 
+women for any of the subtypes. The HR+/HER2− subtype had the 
+highest incidence rates of all subtypes at all ages of diagnosis for this 
+subtype, and incidence rates were higher in white women than in 
+women of the other racial and ethnic groups at all ages (rates among 
+women aged 50–54 years, whites: 152.8 [95% CI = 148.1 to 157.6], 
+blacks: 101.2 [95% CI = 90.5 to 112.8], Hispanics: 85.9 [95% CI = 
+80.7 to 91.2], Asians: 107.1 [95% CI = 99.6 to 114.9]). Black women 
+had higher rates of triple-negative breast cancer compared with 
+women in the other three racial and ethnic groups at all ages. The 
+relative differences in incidence rates between racial and ethnic 
+groups were larger for triple-negative breast cancer compared with 
+the other breast cancer subtypes, where differences in incidence 
+rates by race and ethnicity were more subtle. Compared with 
+white women, black women had statistically significantly higher 
+rates of triple-negative breast cancer at all ages but statistically 
+significantly lower rates of HR+/HER2− breast cancers after age 
+35 years (all P < .05). To examine the statistical significance of the 
+differences in age-specific rates, we calculated incidence rate ratios 
+and 95% confidence intervals for each nonwhite racial and ethnic 
+group compared with white women by breast cancer subtype 
+(Supplementary Figure 1, available online). For triple-negative 
+breast cancer, black vs white incidence rate ratios were statistically 
+significantly greater than 1.0 after age 35 years, whereas the Asian 
+vs white incidence rate ratios were statistically significantly less 
+than 1.0 after age 35 years, and the Hispanic vs white incidence rate 
+ratios were statistically significantly less than 1.0 after age 55 years 
+(all P < .05). For HR+/HER2− breast cancer, incidence rates were 
+statistically significantly higher among white women than other 
+women at all ages after age 45 years (all P < .05). Asian women aged 
+40–64 years had a higher incidence of HR−/HER2+ breast cancer 
+compared with white women (rates among women aged 50–54 
+years, Asians: 19.8 [95% CI = 16.7 to 23.4]; whites: 14.2 [95% CI 
+= 12.8 to 15.8]). For HR+/HER2+ breast cancers, there were no 
+obvious statistically significant racial and ethnic differences in rates.
+Discussion
+Using recent data about HER2-defined breast cancer occurrence 
+in the large, diverse population of California, we found no evidence 
+for a black–white crossover in breast cancer incidence for any of 
+Figure 3.  Age-specific incidence rates of breast cancer subtypes by race and ethnicity among California women, 2006-2009. Note different axis 
+scales. HR+ = hormone receptor–positive; HER2− = HER2-negative; HR− = hormone receptor–negative; HER2+ = HER2-positive; TNBC = triple-negative 
+breast cancer.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1099
+jnci.oxfordjournals.org
+the four major molecular subtypes of breast cancer. Compared 
+with white women, black women had higher rates of triple-nega-
+tive breast cancer at all ages and lower rates of HR+/HER2− breast 
+cancer after age 35 years. The black–white crossover in breast can-
+cer incidence occurred only when all breast cancer subtypes are 
+combined. Our data also demonstrate substantial racial and ethnic 
+variation in the age-specific occurrence of breast cancer subtypes, 
+especially the triple-negative form.
+The HER2 status of tumors has only recently become 
+information that is routinely collected as part of breast cancer 
+registration and surveillance because HER2 expression has only 
+recently become a standard part of breast cancer pathological 
+assessment (16) . Previous studies of breast cancer occurrence that 
+differentiated tumors according to ER status revealed important 
+clues about the contribution of tumor estrogen sensitivity to the 
+observed deceleration of increasing age-specific incidence around 
+the age of menopause (30). Now, with population-based data 
+regarding HER2-defined breast cancer subtypes, we are able to 
+expand our understanding of the divergent occurrence of breast 
+cancer subtypes by age and by race and ethnicity.
+Our findings are consistent with those of Carey et al. (14), who 
+described higher occurrence of triple-negative breast cancer in 
+black vs white premenopausal women, and of Chlebowski et al. 
+(18), who reported that black women were five times more likely 
+than white women to have high-grade, ER-negative cancers; both 
+groups invoked possible genetic causes for these differences based 
+on studies of black breast cancer patients in Africa (31). Our find-
+ings are also consistent with previous cancer registry–based studies 
+of women that found higher overall incidences of triple-negative 
+breast cancer among black women and of HR+/HER2− breast can-
+cers among white women compared with women of other racial 
+and ethnic groups (5,19,32,33) as well as other epidemiological and 
+clinical suggestions that these two subtypes are etiologically and 
+biologically distinct (34–36).
+In 2008, Anderson et al. (1) used a structured quantitative 
+approach to show in SEER data that the black–white crossover 
+in overall breast cancer incidence persisted across time and birth 
+cohort; they concluded that the most likely explanation for the 
+crossover involved biological heterogeneity of subtypes between 
+black and white women. Other authors have pointed to the role 
+of different racial and ethnic prevalence of risk factors, including 
+reproductive history and other factors associated with socioeco-
+nomic status (4,37–40), or ethnic variations in the magnitude of 
+risk associated with particular exposures (eg, use of postmeno-
+pausal hormone therapy, parity, and body mass index [BMI]) (1). 
+Still other interpretations hypothesize novel, ethnically disparate 
+causes, such as environmental exposures or susceptibility genes 
+(18,31). Although some ethnic disparities in both mammographic 
+screening and BRCA1 and BRCA2 gene mutation testing have been 
+reported (41,42), it is unlikely that these occur at levels sufficient 
+to explain the black–white crossover in breast cancer incidence as 
+reported in previous studies. After synthesizing the previous lit-
+erature with our new observations, we suggest that the observed 
+crossover mainly reflects racial and ethnic differences in the age-
+specific incidences of triple-negative breast cancer (higher in black 
+women) and HR+/HER2− breast cancer (higher in white women, 
+particularly those older than 35 years).
+Several epidemiological studies have examined risk factors for 
+specific breast cancer subtypes using datasets large enough to provide 
+adequate statistical power for detecting differences among breast 
+cancer subtypes. In a recent pooled analysis of 34 observational stud-
+ies from the Breast Cancer Association Consortium (BCAC) (17), 
+reproductive risk factors (age at menarche, parity, and age at birth 
+of first child) and BMI were associated with the risk of ER+ or PR+ 
+breast tumors but not with the risk of triple-negative breast cancer. 
+In fact, a pooled analysis of the 12 eligible BCAC studies that had 
+data on tumor HER2 status did not find an association between the 
+risk of triple-negative breast cancer and any of the other risk factors 
+that are typically considered when studying breast cancer as a sin-
+gle entity, with the exception of family history, which was positively 
+associated with triple-negative and other breast cancer subtypes (17). 
+However, even that large pooled analysis did not have sufficient sta-
+tistical power to examine associations between BMI or parity and the 
+risk of triple-negative breast cancer specifically in black women. In a 
+smaller study (36), adjustment for BMI and age did not fully explain 
+the elevated risk of triple-negative breast cancer among black women 
+compared with white women. The consistently higher incidence of 
+triple-negative breast cancer among black women compared with 
+white women at all ages suggests that black women are more sus-
+ceptible to triple-negative breast cancer (43) than white, Hispanic, or 
+Asian women. Indeed, our data show that the most marked racial and 
+ethnic differences in incidence occur for triple-negative breast can-
+cer, making this subtype worthy of particular scrutiny in genomic or 
+other studies. Certainly, genetic or other nonenvironmental factors 
+remain important candidates for explaining racial and ethnic differ-
+ences in the incidence of specific molecular subtypes of breast cancer. 
+Recent studies of the BRCA1 and BRCA2 breast cancer susceptibility 
+genes suggest that although mutation carrier prevalence is compara-
+ble among ethnic groups, there is substantial ethnic variation in the 
+spectrum of mutations (44).
+Our analysis adds to the evidence suggesting that middle-
+aged Asian women have higher risks of HER2-overexpressing 
+tumors compared with white women (33,45). A previous analysis 
+of California data showed that incidence of HER2-overexpressing 
+tumors was higher among Korean, Filipina, Vietnamese, and 
+Chinese women than among white women (45). A pooled analysis 
+of 13 BCAC studies found that BMI, parity, and age at birth of 
+first child were associated with the risk of HER2-overexpressing 
+tumors (17), but it is uncertain whether these associations could 
+explain higher incidence of HER2-overexpressing tumors among 
+Asian populations. Although in this analysis we were not able to 
+further stratify rates for Asian women by nativity or acculturation, 
+previous analyses have shown that both factors affect overall inci-
+dence rates of breast cancer among Asian women (46,47). Future 
+epidemiological studies of molecular subtypes of breast cancer 
+among Asian or Hispanic women should examine occurrence sepa-
+rately by ethnic subgroup and nativity.
+This study has several strengths. We took advantage of some of 
+the first population-based data for which ER, PR, and HER2 status 
+are sufficiently complete to classify the four major current molecu-
+lar subtypes of breast cancer. Moreover, the California data offer a 
+large sample size and diversity for examining age-specific patterns 
+in racial and ethnic groups and are generally representative of data 
+in the larger SEER program.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+Vol. 104, Issue 14  |  July 18, 2012
+1100  Articles  |  JNCI
+However, this study, like all cancer registry–based analyses, was 
+limited by some degree of missing data on these biomarkers, by the 
+nonstandardized assessment of biomarker subtype as reported in 
+individual pathology reports constituting the basis for cancer regis-
+try abstraction, and by the lack of detailed individual-level informa-
+tion on breast cancer risk factors. Although we cannot speak to the 
+full set of risk factors for specific subtypes, we can confirm the sus-
+picions of previous authors (1) that the differential occurrence of 
+etiologically distinct entities, namely triple-negative breast cancer 
+and HR+/HER2− breast cancer, is responsible for the black–white 
+difference in the age-specific incidence of breast cancer. For no 
+subtype did we observe the black–white crossover in incidence that 
+appears when breast cancer is analyzed as a single entity (ie, with-
+out regard to subtype), which suggests that the high rates of triple-
+negative breast cancer among black women at younger ages and the 
+high rates of HR+/HER2– breast cancers among white women at 
+older ages are the major contributors to the black–white crossover.
+Future studies of racial and ethnic differences in breast cancer 
+occurrence should examine molecular subtypes separately. As 
+further molecular technological advances are made to characterize 
+breast tumors in more meaningful ways, these discoveries should 
+guide treatment options and, it is hoped, will lead to success 
+in reducing the mortality and survival disparities for triple-
+negative and other aggressive forms of breast cancer that now 
+disproportionately affect younger women.
+References
+	
+1.	 Anderson WF, Rosenberg PS, Menashe I, et al. Age-related crossover in 
+breast cancer incidence rates between black and white ethnic groups. J 
+Natl Cancer Inst. 2008;100(24):1804–1814.
+	
+2.	 Brinton LA, Sherman ME, Carreon JD, et al. Recent trends in breast 
+cancer among younger women in the United States. J Natl Cancer Inst. 
+2008;100(22):1643–1648.
+	
+3.	 Joslyn SA, Foote ML, Nasseri K, et al. Racial and ethnic disparities in 
+breast cancer rates by age: NAACCR Breast Cancer Project. Breast Cancer 
+Res Treat. 2005;92(2):97–105.
+	
+4.	 Krieger N. Social class and the black/white crossover in the age-specific 
+incidence of breast cancer: a study linking census-derived data to popula-
+tion-based registry records. Am J Epidemiol. 1990;131(5):804–814.
+	
+5.	 Parise CA, Bauer KR, Brown MM, et al. Breast cancer subtypes as defined 
+by the estrogen receptor (ER), progesterone receptor (PR), and the human 
+epidermal growth factor receptor 2 (HER2) among women with invasive 
+breast cancer in California, 1999–2004. Breast J. 2009;15(6):593–602.
+	
+6.	 Natarajan N, Nemoto T, Mettlin C, et al. Race-related differences in breast 
+cancer patients results of the 1982 national survey of breast cancer by the 
+American College of Surgeons. Cancer. 1985;56(7):1704–1709.
+	
+7.	 Pegoraro RJ, Karnan V, Nirmul D, et al. Estrogen and progesterone recep-
+tors in breast cancer among women of different racial groups. Cancer Res. 
+1986;46(4, pt 2):2117–2120.
+	
+8.	 Elledge RM, Clark GM, Chamness GC, et al. Tumor biologic factors and 
+breast cancer prognosis among white, hispanic, and black women in the 
+United States. J Natl Cancer Inst. 1994;86(9):705–712.
+	
+9.	 Joslyn SA. Hormone receptors in breast cancer: racial differences in distri-
+bution and survival. Breast Cancer Res Treat. 2002;73(1):45–59.
+	 10.	 Morris GJ, Naidu S, Topham AK, et al. Differences in breast carcinoma 
+characteristics in newly diagnosed African–American and Caucasian 
+patients. Cancer. 2007;110(4):876–884.
+	 11.	 Pathak DR, Osuch JR, He J. Breast carcinoma etiology: current knowledge 
+and new insights into the effects of reproductive and hormonal risk factors 
+in black and white populations. Cancer. 2000;88(Suppl 5):1230–1238.
+	 12.	 Anderson WF, Reiner AS, Matsuno RK, et al. Shifting breast cancer trends 
+in the United States. J Clin Oncol. 2007;25(25):3923–3929.
+	 13.	 Bernstein L, Lacey JV. Receptors, associations, and risk factor differ-
+ences by breast cancer subtypes: positive or negative? J Natl Cancer Inst. 
+2011;103(6):451–453.
+	 14.	 Carey LA, Perou CM, Livasy CA, et al. Race, breast cancer sub-
+types, and survival in the Carolina Breast Cancer Study. JAMA. 
+2006;295(21):2492–2502.
+	 15.	 National Comprehensive Cancer Network. NCCN Clinical Practice 
+Guidelines in Oncology - Breast Cancer. Version 2, 2011.
+	 16.	 Wolff AC, Hammond MEH, Schwartz JN, et al. American Society of 
+Clinical Oncology/College of American Pathologists guideline recom-
+mendations for human epidermal growth factor receptor 2 testing in breast 
+cancer. J Clin Oncol. 2007;25(1):118–145.
+	 17.	 Yang XR, Chang-Claude J, Goode EL, et al. Associations of breast 
+cancer risk factors with tumor subtypes: a pooled analysis from the 
+Breast Cancer Association Consortium studies. J Natl Cancer Inst. 
+2011;103(3):250–263.
+	 18.	 Chlebowski RT, Chen Z, Anderson GL, et al. Ethnicity and breast cancer: 
+factors influencing differences in incidence and outcome. J Natl Cancer 
+Inst. 2005;97(6):439–448.
+	 19.	 Bauer KR, Brown M, Cress RD, et al. Descriptive analysis of estrogen 
+receptor (ER)-negative, progesterone receptor (PR)-negative, and HER2-
+negative invasive breast cancer, the so-called triple-negative phenotype. 
+Cancer. 2007;109(9):1721–1728.
+	 20.	 Hausauer AK, Keegan THM, Chang ET, et al. Recent breast cancer trends 
+among Asian/Pacific Islander, Hispanic, and African-American women in 
+the US: changes by tumor subtype. Breast Cancer Res. 2007;9(6):R90.
+	 21.	 Fritz A, Percy C, Jack A, et al. International Classification of Diseases for 
+Oncology, 3rd ed. Geneva: World Health Organization; 2000.
+	 22.	 Hudis CA. Trastuzumab—mechanism of action and use in clinical practice. 
+N Engl J Med. 2007;357(1):39–51.
+	 23.	 Hammond MEH, Hayes DF, Dowsett M, et al. American Society of 
+Clinical Oncology/College of American Pathologists guideline recom-
+mendations for immunohistochemical testing of estrogen and progester-
+one receptors in breast cancer. J Clin Oncol. 2010;28(16):2784–2795.
+	 24.	 Gomez SL, Le GM, West DW, et al. Hospital policy and practice regard-
+ing the collection of data on race, ethnicity, and birthplace. Am J Public 
+Health. 2003;93(10):1685–1688.
+	 25.	 Perou CM, Sorlie T, Eisen MB, et al. Molecular portraits of human breast 
+tumours. Nature. 2000;406(6797):747–752.
+	 26.	 Lund M, Trivers K, Porter P, et al. Race and triple negative threats to breast 
+cancer survival: a population-based study in Atlanta, GA. Breast Cancer Res 
+Treat. 2009;113(2):357–370.
+	 27.	 Surveillance Research Program, National Cancer Institute. SEER*Stat 
+software, version 7.0.5. http://www.seer.cancer.gov/seerstat. Accessed 
+November 5, 2011.
+	 28.	 Fay MP. Approximate confidence intervals for rate ratios from directly stand-
+ardized rates with sparse data. Commun Stat Theory. 1999;28(9):2141–2160.
+	 29.	 Devesa SS, Donaldson J, Fears T. Graphical presentation of trends in rates. 
+Am J Epidemiol. 1995;141(4):300–304.
+	 30.	 Pike MC, Spicer DV, Dahmoush L, et al. Estrogens, progestogens, 
+normal breast cell proliferation, and breast cancer risk. Epidemiol Rev. 
+1993;15(1):17–30.
+	 31.	 Ademuyiwa FO, Olopade OI. Racial differences in genetic factors associ-
+ated with breast cancer. Cancer Metast Rev. 2003;22(1):47–53.
+	 32.	 Kurian A, Fish K, Shema S, et al. Lifetime risks of specific breast cancer 
+subtypes among women in four racial/ethnic groups. Breast Cancer Res. 
+2010;12(6):R99.
+	 33.	 Parise CA, Bauer KR, Caggiano V. Variation in breast cancer subtypes with 
+age and race/ethnicity. Crit Rev Oncol Hemat. 2010;76(1):44–52.
+	 34.	 Lund MJ, Butler EN, Hair BY, et al. Age/race differences in HER2 
+testing and in incidence rates for breast cancer triple subtypes. Cancer. 
+2010;116(11):2549–2559.
+	 35.	 Millikan R, Newman B, Tse C-K, et al. Epidemiology of basal-like breast 
+cancer. Breast Cancer Res Treat. 2008;109(1):123–139.
+	 36.	 Stead L, Lash T, Sobieraj J, et al. Triple-negative breast cancers are 
+increased in black women regardless of age or body mass index. Breast 
+Cancer Res. 2009;11(2):R18.
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+
+JNCI  |  Articles  1101
+jnci.oxfordjournals.org
+	 37.	 Krieger N, Chen J, Waterman P. Temporal trends in the black/white breast 
+cancer case ratio for estrogen receptor status: disparities are historically 
+contingent, not innate. Cancer Cause Control. 2011;22(3):511–514.
+	 38.	 Brinton LA, Benichou J, Gammon MD, et al. Ethnicity and variation in 
+breast cancer incidence. Int J Cancer. 1997;73(3):349–355.
+	 39.	 Trivers K, Lund M, Porter P, et al. The epidemiology of triple-negative 
+breast cancer, including race. Cancer Cause Control. 2009;20(7):1071–1082.
+	 40.	 Yin D, Morris C, Allen M, et al. Does socioeconomic disparity in can-
+cer incidence vary across racial/ethnic groups? Cancer Cause Control. 
+2010;21(10):1721–1730.
+	 41.	 Levy DE, Byfield SD, Comstock CB, et al. Underutilization of BRCA1/2 
+testing to guide breast cancer treatment: Black and Hispanic women particu-
+larly at risk. Genet Med. 2011;13(4):349–355.
+	 42.	 Chagpar AB, Polk HC Jr, McMasters KM. Racial trends in mammography 
+rates: a population-based study. Surgery. 2008;144(3):467–472.
+	 43.	 Huo D, Ikpatt F, Khramtsov A, et al. Population differences in breast can-
+cer: survey in indigenous African women reveals over-representation of 
+triple-negative breast cancer. J Clin Oncol. 2009;27(27):4515–4521.
+	 44.	 Kurian AW. BRCA1 and BRCA2 mutations across race and ethnicity: dis-
+tribution and clinical implications. Curr Opin Obstet Gyn. 2010;22(1):72–
+78. doi:10.1097/GCO.0b013e328332dca3.
+	 45.	 Telli M, Chang E, Kurian A, et al. Asian ethnicity and breast cancer sub-
+types: a study from the California Cancer Registry. Breast Cancer Res Treat. 
+2011;127(2):471–478.
+	 46.	 Keegan THM, Gomez SL, Clarke CA, et al. Recent trends in breast can-
+cer incidence among 6 Asian groups in the Greater Bay Area of Northern 
+California. Int J Cancer. 2007;120(6):1324–1329.
+	 47.	 Gomez SL, Quach T, Horn-Ross PL, et al. Hidden breast cancer dis-
+parities in Asian women: disaggregating incidence rates by ethnicity and 
+migrant status. Am J Public Health. 2010;100(S1):S125–131.
+Funding
+This study was supported by the National Cancer Institute’s Surveillance, 
+Epidemiology, 
+and 
+End 
+Results 
+(SEER) 
+program 
+under 
+contract 
+HHSN261201000040C awarded to the Cancer Prevention Institute of California 
+(CPIC).The collection of cancer incidence data used in this study was sup-
+ported by the California Department of Public Health as part of the statewide 
+cancer reporting program mandated by California Health and Safety Code 
+Section 103885; the SEER Program under contract HHSN261201000040C 
+awarded to CPIC (formerly the Northern California Cancer Center), contract 
+HHSN261201000035C awarded to the University of Southern California, and con-
+tract HHSN261201000034C awarded to the Public Health Institute; the Centers 
+for Disease Control and Prevention’s National Program of Cancer Registries, 
+under agreement 1U58DP00807-01 awarded to the Public Health Institute.
+Notes
+The ideas and opinions expressed herein are those of the authors, and endorse-
+ment by the State of California, Department of Public Health, the National 
+Cancer Institute, and the Centers for Disease Control and Prevention or 
+their contractors and subcontractors is not intended nor should be inferred. 
+No author reports any financial conflict of interest. The study sponsors did 
+not have any role in the design of the study, the analysis or interpretation of 
+the data, the writing of the article, or the decision to submit the article for 
+publication.
+Affiliations of authors: Cancer Prevention Institute of California, Fremont, CA 
+(CAC, THMK, JY, DJP, AHP); Department of Health Research and Policy (CAC, 
+THMK, AWK) and Department of Medicine (AWK), Stanford University School 
+of Medicine, Milwaukee, WI; Medical College of Wisconsin Medical School 
+(AHP), Milwaukee, WI; City of Hope National Medical Center, Duarte, CA (JVL).
+Downloaded from https://academic.oup.com/jnci/article/104/14/1094/2516932 by Pusan NU Acquisitions (INACTIVE) user on 09 August 2026
+

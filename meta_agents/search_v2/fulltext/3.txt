@@ -1,0 +1,509 @@
+record_id=3 pmid=41055508 doi=10.1002/cncr.70061 pmcid=PMC12503006
+TITLE: Lobular breast cancer statistics, 2025
+
+INTRODUCTION
+Breast cancer is the most common cancer in women, with approximately 317,000 new cases expected to be diagnosed in the United States in 2025.
+1
+ Epidemiologic statistics and treatment information generally reflect the most common subtype, invasive ductal carcinoma (IDC), obscuring the unique characteristics of invasive lobular carcinoma (ILC), the second most common histological type of breast cancer.
+2
+, 
+3
+ For example, ILC is more challenging to detect clinically and through mammography because 90% of cases lack expression of the E‐cadherin protein responsible for cell adhesion,
+4
+, 
+5
+ resulting in a more linear or dispersed growth pattern that can cause atypical symptoms (e.g., nipple inversion, skin thickening or dimpling).
+6
+, 
+7
+, 
+8
+, 
+9
+ The metastatic pattern of lobular carcinoma is also somewhat distinct, with a higher likelihood of spreading to the gastrointestinal and urinary tract lining and ovaries compared to IDC.
+3
+, 
+10
+ Although lobular carcinoma prognosis is generally favorable, the disease is less responsive to neoadjuvant chemotherapy
+11
+ and may be at higher risk of bilateral involvement,
+12
+, 
+13
+ late recurrence,
+14
+ and subsequent primary contralateral cancer.
+15
+ Most studies that have examined ILC epidemiology are limited in scope and population coverage.
+16
+ Here, we analyze contemporary ILC occurrence and survival in comparison with IDC in women in the United States using population‐based cancer registry data covering >90% of the US population.
+MATERIALS AND METHODS
+Data sources
+The National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) program’s original eight registries (Connecticut, Atlanta, San Francisco‐Oakland, Hawaii, Iowa, New Mexico, Seattle‐Puget Sound, and Utah) were the source for historical incidence data (1975). These registries along with the SEER catchment areas of greater/rural Georgia, California, Idaho, Kentucky, Louisiana, New Jersey, New York, Texas, and the Alaska Native tumor registry registries were the source for relative survival rates based on diagnoses during 2007 to 2021, with all cases followed through 2022.
+17
+ Median age at diagnosis was based on all previously listed registries plus Illinois.
+18
+ All other incidence metrics, including temporal trends and contemporary rates, were based on a customized data set that included registries supported by SEER and the Center for Disease Control and Prevention’s National Program of Cancer Registries covering nearly 100% of the population provided by the North American Association of Central Cancer Registries.
+19
+ All incidence data met the North American Association of Central Cancer Registries’ high‐quality standards.
+20
+Statistical analysis
+Cases were restricted to histologically confirmed invasive cancers diagnosed among females and classified according to the International Classification of Disease Oncology, third edition, site code C50.0 to 50.9, as lobular (8520), ductal (8500), mixed lobular (8522, 8524), and other breast cancers (8000‐8499, 8501‐8519, 8521, 8523, 8525‐9993). Because of changes in classification for ductal carcinoma over time, lobular cancers were compared to all other breast cancers combined (8000‐8519, 8521‐9993) in the incidence trend analysis. (Classification changes for lobular cancer were limited to noninvasive disease.) All statistics are confined to lobular‐only histology except for the characteristics of disease. Cases were further stratified by molecular subtype (hormone receptor [HR] status, estrogen receptor status, and human epidermal growth factor 2 status), tumor size (<2.0 cm, 2.0‐4.9 cm, and 5.0+ cm), and SEER summary stage (local, regional, distant, and unstaged). Race was stratified exclusive of Hispanic ethnicity for White, Black, Asian American and Pacific Islander (AAPI) and American Indian and Alaska Native (AIAN) and Hispanic ethnicity includes all races combined. Incidence and survival for AIAN women are confined to purchased/referred delivery area counties to reduce racial misclassification.
+Differences in characteristics between ILC and IDC were tested using a chi‐square test. Incidence rates were calculated using the National Cancer Institute’s software SEER*Stat version 8.4.4
+21
+ and are age adjusted to the 2000 US standard population and adjusted for delays. Annual percent change and average annual percent change (AAPC) were analyzed using the National Cancer Institute software Joinpoint version 5.3.0.0.
+22
+ Incidence rates were described as increasing or decreasing when the annual percent change or AAPC were statistically significant from zero (p < .05). Because of changes in histology coding in 2018, ILC trends were tested against all other remaining breast cancer trends over the whole time period using the parallel pairwise comparison test,
+23
+ which tests if one model can fit both trends. If different models are needed to fit the data, the trends are not similar. Estimated new cases of lobular breast cancer for 2025 were approximated using the 2025 breast cancer estimates previously published elsewhere,
+1
+ and applying the age distribution of lobular breast cancer cases diagnosed during 2017 to 2021. Ten‐year relative survival was confined to lobular (8520) and ductal (8500) histologies. A sensitivity analysis of 10‐year relative survival using SEER 17 registries was further restricted to HR‐positive (estrogen and/or progesterone) lobular and ductal breast cancer cases.
+Select findings
+Tumor characteristics
+Approximately 33,600 women are projected to be diagnosed with ILC in the United States in 2025 (Table 1). If ranked as a cancer site separate from breast, ILC would be the seventh most common cancer diagnosed among women, with 60% more cases than ovarian cancer in 2025.
+1
+TABLE 1
+Estimated new cases of lobular breast cancer by age in the United States, 2025.
+Age
+No.
+Percent
+<40 years
+410
+1
+40–49 years
+3280
+10
+50–59 years
+6310
+19
+60–69 years
+10,320
+31
+70–79 years
+9220
+27
+80+ years
+4060
+12
+All ages
+33,600
+Note: Percents may not add exactly to 100 because of rounding.
+Table 2 shows differences in disease characteristics between ILC, IDC and tumors with mixed lobular and ductal histology. During 2017 to 2021, lobular breast cancer accounted for 10.6% of histologically confirmed breast cancer cases in the United States. An additional 4% of cases were mixed ductal and lobular histology, which research has found shares more characteristics with ILC than IDC, but with better survival.
+24
+, 
+25
+TABLE 2
+Characteristics of invasive lobular and ductal carcinoma among women in the United States, 2017–2021.
+Prevalence (%)
+Lobular
+Ductal
+Mixed
+Remaining breast cancers
+Total cases
+10.6
+78.0
+4.0
+7.4
+Age at diagnosis
+20–39 years
+1.2
+5.1
+2.8
+3.9
+40–49 years
+9.8
+13.7
+12.7
+9.9
+50–64 years
+32.8
+35.4
+35.2
+30.2
+65+ years
+56.2
+45.8
+49.4
+56
+Molecular subtype
+HR+/HER2–
+90.0
+68.9
+87.7
+60.6
+HR+/HER2+
+4.4
+10.3
+6.7
+5.4
+HR–/HER2+
+0.5
+4.4
+0.9
+3.0
+HR–/HER2–
+1.5
+12.0
+2.4
+12.8
+Unknown
+3.6
+4.4
+2.4
+18.2
+Estrogen receptor status
+ER+
+96
+79.9
+95.5
+68.3
+ER–
+2.2
+18.1
+3.5
+18.2
+Unknown
+1.8
+1.9
+1
+13.6
+Tumor size
+<2.0 cm
+49
+57.3
+55.2
+47.6
+2‐4.9 cm
+32.5
+31
+33.7
+26.1
+5.0+ cm
+14.2
+7.3
+8.7
+10.7
+Unknown
+4.3
+4.5
+2.4
+15.6
+SEER stage
+Local
+65.6
+67.2
+65.1
+65.7
+Regional
+27.4
+26
+30.2
+16.2
+Distant
+5.7
+5.2
+3.8
+11.9
+Unstaged
+1.3
+1.5
+0.8
+6.2
+Note: Percents may not add exactly to 100 because of rounding.
+Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; SEER, Surveillance, Epidemiology, and End Results.
+ILC is more likely to be diagnosed at an older age than IDC (56% versus 46% of cases diagnosed among women aged 65 years or older, p < .05), with a median age at diagnosis of 66 years compared to 63 years. ILC is much more likely to be HR‐positive and HER2 negative compared to IDC (90% versus 69%, p < .05), with only 5% of ILC HER2 positive compared to 15% of IDC. Lobular breast cancers are twice as likely as ductal cancers to be 5 cm or larger (14% compared to 7%, p < .05) and are slightly less likely to be diagnosed at a localized stage (65.6% vs 67.2%; p < .05). Although reasons for larger tumors at diagnosis are not known, some studies have found that ILC is more difficult to detect through conventional mammography because of the linear growth pattern that causes less disturbance to the normal breast architecture than does ductal carcinoma.
+7
+, 
+8
+, 
+9
+, 
+26
+ These molecular and clinical characteristics distinguish ILC from IDC and are consistent with previous studies.
+26
+, 
+27
+Incidence trends
+The incidence of lobular breast cancer has increased from 6 cases per 100,000 women in 1975 to approximately 14 in 2021 (Figure 1), mirroring patterns for all other breast cancers that are largely driven by the widespread uptake of mammography screening.
+28
+ The increasing trend of ILC has only been interrupted by a brief decline during 1998 to 2004 after the Women’s Health Initiative reported increased breast cancer risk associated with menopausal hormone therapy,
+29
+ causing a drop in its use.
+30
+ The decline in ILC cases was slightly steeper than other breast cancers, consistent with research showing it to be more strongly associated with female hormone exposure than IDC.
+31
+FIGURE 1
+Lobular breast cancer incidence by race and ethnicity, United States, 1975–2021. AIAN indicates American Indian and Alaska Native; AAPI, Asian American and Pacific Islander. Rate is per 100,000 women, and age adjusted to the 2000 US standard population and adjusted for delays in reporting. Data for the year 2020 are shown separately from the trend line.
+Over the most recent decade (2012‐2021) incidence rates increased more steeply for ILC (2.8% per year) compared to other breast cancers combined (0.8% per year) (Table 3). The slower increase for nonlobular breast cancers is in part because approximately 1 in 6 are HR‐negative tumors, which are not increasing in incidence.
+32
+ Unlike other breast cancers, ILC incidence is increasing similarly in women younger than age 50 (2.9% per year) and women 50 and older (2.8% per year), as well as in women of every racial and ethnic groups, ranging from 2.5% per year among AIAN women to 4.4% among AAPI women. Increasing trends are confined to localized and regional stage disease (by 3.9% and 1.4% per year, respectively), whereas incidence of distant and unstaged disease was stable.
+TABLE 3
+Trends in incidence for invasive lobular breast cancer by age, race and ethnicity, and stage, 1998–2021.
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+AAPC, 2012–2021
+Similar to other breast cancers combined
+b
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+Years
+APC
+ILC
+Other breast
+Overall
+1998–2000
+−0.4
+2000–2004
+−4.8
+a
+2004–2016
+2.0
+a
+2016–2021
+3.4
+a
+2.8
+a
+0.8
+a
+No
+Age
+20–49 years
+1998–2002
+−3.0
+a
+2002–2018
+1.8
+a
+2018–2021
+5.3
+a
+2.9
+a
+1.3
+a
+No
+50+ years
+1998–2000
+−0.2
+2000–2004
+−5.4
+a
+2004–2014
+1.9
+a
+2014–2021
+3.1
+a
+2.8
+a
+0.5
+a
+No
+Race and ethnicity
+White
+1998–2000
+0.1
+2000–2004
+−5.0
+a
+2004–2016
+2.1
+a
+2016–2021
+3.6
+a
+2.9
+a
+0.6
+a
+No
+Black
+1998–2003
+−1.2
+2003–2021
+3.1
+a
+3.1
+a
+0.4
+a
+No
+American Indian/Alaska Native
+1998–2021
+2.5
+a
+2.5
+a
+1.1
+a
+No
+Asian American/Pacific Islander
+1998–2003
+−3.9
+2003–2021
+4.4
+a
+4.4
+a
+2.4
+a
+No
+Hispanic
+1998–2003
+−4.1
+a
+2003–2014
+2.4
+2014–2021
+4.2
+a
+3.8
+a
+1.4
+a
+No
+Stage
+Localized
+1998–2004
+−4.7
+a
+2004–2012
+2.6
+2012–2021
+3.9
+a
+3.9
+a
+1.2
+a
+No
+Regional
+1998–2000
+2.5
+2000–2004
+−4.2
+a
+2004–2007
+2.5
+a
+2007–2016
+0.0
+2016–2021
+2.5
+a
+1.4
+a
+−0.3
+No
+Distant
+1998–2002
+−0.3
+2002–2011
+3.3
+a
+2011–2021
+0.3
+0.3
+1.1
+a
+Yes
+Unstaged
+1998–2000
+5.4
+2000–2008
+−10.6
+2008–2021
+0.5
+0.5
+−1.5
+a
+Yes
+Note: Incidence rates were adjusted for delays in reporting. Annual percent change time periods vary according to changes in the slope of the trend line. Average annual percent change are provided to allow comparison over the same time period (2012–2021).
+Abbreviations: AAPC, average annual percent change; APC, annual percent change.
+a
+APC was statistically significant (p < .5).
+b
+Trends for lobular breast were tested for similarity with all other breast cancers combined (excluding lobular) using a test of parallelism.
+23
+Rising incidence for ILC, as well as other breast cancers, is thought to be driven by changing patterns in risk factors, such as increasing excess body weight,
+33
+ younger age at first menarche, later age at first birth, fewer children, later age at menopause, and increased alcohol consumption in some age groups.
+31
+, 
+34
+, 
+35
+, 
+36
+Contemporary incidence
+White women have the highest incidence rate of lobular breast cancer compared to other racial and ethnic groups (14.7 per 100,000 women) in the most recent time period (Figure 2) overall and for every age group (Figure 3). This is in contrast with IDC, for which Black women have the highest incidence rate before age 40 years, in part due to a higher risk of triple‐negative cancers, which are diagnosed at a younger age and are predominantly ductal carcinoma. For women of all racial and ethnic groups, risk increases through ages 70 to 79 years and then declines (Figure 3).
+FIGURE 2
+Incidence of invasive (A) ductal and (B) lobular carcinoma by race and ethnicity, 2017–2021. AIAN indicates American Indian and Alaska Native; AAPI, Asian American and Pacific Islander. Rate is per 100,000 and age adjusted to the 2000 US standard population and adjusted for delays in reporting.
+FIGURE 3
+Lobular breast cancer incidence by age and race and ethnicity, 2017–2021. AIAN indicates American Indian and Alaska Native; AAPI, Asian American and Pacific Islander. Rate is per 100,000 and age adjusted to the 2000 US standard population and adjusted for delays in reporting.
+Compared to White women, rates are approximately 33% to 55% lower in Black, Native American, and Hispanic women, and AAPI women are half as likely to be diagnosed with ILC. IDC incidence is less variable by race, with rates in White women only 30% higher than the lowest incidence rates among AAPI women.
+Survival
+Relative survival for women diagnosed with ILC is slightly higher than IDC seven years after diagnosis (90.4% vs 89.7%; Figure 4), after which this advantage dissipates likely because of difference in disease progression. Figure 4 shows 10‐year relative survival for ILC and IDC by stage at diagnosis. The 10‐year relative survival for those with ILC is higher for localized stage disease, but lower for both regional stage disease (76.4% vs 78.2%) and distant staged disease (12.1% vs 19.6%) compared to women with IDC. A sensitivity analysis restricted to HR‐positive tumors confirmed these results, with 10‐year survival for ILC lower than IDC for regional (77.5% vs 81.5%) and distant‐stage stage disease (11.0% vs 19.6%) (Supplemental figure 1).
+FIGURE 4
+Ten‐year relative breast cancer survival by subtype for (A) all stages, (B) localized, (C) regional, and (D) distant stage disease, 2007–2021. Relative survival is based on cases diagnosed from 2007 to 2021 and followed through 2022. Stage based on SEER summary stage. Shading around survival line is the 95% CI. SEER indicates Surveillance, Epidemiology, and End Results.
+These findings align with previous research allowing sufficient follow‐up time to detect survival divergence. For example, a recent report of MD Anderson patients with a total follow‐up of 4 decades reported 1‐, 5‐, and 15‐year overall survival rates of 80%, 26%, and 5% for IDC versus 85%, 28%, and 3% for ILC.
+37
+ Similarly, Pestalozzi et al. reported the combined outcomes of patients with invasive lobular versus ductal carcinoma from 15 International Breast Cancer Study Group clinical trials (median follow‐up, 13 years), and found risk for cancer recurrence or death 16% lower (hazard ratio, 0.84; 95% CI, 0.74‐0.95) within the first 6 years of diagnosis, but 54% higher (hazard ratio, 1.54; 95% CI, 1.31‐1.81) after 6 years.
+38
+ Less favorable long‐term prognosis for ILC is attributed to larger tumor size, a higher risk of late recurrence, multicentric growth, and contralateral breast cancer.
+2
+, 
+15
+, 
+39
+ Other unique molecular features, some of which derive from E‐cadherin depletion, may also contribute to differences in progression, as well as treatment efficacy.
+40
+ For example, although ILC responds well to endocrine therapy because of the predominance of estrogen‐driven tumors,
+41
+, 
+42
+ numerous studies show it is less responsive to neoadjuvant chemotherapy, contributing to a lower likelihood of breast‐conserving surgery compared to IDC.
+11
+, 
+43
+ Similarly, a recent National Cancer Database study reported that triple‐negative ILC was less responsive to neoadjuvant chemotherapy than triple‐negative IDC, despite similar odds of survival.
+44
+ In addition, although more than half of ILC cases are classified as a classic subtype, the remaining pathological variants (46% of cases) have higher risk of distant metastases and poorer outcomes, which also contributes to the long‐term survival disadvantage compared to IDC.
+45
+Concerns regarding possible understaging of ILC may also account for outcome differences. The small, monomorphic/bland‐appearing ILC cells can be more challenging to detect as metastatic foci in lymph nodes based on routine hematoxylin and eosin staining. Although cytokeratin immunohistochemistry has been championed by some as a strategy to overcome this difficulty,
+46
+ others have found that immunohistochemistry is only effective at detecting higher rates of isolated tumor cells in cases of ILC, but not micrometastatic or macrometastatic disease.
+47
+The extent to which alternative breast cancer imaging modalities such as breast magnetic resonance imaging (MRI) and/or contrast‐enhanced mammography may contribute to existing and future changes in ILC incidence is uncertain at present but warrants further research. Breast MRI is currently not recommended by the American Society of Breast Surgeons for routine preoperative use in patients who have a new breast cancer diagnosis but it is considered standard of care in enhanced screening (as an adjunct to annual mammography) for women at high‐risk for breast cancer.
+48
+, 
+49
+ Contrast‐enhanced mammography has the potential for improving breast cancer detection in a fashion similar to MRI because of the ability to evaluate sites of increased vascularity, but at a reduced cost. Both of these modalities have been discussed as possible strategies for improving early detection and treatment planning of ILC, but data are insufficient at present to make definitive recommendations.
+26
+, 
+50
+, 
+51
+, 
+52
+CONCLUSIONS
+ILC has unique characteristics that can contribute to delayed detection, resistance to therapy, and poorer prognosis for advanced disease. Distinguishing this breast cancer subtype from ductal carcinoma in research and clinical trials is increasingly important to help identify risk factors, facilitate treatment efficacy, and lead to better understanding of mechanisms of metastasis, all of which will improve outcomes for the increasing number of women diagnosed with this cancer subtype.
+LIMITATIONS
+The strength of this study is the use of nationwide population‐based cancer registry data to provide detailed information on the occurrence of a breast cancer subtype that is often overlooked. A limitation of these data is the inability to control for comorbidities, screening behavior, or risk factors, such as smoking. We were also unable to provide mortality data because histologic subtype is not reported on death certificates. Additionally, we were unable to analyze lobular breast cancer by its heterogeneous variants that may contribute to differences in survival. Survival statistics were not adjusted for differences in grade or receipt of treatment and was limited to first primary cancer without information on recurrence.
+AUTHOR CONTRIBUTIONS
+Angela N. Giaquinto: Writing—original draft; investigation; methodology; conceptualization; visualization; writing—review & editing; and formal analysis. Rachel A. Freedman: Writing—review & editing. Lisa A. Newman: Writing—review & editing. Ahmedin Jemal: Writing—review & editing. Rebecca L. Siegel: Writing—review & editing; conceptualization; and validation.
+CONFLICT OF INTEREST STATEMENT
+Lisa A. Newman reports grants from the Breast Cancer Research Foundation, the Fashion Footwear Association of New York, and Genentech, all outside the submitted work. Rachel A Freedman reports grants from Puma Biotechnology, Eisai, and Genentech/Roche, which are outside the submitted work. The other authors declare no conflicts of interest.
+Supporting information
+Supplementary Material
+Supplementary Material

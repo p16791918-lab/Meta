@@ -1,0 +1,1029 @@
+record_id=66 pmid=34427920 doi=10.1002/cncr.33846
+SOURCE: manual-pdf
+TITLE: Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women
+
+4384
+Cancer    December 1, 2021
+Original Article
+Age Distributions of Breast Cancer Diagnosis and Mortality by 
+Race and Ethnicity in US Women
+R. Edward Hendrick, PhD
+1; Debra L. Monticciolo, MD2; Kelly W. Biggs, MD3; and Sharp F. Malak, MD, MPH4
+BACKGROUND: Surveillance, Epidemiology, and End Results (SEER) data from 1973-­2010 have been used to show that minority women 
+have disproportionately higher percentages of breast cancers diagnosed at younger ages in comparison with White women. METHODS: 
+The authors analyzed SEER 21 invasive breast cancer incidence data for 2014-­2017 and National Center for Health Statistics mortality 
+data for 2014-­2018 and compared invasive incidence and mortality by age in non-­Hispanic Black (NH-­Black), Asian American/Pacific 
+Islander (AAPI), Native American, and Hispanic women with those in non-­Hispanic White (NH-­White) women. They evaluated inci-
+dence rates and percentages of invasive breast cancer cases and breast cancer deaths occurring before the age of 50 years along with 
+advanced-­stage incidence rates and percentages in minority women versus NH-­White women. RESULTS: Recent SEER data showed 
+that invasive breast cancers were diagnosed at significantly younger ages in minority women versus NH-­White women. Among women 
+diagnosed with invasive breast cancer, compared with NH-­White women, minority women were 72% more likely to be diagnosed under 
+the age of 50 years (relative risk [RR], 1.72; 95% confidence interval [CI], 1.70-­1.75), 58% more likely to be diagnosed with advanced-­stage 
+breast cancer under the age of 50 years (RR, 1.58; 95% CI, 1.55-­1.61), and 24% more likely to be diagnosed with advanced-­stage (regional 
+or distant) breast cancer at all ages (RR, 1.24; 95% CI, 1.23-­1.25). Among women dying of breast cancer, minority women were 127% more 
+likely to die under the age of 50 years than NH-­White women. CONCLUSIONS: NH-­Black, AAPI, Native American, and Hispanic women 
+have higher proportions of invasive breast cancers at younger ages and at advanced stages and breast cancer deaths at younger ages 
+than NH-­White women. Cancer 2021;127:4384-4392. © 2021 American Cancer Society. 
+LAY SUMMARY: 
+•	This study analyzes the most recently available data on invasive breast cancers and breast cancer deaths in US women by age and 
+race/ethnicity.
+•	Its findings show that non-­Hispanic Black, Asian American/Pacific Islander, Native American, and Hispanic women have a higher per-
+centage of invasive breast cancers at younger ages and at more advanced stages and a higher percentage of breast cancer deaths at 
+younger ages than non-­Hispanic White women. 
+KEYWORDS: breast cancer, early detection of cancer, female, incidence, minority groups, mortality, screening mammography.
+INTRODUCTION
+In 2009, the US Preventive Services Task Force (USPSTF) revised its guidelines for screening mammography in women 
+at average risk for breast cancer.1 Before 2009, the USPSTF and other institutions recommended that average-­risk women 
+begin annual screening mammography at the age of 40 years. Although organizations such as the American College of 
+Radiology (ACR), the National Comprehensive Cancer Network, and the American Society of Breast Surgeons continue 
+to recommend this screening regimen, USPSTF recommends women begin screening at the age of 50 years and have 
+biennial mammograms through the age of 74 years. Debate continues over these guidelines, with other organizations 
+providing evidence that USPSTF guidelines will likely result in significantly more breast cancers deaths in comparison 
+with their own guidelines on the basis of age alone.2
+In a June 2018 research letter, Stapleton et al3 wrote that the diagnosis of invasive breast cancer cases peaked for 
+Black, Asian, and Hispanic women in their 40s but peaked for White women in their mid-­60s. They noted that USPSTF 
+breast screening guidelines may adversely affect minorities by not accounting for these differences.
+Other studies have corroborated differences in the epidemiology of breast cancer between minority women and 
+White women. Summarizing findings based on the National Cancer Institute’s Surveillance, Epidemiology, and End 
+Corresponding Author: R. Edward Hendrick, PhD, Department of Radiology, University of Colorado School of Medicine, Anschutz Medical Campus, 12700 E 19th Ave, 
+Mail Stop C278, Aurora, CO 80045 (edward.hendrick@gmail.com).
+1 Department of Radiology, University of Colorado School of Medicine, Aurora, Colorado; 2 Department of Radiology, Baylor Scott & White Healthcare–­Central Texas, 
+Temple, Texas; 3 Department of Radiology, Tyrone Regional Health Network, Tyrone, Pennsylvania; 4 Associated Radiologists, Ltd, St. Bernards Healthcare, Jonesboro, 
+Arkansas
+See editorials on pages 4356-­4358 and 4359-4361, this issue.
+Additional supporting information may be found in the online version of this article. 
+DOI: 10.1002/cncr.33846, Received: November 1, 2020; Revised: April 29, 2021; Accepted: May 12, 2021, Published online August 24, 2021 in Wiley Online Library 
+­(wileyonlinelibrary.com)
+
+Breast Cancer Diagnosis and Mortality by Race/Hendrick et al
+4385
+Cancer    December 1, 2021
+Results (SEER) data up to 2011, Daly and Olopade4 
+noted that, compared with White women, Black women 
+were more likely to be diagnosed with breast cancer under 
+the age of 50 years, were more likely to be diagnosed with 
+regional or distant cancer, and were more likely to die 
+of breast cancer. They asserted that the reasons for these 
+differences were multifactorial, and they cited tumor bi-
+ology, genomics, comorbidities, and patterns of care as 
+key factors. DeSantis et al5 focused on 2017 SEER data 
+and found similar disparities; for example, the median 
+age at breast cancer death for Black women was 62 years, 
+whereas it was 70 years for White women. DeSantis et 
+al confirmed trends identified by Daly and Olopade and 
+also highlighted regional differences, with Black women 
+more seriously affected by breast cancer than White 
+women, particularly in the southern United States.
+Nahleh et al6 showed similar trends in tumor biol-
+ogy and in the advanced presentation of disease among 
+Hispanic and non-­Hispanic Black (NH-­Black) women 
+in comparison with non-­Hispanic White (NH-­White) 
+women. Revised ACR guidelines for women at higher 
+than average risk for breast cancer, released in 2018, high-
+light Black women and women of Ashkenazi Jewish de-
+scent as having special risks for aggressive breast cancers.7 
+Although the ACR does not advise unique screening reg-
+imens based on race alone, it does cite these disparities 
+to emphasize that all women should be assessed for their 
+degree of risk for breast cancer by the age of 30 years.
+Using SEER 9 data from 1973-­1999 combined with 
+SEER 18 data from 2000-­2010, Stapleton et al3 based 
+their analysis on invasive breast cancer case distributions, 
+expressed as a percentage at each age in females aged 40 
+to 75 years, by age and race/ethnicity. The SEER 9 regis-
+tries have provided incidence data since 1973 on approx-
+imately 9% of the US population, but they include only 
+cancer case numbers, not population or incidence rates, by 
+race and ethnic (Hispanic/non-­Hispanic) background.8,9 
+SEER 18 expanded to 18 cancer incidence registries in 
+2000 and included approximately 27.8% of the US pop-
+ulation in 2010.10 Given the importance of their findings 
+and their implications concerning racial disparities, we 
+thought it worthwhile to revisit breast cancer incidence 
+trends using more recent data with broader representa-
+tion of the US population. We also include recent data on 
+distributions of breast cancer deaths by race and ethnicity.
+MATERIALS AND METHODS
+All data used in this work were anonymized, publicly avail-
+able data from SEER and from the National Center for 
+Health Statistics (NCHS) and, therefore, did not require 
+institutional review board approval. We analyzed age-­
+adjusted, delay-­adjusted invasive breast cancer incidence 
+rates in females for the years 2014-­2017 by using data from 
+SEER 21, which includes 21 registries representing 36.7% 
+of the total US population.8,11 Using SEER*Stat software 
+(versions 8.3.6 and 8.3.8; National Cancer Institute), we 
+examined invasive breast cancer incidence rates and mor-
+tality rates by the following race and ethnicity cohorts: 
+NH-­White women, NH-­Black women, Asian American/
+Pacific Islander (AAPI) women, American Indian/Alaska 
+Native (Native American) women, and Spanish-­Hispanic-­
+Latina women (called Hispanic here for brevity) as well as 
+minority women collectively.
+As in Stapleton et al,3 we included only invasive 
+breast cancers and determined the percentage of inva-
+sive breast cancer cases at each age from 40 to 75 years in 
+each cohort. We also evaluated population distributions 
+by age, along with breast cancer incidence rates by age at 
+diagnosis, as percentages of the total from the ages of 40 
+to 75 years for each race or ethnicity cohort.
+We used SEER 21 data from 2014-­2017 for fe-
+males aged 40 to 75 years to determine the median age, 
+interquartile range, and mode (ie, peak count) age of 
+invasive breast cancer incidence in each race and eth-
+nicity cohort. We used 2014-­2017 SEER 21 data for 
+women of all ages to determine the percentage of in-
+vasive breast cancer cases diagnosed under the age of 
+50 years, the percentage of invasive breast cancers diag-
+nosed at advanced (regional or distant) stages, and the 
+percentage of advanced breast cancers diagnosed under 
+50 years of age for each race/ethnicity cohort. We used 
+NCHS breast cancer mortality data from 2014-­2018 
+for women of all ages to determine the percentage of 
+breast cancer deaths occurring under the age of 50 years 
+for each race/ethnicity cohort.12
+Two-­tailed z tests with an α value of .05 were used 
+to test the significance of differences between NH-­White 
+women and each minority cohort and minority women 
+collectively in the proportion of women under the age of 
+50 years who were diagnosed with invasive breast cancer, 
+the proportion of women under the age of 50 years and 
+of all ages who presented with advanced-­stage (regional or 
+distant) breast cancer rather than localized invasive dis-
+ease, and the proportion of women who died of breast 
+cancer under 50 years of age.
+To remove population distribution effects, we com-
+pared invasive breast cancer incidence rates, advanced-­
+stage breast cancer incidence rates, and breast cancer 
+mortality rates for women under the age of 50 years in 
+each race/ethnicity group. We further compared ratios 
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Original Article
+4386
+Cancer    December 1, 2021
+of advanced breast cancer rates to invasive breast cancers 
+rates for women under the age of 50 years and of breast 
+cancer mortality rates to invasive breast cancer rates 
+for women under the age of 50 years. The same 2014-­
+2017 SEER 21 incidence data and the same 2014-­2018 
+NCHS mortality data used in the aforementioned anal-
+yses were used for these analyses. We determined rela-
+tive risks (RRs), 95% confidence intervals (CIs), and P 
+values for RRs for each minority group in comparison 
+with NH-­White women, again by using 2-­tailed z tests 
+with an α value of .05.
+The supporting information details methods used 
+to quantify invasive breast cancer distribution differences 
+between minority cohorts and NH-­White women and to 
+quantify the relative contributions of population distribu-
+tion differences and invasive breast cancer rate (or breast 
+cancer mortality rate) distribution differences to case dis-
+tribution differences.
+For women of all ages, RRs and 95% CIs for 1) 
+the percentage of women with invasive breast cancer di-
+agnosed under the age of 50 years, 2) the percentage of 
+women under the age of 50 years with invasive breast can-
+cer who were diagnosed with advanced-­stage (regional or 
+distant) disease, 3) the percentage of women of all ages 
+with invasive breast cancer who were diagnosed with 
+advanced-­stage disease, and 4) the percentage of women 
+dying of breast cancer who died under the age of 50 years 
+were computed by standard statistical methods for each 
+minority cohort and for all minorities collectively in com-
+parison with NH-­White women.13
+RESULTS
+Our analysis of the SEER 21 database for the years 
+2014-­2017 included 362,503 invasive breast cancers in 
+women of all ages, including 278,871 invasive breast 
+cancers in women aged 40 to 75 years. An analysis of 
+the SEER 9 and SEER 18 databases for 1973-­2010 in-
+cluded 725,554 invasive breast cancers in women aged 
+40 to 75  years. An analysis of NCHS mortality data 
+for 2014-­2018 included 208,329 female breast cancer 
+deaths.
+The distribution of invasive breast cancers by age at 
+diagnosis as a percentage of the total for the ages of 40 
+to 75 years, based on 2014-­2017 SEER 21 data (Fig. 1), 
+shows that incidence tends to occur at younger ages in 
+each minority cohort in comparison with NH-­White 
+women. Table 1 shows the population composition, me-
+dian age at diagnosis, interquartile range, and mode age 
+at diagnosis for each race/ethnicity cohort for women 40 
+to 75 years old. Compared with SEER data spanning the 
+years 1973-­2010,3 recent SEER incidence data show an 
+increase in the median age at diagnosis of 1 to 2 years for 
+each race/ethnicity cohort. The mode age also has shifted 
+upward for each cohort: by 2 years from 65 to 67 years for 
+NH-­White women and by more dramatic shifts for each 
+minority cohort, including 15 years from 50 to 65 years 
+for NH-­Black women, 10 years from 49 to 59 years for 
+AAPI women, 8  years from 51 to 59  years for Native 
+American women, and 10 years from 48 to 58 years for 
+Hispanic women.
+For women of all ages, Table 2 shows the numbers 
+and percentages of invasive cancers diagnosed before 
+the age of 50 years for each race/ethnicity cohort along 
+with RRs and 95% CIs for diagnosis before the age of 
+50 years for each minority cohort in comparison with 
+NH-­White women. Among women diagnosed with in-
+vasive breast cancer, each minority cohort had a signifi-
+cantly higher RR of having an invasive breast cancer 
+diagnosed before the age of 50 years than NH-­White 
+women (P  <  .0001 for each), with Hispanic women 
+having the highest risk (RR, 1.93; 95% CI, 1.90-­1.96). 
+Among women with invasive breast cancer, minority 
+women collectively had a 72% higher risk of having 
+an invasive breast cancer diagnosed before the age of 
+50 years than NH-­White women (RR, 1.72; 95% CI, 
+1.70-­1.75).
+Each minority cohort also had a significantly higher 
+risk of being diagnosed with an advanced-­stage breast can-
+cer in comparison with NH-­White women; this was true 
+both for women of all ages and for women under the age 
+Figure 1.  Distribution of invasive breast cancer cases, 
+expressed as percentages of the total for the ages of 40 to 
+75 years, by the age at diagnosis for each race/ethnicity cohort 
+according to 2014-­2017 SEER 21 data. AAPI indicates Asian 
+American/Pacific Islander; NH-­Black, non-­Hispanic Black; NH-­
+White, non-­Hispanic White; SEER, Surveillance, Epidemiology, 
+and End Results.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Breast Cancer Diagnosis and Mortality by Race/Hendrick et al
+4387
+Cancer    December 1, 2021
+of 50 years (Table 3). Minority women collectively had a 
+24% higher risk than NH-­White women of an advanced 
+breast cancer at diagnosis (RR, 1.24; 95% CI, 1.23-­1.25), 
+whereas for women under the age of 50 years, minority 
+women collectively had a 58% higher risk of an advanced 
+breast cancer at diagnosis (RR, 1.58; 95% CI, 1.55-­1.61; 
+P < .0001 for each).
+The distribution of breast cancer deaths by age as a 
+percentage of the total for all ages based on 2014-­2018 
+NCHS data (Fig. 2) shows that each minority cohort had 
+a higher proportion of breast cancer deaths at younger 
+ages than NH-­White women. Among women of all ages 
+dying of breast cancer, each minority cohort had a signifi-
+cantly higher risk of dying before the age of 50 years than 
+NH-­White women (P < .0001 for each; Table 4); NH-­
+Black women had a 111% higher risk, AAPI women had 
+a 129% higher risk, and Hispanic women had a 164% 
+higher risk of dying before the age of 50 years in compar-
+ison with NH-­White women. Among women dying of 
+breast cancer, minority women collectively had a 127% 
+higher risk of dying before the age of 50 years than NH-­
+White women (RR, 2.27; 95% CI, 2.21-­2.33).
+Minority women have population distributions 
+skewed to younger ages in comparison with NH-­White 
+women (Fig. 3), and this contributes to higher percent-
+ages of invasive breast cancers and breast cancer deaths at 
+younger ages. Distributions of invasive breast cancer rates 
+by the age at diagnosis for women aged 40 to 75 years 
+from SEER 21 are shown in Figure 4. Lower incidence 
+rates at older ages for minority women (compared with 
+NH-­White women) also contribute to higher relative 
+percentages at younger ages when they are plotted as a 
+percentage of the total number of cancers for each cohort.
+Table  5 reports invasive breast cancer incidence 
+rates, advanced-­stage breast cancer incidence rates, and 
+breast cancer mortality rates for women under 50 years 
+of age along with RRs, 95% CIs, and P values for each 
+minority cohort in comparison with NH-­White women. 
+This analysis removes population distribution differences 
+by comparing incidence and mortality rates for women 
+under the age of 50 years rather than comparing percent-
+ages of invasive breast cancers or breast cancer deaths oc-
+curring under the age of 50 years. Table 5 shows that rates 
+of invasive breast cancer, advanced breast cancers, and 
+TABLE 1.  Population Composition, Median Ages at Diagnosis (and IQRs), Mean Ages at Diagnosis (and SDs), 
+and Mode Ages (Ages at Peak Diagnosis) for Invasive Breast Cancers by Cohort According to 2014-­2017 
+SEER 21 Data for Females Aged 40 to 75 Years
+Female Cohort
+Population in 
+Woman-­y
+% of Female 
+Population
+Median Age at 
+Diagnosis, y
+IQR, y
+Mean Age at 
+Diagnosis ± SD, y
+Mode Age at 
+Diagnosis, y
+NH-­White
+60,919,444
+60.8
+61
+53-­67
+60.4 ± 9.2
+67
+NH-­Black
+11,709,837
+11.7
+58
+51-­66
+58.5 ± 9.3
+65
+AAPI
+10,602,460
+10.6
+57
+49-­65
+57.3 ± 9.6
+59
+Native American
+652,849
+0.7
+59
+51,66
+58.8 ± 9.3
+60
+Hispanic
+16,379,469
+16.3
+56
+49-­64
+57.0 ± 9.5
+50
+All Women Aged 40-­75 y
+100,264,059
+100
+60
+52-­67
+58.6 ± 9.4
+65
+Abbreviations: AAPI, Asian American/Pacific Islander; IQR, interquartile range; NH-­Black, non-­Hispanic Black; NH-­White, non-­Hispanic White; SD, standard devia-
+tion; SEER, Surveillance, Epidemiology, and End Results.
+TABLE 2.  Numbers of Invasive Breast Cancers and Numbers and Percentages of Women Diagnosed With 
+Invasive Breast Cancer Under the Age of 50 Years in Each Race/Ethnicity Cohort According to 2014-­2017 
+SEER 21 Data for Females of All Ages
+Invasive Breast Cancer Diagnosed Under Age of 50 y
+No. of Invasive Breast 
+Cancers
+No. Under Age of 
+50 y
+% Under Age of 
+50 y
+RR of Invasive Cancer at 
+<50 y
+95% CI
+NH-­White
+246,943
+37,685
+15.3
+1
+—­
+NH-­Black
+39,761
+8782
+22.1
+1.45
+1.42-­1.48
+AAPI
+29,037
+8099
+27.9
+1.83
+1.79-­1.87
+Native American
+1336
+297
+22.2
+1.46
+1.32-­1.61
+Hispanic
+40,609
+11,938
+29.4
+1.93
+1.89-­1.96
+All Minorities
+110,743
+29,116
+26.3
+1.72
+1.70-­1.75
+Abbreviations: AAPI, Asian American/Pacific Islander; CI, confidence interval; NH-­Black, non-­Hispanic Black; NH-­White, non-­Hispanic White; RR, relative risk; 
+SEER, Surveillance, Epidemiology, and End Results.
+Among women diagnosed with invasive breast cancer, the RRs and 95% CIs compare a given minority woman diagnosed under the age of 50 years with a NH-­
+White woman.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Original Article
+4388
+Cancer    December 1, 2021
+breast cancer deaths are lower for AAPI, Native American, 
+and Hispanic women than NH-­White women. For NH-­
+Black women, on the other hand, although invasive breast 
+cancer rates are slightly lower than those of NH-­White 
+women, rates of advanced breast cancers are significantly 
+higher (by 18%) and rates of breast cancer deaths are 
+significantly higher (by 88%) than those of NH-­White 
+women.
+Table 6 shows ratios of advanced-­stage breast can-
+cer rates to invasive breast cancer rates in women under 
+the age of 50 years for each race/ethnicity cohort along 
+with RRs, 95% CIs, and P values of these ratios for each 
+minority cohort in comparison with NH-­White women. 
+Significantly higher ratios of advanced breast cancer rates 
+to invasive breast cancer rates exist for NH-­Black, Native 
+American, and Hispanic women under the age of 50 years 
+in comparison with NH-­White women under the age of 
+50 years.
+Table 6 also shows ratios of breast cancer mortal-
+ity rates to invasive breast cancer rates in women under 
+the age of 50 years for each race/ethnicity cohort along 
+with RRs, 95% CIs, and P values of these ratios for 
+each minority cohort in comparison with NH-­White 
+women. Similarly, significantly higher breast cancer mor-
+tality to incidence rate ratios exist for NH-­Black, Native 
+American, and Hispanic women under the age of 50 years 
+in comparison with NH-­White women under the age of 
+50 years. Significantly lower mortality to incidence rates 
+TABLE 3.  Numbers of Invasive BCs of Known Stages and Numbers and Percentages of Women Diagnosed With Advanced-­Stage (Regional or 
+Distant) BC for Each Race/Ethnicity Cohort and Numbers and Percentages of Advanced BCs Occurring Under the Age of 50 Years According to 
+2014-­2017 SEER 21 Data for Females of All Ages
+Advanced-­Stage (Regional or Distant) Breast Cancer (BC)
+Advanced-­Stage BC Under Age of 50 y
+No. of Invasive 
+BCsa
+No. of 
+Advanced BCs
+% Advanced 
+BCs
+RR of Advanced 
+BCs
+95% CI
+No. of 
+Advanced BCs 
+at <50 y
+% Advanced 
+BCs at <50 y
+RR of Advanced 
+BCs at <50 y
+95% CI
+NH-­White
+244,681
+75,193
+30.7
+1
+—­
+15,038
+20.0
+1
+NH-­Black
+39,444
+16,319
+41.4
+1.35
+1.33-­1.36
+4284
+26.3
+1.31
+1.27-­1.35
+AAPI
+29,432
+9756
+33.1
+1.08
+1.06-­1.10
+3280
+33.6
+1.68
+1.63-­1.73
+Native American
+1413
+525
+37.2
+1.21
+1.13-­1.29
+152
+29.0
+1.45
+1.27-­1.66
+Hispanic
+40,181
+15,546
+38.7
+1.26
+1.24-­1.28
+5614
+36.1
+1.81
+1.76-­1.85
+All Minorities
+110,470
+42,146
+38.2
+1.24
+1.23-­1.25
+13,330
+31.6
+1.58
+1.55-­1.61
+Abbreviations: AAPI, Asian American/Pacific Islander; BC, breast cancer; CI, confidence interval; NH-­Black, non-­Hispanic Black; NH-­White, non-­Hispanic White; RR, relative risk; SEER, Surveillance, Epidemiology, 
+and End Results.
+The RRs and 95% CIs compare a woman in each minority cohort diagnosed with advanced-­stage breast cancer (left half) or diagnosed with an advanced-­stage breast cancer under the age of 50 years (right half) with 
+a NH-­White woman.
+aIncludes only invasive BCs of known stages.
+Figure 2.  Distribution of female breast cancer deaths by age 
+at death, expressed as percentages of the total from the ages 
+of 20 to 85+ years, for each race/ethnicity cohort according to 
+2014-­2018 NCHS mortality data. Data points represent 5-­year 
+age groups; the data points for the ages of 20 to 24 years are 
+plotted at 22 years and so forth. The last (farthest right) data 
+points represent the percentages of breast cancer deaths for 
+women aged 85 years or older. AAPI indicates Asian American/
+Pacific Islander; NCHS, National Center for Health Statistics; 
+NH-­Black, non-­Hispanic Black; NH-­White, non-­Hispanic White.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Breast Cancer Diagnosis and Mortality by Race/Hendrick et al
+4389
+Cancer    December 1, 2021
+exist for AAPI women versus NH-­White women under 
+the age of 50 years.
+DISCUSSION
+Our analysis of the most recent SEER incidence data 
+shows that in terms of case distribution, invasive breast 
+cancers occur at younger ages in NH-­Black, AAPI, Native 
+American, and Hispanic women versus NH-­White 
+women. Among women diagnosed with invasive breast 
+cancer, minority women collectively have a significant 
+72% higher risk of being diagnosed under the age of 
+50 years than NH-­White women, with Hispanic women 
+having a 93% higher risk and AAPI women having an 
+83% higher risk than NH-­White women.
+Our analysis also shows that minority women pres-
+ent with more advanced-­stage breast cancers than NH-­
+White women; this is true both for women of all ages 
+and for women under the age of 50 years. Collectively, 
+minority women have a significant 24% higher risk of 
+being diagnosed with regional-­ or distant-­stage breast 
+cancer than NH-­White women, with NH-­Black women 
+having a 35% higher risk and Hispanic women having a 
+26% higher risk than NH-­White women. When we con-
+sider women under the age of 50 years, minority women 
+collectively have a significant 58% higher risk of being 
+diagnosed with an advanced-­stage breast cancer than 
+NH-­White women, with individual minority cohort 
+RRs ranging from 31% higher for NH-­Black women 
+to 81% higher for Hispanic women in comparison with 
+NH-­White women under the age of 50 years. The higher 
+TABLE 4.  Numbers of Breast Cancer Deaths and Numbers and Percentages of Breast Cancer Deaths Under 
+the Age of 50 Years in Each Race/Ethnicity Cohort According to 2014-­2018 NCHS Data for Females of All 
+Ages
+Breast Cancer Deaths Under Age of 50 y
+No. of Total Breast 
+Cancer Deaths
+No. Under Age of 50 y
+% Under Age of 50 y
+RR of Cancer Death at 
+<50 y
+95% CI
+NH-­White
+154,916
+11,817
+7.6
+1
+—­
+NH-­Black
+31,418
+5066
+16.1
+2.11
+2.05-­2.18
+AAPI
+6386
+1115
+17.5
+2.29
+2.16-­2.42
+Native American
+1041
+129
+12.4
+1.62
+1.38-­1.91
+Hispanic
+14,568
+2935
+20.1
+2.64
+2.55-­2.74
+All Minorities
+53,413
+9245
+17.3
+2.27
+2.21-­2.33
+Abbreviations: AAPI, Asian American/Pacific Islander; CI, confidence interval; NCHS, National Center for Health Statistics; NH-­Black, non-­Hispanic Black; NH-­
+White, non-­Hispanic White; RR, relative risk.
+Among women dying of breast cancer, the RRs and 95% CIs compare a given minority woman dying before the age of 50 years with a NH-­White woman.
+Figure 3.  Population distributions as percentages of the total 
+for women aged 40 to 75 years by race/ethnicity according to 
+2014-­2017 SEER 21 data. Note that distributions are larger for 
+each minority cohort at younger ages. AAPI indicates Asian 
+American/Pacific Islander; NH-­Black, non-­Hispanic Black; NH-­
+White, non-­Hispanic White; SEER, Surveillance, Epidemiology, 
+and End Results.
+Figure 4.  Distribution of invasive breast cancer rates (per 
+100,000 women) by the age at diagnosis for women aged 40 to 
+75 years according to 2014-­2017 SEER 21 data. AAPI indicates 
+Asian American/Pacific Islander; NH-­Black, non-­Hispanic 
+Black; NH-­White, non-­Hispanic White; SEER, Surveillance, 
+Epidemiology, and End Results.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Original Article
+4390
+Cancer    December 1, 2021
+proportion of later-­stage breast cancer diagnoses means 
+that more aggressive treatment is needed among minority 
+women with breast cancer, and this causes a greater soci-
+etal burden.
+Among women dying of breast cancer, minority 
+women collectively have a 127% higher risk of dying 
+under the age of 50 years than NH-­White women, with 
+Hispanic women having a 164% higher risk, AAPI 
+women having a 129% higher risk, and NH-­Black 
+women having a 111% higher risk than NH-­White 
+women. The fact that disparities in breast cancer mor-
+tality between minority women and NH-­White women 
+exceed disparities in breast cancer incidence amplifies 
+the significant negative societal impact experienced by 
+minority women.
+Differences in population distributions between mi-
+nority cohorts and NH-­White women are responsible for 
+most of the differences seen in invasive breast cancer dis-
+tributions in women 40 to 75 years old: more than three-­
+quarters of the difference for NH-­Black women, more 
+than half the difference for AAPI women, and almost all 
+the difference for Native American and Hispanic women 
+(see the supporting information). Similarly, in comparison 
+with NH-­White women, population differences account 
+for approximately half of the mortality distribution dif-
+ferences for NH-­Black and AAPI women, approximately 
+three-­quarters of the difference for Hispanic women, and 
+all the difference for Native American women.
+When population distribution differences are re-
+moved by comparisons of invasive breast cancer incidence 
+rates, advanced-­stage breast cancer rates, and mortality 
+rates for women under the age of 50 years, a different 
+picture emerges. The RR of invasive breast cancers for 
+women under the age of 50 years is marginally lower for 
+NH-­Black women and is significantly lower for other mi-
+nority cohorts in comparison with NH-­White women. 
+RRs of advanced-­stage breast cancers and breast cancer 
+deaths are significantly higher for NH-­Black women than 
+NH-­White women under the age of 50 years (by 18% 
+and 88%, respectively), whereas both metrics are signifi-
+cantly lower for other minority cohorts in comparison 
+with NH-­White women under the age of 50 years.
+In women under the age of 50  years, ratios of 
+advanced-­stage breast cancer incidence rates to invasive 
+breast cancer incidence rates were significantly higher for 
+NH-­Black, Native American, and Hispanic women in 
+comparison with NH-­White women; they ranged from 
+15% higher for Hispanic women to 21% higher for NH-­
+Black women. Similarly, ratios of breast cancer mortality 
+rates to invasive breast cancer incidence rates for women 
+TABLE 5.  For Women Younger Than 50 Years of Age, Invasive Breast Cancer Incidence Rates, Advanced-­Stage (Regional Plus Distant) Breast 
+Cancer Incidence Rates, and Breast Cancer Mortality Rates Per 100,000 Women for Each Race/Ethnicity Cohort and RRs of Each Minority 
+Cohort in Comparison With NH-­White Women (Along With 95% CIs and P Values for the Significance of Each RR Being Distinct From 1)
+Race/Ethnicity
+Invasive Breast Cancer Incidence
+Advanced-­Stage Breast Cancer Incidencea
+Breast Cancer Mortality
+Incidence Rate
+RR
+95% CI
+P
+Incidence Rate
+RR
+95% CI
+P
+Mortality Rate
+RR
+95% CI
+P
+NH-­White
+49.2
+1
+19.6
+1
+4.0
+1
+NH-­Black
+47.9
+0.97
+0.95-­1.00
+.03
+23.1
+1.18
+1.14-­1.22
+<.0001
+7.5
+1.88
+1.82-­1.94
+<.0001
+AAPI
+45.5
+0.92
+0.90-­0.95
+<.0001
+17.7
+0.91
+0.87-­0.94
+<.0001
+3.0
+0.74
+0.69-­0.79
+<.0001
+Native American
+28.6
+0.58
+0.52-­0.65
+<.0001
+13.4
+0.68
+0.58-­0.80
+<.0001
+3.0
+0.76
+0.64-­0.90
+.002
+Hispanic
+36.8
+0.75
+0.73-­0.76
+<.0001
+16.9
+0.87
+0.84-­0.89
+<.0001
+3.2
+0.81
+0.78-­0.84
+<.0001
+Abbreviations: AAPI, Asian American/Pacific Islander; CI, confidence interval; NH-­Black, non-­Hispanic Black; NH-­White, non-­Hispanic White; RR, relative risk.
+Incidence and mortality rates are presented per 100,000 women.
+aAdvanced-­stage (regional and distant) breast cancers.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Breast Cancer Diagnosis and Mortality by Race/Hendrick et al
+4391
+Cancer    December 1, 2021
+under the age of 50  years were significantly higher for 
+NH-­Black, Native American, and Hispanic women in 
+comparison with NH-­White women; they ranged from 
+8% higher for Hispanic women to 93% higher for NH-­
+Black women. In women under the age of 50 years, the 
+ratio of breast cancer mortality rates to invasive breast 
+cancer rates was significantly lower for AAPI women than 
+NH-­White women.
+Previous authors have studied the importance of age 
+and stage at breast cancer diagnosis in minority wom-
+en.6,14-­18 Using SEER 18 data, Hung et al14 examined 
+age and racial/ethnic disparities in younger women (15-­
+44 years old) and older women (45-­64 years old). They 
+found that a significantly greater proportion of younger 
+women (48.1%) were diagnosed at late stages (regional 
+and distant) in comparison with older women (38.7%; 
+P < .0001). Significantly, 54.5% of younger NH-­Black 
+women and 52.9% of younger Hispanic women were 
+diagnosed with late-­stage disease, whereas 46.0% of 
+younger NH-­White women were (P < .0001 for both). 
+In comparison with younger NH-­White women, a greater 
+proportion of younger NH-­Black women also had a lower 
+life expectancy, more years of life lost, a higher probability 
+of being diagnosed at an early age, and a greater burden 
+of age-­adjusted incidence and mortality rates.14 In their 
+analysis, younger Hispanic women had a higher propor-
+tion of years of life lost, but they were less likely to die 
+of their disease than NH-­White women. Nahleh et al6 
+noted that both Hispanic and African American women 
+were diagnosed at younger ages, had a higher prevalence 
+of aggressive triple-­negative breast cancer (TNBC), and 
+were diagnosed at more advanced stages than NH-­White 
+women. The evaluation of Hispanic women is challeng-
+ing because of the heterogeneous ancestry in the Hispanic 
+population.6,15
+Kurian et al16 found that White women had a higher 
+proportion of tumors diagnosed at a local stage than Black 
+women (64.5% vs 54.5%) and also more tumors diagnosed 
+at a size of 2 cm or less (61.7% vs 48.6%); both conferred 
+treatment advantages to White women. More recently, 
+Iqbal et al17 used SEER 18 data to look at early-­stage dis-
+ease and biological aggressiveness of tumors in women 
+of different races and ethnicities. Black women were less 
+likely to be diagnosed with stage I breast cancer than NH-­
+White women (37.0% vs 50.8%; odds ratio, 0.65), and 
+they were nearly twice as likely to die with small tumors 
+of 2 cm or less (hazard ratio [HR], 1.96). Even with small 
+tumors, Black women were more likely to have nodal me-
+tastases, more distant metastases, and more TNBC than 
+NH-­White women with tumors of similar size. After the 
+exclusion of women with TNBC, the age-­adjusted HR 
+for death remained significantly higher for Black women 
+in comparison with their NH-­White counterparts (4.6% 
+vs 2.4%; HR, 1.73; P < .001).17 Others have noted that 
+although TNBC is overrepresented in Black women, es-
+pecially premenopausal Black women,18 and contributes 
+to disparities, the greatest disparities still occur with good-­
+prognosis, hormone receptor–­positive subtypes.19,20
+A limitation of our study is that although SEER 
+provides a large data set from which to analyze trends, 
+SEER has limited information on several variables that 
+may affect results and permit analyses of possible causes. 
+Differences in the distribution of invasive breast cancers 
+between different racial and ethnic groups and their ef-
+fects on morbidity and mortality involve factors beyond 
+just population distributions. Breast cancer is a complex 
+disease; incidence and mortality may be affected by per-
+sonal factors such as family history, prior cancer history, 
+parity, exogenous hormone exposure, body mass index, 
+and genetic susceptibility as well as external factors such 
+as access to health care and socioeconomic status.4-­6,15,21 
+All data needed to explore such factors are not directly 
+available through SEER. Linking SEER data with other 
+data sources could benefit future research. Interestingly, 
+TABLE 6.  For Women Younger Than 50 Years, Ratios of ABC Incidence Rates to Invasive BC Incidence 
+Rates and Ratios of Breast Cancer Mortality Rates to Invasive Breast Cancer Incidence Rates for Each Race 
+Ethnicity Cohort (Along With RRs, 95% CIs, and P Values for the Significance of Each RR Distinct From 1)
+Race/Ethnicity
+Advanced BC Incidence to Invasive Incidence
+BC Mortality to Invasive Incidence
+ABC/Incidence
+RR
+95% CI
+P
+Mortality/Incidence
+RR
+95% CI
+P
+NH-­White
+0.40
+1
+0.08
+1
+NH-­Black
+0.48
+1.21
+1.18-­1.24
+<.0001
+0.16
+1.93
+1.88-­1.97
+<.0001
+AAPI
+0.39
+0.98
+0.95-­1.01
+.11
+0.06
+0.80
+0.77-­0.86
+<.0001
+Native American
+0.47
+1.18
+1.05-­1.32
+.006
+0.11
+1.31
+1.15-­1.50
+<.0001
+Hispanic
+0.46
+1.15
+1.13-­1.18
+<.0001
+0.09
+1.08
+1.05-­1.12
+<.0001
+Abbreviations: AAPI, Asian American/Pacific Islander; ABC, advanced-­stage breast cancer; BC, breast cancer; CI, confidence interval; NH-­Black, non-­Hispanic 
+Black; NH-­White, non-­Hispanic White; RR, relative risk.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Original Article
+4392
+Cancer    December 1, 2021
+Santorelli et al22 found that the addition of Medicare 
+comorbidity data to SEER data did not explain breast 
+cancer–­specific survival differences between NH-­Black 
+and NH-­White women. Because of the importance of 
+understanding the trends that we have outlined, further 
+research is clearly needed.
+Although the disparities in incidence and mortality 
+demonstrated here between minority women and NH-­
+White women exist, it is important to note that this is an 
+association and does not constitute causation. There may 
+exist unknown factors causing an association of incidence 
+or mortality disparities that are correlated with race rather 
+than being caused by race or ethnicity.
+Our work adds to the body of literature addressing 
+health care disparities between minority women and NH-­
+White women. Like others, we find that a large subset 
+of minority women, especially African American and 
+Hispanic women, are disadvantaged in breast cancer di-
+agnosis and treatment: they have higher proportions of 
+invasive cancers at younger ages and at advanced stages, 
+as well as breast cancer deaths at younger ages. The earlier 
+onset of disease and death in minority women needs to 
+be directly communicated to women and their medical 
+providers and better addressed and understood by the 
+medical community.
+FUNDING SUPPORT
+No specific funding was disclosed.
+CONFLICT OF INTEREST DISCLOSURES
+R. Edward Hendrick has served as a consultant to GE Healthcare in work 
+unrelated to this article. The other authors made no disclosures.
+AUTHOR CONTRIBUTIONS
+R. Edward Hendrick: Conceptualization, data curation, formal analysis, 
+methodology, investigation, project administration, resources, software, val-
+idation, writing–­original draft, and writing–­review and editing. Debra L. 
+Monticciolo: Methodology, investigation, project administration, resources, 
+supervision, and writing–­review and editing. Kelly W. Biggs: Methodology, 
+investigation, project administration, resources, writing–­original draft, and 
+writing–­review and editing. Sharp F. Malak: Methodology, investigation, 
+resources, and writing–­review and editing.
+REFERENCES
+	 1.	 Siu AL; U.S. Preventive Services Task Force. Screening for breast can-
+cer: U.S. Preventive Services Task Force recommendation statement. 
+Ann Intern Med. 2016;164:279-­296.
+	 2.	 Monticciolo DL, Newell MS, Hendrick RE, et al. Breast cancer 
+screening for average-­risk women: recommendations from the ACR 
+Commission on Breast Imaging. J Am Coll Radiol. 2017;14:1137-­1143.
+	 3.	 Stapleton SM, Oseni TO, Bababekov YJ, Hung Y-­C, Chang DC. Race/
+ethnicity and age distribution of breast cancer diagnosis in the United 
+States. JAMA Surg. 2018;153:594-­595.
+	 4.	 Daly B, Olopade OI. A perfect storm: how tumor biology, genom-
+ics, and health care delivery patterns collide to create a racial survival 
+disparity in breast cancer and proposed interventions for change. CA 
+Cancer J Clin. 2015;65:221-­238.
+	 5.	 DeSantis CE, Ma J, Sauer AG, Neuman LA, Jemal A. Breast cancer 
+statistics, 2017, racial disparity in mortality by state. CA Cancer J Clin. 
+2017;67:439-­448.
+	 6.	 Nahleh Z, Otoukesh S, Mirshahidi HR, et al. Disparities in breast can-
+cer: a multi-­institutional comparative analysis focusing on American 
+Hispanics. Cancer Med. 2018;7:2710-­2717.
+	 7.	 Monticciolo DL, Newell MS, Moy L, et al. Breast cancer screening in 
+women at higher-­than-­average risk: recommendations from the ACR. J 
+Am Coll Radiol. 2018;15:408-­414.
+	 8.	 Number of persons by race and Hispanic ethnicity for SEER partici-
+pants (2010 Census data1). National Cancer Institute. Accessed April 
+4, 2021. https://seer.cancer.gov/regis​tries/​data.html
+	 9.	 Surveillance, Epidemiology, and End Results Program. SEER*Stat 
+Database: Incidence—­SEER 9 Regs Research Data, Nov 2017 Sub 
+(1973-­2015) <Katrina/Rita Population Adjustment>—­Linked to 
+County Attributes—­Total U.S., 1969-­2016 Counties. National Cancer 
+Institute; 2018.
+	10.	 Surveillance, Epidemiology, and End Results Program. SEER*Stat 
+Database: Incidence—­SEER Research Data, 18 Registries, Nov 2019 
+Sub (2000-­2017)—­Linked to County Attributes—­Time Dependent 
+(1990-­2017) Income/Rurality, 1969-­2018 Counties. National Cancer 
+Institute; 2020.
+	11.	 Surveillance, Epidemiology, and End Results Program. SEER*Stat 
+Database: Incidence—­SEER Research Limited-­Field Data With 
+Delay-­Adjustment, 21 Registries, Malignant Only, Nov 2019 Sub 
+(2000-­2017)—­Linked to County Attributes—­Time Dependent 
+(1990-­2017) Income/Rurality, 1969-­2018 Counties. National Cancer 
+Institute; 2020.
+	12.	 Surveillance, Epidemiology, and End Results Program. SEER*Stat 
+Database: Mortality—­All COD, Aggregated Total U.S. (1969-­2018) 
+<Katrina/Rita Population Adjustment>. National Cancer Institute; 
+2020.
+	13.	 Fleiss JL, Levin B, Paik MC. Statistical Methods for Rates & 
+Proportions. 3rd ed. John Wiley & Sons; 2003.
+	14.	 Hung MC, Ekwueme DU, Rim SH, White A. Racial/ethnicity dispari-
+ties in invasive breast cancer among younger and older women: an anal-
+ysis using multiple measures of population health. Cancer Epidemiol. 
+2016;45:112-­118.
+	15.	 Newman LA. Breast cancer disparities: socioeconomic factors versus 
+biology. Ann Surg Oncol. 2017;24:2869-­2875.
+	16.	 Kurian AW, Fish K, Shema SJ, Clarke CA. Lifetime risks of specific 
+breast cancer subtypes among women in four racial/ethnic groups. 
+Breast Cancer Res. 2010;12:R99.
+	17.	 Iqbal J, Ginsburg O, Rochon PA, Sun P, Narod SA. Differences in 
+breast cancer stage at diagnosis and cancer-­specific survival by race and 
+ethnicity in the United States. JAMA. 2015;313:165-­173.
+	18.	 Carey LA, Perou CM, Livasy CA, et al. Race, breast cancer sub-
+types, and survival in the Carolina Breast Cancer Study. JAMA. 
+2006;295:2492-­2502.
+	19.	 Reeder-­Hayes KE, Anderson BO. Breast cancer disparities at home and 
+abroad: a review of the challenges and opportunities for system-­level 
+change. Clin Cancer Res. 2017;23:2655-­2664.
+	20.	 Chu KC, Lamar CA, Freeman HP. Racial disparities in breast carci-
+noma survival rates: separating factors that affect diagnosis from factors 
+that affect treatment. Cancer. 2003;97:2853-­2860.
+	21.	 Yedjou CG, Sims JN, et al. Health and racial disparity in breast cancer. 
+Adv Exp Med Biol. 2019;1152:31-­49.
+	22.	 Santorelli ML, Hirshfield KM, Steinberg MB, et al. Racial differences 
+in the effects of comorbidity on breast cancer–­specific survival. Cancer 
+Causes Control. 2017;28:809-­817.
+ 10970142, 2021, 23, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33846 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

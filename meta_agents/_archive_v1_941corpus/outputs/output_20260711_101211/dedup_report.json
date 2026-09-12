@@ -1,0 +1,14 @@
+{
+  "records_by_source": {
+    "PubMed": 686,
+    "Embase": 501
+  },
+  "total_before": 1187,
+  "duplicates_removed": 246,
+  "total_after": 941,
+  "overlap": {
+    "PubMed_only": 462,
+    "Embase+PubMed": 223,
+    "Embase_only": 256
+  }
+}

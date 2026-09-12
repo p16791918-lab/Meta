@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1580,exclude,Not relevant to the research question/topic,graphene bibliometric analysis
+1581,exclude,Not relevant to the research question/topic,COVID cancer outcomes cross-sectional
+1582,exclude,Not a US population-based/registry study,Alzheimer BC survivors Korean
+1583,exclude,Not relevant to the research question/topic,thyroid cancer Sister Study
+1584,exclude,Not a US population-based/registry study,global GBD pre/postmenopausal
+1585,exclude,Not a US population-based/registry study,BMI cancer mortality China
+1586,exclude,Not a US population-based/registry study,aspirin cancer prevention Hong Kong
+1587,exclude,Not a US population-based/registry study,SPC socioeconomic England
+1588,exclude,Not relevant to the research question/topic,cancer incidence trends PWH by race
+1589,exclude,Not a US population-based/registry study,incidence/mortality LAC GLOBOCAN
+1590,exclude,Not a US population-based/registry study,dynamic risk prediction British Columbia
+1591,exclude,Not relevant to the research question/topic,geospatial incidence/mammography Illinois
+1592,exclude,Not relevant to the research question/topic,incidental atypia chest masculinization
+1593,exclude,Not a US population-based/registry study,walking speed cancer UK Biobank
+1594,exclude,Not relevant to the research question/topic,cancer mortality SLE US WONDER
+1595,exclude,Not a US population-based/registry study,drospirenone Japan phase III
+1596,exclude,Not a US population-based/registry study,cancer burden Chinese older adults GLOBOCAN
+1597,exclude,Not relevant to the research question/topic,alpha-Hederin TNBC ferroptosis
+1598,exclude,Not relevant to the research question/topic,IGFBP7 biomarker postmenopausal
+1599,exclude,Not a US population-based/registry study,BC burden older adults Asia GBD
+1600,exclude,Not relevant to the research question/topic,EMR BPA oncofertility referrals
+1601,exclude,Not a US population-based/registry study,GLOBOCAN developing countries
+1602,exclude,Not relevant to the research question/topic,SES SPM after melanoma
+1603,exclude,Not relevant to the research question/topic,Vanguard MCD feasibility trial
+1604,exclude,Not relevant to the research question/topic,pneumonitis BC NIS in-hospital
+1605,exclude,Not relevant to the research question/topic,rare tumors disparities SEER
+1606,exclude,Not a US population-based/registry study,indigenous women cancer Brazil review
+1607,exclude,Not relevant to the research question/topic,Medicaid expansion geospatial Indiana
+1608,exclude,Not relevant to the research question/topic,stroke mortality BC WONDER
+1609,exclude,Not relevant to the research question/topic,mammogram rates Texas racial disparities
+1610,exclude,Not a US population-based/registry study,ovarian risk model China trial
+1611,exclude,Not relevant to the research question/topic,psychological distress ICI gastric
+1612,exclude,Not relevant to the research question/topic,AI colonoscopy trial
+1613,exclude,Not a US population-based/registry study,MAGenTA Argentina genomics
+1614,exclude,Not relevant to the research question/topic,photobiomodulation radiodermatitis trial
+1615,exclude,Not relevant to the research question/topic,racial breast inflammation lymphedema
+1616,exclude,Not relevant to the research question/topic,CRC screening Guam CHamorus/Filipinos
+1617,exclude,Not relevant to the research question/topic,anti-obesity meds ORC SEER-Medicare
+1618,exclude,Not relevant to the research question/topic,industrial air emissions BC Sister Study
+1619,exclude,Not relevant to the research question/topic,BC surveillance EOC BRCA
+1620,exclude,Not relevant to the research question/topic,web symptom self-management RCT
+1621,exclude,Not a US population-based/registry study,travel distance Uganda
+1622,exclude,Not a US population-based/registry study,urogenital tumors children GBD
+1623,exclude,Not a US population-based/registry study,Oceania tumor burden GBD
+1624,exclude,Not a US population-based/registry study,Africa tumor burden GBD
+1625,exclude,Not relevant to the research question/topic,COVID New Mexico oncology survey
+1626,exclude,Not a US population-based/registry study,global YBC under 35 GBD
+1627,exclude,Not a US population-based/registry study,weight change CVD BCS Korean
+1628,exclude,Not a US population-based/registry study,DCIS incidence New Zealand
+1629,include,,Fertility-impacting cancer incidence young US SEER by race/ethnicity
+1630,exclude,Not a US population-based/registry study,schizophrenia BC risk South Korea
+1631,exclude,Not relevant to the research question/topic,transgender Medicare chronic conditions
+1632,exclude,"Editorials, commentaries, letters, or conference abstracts",universal genetic counseling Black women short survey
+1633,exclude,Not relevant to the research question/topic,atezolizumab TNBC trial
+1634,exclude,Not relevant to the research question/topic,parental loss BC CHDS risk factor
+1635,exclude,Not a US population-based/registry study,ovarian risk tool Chinese
+1636,exclude,Not relevant to the research question/topic,trastuzumab CTRCD risk stratification
+1637,include,,HCHS/SOL cancer incidence by Hispanic country-of-origin
+1638,exclude,Not a US population-based/registry study,DS8201 real-world China
+1639,exclude,Not relevant to the research question/topic,Mediterranean diet BC trial

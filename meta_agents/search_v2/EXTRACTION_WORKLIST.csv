@@ -1,0 +1,104 @@
+record_id,status,triage,title
+2,DONE,DONE,US incidence of breast cancer subtypes defined by joint
+10,DONE,DONE,Breast Cancer Incidence Rates in Ghanaian and US Black 
+12,DONE,DONE,Disparities and trends of the incidence and mortality o
+28,DONE,DONE,Invasive breast cancer among Alaska Native women in Ala
+66,DONE,DONE,Age distributions of breast cancer diagnosis and mortal
+100,DONE,DONE,Invasive breast cancer incidence trends by detailed rac
+107,DONE,DONE,Quantification of Potential Inequities in Breast Cancer
+146,DONE,DONE,Breast Cancer Incidence Among US Women Aged 20 to 49 Ye
+155,DONE,DONE,State Variation in Racial and Ethnic Disparities in Inc
+161,DONE,DONE,The high and heterogeneous burden of breast cancer in H
+169,DONE,DONE,"Trends in Breast Cancer Incidence, by Race, Ethnicity, "
+182,DONE,DONE,Vital signs: Racial disparities in breast cancer severi
+199,DONE,DONE,Breast cancer epidemiology in blacks and whites: Dispar
+200,DONE,DONE,Breast Cancer Incidence in Black and White Women Strati
+203,DONE,DONE,Recent trends in breast cancer among younger women in t
+234,DONE,DONE,"Breast Cancer Incidence in Asian American, Native Hawai"
+236,DONE,DONE,Hidden breast cancer disparities in Asian women: disagg
+265,DONE,DONE,Age-related crossover in breast cancer incidence rates 
+286,DONE,DONE,Variation in breast cancer subtype incidence and distri
+324,DONE,DONE,"Breast cancer in Asian Americans in California, 1988–20"
+333,DONE,DONE,Breast cancer incidence patterns among california hispa
+346,DONE,DONE,Patterns and Trends in Age-Specific Black-White Differe
+381,DONE,DONE,Age/race differences in HER2 testing and in incidence r
+463,DONE,DONE,Recent trends in breast cancer incidence among 6 Asian 
+485,DONE,DONE,Trends in area-socioeconomic and race-ethnic disparitie
+500,DONE,DONE,Trends in Cancer Incidence among American Indians and A
+522,DONE,DONE,Characterizing breast cancer incidence and trends among
+1478,DONE,DONE,"Cancer incidence, stage at diagnosis, and trends across"
+2131,DONE,DONE,"Associations of Obesity, Physical Activity, and Screeni"
+2406,DONE,DONE,Subtype-specific breast cancer incidence rates in black
+2510,DONE,DONE,Disparities in cancer incidence and trends among Americ
+3182,DONE,DONE,Cancer incidence in first generation U.S. Hispanics: Cu
+3298,DONE,DONE,Patterns of cancer incidence among US Hispanics/Latinos
+3398,DONE,DONE,Cancer incidence patterns in Koreans in the US and in K
+3662,DONE,DONE,Incidence of and Trends in the Leading Cancers with Ele
+4040,DONE,DONE,Cancer incidence and mortality patterns among specific 
+4098,DONE,DONE,"Cancer incidence, mortality, and associated risk factor"
+51,TODO,TODO-pool,The Alaska Native Tumour Registry: fifty years of cance
+76,TODO,TODO-pool,Trends in breast cancer by race and ethnicity
+93,TODO,TODO-pool,Disparities in breast cancer subtypes among women in th
+103,TODO,TODO-pool,Age-specific incidence of breast cancer subtypes: Under
+119,TODO,TODO-pool,Disparities of cancer incidence in Michigan's American 
+145,TODO,TODO-pool,Persistence in breast cancer disparities between Africa
+188,TODO,TODO-pool,Trends in breast cancer by race and ethnicity: Update 2
+210,TODO,TODO-pool,Breast cancer incidence trends in Asian women aged 20 o
+246,TODO,TODO-pool,Does socioeconomic disparity in cancer incidence vary a
+259,TODO,TODO-pool,What can we learn from the age- and race/ethnicity- spe
+284,TODO,TODO-pool,Trends in Female Breast Cancer Incidence among Japanese
+322,TODO,TODO-pool,Inter- and intra-ethnic differences for female breast c
+336,TODO,TODO-pool,Early- and late-onset breast cancer types among women i
+339,TODO,TODO-pool,"Cancers of the breast, uterus, ovary and cervix among A"
+361,TODO,TODO-pool,Decline in US breast cancer rates after the Women's Hea
+377,TODO,TODO-pool,Racial/ethnicity disparities in invasive breast cancer 
+383,TODO,TODO-pool,Rates for breast cancer characteristics by estrogen and
+448,TODO,TODO-pool,Race/ethnicity and changing US socioeconomic gradients 
+453,TODO,TODO-pool,Racial differences in the incidence of breast cancer su
+455,TODO,TODO-pool,Comparison of clinicopathologic features and survival i
+480,TODO,TODO-pool,Changes in the pattern of breast cancer burden among Af
+701,TODO,TODO-pool,Geographic differences in early-onset breast cancer inc
+1336,TODO,TODO-pool,Disparities in breast cancer incidence and survival by 
+1398,TODO,TODO-pool,Early-Onset Cancer Incidence Disparities Between Black 
+2548,TODO,TODO-pool,"Cancer patterns in Hmong in Minnesota, 2000 to 2012"
+3230,TODO,TODO-pool,Cancer in American Indian and Alaska Native Young Adult
+3247,TODO,TODO-pool,Cancer incidence rates among South Asians in four geogr
+3275,TODO,TODO-pool,Cancer incidence in the Middle Eastern population of Ca
+3288,TODO,TODO-pool,Cancer incidence among Korean-American immigrants in th
+3322,TODO,TODO-pool,Cancer incidence in the South Asian population of Calif
+3999,TODO,TODO-pool,Cancer incidence patterns among Vietnamese in the Unite
+4026,TODO,TODO-pool,Incidence of selected cancers in Non-Hispanic American 
+4043,TODO,TODO-pool,Trends in Breast Cancer Incidence and Mortality in the 
+4333,TODO,TODO-pool,Cancer among Hispanic women in South Florida: An 18-yea
+134,TODO,TODO-trend,Breast cancer incidence among American Indian and Alask
+144,TODO,TODO-trend,Rapidly rising breast cancer incidence rates among Asia
+151,TODO,TODO-trend,Cancer incidence trends among asian american population
+158,TODO,TODO-trend,Trends in breast cancer incidence rates by race/ethnici
+207,TODO,TODO-trend,Cancer incidence trends among native hawaiians and othe
+209,TODO,TODO-trend,Racial and regional disparities of triple negative brea
+272,TODO,TODO-trend,Cancer rates among American Indians and Alaska Natives:
+369,TODO,TODO-trend,Differences in breast cancer incidence among young wome
+426,TODO,TODO-trend,Trends in Incidence of Invasive Lobular Carcinoma of th
+438,TODO,TODO-trend,Changes in breast cancer incidence rates in the United 
+587,TODO,TODO-trend,Breast cancer in the middle eastern population of Calif
+2137,TODO,TODO-trend,Cancer disparities among non-Hispanic urban American In
+2453,TODO,TODO-trend,Incidence and survival among young women with stage I-I
+49,TODO,TODO-other,"Cancer incidence in the Hmong in California, 1988-2000"
+86,TODO,TODO-other,Breast cancer racial differences before age 40--implica
+165,TODO,TODO-other,Socioeconomic status and breast cancer incidence in Cal
+205,TODO,TODO-other,Breast cancer incidence rates in U.S. women re no longe
+238,TODO,TODO-other,Patterns in cancer incidence among American Indians/Ala
+310,TODO,TODO-other,Recent breast cancer trends among Asian/Pacific Islande
+402,TODO,TODO-other,"Disparities in Breast Cancer Incidence, Mortality, and "
+419,TODO,TODO-other,Higher population-based incidence rates of triple-negat
+461,TODO,TODO-other,"Trends and Patterns of Late and Unstaged Lung, Colorect"
+475,TODO,TODO-other,The greater impact of menopause on ER- than ER+ breast 
+541,TODO,TODO-other,Racial and socioeconomic disparities in breast cancer d
+955,TODO,TODO-other,Cancer among Asian Indians/Pakistanis living in the Uni
+1101,TODO,TODO-other,Cancer incidence in the Somali population of Olmsted Co
+3212,TODO,TODO-other,Fifty years of cancer in an American Indian population
+3267,TODO,TODO-other,Cambodian cancer incidence rates in California and Wash
+3891,TODO,TODO-other,Changes in cancer incidence patterns among a northeaste
+4027,TODO,TODO-other,Cancer incidence among Asian American populations in th
+4058,TODO,TODO-other,"White-Black Differences in Cancer Incidence, Stage at D"
+4147,TODO,TODO-other,AN EXCESS OF BREAST CANCER AMONG YOUNG CALIFORNIA-BORN 

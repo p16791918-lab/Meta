@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+280,exclude,Not relevant to the research question/topic,comorbidity profiles not incidence
+281,exclude,Not relevant to the research question/topic,male breast cancer
+282,exclude,Not relevant to the research question/topic,all-cancer Connecticut burden overview
+283,exclude,Not relevant to the research question/topic,mammography access/stage
+284,include,,Japanese/Korean American vs US incidence APC (US subgroups extractable)
+285,exclude,Not relevant to the research question/topic,reporting-delay methodology
+286,include,,SEER subtype incidence by race/ethnicity 2010-2015
+287,exclude,Not relevant to the research question/topic,chemical-exposure biomarker
+288,exclude,Not relevant to the research question/topic,symptomatic awareness/screening
+289,exclude,Not relevant to the research question/topic,hormone-use risk-factor cohort
+290,exclude,Not relevant to the research question/topic,mortality disparity decomposition
+291,exclude,Not relevant to the research question/topic,male BC mortality
+292,exclude,Not relevant to the research question/topic,mortality risk factors Texas
+293,exclude,Not relevant to the research question/topic,decision-aid usability
+294,exclude,Not relevant to the research question/topic,obesity simulation modeling
+295,exclude,Not relevant to the research question/topic,insurance-mortality
+296,exclude,Not relevant to the research question/topic,VDR polymorphism genetics
+297,exclude,Not relevant to the research question/topic,area SES disparities not race
+298,exclude,Not relevant to the research question/topic,parity risk-factor cohort
+299,exclude,Not relevant to the research question/topic,dietary cadmium risk-factor cohort
+300,exclude,Not relevant to the research question/topic,breast lymphoma survival
+301,exclude,Not relevant to the research question/topic,screening rates comparison
+302,exclude,Not relevant to the research question/topic,histology age patterns not race
+303,exclude,Not relevant to the research question/topic,disparity modeling typology
+304,exclude,Not relevant to the research question/topic,adenoid cystic carcinoma not by race
+305,exclude,Not relevant to the research question/topic,metastatic outcomes survival
+306,exclude,Not relevant to the research question/topic,HER2 incidence/survival by age not race
+307,exclude,Not relevant to the research question/topic,DCIS in-situ not invasive
+308,exclude,Not relevant to the research question/topic,screening-detected surveillance
+309,exclude,Not relevant to the research question/topic,AIAN screening narrative
+310,include,,SEER incidence trends by race/ethnicity and subtype
+311,exclude,Not relevant to the research question/topic,mortality Ohio
+312,exclude,Not relevant to the research question/topic,Gail model AIAN
+313,exclude,Not relevant to the research question/topic,metabolic risk-factor case-control
+314,exclude,Not relevant to the research question/topic,AIAN screening practices
+315,exclude,Not relevant to the research question/topic,breast density risk model
+316,include,,SEER early incidence estimates by race incl breast
+317,exclude,Not relevant to the research question/topic,dietary polyphenol risk-factor cohort
+318,exclude,Not relevant to the research question/topic,early-onset risk factors BWHS
+319,exclude,Not relevant to the research question/topic,Latina health-education intervention
+320,exclude,Not relevant to the research question/topic,soy/estrogen biomarker
+321,include,,Texas registry incidence by race/ethnicity/geography
+322,include,,SEER continental US vs Hawaii incidence by ethnicity
+323,exclude,Not relevant to the research question/topic,IGF genotype biomarker
+324,include,,CCR Asian-American 7-subgroup incidence trends/subtypes
+325,exclude,Not relevant to the research question/topic,ovulatory-function biomarker
+326,exclude,Not relevant to the research question/topic,mortality Georgia
+327,exclude,Not relevant to the research question/topic,Hispanic/NHW clinical characteristics
+328,exclude,Not relevant to the research question/topic,thyroid second cancer survivors
+329,exclude,Not relevant to the research question/topic,benign-breast-disease cohort
+330,exclude,Not relevant to the research question/topic,mortality local-area equity
+331,exclude,Not a US population-based/registry study,LABC narrative review
+332,exclude,Not relevant to the research question/topic,AAPI screening rates
+333,include,,CCR Hispanic incidence by nativity/enclave
+334,exclude,Not relevant to the research question/topic,SES risk-factor cohort BWHS
+335,exclude,Not relevant to the research question/topic,study methods/protocol case-control
+336,include,,SEER US White/Black age-specific incidence (vs Japan)
+337,exclude,Not relevant to the research question/topic,family-history risk-factor case-control
+338,exclude,Not relevant to the research question/topic,late-stage geographic not race
+339,include,,Alaska Native registry breast incidence vs US white

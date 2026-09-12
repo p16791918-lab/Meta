@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1760,exclude,Not relevant to the research question/topic,Camp Lejeune solvent cohort SIR
+1761,include,,Hawaii registry BC subtypes incidence by race/ethnicity
+1762,include,,SEER early-onset incidence by race/ethnicity 2011-2020
+1763,exclude,Not a US population-based/registry study,young adults Costa Rica
+1764,exclude,Not relevant to the research question/topic,granulomatous mastitis TriNetX
+1765,exclude,Not relevant to the research question/topic,Life's Essential 8 CVD WHI
+1766,exclude,Not relevant to the research question/topic,epigenetic aging BC risk race
+1767,exclude,Not relevant to the research question/topic,weight gain AET factors
+1768,exclude,Not a US population-based/registry study,breast/gyn cancer China GLOBOCAN
+1769,exclude,Not relevant to the research question/topic,neoadjuvant toripalimab trial
+1770,exclude,Not relevant to the research question/topic,live birth after cancer Texas
+1771,exclude,Not relevant to the research question/topic,cancer LGBTQ+ NHIS/BRFSS
+1772,exclude,Not relevant to the research question/topic,axillary reverse mapping lymphedema
+1773,exclude,Not relevant to the research question/topic,T-DXd Asian DESTINY-Breast03
+1774,exclude,Not relevant to the research question/topic,ADC ILD China consensus
+1775,exclude,Not relevant to the research question/topic,US AYA incidence/mortality trends SEER
+1776,exclude,Not relevant to the research question/topic,Black underrepresentation trials GFR
+1777,exclude,Not a US population-based/registry study,Commonwealth simulation modelling
+1778,exclude,Not relevant to the research question/topic,low-cost histopathology pipeline
+1779,exclude,Not a US population-based/registry study,robotic mastectomy Singapore
+1780,exclude,Not a US population-based/registry study,HER2-low Southeast Asian
+1781,exclude,Not a US population-based/registry study,male BC Xijing China
+1782,exclude,"Editorials, commentaries, letters, or conference abstracts",AACR disparities conference review
+1783,exclude,Not relevant to the research question/topic,iCCA cholangiocarcinoma SEER
+1784,exclude,Not relevant to the research question/topic,serplulimab gastric trial
+1785,exclude,Not relevant to the research question/topic,irinotecan pancreatic trial
+1786,exclude,Not relevant to the research question/topic,melanoma ctDNA CORRESPOND
+1787,exclude,Not relevant to the research question/topic,granulomatous lobular mastitis treatment
+1788,exclude,Not a US population-based/registry study,trial enrollment disparities Canada
+1789,exclude,Not a US population-based/registry study,UHC cancer mortality global
+1790,exclude,Not a US population-based/registry study,genomic ancestry Latin Americans
+1791,exclude,Not relevant to the research question/topic,area SES refusal surgery bone SEER
+1792,exclude,Not a US population-based/registry study,HPV MCPyV Korean NSCLC
+1793,exclude,Not a US population-based/registry study,delayed care Meghalaya India
+1794,exclude,Not a US population-based/registry study,AI histopathology Japan
+1795,exclude,Not a US population-based/registry study,Pingxiao capsule China
+1796,exclude,Not relevant to the research question/topic,metachronous CBC survival
+1797,exclude,Not relevant to the research question/topic,acellular dermal matrix reconstruction
+1798,exclude,Not relevant to the research question/topic,intimate care products hormone cancers Sister Study
+1799,exclude,Not a US population-based/registry study,HLA Brazil uveal melanoma
+1800,include,,NAACCR rural-urban incidence by race/ethnicity 2000-2019
+1801,exclude,Not a US population-based/registry study,Mongolian/Han BC China
+1802,exclude,Not relevant to the research question/topic,AI arthralgia NH Black trial
+1803,exclude,Not relevant to the research question/topic,ionizing radiation epidemiology review
+1804,exclude,Not a US population-based/registry study,mHealth SMS mammography Argentina
+1805,exclude,Not relevant to the research question/topic,oridonin ferroptosis
+1806,exclude,Not a US population-based/registry study,alcohol mortality UK Biobank
+1807,exclude,Not a US population-based/registry study,lymphedema epidemiology South Korea
+1808,exclude,Not a US population-based/registry study,ethnic disparities BC Brazil
+1809,exclude,Not relevant to the research question/topic,HER2 status TNBC pCR
+1810,exclude,Not relevant to the research question/topic,racial disparities BC treatment SEER-Medicare erratum
+1811,exclude,Not a US population-based/registry study,cancer mortality Sweden
+1812,exclude,Not relevant to the research question/topic,VTE after BC surgery meta-analysis
+1813,exclude,Not relevant to the research question/topic,ABO blood catheter thrombosis
+1814,exclude,Not a US population-based/registry study,Filipino MDW Hong Kong
+1815,exclude,Not a US population-based/registry study,acupoint thread breast hyperplasia China
+1816,exclude,Not relevant to the research question/topic,second primary BC young survivors YWS
+1817,exclude,Not relevant to the research question/topic,omission axillary dissection
+1818,exclude,Not a US population-based/registry study,prophylactic prostatectomy UK
+1819,exclude,Not a US population-based/registry study,environmental carcinogen Japan LHpLE

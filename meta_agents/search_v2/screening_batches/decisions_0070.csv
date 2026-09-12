@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4120,exclude,Not relevant to the research question/topic,race SES BC subtypes odds NCDB
+4121,exclude,Not relevant to the research question/topic,sarcoidosis Black women BWHS
+4122,exclude,Not relevant to the research question/topic,HCV HBV liver cancer SE Asians
+4123,exclude,Not a US population-based/registry study,cancer cases Peru clinic
+4124,exclude,Not relevant to the research question/topic,SNPs ancestry FIND
+4125,exclude,Not a US population-based/registry study,global cancer crisis review
+4126,exclude,Not relevant to the research question/topic,low-grade serous ovarian SEER
+4127,exclude,Not relevant to the research question/topic,asthma incidence Texas Medicaid
+4128,exclude,Not a US population-based/registry study,Canadian BC screening guidelines commentary
+4129,exclude,Not relevant to the research question/topic,lay navigation Black White survivors
+4130,exclude,Not relevant to the research question/topic,cancer 15-29 by primary site
+4131,exclude,Not relevant to the research question/topic,BC metastasis lympho-vascular
+4132,exclude,Not relevant to the research question/topic,microsatellite AA head neck cancer
+4133,exclude,Not relevant to the research question/topic,racial differences PAM50 subtypes Carolina
+4134,exclude,Not relevant to the research question/topic,social determinants BC risk stage survival review
+4135,exclude,Not relevant to the research question/topic,BC mortality hot spots Black women
+4136,exclude,Not relevant to the research question/topic,VTE cancer survival California Registry
+4137,exclude,Not relevant to the research question/topic,survivorship care plan Asian American
+4138,exclude,Not relevant to the research question/topic,young Black women first mammogram cancers
+4139,exclude,Not relevant to the research question/topic,hairy cell leukaemia SEER
+4140,exclude,Not relevant to the research question/topic,lymphoid neoplasms 6 Asian groups US
+4141,exclude,Not a US population-based/registry study,prediagnosis smoking obesity SPC Korea
+4142,exclude,Not relevant to the research question/topic,dietary patterns colorectal adenomas BWHS
+4143,exclude,Not relevant to the research question/topic,T2D BC incidence Asian Hispanic AA review
+4144,exclude,Not a US population-based/registry study,cancer infertile IVF Israel
+4145,exclude,Not relevant to the research question/topic,EGFR TNBC cell line
+4146,exclude,Not relevant to the research question/topic,BC stage NJ early detection site
+4147,include,,Excess BC young California-born Asian women vs White
+4148,exclude,Not a US population-based/registry study,gallbladder cancer cell lines Chile
+4149,exclude,Not relevant to the research question/topic,BC diagnosis inner-city AA Hispanic screening
+4150,exclude,Not relevant to the research question/topic,fruit vegetable uterine leiomyomata BWHS
+4151,exclude,Not relevant to the research question/topic,meningioma racial disparities SEER
+4152,exclude,Not a US population-based/registry study,malignancy lymphoma Japanese RA
+4153,exclude,Not relevant to the research question/topic,head neck cancer NHPI disparities
+4154,exclude,Not relevant to the research question/topic,smoking uterine leiomyomata ultrasound
+4155,exclude,Not relevant to the research question/topic,cancer health disparities minorities US review
+4156,exclude,Not relevant to the research question/topic,immune responses TNBC AA women review
+4157,exclude,Not a US population-based/registry study,BC screening mental health NSW Australia
+4158,exclude,Not relevant to the research question/topic,cancer registration literature update
+4159,exclude,Not a US population-based/registry study,declining BC incidence HRT countries
+4160,exclude,Not a US population-based/registry study,BC in Caribbean review
+4161,exclude,Not relevant to the research question/topic,BC knowledge AA women below screening age
+4162,exclude,Not relevant to the research question/topic,use of race ethnicity epidemiologic methods
+4163,exclude,Not relevant to the research question/topic,BC disparities drivers US review
+4164,include,,Annual Report to Nation 1975-2005 lung tobacco
+4165,exclude,Not relevant to the research question/topic,uterine leiomyomata tobacco alcohol BWHS
+4166,exclude,Not relevant to the research question/topic,BC Mississippi race geography stage
+4167,exclude,Not relevant to the research question/topic,BC presentation US geography NCDB
+4168,exclude,Not relevant to the research question/topic,BC orthopaedic surgeons prevalence
+4169,exclude,Not a US population-based/registry study,ethnic SES BC incidence New Zealand
+4170,exclude,Not relevant to the research question/topic,unstaged cancer decline SEER
+4171,exclude,Not relevant to the research question/topic,BC capacity resources Arizona rural
+4172,include,,Cancer Statistics 2013 US incidence by race
+4173,exclude,Not relevant to the research question/topic,pancreatic cancer epidemiology overview
+4174,exclude,Not relevant to the research question/topic,IGFBP-1 leptin C-peptide Multiethnic Cohort
+4175,exclude,Not relevant to the research question/topic,colorectal cancer risk prediction white
+4176,exclude,Not a US population-based/registry study,lung cancer never-smoking Asia
+4177,exclude,Not relevant to the research question/topic,in utero endometriosis NHS II
+4178,exclude,Not a US population-based/registry study,BC survival Black women Brazil
+4179,exclude,Not a US population-based/registry study,pregnancy-associated cancer Australia

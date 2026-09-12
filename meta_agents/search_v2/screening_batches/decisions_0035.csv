@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2060,exclude,Not relevant to the research question/topic,telomere length reproductive factors
+2061,exclude,Not relevant to the research question/topic,CV risk factors BC ARIC
+2062,exclude,Not relevant to the research question/topic,racial anthropometric TNBC WHI
+2063,exclude,Not relevant to the research question/topic,palbociclib neutropenia risk factors
+2064,exclude,Not relevant to the research question/topic,TDLU involution BWHS case-case
+2065,exclude,Not relevant to the research question/topic,cancer risk factors Nebraskans
+2066,exclude,Not relevant to the research question/topic,HT endometrial cancer SEER
+2067,exclude,Not relevant to the research question/topic,ADH BC risk nonoperative
+2068,exclude,Not a US population-based/registry study,sonographic TNBC Asian
+2069,exclude,Not relevant to the research question/topic,AYA cancers Maine descriptive WONDER
+2070,exclude,Not relevant to the research question/topic,insulinemic diet BC NHS
+2071,exclude,Not a US population-based/registry study,tamoxifen endometrial Korea
+2072,exclude,Not relevant to the research question/topic,NAFLD HCC extrahepatic
+2073,exclude,Not relevant to the research question/topic,teleclinic satisfaction trial
+2074,exclude,Not a US population-based/registry study,step counts cancer UK Biobank
+2075,exclude,Not relevant to the research question/topic,synchronous brain metastasis SEER
+2076,exclude,Not a US population-based/registry study,reproductive factors Vietnam
+2077,exclude,Not a US population-based/registry study,HER CROWN Ottawa CV cohort
+2078,exclude,Not relevant to the research question/topic,G-COR cardio-oncology registry
+2079,exclude,Not relevant to the research question/topic,CSF prescribing CDS trial
+2080,exclude,Not a US population-based/registry study,secondary malignancy allo-SCT Korea
+2081,exclude,Not relevant to the research question/topic,Black women TC8 risk model
+2082,exclude,Not relevant to the research question/topic,obesity BMI cut-points cancer
+2083,exclude,Not a US population-based/registry study,surgical access Philippines
+2084,exclude,Not a US population-based/registry study,BC surgery pregnancy Japan
+2085,exclude,Not relevant to the research question/topic,electroacupuncture anxiety trial
+2086,exclude,Not relevant to the research question/topic,AI risk model White/Black validation
+2087,exclude,Not relevant to the research question/topic,cancer info mammography Black church
+2088,exclude,Not a US population-based/registry study,LDEF atomic bomb Japan
+2089,exclude,Not a US population-based/registry study,breast density BMI Korea 75+
+2090,exclude,Not relevant to the research question/topic,brain metastasis network meta-analysis
+2091,exclude,Not relevant to the research question/topic,CD4 HIV immunotherapy TEAE
+2092,exclude,Not relevant to the research question/topic,tamoxifen liver steatosis Caucasian
+2093,exclude,Not relevant to the research question/topic,cancer treatment/survivorship statistics 2022
+2094,exclude,Not relevant to the research question/topic,outpatient mastectomy trends NSQIP
+2095,exclude,Not relevant to the research question/topic,early-life trauma BC Sister Study
+2096,exclude,Not a US population-based/registry study,CRC mortality Korea hot/cold spots
+2097,exclude,"Editorials, commentaries, letters, or conference abstracts",RE ER-negative BC trends letter
+2098,exclude,Not a US population-based/registry study,psychological BC surgery Korea
+2099,exclude,Not a US population-based/registry study,alcohol changes cancer Korea
+2100,exclude,Not relevant to the research question/topic,de novo malignancy heart transplant
+2101,exclude,Not relevant to the research question/topic,cancer risk kidney donors US SIR
+2102,exclude,Not a US population-based/registry study,secondary malignancy RT Japan
+2103,exclude,Not relevant to the research question/topic,lymphedema BIS risk factors
+2104,exclude,Not relevant to the research question/topic,BC disparities Asian women disaggregated review
+2105,exclude,Not a US population-based/registry study,MAP3K1 SNP South Asian
+2106,exclude,Not relevant to the research question/topic,BCRL racial disparities ALND
+2107,exclude,Not a US population-based/registry study,lymphedema gyn China trial
+2108,exclude,Not a US population-based/registry study,zoledronic acid China SRE
+2109,exclude,Not relevant to the research question/topic,genetic ancestry metaplastic BC stroma
+2110,exclude,Not a US population-based/registry study,sonographic GTC multinational
+2111,exclude,Not relevant to the research question/topic,CVD cancer survivors ARIC
+2112,exclude,Not relevant to the research question/topic,HDOP BC BWHS risk factor
+2113,exclude,Not relevant to the research question/topic,BCSC model LCIS accuracy
+2114,exclude,Not relevant to the research question/topic,BC diagnosis/treatment COVID insured
+2115,exclude,Not a US population-based/registry study,BMI premenopausal BC Japan
+2116,exclude,Not relevant to the research question/topic,PROGINS PgR meta-analysis
+2117,exclude,Not relevant to the research question/topic,cancer mortality Mexican Latinos MEC
+2118,exclude,Not relevant to the research question/topic,breakthrough SARS-CoV-2 cancer
+2119,exclude,Not a US population-based/registry study,liothyronine HF/stroke CDM

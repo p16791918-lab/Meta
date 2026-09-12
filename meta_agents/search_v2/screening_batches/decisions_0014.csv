@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+800,exclude,Not relevant to the research question/topic,IBC geospatial community characteristics
+801,exclude,Not relevant to the research question/topic,arm lymphedema survivor cohort
+802,exclude,Not relevant to the research question/topic,statin use ER-negative Kaiser
+803,exclude,Not relevant to the research question/topic,mammographic density multiethnic cohort
+804,exclude,Not relevant to the research question/topic,Gail model performance age 75+
+805,exclude,Not a US population-based/registry study,Korea cost-effective screening
+806,exclude,Not relevant to the research question/topic,community navigator screening center DC
+807,exclude,Not relevant to the research question/topic,VTE before cancer diagnosis
+808,exclude,Not relevant to the research question/topic,FQHC access mortality-incidence ratio
+809,exclude,Not relevant to the research question/topic,secondary BC after uterine cancer
+810,exclude,Not relevant to the research question/topic,BCCP screening outcomes Ohio
+811,exclude,Not relevant to the research question/topic,Imi Hale Native Hawaiian infrastructure
+812,exclude,Not relevant to the research question/topic,PUFA case-control Long Island
+813,exclude,Not relevant to the research question/topic,occult BC local therapy mortality
+814,exclude,Not relevant to the research question/topic,sexual-orientation risk prediction model
+815,exclude,Not relevant to the research question/topic,comorbid conditions older women
+816,exclude,Not relevant to the research question/topic,male BC adjuvant chemo survival
+817,exclude,Not relevant to the research question/topic,Marin County risk-factor case-control
+818,exclude,Not relevant to the research question/topic,Oklahoma rural/urban incidence not race
+819,exclude,Not relevant to the research question/topic,population stratification bias methodology
+820,exclude,Not relevant to the research question/topic,RS3PE paraneoplastic followup
+821,exclude,Not relevant to the research question/topic,breast density BBD risk model
+822,exclude,Not relevant to the research question/topic,claims/registry capture-recapture methodology
+823,exclude,Not relevant to the research question/topic,AA preventive-services intervention
+824,exclude,Not relevant to the research question/topic,marital status colon cancer
+825,include,,Annual Report to the Nation incidence by race 1973-1997
+826,exclude,Not relevant to the research question/topic,ovarian cancer GWAS African ancestry
+827,exclude,Not relevant to the research question/topic,contralateral BC germline variants
+828,exclude,Not relevant to the research question/topic,BBD AA/WA subsequent TNBC
+829,exclude,Not relevant to the research question/topic,neuropathic pain after breast surgery
+830,exclude,Not relevant to the research question/topic,male BC among prostate survivors VA
+831,exclude,Not relevant to the research question/topic,YPLL brain/CNS tumors
+832,exclude,Not relevant to the research question/topic,mortality econometric model 50 states
+833,exclude,Not relevant to the research question/topic,XRCC1 polymorphism case-control
+834,exclude,Not relevant to the research question/topic,incidence trends attributable to risk factors
+835,exclude,Not relevant to the research question/topic,hepatitis B BC NHANES cross-sectional
+836,exclude,Not relevant to the research question/topic,mammography-detected increase community center
+837,exclude,Not relevant to the research question/topic,refusal of surgery male BC
+838,exclude,Not relevant to the research question/topic,GBD by state USA
+839,exclude,Not relevant to the research question/topic,racial outcomes metastatic BC CALGB trials
+840,exclude,Not relevant to the research question/topic,racial disparities immediate reconstruction NSQIP
+841,exclude,Not a US population-based/registry study,South Africa prevention adherence
+842,exclude,Not relevant to the research question/topic,Gail model by receptor status WHI
+843,exclude,Not relevant to the research question/topic,PORT NSCLC second primary
+844,exclude,Not relevant to the research question/topic,breast sarcoma lymphadenectomy patterns
+845,exclude,Not relevant to the research question/topic,second primary cancers survivors
+846,exclude,Not relevant to the research question/topic,diabetes BC incidence/mortality LIBCSP
+847,exclude,Not relevant to the research question/topic,ML predictors of BC by race BCSC
+848,exclude,Not relevant to the research question/topic,male BC metro/nonmetro
+849,exclude,Not relevant to the research question/topic,deployment BC women veterans
+850,exclude,Not relevant to the research question/topic,social relationships inflammation BC WHI
+851,exclude,Not relevant to the research question/topic,decomposition life-expectancy model
+852,exclude,Not relevant to the research question/topic,American Indian clinical risk factors case-control
+853,exclude,Not relevant to the research question/topic,heart-disease risk perception
+854,exclude,Not relevant to the research question/topic,incident malignancies among survivors
+855,exclude,Not relevant to the research question/topic,pubertal development family history LEGACY
+856,exclude,Not relevant to the research question/topic,male BC VA comparative
+857,exclude,Not a US population-based/registry study,circumpolar/Arctic populations
+858,exclude,Not a US population-based/registry study,Nigeria vs UK women
+859,exclude,Not relevant to the research question/topic,CISNET screening-strategy decision analysis

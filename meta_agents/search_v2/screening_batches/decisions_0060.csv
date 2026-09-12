@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3540,exclude,Not relevant to the research question/topic,prior cancer prevalence SEER
+3541,exclude,Not a US population-based/registry study,WCRF/AICR adherence UK Biobank
+3542,exclude,Not relevant to the research question/topic,NCI cancer center funding catchment
+3543,exclude,Not relevant to the research question/topic,AACR cancer progress report 2024
+3544,exclude,Not relevant to the research question/topic,hair relaxer uterine cancer BWHS
+3545,exclude,Not relevant to the research question/topic,bilateral mastectomy BC mortality SEER
+3546,exclude,Not relevant to the research question/topic,annual vs biennial mammogram detection
+3547,exclude,Not relevant to the research question/topic,brain metastases mBC US EHR
+3548,exclude,Not relevant to the research question/topic,nomogram survival TNBC SEER
+3549,exclude,Not relevant to the research question/topic,Global Cardio Oncology Registry
+3550,exclude,Not relevant to the research question/topic,bone metastasis mortality older adults US
+3551,exclude,Not relevant to the research question/topic,ipatasertib mTNBC phase I
+3552,exclude,Not relevant to the research question/topic,data aggregation race/ethnicity BC disparities
+3553,exclude,Not relevant to the research question/topic,peer support women veterans BC
+3554,exclude,Not relevant to the research question/topic,T2D cancer risk Southern Community Cohort
+3555,exclude,Not relevant to the research question/topic,ML Box-Cox BC prediction
+3556,exclude,Not relevant to the research question/topic,survival US vs China cancer
+3557,exclude,Not a US population-based/registry study,HER2-ultralow prevalence South Korea
+3558,exclude,Not relevant to the research question/topic,healthy lifestyle index BC Multiethnic Cohort
+3559,exclude,Not relevant to the research question/topic,representation clinical trials simulation
+3560,exclude,Not relevant to the research question/topic,ILC vs IDC survival SEER
+3561,exclude,Not a US population-based/registry study,ethnic disparities cancer mortality Brazil
+3562,exclude,Not relevant to the research question/topic,adjuvant chemo HR+ BC SEER survival
+3563,exclude,Not relevant to the research question/topic,UTP23 biomarker breast cancer
+3564,exclude,Not relevant to the research question/topic,nomogram BC liver metastases SEER
+3565,exclude,Not relevant to the research question/topic,Medicaid enrollment timing stage survival
+3566,exclude,Not relevant to the research question/topic,stagnating life expectancy AIAN
+3567,exclude,Not relevant to the research question/topic,Turner syndrome cancer phenotype retracted
+3568,exclude,Not relevant to the research question/topic,obesity cardiotoxicity BC lymphoma
+3569,exclude,Not relevant to the research question/topic,PM2.5 BC mortality California
+3570,exclude,Not a US population-based/registry study,symptomatic triple assessment book chapter UK
+3571,exclude,Not relevant to the research question/topic,uterine cancer American Samoa
+3572,exclude,Not relevant to the research question/topic,multimorbidity COPD Medicare
+3573,exclude,"Editorials, commentaries, letters, or conference abstracts",dismal history cancer treatment disparities
+3574,exclude,Not a US population-based/registry study,Western prudent diet BC Mexican
+3575,exclude,Not relevant to the research question/topic,folic acid micelles drug carrier chapter
+3576,exclude,Not relevant to the research question/topic,endocrine disruptors CLARITY-BPA
+3577,exclude,Not relevant to the research question/topic,disparities cancer survival AYA Texas
+3578,exclude,Not relevant to the research question/topic,poor-prognosis metastatic AYA SEER
+3579,exclude,Not relevant to the research question/topic,VTE preoperative risk model
+3580,exclude,Not relevant to the research question/topic,cannabis drugs BC incidence US ecological
+3581,exclude,Not relevant to the research question/topic,ESA costs racial disparities Medicare
+3582,exclude,Not relevant to the research question/topic,adjuvant small HER2+ BC SEER
+3583,exclude,Not a US population-based/registry study,temporal trends BC Asian countries GBD
+3584,exclude,Not relevant to the research question/topic,bone metastatic BC SEER prognosis
+3585,exclude,Not relevant to the research question/topic,survival SPM childhood cancer SEER
+3586,exclude,"Editorials, commentaries, letters, or conference abstracts",erratum BC incidence race MMWR
+3587,exclude,Not relevant to the research question/topic,AA women ovarian cancer action
+3588,exclude,Not relevant to the research question/topic,ATM variants BC meta-analysis
+3589,exclude,Not relevant to the research question/topic,racial SES disparities lung breast outcomes chapter
+3590,exclude,Not relevant to the research question/topic,continuous rural-urban coding Florida
+3591,exclude,Not relevant to the research question/topic,unilateral nipple discharge man BC case
+3592,exclude,Not relevant to the research question/topic,cancer risks BRCA1/2 variants
+3593,exclude,Not relevant to the research question/topic,radiation dermatitis esophagitis AA RT
+3594,exclude,Not relevant to the research question/topic,perceived discrimination Black White BC
+3595,exclude,Not a US population-based/registry study,Gail model Iranian women
+3596,exclude,Not a US population-based/registry study,mammographic density BC Korean
+3597,exclude,Not relevant to the research question/topic,stagnant US mammography COVID
+3598,exclude,Not relevant to the research question/topic,hair chemicals breast cancer news
+3599,exclude,Not relevant to the research question/topic,cardiovascular disease BC survivors SEER-Medicare

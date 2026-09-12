@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3000,exclude,Not a US population-based/registry study,BC trends Israeli Jewish Arab
+3001,exclude,Not a US population-based/registry study,BC care Latin America review
+3002,exclude,Not relevant to the research question/topic,second primary ovarian after breast
+3003,exclude,Not a US population-based/registry study,insulin glargine cancer France
+3004,exclude,Not relevant to the research question/topic,SPM myeloma ASCT City of Hope
+3005,exclude,Not relevant to the research question/topic,adjuvant chemo TRAM scarring
+3006,exclude,Not relevant to the research question/topic,preoperative MRI multiple surgeries SEER-Medicare
+3007,exclude,Not a US population-based/registry study,Gail recalibration Spanish
+3008,exclude,Not relevant to the research question/topic,SIM2 ETS2 Down syndrome malignancy
+3009,exclude,Not relevant to the research question/topic,cost BC screening Medicare
+3010,exclude,Not a US population-based/registry study,T2DM cancer risk Taiwan
+3011,exclude,Not relevant to the research question/topic,VTE mastectomy ACS-NSQIP
+3012,exclude,Not relevant to the research question/topic,delayed detection Texas counties
+3013,exclude,Not relevant to the research question/topic,insulin glargine cancer meta-analysis
+3014,exclude,Not a US population-based/registry study,BC subtypes Sarawak Malaysia
+3015,exclude,Not relevant to the research question/topic,FDG PET synchronous esophageal
+3016,exclude,Not a US population-based/registry study,depression Korean BC longitudinal
+3017,exclude,Not relevant to the research question/topic,daidzein rat uterus BC cells
+3018,exclude,Not a US population-based/registry study,BC screening KAP China
+3019,exclude,Not relevant to the research question/topic,bone marrow failure epidemiology
+3020,exclude,Not a US population-based/registry study,BC screening practices Taiwan
+3021,exclude,Not a US population-based/registry study,BRCA SNP Indian early-onset
+3022,exclude,Not relevant to the research question/topic,LRR nipple-sparing mastectomy
+3023,exclude,Not a US population-based/registry study,Gail SE Asia Singapore
+3024,exclude,Not relevant to the research question/topic,metformin docetaxel prostate trial
+3025,exclude,Not relevant to the research question/topic,Friedreich ataxia mouse neoplasia
+3026,exclude,Not a US population-based/registry study,cancer registry comparability Sweden
+3027,exclude,Not a US population-based/registry study,raloxifene surveillance Japan
+3028,exclude,Not a US population-based/registry study,elderly Asian European BC comparison
+3029,exclude,Not relevant to the research question/topic,light deficiency BC endocrine ecological
+3030,exclude,Not a US population-based/registry study,cancer incidence Nigeria PBCR
+3031,exclude,Not relevant to the research question/topic,harmonic scalpel BCS
+3032,exclude,Not a US population-based/registry study,postmenopausal BC Iran PAF
+3033,exclude,Not relevant to the research question/topic,trichosanthin BC cells mice
+3034,exclude,Not relevant to the research question/topic,selective preoperative MRI reoperation
+3035,exclude,Not relevant to the research question/topic,metastatic brain tumors US estimate
+3036,exclude,Not relevant to the research question/topic,rare prostate variants SEER
+3037,exclude,Not relevant to the research question/topic,positive margin BCS palpable
+3038,exclude,Not relevant to the research question/topic,endometrial MMR young patients
+3039,exclude,Not a US population-based/registry study,cancer screening learning disability UK
+3040,exclude,Not relevant to the research question/topic,diabetes metformin BC WHI
+3041,exclude,Not relevant to the research question/topic,smoking taxane PK toxicity
+3042,exclude,Not relevant to the research question/topic,seaweed early BC trial
+3043,exclude,Not relevant to the research question/topic,TNBC epidemiology recommendations review
+3044,exclude,Not relevant to the research question/topic,cancer screening AA Arab Chaldean Detroit
+3045,exclude,Not a US population-based/registry study,cancer parents schizophrenia
+3046,exclude,Not a US population-based/registry study,obesity NCT response Chinese
+3047,exclude,Not relevant to the research question/topic,red clover menopause trial
+3048,exclude,Not a US population-based/registry study,breastfeeding parity BC subtypes Spain
+3049,exclude,Not a US population-based/registry study,basal insulin cancer Israel GOH
+3050,exclude,Not a US population-based/registry study,BC incidence European women 20-39
+3051,exclude,Not a US population-based/registry study,second cancers NMSC Korea
+3052,exclude,Not a US population-based/registry study,descriptive epidemiology BC international
+3053,exclude,Not a US population-based/registry study,risk factors BC Northeast China
+3054,exclude,Not relevant to the research question/topic,pCR prognosis biomarker model
+3055,exclude,Not relevant to the research question/topic,BRCA mutations Puerto Rico prevalence
+3056,exclude,"Editorials, commentaries, letters, or conference abstracts",palliative RT bone mets Japan survey
+3057,exclude,Not relevant to the research question/topic,mammographic density adiposity 4 studies
+3058,exclude,Not relevant to the research question/topic,PKC ER TNBC AA Caucasian biomarker
+3059,exclude,Not a US population-based/registry study,de novo malignancy liver transplant Korea

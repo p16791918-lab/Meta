@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2540,exclude,Not a US population-based/registry study,gyn misinformation tweets China
+2541,exclude,Not relevant to the research question/topic,second primary lung after BC SEER
+2542,exclude,Not a US population-based/registry study,BRONJ survey Japan
+2543,exclude,Not a US population-based/registry study,FN antimicrobial Filipino
+2544,exclude,Not relevant to the research question/topic,BRCA diverse populations review
+2545,exclude,Not relevant to the research question/topic,ER status CBC after DCIS SEER
+2546,exclude,Not relevant to the research question/topic,subcutaneous trastuzumab SafeHer
+2547,exclude,Not relevant to the research question/topic,second cancers Hodgkin SEER
+2548,include,,Cancer incidence Hmong Minnesota 2000-2012
+2549,exclude,Not a US population-based/registry study,pancreatic metastases Japan
+2550,exclude,Not relevant to the research question/topic,CPM psychosocial outcomes
+2551,exclude,Not a US population-based/registry study,case-control BC Malaysia
+2552,exclude,Not relevant to the research question/topic,second neoplasm Hodgkin
+2553,exclude,Not a US population-based/registry study,BMI cancer China T2DM
+2554,exclude,Not relevant to the research question/topic,acupressure post-op pain trial
+2555,exclude,Not a US population-based/registry study,8-isoprostane German ESTHER
+2556,exclude,Not a US population-based/registry study,occupational inequalities Japan
+2557,exclude,Not a US population-based/registry study,HBV extra-hepatic cancers China
+2558,exclude,Not relevant to the research question/topic,hormonal contraceptives pathology DoD CBCP
+2559,exclude,Not a US population-based/registry study,CHF anthracycline/trastuzumab Korea
+2560,exclude,Not a US population-based/registry study,diabetes after cancer Korea
+2561,exclude,Not relevant to the research question/topic,whole grain cancer Framingham
+2562,exclude,Not a US population-based/registry study,incidence/mortality Trinidad Tobago
+2563,exclude,Not a US population-based/registry study,SM CML TKI Japan
+2564,exclude,Not a US population-based/registry study,BC prevalence SES South Korea
+2565,exclude,Not relevant to the research question/topic,breast metastases RCC case
+2566,exclude,Not relevant to the research question/topic,bone metastasis prostate SEER
+2567,exclude,Not relevant to the research question/topic,botulinum CIPN trial
+2568,exclude,Not a US population-based/registry study,pegteograstim Korea trial
+2569,exclude,Not a US population-based/registry study,metastatic spine 3 continents
+2570,exclude,Not a US population-based/registry study,ethnic disparity BC survival Thailand
+2571,exclude,Not relevant to the research question/topic,PALINA palbociclib AAW BEN
+2572,exclude,Not a US population-based/registry study,chest wall recurrence Korea
+2573,exclude,Not relevant to the research question/topic,gender minority cancer primary site NAACCR
+2574,exclude,Not a US population-based/registry study,risk prediction Nigeria
+2575,exclude,Not a US population-based/registry study,metabolites BC Korea
+2576,exclude,Not relevant to the research question/topic,video counseling HPV trial
+2577,exclude,Not relevant to the research question/topic,feedback device weight loss trial
+2578,exclude,Not a US population-based/registry study,intracystic papillary China
+2579,exclude,Not a US population-based/registry study,BMI cancer China T2D Ningbo
+2580,exclude,Not a US population-based/registry study,Lynch syndrome Japan
+2581,exclude,Not relevant to the research question/topic,Gail model meta-analysis
+2582,exclude,Not relevant to the research question/topic,BRCA testing decision support trial
+2583,exclude,Not a US population-based/registry study,BRCA1 methylation ovarian Norway
+2584,exclude,Not a US population-based/registry study,falls CNS drugs China
+2585,exclude,Not a US population-based/registry study,adolescent obesity male BC Israel
+2586,exclude,Not relevant to the research question/topic,false-positive mammography Boston
+2587,exclude,Not a US population-based/registry study,cost-effectiveness screening Vietnam
+2588,exclude,Not relevant to the research question/topic,ARIC cancer infrastructure
+2589,exclude,Not a US population-based/registry study,disparities cancer trials worldwide
+2590,exclude,Not a US population-based/registry study,induced abortion South Asia meta-analysis
+2591,exclude,Not relevant to the research question/topic,metabolic profiles TNBC AA
+2592,exclude,Not a US population-based/registry study,pegfilgrastim Korea observational
+2593,exclude,Not relevant to the research question/topic,personal care product BC Sister Study
+2594,exclude,Not relevant to the research question/topic,second primary ALL SEER
+2595,exclude,Not a US population-based/registry study,247 GWAS temperature adaptation
+2596,exclude,Not a US population-based/registry study,urban-rural BC China
+2597,exclude,Not relevant to the research question/topic,CSF decision support claims
+2598,exclude,Not a US population-based/registry study,cancer China diabetes
+2599,exclude,Not a US population-based/registry study,BC Latin America map

@@ -1,0 +1,1379 @@
+record_id=265 pmid=19066264 doi=10.1093/jnci/djn411
+SOURCE: manual-pdf
+TITLE: Age-related crossover in breast cancer incidence rates between black and white ethnic groups
+
+1804   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+ It is widely recognized that breast cancer incidence rates overall 
+are higher in black women than in white women younger than 40 
+years. However, it is not as well known that age-speciﬁ c incidence 
+rates are higher for black women among women younger than 40 
+years and higher for white women among women 40 years or 
+older. This so-called black-to-white ethnic crossover has been well 
+described ( 1 – 4 ) but has not been fully understood and has some-
+times been viewed as an artifact ( 5 ). 
+ Differential screening practices and/or hormone replacement 
+therapy use cannot explain the higher incidence rates among young 
+black women because routine screening mammography and hor-
+mone replacement therapy begin after the age of 40 years. Differential 
+racial proﬁ les for age-dependent risk factors may be a more plausible 
+explanation for the crossover ( 3 , 5 – 7 ), with black women having an 
+elevated risk for the early-onset types of breast cancer and a reduced 
+risk for the late-onset types of breast cancer, compared with white 
+women. If differential risk factor proﬁ les for different breast cancer 
+types account for the black-to-white incidence rate crossover, then 
+the crossover is a population-based expression of biologic and/or 
+etiologic heterogeneity and should be a robust (ie, reliable and 
+reproducible) feature of vital incidence rates. 
+ To assess the reliability and reproducibility of the black-to-
+white breast cancer incidence rate crossover, we obtained case and 
+ Affiliations of authors: Biostatistics Branch, Division of Cancer Epidemio -
+logy and Genetics, National Cancer Institute, National Institutes of Health, 
+United States Department of Health and Human Services, Bethesda, MD 
+(WFA, PSR, IM, RMP); Department of Epidemiology and Public Health, Yale 
+University School of Medicine, New Haven, CT (AM) . 
+ Correspondence to: William F. Anderson, MD, MPH, Biostatistics Branch, 
+Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, United States Department of Health and Human 
+Services, EPS, Rm 8036, 6120 Executive Blvd, Bethesda, MD 20892-7244 
+(e-mail:  wanderso@mail.nih.gov ). 
+ See “Funding” and “Notes” following “References.” 
+ DOI: 10.1093/jnci/djn411 
+ Published by Oxford University Press 2008. 
+ ARTICLE 
+ Age-Related Crossover in Breast Cancer Incidence 
+Rates Between Black and White Ethnic Groups 
+ William F.  Anderson ,  Philip S.  Rosenberg ,  Idan  Menashe ,  Aya  Mitani ,  Ruth M.  Pfeiffer 
+ 
+ Background 
+ Although breast cancer incidence is higher in black women than in white women among women younger 
+than 40 years, the reverse is true among those aged 40 years or older. This crossover in incidence rates 
+between black and white ethnic groups has been well described, has not been completely understood, 
+and has been viewed as an artifact. 
+ 
+ Methods 
+ To quantify this incidence rate crossover, we examined data for 440  653 women with invasive breast can-
+cer from the National Cancer Institute ’ s Surveillance, Epidemiology, and End Results database from 
+January 1, 1975, through December 31, 2004. Data on invasive female breast cancers were stratified by 
+race, age at diagnosis, year of diagnosis, and tumor characteristics. Standard descriptive analyses were 
+supplemented with Poisson regression models, age – period – cohort models, and two-component mixture 
+models. All statistical tests were two-sided. 
+ 
+ Results 
+ We observed qualitative (ie, crossing or reversing) interactions between age and race. That is, age-specific 
+incidence rates overall (expressed as number of breast cancers per 100  000 woman-years) were higher 
+among black women (15.5) than among white women (13.1) younger than 40 years (difference = 2.4, 95% 
+confidence interval [CI] = 2.4 to 2.4), and then, age-specific rates crossed with rates higher among white 
+women (281.3) than among black women (239.5) aged 40 years or older (difference = 41.8, 95% CI = 41.7 
+to 41.9). The black-to-white incidence rate crossover was observed for all tumor characteristics assessed, 
+although the crossover occurred at earlier ages of diagnosis for low-risk tumor characteristics than for 
+high-risk tumor characteristics. The incidence rate crossover between ethnic groups was robust (ie, reli-
+able and reproducible) to adjustment for calendar period and birth cohort effects in age – period – cohort 
+models ( P < .001 for difference by race). 
+ 
+ Conclusion 
+ Although this ecologic study cannot determine the individual-level factors responsible for the racial cross-
+over in vital rates, it confirms that the age-related crossover in breast cancer incidence rates between 
+black and white ethnic groups is a robust age-specific effect that is independent of period and cohort 
+effects. 
+ 
+ 
+J Natl Cancer Inst 2008;100: 1804 – 1814 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+jnci.oxfordjournals.org   
+JNCI | Articles 1805
+population data from the National Cancer Institute’s Surveillance, 
+Epidemiology, and End Results (SEER) database. We supple-
+mented standard descriptive epidemiology with three mathemati-
+cal models. First, Poisson regression models provided statistical 
+signiﬁ cance tests of age interactions between black and white race; 
+statistically signiﬁ cant age interactions would be consistent with 
+biologic interactions due to etiologic heterogeneity ( 8 ). Second, 
+age – period – cohort models yielded ﬁ tted age-speciﬁ c incidence 
+rate curves for black and white women that were adjusted for cal-
+endar period and/or birth cohort effects. Different age-speciﬁ c 
+incidence rate patterns after adjustment for period and/or cohort 
+effects (or artifacts) would be consistent with different age-
+dependent biology and/or etiology. Third, two-component mix-
+ture models identiﬁ ed heterogeneity in the age distributions at 
+diagnosis among black and white women by determining whether 
+two or more breast cancer populations ﬁ t the data better than a 
+single breast cancer population. Different age distributions at 
+diagnosis in black vs white women would provide further proof of 
+biologic heterogeneity ( 9 , 10 ). 
+ Patients and Methods 
+ We obtained data for patients with invasive female breast cancer 
+from nine registry databases in the National Cancer Institute’s 
+SEER program (the SEER 9 Registries database) from January 1, 
+1975, through December 31, 2004. These nine SEER registries 
+include Connecticut, Iowa, New Mexico, Utah, Hawaii, Detroit, 
+San Francisco – Oakland, Atlanta, and Seattle – Puget Sound, and 
+cover approximately 10% of the US population ( 11 ). We stratified 
+breast cancer patients by black and white race, age at diagnosis, 
+year of diagnosis, and estrogen receptor (ER) expression status. 
+Other racial groups were excluded from this analysis. The follow-
+ing four age groups were arbitrarily chosen to approximate mam-
+mography screening prevalence and/or use of hormone replacement 
+therapy: age younger than 40 years (no routine screening or use of 
+hormone replacement therapy), ages 40 – 49 years (low screening 
+and no use of hormone replacement therapy), ages 50 – 69 years 
+(likely screened and highest use of hormone replacement therapy), 
+and age 70 years or older (low screening and very low or no use of 
+hormone replacement therapy). 
+ Demographic and Tumor Characteristics 
+ Although black and white race, age at diagnosis, and tumor grade 
+were recorded for the entire study period in the SEER database, 
+extent of disease codes for tumor size and axillary lymph node 
+involvement was most consistently recorded from 1988 forward. 
+Estrogen receptor status was collected from 1990 forward. 
+ Tumor characteristics (tumor size, lymph node involvement, 
+grade, and ER status) were dichotomized into favorable (low risk) 
+vs unfavorable (high risk) groups (ie, tumor size  ≤ 2.0 vs >2.0 cm, 
+lymph node – negative vs lymph node – positive status, low- vs high-
+grade tumor, and ER-positive vs ER-negative status, respectively). 
+Low-grade tumors included grade 1 (well differentiated) plus 
+grade 2 (moderately differentiated). High-grade tumors included 
+grade 3 (poorly differentiated) plus grade 4 (undifferentiated or 
+anaplastic). Each SEER registry recorded ER status as positive, 
+negative, missing, borderline, or unknown. For all tumor charac-
+teristics (tumor size, lymph node involvement, grade, and ER 
+status), missing, borderline, or unknown tumor features were 
+combined into a single group that was designated “other or 
+unknown” for descriptive purposes but were excluded from fur-
+ther analyses. 
+ Statistical Methods 
+ Age-standardized (US standard population for the year 2000) inci-
+dence rates were obtained by use of SEER*Stat 6.3.6 statistical 
+software and expressed as the number of breast cancers per 100  000 
+woman-years (ie, women per year). Percent changes in incidence 
+rates were calculated from the earliest to the latest recorded time 
+periods; 95% confidence intervals for the percent changes were 
+calculated by the delta method ( 12 ). 
+ Age-standardized incidence rates were graphed on log – linear 
+plots by six 5-year time periods (1975 – 1979, 1980 – 1984, 1985 –
+ 1989, 1990 – 1994, 1995 – 1999, and 2000 – 2004). Age-speciﬁ c inci-
+dence rates were graphed on a log – log scale by fourteen 5-year age 
+groups (ages 20 – 24, 25 – 29,  … , 80 – 84, and  ≥ 85 years). Poisson 
+regression models were used to examine the association of age and 
+race with breast cancer incidence rates. For this analysis, we used 
+cubic regression splines to obtain a smooth but ﬂ exible model of the 
+age effects. We then selected a common value for the number of 
+segments by use of the Akaike information criterion ( 13 ) and tested 
+for an interaction between age (modeled as a regression spline) and 
+race by use of a likelihood ratio test. Under the null hypothesis of 
+no interaction between age and race, the age-speciﬁ c incidence rate 
+curves for black and white women would be parallel on the log – log 
+ CONTEXT AND CAVEATS 
+ Prior knowledge 
+ The incidence rate for breast cancer among women younger than 
+40 years is higher among black women than among white women, 
+but the incidence rate among women aged 40 years or older is 
+higher among white women than among black women. 
+ Study design 
+ Population-based retrospective analysis of data for 440  653 women 
+with invasive breast cancer from the National Cancer Institute’s 
+Surveillance, Epidemiology, and End Results database from 
+January 1, 1975, through December 31, 2004. 
+ Contribution 
+ The age-specific ethnic crossover in incidence rates for breast can-
+cer was confirmed. 
+ Implications 
+ The breast cancer incidence rate crossover between black and 
+white ethnic groups may reflect breast cancer heterogeneity, with 
+black women having more early-onset and less late-onset types of 
+breast cancer than white women. 
+ Limitations 
+ This study had the usual limitations of a descriptive epidemiologic 
+study, including a retrospective registry assessment, missing data, 
+nonstandardized histopathologic typing, and lack of individual-
+level risk factor data. 
+ From the Editors 
+  
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+1806   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+scale or proportional on the absolute scale. Statistically signiﬁ cant 
+age interactions could be quantitative (noncrossover) or qualitative 
+( 8 , 14 , 15 ). Quantitative interactions correspond to slope changes in 
+incidence rates in magnitude but not in direction (eg, the black vs 
+white incidence rate ratio [IRR BW ] was always >1.0 or always <1.0). 
+Qualitative interactions correspond to slope changes in magnitude 
+and direction with the age lines crossing (eg, the black-to-white 
+incidence rate ratio switched from >1.0 to <1.0 or from <1.0 to 
+>1.0). We also compared age-speciﬁ c incidence rates by ER expres-
+sion status with Poisson regression models ( Supplementary Figures 
+1 and  2 , available online). As for race, statistically signiﬁ cant inter-
+actions between age ER status could be quantitative (ie, noncross-
+over) or qualitative. Even though ER status is a tumor characteristic 
+rather than an independent predictor variable, parameterization of 
+ER status allowed us to test for different age-related effects by ER 
+expression by use of a likelihood ratio test. 
+ Age – period – cohort models were used to simultaneously assess 
+age-speciﬁ c incidence rates that are adjusted for calendar period 
+and birth cohort effects ( 16 – 19 ). As described by Tarone and Chu 
+( 20 ), we used 2-year age groups and 2-year time periods. Given 
+that the year of birth equals the year of diagnosis minus the age at 
+diagnosis, our analysis of ﬁ fteen 2-year time periods from 1975 
+through 2004 and thirty-two 2-year age groups from ages 20 
+through 83 years spanned forty-six 2-year birth cohorts from 1893 
+to 1983 (referred to by midyear of birth). Because the age, period, 
+and cohort variables are collinear, it is not possible to completely 
+separate the linear trend in calendar period effects from the linear 
+trend in age effects or the linear trend in birth cohort effects from 
+the linear trend in calendar period effects ( 18 ). This collinearity is 
+known as the “nonidentiﬁ ability” problem of age – period – cohort 
+models. Notwithstanding this nonidentiﬁ ability issue, certain age –
+ period – cohort parameters can be estimated if the age, calendar 
+period, and birth cohort trends are orthogonally decomposed into 
+their linear and nonlinear components ( 19 ) (for additional details, 
+see  Appendix 1 ). 
+ In brief, the estimable age – period – cohort parameters include 
+intercepts, “drifts” (or linear trends) ( 16 ), “deviations” (or nonlin-
+ear departures from the linear trends) ( 21 ), “curvatures” (or second 
+differences) ( 17 ), and “slope contrasts” (or differences between log – -
+linear trends over adjacent blocks of ages, periods, or cohorts) ( 22 ). 
+Another useful identiﬁ able age – period – cohort parameter is the 
+“ﬁ tted age of onset curve,” which is the sum of an intercept term, 
+a drift parameter that we refer to as the “longitudinal age trend” 
+( 16 , 23 ), and an age deviation ( 18 ). We ﬁ tted the age-at-onset 
+curves to breast cancer incidence for white and black women 
+separately. Because the curves were obtained from separate age – 
+ period – cohort models, they also were adjusted for any period and 
+ 
+ 
+ Figure 1 .  Age-standardized (US population in the year 2000) temporal 
+trends and age-speciﬁ c incidence trends for breast cancer among white 
+and black women in the National Cancer Institute’s Surveillance, 
+Epidemiology, and End Results 9 Registries database from 1975 
+through 2004.  A ) Overall age-standardized incidence rate trends by 
+race.  B ) Age-speciﬁ c incidence rate trends by race (black vs white) and 
+age at diagnosis (age groups  ≥ 70, 50 – 69, 40 – 49, and <40 years). Poisson 
+regression models were used to obtain  P values to assess age interac-
+tions by race within age groups. All statistical tests were two-sided. 
+ Figure 2 .  Age-speciﬁ c incidence rates for breast cancer 
+among white and black women in the National Cancer 
+Institute’s Surveillance, Epidemiology, and End Results 
+9 Registries database from 1975 through 2004.  A ) Age-
+speciﬁ c incidence rates. Age-speciﬁ c incidence rates 
+were higher among black women than among white 
+women younger than 40 years and higher among 
+white women aged 40 years or older. This so-called 
+incidence rate crossover between black and white eth-
+nic groups was near Clemmesen’s menopausal hook, 
+which occurs at approximately age 50 years. Poisson 
+regression models were used to obtain  P values to 
+assess age interactions by race. All statistical tests 
+were two-sided.  B ) Age-speciﬁ c incidence rate curves 
+from the age – period – cohort ﬁ tted model that was 
+adjusted for calendar period and birth cohort effects. 
+The incidence rate crossover between black and white 
+ethnic groups was robust (ie, reliable and reproduc-
+ible) to these adjustments. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+jnci.oxfordjournals.org   
+JNCI | Articles 1807
+cohort deviations that might differ between black and white 
+women. For example, period effects could differ between black and 
+white women if screening trends varied by race, and cohort effects 
+could differ if the proﬁ le of breast cancer risk factors such as obe-
+sity or hormone replacement therapy changed differentially in 
+successive cohorts of black and white women. 
+ Kernel density estimation was used to produce smoothed age 
+distribution curves at diagnosis (or density plots) in single years, as 
+previously described ( 24 ). In brief, the kernel smoother estimated 
+the underlying probability density function for breast cancer inci-
+dence by age at diagnosis in single years. The area under each 
+density plot represented 100% of the patients with breast cancer; 
+95% conﬁ dence intervals were calculated with bootstrap resam-
+pling techniques. 
+ Finally, two-component mixture models were used to deter-
+mine whether the age distributions at diagnosis ﬁ t two or more 
+breast cancer populations better than a single breast cancer popu-
+lation. The key model parameter was the probability of being in 
+the earlier group, which was used to summarize changes in age 
+distributions over time. The probability density function,  g , is 
+given by the formula:  g ( y ) =  f ( y ;  0 ) p +  f ( y ;  1 )(1    p ), where  y = ( x    
+  1)/  and  x = age at diagnosis with parameters (  ,  p ,   0 ,   1 ). The 
+parameter   denotes the power transformation,   is the mixing 
+proportion,   0 and   1 stand for all the parameters that are used in 
+the component densities  f . Further details on the parameterization 
+and estimations have been described ( 9 , 10 ). We used the log-
+likelihood ratio test and the Akaike information criterion to de -
+termine model ﬁ t, with the larger Akaike information criterion 
+corresponding to the model with the better ﬁ t to the data ( 13 ). All 
+statistical tests were two-sided. 
+ Results 
+ Descriptive Statistics 
+ The SEER 9 Registries database collected data on 440  653 patients 
+with invasive female breast cancer who were newly diagnosed dur-
+ing the period from January 1, 1975, through December 31, 2004 
+( Table 1 ). Among these 440  653 patients, 34  478 were black and 
+381  122 white. Black patients had a younger mean age at diagnosis 
+(57.6 years) than white patients (62.6 years) and a larger mean 
+tumor size (2.8 vs 2.1 cm) (for both,  P < .001 for difference). 
+Overall breast cancer incidence was lower among black women 
+(111.9 cases of breast cancer per 100  000 woman-years) than 
+among white women (128.5 cases of breast cancer per 100  000 
+woman-years) (difference = 16.6 cases of breast cancer per 100  000 
+woman-years, 95% confidence interval [CI] = 16.5 to 16.7). 
+However, among women younger than 40 years ( Table 1 ), inci-
+dence rates were 20% higher for black women than for white 
+women (IRR BW = 1.2, 95% CI = 1.1 to 1.2), whereas among women 
+aged 40 years or older, incidence rates were lower for black women 
+than for white women (IRR BW < 1.0 for age groups 40 – 49, 50 – 69, 
+and  ≥ 70 years). Of note, the incidence rate ratio for black to white 
+women was less than 1.0 for all low-risk tumor characteristics (eg, 
+IRR BW = 0.6, 95% CI = 0.6 to 0.7, for tumor size  ≤ 2.0 cm) and 1.0 
+or more for all high-risk tumor characteristics (eg, IRR BW = 1.2, 
+95% CI = 1.2 to 1.2, for tumor size >2.0 cm) ( 25 ). Similar patterns 
+ Table 1 .  Descriptive statistics of invasive breast cancer among women in the National Cancer Institute’s SEER 9 Registries database 
+from 1975 through 2004 * 
+ Variable
+Total (n = 440  653) 
+Black women (n = 34  478) 
+White women (n = 381  122) 
+IRR BW (95% CI) 
+ No.
+Rate (95% CI)
+No.
+Rate (95% CI)
+No.
+Rate (95% CI) 
+ Age, y (1975+) 
+  <40
+27  931
+13.2 (13.1 to 13.4)
+3961
+15.5 (15.0 to 16.0)
+21  638
+13.1 (12.9 to 13.3)
+1.2 (1.1 to 1.2) 
+  40 – 49
+72  066 152.0 (150.9 to 153.2)
+7399 146.2 (142.9 to 149.6)
+59  028 155.2 (154.0 to 156.5)
+0.9 (0.9 to 1.0) 
+  50 – 69
+194  720 293.1 (291.8 to 294.4) 14  981 256.6 (252.5 to 260.7)
+167  954 304.3 (302.8 to 305.7)
+0.8 (0.8 to 0.9) 
+  ≥ 70
+145  936 429.1 (426.9 to 431.3)
+8137 361.3 (353.5 to 369.3)
+132  502 446.1 (443.7 to 448.5)
+0.8 (0.8 to 0.8) 
+ Tumor size (1988+) 
+  ≤ 2.0 cm
+165  413
+74.8 (74.1 to 75.1)
+10  393
+51.5 (50.5 to 52.5)
+144  082
+79.4 (79.0 to 79.9)
+0.6 (0.6 to 0.7) 
+  >2.0 cm
+91  557
+41.2 (41.0 to 41.5)
+10  088
+48.6 (47.6 to 49.5)
+75  060
+41.3 (41.0 to 41.6)
+1.2 (1.2 to 1.2) 
+  Other or unknown
+183  683
+ — 
+13  997
+ — 
+161  980
+ — 
+ — 
+ Lymph node status (1988+) 
+  Negative
+155  537
+70.7 (70.3 to 71.0)
+10  363
+50.5 (49.6 to 51.5)
+134  216
+74.7 (74.3 to 75.1)
+0.7 (0.7 to 0.7) 
+  Positive
+78  891
+36.0 (35.8 to 36.3)
+7614
+35.9 (35.1 to 36.8)
+65  881
+37.1 (36.8 to 37.4)
+1.0 (0.9 to 1.0) 
+  Other or unknown
+206  225
+ — 
+16  501
+ — 
+181  025
+ — 
+ — 
+ Tumor grade (1975+) 
+  Low
+149  130
+42.1 (41.9 to 42.3)
+9017
+29.9 (29.3 to 30.6)
+129  690
+43.6 (43.4 to 43.9)
+0.7 (0.7 to 0.7) 
+  High
+109  642
+31.3 (31.1 to 31.5)
+11  621
+36.6 (36.0 to 37.3)
+91  169
+31.3 (31.1 to 31.5)
+1.2 (1.1 to 1.2) 
+  Other or unknown
+181  881
+ — 
+13  840
+ — 
+160  263
+ — 
+ — 
+ ER status (1990+) 
+  Positive
+166  097
+74.9 (74.6 to 75.3)
+10  303
+51.3 (50.3 to 52.3)
+143  783
+79.1 (78.7 to 79.5)
+0.6 (0.6 to 0.7) 
+  Negative
+49  044
+22.4 (22.2 to 22.6)
+6609
+30.9 (30.2 to 31.7)
+38  784
+21.9 (21.7 to 22.2)
+1.4 (1.4 to 1.4) 
+  Other or unknown
+225  512
+ — 
+17  566
+ — 
+198  555
+ — 
+ — 
+ *  Data for rate are the number of patients per 100  000 woman-years (age adjusted to the US standard population for the year 2000). Year in parenthesis indicates 
+the time period in which SEER collected data for a given tumor characteristic. For example, SEER recorded age at diagnosis from 1975 forward (1975+). Because 
+SEER did not collect and/or record all tumor characteristics for all time periods, rates and rate ratios are calculated only for those patients with breast cancer 
+who had available data. SEER = Surveillance, Epidemiology, and End Results; CI = confidence interval; IRR BW = black vs white incidence rate ratio in which the 
+incidence rate among black women is compared with that among white women; ER = estrogen receptor;  — = not calculated and/or not applicable. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+1808   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+were observed for lymph node – negative vs lymph node – positive 
+disease, low- vs high-grade tumor, and ER-positive vs ER-negative 
+disease. 
+ Temporal trends in incidence rates among women with inva-
+sive breast cancer are shown in  Table 2 for the following three 
+time periods: 1975 – 1979, 1990 – 1994, and 2000 – 2004. The median 
+age at diagnosis rose from 61 to 64 years from 1975 – 1979 to 
+1990 – 1994, and then returned to 61 years during 2000 – 2004. 
+Incidence rates overall increased 28.3% (95% CI = 27.5% to 
+29.0%) from 1975 – 1979 to 2000 – 2004 (ie, from 102.1 to 131.0 
+cases of breast cancer per 100  000 woman-years, respectively). 
+Incidence rates increased more over this period for older women 
+(for ages 50 – 69 years, 38.1%, 95% CI = 35.3% to 41.1%) than for 
+younger women (for ages <40 years, 5.8%, 95% CI = 5.6% to 
+6.0%). Among both black and white women, incidence rates rose 
+substantially from 1975 – 1979 to 1990 – 1994, with little or no 
+increase from 1990 – 1994 to 2000 – 2004 ( 26 ). Incidence rates gen-
+erally rose more for tumors with favorable characteristics (eg, 
+small tumors, lymph node – negative disease, low-grade tumor, and 
+ER-positive status) than for tumors with unfavorable characteris-
+tics (eg, large tumors, lymph node – positive disease, high-grade 
+tumor, and ER-negative status), although conclusions are some-
+what limited by the reapportionment of unknown to known tumor 
+characteristics over time. For example, percent unknown for ER 
+status fell from 24.8% (or 19  784 of a total of 79  642 patients) 
+during 1990 – 1994 to 13.6% (or 12  804 of a total of 94  446 patients) 
+during 2000 – 2004. Additionally, given that SEER did not record 
+tumor characteristics for all time periods, time trends for tumor 
+characteristics also were relatively short for tumor size (from 1988 
+forward), lymph node status (from 1988 forward), and hormone 
+receptor expression (from 1990 forward). Therefore, these percent 
+changes should be interpreted with caution. 
+ Incidence Patterns by Age and Race 
+ Age-adjusted incidence rates rose until the late 1990s and then 
+began to fall ( Figure 1, A ), with rates greater for white women than 
+for black women for the entire study period (1975 – 2004). 
+Notwithstanding these overall secular trends, age-specific tempo-
+ral trends varied “qualitatively” (ie, they switched, crossed, or 
+reversed) by race and age ( Figure 1, B ). For example, among 
+women aged 40 – 49, 50 – 69, and 70 years or older, incidence rates 
+were greater for white women than for black women for the entire 
+study period, whereas among women younger than 40 years, inci-
+dence rates were greater for black women. Of note, measures of 
+interaction (effect modification) by race within age groups were 
+statistically significantly different for women aged 40 years or 
+older (ranging from  P < .01 to  P < .001) but not statistically signifi-
+cantly different among women younger than 40 years ( P = .75). 
+ Age-speciﬁ c incidence rates also varied qualitatively (ie, they 
+switched, crossed, or reversed) by race ( Figure 2 ). For example, 
+ Table 2 .  Temporal trends in invasive breast cancer among women in the National Cancer Institute’s SEER 9 Registries database for 
+three time periods: 1975 through 1979, 1990 through 1994, and 2000 through 2004 * 
+ Variable
+1975 – 1979 (n = 48  285) 
+1990 – 1994 (n = 79  642) 
+2000 – 2004 (n = 94  446) 
+%CH (95% CI) 
+ No.
+Rate (95% CI)
+No.
+Rate (95% CI)
+No.
+Rate (95% CI) 
+ Age, y (1975+) 
+  <40
+3263
+12.6 (12.1 to 13.0)
+5099
+13.0 (12.6 to 13.3)
+5109
+13.3 (12.9 to 13.7)
+5.8 (5.6 to 6.0) 
+  40 – 49
+7792
+138.3 (135.3 to 141.5)
+13  429
+159.4 (156.4 to 162.1)
+16  602
+152.7 (150.4 to 155.1)
+10.4 (10.1 to 10.7) 
+  50 – 69
+23  344
+233.0 (230.0 to 236.0)
+33  098
+308.2 (304.9 to 311.6)
+42  239
+321.7 (318.7 to 324.8)
+38.1 (35.3 to 41.1) 
+  ≥ 70
+13  886
+333.8 (339.4 to 462.7)
+28  016
+462.7 (457.3 to 468.2)
+30  496
+441.0 (436.1 to 446.1)
+32.1 (29.1 to 35.5) 
+ Race (1975+) 
+  White
+43  592
+104.8 (103.8 to 105.8)
+68  838
+135.8 (134.8 to 136.8)
+78  566
+136.5 (135.5 to 137.4)
+30.2 (29.3 to 31.1) 
+  Black
+3123
+87.8 (84.6 to 91.1)
+6357
+120.0 (117.0 to 123.1)
+8349
+117.8 (115.3 to 120.4)
+34.2 (30.3 to 38.5) 
+  Other or unknown
+1570
+ — 
+4447
+ — 
+7531
+ — 
+ — 
+ Tumor size (1988+) 
+  <2.0 cm
+ — 
+ — 
+43  498
+71.8 (71.1 to 72.4)
+55  342
+77.1 (76.5 to 77.8)
+7.5 (7.4 to 7.5) 
+  ≥ 2.0 cm
+ — 
+ — 
+24  580
+40.6 (40.1 to 41.1)
+29  508
+40.8 (40.3 to 41.2)
+0.5 (0.5 to 0.5) 
+  Other or unknown
+ — 
+ — 
+11  564
+ — 
+9596
+ — 
+ — 
+ Lymph node status 
+  (1988+) 
+  Negative
+ — 
+ — 
+41  927
+69.6 (68.9 to 70.2)
+51  719
+72.5 (71.8 to 73.1)
+4.2 (4.2 to 4.3) 
+  Positive
+ — 
+ — 
+21  115
+35.3 (34.8 to 35.8)
+27  339
+38.2 (37.8 to 38.7)
+8.2 (8.1 to 8.3) 
+  Other or unknown
+ — 
+ — 
+16  600
+ — 
+15  388
+ — 
+ — 
+ Tumor grade (1975+) 
+  Low
+3013
+6.4 (6.2 to 6.6)
+27  723
+45.7 (45.2 to 46.2)
+53  817
+74.7 (74.1 to 75.3)
+1066.6 (400.3 to 2842.0) 
+  High
+5471
+11.5 (11.8 to 38.0)
+22  818
+38.0 (37.5 to 38.5)
+31  184
+43.5 (43.0 to 44.0)
+277.4 (214.6 to 358.5) 
+  Other or unknown
+39  801
+ — 
+29  101
+ — 
+9445
+ — 
+ — 
+ ER status (1990+) 
+  Positive
+ — 
+ — 
+45  254
+74.4 (73.7 to 75.1)
+64  126
+89.1 (88.4 to 89.8)
+19.7 (19.3 to 20.0) 
+  Negative
+ — 
+ — 
+14  604
+24.6 (24.2 to 25.0)
+17  516
+24.5 (24.1 to 24.9)
+  0.5 (  0.5 to   0.6) 
+  Other or unknown
+ — 
+ — 
+19  784
+ — 
+12  804
+ — 
+ — 
+ *  Data for rate are the number of patients per 100  000 woman-years (age adjusted to the US standard population for the year 2000). Year in parenthesis indicates 
+the time period in which SEER collected data for a given tumor characteristic. For example, SEER recorded age at diagnosis from 1975 forward (1975+). Because 
+SEER did not collect and/or record all tumor characteristics for all time periods, rates and percent change are calculated only for those patients with breast 
+cancer who had available data. Rate = the number of patients diagnosed with breast cancer per 100  000 woman-years (age adjusted to the US standard 
+population for the year 2000); SEER = Surveillance, Epidemiology, and End Results; CI = confidence interval; %CH = percent change from 1975 – 1979 or 
+1990 – 1994 to 2000 – 2004; ER = estrogen receptor;  — = not calculated and/or data not available. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+jnci.oxfordjournals.org   
+JNCI | Articles 1809
+overall age-speciﬁ c incidence rates rose rapidly until age 40 – 50 
+years for both white and black women and then continued to rise at 
+a slower pace ( Figure 2, A ). This midlife change, pause, or inﬂ ec-
+tion in age-speciﬁ c incidence rates near age 50 years has been 
+termed Clemmesen’s hook and has been attributed to menopause 
+(27). Notwithstanding overall age-speciﬁ c incidence rates, age-
+speciﬁ c incidence rates were greater among black women than 
+among white women who were younger than 40 years, and then, 
+incidence rates were higher for white women ( P < .001 for age   
+race interaction). The age – period – cohort ﬁ tted age-at-onset curves 
+( Figure 2, B ; adjusted for calendar period and birth cohort effects) 
+also were higher among black women who were younger than 40 
+years than among white women in the same age group and higher 
+among white women who were aged 40 years or older than among 
+black women in the same age group ( P < .001 for difference by 
+race). Additionally, age – period – cohort analyses detected statisti-
+cally signiﬁ cantly different age deviations among black and white 
+women near the age of 40 years ( P < .001 for difference by race), 
+differential calendar period effects during the 1980s ( P < .001 for 
+difference by race), and differential birth cohort effects near the 
+1950 birth cohort ( P = .009 for difference by race). 
+ The black-to-white incidence rate crossover was observed for 
+all tumor characteristics ( Figure 3 ), although at earlier ages at 
+diagnosis for low-risk tumor characteristics than for high-risk 
+tumor characteristics. For example, the crossing of black-to-white 
+incidence rates occurred at ages 25 – 29 years for tumor sizes 2 cm 
+or less, whereas there was no crossover for tumor sizes more than 
+2 cm. For lymph node – negative and lymph node – positive disease, 
+incidence rates crossed at ages 35 – 39 and 50 – 54 years, respectively. 
+For low- and high-grade tumors, incidence rates crossed at ages 
+30 – 34 and 80 – 84 years, respectively. For ER-positive tumors, the 
+crossing of incidence rates for black and white women occurred at 
+ages 30 – 34 years, but there was no crossover for ER-negative 
+tumors ( 28 ). 
+ The shapes of the black and white age-speciﬁ c incidence rate 
+curves ( Figure 2 ) reﬂ ected bimodal early- and late-onset breast 
+cancer populations, with modes (ie, peak frequencies) near ages 50 
+and 70 years, respectively ( Figure 4 ). These bimodal breast cancer 
+ Figure 3 .  Incidence rate crossover between black and white women 
+stratiﬁ ed by tumor characteristics (tumor size, LN status, tumor grade, 
+and ER status) in the National Cancer Institute’s Surveillance, 
+Epidemiology, and End Results 9 Registries database from 1975 
+through 2004. The crossover was observed for all tumor characteristics 
+(as indicated at the top of each panel), although more so for those with 
+low-risk disease (tumor size  ≤ 2.0 cm, axillary LN-negative disease, low-
+grade tumor, or ER-positive status) than for those with high-risk disease 
+(tumor size >2.0 cm, axillary LN-positive disease, high-grade tumor, or 
+ER-negative status). LN = lymph node; ER = estrogen receptor. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+1810   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+populations ﬂ uctuated over time. From 1975 – 1979 to 1985 – 1989, 
+breast cancer populations shifted to predominant late-onset age 
+distributions for black and white women. Beginning in 1990 – 1994, 
+population distributions of black and white breast cancer popula-
+tions began to return to dominant early-onset age distributions. By 
+2000 through 2004, early-onset breast cancer populations were 
+reestablished for both black and white women. Of note, the move-
+ment of black women toward later ages at onset during the 1980s 
+was slower than that of white women, but it was faster to return 
+toward earlier ages at onset in the 1990s. 
+ Two-component mixture models conﬁ rmed that two or more 
+breast cancer populations ﬁ t the data better than a single cancer 
+population for both black and white women ( Table 3 ). For exam-
+ple, during 1975 – 1979, Akaike information criterion among white 
+women was larger for a mixture than for a single cancer popula-
+tion. We observed similar patterns for all time periods and for both 
+races. Additionally, the probability for being in the early-onset 
+breast cancer population decreased in the 1980s and then increased 
+in the late 1990s ( Table 3 ;  Figure 5 ), consistent with the density 
+plots in  Figure 4 . For example, among white women, the probabil-
+ity for early age at onset fell from 77% (95% CI = 73.0% to 80.9%) 
+in 1975 through 1979 to 25% (95% CI = 23.0% to 27.0%) in 
+1985 – 1989, and then rose from 33% (95% CI = 31.8% to 34.2%) 
+in 1990 – 1994 to 64% (95% CI = 62.2% to 65.8%) in 2000 – 2004. 
+Black women had a similar pattern. 
+ Incidence Patterns by Age, Race, and ER Status 
+ Age-specific incidence rates were higher for ER-negative tumors 
+among younger women and higher for ER-positive tumors among 
+older women ( Supplementary Figure 1 , A, available online). Poisson 
+regression models confirmed the interaction between age and ER 
+expression ( P < .001 for age   ER interaction). ER  Furthermore, for 
+all age groups and all time periods, incidence rates for ER-positive 
+tumors were greater among white women than among black women 
+( Supplementary Figure 1 , B, available online). In contrast, for all age 
+groups and all time periods, incidence rates for ER-negative tumors 
+were greater among black women than among white women 
+( Supplementary Figure 1 , C, available online). For both ER-positive 
+and ER-negative tumors, measures of interaction between age groups 
+and race were statistically significantly different for older women ( P < 
+.001 among black and white women with ER-positive tumors and 
+aged  ≥ 70 years, and  P < .001 among black and white women with 
+ER-negative tumors and aged  ≥ 70 years) but not for younger women 
+( P = .67 among black and white women with ER-positive tumors and 
+aged <40 years, and  P = .16 among black and white women with 
+ER-negative tumors and aged <40 years). 
+ Figure 4 .  Age distributions at diagnosis by race (black vs white) 
+and time period (1975 – 1979, 1980 – 1984, 1985 – 1989, 1990 – 1994, 
+1995 – 1999, and 2000 – 2004) in the National Cancer Institute’s SEER 9 
+Registries database from 1975 through 2004. Bimodal age distribu-
+tions are expressed as percent relative frequency among white 
+and black women; 95% conﬁ dence intervals are shown as  shaded 
+bands and were calculated by using bootstrap resampling tech-
+niques. Of note, 95% conﬁ dence intervals were too narrow to be 
+discernable for white women and are only slightly visible for black 
+women, providing further evidence for distinct bimodal breast can-
+cer populations among white and black women. Additionally, 
+bimodal breast cancer populations ﬂ uctuated over time among 
+white and black women. SEER = Surveillance, Epidemiology, and 
+End Results. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+jnci.oxfordjournals.org   
+JNCI | Articles 1811
+ Age and trend interactions by ER status ( Supplementary 
+Figure 1 , available online) reﬂ ected bimodal early- and late-onset 
+breast cancer populations ( Supplementary Figure 2 , available 
+online). Beginning in the 1990s, the bimodal population of 
+ER-positive tumors began to shift from being dominant at later 
+ages to earlier ages at onset. The shift toward earlier ages at onset 
+was exaggerated for ER-negative breast cancers. 
+ Discussion 
+ The crossover in incidence rates between black and white ethnic 
+groups was a robust (ie, reliable and reproducible) finding in the 
+SEER 9 Registries database for the entire study period of 1975 
+through 2004 ( Figure 1 ). This age-related interaction (or effect 
+modification) was statistically significant in Poisson regression 
+models, and it remained so in age – period – cohort models, which 
+were adjusted for calendar period and birth cohort effects ( Figure 
+2 ). In women younger than 40 years, incidence rates were statisti-
+cally significantly higher among black women than among white 
+women, whereas the reverse was true among women aged 40 years 
+or older for all time periods. The incidence rate crossover between 
+black and white ethnic groups was also observed after stratification 
+of women by tumor characteristics, although the crossover 
+occurred at earlier ages for low-risk prognostic characteristics than 
+for high-risk prognostic characteristics ( Figure 3 ). Furthermore, 
+age distributions at diagnosis shifted over time, as illustrated with 
+density plots ( Figure 4 ) and mixture models ( Table 3 ;  Figure 5 ), 
+which tracked a secular rise and fall in the proportion of late-onset 
+cases of breast cancer among white women and a similar but 
+delayed pattern among black women. 
+ When recognized as a qualitative (crossing or reversing) age 
+interaction, the breast cancer incidence rate crossover between 
+black and white ethnic groups can be seen as a manifestation of 
+breast cancer heterogeneity, with black women having more of the 
+early-onset breast cancer types and less of the late-onset breast 
+cancer types than white women. Given the early-onset predomi-
+nance for ER-negative breast cancers ( Supplementary Figure 1 , A, 
+available online), it also is not surprising for ER-negative tumors 
+to be more common among black women than among white 
+women. It should be noted that although black and white women 
+have different proportions of early- and late-onset breast cancer 
+types, these results do not indicate that the two racial groups have 
+different kinds of breast cancer, although black women have pro-
+portionally more of the worse types (ie, early-onset and ER-negative 
+tumors). 
+ Throughout this study, we have focused on the qualitative age 
+interactions among black and white women, but similar crossing, 
+reversing, or dual age-dependent effects have also been observed 
+for breast cancer risk factors, such as parity and obesity ( 29 – 35 ). 
+That is, for younger women, parity is associated with increased risk 
+and obesity is associated with decreased risk, whereas for older 
+women, parity is associated with decreased risk and obesity is asso-
+ciated with increased risk. Therefore, differential racial proﬁ les for 
+risk factors with qualitative age-related effects (eg, parity and obe-
+sity) might account for at least part of the incidence rate crossover 
+between black and white ethnic groups ( 3 , 5 – 7 ). However, age – 
+ period – cohort models conﬁ rmed an age-speciﬁ c black-to-white 
+incidence rate crossover, even after adjustment for birth cohort 
+(risk factor) effects. Thus, the black-to-white ethnic crossover can-
+not be fully explained by known risk factor variations ( 36 ). 
+ Additionally, the black-to-white incidence rate crossover has 
+been present despite well-documented period and cohort racial 
+variations over time. For example, breast cancer incidence rates 
+more than doubled from 1935 to 1998 before falling after the 
+Women’s Health Initiative report in 2002 ( 26 , 37 – 43 ), especially 
+among older women with tumors of low malignant potential ( 44 –
+ 46 ). The shift of black women toward older ages at diagnosis was 
+slower than that of white women during the 1980s, and it was 
+faster to return toward early ages at onset in the 1990s ( Figure 4 ), 
+possibly due to racial variations for calendar period (screening) 
+and/or birth cohort (exposure) effects. That is, screening mam-
+mography initially lagged for black women but equalized by the 
+mid-1990s ( 42 , 47 ), perhaps accounting for a slower initial rise in 
+screen-derived late-onset breast cancers among black women. 
+ Table 3 .  Estimates for mean ages at diagnosis of patients with early- or late-onset breast cancer from two-component mixture models * 
+ Calendar period
+Race
+Mean age, y (95% CI) 
+Probability † , % 
+(95% CI)
+AIC 
+ Early-onset group
+Late-onset group
+Mixture
+Single density 
+ 1975 – 1979
+White
+47.9 (34.6 to 61.2)
+83.4 (70.1 to 96.7)
+77.0 (73.0 to 80.9)
+  177  052
+  177  060 
+ Black
+42.4 (  41.9 to 126.7)
+69.8 (  14.5 to 154.1)
+43.0 (15.6 to 70.4)
+  12  706
+  12  716 
+ 1980 – 1984
+White
+52.1 (48.2 to 56.0)
+79.0 (75.1 to 82.9)
+69.0 (65.1 to 72.9)
+  203  304
+  203  314 
+ Black
+32.0 (13.2 to 50.8)
+51.6 (32.8 to 70.4)
+17.0 (11.1 to 22.9)
+  16  180
+  16  188 
+ 1985 – 1989
+White
+39.2 (31.2 to 47.2)
+67.9 (59.9 to 75.9)
+25.0 (23.0 to 27.0)
+  257  709
+  257  717 
+ Black
+36.3 (7.1 to 65.5)
+61.4 (32.2 to 90.6)
+15.9 (5.3 to 26.5)
+  21  259
+  21  269 
+ 1990 – 1994
+White
+46.8 (46.6 to 47.0)
+71.0 (70.8 to 71.2)
+33.0 (31.8 to 34.2)
+  280  278
+  280  286 
+ Black
+39.1 (26.0 to 52.2)
+60.4 (47.3 to 73.5)
+20.0 (10.2 to 29.8)
+  26  053
+  26  063 
+ 1995 – 1999
+White
+46.2 (43.8 to 48.6)
+73.5 (71.1 to 75.6)
+48.0 (46.4 to 49.6)
+  312  921
+  312  929 
+ Black
+46.7 (43.3 to 50.0)
+70.9 (67.6 to 74.2)
+56.3 (51.4 to 61.2)
+  30  803
+  30  808 
+ 2000 – 2004
+White
+46.8 (45.6 to 48.0)
+76.9 (75.7 to 78.1)
+64.0 (62.2 to 65.8)
+  319  002
+  319  010 
+ Black
+50.2 (47.5 to 52.9)
+73.7 (71.0 to 76.4)
+68.7 (64.2 to 73.2)
+  33  939
+  33  945 
+ *  AIC were used to determine model fit, with the larger values corresponding to the model with the best fit to the data. For white and black women, a mixture 
+model (ie, more than one breast cancer population) fit the data better than a single cancer population (single density model). CI = confidence interval; 
+AIC = Akaike information criteria. 
+ †  Probability of being in the early-age-at-onset group at the time of initial breast cancer diagnosis. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+1812   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+Additionally, although the percent changes in exposure to hor-
+mone replacement therapy before and after reports from the 
+Women’s Health Initiative were similar among racial groups ( 48 ), 
+white women were approximately twice as likely as black women 
+to use hormone replacement therapy ( 49 ), also potentially explain-
+ing a slower initial rise in postmenopausal breast cancers. Yet, 
+age – period – cohort models conﬁ rmed an age-speciﬁ c black-to-
+white incidence rate crossover, even after adjustment for these 
+calendar period (screening) and birth cohort (exposure) effects. 
+ Our study has the usual limitations of descriptive epidemiology 
+(ie, retrospective registry assessment, missing data, nonstandard-
+ized histopathologic typing, and lack of individual-level risk factor 
+data). A major strength was the supplementation of standard 
+descriptive epidemiology with mathematical models. Therefore, 
+although this ecologic study cannot determine the factors respon-
+sible for the incidence rate crossover, as far as we know, it is the 
+ﬁ rst validation of this phenomenon in vital rates by use of a struc-
+tured quantitative approach. 
+ In summary, breast cancer – age interactions by black and white 
+race suggest biologic heterogeneity of the qualitative variety (ie, 
+they switched, crossed, or reversed). Although the black-to-white 
+ethnic crossover has been attributed to a one-time (early) adverse 
+effect and long-term risk reduction for reproductive risk factors 
+such as parity ( 5 ), we suggest that the crossover reﬂ ects qualitative 
+age interactions (effect modiﬁ cation), whereby risk factors such as 
+parity have different effects on different types of breast cancer. 
+Indeed, recent studies show differential racial and risk factor pro-
+ﬁ les for different breast cancer phenotypes ( 50 – 54 ). Empirical 
+studies should attempt to verify this ecologic phenomenon with 
+individual risk factor data. Future analytic studies also should care-
+fully and probably routinely be powered to assess the interaction 
+between age and race because if the incidence rate crossover from 
+black to white ethnic groups is a proxy for an age-speciﬁ c biologic 
+heterogeneity, then early- and late-onset types of breast cancer are 
+distinctly different diseases. Ignoring such heterogeneity may 
+obscure important stratum-speciﬁ c effects that result from sub-
+group averaging of nonpoolable and/or dissimilar breast cancer 
+populations ( 14 , 55 ). 
+ Appendix 1: Age – Period – Cohort Analysis 
+ As discussed by Rosenberg and Anderson (unpublished material), let   ij denote the 
+logarithm of the expected incidence rates for age group  j and calendar period  i , 
+which are deﬁ ned by using equally spaced age and period intervals. In age – period – 
+ cohort analysis, we assume log – linear effects for age (  j ), period (  i ), and cohort 
+(  k ) over  j = 1,  … ,  J age groups,  i = 1,  … ,  I calendar periods, and  k = 1,  … ,  I +  J   1 
+birth cohorts: 
+r
+a
+p
+g
+ij
+j
+i
+k
+=
++
++
+.
+ It is well recognized that this model is not identiﬁ able; that is, the linear trends 
+in age, period, and cohort effects,   L ,   L , and   L , respectively, cannot be separated 
+because of the collinear relation of the cohort, period, and age indices. That is, the 
+year of birth equals the calendar period or year of diagnosis minus the age or age 
+at diagnosis, or  k =  i   j +  J , where  i ,  j , and  k index the observed age, period, and 
+cohort effects. However, as described previously by Holford (19), it can be shown 
+with the theory of estimable functions that the parameters in the restricted model 
+with   L = 0 yield ﬁ tted log – linear rates equal to: 
+r
+m
+a
+p
+p
+g
+a
+p
+g
+ij
+j
+i
+k
+j
+j
+k
+k
+=
++
++
+−
++
++
+−
++
++
++
+(
+)(
+)
+(
+)(
+)
+.
+L
+L
+L
+L
+
+
+
+ 
+ Each of the terms in  Equation 1 is identiﬁ able, and the ﬁ tted rates are the 
+same as all other solutions that maximize the likelihood. In this equation, j and 
+k are the central or referent indices of age and cohort, respectively; the coefﬁ cient 
+of the age trend  (
+)
+j
+j
+−
+ provides an estimate of (  L +   L ), and the coefﬁ cient of 
+the cohort trend (
+)
+k
+k
+−
+ provides an estimate of (  L +   L ). We designate (  L +   L ) 
+as the “longitudinal age trend” and (  L +   L ) as the “net drift” ( 16 , 17 , 23 , 56 ). The 
+parameter  µ is the intercept term, and the parameters a j , pi , and  g k are the 
+orthogonal (and identiﬁ able) deviations of Holford (19). 
+ We also considered the function  
+
+r
+m
+a
+p
+a
+j
+j
+j
+j
+=
++
++
+−
++
+(
+)(
+)
+L
+L
+, which we 
+term the “ﬁ tted age-at-onset curve.” This function provides a summary estimate 
+of the longitudinal age-at-onset curve, which represents an extrapolation of the 
+experience of the midcohort ( k
+k
+=
+ and assume that  g k ≈0) that is based on the 
+experience of all other cohorts included in the analysis. By construction, the ﬁ tted 
+age-at-onset curve is adjusted for both period and cohort effects. 
+ We ﬁ tted  Equation 1 separately to incidence data for black and white women 
+and used Wald tests to compare age – period – cohort parameters by race for the 
+ﬁ tted age-at-onset curves; drift parameters; and age, period, and cohort devia-
+tions. For example, the Wald test statistic that was used to compare the net drifts 
+has a chi-square distribution with 1  df : 
+c
+p
+g
+p
+g
+1
+2
+1
+0
+1 2
+0
+2
+2
+=
++
+−
++
+⎡⎣
+⎤⎦
++
+(
+)
+(
+)
+(
+)
+(
+)
+,
+L
+L
+L
+L
+SD
+SD
+ where SD 1 and SD 0 are the estimated standard deviations of the net drift 
+parameter (  L +   L ) for black and white women, respectively. Similarly, Wald tests 
+were developed to test for parallel age-at-onset curves ( I   1  df ) and for equal 
+age deviations ( I   2  df ), period deviations ( J   2  df ), and cohort deviations 
+( I + J   3  df ). 
+ References 
+ 
+ 1.  Gray  GE ,  Henderson  BE ,  Pike  MC .  Changing ratio of breast cancer 
+incidence rates with age of black females compared with white females in 
+the United States .  J Natl Cancer Inst .  1980 ; 64 ( 3 ): 461 – 463 . 
+ 
+ 2.  Hankey  BF ,  Miller  B ,  Curtis  R ,  Kosary  C .  Trends in breast cancer in 
+younger women in contrast to older women .  J Natl Cancer Inst Monogr . 
+ 1994 ; 16 : 7 – 14 . 
+ 
+ 3.  Brinton  LA ,  Benichou  J ,  Gammon  MD ,  Brogan  DR ,  Coates  R ,  Schoenberg 
+ JB .  Ethnicity and variation in breast cancer incidence .  Int J Cancer . 
+ 1997 ; 73 ( 3 ): 349 – 355 . 
+ 
+ 
+ Figure 5 .  Percentage of breast cancer patients with an early age at onset 
+by race in the National Cancer Institute’s Surveillance, Epidemiology, 
+and End Results 9 Registries database from 1975 through 2004. Error 
+bars = 95% conﬁ dence intervals. 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+jnci.oxfordjournals.org   
+JNCI | Articles 1813
+ 
+ 4.  Joslyn  SA ,  Foote  ML ,  Nasseri  K ,  Coughlin  SS ,  Howe  HL .  Racial and 
+ethnic disparities in breast cancer rates by age: NAACCR Breast Cancer 
+Project .  Breast Cancer Res Treat .  2005 ; 92 ( 2 ): 97 – 105 . 
+ 
+ 5.  Pathak  DR .  Dual effect of ﬁ rst full term pregnancy on breast cancer risk: 
+empirical evidence and postulated underlying biology .  Cancer Causes 
+Control .  2002 ; 13 ( 4 ): 295 – 298 . 
+ 
+ 6.  Pike  MC ,  Krailo  MD ,  Henderson  BE ,  Casagrande  JT ,  Hoel  DG . 
+ ‘Hormonal ’ risk factors, ‘breast tissue age ’ and the age-incidence of breast 
+cancer .  Nature .  1983 ; 303 ( 5920 ): 767 – 770 . 
+ 
+ 7.  Bernstein  L ,  Teal  CR ,  Joslyn  S ,  Wilson  J .  Ethnicity-related variation in 
+breast cancer risk factors .  Cancer .  2003 ; 97 ( suppl 1 ): 222 – 229 . 
+ 
+ 8.  Thompson  WD .  Effect modiﬁ cation and the limits of biological inference 
+from epidemiologic data .  J Clin Epidemiol .  1991 ; 44 ( 3 ): 221 – 232 . 
+ 
+ 9.  Anderson  WF ,  Pfeiffer  RM ,  Dores  GM ,  Sherman  ME .  Comparison of age 
+frequency distribution patterns for different histopathologic types of breast 
+carcinoma .  Cancer Epidemiol. Biomarkers Prev .  2006 ; 15 ( 10 ): 1899 – 1905 . 
+  10.  Pfeiffer  RM ,  Carroll  RJ ,  Wheeler  W ,  Whitby  D ,  Mbulaiteye  S .  Combining 
+assays for estimating prevalence of human herpesvirus 8 infection using 
+multivariate mixture models .  Biostatistics .  2008 ; 9 ( 1 ): 137 – 151 . 
+  11.  SEER-9 .  Surveillance, Epidemiology, and End Results (SEER) Program 
+SEER*Stat Database: Incidence-SEER 9 Regs Limited-Use, Nov 2006 
+sub (1992-2004) .  National Cancer Institute, DCCPS, Surveillance 
+Research Program, Cancer Statistics Branch, released April 2007, based 
+on the November 2006 submission. 2007 .  http://www.seer.cancer.gov . 
+ Accessed March 1, 2008. 
+  12.  Oehlert  GW .  A note on the delta method .  Am Stat .  1992 ; 46 ( 1 ): 27 – 29 . 
+  13.  Akaike  H .  Information theory and an extension of the maximum likelihood 
+principle . In:  Petrov  BN ,  Csaki  F , eds.  2nd International Symposium on 
+Information Theory .  Budapest, Hungary :  Akademiai Kiado ;  1973 : 267 – 281 . 
+  14.  Gail  M ,  Simon  R .  Testing for qualitative interactions between treatment 
+effects and patient subsets .  Biometrics .  1985 ; 41 ( 2 ): 361 – 372 . 
+  15.  Anderson  WF ,  Matsuno  RK ,  Sherman  ME , et al .  Estimating age-speciﬁ c 
+breast cancer risks: a descriptive tool to identify age interactions .  Cancer 
+Causes Control .  2007 ; 18 : 439 – 447 . 
+  16.  Clayton  D ,  Schifﬂ ers  E .  Models for temporal variation in cancer rates. I: 
+age-period and age-cohort models .  Stat Med .  1987 ; 6 ( 4 ): 449 – 467 . 
+  17.  Clayton  D ,  Schifﬂ ers  E .  Models for temporal variation in cancer rates. II: 
+age-period-cohort models .  Stat Med .  1987 ; 6 ( 4 ): 469 – 481 . 
+  18.  Holford  TR .  Age-period-cohort analysis . In:  Armitage  P ,  Colton  T , eds. 
+ Encyclopedia of Biostatistics .  1st ed.  Chichester, UK :  John Wiley & Sons ; 
+ 1998 : 82 – 99 . 
+  19.  Holford  TR .  The estimation of age, period and cohort effects for vital 
+rates .  Biometrics .  1983 ; 39 ( 2 ): 311 – 324 . 
+  20.  Tarone  RE ,  Chu  KC .  Implications of birth cohort patterns in interpreting 
+trends in breast cancer rates .  J Natl Cancer Inst .  1992 ; 84 ( 18 ): 1402 – 1410 . 
+  21.  Holford  TR .  Understanding the effects of age, period, and cohort on 
+incidence and mortality rates .  Annu Rev Public Health .  1991 ; 12 : 425 – 457 . 
+  22.  Tarone  RE ,  Chu  KC .  Evaluation of birth cohort patterns in population 
+disease rates .  Am J Epidemiol .  1996 ; 143 ( 1 ): 85 – 91 . 
+  23.  Robertson  C ,  Boyle  P .  Age-period-cohort analysis of chronic disease rates. 
+I: modelling approach .  Stat Med .  1998 ; 17 ( 12 ): 1305 – 1323 . 
+  24.  Anderson  WF ,  Chatterjee  N ,  Ershler  WB ,  Brawley  OW .  Estrogen recep-
+tor breast cancer phenotypes in the Surveillance, Epidemiology, and End 
+results database .  Breast Cancer Res Treat .  2002 ; 76 ( 1 ): 27 – 36 . 
+  25.  Brinton  LA ,  Sherman  ME ,  Carreon  JD ,  Anderson  WF .  Recent trends in 
+breast cancer among younger women in the United States .  J Natl Cancer 
+Inst .  2008 ; 100 ( 22 ): 1643 – 1648 . 
+  26.  Pfeiffer  RM ,  Mitani  A ,  Matsuno  RK ,  Anderson  WF .  Racial differences in 
+breast cancer trends in the United States, 2000-2004 .  J Natl Cancer Inst . 
+ 2008 ; 100 ( 10 ): 751 – 752 . 
+  27.  Clemmesen  J .  Carcinoma of the breast .  Br J Radiol .  1948 ; 21 ( 252 ): 583 – 590 . 
+  28.  Tarone  RE ,  Chu  KC .  The greater impact of menopause on ER- than ER+ 
+breast cancer incidence: a possible explanation (United States) .  Cancer 
+Causes Control .  2002 ; 13 : 7 – 14 . 
+  29.  Oral-contraceptive use and the risk of breast cancer .  The Cancer and 
+Steroid Hormone Study of the Centers for Disease Control and the 
+National Institute of Child Health and Human Development .  N Engl J 
+Med .  1986 ; 315 ( 7 ): 405 – 411 . 
+  30.  Negri  E ,  La Vecchia  C ,  Bruzzi  P , et al .  Risk factors for breast cancer: 
+pooled results from three Italian case-control studies .  Am J Epidemiol . 
+ 1988 ; 128 ( 6 ): 1207 – 1215 . 
+  31.  Janerich  DT ,  Hoff  MB .  Evidence for a crossover in breast cancer risk fac-
+tors .  Am J Epidemiol .  1982 ; 116 ( 5 ): 737 – 742 . 
+  32.  Lubin  JH ,  Burns  PE ,  Blot  WJ , et al .  Risk factors for breast cancer in 
+women in northern Alberta, Canada, as related to age at diagnosis .  J Natl 
+Cancer Inst .  1982 ; 68 ( 2 ): 211 – 217 . 
+  33.  Pathak  DR ,  Speizer  FE ,  Willett  WC ,  Rosner  B ,  Lipnick  RJ .  Parity and 
+breast cancer risk: possible effect on age at diagnosis .  Int J Cancer . 
+ 1986 ; 37 ( 1 ): 21 – 25 . 
+  34.  Ron  E ,  Lubin  F ,  Wax  Y .  Re: “Evidence for a crossover in breast cancer 
+risk factors” .  Am J Epidemiol .  1984 ; 119 ( 1 ): 139 – 141 . 
+  35.  Cleary  MP ,  Maihle  NJ .  The role of body mass index in the relative risk of 
+developing premenopausal versus postmenopausal breast cancer .  Proc Soc 
+Exp Biol Med .  1997 ; 216 ( 1 ): 28 – 43 . 
+  36.  Tarone  RE .  Breast cancer trends among young women in the United 
+States .  Epidemiology .  2006 ; 17 ( 5 ): 588 – 590 . 
+  37.  Ravdin  PM ,  Cronin  KA ,  Chlebowski  RT .  The authors reply: decrease in 
+breast-cancer incidence in 2003 in the United States .  N Engl J Med . 
+ 2007 ; 357 ( 5 ): 513 . 
+  38.  Kerlikowske  K ,  Buist  DS ,  Walker  R .  Re: Declines in invasive breast cancer 
+and use of postmenopausal hormone therapy in a screening mammogra-
+phy population .  J Natl Cancer Inst .  2007 ; 99 ( 23 ): 1816 – 1817 . 
+  39.  Jemal  A ,  Ward  E ,  Thun  MJ .  Recent trends in breast cancer incidence rates 
+by age and tumor characteristics among U.S. women .  Breast Cancer Res. 
+ 2007 ; 9 ( 3 ): R28 . 
+  40.  Anderson  WF ,  Reiner  AS ,  Matsuno  RK ,  Pfeiffer  RM .  Shifting breast 
+cancer trends in the United States .  J Clin Oncol .  2007 ; 25 ( 25 ): 3923 – 3929 . 
+  41.  Li  CI ,  Daling  JR .  Changes in breast cancer incidence rates in the United 
+States by histologic subtype and race/ethnicity, 1995 to 2004 .  Cancer 
+Epidemiol Biomarkers Prev .  2007 ; 16 ( 12 ): 2773 – 2780 . 
+  42.  Smigal  C ,  Jemal  A ,  Ward  E , et al .  Trends in breast cancer by race and 
+ethnicity: update 2006 .  CA Cancer J Clin .  2006 ; 56 ( 3 ): 168 – 183 . 
+  43.  Hausauer  AK ,  Keegan  TH ,  Chang  ET .  Recent breast cancer trends 
+among Asian/Paciﬁ c Islander Clarke CA Hispanic and African-American 
+women in the US: changes by tumor subtype .  Breast Cancer Res.  2007 ; 
+ 9 ( 6 ): R90 . 
+  44.  Fox  MS .  On the diagnosis and treatment of breast cancer .  JAMA . 
+ 1979 ; 241 ( 5 ): 489 – 494 . 
+  45.  Adami  H-O .  Breast cancer incidence and mortality. Aspects on aetiology, 
+time trends and curability .  Acta Chir Scand .  1984 ; 519 ( suppl ): 9 – 14 . 
+  46.  Glass  AG ,  Hoover  RN .  Rising incidence of breast cancer: relationship to 
+stage and receptor status .  J Natl Cancer Inst .  1990 ; 82 ( 8 ): 693 – 696 . 
+  47.  Health, United States 2007 with Chartbook on Trends in the Health of 
+Americans; HHS, CDC, National Center for Health Statistics; Hyattsville, 
+MD; Library of Congress Catalog Number 76-641496 . 
+  48.  Wei  F ,  Miglioretti  DL ,  Connelly  MT , et al .  Changes in women’s use of 
+hormones after the Women’s Health Initiative estrogen and progestin 
+trial by race, education, and income .  J Natl Cancer Inst Monogr .  2005 ; 
+35 : 106 – 112 . 
+  49.  Brett  KM .  Racial differences in hormone replacement therapy use: United 
+States, 1999-2000 .  Ann Epidemiol .  2002 ; 12 ( 7 ): 514 .  Abstract  # 67 . 
+  50.  Althuis  MD ,  Fergenbaum  JH ,  Garcia-Closas  M ,  Brinton  LA ,  Madigan 
+ MP ,  Sherman  ME .  Etiology of hormone receptor-deﬁ ned breast cancer: a 
+systematic review of the literature .  Cancer Epidemiol Biomarkers Prev . 
+ 2004 ; 13 ( 10 ): 1558 – 1568 . 
+  51.  Colditz  GA ,  Rosner  BA ,  Chen  WY ,  Holmes  MD ,  Hankinson  SE .  Risk 
+factors for breast cancer according to estrogen and progesterone receptor 
+status .  J Natl Cancer Inst .  2004 ; 96 ( 3 ): 218 – 228 . 
+  52.  Carey  LA ,  Perou  CM ,  Livasy  CA , et al .  Race, breast cancer subtypes, and 
+survival in the Carolina Breast Cancer Study .  JAMA .  2006 ; 295 ( 21 ): 
+ 2492 – 2502 . 
+  53.  Yang  XR ,  Sherman  ME ,  Rimm  DL , et al .  Differences in risk factors for 
+breast cancer molecular subtypes in a population-based study .  Cancer 
+Epidemiol Biomarkers Prev .  2007 ; 18 : 439 – 447 . 
+  54.  Millikan  RC ,  Newman  B ,  Tse  CK , et al .  Epidemiology of basal-like breast 
+cancer .  Breast Cancer Res Treat .  2007 ; 109 ( 1 ): 123 – 139 . 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+
+1814   Articles | JNCI 
+Vol. 100, Issue 24  |  December 17, 2008
+  55.  Wang  R ,  Lagakos  SW ,  Ware  JH ,  Hunter  DJ ,  Drazen  JM .  Statistics in 
+medicine — reporting of subgroup analyses in clinical trials .  N Engl J Med . 
+ 2007 ; 357 ( 21 ): 2189 – 2194 . 
+  56.  Robertson  C ,  Boyle  P .  Age-period-cohort models of chronic disease rates. 
+II: graphical approaches .  Stat Med .  1998 ; 17 ( 12 ): 1325 – 1339 . 
+ Funding 
+ This research was supported in part by  the Intramural Research Program of the 
+National Institutes of Health ,  National Cancer Institute . 
+ Notes 
+ None of the coauthors have a ﬁ nancial conﬂ ict of interest that would have 
+affected this research. The authors had full access to all of the data in the study 
+and take responsibility for the integrity of the data and the accuracy of the data 
+analysis. 
+ We thank the reviewers for helpful comments, which have greatly improved 
+the content of this manuscript. 
+ Manuscript received  June  24 ,  2008 ; revised  September  18 ,  2008 ; accepted 
+ October  10 ,  2008 . 
+Downloaded from https://academic.oup.com/jnci/article/100/24/1804/2606992 by Pusan National University user on 09 August 2026
+

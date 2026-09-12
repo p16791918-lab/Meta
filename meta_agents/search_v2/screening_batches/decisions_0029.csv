@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1700,exclude,Not a US population-based/registry study,reproductive factors China/Japan/Korea
+1701,exclude,Not relevant to the research question/topic,esketamine depression trial
+1702,exclude,Not relevant to the research question/topic,CD163 macrophages WCHS survival
+1703,exclude,Not relevant to the research question/topic,mucosal melanoma case report
+1704,exclude,Not relevant to the research question/topic,lncRNA MIR497HG mechanism
+1705,exclude,Not a US population-based/registry study,mammographic density Chinese TDLU
+1706,exclude,Not a US population-based/registry study,mammography/Pap coverage Brazil
+1707,exclude,Not relevant to the research question/topic,ADC bibliometric
+1708,exclude,Not relevant to the research question/topic,endocrine therapy DCIS initiation
+1709,exclude,Not relevant to the research question/topic,pN+ microinvasive T1a NCDB
+1710,exclude,Not relevant to the research question/topic,ribociclib PK Black LEANORA
+1711,exclude,Not relevant to the research question/topic,plasma metabolomics BCFR risk
+1712,exclude,Not relevant to the research question/topic,trastuzumab cardiotoxicity diverse
+1713,exclude,Not a US population-based/registry study,MHT BC subtypes Norway
+1714,exclude,Not relevant to the research question/topic,PEG-rhG-CSF timing trial
+1715,exclude,Not a US population-based/registry study,BMI BC East Asian pooled
+1716,exclude,Not a US population-based/registry study,artery dissection VPI Japan
+1717,exclude,Not relevant to the research question/topic,antiplatelet NAFLD cancer TriNetX
+1718,exclude,Not relevant to the research question/topic,CVD mortality BC WONDER
+1719,exclude,Not a US population-based/registry study,reconstruction complications Chinese center
+1720,exclude,Not a US population-based/registry study,depression BC survivors South Korea
+1721,exclude,Not relevant to the research question/topic,serum uric acid BC meta-analysis
+1722,exclude,Not relevant to the research question/topic,chemo dose reduction TNBC pembro
+1723,exclude,Not relevant to the research question/topic,cancer HF mortality WONDER
+1724,exclude,Not relevant to the research question/topic,BC/prostate screening dialysis
+1725,exclude,Not a US population-based/registry study,global radiotherapy demands
+1726,exclude,Not a US population-based/registry study,BC rates young Arab women
+1727,exclude,Not relevant to the research question/topic,excess weight cancer ABACus2
+1728,exclude,Not a US population-based/registry study,BC statistics Korea 2021
+1729,exclude,Not relevant to the research question/topic,cancer mortality Hispanic by birthplace
+1730,exclude,Not relevant to the research question/topic,primary care visit length utilization
+1731,exclude,Not relevant to the research question/topic,inclusive research calculator
+1732,exclude,Not a US population-based/registry study,H pylori gastric Taiwan trial
+1733,exclude,Not relevant to the research question/topic,CHIP mCA solid malignancy WHI
+1734,exclude,Not relevant to the research question/topic,US cancer mortality Asian/Pacific Islander
+1735,exclude,Not a US population-based/registry study,intercontinental cancer burden GBD
+1736,exclude,Not relevant to the research question/topic,MARSI PICC skin injury
+1737,exclude,Not a US population-based/registry study,BER polymorphism East Asian
+1738,exclude,Not a US population-based/registry study,sacituzumab ASCENT-J02 Japan
+1739,exclude,Not relevant to the research question/topic,olaparib gastric HBOC
+1740,exclude,Not a US population-based/registry study,cancer mortality Asia/Australia
+1741,exclude,Not relevant to the research question/topic,LGBTQ+ survivors chronic conditions BRFSS
+1742,exclude,Not relevant to the research question/topic,IDD cancer surgery Medicare
+1743,exclude,Not relevant to the research question/topic,multilevel screening intervention Ohio
+1744,exclude,Not a US population-based/registry study,TNBC molecular profiling India
+1745,exclude,Not relevant to the research question/topic,bladder organoid protocol
+1746,exclude,Not relevant to the research question/topic,ICI-induced diabetes
+1747,exclude,Not relevant to the research question/topic,COVID cancer detection recovery SEER
+1748,exclude,Not relevant to the research question/topic,microbiota transplant elderly
+1749,exclude,Not a US population-based/registry study,CVD risks BC survivors Japan
+1750,exclude,Not relevant to the research question/topic,pesticide IBD Sister Study
+1751,exclude,Not a US population-based/registry study,reproductive factors Caribbean women
+1752,exclude,Not relevant to the research question/topic,late cardiotoxicity HER2 MGH
+1753,exclude,Not a US population-based/registry study,cervical HPV Asia/Oceania
+1754,exclude,Not relevant to the research question/topic,SPNBC young BC survivors YWS
+1755,exclude,Not relevant to the research question/topic,BC risk gender-affirming surgery trial
+1756,exclude,Not relevant to the research question/topic,PH deaths PE WONDER
+1757,exclude,Not a US population-based/registry study,myocardial damage anthracycline Japan
+1758,exclude,Not relevant to the research question/topic,cancer screening cognitive decline
+1759,exclude,Not a US population-based/registry study,cancer incidence under 50 Northern Italy

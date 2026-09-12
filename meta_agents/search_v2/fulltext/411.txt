@@ -1,0 +1,5026 @@
+record_id=411 pmid=25825511 doi=10.1093/jnci/djv048 pmcid=PMC4603551
+TITLE: Annual report to the nation on the status of cancer, 1975-2011, featuring incidence of breast cancer subtypes by race/ethnicity, poverty, and state
+
+For over 15 years, the American Cancer Society (ACS), Centers for Disease Control and Prevention (CDC), National Cancer Institute (NCI), and North American Association of Central Cancer Registries (NAACCR) have collaborated to provide the Annual Report to the Nation on the Status of Cancer, which contains updated cancer incidence and mortality data for the United States. These reports have documented a sustained decline in cancer mortality, starting with our first report in 1998 (1). In addition to providing contemporary cancer rates and trends, each report has featured an in-depth analysis of a special topic (2–16). This Annual Report to the Nation on Status of Cancer presents newly available data on national breast cancer incidence rates by demographic and tumor characteristics for the four intrinsic molecular subtypes.
+Female breast cancer mortality has a bimodal age distribution that was first identified in the early 1900s, with early and late age distributions at diagnosis (17). This pattern led researchers to postulate that there were two main types of breast cancer according to age at onset and hormone dependence (18). The first breast cancer type is hormone-dependent with peak incidence (or mode) near age 50 years, whereas the second breast cancer is hormone-independent with peak incidence near age 60 years (18). Later research further suggested that these two age-based groups of breast cancers were etiologically different (19–22). Analyses of gene-expression profiling have confirmed two main groups of breast cancers which can be further separated into four molecular subtypes according to hormone receptor expression (HR±) and/or epithelial cell of origin (luminal or basal). There are two HR+ breast cancers (Luminal A and Luminal B) and two HR- cancers (human growth factor-neu receptor (HER2)-enriched and basal-like) (19–23). Understanding the epidemiology of breast cancer by subtype is critical for guiding treatment, predicting survival, and informing prevention activities (22,24). Gene-expression profiling is not currently standard clinical practice, but, for nearly a decade, testing for joint HR/HER2 status has been a routine part of treatment planning. The molecular subtypes can be approximated by HR/HER2 status; ie, Luminal A (HR+/HER2-), Luminal B (HR+/HER2+), HER2-enriched (HR-/HER2+), and triple-negative (HR-/HER2-) (19,21,22,25,26).
+Routine clinical care includes identifying breast cancer tumor marker expression (23,27), and beginning with cases diagnosed in 2010, all population-based cancer registries in the United States are required to report both HR and HER2 status for breast cancer cases, reflecting our current understanding of breast cancer pathogenesis. A recent, large-scale US analysis of breast cancer subtypes using 2010 HR/HER2 data was conducted using 17 NCI Surveillance, Epidemiology, and End Results (SEER) registries covering 28% of the US population (28). The analysis confirmed prior small studies by subtype, which documented demographic patterns of the two main subtypes, showing HR+/HER2- to be the most common subtype and HR-/HER2- (“triple-negative”) being more common in younger women and non-Hispanic black women than in other age or racial/ethnic groups (22,25,27,29–34). This article uses the most current of data and expands the analysis to include data from 42 states plus the District of Columbia, covering 84% of the US female population. We present incidence rates for each breast cancer subtype by age group, race/ethnicity, area-based poverty status, and state.
+Methods
+Data Sources, Codes, and Selection Criteria
+Cancer Incidence and Mortality Data
+Population-based cancer incidence data were obtained from NAACCR member registries that are funded by NCI’s SEER program and/or the CDC’s National Program of Cancer Registries (NPCR). Participating registries met NAACCR’s data quality criteria for the December 2013 submission cycle (35). Site and histology for incident invasive cancers were coded according to the International Classification of Diseases for Oncology (ICD-O) edition in use at the time of diagnosis, converted to the Third Edition (36,37), and categorized according to SEER site groups (36).
+Incidence rates were calculated for all sites combined, childhood cancers (ages 0–14 and 0–19 years), and the 15 most common cancers for each of the five major racial and ethnic groups (white, black, Asian and Pacific Islander [API], American Indian/Alaska Native [AI/AN], and Hispanic) by sex, which results in the reporting of the 17 most common cancers among men and 18 among women. Hispanic ethnicity includes men and women from all races identified as Hispanic. Rates for AI/ANs were calculated for counties covered by the Indian Health Service’s Contract Health Service Delivery Area (CHSDA) because of the high-quality collection of AI/AN data in these areas (8,38).
+Long-term (1992–2011) incidence trends for all racial and ethnic groups combined were estimated using data from the SEER-13 registries covering approximately 14% of the US population (39,40). Five-year (2007–2011) average annual incidence rates and five- and 10-year (2007 -2011 and 2002–2011) incidence trends for all racial and ethnic groups combined, and 10-year trends for each of the five major racial and ethnic populations were calculated using combined data from NPCR and SEER registries. Together, participating registries cover 97% (for the five-year period) and 93% (for the 10-year period) of the US population.
+Cause of death was based on death certificate information reported to state vital statistics offices and compiled through the National Vital Statistics System into a national file by the CDC’s National Center for Health Statistics (NCHS) (41). To maximize comparability among International Classification of Diseases (ICD) and ICD-O versions, cause of death was categorized according to SEER site groups (36). The underlying causes of death were selected according to the version of the ICD codes and selection rules in use at the time of death (ICD-6 to ICD-10). Death rates were calculated for all sites combined, childhood cancers, and the most common cancers among men and women consistent with the incidence analysis. In addition to joinpoint analyses for long-term trends from 1975 forward, we also examined the 10-year and five-year mortality trends using both joinpoint and fixed-interval methods to correspond with the incidence trends described earlier.
+Population Data
+Population estimates from the Census Bureau’s Vintage 2011 National Tables were used with SEER*Stat software to produce mortality and incidence rates by age, sex, race, and ethnicity (42,43). Bridged single-race population estimates produced by the Census Bureau in collaboration with the NCHS (44) were used in racial/ethnic rate calculations. For most states, population estimates as of July 1 of each year were used to calculate annual incidence rates which were presumed to reflect the average population of a defined geographic area for a calendar year; however, some adjustments were made to refine these estimates, as has been done in previous reports (2,45).
+For results classified by poverty status, population estimates were grouped into three categories according to the percent of the population in the census-tract living below the federally defined poverty threshold: less than 10%, 10% to 19.99%, and 20% or greater, with the last category considered a severely disadvantaged area (46–48). Here, we used custom single-year sex and age-specific census-tract level residential population estimates for 2011 developed by Woods & Poole Economics, Inc., for use by the SEER program. These population estimates did not include information on race/ethnicity; therefore, we applied the census tract race/ethnicity proportions from the 2010 Census. The details of this approach have been described elsewhere (49,50). An additional 11 high-quality registries were excluded in this subanalysis because they did not report census tract-level data for the poverty analysis to NAACCR. Of note, these mutually exclusive racial/ethnic groups in the special section differ from the non-mutually exclusive racial/ethnic groupings used in the general rates and trends analysis.
+Breast Cancer and HR/HER2 Biomarker Data
+In this special analysis, invasive, female breast cancer cases (ICD-O-3 site codes C500-509 excluding histology codes 9050–9055; 9140; 9590–9992) diagnosed in 2011 in women under age 85 years were selected. Women over the age of 84 years were excluded because of concerns with denominator data for the oldest age group as well issues with using a broad, terminal, age 85+ years category (51,52). Cases reported to the cancer registry based on information only on a death certificate, an autopsy report, or by a nursing home or hospice were found to have a high percentage of missing HR/HER2 receptor status and were, therefore, also excluded. In addition, cases of unknown age, unknown Hispanic ethnicity, or unknown county of residence were excluded. There were too few cases among AI/AN to conduct analysis for this racial grouping, but these cases were included in the overall analysis.
+The estrogen receptor (ER), progesterone receptor (PR), and human growth factor-neu receptor (HER2) variables were coded according to NAACCR standards (53). ER and PR status were combined and analyzed as a joint HR status, and four HR/HER2 categories were used (HR+/HER2-, HR+/HER2+, HR-/HER2+, and HR-/HER2- or “triple-negative”) to closely align with the four intrinsic molecular subtypes of breast cancer. Cases with ER+, PR+, or borderline ER or PR were classed as HR+ to align with recent changes to clinical guidelines that use lower cutoffs to determine positive results (54). Cases with ER- and PR- were classed as HR-, hence HR-/HER2- is referred to as “triple-negative”. Cases with borderline HER2 results were classified as “unknown” HER2. For the first year of HER2 reporting, completeness for all three markers was not sufficient for analysis, so analysis was limited to invasive cases diagnosed in 2011. Analysis was restricted to the same high-quality cancer registries used elsewhere in this report, but we further excluded five otherwise high-quality registries because 20% or greater of the breast cases had unknown HR/HER2 status. Overall, about 10% (18622) of the selected breast cancer cancers were classified as unknown HER2 status and were imputed to address potential bias because of differential rates of missing data (see the Statistical Methods described below).
+We evaluated breast cancer rates by subtype stratified by race/ethnicity and by age, stage at diagnosis, grade, census tract-level poverty, and by state. We were limited by small numbers for many groups, so we mapped breast cancer rates by subtype by state for all race/ethnicities combined.
+Statistical Methods
+Incidence and Mortality Rates and Trends
+Average annual cancer incidence and death rates per 100000 persons were age-standardized to the 2000 US standard population by the direct method (55). Corresponding 95% confidence intervals (CIs) were calculated as modified gamma intervals (56). For stability and reliability, rates and trends were not reported if the numerator included less than 10 observations for 10-year trends or less than 16 observations for five-year trends.
+Trends in age-standardized cancer incidence and death rates were analyzed using joinpoint regression, which involves fitting a series of joined straight lines on a logarithmic scale to the trends in the annual age-standardized rates with at least three data points between changes in joinpoints (57,58). The resulting trends of varying time periods were described by the slope of the line segment or annual percentage change (APC) (59). Long-term incidence trends were calculated using both observed and delay-adjusted SEER-13 data; however, descriptions of these trends were based on the delay-adjusted data, except when noted. Delay adjustment is a statistical method to correct for unreported (delayed) or updated cases and mostly affects cancers diagnosed in recent years and cancers diagnosed in nonhospital settings (eg, melanoma or leukemia) (60). The delay-adjustment method is not available for NPCR areas; therefore, five-year and 10-year trends by race and ethnicity were based on observed NPCR and SEER combined data and not delay adjusted. We used the t test and the Z test, respectively, to assess whether the APC and the average annual percent change (AAPC) were statistically different from zero. All statistical tests were two-sided. In describing trends, the terms “increase” or “decrease” were used when the slope (APC or AAPC) of the trend was statistically significant (P < .05). For non-statistically significant trends, terms such as “stable,” “statistically non-significant increase,” and “statistically non-significant decrease” were used. More detailed information on our statistical methods is described in previous reports (2).
+Breast Cancer Subtype Analysis
+To correct for potential bias because of missing data in our study, we employed sequential regression multivariate imputation to impute missing HER2 status and all other covariates in the model with missing information, similar to methods used previously (28,61,62). The covariates in the imputation model include age at diagnosis, stage at diagnosis, race, ethnicity, registry, reporting source, ER status, PR status, tumor grade, tumor size, tumor histology, surgery, and county-based poverty category and county-based metro/nonmetro (both based on US Census data). The imputation was repeated independently multiple times to account for imputation uncertainty, resulting in 10 datasets with plausible values for missing observations for HER2 and all covariates. A second imputation model was run on the subset of registries that reported census tract-level poverty for the area-based poverty analysis.
+Each imputed data set was used to obtain age-specific or age-adjusted rates per 100000 person-years for the four breast cancer subtypes using SEER*Stat software (39). A final age-specific rate and standard error was obtained by combining the age-specific rates and standard errors obtained from each multiply imputed data set using Rubin’s rule (63). Additional information on this approach is described elsewhere (62).
+For state maps by subtypes, state rates were considered to be statistically significantly different from the nation if the 95% confidence intervals for the state did not overlap the national rate (64). We conducted a post hoc, exploratory analysis evaluating the relationship between state-level breast cancer rates by subtype and mammography and between subtype and percent minority population. State-level mammography data for year 2010 were obtained from CDC’s Behavioral Risk Factor Surveillance System (BRFSS) (65). Mammography use was defined as the age-adjusted prevalence of an exam within two years prior to 2010 as reported in Miller et al. (66). State-level demographic data were obtained from the 2010 US Census (67). We assessed the correlation between state-level rates and state-level risk factors using both linear (Pearson r) and nonparametric (Spearman’s ρ) correlation coefficients.
+Results
+Cancer Incidence Rate Long-Term Trends (1992-2011) for Most Common Cancers
+Trend analysis based on SEER-13 data showed that overall delay-adjusted cancer incidence rates for all persons combined decreased by 0.5% (P < .001) per year from 2002 to 2011 (Table 1). Among men, cancer incidence rates decreased on average by 1.8% (P = .003) annually from 2007 to 2011. Overall cancer incidence rates among women increased 0.8% (P = .003) annually from 1992 to 1998 but were stable from 1998 to 2011. Among children, ages 0–14 and 0–19 years, rates have increased by 0.8% (P < .001) per year over the past decade, continuing a trend dating from 1992.
+Table 1.
+Surveillance, Epidemiology, and End Results cancer incidence rate trends with joinpoint analyses from 1992 to 2011 for the most common cancers, by sex, for all racial and ethnic groups combined*
+Sex/cancer site or type
+Joinpoint analyses (1992–2011)†
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+AAPC‡
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+2002 - 2011
+P
+2007 - 2011
+P
+All sitesǁ
+Both sexes
+1992 - 1994
+-3.2
+¶
+.05
+1994 - 1998
+0.4
+.56
+1998 - 2009
+-0.4
+¶
+.002
+2009 - 2011
+-2.2
+.12
+-0.8
+#
+.005
+-1.3
+#
+.04
+(Delay-adjusted)
+1992 - 1994
+-3.1
+.06
+1994 - 1999
+0.3
+.50
+1999 - 2011
+-0.5
+¶
+<.001
+-0.5
+#
+<.001
+-0.5
+#
+<.001
+Men
+1992 - 1994
+-5.9
+¶
+.004
+1994 - 2007
+-0.5
+¶
+<.001
+2007 - 2011
+-2.2
+¶
+<.001
+-1.2
+#
+<.001
+-2.2
+#
+<.001
+(Delay-adjusted)
+1992 - 1994
+-5.9
+¶
+.004
+1994 - 2007
+-0.5
+¶
+<.001
+2007 - 2011
+-1.8
+¶
+.003
+-1.1
+#
+<.001
+-1.8
+#
+.003
+Women
+1992 - 1998
+0.7
+¶
+.02
+1998 - 2011
+-0.3
+¶
+<.001
+-0.3
+#
+<.001
+-0.3
+#
+<.001
+(Delay-adjusted)
+1992 - 1998
+0.8
+¶
+.003
+1998 - 2003
+-0.7
+.11
+2003 - 2011
+0.0
+.87
+-0.1
+.66
+0.0
+.87
+Children (age 0–14 y)
+1992 - 2011
+0.7
+¶
+<.001
+0.7
+#
+<.001
+0.7
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+0.8
+¶
+<.001
+0.8
+#
+<.001
+0.8
+#
+<.001
+Children (age 0–19 y)
+1992 - 2011
+0.7
+¶
+<.001
+0.7
+#
+<.001
+0.7
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+0.8
+¶
+<.001
+0.8
+#
+<.001
+0.8
+#
+<.001
+Top 17 cancers for males**
+Prostate
+1992 - 1995
+-10.9
+¶
+<.001
+1995 - 2001
+1.6
+.19
+2001 - 2011
+-2.5
+¶
+<.001
+-2.5
+#
+<.001
+-2.5
+#
+<.001
+(Delay-adjusted)
+1992 - 1995
+-11.2
+¶
+<.001
+1995 - 2000
+2.3
+.18
+2000 - 2011
+-2.1
+¶
+<.001
+-2.1
+#
+<.001
+-2.1
+#
+<.001
+Lung and bronchus
+1992 - 2009
+-1.9
+¶
+<.001
+2009 - 2011
+-4.8
+¶
+.005
+-2.6
+#
+<.001
+-3.4
+#
+<.001
+(Delay-adjusted)
+1992 - 2009
+-1.9
+¶
+<.001
+2009 - 2011
+-4.0
+¶
+.01
+-2.4
+#
+<.001
+-3.0
+#
+<.001
+Colon and rectum
+1992 - 1995
+-2.6
+¶
+.001
+1995 - 1998
+1.4
+.24
+1998 - 2008
+-2.5
+¶
+<.001
+2008 - 2011
+-4.2
+<.001
+-3.1
+#
+<.001
+-3.8
+#
+<.001
+(Delay-adjusted)
+1992 - 1995
+-2.6
+¶
+.002
+1995 - 1998
+1.4
+.25
+1998 - 2008
+-2.5
+¶
+<.001
+2008 - 2011
+-4.0
+<.001
+-3.0
+#
+<.001
+-3.6
+#
+<.001
+Urinary bladder
+1992 - 2007
+0.1
+.29
+2007 - 2011
+-2.0
+¶
+.01
+-0.8
+#
+.01
+-2.0
+#
+.01
+(Delay-adjusted)
+1992 - 2007
+0.1
+.18
+2007 - 2011
+-1.6
+¶
+.04
+-0.6
+#
+.05
+-1.6
+#
+.04
+Melanoma of the skin
+1992 - 2008
+2.6
+¶
+<.001
+2008 - 2011
+-0.8
+.70
+1.4
+#
+.03
+0.1
+.97
+(Delay-adjusted)
+1992 - 2011
+2.3
+¶
+<.001
+2.3
+#
+<.001
+2.3
+#
+<.001
+Non-Hodgkin Lymphoma
+1992 - 2011
+0.2
+.15
+0.2
+.15
+0.2
+.15
+(Delay-adjusted)
+1992 - 2011
+0.3
+¶
+.02
+0.3
+#
+.02
+0.3
+#
+.02
+Kidney and renal pelvis
+1992 - 2004
+1.9
+¶
+<.001
+2004 - 2008
+4.4
+¶
+.01
+2008 - 2011
+-1.8
+.20
+1.7
+#
+.03
+-0.3
+.79
+(Delay-adjusted)
+1992 - 2004
+1.9
+¶
+<.001
+2004 - 2008
+4.5
+¶
+.01
+2008 - 2011
+-1.2
+.41
+2.0
+#
+.01
+0.2
+.84
+Oral cavity and pharynx
+1992 - 2003
+-1.6
+¶
+<.001
+2003 - 2011
+0.6
+.08
+0.4
+.21
+0.6
+.08
+(Delay-adjusted)
+1992 - 2003
+-1.5
+¶
+<.001
+2003 - 2011
+0.8
+¶
+.03
+0.5
+.06
+0.8
+#
+.03
+Leukemia
+1992 - 2011
+0.0
+.89
+0.0
+.89
+0.0
+.89
+(Delay-adjusted)
+1992 - 2006
+0.2
+.24
+2006 - 2011
+1.6
+¶
+.01
+0.9
+#
+.002
+1.6
+#
+.01
+Pancreas
+1992 - 2003
+0.0
+.91
+2003 - 2006
+2.9
+.15
+2006 - 2011
+0.0
+.96
+1.0
+.14
+0.0
+.96
+(Delay-adjusted)
+1992 - 2001
+0.0
+.93
+2001 - 2011
+1.2
+¶
+<.001
+1.2
+#
+<.001
+1.2
+#
+<.001
+Liver and intrahepatic bile duct
+1992 - 1999
+4.6
+¶
+<.001
+1999 - 2002
+0.5
+.91
+2002 - 2007
+5.3
+¶
+<.001
+2007 - 2011
+1.8
+.08
+3.7
+#
+<.001
+1.8
+.08
+(Delay-adjusted)
+1992 - 2011
+3.6
+¶
+<.001
+3.6
+#
+<.001
+3.6
+#
+<.001
+Stomach
+1992 - 2011
+-1.7
+¶
+<.001
+-1.7
+#
+<.001
+-1.7
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+-1.7
+¶
+<.001
+-1.7
+#
+<.001
+-1.7
+#
+<.001
+Esophagus
+1992 - 2011
+-0.1
+.37
+-0.1
+.37
+-0.1
+.37
+(Delay-adjusted)
+1992 - 2011
+-0.1
+.49
+-0.1
+.49
+-0.1
+.49
+Brain and other nervous system
+1992 - 2011
+-0.4
+¶
+.004
+-0.4
+#
+.004
+-0.4
+#
+.004
+(Delay-adjusted)
+1992 - 2011
+-0.2
+¶
+.05
+-0.2
+#
+.05
+-0.2
+#
+.05
+Myeloma
+1992 - 2011
+0.6
+¶
+<.001
+0.6
+#
+<.001
+0.6
+#
+<.001
+(Delay-adjusted)
+1992 - 2006
+0.4
+¶
+.04
+2006 - 2011
+3.0
+¶
+<.001
+1.9
+#
+<.001
+3.0
+#
+<.001
+Thyroid
+1992 - 1995
+-3.1
+.42
+1995 - 2011
+5.2
+¶
+<.001
+5.2
+#
+<.001
+5.2
+#
+<.001
+(Delay-adjusted)
+1992 - 1995
+-3.1
+.40
+1995 - 2011
+5.3
+¶
+<.001
+5.3
+#
+<.001
+5.3
+#
+<.001
+Larynx
+1992 - 2011
+-2.7
+¶
+<.001
+-2.7
+#
+<.001
+-2.7
+#
+<.001
+(Delay-adjusted)
+1992 - 2003
+-3.2
+¶
+<.001
+2003 - 2011
+-1.7
+¶
+<.001
+-1.9
+#
+<.001
+-1.7
+#
+<.001
+Top 18 cancers for females**
+Breast
+1992 - 1999
+1.3
+¶
+.003
+1999 - 2004
+-2.2
+¶
+.02
+2004 - 2011
+0.2
+.62
+-0.4
+.23
+0.2
+.62
+(Delay-adjusted)
+1992 - 1999
+1.3
+¶
+.003
+1999 - 2004
+-2.2
+¶
+.02
+2004 - 2011
+0.3
+.45
+-0.3
+.34
+0.3
+.45
+Lung and bronchus
+1992 - 2007
+0.0
+.84
+2007 - 2011
+-2.5
+¶
+.002
+-1.1
+#
+<.001
+-2.5
+#
+.002
+(Delay-adjusted)
+1992 - 2007
+0.0
+.75
+2007 - 2011
+-2.2
+¶
+.005
+-1.0
+#
+.001
+-2.2
+#
+.005
+Colon and rectum
+1992 - 1995
+-1.8
+¶
+.02
+1995 - 1998
+1.8
+.19
+1998 - 2008
+-2.0
+¶
+<.001
+2008 - 2011
+-4.5
+<.001
+-2.8
+#
+<.001
+-3.9
+#
+<.001
+(Delay-adjusted)
+1992 - 1995
+-1.8
+¶
+.02
+1995 - 1998
+1.8
+.20
+1998 - 2008
+-1.9
+¶
+<.001
+2008 - 2011
+-4.2
+<.001
+-2.7
+#
+<.001
+-3.6
+#
+<.001
+Corpus and uterus, NOS
+1992 - 2006
+-0.2
+.25
+2006 - 2011
+2.3
+¶
+<.001
+1.2
+#
+<.001
+2.3
+#
+<.001
+(Delay-adjusted)
+1992 - 2006
+-0.1
+.27
+2006 - 2011
+2.4
+¶
+<.001
+1.3
+#
+<.001
+2.4
+#
+<.001
+Thyroid
+1992 - 1999
+4.1
+¶
+<.001
+1999 - 2009
+6.8
+¶
+<.001
+2009 - 2011
+1.8
+.30
+5.7
+#
+<.001
+4.3
+#
+<.001
+(Delay-adjusted)
+1992 - 1999
+4.2
+¶
+<.001
+1999 - 2009
+6.9
+¶
+<.001
+2009 - 2011
+2.2
+.22
+5.8
+#
+<.001
+4.5
+#
+<.001
+Non-Hodgkin Lymphoma
+1992 - 2004
+1.3
+¶
+<.001
+2004 - 2011
+-0.7
+.08
+-0.3
+.35
+-0.7
+.08
+(Delay-adjusted)
+1992 - 2004
+1.3
+¶
+<.001
+2004 - 2011
+-0.5
+.21
+-0.1
+.76
+-0.5
+.21
+Melanoma of the skin
+1992 - 1997
+4.1
+¶
+.002
+1997 - 2011
+1.4
+¶
+<.001
+1.4
+#
+<.001
+1.4
+#
+<.001
+(Delay-adjusted)
+1992 - 1997
+4.1
+¶
+.002
+1997 - 2011
+1.5
+¶
+<.001
+1.5
+#
+<.001
+1.5
+#
+<.001
+Ovary
+1992 - 2011
+-1.0
+¶
+<.001
+-1.0
+#
+<.001
+-1.0
+#
+<.001
+(Delay-adjusted) ‡
+1992 - 2011
+-0.9
+¶
+<.001
+-0.9
+#
+<.001
+-0.9
+#
+.000
+Kidney and renal pelvis
+1992 - 1998
+1.2
+.12
+1998 - 2008
+3.2
+¶
+<.001
+2008 - 2011
+-2.5
+.13
+1.3
+#
+.02
+-1.1
+.34
+(Delay-adjusted)
+1992 - 1999
+1.4
+¶
+.02
+1999 - 2008
+3.4
+¶
+<.001
+2008 - 2011
+-1.9
+.24
+1.6
+#
+.007
+-0.6
+.60
+Pancreas
+1992 - 2000
+-0.1
+.72
+2000 - 2009
+1.4
+¶
+<.001
+2009 - 2011
+-2.9
+.25
+0.4
+.47
+-0.8
+.52
+(Delay-adjusted)
+1992 - 1999
+-0.1
+.81
+1999 - 2011
+1.1
+¶
+<.001
+1.1
+#
+<.001
+1.1
+#
+<.001
+Leukemia
+1992 - 2011
+0.2
+.11
+0.2
+.11
+0.2
+.11
+(Delay-adjusted)
+1992 - 2011
+0.6
+¶
+<.001
+0.6
+#
+<.001
+0.6
+#
+<.001
+Urinary bladder
+1992 - 2004
+-0.2
+.20
+2004 - 2011
+-1.3
+¶
+<.001
+-1.1
+#
+<.001
+-1.3
+#
+<.001
+(Delay-adjusted)
+1992 - 2004
+-0.2
+.22
+2004 - 2011
+-1.1
+¶
+.003
+-0.9
+#
+<.001
+-1.1
+#
+<.001
+Cervix uteri
+1992 - 2011
+-2.5
+¶
+<.001
+-2.5
+#
+<.001
+-2.5
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+-2.4
+¶
+<.001
+-2.4
+#
+<.001
+-2.4
+#
+<.001
+Oral cavity and pharynx
+1992 - 2011
+-0.8
+¶
+<.001
+-0.8
+#
+<.001
+-0.8
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+-0.7
+¶
+<.001
+-0.7
+#
+<.001
+-0.7
+#
+<.001
+Brain and other nervous system
+1992 - 2011
+-0.2
+.17
+-0.2
+.17
+-0.2
+.17
+(Delay-adjusted)
+1992 - 2011
+0.0
+.73
+0.0
+.73
+0.0
+.73
+Myeloma
+1992 - 2011
+0.3
+.08
+0.3
+.08
+0.3
+.08
+(Delay-adjusted)
+1992 - 2007
+0.1
+.51
+2007 - 2011
+3.9
+¶
+.01
+1.8
+#
+.002
+3.9
+#
+.01
+Stomach
+1992 - 2011
+-0.8
+¶
+<.001
+-0.8
+#
+<.001
+-0.8
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+-0.7
+¶
+<.001
+-0.7
+#
+<.001
+-0.7
+#
+<.001
+Liver and intrahepatic bile duct
+1992 - 1996
+6.9
+¶
+.01
+1996 - 2011
+2.4
+¶
+<.001
+2.4
+#
+<.001
+2.4
+#
+<.001
+(Delay-adjusted)
+1992 - 2011
+2.9
+¶
+<.001
+2.9
+#
+<.001
+2.9
+#
+<.001
+* Source: Surveillance, Epidemiology, and End Results (SEER) 13 areas covering about 14% of the US population (Connecticut, Hawaii, Iowa, Utah, and New Mexico, the Alaska Native Tumor Registry, rural Georgia, and the metropolitan areas of San Francisco, Los Angeles, San Jose-Monterey, Detroit, Atlanta, and Seattle-Puget Sound). AAPC = average annual percent change; APC = annual percent change; NOS = not otherwise specified.
+† Joinpoint analyses with up to three joinpoints yielding up to four trend segments (Trends 1–4) were based on rates per 100 000 persons and were age-adjusted to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, …, 80–84 years, ≥85 years; Census publication p25–1130; US Bureau of the Census, Current Population Reports, p25–1130. Washington, DC: US Government Printing Office, 2000). For joinpoint analysis, the Joinpoint Regression Program was used (Version 4.1.1.4, February 2015; Surveillance Research Program, National Cancer Institute, Bethesda, MD).
+‡ The AAPC is a weighted average of the APCs that is calculated by joinpoint regression.
+§ The APC is based on rates that were age-adjusted to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, …, 80–84 years, and ≥85 years; Census publication p25–1130).
+|| All sites excludes myelodysplastic syndromes and borderline tumors; ovary excludes borderline tumors.
+¶ The APC is statistically significantly different from zero (two-sided t test, P < .05). APC two-sided P value based on t distribution.
+# The AAPC is statistically significantly different from zero (two-sided Z test, P < .05). AAPC two-sided P value based on t distribution if AAPC interval within one segment; otherwise, AAPC two-sided P value based on normal distribution.
+** Cancers are listed in descending rank order of sex-specific, age-adjusted incidence rates for 2007 through 2011 for all racial and ethnic groups combined (using data from the National Program of Cancer Registries [NPCR] and SEER Program areas reported by the North American Association of Central Cancer Registries [NAACCR] as meeting high-quality incidence data standards for 2007–2011). More than 15 cancers are listed in order to include the top 15 cancers for each racial and ethnic group.
+Among men, delay-adjusted incidence rates from 2002 to 2011 decreased for seven of the most common cancers: prostate (-2.1 AAPC, P < .001), lung and bronchus (lung) (-2.4 AAPC, P < .001), colon and rectum (colorectal) (-3.0 AAPC, P < .001), urinary bladder (bladder) (-0.6 AAPC, P = .05), stomach (-1.7 AAPC, P < .001), brain and other nervous system (brain) (-0.2 AAPC, P = .05), and larynx (-1.9 AAPC, P < .001) (Table 1). Incidence rates among men increased for eight others: melanoma of the skin (melanoma) (2.3 AAPC, P < .001), non-Hodgkin Lymphoma (NHL) (0.3 AAPC, P = .02), kidney and renal pelvis (kidney) (2.0 AAPC, P = .01), leukemia (0.9 AAPC, P = .02), pancreas (1.2 AAPC, P < .001), liver and intrahepatic bile duct (liver) (3.6 AAPC, P < .001), myeloma (1.9 AAPC, P < .001), and thyroid (5.3 AAPC, P < .001). Among women, delay-adjusted incidence rates decreased from 2002 to 2011 for seven of the most common cancers: lung (-1.0 AAPC, P = .001), colorectal (-2.7 AAPC, P < .001), ovary (-0.9 AAPC, P < .001), bladder (-0.9 AAPC, P < .001), cervix uteri (cervix) (-2.4 AAPC, P < .001), oral cavity and pharynx (oral) (-0.7 AAPC, P < .001), and stomach (-0.7 AAPC, P < .001). Incidence rates among women increased for eight others: corpus and uterus (uterus) (1.3 AAPC, P < .001), thyroid (5.8 AAPC, P < .001), melanoma (1.5 AAPC, P < .001), kidney (1.6 AAPC, P = .007), pancreas (1.1 AAPC, P < .001), leukemia (0.6 AAPC, P < .001), myeloma (1.8 AAPC, P = .002), and liver (2.9 AAPC, P < .001). Rates were stable for all other sites, including breast cancer.
+Long-Term (1975–2011) Cancer Mortality Trends for All Racial and Ethnic Groups Combined
+Overall cancer death rates have been declining since the early 1990s, with rates from 2002 to 2011 decreasing by about 1.8% (P < .001) per year among males and by 1.4% (P < .001) per year among females (Table 2). Among children ages 0–14 and 0–19 years, rates have continued to decrease since 1975 with a 2.1 AAPC (P < .001) and 2.3 AAPC (P < .001) decrease, respectively, from 2002 to 2011, although decreases were briefly interrupted from 1998 to 2002/2003. During the most recent 10 (2002–2011) and five (2007–2011) data years, death rates among males decreased for 10 top cancers (lung -2.6, P < .001; prostate -3.4, P < .001; colorectal -3.0, P < .001; leukemia -0.9, P < .001; NHL –2.3, P < .001; esophagus -0.5, P < .001; kidney -0.8, P < .001; stomach -3.4, P < .001; myeloma -1.1, P < .001; and larynx -2.5, P < .001 for 2002–2011 AAPC), whereas rates increased from 2002 to 2011 for cancers of the pancreas (0.3 AAPC, P < .001), liver (2.6 AAPC, P < .001), melanoma of the skin (0.3 AAPC, P < .001), and soft tissue including heart (1.1 AAPC, P = .006). During the corresponding time period, death rates among females decreased for 13 of the top cancers (lung -1.2, P < .001; breast -1.9, P < .001; colorectal -2.9, P < .001; ovary -2.0, P < .001; leukemia -1.2, P < .001; NHL -3.2, P < .001; brain -0.9, P < .001; kidney -0.9, P < .001; stomach -2.7, P < .001; cervix -1.3, P < .001; bladder -0.4, P < .001; esophagus -1.5, P < .001; and oral -1.2, P = .004 for 2002–2011 AAPC), whereas they increased from 2002 to 2011 for cancers of the pancreas (0.4 AAPC, P < .001), uterus (1.0 AAPC, P = .001), and liver (1.8 AAPC, P < .001). After decreasing for many years, cancer death rates stabilized between 2007 to 2011 for myeloma among females and for bladder, brain, and oral among males.
+Table 2.
+US cancer death rate trends with joinpoint analyses from 1975 to 2011 for the most common cancers, by sex, for all racial and ethnic groups combined*
+Sex/cancer site or type
+Joinpoint analyses (1975–2011)†
+Trend 1
+Trend 2
+Trend 3
+Trend 4
+Trend 5
+Trend 6
+AAPC‡
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+Years
+APC§
+P
+2002 - 2011
+P
+2007 - 2011
+P
+All sites
+Both sexes
+1975 - 1984
+0.5
+‖
+<.001
+1984 - 1991
+0.3
+‖
+<.001
+1991 - 1994
+-0.5
+.28
+1994 - 1998
+-1.3
+‖
+<.001
+1998 - 2001
+-0.8
+.06
+2001 - 2011
+-1.5
+‖
+<.001
+-1.5
+¶
+<.001
+-1.5
+¶
+<.001
+Men
+1975 - 1979
+1.0
+‖
+<.001
+1979 - 1990
+0.3
+‖
+<.001
+1990 - 1993
+-0.5
+.39
+1993 - 2001
+-1.5
+‖
+<.001
+2001 - 2011
+-1.8
+‖
+<.001
+-1.8
+¶
+<.001
+-1.8
+¶
+<.001
+Women
+1975 - 1990
+0.6
+‖
+<.001
+1990 - 1994
+-0.2
+.56
+1994 - 2002
+-0.8
+‖
+<.001
+2002 - 2011
+-1.4
+‖
+<.001
+-1.4
+¶
+<.001
+-1.4
+¶
+<.001
+Children (ages 0–14 y)
+1975 - 1998
+-2.9
+‖
+<.001
+1998 - 2003
+0.1
+.90
+2003 - 2011
+-2.4
+‖
+<.001
+-2.1
+¶
+<.001
+-2.4
+¶
+<.001
+Children (ages 0–19 y)
+1975 - 1998
+-2.7
+‖
+<.001
+1998 - 2002
+0.2
+.89
+2002 - 2011
+-2.3
+‖
+<.001
+-2.3
+¶
+<.001
+-2.3
+¶
+<.001
+Top 17 cancers for males#
+Lung and bronchus
+1975 - 1978
+2.5
+‖
+<.001
+1978 - 1984
+1.2
+‖
+<.001
+1984 - 1990
+0.4
+‖
+.02
+1990 - 1993
+-1.1
+.11
+1993 - 2005
+-1.9
+‖
+<.001
+2005 - 2011
+-2.9
+‖
+<.001
+-2.6
+¶
+<.001
+-2.9
+¶
+<.001
+Prostate
+1975 - 1987
+0.9
+‖
+<.001
+1987 - 1991
+3.0
+‖
+<.001
+1991 - 1994
+-0.5
+.66
+1994 - 1999
+-4.1
+‖
+<.001
+1999 - 2011
+-3.4
+‖
+<.001
+-3.4
+¶
+<.001
+-3.4
+¶
+<.001
+Colon and rectum
+1975 - 1978
+0.8
+.16
+1978 - 1984
+-0.3
+.13
+1984 - 1990
+-1.3
+‖
+<.001
+1990 - 2002
+-2.0
+‖
+<.001
+2002 - 2005
+-3.9
+‖
+<.001
+2005 - 2011
+-2.6
+‖
+<.001
+-3.0
+¶
+<.001
+-2.6
+¶
+<.001
+Pancreas
+1975 - 1986
+-0.8
+‖
+<.001
+1986 - 2000
+-0.3
+‖
+<.001
+2000 - 2011
+0.3
+‖
+<.001
+0.3
+¶
+<.001
+0.3
+¶
+<.001
+Leukemia
+1975 - 1980
+0.5
+.20
+1980 - 1987
+-0.7
+‖
+.008
+1987 - 1995
+0.1
+.49
+1995 - 2011
+-0.9
+‖
+<.001
+-0.9
+¶
+<.001
+-0.9
+¶
+<.001
+Liver and intrahepatic bile duct
+1975 - 1985
+1.5
+‖
+<.001
+1985 - 1996
+3.8
+‖
+<.001
+1996 - 1999
+0.4
+.82
+1999 - 2011
+2.6
+‖
+<.001
+2.6
+¶
+<.001
+2.6
+¶
+<.001
+Non- Hodgkin Lymphoma
+1975 - 1991
+2.7
+‖
+<.001
+1991 - 1997
+1.6
+‖
+.003
+1997 - 2006
+-2.9
+‖
+<.001
+2006 - 2011
+-1.8
+‖
+.001
+-2.3
+¶
+<.001
+-1.8
+¶
+.001
+Urinary bladder
+1975 - 1983
+-1.4
+‖
+<.001
+1983 - 1987
+-2.8
+‖
+<.001
+1987 - 1993
+0.2
+.46
+1993 - 1997
+-1.1
+.12
+1997 - 2011
+0.0
+.45
+0.0
+.45
+0.0
+.45
+Esophagus
+1975 - 1985
+0.7
+‖
+<.001
+1985 - 1994
+1.2
+‖
+<.001
+1994 - 2005
+0.4
+‖
+<.001
+2005 - 2011
+-1.0
+‖
+<.001
+-0.5
+¶
+<.001
+-1.0
+¶
+<.001
+Kidney and renal pelvis
+1975 - 1991
+1.1
+‖
+<.001
+1991 - 2001
+-0.1
+.64
+2001 - 2011
+-0.8
+‖
+<.001
+-0.8
+¶
+<.001
+-0.8
+¶
+<.001
+Brain and other nervous system
+1975 - 1977
+4.4
+.07
+1977 - 1982
+-0.4
+.61
+1982 - 1991
+1.3
+‖
+<.001
+1991 - 2007
+-0.9
+‖
+<.001
+2007 - 2011
+0.4
+.48
+-0.4
+.14
+0.4
+.48
+Stomach
+1975 - 1987
+-2.4
+‖
+<.001
+1987 - 1990
+-0.3
+.86
+1990 - 2011
+-3.4
+‖
+<.001
+-3.4
+¶
+<.001
+-3.4
+¶
+<.001
+Myeloma
+1975 - 1994
+1.5
+‖
+<.001
+1994 - 2011
+-1.1
+‖
+<.001
+-1.1
+¶
+<.001
+-1.1
+¶
+<.001
+Melanoma of the skin
+1975 - 1989
+2.3
+‖
+<.001
+1989 - 2011
+0.3
+‖
+<.001
+0.3
+¶
+<.001
+0.3
+¶
+<.001
+Oral cavity and pharynx
+1975 - 1977
+0.7
+.80
+1977 - 1993
+-2.0
+‖
+<.001
+1993 - 2000
+-2.8
+‖
+<.001
+2000 - 2009
+-1.3
+‖
+<.001
+2009 - 2011
+2.3
+.40
+-0.5
+.41
+0.5
+.73
+Larynx
+1975 - 1994
+-0.8
+‖
+<.001
+1994 - 2011
+-2.5
+‖
+<.001
+-2.5
+¶
+<.001
+-2.5
+¶
+<.001
+Soft tissue including heart
+1975 - 1980
+7.6
+‖
+<.001
+1980 - 1997
+1.2
+‖
+<.001
+1997 - 2002
+-3.4
+‖
+.01
+2002 - 2011
+1.1
+‖
+.006
+1.1
+¶
+.006
+1.1
+¶
+.006
+Top 17 cancers for females#
+Lung and bronchus
+1975 - 1982
+6.0
+‖
+<.001
+1982 - 1990
+4.2
+‖
+<.001
+1990 - 1995
+1.7
+‖
+<.001
+1995 - 2003
+0.3
+‖
+.03
+2003 - 2007
+-0.8
+.09
+2007 - 2011
+-1.9
+‖
+<.001
+-1.2
+¶
+<.001
+-1.9
+¶
+<.001
+Breast
+1975 - 1990
+0.4
+‖
+<.001
+1990 - 1995
+-1.8
+‖
+<.001
+1995 - 1998
+-3.3
+‖
+.02
+1998 - 2011
+-1.9
+‖
+<.001
+-1.9
+¶
+<.001
+-1.9
+¶
+.000
+Colon and rectum
+1975 - 1984
+-1.0
+‖
+<.001
+1984 - 2001
+-1.8
+‖
+<.001
+2001 - 2011
+-2.9
+‖
+<.001
+-2.9
+¶
+<.001
+-2.9
+¶
+<.001
+Pancreas
+1975 - 1984
+0.8
+‖
+<.001
+1984 - 2000
+0.1
+.31
+2000 - 2011
+0.4
+‖
+<.001
+0.4
+¶
+<.001
+0.4
+¶
+<.001
+Ovary
+1975 - 1982
+-1.2
+‖
+<.001
+1982 - 1992
+0.3
+‖
+.04
+1992 - 1998
+-1.2
+‖
+.003
+1998 - 2002
+1.1
+.20
+2002 - 2011
+-2.0
+‖
+<.001
+-2.0
+¶
+<.001
+-2.0
+¶
+<.001
+Leukemia
+1975 - 1980
+0.7
+.15
+1980 - 1999
+-0.4
+‖
+<.001
+1999 - 2011
+-1.2
+‖
+<.001
+-1.2
+¶
+<.001
+-1.2
+¶
+<.001
+Non- Hodgkin Lymphoma
+1975 - 1994
+2.2
+‖
+<.001
+1994 - 1997
+0.9
+.57
+1997 - 2011
+-3.2
+‖
+<.001
+-3.2
+¶
+<.001
+-3.2
+¶
+<.001
+Corpus and uterus, NOS
+1975 - 1989
+-1.6
+‖
+<.001
+1989 - 1997
+-0.7
+‖
+.003
+1997 - 2009
+0.3
+‖
+.004
+2009 - 2011
+3.5
+‖
+.02
+1.0
+¶
+.001
+1.9
+¶
+.006
+Brain and other nervous system
+1975 - 1992
+0.9
+‖
+<.001
+1992 - 2011
+-0.9
+‖
+<.001
+-0.9
+¶
+<.001
+-0.9
+¶
+<.001
+Liver and intrahepatic bile duct
+1975 - 1978
+-1.5
+.43
+1978 - 1988
+1.4
+‖
+<.001
+1988 - 1995
+4
+‖
+<.001
+1995 - 2000
+0.2
+.79
+2000 - 2011
+1.8
+‖
+<.001
+1.8
+¶
+<.001
+1.8
+¶
+<.001
+Myeloma
+1975 - 1993
+1.5
+‖
+<.001
+1993 - 2002
+-0.5
+.06
+2002 - 2009
+-2.7
+‖
+<.001
+2009 - 2011
+2.1
+.34
+-1.7
+¶
+.003
+-0.3
+.77
+Kidney and renal pelvis
+1975 - 1994
+1.1
+‖
+<.001
+1994 - 2011
+-0.9
+‖
+<.001
+-0.9
+¶
+<.001
+-0.9
+¶
+<.001
+Stomach
+1975 - 1987
+-2.8
+‖
+<.001
+1987 - 1990
+-0.4
+.85
+1990 - 2011
+-2.7
+‖
+<.001
+-2.7
+¶
+<.001
+-2.7
+¶
+<.001
+Cervix uteri
+1975 - 1982
+-4.3
+‖
+<.001
+1982 - 1996
+-1.6
+‖
+<.001
+1996 - 2003
+-3.8
+‖
+<.001
+2003 - 2011
+-1.0
+‖
+.001
+-1.3
+¶
+<.001
+-1.0
+¶
+.001
+Urinary bladder
+1975 - 1986
+-1.7
+‖
+<.001
+1986 - 2011
+-0.4
+‖
+<.001
+-0.4
+¶
+<.001
+-0.4
+¶
+<.001
+Esophagus
+1975 - 1990
+-0.9
+‖
+<.001
+1990 - 2003
+-2.4
+‖
+<.001
+2003 - 2011
+-1.4
+‖
+<.001
+-1.5
+¶
+<.001
+-1.4
+¶
+<.001
+Oral cavity and pharynx
+1975 - 2002
+-2.7
+‖
+<.001
+2002 - 2011
+-1.2
+‖
+.004
+-1.2
+¶
+.004
+-1.2
+¶
+.004
+* Source: National Center for Health Statistics public-use data file for the total US, 1975 through 2011. AAPC = average annual percent change; APC = annual percent change; NOS = not otherwise specified.
+† Joinpoint analyses with up to five joinpoints yielding up to six trend segments (Trends 1–6) were based on rates per 100000 persons and were age-adjusted to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, …, 80–84 years, ≥85 years; Census publication p25–1130; US Bureau of the Census, Current Population Reports, p25–1130. Washington, DC: US Government Printing Office, 2000). For joinpoint analysis, the Joinpoint Regression Program was used (version 4.1.1.4, February 2015 Surveillance Research Program, National Cancer Institute, Bethesda, MD).
+‡ The AAPC is a weighted average of the APCs calculated by joinpoint regression.
+§ The APC is based on rates that were age-adjusted to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, . . ., 80–84 years, and 85 years; Census publication p25–1130).
+‖ The APC is statistically significantly different from zero (two-sided t test, P < .05). APC two-sided P value based on t distribution.
+¶ The AAPC is statistically significantly different from zero (two-sided Z test, P < .05). AAPC two-sided P value based on t distribution if AAPC interval within one segment; otherwise, AAPC two-sided P value based on normal distribution.
+# Cancers are listed in descending rank order of sex-specific, age-adjusted incidence rates for 2007 through 2011 for all racial and ethnic groups combined. More than 15 cancers are listed in order to include the top 15 cancers for each racial and ethnic group.
+Cancer Incidence Rates (2007-2011) and Trends (2007-2011 and 2002-2011) by Race and Ethnicity
+Using data submitted to NAACCR from both SEER and NPCR sponsored registries, five-year (2007–2011) average annual incidence rates and five- (2007–2011) and 10-year (2002–2011) incidence trends are shown for the United States (Table 3). During the period between 2007 and 2011, observed rates of all cancers combined in all racial groups were lower among women than for men (412.8 vs 526.1 per 100000). Black men had the highest overall cancer incidence rate (587.7 per 100000) of any racial or ethnic group. Among women, whites had the highest overall cancer incidence rate during this period (418.6 per 100000). Prostate cancer remains the most common cancer among men in each racial and ethnic group and the rates were substantially higher than any other type of cancer. Lung cancer is the second most common cancer and colorectal the third most common cancer among men of all racial and ethnic groups, except in Hispanic men where these ranks reversed. Among women, breast cancer is the most common cancer among all racial and ethnic groups by a wide margin. Lung cancer is also the second most common cancer among women, with colorectal cancer being the third most common cancer, except among API and Hispanic women, where the ranks are again reversed. Rankings of other cancers for both men and women varied by race and ethnicity. White and Hispanic children had higher cancer incidence rates than children of other racial and ethnic groups.
+Table 3.
+Incidence rates for 2007–2011 and fixed interval trends for 2002–2011 for the top 15 cancers by sex, race, and ethnicity, for areas in the United States with high-quality incidence data*
+Sex/cancer site or type†
+All races/ethnicities
+White‡
+Black‡
+API‡
+AI/AN (CHSDA)‡
+Hispanic‡
+Non-Hispanic‡
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+2007– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+Rank
+Rate§
+2002– 2011 AAPC||
+P
+All sites¶
+Both sexes
+460.0
+-0.9
+#
+<.001
+-1.7
+#
+<.001
+460.2
+-0.9
+#
+<.001
+471.2
+-1.1
+#
+<.001
+292.4
+-0.7
+#
+<.001
+387.5
+-1.5
+#
+.008
+358.8
+-1.3
+#
+<.001
+470.3
+-0.8
+#
+.003
+Men
+526.1
+-1.6
+#
+<.001
+-2.9
+#
+.007
+519.1
+-1.7
+#
+<.001
+587.7
+-2.0
+#
+<.001
+315.4
+-1.6
+#
+<.001
+426.0
+-2.1
+#
+.01
+413.1
+-2.0
+#
+<.001
+537.2
+-1.5
+#
+<.001
+Women
+412.8
+-0.4
+.08
+-0.9
+#
+.04
+418.6
+-0.4
+.09
+393.5
+-0.2
+#
+<.001
+279.3
+0.1
+.48
+363.1
+-0.8
+.25
+324.4
+-0.6
+#
+.002
+422.2
+-0.3
+.22
+Children (ages 0–14 y)
+16.0
+0.6
+#
+.008
+0.6
+#
+.008
+16.7
+0.5
+#
+.01
+12.3
+0.8
+.10
+12.6
+0.4
+.52
+11.0
+-2.8
+#
+.05
+15.7
+0.2
+.53
+16.1
+0.7
+#
+.002
+Children (ages 0–19 y)
+17.3
+0.4
+#
+.03
+0.4
+#
+.03
+18.2
+0.3
+#
+.04
+12.9
+0.6
+.21
+13.4
+0.7
+.25
+12.2
+-2.5
+#
+.01
+16.7
+0.2
+.45
+17.5
+0.5
+#
+.01
+Males
+Prostate
+1
+142.1
+-3.4
+#
+<.001
+-6.1
+#
+.01
+1
+131.4
+-3.8
+#
+<.001
+1
+216.0
+-2.9
+#
+.002
+1
+72.5
+-3.7
+#
+<.001
+1
+97.9
+-4.2
+#
+.005
+1
+120.2
+-4.2
+#
+<.001
+1
+144.2
+-3.3
+#
+<.001
+Lung and bronchus
+2
+78.6
+-2.4
+#
+<.001
+-3.3
+#
+<.001
+2
+78.2
+-2.4
+#
+<.001
+2
+93.3
+-2.9
+#
+<.001
+2
+48.0
+-1.6
+#
+<.001
+2
+68.5
+-2.0
+#
+.02
+3
+45.0
+-2.8
+#
+<.001
+2
+81.5
+-2.3
+#
+<.001
+Colon and rectum
+3
+50.0
+-3.6
+#
+<.001
+-3.6
+#
+<.001
+3
+48.8
+-3.8
+#
+<.001
+3
+60.6
+-3.0
+#
+<.001
+3
+39.9
+-2.6
+#
+<.001
+3
+50.9
+-1.8
+#
+.02
+2
+45.9
+-2.8
+#
+<.001
+3
+50.5
+-3.6
+#
+<.001
+Urinary bladder
+4
+36.7
+-1.2
+#
+.002
+-1.9
+#
+.02
+4
+38.8
+-1.1
+#
+<.001
+5
+19.4
+0.1
+.67
+7
+15.2
+-1.1
+#
+.01
+6
+18.2
+-2.3
+.19
+5
+20.4
+-1.6
+#
+.02
+4
+38.0
+-1.1
+#
+.003
+Melanoma of the skin
+5
+25.1
+1.5
+#
+.002
+1.5
+#
+.002
+5
+28.0
+1.4
+#
+.003
+25
+1.1
+0.0
+.97
+21
+1.4
+-2.4
+#
+.04
+13
+7.0
+-0.7
+.55
+17
+4.7
+-1.6
+#
+.04
+5
+27.2
+1.7
+#
+<.001
+Non- Hodgkin Lymphoma
+6
+23.2
+-0.5
+.15
+-1.1
+.08
+6
+23.8
+-0.4
+.11
+6
+16.9
+-0.1
+.81
+5
+15.3
+0.1
+.88
+7
+16.4
+-1.6
+.27
+6
+20.0
+-1.0
+#
+.01
+6
+23.5
+-0.4
+.24
+Kidney and renal pelvis
+7
+21.5
+1.2
+#
+<.001
+-0.9
+#
+.01
+7
+21.5
+1.1
+#
+<.001
+4
+23.5
+1.6
+#
+.01
+9
+10.7
+2.5
+#
+.007
+4
+30.1
+0.2
+.86
+4
+20.6
+0.8
+#
+.001
+7
+21.6
+1.3
+#
+<.001
+Oral cavity and pharynx
+8
+16.8
+0.5
+#
+.02
+0.5
+#
+.02
+8
+17.1
+0.9
+#
+<.001
+9
+15.2
+-2.7
+#
+<.001
+8
+10.7
+0.0
+.98
+8
+14.8
+2.0
+.20
+11
+10.9
+-0.6
+.32
+8
+17.5
+0.7
+#
+.004
+Leukemia
+9
+16.5
+-0.5
+#
+.002
+-0.5
+#
+.002
+9
+17.0
+-0.6
+#
+<.001
+12
+12.4
+-0.8
+.07
+11
+9.2
+0.6
+.32
+11
+11.0
+-2.4
+.25
+9
+12.8
+-0.5
+.16
+9
+16.7
+-0.5
+#
+.007
+Pancreas
+10
+13.8
+0.8
+#
+<.001
+0.2
+.40
+10
+13.7
+0.8
+#
+<.001
+7
+16.7
+0.4
+.36
+10
+9.8
+0.2
+.54
+10
+11.6
+0.5
+.77
+10
+12.1
+0.2
+.23
+10
+14.0
+0.9
+#
+<.001
+Liver and intrahepatic bile duct
+11
+11.1
+3.5
+#
+<.001
+2.4
+#
+.001
+11
+9.9
+3.7
+#
+<.001
+8
+15.8
+4.2
+#
+<.001
+4
+21.2
+-0.9
+#
+.04
+5
+18.4
+5.1
+#
+.003
+7
+19.1
+2.6
+#
+<.001
+11
+10.4
+3.5
+#
+<.001
+Stomach
+12
+9.3
+-1.3
+#
+<.001
+-0.4
+.51
+13
+8.4
+-1.3
+#
+<.001
+10
+15.2
+-2.3
+#
+<.001
+6
+15.3
+-3.5
+#
+<.001
+9
+12.0
+-5.0
+#
+<.001
+8
+13.8
+-2.0
+#
+<.001
+12
+8.9
+-1.4
+#
+<.001
+Esophagus
+13
+8.4
+-1.1
+#
+.04
+-2.6
+#
+.004
+12
+8.6
+-0.6
+.34
+14
+8.3
+-4.8
+#
+<.001
+15
+3.8
+-0.8
+.53
+12
+7.2
+-0.6
+.77
+15
+5.4
+-2.3
+#
+.01
+13
+8.7
+-0.9
+.07
+Brain and other nervous system
+14
+7.8
+-0.7
+#
+.003
+-1.3
+#
+.009
+14
+8.4
+-0.7
+#
+.01
+15
+4.7
+-0.5
+.20
+14
+4.3
+-0.8
+.60
+16
+5.1
+-0.6
+.80
+13
+6.0
+-1.3
+#
+<.001
+14
+8.1
+-0.6
+#
+.02
+Myeloma
+15
+7.5
+0.4
+#
+.03
+0.4
+#
+.03
+16
+6.9
+0.2
+.17
+11
+14.1
+0.5
+.23
+13
+4.4
+1.8
+#
+.003
+15
+5.9
+-2.9
+.09
+12
+7.2
+0.2
+.68
+15
+7.5
+0.5
+#
+.02
+Thyroid
+16
+6.6
+5.5
+#
+<.001
+3.8
+#
+.004
+15
+7.0
+5.6
+#
+<.001
+18
+3.4
+5.3
+#
+<.001
+12
+5.9
+6.2
+#
+<.001
+19
+3.6
+3.3
+.23
+16
+5.0
+4.7
+#
+<.001
+16
+6.8
+5.7
+#
+<.001
+Larynx
+17
+6.5
+-2.2
+#
+<.001
+-2.7
+#
+<.001
+17
+6.3
+-2.0
+#
+<.001
+13
+9.5
+-3.5
+#
+<.001
+18
+2.3
+-2.1
+.44
+14
+5.9
+-1.9
+.44
+14
+5.5
+-3.3
+#
+<.001
+17
+6.6
+-2.1
+#
+<.001
+Females
+Breast
+1
+122.8
+-0.2
+.28
+-0.2
+.28
+1
+124.0
+-0.4
+.15
+1
+120.7
+0.7
+#
+.003
+1
+86.0
+0.8
+#
+.01
+1
+91.7
+-0.5
+.15
+1
+91.6
+-0.3
+.22
+1
+126.1
+-0.1
+.54
+Lung and bronchus
+2
+54.6
+-0.8
+#
+<.001
+-2.0
+#
+<.001
+2
+56.3
+-0.8
+#
+.002
+2
+50.7
+-0.6
+#
+.01
+3
+28.0
+-0.2
+.48
+2
+52.5
+-0.3
+.63
+3
+26.3
+-1.4
+#
+.01
+2
+57.2
+-0.6
+.17
+Colon and rectum
+3
+37.8
+-3.2
+#
+<.001
+-4.1
+#
+<.001
+3
+36.9
+-3.3
+#
+<.001
+3
+44.8
+-3.3
+#
+<.001
+2
+30.0
+-2.3
+#
+<.001
+3
+41.1
+-1.9
+#
+.01
+2
+31.6
+-2.7
+#
+<.001
+3
+38.4
+-3.2
+#
+<.001
+Corpus and uterus, NOS
+4
+25.0
+0.9
+#
+<.001
+0.9
+#
+<.001
+4
+25.4
+0.8
+#
+<.001
+4
+23.7
+2.4
+#
+<.001
+5
+17.2
+2.3
+#
+<.001
+4
+22.5
+1.4
+.27
+4
+20.6
+1.3
+#
+<.001
+4
+25.4
+1.0
+#
+<.001
+Thyroid
+5
+19.4
+5.9
+#
+<.001
+4.1
+#
+<.001
+5
+20.5
+5.9
+#
+<.001
+7
+12.1
+6.5
+#
+<.001
+4
+19.4
+5.8
+#
+<.001
+7
+11.7
+3.2
+#
+.02
+5
+18.3
+5.4
+#
+<.001
+5
+19.7
+6.2
+#
+<.001
+Non- Hodgkin Lymphoma
+6
+16.1
+-0.8
+.07
+-1.5
+.09
+7
+16.6
+-0.7
+#
+<.001
+8
+11.7
+-0.1
+.73
+6
+10.6
+0.0
+.94
+6
+13.1
+-2.8
+#
+.05
+6
+15.2
+-0.3
+.37
+7
+16.2
+-0.4
+.43
+Melanoma of the skin
+7
+15.8
+1.1
+#
+.03
+1.1
+#
+.03
+6
+18.1
+1.6
+#
+.01
+27
+1.0
+-0.3
+.74
+21
+1.2
+-1.8
+.20
+14
+5.2
+-1.1
+.62
+18
+4.1
+-1.6
+#
+.015
+6
+17.4
+1.5
+#
+.009
+Ovary
+8
+12.1
+-2.1
+#
+<.001
+-2.9
+#
+<.001
+8
+12.5
+-2.1
+#
+<.001
+11
+9.4
+-1.7
+#
+<.001
+7
+9.0
+-1.1
+#
+.02
+8
+11.5
+0.3
+.86
+8
+10.7
+-2.1
+#
+<.001
+8
+12.2
+-2.1
+#
+<.001
+Kidney and renal pelvis
+9
+11.2
+1.3
+#
+<.001
+-0.8
+.24
+9
+11.3
+1.4
+#
+<.001
+6
+12.6
+2.4
+#
+<.001
+13
+5.0
+1.3
+.21
+5
+17.8
+1.6
+.17
+7
+11.6
+1.4
+#
+.01
+9
+11.2
+1.2
+#
+<.001
+Pancreas
+10
+10.8
+1.0
+#
+<.001
+0.2
+.56
+10
+10.5
+0.8
+#
+.01
+5
+14.1
+0.7
+#
+.05
+9
+8.4
+1.2
+#
+.01
+10
+9.3
+-1.8
+.31
+10
+10.2
+0.0
+.91
+10
+10.9
+1.0
+#
+<.001
+Leukemia
+11
+10.1
+-0.1
+.44
+-0.1
+.44
+11
+10.4
+-0.2
+.25
+12
+8.1
+0.1
+.74
+12
+6.0
+0.2
+.71
+12
+8.2
+0.0
+1.00
+11
+8.7
+-0.4
+.33
+11
+10.2
+0.0
+1.00
+Urinary bladder
+12
+9.1
+-1.2
+#
+<.001
+-1.2
+#
+<.001
+12
+9.6
+-1.3
+#
+<.001
+14
+6.7
+-1.1
+#
+.01
+15
+3.8
+-0.8
+.51
+17
+4.6
+-0.4
+.82
+14
+5.2
+-2.4
+#
+.004
+12
+9.5
+-1.1
+#
+<.001
+Cervix uteri
+13
+7.8
+-1.8
+#
+<.001
+-2.0
+#
+<.001
+13
+7.6
+-1.2
+#
+<.001
+10
+10.0
+-2.7
+#
+<.001
+11
+6.4
+-3.2
+#
+<.001
+9
+9.5
+0.1
+.95
+9
+10.5
+-3.9
+#
+<.001
+13
+7.5
+-1.6
+#
+<.001
+Oral cavity and pharynx
+14
+6.2
+0.3
+.16
+0.3
+.16
+14
+6.4
+0.5
+#
+.04
+15
+5.1
+-1.3
+#
+.003
+14
+4.7
+-1.3
+.10
+15
+5.0
+-0.4
+.83
+17
+4.2
+0.7
+.28
+14
+6.5
+0.4
+.05
+Brain and other nervous system
+15
+5.7
+-0.7
+#
+.04
+-1.8
+#
+<.001
+15
+6.1
+-0.6
+.08
+17
+3.6
+-0.2
+.65
+16
+3.0
+-1.1
+#
+.02
+18
+3.9
+0.7
+.76
+16
+4.6
+-1.6
+#
+.007
+15
+5.8
+-0.4
+.19
+Myeloma
+16
+4.9
+0.4
+#
+.05
+0.4
+#
+.05
+16
+4.3
+0.0
+.87
+9
+10.4
+0.8
+#
+.05
+17
+2.9
+0.6
+.38
+16
+4.9
+-4.9
+.07
+15
+4.9
+-1.0
+#
+.02
+16
+4.9
+0.5
+#
+.02
+Stomach
+17
+4.6
+-1.1
+#
+<.001
+-1.1
+#
+<.001
+17
+4.0
+-1.2
+#
+<.001
+13
+8.0
+-1.0
+#
+.02
+8
+8.6
+-3.4
+#
+<.001
+13
+6.5
+-3.3
+.07
+12
+7.9
+-2.5
+#
+<.001
+17
+4.3
+-1.2
+#
+<.001
+Liver and intrahepatic bile duct
+18
+3.7
+2.9
+#
+<.001
+2.6
+#
+<.001
+18
+3.4
+3.5
+#
+<.001
+16
+4.6
+3.2
+#
+<.001
+10
+8.0
+-1.1
+.11
+11
+8.6
+3.1
+.12
+13
+6.9
+2.0
+#
+<.001
+18
+3.5
+2.7
+#
+<.001
+* Source: National Program of Cancer Registries and Surveillance, Epidemiology, and End Results areas reported by North American Association of Central Cancer Registries as meeting high-quality incidence data standards for the specified time periods.
+2007–2011 rates for all races/ethnicities, white, black, American Indian/Alaska Native (AI/AN), Asian/Pacific Islander (API), Hispanic, and non-Hispanic (48 states): Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming.
+2002–2011 AAPCs for all races/ethnicities, white, black, AI/AN, API, Hispanic, and non-Hispanic (44 states): Alabama, Alaska, Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. AAPC = average annual percent change; AI/AN = American Indian/Alaska Native; APC = annual percent change; API = Asian/Pacific Islander; CHSDA = IHS Contract Health Services Delivery Area; IHS = Indian Health Service; NAACCR = North American Association of Central Cancer Registries; NOS = not otherwise specified; NPCR = National Program of Cancer Registries; SEER = Surveillance, Epidemiology, and End Results.
+† Cancers are sorted in descending order according to sex-specific rates for all races/ethnicities. More than 15 cancers appear under males and females to include the top 15 cancers for every race/ethnicity group.
+‡ White, black, API, and AI/AN (CHSDA 2012 counties) include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive. AI/AN (CHSDA 2012) statistics exclude data from Kansas.
+§ Rates are per 100000 persons and were age standardized to the 2000 US standard population (19 age groups - Census P25–1130) are based on cases that are malignant in both ICD-O-2 and ICD-O-3.
+|| AAPC is the average annual percent change and is a weighted average of the annual percent change calculated by Joinpoint over the time period 2002–2011 unless otherwise noted. Joinpoint analyses with up to two joinpoints are based on rates per 100000 persons and were age standardized to the 2000 US standard population (19 age groups - Census P25–1130). Joinpoint Regression Program, Version 4.0.4.1 February 2015, Statistical Research and Applications Branch, National Cancer Institute.
+¶ For all sites, myelodysplastic syndromes are included for the rate calculations but not for the APC calculations; they are excluded from cancer-specific analysis. Ovary excludes borderline tumors.
+# AAPC is statistically significantly different from zero (two-sided P < .05). AAPC two-sided P value based on t distribution if AAPC interval within one segment; otherwise, AAPC two-sided P value based on normal distribution.
+Cancer incidence rates among men declined in each racial/ethnic group, averaging a 1.6% (P < .001) per year decline during the period between 2002 and 2011 with a steeper decline of 2.9% (P = .007) per year during the most recent five years (Table 3). Cancer incidence rates declined among black women and Hispanic women between 2002 and 2011, -0.2 (P ≤ .001) and -0.6 (P = .002) AAPC, respectively, and were stable for women in all other racial/ethnic groups. However, the incidence trend for all women combined during the 2007 to 2011 period showed a decline, averaging 0.9% (P = .04) per year. For children age 0 to 14 and 0 to 19 years, cancer incidence rates increased from 2002 to 2011 for whites (0.5 AAPC, P = .01 and 0.3 AAPC, P = .04, respectively) and non-Hispanic children (0.7 AAPC, P = .002 and 0.5 AAPC, P = .01, respectively), decreased in AI/ANs children (-2.8 AAPC, P = .05 and -2.5 AAPC, P = .01, respectively), and were stable for all other groups.
+During the period between 2002 and 2011, the incidence rates for the four most common cancers in men decreased (prostate, lung, colorectal, and bladder) for all races except black and AI/AN men, for whom only prostate, lung, and colorectal cancers declined (Table 3). In addition, stomach (-1.3 AAPC, P < .001), esophageal (-1.1 AAPC, P = .04), brain (-0.7 AAPC, P = .003), and larynx (-2.2 AAPC, P < .001) cancers declined in men for all races combined while kidney, pancreas, liver, and thyroid cancers increased. The trends in males for all races combined were consistent with these findings during the more recent 2007 to 2011 time period, except for kidney cancer, which decreased, and pancreatic and stomach cancer, both of which remained stable. Of particular note was the declining trend for leukemia in the non-delay adjusted data from the NPCR and SEER registries, which directly contrasts with the increasing trend seen in the delay-adjusted SEER data (Table 1).
+During the period between 2002 and 2011, lung cancer incidence declined in white, black, and Hispanic women while remaining stable in the other groups (Table 3). Colorectal cancer incidence declined in women in each racial/ethnic group (-3.2 AAPC, P < .001 for all women combined). Overall incidence rates for all women combined declined from 2007 to 2011 (-0.4 AAPC, P = .04) as did ovarian (-2.9 AAPC, P < .001), bladder (-1.2 AAPC, P < .001), cervical (-2.0 AAPC, P < .001), brain (-1.8 AAPC, P < .001), and stomach (-1.1 AAPC, P < .001) cancers. Cancer incidence rates for corpus and uterus (0.9 AAPC, P < .001), thyroid (4.1 AAPC, P < .001), melanoma (1.1 AAPC, P = .03), and liver (2.9 AAPC, P < .001) increased during this time period. On the other hand, breast cancer remained stable among white, AI/AN, and Hispanic women, although slight increases were seen in black and API women. Breast cancer rates were marginally higher in white women compared with black women (124.0 vs 120.7 per 100000 women) and lower in other racial/ethnic groups (Table 3).
+Current Cancer Death Rates (2007–2011) and Trends (2002–2011 and 2007–2011) by Race and Ethnicity
+For all cancer sites combined, cancer death rates for 2007 through 2011 were higher among men than women (211.6 vs 147.4 deaths per 100000 men) (Table 4). Black men had the highest cancer death rate (269.3 deaths per 100000 men) of any racial or ethnic group. Lung cancer was the leading cause of death in both men and women. Lung, prostate, and colorectal cancers were the leading causes of cancer death among men in every racial and ethnic group except API men, for whom lung, liver, and colorectal ranked highest. For women, the leading causes of cancer death were lung, breast, and colorectal cancers, although the rank order of these top three cancers varied for AI/AN and Hispanic women.
+Table 4.
+US cancer death rates for 2007–2011 and fixed interval trends from 2002 to 2011 for the top cancers by sex, race, and ethnicity*
+Sex/cancer site or type§
+All racial and ethnic groups combined
+White†
+Black†
+API†
+AI/AN (CHSDA Counties)†
+Hispanic†
+Non-Hispanic†
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+2007- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+Rank
+Rate‖
+2002- 2011 AAPC¶
+P
+All sites
+Both sexes
+173.8
+-1.5
+#
+<.001
+-1.5
+#
+<.001
+173.3
+-1.4
+#
+<.001
+206.4
+-2.1
+#
+<.001
+107.8
+-1.1
+#
+<.001
+158.0
+-1.0
+#
+.03
+120.3
+-1.3
+#
+<.001
+178.0
+-1.5
+#
+<.001
+Men
+211.6
+-1.8
+#
+<.001
+-1.8
+#
+<.001
+209.8
+-1.7
+#
+<.001
+269.3
+-2.6
+#
+<.001
+131.0
+-1.3
+#
+<.001
+190.0
+-0.5
+.42
+150.1
+-1.6
+#
+<.001
+216.2
+-1.7
+#
+<.001
+Women
+147.4
+-1.4
+#
+<.001
+-1.4
+#
+<.001
+147.5
+-1.4
+#
+<.001
+169.0
+-1.6
+#
+<.001
+91.5
+-0.8
+#
+.002
+135.2
+-1.6
+#
+.001
+99.9
+-1.2
+#
+<.001
+151.3
+-1.4
+#
+<.001
+Children (ages 0–14 y)
+2.2
+-2.3
+#
+<.001
+-2.3
+#
+<.001
+2.3
+-2.2
+#
+<.001
+2.1
+-2.9
+#
+<.001
+1.9
+-1.6
+.37
+1.6
+**
+2.2
+-2.6
+#
+.001
+2.2
+-2.2
+#
+<.001
+Children (ages 0–19 y)
+2.4
+-2.3
+#
+<.001
+-2.3
+#
+<.001
+2.4
+-2.3
+#
+<.001
+2.3
+-2.7
+#
+<.001
+2.1
+-0.8
+.47
+1.8
+-1.8
+.25
+2.5
+-2.1
+#
+.004
+2.3
+-2.4
+#
+<.001
+Top 17 cancers for men§
+Lung and bronchus
+1
+61.6
+-2.6
+#
+<.001
+-2.9
+#
+<.001
+1
+61.4
+-2.5
+#
+<.001
+1
+75.7
+-3.4
+#
+<.001
+1
+34.7
+-1.7
+#
+<.001
+1
+50.0
+-0.7
+.50
+1
+30.5
+-2.9
+#
+<.001
+1
+64.0
+-2.5
+#
+<.001
+Prostate
+2
+22.3
+-3.3
+#
+<.001
+-3.3
+#
+<.001
+2
+20.6
+-3.3
+#
+<.001
+2
+48.9
+-3.8
+#
+<.001
+4
+10.0
+-2.4
+#
+.003
+2
+21.2
+-1.2
+.34
+2
+18.5
+-3.0
+#
+<.001
+2
+22.6
+-3.3
+#
+<.001
+Colon and rectum
+3
+19.1
+-3.1
+#
+<.001
+-2.6
+#
+<.001
+3
+18.5
+-3.1
+#
+<.001
+3
+27.7
+-2.6
+#
+<.001
+3
+13.1
+-1.9
+#
+.007
+3
+19.2
+-1.4
+.26
+3
+15.8
+-1.5
+#
+<.001
+3
+19.4
+-3.1
+#
+<.001
+Pancreas
+4
+12.5
+0.3
+#
+.008
+0.3
+#
+.008
+4
+12.5
+0.5
+#
+.002
+4
+15.3
+-0.3
+.24
+5
+8.5
+0.5
+.30
+5
+9.9
+3.2
+.38
+5
+9.7
+0.7
+.19
+4
+12.8
+0.4
+#
+.011
+Leukemia
+5
+9.4
+-1.0
+#
+<.001
+-1.0
+#
+<.001
+5
+9.7
+-0.9
+#
+<.001
+7
+8.0
+-1.5
+#
+.01
+8
+5.0
+0.4
+.66
+8
+6.6
+1.4
+.51
+8
+6.0
+-0.9
+.07
+5
+9.6
+-0.9
+#
+<.001
+Liver and intrahepatic bile duct
+6
+8.5
+2.6
+#
+<.001
+2.6
+#
+<.001
+8
+7.8
+2.8
+#
+<.001
+5
+12.1
+2.7
+#
+<.001
+2
+14.5
+-1.2
+#
+<.001
+4
+13.8
+5.2
+#
+.003
+4
+12.6
+1.7
+#
+<.001
+6
+8.2
+2.6
+#
+<.001
+Non- Hodgkin Lymphoma
+7
+8.1
+-2.3
+#
+<.001
+-1.7
+#
+.003
+6
+8.4
+-2.4
+#
+<.001
+10
+5.8
+-1.3
+.06
+7
+5.2
+-1.8
+#
+.035
+10
+5.3
+0.9
+.56
+7
+6.4
+-1.1
+#
+.004
+7
+8.2
+-2.3
+#
+<.001
+Urinary bladder
+8
+7.7
+0.1
+.52
+0.1
+.52
+7
+8.1
+0.2
+.14
+12
+5.4
+-0.7
+.34
+12
+2.9
+-0.1
+.92
+11
+4.4
+**
+11
+4.0
+-1.4
+.14
+8
+7.9
+0.2
+.09
+Esophagus
+9
+7.5
+-0.6
+#
+.004
+-0.6
+#
+.004
+9
+7.8
+-0.1
+.62
+9
+7.4
+-4.3
+#
+<.001
+9
+3.0
+-1.0
+.43
+9
+5.7
+-4.4
+.07
+10
+4.3
+0.4
+.48
+9
+7.8
+-0.5
+#
+.01
+Kidney and renal pelvis
+10
+5.8
+-0.8
+#
+<.001
+-0.8
+#
+<.001
+10
+5.9
+-0.8
+#
+<.001
+11
+5.6
+-1.2
+#
+.01
+10
+3.0
+2.6
+.10
+6
+9.5
+-0.5
+.73
+9
+5.1
+-1.4
+.07
+10
+5.8
+-0.8
+#
+<.001
+Brain and other nervous system
+11
+5.2
+-0.4
+.10
+-0.4
+.10
+11
+5.6
+-0.2
+.37
+15
+3.0
+-1.1
+.10
+13
+2.3
+-1.8
+.12
+14
+2.9
+0.6
+.79
+13
+3.3
+-0.3
+.58
+11
+5.4
+-0.3
+.18
+Stomach
+12
+4.7
+-3.2
+#
+<.001
+-3.2
+#
+<.001
+13
+4.1
+-3.4
+#
+<.001
+6
+9.6
+-3.3
+#
+<.001
+6
+8.3
+-3.6
+#
+<.001
+7
+7.0
+-5.5
+#
+.02
+6
+7.5
+-3.0
+#
+<.01
+12
+4.5
+-3.4
+#
+<.001
+Myeloma
+13
+4.3
+-1.3
+#
+<.001
+-1.3
+#
+<.001
+14
+4.0
+-1.3
+#
+.001
+8
+7.7
+-1.3
+#
+<.001
+14
+2.3
+2.5
+.07
+12
+3.4
+-5.9
+#
+.006
+12
+3.5
+-0.8
+.36
+14
+4.3
+-1.2
+#
+<.001
+Melanoma of the skin
+14
+4.1
+0.7
+#
+.01
+0.7
+#
+.01
+12
+4.6
+0.9
+#
+.003
+22
+0.5
+-0.9
+.56
+20
+0.4
+**
+16
+1.6
+**
+17
+1.1
+1.4
+.23
+13
+4.3
+0.9
+#
+.004
+Oral cavity and pharynx
+15
+3.8
+-0.7
+.16
+0.5
+.57
+15
+3.7
+-0.2
+.77
+13
+5.1
+-3.7
+#
+.001
+11
+2.9
+-1.9
+#
+.02
+13
+3.4
+0.3
+.89
+14
+2.4
+-1.9
+#
+<.001
+15
+3.9
+-0.5
+.30
+Larynx
+16
+2.0
+-2.6
+#
+<.001
+-2.6
+#
+<.001
+16
+1.8
+-2.4
+#
+<.001
+14
+3.8
+-3.9
+#
+<.001
+16
+0.8
+2.0
+.28
+15
+1.8
+**
+15
+1.7
+-0.5
+.71
+16
+2.0
+-2.6
+#
+<.001
+Soft tissue including heart
+18
+1.5
+1.1
+#
+<.001
+1.1
+#
+<.001
+18
+1.5
+1.2
+#
+.005
+16
+1.5
+0.2
+.87
+15
+1.0
+3.2
+.24
+17
+1.3
+**
+16
+1.2
+1.9
+.19
+18
+1.6
+1.1
+#
+<.001
+Top 17 cancers for women§
+Lung and bronchus
+1
+38.5
+-1.3
+#
+<.001
+-1.9
+#
+<.001
+1
+39.8
+-1.1
+#
+<.001
+1
+36.5
+-1.3
+#
+<.001
+1
+18.4
+-0.1
+.78
+1
+32.4
+-1.5
+#
+.02
+2
+14.0
+-1.4
+#
+<.001
+1
+40.6
+-1.1
+#
+<.001
+Breast
+2
+22.2
+-1.9
+#
+<.001
+-1.6
+#
+<.001
+2
+21.7
+-2.0
+#
+<.001
+2
+30.6
+-1.5
+#
+<.001
+2
+11.3
+-1.6
+#
+.001
+3
+15.2
+-2.8
+#
+.02
+1
+14.5
+-1.5
+#
+<.001
+2
+22.9
+-1.8
+#
+<.001
+Colon and rectum
+3
+13.5
+-2.9
+#
+<.001
+-2.9
+#
+<.001
+3
+13.0
+-2.9
+#
+<.001
+3
+18.5
+-3.2
+#
+<.001
+3
+9.5
+-1.3
+#
+.02
+2
+15.6
+-2.4
+.69
+3
+9.9
+-2.1
+#
+<.001
+3
+13.7
+-2.8
+#
+<.001
+Pancreas
+4
+9.6
+0.4
+#
+.007
+0.4
+#
+.007
+4
+9.4
+0.5
+#
+.003
+4
+12.4
+-0.2
+.41
+4
+7.2
+0.5
+.19
+4
+8.0
+0.8
+.75
+4
+7.7
+0.1
+.76
+4
+9.7
+0.5
+#
+.003
+Ovary
+5
+7.9
+-2.0
+#
+<.001
+-2.0
+#
+<.001
+5
+8.2
+-2.0
+#
+<.001
+6
+6.6
+-1.2
+.10
+7
+4.7
+-1.0
+.09
+5
+6.9
+-0.3
+.74
+5
+5.6
+-1.4
+#
+<.001
+5
+8.1
+-2.0
+#
+<.001
+Leukemia
+6
+5.3
+-1.0
+#
+<.001
+-1.0
+#
+<.001
+6
+5.4
+-0.9
+#
+<.001
+8
+4.8
+-1.5
+#
+.009
+9
+3.2
+1.2
+.11
+10
+3.5
+-3.7
+.22
+9
+3.9
+-0.5
+.19
+6
+5.3
+-1.0
+#
+<.001
+Non- Hodgkin Lymphoma
+7
+5.0
+-3.0
+#
+<.001
+-3.0
+#
+<.001
+7
+5.2
+-3.0
+#
+<.001
+12
+3.5
+-2.9
+#
+<.001
+8
+3.4
+-2.0
+#
+.02
+8
+3.9
+-3.2
+.19
+7
+4.4
+-1.8
+#
+.01
+7
+5.0
+-3.0
+#
+<.001
+Corpus and uterus, NOS
+8
+4.3
+1.0
+#
+<.001
+1.9
+#
+<.001
+8
+4.0
+0.7
+#
+.01
+5
+7.5
+1.0
+#
+.02
+10
+2.7
+1.6
+.14
+12
+3.4
+**
+10
+3.4
+1.5
+.06
+8
+4.4
+0.8
+#
+.008
+Brain and other nervous system
+9
+3.5
+-0.5
+#
+.04
+-0.5
+#
+.04
+9
+3.8
+-0.4
+.08
+15
+2.1
+-0.8
+.06
+12
+1.5
+0.9
+.51
+13
+2.3
+**
+12
+2.4
+-0.6
+.16
+9
+3.6
+-0.4
+.10
+Liver and intrahepatic bile duct
+10
+3.4
+2.1
+#
+<.001
+2.8
+#
+<.001
+10
+3.2
+1.9
+#
+<.001
+10
+4.2
+1.7
+#
+.01
+5
+6.0
+-1.4
+.14
+6
+6.0
+-2.4
+.42
+6
+5.5
+0.9
+#
+.04
+10
+3.3
+2.1
+#
+.002
+Myeloma
+11
+2.7
+-1.6
+#
+.004
+-0.3
+.78
+12
+2.5
+-1.6
+#
+.003
+7
+5.3
+-2.0
+#
+.007
+13
+1.4
+-1.4
+.37
+14
+2.2
+-5.6
+.11
+14
+2.3
+-2.0
+#
+.03
+11
+2.7
+-1.6
+#
+.001
+Kidney and renal pelvis
+12
+2.6
+-0.9
+#
+.05
+-0.7
+.30
+11
+2.6
+-0.9
+#
+.003
+13
+2.6
+-0.7
+.15
+14
+1.3
+1.5
+.24
+7
+4.4
+-0.9
+.68
+13
+2.3
+-0.7
+.43
+12
+2.6
+-1.2
+#
+<.001
+Stomach
+13
+2.5
+-2.7
+#
+<.001
+-2.7
+#
+<.001
+14
+2.1
+-2.7
+#
+<.001
+9
+4.5
+-3.5
+#
+<.001
+6
+4.8
+-4.0
+#
+<.001
+9
+3.8
+-6.3
+#
+.008
+8
+4.2
+-2.8
+#
+<.001
+13
+2.3
+-3.0
+#
+<.001
+Cervix uteri
+14
+2.3
+-1.1
+#
+<.001
+-1.1
+#
+<.001
+15
+2.1
+-0.8
+#
+.002
+11
+4.1
+-2.3
+#
+<.001
+11
+1.8
+-3.0
+#
+.02
+11
+3.4
+-2.2
+.40
+11
+2.8
+-2.2
+#
+<.001
+14
+2.3
+-1.0
+#
+.001
+Urinary bladder
+15
+2.2
+-0.6
+#
+.03
+-0.6
+#
+.026
+13
+2.2
+-0.4
+.09
+14
+2.6
+-1.6
+#
+.02
+16
+0.9
+-1.6
+.33
+18
+1.3
+**
+15
+1.3
+-1.7
+.10
+15
+2.3
+-0.5
+.071
+Oral cavity and pharynx
+18
+1.4
+-1.5
+#
+<.001
+-1.5
+#
+<.001
+18
+1.4
+-1.3
+#
+<.001
+18
+1.4
+-2.7
+#
+.007
+15
+1.2
+-2.6
+.11
+17
+1.4
+**
+19
+0.8
+-0.3
+.74
+18
+1.4
+-1.5
+#
+<.001
+Gallbladder
+20
+0.7
+-1.2
+#
+.007
+-1.2
+#
+.007
+20
+0.7
+-1.4
+#
+.003
+19
+1.0
+-0.3
+.76
+20
+0.8
+-1.1
+.50
+15
+1.8
+-4.4
+.10
+16
+1.3
+-0.4
+.74
+20
+0.7
+-1.5
+#
+.001
+* Source: National Center for Health Statistics public-use data file for the total US, 1975–2011. AAPC = average annual percent change; AI/AN = American Indian/Alaska Native; API = Asian/Pacific Islander; CHSDA = Indian Health Service Contract Health Services Delivery Area; NOS = not otherwise specified.
+† White, black, API, and AI/AN (CHSDA counties) populations include Hispanic and non-Hispanic; the race and ethnicity categories are not mutually exclusive.
+§ Cancers are listed in descending rank order of sex-specific, age-adjusted incidence rates for 2007 to 2011 for all racial and ethnic groups combined. More than 15 cancers are listed to include the top 15 cancers in each racial and ethnic group.
+‖ Rates are per 100000 persons and are age standardized to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, . . ., 80–84 years, 85+ years; Census publication p25–1130; US Bureau of the Census, Current Population Reports, p25–1130. Washington, DC: US Government Printing Office, 2000).
+¶ The AAPC is a weighted average of the annual percent change and is calculated by joinpoint analyses with up to two joinpoints yielding up to three trend segments based on rates per 100000 persons and age standardized to the 2000 US standard population (19 age groups: ages <1 year, 1–4 years, 5–9 years, . . ., 80–84 years, 85+ years; Census publication p25–1130). For joinpoint analysis, the Joinpoint Regression Program was used (version 4.1.1.4, February 2015; Surveillance Research Program, National Cancer Institute, Bethesda, Md).
+# The AAPC is statistically significantly different from zero (two-sided Z test, P < .05). AAPC two-sided P value based on t distribution if AAPC interval within one segment; otherwise, AAPC two-sided P value based on normal distribution.
+** The statistic could not be calculated. The AAPC is based on fewer than 10 cases for at least one year within the time interval.
+Decreases in overall cancer death rates from 2002 to 2011 were noted for men, women, and children in all racial and ethnic groups, except among API and AI/AN children for whom rates were stable (Table 4). Death rates declined between 2002 and 2011 for the most common cancers (lung, prostate, and colorectal) among men of all racial and ethnic groups except AI/AN. Death rates declined for the top three female cancers (lung, breast, and colorectal) among all racial and ethnic groups; except that rates were stable for lung cancer in API women and for colorectal cancer in AI/AN women. Death rates for liver cancer increased in all subgroups, except for API men, for whom rates decreased, and AI/AN and API women, for whom rates were stable. Pancreatic cancer death rates increased among white men and women. Additionally, death rates for melanoma and soft tissues increased among white men, and death rates from cancers of the uterus increased among white and black women.
+HR/HER2 Breast Cancer Subtypes
+A total of 178125 (94.33%) invasive breast cancer cases in states with high quality registries diagnosed in 2011 met our selection criteria (Supplementary Table 1, available online). After imputation, the distribution of HR/HER2 status and associated variables across the original and the imputed datasets looked similar (Supplementary Table 1, available online). The imputed the r2 value from the model predicting missing HER2 status with available covariates was good (r2 = 0.39), indicating a good-fitting imputation model. The rates based on the imputed data were higher than the original data because of the imputation-assigned HR/HER2 status, while the general patterns of the age-specific curves looked similar across original and imputed datasets. Figure 1 shows the original and imputed rates for each subtype. The 10 imputations are indistinguishable and overlap. As expected, the imputed rates are higher than the original rates and the magnitude of difference increases with increasing age because the rates of unknown subtype increase with age. For instance, the absolute difference between the original and imputed rate for triple-negative breast cancer for ages 35 to 44 and 75–84 years are 0.2 and 6.4 per 100000, respectively.
+Figure 1.
+Original vs imputed age-specific rates by subtype, unknown subtype for diagnosis year 2011, and areas in the United States with high-quality incidence data*^. A) Hormone receptor (HR)+/ human epidermal growth factor receptor 2 (HER2)- rates per 100000 womenŦ. B) Triple-negative rates per 100000 women. C) HR+HER2+ rates per 100000 women. D) HR-/HER2+ rates per 100000 women. *Population-based registries meeting North American Association of Central Cancer Registries quality criteria and high completeness of HR/HER2 data include: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. ^All 10 imputations had near identical rate estimates. ŦNote: HR+/HER2- has much higher rates, so this figure has a different y-axis. The unknown rate is a reference rate from the original data and is the same for each figure. HER2 = human epidermal growth factor receptor 2; HR = hormone receptor.
+Breast cancer subtype HR+/HER2- was the most common subtype, representing 72.6% of all cases, with an age-adjusted rate of 86.5 per 100000; a rate six times higher than triple-negative breast cancer rates of 15.5, seven times higher than HR+/HER2+ breast cancer rate of 12.4, and 16 times higher than HR-/HER2+ breast cancer rate of 5.5 (Table 5). In every race/ethnicity group, rates for HR+/HER2- breast cancers were higher than any other subtype, and HR+/HER2- rate was highest for non-Hispanic white women (92.7 per 100000) (Figure 2; Supplementary Table 2, available online). In women younger than age 45, HR+/HER2- breast cancer rates were comparable among racial/ethnic groups, but for older women rates of this subtype were much higher for non-Hispanic whites than other racial/ethnic groups.
+Table 5.
+Age-adjusted incidence rates of invasive breast cancer by subtype, race/ethnicity for diagnosis year 2011, and areas in the United States with high-quality incidence data*
+Race/ethnicity
+Subtype
+Rate (95% CI)
+All race/ethnicities
+HR+/HER2+
+12.4 (12.4 to 12.5)
+HR-/HER2+
+5.5 (5.5 to 5.6)
+HR+/HER2-
+86.5 (86.5 to 86.6)
+Triple-negative
+15.5 (15.5 to 15.6)
+Non-Hispanic white
+HR+/HER2+
+12.8 (12.7 to 12.8)
+HR-/HER2+
+5.4 (5.3 to 5.4)
+HR+/HER2-
+92.7 (92.7 to 92.8)
+Triple-negative
+14.4 (14.4 to 14.5)
+Non-Hispanic black
+HR+/HER2+
+12.9 (12.8 to 13.0)
+HR-/HER2+
+6.7 (6.6 to 6.9)
+HR+/HER2-
+74.4 (74.2 to 74.6)
+Triple-negative
+27.2 (27.1 to 27.3)
+Non-Hispanic Asian/
+HR+/HER2+
+10.8 (10.7 to 11.0)
+Pacific Islander
+HR-/HER2+
+5.9 (5.9 to 6.0)
+HR+/HER2-
+63.9 (63.7 to 64.3)
+Triple-negative
+10.3 (10.1 to 10.4)
+Hispanics
+HR+/HER2+
+10.3 (10.2 to 10.4)
+HR-/HER2+
+5.1 (5.0 to 5.2)
+HR+/HER2-
+64.0 (63.8 to 64.1)
+Triple-negative
+11.8 (11.7 to 11.9)
+* Population-based registries meeting North American Association of Central Cancer Registries quality criteria and high completeness of hormone receptor/human epidermal growth factor receptor 2 data include: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. CI = confidence interval; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor.
+Figure 2.
+Age-specific incidence rates of invasive breast cancer by subtype, by race/ethnicity, for diagnosis year 2011, and areas in the United States with high-quality incidence data*. A) Age-specific rates for non-Hispanic white women. B) Age-specific rates for non-Hispanic black women. C) Age-specific rates for non-Hispanic Asian/Pacific Islander women. D) Age-specific rates for Hispanic women. *Population-based registries meeting North American Association of Central Cancer Registries quality criteria and high completeness of hormone receptor/ human epidermal growth factor receptor 2 data include: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. HER2 = human epidermal growth factor receptor 2; HR = hormone receptor.
+Rates for triple-negative breast cancers (HR-/HER2-) were highest among non-Hispanic black women compared with all other racial/ethnic groups with an age-adjusted rate of 27.2 per 100000 women; a rate 1.9 times higher than the non-Hispanic white rate, 2.3 times higher than the Hispanic rate, and 2.6 times higher than the non-Hispanic API (NHAPI) rate (Table 5). Triple-negative breast cancers comprised 13% of all breast cancers and were the second most common subtype among non-Hispanic black women in all age groups, after age 45 among non-Hispanic white women, and after age 55 among NHAPI and Hispanic women. Subtype HR-/HER2+ breast cancer (5% of all breast cancers) had the lowest rates for all races/ethnicities, and breast cancer rates of HR+/HER2+ (10% of all breast cancers) were similar to triple-negative rates for all racial/ethnic groups except for non-Hispanic black women, where HR+/HER2+ breast cancer rates were much lower than triple-negative breast cancer rates.
+Breast cancers of all subtypes were most commonly diagnosed at a local stage and least commonly diagnosed at a distant stage in all racial/ethnic groups with the highest rate a local stage, 63.51 per 100000, for non-Hispanic white women (Figure 3; Supplementary Table 3, available online). Non-Hispanic black women had the highest rate of breast cancer diagnosed at distant stage across every subtype.
+Figure 3.
+Age-adjusted incidence rates of invasive breast cancer by subtype, stage, race/ethnicity for diagnosis year 2011, and areas in the United States with high-quality incidence data*. A) HR+/HER2- rates per 100000 women Ŧ. B) Triple-negative rates per 100000 women. C) HR+HER2+ rates per 100000 women. D) Hormone receptor (HR)-/ human epidermal growth factor receptor 2 (HER2)+ rates per 100000 women. Error bars represent 95% confidence intervals. *Population-based registries meeting North American Association of Central Cancer Registries quality criteria and high completeness of HR/HER2 data include: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. API = Asian/Pacific Islander; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; NH=Non-Hispanic.
+Differences in tumor grade were observed across breast cancer subtypes. Among HR+/HER2- breast cancer cases, rates of moderately differentiated breast cancer were highest for all racial/ethnic groups, and rates of the least favorable grades, poorly differentiated and undifferentiated, were lowest for all groups except for non-Hispanic black women (Figure 4; Supplementary Table 4, available online). For all other breast cancer subtypes, rates of poorly/undifferentiated grade cases greatly exceeded the more favorable grades in every racial/ethnic group. Rates for poorly and undifferentiated cases were highest for triple-negative breast cancers among non-Hispanic black women.
+Figure 4.
+Age-adjusted incidence rates of invasive breast cancer by subtype, grade, race/ethnicity for diagnosis year 2011, and areas in the United States with high-quality incidence data*. A) Hormone receptor (HR)+/human epidermal growth factor receptor 2 (HER2)- rates per 100000 women Ŧ. B) Triple-negative rates per 100000 women. C) HR+HER2+ rates per 100000 women. D) HR-/HER2+ rates per 100000 women. Error bars represent 95% confidence intervals. *Population-based registries meeting North American Association of Central Cancer Registries quality criteria and high completeness of HR/HER2 data include: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. API = Asian/Pacific Islander; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; NH=Non-Hispanic.
+Breast cancer rates of HR+/HER2- decreased with increasing poverty for every racial and ethnic group with the highest rate, 98.69 per 100000, for non-Hispanic white women living in low poverty areas (Figure 5; Supplementary Table 5, available online). There were no clear relationships between census tract-based poverty and incidence for the other subtypes for any race/ethnicity.
+Figure 5.
+Age-adjusted incidence rates of invasive breast cancer by subtype, census tract poverty, race/ethnicity for diagnosis year 2011, and areas in the United States with high-quality incidence data reporting census tract-based poverty measure*. A) Hormone receptor (HR)+/human epidermal growth factor receptor 2 (HER2)- rates per 100000 women Ŧ. B) Triple-negative rates per 100000 women. C) HR+HER2+ rates per 100000 women. D) HR-/HER2+ rates per 100000 women. Error bars represent 95% confidence intervals. *Database with census tract-level poverty is a subset of the high quality registries who report tract-level poverty category: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawai’i, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maryland, Detroit, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Washington, West Virginia, Wisconsin, Wyoming. API = Asian/Pacific Islander; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; NH=Non-Hispanic.
+The geographic distribution of breast cancer by subtype is shown in Figure 6. Because of small cell size, we were unable to stratify our state-level analysis by race/ethnicity. States with rates that were statistically higher or lower than the overall national rate are identifiable through the bar graphs to the left of the maps. State-level triple-negative breast cancers rates were lower in the northwest and higher in the southeast (Figure 6). Rates of HR+/HER2+ breast cancer were higher than the national rate in Idaho, Tennessee, and Pennsylvania and statistically lower in Colorado, Florida, Hawai’i, Kentucky, Maine, South Dakota, and Virginia. For HR-/HER2+ breast cancer, no states had rates that were statistically different from the national rate.
+Figure 6.
+Age-specific incidence rates of invasive breast cancer by subtype for diagnosis year 2011 for states with high-quality incidence data. A) Hormone receptor (HR)+/human epidermal growth factor receptor 2 (HER2)- state rates per 100000 women Ŧ. B) Triple-negative state rates per 100000 women. C) HR+HER2+ state rates per 100000 women. D) HR-/HER2+ state rates per 100000 women. Bars indicate 95% confidence interval; gray shading denotes tertiles (white indicates no data available). API = Asian/Pacific Islander; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; NH=Non-Hispanic.
+These maps were descriptive, ecologic assessments of the data. Geographic variation is driven by multiple individual and system-level factors, and the state-level differences must be interpreted with prudence. With this in mind, incidence rates of HR+/HER2- breast cancers were generally higher in states with higher mammography screening rates (Supplementary Figure 1A, available online). Correlation analysis indicated HR+/HER2- breast cancer rates were highly correlated with self-reported mammography rates for non-Hispanic white women (Pearson r = 0.57, P < .001; Spearman ρ = 0.58, P < .001) and moderately correlated for non-Hispanic blacks, non-Hispanic API, and Hispanic women combined (Pearson r = .33, P = .033; Spearman ρ = 0.32, P = .037). Triple-negative cancers decreased with increasing percent of mammography for non-Hispanic Asian and Pacific Islanders (Pearson r = -0.46, P = 0.19; Spearman ρ = -0.45, P = .021), however, the cell counts in many states were too small to be stable. No correlations with mammography were identified for the other subtypes. Triple-negative breast cancer rates increased with increasing percent of non-Hispanic black population (Supplementary Figure 1B, available online), and the association was strongly correlated (Pearson r = 0.80, P < .001; Spearman ρ = 0.73, P < .001). No correlations with race/ethnicity were identified for other subtypes.
+Discussion
+Our data show cancer incidence rates have declined for several major cancers over the past 20 years, including seven of the most common cancers in both men (prostate, lung, colorectal, stomach, brain, and larynx) and women (colorectal, ovary, cervix, oral, and stomach). After increasing for many decades because of a combination of early detection through mammography and changes in reproductive factors, premenopausal hormone replacement therapy (HRT) use, and obesity rates (68–72), breast cancer rates stabilized between 2002 and 2011. This recent stabilization may be driven by the abrupt decrease incidence between 2002 and 2003 that is likely because of reductions in the use of menopausal HRT (68). It has been shown that this decline in incidence has stabilized among white women, while rates continue to increase among black women (0.7 AAPC 2002–2011), narrowing the gap in incidence rates between these two groups (36). Two recent studies have demonstrated that the decline in overall breast cancer incidence between 2002 and 2003 related to reduced HRT use was confined to white women, who are more likely to use HRT than black women (68,73,74). Additionally, the increase in black women may be partially because of increased mammography screening among black women, although the latest data show mammography rates have been fairly constant between 2000 and 2010 (75,76).
+We have presented incidence data over different time periods and using different methodologies to provide the most informative picture of cancer burden in the US. In most cases, the multiple measures taken together demonstrate the robustness of these trends. But when comparing the trends from Tables 1–4 side by side, it is important to remember that joinpoint analysis calculates trends differently than fixed interval analysis, and the APC and the AAPC are different summary measures. Differences and advantages/disadvantages of using these measures are discussed elsewhere (59,77). Also, there are areas of discrepancy for a few sites, particularly when comparing recent trends. In general, the differences among the measures are in magnitude only. However, melanoma among SEER men, a site with some of the largest reporting delays related to often being treated solely in physicians’ offices, shows a recent (2008–2011), statistically nonsignificant downward trend that is not seen in the delay-adjusted trend. Therefore, statistical trends with reversed directions within the past five years should be considered in the context of the statistical method used and interpreted with caution.
+Many factors contribute to changes in incidence rates over time, including changes in behavioral and environmental exposure patterns, endogenous risk factors, and improvements in screening methods and changes in screening behaviors. Other factors such as changes in disease classification or data collection procedures, variation in population estimates, and delays in cancer reporting can also affect observed trends over time. Many of the decreases in incidence (lung and, to a lesser extent bladder, oral and larynx) can be attributed to the substantial decline in smoking prevalence in the general population (7). Declines in colorectal cancer may be related to the elimination of precancerous lesions as a result of increased use of colonoscopy screening, while declines in prostate cancer may be related to more conservative recommendations for the use of prostate-specific antigen (PSA) screening (6,78). On the other hand, some cancers have increased in incidence over this time period. Some of the increases may be in part because of improved detection, increased screening, and better reporting of cancers (thyroid, melanoma) or changes in risk factors such as increasing obesity for pancreatic and uterine (4), increasing hepatitis C rates because of historical intravenous drug use for liver (79,80) and increased ultraviolet (UV) light exposure for melanoma (81). Rates change over time because of a combination of known and unknown factors. For instance, increasing rates of preclinical stage thyroid cancers are likely tied to recent changes in routine medical care (82). The increasing rates of thyroid cancers demonstrate unique epidemiologic patterns by histology type, gender, and age, which suggest the rise may be because of a combination of enhanced diagnostic procedures as well as an actual increase in etiologic risk, perhaps because of increased radiation exposure (83,84). However, although five-year survival is increasing for melanoma and thyroid cancers are increasing, the incidence rates for these cancers are increasing with little corresponding change in mortality. This suggests that the increasing incidence trends are largely because of overdiagnosis rather than large increases in disease risk for these cancers (85).
+Likewise, overall cancer death rates continue to decrease in the United States, and this favorable trend includes men and women, children, all major racial and ethnic groups, and all four of the most common cancers (lung, colorectal, female breast, and prostate) and many other cancers. However, death rates continued to increase for some common cancers, including liver, pancreas, melanoma (white men only), and uterus. Factors that contribute to the declining trends for the four most common cancers have been discussed in previous Annual Reports and include factors noted to be associated with the decreases in incidence, including reductions in risk factors (eg, smoking for lung cancer) and improved early detection and treatment (eg, screening and adjuvant chemotherapy for breast and colorectal cancers) (6,7). In contrast, reasons for the increasing death rates for pancreatic and liver cancers in both men and women, melanoma in men, and uterine cancer in women have not been fully elucidated. These trends are related to the concomitant increase in incidence and associated in part with a high prevalence of chronic infection with hepatitis C virus because of intravenous drug use between 1960 and 1980 for liver cancer (79,80), increased obesity prevalence for pancreatic and uterine cancers (4), and increased harmful ultraviolent radiation exposure for melanoma (81). Mortality rates for oral cancer stabilized in men, after decreasing since the late 1970s, likely reflecting the increase in incidence rates for HPV-associated subsites that offsets the decrease in the rates for smoking related subsites (3).
+This study used newly collected, nationwide data to present the largest, population-based analysis on breast cancer incidence by molecular subtype to date. Our analysis demonstrates that some of the observed racial/ethnic disparities in breast cancer incidence and survival are because of epidemiologic differences in breast cancer subtypes. Our results underscore the need to separate breast cancers into clinically relevant groups for surveillance and research to fully understand the epidemiology of this heterogeneous group of cancers and illustrate the need to consider reporting cancers by subtype where relevant, rather than overall organ site.
+Our breast cancer subtype results show unique racial/ethnic specific patterns by age, by poverty level, by geography, and by specific tumor characteristics that generally align with previous results (25,27–32,86–88). Rates of HR+/HER2- breast cancer, the least aggressive breast cancer subtype, were the highest compared with other subtypes, and rates of this subtype were highest among non-Hispanic white women compared with other racial/ethnic groups. Also consistent with the prior studies, non-Hispanic black women had higher rates of the triple-negative breast cancer subtype compared with any other racial/ethnic group. Non-Hispanic black women had highest rates of triple-negative, the highest rates of distant stage disease, and the highest rates of poorly/undifferentiated grade among all the subtypes, all of which are associated with lower survival (89,90), and corresponds with black women having the highest rates of breast cancer mortality (36). Hormonal factors are related to breast cancer pathogenesis, but not all subtypes are equally associated with hormonal exposures and there are important differences in menstrual and reproduction factors among black and white women (74,91). All of these factors may be important contributors to the racial/ethnic differences in breast cancer incidence by subtype and subsequent survival.
+A black-white crossover has long been observed where breast cancer rates are higher among non-Hispanic black women compared with non-Hispanic white women under age 40, with this pattern changing after age 40 when rates for non-Hispanic black women fall below rates for non-Hispanic white women. Clarke et al. determined that this crossover is a Simpson Paradox because of the traditional calculation of breast cancer rates on all subtypes combined (24,27,92). Our analysis confirmed that, despite the difference in magnitude of the rates, the age-specific curves are essentially parallel between non-Hispanic white and non-Hispanic black women for both HR+/HER2- and triple-negative breast cancers. Because HR+/HER2- and triple-negative breast cancers have different molecular, etiologic, and clinical profiles, we agree with Clarke and Lacey’s assertion that presenting epidemiologic patterns by race/ethnicity and molecular subtypes is more useful for understanding racial/ethnic disparities in breast cancer incidence and survival than evaluating by race/ethnicity alone (24,92).
+Incidence rates of HR+/HER2- breast cancer were highest for non-Hispanic white women, early stage cases, and low poverty areas, implying that disparities in access to health services and subsequently utilization of cancer screening may contribute to these differences. Despite the correlations between increasing mammography rates and increasing rates of HR+/HER2- breast cancer, the racial/ethnic rankings of HR+/HER2- breast cancer incidence rates do not fully align with current, reported mammography rate rankings. According to the 2010 BRFSS, non-Hispanic black women now have higher mammography rates than non-Hispanic white women (78.6% vs 75.4%) (66,93). However, there is some indication that the BRFSS overestimates mammography rates, more so for blacks than whites. After adjusting for overestimation, ranking of mammography use is highest in whites, then blacks, API, and finally Hispanics—which matches the racial/ethnic rankings for HR+/HER2-breast cancer incidence rates (94,95).
+Rates of local stage disease were notably higher in the HR+/HER2- breast cancer subtype than in the other subtypes, while the rates for breast cancers diagnosed at distant stage were more similar among subtypes. This suggests that the substantially higher rates of HR+/HER2- breast cancer may be partially explained by overdiagnosis (a type of early detection bias) and not true excess in disease occurrence. The estimated rate of overdiagnosis of breast cancers is controversial, with estimates ranging from 22% to 31% in recent literature (96,97). Diagnosing and treating these less aggressive cases presents a complex public health and ethical problem (70,97). Analysis by subtype for in situ breast cancers would be useful to assess overdiagnosis because of indolent tumors that would not become invasive; however, the completeness of the HR/HER2 variables for in situ cases was too low in the current database. Linking incidence data with mortality to assess survival and population-based mortality by subtype will provide insight into whether the high rates of HR+/HER2- represent overdiagnosis of nonlethal invasive cancers or effective treatment of cancer detected early.
+This is the first publication of state-level breast cancer incidence by subtype. Geographic variation is based on multiple factors including underlying demographic patterns, regional cultures and associated behaviors, potential reporting or coding discrepancies, access to care issues, as well as possible geographically distributed etiologic risk. The maps and post hoc analysis was descriptive and must be interpreted with these complexities in mind. Because of small cell size, we were unable to stratify our state-level analysis by race/ethnicity. Further evaluation using additional years of data stratified by race/ethnicity is required to explore plausible influences on geographic variation of breast cancer by subtype.
+Although rates of mammography use appear to drive HR+/HER2- breast cancer rates, mammography does not explain all of the geographic variation nor does it explain the distribution of other subtypes. There is little geographic variation for rates of HR+/HER2+ and HR-/HER2+ breast cancer by state. Because triple-negative breast cancers were highest among non-Hispanic black women, the high rates of triple-negative breast cancer in the South are likely driven by the race distributions and associated health behaviors in that region. Incidence of HR+ breast cancers are associated with reproductive factors (age at menarche and menopause, number of children and age of first birth, breastfeeding, and use of HRT) (98). Parity is protective for HR+/HER2- and long duration of breastfeeding is protective against triple-negative breast cancers (98), but parity without breastfeeding appears to increase a woman’s risk for triple-negative breast cancer (91). Non-Hispanic black women have more children but are less likely to breastfeed than non-Hispanic white women. Breastfeeding is one of the few modifiable risk factors and where targeted public health programs may be beneficial.
+The completeness, quality, and geographic coverage of cancer incidence data exceed what is available for other chronic diseases. Nonetheless, variations in data quality, incomplete geographic or population reporting, and the complexity of estimating the underlying populations at risk may have influenced the results reported here. For example, reporting from smaller or more specialized providers may be less complete or have a lag in reporting time. Corrections for late reporting were incorporated into the rates and trends that included delay adjustment; however, this adjustment was not possible for data used to estimate five- and 10-year incidence trends and differing results may occur, as seen with long-term increasing trend for males with leukemia in the delay-adjusted data and contradictory decreasing trend seen in the nondelay adjusted data from more recent years. In addition, in 2007 the Veteran’s Health Administration issued a directive focused on data use and privacy that decreased reporting to central cancer registries and likely underestimates cancer incidence rates among older men for specific sites (ie, prostate and lung) for diagnosis years 2005 to 2008 (99). However, in recent years, registries have developed individual agreements with the VA to improve reporting. And it is unlikely to have had an impact on the results of the breast cancer subtype analysis.
+Another limitation is the compatibility of the numerator and denominator data by race. Since 2000, the Census has provided the opportunity to self-select multiple race categories, which created incompatibility between the classification of race in incidence and mortality data and the population denominators from the Census. The methods for developing single-race estimates from these data are complex and can create additional uncertainties in racial estimates and resultant rates, particularly for small areas of geography (50,100). The broad Hispanic and API categories may mask important epidemiologic variation in risk by country of origin or cultural practices (101,102).
+This report also presents rates by race separately from Hispanic results. The white race category includes white Hispanics and the increases in the proportion of Hispanic population may be influencing reported trends. However, Hispanics are a heterogeneous group and some subgroups (notably Cubans) have rates comparable with non-Hispanic whites, while other subgroups (eg, Mexicans) have lower rates (102). Shifts in demographics can influence trends, and our results must be interpreted with this in mind.
+Long-term trends were reported based on SEER-13 registries representing only 14% of the US population. More geographic population coverage was available for 10- (93%) and five- (97%) year trends; however, some states were excluded from all analyses, which may influence reported rates. Interpretation of cancer incidence and mortality trends requires consideration of underlying risk, which includes not only etiologic risk and changes in behavior, but also changes in clinical and public health practice, such as introduction of or changes in specific diagnostic or screening tools.
+In the breast cancer subtype analysis, one limitation is the completeness and quality of joint HR/HER2 receptor status. Approximately 5% HR status is missing in the data, but 11% of the cases are missing HER2 status (Supplementary Table 1, available online). The HER2 data are newly collected, and the quality and completeness of these data have not been rigorously evaluated over time. With only one year of data on HER2, we were unable to stratify by race/ethnicity in the state-level analysis because of small numbers in many categories. Additional years of data will enable more detailed state-level analysis.
+Limitations related to the imputation technique include lack of information on potential predictors of missing HER2 status, such as treatment, risk factors, and survival outcomes for HER2 status. Despite these limitations, the prediction model was a good fit and the distributions of HER2 were similar among the original and imputed datasets. Finally, this imputation approach assumes HER2 information was missing at random (MAR). Although this assumption is not testable, the MAR assumption has been shown to be plausible when imputing missing information for breast cancer tumor markers such as ER status from population-based cancer registries (21,62). Inspection of missing HER2 data pattern suggests we have met the MAR assumption, as there is varying degree of missingness that seem to be explained by the different covariates (data not shown). In practice, however, we acknowledge that we cannot empirically test the MAR assumption.
+The United States has made considerable strides in reducing the burden of cancer for many sites, notably the tobacco-related cancers. However, it is important to note that a decreasing age-adjusted trend may correspond to an increasing number of individuals with cancer in certain age groups. Despite our successes, cancer remains a major burden and support for the clinical and public health infrastructure for diagnosing, treating, prevention, and tracking cancer remain vital.
+Although population-based screening is an important component for reducing breast cancer mortality, it may not affect mortality for every breast cancer subtype. In order to further our understanding of the advantages and disadvantages of continued widespread mammography screening, particularly for HR+/HER2- breast cancers, we need to further our clinical understanding of the HR+/HER2- subtype and the factors associated with disease detection and progression.
+Numerous health and psychosocial benefits of breastfeeding are well established. Although the impact of increasing population-based breastfeeding rates on any specific breast cancer subtypes is yet unknown, public health programs promoting breastfeeding may ameliorate the higher rates of triple-negative breast cancers among black women (91,98,103,104).
+Because the diagnosis of cancer is continually refined based on advancements in medical knowledge, classification of cancers is continually evolving. For instance, we analyzed four breast cancer subtypes, but recent molecular research has reinforced the notion that breast cancer may only have two important groups—basal-like, which are predominately triple-negative, and all others (105). Tracking HR/HER2 status for breast cancers is essential to determining which molecular groupings are clinically important for treatment decisions and which are etiologically important for public health prevention.
+Biomarkers have also successfully identified subtypes of other cancers as well, notably leukemia and esophageal cancers. Presenting incidence, mortality, and survival rates by molecular or histologic subtypes will become increasingly important for understanding the impact of prevention, screening, and treatment of cancer in the future. Population-based cancer registry data will play a vital role in assessing temporal trends and identifying etiologic hypotheses. Cancer surveillance, both incidence and mortality, must ensure that data collected remains relevant in order to appropriately guide public health research and prevention and address the source of racial/ethnic disparities in breast as well as other cancers.
+Funding
+This work was supported by the American Cancer Society, the Centers for Disease Control and Prevention, the National Cancer Institute, and the North American Association of Central Cancer Registries.
+Supplementary Material
+Supplementary Data

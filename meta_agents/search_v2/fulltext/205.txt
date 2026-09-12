@@ -1,0 +1,730 @@
+record_id=205 pmid=21357727 doi=10.1158/1055-9965.epi-11-0061
+SOURCE: manual-pdf
+TITLE: Breast cancer incidence rates in U.S. women re no longer declining
+
+Cancer Surveillance Research
+Breast Cancer Incidence Rates in U.S. Women
+re No
+Longer Declining
+Carol DeSantis1, Nadia Howlader2, Kathleen A. Cronin2, and Ahmedin Jemal1
+Abstract
+Background: Several publications reported breast cancer incidence rates continued to decrease among
+white women, following the decline of about 7% from 2002 to 2003. However, none of these reports exclusively
+examined the trend after 2003. In this paper, we examined breast cancer incidence rates among non-Hispanic
+(NH) white women from 2003 to 2007 to determine whether the decrease in breast cancer incidence rates
+indeed persisted through 2007. In addition, we present breast cancer incidence trends for NH black and
+Hispanic women and postmenopausal hormone use for all three racial/ethnic groups.
+Methods: Breast cancer incidence rates were calculated by race/ethnicity, age and ER status using data
+from the Surveillance, Epidemiology, and End Results (SEER) 12 registries for 2000 to 2007. Prevalence of
+postmenopausal hormone use was calculated using National Health Interview Survey data from 2000, 2005,
+and 2008.
+Results: From 2003 to 2007, overall breast cancer incidence rates did not change significantly among NH
+white women in any age group. However, rates increased (2.7% per year) for ERþ breast cancers in ages 40 to
+49, and decreased for ER breast cancers in ages 40 to 49 and 60 to 69. Similarly, overall breast cancer
+incidence rates did not change significantly for black and Hispanic women. Hormone use continued to
+decrease from 2005 to 2008 in all groups, although the decreases were smaller compared to those from 2000 to
+2005.
+Conclusions: The sharp decline in breast cancer incidence rates that occurred from 2002 to 2003 among NH
+white women did not continue through 2007.
+Impact: Further studies are needed to better understand the recent breast cancer trends. Cancer Epidemiol
+Biomarkers Prev; 20(5); 733–9. 2011 AACR.
+Introduction
+Breast cancer incidence rates among U.S. white women
+remarkably decreased by about 7% between 2002 and
+2003, with the decrease more pronounced for women
+ages 50 to 69 than for other age groups and for ERþ
+tumors than for ER tumors (1, 2). This decrease was
+temporally related to the dramatic drop in the use of
+postmenopausal hormone therapy (HT) following the
+publication of the Women’s Health Initiative (WHI) study
+findings in July 2002 on the adverse health effects of
+combined HT use, including increased risk of breast
+cancer (3, 4). Several recent publications reported female
+breast cancer incidence rates continued to decrease
+among white women (5–8). However, none of these
+studies exclusively examined the trend after 2003.
+In this paper, we examined breast cancer incidence
+rates among non-Hispanic (NH) white women from 2003
+to 2007 by age and hormone receptor status (ERþ or ER)
+to determine whether the decrease in breast cancer inci-
+dence rates indeed persisted through 2007. In addition,
+we present data on recent breast cancer trends for NH
+black and Hispanic women by age and ER status, and
+data on postmenopausal HT-use by age for all 3 racial/
+ethnic groups for 2000, 2005, and 2008.
+Methods
+Data on female invasive breast cancer incidence were
+obtained from the National Cancer Institute’s Surveil-
+lance, Epidemiology and End Results (SEER) 12 registries
+for the years 2000 to 2007 (9). Incidence rates were
+calculated for NH whites, NH blacks, and Hispanics.
+We excluded cases from the Alaska native registry fol-
+lowing guidelines from SEER for producing statistics by
+Hispanic ethnicity. Incidence data for Hispanics are
+based on the North American Association of Central
+Authors' Affiliations: 1Surveillance Research, American Cancer Society,
+Atlanta, Georgia and 2Division of Cancer Control and Population Sciences,
+National Cancer Institute, Bethesda, Maryland
+Note: Supplementary data for this article are available at Cancer Epide-
+miology, Biomarkers and Prevention Online (http://cebp.aacrjournals.org/).
+Corresponding Author: Carol DeSantis, American Cancer Society, 250
+Williams Street NW, Suite 600, Atlanta, GA. Phone: 404.929.6912; Fax:
+404-327-6450; E-mail: carol.desantis@cancer.org
+doi: 10.1158/1055-9965.EPI-11-0061
+2011 American Association for Cancer Research.
+Cancer
+Epidemiology,
+Biomarkers
+& Prevention
+www.aacrjournals.org
+733
+A
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+Cancer Registries (NAACCR) Hispanic Identification
+Algorithm (NHIA). Incidence rates were also stratified
+by age at diagnosis (ages ¼ 30, 30–39, 40–49, 50–59, 60–69,
+70þ) and estrogen receptor status (ERþ and ER). All
+rates were adjusted for reporting delays using SEER 13–9
+adjustment ratios. Delay adjustment ratios are not avail-
+able for Hispanics, thus adjustment ratios for whites were
+used. The percentage of cases with missing ER status
+ranged from 18% in 2000 to 7% in 2007, therefore we
+imputed ER status for those with missing information
+using chained equation methods (10). The following
+covariates were used to impute ER status: age, SEER
+registry, year of diagnosis, race/ethnicity, progesterone
+receptor status, tumor size, histology, lymph node status,
+and 2000 county level poverty. To asses recent breast
+cancer trends following the sharp decrease between 2002
+and 2003, we used Joinpoint Regression Program to fit a
+log-linear model to the age-standardized incidence rates
+from 2003 to 2007 (11). Breast cancer incidence rates were
+also plotted against year of diagnosis beginning in 2000
+for visual inspection of the rates before and after the
+sharp decrease between 2002 and 2003 (noted by a dashed
+line in 2003 on the figures).
+We also present data on HT use by hysterectomy
+status, race/ethnicity, and age (50þ, 50–59, 60–69, and
+70þ) from the National Health Interview Survey for 2000,
+2005, and 2008. The question on HT use changed from
+"Are
+you
+currently
+taking
+hormone
+replacement
+therapy?" in the 2000 and 2005 surveys to "Are you
+currently
+taking
+hormone
+replacement
+therapy
+for
+menopause?" in the 2008 survey. We used hysterectomy
+status as a surrogate for the type of HT used based on
+clinical practice guidelines that recommend estrogen and
+progestin (EþP) for women with a uterus and estrogen
+only (E only) therapy for women without a uterus (12).
+Results
+Figure 1 shows female breast cancer incidence rates by
+race/ethnicity from 2000 to 2007. The sharp decline
+between 2002 and 2003 in breast cancer incidence rates
+in NH white women has not continued through 2007.
+When a linear trend was fitted to the data from 2003 to
+2007, there was no significant change (P ¼ 0.46) in the
+incidences rate for breast cancer among NH white
+women. NH black and Hispanic women did not experi-
+ence the steep drop in incidence from 2002 to 2003 and
+there were no significant changes in incidence rates from
+2003 to 2007.
+Incidence rates for NH white women by age at diag-
+nosis for all breast cancers and for ERþ and ER breast
+cancers separately are shown in Figure 2. Overall breast
+cancer incidence rates did not change significantly from
+2003 to 2007 among NH white women in any age group
+(Supplementary Table S1). However, the incidence rate in
+NH white women ages 60 to 69 increased from 402.9 per
+100,000 in 2006 to 422.2 in 2007, an increase of 4.8%; it
+remains to be seen if this trend will continue. Trends for
+ERþ breast tumors are generally similar to trends for
+overall rates because they account for the majority of
+cases. However, among NH white women ages 40 to 49
+rates of ERþ breast cancer significantly increased by an
+average of 2.7% per year, from 122.5 in 2003 to 135.3 in
+2007. In contrast, ER breast cancer rates decreased in
+every age group, although the trends were statistically
+significant only for ages 40 to 49 (5.7% per year) and 60 to
+69 (2.3% per year; Supplementary Table S1).
+Figure 3 compares breast cancer incidence rates by age
+of diagnosis and ER status for NH white, NH black, and
+Hispanic women. Overall breast cancer rates and ERþ
+breast cancer rates are highest among NH white women,
+followed by NH black and Hispanic women in every age
+group (except rates of overall breast cancer in ages 30 to
+39 are comparable between whites and blacks). Similar to
+white women, there were no significant changes in over-
+all breast cancer incidence rates among NH black and
+Hispanic women in any age group during 2003 to 2007
+(Supplementary Table S1). However, incidence rates for
+ERþ breast cancers among NH black women ages 40 to 49
+increased (5.2% per year) during 2003 to 2007. We also
+0
+2000 2001 2002 2003
+Year of diagnosis
+Hispanic
+NH black
+NH white
+2004 2005 2006
+2007
+20
+40
+60
+80
+100
+120
+140
+160
+Figure 1. Delay-adjusted breast cancer incidence rates by race/ethnicity,
+2000 to 2007. Rates are per 100,000 and age adjusted to the 2000 U.S.
+standard population.
+DeSantis et al.
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+Cancer Epidemiology, Biomarkers & Prevention
+734
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+noted nonsignificant increases in ERþ breast cancer inci-
+dence rates from 2005 to 2007 among NH black women:
+from 129.9 to 160.5 for ages 50 to 59 and from 218.3 to
+261.8 for ages 60 to 69.
+In contrast to the pattern for ERþ breast cancer, NH
+black women have the highest rates of ER breast cancer
+in every age group compared to NH white and Hispanic
+women. Although not statistically significant, ER breast
+cancer rates during 2003 to 2007 appear to have increased
+in NH black women ages 60 to 69, whereas rates seem to
+have decreased among NH black women ages 30 to 39, 40
+to 49, and 50 to 59.
+Tables 1 and 2 present the prevalence of HT use by
+race/ethnicity and age among women without and with
+hysterectomy, respectively. Combined estrogen and pro-
+gestin (EþP) use was highest among NH white women,
+followed by Hispanic and NH black women (Table 1).
+EþP use continued to decline over this time interval,
+although the decreases from 2005 to 2008 were generally
+smaller in both absolute and relative terms, compared to
+the decreases from 2000 to 2005. By 2008, only 2.8% of NH
+white women ages 50 and older, 1.5% of Hispanic and
+0.9% of NH black women used EþP therapy. Use of
+estrogen alone (E only) was more common than EþP
+and use was highest among NH white women, followed
+by NH black and Hispanic women (Table 2). Similar
+declines in E only use were observed among each age
+and racial/ethnic group.
+Discussion
+Overall breast cancer incidence rates among NH white
+women did not continue to decrease after 2003. Our
+results are consistent with findings from a recent study
+from Canada and other nonpopulation based studies in
+the United States. Breast cancer incidence rates in Cana-
+dian women began to increase around 2004/2005, follow-
+ing a decline that began in 2002 (13). A U.S. study based
+on data from the Kaiser Permanente Northwest health-
+care system reported decreasing joinpoint trends from
+2000 to 2006 (14). However, examination of the data year
+by year showed that the decrease was halted in 2004 in
+older women and rates may have increased among
+women ages 45 to 59 through 2006 (14). Another small
+study of NH white women from Marin County, Califor-
+nia, reported a nonsignificant increase in breast cancer
+incidence rates (particularly ERþ breast cancer) from
+2004 to 2007 (15).
+There are several possible explanations for the recent
+stabilization in breast cancer incidence rates among NH
+white women in the United States. First, menopausal
+hormones are thought to promote the growth of hor-
+mone-sensitive tumors and withdrawal of HT therapy
+may delay diagnosis of occult breast tumors (1). How-
+ever, the absolute decrease in HT use after 2003 may not
+have been large enough to continue delaying diagnoses.
+For example, among NH white women ages 50 to 59, EþP
+550
+Overall
+ER positive
+ER negative
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+550
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+2000 2001 2002 2003 2004 2005
+30–39
+30–39
+40–49
+40–49
+50–59
+50–59
+60–69
+60–69
+70+
+70+
+30–39
+40–49
+50–59
+60–69
+70+
+2006 2007
+2000 2001 2002 2003 2004 2005 2006 2007
+550
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+2000 2001 2002 2003 2004 2005 2006 2007
+Figure 2. Delay-adjusted breast cancer incidence rates by age and estrogen (ER) receptor status, non-Hispanic white women, 2000 to 2007. Rates are per
+100,000 and age adjusted to the 2000 U.S. standard population. ER status was imputed for those with missing information.
+Breast Cancer Incidence Rates in U.S. Women
+www.aacrjournals.org
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+735
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+use decreased from 7.5% in 2005 to 4.2% in 2008, com-
+pared to an absolute decrease of 15% between 2000 and
+2005 (Table 1). Second, the stable trends in incidence rates
+may reflect improved sensitivity of mammography with-
+out influence of HT, as HT increases breast density (16)
+and compromises the diagnostic performance of mam-
+mograms and breast biopsies (17). It may also in part
+reflect the relatively stable rates of screening mammo-
+graphy in the United States since 2000 (18).
+Although incidence rates for ERþ tumors stabilized
+(overall) or increased (ages 40–49), rates for ER breast
+cancer rates generally decreased during 2003 to 2007
+among NH white women. Previous studies have also
+documented declines in ER breast cancer rates among
+SEER and other predominantly white populations (2, 7,
+14, 19–21). These declines may reflect changes in the
+classification of hormone receptor status of breast tumors.
+Prior to the release of guidelines by ASCO/College of
+American Pathologists in 2010, there were no national or
+international guidelines for hormone receptor testing
+(22). With the inception of the new guidelines, the cutoff
+value for determining positivity has now been estab-
+lished as 1%, but cutoffs as high as 10% had previously
+been used.
+Similar to white women, ERþ breast cancer rates sig-
+nificantly increased among NH black women ages 40 to
+49. Nonsignificant increases in ERþ rates were also
+observed among NH black women ages 50 to 69. Con-
+sistent with previous studies (20, 23), we also found a
+nonsignificant increase in ER breast cancer in black
+women, although in our study the increase was limited
+to women ages 60 to 69. It is not clear why ERþ and ER
+Figure 3. Delay-adjusted breast cancer incidence rates by estrogen receptor (ER) status, age, and race/ethnicity, 2000 to 2007. Rates are per 100,000
+and age adjusted to the 2000 U.S. standard population. ER status was imputed for those with missing information. A smaller scale was used to
+plot ER incidence rates to facilitate visualization of the trends.
+DeSantis et al.
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+Cancer Epidemiology, Biomarkers & Prevention
+736
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+breast cancer rates among black women may have
+increased for certain age groups. One hypothesis is that
+recent breast cancer incidence trends in black women
+reflect trends in the prevalence of obesity, which increased
+through the mid-2000s (20). Also, reasons for the higher
+rates of ER breast cancer in black women compared to
+Table 1. Trends in use of menopausal hormone therapy (estrogen þ progestin) among U.S. women
+without hysterectomy, by age and race/ethnicity, 2000 to 2008
+NH white
+NH black
+Hispanic
+%
+95% CI
+%
+95% CI
+%
+95% CI
+Ages 50þ
+2000
+13.8
+(12.8–14.9)
+4.2
+(2.9–6.1)
+10.4
+(7.7–13.8)
+2005
+5.1
+(4.5–5.8)
+1.2
+(0.7–2.1)
+4.2
+(2.9–6.1)
+2008
+2.8
+(2.3–3.5)
+0.9
+(0.3–2.2)
+1.5
+(0.7–3.1)
+Ages 50 to 59
+2000
+22.5
+(20.5–24.6)
+7.0
+(4.6–10.5)
+18.1
+(12.8–25.0)
+2005
+7.5
+(6.3–8.8)
+2.1
+(1.1–4.0)
+5.0
+(3.1–8.0)
+2008
+4.2
+(3.0–5.8)
+1.2
+(0.3–3.9)
+1.4
+(0.5–4.1)
+Ages 60 to 69
+2000
+12.9
+(10.9–15.1)
+3.2
+(1.4–7.1)
+7.4
+(4.3–12.4)
+2005
+5.1
+(4.0–6.6)
+0.9
+(0.3–2.4)
+1.6
+(0.5–5.1)
+2008
+3.0
+(2.1–4.2)
+1.1
+(0.2–5.0)
+2.6
+(1.0–6.5)
+Ages 70þ
+2000
+5.4
+(4.4–6.6)
+0.8
+(0.2–2.5)
+1.4
+(0.4–4.5)
+2005
+2.1
+(1.4–3.1)
+0.0
+–
+5.5
+(2.0–14.1)
+2008
+1.1
+(0.6–2.0)
+0.0
+–
+0.7
+(0.1–5.1)
+Source: National Health Interview Survey.
+NOTE: Survey questions from 2000 and 2005 are not directly comparable to 2008.
+Table 2. Trends in use of menopausal hormone therapy (estrogen only) among U.S. women with
+hysterectomy, by age and race/ethnicity, 2000 to 2008
+NH white
+NH black
+Hispanic
+%
+95% CI
+%
+95% CI
+%
+95% CI
+Ages 50þ
+2000
+18.6
+(17.4–19.8)
+11.5
+(9.1–14.3)
+9.4
+(7.1–12.4)
+2005
+9.0
+(8.1–10.0)
+6.1
+(4.3–8.6)
+5.6
+(3.5–8.9)
+2008
+5.9
+(5.1–6.8)
+3.7
+(2.4–5.7)
+2.1
+(1.1–4.2)
+Ages 50 to 59
+2000
+22.1
+(20.0–24.3)
+18.0
+(13.7–23.2)
+10.9
+(7.4–15.7)
+2005
+9.0
+(7.6–10.6)
+8.1
+(4.8–13.2)
+4.3
+(2.3–7.8)
+2008
+6.9
+(5.5–8.5)
+4.3
+(2.6–7.2)
+2.0
+(0.7–5.8)
+Ages 60 to 69
+2000
+23.1
+(20.7–25.6)
+10.2
+(6.9–14.7)
+8.5
+(5.2–13.7)
+2005
+12.6
+(10.4–15.0)
+7.3
+(4.9–10.9)
+10.0
+(4.6–20.5)
+2008
+7.6
+(5.8–9.8)
+5.9
+(3.0–11.2)
+2.8
+(1.0–8.0)
+Ages 70þ
+2000
+11.6
+(10.2–13.2)
+2.6
+(1.4–5.0)
+8.1
+(4.7–13.6)
+2005
+6.1
+(5.0–7.6)
+1.6
+(0.7–3.7)
+3.3
+(1.3–8.1)
+2008
+3.3
+(2.3–4.6)
+0.2
+(0.0–1.3)
+1.7
+(0.4–6.8)
+Source: National Health Interview Survey.
+NOTE: Survey questions from 2000 and 2005 are not directly comparable to 2008.
+Breast Cancer Incidence Rates in U.S. Women
+www.aacrjournals.org
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+737
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+white and Hispanic women are not fully understood, but
+are thought to reflect a complex interaction of genetic,
+environmental, and behavioral factors (24).
+This study has several strengths and limitations. This is
+a descriptive study of U.S. population-based breast can-
+cer incidence rates from the 12 SEER registries with high-
+quality data, representing 14% of the U.S. population.
+Another important strength of this study was our impu-
+tation of ER status. Completeness of ER status continues
+to improve since SEER began collecting the variable in
+1990; however, information is still missing from a sig-
+nificant proportion of cases, particularly among older
+women and racial/ethnic minorities. Our interpretation
+of recent breast cancer trends is limited because we
+cannot directly relate cases to screening or risk factor
+behaviors. In addition, information on the type of HT
+used was not directly available from the NHIS in 2000,
+2005, and 2008. However, this information was explicitly
+asked in the survey in 1999 and prevalence estimates
+from 1999 (data not shown) and our estimates for 2000
+were similar. Another limitation of this study was our
+statistical power to detect subtle trends in breast cancer
+incidence in age-specific analyses of NH black and His-
+panic women due to smaller case counts, as well as for the
+less prevalent ER breast cancers.
+Conclusion
+In summary, the sharp decline in breast cancer inci-
+dence rates that occurred from 2002 to 2003 among NH
+white women did not continue through 2007. Further-
+more, no significant changes in overall breast cancer
+incidence rates occurred during 2003 to 2007 among
+NH white, NH black, and Hispanic women of any age
+group.
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+The costs of publication of this article were defrayed in part by the
+payment of page charges. This article must therefore be hereby marked
+advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate
+this fact.
+Received January 19, 2011; revised February 18, 2011; accepted
+February 22, 2011; published OnlineFirst February 28, 2011.
+References
+1.
+Ravdin PM, Cronin KA, Howlader N, Berg CD, Chlebowski RT, Feuer
+EJ, et al. The decrease in breast-cancer incidence in 2003 in the
+United States. N Engl J Med 2007;356:1670–4.
+2.
+Jemal A, Ward E, Thun MJ. Recent trends in breast cancer incidence
+rates by age and tumor characteristics among U.S. women. Breast
+Cancer Res 2007;9:R28.
+3.
+Rossouw JE, Anderson GL, Prentice RL, LaCroix AZ, Kooperberg C,
+Stefanick ML, et al. Risks and benefits of estrogen plus progestin in
+healthy postmenopausal women: principal results from the Women's
+Health Initiative randomized controlled trial. JAMA 2002;288:321–33.
+4.
+Hersh AL, Stefanick ML, Stafford RS. National use of postmenopausal
+hormone therapy: annual trends and response to recent evidence.
+JAMA 2004;291:47–53.
+5.
+Altekruse SF, Kosary CL, Kraphco M, Neyman N, Aminou R, Waldron
+E, et al. SEER Cancer Statistics Review, 1975–2007. Volume 1.
+Bethesda, MD: National Cancer Institute 2010.
+6.
+Edwards BK, Ward E, Kohler BA, Eheman C, Zauber AG, Anderson
+RN, et al. Annual report to the nation on the status of cancer, 1975–
+2006, featuring colorectal cancer trends and impact of interventions
+(risk factors, screening, and treatment) to reduce future rates. Cancer
+2010;116:544–73.
+7.
+Cronin KA, Ravdin PM, Edwards BK. Sustained lower rates of breast
+cancer in the United States. Breast Cancer Res Treat 2009;117:
+223–4.
+8.
+Krieger N, Chen JT, Waterman PD. Decline in U.S. breast cancer rates
+after the Women's Health Initiative: socioeconomic and racial/ethnic
+differentials. Am J Public Health 2010;100(Suppl 1):S132–9.
+9.
+Surveillance, Epidemiology, and End Results (SEER) Program (www.
+seer.cancer.gov) SEER*Stat Database: Incidence – SEER 13 Regs
+Research Data, Nov 2009 Sub (1992–2007) <Katrina/Rita Population
+Adjustment> – Linked To County Attributes – Total U.S., 1969–2007
+Counties, National Cancer Institute, DCCPS, Surveillance Research
+Program, Cancer Statistics Branch, released April 2010, based on the
+November 2009 submission.
+10. Raghunathan TE, Lepkowski JM, van Hoewyk J, Solenberger P. A
+multivariate technique for multiply imputing missing values using a
+sequence of regression models. Survey Methodol 2001;27:85–95.
+11. Joinpoint Regression Program, Version 3.4.3. April. 2010; Statistical
+Research and Applications Branch, National Cancer Institute.
+12. Grady D, Rubin SM, Petitti DB, Fox CS, Black D, Ettinger B, et al.
+Hormone therapy to prevent disease and prolong life in postmeno-
+pausal women. Ann Intern Med 1992;117:1016–37.
+13. De P, Neutel CI, Olivotto I, Morrison H. Breast cancer incidence and
+hormone replacement therapy in Canada. J Natl Cancer Inst 2010;
+102:1489–95.
+14. Glass AG, Lacey JV, Jr., Carreon JD, Hoover RN. Breast cancer
+incidence, 1980–2006: combined roles of menopausal hormone ther-
+apy, screening mammography, and estrogen receptor status. J Natl
+Cancer Inst 2007;99:1152–61.
+15. Ereman RR, Prebil LA, Mockus M, Koblick K, Orenstein F, Benz C,
+et al. Recent trends in hormone therapy utilization and breast cancer
+incidence rates in the high incidence population of Marin County,
+California. BMC Public Health 2010;10:228.
+16. McTiernan A, Martin CF, Peck JD, Aragaki AK, Chlebowski RT, Pisano
+ED, et al. Estrogen-plus-progestin use and mammographic density in
+postmenopausal women: Women's Health Initiative randomized trial.
+J Natl Cancer Inst 2005;97:1366–76.
+17. Chlebowski RT, Anderson G, Pettinger M, Lane D, Langer RD, Gilligan
+MA, et al. Estrogen plus progestin and breast cancer detection by
+means of mammography and breast biopsy. Arch Intern Med
+2008;168:370–7.
+18. Breen N, Gentleman JF, Schiller JS. Update on mammography trends:
+comparisons of rates in 2000, 2005, and 2008. Cancer 2010 [Epub
+ahead of print] DOI: 10.1002/cncr.25679.
+19. Byers T, Trujillo S, Hines L. Re: Breast cancer incidence, 1980–2006:
+combined roles of menopausal hormone therapy, screening mammo-
+graphy, and estrogen receptor status. J Natl Cancer Inst 2008;
+100:596.
+20. Pfeiffer RM, Mitani A, Matsuno RK, Anderson WF. Racial differences in
+breast cancer trends in the United States (2000–2004). J Natl Cancer
+Inst 2008;100:751–2.
+21. Marshall SF, Clarke CA, Deapen D, Henderson K, Largent J, Neu-
+hausen SL, et al. Recent breast cancer incidence trends according to
+hormone therapy use: the California Teachers Study cohort. Breast
+Cancer Res 2010;12:R4.
+22. Hammond ME, Hayes DF, Dowsett M, Allred DC, Hagerty KL, Badve
+S, et al. American Society of Clinical Oncology/College of American
+Pathologists guideline recommendations for immunohistochemical
+DeSantis et al.
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+Cancer Epidemiology, Biomarkers & Prevention
+738
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+
+testing
+of
+estrogen
+and
+progesterone
+receptors
+in
+breast
+cancer (unabridged version). Arch Pathol Lab Med 2010;134:
+e48–72.
+23. Hausauer AK, Keegan TH, Chang ET, Clarke CA. Recent breast
+cancer trends among Asian/Pacific Islander, Hispanic, and African-
+American women in the U.S.: changes by tumor subtype. Breast
+Cancer Res 2007;9:R90.
+24. Agurs-Collins T, Dunn BK, Browne D, Johnson KA, Lubet R. Epide-
+miology of health disparities in relation to the biology of estrogen
+receptor-negative breast cancer. Semin Oncol 2010;37:384–401.
+Breast Cancer Incidence Rates in U.S. Women
+www.aacrjournals.org
+Cancer Epidemiol Biomarkers Prev; 20(5) May 2011
+739
+Downloaded from http://aacrjournals.org/cebp/article-pdf/20/5/733/2273621/733.pdf by guest on 09 August 2026
+

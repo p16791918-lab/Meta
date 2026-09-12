@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+980,exclude,Not relevant to the research question/topic,UGT1A1 polymorphisms AA
+981,exclude,Not relevant to the research question/topic,precision oncology diversity monitoring
+982,exclude,Not relevant to the research question/topic,colorectal screening Korean Americans
+983,exclude,Not relevant to the research question/topic,population attributable risk white women
+984,exclude,Not a US population-based/registry study,Asia vs Western symposium
+985,include,,California incidence risk of developing BC by race/ethnicity
+986,exclude,Not a US population-based/registry study,international male/female incidence CI5
+987,exclude,Not relevant to the research question/topic,HRT decline SEER incidence
+988,exclude,Not relevant to the research question/topic,reconstruction outcomes Wisconsin
+989,exclude,Not a US population-based/registry study,HRT Japan case-control
+990,exclude,Not relevant to the research question/topic,treatment delays NC race/geography
+991,exclude,Not a US population-based/registry study,Korean BC registry trends
+992,exclude,Not relevant to the research question/topic,religious practices Utah risk factors
+993,exclude,Not relevant to the research question/topic,antiperspirant hypothesis
+994,exclude,Not relevant to the research question/topic,maxBMI BWHS incidence risk factor
+995,exclude,Not relevant to the research question/topic,BC staging by subtype Delta
+996,exclude,Not a US population-based/registry study,Asia regions incidence/mortality
+997,exclude,Not a US population-based/registry study,global AYA GBD burden
+998,include,,NIH-AARP incidence of major cancers by race
+999,exclude,Not relevant to the research question/topic,phytoestrogens prognosis
+1000,exclude,Not relevant to the research question/topic,race autologous reconstruction outcomes
+1001,exclude,Not relevant to the research question/topic,multilevel conceptual model incidence
+1002,exclude,Not a US population-based/registry study,Uruguay incidence/mortality
+1003,exclude,Not a US population-based/registry study,Osaka Japan incidence trends
+1004,exclude,Not relevant to the research question/topic,BC risk women with HIV NA-ACCORD
+1005,exclude,Not relevant to the research question/topic,pubertal age allergy atopic
+1006,exclude,Not relevant to the research question/topic,agent-based inflammation cancer model
+1007,exclude,Not relevant to the research question/topic,bilateral BC clinicopathologic
+1008,exclude,Not relevant to the research question/topic,brain metastases at diagnosis SEER
+1009,exclude,Not a US population-based/registry study,Antigua and Barbuda incidence
+1010,exclude,Not a US population-based/registry study,Japanese HBOC registry
+1011,exclude,Not relevant to the research question/topic,family history risk older women BCSC
+1012,exclude,Not relevant to the research question/topic,late stage Missouri rural/urban
+1013,exclude,Not relevant to the research question/topic,web-based mapping Houston CHIS
+1014,exclude,Not a US population-based/registry study,Argentina national program
+1015,include,,US breast cancer trends young women by race 1975-2002
+1016,exclude,Not a US population-based/registry study,food botanical Shanghai case-control
+1017,exclude,Not relevant to the research question/topic,diabetes BC mortality elderly WONDER
+1018,exclude,Not a US population-based/registry study,Korean BC 31115 patients
+1019,exclude,Not relevant to the research question/topic,equity metastatic BC care Texas
+1020,exclude,Not relevant to the research question/topic,reproductive history TNBC BEM
+1021,exclude,Not a US population-based/registry study,cancer control China/India/Russia commission
+1022,exclude,Not relevant to the research question/topic,health disparity BC Asian women review
+1023,exclude,Not relevant to the research question/topic,BC mortality by age UPMC single-institution
+1024,exclude,Not relevant to the research question/topic,physical activity mammography HRS
+1025,exclude,Not relevant to the research question/topic,ethnic AFP pregnancy hypothesis
+1026,exclude,Not relevant to the research question/topic,preterm/LBW after BC NC
+1027,exclude,Not relevant to the research question/topic,BC subtypes AYA California distribution
+1028,exclude,Not a US population-based/registry study,global BC mortality 25-year
+1029,exclude,Not relevant to the research question/topic,XRCC1 polymorphisms CPS-II
+1030,exclude,Not relevant to the research question/topic,Alzheimer/dementia in BC women SEER-Medicare
+1031,exclude,Not relevant to the research question/topic,multiteam system SEER-Medicare
+1032,exclude,Not relevant to the research question/topic,early detection low-income recommendations
+1033,exclude,Not a US population-based/registry study,global burden GLOBOCAN 2050
+1034,exclude,Not relevant to the research question/topic,allostatic load invasive BC WHI
+1035,exclude,Not a US population-based/registry study,stage at diagnosis China
+1036,exclude,Not a US population-based/registry study,cancer burden Chinese population
+1037,exclude,Not a US population-based/registry study,SLNB Chinese patients
+1038,exclude,Not relevant to the research question/topic,breast/ovarian in relatives BRCA
+1039,exclude,Not relevant to the research question/topic,PON1 polymorphisms CPS-II

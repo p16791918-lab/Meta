@@ -1,0 +1,1972 @@
+record_id=381 pmid=20336785 doi=10.1002/cncr.25016
+SOURCE: manual-pdf
+TITLE: Age/race differences in HER2 testing and in incidence rates for breast cancer triple subtypes: A population-based study and first report
+
+Age/Race Differences in HER2 Testing
+and in Incidence Rates for Breast Cancer
+Triple Subtypes
+A Population-Based Study and First Report
+Mary Jo Lund, MD, MSPH, MT(ASCP)1,2,3,4; Ebonee N. Butler, MPH1; Brionna Y. Hair, MPH1; Kevin C. Ward, PhD, MPH1,5;
+Judy H. Andrews, BS, CTR1,5; Gabriella Oprea-Ilies, MD6; A. Rana Bayakly, MPH7; Ruth M. O’Regan, MD3,4;
+Paula M. Vertino, PhD4,8; and J. William Eley, MD3,4
+BACKGROUND: Although US year 2000 guidelines recommended characterizing breast cancers by human epidermal
+growth factor receptor 2 (HER2), national cancer registries do not collect HER2, rendering a population-based understanding
+of HER2 and clinical ‘‘triple subtypes’’ (estrogen receptor [ER] / progesterone receptor [PR] / HER2) largely unknown. We
+document the population-based prevalence of HER2 testing / status, triple subtypes and present the first report of subtype
+incidence rates. METHODS: Medical records were searched for HER2 on 1842 metropolitan Atlanta females diagnosed
+with breast cancer during 2003-2004. HER2 testing/status and triple subtypes were analyzed by age, race/ethnicity, tu-
+mor factors, socioeconomic status, and treatment. Age-adjusted incidence rates were calculated. RESULTS: Over 90% of
+cases received HER2 testing: 12.6% were positive, 71.7% negative, and 15.7% unknown. HER2 testing compliance was signifi-
+cantly better for women who were younger, of Caucasian or African-American descent, or diagnosed with early stage dis-
+ease. Incidence rates (per 100,000) were 21.1 for HER2þ tumors and 27.8 for triple-negative tumors, the latter differing by
+race (36.3 and 19.4 for black and white women, respectively). CONCLUSIONS: HER2 recommendations are not uniformly
+adhered to. Incidence rates for breast cancer triple subtypes differ by age/race. As biologic knowledge is translated into the
+clinical setting eg, HER2 as a biomarker, it will be incumbent upon national cancer registries to report this information. Inci-
+dence rates cautiously extrapolate to an annual burden of 3000 and 17,000 HER2þ tumors for black and white women,
+respectively, and triple-negative tumors among 5000 and 16,000 respectively. Testing, rate, and burden variations warrant
+population-based in-depth exploration and clinical translation. Cancer 2010;116:2549–59. V
+C 2010 American Cancer Society.
+KEYWORDS: breast cancer, HER2 testing, triple negative, race, disparity, incidence.
+INTRODUCTION
+Breast cancer, the most common noncutaneous cancer diagnosed among US females and second most common cause
+of female cancer death,1 demonstrates marked diversity in biology and outcome.2-9 The characterization of breast tumors
+based on expression of 3 protein biomarkers (estrogen receptor [ER)], progesterone receptor (PR), and human epidermal
+growth factor receptor 2 (HER2) has been standard recommended care since 2000.10 In combination, these biomarkers,
+hereafter referred to as triple subtypes, represent distinct biological and clinical behaviors. However, as of 2009, US
+DOI: 10.1002/cncr.25016, Received: July 21, 2009; Revised: August 26, 2009; Accepted: September 4, 2009, Published online March 24, 2010 in Wiley Inter-
+Science (www.interscience.wiley.com)
+Corresponding author: Mary Jo Lund, MSPH, MT(ASCP), Ph.D., Department of Hematology/Oncology, Emory University School of Medicine, Atlanta, GA 30322;
+Fax: (404) 727-7261; mlund@emory.edu
+1Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, Georgia; 2Georgia Cancer Center for Excellence at Grady, Atlanta, Geor-
+gia; 3Departments of Hematology and Medical Oncology, Emory University School of Medicine, Atlanta, Georgia; 4Winship Cancer Institute, Emory University
+School of Medicine, Atlanta, Georgia; 5Georgia Center for Cancer Statistics, Atlanta, Georgia; 6Departments of Pathology and Laboratory Medicine, Emory Univer-
+sity School of Medicine, Atlanta, Georgia; 7Georgia Comprehensive Cancer Registry, Atlanta, Georgia; 8Department of Radiation Oncology, Emory University
+School of Medicine, Atlanta, Georgia
+The authors gratefully acknowledge the cancer registry co-coordinators, facility registry staff, and especially former SEER director John L Young, who all took
+such interest in this study and so generously collaborated with us.
+Portions of this manuscript were accepted for presentation at the San Antonio Breast Cancer Symposium, December 9-13, 2009.
+This work was supported by the National Cancer Institute Surveillance Epidemiology and End Results (NCI SEER) program contract # N01-PC-35135 (KCW, JHA),
+the Avon Foundation (MJL, PV), Glenn Foundation (MJL, RMO), and the Sindab Endowment (MJL, ENB, RO).
+Cancer
+June 1, 2010
+2549
+Original Article
+
+national cancer registries conducted by the National Can-
+cer Institute’s (NCI) Surveillance, Epidemiology, and
+End Results (SEER) Program or the Centers for Disease
+Control and Prevention’s National Program of Cancer
+Registries (NPCR) still do not routinely collect or report
+HER2.11,12 Thus, the population-based prevalence of
+HER2 testing, HER2 status, and associated triple sub-
+types of breast cancer remains largely unknown.
+Status of ER, PR, and HER2 is key to clinical man-
+agement. These biomarkers are predictive in that they deter-
+mine treatment and treatment-associated outcome, and they
+are prognostic in that they foretell aggressiveness and outcome,
+regardless of treatment.10,13-17 Their combined expression also
+represents surrogates for the four major intrinsic subtypes:
+Luminal A, Luminal B, HER2 positive, and triple negative (or
+basal-like).6 ER negative (ER) and PR negative (PR)
+breast tumors are more aggressive and occur at an earlier
+age, more commonly among nonwhite US females (particu-
+larly black women).4,18 ER and PR determine prescription
+of targeted hormonal therapies with unequivocal clinical
+utility.13-15 Prior to targeted therapy, HER2þ tumors por-
+tended some of the worst prognoses19 but are now benefited
+by another effective targeted treatment; trastuzumab (Her-
+ceptin; Genentech, San Francisco, Calif)13 is currently rec-
+ommended for early stage, as well as advanced, breast
+cancer.13,16,17 The ‘‘triple negative’’ phenotype (ER/
+PR/HER2) has recently emerged as a distinct subtype,
+for which there is a lack of effective targeted treatments.20-25
+We and others have recently shown that compared with
+white women, triple-negative tumors are more prevalent
+among younger, black and Hispanic women.21,22,26
+This study focuses on the three existing key bio-
+markers used in prognosis and treatment decisions: ER,
+PR, and HER2. It is crucial to investigate these parameters
+among age, racial/ethnic, and socioeconomic status (SES)
+groups, where both adherence to standard clinical prac-
+tices27-30 and tumor biology may differ.31-33 To wit, we
+investigated the population-based prevalence of HER2
+testing, HER2 status, and triple subtypes among women
+diagnosed with primary invasive breast cancer in 2 large
+metropolitan Atlanta counties during 2003-2004. We also
+report the first ever incidence rates for breast cancer sub-
+types and extrapolate our findings into an annual US bur-
+den of new cases for black and white women.
+METHODS
+Population
+All cases of primary invasive breast cancer diagnosed
+among female residents of Fulton and Dekalb counties in
+metropolitan Atlanta during 2003-2004 were considered
+for inclusion, representing approximately 1.6 million resi-
+dents (46% white, 48% black, and 6% Hispanic/Asian/
+other).
+The study population was identified through the
+NCI’s Metropolitan Atlanta SEER Registry in conjunc-
+tion with the Georgia Comprehensive Cancer Registry
+(GCCR). Of 2523 abstracts from 48 reporting facilities,
+587 were duplicates, resulting in 1936 unique cases. Of
+these, we excluded patients with multiple primaries or
+bilateral disease (n ¼ 82) or diagnosed by death certificate
+(n ¼ 12). Thus, the final study population consisted of
+1842 women.
+Data Collection/Description
+We obtained data from the Atlanta SEER registry and
+GCCR, which routinely collect information regarding
+sociodemographics, diagnosis, stage, ER, PR, and first-
+course treatment, but not HER2. We abstracted HER2
+information from medical records or registry abstracts.
+We also ‘‘re-abstracted’’ ER and PR. (Concordance for
+SEER ER and PR, compared with the re-abstracted ER
+and PR, was 98.1%; those that were discordant were re-
+reviewed. We also captured ER and PR on about 50% of
+tumors categorized as ‘‘unknown" by SEER.)
+Facility personnel were consulted by the regional
+registry coordinator for Fulton/Dekalb counties (JHA)
+and/or the study principal investigator (MJL). Data were
+entered onto a secured laptop with a boot password and
+military-grade encryption software.34 Completed data
+were stored on the secured server at the Atlanta SEER
+registry. Institutional review board approval was obtained
+from Emory University (where the SEER registry is
+located) and the Georgia Department of Human Resour-
+ces (GDHR), the GCCR parent body.
+HER2 was categorized as assay performed (yes vs
+no-unknown), and test results were classified as positive
+(þ), negative (), or unknown based on immunohisto-
+chemical (IHC) or fluorescent in situ hybridization
+(FISH) assay, according to standard recommendations.35
+IHC values of 0 or 1þ were considered negative, 3þ were
+considered positive. Gene amplification by FISH assay
+was necessary to confirm 2þ IHC values.
+Race/ethnic groups were categorized as white (non-
+Hispanic), black (non-Hispanic), Hispanic, and other
+(primarily Asian). Census-tract based SES was con-
+structed by linking the registry census tract variable, based
+on the street address of the patient at the time of diagnosis,
+with 2000 US census data.36 The census tracts were
+Original Article
+2550
+Cancer
+June 1, 2010
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+aggregated into four categories, which represent the per-
+cent of the census tract population living below the pov-
+erty level.37,38 Treatment groups were dichotomized into
+‘‘yes/no’’; the ‘‘no’’ group included those women for
+whom treatment was contraindicated, recommended but
+not received, or unknown.
+Data Analyses
+Patients were analyzed by HER2 testing status, HER2
+results, race/ethnicity, and triple subtypes. Frequency dis-
+tributions and v2 tests of independence were calculated.
+Triple subtypes were based on whether expression of ER,
+PR, and HER2 was þ or : ER/PR/HER2 (triple
+negative), ER/PR/HER2þ, ERþ/PRþ/HER2, and
+ERþ/PRþ/HER2þ. The subtypes were analyzed by race/
+ethnicity and other patient-related, tumor-related, and
+treatment-related factors. Adjusted odds ratios (ORs) and
+95% confidence intervals (CIs) were calculated. Multivar-
+iate model variables were determined a priori, based on
+literature review. Analyses were conducted using SAS ver-
+sion 9.1 (Cary, NC), statistical significance P<.05. Age
+adjusted incidence rates were calculated based on the
+2000 US census data representing our population, using
+SEER*prep and SEER*stat.
+RESULTS
+Of the 1842 women in our study, evidence of HER2 test-
+ing was found for 90.1% and did not differ by SES (Table
+1). Tumors of older women, Hispanics and other race/
+ethnicities, and stage IV and unknown stage disease were
+less likely to be tested.
+Table 1. HER2 Assays and Results Among Women Diagnosed With Primary Invasive Breast Cancer, Atlanta, GA, 2003-2004
+Characteristic
+HER2 Assay Performed
+HER2 Resultd,e
+Yes
+n51660
+No
+n5182
+Positive
+n5232
+Negative
+n51320
+Unknown
+n5290
+No.
+%
+No.
+%
+P
+No.
+%
+No.
+%
+No.
+%
+P
+Race/ethnicity
+.0461
+.0004
+White
+868
+89.8
+99
+10.2
+108
+11.2
+713
+73.7
+146
+15.1
+.0076a
+Black
+743
+91.3
+71
+8.7
+110
+13.5
+579
+71.1
+125
+15.4
+Hispanic
+23
+79.3
+6
+20.7
+8
+27.6
+13
+44.8
+8
+27.6
+Otherb
+26
+81.3
+6
+18.8
+6
+18.8
+15
+46.9
+11
+34.4
+Age
+.0771
+<.0001
+<40
+127
+93.4
+9
+6.6
+27
+19.9
+86
+63.2
+23
+16.9
+<.0001a
+40-49
+326
+89.8
+37
+10.2
+62
+17.1
+244
+67.2
+57
+15.7
+50-59
+470
+91.3
+45
+8.7
+69
+13.4
+374
+72.6
+72
+14.0
+60-69
+324
+90.0
+36
+10.0
+32
+8.9
+270
+75.0
+58
+16.1
+70-79
+252
+91.0
+25
+9.0
+29
+10.5
+206
+74.4
+42
+15.2
+‡80
+161
+84.3
+30
+15.7
+8
+4.2
+143
+74.9
+40
+20.9
+Mean age (SD)
+58.76
+(14.1)
+61.28
+(15.5)
+.024
+54.64
+(13.8)
+59.58
+(14.0)
+59.92
+(15.5)
+<.0001a
+SESc
+.9565
+.8229
+<5%
+548
+90.3
+59
+9.7
+73
+12.0
+447
+73.6
+87
+14.3
+.6222a
+5<10%
+435
+90.8
+44
+9.2
+61
+12.7
+341
+71.2
+77
+16.1
+10<20%
+390
+90.1
+43
+9.9
+62
+14.3
+298
+68.8
+73
+16.9
+‡20%
+286
+89.7
+33
+10.3
+36
+11.3
+233
+73.0
+50
+15.7
+Unknown
+1
+25.0
+3
+75.0
+0
+0.0
+1
+25.0
+3
+75.0
+AJCC Stage
+.002
+<.0001
+I
+662
+92.2
+56
+7.8
+79
+11.0
+539
+75.1
+100
+13.9
+.4135a
+II
+628
+93.5
+44
+6.6
+83
+12.4
+500
+74.4
+89
+13.2
+III
+158
+94.1
+10
+6.0
+22
+13.1
+109
+64.9
+37
+22.0
+IV
+75
+80.7
+18
+9.9
+12
+12.9
+55
+59.1
+26
+28.0
+Unknown
+137
+71.7
+54
+29.7
+16
+8.4
+117
+61.3
+58
+30.4
+HER2 indicates human epidermal growth factor receptor 2; SD, standard deviation, AJCC, American Joint Committee on Cancer; NOS, not otherwise stated;
+SES, socioeconomic status; IHC, immunohistochemistry; FISH, fluorescent in situ hybridization; -, not applicable
+a P-values with unknowns deleted.
+b >80.0% Asian.
+c % living below the federally defined poverty level.
+d FISH assay performed among those w 2þ IHC positive tumors, See Figure 1
+e 5 additional patients were positive by FISH, but results of IHC could not be found.
+HER2 Testing and Breast Cancer Subtypes/Lund et al
+Cancer
+June 1, 2010
+2551
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+HER2þ breast cancers represented 12.6% of the
+cases, 71.7% were HER2 and 15.7% were indetermin-
+able or not assayed (Table 1). Younger women, Hispanics,
+and other race/ethnicities were most likely to be diagnosed
+with HER2þ tumors, but differences by SES were not
+noted.
+Tumors scored by IHC most often stained as 0
+(58.3%) or 1þ (15.4%), (Fig. 1a). Of the 13.5% scored
+as 2þ, confirmation by FISH assay was documented for
+nearly 77%; over 43% were negative, 12.5% were posi-
+tive, and 1.3% equivocal (Fig. 1b). For 19.6% of the 2þ
+IHC cases, FISH assays were ordered, but results were not
+found. Of the 232 HER2þ tumors, 178 were 3þIHC, 28
+were 2þIHC/FISHþ, and 5 were FISHþ with no record
+of IHC testing (data not shown).
+Table 2 displays characteristics by race/ethnicity re-
+stricted to black and white women. (The study population
+was 52.5% white, 44.2% black, 1.6% Hispanic, and
+1.7% other race/ethnicity, but meaningful study of His-
+panic or other race/ethnicity women was prohibited by
+limited sample sizes). Black women were significantly
+more likely than white women to be diagnosed at earlier
+age, later stage and with tumors that were high grade, and
+ER and/or PR negative. HER2þ tumors did not differ by
+race/ethnicity. Triple-negative tumors were most preva-
+lent among black women, accounting for 22.6% of their
+tumors (and 17.2% of Hispanic women; data not shown),
+in contrast to 10.4% for white women.
+ER, PR, and HER2 information was complete for
+1501 women (84.3%) and did not differ by race. The most
+prevalent triple subtype was ERþ/PRþ/HER2 (66.6%),
+followed by triple-negative tumors (19.0%) (Table 3).
+HER2þ tumors were least prevalent and fairly equally di-
+vided among ERPRHER2þ (6.0%) and ERþ/PRþ/
+HER2þ (8.5%) subtypes, but HER2þ prevalence was
+much higher among women aged <50 years (20%) than
+women aged 50 years (12%; data not shown). triple-neg-
+ative tumors were more prevalent among black women
+(26.8%) than white women (12.4%) and associated with
+women who were younger and diagnosed with later stage
+and larger or higher grade tumors. Triple-negative tumors
+comprised 28.1% and 14.8% of cancers in black and white
+women aged <50 years and of those aged 50 years
+26.2% and 11.7%, respectively (data not shown).
+Patients with ERPR subtypes (including triple
+negative or ER/PR/HER2þ) were most likely to
+receive chemotherapy (Table 3). Of those with HER2þ
+disease, women with ER/PR disease were more likely
+to receive Trastuzumab than those with positive ER/PR
+status.
+With the ERþ/PRþ/HER2 subtype serving as
+referent in multivariate logistic analyses, triple-negative
+tumors were independently associated with black race/
+ethnicity (odds ratio [OR], 2.42), the highest poverty level
+(OR, 2.35), stage IV disease (OR, 2.35), and tumors of
+intermediate or high grade, but not age (Table 4). Black
+women were also nonstatistically more likely to be diag-
+nosed with HER2þ tumors.
+Age-adjusted incidence rates differed by race and age
+(Table 5). Incidence (per 100,000) was highest for ERþ/
+Figure 1. HER2 assay percentages by (a) IHC and (b) FISH are depicted. IHC indicates immunohistochemistry; FISH, fluorescent
+in situ hybridization.
+Original Article
+2552
+Cancer
+June 1, 2010
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRþ/HER2 tumors (98.9) but was lower for black than
+for white women (86.7 and 110.7, respectively). In con-
+trast, triple-negative tumor incidence was 27.8 overall and
+was higher among black women (36.3) than white women
+(19.4). The differences persisted when subdivided into
+ages <50 years versus ages 50 years. HER2þ incidence
+(regardless of ER/PR status) was 21.1 and did not differ
+by race/ethnicity.
+DISCUSSION
+To our knowledge, this is the first study to document
+HER2 testing and corresponding results in a population-
+based cancer registry setting and by race/ethnicity/age
+groups. This is also the first to present subtype incidence
+rates by race/age groups. Over 90% of patients diagnosed
+during 2003-2004 received HER2 testing. In accordance
+with HER2 guidelines,10 our study indicates that compre-
+hensive capture of HER2 by cancer registries is achievable
+and practical. The majority of HER2 tumors assayed as
+2þ were confirmed by FISH analysis, as is standard rec-
+ommendation.35,39 However, we encountered difficulty
+finding documentation of the actual FISH results; those
+96 (43%) IHC 2þ cases lacking subsequent confirmation
+by FISH were excluded from our multivariate analyses.
+We did, however, perform sensitivity analyses, assuming
+all 96 cases were either 1) positive or 2) negative (the more
+likely scenario). Neither assumption substantially altered
+our reported results.
+Table 2. Characteristics of Women Diagnosed With Breast
+Cancer by Race/Ethnicity,a Atlanta, GA, 2003-2004
+Characteristic
+White
+(n5 967)
+Black
+(n5814)
+P-Valueb
+No.
+%
+No.
+%
+Age
+<.001
+<40
+58
+6.0
+67
+8.2
+40-49
+152
+15.7
+191
+23.5
+50-59
+266
+27.5
+239
+29.4
+60-69
+200
+20.7
+152
+18.7
+70-79
+153
+15.8
+115
+14.1
+‡80
+138
+14.3
+50
+6.1
+Mean age (SD)
+(61.2)
+14.6
+56.9
+(13.4)
+SESc
+<.001
+<5%
+459
+47.5
+125
+15.4
+5<10%
+261
+27.0
+204
+25.1
+10<20%
+204
+21.1
+208
+25.6
+‡20%
+43
+4.5
+273
+33.5
+Unknown
+0
+0.0
+4
+0.5
+AJCC Stage
+<.001
+I
+456
+47.2
+244
+30.0
+II
+300
+31.0
+347
+42.6
+III
+66
+6.8
+96
+11.8
+IV
+26
+2.7
+63
+7.7
+Unknown
+119
+12.3
+64
+7.9
+Tumor size (cm)
+<.001
+T1a,b (0-1.0)
+275
+28.4
+129
+15.9
+T1c (1.1-2.0)
+349
+36.1
+220
+27.0
+T2 (2.1-5.0)
+221
+22.9
+274
+33.7
+T3 (>5.0)
+35
+3.6
+78
+9.6
+T4
+17
+1.8
+45
+5.5
+Unknown
+70
+7.2
+68
+7.2
+Nodal status
+<.001
+Negative
+617
+63.8
+451
+55.4
+Positive
+301
+31.1
+323
+39.7
+Unknown
+49
+5.1
+40
+4.9
+Tumor grade
+<.001
+Low
+220
+22.8
+125
+15.4
+Intermediate
+374
+38.7
+275
+33.8
+High
+273
+28.2
+328
+40.3
+Unknown
+100
+10.3
+86
+10.6
+ER status
+<.001
+Positive
+732
+75.7
+506
+62.2
+Negative
+171
+17.7
+267
+32.8
+Unknown
+64
+6.6
+41
+5.0
+PR status
+<.001
+Positive
+636
+65.8
+426
+52.3
+Negative
+265
+27.4
+345
+42.4
+Unknown
+66
+6.8
+43
+5.3
+HER2
+.574
+Positive
+108
+11.2
+110
+13.5
+Negative
+713
+73.7
+579
+71.1
+Unknown
+146
+15.1
+125
+15.4
+ER/PR
+<.001
+ER1/PR1
+623
+64.4
+416
+51.1
+ER1PR-
+109
+11.3
+91
+11.2
+(Continued)
+Table 2. (Continued)
+Characteristic
+White
+(n5 967)
+Black
+(n5814)
+P-Valueb
+No.
+%
+No.
+%
+ER-PR1
+15
+1.6
+13
+1.6
+ER-PR-
+156
+16.1
+254
+31.2
+Unknown
+Triple subtypes
+<.001
+ER-PR-HER2-
+101
+10.4
+184
+22.6
+ER-/PR-/HER21
+41
+4.2
+49
+6.0
+ER1/PR1/HER21
+67
+6.9
+60
+7.4
+ER1/PR1/HER2-
+605
+62.6
+394
+48.4
+Unknown
+153
+15.8
+127
+15.6
+HER2, human epidermal growth factor receptor 2; SD, standard deviation,
+AJCC, American Joint Committee on Cancer; NOS, not otherwise stated;
+SES, socioeconomic status.
+a Excludes Hispanics (n¼29) and other (n¼32) race/ethnicity.
+b P-values with and with unknowns deleted were similar or equal.
+c % living below the federally defined poverty level.
+HER2 Testing and Breast Cancer Subtypes/Lund et al
+Cancer
+June 1, 2010
+2553
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3. Characteristics of Black and White Women Diagnosed With Breast Cancer by Triple Subtypes, Atlanta, GA, 2003-2004
+Characteristic
+Triple
+Negative
+n5285
+ER-/PR-/
+HER21
+n590
+ER1/PR1/
+HER21
+n5127
+ER1/PR1/
+HER2-
+n5999
+P
+No.
+%
+No.
+%
+No.
+%
+No.
+%
+Race/ethnicity
+<.0001
+White
+101
+12.4
+41
+5.0
+67
+8.2
+605
+74.3
+Black
+184
+26.8
+49
+7.1
+60
+8.7
+394
+57.4
+Age
+<.0001
+<40
+33
+32.4
+13
+12.8
+10
+9.8
+46
+45.1
+40-49
+53
+18.3
+17
+5.9
+40
+13.8
+180
+62.1
+50-59
+91
+20.9
+31
+7.1
+37
+8.5
+277
+63.5
+60-69
+50
+16.9
+11
+3.7
+21
+7.1
+214
+72.3
+70-79
+43
+19.1
+13
+5.8
+14
+6.2
+155
+68.9
+‡80
+15
+9.9
+5
+3.3
+5
+3.3
+127
+83.6
+Mean Age [SD]
+56.2
+[14.0]
+54.7
+[14.4]
+54.6
+[13.5]
+60.6
+[13.8]
+SESa
+.2447
+<5%
+84
+16.8
+27
+5.4
+46
+9.2
+342
+68.5
+5<10%
+75
+19.3
+18
+4.6
+36
+9.3
+260
+66.8
+10<20%
+63
+18.1
+27
+7.8
+29
+8.3
+229
+65.8
+‡20%
+63
+29.5
+18
+6.8
+16
+6.1
+167
+63.3
+Unknown
+0
+0.0
+0
+0.0
+0
+0.0
+1
+100.0
+AJCC stage
+<.0001
+I
+84
+13.9
+32
+5.3
+46
+7.6
+443
+73.2
+II
+117
+20.5
+33
+5.8
+54
+9.5
+367
+64.3
+III
+34
+26.4
+14
+10.9
+9
+7.0
+72
+55.8
+IV
+24
+36.9
+6
+9.2
+6
+9.2
+29
+44.6
+Unknown
+26
+19.8
+5
+3.8
+12
+9.2
+88
+67.2
+Tumor Size (cm)
+<.0001
+T1a,b (0-1.0)
+30
+8.6
+24
+6.9
+22
+6.3
+272
+78.2
+T1c (1.1-2.0)
+85
+16.9
+21
+4.2
+50
+10.0
+346
+68.9
+T2 (2.1-5.0)
+102
+23.9
+26
+6.1
+39
+9.1
+260
+60.9
+T3 (>5.0)
+24
+26.7
+7
+7.8
+5
+5.6
+54
+60.0
+T4
+22
+46.8
+6
+12.8
+2
+4.3
+17
+36.2
+Unknown
+22
+25.3
+6
+6.9
+9
+10.3
+50
+57.5
+Nodal status
+.3625
+Negative
+174
+19.1
+50
+5.5
+66
+7.2
+622
+68.2
+Positive
+101
+18.8
+37
+6.9
+54
+10.1
+344
+64.2
+Unknown
+10
+18.9
+3
+5.7
+7
+13.2
+33
+62.3
+Tumor grade
+<.0001
+Low
+10
+3.4
+1
+0.3
+11
+3.7
+272
+92.5
+Intermediate
+53
+9.3
+19
+3.3
+61
+10.7
+439
+76.8
+High
+207
+40.5
+62
+12.1
+49
+9.6
+193
+37.8
+Unknown
+15
+12.1
+8
+6.5
+6
+4.8
+95
+76.6
+TREATMENTb
+Chemotherapy
+<.0001
+Yes
+173
+60.7
+46
+51.1
+61
+48.0
+367
+36.7
+No
+112
+39.3
+44
+48.9
+66
+52.0
+632
+63.3
+Herceptin therapy
+<.0001
+Yes
+0
+0.0
+9
+10.0
+3
+2.4
+0
+0.0
+No
+285
+100.0
+81
+90.0
+124
+97.6
+999
+100.0
+Hormonal therapy
+<.0001
+Yes
+11
+3.9
+4
+4.4
+32
+25.2
+324
+32.4
+No
+274
+96.1
+86
+95.6
+95
+74.8
+675
+67.6
+(Continued)
+Original Article
+2554
+Cancer
+June 1, 2010
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Those whose tumors were not assayed for HER2
+were women aged >80 years, of Hispanic or other race/
+ethnicity, or with advanced disease. For older women,
+treatment for HER2þ tumors may more often be contra-
+indicated or not feasible. The lower assay prevalence
+among Hispanic and other race/ethnicities should be
+investigated further, as our study results could represent
+inherent sample size bias. Of concern, HER2 assay was
+less likely among those diagnosed with advanced stage dis-
+ease, a group that has been demonstrated to derive benefit
+from
+HER2directed
+therapies
+if
+diagnosed
+with
+HER2þ tumors.16
+The prevalence of HER2þ tumors was 15.0% if re-
+stricted to those for whom HER2 results were performed
+and interpretable. This falls within previously reported
+prevalences, which demonstrated that HER2 gene ampli-
+fication was present in 15%-30% of invasive breast can-
+cers and is present in most HER2 protein expressing
+tumors.40,41 The higher prevalence of HER2þ tumors
+among Hispanics and other race/ethnicity described
+herein have not been reported previously. Constrained by
+limited sample sizes, this merits investigation.
+We and others have reported the prevalence of breast
+cancer subtypes in a population-based setting,22,26 but we
+believe that ours is the first study to report incidence rates.
+Triple-negative tumor incidence rates differed markedly.
+Rates for black women were nearly double those for white
+women, regardless of age, and at the expense of the more
+treatable ERþ/PRþ/HER2 tumors. Regarding preva-
+lence, triple-negative tumors were most often diagnosed
+among young black women (28.1%), followed by black
+women aged 50 years (26.2%), white women aged <50
+years (14.8%), than white women aged 50 years
+(11.7%). In communion and contrast to the prevalences,
+triple-negative tumor incidence rates per 100,000 women
+were higher among black women overall, but highest for
+those black women aged 50 years (69.0) and lowest
+among white women aged <50 years (8.7). Why whites
+are particularly prone to the development of ERþ/PRþ/
+HER2 breast cancers, especially women aged 50 years,
+remains unknown.18 This is the major contributing factor
+to breast cancer rates being higher among white women
+than black women, but positively contributes to better
+outcome among white women, as these tumors are the
+most indolent and remain the most treatable, partly
+because of the development of targeted therapeutics.13-15
+Our incidence rates representing 2 large metropoli-
+tan Atlanta counties are comparable to the SEER 9 area
+US rates for the same time period among women aged
+50 years, but they are higher for women aged <50 years.
+Thus, the incidence rates we report can be cautiously ex-
+trapolated to an annual new burden of US triple-negative
+cases for 5000 black women and 16,000 white women
+and HER2þ breast cancers among approximately 3000
+and 17,000 respectively.
+The prevalence of triple-negative tumors we report
+is less than that in prior population-based studies, includ-
+ing the Carolina Breast Cancer Study (CBCS) and our
+Atlanta-based study of women aged <55 years diagnosed
+in the early 1990s.22,26 Unlike those studies, which based
+triple subtype prevalence partly or completely on central-
+ized testing, our current study reflects subtype status as
+documented in the clinical records from a variety of meth-
+odologies and sources. In the CBCS, Carey et al reported
+that premenopausal black women were most likely to
+present with triple-negative tumor (39%) versus 14%
+among premenopausal nonblack women, while equiva-
+lent 16% triple-negative tumor prevalences among
+Table 3. (Continued)
+Characteristic
+Triple
+Negative
+n5285
+ER-/PR-/
+HER21
+n590
+ER1/PR1/
+HER21
+n5127
+ER1/PR1/
+HER2-
+n5999
+P
+No.
+%
+No.
+%
+No.
+%
+No.
+%
+Radiation
+.1204
+Yes
+118
+41.4
+35
+38.9
+59
+46.5
+479
+48.0
+No
+167
+58.6
+55
+61.1
+68
+53.5
+520
+52.1
+Surgery
+.0031
+Yes
+254
+89.1
+78
+86.7
+112
+88.2
+939
+94.0
+No
+31
+10.9
+12
+13.3
+15
+11.8
+60
+6.0
+ER indicates estrogen receptor; PR, progesterone receptor; HER2, human epidermal growth factor receptor-2; SD, standard deviation; AJCC, American Joint
+Committee on Cancer; cm (centimeters).
+a % living below the federally defined poverty level.
+b Column percentages.
+HER2 Testing and Breast Cancer Subtypes/Lund et al
+Cancer
+June 1, 2010
+2555
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 5. Age-Adjusted Incidence Ratesa of Women Diagnosed With Breast Cancer by Triple Subtypes, Atlanta, GA, 2003-2004
+All Breast
+Cancers
+Triple
+Negative
+ER-/PR-/
+HER21
+ER1/PR1/
+HER21
+ER1/PR1/
+HER2-
+All women
+176.0
+27.8
+8.9
+12.2
+98.9
+White
+179.3
+19.4
+7.5
+12.6
+110.7
+Age <50
+66.3
+8.7
+3.2
+7.6
+37.7
+Age 501
+357.9
+36.4
+14.4
+20.5
+226.1
+Black
+171.2
+36.3
+10.0
+12.1
+86.7
+Age <50
+69.6
+15.7
+5.7
+7.4
+28.1
+Age 501
+331.8
+69.0
+16.9
+19.5
+179.2
+a Rates per 100,000 and age-adjusted to the 2000 US population census for Fulton-Dekalb counties.
+Table 4. Associations (Adjusted Odds Ratios and 95% Confidence Intervals) for Triple Phenotypes of Breast Cancer, Atlanta, GA,
+2003-2004
+Triple Negativea,b
+ER-/PR-/HER21a,b
+ER1/PR1/HER21a,b
+OR
+95% CI
+OR
+95% CI
+OR
+95% CI
+Race/ethnicity
+Black
+2.42
+1.69-3.49
+1.51
+0.87-2.62
+1.35
+0.87-2.07
+White
+1.00
+-
+1.00
+-
+1.00
+-
+Age, y
+<40
+1.56
+0.86-2.85
+1.81
+0.82-4.00
+1.38
+0.63-3.02
+40-49
+0.64
+0.41-1.01
+0.60
+0.31-1.17
+1.34
+0.81-2.21
+50-59
+1.00
+-
+1.00
+-
+1.00
+-
+60-69
+0.82
+0.52-1.30
+0.47
+0.22-1.00
+0.76
+0.42-1.35
+70-79
+1.09
+0.66-1.78
+0.83
+039-1.75
+0.67
+0.34-1.31
+‡80
+0.69
+0.35-1.34
+0.51
+0.18-1.43
+0.33
+0.12-0.86
+Menopausal surrogatec
+< 50 years at diagnosis
+0.90
+0.63-1.27
+1.12
+0.67-1.86
+1.74
+1.16-2.60
+150 years at diagnosis
+1.00
+-
+1.00
+-
+1.00
+-
+SESd
+‡20%
+2.35
+1.16-4.76
+1.12
+0.51-2.49
+0.69
+0.35-1.37
+5<10%
+1.10
+0.63-1.91
+1.33
+0.70-2.55
+0.91
+0.53-1.55
+10<20%
+0.97
+0.67-1.40
+0.97
+0.49-1.92
+1.08
+0.66-1.77
+<5%
+1.00
+-
+1.00
+-
+1.00
+-
+AJCC stagee
+IV
+2.35
+1.16-4.76
+1.30
+0.45-3.74
+1.33
+.050-3.53
+III
+1.10
+0.63-1.91
+1.05
+0.49-2.25
+0.73
+0.33-1.61
+II
+0.97
+0.67-1.40
+0.71
+0.40-1.24
+1.04
+0.67-1.62
+I
+1.00
+-
+1.00
+-
+1.00
+-
+Tumor grade
+High
+25.96
+13.19-51.12
+81.32
+1.04-598.94
+5.56
+2.76-11.20
+Intermediate
+3.11
+1.54-6.29
+11.80
+1.56-89.19
+3.33
+1.70-6.51
+Low
+1.00
+-
+1.00
+-
+1.00
+-
+ER, estrogen receptor; PR, progesterone receptor; HER2, human epidermal growth factor receptor-2; OR, odds ratio; CI, confidence interval; SES, socioeco-
+nomic status; AJCC, American Joint Committee on Cancer.
+a Referent ¼ ERþ/PRþ/HER2-.
+b Unknown categories were kept in the logistic models to maintain power but are not presented.
+c Age at diagnosisrepaced with two age groups representing menopausal surrogates.
+d % living below the federally defined poverty level.
+e Replacing AJCC stage with T, N, and M produced similar results.
+Original Article
+2556
+Cancer
+June 1, 2010
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+postmenopausal
+black
+and
+nonblack
+women
+were
+observed. Similarly, in our prior Atlanta-based study, tri-
+ple-negative
+tumor
+prevalence
+significantly
+differed
+between black women and white women, 47% versus
+22%, respectively.26 The 19.0% prevalence of triple-nega-
+tive tumors we currently report, with the corresponding
+racial dissimilarities (26.8% black, 17.2% Hispanic, and
+12.4%, white), falls between the prior studies and that of
+a cancer registry study conducted in California.21
+Although missing nearly 45% of the data to construct sub-
+types, the California study reported a 12.5% triple-nega-
+tive tumor prevalence, which differed by race (24.6%
+black, 17.2% Hispanic, and 10.8% white). When we sep-
+arately analyzed women using an age 50 cutpoint, we did
+not find marked differences in triple-negative tumor prev-
+alence (22% vs 18%). This contrasts with prior reports of
+higher triple-negative tumor prevalence among premeno-
+pausal women.22,26 The recent decline in ERþ/PRþ
+tumors among postmenopausal women observed in 2003
+and sustained in 2004, making our two age groups more
+similar, may partially account for the study differences, as
+could the use of clinical-based, rather than centralized,
+assay. Despite lack of differences by age groups, our find-
+ings that black woman were at a 2.42 greater odds of being
+diagnosed with triple-negative tumors, after adjustment
+for age, stage, grade, and SES, are concordant with previ-
+ous population-based studies: the CBCS study (OR, 2.1),
+our prior Atlanta-based study (OR, 1.9), and a California
+study (OR, 1.77).21,22,26 Similar to the California study,
+we found that living at the lowest poverty level was inde-
+pendently associated with triple-negative tumors, an asso-
+ciation not noted in the other tumor subtypes.
+Our data indicate that for the most part, treatment
+based on triple subtypes is concordant with recommended
+guidelines. More comprehensive investigations, including
+specific regimens, would help to define treatment patterns
+and lead to more informed decisions for selection of effec-
+tive treatments.
+We acknowledge strengths and limitations. Triple
+subtype status was available for only 84% of cases, but this
+84% reflects the most complete representation of any
+population-based study, to date. Also, we compared the
+populations with versus without subtype information and
+found no differences in the variables presented. Biomarker
+status in our study represents a variety of testing methods
+and sources, rendering them more subject to intercorrela-
+tion and intracorrelation error. However, our study more
+accurately reflects their use in a clinical setting. Represen-
+tation of Hispanic and other race/ethnicities remains
+sparse in metropolitan Atlanta, rendering comprehensive
+subtype analyses problematic. Without knowledge of epi-
+dermal growth factor receptor and CK5-6 expression,
+some ‘‘unclassified’’ or normal-like tumors as described by
+Sorlie and Perou et al6,24 could be misclassified as triple-
+negative tumors, and we do not know how many. We also
+did not capture the testing methods for HER2 by IHC
+(eg, DAKO, Herceptest, CB11, or Homebrew) or by
+FISH (eg, Vysis Pathyvision or Ventana).35 Furthermore,
+population-based registries (including that from which
+our data were derived) do not collect information on the
+method of breast cancer detection, ie, screening or symp-
+tomatic. Thus, the racial differences we present could, in
+part, represent differences in access to screening mam-
+mography, which can impact stage at diagnosis and other
+tumor prognostic factors, thereby potentially influencing
+triple subtype status. However, for our study time period,
+comparable mammography screening rates for black and
+white women overall and within age groups have been
+documented at the national level.42,43 Also, we have previ-
+ously reported racial differences in triple subtypes within
+stage groups,26 and it is acknowledged that tumors with
+more aggressive biology (eg, triple-negative tumor) tend
+to be diagnosed as interval cancers, that is, they are likely
+to be detected in intervals between recommended screen-
+ing guidelines.44 In contrast, nonelderly women (aged
+<65 years) who lack health insurance (a potential surro-
+gate for those living in impoverished areas) are half as
+likely to undergo mammography.42 These studies com-
+bined with our current study, which found that race and
+SES were both independent predictors of subtypes, sug-
+gest that race itself is a contributing factor. Finally, gener-
+alizing our findings to other populations is limited.
+In conclusion, rapid clinical integration of HER2
+recommendations in metropolitan Atlanta is widespread,
+though not equivalently applied. Collecting HER2 infor-
+mation is reasonably achievable. As biologic knowledge is
+translated into the clinical setting and in that treatment,
+efficacy is biologically driven, it will be incumbent upon
+our national and state cancer registries to integrate this
+knowledge into their reporting schema and to improve
+upon collection of current standard clinical biomarkers,
+eg, collection of ER and PR status needs improvement,
+particularly among state cancer registries that currently do
+not require their reporting.45 The assay methods and
+numeric results should also be captured. HER2 profiles
+do not differ by SES or black/white race/ethnicity, but
+black women, and perhaps Hispanic women, are more
+likely to be diagnosed with triple-negative tumors, which
+HER2 Testing and Breast Cancer Subtypes/Lund et al
+Cancer
+June 1, 2010
+2557
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+have no effective targeted therapies and bode a poor prog-
+nosis.40,46 Thus, the subtypes that racial/ethnic groups
+present with may partially account for differences in out-
+come.47 The annual new burden of triple-negative tumor
+cases of 5000 and 16,000 for black and white women,
+respectively, a larger burden than HER2þ breast cancers
+(particularly for black women), exemplifies the need for
+identifying effective therapies. Clinical trials are currently
+underway. Ample minority inclusion should be a priority.
+Our findings, in conjunction with others, demonstrate
+the critical importance of race/ethnicity and age in ascer-
+taining varying etiologies and outcomes. Sociodemo-
+graphic factors are clearly implicated in the historically
+poor outcomes observed for black and other minority
+women. However, future studies should seek to determine
+and translate biological mechanisms, with ample study
+size and minority representation, to adequately assess
+these relationships and ultimately improve risk and
+outcome.
+CONFLICT OF INTEREST DISCLOSURES
+The authors made no disclosures.
+REFERENCES
+1. American Cancer Society. Cancer Facts and Figures 2009.
+Atlanta, Ga: American Cancer Society; 2009.
+2. Amend K, Hicks D, Ambrosone C. Breast cancer in Afri-
+can-American women: differences in tumor biology from
+European-American
+women.
+Cancer
+Res.
+2006;66:8327-
+8330.
+3. Andre F, Pusztai L. Molecular classification of breast cancer:
+implications for selection of adjuvant chemotherapy. Nat
+Clin Pract Oncol. 2006;33:621-632.
+4. Chlebowski RT, Chen Z, Anderson GL, et al. Ethnicity and
+breast cancer: factors influencing differences in incidence
+and outcome. J Natl Cancer Inst. 2005;97:439-448.
+5. Cleator S, Ashworth A. Molecular profiling of breast cancer:
+clinical implications. Br J Cancer. 2004;90:1120-1124.
+6. Sorlie T. Molecular portraits of breast cancer: tumour sub-
+types as distinct disease entities. Eur J Cancer. 2004;40:
+2667-2675.
+7. Sotiriou C, Wirapati P, Loi S, et al. Gene expression profil-
+ing in breast cancer: understanding the molecular basis of
+histologic grade to improve prognosis. J Natl Cancer Inst.
+2006;98:262-272.
+8. van’t Veer LJ, Dai H, van de Vijver MJ, et al. Gene expres-
+sion profiling predicts clinical outcome of breast cancer. Na-
+ture. 2002;415:530-536. Comment in: Nature. 2002;415:
+484-485
+9. van de Vijver MJ, He YD, van’t Veer LJ, et al. A gene-
+expression signature as a predictor of survival in breast can-
+cer. N Engl J Med. 2002;347:1999-2009.
+10. Bast RC,
+Jr., Ravdin P, Hayes DF, et al. 2000 update of
+recommendations for the use of tumor markers in breast
+and colorectal cancer: clinical practice guidelines of the
+American Society of Clinical Oncology. J Clin Oncol.
+2001;19:1865-1878.
+11. Havener L, Hulstrom D. Standards for Cancer Registries
+Volume II: Data Standards and Data Dictionary, Eleventh
+Edition, Version 11.1. Springfield, Ill: North American
+Association of Central Cancer Registries; 2006.
+12. Johnson CH, Adamo M. SEER Program Coding and Stag-
+ing Manual. Bethesda, Md: National Cancer Institute;
+2007. NIH publication no. 07-5581.
+13. National Comprehensive Cancer Center Clinical Practice
+Guidelines in Oncology, Breast Cancer Version 2. 2006.
+Available at: http://www.nccn.org/professionals/physician_gls/
+PDF/breast.pdf.
+14. Goldhirsch A, Glick JH, Gelber RD, Coates AS, Senn HJ.
+Meeting highlights: International Consensus Panel on the
+Treatment of Primary Breast Cancer. Seventh International
+Conference on Adjuvant Therapy of Primary Breast Cancer.
+J Clin Oncol. 2001;19:3817-3827.
+15. Goldhirsch A, Wood WC, Gelber RD, et al. Meeting high-
+lights: updated international expert consensus on the pri-
+mary therapy of early breast cancer. J Clin Oncol. 2003;
+21:3357-3365.
+16. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus
+adjuvant chemotherapy for operable HER2-positive breast
+cancer. N Engl J Med. 2005;353:1673-1684.
+17. Slamon DJ, Romond EH, Perez EA, et al. Advances in ad-
+juvant therapy for breast cancer. Clin Adv Hematol Oncol.
+2006;4(3 suppl 7) suppl 1, 4-9.
+18. Anderson WF, Jatoi I, Devesa SS. Distinct breast cancer
+incidence and prognostic patterns in the NCI’s SEER pro-
+gram: suggesting a possible link between etiology and out-
+come. Breast Cancer Res Treat. 2005;90:127-137.
+19. Loprinzi CL, Thome SD. Understanding the utility of adju-
+vant systemic therapy for primary breast cancer. J Clin
+Oncol. 2001;19:972-979.
+20. Abd El-Rehim DM, Ball G, Pinder SE, et al. High-through-
+put protein expression analysis using tissue microarray tech-
+nology
+of
+a
+large
+well-characterised
+series
+identifies
+biologically distinct classes of breast cancer confirming
+recent cDNA expression analyses. Int J Cancer. 2005;116:
+340-350.
+21. Bauer KR, Brown M, Cress RD, et al. Descriptive analysis
+of estrogen receptor (ER)-negative, progesterone receptor
+(PR)-negative, and HER2-negative invasive breast cancer,
+the so-called triple-negative phenotype: A population-based
+study from the California cancer Registry. Cancer. 2007;
+109:1721-1728
+22. Carey LA, Perou CM, Livasy CA, et al: Race, breast cancer
+subtypes, and survival in the Carolina Breast Cancer Study.
+JAMA. 2006;295:2492-2502.
+23. Cleator S, Heller W, Coombes RC. Triple-negative breast
+cancer: therapeutic options. Lancet Oncol. 2007;8:235-244.
+24. Sorlie T, Perou CM, Tibshirani R, et al. Gene expression
+patterns of breast carcinomas distinguish tumor subclasses
+with clinical implications. Proc Natl Acad Sci USA. 2001;
+98:10869-10874.
+25. Haffty BG, Yang Q, Reiss M, et al. Locoregional relapse
+and distant metastasis in conservatively managed triple nega-
+tive early-stage breast cancer. J Clin Oncol. 2006;24:5652-
+5657.
+26. Lund MJ, Trivers KL, Porter PL, et al: Race and triple neg-
+ative threats to breast cancer survival. Breast Cancer Res
+Treat. 2009;113:357-370.
+Original Article
+2558
+Cancer
+June 1, 2010
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+27. Gwyn K, Bondy ML, Cohen DS, et al. Racial differences in
+diagnosis, treatment, and clinical delays in a population-
+based study of patients with newly diagnosed breast carci-
+noma. Cancer. 2004;100:1595-1600.
+28. Li CI, Malone KE, Daling JR. Differences in breast cancer
+stage, treatment, and survival by race and ethnicity. Arch In-
+tern Med. 2003;163:49-56.
+29. Bickell NA, Wang JJ, Oluwole S, et al. Missed opportuni-
+ties: racial disparities in adjuvant breast cancer treatment.
+J Clin Oncol. 2006;24:1357-1362.
+30. Lund MJ, Brawley OW, Ward KC, et al. Parity and dispar-
+ity in first course treatment of invasive breast cancer. Breast
+Cancer Res Treat. 2008;109:545-557.
+31. Porter PL, Lund MJ, Lin MG, et al. Racial differences in
+expression of cell cycle regulatory proteins in breast cancer:
+Study of young African American and white women in
+Atlanta. Cancer. 2004;100:2533-2542.
+32. Shavers VL, Harlan LC, Stevens JL. Racial/ethnic variation in
+clinical presentation, treatment, and survival among breast
+cancer patients under age 35. Cancer. 2003;97:134-147.
+33. Chu KC, Anderson WF, Fritz A, et al. Frequency distribu-
+tions of breast cancer characteristics classified by estrogen re-
+ceptor and progesterone receptor status for eight racial/
+ethnic groups. Cancer. 2001;92:37-45.
+34. SecureAction. Advanced Encryption Package 2007. Available
+at: http://www.secureaction.com. Accessed on February 4,
+2007.
+35. Wolff AC, Hammond MEH, Schwartz JN, et al. American
+Society of Clinical Oncology/College of American Patholo-
+gists
+guideline
+recommendations
+for
+human
+epidermal
+growth factor receptor 2 testing in breast cancer. J Clin
+Oncol. 2007;25:118-145.
+36. US Bureau of the Census. Census of population and hous-
+ing: 2000 [summary file 3, technical documentation]. Wash-
+ington, DC: US Bureau of the Census; 2002.
+37. Krieger N, Chen JT, Waterman PD, et al. Race/ethnicity,
+gender, and monitoring socioeconomic gradients in health:
+a comparison of area-based socioeconomic measures—the
+public health disparities geocoding project. Am J Public
+Health. 2003;93:1655-1671.
+38. US Bureau of the Census. Poverty areas. Available at: http://
+www.census.gov/hhes/www/poverty/definitions.html.
+Accessed on August 5, 2007.
+39. Bilous M, Dowsett M, Hanna W, et al. Current perspec-
+tives on HER2 testing: a review of national testing guide-
+lines. Mod Pathol. 2003;16:173-182.
+40. Sorlie T, Tibshirani R, Parker J, et al. Repeated observation
+of breast tumor subtypes in independent gene expression
+data sets. Proc Natl Acad Sci USA. 2003;100:8418-8423.
+41. Sorlie T, Wang Y, Xiao C, et al. Distinct molecular mecha-
+nisms underlying clinically relevant subtypes of breast can-
+cer: gene expression analyses across three different platforms.
+BMC Genomics. 2006;7:127.
+42. Smith RA, Cokkinides V, Brawley OW. Cancer screening
+in the United States, 2009: a review of current American
+Cancer Society guidelines and issues in cancer screening. CA
+Cancer J Clin. 2009;59:27-41.
+43. National Health Interview Survey. National Center for
+Health Statistics (NCHS), Centers for Disease Control and
+Prevention, 2004. Available at: http://www.icpsr.umich.edu/
+icpsrweb/ICPSR/studies/04349.
+44. Dent R, Trudeau M, Pritchard KI, et al. Triple-negative
+breast cancer: clinical features and patterns of recurrence.
+Clin Cancer Res. 2007;13(15 pt 1):4429-4434.
+45. Center for Disease Control. National Program for Cancer
+Registries;
+2009
+NPCR-CSS
+Submission
+Specifications.
+Available at: http://www.cdc.gov/cancer/npcr/.
+46. Sotiriou C, Neo SY, McShane LM, et al. Breast cancer clas-
+sification and prognosis based on gene expression profiles
+from a population-based study. Proc Natl Acad Sci USA.
+2003;100:10393-10398.
+47. Schneider BP, Winer EP, Foulkes WD et al. Triple-negative
+breast cancer: risk factors to potential targets. Clin Cancer
+Res. 2008;14:8010-8017.
+HER2 Testing and Breast Cancer Subtypes/Lund et al
+Cancer
+June 1, 2010
+2559
+ 10970142, 2010, 11, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.25016 by Pusan National University, Wiley Online Library on [10/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -1,0 +1,25 @@
+{
+  "mode": "multi",
+  "pubmed": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast carcinoma\"[tiab]) AND (race[ti] OR racial[ti] OR ethnic*[ti] OR minorit*[ti] OR disparit*[ti] OR Black[ti] OR Hispanic[ti] OR White[ti] OR Asian[ti] OR \"African American\"[ti] OR \"Racial Groups\"[Mesh] OR \"Ethnicity\"[Mesh] OR \"Health Status Disparities\"[Mesh]) AND (incidence[ti] OR \"incidence rate\"[tiab] OR \"age-adjusted\"[tiab] OR \"age-standardized\"[tiab] OR \"Incidence\"[Mesh]) AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] NOT (review[pt] OR \"case reports\"[pt] OR comment[pt] OR editorial[pt] OR letter[pt])",
+  "cochrane": "#1 MeSH descriptor: [Breast Neoplasms] explode all trees\n#2 (breast cancer or breast neoplasm*):ti,ab,kw\n#3 #1 OR #2\n#4 MeSH descriptor: [Racial Groups] explode all trees\n#5 MeSH descriptor: [Healthcare Disparities] explode all trees\n#6 (African American* or Black or Hispanic* or Latina* or Latino* or Asian American* or Pacific Islander* or \"American Indian*\" or \"Alaska Native*\" or \"non-Hispanic white*\" or Caucasian* or \"racial disparit*\" or \"ethnic disparit*\" or \"race/ethnicity\"):ti,ab,kw\n#7 #4 OR #5 OR #6\n#8 MeSH descriptor: [Incidence] explode all trees\n#9 (incidence or \"age-adjusted\" or SEER or registry or registries or \"population-based\"):ti,ab,kw\n#10 #8 OR #9\n#11 (cohort or \"cross-sectional\" or \"registry-based\" or observational):ti,ab,kw\n#12 #3 AND #7 AND #10 AND #11\n#13 #12 with Cochrane Library publication date from Jan 2000 to Dec 2025, in Cochrane Reviews, CENTRAL and Other Reviews (Note: CENTRAL yield expected to be low/near-zero for this observational epidemiology topic; searched for completeness per PRISMA)",
+  "embase": "1. 'breast cancer'/exp OR 'breast tumor'/exp OR (breast AND (cancer OR neoplasm* OR carcinoma*)):ti,ab\n2. 'race'/exp OR 'ethnic group'/exp OR 'health care disparity'/exp OR 'health disparity'/exp\n3. (African NEAR/1 American*):ti,ab OR black:ti,ab OR hispanic*:ti,ab OR latina*:ti,ab OR latino*:ti,ab OR (asian NEAR/1 american*):ti,ab OR 'pacific islander*':ti,ab OR (american NEAR/1 indian*):ti,ab OR (alaska NEAR/1 native*):ti,ab OR (non NEXT/1 hispanic NEXT/1 white*):ti,ab OR caucasian*:ti,ab OR ('racial disparit*' OR 'ethnic disparit*' OR 'race/ethnicity'):ti,ab\n4. 2 OR 3\n5. 'incidence'/exp OR 'cancer incidence'/exp OR 'cancer registry'/exp OR seer:ti,ab OR registry:ti,ab OR registries:ti,ab OR (age NEXT/1 adjusted):ti,ab OR 'population based':ti,ab\n6. 'cohort analysis'/exp OR 'cross-sectional study'/exp OR 'observational study'/exp OR cohort:ti,ab OR 'cross-sectional':ti,ab OR observational:ti,ab\n7. 1 AND 4 AND 5 AND 6\n8. 7 AND [2000-2025]/py\n9. 8 AND ([english]/lim OR [korean]/lim) AND [humans]/lim NOT ([conference abstract]/lim OR [randomized controlled trial]/exp)",
+  "mesh_terms": [
+    "Women[Mesh]",
+    "Racial Groups[Mesh]",
+    "Continental Population Groups[Mesh]",
+    "Ethnic Groups[Mesh]",
+    "Black or African American[Mesh]",
+    "Hispanic or Latino[Mesh]",
+    "Asian Americans[Mesh]",
+    "American Indian or Alaska Native[Mesh]",
+    "Healthcare Disparities[Mesh]",
+    "Health Status Disparities[Mesh]",
+    "White People[Mesh]",
+    "Breast Neoplasms[Mesh]",
+    "Incidence[Mesh]",
+    "SEER Program[Mesh]",
+    "Registries[Mesh]",
+    "Population Surveillance[Mesh]"
+  ],
+  "total_records": 664
+}

@@ -1,0 +1,1600 @@
+record_id=93 pmid=30972520 doi=10.1007/s10552-019-01168-0
+SOURCE: manual-pdf
+TITLE: Disparities in breast cancer subtypes among women in the lower Mississippi Delta Region states
+
+Vol.:(0123456789)
+1 3
+Cancer Causes & Control (2019) 30:591–601 
+https://doi.org/10.1007/s10552-019-01168-0
+ORIGINAL PAPER
+Disparities in breast cancer subtypes among women in the lower 
+Mississippi Delta Region states
+Whitney E. Zahnd1,2 · Recinda L. Sherman3 · Hillary Klonoff‑Cohen4 · Sara L. McLafferty5 · Susan Farner4 · 
+Karin A. Rosenblatt4
+Received: 25 August 2018 / Accepted: 5 April 2019 / Published online: 10 April 2019 
+© Springer Nature Switzerland AG 2019
+Abstract
+Purpose  To describe and elucidate rates in breast cancer incidence by subtype in the federally designated Mississippi Delta 
+Region, an impoverished region across eight Southern/Midwest states with a high proportion of Black residents and notable 
+breast cancer mortality disparities.
+Methods  Cancer registry data from seven LMDR states (Missouri was not included because of permission issues) were used 
+to explore breast cancer incidence differences by subtype between the LMDR’s Delta and non-Delta Regions and between 
+White and Black women within the Delta Region (2012–2014). Overall and subtype-specific age-adjusted incidence rates 
+and rate ratios were calculated. Multilevel negative binomial regression models were used to evaluate how individual-level 
+and area-level factors, like race/ethnicity and poverty level, respectively, affect rates of breast cancers by subtype.
+Results  Women in the Delta Region had higher rates of triple-negative breast cancer, the most aggressive subtype, than 
+women in the non-Delta (17.0 vs. 14.4 per 100,000), but the elevated rate was attenuated to non-statistical significance in 
+multivariable analysis. Urban Delta women also had higher rates of triple-negative breast cancer than non-Delta urban 
+women, which remained in multivariable analysis. In the Delta Region, Black women had higher overall breast cancer rates 
+than their White counterparts, which remained in multivariable analysis.
+Conclusion  Higher rates of triple-negative breast cancer in the Delta Region may help explain the Region’s mortality dispar-
+ity. Further, an important area of future research is to determine what unaccounted for individual-level or social area-level 
+factors contribute to the elevated breast cancer incidence rate among Black women in the Delta Region.
+Keywords  Breast cancer · Triple-negative · Cancer disparities
+Electronic supplementary material  The online version of this 
+article (https​://doi.org/10.1007/s1055​2-019-01168​-0) contains 
+supplementary material, which is available to authorized users.
+ *	 Whitney E. Zahnd 
+	
+zahnd@mailbox.sc.edu
+	
+Recinda L. Sherman 
+	
+rsherman@naaccr.org
+	
+Hillary Klonoff‑Cohen 
+	
+klonoffc@illinois.edu
+	
+Sara L. McLafferty 
+	
+smclaff@illinois.edu
+	
+Susan Farner 
+	
+sfarner@illinois.edu
+	
+Karin A. Rosenblatt 
+	
+krosenbl@illinois.edu
+1	
+Rural & Minority Health Research Center, Arnold School 
+of Public Health, University of South Carolina, 220 
+Stoneridge Suite 204, Columbia, SC 29210, USA
+2	
+Department of Health Services Policy & Management, 
+Arnold School of Public Health, University of South 
+Carolina, 915 Greene Street, Columbia, SC 29208, USA
+3	
+North American Association of Central Cancer Registries, 
+2050 W. Iles Suite A, Springfield, IL 62704, USA
+4	
+Department of Kinesiology and Community Health, 
+University of Illinois Urbana-Champaign, 1206 S. Fourth St., 
+Champaign, IL 61820, USA
+5	
+Department of Geography and Geographic Information 
+Science, University of Illinois Urbana-Champaign, 
+1301 W. Green St., Urbana, IL 61801, USA
+
+592
+	
+Cancer Causes & Control (2019) 30:591–601
+1 3
+Introduction
+The Delta Regional Authority (Delta Region, Supplemen-
+tal Fig. 1) is a federally designated region that includes 
+252 counties in the eight Lower Mississippi Delta Region 
+(LMDR) of Alabama, Arkansas, Illinois, Kentucky, Loui-
+siana, Mississippi, Missouri, and Tennessee. More than a 
+third of residents in the Delta Region are Black, and more 
+than 20% of the population live in poverty [1]. Addition-
+ally, this region is largely rural and has limited access to 
+healthcare services [2, 3]. These factors make the Region 
+vulnerable to a myriad of health disparities, including 
+breast cancer disparities. Women in the Delta Region 
+have higher rates of breast cancer mortality than women 
+in the rest of the country, including nine of the ten highest 
+county-level breast cancer mortality rates [4, 5]. Further, 
+Black women in the Delta Region have a higher breast 
+cancer mortality rate than White women in the Region and 
+a higher mortality rate than Black women in other parts of 
+the country [4]. One recent study found that in six LMDR 
+states, Black women had higher breast cancer incidence 
+rates than White women [6]. There is limited research on 
+what factors contribute to these mortality disparities and 
+how breast cancer incidence is distributed within the Delta 
+and non-Delta Regions of the LMDR states and by race 
+within the Delta Region.
+Breast cancer can be classified into four molecular sub-
+types based upon the presence or absence of two broad 
+tumor characteristics—hormone (i.e., estrogen and proges-
+terone) receptor (HR) and human epidermal growth fac-
+tor 2 (HER2) status: (1) HR+/HER2−; (2) HR+/HER2+; 
+(3) HR−/HER+; (4) HR−/HER2− (“triple-negative”) 
+[7]. Breast cancer subtypes play a role in cancer’s aggres-
+siveness and, in addition to stage at diagnosis and nodal 
+status, inform the use of chemotherapy and targeted drug 
+treatments [8]. HR+ cancers have a better prognosis and 
+more comprehensive treatment options than HR− cancers 
+[8–10]. Triple-negative breast cancer is the most aggressive 
+and has limited treatment options [8]. While central cancer 
+registries have been required to collect HR status since 
+1990, HER2 status has only been required since 2010 [7]. 
+Therefore, population-based assessment of the distribution 
+of breast cancer by subtype is burgeoning but still limited.
+Risk of breast cancer by subtype varies by race/eth-
+nicity, age, socioeconomic status, and geography. Mul-
+tiple studies indicate that Black women have higher risk 
+of HR- breast cancers compared to White women, even 
+after controlling for other factors [11, 12]. Meanwhile, 
+White women have higher rates of the HR+/HER2− can-
+cers than other racial/ethnic groups [13]. Women under the 
+age of 50 are at greater risk for HR− breast cancers [14, 
+15]. Although the relationship between HR− cancers and 
+socioeconomic status is unclear in current studies, some 
+have suggested that the poverty may be a social factor 
+facilitating angiogenesis and other biological processes 
+related to cancer growth, especially amongst Black women 
+[16–20]. The incidence of each breast cancer subtype var-
+ies by geographic region: HR+/HER2− cancers cluster in 
+the Northeast, and triple-negative cancers cluster in the 
+South and Midwest [7, 16].
+The Delta Region’s sociodemographic composition sug-
+gests it may have higher incidence rates of triple-negative 
+cancers that may contribute to the breast cancer mortality 
+disparity. Therefore, our objective was threefold. First, we 
+described the subtype-specific incidence rates of breast can-
+cer in the Delta Region compared to those in the non-Delta 
+Region of the LMDR states. Second, we determined how 
+subtype-specific incidence rates differ between White and 
+Black women within the Delta Region. Thirdly, we deter-
+mined how the differences in these subtype rates may be 
+explained by individual-level and area-level factors, like age 
+and county-level poverty rates, respectively.
+Methods
+Cancer incidence data
+We used data from the North American Association of Cen-
+tral Cancer Registries (NAACCR) Cancer in North America 
+Deluxe File [21]. This file provided individual-level data on 
+all breast cancer cases diagnosed between 2012 and 2014 
+in seven LMDR States (Alabama, Arkansas, Illinois, Ken-
+tucky, Louisiana, Mississippi, and Tennessee). Missouri’s 
+registry did not provide the necessary consent for their data 
+to be used.
+Inclusion/exclusion criteria aimed to optimize the accu-
+racy of rate calculations and data quality for breast cancer 
+subtype analyses as guided by previous study [13]. Cases 
+included all invasive female breast cancers, but excluded his-
+tology codes indicative of mesothelioma, Kaposi’s sarcoma, 
+or leukemia/lymphoma and cases missing on race/ethnic-
+ity and county of residence, cases 85+ years of age, and/or 
+cases reported by death certificate, autopsy report, nursing 
+home, or hospice. Using collaborative staging site-specific 
+factors and guidance from previous registry-based studies, 
+molecular subtypes of breast cancer cases were categorized: 
+(1) HR+/HER2−; (2) HR+/HER2+; (3) HR−/HER2+; (4) 
+HR−/HER2− (triple-negative); (5) unknown [11]. Follow-
+ing the precedent of previous cancer registry analyses, estro-
+gen receptor (ER) and progesterone receptor (PR) were con-
+sidered jointly as a cancer case’s HR status [9, 11, 12, 17]. 
+ER+ and/or PR+ or borderline status were considered HR+; 
+cases that were ER− and PR− were considered HR−. HER2 
+cases that were borderline were considered unknown. Cases 
+
+593
+Cancer Causes & Control (2019) 30:591–601	
+1 3
+for which status was otherwise unknown or had no testing 
+documented or performed were considered of unknown 
+subtype.
+Area‑level data
+County-level variables were extracted from the American 
+Community Survey (ACS), National Cancer Institute (NCI), 
+United States Department of Agriculture (USDA), and the 
+Area Health Resource File (AHRF) [22–25]. 2010–2014 
+ACS county-level estimates of % living in poverty, median 
+household income, % with at least a high school education, 
+and % of the population that identify as Black were extracted 
+[22]. USDA’s Rural–Urban Continuum Codes characterized 
+rural and urban counties by a county’s population size and 
+adjacency to a metropolitan area (urban = 1–3; rural = 4–9) 
+[23]. NCI’s State Cancer Profile provided county-level mod-
+eled estimates of the percentage of women aged 40+ who 
+had a mammogram in the past 2 years [24]. County-level 
+number of primary care physicians per 100,000 (i.e., pro-
+vider density) were extracted from the AHRF [25].
+Age‑adjusted incidence rates and rate ratio 
+calculations
+We calculated age-adjusted incidence rates (IR) and rate 
+ratios (RR) with 95% confidence intervals for all invasive 
+breast cancers combined, individual subtypes, and unknown 
+subtype by Delta and non-Delta Region status. Stratified 
+analyses were performed by race/ethnicity, rural–urban sta-
+tus, and % in poverty. We also calculated age-specific rates 
+for all invasive breast cancers combined and across subtype 
+groups by Delta Region status. Additional IR and RR cal-
+culations were performed to evaluate racial, rural–urban, 
+and poverty level differences within the Delta Region spe-
+cifically. These analyses were performed using SEER*Stat 
+8.4.3.
+Multilevel regression models
+Proc GLIMMIX in SAS 9.4 was used to construct multilevel 
+regression models to calculate RRs for all breast cancers, 
+each subtype individually, and breast cancers of unknown 
+subtype as a means of comparing the Delta Region to the 
+non-Delta Region overall and stratified by race/ethnicity, 
+rural–urban status, and poverty level. Parallel analyses were 
+performed examining solely Delta Region cases to assess 
+race/ethnic, rural–urban, and poverty level differences 
+within the Region.
+Because counts were overdispersed for all breast can-
+cers combined, each individual subtype, and for cancers of 
+unknown subtype, we constructed multilevel negative bino-
+mial regression models. For these models, analyses cells 
+were constructed containing the number of cases in each 
+county within each analysis cell, which were divided by age 
+(< 50 years of age and 50+ years of age) and race/ethnicity 
+(Non-Hispanic White, Non-Hispanic Black, and Hispanic/
+Non-Hispanic/Other). Analysis groups were divided at age 
+50 because it is the age at which estrogen receptor-negative 
+cancer rates peak; it can be used as a proxy age for meno-
+pause; and it is the recommended initiation age for mam-
+mography for women of average risk [26–28]. County was 
+included in all models as both a random and a fixed effect 
+and analysis cells were considered in all models as fixed 
+effects. Age and race/ethnicity-specific rates were calculated 
+for the entire geographic area of our study to estimate the 
+expected counts for each analysis cell. The natural log of 
+these expected counts was included in each model as an 
+offset variable.
+We used sociodemographic factors identified in previ-
+ous research as area-level variables to be considered in the 
+multivariable regression model building process [29]. These 
+factors may explain incidence rate differences between the 
+Delta and non-Delta Regions within the seven LMDR 
+states. Because sociodemographic variables are often col-
+linear, correlations among these variables were assessed 
+and were indeed found to be strong. Therefore, only one 
+sociodemographic variable was included in the model—pov-
+erty level—as poverty has been considered the most robust 
+socioeconomic variable for measuring inequalities in cancer 
+incidence [30]. Other area-level variables included in the 
+analysis were rural–urban status, provider density, and mam-
+mography utilization. Provider density proved to be non-
+significant in all models and caused poorer goodness of fit as 
+measured by the Akaike Information Criterion, and therefore 
+was excluded in final models. Exponentials of resultant coef-
+ficients were used to estimate RRs.
+Results
+A total of 82,223 invasive breast cancer cases were diag-
+nosed in these seven LMDR states between 2012 and 2014. 
+Among these cases, 19,334 (23.5%) occurred in the Delta 
+Region, and 62,889 (76.5%) occurred in the non-Delta 
+Region. Supplementary Table 1 summarizes the distribution 
+of subtypes by sociodemographic characteristics.
+For all breast cancer cases, the IR was lower in the Delta 
+Region (IR = 116.2 per 100,000) compared to the non-
+Delta Region (IR = 120.8; RR = 0.96; 95% CI 0.95–0.98) 
+(Table 1). The rates of all breast cancers combined and strat-
+ified by age (< 50 or 50+ years of age) were higher in the 
+non-Delta Region for both stratifications. When rates were 
+stratified by race/ethnicity, non-Hispanic White women in 
+the Delta Region had a statistically significantly lower rate 
+of breast cancer than non-Delta White women (RR = 0.92; 
+
+594
+	
+Cancer Causes & Control (2019) 30:591–601
+1 3
+95% CI 0.91–0.94). The Delta Region had statistically sig-
+nificantly lower rates of both HR+/HER2+ (RR = 0.93; 
+95% CI 0.88–0.98) and HR+/HER2− (RR = 0.88; 95% 
+CI 0.86–0.90) breast cancers than the non-Delta Region. 
+Non-Hispanic Black Delta women (RR = 0.93; 95% CI 
+0.88–0.97) had statistically significantly lower rates of HR+/
+HER2− cancers than those in the non-Delta Region, as did 
+non-Hispanic White women (RR = 0.88; 95% CI 0.86–0.90).
+Women in the Delta Region (IR = 17.0) had statistically 
+significantly higher rates of triple-negative breast cancer 
+than non-Delta Region women (IR = 14.4) (RR = 1.18; 
+95% CI 1.13–1.24) (Table 2). In stratified analyses, the 
+greatest rate difference was among Delta women under 
+50 years of age who had statistically significantly higher 
+rates of triple-negative breast cancer than their non-Delta 
+counterparts (RR = 1.29; 95% CI 1.18–1.40). Non-His-
+panic Black women in the Delta Region (IR = 26.8) had 
+statistically significantly higher rates of triple-negative 
+breast cancer than their non-Delta counterparts (IR = 24.6) 
+(RR = 1.09; 95% CI 1.01–1.17). Urban women in the Delta 
+Region had statistically significantly higher triple-negative 
+breast cancer IRs than non-Delta urban women (RR = 1.26; 
+95% CI 1.19–1.33). Rates of unknown subtype were higher 
+in the Delta Region than the non-Delta Region (RR = 1.30; 
+95% CI 1.23–1.37). Age-specific rates overall and by sub-
+type are displayed in Supplemental Fig. 2.
+Table 1   Age-adjusted incidence rates of invasive breast cancer and hormone receptor positive breast cancers by Delta Region status and strati-
+fied by age, race/ethnicity, rural–urban status, and poverty level
+IR incidence rate, RR rate ratio, Ref reference group
+Statistically significant RRs (p < 0.05) are in bold
+a Rates are expressed per 100,000 population
+All cases
+HR+/HER2+
+HR+/HER2−
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+All
+ Delta
+19,334
+116.2
+0.96 (0.95–0.98)
+1,911
+11.8
+0.93 (0.88–0.98)
+11,684
+69.4
+0.88 (0.86–0.90)
+ Non-Delta
+62,889
+120.8
+Ref
+6,419
+12.7
+Ref
+41,311
+78.7
+Ref
+< 50 years old
+ Delta
+3,664
+42.1
+0.98 (0.94–1.02)
+469
+5.4
+0.88 (0.79–0.98)
+1,918
+22.0
+0.88 (0.84–0.93)
+ Non-Delta
+12,198
+43.0
+Ref
+1,728
+6.1
+Ref
+7,126
+25.0
+Ref
+50+ years old
+ Delta
+15,670
+321.9
+0.96 (0.94–0.97)
+1,442
+29.4
+0.95 (0.90–1.01)
+9,766
+200.7
+0.88 (0.86–0.90)
+ Non-Delta
+50,691
+336.6
+Ref
+4,691
+30.8
+Ref
+34,185
+227.6
+Ref
+Non-Hispanic Whites
+ Delta
+12,795
+114.5
+0.92 (0.91–0.94)
+1,273
+11.9
+0.92 (0.86–0.98)
+8,285
+72.9
+0.88 (0.86–0.90)
+ Non-Delta
+50,586
+123.9
+Ref
+5,052
+13.0
+Ref
+34,281
+82.9
+Ref
+Non-Hispanic Blacks
+ Delta
+6,089
+122.9
+0.99 (0.96–1.03)
+591
+11.9
+0.94 (0.84–1.04)
+3,118
+63.3
+0.93 (0.88–0.97)
+ Non-Delta
+8,728
+123.8
+Ref
+911
+12.7
+Ref
+4,772
+68.4
+Ref
+Hispanics
+ Delta
+282
+89.1
+1.05 (0.92–1.19)
+31
+8.8
+0.84 (0.55–1.23)
+184
+59.4
+1.09 (0.92–1.27)
+ Non-Delta
+2,213
+84.8
+Ref
+289
+10.4
+Ref
+1,383
+54.8
+Ref
+Urban
+ Delta
+12,222
+119.7
+0.97 (0.95–0.99)
+1,200
+11.9
+0.93 (0.87–0.99)
+7,529
+73.2
+0.90 (0.87–0.92)
+ Non-Delta
+49,817
+123.2
+Ref
+5,082
+12.8
+Ref
+33,182
+81.6
+Ref
+Rural
+ Delta
+7,112
+110.8
+0.98 (0.96–1.01)
+711
+11.4
+0.95 (0.87–1.05)
+4,155
+63.4
+0.92 (0.88–0.96)
+ Non-Delta
+13,072
+112.6
+Ref
+1,337
+12.0
+Ref
+8,129
+69.0
+Ref
+< 20% below poverty
+ Delta
+8,824
+119.0
+0.97 (0.95–0.99)
+891
+12.2
+0.96 (0.89–1.03)
+5,425
+72.3
+0.89 (0.86–0.92)
+ Non-Delta
+52,265
+122.9
+Ref
+5,288
+12.7
+Ref
+34,816
+81.3
+Ref
+20+% below poverty
+ Delta
+10,510
+114.0
+1.02 (1.00–1.05)
+1,020
+11.4
+0.93 (0.85–1.02)
+6,259
+67.0
+1.00 (0.96–1.03)
+ Non-Delta
+10,624
+111.3
+Ref
+1,131
+12.2
+Ref
+6,495
+67.2
+Ref
+
+595
+Cancer Causes & Control (2019) 30:591–601	
+1 3
+In the Delta Region specifically, non-Hispanic Black 
+women had statistically significantly higher breast cancer 
+rates than non-Hispanic White women (RR = 1.07; 95% 
+CI 1.04–1.11) (Table 3). For HR+/HER2− breast can-
+cers, Hispanic and non-Hispanic Black women had statis-
+tically significantly lower rates than non-Hispanic White 
+Delta Region women. Both overall rates of breast cancer 
+and HR+/HER2− breast cancers were lower in the rural 
+and more impoverished Delta Region compared to the 
+urban and less impoverished areas of the Region. Rates of 
+HR−/HER2+ were higher in Delta Region non-Hispanic 
+Black women than non-Hispanic White women (RR = 1.49; 
+95% CI 1.28–1.71) (Table 4). Triple-negative breast cancer 
+rates were more than twice as high among non-Hispanic 
+Black women (IR = 26.8) compared to non-Hispanic White 
+women in the Delta Region (IR = 12.8) (RR = 2.10; 95% 
+CI 1.94–2.27). Unknown subtype IRs were higher in non-
+Hispanic Black women compared to non-Hispanic White 
+women and rural compared to urban women in the Delta 
+Region.
+In multivariable analysis, the Delta Region had higher 
+rates of unknown subtype (RR = 1.19; 95% CI 1.05–1.35) 
+compared to the non-Delta Region, but there were no other 
+statistically significant differences between the regions after 
+accounting for age and race/ethnicity groupings and area-
+level factors (Table 5). There were no significant Delta/
+Table 2   Age-adjusted incidence rates of hormone receptor-negative breast cancers and unknown subtype by Delta Region status by age, race/
+ethnicity, rural–urban status, and poverty level
+IR incidence rate, RR rate ratio, Ref reference group
+Statistically significant RRs (p < 0.05) are in bold
+a Rates are expressed per 100,000 population
+HR−/HER2+
+Triple negative
+Unknown
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+All
+ Delta
+872
+5.3
+1.03 (0.95–1.11)
+2,735
+17.0
+1.18 (1.13–1.24)
+2,132
+12.7
+1.30 (1.23–1.37)
+ Non-Delta
+2,677
+5.2
+Ref
+7,334
+14.4
+Ref
+5,150
+9.8
+Ref
+< 50 years old
+ Delta
+190
+2.2
+0.98 (0.83–1.15)
+735
+8.4
+1.29 (1.18–1.40)
+352
+4.0
+1.34 (1.18–1.52)
+ Non-Delta
+631
+2.2
+Ref
+1,858
+6.6
+Ref
+855
+3.0
+Ref
+50+ years old
+ Delta
+682
+14.0
+1.05 (0.96–1.14)
+2,000
+40.9
+1.13 (1.08–1.19)
+1,780
+36.9
+1.28 (1.21–1.36)
+ Non-Delta
+2,044
+13.4
+Ref
+5,476
+36.1
+Ref
+4,295
+28.7
+Ref
+Non-Hispanic Whites
+ Delta
+502
+4.6
+0.91 (0.82–1.01)
+1,341
+12.8
+0.97 (0.91–1.03)
+1,394
+12.3
+1.26 (1.18–1.34)
+ Non-Delta
+2,011
+5.1
+Ref
+5,176
+13.2
+Ref
+4,066
+9.8
+Ref
+Non-Hispanic Blacks
+ Delta
+348
+6.9
+1.09 (0.94–1.26)
+1,340
+26.8
+1.09 (1.01–1.17)
+692
+14.1
+1.20 (1.08–1.33)
+ Non-Delta
+461
+6.3
+Ref
+1,760
+24.6
+Ref
+824
+11.8
+Ref
+Hispanics
+ Delta
+***
+***
+***
+31
+10.1
+1.03 (0.68–1.50)
+28
+8.5
+1.41 (0.90–2.13)
+ Non-Delta
+114
+3.8
+Ref
+269
+9.8
+Ref
+158
+6.0
+Ref
+Urban
+ Delta
+585
+5.8
+1.13 (1.02–1.24)
+1,803
+18.0
+1.26 (1.19–1.33)
+1,105
+10.7
+1.16 (1.08–1.24)
+ Non-Delta
+2,069
+5.2
+Ref
+5,705
+14.3
+Ref
+3,779
+9.3
+Ref
+Rural
+ Delta
+287
+4.5
+0.84 (0.72–0.98)
+932
+15.6
+1.06 (0.97–1.16)
+1,027
+15.9
+1.37 (1.26–1.49)
+ Non-Delta
+606
+5.4
+Ref
+1,629
+14.7
+Ref
+1,371
+11.6
+Ref
+< 20% below poverty
+ Delta
+389
+5.3
+1.03 (0.92–1.15)
+1,151
+16.2
+1.13 (1.06–1.20)
+968
+13.0
+1.39 (1.29–1.49)
+ Non-Delta
+2,175
+5.1
+Ref
+5,983
+14.3
+Ref
+4,003
+9.4
+Ref
+20+% in poverty
+ Delta
+483
+5.3
+1.00 (0.88–1.14)
+1,584
+17.8
+1.21 (1.12–1.31)
+1,164
+12.5
+1.06 (0.97–1.15)
+ Non-Delta
+500
+5.3
+Ref
+1,351
+14.7
+Ref
+1,147
+11.9
+Ref
+
+596
+	
+Cancer Causes & Control (2019) 30:591–601
+1 3
+non-Delta differences in rates of any kind after controlling 
+for relevant factors for either age stratification, except for 
+unknown subtype in women aged 50+ in the Delta Region 
+(RR = 1.17; 95% CI 1.03–1.34). Among rural popula-
+tions, the Delta Region had lower rates of HR−/HER2+ 
+(RR = 0.80; 95% CI 0.69–0.93) and higher rates of unknown 
+status (RR = 1.26; 95% CI 1.08–1.47) compared to the non-
+Delta Region after accounting for confounders. Among 
+urban populations, the Delta Region had statistically sig-
+nificantly higher rates of triple-negative breast cancer 
+(RR = 1.10; 95% CI 1.01–1.20) after controlling for relevant 
+factors.
+In the Delta Region alone, non-Hispanic Black women 
+had higher rate of breast cancers (RR = 1.06; 95% CI 
+1.02–1.10) after accounting for age and area-level factors 
+(Table 6). Hispanics had lower rates of HR+/HER2− can-
+cers (RR = 0.82; 95% CI 0.69–0.97) compared to non-
+Hispanic White women after accounting for age and 
+area-level variables. Compared to urban populations, 
+rural populations had higher rates of breast cancers of 
+unknown subtypes (RR = 1.42; 95% CI 1.14–1.76) after 
+controlling for confounders.
+Table 3   Age-adjusted incidence rates of all breast cancer cases and hormone receptor positive breast cancers by race/ethnicity, rural–urban sta-
+tus, and poverty level in the Delta Region
+IR incidence rate, RR rate ratio, Ref reference group
+Statistically significant RRs (p < 0.05) are in bold
+a Rates are expressed per 100,000 population
+All cases
+HR+/HER2+
+HR+/HER2−
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Race/ethnicity
+ Hispanic
+282
+89.1
+0.78 (0.69–0.88)
+31
+8.8
+0.74 (0.49–1.06)
+184
+59.4
+0.82 (0.70–0.95)
+ Non-Hispanic Black
+6,089
+122.9
+1.07 (1.04–1.11)
+591
+11.9
+1.00 (0.90–1.11)
+3,118
+63.3
+0.87 (0.83–0.91)
+ Non-Hispanic White
+12,795
+114.5
+Ref
+1,273
+11.9
+Ref
+8,285
+72.9
+Ref
+Rural–urban status
+ Rural
+7,112
+110.8
+0.93 (0.90–0.95)
+711
+11.4
+0.96 (0.87–1.06)
+4,155
+63.4
+0.87 (0.83–0.90)
+ Urban
+12,222
+119.7
+Ref
+1,200
+11.9
+Ref
+7,529
+73.2
+Ref
+Poverty level
+ 20+% poverty
+10,510
+114.0
+0.96 (0.93–0.99)
+1,020
+11.4
+0.93 (0.85–1.02)
+6,259
+67.0
+0.93 (0.89–0.96)
+ < 20% poverty
+8,824
+119.0
+Ref
+891
+12.2
+Ref
+5,425
+72.3
+Ref
+Table 4   Age-adjusted incidence rates of hormone receptor-negative breast cancers and unknown subtype in the Delta Region by race/ethnicity, 
+rural–urban status, and poverty level in the Delta Region
+IR incidence rate, RR rate ratio, Ref reference group
+***Rate ratio suppressed as it is based on fewer than 16 cases; statistically significant RRs (p < 0.05) are in bold
+a Rates are expressed per 100,000 population
+HR−/HER2+
+Triple negative
+Unknown
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Cases
+IRa
+RR (95% CI)
+Race/ethnicity
+ Hispanic
+***
+***
+***
+31
+10.1
+0.79 (0.53–1.13)
+28
+8.5
+0.69 (0.45–1.00)
+ Non-Hispanic Black
+348
+6.9
+1.49 (1.28–1.71)
+1,340
+26.8
+2.10 (1.94–2.27)
+692
+14.1
+1.15 (1.04–1.26)
+ Non-Hispanic White
+502
+4.6
+Ref
+1,341
+12.8
+Ref
+1,394
+12.3
+Ref
+Rural–urban status
+ Rural
+287
+4.5
+0.79 (0.68–0.91)
+932
+15.6
+0.86 (0.80–0.94)
+1,027
+15.9
+1.48 (1.35–1.61)
+ Urban
+585
+5.8
+Ref
+1,803
+18.0
+Ref
+1,105
+10.7
+Ref
+Poverty level
+ 20+% poverty
+483
+5.3
+1.00 (0.87–1.15)
+1,584
+17.8
+1.10 (1.01–1.19)
+1,164
+12.5
+0.97 (0.88–1.05)
+ < 20% poverty
+389
+5.3
+Ref
+1,151
+16.2
+Ref
+968
+13.0
+Ref
+
+597
+Cancer Causes & Control (2019) 30:591–601	
+1 3
+Discussion
+We examined breast cancer IR differences between the 
+Delta and non-Delta regions of seven LMDR states for all 
+cancers and stratified by subtype. Overall breast cancer IRs 
+were higher in the non-Delta Region. However, women in 
+the Delta Region had higher IRs of triple-negative breast 
+cancer compared to non-Delta Region women. This dif-
+ference was restricted to Black in particular, but not White 
+women. Regardless of stratifications, Delta women had 
+higher rates of unknown subtype. After accounting for 
+Table 5   Multilevel negative binomial regression modeling of invasive breast cancers by Delta Region status and stratified by age, race/ethnicity, 
+rural–urban status, and poverty level
+Non-Delta Region is reference group, RR rate ratio
+a Adjusting for age, race/ethnicity, rural–urban status, poverty level, area mammography utilization, and race/rural–urban status interaction (if 
+statistically significant)
+b Adjusting for race/ethnicity, rural–urban status, area mammography utilization, and race/rural–urban status interaction
+c Adjusting for age, area mammography utilization, and poverty level
+d Adjusting for age, race/ethnicity, area mammography utilization, and poverty level
+e Adjusting for age, race/ethnicity, area mammography utilization, rural–urban status, and race/rural–urban status interaction
+***Rate ratio suppressed as it is based on fewer than 16 cases: statistically significant RRs (p < 0.05) are in bold
+All breast cancers
+RR (95% CI)
+HR+/HER2+
+RR (95% CI)
+HR+/HER2−
+RR (95% CI)
+HR−/HER2+
+RR (95% CI)
+Triple negative
+RR (95% CI)
+Unknown
+RR (95% CI)
+All ­casesa
+1.00 (0.97–1.02)
+0.95 (0.89–1.01)
+0.98 (0.94–1.02)
+0.96 (0.87–1.05)
+1.01 (0.95–1.08)
+1.19 (1.05–1.35)
+Ageb
+ 50+ years old
+0.99 (0.97–1.02)
+0.94 (0.87–1.02)
+0.98 (0.94–1.02)
+0.96 (0.87–1.07)
+0.99 (0.93–1.06)
+1.17 (1.03–1.34)
+ < 50 years old
+1.01 (0.96–1.06)
+0.96 (0.85–1.08)
+0.98 (0.91–1.05)
+0.93 (0.77–1.11)
+1.09 (0.98–1.22)
+1.22 (0.98–1.51)
+Race/ethnicityc
+ Non-Hispanic White
+0.98 (0.95–1.01)
+0.95 (0.89–1.03)
+0.96 (0.92–1.00)
+0.92 (0.82–1.02)
+1.00 (0.93–1.07)
+1.18 (1.04–1.35)
+ Non-Hispanic Black
+1.04 (0.98–1.09)
+0.80 (0.70–0.90)
+1.01 (0.94–1.09)
+0.86 (0.69–1.06)
+1.07 (0.96–1.18)
+1.14 (0.90–1.44)
+ Hispanic
+1.02 (0.85–1.21)
+0.92 (0.62–1.36)
+1.08 (0.88–1.32)
+***
+1.02 (0.75–1.38)
+1.02 (0.66–1.58)
+Rural–urban ­statusd
+ Rural
+1.00 (0.97–1.03)
+0.94 (0.85–1.03)
+0.99 (0.94–1.04)
+0.80 (0.69–0.93)
+0.93 (0.85–1.02)
+1.26 (1.08–1.47)
+ Urban
+0.99 (0.95–1.03)
+0.95 (0.87–1.04)
+0.95 (0.90–1.02)
+1.07 (0.95–1.20)
+1.10 (1.01–1.20)
+1.06 (0.85–1.31)
+Poverty ­levele
+ < 20% below poverty
+0.98 (0.94–1.01)
+0.97 (0.89–1.06)
+0.91 (0.86–0.96)
+1.01 (0.89–1.15)
+1.07 (0.98–1.17)
+1.29 (1.07–1.55)
+ 20+ % below poverty
+1.00 (0.97–1.04)
+0.93 (0.85–1.01)
+1.02 (0.97–1.08)
+0.90 (0.78–1.04)
+0.93 (0.84–1.01)
+1.15 (0.97–1.37)
+Table 6   Multilevel negative binomial regression modeling of invasive breast cancer by subtype in the Delta Region
+RR rate ratio; all models also adjusted for age group, mammography utilization, and race rural–urban status interaction (if significant)
+***Rate ratio suppressed as it is based on fewer than 16 cases; statistically significant RRs (p < 0.05) are in bold
+All breast cancers
+RR (95% CI)
+HR+/HER2+
+RR (95% CI)
+HR+/HER2−
+RR (95% CI)
+HR−/HER2+
+RR (95% CI)
+Triple negative
+RR (95% CI)
+Unknown
+RR (95% CI)
+Race/ethnicity
+ Non-Hispanic White
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+ Non-Hispanic Black
+1.06 (1.02–1.10)
+1.02 (0.89–1.16)
+0.98 (0.92–1.04)
+1.10 (0.93–1.29)
+1.05(0.96– 1.15)
+0.99 (0.89–1.11)
+ Hispanic
+0.93 (0.84–1.03)
+0.96 (0.67–1.36)
+0.82 (0.69–0.97)
+***
+0.97 (0.74–1.29)
+1.10 (0.81–1.49)
+Rural–urban status
+ Urban
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+ Rural
+0.99 (0.95–1.04)
+0.97 (0.86–1.09)
+0.98 (0.92–1.04)
+0.86 (0.73–1.01)
+0.97 (0.88–1.06)
+1.42 (1.14–1.76)
+Poverty level
+ < 20% below poverty
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+ 20+% below poverty
+0.96 (0.92–1.00)
+0.94 (0.85–1.05)
+0.99 (0.93–1.06)
+0.98 (0.84–1.15)
+0.89 (0.81–0.99)
+0.97 (0.78–1.20)
+
+598
+	
+Cancer Causes & Control (2019) 30:591–601
+1 3
+confounding characteristics, the elevated rate of triple-
+negative breast cancer in the Delta Region was attenu-
+ated. However, among women living in urban counties, the 
+elevated rate of triple-negative breast cancer in the Delta 
+Region remained after adjustment. Analyses of data from 
+the Delta Region only indicated that Black women in the 
+region had higher rates of breast cancer overall than White 
+women, but rates of HR+/HER2- were higher in the White 
+women. The elevated overall breast cancer incidence rate 
+in Black Delta women remained in multivariable analysis. 
+Black women in the Delta Region also had higher rates of 
+both HR−/HER2+ and triple-negative breast cancers in 
+descriptive analysis.
+Descriptive analysis found that women in the Delta 
+Region had lower breast cancer IRs overall and for the HR+/
+HER2− subtype than women in the Delta Region across 
+most stratifications, although this was explained by factors 
+like age, race, and area-level variables. Previous studies have 
+shown that—generally speaking at a state level—mammog-
+raphy utilization is associated with higher rates of breast 
+cancer overall and HR+/HER2− specifically [13]. Similarly, 
+a pooled analysis by Akinyemiju et al. found higher rates of 
+breast cancer in urban populations [31]. Indeed, over the last 
+20 years, the Delta Region has consistently had lower rates 
+of mammography utilization compared to the non-Delta part 
+of the LMDR and the rest of the country [3, 32]. Further, 
+the Delta Region is more rural than the rest of the LMDR 
+[3, 33]. The lower overall rates of breast cancer and HR+/
+HER2− breast cancers in the Delta Region corroborate pre-
+vious studies and may be explained by utilization of mam-
+mography and rurality of the Delta Region [3, 13, 31, 32, 
+34].
+Triple-negative breast cancer IRs were higher in the 
+Delta Region compared to the non-Delta Region overall 
+and among non-Hispanic Blacks and urban populations, spe-
+cifically, which may help explain the Region’s higher breast 
+cancer mortality rate, as triple-negative breast cancers have 
+worse survival than other subtypes [4]. Multiple studies have 
+shown higher rates of triple-negative breast cancer in the 
+South and Midwest than other parts of the country. These 
+findings indicate that elevated rates may be particularly high 
+within specific sub-areas notably the Delta Region [13, 16].
+Urban women in the Delta Region had higher rates of 
+triple-negative breast cancer, even after accounting for 
+important risk factors like age and race. However, other 
+risk factors like greater parity and lack of breastfeeding/
+short duration of breastfeeding among parous women can 
+increase one’s risk for triple-negative breast cancer [35], but 
+we were unable to account for them in our study. Among 
+metropolitan areas with greater than half a million residents, 
+the Memphis metropolitan area—the largest city in the Delta 
+Region—has the highest birth rates in the country [36]. Cau-
+tion must be exercised not to fall prey to ecological fallacy, 
+but the high birth rate among urban women in the Delta 
+Region may play a role in the high rate of triple-negative 
+breast cancer. Additionally, multiple studies have shown 
+that parous women who do not breastfeed or who had short 
+breastfeeding duration are at greater risk for triple-negative 
+breast cancer, and similarly, breastfeeding has been shown 
+to reduce the risk of triple-negative breast cancers in parous 
+women [35, 37, 38]. However, the effect of individual-level 
+parity, breastfeeding initiation, and breastfeeding duration 
+in the urban Delta is unknown. Future research should aim 
+to further explore the factors that contribute to these higher 
+rates of triple-negative breast cancer in the urban Delta.
+In the Delta Region, non-Hispanic Black women had 
+higher rates of breast cancer compared to non-Hispanic 
+White women in both descriptive and multivariable analyses. 
+This finding corroborates a study by DeSantis et al. which 
+found that breast cancer IRs in five Delta Region states were 
+higher in Black women than in White women [6]. Previous 
+studies have suggested that the convergence of breast cancer 
+IRs in Black and White populations is driven by increased 
+mammography utilization and increased rates of HR+/
+HER2− or ER+ breast cancers among Black women [6, 39]. 
+In the Delta Region, however, the elevated rates of breast 
+cancer among Black women are driven by HR− cancers, as 
+both HR−/HER2+ and triple-negative breast cancer rates 
+are higher among Black women. The elevated incidence of 
+breast cancer in Black women, even after accounting for age 
+and area-level factors, suggests that there may be other area-
+level factors or individual factors specific to Black women 
+in the region that may contribute to higher rates. Perceived 
+experience of racial discrimination has been associated with 
+increased risk of breast cancer, especially in young Black 
+women, among whom HR− cancers are more common [40]. 
+Similarly, Geronimus et al. posit a “weathering hypothesis,” 
+where Black women disproportionately experience a myriad 
+of life stressors that contribute to biological indicators of 
+stress (i.e., shorter telomere length and increased allostatic 
+load) subsequently putting them at greater risk for chronic 
+diseases, potentially including HR− breast cancers [41–43]. 
+Hébert et al. also note that racial and ethnic minorities may 
+experience particular social stressors and biological sequelae 
+that increase risk for cancer [44]. A study by Krieger found 
+that Black women born in or living in states that once had 
+discriminatory Jim Crow laws (which includes six of the 
+seven states in the present study) had higher rates of estrogen 
+receptor-negative cancers than those born in states that did 
+not have Jim Crow laws [45]. While the relationship between 
+racial discrimination and increased cumulative stressors and 
+their impacts on breast cancer is a burgeoning field of study, 
+the history and lasting effects of slavery, segregation, and 
+marginalization, which may be more concentrated in the 
+Delta Region, may indeed play a role in the elevated risk of 
+breast cancer among Black women in the Region [46]. There 
+
+599
+Cancer Causes & Control (2019) 30:591–601	
+1 3
+is a great opportunity for social epidemiologists and other 
+researchers to further explicate the relationship between the 
+historical and current social context of the Delta Region and 
+its effect on breast cancer.
+Higher rates of unknown subtype in the Delta Region 
+were found in both descriptive and multivariable analyses 
+across many stratifications. The study inclusion/exclusion 
+criteria aimed to maximize completeness of subtype data. 
+However, missing information on cancer cases is more com-
+mon among Black  women and in areas of low socioeco-
+nomic status [47–49]. Race- and county-level poverty were 
+included in multivariable analysis and rates of unknown sub-
+type, yet higher rates of unknown status remained, especially 
+in the rural Delta. In addition to socioeconomic factors, the 
+location of case ascertainment may play a role in data com-
+pleteness [7, 46]. Breast cancer cases diagnosed among rural 
+Delta Region women may be more likely to be diagnosed in 
+smaller hospitals in impoverished areas where data report-
+ing may be incomplete. Further, there is a nationwide cancer 
+registrar shortage which could be at an even greater shortage 
+in the Delta Region [50]. This may affect the abstraction of 
+cancer information in the Region’s rural hospitals in particu-
+lar. Additionally, the rate of unknown subtype subsequently 
+has an effect on the other rates. For example, HER2+ is 
+the more common HER2 status, but in order for a case to 
+be defined by that status, a definitive HER2 status of posi-
+tive must be reported. Thus, HER2+ cancers, in particular, 
+may be underrepresented. Future research should explore 
+the multilevel factors that may affect data completeness to 
+help ensure accurate population statistics and cancer control 
+efforts.
+Our study was not without limitations. First, Missouri 
+did not provide active consent for their data to be included 
+in this study. Its exclusion may affect the study findings. 
+For example, Delta Region disparities were identified for 
+triple-negative breast cancers in urban populations espe-
+cially. The absence of data from non-Delta urban areas with 
+a high proportion of Black residents like St. Louis and Kan-
+sas City may affect subtype-specific findings. Also, data on 
+individual-level factors that affect the risk of different breast 
+cancer subtypes are not available, including breastfeeding, 
+oral contraceptive use, parity, age a first live birth, obesity, 
+breastfeeding, diet, and physical activity. Additionally, we 
+were not able to account for other important factors like 
+individual-level income.
+Our study also had several strengths. First, it was one of 
+the first to explore cancer incidence across the multi-state 
+Delta Region, as well as one of the first to explore differ-
+ences in breast cancer subtype at a sub-state level. Second, 
+we utilized population-based data inclusive of all cancer 
+cases diagnosed in the LMDR states. Third, we employed 
+multilevel modeling to explore place-based effects on 
+cancer, which is underutilized in rural cancer research in 
+particular [51].
+Conclusions
+The high rate of triple-negative breast cancer in the Delta 
+Region may help explain the breast cancer mortality dispar-
+ity that exists in the Region. Both the elevated rates of triple-
+negative breast cancer in the urban Delta region and the 
+overall elevated rate of breast cancer among Black women 
+in the Delta may be explained by individual-level factors like 
+parity and breastfeeding initiation or duration. Additionally, 
+these elevated rates may be explained by more upstream, 
+area-level factors like discrimination that affect the biology 
+of cancer etiology in Black, urban women. Future research 
+should explore the effect of unmeasured individual and area-
+level factors that may contribute to the disparities experi-
+enced by women in the Delta Region.
+Acknowledgments  These data are based on the NAACCR December 
+2015 data submission. Support for cancer registries is provided by the 
+state, province, or territory in which the registry is located. In the U.S., 
+registries also participate in the National Cancer Institute’s Surveil-
+lance, Epidemiology, and End Results (SEER) Program or the Cent-
+ers for Disease Control and Prevention’s National Program of Cancer 
+Registries (NPCR) or both. In Canada, all registries submit data to the 
+Canadian Cancer Registry maintained by Statistics Canada.
+References
+	 1.	 Delta Regional Authority (2017) Today’s Delta: a research tool 
+for the region: 3rd edition. http://dra.gov/image​s/uploa​ds/conte​
+nt_files​/DRA_Today​s_Delta​_2016.pdf Accessed 9 Aug 2017
+	 2.	 Delta Regional Authority (2016) Promoting a healthy Delta. 
+http://dra.gov/initi​ative​s/promo​ting-a-healt​hy-delta​/. Accessed 5 
+Nov 2016
+	 3.	 Gennuso KP, Jovaag A, Catlin BB, Rodock M, Park H (2016) 
+Assessment of factors contributing to health outcomes in the eight 
+states of the Mississippi Delta Region. Prev Chronic Dis 13:E33. 
+https​://doi.org/10.5888/pcd13​.15044​0
+	 4.	 Zahnd WE, Jenkins WD, Mueller-Luckey GS (2017) Cancer 
+mortality in the Mississippi Delta Region: descriptive epide-
+miology and needed future research and interventions. J Health 
+Care Poor Underserved 28(1):315–328. https​://doi.org/10.1353/
+hpu.2017.0025
+	 5.	 Mokdad AH, Dwyer-Lindgren L, Fitzmaurice C, Stubbs RW, 
+Bertozzi-Villa A, Morozoff C et al (2017) Trends and patterns of 
+disparities in cancer mortality among US counties, 1980-2014. 
+JAMA 317(4):388–406. https​://doi.org/10.1001/jama.2016.20324​
+	 6.	 DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith 
+RA, Jemal A (2016) Breast cancer statistics, 2015: convergence 
+of incidence rates between black and white women. CA Cancer J 
+Clin 66(1):31–42. https​://doi.org/10.3322/caac.21320​
+	 7.	 Anderson WF, Rosenberg PS, Katki HA (2014) Tracking and eval-
+uating molecular tumor markers with cancer registry data: HER2 
+and breast cancer. J Natl Cancer Inst. https​://doi.org/10.1093/jnci/
+dju09​3
+
+600
+	
+Cancer Causes & Control (2019) 30:591–601
+1 3
+	 8.	 Phipps A, Li CI (2010) Breast cancer biology and clinical char-
+acteristics. In: Li CI (ed) Breast cancer epidemiology. Springer, 
+New York
+	 9.	 Grann VR, Troxel AB, Zojwalla NJ, Jacobson JS, Hershman 
+D, Neugut AI (2005) Hormone receptor status and survival in a 
+population-based cohort of patients with breast carcinoma. Cancer 
+103(11):2241–2251. https​://doi.org/10.1002/cncr.21030​
+	10.	 Akinyemiju T, Moore JX, Ojesina AI, Waterbor JW, Altekruse SF 
+(2016) Racial disparities in individual breast cancer outcomes by 
+hormone-receptor subtype, area-level socio-economic status and 
+healthcare resources. Breast Cancer Res Treat 157(3):575–586. 
+https​://doi.org/10.1007/s1054​9-016-3840-x
+	11.	 Howlader N, Altekruse SF, Li CI, Chen VW, Clarke CA, Ries 
+LA et al (2014) US incidence of breast cancer subtypes defined 
+by joint hormone receptor and HER2 status. J Natl Cancer Inst. 
+https​://doi.org/10.1093/jnci/dju05​5
+	12.	 Llanos AA, Chandwani S, Bandera EV, Hirshfield KM, Lin Y, 
+Ambrosone CB et al (2015) Associations between sociodemo-
+graphic and clinicopathological factors and breast cancer subtypes 
+in a population-based study. Cancer Causes Control 26(12):1737–
+1750. https​://doi.org/10.1007/s1055​2-015-0667-4
+	13.	 Kohler BA, Sherman RL, Howlader N, Jemal A, Ryerson AB, 
+Henry KA et al (2015) Annual report to the nation on the sta-
+tus of cancer, 1975-2011, featuring incidence of breast cancer 
+subtypes by race/ethnicity, poverty, and state. J Natl Cancer Inst 
+107(6):djv048. https​://doi.org/10.1093/jnci/djv04​8
+	14.	 Bauer KR, Brown M, Cress RD, Parise CA, Caggiano V (2007) 
+Descriptive analysis of estrogen receptor (ER)-negative, pro-
+gesterone receptor (PR)-negative, and HER2-negative invasive 
+breast cancer, the so-called triple-negative phenotype: a popu-
+lation-based study from the California Cancer Registry. Cancer 
+109(9):1721–1728. https​://doi.org/10.1002/cncr.22618​
+	15.	 Trivers KF, Lund MJ, Porter PL, Liff JM, Flagg EW, Coates RJ 
+et al (2009) The epidemiology of triple-negative breast cancer, 
+including race. Cancer Causes Control 20(7):1071–1082. https​://
+doi.org/10.1007/s1055​2-009-9331-1
+	16.	 Sineshaw HM, Gaudet M, Ward EM, Flanders WD, Desantis C, 
+Lin CC et al (2014) Association of race/ethnicity, socioeconomic 
+status, and breast cancer subtypes in the National Cancer Data 
+Base (2010-2011). Breast Cancer Res Treat 145(3):753–763. https​
+://doi.org/10.1007/s1054​9-014-2976-9
+	17.	 Akinyemiju TF, Pisu M, Waterbor JW, Altekruse SF (2015) Socio-
+economic status and incidence of breast cancer by hormone recep-
+tor subtype. Springerplus 4:508. https​://doi.org/10.1186/s4006​
+4-015-1282-2
+	18.	 Vona-Davis L, Rose DP (2009) The influence of socioeconomic 
+disparities on breast cancer tumor biology and prognosis: a 
+review. J Women’s Health (Larchmt) 18(6):883–893. https​://doi.
+org/10.1089/jwh.2008.1127
+	19.	 Dietze EC, Sistrunk C, Miranda-Carboni G, O’Regan R, Seewaldt 
+VL (2015) Triple-negative breast cancer in African-American 
+women: disparities versus biology. Nat Rev Cancer 15(4):248–
+254. https​://doi.org/10.1038/nrc38​96
+	20.	 Williams DR, Mohammed SA, Shields AE (2016) Understand-
+ing and effectively addressing breast cancer in African American 
+women: unpacking the social context. Cancer 122(14):2138–2149. 
+https​://doi.org/10.1002/cncr.29935​
+	21.	 SEER*Stat Database: NAACCR Incidence Data—CiNA Analytic 
+File, 1995-2014, for NHIAv2 Origin, Custom File With County, 
+Zahnd—Disparities in breast ca subtype (3-year increments) 
+(which includes data from CDC’s National Program of Cancer 
+Registries (NPCR), CCCR’s Provincial and Territorial Regis-
+tries, and the NCI’s Surveillance, Epidemiology and End Results 
+(SEER) Registries), certified by the North American Association 
+of Central Cancer Registries (NAACCR) as meeting high-quality 
+incidence data standards for the specified time periods, submitted 
+December 2016
+	22.	 United States Census Bureau. American Community Survey 
+(ACS). https​://www.censu​s.gov/progr​ams-surve​ys/acs/data.html. 
+Accessed 9 Jan 2018
+	23.	 United States Department of Agriculture. 2016 Rural Urban Con-
+tinuum Codes. http://www.ers.usda.gov/data-produ​cts/rural​-urban​
+-conti​nuum-codes​/docum​entat​ion.aspx. Accessed 9 Jan 2018
+	24.	 National Cancer Institute. Mammography prevalence within 2 
+years (Age 40+)—small area estimates. https​://sae.cance​r.gov/
+nhis-brfss​/estim​ates/mammo​graph​y.html. Accessed 9 Jan 2018
+	25.	 Area Health Resources Files (AHRF). 2014-2015. Rockville, 
+MD.: US Department of Health and Human Services, Health 
+Resources and Services Administration, Bureau of Health 
+Workforce
+	26.	 Anderson WF, Pfeiffer RM, Dores GM, Sherman ME (2006) 
+Comparison of age distribution patterns for different histopatho-
+logic types of breast carcinoma. Cancer Epidemiol Biomarkers 
+Prev 15(10):1899–1905. https​://doi.org/10.1158/1055-9965.
+epi-06-0191
+	27.	 Phipps AI, Ichikawa L, Bowles EJA, Carney PA, Kerlikowske K 
+et al (2010) Defining menopausal status in epidemiologic studies: 
+a comparison of multiple approaches and their effects on breast 
+cancer rates. Maturitas 67(1):60–66
+	28.	 Siu AL, United States Preventive Services Task Force (2016) 
+Screening for breast cancer: U.S. Preventive Services Task Force 
+Recommendation Statement. Ann Intern Med 164(4):279–296. 
+https​://doi.org/10.7326/m15-2886
+	29.	 Zahnd WE, McLafferty SL (2017) Contextual effects and cancer 
+outcomes in the United States: a systematic review of character-
+istics in multilevel analyses. Ann Epidemiol 27(11):739–748
+	30.	 Krieger N, Chen JT, Waterman PD, Soobader MJ, Subramanian 
+SV, Carson R (2002) Geocoding and monitoring of US socioeco-
+nomic inequalities in mortality and cancer incidence: does the 
+choice of area-based measure and geographic level matter?: the 
+Public Health Disparities Geocoding Project. Am J Epidemiol 
+156(5):471–482
+	31.	 Akinyemiju TF, Genkinger JM, Farhat M, Wilson A, Gary-Webb 
+TL, Tehranifar P (2015) Residential environment and breast 
+cancer incidence and mortality: a systematic review and meta-
+analysis. BMC Cancer 15:191. https​://doi.org/10.1186/s1288​
+5-015-1098-z
+	32.	 Hall HI, Jamison PM, Coughlin SS, Uhler RJ (2004) Breast and 
+cervical cancer screening among Mississippi Delta women. J 
+Health Care Poor Underserved 15(3):375–389
+	33.	 Delta Regional Authority (2017) About. http://dra.gov/about​-dra/
+missi​on-and-visio​n/. Accessed 9 Aug 2017
+	34.	 Moss JL, Liu B, Feuer EJ (2017) Urban/rural differences in 
+breast and cervical cancer incidence: the mediating roles of soci-
+oeconomic status and provider density. Womens Health Issues 
+27(6):683–691
+	35.	 Palmer JR, Viscidi E, Troester MA, Hong CC, Schedin P, Bethea 
+TN et al (2014) Parity, lactation, and breast cancer subtypes in 
+African American women: results from the AMBER Consortium. 
+J Natl Cancer Inst. https​://doi.org/10.1093/jnci/dju23​7
+	36.	 Danielle K (2011) Cities where women are having the most 
+babies. https​://www.usnew​s.com/news/artic​les/2011/10/21/citie​
+s-where​-women​-are-havin​g-the-most-babie​s. Accessed 10 Aug 
+2018
+	37.	 Shinde SS, Forman MR, Kuerer HM, Yan K, Peintinger F, Hunt 
+KK et al (2010) Higher parity and shorter breastfeeding duration: 
+association with triple-negative phenotype of breast cancer. Can-
+cer 116(21):4933–4943. https​://doi.org/10.1002/cncr.25443​
+	38.	 Islami F, Liu Y, Jemal A, Zhou J, Weiderpass E, Colditz G et al 
+(2015) Breastfeeding and breast cancer risk by receptor status—a 
+
+601
+Cancer Causes & Control (2019) 30:591–601	
+1 3
+systematic review and meta-analysis. Ann Oncol 26(12):2398–
+2407. https​://doi.org/10.1093/annon​c/mdv37​9
+	39.	 DeSantis C, Ma J, Bryan L, Jemal A (2014) Breast cancer statis-
+tics, 2013. CA Cancer J Clin 64(1):52–62. https​://doi.org/10.3322/
+caac.21203​
+	40.	 Taylor TR, Williams CD, Makambi KH, Mouton C, Harrell JP, 
+Cozier Y et al (2007) Racial discrimination and breast cancer inci-
+dence in US Black women: the Black Women’s Health Study. Am 
+J Epidemiol 166(1):46–54. https​://doi.org/10.1093/aje/kwm05​6
+	41.	 Geronimus AT, Hicken M, Keene D, Bound J (2006) “Weather-
+ing” and age patterns of allostatic load scores among blacks and 
+whites in the United States. Am J Public Health 96(5):826–833. 
+https​://doi.org/10.2105/ajph.2004.06074​9
+	42.	 Geronimus AT, Hicken MT, Pearson JA, Seashols SJ, Brown KL, 
+Cruz TD (2010) Do US black women experience stress-related 
+accelerated biological aging?: a novel theory and first population-
+based test of black-white differences in telomere length. Hum Nat 
+21(1):19–38. https​://doi.org/10.1007/s1211​0-010-9078-0
+	43.	 Linnenbringer E, Gehlert S, Geronimus AT (2017) Black-White 
+disparities in breast cancer subtype: the intersection of socially 
+patterned stress and genetic expression. AIMS Public Health 
+4(5):526–556. https​://doi.org/10.3934/publi​cheal​th.2017.5.526
+	44.	 Hébert JR, Braun KL, Kaholokula JK, Armstead CA, Burch JA, 
+Thompson B (2015) Considering the role of stress in populations 
+of high-risk, underserved community networks program centers. 
+Prog Community Health Partnersh 9:71–82
+	45.	 Krieger N, Jahn JL, Waterman PD (2017) Jim Crow and estrogen-
+receptor-negative breast cancer: US-born black and white non-
+Hispanic women, 1992-2012. Cancer Causes Control 28(1):49–
+59. https​://doi.org/10.1007/s1055​2-016-0834-2
+	46.	 Finerman R, Williams C, Bennett L (2010) Health disparities and 
+engaged medical anthropology in the United States Mid-South. 
+Urban Anthropol Stud Cult Syst World Econ Dev 39(3):265–297
+	47.	 Boscoe FP, Sherman C (2006) On socioeconomic gradients in 
+cancer registry data quality. J Epidemiol Community Health 
+60(6):551
+	48.	 Krieger N, Chen JT, Ware JH, Kaddour A (2008) Race/ethnic-
+ity and breast cancer estrogen receptor status: impact of class, 
+missing data, and modeling assumptions. Cancer Causes Control 
+19(10):1305–1318. https​://doi.org/10.1007/s1055​2-008-9202-1
+	49.	 Howlader N, Noone AM, Yu M, Cronin KA (2012) Use of 
+imputed population-based cancer registry data as a method of 
+accounting for missing information: application to estrogen recep-
+tor status for breast cancer. Am J Epidemiol 176(4):347–356. https​
+://doi.org/10.1093/aje/kwr51​2
+	50.	 Institute of Medicine National Cancer Policy Forum (2009) 
+Ensuring quality cancer care through the oncology workforce: 
+sustaining care in the 21st century: workshop summary. National 
+Academies Press, Washington, DC
+	51.	 Meilleur A, Subramanian SV, Plascak JJ, Fisher JL, Paskett ED, 
+Lamont EB (2013) Rural residence and cancer outcomes in the 
+United States: issues and challenges. Cancer Epidemiol Biomark-
+ers Prev 22(10):1657–1667. https​://doi.org/10.1158/1055-9965.
+epi-13-0404
+Publisher’s Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+Cancer Causes & Control is a copyright of Springer, 2019. All Rights Reserved.
+

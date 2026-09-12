@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1040,exclude,Not relevant to the research question/topic,HIV seroprevalence cancer patients
+1041,exclude,Not a US population-based/registry study,BC young women Latin America
+1042,exclude,Not relevant to the research question/topic,ovarian cancer incidence trends MHT
+1043,exclude,Not relevant to the research question/topic,LHW intervention Korean-American screening
+1044,exclude,Not relevant to the research question/topic,refinery occupational SIR Louisiana
+1045,exclude,Not relevant to the research question/topic,international recurrent MBC survival
+1046,exclude,Not relevant to the research question/topic,supraclavicular radiation stroke risk
+1047,exclude,Not a US population-based/registry study,global burden red meat GBD
+1048,exclude,Not relevant to the research question/topic,IGF cord blood birth weight
+1049,exclude,Not relevant to the research question/topic,older women social support qualitative
+1050,exclude,Not relevant to the research question/topic,COVID screening changes Boston cohort
+1051,exclude,Not relevant to the research question/topic,APBI balloon preservation
+1052,exclude,Not relevant to the research question/topic,RNA splicing AA/White TCGA
+1053,exclude,Not relevant to the research question/topic,rural-urban survival by race SEER
+1054,exclude,Not relevant to the research question/topic,emotion expression WHI psychometric
+1055,exclude,Not relevant to the research question/topic,second primary after thyroid cancer
+1056,exclude,Not relevant to the research question/topic,age at cancer diagnosis AIDS
+1057,exclude,Not a US population-based/registry study,BC age at diagnosis Latin America
+1058,exclude,Not relevant to the research question/topic,vaccinations/screening Arab/European white
+1059,exclude,Not relevant to the research question/topic,rehospitalization advanced cancer CCR
+1060,exclude,Not relevant to the research question/topic,radiotherapy deserts access ecologic
+1061,exclude,Not relevant to the research question/topic,LMIC immigrant NYC case series
+1062,exclude,Not relevant to the research question/topic,SMN AYA cancer California
+1063,exclude,Not relevant to the research question/topic,retinal vascular occlusion FHT
+1064,exclude,Not relevant to the research question/topic,metals toenail Sister Study
+1065,exclude,Not relevant to the research question/topic,light at night Georgia case-referent
+1066,exclude,Not relevant to the research question/topic,Medicaid expansion stage NCDB
+1067,exclude,Not relevant to the research question/topic,HER2+ NACT delays outcomes
+1068,exclude,Not a US population-based/registry study,molecular Latin America PRECAMA
+1069,exclude,Not relevant to the research question/topic,synchronous brain metastasis SEER
+1070,exclude,Not a US population-based/registry study,Gail model Singapore validation
+1071,exclude,Not a US population-based/registry study,subsequent mammography Korean
+1072,exclude,"Editorials, commentaries, letters, or conference abstracts",diet BC/prostate survival conference paper
+1073,exclude,Not a US population-based/registry study,clinicopathological Pakistan
+1074,exclude,Not relevant to the research question/topic,false-negative mammograms NMD
+1075,exclude,Not relevant to the research question/topic,obesity clinicopathological safety-net
+1076,exclude,Not relevant to the research question/topic,GWAS paclitaxel neuropathy CALGB
+1077,exclude,Not relevant to the research question/topic,Ka Lokahi Wahine training program
+1078,exclude,Not relevant to the research question/topic,PAR ovarian cancer OCWAA
+1079,exclude,Not relevant to the research question/topic,BRCA testing predictors Black women
+1080,exclude,Not relevant to the research question/topic,psychosocial risk appraisal older women
+1081,exclude,Not relevant to the research question/topic,cold environment cancer risk ecologic
+1082,exclude,Not a US population-based/registry study,anthropometry PRECAMA Latin America
+1083,exclude,Not relevant to the research question/topic,county mammography uptake rural-urban
+1084,exclude,Not relevant to the research question/topic,cord serum estrogens Chinese/US
+1085,exclude,Not relevant to the research question/topic,young-onset postpartum BC Utah outcomes
+1086,exclude,Not relevant to the research question/topic,descriptive epi second primary BC
+1087,exclude,Not relevant to the research question/topic,smoking correlates CTS
+1088,exclude,Not relevant to the research question/topic,age-dependent hormone receptors oxidant
+1089,exclude,Not relevant to the research question/topic,neighborhood determinants screening All of Us
+1090,exclude,Not relevant to the research question/topic,SES disparities screening BRFSS
+1091,exclude,Not relevant to the research question/topic,Marin County white women incidence increase
+1092,exclude,Not relevant to the research question/topic,racial disparity locoregional treatment SEER
+1093,exclude,Not a US population-based/registry study,national screening disparity Korea
+1094,exclude,Not relevant to the research question/topic,Native Hawaiian qualitative experience
+1095,exclude,Not relevant to the research question/topic,uninsured MN screening program estimates
+1096,exclude,Not relevant to the research question/topic,rice consumption cancer NHS/HPFS
+1097,exclude,Not relevant to the research question/topic,rice consumption CTS
+1098,exclude,Not relevant to the research question/topic,ER+ BC environmental pollutants SEER county
+1099,exclude,Not relevant to the research question/topic,adjuvant endocrine therapy adherence

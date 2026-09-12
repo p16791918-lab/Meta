@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1520,exclude,Not a US population-based/registry study,VENUSCANCER 39 countries patterns of care
+1521,exclude,Not relevant to the research question/topic,BC mortality racial disparities WONDER
+1522,exclude,Not a US population-based/registry study,ferritin iron Korean cohort
+1523,exclude,Not relevant to the research question/topic,opioid disparities Puerto Rico
+1524,exclude,Not relevant to the research question/topic,oncoplastic reduction lymphedema
+1525,exclude,Not relevant to the research question/topic,ESR1 polymorphisms meta-analysis
+1526,exclude,Not a US population-based/registry study,AYA burden North Africa GBD
+1527,exclude,Not a US population-based/registry study,deep learning risk mortality Korean
+1528,exclude,Not a US population-based/registry study,BRCA CBC Japanese registry
+1529,exclude,Not relevant to the research question/topic,SVI BC disparities meta-analysis
+1530,exclude,Not a US population-based/registry study,radiologist AI concordance Korean
+1531,exclude,Not relevant to the research question/topic,diet quality cancer Black cohort SCCS
+1532,exclude,Not relevant to the research question/topic,omitting RT LUMINA SEER
+1533,exclude,Not a US population-based/registry study,social inequalities Brazil
+1534,exclude,Not a US population-based/registry study,serum metabolites South Africa
+1535,exclude,Not a US population-based/registry study,cascade testing Latin America
+1536,exclude,Not a US population-based/registry study,MHT BC Norway erratum
+1537,exclude,Not relevant to the research question/topic,metastatic landscape stage IV SEER
+1538,exclude,Not a US population-based/registry study,structural/sociocultural predictors worldwide
+1539,exclude,Not relevant to the research question/topic,BC in transgender TriNetX
+1540,exclude,Not relevant to the research question/topic,CBTRUS brain tumors US
+1541,exclude,Not a US population-based/registry study,early detection program Peru
+1542,exclude,Not a US population-based/registry study,MRI screening model China trial
+1543,exclude,Not relevant to the research question/topic,Herombopag thrombocytopenia trial
+1544,exclude,Not a US population-based/registry study,geospatial stage incidence South Korea
+1545,exclude,Not a US population-based/registry study,survival by coverage Brazil
+1546,exclude,Not relevant to the research question/topic,survival low-income hospitals NCDB
+1547,exclude,Not relevant to the research question/topic,CGP castration-resistant prostate
+1548,exclude,Not relevant to the research question/topic,lymphedema ILR trends
+1549,exclude,Not a US population-based/registry study,benzodiazepine dementia Korean
+1550,exclude,Not relevant to the research question/topic,qigong acupressure CIPN trial
+1551,exclude,Not a US population-based/registry study,CHEK2 East Asia case-control
+1552,exclude,Not a US population-based/registry study,spatiotemporal incidence Iran
+1553,exclude,Not relevant to the research question/topic,TCM aromatase docking screening
+1554,exclude,Not a US population-based/registry study,atomic bomb survivors Japan LSS
+1555,exclude,Not relevant to the research question/topic,DPYD pharmacogenomics trial
+1556,exclude,Not a US population-based/registry study,ribociclib anastrozole Japan trial
+1557,exclude,Not a US population-based/registry study,incidence/mortality India 43 registries
+1558,exclude,Not a US population-based/registry study,Brazilian genome map oncology
+1559,exclude,Not a US population-based/registry study,AYA BC global GBD
+1560,exclude,Not a US population-based/registry study,autopsy diagnostic errors Japan
+1561,exclude,Not a US population-based/registry study,inflammatory myopathies Chile
+1562,exclude,Not relevant to the research question/topic,Puerto Rico oldest residents burden 85+
+1563,exclude,Not relevant to the research question/topic,cancer/AF mortality US WONDER
+1564,exclude,Not relevant to the research question/topic,stromal disruption etiology
+1565,exclude,Not a US population-based/registry study,RT skin cancer Korea
+1566,exclude,Not a US population-based/registry study,GBD/GLOBOCAN spatiotemporal
+1567,exclude,Not a US population-based/registry study,air pollution survival Chinese
+1568,exclude,Not relevant to the research question/topic,aortic aneurysm racial disparities Medicare
+1569,include,,Okinawan vs mainland Japanese American incidence MEC
+1570,exclude,Not a US population-based/registry study,TNBC incidence Greater Paris France
+1571,exclude,Not relevant to the research question/topic,Lactobacillus NSCLC/TNBC trial
+1572,exclude,Not a US population-based/registry study,BC trends perimenopausal cross-national GBD
+1573,exclude,Not a US population-based/registry study,incidence/survival Manizales Colombia
+1574,exclude,Not relevant to the research question/topic,BC incidence active duty vs civilian
+1575,exclude,Not relevant to the research question/topic,male BC leukocytosis case report
+1576,exclude,Not relevant to the research question/topic,oncobiome urban/rural
+1577,exclude,Not relevant to the research question/topic,SBRT spinal metastases
+1578,exclude,Not a US population-based/registry study,Aboriginal survival Australia
+1579,exclude,Not relevant to the research question/topic,tislelizumab safety pooled

@@ -1,0 +1,1861 @@
+record_id=2917 pmid=24114568 doi=10.3322/caac.21203
+SOURCE: manual-pdf
+TITLE: Breast cancer statistics, 2013
+
+Breast Cancer Statistics, 2013
+Carol DeSantis, MPH1*; Jiemin Ma, PhD1; Leah Bryan, MPH1; Ahmedin Jemal, DVM, PhD2
+In this article, the American Cancer Society provides an overview of female breast cancer statistics in the United States, includ-
+ing data on incidence, mortality, survival, and screening. Approximately 232,340 new cases of invasive breast cancer and
+39,620 breast cancer deaths are expected to occur among US women in 2013. One in 8 women in the United States will
+develop breast cancer in her lifetime. Breast cancer incidence rates increased slightly among African American women;
+decreased among Hispanic women; and were stable among whites, Asian Americans/Pacific Islanders, and American Indians/
+Alaska Natives from 2006 to 2010. Historically, white women have had the highest breast cancer incidence rates among
+women aged 40 years and older; however, incidence rates are converging among white and African American women, particu-
+larly among women aged 50 years to 59 years. Incidence rates increased for estrogen receptor-positive breast cancers in the
+youngest white women, Hispanic women aged 60 years to 69 years, and all but the oldest African American women. In contrast,
+estrogen receptor-negative breast cancers declined among most age and racial/ethnic groups. These divergent trends may
+reflect etiologic heterogeneity and the differing effects of some factors, such as obesity and parity, on risk by tumor subtype.
+Since 1990, breast cancer death rates have dropped by 34% and this decrease was evident in all racial/ethnic groups except
+American Indians/Alaska Natives. Nevertheless, survival disparities persist by race/ethnicity, with African American women
+having the poorest breast cancer survival of any racial/ethnic group. Continued progress in the control of breast cancer will
+require sustained and increased efforts to provide high-quality screening, diagnosis, and treatment to all segments of the popu-
+lation. CA Cancer J Clin 2014;64:52-62. V
+C 2013 American Cancer Society, Inc.
+Keywords: breast neoplasms, epidemiology, health disparities, screening and early detection
+Introduction
+Materials and Methods
+Data Sources
+Data regarding incidence, probabilities for developing cancer, and cause-speciﬁc survival were obtained from the Surveil-
+lance, Epidemiology, and End Results (SEER) program of the National Cancer Institute.1-4 The SEER program has been
+collecting clinical, pathological, and demographic information on cancer patients since 1973. Data are available for whites,
+African Americans, and all races combined since 1973 and for American Indians/Alaska Natives, Asian Americans/Paciﬁc
+Islanders, and Hispanics/Latinas since 1992.
+The SEER program began collecting information on ER status in 1990. Over time, data concerning ER status have
+become more complete, with missing information ranging from 23% in 2000 to 4% in 2010. To account for the improve-
+ment in completeness when analyzing trends, we allocated ER status for those with missing information according to
+1Epidemiologist, Surveillance and Health Services Research, American Cancer Society, Atlanta, GA; 2Vice President, Surveillance and Health Services
+Research, American Cancer Society, Atlanta, GA
+Corresponding author: Carol DeSantis, MPH, Surveillance and Health Services Research, American Cancer Society, 250 Williams St NW, Atlanta, GA 30303;
+carol.desantis@cancer.org
+DISCLOSURES: The authors report no conflicts of interest.
+doi: 10.3322/caac.21203. Available online at cacancerjournal.com
+52
+CA: A Cancer Journal for Clinicians
+Breast Cancer Statistics, 2013
+Excluding skin cancers, breast cancer is the most common cancer diagnosed among women in the United States, accounting
+for nearly 1 in 3 cancers. It is also the second leading cause of cancer death among women after lung cancer. In this article,
+we describe trends in breast cancer incidence, mortality, and survival rates by race/ethnicity in the United States, as well as
+state variations in these measures. We further examine recent incidence trends by estrogen receptor (ER) status and age at
+diagnosis. Additional data are available from the biennial publication of Breast Cancer Facts & Figures (available at cancer.
+org/statistics).
+
+observed
+proportions
+of
+ER-positive
+(ER1)
+and
+ER-negative (ER-) breast cancer cases by age and year of
+diagnosis
+using
+the
+method
+previously
+described
+by
+Anderson et al.5
+Trends by ER status were also adjusted for reporting
+delay using delay adjustment ratios from the National
+Cancer Institute through the Cancer Query Systems
+(CanQues)
+database.6
+Delay
+adjustment
+accounts
+for
+anticipated future corrections to reported cancer case counts
+and primarily affects the most recent years of incidence
+data. Delay adjustment ratios are not available for the
+SEER 13 and SEER 18 registries, and therefore SEER 9
+delay factors were used to adjust these data. Furthermore,
+ratios are not available by Hispanic ethnicity and therefore
+ratios for whites and African Americans were used to adjust
+rates for non-Hispanic whites and non-Hispanic African
+Americans, respectively, and white ratios were used for
+Hispanics.
+Incidence rates by race/ethnicity for 2006 through 2010,
+state-speciﬁc incidence rates, and the proportion of breast
+cancers diagnosed at in situ and regional/distant stages
+were obtained using data from the North American
+Association of Central Cancer Registries based on inci-
+dence data from SEER and the National Program of
+Cancer Registries.7,8
+Mortality data were obtained from the SEER program’s
+SEER*Stat database as provided by the National Center
+for Health Statistics.4,9,10 Beginning in 1969, data are
+available for whites and African Americans. Since 1990,
+data are available for the 5 major racial and ethnic groups:
+non-Hispanic whites, African Americans, Asian Ameri-
+cans/Paciﬁc Islanders, American Indians/Alaska Natives,
+and Hispanics. Population data were obtained from the US
+Census Bureau.
+Prevalence data regarding mammography by age and
+state were obtained from the 2010 and 2012 Behavioral
+Risk Factor Surveillance System, an ongoing system of sur-
+veys conducted by the individual state health departments
+in cooperation with the Centers for Disease Control and
+Prevention. For describing the current screening prevalence
+by state, we used 2012 data; however, we used data from
+2010 for examining the association with currently available
+incidence data from 2006 through 2010.
+Statistical Analyses
+Estimates of the total number of invasive and in situ breast
+cancer cases and breast cancer deaths for 2013 were pub-
+lished previously.11 We calculated the estimated number of
+breast cancer cases by age at diagnosis by applying the pro-
+portion of cases diagnosed in each age group during 2006
+through 2010 from the North American Association of
+Central Cancer Registries analytic ﬁle to the total number
+of estimated cases of invasive and in situ breast cancer.
+Similarly, we calculated the estimated number of breast can-
+cer deaths by age at death by applying the proportion of
+deaths that occurred in each age group during 2006 through
+2010 to the total estimated breast cancer deaths in 2013.
+We examined incidence trends by race/ethnicity, age,
+and ER status and mortality trends by state using the Join-
+point regression program to calculate the average annual
+percent change.12 The relationship between state-level
+mammography screening rates in 2010 and the percentage
+of breast cancer cases diagnosed at in situ and late stages
+between 2006 and 2010 was examined by the Pearson
+correlation coefﬁcient. Probabilities of developing breast
+cancer were calculated using DevCan (Probability of Devel-
+oping Cancer Software), which was developed by the
+National Cancer Institute.13
+Selected Findings
+Expected Numbers of New Cases and Deaths
+Table 1 shows the estimated number of female breast can-
+cer cases and deaths that are expected to occur in the
+United States in 2013 by age. Approximately 232,340 new
+cases of invasive breast cancer and 39,620 deaths are
+expected among US women in 2013.11 Approximately 79%
+of new cases and 88% of breast cancer deaths in 2013 will
+occur among women aged 50 years and older. In addition
+to invasive breast cancers, about 64,640 new diagnoses of in
+situ breast cancer are expected among US women in 2013.
+Probability of Developing Invasive Female
+Breast Cancer
+A woman living in the United States has a 12.3%, or a 1-in-
+8, lifetime risk of being diagnosed with breast cancer (Table
+2). In the 1970s, the lifetime risk of being diagnosed with
+breast cancer was 1 in 11. This increase in risk is due to a
+longer life expectancy, as well as increases in breast
+TABLE 1.
+Estimated New Female Breast Cancer Cases
+and Deaths by Age, United States, 2013a
+AGE
+IN SITU CASES
+INVASIVE CASES
+DEATHS
+<40
+1,900
+10,980
+1,020
+<50
+15,650
+48,910
+4,780
+50-64
+26,770
+84,210
+11,970
+651
+22,220
+99,220
+22,870
+All ages
+64,640
+232,340
+39,620
+aRounded to the nearest 10.
+Source: Total estimated cases are based on 1995 to 2009 incidence rates
+from 49 states as reported by the North American Association for Central
+Cancer Registries. Total estimated deaths are based on data from US Mortal-
+ity Data, 1995 to 2009, National Center for Health Statistics, Centers for Dis-
+ease Control and Prevention.
+CA CANCER J CLIN 2014;64:52–62
+VOLUME 64 _ NUMBER 1 _ JANUARY/FEBRUARY 2014
+53
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cancer incidence. Lifetime risk reﬂects an average woman’s
+risk over an entire lifetime, including the possibility that she
+may die of another cause before she would have been diag-
+nosed with breast cancer. Age-speciﬁc probabilities for
+developing breast cancer over a 10-year period are also pro-
+vided in Table 2. For example, the risk for a woman aged 50
+years without cancer of being diagnosed with breast cancer
+over the next 10 years is 2.3% (or 1 in 43 women who are
+aged 50 years will be diagnosed with breast cancer by age 60
+years).
+Long-Term Incidence Trends
+Delay-adjusted incidence rates for in situ and invasive female
+breast cancer for women aged younger than 50 years and
+those aged 50 years and older are presented in Figure 1.
+Much of the historic increase in breast cancer incidence
+reﬂects changes in reproductive patterns, such as delayed
+childbearing and having fewer children, which are recog-
+nized risk factors for breast cancer. However, breast cancer
+incidence rates increased rapidly in the 1980s due largely to
+the greater use of mammography screening. The wide-
+spread uptake of mammography screening inﬂated the inci-
+dence rate because cancers were being diagnosed 1 to 3
+years earlier than they otherwise would have in the absence
+of screening and may also have led to the detection of indo-
+lent cases. Overall rates stabilized in the early 1990s, fol-
+lowed by a slower increase during the latter half of the
+decade. This trend may reﬂect further increases in the prev-
+alence of mammography screening as well as rising rates of
+obesity and the use of menopausal hormones, both of which
+increase breast cancer risk. Between 2002 and 2003, breast
+cancer rates dropped sharply (nearly 7%), most likely due to
+the decreased use of menopausal hormones after the 2002
+publication of the results of the Women’s Health Initiative
+randomized trial.14-16 The decline occurred primarily in
+white women, in women aged 50 years and older, and in
+women with ER1 disease.15,17 This trend may also, in
+part, reﬂect declines in mammography screening. The per-
+centage of women aged 40 years and older who reported
+having a mammogram within the past 2 years peaked in
+2000, declined slightly, and has since stabilized.18 Similar
+reversals in breast cancer trends have been observed inter-
+nationally as well.19-23 Breast cancer incidence rates have
+been relatively stable among women aged younger than 50
+years since 1985 and since 2004 among women aged 50
+years and older.4
+Incidence rates of in situ breast cancer rose rapidly in the
+1980s and 1990s (Fig. 1), largely because of increased
+TABLE 2.
+Age-Specific Probabilities of Developing
+Invasive Female Breast Cancera
+IF CURRENT AGE IS:
+THE PROBABILITY OF DEVELOPING
+BREAST CANCER IN THE NEXT 10 YEARS IS:
+OR 1 IN:
+20
+0.06%
+1,732
+30
+0.44%
+228
+40
+1.45%
+69
+50
+2.31%
+43
+60
+3.49%
+29
+70
+3.84%
+26
+Lifetime risk
+12.29%
+8
+aAmong those free of cancer at the beginning of the age interval. Based on
+cases diagnosed between 2008 and 2010. Percentages and "1 in" numbers
+may not be numerically equivalent due to rounding. Probabilities derived
+using the National Cancer Institute DevCan Software (version 6.7.0).
+FIGURE 1. Incidence and Mortality Rates* of Female Breast Cancer by Age, United States, 1975 to 2010. *Rates are age adjusted to the 2000 US
+standard population within each age group. Sources: Incidence: Surveillance, Epidemiology, and End Results (SEER) Program, SEER 9 registries, 1975-
+2010. Bethesda, MD: National Cancer Institute, Division of Cancer Control and Population Sciences; 2013; data were adjusted for reporting delay. Mor-
+tality: National Center for Health Statistics, Centers for Disease Control and Prevention, as provided by the SEER program.
+Breast Cancer Statistics, 2013
+54
+CA: A Cancer Journal for Clinicians
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+diagnosis as a result of increases in mammography screen-
+ing. The increase was observed in women aged both older
+and younger than 50 years, although it was larger in the
+older age group. Since 1999, incidence rates of in situ breast
+cancer have stabilized in women aged 50 years and older,
+but continue to increase in younger women (1.9% per year
+from 1998 to 2010). The stabilization in incidence among
+older women likely reﬂects trends in mammography screen-
+ing rates, which peaked in 2000 and then stabilized at a
+slightly lower rate.18 It may also reﬂect a reduced pool of
+prevalent cases as a result of widespread screening.
+Incidence Trends by Race/Ethnicity
+Breast cancer incidence rates and short-term (2006-2010)
+trends by race/ethnicity are described in Table 3.4,8 Long-
+term trends in incidence rates by race/ethnicity are also
+shown in Figure 2. Female breast cancer incidence rates
+vary substantially by race/ethnicity. From 2006 to 2010, the
+average annual female breast cancer incidence rate was
+highest in non-Hispanic white women (127.3 cases per
+100,000 females) and lowest for Asian Americans/Paciﬁc
+Islanders (84.7 cases per 100,000 females). During 2006
+through 2010 (the most recent 5 years of data available),
+overall breast cancer incidence rates increased slightly (0.2%
+per year) among African American women; decreased by
+0.6% per year in Hispanic women; and did not change sig-
+niﬁcantly among non-Hispanic whites, Asian Americans/
+Paciﬁc Islanders, or American Indians/Alaska Natives.
+Notably, breast cancer incidence rates for white and African
+American women are converging. Rates for white and Afri-
+can American women were adjusted for delays in case
+reporting; delay-adjusted rates are not available for other
+races/ethnicities, resulting in slightly underestimated rates
+for the most recent data years. In addition, rates for Ameri-
+can Indians/Alaska Natives are less stable than for other
+racial and ethnic groups because high-quality data for this
+group are only available from limited geographic areas.
+Incidence Trends by Age and ER Status
+Breast cancer incidence trends by age for the 3 largest racial/
+ethnic groups are presented in Figure 3. Although non-
+Hispanic white women have the highest overall breast cancer
+incidence rates in most age groups, African American
+women have higher rates among women aged younger than
+40 years.4 In this ﬁgure, incidence rates are similar for white
+and African American women aged 30 years to 49 years.
+TABLE 3.
+Rates and Trends in Incidence and Mortality and Cause-Specific Survival for Female Breast Cancer by
+Race/Ethnicity
+INCIDENCE
+MORTALITY
+5-YEAR CAUSE-SPECIFIC SURVIVAL
+RACE/ETHNICITY
+RATE 2006-2010
+AAPCa 2006-2010
+RATE 2006-2010
+AAPCa 2001-2010
+RATE 2003-2009
+Non-Hispanic White
+127.3
+0.1b
+22.7
+21.8c
+88.6
+African American
+118.4
+0.2c
+30.8
+21.6c
+78.9
+Asian American/Pacific Islander
+84.7
+0.0
+11.5
+21.0c
+91.1
+American Indian/Alaska Native
+90.3
+20.3
+15.5
+20.4
+85.4
+Hispanic/Latina
+91.1
+20.6c
+14.8
+21.7c
+87.0
+aAAPC indicates average annual percent change.
+bAAPC is for white women and is not exclusive of Hispanic ethnicity.
+cAAPC is significantly different from zero (P < .05).
+Sources: Incidence rates: Copeland et al.8 AAPCs, mortality rates, and survival: Howlader et al.4
+FIGURE 2. Trends in Female Breast Cancer Incidence Rates* by Race
+and Ethnicity, 1975 to 2010. *Rates are age adjusted to the 2000 US
+standard population. Rates for Asian Americans/Pacific Islanders, His-
+panics/Latinas, and American Indians/Alaska Natives are 2-year moving
+averages. Source: Surveillance, Epidemiology, and End Results (SEER) Pro-
+gram, National Cancer Institute. Data for whites and African Americans
+are from the SEER 9 registries and were adjusted for reporting delays.
+Data for other races/ethnicities are from the SEER 13 registries. For His-
+panics, incidence data do not include cases from the Alaska Native Regis-
+try. Incidence data for American Indians/Alaska Natives are based on
+Contract Health Service Delivery Area (CHSDA) counties.
+CA CANCER J CLIN 2014;64:52–62
+VOLUME 64 _ NUMBER 1 _ JANUARY/FEBRUARY 2014
+55
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Notably, in the women aged 50 years to 59 years, breast can-
+cer incidence rates have recently converged among non-
+Hispanic white and African American women.
+Overall breast cancer incidence rates increased during the
+most recent time period (2006-2010) among non-Hispanic
+white women aged 30 years to 49 years and African
+American women aged 60 years to 69 years, whereas rates
+decreased for Hispanic women aged 30 years to 49 years
+and 50 years to 59 years. If incidence rates continue to
+increase among African American women aged 60 years to
+69 years, rates for African American and white women may
+also converge in this age group.
+We further examined the age-speciﬁc and race-speciﬁc
+incidence trends by ER status. In every age group, white
+women have the highest rates of ER1 breast cancer and
+African American women have the highest rates of
+ER- breast cancer. These differences may reﬂect racial
+variations in the prevalence of risk factors that differ by
+FIGURE 3. Trends in Female Breast Cancer Incidence Rates* by Age, Race/Ethnicity, and Estrogen Receptor Status, 2000 to 2010. *Rates are per
+100,000 age adjusted to the 2000 US standard population. Note: A smaller scale was used to plot estrogen receptor-negative incidence rates to facili-
+tate visualization of the trends. ER status was imputed for those with missing information. Source: Incidence: Surveillance, Epidemiology, and End
+Results (SEER) Program, SEER 18 registries, 1975-2010. Bethesda, MD: National Cancer Institute, Division of Cancer Control and Population Sciences;
+2013. Data were adjusted for reporting delay.
+Breast Cancer Statistics, 2013
+56
+CA: A Cancer Journal for Clinicians
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ER status. For example, reproductive history and obesity
+appear to be more strongly associated with ER1 breast
+cancer, whereas lower socioeconomic status is associated
+with an increased risk of ER- breast cancer.24,25 Studies
+that include black women with breast cancer in Africa
+have suggested that genetic differences may also play a
+role.26,27
+Recent incidence trends vary substantially by ER status.
+During 2006 through 2010, the incidence rates of ER1
+breast cancer increased in every age group among African
+American women except for the oldest (those aged 70 years
+and older), with faster increases among younger age groups.
+Rates of ER1 breast cancers also increased among younger
+(aged 30 years to 49 years) white women and Hispanic
+women aged 60 years to 69 years, whereas a slight decrease
+was observed for older (those aged 70 years and older) His-
+panic women. Signiﬁcant decreases were also observed for
+ER- breast cancer in most age/racial/ethnic groups. ER-
+breast cancer declined sharply (more than 3% per year)
+among all women aged younger than 60 years. Among
+women aged 60 years to 69 years, the decrease in ER-
+breast cancers was observed only among white women. In
+the oldest age group (those aged 70 years and older), ER-
+breast cancers decreased among both non-Hispanic white
+and Hispanic women.
+Previous studies have also noted increasing trends for
+ER1 breast cancer and decreasing trends for ER- breast
+cancer in the United States and Denmark.5,17,28-30 The rea-
+sons for the diverging trends are not clear. We previously
+suggested that they may reﬂect the establishment of a
+newer lower cutoff for ER positivity (1% of tumor nuclei
+positive by immunohistochemistry), which had been as
+high as 10%.17,31 However, a recent study suggests this may
+not be much of a contributing factor because similar recent
+trends were observed in Denmark, where ER measurement
+has been consistent.28 There is a growing body of evidence
+that breast cancer risk factors for ER1 and ER- breast can-
+cers are distinct.24,32 It has recently been hypothesized that
+the divergent trends by ER status may be reﬂective of
+increasing trends in obesity and changes in reproductive
+patterns, factors that studies suggest may be differentially
+associated with ER1 and ER- breast cancers.24,32 Other
+factors, such as high levels of fruit and vegetable consump-
+tion and physical activity, have also been linked to a lower
+risk of ER- breast cancers.33,34
+Long-Term Mortality Trends
+Figure 1 also shows trends in death rates for breast cancer
+by age at death. After slowly increasing for many years
+(0.4% annually from 1975-1990), breast cancer death rates
+decreased by 34% from 1990 to 2010.4 The decline was
+larger among women aged younger than 50 years (3.1% per
+year) than among those aged 50 years and older (1.9% per
+year).4 Declines in breast cancer mortality have been attrib-
+uted
+to
+both
+improvements
+in
+treatment
+and
+early
+detection.35
+Mortality Trends by Race/Ethnicity
+Similar to incidence rates, mortality rates vary by race and
+ethnicity. During 2006 through 2010, the average annual
+female breast cancer death rate was highest in African
+Americans (30.8 deaths per 100,000 females) and lowest
+among Asian Americans/Paciﬁc Islanders (11.5 deaths per
+100,000 females) (Table 3).4 The higher death rate among
+African Americans, despite their having a lower incidence
+rate than non-Hispanic whites, is due to both a later stage
+of disease at diagnosis and poorer stage-speciﬁc survival.
+For example, the 5-year relative survival for regional stage
+breast cancer is 74% in African American women compared
+with 86% in white women.4 Research suggests that racial
+disparities in cancer mortality are driven in large part by
+differences in socioeconomic status.36
+Long-term trends in breast cancer mortality rates by
+race/ethnicity are shown in Figure 4. From 2001 through
+2010, breast cancer death rates declined annually by 1.8%
+in non-Hispanic whites, 1.7% in Hispanics/Latinas, 1.6%
+in African Americans, and 1.0% in Asian Americans/
+Paciﬁc
+Islanders,
+but
+remained
+unchanged
+among
+American Indians/Alaska Natives. A striking divergence in
+long-term breast cancer mortality trends between African
+American and white women began in the early 1980s. This
+mortality difference most likely reﬂects a combination of
+factors, including differences in stage at diagnosis, obesity
+and other comorbidities, and tumor characteristics, as well
+as access to, compliance with, and response to treat-
+ment.37,38 By 2010, death rates were 41% higher in African
+American compared with white women.
+Survival
+The 5-year cause-speciﬁc survival rates by race/ethnicity are
+provided in Table 3.4 Cause-speciﬁc survival rates are used
+instead of relative survival to describe survival in racial and
+ethnic minorities because estimates of normal life expect-
+ancy are not available for all racial/ethnic groups. Cause-
+speciﬁc survival is the probability of not dying of breast
+cancer within a speciﬁed number of years after diagnosis.
+African American women have the lowest 5-year survival
+rate (78.9%) of any racial or ethnic group. Asian American/
+Paciﬁc Islander women have the highest 5-year breast can-
+cer survival rate (91.1%).
+Poverty, less education, and a lack of health insurance are
+also associated with lower breast cancer survival.39-41
+Patients with breast cancer who reside in lower-income
+CA CANCER J CLIN 2014;64:52–62
+VOLUME 64 _ NUMBER 1 _ JANUARY/FEBRUARY 2014
+57
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+areas have lower 5-year survival rates than those in higher-
+income areas at every stage of diagnosis.41
+Variation by State
+State variations in mammography screening prevalence,
+breast cancer incidence, and mortality rates and the propor-
+tion of breast cancers diagnosed at in situ and regional/dis-
+tant stages are presented in Table 4. In 2012, the
+prevalence of recent mammography screening within the
+past year among non-Hispanic white women aged 40 years
+and older ranged from 48% in Wyoming to 72% in Massa-
+chusetts. Thirty-two states had sample sizes large enough
+to estimate the prevalence of mammography screening
+within the past year in African American women aged 40
+years and older, which ranged from 49% in Arkansas to
+73% in Delaware.
+Breast cancer incidence rates ranged from 109.6 cases
+per 100,000 females in Arkansas to 160.5 cases per
+100,000 females in the District of Columbia among non-
+Hispanic white women and from 83.4 cases per 100,000
+females in New Mexico to 147.5 cases per 100,000 females
+in Alaska among African American women. When com-
+paring incidence rates among states, it is important to con-
+sider that incidence rates reﬂect the intensity of screening
+as well as disease occurrence. The percentage of in situ
+breast cancers, an indicator of mammography use, varied
+from 15.6% in New Mexico to 25.2% in Massachusetts
+among non-Hispanic white women and from 15.6% in
+Mississippi to 27.7% in Massachusetts among African
+American women. The proportion of regional/distant
+stage cancers ranged from 29.0% in Vermont to 38.4% in
+Utah among non-Hispanic white women and from 36.9%
+in Delaware to 53.2% in Arkansas among African Ameri-
+can women.
+We assessed the relationship between mammography
+screening rates in 2010 and breast cancer stage at diagno-
+sis during 2006 through 2010. State-level mammography
+screening prevalence was positively correlated with the
+percentage of breast cancers diagnosed at in situ stage
+(correlation coefﬁcient [r] 5 0.62; P < .001) and negatively
+correlated with the percentage of breast cancers diagnosed
+at late stages (r 5 20.51; P < .001) among non-Hispanic
+white women. Among African American women, state-
+level mammography screening prevalence was also corre-
+lated with in situ diagnoses (r 5 0.47; P 5 .006), but not
+with late-stage diagnoses. Despite similar screening rates,
+African American women have remained more likely to
+be diagnosed with regional and distant stage breast can-
+cers compared with white women, which may reﬂect dif-
+ferences in the quality of mammography screening and
+delayed
+follow-up
+for
+abnormal
+mammography
+ﬁndings.42,43
+Breast cancer death rates among non-Hispanic white
+women ranged from 19.9 in Hawaii to 26.2 in New Jer-
+sey. In contrast, breast cancer death rates among African
+American women ranged from 19.7 in Rhode Island to
+35.4 in Tennessee. We also examined trends in breast
+cancer mortality rates from 2001 through 2010 by state
+for women of all races combined (data not shown).
+Death rates signiﬁcantly declined in 36 states during the
+last
+10
+years;
+however,
+they
+remained
+relatively
+unchanged in the remaining 14 states (Alaska, Arkansas,
+Delaware, Hawaii, Idaho, Maine, Montana, Nebraska,
+Nevada, New Mexico, South Dakota, Utah, West Vir-
+ginia, and Wyoming) as well as the District of Columbia.
+The lack of a decline in these states is likely related to
+variations in the prevalence and quality of mammography
+screening, as well as state differences in racial and socioe-
+conomic composition.
+Conclusions
+Overall
+breast
+cancer
+incidence
+rates
+are
+converging
+among white and African American women because of
+increases in African American women coupled with stable
+rates in white women. Incidence rates decreased for ER-
+tumors and increased for ER1 tumors. The decrease in
+ER- breast cancers may have contributed to the declines
+in breast cancer mortality rates because these cancers
+often have a poorer prognosis than ER1 breast cancers.
+FIGURE 4. Trends in Female Breast Cancer Death Rates* by Race and
+Ethnicity, 1975 to 2010. *Rates are age adjusted to the 2000 US standard
+population. Note: For Hispanics, information is included for all states except
+Connecticut, Maine, Maryland, Minnesota, New Hampshire, New York,
+North Dakota, Oklahoma, Vermont, and the District of Columbia. For Ameri-
+can Indians/Alaska Natives, data are from Contract Health Service Delivery
+Area (CHSDA) counties. Source: National Center for Health Statistics, Cen-
+ters for Disease Control and Prevention, as provided by the Surveillance,
+Epidemiology, and End Results Program, National Cancer Institute.
+Breast Cancer Statistics, 2013
+58
+CA: A Cancer Journal for Clinicians
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4.
+State Variation in Female Breast Cancer Incidence and Mortality Ratesb and Mammography Usage by Race
+NON-HISPANIC WHITE
+AFRICAN AMERICAN
+RECENT
+MAMMOGRAMc
+2012
+INCIDENCE
+2006-2010
+MORTALITY
+2006-2010
+RECENT
+MAMMOGRAMc
+2012
+INCIDENCE
+2006-2010
+MORTALITY
+2006-2010
+AGE
+401, %
+%
+IN SITUd
+%
+REGIONAL/
+DISTANTd
+INVASIVE
+OVERALL
+RATE
+OVERALL
+RATE
+AGE
+401, %
+%
+IN SITUd
+%
+REGIONAL/
+DISTANTd
+INVASIVE
+OVERALL
+RATE
+OVERALL
+RATE
+State
+Alabama
+58
+18.6
+37.2
+117.9
+21.0
+64
+18.3
+46.3
+121.2
+31.5
+Alaska
+53
+22.6
+33.8
+130.7
+25.2
+a
+a
+a
+147.5
+a
+Arizona
+56
+18.9
+32.9
+117.1
+21.5
+a
+17.9
+42.8
+95.7
+27.7
+Arkansas
+50
+17.7
+37.3
+109.6
+22.3
+49
+18.8
+53.2
+100.8
+32.9
+California
+60
+18.7
+33.4
+140.6
+24.7
+70
+18.4
+43.1
+120.7
+31.8
+Colorado
+55
+19.6
+33.3
+127.9
+20.2
+a
+18.2
+46.5
+121.5
+23.3
+Connecticut
+66
+25.0
+31.1
+140.2
+21.8
+67
+26.7
+40.0
+110.9
+27.0
+Delaware
+66
+23.2
+31.6
+126.9
+23.3
+73
+23.3
+36.9
+126.7
+23.4
+District of Columbiae 57
+20.8
+35.5
+160.5
+22.6
+66
+18.6
+44.2
+133.6
+34.7
+Florida
+60
+18.8
+32.8
+119.7
+21.5
+60
+19.4
+46.5
+105.4
+29.1
+Georgia
+61
+20.0
+34.2
+124.0
+21.9
+65
+19.7
+45.5
+120.9
+29.6
+Hawaii
+60
+19.2
+29.8
+130.4
+19.9
+a
+a
+a
+128.5
+a
+Idaho
+50
+16.6
+36.1
+121.6
+22.3
+a
+a
+a
+a
+a
+Illinois
+58
+20.2
+34.9
+131.6
+23.2
+59
+21.0
+45.5
+123.4
+33.4
+Indiana
+53
+18.5
+34.0
+118.1
+23.6
+52
+20.5
+42.8
+117.6
+31.6
+Iowa
+62
+18.6
+33.5
+124.6
+21.6
+a
+22.7
+44.4
+114.0
+28.3
+Kansas
+60
+16.8
+34.7
+123.1
+22.3
+60
+17.2
+48.1
+124.0
+28.1
+Kentucky
+57
+16.8
+35.0
+121.5
+22.7
+68
+19.1
+41.8
+129.4
+32.9
+Louisiana
+59
+17.3
+35.7
+119.9
+22.7
+64
+16.1
+46.2
+124.6
+33.8
+Maine
+66
+21.8
+32.0
+127.3
+20.8
+a
+a
+a
+a
+a
+Maryland
+64
+20.6
+33.7
+131.3
+22.8
+72
+20.5
+42.9
+125.7
+31.7
+Massachusettsf
+72
+25.2
+29.7
+137.9
+21.8
+70
+27.7
+38.5
+97.7
+23.2
+Michigan
+59
+21.6
+32.5
+118.7
+22.8
+60
+22.7
+42.7
+119.4
+34.3
+Minnesota
+64
+a
+a
+a
+21.1
+54
+a
+a
+a
+21.9
+Mississippi
+52
+16.6
+36.9
+112.3
+20.8
+53
+15.6
+48.4
+117.3
+33.4
+Missouri
+58
+17.7
+35.6
+121.5
+23.7
+71
+19.2
+47.4
+130.9
+32.4
+Montana
+51
+19.1
+34.5
+123.5
+20.0
+a
+a
+a
+a
+a
+Nebraska
+55
+18.3
+33.6
+123.7
+20.0
+56
+19.0
+42.2
+122.8
+27.5
+Nevada
+52
+16.3
+34.8
+120.6
+24.9
+a
+17.1
+43.4
+103.7
+26.6
+New Hampshire
+65
+21.9
+31.1
+133.1
+21.5
+a
+a
+a
+107.3
+a
+New Jersey
+60
+23.5
+33.7
+139.4
+26.2
+67
+20.3
+44.3
+117.1
+30.9
+New Mexico
+50
+15.6
+32.1
+122.9
+22.4
+a
+a
+43.0
+83.4
+a
+New York
+62
+24.4
+32.3
+138.4
+22.9
+66
+22.0
+43.2
+109.0
+25.8
+North Carolina
+62
+18.9
+34.0
+127.2
+21.9
+63
+18.4
+43.3
+123.0
+29.9
+North Dakotae
+59
+16.7
+36.8
+122.9
+21.1
+a
+a
+a
+a
+a
+Ohio
+60
+18.4
+35.1
+119.2
+24.2
+64
+19.7
+43.3
+116.2
+31.6
+Oklahoma
+53
+16.5
+35.4
+120.0
+24.0
+60
+17.2
+46.0
+129.4
+34.7
+Oregon
+54
+19.3
+32.4
+130.2
+22.3
+a
+17.5
+50.0
+106.7
+22.0
+CA CANCER J CLIN 2014;64:52–62
+VOLUME 64 _ NUMBER 1 _ JANUARY/FEBRUARY 2014
+59
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Although breast cancer death rates have dropped 34%
+since 1990, not all segments of the population have bene-
+ﬁted from this decrease.
+Clinicians
+should
+follow
+recommended
+screening
+guidelines (Table 5) and encourage their patients aged
+40
+years
+and
+older
+to
+have
+annual
+mammography.
+Consistent follow-up of abnormal results, prompt diag-
+nosis, and the delivery of high-quality treatment is criti-
+cal to further improve breast cancer outcomes. It is also
+important that patients at high risk of breast cancer
+are identiﬁed and offered appropriate screening and
+follow-up.
+Strategies that may help reduce the risk of breast cancer
+include avoiding weight gain and obesity, engaging in reg-
+ular physical activity, and minimizing alcohol intake.44
+The increased risk of breast cancer associated with the use
+of combined estrogen and progestin therapy should be
+considered when evaluating treatment options for patients
+with menopausal symptoms.45 Clinicians are advised to
+TABLE 4. Continued
+NON-HISPANIC WHITE
+AFRICAN AMERICAN
+RECENT
+MAMMOGRAMc
+2012
+INCIDENCE
+2006-2010
+MORTALITY
+2006-2010
+RECENT
+MAMMOGRAMc
+2012
+INCIDENCE
+2006-2010
+MORTALITY
+2006-2010
+AGE
+401, %
+%
+IN SITUd
+%
+REGIONAL/
+DISTANTd
+INVASIVE
+OVERALL
+RATE
+OVERALL
+RATE
+AGE
+401, %
+%
+IN SITUd
+%
+REGIONAL/
+DISTANTd
+INVASIVE
+OVERALL
+RATE
+OVERALL
+RATE
+Pennsylvania
+60
+20.5
+34.3
+126.5
+23.4
+65
+21.5
+43.5
+127.8
+32.1
+Rhode Island
+68
+21.1
+31.5
+137.3
+21.5
+a
+18.3
+41.0
+104.0
+19.7
+South Carolinae
+53
+18.6
+34.3
+124.0
+21.3
+59
+18.1
+45.4
+118.5
+29.8
+South Dakota
+62
+19.9
+36.5
+119.0
+20.7
+a
+a
+a
+a
+a
+Tennessee
+57
+18.3
+35.3
+118.9
+21.8
+53
+16.5
+45.1
+122.7
+35.4
+Texas
+55
+17.5
+32.9
+124.6
+22.0
+61
+18.1
+43.6
+117.2
+33.5
+Utah
+51
+17.8
+38.4
+113.7
+22.8
+a
+a
+a
+96.7
+a
+Vermont
+62
+23.7
+29.0
+133.2
+20.7
+a
+a
+a
+a
+a
+Virginia
+64
+21.4
+32.6
+126.8
+22.8
+65
+21.9
+41.5
+127.3
+33.2
+Washington
+57
+21.0
+33.0
+134.8
+22.7
+65
+22.4
+41.4
+116.4
+24.5
+West Virginia
+58
+16.8
+34.1
+110.7
+22.2
+a
+17.9
+42.4
+105.7
+25.8
+Wisconsin
+63
+20.4
+34.1
+123.4
+21.3
+69
+24.6
+48.9
+116.5
+29.1
+Wyoming
+48
+16.3
+36.3
+113.2
+21.4
+a
+a
+a
+a
+a
+United States
+59
+19.8
+33.7
+127.3
+22.7
+64
+19.7
+44.4
+118.4
+30.8
+Range
+48-72
+15.6-25.2
+29.0-38.4
+109.6-160.5
+19.9-26.2
+49-73
+15.6-27.7
+36.9-53.2
+83.4-147.5
+19.7-35.4
+aStatistics were not shown for mammography if estimates were based on fewer than 50 respondents and for incidence and mortality rates based on 25 or
+fewer cases or deaths.
+bAll rates are per 100,000 females and age-adjusted to 2000 US standard population.
+cRecent mammogram is defined as having had a mammogram within the past year.
+dThe denominators for percent in situ include all breast cancers. The denominators for percent regional/distant include only invasive breast cancers.
+eMortality data for white women in these states are not exclusive of Hispanic ethnicity.
+fThe incidence rate for white women in Massachusetts is not exclusive of Hispanic ethnicity.
+Sources: Mammography: Behavioral Risk Factor Surveillance System 2012, Centers for Disease Control and Prevention. Incidence: Surveillance, Epidemiology,
+and End Results and National Program of Cancer Registries areas reported by the North American Association of Central Cancer Registries (NAACCR) for
+2006 through 2010. Incidence data are not available for Minnesota. Overall US incidence data do not include data from Arkansas, Minnesota, Nevada, Ohio,
+and Virginia. Mortality: National Center for Health Statistics, Centers for Disease Control and Prevention.
+TABLE 5.
+American Cancer Society Guidelines for the
+Early Detection of Breast Cancer in Average-
+Risk, Asymptomatic Women
+Age 40 and over
+l Annual mammogram
+l Annual clinical breast examination (preferably prior to mammogram)
+l Breast self-examination (optional)
+Ages 20-39
+l Clinical breast examination at least every 3 y
+l Breast self-examination (optional)
+Breast Cancer Statistics, 2013
+60
+CA: A Cancer Journal for Clinicians
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+discuss the use of tamoxifen and raloxifene for chemopre-
+vention with women at an increased risk of breast can-
+cer.46-48 Data from the 2010 National Health Interview
+Survey suggest that the use of breast cancer chemopreven-
+tion drugs remains remarkably low (well under 1%), with
+little increase in use observed since 2000, and note a slight
+shift toward raloxifene since its approval in 2007.49
+Although exemestane is currently approved by the US
+Food and Drug Administration to prevent breast cancer
+recurrence, promising results from clinical trials led the
+American Society of Clinical Oncology to include exemes-
+tane in their guidelines as a third option for chemopre-
+vention.48 Continued progress in the control of breast
+cancer will require sustained and increased efforts to pro-
+vide high-quality screening, diagnosis, and treatment to
+all segments of the population. 
+References
+1. Surveillance,
+Epidemiology,
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base:
+Incidence-SEER
+9
+Regs
+Research
+Data,
+Nov.
+2012
+Sub
+(1973-2010)
+<Katrina/Rita
+Population
+Adjustment>-
+Linked
+To
+County
+Attributes-Total
+US,
+1969-2011
+Counties.
+Bethesda,
+MD:
+National Cancer Institute, Division of Can-
+cer Control and Population Sciences, Sur-
+veillance Research Program, Surveillance
+Systems Branch; 2013. Released April 2013
+based on the November 2012 submission.
+2. Surveillance,
+Epidemiology,
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base: Incidence-SEER 13 Regs Research
+Data,
+Nov.
+2012
+Sub
+(1992-2010)
+<Katrina/Rita
+Population
+Adjustment>-
+Linked
+To
+County
+Attributes-Total
+US,
+1969-2011
+Counties.
+Bethesda,
+MD:
+National Cancer Institute, Division of Can-
+cer Control and Population Sciences, Sur-
+veillance Research Program, Surveillance
+Systems
+Branch;
+2013.
+Released
+April
+2013
+based
+on
+the
+November
+2012
+submission.
+3. Surveillance,
+Epidemiology,
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base: Incidence-SEER 18 Regs Research
+Data1Hurricane Katrina Impacted Louisi-
+ana Cases, Nov. 2012 Sub (2000-2010)
+<Katrina/Rita
+Population
+Adjustment>-
+Linked
+To
+County
+Attributes-Total
+US,
+1969-2011
+Counties.
+Bethesda,
+MD:
+National Cancer Institute, Division of Can-
+cer
+Control
+and
+Population
+Sciences,
+Surveillance Research Program, Surveil-
+lance Systems Branch; 2013. Released April
+2013
+based
+on
+the
+November
+2012
+submission.
+4. Howlader N, Noone AM, Krapcho M, et al,
+eds. SEER Cancer Statistics Review, 1975-
+2010. Bethesda, MD: National Cancer Insti-
+tute; 2013.
+5. Anderson WF, Katki HA, Rosenberg PS.
+Incidence of breast cancer in the United
+States: current and future trends. J Natl
+Cancer Inst. 2011;103:1397-1402.
+6. National Cancer Institute. Cancer Query
+Systems: Delay-Adjusted SEER Incidence
+Rates. surveillance.cancer.gov/delay/canques.
+html/. Accessed June 3, 2013.
+7. Surveillance,
+Epidemiology
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base: NAACCR Incidence-CiNA Analytic
+File, 1995-2010, for NHIAv2 Origin, Custom
+File With County, ACS Facts and Figures
+Projection Project, North American Associ-
+ation
+of
+Central
+Cancer
+Registries.
+Bethesda, MD: National Cancer Institute,
+Division of Cancer Control and Population
+Sciences, Surveillance Research Program,
+Surveillance Systems Branch; 2013.
+8. Copeland G, Lake A, Firth R, et al, eds.
+Combined Cancer Incidence for the United
+States, Canada and North America. Vol 1.
+Cancer
+In
+North
+America:
+2006-2010.
+Springfield, IL: North American Association
+of Central Cancer Registries Inc; 2013.
+9. Surveillance,
+Epidemiology,
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base: Mortality-All COD, Aggregated With
+State, Total US (1969-2010) <Katrina/Rita
+Population Adjustment>. Bethesda, MD:
+National Cancer Institute, Division of Can-
+cer Control and Population Sciences, Sur-
+veillance Research Program, Surveillance
+Systems Branch; 2013. Released April 2013;
+underlying
+mortality
+data
+provided
+by
+National
+Center
+for
+Health
+Statistics
+(cdc.gov/nchs).
+10. Surveillance,
+Epidemiology,
+and
+End
+Results (SEER) Program. SEER*Stat Data-
+base: Mortality-All COD, Aggregated With
+County, Total US (1990-2010) <Katrina/
+Rita Population Adjustment>-Linked To
+County
+Attributes-Total
+US,
+1969-2011
+Counties. Bethesda, MD: National Cancer
+Institute, Division of Cancer Control and
+Population Sciences, Surveillance Research
+Program,
+Surveillance
+Systems
+Branch;
+2013. Released April 2013; underlying mor-
+tality data provided by National Center for
+Health Statistics.
+11. Siegel R, Naishadham D, Jemal A. Cancer
+statistics, 2013. CA Cancer J Clin. 2013;63:
+11-30.
+12. Joinpoint
+Regression
+Program,
+Version
+4.0.4. Bethesda, MD: Statistical Research
+and Applications Branch, National Cancer
+Institute; 2013.
+13. DevCan:
+Probability
+of
+Developing
+or
+Dying of Cancer Software. Version 6.7.0.
+Bethesda,
+MD:
+Statistical
+Research
+and
+Applications Branch, National Cancer Insti-
+tute; 2013.
+14. Rossouw JE, Anderson GL, Prentice RL,
+et al. Risks and benefits of estrogen plus
+progestin
+in
+healthy
+postmenopausal
+women: principal results from the Wom-
+en’s
+Health
+Initiative
+randomized
+con-
+trolled trial. JAMA. 2002;288:321-333.
+15. Ravdin PM, Cronin KA, Howlader N, et al.
+The decrease in breast-cancer incidence in
+2003 in the United States. N Engl J Med.
+2007;356:1670-1674.
+16. Coombs
+NJ,
+Cronin
+KA,
+Taylor
+RJ,
+Freedman AN, Boyages J. The impact of
+changes in hormone therapy on breast can-
+cer incidence in the US population. Cancer
+Causes Control. 2010;21:83-90.
+17. DeSantis C, Howlader N, Cronin KA, Jemal
+A. Breast cancer incidence rates in U.S.
+women are no longer declining. Cancer
+Epidemiol Biomarkers Prev. 2011;20:733-
+739.
+18. Breen N, Gentleman JF, Schiller JS. Update
+on mammography trends: comparisons of
+rates in 2000, 2005, and 2008. Cancer.
+2011;117:2209-2218.
+19. Parkin DM. Is the recent fall in incidence of
+post-menopausal
+breast
+cancer
+in
+UK
+related to changes in use of hormone
+replacement therapy? Eur J Cancer. 2009;
+45:1649-1653.
+20. Antoine
+C,
+Ameye
+L,
+Paesmans
+M,
+Rozenberg S. Update of the evolution of
+breast cancer incidence in relation to hor-
+mone replacement therapy use in Belgium.
+Maturitas. 2012;72:317-323.
+21. Hemminki E, Kyyronen P, Pukkala E. Post-
+menopausal hormone drugs and breast and
+colon cancer: Nordic countries 1995-2005.
+Maturitas. 2008;61:299-304.
+22. Canfell K, Banks E, Moa AM, Beral V.
+Decrease in breast cancer incidence follow-
+ing a rapid fall in use of hormone replace-
+ment therapy in Australia. Med J Aust.
+2008;188:641-644.
+23. De P, Neutel CI, Olivotto I, Morrison H.
+Breast
+cancer
+incidence
+and
+hormone
+replacement therapy in Canada. J Natl Can-
+cer Inst. 2010;102:1489-1495.
+24. Yang XR, Chang-Claude J, Goode EL, et al.
+Associations of breast cancer risk factors
+with tumor subtypes: a pooled analysis
+from the Breast Cancer Association Consor-
+tium studies. J Natl Cancer Inst. 2011;103:
+250-263.
+25. Vona-Davis L, Rose DP. The influence of
+socioeconomic disparities on breast cancer
+tumor biology and prognosis: a review. J
+Womens Health (Larchmt). 2009;18:883-
+893.
+26. Stark A, Kleer CG, Martin I, et al. African
+ancestry and higher prevalence of triple-
+negative breast cancer: findings from an
+international study. Cancer. 2010;116:4926-
+4932.
+27. Huo D, Ikpatt F, Khramtsov A, et al. Popu-
+lation differences in breast cancer: survey
+in indigenous African women reveals over-
+representation of triple-negative breast can-
+cer. J Clin Oncol. 2009;27:4515-4521.
+28. Anderson WF, Rosenberg PS, Petito L, et al.
+Divergent estrogen receptor-positive and -
+negative breast cancer trends and etiologic
+heterogeneity
+in
+Denmark
+[published
+online ahead of print April 24, 2013]. Int J
+Cancer. doi: 10.1002/ijc.28222.
+29. Hou N, Huo D. A trend analysis of breast
+cancer incidence rates in the United States
+from 2000 to 2009 shows a recent increase.
+Breast Cancer Res Treat. 2013;138:633-641.
+30. Glass AG, Lacey JV Jr, Carreon JD, Hoover
+RN. Breast cancer incidence, 1980-2006:
+combined roles of menopausal hormone
+CA CANCER J CLIN 2014;64:52–62
+VOLUME 64 _ NUMBER 1 _ JANUARY/FEBRUARY 2014
+61
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+therapy,
+screening
+mammography,
+and
+estrogen receptor status. J Natl Cancer Inst.
+2007;99:1152-1161.
+31. Hammond ME, Hayes DF, Dowsett M, et
+al; American Society of Clinical Oncology;
+College of American Pathologists. Ameri-
+can Society of Clinical Oncology/College
+of American Pathologists guideline recom-
+mendations
+for
+immunohistochemical
+testing
+of
+estrogen
+and
+progesterone
+receptors
+in
+breast
+cancer
+(unabridged
+version). Arch Pathol Lab Med. 2010;134:
+e48-e72.
+32. Colditz GA, Rosner BA, Chen WY, Holmes
+MD, Hankinson SE. Risk factors for breast
+cancer according to estrogen and progester-
+one receptor status. J Natl Cancer Inst.
+2004;96:218-228.
+33. Zhang X, Spiegelman D, Baglietto L, et al.
+Carotenoid intakes and risk of breast cancer
+defined by estrogen receptor and progester-
+one receptor status: a pooled analysis of 18
+prospective cohort studies. Am J Clin Nutr.
+2012;95:713-725.
+34. Wu Y, Zhang D, Kang S. Physical activity
+and risk of breast cancer: a meta-analysis of
+prospective
+studies.
+Breast
+Cancer
+Res
+Treat. 2013;137:869-882.
+35. Berry DA, Cronin KA, Plevritis SK, et al.
+Effect of screening and adjuvant therapy on
+mortality from breast cancer. N Engl J Med.
+2005;353:1784-1792.
+36. Siegel R, Ward E, Brawley O, Jemal A. Can-
+cer statistics, 2011: the impact of eliminat-
+ing socioeconomic and racial disparities on
+premature cancer deaths. CA Cancer J Clin.
+2011;61:212-236.
+37. Ooi SL, Martinez ME, Li CI. Disparities in
+breast cancer characteristics and outcomes
+by race/ethnicity. Breast Cancer Res Treat.
+2011;127:729-738.
+38. Curtis E, Quale C, Haggstrom D, Smith-
+Bindman R. Racial and ethnic differences in
+breast
+cancer
+survival:
+how
+much
+is
+explained by screening, tumor severity,
+biology,
+treatment,
+comorbidities,
+and
+demographics? Cancer. 2008;112:171-180.
+39. Sprague BL, Trentham-Dietz A, Gangnon
+RE, et al. Socioeconomic status and survival
+after an invasive breast cancer diagnosis.
+Cancer. 2011;117:1542-1551.
+40. Halpern MT, Bian J, Ward EM, Schrag NM,
+Chen AY. Insurance status and stage of can-
+cer at diagnosis among women with breast
+cancer. Cancer. 2007;110:403-411.
+41. Harper S, Lynch J, Meersman SC, Breen N,
+Davis WW, Reichman MC. Trends in area-
+socioeconomic and race-ethnic disparities
+in breast cancer incidence, stage at diagno-
+sis,
+screening,
+mortality,
+and
+survival
+among women ages 50 years and over
+(1987-2005). Cancer Epidemiol Biomarkers
+Prev. 2009;18:121-131.
+42. Goldman LE, Walker R, Miglioretti DL,
+Smith-Bindman R, Kerlikowske K; National
+Cancer Institute Breast Cancer Surveillance
+Consortium. Accuracy of diagnostic mam-
+mography at facilities serving vulnerable
+women. Med Care. 2011;49:67-75.
+43. Gorin SS, Heck JE, Cheng B, Smith SJ.
+Delays in breast cancer diagnosis and treat-
+ment by racial/ethnic group. Arch Intern
+Med. 2006;166:2244-2252.
+44. Kushi LH, Doyle C, McCullough M, et al;
+American Cancer Society 2010 Nutrition
+and Physical Activity Guidelines Advisory
+Committee.
+American
+Cancer
+Society
+Guidelines on nutrition and physical activ-
+ity for cancer prevention: reducing the risk
+of cancer with healthy food choices and
+physical activity. CA Cancer J Clin. 2012;62:
+30-67.
+45. Chlebowski RT, Anderson GL. Changing
+concepts:
+menopausal
+hormone
+therapy
+and breast cancer. J Natl Cancer Inst. 2012;
+104:517-527.
+46. Nelson HD, Smith ME, Griffin JC, Fu R. Use
+of medications to reduce risk for primary
+breast cancer: a systematic review for the
+U.S. Preventive Services Task Force. Ann
+Intern Med. 2013;158:604-614.
+47. Bevers TB, Armstrong DK, Arun B, et al.
+Breast cancer risk reduction. J Natl Compr
+Canc Netw. 2010;8:1112-1146.
+48. Visvanathan K, Hurley P, Bantug E, et al.
+Use
+of
+pharmacologic
+interventions
+for
+breast cancer risk reduction: American Soci-
+ety of Clinical Oncology clinical practice
+guideline. J Clin Oncol. 2013;31:2942-2962.
+49. Waters
+EA,
+McNeel
+TS,
+Stevens
+WM,
+Freedman AN. Use of tamoxifen and raloxi-
+fene for breast cancer chemoprevention in
+2010. Breast Cancer Res Treat. 2012;134:
+875-880.
+Breast Cancer Statistics, 2013
+62
+CA: A Cancer Journal for Clinicians
+ 15424863, 2014, 1, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21203 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

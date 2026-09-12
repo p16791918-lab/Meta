@@ -1,0 +1,5555 @@
+record_id=413 pmid=16204691 doi=10.1093/jnci/dji289
+SOURCE: manual-pdf
+TITLE: Annual report to the nation on the status of cancer, 1975-2002, featuring  population-based trends in cancer treatment
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1407
+ 
+ARTICLE SPECIAL ARTICLE 
+ Annual Report to the Nation on the Status of Cancer, 
+1975 – 2002, Featuring Population-Based Trends in 
+Cancer Treatment 
+ Brenda K.  Edwards ,  Martin L.  Brown ,  Phyllis A.  Wingo ,  Holly L.  Howe , 
+ Elizabeth  Ward ,  Lynn A. G.  Ries ,  Deborah  Schrag ,  Patricia M.  Jamison , 
+ Ahmedin  Jemal ,  Xiao Cheng  Wu ,  Carol  Friedman ,  Linda  Harlan , 
+ Joan  Warren ,  Robert N.  Anderson ,  Linda W.  Pickle 
+ Background: The American Cancer Society (ACS), the Cen-
+ters for Disease Control and Prevention (CDC), the National 
+Cancer Institute (NCI), and the North American Association 
+of Central Cancer Registries (NAACCR) collaborate annu-
+ally to provide information on cancer rates and trends in the 
+United States. This year’s report updates statistics on the 15 
+most common cancers in the ﬁ ve major racial/ethnic popula-
+tions in the United States for 1992 – 2002 and features  population-
+based trends in cancer treatment.  Methods: The NCI, the 
+CDC, and the NAACCR provided information on cancer 
+cases, and the CDC provided information on cancer deaths. 
+Reported incidence and death rates were age-adjusted to the 
+2000 U.S. standard population, annual percent change in 
+rates for ﬁ xed intervals was estimated by linear regression, 
+and annual percent change in trends was estimated with join-
+point regression analysis. Population-based treatment data 
+were derived from the Surveillance, Epidemiology, and End 
+Results (SEER) Program registries, SEER-Medicare linked 
+databases, and NCI Patterns of Care/Quality of Care studies. 
+ Results: Among men, the incidence rates for all cancer sites 
+combined were stable from 1995 through 2002. Among women, 
+the incidence rates increased by 0.3% annually from 1987 
+through 2002. Death rates in men and women combined 
+ decreased by 1.1% annually from 1993 through 2002 for all 
+cancer sites combined and also for many of the 15 most com-
+mon cancers. Among women, lung cancer death rates in-
+creased from 1995 through 2002, but lung cancer incidence 
+rates stabilized from 1998 through 2002. Although results of 
+cancer treatment studies suggest that much of contemporary 
+cancer treatment for selected cancers is consistent with  evidence-
+based guidelines, they also point to geographic, racial, 
+ economic, and age-related disparities in cancer treatment. 
+ Conclusions: Cancer death rates for all cancer sites combined 
+and for many common cancers have declined at the same 
+time as the dissemination of guideline-based treatment into 
+the community has increased, although this progress is not 
+shared equally across all racial and ethnic populations. Data 
+from population-based cancer registries, supplemented by 
+linkage with administrative databases, are an important re-
+source for monitoring the quality of cancer treatment. Use of 
+this cancer surveillance system, along with new developments 
+in medical informatics and electronic medical records, may 
+facilitate monitoring of the translation of basic science and 
+clinical advances to cancer prevention, detection, and uni-
+formly high quality of care in all areas and populations of the 
+United States. [J Natl Cancer Inst 2005;97:1407 – 27] 
+ The American Cancer Society (ACS), the Centers for Disease 
+Control and Prevention (CDC), the National Cancer Institute 
+(NCI), and the North American Association of Central Cancer 
+Registries (NAACCR) collaborate each year to produce a report 
+to the nation on the current status of cancer in the United States. 
+The initial report, in 1998, documented the ﬁ rst sustained decline 
+in cancer death rates since national record keeping was instituted 
+in the 1930s  ( 1 ) . Subsequent reports have generally conﬁ rmed 
+this ﬁ nding and provided updated information  ( 2 – 7 ) . 
+ The 2004 report  ( 7 ) focused on cancer survival trends and on 
+the incidence and death rates for the 15 most common cancers in 
+each of the ﬁ ve major racial/ethnic populations in the United 
+States — white, black, Asian/Paciﬁ c Islander (API), American 
+ Indian/Alaska Native (AI/AN), and Hispanic/Latino. In this 
+ report, we update the cancer incidence and death rates and 
+ Afﬁ liations of authors: Division of Cancer Control and Population Sciences, 
+National Cancer Institute, Bethesda, MD (BKE, MLB, LAGR, LH, JW, LWP); 
+Division of Cancer Prevention and Control, National Center for Chronic Disease 
+Prevention and Health Promotion, Centers for Disease Control and Prevention, 
+Atlanta, GA (PAW, PMJ, CF); North American Association of Central Cancer 
+Registries, Springﬁ eld, IL (HLH); Epidemiology and Surveillance Research 
+ Department, American Cancer Society, Atlanta, GA (EW, AJ); Memorial Sloan 
+Kettering Cancer Center, New York, NY (DS); Louisiana State University Health 
+Science Center, Louisiana State University, New Orleans, LA, and North American 
+Association of Central Cancer Registries, Springﬁ eld, IL (XCW); Division of 
+Vital Statistics, National Center for Health Statistics, Centers for Disease Control 
+and Prevention, Hyattsville, MD (RNA). 
+ Correspondence to: Brenda K. Edwards, PhD, Division of Cancer Control and 
+Population Sciences, National Cancer Institute, 6116 Executive Blvd., Suite 504, 
+Bethesda, MD 20892 – 8315 (e-mail:  edwardsb@mail.nih.gov ). 
+ See  “ Notes ” following  “ References. ” 
+ DOI: 10.1093/jnci/dji289 
+ © The Author 2005. Published by Oxford  University Press. All rights reserved. 
+ The online version of this article has been published under an Open Access  model. 
+Users are entitled to use, reproduce, disseminate, or display the Open  Access 
+ version of this article for non-commercial purposes provided that: the original 
+authorship is properly and fully attributed; the Journal and Oxford University 
+Press are attributed as the original place of publication with the correct citation 
+details given; if an article is subsequently reproduced or disseminated not in its 
+entirety but only in part or as a derivative work this must be clearly indicated. 
+For commercial re-use, please contact: journals.permissions@oupjournals.org. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1408 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ identify trends in these rates in the United States for men and for 
+women, separately. 
+ There has been a growing concern that not all cancer patients 
+in the United States receive the full beneﬁ t of cancer treatments 
+that have been shown to be effective and appropriate on the basis 
+of the accumulated evidence from controlled clinical trials  ( 8 ) . 
+In response to this concern, there has been an increased effort in 
+ recent years to monitor trends in cancer treatment, to understand 
+patterns of cancer treatment across different population groups, 
+and to elucidate the factors that determine these patterns. For 
+ example, a 2000 Institute of Medicine report  ( 9 ) on data systems 
+to improve the quality of cancer care stated,  “ complete ascertain-
+ment of incident cancer cases by cancer registries is a prerequisite 
+for national quality assessments, allowing case selection for 
+ studies whose results can be generalized to the total population, 
+as well as assessments of quality for important subgroups, for 
+ example, individuals of low socioeconomic status, and individu-
+als enrolled in certain types of health plans or delivery systems. ” 
+ This report also includes a special section in which we review 
+and update population-based studies of trends in cancer treatment 
+and determinants of cancer treatment patterns of care, using can-
+cer registry data to select cases and to identify demographic and 
+clinical characteristics. 
+ S UBJECTS  AND M ETHODS 
+ Cancer Cases and Deaths 
+ Information on newly diagnosed cancer cases in the United 
+States  was based on data collected by cancer registries participat-
+ing in the NCI’s Surveillance, Epidemiology, and End Results 
+(SEER) Program and/or the CDC’s National Program of Cancer 
+Registries (NPCR)  ( 10 – 13 ) . All cancer registries are members of 
+the NAACCR  ( 14 ) . For all cancers except bladder cancer, inci-
+dence data refer to invasive but not in situ cancers (data on the 
+incidence of bladder cancer refers to both invasive and in situ 
+cancers). For incident cases diagnosed in 2001 or later, all infor-
+mation concerning the primary cancer site and histology was 
+coded according to the International Classiﬁ cation of Diseases 
+for Oncology, third edition (ICD-O-3;  15 ); cases diagnosed 
+ before 2001 were coded according to the ICD-O, second edition 
+(ICD-O-2;  16 ) and then converted to ICD-O-3 codes. For analy-
+sis, all cases were categorized according to SEER site groups 
+ ( 17 ) . To maximize comparability between ICD-O-2 and ICD- 
+O-3, borderline tumors of the ovary, refractory anemias, and 
+other  myelodysplastic syndromes were excluded, and pilocytic 
+astrocytomas (which were excluded from ICD-O-3 as malignant 
+ tumors) were included in analyses for this report. 
+ Cancer deaths in the United States occurring from 1975 
+through 2002 that are reported to state vital statistics ofﬁ ces and 
+consolidated into a database by CDC through the National Vital 
+Statistics System  ( 18 ) were coded according to the version of the 
+ICD in use in the United States at the time they occurred  ( 19 – 21 ) . 
+Beginning with 1999 mortality data, ICD-10 was used to code 
+the cause of death. Cancer was slightly more likely to be selected 
+as the underlying cause of death under ICD-10 rules than under 
+previous ICD rules  ( 22 ) . Cancer sites were grouped by the SEER 
+Program to allow for maximum comparability between versions 
+of ICD codes  ( 17 ) . 
+ For the long-term (i.e., 1975 through 2002) trend analyses of 
+incidence and death rates for all cancers combined and for the 15 
+most common cancers among all racial and ethnic populations 
+combined, we used SEER incidence data from nine registries 
+ ( 23 ) , which cover approximately 10% of the U.S. population, and 
+100% of the U.S. population death data from the CDC. For the 
+more recent (i.e., 1992 through 2002) trend analyses of incidence 
+and death rates for the 15 most common cancers in each  major 
+racial and ethnic population (i.e., white, black, API, AI/AN, and 
+Hispanic/Latino populations), we used incidence data from 13 
+SEER cancer registries (SEER13), which cover approximately 
+14% of the U.S. population, including 12% of whites, 12% of 
+blacks, 36% of APIs, 21% of AI/ANs, and 22% of Hispanics/ 
+Latinos  ( 13 ) and total U.S. death data from the CDC. We examined 
+incidence data for 23 cancer sites or types and death data for 22 
+cancer sites or types to ensure that we would cover the 15 most 
+common cancers in each racial and ethnic population. In this 
+ report, we considered Kaposi sarcoma and mesothelioma cases 
+separately from other cancer sites or types, in contrast to previous 
+reports. Kaposi sarcoma and mesothelioma were reported as 
+causes of death beginning in 1999; therefore, we did not report 
+them separately for mortality. Although cancer registries col-
+lected information on cancer incidence and death among speciﬁ c 
+API and Hispanic/Latino populations, incidence and death rates 
+for these populations could not be calculated because of the lack 
+of intercensal county population estimates from the U.S. Bureau 
+of the Census. Estimates of cancer incidence and death rates 
+ aggregated from data across  different geographic regions can 
+ differ, reﬂ ecting regional and racial/ethnic variations  ( 17 , 24 ) . 
+ Cancer Treatment 
+ Data regarding patterns and trends of cancer treatment in the 
+United States were obtained from published and unpublished 
+SEER and SEER-Medicare databases and from NCI Patterns of 
+Care/Quality of Care (POC/QOC) studies that were based on 
+samples of SEER cases. The NCI has been conducting POC/QOC 
+studies since 1987  ( 25 ) and has linked SEER data to Medicare 
+data since 1986 to create a database for health services research 
+ ( 26 – 28 ) . Information about surgery for early-stage breast cancer 
+was derived from cases diagnosed from 1991 through 2002 
+and reported in SEER11 registries [i.e., Connecticut, Hawaii, 
+Iowa, Utah, and New Mexico, and the metropolitan areas of 
+San  Francisco, Detroit, Atlanta, Seattle-Puget Sound, San Jose-
+ Monterey, and Los Angeles County  ( 29 ) ]; SEER11 has  population 
+coverage similar to that for SEER13 but does not include Alaska 
+Natives or residents of rural Georgia. Information about adjuvant 
+therapy for early-stage breast cancer was from a population-
+based POC/QOC study of a sample of cases that were diagnosed 
+in 1987, 1990, and 1995  ( 30 ) and was updated with data from 
+cases diagnosed in 2000  ( 30 ) . Treatment data for stages II and III 
+colorectal cancer were from a POC/QOC study for a sample of 
+cases diagnosed in 1987, 1991, and 1995  ( 31 ) and from SEER-
+Medicare databases for cases diagnosed from 1997 through 1999 
+ ( 32 ) . Analyses of treatment for non – small-cell lung cancer 
+(NSCLC) were based on data from a POC/QOC study  ( 33 ) 
+and a SEER-Medicare database  ( 34 ) . Information about the 
+ receipt of guideline therapy for ovarian cancer was derived 
+from a POC/QOC study conducted on sample cases diagnosed in 
+1991 and 1996  ( 35 ) . The two studies of trends in treatment for 
+early-stage prostate cancer patients diagnosed in 1986 through 
+1993 and 1991 through 1999 were based on SEER – Medicare 
+data  ( 36 , 37 ) . 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1409
+ Statistical Analysis 
+ Cancer incidence and death rates, expressed per 100  000 per-
+sons, were age-adjusted by 19 age groups, typically in 5-year age 
+categories (i.e., younger than 1 year, 1 – 4 years, 5 – 9 years, 10 – 14 
+years,  … , 75 – 79 years, 80 – 84 years, and 85 years or older) to the 
+2000 U.S. standard population  ( 17 ) . Weights were calculated 
+ using population projections from the U.S. Bureau of the Census 
+ ( 38 , 39 ) for the year 2000 and methodology developed from pub-
+lished guidelines  ( 40 ) . Rates calculated using the new 19 age-
+group 2000 U.S. standard population weights  (41) were virtually 
+identical to those calculated using the 19 age-group U.S. 2000 
+standard million  ( 41 ) weights developed for earlier reports. The 
+CDC’s National Center for Health Statistics publishes age-
+ adjusted mortality rates, obtained using the established method-
+ology, that are based on 11 age groups, typically in 10-year age 
+categories (i.e., younger than 1 year, 1 – 4 years, 5 – 14 years, 
+15 – 24 years,  … , 65 – 74 years, 75 – 84 years, and 85 years or older) 
+and weights from the year 2000 population projections  ( 38 , 42 ) . 
+The number of age groups used for age adjustment may affect 
+estimated rates slightly, whereas the effects of weights within an 
+age group are negligible when an adequate number of signiﬁ cant 
+digits is retained  ( 41 ) . More detailed information on the change 
+to the U.S. standard population and comparison to the U.S. stan-
+dard million population can be found at  http://seer.cancer.gov/
+stdpopulations/single_age.html . The process of age adjustment 
+allows comparisons of rates among multiple groups, such as 
+those deﬁ ned by sex, race, and year of diagnosis, while eliminat-
+ing the effect of differences in the age structures of the groups. 
+ Estimates of rates, standard errors, and 95% conﬁ dence inter-
+vals were generated using SEER*Stat version 5.0.17 software 
+ ( 23 ) ; standard error estimates [based on the gamma method  ( 43 ) ] 
+and 95% conﬁ dence intervals results are available at  http:// 
+jncicancerspectrum.oupjournals.org/jnci/content/vol97/issue19 . 
+ The long-term trends (i.e., from 1975 through 2002) in cancer 
+incidence and mortality among all races/ethnicities combined were 
+described by joinpoint regression analysis, which involves ﬁ tting a 
+series of joined straight lines on a log scale to the age-adjusted 
+rates  ( 44 ) . Line segments are joined at points called joinpoints. 
+Each line segment is described by an annual percent change, which 
+is based on the slope of the line segment, and each joinpoint 
+denotes a statistically signiﬁ cant change in trend. The overall 
+ statistical signiﬁ cance was set to  P <.05, and a maximum of three 
+joinpoints and four line segments was allowed for each model. We 
+present incidence trends that are based on observed data and on 
+data that were adjusted for delays in reporting  ( 45 ) . This delay 
+adjustment facilitates the interpretation of incidence trends, espe-
+cially because recent diagnosis years are most  affected by report-
+ing delays. We used statistical models to adjust the current cancer 
+counts for anticipated future improvements to the data on the basis 
+of long-term observed reporting patterns in SEER registries  ( 45 ) . 
+ Descriptions of long-term cancer incidence trends are based on 
+the delay-adjusted rates, except where speciﬁ cally noted. For each 
+racial and ethnic population, the annual percent changes for a more 
+recent ﬁ xed time period (i.e., 1992 through 2002) were estimated 
+by ﬁ tting a linear regression line to the natural logarithms of the 
+rates, using calendar year as the independent variable  ( 3 ) . The an-
+nual percent change for the ﬁ xed time period is the best measure 
+for comparison among groups because the beginning and ending 
+years are the same. In describing trends, we use the terms 
+ “ increase(d) ” or  “ decrease(d) ” only when the slope (coefﬁ cient) of 
+the trend is statistically signiﬁ cantly different from zero (two-sided 
+ P <.05); otherwise, we use the terms  “ stable ” or  “ level. ” Absolute 
+changes in cancer incidence and death rates were calculated as the 
+difference between the 2002 and the 1992 age-adjusted rates. 
+ More detailed information and methodology related to this 
+ report are available at the NCI Web sites  www.seer.cancer.gov/
+report_to_nation/1975_2002/ and  www.cancer.gov . Additional 
+data on cancer incidence and mortality are available from the 
+ following sites:  www.cancer.org (ACS);  www.cdc.gov/cancer/
+npcr/index.htm and  www.cdc.gov/nchs/about/major/dvs/mortdata.
+htm (CDC); and  www.naaccr.org/CINAP/index.htm (NAACCR). 
+ R ESULTS 
+ Update on Long-Term Incidence Trends for All Cancer 
+Sites Combined and for the 15 Most Common Cancer 
+Sites for All Races, 1975 – 2002 
+ For all populations combined ( Table 1 ), age-adjusted cancer 
+incidence rates for all sites combined were stable since 1992. 
+Among men, incidence rates for all cancer sites combined were 
+stable from 1995 through 2002. Among women, incidence rates 
+increased by 0.3% per year from 1987 through 2002. 
+ Among men, cancer incidence rates increased during the most 
+recent segment (from the last joinpoint until 2002) for melanoma 
+of the skin (melanoma) and cancers of the prostate, kidney and 
+renal pelvis (kidney), and esophagus, but decreased for cancers 
+of the lung and bronchus (lung), colon and rectum, oral cavity 
+and pharynx (oral cavity), stomach, and larynx. Incidence rates 
+for the remaining 15 cancer sites were stable. The long-term trends 
+in incidence rates for prostate cancer ﬂ uctuated greatly, as we 
+previously reported  ( 3 – 7 ) . 
+ Among women, cancer incidence rates increased during the 
+most recent segment (from the last joinpoint until 2002) for 
+ leukemia, non-Hodgkin lymphoma, melanoma, and cancers of the 
+breast,  thyroid, urinary bladder (bladder), and kidney. Female breast 
+cancer incidence rates increased by 0.4% per year from 1987 
+through 2002, a slower rate of increase than in the previous time 
+period (i.e., increase of 3.7% per year from 1980 through 1987). 
+The cancer incidence rates decreased for cancers of the colon and 
+rectum, ovary, cervix uteri, oral cavity, and stomach. Incidence rates 
+for the remaining cancer sites were stable. It is important to note that 
+the stabilization of lung cancer incidence rates among women since 
+1998 occurred after they had increased for many decades, i.e., by 
+5.5% per year from 1975 through 1982, by 3.5% per year from 1982 
+through 1990, and by 1.0% per year from 1990 through 1998. 
+ Update on the Long-Term Mortality Trends for All 
+Cancer Sites Combined and for the 15 Most Common 
+Cancer Sites for All Races, 1975 – 2002 
+ Overall cancer death rates for all racial and ethnic populations 
+combined decreased by 1.1% per year from 1993 through 2002; 
+the decline was more pronounced among men (1.5% per year from 
+1993 through 2002) than among women (0.8% per year from 1992 
+through 2002) ( Table 2 ). Mortality trends for the 15 most common 
+cancers differed slightly between men and women. Death rates 
+ decreased for 12 of the 15 most common cancers in men (i.e., lung, 
+prostate, colon and rectum, pancreas, non- Hodgkin lymphoma, 
+leukemia, bladder, stomach, and brain and other nervous system 
+[brain], myeloma, oral cavity, and  melanoma) and for nine of the 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1410 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ Table 1.  SEER cancer incidence rate trends with joinpoint analyses for 1975 through 2002 for the 15 most common cancers, by sex, for all races * 
+ 
+ Joinpoint analyses (1975 – 2002) † 
+ 
+ Trend 1 
+ Trend 2 
+ Trend 3 
+ Trend 4 
+ Cancer site or type 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ All sites § 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Both sexes 
+ 1975 – 1983 
+ 0.9 || 
+ 1983 – 1992 
+ 1.8 || 
+ 1992 – 1995 
+ − 1.6 
+ 1995 – 2002 
+ 0.0 
+   (Delay-adjusted) 
+ 1975 – 1983 
+ 0.9 || 
+ 1983 – 1992 
+ 1.8 || 
+ 1992 – 1995 
+ − 1.7 
+ 1995 – 2002 
+ 0.3 
+  Male 
+ 1975 – 1989 
+ 1.3 || 
+ 1989 – 1992 
+ 5.1 || 
+ 1992 – 1995 
+ − 4.6 || 
+ 1995 – 2002 
+ − 0.2 
+   (Delay-adjusted) 
+ 1975 – 1989 
+ 1.3 || 
+ 1989 – 1992 
+ 5.2 
+ 1992 – 1995 
+ − 4.7 || 
+ 1995 – 2002 
+ 0.2 
+  Female 
+ 1975 – 1979 
+ − 0.2 
+ 1979 – 1987 
+ 1.5 || 
+ 1987 – 1999 
+ 0.3 || 
+ 1999 – 2002 
+ − 0.8 
+   (Delay-adjusted) 
+ 1975 – 1979 
+ − 0.2 
+ 1979 – 1987 
+ 1.5 || 
+ 1987 – 2002 
+ 0.3 || 
+ 
+ 
+ 15 most common cancers 
+  for males
+  Prostate 
+ 1975 – 1988 
+ 2.6 || 
+ 1988 – 1992 
+ 16.4 || 
+ 1992 – 1995 
+ − 11.2 || 
+ 1995 – 2002 
+ 1.3 || 
+   (Delay-adjusted) 
+ 1975 – 1988 
+ 2.6 || 
+ 1988 – 1992 
+ 16.5 || 
+ 1992 – 1995 
+ − 11.2 || 
+ 1995 – 2002 
+ 1.7 || 
+  Lung and bronchus 
+ 1975 – 1981 
+ 1.7 || 
+ 1981 – 1991 
+ − 0.3 
+ 1991 – 2002 
+ − 2.0 || 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1982 
+ 1.5 || 
+ 1982 – 1991 
+ − 0.4 
+ 1991 – 2002 
+ − 1.8 || 
+ 
+ 
+  Colon and rectum 
+ 1975 – 1986 
+ 1.1 || 
+ 1986 – 1995 
+ − 2.1 || 
+ 1995 – 1998 
+ 1.0 
+ 1998 – 2002 
+ − 2.9 || 
+   (Delay-adjusted) 
+ 1975 – 1986 
+ 1.1 || 
+ 1986 – 1995 
+ − 2.1 || 
+ 1995 – 1998 
+ 1.0 
+ 1998 – 2002 
+ − 2.5 || 
+  Urinary bladder 
+ 1975 – 1987 
+ 1.0 || 
+ 1987 – 1996 
+ − 0.5 
+ 1996 – 2000 
+ 1.5 
+ 2000 – 2002 
+ − 3.5 
+   (Delay-adjusted) 
+ 1975 – 1987 
+ 1.0 || 
+ 1987 – 1996 
+ − 0.5 
+ 1996 – 2000 
+ 1.6 
+ 2000 – 2002 
+ − 2.6 
+  Non-Hodgkin lymphoma 
+ 1975 – 1991 
+ 4.3 || 
+ 1991 – 2002 
+ − 0.1 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1991 
+ 4.3 || 
+ 1991 – 2002 
+ 0.2 
+ 
+ 
+ 
+ 
+  Melanoma of the skin ¶ 
+ 1975 – 1985 
+ 5.7 || 
+ 1985 – 2000 
+ 3.6 || 
+ 2000 – 2002 
+ − 1.2 
+ 
+ 
+   (Delay-adjusted) ¶ 
+ 1975 – 1985 
+ 5.8 || 
+ 1985 – 2002 
+ 3.8 || 
+ 
+ 
+ 
+ 
+  Leukemia 
+ 1975 – 2002 
+ − 0.3 || 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+  Oral cavity and pharynx 
+ 1975 – 1983 
+ − 0.1 
+ 1983 – 2002 
+ − 1.5 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ − 1.2 || 
+ 
+ 
+ 
+ 
+ 
+ 
+  Kidney and renal pelvis 
+ 1975 – 2002 
+ 1.7 || 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ 1.8 || 
+ 
+ 
+ 
+ 
+ 
+ 
+  Stomach 
+ 1975 – 1988 
+ − 1.2 || 
+ 1988 – 2002 
+ − 2.1 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1988 
+ − 1.2 || 
+ 1988 – 2002 
+ − 2.0 || 
+ 
+ 
+ 
+ 
+  Pancreas 
+ 1975 – 1981 
+ − 1.8 || 
+ 1981 – 1985 
+ 1.2 
+ 1985 – 1989 
+ − 2.4 
+ 1989 – 2002 
+ − 0.1 
+   (Delay-adjusted) 
+ 1975 – 1981 
+ − 1.8 || 
+ 1981 – 1985 
+ 1.1 
+ 1985 – 1990 
+ − 2.1 
+ 1990 – 2002 
+ 0.1 
+  Liver and intrahepatic 
+ 1975 – 1984 
+ 1.7 
+ 1984 – 1999 
+ 4.5 || 
+ 1999 – 2002 
+ − 2.1 
+ 
+ 
+  bile duct
+   (Delay-adjusted) 
+ 1975 – 1984 
+ 1.7 
+ 1984 – 1999 
+ 4.5 || 
+ 1999 – 2002 
+ − 0.7 
+ 
+ 
+  Brain and other nervous 
+ 1975 – 1989 
+ 1.2 || 
+ 1989 – 2002 
+ − 0.5 
+ 
+ 
+ 
+ 
+  system
+   (Delay-adjusted) 
+ 1975 – 1989 
+ 1.2 || 
+ 1989 – 2002 
+ − 0.3 
+ 
+ 
+ 
+ 
+  Esophagus 
+ 1975 – 2002 
+ 0.7 || 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ 0.8 || 
+ 
+ 
+ 
+ 
+ 
+ 
+  Larynx 
+ 1975 – 1988 
+ − 0.2 
+ 1988 – 2002 
+ − 2.8 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1988 
+ − 0.3 
+ 1988 – 2002 
+ − 2.8 || 
+ 
+ 
+ 
+ 
+ 15 most common cancers 
+  for females
+  Breast 
+ 1975 – 1980 
+ − 0.5 
+ 1980 – 1987 
+ 3.8 || 
+ 1987 – 2002 
+ 0.3 || 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1980 
+ − 0.4 
+ 1980 – 1987 
+ 3.7 || 
+ 1987 – 2002 
+ 0.4 || 
+ 
+ 
+  Lung and bronchus 
+ 1975 – 1982 
+ 5.5 || 
+ 1982 – 1990 
+ 3.5 || 
+ 1990 – 1998 
+ 1.0 || 
+ 1998 – 2002 
+ − 1.1 
+   (Delay-adjusted) 
+ 1975 – 1982 
+ 5.5 || 
+ 1982 – 1990 
+ 3.5 || 
+ 1990 – 1998 
+ 1.0 || 
+ 1998 – 2002 
+ − 0.5 
+  Colon and rectum 
+ 1975 – 1985 
+ 0.3 || 
+ 1985 – 1995 
+ − 1.8 || 
+ 1995 – 1998 
+ 1.5 
+ 1998 – 2002 
+ − 1.9 || 
+   (Delay-adjusted) 
+ 1975 – 1985 
+ 0.3 || 
+ 1985 – 1995 
+ − 1.8 || 
+ 1995 – 1998 
+ 1.5 
+ 1998 – 2002 
+ − 1.5 || 
+  Corpus and uterus, NOS 
+ 1975 – 1979 
+ − 6.0 || 
+ 1979 – 1988 
+ − 1.7 || 
+ 1988 – 1998 
+ 0.6 || 
+ 1998 – 2002 
+ − 1.1 
+   (Delay-adjusted) 
+ 1975 – 1979 
+ − 6.0 
+ 1979 – 1988 
+ − 1.7 || 
+ 1988 – 1997 
+ 0.7 || 
+ 1997 – 2002 
+ − 0.6 
+  Non-Hodgkin lymphoma 
+ 1975 – 1990 
+ 2.9 || 
+ 1990 – 2002 
+ 0.9 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1990 
+ 2.9 || 
+ 1990 – 2002 
+ 1.2 || 
+ 
+ 
+ 
+ 
+  Ovary # 
+ 1975 – 1987 
+ 0.1 
+ 1987 – 2002 
+ − 0.9 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1985 
+ 0.2 
+ 1985 – 2002 
+ − 0.7 || 
+ 
+ 
+ 
+ 
+  Melanoma of the skin ¶ 
+ 1975 – 1980 
+ 6.1 || 
+ 1980 – 2002 
+ 2.6 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted)¶ 
+ 1975 – 1981 
+ 6.1 || 
+ 1981 – 1993 
+ 2.2 || 
+ 1993 – 2002 
+ 4.1 || 
+ 
+ 
+  Pancreas 
+ 1975 – 1984 
+ 1.3 || 
+ 1984 – 2002 
+ − 0.3 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1984 
+ 1.2 || 
+ 1984 – 2002 
+ − 0.2 
+ 
+ 
+ 
+ 
+  Thyroid 
+ 1975 – 1977 
+ 6.4 
+ 1977 – 1980 
+ − 4.9 
+ 1980 – 1993 
+ 2.1 || 
+ 1993 – 2002 
+ 5.0 || 
+   (Delay-adjusted) 
+ 1975 – 1981 
+ − 1.2 
+ 1981 – 1993 
+ 2.0 || 
+ 1993 – 2002 
+ 5.3 || 
+ 
+ 
+  Cervix uteri 
+ 1975 – 1981 
+ − 4.6 || 
+ 1981 – 1997 
+ − 1.1 || 
+ 1997 – 2002 
+ − 4.8 || 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1981 
+ − 4.6 || 
+ 1981 – 1997 
+ − 1.1 || 
+ 1997 – 2002 
+ − 4.5 || 
+ 
+ 
+  Leukemia 
+ 1975 – 2002 
+ − 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ 0.2 || 
+ 
+ 
+ 
+ 
+ 
+ 
+  Urinary bladder 
+ 1975 – 2002 
+ 0.2 || 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ 0.2 || 
+ 
+ 
+ 
+ 
+ 
+ 
+(Table continues)
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1411
+15 most common cancers in women (i.e., breast, colon and rectum, 
+non-Hodgkin lymphoma, leukemia, brain, stomach, myeloma, 
+ cervix uteri, and bladder). For melanoma, death rates decreased in 
+men (by 1.6% per year from 1998 through 2002); for multiple 
+ myeloma, death rates decreased in both men (by 0.9% per year 
+from 1994 through 2002) and women (by 0.5% per year from 1993 
+through 2002). Among men, death rates increased for esophageal 
+cancer (by 0.5% per year from 1994 through 2002) and for liver 
+cancer (by 1.6% per year from 1995 through 2002). Among 
+women, death rates increased for lung cancer (by 0.3% per year 
+from 1995 through 2002). Death rates were stable for kidney can-
+cer in men and women and for ﬁ ve of the 15 most common cancers 
+in women (i.e., kidney, pancreas, ovary, corpus uteri, and liver and 
+intra hepatic bile duct [liver]). Further joinpoint analyses of age-
+speciﬁ c lung cancer death rates among women by 10-year age in-
+tervals showed that lung cancer death rates increased for women 
+aged 40 – 49 years and 70 years or older (data not shown). 
+ Cancer Incidence and Death Rates for the 15 Most 
+Common Cancer Sites by Race and Ethnicity, 1992 – 2002 
+ We ranked the 15 most frequently occurring cancers diag-
+nosed from 1992 through 2002 in terms of age-adjusted incidence 
+rates ( Table 3 ) and age-adjusted death rates ( Table 4 ) for all races 
+combined and for each major racial and ethnic population by sex. 
+The highest cancer incidence and death rates for each racial and 
+ethnic population continued to be for cancers of the prostate, 
+lung, and colon and rectum among men and for cancers of the 
+breast, lung, and colon and rectum among women. 
+ Examination of age-adjusted incidence trends by race and eth-
+nicity from 1992 through 2002 revealed that the incidence rates for 
+lung and prostate cancers declined among men in all racial/ethnic 
+populations; colorectal cancer incidence rates decreased only for 
+white men ( Table 3 ). Although our analysis of trends for this 
+period permits valid comparisons of trends by race, sex, and cancer 
+site, the declines in prostate cancer incidence rates observed from 
+1992 through 2002 ( Table 3 ) masked a change in the direction of 
+the incidence trend that began in 1995, as identiﬁ ed by the join-
+point analysis ( Table 1 ) for all race/ethnic groups combined. Pros-
+tate cancer incidence rates increased from 1995 through 2002. 
+Among women, breast cancer incidence rates increased among 
+API women, decreased among AI/AN women, and were stable for 
+other women; lung cancer rates decreased in AI/AN and Hispanic/
+Latina women and were stable for the other populations; colorectal 
+cancer incidence rates decreased only for white women. 
+ Trends in incidence rates for other cancers also varied among 
+different racial and ethnic populations and by sex, although most 
+trends among AI/ANs could not be evaluated because of the small 
+number of cases ( Table 3 ). Incidence rates for liver cancer in-
+creased among men in all groups except APIs and AI/ANs and 
+among white and Hispanic/Latina women. We observed declines 
+in the incidence rates for cancers of the stomach and larynx among 
+men in all populations except AI/ANs. Incidence rates for cancers 
+of the oral cavity also decreased among men in all populations 
+except APIs, and incidence rates for Kaposi sarcoma decreased 
+among white, black, and Hispanic/Latino men. Cervical cancer 
+rates decreased among women in all racial and ethnic populations. 
+Incidence rates for thyroid and kidney cancer increased among 
+women in all racial and ethnic populations except AI/ANs. 
+ An analysis of recent (i.e., from 1992 through 2002) mortality 
+trends revealed declines in death rates for lung, prostate, and 
+ colon and rectal cancers among men in most racial and ethnic 
+populations; the exceptions were death from lung cancer among 
+AI/AN men and from colon and rectal cancer among AI/AN and 
+Hispanic/Latino men ( Table 4 ). Death rates for colorectal cancer 
+declined among white, black, and API women, and death rates 
+for breast cancer declined among white, black, and Hispanic/ 
+Latina women. Although the lung cancer death rates continued to 
+increase among white women and black women, these annual 
+increases are substantially lower than increases reported for all 
+women before 1992 ( Table 1 ) and are consistent with long-term 
+trends of slowing rates of increase over time. 
+ Table 1 (continued). 
+ 
+ Joinpoint analyses (1975 – 2002) † 
+ 
+ Trend 1 
+ Trend 2 
+ Trend 3 
+ Trend 4 
+ Cancer site or type 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+  Kidney and renal pelvis 
+ 1975 – 1991 
+ 2.7 || 
+ 1991 – 2002 
+ 1.3 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1990 
+ 2.8 || 
+ 1990 – 2002 
+ 1.6 || 
+ 
+ 
+ 
+ 
+  Oral cavity and pharynx 
+ 1975 – 1980 
+ 2.6 || 
+ 1980 – 2002 
+ − 1.0 || 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 1980 
+ 2.5 
+ 1980 – 2002 
+ − 0.9 || 
+ 
+ 
+ 
+ 
+  Stomach 
+ 1975 – 2002 
+ − 1.7 || 
+ 
+ 
+ 
+ 
+ 
+ 
+   (Delay-adjusted) 
+ 1975 – 2002 
+ − 1.7 || 
+ 
+ 
+ 
+ 
+ 
+ 
+ * Sources of data are the Surveillance, Epidemiology, and End Results (SEER) Program registries that include Connecticut, Hawaii, Iowa, Utah, and New Mexico, 
+and the metropolitan areas of San Francisco, Detroit, Atlanta, and Seattle-Puget Sound (i.e., SEER9). Joinpoint analysis was performed with the use of the Joinpoint 
+(JP) Regression Program, version 3.0, April 2005, National Cancer Institute. The 15 most common cancers were selected on the basis of the sex-speciﬁ c age-adjusted 
+incidence rates for 1992 – 2002 for all races combined. A spreadsheet that contains the standard errors and 95% conﬁ dence intervals for the APCs is available at 
+ http://jncicancerspectrum.oupjournals.org/jnci/content/vol97/issue19 . APC = annual percent change; NOS = not otherwise speciﬁ ed. 
+ † Joinpoint analyses with up to three joinpoints are based on rates per 100  000 persons and are age-adjusted to the 2000 U.S. standard population (using 19 age 
+groups, with data provided from Census Current Population Reports series, P25-1130  ( 39 ) . 
+ ‡ APC is based on rates that were age-adjusted to the 2000 U.S. standard population (using 19 age groups, with data provided from Census Current Population 
+Reports series, P25-1130 ( 39 ) using joinpoint regression analysis. 
+ § Excludes myelodysplastic syndromes and borderline tumors. 
+ || APC is statistically signiﬁ cantly different from zero (two-sided  P <.05). 
+ ¶ Age-adjusted rates for melanoma of the skin are calculated using white patients only. 
+ # Excludes borderline tumors. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1412 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ Mortality trends for cancers other than the three most com-
+mon cancers also varied by racial and ethnic group and by sex 
+( Table 4 ). From 1992 through 2002, the death rates for liver can-
+cer increased among white, black, and Hispanic/Latino men and 
+among white and Hispanic/Latina women. Stomach cancer death 
+rates declined for men and women of all racial and ethnic popula-
+tions except for AI/AN men and women. Similarly, declines in 
+death rates for oral cavity cancers were observed among men and 
+women in most populations, except for AI/AN men and women, 
+API women, and Hispanic/Latina women. Finally, death rates 
+for cancers of the gallbladder declined among white, API, and 
+Hispanic/Latina women, and cervical cancer death rates declined 
+among women in all populations. 
+ S PECIAL S ECTION : M ONITORING C ANCER T REATMENT 
+T RENDS  AND D ETERMINANTS U SING D ATA  FROM 
+P OPULATION -B ASED C ANCER R EGISTRIES 
+ One strategy for reducing the number of cancer deaths and im-
+proving survival among those diagnosed with cancer is to ensure 
+that evidence-based cancer treatment services are available and 
+ Table 2.  U.S. death rate trends with joinpoint analyses for 1975 through 2002 for the 15 most common cancers for all races * 
+ 
+ Joinpoint analyses (1975 – 2002) † 
+ 
+ 
+ Trend 1 
+ Trend 2 
+ Trend 3 
+ Trend 4 
+ Cancer site or type 
+ Years 
+ APC 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ Years 
+ APC ‡ 
+ All sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Both sexes 
+ 1975 – 1990 
+ 0.5 § 
+ 1990 – 1993 
+ − 0.3 
+ 1993 – 2002 
+ − 1.1 § 
+ 
+ 
+  Male 
+ 1975 – 1979 
+ 1.0 § 
+ 1979 – 1990 
+ 0.3 § 
+ 1990 – 1993 
+ − 0.4 
+ 1993 – 2002 
+ − 1.5 § 
+  Female 
+ 1975 – 1992 
+ 0.5 § 
+ 1992 – 2002 
+ − 0.8 § 
+ 
+ 
+ 
+ 
+ 15 most common cancers 
+  for males
+  Lung and bronchus 
+ 1975 – 1978 
+ 2.4 § 
+ 1978 – 1984 
+ 1.2 § 
+ 1984 – 1991 
+ 0.3 § 
+ 1991 – 2002 
+ − 1.9 § 
+  Prostate 
+ 1975 – 1987 
+ 0.9 § 
+ 1987 – 1991 
+ 3.1 § 
+ 1991 – 1994 
+ − 0.6 
+ 1994 – 2002 
+ − 4.0 § 
+  Colon and rectum 
+ 1975 – 1978 
+ 0.8 
+ 1978 – 1984 
+ − 0.4 
+ 1984 – 1990 
+ − 1.3 § 
+ 1990 – 2002 
+ − 2.0 § 
+  Pancreas 
+ 1975 – 1986 
+ − 0.8 § 
+ 1986 – 2002 
+ − 0.3 § 
+ 
+ 
+ 
+ 
+  Non-Hodgkin lymphoma 
+ 1975 – 1981 
+ 1.8 § 
+ 1981 – 1990 
+ 3.0 § 
+ 1990 – 1997 
+ 1.6 § 
+ 1997 – 2002 
+ − 2.8 § 
+  Leukemia 
+ 1975 – 1995 
+ − 0.2 § 
+ 1995 – 2002 
+ − 0.7 § 
+ 
+ 
+ 
+ 
+  Urinary bladder 
+ 1975 – 1983 
+ − 1.4 § 
+ 1983 – 1987 
+ − 2.7 § 
+ 1987 – 1993 
+ 0.1 
+ 1993 – 2002 
+ − 0.6 § 
+  Esophagus 
+ 1975 – 1985 
+ 0.7 § 
+ 1985 – 1994 
+ 1.2 § 
+ 1994 – 2002 
+ 0.5 § 
+ 
+ 
+  Stomach 
+ 1975 – 1987 
+ − 2.3 § 
+ 1987 – 1991 
+ − 0.9 
+ 1991 – 2002 
+ − 3.5 § 
+ 
+ 
+  Liver and intrahepatic 
+ 1975 – 1986 
+ 1.7 § 
+ 1986 – 1995 
+ 3.9 § 
+ 1995 – 2002 
+ 1.6 § 
+ 
+ 
+  bile duct
+  Kidney and renal pelvis 
+ 1975 – 1991 
+ 1.1 § 
+ 1991 – 2002 
+ − 0.1 
+ 
+ 
+ 
+ 
+  Brain and other nervous 
+ 1975 – 1977 
+ 4.4 
+ 1977 – 1982 
+ − 0.4 
+ 1982 – 1990 
+ 1.5 § 
+ 1990 – 2002 
+ − 0.7 § 
+  system
+  Myeloma 
+ 1975 – 1994 
+ 1.5 § 
+ 1994 – 2002 
+ − 0.9 § 
+ 
+ 
+ 
+ 
+  Oral cavity and pharynx 
+ 1975 – 1991 
+ − 1.8 § 
+ 1991 – 2002 
+ − 2.6 § 
+ 
+ 
+ 
+ 
+  Melanoma of the skin 
+ 1975 – 1987 
+ 2.4 § 
+ 1987 – 1998 
+ 0.8 § 
+ 1998 – 2002 
+ − 1.6 § 
+ 
+ 
+ 15 most common cancers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  for females
+  Lung and bronchus 
+ 1975 – 1982 
+ 6.0 § 
+ 1982 – 1990 
+ 4.2 § 
+ 1990 – 1995 
+ 1.7 § 
+ 1995 – 2002 
+ 0.3 § 
+  Breast 
+ 1975 – 1990 
+ 0.4 § 
+ 1990 – 2002 
+ − 2.3 § 
+ 
+ 
+ 
+ 
+  Colon and rectum 
+ 1975 – 1984 
+ − 1.0 § 
+ 1984 – 2002 
+ − 1.8 § 
+ 
+ 
+ 
+ 
+  Pancreas 
+ 1975 – 1984 
+ 0.8 § 
+ 1984 – 2002 
+ 0.1 
+ 
+ 
+ 
+ 
+  Ovary 
+ 1975 – 1982 
+ − 1.2 § 
+ 1982 – 1992 
+ 0.3 § 
+ 1992 – 1998 
+ − 1.2 § 
+ 1998 – 2002 
+ 0.8 
+  Non-Hodgkin lymphoma 
+ 1975 – 1994 
+ 2.2 § 
+ 1994 – 1997 
+ 1.0 
+ 1997 – 2002 
+ − 3.2 § 
+ 
+ 
+  Leukemia 
+ 1975 – 1980 
+ 0.8 
+ 1980 – 2002 
+ − 0.4 § 
+ 
+ 
+ 
+ 
+  Corpus and uterus, NOS 
+ 1975 – 1989 
+ − 1.6 § 
+ 1989 – 1997 
+ − 0.7 § 
+ 1997 – 2002 
+ 0.5 
+ 
+ 
+  Brain and other nervous 
+ 1975 – 1992 
+ 0.9 § 
+ 1992 – 2002 
+ − 1.0 § 
+ 
+ 
+ 
+ 
+  system
+  Stomach 
+ 1975 – 1987 
+ − 2.8 § 
+ 1987 – 1990 
+ − 0.5 
+ 1990 – 2002 
+ − 2.6 § 
+ 
+ 
+  Myeloma 
+ 1975 – 1993 
+ 1.5 § 
+ 1993 – 2002 
+ − 0.5 § 
+ 
+ 
+ 
+ 
+  Cervix uteri 
+ 1975 – 1982 
+ − 4.4 § 
+ 1982 – 1996 
+ − 1.6 § 
+ 1996 – 2002 
+ − 3.8 § 
+ 
+ 
+  Liver and intrahepatic 
+ 1975 – 1978 
+ − 1.5 
+ 1978 – 1988 
+ 1.4 § 
+ 1988 – 1995 
+ 3.9 § 
+ 1995 – 2002 
+ 0.4 
+  bile duct
+  Kidney and renal pelvis 
+ 1975 – 1992 
+ 1.3 § 
+ 1992 – 2002 
+ − 0.5 
+ 
+ 
+ 
+ 
+  Urinary bladder 
+ 1975 – 1986 
+ − 1.7 § 
+ 1986 – 2002 
+ − 0.3 § 
+ 
+ 
+ 
+ 
+ * Sources of data are the Surveillance, Epidemiology, and End Results (SEER) Program registries that include Connecticut, Hawaii, Iowa, Utah, and New Mexico 
+and the metropolitan areas of San Francisco, Detroit, Atlanta, and Seattle-Puget Sound (i.e., SEER9). Joinpoint analysis was performed with the use of the Joinpoint 
+(JP) Regression Program, version 3.0, April 2005, National Cancer Institute. The 15 most common cancers were selected on the basis of the sex-speciﬁ c age-adjusted 
+incidence rates for 1992 – 2002 for all races combined. A spreadsheet that contains the standard errors and 95% conﬁ dence intervals for the APCs is available at 
+ http://jncicancerspectrum.oupjournals.org/jnci/content/vol97/issue19 . APC = annual percent change; NOS = not otherwise speciﬁ ed. 
+ † Joinpoint analyses with up to three joinpoints are based on rates per 100  000 persons and are age-adjusted to the 2000 U.S. standard population (using 19 age 
+groups, with data provided from Census Current Population Reports series, P25-1130  ( 39 ) . 
+ ‡ APC is based on rates that were age-adjusted to the 2000 U.S. standard population (using 19 age groups, with data provided from Census Current Population 
+Reports series, P25-1130  ( 39 ) using joinpoint regression analysis. 
+ § APC is statistically signiﬁ cantly different from zero (two-sided  P <.05). 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1413
+ accessible. Here we discuss the results of several studies that have 
+examined trends in the delivery and determinants of cancer treat-
+ment and present results of some new analyses. Although we focus 
+on the treatment of breast cancer, we also present abbreviated ﬁ nd-
+ings for the treatment of colorectal cancer, NSCLC, and cancers of 
+the ovary and prostate. We also brieﬂ y summarize ﬁ ndings on the 
+relationship between provider procedure volume and outcomes, on 
+care during the last year of life, and on cancer treatment cost. 
+ Evaluations of Cancer Care Delivery 
+ Several studies  ( 30 , 31 ) have examined trends in the dissemina-
+tion of appropriate cancer treatment as deﬁ ned by statements 
+ issued by the National Institutes of Health (NIH) Consensus 
+Devel op ment Program  ( 46 ) or by speciﬁ c NCI clinical alerts that 
+reﬂ ect emerging evidence of treatment efﬁ cacy from controlled 
+clinical trials. In other studies  ( 47 , 48 ) , treatment patterns have been 
+compared with clinical guidelines issued by professional organiza-
+tions concerned with specialty cancer care. In all of these studies, 
+patterns of care were evaluated relative to the most recently pub-
+lished guidelines before the year of diagnosis under examination. 
+ Trends in Early-Stage Breast Cancer Treatment.  Data from 
+SEER registries and NCI POC/QOC studies have been used 
+to study two treatment regimens for early-stage breast cancer: 
+1) breast-conserving surgery and radiation, and 2) adjuvant 
+ chemotherapy and hormonal therapy. 
+ Breast-conserving surgery and radiation.  Clinical trials have 
+demonstrated that women with early-stage breast cancer who 
+ receive breast-conserving surgery followed by radiation have 
+survival outcomes similar to those of women who receive a 
+ mastectomy  ( 49 ) . A 1990 NIH Consensus Development Panel 
+concluded that  “ breast conservation treatment (breast-conserving 
+surgery followed by radiation therapy) is an appropriate method 
+of primary therapy for the majority of women with stage I and II 
+breast cancer and is preferable because it provides survival 
+equivalent to total mastectomy and axillary dissection while pre-
+serving the breast ”  ( 49 ) . Breast-conserving surgery followed by 
+radiation therapy is associated with a lower rate of local recur-
+rence than breast-conserving surgery alone  ( 49 , 50 ) . 
+ Data from SEER11 on trends in the treatment of early-stage 
+breast cancer ( Fig. 1 ) show that the proportion of women diag-
+nosed with stage I and II breast cancer who received breast-
+ conserving surgery and radiation treatment increased substantially 
+during the 1990s and that the proportion of women who received 
+breast-conserving surgery only also increased modestly. The pro-
+portion of women 65 years or older at diagnosis who received 
+breast-conserving surgery and radiation treatment was lower than 
+the proportion of women younger than 65 years at diagnosis who 
+received this treatment ( Fig. 1 ). 
+ Two studies examined factors associated with breast-
+ conserving surgery and radiation among women aged 65 or older 
+at diag nosis. Ballard-Barbash et al.  ( 51 ) , using SEER-Medicare 
+data, found that, from 1985 through 1989, 55% of women en-
+rolled in Medicare who were diagnosed with early-stage breast 
+cancer (stage I and II) and received breast-conserving surgery 
+also received radiation treatment. Women with preexisting 
+ comorbid conditions were less likely to receive radiation ther-
+apy than were women with no comorbid conditions (adjusted 
+odd ratios for women with no comorbid conditions, with one 
+comorbid condition, and with two or more comorbid conditions 
+were 1.00, 0.52, and 0.33, respectively). There was also a strong 
+inverse relationship between age at diagnosis and receipt of ra-
+diation therapy among women aged 65 years or older, even after 
+adjusting for comorbidity (adjusted odds ratios for women aged 
+65 – 69 years, 70 – 74 years, 75 – 79 years, and 80 years or older 
+were 1.00, 0.70, 0.44, and 0.12, respectively). Riley et al.  ( 52 ) 
+found that patients with early-stage breast cancer (stage I and II) 
+who were enrolled in health maintenance organizations (HMOs) 
+were, on average, as likely to undergo breast-conserving surgery 
+as women who were enrolled in fee-for-service (FFS) health 
+plans in the same geographic area and that patients in HMOs 
+were more likely than women in FFS health plans to receive 
+ radiation therapy. These investigators also found that results 
+varied across the nine SEER areas studied (e.g., in three of the 
+areas, FFS patients were more likely to receive radiation treat-
+ment than were HMO patients). 
+ Adjuvant chemotherapy and hormonal therapy for early-stage 
+breast cancer.  In recent decades, the treatments recommended for 
+women with early-stage breast cancer by NIH Consensus Develop-
+ment Conference statements and clinical alerts  ( 49 , 53 ) have 
+changed ( Fig. 2 ). In 1985, recommendations for lymph node –
+ positive breast cancer patients were established.  Multiagent che-
+motherapy was recommended for premenopausal women and for 
+postmenopausal women with estrogen receptor – negative tumors. 
+For women with estrogen receptor – positive tumors, tamoxifen was 
+recommended. In May 1988, on the basis of new clinical trial re-
+sults, the NCI issued a clinical alert advising the use of multiagent 
+chemotherapy for lymph node – negative patients with tumors larger 
+than 3 cm and for lymph node – negative patients with estrogen 
+ receptor – negative tumors of 3 cm or smaller  ( 53 ) . 
+ Harlan et al.  ( 30 ) conducted an NCI POC/QOC study to de-
+scribe therapies that were being used in community practice to 
+treat women who resided in SEER areas and were newly diag-
+nosed with breast cancer. They used comprehensive medical 
+ record reviews and physician contact to collect information about 
+treatment. Data from this study of women diagnosed with early-
+stage breast cancer in 1987, 1990, and 1995  ( 30 ) , which we have 
+updated using unpublished data for a sample of cases diagnosed 
+in 2000 ( Table 5 ), indicate that, by 1987, a substantial proportion 
+of node – positive women with stages I – IIIA breast cancer were 
+being treated with adjuvant therapy. Between 1987 and 2000, the 
+use of concurrent chemotherapy and hormone (i.e., tamoxifen) 
+therapy increased for node – positive women being treated for 
+early-stage breast cancer, although its use remained relatively 
+low among women aged 65 years or older, who were more likely 
+to receive tamoxifen alone. 
+ To translate these observed patterns of treatment into esti-
+mates of the proportion of women who received care according 
+to guideline recommendations, Harlan et al.  ( 30 ) also took into 
+account the year of diagnosis (and the corresponding guidelines 
+available during that year) and the estrogen receptor status of 
+each patient. On the basis of this analysis, the authors  ( 30 ) esti-
+mated that 70% of the patients with node - positive early-stage 
+breast cancer treated between 1987 and 1989 received therapy as 
+speciﬁ ed by guidelines, 75% of those treated in 1990 received 
+guideline therapy, and 73% of those treated in 1995 received 
+guideline therapy, after adjusting for age, race/ ethnicity, registry, 
+estrogen receptor status, tumor grade, tumor size, and the number 
+of positive nodes. 
+ The proportion of women with early-stage node-negative dis-
+ease treated with adjuvant therapy increased from 1987 through 
+1995 but remained lower than the proportion of women with 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1414 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+early-stage node-positive tumors treated with adjuvant therapy 
+ ( 30 ) . The 1990 NIH Consensus Development Statement on the 
+treatment of early-stage breast cancer  ( 49 ) indicated that patient 
+preference should determine the choice of treatment for node-
+negative breast cancer, given that cure rates after surgery alone 
+are relatively favorable and that chemotherapy results in only a 
+modest improvement in these rates. After controlling for age, 
+race/ethnicity, registry, estrogen receptor status, tumor grade, and 
+tumor size, Harlan et al.  ( 30 ) estimated that the percentage of 
+women with early-stage node-negative breast cancer who re-
+ceived adjuvant therapy increased from 34% in 1987 – 1989 to 
+51% in 1990 and to 53% in 1995, following the 1988 publication 
+of a clinical alert  ( 53 ) that recommended adjuvant therapy for 
+node – negative tumors. There were relatively few changes in 
+general treatment patterns between 1995 and 2000, except for a 
+continued increase in the percentage of women younger than 
+51 years who were treated concurrently with chemotherapy and 
+tamoxifen and a continued decrease in use of chemotherapy for 
+tumors smaller than 1 cm. 
+ Trends in Colorectal Cancer Treatment.  On the basis of the 
+accumulated evidence from clinical trials, a 1990 NIH Consen-
+sus Development Conference recommended treatment with adju-
+vant chemotherapy for patients with stage III colon cancer  ( 54 ) . 
+The evidence for the effectiveness of adjuvant chemotherapy in 
+treating stage II colon cancer was less deﬁ nitive. A subsequent 
+meta-analysis of data from multiple trials for 1016 stage II colon 
+cancer patients indicated that patients who were treated with 
+ adjuvant 5-ﬂ uorouracil plus leucovorin did not have statistically 
+signiﬁ cantly better 5-year disease-free or overall survival than 
+untreated control patients  ( 55 ) . 
+ The 1990 NIH Consensus Conference  ( 54 ) also recommended 
+combined adjuvant chemotherapy and high-dose external-beam 
+radiotherapy to treat patients with stage II or III rectal cancer. 
+The Consensus Conference noted that, although radiation therapy 
+did not appear to affect disease-speciﬁ c or overall survival, it 
+substantially decreased local recurrence — an outcome associated 
+with substantial morbidity in rectal cancer — and should therefore 
+be considered an indicator of high-quality care. 
+ Table 6 presents treatment patterns for colon and rectal can-
+cers that were documented in an NCI POC/QOC study  ( 31 ) of 
+data from patients diagnosed in 1987, 1991, and 1995. By ana-
+lyzing these data, Potosky et al.  ( 31 ) found that the percentage of 
+ Table 3.  SEER incidence rates and trends for the 15 most common cancers by sex and race/ethnicity for 1992 through 2002 * 
+ 
+ All races 
+ Whites  
+ 
+ Sex/cancer site or type 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Male 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   All sites ¶ 
+ 
+ 570.9 
+ − 1.3 # 
+ − 111.5 
+ 
+ 572.7 
+ − 1.3 # 
+ − 114.3 
+  
+   Prostate 
+ 1 
+ 180.1 
+ 2.0 # 
+ − 62.5 
+ 1 
+ 175.5 
+ − 2.1 # 
+ − 67.9 
+  
+   Lung and bronchus 
+ 2 
+ 82.7 
+ − 2.2 # 
+ − 19.9 
+ 2 
+ 81.5 
+ − 2.1 # 
+ − 18.5 
+  
+   Colon and rectum 
+ 3 
+ 64.0 
+ − 1.2 # 
+ − 10.4 
+ 3 
+ 63.8 
+ − 1.3 # 
+ − 12.0 
+  
+   Urinary bladder 
+ 4 
+ 36.1 
+ − 0.2 
+ − 2.2 
+ 4 
+ 39.7 
+ − 0.1 
+ − 2.5 
+  
+   Non-Hodgkin lymphoma 
+ 5 
+ 23.7 
+ − 0.5 
+ − 0.5 
+ 5 
+ 24.9 
+ − 0.4 
+ − 0.6 
+  
+   Melanoma of the skin 
+ 6 
+ 20.4 
+ 2.5 # 
+ 3.8 
+ 6 
+ 24.0 
+ 2.9 # 
+ 5.3 
+  
+   Leukemia 
+ 7 
+ 16.4 
+ − 1.1 # 
+ − 2.6 
+ 7 
+ 17.4 
+ − 1.1 # 
+ − 2.6 
+  
+   Oral cavity and pharynx 
+ 8 
+ 16.4 
+ − 1.8 # 
+ − 2.7 
+ 8 
+ 16.2 
+ − 1.5 # 
+ − 2.3 
+  
+   Kidney and renal pelvis 
+ 9 
+ 15.5 
+ 1.4 # 
+ 1.9 
+ 9 
+ 15.9 
+ 1.6 # 
+ 2.0 
+  
+   Stomach 
+ 10 
+ 13.1 
+ − 2.1 # 
+ − 2.5 
+ 11 
+ 11.3 
+ − 2.1 # 
+ − 2.1 
+  
+   Pancreas 
+ 11 
+ 12.7 
+ − 0.4 # 
+ − 0.6 
+ 10 
+ 12.5 
+ 0.1 
+ − 0.1 
+  
+   Liver and intrahepatic bile duct 
+ 12 
+ 8.6 
+ 3.0 # 
+ 2.4 
+ 15 
+ 6.8 
+ 2.9 # 
+ 1.8 
+  
+   Brain and other nervous system 
+ 13 
+ 7.7 
+ − 0.7 
+ − 0.9 
+ 12 
+ 8.5 
+ − 0.4 
+ − 0.9 
+  
+   Esophagus 
+ 14 
+ 7.6 
+ 0.3 
+ − 0.3 
+ 13 
+ 7.4 
+ 1.5 # 
+ 0.5 
+  
+   Larynx 
+ 15 
+ 7.2 
+ − 3.3 # 
+ − 2.7 
+ 14 
+ 7.1 
+ − 3.3 # 
+ − 2.6 
+  
+   Myeloma 
+ 16 
+ 7.1 
+ − 0.5 
+ − 0.3 
+ 16 
+ 6.8 
+ − 0.3 
+ − 0.3 
+  
+   Kaposi sarcoma 
+ 18 
+ 4.4 
+ − 20.4 # 
+ − 8.5 
+ 18 
+ 4.5 
+ − 22.4 # 
+ − 9.4 
+  
+   Thyroid 
+ 19 
+ 3.7 
+ 3.1 # 
+ 1.1 
+ 19 
+ 3.9 
+ 3.4 # 
+ 1.3 
+  
+   Gallbladder 
+ 30 
+ 0.9 
+ − 1.5 
+ − 0.1 
+ 32 
+ 0.8 
+ − 0.9 
+ 0.0 
+ Female 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   All sites ¶ 
+ 
+ 412.1 
+ 0.1 
+ − 5.0 
+ 
+ 425.7 
+ 0.2 
+ − 1.9 
+  
+   Breast 
+ 1 
+ 132.4 
+ 0.4 
+ 0.0 
+ 1 
+ 138.3 
+ 0.5 
+ 1.3 
+  
+   Lung and bronchus 
+ 2 
+ 49.2 
+ − 0.2 
+ − 1.1 
+ 2 
+ 51.3 
+ − 0.1 
+ − 0.6 
+  
+   Colon and rectum 
+ 3 
+ 46.4 
+ − 0.6 # 
+ − 3.9 
+ 3 
+ 45.9 
+ − 0.7 # 
+ − 4.3 
+  
+   Corpus and uterus, NOS 
+ 4 
+ 24.4 
+ − 0.2 
+ − 0.8 
+ 4 
+ 25.9 
+ − 0.3 
+ − 1.8 
+  
+   Non-Hodgkin lymphoma 
+ 5 
+ 15.5 
+ 0.8 # 
+ 1.2 
+ 5 
+ 16.3 
+ 0.8 # 
+ 1.1 
+  
+   Ovary † † 
+ 6 
+ 14.2 
+ − 0.9 # 
+ − 1.6 
+ 7 
+ 15.1 
+ − 0.8 # 
+ − 1.8 
+  
+   Melanoma of the skin 
+ 7 
+ 13.2 
+ 2.3 # 
+ 2.3 
+ 6 
+ 15.9 
+ 3.0 # 
+ 3.5 
+  
+   Pancreas 
+ 8 
+ 9.9 
+ − 0.3 
+ 0.0 
+ 11 
+ 9.6 
+ − 0.3 
+ − 0.1 
+  
+   Thyroid 
+ 9 
+ 9.8 
+ 4.8 # 
+ 4.6 
+ 8 
+ 10.2 
+ 5.2 # 
+ 5.3 
+  
+   Cervix uteri 
+ 10 
+ 9.7 
+ − 2.8 # 
+ − 2.8 
+ 12 
+ 9.3 
+ − 2.2 # 
+ − 2.4 
+  
+   Leukemia 
+ 11 
+ 9.6 
+ − 0.8 # 
+ − 0.8 
+ 9 
+ 10.1 
+ − 0.5 
+ − 0.6 
+  
+   Urinary bladder 
+ 12 
+ 9.2 
+ − 0.4 # 
+ − 0.4 
+ 10 
+ 9.9 
+ − 0.2 
+ − 0.2 
+  
+   Kidney and renal pelvis 
+ 13 
+ 7.6 
+ 1.4 # 
+ 0.9 
+ 13 
+ 7.9 
+ 1.5 # 
+ 0.8 
+  
+   Oral cavity and pharynx 
+ 14 
+ 6.7 
+ − 1.1 # 
+ − 0.4 
+ 14 
+ 6.7 
+ − 1.2 # 
+ − 0.4 
+  
+   Stomach 
+ 15 
+ 6.2 
+ − 0.7 
+ − 0.6 
+ 16 
+ 5.1 
+ − 1.0 
+ − 0.7 
+  
+   Brain and other nervous system 
+ 16 
+ 5.4 
+ − 0.5 
+ − 0.3 
+ 15 
+ 6.0 
+ − 0.1 
+ − 0.2 
+  
+   Myeloma 
+ 17 
+ 4.6 
+ − 0.8 
+ − 0.6 
+ 17 
+ 4.3 
+ − 0.8 
+ − 0.7 
+  
+   Liver and intrahepatic bile duct 
+ 18 
+ 3.3 
+ 3.3 # 
+ 1.0 
+ 18 
+ 2.7 
+ 3.7 # 
+ 0.9 
+  
+   Gallbladder 
+ 23 
+ 1.6 
+ − 1.5 # 
+ − 0.4 
+ 23 
+ 1.6 
+ − 1.4 
+ − 0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Table continues)
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1415
+patients who received adjuvant therapy for colon and rectal can-
+cer increased rapidly between 1987 and 1992, following publica-
+tion of results of relevant clinical trials in 1989 and 1990  ( 56 , 57 ) 
+and the 1990 NIH Consensus Conference  ( 54 ) . However, dis-
+semination of adjuvant therapy varied with patient age, with 
+much lower rates of treatment among older patients. Not surpris-
+ingly, given the lack of positive evidence from randomized 
+ clinical trials, treatment rates were lower for patients with stage 
+II disease than for patients with stage III disease. Treatment pat-
+terns for colon and rectal cancers have also been examined using 
+SEER-Medicare data, and the ﬁ ndings of the POC/QOC studies 
+have largely been corroborated  ( 32 , 58 – 64 ) . 
+A SEER-Medicare analysis examined the association between 
+adjuvant therapy and patient characteristics. For Medicare 
+ Blacks 
+  API 
+  AI/AN 
+  Hispanics/Latinos †  
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 715.6 
+ − 1.7 # 
+ − 127.1 
+ 
+ 394.4 
+ − 1.2 # 
+ − 55.6 
+ 
+ 285.5 
+ − 3.8 # 
+ − 101.3 
+ 
+ 429.6 
+ − 0.9 # 
+ − 44.5 
+ 1 
+ 283.8 
+ − 1.9 # 
+ − 55.0 
+ 1 
+ 104.6 
+ − 1.7 # 
+ − 27.5 
+ 1 
+ 63.4 
+ − 6.8 # 
+ − 44.9 
+ 1 
+ 143.1 
+ − 0.7 
+ − 13.3 
+ 2 
+ 122.8 
+ − 2.5 # 
+ − 35.7 
+ 2 
+ 61.2 
+ − 1.4 # 
+ − 14.0 
+ 2 
+ 49.8 
+ − 5.4 # 
+ − 20.3 
+ 3 
+ 47.2 
+ − 2.0 # 
+ − 7.2 
+ 3 
+ 72.9 
+ − 0.5 
+ − 4.6 
+ 3 
+ 56.9 
+ − 0.4 
+ − 0.6 
+ 3 
+ 40.8 
+ − 2.7 
+ − 7.3 
+ 2 
+ 48.1 
+ 0.0 
+ − 5.0 
+ 5 
+ 20.2 
+ − 0.2 
+ 1.5 
+ 6 
+ 16.8 
+ 1.1 
+ 2.8 
+ 9 
+ 8.3 
+ ** 
+ ** 
+ 5 
+ 19.0 
+ − 0.2 
+ 0.0 
+ 7 
+ 18.8 
+ − 1.2 
+ − 1.2 
+ 7 
+ 16.7 
+ 0.2 
+ 0.0 
+ 7 
+ 9.8 
+ 2.2 
+ 3.8 
+ 4 
+ 19.3 
+ − 0.9 
+ − 2.6 
+ 23 
+ 1.3 
+ ** 
+ ** 
+ 20 
+ 1.7 
+ 2.9 
+ 1.4 
+ 20 
+ 2.2 
+ ** 
+ ** 
+ 17 
+ 4.1 
+ 3.2 # 
+ 1.6 
+ 11 
+ 12.9 
+ − 1.6 
+ − 3.6 
+ 10 
+ 9.8 
+ − 0.3 
+ − 0.2 
+ 12 
+ 5.5 
+ ** 
+ ** 
+ 9 
+ 11.8 
+ − 0.6 
+ 0.1 
+ 4 
+ 20.7 
+ − 3.1 # 
+ − 6.0 
+ 8 
+ 12.6 
+ − 1.5 
+ − 0.9 
+ 6 
+ 11.3 
+ − 9.2 # 
+ − 11.8 
+ 11 
+ 10.1 
+ − 2.8 # 
+ − 2.3 
+ 8 
+ 18.5 
+ 2.2 # 
+ 4.3 
+ 11 
+ 8.7 
+ 0.1 
+ − 0.1 
+ 4 
+ 15.6 
+ − 4.0 # 
+ − 4.2 
+ 7 
+ 14.7 
+ 2.0 # 
+ 2.5 
+ 6 
+ 19.5 
+ − 2.8 # 
+ − 5.1 
+ 4 
+ 23.1 
+ − 3.3 # 
+ − 7.7 
+ 5 
+ 14.6 
+ ** 
+ 4.8 
+ 6 
+ 18.3 
+ − 2.5 # 
+ − 3.1 
+ 9 
+ 17.5 
+ − 2.5 # 
+ − 5.4 
+ 9 
+ 10.7 
+ − 2.8 # 
+ − 1.3 
+ 10 
+ 7.8 
+ ** 
+ ** 
+ 10 
+ 10.8 
+ − 0.9 
+ − 1.0 
+ 14 
+ 10.8 
+ 4.5 # 
+ 4.3 
+ 5 
+ 20.9 
+ 1.0 
+ 2.0 
+ 8 
+ 9.0 
+ ** 
+ ** 
+ 8 
+ 13.4 
+ 2.2 # 
+ 3.7 
+ 16 
+ 4.7 
+ 0.0 
+ 0.3 
+ 14 
+ 4.1 
+ − 1.6 
+ − 1.0 
+ 14 
+ 3.3 
+ ** 
+ ** 
+ 14 
+ 5.7 
+ 0.1 
+ − 0.1 
+ 13 
+ 12.4 
+ − 5.7 # 
+ − 7.4 
+ 12 
+ 5.1 
+ − 2.0 
+ − 0.5 
+ 11 
+ 6.1 
+ ** 
+ ** 
+ 13 
+ 5.9 
+ − 1.2 
+ − 1.2 
+ 12 
+ 12.7 
+ − 3.2 # 
+ − 5.8 
+ 16 
+ 3.5 
+ − 2.5 # 
+ − 0.8 
+ 18 
+ 2.3 
+ ** 
+ ** 
+ 15 
+ 5.6 
+ − 1.6 # 
+ − 1.2 
+ 10 
+ 13.5 
+ − 0.7 
+ 0.8 
+ 13 
+ 4.2 
+ − 1.4 
+ − 0.1 
+ 13 
+ 4.1 
+ ** 
+ ** 
+ 12 
+ 6.5 
+ − 1.1 
+ 0.5 
+ 15 
+ 6.4 
+ − 12.7 # 
+ − 7.5 
+ 24 
+ 1.2 
+ ** 
+ − 1.5 
+ 19 
+ 2.2 
+ ** 
+ ** 
+ 16 
+ 4.9 
+ − 19.5 # 
+ − 8.8 
+ 20 
+ 2.1 
+ 1.0 
+ − 0.3 
+ 15 
+ 3.9 
+ 1.6 
+ 0.7 
+ 21 
+ 2.1 
+ ** 
+ ** 
+ 20 
+ 2.9 
+ 3.2 
+ 0.2 
+ 32 
+ 0.8 
+ ** 
+ ** 
+ 21 
+ 1.4 
+ − 5.0 
+ − 1.0 
+ 15 
+ 2.9 
+ ** 
+ ** 
+ 25 
+ 1.3 
+ ** 
+ ** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 401.6 
+ − 0.2 
+ 1.1 
+ 
+ 301.2 
+ 0.3 
+ 7.2 
+ 
+ 229.8 
+ − 1.7 # 
+ − 58.9 
+ 
+ 309.0 
+ 0.1 
+ − 1.0 
+ 1 
+ 120.2 
+ − 0.2 
+ − 1.6 
+ 1 
+ 92.8 
+ 1.5 # 
+ 8.1 
+ 1 
+ 60.7 
+ − 3.5 # 
+ − 22.9 
+ 1 
+ 88.2 
+ 0.6 
+ 1.9 
+ 3 
+ 53.6 
+ 0.5 
+ 2.8 
+ 3 
+ 28.4 
+ 0.0 
+ − 1.2 
+ 3 
+ 25.8 
+ − 2.8 # 
+ − 10.2 
+ 3 
+ 24.1 
+ − 1.5 # 
+ − 3.4 
+ 2 
+ 55.9 
+ − 0.1 
+ − 2.3 
+ 2 
+ 39.3 
+ 0.0 
+ − 0.1 
+ 2 
+ 32.3 
+ − 1.0 
+ − 9.5 
+ 2 
+ 32.3 
+ − 0.2 
+ − 1.3 
+ 4 
+ 18.4 
+ 1.8 # 
+ 6.0 
+ 4 
+ 17.0 
+ 1.6 # 
+ 3.3 
+ 4 
+ 10.1 
+ ** 
+ − 1.6 
+ 5 
+ 16.6 
+ 0.7 
+ 1.7 
+ 7 
+ 10.9 
+ 2.5 # 
+ 2.1 
+ 7 
+ 11.2 
+ 1.2 
+ 2.4 
+ 9 
+ 6.9 
+ ** 
+ † † 
+ 6 
+ 13.3 
+ 0.4 
+ 0.7 
+ 8 
+ 10.3 
+ − 1.6 # 
+ − 0.9 
+ 9 
+ 10.4 
+ 0.3 
+ 1.4 
+ 5 
+ 8.9 
+ ** 
+ − 2.6 
+ 7 
+ 11.9 
+ 0.2 
+ 0.5 
+ 29 
+ 0.8 
+ ** 
+ ** 
+ 21 
+ 1.4 
+ 4.4 
+ 0.6 
+ 19 
+ 1.9 
+ ** 
+ ** 
+ 17 
+ 4.1 
+ 2.8 
+ 0.7 
+ 5 
+ 14.7 
+ − 1.6 # 
+ − 0.9 
+ 10 
+ 8.3 
+ 2.0 # 
+ 1.5 
+ 8 
+ 7.3 
+ ** 
+ ** 
+ 10 
+ 9.4 
+ 0.2 
+ 1.0 
+ 15 
+ 5.5 
+ 4.5 # 
+ 2.4 
+ 6 
+ 11.7 
+ 2.0 # 
+ 1.5 
+ 11 
+ 6.1 
+ 2.3 
+ 0.7 
+ 9 
+ 9.7 
+ 2.9 # 
+ 3.0 
+ 6 
+ 12.6 
+ − 3.8 # 
+ − 4.4 
+ 8 
+ 10.5 
+ − 4.9 # 
+ − 4.3 
+ 10 
+ 6.6 
+ − 6.9 # 
+ − 6.3 
+ 4 
+ 17.3 
+ − 3.3 # 
+ − 6.3 
+ 12 
+ 8.0 
+ − 1.2 
+ − 1.1 
+ 12 
+ 6.2 
+ − 2.2 # 
+ − 0.8 
+ 13 
+ 4.5 
+ ** 
+ ** 
+ 12 
+ 7.7 
+ − 0.6 
+ − 0.4 
+ 13 
+ 7.5 
+ 0.9 
+ 1.0 
+ 14 
+ 4.2 
+ − 1.3 
+ − 1.7 
+ 18 
+ 2.0 
+ ** 
+ ** 
+ 14 
+ 5.2 
+ 0.3 
+ 0.5 
+ 11 
+ 9.1 
+ 2.5 # 
+ 3.3 
+ 15 
+ 4.1 
+ 2.8 # 
+ 1.3 
+ 7 
+ 7.9 
+ ** 
+ − 3.4 
+ 11 
+ 7.8 
+ 2.7 # 
+ 2.7 
+ 14 
+ 6.5 
+ − 1.7 # 
+ − 0.3 
+ 13 
+ 5.8 
+ − 0.1 
+ − 0.7 
+ 14 
+ 4.0 
+ ** 
+ ** 
+ 18 
+ 4.0 
+ − 1.3 
+ 0.0 
+ 10 
+ 9.7 
+ 0.0 
+ 0.4 
+ 5 
+ 12.9 
+ − 2.9 # 
+ − 4.0 
+ 6 
+ 7.9 
+ ** 
+ ** 
+ 8 
+ 10.2 
+ − 0.6 
+ − 1.2 
+ 18 
+ 3.5 
+ − 1.3 
+ − 0.4 
+ 16 
+ 3.0 
+ − 1.6 
+ 0.4 
+ 20 
+ 1.6 
+ ** 
+ ** 
+ 15 
+ 4.6 
+ 0.6 
+ 0.4 
+ 9 
+ 10.1 
+ − 1.8 # 
+ − 1.4 
+ 17 
+ 2.8 
+ 1.5 
+ 0.1 
+ 16 
+ 3.5 
+ ** 
+ ** 
+ 16 
+ 4.4 
+ − 0.1 
+ − 0.1 
+ 17 
+ 3.6 
+ 1.4 
+ 0.1 
+ 11 
+ 7.9 
+ 0.2 
+ 0.4 
+ 12 
+ 5.6 
+ ** 
+ ** 
+ 13 
+ 5.4 
+ 5.0 # 
+ 2.6 
+ 24 
+ 1.6 
+ 0.2 
+ 0.3 
+ 20 
+ 1.7 
+ − 4.0 
+ − 1.2 
+ 15 
+ 3.9 
+ ** 
+ ** 
+ 19 
+ 4.0 
+ − 3.0 
+ − 0.5 
+  * Sources of data are the Surveillance, Epidemiology, and End Results (SEER) Program registries that include Connecticut, Hawaii, Iowa, Utah, and New Mexico; 
+the metropolitan areas of San Francisco, Detroit, Atlanta, Seattle-Puget Sound, San Jose-Monterey, and Los Angeles; rural Georgia and Alaska Natives in Alaska (i.e., 
+SEER13). Cancers are sorted in descending order according to sex-speciﬁ c rates for all races. More than 15 cancers may appear for males and females to include the 
+15 most common cancers in every racial and ethnic group. APC = annual percent change; AC = absolute change; API = Asian/Paciﬁ c Islander; AI/AN = American 
+Indian/Alaska Native; NOS = not otherwise speciﬁ ed. 
+ † Data for Hispanics/Latinos excludes cases diagnosed in Detroit, Hawaii, Alaska Natives, and rural Georgia. 
+  ‡ Rates are per 100  000 persons and are age-adjusted to the 2000 U.S. Standard Population (using 19 age groups, with data provided from U.S. Bureau of the Census, 
+Current Population Reports, Series P25-1130. 
+  § APC is based on rates that were age-adjusted to the 2000 U.S. Standard Population (using 19 age groups, with data provided from U.S. Bureau of the Census, 
+Current Population Reports, Series P25-1130)  (39) . 
+ || AC was calculated as the difference in the age-adjusted rate for 2002 minus age-adjusted rate for 1992. 
+ ¶ All sites excludes myelodysplastic syndromes and borderline tumors; ovary excludes borderline tumors. 
+  # APC is statistically signiﬁ cantly different from zero (two-sided  P <.05). 
+  ** Statistic could not be calculated. APC based on fewer than 10 cases for at least 1 year during the time interval. 
+  † † Excludes borderline tumors. 
+ Table 3 (continued). 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1416 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ patients aged 65 years or older who were diagnosed with stage III 
+colon cancer from 1997 through 1999, SEER-Medicare data are 
+available on patients’ receipt of adjuvant therapy by patient age 
+at diagnosis and the number of comorbid conditions ( Table 7 ) 
+ ( 32 ) . Although receipt of postoperative adjuvant chemotherapy 
+was inversely associated with the number of preexisting concur-
+rent conditions, the likelihood of receiving adjuvant therapy de-
+creased with age, even when comorbidity was taken into account. 
+These data also show that among elderly patients the rates of 
+hospitalization for complications from chemotherapy increased 
+modestly with increasing age. 
+ The speciﬁ c reasons for the failure to receive treatment are not 
+directly documented in SEER-Medicare data. However, because 
+Medicare claims permit ascertainment of referral patterns, Schrag 
+et al.  ( 32 ) found that most colon cancer patients who did not re-
+ceive chemotherapy never had a consultation with a medical on-
+cologist. This observation suggests that more  research is needed 
+to determine how referral and access to specialty  physicians may 
+inﬂ uence whether patients receive appropriate treatment. 
+ Provider and patient perceptions and preferences also inﬂ u-
+ence treatment. To supplement SEER registry data from northern 
+California, Ayanian et al.  ( 64 ) performed physician interviews 
+and extensive medical record reviews for patients who were 
+ diagnosed with stage III colon cancer or with stage II or III rectal 
+cancer from 1996 through 1997. They found that 88% of patients 
+younger than 55 years of age received adjuvant treatment, com-
+pared with only 11% of patients older than 85 years. Physician 
+interviews revealed that patient refusal (30%), comorbid illness 
+(22%), and lack of perceived clinical beneﬁ t (22%) were the 
+most common reasons that adjuvant therapy was not delivered. 
+ Trends in Lung Cancer Treatment.  Several studies have been 
+conducted on patterns of care for patients with stage IV NSCLC. 
+Although treatment for advanced-stage NSCLC is not without 
+controversy  ( 34 ) , published guidelines  ( 65 , 66 ) indicate that che-
+motherapy may be beneﬁ cial for patients whose cardiopulmo-
+nary status is adequate to allow them to undergo the treatment. 
+ Three studies examined the use of chemotherapy in patients 
+aged 65 or older at diagnosis with stage IV NSCLC. By using 
+instrumental variable analysis and propensity score techniques to 
+analyze SEER-Medicare data, Earle et al.  ( 67 ) found that the es-
+timated survival beneﬁ ts for stage IV NSCLC patients aged 65 
+years or older who were treated with chemotherapy were similar 
+to the survival beneﬁ ts found in randomized trials of younger 
+patients. In another study using SEER-Medicare data, Earle et al. 
+ ( 34 ) found that 22% of stage IV NSCLC patients diagnosed 
+from 1991 through 1993 received chemotherapy. Using NCI 
+ Table 4.  U.S. death rates and trends for the 15 most common cancers by sex and race/ethnicity for 1992 through 2002 * 
+ 
+ All races 
+ Whites  
+ 
+ Sex/cancer site or type 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Male 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   All sites 
+ 
+ 258.6 
+ − 1.5 ¶ 
+ − 36.7 
+ 
+ 252.5 
+ − 1.4 ¶ 
+ − 32.9 
+  
+   Lung and bronchus 
+ 1 
+ 80.8 
+ − 1.9 ¶ 
+ − 14.5 
+ 1 
+ 79.3 
+ − 1.7 ¶ 
+ − 13.3 
+  
+   Prostate 
+ 2 
+ 33.9 
+ − 3.6 ¶ 
+ − 11.1 
+ 2 
+ 31.2 
+ − 3.7 ¶ 
+ − 10.5 
+  
+   Colon and rectum 
+ 3 
+ 26.3 
+ − 2.0 ¶ 
+ − 5.5 
+ 3 
+ 25.8 
+ − 2.2 ¶ 
+ − 5.8 
+  
+   Pancreas 
+ 4 
+ 12.3 
+ − 0.3 ¶ 
+ − 0.5 
+ 4 
+ 12.0 
+ 0.0 
+ − 0.2 
+  
+   Non − Hodgkin lymphoma 
+ 5 
+ 10.4 
+ − 0.7 
+ − 0.7 
+ 5 
+ 10.8 
+ − 0.7 
+ − 0.7 
+  
+   Leukemia 
+ 6 
+ 10.4 
+ − 0.7 ¶ 
+ − 0.6 
+ 6 
+ 10.6 
+ − 0.6 ¶ 
+ − 0.6 
+  
+   Urinary bladder 
+ 7 
+ 7.7 
+ − 0.6 ¶ 
+ − 0.4 
+ 7 
+ 8.0 
+ − 0.5 ¶ 
+ − 0.3 
+  
+   Esophagus 
+ 8 
+ 7.6 
+ 0.6 ¶ 
+ 0.5 
+ 8 
+ 7.2 
+ 1.6 ¶ 
+ 1.1 
+  
+   Stomach 
+ 9 
+ 7.1 
+ − 3.4 ¶ 
+ − 2.2 
+ 9 
+ 6.3 
+ − 3.6 ¶ 
+ − 2.1 
+  
+   Liver and intrahepatic bile duct 
+ 10 
+ 6.5 
+ 2.1 ¶ 
+ 1.4 
+ 12 
+ 5.9 
+ 2.1 ¶ 
+ 1.3 
+  
+   Kidney and renal pelvis 
+ 11 
+ 6.2 
+ − 0.1 
+ − 0.1 
+ 10 
+ 6.2 
+ − 0.1 
+ − 0.1 
+  
+   Brain and other nervous system 
+ 12 
+ 5.7 
+ − 0.7 ¶ 
+ − 0.4 
+ 11 
+ 6.1 
+ − 0.7 ¶ 
+ − 0.4 
+  
+   Myeloma 
+ 13 
+ 4.8 
+ − 0.5 ¶ 
+ 0.0 
+ 13 
+ 4.5 
+ − 0.3 
+ 0.2 
+  
+   Oral cavity and pharynx 
+ 14 
+ 4.5 
+ − 2.7 ¶ 
+ − 1.1 
+ 15 
+ 4.2 
+ − 2.3 ¶ 
+ − 0.8 
+  
+   Melanoma of the skin 
+ 15 
+ 3.9 
+ − 0.1 
+ − 0.1 
+ 14 
+ 4.4 
+ 0.0 
+ 0.0 
+  
+   Larynx 
+ 16 
+ 2.7 
+ − 2.5 ¶ 
+ − 0.7 
+ 16 
+ 2.4 
+ − 2.3 ¶ 
+ − 0.6 
+  
+   Soft tissue including heart 
+ 17 
+ 1.6 
+ − 1.3 ¶ 
+ − 0.2 
+ 17 
+ 1.6 
+ − 1.2 ¶ 
+ − 0.2 
+ Female 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   All sites 
+ 
+ 169.2 
+ − 0.7 ¶ 
+ − 11.6 
+ 
+ 167.9 
+ − 0.7 ¶ 
+ − 10.7 
+  
+   Lung and bronchus 
+ 1 
+ 40.3 
+ 0.6 ¶ 
+ 2.8 
+ 1 
+ 41.1 
+ 0.7 ¶ 
+ 3.4 
+  
+   Breast 
+ 2 
+ 28.5 
+ − 2.4 ¶ 
+ − 6.1 
+ 2 
+ 28.0 
+ − 2.5 ¶ 
+ − 6.5 
+  
+   Colon and rectum 
+ 3 
+ 18.3 
+ − 1.8 ¶ 
+ − 3.3 
+ 3 
+ 17.8 
+ − 1.9 ¶ 
+ − 3.4 
+  
+   Pancreas 
+ 4 
+ 9.2 
+ − 0.1 
+ − 0.1 
+ 5 
+ 8.9 
+ 0.0 
+ 0.0 
+  
+   Ovary 
+ 5 
+ 9.0 
+ − 0.5 ¶ 
+ − 0.4 
+ 4 
+ 9.3 
+ − 0.4 
+ − 0.3 
+  
+   Non − Hodgkin lymphoma 
+ 6 
+ 6.8 
+ − 0.9 
+ − 0.5 
+ 6 
+ 7.1 
+ − 0.9 
+ − 0.6 
+  
+   Leukemia 
+ 7 
+ 5.9 
+ − 0.6 ¶ 
+ − 0.4 
+ 7 
+ 6.0 
+ − 0.5 ¶ 
+ − 0.4 
+  
+   Corpus and uterus, NOS 
+ 8 
+ 4.1 
+ − 0.1 
+ − 0.1 
+ 9 
+ 3.9 
+ − 0.2 
+ − 0.1 
+  
+   Brain and other nervous system 
+ 9 
+ 3.8 
+ − 1.1 ¶ 
+ − 0.4 
+ 8 
+ 4.1 
+ − 1.0 ¶ 
+ − 0.4 
+  
+   Stomach 
+ 10 
+ 3.4 
+ − 2.6 ¶ 
+ − 0.9 
+ 10 
+ 3.0 
+ − 2.9 ¶ 
+ − 0.9 
+  
+   Myeloma 
+ 11 
+ 3.2 
+ − 0.4 
+ − 0.1 
+ 11 
+ 2.9 
+ − 0.4 ¶ 
+ 0.0 
+  
+   Cervix uteri 
+ 12 
+ 3.0 
+ − 3.1 ¶ 
+ − 1.0 
+ 13 
+ 2.7 
+ − 2.7 ¶ 
+ − 0.7 
+  
+   Liver and intrahepatic bile duct 
+ 13 
+ 2.9 
+ 1.2 ¶ 
+ 0.4 
+ 14 
+ 2.7 
+ 1.1 ¶ 
+ 0.4 
+  
+   Kidney and renal pelvis 
+ 14 
+ 2.8 
+ − 0.4 
+ − 0.1 
+ 12 
+ 2.9 
+ − 0.4 
+ − 0.1 
+  
+   Urinary bladder 
+ 15 
+ 2.3 
+ − 0.4 
+ − 0.1 
+ 15 
+ 2.3 
+ − 0.3 
+ 0.0 
+  
+   Esophagus 
+ 17 
+ 1.8 
+ − 0.2 
+ − 0.1 
+ 18 
+ 1.6 
+ 0.7 ¶ 
+ 0.1 
+  
+   Oral cavity and pharynx 
+ 18 
+ 1.7 
+ − 2.4 ¶ 
+ − 0.4 
+ 17 
+ 1.7 
+ − 2.3 ¶ 
+ − 0.4 
+  
+   Gallbladder 
+ 20 
+ 0.9 
+ − 2.5 ¶ 
+ − 0.3 
+ 20 
+ 0.9 
+ − 2.7 ¶ 
+ − 0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Table continues)
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1417
+POC/QOC data for stage IV NSCLC patients diagnosed in 1996, 
+ Potosky et al.  ( 33 ) found a similar level of treatment among pa-
+tients aged 65 years or older. The use of chemotherapy in patients 
+65 years or older diagnosed with stage IV NSCLC is little more 
+than 20%. However, data  ( 67 ) suggest that patients in this age 
+group might have survival similar to that of younger patients if 
+they receive chemotherapy. 
+ In addition to age and stage at diagnosis, other factors inﬂ u-
+ence receipt of chemotherapy. Among patients with stage IV 
+NSCLC, Earle et al.  ( 34 ) also found that younger patients and 
+patients who had fewer comorbid conditions were more likely to 
+receive chemotherapy than older patients and patients who had 
+more comorbid conditions. In addition, they found that several 
+nonclinical factors — white race, higher socioeconomic status, 
+geographic location (i.e., patients in Utah and New Mexico 
+ received chemotherapy statistically signiﬁ cantly less often and 
+patients in Seattle/Puget Sound and Los Angeles County received 
+chemotherapy statistically signiﬁ cantly more often than patients 
+in other SEER  geographic regions)  (24) , and receiving treatment 
+in a teaching hospital — were associated with the receipt of 
+ chemotherapy.  Results of the study by Potosky et al.  ( 33 ) also 
+echoed several of these ﬁ ndings. In a subsequent study of SEER-
+Medicare data, Earle et al.  ( 68 ) found that nonclinical factors 
+were also important determinants of whether a patient with stage 
+IV NSCLC was even seen by an oncologist; however, among 
+patients who had seen an oncologist, treatment decisions were 
+ Blacks 
+  API 
+  AI/AN 
+  Hispanics/Latinos †  
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ Rank 
+ Rate ‡ 
+ APC § 
+ AC || 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 360.5 
+ − 2.0 ¶ 
+ − 66.3 
+ 
+ 155.7 
+ − 2.0 ¶ 
+ − 32.2 
+ 
+ 165.5 
+ − 1.2 
+ − 25.5 
+ 
+ 175.7 
+ − 0.9 ¶ 
+ − 12.3 
+ 1 
+ 109.1 
+ − 2.5 ¶ 
+ − 25.4 
+ 1 
+ 41.1 
+ − 1.9 ¶ 
+ − 8.9 
+ 1 
+ 50.0 
+ − 2.3 
+ − 9.9 
+ 1 
+ 40.4 
+ − 1.5 ¶ 
+ − 3.9 
+ 2 
+ 73.7 
+ − 2.5 ¶ 
+ − 16.9 
+ 4 
+ 14.1 
+ − 5.2 ¶ 
+ − 6.5 
+ 2 
+ 21.5 
+ − 4.5 ¶ 
+ − 11.5 
+ 2 
+ 24.7 
+ − 2.4 ¶ 
+ − 3.9 
+ 3 
+ 34.8 
+ − 0.8 ¶ 
+ − 2.9 
+ 2 
+ 16.4 
+ − 1.5 ¶ 
+ − 2.4 
+ 3 
+ 16.1 
+ 1.7 
+ 4.2 
+ 3 
+ 17.9 
+ − 0.4 
+ − 0.8 
+ 4 
+ 16.4 
+ − 1.5 ¶ 
+ − 2.8 
+ 6 
+ 8.4 
+ − 2.1 ¶ 
+ − 0.4 
+ 7 
+ 6.3 
+ 1.4 
+ 0.9 
+ 6 
+ 9.4 
+ − 0.8 
+ − 0.8 
+ 11 
+ 7.4 
+ − 0.6 
+ − 0.4 
+ 7 
+ 6.6 
+ − 2.2 ¶ 
+ − 1.8 
+ 9 
+ 5.1 
+ 1.1 
+ − 0.1 
+ 7 
+ 8.0 
+ − 1.1 
+ − 1.4 
+ 7 
+ 9.3 
+ − 1.1 ¶ 
+ − 0.6 
+ 8 
+ 5.4 
+ − 1.1 
+ − 0.7 
+ 8 
+ 5.1 
+ − 3.3 
+ − 0.8 
+ 8 
+ 6.7 
+ 0.2 
+ 0.0 
+ 13 
+ 5.9 
+ − 2.0 ¶ 
+ − 1.1 
+ 11 
+ 2.9 
+ 0.6 
+ − 0.2 
+ 13 
+ 2.5 
+ # 
+ # 
+ 11 
+ 4.2 
+ − 0.7 
+ − 0.2 
+ 6 
+ 12.9 
+ − 4.4 ¶ 
+ − 4.9 
+ 10 
+ 3.6 
+ − 3.7 ¶ 
+ − 2.1 
+ 10 
+ 4.8 
+ 1.5 
+ 0.8 
+ 10 
+ 4.5 
+ − 1.2 ¶ 
+ − 0.5 
+ 5 
+ 14.1 
+ − 3.0 ¶ 
+ − 3.5 
+ 5 
+ 12.6 
+ − 3.9 ¶ 
+ − 5.6 
+ 5 
+ 7.4 
+ − 1.7 
+ − 2.7 
+ 5 
+ 10.0 
+ − 2.1 ¶ 
+ − 2.1 
+ 8 
+ 9.2 
+ 1.3 ¶ 
+ 1.5 
+ 3 
+ 15.9 
+ − 0.6 
+ − 0.1 
+ 4 
+ 7.6 
+ 1.6 
+ 0.0 
+ 4 
+ 10.2 
+ 1.6 ¶ 
+ 2.1 
+ 12 
+ 6.2 
+ 0.1 
+ − 0.1 
+ 12 
+ 2.7 
+ − 0.2 
+ − 0.3 
+ 6 
+ 6.8 
+ 0.8 
+ − 0.2 
+ 9 
+ 5.5 
+ 0.7 
+ 0.2 
+ 15 
+ 3.3 
+ − 0.8 ¶ 
+ − 0.2 
+ 13 
+ 2.4 
+ 3.0 ¶ 
+ 1.2 
+ 14 
+ 2.4 
+ 0.9 
+ 0.6 
+ 13 
+ 3.5 
+ 0.5 
+ 0.2 
+ 9 
+ 9.1 
+ − 1.2 ¶ 
+ − 1.1 
+ 14 
+ 2.2 
+ − 2.4 
+ − 0.2 
+ 12 
+ 3.3 
+ # 
+ − 1.5 
+ 12 
+ 3.8 
+ 1.1 
+ 0.6 
+ 10 
+ 8.2 
+ − 4.6 ¶ 
+ − 3.7 
+ 9 
+ 3.8 
+ − 2.8 ¶ 
+ − 1.3 
+ 11 
+ 3.6 
+ − 1.5 
+ − 0.5 
+ 14 
+ 3.2 
+ − 4.0 ¶ 
+ − 1.2 
+ 23 
+ 0.5 
+ − 0.5 
+ − 0.1 
+ 20 
+ 0.5 
+ # 
+ − 0.2 
+ 18 
+ 0.9 
+ # 
+ # 
+ 17 
+ 1.1 
+ − 0.6 
+ − 0.1 
+ 14 
+ 5.7 
+ − 2.9 ¶ 
+ − 1.5 
+ 16 
+ 0.9 
+ − 1.2 
+ − 0.4 
+ 15 
+ 1.9 
+ # 
+ # 
+ 15 
+ 2.2 
+ − 3.2 ¶ 
+ − 0.6 
+ 16 
+ 1.6 
+ − 0.3 
+ 0.0 
+ 15 
+ 1.1 
+ − 4.4 ¶ 
+ − 0.3 
+ 19 
+ 0.8 
+ # 
+ # 
+ 16 
+ 1.2 
+ − 0.8 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 199.2 
+ − 0.8 ¶ 
+ − 14.9 
+ 
+ 102.3 
+ − 1.1 ¶ 
+ − 8.5 
+ 
+ 115.2 
+ − 0.3 
+ − 1.0 
+ 
+ 112.1 
+ − 0.4 ¶ 
+ − 7.1 
+ 1 
+ 39.3 
+ 0.4 ¶ 
+ 1.7 
+ 1 
+ 19.0 
+ − 0.4 
+ − 1.0 
+ 1 
+ 26.4 
+ 1.0 
+ 4.4 
+ 2 
+ 14.9 
+ 0.1 
+ 0.0 
+ 2 
+ 36.2 
+ − 1.2 ¶ 
+ − 3.0 
+ 2 
+ 12.9 
+ − 0.6 
+ − 0.1 
+ 2 
+ 14.4 
+ − 1.5 
+ − 1.5 
+ 1 
+ 17.7 
+ − 1.9 ¶ 
+ − 3.8 
+ 3 
+ 24.7 
+ − 0.9 ¶ 
+ − 2.6 
+ 3 
+ 11.3 
+ − 2.2 ¶ 
+ − 2.0 
+ 3 
+ 12.1 
+ − 0.2 
+ 2.6 
+ 3 
+ 11.5 
+ 0.1 
+ − 0.3 
+ 4 
+ 12.9 
+ − 0.8 ¶ 
+ − 1.1 
+ 5 
+ 6.7 
+ 0.9 
+ 1.1 
+ 4 
+ 6.1 
+ 0.1 
+ − 0.3 
+ 4 
+ 7.6 
+ 0.2 
+ − 0.1 
+ 5 
+ 7.6 
+ − 0.8 ¶ 
+ − 0.8 
+ 7 
+ 4.8 
+ 0.0 
+ 0.1 
+ 5 
+ 5.1 
+ − 0.4 
+ − 1.4 
+ 5 
+ 6.2 
+ − 0.6 
+ − 1.2 
+ 11 
+ 4.5 
+ − 0.3 
+ 0.0 
+ 8 
+ 4.1 
+ − 0.9 
+ − 0.5 
+ 8 
+ 3.8 
+ 2.4 
+ − 0.4 
+ 7 
+ 5.3 
+ 0.1 
+ 0.6 
+ 10 
+ 5.5 
+ − 0.7 ¶ 
+ − 0.3 
+ 9 
+ 3.4 
+ − 1.6 
+ 0.6 
+ 10 
+ 3.4 
+ − 1.2 
+ 0.4 
+ 9 
+ 4.3 
+ − 0.6 
+ − 0.3 
+ 6 
+ 7.0 
+ 0.2 
+ 0.3 
+ 11 
+ 2.2 
+ 1.4 
+ 0.4 
+ 13 
+ 2.6 
+ 0.3 
+ 0.4 
+ 11 
+ 3.2 
+ 0.6 
+ 0.1 
+ 16 
+ 2.3 
+ − 0.6 
+ − 0.2 
+ 12 
+ 1.6 
+ − 3.3 ¶ 
+ − 0.2 
+ 15 
+ 1.6 
+ # 
+ − 0.2 
+ 13 
+ 2.5 
+ 0.6 
+ 0.0 
+ 7 
+ 6.7 
+ − 2.1 ¶ 
+ − 1.4 
+ 4 
+ 7.5 
+ − 3.5 ¶ 
+ − 2.4 
+ 6 
+ 4.2 
+ 0.0 
+ 0.0 
+ 6 
+ 5.5 
+ − 1.5 ¶ 
+ − 0.9 
+ 8 
+ 6.5 
+ − 0.5 
+ − 0.3 
+ 13 
+ 1.6 
+ 1.7 
+ 0.3 
+ 12 
+ 2.7 
+ # 
+ 0.1 
+ 12 
+ 2.7 
+ 1.4 
+ 0.6 
+ 9 
+ 6.2 
+ − 4.9 ¶ 
+ − 3.1 
+ 10 
+ 2.9 
+ − 3.3 ¶ 
+ − 1.1 
+ 11 
+ 3.2 
+ − 4.7 ¶ 
+ − 1.9 
+ 10 
+ 3.8 
+ − 3.0 ¶ 
+ − 1.2 
+ 12 
+ 3.7 
+ 0.7 
+ 0.3 
+ 6 
+ 6.5 
+ − 0.7 
+ − 0.9 
+ 7 
+ 4.1 
+ 1.7 
+ − 0.1 
+ 8 
+ 4.8 
+ 2.1 ¶ 
+ 0.7 
+ 15 
+ 2.8 
+ 0.0 
+ 0.2 
+ 15 
+ 1.2 
+ 0.3 
+ 0.2 
+ 9 
+ 3.4 
+ − 1.1 
+ 1.2 
+ 14 
+ 2.4 
+ − 0.5 
+ 0.0 
+ 14 
+ 3.0 
+ − 0.6 
+ 0.0 
+ 16 
+ 1.1 
+ − 2.2 
+ − 0.3 
+ 18 
+ 1.1 
+ # 
+ # 
+ 16 
+ 1.3 
+ 1.6 
+ 0.5 
+ 13 
+ 3.5 
+ − 3.3 ¶ 
+ − 1.2 
+ 18 
+ 0.9 
+ − 1.1 
+ − 0.1 
+ 17 
+ 1.1 
+ # 
+ # 
+ 18 
+ 0.9 
+ 1.7 
+ 0.3 
+ 17 
+ 2.1 
+ − 3.5 ¶ 
+ − 0.6 
+ 14 
+ 1.5 
+ − 1.2 
+ 0.2 
+ 16 
+ 1.3 
+ # 
+ 0.1 
+ 19 
+ 0.9 
+ − 1.2 
+ − 0.4 
+ 19 
+ 1.1 
+ − 0.2 
+ 0.1 
+ 17 
+ 1.0 
+ − 6.3 ¶ 
+ − 1.1 
+ 14 
+ 1.7 
+ # 
+ − 1.1 
+ 15 
+ 1.8 
+ − 3.2 ¶ 
+ − 0.9 
+  * Source of data is the National Center for Health Statistics public – use data ﬁ le for the total United States. Cancers are sorted in descending order according to 
+sex – speciﬁ c rates for all races. More than 15 cancers may appear under male and female to include the 15 most common cancers in every racial and ethnic group. APC = 
+annual percent change; AC = absolute change; API = Asian/Paciﬁ c Islander; AI/AN = American Indian/Alaska Native; NOS = not otherwise speciﬁ ed. 
+  † Data for Hispanics/Latinos exclude cases diagnosed in Connecticut, Maine, Maryland, Minnesota, New Hampshire, New York, North Dakota, Oklahoma, and 
+Vermont. 
+  ‡ Rates are per 100 000 persons and are age – adjusted to the 2000 U.S. Standard Population (using 19 age groups, with data provided from U.S. Bureau of the Census, 
+Current Population Reports, Series P25 – 1130  ( 39 ) . 
+  § APC is based on rates that were age – adjusted to the 2000 U.S. Standard Population (using 19 age groups, with data provided from U.S. Bureau of the Census, 
+Current Population Reports, Series P25 – 1130)  ( 39 ) . 
+  || AC was calculated as the difference in the age – adjusted rate for 2002 minus age – adjusted rate for 1992. 
+  ¶ APC is statistically signiﬁ cantly different from zero (two – sided  P <.05). 
+  # Statistic could not be calculated. APC based on fewer than 10 cases for at least 1 year within the time interval. 
+ Table 4 (continued). 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1418 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ related mainly to clinically relevant factors, such as age and 
+ comorbidity. 
+ Potosky et al.  ( 33 ) also examined the receipt of appropriate 
+surgical treatment for patients with stage I or II NSCLC, the 
+ receipt of surgical treatment and chemoradiation for patients with 
+stage IIIA NSCLC, and the receipt of chemoradiation for  patients 
+with stage IIIB NSCLC. These investigators found, as did Bach 
+et al.  ( 69 ) in an earlier study of SEER-Medicare data, that white 
+patients were substantially more likely to receive surgery for 
+stage I and II NSCLC than black patients, even after adjustments 
+had been made for other sociodemographic factors. In addition, 
+Potosky et al.  ( 33 ) found a similar racial disparity in surgical 
+rates for white and black patients with stage III NSCLC. 
+ Trends in Ovarian Cancer Treatment.   A 1994 NIH Con-
+sensus Conference  ( 70 ) deﬁ ned guideline treatment for ovarian 
+cancer to include adequate and complete surgical intervention as 
+the primary therapy for ovarian carcinoma, which would permit 
+precise staging, accurate diagnosis, and optimal cytoreduction. 
+Subsequent phase III clinical trials have established platinum-
+based chemotherapy combined with a taxane as the standard of 
+care for ovarian cancer  ( 71 ) . 
+ Harlan et al.  ( 35 ) examined patterns of care for ovarian cancer 
+among women who were diagnosed with ovarian cancer in 1991 
+and in 1996. They found that a large percentage of the ovarian 
+cancer patients diagnosed in 1991 (before the 1994 guidelines 
+were published) — particularly those diagnosed with stage I and 
+II ovarian cancer — did not receive node dissection, nor did they 
+receive the therapies that were subsequently recommended in the 
+1994 guidelines ( Table 8 ). By 1996, however, there were notable 
+improvements in the treatment of stage I and II ovarian cancer 
+patients, primarily because of increasing rates of lymph node 
+ dissection. Even so, Harlan et al.  ( 35 ) found that a substantial 
+proportion of stage I and II ovarian cancer patients still did not 
+receive lymph node dissection in 1996, and many stage III and 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+1991
+1993
+1995
+1997
+1999
+2001
+ 65y, Mastectomy
+ 65y, BCS + RT
+ 65y, BCS only
+< 65y, Mastectomy 
+< 65y, BCS + RT 
+< 65y, BCS only 
+Percent
+Year of diagnosis
+ Fig. 1.  Treatment for early-stage breast cancer, 1991 – 2002, by age at diagnosis. 
+BCS = breast-conserving surgery; RT = radiation treatment. Source: Surveillance, 
+Epidemiology, and End Results (SEER) 11 registries (Connecticut, Hawaii, Iowa, 
+Utah, and New Mexico and the metropolitan areas of San Francisco, Detroit, 
+Atlanta, Seattle-Puget Sound, San Jose-Monterey, and Los Angeles County). 
+1985
+Positive
+Negative
+Year
+Nodal status
+Menopausal
+status
+Receptor
+status
+Tumor
+size
+Recommendation
+Pre-
+Post-
+<1cm
+No adjuvant
+therapy 
+3cm
+<
+Positive
+Negative
+Positive
+Negative
+Tamoxifen
+>3cm
+1988
+1990
+Negative
+Multi-agent
+chemotherapy
+Tamoxifen
+Multi-agent
+chemotherapy
+Multi-agent
+chemotherapy
+Multi-agent
+chemotherapy
+ Fig. 2.  Recommended adjuvant treatment for early-stage breast cancer  ( 30 ) . 
+ Table 5.  Distribution of adjuvant therapy for women diagnosed with stage 
+I – IIIA breast cancer by nodal status, age at diagnosis, and diagnosis year * 
+ 
+ Adjuvant therapy by diagnosis year (%) 
+ 
+ 1987 
+ 1990 
+ 1995 
+ 2000 
+ Nodal status and age 
+( n = 902) 
+( n = 1722) 
+( n = 1474) 
+( n = 1160)
+ Node-positive 
+ 
+ 
+ 
+ 
+  
+   <51 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 68.1 
+ 63.0 
+ 58.1 
+ 37.5 
+   
+      Chemotherapy  
+ 13.5 
+ 23.1 
+ 31.0 
+ 51.5 
+   + tamoxifen
+   
+      Tamoxifen alone 
+ 3.9 
+ 2.3 
+ 3.4 
+ 2.9 
+   
+      Neither/unknown 
+ 14.5 
+ 11.6 
+ 7.5 
+ 8.1 
+  
+   51 – 64 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 13.4 
+ 35.8 
+ 30.5 
+ 25.5 
+   
+      Chemotherapy  
+ 31.9 
+ 24.6 
+ 37.6 
+ 56.2 
+   + tamoxifen
+   
+      Tamoxifen alone 
+ 32.4 
+ 26.1 
+ 20.4 
+ 6.2 
+   
+      Neither/unknown 
+ 22.3 
+ 13.5 
+ 11.5 
+ 12.1 
+  
+   ≥ 65 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 6.3 
+ 13.8 
+ 11.1 
+ 21.4 
+   
+      Chemotherapy  
+ 8.0 
+ 12.6 
+ 32.9 
+ 18.8 
+   + tamoxifen
+  
+    Tamoxifen alone 
+ 65.6 
+ 55.2 
+ 42.7 
+ 36.2 
+   Neither/unknown 
+ 20.1 
+ 18.5 
+ 13.3 
+ 23.7 
+ Node-negative 
+ 
+ 
+ 
+ 
+  
+   <51 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 12.8 
+ 31.1 
+ 34.0 
+ 33.5 
+   
+      Chemotherapy  
+ 1.2 
+ 8.5 
+ 13.3 
+ 30.4 
+   + tamoxifen
+   
+      Tamoxifen alone 
+ 2.5 
+ 13.2 
+ 15.8 
+ 14.8 
+   
+       Neither/unknown 
+ 83.5 
+ 47.1 
+ 36.9 
+ 21.3 
+  
+   51 – 64 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 2.6 
+ 9.4 
+ 13.7 
+ 15.6 
+   
+      Chemotherapy  
+ 0 
+ 6.6 
+ 10.5 
+ 10.4 
+   + tamoxifen
+   
+      Tamoxifen alone 
+ 4.6 
+ 37.2 
+ 40.4 
+ 44.5 
+   
+      Neither/unknown 
+ 92.9 
+ 46.9 
+ 35.5 
+ 29.1 
+  
+   ≥ 65 years 
+ 
+ 
+ 
+ 
+   
+      Chemotherapy alone 
+ 1.0 
+ 2.3 
+ 1.9 
+ 9.2 
+   
+      Chemotherapy  
+ 1.0 
+ 4.9 
+ 1.6 
+ 2.1 
+   + tamoxifen
+   
+      Tamoxifen alone 
+ 11.8 
+ 38.8 
+ 52.3 
+ 44.9 
+   
+      Neither/unknown 
+ 86.2 
+ 54.0 
+ 44.2 
+ 43.8 
+ Node-negative and tumor <1 cm 
+ 
+ 
+ 
+ 
+  
+   Chemotherapy alone 
+ 0.6 
+ 5.9 
+ 3.8 
+ 1.6 
+  
+   Chemotherapy  
+ 0 
+ 0.6 
+ 2.1 
+ 1.1 
+  + tamoxifen
+  
+   Tamoxifen alone 
+ 2.8 
+ 26.4 
+ 34.3 
+ 35.0 
+  
+   Neither/unknown 
+ 96.6 
+ 67.1 
+ 59.8 
+ 62.2 
+ * Data for 1987, 1990, and 1995 are from Harlan et al.  ( 30 ) and data for 2000 
+are from a National Cancer Institute Patterns of Care/Quality of Care study of 
+Surveillance, Epidemiology, and End Results Program registries (SEER11) 
+(Harlan LC, Clegg LX, Abrams J, Stevens JL, Ballard-Barbash R: manuscript 
+submitted). 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1419
+IV patients who were diagnosed in 1996 did not receive  platinum-
+based chemotherapy. 
+ However, Harlan et al.  ( 35 ) also found that, between 1991 and 
+1996, a major shift occurred in the type of chemotherapy that 
+women with ovarian cancer had received. Speciﬁ cally, the use of 
+cyclophosphamide decreased whereas the use of paclitaxel, the 
+taxane that initially had been approved for the treatment of ovar-
+ian cancer by a Food and Drug Administration advisory commit-
+tee in 1992, had increased rapidly  ( 72 ) . 
+ In addition, the authors  ( 35 ) found that women with stage III 
+or IV ovarian cancer were less likely to receive guideline-based 
+treatment if they lacked private insurance or were older than 65 
+years at diagnosis. Several other studies  ( 73 , 74 ) of the SEER-
+Medicare data for ovarian cancer patients diagnosed in 1992 
+through 1996 similarly found that, within the Medicare popula-
+tion, older age at diagnosis was associated with lower odds of 
+receiving chemotherapy, especially among patients with stage III 
+and IV disease  ( 73 , 74 ) , although patients who did receive che-
+motherapy experienced improvements in survival, consistent 
+with previous clinical trial results  ( 75 ) . 
+ Harlan et al.  ( 35 ) also noted a relationship between the  presence 
+of an approved residency training program at a given hospital and 
+the proportion of ovarian cancer patients  receiving guideline-based 
+treatment. This observation suggests that the receipt of guideline-
+based treatment may be a function of  access to oncologists with 
+expertise in the management of ovarian cancer. A recent study of 
+SEER-Medicare data  ( 76 ) found that only 34% of female  Medicare 
+beneﬁ ciaries had their ovarian cancer resection performed by a 
+gynecologic  oncologist; 46% were operated on by a gynecologist, 
+and 20% were operated on by a general surgeon. After adjusting 
+for  differences in stage at diagnosis, age, and other factors, it 
+ appeared that women who were operated on by gynecologic 
+ oncologists had somewhat more favorable outcomes than women 
+who were operated on by gynecologists or general surgeons. 
+ Trends in Prostate Cancer Treatment.  Whereas breast, 
+colorectal, lung, and ovarian cancers have well-established 
+treatment guidelines, treatment for prostate cancer is more 
+ controversial. SEER registry, NCI POC/QOC, and SEER-
+ Medicare data have been used extensively to study trends in 
+prostate cancer treatment, variations in and determinants of 
+treatment, and quality-of-life – related treatment outcomes 
+ ( 36,37 , 77 – 82 ) . These topics have also been explored in a large 
+NCI-sponsored prospective cohort study, the Prostate Cancer 
+Outcomes Study  ( 83 – 87 ) . 
+ Trends in treatment for early-stage prostate cancer among white 
+and black patients diagnosed in 1986 through 1999 were examined 
+using SEER-Medicare data  ( 36 , 37 ) ( Fig. 3 ). The most notable trend 
+in prostate cancer treatment was the decline in the proportion of 
+patients who received conservative management (deﬁ ned as watch-
+ful waiting, surgical or chemical castration, or hormonal androgen 
+deprivation therapy) as primary treatment. In addition, over the 
+ entire period, black men were substantially less likely than white 
+men to receive aggressive treatment (deﬁ ned as radical prostatec-
+tomy, external beam radiation therapy, or  brachytherapy). The use 
+of  hormonal androgen deprivation therapy increased sharply dur-
+ing the 1990s among prostate cancer patients who received conser-
+vative management or radiation treatment. The percentage of men 
+ Table 6.  Distribution of adjuvant therapy for patients diagnosed with stage II 
+or III colon or rectal cancer by age at diagnosis and diagnosis year* 
+ 
+ Offered or received adjuvant  
+ 
+ therapy by diagnosis year (%) 
+ Site/stage of cancer 
+ 1987 
+ 1991 
+ 1995 
+and patient age (y) 
+( n = 265) 
+( n = 265) 
+( n = 257)
+ Colon cancer 
+ 
+ 
+ 
+  
+   Stage II 
+ 
+ 
+ 
+   
+     <55 
+ 0.0 
+ 39.8 
+ 44.3 
+   
+     55 – 74 
+ 4.5 
+ 28.1 
+ 32.5 
+   
+     ≥ 75 
+ 6.1 
+ 8.6 
+ 15.6 
+  
+  Stage III 
+ 
+ 
+ 
+   
+     <55 
+ 11.6 
+ 55.8 
+ 87.0 
+   
+     55 – 74 
+ 3.4 
+ 72.6 
+ 65.2 
+   
+     ≥ 75 
+ 5.5 
+ 27.3 
+ 43.3 
+ Rectal cancer 
+ n = 464 
+ n = 478 
+ n = 423 
+  
+   Stage II 
+ 
+ 
+ 
+  
+      <55 
+ 21.4 
+ 75.3 
+ 75.4 
+   
+     55 – 74 
+ 20.7 
+ 53.9 
+ 65.4 
+   
+     ≥ 75 
+ 2.7 
+ 23.3 
+ 45.7 
+  
+  Stage III 
+ 
+ 
+ 
+   
+     <55 
+ 37.7 
+ 92.8 
+ 92.5 
+  
+      55 – 74 
+ 32.8 
+ 86.4 
+ 84.6 
+   
+     ≥ 75 
+ 14.1 
+ 38.1 
+ 50.7 
+ * Adjuvant therapy for colon cancer = 5-ﬂ uorouracil–based combination 
+chemotherapy. Adjuvant therapy for rectal cancer = 5-ﬂ uorouracil–based che-
+motherapy with or without radiation treatment. Data are adapted from Potosky 
+et al.  ( 31 ) . 
+ Table 7.  Distribution of postoperative adjuvant chemotherapy and hospitalization after surgery among beneﬁ ciaries in the SEER-Medicare database diagnosed 
+with stage III colon cancer from 1997 through 1999, by age at diagnosis * 
+ 
+ Patient age at diagnosis, (%)  
+ 
+ All patients 
+ 65 – 69 y 
+ 70 – 74 y 
+ 75 – 79 y 
+ 80 – 84 y 
+ ≥ 85 y 
+ 
+( n = 2996) 
+( n = 564) 
+( n = 727) 
+( n = 708) 
+( n = 550) 
+( n = 447)
+ Postoperative adjuvant chemotherapy 
+  initiated within 3 months of surgery
+ Total patients 
+ 58.5 
+ 79.4 
+ 71.5 
+ 62.9 
+ 41.8 
+ 11.0 
+ No. of comorbid conditions 
+   
+  0 
+ 67.4 
+ 83.9 
+ 79.6 
+ 73.0 
+ 54.3 
+ 15.4 
+   
+  1 
+ 52.1 
+ 77.4 
+ 69.9 
+ 59.6 
+ 34.5 
+ 7.8 
+   
+  ≥ 2 
+ 41.6 
+ 67.6 
+ 57.9 
+ 48.6 
+ 31.7 
+ 8.2 
+ Hospitalized within 6 months of receiving 
+  postoperative adjuvant chemotherapy
+ 
+   Any hospitalization 
+ 26.8 
+ 23.8 
+ 26.3 
+ 26.8 
+ 31.4 
+ 33.3 
+  
+  Hospitalization for complications of 
+ 9.3 
+ 7.0 
+ 9.1 
+ 10.8 
+ 12.2 
+ 9.8 
+  chemotherapy
+ * Data are from Schrag et al.  ( 32 ) and were updated February 2005 by using data from Surveillance, Epidemiology, and End Results (SEER) Program-Medicare databases. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1420 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+treated with brachytherapy increased during the 1990s but still 
+ accounted for a relatively low proportion of all treatment  ( 37 ) . 
+ Other Aspects of Cancer Treatment 
+ Provider Procedure Volume – Outcome Relationships in 
+Cancer Treatment.  Studies of relationships between provider 
+procedure volume and patient outcomes have, in general, found 
+that higher procedure volume at the physician and/or hospital 
+levels, especially for complex surgical procedures, are associated 
+with better outcomes, including lower short-term mortality rates 
+and improved long-term survival  ( 61 – 63 , 88 , 89 ) . Several studies 
+have been initiated to explore the components of provider proce-
+dure volume that may explain the link between volume and 
+ cancer patient outcomes, including the practice style of the 
+ physician and differences in the characteristics of patients served 
+by different types of hospitals or providers  ( 90 , 91 ) . 
+ Care for Cancer Patients During the Last Year of Life.  The 
+SEER-Medicare database contains information about medical 
+care that was received over the entire course of a disease, which 
+is useful for monitoring trends in treatment. Recently, Earle et al. 
+ ( 92 ) used this information to track trends in end-of-life cancer 
+care for patients with lung, breast, colorectal, and other gastroin-
+testinal cancers. They found that from 1993 through 1996 there 
+was a decrease in the proportion of cancer patients who died in an 
+acute care hospital, with more patients using hospice services in 
+1996 than in 1993, but an increasing proportion of them enlisted 
+this assistance  during the last 3 days of life. Among those who 
+received chemotherapy in 1996, 18.5% were still receiving treat-
+ment within 2 weeks of death, an increase from 13.8% in 1993. 
+From 1993 through 1996, there was also an increase in the pro-
+portion of patients who, during the last months of life, had more 
+than one emergency department visit, were hospitalized, or were 
+admitted to an intensive care unit. 
+ Cost of Treatment.  Various aspects of the economic cost of 
+cancer treatment have also been examined in studies that have 
+used SEER-Medicare data  ( 93 – 96 ) , data from the Medical 
+ Expenditure Panel Survey conducted by the Agency for Healthcare 
+Research and Quality (AHRQ)  ( 97 ) , and data from large  nonproﬁ t 
+HMO delivery systems linked to SEER data  ( 98 – 100 ) . Results 
+of these studies have been used as baseline inputs for cost-
+ effectiveness studies of new early detection and treatment inno-
+vations. Efforts to describe national long-term trends in cancer 
+treatment costs and to describe resource-based components of 
+these trends are currently underway. 
+ D ISCUSSION 
+ Overall Cancer Incidence and Mortality Trends in the 
+United States 
+ Progress has been achieved in reducing the cancer burden in 
+the United States. The decline in overall cancer death rates that 
+ Table 8.  Ovarian cancer patients’ receipt of 1994 National Institutes of Health 
+consensus guideline therapy by stage and diagnosis year * 
+ 
+ n (%) in diagnosis year 
+ 
+ 1991 
+ 1996 
+ Stage I, grade unknown 
+ 
+ 
+  
+   No guideline therapy; no tumor grade 
+ 69 (100) 
+ 40 (100) 
+ Stage I, grades 1 to 4 
+ 
+ 
+  
+  Guideline therapy † 
+ 45 (36.8) 
+ 68 (61.7) 
+  
+  No guideline therapy 
+ 
+ 
+   
+     No lymph node dissection 
+ 71 (60.1) 
+ 39 (35.5) 
+   
+     No stage-appropriate surgery 
+ 4 (3.1) 
+ 3 (2.8) 
+ Stage II 
+ 
+ 
+  
+  Guideline therapy ‡ 
+ 7 (14.2) 
+ 21 (38.4) 
+  
+  No guideline therapy 
+ 
+ 
+   
+     No lymph node dissection 
+ 37 (71.8) 
+ 22 (48.7) 
+   
+     No stage-appropriate surgery 
+ 5 (8.7) 
+ 3 (8.0) 
+ Stage III and IV 
+ 
+ 
+  
+  Guideline therapy § 
+ 225 (62.6) 
+ 229 (62.3) 
+  
+  No guideline therapy 
+ 
+ 
+   
+     No stage-appropriate surgery 
+ 85 (23.7) 
+ 98 (25.1) 
+   
+     No platinum-based chemotherapy 
+ 50 (13.7) 
+ 40 (12.6) 
+ * Percentages are weighted to take sampling design into account. Data adapted 
+from Harlan et al.  ( 35 ) . The 1994 National Institutes of Health consensus guide-
+line is available at  http://consensus.nih.gov/previousstatements.htm . 
+ † Lymph node dissection; subtotal or partial oophorectomy or more extensive 
+surgery through omentectomy, excluding debulking; histologic grade of the 
+ tumor determined. 
+ ‡ Lymph node dissection; subtotal or partial oophorectomy or more extensive sur-
+gery through omentectomy, excluding debulking; platinum-based chemotherapy. 
+ § Subtotal or partial oophorectomy or more extensive surgery, including 
+debulking; platinum-based chemotherapy. 
+0
+10
+20
+30
+40
+50
+60
+70
+1986 1989 1992 1995 1998
+Percent
+White men
+Year of diagnosis
+Surgery
+Radiation
+Conservative
+Management
+Brachytherapy
+0
+10
+20
+30
+40
+50
+60
+70
+1986 1989 1992 1995 1998
+Black men
+Year of diagnosis
+ Fig. 3.  Trends in treatment for early-stage prostate cancer, 
+1986 – 1999, SEER-Medicare. Adapted from Klabunde et al. 
+ ( 36 ) and from Zeliadt et al.  ( 37 ) . 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1421
+began in the early 1990s occurred after more than six decades of 
+reported increases in cancer mortality. The historical trends in 
+age-adjusted cancer death rates have been documented for 10 
+types of cancer by sex  ( 101 ) . Before the 1950s, annual cancer 
+death rates for all sites had increased by more than 1% per year 
+until the early 1970s, when they slowed to half this rate; they 
+then began to decrease in 1993 by 1.1% per year. Declines in 
+overall cancer death rates have occurred in both men and women 
+and for many of the 15 most common cancers, including cancers 
+of the lung, colon and rectum, and prostate in men and cancers of 
+the colon and rectum and breast in women. For many cancers, 
+these declines have occurred because of effective prevention and 
+risk-reduction interventions, screening and early detection, and 
+improved treatments and medical management. Nevertheless, 
+the demographic phenomena of aging and increasing size of the 
+U.S. population have contributed to an increase in the absolute 
+total number of cancer deaths  ( 5 ) . 
+ Changes in cancer incidence over time may result from 
+changes in the prevalence of risk factors, from changes in detec-
+tion practices due to the introduction or increased use of screen-
+ing or diagnostic techniques, and from delays in reporting  ( 1 – 7 ) . 
+Trends in overall reporting of delay - adjusted cancer incidence 
+rates for all cancers combined stabilized from 1995 through 2002 
+among men, and among women increased by 0.3% annually from 
+1987 through 2002, a slower pace than the annual  increase ob-
+served from 1975 through 1987. The overall trend in cancer inci-
+dence for both sexes combined appears to have been heavily 
+inﬂ uenced both by the rapidly changing prostate cancer incidence 
+trends among men  ( 102 , 103 ) and by delays in reporting  ( 45 ) . The 
+increase in overall cancer incidence rates for women can be 
+ attributed to increases in the incidence rates for breast cancer, 
+non-Hodgkin lymphoma, melanoma, thyroid cancer, leukemia, 
+and bladder and kidney cancer. 
+ The slight but statistically signiﬁ cant increase in the overall 
+age-adjusted female lung cancer death rate from 1995 through 
+2002 represents a change from the trend described in the 2004 
+annual report to the nation  ( 7 ) , in which the rates from 1995 
+through 2001 were reported to be stable. This change may reﬂ ect 
+random variations in the rates as the trend stabilized before 
+ showing what is expected to be a steady decline. Lung cancer 
+mortality trends in the United States are determined largely by 
+historical smoking patterns  ( 104 – 106 ) . Smoking prevalence in 
+women peaked among those who were born in the late 1930s and 
+began to decrease among women born thereafter through 1950 
+ ( 107 ) . Thus, women who were born in the late 1930s and who are 
+now aged 60 years or older are at an increased risk for lung 
+ cancer. As these women with the highest risk of lung cancer age 
+and because lung cancer death rates in the future are calculated 
+using a larger proportion of women with a lower risk of lung 
+cancer, the lung cancer mortality trend in women may ﬂ uctuate 
+from year to year before it begins an expected  decline  ( 7 ) . 
+ The recent increase in lung cancer death rates among women 
+aged 40 – 49 years reﬂ ects the increased risk of lung cancer 
+among women who were born after 1950  ( 105 , 108 ) . Smoking 
+initiation rates in girls who were born from 1950 through 1960 
+increased from the mid-1960s to the late 1970s, a time during 
+which speciﬁ c brands of cigarettes were introduced and mar-
+keted to women  ( 106 ) . The elevated lung cancer risk in women 
+aged 40 – 49 years is unlikely to appreciably inﬂ uence lung 
+ cancer mortality trends in the short term because of the small 
+contribution of this age cohort (approximately 5%) to the overall 
+age-standardized death rate  ( 108 ) . However, the cohort of 
+women aged 40 – 49 years who took up smoking in the mid-
+1960s and 1970s and are currently smoking can still substan-
+tially reduce their risk of dying from lung cancer by quitting 
+smoking  ( 109 ) . Women in their 40s who quit smoking have 
+ approximately one-third the risk of dying from lung cancer as 
+women who continue to smoke  ( 109 ) . 
+ Our analyses of the 15 most common cancers within each 
+race and ethnicity revealed that disparities in incidence persist, 
+particularly among black men as compared with other groups. 
+The cancer incidence rate for all sites combined was 25% higher 
+in black men than in white men, and the incidence rates for black 
+men were more than 50% higher than those in white men for 
+myeloma and cancers of the prostate, lung, stomach, liver, 
+esophagus, and larynx. Our analysis of the mortality data also 
+revealed racial disparities. For example, the cancer death rate for 
+all sites combined was 43% higher in black men than in white 
+men, and death rates for myeloma and cancers of the prostate 
+and stomach were more than 200% higher, whereas death rates 
+for cancers of the esophagus and oral cavity were more than 
+75% higher. 
+ In general, cancer incidence and death rates for API, AI/AN, 
+and Hispanic/Latino populations were lower than those among 
+black and white populations. However, some cancers, in parti-
+cular stomach and liver cancer, disproportionately affect the 
+API, AI/AN, and Hispanic/Latino populations. In our analysis, 
+APIs had the highest rates of stomach and liver cancer among 
+the  populations studied, although stomach cancer death rates 
+were highest among black men. Of note, the incidence and death 
+rates of liver cancer increased for most population groups 
+ examined,  suggesting that this once relatively rare cancer is 
+ becoming more common in the United States. Among men, 
+ incidence of gallbladder cancer was highest in the AI/AN 
+ population, even though these rates are probably underesti-
+mates due to the effects of undercounting and misclassiﬁ cation 
+of the AI/AN race in case identiﬁ cation  ( 110 ) . Finally, Hispanic/
+Latina women had the highest incidence rates of cancers of the 
+cervix uteri and gallbladder among the populations studied, and 
+AI/AN women had a similarly high incidence of gallbladder 
+cancer. 
+ As increasing numbers of population-based cancer registries 
+meet high standards for the quality of their data to estimate 
+ incidence rates  ( 111 ) , there is greater potential to investigate 
+ geographic as well as demographic variability in U.S. cancer 
+ incidence rates. Differences in sex- and race/ethnicity-speciﬁ c 
+incidence rates among states could result from variations in risk 
+factor prevalence, in the use of screening tests for early detection, 
+and/or in social and demographic factors  ( 6 ) . Differences in 
+ cancer incidence rates among states may also reﬂ ect data that 
+were based on small numbers and/or differences in aggregate 
+rates derived from differential coverage of racial/ethnic popula-
+tions. Differences in the incidence of speciﬁ c cancers can be 
+ analyzed using the linked micromap plotting technique  ( 112 ) 
+available on the Cancer Control PLANET Web site  ( 113 ) . 
+ Additional results are available at  http://jncicancerspectrum.
+oupjournals.org/jnci/content/vol97/issue19 for data reported to 
+NAACCR from 37 SEER and NPCR state (including the District 
+of  Columbia)  cancer incidence registries that met NAACCR 
+ criteria for high-quality incidence data as of December 2004. 
+Such registry data cover more than 77% of the U.S. population 
+for data from 1998 through 2002. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1422 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+ Use of Cancer Registry-Based Data Resources to 
+Monitor Cancer Treatment 
+ Data regarding trends in and determinants of cancer treatment 
+in the United States are available from a variety of sources  ( 114 ) . 
+In 1999, an Institute of Medicine report  ( 9 ) identiﬁ ed the two fed-
+eral population-based registry programs in the United States —
+ SEER and NPCR — as valuable resources for assessing the quality 
+of cancer care. 
+ In an editorial on patterns of care studies, Earle and Emanuel 
+ ( 115 ) stated that those concerned with the quality of health care 
+delivery need to create  “ an environment of watchful concern, ” a 
+term coined by Donabedian in 1966  ( 116 ) . Population-based cancer 
+registries provide investigators with large numbers of cases and in-
+clude all persons in the community. Data from registries can there-
+fore be used to monitor the quality of care provided in a community 
+setting. Studies that have used data from population-based regis-
+tries have documented that much of contemporary cancer treatment 
+is consistent with evidence-based NIH Consensus Development 
+statements and other clinical guidelines concerning treatment. 
+ Dissemination of guideline cancer treatments is not always 
+rapid and complete. As a result, some aspects of recommended 
+cancer treatment appear to be less than fully implemented in the 
+community delivery setting. Examples of this failure include the 
+modest but increasing use of breast-conserving surgery without 
+radiation therapy to treat women diagnosed with early-stage 
+breast cancer  ( 51 ) , the possible overuse of chemotherapy for pa-
+tients with stage II colon cancer  ( 31 ) , and the receipt of less than 
+adequate staging and treatment procedures for many women 
+ diagnosed with ovarian cancer  ( 35 ) . Results of some studies also 
+point to possible disparities in the receipt of cancer care with 
+ respect to patient age at diagnosis (for breast, colorectal, and 
+ovarian cancers)  ( 30 , 31 , 35 ) , race (for lung and prostate cancers) 
+ ( 33 , 34 , 36 , 51 ) , and type of health plan  ( 35 , 52 ) . Such studies have 
+begun to identify some of the factors that might be associated 
+with appropriate processes and outcomes of care, such as pro-
+vider procedure volume and referral practices. 
+ It is important to note that substantial geographic variations in 
+treatment patterns exist. Mandelblatt et al.  ( 117 ) used Medicare 
+data to examine initial treatment patterns for 3851 women diag-
+nosed with early-stage breast cancer from 1992 through 1994 and 
+found that surgeons’ treatment propensity varied widely by  region 
+of the United States. For example, surgeons who practice in the 
+Northeast region were most likely to perform breast-conserving 
+surgery, and those in the South Atlantic region were most likely 
+to perform mastectomy. These results underscore the need for 
+more data on geographic patterns of cancer care, as well as the 
+importance of developing a comprehensive and integrated na-
+tional system of cancer registries. 
+ Limitations and Issues in Interpretation 
+ Several limitations in the data and methods may have inﬂ u-
+enced interpretations of the ﬁ ndings in this report. First, changes 
+in  detection practices due to the introduction or increased use 
+of screening and diagnostic techniques may cause a temporal 
+ increase in observed incidence rates thus altering the stage distri-
+bution of the disease. Observed survival may be inﬂ uenced 
+through improved disease detection by advancing the time of di-
+agnosis without prolonging life (lead-time bias), by the preferen-
+tial  detection of slower growing tumors (length – time bias), or by 
+the detection of indolent cases that never would have been diag-
+nosed in the  absence of such diagnostic techniques (overdiagno-
+sis bias)  ( 102 , 103 , 118 – 120 ) . Improvements in staging techniques 
+or changes in staging systems can inﬂ uence the stage-speciﬁ c 
+biologic characteristics of tumors over time, making it difﬁ cult to 
+interpret trends in cancer incidence. 
+ Second, routinely collected statistics on cancer occurrence are 
+commonly reported according to the ﬁ ve major racial and ethnic 
+populations — white, black, API, AI/AN, and Hispanic/Latino. 
+However, such broad racial and ethnic groupings may mask wide 
+variations in the cancer burden by country of origin among, for 
+example, APIs [whose countries of origin include China, Japan, 
+Philippines, and Vietnam  ( 121 , 122 ) ] and Hispanic/Latino popu-
+lations [whose countries of origin include Spain, Cuba, Puerto 
+Rico, and Mexico  ( 123 – 125 ) ], or by cultural characteristics that 
+deﬁ ne other high-risk populations, such as white residents of 
+ Appalachia  ( 126 ) , recent immigrants, black populations in the 
+rural South, and members of the more than 560 American Indian 
+tribes that are recognized by the states and by the U.S. federal 
+government  ( 127 – 130 ) . Rates for populations other than white 
+and black may be affected by problems in ascertaining race/ 
+ethnicity information from basic records (e.g., medical records, 
+death certiﬁ cates, and census  reports)  ( 110 , 131 ) . 
+ Third, we used two different statistical methods to describe 
+cancer trends. A single linear regression model was used to 
+ describe trends for a ﬁ xed time period (i.e., from 1992 through 
+2002) to allow comparisons of age-adjusted cancer incidence and 
+death rates by race/ethnicity, sex, and cancer site. In addition, we 
+used the joinpoint method to characterize long-term patterns (i.e., 
+from 1975 through 2002) for all races and ethnicities combined. 
+In some circumstances, these approaches may yield different 
+ results that may lead to different, even conﬂ icting, interpretations 
+due to the nature of the trends summarized by the two models. 
+Of the two methods, the joinpoint method is more ﬂ exible and 
+accurate in identifying the years in which there were statistically 
+signiﬁ cant changes in trends. 
+ Fourth, many treatment studies have limitations that include 
+challenges in constructing measures of appropriate or guideline 
+treatment, in generalizing to the general population, and in com-
+pensating for missing data. These studies have established the 
+need for continued, more timely, and more detailed watchfulness. 
+However, such studies are of limited use when there is no con-
+sensus regarding appropriate treatment. For some cancers, there 
+are a range of acceptable treatments, and patterns-of-care studies 
+can simply describe the care provided. The use of published 
+guidelines to construct a measure of recommended therapy 
+ provides a conceptual basis for statistically analyzing community 
+practice patterns collected from medical record data, but these 
+recommendations may not always reﬂ ect the most appropriate 
+management strategy for individual patients because of the het-
+erogeneity of patient characteristics, even among patients with a 
+particular stage of disease at diagnosis  ( 87 ) . 
+ The treatment studies described here rely primarily on cancer 
+registry data from the SEER geographic regions. The ability to 
+monitor treatment and extrapolate ﬁ ndings to the U.S. population 
+depends on the representativeness of the speciﬁ c data resources 
+used in the study  ( 132 , 133 ) . Most of the treatment studies we 
+discussed were conducted in selected SEER areas of the United 
+States that include large urban populations and the major racial/
+ethnic groups. However, because these treatment studies rely on 
+data obtained from medical and/or administrative records, the 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1423
+important elements of individual patient preferences, physician 
+practice styles, health care delivery settings and other organiza-
+tional factors  ( 83 ) are often absent. 
+ Data from cancer registries are used for studies of cancer 
+treatment because they are population-based and contain accu-
+rate and detailed information on the date of diagnosis and tumor 
+stage at diagnosis. The collection of data on the ﬁ rst course of 
+treatment is required by both SEER and NPCR. Treatment data, 
+especially data on adjuvant chemotherapy and hormonal therapy 
+given outside the hospital setting, require extra resources to col-
+lect. Studies of registry data augmented by physicians’ ofﬁ ce 
+ records or by linkage with databases such as SEER-Medicare 
+have found that information for treatments given in the hospital 
+(i.e., surgery and radiation therapy) is reasonably complete (i.e., 
+greater than 90%), whereas information for adjuvant chemother-
+apy or hormonal therapy, which may be given outside the hos-
+pital setting, is somewhat less complete, perhaps about 75%, 
+although this percentage may vary by type of cancer  ( 134 – 141 ) . 
+The NPCR  ( 141 ) and NCI POC/QOC studies address these limi-
+tations, in part by re-abstracting the additional information for 
+existing cancer registry cases. However, because such reabstrac-
+tion studies are expensive, they are not conducted for all cancers 
+or for all years of diagnosis. 
+ Other approaches can be used to augment treatment data that 
+are routinely available in cancer registries, such as the linkage of 
+SEER to the Medicare database  ( 26 , 142 ) . Linking SEER data to 
+Medicare records has made it possible to construct an ongoing 
+database that can provide a longitudinal history of all Medicare-
+covered services and procedures. Unlike POC/QOC data, the 
+SEER-Medicare database lacks representative data for individu-
+als younger than 65 years; information on many oral medica-
+tions, such as tamoxifen; or detailed data for individuals enrolled 
+in HMOs. Data from individual, large, non-proﬁ t HMOs in SEER 
+areas can help to ﬁ ll these gaps, but these data may not be repre-
+sentative of the broader universe of managed care delivery sys-
+tems  ( 143 – 145 ) . 
+ Finally, because of the limitations described, many of the con-
+clusions of treatment studies have to be considered as indicative 
+rather than deﬁ nitive, pending future studies designed to acquire 
+more detailed data on disease severity, the presence of comorbid 
+conditions, and patient and physician preferences and attitudes. 
+Nevertheless, these treatment studies deﬁ ne our baseline level of 
+ “ watchful concern ”  ( 115 ) and point the way for future  directions. 
+ Future Directions 
+ The goal of basic and clinical research, cancer surveillance, 
+and cancer control is to reduce suffering and death due to cancer. 
+Supporting scientiﬁ c research to increase knowledge about the 
+molecular and cellular mechanisms that affect the initiation and 
+progression of cancer can help lead to the development of more 
+effective treatment modalities. The Institute of Medicine’s 1999 
+report on the cancer care system  ( 8 ) recommended efforts to 
+ ensure that evidence-based interventions for treating cancers are 
+available and accessible to all cancer patients. The dissemination 
+and adoption of research ﬁ ndings and evidence-based treatment 
+guidelines can be facilitated through effective partnerships among 
+clinical, public health, and cancer surveillance entities. 
+ Monitoring the dissemination of advances in cancer treatment 
+throughout the U.S. population is an important aspect of ensuring 
+uniformly high standards of care. Population-based cancer regis-
+tries provide a foundation for such monitoring and can be used 
+to provide important, albeit incomplete, information about the 
+ effectiveness, adoption, and dissemination of cancer treatment. 
+The cancer registry-based data and related resources that we have 
+reviewed in this article raise substantial concerns that the treat-
+ments cancer patients receive may depend on nonclinical factors, 
+such as the race, socioeconomic status, age, and geographic loca-
+tion of the patient. The published cancer treatment studies are not 
+deﬁ nitive, though, because they do not adjust for factors that 
+could affect the study results (e.g., the within-stage severity of 
+patients’ disease, patients’ unmeasured morbidity, and how phy-
+sicians and patients weigh the potential beneﬁ ts and harm of 
+various cancer treatments). 
+ Using population-based cancer registries and related resources 
+for the surveillance of cancer treatment is therefore complex. In 
+recent years, national, multisite studies of newly diagnosed can-
+cer  patients — including the Prostate Cancer Outcomes Study and 
+the study conducted by the Cancer Care Outcomes Research and 
+Surveillance Consortium  ( 146 ) — have collected additional data 
+for patients sampled from cancer registries. These studies col-
+lected more complete information on the entire spectrum of 
+ cancer treatment, including the cancer patient’s decision-making 
+process, satisfaction with the treatment given, and quality of life 
+subsequent to treatment, as well as characteristics of the physi-
+cians providing treatment and referral to specialists. Whenever 
+possible, these cohorts have been linked to population-based 
+ registries and/or to large, organized health care delivery systems 
+(e.g., Medicare and the Veterans Administration Health Care 
+ system) or large HMOs. A similar enterprise — the National Initia-
+tive on Cancer Care Quality — is now being conducted under the 
+auspices of the American Society of Clinical Oncology  ( 147 ) . 
+ The resources developed and studies conducted to date have 
+established a solid foundation on which similar efforts could be 
+built in the future. The cancer surveillance community, including 
+the ACS, the CDC’s National Center for Health Statistics and 
+NPCR, the NCI’s SEER Program, and the NAACCR  ( 114 ) , have 
+built strong partnerships with each other, as well as with entities 
+such as the AHRQ, the Centers for Medicare and Medicaid 
+ Services, and others. These partnerships enable the sharing of 
+complementary data collected in each system to contribute to our 
+knowledge about the cancer burden in the United States. Placing 
+a high priority on continuing this effort, as well as on develop-
+ments in medical informatics and the electronic medical record, 
+and the adoption of standardized messaging and vocabularies 
+ ( 148 ) , may facilitate monitoring of the translation of basic sci-
+ence and clinical advances to cancer prevention and detection 
+and uniformly high-quality care in all areas and populations of 
+the United States. 
+ REFERENCES 
+  (1)  Wingo PA, Ries LA, Rosenberg HM, Miller DS, Edwards BK. Cancer 
+incidence and mortality, 1973 – 1995: a report card for the U.S. Cancer 
+ 1998 ; 82 : 1197 – 207. 
+  (2)  Wingo PA, Ries LA, Giovino GA, Miller DS, Rosenberg HM, Shopland 
+DR, et al. Annual report to the nation on the status of cancer, 1973 – 1996, 
+with a special section on lung cancer and tobacco smoking.  J Natl Cancer 
+Inst  1999 ; 91 : 675 – 90. 
+  (3)  Ries LA, Wingo PA, Miller DS, Howe HL, Weir HK, Rosenberg HM, et al. 
+The annual report to the nation on the status of cancer, 1973 – 1997, with a 
+special section on colorectal cancer.  Cancer  2000 ; 88 : 2398 – 424. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1424 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+  (4)  Howe HL, Wingo PA, Thun MJ, Ries LA, Rosenberg HM, Feigal EG, 
+et al. Annual report to the nation on the status of cancer ( 1973 through 
+1998), featuring cancers with recent increasing trends.  J Natl Cancer Inst 
+ 2001 ; 93 : 824 – 42. 
+  (5)  Edwards BK, Howe HL, Ries LA, Thun MJ, Rosenberg HM, Yancik R, et al. 
+Annual report to the nation on the status of cancer, 1973 – 1999, featuring im-
+plications of age and aging on U.S. cancer burden.  Cancer  2002 ; 94 : 2766 – 92. 
+  (6)  Weir HK, Thun MJ, Hankey BF, Ries LA, Howe HL, Wingo PA, et al. An-
+nual report to the nation on the status of cancer, 1975 – 2000, featuring the 
+uses of surveillance data for cancer prevention and control.  J Natl Cancer 
+Inst  2003 ; 95 : 1276 – 99. 
+  (7)  Jemal A, Clegg LX, Ward E, Ries LA, Wu X, Jamison PM, et al. Annual 
+report to the nation on the status of cancer, 1975 – 2001, with a special fea-
+ture regarding survival.  Cancer  2004 ; 101 : 3 – 27. 
+  (8)  National Cancer Policy Board, Institute of Medicine, Commission on Life 
+Sciences. Ensuring quality cancer care. Washington, DC: National Acad-
+emy Press;  1999 . 
+  (9)  National Cancer Policy Board, Institute of Medicine, Commission on Life 
+Sciences, National Research Council. Enhancing data systems to improve 
+the quality of cancer care. Washington, DC: National Academy Press;  2000 . 
+  (10)  Hankey BF, Ries LA, Edwards BK. The Surveillance, Epidemiology, and 
+End Results Program: a national resource.  Cancer Epidemiol Biomarkers 
+Prev  1999 ; 8 : 1117 – 21. 
+  (11)  National Cancer Institute. About SEER.  2005 . Available at:  http://seer. 
+cancer.gov/about/ . [Last accessed: July 23, 2005]. 
+  (12)  Hutton MD, Simpson LD, Miller DS, Weir HK, McDavid K, Hall HI. 
+Progress toward nationwide cancer surveillance: an evaluation of the 
+National Program of Cancer Registries, 1994 – 1999.  J Registry Manage 
+ 2001 ; 28 : 113 – 20. 
+  (13)  National Center for Chronic Disease Prevention and Health Promotion. 
+National Program of Cancer Registries-Cancer Surveillance System. June 
+20,  2005 . Available at:  http://www.cdc.gov/cancer/npcr/css.htm . [Last 
+ accessed: July 26, 2005]. 
+  (14)  Howe HL, Edwards BK, Young JL, Shen T, West DW, Hutton M, et al. 
+A vision for cancer incidence surveillance in the United States.  Cancer 
+Causes Control  2003 ; 14 : 663 – 72. 
+  (15)  Fritz A, Percy C, Jack A, Shanmugaratnam K, Sobin L, Parkin DM, 
+et al. International classiﬁ cation of diseases of oncology.3rd ed. Geneva 
+( Switzerland): World Health Organization;  2000 . 
+  (16)  Percy C, Van Holten V, Muir C, eds. International classiﬁ cation of diseases 
+for oncology.2nd ed. Geneva (Switzerland): World Health Organization; 
+ 1990 . 
+  (17)  Ries LAG, Eisner MP, Kosary CL, Hankey BF, Miller BA, Clegg L, et al. 
+SEER cancer statistics review, 1975 – 2002. 2005. Available at:  http://seer.
+cancer.gov/csr/ 1975_2002/. [Last accessed: August 1, 2005]. 
+  (18)  National Center for Health Statistics. Vital statistics of the United States, 
+1950 – 1999. Vol II. Mortality, parts A and B. Washington, DC: Public 
+Health Service; 2001. 
+  (19)  US Department of Health Education and Welfare and National Center 
+for Health Statistics. Manual of the international statistical classiﬁ cation 
+of diseases, injuries, and causes of death, adapted for use in the United 
+States.8th rev.1693. Washington, DC: Public Health Service;  1967 . 
+  (20)  World Health Organization. Manual of the international statistical classiﬁ -
+cation of diseases, injuries, and causes of death, based on the recommenda-
+tions of the ninth revision conference,  1975 . Geneva (Switzerland): World 
+Health Organization; 1977. 
+  (21)  World Health Organization. International statistical classiﬁ cation of dis-
+eases and related health problems. 10th rev. Geneva (Switzerland): World 
+Health Organization;  1992 . 
+  (22)  Anderson RN, Minino AM, Hoyert DL, Rosenberg HM. Comparability 
+of cause of death between ICD-9 and ICD-10: preliminary estimates.  Natl 
+Vital Stat Rep  2001 ; 49 : 1 – 32. 
+  (23)  Surveillance Epidemiology and End Results (SEER) Program. SEER 
+1975 – 2002 public use data. SEER*Stat database: incidence-SEER9 regs, 
+Nov 2004 Sub (1973 – 2001) <18 age groups>. Bethesda (MD): National 
+Cancer Institute, DCCPS, Surveillance Research Program, Cancer Statis-
+tics Branch; 2005. 
+  (24)  National Cancer Institute and Surveillance Epidemiology and End Results 
+(SEER) Program. SEER registries.  2005 . Available at:  http://seer.cancer.
+gov/registries/ . [Last accessed: June 16, 2005]. 
+  (25)  National Cancer Institute and Division of Cancer Control and Population 
+Sciences. Patterns of care/quality of care studies.  2005 . Available at:  http://
+healthservices.cancer.gov/surveys/poc/ . [Last accessed: March 2005]. 
+  (26)  Potosky AL, Riley GF, Lubitz JD, Mentnech RM, Kessler LG. Potential 
+for cancer related health services research using a linked Medicare-tumor 
+registry database.  Med Care  1993 ; 31 : 732 – 48. 
+  (27)  Warren JL, Harlan LC, Fahey A, Virnig BA, Freeman JL, Klabunde CN, 
+et al. Utility of SEER-Medicare-linked data.  Med Care  2002 ;40(8 Suppl):
+IV-55 – 61. 
+  (28)  National Cancer Institute and Division of Cancer Control and Population 
+Sciences. SEER-Medicare linked database.  2005 . Available at:  http://
+healthservices.cancer.gov/seermedicare/ . [Last accessed: March 2005]. 
+  (29)  Surveillance Epidemiology and End Results (SEER) Program. SEER 
+ registries — common terms.  2005 . Available at:  http://seer.cancer.gov/ 
+registries/terms.html . [Last accessed: July 23, 2005]. 
+  (30)  Harlan LC, Abrams J, Warren JL, Clegg L, Stevens J, Ballard-Barbash R. 
+Adjuvant therapy for breast cancer: practice patterns of community physi-
+cians.  J Clin Oncol  2002 ; 20 : 1809 – 17. 
+  (31)  Potosky AL, Harlan LC, Kaplan RS, Johnson KA, Lynch CF. Age, sex, 
+and racial differences in the use of standard adjuvant therapy for colorectal 
+cancer.  J Clin Oncol  2002 ; 20 : 1192 – 202. 
+  (32)  Schrag D, Cramer LD, Bach PB, Begg CB. Age and adjuvant chemother apy 
+use after surgery for stage III colon cancer.  J Natl Cancer Inst  2001 ; 93 : 850 – 7. 
+  (33)  Potosky AL, Saxman S, Wallace RB, Lynch CF. Population variations 
+in the initial treatment of non-small-cell lung cancer.  J Clin Oncol  2004 ; 
+ 22 : 3261 – 8. 
+  (34)  Earle CC, Venditti LN, Neumann PJ, Gelber RD, Weinstein MC, 
+ Potosky AL, et al. Who gets chemotherapy for metastatic lung cancer? 
+ Chest  2000 ; 117 : 1239 – 46. 
+  (35)  Harlan LC, Clegg LX, Trimble EL. Trends in surgery and chemotherapy 
+for women diagnosed with ovarian cancer in the United States.  J Clin 
+ Oncol  2003 ; 21 : 3488 – 94. 
+  (36)  Klabunde CN, Potosky AL, Harlan LC, Kramer BS. Trends and black/
+white differences in treatment for nonmetastatic prostate cancer.  Med Care 
+ 1998 ; 36 : 1337 – 48. 
+  (37)  Zeliadt SB, Potosky AL, Etzioni R, Ramsey SD, Penson DF. Racial dispar-
+ity in primary and adjuvant treatment for nonmetastatic prostate cancer: 
+SEER-Medicare trends 1991 to 1999.  Urology  2004 ; 64 : 1171 – 6. 
+  (38)  US Census Bureau. County population estimates — characteristics. Sep-
+tember 29,  2004 . Available at:  http://www.census.gov/popest/counties/
+asrh/ . [Last accessed: March 2005]. 
+  (39)  Day JC. Population projections of the United States by age, sex, race, and 
+Hispanic origin: 1995 to 2050. U.S. Bureau of the Census, Current Popu-
+lation Reports, P25 – 1130. Washington, DC: U.S. Government Printing 
+ Ofﬁ ce;  1996 . 
+  (40)  Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. 
+population. Healthy People 2010 statistical notes: no. 20. Hyattsville 
+(MD): National Center for Health Statistics;  2001 . 
+  (41)  National Cancer Institute.  2000 US standard population vs. standard mil-
+lion. 2001. Available at:  http://seer.cancer.gov/stdpopulations/single_age.
+html . [Last accessed: March 2005]. 
+  (42)  Anderson RN, Rosenberg HM. Age standardization of death rates: 
+ implementation of the year 2000 standard.  Natl Vital Stat Rep  1998 ; 47 : 
+1 – 16. 
+  (43)  Fay MP, Feuer EJ. Conﬁ dence intervals for directly standardized rates: 
+a method based on the gamma distribution.  Stat Med  1997 ; 16 : 791 – 801. 
+  (44)  Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for joinpoint 
+regression with applications to cancer rates.  Stat Med  2000 ; 19 : 335 – 51. 
+  (45)  Clegg LX, Feuer EJ, Midthune DN, Fay MP, Hankey BF. Impact of report-
+ing delay and reporting error on cancer incidence rates and trends.  J Natl 
+Cancer Inst  2002 ; 94 : 1537 – 45. 
+  (46)  National Institutes of Health. NIH consensus statements.  2005 . Avail-
+able at:  http://consensus.nih.gov/previousstatements.htm . [Last accessed: 
+ August 2005]. 
+  (47)  Knopf KB, Warren JL, Feuer EJ, Brown ML. Bowel surveillance patterns 
+after a diagnosis of colorectal cancer in Medicare beneﬁ ciaries.  Gastroin-
+test Endosc  2001 ; 54 : 563 – 71. 
+  (48)  Schrag D, Hsieh LJ, Rabbani F, Bach PB, Herr H, Begg CB. Adherence to 
+surveillance among patients with superﬁ cial bladder cancer.  J Natl Cancer 
+Inst  2003 ; 95 : 588 – 97. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1425
+  (49)  NIH Consensus Development Panel. NIH consensus conference. Treat-
+ment of early-stage breast cancer.  JAMA  1991 ; 265 : 391 – 5. 
+  (50)  NIH Consensus Development Panel. National Institutes of Health Consen-
+sus Development Conference statement: adjuvant chemotherapy for breast 
+cancer. September 9 – 11, 1985.  CA Cancer J Clin  1986 ; 36 : 42 – 7. 
+  (51)  Ballard-Barbash R, Potosky AL, Harlan LC, Nayﬁ eld SG, Kessler LG. 
+ Factors associated with surgical and radiation therapy for early stage breast 
+cancer in older women.  J Natl Cancer Inst  1996 ; 88 : 716 – 26. 
+  (52)  Riley GF, Potosky AL, Klabunde CN, Warren JL, Ballard-Barbash R. 
+Stage at diagnosis and treatment patterns among older women with breast 
+cancer: an HMO and fee-for-service comparison.  JAMA  1999 ; 281 : 720 – 6. 
+  (53)  National Cancer Institute. Clinical alert from the National Cancer Institute. 
+ Breast Cancer Res Treat  1988 ; 12 : 3 – 5. 
+  (54)  NIH consensus conference. Adjuvant therapy for patients with colon and 
+rectal cancer.  JAMA  1990 ; 264 : 1444 – 50. 
+  (55)  IMPACT B2 Investigators. Efﬁ cacy of adjuvant ﬂ uorouracil and folinic 
+acid in B2 colon cancer.  J Clin Oncol  1995 ; 17 : 1356 – 63. 
+  (56)  Laurie JA, Moertel CG, Fleming TR, Wieand HS, Leigh JE, Rubin J, 
+et al. Surgical adjuvant therapy of large-bowel carcinoma: an evaluation 
+of levamisole and the combination of levamisole and ﬂ uorouracil. The 
+North Central Cancer Treatment Group and the Mayo Clinic.  J Clin Oncol 
+ 1989 ; 7 : 1447 – 56. 
+  (57)  Moertel CG, Fleming TR, Macdonald JS, Haller DG, Laurie JA, 
+ Goodman PJ, et al. Levamisole and ﬂ uorouracil for adjuvant therapy of 
+resected colon carcinoma.  N Engl J Med  1990 ; 322 : 352 – 8. 
+  (58)  Neugut AI, Fleischauer AT, Sundararajan V, Mitra N, Heitjan DF, 
+ Jacobson JS, et al. Use of adjuvant chemotherapy and radiation therapy 
+for rectal cancer among the elderly: a population-based study.  J Clin Oncol 
+ 2002 ; 20 : 2643 – 50. 
+  (59)  Sundararajan V, Grann VR, Jacobson JS, Ahsan H, Neugut AI. Variations 
+in the use of adjuvant chemotherapy for node-positive colon cancer in the 
+elderly: a population-based study.  Cancer J  2001 ; 7 : 213 – 8. 
+  (60)  Sundararajan V, Mitra N, Jacobson JS, Grann VR, Heitjan DF, Neugut AI. 
+Survival associated with 5-ﬂ uorouracil-based adjuvant chemotherapy 
+among elderly patients with node-positive colon cancer.  Ann Intern Med 
+ 2002 ; 136 : 349 – 57. 
+  (61)  Schrag D, Gelfand SE, Bach PB, Guillem J, Minsky BD, Begg CB. Who 
+gets adjuvant treatment for stage II and III rectal cancer? Insight from 
+surveillance, epidemiology, and end results — Medicare.  J Clin Oncol 
+ 2001 ; 19 : 3712 – 8. 
+  (62)  Schrag D, Rifas-Shiman S, Saltz L, Bach PB, Begg CB. Adjuvant chemo-
+therapy use for Medicare beneﬁ ciaries with stage II colon cancer.  J Clin 
+Oncol  2002 ; 20 : 3999 – 4005. 
+  (63)  Schrag D, Panageas KS, Riedel E, Cramer LD, Guillem JG, Bach PB, et al. 
+Hospital and surgeon procedure volume as predictors of outcome follow-
+ing rectal cancer resection.  Ann Surg  2002 ; 236 : 583 – 92. 
+  (64)  Ayanian JZ, Zaslavsky AM, Fuchs CS, Guadagnoli E, Creech CM, Cress RD, 
+et al. Use of adjuvant chemotherapy and radiation therapy for colorectal 
+cancer in a population-based cohort.  J Clin Oncol  2003 ; 21 : 1293 – 300. 
+  (65)  American Society of Clinical Oncology. Clinical practice guidelines for 
+the treatment of unresectable non-small-cell lung cancer. Adopted on May 
+16, 1997 by the American Society of Clinical Oncology.  J Clin Oncol 
+ 1997 ; 15 : 2996 – 3018. 
+  (66)  Pﬁ ster DG, Johnson DH, Azzoli CG, Sause W, Smith TJ, Baker S Jr, et al. 
+American Society of Clinical Oncology treatment of unresectable non- small-
+cell lung cancer guideline: update 2003.  J Clin Oncol  2004 ; 22 : 330 – 53. 
+  (67)  Earle CC, Tsai JS, Gelber RD, Weinstein MC, Neumann PJ, Weeks JC. Ef-
+fectiveness of chemotherapy for advanced lung cancer in the elderly: instru-
+mental variable and propensity analysis.  J Clin Oncol  2001 ; 19 : 1064 – 70. 
+  (68)  Earle CC, Neumann PJ, Gelber RD, Weinstein MC, Weeks JC. Impact of 
+referral patterns on the use of chemotherapy for lung cancer.  J Clin Oncol 
+ 2002 ; 20 : 1786 – 92. 
+  (69)  Bach PB, Cramer LD, Warren JL, Begg CB. Racial differences in the treat-
+ment of early-stage lung cancer.  N Engl J Med  1999 ; 341 : 1198 – 205. 
+  (70)  Trimble EL. The NIH Consensus Conference on Ovarian Cancer: screen-
+ing, treatment, and follow-up.  Gynecol Oncol  1994 ;55:S1-S3. 
+  (71)  McGuire WP, Hoskins WJ, Brady MF, Kucera PR, Partridge EE, Look 
+KY, et al. Cyclophosphamide and cisplatin compared with paclitaxel and 
+cisplatin in patients with stage III and stage IV ovarian cancer.  N Engl J 
+Med  1996 ; 334 : 1 – 6. 
+  (72)  Federal Drug Administration. Approval summary for Paclitaxel.  Available 
+at: http://www.accessdata.fda.gov/scripts/cder/onctools/summary.cfm?ID=
+123. [Last accessed: August  2005 .] 
+  (73)  Sundararajan V, Hershman D, Grann VR, Jacobson JS, Neugut AI. Varia-
+tions in the use of chemotherapy for elderly patients with advanced ovarian 
+cancer: a population-based study.  J Clin Oncol  2002 ; 20 : 173 – 8. 
+  (74)  Hershman D, Fleischauer AT, Jacobson JS, Grann VR, Sundararajan V, 
+Neugut AI. Patterns and outcomes of chemotherapy for elderly patients 
+with stage II ovarian cancer: a population-based study.  Gynecol Oncol 
+ 2004 ; 92 : 293 – 9. 
+  (75)  Hershman D, Jacobson JS, McBride R, Mitra N, Sundararajan V, Grann VR, 
+et al. Effectiveness of platinum-based chemotherapy among elderly  patients 
+with advanced ovarian cancer.  Gynecol Oncol  2004 ; 94 : 540 – 9. 
+  (76)  Earle CC, Schrag D, Neville BA, Yabroff R, Topor M, Warren J. Effect of 
+surgeon specialty on outcomes for ovarian cancer.  ASCO Meeting Abstr 
+ 2004 ; 22 : 6027 . 
+  (77)  Harlan L, Brawley O, Pommerenke F, Wali P, Kramer B. Geographic, age, 
+and racial variation in the treatment of local/regional carcinoma of the 
+ prostate.  J Clin Oncol  1995 ; 13 : 93 – 100. 
+  (78)  Lu-Yao GL, Potosky AL, Albertsen PC, Wasson JH, Barry MJ, 
+ Wennberg JE. Follow-up prostate cancer treatments after radical prosta-
+tectomy: a  population-based study.  J Natl Cancer Inst  1996 ; 88 : 166 – 73. 
+  (79)  Begg CB, Riedel ER, Bach PB, Kattan MW, Schrag D, Warren JL, 
+et al. Variations in morbidity after radical prostatectomy.  N Engl J Med 
+ 2002 ; 346 : 1138 – 44. 
+  (80)  Godley PA, Schenck AP, Amamoo MA, Schoenbach VJ, Peacock S, 
+ Manning M, et al. Racial differences in mortality among Medicare 
+ recipients after treatment for localized prostate cancer.  J Natl Cancer Inst 
+ 2003 ; 95 : 1702 – 10. 
+  (81)  Shavers VL, Brown M, Klabunde CN, Potosky AL, Davis W, Moul J, et al. 
+Race/ethnicity and the intensity of medical monitoring under  ‘ watchful 
+waiting ’ for prostate cancer.  Med Care  2004 ; 42 : 239 – 50. 
+  (82)  Shavers VL, Brown ML, Potosky AL, Klabunde CN, Davis WW, Moul JW, 
+et al. Race/ethnicity and the receipt of watchful waiting for the initial 
+ management of prostate cancer.  J Gen Intern Med  2004 ; 19 : 146 – 55. 
+  (83)  Potosky AL, Harlan LC, Stanford JL, Gilliland FD, Hamilton AS, 
+Albertsen PC, et al. Prostate cancer practice patterns and quality of life: the 
+Prostate Cancer Outcomes Study.  J Natl Cancer Inst  1999 ; 91 : 1719 – 24. 
+  (84)  Potosky AL, Legler J, Albertsen PC, Stanford JL, Gilliland FD, 
+ Hamilton AS, et al. Health outcomes after prostatectomy or radiotherapy 
+for prostate cancer: results from the Prostate Cancer Outcomes Study. 
+ J Natl Cancer Inst  2000 ; 92 : 1582 – 92. 
+  (85)  Harlan LC, Potosky A, Gilliland FD, Hoffman R, Albertsen PC,  Hamilton 
+AS, et al. Factors associated with initial therapy for clinically localized 
+prostate cancer: Prostate Cancer Outcomes Study.  J Natl Cancer Inst 
+ 2001 ; 93 : 1864 – 71. 
+  (86)  Potosky AL, Knopf K, Clegg LX, Albertsen PC, Stanford JL,  Hamilton AS, 
+et al. Quality-of-life outcomes after primary androgen deprivation 
+ therapy: results from the Prostate Cancer Outcomes Study.  J Clin Oncol 
+ 2001 ; 19 : 3750 – 7. 
+  (87)  Potosky AL, Davis WW, Hoffman RM, Stanford JL, Stephenson RA, 
+ Penson DF, et al. Five-year outcomes after prostatectomy or radiotherapy 
+for prostate cancer: the Prostate Cancer Outcomes Study.  J Natl Cancer 
+Inst  2004 ; 96 : 1358 – 67. 
+  (88)  Begg CB, Cramer LD, Hoskins WJ, Brennan MF. Impact of hospital 
+volume on operative mortality for major cancer surgery.  JAMA  1998 ; 280 : 
+ 1747 – 51. 
+  (89)  Schrag D, Panageas KS, Riedel E, Hsieh L, Bach PB, Guillem JG, et al. 
+Surgeon volume compared to hospital volume as a predictor of outcome 
+following primary colon cancer resection.  J Surg Oncol  2003 ; 83 : 68 – 78. 
+  (90)  Panageas KS, Schrag D, Riedel E, Bach PB, Begg CB. The effect of clus-
+tering of outcomes on the association of procedure volume and surgical 
+outcomes.  Ann Intern Med  2003 ; 139 : 658 – 65. 
+  (91)  Meyerhardt JA, Catalano PJ, Schrag D, Ayanian JZ, Haller DG,  Mayer 
+RJ, et al. Association of hospital procedure volume and outcomes in 
+ patients with colon cancer at high risk for recurrence.  Ann Intern Med 
+ 2003 ; 139 : 649 – 57. 
+  (92)  Earle CC, Neville BA, Landrum MB, Ayanian JZ, Block SD, Weeks JC. 
+Trends in the aggressiveness of cancer care near the end of life.  J Clin 
+Oncol  2004 ; 22 : 315 – 21. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+1426 SPECIAL ARTICLE 
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005
+  (93)  Riley GF, Potosky AL, Lubitz JD, Kessler LG. Medicare payments from 
+diagnosis to death for elderly cancer patients by stage at diagnosis.  Med 
+Care  1995 ; 33 : 828 – 41. 
+  (94)  Brown ML, Riley GF, Potosky AL, Etzioni RD. Obtaining long-term dis-
+ease speciﬁ c costs of care: application to Medicare enrollees diagnosed 
+with colorectal cancer.  Med Care  1999 ; 37 : 1249 – 59. 
+  (95)  Warren JL, Brown ML, Fay MP, Schussler N, Potosky AL, Riley GF. Costs 
+of treatment for elderly women with early-stage breast cancer in fee-for-
+service settings.  J Clin Oncol  2002 ; 20 : 307 – 16. 
+  (96)  Brown ML, Riley GF, Schussler N, Etzioni R. Estimating health care costs 
+related to cancer treatment from SEER-Medicare data.  Med Care  2002 ;
+40(8 Suppl):IV-17. 
+  (97)  Thorpe KE, Howard D. Health insurance and spending among cancer 
+ patients.  Health Aff (Millwood)  2003 Jan-Jun; Suppl Web Exclusives : 
+ W3189 – 98. 
+  (98)  Taplin SH, Barlow W, Urban N, Mandelson MT, Timlin DJ, Ichikawa L, 
+et al. Stage, age, comorbidity, and direct costs of colon, prostate, and breast 
+cancer care.  J Natl Cancer Inst  1995 ; 87 : 417 – 26. 
+  (99)  Fireman BH, Quesenberry CP, Somkin CP, Jacobson AS, Baer D, West D, 
+et al. Cost of care for cancer in a health maintenance organization.  Health 
+Care Finance Rev  1997 ; 18 : 51 – 76. 
+ (100)  Barlow WE, Taplin SH, Yoshida CK, Buist DS, Seger D, Brown M. Cost 
+comparison of mastectomy versus breast-conserving therapy for early-
+stage breast cancer.  J Natl Cancer Inst  2001 ; 93 : 447 – 55. 
+ (101)  Wingo PA, Cardinez CJ, Landis SH, Greenlee RT, Ries LA, Anderson RN, 
+et al. Long-term trends in cancer mortality in the United States, 1930 –
+ 1998.  Cancer  2003 ; 97 : 3133 – 275. 
+ (102)  Etzioni R, Penson DF, Legler JM, di Tommaso D, Boer R, Gann PH, et al. 
+Overdiagnosis due to prostate-speciﬁ c antigen screening: lessons from 
+U.S. prostate cancer incidence trends.  J Natl Cancer Inst  2002 ; 94 : 981 – 90. 
+ (103)  Legler JM, Feuer EJ, Potosky AL, Merrill RM, Kramer BS. The role of 
+prostate-speciﬁ c antigen (PSA) testing patterns in the recent prostate can-
+cer incidence decline in the United States.  Cancer Causes Control  1998 ; 9 : 
+519 – 27. 
+ (104)  Devesa SS, Blot WJ, Fraumeni JF Jr. Declining lung cancer rates among 
+young men and women in the United States: a cohort analysis.  J Natl 
+ Cancer Inst  1989 ; 81 : 1568 – 71. 
+ (105)  Jemal A, Chu KC, Tarone RE. Recent trends in lung cancer mortality in the 
+United States.  J Natl Cancer Inst  2001 ; 93 : 277 – 83. 
+ (106)  Pierce JP, Lee L, Gilpin EA. Smoking initiation by adolescent girls, 
+1944 through 1988. An association with targeted advertising.  JAMA 
+ 1994 ; 271 : 608 – 11. 
+ (107)  Burns DM, Lee L, Shen LZ, Gilpin B, Tolley D, Vaughn J, et al. Ciga-
+rette smoking behavior in the United States. In: Burns DM, Garﬁ nkel L, 
+Samet JM, editors. Changes in cigarette-related disease risks and their 
+implication for prevention and control. Monograph 8, Vol 2, pp 13 – 112. 
+Bethesda (MD): Department of Health and Human Services, National 
+Cancer Institute;  1998 Report No. NIH Publ No. 97 – 4213. 
+ (108)  Jemal A, Ward E, Thun MJ. Contemporary lung cancer trends among U.S. 
+women.  Cancer Epidemiol Biomarkers Prev  2005 ; 14 : 582 – 585. 
+ (109)  Thun MJ, Henley SJ, Calle EE. Tobacco use and cancer: an epidemiologic 
+perspective for geneticists.  Oncogene  2002 ; 21 : 7307 – 25. 
+ (110)  Rosenberg HM, Maurer JD, Sorlie PD, Johnson NJ, MacDorman MF, 
+ Hoyert DL, et al. Quality of death rates by race and Hispanic origin: a 
+ summary of current research, 1999.  Vital Health Stat 2  1999 ; 128 : 1 – 13. 
+  (111)  North American Association of Central Cancer Registries I. Cancer in 
+North America: 1998 – 2002. Vol 1: Incidence. Springﬁ eld (IL): North 
+American Association of Central Cancer Registries; 2005. 
+ (112)  Carr DB, Wallin JF, Carr DA. Two new templates for epidemiology ap-
+plications: linked micromap plots and conditioned chloropleth maps.  Stat 
+Med  2000 ; 19 : 2521 – 38. 
+ (113)  National Cancer Institute, Centers for Disease Control and Prevention, 
+American Cancer Society, Substance Abuse and Mental Health Services 
+Administration (SAMHSA), Agency for Healthcare Research and Quality 
+(AHRQ). Cancer Control PLANET. Links to comprehensive cancer con-
+trol resources for public health professionals.  2005 . Available at:  http://
+cancercontrolplanet.cancer.gov . [Last accessed: February 18, 2005]. 
+ (114)  Wingo PA, Howe HL, Thun MJ, Ballard-Barbash R, Ward E, Brown ML, 
+et al. A national framework for cancer surveillance in the United States. 
+ Cancer Causes Control  2005 ; 16 : 151 – 70. 
+ (115)  Earle CC, Emanuel EJ. Patterns of care studies: creating  “ an environment 
+of watchful concern. ”  J Clin Oncol  2003 ; 21 : 4479 – 80. 
+ (116)  Donabedian A. Evaluating the quality of medical care. Milbank Mem Fund 
+Q  1996 ; 44 : 166 – 206. 
+ (117)  Mandelblatt JS, Berg CD, Meropol NJ, Edge SB, Gold K, Hwang YT, 
+et al. Measuring and predicting surgeons’ practice styles for breast cancer 
+treatment in older women.  Med Care  2001 ; 39 : 228 – 42. 
+ (118)  Ernster VL, Barclay J, Kerlikowske K, Grady D, Henderson C. Inci-
+dence of and treatment for ductal carcinoma in situ of the breast.  JAMA 
+ 1996 ; 275 : 913 – 8. 
+ (119)  Ernster VL, Ballard-Barbash R, Barlow WE, Zheng Y, Weaver DL, 
+ Cutter G, et al. Detection of ductal carcinoma in situ in women undergoing 
+screening mammography.  J Natl Cancer Inst  2002 ; 94 : 1546 – 54. 
+ (120)  Smith-Bindman R, Kerlikowske K. Is there a downside to elderly  women 
+undergoing screening mammography?  J Natl Cancer Inst  1998 ; 90 : 
+ 1322 – 3. 
+ (121)  Miller BA, Kolonel LN, Bernstein L, Young JL Jr, Swanson GM, West D, 
+et al. Racial/ethnic patterns of cancer in the United States 1988 – 1992. 
+Bethesda (MD): National Cancer Institute; 1996 Report No. NIH Publ No. 
+96 – 4104. 
+ (122)  Deapen D, Liu L, Perkins C, Bernstein L, Ross RK. Rapidly rising breast 
+cancer incidence rates among Asian-American women.  Int J Cancer 
+ 2002 ; 99 : 747 – 50. 
+ (123)  Howe HL, Carozza S, O’Malley C, et al (eds). Cancer in US Hispanics/ 
+Latinos, 1995 – 2000. Springﬁ eld, IL. North American Association of 
+ Central Cancer Registries, December  2003 . 
+ (124)  Trapido EJ, Burciaga VR, Obeso JL, Strickman-Stein N, Rotger A, Perez-
+Stable EJ. Epidemiology of cancer among Hispanics in the United States. 
+ J Natl Cancer Inst Monogr  1995 ; 17 – 28. 
+ (125)  Wolfgang PE, Semeiks PA, Burnett WS. Cancer incidence in New York 
+City Hispanics, 1982 to 1985.  Ethn Dis  1991 ; 1 : 263 – 72. 
+ (126)  Friedell GH, Ross FE, Tucker TC, Cook CC, III, Doering DL, Hilgers R, 
+et al. Cervical cancer in Kentucky.  J Ky Med Assoc  2000 ; 98 : 398 – 405. 
+ (127)  Espey DK, Paisano RE, Cobb N. Cancer mortality among American Indi-
+ans and Alaska Natives: regional differences, 1994 – 1998. Rockville, MD: 
+Indian Health Service; 2003. 
+ (128)  Bureau of Indian Affairs. Bureau of Indian Affairs.  2004 . Available at: 
+ http://www.doi.gov/bureau-indian-affairs.html . [Last accessed: November 
+2004]. 
+ (129)  Haynes MA, Smedley BD. The unequal burden of cancer: an assessment 
+of NIH research and programs for ethnic minorities and the medically 
+ underserved. Washington, DC: National Academy Press;  1999 . 
+ (130)  Sugarman JR, Holliday M, Ross A, Castorina J, Hui Y. Improving 
+ American Indian cancer data in the Washington State Cancer Registry 
+using linkages with the Indian Health Service and Tribal Records.  Cancer 
+ 1996 ; 78 : 1564 – 8. 
+ (131)  Poe GS, Powell-Griner E, McLaughlin JK, Placek PJ, Thompson GB, 
+ Robinson K. Comparability of the death certiﬁ cate and the 1986 National 
+Mortality Followback Survey.  Vital Health Stat 2  1993 ; 118 : 1 – 53. 
+ (132)  Frey CM, McMillen MM, Cowen CS, Horm JW, Kessler LG. Represen-
+tativeness of the Surveillance, Epidemiology and End Results Program 
+data: recent trends in cancer mortality rates.  J Natl Cancer Inst  2002 ; 94 : 
+ 872 – 7. 
+ (133)  Pickle LW, Feuer EJ, Edwards BK. U.S. predicted cancer incidence, 
+1999: complete maps by county and state from spatial projection models. 
+ Bethesda (MD): National Cancer Institute; 2003. NCI Cancer Surveillance 
+Monograph Series No. 5.03 – 5435. 
+ (134)  Wingo PA, Luke E, O’Brien K, Brogan D, Chen VW, Wu XC, et al. Population-
+ based patterns of care studies: collaboration among state cancer  registries, 
+the American College of Surgeons, and the American Cancer Society. 
+ J Registry Manage  2001 ; 28 : 5 – 17. 
+ (135)  Cress RD, Zaslavsky AM, West DW, Wolf RE, Felter MC, Ayanian JZ. 
+Completeness of information on adjuvant therapies for colorectal cancer in 
+population-based cancer registries.  Med Care  2003 ; 41 : 1003 – 5. 
+ (136)  Du X, Freeman JL, Warren JL, Nattinger AB, Zhang D, Goodwin JS. 
+ Accuracy and completeness of Medicare claims data for surgical treatment 
+of breast cancer.  Med Care  2000 ; 38 : 719 – 27. 
+ (137)  Malin JL, Kahn KL, Adams J, Kwan L, Laouri M, Ganz PA. Validity of 
+cancer registry data for measuring the quality of breast cancer care.  J Natl 
+Cancer Inst  2002 ; 94 : 835 – 44. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+
+Journal of the National Cancer Institute, Vol. 97, No. 19, October 5, 2005 
+SPECIAL ARTICLE 1427
+ (138)  Virnig BA, Warren JL, Cooper GS, Klabunde CN, Schussler N, Freeman J. 
+Studying radiation therapy using SEER-Medicare-linked data.  Med Care 
+ 2002 ;40(8 Suppl):IV-54. 
+ (139)  Cooper GS, Virnig B, Klabunde CN, Schussler N, Freeman J, Warren JL. 
+Use of SEER-Medicare data for measuring cancer surgery.  Med Care 
+ 2002 ;40(8 Suppl):IV-8. 
+ (140)  Warren JL, Harlan LC. Can cancer registry data be used to study cancer 
+treatment?  Med Care  2003 ; 41 : 1003 – 5. 
+ (141)  National Center for Chronic Disease Prevention and Health Promotion. 
+Breast, colon, and prostate cancer data quality and treatment patterns of 
+care study. January 20,  2005 . Available at:  http://www.cdc.gov/cancer/
+npcr/pocstudy.htm . [Last accessed: February 18, 2005]. 
+ (142)  Warren JL, Klabunde CN, Schrag D, Bach PB, Riley GF. Overview of the 
+SEER-Medicare data: content, research applications, and generalizability 
+to the United States elderly population.  Med Care  2002 ;40(8 Suppl):IV-
+3 – 18. 
+ (143)  Potosky AL, Merrill RM, Riley GF, Taplin SH, Barlow W, Fireman BH, 
+et al. Breast cancer survival and treatment in health maintenance organiza-
+tion and fee-for-service settings.  J Natl Cancer Inst  1997 ; 89 : 1683 – 91. 
+ (144)  Merrill RM, Brown ML, Potosky AL, Riley G, Taplin SH, Barlow W, 
+et al. Survival and treatment for colorectal cancer Medicare patients in 
+two group/staff health maintenance organizations and the fee-for-service 
+ setting.  Med Care Res Rev  1999 ; 56 : 177 – 96. 
+ (145)  Potosky AL, Merrill RM, Riley GF, Taplin SH, Barlow W, Fireman BH, 
+et al. Prostate cancer treatment and ten-year survival among group/staff 
+HMO and fee-for-service Medicare patients.  Health Serv Res  1999 ; 34 : 
+ 525 – 46. 
+ (146)  Ayanian JZ, Chrischilles EA, Fletcher RH, Fouad MN, Harrington DP, 
+Kahn KL, et al. Understanding cancer treatment and outcomes: the Can-
+cer Care Outcomes Research and Surveillance Consortium.  J Clin Oncol 
+ 2004 ; 22 : 2992 – 6. 
+ (147)  Schneider EC, Epstein AM, Malin JL, Kahn KL, Emanuel EJ. Developing 
+a system to assess the quality of cancer care: ASCO’s national initiative on 
+cancer care quality.  J Clin Oncol  2004 ; 22 : 2985 – 91. 
+ (148)  US Department of Health and Human Services. National health informa-
+tion infrastructure  2004 . Cornerstones for electronic healthcare, July 20 – 
+July 23, 2004. Washington, DC. Available at:  http://aspe.hhs.gov/sp/nhii/
+NHIIconference-04.html . [Last accessed: February 11, 2005]. 
+ NOTES 
+ The authors thank James Cucinelli, Dave Eyerman, Danielle Harkins, and 
+Marty Krapcho of Information Management Services, Inc., for assisting in sta-
+tistical analyses and graphics; Yongping Hao of the American Cancer Society for 
+assisting with graphics, Kerry Kemp for editorial assistance, and Terri Harshman 
+of the National Cancer Institute for assistance with manuscript preparation. 
+Funding to pay the Open Access publication charges for this article was 
+ provided by the National Cancer Institute.
+ Manuscript received March 17, 2005; revised July 29, 2005; accepted 
+August 4, 2005. 
+Downloaded from https://academic.oup.com/jnci/article/97/19/1407/2521384 by Pusan Nat'l Univ Medicine & Life Science Lib (INACTIVE) user on 09 August 2026
+

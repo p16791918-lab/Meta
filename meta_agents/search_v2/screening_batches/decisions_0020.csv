@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1160,exclude,Not relevant to the research question/topic,cardiac remodeling incident cancer MESA
+1161,exclude,Not relevant to the research question/topic,pegfilgrastim FN prophylaxis
+1162,exclude,Not relevant to the research question/topic,Medicaid expansion stage Ohio
+1163,exclude,Not relevant to the research question/topic,BAP1 mesothelioma genomics
+1164,exclude,Not relevant to the research question/topic,Medicaid expansion MIR disparities
+1165,exclude,Not relevant to the research question/topic,See Test Treat Mississippi program
+1166,exclude,Not relevant to the research question/topic,STAR tamoxifen/raloxifene enrollment
+1167,exclude,Not relevant to the research question/topic,breast complaints biopsies age
+1168,exclude,Not relevant to the research question/topic,self-reporting toxicities feasibility
+1169,exclude,Not relevant to the research question/topic,cytokine gene depression caregivers
+1170,exclude,Not relevant to the research question/topic,cancer outcomes Medicaid Ohio
+1171,exclude,Not relevant to the research question/topic,multi-omics young Black/White TCGA
+1172,exclude,Not a US population-based/registry study,HR status ethnic groups London UK
+1173,exclude,Not a US population-based/registry study,cancer incidence Bermuda vs US
+1174,exclude,Not relevant to the research question/topic,OT/PT older adults RCT
+1175,exclude,Not a US population-based/registry study,AYA incidence/survival Korea
+1176,exclude,Not relevant to the research question/topic,PAM50 subtype distribution age/race
+1177,exclude,Not relevant to the research question/topic,BC lung metastasis SEER survival
+1178,exclude,Not relevant to the research question/topic,lung cancer lifetime risk estimates
+1179,exclude,Not a US population-based/registry study,germline non-BRCA Mongoloid Russia
+1180,exclude,Not a US population-based/registry study,computational discrimination Korean
+1181,exclude,Not relevant to the research question/topic,mammographic density Chinese immigrants
+1182,exclude,Not relevant to the research question/topic,TC toxicity Asian/Caucasian
+1183,exclude,Not relevant to the research question/topic,lymphedema ILR Indiana
+1184,exclude,Not relevant to the research question/topic,methylation Korean vs Caucasian
+1185,exclude,Not a US population-based/registry study,BC working group Asia epidemiology
+1186,exclude,Not a US population-based/registry study,Addis Ababa incidence Ethiopia
+1187,exclude,Not a US population-based/registry study,stroma reproductive Ghana
+1188,exclude,Not relevant to the research question/topic,Filipino/Caucasian survival comparison
+1189,exclude,Not a US population-based/registry study,CPM Asian Singapore
+1190,exclude,Not relevant to the research question/topic,germline PV AAPI genetics
+1191,exclude,Not a US population-based/registry study,South Asian awareness Bangladesh/India
+1192,exclude,Not relevant to the research question/topic,chemo toxicity Hispanic/Latinx Indiana
+1193,exclude,Not a US population-based/registry study,cancer incidence trends Uruguay
+1194,exclude,Not relevant to the research question/topic,durvalumab TNBC race trial
+1195,exclude,Not a US population-based/registry study,second-gen immigrants Sweden
+1196,include,,Cancer Statistics 2012 US incidence by race
+1197,exclude,Not relevant to the research question/topic,neighborhood/ancestry mortality survivors
+1198,exclude,Not relevant to the research question/topic,ILD metastatic BC HER2
+1199,exclude,Not a US population-based/registry study,global burden FBC SDI
+1200,exclude,Not a US population-based/registry study,palbociclib Asian-Pacific perspective
+1201,exclude,Not relevant to the research question/topic,apocrine BC SEER subtype
+1202,exclude,Not a US population-based/registry study,cancer mortality Japan
+1203,exclude,Not relevant to the research question/topic,edotides Nigeria drug discovery
+1204,exclude,Not a US population-based/registry study,cancer profiles China vs USA
+1205,exclude,Not a US population-based/registry study,breast density menopause Korean
+1206,exclude,Not relevant to the research question/topic,antiestrogen DCIS California
+1207,exclude,Not a US population-based/registry study,incidence/mortality SE Asia
+1208,exclude,Not relevant to the research question/topic,CBPR Pueblo of Zuni materials
+1209,exclude,Not relevant to the research question/topic,late endocrine diseases AYA survivors CA
+1210,exclude,Not a US population-based/registry study,HPV breast cancer Chinese
+1211,exclude,Not a US population-based/registry study,cancer mortality projections young adults
+1212,exclude,Not relevant to the research question/topic,liver metastasis SEER survival
+1213,exclude,Not relevant to the research question/topic,risk factors late screening mammography
+1214,exclude,Not a US population-based/registry study,global cancer incidence simulation
+1215,exclude,Not a US population-based/registry study,global GLOBOCAN elderly
+1216,exclude,Not relevant to the research question/topic,BC stage/survival prior implants
+1217,exclude,Not relevant to the research question/topic,HSD3B1 genotype ER+ outcomes
+1218,exclude,Not relevant to the research question/topic,selenium BC review
+1219,exclude,Not a US population-based/registry study,cancer mortality under 50 countries

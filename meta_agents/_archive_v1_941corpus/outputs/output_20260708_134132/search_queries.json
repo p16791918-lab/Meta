@@ -1,0 +1,26 @@
+{
+  "mode": "multi",
+  "pubmed": "(\"Skin Neoplasms\"[Mesh] OR melanoma[tiab] OR \"basal cell carcinoma\"[tiab] OR \"squamous cell carcinoma\"[tiab] OR \"non-melanoma skin cancer\"[tiab] OR \"nonmelanoma skin cancer\"[tiab] OR \"keratinocyte carcinoma\"[tiab] OR \"cutaneous malignancy\"[tiab]) AND (\"Racial Groups\"[Mesh] OR \"Ethnicity\"[Mesh] OR \"Minority Groups\"[Mesh] OR \"Health Status Disparities\"[Mesh] OR \"Healthcare Disparities\"[Mesh] OR race[tiab] OR racial[tiab] OR ethnic[tiab] OR ethnicity[tiab] OR \"racial disparities\"[tiab] OR minority[tiab]) AND (\"Incidence\"[Mesh] OR \"Prevalence\"[Mesh] OR incidence[tiab] OR prevalence[tiab] OR \"incidence rate\"[tiab] OR epidemiology[sh]) AND (2000:2025[dp]) AND English[lang] AND humans[MeSH] NOT (review[pt] OR \"case reports\"[pt] OR comment[pt] OR editorial[pt] OR letter[pt])",
+  "cochrane": "#1 MeSH descriptor: [Racial Groups] explode all trees\n#2 MeSH descriptor: [Ethnic Groups] explode all trees\n#3 MeSH descriptor: [African Americans] explode all trees\n#4 MeSH descriptor: [Hispanic or Latino] explode all trees\n#5 MeSH descriptor: [Asian Americans] explode all trees\n#6 MeSH descriptor: [American Indian or Alaska Native] explode all trees\n#7 MeSH descriptor: [White People] explode all trees\n#8 (race OR racial OR ethnicity OR ethnic OR \"African American*\" OR Black OR Hispanic OR Latino OR Latina OR Latinx OR Asian OR \"Pacific Islander*\" OR \"American Indian*\" OR \"Alaska Native*\" OR \"Native American*\" OR Indigenous OR \"non-Hispanic White*\" OR Caucasian OR minorit*):ti,ab,kw\n#9 {OR #1-#8}\n#10 MeSH descriptor: [Skin Neoplasms] explode all trees\n#11 MeSH descriptor: [Melanoma] explode all trees\n#12 MeSH descriptor: [Carcinoma, Basal Cell] explode all trees\n#13 MeSH descriptor: [Carcinoma, Squamous Cell] explode all trees\n#14 (\"skin cancer*\" OR \"skin neoplasm*\" OR \"cutaneous melanoma*\" OR melanoma* OR \"basal cell carcinoma*\" OR \"squamous cell carcinoma*\" OR \"non-melanoma skin cancer*\" OR \"nonmelanoma skin cancer*\" OR NMSC OR \"keratinocyte carcinoma*\"):ti,ab,kw\n#15 {OR #10-#14}\n#16 (incidence OR prevalence OR \"incidence rate*\" OR epidemiology OR SEER OR \"population-based\" OR registry):ti,ab,kw\n#17 (cohort OR \"cross-sectional\" OR \"registry-based\" OR observational):ti,ab,kw\n#18 #9 AND #15 AND #16 AND #17 with Cochrane Library publication date Between Jan 2000 and Dec 2025 in Cochrane Reviews, CENTRAL and other Cochrane sources",
+  "embase": "1. exp \"ethnic or racial aspects\"/ or exp \"race\"/ or exp \"African American\"/ or exp \"Hispanic\"/ or exp \"Asian American\"/ or exp \"American Indian\"/\n2. (race or racial or ethnicity or ethnic or \"African American*\" or Black or Hispanic or Latino or Latina or Latinx or Asian or \"Pacific Islander*\" or \"American Indian*\" or \"Alaska Native*\" or \"Native American*\" or Indigenous or \"non-Hispanic White*\" or Caucasian or minorit*).mp.\n3. 1 or 2\n4. exp \"skin cancer\"/ or exp melanoma/ or exp \"basal cell carcinoma\"/ or exp \"squamous cell carcinoma\"/\n5. (\"skin cancer*\" or \"skin neoplasm*\" or \"cutaneous melanoma*\" or melanoma* or \"basal cell carcinoma*\" or \"squamous cell carcinoma*\" or \"non-melanoma skin cancer*\" or \"nonmelanoma skin cancer*\" or NMSC or \"keratinocyte carcinoma*\").mp.\n6. 4 or 5\n7. exp incidence/ or exp prevalence/\n8. (incidence or prevalence or \"incidence rate*\" or epidemiology or SEER or \"population-based\" or registry).mp.\n9. 7 or 8\n10. exp cohort analysis/ or exp cross-sectional study/ or exp \"observational study\"/ or exp registry/\n11. (cohort or \"cross-sectional\" or \"registry-based\" or observational).mp.\n12. 10 or 11\n13. 3 and 6 and 9 and 12\n14. limit 13 to (human and english language and yr=\"2000-2025\")",
+  "mesh_terms": [
+    "Racial Groups[Mesh]",
+    "Ethnic Groups[Mesh]",
+    "Health Status Disparities[Mesh]",
+    "Healthcare Disparities[Mesh]",
+    "African Americans[Mesh]",
+    "Hispanic or Latino[Mesh]",
+    "Asian Americans[Mesh]",
+    "American Indian or Alaska Native[Mesh]",
+    "Racial Groups[Mesh]",
+    "White People[Mesh]",
+    "Skin Neoplasms[Mesh]",
+    "Melanoma[Mesh]",
+    "Carcinoma, Basal Cell[Mesh]",
+    "Carcinoma, Squamous Cell[Mesh]",
+    "Incidence[Mesh]",
+    "Prevalence[Mesh]",
+    "SEER Program[Mesh]"
+  ],
+  "total_records": 335
+}

@@ -1,0 +1,332 @@
+record_id=141 pmid=34508608 doi=10.1093/jnci/djab186 pmcid=PMC8826530
+TITLE: Decreasing Incidence of Estrogen Receptor-Negative Breast Cancer in the United States: Trends by Race and Region
+
+In recent years, the incidence of estrogen receptor (ER)-positive breast cancers has been increasing, while the incidence of ER-negative breast cancers has been decreasing in 13 US registries of the Surveillance, Epidemiology, and End Results (SEER) Program among women of all age groups (1). Furthermore , ER-positive rates are higher in Northern and Midwestern regions of the United States, whereas ER-negative rates tend to be higher in the Southeast (2). It remains unclear if these patterns hold true when race or ethnicity is considered.
+Historically, non-Hispanic White (NHW) women have had the highest overall incidence rates of breast cancer in the United States, followed by non-Hispanic Black (NHB) women, and Hispanic White (HW) women (3,4). NHB women experience the highest rates of ER-negative or triple-negative breast cancer compared with the other races, and these more aggressive subtypes are often diagnosed at younger ages and later stages (5,6). However, it is not well understood why this racial disparity exists.
+Here, we use novel multi-level age-period-cohort (APC) models (7,8) to determine how incidence patterns of ER-negative breast cancer among NHW, NHB, and HW women vary across different regions of the United States, represented by 17 SEER registries. Our models allow us to produce stable estimates of mean rates and age-adjusted trends (so-called net drifts) for each combination of registry, race or ethnic group, and age group, taking into account the limited numbers of women in some strata.
+Methods
+Data
+Single-year invasive breast cancer counts and population data (woman-years at risk) were collected from the 12 SEER registries from 1992 to 2016 (Connecticut, Detroit, Atlanta, rural Georgia, San Francisco-Oakland, San Jose-Monterey, Hawaii, Iowa, Los Angeles, New Mexico, Seattle-Puget Sound, and Utah) as well as the remaining 5 registries (California, Kentucky, Louisiana, New Jersey, and greater Georgia) from 2000 to 2016 (9,10), for a total of 17 registries. For each registry, incident invasive breast cancer counts were collected by ER status (positive, negative, and unknown or borderline) and by race or ethnicity (ie, NHW, NHB, and HW) among women 30 through 84 years old. The restriction to these 3 racial or ethnic groups was a function of sample size given that analyses were performed by ER status, age, and registry as described below.
+Overall, 10.4%, 12.3%, and 11.4% of case patients were missing ER status for NHW, NHB, and HW women, respectively (Supplementary Table 1, available online). We imputed ER status when it was “unknown” or “borderline” using established, validated methods (1,11,12). Briefly, cases missing ER status were assigned to positive and negative status according to the proportion of confirmed ER positive or negative cases; imputation was completed separately for each race or ethnicity and registry by single year of age and single calendar year (1).
+Statistical Analysis
+Data analysis was performed separately for each of the 3 racial or ethnic groups and 4 age groups (30-39 years, 40-49 years, 50-69 years, 70-84 years). In each of these analyses, we included data from all 17 SEER registries. We used the novel Bayesian hierarchical APC models described in Chernyavskiy et al. (7,8). These models extend traditional APC models (13-15) by including registry-specific random intercepts to allow mean incidence rates, compared with the SEER average, to vary between registries. The models also included random slopes to allow for registry-specific longitudinal age trends and age-adjusted annual percent changes per year (net drifts). The random-effects approach allows us to “borrow information” across registries, thereby stabilizing model estimates from registries with relatively few breast cancer cases and woman-years. This type of random effects–based stabilization is especially important given our fine-scale temporal unit of analysis (1 year) and granular stratification by both ER status and race or ethnicity within SEER registry. All models were estimated in a Bayesian setting using R 3.4 (16) via the brms package (17). Satisfactory convergence and goodness-of-fit were established using widely accepted criteria (18,19). Goodness-of-fit within registries and overall, across all 17 registries was determined following the well-established visual posterior predictive checks (19,20) implemented using the bayesplot R package. We determined that our models generally fit well with no discernable systematic lack of fit. More details on our statistical models are presented in Supplementary Methods (available online).
+To ascertain the presence of statistically significant disparities among relative risk and net drift estimates within each SEER registry, we applied a 95% Spherical Error Probable (21,22) to the respective Markov chain Monte Carlo samples using the shotGroups R package (23). The Spherical Error Probable uses a 3-dimensional multivariable normal distribution to compute a common radius for 95% coverage within each registry. Because APC models for the 3 racial or ethnic groups were estimated independently and the posterior distributions are approximately Gaussian, our estimates lend themselves well to this approach. Because a separate analysis is performed in each of the 17 registries, we applied a Bonferroni correction to our desired alpha level of .05.
+Results
+SEER Breast Cancer Cases and Population
+After imputation of unknown ER status, the numbers of ER-negative cases (total woman-years) for NHW, NHB, and HW women were 144 457 (311 698 653), 38 330 (55 525 680), and 24 471 (73 699 964), respectively, in 17 SEER Registries (1992-2016 for 12 registries; 2000-2016 for 5 registries). Case counts by ER status and woman-years are provided in Table 1 (see Supplementary Table 1, available online for case counts by observed ER status [positive, negative, and unknown]).
+Table 1.
+Breast cancer case counts and woman-years for NHW, NHB, and HW women in the 17 SEER registriesa
+Registry
+NHW women
+NHB women
+HW women
+ER-positive case counts
+ER-negative case counts
+Total case counts
+Woman-yearsb
+ER-positive case counts
+ER-negative case counts
+Total case counts
+Woman-yearsb
+ER-positive case counts
+ER-negative case counts
+Total case counts
+Woman-yearsb
+San Francisco-Oakland SMSA—1992+
+39 039
+7515
+46 554
+16 768 478
+4296
+2025
+6321
+2 923 535
+4826
+1378
+6204
+4 149 117
+Connecticut—1992+
+47 419
+11 159
+58 578
+21 655 680
+2834
+1601
+4435
+2 301 033
+2482
+826
+3308
+1 940 769
+Detroit (metropolitan)—1992+
+41 937
+10 586
+52 523
+21 204 260
+9919
+5562
+15 481
+7 271 971
+780
+295
+1075
+617 569
+Hawaii—1992+
+4509
+1034
+5543
+2 206 023
+85
+70
+155
+114 211
+378
+138
+516
+208 362
+Iowa—1992+
+39 613
+10 145
+49 758
+20 498 405
+411
+265
+676
+381 891
+306
+135
+441
+425 025
+New Mexico—1992+
+14 505
+3246
+17 751
+6 995 343
+215
+134
+349
+206 762
+6310
+1891
+8201
+4 962 993
+Seattle (Puget Sound)—1992+
+55 515
+11 062
+66 577
+25 556 299
+1476
+658
+2134
+1 170 777
+1548
+407
+1955
+1 183 086
+Utah—1992+
+19 665
+4800
+24 465
+12 553 209
+72
+38
+110
+88 195
+1091
+342
+1433
+1 107 049
+Atlanta (metropolitan)—1992+
+22 387
+5253
+27 640
+11 482 462
+10 055
+4928
+14 983
+8 083 887
+990
+317
+1307
+1 145 959
+San Jose-Monterey—1992+
+19 650
+3941
+23 591
+8 622 156
+489
+237
+726
+397 683
+3736
+1193
+4929
+3 491 819
+Los Angeles—1992+
+57 795
+12 384
+70 179
+24 740 199
+9982
+4752
+14 734
+6 804 048
+21 661
+7338
+28 999
+23 292 042
+Rural Georgia—1992+
+1019
+351
+1370
+545 932
+384
+306
+690
+372 603
+8
+4
+12
+9061
+California excluding SF/SJM/LA—2000+
+122 134
+24 453
+146 587
+54 046 455
+5946
+2810
+8756
+4 269 613
+25 361
+7773
+33 134
+23 825 446
+Kentucky—2000+
+36 383
+9392
+45 775
+19 772 811
+2142
+1127
+3269
+1 515 826
+171
+63
+234
+288 469
+Louisiana—2000+
+26 495
+6276
+32 771
+14 164  037
+9262
+5008
+14 270
+6 546 578
+575
+217
+792
+552 236
+New Jersey—2000+
+68 852
+13 904
+82 756
+30 209, 983
+8474
+4092
+12 566
+5 990 231
+6659
+1868
+8527
+5 533 605
+Greater Georgia—2000+
+38 326
+8956
+47 282
+20 676 921
+9316
+4717
+14 033
+7 086 836
+830
+286
+1116
+967 357
+Total
+655 243
+144 457
+799 700
+311 698 653
+75 358
+38 330
+113 688
+55 525 680
+77 712
+24 471
+102 183
+73 699 964
+aER counts are corrected. ER = estrogen receptor; HW = Hispanic White; NHB = non-Hispanic Black; NHW = non-Hispanic White; SEER = Surveillance, Epidemiology, and End Results; SF/SJM/LA = San Francisco/San Jose-Monterrey/Los Angeles; SMSA = Standard Metropolitan Statistical Area.
+bWoman-years at risk for ER-positive and ER-negative cancers were obtained from the SEER 17 Registries Database.
+Incidence Rates for ER-Negative Breast Cancer
+Across all age groups, ER-negative incidence rates were highest for NHB women, followed by NHW and then HW women, although there was overlap between estimates for the latter 2 ethnicities (Figure 1). Incidence rates among NHW and HW women appeared similar for women aged 30-39 years and 40-49 years, with greater differences in the 2 older age groups.
+Figure 1.
+Fitted incidence rates of estrogen receptor-negative breast cancer among non-Hispanic Black (triangles), non-Hispanic White (squares), and Hispanic White (circles) women by age group (30-39 years, 40-49 years, 50-69 years, and 70-84 years) for all Surveillance, Epidemiology, and End Results Program registries combined (1992-2016). Posterior medians with 95% credible intervals are shown.
+Age-adjusted ER-negative breast cancer incidence decreased over time in each age group and racial or ethnic group, with the steepest downward trends for 40- to 49-year-olds at −3.3%/y (95% credible interval [CrI] = −3.7%, −2.9%), −2.8%/y (95% CrI = −3.5%, −2.2%), and −3.5%/y (95% CrI = –4.4%, –2.7%) for NHW, NHB, and HW women, respectively (Table 2). In the oldest age group, more stable rates were observed, with net drifts of –1.7%/y (95% CrI = −2.1%, −1.4%), −1.2%/y (95% CrI = −2.4%, −0.1%), and −2.0%/y (95% CrI = −3.1%, −0.8%) for NHW, NHB, and HW women, respectively (Table 2).
+Table 2.
+Net drifts for ER-negative breast cancer incidence for the “typical” SEER registry (where the random effects equal to 0) by race or ethnicity and age group
+Racial or ethnic group
+Median age-adjusted annual % change (95% credible intervals)
+30–39 y
+40–49 y
+50–69 y
+70–84 y
+Non-Hispanic White
+−1.7 (−2.1, −1.3)
+−3.3 (−3.7, −2.9)
+−2.9 (−3.2, −2.5)
+−1.7 (−2.1, −1.4)
+Non-Hispanic Black
+−2.5 (−3.2, −1.8)
+−2.8 (−3.5, −2.2)
+−1.6 (−2.2, −1.1)
+−1.2 (−2.4, −0.1)
+Hispanic White
+−1.8 (−2.5, −1.0)
+−3.5 (−4.4, −2.7)
+−3.3 (−4.2, −2.6)
+−2.0 (−3.1, −0.8)
+aER = estrogen receptor; SEER = Surveillance, Epidemiology, and End Results Program.
+Regional and Racial or Ethnic Disparities in ER-Negative Incidence Rates and Age-Adjusted Trends
+To facilitate interpretation, estimated mean rates within each registry for each racial or ethnic and age group were converted to relative risks with respect to the SEER average (relative risk = 1.0) for that same racial or ethnic and age group (Figure 2; Supplementary Table 2, available online). Additionally, we present estimates of registry-specific net drifts, which measure the age-adjusted percent change over time for each racial or ethnic and age group within each registry (Figure 3; Supplementary Table 3, available online).
+Figure 2.
+Risk of estrogen receptor-negative breast cancer incidence by age group (30-39 years, 40-49 years, 50-69 years, and 70-84 years), race or ethnicity, and Surveillance, Epidemiology, and End Results Program (SEER) registry. For each panel, estimates are shown relative to the “typical” (median) SEER registry—within race or ethnicity and age group. Posterior medians with 95% credible intervals are shown. GA = Georgia; SF = San Francisco; SJ = San Jose.
+Figure 3.
+Net drifts (model-based estimates of annual percent change in age-adjusted rates) for estrogen receptor-negative breast cancer incidence by age group (30-39 years, 40-49 years, 50-69 years, and 70-84 years), race or ethnicity, and Surveillance, Epidemiology, and End Results Program registry. Posterior medians with 95% credible intervals are shown. GA = Georgia; SF = San Francisco; SJ = San Jose.
+Important heterogeneity in ER-negative incidence trends was revealed on examination of registry-specific rates. Relative to women of the same race or ethnicity, early onset (aged 30-39 years) incidence relative risk was elevated (ie, statistically significantly >1.00) for NHW women in Connecticut and NHB women in Louisiana (Figure 2; Supplementary Table 2, available online). Additionally, incidence relative risk was elevated for women aged 40-49 years for NHW women in Connecticut, NHB women in Kentucky and Louisiana, and HW women in Connecticut. Incidence relative risk in the heavily screened (aged 50-69) group, relative to women of the same race or ethnicity, was elevated for NHW women in Detroit Metro and Kentucky, NHB women in Detroit Metro and Louisiana, and HW women in Connecticut, Hawaii, and Seattle. Incidence relative risk in the late-onset (aged 70-84 years) group, relative to women of the same race or ethnicity, was elevated for NHB women in Connecticut and Kentucky. Conversely, incidence relative risks were lower for NHW women aged 30-39 years, 40-49 years, and 50-69 years in New Mexico, Seattle, San Francisco-Oakland, San Jose-Monterey, and Utah; NHB women aged 70-84 years in greater Georgia, Los Angeles, and Louisiana; and HW women aged 50-84 years in California, Los Angeles, New Mexico, and San Francisco-Oakland.
+As is reflected by the between-registry SD estimates for relative risk (Supplementary Table 4, available online), spatial heterogeneity (represented by the SEER registries) for NHB and HW women was greatest in the oldest age group at 16.1% (95% CrI = 9.5%, 25.1%) and 25.3% (95% CrI = 14.6%, 41.4%), respectively. For NHW women, spatial heterogeneity was greatest in the 40-49 year age group at 11.3% (95% CrI = 7.3%, 17.7%). Furthermore, greater between-registry and racial or ethnic heterogeneity was observed for the incidence relative risk than in the net drifts (Supplementary Table 4, available online). In general, statistically significant heterogeneity in ER-negative incidence relative risk by race or ethnicity was observed within the majority of SEER registries and age groups (Supplementary Table 5, available online). The relative risk estimates were statistically significantly different (alpha = .05) among the 3 ethnic groups in 62 of 68 years instances (17 registries × 4 age groups), even after a Bonferroni correction (Supplementary Table 5, available online). As for net drift estimates, only 12 of 68 instances were statistically significantly different, with 10 of these differences occurring in the 50- to 69-year age group as detailed further below.
+Tests for heterogeneity in net drifts for ER-negative breast cancer incidence by race and ethnicity within each SEER registry and age group revealed that racial and ethnic differences in net drifts were especially apparent in the oldest age groups (50-69 years and 70-84 years). In the oldest age group (70-84 years), ER-negative rates for NHB women were estimated to be increasing (ie, age-adjusted annual percent change statistically significantly >0) in Los Angeles compared with decreasing rates in NHW and HW women in Los Angeles over time (Figure 3; Supplementary Table 5, available online). Among NHB 70- to 84-year-olds in the other registries, rates were stable (not statistically significantly increasing or decreasing) (Figure 3; Supplementary Table 5, available online). Incidence rates were also stable over time (ie, net drift near 0) for HW women in the oldest age group (70-84 years) in greater Georgia, Hawaii, Iowa, Louisiana, New Mexico, rural Georgia, and San Francisco-Oakland.
+Among 50- to 69-year olds, statistically significant heterogeneity was observed for 10 (Atlanta, California, Connecticut, Detroit, greater Georgia, Los Angeles, Louisiana, New Jersey, San Francisco-Oakland, Seattle) of the 17 registries (Supplementary Table 5, available online), with incidence in NHB women generally decreasing at a slower rate compared with NHW and HW women (Figure 3). For example, in registries where NHB women in the 2 oldest age groups (50-84 years) had essentially stable incidence rates over time (eg, greater Georgia, Los Angeles, Louisiana), NHW and HW women generally experienced similarly steep decreases in age-adjusted incidence rates (Figure 3). A notable exception to this pattern was the stable incidence rate among 50- to 69-year-old HW women in Los Angeles over time.
+Incidence rates were statistically significantly decreasing (ie, net drift statistically significantly <0) from 1992 to 2016 in all other locations and for each race or ethnicity and age group (Figure 3). For 30- to 39-year-olds, no statistically significant disparities in net drifts were observed by race or ethnicity in any registry. For 40- to 49-year-olds, only Los Angeles was statistically significant, with ER-negative incidence in NHW women decreasing at a faster rate compared with NHB and HW women (Figure 3; Supplementary Table 5, available online).
+Incidence Rates for ER-Positive Breast Cancer
+For comparison, we have provided results of our analysis of breast cancer incidence trends of ER-positive breast cancer in Supplementary Figures 1-3 and Supplementary Table 6 (available online). For all age groups, NHW women had the highest incidence rates of ER-positive breast cancer, followed by NHB and HW women (Supplementary Figure 1, available online). However, for women aged 30-39 years, there was considerable overlap in estimated rates among NHW and NHB women. Incidence rates of ER-positive breast cancer were increasing relatively homogeneously in each age group across all 17 registries for NHW and NHB women (Supplementary Figure 2, Supplementary Table 6, available online), with the exception of NHB women aged 30-39 years with a net drift SD of 1.2% (95% CrI = 0.3%, 2.3%). HW women had the highest between-registry net drift heterogeneity with SDs of 1.9% (95% CrI = 0.4%, 3.9%) and 1.1% (95% CrI = 0.4%, 2.0%) for women aged 30-39 years and 70-84 years, respectively.
+Relative risk was more heterogenous between registries for each race or ethnicity compared with the net drifts, and heterogeneity increased with age for HW and NHB women (Supplementary Figure 3, Supplementary Table 6, available online). Most notably, HW women experienced the most between-registry heterogeneity at 15.5% (95% CrI = 8.0%, 27.4%) for women aged 30-39 years and 27.7% (95% CrI = 17.1%, 43.9%) for women aged 70-84 years (Supplementary Table 6, available online). HW women experienced an elevated risk across all age groups in Connecticut and Hawaii and decreased risk in Los Angeles (Supplementary Figure 3, available online). NHW women experienced an elevated risk across all age groups in Los Angeles and decreased risk in Kentucky, Louisiana, and Utah. NHB women did not experience systematic elevated or decreased risk across all age groups.
+Discussion
+To our knowledge, this is the first study to examine ER-negative breast cancer trends for all combinations of SEER registry, age group, and race or ethnicity. Our estimates illustrating decreasing ER-negative breast cancer incidence for all registries combined by age group (Figure 1) are consistent with previous reports, albeit with more apparent uncertainty because our analysis takes into account heterogeneity between the SEER registries (1,3). Importantly, our study reveals for the first time that decreasing secular trends and relative risk for ER-negative breast cancer incidence vary substantially by race and SEER registry. Furthermore, our analysis shows that relative risk and trends across age group and registry are more heterogenous in NHB and HW women compared with NHW women. Our registry-specific estimates show that the magnitude of differences between registries in relative risk and trends over time generally increase with age for NHB and HW women but decrease with age or remain constant for NHW women. The observed differences in breast cancer incidence by region may reflect variations in the prevalence of genetic ancestry and environmental risk factors reflected by different SEER registries.
+Previous studies have examined breast cancer incidence by subtype, age group, race or ethnicity, and/or geography, but never all 4 at once (1-3,24,25). The comprehensive analysis approach we undertook was made possible by our use of hierarchical APC models. We observed that NHW women experienced statistically significantly declining incidence of ER-negative breast cancer in all age groups and across all registries. Young NHB women experienced the greatest declines in incidence compared with older NHB women, who had the slowest declines or even slight increases within registries in Southeastern United States and California, specifically: Atlanta Metro, greater Georgia, Louisiana, California, and Los Angeles. Whereas HW women had the lowest ER-negative breast cancer rates in all age groups, their trends over time fell somewhere between NHW and NHB women, with younger HW women having trends similar to NHW women and older HW women having trends similar to NHB women.
+The relative risk observed in Figure 2 and Supplementary Table 3 (available online) show that there is substantial heterogeneity in mean rates by registry, which suggests that breast cancer risk factor prevalence might also vary by registry. This interpretation is consistent with recent work showing that the overall incidence of ER-negative breast cancer subtypes varies by region, with the highest incidence in the Midwestern and Southeastern regions (2), and that risk factors also vary by region, with highest rates of obesity in the South and Midwestern regions of the United States (26). Interestingly, in our study, the slowest declines in ER-negative breast cancer incidence were observed in registries in the Southeast.
+Heterogeneity in the risk of breast cancer by ER status is thought to reflect etiologic differences in genetics, reproductive, and anthropometric factors, including later age at first birth and increasing obesity rates. Later age at first birth is known to increase risk of ER-positive cancer and lower risk of ER-negative cancer, while obesity has a more complex relationship with breast cancer risk according to menopausal status, with high premenopausal BMI lowering risk of ER-positive and increasing risk of ER-negative and high postmenopausal BMI increasing risk of ER-positive and lowering risk of ER-negative breast cancer (27–30). It is well established that NHB women experience the highest rates of ER-negative or triple-negative breast cancer compared with other races and that these more aggressive tumor subtypes are often diagnosed at younger ages and later stages (5,6). The reasons for this disparity are still unknown, although factors such as differences in the prevalence of obesity and other breast cancer risk factors by race (ie, parity and breastfeeding) (31,32), environmental factors (33,34), and social determinants of health likely play a role (34,35).
+Overall, this study demonstrates that race, age, and place affect breast cancer risk. Our analysis revealed that statistically significant racial or ethnic disparities within the same registry and age group occurred much more frequently for incidence relative risk rather than net drift. Additionally, we observed that heterogeneity in the relative risks by place is greater than the heterogeneity in incidence trends over time by place (Supplementary Table 4, available online). This latter observation suggests that the prevalence of major risk factors has not changed much between 1992 and 2016 but does vary substantially across registries.
+Strengths of this study include the use of high-quality registry data from the SEER program and the examination of incidence rates and trends by race or ethnicity using sophisticated models that increase the precision of registry-specific estimates. Although secular changes in ER positivity thresholds (36,37) may have influenced the observed trends in this study, to our knowledge, no prior study has shown that ER-specific incidence trends are changing as a direct result of changes in clinical cut-offs for ER positivity. Evidence of decreasing ER-negative breast cancer incidence in the United States was described in a general community health-care plan with ER records dating back to 1980, preceding changes in diagnostic tests and widespread screening mammography (38). Limitations include that our statistical models rely on a standard set of assumptions for Bayesian multilevel models. Namely, we assume that our Markov chain Monte Carlo simulations have converged—as verified via visual inspection and the Gelman-Rubin R-hat statistic—and that the SEER registry random effects have a multivariable normal distribution. The latter can be difficult to verify, but models that allow for probability distributions other than the normal are not yet widely available. Additionally, we assume that incident case counts, conditional on all other effects and the woman-years offset, follow the negative binomial distribution, which is more flexible than the Poisson in accommodating overdispersion. This study is also relatively limited in population coverage because the 17 SEER registries cover approximately 27% of the US population, and lack the individual-level data to determine which known risk factors might be contributing to observed findings. Future work could apply our novel APC models to national survey data using data from the North American Association of Central Cancer Registries, for example, to evaluate spatial patterns at the national scale.
+ER-negative breast cancer incidence rates have been declining worldwide, and our findings along with other reports have shown that this decline is also seen for many subpopulations within the United States. Our report suggests that secular declines in ER-negative breast cancer incidence are statistically significantly variable by race, age, and SEER registry; exploring correlates of this variation in analytical studies may help to explain racial disparities in breast cancer incidence in the United States.
+Funding
+This research was supported by the Intramural Research Program of the National Cancer Institute at the National Institutes of Health.
+Notes
+Role of the funder: The funder had no role in the design of the study.
+Disclosures: All authors declare no competing financial interests.
+Author contributions: GLG and PSR were responsible for the supervision of this project. All authors were involved in the analytic conceptualization. BCDL, PC, and PSR contributed to the formal statistical analyses. All authors participated in the writing of the manuscript, interpretation of the results and critical revision of the manuscript for important intellectual content. All authors read, reviewed, edited, and approved the final manuscript.
+Data Availability
+All data used in this work is publicly available from the US Surveillance, Epidemiology, and End Results (SEER) Program of the National Cancer Institute. Specifically, this work used data from the SEER-18 registries database. These data can be downloaded using the software SEER*Stat, which may be downloaded from https://seer.cancer.gov/seerstat/.
+Supplementary Material
+djab186_Supplementary_Data
+Click here for additional data file.

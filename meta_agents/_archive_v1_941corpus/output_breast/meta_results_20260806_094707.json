@@ -1,0 +1,72 @@
+{
+  "Invasive BC Incidence \u2014 Black vs NHW": {
+    "k": 7,
+    "irr": 0.927,
+    "ci_low": 0.848,
+    "ci_high": 1.014,
+    "pi_low": 0.712,
+    "pi_high": 1.207,
+    "I2": 99.5,
+    "tau2": 0.0092,
+    "Q": 1138.06,
+    "Q_df": 6,
+    "p_Q": 1.0,
+    "p_effect": 0.083478
+  },
+  "Invasive BC Incidence \u2014 Hispanic vs NHW": {
+    "k": 5,
+    "irr": 0.678,
+    "ci_low": 0.538,
+    "ci_high": 0.854,
+    "pi_low": 0.355,
+    "pi_high": 1.296,
+    "I2": 99.7,
+    "tau2": 0.0345,
+    "Q": 1286.15,
+    "Q_df": 4,
+    "p_Q": 1.0,
+    "p_effect": 0.009545
+  },
+  "Invasive BC Incidence \u2014 Asian vs NHW": {
+    "k": 4,
+    "irr": 0.782,
+    "ci_low": 0.657,
+    "ci_high": 0.931,
+    "pi_low": 0.462,
+    "pi_high": 1.323,
+    "I2": 99.7,
+    "tau2": 0.0119,
+    "Q": 914.77,
+    "Q_df": 3,
+    "p_Q": 1.0,
+    "p_effect": 0.020567
+  },
+  "Invasive BC Incidence \u2014 AIAN vs NHW": {
+    "k": 5,
+    "irr": 0.698,
+    "ci_low": 0.586,
+    "ci_high": 0.831,
+    "pi_low": 0.427,
+    "pi_high": 1.139,
+    "I2": 99.7,
+    "tau2": 0.0197,
+    "Q": 1199.51,
+    "Q_df": 4,
+    "p_Q": 1.0,
+    "p_effect": 0.004623
+  },
+  "TNBC Incidence \u2014 Black vs NHW": {
+    "k": 2,
+    "irr": 1.997,
+    "ci_low": 1.28,
+    "ci_high": 3.116,
+    "pi_low": 1.779,
+    "pi_high": 2.242,
+    "I2": 91.9,
+    "tau2": 0.0023,
+    "Q": 12.32,
+    "Q_df": 1,
+    "p_Q": 0.0004,
+    "p_effect": 0.032189
+  }
+}

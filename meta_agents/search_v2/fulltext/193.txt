@@ -1,0 +1,1040 @@
+record_id=193 pmid=40885651 doi=10.1016/j.amjsurg.2025.116577
+SOURCE: manual-pdf
+TITLE: Breast cancer trends and outcomes among young Black Women: A national cancer database analysis
+
+Featured Article
+Breast cancer trends and outcomes among young Black Women: A national 
+cancer database analysis☆ 
+Danielle M. Thompson a,b, Kristine Kuchta a,c, Sandra Simovic a, Katharine A. Yao a,b,*
+a Department of Surgery, Endeavor Health, Evanston, IL, USA
+b Department of Surgery, University of Chicago, Chicago, IL, USA
+c Biostatistical Core, NorthShore University HealthSystem, Evanston, IL, USA
+A R T I C L E I N F O
+Keywords:
+Breast cancer
+Young women
+Racial disparities
+Incidence trends
+Cancer epidemiology
+A B S T R A C T
+Introduction: This study examined recent trends and outcomes in breast cancer among Black women under age 
+forty.
+Methods: Breast cancer incidence data from the National Cancer Database (2010–2022) were analyzed using U.S. 
+Census data population estimates.
+Results: Among 188,311 women under forty, 16.4 % were Black, compared to 11.3 % in older Black women. 
+From 2010 to 2022, incidence in young Black women rose 5.3 %, compared to 19.9 % in White, 27.7 % in 
+Hispanic, and 18.9 % in Asian/Pacific Islander women. Triple-negative breast cancer was more common in 
+young Black women (16.3 %) vs. young Non-Black women (12.1 %). Black women under forty had 50 % higher 
+odds of death (OR 1.50; 95 % CI: 1.46–1.55, p < .0001) compared to their Non-Black peers after adjusting for 
+age, tumor characteristics, and treatment.
+Conclusions: Young Black women have more aggressive breast cancers and worse overall survival than Non-Black 
+young women, though incidence has remained stable over the past decade.
+1. Introduction
+Breast cancer is the most diagnosed cancer among women world­
+wide, and studies have shown an increasing incidence of breast cancer in 
+younger women.1,2 The definition of “young women” is subject to 
+variability but many clinical trials and other studies have defined it as 
+under 40 years old.3,4 Among these younger women, Non-Hispanic 
+Black or African American women face a disproportionately high 
+burden of the disease.5,6 This group has not only been more likely to be 
+diagnosed at younger ages compared to other racial and ethnic groups, 
+but also often presents with more aggressive tumor subtypes, such as 
+triple-negative breast cancer (TNBC), which is associated with poorer 
+prognoses and limited treatment options.7 Black women, regardless of 
+age, are more likely to be diagnosed at later stages and are 41 % more 
+likely to die from the disease than White women, despite lower inci­
+dence rates.8
+A large recent study by the American Cancer Society showed that 
+breast cancer incidence has been rising steadily, particularly among 
+younger women. Between 2012 and 2021, breast cancer incidence 
+increased by 1 % annually overall, with a sharper rise of 1.4 % per year 
+in women under fifty. The study also showed that while the incidence 
+rate of Black women was 5 % lower than that of White women, their 
+mortality rate was 38 % higher. Black women were also more likely to be 
+diagnosed at later stages and with more aggressive subtypes, such as 
+triple-negative breast cancer, contributing to lower survival rates across 
+all stages. Additionally, younger Black women had the highest incidence 
+of breast cancer before age 40 compared to other racial and ethnic 
+groups.9
+Although the American Cancer Society study defined 
+“young-onset breast cancer” as occurring under age fifty, this study uses 
+a cutoff of less than forty years for this analysis in alignment with clinical 
+trials and biologically distinct subgroups. This definition is widely used 
+in breast oncology studies to capture the unique tumor biology and 
+treatment considerations associated with very early-onset disease.4,10–13
+To confirm these trends amongst Black women, we examined data 
+from the National Cancer Data Base (NCDB). This database examines 
+cancer cases and treatment from patients treated at approximately 1400 
+Commission on Cancer accredited facilities across the United States.14
+Studies have shown that the NCDB covers approximately 82 % of breast 
+☆Presented at The Society of Black Academic Surgeons, Sacramento, CA, September 2024. 
+* Corresponding author. Department of Surgery, Endeavor Health, Pritzker School of Medicine, University of Chicago, 2650 Ridge Ave, Evanston, IL, 60201, USA.
+E-mail address: kyao@northshore.org (K.A. Yao). 
+Contents lists available at ScienceDirect
+The American Journal of Surgery
+journal homepage: www.americanjournalofsurgery.com
+https://doi.org/10.1016/j.amjsurg.2025.116577
+Received 31 March 2025; Received in revised form 22 May 2025; Accepted 13 August 2025
+0002-9610/© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+The American Journal of Surgery 251 (2026) 116577
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+cancer patients across the United States.15 The primary objective of this 
+study was to analyze trends in the incidence of breast cancer in women 
+under forty years old with a specific focus on Black women. We also 
+examined tumor characteristics and overall survival for Black young 
+women compared to Non-Black young women.
+2. Methods
+2.1. Study design
+This study employed a retrospective cohort design to analyze trends 
+in breast cancer diagnoses among women under and over forty years of 
+age from 2010 to 2022 using data from the NCDB. The NCDB, a 
+nationwide clinical oncology database, collects data from more than 
+1400 Commission on Cancer-accredited facilities, representing approx­
+imately 70 % of all newly diagnosed cancers in the United States.16 This 
+database includes comprehensive information on patient demographics, 
+tumor characteristics, treatments, and outcomes.14 The study extracted 
+demographic, clinical, and pathological variables to evaluate trends in 
+breast cancer diagnoses, stratified by age, race/ethnicity, and tumor 
+subtype. To contextualize findings within the broader population, 
+United States Census data were incorporated to standardize rates and 
+calculate population-based denominators for analysis.
+2.2. Study setting
+The study was set in the United States, using the NCDB to evaluate 
+breast cancer diagnoses across a diverse cohort of women. Data collec­
+tion spanned from 2010 to 2022, encompassing urban, suburban, and 
+rural healthcare settings. The NCDB's national scope provided a 
+comprehensive overview of breast cancer trends across racial and ethnic 
+groups, offering insights into disparities and variations in diagnosis 
+patterns by age and tumor characteristics.
+2.3. Participants
+The study included women with newly diagnosed breast cancer of all 
+racial and ethnic backgrounds who were diagnosed with breast cancer 
+between 2010 and 2022. Participants included patients having a com­
+bination of treatment and diagnosis at the reporting facility. Participants 
+were stratified into two primary age groups: women under forty years 
+and women over forty years. Annual demographic data from the United 
+States Census from 2010 to 2022 were utilized to represent the total 
+population and calculate standardized incidence rates. Subgroup ana­
+lyses were conducted to explore trends among Black women, White 
+women, Hispanic women, Asian/Pacific Islander women and women 
+that identified as Non-Hispanic other.
+2.4. Data sources
+The primary data source for this study was the NCDB, which houses 
+tumor and treatment data on newly diagnosed breast cancer patients 
+treated at Commission on Cancer sites. The database includes variables 
+such as patient age, race/ethnicity, tumor size, stage at diagnosis, re­
+ceptor status (ER, PR, HER2), and treatment modalities. Additionally, 
+United States Census data were used to standardize breast cancer inci­
+dence rates and ensure population-based comparisons. United States 
+Census data were obtained from the United States Census Bureau.17
+2.5. Statistical methods
+Descriptive statistics were used to summarize baseline characteristics 
+of the study population, including age, race/ethnicity, tumor subtype, 
+and stage at diagnosis. Incidence rates were standardized using popu­
+lation data from the United States Census. Subgroup analyses examined 
+differences in diagnosis rates, tumor characteristics, and trends by age 
+group and racial/ethnic categories. Kaplan-Meier analysis and multi­
+variable Cox proportional hazards modeling were used to assess overall 
+survival between young Black women and Non-Black young women. 
+Statistical significance was determined at a threshold of p < 0.05, and all 
+analyses were conducted using statistical software.
+3. Results
+3.1. Trends in Breast Cancer Incidence in Black Women
+Table 1 summarizes the characteristics of female patients diagnosed 
+with breast cancer from 2010 to 2022, stratified by age group (<40 vs. 
+≥40 years). Among patients under forty, the mean age at diagnosis was 
+34.7 years, compared to 62.6 years in those aged forty or older. The 
+NCDB captured 188,311 breast cancer cases in women under forty years 
+and 4,007,073 cases in women forty and older. Within the younger 
+cohort, 89.1 % were aged 30–39, while 10.9 % were under thirty.
+Among breast cancer patients under age forty, 63.5 % were White, 
+16.4 % Black, 11.2 % Hispanic, 6.3 % Asian/Pacific Islander, and 2.6 % 
+Non-Hispanic Other. In contrast, among patients aged forty and older, 
+White women comprised a larger majority (77.5 %), with lower pro­
+portions of Black (11.3 %) and Hispanic (5.6 %) patients.
+Table 1 
+Patient Demographics by Age Group (<40 vs ≥40) 
+Characteristics of all women diagnosed with breast cancer from 2010 to 2022, 
+stratified by age. Includes age distribution, race/ethnicity, insurance type, fa­
+cility type, and geographic location.
+All Women <40
+All Women ≥40
+Total Patients
+188,311
+4,007,073
+Age, years [N (%)]
+< 30
+20580 (10.9)
+0 (0.0)
+30–39
+167,731 (89.1)
+0 (0.0)
+40–49
+0 (0.0)
+672524 (16.8)
+50–59
+0 (0.0)
+1002346 (25.0)
+60–69
+0 (0.0)
+1136101 (28.4)
+70–79
+0 (0.0)
+812142 (20.3)
+≥ 80
+0 (0.0)
+383960 (9.6)
+Race/Ethnicity [N (%)]
+Non-Hispanic White
+119532 (63.5)
+3104836 (77.5)
+Non-Hispanic Black or African 
+American
+30,808 (16.4)
+451145 (11.3)
+Hispanic Origin
+21162 (11.2)
+225817 (5.6)
+Non-Hispanic Asian/Pacific Islander
+11880 (6.3)
+154079 (3.9)
+Non-Hispanic Other
+4929 (2.6)
+71196 (1.8)
+Insurance [N (%)]
+Private
+141966 (75.4)
+1984330 (49.5)
+Medicare
+3690 (1.9)
+1624217 (40.5)
+Medicaid
+28115 (14.9)
+227868 (5.7)
+Other Government
+3030 (1.6)
+40347 (1.0)
+Unknown
+3994 (2.1)
+63390 (1.6)
+Uninsured
+7516 (3.9)
+66921 (1.7)
+Facility Type [N (%)]
+CCP
+10368 (5.5)
+289365 (7.2)
+CCCP
+67601 (35.9)
+1659039 (41.4)
+Academic/Research
+71662 (38.1)
+1188955 (29.7)
+INCP
+38680 (20.5)
+869714 (21.7)
+Facility Location [N (%)]
+New England
+10520 (5.6)
+255358 (6.4)
+Middle Atlantic
+29369 (15.6)
+636348 (15.9)
+South Atlantic
+41380 (21.9)
+887055 (22.1)
+East North Central
+30047 (15.9)
+681870 (17.0)
+East South Central
+11215 (5.9)
+240226 (6.0)
+West North Central
+13340 (7.1)
+292673 (7.3)
+West South Central
+18548 (9.9)
+321355 (8.0)
+Mountain
+9216 (4.9)
+184480 (4.6)
+Pacific
+24676 (13.1)
+507708 (12.7)
+aMean Age =
+34.7
+aMean Age =
+62.6
+a CCP = Community Cancer Program; CCCP = Comprehensive Community 
+Cancer Program; Academic/Research = Includes NCI-designated comprehensive 
+cancer centers; INCP = Integrated Network Cancer Program.
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+2 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Table 2 presents the annual incidence rates of breast cancer cases per 
+100,000 population among women aged 18–39 years, stratified by race/ 
+ethnicity, between 2010 and 2022. The overall incidence increased from 
+92 per 100,000 in 2010 to 107 per 100,000 in 2022, representing a 15.4 
+% relative increase among all races/ethnicities. White and Black pop­
+ulations exhibited an absolute increase of 4 cases per 100,000 and 1 case 
+per 100,000, corresponding to a 19.9 % and 5.3 % relative change, 
+respectively. Among Hispanic individuals, incidence rose from 11 per 
+100,000 in 2010 to 14 per 100,000 in 2022, reflecting the largest rela­
+tive increase of 27.7 %. Asian/Pacific Islander populations showed a rise 
+in incidence from 20 to 23 per 100,000 during the same period, a 
+relative change of 18.9 %. The Non-Hispanic Other group demonstrated 
+a slight increase from 16 to 18 per 100,000, equating to a 12.2 % relative 
+change. These findings highlight an overall upward trend in breast 
+cancer incidence rates among young women across all racial/ethnic 
+groups, with the Hispanic population experiencing the greatest relative 
+increase and Black women experiencing the lowest relative increase.
+Fig. 1 illustrates the incidence of breast cancer cases per 100,000 
+population among Black women under and over the age of forty from 
+2010 to 2022. The incidence among Black women under forty remained 
+relatively stable, ranging from 24 to 26 cases per 100,000 with a total 
+increase of 5.3 % over the study period. In contrast, women aged forty 
+and older experienced a more pronounced increase in incidence, rising 
+from 249 to 299 cases per 100,000, a relative increase of 20.2 %. The 
+disparity between the two age groups persisted across all years, with 
+breast cancer incidence consistently higher among older women.
+3.2. Tumor characteristics in young Black Women
+Table 3 compares tumor characteristics across four groups: Black 
+women under age forty, Black women aged forty and older, Non-Black 
+women under forty and Non-Black women aged forty and older. 
+Among younger Black women, 63.6 % had hormone receptor-positive 
+(ER+/PR+) tumors, slightly lower than both older Black women 
+(70.8 %) and younger Non-Black women (68.9 %). HER2 positivity was 
+more common among younger Black women (15.1 %) than among older 
+Black women (9.3 %) but comparable to younger Non-Black women 
+(16.4 %). Triple-negative breast cancer was more prevalent in younger 
+Black women (16.3 %) than in both older Black women (12.7 %) and 
+younger Non-Black women (12.1 %).
+Younger Black women had a significantly higher proportion of 
+poorly differentiated tumors (56.3 %) compared to older Black women 
+(38.9 %) and younger Non-Black women (49.8 %). Well-differentiated 
+tumors were less common in this group (25.6 %) versus 38.4 % in 
+older Black women and 31.6 % in younger Non-Black women. The 
+proportion of moderately differentiated tumors was also lowest among 
+younger Black women (10.0 %).
+Tumor size patterns revealed that younger Black women were more 
+likely to present with larger tumors. Only 29.9 % of this group had tu­
+mors ≤2 cm, compared to 47.2 % of older Black women and 36.3 % of 
+younger Non-Black women. Nearly one-fifth (18.8 %) of younger Black 
+women had tumors >5 cm, nearly double the proportion seen in older 
+Black women (10.6 %).
+Lymph node involvement was more frequent among older Black 
+women (55.0 %) than younger Black women (47.4 %) but similar to 
+younger Non-Black women (52.6 %). Stage at diagnosis also varied: 
+70.9 % of younger Black women were diagnosed at early stage (I/II), 
+compared to 80.2 % of older Black women and 77.0 % of younger Non- 
+Black women. Late-stage diagnoses (III/IV) were more common in 
+younger Black women (25.2 %) compared to the other groups.
+3.3. Facility characteristics of young Black Women
+Table 4 summarize facility type and geographic location for Black 
+women under age forty, Black women aged forty and older, and Non- 
+Black women under forty. Among Black women under forty, the most 
+common facility type was academic/research institutions (40.9 %), 
+followed by comprehensive community cancer programs (33.6 %), and 
+integrated network programs (20.9 %). This distribution was compara­
+ble among Black women aged forty and older. Non-Black women under 
+forty had a slightly lower proportion treated at academic/research 
+centers (37.5 %) and a slightly higher proportion at comprehensive 
+community cancer programs (36.4 %).
+Geographically, Black women under forty were most frequently 
+treated in the South Atlantic region (37.9 %), followed by the Middle 
+Atlantic (14.3 %) and East North Central (14.2 %) regions. This regional 
+distribution was consistent across both age groups of Black women. In 
+contrast, Non-Black women under forty were more widely distributed, 
+with higher proportions treated in New England, the Pacific, and 
+Mountain regions compared to Black women.
+3.4. Overall survival of young Black Women
+Table 5 and Fig. 2 summarize overall survival among Black women 
+under forty compared to Non-Black women under forty, adjusting for 
+clinical and treatment variables. Black women under forty had lower 
+survival, with a 5-year survival rate of 81.5 % and 10-year survival of 
+73.0 %, compared to 89.7 % and 82.7 %, respectively, for Non-Black 
+women under forty. Multivariable analysis showed that Black women 
+under forty had 50 % higher odds of death (OR 1.50; 95 % CI: 1.46–1.55, 
+p < .0001) than their Non-Black peers after adjusting for age, tumor 
+characteristics, and treatment. To provide additional context, Table 6
+includes 5 and 10 year survival estimates for Black and Non-Black 
+women both under and over age forty, highlighting the persistence of 
+survival disparities across both age and racial groups.
+Additional factors associated with improved survival included older 
+age (30–39 vs. <30 years), which may reflect increased likelihood of 
+receiving adjuvant therapies such as chemotherapy, radiation, and 
+hormone therapy, all of which were independently associated with 
+improved survival in our multivariable model. Conversely, higher co­
+morbidity scores, larger tumors, node positivity and receipt of chemo­
+therapy were associated with worse outcomes.
+Table 2 
+Breast Cancer Incidence Trends Among Women Aged 18–39, by Race/Ethnicity (2010–2022) 
+Annual incidence of breast cancer per 100,000 women aged 18–39, stratified by race/ethnicity. Rates were standardized using U.S. Census data. Hispanic women 
+experienced the highest relative increase over the study period.
+Female 18–39 Breast Cancer Cases per 100,000 Population
+Change
+% Change
+Race
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2010–2022
+2010–2022
+Non-Hispanic White
+21
+22
+22
+23
+24
+24
+26
+26
+26
+27
+26
+27
+26
+4
+19.9 %
+Non-Hispanic Black or 
+African American
+24
+23
+25
+25
+24
+26
+28
+27
+27
+29
+27
+28
+26
+1
+5.3 %
+Hispanic Origin
+11
+10
+11
+12
+12
+12
+13
+14
+14
+15
+14
+15
+14
+3
+27.7 %
+Non-Hispanic Asian/Pacific 
+Islander
+20
+20
+20
+20
+20
+21
+21
+22
+24
+25
+23
+27
+23
+4
+18.9 %
+Non-Hispanic Other
+16
+19
+17
+18
+19
+19
+20
+19
+20
+21
+17
+21
+18
+2
+12.2 %
+Total
+92
+93
+95
+98
+99
+102
+107
+108
+111
+116
+107
+118
+107
+14
+15.4 %
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+3 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+4. Discussion
+This study provides an updated analysis of breast cancer trends, 
+tumor characteristics, and cancer outcomes in Black women under forty 
+years old using a large, nationally representative dataset. We found that 
+young Black women remain disproportionately affected by triple nega­
+tive breast cancer, a more aggressive breast cancer phenotype but the 
+incidence of breast cancer among young Black women has remained 
+relatively constant over the past decade. In contrast, the incidence of 
+breast cancer among Hispanic, White and Asian/Pacific Islander young 
+women has increased by 27.7 %, 19.9 %, and 18.9 % respectively. By 
+2022, incidence rates among young Black and White women had 
+converged at 26 per 100,000, a significant shift from 2010 when young 
+Black women had the highest rates. Despite a relatively modest 5.3 % 
+increase in incidence among young Black women, their tumor biology, 
+and treatment outcomes continue to reflect deep disparities.
+Our findings are consistent with recent data from the American 
+Cancer Society, which report that breast cancer incidence is rising most 
+rapidly in younger women, particularly among Hispanic and Asian 
+American populations. The American Cancer Society study reports a 1 % 
+per year increase in the incidence of breast cancer in young women 
+under fifty years old and our study showed a 15 % increasing incidence 
+in breast cancer among young women under forty years old over the past 
+decade. The American Cancer Society also highlights that Black women 
+under forty have the highest incidence of breast cancer compared to all 
+other racial/ethnic groups, but face the highest mortality rates due to 
+later-stage diagnoses and more aggressive subtypes.9 While White 
+women continue to have the highest overall incidence, mortality rates 
+Fig. 1. Breast Cancer Incidence in Black Women <40 vs. ≥40 (2010–2022) 
+Trends in breast cancer incidence among Black women, showing a stable pattern in women under 40 and a 20.2 % increase among women aged 40 and older.
+Table 3 
+Tumor Characteristics by Age and Race 
+Tumor subtype, grade, size, lymph node involvement, and stage at diagnosis among Black women <40, Black women ≥40, Non-Black women <40, and Non-Black 
+women ≥40. P-values shown for comparisons between each pair.
+Tumor Characteristics
+Black Women <40 [N 
+(%)]
+Non-Black Women <40 [N 
+(%)]
+p-value
+Black Women ≥40 [N 
+(%)]
+Non-Black Women ≥40 [N 
+(%)]
+p-value
+Total Patients
+30,808
+157503
+<.0001
+451,145
+3,555,928
+<.0001
+Hormone Receptor Positive 
+(ERþ/PRþ)
+19603 (63.6)
+108488 (68.9)
+<.0001
+319301 (70.8)
+2843268 (80.0)
+<.0001
+HER2þ
+4658 (15.1)
+25779 (16.4)
+<.0001
+41890 (9.3)
+282873 (8.0)
+<.0001
+Triple Negative
+5020 (16.3)
+19043 (12.1)
+<.0001
+57376 (12.7)
+206195 (5.8)
+<.0001
+Tumor Grade
+<.0001
+<.0001
+Well-differentiated
+7893 (25.6)
+49722 (31.6)
+173257 (38.4)
+1765068 (49.6)
+Moderately differentiated
+3091 (10.0)
+17378 (11.0)
+61187 (13.6)
+503809 (14.2)
+Poorly differentiated
+17349 (56.3)
+78361 (49.8)
+175265 (38.9)
+974827 (27.4)
+Unknown
+2475 (8.0)
+12042 (7.7)
+41436 (9.2)
+312224 (8.8)
+Tumor Size
+<.0001
+<.0001
+≤2 cm
+9209 (29.9)
+57229 (36.3)
+213065 (47.2)
+2010257 (56.5)
+>2-5 cm
+13070 (42.4)
+64561 (41.0)
+139073 (30.8)
+958350 (27.0)
+>5 cm
+5804 (18.8)
+22712 (14.4)
+47908 (10.6)
+241073 (6.8)
+Unknown
+2725 (8.9)
+13001 (8.3)
+51099 (11.3)
+346248 (9.7)
+Lymph Node Status
+<.0001
+<.0001
+Positive
+14709 (47.7)
+82807 (52.6)
+248130 (55.0)
+2165521 (60.9)
+Negative
+12160 (39.5)
+58269 (37.0)
+109992 (24.4)
+728558 (20.5)
+Unknown
+3939 (12.8)
+16427 (10.4)
+93023 (20.6)
+661849 (18.6)
+Stage at Diagnosis
+<.0001
+<.0001
+Early stage (I/II)
+21832 (70.9)
+121224 (77.0)
+361759 (80.2)
+3040214 (85.5)
+Late stage (III/IV)
+7769 (25.2)
+29950 (19.0)
+70099 (15.5)
+372981 (10.5)
+Unknown
+1207 (3.9)
+6329 (4.0)
+19287 (4.3)
+142733 (4.0)
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+4 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+remain 38 % higher in Black women, a disparity largely attributed to 
+higher rates of triple-negative breast cancer, limited access to early 
+detection, and systemic inequities in care delivery.18–20 Likewise, our 
+study shows that young Black women have worse overall survival than 
+young Non-Black women with a 50 % worse overall mortality despite 
+adjusting for tumor characteristics and treatments. The NCDB does not 
+contain any recurrence information, so we do not know if this increased 
+mortality is related to breast cancer or not. However, given the young 
+age of these women and the lower likelihood of other life-threatening 
+conditions or co-morbidities, it is more likely these deaths were from 
+breast cancer. Nonetheless, these data are very bothersome and certainly 
+warrant further investigation.
+The persistently high prevalence of triple-negative breast cancer 
+(16.3 %) and poorly differentiated tumors (56.3 %) in young Black 
+women in our cohort underscores the unique biologic profile of breast 
+cancer in this population. Compared to both older Black women and 
+young Non-Black women, those under forty were more likely to present 
+with larger tumors, advanced stage disease, and lymph node involve­
+ment, all factors associated with poor prognosis. These findings are 
+supported by previous research demonstrating that African ancestry are 
+independently associated with more aggressive tumor phenotypes, 
+including basal-like and HER2-enriched subtypes.21,22 Our findings also 
+align with studies which have demonstrated that very young age at 
+diagnosis is independently associated with more adverse tumor biology 
+and poorer survival outcomes.23–25 These more aggressive tumor fea­
+tures also likely contribute to the worse overall survival we are seeing in 
+these young Black women.
+The sharp rise in breast cancer incidence among young Hispanic and 
+Asian women is notable and warrants further investigation. Possible 
+explanations include population changes in the United States, changes in 
+reproductive behavior, obesity, hormone exposure, acculturation- 
+related lifestyle shifts, and improved access to screening and diag­
+nostic services in these populations. However, the relative contribution 
+of these factors remains unclear. Importantly, the rise in incidence does 
+Table 4 
+Facility Type and Geographic Distribution by Age and Race 
+Distribution of facility type and geographic region of care for Black women <40, 
+Black women ≥40, and Non-Black women <40 diagnosed with breast cancer.
+Facility 
+Characteristics
+Black Women 
+<40 [N (%)]
+Black Women ≥40 
+[N (%)]
+Non-Black Women 
+<40 [N (%)]
+Facility Type [N (%)]
+CCP
+1405 (4.6)
+23872 (5.2)
+8963 (5.7)
+CCCP
+10352 (33.6)
+153806 (34.1)
+57249 (36.4)
+Academic/ 
+Research
+12587 (40.9)
+176300 (39.1)
+59075 (37.5)
+INCP
+6464 (20.9)
+97167 (21.5)
+32216 (20.5)
+Facility Location [N (%)]
+New England
+879 (2.9)
+11714 (2.6)
+9641 (6.1)
+Middle 
+Atlantic
+4405 (14.3)
+71107 (15.8)
+24964 (15.9)
+South Atlantic
+11690 (37.9)
+169058 (37.5)
+29690 (18.9)
+East North 
+Central
+4359 (14.2)
+72088 (15.9)
+25688 (16.3)
+East South 
+Central
+2810 (9.1)
+39271 (8.7)
+8405 (5.3)
+West North 
+Central
+1247 (4.1)
+15690 (3.5)
+12093 (7.7)
+West South 
+Central
+3682 (11.9)
+47217 (10.5)
+14866 (9.4)
+Mountain
+317 (1.0)
+3855 (0.85)
+8899 (5.7)
+Pacific
+1419 (4.6)
+21145 (4.7)
+23257 (14.8)
+*CCP = Community Cancer Program; CCCP = Comprehensive Community 
+Cancer Program; Academic/Research = Includes NCI-designated comprehensive 
+cancer centers; INCP = Integrated Network Cancer Program.
+Table 5 
+Multivariable Model of Overall Survival for Black vs Non-Black Women <40 
+Adjusted odds ratios for overall survival among Black vs. Non-Black women 
+<40, controlling for age, tumor biology, stage, node status, and treatment fac­
+tors. Includes 5- and 10-year survival estimates.
+OR (95 % CI)
+P-Value
+Age, 30–39 vs. < 30 years
+0.85 (0.82–0.88)
+<.0001
+Income
+$38,000 - $62,999 vs. < $38,000
+0.90 (0.87–0.93)
+<.0001
+≥ $63,000 vs. < $38,000
+0.77 (0.74–0.81)
+<.0001
+Education-High School Degree
+80–93 % vs. < 79 %
+0.96 (0.93–0.99)
+0.0280
+> 93 % vs. < 79 %
+0.88 (0.84–0.93)
+<.0001
+Distance from Facility
+11–25 vs. 0–10 miles
+1.05 (1.02–1.08)
+0.0007
+> 25 vs. 0–10 miles
+1.04 (1.00–1.07)
+0.0350
+Charlson Deyo Comorbidity Score
+1–2 vs. 0
+1.17 (1.11–1.23)
+<.0001
+>2 vs. 0
+2.03 (1.82–2.27)
+<.0001
+ER Status, Positive vs. Negative
+0.95 (0.91–0.99)
+0.0104
+PR Status, Positive vs. Negative
+0.79 (0.76–0.82)
+<.0001
+HER2 Status, Positive vs. Negative
+0.63 (0.60–0.66)
+<.0001
+Tumor Size
+1.0–1.9 vs. < 1.0 cm
+1.18 (1.11–1.25)
+<.0001
+2.0–3.9 vs. < 1.0 cm
+1.56 (1.48–1.65)
+<.0001
+≥ 4.0 vs. < 1.0 cm
+2.66 (2.51–2.81)
+<.0001
+Node Status, Positive vs. Negative
+2.90 (2.82–2.99)
+<.0001
+Radiation Therapy, Yes vs. No
+0.83 (0.81–0.85)
+<.0001
+Chemotherapy, Yes vs. No
+1.62 (1.56–1.68)
+<.0001
+Hormone Therapy, Yes vs. No
+0.73 (0.71–0.76)
+<.0001
+Immunotherapy, Yes vs. No
+0.85 (0.80–0.89)
+<.0001
+Race, Black vs. Non-Black
+1.42 (1.38–1.46)
+<.0001
+Fig. 2. Kaplan-Meier Overall Survival Curve for Black vs. Non-Black Women 
+<40 
+Overall survival from time of diagnosis, comparing Black women under age 40 
+to Non-Black women under age 40. Black women had significantly lower 5- and 
+10-year survival rates.
+Table 6 
+Five- and Ten-Tear Overall Survival Estimates Stratified by Age and Race. 
+Young Black women (<40) had the lowest 10-year survival compared to all 
+other groups. Disparities persisted across both age and racial groups.
+Black 
+Women <40
+Non-Black 
+Women <40
+Black 
+Women ≥40
+Non-Black 
+Women ≥40
+5 Year 
+Survival
+81.53 %
+89.73 %
+80.68 %
+86.49 %
+10 Year 
+Survival
+73.00 %
+82.69 %
+67.78 %
+76.89 %
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+5 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+not appear to be paralleled by a rise in mortality in these groups, sug­
+gesting more favorable tumor biology or better treatment access 
+compared to young Black women.
+Facility characteristics and access to care also contributed to dis­
+parities observed in our study. Younger women, particularly those 
+identifying as Black, were more likely to be treated at academic or 
+research institutions yet still faced higher odds of poor outcomes 
+compared to their Non-Black peers. Our survival analysis showed that 
+Black women under forty had 50 % higher adjusted odds of death 
+compared to Non-Black women under forty. This finding suggests that 
+factors beyond tumor biology such as delayed care, barriers to timely 
+treatment, financial hardship, and structural racism may contribute to 
+worse outcomes. While our analysis adjusted for area-based measures of 
+socioeconomic status including median income, education level, and 
+travel distance to the treating facility, Black women under forty 
+continued to experience significantly worse survival outcomes, sug­
+gesting that structural barriers beyond these factors may contribute to 
+persistent disparities.
+Although our study leverages the strength of the NCDB, which cap­
+tures approximately 80% of all newly diagnosed breast cancers in the 
+United States,15 several limitations should be noted. The NCDB does not 
+capture patients treated at non-CoC facilities or outside of hospital set­
+tings, and lacks granular sociodemographic variables such as income, 
+education, and social determinants of health. Additionally, the NCDB 
+does not capture patient-level data on family history or genetic testing, 
+which limits our ability to evaluate hereditary cancer syndromes or 
+BRCA-associated risk in this population. The retrospective nature of the 
+study precludes causal inference however we have shown similar find­
+ings to other studies of young Black women. Despite these limitations, 
+our findings show some significant trends and worrisome outcomes that 
+warrant future investigations to determine causes. These findings sug­
+gest actionable targets for clinical and public health interventions.
+5. Conclusion
+Our study demonstrates that while Black women remain at high risk 
+for early-onset breast cancer, the most pronounced relative increases in 
+incidence are emerging among Hispanic women under forty. These 
+findings highlight the need for targeted public health strategies, 
+improved access to early detection and treatment, and further research 
+into the biological and systemic factors contributing to these disparities. 
+Addressing these challenges are critical to reducing the burden of breast 
+cancer in young women and ensuring equitable care across all racial and 
+ethnic groups.
+CRediT authorship contribution statement
+Danielle M. Thompson: Methodology, Investigation, Writing – 
+original draft, Conceptualization, Writing – review & editing, Data 
+curation, Formal analysis. Kristine Kuchta: Methodology, Formal 
+analysis, Data curation. Sandra Simovic: Project administration. 
+Katharine A. Yao: Resources, Funding acquisition, Writing – review & 
+editing, Project administration, Conceptualization, Supervision, Inves­
+tigation, Writing – original draft, Methodology.
+Funding
+This work was supported by the National Research Service Award 
+[TL1TR002388, 2023]
+Declaration of competing interest
+The authors declare the following financial interests/personal re­
+lationships which may be considered as potential competing interests:
+Danielle Thompson, MD, reports that this work was supported by the 
+National Institutes of Health. The remaining authors declare that they 
+have no competing financial interests or personal relationships that 
+could have influenced the work reported in this paper.
+References
+1. Tang Z, Wei Y, Liang Y, et al. Breast cancer burden among young women from 1990 
+to 2021: a global, regional, and national perspective. Eur J Cancer Prev Off J Eur 
+Cancer Prev Organ ECP. 2025;34(2):130–139. https://doi.org/10.1097/ 
+CEJ.0000000000000909.
+2. Cai Y, Dai F, Ye Y, Qian J. The global burden of breast cancer among women of 
+reproductive age: a comprehensive analysis. Sci Rep. 2025;15(1):9347. https://doi. 
+org/10.1038/s41598-025-93883-9.
+3. Rosenberg SM, Zheng Y, Ruddy K, et al. Helping ourselves, helping others: the young 
+Women's breast cancer study (YWS) - a multisite prospective cohort study to 
+advance the understanding of breast cancer diagnosed in women aged 40 years and 
+younger. BMJ Open. 2024;14(6):e081157. https://doi.org/10.1136/bmjopen-2023- 
+081157.
+4. Kumar R, Abreu C, Toi M, et al. Oncobiology and treatment of breast cancer in 
+young women. Cancer Metastasis Rev. 2022;41(3):749–770. https://doi.org/ 
+10.1007/s10555-022-10034-6.
+5. Hendrick RE, Monticciolo DL, Biggs KW, Malak SF. Age distributions of breast 
+cancer diagnosis and mortality by race and ethnicity in US women. Cancer. 2021; 
+127(23):4384–4392. https://doi.org/10.1002/cncr.33846.
+6. Williams DR, Mohammed SA, Shields AE. Understanding and effectively addressing 
+breast cancer in African American women: unpacking the social context. Cancer. 
+2016;122(14):2138–2149. https://doi.org/10.1002/cncr.29935.
+7. Carey LA, Perou CM, Livasy CA, et al. Race, breast cancer subtypes, and survival in 
+the carolina breast cancer study. JAMA. 2006;295(21):2492–2502. https://doi.org/ 
+10.1001/jama.295.21.2492.
+8. Centers for Disease Control and Prevention (CDC). Vital signs: racial disparities in 
+breast cancer severity–United states, 2005-2009. MMWR Morb Mortal Wkly Rep. 
+2012;61(45):922–926.
+9. Giaquinto AN, Sung H, Newman LA, et al. Breast cancer statistics 2024. CA Cancer J 
+Clin. 2024;74(6):477–495. https://doi.org/10.3322/caac.21863.
+10. Tichy JR, Lim E, Anders CK. Breast cancer in adolescents and young adults: a review 
+with a focus on biology. J Natl Compr Cancer Netw JNCCN. 2013;11(9):1060–1069. 
+https://doi.org/10.6004/jnccn.2013.0128.
+11. Zhu JW, Charkhchi P, Adekunte S, Akbari MR. What is known about breast cancer in 
+young women? Cancers. 2023;15(6):1917. https://doi.org/10.3390/ 
+cancers15061917.
+12. Humlevik ROC, Svanøe AA, Aas T, et al. Distinct clinicopathological features and 
+treatment differences in breast cancer patients of young age. Sci Rep. 2025;15(1): 
+5655. https://doi.org/10.1038/s41598-025-90053-9.
+13. Chollet-Hinton L, Anders CK, Tse CK, et al. Breast cancer biologic and etiologic 
+heterogeneity by young age and menopausal status in the carolina breast cancer 
+study: a case-control study. Breast Cancer Res. 2016;18(1):79. https://doi.org/ 
+10.1186/s13058-016-0736-y.
+14. Bilimoria KY, Stewart AK, Winchester DP, Ko CY. The national cancer data base: a 
+powerful initiative to improve cancer care in the United States. Ann Surg Oncol. 
+2008;15(3):683–690. https://doi.org/10.1245/s10434-007-9747-3.
+15. Palis BE, Janczewski LM, Browner AE, et al. The national cancer database conforms 
+to the standardized framework for registry and data quality. Ann Surg Oncol. 2024; 
+31(9):5546–5559. https://doi.org/10.1245/s10434-024-15393-8. Epub 2024 May 
+8. PMID: 38717542; PMCID: PMC11300494.
+16. Bilimoria KY, Bentrem DJ, Stewart AK, Winchester DP, Ko CY. Comparison of 
+commission on cancer–approved and –Nonapproved hospitals in the United States: 
+implications for studies that use the national cancer data base. J Clin Oncol. 2009;27 
+(25):4177–4181. https://doi.org/10.1200/JCO.2008.21.7018.
+17. Bureau UC. Data. census.gov. https://www.census.gov/data. Accessed March 24, 
+2025.
+18. Reeder-Hayes KE, Anderson BO. Breast cancer disparities at home and abroad: a 
+review of the challenges and opportunities for system-level change. Clin Cancer Res 
+Off J Am Assoc Cancer Res. 2017;23(11):2655–2664. https://doi.org/10.1158/1078- 
+0432.CCR-16-2630.
+19. Davis S, Lian M, Colditz GA, Davis KL, Struthers J, Liu Y. Racialized economic 
+segregation, treatment and outcomes in women with triple-negative breast cancer. 
+Cancer Epidemiol Biomark Prev Publ Am Assoc Cancer Res Cosponsored Am Soc Prev 
+Oncol. 2025. https://doi.org/10.1158/1055-9965.EPI-24-1398. Published online 
+March 19.
+20. Newman LA, Kaljee LM. Health disparities and triple-negative breast cancer in 
+African American women: a review. JAMA Surg. 2017;152(5):485–493. https://doi. 
+org/10.1001/jamasurg.2017.0005.
+21. Andey T, Attah MM, Akwaaba-Reynolds NA, Cheema S, Parvin-Nejad S, Acquaah- 
+Mensah GK. Enhanced immortalization, HUWE1 mutations and other biological 
+drivers of breast invasive carcinoma in black/african American patients. Gene. 2020; 
+763S:100030. https://doi.org/10.1016/j.gene.2020.100030.
+22. Martini R, Delpe P, Chu TR, et al. African ancestry-associated gene expression 
+profiles in triple-negative breast cancer underlie altered tumor biology and clinical 
+outcome in women of African descent. Cancer Discov. 2022;12(11):2530–2551. 
+https://doi.org/10.1158/2159-8290.CD-22-0138.
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+6 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+23. Nixon AJ, Neuberg D, Hayes DF, et al. Relationship of patient age to pathologic 
+features of the tumor and prognosis for patients with stage I or II breast cancer. 
+J Clin Oncol. 1994;12(5):888–894. https://doi.org/10.1200/JCO.1994.12.5.888.
+24. Anders CK, Hsu DS, Broadwater G, et al. Young age at diagnosis correlates with 
+worse prognosis and defines a subset of breast cancers with shared patterns of gene 
+expression. J Clin Oncol Off J Am Soc Clin Oncol. 2008;26(20):3324–3330. https:// 
+doi.org/10.1200/JCO.2007.14.2471.
+25. Winchester DP, Osteen RT, Menck HR. The national cancer data base report on 
+breast carcinoma characteristics and outcome in relation to age. Cancer. 1996;78(8): 
+1838–1843. https://doi.org/10.1002/(sici)1097-0142(19961015)78:8<1838::aid- 
+cncr27>3.0.co;2-y.
+D.M. Thompson et al. 
+The American Journal of Surgery 251 (2026) 116577
+7 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+

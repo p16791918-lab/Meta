@@ -1,0 +1,1035 @@
+record_id=541 pmid=35064367 doi=10.1007/s10549-021-06492-1
+SOURCE: manual-pdf
+TITLE: Racial and socioeconomic disparities in breast cancer diagnosis and mortality in Pennsylvania
+
+Vol.:(0123456789)
+1 3
+Breast Cancer Research and Treatment (2022) 192:191–200 
+https://doi.org/10.1007/s10549-021-06492-1
+EPIDEMIOLOGY
+Racial and socioeconomic disparities in breast cancer diagnosis 
+and mortality in Pennsylvania
+Austin D. Williams1   · Meghan Buckley2 · Robin M. Ciocca1 · Jennifer L. Sabol1 · Sharon L. Larson2 · Ned Z. Carp1
+Received: 14 July 2021 / Accepted: 3 December 2021 / Published online: 22 January 2022 
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021
+Abstract
+Purpose  Many studies have demonstrated disparities in breast cancer (BC) incidence and mortality among Black women. 
+We hypothesized that in Pennsylvania (PA), a large economically diverse state, BC diagnosis and mortality would be similar 
+among races when stratified by a municipality’s median income.
+Methods  We collected the frequencies of BC diagnosis and mortality for years 2011–2015 from the Pennsylvania Cancer 
+Registry and demographics from the 2010 US Census. We analyzed BC diagnoses and mortalities after stratifying by median 
+income, municipality size, and race with univariable and multivariable logistic regression models.
+Results  In this cohort, of 5,353,875 women there were 54,038 BC diagnoses (1.01% diagnosis rate) and 9,828 BC mortalities 
+(0.18% mortality rate). Unadjusted diagnosis rate was highest among white women (1.06%) but Black women had a higher 
+age-adjusted diagnosis rate (1.06%) than white women (1.02%). Race, age and income were all significantly associated with 
+BC diagnosis, but there were no differences in BC diagnosis between white and Black women across all levels of income 
+in the multivariable model. BC mortality was highest in Black women, a difference which persisted when adjusted for age. 
+Black women 35 years and older had a higher mortality rate in all income quartiles.
+Conclusion  We found that in PA, age, race and income are all associated with BC diagnosis and mortality with noteworthy 
+disparities for Black women. Continued surveillance of differences in both breast cancer diagnosis and mortality, and targeted 
+interventions related to education, screening and treatment may help to eliminate these socioeconomic and racial disparities.
+Keywords  Breast cancer · Race · Socioeconomic factors · Mortality
+Introduction
+Breast cancer is the most common cancer affecting women 
+in the United States (US) with an estimated 276,480 new 
+cases of invasive breast cancer diagnosed in 2020 and an 
+estimated 42,170 deaths attributed to breast cancer [1]. 
+Despite being pervasive, it has become clear over the past 
+several decades that breast cancer outcomes differ not only 
+according to factors associated with biology, but also those 
+associated with demographics and socioeconomic status, 
+especially race. In a series of reports, DeSantis, et al., have 
+documented the differences over time in both incidence and 
+mortality according to race, with breast cancer historically 
+being more common among White women but a higher 
+mortality for Black women diagnosed with breast cancer 
+[2–4]. Examining the data more closely, including by US 
+geographical region, highlighted that these trends were not 
+universal. In fact, the authors reported in 2017 that there was 
+no difference in mortality by race in seven states [4].
+Geography on a macro- and micro-scale has long been 
+postulated to play a role in outcomes, and in a recent analy-
+sis of the National Cancer Database (NCDB), rural dwellers 
+were found to have a higher stage of breast cancer at diagnosis 
+whereas women who live in metro areas had a reduced overall 
+mortality [5]. Boukovalis and Sariego compared breast cancer 
+diagnosis and mortality in rural and urban areas in Pennsyl-
+vania in 1999 and 2009 [6]. They ultimately demonstrated a 
+higher population growth in urban counties, a higher propor-
+tion of the state’s breast cancer diagnoses in rural counties, 
+and a decrease state-wide in breast cancer mortality over the 
+ *	 Austin D. Williams 
+	
+adwilliams5@gmail.com
+1	
+Department of Surgery, Lankenau Medical Center, 
+Wynnewood, PA, USA
+2	
+Main Line Health Center for Population Health Research 
+at Lankenau Institute for Medical Research, Wynnewood, 
+PA, USA
+
+192
+	
+Breast Cancer Research and Treatment (2022) 192:191–200
+1 3
+decade. This mortality decrease, however, favored urban coun-
+ties, suggesting differences in detection and treatment. Addi-
+tionally, Thompson, et al., demonstrated a nationwide trend 
+toward worse breast cancer outcomes for patients in under-
+served communities, including rural white and urban Black 
+and Latina women [7].
+Regional differences in breast cancer incidence and mor-
+tality have been assessed using several different methods in 
+order to identify factors other than geographical location, spe-
+cifically socioeconomic and racial differences, that have an 
+impact on these breast cancer metrics. Moore, et al., mapped 
+hot spots for breast cancer mortality in the entire United States 
+and found that, regardless of race, counties with lower educa-
+tion, lower income and lack of insurance were associated with 
+higher breast cancer mortality [8]. Another report examining 
+Surveillance, Epidemiology and End Results (SEER) data in 
+Detroit found no difference by race in odds for unfavorable 
+breast cancer outcomes, including mortality, when adjusted for 
+socioeconomic factors [9]. Specific regional studies have dem-
+onstrated similar findings related to socioeconomic factors in 
+Chicago [10], San Francisco [11], North Carolina [12], South 
+Carolina [13], and California [14] but also highlighted clear 
+disparities in breast cancer treatment and outcomes for Black 
+women. Additionally, differences in stage at presentation and 
+breast cancer subtype, both of which impact outcomes, have 
+been linked not only to race but to neighborhood socioeco-
+nomic factors [15, 16]. The more advanced stage at diagnosis 
+and any treatment differences that exist do not fully explain the 
+ultimate racial survival disparities that exist [17, 18], under-
+scoring the importance of socioeconomic factors.
+According to the United States Census, Pennsylvania is 
+the fifth largest state by population and Philadelphia, its larg-
+est city, is the sixth largest in the nation. Pennsylvania is 
+ninth in the nation by population density, but approximately 
+one-in-four Pennsylvanians live in a rural county. Addition-
+ally, Pennsylvania has the 24th highest per capita income 
+in the nation, and its population is made of 10.6% Black 
+individuals, compared with a national average of 13.6%. 
+This socioeconomic diversity, which mirrors that of the 
+nation, is composed of pockets of wealth and poverty that 
+encompasses people of all races. As such, it is an appealing 
+geographical location for epidemiologic study. Therefore, 
+we developed this study to test the hypothesis that breast 
+cancer diagnosis and mortality are similar among races in 
+Pennsylvania when stratified by mean income.
+Methods
+Data acquisition
+The Pennsylvania Department of Health has been collecting 
+data from statewide mandatory reports of cancer diagnoses 
+in Pennsylvania since 1985. They have collated these data 
+with the rates of cancer death for each municipality in the 
+state into a database known as the Pennsylvania Cancer Reg-
+istry (PCR). We obtained municipality-level data for years 
+2011–2015 from the PCR Enterprise Data Dissemination 
+Informatics Exchange (EDDIE), which included the number 
+of breast cancer diagnoses stratified by race (White; Black; 
+Other/unknown) and age group at diagnosis with groups 
+representing 5-year intervals (eg. 30–34 years). Institutions 
+completely review each patient’s medical record and report 
+date of birth, age at diagnosis and race to the PCR, which 
+are then categorized centrally. We collected the same munic-
+ipality-level data on breast cancer-related mortalities from 
+2011 to 2015. We also obtained population demographics for 
+each Pennsylvania municipality from the 2010 United States 
+Census data including population composition as it related 
+to age, gender, race and median income. We combined both 
+data sets for analysis and grouped municipalities by county 
+for statistical analysis.
+Statistical analysis
+Data were analyzed in Stata/MP 15.1 (StataCorp LP., Texas, 
+USA). All tests were two-sided and statistical significance 
+was assessed at the 0.05 level. Variables were classified as 
+person-level (age group, race, breast cancer diagnosis rate, 
+and breast cancer mortality) or county-level (population size, 
+median household income, median female age, and percent 
+of white residents). Categorical variables were summarized 
+as frequency (percentage) and continuous variables were 
+summarized as median (IQR: interquartile range). Con-
+tinuous variables were assessed for normality using histo-
+grams. Relationships between two continuous variables were 
+investigated using scatterplots and correlation coefficients 
+(r) were estimated. Person-level and county-level distribu-
+tions were compared between (1) women with vs. without 
+a breast cancer diagnosis, and (2) women who died due to 
+breast cancer vs. women who were alive at the time of data 
+collection. Categorical and continuous distributions were 
+compared between two groups using a Chi-square test of 
+Independence or Wilcoxon rank-sum test, respectively.
+Breast cancer diagnosis rates were calculated by sum-
+ming the total number of diagnoses in the population at 
+risk and dividing by the total number of women in the 
+population at risk. The final product was multiplied by 100 
+to represent a percentage. The same calculation was per-
+formed for the mortality rate that is, summing the number 
+of breast cancer-related deaths in the population at risk 
+and dividing by the total number of women in the popula-
+tion at risk. Age-specific breast cancer diagnosis and mor-
+tality rates and 95% confidence intervals (95% CI) were 
+estimated for each race using the direct standardization 
+
+193
+Breast Cancer Research and Treatment (2022) 192:191–200	
+1 3
+method, with the 2010 United States Census data serving 
+as the reference population.
+Due to the multilevel nature of the data, mixed effects 
+logistic regression (ME LR) models were used to test the 
+association between person- and county-level variables 
+with breast cancer diagnosis and mortality, respectively. 
+County was treated as a random effect, allowing random 
+intercepts for each county. For both diagnosis and mortal-
+ity, the null model was compared to the ME LR model 
+without any predictors, and the models were compared 
+using a likelihood ratio test (LRT). The LRTs for diagnosis 
+(χ2 (1 d.f.) = 382.43, p ≤ 0.001) and mortality (χ2 = 28.13, 
+p ≤ 0.001) indicated that random intercept models were 
+appropriate. County-level variables were centered around 
+their grand means (population size: 565,367, median 
+household income: $52,866, percent white: 82.7%, median 
+female age: 41.1 years).
+Univariate ME LR models were built for diagnosis and 
+mortality, respectively. Odds ratios (OR) and 95% CIs are 
+presented. Full, multivariable ME LR models were built for 
+both outcomes using all person- and county-level variables. 
+Full models were reduced using backwards elimination until 
+all independent variables were significant at the 0.05 level. 
+Two- and three-way interactions were tested for any inde-
+pendent variables that remained in the backwards-reduced 
+models, and only significant interactions remained in the 
+models. Significant interactions are described by predicted 
+probabilities and differences in predicted probabilities (with 
+SE: standard errors), and p values were adjusted using a 
+Bonferroni procedure to account for multiple comparisons.
+Results
+Demographics
+From the 2010 US Census, a total of 5,353,875 adult females 
+living in 2574 municipalities and 67 counties were recorded 
+in the state of Pennsylvania. The majority (84.3%) identified 
+as White with only 10.4% identifying as Black and 5.4% 
+identifying as another race or unknown race (Table 1). The 
+state-wide median household income was $45,667 (IQR: 
+$40,940–$51,122). The distribution throughout the state of 
+population density, median income and proportion of indi-
+viduals identifying as non-White are shown in Fig. 1. As 
+expected, higher population density correlated with a larger 
+proportion of non-White individuals (r = 0.78, p ≤ 0.001) 
+and higher median household incomes (r = 0.41, p ≤ 0.001), 
+though groups of poor, White individuals can be seen 
+throughout the state in rural areas. The Philadelphia suburbs 
+in the southeast part of the state have both larger diversity 
+and higher median incomes.
+Breast cancer diagnosis
+From the Pennsylvania Cancer Registry, we identified 54,038 
+incident breast cancer diagnoses from 2011 to 2016. Overall, 
+the calculated breast cancer diagnosis rate was 1.01% (95% 
+CI 1.00–1.02%), the geographical distribution of which is 
+shown in Fig. 1. County-level breast cancer diagnosis rates 
+ranged from 0.80% (Mifflin County) to 1.60% (Sullivan 
+County), with a median of 1.00% (IQR: 0.94–1.09%). White 
+women had the highest unadjusted diagnosis rate (1.06%), 
+followed by Black women (0.88%) and women of other or 
+unknown race (0.43%) (Table 2). Breast cancer diagnosis 
+rates increased as age increased, with the highest among 
+those aged 65–74 (2.61%). Diagnosis rates increased as 
+age increased for each race group (Fig. 2A). However, age 
+distributions were significantly different across race in the 
+general population of PA residents (p ≤ 0.001), as 55.2% of 
+Black women in PA were under 45 years old compared to 
+43.4% of white women. After adjusting for age, the diagno-
+sis rates were slightly higher among Black women (1.06%, 
+95% CI 1.03–1.09%) than white women (1.02%, 95% CI 
+1.01–1.02%) (Supplemental Table 1).
+Table 1   Distribution of person-level and county-level demograph-
+ics in analysis data set from the Pennsylvania cancer registry and US 
+census
+All data are reported as n (%) or median (interquartile range)
+n number of unique residents, c number of counties with census-level 
+data
+Person-level
+n = 5,353,875
+Age (years)
+ 15–19
+451,425 (8.43)
+ 20–24
+416,263 (7.77)
+ 25–29
+383,410 (7.16)
+ 30–34
+357,321 (6.67)
+ 35–44
+851,437 (15.9)
+ 45–54
+981,064 (18.32)
+ 55–64
+786,700 (14.69)
+ 65–74
+509,960 (9.53)
+ 75–84
+419,011 (7.83)
+ 85 and over
+197,284 (3.68)
+Race
+ White
+4,511,243 (84.26)
+ Black
+554,612 (10.36)
+Other/unknown
+288,020 (5.38)
+Breast cancer diagnosis
+54,038 (1.01)
+Breast cancer mortality
+9828 (0.18)
+County-level
+c = 67
+Total population size
+89,153 (43,853–213,731)
+Household income ($)
+45,667 (40,940–51,122)
+Median female age (years)
+42.6 (40.7–44.7)
+Percent of white residents
+95.2% (90.3–97.2%)
+
+194
+	
+Breast Cancer Research and Treatment (2022) 192:191–200
+1 3
+Table 3 displays the univariate ME LR analyses for breast 
+cancer diagnosis. Age group, race, and county’s median 
+female age were all significantly associated with incident 
+diagnosis (all p values < 0.001). All person-level and county-
+level variables were entered into the multivariable ME LR 
+model, and age, race, county’s median household income, 
+and the interactions between race and age, and race and 
+household income were significant in the final backwards-
+reduced model (Table 4). The effect of race differed signifi-
+cantly by age group and county’s median household income.
+Although the probability of an incident diagnosis 
+increased as age increased, women of other or unknown 
+races had a significantly lower predicted probability of 
+an incident diagnosis compared to their white and Black 
+counterparts for all age categories except for the youngest 
+(15–29) and oldest (75 +) age categories (Fig. 3A). The 
+largest difference occurred among women aged 55–64 and 
+65–74. For example, among those aged 55–64, 0.98% of 
+women of other or unknown races were predicted to have an 
+incident diagnosis compared to 1.7% of white (SE of differ-
+ence with other or unknown race: 0.06%, adjusted p ≤ 0.001) 
+and 1.9% of Black (SE of difference with other or unknown 
+race: 0.08%, adjusted p ≤ 0.001) women, respectively. There 
+were no significant differences between white and Black 
+women across all age groups in the multivariable model.
+Diagnosis rate also increased as county’s median house-
+hold income increased, however this increase was of a larger 
+magnitude for women of other or unknown race (Fig. 4A). 
+Except for the highest household income level, women of 
+other or unknown races had a significantly lower predicted 
+probability of an incident diagnosis compared to white and 
+Black women, respectively. The largest difference occurred 
+among women who lived in counties with the lowest house-
+hold income levels. Specifically, 0.51% of women of other 
+or unknown races who live in counties with a median house-
+hold income of $33,000 were expected to have a diagnosis 
+of breast cancer. These rates were significantly higher in 
+white (0.91%, SE of difference with other or unknown race: 
+0.03%, adjusted p ≤ 0.001) and Black (0.97%, SE of differ-
+ence with other or unknown race: 0.04%, adjusted p ≤ 0.001) 
+women, respectively. There were no significant differences 
+between white and Black women across all levels of house-
+hold income in the multivariable model.
+Breast cancer mortality
+There were 9828 recorded breast cancer deaths from 2011 
+to 2016 for an overall breast cancer mortality rate of 0.18% 
+(95% CI 0.18–0.19%). County-level breast cancer mortality 
+rates ranged from 0.11% (Centre county) to 0.32% (War-
+ren county), with a median of 0.18% (IQR: 0.16–0.20%). 
+Breast cancer mortality increased as age increased, and the 
+highest mortality rate was among women aged 85 and over 
+(1.03%) (Table 2). The 75–84 age group had the second 
+Fig. 1   Demographics by municipality for the state of Pennsylvania 
+as derived from the Pennsylvania Cancer Registry and the 2010 US 
+Census including A population density, B percent of the population 
+identifying as Black or another race, C median house-hold income, D 
+breast cancer diagnosis and E breast cancer mortality
+
+195
+Breast Cancer Research and Treatment (2022) 192:191–200	
+1 3
+highest mortality rate, but it was half that of the 85 and 
+over age group (0.51%). In the unadjusted analysis, Black 
+women had the highest rate of mortality (0.21%), followed 
+by white women (0.19%) and women of other or unknown 
+races (0.08%). Black women still had the highest mortality 
+rate, even after adjusting for the differences in age distribu-
+tions. The age-adjusted mortality rate was 0.27% (95% CI 
+0.26–0.29%) in Black women, 0.18% (0.17–0.18%) in white 
+women, and 0.15% (95% CI 0.13–0.17%) in women of other/
+unknown races (Supplemental Table 1).
+Age, race, and county’s median female age were signifi-
+cantly associated with breast cancer mortality in the univari-
+ate ME LR models (all p values < 0.001; Table 3). Age, race, 
+median household income, and the interaction between age 
+and race were significant in the backwards-reduced multi-
+variable model (Table 4). The interaction between race and 
+household income was not significant, and therefore removed 
+from the model. Women who live in counties with higher 
+median household incomes were significantly more likely 
+to have a breast cancer death (adjusted OR: 1.03, 95% CI 
+1.00–1.05, p = 0.02). The effect of race on breast cancer mor-
+tality depended on age group. There were no significant dif-
+ferences in mortality rates across race for women under the 
+age of 35, however from age 35 onward, Black women had a 
+significantly higher breast cancer mortality rate compared to 
+white women (Fig. 3B). The same relationship was observed 
+between Black women and women of other or unknown 
+races starting at age 45. The largest differences occurred in 
+women aged 75 and older. In the 75–84 age group, the mor-
+tality rate was 0.79% among Black women, 0.50% among 
+white women (SE of difference with Black women: 0.06%, 
+adjusted p < 0.001), and 0.32% among women of another or 
+unknown race (SE of difference with Black women: 0.09%, 
+adjusted p < 0.001). Among women aged 85 and over, these 
+rates were 1.4% in Black women, 1.0% in white women (SE of 
+difference with Black women: 0.12%, adjusted p ≤ 0.001), and 
+0.77% in women of other or unknown races (SE of difference 
+in Black women: 0.22%, adjusted p = 0.048). There were no 
+significant differences in breast cancer mortality rates between 
+white women and women of other or unknown races across 
+all age groups.
+Table 2   Distribution of person-level and census-level demographics by breast cancer diagnosis and mortality
+All data are reported as n (%) or median (interquartile range)
+Breast cancer diagnosis
+Breast cancer mortality
+Yes
+No
+p
+Yes
+No
+p
+n
+54,038
+5,299,837
+9828
+5,344,047
+Age (years)
+ 15–19
+4 (0.00)
+451,421 (100.00)
+ < 0.001
+0 (0.00)
+451,425 (100.00)
+ < 0.001
+ 20–24
+25 (0.01)
+416,238 (99.99)
+3 (0.00)
+416,260 (100.00)
+ 25–29
+198 (0.05)
+383,212 (99.95)
+12 (0.00)
+383,398 (100.00)
+ 30–34
+575 (0.16)
+356,746 (99.84)
+63 (0.02)
+357,258 (99.98)
+ 35–44
+3807 (0.45)
+847,630 (99.55)
+365 (0.04)
+851,072 (99.96)
+ 45–54
+10,009 (1.02)
+971,055 (98.98)
+1104 (0.11)
+979,960 (99.89)
+ 55–64
+13,510 (1.72)
+773,190 (98.28)
+1933 (0.25)
+784,767 (99.75)
+ 65–74
+13,306 (2.61)
+496,654 (97.39)
+2150 (0.42)
+507,810 (99.58)
+ 75–84
+8759 (2.09)
+410,252 (97.91)
+2157 (0.51)
+416,854 (99.49)
+ 85 and over
+3845 (1.95)
+193,439 (98.05)
+2041 (1.03)
+195,243 (98.97)
+Race
+ White
+47,953 (1.06)
+4,463,290 (98.9)
+ < 0.001
+8437 (0.19)
+4,502,806 (99.81)
+ < 0.001
+ Black
+4860 (0.88)
+549,752 (99.12)
+1158 (0.21)
+553,454 (99.79)
+Other/unknown
+1225 (0.43)
+286,795 (99.57)
+233 (0.08)
+287,787 (99.92)
+County's population 
+size
+407,310 (171,569–
+790,497)
+407,310 (168,080–
+790,497)
+0.002 407,310 (171,569–
+790,497)
+407,310 (168,080–
+790,497)
+0.88
+County's household 
+income ($)
+49,276 (44,333–60,021) 49,250 (43,919–60,021)  < 0.001 48,938 (43,919–59,979) 49,250 (43,919–60,021)
+0.16
+White residents in 
+county (%)
+88.9 (82.0–93.6)
+88.9 (82.0–93.6)
+ < 0.001
+88.9 (82.0–93.7)
+88.9 (82.0–93.6)
+0.006
+County's median 
+female age
+41.5 (39.9–43.2)
+41.5 (39.8–43.2)
+ < 0.001
+41.5 (39.9–43.2)
+41.5 (39.8–43.2)  < 0.001
+
+196
+	
+Breast Cancer Research and Treatment (2022) 192:191–200
+1 3
+Discussion
+This analysis of breast cancer diagnosis and mortality rates 
+in Pennsylvania demonstrates ongoing socioeconomic and 
+racial disparities. As expected, there is significant diversity 
+within the state as it relates to population density, race and 
+income. The analysis cohort therefore included both low- 
+and high-income individuals of all races and provides insight 
+into the interaction between these important socioeconomic 
+factors.
+This analysis yielded a median breast cancer diagnosis 
+rate of 1.01%, or approximately 0.2% per year, which is 
+similar to the 0.13% annual new case rate reported in SEER 
+[19]. Consistent with most analyses of race and socioeco-
+nomic factors, we found that White race and higher income 
+were associated with higher diagnosis rates in the unad-
+justed analyses [20–22]. The age-adjusted analyses, which 
+demonstrated a slightly higher rate of diagnosis for Black 
+women, is also consistent with reports by DeSantis, et al., 
+that demonstrated an increasing incidence for Black women 
+and ultimate convergence of incidence rates with white 
+women in 2012 [2, 4]. Overall diagnosis rates did not dif-
+fer when counties were compared according to population 
+size, perhaps indicating a stabilization of rural–urban dif-
+ferences documented by Boukovalis and Sariego [6]. Race 
+did moderate the adjusted risk of a breast cancer diagnosis 
+both for age and income. We found that predicted diagnosis 
+rate did not differ between Black and white women for all 
+income quartiles but was significantly lower for women of 
+unknown or other races. This finding highlights the parity of 
+women regardless of race among income groups, and likely 
+represents increased access to breast cancer screening for 
+affluent women.
+In our multivariable analyses, we saw that despite hav-
+ing similar rates of diagnosis, Black women experienced 
+higher rates of mortality compared to white women. This 
+Fig. 2   Unadjusted rates of 
+breast cancer diagnosis and 
+mortality stratified by race and 
+age group
+
+197
+Breast Cancer Research and Treatment (2022) 192:191–200	
+1 3
+was expected based on previous studies which demonstrate 
+that Black women tend to be diagnosed at a later stage than 
+other women which contributes to increased mortality [10, 
+23, 24]. Black women and those of a low socioeconomic 
+status are also diagnosed with triple negative breast can-
+cer, which has the worst prognosis, at higher rates [16], 
+and experience longer treatment delays or less aggressive 
+therapies [23–25], exacerbating these unfavorable tumor 
+factors. Interestingly, there was no interaction between race 
+and income with respect to breast cancer mortality indicat-
+ing that more affluent Black women do not have a survival 
+advantage over those with lower incomes. Singh, et al., 
+came to a similar conclusion when analyzing six decades of 
+United States data, finding that when grouping women by 
+neighborhood socioeconomic variables, Black women had 
+an approximately 50% higher breast cancer mortality than 
+white women [26]. Synthesizing our results with those of 
+Bradley, et al., who demonstrated no mortality difference by 
+race in the Detroit SEER database when adjusted for clini-
+cal and non-clinical factors, there is a complex interplay 
+between biological and socioeconomic factors, including 
+race, that modulates the risk of breast cancer mortality.
+Several authors have postulated an impact of residen-
+tial segregation, defined as homogeneity of racial groups 
+according geographic area, on health outcomes [27]. Mixed 
+effects are seen among breast cancer patients in California 
+neighborhoods with high residential segregation with lower 
+mortality for Black patients but higher mortality for white 
+patients [28], while Black and Hispanic segregation in Texas 
+is associated with higher mortality. We found no evidence 
+of an impact of residential segregation on the county level 
+in Pennsylvania on either breast cancer diagnosis rate or 
+mortality.
+Our study’s strengths include the use of a prospectively 
+maintained, statewide database with mandatory contribu-
+tion that allows for the broad analysis of racial and socio-
+economically disparate communities. One limitation of the 
+study is that patients are not tracked longitudinally, and the 
+data instead supplied an annual population-based snapshot 
+of diagnosis and death. Another major limitation of this 
+study is the lack of tumor and treatment information, as 
+these variables are closely linked with outcomes and have 
+been shown to differ when patients are analyzed according 
+to race and socioeconomic variables [29]. If, as reported, 
+Black patients and those of lower socioeconomic status 
+present with tumor subtypes with a worse prognosis and 
+receive less effective and more poorly timed treatment than 
+their counterparts, our analysis may overestimate the inde-
+pendent impact of SES and race on outcomes. Importantly, 
+however, socioeconomic variables may in fact contribute 
+more to poor outcomes. A recent multivariable NCDB 
+analysis of nonmetastatic breast cancers demonstrates that 
+insurance and medical comorbidities accounted for 48.3% 
+combined excess risk of death for Black patients whereas 
+tumor characteristics accounted for only 23.3% of the 
+excess mortality [18]. Therefore, regional socioeconomic 
+Table 3   Univariate multilevel 
+logistic regression models for 
+breast cancer diagnosis and 
+mortality
+OR odds ratio, CI confidence interval
+Breast cancer diagnosis
+Breast cancer mortality
+OR (95% CI)
+p
+OR (95% CI)
+p
+Person-level predictors
+Age (Years)
+ < 0.001
+ < 0.001
+ 15–29
+0.01 (0.01–0.01)
+ < 0.001
+0.00 (0.00–0.00)
+ < 0.001
+ 30–34
+0.06 (0.06–0.07)
+ < 0.001
+0.04 (0.03–0.05)
+ < 0.001
+ 35–44
+0.17 (0.16–0.17)
+ < 0.001
+0.10 (0.09–0.11)
+ < 0.001
+ 45–54
+0.38 (0.37–0.39)
+ < 0.001
+0.27 (0.25–0.29)
+ < 0.001
+ 55–64
+0.65 (0.63–0.67)
+ < 0.001
+0.58 (0.55–0.62)
+ < 0.001
+ 65–74
+Reference
+Reference
+ 75–84
+0.80 (0.78–0.82)
+ < 0.001
+1.22 (1.15–1.30)
+ < 0.001
+ 85 and over
+0.74 (0.71–0.77)
+ < 0.001
+2.47 (2.33–2.63)
+ < 0.001
+Race
+ < 0.001
+ < 0.001
+ White
+Reference
+Reference
+ Black
+0.85 (0.82—0.88)
+ < 0.001
+1.14 (1.06–1.22)
+ < 0.001
+ Other
+0.40 (0.38–0.43)
+ < 0.001
+0.44 (0.38–0.50)
+ < 0.001
+County-level predictors
+ Population size (10,000 increments)
+1.00 (1.00–1.00)
+0.97
+1.00 (1.00–1.00)
+0.90
+ Household income ($10,000 increments)
+1.02 (1.00–1.05)
+0.07
+0.99 (0.95–1.03)
+0.60
+ Percent of White residents
+1.00 (1.00–1.00)
+0.14
+1.00 (1.00–1.01)
+0.21
+ Median female age
+1.02 (1.01–1.03)
+ < 0.001
+1.03 (1.02–1.04)
+ < 0.001
+
+198
+	
+Breast Cancer Research and Treatment (2022) 192:191–200
+1 3
+analyses such as ours are important in documenting the 
+range and magnitude of social factors and race on differ-
+ences in breast cancer incidence and mortality in order 
+to develop targeted strategies to combat them. Ongoing 
+targeted efforts in place that provide education, increase 
+access to breast cancer screening, and assist in better 
+access to treatment once diagnosed should continue and 
+be bolstered by innovative strategies to eliminate socio-
+economic disparities in breast cancer care.
+Supplementary Information  The online version contains supplemen-
+tary material available at https://​doi.​org/​10.​1007/​s10549-​021-​06492-1.
+Acknowledgements  A portion of the data used in this study were pro-
+vided by the Division of Health Informatics, Pennsylvania Department 
+of Health. The Department specifically disclaims responsibility for any 
+analyses, interpretations, or conclusions.
+Funding  None to disclose.
+Table 4   Backwards-reduced 
+multilevel logistic regression 
+models for breast cancer 
+diagnosis and mortality
+aOR covariate-adjusted odds ratio, CI confidence interval
+Breast cancer diagnosis
+Breast cancer mortality
+aOR (95% CI)
+p
+aOR (95% CI)
+p
+Person-level predictors
+Age (Years)
+ < 0.001
+ < 0.001
+ 15–29
+0.01 (0.01–0.01)
+ < 0.001
+0.00 (0.00–0.00)
+ < 0.001
+ 30–34
+0.06 (0.06–0.07)
+ < 0.001
+0.04 (0.03–0.05)
+ < 0.001
+ 35–44
+0.17 (0.16–0.17)
+ < 0.001
+0.09 (0.08–0.11)
+ < 0.001
+ 45–54
+0.38 (0.37–0.39)
+ < 0.001
+0.25 (0.23–0.27)
+ < 0.001
+ 55–64
+0.64 (0.63–0.66)
+ < 0.001
+0.56 (0.52–0.60)
+ < 0.001
+ 65–74
+Reference
+Reference
+ 75–84
+0.78 (0.76—0.81)
+ < 0.001
+1.22 (1.14–1.30)
+ < 0.001
+ 85 and over
+0.72 (0.70—0.75)
+ < 0.001
+2.48 (2.33–2.65)
+ < 0.001
+Race
+ < 0.001
+ < 0.001
+ White
+Reference
+Reference
+ Black
+0.93 (0.87–1.00)
+0.05
+1.38 (1.20–1.58)
+ < 0.001
+ Other
+0.63 (0.55–0.72)
+ < 0.001
+0.84 (0.63–1.13)
+0.25
+Age and race interaction
+ < 0.001
+ < 0.001
+ 15–29, Black
+1.44 (1.01–2.06)
+0.04
+4.38 (1.52–12.60)
+0.01
+ 15–29, Other
+1.42 (0.85–2.38)
+0.18
+1.55 (0.19–12.88)
+0.68
+ 30–34, Black
+1.13 (0.88–1.45)
+0.33
+0.60 (0.26–1.43)
+0.25
+ 30–34, Other
+0.72 (0.47–1.09)
+0.12
+2.20 (1.05–4.62)
+0.04
+ 35–44, Black
+1.20 (1.07–1.35)
+0.00
+1.24 (0.91–1.69)
+0.17
+ 35–44, Other
+1.02 (0.84–1.25)
+0.82
+1.86 (1.17–2.96)
+0.01
+ 45–54, Black
+1.13 (1.03–1.24)
+0.01
+1.47 (1.20–1.81)
+ < 0.001
+ 45–54, Other
+1.12 (0.95–1.34)
+0.18
+1.39 (0.92–2.09)
+0.11
+ 55–64, Black
+1.17 (1.07–1.27)
+ < 0.001
+1.32 (1.10–1.59)
+0.003
+ 55–64, Other
+0.88 (0.74–1.05)
+0.16
+1.01 (0.68–1.51)
+0.94
+ 65–74, White
+Reference
+Reference
+ 75–84, Black
+1.11 (1.00–1.23)
+0.06
+1.14 (0.94–1.39)
+0.18
+ 75–84, Other
+1.48 (1.18–1.85)
+0.001
+0.76 (0.44–1.31)
+0.32
+ 85 and over, Black
+1.23 (1.07–1.43)
+0.01
+1.03 (0.83–1.27)
+0.80
+ 85 and over, Other
+2.06 (1.53–2.77)
+ < 0.001
+0.90 (0.52–1.56)
+0.71
+County-level predictors
+ Household income ($10,000 
+increments)
+1.05 (1.03—1.07)
+ < 0.001
+1.03 (1.00–1.05)
+0.02
+Cross-level interactions
+ Race and household income
+ < 0.001
+  White
+Reference
+  Black
+0.99 (0.96–1.01)
+0.30
+  Other
+1.13 (1.09–1.18)
+ < 0.001
+
+199
+Breast Cancer Research and Treatment (2022) 192:191–200	
+1 3
+Data availability  All data used are publicly accessible via the Pennsyl-
+vania Cancer Registry and the US Census Bureau.
+Code availability  Not applicable.
+Declarations 
+Conflict of interest  None to disclose.
+Ethical approval  Deemed exempt by the Main Line Health System 
+IRB.
+Consent to participate  Not applicable.
+Consent for publication  Not applicable.
+References
+	 1.	 Siegel RL, Miller KD, Jemal A (2020) Cancer statistics, 2020. 
+CA: Cancer J Clin 70:7–30. https://​doi.​org/​10.​3322/​caac.​21590
+	 2.	 DeSantis CE, Fedewa SA, Goding Sauer A et al (2016) Breast 
+cancer statistics, 2015: convergence of incidence rates between 
+black and white women. CA: Cancer J Clin 66:31–42. https://​doi.​
+org/​10.​3322/​caac.​21320
+	 3.	 DeSantis CE, Siegel RL, Sauer AG et al (2016) Cancer statistics 
+for African Americans, 2016: Progress and opportunities in reduc-
+ing racial disparities. CA: Cancer J Clin 66:290–308. https://​doi.​
+org/​10.​3322/​caac.​21340
+	 4.	 DeSantis CE, Ma J, Goding Sauer A et al (2017) Breast cancer 
+statistics, 2017, racial disparity in mortality by state. CA: Cancer 
+J Clin 67:439–448. https://​doi.​org/​10.​3322/​caac.​21412
+	 5.	 Obeng-Gyasi S, Timsina L, Bhattacharyya O et  al (2020) 
+Breast cancer presentation, surgical management and mortality 
+across the rural-urban continuum in the national cancer data-
+base. Ann Surg Oncol 27:1805–1815. https://​doi.​org/​10.​1245/​
+s10434-​020-​08376-y
+	 6.	 Boukovalas S, Sariego J (2015) The urban/rural dichotomy in the 
+distribution of breast cancer across Pennsylvania. In: American 
+surgeon. Southeastern surgical congress, pp 884–888
+	 7.	 Thompson B, Hohl SD, Molina Y et al (2018) Breast cancer dis-
+parities among women in underserved communities in the USA. 
+Curr Breast Cancer Rep 10:131–141
+	 8.	 Moore JX, Royston KJ, Langston ME et al (2018) Mapping hot 
+spots of breast cancer mortality in the United States: place matters 
+for Blacks and Hispanics. Cancer Causes Control 29:737–750. 
+https://​doi.​org/​10.​1007/​s10552-​018-​1051-y
+	 9.	 Bradley CJ, Given CW, Roberts C (2002) Race, socioeconomic 
+status, and breast cancer treatment and survival. JNCI 94:490–
+496. https://​doi.​org/​10.​1093/​jnci
+	10.	 Hirschman J, Whitman S, Ansell D (2007) The black:white 
+disparity in breast cancer mortality: the example of Chicago. 
+Cancer Causes Control 18:323–333. https://​doi.​org/​10.​1007/​
+s10552-​006-​0102-y
+	11.	 Guan A, Lichtensztajn D, Oh D et al (2019) Breast cancer in San 
+Francisco: disentangling disparities at the neighborhood level. 
+Cancer Epidemiol Biomark Prev 28:1968–1976. https://​doi.​org/​
+10.​1158/​1055-​9965.​EPI-​19-​0799
+	12.	 Emerson MA, Golightly YM, Tan X et al (2020) Integrating 
+access to care and tumor patterns by race and age in the Carolina 
+Fig. 3   Predicted probability of A breast cancer diagnosis and B breast cancer mortality stratified by race and plotted over age group
+Fig. 4   Predicted probability of breast cancer diagnosis stratified by 
+race and plotted over median household income
+
+200
+	
+Breast Cancer Research and Treatment (2022) 192:191–200
+1 3
+breast cancer study, 2008–2013. Cancer Causes Control 31:221–
+230. https://​doi.​org/​10.​1007/​s10552-​019-​01265-0
+	13.	 Esnaola NF, Knott K, Finney C et al (2008) Urban/rural residence 
+moderates effect of race on receipt of surgery in patients with 
+nonmetastatic breast cancer: a report from the South Carolina 
+central cancer registry. Ann Surg Oncol 15:1828–1836. https://​
+doi.​org/​10.​1245/​s10434-​008-​9898-x
+	14.	 Parise CA, Caggiano V (2017) Regional variation in disparities 
+in breast cancer specific mortality due to race/ethnicity, socio-
+economic status, and urbanization. J Racial Ethn Health Dispar 
+4:706–717. https://​doi.​org/​10.​1007/​s40615-​016-​0274-4
+	15.	 Akinyemiju T, Moore JX, Ojesina AI et al (2016) Racial dispari-
+ties in individual breast cancer outcomes by hormone-receptor 
+subtype, area-level socio-economic status and healthcare 
+resources. Breast Cancer Res Treat 157:575–586. https://​doi.​org/​
+10.​1007/​s10549-​016-​3840-x
+	16.	 Linnenbringer E, Geronimus AT, Davis KL et al (2020) Associa-
+tions between breast cancer subtype and neighborhood socioeco-
+nomic and racial composition among Black and White women. 
+Breast Cancer Res Treat 180:437–447. https://​doi.​org/​10.​1007/​
+s10549-​020-​05545-1
+	17.	 Woods LM, Rachet B, Coleman MP (2006) Origins of socio-
+economic inequalities in cancer survival: a review. Ann Oncol 
+17:5–19
+	18.	 Jemal A, Robbins AS, Lin CC et al (2018) Factors that contributed 
+to Black-White disparities in survival among nonelderly women 
+with breast cancer between 2004 and 2013. J Clin Oncol 36:14–
+24. https://​doi.​org/​10.​1200/​JCO.​2017.​73.​7932
+	19.	 Female Breast Cancer — Cancer Stat Facts. https://​seer.​cancer.​
+gov/​statf​acts/​html/​breast.​html. Accessed 25 Jun 2021
+	20.	 Baquet CR, Mishra SI, Commiskey P et al (2008) Breast cancer 
+epidemiology in blacks and whites: disparities in incidence, mor-
+tality, survival rates and histology. J Natl Med Assoc 100:480–
+489. https://​doi.​org/​10.​1016/​s0027-​9684(15)​31294-3
+	21.	 Borugian MJ, Spinelli JJ, Abanto Z et al (2011) Breast cancer 
+incidence and neighbourhood income. Heal Rep 22:7–13
+	22.	 Henley SJ, Ward EM, Scott S et al (2020) Annual report to the 
+nation on the status of cancer, part I: national cancer statistics. 
+Cancer 126:2225–2249. https://​doi.​org/​10.​1002/​cncr.​32802
+	23.	 Gorin SS, Heck JE, Cheng B, Smith SJ (2006) Delays in breast 
+cancer diagnosis and treatment by racial/ethnic group. Arch Intern 
+Med 166:2244–2252. https://​doi.​org/​10.​1001/​archi​nte.​166.​20.​
+2244
+	24.	 Byers TE, Wolf HJ, Bauer KR et al (2008) The impact of socio-
+economic status on survival after cancer in the United States: 
+findings from the national program of cancer registries patterns 
+of care study. Cancer 113:582–591. https://​doi.​org/​10.​1002/​cncr.​
+23567
+	25.	 Fedewa SA, Edge SB, Stewart AK et al (2011) Race and ethnicity 
+are associated with delays in breast cancer treatment (2003–2006). 
+J Health Care Poor Underserved 22:128–141. https://​doi.​org/​10.​
+1353/​hpu.​2011.​0006
+	26.	 Singh GK, Jemal A (2017) Socioeconomic and racial/ethnic dis-
+parities in cancer mortality, incidence, and survival in the United 
+States, 1950–2014: over six decades of changing patterns and 
+widening inequalities. J Environ Public Health 2017:1–19. https://​
+doi.​org/​10.​1155/​2017/​28193​72
+	27.	 Russell EF, Kramer MR, Cooper HLF et al (2012) Metropolitan 
+area racial residential segregation, neighborhood racial composi-
+tion, and breast cancer mortality. Cancer Causes Control 23:1519–
+1527. https://​doi.​org/​10.​1007/​s10552-​012-​0029-4
+	28.	 Warner ET, Gomez SL (2010) Impact of neighborhood racial 
+composition and metropolitan residential segregation on dispari-
+ties in breast cancer stage at diagnosis and survival between black 
+and white women in California. J Community Health 35:398–408. 
+https://​doi.​org/​10.​1007/​s10900-​010-​9265-2
+	29.	 Newman LA, Griffith KA, Jatoi I et al (2006) Meta-analysis of 
+survival in African American and white American patients with 
+breast cancer: ethnicity compared with socioeconomic status. J 
+Clin Oncol 24:1342–1349. https://​doi.​org/​10.​1200/​JCO.​2005.​03.​
+3472
+Publisher's Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+

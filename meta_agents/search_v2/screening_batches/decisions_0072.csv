@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+4240,exclude,Not relevant to the research question/topic,cancer culture health disparities review
+4241,exclude,Not relevant to the research question/topic,cancer incidence Texas digestive respiratory
+4242,exclude,Not relevant to the research question/topic,sexual dysfunction BC meta-analysis
+4243,exclude,Not a US population-based/registry study,small invasive BC Taiwanese
+4244,exclude,Not relevant to the research question/topic,screening mammography AI northern plains
+4245,exclude,Not a US population-based/registry study,cancer indigenous Latin America review
+4246,exclude,Not relevant to the research question/topic,HRQoL contextual model
+4247,exclude,Not relevant to the research question/topic,adolescent diet premenopausal BC incidence
+4248,exclude,Not relevant to the research question/topic,social relational CRC Chinese
+4249,exclude,Not relevant to the research question/topic,survival Filipino BC US SEER
+4250,exclude,Not a US population-based/registry study,BC screening ethnic Scotland
+4251,exclude,Not a US population-based/registry study,light at night BC UK Generations
+4252,exclude,Not relevant to the research question/topic,breast cervical screening incidence stage New Mexico
+4253,exclude,Not a US population-based/registry study,cancer survival First Nations Ontario
+4254,exclude,Not a US population-based/registry study,seasonal lung cancer Norway
+4255,exclude,Not a US population-based/registry study,cancer incidence First Nations Manitoba
+4256,exclude,Not relevant to the research question/topic,cancer moonshot health disparities
+4257,exclude,Not relevant to the research question/topic,BC epidemiology risk factors screening review
+4258,exclude,Not a US population-based/registry study,global trends BC incidence mortality
+4259,exclude,Not a US population-based/registry study,prognostic factors BC ethnicity SES New Zealand
+4260,exclude,Not a US population-based/registry study,TV viewing BC Japan JACC
+4261,exclude,Not a US population-based/registry study,SPC Korean BC survivors
+4262,exclude,Not a US population-based/registry study,BC mortality ethnic SES New Zealand
+4263,exclude,Not relevant to the research question/topic,ovarian cancer epidemiology
+4264,exclude,Not a US population-based/registry study,health system barriers BC scoping review
+4265,exclude,Not relevant to the research question/topic,NHIS community SES method
+4266,exclude,Not a US population-based/registry study,LVEF trastuzumab cardiotoxicity Korea
+4267,exclude,Not a US population-based/registry study,HER2-low BC South Korea
+4268,exclude,Not relevant to the research question/topic,racial disparities uterine cancer subtypes USCS
+4269,exclude,Not relevant to the research question/topic,Pacific Islander gastric cancer disaggregating
+4270,exclude,Not relevant to the research question/topic,SPC stomach cancer US Korea
+4271,exclude,Not relevant to the research question/topic,racial SES disparities thyroid cancer
+4272,exclude,Not relevant to the research question/topic,Hodgkin lymphoma ethnic enclaves California
+4273,exclude,Not relevant to the research question/topic,Multiethnic Cohort resource description
+4274,exclude,Not relevant to the research question/topic,racial disparities UE outcomes mastectomy review
+4275,exclude,Not relevant to the research question/topic,racial social class life expectancy California
+4276,exclude,Not relevant to the research question/topic,neck reoperation thyroid cancer
+4277,exclude,"Editorials, commentaries, letters, or conference abstracts",subtype BC incidence race California meeting abstract
+4278,exclude,Not relevant to the research question/topic,racial ethnic disparities BC mortality US review
+4279,exclude,Not relevant to the research question/topic,racial/ethnic representation cancer research
+4280,exclude,Not relevant to the research question/topic,MDM2 p53 BC survival multiethnic
+4281,exclude,Not relevant to the research question/topic,body size BC Hispanic AA review
+4282,exclude,Not relevant to the research question/topic,prostate cancer stage race
+4283,exclude,Not relevant to the research question/topic,suicide rates Black White cities
+4284,exclude,Not relevant to the research question/topic,neighborhood SES perceived discrimination
+4285,exclude,Not relevant to the research question/topic,light pollution inequities US
+4286,exclude,Not relevant to the research question/topic,racial ethnic disparities BC multilevel review
+4287,exclude,Not relevant to the research question/topic,molecular pancreatic Black White
+4288,exclude,Not relevant to the research question/topic,racial disparities SMN Hodgkin lymphoma SEER
+4289,exclude,Not relevant to the research question/topic,racial/ethnic disparities ovarian cancer review
+4290,exclude,Not relevant to the research question/topic,TCGA BC disparities review
+4291,exclude,"Editorials, commentaries, letters, or conference abstracts",rhetoric of race BC research
+4292,exclude,Not relevant to the research question/topic,urban neighborhood residential BC AA systematic review
+4293,exclude,Not relevant to the research question/topic,IBC non-IBC survival SES SEER
+4294,include,,Cancer Statistics for African American and Black People 2025
+4295,exclude,Not relevant to the research question/topic,understanding BC AA women social context review
+4296,exclude,Not relevant to the research question/topic,minority survivors childhood cancer CCSS
+4297,exclude,Not relevant to the research question/topic,residential segregation racial cancer disparities review
+4298,exclude,Not relevant to the research question/topic,BC disparities biological determinants review
+4299,exclude,Not relevant to the research question/topic,TNBC view from 10000 feet review

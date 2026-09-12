@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2600,exclude,Not a US population-based/registry study,FMF cancer Israel
+2601,include,,Cancer Statistics 2018 US incidence by race
+2602,exclude,Not a US population-based/registry study,miRNA age-onset Asian
+2603,exclude,Not relevant to the research question/topic,primary breast DLBCL SEER
+2604,exclude,Not a US population-based/registry study,delays developing countries
+2605,exclude,Not relevant to the research question/topic,induced abortion BC meta-analysis
+2606,exclude,"Editorials, commentaries, letters, or conference abstracts",APTA conference review
+2607,exclude,Not relevant to the research question/topic,TGF-beta liver disease chapter
+2608,exclude,Not relevant to the research question/topic,BC synchronous hepatic metastases SEER
+2609,exclude,Not relevant to the research question/topic,cancer residential segregation Massachusetts
+2610,include,,SEER BC incidence/survival disparities by age/race/SES 1981-2010
+2611,exclude,Not relevant to the research question/topic,bone metastases bladder SEER
+2612,exclude,Not a US population-based/registry study,breast cancer cell lines Chinese
+2613,exclude,"Editorials, commentaries, letters, or conference abstracts",estradiol-progesterone VMS conference paper
+2614,exclude,Not a US population-based/registry study,actionable gene TNBC Asian
+2615,exclude,Not a US population-based/registry study,female malignancy mortality Japan/Korea/Singapore
+2616,exclude,Not relevant to the research question/topic,radiation angiosarcoma case
+2617,exclude,Not relevant to the research question/topic,population-based cancer survival CONCORD
+2618,exclude,Not relevant to the research question/topic,ZDHHC3 AA marker mechanism
+2619,exclude,Not a US population-based/registry study,mammographic density DCIS/IDC Korea
+2620,exclude,Not relevant to the research question/topic,microRNAs disparities chapter
+2621,exclude,Not relevant to the research question/topic,AGE cancer disparity chapter
+2622,exclude,Not a US population-based/registry study,eribulin Japan post-marketing
+2623,exclude,Not a US population-based/registry study,BMI abdominal circumference Asian
+2624,exclude,Not relevant to the research question/topic,cancer ER utilization NJ
+2625,exclude,Not relevant to the research question/topic,sedentary time postmenopausal BC WHI
+2626,exclude,Not relevant to the research question/topic,family history trends BCSC/CBCS
+2627,exclude,Not a US population-based/registry study,tamoxifen toremifene CYP2D6 China trial
+2628,exclude,Not relevant to the research question/topic,YAPPETIZER TNBC neoadjuvant trial
+2629,exclude,Not relevant to the research question/topic,Ewing sarcoma MSK outcomes
+2630,exclude,Not a US population-based/registry study,radiation heart disease Korea
+2631,exclude,Not relevant to the research question/topic,urban/rural BC/cervical incidence SES mediation
+2632,exclude,Not relevant to the research question/topic,obesity BC development review
+2633,exclude,Not a US population-based/registry study,benefit finding survivors China
+2634,exclude,Not relevant to the research question/topic,Project ECHO cervical telementoring
+2635,exclude,Not relevant to the research question/topic,ambulance transport ED Medicare
+2636,exclude,Not relevant to the research question/topic,subsequent kidney cancer SEER
+2637,exclude,Not relevant to the research question/topic,common variants CBC WECARE
+2638,exclude,Not relevant to the research question/topic,RT access disparities AA review
+2639,exclude,Not relevant to the research question/topic,colder environments cancer US ecological
+2640,exclude,Not relevant to the research question/topic,risk factors BC Guam/Saipan case-control
+2641,exclude,Not a US population-based/registry study,BRCA cohort Japan
+2642,exclude,Not relevant to the research question/topic,video intervention Black trials
+2643,exclude,Not relevant to the research question/topic,CPS-II nutrition cohort trial
+2644,exclude,Not relevant to the research question/topic,DCIS octogenarians SEER grade
+2645,exclude,Not a US population-based/registry study,Danggui TCM myelosuppression
+2646,exclude,Not a US population-based/registry study,Chinese herbal BC Taiwan
+2647,exclude,Not a US population-based/registry study,cancer mortality Latin America 2017
+2648,exclude,Not relevant to the research question/topic,breastfeeding BC Black mothers review
+2649,exclude,"Editorials, commentaries, letters, or conference abstracts",HR+ BC male vs female SEER conference paper
+2650,exclude,Not relevant to the research question/topic,longitude time zone cancer US ecological
+2651,exclude,Not a US population-based/registry study,FGFR2 Turkish early-onset
+2652,exclude,Not a US population-based/registry study,survival analysis First Nations Canada
+2653,exclude,Not relevant to the research question/topic,3D MRI density quadrant
+2654,exclude,Not a US population-based/registry study,educational BC mortality Europe
+2655,exclude,Not a US population-based/registry study,ovarian stimulation BC Sweden
+2656,exclude,Not a US population-based/registry study,Arab men perceptions Qatar
+2657,exclude,Not a US population-based/registry study,esophageal Malawi case-control
+2658,exclude,Not relevant to the research question/topic,acupressure lupus fatigue
+2659,exclude,Not a US population-based/registry study,cause-specific mortality BCIS Sweden

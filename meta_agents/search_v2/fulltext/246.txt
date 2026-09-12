@@ -1,0 +1,596 @@
+record_id=246 pmid=20567897 doi=10.1007/s10552-010-9601-y pmcid=PMC2941051
+TITLE: Does socioeconomic disparity in cancer incidence vary across racial/ethnic groups?
+
+Introduction
+Persistent findings of disparities in the occurrence and outcomes of cancer by socioeconomic status (SES) have resulted in growing recognition of the importance of monitoring such disparities for the purpose of prioritizing cancer control efforts. Population-based cancer registry data are an invaluable source in identifying such disparities, by measuring incidence, mortality, and survival in the population.
+Previous studies on disparities in cancer incidence have focused mainly on racial/ethnic disparity, particularly differences between black and white Americans, with some adjusting for the effect of SES [1–6]. While some studies have examined the simultaneous effects of race/ethnicity and SES on cancer incidence in populations including Hispanics and Asians [7–14], only two have looked at multiple major cancer sites [8, 12]. Because SES disparities may vary substantially across racial/ethnic groups, not only in magnitude but in the direction as well, treating SES as a confounding variable may conceal the true relationship among cancer incidence, SES, and race/ethnicity. To fill in the knowledge gap of whether and how SES disparity varies across groups defined by race/ethnicity and sex, we aim to describe SES disparity in cancer incidence within each of four major racial/ethnic groups (non-Hispanic white, black, Hispanic, and Asian/Pacific Islander) for five major cancers, including female breast cancer, colorectal cancer, cervical cancer, lung cancer, and prostate cancer.
+Because of the lack of individual-level SES information in public health databases, area-based SES measures derived from census data have often been used and were shown to be related to various health outcomes independent of individual-level SES [15–20]. The choice of geographic level depends on the SES measure being used, the size and the geographic distribution of the population, and the availability of data. While socioeconomic data from block groups, the smallest and most homogeneous census geographic level, provide the most accurate area-based SES measures, detailed population counts by age, sex, and race/ethnicity may only be available at census tract level. In this study, area-based SES measures at both census tract level and block group level were used and compared.
+Materials and methods
+Incidence data
+The study was based on invasive cancers diagnosed from 1998 to 2002 and reported to the California Cancer Registry (CCR). The CCR is California’s statewide population-based cancer surveillance system and has collected data on incident cancers diagnosed since 1988. Data are collected through a network of regional registries, which also participate in the Surveillance, Epidemiology, and End Results program of the National Cancer Institute. The following five leading cancers were included in the analysis: breast (female), cervical, colorectal, lung, and prostate cancer. Race/ethnicity was abstracted from medical record and classified into the same categories as in the census population data (non-Hispanic white, black, Hispanic, or Asian/Pacific Islander), while cases with other or unknown race were excluded. A Hispanic surname list was matched to last or maiden name to enhance the identification of Hispanic ethnicity, which is often underreported on medical records [21].
+Population data
+Population counts by sex, 5-year age group, race/ethnicity, and SES measures for each census tract and block group in California were based on the census 2000. Self-reported race was categorized as non-Hispanic white, black, Hispanic, or Asian/Pacific Islander (Asian/PI). These categories were not mutually exclusive: blacks and Asian/PIs who were of Hispanic ethnicity (around 1 percent of blacks and less than 0.1 percent of Asian/PIs) were included in the Hispanic category.
+SES measure
+Census population from the year 2000 and housing data [22] at census tract and block group level were used to create a composite SES score at each geographic level. This area-based composite SES measure, described in detail elsewhere [10], was created through principal component analysis and includes the following census variables: proportion with a blue-collar job, proportion older than 16 years in the workforce without a job, median household income, percent below 200% poverty level, median gross rent, median value of owner-occupied houses, and an education index [7]. In this study, composite SES scores were generated for all California 2000 census tracts (n = 7016) and block groups (n = 22,960) and were then ranked into quintiles. Cancer cases with missing census tract or block group were randomly assigned to a census tract or block group within their county of residence. The random allocation of census tract or block group was done with replacement [10]. This area-based SES measure has been used in many studies utilizing cancer registry data [23–28].
+Data analysis
+Incidence rates were age-adjusted to 2000 US standard population [29]. For each cancer, rates were stratified by race/ethnicity, sex, and SES score quintile. Following recommendations from the National Cancer Institute on methods for measuring cancer disparities [30], relative index of inequality (RII) was calculated using the highest socioeconomic level as the reference group. RII was chosen as a summary measure of SES disparity due to inherent limitations in the simpler measure of incidence rate ratio. For example, incidence rate ratios between the lowest and the highest SES group effectively ignore information on the in-between groups. Also, a comparison of potential SES gradients in cancer incidence among different racial/ethnic population groups can be distorted by differences in the population distribution of SES measures among these racial/ethnic groups. The RII has been considered as a summary measure of disparity that explicitly addresses these limitations [31].
+To calculate the RIIs, we first computed a rank variable for each SES category, as the mean proportion of the most affluent population. For example, if 30% of the population fell into the highest SES group, the rank variable was assigned a value of 0.30/2 = 0.15. This SES rank variable was computed separately for every race/ethnicity and sex stratum. Poisson regression models were then used with incidence rates in each SES category as the outcome variable and the ranked SES variable as the explanatory variable. The regression-based RII measures the SES inequality in incidence rates and can be interpreted as the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group. Therefore, with the highest SES quintile as reference, a RII value less than one means that cancer incidence was higher among persons living in higher SES area, and conversely, a RII value greater than one means the incidence was higher in lower SES areas. A RII that is further away from one means a greater SES gradient and greater SES disparity.
+Because the RII takes into account the distribution of the SES measure in the population, it allows meaningful comparison of SES disparity among populations with different SES distributions [32, 33]. All data analyses were conducted using SAS, version 9.1 (SAS Institute Inc., Cary, NC).
+Results
+The California population distribution by composite SES measure at census tract was very similar to that at block group for all racial/ethnic groups (Table 1). Over 54% of the non-Hispanic white population resided in the top two and only 23% resided in the bottom two SES quintiles; by contrast, more than 57% of the black population and more than 68% of the Hispanic population lived in the bottom two SES quintiles. The SES distribution in the Asian/Pacific Islander population was similar to that of the non-Hispanic white population. Cancer incidence cases initially selected from the CCR were 109,444 female breast cancers, 105,237 prostate cancers, 8,184 cervical cancers, 72,218 colorectal cancers, and 87,240 lung cancers. After excluding 7014 (about 1.8%) cases with other or unknown race, the final study subjects consist of 376,158 cancer cases (Table 2). About 18,733 (5.0%) cases with missing block group and 18,406 (4.9%) cases with missing census tract were randomly assigned to a census tract or block group within their county of residence. For all cancer sites included in the study, age-adjusted incidence rates (AAIR) stratified by SES at block group and at census tract were very similar (Table 2).Table 1Distribution of California population, by race/ethnicity (race/ethnicity categories were not mutually exclusive) and socioeconomic status (SES), census 2000SES levelNon-Hispanic whiteBlackHispanicAsian/Pacific IslanderNo.%No.%No.%No.%SES_BlockGroupa
+ 1 (lowest)1,160,1957.3688,40230.64,647,77142.5465,65212.2 22,518,60715.9604,36826.92,808,05225.7662,65217.4 33,545,27422.5478,90721.31,818,33416.6758,91419.9 44,043,58725.6320,88114.31,099,16510.0898,85723.6 5 (highest)4,523,78528.6153,9816.9570,7775.21,025,58726.9SES_CensusTractb
+ 1 (lowest)1,102,7517.0651,21528.94,568,94241.7458,12612.0 22,655,33416.8652,94729.02,849,14226.0663,90017.4 33,602,02922.8466,76920.71,851,62916.9752,91819.7 44,063,12225.7333,44014.81,107,76810.1916,81024.0 5 (highest)4,378,76027.7149,2586.6577,3335.31,021,26726.8Total15,791,4481002,246,53910010,944,0991003,811,662100
+aBlock group level SES measure
+bCensus tract level SES measure
+Table 2Age-adjusted (2000 US population) incidence rates by socioeconomic status (SES), sex, and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): selected cancer sites, California, 1998–2002Cancer site (n = 376,158)SES levelSES_BlockGroupa
+SES_CensusTractb
+Non-Hispanic WhiteBlackHispanicAsian/Pacific IslanderNon-Hispanic WhiteBlackHispanicAsian/Pacific IslanderBreast, female (n = 108,480)1 (lowest)147.2121.070.868.2147.8122.973.369.32141.4124.689.482.0142.1124.987.979.43149.9127.9103.794.0150.0123.0100.998.04158.8145.5116.599.2159.4144.4118.598.65 (highest)173.3137.1134.3106.1173.0139.3132.6104.8Prostate (n = 100,440)1 (lowest)159.3256.4124.580.2160.9253.5125.084.22149.2256.6141.687.3152.3253.9140.985.03157.7252.5158.999.7157.1261.1159.3101.64162.8289.4171.2107.3164.9284.5179.0106.05 (highest)184.2286.1221.7105.1181.9291.6210.8104.4Cervical (n = 8050)1 (lowest)15.014.920.915.115.815.020.314.8210.910.116.210.810.410.117.110.638.48.713.59.88.58.714.210.346.86.012.18.36.66.511.58.15 (highest)5.58.110.37.15.68.09.07.1Colorectal, male (n = 36,802)1 (lowest)72.574.141.550.973.975.142.851.9266.170.949.450.465.866.948.754.0362.570.653.752.661.569.754.651.1461.565.763.955.261.170.260.054.25 (highest)56.874.068.153.557.276.868.652.6Colorectal, female (n = 35,293)1 (lowest)53.758.328.734.952.456.627.936.5246.655.231.838.446.758.032.936.9345.756.435.240.345.456.736.540.9443.554.538.441.643.553.737.141.05 (highest)42.450.343.440.642.947.442.940.7Lung, male (n = 46,566)1 (lowest)133.6127.243.973.2130.4123.643.670.02103.7114.845.264.6100.7117.646.067.8389.4102.648.265.789.8107.950.063.7475.394.052.158.975.089.647.457.95 (highest)57.083.851.550.357.180.153.752.2Lung, female (n = 40,527)1 (lowest)85.960.221.029.182.861.621.529.9272.059.524.331.670.057.023.331.3361.957.326.030.562.757.225.830.2456.051.829.126.556.651.630.427.25 (highest)49.545.236.028.449.647.236.127.9
+aBlock group level SES measure
+bCensus tract level SES measure
+Table 1
+Distribution of California population, by race/ethnicity (race/ethnicity categories were not mutually exclusive) and socioeconomic status (SES), census 2000
+SES level
+Non-Hispanic white
+Black
+Hispanic
+Asian/Pacific Islander
+No.
+%
+No.
+%
+No.
+%
+No.
+%
+SES_BlockGroupa
+1 (lowest)
+1,160,195
+7.3
+688,402
+30.6
+4,647,771
+42.5
+465,652
+12.2
+2
+2,518,607
+15.9
+604,368
+26.9
+2,808,052
+25.7
+662,652
+17.4
+3
+3,545,274
+22.5
+478,907
+21.3
+1,818,334
+16.6
+758,914
+19.9
+4
+4,043,587
+25.6
+320,881
+14.3
+1,099,165
+10.0
+898,857
+23.6
+5 (highest)
+4,523,785
+28.6
+153,981
+6.9
+570,777
+5.2
+1,025,587
+26.9
+SES_CensusTractb
+1 (lowest)
+1,102,751
+7.0
+651,215
+28.9
+4,568,942
+41.7
+458,126
+12.0
+2
+2,655,334
+16.8
+652,947
+29.0
+2,849,142
+26.0
+663,900
+17.4
+3
+3,602,029
+22.8
+466,769
+20.7
+1,851,629
+16.9
+752,918
+19.7
+4
+4,063,122
+25.7
+333,440
+14.8
+1,107,768
+10.1
+916,810
+24.0
+5 (highest)
+4,378,760
+27.7
+149,258
+6.6
+577,333
+5.3
+1,021,267
+26.8
+Total
+15,791,448
+100
+2,246,539
+100
+10,944,099
+100
+3,811,662
+100
+aBlock group level SES measure
+bCensus tract level SES measure
+Table 2
+Age-adjusted (2000 US population) incidence rates by socioeconomic status (SES), sex, and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): selected cancer sites, California, 1998–2002
+Cancer site (n = 376,158)
+SES level
+SES_BlockGroupa
+SES_CensusTractb
+Non-Hispanic White
+Black
+Hispanic
+Asian/Pacific Islander
+Non-Hispanic White
+Black
+Hispanic
+Asian/Pacific Islander
+Breast, female (n = 108,480)
+1 (lowest)
+147.2
+121.0
+70.8
+68.2
+147.8
+122.9
+73.3
+69.3
+2
+141.4
+124.6
+89.4
+82.0
+142.1
+124.9
+87.9
+79.4
+3
+149.9
+127.9
+103.7
+94.0
+150.0
+123.0
+100.9
+98.0
+4
+158.8
+145.5
+116.5
+99.2
+159.4
+144.4
+118.5
+98.6
+5 (highest)
+173.3
+137.1
+134.3
+106.1
+173.0
+139.3
+132.6
+104.8
+Prostate (n = 100,440)
+1 (lowest)
+159.3
+256.4
+124.5
+80.2
+160.9
+253.5
+125.0
+84.2
+2
+149.2
+256.6
+141.6
+87.3
+152.3
+253.9
+140.9
+85.0
+3
+157.7
+252.5
+158.9
+99.7
+157.1
+261.1
+159.3
+101.6
+4
+162.8
+289.4
+171.2
+107.3
+164.9
+284.5
+179.0
+106.0
+5 (highest)
+184.2
+286.1
+221.7
+105.1
+181.9
+291.6
+210.8
+104.4
+Cervical (n = 8050)
+1 (lowest)
+15.0
+14.9
+20.9
+15.1
+15.8
+15.0
+20.3
+14.8
+2
+10.9
+10.1
+16.2
+10.8
+10.4
+10.1
+17.1
+10.6
+3
+8.4
+8.7
+13.5
+9.8
+8.5
+8.7
+14.2
+10.3
+4
+6.8
+6.0
+12.1
+8.3
+6.6
+6.5
+11.5
+8.1
+5 (highest)
+5.5
+8.1
+10.3
+7.1
+5.6
+8.0
+9.0
+7.1
+Colorectal, male (n = 36,802)
+1 (lowest)
+72.5
+74.1
+41.5
+50.9
+73.9
+75.1
+42.8
+51.9
+2
+66.1
+70.9
+49.4
+50.4
+65.8
+66.9
+48.7
+54.0
+3
+62.5
+70.6
+53.7
+52.6
+61.5
+69.7
+54.6
+51.1
+4
+61.5
+65.7
+63.9
+55.2
+61.1
+70.2
+60.0
+54.2
+5 (highest)
+56.8
+74.0
+68.1
+53.5
+57.2
+76.8
+68.6
+52.6
+Colorectal, female (n = 35,293)
+1 (lowest)
+53.7
+58.3
+28.7
+34.9
+52.4
+56.6
+27.9
+36.5
+2
+46.6
+55.2
+31.8
+38.4
+46.7
+58.0
+32.9
+36.9
+3
+45.7
+56.4
+35.2
+40.3
+45.4
+56.7
+36.5
+40.9
+4
+43.5
+54.5
+38.4
+41.6
+43.5
+53.7
+37.1
+41.0
+5 (highest)
+42.4
+50.3
+43.4
+40.6
+42.9
+47.4
+42.9
+40.7
+Lung, male (n = 46,566)
+1 (lowest)
+133.6
+127.2
+43.9
+73.2
+130.4
+123.6
+43.6
+70.0
+2
+103.7
+114.8
+45.2
+64.6
+100.7
+117.6
+46.0
+67.8
+3
+89.4
+102.6
+48.2
+65.7
+89.8
+107.9
+50.0
+63.7
+4
+75.3
+94.0
+52.1
+58.9
+75.0
+89.6
+47.4
+57.9
+5 (highest)
+57.0
+83.8
+51.5
+50.3
+57.1
+80.1
+53.7
+52.2
+Lung, female (n = 40,527)
+1 (lowest)
+85.9
+60.2
+21.0
+29.1
+82.8
+61.6
+21.5
+29.9
+2
+72.0
+59.5
+24.3
+31.6
+70.0
+57.0
+23.3
+31.3
+3
+61.9
+57.3
+26.0
+30.5
+62.7
+57.2
+25.8
+30.2
+4
+56.0
+51.8
+29.1
+26.5
+56.6
+51.6
+30.4
+27.2
+5 (highest)
+49.5
+45.2
+36.0
+28.4
+49.6
+47.2
+36.1
+27.9
+aBlock group level SES measure
+bCensus tract level SES measure
+Incidence rates for female breast cancer and for prostate cancer were higher among patients living in higher SES areas for all racial/ethnic groups (Table 2), but the magnitudes of SES gradients differed substantially. As shown in Table 3 and Fig. 1, the greatest SES gradient (as measured by RII) was observed among Hispanics for both breast cancer and prostate cancer. Breast cancer incidence rates among Hispanic women in the lowest SES areas were about half of the rates for those in the highest SES areas, while the rates for non-Hispanic white, black, and Asian/PI women in the lowest SES areas ranged from 66% to 85% of the rates for their counterparts in the highest SES areas. Prostate cancer rates among Hispanic men living in the lowest SES areas were about 58% of the rates among those in highest SES areas. For men in all other racial/ethnic groups, prostate cancer rates among those residing in the lowest SES areas ranged from 76 to 86% of the rates among those in the highest SES areas.Table 3Relative index of inequality (RII, represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals (CI) of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): selected cancer sites, California, 1998–2002Breast cancerProstate cancerCervical cancerColorectal cancerLung cancerFemaleMaleFemaleMaleFemaleMaleFemaleRII95% CIRII95% CIRII95% CIRII95% CIRII95% CIRII95% CIRII95% CINon-Hispanic White0.78(0.76, 0.80)0.80(0.78, 0.83)2.98(2.61, 3.40)1.25(1.19, 1.31)1.19(1.12, 1.25)2.40(2.31, 2.50)1.71(1.63, 1.79)Black0.85(0.78, 0.93)0.86(0.81, 0.91)2.77(2.01, 3.81)1.03(0.91, 1.17)1.11(0.97, 1.27)1.54(1.41. 1.68)1.26(1.12, 1.43)Hispanic0.50(0.47, 0.52)0.58(0.56, 0.60)2.18(1.93, 2.46)0.60(0.56, 0.64)0.62(0.57, 0.67)0.82(0.77, 0.87)0.60(0.55, 0.65)Asian/Pacific Islander0.66(0.61, 0.77)0.76(0.70, 0.81)2.26(1.77, 2.89)0.99(0.89, 1.10)0.88(0.78, 0.99)1.46(1.33, 1.60)1.16(1.02, 1.33)
+Fig. 1Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): female breast cancer and prostate cancer, California, 1998–2002
+Table 3
+Relative index of inequality (RII, represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals (CI) of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): selected cancer sites, California, 1998–2002
+Breast cancer
+Prostate cancer
+Cervical cancer
+Colorectal cancer
+Lung cancer
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+RII
+95% CI
+RII
+95% CI
+RII
+95% CI
+RII
+95% CI
+RII
+95% CI
+RII
+95% CI
+RII
+95% CI
+Non-Hispanic White
+0.78
+(0.76, 0.80)
+0.80
+(0.78, 0.83)
+2.98
+(2.61, 3.40)
+1.25
+(1.19, 1.31)
+1.19
+(1.12, 1.25)
+2.40
+(2.31, 2.50)
+1.71
+(1.63, 1.79)
+Black
+0.85
+(0.78, 0.93)
+0.86
+(0.81, 0.91)
+2.77
+(2.01, 3.81)
+1.03
+(0.91, 1.17)
+1.11
+(0.97, 1.27)
+1.54
+(1.41. 1.68)
+1.26
+(1.12, 1.43)
+Hispanic
+0.50
+(0.47, 0.52)
+0.58
+(0.56, 0.60)
+2.18
+(1.93, 2.46)
+0.60
+(0.56, 0.64)
+0.62
+(0.57, 0.67)
+0.82
+(0.77, 0.87)
+0.60
+(0.55, 0.65)
+Asian/Pacific Islander
+0.66
+(0.61, 0.77)
+0.76
+(0.70, 0.81)
+2.26
+(1.77, 2.89)
+0.99
+(0.89, 1.10)
+0.88
+(0.78, 0.99)
+1.46
+(1.33, 1.60)
+1.16
+(1.02, 1.33)
+Fig. 1
+Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): female breast cancer and prostate cancer, California, 1998–2002
+SES gradients of cervical cancer rates also varied among the racial/ethnic groups, but unlike female breast cancer and prostate cancer, rates were always higher for women living in lower SES areas (Table 2). Larger gradients were observed among non-Hispanic white and black women (Fig. 2). Based on RII estimates, cervical cancer rates for non-Hispanic white, black, Hispanic, and Asian/PI women living in the lowest SES areas were between two and three times higher than rates for women in the highest SES areas (Table 3; Fig. 2).Fig. 2Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): cervical cancer, California, 1998–2002
+Fig. 2
+Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): cervical cancer, California, 1998–2002
+No apparent SES gradient was detected for colorectal cancer rates among black and Asian/PI men (Table 3). A small to moderate gradient in favor of people living in higher SES areas was shown among non-Hispanic white men and women (Fig. 3). Compared to women living in higher SES areas, black women living in lower SES areas had slightly higher rates, but the SES gradient did not reach statistical significance. Strikingly different was the direction and magnitude of SES gradient among Hispanic men and women. Colorectal cancer rates were over 60% higher for Hispanic people living in the highest versus the lowest SES areas. Asian/PI women living in higher SES areas also had higher rates for colorectal cancer, although at a lesser scale.Fig. 3Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): colorectal cancer, California, 1998–2002
+Fig. 3
+Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): colorectal cancer, California, 1998–2002
+The pattern of SES gradients of lung cancer rates also differed greatly by sex and race/ethnicity (Table 3; Fig. 4). SES gradients in favor of higher SES areas were seen among all but Hispanics: residing in lower SES areas was associated with higher lung cancer rates for both men and women. The SES gradients were greater for men than for women in each of the three racial/ethnic groups, with the greatest gradient among non-Hispanic white men. Compared to those living in the highest SES areas, non-Hispanic white men living in the lowest SES areas had lung cancer rates 2.4 times as high. SES gradients for lung cancer rates were smaller among black men and Asian men (about 1.5 times as high in the lowest vs. the highest SES areas). The rank of SES gradients among non-Hispanic white, black, and Asian/PI women was similar to that among men, with the greatest gradient in non-Hispanic white (RII = 1.7), followed by black (RII = 1.3) and Asian/PI (RII = 1.2). SES gradients of lung cancer among Hispanic men and women, however, were at a different direction. For Hispanics, unlike all the other racial/ethnic groups, it was people residing in higher socioeconomic areas who had higher lung cancer incidence rates. Lung cancer incidence rates for Hispanic men and women living in the highest socioeconomic areas were 20 and 66% higher compared to their counterparts living in the lowest socioeconomic areas.Fig. 4Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): lung cancer, California, 1998–2002
+Fig. 4
+Relative index of inequality (RII, it represents the ratio of cancer incidence in the lowest to the incidence in the highest socioeconomic group) for socioeconomic status and 95% confidence intervals of cancer incidence rates by sex and race/ethnicity (consistent with the census 2000, race/ethnicity categories were not mutually exclusive): lung cancer, California, 1998–2002
+Discussion
+In agreement with the limited number of studies on SES disparities of cancer incidence in multiracial populations [7, 8, 10, 12], breast cancer incidence rates among white, Hispanic, and Asian/PI women were higher with increased SES. The SES gradient among black women, which has been inconsistently reported in the literature, was also significant although less substantial. Similar to two previous studies on breast cancer and SES, which were also based on California data [8, 10], the largest SES gradient of breast cancer incidence detected in this study was among Hispanic women. The overall lower breast cancer incidence rates, lower screening rates among Hispanic women of lower SES [34], plus possibly larger gaps in reproductive factors across SES strata are likely to be the major contributing factors for the sharper SES gradient among Hispanic women. Fertility rates among Hispanic women are higher than those in any other racial/ethnic groups [35], and Mexican-American women in particular have the highest fertility rates in every age group [36]. Foreign-born immigrants from Mexico make up a large proportion of the Hispanic population of lower SES in California [37]. Compared to their native or naturalized counterparts, they have a much lower education attainment, which has been linked to early childbearing and having more children [38, 39]. It is likely that the differences in fertility across SES were larger in Hispanic women compared to women of other race/ethnicity, thus contributing to the biggest SES disparity within any racial/ethnic groups.
+Similar to SES gradients uncovered for breast cancer, prostate cancer incidence rates increased with SES among all four racial/ethnic groups. The positive association between SES and prostate cancer incidence is likely to stem at least in part from the increased usage of PSA testing among men of higher SES. Hoffman [40] found that being non-Hispanic white, younger, better educated, and healthier were traits associated with screening-detected prostate cancer, as opposed to clinically diagnosed disease. However, screening alone does not fully explain the SES gradient in prostate cancer incidence. In a study by Cheng et al. [13], SES gradient persisted not only in non-aggressive disease, the type of tumor most likely to be detected through PSA screening, but also in aggressive disease. Research on how the interaction between SES, stress, and social support affects prostate cancer risk has been inconclusive [41, 42]. Interestingly, similar to the SES gradient of breast cancer incidence in Hispanic women, Hispanic men had the strongest within-racial group SES gradient, although prostate incidence rates were much lower compared to black and non-Hispanic white men. Hispanic men tend to have lower PSA screening use than other racial/ethnic groups [43], and it is likely that those of low SES are even less likely to be screened.
+While the incidence of breast and prostate cancers increased with SES, the opposite was true for cervical cancer. Steep SES gradients were seen in all four racial groups [8, 12, 44]. Sharp SES disparities in cervical cancer incidence are likely due to disparities in screening and differences in cervical cancer risk factors [45]. Studies have suggested that female adolescents from families of lower SES had first sexual intercourse at an early age [46, 47] and were less likely to use condoms [46] compared to peers from families of higher SES. Besides, women of lower SES generally had higher fertility than those of higher SES. These factors all contribute to higher HPV prevalence, the main risk factor for cervical cancer. Lower cervical cancer screening rates among women of lower SES also increase their risk of cervical cancer as regular gynecologic examinations and Pap tests can detect and treat precancerous abnormalities. The SES gradient was much stronger among non-Hispanic white women than in any other group, even though their incidence rates of cervical cancer are lower than rates among black and Hispanic women. This strong gradient may be explained by the very low incidence rates of the disease among non-Hispanic white women in the highest SES group.
+In contrast, the SES gradient for lung cancer incidence varied by race/ethnicity, not only in magnitude but also in direction. Among all but the Hispanic population, lower SES was associated with increased lung cancer incidence, an association that has been previously reported [48]. However, the strong SES gradient detected among Hispanics in California was in the opposite direction, in that lung cancer incidence increased with increased SES. Different smoking and SES associations among Hispanic vs. the non-Hispanic populations likely accounted for the different direction of SES gradient. A positive association between acculturation and smoking among Hispanic (predominantly Mexican) women was described in a review by Bethel and Schenker [49]. Among Mexican-Americans, the vast majority of California’s Hispanic population, acculturation and SES are closely related in that people of lower acculturation level tend to be of lower SES position. In fact, higher household income and higher level of acculturation were shown to be associated with higher smoking prevalence among California’s Hispanics [50] and that probably explained the higher incidence of lung cancer among Hispanics in higher SES groups. Although the prevalence of smoking among Hispanic women in general was much lower compared to women in other racial/ethnic groups, there have been worrisome suggestions that the tobacco industry has increasingly aimed their advertising toward Hispanic women, both Spanish speaking and English speaking [51].
+Similar to lung cancer, the SES gradient of colorectal cancer incidence varied by race/ethnicity both in magnitude and in direction. Our study found a small but significant negative association between SES and colorectal cancer incidence among non-Hispanic whites, in agreement with some previous studies [2], while the SES gradient detected among Asian/PI females and Hispanic men and women was in the opposite direction (i.e., higher SES was associated with higher colorectal incidence). The opposite SES gradient among Hispanic versus among non-Hispanic white population may be partly explained by a different relationship between SES and several colorectal cancer risk factors such as diet, obesity, and smoking. Findings on the association between acculturation and/or SES, diet and obesity in American Hispanic populations have not been consistent [52, 53]. One study observed obesity levels decreased with increasing SES in Mexican women but not Mexican men [54], yet another study found that higher SES was associated with an increased incidence of obesity in Mexican-American men and women [55]. A diet high in red meat or processed meat appears to be associated with an increased incidence of colorectal cancer risk, while diets high in vegetables and fruits have been linked with a decreased risk of the disease [56–59]. According to California Health Interview Survey 2005 data [60], healthier diet choices (eating more fruits and vegetables and less fast food) were observed among non-Hispanic whites with higher household income and among Hispanics with lower household income. In a recent review article [53] on the relationship of acculturation and diet among Hispanics, less acculturated Hispanics were generally of lower SES and consumed more fruit, rice, beans, and less sugar than their counterparts. Thus, they may be at lower risk of colorectal cancer compared to the more acculturated Hispanics from higher SES groups.
+Limitations
+Census blocks are the smallest geographic area for which the Census Bureau collects and tabulates decennial census data; they are more homogeneous with regard to SES than census tracts or counties. However, because the Census Bureau has to comply with requirements of the Disclosure Review Board [61], it may not always be feasible to obtain population and SES data at block group level. In our study, SES disparities in cancer incidence, stratified by race/ethnicity and sex, yielded very similar results for both census tract and block group area-based SES measures. Krieger et al. [62] had also shown that block group and census tract socioeconomic measures performed comparably within the states of Massachusetts and Rhode Island. Therefore, when census data at block group level are not available, it would be a reasonable choice to use census tract level data to calculate area-based SES measures.
+Although the population of California is racially and socioeconomically diverse, the variations of the SES disparity in cancer incidence reported in our study may not represent the experience of other states or the general U.S. population. In particular, the cancer disparity phenomenon observed among the California Hispanics, who are mostly of Mexican descent, may not apply to other Hispanic populations.
+Nevertheless, results of the current study highlight the importance of examining SES disparity of cancer incidence stratified by race/ethnicity in order to understand the complex relationships between cancer incidence, SES, and race/ethnicity. The most striking finding was the distinctly different pattern of SES disparity in the incidence of several leading cancers for Hispanics versus other racial/ethnic groups. The uniqueness of the SES disparity pattern in Hispanics might be explained by their overall lower cancer incidence and potentially different interactions between SES and certain cancer risk factors (smoking, diet/obesity, physical activity, and reproductive factors, etc.). According to census population projections, Hispanics will account for 44% of the population growth in the nation and 67% of the growth in California [63]. Therefore, it is important to describe and to understand the unique SES disparity of cancer incidence within this population in order to develop effective programs to reduce SES disparities and the cancer burden in this population.

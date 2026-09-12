@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1880,exclude,Not relevant to the research question/topic,perineural spread brachial plexus
+1881,exclude,Not a US population-based/registry study,THP neoadjuvant China
+1882,exclude,Not relevant to the research question/topic,sleep disorders cancer VA
+1883,exclude,"Editorials, commentaries, letters, or conference abstracts",cancer incidence Medicaid HIV conference paper
+1884,exclude,Not a US population-based/registry study,HBOC Afro-Caribbean genetics
+1885,exclude,Not relevant to the research question/topic,PM2.5 BC incidence NIH-AARP
+1886,exclude,Not relevant to the research question/topic,IBC proportion/prognosis NH/PI
+1887,exclude,Not a US population-based/registry study,MRI wire localization China
+1888,exclude,Not relevant to the research question/topic,PD-L1 AURKA TNBC
+1889,exclude,Not relevant to the research question/topic,breast/cervical transgender men case report
+1890,exclude,Not relevant to the research question/topic,SVI screening/incidence/mortality counties
+1891,exclude,Not a US population-based/registry study,inetetamab China
+1892,exclude,Not relevant to the research question/topic,CRC Crohn's US vs Korean
+1893,exclude,Not a US population-based/registry study,HIF1A Bangladeshi
+1894,exclude,Not relevant to the research question/topic,GLP-1 lymphedema ALND
+1895,exclude,Not a US population-based/registry study,Anshen Dingzhi PTSD China
+1896,exclude,Not a US population-based/registry study,health inequalities BC England short survey
+1897,exclude,Not relevant to the research question/topic,RT elderly TNBC SEER
+1898,exclude,Not a US population-based/registry study,angiosarcoma Asian cohort
+1899,exclude,Not relevant to the research question/topic,PTPN HCC biomarker
+1900,exclude,Not relevant to the research question/topic,vasomotor symptoms treatment
+1901,exclude,Not relevant to the research question/topic,MHC-I/II biomarkers cohort
+1902,exclude,Not a US population-based/registry study,CDK4/6 China cross-sectional
+1903,exclude,Not relevant to the research question/topic,COVID mammography screening
+1904,exclude,Not relevant to the research question/topic,persistent poverty survival SEER
+1905,exclude,Not relevant to the research question/topic,SDoH AYA TriNetX
+1906,exclude,Not relevant to the research question/topic,patient-detected BC detection method
+1907,exclude,Not relevant to the research question/topic,geographic variation BC Sister Study
+1908,exclude,Not a US population-based/registry study,CBC age Korea
+1909,exclude,Not relevant to the research question/topic,FAPI PET/CT imaging
+1910,exclude,Not a US population-based/registry study,Arab countries GLOBOCAN
+1911,exclude,Not relevant to the research question/topic,FAPI PET/CT imaging
+1912,exclude,Not a US population-based/registry study,physical activity cancer UK Biobank
+1913,exclude,Not relevant to the research question/topic,intratumoral microbiota racial
+1914,exclude,Not a US population-based/registry study,thyroid overdiagnosis Korea
+1915,exclude,Not a US population-based/registry study,BC burden Iran GBD
+1916,exclude,Not relevant to the research question/topic,male BC reconstruction NSQIP
+1917,exclude,Not relevant to the research question/topic,obesity BC meta-analysis
+1918,exclude,Not a US population-based/registry study,BCS BRICS ecological
+1919,exclude,Not relevant to the research question/topic,cancer SPED trials mapping review
+1920,exclude,Not a US population-based/registry study,mtDNA heteroplasmy UK Biobank
+1921,exclude,Not a US population-based/registry study,TNBC Iran cross-sectional
+1922,exclude,Not a US population-based/registry study,cancer incidence income South Korea
+1923,exclude,Not relevant to the research question/topic,CVD mortality cancer social disparities US
+1924,exclude,Not relevant to the research question/topic,home values cancer mortality Ohio
+1925,exclude,Not relevant to the research question/topic,cancer pain alcohol BRFSS
+1926,exclude,Not a US population-based/registry study,Shengmai San cardiotox China trial
+1927,exclude,"Editorials, commentaries, letters, or conference abstracts",RED hypertension US women conference paper
+1928,exclude,Not a US population-based/registry study,cancer incidence income Canada
+1929,exclude,Not a US population-based/registry study,global cancer transitions modelling
+1930,exclude,Not relevant to the research question/topic,oncoplastic PRO BREAST-Q
+1931,exclude,Not a US population-based/registry study,TNBC prediction Korea
+1932,exclude,Not relevant to the research question/topic,long-term cancer survival by stage
+1933,exclude,Not relevant to the research question/topic,AI ultrasound racial non-bias
+1934,exclude,Not relevant to the research question/topic,IL-2 rectal cancer trial
+1935,exclude,Not relevant to the research question/topic,CVD breast/gyn Black SCCS
+1936,exclude,"Editorials, commentaries, letters, or conference abstracts",abortion perceptions conference paper
+1937,exclude,Not a US population-based/registry study,cancer mortality Japan registry
+1938,exclude,Not a US population-based/registry study,survival monitoring Russian registries
+1939,exclude,Not relevant to the research question/topic,HER2 ADC ancestry thrombocytopenia

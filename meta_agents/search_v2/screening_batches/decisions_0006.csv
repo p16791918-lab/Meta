@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+340,exclude,Not relevant to the research question/topic,ethnic-enclave ecological multi-cancer
+341,exclude,Not relevant to the research question/topic,TNBC treatment/outcomes
+342,exclude,Not relevant to the research question/topic,risk factors case-control Carolina
+343,exclude,Not relevant to the research question/topic,germline TNBC genetics international
+344,exclude,Not relevant to the research question/topic,second nonbreast malignancies post-RT
+345,exclude,Not relevant to the research question/topic,age-interaction pathway analysis
+346,include,,USCS age-specific black-white incidence 1999-2014
+347,exclude,Not relevant to the research question/topic,smoking/mortality
+348,exclude,Not relevant to the research question/topic,mental illness mortality
+349,exclude,Not relevant to the research question/topic,exercise risk-factor case-control
+350,exclude,Not relevant to the research question/topic,isoflavone diet risk-factor MEC
+351,exclude,Not relevant to the research question/topic,screening risk-prediction model
+352,exclude,Not relevant to the research question/topic,RT second malignancies
+353,exclude,Not relevant to the research question/topic,endogenous hormone biomarker MEC
+354,include,,SEER Hispanic incidence rates geographic variation
+355,exclude,Not relevant to the research question/topic,Filipina risk-factors case-control
+356,exclude,Not relevant to the research question/topic,bisphosphonate contralateral BC
+357,exclude,Not relevant to the research question/topic,mammography use/detection
+358,include,,Annual Report to Nation incidence by race (comorbidity feature)
+359,exclude,Not relevant to the research question/topic,reproductive risk-factor case-control
+360,exclude,Not relevant to the research question/topic,registry coverage methodology
+361,include,,SEER incidence by race/ethnicity post-WHI decline
+362,include,,Annual Report to Nation incidence by race (survival feature)
+363,exclude,Not relevant to the research question/topic,fruit/vegetable diet risk-factor cohort
+364,exclude,Not relevant to the research question/topic,tumor natural history stage modeling
+365,exclude,Not relevant to the research question/topic,DCIS treatment Louisiana
+366,exclude,Not relevant to the research question/topic,AAPI air-pollutant exposure ecological
+367,exclude,Not relevant to the research question/topic,DCIS mortality
+368,exclude,Not relevant to the research question/topic,secular incidence trends not by race
+369,include,,NPCR+SEER young-women incidence by race/ethnicity
+370,exclude,Not relevant to the research question/topic,genetic-ancestry risk factors Hispanic
+371,exclude,Not relevant to the research question/topic,male breast cancer management
+372,exclude,Not relevant to the research question/topic,risk-factor mediation all-cancer cohort
+373,exclude,Not relevant to the research question/topic,alcohol/smoking risk-factor Asian-American
+374,exclude,"Editorials, commentaries, letters, or conference abstracts",conference-proceedings research-agenda commentary
+375,exclude,Not relevant to the research question/topic,chemo dosing/toxicity
+376,exclude,Not relevant to the research question/topic,segregation risk-factor cohort MEC
+377,include,,SEER invasive incidence IRR by race/ethnicity/age
+378,exclude,Not relevant to the research question/topic,second primary cancers Asian subgroups
+379,exclude,"Editorials, commentaries, letters, or conference abstracts",short survey/commentary no abstract
+380,exclude,Not relevant to the research question/topic,familial-risk family registry
+381,include,,Atlanta triple-subtype incidence rates by age/race
+382,exclude,Not relevant to the research question/topic,birthweight risk-factor case-control
+383,include,,SEER ER/PR subtype rates by 6 racial/ethnic groups
+384,include,,Annual Report to Nation Hispanic incidence 1975-2003
+385,include,,disaggregated AANHPI incidence rates (stage focus)
+386,exclude,Not relevant to the research question/topic,fatal-BC risk factors cohort
+387,exclude,Not relevant to the research question/topic,vitamin D risk-factor BWHS
+388,exclude,Not relevant to the research question/topic,COVID incidence deficit not race
+389,exclude,Not relevant to the research question/topic,NCDB young BC characteristics/survival
+390,exclude,Not relevant to the research question/topic,sentinel lymph node biopsy treatment
+391,exclude,Not relevant to the research question/topic,post-choriocarcinoma BC risk
+392,exclude,Not relevant to the research question/topic,hysterectomy risk-factor case-control
+393,exclude,Not relevant to the research question/topic,hip-fracture outcome
+394,exclude,Not relevant to the research question/topic,Indian-Pakistani clinical features/treatment/survival
+395,exclude,Not relevant to the research question/topic,genetic-admixture methods
+396,exclude,Not relevant to the research question/topic,lifestyle-adherence risk-factor cohort
+397,exclude,Not relevant to the research question/topic,FQHC mammography MIR ecological
+398,exclude,Not a US population-based/registry study,US-Malaysia international comparison
+399,exclude,Not relevant to the research question/topic,NHW-only SFBA incidence/risk factors

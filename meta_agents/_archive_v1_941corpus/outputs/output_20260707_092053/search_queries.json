@@ -1,0 +1,27 @@
+{
+  "mode": "multi",
+  "pubmed": "(\"Skin Neoplasms\"[Mesh] OR \"Melanoma\"[Mesh] OR \"Carcinoma, Basal Cell\"[Mesh] OR \"Carcinoma, Squamous Cell\"[Mesh] OR skin cancer*[tiab] OR cutaneous melanoma*[tiab] OR malignant melanoma*[tiab] OR basal cell carcinoma*[tiab] OR squamous cell carcinoma*[tiab] OR non-melanoma skin cancer*[tiab] OR NMSC[tiab] OR keratinocyte carcinoma*[tiab]) AND ((\"Racial Groups\"[Mesh] OR \"Ethnic Groups\"[Mesh] OR \"Continental Population Groups\"[Mesh] OR \"Black or African American\"[Mesh] OR \"Hispanic or Latino\"[Mesh] OR \"Asian Americans\"[Mesh] OR \"American Indian or Alaska Native\"[Mesh] OR \"White People\"[Mesh] OR \"Healthcare Disparities\"[Mesh] OR \"Health Status Disparities\"[Mesh]) OR (race*[tiab] OR ethnic*[tiab] OR racial dispar*[tiab] OR health dispar*[tiab] OR African American*[tiab] OR Black[tiab] OR Hispanic*[tiab] OR Latino*[tiab] OR Latina*[tiab] OR Asian[tiab] OR Pacific Islander*[tiab] OR American Indian*[tiab] OR Alaska Native*[tiab] OR Native American*[tiab] OR Non-Hispanic White*[tiab] OR Caucasian*[tiab] OR skin of color[tiab] OR people of color[tiab])) AND (\"Incidence\"[Mesh] OR \"Prevalence\"[Mesh] OR \"SEER Program\"[Mesh] OR \"Registries\"[Mesh] OR incidence rate*[tiab] OR prevalence[tiab] OR age-adjusted rate*[tiab] OR population-based[tiab] OR cancer registry[tiab] OR SEER[tiab]) AND (\"Cohort Studies\"[Mesh] OR \"Cross-Sectional Studies\"[Mesh] OR \"Epidemiologic Studies\"[Mesh] OR cohort[tiab] OR cross-sectional[tiab] OR registry-based[tiab] OR population-based[tiab] OR observational[tiab]) AND (\"2000/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) AND (English[lang] OR Korean[lang])",
+  "cochrane": "#1 MeSH descriptor: [Skin Neoplasms] explode all trees\n#2 MeSH descriptor: [Melanoma] explode all trees\n#3 MeSH descriptor: [Carcinoma, Basal Cell] explode all trees\n#4 MeSH descriptor: [Carcinoma, Squamous Cell] explode all trees\n#5 (skin cancer* OR cutaneous melanoma* OR basal cell carcinoma* OR squamous cell carcinoma* OR \"non-melanoma skin cancer*\" OR NMSC):ti,ab,kw\n#6 {OR #1-#5}\n#7 MeSH descriptor: [Racial Groups] explode all trees\n#8 MeSH descriptor: [Ethnic Groups] explode all trees\n#9 MeSH descriptor: [Healthcare Disparities] explode all trees\n#10 (race* OR ethnic* OR \"racial dispar*\" OR \"health dispar*\" OR \"African American*\" OR Black OR Hispanic* OR Latino* OR Latina* OR Asian OR \"Pacific Islander*\" OR \"American Indian*\" OR \"Alaska Native*\" OR \"Native American*\" OR \"Non-Hispanic White*\" OR Caucasian*):ti,ab,kw\n#11 {OR #7-#10}\n#12 MeSH descriptor: [Incidence] explode all trees\n#13 MeSH descriptor: [Prevalence] explode all trees\n#14 (incidence OR prevalence OR \"age-adjusted rate*\" OR \"population-based\" OR \"cancer registry\" OR SEER):ti,ab,kw\n#15 {OR #12-#14}\n#16 #6 AND #11 AND #15\n#17 #16 with Cochrane Library publication date from Jan 2000 to Dec 2025, in Trials",
+  "embase": "1. exp skin tumor/\n2. exp melanoma/\n3. exp basal cell carcinoma/\n4. exp squamous cell carcinoma/\n5. (skin cancer* or cutaneous melanoma* or malignant melanoma* or basal cell carcinoma* or squamous cell carcinoma* or non-melanoma skin cancer* or NMSC or keratinocyte carcinoma*).ti,ab,kw.\n6. 1 or 2 or 3 or 4 or 5\n7. exp race difference/\n8. exp ethnic group/\n9. exp health care disparity/\n10. exp African American/\n11. exp Hispanic/\n12. exp Asian/\n13. exp American Indian/\n14. exp Caucasian/\n15. (race* or ethnic* or racial dispar* or health dispar* or African American* or Black or Hispanic* or Latino* or Latina* or Asian or Pacific Islander* or American Indian* or Alaska Native* or Native American* or Non-Hispanic White* or Caucasian*).ti,ab,kw.\n16. 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15\n17. exp incidence/\n18. exp prevalence/\n19. exp cancer registry/\n20. (incidence or prevalence or age-adjusted rate* or population-based or cancer registry or SEER).ti,ab,kw.\n21. 17 or 18 or 19 or 20\n22. exp cohort analysis/\n23. exp cross-sectional study/\n24. exp observational study/\n25. 22 or 23 or 24\n26. 6 and 16 and 21 and 25\n27. limit 26 to (yr=\"2000-2025\" and (english or korean) and human)",
+  "mesh_terms": [
+    "Racial Groups[Mesh]",
+    "Ethnic Groups[Mesh]",
+    "Continental Population Groups[Mesh]",
+    "Healthcare Disparities[Mesh]",
+    "Health Status Disparities[Mesh]",
+    "Black or African American[Mesh]",
+    "Hispanic or Latino[Mesh]",
+    "Asian Americans[Mesh]",
+    "American Indian or Alaska Native[Mesh]",
+    "White People[Mesh]",
+    "Skin Neoplasms[Mesh]",
+    "Melanoma[Mesh]",
+    "Carcinoma, Basal Cell[Mesh]",
+    "Carcinoma, Squamous Cell[Mesh]",
+    "Incidence[Mesh]",
+    "Prevalence[Mesh]",
+    "SEER Program[Mesh]",
+    "Registries[Mesh]"
+  ],
+  "total_records": 240
+}

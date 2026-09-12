@@ -1,0 +1,692 @@
+record_id=5 pmid=42118535 doi=10.1001/jamanetworkopen.2026.12042 pmcid=PMC13169397
+TITLE: Stage IV Breast Cancer Incidence and Survival, 2010-202
+
+Introduction
+Breast cancer is the most common cancer diagnosed in females worldwide. Approximately 30% of patients develop metastases during the disease course.1,2 Breast cancer incidence rates have risen in the past 4 decades; from 2012 through 2021, the rate increased by 1% annually.3
+Trends in the incidence of de novo stage IV breast cancer in the general population and trends in the percentage with stage IV among individuals diagnosed with breast cancer remain underreported. A previous study evaluating trends in incidence of distant disease in the US before 2010 showed a statistically significant increase in incidence for younger patients and a statistically significant decrease in older patients.4 A meta-analysis reported a decreasing percentage of stage IV presentation over time.5
+More recent population-based work has highlighted heterogeneity in metastatic presentation and outcomes by age and tumor biology and has emphasized the need for contemporary incidence and survival estimates across stage categories.1,6 In addition, stage at diagnosis and metastatic outcomes differ by race and ethnicity and are shaped by differences in access to screening and timely diagnosis, structural inequities, and tumor subtype distribution. Collectively, these data underscore a persistent knowledge gap: contemporary US population-level estimates of time trends in de novo stage IV incidence, percentage with stage IV at diagnosis, and survival across age, race and ethnicity, tumor subtype, and sex, including males, remain limited.
+We evaluated the time trends in age-adjusted incidence rates, percentage of stages I to III vs IV disease at presentation, and survival of patients diagnosed with de novo stage IV breast cancer in the US from 2010 through 2021. We hypothesized that the incidence and percentage of de novo stage IV breast cancer increased over time and that survival improved over the study period, with heterogeneity by tumor subtype and demographic subgroup. Considering the current increasing pattern in breast cancer incidence in the US,3 knowing whether this increase reflects increase in stages I to III or stage IV diagnoses, or both, has important health care policy and clinical implications.
+Methods
+Data Source
+This was a retrospective, population-based cohort study of individuals diagnosed with invasive breast cancer from 2010 through 2021. Using data from the Surveillance, Epidemiology, and End Results (SEER) program 17 registry database, we included all individuals diagnosed with invasive breast cancer between January 1, 2010, and December 31, 2021; in situ (stage 0) cases were not included. No exclusion criteria were applied. Cases without histologic confirmation and cases identified by autopsy only or death certificate only were retained to preserve population-based incidence estimates. The SEER database includes information on cancer incidence, treatment, and survival for approximately 46% of the US population.7 The SEER program registries also collect data on patient demographics, primary tumor site, tumor morphology and stage at diagnosis, first course of treatment, and follow-up for vital status. Although SEER is designed to capture geographically and demographically diverse populations, it is not a random national sample and may overrepresent certain regions and demographic groups. Given that we used deidentified data, this study was exempt from institutional review board. Because the study was not considered human participants’ research, informed consent was waived. This study followed the Strengthening the Reporting of Observation Studies in Epidemiology (STROBE) reporting guideline for cohort studies.
+Outcomes and Independent Variable for Temporal Analyses
+The primary outcome was age-adjusted incidence rates of invasive breast cancer by stage and tumor subtype. We evaluated the percentage of stage IV disease among breast cancer diagnoses by calendar year. For patients with stage IV disease, overall survival (OS) and breast cancer–specific survival (BCSS) were evaluated. Calendar year of diagnosis was the primary independent variable for temporal analyses.
+Covariates and Variable Classification
+Race and ethnicity were obtained from SEER, as abstracted by tumor registrars. Race and ethnicity were assessed to describe the study population and to evaluate incidence. Categories included Hispanic (all races), non-Hispanic American Indian or Alaska Native, non-Hispanic Asian or Pacific Islander, non-Hispanic Black, non-Hispanic White, and unknown and were analyzed as reported in SEER. The variables analyzed from SEER for this study included age at diagnosis, race and ethnicity, sex, marital status, median household income in the county of residence at diagnosis, population size in area of residence, year of diagnosis, tumor grade, tumor histologic findings, tumor subtype, stage at diagnosis, type of surgery, chemotherapy, radiation therapy, sites of metastases, vital status, and cause of death.
+Tumor subtype was classified into 5 subcategories based on the breast cancer subtype variable on SEER without modification: hormone receptor (HR)–positive/ERBB2 (formerly HER2)-negative, HR-positive/ERBB2-positive, HR-negative/ERBB2-positive, triple-negative, and unknown. Invasive breast cancer cases were categorized based on SEER-derived American Joint Committee on Cancer, seventh edition, stage at initial diagnosis as stages I to III (ie, patients diagnosed with stage I, II, or III), stage IV (ie, patients diagnosed with de novo stage IV), and unknown when stage information was unavailable.
+Statistical Analysis
+Patient and tumor characteristics were calculated by frequency and percentage, and their distributions were compared between patients diagnosed with stages I to III vs stage IV breast cancer. Patients with unknown disease stage were not included in the comparisons. Comparisons used the χ2 test. We calculated age-adjusted incidence rates by stage, tumor subtype, age, race and ethnicity, and sex. Age categories (<40, 40-49, 50-74, and >74 years) were defined a priori to reflect breast cancer screening recommendations during the study period rather than insurance eligibility thresholds. The incidence was reported as the number of new diagnoses in a given year per 100 000 population, age-adjusted to the 2000 US standard population using the 19 age groups available in SEER*Stat, version 8.4.2. We assessed annual percentage change (APC) in age-adjusted incidence rates for 2010 through 2021. The APC was calculated as 100 × (exp[β] − 1), with the regression coefficient (β) estimated by fitting the least-squares regression line to the natural logarithm of the rates, using calendar year as a regressor variable. The 95% CIs are provided for each APC, and we tested the hypothesis that APC equals 0.
+Patients with missing data for a given variable were labeled as unknown for that variable and were included in all analyses. Variables with unknown categories are shown in the text, tables, and figures. Because missingness in registry-based variables may be nonrandom and unknown can represent meaningful clinical or documentation patterns, we retained these categories rather than performing multiple imputation.
+We described the percentage of stage IV disease for each tumor subtype and evaluated trends in the percentage of stage IV breast cancer over time using the Cuzick nonparametric test for trend,8 because percentages reflect the distribution of stage at diagnosis among breast cancer cases rather than population-based incidence rates, for which APC methods are designed. As a descriptive analysis, we evaluated OS of patients with stage IV of each tumor subtype by using the Kaplan-Meier method without adjustments or formal log-rank comparisons. OS was defined as time from breast cancer diagnosis until death or last follow-up for surviving patients.
+Among patients with stage IV breast cancer, we generated multivariable Cox proportional hazards regression models to assess changes in OS over time, with calendar year of diagnosis modeled as a continuous variable, stratified by tumor subtype and adjusted for age at diagnosis, race and ethnicity, sex, tumor grade, histologic findings, surgery, radiation therapy, chemotherapy, sites of distant metastases, marital status, median household income, rurality, and US region. These socioeconomic and geographic variables were included as covariates in survival analyses but were not incorporated into incidence APC models, which were population-based and descriptive in nature. We evaluated BCSS as a secondary end point in the same manner as OS. All P values reported were 2-sided, and P < .05 was considered statistically significant. Analyses were performed using Stata, version 12.0 (StataCorp LLC) and SPSS, version 26 (SPSS Inc). Data analysis was conducted from January 2024 to June 2025.
+Results
+Patient Characteristics
+Among 761 471 individuals (median [IQR or range] age at diagnosis, 60 [50-70] years; 99.2% female and 0.8% male) diagnosed with invasive breast cancer from 2010 through 2021, 714 112 (93.8%) had stages I to III and 43 934 (5.8%) had stage IV disease at diagnosis. Individuals with stage IV breast cancer had a median (IQR) age of 63 (53-73) years, with 45.7% (n = 20 073) being 65 years or older and 18.4% (n = 8093) younger than 50 years of age. The race and ethnicity of the entire cohort included 12.4% Hispanic (all races), 0.6% non-Hispanic American Indian or Alaska Native, 9.4% non-Hispanic Asian or Pacific Islander, 10.5% non-Hispanic Black, and 66.4% non-Hispanic White individuals. In the analytic cohort, 8359 cases (1.09%) lacked histologic confirmation, 98 were autopsy-only, and 3043 were death certificate–only.
+Compared with individuals with stages I–III disease, individuals with stage IV disease were more often non-Hispanic Black (15.3% vs 10.2%), had a lower median annual household income (eg, 25.1% vs 27.0% for $90 000-$119 999), and were less often married (42.3% vs 54.3%), less likely to have grade I tumors (4.3% vs 21.5%), and less likely to be HR-positive/ERBB2-negative (52.6% vs 70.3%) (Table 1). Other demographic and clinical characteristics of the overall study cohort are shown in Table 1 and are shown stratified by sex in eTable 1 in Supplement 1.
+Table 1.
+Characteristics of Patients in SEER Diagnosed With Invasive Breast Cancer From 2010 Through 2021, by Stage at Diagnosis
+Characteristic
+Patients, No. (%)
+Stage I-III
+Stage IV
+Unknown stage
+Total
+All patients
+714 112 (93.8)
+43 934 (5.8)
+3425 (0.4)
+761 471 (100.0)
+NA
+Age at diagnosis, y
+<50
+136 203 (19.1)
+8093 (18.4)
+510 (14.9)
+144 806 (19.0)
+<.001
+50-64
+257 831 (36.1)
+15 768 (35.9)
+1013 (29.6)
+274 612 (36.1)
+>64
+320 078 (44.8)
+20 073 (45.7)
+1902 (55.5)
+342 053 (44.9)
+Sex
+Female
+708 753 (99.2)
+43 400 (98.8)
+3377 (98.6)
+755 530 (99.2)
+<.001
+Male
+5359 (0.8)
+534 (1.2)
+48 (1.4)
+5941 (0.8)
+Race and ethnicity
+Hispanic (all races)
+88 754 (12.4)
+5454 (12.4)
+481 (14.0)
+94 689 (12.4)
+<.001
+Non-Hispanic American Indian or Alaska Native
+4302 (0.6)
+300 (0.7)
+28 (0.8)
+4630 (0.6)
+Non-Hispanic Asian or Pacific Islander
+67 727 (9.5)
+3562 (8.1)
+272 (7.9)
+71 561 (9.4)
+Non-Hispanic Black
+72 794 (10.2)
+6702 (15.3)
+493 (14.4)
+79 989 (10.5)
+Non-Hispanic White
+476 173 (66.7)
+27 760 (63.2)
+2005 (58.5)
+505 938 (66.4)
+Unknown
+4362 (0.6)
+156 (0.4)
+146 (4.3)
+4664 (0.6)
+Marital status at diagnosis
+Married
+387 565 (54.3)
+18 590 (42.3)
+1070 (31.2)
+407 225 (53.5)
+<.001
+Single
+105 348 (14.8)
+9664 (22.0)
+509 (14.9)
+115 521 (15.2)
+Domestic partner
+3335 (0.5)
+205 (0.5)
+5 (0.1)
+3545 (0.5)
+Other (separated, divorced, or widowed)
+179 276 (25.1)
+13 077 (29.8)
+1041 (30.4)
+193 394 (25.4)
+Unknown
+38 588 (5.4)
+2398 (5.5)
+800 (23.4)
+41 786 (5.5)
+Median household income, $
+≥120 000
+37 819 (5.3)
+2022 (4.6)
+140 (4.1)
+39 981 (5.3)
+<.001
+90 000-119 999
+192 962 (27.0)
+11 014 (25.1)
+759 (22.2)
+204 735 (26.9)
+70 000-89 999
+268 236 (37.6)
+16 659 (37.9)
+1520 (44.4)
+286 415 (37.6)
+55 000-69 999
+145 254 (20.3)
+9123 (20.8)
+596 (17.4)
+154 973 (20.4)
+40 000-54 999
+60 933 (8.5)
+4417 (10.1)
+378 (11.0)
+65 728 (8.6)
+<40 000
+8815 (1.2)
+696 (1.6)
+31 (0.9)
+9542 (1.3)
+Unknown
+93 (0.0)
+3 (0.0)
+1 (0.0)
+97 (0.0)
+Rural-urban
+Metropolitan areas ≥1 million population
+436 500 (61.1)
+26 554 (60.4)
+2121 (61.9)
+465 175 (61.1)
+<.001
+Metropolitan areas of 250 000-1 million population
+153 375 (21.5)
+9272 (21.1)
+673 (19.6)
+163 320 (21.4)
+Metropolitan areas of <250 000 population
+50 909 (7.1)
+3184 (7.2)
+295 (8.6)
+54 388 (7.1)
+Nonmetropolitan adjacent to a metropolitan area
+42 235 (5.9)
+2789 (6.3)
+184 (5.4)
+45 208 (5.9)
+Nonmetropolitan not adjacent to a metropolitan area
+30 201 (4.2)
+2071 (4.7)
+149 (4.4)
+32 421 (4.3)
+Unknown
+892 (0.1)
+64 (0.1)
+3 (0.1)
+959 (0.1)
+Histologic findings
+Ductal
+565 580 (79.2)
+32 137 (73.1)
+1693 (49.4)
+599 410 (78.7)
+<.001
+Lobular
+71 525 (10.0)
+4593 (10.5)
+198 (5.8)
+76 316 (10.0)
+Ductal and lobular
+35 400 (5.0)
+1525 (3.5)
+79 (2.3)
+37 004 (4.9)
+Other
+41 607 (5.8)
+5679 (12.9)
+1455 (42.5)
+48 741 (6.4)
+Tumor grade
+I
+153 794 (21.5)
+1889 (4.3)
+379 (11.1)
+156 062 (20.5)
+<.001
+II
+284 173 (39.8)
+9427 (21.5)
+804 (23.5)
+294 404 (38.7)
+III/IV
+170 168 (23.8)
+10 304 (23.5)
+587 (17.1)
+181 059 (23.8)
+Unknown
+105 977 (14.8)
+22 314 (50.8)
+1655 (48.3)
+129 946 (17.1)
+Tumor subtype
+HR+/ERBB2−
+502 065 (70.3)
+23 131 (52.6)
+1059 (30.9)
+526 255 (69.1)
+<.001
+HR+/ERBB2+
+67 096 (9.4)
+5906 (13.4)
+217 (6.3)
+73 219 (9.6)
+HR−/ERBB2+
+27 271 (3.8)
+3160 (7.2)
+82 (2.4)
+30 513 (4.0)
+Triple-negative
+71 116 (10.0)
+5138 (11.7)
+278 (8.1)
+76 532 (10.1)
+Unknown
+46 564 (6.5)
+6599 (15.0)
+1789 (52.2)
+54 952 (7.2)
+Abbreviations: HR, hormone receptor; NA, not applicable; SEER, Surveillance, Epidemiology, and End Results; +, positive; −, negative.
+a
+Incidence of Breast Cancer From 2010 Through 2021
+The age-adjusted incidence rate of stage IV breast cancer increased significantly from 9.5 (95% CI, 9.2-9.9) cases per 100 000 females in 2010 to 11.2 (95% CI, 10.9-11.6) cases per 100 000 females in 2021, an APC of 1.2% (95% CI, 0.8%-1.6%) (Table 2). Similarly, the age-adjusted incidence of stages I to III increased numerically from 163.0 (95% CI, 161.6-164.4) cases per 100 000 females in 2010 to 177.4 (95% CI, 176.1-178.8) cases per 100 000 females in 2021, an APC of 0.3% (95% CI, −0.3% to 0.9%), although this change was not statistically significant. The age-adjusted incidence of unknown stage also increased from 0.2 (95% CI, 0.2-0.3) cases per 100 000 females in 2010 to 0.6 (95% CI, 0.5-0.7) cases per 100 000 females in 2021, an APC of 11.3% (95% CI, 1.7%-21.9%). In sensitivity analyses excluding the COVID-19 period (2010-2019), the increase in stage IV incidence among females remained, with an APC of 1.0% (95% CI, 0.5%-1.5%), consistent with the primary analysis through 2021.
+Table 2.
+Age-Adjusted Incidence of Invasive Breast Cancer Diagnosed in Females From 2010 Through 2021, by Stage at Diagnosis
+Year of diagnosis
+Breast cancer stage
+IV (n = 43 400)
+I-III (n = 708 753)
+Unknown (n = 3377)
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+2010
+9.5 (9.2 to 9.9)
+0.2
+163.0 (161.6 to 164.4)
+0.7
+0.2 (0.2 to 0.3)
+0.0
+2011
+9.7 (9.4 to 10.0)
+0.2
+167.1 (165.7 to 168.5)
+0.7
+0.2 (0.2 to 0.3)
+0.0
+2012
+9.7 (9.3 to 10.0)
+0.2
+166.7 (165.3 to 168.1)
+0.7
+0.2 (0.1 to 0.2)
+0.0
+2013
+10.2 (9.9 to 10.6)
+0.2
+167.8 (166.4 to 169.2)
+0.7
+0.2 (0.2 to 0.3)
+0.0
+2014
+10.2 (9.9 to 10.6)
+0.2
+167.8 (166.5 to 169.2)
+0.7
+0.2 (0.1 to 0.2)
+0.0
+2015
+9.9 (9.5 to 10.2)
+0.2
+170.8 (169.4 to 172.2)
+0.7
+0.2 (0.1 to 0.2)
+0.0
+2016
+10.3 (9.9 to 10.6)
+0.2
+165.2 (163.9 to 166.6)
+0.7
+0.8 (0.7 to 0.9)
+0.0
+2017
+10.1 (9.8 to 10.5)
+0.2
+165.7 (164.3 to 167.0)
+0.7
+0.7 (0.6 to 0.8)
+0.0
+2018
+10.4 (10.1 to 10.8)
+0.2
+171.6 (170.2 to 173.0)
+0.7
+0.6 (0.6 to 0.7)
+0.0
+2019
+10.6 (10.2 to 10.9)
+0.2
+175.3 (173.9 to 176.6)
+0.7
+0.5 (0.4 to 0.6)
+0.0
+2020
+10.5 (10.2 to 10.9)
+0.2
+157.8 (156.5 to 159.2)
+0.7
+0.6 (0.5 to 0.6)
+0.0
+2021
+11.2 (10.9 to 11.6)
+0.2
+177.4 (176.1 to 178.8)
+0.7
+0.6 (0.5 to 0.7)
+0.0
+2010 to 2021 APCb
+1.2 (0.8 to 1.6)
+NA
+0.3 (−0.3 to 0.9)
+NA
+11.3 (1.7 to 21.9)
+0.0
+Abbreviations: APC, annual percentage change; NA, not available.
+a
+Age-adjusted incidence rates are presented per 100 000 persons with 95% CIs and SEs, as provided by SEER*Stat.
+b
+For APC estimates, a separate SE is not provided in the SEER*Stat exported output.
+Incidence of Stage IV Breast Cancer From 2010 Through 2021 in Key Subgroups
+Further analysis of the age-adjusted incidence rate of stage IV incidence showed statistically significant increases for triple-negative breast cancer, with an APC of 2.7% (95% CI, 1.4%-4.0%); HR-positive/ERBB2-negative, with an APC of 2.0% (95% CI, 1.5%-2.6%); and HR-positive/ERBB2-positive, with an APC of 1.6% (95% CI, 0.2%-2.9%). For HR-negative/ERBB2-positive disease, the APC was 1.3% (95% CI, −0.1% to 2.7%), which was not statistically significant (Table 3).
+Table 3.
+Age-Adjusted Incidence of Stage IV Breast Cancer Diagnosed in Females From 2010 Through 2021, Overall and by Tumor Subtype
+Year of diagnosis
+Overall (n = 43 400)
+HR+/ERBB2− (n = 22 798)
+HR+/ERBB2+ (n = 5833)
+HR−/ERBB2+ (n = 3152)
+Triple-negative (n = 5106)
+Unknown subtype (n = 6511)
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+Age-adjusted incidence rate (95% CI)a
+SE
+2010
+9.5 (9.2 to 9.9)
+0.2
+4.6 (4.4 to 4.9)
+0.1
+1.2 (1 to 1.3)
+0.1
+0.7 (0.6 to 0.7)
+0.0
+1.1 (1.0 to 1.3)
+0.1
+1.9 (1.8 to 2.1)
+2.1
+2011
+9.7 (9.4 to 10.0)
+0.2
+5 (4.8 to 5.2)
+0.1
+1.2 (1.1 to 1.4)
+0.1
+0.7 (0.6 to 0.8)
+0.0
+1.1 (1.0 to 1.2)
+0.1
+1.7 (1.5 to 1.8)
+1.8
+2012
+9.7 (9.3 to 10.0)
+0.2
+5 (4.7 to 5.2)
+0.1
+1.4 (1.2 to 1.5)
+0.1
+0.7 (0.6 to 0.8)
+0.0
+1.1 (1.0 to 1.2)
+0.1
+1.6 (1.5 to 1.7)
+1.7
+2013
+10.2 (9.9 to 10.6)
+0.2
+5.2 (5.0 to 5.4)
+0.1
+1.4 (1.3 to 1.5)
+0.1
+0.8 (0.7 to 0.9)
+0.1
+1.2 (1.0 to 1.3)
+0.1
+1.7 (1.5 to 1.8)
+1.8
+2014
+10.2 (9.9 to 10.6)
+0.2
+5.2 (5.0 to 5.5)
+0.1
+1.4 (1.3 to 1.6)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.1 (1.0 to 1.3)
+0.1
+1.6 (1.5 to 1.8)
+1.8
+2015
+9.9 (9.5 to 10.2)
+0.2
+5 (4.7 to 5.2)
+0.1
+1.5 (1.4 to 1.7)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.1 (1.0 to 1.2)
+0.1
+1.5 (1.4 to 1.7)
+1.7
+2016
+10.3 (9.9 to 10.6)
+0.2
+5.2 (5.0 to 5.5)
+0.1
+1.6 (1.4 to 1.7)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.2 (1.1 to 1.3)
+0.1
+1.5 (1.4 to 1.6)
+1.6
+2017
+10.1 (9.8 to 10.5)
+0.2
+5.4 (5.1 to 5.6)
+0.1
+1.5 (1.3 to 1.6)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.1 (1.0 to 1.2)
+0.1
+1.3 (1.2 to 1.5)
+1.5
+2018
+10.4 (10.1 to 10.8)
+0.2
+5.8 (5.6 to 6.1)
+0.1
+1.4 (1.3 to 1.5)
+0.1
+0.7 (0.6 to 0.8)
+0.0
+1.3 (1.2 to 1.5)
+0.1
+1.2 (1.1 to 1.3)
+1.3
+2019
+10.6 (10.2 to 10.9)
+0.2
+5.8 (5.5 to 6.0)
+0.1
+1.4 (1.3 to 1.6)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.4 (1.2 to 1.5)
+0.1
+1.2 (1.1 to 1.4)
+1.4
+2020
+10.5 (10.2 to 10.9)
+0.2
+5.8 (5.5 to 6.0)
+0.1
+1.4 (1.2 to 1.5)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.3 (1.2 to 1.4)
+0.1
+1.3 (1.2 to 1.4)
+1.4
+2021
+11.2 (10.9 to 11.6)
+0.2
+6 (5.7 to 6.2)
+0.1
+1.6 (1.4 to 1.7)
+0.1
+0.8 (0.7 to 0.9)
+0.0
+1.5 (1.4 to 1.7)
+0.1
+1.4 (1.3 to 1.5)
+1.5
+2010 to 2021 APCb
+1.2 (0.8 to 1.6)
+NA
+2.0 (1.5 to 2.6)
+NA
+1.6 (0.2 to 2.9)
+NA
+1.3 (−0.1 to 2.7)
+NA
+2.7 (1.4 to 4.0)
+NA
+−3.4 (−4.6 to −2.1)
+NA
+Abbreviations: APC, annual percentage change; HR, hormone receptor; NA, not applicable; +, positive; −, negative.
+a
+Age-adjusted incidence rates are presented per 100 000 persons with 95% CIs and SEs, as provided by SEER*Stat.
+b
+For APC estimates, a separate SE is not provided in the SEER*Stat exported output.
+Table 4.
+Annual Percentage Change in Age-Adjusted Incidence of Stage IV Breast Cancer in Females, by Age at Diagnosis and by Race and Ethnicity
+Characteristic
+No.
+Annual percentage change (95% CI)
+Overall (n = 43 934)
+HR+/ERBB2− (n = 23 131)
+HR+/ERBB2+ (n = 5906)
+HR−/ERBB2+ (n = 3160)
+Triple-negative (n = 5138)
+Unknown (n = 6599)
+Overall
+1.2 (0.8 to 1.6)
+2 (1.5 to 2.6)
+1.6 (0.2 to 2.9)
+1.3 (−0.1 to 2.7)
+2.7 (1.4 to 4.0)
+−3.4 (−4.6 to −2.1)
+Age at diagnosis, y
+<40
+2783
+3.1 (2.2 to 4.0)
+4.5 (2.9 to 6.1)
+3.4 (0.9 to 5.9)
+0.8 (−4.1 to 6.0)
+1.8 (−2.0 to 5.6)
+−1.3 (−6.1 to 3.7)
+40 to 49
+5310
+1.7 (0.5 to 2.9)
+2.0 (0.5 to 3.6)
+2.7 (0.9 to 4.5)
+1.6 (−0.7 to 4.0)
+2.5 (−1.1 to 6.2)
+−2.4 (−5.3 to 0.5)
+50 to 74
+25 953
+0.5 (0.1 to 0.9)
+1.2 (0.4 to 2.0)
+0.4 (−1.0 to 1.8)
+1.2 (0.2 to 2.3)
+2.2 (1.2 to 3.3)
+−3.9 (−5.4 to −2.3)
+>74
+9888
+1.7 (0.4 to 3)
+3.3 (1.8 to 4.8)
+2.1 (−0.6 to 4.9)
+1.1 (−1.4 to 3.7)
+4.3 (1.9 to 6.8)
+−3.0 (−5.2 to −0.8)
+Race and ethnicity
+Hispanic
+5454
+1.9 (1.0 to 2.9)
+2.6 (1.5 to 3.8)
+1.3 (−1. 3 to 3.9)
+2.5 (−0.9 to 6.0)
+5.3 (2.7 to 8.0)
+−2.5 (−4.2 to −0.7)
+Non-Hispanic American Indian or Alaska Native
+300
+1.9 (−2.0 to 5.9)
+4.5 (−1.5 to 10.8)
+0.6 (−9.2 to 11.5)
+NA
+NA
+−4.8 (−14.2 to 5.8)
+Non-Hispanic Asian or Pacific Islander
+3562
+3.4 (2.4 to 4.4)
+3.6 (2.1 to 5.2)
+5.7 (2.5 to 8.9)
+2.6 (−1.3 to 6.6)
+3.2 (−1.0 to 7.6)
+−0.8 (−3.8 to 2.4)
+Non-Hispanic Black
+6702
+0.5 (−0.2 to 1.3)
+1.6 (0.3 to 2.9)
+−1.1 (−2.6 to 0.5)
+0.6 (−1.2 to 2.5)
+2.3 (0.8 to 3.9)
+−3.5 (−5.9 to −1.0)
+Non-Hispanic White
+27 760
+1.0 (0.6 to 1.5)
+2.0 (1.3 to 2.7)
+1.8 (0.1 to 3.7)
+0.6 (−0.9 to 2.1)
+2.0 (0.7 to 3.3)
+−3.7 (−5.0 to −2.3)
+Abbreviations: HR, hormone receptor; NA, not applicable; +, positive; −, negative.
+In males, we observed a significant increase in age-adjusted incidence rates. Rates increased from 0.12 (95% CI, 0.09-0.17) cases per 100 000 males in 2010 to 0.20 (95% CI, 0.16-0.26) cases per 100 000 males in 2021, an APC of 3.7% (95% CI, 1.0%-6.5%) (eTable 2 in Supplement 1).
+Percentages of Stage IV Breast Cancer Among Existing Breast Cancer Cases From 2010 Through 2021
+Across the study period (2010-2021), the percentage of individuals with stage IV breast cancer at diagnosis was 5.8% (eTable 3 in Supplement 1). The percentages of stages I to III vs stage IV breast cancer varied significantly by tumor subtype: 95.4% vs 4.4% in HR-positive/ERBB2-negative tumors, 91.6% vs 8.1% in HR-positive/ERBB2-positive breast cancer, 89.4% vs 10.4% in HR-negative/ERBB2-positive disease, and 92.9% vs 6.7%, respectively, for individuals with triple-negative breast cancer (overall P < .001).
+The percentages of stage IV disease increased modestly from 5.6% in 2010 to 6.0% in 2021 (P < .001 for trend). Increases were observed across tumor subtypes, including HR-positive/ERBB2-negative (4.2% to 4.4%), HR-positive/ERBB2-positive (7.5% to 9.1%), HR-negative/ERBB2-positive (9.3% to 10.4%), and triple-negative disease (6.1% to 7.6%) (Figure; eTable 4 in Supplement 1). In addition, cases classified as unknown increased over time, reaching 14.4% by 2019 and 16.9% by 2021.
+Figure.
+Line Graph Showing Percentages of Breast Cancers Diagnosed as Stage IV in Successive Years From 2010 Through 2021, Overall and by Tumor Subtype
+HR indicates hormone receptor; +, positive; −, negative.
+Survival Analyses for Patients With Stage IV Breast Cancer
+Patients diagnosed with stage IV breast cancer (n = 43 934) had a median (IQR) follow-up of 63 (31-99) months. Over this period, there were 28 888 deaths in this group, of which 25 317 (87.6%) were due to breast cancer. The rate of OS at 5 years was 30.6% (95% CI, 29.9%-31.3%) for HR-positive/ERBB2-negative breast cancer, 41.3% (95% CI, 39.8%-42.7%) for HR-positive/ERBB2-positive disease, 35.5% (95% CI, 33.6%-37.5%) for HR-negative/ERBB2-positive tumors, and 10.3% (95% CI, 9.3%-11.4%) for patients with triple-negative breast cancer (eFigure 1 in Supplement 1).
+In adjusted Cox models, OS improved significantly over time for each successive year among patients with HR-positive/ERBB2-negative disease (adjusted hazard ratio [AHR], 0.99 [95% CI, 0.98-0.99]; P = .04), for HR-positive/ERBB2-positive tumors (AHR, 0.97 [95% CI, 0.95-0.99]; P = .003), and for patients with HR-negative/ERBB2-positive breast cancer (AHR, 0.97 [95% CI, 0.94-0.99]; P = .02). The improvement in OS over time in triple-negative breast cancer was not statistically significant (AHR, 0.99 [95% CI, 0.97-1.01]; P = .33) (eTable 5 in Supplement 1). BCSS results were similar to those of OS both for the unadjusted survival rates by tumor subtype (eFigure 2 in Supplement 1) and for the adjusted Cox models (eTable 6 in Supplement 1).
+Discussion
+This study assessed the time trends in age-adjusted incidence rates, percentages with disease stages I to III vs IV at presentation, and survival of patients diagnosed with de novo stage IV breast cancer in the US from 2010 through 2021. Our study showed that the incidence of de novo stage IV breast cancer increased numerically year-over-year across all tumor subtypes, all age groups, both sexes, and most races and ethnicities. Population-level data describing temporal trends in de novo metastatic breast cancer among males are limited, and male breast cancer remains relatively understudied. The parallel increase in stage IV incidence in both sexes suggests that the observed trend may reflect broader environmental or population-level factors influencing breast cancer risk and stage at presentation, rather than mechanisms unique to female-specific exposures. We also observed a rising incidence of stages I–III and unknown stage disease, suggesting an overall increase in breast cancer diagnoses rather than simple stage reclassification. Prior analyses reported stable stage IV incidence before 2010 despite screening expansion.4,9,10 In contrast, our findings demonstrate a significant increase beginning in 2010, including among screening-eligible age groups. The underlying drivers remain uncertain and may reflect population-level changes in risk factors, screening patterns, or access to care.
+Both incidence and percentage of stage IV disease increased. Notably, incidence of stages I to III increased while the percentage decreased, indicating that the increase in stage IV reflects both absolute growth and a shifting distribution at diagnosis. Percentages varied by subtype, ranging from 4.4% for HR-positive/ERBB2-negative to 10.4% for HR-negative/ERBB2-positive disease. These findings align with prior reports of increasing metastatic presentation in certain subgroups, including younger patients.5,11,12,13
+Consistent with existing literature,14,15,16,17,18 disparities in stage at diagnosis persisted. Non-Hispanic Black individuals and individuals with lower income were more likely to present with stage IV disease, supporting the continued importance of social determinants of health and access to care.
+Survival improved over time for most subtypes, reflecting advances in systemic therapy.19,20 Improvements were not statistically significant for triple-negative disease, underscoring ongoing therapeutic challenges in this subgroup.
+The increase in de novo stage IV incidence has important clinical and public health implications. Efforts to ensure equitable access to timely screening and diagnostic evaluation remain critical, particularly in populations with rising incidence and established disparities. The consistent increase across subtypes and in both females and males also highlights the need to investigate broader population-level risk factors and develop targeted strategies to reduce late-stage presentation.
+Strengths and Limitations
+This study has several strengths. These include the large, population-based design and the simultaneous evaluation of incidence, stage distribution, and survival across demographic and tumor subgroups.
+Our study has some limitations. First, it contains data from the US, and incidence and outcome trends may differ in other countries. However, breast cancer incidence is increasing in most countries worldwide.21,22 Second, SEER does not have information about breast cancer screening use or adherence, which would complement the interpretation of the results in certain age groups. Third, SEER does not have information about epidemiological risk factors for breast cancer, such as obesity, alcohol use, breast feeding, and hormone use. While the rates of obesity have increased in the US over the years, the interplay with other factors cannot be determined in our study. The absence of these variables limits our ability to assess how differences in screening practices, comorbidity burden, and individual-level socioeconomic or lifestyle factors may have contributed to observed incidence and stage-at-diagnosis trends. Although SEER captures area-level socioeconomic indicators and geographic region, our primary incidence analyses were designed as descriptive population-based trend assessments rather than etiologic models of determinants of late-stage presentation. Accordingly, incidence APC estimates were not stratified or adjusted by region or socioeconomic status. We acknowledge that temporal trends in stage IV incidence may vary across geographic regions or health policy environments, including differences in Medicaid expansion or access to care, and this represents an important direction for future investigation.
+Fourth, we evaluated patients with de novo stage IV breast cancer, and the outcomes for patients with recurrent metastatic disease (which is not captured in SEER) may be different. Fifth, cases identified by death certificate or autopsy and cases without histologic confirmation may have less complete information on stage and tumor biomarkers, which could contribute to unknown categories in subgroup analyses. Sixth, given the number of statistical comparisons performed, the use of a nominal 2-sided P < .05 threshold may have resulted in some false-positive findings, and results should be interpreted in this context. Lastly, health care access and cancer detection were disrupted during the COVID-19 pandemic. Reductions in routine screening and delays in diagnostic evaluation in 2020 may have led to temporary underdiagnosis of breast cancer, followed by catch-up diagnoses in 2021. Such delays could plausibly contribute to a higher likelihood of advanced-stage presentation if tumors progressed during periods of reduced health care access. We also observed a sharp increase in cases classified as unknown subtype between 2019 and 2021, which may reflect disruptions in diagnostic workup, incomplete biomarker testing, or delays in pathology reporting during the pandemic period rather than true biologic shifts in tumor distribution. Importantly, sensitivity analyses restricted to 2010 to 2019 demonstrated similar increasing trends in stage IV incidence, suggesting that the overall findings are not solely attributable to pandemic-related effects.
+Conclusions
+In conclusion, this cohort study found that from 2010 to 2021 the incidence and percentage of de novo stage IV breast cancer diagnoses increased in the US, including among males, despite improvements in survival. These findings underscore the need to better understand drivers of advanced-stage cancer presentation and to develop strategies to reduce the burden of metastatic disease at diagnosis.

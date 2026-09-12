@@ -1,0 +1,63 @@
+# Table S. Risk of bias — JBI Critical Appraisal Checklist for Studies Reporting Prevalence/Incidence Data
+
+Nine JBI items rated Yes/No/Unclear/NA. Q9 (response rate) is recorded NA for every study because census-like registry ascertainment has no survey response rate; NA is not counted as a defect. Overall risk of bias uses the eight applicable items: **Low** = 0-1 No and Q7 (measurement) = Yes and Q8 (analysis) = Yes; **High** = 3 or more No; **Moderate** = otherwise (including any single No on the key items Q7 or Q8). The checklist was applied by the author (a single assessor) with large-language-model assistance.
+
+Overall (55 studies): {'Low': 44, 'Moderate': 11}. Main-analysis representatives: {'Low': 19, 'Moderate': 5}
+
+| Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| 2 | Howlader2014_SEER18 | SEER 18 | 2010 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 10 | Davis Lynn2025_SEER17 | SEER 17 | 2013-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 12 | Zhang2025_USCS_female | US national | 2017-2021 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 14 | LeeArgov2024_USCS | USCS (NPCR+SEER) | 2001-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 28 | Nash2019_ANTR | Alaska Native Tumor Regist | 2009-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 49 | Mills2005 | California-CCR | Hmong 1988-2000  | Yes | Yes | No | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 51 | Nash2022 | ANTR (Alaska Native Tumour | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 66 | Hendrick2021_SEER9 | SEER 9 | 2014-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 93 | Zahnd2019_Delta | Delta Region (7-state NAAC | 2012-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 100 | Liu2012_LACounty | LA County (SEER) | 2007 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 107 | Zahrieh2021_NM-SEER | New Mexico (SEER) | 2005-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | NA | **Moderate** |
+| 134 | Wingo2008_IHS-CHSDA | IHS-PRCDA (CHSDA, SEER-NPC | 1999-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 146 | Xu2024_SEER | SEER | 2000-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 155 | Sung2023_USCS | USCS(NPCR+SEER) | 2015-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 161 | Loo2019_HTR | Hawaii Tumor Registry (SEE | 2000-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 169 | Ellington2022_USCS | USCS(NPCR+SEER) | 2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 182 | Cronin2012_VitalSigns_23151952 | USCS(NPCR+SEER) | 2005-2009 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 199 | Baquet2008_SEER9 | SEER 9 | 1995-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 200 | Gleason2012_SEER | SEER | 2004-2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 209 | Zhang 2022 | NPCR+SEER (USCS) | 2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 210 | Du2022_SEER18 | SEER 18 | 2000-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
+| 236 | Gomez 2010 | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 265 | Anderson2008_SEER_19066264 | SEER | 2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 286 | Kong2020_SEER18 | SEER 18 | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
+| 324 | Gomez2017_CCR | California Cancer Registry | 2009-2013 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 333 | Keegan2010_CCR | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 346 | Richardson2016_27736827 | USCS(NPCR+SEER) | 2009-2013 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 369 | Shoemaker2018_USCS | USCS (NPCR+SEER) | 2004-2013 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 381 | Lund2010_AtlantaSEER | Metropolitan Atlanta (SEER | 2003-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
+| 419 | Amirikia 2011 | California Cancer Registry | 1988-2006 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
+| 461 | Watanabe-Galloway 2015 | NE/ND/SD state registries | 2002-2009 | Yes | Yes | Yes | Yes | Unclear | Yes | No | Yes | NA | **Moderate** |
+| 485 | Harper2009_SEER | SEER | 2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
+| 500 | Gopalani2020_31764279 | USCS(NPCR+SEER) | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
+| 522 | Ihenacho2023_HTR | Hawaii Tumor Registry (SEE | 2010-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 587 | Nasseri2009 | California-CCR | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
+| 955 | Goggins2009 | SEER (SF/Seattle/Detroit/A | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 1478 | Yazzie2025_Navajo | Navajo Nation registry (IH | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2146 | Wright2022_MA_redlining | Massachusetts Cancer Regis | 2005-2015 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
+| 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2010-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2609 | Krieger2018_MA | Massachusetts Cancer Regis | 2010-2014 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
+| 3182 | Pinheiro2009_FL | Florida Cancer Registry | 1999-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 3267 | Kem2007 | California-CCR + Puget Sou | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
+| 3298 | Carozza2006_multistate | Multi-state registries (NA | 1995-2000 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 3398 | Gomez2003_SEERplusCCR | SEER + California CR | 1988-1992 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 3662 | Melkonian2021_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 3720 | Hossain2019_Louisiana | Louisiana Tumor Registry | 2010-2012 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
+| 4027 | Jin 2016 | 8-state SEER+NPCR (Jin) | 2009-2011 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 4040 | Miller2008_NAACCR-API | NAACCR/SEER API (state+SEE | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 4098 | McCracken2007_CCR | California Cancer Registry | 2000-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
+| 4333 | Wilkinson2002 | Florida (Miami-Dade FCDS) | 1990-1998 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |

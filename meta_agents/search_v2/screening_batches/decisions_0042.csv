@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2480,exclude,Not relevant to the research question/topic,neonatal neutropenia chemo pregnancy
+2481,exclude,Not a US population-based/registry study,diet BC black South Africa
+2482,exclude,Not a US population-based/registry study,bone metastasis follow-up China
+2483,exclude,Not a US population-based/registry study,South Africa stage at presentation
+2484,exclude,Not a US population-based/registry study,hypofractionated PMRT China trial
+2485,exclude,Not a US population-based/registry study,multigene testing Asian cohort
+2486,exclude,Not relevant to the research question/topic,circadian clock TNBC mechanism
+2487,exclude,Not a US population-based/registry study,uterine cancer Israel BRCA
+2488,exclude,Not relevant to the research question/topic,cancer attributable excess weight by state
+2489,exclude,Not a US population-based/registry study,BRCA Japanese DCIS
+2490,exclude,"Editorials, commentaries, letters, or conference abstracts",ASPO 43rd conference review
+2491,exclude,Not a US population-based/registry study,sleep duration BC JACC Japan
+2492,exclude,Not a US population-based/registry study,IORT Korea phase II
+2493,exclude,Not relevant to the research question/topic,secondary tumors myeloma SEER
+2494,exclude,Not relevant to the research question/topic,cancer among women veterans VA types
+2495,exclude,Not relevant to the research question/topic,hematologic malignancies breast
+2496,exclude,Not relevant to the research question/topic,acupuncture joint symptoms trial
+2497,exclude,Not a US population-based/registry study,web infodemiology China
+2498,exclude,Not a US population-based/registry study,self-sampling cervical Singapore
+2499,exclude,Not a US population-based/registry study,SAR439859 Japan phase 1
+2500,exclude,Not a US population-based/registry study,young age Asian BC Korea
+2501,exclude,Not a US population-based/registry study,psychosocial stress BBD China ELEFANT
+2502,exclude,Not relevant to the research question/topic,central obesity Chinese American trial
+2503,exclude,Not relevant to the research question/topic,multiple primary melanomas
+2504,exclude,Not relevant to the research question/topic,NCI funding gyn cancers
+2505,exclude,Not relevant to the research question/topic,BC incidence by stage screening guidelines
+2506,exclude,Not a US population-based/registry study,DCIS phyllodes China case series
+2507,exclude,Not a US population-based/registry study,vitiligo malignancy Korea
+2508,exclude,Not relevant to the research question/topic,endocrine therapy-naive US Optum
+2509,exclude,Not relevant to the research question/topic,NPO funding cancer types
+2510,include,,AI/AN cancer incidence vs NHW US 2010-2015
+2511,exclude,Not relevant to the research question/topic,mobile mammography priority Appalachia VA
+2512,exclude,Not relevant to the research question/topic,male breast screening high-risk
+2513,exclude,Not a US population-based/registry study,uterine cancer Latin America
+2514,exclude,Not relevant to the research question/topic,germline DR prostate cancer
+2515,exclude,Not a US population-based/registry study,BC awareness Philippines
+2516,exclude,Not a US population-based/registry study,global cancer older adults GLOBOCAN
+2517,exclude,Not a US population-based/registry study,BSE Cameroon
+2518,exclude,Not relevant to the research question/topic,unplanned hospitalization CCR
+2519,exclude,"Editorials, commentaries, letters, or conference abstracts",Re black-white BC incidence letter
+2520,exclude,Not a US population-based/registry study,ErbB2 cfDNA Asian cohort
+2521,exclude,Not relevant to the research question/topic,upstaging papillary lesions race
+2522,exclude,Not a US population-based/registry study,KAP early detection Vietnam
+2523,exclude,Not relevant to the research question/topic,health racial disparity BC chapter
+2524,exclude,Not relevant to the research question/topic,individual/county determinants BC Arkansas
+2525,exclude,Not relevant to the research question/topic,physical activity BC rural cohort
+2526,exclude,Not relevant to the research question/topic,inflammation microenvironment review
+2527,exclude,Not relevant to the research question/topic,lung metastases subtype SEER
+2528,exclude,Not relevant to the research question/topic,socioeconomic/environmental geographic BC NHS II
+2529,exclude,Not relevant to the research question/topic,TNBC molecular age
+2530,exclude,Not relevant to the research question/topic,18-gene vs Oncotype trial
+2531,exclude,Not relevant to the research question/topic,melanoma RCC sequential
+2532,exclude,Not relevant to the research question/topic,racial disparity TNBC AA review
+2533,exclude,Not a US population-based/registry study,multi-omics younger Asian BC Korea
+2534,exclude,Not a US population-based/registry study,occult cancer PM Japan HBOC
+2535,exclude,Not a US population-based/registry study,CLDN10 SNP China
+2536,exclude,Not relevant to the research question/topic,cytokines human milk racial etiology
+2537,include,,Cancer Statistics for Hispanics/Latinos 2018
+2538,exclude,Not relevant to the research question/topic,rural-urban cancer incidence US NAACCR
+2539,exclude,Not a US population-based/registry study,GBD 29 cancer groups

@@ -1,0 +1,571 @@
+record_id=101 pmid=32596677 doi=
+SOURCE: manual-pdf
+TITLE: Cumulative Incidence Rates of Breast Cancer by Age for Filipinos and Chamorros in Guam
+
+HAWAI‘I JOURNAL OF HEALTH & SOCIAL WELFARE, JUNE 2020, VOL 79, NO 6, SUPPLEMENT 2
+40
+Cumulative Incidence Rates of Breast Cancer by Age 
+for Filipinos and Chamorros in Guam
+Grazyna Badowski PhD; Brayan Simsiman BS; Renata Bordallo MSW, CTR; 
+Michael Green CTR; Yurii B. Shvetsov PhD; Lynne R. Wilkens DrPH; 
+Rachel Novotny PhD, RDN; and Rachael T. Leon Guerrero PhD, RDN
+Abstract
+Breast cancer is the second leading cause of cancer-related death among 
+women on Guam and Hawai‘i. Breast cancer incidence rates are described 
+here for the multiethnic population in Guam, a United States (US) Pacific island 
+territory, and compared to Hawai‘i and other US populations, to understand the 
+risk by age and race/ethnic group in this understudied group. The study included 
+all breast cancer cases (n=576) reported to the Guam Cancer Registry, all 
+breast cancer cases (n=8345) reported to the Hawai‘i Tumor Registry and all 
+breast cancer cases (n=678,637) reported to the Surveillance, Epidemiology, 
+and End Results program from 2000 to 2009. Cumulative incidence rates by 
+age were calculated for two time periods: 2000-2004 and 2005-2009. Differ-
+ences were seen in cumulative incidence rates by age, ethnicity, and place 
+of residence. Cumulative incidence rates by age 40 were the highest (0.7%) 
+among Filipinos in Guam but, after age 40, the rates for Chamorros (indig-
+enous Pacific Islanders of Guam) increased rapidly. The lifetime cumulative 
+incidence rates were the highest for Chamorros in Guam (15.3%), close to the 
+US rate (15.5%). Results were similar for 2005-2009. Women in Guam are at 
+high risk for breast cancer, with the indigenous Chamorros having the highest 
+risk, and the most prevalent Asian group of Filipinos, having a younger age 
+at diagnosis. These patterns are similar to the comparable Pacific Islander 
+and Filipino populations in Hawai‘i and the US generally.
+Keywords
+breast cancer, Pacific Islanders, Chamorros, Filipinos, Hawai‘i, Guam, US
+Introduction
+Breast cancer is thought to be a disease of Western industrialized 
+nations,1 and is the most common malignancy among women 
+worldwide. In the United States (US), including Hawai‘i and 
+the territory of Guam, breast cancer is also the most commonly 
+diagnosed cancer and is the second most common cause of 
+cancer death among women.1-4 Women on Guam appear to 
+exhibit slightly lower breast cancer incidence rates than US 
+women in general, and in Guam, the incidence of this cancer 
+varies among the ethnic groups of Guam and may be diagnosed 
+at a younger age. However, women of Guam also have a higher 
+mortality rate for breast cancer compared to women in Hawai‘i 
+and the US.4-5 The reasons for high breast cancer incidence and 
+mortality rates among women in Guam are poorly understood.
+Guam is located in the northwestern Pacific Ocean, approxi-
+mately 3,700 miles west of Hawai‘i and 1,300 miles southeast of 
+Japan. Chamorros are the original inhabitants of Guam and the 
+other Northern Mariana Islands, though the current population 
+of Guam is characterized by substantial ethnic variation:6 37% 
+Chamorro, 26% Filipino, 7% White, 7% other Asian, 12% other 
+Pacific Islander, and 11% other ethnicity. This ethnic diversity 
+evolved through centuries of migration that continues today.7 In 
+addition, Spanish colonization of Guam, between 1521-1898, 
+and the subsequent US possession since then, has led to ethnic 
+and cultural mixing. Hawai‘i also has substantial ethnic diver-
+sity as Hawaii’s population is comprised of indigenous Native 
+Hawaiians (21%), Whites (23%), Filipinos (17%), Japanese 
+(16%), Chinese (7%), and other ethnicities (16%).8
+Cancer incidence rates for specific Asian9 and Pacific Islander10 
+populations living in the US have been reported elsewhere; and 
+overall cancer rates in Guam and Hawai‘i have been reported 
+by Hernandez and colleagues.4 The purpose of this paper is to 
+describe breast cancer rates by age and ethnicity of the Asian 
+and Pacific Islander populations in Guam, and to compare 
+them with the rates of comparable ethnic groups in Hawai‘i, 
+as another multiethnic Pacific population, and with the overall 
+US population. Cumulative incidence rates (CIRs) by age are 
+reported, as they are more stable compared to age-specific rates 
+and thus are suitable for smaller populations such as Guam. 
+	
+Methods
+We obtained data from the Guam Cancer Registry (GCR) for 
+all reportable cancer diagnoses for Guam. For comparison, we 
+obtained the Hawai‘i Tumor Registry (HTR) data and US national 
+data on all female breast cancers from eighteen registries in the 
+National Cancer Institute’s Surveillance, Epidemiology, and 
+End Results (SEER) program, including HTR, from January 
+1, 2000 through December 31, 2009. These eighteen registries 
+cover approximately 28% of the US population and >28% of 
+the Asian and Pacific Islander populations in the US. Therefore, 
+this study included all breast cancer cases (n=576) reported 
+to the GCR, all breast cancer cases (n = 8345) reported to the 
+HTR and all breast cancer cases (n=678,637) reported to the 
+NCI SEER from 2000-2009. The GCR provides demographic, 
+tumor and survival information on cancer cases diagnosed 
+since 1998.11 GCR’s membership in the North American As-
+sociation of Central Cancer Registries (NAACCR) and the US 
+Pacific Regional Central Cancer Registry (PRCCR) assures that 
+cancer data collected by GCR is completed in a manner which 
+meets the exacting standards set by NAACCR and NCI SEER 
+research programs.11
+
+HAWAI‘I JOURNAL OF HEALTH & SOCIAL WELFARE, JUNE 2020, VOL 79, NO 6, SUPPLEMENT 2
+41
+Cumulative incidence rates are weighted sums of age-specific 
+incidence rates RA , 
+ , in which the weights 
+ are the lengths of the age intervals, and m varies from 0-24 
+up to 0-85. We stratified the rates by Chamorro and Filipino 
+ethnicity, with the time period based on the year of diagnosis 
+(2000-2004, 2005-2009), and location. Average annual age-
+specific rates were computed as input per strata and 5-year age 
+group, where the numerators were the sum of counts of breast 
+cancer cases per year and denominators were the sum of the 
+female population sizes per year, within the appropriate strata; 
+that is 
+, where 
+ is the sum of events 
+for age group A across the years of interest and 
+ 
+is the sum of the populations for age group A across the years of 
+interest. We used the US 2000 and 2010 census data to compute 
+the denominators. For each strata, yearly counts of the size of 
+the population by age group from 2000 to 2010 were estimated 
+by interpolation between the census years; the counts were then 
+aggregated into the two time periods to serve as denominators. 
+The standard error for the cumulative incidence rate is
+ 
+. The CIR’s were compared 
+between ethnicities, location, and year period using negative 
+binomial regression using log(SA) as an offset variable.
+Results
+Remarkable differences were seen in cumulative incidence 
+rates by age and ethnicity. During the 2000-2004 time period, 
+the cumulative incidence rates up to age 40 were the highest 
+(0.68%) among Filipinos in Guam, which was almost three-
+fold higher than the rate among Chamorros (0.24%) (P-value 
+=.32) (Table 1). Filipinos in Hawai‘i and the US had similar 
+cumulative rates for the same age group (0.65% and 0.47%, 
+respectively). These data support earlier evidence that Filipino 
+women are being diagnosed at younger ages than their Asian and 
+Caucasian counterparts.12 After age 40, the rates for Chamorros 
+increased rapidly. The lifetime cumulative incidence rate (age 
+0-85) for Chamorros (15.3%) was close to the overall US rate 
+(15.5%). Interestingly, there was a marked difference in lifetime 
+cumulative incidence rates between Filipino women by loca-
+tion. Filipinos in Guam had the lowest rate (9.3%), followed 
+by Filipinos in Hawai‘i (10.5%)( β=1.98, P-value<.001) and 
+Figure 1. Lifetime (0-85) Cumulative Incidence Rates 2000-2004 
+by Different Ethnic Groups and Geographic Location
+in the US (11.7%) (β=4.06, P-value<.001). Differences were 
+observed between rates of Chamorros and Native Hawaiians, 
+both Pacific Islanders. Native Hawaiians had higher cumulative 
+incidence rates than Chamorros, both up to age 40 (0.65% and 
+0.24%, respectively, β=1.77, P-value=.036) and for lifetime 
+risk (22.3% and 15.3%, β=1.33, P-value=.001). The risk among 
+Native Hawaiians particularly differed from that of Chamorros 
+at ages 60-64. Similar results were found for the 2005-2009 
+time period (Figure 1, Table 1).
+
+HAWAI‘I JOURNAL OF HEALTH & SOCIAL WELFARE, JUNE 2020, VOL 79, NO 6, SUPPLEMENT 2
+42
+Table 1.  Invasive Breast Cancer Cumulative Incidence Rates (%) with 95% CI
+Between 2000-2004 
+Age 
+groups
+US
+Guam
+Filipino (US)
+Filipino (HI)
+Filipino (GU)
+Chamorro (GU)
+Native Hawaiian 
+(HI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+20-24
+0.0 (0.006, 0.007)
+0.0
+0.0 (0.00, 0.009)
+0.0
+0.0
+0.0
+0.0 (0.00, 0.09)
+25-29
+0.0 (0.039, 0.044)
+0.0 (0.00, 0.05)
+0.0 (0.02, 0.06)
+0.0 (0.00, 0.09)
+0.1 (0.00, 0.20)
+0.0
+0.1 (0.04, 0.18)
+30-34
+0.2 (0.16, 0.17)
+0.1 (0.05, 0.25)
+0.2 (0.15, 0.22)
+0.2 (0.13, 0.34)
+0.2 (0.00, 0.41)
+0.1 (0.00, 0.32)
+0.3 (0.17, 0.39)
+35-39
+0.4 (0.43, 0.44)
+0.4 (0.21, 0.52)
+0.5 (0.42, 0.53)
+0.6 (0.47, 0.83)
+0.7 (0.28, 1.08)
+0.2 (0.03, 0.46)
+0.6 (0.47, 0.82)
+40-44
+1.0 (0.98, 1.00)
+0.7 (0.51, 0.96)
+1.0 (0.94, 1.09)
+1.1 (0.90, 1.37)
+0.9 (0.46, 1.42)
+0.7 (0.31, 1.05)
+1.6 (1.29, 1.84)
+45-49
+1.9 (1.85, 1.88)
+1.5 (1.14, 1.81)
+2.0 (1.87, 2.09)
+1.8 (1.51, 2.12)
+1.8 (1.12, 2.48)
+1.4 (0.84, 1.93)
+2.8 (2.45, 3.20)
+50-54
+3.0 (2.94, 2.98)
+2.2 (1.77, 2.64)
+3.1 (2.95, 3.23)
+2.7 (2.26, 3.12)
+2.5 (1.67, 3.29)
+2.3 (1.55, 3.01)
+4.5 (3.97, 4.94)
+55-59
+4.4 (4.37, 4.42)
+3.4 (2.82, 4.01)
+4.4 (4.26, 4.62)
+3.7 (3.28, 4.19)
+3.4 (2.43, 4.44)
+4.1 (2.95, 5.20)
+6.8 (6.19, 7.48)
+60-64
+6.0 (5.98, 6.02)
+4.4 (4.02, 4.80)
+5.9 (5.81, 6.07)
+4.9 (4.32, 5.41)
+4.0 (3.55, 4.50)
+5.5 (4.73, 6.30)
+10.0 (9.17, 10.91)
+65-69
+7.8 (7.74, 7.81)
+5.8 (4.94, 6.75)
+7.3 (7.05, 7.57)
+6.1 (5.46, 6.75)
+4.8 (3.53, 6.08)
+7.7 (5.92, 9.49)
+13.1 (12.01, 14.20)
+70-74
+9.7 (9.63, 9.71)
+7.4 (6.22, 8.48)
+8.5 (8.21, 8.80)
+7.2 (6.47, 7.95)
+5.7 (4.23, 7.26)
+9.6 (7.42, 11.75)
+16.3 (14.93, 17.57)
+75-79
+11.8 (11.73, 11.83)
+9.5 (7.98, 11.02)
+9.7 (9.38, 10.06)
+8.7 (7.81, 9.57)
+6.5 (4.64, 8.26)
+12.8 (9.92, 15.70)
+19.4 (17.80, 20.91)
+80-84
+13.9 (13.79, 13.91)
+10.7 (8.83, 12.49)
+10.7 (10.34, 11.12)
+9.6 (8.59, 10.62)
+7.1 (4.89, 9.26)
+13.8 (10.62, 17.04)
+21.4 (19.64, 23.15)
+>85
+15.5 (15.45, 15.57)
+12.6 (10.08, 15.03)
+11.6 (11.15, 12.05)
+10.5 (9.33, 11.63)
+9.3 (5.52, 13.13)
+15.3 (11.50, 19.11)
+22.3 (20.46, 24.47)
+Between 2005-2009
+Age 
+groups
+US
+Guam
+Filipino (US)
+Filipino (HI)
+Filipino (GU)
+Chamorro (GU)
+Native Hawaiian 
+(HI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+Rate (95% CI)
+20-24
+0.0 (0.006, 0.008)
+0.0
+0.0 (0.003, 0.022)
+0.0
+0.0
+0.0
+0.01 (0.00, 0.03)
+25-29
+0.0 (0.04, 0.05)
+0.0 (0.00, 0.08)
+0.1 (0.032, 0.068)
+0.1 (0.01, 0.11)
+0.0
+0.0
+0.07 (0.01, 0.12)
+30-34
+0.2 (0.17, 0.18)
+0.1 (0.04, 0.25)
+0.2 (0.13, 0.19)
+0.2 (0.10, 0.30)
+0.1 (0.00, 0.22)
+0.1 (0.00, 0.25)
+0.2 (0.12, 0.33)
+35-39
+0.4 (0.43, 0.44)
+0.4 (0.25, 0.59)
+0.4 (0.37, 0.47)
+0.6 (0.46, 0.80)
+0.5 (0.12, 0.81)
+0.3 (0.03, 0.47)
+0.5 (0.38, 0.69)
+40-44
+1.0 (0.99, 1.01)
+0.9 (0.64, 1.14)
+1.0 (0.92, 1.07)
+1.3 (1.08, 1.58)
+1.0 (0.48, 1.45)
+0.7 (0.34, 1.09)
+1.4 (1.11, 1.61)
+45-49
+1.9 (1.86, 1.89)
+1.3 (1.04, 1.66)
+1.9 (1.83, 2.04)
+2.1 (1.82, 2.47)
+1.5 (0.87, 2.08)
+1.2 (0.72, 1.71)
+2.6 (2.23, 2.93)
+50-54
+2.9 (2.88, 2.92)
+2.2 (1.74, 2.57)
+3.0 (2.87, 3.13)
+3.2 (2.77, 3.56)
+1.9 (1.21, 2.60)
+2.3 (1.62, 3.06)
+4.2 (3.73, 4.65)
+55-59
+4.2 (4.14, 4.19)
+3.2 (2.69, 3.76)
+4.3 (4.16, 4.48)
+4.3 (3.86, 4.78)
+2.8 (1.94, 3.70)
+3.6 (2.69, 4.59)
+6.2 (5.64, 6.79)
+60-64
+5.7 (5.66, 5.69)
+3.9 (3.58, 4.16)
+5.7 (5.60, 5.80)
+5.3 (4.78, 5.81)
+3.1 (2.79, 3.38)
+4.6 (3.99, 5.12)
+8.8 (8.06, 9.50)
+65-69
+7.4 (7.38, 7.45)
+4.9 (4.12, 5.72)
+7.3 (7.09, 7.55)
+6.8 (6.20, 7.44)
+3.7 (2.63, 4.78)
+5.7 (4.36, 7.11)
+12.1 (11.13, 13.06)
+70-74
+9.2 (9.19, 9.27)
+5.9 (4.98, 6.88)
+8.7 (8.39, 8.92)
+8.3 (7.52, 9.00)
+5.0 (3.62, 6.45)
+6.6 (5.01, 8.13)
+15.4 (14.21, 16.66)
+75-79
+11.2 (11.14, 11.24)
+7.1 (5.95, 8.28)
+9.9 (9.55, 10.17)
+9.8 (8.97, 10.71)
+5.6 (3.96, 7.15)
+8.0 (6.06, 9.92)
+18.3 (16.89, 19.76)
+80-84
+13.2 (13.11, 13.22)
+8.6 (7.03, 10.10)
+11.0 (10.60, 11.31)
+11.0 (10.03, 12.02)
+6.0 (4.19, 7.84)
+10.9 (8.00, 13.76)
+20.2 (18.62, 21.80)
+>85
+14.8 (14.70, 14.83)
+11.5 (9.11, 13.85)
+11.7 (11.34, 12.13)
+11.4 (10.38, 12.45)
+6.8 (4.40, 9.28)
+15.0 (10.82, 19.27)
+21.2 (19.56, 22.92)
+
+HAWAI‘I JOURNAL OF HEALTH & SOCIAL WELFARE, JUNE 2020, VOL 79, NO 6, SUPPLEMENT 2
+43
+Discussion
+Other reports during the past three decades have found the 
+incidence and mortality rates for breast cancer to be lower in 
+Guam than in the US overall, although availability of mam-
+mography has been limited in Guam so under-diagnosis is a 
+possibility. However, breast cancer risk is increasing among 
+women on Guam as reflected in a rise increase in both incidence 
+and mortality rates,13 possibly fueled by a more Westernized 
+lifestyle as well as by increased mammography screening. A 
+similar transition occurred between 1975-2005 in Hawai‘i in 
+Filipino and Native Hawaiian women.14,15
+We found that Filipinos in Guam have a relatively younger 
+age at diagnosis, but a lower lifetime risk of breast cancer than 
+Chamorros, and a somewhat lower highest lifetime risk of breast 
+cancer compared to Filipinos in Hawai‘i and the US generally. 
+Chamorros, while having the highest risk of breast cancer among 
+ethnic groups in Guam, had consistently lower risk across age 
+groups compared to Native Hawaiians in Hawai‘i.
+The incidence and mortality rates for breast cancer have con-
+sistently been found to be high in Guam among Chamorros and 
+low in Filipinos.5,13,16,17 The reasons for these higher breast cancer 
+rates among Chamorro Pacific Islanders on Guam are poorly 
+understood, as historically no studies have been completed in 
+Guam to examine breast cancer risk factors. A recent breast 
+cancer case-control study in the Northern Marianas found no 
+risk factors specific to this ethnic group.11
+The differences between the rates of Filipinos by location could 
+represent a difference in founder populations with differing 
+breast cancer rates from those in the Philippines, or a varying 
+level of acculturation between populations. A founder popula-
+tion is a group of migrants who become isolated from their 
+parent population and that found a new population that more 
+closely resembles the migrant than parent group. However, the 
+Filipinos living in Guam and Hawai‘i are predominantly from 
+rural areas of the Philippines, so founder population location is 
+unlikely to be the reason for differences between these groups. 
+The Filipinos in Guam include a somewhat higher proportion 
+of first generation migrants: 69% compared to 53% for Hawai‘i 
+and 66% for the US overall, in the 2010 census data.18 Giving 
+support to this hypothesis, the percentage of Filipinos over the 
+age of five that speak a Filipino language at home is 80% in 
+Guam, 58% in Hawai‘i, and 65% in the US overall, according 
+to 2010 census data. Therefore, the lower breast cancer rates 
+in Guam could be due to less acculturation to western lifestyle 
+and closer proximity to the Philippines (1551 miles apart), 
+allowing for more cross-cultural exchange. This mirrors the 
+trends found in a recent migrant study.12
+The younger age at diagnosis was found in a literature review 
+of breast cancer studies of Filipinos living in the US8 and might 
+be due to a longer immigration history, as seen among Japanese 
+and Filipinos, and is thought to be related to the adoption of 
+western behaviors that increase breast cancer risk, such as a 
+later age at childbirth, lower parity, and higher body weight.15 
+In addition, Filipino women are at increased risk, compared to 
+their Asian-American cohort, of developing more aggressive 
+breast cancer,12 such as human epidermal growth factor receptor 
+2 (HER2) subtype.19 The recent breast cancer case-control study 
+in the Northern Marianas found that larger waist circumference 
+was a strong risk factor among Filipinas.11
+The two Pacific Island ethnic groups included in this report 
+have different origins, as Native Hawaiians are Polynesians 
+and Chamorros are Micronesians. Another Polynesian ethnic 
+group, Samoans, have also been found to have high rates of 
+breast cancer.10 There is little information available on the cancer 
+rates of other Micronesian groups. 
+A strength of this report is that the incidence rates are based 
+on complete cancer registration in Guam and Hawai‘i, as well 
+as extensive coverage of cancer cases in the US generally. A 
+limitation is that Pacific Islander and Filipino populations are 
+internally diverse and the populations described here may not 
+represent all subgroups.
+The observed disparities in breast cancer incidence among eth-
+nic groups suggests ethnic differences in exposure or response 
+to risk factors. Description of these populations has not been 
+possible previously due to low mammography rates, lack of 
+comprehensive cancer registry information, and the difficulty 
+of calculating rates in small populations. These factors are still 
+limitations that continue to be strengthened. Further study is 
+needed to examine differences in risk behaviors between Fili-
+pinos and Chamorros in Guam, and between Filipinos in Guam 
+and in other US locations. 
+Conflict of Interest
+The authors declare no potential conflicts of interest. 
+Acknowledgement
+This research was supported by a U54 Minority Institution/Cancer Center 
+Partnership Grant from the National Cancer Institute (Nos. 5U54CA143727 
+and 5U54CA143728). The contents are solely the responsibilities of the authors 
+and do not necessarily represent the official views of National Cancer Institute.
+Authors’ Affiliations:
+- College of Natural & Applied Sciences, University of Guam, Mangilao, Guam (GB)
+- Cancer Research Center, University of Guam, Mangilao, Guam (BS, RB, RTLG)
+- University of Hawai‘i Cancer Center, Honolulu, HI (MG, YBS, LRW)
+- College of Tropical Agriculture and Human Resources, University of Hawai‘i at 
+Mānoa, Honolulu, HI (RN)
+Correspondence to:
+Rachael T. Leon Guerrero PhD, RDN; University of Guam Cancer Research Center, 
+Dean Circle #7, Mangilao, Guam 96923; Email: rachaeltlg@triton.uog.edu
+
+HAWAI‘I JOURNAL OF HEALTH & SOCIAL WELFARE, JUNE 2020, VOL 79, NO 6, SUPPLEMENT 2
+44
+References
+1.	 Hortobagyi GN, de la Garza Slazar J, Pretchard K, et al. The global breast cancer burden: 
+variations in epidemiology and survival. Clin Breast Cancer. 2005;6(5):391-401.
+2.	 Binns C, Low WY, Lee MK. Breast cancer: an increasing public health problem in the Asia 
+Pacific region. Asia Pac J Public Health. 2013;25(5): 364-367.
+3.	 Torre LA, Islami F, Siegel RL, Ward EM, Jemal A. Global cancer in women: burden and trends. 
+Cancer Epidemiology Biomarkers & Prevention. 21 February 2017;26(4):444-457. DOI: 
+10.1158/1055-9965.EPI-16-0858.
+4.	 Hernandez BY, Bordallo RA, Green MD, Haddock RL. Cancer in Guam and Hawaii: A comparison 
+of two U.S. island populations. Cancer Epidemiol. 2017Oct;50(Pt B):199–206.  DOI: 10.1016/j.
+canep.2017.08.005.
+5.	 Haddock RL, Talon RJ, Whippy HJD. Ethnic disparities in cancer mortality among residents of 
+Guam. Asian Pacific J Cancer Prev. 2006;7(3):411-414. 
+6.	 CIA World FactBook: Guam. https://www.cia.gov/library/publications/resources/the-world-
+factbook/geos/gq.html. Accessed August 18, 2019.
+7.	 Asian and Pacific Islander American Health Forum. Chamorros in the United States. Asian and 
+Pacific Islander American Health Forum Health Briefs. 2006.
+8.	 U.S. Census Bureau. Hawaii Census 2010. http://census.Hawaii.gov/census_2010/. Accessed 
+July 2019.
+9.	 Gomez SL, Noone AM, Lichtensztajn DY, et al. Cancer incidence trends among Asian American 
+populations in the United States, 1990–2008. J Natl Cancer Inst. 2013;105(15):1096–110.
+10.	 Liu L, Noone AM, Gomez SL, et al. Cancer incidence trends among native Hawaiians and other 
+Pacific Islanders in the United States, 1990–2008. J Natl Cancer Inst. 2013;105(15):1086–95. 
+11.	 Leon Guerrero RT, Badowski G, Yamanaka A, et al. The vital role of cancer registries in the 
+recruitment of an understudied minority population into a breast cancer study: Breast Cancer 
+Risk Model for the Pacific. Hawaii J Med Public Health. 2014;73(10):335-340.
+12.	 Simpson JS, Briggs K, George R. Breast cancer amongst Filipino migrants: a review of the 
+literature and ten-year institutional analysis. J Immigr Minor Health. 2015;17(3):729-36. doi: 
+10.1007/s10903-015-0168-2.
+13.	 Guam Comprehensive Cancer Control Program. Guam Cancer Facts and Figures 2008- 2012. 
+https://drive.google.com/folderview?id=0B9-YZDTXKUXCU05lWUEtMFJqazQ&usp=sharing. 
+Published April 2015. Accessed January 2016. 
+14.	 Simpson JS, Briggs K, George R. Breast cancer amongst Filipino migrants: a review of the 
+literature and ten-year institutional analysis. J Immigrant Minority Health. 2015;3:729–736. 
+DOI: 10.1007/s10903-015-0168-2.
+15.	 Torre LA, Sauer AMG, Chen MS, Kagawa-Singer M, Jemal A, Siegel RL. Cancer statistics 
+for Asian Americans, Native Hawaiians, and Pacific Islanders, 2016: converging incidence in 
+males and females. CA Cancer J Clin. 2016;66:182–202. DOI: 10.3322/caac.21335.
+16.	 Haddock RL, Whippy HJD, Talon RJ, et al. Ethnic disparities in cancer incidence among 
+residents of Guam. Asian Pacific J Cancer Prev. 2009;10(1):57-62. 
+17.	 Haddock RL, Naval C. Cancer on Guam, especially among Micronesians. Pac Health Dialog. 
+2002;9(2):222-224.
+18.	 2010 Census of Population and Housing, Guam Demographic Profile Summary File: 
+Technical Documentation U.S. Census Bureau, 2014 (RV). https://www.google.com/url?s
+a=t&source=web&rct=j&url=https://www.census.gov/prod/cen2010/doc/dpsfgu.pdf&ved=
+2ahUKEwiujIPI0o3kAhWPITQIHQijBv4QFjACegQICxAB&usg=AOvVaw29WVd4UBsVM
+6W_IXFy1vW0&cshid=1566173420822. Accessed August 18, 2019.
+19.	 Parise C, Caggiano V. Breast cancer mortality among Asian-American Women in California: 
+Variation according to ethnicity and tumor subtype. J Breast Cancer. 2016 Jun;19(2):112-21. 
+doi: 10.4048/jbc.2016.19.2.112.
+

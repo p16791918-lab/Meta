@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+3480,exclude,Not relevant to the research question/topic,opioid-free anesthesia mastectomy trial
+3481,exclude,Not relevant to the research question/topic,cancer treatment survivorship statistics 2025
+3482,exclude,Not relevant to the research question/topic,IBC diagnostic score multi-institutional
+3483,exclude,Not a US population-based/registry study,hormonal contraceptives subtypes Peru
+3484,exclude,Not relevant to the research question/topic,immigrant BC screening US
+3485,exclude,Not relevant to the research question/topic,heart failure mortality BC US
+3486,exclude,Not a US population-based/registry study,gynecological cancer drug models China
+3487,exclude,Not relevant to the research question/topic,cardiovascular survival BC SPC SEER ML
+3488,exclude,Not relevant to the research question/topic,latent archetypes spatial cancer
+3489,exclude,Not relevant to the research question/topic,Iowa mammography accessibility
+3490,exclude,Not relevant to the research question/topic,TTP-PECS block mastectomy trial
+3491,exclude,Not relevant to the research question/topic,Medicaid expansion BC mortality
+3492,exclude,Not relevant to the research question/topic,cancer incidence under 35 sex disparity
+3493,exclude,Not relevant to the research question/topic,sacituzumab govitecan mTNBC real-world
+3494,exclude,Not relevant to the research question/topic,TRIM37 variant TNBC Black women
+3495,exclude,Not relevant to the research question/topic,county medical debt treatment initiation
+3496,exclude,Not relevant to the research question/topic,historical redlining BC factors ecologic
+3497,exclude,Not relevant to the research question/topic,sleep racial disparities cancer review
+3498,exclude,Not relevant to the research question/topic,NBCCEDP screening outcomes by race
+3499,exclude,Not relevant to the research question/topic,unknown stage cancer US SEER all sites
+3500,exclude,Not relevant to the research question/topic,opioid pain therapy older adults ML
+3501,exclude,Not relevant to the research question/topic,collagen architecture TNBC racial groups
+3502,exclude,Not relevant to the research question/topic,CDKN2A Hispanic melanoma pancreatic
+3503,exclude,Not relevant to the research question/topic,cancer mortality transplant recipients US
+3504,exclude,Not relevant to the research question/topic,tissue expander fill reconstruction
+3505,exclude,Not relevant to the research question/topic,SES racial disparities mortality AYA
+3506,exclude,Not a US population-based/registry study,genetic predisposition BC book chapter UK
+3507,exclude,Not relevant to the research question/topic,competing risks two time scales methods
+3508,exclude,Not relevant to the research question/topic,out-of-pocket costs cancer SEER
+3509,exclude,Not relevant to the research question/topic,disparities BC incidence outcomes book chapter
+3510,exclude,Not a US population-based/registry study,breast cancer book chapter GLOBOCAN
+3511,exclude,Not relevant to the research question/topic,ART cancer risk HIV Texas
+3512,exclude,Not relevant to the research question/topic,race age NACT response Black White
+3513,exclude,Not a US population-based/registry study,cancer incidence mortality Latin America GLOBOCAN
+3514,exclude,Not relevant to the research question/topic,lung cancer overview book chapter
+3515,exclude,Not relevant to the research question/topic,One Health male breast cancer
+3516,exclude,Not relevant to the research question/topic,air pollution cancer mortality US review
+3517,exclude,Not a US population-based/registry study,geographic clinical trials access Canada
+3518,exclude,Not relevant to the research question/topic,radiation risk lunar missions
+3519,exclude,Not relevant to the research question/topic,mortality AF elderly cancer
+3520,exclude,Not relevant to the research question/topic,GLP-1RA obesity cancers T2D
+3521,exclude,"Editorials, commentaries, letters, or conference abstracts",BIRCWH meeting abstracts
+3522,include,,Annual Report to Nation part 2 COVID cancer diagnosis by race
+3523,exclude,"Editorials, commentaries, letters, or conference abstracts",societal interventions BC mortality AA call
+3524,exclude,Not relevant to the research question/topic,cause-specific mortality reproductive-age BC SEER
+3525,exclude,Not relevant to the research question/topic,eGDR mortality BC survivors NHANES
+3526,exclude,Not relevant to the research question/topic,sub-county cancer reporting zones Delaware
+3527,exclude,Not relevant to the research question/topic,dexmedetomidine SAPB mastectomy trial
+3528,exclude,Not relevant to the research question/topic,anthracycline dopaminergic neurons in vitro
+3529,exclude,Not relevant to the research question/topic,SDOH CDK4/6 initiation MBC SEER-Medicare
+3530,exclude,Not relevant to the research question/topic,race cervical SCC tumor size survival
+3531,exclude,Not relevant to the research question/topic,accuracy race/ethnicity data Utah registry
+3532,exclude,Not relevant to the research question/topic,risk factors second primary BC by race
+3533,exclude,Not relevant to the research question/topic,Gail model racial disparities risk assessment
+3534,exclude,Not relevant to the research question/topic,risk-stratified early detection book chapter
+3535,exclude,Not relevant to the research question/topic,cellular homeostasis gene expression subtypes
+3536,exclude,Not relevant to the research question/topic,breast collision tumor case report
+3537,exclude,Not relevant to the research question/topic,precision medicine cancer AA book chapter
+3538,exclude,Not relevant to the research question/topic,ESTIMATE-TN TNBC mortality SEER tool
+3539,exclude,Not relevant to the research question/topic,nodal involvement T1 BC SEER survival

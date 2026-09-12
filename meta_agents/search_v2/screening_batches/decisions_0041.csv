@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2420,exclude,Not a US population-based/registry study,RENATA palbociclib Latin America
+2421,exclude,Not relevant to the research question/topic,sarcoidosis BC case series
+2422,exclude,Not relevant to the research question/topic,molecular testing 8 countries survey
+2423,exclude,Not relevant to the research question/topic,age/race distribution oncology trials
+2424,exclude,Not relevant to the research question/topic,BC screening recommendations AA women
+2425,exclude,Not relevant to the research question/topic,racial disparities US phase 3 trials
+2426,exclude,Not relevant to the research question/topic,insulin resistance mortality WHI
+2427,exclude,Not relevant to the research question/topic,BCS reirradiation RTOG 1014
+2428,exclude,Not relevant to the research question/topic,liver metastasis pan-cancer SEER
+2429,exclude,Not a US population-based/registry study,worldwide BC incidence trends CI5
+2430,exclude,Not relevant to the research question/topic,DCISM nomogram NCDB
+2431,exclude,"Editorials, commentaries, letters, or conference abstracts",MIR congressional district conference paper
+2432,exclude,Not a US population-based/registry study,BC mortality Chinese migrant
+2433,exclude,Not a US population-based/registry study,reproductive/lifestyle Japan
+2434,exclude,Not relevant to the research question/topic,precipitation/climate cancer US ecological
+2435,exclude,Not relevant to the research question/topic,acupuncture fatigue trial protocol
+2436,exclude,Not a US population-based/registry study,AI BC prediction T2DM Taiwan
+2437,exclude,Not a US population-based/registry study,BC survival Africa meta-analysis
+2438,exclude,Not a US population-based/registry study,cancer screening Latin America review
+2439,exclude,Not relevant to the research question/topic,modifiable risk aggressiveness black/white
+2440,include,,Alaska Native cancer incidence EARTH study
+2441,exclude,"Editorials, commentaries, letters, or conference abstracts",scientific forum bariatric conference review
+2442,exclude,Not a US population-based/registry study,metformin cancer Israel
+2443,exclude,"Editorials, commentaries, letters, or conference abstracts",SCHD 2019 conference review
+2444,exclude,Not a US population-based/registry study,FoundationOne young Korea trial
+2445,exclude,Not relevant to the research question/topic,Southeast Asian women screening trial
+2446,exclude,Not a US population-based/registry study,low-dose radiation youths Korea
+2447,exclude,Not relevant to the research question/topic,cancer mortality US/foreign-born
+2448,exclude,Not a US population-based/registry study,WES Chinese concurrent cancer family
+2449,exclude,Not relevant to the research question/topic,noncancer mortality AYA SEER
+2450,exclude,Not relevant to the research question/topic,CIPN patient-reported early BC
+2451,exclude,Not relevant to the research question/topic,CDH1 penetrance gastric
+2452,exclude,Not a US population-based/registry study,VTE cancer Korea
+2453,include,,SEER incidence/survival young women stage I-III by race
+2454,exclude,Not relevant to the research question/topic,racial disparities BC outcomes Atlanta
+2455,exclude,Not a US population-based/registry study,CTC luminal A China trial
+2456,exclude,Not a US population-based/registry study,tea cancer China Kadoorie
+2457,exclude,Not relevant to the research question/topic,paclitaxel hepatobiliary trial
+2458,exclude,Not relevant to the research question/topic,age distribution OACs SEER
+2459,exclude,Not a US population-based/registry study,sedative-hypnotic cancer Korea
+2460,exclude,Not relevant to the research question/topic,HF admissions cancer NIS
+2461,exclude,Not a US population-based/registry study,childbirth young Korea SMARTSHIP
+2462,exclude,Not relevant to the research question/topic,anxiety revision surgery reconstruction
+2463,exclude,Not a US population-based/registry study,hollow breast prosthesis India
+2464,exclude,Not a US population-based/registry study,IBTR BRCA China
+2465,exclude,Not relevant to the research question/topic,BCSC model validation Chicago
+2466,exclude,Not a US population-based/registry study,T2D obesity BC Japan atomic bomb
+2467,exclude,Not a US population-based/registry study,sex disparities Botswana
+2468,exclude,Not relevant to the research question/topic,statin cancer umbrella review
+2469,exclude,Not relevant to the research question/topic,genetic services YBCS Black/White
+2470,exclude,Not relevant to the research question/topic,patient-reported toxicities early BC
+2471,exclude,Not a US population-based/registry study,cost-effectiveness screening rural China
+2472,exclude,Not a US population-based/registry study,cancer incidence Chinese migrants
+2473,include,,Cancer Statistics for African Americans 2019
+2474,exclude,Not a US population-based/registry study,durvalumab Japan
+2475,exclude,Not a US population-based/registry study,obesity cancer prevention Hong Kong
+2476,exclude,Not relevant to the research question/topic,everolimus endocrine meta-analysis
+2477,exclude,Not relevant to the research question/topic,healthcare disparities coverage screening
+2478,exclude,Not relevant to the research question/topic,why screening failed stage IV SEER/NCDB
+2479,exclude,Not a US population-based/registry study,Jaungo radiation dermatitis Korea

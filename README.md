@@ -19,10 +19,16 @@ meta_agents/
 ## 설치
 
 ```bash
-pip install anthropic biopython
-export ANTHROPIC_API_KEY="sk-ant-..."
-export NCBI_EMAIL="your@email.com"   # PubMed 실제 검색 시
+pip install biopython pypdf           # entrez(PubMed) 검색 + PDF 전문 파싱
+export NCBI_EMAIL="your@email.com"    # PubMed 실제 검색 시
+export NCBI_API_KEY="..."             # 선택 (초당 10건)
 ```
+
+> **API 키 관련**: 모든 에이전트는 `claude` CLI를 통해 Claude 구독으로 동작하므로
+> `ANTHROPIC_API_KEY`가 **필요하지 않습니다.** 단, `pubmed_mcp` 모드(Mode A)만
+> Anthropic SDK의 hosted-MCP 기능을 써서 예외적으로 API 키가 필요합니다.
+> (`pip install anthropic` + `export ANTHROPIC_API_KEY=...`)
+> 로컬/Codespaces에서 `claude` CLI를 못 찾으면 `export CLAUDE_BIN=$(which claude)`.
 
 ## 사용법
 
@@ -53,6 +59,28 @@ run_meta_analysis(
 )
 ```
 
+### 4-1. 이어하기 (체크포인트) — 중요
+선별·추출 결과는 논문 1편(PMID)마다 `.cache/<주제해시>/`에 저장됩니다.
+실행이 **중간에 끊겨도**(터미널 종료·rate limit·크래시) 다시 실행하면
+**이미 끝난 논문은 건너뛰고** 안 한 것만 처리 → 토큰 낭비 없이 이어집니다.
+
+```bash
+# 끊겨도 셸 종료에 안 죽게 백그라운드+로그로 실행 권장:
+nohup python orchestrator.py multi > run.log 2>&1 &
+tail -f run.log        # 진행 확인 (이 창은 닫아도 됨)
+```
+- 처음부터 새로 하려면 `.cache/` 폴더 삭제
+- PICO/기준을 바꾸면 해시가 달라져 자동으로 새 캐시 시작
+- 유료 PDF를 나중에 넣고 재실행하면, 그 논문만 새로 전문 선별됨(미확보분은 캐시 안 함)
+
+### 4-2. 전문(full-text) 확보 워크플로우
+정식 2단계 선별에서는 초록 통과분의 **전문**이 필요합니다.
+
+1. 먼저 한 번 실행하면 Phase 1(초록) 통과분에 대해 PMC 오픈액세스 전문을 자동 수집합니다.
+2. 확보 못 한 유료 논문은 `output_.../fulltext_needed.csv` 에 목록으로 나옵니다.
+3. 그 논문들을 **기관 계정으로 PDF 다운로드** → `meta_agents/fulltext/<PMID>.pdf` 로 저장.
+4. **다시 실행**하면 이제 그 PDF들을 전문으로 읽어 Phase 2(전문 선별)·데이터 추출에 사용합니다.
+
 ## 산출물 (output_YYYYMMDD_HHMMSS/)
 
 | 파일 | 내용 |
@@ -70,12 +98,16 @@ run_meta_analysis(
 - Boolean operator 검색식 자동 생성
 - PubMed Entrez API 호출
 
-### Agent 2: Screening
-- 포함/배제 기준 적용
-- Title/Abstract → Full-text 2단계 선별
-- RoB 2 / NOS 비뚤림 위험 평가
+### Agent 2: Screening (2단계 PRISMA)
+- **Phase 1 (초록)**: 제목/초록만 보고 전문을 확보할 가치가 있는지 판정 (`screen_phase1`)
+- **전문 확보**: Phase 1 통과분만 전문 수집 (`fetch_fulltext.py`)
+  - PMC 오픈액세스 논문 → 자동 수집 (biopython 필요)
+  - 유료 논문 → `fulltext/<PMID>.pdf` 로 직접 넣기 (기관 계정으로 다운로드)
+  - 확보 못 한 논문은 `output_.../fulltext_needed.csv` 에 목록으로 남음
+- **Phase 2 (전문)**: 실제 전문을 읽고 최종 포함/제외 + RoB/NOS 평가 (`screen_phase2`)
 
 ### Agent 3: Extraction
+- **전문(full-text)에서** 수치 추출 (초록 아님)
 - 연속형 (mean ± SD) / 이진형 (events/total) 데이터 추출
 - R data.frame 코드 자동 생성
 
@@ -105,10 +137,24 @@ python agent_1_search.py
 
 | 모드 | 명령어 | 필요 조건 |
 |------|--------|-----------|
+| **다중 소스 + 중복제거** | `python orchestrator.py multi` | PubMed(live) + Embase(CSV), biopython |
 | PubMed MCP | `python orchestrator.py mcp` | pubmed-mcp 서버 설치 |
 | Entrez API | `python orchestrator.py entrez` | pip install biopython |
 | CSV 가져오기 | `python orchestrator.py csv` | Embase/Cochrane CSV 파일 |
 | 데모 | `python orchestrator.py demo` | 없음 (기본값) |
+
+### 다중 소스 병합 (`multi`)
+여러 DB 결과를 합치고 중복을 제거합니다. `orchestrator.py`의 `sources`에서 지정:
+```python
+sources={
+    "PubMed": {"mode": "entrez"},               # 실제 PubMed 검색
+    "Embase": {"csv": "records_tabular.csv"},    # 미리 내보낸 CSV
+    # "Cochrane": {"csv": "cochrane.csv"},       # 선택
+}
+```
+중복제거 우선순위: **① PMID → ② DOI → ③ 제목+연도 유사도(≥0.92)**.
+결과는 `output_.../dedup_report.json`에 소스별 건수·중복 수·겹침(overlap)이 기록되고,
+각 논문에 출처(`sources: ["PubMed","Embase"]`)가 표시됩니다.
 
 ## 참고
 

@@ -1,0 +1,36 @@
+# Introduction
+
+*Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
+
+---
+
+## Introduction
+
+Breast cancer is the most commonly diagnosed cancer in U.S. women and a leading cause of cancer death.¹ Its rates are not the same across racial and ethnic groups. In the American Cancer Society's 2024 report, non-Hispanic Black (NHB) women had breast cancer incidence about 5% lower than non-Hispanic White (NHW) women but 38% higher mortality.¹ NHB women also have the highest rate of triple-negative breast cancer (TNBC),² and their tumors, like those in several other minority groups, are diagnosed at younger ages than in NHW women.³
+
+Race and ethnicity are recorded in a few broad categories, and rates differ within each. The AANHPI category—Asian American, Native Hawaiian, and Pacific Islander—is a clear example. Treated as one population its incidence sits well below that of NHW women, but that single number covers a wide spread. Using California registry data, Gomez and colleagues⁵ reported an incidence of 146 per 100,000 in NHW women and, within Asian American women, a more-than-twofold spread across ethnic groups—from about 103 per 100,000 in Japanese to 46 in Korean women—that widened with US nativity, the rate in US-born Filipina women surpassing that of NHW women. The lowest rates fall among Southeast Asian groups such as the Hmong,⁶ and rates differ again across the individual Asian ethnicities followed over time.⁷ Hispanic/Latina women are not one group either: incidence differs by country of origin,⁸ and among California Hispanic women it varies further with nativity and neighborhood.⁹ For American Indian and Alaska Native (AI/AN) women, the aggregate rate also depends on how race is ascertained: registries that assign race by observation misclassify and undercount many AI/AN cases, so an unlinked-registry rate understates their true incidence.¹⁰ Subtype rearranges the order once more: NHW women have the highest rate of HR+/HER2− disease while NHB women have the highest rate of TNBC,² so which group ranks highest depends on the tumor being counted.
+
+These estimates are dispersed across separate studies. They are drawn from cancer registries whose populations overlap, and from different periods, age-standardization methods, and reference groups—some studies comparing against White women, others specifically against NHW women. Because many draw on the same or nested registry populations, their estimates are not independent, and combining them directly counts some women more than once. Comparing them therefore calls for gathering the disaggregated estimates across registries, collapsing the overlapping ones, and appraising the quality of what remains.
+
+We reviewed U.S. studies of breast cancer incidence by race and ethnicity and combined them as incidence rate ratios (IRRs) relative to NHW women. The focus was on the disaggregated AANHPI and Hispanic-origin subgroups, on AI/AN women by region, and on the main receptor-defined subtypes. The main analysis retains one representative population-based estimate per registry family, and each contributing study was appraised with the Joanna Briggs Institute checklist for studies reporting prevalence and incidence data.
+
+---
+
+## References (Introduction) — draft, order of appearance
+
+| # | Author (year) | Title (abbrev.) | PMID | rec | Source check |
+|---|---|---|---|---|---|
+| 1 | Giaquinto et al. (2024) | Breast cancer statistics, 2024 | 39352042 | 0 | full text (read) |
+| 2 | Howlader et al. (2014) | US incidence of breast cancer subtypes by joint HR/HER2 status | 24777111 | 2 | full text (read) + extracted |
+| 3 | Hendrick et al. (2021) | Age distributions of breast cancer diagnosis and mortality by race/ethnicity | 34427920 | 66 | full text (read) + extracted |
+| 4 | Gleason et al. (2012) | Breast cancer incidence in Black and White women stratified by ER/PR | 23166647 | 200 | extracted |
+| 5 | Gomez et al. (2010) | Hidden breast cancer disparities in Asian women: disaggregating incidence | 20147696 | 236 | full text (read) + extracted |
+| 6 | Mills et al. (2005) | Cancer incidence in the Hmong in California, 1988–2000 | 16247793 | 49 | extracted |
+| 7 | Keegan et al. (2007) | Recent trends in breast cancer incidence among 6 Asian groups | 17163416 | 463 | extracted |
+| 8 | Pinheiro et al. (2009) | Cancer incidence in first-generation US Hispanics (Cubans, Mexicans, Puerto Ricans…) | 19661072 | 3182 | full text (read) + extracted |
+| 9 | Keegan et al. (2010) | Breast cancer incidence patterns among California Hispanic women | 20447917 | 333 | extracted |
+| 10 | Espey et al. (2007) | Annual report to the nation…AI/AN populations | 17939129 | 617 | full text (read) |
+| 11 | Nash et al. (2019) | Invasive breast cancer among Alaska Native women in Alaska | 31234738 | 28 | full text (read) + extracted |
+| 12 | Nash et al. (2022) | The Alaska Native Tumour Registry: fifty years of surveillance | 34918619 | 51 | extracted |
+
+Method-guideline citations (PRISMA 2020 and the JBI prevalence/incidence appraisal checklist) are cited in Methods, not in the Introduction.

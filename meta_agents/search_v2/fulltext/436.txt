@@ -1,0 +1,949 @@
+record_id=436 pmid=42466659 doi=10.1177/10732748261470901 pmcid=PMC13379643
+TITLE: Incidence, Trends, and Racial/Ethnic Disparities in Female Breast Cancer in the United States, 2000-2023: A SEER Based Study
+
+Introduction
+Breast cancer is a major public health problem, being the second most common cancer globally, and accounting for 2.3 million cases and 670,000 mortalities among women in 2022.
+1
+ In the United States (US), it is the most prevalent diagnosis and the primary cause of cancer-related deaths.
+2
+ Women in the US are at a 13% risk of developing breast cancer, out of which a 2.3% mortality is expected from the positive diagnosis.
+3
+ As a complex and chronic disease, breast cancer poses a significant burden on individuals, families, healthcare systems, and society. Although there has been progress through early diagnosis and treatment, the overall incidence remains high, underscoring the need for a multifaceted approach to its proper management.
+4
+According to the American Cancer Society (ACS), there has been a rising trend in the incidence of breast cancer by 1% yearly, with 62 years being the median age of diagnosis, and a sharp incidence (16%) reported among women below 50 years.
+2
+ Previous studies recorded higher incidence rates among White women (133.7 per 100,000), with high mortality rates (38% higher) reported among Black women.
+3
+ Age-adjusted rates have also been on the rise in new cancer incidences, with an average 0.6% increase annually.
+2
+The recent shift in breast cancer patterns underscores the importance of conducting longitudinal assessments of incidence trends that span a wide range of population subgroups.
+5
+ The national cancer trends analysis over time provides critical information about epidemiological changes in breast cancer and the success of public health responses.
+6
+ Although mortality rates have decreased, changes in incidence suggest dynamic risk factors that warrant further examination.
+7
+ Early detection programs should be established in a manner that is relevant to the local environment and considers the country’s health system capabilities.
+7
+ Among older populations, the public health benefits are unevenly distributed across racial, ethnic, and age-specific groups. Incidence rates, especially in younger women, and trends in Black, Hispanic, and Asian women differ significantly when compared to non-Hispanic White women.
+8
+ Socioeconomic inequalities, disparities in access to care, and unequal adoption of screening technology also exacerbate the differences.
+9
+Between 2010 and 2019, there was an annual increase in breast cancer incidence of 0.5% yearly, with the highest increase rate (2.1%) reported among non-Hispanic Asian females.
+10
+ A similar study on incidence trends from 2001 to 2019 among women aged 65 years and older showed a significant variation in age and ethnicity, with annual percentages being higher in Hispanic women.
+11
+ The majority of recent studies have evaluated breast cancer occurrence over short periods and have employed aggregate models that conceal significant variations within subgroups.4,10-13 There is limited data linking 2000 to 2023, a two-decade period that can provide detailed information on the changing trends in breast cancer. Other analyses have focused on specific age groups, i.e., those 65 years and above, overlooking trends in the other groups.
+14
+ The studies also lack adequate stratification against demographic variables, particularly in addressing structural health inequities.
+During the COVID-19 pandemic, the suspension of routine screening services introduced additional variability into cancer surveillance data.
+15
+ Recent patterns of incidence have probably been influenced by changes in healthcare-seeking behavior, delays in diagnosis, and the discontinuation of routine screening programs after 2020.
+15
+ To determine whether changes after 2000 have affected breast cancer in any way not previously recorded, a thorough investigation of those trends is necessary. A national, population-based study of breast cancer incidence over a two-decade frame may provide essential insights into the improvements and failures of existing public health strategies. By disaggregating data on incidence by age and race/ethnicity, a more accurate picture of the disease burden and its trend direction can be obtained. We used Joinpoint regression modelling to project the levels of breast cancer incidence in US women between 2000 and 2023. Its analytical approach will highlight trends and measure changes in percentages annually, allowing the identification of specific populations with significant incidence rates and improving epidemiological understanding.
+Awareness of long-term trends in the incidence of breast cancer is a primary point of reference in the development of specific screening guidelines and resource investment in prevention and early detection.
+16
+ Comprehensive trend analysis also facilitates a fairer approach to cancer control by identifying where the disparities persist or are increasing.
+16
+ Public health campaigns, policy initiatives, and clinical guidelines should be based on factual and up-to-date data that considers both past trends and the emerging changes.
+16
+ A long-term focus and hierarchical analysis will position this study favorably to satisfy these needs, while also providing quality, evidence-informed decisions at the local, state, and national levels. Unlike prior surveillance reports and analyses covering shorter study periods or limited subgroups, the present study provides a comprehensive 24-year population-based analysis of breast cancer incidence trends simultaneously stratified by age group, race/ethnicity, and sex. By applying Joinpoint regression to identify statistically significant trends within each demographic subgroup and conducting sensitivity analyses to formally assess the impact of the COVID-19 pandemic disruptions, our study offers methodological and epidemiological insights beyond what is routinely reported by professional organizations or prior analyses.
+Methods
+Data Source
+We analyzed the Surveillance, Epidemiology, and End Results (SEER) Program dataset of the National Cancer Institute (NCI).
+17
+ For this study, we used de-identified publicly available data, and therefore, a formal ethics approval was not required. The SEER program is a federally funded, population-based, authoritative source on cancer incidence and survival covering 48% of the US population.
+17
+ The data set routinely collects and publishes cancer cases from cancer registries, including patient demographic information, primary tumor site, tumor morphology, stage at diagnosis, first course of treatment, and follow-up for vital status.
+17
+ It encompasses cancer incidence data collected from central cancer registries in four states, as reported to the SEER program.
+17
+ It includes information on all new cancer diagnoses sourced from patient records at various medical facilities, including hospitals, physicians’ offices, therapeutic radiation centers, freestanding surgical centers, and pathology laboratories.
+17
+ Central cancer registries compile these data and utilize state vital records to gather information on any cancer-related deaths that may not have been reported as cases. To ensure consistency and accuracy, the registries employ uniform data items and codes as established by the North American Association of Central Cancer Registries (NAACCR). This comprehensive dataset is submitted annually to the Centers for Disease Control and Prevention (CDC) and the NCI, meeting the US Cancer Statistics publication criteria, which attests to the high quality of the data. The population-based study was conducted in the United States using SEER registry data and included all newly diagnosed female breast cancer cases recorded from 2000 to 2023, with data collection occurring through routine cancer surveillance during the study period and no participant recruitment or prospective follow-up. The reporting of this study conforms to the Reporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement.
+18
+Case Definitions and Tumor Characteristics
+We included new cases of breast cancer identified using the International Classification of Diseases for Oncology (ICD-O)-Third Edition and histology codes. To further classify breast cancer in tumor or cancer registries, we selected them using the topography (site) and the histology (morphology) codes.
+The relevant ICD-O-3 topography codes (sites) are in the C50 series, specifically: C50.0 (Nipple/Areola), C50.1 (Central portion), C50.2 (Upper-inner quadrant), C50.3 (Lower-inner quadrant), C50.4 (Upper-outer quadrant), C50.5 (Lower-outer quadrant), C50.6 (Axillary tail), C50.8 (Overlapping lesion), and C50.9 (Breast, NOS).
+The histology (morphology) codes are in the “C50″ range and include 8500 (ductal/NOS), 8520 (lobular), 8522 (ductal/lobular), 8480 (mucinous), 8211 (tubular), 8501 (comedocarcinoma), 8530 (inflammatory), 8510 (medullary), and 8050 and 8503 (papillary) [Details on breast cancer codes: https://breast-cancer-research.biomedcentral.com/articles/10.1186/bcr1352/tables/1].
+19
+Demographic Characteristics
+Based on the patient’s demographic information abstracted from their medical records, we identified characteristics such as the year of cancer diagnosis ranging from 2000 to 2023 and the age groups classified into 20–⁠24, 25⁠–⁠29, 30⁠–⁠34, 35⁠–⁠39, 40⁠–⁠44, 45⁠–49, 50⁠–⁠59, 60–64, 65⁠–⁠69, 70–⁠74, 75⁠–⁠79, 80–⁠84, 85-89 and 90+ years. Race/Ethnicity was categorized into Hispanic, non-Hispanic Black, non-Hispanic White, American Indian/Alaska Native, and Asian/Pacific Islander.
+Definitions of Cancer Incidence and Burden
+The US NCI SEER program defines the cancer incidence rate as the number of new cancers of a specific site or type that occur in a given population during a given year, expressed as new cancer cases per 100,000 people at risk.
+Incidence rate=(New Cancers / Population)×100,000
+The numerator of the incidence rate is the number of new cancers, and the denominator is the population size. The number of new cancers may include multiple primary cancers in a single patient. The primary site reported is the site of origin and not the metastatic site. In general, the incidence rate would not include recurrences. The population used depends on the rate to be calculated. For cancer sites that occur in only one sex, the sex-specific population (e.g., females for breast cancer) is used.
+Statistical Analysis
+We calculated the incidence rates using the SEER Stat version 8.3.5. Person-years were calculated by aggregating population sizes over calendar years. We age-adjusted the incidence to the 2000 US standard population and reported it as per 100,000 person-years. Incidence trends were analyzed using the National Cancer Institute’s Joinpoint Regression Analysis tool (version 4.7.0). Average annual percent changes (AAPCs) and corresponding 95% confidence intervals were estimated to summarize the trends over the study period. The AAPC is a weighted average of the APCs from the joinpoint model, with weights equal to the length of each interval. The joinpoint program applied the best-fitting log-linear regression model to find calendar years (joinpoints) with significant APC changes, resulting in the minimum number of joinpoints required to fit the data. We used the Monte Carlo permutation test to calculate the number of significant joinpoints. To compare trends, a t-test was employed for zero joinpoints and a z-test for one or more. All hypotheses were two-sided, with statistical significance set at p<0.05.
+To account for pandemic-related disruptions to cancer screening, we conducted a formal sensitivity analysis. We reran the Joinpoint regression restricted to 2000-2019 to examine the pre-pandemic trend estimates. A second analysis was conducted by retaining the full study period and treating the 2020 and 2021 observations as missing values in the Joinpoint regression model.
+Results
+During 2000-2023, a total of 2,434,040 breast cancer cases were diagnosed. Case distribution and incidence rates by age, race or ethnicity, and year of diagnosis are presented in Table 1. Age-standardized incidence rates increased gradually from 2000 to 2023, from 185.2 per 100,000 women in 2000 to 214.1 per 100,000 in 2023 (Table 1). Table 2 presents breast cancer case counts and age-specific adjusted incidence rates by year of diagnosis. Across the study period, incidence rates increased within all age groups, with the highest rates observed among women aged 65-79 years, followed by those aged ≥80 years. Table 3 presents breast cancer case counts and adjusted incidence rates by year of diagnosis and race/ethnicity. Throughout the study period, non-Hispanic White women had the highest incidence rates, followed by non-Hispanic Black women. Across all age and racial/ethnic groups, incidence rates temporarily declined during the year 2020 (Tables 2 and 3).Table 1.Breast Cancer Age-Standardized Rates Among US Women by Age at Diagnosis, Race/Ethnicity, and Year of Diagnosis During 2000-2023 in the United StatesVariableCases (%)Incidence rate per 100,000 (95% CI)
+Age Group
+20–24 years1,894 (0.1%)1.6 (1.5, 1.7)25–29 years11,476 (0.5%)9.6 (9.4, 9.8)30–34 years34,384 (1.4%)28.7 (28.4, 29.0)35–39 years74,857 (3.1%)62.7 (62.3, 63.2)40–44 years150,400 (6.2%)125.9 (125.3, 126.6)45–49 years227,243 (9.3%)192.6 (191.8, 193.4)50–54 years264,973 (10.9%)231.1 (230.2, 231.9)55–59 years288,940 (11.9%)273.4 (272.4, 274.4)60–64 years311,104 (12.8%)342.0 (340.8, 343.2)65–69 years309,636 (12.7%)415.4 (413.9, 416.8)70–74 years268,032 (11.0%)449.7 (448.0, 451.4)75–79 years211,477 (8.7%)456.3 (454.3, 458.2)80–84 years148,363 (6.1%)429.6 (427.4, 431.8)85-89 years86,075 (3.5%)387.4 (384.8, 390.0)90+ years45,186 (1.9%)310.8 (308.0, 313.7)
+Race/Ethnicity
+Hispanic308,776 (12.7%)116.6 (116.2, 117.0)American Indian/Alaska Native10,647 (0.4%)134.1 (131.6, 136.7)Asian or Pacific Islander164,462 (6.8%)143.8 (143.1, 144.5)Non-Hispanic Black270,111 (11.1%)174.9 (174.2, 175.5)Non-Hispanic White1,680,044 (69.0%)228.9 (228.5, 229.2)
+Year of Diagnosis
+200086,810 (3.6%)185.2 (183.9, 186.4)200187,908 (3.6%)185.1 (183.9, 186.4)200287,919 (3.6%)183.0 (181.8, 184.2)200384,745 (3.5%)174.4 (173.3, 175.6)200485,538 (3.5%)174.3 (173.2, 175.5)200586,675 (3.6%)175.1 (174.0, 176.3)200688,552 (3.6%)177.0 (175.8, 178.1)200791,726 (3.8%)181.3 (180.1, 182.4)200893,843 (3.9%)183.2 (182.0, 184.4)200996,841 (4.0%)186.6 (185.5, 187.8)201095,321 (3.9%)181.4 (180.2, 182.5)201198,680 (4.1%)185.4 (184.3, 186.6)2012100,053 (4.1%)185.8 (184.7, 187.0)2013102,827 (4.2%)189.0 (187.9, 190.2)2014105,272 (4.3%)191.5 (190.3, 192.6)2015108,306 (4.4%)195.1 (193.9, 196.2)2016108,413 (4.5%)193.5 (192.4, 194.7)2017111,612 (4.6%)197.7 (196.6, 198.9)2018114,479 (4.7%)201.5 (200.4, 202.7)2019119,121 (4.9%)208.5 (207.3, 209.7)2020108,254 (4.4%)188.6 (187.5, 189.7)2021122,930 (5.1%)213.7 (212.5, 214.9)2022122,886 (5.0%)212.2 (211.0, 213.3)2023125,329 (5.1%)214.1 (212.9, 215.3)Table 2.Breast Cancer Case Counts and Adjusted Incidence Rates by Year of Diagnosis and Age-GroupYear20-3940-4950-6465-79≥80CountRateCountRateCountRateCountRateCountRate2000485725.6314938153.4129129304.3927095446.6710791421.752001497326.2114947150.6730073302.9526864443.4611051423.692002474124.9915054149.4030839299.7526389436.2910896410.052003475325.0815464151.6029601277.6824395402.1910532389.302004478825.3215638151.9329945271.2224258399.4910909396.342005460724.4315651151.7930792269.5624359399.8311266401.482006465624.5815935154.8031744268.5925142409.6511075388.602007464524.3916153158.0033483274.0426149420.2711296390.102008480825.0615987157.4334610275.2727003423.4911435389.722009474024.5216093159.2135707275.6028351434.5411950402.382010466623.9915454153.4335293264.0728311424.8911597385.292011486624.8215681156.2036844268.3229722436.0611567382.282012482824.4015484155.4037039266.6231110434.7111592381.352013502325.1515575158.1137927269.3132771439.6411531379.452014503024.9215498159.2838982273.2634325442.6211437375.592015518025.4515575161.2839876276.8436010447.4711665381.412016531625.9014961155.6039714274.5336954443.1911468372.942017540626.2015727163.7540129276.9738792449.6911558374.462018546226.3815820164.9540305278.4640580455.0112312395.922019582928.0916337170.6641488287.1942887465.1312580401.222020556426.8415140158.3037547260.2238822407.6511181355.062021598229.0116598174.0441784290.5445579464.2612987408.842022584528.2416659173.5441052287.6746090455.8113240408.702023604628.9517274177.4941114290.3447187454.1313708407.37Table 3.Breast Cancer Case Counts and Adjusted Incidence Rates by Year of Diagnosis and Race/EthnicityYearHispanicIndian/Alaska nativeAsian/Pacific islanderBlackWhiteCountRateCountRateCountRateCountRateCountRate2000754497.9526592.083530111.058219149.6267252222.562001759994.9228296.603799114.128265148.4067963224.382002805196.8725586.344067117.148584152.1666962220.832003820695.31302101.034026111.638700152.4563511209.182004851895.80331109.374355116.648875153.8163459208.972005915299.79313102.394569118.239037155.6863604209.582006936999.06314101.794759119.049366158.9964744213.0920079974102.22354113.635101123.559918166.0366379218.10200810576104.93352111.645427127.3110109166.8767379220.83200911233107.86384120.315559126.5210698173.7568967225.36201011087103.14389120.455989132.4010430166.5767426219.62201112083109.43456138.986327135.3211067173.6368747223.22201212479110.22467140.106590136.6311434176.3669083223.74201313461116.14451133.437126143.3911785178.8470004226.47201413783116.22498145.347293142.2112136181.2371562231.21201514688121.14504145.317922149.6012436182.9472756235.00201615190122.65506144.418040147.4612572182.5172105233.05201715819125.26550155.448713155.7013043187.0673487237.90201816471128.03549153.849321163.2313116186.0175022243.43201917790135.94622172.889619165.5014161198.6076929250.30202016205121.68515141.738739148.1512816178.0869979228.57202119091141.16659180.0911043184.9714238196.6777899255.97202219648142.34635172.4311204182.1214466197.8676933254.02202320759146.60694187.0111344177.9614640197.6977892257.73
+Table 1.
+Breast Cancer Age-Standardized Rates Among US Women by Age at Diagnosis, Race/Ethnicity, and Year of Diagnosis During 2000-2023 in the United States
+Variable
+Cases (%)
+Incidence rate per 100,000 (95% CI)
+Age Group
+20–24 years
+1,894 (0.1%)
+1.6 (1.5, 1.7)
+25–29 years
+11,476 (0.5%)
+9.6 (9.4, 9.8)
+30–34 years
+34,384 (1.4%)
+28.7 (28.4, 29.0)
+35–39 years
+74,857 (3.1%)
+62.7 (62.3, 63.2)
+40–44 years
+150,400 (6.2%)
+125.9 (125.3, 126.6)
+45–49 years
+227,243 (9.3%)
+192.6 (191.8, 193.4)
+50–54 years
+264,973 (10.9%)
+231.1 (230.2, 231.9)
+55–59 years
+288,940 (11.9%)
+273.4 (272.4, 274.4)
+60–64 years
+311,104 (12.8%)
+342.0 (340.8, 343.2)
+65–69 years
+309,636 (12.7%)
+415.4 (413.9, 416.8)
+70–74 years
+268,032 (11.0%)
+449.7 (448.0, 451.4)
+75–79 years
+211,477 (8.7%)
+456.3 (454.3, 458.2)
+80–84 years
+148,363 (6.1%)
+429.6 (427.4, 431.8)
+85-89 years
+86,075 (3.5%)
+387.4 (384.8, 390.0)
+90+ years
+45,186 (1.9%)
+310.8 (308.0, 313.7)
+Race/Ethnicity
+Hispanic
+308,776 (12.7%)
+116.6 (116.2, 117.0)
+American Indian/Alaska Native
+10,647 (0.4%)
+134.1 (131.6, 136.7)
+Asian or Pacific Islander
+164,462 (6.8%)
+143.8 (143.1, 144.5)
+Non-Hispanic Black
+270,111 (11.1%)
+174.9 (174.2, 175.5)
+Non-Hispanic White
+1,680,044 (69.0%)
+228.9 (228.5, 229.2)
+Year of Diagnosis
+2000
+86,810 (3.6%)
+185.2 (183.9, 186.4)
+2001
+87,908 (3.6%)
+185.1 (183.9, 186.4)
+2002
+87,919 (3.6%)
+183.0 (181.8, 184.2)
+2003
+84,745 (3.5%)
+174.4 (173.3, 175.6)
+2004
+85,538 (3.5%)
+174.3 (173.2, 175.5)
+2005
+86,675 (3.6%)
+175.1 (174.0, 176.3)
+2006
+88,552 (3.6%)
+177.0 (175.8, 178.1)
+2007
+91,726 (3.8%)
+181.3 (180.1, 182.4)
+2008
+93,843 (3.9%)
+183.2 (182.0, 184.4)
+2009
+96,841 (4.0%)
+186.6 (185.5, 187.8)
+2010
+95,321 (3.9%)
+181.4 (180.2, 182.5)
+2011
+98,680 (4.1%)
+185.4 (184.3, 186.6)
+2012
+100,053 (4.1%)
+185.8 (184.7, 187.0)
+2013
+102,827 (4.2%)
+189.0 (187.9, 190.2)
+2014
+105,272 (4.3%)
+191.5 (190.3, 192.6)
+2015
+108,306 (4.4%)
+195.1 (193.9, 196.2)
+2016
+108,413 (4.5%)
+193.5 (192.4, 194.7)
+2017
+111,612 (4.6%)
+197.7 (196.6, 198.9)
+2018
+114,479 (4.7%)
+201.5 (200.4, 202.7)
+2019
+119,121 (4.9%)
+208.5 (207.3, 209.7)
+2020
+108,254 (4.4%)
+188.6 (187.5, 189.7)
+2021
+122,930 (5.1%)
+213.7 (212.5, 214.9)
+2022
+122,886 (5.0%)
+212.2 (211.0, 213.3)
+2023
+125,329 (5.1%)
+214.1 (212.9, 215.3)
+Table 2.
+Breast Cancer Case Counts and Adjusted Incidence Rates by Year of Diagnosis and Age-Group
+Year
+20-39
+40-49
+50-64
+65-79
+≥80
+Count
+Rate
+Count
+Rate
+Count
+Rate
+Count
+Rate
+Count
+Rate
+2000
+4857
+25.63
+14938
+153.41
+29129
+304.39
+27095
+446.67
+10791
+421.75
+2001
+4973
+26.21
+14947
+150.67
+30073
+302.95
+26864
+443.46
+11051
+423.69
+2002
+4741
+24.99
+15054
+149.40
+30839
+299.75
+26389
+436.29
+10896
+410.05
+2003
+4753
+25.08
+15464
+151.60
+29601
+277.68
+24395
+402.19
+10532
+389.30
+2004
+4788
+25.32
+15638
+151.93
+29945
+271.22
+24258
+399.49
+10909
+396.34
+2005
+4607
+24.43
+15651
+151.79
+30792
+269.56
+24359
+399.83
+11266
+401.48
+2006
+4656
+24.58
+15935
+154.80
+31744
+268.59
+25142
+409.65
+11075
+388.60
+2007
+4645
+24.39
+16153
+158.00
+33483
+274.04
+26149
+420.27
+11296
+390.10
+2008
+4808
+25.06
+15987
+157.43
+34610
+275.27
+27003
+423.49
+11435
+389.72
+2009
+4740
+24.52
+16093
+159.21
+35707
+275.60
+28351
+434.54
+11950
+402.38
+2010
+4666
+23.99
+15454
+153.43
+35293
+264.07
+28311
+424.89
+11597
+385.29
+2011
+4866
+24.82
+15681
+156.20
+36844
+268.32
+29722
+436.06
+11567
+382.28
+2012
+4828
+24.40
+15484
+155.40
+37039
+266.62
+31110
+434.71
+11592
+381.35
+2013
+5023
+25.15
+15575
+158.11
+37927
+269.31
+32771
+439.64
+11531
+379.45
+2014
+5030
+24.92
+15498
+159.28
+38982
+273.26
+34325
+442.62
+11437
+375.59
+2015
+5180
+25.45
+15575
+161.28
+39876
+276.84
+36010
+447.47
+11665
+381.41
+2016
+5316
+25.90
+14961
+155.60
+39714
+274.53
+36954
+443.19
+11468
+372.94
+2017
+5406
+26.20
+15727
+163.75
+40129
+276.97
+38792
+449.69
+11558
+374.46
+2018
+5462
+26.38
+15820
+164.95
+40305
+278.46
+40580
+455.01
+12312
+395.92
+2019
+5829
+28.09
+16337
+170.66
+41488
+287.19
+42887
+465.13
+12580
+401.22
+2020
+5564
+26.84
+15140
+158.30
+37547
+260.22
+38822
+407.65
+11181
+355.06
+2021
+5982
+29.01
+16598
+174.04
+41784
+290.54
+45579
+464.26
+12987
+408.84
+2022
+5845
+28.24
+16659
+173.54
+41052
+287.67
+46090
+455.81
+13240
+408.70
+2023
+6046
+28.95
+17274
+177.49
+41114
+290.34
+47187
+454.13
+13708
+407.37
+Table 3.
+Breast Cancer Case Counts and Adjusted Incidence Rates by Year of Diagnosis and Race/Ethnicity
+Year
+Hispanic
+Indian/Alaska native
+Asian/Pacific islander
+Black
+White
+Count
+Rate
+Count
+Rate
+Count
+Rate
+Count
+Rate
+Count
+Rate
+2000
+7544
+97.95
+265
+92.08
+3530
+111.05
+8219
+149.62
+67252
+222.56
+2001
+7599
+94.92
+282
+96.60
+3799
+114.12
+8265
+148.40
+67963
+224.38
+2002
+8051
+96.87
+255
+86.34
+4067
+117.14
+8584
+152.16
+66962
+220.83
+2003
+8206
+95.31
+302
+101.03
+4026
+111.63
+8700
+152.45
+63511
+209.18
+2004
+8518
+95.80
+331
+109.37
+4355
+116.64
+8875
+153.81
+63459
+208.97
+2005
+9152
+99.79
+313
+102.39
+4569
+118.23
+9037
+155.68
+63604
+209.58
+2006
+9369
+99.06
+314
+101.79
+4759
+119.04
+9366
+158.99
+64744
+213.09
+2007
+9974
+102.22
+354
+113.63
+5101
+123.55
+9918
+166.03
+66379
+218.10
+2008
+10576
+104.93
+352
+111.64
+5427
+127.31
+10109
+166.87
+67379
+220.83
+2009
+11233
+107.86
+384
+120.31
+5559
+126.52
+10698
+173.75
+68967
+225.36
+2010
+11087
+103.14
+389
+120.45
+5989
+132.40
+10430
+166.57
+67426
+219.62
+2011
+12083
+109.43
+456
+138.98
+6327
+135.32
+11067
+173.63
+68747
+223.22
+2012
+12479
+110.22
+467
+140.10
+6590
+136.63
+11434
+176.36
+69083
+223.74
+2013
+13461
+116.14
+451
+133.43
+7126
+143.39
+11785
+178.84
+70004
+226.47
+2014
+13783
+116.22
+498
+145.34
+7293
+142.21
+12136
+181.23
+71562
+231.21
+2015
+14688
+121.14
+504
+145.31
+7922
+149.60
+12436
+182.94
+72756
+235.00
+2016
+15190
+122.65
+506
+144.41
+8040
+147.46
+12572
+182.51
+72105
+233.05
+2017
+15819
+125.26
+550
+155.44
+8713
+155.70
+13043
+187.06
+73487
+237.90
+2018
+16471
+128.03
+549
+153.84
+9321
+163.23
+13116
+186.01
+75022
+243.43
+2019
+17790
+135.94
+622
+172.88
+9619
+165.50
+14161
+198.60
+76929
+250.30
+2020
+16205
+121.68
+515
+141.73
+8739
+148.15
+12816
+178.08
+69979
+228.57
+2021
+19091
+141.16
+659
+180.09
+11043
+184.97
+14238
+196.67
+77899
+255.97
+2022
+19648
+142.34
+635
+172.43
+11204
+182.12
+14466
+197.86
+76933
+254.02
+2023
+20759
+146.60
+694
+187.01
+11344
+177.96
+14640
+197.69
+77892
+257.73
+Joint point regression estimates showed an increasing trend in breast cancer incidence from 2000 to 2023 (AAPC = 0.76%, 95% CI = 0.53% to 1.00%), with notable differences observed in specific subgroups (Table 4). The AAPC estimates were broadly similar in the primary analysis and in the COVID-19 sensitivity analyses, both for overall breast cancer incidence and across racial, ethnic, and age subgroups (Table 4). Among racial and ethnic groups, the overall direction of the trends and their statistical significance did not change across analyses. This included non-Hispanic Black women, for whom the estimates remained comparable in the primary analysis and both sensitivity analyses. Some small differences were seen in certain age groups, especially women aged 60–64, 65–69, and 75–79 years. In these groups, statistical significance varied somewhat between analyses, even though the AAPC estimates themselves were generally similar (Table 4). Because the findings were largely consistent across analyses, the primary analysis results are presented below.Table 4.Comparison of Joinpoint Regression Trend Estimates Across Primary and COVID-19 Sensitivity Analyses for Female Breast Cancer Incidence in the United States, 2000–2023SubgroupPrimary analysis 2000–2023 (all years) AAPC (95% CI)Sensitivity 1 2000–2019 (Pre-COVID) AAPC (95% CI)Sensitivity 2 2000–2023 (excl. 2020–2021) AAPC (95% CI)Overall0.76 (0.53 to 1.00)0.67 (0.39 to 0.95)0.78 (0.54 to 1.03)
+By Race/Ethnicity
+Hispanic1.91 (1.66 to 2.15)1.82 (1.57 to 2.07)1.95 (1.71 to 2.19)American Indian/Alaska Native3.10 (2.71 to 3.5)3.30 (2.79 to 3.81)3.22 (2.83to 3.62)Asian or Pacific Islander2.20 (1.93 to 2.48)2.13 (1.86 to 2.39)2.22 (1.99 to 2.46)Non-Hispanic Black1.31 (1.12 to 1.49)1.45 (1.28 to 1.61)1.38 (1.24 to 1.52)Non-Hispanic White0.76 (0.51 to 1.00)0.67 (0.38 to 0.96)0.78 (0.53 to 1.03)
+By Age Group
+20–24 years0.91 (0.16 to 1.64)1.20 (0.32 to 2.08)0.84 (0.08 to 1.64)25–29 years1.60 (1.36 to 1.83)1.59 (1.26 to 1.90)1.55 (1.30 to 1.81)30–34 years0.95 (0.72 to 1.18)0.89 (0.58 to 1.20)0.94 (0.69 to 1.20)35–39 years0.46 (0.22 to 0.70)0.32 (0.08 to 0.56)0.44 (0.21 to 0.67)40–44 years0.70 (0.52 to 0.88)0.58 (0.42 to 0.74)0.72 (0.55 to 0.89)45–49 years0.49 (0.29 to 0.68)0.29 (0.11 to 0.46)0.48 (0.28 to 0.70)50–54 years0.13 (-0.22 to 0.46)-0.11 (-0.49 to 0.27)0.13(-0.20 to 0.46)55–59 years-0.56 (-0.92 to -0.20)-0.84 (-1.36 to -0.32)-0.60 (-1.00 to -0.17)60–64 years-0.30 (-0.60 to -0.002)-0.38 (-0.74 to -0.03)-0.26 (-0.54 to 0.02)65–69 years0.26 (-0.01 to 0.53)0.41 (0.09 to 0.72)0.36 (0.12 to 0.61)70–74 years0.64 (0.27 to 1.0)0.78 (0.34 to 1.22)0.70 (0.37 to 1.04)75–79 years0.30 (0.03 to 0.58)0.24 (-0.12 to 0.60)0.32 (0.05 to 0.60)80–84 years0.08 (-0.26 to 0.40)-0.14 (-0.48 to 0.18)0.09 (-0.22 to 0.42)85 – 89 years-0.09 (-0.35 to 0.16)-0.15 (-0.40 to 0.10)-0.06 (-0.28 to 0.18)90 + years-0.86 (-1.25 to -0.49)-1.12 (-1.50 to -0.74)-0.87 (-1.25 to -0.46)AAPC = Average Annual Percentage Change, representing the weighted average of APCs across all trend segments identified by the Joinpoint model. Bold values indicate statistical significance at p<0.05.Sensitivity 1 excludes pandemic years entirely (the analysis ends in 2019).Sensitivity 2 treats 2020 and 2021 as missing data points in the Joinpoint model; the full 2000–2023 period is modeled with those two years excluded.
+Table 4.
+Comparison of Joinpoint Regression Trend Estimates Across Primary and COVID-19 Sensitivity Analyses for Female Breast Cancer Incidence in the United States, 2000–2023
+Subgroup
+Primary analysis 2000–2023 (all years) AAPC (95% CI)
+Sensitivity 1 2000–2019 (Pre-COVID) AAPC (95% CI)
+Sensitivity 2 2000–2023 (excl. 2020–2021) AAPC (95% CI)
+Overall
+0.76 (0.53 to 1.00)
+0.67 (0.39 to 0.95)
+0.78 (0.54 to 1.03)
+By Race/Ethnicity
+Hispanic
+1.91 (1.66 to 2.15)
+1.82 (1.57 to 2.07)
+1.95 (1.71 to 2.19)
+American Indian/Alaska Native
+3.10 (2.71 to 3.5)
+3.30 (2.79 to 3.81)
+3.22 (2.83to 3.62)
+Asian or Pacific Islander
+2.20 (1.93 to 2.48)
+2.13 (1.86 to 2.39)
+2.22 (1.99 to 2.46)
+Non-Hispanic Black
+1.31 (1.12 to 1.49)
+1.45 (1.28 to 1.61)
+1.38 (1.24 to 1.52)
+Non-Hispanic White
+0.76 (0.51 to 1.00)
+0.67 (0.38 to 0.96)
+0.78 (0.53 to 1.03)
+By Age Group
+20–24 years
+0.91 (0.16 to 1.64)
+1.20 (0.32 to 2.08)
+0.84 (0.08 to 1.64)
+25–29 years
+1.60 (1.36 to 1.83)
+1.59 (1.26 to 1.90)
+1.55 (1.30 to 1.81)
+30–34 years
+0.95 (0.72 to 1.18)
+0.89 (0.58 to 1.20)
+0.94 (0.69 to 1.20)
+35–39 years
+0.46 (0.22 to 0.70)
+0.32 (0.08 to 0.56)
+0.44 (0.21 to 0.67)
+40–44 years
+0.70 (0.52 to 0.88)
+0.58 (0.42 to 0.74)
+0.72 (0.55 to 0.89)
+45–49 years
+0.49 (0.29 to 0.68)
+0.29 (0.11 to 0.46)
+0.48 (0.28 to 0.70)
+50–54 years
+0.13 (-0.22 to 0.46)
+-0.11 (-0.49 to 0.27)
+0.13(-0.20 to 0.46)
+55–59 years
+-0.56 (-0.92 to -0.20)
+-0.84 (-1.36 to -0.32)
+-0.60 (-1.00 to -0.17)
+60–64 years
+-0.30 (-0.60 to -0.002)
+-0.38 (-0.74 to -0.03)
+-0.26 (-0.54 to 0.02)
+65–69 years
+0.26 (-0.01 to 0.53)
+0.41 (0.09 to 0.72)
+0.36 (0.12 to 0.61)
+70–74 years
+0.64 (0.27 to 1.0)
+0.78 (0.34 to 1.22)
+0.70 (0.37 to 1.04)
+75–79 years
+0.30 (0.03 to 0.58)
+0.24 (-0.12 to 0.60)
+0.32 (0.05 to 0.60)
+80–84 years
+0.08 (-0.26 to 0.40)
+-0.14 (-0.48 to 0.18)
+0.09 (-0.22 to 0.42)
+85 – 89 years
+-0.09 (-0.35 to 0.16)
+-0.15 (-0.40 to 0.10)
+-0.06 (-0.28 to 0.18)
+90 + years
+-0.86 (-1.25 to -0.49)
+-1.12 (-1.50 to -0.74)
+-0.87 (-1.25 to -0.46)
+AAPC = Average Annual Percentage Change, representing the weighted average of APCs across all trend segments identified by the Joinpoint model. Bold values indicate statistical significance at p<0.05.
+Sensitivity 1 excludes pandemic years entirely (the analysis ends in 2019).
+Sensitivity 2 treats 2020 and 2021 as missing data points in the Joinpoint model; the full 2000–2023 period is modeled with those two years excluded.
+Incidence Trends by Age
+Age-specific trends indicate that the incidence of breast cancer increased steadily with age, with the highest incidence among women aged 75–⁠79 years (456.3 per 100,000) (Table 1). Annual age-specific incidence rates are presented in Table 2, and the corresponding joinpoint regression trends are presented in Table 4 and Figure 1.Figure 1.Joinpoint regression analysis by age-groups. Figure 1 shows breast cancer incidence rates (per 100,000) by 15 age groups from 2000 to 2023, based on joinpoint regression analysis. A clear and intuitive pattern is revealed: the older the age group, the higher the incidence rate
+Figure 1.
+Joinpoint regression analysis by age-groups. Figure 1 shows breast cancer incidence rates (per 100,000) by 15 age groups from 2000 to 2023, based on joinpoint regression analysis. A clear and intuitive pattern is revealed: the older the age group, the higher the incidence rate
+Joinpoint regression analysis showed a consistent, significant increasing trend for all age groups under 45 years from 2000–⁠2023. The 20–⁠24 years age group had an AAPC of 0.91% (95% CI = 0.16% to 1.64%). The other groups had APC = 1.60% (95% CI = 1.36% to 1.83%) for 25–⁠29 years, AAPC = 0.95% (95% CI = 0.72% to 1.18%) for 30–⁠34 years, AAPC = 0.46% (95% CI = 0.22% to 0.70%) for 35–⁠39 years, and AAPC = 0.70% (95% CI = 0.52% to 0.88%) for 40–⁠44 years. A significant increase in breast cancer incidence was observed among women aged 45–⁠49 years between the years 2000 and 2023 (AAPC = 0.49%, 95% CI = 0.29% to 0.68%). There was an increase in breast cancer incidence among women aged 50–⁠54 years (AAPC = 0.13%, 95% CI = -0.22% to 0.46%), although it was not significant. There was a significant decrease in breast cancer incidence among women aged 55-59 years between the years 2000 and 2023 (AAPC = -0.56%, 95% CI = -0.92% to -0.20%). A significant decrease was also observed among women aged 60–⁠64 years between the years 2000 and 2023 (AAPC = -0.30%, 95% CI = -0.60% to -0.002%). Women aged 65–⁠69 years showed an increase between the years 2000 and 2023 (AAPC = 0.26%, 95% CI = -0.01% to 0.53%). For women aged 70–⁠74 years, there was an increase in breast cancer incidence between 2000 and 2023 (AAPC = 0.64%, 95% CI = 0.27% to 1.0%). There was a significant increase in breast cancer incidence among women aged 75–⁠79 years between the years 2000 and 2023 (AAPC = 0.30%, 95% CI = 0.03% to 0.58%).
+There was an increasing trend for 80–⁠84 and 85-89 years for 2000–⁠2023, with AAPC = 0.08% (95% CI = -0.26% to 0.40) and AAPC = -0.09% (95% CI = -0.35 to 0.16%) respectively, although it was not significant. The 90+ years group showed a significant decrease (AAPC = -0.86%, 95% CI = -1.25% to -0.49%) for the years 2000 to 2023 (Table 4; Figure 1).
+Incidence Trends by Race and Ethnicity
+From 2000-2023, breast cancer incidence was highest among non-Hispanic White women (228.9 per 100,000) compared to non-Hispanic Black women (174.9 per 100,000), Asian or Pacific Islander women (143.8 per 100,000), American Indian/Alaska Native women (134.1 per 100,000), and Hispanic women (116.6 per 100,000) (Table 1). Annual incidence rates by race/ethnicity are presented in Table 3, and the corresponding joinpoint regression trends are presented in Table 4 and Figure 2.Figure 2.Joinpoint regression analysis by race/ethnicity. Figure 2 shows breast cancer incidence rates (per 100,000) by race/ethnicity from 2000 to 2023, based on joinpoint regression analysis
+Figure 2.
+Joinpoint regression analysis by race/ethnicity. Figure 2 shows breast cancer incidence rates (per 100,000) by race/ethnicity from 2000 to 2023, based on joinpoint regression analysis
+Joinpoint regression analysis showed that all the race/ethnicity groups in the study Hispanic, non-Hispanic White, Non-Hispanic American Indian/Alaska Native, non-Hispanic Asian/Pacific Islander, and non-Hispanic Black all experienced a significant increase in breast cancer incidence for the years 2000-2023. The corresponding annual percentage changes and 95% confidence intervals were (AAPC = 1.91%,95% CI = 1.66% to 2.15%), (AAPC = 0.76%, 95% CI = 0.51% to 1.00%), (AAPC = 3.10%, 95% CI = 2.71% to 3.50%), (AAPC = 2.20%, 95% CI = 1.93% to 2.48%), and (AAPC = 1.31%, 95% CI = 1.12% to 1.49%), respectively (Table 4; Figure 2).
+Discussion
+Evolving Incidence Trends in Breast Cancer
+Data from our study found a modest yet statistically significant increase in the overall incidence of female breast cancer in the US between 2000 and 2023, with the age-standardized rate rising from 185.2 to 214.1 per 100,000 (joinpoint AAPC = 0.76%, 95% CI: 0.53% to 1.00%). This overall trend aligns with recent American Cancer Society reports documenting an increase at a steady 1% in breast cancer incidence after the decline in the early 2000s.
+3
+ The decline in incidence observed in the early 2000s, particularly in 2003 among older women, might be largely attributed to the reduced use of post-menopausal hormone therapy following the Women’s Health Initiative (WHI) report.
+20
+ However, after the temporary decline, breast cancer incidence increased, contributing to the net increase seen in 2023, showing that the burden of breast cancer has continued to grow in absolute terms. Even with a 0.5–⁠1% annual increase in recent years, the cumulative impact is significant, with over 1.4 million women diagnosed over the past two decades.
+The findings from our analysis are comparable with the recent global studies. For example, a recent Global Burden of Disease (GBD) 2022 analysis reported a global age-standardized breast cancer incidence rate of approximately 46 per 100,000 women in 2021. In the US, the incidence rate was 94 per 100,000 which is similar to our findings (99.2 per 100,000 women).
+21
+ This disparity is consistent with the higher breast cancer incidence observed in high-income countries, likely reflecting differences in reproductive and lifestyle-related risk factors, obesity prevalence, and greater access to mammographic screening and early detection programs. Furthermore, GBD estimates demonstrated increasing breast cancer incidence trends globally, with increased incidence in East and Southeast Asia, which is comparable to our findings of significant incidence increases among Asian/Pacific Islander women in the United States.
+These trends highlight a growing demand for healthcare systems and emphasize the critical need for sustained, long-term strategies in cancer prevention and control.
+Age-specific Trends and Generational Shifts
+The difference in trends by age group is quite significant. Younger women (<45 years) experienced a consistent, significant increase in breast cancer throughout 2000–2023. By contrast, incidence among older women, particularly those 50–84 years, showed a decline in the early 2000s, followed by relative stability or modest fluctuations thereafter. For example, national cancer registry analyses have documented that incidence in women aged 50-64 years dropped markedly (a decrease of 2.8% on average per year) in 1999–2004, then increased only slightly in subsequent years to 1.5%.
+4
+ Our data are consistent with this trend, showing an initial decline among older cohort likely due to the reduction in hormone therapy use post-2002, which contributed to the overall decrease in incidence during the early 2000s. In contrast, younger cohorts did not experience such a decline.3,4 The continuous increase in the incidence among younger women may reflect generational changes in risk factor exposures and reproductive behaviors. Women born in more recent decades tend to have children at older ages or have fewer children, factors which are associated with higher breast cancer risk due to prolonged estrogen exposure and reduced lifetime breastfeeding.
+22
+ Environmental and lifestyle changes, for example, greater alcohol consumption or other potential unidentified exposures, may also contribute to the elevated breast cancer risk observed among younger women.
+23
+ In contrast, the older generations experienced certain risk reductions (e.g., the restriction of hormone replacement therapy around 2002) that resulted in an immediate decline in incidence, especially for estrogen receptor-positive tumors.
+24
+ Following this period, breast cancer incidence among older women has remained relatively stable, suggesting that factors such as screening saturation and possibly cohort effects may have limited further increase in these age groups. However, it is important to note that even stable incidence rates in older women translate to a growing number of cases as the population ages. The aging of the baby boomer cohort and an overall increase in life expectancy have resulted in a growing number of women reaching age ranges associated with increased breast cancer risk.
+25
+ Assuming incidence rates remain constant, the number of breast cancer diagnoses among older women is projected to increase dramatically simply due to demographic shifts. One analysis conducted by Alberg and Singh et al, in 2001 projected a 72% surge in breast cancer cases among women 65 and older between 1998 and 2025 (from ∼89,500 cases in 1998 to ∼154,000 in 2025) if rates stayed unchanged.
+26
+ Even in the absence of additional increases in age-specific incidence, this demographic driver (an aging female population) predicts a significant increase in the burden of breast cancer in the years to come. The interplay of cohort effects, lifestyle changes, and population aging has resulted in more young women developing breast cancer and a persistent high burden in older women, which together contribute to the overall upward trend in incidence and case counts.
+Racial and Ethnic Disparities
+Consistent with prior reports, our study identified differences in the new cases of breast cancer by race and ethnicity. The highest overall incidence was seen among non-Hispanic White women, followed by Hispanic, Asian/Pacific Islander (A/PI), American Indian/Alaska Native (AI/AN), and non-Hispanic Black women. However, the temporal trends over the 24-year period varied significantly between groups. All non-White populations showed a greater relative increase in incidence than White women, effectively narrowing the historic gap. The highest rise in incidence was observed among A/PI women, especially those under 50, whose incidence rates now approach or exceed those of young White and Black women.27,28
+These changes most likely reflect increased screening availability in previously underprivileged populations, evolving reproductive patterns, and lifestyle risk factors.
+13
+ Nevertheless, the implications are complex. While rising incidence may partly reflect better detection, increasing exposure to risk factors, such as delayed childbearing and Western dietary habits, likely play a significant role.
+29
+ Additionally, aggressive tumor subtypes (such as triple-negative breast cancer), later-stage diagnosis, and unequal access to treatment continue to contribute to the highest breast cancer mortality rates observed among non-Hispanic Black women, despite comparable or even lower incidence rates.2,3
+Public Health and Policy Implications
+Public health screening programs are directly impacted by the increased prevalence of breast cancer, especially among younger women and minority groups. The U.S. Preventive Services Task Force (USPSTF) recently updated its recommendations to suggest that average-risk women begin biennial mammograms at age 40 in recognition of the consistent rise in breast cancer among women in their 40s.
+30
+ Our findings, which show the rising incidence of early-onset breast cancer among a population that was previously ineligible for routine screening, provide credence to this policy change.
+However, expanding screening alone is not sufficient. A significant concern is the difference in mammography access by race, region, and socioeconomic status.
+21
+ To ensure equitable access to these screening services, targeted interventions and community-based preventative programs must be implemented.
+21
+ The anticipated increase in breast cancer cases, due to both incidence trends and demographic aging, also necessitates investment in oncology infrastructure, patient navigation services, and survivorship care planning.3,28
+Strengths and Limitations
+The use of extensive, population-based data spanning more than 20 years is a key strength of this study, as it enables reliable trend analysis by age and race/ethnicity. This period also captures the post-Women’s Health Initiative period, the post-2004 incidence rebound, and the COVID-19 pandemic disruption. We simultaneously stratified trends by age, race/ethnicity, and gender using Joinpoint regression, allowing identification of specific time points within each subgroup, which is not provided by surveillance data from professional organizations. In addition, we explicitly addressed the COVID-19 pandemic effects on incidence trends, including a sensitivity analysis excluding the years 2020 and 2021, years substantially affected by COVID-19-related screening delays, and re-running the Joinpoint regression on the 2000-2019 period to present the estimates. Nonetheless, several limitations must be noted in this study. Since it is an ecological analysis, our study cannot establish a causal relationship between risk variables at the individual level. Furthermore, our study did not stratify by stage or tumor subtype (e.g., hormone receptor status), which can affect incidence and results. Temporal shifts in screening procedures may have also impacted case detection, especially during the COVID-19 epidemic. During the early pandemic, routine breast cancer screening programs were widely suspended by healthcare facilities. For example, in late March 2020, a joint statement by the American Society of Breast Surgeons (ASBrS) and American College of Radiology (ACR) recommended postponing all breast screening exams. As a result, far fewer breast cancers were detected in 2020 than expected under normal circumstances. This temporary deficit in case detection means that some cancers that would have been diagnosed in 2020 were likely delayed until 2021 or later, potentially at more advanced stages.
+These pandemic-driven anomalies in 2020 expose challenges for long-term trend analysis. Including the 2020 incidence data point in calculations can distort temporal trends and bias AAPC estimates. Joinpoint regression models, which assume smooth trend segments, are not designed to accommodate such a one-time abrupt drop in incidence.
+12
+ Any estimates of AAPC that include the pandemic years may be biased or unreliable, and we acknowledge that our reported trend for the late study period may partly capture this artifact rather than a sustained change in incidence.
+Despite these limitations, our analysis provides valuable insights into breast cancer incidence dynamics over two decades. The results, especially those during the COVID-19 era, should be interpreted in light of the extraordinary healthcare disruptions. We recommend continued monitoring in the coming years to determine if the post-pandemic data realign with pre-pandemic trends or if lasting effects such as a rebound or shift in incidence emerge once routine screening and medical care are normalized.
+Conclusion
+In conclusion, the current study of the incidence of breast cancer in the US (2000–2023) reveals a gradual but noticeable increase in rates over time, which translates into a significant and constantly expanding cancer burden. While overall rates have increased, age- and race-specific patterns highlight important heterogeneity in these trends. The incidence of breast cancer is rising significantly among younger women, while it first declined and then stabilized among older women. Simultaneously, racial and ethnic differences in incidence are evolving, with historically lower-incidence groups showing significant increases and narrowing the gap with White women. These findings have important implications for cancer control. They underscore the need for adaptive screening strategies, including recent policy changes recommending mammography initiation at age 40, and sustained investment in preventive health measures and healthcare resources to manage the expanding burden.

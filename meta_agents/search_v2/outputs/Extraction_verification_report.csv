@@ -1,0 +1,148 @@
+rec_id,study,group,dimension,provenance,verdict,detail
+324,Gomez2017_CCR,Japanese (young),disaggregated-AANHPI,directly-reported-IRR,VERIFIED,value found in source PDF
+324,Gomez2017_CCR,Filipino (young),disaggregated-AANHPI,directly-reported-IRR,VERIFIED,value found in source PDF
+324,Gomez2017_CCR,Asian-American combined,subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+324,Gomez2017_CCR,Asian-American combined,subtype-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+324,Gomez2017_CCR,South Asian,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+324,Gomez2017_CCR,Vietnamese,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Asian American (aggregate),disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=110.5
+234,Gomez2026_SEER21,Asian Indian/Pakistani,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=133.6
+234,Gomez2026_SEER21,Chinese,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=106.0
+234,Gomez2026_SEER21,Filipina,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=119.5
+234,Gomez2026_SEER21,Japanese,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=145.8
+234,Gomez2026_SEER21,Korean,disaggregated-AANHPI,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Laotian/Kampuchean,disaggregated-AANHPI,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Vietnamese,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=81.8
+234,Gomez2026_SEER21,Native Hawaiian/PI (aggregate),disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=169.1
+234,Gomez2026_SEER21,Native Hawaiian,disaggregated-AANHPI,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Guamanian/Chamorro/Samoan,disaggregated-AANHPI,computed-from-rates-with-CI,AUTHOR,not found: min_rate=100.9
+4098,McCracken2007_CCR,Chinese,disaggregated-AANHPI,computed-from-rates,VERIFIED,value found in source PDF
+4098,McCracken2007_CCR,Filipina,disaggregated-AANHPI,computed-from-rates,VERIFIED,value found in source PDF
+4098,McCracken2007_CCR,Vietnamese,disaggregated-AANHPI,computed-from-rates,VERIFIED,value found in source PDF
+4098,McCracken2007_CCR,Korean,disaggregated-AANHPI,computed-from-rates,VERIFIED,value found in source PDF
+4098,McCracken2007_CCR,Japanese,disaggregated-AANHPI,computed-from-rates,VERIFIED,value found in source PDF
+3398,Gomez2003_SEERplusCCR,Korean,disaggregated-AANHPI,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+4040,Miller2008_NAACCR-API,Native Hawaiian,disaggregated-AANHPI,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,Japanese,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,Filipina,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,Chinese,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,South Asian,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,Vietnamese,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+463,Keegan2007_GBACR,Korean,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+500,Gopalani2020_31764279,AIAN,aggregate-vs-NHW,computed-from-rates,VERIFIED,value found in source PDF
+182,Cronin2012_VitalSigns_23151952,Black,aggregate-vs-NHW,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+346,Richardson2016_27736827,Black,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+265,Anderson2008_SEER_19066264,Black,age-lt40,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+265,Anderson2008_SEER_19066264,Black,age-ge40,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+3662,Melkonian2021_IHS-PRCDA,AIAN (Southern Plains),AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+3662,Melkonian2021_IHS-PRCDA,AIAN (Northern Plains),AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+3298,Carozza2006_multistate,Hispanic/Latina (aggregate),Hispanic-origin,directly-reported-SIR,VERIFIED,value found in source PDF
+3182,Pinheiro2009_FL,Cuban,Hispanic-origin,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+3182,Pinheiro2009_FL,Mexican,Hispanic-origin,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+3182,Pinheiro2009_FL,Puerto Rican,Hispanic-origin,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+3182,Pinheiro2009_FL,New Latino,Hispanic-origin,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (men),male-BC,directly-reported-IRR,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (men),male-BC-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (men),male-BC-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (men),male-BC-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (men),male-BC-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+2406,Sung2020_USCS50,Black (women),aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+28,Nash2019_ANTR,Alaska Native,AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+199,Baquet2008_SEER9,Black (age<40),age-lt40,directly-reported-IRR,VERIFIED,value found in source PDF
+107,Zahrieh2021_NM-SEER,AIAN,AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Native Hawaiian,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Native Hawaiian,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Native Hawaiian,subtype-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Native Hawaiian,subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Japanese,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Japanese,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Japanese,subtype-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Filipino,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Filipino,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Filipino,subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Chinese,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Chinese,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+161,Loo2019_HTR,Chinese,subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+203,Brinton2008_SEER13,Black,age-lt40,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Native Hawaiian,age-ge50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Japanese,age-ge50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Filipina,age-ge50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Japanese,age-lt50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Native Hawaiian,age-lt50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+522,Ihenacho2023_HTR,Filipina,age-lt50,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+10,Davis Lynn2025_SEER17,Black,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+10,Davis Lynn2025_SEER17,Black,subtype-HRpos,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+10,Davis Lynn2025_SEER17,Black,subtype-HRneg,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+333,Keegan2010_CCR,Hispanic,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+236,Gomez2010_CCR,Chinese (US-born),nativity,directly-reported-IRR,VERIFIED,value found in source PDF
+236,Gomez2010_CCR,Filipina (US-born),nativity,directly-reported-IRR,VERIFIED,value found in source PDF
+146,Xu2024_SEER,Black,age-lt50,directly-reported-IRR,VERIFIED,value found in source PDF
+146,Xu2024_SEER,Asian/PI (aggregate),age-lt50,directly-reported-IRR,VERIFIED,value found in source PDF
+146,Xu2024_SEER,AIAN,age-lt50,directly-reported-IRR,VERIFIED,value found in source PDF
+146,Xu2024_SEER,Hispanic,age-lt50,directly-reported-IRR,VERIFIED,value found in source PDF
+155,Sung2023_USCS,Black,subtype-TNBC,directly-reported-IRR,AUTHOR,not found: IRR=1.950
+155,Sung2023_USCS,AIAN,subtype-TNBC,directly-reported-IRR,AUTHOR,not found: IRR=0.860
+155,Sung2023_USCS,Hispanic,subtype-TNBC,directly-reported-IRR,AUTHOR,not found: IRR=0.860
+155,Sung2023_USCS,Asian/PI (aggregate),subtype-TNBC,directly-reported-IRR,AUTHOR,not found: IRR=0.700
+2510,Melkonian2019_IHS-PRCDA,AIAN,AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+2131,Xie2022_USCS,Black,aggregate-vs-NHW,computed-from-rates-with-CI,AUTHOR,not found: min_rate=123.2
+2131,Xie2022_USCS,AIAN,aggregate-vs-NHW,computed-from-rates-with-CI,AUTHOR,not found: min_rate=94.0
+2131,Xie2022_USCS,Asian/PI (aggregate),aggregate-vs-NHW,computed-from-rates-with-CI,AUTHOR,not found: min_rate=90.9
+2131,Xie2022_USCS,Hispanic,aggregate-vs-NHW,computed-from-rates-with-CI,AUTHOR,not found: min_rate=93.0
+381,Lund2010_AtlantaSEER,Black,subtype-HRpos-HER2neg,computed-from-rates,VERIFIED,value found in source PDF
+381,Lund2010_AtlantaSEER,Black,subtype-TNBC,computed-from-rates,VERIFIED,value found in source PDF
+485,Harper2009_SEER,Black,age-ge50,computed-from-rates,VERIFIED,value found in source PDF
+485,Harper2009_SEER,Asian/PI (aggregate),age-ge50,computed-from-rates,VERIFIED,value found in source PDF
+485,Harper2009_SEER,AIAN,age-ge50,computed-from-rates,VERIFIED,value found in source PDF
+485,Harper2009_SEER,Hispanic,age-ge50,computed-from-rates,VERIFIED,value found in source PDF
+66,Hendrick2021_SEER9,Black,aggregate-vs-NHW,directly-reported-IRR,AUTHOR,not found: IRR=0.97
+66,Hendrick2021_SEER9,Asian/PI (aggregate),aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+66,Hendrick2021_SEER9,AIAN,aggregate-vs-NHW,directly-reported-IRR,AUTHOR,not found: IRR=0.58
+66,Hendrick2021_SEER9,Hispanic,aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+2,Howlader2014_SEER18,Black,subtype-HRpos-HER2neg,computed-from-rates-with-CI,VERIFIED,computed rate; source age-specific anchors verified
+2,Howlader2014_SEER18,Asian/PI (aggregate),subtype-HRpos-HER2neg,computed-from-rates-with-CI,VERIFIED,computed rate; source age-specific anchors verified
+2,Howlader2014_SEER18,Hispanic,subtype-HRpos-HER2neg,computed-from-rates-with-CI,VERIFIED,computed rate; source age-specific anchors verified
+2,Howlader2014_SEER18,Black,subtype-TNBC,computed-from-rates-with-CI,VERIFIED,computed rate; source age-specific anchors verified
+2,Howlader2014_SEER18,Asian/PI (aggregate),subtype-TNBC,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+2,Howlader2014_SEER18,Hispanic,subtype-TNBC,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+2,Howlader2014_SEER18,Black,subtype-HRpos-HER2pos,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+2,Howlader2014_SEER18,Asian/PI (aggregate),subtype-HRpos-HER2pos,computed-from-rates-with-CI,VERIFIED,computed rate; source age-specific anchors verified
+2,Howlader2014_SEER18,Hispanic,subtype-HRpos-HER2pos,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Black,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Black,subtype-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Black,subtype-TNBC,directly-reported-IRR,AUTHOR,not found: IRR=2.07
+286,Kong2020_SEER18,Black,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Asian/PI (aggregate),subtype-HRneg-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Asian/PI (aggregate),subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Asian/PI (aggregate),subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Hispanic,subtype-HRpos-HER2neg,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Hispanic,subtype-HRpos-HER2pos,directly-reported-IRR,VERIFIED,value found in source PDF
+286,Kong2020_SEER18,Hispanic,subtype-TNBC,directly-reported-IRR,VERIFIED,value found in source PDF
+100,Liu2012_LACounty,Chinese,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+100,Liu2012_LACounty,Korean,disaggregated-AANHPI,directly-reported-rate,VERIFIED,value found in source PDF
+100,Liu2012_LACounty,Black,aggregate-vs-NHW,directly-reported-rate,VERIFIED,value found in source PDF
+100,Liu2012_LACounty,Hispanic,aggregate-vs-NHW,directly-reported-rate,VERIFIED,value found in source PDF
+12,Zhang2025_USCS_female,Black,aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+12,Zhang2025_USCS_female,Asian/PI (aggregate),aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+12,Zhang2025_USCS_female,AIAN,aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+12,Zhang2025_USCS_female,Hispanic,aggregate-vs-NHW,directly-reported-IRR,VERIFIED,value found in source PDF
+200,Gleason2012_SEER,Black,subtype-HRpos,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+200,Gleason2012_SEER,Black,subtype-HRneg,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+200,Gleason2012_SEER,Black,subtype-ERpos-PRneg,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+200,Gleason2012_SEER,Black,subtype-ERneg-PRpos,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+1478,Yazzie2025_Navajo,AIAN (Navajo),AIAN,directly-reported-IRR,VERIFIED,value found in source PDF
+169,Ellington2022_USCS,Black,aggregate-vs-NHW,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+169,Ellington2022_USCS,Hispanic,aggregate-vs-NHW,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+169,Ellington2022_USCS,Asian/PI (aggregate),aggregate-vs-NHW,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+169,Ellington2022_USCS,AIAN,aggregate-vs-NHW,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+587,Nasseri2009,Middle Eastern,disaggregated-MENA,directly-reported-IRR,VERIFIED,value found in source PDF
+51,Nash2022,Alaska Native,AIAN,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+955,Goggins2009,Asian Indian/Pakistani,disaggregated-AANHPI,directly-reported-SIR,VERIFIED,value found in source PDF
+4333,Wilkinson2002,Hispanic/Latina (aggregate),Hispanic-origin,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+49,Mills2005,Hmong,disaggregated-AANHPI,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+3267,Kem2007,Cambodian,disaggregated-AANHPI,computed-from-rates-Poisson-SE,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Black,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Hispanic,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,AIAN,aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Asian/PI (aggregate),aggregate-vs-NHW,computed-from-rates-with-CI,VERIFIED,value found in source PDF
+234,Gomez2026_SEER21,Black,subtype-TNBC,computed-from-rates-with-CI,VERIFIED,value found in source PDF

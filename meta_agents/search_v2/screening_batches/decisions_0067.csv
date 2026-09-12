@@ -1,0 +1,41 @@
+record_id,decision,display_reason,sub_reason
+3960,exclude,"Editorials, commentaries, letters, or conference abstracts",childhood cancer survivor study note
+3961,exclude,Not relevant to the research question/topic,tamoxifen chemoprevention mortality model
+3962,exclude,Not relevant to the research question/topic,cervix book chapter
+3963,exclude,Not a US population-based/registry study,physical activity obesity Canadian survivors
+3964,exclude,"Editorials, commentaries, letters, or conference abstracts",migrant studies BC note
+3965,exclude,Not relevant to the research question/topic,alcohol BC Hispanic NM case-control
+3966,exclude,Not relevant to the research question/topic,chemo VTE risk factors
+3967,exclude,Not relevant to the research question/topic,NPCR vs SEER registry comparison
+3968,exclude,Not relevant to the research question/topic,hematopoietic growth factors older BC SEER-Medicare
+3969,exclude,Not relevant to the research question/topic,diagnostic mammography performance race
+3970,exclude,Not relevant to the research question/topic,epidemiology of cancer US review
+3971,exclude,"Editorials, commentaries, letters, or conference abstracts",common health problems minorities note
+3972,exclude,Not a US population-based/registry study,mammography audit Taiwanese
+3973,exclude,Not relevant to the research question/topic,symptoms after BC treatment LA SEER
+3974,exclude,Not relevant to the research question/topic,feminist critique Korean BC research
+3975,exclude,Not relevant to the research question/topic,atrazine BC incidence ecologic Missouri
+3976,exclude,"Editorials, commentaries, letters, or conference abstracts",probing roots race cancer note
+3977,exclude,Not a US population-based/registry study,African Caribbean delay help BC UK
+3978,exclude,Not relevant to the research question/topic,symptom management BC treatment LA
+3979,exclude,Not relevant to the research question/topic,multigenic model CYP17 HSD17B1 multiethnic
+3980,exclude,Not relevant to the research question/topic,soy BC prevention chapter
+3981,exclude,Not relevant to the research question/topic,algorithms incident BC Medicare claims
+3982,exclude,Not relevant to the research question/topic,race BC subtypes survival Carolina case-control
+3983,exclude,Not relevant to the research question/topic,breast density parenchymal meta-analysis
+3984,exclude,Not relevant to the research question/topic,public relations health brochures
+3985,exclude,Not relevant to the research question/topic,black women breast cancer review
+3986,exclude,Not relevant to the research question/topic,leukemia mitoxantrone
+3987,exclude,Not relevant to the research question/topic,cancer incidence Mormons Utah religious
+3988,exclude,Not relevant to the research question/topic,Gail model BWHS accuracy
+3989,exclude,"Editorials, commentaries, letters, or conference abstracts",BC Marin County commentary
+3990,exclude,"Editorials, commentaries, letters, or conference abstracts",HRT US BC incidence debate note
+3991,exclude,Not relevant to the research question/topic,subsequent primary CRC survivors SEER
+3992,exclude,Not relevant to the research question/topic,cause-specific survival IBC SEER
+3993,exclude,Not relevant to the research question/topic,sex steroid prostate cancer review
+3994,exclude,Not relevant to the research question/topic,pancreatic cancer risk factors case-control
+3995,exclude,Not relevant to the research question/topic,urinary estrogen metabolites Singapore US
+3996,exclude,Not relevant to the research question/topic,CHF anthracycline older BC SEER-Medicare
+3997,exclude,Not relevant to the research question/topic,phytoestrogen colitis rat
+3998,exclude,Not relevant to the research question/topic,oral contraceptive BCIS black white LA
+3999,include,,Cancer incidence Vietnamese in US and Ha Noi SEER

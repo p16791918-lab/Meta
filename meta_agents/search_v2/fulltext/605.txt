@@ -1,0 +1,5628 @@
+record_id=605 pmid=12173348 doi=10.1002/cncr.10593
+SOURCE: manual-pdf
+TITLE: Annual report to the nation on the status of cancer, 1973-1999, featuring implications of age and aging on U.S. cancer burden
+
+C O M M U N I C A T I O N
+The authors thank Danielle Harkins and Martin
+Krapcho of Information Management Services,
+Inc., for preparation of the tables and graphs, and
+Carol Kosary of the National Cancer Institute for
+assisting with the projection of cancer cases 2000
+through 2050.
+Address for reprints: Brenda K. Edwards, Ph.D.,
+National Cancer Institute, 6116 Executive Blvd.,
+Suite 504 MSC 8315, Bethesda MD 20892-8315;
+Fax: 301-480-4077; E-mail: be2w@nih.gov
+Manuscript received March 1, 2002; accepted
+March 12, 2002.
+Annual Report to the Nation on
+the Status of Cancer, 1973-1999,
+Featuring Implications of Age
+and Aging on U.S. Cancer Burden
+Brenda K. Edwards, Ph.D.1
+Holly L. Howe, Ph.D.2
+Lynn A. G. Ries, M.S.1
+Michael J. Thun, M.D., M.S.3
+Harry M. Rosenberg, Ph.D.4
+Rosemary Yancik, Ph.D.5
+Phyllis A. Wingo, Ph.D.6
+Ahmedin Jemal, D.V.M., Ph.D.3
+Ellen G. Feigal, M.D.7
+1 Division of Cancer Control and Population Sciences, National Cancer Institute, Bethesda,
+Maryland.
+2 North American Association of Central Cancer Registries, Springﬁeld, Illinois.
+3 Epidemiology and Surveillance Research Department, American Cancer Society, Atlanta, Georgia.
+4 Division of Vital Statistics, National Center for Health Statistics, Centers for Disease Control and
+Prevention, Hyattsville, Maryland.
+5 National Institute on Aging, Bethesda, Maryland.
+6 Division of Cancer Prevention and Control, National Center for Chronic Disease Prevention and
+Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia.
+7 Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, Maryland.
+BACKGROUND. The American Cancer Society, the National Cancer Institute, the North
+American Association of Central Cancer Registries (NAACCR), the National Institute
+on Aging (NIA), and the Centers for Disease Control and Prevention, including the
+National Center for Health Statistics (NCHS) and the National Center for Chronic
+Disease Prevention and Health Promotion, collaborated to provide an annual update
+on cancer occurrence and trends in the United States. This year’s report contained a
+special feature focusing on implications of age and aging on the U.S. cancer burden.
+METHODS. For 1995 through 1999, age-speciﬁc rates and age-adjusted rates were
+calculated for the major cancers using incidence data from the Surveillance, Epide-
+miology, and End Results Program, the National Program of Cancer Registries, and the
+NAACCR, and mortality data from NCHS. Joinpoint analysis, a model of joined line
+segments, was used to examine 1973-1999 trends in incidence and death rates by age
+for the four most common cancers. Deaths were classiﬁed using the eighth, ninth, and
+tenth revisions of the International Classiﬁcation of Diseases. Age-adjusted incidence
+and death rates were standardized to the year 2000 population, which places more
+emphasis on older persons, in whom cancer rates are higher.
+RESULTS. Across all ages, overall cancer death rates decreased in men and women
+from 1993 through 1999, while cancer incidence rates stabilized from 1995 through
+2766
+© 2002 American Cancer Society
+
+1999. Age-speciﬁc trends varied by site, sex, and race. For example, breast cancer
+incidence rates increased in women aged 50-64 years, whereas breast cancer death
+rates decreased in each age group. However, a major determinant of the future
+cancer burden is the demographic phenomenon of the aging and increasing size of
+the U.S. population. The total number of cancer cases can be expected to double
+by 2050 if current incidence rates remain stable.
+CONCLUSIONS. Despite the continuing decrease in cancer death rates and stabili-
+zation of cancer incidence rates, the overall growth and aging of the U.S. popula-
+tion can be expected to increase the burden of cancer in our nation. Cancer 2002;
+94:2766–92. © 2002 American Cancer Society.
+DOI 10.1002/cncr.10593
+KEYWORDS: neoplasm, incidence, mortality, aging, race/ethnicity, surveillance,
+joinpoint.
+T
+he American Cancer Society (ACS), the National
+Cancer Institute (NCI), the North American Asso-
+ciation of Central Cancer Registries (NAACCR), and
+the Centers for Disease Control and Prevention (CDC),
+including the National Center for Health Statistics
+(NCHS), and the National Center for Chronic Disease
+Prevention and Health Promotion, collaborate to pro-
+duce an annual report on the current burden of cancer
+in the United States. Four years ago, the initial report
+documented the ﬁrst sustained decline in cancer
+death rates, a notable reversal in the increases ob-
+served since national record keeping was instituted in
+the 1930s.1 The second and third reports updated and
+conﬁrmed these declines in both cancer incidence
+and death rates.2,3 These reports highlighted lung can-
+cer and the tobacco epidemic2 and opportunities to
+improve the prevention, early detection, and treat-
+ment of colorectal cancer.3 The fourth report exam-
+ined trends from 1973 through 1998 in the incidence
+and death rates for the four most common cancers
+(breast, prostate, lung, and colon/rectum), which
+make up more than half the cancer burden.4 The
+fourth report also featured speciﬁc cancers for which
+incidence or death rates increased in one or more
+population groups during 1992 through 1998.
+The current report focuses on cancer rates and
+trends in the context of an aging population. As more
+of the U.S. population reaches older ages, there are
+extensive implications for an increased cancer burden
+among older Americans now and in future decades.
+The increase in the number of older persons results
+from reduced death rates in all age groups, which
+yields a greater probability of surviving to an older age
+and increased life expectancy (both at birth and at
+older ages), and the aging of the 75 million persons
+born between 1946 and 1964 (the baby boom era).5–9
+The current report examines the impact of age on
+current cancer rates and trends and projects the future
+cancer burden due to the anticipated growth and ag-
+ing of the population through 2050. This report is also
+the ﬁrst in this series to use a revision to the coding
+system for cause of death (International Classiﬁcation
+of Diseases [ICD], revision 10), implemented for 1999
+deaths, and a change in age-adjustment of cancer
+rates to the federally adopted year 2000 population
+standard. Also, the National Institute on Aging (NIA)
+was invited to participate.
+SUBJECTS AND METHODS
+Additional data and information on cancer incidence,
+mortality, and survival are available from the following
+Internet addresses: www.seer.cancer.gov (NCI); www.
+naaccr.org/CINAPlus/index.html (NAACCR); www.
+cdc.gov/cancer/NPCR (CDC); www.cdc.gov/nchs/about/
+major/dvs/mortdata.html (NCHS); and www.cancer.
+org (ACS). More detailed information, ﬁgures, and
+methodology pertaining to this report are available at
+the NCI Internet address.
+Cancer Cases and Deaths
+Information on newly diagnosed cancer cases in the
+United States is based on data collected by registries
+in the NCI’s Surveillance, Epidemiology, and End Re-
+sults (SEER) Program10 and the CDC’s National Pro-
+gram of Cancer Registries (NPCR).11 Data from regis-
+tries in both programs are evaluated and published
+annually by NAACCR.12
+Cancer deaths in the United States are reported to
+state vital statistics ofﬁces and consolidated into a
+database by NCHS through the National Vital Statis-
+tics System (NVSS).13 That system codes cause of
+death according to the version of the ICD in use in the
+United States at the time.14–16 A conversion algorithm
+aids comparability between versions of ICD codes,
+which are categorized according to SEER site groups.10
+For the long-term trend analyses, SEER incidence
+(original areas covering 10% of the U.S. population)
+and U.S. death data from NCHS for 1973 through 1999
+Report to Nation on Cancer and Aging/Edwards et al.
+2767
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+were used. For the age-speciﬁc analyses of current
+cancer occurrence, the SEER and NPCR incidence
+data reported by NAACCR were used; these data are
+from 28 registries that meet NAACCR criteria for high-
+est quality data for 1995 through 1999.12 Approxi-
+mately 55% of the U.S. population is included in the
+NAACCR combined cancer incidence rates. For vari-
+ous racial and ethnic populations, estimates of recent
+(1995-1999) rates and the proportion of cases and
+deaths contributed by each cancer were based on
+incidence data from SEER (1992 expansion areas cov-
+ering 14% of the U.S. population) and U.S. mortality
+data. All information on primary site and histology for
+incidence was converted to the International Classiﬁ-
+cation of Diseases for Oncology, second edition
+(ICDO-2),17 and categorized according to SEER site
+groups.10
+Methodologic Changes
+Two methodologic changes were made for the current
+report that affect the comparability of data with that of
+previous years. One is the change in the coding and
+classiﬁcation of causes of death reported on death
+certiﬁcates and the other, more inﬂuential, is the
+change to a contemporary population age distribution
+used in age standardization for both incidence and
+death rates.
+Changes in coding of mortality data effective with 1999
+deaths
+Effective with deaths in 1999, in the United States
+causes of death were coded and classiﬁed according to
+the tenth revision of the World Health Organization’s
+ICD (ICD-10),16 rather than the ninth revision (ICD-
+9)15 used from 1979-1998. Among the many changes in
+ICD-10 were increases in classiﬁcation detail, the shift
+to an alphanumeric classiﬁcation system, and a num-
+ber of changes in the coding rules by which a single
+cause of death is selected from among the multiple
+causes reported by physicians as causing or contrib-
+uting to the death. The change from ICD-9 to ICD-10
+caused discontinuities in trends for many causes of
+death, including cancer. The nature and extent of
+these discontinuities are described in a recent re-
+port.18 The extent of these discontinuities is measured
+by comparability studies in which death records are
+double coded by the two revisions and results com-
+pared. Overall, approximately 0.7% more deaths are
+assigned to cancer under ICD-10. For certain cancers,
+however, discontinuities are greater or lesser, in part
+due to the allowed use of categories for persons who
+died with more than one cancer or died from meta-
+static disease.
+Changes in population standard effective with 1999 cases
+and deaths
+Also affecting reporting incidence and mortality data
+for 1999, the standard population used to age-adjust
+cancer incidence and death rates was changed to the
+year 2000 U.S. standard million population. All age-
+adjusted rates and age-speciﬁc rates covering more
+than a ﬁve year age group presented in the current
+report used the new year 2000 population standard.
+The change to the year 2000, which recently was
+adopted uniformly by federal health agencies, has
+consequences for the levels of cancer rates, and, in
+some cases, for comparisons over time and among
+groups.19 Earlier reports on death rates from the
+NCHS were based on the 1940 standard population,20
+whereas most earlier reports on cancer incidence and
+death rates were based on a 1970 standard popula-
+tion.21 Thus, age-adjusted rates and trends in the cur-
+rent report cannot be compared with previously pub-
+lished reports. Further, rates adjusted to the 2000
+standard produce cancer incidence and death rates
+20% to 50% higher than rates published to the 1970
+standard. More detailed information on the effect of
+age-adjustment can be found on the following Internet
+addresses: www.cdc.gov/nchs/data/ IW134Pfct.pdf
+(NCHS); and www.naaccr.org/Training/html/2000pop/
+2000pop.html (NAACCR).
+Cancer Incidence and Death Rates
+The U.S. Census Bureau provided annual county res-
+ident population estimates that were used in the com-
+putation of incidence and death rates. Population data
+for Hawaii were adjusted slightly for an undercount of
+Asian/Paciﬁc Islanders.
+All rates were expressed per 100,000 population
+and age-adjusted by the direct method to the new year
+2000 standard. For the current report, all calculated
+rates had at least 25 cases or deaths in the population
+of interest. The term “all sites” refers to all invasive
+cancer sites combined (excluding basal and squamous
+cell carcinoma of the skin, and including in situ blad-
+der carcinoma), as well as other sites not shown in the
+tables or ﬁgures.
+This year’s report features information by age-
+speciﬁc groups ( 20 years old, 20 to 49 years,  50
+years, 50 to 64 years, 65 to 74 years, and 75 years and
+older) based on SEER incidence and survival rates,
+NAACCR reported incidence rates, or the U.S. death
+rates in either sex among the total, white, or black
+population. The interval of 1995 through 1999 was
+chosen for cancer-speciﬁc incidence and death rates
+to represent the broadest cross-section of the current
+burden and to improve the precision of rates esti-
+2768
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+mated and data interpretability for all populations in
+the analyses (Hispanic, black, American Indian/Alaska
+Native [AI/AN], Asian/Paciﬁc Islander [API], and
+white). Hispanic ethnicity is not a mutually exclusive
+group from the four race categories. The interval 1973
+through 1999 was used for analysis of long-term
+trends as it was the longest period for which compa-
+rable SEER incidence data were available. Availability
+and accuracy of information on race and ethnicity
+limit estimation of long-term trends for some popula-
+tions.
+Projections
+of
+future
+cancer
+cases
+for
+2000
+through 2050 were calculated using 1999 age-speciﬁc
+NAACCR reported incidence rates applied to national
+population projections reported by the U.S. Census
+Bureau.6,7 These projections assume that cancer inci-
+dence rates do not change during the 50-year period.
+Survival and Cancer Prevalence
+Survival is estimated from SEER data (persons diag-
+nosed in 1990-1998 and followed through 1999) using
+standard methods of following persons with cancer
+until they die or were known to be alive at a point in
+time. Standard life table procedures were used to cal-
+culate observed survival rates, the proportion of can-
+cer patients surviving for a speciﬁed time after diag-
+nosis.22 Relative survival is deﬁned as the ratio of
+observed survival to expected survival in a comparable
+group of cancer-free individuals. This estimate pre-
+dicts the effect of the cancer alone on the patient
+cohort while ignoring deaths not associated with the
+cancer.22
+Cancer prevalence is the number of cancer survi-
+vors currently alive. For the current report, prevalence
+was estimated from SEER incidence and followup data
+from 1978 through 1997. The numbers were projected
+to the U.S. population on January 1, 1998, and repre-
+sent estimated complete prevalence.10 While SEER
+does not represent a random sample of the U.S. pop-
+ulation, it is more representative than a single registry.
+Moreover, the use of multiple SEER registries from
+around the country allows calculation of prevalence
+statistics; prevalence statistics can be calculated for
+different groups characterized by race/ethnicity, age
+at diagnosis, and length of survivorship.23
+Statistical Analyses
+Long-term trends are conveniently described by join-
+point analysis (JPA), a statistical model of joined lines
+(straight lines on a log scale). This analysis chooses a
+model of line segments such that each are joined at
+points called a “joinpoint.” Each joinpoint denotes a
+statistically signiﬁcant change in trend.24 For JPA, the
+overall signiﬁcance level was set to P  0.05, and
+allowed for a maximum of three joinpoints and four
+line segments allowed. An annual percent change
+(APC) was used to describe the trend for each line
+segment with statistical signiﬁcance assessed using a
+two-sided P  0.05.
+RESULTS
+Relationship of Age to Cancer Incidence and Mortality
+Cancer incidence and death rates increased with age
+(Fig. 1). Rates for 1995–1999 were generally higher for
+men than for women, except for persons below the
+age of 50, where women had higher cancer incidence
+and death rates. Cancer rates for persons aged 50-64
+years were 7- to 16-fold higher than rates for younger
+persons, and rates for persons aged 65-74 years were
+2- to 3-fold higher than rates for persons aged 50-64
+years. The incidence and death rates for persons aged
+75 years and older were higher still, with death rates
+two-fold higher than rates for persons aged 65-74
+years.
+The decrease in age-adjusted death rates from
+1990 through 1999 did not offset the increase in the
+population size or the absolute number of cancer
+deaths (Fig. 2). During the period 1990 through 1999,
+the U.S. age-adjusted death rates (top panel) de-
+creased by almost 6%. The decrease was larger for
+persons younger than age 65 years than in persons
+aged 65 years and older (data not shown). The U.S.
+population (second panel) increased by almost 10%
+(24 million), with a slightly larger percentage increase
+of persons aged 65 years and older. As a consequence
+of the aging population, the total number of cancer
+deaths (third panel) during the 1990s increased about
+9% (44,500 deaths), due to the increase in the number
+of cancer deaths among persons aged 65 years and
+older.
+Long-Term Trends in Incidence by Age, Sex, and Race
+(White, Black)
+While the JPA describes long-term trends, the focus
+for the presentation of results is on the most recent
+line segment from the analysis; thus, the years cov-
+ered will vary for different cancers. During the pe-
+riod 1995 through 1999, the overall cancer incidence
+rate was stable; however, for certain site, age, sex,
+and race groups, rates increased, decreased, or re-
+mained stable (Table 1). For example, males had
+stable overall cancer incidence rates and females
+had increasing rates.
+For men under 50 years, cancer incidence rates
+decreased, while such rates were stable for men aged
+50 years and older. Even among men less than 50 years
+of age, not all incidence rates decreased: prostate can-
+cer increased, while lung and colorectal cancer de-
+Report to Nation on Cancer and Aging/Edwards et al.
+2769
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+creased. Similarly, for men aged 50 years and older,
+the stable rate overall masked decreases in lung can-
+cer for each of the older age groups, a decrease in
+colorectal cancer in men aged 50-64 and 65-74 years,
+and an increase in prostate cancer for men aged 50-64
+years. Overall, cancer incidence rates declined in black
+men during 1992-1999 and stabilized in white men for
+the 1995-1999 time period. Rates decreased in both
+black and white men under age 50 and in black men
+aged 65-74 years.
+For women, overall cancer incidence rates in-
+creased from 1987 to 1999, due to increased rates
+among women aged 50-64 and 65-74 years. In partic-
+ular, breast cancer rates increased for black and white
+women aged 50-64 years, and lung cancer rates in-
+creased for women 65-74 years. The trends also varied
+by cancer type. Incidence rates decreased for lung
+cancer but increased for colorectal cancer among
+women under age 50 years, while colorectal cancer
+incidence rates decreased for women aged 75 years
+and older. Race differences were evident among
+women in the same age groups. Colorectal cancer
+incidence rates increased for white women under 50
+years but not for black women, and decreased for
+white women aged 50-64 years but increased for black
+women in this age group.
+Long-Term Trends in Cancer Death Rates by Age, Sex,
+and Race (White, Black)
+The U.S. death rate from all cancers combined de-
+creased an average of more than 1% per year from
+1993 to 1999 (Table 2). Total cancer mortality de-
+creased during the most recent time interval in black
+and white men for each age group and in women for
+each age group except those aged 75 years and older.
+For women aged 75 years and older, rates were stable
+for white women and increased for black women. The
+continuing decline in death rates involved all of the
+four most common cancer sites. Lung cancer mortal-
+ity decreased during the 1990s in men for each age
+group and in women under age 65 years. Prostate
+cancer death rates decreased for each age group in
+black men and in white men, except for white men
+aged less than 50 years. Breast cancer mortality de-
+creased for each age group in white women and in
+black women less than 65 years of age, with increases
+for black women aged 75 years and older. While most
+age groups and cancers have shown declines, reduc-
+tions for women were limited to ages younger than 75
+years for all sites combined, and to ages below 65
+years for death due to lung cancer.
+The decline in cancer death rates during the
+1990s reﬂects longer term mortality trends in which
+FIGURE 1. Average annual cancer incidence and death rates for all cancers combined by gender and age, 1995-1999. Incidence: Surveillance, Epidemiology and
+End Results Program and the National Program of Cancer Registries areas reported by the North American Association of Central Cancer Registries as meeting high
+data quality standards. The areas cover approximately 55% of the U.S. population: California (Los Angeles and Greater Bay area), Colorado, Connecticut, Delaware,
+Georgia (Atlanta area), Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Michigan (Detroit area), Minnesota, Nebraska, New Jersey, New Mexico, New York, North
+Carolina, Pennsylvania, Rhode Island, Utah, Washington (Seattle area), West Virginia, Wisconsin, and Wyoming. Death data are from the National Vital Statistics
+System of the National Center for Health Statistics; the data cover the entire U.S. population. Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard
+population.
+2770
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+the downturn in rates began earlier and was larger
+proportionately at younger than at older ages (Table
+2). By the mid-1970s, the death rate from all cancers
+combined was decreasing by about 4% per year for
+persons  20 years of age and about 2% per year for
+persons aged 20-49 years, although the rate of in-
+crease was less than 1% per year in persons aged 50
+and older. By the 1990s, age- and race-speciﬁc can-
+cer death rates had stopped increasing and had
+begun to decrease among white and black persons
+of all ages, except women aged 75 years and older.
+Despite differences in the magnitude and timing of
+the long-term trends in mortality across the four
+most common cancer sites, the death rates de-
+creased during the 1990s in most age and race sub-
+groups, with the exception of older women, partic-
+ularly lung cancer deaths.
+Top 10 Cancer Incidence Sites by Age and Sex,
+1995-1999
+The 10 most frequently occurring cancers within each
+of ﬁve age groups were ranked by the frequency of
+cases for both sexes combined (Table 3). The most
+frequent cancers among persons younger than 20
+years of age were different from those occurring in
+older age groups, with leukemia and cancers of the
+brain and other nervous system accounting for more
+than 40% of their cancers. The difference in cancer
+incidence rates among young men and women was
+small.
+Among persons aged 20-49 years, breast cancer
+incidence was substantially higher than any other can-
+cer, representing about one-fourth of all cancers diag-
+nosed in this age group. Melanoma, colorectal cancer,
+and lung cancer ranked high in frequency for this age
+group, with incidence rates for these three cancers in
+men and women being similar, in contrast to sex-
+speciﬁc rates reported for older aged groups. In addi-
+tion, non-Hodgkin lymphoma, oral cavity/pharynx,
+and testis cancer were common in men, while cancer
+of the cervix, ovary, and thyroid were common in
+women. In contrast to other age groups, age-adjusted
+cancer incidence rates for all sites combined among
+persons aged 20-49 years were much higher for
+women than for men.
+Beginning with the 50-64 year-old age category,
+breast, prostate, lung, and colorectal cancers emerged
+as the most frequently occurring cancers, an observa-
+tion that persisted for all older age groups, although
+the rank order changed among the three oldest age
+groups.
+Breast
+cancer
+occurred
+most
+frequently
+among persons aged 50-64 years, with nearly all cases
+occurring in women, while prostate cancer ranked
+ﬁrst among persons aged 65-74 years, and colorectal
+cancer was ﬁrst among persons aged 75 years and
+older. Lung cancer ranked second among persons
+aged 65-74 years and 75 years and older. The magni-
+tude of the rates for lung and colorectal cancers varied
+substantially by sex in the older age categories.
+Although the median age for the incidence of all
+cancers combined was 68 years, the range of the me-
+dian age at diagnosis varied widely for speciﬁc cancers
+(Fig. 3). For the four most common cancers (breast,
+prostate, lung, and colorectal), the percentage of per-
+sons aged 65 years and older ranged from nearly 50%
+to more than 70%. Gallbladder cancer had the highest
+median age at 73 years, with 76% of the cancers oc-
+curring in persons aged 65 years and older, and 40% or
+more of cancers of the gallbladder, colon/rectum,
+pancreas, stomach, urinary bladder, and pleura were
+diagnosed in persons aged 75 years and older. On the
+FIGURE 2. Trends in cancer death rates, frequencies and trends in popu-
+lation, United States, 1990-1999. Rates are per 100,000 and are age-adjusted
+to the 2000 U.S. standard population. Death data are from the National Vital
+Statistics System of the National Center for Health Statistics; the data cover the
+entire U.S. population. While the rate is 202.8 for 1999 based on the Interna-
+tional Classiﬁcation of Diseases (ICD), revision 10, deﬁnitions, the rate would
+have been lower, approximately 201.4, if the cancer deﬁnitions and rules from
+ICD revision 9 were used based on a comparability study.
+Report to Nation on Cancer and Aging/Edwards et al.
+2771
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+Cancer Incidence Trends by Joinpoint Analysesa for 1973 through 1999 for the Most Common Cancers by Race, Sex,
+and Age, SEER,b 1973–1999
+Incidence
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+All sites
+All races, both sexes
+All ages
+1973–83
+0.9d
+1983–92
+1.8d
+1992–95
+1.9
+1995–99
+0.2
+ 20
+1973–91
+1.0d
+1991–99
+0.2
+20–49
+1973–80
+0.6d
+1980–90
+1.5d
+1990–99
+0.7d
+ 50
+1973–80
+0.5d
+1980–90
+1.5d
+1990–99
+0.7d
+50–64
+1973–99
+0.9d
+65–74
+1973–89
+1.7d
+1989–92
+4.8d
+1992–95
+3.3d
+1995–99
+0.2
+75
+1973–92
+1.5d
+1992–95
+3.3
+1995–99
+0.2
+All races, males
+All ages
+1973–89
+1.4d
+1989–92
+5.0d
+1992–95
+4.9d
+1995–99
+0.3
+ 20
+1973–97
+0.8d
+1997–99
+4.7
+20–49
+1973–82
+0.5d
+1982–87
+3.5d
+1987–92
+1.2d
+1992–99
+2.4d
+ 50
+1973–82
+0.4d
+1982–86
+3.8d
+1986–92
+1.3d
+1992–99
+2.2d
+50–64
+1973–85
+1.3d
+1985–89
+0.2
+1989–92
+4.6d
+1992–99
+0.1
+65–74
+1973–89
+1.6d
+1989–92
+8.2d
+1992–95
+5.5d
+1995–99
+0.2
+75
+1973–89
+1.3d
+1989–92
+4.0
+1992–95
+7.8d
+1995–99
+0.1
+All races, females
+All ages
+1973–80
+0.2
+1980–87
+1.6d
+1987–99
+0.3d
+ 20
+1973–99
+0.7d
+20–49
+1973–80
+1.2d
+1980–86
+1.2d
+1986–99
+0.2
+ 50
+1973–80
+1.1d
+1980–86
+1.2d
+1986–99
+0.2
+50–64
+1973–75
+3.5
+1975–78
+2.2
+1978–99
+0.7d
+65–74
+1973–78
+0.6
+1978–87
+2.4d
+1987–99
+0.3d
+75
+1973–89
+1.5d
+1989–99
+0.1
+White, both sexes
+All ages
+1973–83
+1.0d
+1983–92
+1.9d
+1992–95
+2.1
+1995–99
+0.2
+ 20
+1973–99
+0.7d
+20–49
+1973–80
+0.5
+1980–89
+1.9d
+1989–99
+0.7d
+ 50
+1973–80
+0.4
+1980–89
+1.9d
+1989–99
+0.7d
+50–64
+1973–82
+0.4
+1982–92
+1.3d
+1992–99
+0.5
+65–74
+1973–89
+1.8d
+1989–92
+4.8d
+1992–95
+3.5d
+1995–99
+0.3
+75
+1973–92
+1.5d
+1992–95
+3.5
+1995–99
+0.2
+White, males
+All ages
+1973–89
+1.4d
+1989–92
+4.9d
+1992–95
+5.3d
+1995–99
+0.2
+ 20
+1973–99
+0.6d
+20–49
+1973–83
+0.7d
+1983–86
+5.8d
+1986–92
+1.1d
+1992–99
+2.7d
+ 50
+1973–82
+0.6d
+1982–86
+4.2d
+1986–91
+1.7d
+1991–99
+2.3d
+50–64
+1973–89
+1.1d
+1989–92
+3.9d
+1992–99
+0.1
+65–74
+1973–88
+1.5d
+1988–92
+6.6d
+1992–95
+5.6d
+1995–99
+0.2
+75
+1973–89
+1.4d
+1989–92
+3.7
+1992–95
+8.0d
+1995–99
+0.2
+White, females
+All ages
+1973–80
+0.3
+1980–87
+1.7d
+1987–99
+0.3d
+ 20
+1973–99
+0.8d
+20–49
+1973–80
+0.9d
+1980–90
+1.1d
+1990–93
+1.4
+1993–99
+0.7d
+ 50
+1973–80
+0.8d
+1980–87
+1.2d
+1987–99
+0.1
+50–64
+1973–75
+3.7
+1975–78
+2.3
+1978–99
+0.7d
+65–74
+1973–78
+0.8
+1978–87
+2.5d
+1987–99
+0.3d
+75
+1973–89
+1.6d
+1989–99
+0.1
+Black, both sexes
+All ages
+1973–84
+1.5d
+1984–89
+0.5
+1989–92
+4.4d
+1992–99
+1.4d
+ 20
+1973–99
+0.6d
+20–49
+1973–82
+0.9
+1982–94
+1.1d
+1994–99
+2.1d
+ 50
+1973–82
+0.8
+1982–94
+1.1d
+1994–99
+2.1d
+50–64
+1973–83
+2.3d
+1983–90
+0.1
+1990–93
+4.5
+1993–99
+0.5
+65–74
+1973–89
+1.8d
+1989–92
+6.2
+1992–99
+2.4d
+75
+1973–92
+1.4d
+1992–99
+1.3d
+Black, males
+All ages
+1973–81
+2.6d
+1981–89
+0.6
+1989–92
+6.7d
+1992–99
+2.7d
+ 20
+1973–99
+1.0d
+20–49
+1973–85
+0.3
+1985–95
+1.9d
+1995–99
+5.1d
+ 50
+1973–86
+0.1
+1986–89
+4.8
+1989–95
+0.7
+1995–99
+4.1d
+50–64
+1973–82
+3.2d
+1982–89
+1.0
+1989–93
+6.4d
+1993–99
+1.0
+(continued)
+2772
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+(continued)
+Incidence
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+65–74
+1973–89
+1.8d
+1989–92
+9.5
+1992–99
+4.1d
+75
+1973–89
+1.6d
+1989–92
+5.4
+1992–95
+7.9
+1995–99
+0.6
+Black, females
+All ages
+1973–91
+1.1d
+1991–99
+0.1
+ 20
+1973–99
+0.3
+20–49
+1973–99
+0.1
+ 50
+1973–99
+0.1
+50–64
+1973–86
+1.7d
+1986–99
+0.3
+65–74
+1973–90
+2.1d
+1990–99
+0.0
+75
+1973–99
+1.0d
+Lung and bronchus
+All races, both sexes
+All ages
+1973–81
+3.0d
+1981–91
+1.1d
+1991–99
+0.9d
+ 50
+1973–77
+3.5
+1977–99
+2.8d
+50–64
+1973–79
+3.4d
+1979–88
+0.9d
+1988–99
+2.5d
+65–74
+1973–81
+3.8d
+1981–92
+1.5d
+1992–99
+0.6d
+75
+1973–91
+3.0d
+1991–99
+0.9d
+All races, males
+All ages
+1973–80
+2.2d
+1980–91
+0.2
+1991–99
+2.2d
+ 50
+1973–77
+0.7
+1977–88
+2.7d
+1988–99
+4.1d
+50–64
+1973–78
+2.4d
+1978–87
+0.1
+1987–99
+3.2d
+65–74
+1973–81
+2.1d
+1981–92
+0.1
+1992–99
+1.9d
+75
+1973–76
+6.6d
+1976–91
+1.1d
+1991–99
+1.3d
+All races, females
+All ages
+1973–81
+6.3d
+1981–91
+3.4d
+1991–99
+0.5
+ 50
+1973–76
+10.2d
+1976–99
+2.0d
+50–64
+1973–81
+6.2d
+1981–90
+2.2d
+1990–99
+1.7d
+65–74
+1973–82
+8.8d
+1982–91
+4.5d
+1991–99
+1.2d
+75
+1973–89
+7.0d
+1989–97
+4.2d
+1997–99
+0.8
+White, both sexes
+All ages
+1973–81
+3.0d
+1981–91
+1.2d
+1991–99
+0.9d
+ 50
+1973–78
+2.3
+1978–99
+3.1d
+50–64
+1973–78
+3.7d
+1978–88
+1.1d
+1988–99
+2.4d
+65–74
+1973–81
+3.8d
+1981–92
+1.6d
+1992–99
+0.5
+75
+1973–91
+3.2d
+1991–99
+0.8d
+White, males
+All ages
+1973–80
+2.1d
+1980–91
+0.2
+1991–99
+2.3d
+ 50
+1973–85
+2.0d
+1985–99
+4.3d
+50–64
+1973–78
+2.1d
+1978–88
+0.2
+1988–99
+3.5d
+65–74
+1973–81
+1.8d
+1981–92
+0.1
+1992–99
+1.9d
+75
+1973–77
+5.4d
+1977–91
+1.1d
+1991–99
+1.6d
+White, females
+All ages
+1973–76
+10.4d
+1976–88
+4.8d
+1988–99
+1.2d
+ 50
+1973–78
+5.3d
+1978–99
+2.3d
+50–64
+1973–82
+6.0d
+1982–91
+1.7d
+1991–99
+1.8d
+65–74
+1973–81
+9.4d
+1981–88
+5.7d
+1988–99
+2.1d
+75
+1973–89
+7.5d
+1989–97
+4.3d
+1997–99
+1.1
+Black, both sexes
+All ages
+1973–84
+3.2d
+1984–99
+0.5d
+ 50
+1973–99
+2.2d
+50–64
+1973–84
+3.8d
+1984–99
+2.2d
+65–74
+1973–92
+2.6d
+1992–99
+2.7d
+75
+1973–99
+2.5d
+Black, males
+All ages
+1973–84
+2.9d
+1984–99
+1.6d
+ 50
+1973–99
+2.6d
+50–64
+1973–84
+2.9d
+1984–99
+2.9d
+65–74
+1973–85
+3.2d
+1985–99
+1.7d
+75
+1973–99
+1.3d
+Black, females
+All ages
+1973–90
+4.4d
+1990–99
+0.2
+ 50
+1973–99
+1.4d
+50–64
+1973–85
+6.9d
+1985–99
+0.9
+65–74
+1973–91
+7.3d
+1991–99
+0.4
+75
+1973–99
+5.1d
+(continued)
+Report to Nation on Cancer and Aging/Edwards et al.
+2773
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 1
+(continued)
+Incidence
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Colon and rectum
+All races, both sexes
+All ages
+1973–85
+0.9d
+1985–95
+1.8d
+1995–99
+0.3
+ 50
+1973–94
+1.0d
+1994–99
+2.6d
+50–64
+1973–85
+0.7d
+1985–99
+1.3d
+65–74
+1973–85
+0.7d
+1985–96
+1.7d
+1996–99
+0.6
+75
+1973–80
+2.2d
+1980–88
+0.1
+1988–95
+2.5d
+1995–99
+0.2
+All races, males
+All ages
+1973–86
+1.1d
+1986–95
+2.1d
+1995–99
+0.1
+ 50
+1973–99
+0.3d
+50–64
+1973–85
+1.2d
+1985–99
+1.1d
+65–74
+1973–86
+0.9d
+1986–99
+1.7d
+75
+1973–79
+2.5d
+1979–88
+0.5
+1988–95
+3.2d
+1995–99
+0.1
+All races, females
+All ages
+1973–84
+0.6d
+1984–95
+1.7d
+1995–99
+0.7
+ 50
+1973–96
+1.4d
+1996–99
+9.2d
+50–64
+1973–81
+0.6
+1981–99
+1.3d
+65–74
+1973–85
+0.3
+1985–93
+2.0d
+1993–99
+0.2
+75
+1973–81
+2.4d
+1981–99
+1.2d
+White, both sexes
+All ages
+1973–85
+0.9d
+1985–95
+1.9d
+1995–99
+0.3
+ 50
+1973–95
+1.3d
+1995–99
+4.5d
+50–64
+1973–85
+0.6d
+1985–99
+1.5d
+65–74
+1973–85
+0.6d
+1985–96
+1.7d
+1996–99
+0.6
+75
+1973–84
+1.5d
+1984–99
+1.6d
+White, males
+All ages
+1973–86
+1.1d
+1986–95
+2.3d
+1995–99
+0.0
+ 50
+1973–99
+0.5d
+50–64
+1973–85
+1.1d
+1985–99
+1.3d
+65–74
+1973–85
+1.0d
+1985–99
+1.7d
+75
+1973–87
+1.3d
+1987–95
+3.2d
+1995–99
+0.1
+White, females
+All ages
+1973–84
+0.7d
+1984–94
+2.0d
+1994–99
+0.2
+ 50
+1973–95
+1.9d
+1995–99
+6.6d
+50–64
+1973–81
+0.7
+1981–99
+1.6d
+65–74
+1973–85
+0.4
+1985–88
+3.9
+1988–99
+0.7d
+75
+1973–83
+1.7d
+1983–99
+1.5d
+Black, both sexes
+All ages
+1973–80
+3.6d
+1980–99
+0.3
+ 50
+1973–99
+0.1
+50–64
+1973–78
+5.3d
+1978–99
+0.4
+65–74
+1973–89
+1.8d
+1989–99
+1.8d
+75
+1973–78
+6.8d
+1978–99
+0.6d
+Black, males
+All ages
+1973–80
+4.9d
+1980–99
+0.3
+ 50
+1973–97
+0.9d
+1997–99
+16.0
+50–64
+1973–99
+1.0d
+65–74
+1973–92
+1.7d
+1992–99
+4.1d
+75
+1973–77
+14.8
+1977–99
+0.6
+Black, females
+All ages
+1973–80
+2.7d
+1980–99
+0.3
+ 50
+1973–99
+0.2
+50–64
+1973–99
+0.6d
+65–74
+1973–83
+3.1d
+1983–99
+0.6
+75
+1973–99
+0.2
+Female breast
+All races
+All ages
+1973–80
+0.6
+1980–87
+3.7d
+1987–99
+0.5d
+ 50
+1973–80
+1.5
+1980–86
+2.9d
+1986–99
+0.3
+50–64
+1973–80
+1.2
+1980–85
+4.1d
+1985–99
+1.6d
+65–74
+1973–78
+1.2
+1978–87
+4.6d
+1987–99
+0.4
+75
+1973–82
+0.8
+1982–87
+5.2d
+1987–99
+0.0
+White
+All ages
+1973–80
+0.5
+1980–87
+3.8d
+1987–99
+0.4
+ 50
+1973–80
+1.4d
+1980–86
+2.9d
+1986–99
+0.4
+50–64
+1973–80
+1.1
+1980–85
+4.4d
+1985–99
+1.5d
+65–74
+1973–78
+1.0
+1978–87
+4.7d
+1987–99
+0.3
+75
+1973–82
+0.8
+1982–87
+5.4d
+1987–99
+0.0
+(continued)
+2774
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+other hand, testicular cancer had the lowest median
+age at 34 years, with slightly more than 90% of the
+cancers diagnosed before age 50. Also, 70% of persons
+with non-Hodgkin lymphoma and more than half of
+the persons with cancers of the bones and joints,
+cervix, thyroid, and Hodgkin lymphoma were under
+the age of 50 years.
+Top 10 Cancer Mortality Sites by Age and Sex,
+1995-1999
+Lung cancer was the leading cause of cancer deaths,
+accounting for almost one-third of deaths in men and
+about one-fourth of deaths in women (Table 4). Colo-
+rectal cancer was the second leading cause of cancer
+death overall, accounting for about 10% of deaths,
+with breast and prostate cancer deaths together rep-
+resenting another 14%. The percentage distribution
+and rank order varies when calculated only for men or
+for women. These four cancers account for more than
+half of all cancer deaths. Six other cancers (pancreas,
+non-Hodgkin lymphoma, leukemia, ovary, stomach,
+brain and other nervous system) account for almost
+one-fourth of cancer deaths, with many other types
+contributing to the remaining 27%.
+More than 30% of cancer deaths among persons
+less than 20 years of age were due to leukemia, and
+one-fourth were due to brain and other nervous sys-
+tem cancers. A number of other types of cancers ac-
+count for the remaining cancer deaths in young per-
+sons.
+Cancer death rates among persons aged 20 to 49
+years were more than 10-fold higher than rates in
+children and teenagers, with cancer of the lung and
+bronchus emerging as a leading cause of death, par-
+ticularly among men, and breast cancer causing 30%
+of the cancer deaths in women. Colorectal cancer,
+brain and other nervous system cancers, as well as
+non-Hodgkin lymphoma and leukemia, accounted for
+one-fourth of cancer deaths in this age group. Overall
+cancer death rates were slightly higher in women than
+in men.
+Lung cancer was responsible for about one-third
+of all deaths for persons aged 50-64 years and 65-74
+years. Colorectal cancer accounted for about 8-10% of
+TABLE 1
+(continued)
+Incidence
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Black
+All ages
+1973–79
+0.7
+1979–86
+3.9d
+1986–99
+0.9d
+ 50
+1973–91
+1.4d
+1991–99
+1.1
+50–64
+1973–99
+2.1d
+65–74
+1973–99
+2.2d
+75
+1973–99
+1.7d
+Prostate
+All races
+All ages
+1973–88
+2.7d
+1988–92
+16.2d
+1992–95
+11.7d
+1995–99
+1.4
+ 50
+1973–90
+3.0d
+1990–93
+33.6d
+1993–99
+10.9d
+50–64
+1973–85
+2.9d
+1985–89
+7.3d
+1989–92
+26.4d
+1992–99
+2.3d
+65–74
+1973–88
+3.7d
+1988–92
+20.1d
+1992–95
+11.2d
+1995–99
+0.6
+75
+1973–88
+2.0d
+1988–92
+11.3d
+1992–95
+18.7d
+1995–99
+0.1
+White
+All ages
+1973–88
+2.8d
+1988–92
+16.1d
+1992–95
+12.8d
+1995–99
+1.6
+ 50
+1973–89
+3.5d
+1989–93
+24.5d
+1993–99
+9.7d
+50–64
+1973–88
+3.7d
+1988–92
+23.5d
+1992–99
+2.0d
+65–74
+1973–88
+4.0d
+1988–92
+20.0d
+1992–95
+12.3d
+1995–99
+0.9
+75
+1973–88
+2.1d
+1988–92
+11.0d
+1992–95
+19.6d
+1995–99
+0.1
+Black
+All ages
+1973–89
+2.1d
+1989–92
+20.6d
+1992–96
+5.7d
+1996–99
+0.1
+ 50
+e
+e
+50–64
+1973–89
+2.2d
+1989–93
+26.2d
+1993–99
+1.4
+65–74
+1973–89
+2.4d
+1989–92
+24.7d
+1992–99
+5.0d
+75
+1973–89
+1.9d
+1989–92
+14.3d
+1992–95
+16.3d
+1995–99
+1.0
+a Joinpoint analysis of trends allowed for up to three joinpoints based on rates per 100,000 that were age-adjusted to the 2000 U.S. standard population.
+b From SEER registries covering 10% of the U.S. population: metropolitan areas of San Francisco, Detroit, Atlanta, and Seattle-Puget Sound; and states of Connecticut, Hawaii, Iowa, Utah, and New Mexico.
+c The APC is the Annual Percent Change based on rates age-adjusted to the 2000 U.S. standard population using the joinpoint regression program.
+d The APC is statistically signiﬁcantly different from zero (two-sided P  .05).
+e Joinpoint results are not shown if less than 10 cases in any year.
+SEER: Surveillance, Epidemiology and End Results program.
+Report to Nation on Cancer and Aging/Edwards et al.
+2775
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+Cancer Death Trends by Joinpoint Analysesa for the Most Common Cancers by Race, Sex, and Age, United States,b 1973–1999
+Mortality
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+All sites
+All races, both sexes
+All ages
+1973–85
+0.5d
+1985–93
+0.2d
+1993–99
+1.1d
+ 20
+1973–78
+4.2d
+1978–82
+1.0
+1982–85
+4.9
+1985–99
+2.2d
+20–49
+1973–76
+2.1d
+1976–91
+1.2d
+1991–99
+1.9d
+ 50
+1973–76
+2.2d
+1976–91
+1.3d
+1991–99
+1.9d
+50–64
+1973–85
+0.3d
+1985–91
+0.4d
+1991–99
+1.9d
+65–74
+1973–86
+0.9d
+1986–93
+0.3d
+1993–99
+1.0d
+75
+1973–93
+0.9d
+1993–99
+0.3d
+All races, males
+All ages
+1973–80
+0.9d
+1980–92
+0.3d
+1992–99
+1.5d
+ 20
+1973–99
+2.8d
+20–49
+1973–91
+1.3d
+1991–99
+1.8d
+ 50
+1973–92
+1.4d
+1992–99
+1.9d
+50–64
+1973–78
+0.6d
+1978–90
+0.1
+1990–99
+2.1d
+65–74
+1973–80
+0.9d
+1980–90
+0.3d
+1990–94
+0.6d
+1994–99
+1.4d
+75
+1973–79
+1.6d
+1979–92
+0.9d
+1992–99
+1.2d
+All races, females
+All ages
+1973–92
+0.5d
+1992–99
+0.6d
+ 20
+1973–76
+5.5d
+1976–99
+2.3d
+20–49
+1973–79
+1.9d
+1979–91
+1.0d
+1991–99
+2.1d
+ 50
+1973–79
+2.0d
+1979–91
+1.1d
+1991–99
+2.1d
+50–64
+1973–87
+0.3d
+1987–95
+0.9d
+1995–99
+2.3d
+65–74
+1973–75
+0.3
+1975–86
+1.5d
+1986–94
+0.7d
+1994–99
+0.8d
+75
+1973–87
+0.9d
+1987–93
+1.4d
+1993–99
+0.3
+White, both sexes
+All ages
+1973–92
+0.4d
+1992–99
+0.9d
+ 20
+1973–99
+2.8d
+20–49
+1973–79
+1.7d
+1979–91
+1.2d
+1991–99
+2.0d
+ 50
+1973–78
+1.9d
+1978–91
+1.3d
+1991–99
+2.0d
+50–64
+1973–88
+0.2d
+1988–94
+1.2d
+1994–99
+2.2d
+65–74
+1973–86
+0.9d
+1986–94
+0.2d
+1994–99
+1.0d
+75
+1973–93
+0.9d
+1993–99
+0.2
+White, males
+All ages
+1973–80
+0.8d
+1980–92
+0.2d
+1992–99
+1.4d
+ 20
+1973–99
+2.9d
+20–49
+1973–99
+1.4d
+ 50
+1973–99
+1.5d
+50–64
+1973–88
+0.1d
+1988–94
+1.4d
+1994–99
+2.4d
+65–74
+1973–79
+0.9d
+1979–90
+0.2d
+1990–94
+0.5
+1994–99
+1.2d
+75
+1973–79
+1.5d
+1979–92
+0.8d
+1992–99
+1.1d
+White, females
+All ages
+1973–93
+0.5d
+1993–99
+0.8d
+ 20
+1973–99
+2.6d
+20–49
+1973–79
+1.9d
+1979–90
+1.0d
+1990–99
+2.1d
+ 50
+1973–79
+2.0d
+1979–90
+1.0d
+1990–99
+2.1d
+50–64
+1973–87
+0.3d
+1987–95
+0.9d
+1995–99
+2.4d
+65–74
+1973–75
+0.1
+1975–86
+1.5d
+1986–94
+0.6d
+1994–99
+0.7d
+75
+1973–87
+0.8d
+1987–93
+1.4d
+1993–99
+0.3
+Black, both sexes
+All ages
+1973–84
+1.3d
+1984–92
+0.6d
+1992–99
+1.2d
+ 20
+1973–99
+2.2d
+20–49
+1973–92
+1.0d
+1992–99
+2.5d
+ 50
+1973–92
+1.0d
+1992–99
+2.5d
+50–64
+1973–84
+0.8d
+1984–90
+0.4
+1990–99
+1.9d
+65–74
+1973–75
+0.6
+1975–89
+1.5d
+1989–95
+0.1
+1995–99
+2.6d
+75
+1973–80
+2.8d
+1980–91
+1.8d
+1991–99
+0.1
+Black, males
+All ages
+1973–82
+1.9d
+1982–90
+1.0d
+1990–93
+0.5
+1993–99
+2.1d
+ 20
+1973–99
+2.4d
+20–49
+1973–79
+0.2
+1979–91
+1.2d
+1991–99
+3.0d
+ 50
+1973–79
+0.0
+1979–91
+1.3d
+1991–99
+3.0d
+50–64
+1973–84
+1.0d
+1984–87
+1.5
+1987–90
+0.5
+1990–99
+2.3d
+65–74
+1973–83
+2.0d
+1983–89
+1.3d
+1989–95
+0.9d
+1995–99
+3.9d
+75
+1973–80
+3.2d
+1980–91
+2.3d
+1991–99
+0.9d
+(continued)
+2776
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+(continued)
+Mortality
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Black, females
+All ages
+1973–75
+0.8
+1975–91
+1.0d
+1991–99
+0.4d
+ 20
+1973–99
+2.0d
+20–49
+1973–76
+4.2d
+1976–92
+0.7d
+1992–99
+1.9d
+ 50
+1973–76
+4.3d
+1976–92
+0.8d
+1992–99
+1.9d
+50–64
+1973–87
+0.7d
+1987–99
+1.2d
+65–74
+1973–76
+2.0
+1976–93
+1.6d
+1993–99
+0.7d
+75
+1973–82
+2.8d
+1982–99
+1.4d
+Lung and bronchus
+All races, both sexes
+All ages
+1973–80
+3.0d
+1980–90
+1.8d
+1990–97
+0.2
+1997–99
+1.9d
+ 50
+1973–80
+0.4d
+1980–91
+2.4d
+1991–94
+4.6d
+1994–99
+2.5d
+50–64
+1973–79
+2.6d
+1979–88
+1.2d
+1988–93
+1.3d
+1993–99
+3.2d
+65–74
+1973–82
+3.4d
+1982–91
+2.0d
+1991–97
+0.2
+1997–99
+2.0d
+75
+1973–80
+4.2d
+1980–91
+3.4d
+1991–97
+1.5d
+1997–99
+0.2
+All races, males
+All ages
+1973–80
+2.2d
+1980–90
+0.7d
+1990–97
+1.5d
+1997–99
+2.8d
+ 50
+1973–80
+1.6d
+1980–90
+3.0d
+1990–99
+4.0d
+50–64
+1973–78
+1.6d
+1978–88
+0.2
+1988–93
+2.2d
+1993–99
+3.9d
+65–74
+1973–80
+2.2d
+1980–90
+0.6d
+1990–97
+0.8d
+1997–99
+3.0d
+75
+1973–77
+4.6d
+1977–83
+3.1d
+1983–91
+1.6d
+1991–99
+0.8d
+All races, females
+All ages
+1973–82
+6.1d
+1982–90
+4.1d
+1990–95
+1.9d
+1995–99
+0.2
+ 50
+1973–78
+3.0d
+1978–87
+0.9d
+1987–99
+2.3d
+50–64
+1973–82
+5.7d
+1982–90
+2.5d
+1990–99
+1.4d
+65–74
+1973–83
+8.9d
+1983–92
+4.8d
+1992–99
+1.1d
+75
+1973–92
+6.8d
+1992–97
+3.7d
+1997–99
+1.3
+White, both sexes
+All ages
+1973–80
+2.9d
+1980–90
+1.8d
+1990–97
+0.1
+1997–99
+1.9d
+ 50
+1973–81
+0.6d
+1981–91
+2.5d
+1991–94
+4.7d
+1994–99
+2.5d
+50–64
+1973–78
+2.8d
+1978–88
+1.3d
+1988–93
+1.1d
+1993–99
+3.1d
+65–74
+1973–82
+3.3d
+1982–91
+1.9d
+1991–97
+0.4d
+1997–99
+1.8d
+75
+1973–77
+4.8d
+1977–91
+3.4d
+1991–97
+1.5d
+1997–99
+0.2
+White, males
+All ages
+1973–80
+2.1d
+1980–90
+0.6d
+1990–97
+1.4d
+1997–99
+2.7d
+ 50
+1973–81
+1.9d
+1981–91
+3.1d
+1991–94
+5.2d
+1994–99
+3.0d
+50–64
+1973–78
+1.4d
+1978–88
+0.2
+1988–93
+2.1d
+1993–99
+3.9d
+65–74
+1973–80
+1.9d
+1980–90
+0.5d
+1990–97
+0.7d
+1997–99
+2.8d
+75
+1973–77
+4.6d
+1977–83
+3.0d
+1983–91
+1.4d
+1991–99
+0.8d
+White, females
+All ages
+1973–82
+6.2d
+1982–90
+4.2d
+1990–95
+2.1d
+1995–99
+0.2
+ 50
+1973–78
+3.2d
+1978–87
+0.7d
+1987–99
+2.5d
+50–64
+1973–82
+5.6d
+1982–90
+2.5d
+1990–96
+0.7
+1996–99
+3.1d
+65–74
+1973–83
+9.1d
+1983–92
+4.7d
+1992–99
+1.2d
+75
+1973–92
+6.9d
+1992–97
+3.8d
+1997–99
+1.0
+Black, both sexes
+All ages
+1973–81
+3.4d
+1981–90
+1.9d
+1990–99
+0.9d
+ 50
+1973–77
+0.9
+1977–91
+1.9d
+1991–99
+3.7d
+50–64
+1973–82
+2.9d
+1982–90
+0.2
+1990–99
+3.0d
+65–74
+1973–88
+4.0d
+1988–95
+0.7
+1995–99
+2.6d
+75
+1973–88
+4.9d
+1988–99
+2.0d
+Black, males
+Al ages
+1973–81
+3.1d
+1981–89
+1.6d
+1989–93
+0.8
+1993–99
+2.6d
+ 50
+1973–77
+0.6
+1977–91
+2.4d
+1991–99
+5.0d
+50–64
+1973–82
+1.9d
+1982–90
+0.4
+1990–99
+3.4d
+65–74
+1973–82
+4.3d
+1982–89
+2.3d
+1989–95
+1.2
+1995–99
+4.0d
+75
+1973–88
+4.9d
+1988–94
+1.2d
+1994–99
+0.9
+Black, females
+All ages
+1973–82
+6.2d
+1982–91
+3.8d
+1991–99
+1.2d
+ 50
+1973–99
+0.9d
+50–64
+1973–81
+8.2d
+1981–90
+2.3d
+1990–99
+2.0d
+65–74
+1973–92
+7.1d
+1992–99
+1.1
+75
+1973–91
+6.7d
+1991–99
+4.6d
+(continued)
+Report to Nation on Cancer and Aging/Edwards et al.
+2777
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 2
+(continued)
+Mortality
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Colon and rectum
+All races, both sexes
+All ages
+1973–78
+0.0
+1978–85
+0.8d
+1985–99
+1.7d
+ 50
+1973–91
+2.0d
+1991–99
+0.4
+50–64
+1973–85
+0.9d
+1985–99
+1.9d
+65–74
+1973–84
+0.5d
+1984–99
+2.0d
+75
+1973–80
+0.4
+1980–90
+1.1d
+1990–99
+1.8d
+All races, males
+Al ages
+1973–79
+0.5
+1979–87
+0.6d
+1987–99
+2.0d
+ 50
+1973–99
+1.4d
+50–64
+1973–85
+0.2
+1985–99
+1.6d
+65–74
+1973–85
+0.1
+1985–99
+2.0d
+75
+1973–80
+0.9d
+1980–90
+0.8d
+1990–99
+2.4d
+All races, females
+All ages
+1973–80
+0.5d
+1980–99
+1.7d
+ 50
+1973–89
+2.7d
+1989–99
+0.4
+50–64
+1973–85
+1.6d
+1985–99
+2.2d
+65–74
+1973–84
+1.1d
+1984–99
+2.1d
+75
+1973–81
+0.1
+1981–99
+1.4d
+White, both sexes
+All ages
+1973–78
+0.1
+1978–84
+0.8d
+1984–99
+1.8d
+ 50
+1973–93
+2.2d
+1993–99
+0.2
+50–64
+1973–85
+1.0d
+1985–99
+2.1d
+65–74
+1973–84
+0.6d
+1984–99
+2.1d
+75
+1973–78
+0.5
+1978–84
+0.6
+1984–99
+1.7d
+White, males
+All ages
+1973–79
+0.4
+1979–87
+0.8d
+1987–99
+2.1d
+ 50
+1973–99
+1.6d
+50–64
+1973–85
+0.3d
+1985–99
+1.9d
+65–74
+1973–78
+0.6
+1978–85
+0.6d
+1985–99
+2.1d
+75
+1973–80
+0.7d
+1980–90
+1.0d
+1990–99
+2.5d
+White, females
+All ages
+1973–80
+0.6d
+1980–99
+1.8d
+ 50
+1973–89
+3.1d
+1989–99
+0.7d
+50–64
+1973–84
+1.7d
+1984–99
+2.4d
+65–74
+1973–84
+1.2d
+1984–99
+2.3d
+75
+1973–81
+0.1
+1981–99
+1.6d
+Black, both sexes
+All ages
+1973–85
+1.1d
+1985–99
+0.3d
+ 50
+1973–99
+0.5d
+50–64
+1973–99
+0.0
+65–74
+1973–89
+0.5d
+1989–99
+0.9d
+75
+1973–85
+2.0d
+1985–99
+0.1
+Black, males
+All ages
+1973–90
+1.3d
+1990–99
+1.0d
+ 50
+1973–99
+0.3
+50–64
+1973–99
+0.7d
+65–74
+1973–85
+1.5d
+1985–97
+0.1
+1997–99
+6.0
+75
+1973–90
+1.9d
+1990–99
+1.4d
+Black, females
+All ages
+1973–85
+0.7d
+1985–99
+0.5d
+ 50
+1973–99
+0.7d
+50–64
+1973–99
+0.8d
+65–74
+1973–99
+0.4d
+75
+1973–85
+1.8d
+1985–99
+0.1
+Female breast
+All races
+All ages
+1973–79
+0.3
+1979–89
+0.6d
+1989–95
+1.4d
+1995–99
+3.2d
+ 50
+1973–80
+1.5d
+1980–89
+0.1
+1989–97
+2.7d
+1997–99
+7.4d
+50–64
+1973–89
+0.1
+1989–99
+2.7d
+65–74
+1973–75
+1.7
+1975–89
+1.1d
+1989–94
+1.2
+1994–99
+3.3d
+75
+1973–93
+1.0d
+1993–99
+1.3d
+White
+All ages
+1973–79
+0.3
+1979–89
+0.5d
+1989–95
+1.6d
+1995–99
+3.5d
+ 50
+1973–79
+1.7d
+1979–90
+0.4
+1990–97
+3.4d
+1997–99
+8.2d
+50–64
+1973–89
+0.2d
+1989–99
+3.0d
+65–74
+1973–89
+0.9d
+1989–94
+1.3
+1994–99
+3.5d
+75
+1973–79
+0.0
+1979–93
+1.1d
+1993–99
+1.6d
+(continued)
+2778
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+cancer deaths in each age group. Prostate carcinoma
+was the cause of 20% of the cancer deaths in men aged
+75 years and older. In persons aged 75 years and older,
+most cancer death rates including lung, colorectal,
+prostate, and breast, were higher than rates for per-
+sons aged 65-74 years.
+Cancer Survival and Prevalence
+Once diagnosed with cancer, prognosis (or survival) is
+more inﬂuenced by the type of cancer and extent of
+the disease than a person’s age (Fig. 4). Thus, in con-
+trast to the steady increase in cancer incidence or
+death rates as a person ages, age does not appreciably
+affect relative survival rates for many sites. As an in-
+dicator of prognosis, men diagnosed with prostate
+cancer had a ﬁve year relative survival of at least 90%,
+and women diagnosed with breast cancer had a ﬁve
+year relative survival of 84% or higher. For men and
+women diagnosed with colorectal cancer, the ﬁve year
+relative survival was about 60%. For cancer of the lung,
+all of the rates were low (less than 20%), but younger
+patients had better survival (19%) than older patients
+(9%). However, observed ﬁve year survival rates show
+greater differences by age, with consistently lower
+rates among older persons, particularly persons aged
+75 years and older. These lower observed survival rates
+reﬂect death due to other causes as well as to cancer
+and the presence of comorbidities.
+The estimated number of cancer survivors in the
+United States is 8.9 million, based on data from the
+SEER Program. About 60% are 65 years and older, and
+32% are 75 years and older. These estimates reﬂect
+age-speciﬁc cancer incidence rates and survival within
+the total population.
+Impact of Age on Projected Cancer Cases 2000 to 2050
+Because of complex factors that affect changes in can-
+cer incidence, it is difﬁcult to anticipate what the rates
+will be over the next 50 years. However, if current
+cancer incidence rates were applied to the U.S. Census
+Bureau population projections for the next ﬁve de-
+cades (Fig. 5), due to population growth and aging, the
+number of cancer patients is expected to double from
+1.3 million to 2.6 million persons between 2000 and
+TABLE 2
+(continued)
+Mortality
+Line segment 1
+Line segment 2
+Line segment 3
+Line segment 4
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Year
+APCc
+Black
+All ages
+1973–93
+1.3d
+1993–99
+1.2d
+ 50
+1973–76
+5.4
+1976–87
+2.0d
+1987–99
+1.4d
+50–64
+1973–90
+1.2d
+1990–99
+1.0d
+65–74
+1973–75
+7.8
+1975–94
+1.9d
+1994–99
+2.2
+75
+1973–99
+1.9d
+Prostate
+All races
+All ages
+1973–87
+0.9d
+1987–91
+3.0d
+1991–94
+0.7
+1994–99
+4.3d
+ 50
+1973–99
+0.5
+50–64
+1973–87
+0.3
+1987–90
+4.3
+1990–99
+3.8d
+65–74
+1973–82
+0.2
+1982–92
+1.4d
+1992–99
+4.7d
+75
+1973–87
+1.1d
+1987–93
+2.7d
+1993–99
+3.8d
+White
+All ages
+1973–87
+0.8d
+1987–91
+3.1d
+1991–94
+0.9
+1994–99
+4.4d
+ 50
+1973–99
+0.3
+50–64
+1973–87
+0.4d
+1987–90
+4.3
+1990–99
+4.4d
+65–74
+1973–84
+0.3d
+1984–91
+1.9d
+1991–96
+3.7d
+1996–99
+6.4d
+75
+1973–87
+0.8d
+1987–91
+3.4d
+1991–94
+0.0
+1994–99
+4.1d
+Black
+All ages
+1973–93
+2.2d
+1993–99
+2.5d
+ 50
+1973–99
+1.1d
+50–64
+1973–87
+0.0
+1987–90
+4.0
+1990–99
+2.1d
+65–74
+1973–94
+1.2d
+1994–99
+5.5d
+75
+1973–93
+2.7d
+1993–99
+1.9d
+a Joinpoint analysis of trends allowed for up to three joinpoints based on rates per 100,000 that were age-adjusted to the 2000 U.S. standard population.
+b Death data are from the National Vital Statistics System of the National Center for Health Statistics; the data cover the entire U.S. population.
+c The APC is the Annual Percent Change based on rates age-adjusted to the 2000 U.S. standard population using the joinpoint regression program.
+d The APC is statistically signiﬁcantly different from zero (two-sided P  .05).
+e Joinpoint results are not shown if less than 10 cases in any year.
+Report to Nation on Cancer and Aging/Edwards et al.
+2779
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 3
+Average Annual Cancer Incidence Ratesa and Percent Site Distribution for the 10 Most Frequent Cancers by Sex and Age, SEER and NPCR
+Areas,b United States, 1995–1999
+Male and female
+rate
+Male
+rate
+Female
+rate
+Male and female
+percent
+Male
+percent
+Female
+percent
+All ages
+All sites
+475.1
+559.5
+420.1
+100.0
+100.0
+100.0
+Breast
+72.7
+1.3
+131.9
+15.2
+0.2
+30.7
+Prostate
+68.9
+160.6
+c
+14.5
+28.6
+c
+Lung and bronchus
+68.5
+91.5
+52.0
+14.4
+16.3
+12.5
+Colon and rectum
+56.9
+67.4
+49.0
+11.9
+11.7
+12.2
+Urinary bladder
+21.6
+38.0
+9.9
+4.5
+6.6
+2.5
+Non-Hodgkin lymphoma
+19.1
+23.0
+15.9
+4.0
+4.2
+3.8
+Melanomas of the skin
+14.2
+17.9
+11.5
+3.0
+3.3
+2.7
+Corpus and uterus, NOS
+13.9
+c
+25.2
+2.9
+c
+5.9
+Leukemias
+12.0
+15.6
+9.3
+2.5
+2.8
+2.3
+Kidney and renal pelvis
+11.6
+15.9
+8.2
+2.4
+2.9
+1.9
+Other
+115.7
+128.3
+107.2
+24.5
+23.4
+25.6
+Ages  20 years
+All sites
+16.0
+16.7
+15.1
+100.0
+100.0
+100.0
+Leukemias
+4.1
+4.6
+3.6
+26.0
+27.7
+24.1
+Brain and other nervous system
+2.8
+3.0
+2.6
+17.6
+17.8
+17.4
+Hodgkin lymphoma
+1.3
+1.3
+1.3
+7.8
+7.5
+8.1
+Non-Hodgkin lymphoma
+1.1
+1.4
+0.7
+6.7
+8.5
+4.5
+Soft tissue including heart
+0.9
+0.9
+0.9
+5.7
+5.5
+6.0
+Bones and joints
+0.9
+1.0
+0.8
+5.6
+5.9
+5.4
+Kidney and renal pelvis
+0.7
+0.6
+0.8
+4.4
+3.6
+5.2
+Other endocrine including thymus
+0.5
+0.6
+0.4
+3.3
+3.8
+2.7
+Thyroid
+0.5
+0.2
+0.9
+3.2
+1.1
+5.8
+Testis
+0.5
+0.9
+c
+3.0
+5.6
+c
+Other
+2.7
+2.2
+3.1
+16.6
+13.0
+20.8
+Ages 20–49
+All sites
+145.5
+111.8
+178.5
+100.0
+100.0
+100.0
+Breast
+35.9
+0.3
+70.6
+24.4
+0.2
+39.2
+Melanomas of the skin
+10.6
+10.0
+11.2
+7.4
+9.0
+6.4
+Colon and rectum
+9.1
+9.7
+8.5
+6.2
+8.5
+4.8
+Lung and bronchus
+8.9
+9.9
+8.0
+6.0
+8.6
+4.4
+Non-Hodgkin lymphoma
+8.3
+10.7
+6.0
+5.8
+9.7
+3.4
+Thyroid
+7.7
+3.2
+12.2
+5.4
+2.9
+7.0
+Cervix
+6.5
+c
+13.0
+4.6
+c
+7.4
+Testis
+5.1
+10.2
+c
+3.6
+9.5
+c
+Ovary
+4.9
+c
+9.8
+3.4
+c
+5.5
+Oral cavity and pharynx
+4.4
+6.3
+2.5
+3.0
+5.5
+1.4
+Other
+44.1
+51.5
+36.7
+30.3
+46.0
+20.6
+Ages 50–64 years
+All sites
+864.8
+934.2
+802.8
+100.0
+100.0
+100.0
+Breast
+156.7
+2.3
+299.3
+18.0
+0.3
+37.1
+Prostate
+134.6
+281.8
+c
+15.7
+30.3
+c
+Lung and bronchus
+129.0
+157.2
+103.2
+15.0
+16.8
+13.0
+Colon and rectum
+85.4
+101.8
+70.4
+9.9
+10.9
+8.8
+Corpus and uterus, NOS
+33.9
+c
+65.1
+3.9
+c
+8.1
+Urinary bladder
+32.5
+51.7
+14.9
+3.8
+5.5
+1.9
+Non-Hodgkin lymphoma
+31.3
+36.5
+26.4
+3.6
+3.9
+3.3
+Melanomas of the skin
+26.2
+33.4
+19.6
+3.0
+3.6
+2.4
+Oral cavity and pharynx
+25.3
+38.7
+12.9
+2.9
+4.1
+1.6
+Kidney and renal pelvis
+24.2
+33.1
+15.9
+2.8
+3.5
+2.0
+Other
+185.7
+197.7
+175.1
+21.4
+21.1
+21.8
+Ages 65–74 years
+All sites
+2006.6
+2604.9
+1527.4
+100.0
+100.0
+100.0
+Prostate
+414.7
+931.5
+c
+20.7
+35.8
+c
+Lung and bronchus
+357.0
+473.0
+264.2
+17.8
+18.2
+17.3
+Breast
+243.0
+5.3
+434.1
+12.1
+0.2
+28.4
+(continued)
+2780
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2050. In addition, the number and proportion of older
+persons with cancer are expected to increase dramat-
+ically. For example, in 2000 an estimated 389,000 per-
+sons aged 75 years and older are expected to be newly
+diagnosed with cancer, in contrast to a projection of
+nearly 1,102,000 persons in 2050, an increase from
+30% to 42% of the cancer population aged 75 years
+and older. The number of cancer patients aged 85
+years and older is expected to increase by more than
+four-fold between 2000 and 2050. Of more immediate
+concern, within the next 30 years, the absolute num-
+ber of cancers occurring in persons aged 65 years and
+older is expected to double.
+Race/Ethnic Incidence and Death Rates (White, Black,
+API, AI/AN, Hispanic)
+Cancer incidence rates from SEER for all sites com-
+bined for men in the ﬁve racial and ethnic populations
+showed that black men had the highest cancer inci-
+dence and death rates for each age group, except
+persons under age 20 years during 1995-1999 (Tables 5
+and 6). White and Hispanic men had the same death
+rate in the younger than 20 years age group (Table 6).
+White women had the highest cancer incidence rates
+for all sites combined for each age group (Table 5),
+and black women had the highest cancer death rates
+(Table 6). In addition, AI/AN men and women had the
+lowest cancer incidence rates for all sites combined
+regardless of age (Table 5), while the age-speciﬁc can-
+cer death rates for AI/AN, API, and Hispanic popula-
+tions were lower than for white and black populations
+(Table 6).
+Black men and women almost always had the
+highest colorectal cancer incidence and death rates
+during 1995-1999 (Tables 5 and 6). This high ranking
+persisted in all age groups for both men and women
+for incidence and death rates with one exception:
+white men aged 75 years and older had the highest
+colorectal cancer incidence rates. Among women, His-
+panic women generally had the lowest colorectal cancer
+incidence and death rates. Among men, the lowest rates
+varied by age among Hispanic, API, and AI/AN men.
+Black men had the highest lung cancer incidence
+and mortality rates in all age groups during 1995-1999
+(Tables 5 and 6). Among women, black women had
+higher lung cancer incidence and death rates than
+TABLE 3
+(continued)
+Male and female
+rate
+Male
+rate
+Female
+rate
+Male and female
+percent
+Male
+percent
+Female
+percent
+Colon and rectum
+240.6
+293.8
+198.0
+12.0
+11.3
+13.0
+Urinary bladder
+100.0
+170.8
+43.4
+5.0
+6.5
+2.8
+Non-Hodgkin lymphoma
+68.8
+80.0
+59.9
+3.4
+3.1
+3.9
+Corpus and uterus, NOS
+54.6
+c
+98.5
+2.7
+c
+6.4
+Kidney and renal pelvis
+48.0
+66.9
+32.8
+2.4
+2.6
+2.1
+Pancreas
+47.3
+55.2
+41.0
+2.4
+2.1
+2.7
+Melanomas of the skin
+41.2
+59.4
+26.5
+2.1
+2.3
+1.7
+Other
+391.4
+469.0
+329.0
+19.5
+18.0
+21.6
+Ages 75 years
+All sites
+2398.8
+3210.2
+1931.4
+100.0
+100.0
+100.0
+Colon and rectum
+400.3
+472.5
+358.7
+16.7
+14.5
+18.7
+Lung and bronchus
+359.6
+535.6
+257.8
+15.0
+16.9
+13.2
+Prostate
+332.6
+899.3
+c
+13.9
+28.3
+c
+Breast
+290.0
+8.3
+455.6
+12.1
+0.3
+23.5
+Urinary bladder
+146.5
+282.7
+69.3
+6.1
+8.7
+3.6
+Non-Hodgkin lymphoma
+97.3
+117.7
+85.8
+4.1
+3.7
+4.4
+Pancreas
+76.7
+83.4
+72.9
+3.2
+2.6
+3.8
+Leukemias
+67.9
+95.6
+52.4
+2.8
+2.9
+2.7
+Stomach
+58.6
+86.2
+42.9
+2.4
+2.6
+2.3
+Corpus and uterus, NOS
+55.9
+c
+89.4
+2.3
+c
+4.6
+Other
+513.4
+628.9
+446.6
+21.4
+19.5
+23.2
+a Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard population.
+b Source is SEER and NPCR areas reported by North American Association of Central Cancer Registries as meeting high data quality standards. The areas cover approximately 55% of the U.S. population: California
+(Los Angeles and Greater Bay area), Colorado, Connecticut. Delaware, Georgia (Atlanta area), Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Michigan (Detroit area), Minnesota, Nebraska, New Jersey, New
+Mexico, New York, North Carolina, Pennsylvania, Rhode Island, Utah, Washington (Seattle area), West Virginia, Wisconsin, Wyoming.
+c Category not applicable or fewer than 25 cases.
+SEER: Surveillance, Epidemiology and End Results Program; NPCR: National Program of Cancer Registries; NOS: not otherwise speciﬁed.
+Report to Nation on Cancer and Aging/Edwards et al.
+2781
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+white women until age 64 years; after age 64, white
+women had the higher rates. Hispanic men had the
+lowest lung cancer incidence and death rates for all
+age groups, except AI/AN men, who had the lowest
+lung cancer incidence rate among men aged 75 years
+and older. Hispanic women had the lowest lung can-
+cer death rates in all age groups, but the lowest age-
+speciﬁc incidence rates among women varied be-
+tween Hispanic and AI/AN women.
+White women had the highest incidence rates of
+breast cancer for all ages combined during 1995-1999;
+the lowest age-speciﬁc incidence rates occurred in
+AI/AN women (Table 5). Age-speciﬁc breast cancer
+death rates were different. Black women had the high-
+est death rates regardless of age and API women had
+the lowest age-speciﬁc death rates, except for women
+under age 50 (Table 6). Regardless of age, black men
+had the highest prostate cancer incidence and death
+rates during 1995-1999 (Tables 5 and 6). In general,
+AI/AN men had the lowest prostate cancer incidence
+rates (Table 5), and API men had the lowest death
+rates (Table 6).
+DISCUSSION
+The current report examined recent rates and trends
+in cancer incidence and mortality and considered the
+impact of aging on the future cancer burden, includ-
+ing characteristics of the growing population of cancer
+survivors. Progress against cancer can be measured by
+the reductions in the rate of cancer deaths at each age,
+as well as shifts in detecting cancer at earlier and more
+treatable stages of disease at diagnosis. Advances in
+cancer control and the application of effective inter-
+ventions, as well as improved access to state-of-the-
+art cancer care, should lead to further reductions in
+cancer death rates.25 However, even with these im-
+provements, the aging of the U.S. population alone
+will increase the number of persons who are diag-
+nosed and treated for cancer and who will survive
+longer at increasingly older ages.
+FIGURE 3. Age distribution and median age for the incidence of major cancers, Surveillance, Epidemiology and End Results (SEER) Program and the National
+Program of Cancer Registries (NPCR) areas reported by the North American Association of Central Cancer Registries (NAACCR), 1995-1999. Percents may not add
+to 100 due to rounding. Cancer data from SEER and NPCR areas reported by NAACCR as meeting high data quality standards. The areas cover approximately 55%
+of the U.S. population: California (Los Angeles and Greater Bay area), Colorado, Connecticut, Delaware, Georgia (Atlanta area), Hawaii, Idaho, Illinois, Iowa, Kentucky,
+Louisiana, Michigan (Detroit area), Minnesota, Nebraska, New Jersey, New Mexico, New York, North Carolina, Pennsylvania, Rhode Island, Utah, Washington (Seattle
+area), West Virginia, Wisconsin, and Wyoming.
+2782
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+TABLE 4
+Average Annual Cancer Death Ratesa and Percent Site Distribution for the 10 Most Frequent Cancers by Sex and Age,
+United Statesb 1995–1999
+Male and female
+rate
+Male
+rate
+Female
+rate
+Male and female
+percent
+Male
+percent
+Female
+percent
+All ages
+All malignant cancers
+205.9
+259.1
+171.4
+100.0
+100.0
+100.0
+Lung and bronchus
+57.7
+81.2
+41.0
+28.2
+32.2
+23.7
+Colon and rectum
+21.7
+26.3
+18.5
+10.5
+10.0
+11.1
+Breast
+16.4
+0.3
+28.8
+7.9
+0.1
+16.3
+Prostate
+12.6
+33.9
+c
+6.1
+11.7
+c
+Pancreas
+10.6
+12.2
+9.3
+5.1
+4.8
+5.5
+Non-Hodgkin lymphoma
+8.7
+10.8
+7.2
+4.2
+4.2
+4.3
+Leukemias
+7.8
+10.4
+6.0
+3.8
+4.0
+3.5
+Ovary
+5.1
+c
+9.0
+2.5
+c
+5.2
+Stomach
+5.0
+7.1
+3.5
+2.4
+2.7
+2.1
+Brain and other nervous system
+4.7
+5.7
+3.9
+2.3
+2.4
+2.2
+Other
+55.6
+71.2
+44.2
+26.9
+27.8
+26.0
+ 20 years
+All malignant cancers
+2.9
+3.2
+2.6
+100.0
+100.0
+100.0
+Leukemias
+0.9
+1.1
+0.8
+32.1
+32.7
+31.4
+Brain and other nervous system
+0.7
+0.8
+0.6
+24.4
+23.6
+25.4
+Other endocrine
+0.2
+0.3
+0.2
+8.2
+8.4
+7.8
+Bones and joints
+0.2
+0.3
+0.2
+7.8
+8.0
+7.6
+Soft tissue including heart
+0.2
+0.2
+0.2
+6.6
+6.3
+6.9
+Non-Hodgkin lymphoma
+0.2
+0.2
+0.1
+5.5
+6.7
+3.8
+Kidney and renal pelvis
+0.1
+0.1
+0.1
+2.8
+2.2
+3.6
+Liver and intrahepatic bile duct
+0.1
+0.1
+0.1
+2.5
+2.6
+2.4
+Hodgkin disease
+0.0
+0.0
+0.0
+1.5
+1.3
+1.8
+Colon and rectum
+0.0
+0.0
+0.0
+0.8
+0.8
+0.7
+Other
+0.3
+0.1
+0.3
+7.8
+7.2
+8.7
+20–49 years
+All malignant cancers
+35.2
+33.7
+36.7
+100.0
+100.0
+100.0
+Lung and bronchus
+6.1
+7.2
+5.0
+17.1
+21.1
+13.4
+Breast
+5.6
+0.0
+11.0
+15.8
+0.1
+29.9
+Colon and rectum
+2.7
+2.9
+2.4
+7.5
+8.6
+6.6
+Brain and other nervous system
+2.1
+2.6
+1.6
+6.0
+7.7
+4.4
+Non-Hodgkin lymphoma
+2.0
+2.7
+1.3
+5.8
+8.2
+3.6
+Leukemias
+1.9
+2.2
+1.6
+5.5
+6.7
+4.4
+Cervix
+1.3
+c
+2.6
+3.8
+c
+7.1
+Melanoma of the skin
+1.3
+1.6
+0.9
+3.6
+4.7
+2.6
+Pancreas
+1.2
+1.5
+0.9
+3.4
+4.5
+2.5
+Ovary
+1.0
+c
+2.1
+2.9
+c
+5.6
+Other
+10.0
+13.0
+7.3
+28.6
+38.3
+19.9
+50–64 years
+All malignant cancers
+304.3
+343.1
+269.1
+100.0
+100.0
+100.0
+Lung and bronchus
+98.7
+127.1
+72.8
+32.5
+37.1
+27.2
+Breast
+29.7
+0.5
+56.5
+9.7
+0.1
+20.8
+Colon and rectum
+26.7
+32.3
+21.6
+8.8
+9.4
+8.0
+Pancreas
+15.0
+18.4
+11.9
+4.9
+5.4
+4.5
+Non-Hodgkin lymphoma
+11.2
+14.1
+8.6
+3.7
+4.1
+3.2
+Brain and other nervous system
+8.9
+10.7
+7.2
+2.9
+3.1
+2.7
+Leukemias
+8.5
+10.5
+6.6
+2.8
+3.1
+2.5
+Ovary
+8.5
+c
+16.3
+2.8
+c
+6.0
+Esophagus
+8.4
+14.6
+2.8
+2.8
+4.3
+1.0
+Kidney and renal pelvis
+7.5
+10.8
+4.5
+2.5
+3.1
+1.7
+Other
+81.2
+104.1
+60.3
+26.7
+30.3
+22.4
+(continued)
+Report to Nation on Cancer and Aging/Edwards et al.
+2783
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Age-adjusted cancer incidence rates for all can-
+cers combined remained essentially constant during
+the
+most
+recent
+reporting
+period
+(1995-1999),
+whereas death rates decreased during the period
+1993 through 1999. The stable pattern of overall
+age-adjusted cancer incidence rates in the past ﬁve
+years is a complex mix of different trends in age-
+speciﬁc cancer rates, particularly for the more com-
+mon cancers. The relatively constant rate includes
+continuing
+increases
+in
+cancer
+incidence
+rates
+among women aged 65-74 years, increases in breast
+cancer among women aged 50-64 years, increases in
+colorectal cancer for women under age 50 years,
+increases in prostate cancer for men under age 65
+years, and increases in lung cancer for persons aged
+75 years and older. These increases are offset by
+declines in lung and colorectal cancer incidence for
+men at all but the oldest ages.
+In contrast, the death rate for all cancers com-
+bined continued to decrease in the entire U.S. popu-
+lation through 1999. The decline in cancer death rates
+accelerated during the 1990s in most age groups of
+men and women, with the notable exception of a
+slowing of the increase in lung cancer death rates in
+older aged women. The long-term temporal trends in
+cancer mortality reﬂect a combination of birth cohort
+effects in exposures as such tobacco use and period
+effects from the introduction of screening combined
+with more effective treatments for breast and colorec-
+tal cancers, as well as improved medical management
+for prostate cancers.26 Birth cohort patterns in ciga-
+rette smoking have a strong but delayed effect on both
+incidence and death rates from cancer, leading to the
+progressive increase and later decrease in lung cancer
+incidence and mortality rates. Both the uptake of reg-
+ular cigarette smoking and reductions in smoking
+prevalence occurred earlier in men than in women in
+the United States.
+Many factors inﬂuence the age-adjusted cancer
+incidence trends. Routine screening has not only in-
+creased in the population, but it also has improved the
+prognosis for cancer patients, especially persons diag-
+nosed with early stage disease. The widespread intro-
+duction of mammography in the 1980s coincided with
+TABLE 4
+(continued)
+Male and female
+rate
+Male
+rate
+Female
+rate
+Male and female
+percent
+Male
+percent
+Female
+percent
+65–74 years
+All malignant cancers
+852.5
+1067.1
+680.3
+100.0
+100.0
+100.0
+Lung and bronchus
+294.3
+404.4
+205.8
+34.5
+37.9
+30.3
+Colon and rectum
+81.9
+102.7
+65.2
+9.6
+9.6
+9.6
+Breast
+53.7
+1.1
+95.9
+6.3
+0.1
+14.1
+Pancreas
+44.4
+52.1
+38.2
+5.2
+4.9
+5.6
+Prostate
+44.4
+100.0
+c
+5.2
+9.3
+c
+Non-Hodgkin lymphoma
+32.9
+39.8
+27.4
+3.9
+3.7
+4.0
+Leukemias
+27.6
+37.7
+19.4
+3.2
+3.5
+2.9
+Ovary
+20.4
+c
+36.8
+2.4
+c
+5.4
+Esophagus
+20.0
+35.1
+7.8
+2.3
+3.3
+1.2
+Liver and intrahepatic bile duct
+19.0
+27.6
+12.1
+2.2
+2.6
+1.8
+Other
+213.9
+266.6
+171.7
+25.1
+25.0
+25.2
+75 years
+All malignant cancers
+1454.8
+2013.3
+1148.3
+100.0
+100.0
+100.0
+Lung and bronchus
+344.9
+534.3
+236.3
+23.8
+27.4
+20.2
+Colon and rectum
+184.9
+221.3
+164.0
+12.7
+10.9
+14.5
+Prostate
+143.8
+418.0
+c
+9.9
+19.9
+c
+Breast
+98.1
+2.7
+151.4
+6.7
+0.1
+13.2
+Pancreas
+80.6
+88.7
+75.8
+5.5
+4.4
+6.6
+Non-Hodgkin lymphoma
+65.6
+79.8
+57.7
+4.5
+4.0
+5.0
+Leukemias
+59.9
+84.1
+46.4
+4.1
+4.2
+4.1
+Urinary bladder
+44.7
+81.7
+25.0
+3.1
+3.9
+2.2
+Stomach
+39.2
+56.5
+29.4
+2.7
+2.8
+2.6
+Ovary
+33.7
+c
+53.1
+2.3
+c
+4.6
+Other
+359.4
+446.2
+309.2
+24.7
+22.4
+27.0
+a Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard population.
+b Source: Death data are from the National Vital Statistics System of the National Center for Health Statistics; the data cover the entire U.S. population.
+c Category not applicable or fewer than 25 cases.
+2784
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+a sharp increase in breast cancer incidence. Trends in
+the diagnosis of breast cancer continue to rise, partic-
+ularly early stage disease among women aged 50-64
+years (data not shown). Changes in medical manage-
+ment (surgery and pathology) of women with breast
+cancer may have affected the recent increase in the
+trend for node positive disease (data not shown). For
+men, the promotion of prostate speciﬁc antigen
+screening created a sharp increase in prostate cancer
+incidence between 1988 and 1992. For men and
+women, the modest increase in colorectal screening
+may have contributed to the observed increases in
+incidence during the 1990s in some age, sex, and race
+groups. Future advances in tests for the early detec-
+tion of cancers, such as patterns of proteins found in
+patients’ blood,27 may alter cancer incidence trends
+further. Increases in screening are typically reﬂected
+by period increases in cancer incidence, meaning that
+the increase occurs simultaneously across all age
+groups receiving the screening.
+FIGURE 4. Five-year observed and
+relative survival rates by selected site
+and age, Surveillance, Epidemiology,
+and End Results (SEER) Program, 1990-
+1998. Survival rates are expressed as
+percents for 1990-1998 data, followed
+through 1999, and are based on SEER
+registries covering 10% of the U.S. pop-
+ulation: metropolitan areas of San Fran-
+cisco-Oakland, Detroit, Atlanta, and Se-
+attle-Puget
+Sound;
+and
+states
+of
+Connecticut, Hawaii, Iowa, Utah, and
+New Mexico.
+Report to Nation on Cancer and Aging/Edwards et al.
+2785
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cancer occurs predominantly in older persons,
+with a median age at diagnosis of 68 years. The num-
+ber of cancer survivors is growing, as is the proportion
+of individuals aged 65 years and older. This represents
+an important group of persons with unique needs and
+risks for cancer.28 However, the proportion of patients
+in this age category is under-represented in clinical
+trials.29,30 Clinical trials are the most valued resource
+for identifying promising new interventions, and for
+evaluating the effectiveness of new interventions com-
+pared to standard ones. Since March 1998, more than
+177,000 patients have enrolled in NCI-sponsored
+Phase III trials, and one-quarter were aged 65 or older
+at the time of study entry. Categorized by the most
+common tumors (e.g., breast, prostate, colorectal, or
+lung), the percentages enrolled were 17%, 72%, 45%,
+and 43%, respectively. Among 52,000 patients enrolled
+in NCI-sponsored earlier phase (e.g., Phases I, I/II, and
+II) clinical trials since 1998, 28% were aged 65 years or
+older. Although efforts are underway to implement
+and evaluate several key pilot studies designed to im-
+prove access to the nationwide clinical trials system,
+speciﬁc strategies are needed to increase the propor-
+tion of older patients on appropriately designed clin-
+ical trials.
+Older age patients with cancer present many chal-
+lenges to practicing health care providers. There is a
+limited knowledge base of drug-drug interactions with
+new therapies in older age patients. Older patients are
+more likely to be on a variety of medicines that inter-
+act with their anti-tumor therapy and thus are at
+heightened risk for drug-drug interactions and over-
+lapping toxicities. In addition, underlying physiologic
+changes in organ function, in the absence of poly-
+pharmacy, may place older patients at increased risk
+for toxicities and result in decreased tolerance for
+standard regimens.31–33 Co-morbid conditions, such
+as vascular disease, may exist, and there may be un-
+known hazards in exposing a patient with pre-existing
+risks for a stroke or coronary artery disease to anti-
+angiogenesis agents.34–36
+Each of the annual reports has described impor-
+tant progress against cancer.1– 4 These advances re-
+sult from breakthroughs in treatment and early de-
+tection modalities and understanding the biology
+and behavioral advances to encourage adherence to
+recommended preventive practices and early detec-
+tion regimens to avoid or minimize cancer risks.
+Despite the progress, the future aging of the popu-
+lation will dramatically increase the number of can-
+cers and the age of most cancer patients. Barring
+major breakthroughs in cancer prevention, pro-
+jected U.S. population growth and aging are ex-
+pected to contribute to a progressive and substan-
+FIGURE 5. Projected number of cancer cases for 2000 through 2050 based on projected census population estimates and age-speciﬁc cancer incidence rates,
+Surveillance, Epidemiology and End Results (SEER) Program and the National Program of Cancer Registries (NPCR) areas reported by the North American Association
+of Central Cancer Registries (NAACCR), 1995-1999. Projections based on current (1995-1999) age-speciﬁc incidence rates applied to projected census populations
+for 2000 to 2050. Population data from census populations 2000 - 2050. Cancer data from SEER and NPCR areas reported by NAACCR as meeting high data quality
+standards. The areas cover approximately 55% of the U.S. population: California (Los Angeles and Greater Bay area), Colorado, Connecticut, Delaware, Georgia
+(Atlanta area), Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Michigan (Detroit area), Minnesota, Nebraska, New Jersey, New Mexico, New York, North Carolina,
+Pennsylvania, Rhode Island, Utah, Washington (Seattle area), West Virginia, Wisconsin, Wyoming.
+2786
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+tial increase in the cancer burden, doubling the total
+number of persons diagnosed with cancer within
+the next half century as well as the number of cancer
+patients aged 75 years and older. Thus, the number
+of persons who require cancer treatment and re-
+quire it at older ages also will increase, placing a
+growing demand for more supportive, palliative,
+and general medical services.37 The overall costs for
+cancer are estimated to be $156.7 billion in the year
+2001 (Dr. Martin Brown, NCI, personal communica-
+tions), and will continue to increase.38
+Even as all Americans are aging, the nation is
+growing more diverse. In the 2000 U.S. Census,7 the
+Hispanic population in the United States was as large
+as the black population, having nearly doubled during
+the 1990s. The Census category for Asian/Paciﬁc Is-
+landers (API) also reﬂects growing numbers and
+makes up a higher proportion of the U.S. population.
+Within the API category, the composition of recent
+immigrants (by country of origin) is different from
+second generation APIs. Since cancer incidence and
+death rates vary among the race/ethnic groups, these
+changes will have implications not only for the cancer
+burden as these populations grow and age, but also on
+a greater need for culturally appropriate prevention,
+early detection, and treatment programs.
+Higher incidence and/or death rates among se-
+lected racial and ethnic populations show that not all
+populations have beneﬁted equally from cancer pre-
+vention and treatment control efforts.1–4 Even though
+rates for these cancers may be relatively low among
+some populations, greater efforts are needed to over-
+come negative health disparities. This will require at-
+tention to education, costs, access, and cultural ap-
+propriateness.
+Limitations
+Findings in the current report may have method-
+ologic, substantive, and interpretive limitations. Some
+of the statistically signiﬁcant ﬁndings in analyses that
+TABLE 5
+Average Annual Cancer Incidence Ratesa by Age, Sex, and Race/Ethnicity,b SEER,c 1995–1999
+Male
+Female
+White
+rate
+Black
+rate
+AI/AN
+rate
+API
+rate
+Hispanic
+rate
+White
+rate
+Black
+rate
+AI/AN
+rate
+API
+rate
+Hispanic
+rate
+All sites
+All ages
+546.1
+674.5
+268.2
+401.6
+378.2
+All sites
+427.0
+405.3
+228.1
+310.6
+288.2
+ 20 years
+17.4
+13.0
+9.4
+15.5
+15.7
+16.2
+11.4
+7.7
+13.3
+14.7
+20–49 years
+111.5
+133.6
+56.1
+76.5
+75.8
+179.2
+162.6
+97.8
+154.1
+137.1
+ 50 years
+74.2
+85.8
+37.6
+52.3
+52.0
+114.6
+102.6
+62.1
+98.3
+88.6
+50–64 years
+902.7
+1372.3
+485.0
+560.6
+601.8
+830.5
+815.6
+486.8
+598.1
+549.1
+65–74 years
+2508.3
+3049.5
+1167.0
+1844.9
+1814.8
+1538.8
+1457.3
+776.0
+987.5
+969.9
+75 years
+3172.2
+3401.0
+1511.2
+2615.8
+2161.6
+1953.7
+1863.3
+976.2
+1401.0
+1286.9
+Colon/rectum
+All ages
+63.1
+69.3
+41.3
+58.9
+43.8
+Colon/rectum
+45.7
+55.6
+32.6
+39.2
+29.4
+ 50 years
+5.1
+7.1
+4.6
+6.3
+4.1
+4.5
+6.5
+4.8
+5.5
+3.7
+50–64 years
+92.6
+128.8
+86.2
+92.4
+73.2
+64.5
+93.7
+64.3
+62.7
+47.6
+65–74 years
+269.9
+279.1
+171.9
+251.1
+201.9
+182.7
+228.0
+140.4
+145.6
+114.2
+75 years
+458.6
+438.3
+225.9
+397.4
+274.4
+343.6
+360.4
+169.1
+268.1
+199.7
+Lung
+All ages
+79.8
+120.6
+50.0
+63.1
+42.0
+Lung
+51.4
+53.1
+22.9
+28.6
+22.2
+ 50 years
+4.3
+11.3
+4.3
+3.9
+2.0
+3.9
+6.2
+d
+2.8
+1.7
+50–64 years
+129.5
+251.0
+93.4
+91.7
+60.3
+98.4
+115.7
+52.9
+44.4
+36.1
+65–74 years
+411.3
+566.6
+247.9
+329.1
+215.4
+266.9
+259.4
+80.7
+125.9
+108.9
+75 years
+498.9
+618.7
+274.0
+411.3
+286.1
+268.9
+235.2
+139.6
+191.7
+137.5
+Prostate
+All ages
+158.7
+257.3
+56.4
+100.9
+120.5
+Breast
+139.0
+121.5
+59.7
+97.9
+83.5
+ 50 years
+3.3
+8.8
+d
+1.2
+1.7
+42.8
+42.2
+20.9
+39.1
+30.5
+50–64 years
+286.5
+546.7
+86.7
+108.6
+187.7
+326.1
+286.4
+165.7
+244.6
+196.1
+65–74 years
+916.7
+1395.3
+277.1
+584.7
+746.2
+458.6
+359.0
+159.2
+274.3
+253.4
+75 years
+875.0
+1272.0
+409.1
+748.1
+692.9
+477.9
+403.5
+153.4
+245.8
+253.6
+a Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard population.
+b Rates other than for whites and blacks should be interpreted with caution because of possible misreporting and misclassiﬁcation of race/ethnicity; see text for discussion. Hispanic is not mutually exclusive from
+whites, blacks, American Indians/Alaska Natives, and Asian/Paciﬁc Islanders.
+c Source: Incidence data for 1995–1999 are based on SEER registries covering 14% of the U.S. population: metropolitan areas of San Francisco-Oakland, Detroit, Atlanta, Seattle-Puget Sound, Los Angeles, San
+Jose-Monterey; and states of Connecticut, Hawaii, Iowa, Utah, and New Mexico; and Native Americans residing in Alaska. Hispanic rates exclude Detroit and Hawaii.
+d Category not applicable or fewer than 25 cases.
+SEER: Surveillance, Epidemiology and End Results Program; AI/AN: American Indian/Alaska Native; API: Asian Paciﬁc Islander.
+Report to Nation on Cancer and Aging/Edwards et al.
+2787
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+test multiple comparisons may be due to chance
+alone. The analyses in this report examined age-spe-
+ciﬁc trends among combinations of age groups ( 20
+years, 20-49 years,  50 years, 50-64 years, 65-74 years,
+and 75 years and older) plus all ages, with race (all,
+black, and white), gender (all, women, and men), and
+the four major types of cancer. With the large number
+of tests, the report could include results that are sta-
+tistically spurious.
+The impact of shifting from the 1970 standard
+population to the 2000 standard population has im-
+portant consequences on the levels and trends of can-
+cer rates. For all sites combined and for most common
+cancer sites, such as colorectal and prostate cancers,
+the 2000 standard increased cancer incidence and
+death rates by 20% to 50% compared to the 1970
+standard, due to an increased representation of the
+older age groups with higher cancer rates. In contrast,
+the change in population standard attenuates the con-
+tinued decline in age-adjusted cancer death rates be-
+cause of a reduced weighting of the younger age
+groups in which death rates have declined the most.
+The change to the year 2000 standard conforms to a
+new federal policy for reporting disease rates.
+In addition, use of ICD-10, the new classiﬁcation
+for coding cause of death beginning in 1999, may
+impact cancer death rates. Differences will occur for
+some speciﬁc sites. If trends in site-speciﬁc death
+rates change by an amount that is similar to compa-
+rability ratios,18 it is most likely due to the change in
+coding. Changes in death rates are still interpretable,
+despite the changes in the coding and classiﬁcation
+system between 1998 and 1999.
+Limitations in the trend statistics also must be
+considered. Results of the joinpoint analysis (JPA) are
+not comparable to last year’s annual report4 because a
+different population standard for age-adjustment was
+used this year, and this change as well as the addition
+of the 1999 data point may have altered the joinpoints
+and the direction or magnitude of the APC values. The
+JPA complicates comparisons across different groups
+that have different joinpoints and years of inﬂection.
+Further, the JPA often shows fewer signiﬁcant changes
+in trends for population groups based on small num-
+bers of cases or deaths (e.g., the black population or
+younger age groups) than for groups based on larger
+numbers (e.g., the white population or older age
+groups). However, the JPA is a ﬂexible and accurate
+approach in identifying the years in which signiﬁcant
+changes in trends occurred.
+Although the NAACCR combined rate covers
+nearly 55% of the U.S. population, it may not reﬂect
+the United States as a whole. Variability in cancer
+incidence rates may arise from differences in socio-
+demographic population characteristics (e.g., race and
+ethnicity, geography), health behavior (e.g., tobacco
+use, diet, physical activity), screening utilization, ex-
+posure to cancer causing agents, and/or completeness
+and timeliness of cancer reporting.
+Finally, assessment of long-term cancer trends is
+limited to only white and black populations. Annual
+population counts at the county level prior to 1990 for
+other populations are not available. Further, cancer
+incidence and death rates for some racial and ethnic
+populations may be limited by problems in ascertain-
+ing race and by misreporting race and ethnicity on the
+basic records (medical records, death certiﬁcates, and
+census reports) from which information is collected
+on cancer incidence, deaths, and the population at
+risk.39–42 Recent studies suggest that reporting race for
+the white and black population is generally reliable,
+but biases are more serious for some smaller popula-
+tions, particularly American Indians.40,42
+Strategies for the Future
+The population-based data in the current report un-
+derscore a critical need for an expanded and orga-
+nized focus on cancer control efforts to serve an aging
+population and reduce the burden of cancer in the
+elderly. The impact of future changes in our nation’s
+age structure must be addressed from a multitude of
+perspectives, including prevention and early detec-
+tion, social support, treatment and medical care, re-
+search, and surveillance. Issues of disparity, access,
+economics, and quality of life cross-cut all these per-
+spectives.
+Prevention and early detection
+Medical and scientiﬁc agreement is needed about rec-
+ommendations for screening and early detection of
+cancer in persons of all ages, speciﬁcally recommen-
+dations on the appropriate age to begin screening and
+whether recommendations need to be modiﬁed for
+older age groups. The majority of evidence about
+screening will come from individuals of all ages, and
+recommendations about whether to modify recom-
+mendations in older individuals will have to come
+from analyzing subsets of older individuals in these
+trials. In addition, other methods, including modeling,
+could be used. Such approaches should consider the
+substantial decreases that have occurred in the death
+rates from breast, prostate, and colorectal cancers.
+Screening for colorectal cancer, in particular, must be
+increased in all adults aged 50 years and older.43 Pop-
+ulation-based data show the need to expand and or-
+ganize cancer control efforts for an aging population
+and to integrate issues of aging in cancer intervention
+research. It is not enough to develop recommenda-
+2788
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+tions; they must be promoted to both patients and
+their health providers to make a population differ-
+ence.44 To date, there has been little focused attention
+on cancers in older people.28
+Social support
+The interaction of aging, cancer, and the detrimental
+pathology of aging, like the presence of concomitant
+diseases, functional limitations, and patient frailty,
+has had only sporadic research attention. Systematic
+study is needed to ascertain psychologic and social
+support resources used by older persons to cope with
+the effects of cancer and its treatment, issues of quality
+of life and survivorship, and the relevance of access to
+care for older patients, their families, and physicians.45,46
+Increasingly in the future, families and friends will as-
+sume more caregiving responsibilities for which they
+are untrained and unaccustomed.47–49 Also, as care
+givers are likely to be older persons, they often have
+their own health problems that limit the support they
+can provide to others. The situation can be further
+exacerbated by reduced income, economic stress, lim-
+ited or diminishing social support networks, loss of
+loved ones, and changing living arrangements.50 The
+relation of these social factors to treatment, survival,
+and quality of life of older cancer patients must be
+better understood.
+Treatment
+The special considerations needed in treating cancer
+in older persons because of their concomitant ill-
+nesses and physical limitations are understudied. Rel-
+evant short-term and long-term medical effects in-
+clude anti-tumor drug alterations due to age and
+aging, dosage, administration, and special monitoring
+needs, late life recurrence of cancer, and a possibility
+of second primary tumors. Advancing age is associ-
+ated with age-related conditions among which the
+most prominent life-threatening ones are heart dis-
+ease, chronic obstructive pulmonary disease, hyper-
+TABLE 6
+Average Annual Cancer Death Ratesa by Age, Sex, and Race/Ethnicity,b United States,c 1995–1999
+Male
+Female
+White
+rate
+Black
+rate
+AI/AN
+rate
+API
+rate
+Hispanic
+rate
+White
+rate
+Black
+rate
+AI/AN
+rate
+API
+rate
+Hispanic
+rate
+All sites
+All ages
+253.0
+359.2
+156.0
+157.1
+160.7
+All sites
+169.8
+203.5
+112.0
+103.6
+104.2
+ 20 years
+3.3
+3.2
+2.4
+3.0
+3.3
+2.5
+2.8
+1.9
+2.3
+2.8
+20–49 years
+31.6
+53.5
+21.2
+24.6
+22.3
+34.9
+52.9
+27.3
+25.3
+26.3
+ 50 years
+20.4
+33.6
+13.7
+16.0
+14.8
+22.1
+33.1
+17.2
+16.2
+17.0
+50–64 years
+326.6
+559.5
+234.3
+190.3
+199.7
+264.8
+342.6
+194.2
+153.3
+158.1
+65–74 years
+1046.5
+1440.1
+710.7
+625.8
+662.9
+678.8
+793.2
+473.2
+365.5
+394.9
+75 years
+1991.0
+2582.6
+1060.5
+1254.0
+1264.4
+1148.6
+1257.0
+649.3
+740.6
+697.9
+Colon/rectum
+All ages
+25.8
+34.4
+15.8
+15.9
+16.6
+Colon/rectum
+18.0
+25.4
+11.7
+11.3
+10.3
+ 50 years
+1.6
+3.0
+1.3
+1.4
+1.2
+1.3
+2.4
+1.3
+1.3
+1.0
+50–64 years
+31.0
+50.6
+24.2
+18.9
+21.9
+20.4
+33.4
+18.1
+13.2
+13.2
+65–74 years
+101.1
+134.6
+65.6
+62.1
+68.8
+62.9
+95.0
+42.1
+40.7
+36.9
+75 years
+220.8
+261.1
+114.0
+132.1
+130.5
+162.1
+204.2
+87.8
+94.7
+85.9
+Lung
+All ages
+79.7
+109.1
+50.4
+41.1
+37.3
+Lung
+41.7
+40.2
+25.3
+19.7
+13.8
+ 50 years
+4.0
+8.5
+2.3
+2.1
+1.6
+2.9
+4.2
+1.6
+1.6
+0.8
+50–64 years
+121.7
+208.0
+86.8
+47.8
+46.5
+74.3
+77.6
+46.3
+25.2
+18.4
+65–74 years
+400.3
+513.6
+272.0
+203.5
+178.3
+210.6
+198.9
+134.6
+82.6
+62.1
+75
+533.2
+626.7
+294.2
+314.3
+288.4
+240.9
+206.3
+138.4
+154.7
+104.8
+Prostate
+All ages
+31.2
+72.8
+17.5
+14.3
+21.6
+Breast
+28.2
+37.1
+15.0
+13.0
+17.2
+ 50 years
+0.1
+0.3
+d
+d
+0.1
+6.1
+11.2
+3.9
+4.0
+4.8
+50–64 years
+11.1
+36.4
+10.2
+3.6
+8.8
+55.0
+77.6
+32.8
+31.7
+36.9
+65–74 years
+88.8
+245.6
+56.2
+34.2
+71.7
+96.2
+112.1
+54.3
+36.7
+53.4
+75 years
+391.0
+842.5
+201.9
+190.7
+256.2
+152.3
+165.4
+61.8
+48.1
+77.9
+a Rates are per 100,000 and are age-adjusted to the 2000 U.S. standard population.
+b Rates other than for whites and blacks should be interpreted with caution because of possible misreporting and misclassiﬁcation of race/ethnicity; see text for discussion. Hispanic is not mutually exclusive from
+whites, blacks, American Indians/Alaska Natives, and Asian/Paciﬁc Islanders.
+c Source: Death data are from the National Vital Statistics System of the National Center for Health Statistics; the data cover the entire U.S. population. Hispanic rates excluded Oklahoma, New York, Connecticut,
+and New Hampshire.
+d Category not applicable or fewer than 25 cases.
+AI/AN: American Indian/Alaska Native; API: Asian Paciﬁc Islander.
+Report to Nation on Cancer and Aging/Edwards et al.
+2789
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+tension, and diabetes. The comorbidity burden of
+newly diagnosed cancer patients and coordination of
+treatment for these pre-existing problems with cancer
+treatment also have had limited attention in clinical
+research.35,36,51–53 The responses of older patients to
+cancer treatment in the presence of the normal pro-
+cesses of aging (e.g., changes in body structure, com-
+position, and function) and the pathologic processes
+of aging (e.g., comorbid conditions) are not well
+known.54–57 Age alone is not a reason to modify the
+standard of care for persons diagnosed with cancer;
+cancer survival is less a function of age than of general
+health status or the presence of other diseases.54,58
+Strategies may include considering placing equal
+emphasis on treatment of symptoms (e.g., secondary
+to either the treatment or the underlying tumor) and a
+greater focus on integrating palliative care issues. Im-
+plementation requires integrating new curricula, edu-
+cation and training in geriatrics, and geriatric oncol-
+ogy, perhaps through partnering with professional
+societies28 such as the American Society of Clinical
+Oncology, the American Academy of Family Physi-
+cians, the American Association for Cancer Education,
+and the ACS.
+General medical care
+With more people vulnerable to cancer, more cancer
+patients surviving to older ages, and more older sur-
+vivors who are frail or have additional medical prob-
+lems, the need and demand for health care provid-
+ers,59 particularly nurses in general and for oncology
+nurses in particular, will grow. All health provider
+specialties, particularly in nursing, are already facing
+shortages, the workforce itself is aging, and the short-
+ages are expected to worsen.60,61 Other health services,
+such as nursing home care, assisted living, and home
+health services, are expected to increase to meet not
+only health care needs, but also the needs of daily
+living as a cancer survivor. Palliation and end-of-life
+health and support services will be in greater demand.
+Attraction and retention of a workforce in the support-
+ive health professions must be incorporated in plan-
+ning to meet all the health, medical, social, and phys-
+ical needs of a large number of older cancer survivors.
+We must also develop the economic infrastructure
+that will support such a workforce.
+Research and public partnerships
+Collaborative approaches to integrate extramural re-
+search scientiﬁc areas in cancer and aging are improv-
+ing,62 particularly within the National Institutes of
+Health and with other federal and private agencies.
+Partnerships are developing in basic, clinical, and
+population sciences to meet the critical need for in-
+formation on aging and cancer. Speciﬁcally, the NCI
+and the National Institute on Aging (NIA) are collab-
+orating in the research arena of clinical medicine,
+surveillance, and survivorship to address the public
+health burden of cancer in older persons.63 Each or-
+ganization conducts research in survivorship and col-
+laborates with private partners such as the ACS to
+provide information to cancer patients and their fam-
+ilies, improve access to cancer screening and age-
+appropriate therapy for cancer patients, and facilitate
+linking cancer patients of all ages with clinical trials.
+The NCI is working with its clinical trials cooperative
+groups and community oncology program research
+base to consider designing and conducting trials that
+can evaluate cancer therapy in frail older patients, as
+well as patients with comorbid but not necessarily frail
+conditions. One of the obstacles to clinical trial access
+for the older patient may be the organ function eligi-
+bility requirements.64 In addition, the ACS provides
+numerous services to cancer patients and their fami-
+lies.
+Surveillance
+The primary resources in the United States for infor-
+mation about cancer rates and trends as applied to
+information for patients are the National Vital Statis-
+tics System, the central cancer registries, surveys of
+health practices and risk, and linked data systems.
+While the vital records system has had complete cov-
+erage for national and state mortality since 1933,65 the
+cancer incidence network has been expanded and im-
+proved only in recent years11 and is still striving to
+meet national coverage. Both systems enable timely,
+efﬁcient, and continuous surveillance of cancer occur-
+rence. Further, with cancer registries, descriptions of
+not only disease burden but also progress are possible;
+the program impact of tobacco prevention and cessa-
+tion and breast cancer screening can be shown; pa-
+tients can be told the probability of surviving speciﬁc
+cancers; and families can be reassured that age does
+not adversely affect survival from cancer. The infor-
+mation also helps providers meet the health care vol-
+ume and needs of cancer patients. Policy makers can
+make appropriate decisions about allocation of scarce
+resources to most effectively reduce the cancer bur-
+den.
+The partnership of the institutions and agencies
+represented in this annual report assures that infor-
+mation about cancer is continually collected in a stan-
+dard and meaningful way and that data are used and
+interpreted for their signiﬁcance to cancer prevention,
+early detection, treatment, and survival. This collabo-
+ration brings a focus to timely issues, forging a com-
+prehensive perspective for setting future directions.
+2790
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+REFERENCES
+1.
+Wingo PA, Ries LA, Rosenberg HM, Miller DS, Edwards BK.
+Cancer incidence and mortality, 1973-1995: a report card for
+the U.S. Cancer. 1998;82:1197-1207.
+2.
+Wingo PA, Ries LA, Giovino GA, et al. Annual report to the
+nation on the status of cancer, 1973-1996, with a special
+section on lung cancer and tobacco smoking. J Natl Cancer
+Inst. 1999;91:675-690.
+3.
+Ries LA, Wingo PA, Miller DS, et al. The annual report to the
+nation on the status of cancer, 1973-1997, with a special
+section on colorectal cancer. Cancer. 2000;88:2398-2424.
+4.
+Howe HL, Wingo PA, Thun MJ, et al. Annual report to the
+nation on the status of cancer (1973 through 1998), featuring
+cancers with recent increasing trends. J Natl Cancer Inst.
+2001;93:824-842.
+5.
+U.S. Census Bureau. Current population reports, special
+studies, P23-190, 65 in the United States. Washington, DC:
+U.S. Government Printing Ofﬁce, 1996.
+6.
+U.S. Census Bureau. U.S. Census Bureau: national popula-
+tion projections. I. Summary ﬁles. Available from URL:
+http://www.census.gov/population/www/projections/
+natsum-T3.html.
+7.
+U.S. Census Bureau. U.S. Census Bureau: Census 2000 sum-
+mary ﬁle (SF 1) 100 percent data. Available from http://
+factﬁnder.census.gov/servlet/QTTable?ds_ nameDEC_
+2000_SF1_U&geo_id01000US&qr_nameDEC_ 2000_SF1_
+U_QTP1.
+8.
+U.S. Census Bureau. Current population reports, P25-1092,
+population projections of the United States by age, sex, race,
+and Hispanic origin: 1992 to 2050. Washington, DC: U.S.
+Government Printing Ofﬁce, 1996.
+9.
+U.S. Census Bureau. Current population reports, P25-1092,
+population projections of the United States by age, sex, race,
+and Hispanic origin: 1992 to 2050. Washington, DC: U.S.
+Government Printing Ofﬁce, 1992.
+10. Ries LAG, Eisner MP, Kosary CL, et al., editors. SEER cancer
+statistics review, 1973-1999. Bethesda, MD: National Cancer
+Institute, 2002.
+11. Hutton MD, Simpson LD, Miller DS, Weir HK, McDavid K,
+Hall HI. Progress toward nationwide cancer surveillance: an
+evaluation of the National Program of Cancer Registries,
+1994-1999. J Reg Man. 2001;28:113-120.
+12. Wu SC, Hotes J, Fulton JP, Chen VW, Howe HL, Correa C,
+editors. Cancer in North America, 1995-1999. Volume III:
+NAACCR Combined Cancer Incidence Rates. Springﬁeld, IL:
+North American Association of Central Cancer Registries,
+2002.
+13. National Center for Health Statistics. Vital statistics of the
+United States, 1950-1999, Volume II. Mortality, parts A and
+B. Washington, DC: Public Health Service, 2001.
+14. U.S. Department of Health, Education and Welfare and Na-
+tional Center for Health Statistics. Manual of the interna-
+tional statistical classiﬁcation of diseases, injuries, and
+causes of death, adapted for use in the United States. 8th
+revision. Washington, DC: Public Health Service, 1967.
+15. World Health Organization. Manual of the international sta-
+tistical classiﬁcation of diseases, injuries, and causes of
+death, based on the recommendations of the ninth revision
+conference, 1975. Geneva, Switzerland: World Health Orga-
+nization, 1977.
+16. World Health Organization. International statistical clas-
+siﬁcation of diseases and related health problems. 10th
+revision. Geneva, Switzerland: World Health Organiza-
+tion, 1992.
+17. Percy C, Van Holten V, Muir C, editors. International clas-
+siﬁcation of diseases for oncology. 2nd ed. Geneva, Switzer-
+land: World Health Organization, 1990.
+18. Anderson RN, Minino AM, Hoyert DL, Rosenberg HM.
+Comparability of cause of death between ICD-9 and ICD-
+10: preliminary estimates. Natl Vital Stat Rep. 2001;49:1-
+32.
+19. Anderson RN, Rosenberg HM. Age standardization of death
+rates: implementation of the year 2000 standard. Natl Vital
+Stat Rep. 1998;47:1-16.
+20. Grove RD, Hetzel AM. Vital statistics rates in the United
+States, 1940-1960. Washington, DC: National Center for
+Health Statistics, 1968.
+21. Ries LAG, Eisner MP, Kosary CL, et al., editors. SEER cancer
+statistics review, 1973-1998. Bethesda, MD: National Cancer
+Institute, 2001.
+22. Ries LAG, Eisner MP, Kosary CL, et al., editors. SEER cancer
+statistics review, 1973-1997. Bethesda, MD: National Cancer
+Institute, 2000.
+23. Rowland JH, Aziz N, Tesauro G, Feuer EJ. The changing face
+of cancer survivorship. Semin Oncol Nurs. 2001;17:236-240.
+24. Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests
+for joinpoint regression with applications to cancer rates.
+Stat Med. 2000;19:335-351.
+25. Byers T, Mouchawar J, Marks J, et al. The American Cancer
+Society challenge goals. How far can cancer rates decline in
+the U.S. by the year 2015? Cancer. 1999;86:715-727.
+26. Oliver SE, May MT, Gunnell D. International trends in pros-
+tate-cancer mortality in the “PSA era.” Int J Cancer. 2001;92:
+893-898.
+27. Petricoin EF III, Ardekani AM, Hitt BA, et al. Use of pro-
+teomic patterns in serum to identify ovarian cancer. Lancet.
+2002;359:572.
+28. Kennedy BJ. Aging and cancer. Oncology (Huntingt). 2000;
+14:1731-1733.
+29. Trimble EL, Carter CL, Cain D, Freidlin B, Ungerleider RS,
+Friedman MA. Representation of older patients in cancer
+treatment trials. Cancer. 1994;74:2208-2214.
+30. Hutchins LF, Unger JM, Crowley JJ, Coltman CA, Albain KS.
+Underrepresentation of patients 65 years of age or older in
+cancer treatment trials. N Engl J Med. 1999;341:2061-2067.
+31. Lichtman SM, Skirvin JA. Pharmacology of antineoplastic
+agents in older cancer patients. Oncology (Huntingt). 2000;
+14:1743-1755.
+32. Lichtman SM, Villani G. Chemotherapy in the elderly: phar-
+macologic considerations. Cancer Control. 2000;7:548-556.
+33. Baraldi-Junkins CA, Beck AC, Rothstein G. Hematopoiesis
+and cytokines. Relevance to cancer and aging. Hematol On-
+col Clin North Am. 2000;14:45-61.
+34. Kimmick GG, Balducci L. Breast cancer and aging. Clinical
+interactions. Hematol Oncol Clin North Am. 2000;14:213-
+234.
+35. Balducci L, Extermann M. Management of cancer in the
+older person: a practical approach. Oncologist. 2000;5:224-
+237.
+36. Balducci L, Yates J. General guidelines for the management
+of older patients with cancer. Oncology (Huntingt). 2000;14:
+221-227.
+37. Lubitz J, Beebe J, Baker C. Longevity and Medicare expen-
+ditures. N Engl J Med. 1995;332:999-1003.
+38. Schneider EL, Guralnik JM. The aging of America. Impact on
+health care costs. JAMA. 1990;263:2335-2340.
+Report to Nation on Cancer and Aging/Edwards et al.
+2791
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+39. National Center for Health Statistics. Vital statistics of the
+United States, 1994. Vol. II, Part A: Mortality, “Technical
+Appendix”. Hyattsville, MD: National Center for Health Sta-
+tistics, 1994.
+40. Rosenberg HM, Maurer JD, Sorlie PD, et al. Quality of death
+rates by race and Hispanic origin: a summary of current
+research, 1999. Hyattsville, MD: National Center for Health
+Statistics, 1999.
+41. Poe GS, Powell-Griner E, McLaughlin JK, Placek PJ, Thomp-
+son GB, Robinson K. Comparability of the death certiﬁcate
+and the 1986 National Mortality Followback Survey. Hyatts-
+ville, MD: National Center for Health Statistics, 1993.
+42. Hogan H. The 1990 post-enumeration survey: operations
+and results. J Am Stat Assoc. 1993;88:1047-1060.
+43. Breen N, Wagener DK, Brown ML, Davis WW, Ballard-Bar-
+bash R. Progress in cancer screening over a decade: results
+of cancer screening from the 1987, 1992, and 1998 National
+Health Interview Surveys. J Natl Cancer Inst. 2001;93:1704-
+1713.
+44. Frame PS. Screening for cancer: progress, but more can be
+done. J Natl Cancer Inst. 2001;93:1676-1677.
+45. Cornman JM, Kingson ER. Trends, issues, perspectives, and
+values for the aging of the baby boom cohorts. Gerontolo-
+gist. 1996;36:15-26.
+46. Gutheil IA. Introduction: The many faces of aging: chal-
+lenges for the future. Gerontologist. 1996;36:13-14.
+47. Mollica RL. Managed care and assisted living: trends and
+future prospects. J Health Hum Serv Adm. 1998;20:264-280.
+48. West JP, West CM. Analysis of comfort care for the termi-
+nally ill: the hospice approach. J Health Hum Serv Adm.
+1998;20:281-299.
+49. Serow WJ, Cowart ME, Camezon J. Epidemiologic transition
+theory and aging: Hispanic populations of North America
+and the Caribbean. J Health Hum Serv Adm. 1998;20:333-
+347.
+50. National Cancer Institute. Reuben SH, editor. Voices of a
+broken system: real people, real problems. President’s Can-
+cer Panel, Report of the Chairman 2000-2001. Bethesda,
+MD: National Institutes of Health, 2001.
+51. Yancik R, Ganz PA, Varricchio CG, Conley B. Perspectives on
+comorbidity and cancer in older patients: approaches to
+expand the knowledge base. J Clin Oncol. 2001;19:1147-
+1151.
+52. Kramarow E, Lentzner H, Rooks R, Weeks J, Saydah D.
+Health and aging chartbook. Health, United States, 1999.
+Hyattsville, MD: National Center for Health Statistics, 1999.
+53. Federal Interagency Forum on Aging-Related Statistics.
+Older Americans 2000. Key indicators of well-being. Wash-
+ington, DC: U.S. Government Printing Ofﬁce, 2000.
+54. Ershler WB, Longo DL. Aging and cancer: issues of basic and
+clinical science. J Natl Cancer Inst. 1997;89:1489-1497.
+55. Anisimov VN. Life span extension and cancer risk: myths
+and reality. Exp Gerontol. 2001;36:1101-1136.
+56. Campisi J. Cancer, aging and cellular senescence. In Vivo.
+2000;14:183-188.
+57. Fernandez-Pol JA, Douglas MG. Molecular interactions of
+cancer and age. Hematol Oncol Clin North Am. 2000;14:25-
+44.
+58. Muss HB. Older age – not a barrier to cancer treatment.
+N Engl J Med. 2001;345:1128-1129.
+59. Cookson JP, Reilly PK. Modeling and forecasting health care
+consumption. AAPPO J. 1994;4:9.
+60. Lamkin L, Rosiak J, Buerhaus P, Mallory G, Williams M.
+Oncology Nursing Society workforce survey part I: percep-
+tions of the nursing workforce environment and adequacy
+of nurse stafﬁng in outpatient and inpatient oncology set-
+tings. Oncol Nurs Forum. 2001;28:1545-1552.
+61. Buerhaus P, Donelan K, DesRoches C, Lamkin L, Mallory G.
+State of the oncology nursing workforce: problems and impli-
+cations for strengthening the future. Nurs Econ. 2001;19:1.
+62. DePinho RA. The age of cancer. Nature. 2000;408:248-254.
+63. National Institute on Aging and National Cancer Institute.
+NIA/NCI workshop report. Exploring the role of cancer cen-
+ters for integrating aging and cancer research. 2001.
+64. Lewis JH, Kilgore ML, Goldman DP, et al. The participation
+of patients 65 years of age or older in cancer clinical trials.
+Submitted 2002.
+65. Hetzel AM. History and organization of the vital statistics
+system. Hyattsville, MD: National Center for Health Statis-
+tics, 1997.
+2792
+CANCER
+May 15, 2002 / Volume 94 / Number 10
+ 10970142, 2002, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.10593 by Pusan National University, Wiley Online Library on [09/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

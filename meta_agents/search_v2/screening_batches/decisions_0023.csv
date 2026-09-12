@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+1340,exclude,Not a US population-based/registry study,acromegaly cohort Turkey SIR
+1341,exclude,Not relevant to the research question/topic,ALA oral mucositis trial
+1342,exclude,Not a US population-based/registry study,GBD oral contraception burden
+1343,exclude,Not relevant to the research question/topic,lung cancer after BC Kaiser
+1344,exclude,Not a US population-based/registry study,smoking breast density Korean
+1345,exclude,Not a US population-based/registry study,global patterns 185 countries
+1346,exclude,Not a US population-based/registry study,screening/incidence rural Kenya
+1347,exclude,Not relevant to the research question/topic,auricular stimulation antiemetic trial
+1348,exclude,Not relevant to the research question/topic,auricular stimulation antiemetic trial
+1349,exclude,Not a US population-based/registry study,global geospatial BC/AF GBD
+1350,exclude,Not relevant to the research question/topic,SDOH CVD survivors systematic review
+1351,exclude,Not relevant to the research question/topic,rural-urban competing death cancer
+1352,exclude,Not a US population-based/registry study,survival by stage transition countries
+1353,exclude,Not relevant to the research question/topic,male BC global call review
+1354,exclude,Not relevant to the research question/topic,ribociclib/palbociclib retrospective
+1355,exclude,Not relevant to the research question/topic,GLP-1 BC incidence reduction EHR
+1356,exclude,Not a US population-based/registry study,First Nations Ontario Canada
+1357,exclude,Not a US population-based/registry study,European screening position paper
+1358,exclude,Not relevant to the research question/topic,tDCS perioperative depression trial
+1359,exclude,Not relevant to the research question/topic,Naderin neutropenia trial
+1360,exclude,Not a US population-based/registry study,MIR Iran provinces
+1361,exclude,Not a US population-based/registry study,estrogen metabolites China/Mongolia/UK
+1362,exclude,Not relevant to the research question/topic,trolamine skin toxicity meta-analysis
+1363,exclude,Not a US population-based/registry study,doxorubicin cardiotoxicity Zimbabwe
+1364,exclude,Not a US population-based/registry study,MetS BC Japan
+1365,exclude,Not relevant to the research question/topic,early-onset cancer challenges review
+1366,exclude,"Editorials, commentaries, letters, or conference abstracts",MetS BC age-paradox letter
+1367,exclude,Not a US population-based/registry study,educational inequalities Belgium
+1368,exclude,Not a US population-based/registry study,global under-35 GBD
+1369,exclude,Not relevant to the research question/topic,BRCA IBTR recurrence BCS
+1370,exclude,Not a US population-based/registry study,GBD dietary/metabolic burden
+1371,exclude,Not a US population-based/registry study,Lancet Oncology Commission workforce
+1372,exclude,Not relevant to the research question/topic,ADC adverse events EPIC Cosmos
+1373,exclude,Not relevant to the research question/topic,CTRCD Kaiser cohort
+1374,exclude,Not relevant to the research question/topic,PMLS GLP-1 lymphedema
+1375,exclude,Not relevant to the research question/topic,metastatic BC thoracic mortality WONDER
+1376,exclude,Not relevant to the research question/topic,hypertension BC mortality WONDER
+1377,exclude,Not relevant to the research question/topic,BC hypertensive mortality WONDER
+1378,exclude,Not relevant to the research question/topic,cardiomyopathy mortality WONDER
+1379,exclude,Not a US population-based/registry study,CDK4/6 high/low altitude
+1380,exclude,Not relevant to the research question/topic,BC incidence/mortality LGBTQ+ review
+1381,exclude,Not relevant to the research question/topic,bone health tamoxifen/AI
+1382,exclude,Not a US population-based/registry study,denosumab Korean target trial
+1383,exclude,Not a US population-based/registry study,time-to-surgery Korean cohort
+1384,exclude,Not relevant to the research question/topic,telpegfilgrastim neutropenia
+1385,exclude,Not relevant to the research question/topic,GLP-1 RA lymphedema prevention
+1386,exclude,Not relevant to the research question/topic,SGLT2 anthracycline outcomes
+1387,exclude,Not relevant to the research question/topic,Count Me In metastatic genetics
+1388,exclude,Not relevant to the research question/topic,diabetes cancer incidence HCHS/SOL
+1389,exclude,Not relevant to the research question/topic,HBOC gene-specific risks overview
+1390,exclude,Not relevant to the research question/topic,neighborhood geographic disparities Alabama
+1391,exclude,Not relevant to the research question/topic,EGS conditions SEER-Medicare
+1392,exclude,Not relevant to the research question/topic,hematolymphoid breast neoplasms single-institution
+1393,exclude,Not relevant to the research question/topic,cancer center catchment Iowa mixed-methods
+1394,exclude,Not relevant to the research question/topic,cancer during pregnancy review
+1395,exclude,Not relevant to the research question/topic,equity representation oncology trials
+1396,exclude,Not relevant to the research question/topic,cardiac RT meta-analysis
+1397,exclude,Not relevant to the research question/topic,racial CVD disparities BC survivors
+1398,include,,Early-onset cancer incidence disparities Black vs White US 2003-2022
+1399,exclude,Not relevant to the research question/topic,early detection ACS methylated DNA

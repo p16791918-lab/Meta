@@ -1,0 +1,981 @@
+record_id=2548 pmid=29975407 doi=10.1002/cncr.31592
+SOURCE: manual-pdf
+TITLE: Cancer patterns in Hmong in Minnesota, 2000 to 2012
+
+Cancer Patterns in Hmong in Minnesota, 2000 to 2012
+Mosunmoluwa Oyenuga, MD
+1; John K. Yang, MPH1; Anna E. Prizment, PhD, MPH1,2; Sally Bushhouse, DVM, MPH, PhD3;
+Ellen W. Demerath, PhD1; and Logan G. Spector, PhD2,4
+BACKGROUND: Minnesota has the second largest Hmong population in the United States. The objective of the current study was to
+estimate the cancer incidence among Hmong individuals in Minnesota between 2000 and 2012 to determine targets for screening
+and interventions. METHODS: Cancer cases in Minnesota between 2000 and 2012 were obtained from the Minnesota Cancer Surveil-
+lance System, and proportional incidence ratios (PIRs) were calculated. The 2000 and 2010 US Census reports were used to obtain
+total population estimates. Age-adjusted cancer incidence rates (AAR) and 95% confidence intervals (95% CIs) were calculated for
+Hmong individuals, Asian/Pacific Islander individuals, and all Minnesotans using direct method and Poisson regression. RESULTS:
+Compared with all Minnesotans, the Hmong had elevated PIRs and AARs for malignancies related to infections, including nasopharyn-
+geal, stomach, liver, and cervical cancers. The AAR ratios in Hmong versus all Minnesotans were found to be significantly increased
+for nasopharyngeal (AAR, 15.90; 95% CI, 9.48-26.68), stomach (AAR, 2.99; 95% CI, 2.06-4.33), liver (AAR, 1.77; 95% CI, 1.04-3.02), and
+cervical (AAR, 3.88; 95% CI, 2.61-5.77) cancers. The AARs in Hmong versus all Minnesotans were significantly lower for all-cause can-
+cer (AAR, 0.39; 95% CI, 0.35-0.44); cancers of the breast, lung, and colorectum; melanoma; and non-Hodgkin lymphoma. Compared
+with Asian/Pacific Islander individuals, the rates in Hmong were significantly higher for melanoma and cervical cancer, with AAR
+ratios of 2.23 (95% CI, 1.09-4.56) and 1.59 (95% CI, 1.01-2.49), respectively. CONCLUSIONS: Compared with all Minnesotans, the
+Hmong have an increased incidence of cancers related to infectious agents. These findings indicate a need for cancer prevention and
+screening programs in this population.
+V
+C 2018 American Cancer Society.
+KEYWORDS: age-adjusted cancer incidence rates (AARs), Asian/Pacific Islander (API), cancer, Hmong, Minnesota.
+INTRODUCTION
+The Hmong began immigrating to the United States from Laos and Thailand in the 1970s as refugees of the Vietnam
+War, and many settled in Minnesota. Between 2004 and 2010, Minnesota received 5297 Hmong immigrants.1 According
+to the 2010 US Census, Minnesota currently is the state with the second largest Hmong population (66,181) after Califor-
+nia (91,224).2 In 2010, the Hmong constituted 1.2% of all Minnesotans and 27% of all Asian/Pacific Islander (API) resi-
+dents in the state,2 and the number of Hmong in Minnesota is rapidly increasing. The Hmong population in Minnesota
+increased by 52.6%, the API population by 5.8%, and the overall Minnesota population by 7.8% between 2000 and
+2010.3,4 The higher increase in the Hmong population may be due to the continuing immigration and large average fam-
+ily size. In 2010, the average Minnesota Hmong family size was approximately 5.59 with a median age of 20.3 years,
+whereas the average family size in all of Minnesota was only 3.05, with a median age of 37.4 years.4 However, the marked
+percentage increase in the Hmong can be partially attributed to the small size of the Hmong population, so that a smaller
+denominator resulted in a large percentage increase. The establishment of the Hmong population in the United States
+draws attention to their health needs. Conditions that continue to challenge this group include tuberculosis, hepatitis B
+virus (HBV), diabetes, cardiovascular disease, and cancer.5
+In a single study conducted in Minnesota between 1988 and 1999, the Hmong had elevated proportional incidence
+ratios (PIRs; the incidence of a specific cancer compared with the incidence of total cancer) for stomach, liver, cervical,
+and nasopharyngeal cancers compared with the general population of Minnesota.6 The incidence of nasopharyngeal
+cancer was especially high, with a PIR of 39.39 (95% confidence interval [95% CI], 21.01-66.86), whereas the PIRs for
+several other cancers were lower in the Hmong, with the lowest PIR observed for prostate cancer (PIR, 0.16; 95% CI,
+0.03-0.44). In parallel to the Minnesota study, a study performed in California in 2005 found that the Hmong had a
+lower age-adjusted cancer incidence rate (AAR) of all-cause cancer, but higher AARs for liver, stomach, cervical, and
+Corresponding author: Anna E. Prizment, PhD, Division of Epidemiology and Community Health, University of Minnesota School of Public Health, 1300 S 2nd
+St, Suite 300, Minneapolis, MN 55454; prizm001@umn.edu
+1Division of Epidemiology and Community Health, University of Minnesota School of Public Health, Minneapolis, Minnesota; 2Masonic Cancer Center, University
+of Minnesota, Minneapolis, Minnesota; 3Minnesota Cancer Reporting System, Minnesota Department of Health, St. Paul, Minnesota; 4Division of Pediatric Epidemi-
+ology and Clinical Research, Department of Pediatrics, University of Minnesota, Minneapolis, Minnesota
+The first 2 authors contributed equally to this article.
+Original Article
+DOI: 10.1002/cncr.31592, Received: January 23, 2018; Revised: May 11, 2018; Accepted: May 16, 2018, Published online July 5, 2018 in Wiley Online Library 
+(wileyonlinelibrary.com)
+Cancer 2018;124:3560-66.
+23558
+Cancer  September 1, 2018
+3560
+
+nasopharyngeal cancers, as well as leukemia and non-
+Hodgkin lymphoma compared with non-Hispanic white
+individuals.7 Thus, higher rates of cancers related to infec-
+tious agents are noted in the Hmong population. The
+incidence of these cancers historically has been lower in
+the United States compared with East Asia, and vaccina-
+tion programs in the United States have reduced further
+the spread of human papillomavirus (HPV) as a cause of
+cervical cancer and HBV as a cause of hepatocellular can-
+cer. Therefore, targeting public health interventions
+toward the Hmong may help to reduce the risk of these
+cancers in this population.
+Our long-term goal is to decrease the risk of cancer
+development in the Hmong living in Minnesota. To
+develop effective public health interventions, it is neces-
+sary as a first step to determine cancer patterns and their
+changes over time in this population. Hence, the primary
+objective of the current study was to estimate Hmong
+PIRs between 2000 and 2012 and compare them with the
+PIRs reported for 1988 through 1999 in a previous study
+by Ross et al.6 The second objective was to estimate for
+what to the best of our knowledge is the first time AARs
+for all-cause and specific cancers and compare them with
+the rates in all Minnesotans and Minnesotans of Asian/
+Pacific Islander (API) ancestry.
+MATERIALS AND METHODS
+The Minnesota Cancer Surveillance System (MCSS) data-
+base was used to identify cancers in the entire Minnesota
+population and in Hmong in Minnesota between 2000
+and 2012. The MCSS is a population-based cancer registry
+for the state, and has been in operation since 1988. Cancers
+diagnosed in Minnesota residents are identified in 2 ways:
+1) submission of pathology reports carrying a diagnosis of
+cancer by pathology laboratories; and 2) submission of
+standardized case abstracts by hospital-based cancer regis-
+tries for each patient with cancer diagnosed or treated at the
+facility. An external audit of the MCSS performed in
+March 2008 by the National Program of Cancer Registries
+estimated that case completeness was approximately 99.7%
+and data accuracy was approximately 96.5%.8 The MCSS
+is funded by a state appropriation and a cooperative agree-
+ment with the Centers for Disease Control and Prevention
+through the National Program of Cancer Registries.
+Hmong and API cancer cases diagnosed between
+2000 and 2012 were identified through the MCSS race
+reporting. Information regarding race in the MCSS was
+obtained from health care facilities that recorded patients’
+race and was supplemented using manual examination by
+MCSS staff of the records in those facilities and birth and
+death records when a case was reported without informa-
+tion regarding race/ethnicity. The denominators for anal-
+ysis came from the US Census Bureau, which obtained
+self-reported race information in response to the 2000 or
+2010 census questionnaire.2,3 Census information was
+obtained through a search for “Hmong” and “Minnesota”
+using the American FactFinder.3
+Data Analysis
+We calculated age-adjusted and sex-adjusted PIRs as
+described by Ross et al.6 Observed-to-expected ratios were
+calculated. The observed number is the actual number of
+Hmong cancer cases for a particular cancer site. In gener-
+ating the expected number, cancer cases were stratified
+into 20-year age groups (ages birth to 19 years, 20-39
+years, 40-59 years, 60-79 years, and 80 years) and by
+sex. The expected number in each stratum was the num-
+ber of site-specific cancers in all Minnesotans divided by
+the number of total cancers in all Minnesotans, multiplied
+by the number of total cancers in the Hmong. The total
+number was found by summing the expected values from
+each stratum. The 95% CIs were calculated using the
+methods described by Ury and Wiggins.9
+We also calculated average annual AARs for all-cause
+cancer and site-specific cancers for Hmong individuals in
+Minnesota, API individuals in Minnesota, and all Minne-
+sotans using the direct method,10 and these were verified
+using Poisson regression. The numerator included all inci-
+dent cancer cases for the corresponding group diagnosed
+between 2000 and 2012. The denominator was calculated
+as the average of US Census population counts in 2000 and
+2012 multiplied by 13. The 2000 US population was used
+as the standard weight. Adjustment was performed through
+5-year age groups starting from birth to 4 years and ending
+at age 80 years. In addition, Poisson regression was used
+to calculate AAR ratios and 95% CIs for all groups: Minne-
+sota Hmong, Minnesota API, and all Minnesotans.
+Microsoft Excel (version 14.4.1; Microsoft Corpora-
+tion, Redmond, Washington) was used to calculate PIRs
+and AARs. SAS statistical software (version 9.4; SAS Insti-
+tute Inc, Cary, North Carolina) was used to verify the
+AARs and calculate the rate ratios, 95% CIs, and P values.
+RESULTS
+Between 2000 and 2012, there were 443 incident cancer
+cases in the Hmong population reported and ascertained
+by the MCSS: 197 cancer cases in males and 246 cancer
+cases in females. The percentage of male cancer cases was
+similar in the Hmong (44%) and API (45%), and lower
+than in all Minnesotans (52%). The percentage of female
+Cancer and Hmong in Minnesota/Oyenuga et al
+3
+3559
+Cancer  September 1, 2018
+3561
+
+cancer cases was similar among the Hmong (56%) and
+API (55%), and was higher than in all Minnesotans
+(48%). The average age of patients with cancer among
+Hmong was 53.5 years, and was 55.8 years in API patients
+and 64.9 years in all Minnesotans (Table 1).
+The PIRs for cancers diagnosed between 2000 and
+2012 are shown in Table 2.6 The PIRs for all cancers
+except non-Hodgkin lymphoma (NHL) were not signifi-
+cantly different when comparing these 2 time periods.
+The PIR for NHL was significantly higher in 2000
+through 2012 (PIR, 1.83; 95% CI, 1.30-2.50) compared
+with 1988 through 1999 (PIR, 0.57; 95% CI, 0.21-
+1.22).6 It is interesting to note that the PIRs for NHL and
+colorectal cancer were significantly increased in the
+Hmong compared with all Minnesotans in 2000 through
+2012, but not in 1988 through 1999 (Table 2).6 The
+PIRs for cancers of the stomach, nasopharynx, liver and
+cervix, were increased in Hmong versus all Minnesotans
+during both periods. The PIR for pancreatic cancer was
+significantly increased in period 2000 through 2012 but
+not for the period 1988 through 1999, but the number of
+cases was limited from 1988-1999.
+The AARs between 2000 and 2012 were 185.13 per
+100,000 population for Hmong individuals, 291.33 per
+100,000 population for API individuals, and 472.70
+per 100,000 population for all Minnesotans (Table 3).
+Compared with all Minnesotans, the Hmong had signifi-
+cantly higher AARs for cancers of the nasopharynx, stom-
+ach, liver, and cervix uteri, and significantly lower AARs
+for cancers of the colorectum, lung, breast, corpus uterus,
+and prostate, as well as for melanoma and NHL (Table 4).
+Compared with API individuals, the Hmong had signifi-
+cantly higher AARs for cancer of the cervix uteri and mela-
+noma, and significantly lower AARs for cancers of the
+colorectum, liver, lung, breast, uterine corpus, and pros-
+tate (Table 4). When the 3 populations-Hmong, API, and
+all Minnesotans-were compared, the AAR for cancer of
+the cervix uteri was highest for the Hmong and lowest for
+all Minnesotans, whereas the AARs for cancers of the col-
+orectum, lung, breast, uterine corpus, and prostate were
+in the opposite order, namely, lowest in the Hmong and
+highest in all Minnesotans.
+DISCUSSION
+The results of the current study demonstrate that, com-
+pared with all Minnesotans, the Hmong had elevated
+PIRs and AARs for several malignancies associated with
+TABLE 1. Demographics of Cancer Cases
+Among Hmong, Asian/Pacific Islanders, and All
+Minnesotans, 2000 to 2012
+Hmong
+Asian/Pacific
+Islanders
+All
+Minnesotans
+Total no. of cases
+443
+3518
+326,610
+Average age (SD), y
+53.5 (22.9)
+55.8 (18.9)
+64.9 (15.3)
+Male, no. (%)
+197 (44%)
+1574 (45%)
+171,232 (52%)
+Female, no. (%)
+246 (56%)
+1944 (55%)
+155,378 (48%)
+Abbreviation: SD, standard deviation.
+TABLE 2. PIRs of Cancer in Hmong in Minnesota, 1988 to 1999 and 2000 to 2012
+Cancer Site
+1988 to 1999a
+2000-2012
+Observed
+Expected
+PIR (95% CI)
+Observed
+Expected
+PIR (95% CI)
+Nasopharynx
+13
+0.33
+39.39 (21.01-66.86)
+18
+0.55
+33.03 (19.60-51.95)
+Stomach
+21
+2.41
+8.70 (5.39-13.25)
+31
+4.28
+7.24 (4.93-10.26)
+Colon
+11
+13.9
+0.79 (0.40-1.40)
+NA
+NA
+NA
+Rectum
+7
+5.43
+1.29 (0.52-2.61)
+NA
+NA
+NA
+Colon and rectum
+NA
+NA
+NA
+50
+35.63
+1.40 (1.04-1.85)
+Liver and intrahepatic bile duct
+10
+1.24
+8.08 (3.88-14.71)
+16
+4.32
+3.70 (2.12-5.98)
+Pancreas
+7
+2.86
+2.45 (0.98-4.96)
+17
+7.76
+2.19 (1.28-3.50)
+Lung and bronchus
+18
+18.59
+0.97 (0.57-1.52)
+31
+41.75
+0.74 (0.51-1.05)
+Melanoma of the skin
+2
+10.69
+0.19 (0.02-0.63)
+12
+25.58
+0.47 (0.24-0.81)
+Breast
+11
+32.98
+0.33 (0.17-0.59)
+24
+71.12
+0.33 (0.22-0.50)
+Cervix uteri
+14
+3.76
+3.72 (2.04-6.20)
+29
+5.06
+5.73 (3.84-8.22)
+Corpus and uterus, NOS
+4
+5.9
+0.68 (0.18-1.68)
+13
+14.72
+0.88 (0.47-1.50)
+Prostate
+3
+19.26
+0.16 (0.03-0.44)
+19
+48.93
+0.39 (0.23-0.60)
+Thyroid
+7
+6.1
+1.15 (0.46-2.32)
+19
+16.58
+1.15 (0.69-1.78)
+Non-Hodgkin lymphoma
+6
+10.53
+0.57 (0.21-1.22)
+39
+21.35
+1.83 (1.30-2.50)
+Acute lymphocytic leukemia
+2
+2.95
+0.68 (0.08-2.30)
+17
+10
+1.70 (0.99-2.71)
+Acute myeloid leukemia
+4
+1.89
+2.11 (0.57-5.24)
+NA
+NA
+NA
+Chronic myeloid leukemia
+2
+1.14
+1.75 (0.20-5.94)
+NA
+NA
+NA
+Myeloid and monocytic leukemia
+NA
+NA
+NA
+17
+7.79
+2.18 (1.27-3.48)
+Abbreviations: 95% CI, 95% confidence interval; NA, not available; NOS, not otherwise specified; PIR, proportional incidence ratio.
+a Data derived from Ross JA, Xie Y, Kiffmeyer WR, Bushhouse S, Robison LL. Cancer in the Minnesota Hmong population. Cancer. 2003;97:3076-3079.6
+Original Article
+43560
+Cancer  September 1, 2018
+3562
+
+infections, including nasopharyngeal, stomach, liver, and
+cervical cancers. Hmong individuals also were found to
+have higher PIRs for NHL and myeloid leukemias. In
+addition, Hmong had lower AARs for all cancers com-
+bined (by 61%), as well as cancers of the colon and rectum
+(by 50%), lung (by 71%), breast (by 87%), uterine corpus
+(by 73%), and prostate (by 86%) compared with all Min-
+nesotans. It is interesting to note that the AARs for all
+these cancers were lowest in the Hmong followed by API
+individuals, and were highest in all Minnesotans. Finally,
+compared with API individuals, the rates in Hmong were
+significantly higher for melanoma and cervical cancer, but
+were lower for liver cancer.
+The 4 cancers found to have increased rates in
+Hmong versus all Minnesotans, namely nasopharyngeal,
+stomach, liver, and cervical cancers, are associated with
+pathogens prevalent in Asia: nasopharyngeal cancer with
+Epstein-Barr virus (EBV), stomach cancer with Helico-
+bacter pylori (H. pylori) bacteria, liver cancer with HBV,
+and cervical cancer with HPV. The relative risks for naso-
+pharyngeal and stomach cancers in the Hmong were simi-
+lar to those in API individuals. However, for Hmong, the
+TABLE 3. AARs per 100,000 Population in Hmong, Asian/Pacific Islanders, and All Minnesotans,
+2000 to 2012
+Hmong
+Asian/Pacific Islanders
+All Minnesotans
+Cancer Site
+No. of Cases
+AAR (95% CI)
+No. of Cases
+AAR (95% CI)
+No. of Cases
+AAR (95% CI)
+All sites
+443
+185.13 (165.70-204.60)
+3518
+291.33 (281.70-300.96)
+326,610
+472.70 (471.00-474.30)
+Nasopharynx
+18
+6.81 (3.38-10.25)
+75
+4.73 (3.55-5.91)
+293
+0.43 (0.38-0.48)
+Stomach
+31
+16.71 (10.51-22.91)
+143
+13.77 (11.29-16.25)
+3877
+5.60 (5.42-5.77)
+Colon and rectum
+50
+22.86 (15.98-29.75)
+369
+33.44 (29.68-37.19)
+31,797
+45.77 (45.27-46.28)
+Liver and intrahepatic bile duct
+16
+7.90 (3.70-12.10)
+188
+16.40 (13.85-18.94)
+3114
+4.45 (4.30-4.61)
+Pancreas
+17
+10.48 (5.39-15.58)
+98
+9.85 (7.75-11.94)
+7067
+10.21 (9.97-10.45)
+Lung and bronchus
+31
+16.21 (10.31-22.12)
+327
+31.44 (27.77-35.11)
+38,776
+56.69 (56.12-57.25)
+Melanoma of the skin
+12
+5.72 (2.36-9.07)
+28
+2.56 (1.52-3.61)
+15,609
+22.75 (22.39-23.11)
+Breast
+24
+9.09 (5.08-13.10)
+516
+38.06 (34.46-41.67)
+48,626
+69.80 (69.18-70.42)
+Cervix uteri
+29
+12.36 (7.49-17.23)
+97
+7.79 (6.08-9.51)
+2142
+3.19 (3.05-3.32)
+Corpus and uterus, NOS
+13
+3.93 (1.62-6.24)
+127
+8.98 (7.28-10.68)
+10,382
+14.72 (14.44-15.01)
+Prostate
+19
+11.27 (6.05-16.49)
+255
+25.82 (22.47-29.17)
+54,145
+78.19 (77.53-78.85)
+Thyroid
+19
+6.84 (3.24-10.44)
+204
+11.84 (10.03-13.64)
+6892
+10.23 (9.99-10.47)
+Non-Hodgkin lymphoma
+39
+14.66 (9.32-20.01)
+192
+15.02 (12.61-17.43)
+15,319
+22.21 (21.86-22.57)
+Acute lymphocytic leukemia
+17
+1.87 (0.74-3.00)
+57
+2.34 (1.65-3.04)
+991
+1.50 (1.41-1.60)
+Myeloid and monocytic leukemia
+17
+4.83 (1.76-7.89)
+73
+5.14 (3.71-6.58)
+4415
+6.43 (6.24-6.62)
+Abbreviations: 95% CI, 95% confidence interval; AAR, age-adjusted cancer incidence rates; NOS, not otherwise specified.
+TABLE 4. AARs per 100,000 Population for Hmong Compared to Asian/Pacific Islanders and All Minneso-
+tans, 2000 to 2012
+Cancer Site
+Hmong Versus API
+Rate Ratio (95% CI)
+P
+Hmong Versus All Minnesotans
+Rate Ratio (95% CI)
+P
+All sites
+0.64 (0.57-0.71)
+<.0001
+0.39 (0.35-0.44)
+<.0001
+Nasopharynx
+1.44 (0.82-2.53)
+.20
+15.90 (9.48-26.68)
+<.0001
+Stomach
+1.21 (0.80-1.83)
+.36
+2.99 (2.06-4.33)
+<.0001
+Colon and rectum
+0.68 (0.50-0.94)
+.02
+0.50 (0.37-0.68)
+<.0001
+Liver and intrahepatic bile duct
+0.48 (0.28-0.84)
+.001
+1.77 (1.04-3.02)
+.04
+Pancreas
+1.06 (0.63-1.81)
+.82
+1.03 (0.63-1.67)
+.92
+Lung and bronchus
+0.52 (0.35-0.76)
+.001
+0.29 (0.20-0.41)
+<.0001
+Melanoma of the skin
+2.23 (1.09-4.56)
+.03
+0.25 (0.14-0.45)
+<.0001
+Breast
+0.24 (0.15-0.37)
+<.0001
+0.13 (0.08-0.20)
+<.0001
+Cervix uteri
+1.59 (1.01-2.49)
+.05
+3.88 (2.61-5.77)
+<.0001
+Corpus and uterus, NOS
+0.44 (0.24-0.81)
+.009
+0.27 (0.15-0.48)
+<.0001
+Prostate
+0.44 (0.27-0.71)
+.001
+0.14 (0.09-0.23)
+<.0001
+Thyroid
+0.58 (0.33-1.00)
+.05
+0.67 (0.39-1.13)
+.13
+Non-Hodgkin lymphoma
+0.98 (0.66-1.45)
+.91
+0.66 (0.46-0.95)
+.03
+Acute lymphocytic leukemia
+0.80 (0.41-1.57)
+.51
+1.24 (0.68-2.29)
+.48
+Myeloid and monocytic leukemia
+0.94 (0.47-1.88)
+.86
+0.75 (0.40-1.42)
+.38
+Abbreviations: 95% CI, 95% confidence interval; AAR, age-adjusted cancer incidence rates; API, Asian/Pacific Islander; NOS, not otherwise specified.
+Cancer and Hmong in Minnesota/Oyenuga et al
+3
+3559
+Cancer  September 1, 2018
+3563
+
+rate of cervical cancer was 60% higher and the rate of liver
+cancer was 52% lower than among APIs, and the risk of
+cervical cancer was highest in the Hmong and the risk of
+liver cancer was highest in API individuals.
+Among these infection-related cancers, the highest
+AAR ratio for the Hmong versus all Minnesotans was
+observed for nasopharyngeal cancer. AAR rates were
+15.90 times higher and the PIRs were 33 times higher in
+Hmong compared with all Minnesotans. These findings
+are similar to the findings in a prior study by Ross et al.6
+In addition to a higher prevalence of EBV in the
+Hmong, the higher risk of nasopharyngeal cancer in this
+population may be attributed to differences in genetics
+between Hmong and other Minnesota residents. For
+example, Hmong had higher frequencies of glutathione
+S-transferase U1 and glutathione S-transferase 01 null
+genotypes compared with white Minnesotans. These null
+genotypes have been linked to nasopharyngeal cancer.11
+High rates of cervical cancer for the Hmong and API
+individuals may be explained by the higher prevalence of
+HPV infection because it is endemic in Asia and because
+of lower HPV vaccination rates among young Asian
+Americans. In a survey conducted among undergraduate
+students in a public university in the Midwest between
+2012 and 2014, the HPV vaccination rate was 60.7% for
+non-Latina women and 38.6% for API women.12 A
+recent study in Minnesota also reported that the initiation
+rate of vaccination was 46.3% and the completion rate
+was 32.7% among Hmong American immigrants,13
+whereas the rate for the Papanicolaou test was 67.1%
+within the last 3 years.14 In keeping with these findings,
+approximately 74% of Hmong women in California had
+ever undergone a Papanicolaou test and approximately
+61% had been screened within the last 3 years compared
+with rates of 91% and 86%, respectively, in women in
+California overall.15
+Similarly, the high age-adjusted rates of hepatocellu-
+lar carcinoma may be explained by the high prevalence of
+HBV infection among Hmong immigrants. A study in
+California reported that only 12% of Hmong youth com-
+pleted the 3-shot HBV vaccination series compared with a
+completion rate of 78.8% observed for seventh graders of
+all ethnicities.16 A recent study performed in Oregon
+demonstrated that approximately 50.6% of Hmong
+Americans were vaccinated for HBV.17 Thus, there is a
+need for well-designed intervention measures that will
+improve the vaccination rates among Hmong individuals.
+A randomized controlled trial, a lay health worker model
+in California, demonstrated that an intervention focused
+on modifying individual health behavior framework
+factors may significantly improve HBV screening rates.
+The intervention group was found to have a significantly
+higher likelihood of reporting HBV serology testing
+(24%) compared with the control group (10%).18
+The higher risk of stomach cancer observed in the
+Hmong versus all Minnesotans may be partially explained
+by a high prevalence of H. pylori infection, which is a
+strong risk factor for gastric cancers.19,20 A study in Thai-
+land demonstrated a high prevalence of metronidazole-
+resistant H. pylori strains among the Hmong population
+compared with the Thai and Karen populations.21 To the
+best of our knowledge, there currently are no data regard-
+ing the prevalence of H. pylori infection in the Hmong in
+the United States. In addition to H. pylori, a high con-
+sumption of rice may explain the high incidence of stom-
+ach cancer observed among the Hmong.22
+In the PIR analysis, a higher incidence of NHL and
+myeloid leukemias was observed in the Hmong compared
+with all Minnesotans. This finding is in parallel to find-
+ings for Hmong in California.7 The higher incidence of
+NHL might be explained by a higher prevalence of EBV
+infection in Hmong, which is associated with the risk of
+NHL.23,24
+A systematic review identified barriers to cancer
+screening in the Hmong, including access to health care,
+cultural norms, and cancer literacy.25 Results from a focus
+group demonstrated that Hmong women have sociocul-
+tural norms that discourage them from seeking screen-
+ing,26 have a strong adherence to traditional medicine,27
+and do not actively seek help.28 In addition, Hmong lead-
+ers in Wisconsin indicated that the Hmong believed that
+treating cancer must be done by a spiritual healer rather
+than a physician, and expressed concern regarding the
+lack of outreach regarding different cancers to their
+communities.29
+The lower rate of lung cancer in the Hmong may be
+explained by the low smoking prevalence in this popula-
+tion: approximately 7% of Hmong respondents in Wis-
+consin reported ever smoking >100 cigarettes in their
+entire lifetime.29 In the 2007 Minnesota Adult Tobacco
+Survey,30,31 approximately 5% of Hmong adults in Min-
+nesota reported smoking compared with 17% of all Min-
+nesotans. Currently, smoking rates are on the rise in the
+acculturated Hmong youth,32 whereas they are decreasing
+among all Minnesotans.33 This can lead to an increase in
+lung cancer rates in the Hmong population in the future.
+Furthermore, the lower rates of breast, colorectal,
+and prostate cancers noted in Hmong individuals versus
+all Minnesotans may be explained in part by the lower
+prevalence of underlying risk factors for these cancers,
+Original Article
+43560
+Cancer  September 1, 2018
+3564
+
+such as obesity and smoking, in the Hmong, and/or the
+healthy immigrant effect. Studies have demonstrated a
+pattern of initial good health in immigrants compared
+with their US-born adult counterparts.34 In addition, a
+lower incidence of breast, colorectal, and prostate cancers
+in the Hmong could be attributed to the low screening
+rates noted in this population. Without screening, these
+cancers may be undiagnosed and therefore not reported.
+In agreement with this explanation, it was shown that can-
+cers are diagnosed in Hmong individuals at a later stage
+compared with API and non-Hispanic white individuals.7
+The low rate of breast cancer also might be due to the high
+parity and low age at first pregnancy among Hmong
+women. Although these rates currently are low, it is
+important to continue the surveillance of these cancers in
+the Hmong.
+Acculturation in the Hmong has led to increases in
+weight and changes in dietary habits resulting in the low
+consumption of fruits and vegetables,35 which could lead
+to increased cancer rates in the future.36 A higher risk of
+breast cancer has been observed in Asian American
+women who have resided in the United States for >10
+years compared with women who recently immigrated.37
+Compared with API individuals, lower rates of
+colon, prostate, liver, and thyroid cancer, and higher rates
+of cervical cancer and melanoma, were noted among
+Hmong individuals. These higher rates of melanoma in
+the Hmong compared with APIs might be related to their
+occupation, because a large percentage of Hmong in the
+United States engage in agricultural jobs, which is a
+largely outdoor occupation.7 Thus, there should be better
+education regarding preventive measures (such as apply-
+ing sunscreen) in Hmong in Minnesota.
+To our knowledge, the current study is the first to
+estimate AARs in the Hmong individuals residing in Min-
+nesota compared with all Minnesotans. Furthermore, we
+also used PIRs to identify the relative percentage of spe-
+cific cancer counts in Hmong and compared them with a
+previous study performed in 1998 through 1999.
+Although the previous study identified Hmong cases
+through surname matching, the current study used race as
+recorded in the medical record.6 We did not use surname
+matching mostly because the reporting of race informa-
+tion was much more complete in the latter time period for
+the MCSS. In addition, Chinese and other non-Hmong
+Minnesota residents have last names similar to Hmong,
+which could lead to an overestimation of cancer cases in
+Hmong and increased rates.7,38
+A limitation of the current study is the potential for
+an undercounting of Hmong cancer cases in the MCSS.
+Race classification in the MCSS is based on what is
+reported by facilities and their medical records. This may
+or may not be accurate depending on how precise facilities
+are at identifying their patients. In addition, the reports
+from the US Census are likely to slightly underestimate
+the population counts of Hmong in Minnesota by
+approximately 2%.39 Another limitation is that the num-
+ber of Hmong cancer cases in Minnesota diagnosed
+between 2000 and 2012 was small (443 cases), which led
+to wide 95% CIs, thereby making it more difficult to
+observe any disparities that may exist. In addition, residual
+confounding by age could contribute to a smaller percent-
+age of cancer cases in Hmong individuals or inaccurate
+denominators may be partially responsible for discrepan-
+cies in cancer rates between Hmong and API individuals.
+The current study brings awareness of the higher
+risk of cancers of the nasopharynx, stomach, liver, and cer-
+vix uteri among the Hmong, cancers that are associated
+with different infections. In the future, we expect that the
+incidence of cancers caused by infectious agents will
+decrease among successive generations in the children and
+grandchildren of immigrants as acculturation occurs and
+vaccine use becomes more commonly accepted. In the
+interim, the Hmong should follow screening recommen-
+dations for cancer in the general population because it has
+been reported that Hmong individuals tend to use cancer
+screening services less often than non-Hispanic white
+individuals. Efforts to expand preventative approaches
+for cancer in the Minnesota Hmong population are
+warranted.
+FUNDING SUPPORT
+The collection of the cancer incidence data used in this publication
+was partially supported by Cooperative Agreement Number 5
+NU58DP003922 from the Centers for Disease Control and Pre-
+vention. Its contents are solely the responsibility of the authors and
+do not necessarily represent the official views of the Centers for Dis-
+ease Control and Prevention.
+CONFLICT OF INTEREST DISCLOSURES
+The authors made no disclosures.
+AUTHOR CONTRIBUTIONS
+Mosunmoluwa Oyenuga: Writing-original draft and writing–
+review and editing. John K. Yang: Conceptualization, formal anal-
+ysis, and writing-original draft. Anna E. Prizment: Methodology,
+conceptualization, and writing-review and editing. Sally Bush-
+house: Formal analysis and writing-review and editing. Ellen
+Demerath: Writing–review and editing. Logan G. Spector: Super-
+vision and writing–review and editing.
+Cancer and Hmong in Minnesota/Oyenuga et al
+3
+3559
+Cancer  September 1, 2018
+3565
+
+REFERENCES
+1. Minnesota Department of Health. Refugee health statistics; cumula-
+tive arrivals, 1979-2014. http://www.health.state.mn.us/divs/idepc/
+refugee/index.html. Accessed June 24, 2017.
+2. Pfeifer ME, Sullivan J, Yang K, Yang W. Hmong population and
+demographic trends in the 2010 Census and 2010 American Commu-
+nity Survey. Hmong Studies J. 2012;13:2010 Census Special Issue.
+3. US Census Bureau. Census 2000 summary file 2 (SF 2) 100-percent
+data; table DP-1. http://factfinder2.census.gov. Accessed June 24,
+2017.
+4. US Census Bureau. 2010 census summary file 2 (SF 2); table DP-1.
+http://factfinder2.census.gov. Accessed June 24, 2017.
+5. Pinzon-Perez H. Health issues for the Hmong population in the
+U.S.: implications for health educators. Int Electr J Health Educ.
+2006;9:122-133.
+6. Ross JA, Xie Y, Kiffmeyer WR, Bushhouse S, Robison LL. Cancer
+in the Minnesota Hmong population. Cancer. 2003;97:3076-3079.
+7. Mills PK, Yang RC, Riordan D. Cancer incidence in the Hmong in
+California, 1988-2000. Cancer. 2005;104(suppl 12):2969-2974.
+8. Minnesota Cancer Surveillance System. Cancer in Minnesota, 1988-
+2008. St. Paul, MN: Minnesota Department of Health; 2012.
+9. Ury HK, Wiggins AD. Another shortcut method for calculating the
+confidence interval of a Poisson variable (or of a standardized mor-
+tality ratio). Am J Epidemiol. 1985;122:197-198.
+10. Fleiss JL, Levin B, Paik MC. Statistical Methods for Rates and Pro-
+portions. 3rd ed. Hoboken, NJ: John Wiley & Sons; 2003.
+11. Kiffmeyer WR, Langer E, Davies SM, Envall J, Robison LL, Ross
+JA. Genetic polymorphisms in the Hmong population: implications
+for cancer etiology and survival. Cancer. 2004;100:411-417.
+12. Lee HY, Kwon M, Vang S, et al. Disparities in human papillomavi-
+rus vaccine literacy and vaccine completion among Asian American
+Pacific
+Islander
+undergraduates:
+implications
+for
+cancer
+health
+equity. J Am Coll Health. 2015;63:316-323.
+13. Beltran R, Simms T, Lee HY, Kwon M. HPV literacy and associated
+factors among Hmong American immigrants: implications for reduc-
+ing cervical cancer disparity. J Community Health. 2016;41:603-611.
+14. Lee HY, Yang PN, Lee DK, Ghebre R. Cervical cancer screening
+behavior among Hmong-American immigrant women. Am J Health
+Behav. 2015;39:301-307.
+15. Fang DM, Lee S, Stewart S, Ly MY, Chen MS Jr. Factors associated
+with Pap testing among Hmong women. J Health Care Poor Under-
+served. 2010;21:839-850.
+16. Burtler LM, Mills PK, Yang RC, Chen MS Jr. Hepatitis B knowl-
+edge and vaccination levels in California Hmong youth: implications
+for liver cancer prevention strategies. Asian Pac J Cancer Prev. 2005;
+6:401-403.
+17. Kue J, Thorburn S. Hepatitis B knowledge, screening, and vaccina-
+tion among Hmong Americans. J Health Care Poor Underserved.
+2013;24:566-578.
+18. Chen MS Jr, Fang DM, Stewart SL, et al. Increasing hepatitis B
+screening for Hmong adults: results from a randomized controlled
+community-based study. Cancer Epidemiol Biomarkers Prev. 2013;22:
+782-791.
+19. Parsonnet J, Friedman GD, Vandersteen DP, et al. Helicobacter
+pylori infection and the risk of gastric carcinoma. N Engl J Med.
+1991;325:1127-1131.
+20. Correa P, Piazuelo MB. Helicobacter pylori infection and gastric
+adenocarcinoma. US Gastroenterol Hepatol Rev. 2011;7:59-64.
+21. Vilaichone R, Ratanachu-Ek T, Gamnarai P, et al. Extremely high
+prevalence of metronidazole-resistant helicobacter pylori strains in
+mountain people (Karen and Hmong) in Thailand. Am J Trop Med
+Hyg. 2016;94:717-720.
+22. Yang RC, Mills PK, Riordan DG. Gastric adenocarcinoma among
+Hmong in California, USA, 1988-2000. Gastric Cancer. 2005;8:117-
+123.
+23. Heslop HE. Biology and treatment of Epstein-Barr virus–associated
+non-Hodgkin lymphomas. Hematology Am Soc Hematol Educ Pro-
+gram. 2005;2005:260-266.
+24. Teras LR, Rollison DE, Pawlita M, et al. Epstein-Barr virus and risk
+of non-Hodgkin lymphoma in the Cancer Prevention Study-II and a
+meta-analysis of serologic studies. Int J Cancer. 2014;136:108-116.
+25. Lee HY, Vang S. Barriers to cancer screening in Hmong Americans:
+the influence of health care accessibility, culture, and cancer literacy.
+J Community Health. 2010;35:302-314.
+26. Lor M, Khang PY, Xiong P, Moua KF, Lauver D. Understanding
+Hmong women’s beliefs, feelings, norms, and external conditions
+about breast and cervical cancer screening. Public Health Nurs. 2013;
+30:420-428.
+27. Baisch MJ, Vang PC, Peterman BR. An exploration of Hmong
+women’s perspectives on cancer. Asian Nurs Res (Korean Soc Nurs
+Sci). 2008;2:82-91.
+28. Smalkoski K, Herther NK, Xiong ZB, Ritsema K, Vang R, Zheng
+R. Health disparities research in the Hmong American community:
+implications for practice and policy. Hmong Studies J. 2012;13:2010
+Census Special Issue
+29. Schroepfer TA, Waltz A, Noh H, Matloub J, Kue V. Seeking to
+bridge two cultures: the Wisconsin Hmong cancer experience.
+J Cancer Educ. 2010;25:609-616.
+30. ClearWay Minnesota, Blue Cross and Blue Shield of Minnesota, and
+Minnesota Department of Health. Creating a healthier Minnesota:
+progress in reducing tobacco use. September 2008. Minneapolis, MN.
+http://www.health.state.mn.us/divs/chs/tobacco/matscomptech07.pdf.
+Accessed May 29, 2018.
+31. Blue Cross and Blue Shield of Minnesota, ClearWay Minnesota,
+Asian Pacific Tobacco-Free Coalition of Minnesota, Southeast Asian
+Refugee Community Home. Tobacco use in Minnesota: a quantita-
+tive survey of Cambodian, Hmong, Lao and Vietnamese community
+members.
+November
+2009.
+http://clearwaymn.org/wp-content/
+uploads/2012/12/Tabacco-Use-in-Minnesota-2010-Full-Report.pdf.
+Accessed May 29, 2018.
+32. Burgess DJ, Mock J, Schillo BA, et al. Culture, acculturation and
+smoking use in Hmong, Khmer, Laotians, and Vietnamese commu-
+nities in Minnesota. BMC Public Health. 2014;14:791.
+33. ClearWay
+Minnesota
+and
+Minnesota
+Department
+of
+Health.
+Tobacco use in Minnesota: 2010 update. February 2011. Minneapo-
+lis, MN. http://www.health.state.mn.us/divs/chs/tobacco/matscomp-
+tech07.pdf. Accessed May 29, 2018.
+34. Hamilton TG. The healthy immigrant (migrant) effect: in search of
+a better native-born comparison group. Soc Sci Res. 2015;54:353-
+365.
+35. Yang RC, Mills PK. Dietary and lifestyle practices of Hmong in
+California. J Health Care Poor Underserved. 2008;19:1258-1269.
+36. Franzen L, Smith C. Acculturation and environmental change
+impacts dietary habits among adult Hmong. Appetite. 2009;52:173-
+183.
+37. Chen MS Jr. Cancer health disparities among Asian Americans:
+what we do and what we need to do. Cancer. 2005;104(suppl 12):
+2895-2902.
+38. Mills PK, Yang R. Cancer incidence in the Hmong of Central Cali-
+fornia, United States, 1987-94. Cancer Causes Control. 1997;8:705-
+712.
+39. US Census Bureau. Census Bureau releases estimates of undercount
+and overcount in the 2010 Census. https://www.census.gov/news-
+room/releases/archives/2010_census/cb12-95.html. Accessed April 10,
+2018.
+Original Article
+43560
+Cancer  September 1, 2018
+3566
+

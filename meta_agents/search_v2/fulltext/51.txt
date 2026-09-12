@@ -1,0 +1,167 @@
+record_id=51 pmid=34918619 doi=10.1080/22423982.2021.2013403 pmcid=PMC8725679
+TITLE: The Alaska Native Tumour Registry: fifty years of cancer surveillance data for  Alaska Native people
+
+Introduction
+Indigenous people throughout the Circumpolar North have a unique pattern of cancer incidence and mortality [1–4]. The Alaska Native Tumour Registry (ANTR) was established for cancer surveillance among Alaska Native and American Indian (ANAI) people living in Alaska so that those patterns could be better understood; data are available going back to 1969 [5,6]. The ANTR is one of very few registries, in the USA or in the Circumpolar region, with such a long history of data collection; thus, it provides a unique resource to support disease monitoring [6–11], public health programme evaluation [12], and research [13–16] to understand and address the burden of cancer – the leading cause of death – among Alaska Native (AN) people. For example, data published by the registry indicated that colorectal cancer (CRC) rates were twice as high among AN people relative to US white people (USW), and that this disparity had existed for over 30 years [17]. Furthermore, CRC rates among younger people (aged <50 years) were shown to be significantly higher among AN people compared to USW [7]. In response to these findings, researchers in the Alaska Tribal Health System initiated public health programmes and research studies to investigate both primary and secondary prevention of CRC [18–21]. In addition, in 2013, the Alaska Native Medical Center (ANMC) changed its guidelines to recommend screening starting at age 40 years, 10 years earlier than the national recommendation to begin screening at 50 years. Recently, we used ANTR data to show how these programmes had impacted incidence and mortality rates among AN people over the last 15 years, with incidence decreases among those of screenable age, but a surprising increase in mortality over the time-period [22]. These examples highlight the power of high-quality, long-term cancer surveillance data to support and evaluate the impact of cancer prevention and control efforts.
+Every 5 years, the ANTR releases a report with the most recent cancer data for AN people [5,6,17]. In 2021, the ANTR celebrated 50 years of cancer surveillance among AN people [23], a notable milestone. This manuscript provides a summary of the 50-year report data with a focus on the most recent 5-year period. Here, we describe the most salient results from those analyses, including a brief description of the leading cancers among AN people, cancer mortality and long-term cancer trends. We hope that this manuscript will provide useful data for those interested in cancer epidemiology among Indigenous peoples of Alaska specifically, and the Circumpolar region more broadly.
+Methods
+Study population
+An estimated 144,274 ANAI people resided in Alaska in 2015 (individuals reporting ANAI identity alone, or in combination with another racial identity), comprising 19.5% of the Alaskan population [24]. Almost 90% of ANAI people living in Alaska identify as AN [25]; therefore, hereafter we will refer to ANAI people residing in Alaska as “Alaska Native (AN) people”. Healthcare for AN people residing in Alaska is provided by over 30 regional Tribal health organisations, and the Alaska Native Tribal Health Consortium, which provides statewide speciality care services [26].
+Ethical review
+This study did not require IRB review because the ANTR collects data for the purposes of public health surveillance and these data are available publicly through the National Cancer Institute’s Surveillance, Epidemiology and End Results (NCI SEER) Program [27]. The authors received Tribal approval for publication of this manuscript from the Alaska Native Tribal Health Consortium.
+Data sources
+Cancer data were collected by the ANTR a population-based central cancer registry that records information on AN people who meet eligibility requirements for Indian Health Service benefits, have been diagnosed with cancer in Alaska since 1969, and resided in Alaska at the time of diagnosis. The ANTR has been collecting cancer information according to NCI SEER Program standards since its inception in 1969, and has been a full member special population registry of the SEER Program since 1999.
+Cases were ascertained following standard ANTR casefinding procedure from a variety of sources, including (1) hospital discharge diagnoses for Tribal and non-Tribal health facilities in Alaska; (2) tumour registry and pathology files of the ANMC and other in-state healthcare facilities; (3) linkage to the Alaska Cancer Registry and the Washington State Cancer Registry, which assures all cases of cancer diagnosed among AN people in Alaska are captured irrespective of where they receive their care; and (4) death certificates (<1% cases were registered solely on the basis of information from a death certificate).
+This report describes information on cancers diagnosed among AN people from 1969 through 2018. Cancer incidence and mortality data for the USW population are included in this report to provide a standard point of reference for comparison. Cancer data for USW were taken from the SEER 9 data set, which includes the following registries: Iowa, New Mexico, Connecticut, Detroit, San Francisco, Hawaii, Seattle-Puget Sound and Utah. At the time of analysis, data were available for USW for only the years 1973–2017. Therefore, in 5-year rate comparisons, data for USW in the most recent time-period include only the 4 years (2014–2017). For longer term trends, data for USW include the years 1975–2017, to align with 5-year date ranges based on ANTR data. Population estimates for both the AN and USW populations originate from the US Census (1970, 1980, 1990, 2000 and 2010), as well as from the National Center for Health Statistics’ bridged population series for AN people, 1990–2018, available from the SEER Program through SEER*Stat [28]. Mortality data, also accessed through SEER*Stat, were provided by linkage to the National Death Index Plus, which is maintained by the National Center for Health Statistics; mortality data were available for the years 1990–2018; data from 1994–2018 were included in this report to align with 5-year date ranges based on ANTR data.
+Primary cancer site of origin, pathology, behaviour, and grade coding followed the International Classification of Diseases for Oncology, 3rd edition [29]. Cancer sites of origin were grouped according to SEER primary site groups, ICD-O-3/WHO 2008 recode [30]. Directly corresponding stage variables were not available for AN and USW data sets. While the available stage variables use the same classifications for stage at diagnosis (local, regional, distant, unknown, etc.) the specific rules used to make those classifications vary slightly. For AN data several stage classifications were available; we used a combination of two classifications that were most complete and covered the desired date range: “Derived SS2000“ and “Derived Summary Stage 2018“. For USW data we chose to use ”SEER Combined Summary Stage (2004+)” because it was largely compatible with ”Derived SS2000.”
+Statistical analysis
+Age-adjusted incidence rates (IR), rate ratios (RR), and confidence intervals were computed using R version 3.6.3 (2020–02-29) and cross-checked against output from SEER*Stat version 8.3.8 (Statistical Methodology and Applications Branch, Surveillance Research Program, National Cancer Institute). Age-adjusted mortality rates (MR) were calculated directly using SEER*Stat version 8.3.8. All rates for AN people and USW were age-adjusted to the U.S. Census 2000 standard population using the direct method. RRs are expressed as the AN rate divided by the USW rate. Age-specific statistics were calculated in the following age groups: 0–39 years, 40–59 years, 60–79 years and 80+ years. Trends were assessed by calculating rates for 5-year time-periods 1969–2018 (AN people) and 1975–2017 (USW people); annual percent change (APC) and significance of trends were analysed using Joinpoint version 4.9.0.0 (Statistical Methodology and Applications Branch, Surveillance Research Program, National Cancer Institute). IRs and case counts are not given where cell sizes were <5 to protect individuals’ privacy.
+Results
+During 2014–2018, there were 2,401 cases of invasive cancer diagnosed among AN people, which was an increase compared with the 2,123 diagnosed during 2009–2013. Age-adjusted incidence of leading cancers is shown in Figure 1; rates for all cancer sites are given in SupplementaryTable 1. During 2014–2018, the most commonly diagnosed cancers were female breast (340 cases, 14% of all cancers; IR 130.8 [116.7, 146.0]), colorectal (405 cases, 17% of all cancers, IR 87.6 [78.8, 97.1]), lung and bronchus (373 cases, 16% of all cancers, IR 83.0 [74.3, 92.4]), prostate (126 cases, 5% of all cancers, IR 61.2 [49.9, 74.2]), and kidney and renal pelvis (150 cases, 6% of all cancers, IR 28.9 [24.3, 34.1]). This pattern was identical to both the previous 5-year period, and the 50-year period 1969–2018. As seen in Figure 1, rates of colorectal, lung and stomach cancers were higher among AN people than USW; rates of prostate (men) and corpus uteri cancers (women) were lower among AN people than USW.Table 1.Leading causes of cancer death among AN people, 2014–2018. Data from the Alaska Native Tumour Registry (AN people) and SEER 9 registries (USW) AN peopleUSW Cancer site (primary cause of death)CountMRCIRateCIRRAll malignant cancers913211.6(197.2, 226.9)156.3(156.1, 156.5)1.4Lung and Bronchus21850.8(43.9, 58.7)39.3(39.2, 39.4)1.3Colon and Rectum14937.4(31.3, 44.5)13.4(13.3, 13.5)2.8Breast5623.5(17.5, 31.1)19.6(19.5, 19.7)1.2Prostate2016.4(9.7, 26.2)17.9(17.8, 18.0)0.9Stomach5711.8(8.8, 15.7)2.6(2.6, 2.6)4.5Pancreas5211.6(8.5, 15.7)11.0(10.9, 11.0)1.1Oesophagus336.6(4.4, 9.8)4.1(4.1, 4.2)1.6Liver265.5(3.5, 8.5)4.5(4.5, 4.6)1.2Kidney and Renal Pelvis234.8(2.9, 7.5)3.8(3.7, 3.8)1.3Urinary Bladder164.2(2.3, 7.2)4.5(4.5, 4.6)0.9Ovary114.0(2.0, 7.8)6.9(6.9, 7.0)0.6Brain and Other Nervous System183.6(2.1, 6.2)4.8(4.8, 4.9)0.8Non-Hodgkin Lymphoma143.3(1.7, 6.0)5.6(5.6, 5.7)0.6Nasopharynx142.9(1.5, 5.3)0.1(0.1, 0.1)29.0Intrahepatic Bile Duct122.6(1.2, 5.0)1.7(1.7, 1.7)1.5MR: age-adjusted mortality rate; CI: confidence interval; RR: rate ratio
+Figure 1.Five-year incidence per 100,000 population for the leading cancers diagnosed among AN people, 2014–2018, compared to USW
+Table 1.
+Leading causes of cancer death among AN people, 2014–2018. Data from the Alaska Native Tumour Registry (AN people) and SEER 9 registries (USW)
+AN people
+USW
+Cancer site (primary cause of death)
+Count
+MR
+CI
+Rate
+CI
+RR
+All malignant cancers
+913
+211.6
+(197.2, 226.9)
+156.3
+(156.1, 156.5)
+1.4
+Lung and Bronchus
+218
+50.8
+(43.9, 58.7)
+39.3
+(39.2, 39.4)
+1.3
+Colon and Rectum
+149
+37.4
+(31.3, 44.5)
+13.4
+(13.3, 13.5)
+2.8
+Breast
+56
+23.5
+(17.5, 31.1)
+19.6
+(19.5, 19.7)
+1.2
+Prostate
+20
+16.4
+(9.7, 26.2)
+17.9
+(17.8, 18.0)
+0.9
+Stomach
+57
+11.8
+(8.8, 15.7)
+2.6
+(2.6, 2.6)
+4.5
+Pancreas
+52
+11.6
+(8.5, 15.7)
+11.0
+(10.9, 11.0)
+1.1
+Oesophagus
+33
+6.6
+(4.4, 9.8)
+4.1
+(4.1, 4.2)
+1.6
+Liver
+26
+5.5
+(3.5, 8.5)
+4.5
+(4.5, 4.6)
+1.2
+Kidney and Renal Pelvis
+23
+4.8
+(2.9, 7.5)
+3.8
+(3.7, 3.8)
+1.3
+Urinary Bladder
+16
+4.2
+(2.3, 7.2)
+4.5
+(4.5, 4.6)
+0.9
+Ovary
+11
+4.0
+(2.0, 7.8)
+6.9
+(6.9, 7.0)
+0.6
+Brain and Other Nervous System
+18
+3.6
+(2.1, 6.2)
+4.8
+(4.8, 4.9)
+0.8
+Non-Hodgkin Lymphoma
+14
+3.3
+(1.7, 6.0)
+5.6
+(5.6, 5.7)
+0.6
+Nasopharynx
+14
+2.9
+(1.5, 5.3)
+0.1
+(0.1, 0.1)
+29.0
+Intrahepatic Bile Duct
+12
+2.6
+(1.2, 5.0)
+1.7
+(1.7, 1.7)
+1.5
+MR: age-adjusted mortality rate; CI: confidence interval; RR: rate ratio
+Figure 1.
+Five-year incidence per 100,000 population for the leading cancers diagnosed among AN people, 2014–2018, compared to USW
+We examined stage at diagnosis for all sites and the most common cancers diagnosed 2014–2018 (Figure 2). The majority of cancers (40%) were diagnosed at local stage, with 24% diagnosed at regional stage, and 30% at distant stage. However, the pattern varied by cancer site. For female breast cancer (Figure 2b), almost two thirds of cases were diagnosed at local stage, with a quarter at regional stage and one tenth at distant stage. Among colorectal cancers, just over one third were diagnosed at local and regional stages each, with one quarter diagnosed at distant stage (Figure 2c). Over half of lung cancers were diagnosed at distant stage (Figure 2d). For those sites not presented in Figure 2: among pancreatic cancers, 54% were diagnosed at distant stage, with 24% at regional stage and 14% local stage. Among stomach cancers, 60% were diagnosed at distant stage, with 16% at regional stage and 22% local stage.
+Figure 2.Frequency of diagnosis by SEER summary stage for (a) All sites, (b) female breast, (c) colorectal, (d) lung cancers, among AN people compared to USW, 2014–2018
+Figure 2.
+Frequency of diagnosis by SEER summary stage for (a) All sites, (b) female breast, (c) colorectal, (d) lung cancers, among AN people compared to USW, 2014–2018
+Overall, the incidence of cancer (all sites) was similar among AN people and USW during the last 5 years (Table 1). Several leading cancers were more common among AN people than among USW, including colorectal; lung and bronchus, and kidney and renal pelvis cancers. We also observed differences in other, less common cancers. The greatest difference we observed was for cancers of the nasopharynx. While these cancers are diagnosed relatively infrequently (there were 28 cases diagnosed 2014–2018), the IR was 15.2 times higher among AN people compared with USW. Other cancers that were more common among AN people include penis; Kaposi sarcoma; stomach; oesophageal; gallbladder; and cervix uteri. There were also several cancers that were less common among AN people compared with USW, including cancers of the prostate; urinary bladder; eye and orbit; brain; Hodgkin lymphoma; non-Hodgkin lymphoma; and melanoma of the skin.
+Figure 3.
+Trends in5-year average annual age-adjusted incidence for (a) All sites, (b) female breast, (c) colorectal, (d) lung cancers, among AN people compared to USW, 1969–2018
+Figure 4.
+Trends in 5-year average annual age-adjusted mortality for (a) all sites, (b) female breast, (c) colorectal, (d) lung cancers, among AN people compared to USW, 1994–2018
+Discussion
+The ANTR collects cancer surveillance information to support cancer control programming, monitoring, programme evaluation and research among AN people. The present manuscript provides information on 50-year cancer incidence trends among AN people, as well as more detailed information from the most recent 5-year period. Our key findings were thus: leading cancers 2014–2018 were female breast, colorectal and lung cancers. Leading causes of cancer death were lung cancer, colorectal cancers and female breast cancer. These leading cancers, and leading causes of cancer deaths, are unchanged from the prior 5-year period [17].
+The leading cancers among AN people may be potentially preventable. Female breast, colorectal and lung cancers are all screenable within the Alaska Tribal Health System; increased efforts should be made to support all AN men and women of appropriate ages to receive screening. In a recent study by our group, we showed that increases in CRC screening prevalence occurred concurrently with increases in CRC mortality [22]. Reasons for this should be elucidated in further research, but these data indicate a potential disconnect between CRC screening, treatment and outcomes. We showed that a large proportion of lung cancers were diagnosed at distant stage among AN people, likely contributing to the high mortality from this malignancy. Lung cancer screening became available within the Alaska Tribal Health System for those who meet eligibility criteria per Centers for Medicare and Medicaid Services guidelines in 2019; we hope to see a decrease in mortality and late-stage diagnoses as screening prevalence increases over time [31]. Furthermore, risk of these leading cancers has been linked to lifestyle and health-related behaviours. Smoking has been comprehensively linked to increased risk of lung and colorectal cancers [32], and physical activity [33,34] and dietary components [35] have been linked to decreased risk of all three leading cancers. Smoking prevalence is twofold higher among AN people than USW [36–38]; further, among some, particularly rural AN communities there may be lower access to healthy foods and opportunities to physical activity [39–43]. Thus, a comprehensive approach to reduce the burden of cancer among AN people should incorporate both primary and secondary prevention approaches.
+Where data were available, we compared average annual age-adjusted cancer IRs among AN people to those among USW for the same time-periods. Such comparisons help us to describe similarities and differences in cancer patterns, which in turn can help identify areas of strength, and opportunities for improvement. There were several disparities of note. The largest disparity was observed for nasopharyngeal cancer, which is relatively rare. Although we observed only 28 cases in the 5-year period 2014–2018, AN incidence was over 15 times greater than that among USW, and mortality 29 times greater. Reasons for this disparity are unknown; previous research has indicated a potential familial link, a role for Epstein-Barr virus, or perhaps both [44–47]. Stomach cancer incidence was 3 times greater, and mortality 4.5 times greater among AN people than USW. Stomach cancer rates are known to be high across ANAI people nationwide: a recent study by Melkonian and colleagues reported high rates in several Indian Health Service regions, particularly Alaska, the Southwest, and Northern Plains regions [48]. Prevalence of Helicobacter pylori infection is high in Alaska [49], and antimicrobial resistance and treatment failure have also been documented [49–53]. Prevalence of other known risk factors including smoking, dental disease, and consumption of salted and smoked foods is high [54], and may contribute to the increased burden of this malignancy. A recent community-researcher summit discussed these issues and provided recommendations for strategies that may move towards a lower burden of this malignancy among AN people, including both research and clinical programmes [55]. In the present study, we also identified colorectal cancer as a leading disparity, with AN people experiencing among the highest recorded rates in the world [56]. The Alaska Native Tribal Health Consortium and its Tribal health partners statewide are engaged in a breadth of research and programming to inform both primary prevention [19,54], and increased screening [20,54,57,58] among AN people.
+While we did not directly compare rates among AN people to those among other Indigenous Circumpolar populations in this report, we can place our findings in the context of previous reports focused on the region. For example, we reported lung and colorectal cancers as the leading causes of cancer death among AN people. In 2016, Young and colleagues identified colorectal and lung cancers as of increasing public health concern across Arctic Indigenous peoples, showing that incidence was higher than the GLOBOCAN average for Arctic Indigenous peoples spanning Alaska, Northwest Territories, Nunavut and Greenland [4]. Herein, we also describe stomach cancer disparities among AN people. A recent study by Simkin and colleagues demonstrated that, despite some recent declines in stomach cancer incidence across several Circumpolar Indigenous populations, many regions continued to experience high rates and large disparities [2]. A recent examination of health indicators (health status, health determinants, and health care) across Alaska, Greenland and the northern regions of Canada, Russia and the Nordic countries showed that Indigenous peoples generally fared worse than their non-Indigenous counterparts [59], which may contribute to these cancer disparities. However, the authors also noted the lack of consistent health status data with the exception of for Alaska, and called for increased and ongoing health monitoring across the region. Our data, as well as other studies from the ANTR that combine registry data with information on health status and behaviours [22,60], indicate how powerful health surveillance data can be in monitoring and programme evaluation among AN people, and may provide an example for other Arctic nations and Indigenous peoples interested in improving the health of their communities.
+Yet, while comparisons to other populations can be helpful, it is also very informative to focus only on AN people, for example examining how rates vary over time. Examining trends in cancer incidence can show us whether, and how, we are making progress; where we are being successful in our efforts to decrease cancer burden among AN people; and where we still have room to improve. Having 50 years of surveillance data is uncommon, and provides a rare opportunity to examine very long-term trends among AN people. In the present manuscript, we focused on trends among all cancer sites, as well as the three leading cancers of focus. We observed increases in female breast cancer incidence among AN women during the 1970s and 1980s, during which time rates increased from being substantially lower than that observed among USW, to almost identical; more detailed information on this malignancy was reviewed in a recent paper on this topic by our group [61]. Colorectal cancer rates have remained steadily high for the entire period of surveillance, despite increases in colorectal cancer screening [22]. Of note, rates among USW have declined slowly but steadily over the last decades but we have not seen these same declines among AN people; this leads to increasing disparity. Efforts to address this issue are described above. National and global lung cancer trends have shown strong correlations with smoking prevalence [62], as smoking can be linked to 85% of lung cancer cases [63]. We observed slight declines in lung cancer incidence over time among AN people. Data from the Alaska Behavioural Risk Factor Surveillance System indicate that smoking prevalence decreased among AN people from 44% during 1991–1993 to 36% during 2015–2017 [38]. Together, these data indicate continuing need for further work in research, programming and policy towards cancer prevention and control within the Alaska Tribal Health System.
+This study had several strengths and limitations that warrant consideration. A key strength of this work is the long history of data collected by the ANTR about and for AN people. This provides a rare opportunity to examine long-term cancer trends among AN people. The ANTR has followed SEER’s data collection protocols since its inception; therefore, it represents a high-quality source of cancer data. A key limitation is that because the AN population is small, case counts and numbers of deaths even from the leading cancers were small. To maximise the number of cases for each cancer site, we aggregated data over several years. However, there were still many cancer sites for which we were unable to present data due to low case counts. Regardless, the small number of cases do not diminish the importance of such research [64], as providing population-specific data is critical.
+This study presents the most up-to-date information on cancer among AN people, and celebrates 50 years of cancer surveillance among AN people. These data are unique across the Circumpolar North, and provide important information for clinicians, tribal health leaders, and public health practitioners to support cancer prevention and control among AN people. Monitoring cancer rates and trends is an essential tool for understanding the health status of Arctic Indigenous populations, identifying potential areas for preventive programmes and policies, and for gaining insight into the efficacy of policy changes or public health campaigns. The ANTR’s regular publication of these data every 5 years allows for continued benchmarking of progress towards reducing the burden of cancer among AN people.
+Supplementary Material
+Supplemental Material
+Click here for additional data file.

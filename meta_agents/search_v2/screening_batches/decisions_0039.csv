@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2300,exclude,Not a US population-based/registry study,galcanezumab migraine Japan
+2301,exclude,Not a US population-based/registry study,clinical trial access India
+2302,include,,SEER BC incidence by Asian American ethnic group ER status
+2303,exclude,Not relevant to the research question/topic,overdiagnosis racial disparities SEER
+2304,exclude,Not relevant to the research question/topic,ginsenosides anticancer
+2305,exclude,Not a US population-based/registry study,cancer epidemiology Indonesia HBCR
+2306,exclude,Not a US population-based/registry study,BCL-2 India polymorphisms
+2307,exclude,Not a US population-based/registry study,emotional status decision Korea
+2308,exclude,Not a US population-based/registry study,germline Tuvans Russia
+2309,exclude,Not relevant to the research question/topic,moxibustion myelosuppression trial
+2310,exclude,Not relevant to the research question/topic,germline BRCA1 case series
+2311,exclude,Not a US population-based/registry study,increasing mortality Korea
+2312,exclude,Not a US population-based/registry study,follow-up imaging mortality Korea
+2313,exclude,Not a US population-based/registry study,LOC105371267 China
+2314,exclude,Not a US population-based/registry study,HER2 treatment China vs international
+2315,exclude,Not relevant to the research question/topic,BC bone metastases SEER nomogram
+2316,exclude,Not a US population-based/registry study,RETRACTED BRCA ovarian China
+2317,exclude,Not a US population-based/registry study,albumin paclitaxel meta-analysis tombstone
+2318,exclude,Not relevant to the research question/topic,high-risk BC risk factors chapter
+2319,exclude,Not a US population-based/registry study,diet BC chapter Asia
+2320,exclude,Not relevant to the research question/topic,critical theoretical BC disparities SDOH
+2321,exclude,Not relevant to the research question/topic,minority under-representation immunotherapy trials
+2322,exclude,Not relevant to the research question/topic,immature granulocyte axillary metastasis
+2323,exclude,Not relevant to the research question/topic,RFA liver immune trial
+2324,exclude,Not relevant to the research question/topic,diet quality BC MEC
+2325,exclude,Not relevant to the research question/topic,OA/AS solid cancers Medicare
+2326,exclude,Not relevant to the research question/topic,Cherenkov imaging RT
+2327,exclude,Not relevant to the research question/topic,sarcomatoid carcinoma SEER
+2328,exclude,Not relevant to the research question/topic,AEGIS spatial CDM tool
+2329,exclude,Not a US population-based/registry study,education income cancer Norway
+2330,exclude,Not relevant to the research question/topic,genetic factors cancer racial disparity TCGA
+2331,exclude,Not relevant to the research question/topic,G-CSF duration Medicare
+2332,exclude,Not a US population-based/registry study,provegetarian BC Mediterranean cohort
+2333,exclude,"Editorials, commentaries, letters, or conference abstracts",SGO conference review
+2334,exclude,Not a US population-based/registry study,hypofractionated RT China trial
+2335,exclude,Not relevant to the research question/topic,BCAA obesity cancer WHS
+2336,exclude,Not relevant to the research question/topic,PM2.5 cancer incidence SEER
+2337,exclude,Not a US population-based/registry study,pegfilgrastim TAC Korea
+2338,exclude,Not relevant to the research question/topic,interval BC DM vs DBT community
+2339,exclude,Not a US population-based/registry study,LTFU Sub-Saharan Africa ABC-DO
+2340,exclude,Not relevant to the research question/topic,mapping mammography access Arkansas
+2341,exclude,Not relevant to the research question/topic,etoricoxib taxane pain trial
+2342,exclude,Not relevant to the research question/topic,BC incidence/mortality Germany vs US
+2343,exclude,Not a US population-based/registry study,endocrine relapse Europe
+2344,exclude,Not a US population-based/registry study,remote US screening China
+2345,exclude,Not relevant to the research question/topic,GWAS TNBC critical analysis
+2346,exclude,Not relevant to the research question/topic,SPM mycosis fungoides SEER
+2347,exclude,Not a US population-based/registry study,BC risk prediction Korea
+2348,exclude,Not a US population-based/registry study,reproductive factors dementia Korea
+2349,exclude,Not relevant to the research question/topic,selenium BC WHI
+2350,exclude,Not relevant to the research question/topic,family history BC/prostate PLCO
+2351,exclude,Not a US population-based/registry study,PA/BMI/reproductive Iran
+2352,exclude,Not a US population-based/registry study,Huaier Granule meta-analysis
+2353,exclude,Not a US population-based/registry study,BC migrant background Belgium
+2354,exclude,Not a US population-based/registry study,metastatic spinal tumors Korea
+2355,exclude,Not relevant to the research question/topic,recurrence predictor trial
+2356,exclude,Not relevant to the research question/topic,granisetron CINV trial
+2357,exclude,Not a US population-based/registry study,cardiotoxicity Korea
+2358,exclude,Not a US population-based/registry study,bone metastasis SRE Korea
+2359,exclude,Not a US population-based/registry study,global screening perspective

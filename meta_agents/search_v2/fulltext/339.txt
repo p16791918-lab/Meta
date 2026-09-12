@@ -1,0 +1,1327 @@
+record_id=339 pmid=20167158 doi=
+SOURCE: manual-pdf
+TITLE: Cancers of the breast, uterus, ovary and cervix among Alaska native women, 1974-2003
+
+International Journal of Circumpolar Health
+ISSN: 2242-3982 (Online) Journal homepage: www.tandfonline.com/journals/zich20
+Cancers of the breast, uterus, ovary and cervix
+among Alaska Native women, 1974–2003
+Gretchen Ehrsam Day, Anne P. Lanier, Lisa Bulkow, Janet J. Kelly & Neil
+Murphy
+To cite this article: Gretchen Ehrsam Day, Anne P. Lanier, Lisa Bulkow, Janet J. Kelly &
+Neil Murphy (2010) Cancers of the breast, uterus, ovary and cervix among Alaska Native
+women, 1974–2003, International Journal of Circumpolar Health, 69:1, 72-86, DOI: 10.3402/
+ijch.v69i1.17388
+To link to this article:  https://doi.org/10.3402/ijch.v69i1.17388
+© 2010 The Author(s). Published by Taylor &
+Francis.
+Published online: 18 Mar 2012.
+Submit your article to this journal 
+Article views: 360
+View related articles 
+Citing articles: 1 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=zich20
+
+72
+International Journal of Circumpolar Health 69:1 2010
+ORIGINAL  ARTICLE
+Cancers of the breast, uterus, 
+ovary and cervix among Alaska 
+Native women, 1974–2003 
+Gretchen Ehrsam Day 1, Anne P. Lanier 1, Lisa Bulkow 2, Janet J. Kelly 1, Neil Murphy 3
+1 Office of Alaska Native Health Research, Division of Community Health Services, Alaska Native Tribal Health
+  Consortium, Anchorage, USA
+2 Centers for Disease Control, Arctic Investigations Program, Anchorage, USA
+3South Central Foundation, Anchorage, USA 
+Received 30 May 2007; Accepted 13 August 2009
+ABSTRACT
+Objectives. Alaska Native (AN) women have exhibited some of the highest incidence rates of 
+cancer overall, and different patterns of site-specific incidence compared to other U.S. popu-
+lations. This study compares incidence rates between AN and U.S. white women (USW) for 
+cancers of the breast, uterus, ovary and cervix, and examines effects of time period and birth 
+cohort as determinants of incidence trends among AN women.
+Study design. Observational, population-based study.
+Methods. Cancer incidence data from the Alaska Native Tumor Registry and SEERStat, 1974–
+2003. Age-adjusted World Standard Population rates were calculated for a current 5-year period 
+and over time (30 years), and compared to other populations using rate ratios with 95% confi-
+dence intervals. Log-linear regression models used to assess impact on trend of age, time period 
+and birth cohort. 
+Results. Compared to U.S. white women, current cancer rates among AN women are not 
+significantly different for cancer of the breast and cervix, and significantly lower for cancers of 
+the ovary and uterus. Trends over time over a 30-year time period also differ for these cancer 
+sites. There were significant increases in breast and uterine cancer, and in contrast, a marked 
+decline in cervical cancer. There was no significant change for cancer of the ovary. Changes 
+appear to be due largely to period, not birth cohort effects. 
+Conclusions. Increases in breast cancer may be due to a combination of modifiable behaviours; 
+increased BMI and a shift to a non-traditional diet. Increases in uterine cancer could be associ-
+ated with increased BMI and diabetes. Cervical cancer rates have declined to USW levels. The 
+marked decline is likely due to enhanced screening and control efforts within the Alaska Native 
+Women’s cancers among Alaska Natives
+
+73
+International Journal of Circumpolar Health 69:1 2010
+Tribal Health System (formerly Alaska Area USPHS, Indian Health Service utilizing resources 
+available from the Centers for Disease Control tribal and state Breast and Cervical Cancer Early 
+Detection Programs).
+(Int J Circumpolar Health 2010; 69(1): 72–86)
+Keywords: neoplasm, Alaska Native, breast cancer, uterus cancer, ovarian cancer, cervix cancer, 
+cancer incidence, cancer trends, period effect, birth cohort
+Supplementary material related to this article available at www.ijch.fi
+INTRODUCTION
+Cancers of the breast, cervix, uterus and ovaries 
+account for approximately 40% of neoplasms 
+in women worldwide (1). In general, high rates 
+for cancers of the breast, uterus and ovary are 
+seen in Western, industrialized nations, partic-
+ularly northern Europe and North America, 
+whereas lower rates are observed in less indus-
+trialized and Asian nations (1,2). Conversely, 
+rates are much higher for cervical cancer in 
+underdeveloped countries, where 80% of all 
+cases occur (3). 
+Incidence rates of breast cancer have 
+increased in most areas of the world until 
+recently. By and large, regions with historically 
+low rates have been experiencing the largest 
+percentage increases (1). Breast cancer in the 
+U.S. increased approximately 26% for all races 
+during the 1980s, and less rapidly through the 
+1990s (4). Rates decreased by 3.5% per year 
+from 2001 to 2004. This decline is prob-
+ably due to declines in hormone replacement 
+therapy use (5). In contrast, uterine cancer 
+incidence rates in northern Europe and North 
+America have declined overall during the last 
+50 years (6). Ovarian cancer rates in northern 
+Europe and North America have remained 
+almost constant over the last 2 to 3 decades. 
+An increase in ovarian cancer rates, however, 
+has been reported in Japan and developing 
+countries (3). Cervical cancer incidence has 
+declined dramatically in industrialized coun-
+tries, but declines are also evident in some 
+developing countries. This trend could be 
+partially attributed to the widespread practice 
+of screening and treatment of preneoplastic 
+cervical lesions (1). 
+In the United States, Alaska Native (AN) 
+women have exhibited different patterns of 
+incidence for cancers of the breast, uterus, 
+ovary and cervix from all other U.S. races. A 
+1998 report of U.S. cancer rates by race and 
+ethnicity showed that compared to U.S. white 
+women, AN women had moderate rates of 
+breast cancer, very low rates of uterine cancer, 
+similar rates of ovarian cancer and the highest 
+cervical cancer rates of all racial and ethnic 
+groups in the U.S. (7). 
+Before 1950, cancer among Alaska Natives 
+was thought to be a rare occurrence. Now, 
+the overall cancer incidence rates for all 
+cancers combined among AN women equals 
+that of USW women, while rates in AN men 
+are nearly as high as those of USW men (8). 
+Additionally, cancer among Alaska Natives is 
+Women’s cancers among Alaska Natives
+
+74
+International Journal of Circumpolar Health 69:1 2010
+the leading cause of death. A report of cancer 
+mortality among Alaska Natives, 1994–1998, 
+showed that Alaska Native rates exceeded U.S. 
+white rates by 30% for both women (AN women 
+261.8 vs. USW women 201.8 per 100,000) and 
+men (AN men 187.2 vs. USW men 141.6 per 
+100,000) (9). Comparisons of cancer mortality 
+between Indian Health Service (IHS) areas 
+suggest marked differences in cancer patterns 
+between American Indians/Alaska Natives 
+residing in different geographic areas of the 
+U.S. (10,11). 
+During the 30 years of our study period, 
+Alaska Natives experienced many changes in 
+their lifestyle and diet, as well as the manage-
+ment and delivery of health care services. These 
+changes may have impacted reproductive prob-
+lems and other factors known to be significant 
+risks for specific cancers in women. We studied 
+trends in the incidence of cancers of the breast, 
+uterus, ovary and cervix in AN women for the 
+period 1974–2003 specifically to examine the 
+effects of time period and birth cohort on inci-
+dence. We conducted an exploratory search 
+without any a priori assumptions. Additionally, 
+we provided updated comparisons of incidence 
+rates between AN and USW women for the 
+most recent 5-year period, 1999–2003.
+METHODS
+Study population
+The U.S. Bureau of the Census estimates that 
+in the year 2000, there were 119,499 Alaska 
+Natives residing in Alaska, 97,012 of whom 
+checked only the American Indian/Alaska 
+Native (AI/AN) category for race among 
+multiple options. Annual population estimates 
+for Alaska Natives were based on the Indian 
+Health Service (IHS) population estimates for 
+1974 to 2003, which used U.S. Census data 
+provided by National Center for Health Statis-
+tics (NCHS), and IHS Alaska Area user popu-
+lation information. 
+Source of incidence data
+Incidence data for AN women in this report 
+are from the Alaska Native Tumor Registry 
+(ANTR). Beginning with data from 1969, this 
+registry includes all AN patients statewide who 
+were eligible for Indian Health Service benefits 
+and who were diagnosed with invasive cancer 
+while a resident of Alaska. Data for the 30-year 
+period, 1974–2003, were examined for this 
+study. The ANTR has been one of the National 
+Cancer Institute’s Surveillance, Epidemiology 
+and End Results (SEER) program registries 
+since 2001. Data, however, have been collected 
+in accordance with SEER guidelines since 
+the registry’s inception (11). Case ascertain-
+ment is thought to be nearly complete for the 
+entire study period. The majority of cases were 
+confirmed by pathology (90%). Data for U.S. 
+white women for the years 1974 to 2003 are 
+from the SEER public-use datafile (12).
+Rate calculations
+All incidence rates were adjusted to the World 
+Standard Population. We created rate ratios for 
+comparison between AN women and USW 
+women, and calculated confidence intervals 
+around these ratios (13). We considered AN 
+women’s rates significantly different if the 
+95% confidence interval around the ratio did 
+not contain one. We used StatsDirect software 
+to calculate these confidence intervals. Age-
+stratified Mantel-Haenszel Chi Square Tests for 
+Trend were calculated to determine significant 
+changes for AN cancer rates over time (14). 
+Women’s cancers among Alaska Natives
+
+75
+International Journal of Circumpolar Health 69:1 2010
+Percent change over the 30-year period was 
+calculated using the difference in rates between 
+the most recent 5-year period (1999–2003) and 
+the earliest 5-year period (1974–1978) divided 
+by the earliest 5-year period.
+Age-specific rates
+Age-specific rates for each 10-year age group for 
+AN women were compared with USW women 
+for each cancer site for the entire 30-year study 
+period. Since there were small numbers of 
+cases for all but breast cancer, age was strati-
+fied into 2 groups (age under 50 vs.50 years 
+and over). These age groupings were selected 
+as a proxy for menopausal status. Rates were 
+age-adjusted within these 2 groups, and the 
+analysis performed for 3 10-year time periods, 
+1974–1983, 1984–1993, and 1994–2003. For 
+consistency, breast cancer was also examined 
+using the 2 age groups, as well as 10-year time 
+periods Log scale transformations of the rates 
+were performed to more clearly demonstrate 
+relative differences on the graphs. However, 
+percent changes in pre- and postmenopausal 
+rates over time reported in the narrative were 
+calculated using the non-transformed rates.
+Age-period-cohort analysis
+Log-linear regression models were used to 
+assess the relative impact of age, time period 
+and birth cohort on cancer rates. The observed 
+numbers of cases were assumed to follow a 
+Poisson distribution. Models assessed included 
+the full model with age, time period and birth 
+cohort effects, and reduced models with age and 
+birth cohort, age and time period or age alone. 
+In addition, age was also examined as a contin-
+uous variable with possible linear, quadratic and 
+cubic effects, and time period was assessed as 
+a continuous variable (referred to as age-drift). 
+Goodness-of-fit was examined for all models 
+and the significance of effects was assessed by 
+changes in the scaled deviance. Models were fit 
+both including and excluding single cohorts at 
+the ends of the birth cohort spectrum (15).
+Because of small numbers of cases, rates 
+were calculated for 10-year age and period cate-
+gories for cervical, uterine and ovarian cancer, 
+and for both 10-year and 5-year groups for 
+breast cancer. For 10-year groups, cases aged 
+20 to 79 years were analysed. This age range 
+was selected because of the small numbers of 
+cases in 10-year age groups that were older or 
+younger. Analysis of breast cancer cases by 5-
+year groups covered the entire 30 year period 
+and included cases aged 25 to 79 years. Birth 
+cohort was calculated as the interaction of age 
+group and time period. In order to fit the full 
+model, constraints were placed on the birth 
+cohort effect. Differing constraints result in 
+different parameter estimates, but relative 
+changes can be interpreted. 
+RESULTS
+During the 30-year period, 1974 to 2003, AN 
+women experienced 2,977 invasive cancers. 
+Among these, 1,092 (37%) were at the 4 sites 
+reported in this study: 773 breast, 66 uterus, 97 
+ovary and 156 cervix.
+Breast cancer
+Breast cancer was the most frequently diag-
+nosed cancer among AN women for the first 10 
+years of the study period, 1974–1983, and the 
+most frequent during the current 5-year period, 
+1999–2003. It was also the most frequently 
+occurring cancer among USW women during 
+both these time periods (Table I). During the 
+Women’s cancers among Alaska Natives
+
+76
+International Journal of Circumpolar Health 69:1 2010
+	
+Table I. Ranking of cancer incidence for Alaska Native and U.S. white women for the earliest period and the most recent 	
+	
+time period.
+	
+1974–1983	
+1974–1983	
+1999–2003	
+1999–2003
+	
+Alaska Native Women	 U.S. White Women	
+Alaska Native Women	
+U.S. White Women
+	
+1	 Breast 	
+Breast	
+1	
+Breast	
+Breast
+	
+2	 Colon and Rectum	
+Colon and Rectum	
+2	
+Colon and Rectum	
+Lung and Bronchus
+	
+3	 Cervix Uteri 	
+Uterus 	
+3	
+Lung and Bronchus	
+Colon and Rectum
+	
+4	 Lung and Bronchus	
+Lung and Bronchus	
+4	
+Stomach	
+Uterus
+	
+5	 Ovary	
+Ovary	
+5	
+Thyroid	
+Melanoma
+	
+6	 Kidney and	
+Non-Hodgkins 	
+6	
+Uterus	
+Non-Hodgkins 	
+	
+	
+Renal Pelvis	
+Lymphoma	
+	
+	
+Lymphoma
+	
+7	 Gallbladder 	
+Cervix Uteri 	
+7	
+Pancreas	
+Ovary
+	
+8	 Pancreas 	
+Leukemia	
+8	
+Kidney and 	
+Thyroid
+	
+	
+	
+	
+	
+Renal Pelvis
+	
+9	 Thyroid	
+Melanoma 	
+9	
+Cervix Uteri	
+Urinary Bladder
+	
+10	 Nasopharynx	
+Pancreas	
+10	 Ovary	
+Leukemia
+	
+11	 Stomach	
+Urinary Bladder	
+11	 Non-Hodgkins 	
+Pancreas
+	
+	
+	
+	
+	
+Lymphoma
+	
+12	 Uterus	
+Stomach 	
+12	 Leukemia	
+Kidney and 
+	
+	
+	
+	
+	
+	
+Renal Pelvis
+	
+13	 Non-Hodgkins 	
+Thyroid	
+13	 Multiple Myeloma	
+Cervix Uteri
+ 	
+	
+Lymphoma
+Table II. Comparison of age-adjusted† incidence rates for cancers of the breast, uterus, ovary and cervix by 5-year period 
+among Alaska Native women and U.S. white women 1974–2003.
+ 	
+	
+     Breast	
+	
+	
+    Uterus
+Year  	
+Alaska	
+	
+	
+	
+Alaska
+Diagnosis  	
+Natives	
+USW	
+RR	
+95%CI	
+Natives	
+USW	
+RR	
+95%CI
+1974–78	
+47.0(43)	
+77.0	
+0.61*	
+0.45–0.83	
+1.6(3)	
+26.3	
+0.06*	
+0.008–0.42
+1979–83	
+45.5(53)	
+78.1	
+0.58*	
+0.44–0.77	
+3.4(5)	
+20.8	
+0.16*	
+0.06–0.44
+1984–88	
+69.8(95)	
+93.6	
+0.75*	
+0.61–0.91	
+4.9(6)	
+18.6	
+0.26*	
+0.12–0.59
+1989–93	
+79.3(135)	
+96.2	
+0.83*	
+0.69–0.98	
+8.5(15)	
+18.2	
+0.47*	
+0.28–0.80
+1994–98	
+99.7(211)	
+100.2	
+0.99	
+0.87–1.14	
+7.4(15)	
+18.6	
+0.40*	
+0.24–0.67
+1999–03	
+96.3(236)	
+100.7	
+0.96	
+0.84–1.09	
+9.6(22)	
+18.5	
+0.52*	
+0.34–0.80
+	
+	
+	
+	
+	
+	
+	
+	
+% Change	
+105↑	
+31↑	
+	
+	
+500↑	
+30↑	
+	
+ 	
+	
+     Ovary	
+	
+	
+    Cervix
+Year 	
+Alaska	
+	
+	
+	
+Alaska  
+Diagnosis	
+Natives	
+USW	
+RR	
+95%CI	
+Natives	
+USW	
+RR	
+95%CI
+1974–78	
+9.9(9)	
+12.5	
+0.79	
+0.41–1.52	
+30.5(27)	
+9.8	
+3.11*	
+2.11–4.60
+1979–83	
+8.8(10)	
+11.9	
+0.74	
+0.40–1.39	
+31.1(41)	
+7.9	
+3.95*	
+2.87–5.43
+1984–88	
+9.6(14)	
+12.2	
+0.79	
+0.46–1.34	
+17.7(29)	
+7.5	
+2.38*	 1.63–3.48
+1989–93	
+13.9(25)	
+11.6	
+1.21	
+0.80–1.80	
+14.7(29)	
+7.6	
+1.92*	
+1.32–2.80
+1994–98	
+13.0(26)	
+10.9	
+1.19	
+0.81–1.76	
+5.0(12)	
+6.8	
+0.74	
+0.41–1.32
+1999–03	
+5.2(13)	
+10.5*	
+0.53	
+0.30–0.92	
+6.4(18)	
+5.8	
+1.12	
+0.70–1.79
+	
+	
+	
+	
+	
+	
+	
+	
+% Change	
+47 (NS)	
+16↑	
+	
+	
+79↑	
+41↑	
+	
+( ) Numbers of Alaska Native cancer cases in Alaska.	
+	
+* 95% Confidence intervals do not overlap for Alaska Native versus U.S. white rates.	
+†Adjusted by the direct method to the World Standard Population.	
+↓↑ Direction of statistically significant trend
+Women’s cancers among Alaska Natives
+
+77
+International Journal of Circumpolar Health 69:1 2010
+Figure 1. Age-specific incidence rates for invasive breast cancers among Alaska Native 
+women and U.S white women, 1974–2003.  
+most recent 5-year period, 1999–2003, AN 
+women experienced 236 new cases of invasive 
+breast cancer. As shown in Table II, the age-
+adjusted invasive breast cancer rate for AN 
+women for this period appears to be lower, 
+although not significantly lower, than that for 
+USW women (96.3 vs. 100.7 per 100,000). 
+Over the period 1974–2003, age-adjusted 
+rates for invasive breast cancer increased 
+105% for AN women, compared to a 31% 
+increase for USW women in the same period, 
+1974–2003 (Table II). 
+Figure 1 shows age-specific breast cancer 
+rates by 10-year age groups for the period 
+1974–2003 among AN and USW women. 
+Breast cancer first appears in the 10–19 
+age group for both AN and USW women. 
+Rates were similar through the 50–59 age 
+group. Age-specific rates for ages 60 and 
+over were significantly lower for AN versus 
+USW women. Among AN women there was 
+little increase in rates from 50 years onward. 
+However, rates continued to rise with age for 
+USW. 
+Supplementary Figure 1 (http://www.ijch.
+fi/issues/691/SupplementaryDay.pdf) shows 
+Women’s cancers among Alaska Natives
+Figure 2. Invasive breast cancer among Alaska Native women by birth cohort, 1974–2003.
+ 
+
+78
+International Journal of Circumpolar Health 69:1 2010
+Figure 3.  Age-specific incidence rates for uterine cancers among Alaska Native 
+women and U.S. white women 1974–2003.
+Figure 4. Uterine cancer among Alaska Native women by birth cohort, 1974–2003.
+trends for 2 age groups (<50 years and ≥50) 
+over the study period for AN and USW 
+women. There were significant increases in 
+breast cancer rates among both age groups 
+for AN women. Incidence rates for women 
+<50 increased 44% compared to increased 
+incidence of 154% for women ≥50 years. 
+Among USW women, rates also increased 
+significantly, but to a lesser extent for both 
+age groups (7% and 43%, respectively). 
+An analysis of age-period-cohort effects 
+showed that changes in breast cancer inci-
+dence by birth cohort were not significant 
+after controlling for changes by period of 
+diagnosis (Fig. 2). There was a statistically 
+significant linear increase in invasive breast 
+cancer rate by year of diagnosis for the period 
+1974 to 2003. The final model included age 
+(linear, quadratic and cubic effects) and a 
+period effect. 
+Uterine cancer
+Uterine cancer ranked twelfth in cancer inci-
+dence among AN women during the first 
+10 years of the study, 1974–1983, and now 
+ranks sixth. It ranked third among USW 
+Women’s cancers among Alaska Natives
+
+79
+International Journal of Circumpolar Health 69:1 2010
+women during the 1974–1983 period, and 
+currently ranks fourth (Table I). During the 
+most recent 5-year period, 1999–2003, AN 
+women experienced 22 new cases of uterine 
+cancer. Shown in Table II, the age-adjusted 
+uterine cancer rate for AN women for the 
+most recent period was less than half that for 
+USW women (9.6 vs. 18.5 per 100,000). AN 
+women’s rates have been significantly lower 
+than USW women’s rates throughout the 
+entire 30-year study period. Over the study 
+period, age-adjusted rates for uterine cancer 
+for AN women increased 500%. In contrast, 
+rates declined 30% among USW women 
+(Table II). 
+Figure 3 shows uterine cancer among both 
+AN and USW women occurs early (10–19 
+age group) and peaks in the 60–69 year age 
+group. Rates were significantly lower among 
+AN women as compared to USW women for 
+all age groups 40 years and older. 
+Examining trends by 2 age groups (<50 
+and ≥50) as shown in Supplementary Figure 
+2 (http://www.ijch.fi/issues/691/Supplementa-
+ryDay.pdf), there was no significant change in 
+rates for women <50, whereas rates for AN 
+women ≥50 increased significantly by 454% 
+over the 30-year study period. Among USW 
+women, rates declined significantly for both 
+age groups (16% and 17%, respectively). 
+An analysis of age-period-cohort effects 
+resulted in a final model containing age 
+(linear and quadratic terms), as well as a 
+birth cohort effect. Cohorts that correspond 
+primarily to women born from 1929 through 
+1943 were significantly different from the 
+other cohorts (Fig. 4). Changes in uterine 
+cancer incidence by period of diagnosis were 
+not significant after controlling for changes 
+by birth cohort. 
+Ovarian cancer
+Ovarian cancer ranked fifth in cancer inci-
+dence among AN women for all cancers 
+diagnosed during the first 10 years of the 
+study period, 1974–1983. Ovarian cancer 
+now ranks tenth. Among USW women, 
+ovarian cancer ranked fifth for the period 
+1974–1983, and is currently seventh (Table 
+I). During the most recent 5-year period, 
+1999–2003, AN women experienced 13 new 
+cases of ovarian cancer. There was no signifi-
+cant trend in age-adjusted rates for ovarian 
+cancer among AN women across the 30-year 
+period, 1974–2003. Rates for USW women 
+declined 16% from 1974–2003. As shown in 
+Table II, the age-adjusted ovarian cancer rate 
+for AN women for the period 1999–2003 was 
+less than half that of USW women (5.2 vs. 
+10.5 per 100,000), however, this was the only 
+5-year period in which AN rates were signifi-
+cantly lower than USW.
+Figure 5 shows that ovarian cancer rates 
+for both AN and USW women began in 
+the 0–9 age group and were similar for age 
+groups less than 60. AN women experienced 
+significantly lower rates among the 60 and 
+over age groups. Rates for both AN and USW 
+women peaked in the 70+ age group. 
+As shown in Supplementary Figure 3 (http:
+//www.ijch.fi/issues/691/SupplementaryDay.
+pdf), there were no significant trends in rates 
+over time for either pre- or postmenopausal 
+groups among AN women. Among USW 
+women, rates declined significantly among 
+women <50 (26%), and 3% for USW women 
+≥50. 
+An age-period-cohort analysis of ovarian 
+cancer rates demonstrated that neither period 
+of diagnosis, nor birth cohort better explained 
+the model than age at diagnosis. 
+Women’s cancers among Alaska Natives
+
+80
+International Journal of Circumpolar Health 69:1 2010
+Women’s cancers among Alaska Natives
+Cervical cancer
+Invasive cervical cancer ranked third in 
+cancer incidence among AN women for 
+the period 1974–1983. However, incidence 
+rates have declined dramatically since the 
+peak in the 1974–1978 time period, and 
+currently ranks ninth for the most recent 5-
+year period (1999 to 2003). Cervical cancer 
+ranked seventh for USW women for the 
+period 1974–1983, and currently ranks thir-
+teenth (Table I). During the most recent 5-
+year period, 1999–2003, AN women expe-
+rienced 18 new cases of invasive cervical 
+cancer. The age-adjusted cervical cancer 
+rate for AN women for the most recent 5-
+year study period, 1999–2003, was not 
+significantly different from that for USW 
+women (6.4 vs. 5.8 per 100,000) (Table II). 
+Rates over time for invasive cervical cancer 
+among AN have varied from those of other 
+cancers. Based on data from the Alaska 
+Native Tumor Registry, cervical cancer inci-
+dence rates were high during the first time 
+period (1974–1978), rose slightly, and then 
+declined. Over the 30-year period, 1974–
+2003, age-adjusted rates for cervical cancer 
+Figure 5. Age-specific incidence rates for ovarian cancers among Alaska Native 
+women in Alaska and U.S. white women 1974–2003.
+Figure 6. Age-specific incidence rates for cervical cancers among Alaska Native 
+women and U.S. white women 1974–2003.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+10-19
+20-29
+30-39
+40-49
+50-59
+60-69
+70+
+10Year AgeGroups
+Rate per 100,000
+AlaskaNatives
+US White
+
+81
+International Journal of Circumpolar Health 69:1 2010
+Women’s cancers among Alaska Natives
+decreased 79% among AN women. Among 
+USW women, the 1999–2003 rate represents 
+a decline of 41% from the 1974–1978 time 
+period (see Table II). 
+Figure 6 shows that cervical cancer was 
+diagnosed as early as the second decade of 
+life (ages 10–19) among both AN and USW 
+women. Among USW women, rates rose 
+steeply until the 30–39 age group. A slow 
+rise in rates follows, with the highest rate in 
+the 60–69 age group. Among AN women, 
+rates rose steadily to peak in the 50–59 age 
+group. AN women rates were higher than 
+USW women rates for all age groups except 
+the earliest (ages 10–19), and significantly 
+higher for age groups 20 to 59. 
+Examining cervical cancer rates over 
+time by 2 age groups (<50 and ≥50) revealed 
+significant decreases in rates among both age 
+groups (Supplementary Figure 4, http://www.
+ijch.fi/issues/691/SupplementaryDay.pdf).
+Among USW women, rates also declined 
+over time for both age groups. Rates for 
+AN women ≥50 were higher than those 
+<50 for all age groups, but only signifi-
+cantly higher for the 1974–1978 time 
+period. Rates for USW women ≥50 were 
+significantly higher at every time point 
+compared to rates for USW women <50. 
+An analysis of age-period-cohort effects 
+showed a significant linear decrease in cer-
+vical cancer rates by period of diagnosis. 
+The final model contained terms for age 
+(linear and quadratic), and an age-drift term 
+(period of diagnosis: 1974–1983; 1984–
+1993; 1994–2003) treated as a continuous 
+variable. Changes in cervical cancer inci-
+dence by birth cohort were not significant 
+after controlling for changes by period of 
+diagnosis.
+DISCUSSION
+In this study we reviewed age specific rates 
+and trends over time for breast, uterus, ovary 
+and cervix cancers among AN women to 
+examine the effects of age, time period and 
+birth cohort as determinants of incidence 
+trends. Prior studies of cancer in AN women 
+have demonstrated different patterns for these 
+cancers compared to other racial groups 
+within the U.S. (7). Therefore, we conducted 
+an analysis of these cancers in AN women to 
+better understand factors responsible for these 
+cancer patterns.
+This study has limitations which are the 
+result of a small number of cases, especially 
+for select cancers. However, it has strength in 
+that it uses population-based incidence data 
+that are available and complete for a 30-year 
+time period. Data collection has followed 
+SEER standards, and over 90% of cases 
+were confirmed by pathology. Risk factor 
+data have not been collected as completely 
+for the entire population, and only since 
+1991. Nonetheless, the marked changes in 
+rates over a relatively short period of time 
+(30 years) that appear to be due largely 
+to period effects rather than birth cohort 
+effects should be useful to future research 
+on cancer in this and other populations.
+The incidence of invasive breast cancer in 
+AN women had previously been half of USW 
+women’s rates, but is now nearly as high, 
+representing a 105% increase in 30 years. 
+This dramatic rise in breast cancer incidence 
+occurred in both pre- and postmenopausal 
+AN women (44% and 154%, respectively). 
+USW women have also experienced increases 
+for both pre- and postmenopausal breast 
+cancer during this time period, although of a 
+
+82
+International Journal of Circumpolar Health 69:1 2010
+Women’s cancers among Alaska Natives
+lesser magnitude (7% and 43%, respectively). 
+A recent study of cancer rates among Inuit 
+populations worldwide also shows a pattern of 
+lower breast cancer rates compared to USW, 
+with large increases in the last 2 decades. Rates 
+among Alaska Native women, however, are 
+more than twice those for Canadian and Green-
+land Inuit (16). 
+An age-period-cohort analysis of breast 
+cancer found that changes in rates among AN 
+women were not due to changes among birth 
+cohorts, but were best explained by a linear 
+period effect, suggesting that the change is due 
+to an exposure which effects all age groups 
+during a given time period. Some of the most 
+noticeable changes in the AN population over 
+the last half century are an increasing preva-
+lence of obesity and diabetes, and a change in 
+diet (17). Alaska BRFSS data show an increase 
+in the prevalence of overweight and obesity 
+(BMI≥25) from 54% in 1991–1993 to 66% 
+in 1999–2001. Prevalence of overweight and 
+obesity during the 1991–1993 and 1999–2001 
+time periods for U.S. women were 40% and 
+49%, respectively (18). Obesity is considered 
+a risk factor for breast, uterine and ovarian 
+cancer. Several prospective cohort studies have 
+shown that high BMI is related to a reduced risk 
+of breast cancer among premenopausal women 
+and an increased risk among postmenopausal 
+women (19). Since both pre- and postmeno-
+pausal rates increased among AN women, 
+increases in obesity levels alone do not appear 
+to explain rate changes. 
+An increase in the prevalence of diabetes 
+mellitus is associated with an increase in BMI, 
+while diabetes is also considered an indepen-
+dent risk factor for breast and uterine cancer 
+(20). Alaska Natives have a low prevalence 
+rate of diabetes (31 per 100,000 in 2000) as 
+compared to all U.S. race estimates (42 per 
+100,000 in 1999), although rates for Alaska 
+Natives increased 80% between 1985 and 
+1998 and continue to rise (17). However, New 
+Mexican AI women, who have much higher 
+rates of diabetes (88 per 1000 in 1999) (21) 
+than AN women, have significantly lower rates 
+of breast cancer (48.4 per 100,000 in 1999–
+2002) (11).
+The traditional diet of Alaskan Natives has 
+differed from that of non-Natives in the U.S. 
+However, changes in Native diet have occurred 
+over the last 3 decades, with increasing 
+consumption of store-bought food (22). Younger 
+age groups in particular appear to be eating less 
+traditional diets than older age groups. In a 
+recent study in northern Alaska, store-bought 
+foods were the main sources of energy, carbohy-
+drates, fat, saturated fat and fiber for AN adults 
+(22). Consumption of foods high in carbohy-
+drates has increased, while consumption of 
+foods rich in omega-3 fatty acids has declined. 
+Omega-3 fatty acids have been shown to inhibit 
+tumor formation in animal models (23,24). It is 
+possible that the traditional AN diet was protec-
+tive from breast and other cancers, and that this 
+protection is being lost with dietary change.
+Fertility rates among AN women, a protec-
+tive factor, have declined significantly during 
+the study period, although the percentage of 
+nulliparity has not changed significantly (25). 
+Other important risk factor data such as age at 
+first birth and prevalence of hormonal therapy 
+are not readily available for this population. 
+These data are important to collect for this 
+population. 
+Uterine cancer rates among AN women have 
+been low since data collection began in 1969, 
+as they have been for other AI groups (16,21). 
+During the study period, incidence rates for AN 
+
+83
+International Journal of Circumpolar Health 69:1 2010
+women appeared to increase 500%, while rates 
+for USW women declined 30%. However, the 
+numbers of deaths among AN women are so 
+small that even a missed case in the earliest time 
+period would greatly change the magnitude 
+of these trends. Still, although uterine cancer 
+rates for AN women have clearly increased 
+over the study period, they are now only about 
+half those of USW women. Examination of 
+uterine cancer rates for pre- and postmeno-
+pausal AN women revealed that increases were 
+significant only among post-menopausal (≥50 
+years) women. An age-period-cohort analysis 
+suggested that changes in uterine cancer rates 
+may be best explained by birth cohort effects. 
+Women born in birth cohorts between 1929 
+and 1943 appeared to be driving the increase 
+in uterine cancer rates. However, given that 
+uterine cancer typically occurs at an older age, 
+it is possible that the rate will increase for the 
+more recent birth cohorts as they age. If this 
+were to occur, it would more strongly suggest a 
+period effect rather than increased risk within a 
+particular birth cohort.
+Another important consideration is that the 
+prevalence of hysterectomies among AN wo-
+men, an obvious protective factor, has increased 
+during the study period. Age-adjusted rates of 
+annual hysterectomies based on Alaska Native 
+hospital data show that only 18.9 per 100,000 
+AN women received hysterectomies annually 
+in the first 5-year time period of our study as 
+compared to 1019.2 per 100,000 during the 
+1999–2003 time period (personal communica-
+tion Neil Murphy, June 2004). The increase in 
+hysterectomies may be masking a potentially 
+greater increase in uterine cancer, as well as a 
+period effect. 
+The strongest risk factors for uterine cancer 
+are exposure to exogenous or endogenous 
+estrogens and obesity (26). Birth cohort effects 
+for uterine cancer, therefore, might be due to 
+increased exposure to endogenous estrogens 
+caused by a decrease in age at menarche, or an 
+increase in nulliparity. Prevalence of nulliparity 
+in the population (9.7%) has not changed signif-
+icantly by birth cohort (25). There are currently 
+no published studies demonstrating a decline in 
+age at menarchy to support this. 
+While BMI levels have increased among 
+all age groups of AN women over the past 30 
+years, it is puzzling that uterine cancer rates 
+have only increased among postmenopausal 
+AN women. Uterine cancer is strongly and 
+positively associated with BMI regardless of 
+menopausal status (27). Diabetes incidence, 
+while related to BMI, is also an independent 
+risk factor for uterine cancer (28). Although 
+AN women have a lower prevalence of diabetes 
+than all other U.S. races, the prevalence over 
+the last decade has been steadily increasing 
+(17). It is possible that the increasingly high 
+prevalence of obesity and “rapidly increasing” 
+prevalence of diabetes are associated with the 
+increases in uterine cancer rates.
+AN women had similar rates of ovarian 
+cancer as USW women for the first 25 years 
+of the study period, while rates for AN women 
+for the 5-year period 1999–2003, were lower 
+than rates for USW women. Little is known 
+of the etiology of ovarian cancer, except that 
+advanced age, nulliparity and a family history 
+of ovarian cancer have been consistently 
+associated with an increased risk, whereas a 
+number of full-term pregnancies, history of 
+hysterectomy or tubal ligation and oral contra-
+ceptive use have been consistently associated 
+with decreased risk (15). 
+AN women had higher rates of ovarian 
+cancer with advancing years similar to USW. 
+Women’s cancers among Alaska Natives
+
+84
+International Journal of Circumpolar Health 69:1 2010
+Prevalence of nulliparity has not changed, and 
+so would not explain the lower rates in the most 
+recent 5-year period. Fertility rates among 
+AN women, a protective factor, have declined 
+significantly during the study period (25). 
+The prevalence of hysterectomies among AN 
+women, another protective factor, has increased 
+during the study period. Oral contraceptives, 
+also a protective factor for ovarian cancer, have 
+been increasingly available to AN women for 
+several decades. A 1992 study of AN women 
+found that 92% of women 20–29 had used or 
+were using oral contraceptives, and over half of 
+all AN women who had reached maturity in the 
+1960s or later had used oral contraceptives at 
+some time (29). Declines in ovarian cancer rates 
+are expected within 1 decade of introduction 
+of oral contraceptives (30). It seems unlikely 
+that oral contraceptive use would account for 
+the recent decline in rates, since such a large 
+percentage of the population has used it over the 
+last 3 decades. However, there is the possibility 
+that the very low rate of ovarian cancer among 
+AN women for the 1999–2003 period may be 
+a consequence of small numbers. An informal 
+examination of rates for the 2004–2008 time 
+period is inconclusive (the rate is halfway 
+between the 1994–1998 and 1999–2003 rates 
+for AN women). 
+AN women had invasive cervical cancer 
+incidence rates more than 3 times higher than 
+USW women during the first 10 years of our 
+study (1974–1983). Rates declined steadily from 
+this high point through the end of our study 
+period. Examining the data by 2 age groups 
+(proxy for menopausal status) showed that there 
+were excess cases among women 50 years and 
+over as well as women under 50 years, and that 
+the decline occurred in both groups. An anal-
+ysis of age-period-cohort effects found a linear 
+decrease in rates with period of diagnosis. 
+Human papillomavirus (HPV) infection is 
+a known cause of cervical cancer (30). Oral 
+contraceptives and smoking have been impli-
+cated as risk factors (31,32). Smoking rates 
+remain high, but may have declined among 
+AN women during the study period. Oral 
+contraceptive use also appears to have been 
+high throughout the study period (29). It seems 
+unlikely that changes in these factors played 
+a major role in the decline in AN women’s 
+cervical cancer rates. 
+Since HPV is a sexually transmitted disease, 
+the decline in cervical cancer could be due to 
+an increase in safe sex practices. Unfortunately, 
+since sexually transmitted disease rates among 
+AN women have been higher than national 
+averages throughout the entire study period, 
+this explanation is unlikely (33). 
+It is most likely that the decline in invasive 
+cervical cancer rates among AN women is due 
+to screening and control efforts on the part of 
+health care providers. The Pap test has been 
+effective in detecting early cervical changes, 
+which can then be treated before invasive 
+disease occurs (29). Based on the number of 
+total Pap tests performed in the Alaska Native 
+health care system, it is estimated that only 
+45 to 65% of eligible women could have been 
+screened in a given year before 1990. Preva-
+lence of screening for all races in the U.S. was 
+estimated to be 75% in 1987 (34). In 1992, the 
+Women’s Health Project (WHP) reported the 
+frequency of cervical cancer screening among 
+AN women in Anchorage to be approxi-
+mately 75% for the years 1989–1991 (28). It is 
+likely that women in Anchorage had higher 
+screening rates than AN women in the rest 
+of the state, mainly due to greater access to 
+health care facilities. 
+Women’s cancers among Alaska Natives
+
+85
+International Journal of Circumpolar Health 69:1 2010
+The WHP and subsequently the CDC’s 
+Breast and Cervical Cancer Early Detection 
+Program (BCCEDP) made increased resources 
+available to enhance cervical screening 
+through education, increased pap testing and 
+follow-up of abnormal tests. Since 1995, the 
+CDC has supported 4 tribal BCCDPs, and 
+a State of Alaska program. These programs 
+appear to have been successful. Alaska 
+BRFSS data records a steady increase in Pap 
+screening prevalence throughout the 1990s. 
+In 2004, 90% of AN women throughout the 
+state reported having had a Pap test in the 
+previous 3 years (35). This prevalence was 
+slightly higher than the 86% reported in 2004 
+by BRFSS for all races in the U.S. (36). It is 
+likely that these increases in screening are 
+responsible for the lower rates of invasive 
+cervical cancer. 
+Conclusions
+In summary, this study documents continued 
+differences in cancer rates and trends over 
+time of AN women compared to USW 
+women. Cancers of the breast and uterus have 
+increased, while cancer of the cervix has 
+decreased and cancer of the ovary has been 
+stable for all except possibly the last 5 years 
+of the 30-year study period. The significant 
+rise in breast cancer incidence may be best 
+explained by a period effect (i.e., changes in 
+environmental factors), and the increase in 
+uterine cancer could be explained this way as 
+well. If a period effect exists for breast and 
+uterine cancer, the greatest changes in known 
+risk factors have been in increased obesity 
+and a progressive change to a non-Native 
+diet. The decrease in cervical cancer is most 
+likely due to improved screening programs. 
+Continuing surveillance of cancer and studies 
+of risk factors are needed to better understand 
+the observed patterns and trends in breast, 
+uterine, ovarian and cervical cancer among 
+Alaska Native women. 
+REFERENCES
+1.	 Parkin DM, Pisani P, Ferlay J. Global cancer statistics. 
+CA Cancer J Clin 1999;49:33–64.
+2.	 Mettlin C. Global breast cancer mortality statistics. 
+CA Cancer J Clin 1999;49:138–144.
+3.	 Parkin DM, Pisani P, Ferlay J. Estimates of the world-
+wide incidence of 25 major cancers in 1990. Int J Can-
+cer 1999;80:827–841.
+4.	 Jemal A, Thomas A, Murray T, Thun M. Cancer statis-
+tics 2002. CA Cancer J Clin 2002;52:23–47.
+5.	 Jemal A, Siegel R, Ward E, Hao Y, Xu J, Murray T, et 
+al. Cancer statistics 2008. Cancer J Clin 2008;58:71–
+96.
+6.	 Grady D, Erstner VL. Endometrial cancer. In: Schot-
+tenfeld D, Fraumeni JF Jr, editors. Cancer epidemiol-
+ogy and prevention. 2nd ed. New York: Oxford Uni-
+versity Press; 1996. p. 1058–1089.
+7.	 Parker SL, Johnston Davis K, Wingo PA, Ries LAG, 
+Heath CW Jr. Cancer statistics by race and ethnicity. 
+CA Cancer J Clin 1998;48:31–48.
+8.	 Lanier AP, Kelly JJ, Holck P, Smith B, McEvoy T, Sand-
+idge J. Cancer incidence in Alaska Natives – thirty year 
+report, 1969–1998. Alaska Med 2001;43:87–115.
+9.	 Ehrsam G, Lanier AP, Holck P, Sandidge J. Cancer 
+mortality among Alaska Natives, 1994–1998. Alaska 
+Med 2001;43(3):50–69.
+10.	Cobb N, Paisano RE. Cancer mortality among Amer-
+ican Indians and Alaska Natives in the United States: 
+regional differences within the Indian Health Service, 
+1989–1993. Rockville, MD: Department of Health and 
+Human Services, Indian Health Services, IHS Pub. No. 
+97-615-23;1997. 83 p.
+11.	Davis SM, Cunningham-Sabo L, Lambert LC. Native 
+outreach, a report to American Indian, Alaska Native 
+and Native Hawaiian communities. Executive summa-
+ry, Appendix C, SEER incidence and mortality rates, 
+1988–1992. National Institutes of Health 98–4341s, 
+1999. 25 p.
+12. SEER*Stat Database: Incidence - SEER 9 Regs Public-
+Use, Nov 2003 Sub (1973–2001), National Cancer In-
+stitute, DCCPS, Surveillance Research Program, Can-
+cer Statistics Branch. [cited 2004 Apr 14]. Available 
+from: http://www.seer.cancer.gov/
+13.	Matthews JNS. Statistical methods in medical research. 
+4th ed. Oxford: Blackwell Science; 2002. 832 p.
+14. Schlesselman JJ, Stolley PD. Case-Control Studies. 
+New York: Oxford University Press; 1982. p. 203-
+206.
+15.	Zhang J, Ugnat A-M, Clarke K, Mao Y. Ovarian cancer 
+histology-specific incidence trends in Canada 1969–
+1993: age-period-cohort analyses. Br J Cancer 1999; 
+81(1):152–158.
+Women’s cancers among Alaska Natives
+
+86
+International Journal of Circumpolar Health 69:1 2010
+Anne P. Lanier
+4000 Ambassador Drive
+Anchorage, AK 99508
+USA
+Email: aplanier@anmc.org
+16.	Kelly J, Lanier A, Santos M, Healy S, Louchini R, Fri-
+borg J, et al. Cancer among the circumpolar Inuit, 
+1989–2003 II. patterns and trends. Int J Circumpolar 
+Health 2008;67(5):408–420.
+17.	 Naylor JL, Schraer CD, Mayer AM, Lanier AP, Treat 
+CA, Murphy NJ. Diabetes among Alaska Natives: a re-
+view. Int J Circumpolar Health 2003;62(4):363–387.
+18.	The burden of overweight and obesity in Alaska. An-
+chorage (AK): Alaska Department of Health and So-
+cial Services, Division of Public Health, Section of Ep-
+idemiology, Health Promotion Unit; 2003. 28 p.
+19.	Hunter DJ, Willet WC. Diet, body size, and breast 
+cancer. Epidemiol Rev 1993;15:110–132.
+20.	Collaborative group on hormonal factors in breast 
+cancer. Breast cancer and hormonal contraceptives: 
+collaborative reanalysis of individual data on 53,297 
+women with breast cancer and 100,239 women with-
+out breast cancer from 54 epidemiological studies. 
+Lancet 1966;347:1713–1727.
+21.	Gilliland FD, Mahler R, Hunt WC, Davis SM. Preven-
+tive healthcare among rural American Indians in New 
+Mexico. Prev Med 1999;28:194–202.
+22.	Nobmann ED, Ponce R, Mattil C, Devereux R, Dyke 
+B, Ebbesson SOE, et al. Dietary intakes vary with age 
+among Eskimo adults of northwest Alaska in the GO-
+CADAN study, 2000–2003. J Nutr 2005;135:856– 
+862.
+23.	Rose DP, Connolly JM. Omega-3 fatty acids as cancer 
+chemopreventive agents. Pharmacol Ther 1999;83: 
+217–244.
+24.	Ip C. Review of the effects of trans fatty acids, oleic 
+acid, n-3 polyunsaturated fatty acids, and conjugated 
+linoleic acid on the mammary carcinogensis in ani-
+mals. Am J Clin Nutr 1997;66:1523S–1529S.
+25.	Status of Alaska Natives report 2004, chapter 2, May 
+2004. [cited 2006 Feb 7]. Available from: http://www.
+iser.uaa.alaska.edu/Home/ResearchAreas/statu-
+saknatives.htm.
+26.	Parazzini F, La Vecchia C, Negri E, Fedele L, Balotta F. 
+Reproductive factors and risk of endometrial cancer. 
+Am J Obstet Gynecol 1991;164:522–527.
+27.	Weiderpass E, Persson I, Adami HO, Magnusson C, 
+Lindgren A, Baron JA. Body size in different periods of 
+life, diabetes mellitus, hypertension, and the risk of 
+postmenopausal endometrial cancer. Cancer Causes 
+Control 2000;11:185–192.
+28.	Ma J, Pollak MN, Giovannucci E, Chan JM, Tao Y, Hen-
+nekens C, et al. Prospective study of colorectal can-
+cer risk in men and plasma levels of insulin-like growth 
+factor (IGF)-1 and IGF-binding protein-3. J Natl Can-
+cer Inst 1999;91:620–625.
+29.	Lanier AP, Kelly JJ, Berner J. The Alaska Native wom-
+en’s health project to reduce cervical cancer. In: Glov-
+er CS, Hodge FS, editors. Native outreach: a report 
+to American Indian, Alaska Native and Native Hawai-
+ian communities. NIH, NCI; 1992. 138 p.
+30.	Mckean-Cowdin R, Feigels HS, Ross RK, Pike MC, 
+Henderson BE. Declining cancer rates in the 1990s. J 
+Clin Oncology 2000;18(11):2258–2268.
+31. Moreno V, Bosch FX, Muñoz N, Meijer CJ, Shah KV, 
+Walboomers JM, et al. Effect of oral contraceptives on 
+risk of cervical cancer in women with human papillo-
+mavirus infection: the IARC multicentric case-control 
+study. Lancet 2002;359(9312):1085-1092.
+32.	Ylitalo N, Sørensen P , Josefsson A, Frisch M , Sparén 
+P, Pontén J, et al. Smoking and oral contraceptives as 
+risk factors for cervical carcinomas in situ. Int J Can-
+cer 1999;81(3):357–365.
+33.	McNaghten AD, Neal JJ, Li J, Fleming PL. Epidemiolog-
+ic profile of HIV and AIDS among American Indian 
+and Alaska Natives in the USA through 2000. Ethnic-
+ity and Health 2005;10(1):57–71.
+34.	Hiatt RA, Klabunde C, Breen N, Swan J, Ballard-Bar-
+bash R. Cancer screening practices from national 
+health interview surveys: past, present, and future. 
+JNCI 2002;94(24):1837–1846.
+35. Health Risks in Alaska Among Adults - State of Alas-
+ka BFRSS [Internet]. Juneau: Alaska Department of 
+Health & Social Services; 2005 [cited 2009 Dec 18]. 
+Available from: http://www.hss.state.ak.us/dph/
+chronic/hsl/brfss/pubs/BRFSS0405.pdf
+36. National Center for Chronic Disease Prevention & 
+Health Promotion Behavioral Risk Factor Surveil-
+lance System. Prevalence and trends data [Internet]. 
+Nationwide (States and DC) ’’2004 women‘s health 
+[cited 2009 Jul 6]. Available from: http://apps.nccd.
+cdc.gov/BRFSS/display.asp?cat=WH&yr=2004&qke
+y=4426&state=UB
+Women’s cancers among Alaska Natives
+

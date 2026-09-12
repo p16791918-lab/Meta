@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+2840,exclude,Not relevant to the research question/topic,BRCA non-founder mutations AJ
+2841,exclude,Not relevant to the research question/topic,lung cancer incidence US states
+2842,exclude,Not relevant to the research question/topic,CNS tumor incidence US trends
+2843,include,,Cancer Statistics 2015 US incidence by race
+2844,exclude,Not relevant to the research question/topic,UM International Breast Registry description
+2845,exclude,Not a US population-based/registry study,global cancer statistics 2012 GLOBOCAN
+2846,exclude,Not relevant to the research question/topic,perfect storm racial survival disparity review
+2847,exclude,Not relevant to the research question/topic,BC chemoprevention high-risk uptake
+2848,exclude,"Editorials, commentaries, letters, or conference abstracts",CDC racial disparities news brief
+2849,exclude,Not relevant to the research question/topic,serrated polyposis cancer risk JH
+2850,exclude,Not a US population-based/registry study,cost-effectiveness BRCA screening AJ UK
+2851,exclude,Not relevant to the research question/topic,BC special populations disparities review
+2852,exclude,Not relevant to the research question/topic,BC subtype lymph node metastasis SEER
+2853,exclude,Not a US population-based/registry study,solid cancer Techa River radiation
+2854,exclude,Not a US population-based/registry study,trastuzumab neoadjuvant Chinese trial
+2855,exclude,Not a US population-based/registry study,CI5 inclusion criteria Volume X
+2856,exclude,Not relevant to the research question/topic,rural-urban cancer incidence SEER
+2857,exclude,Not a US population-based/registry study,TCM myelosuppression FN
+2858,exclude,Not relevant to the research question/topic,why BC mortality declined SEER
+2859,exclude,Not relevant to the research question/topic,HPA axis genes BC Caucasian AA
+2860,exclude,Not relevant to the research question/topic,dietary carbohydrate BC NHS II
+2861,exclude,Not a US population-based/registry study,cancer prevention research China
+2862,exclude,Not a US population-based/registry study,IGF-II TNBC Vietnamese
+2863,exclude,Not relevant to the research question/topic,menopause breast adipose inflammation
+2864,exclude,"Editorials, commentaries, letters, or conference abstracts",choroidal sarcoidosis case conference
+2865,exclude,Not relevant to the research question/topic,economic recession cancer incidence SEER
+2866,exclude,Not relevant to the research question/topic,race/language/income not drivers mortality
+2867,exclude,Not relevant to the research question/topic,saturated fatty acid BC meta-analysis
+2868,exclude,Not relevant to the research question/topic,TNBC immune modulation treatment
+2869,exclude,Not a US population-based/registry study,HER2 molecular apocrine Chinese
+2870,exclude,Not a US population-based/registry study,TNF-alpha ESCC Kazakh
+2871,exclude,Not a US population-based/registry study,hormones BC incidence Mongolia UK
+2872,exclude,Not a US population-based/registry study,DDT soil BC China
+2873,exclude,Not a US population-based/registry study,anthropometric BC subtypes Norway
+2874,exclude,Not relevant to the research question/topic,NSAID inflammation cancer NIH-AARP
+2875,exclude,Not relevant to the research question/topic,pharmacogenomic tamoxifen Hispanic NHW
+2876,exclude,Not a US population-based/registry study,SES survival BC Ireland
+2877,exclude,Not a US population-based/registry study,Fukushima radiation risk framework
+2878,exclude,Not a US population-based/registry study,ACCELERATION prevention Canada
+2879,exclude,Not relevant to the research question/topic,LABC multiethnic phase II trial
+2880,exclude,Not a US population-based/registry study,AZD8931 Japanese phase I
+2881,exclude,Not a US population-based/registry study,SES BC detection Hong Kong
+2882,exclude,Not relevant to the research question/topic,PKD cancer renal transplant US
+2883,exclude,Not relevant to the research question/topic,BC incidence orthodox Jewish geocoded SEER
+2884,exclude,Not relevant to the research question/topic,IMET hepatic/pulmonary metastasis registry
+2885,exclude,Not a US population-based/registry study,AI musculoskeletal fractures Chinese
+2886,exclude,Not relevant to the research question/topic,weight gain BC survivors intervention
+2887,exclude,Not relevant to the research question/topic,mouthwash everolimus stomatitis trial
+2888,exclude,Not relevant to the research question/topic,black tea BC meta-analysis
+2889,exclude,Not a US population-based/registry study,IMPC vs IDC China
+2890,exclude,Not a US population-based/registry study,dietary cadmium BC Denmark
+2891,exclude,Not relevant to the research question/topic,KeraStat radiation dermatitis trial
+2892,exclude,Not a US population-based/registry study,alcohol attributable cancer Korea
+2893,exclude,Not relevant to the research question/topic,SCCDCN-II diet/PA disparities trial
+2894,exclude,Not a US population-based/registry study,metformin BC Taiwan T2DM
+2895,exclude,Not a US population-based/registry study,obesity/PA attributable cancer Korea
+2896,exclude,Not relevant to the research question/topic,personality cancer meta-analysis
+2897,exclude,"Editorials, commentaries, letters, or conference abstracts",HBOC symposium conference review
+2898,exclude,"Editorials, commentaries, letters, or conference abstracts",ARS 2014 conference review
+2899,exclude,Not relevant to the research question/topic,exercise RCT AA women MetS

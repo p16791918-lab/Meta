@@ -1,0 +1,690 @@
+record_id=28 pmid=31234738 doi=10.1080/22423982.2019.1633190 pmcid=PMC6598524
+TITLE: Invasive breast cancer among Alaska Native women in Alaska
+
+Breast cancer is the most common cancer diagnosed among Alaska Native (AN) women[1]; similar findings have been observed among women in other population groups [2,3]. The most recent review of breast cancer among AN women reported an increase in the incidence of 105% during the period 1974–1994[4]. Comparable increases in breast cancer incidence have been observed globally, with the largest increases among populations with historically low rates [5,6]. As has been proposed for other populations, data specific to AN women suggest this increase is due to a linear period effect, rather than an effect of birth cohort[4]. Exposures that may contribute to this increase may include obesity, changes in diet, as well as increases in access to and utilisation of healthcare, including mammography screening services. Previously published data indicate that, since the mid-nineties, female breast cancer incidence rates have stabilised among AN women; furthermore, the most recently published rates indicate no statistically significant difference between AN women and US white (USW) women[1].
+Since the most recent in-depth description of AN female breast cancers[4], our understanding of the disease’s aetiology, epidemiology and treatment has expanded markedly. For example, we now know more about the role of ER/PR/HER2 receptor status in treatment and prognosis [7–10], and recent advances in our understanding of breast cancer genetics are shedding light on hereditary cancers and enabling families of breast cancer survivors to take preventive measures [11,12]. As a result of these and other improvements, breast cancer mortality has decreased among many racial and ethnic groups nationwide [2,13]. Yet, the impact of these improvements has been unequally distributed: racial disparities in breast cancer outcomes have been well demonstrated [14–16], and nationally observed decreases in mortality have occurred later, and less consistently among American Indian/Alaska Native (AIAN) women [2,13]. Furthermore, a recent analysis of breast cancer survival among AN women showed no change over the past two decades[17].
+In order to better understand trends in female breast cancer incidence, mortality, and survival among AN women, a comprehensive understanding of this malignancy is necessary. Yet, little is known about the epidemiology of molecular and clinical characteristics among AN women. This study provides a comprehensive update of our knowledge and understanding of breast cancer descriptive epidemiology among AN women, using data collected by the Alaska Native Tumor Registry (ANTR).
+Methods
+Study population
+Approximately 144,274 AIAN people reside in Alaska [18] (individuals reporting AIAN identity alone, or in combination with another racial identity), comprising 19.5% of the Alaskan population. Almost 90% of AIAN people living in Alaska identify as Alaska Native[19]; therefore, hereafter we will refer to all AIAN people resident in Alaska as “Alaska Native (AN) people”. Healthcare for AN people residing in Alaska is provided by 32 regional tribal health organisations, and the Alaska Native Tribal Health Consortium, which provides statewide services. There is one tribally managed tertiary healthcare facility in the state, located in Anchorage: the Alaska Native Medical Center (ANMC), which provides breast cancer care to the majority of AN women with this diagnosis.
+Data sources
+Cancer data were collected by the ANTR, which is a population-based central cancer registry that records information on AN people who meet eligibility requirements for Indian Health Service benefits (federally determined using a suite of eligibility criteria, including membership in one of the 573 federally-recognised tribes) [20], who have been diagnosed with cancer in Alaska since 1969, and who resided in Alaska at the time of diagnosis. The ANTR has been collecting cancer information according to National Cancer Institute’s Surveillance, Epidemiology, and End Results Program (SEER) standards since its inception and has been a full member of the SEER Program since 1999. According to ANTR standard case-finding practices, cases were ascertained through a variety of sources, including: (1) hospital discharge diagnoses for tribal and non-tribal health facilities in Alaska; (2) tumour registry and pathology files of the ANMC and other in-state healthcare facilities; (3) linkage to the Alaska Cancer Registry and the Washington State Cancer Registry; and (4) death certificates (<1% cases were registered solely on the basis of information from a death certificate). For the purposes of this analysis, we report on incident cancers diagnosed between 01/01/1969 and 12/31/2014, with our primary focus on cases diagnosed in the latter 10 years (2005–2014). Cases of female breast cancer (ICDO-3 anatomic site codes C50.0-C50.9) with a behaviour code “3” (i.e., invasive cases) were selected for inclusion in this study.
+Patient characteristics collected by the tumour registry and reviewed in this study include age at diagnosis, and tribal health region of residence at the time of diagnosis. Tribal health regions were defined as per Carmack et al. 2015[1], based on census areas and boroughs. These regions closely align with the Alaska Tribal Health Organizations’ service areas, with some noted exceptions[1]. Clinical characteristics included histologic subtype, laterality, cancer stage (SEER Historic Stage A: local vs. regional vs. distant/unknown; and Clinical Stage: 0-IV)[21], Breast cancer subtype (SEER site-specific factor (SSF) 16; 2010 onwards), human epidermal growth factor receptor 2 (HER2) status (SSF 15), estrogen receptor (ER) status (SEER SSF 1; available from 2004 onwards), progesterone receptor (PR) status (SEER SSF 2; 2004 onwards), number of positive nodes (SEER SSF 3; available from 2004 onwards), and Nottingham/Bloom Rich grade (SEER SSF 7; available from 2010 onwards). Breast cancer subtype was defined per the SEER SSF definition: HER2−/hormone receptor (HR)+ (where cancers are considered HR+ if either ER or PR positive); HER2+/HR−; HER2−/HR−; HER2+/HR+.
+Statistical analysis
+Differences in patient and clinical characteristics were assessed using the Chi-squared test for categorical variables, and one-way ANOVA for continuous variables. Menopausal status was not available in the registry; therefore, we used age at diagnosis as a proxy. Women diagnosed <50 years of age were considered “pre-menopausal,” whereas women diagnosed ≥50 years of age were considered “post-menopausal.” This assumed age at menopause is close to previously reported information from the Alaska EARTH study (mean age at menopause: 45.7 years; 95% CI, 45.0–46.5)[22]. We compared cancer rates and counts for AN people to USW rates from the SEER Program’s SEER*Stat 9 database, which uses data from nine registries (five states: CT, HI, IO, NM, UT, and four metropolitan areas: Atlanta, Detroit, San Francisco, and Seattle) [23]. Data from the SEER 9 Registries were available only for the years 1973–2014 at the time of analysis. Cancer incidence rates were expressed as average annual rates over 10-year periods, expressed per 100,000 population and age-adjusted to the US Census 2000 standard population using the direct method. Incidence rates in each time-period were considered statistically similar if the 95% CI did not overlap. Denominators for rate calculations were derived from population estimates from the US Bureau of the Census and National Center for Health Statistics for AN people (bridged estimates) and USW, available from the NCI’s SEER Program[19]. Rates were considered significantly different between AN and USW women if the 95% CI for the rate ratio did not overlap 1.0.
+Cause-specific breast cancer survival was assessed for AN and USW women, 2010–2014. Cause-specific analyses were deemed more appropriate than relative survival methods for these analyses, due to the lack of racially specific life tables. Survival was restricted to these years to ensure that data for variables of interest (e.g., breast cancer subtype) were available and complete. The outcome for these analyses was a primary cause of death from breast cancer. Kaplan-Meier methods were used to calculate univariate five-year cause-specific survival; log-rank tests were used to formally assess differences in survival in strata of the patient and clinical characteristics listed above. Multivariable Cox proportional hazards models [24] were used to characterise changes in survival by patient and clinical characteristics. The outcome for these analyses was breast-cancer specific death; individuals who died of other causes were censored at the date of death. Mortality data were provided by linkage to the National Death Index Plus, which is maintained by the National Center for Health Statistics. The proportional hazards assumption was checked by including an interaction variable in our model for each covariate and the log of survival time. In accordance with prevailing standards, survival analyses were restricted to first primary cancers, cases of known age, and those histologically confirmed and followed over time; cases that were identified solely on the basis of death certificates or autopsy reports were excluded [25,26]. Patients still alive on 31 December 2013, or who had died of other causes were censored. Because the analysis was restricted to the years 2010 through 2014, maximum survival time for USW women was 59 months. In order to estimate 5-year survival, USW women who were alive at 59 months were assumed to have survived at least 60 months.
+All statistical tests were two-sided and were assessed at an alpha level of p< 0.05. Statistics were generated using standard modules of the Statistical Analysis System (Version 9.4, SAS Institute, Cary, NC). As per ANTR standard procedure, incidence rates and case counts are not given where cell sizes were <5, in order to protect individuals’ privacy. Institutional review board approval and informed consent were not required for the current study because all SEER Program data are publicly available, and all surveillance data were deidentified. Tribal approval from the Alaska Native Tribal Health Consortium was obtained for publication of this study.
+Results
+Demographic and clinical characteristics of AN female breast cancers are presented in Table 1; data for USW women are given for comparison. Almost three-quarters of AN women with a breast cancer diagnosis were diagnosed after age 50 years; the proportion diagnosed prior to age 50 years was higher among AN women relative to USW women (p < 0.01). The majority of breast cancers among AN women (over 75%) were diagnosed at Local stage (Clinical Stages I and II). Stage distribution (SEER Historic Stage A, or Clinical Stage) was not different between AN women and USW women. Among AN women, 8.0% of female breast cancers were HER2−/HR−; this was similar to the 9.2% observed among USW women. Yet, the distribution of breast cancer subtypes differed between AN women and USW (p < 0.01). The majority of cancers among AN women (73%) were HER2−; yet, compared to USW women, a larger proportion of AN women were diagnosed with HER2+ cancer. Most cancers were either ER+ (79%) and/or PR+ (75%), and the distribution of HR status did not differ between AN and USW women. We also examined whether there were differences in breast cancer subtype by age (data not shown). Although there was a trend towards a higher proportion of HER2−/HR− (11.4% vs 6.9%) and HER2+/HR+ (12.5% vs 6.9%) cancers among women diagnosed before age 50 years relative to those diagnosed after age 50 years, respectively, the distribution of breast cancer subtypes was not different between age groups (p < 0.19). Compared to USW women, a larger proportion of AN women had positive nodes (p < 0.01), but there was no difference in the distribution of Nottingham/Bloom-Richardson Grade.Table 1.Selected characteristics of female breast cancer diagnoses among Alaska Native women as compared to US White women, 2004–2014 Alaska NativeUS White  Num.Pct.Num.Pct.p ValueAge at Diagnosis (mean, SD)(57.3, 12.6)(62.5, 14.1)  49 or Younger19127.435,68319.6<0.0001 50 or Older50672.6145,99380.4Laterality      Left36952.991,18750.20.53 Right32146.188,66348.8 Both00.0630.0 Only one side, not specified00.01750.1 Paired, No Information71.01,5880.9SEER Historic Stage A      Localised42561.0118,33765.10.09 Regional21030.149,01227.0 Distant527.511,2666.2 Unstaged101.43,0611.7Clinical Stage      Stage I32146.191,29650.30.08 Stage II22732.654,68430.1  Stage III8712.518,19710.0  Stage IV365.28,8324.9  Unknown263.78,1124.5  N/A00.02310.1 Histology      Ductal53777.0129,97371.50.001 Lobular415.917,7429.8 Ductal and Lobular7310.518,50010.2 Other466.615,4618.5Breast Subtype(SSF 16, 2010+)      HER2−/HR−288.07,9509.2<0.0001 HER2−/HR+23567.560,79370.7 HER2+/HR−4011.53,2183.7 HER2+/HR+298.37,7019.0 Other164.66,3377.4HER2 (SSF 15, 2011+)      Positive6321.88,90512.80.0001 Negative21273.455,95480.5 Borderline20.71,2661.8 Other124.23,3464.8ER Status (SSF 1, 2010+)      Positive27679.370,73082.20.17 Negative6418.412,47514.5 Borderline00.0570.1 Other82.32,7373.2PR Status (SSF 2, 2010+)      Positive26175.061,53671.60.49 Negative7722.121,41024.9 Borderline00.01250.1 Other102.92,9283.4Positive Nodes      Yes22932.948,54226.7<0.0001 No40357.8106,37158.5 Other659.326,76314.7 Low grade7220.718,54921.60.57 Intermediate grade10129.027,36431.8 High grade7220.716,68119.4 Other10329.623,40527.2
+Table 1.
+Selected characteristics of female breast cancer diagnoses among Alaska Native women as compared to US White women, 2004–2014
+Alaska Native
+US White
+Num.
+Pct.
+Num.
+Pct.
+(57.3, 12.6)
+(62.5, 14.1)
+49 or Younger
+191
+27.4
+35,683
+19.6
+<0.0001
+50 or Older
+506
+72.6
+145,993
+80.4
+Left
+369
+52.9
+91,187
+50.2
+0.53
+Right
+321
+46.1
+88,663
+48.8
+Both
+0
+0.0
+63
+0.0
+Only one side, not specified
+0
+0.0
+175
+0.1
+Paired, No Information
+7
+1.0
+1,588
+0.9
+Localised
+425
+61.0
+118,337
+65.1
+0.09
+Regional
+210
+30.1
+49,012
+27.0
+Distant
+52
+7.5
+11,266
+6.2
+Unstaged
+10
+1.4
+3,061
+1.7
+Stage I
+321
+46.1
+91,296
+50.3
+0.08
+Stage II
+227
+32.6
+54,684
+30.1
+Stage III
+87
+12.5
+18,197
+10.0
+Stage IV
+36
+5.2
+8,832
+4.9
+Unknown
+26
+3.7
+8,112
+4.5
+N/A
+0
+0.0
+231
+0.1
+Ductal
+537
+77.0
+129,973
+71.5
+0.001
+Lobular
+41
+5.9
+17,742
+9.8
+Ductal and Lobular
+73
+10.5
+18,500
+10.2
+Other
+46
+6.6
+15,461
+8.5
+HER2−/HR−
+28
+8.0
+7,950
+9.2
+<0.0001
+HER2−/HR+
+235
+67.5
+60,793
+70.7
+HER2+/HR−
+40
+11.5
+3,218
+3.7
+HER2+/HR+
+29
+8.3
+7,701
+9.0
+Other
+16
+4.6
+6,337
+7.4
+Positive
+63
+21.8
+8,905
+12.8
+0.0001
+Negative
+212
+73.4
+55,954
+80.5
+Borderline
+2
+0.7
+1,266
+1.8
+Other
+12
+4.2
+3,346
+4.8
+Positive
+276
+79.3
+70,730
+82.2
+0.17
+Negative
+64
+18.4
+12,475
+14.5
+Borderline
+0
+0.0
+57
+0.1
+Other
+8
+2.3
+2,737
+3.2
+Positive
+261
+75.0
+61,536
+71.6
+0.49
+Negative
+77
+22.1
+21,410
+24.9
+Borderline
+0
+0.0
+125
+0.1
+Other
+10
+2.9
+2,928
+3.4
+Yes
+229
+32.9
+48,542
+26.7
+<0.0001
+No
+403
+57.8
+106,371
+58.5
+Other
+65
+9.3
+26,763
+14.7
+Low grade
+72
+20.7
+18,549
+21.6
+0.57
+Intermediate grade
+101
+29.0
+27,364
+31.8
+High grade
+72
+20.7
+16,681
+19.4
+Other
+103
+29.6
+23,405
+27.2
+Table 2.
+Selected characteristics of female breast cancer diagnoses among Alaska Native women, 1969–2014.a.
+1969–1978
+1979–1988
+1989–1998
+1999–2008
+2009–2014
+Num.
+Pct.
+Num.
+Pct.
+Num.
+Pct.
+Num.
+Pct.
+Num.
+Pct.
+(50.8, 10.1)
+(53.0, 14.3)
+(54.9, 13.3)
+(55.4, 12.5)
+(57.9, 13.1)
+49 or Younger
+32
+48.5
+67
+45.3
+133
+37.6
+179
+33.3
+106
+25.7
+<0.0001
+50 or Older
+34
+51.5
+81
+54.7
+221
+62.4
+359
+66.7
+306
+74.3
+Localised
+202
+57.1
+328
+61.0
+247
+60.0
+0.04
+Regional
+128
+36.2
+163
+30.3
+124
+30.1
+Distant
+15
+4.2
+31
+5.8
+36
+8.7
+Unstaged
+16
+3.0
+Stage I
+130
+45.6
+191
+46.4
+0.34
+Stage II
+98
+34.4
+129
+31.3
+Stage III
+32
+11.2
+55
+13.3
+Stage IV
+11
+3.9
+25
+6.1
+Unknown
+14
+4.9
+12
+2.9
+Ductal
+50
+75.8
+103
+69.6
+270
+76.3
+391
+72.7
+334
+81.1
+<0.0001
+Lobular
+17
+4.8
+35
+6.5
+19
+4.6
+Ductal and Lobular
+22
+6.2
+63
+11.7
+38
+9.2
+Other
+15
+22.7
+39
+26.4
+45
+12.7
+49
+9.1
+21
+5.1
+Table 3.
+Age-adjusted incidence of female breast cancer among Alaska Native women (1969–2014) as compared to US White women (1973–2014)
+Alaska Native
+US White
+Rate
+95% CI
+Rate
+95% CI
+Rate Ratio
+95% CI
+1969–1978
+All ages
+46.2
+(34.73–57.64)
+106.0
+(105.06–106.95)
+0.44
+(0.34–0.56)
+49 or Younger
+28.6
+(18.58–38.64)
+40.8
+(40.05–41.58)
+0.70
+(0.49–1.00)
+50 or Older
+92.2
+(60.13–124.26)
+276.7
+(273.94–279.48)
+0.33
+(0.24–0.47)
+1979–1988
+All ages
+76.6
+(63.25–89.88)
+120.3
+(119.52–120.98)
+0.64
+(0.54–0.76)
+49 or Younger
+38.3
+(28.80–47.73)
+42.5
+(41.97–43.11)
+0.90
+(0.70–1.15)
+50 or Older
+176.8
+(135.53–218.16)
+323.7
+(321.57–325.92)
+0.55
+(0.43–0.69)
+1989–1998
+All ages
+123.8
+(110.35–137.27)
+137.8
+(137.08–138.52)
+0.90
+(0.81–1.00)
+49 or Younger
+48.8
+(40.31–57.19)
+44.4
+(43.88–44.87)
+1.10
+(0.92–1.31)
+50 or Older
+320.3
+(276.94–363.76)
+382.4
+(380.18–384.71)
+0.84
+(0.73–0.96)
+1999–2008
+All ages
+132.7
+(121.18–144.31)
+136.3
+(135.59–136.94)
+0.97
+(0.89–1.06)
+49 or Younger
+50.7
+(43.29–58.16)
+44.7
+(44.25–45.21)
+1.13
+(0.98–1.31)
+50 or Older
+347.5
+(310.47–384.56)
+376.0
+(373.86–378.05)
+0.92
+(0.83–1.03)
+2009–2014
+All ages
+145.0
+(130.40–159.54)
+133.0
+(132.16–133.83)
+1.09
+(0.99–1.21)
+49 or Younger
+51.9
+(41.85–61.86)
+45.4
+(44.78–46.09)
+1.14
+(0.94–1.38)
+50 or Older
+388.8
+(343.04–434.55)
+362.3
+(359.78–364.75)
+1.07
+(0.95–1.21)
+Incidence rates for each tribal health region are shown in Figure 1; supporting data for this figure are given in Supplementary Table 1. Incidence was variable by region, with the highest rates observed in the Aleutians and Pribilofs, the Copper River/Prince William Sound regions, the Interior, and the Southeast. The lowest rates were observed across the north and west of the state, including the Arctic slope, Bristol Bay, Northwest Arctic, Norton Sound, and Yukon-Kuskokwim regions. Confidence intervals were wide for these regional estimates due to small population sizes and low case counts.Figure 1.Fifteen-year average age-adjusted incidence rates (95% CI) of breast cancer among AN women, by tribal health region, 1990–2014. Rates are given per 100,000 population, and are adjusted to the US Census 2000 standard population
+Figure 1.
+Fifteen-year average age-adjusted incidence rates (95% CI) of breast cancer among AN women, by tribal health region, 1990–2014. Rates are given per 100,000 population, and are adjusted to the US Census 2000 standard population
+Finally, Table 4 presents detailed cause-specific survival information for female breast cancers among AN women; results from analyses conducted separately for USW women are also given for comparison. Overall 5-year survival among AN women was high at 90% for premenopausal cancers, and 92.6% for post-menopausal cancer. In univariate analyses, 5-year survival did not differ by menopausal status, but it did differ by stage (p< 0.01) and breast cancer subtype (P < 0.01) for AN women. Five-year survival was higher among those diagnosed at local stage, and with HR+ breast cancers. Five-year survival was lowest among women diagnosed with HER2−/HR− breast cancers (Hazard Ratio (95%CI): 6.59 (2.23–19.49)), relative to those with HER2−/HR+ cancers. In multivariable-adjusted Cox proportional hazards models, risk of death was higher among AN women diagnosed at regional, distant, or unknown stage (Hazard Ratio (95%CI): 4.65 (1.66–12.98)), compared to those diagnosed at local stage. There was a trend towards reduced risk of death for other breast cancer subtypes; however, the hazard ratios were not significantly different from 1.0.Table 4.Univariate Kaplan–Meier and multi-variable-adjusted Cox proportional hazards modelsa for female breast cancer survival among Alaska Native women, and US White women, 2010–2014  Kaplan Meier univariateMultivariable-adjusted Cox proportional hazards  Percent Surviving at n Monthsp Value   Obs.Per centCensored123660Log-rankWilcoxonHazard Ratio95% CIp ValuesAlaska NativeAge at Diagnosis49 or Younger (reference)8290.297.690.090.00.280.16   50 or Older21894.099.194.992.60.85(0.35–2.09)0.72Stage at DiagnosisLocal (reference)17497.1100.097.396.50.00070.0004   Regional or Distant or Unknown12687.396.888.285.74.65(1.66–12.98)0.0034Breast SubtypeHER2-/HR+ (reference)20595.199.096.594.30.00300.0022   HER2+/HR+2495.895.895.895.81.01(0.13–7.96)0.99HER2+/HR-3786.5100.084.584.52.29(0.78–6.73)0.13HER2-/HR-2378.395.776.176.16.59(2.23–19.49)0.0007White           Age at Diagnosis49 or Younger (reference)13,78896.599.095.493.3<.0001<.0001   50 or Older51,52295.097.893.590.51.94(1.75–2.15)<0.0001Stage at DiagnosisLocal (reference)42,59598.799.698.397.2<.0001<.0001   Regional or Distant or Unknown22,71589.095.185.980.28.59(7.79–9.46)<0.0001Breast SubtypeHER2-/HR+ (reference)46,46696.898.895.993.5<.0001<.0001   HER2+/HR+6,19296.098.594.791.81.09(0.95–1.24)0.22HER2+/HR-2,59091.296.388.483.02.16(1.87–2.48)<0.0001HER2-/HR-6,19187.894.883.879.73.97(3.64–4.34)<0.0001aMultivariable Cox proportional hazards models including age at diagnosis, stage at diagnosis and cancer subtype.
+Table 4.
+Univariate Kaplan–Meier and multi-variable-adjusted Cox proportional hazards modelsa for female breast cancer survival among Alaska Native women, and US White women, 2010–2014
+Kaplan Meier univariate
+Multivariable-adjusted Cox proportional hazards
+Percent Surviving at n Months
+Obs.
+Per centCensored
+12
+36
+60
+Log-rank
+Wilcoxon
+Hazard Ratio
+95% CI
+Age at Diagnosis
+49 or Younger (reference)
+82
+90.2
+97.6
+90.0
+90.0
+0.28
+0.16
+50 or Older
+218
+94.0
+99.1
+94.9
+92.6
+0.85
+(0.35–2.09)
+0.72
+Stage at Diagnosis
+Local (reference)
+174
+97.1
+100.0
+97.3
+96.5
+0.0007
+0.0004
+Regional or Distant or Unknown
+126
+87.3
+96.8
+88.2
+85.7
+4.65
+(1.66–12.98)
+0.0034
+Breast Subtype
+HER2-/HR+ (reference)
+205
+95.1
+99.0
+96.5
+94.3
+0.0030
+0.0022
+HER2+/HR+
+24
+95.8
+95.8
+95.8
+95.8
+1.01
+(0.13–7.96)
+0.99
+HER2+/HR-
+37
+86.5
+100.0
+84.5
+84.5
+2.29
+(0.78–6.73)
+0.13
+HER2-/HR-
+23
+78.3
+95.7
+76.1
+76.1
+6.59
+(2.23–19.49)
+0.0007
+Age at Diagnosis
+49 or Younger (reference)
+13,788
+96.5
+99.0
+95.4
+93.3
+<.0001
+<.0001
+50 or Older
+51,522
+95.0
+97.8
+93.5
+90.5
+1.94
+(1.75–2.15)
+<0.0001
+Stage at Diagnosis
+Local (reference)
+42,595
+98.7
+99.6
+98.3
+97.2
+<.0001
+<.0001
+Regional or Distant or Unknown
+22,715
+89.0
+95.1
+85.9
+80.2
+8.59
+(7.79–9.46)
+<0.0001
+Breast Subtype
+HER2-/HR+ (reference)
+46,466
+96.8
+98.8
+95.9
+93.5
+<.0001
+<.0001
+HER2+/HR+
+6,192
+96.0
+98.5
+94.7
+91.8
+1.09
+(0.95–1.24)
+0.22
+HER2+/HR-
+2,590
+91.2
+96.3
+88.4
+83.0
+2.16
+(1.87–2.48)
+<0.0001
+HER2-/HR-
+6,191
+87.8
+94.8
+83.8
+79.7
+3.97
+(3.64–4.34)
+<0.0001
+Discussion
+This study examined the descriptive epidemiology of breast cancer among AN women. It expanded upon previous reports to provide new information on breast cancer subtype and histology, as well as updated information on breast cancer incidence trends, and regional variation across the state of Alaska. The majority of breast cancers among AN women were diagnosed among women aged over 50 years, and AN women had a larger proportion of cancers diagnosed before age 50 years. Both of these findings are likely to be related to differences in the underlying age distribution of the population, as well as population ageing over time[27]. Most breast cancers among AN women were HER2− but HR+, and less than 10% of AN women were diagnosed with HER2−/HR− cancers. Findings from other, non-Native populations indicate that HER2−/HR− cancers are more likely to recur during the first years post-diagnosis [28,29], and are associated with lower five-year survival [30,31]. Our findings were in agreement with this: we observed lower 5-year survival among AN women diagnosed with HER2−/HR− cancers, as well as those aged over 50 years, and at a later stage at diagnosis. Previous studies have observed increases in breast cancer incidence among AN women[32]. In the present study, rates were not statistically different between periods and were also not statistically different from those observed among USW women. However, rates have increased since the 1990s. Future surveillance studies should monitor whether this trend continues, or whether it is an artefact of natural variation in 5-year incidence among this small population.
+The findings presented herein are important because while female breast cancer is the most common cancer diagnosed among AN people, relatively little is known about its descriptive epidemiology. To our knowledge, only one study has previously examined HER/HER2 status among AN women; this study observed a higher proportion of HER2 in a small number of tumour specimens from AN women, relative to specimens from AI women from the Southwest US [33]. In the past decade, knowledge of female breast cancer aetiology and progression has increased dramatically, and we now know the importance of these tumor markers in guiding clinical treatment as well as indicating prognosis [7–10]. In our study, AN women had a higher proportion of HER2+ cancers, and cancers with positive nodes when compared to USW women. These and other (perhaps undescribed) differences may contribute to the small variations we observed in survival (Table 4) and may provide indications of differences in aetiology among AN women. Clinical characteristics of female breast cancer, including HR status, HER2 status, grade, stage, and nodal status, are known to vary by race across the US[34], and this is likely to impact prognosis and outcomes at the population level. Further research is necessary to confirm these findings persist over time, as well as whether they are observed among other AIAN populations. Furthermore, additional information not currently routinely collected by the SEER program could provide further insight as to the epidemiology of this malignancy among AN people. For example, knowledge of BRCA status and other deleterious mutations may inform cancer prevention strategies at the individual and population levels.
+In order to provide local context for our findings, we also present the first regional data on breast cancer incidence rates within the state of Alaska. Despite large confidence intervals around the regional estimates presented herein, the variation in rates observed between regions confirms the importance of recognising intra-population heterogeneity and variability. Due to small population concerns, AIAN people are often grouped together in epidemiologic studies. Yet, we know from national studies that there is distinct heterogeneity in cancer epidemiology across AIAN populations for many cancer sites [35–38]. Furthermore, we know that within AN people there is much heterogeneity in language, culture, and experience: AN people represent over 229 federally recognised tribes, 11 cultural groups, and over 30 regional tribal health organisations who manage and provide cancer screening and care to their people[39]. We observed the highest rates of female breast cancer in the Aleutian and Pribilof, Copper River and Prince William Sound, Interior, and Southeast regions. While there are no complete statewide data against which to make a comparison, a recent study that linked the ANTR to the Alaska Education and Research Towards Health (EARTH) cohort study found elevated rates among women living in the Southeast region, and particularly among Alaska EARTH study participants living in the Southeast region[40]. Regional variations in rates may be due to differences in exposure to risk factors, genetic variation, or access to and utilisation of healthcare services such as screening, which may affect detection, diagnosis, and surveillance of cancer cases. These regional data will be important to tribal health leaders from regions across the state of Alaska.
+Monitoring trends in breast cancer incidence among AN women is critical to understanding the burden of this, the leading malignancy among AN people. Our study adds to previous reports from Day [32] and others by examining trends through to the most recent five-year period. While we did observe an increase in rates in the most recent periods, this increase was not statistically significant. Continued monitoring of this trend is warranted to determine whether this increase continues, or whether it is a result of natural variation in a small population. In agreement with our findings, stable rates have been observed across AIAN women nationwide[2]. In order to support prevention programs and reduce the incidence of this leading malignancy, the aetiology of breast cancer among AN women should also be explored, Although a growing body of literature has explored a potential role for environmental contaminants in the aetiology of female breast cancer [41,42], the science remains inconclusive, especially for AN women[43]. Focus on lifestyle risk factors for which we have clearer evidence may provide more immediate prevention benefit; the American Institute for Cancer Research recommends avoiding excess body fat and alcohol consumption, and engaging in regular physical activity, as well as breastfeeding to reduce the risk of female breast cancer[44]. A recent analysis of population attributable risk among AN women showed up to 4% of female breast cancers could be prevented by elimination of obesity, up to 15% for physical inactivity, and up to 5% for heavy alcohol use[45].
+In our examination of survival, we determined that five-year survival was high (>90%) among AN women, and similar to that among USW women. Comparisons of these data to previously published results are challenging; a recent national analysis of SEER program data showed survival disparities from early-stage breast cancer by race, but this study did not examine survival among AIAN women, so a comparison was not possible[46]. An examination of the Florida Cancer Data System showed that AIAN women had the lowest median survival of any racial group, and similar to our findings, observed that survival was not significantly different among AIAN women than among USW women[47]. A recent analysis by our group focused exclusively on whether cause-specific survival among AN people had improved over time; we found no change in female breast cancer survival between 1992–2003 and 2003–2013[17]. Here, we focused on whether survival differed by age, stage at diagnosis, and cancer subtype. The hazard of death did not differ by age; however, it did vary by stage at diagnosis, and cancer subtype, a finding which is in agreement with our recently published findings[17]. Women diagnosed with regional or distant stage disease had greater than fourfold risk of death than those diagnosed at local stage, and women diagnosed with HER2−/HR− cancers had over a sixfold hazard of death during the five years post-diagnosis, relative to those diagnosed with HER2+/HR+ cancer. Our results show that in addition to guiding treatment decisions for AN women, these clinical factors are also key indicators of prognosis.
+This study has several strengths and limitations that warrant consideration. First, this is the first comprehensive analysis of female breast cancer, the most commonly diagnosed cancer among AN women, to include information on clinical variables including breast cancer subtype, histology, and grade. We used data from the ANTR, a high-quality population-based cancer surveillance resource, and member of the NCI SEER Program. The ANTR has cancer surveillance data for AN people dating back to 1969, so provides a long history of data that can be used to investigate cancer incidence trends such as those presented herein. One of the primary limitations of this study, which is shared across studies conducted among AIAN people, is the small number of cases. This restricts our statistical power, in turn affecting our ability to detect statistically significant differences between groups. This is particularly evident in Figure 1, where we present regional data and our time-trends analyses. Yet, we firmly believe that it is important to present this information specifically for AN people, and again within regions, to acknowledge the variation and heterogeneity of cancer epidemiology. Our data are always presented with confidence intervals and should be interpreted accordingly. Furthermore, the use of an age-based proxy for menopausal status may be inadequate; the number of women who experience menopause either before or after this age is unknown. Finally, there are several variables, such as BRCA status, that could provide additional understanding of this malignancy, but that are not yet routinely collected by the ANTR, and so were not available for analysis.
+This study provides a comprehensive description of breast cancer among AN women. Comparing to USW women, we provide new and updated information on clinical and demographic factors, cancer incidence trends, regional variations, and breast cancer survival. While female breast cancer is the most common cancer diagnosed among AN people, its descriptive epidemiology, aetiology and AN-specific risk factors are not well understood. Therefore, we anticipate that these findings will be of great interest to those interested in women’s health among AIAN people in Alaska, within the Circumpolar region, as well as indigenous peoples nationwide.
+Supplementary Material
+Supplemental Material
+Click here for additional data file.

@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+400,exclude,Not relevant to the research question/topic,second primary after DCIS
+401,exclude,Not relevant to the research question/topic,p53 mutation genetics
+402,include,,South Carolina registry incidence by race (AA vs EA)
+403,exclude,Not relevant to the research question/topic,reproductive risk factors cohort
+404,exclude,Not relevant to the research question/topic,HBOCS syndrome burden not race
+405,include,,SEER incidence trends by age/race/ethnicity 2000-2009
+406,exclude,Not relevant to the research question/topic,chemotherapy toxicity
+407,exclude,Not relevant to the research question/topic,macrophage prognostic biomarker
+408,exclude,Not relevant to the research question/topic,mortality CCR
+409,exclude,Not relevant to the research question/topic,admixture-mapping genetics
+410,exclude,Not relevant to the research question/topic,survival six states
+411,include,,Annual Report subtype incidence by race/ethnicity 1975-2011
+412,exclude,Not relevant to the research question/topic,genetic-ancestry risk variants
+413,include,,Annual Report incidence by 5 racial/ethnic groups 1975-2002
+414,exclude,Not relevant to the research question/topic,p53 mutation genetics Hispanic
+415,include,,Alaska Native registry breast incidence vs US white 1969-2003
+416,exclude,Not relevant to the research question/topic,body-size risk-factor case-control
+417,exclude,Not relevant to the research question/topic,mammography/detection program
+418,exclude,Not relevant to the research question/topic,county characteristics/treatment NC
+419,include,,CCR TNBC incidence rates young African-American
+420,exclude,Not relevant to the research question/topic,tumor stem-cell marker biomarker
+421,exclude,Not relevant to the research question/topic,SES incidence/stage all-cancer
+422,exclude,Not relevant to the research question/topic,Germany-US survival comparison
+423,exclude,Not relevant to the research question/topic,mortality disparity young Black
+424,include,,MEC Hawaii/LA incidence by race/ethnicity (risk-factor-adjusted)
+425,include,,SEER API invasive ductal incidence by region
+426,include,,SEER invasive lobular carcinoma incidence by race
+427,include,,CCR AANHPI invasive incidence by enclave/nSES
+428,include,,Alaska Native registry breast incidence (corrected; dup of 415)
+429,exclude,Not relevant to the research question/topic,risk-prediction model white women
+430,exclude,Not relevant to the research question/topic,second-hand-smoke risk-factor MEC
+431,exclude,Not relevant to the research question/topic,DCIS in-situ incidence not invasive
+432,exclude,Not relevant to the research question/topic,interleukin gene genetics
+433,exclude,Not relevant to the research question/topic,vitamin D mortality survivors
+434,exclude,Not relevant to the research question/topic,IBC incidence/survival not by race
+435,exclude,Not relevant to the research question/topic,distant-stage multi-cancer incidence
+436,include,,SEER incidence trends by age/race/ethnicity 2000-2023
+437,exclude,Not relevant to the research question/topic,vitamin D risk-factor MEC
+438,include,,SEER incidence by histologic subtype and race/ethnicity 1995-2004
+439,exclude,Not a US population-based/registry study,Taiwan-US comparison US-white only
+440,exclude,Not relevant to the research question/topic,regional diagnostic rates/treatment/outcomes
+441,exclude,Not relevant to the research question/topic,cardiovascular outcomes anthracycline
+442,exclude,Not relevant to the research question/topic,registry data-quality methodology
+443,exclude,Not relevant to the research question/topic,ER-status imputation methodology
+444,exclude,Not relevant to the research question/topic,adjuvant radiation therapy receipt
+445,exclude,Not relevant to the research question/topic,lung cancer subsequent thoracic
+446,exclude,Not relevant to the research question/topic,mammography rates Asian immigrants
+447,exclude,Not relevant to the research question/topic,second primary contralateral
+448,include,,CA/MA registries invasive incidence by race/ethnicity+SES
+449,exclude,Not relevant to the research question/topic,breast density DXA adolescents
+450,exclude,Not relevant to the research question/topic,body-size risk-factor case-control
+451,exclude,Not relevant to the research question/topic,HR-status/histology characteristics by race not rates
+452,exclude,Not relevant to the research question/topic,ductal/lobular histologic incidence not by race
+453,include,,SEER SC vs Ohio ER/grade subtype incidence AA vs EA
+454,exclude,Not relevant to the research question/topic,AI/AN QoL/treatment-barriers survey
+455,include,,SEER young-women incidence rates by ethnicity/Asian subgroups
+456,exclude,Not relevant to the research question/topic,adiponectin polymorphism genetics
+457,exclude,Not relevant to the research question/topic,tumor size/nodes characteristics
+458,exclude,Not relevant to the research question/topic,chemo-induced peripheral neuropathy
+459,exclude,Not relevant to the research question/topic,ovarian cancer radiation

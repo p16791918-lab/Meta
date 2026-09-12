@@ -1,0 +1,84 @@
+#!/usr/bin/env python3
+"""Assemble the MAIN-TEXT tables/figures manifest (outputs/_maintext_manifest.json),
+rendered to Word by build_maintext_docx.js. Per MANUSCRIPT_VS_SUPPLE.md the main
+text is lean: Table 1 (summary IRRs by group x dimension) and the key figures
+(Figure 1 PRISMA; Figure 2 the aggregate-to-disaggregated heterogeneity forest;
+Figure 3 the group x analytic-dimension heatmap). There is no pooled
+meta-analysis table in the main text — the analysis selects one representative
+per cell rather than pooling. Everything granular stays in the Supplementary."""
+import csv, json, os, re
+from collections import defaultdict, OrderedDict
+from labels import disp_group
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(HERE, "outputs")
+M = []
+
+
+def H(t, l=1): M.append({"type": "heading", "text": t, "level": l})
+def P(t, it=False): M.append({"type": "para", "text": t, "italic": it})
+def TB(h, rows, w): M.append({"type": "table", "headers": h, "rows": rows, "widths": w})
+def IMG(p, w, h): M.append({"type": "image", "path": os.path.join(OUT, p), "w": w, "h": h})
+def PB(): M.append({"type": "pagebreak"})
+def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
+def cite(ay):  # "Gopalani2020_31764279" -> "Gopalani 2020"; "Ellington2022_USCS" -> "Ellington 2022"
+    return re.sub(r"(\d{4})", r" \1", ay.split("_")[0]).strip()
+
+
+# ==== Table 1. Summary of IRRs by racial/ethnic group and analytic dimension ====
+H("Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial and "
+  "ethnic groups relative to non-Hispanic White women, by analytic dimension", 1)
+# Single Table 1: analytic dimensions are full-width section rows within one table.
+t1 = rd("outputs/Table1_main.csv")
+TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",
+    "RoB"], [], [3050, 1000, 2850, 2650, 2250, 1300])
+tbl = M[-1]
+cur = None
+for r in t1:
+    if r["dimension"] != cur:
+        cur = r["dimension"]
+        tbl["rows"].append({"section": cur})
+    tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
+                        "%s (%s)" % (cite(r["study"]), r["period"]),
+                        r.get("registry", ""), r["rob"]])
+# Note placed below the table (analysis method, comparator, symbols, abbreviations only).
+P("Note. Each cell shows one representative population-based estimate — the most recent, "
+  "broadest-coverage registry estimate per registry family — not a pooled estimate; the "
+  "selection rule and its robustness are given in the Methods and Supplementary Table 6. "
+  "The effect measure is the incidence rate ratio (IRR) unless marked as a standardized "
+  "incidence ratio (SIR); comparisons are versus non-Hispanic White (NHW) women. "
+  "† the study's reference was an unstratified White group (not stratified by Hispanic "
+  "origin), examined in the NHW-comparator sensitivity analysis (Supplementary Table 6c). "
+  "‡ the 95% confidence interval was computed by the reviewers from published rates rather "
+  "than reported in the source. NHB, non-Hispanic Black; AANHPI, Asian American, Native "
+  "Hawaiian, and Pacific Islander (NHPI, the Pacific Islander subset, shown separately); "
+  "RoB, risk-of-bias rating of the representative study. Full per-estimate detail is in the "
+  "Supplementary Materials.", True)
+PB()
+
+# NOTE: no "meta-analysis results" table. Estimates within a group come from
+# overlapping registry populations and are not independent, so they were not pooled;
+# the analysis reports a representative population-based (benchmark) estimate per
+# group (Table 1) and the robustness of that selection (Supplementary Table 6).
+
+# ==== Figures ====
+H("Figure 1. PRISMA 2020 flow diagram", 1)
+IMG("Fig_PRISMA.png", 680, 578)
+PB()
+H("Figure 2. Aggregate-to-disaggregated heterogeneity in breast cancer incidence "
+  "(representative IRR vs non-Hispanic White, 95% CI): the Asian American, Native Hawaiian "
+  "and Pacific Islander (AANHPI), Hispanic/Latina, and American Indian and Alaska Native "
+  "(AI/AN) aggregates, each shown with its subgroups", 1)
+IMG("Fig_forest_main.png", 660, 792)
+PB()
+H("Figure 3. Incidence rate ratio by racial or ethnic group and analytic dimension "
+  "(representative estimate vs non-Hispanic White; 1.0 = the NHW rate)", 1)
+IMG("Fig_heatmap.png", 760, 429)
+
+json.dump(M, open(os.path.join(OUT, "_maintext_manifest.json"), "w"), ensure_ascii=False)
+from collections import Counter
+print("main-text manifest:", dict(Counter(m["type"] for m in M)))
+
+
+if __name__ == "__main__":
+    pass

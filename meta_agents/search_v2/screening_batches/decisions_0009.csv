@@ -1,0 +1,61 @@
+record_id,decision,display_reason,sub_reason
+500,include,,SEER/IHS AI/AN vs NHW incidence rates 1999-2015
+501,exclude,Not relevant to the research question/topic,ACA health-services utilization
+502,exclude,Not relevant to the research question/topic,SES/race mortality survival
+503,exclude,Not relevant to the research question/topic,homeless screening survey
+504,include,,CCR incidence by race/ethnicity persistent-poverty areas
+505,exclude,"Editorials, commentaries, letters, or conference abstracts",Hawaii incidence highlights no abstract
+506,exclude,Not relevant to the research question/topic,Asian-American risk-factor case-control
+507,exclude,Not relevant to the research question/topic,oral-contraceptive risk case-control
+508,exclude,Not relevant to the research question/topic,WHI estrogen RCT outcomes
+509,exclude,"Editorials, commentaries, letters, or conference abstracts",support-program Viewpoint
+510,include,,ACS AANHPI incidence statistics 2016
+511,exclude,Not relevant to the research question/topic,South Asian screening attitudes
+512,exclude,Not relevant to the research question/topic,BC-renal-cell second cancer association
+513,exclude,Not relevant to the research question/topic,late-stage incidence screening program
+514,exclude,Not relevant to the research question/topic,Chamorro screening convenience sample
+515,exclude,Not relevant to the research question/topic,AMBER young-onset biology case-control
+516,include,,Detroit registry breast incidence by race/neighborhood
+517,include,,ACS incidence by race/ethnicity 2017
+518,exclude,Not relevant to the research question/topic,rural Appalachia geographic not race
+519,exclude,Not relevant to the research question/topic,ovarian cancer epidemiology
+520,exclude,Not relevant to the research question/topic,subsequent endometrial cancer
+521,exclude,Not relevant to the research question/topic,mammography follow-up timeliness
+522,include,,Hawaii disaggregated AANHPI incidence vs NHW by subtype
+523,exclude,Not relevant to the research question/topic,MKK3 genomic biomarker
+524,exclude,Not relevant to the research question/topic,all-cause mortality survival Detroit
+525,exclude,Not relevant to the research question/topic,mortality spatial Tennessee
+526,exclude,Not relevant to the research question/topic,early death stage IV nomogram
+527,exclude,Not relevant to the research question/topic,Hmong screening survey
+528,exclude,Not relevant to the research question/topic,recurrence rates
+529,exclude,Not relevant to the research question/topic,genetic-reproductive risk AA families
+530,exclude,Not relevant to the research question/topic,clinical-trial enrollment NC
+531,exclude,Not relevant to the research question/topic,CVD medication adherence
+532,exclude,Not a US population-based/registry study,global GLOBOCAN 2022-2050
+533,exclude,Not relevant to the research question/topic,survivorship distress qualitative
+534,exclude,Not relevant to the research question/topic,subsequent primary/mortality survivors
+535,exclude,Not relevant to the research question/topic,South Asian screening qualitative
+536,exclude,Not relevant to the research question/topic,genomic landscape recurrence
+537,exclude,Not relevant to the research question/topic,mammography screening intervention
+538,exclude,Not relevant to the research question/topic,opioid/benzodiazepine prescribing
+539,exclude,Not relevant to the research question/topic,estrogen-metabolism genotypes
+540,exclude,Not relevant to the research question/topic,Korean mammography behavior
+541,include,,Pennsylvania registry BC diagnosis by race/income
+542,exclude,Not relevant to the research question/topic,faith-based screening RCT protocol
+543,include,,ACS African American/Black cancer statistics 2022
+544,exclude,Not relevant to the research question/topic,chemotherapy symptoms/adherence
+545,exclude,Not relevant to the research question/topic,years-of-life-lost mortality
+546,exclude,Not relevant to the research question/topic,AYA all-cancer incidence not breast-by-race
+547,exclude,Not relevant to the research question/topic,mortality simulation modeling
+548,exclude,Not relevant to the research question/topic,germline mutation prevalence genetics
+549,exclude,Not relevant to the research question/topic,tumor microenvironment biology
+550,exclude,Not a US population-based/registry study,Barbados incidence/mortality
+551,exclude,Not a US population-based/registry study,China-US comparison
+552,exclude,"Editorials, commentaries, letters, or conference abstracts",Stat bite brief note no abstract
+553,exclude,Not relevant to the research question/topic,ACA clinic enrollment/screening
+554,exclude,Not relevant to the research question/topic,CBPR methods Indian country
+555,exclude,Not relevant to the research question/topic,African-immigrant screening
+556,exclude,Not relevant to the research question/topic,survival disparity DoD
+557,exclude,Not relevant to the research question/topic,API screening disaggregation
+558,exclude,Not relevant to the research question/topic,farmworker occupational cohort MOR
+559,exclude,Not relevant to the research question/topic,traffic-emission risk case-control

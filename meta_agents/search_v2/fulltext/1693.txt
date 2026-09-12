@@ -1,0 +1,779 @@
+record_id=1693 pmid= doi=10.2139/ssrn.5051333
+SOURCE: manual-pdf
+TITLE: Regional Disparities in Incidence and Outcomes of Invasive Ductal Carcinoma Among Asian and Pacific Islander Women in the United States
+
+Regional disparities in incidence and outcomes of invasive ductal 
+carcinoma of the breast among Asian and Pacific Islander women in the 
+United States
+Kailee Bunte a,1
+, Bianca Ituarte a,1
+, Gowri Warikoo a, Pedro Morales-Ramírez b,*
+a University of Missouri-Kansas City School of Medicine, Kansas, MO, USA
+b Department of Obstetrics and Gynecology, University of Missouri-Kansas City School of Medicine, Kansas City, MO, USA 
+A R T I C L E I N F O
+Keywords:
+Breast cancer mortality
+Asian and Pacific Islander breast cancer
+API cancer mortality
+SEER database
+A B S T R A C T
+Background: Asian women have experienced a disproportionate increase in breast cancer incidence over the past 
+four decades when compared to patients of other races. We aim to determine the variation of incidence and 
+survival rates for Asian women based on their residential status by region of the United States.
+Methods: The Surveillance, Epidemiology and End Results (SEER) 17-State database was used to identify cases of 
+ductal carcinoma and its subtypes (ICD-O-3/3 codes: 8500, 8521, 8503, 8507, 8514, 8522, 8523; C50.0–50.9) 
+among Asian and Pacific Islander (API) women during 2000–2020. Chi square tests were used for comparison of 
+clinical and socioeconomic variables and Kolmogorov-Smirnov and Kruskal Wallis tests were used to assess 
+differences between mean time to treatment and diagnosis. Incidence was analyzed via Joinpoint Regression 
+Software with Kaplan-Meier survival curves for evaluation of survival by region, measured in months. Multi­
+variate Cox proportional hazards regression identified independent predictors of survival. All statistical analyses 
+were conducted using SPSS Version 29.0.2, with significance at p < 0.05.
+Results: The West represented the largest incidence over the 20-year study period with 89.6 per 100,000 (95 % 
+CI: 88.9–90.2). There were notable differences in both 5-year and 10-year survival rates with the south having 
+the largest decline, dropping from 84 % at 5 years and 54 % at 10 years. This is despite the south being found to 
+have the shortest time to treatment, 0.97 months (95 % CI: 0.95–0.99; p = 0.009). Multivariate Cox regression 
+showed API women in the South had a 24 % increased risk of mortality compared to those in the West (aHR 
+1.244, 95 % CI: 1.176–1.315; p < 0.001).
+Conclusions: The results of this study demonstrate significant disparities in incidence, treatment patterns, and 
+survival outcomes amongst API women by residential status.
+1. Background
+Breast cancer incidence in the United States has increased by an 
+average of 0.5 % annually over the past four decades, partly due to 
+improved detection through screening programs [1,2]. The rate of in­
+crease, however, varies significantly among different racial groups, with 
+Asian populations experiencing a notable rise in breast cancer incidence 
+despite traditionally low rates [3,4]. This disparity may be partly 
+explained by lower breast cancer screening rates among Asian Ameri­
+cans compared to other racial groups, even when accounting for edu­
+cation, insurance, and income [5]. These lower screening rates can lead 
+to delayed diagnoses and, consequently, poorer survival outcomes [6].
+Despite significant advances in breast cancer research, Asian women 
+remain under-represented in large scale studies [7], contributing to 
+disparities. These disparities are compounded by unique challenges, 
+including the diverse genetic origins encompassed within the “Asian” 
+racial classification. This heterogeneity, along with geographic barriers 
+and reduced access to care in underserved regions, contributes to 
+delayed diagnosis and limited screening, often resulting in the use of 
+more aggressive treatments and lower survival rates. Geographic loca­
+tion is a known determinant of reduced access to timely diagnosis and 
+treatment, further exacerbating these inequalities [8]. Collectively, 
+Abbreviations: API, Asian Pacific Islander; SEER, The Surveillance, Epidemiology and End Results.
+* Correspondence to: Department of Obstetrics and Gynecology, University of Missouri-Kansas City, 2301 Holmes St, Kansas City, MO 64108, USA
+E-mail address: moralesramirezp@umkc.edu (P. Morales-Ramírez). 
+1 Denotes equal contribution
+Contents lists available at ScienceDirect
+Cancer Epidemiology
+journal homepage: www.elsevier.com/locate/canep
+https://doi.org/10.1016/j.canep.2025.102861
+Received 10 April 2025; Received in revised form 29 May 2025; Accepted 2 June 2025  
+Cancer Epidemiology 97 (2025) 102861 
+Available online 21 June 2025 
+1877-7821/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+these factors underscore the need for targeted efforts to improve health 
+equity for this population.
+This study aims to identify these gaps by using data from the Sur­
+veillance, Epidemiology, and End Results (SEER) database to explore 
+how geographic location influences incidence, treatment, and survival 
+outcomes of invasive ductal carcinoma (IDC) among Asian and Pacific 
+Islander women in the United States. By examining regional variations 
+and their interplay with patient demographics, tumor characteristics, 
+and access to care, this work seeks to provide a deeper understanding of 
+the factors contributing to inequities in breast cancer outcomes. The 
+findings aim to inform targeted interventions to improve survival and 
+reduce disparities within this under-represented population.
+2. Methods
+This retrospective cohort study utilized the Surveillance, Epidemi­
+ology, and End Results [9] 17-State Research Plus Registry Database to 
+identify cases Fof ductal carcinoma among Asian and Pacific Islander 
+(API) women from 2000 to 2020. Patients from the SEER Research Plus 
+Database who were identified as API, with pathologically confirmed 
+ductal carcinoma and its subtypes as defined by ICD-O-3 histology and 
+site codes (8500, 8521, 8503, 8507, 8514, 8522, 8523; C50.0–50.9) 
+located in the breast (primary site codes: C50.0–50.9) were included. 
+Data from individuals in California, Georgia, Connecticut, Seattle (Puget 
+Sound), Utah, Louisiana, Kentucky, Hawaii, New Mexico, Iowa, and 
+New Jersey were available for this study and grouped by region in the 
+United States, modeling widely agreed upon geographic divisions such 
+as those used by National Geographic [10]. The West included Hawaii, 
+Seattle (Puget Sound), Utah, Alaska Natives, San Jose-Monterey (SJM), 
+Los Angeles, and California excluding San Francisco/SJM, and Los 
+Angeles, while the South included Georgia, Louisiana, and Kentucky. 
+The Midwest was represented by Iowa, the east of Connecticut and New 
+Jersey, and the Southwest alongside New Mexico. Demographics of in­
+terest included age, marital status, median household income (adjusted 
+to 2021 dollars), and rural/urban residence. Tumor features included 
+histologic subtype, SEER combined stage, breast-adjusted American 
+Joint Committee on Cancer (AJCC) stage, and positivity of estrogen, 
+progesterone, and HER2 receptors. Rates of metastasis to lung, bone, 
+brain, and liver were obtained to assess spread between regions. 
+Treatment was assessed by type of surgery and rates of chemotherapy 
+and radiation. Chi-square tests were used to compare the clinical and 
+socioeconomic variables among United States regions.
+Age-adjusted incidence rates were calculated using SEER*Stat soft­
+ware, while Joinpoint Regression software utilized annual percent 
+changes to identify directional shifts in incidence by region. Kruskal- 
+Wallis testing was used to assess differences in mean time from 
+diagnosis to treatment (in months). Univariate Kaplan-Meier survival 
+curves were generated to evaluate differences in survival by region. 
+Multivariate Cox regression was used to identify location as an inde­
+pendent predictor of survival when adjusting for age, income, histologic 
+subtype, stage, and ER, PR, and HER2 statuses. All statistical analyses 
+were completed using SPSS (Version 29.0.2), with significance set at 
+p < 0.05.
+3. Results
+A total of 83,913 patients in the Surveillance, Epidemiology, and End 
+Results Database were identified as meeting the inclusion criteria for 
+analysis. The majority were from the West, which accounted for 50,763 
+patients (60.5 %), followed by the South with 13,525 patients (16.1 %). 
+The East contributed 6146 patients (7.3 %), while the Southwest and 
+Midwest had significantly smaller representations, with 172 patients 
+(0.2 %) and 279 patients (0.3 %), respectively. Over the 20-year study 
+period, the overall incidence of invasive ductal carcinoma was 87.1 
+cases per 100,000 people (95 % CI: 86.5–87.7). Regional variations were 
+evident, with the West reporting the highest incidence at 89.6 per 
+100,000 (95 % CI: 88.9–90.2) [Table 1]. The East followed with an 
+incidence of 78.8 per 100,000 (95 % CI: 76.9–80.6), while the Southwest 
+reported 70.2 per 100,000 (95 % CI: 65.3–75.4) [Table 1]. The Midwest 
+and South had the lowest incidences, at 76.9per 100,000 (95 % CI: 
+60.2–76.3) and 66.6 per 100,000 (95 % CI: 64.2–69.1), respectively 
+[Table 1]. These findings highlight significant regional differences in 
+IDC incidence across the United States.
+The Kaplan-Meier survival analysis revealed significant regional 
+differences in survival (p < 0.001) [Fig. 1]. The West demonstrated a 5- 
+year survival rate of 87 %, decreasing to 64 % at 10 years, while the East 
+had a slightly higher 5-year survival rate of 88 %, declining to 69 % at 10 
+years. The South exhibited the largest decline, with survival rates 
+dropping from 84 % at 5 years to 54 % at 10 years, a difference of 30 
+percentage points [Fig. 1]. The Midwest and Southwest had similar 
+survival rates, with 5-year rates of 85 % and 83 %, respectively, both 
+declining to 64 % at 10 years [Fig. 1]. Multivariate Cox regression 
+showed that API women in the South had a 24 % increased risk of 
+mortality compared to those in the West (aHR 1.216, 95 % CI: 
+1.160–1.275; p < 0.001) 1), independent of clinical and socioeconomic 
+factors [Fig. 2].
+There were some differences in clinicopathological features. Intra­
+ductal papillary adenocarcinoma was rarely seen universally but was 
+highest in the West (0.5 %). Similarly, micropapillary carcinoma was 
+rarely seen but was highest in the Midwest (1.6 %) [Table 2]. Slightly 
+larger differences were seen amongst the infiltrating duct and lobular 
+carcinoma or infiltrating duct mixed with other types of carcinoma 
+Table 1 
+Demographic Characteristics of Invasive Ductal Carcinoma Among API Women by Region in the United States.
+Demographic Characteristics
+East
+West
+South
+Southwest
+Midwest
+P-value
+Overall Incidence
+Incidence per 100,000 (95 % CI)
+78.8 (76.9–80.6)
+89.6 (88.9–90.2)
+66.6 (64.2–69.1)
+70.2 (65.3–75.4)
+76.9 (60.2–76.3)
+Age (years)
+< 40
+653 (9.0 %)
+4504 (7.5 %)
+955 (5.9 %)
+14 (6.4 %)
+41 (12.8 %)
+< .001
+40–49
+2033 (28.1 %)
+13862 (23.1 %)
+2875 (17.8 %)
+50 (22.7 %)
+84 (26.2 %)
+50–59
+1953 (27.0 %)
+16184 (27.0 %)
+3991 (24.7 %)
+66 (30.0 %)
+86 (26.8 %)
+60–69
+1532 (21.2 %)
+14273 (23.8 %)
+4147 (25.6 %)
+53 (24.1 %)
+67 (20.9 %)
+70–79
+841 (11.6 %)
+7895 (13.2 %)
+2766 (17.1 %)
+27 (12.3 %)
+33 (10.3 %)
+> 80
+211 (2.9 %)
+3245 (5.4 %)
+1452 (9.0 %)
+10 (4.5 %)
+10 (3.1 %)
+Married at diagnosis
+Yes
+5116 (74.9 %)
+39167 (68.2 %)
+9616 (61.6 %)
+126 (65.6 %)
+228 (72.4 %)
+< 0.001
+No
+1713 (25.1 %)
+18256 (31.8 %)
+5999 (38.4 %)
+66 (34.4 %)
+87 (27.6 %)
+Median Household Income (inflation adjusted to 2021)
+< 75 K
+1429 (19.8 %)
+23673 (39.5 %)
+3665 (22.6 %)
+216 (98.2 %)
+297 (92.5 %)
+< 0.001
+> 75 K
+5793 (80.2 %)
+36290 (39.5 %)
+12520 (77.4 %)
+4 (1.8 %)
+24 (7.5 %)
+Rural/Urban Living Status
+Rural
+26 (0.4 %)
+266 (0.4 %)
+2354 (14.5 %)
+43 (19.5 %)
+76 (23.7 %)
+< 0.001
+Urban
+7196 (99.6 %)
+59697 (99.6 %)
+13831 (85.5 %)
+177 (80.5 %)
+245 (76.3 %)
+K. Bunte et al.                                                                                                                                                                                                                                   
+Cancer Epidemiology 97 (2025) 102861 
+2 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+subtypes [Table 2]. The outer quadrant of the breast or unspecified/ 
+overlapping locations were the two most common locations for all re­
+gions (p < 0.001) [Table 2]. ER, PR, and HER2 status were all similar 
+across regions with most patients having ER and PR positivity and only 
+the minority having HER2 (p < 0.001) [Table 2].
+Living in the South was associated with a higher stage at diagnosis 
+(p = 0.03), while patients in the Midwest had the highest rates of 
+cancer-directed surgical intervention (p = 0.02) [Table 2]. Patients in 
+all regions were more likely to present without metastasis to the lungs, 
+brain, liver, or bones at initial diagnosis [Table 3]. Amongst all 
+anatomical locations listed, the Midwest had the highest percentage of 
+patients without metastasis (p < 0.001) [Table 3]. All regions were 
+noted to have a higher number of patients who were married at diag­
+nosis than not, as well as more patients living in an urban setting than 
+rural (p < 0.001) [Table 1]. There was greater variation when looking at 
+median household income, with the East and South having higher rates 
+of malignancy in households making more than $75,000, the Southwest 
+and Midwest having greater rates in households making less than 
+$75,000, and equal rates for the west (p < 0.001) [Table 1].
+The average time from diagnosis to treatment varied significantly 
+Fig. 1. “Incidence of Ductal Carcinoma of the Breast Among Asian Women in Various Regions of the United States from 2000 to 2020”.
+K. Bunte et al.                                                                                                                                                                                                                                   
+Cancer Epidemiology 97 (2025) 102861 
+3 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+depending on region. Patients in the Midwest had the shortest time to 
+treatment, with an average of 0.85 months (95 % CI: 0.72–0.97) 
+[Table 5]. The South and Southwest were tied with an average of 0.97 
+months (95 % CI: 0.95–0.99 and 0.84–1.09, respectively). The East re­
+ported an average of 1.11 months (95 % CI: 1.09–1.14), and the longest 
+wait times for treatment after initial diagnosis were found in the West 
+(1.12 months; 95 % CI: 1.11–1.13) [Table 5]. The South was the least 
+likely to not undergo an operation for treatment of their cancer (6.0 %) 
+and the most likely to have a partial mastectomy (54.6 %) compared to 
+its counterparts [Table 4]. The East and West had nearly identical rates 
+of radiation at 92.9 % and 92.8 % respectively [Table 4].
+Fig. 2. “Kaplan-Meier survival curve of Asian women with ductal carcinoma of the breast by US geographic location”.
+Table 2 
+Cancer Characteristics of Invasive Ductal Carcinoma Among API Women by Region in the United States.
+Cancer Characteristics
+East
+West
+South
+Southwest
+Midwest
+P-value
+Histologic Subtype
+Intraductal papillary adenocarcinoma
+31 (0.4 %)
+277 (0.5 %)
+41 (0.3 %)
+0 (0.0 %)
+1 (0.3 %)
+< 0.001
+Micropapillary ductal carcinoma
+16 (0.2 %)
+273 (0.5 %)
+47 (0.3 %)
+2 (0.9 %)
+5 (1.6 %)
+Desmoplastic type ductal carcinoma
+1 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+Infiltrating duct and lobular carcinoma
+498 (6.9 %)
+3639 (6.1 %)
+508 (3.1 %0
+14 (6.4 %)
+7 (2.2 %)
+Infiltrating duct mixed with other types of carcinoma
+276 (3.8 %)
+1789 (3.0 %)
+277 (1.7 %)
+3 (1.4 %)
+8 (2.5 %)
+Primary Site
+Central portion of the breast
+415 (5.7 %)
+3294 (5.5 %)
+1122 (6.9 %)
+10 (4.5 %)
+21 (6.5 %)
+< 0.001
+Inner quadrants of the breast
+1291 (17.9 %)
+11306 (18.9 %)
+3200 (19.8 %)
+47 (21.4 %)
+54 (16.8 %)
+Outer quadrants of the breast
+2741 (37.9 %)
+23326 (38.9 %)
+6581 (40.7 %)
+92 (41.8 %)
+128 (39.9 %)
+Unspecified/overlapping location
+2776 (38.4 %)
+22037 (36.8 %)
+5283 (32.6 %)
+71 (32.3 %)
+118 (36.8 %)
+Central portion of the breast
+415 (5.7 %)
+3294 (5.5 %)
+1122 (6.9 %)
+10 (4.5 %)
+21 (6.5 %)
+SEER Stage
+Distant
+296 (4.7 %)
+2220 (4.2 %)
+614 (4.5 %)
+11 (6.0 %)
+11 (3.9 %)
+< 0.001
+Regional
+1955 (30.8 %)
+16060 (30.6 %)
+3692 (26.9 %)
+48 (26.2 %)
+92 (32.3 %)
+Localized
+4087 (64.5 %)
+34265 (65.2 %)
+9433 (68.7 %)
+48 (26.2 %)
+92 (32.3 %)
+Breast- Adjusted AJCC 6th Stage
+0
+0 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+< 0.001
+1
+2039 (46.7 %)
+18092 (47.3 %)
+5557 (52.1 %)
+65 (50.0 %)
+75 (43.4 %)
+2a, 2b
+1557 (35.6 %)
+14465 (37.8 %)
+3630 (34.0 %)
+43 (33.1 %)
+64 (37.0 %)
+3a, 3b, 3c
+598 (13.7 %)
+4416 (11.5 %)
+1093 (10.2 %)
+13 (10 %)
+30 (17.3 %)
+4
+176 (4.0 %)
+1307 (3.4 %)
+389 (3.6 %)
+9 (6.9 %)
+4 (2.3 %)
+Receptor Positivity
+ER
+5374 (79.4 %)
+46803 (81.5 %)
+13112 (83.0 %)
+165 (81.3 %)
+263 (84.3 %)
+< 0.001
+PR
+4687 (69.6 %)
+40216 (70.8 %)
+11557 (73.5 %)
+145 (72.1 %)
+239 (76.6 %)
+< 0.001
+HER2
+946 (13.1 %)
+7593 (12.7 %)
+1597 (9.9 %)
+24 (10.9 %)
+43 (13.4 %)
+< 0.001
+ER- estrogen receptor, PR- progesterone receptor, HER2- human epidermal growth factor receptor 2
+K. Bunte et al.                                                                                                                                                                                                                                   
+Cancer Epidemiology 97 (2025) 102861 
+4 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+4. Discussion
+The highest incidence of IDC was observed in the Western region of 
+the United States which may be attributable to multiple factors. Prior 
+studies have shown that increased screening via mammography is 
+directly related to higher incidence reports [11]. The Western region has 
+greater access to mammograms and an aggressive state-level screening 
+prevalence when compared to other U.S. regions [12]. Additionally, 
+mammography rates tend to be greater in urban areas, and the West has 
+a greater proportion of urban populations when compared to the South 
+or Midwest [13]. While accessible screening is the most established 
+cause for higher incidence, less studied possibilities could be environ­
+mental risk factors or lifestyle factors more prevalent in this area.
+Despite shorter duration of time to treatment in the South, survival 
+outcomes were notably worse, suggesting that factors beyond treatment 
+timing, such as stage at diagnosis or the quality of treatment received, 
+may play a critical role in long term outcomes. It is important to consider 
+that the confidence intervals for time to treatment did overlap, however 
+it is still worth noting as this measure provides a useful descriptive 
+overview of how care is being delivered across regions. Through the data 
+presented in this paper, the South was seen to have more advanced 
+disease at diagnosis, consistent with lower screening rates. Although 
+cancer-directed surgical intervention was more frequently employed in 
+the South, survival rates declined, visible by the greatest survival drop 
+from 5 years to 10 years relative to the other regions. A discrepancy in 
+treatment modality, distance to providers, or limited specialists could 
+also contribute.
+Socioeconomic and geographic factors likely further contribute to 
+the observed gaps. The Southern population has a higher representation 
+of rural and low-income individuals, two groups that are associated with 
+limited access to healthcare, delayed diagnosis, and high rates of 
+comorbidities [14]. Further, the South has a dense population of racial 
+and ethnic minorities who have historically faced disparities and in­
+equities throughout the healthcare system. Together, these factors could 
+aid in explaining the region’s poorer survival outcomes despite a shorter 
+initial time to treatment.
+In contrast, patients in the East exhibited better survival outcomes 
+than those in the West, even with longer times to treatment. This sug­
+gests that other factors, such as healthcare quality, multidisciplinary 
+care approaches, or patient support systems, may play a compensatory 
+role. Higher median household incomes and greater access to compre­
+hensive cancer care in the East could also contribute to these improved 
+outcomes. These observations underscore the importance of not just 
+timely treatment but also effective and coordinated care in improving 
+survival rates.
+These results are consistent with existing hypotheses regarding racial 
+and regional disparities in breast cancer outcomes, which attribute dif­
+ferences to variations in tumor biology, comorbidities, and systemic 
+inequities.
+Table 3 
+Presence of Metastasis at Diagnosis of Invasive Ductal Carcinoma Among API Women by Region in the United States.
+Presence of Metastasis
+East
+West
+South
+Southwest
+Midwest
+P-value
+Presence of lung metastasis
+Yes
+79 (1.1 %)
+560 (0.9 %)
+157 (1.0 %)
+0 (0.0 %)
+3 (0.9 %)
+< .001
+No
+4786 (66.3 %)
+38221 (63.7 %)
+9643 (59.6 %)
+139 (63.2 %)
+233 (72.6 %)
+Presence of brain metastasis
+Yes
+13 (0.2 %)
+93 (0.2 %)
+40 (0.2 %)
+1 (0.5 %)
+1 (0.3 %)
+< .001
+No
+4852 (67.2 %)
+38689 (64.5 %)
+9756 (60.3 %)
+138 (62.7 %)
+235 (73.2 %)
+Presence of liver metastasis
+Yes
+54 (0.7 %)
+453 (0.8 %)
+113 (0.7 %)
+5 (2.3 %)
+3 (0.9 %)
+< .001
+No
+4813 (66.6 %)
+38342 (63.9 %)
+9689 (59.9 %)
+134 (60.9 %)
+233 (72.6 %)
+Presence of bone metastasis
+Yes
+126 (1.7 %)
+1007 (1.7 %)
+275 (1.7 %)
+4 (1.8 %)
+3 (0.9 %)
+< .001
+No
+4739 (65.6 %)
+37804 (63.0 %)
+9528 (58.9 %)
+135 (61.4 %)
+233 (72.6 %)
+Table 4 
+Type of Treatment for Invasive Ductal Carcinoma Among API Women by Region in the United States.
+Type of Treatment
+East
+West
+South
+Southwest
+Midwest
+P-value
+Surgery
+No Surgery
+646 (9.0 %)
+4087 (6.8 %)
+955 (6.0 %)
+29 (13.2 %)
+24 (7.5 %)
+< .001
+Partial mastectomy
+3433 (47.7 %)
+29041 (48.4 %)
+8728 (54.6 %)
+109 (49.8 %)
+171 (53.3 %)
+Total mastectomy
+1949 (27.1 %)
+15120 (25.2 %)
+3421 (21.4 %)
+43 (19.6 %)
+52 (16.2 %)
+Radical mastectomy
+1115 (15.5 %)
+11238 (18.7 %)
+2820 (17.6 %)
+35 (16.0 %)
+70 (21.8 %)
+Bilateral mastectomy
+2 (0.0 %)
+10 (0.0 %)
+1 (0.0 %)
+0 (0.0 %)
+0 (0.0 %)
+Mastectomy, NOS
+59 (0.8 %)
+446 (0.8 %)
+55 (0.4 %)
+3 (1.4 %)
+4 (1.2 %)
+Radiation
+Received Radiation therapy
+3266 (92.9 %)
+27762 (91.9 %)
+9002 (92.8 %)
+106 (96.4 %)
+178 (93.2 %)
+< .001
+Chemotherapy
+No
+3817 (52.8 %)
+33149 (55.3 %)
+9685 (59.8 %)
+121 (55.0 %)
+164 (51.1 %)
+< .001
+Yes
+3406 (47.2 %)
+26814 (44.7 %)
+6501 (40.2 %)
+99 (45.0 %)
+157 (48.9 %)
+NOS-Not otherwise specified
+Table 5 
+Variation in time from diagnosis to treatment of Invasive Ductal Carcinoma Among API Women by Region in the United States.
+East
+West
+South
+Southwest
+Midwest
+Time from diagnosis to treatment (months)
+Mean (95 % CI)
+1.11 (1.09–1.14)
+1.12 (1.11–1.13)
+0.97 (0.95–0.99)
+0.97 (0.84–1.09)
+0.85 (0.72–0.97)
+Median [IQR]
+1.00 [0.00–2.00]
+1.00 [0.00–2.00]
+1.00 [0.00, 1.00]
+1.00 [0.00–1.00]
+1.00 [0.00–1.00]
+IQR: Interquartile range
+K. Bunte et al.                                                                                                                                                                                                                                   
+Cancer Epidemiology 97 (2025) 102861 
+5 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+5. Limitations
+This paper was limited by a few factors. The nature of the study is 
+retrospective, making it vulnerable to over generalization and inability 
+to demonstrate a cause-effect relationship. This database does not 
+represent the entirety of the United States, currently only accounting for 
+nearly 48 % of the total population [15]. Although this study focuses on 
+geographic location, SEER does not currently account for individuals 
+who have recently changed location, making opportunity for false 
+conclusions. Additionally, the data that has been used for this study 
+utilized a limited number of locations which resulted in some regions 
+having a higher density of participants compared to others. Two regions, 
+Midwest and Southwest, are represented by one state due to registry 
+availability. The SEER database does not give insight into factors that 
+could potentially influence treatment decisions or choices regarding 
+screening, which could incorrectly estimate gaps in care.
+6. Conclusion
+This study found significant regional disparities in the incidence, 
+treatment patterns, and survival outcomes of invasive ductal carcinoma 
+(IDC) among Asian and Pacific Islander (API) women in the United 
+States. While the overall incidence of IDC has increased over the 20-year 
+study period, survival outcomes varied notably across regions, under­
+scoring the complex interplay between geographic, socioeconomic, and 
+clinical factors.
+By focusing specifically on API women, this study provides valuable 
+insights into an underrepresented population, adding to the under­
+standing of how disparities manifest within this diverse group. Prior 
+studies have often focused on White and Black populations, making this 
+an important step toward addressing gaps in the literature.
+In conclusion, this study underscores the need for region-specific 
+interventions to address disparities in IDC outcomes among API 
+women. Expanding access to early detection, addressing systemic bar­
+riers to care, and improving treatment quality are critical priorities, 
+particularly in regions with the poorest outcomes. Further research 
+should explore the biological, cultural, and systemic factors influencing 
+these disparities to inform targeted strategies. By prioritizing equity in 
+cancer care, we can work toward improving outcomes for API women 
+diagnosed with IDC.
+CRediT authorship contribution statement
+Gowri Warikoo: Writing – review & editing, Writing – original draft, 
+Methodology, Investigation, Formal analysis. Bianca Ituarte: Writing – 
+review & editing, Writing – original draft, Methodology, Investigation, 
+Formal analysis, Data curation, Conceptualization. Morales-Ramirez 
+Pedro: Visualization, Validation, Supervision, Project administration, 
+Formal analysis. Kailee Bunte: Writing – review & editing, Writing – 
+original draft, Visualization, Validation, Methodology, Investigation, 
+Formal analysis, Data curation, Conceptualization.
+Patient Consent
+Not applicable
+Funding
+No funding received in the creation of this work
+Declaration of Competing Interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this article. The authors declare the following 
+financial or non-financial interests which may be considered as potential 
+conflicts of interest.
+References
+[1] J.L. Caswell-Jin, L.P. Sun, D. Munoz, et al., Analysis of breast cancer mortality in 
+the US—1975 to 2019, JAMA 331 (3) (2024) 233–241, https://doi.org/10.1001/ 
+jama.2023.25881.
+[2] C.E. DeSantis, J. Ma, A. Goding Sauer, A. Jemal, R.L. Siegel, Breast cancer statistics, 
+2019, CA A Cancer Journal Clinicians 69 (6) (2020) 438–451, https://doi.org/ 
+10.3322/caac.21754.
+[3] C.E. DeSantis, S.A. Fedewa, A. Goding Sauer, J.L. Kramer, R.A. Smith, A. Jemal, 
+Breast cancer statistics, 2015: convergence of incidence rates between black and 
+white women, CA Cancer J. Clin. 66 (2016) 31–42.
+[4] S.L. Gomez, J. Von Behren, M. McKinley, C.A. Clarke, S. Shariff-Marco, I. Cheng, et 
+al., Breast cancer in Asian Americans in California, 1988–2013: increasing 
+incidence trends and recent data on breast cancer subtypes, Breast Cancer Res 
+Treat. 164 (2017) 139–147.
+[5] Ashwini Paranjpe, Caiwei Zheng, Anees B. Chagpar, "Disparities in breast cancer 
+screening between Caucasian and Asian American women, J. Surg. Res. 277 (2022) 
+110–115.
+[6] R.P. Harris, K.N. Lohr, Cancer screening in the United States: issues and concerns, 
+J. Oncol. Pract. 26 (6) (2021) 453–460, https://doi.org/10.1093/annonc/ 
+mdab370.
+[7] Claire M. Eden, et al., The landmark series: the breast cancer burden of the Asian 
+American population and the need for disaggregated data, Ann. Surg. Oncol. 30 (4) 
+(2023) 2121–2127.
+[8] S. Obeng-Gyasi, B. Obeng-Gyasi, W. Tarver, Breast cancer disparities and the 
+impact of geography, Surg. Oncol. Clin. North Am. 31 (1) (2022) 81–90, https:// 
+doi.org/10.1016/j.soc.2021.08.002.
+[9] Surveillance, Epidemiology, and End Results (SEER) Program. (2022). SEERStat 
+Database: Incidence - SEER Research Plus Data, 17 Registries, Nov 2022 Sub 
+(2000–2020) - Linked to County Attributes - Total U.S., 1969–2021 Counties*. 
+National Cancer Institute, DCCPS, Surveillance Research Program. 〈https://www. 
+seer.cancer.gov〉.
+[10] National Geographic Society. (2024, October 30). United States regions National 
+Geographic Education. 〈https://education.nationalgeographic.org/resource/unit 
+ed-states-regions〉.
+[11] D. Wiese, F. Islami, K.A. Henry, Changes in geographic accessibility to 
+mammography by state and rural-urban status, United States, 2006-2022, J. Natl. 
+Cancer Inst. 115 (3) (2023) 337–340, https://doi.org/10.1093/jnci/djac217.
+[12] C. Harding, F. Pompei, D. Burmistrov, H.G. Welch, R. Abebe, R. Wilson, Breast 
+cancer screening, incidence, and mortality across US counties, JAMA Intern Med 
+175 (9) (2015) 1483–1489, https://doi.org/10.1001/jamainternmed.2015.3043.
+[13] E. Kim, L. Moy, Y. Gao, C.A. Hartwell, J.S. Babb, S.L. Heller, City patterns of 
+screening mammography uptake and disparity across the United States, Radiology 
+293 (1) (2019 Oct) 151–157, https://doi.org/10.1148/radiol.2019190647. Epub 
+2019 Aug 20. PMID: 31429681.
+[14] T. Akinyemiju, M. Jha, J.X. Moore, M. Pisu, Disparities in the prevalence of 
+comorbidities among US adults by state Medicaid expansion status, Prev. Med. 88 
+(2016) 196–202, https://doi.org/10.1016/j.ypmed.2016.04.009.
+[15] National Cancer Institute. (n.d.). Overview of the SEER Program. Surveillance, 
+Epidemiology, and End Results Program. 〈https://seer.cancer.gov/about/overvi 
+ew.html〉.
+K. Bunte et al.                                                                                                                                                                                                                                   
+Cancer Epidemiology 97 (2025) 102861 
+6 
+Downloaded for Anonymous User (n/a) at Pusan National University from ClinicalKey.com by Elsevier on August 09, 
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
