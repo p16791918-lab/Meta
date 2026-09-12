@@ -13,10 +13,12 @@ are not readily comparable across the published literature.
 
 **Methods.** Following PRISMA 2020 (PROSPERO CRD42023437049), four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
-those with a recoverable non-Hispanic White (NHW) comparison were synthesized quantitatively, the
+those with a recoverable White comparison, usually non-Hispanic White (NHW), were synthesized
+quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
 dimension was selected, not pooled; for American Indian and Alaska Native (AI/AN) populations, an
-Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an incidence rate ratio (IRR) versus NHW;
+Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an
+incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in a minority of cells;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
