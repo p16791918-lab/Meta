@@ -325,9 +325,9 @@ On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Standard population—the axis of most concern for cross-study comparability—mattered
-least: 81 of the 83 representatives were already standardized to the 2000 U.S. standard, so
-restricting to it dropped no cell and changed only two Black receptor-subtype cells, each from a
+throughout. Restricting to the 2000 U.S. standard population changed little: 81 of the 83
+representatives were already standardized to it, so the restriction dropped no cell and changed
+only two Black receptor-subtype cells, each from a
 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same
 direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
 Supplementary Table 6d). Restricting to
@@ -415,7 +415,7 @@ arrangement shows the span of published figures rather than a set of mutually ca
 analyses the main pattern held: few cells changed representative on restriction (11 under the
 low-risk-of-bias restriction, 5 under the directly-reported restriction, 1 under the
 NHW-comparator restriction, and 2 under the 2000 U.S. standard-population restriction), and most of the differences were cells dropped for lack of a qualifying
-estimate rather than cells that disagreed. Standard-population heterogeneity in particular proved
+estimate rather than cells that disagreed. Standard-population heterogeneity was
 minor: 81 of 83 representatives were already on the 2000 U.S. standard, and restricting to it dropped
 no cell and changed only two Black receptor-subtype cells, in the same direction. The changes that did occur clustered in the disaggregated
 AANHPI subgroups and the age-specific cells whose estimates sit near the NHW rate—Japanese women
