@@ -120,10 +120,9 @@ gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islande
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a
 confidence interval—groups for which a dedicated, and for AI/AN an IHS-linked, primary study is still
-needed. Because studies differed in standard population, period, and region, these estimates are
-best read as a comparable-scale summary of the available evidence rather than as mutually calibrated
-rates, with the provenance and comparator of each estimate (computed CI ‡; unstratified White †)
-marked so readers can weigh them.
+needed. Because studies differed in diagnosis period and region, these estimates are
+best read as a comparable-scale summary of the available evidence, with the provenance and comparator
+of each (computed CI ‡; unstratified White †) marked so readers can weigh them.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs
