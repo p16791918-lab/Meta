@@ -108,19 +108,15 @@ audit identified three wrongly excluded studies, all neighborhood- or segregatio
 that nonetheless tabulated race-specific incidence; each was added to the quantitative synthesis as
 a single-state or regional overlap, and none changed a cell representative. The full audit, with the
 records checked and the reasons retained, is in Supplementary Note 2. The author then obtained and read the full texts and
-made all full-text eligibility and inclusion decisions personally—except for four reports whose full
-text could not be obtained, which were assessed and included on the basis of their abstracts and
-enter only the narrative synthesis. The model assisted data
+made all full-text eligibility and inclusion decisions personally—except for one report whose full
+text could not be obtained, which was included from a supplementary data table and enters only the
+narrative synthesis. The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
 was verified by the author against the source table, figure, or text. This source re-verification rendered every included
-report's tables as page images, not only its extracted text, so that rate ratios printed in
-image-only tables were not missed. Four reports first placed in the narrative set were moved to
-the quantitative synthesis once their tables were read in full: two national USCS studies giving
-age-adjusted incidence rate ratios versus NHW women for those aged 20–49 years and for those aged
-65 years and older, a seven-state Delta-region study giving age-adjusted subtype rate ratios versus
-NHW women, and a SEER study giving age-adjusted rates by race from which the NHW comparison was
-recomputed. All four contributed overlapping or age-specific estimates rather than displacing the
-national representatives. In all, 166
+report's tables as page images, not only its extracted text, so that rate ratios in image-only
+tables were not missed; four reports first placed in the narrative set were thereby moved to the
+quantitative synthesis (Supplementary Note 2), all contributing overlapping or age-specific
+estimates rather than displacing the national representatives. In all, 166
 publications were included in the systematic review; of these, 55 were eligible for quantitative
 synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
@@ -232,7 +228,7 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was sought for 245 reports; 10 could not be
+records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
 retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
 quantitative synthesis and entered the analysis, contributing 206 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
@@ -438,7 +434,7 @@ estimates for the smallest subgroups rested on limited numbers, studies contribu
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
 assistance rather than by two independent reviewers; to limit selection and extraction error, the
-full text of every included study was read for the inclusion decision and every extracted estimate
+full text of all but one included study was read for the inclusion decision and every extracted estimate
 was checked against its source table, figure, or text.
 
 What this review adds beyond the individual studies is threefold. First, it places estimates that

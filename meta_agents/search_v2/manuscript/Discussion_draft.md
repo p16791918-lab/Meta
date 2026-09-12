@@ -101,7 +101,7 @@ estimates for the smallest subgroups rested on limited numbers, studies contribu
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
 assistance rather than by two independent reviewers; to limit selection and extraction error, the
-full text of every included study was read for the inclusion decision and every extracted estimate
+full text of all but one included study was read for the inclusion decision and every extracted estimate
 was checked against its source table, figure, or text.
 
 What this review adds beyond the individual studies is threefold. First, it places estimates that

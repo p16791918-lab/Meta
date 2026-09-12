@@ -11,7 +11,7 @@ unstratified White reference) or noted as an SIR.
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was sought for 245 reports; 10 could not be
+records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
 retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
 quantitative synthesis and entered the analysis, contributing 206 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied

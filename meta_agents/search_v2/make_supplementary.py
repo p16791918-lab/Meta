@@ -380,6 +380,15 @@ P("Boundary cases. Not every neighborhood or socioeconomic report qualifies. A S
 P("Conclusion. The 200-record sample yielded one eligible study (about 0.5%) and the full-pool scan "
   "two more, indicating a small but non-zero residual false-negative rate. Single-reviewer screening "
   "with model assistance is a limitation, recorded in the Discussion.", True)
+P("Omissions found on re-verification. Two rounds of source re-verification, which rendered each "
+  "included report's tables as page images, also recovered extractable data missed on first pass, all "
+  "among included reports: six overlapping-registry reports initially deferred were extracted into the "
+  "sensitivity pool, and four reports first placed in the narrative set were moved to the quantitative "
+  "synthesis after their image-only tables were read — two national USCS studies giving age-adjusted "
+  "IRRs versus NHW women for ages 20–49 and 65 and older, a seven-state Delta-region study giving "
+  "age-adjusted subtype IRRs versus NHW women, and a SEER study giving age-adjusted rates by race from "
+  "which the NHW comparison was recomputed. All four contributed overlapping or age-specific estimates "
+  "rather than displacing the national representatives.", True)
 PB()
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
