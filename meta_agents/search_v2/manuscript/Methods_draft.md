@@ -15,7 +15,7 @@ quantitative and a narrative synthesis. Several elements were developed or refin
 registration and are reported here as deviations from the protocol: the analytic-cell framework
 with one representative population-based estimate per cell (in place of statistical pooling of
 non-independent registry estimates); the provenance tiering and the coverage-based rule for
-choosing a representative, including the preference for Indian Health Service–linked sources for
+choosing a representative, including the preference for Indian Health Service (IHS)–linked sources for
 AI/AN populations; the receptor-defined subtype and age-band cells; the three restriction-based
 sensitivity analyses; and the reclassification of four reports from the narrative to the
 quantitative synthesis after their source tables were re-verified as page images.
