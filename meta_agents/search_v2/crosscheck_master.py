@@ -382,6 +382,38 @@ def check_G(rows):
     return hard, warn
 
 
+def check_H(rows):
+    """Source-label consistency. The author_year label encodes the data system
+    (e.g. '..._USCS', '..._SEER21', '..._IHS-PRCDA'); the registry field is
+    classified into a coverage tier by string match. If the two disagree — as
+    when Zhang 2025 was labelled '..._USCS' but its registry read 'US national'
+    and the study in fact used SEER-22 — a study can be mis-tiered and win or
+    lose representative selection for the wrong reason. Flag any row whose
+    author-label source token contradicts its registry-family classification."""
+    import re as _re
+    from finalize_representatives import registry_family
+    fails, seen = [], set()
+    for r in rows:
+        key = (r.get("author_year", ""), r.get("registry", ""))
+        if key in seen:
+            continue
+        seen.add(key)
+        ay = (r.get("author_year", "") or "").upper()
+        fam = (registry_family(r.get("registry", ""))[0] or "").upper()
+        why = None
+        if "USCS" in ay and "USCS" not in fam:
+            why = "author label says USCS"
+        elif "NAACCR" in ay and "NAACCR" not in fam:
+            why = "author label says NAACCR"
+        elif any(t in ay for t in ("IHS", "PRCDA", "CHSDA")) and "IHS" not in fam:
+            why = "author label says IHS"
+        elif _re.search(r"SEER-?\d", ay) and not any(k in fam for k in ("SEER", "HAWAII", "ALASKA")):
+            why = "author label says SEER"
+        if why:
+            fails.append((r["record_id"], r.get("author_year", ""), r.get("registry", ""), why + " but registry classifies as " + registry_family(r.get("registry", ""))[0]))
+    return len(seen), fails
+
+
 def main():
     rows = led_rows()
     ok = True
@@ -459,6 +491,15 @@ def main():
     for tag, irr, lo, hi, why in wG:
         print("    WARN rec %s %s/%s: %.3f in [%.3f, %.3f] — %s"
               % (tag[0], tag[1], tag[2], irr, lo, hi, why))
+
+    nH, fH = check_H(rows)
+    print("\n[H] Source-label consistency (%d study-registry pairs)" % nH)
+    if fH:
+        ok = False
+        for rid, ay, reg, why in fH:
+            print("    FAIL rec %s (%s) registry='%s' — %s" % (rid, ay, reg, why))
+    else:
+        print("    PASS — every author-label source token matches its registry classification")
 
     print("\n" + "=" * 78)
     print("RESULT:", "ALL CHECKS PASS" if ok else "FAILURES ABOVE")

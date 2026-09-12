@@ -7,9 +7,9 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
 | age-lt40 | Black | 1.183 (265) | 1.16 (199) | **changed** |
-| aggregate-vs-NHW | Asian/PI (aggregate) | 0.769 (169) | 0.92 (66) | **changed** |
+| aggregate-vs-NHW | Asian/PI (aggregate) | 0.769 (169) | 0.79 (12) | **changed** |
 | aggregate-vs-NHW | Black | 0.933 (169) | 0.98 (2406) | **changed** |
-| aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.75 (66) | **changed** |
+| aggregate-vs-NHW | Hispanic | 0.718 (169) | 0.73 (12) | **changed** |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.61 (955) | **changed** |
 | Hispanic-origin | Cuban | 0.769 (3182) | - (-) | **dropped** |
 | Hispanic-origin | Mexican | 0.512 (3182) | - (-) | **dropped** |
