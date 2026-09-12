@@ -249,12 +249,12 @@ H("Supplementary Table 5. Risk of bias (JBI checklist for studies reporting prev
 rob = rd("outputs/TableS_risk_of_bias.csv")
 def _v(x): return {"Yes": "Y", "No": "N", "Unclear": "U", "NA": "NA"}.get(x.strip(), x.strip())
 QC = ["Q1_frame", "Q2_sampling", "Q3_size", "Q4_described", "Q5_coverage",
-      "Q6_condition", "Q7_measurement", "Q8_analysis", "Q9_response"]
+      "Q6_condition", "Q7_measurement", "Q8_analysis"]
 rrows = [[cite(r["study"])] + [_v(r[q]) for q in QC] + [r["Overall_RoB"]] for r in rob]
-TB(["Study", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8", "Q9", "RoB"],
-   rrows, [3200, 620, 620, 620, 620, 620, 620, 620, 620, 620, 1400])
-P("Note. Each item is rated Y (Yes) / N (No) / U (Unclear) / NA (not applicable); overall risk of bias is Low, Moderate, or High.", True)
-P("JBI items: Q1 sample frame appropriate to the target population (defined population-based registry); Q2 appropriate sampling (registry ascertains all diagnosed cases — census-like); Q3 adequate sample size for a stable age-adjusted rate; Q4 study subjects and setting described in detail; Q5 sufficient coverage of the identified population (registry completeness); Q6 valid identification of the condition (invasive breast cancer via registry/pathology record linkage); Q7 condition measured in a standard, reliable way for all participants, including race/ethnicity ascertainment (surname recognition or a known AI/AN undercount = No); Q8 appropriate statistical analysis (age-standardized to a stated standard population with a reported or correctly computed variance); Q9 response rate — recorded NA (not applicable), because census-like registry ascertainment has no survey response rate, so Q9 is not counted as a defect.", True)
+TB(["Study", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8", "RoB"],
+   rrows, [3200, 620, 620, 620, 620, 620, 620, 620, 620, 1400])
+P("Note. Each item is rated Y (Yes), N (No), or U (Unclear); overall risk of bias is Low, Moderate, or High. Item 9 (survey response rate) was not applicable to any study — census-like registry ascertainment has no survey response rate — so it is omitted here and the rating uses the eight applicable items (Q1–Q8).", True)
+P("JBI items: Q1 sample frame appropriate to the target population (defined population-based registry); Q2 appropriate sampling (registry ascertains all diagnosed cases — census-like); Q3 adequate sample size for a stable age-adjusted rate; Q4 study subjects and setting described in detail; Q5 sufficient coverage of the identified population (registry completeness); Q6 valid identification of the condition (invasive breast cancer via registry/pathology record linkage); Q7 condition measured in a standard, reliable way for all participants, including race/ethnicity ascertainment (surname recognition or a known AI/AN undercount = No); Q8 appropriate statistical analysis (age-standardized to a stated standard population with a reported or correctly computed variance).", True)
 _nlow = sum(1 for r in rob if r["Overall_RoB"] == "Low")
 _nmod = sum(1 for r in rob if r["Overall_RoB"] == "Moderate")
 _nhigh = sum(1 for r in rob if r["Overall_RoB"] == "High")
