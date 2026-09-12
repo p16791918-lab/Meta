@@ -170,20 +170,15 @@ unstratified White) comparator (Supplementary Table 6).
 
 ### Risk of bias
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
-for studies reporting prevalence/incidence data,¹⁴ which is designed for population-based
-descriptive rate studies (appropriate sampling frame and case ascertainment, valid identification
-of the condition, adequate coverage, and appropriate statistical/standardization methods). The
-checklist was applied to each extracted study by the author (a single assessor) with
-large-language-model assistance, and every item was recorded for all 55 extracted studies
-(Supplementary Table 5). Item 9 (response rate) was recorded as not applicable for every study,
-because census-like registry ascertainment has no survey response rate; it was therefore not
-counted as a defect. Each study's overall rating used the eight applicable items: low risk of bias
-required no more than one "No" together with a "Yes" on the two key items—valid measurement
-(item 7, including race and ethnicity ascertainment) and appropriate analysis (item 8, age
-standardization with a variance); three or more "No" ratings gave a high risk of bias, and any
-other combination—including a single "No" on either key item—gave a moderate rating. Certainty of evidence was not graded,
-because the review describes and compares population-based incidence rather than estimating a
-causal effect for which a GRADE-type certainty rating would be appropriate.
+for studies reporting prevalence/incidence data,¹⁴ applied to each of the 55 extracted studies by
+the author (a single assessor) with large-language-model assistance (Supplementary Table 5). Item 9
+(survey response rate) was recorded as not applicable, census-like registry ascertainment having no
+response rate, so each study's rating used the eight applicable items: low risk of bias required at
+most one "No" with a "Yes" on the two key items—valid measurement (item 7, including race and
+ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance);
+three or more "No" ratings gave high risk of bias, and any other combination a moderate rating.
+Certainty of evidence was not graded, the review being descriptive rather than an estimate of a
+causal effect.
 
 ### Statistical analysis
 Each estimate was expressed as an IRR relative to NHW women. When a study reported
