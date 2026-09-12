@@ -108,9 +108,9 @@ audit identified three wrongly excluded studies, all neighborhood- or segregatio
 that nonetheless tabulated race-specific incidence; each was added to the quantitative synthesis as
 a single-state or regional overlap, and none changed a cell representative. The full audit, with the
 records checked and the reasons retained, is in Supplementary Note 2. The author then obtained and read the full texts and
-made all full-text eligibility and inclusion decisions personally—except for one report whose full
-text could not be obtained, which was included from a supplementary data table and enters only the
-narrative synthesis. The model assisted data
+made all full-text eligibility and inclusion decisions personally—except for one report available
+only as a supplementary data table rather than a full article, which was assessed from that table
+and enters only the narrative synthesis (distinct from the nine reports not retrieved at all). The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
 was verified by the author against the source table, figure, or text. This source re-verification rendered every included
 report's tables as page images, not only its extracted text, so that rate ratios in image-only
