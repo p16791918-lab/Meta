@@ -85,15 +85,13 @@ care have also been described.²,²⁹ Genetic or biological mechanisms were not
 The review has limitations.
 Some rate ratios were computed from published age-standardized rates rather than reported directly,
 which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
-not by itself make the estimates commensurable: because the cells are drawn from different studies,
-differences in standard population, underlying age structure, registry region, and diagnosis period
-remain embedded in the ratios and are not cancelled by the common comparator. A ratio removes the
-shared standard-population scaling only when its numerator and denominator come from the same
-source and standardization—which holds within each cell but not across cells. Diagnosis period and registry region
-differed across cells and are the main limits on cross-cell comparability; standard population
-differed less—most estimates used the 2000 US standard, with a 1970 (world or US) or the 1960 Segi
-world standard in a few older studies, and restricting to the 2000 US standard left the pattern
-essentially unchanged. The review was restricted to
+not by itself make the estimates commensurable: a ratio cancels the shared standardization only when
+its numerator and denominator come from the same source, which holds within each cell but not across
+cells, so differences in underlying age structure, registry region, and diagnosis period remain
+embedded. Diagnosis period and registry region are the main limits on cross-cell comparability;
+standard population differed less—most estimates used the 2000 US standard, with a 1970 (world or US)
+or the 1960 Segi world standard in a few older studies, and restricting to the 2000 US standard left
+the pattern essentially unchanged. The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
 White reference, different racial and ethnic categories, and different standard populations. Finally,
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
