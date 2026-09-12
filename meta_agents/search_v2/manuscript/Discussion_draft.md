@@ -109,16 +109,13 @@ population, and diagnosis period—onto a single NHW-referenced scale, so the di
 can be read against one another and against their aggregates in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
 separates cells corroborated by two or more independent sources (36 of the 83 analytic cells) from
-those resting on a single study (47), and it shows where independent studies agree and where they do
-not: the aggregate ordering and most subgroup estimates held across the low-risk-of-bias,
-directly-reported, NHW-comparator, and standard-population restrictions, while a few near-null differences—chiefly among
-Asian American subgroups, notably Japanese women—changed sign with the source, and the
-AI/AN comparison depended on whether case ascertainment was IHS-linked. Reviewing the studies
-jointly rather than singly therefore confirmed something no individual report, confined to its own
-registry and period, could establish: that the wide within-aggregate heterogeneity is reproducible
-across independent registries and stable under the risk-of-bias, provenance, comparator, and
-standard-population restrictions, and is concordant with the earlier single-population studies it draws together—so the
-pattern reflects real differences rather than the choice of any one data source. Third, it makes the evidence
+those resting on a single study (47), and it shows where independent sources agree—most cells—and
+where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
+comparison noted above. Reviewing the studies jointly rather than singly therefore confirmed
+something no individual report, confined to its own registry and period, could establish: that the
+wide within-aggregate heterogeneity is reproducible across independent registries, stable under the
+sensitivity restrictions, and concordant with the earlier single-population studies it draws
+together—so the pattern reflects real differences rather than the choice of any one data source. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a
