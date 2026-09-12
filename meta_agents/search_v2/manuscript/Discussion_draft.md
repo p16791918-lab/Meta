@@ -20,11 +20,10 @@ subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 
 Japanese women; Native Hawaiian women (1.21) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
-Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2). In Figure 2 each aggregate
-and each subgroup is the representative estimate from a separate study, placed on the common NHW
-scale for comparison; the points are not drawn from one source and differ in registry, region, and
-diagnosis period, so the figure shows the range of published estimates rather than a within-study
-decomposition. This pattern is consistent with earlier disaggregated work and extends
+Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2; each aggregate and subgroup
+is the representative estimate from a separate study placed on the common NHW scale, so the figure
+shows the range of published estimates—differing in registry, region, and diagnosis period—rather
+than a within-study decomposition). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
