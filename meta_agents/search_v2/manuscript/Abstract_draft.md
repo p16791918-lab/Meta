@@ -8,8 +8,8 @@
 and ethnic categories. Each category is internally diverse—spanning subgroups defined by
 ancestry, nativity, and region, with receptor-defined subtypes cutting across them—so an aggregate
 rate does not show which subgroups are at highest and lowest risk. Estimates for these subgroups come from
-separate cancer-registry studies differing in populations, periods, and reference groups, and not
-yet assembled on a common scale.
+separate cancer-registry studies that differ in populations, periods, and reference groups, so they
+are not readily comparable across the published literature.
 
 **Methods.** Following PRISMA 2020 (PROSPERO CRD42023437049), four databases were searched for U.S. studies of
 female invasive breast cancer incidence by race or ethnicity;
