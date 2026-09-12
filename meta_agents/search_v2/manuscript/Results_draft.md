@@ -109,7 +109,13 @@ summarized qualitatively rather than placed on the common IRR scale.
 On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
-representative selection was examined in four ways (Supplementary Table 6). Restricting to
+representative selection was examined in four ways (Supplementary Table 6), and the pattern held
+throughout. Standard population—the axis of most concern for cross-study comparability—mattered
+least: 81 of the 83 representatives were already standardized to the 2000 U.S. standard, so
+restricting to it dropped no cell and changed only two Black receptor-subtype cells, each from a
+1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same
+direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
+Supplementary Table 6d). Restricting to
 low-risk-of-bias studies left 62 of 83 cell representatives unchanged, with the 11 changed and 10
 dropped cells falling mainly among the disaggregated AANHPI subgroups and, in smaller numbers, the
 receptor-subtype, age-specific, and Middle Eastern cells;
