@@ -71,7 +71,7 @@ recorded exclusion reason was read, and the abstracts of the records that concer
 race and ethnicity with incidence were retrieved and read. This re-screen found one wrongly excluded
 record—a Louisiana Tumor Registry triple-negative study—which was added to the review; its full text
 was subsequently obtained, and it entered the quantitative synthesis as a regional overlapping
-estimate for the NHB triple-negative cell (Black-versus-White rate ratio 2.21, 95% CI 1.96–2.48),
+estimate for the NHB triple-negative cell (Black versus an unstratified White reference, rate ratio 2.21, 95% CI 1.96–2.48),
 consistent with the higher NHB triple-negative burden reported below. The other 199 were confirmed
 correctly excluded. Because that miss implied others, the whole excluded set was then scanned for the
 same signature, and full-text review of the flagged records identified two further wrongly excluded
