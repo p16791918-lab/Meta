@@ -87,10 +87,7 @@ receptor-defined molecular subtypes were eligible. The reference group was recor
 study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
 and those using an unstratified White reference were labelled accordingly, and both were
 retained because the reference and minority rates came from the same source. The review was
-limited to U.S.-resident populations: comparable studies from other countries exist but use a
-different White reference (e.g., White British), different racial and ethnic categories, and
-different standard populations, so their rate ratios are not commensurable with U.S.
-estimates. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
+limited to U.S.-resident populations. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
 non-U.S. studies, reports that did not present invasive female breast cancer incidence by race or
 ethnicity, and mortality- or survival-only reports were excluded. A publication that re-reported an
 estimate already captured from the same registry, diagnosis period, and population was excluded as
@@ -109,9 +106,8 @@ recorded exclusion reason was read, and the abstracts of the records that concer
 race and ethnicity with incidence were retrieved and read. This re-screen found one wrongly excluded
 record—a Louisiana Tumor Registry triple-negative study—which was added to the review; its full text
 was subsequently obtained, and it entered the quantitative synthesis as a regional overlapping
-estimate for the NHB triple-negative cell (Black versus an unstratified White reference, rate ratio 2.21, 95% CI 1.96–2.48),
-consistent with the higher NHB triple-negative burden reported below. The other 199 were confirmed
-correctly excluded. Because that miss implied others, the whole excluded set was then scanned for the
+estimate for the NHB triple-negative cell (Black versus an unstratified White reference, rate ratio 2.21, 95% CI 1.96–2.48).
+The other 199 were confirmed correctly excluded. Because that miss implied others, the whole excluded set was then scanned for the
 same signature, and full-text review of the flagged records identified two further wrongly excluded
 studies—both Massachusetts Cancer Registry reports of age-standardized breast incidence by race
 versus NHW—which were likewise added to the quantitative synthesis as single-state overlaps. All
@@ -121,10 +117,8 @@ representative. Other flagged studies of that kind were checked in full with dif
 reporting inflammatory breast cancer incidence by race was added to the narrative synthesis (that
 morphological subtype falls outside the receptor-defined quantitative cells), while two were confirmed
 correctly excluded because they reported incidence only by socioeconomic stratum within a single race
-or within each race, not a race-versus-White comparison. That eligible studies
-surfaced this way indicates a small residual false-negative rate; single-reviewer screening with
-model assistance, rather than independent dual screening, is a limitation (Supplementary, screening
-audit). The author then obtained and read the full texts and
+or within each race, not a race-versus-White comparison. The full screening audit is provided in
+the Supplementary. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for four reports whose full
 text could not be obtained, which were assessed and included on the basis of their abstracts and
 enter only the narrative synthesis. The model assisted data
@@ -166,7 +160,7 @@ statistically independent. Rather than pool such non-independent
 estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
 analytic dimension (overall incidence, a disaggregated subgroup, a receptor-defined subtype, or an
 age band)—and one
-**representative population-based estimate** (a single population-based benchmark for that cell, not a contemporary one—diagnosis periods vary by cell, and some representatives predate 2005) was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
+**representative population-based estimate** (a single population-based benchmark for that cell) was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
 age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
 seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
