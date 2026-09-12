@@ -112,7 +112,7 @@ comparison noted above. Reviewing the studies jointly rather than singly therefo
 something no individual report, confined to its own registry and period, could establish: that the
 wide within-aggregate heterogeneity is reproducible across independent registries, stable under the
 sensitivity restrictions, and concordant with the earlier single-population studies it draws
-together—so the pattern reflects real differences rather than the choice of any one data source. Third, it makes the evidence
+together—so the pattern does not depend on the choice of any one data source. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a
