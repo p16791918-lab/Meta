@@ -70,7 +70,10 @@ and AI/AN 0.86 (0.80–0.93); within AANHPI, TNBC IRRs were lower in Chinese (0.
 (0.84 †), and Native Hawaiian (0.86 †) women (Table 1). Across groups and analytic dimensions the
 relative ordering shifts with the outcome examined (Figure 3): NHB women, close to the NHW rate for
 overall incidence (0.93), have the highest triple-negative rate (1.95), while several Asian American
-subgroups that are below the NHW rate overall remain so across subtypes.
+subgroups that are below the NHW rate overall remain so across subtypes. Estimates for the other
+receptor-defined subtypes (HR+/HER2−, HR+/HER2+, and HR−/HER2+) rest mostly on single
+unstratified-White sources and are listed in Supplementary Table 4; they are the receptor-subtype
+cells that the sensitivity analyses show to be least stable.
 
 ### Narrative synthesis
 The 111 narrative-synthesis studies met the inclusion criteria but contributed no
