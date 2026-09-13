@@ -349,47 +349,31 @@ PB()
 
 # ---- Supplementary Note 2: screening false-negative audit ----
 H("Supplementary Note 2. Screening false-negative audit", 1)
-P("Purpose. The large-language-model title and abstract screening was audited for false negatives "
-  "— eligible studies wrongly excluded — because the records were screened by a single reviewer with "
-  "model assistance rather than by two independent reviewers.", True)
-P("Method. From the records the model excluded, a random sample of 200 was drawn (Python "
-  "random.seed(42)) and every title and its recorded exclusion reason was read; the 16 whose "
-  "eligibility could not be settled from the title were read at the abstract level against the "
-  "eligibility criteria. Because a sampled miss implies others, the full excluded set (4,551 records) "
+P("Purpose. Because records were screened by a single reviewer with model assistance rather than by "
+  "two independent reviewers, the model's title and abstract exclusions were audited for false "
+  "negatives — eligible studies wrongly excluded.", True)
+P("Method. A random sample of 200 excluded records (Python random.seed(42)) was read against the "
+  "eligibility criteria, reading the abstract where the title was insufficient; the full excluded pool "
   "was then scanned for the same signature — breast cancer, an incidence or rate term, a race or "
-  "ethnicity term, and a U.S. registry or population term, minus obvious-exclusion markers (non-U.S., "
-  "mortality or survival, treatment, genetic, risk-factor, male or transgender, review) — and the "
-  "flagged records were reviewed against their recorded exclusion reasons, with the strongest content "
-  "matches read in full.", True)
-P("Result. Three wrongly excluded studies were confirmed, each a neighborhood-, segregation-, or "
-  "redlining-focused report whose headline exposure is not race but which carries a secondary "
-  "race-specific, age-standardized breast-incidence table: a Louisiana Tumor Registry triple-negative "
-  "study (Black versus an unstratified White reference, rate ratio 2.21, 95% CI 1.96–2.48), and two "
-  "Massachusetts Cancer Registry reports (Krieger 2018; Wright 2022) giving age-standardized incidence "
-  "by race, from which IRRs versus NHW were computed by the delta method. All three were added to the "
-  "quantitative synthesis as single-state or regional overlaps of the national representatives, and "
-  "none changed a cell representative.", True)
-P("Boundary cases. Not every neighborhood or socioeconomic report qualifies. A SEER "
-  "inflammatory-breast-cancer study (Schairer 2012) reports incidence by race but for a morphological "
-  "subtype outside the receptor-defined quantitative cells, so it was added to the narrative synthesis. "
-  "Two socioeconomic-gradient studies (Akinyemiju 2015; Hernandez 2025) were confirmed correctly "
-  "excluded because each reports incidence only by socioeconomic stratum — within each race, or within "
-  "a single race — with no race-versus-White rate table. The recurring false-negative pattern is thus a "
-  "segregation- or neighborhood-focused study that nonetheless tabulates race-specific incidence; a few "
-  "more of that kind may remain, and any would be regional sensitivity overlaps that do not change a "
+  "ethnicity term, and a U.S. registry or population term, minus obvious-exclusion markers — and the "
+  "strongest matches read in full.", True)
+P("Result. Three wrongly excluded studies were confirmed and added to the quantitative synthesis as "
+  "single-state or regional overlaps, none changing a cell representative: a Louisiana Tumor Registry "
+  "triple-negative study (Black versus an unstratified White reference, rate ratio 2.21, 95% CI "
+  "1.96–2.48) and two Massachusetts Cancer Registry reports (Krieger 2018; Wright 2022, age-standardized "
+  "incidence by race, IRRs versus NHW by the delta method). Each is a segregation- or "
+  "neighborhood-focused report whose headline exposure is not race but which carries a secondary "
+  "race-specific incidence table. A SEER inflammatory-breast-cancer study (Schairer 2012) fit the "
+  "pattern but reports a morphological subtype outside the receptor-defined cells and went to the "
+  "narrative synthesis, and two socioeconomic-gradient studies (Akinyemiju 2015; Hernandez 2025) were "
+  "confirmed correctly excluded.", True)
+P("Conclusion. The sample yielded about one eligible study in 200 and the full-pool scan two more — a "
+  "small but non-zero residual false-negative rate; single-reviewer screening with model assistance is "
+  "recorded as a limitation in the Discussion. Separately, later source re-verification that rendered "
+  "the quantitative reports' tables as page images recovered extractable data missed on the first text "
+  "pass — additional overlapping cells within already-included studies, and four reports first placed "
+  "in the narrative set moved to the quantitative synthesis — none displacing a national "
   "representative.", True)
-P("Conclusion. The 200-record sample yielded one eligible study (about 0.5%) and the full-pool scan "
-  "two more, indicating a small but non-zero residual false-negative rate. Single-reviewer screening "
-  "with model assistance is a limitation, recorded in the Discussion.", True)
-P("Omissions found on re-verification. Two rounds of source re-verification, which rendered the "
-  "source tables of the quantitative reports as page images rather than relying on extracted text "
-  "alone, also recovered extractable data missed on first pass, all among included reports: six overlapping-registry reports initially deferred were extracted into the "
-  "sensitivity pool, and four reports first placed in the narrative set were moved to the quantitative "
-  "synthesis after their image-only tables were read — two national USCS studies giving age-adjusted "
-  "IRRs versus NHW women for ages 20–49 and 65 and older, a seven-state Delta-region study giving "
-  "age-adjusted subtype IRRs versus NHW women, and a SEER study giving age-adjusted rates by race from "
-  "which the NHW comparison was recomputed. All four contributed overlapping or age-specific estimates "
-  "rather than displacing the national representatives.", True)
 PB()
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
