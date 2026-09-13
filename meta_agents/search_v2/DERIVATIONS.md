@@ -158,9 +158,11 @@ overlap/sensitivity rows; each collapses to an existing cell representative
 - **rec 236 (Gomez 2010, California Cancer Registry, 1988-2004).** Table 1
   prints age-standardized (2000 US) invasive breast rates: NHW 146.1
   (145.5-146.7); Chinese 73.5 (71.6-75.4), Japanese 102.5 (99.3-105.9), Filipina
-  100.4 (98.1-102.8), Korean 46.3 (43.8-49.0), Vietnamese 59.9 (56.7-63.1). IRR =
-  rate/146.1 with delta-method CI (e.g. Chinese 0.503, 0.490-0.516). State
-  registry (< national SEER-21); overlaps the SEER-21 subgroup reps (rec 234).
+  100.4 (98.1-102.8), Korean 46.3 (43.8-49.0), Vietnamese 59.9 (56.7-63.1), and
+  South Asian [=Asian Indian/Pakistani] 77.0 (72.1-82.1). IRR = rate/146.1 with
+  delta-method CI (e.g. Chinese 0.503, 0.490-0.516; South Asian 0.527,
+  0.494-0.562). State registry (< national SEER-21); overlaps the SEER-21
+  subgroup reps (rec 234).
 - **rec 4027 (Jin 2016, eight-state SEER+NPCR, 2009-2011).** Table 4 (female)
   prints breast rates with CIs: NHW 134.4 (133.8-135.1); Chinese 82.8, Filipina
   111.3, Japanese 127.8, Korean 75.6, South Asian [=Asian Indian/Pakistani]
