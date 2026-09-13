@@ -85,7 +85,7 @@ The records in each class:
 ## 3. Poisson SE from case counts
 Where a study reports rates and annual case counts but no ratio CI, SE(logIRR) =
 sqrt(1/D_min + 1/D_nhw) (D = cases); provenance `computed-from-rates-Poisson-SE`.
-**Limitation (Feedback4 #4):** these are age-standardized rates, so a total-count Poisson SE
+**Limitation:** these are age-standardized rates, so a total-count Poisson SE
 does not fully capture the age-specific weighting of the variance; it is a deliberate approximation
 used only where the source reported no rate SE or interval. Where a source did report rate CIs the
 CI is instead propagated by the delta method (§1, §4, §4b) — e.g. rec 182 (Cronin) was moved to a

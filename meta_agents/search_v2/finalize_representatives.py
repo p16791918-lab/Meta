@@ -77,6 +77,14 @@ def registry_family(reg):
         return ("State: Florida", 4, "national")
     if "wisconsin" in s:
         return ("State: Wisconsin", 4, "national")
+    if "massachusetts" in s:
+        return ("State: Massachusetts", 4, "national")
+    if "louisiana" in s:
+        return ("State: Louisiana", 4, "national")
+    # NE/ND/SD (Nebraska, North & South Dakota) Northern-Plains state registries,
+    # unlinked (AI/AN undercount) — a regional multi-state subset, ranked below national.
+    if "nd/sd" in s or "ne/nd" in s:
+        return ("Multi-state registry subset (regional)", 5, "national")
     if "greater bay" in s:
         return ("California-CCR: Greater Bay Area", 2, "national")
     if "la county" in s:

@@ -107,7 +107,8 @@ for row in rows:
     if computed_ci:
         txt += " ‡"                        # double dagger: CI computed by the review
     ax.text(1.03, yy, txt, transform=trans,
-            fontsize=9.5, va="center", ha="left")
+            fontsize=9.5, va="center", ha="left",
+            fontweight="bold" if agg else "normal")
 
 import matplotlib.ticker as mticker
 ax.set_xscale("log")

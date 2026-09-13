@@ -24,8 +24,11 @@ const SUP = { "⁰": "0", "¹": "1", "²": "2", "³": "3", "⁴": "4",
 const SUPCLASS = "\\u2070\\u00b9\\u00b2\\u00b3\\u2074-\\u2079\\u207a\\u207b";
 const SUPRE = new RegExp("[" + SUPCLASS + "]+(?:,[" + SUPCLASS + "]+)*", "g");
 function mkRun(text, base, sup) {
+  // Force black on every run so the built-in Word Heading styles (used for
+  // document structure) do not render their default blue — the de-AI'd
+  // manuscript uses plain black headings.
   return new TextRun({ text, bold: base.bold, italics: base.italics, font: FONT,
-    size: base.size || 24, superScript: sup });
+    size: base.size || 24, superScript: sup, color: "000000" });
 }
 function pushRuns(out, text, base) {
   let last = 0, m; SUPRE.lastIndex = 0;

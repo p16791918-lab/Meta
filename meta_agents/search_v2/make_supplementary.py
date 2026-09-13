@@ -46,6 +46,7 @@ ABBR = [
     ("AI/AN", "American Indian and Alaska Native"),
     ("ANTR", "Alaska Native Tumor Registry"),
     ("CI", "confidence interval"),
+    ("CiNA", "Cancer in North America (NAACCR combined incidence dataset)"),
     ("HER2", "human epidermal growth factor receptor 2"),
     ("HR", "hormone receptor"),
     ("IHS", "Indian Health Service"),
@@ -149,17 +150,17 @@ for e in rd("ft_eligibility.csv"):
         rsn = ((e.get("ft_reason", "") or "") + " " + (e.get("note", "") or "")).lower()
         rid = e.get("record_id", "")
         if "trend" in rsn and "poolable" in rsn:
-            _narr[rid] = ("Narrative only (a race–NHW breast IRR is reported, but as an annual "
-                          "trend, not a single poolable estimate)")
+            _narr[rid] = ("A race–NHW breast IRR is reported, but as an annual trend, not a single "
+                          "poolable estimate")
         elif "secondary synthesis" in rsn or "not pooled to avoid" in rsn or "duplicat" in rsn:
-            _narr[rid] = ("Narrative only (summary report that re-reports registry incidence already "
-                          "quantified from a dedicated primary study for the same registry and period)")
+            _narr[rid] = ("Re-reports registry incidence already quantified from a dedicated primary "
+                          "study for the same registry and period")
 
 
 def _role(r):
     g = r.get("synth_group", "")
     if g == "narrative":
-        return _narr.get(r.get("record_id", ""), "Narrative only (no recoverable NHW comparison)")
+        return _narr.get(r.get("record_id", ""), "No recoverable NHW comparison")
     if g == "quant-eligible":
         return "Quant-eligible; no extractable data"
     c = _rep.get(r.get("record_id", ""))
@@ -207,9 +208,10 @@ P("Role in synthesis states, for each study, whether quantitative data were extr
   "“Representative for N cell(s)” — supplied the main-analysis benchmark for N analytic cells "
   "(group × dimension), the selection basis in parentheses; “overlap for M” — also contributed M "
   "overlapping estimates kept only for the sensitivity re-selection; “Overlap/sensitivity only” — "
-  "every estimate overlapped an already-represented cell, with the reason it was not selected; "
-  "“Narrative only” — met inclusion but yielded no quantitative estimate, with the reason given. "
-  "One representative is selected per analytic cell (criteria in Methods and Supplementary Table 4).", True)
+  "every estimate overlapped an already-represented cell, with the reason it was not selected. "
+  "For the studies under “Narrative synthesis only” the column instead gives the reason no "
+  "quantitative estimate was taken. One representative is selected per analytic cell (criteria in "
+  "Methods and Supplementary Table 4).", True)
 PB()
 
 # ---- S4 excluded (no record_id) ----
