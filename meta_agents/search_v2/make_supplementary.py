@@ -79,8 +79,8 @@ srows = [{"db": m[0], "platform": m[1], "date": "2026-08-07", "records": m[2],
 ST(srows, [1700, 2000, 1200, 1000, 8500])
 P("Note. Search conducted 7 August 2026. Concept blocks combined with AND: breast cancer × "
   "race/ethnicity × incidence/age-adjusted rate × United States. Limits: 2000–2026 (year of "
-  "publication; the diagnosis periods reported by the included studies span 1975–2022), English, "
-  "human; document-type exclusions. Total records identified 9,099; duplicate records removed "
+  "publication), English, human; document-type exclusions. Total records identified 9,099; "
+  "duplicate records removed "
   "(cross-database) 4,306; unique records screened 4,793.", True)
 PB()
 

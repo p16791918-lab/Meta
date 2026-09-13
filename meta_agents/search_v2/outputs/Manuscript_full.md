@@ -65,8 +65,7 @@ Advanced Search), Scopus, and the Web of Science Core Collection. The search com
 concept blocks with AND—breast cancer, race or ethnicity, incidence or age-adjusted rate, and
 the United States—using database-specific controlled vocabulary together with title/abstract
 terms, so that race and ethnicity terms were not restricted to the title. Results were limited
-to 2000–2026 by year of publication (not by diagnosis period; the included studies report
-diagnoses from 1975 to 2022), English, and human studies, with document-type exclusions for
+to 2000–2026 by year of publication, English, and human studies, with document-type exclusions for
 reviews, letters, editorials, notes, and conference abstracts. The four searches returned 9,099 records. Identification
 was via these databases only; no registers were searched, and reference lists (citation
 searching) and grey-literature sources were not used. Full strings, platforms, dates, and per-database counts are given
