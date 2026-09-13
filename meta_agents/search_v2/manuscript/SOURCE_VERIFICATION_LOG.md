@@ -72,3 +72,35 @@ is now an overlap. Effect on counts: analytic cells 83->85, extracted estimates
 corroborated cells 36->38 of the (now) 85. Prose, PRISMA counts, figures, and
 docx regenerated; crosscheck A-H all pass. AI/AN subtype cells remain unlinked
 (undercount caveat already in the Discussion).
+
+## Overlap-completeness pass (all remaining extractable overlap cells)
+A study-by-study re-reading of the multi-subgroup overlap sources for any
+group x dimension the source reports but the ledger had skipped. Findings:
+- **Gomez 2010 (rec 236, CCR) — one cell added.** The source reports all six
+  Asian populations (Chinese, Japanese, Filipina, Korean, Vietnamese, **South
+  Asian**); only five had been extracted. Added South Asian (labelled Asian
+  Indian/Pakistani per the ledger convention; source "South Asian" = Asian
+  Indian/Pakistani/Sri Lankan/Bangladeshi): rate 77.0 (72.1-82.1) vs NHW 146.1
+  (145.5-146.7) -> IRR 0.527 (0.494-0.562), computed-from-rates-with-CI (method
+  reproduces the study's Chinese cell exactly). Overlap only: the Asian
+  Indian/Pakistani representative stays rec 234 (SEER-21, 0.958); the cell was
+  already corroborated (rec 234 + rec 4027 Jin), so the corroboration split is
+  unchanged. Extracted estimates 211->212; representatives, cells (85), and all
+  sensitivity splits unchanged. crosscheck A-H all pass.
+- **Zahnd 2019 (rec 93) — nothing to add.** The Hispanic HR-/HER2+ cell is
+  suppressed at source (Table 4: ***, based on <16 cases) and cannot be
+  extracted; the "Unknown subtype" column is not an analytic dimension of this
+  review. Every Hispanic and NHB dimension the source reports a usable ratio for
+  is already in the ledger (an earlier working note that misread the 0.74
+  HR+/HER2+ value as HR-/HER2+ was wrong).
+- **McCracken 2007 (rec 4098, CCR) — not extracted (ambiguous layout).** The
+  incidence table's group columns (a "South Asian" and a "Pacific Islander"
+  column) do not map unambiguously to the printed rates in the source text
+  extraction, so its sixth Asian value was left out rather than guessed. This
+  is a low-tier CCR overlap fully dominated by rec 234/236; no headline effect.
+- Other comprehensive Asian sources confirmed complete for the review's cells:
+  Jin 2016 (rec 4027) reports six Asian subgroups + aggregate, all extracted
+  (smaller Hmong/Kampuchean/Laotian/Thai were aggregated and "too small to be
+  included" at source); the single-/dual-subgroup studies (rec 100 Liu,
+  324 Gomez2017, 49, 955, 3267, 3398, 4040) are focused reports whose other
+  subgroups are figure-only or out of scope.

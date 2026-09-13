@@ -37,7 +37,7 @@ aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.75
 aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,16,15
 aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,14,13
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.792," [0.784, 0.800]",234,unchanged,2,2
-disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.958," [0.937, 0.979]",234,unchanged,3,2
+disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.958," [0.937, 0.979]",234,unchanged,4,3
 disaggregated-AANHPI,Cambodian,,0.264," [0.204, 0.341]",3267,0.264," [0.204, 0.341]",3267,unchanged,1,1
 disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.760," [0.745, 0.775]",234,unchanged,5,5
 disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,0.857," [0.839, 0.874]",234,unchanged,4,4

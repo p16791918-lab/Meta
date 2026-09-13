@@ -11,7 +11,7 @@ aggregate-vs-NHW,Asian/PI (aggregate),10,0.76,0.684,0.845,100,2230.55,9,<0.001,"
 aggregate-vs-NHW,Black,16,0.94,0.904,0.978,99,1000.59,15,<0.001,"random-effects (PM/REML, HKSJ)",0.0054,0.933,0.92,0.946,1,no
 aggregate-vs-NHW,Hispanic,14,0.696,0.659,0.736,99,1575.14,13,<0.001,"random-effects (PM/REML, HKSJ)",0.0089,0.718,0.706,0.73,1,no
 disaggregated-AANHPI,Asian American (aggregate),2,0.746,0.35,1.592,99,147.81,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0071,0.792,0.784,0.8,1,yes
-disaggregated-AANHPI,Asian Indian/Pakistani,3,0.775,0.442,1.359,99,152.97,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0503,0.958,0.937,0.979,1,no
+disaggregated-AANHPI,Asian Indian/Pakistani,4,0.704,0.46,1.076,99,396.67,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0703,0.958,0.937,0.979,1,no
 disaggregated-AANHPI,Chinese,3,0.618,0.37,1.032,100,628.13,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0425,0.76,0.745,0.775,1,no
 disaggregated-AANHPI,Filipina,3,0.787,0.586,1.058,99,200.01,2,<0.001,"random-effects (PM/REML, HKSJ)",0.014,0.857,0.84,0.875,1,no
 disaggregated-AANHPI,Japanese,3,0.887,0.529,1.487,99,281.66,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0429,1.045,1.009,1.083,1,no

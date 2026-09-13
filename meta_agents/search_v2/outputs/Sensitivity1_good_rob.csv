@@ -1,6 +1,6 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.703," [0.692, 0.715]",4027,changed,2,1
-disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,3,2
+disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,4,3
 disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.616," [0.596, 0.637]",4027,changed,5,3
 disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,0.828," [0.803, 0.854]",4027,changed,4,2
 disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,0.951," [0.908, 0.996]",4027,changed,4,2
