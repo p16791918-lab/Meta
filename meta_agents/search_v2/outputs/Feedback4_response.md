@@ -25,7 +25,6 @@
 - **오류 교정**: Sung 2020 비교군 White→NHW, 기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
 - **표준인구 이질성**: DavisLynn 2025 = Segi 1960 world(2000 US와 이질) 명시.
 
-**추가 재검토(초기 '완료' 표시가 성급했던 부분 보완)**:
 - **SIR 해석(Goggins rec 955)**: SIR은 US White 연령구조 기준 간접표준화 비율로, 두 집단을 공통 표준으로 직접표준화한 IRR과 표준화 방식이 다름 → 같은 상대-White 스케일로 읽되 SIR로 표기하고 직접보고-IRR 민감도분석에서 제외함을 Methods에 명시.
 - **표준인구 원문 대조 오류 3건 정정**: rec 4333(Wilkinson) 원문 "1970 US standard" 명시인데 std_pop 누락 → 1970 US로; rec 265(Anderson) 원문 "2000 US" 명시인데 "std pop cancels"라 부정확 표기 → 2000 US로; rec 107(Zahrieh) Bayesian 소지역 분석으로 표준인구 미명시 → std_pop을 'not stated'로(rate 크기로 추정 안 함).
 - **표준인구 기록 방침 명시**(Methods): SEER*Stat, USCS age-adjusted는 2000 US가 프로그램 기본값이라 그대로 기록; 그 외 미명시는 'not stated'. Discussion의 "one older study used the 1970 world standard"도 실제(1970 world/US + 1960 Segi)에 맞게 수정.
@@ -35,7 +34,7 @@
 
 **항목 3 재점검 종합(4개 필드 전수 대조)**: 비교군 오류 0, 연령 오류 0, 표준인구 오류 3건 정정, 기간 오류 3건 정정. 첫 전수 정독이 값, 비교군 위주였고 표준인구, 기간 필드는 소홀했던 점을 인정하고 두 필드를 전수 재대조해 총 6건을 교정.
 
-**판단 결정(교수 확인)**:
+**판단 결정**:
 - **Sung 2020(rec 2406) — 대표 유지**: 남성 유방암 논문의 여성 참조패널이지만 자료원이 USCS(~99% 커버리지)로 SEER 기반 Kong 2020보다 넓고 기간도 최신(2010-2016)이라, 커버리지 우선 규칙상 Black subtype 3셀(HR+/HER2- 0.79, HR+/HER2+ 1.01, HR-/HER2+ 1.29)의 대표로 유지. 여성 subtype 값도 USCS 전수라 신뢰. Kong 2020은 overlap/sensitivity로 편입.
 - **Keegan 2007(rec 463) — narrative 강등**: 원문이 6개 Asian subgroup의 rate/trend만 보고하고 same-source NHW rate를 제공하지 않아 IRR 복원 불가 → 정량 정의 미충족으로 narrative 재분류.
 - **AI/AN subtype(rec 286 HR+/HER2- 0.74, rec 155 TNBC 0.86) — 대표 유지**: IHS-linked subtype 자료가 없어 unlinked가 유일 자료이므로, undercount 한계를 명시하고 대표로 유지(Alaska Native 선례와 동일 논리).
