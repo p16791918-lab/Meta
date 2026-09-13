@@ -93,11 +93,18 @@ group x dimension the source reports but the ledger had skipped. Findings:
   review. Every Hispanic and NHB dimension the source reports a usable ratio for
   is already in the ledger (an earlier working note that misread the 0.74
   HR+/HER2+ value as HR-/HER2+ was wrong).
-- **McCracken 2007 (rec 4098, CCR) — not extracted (ambiguous layout).** The
-  incidence table's group columns (a "South Asian" and a "Pacific Islander"
-  column) do not map unambiguously to the printed rates in the source text
-  extraction, so its sixth Asian value was left out rather than guessed. This
-  is a low-tier CCR overlap fully dominated by rec 234/236; no headline effect.
+- **McCracken 2007 (rec 4098, CCR) — one aggregate cell added; no missed
+  subgroup.** A page-image render of Table 3 resolved the column layout: the
+  columns are Chinese, Filipino, Vietnamese, Korean, Japanese, **Total
+  Asian/Pacific Islander**, and Non-Hispanic White. There is no South Asian
+  column (an earlier text-only read had mistaken the aggregate column for one),
+  so the five disaggregated subgroups already extracted are the only ones the
+  table breaks out. The sixth column is the Total Asian/Pacific Islander
+  aggregate; its female-breast rate 89.9 vs NHW 152.9 -> IRR 0.588 was added as
+  an AANHPI-aggregate overlap (computed-from-rates, no CI in source). Overlap
+  only: the aggregate representative stays rec 169 (Ellington USCS, 0.769) and
+  the cell was already heavily corroborated, so representatives and the
+  corroboration split are unchanged.
 - Other comprehensive Asian sources confirmed complete for the review's cells:
   Jin 2016 (rec 4027) reports six Asian subgroups + aggregate, all extracted
   (smaller Hmong/Kampuchean/Laotian/Thai were aggregated and "too small to be

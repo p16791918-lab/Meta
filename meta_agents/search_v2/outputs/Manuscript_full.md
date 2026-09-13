@@ -228,7 +228,7 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
 retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
-quantitative synthesis and entered the analysis, contributing 212 individual estimates across
+quantitative synthesis and entered the analysis, contributing 213 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 111 informed the narrative synthesis (166 = 55 + 111). The extracted studies were published

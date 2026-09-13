@@ -47,7 +47,7 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 55 extracted studies contributed 212 estimates; 23 studies supplied at
+- The 55 extracted studies contributed 213 estimates; 23 studies supplied at
   least one main-analysis representative (85 representative estimates in all, one per analytic
   cell), and the remaining 32 studies contributed only overlapping estimates carried in the
   sensitivity analysis.
