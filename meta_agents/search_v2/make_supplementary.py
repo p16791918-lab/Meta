@@ -202,20 +202,14 @@ P("Note. All %d studies are included in the systematic review; not all entered t
   "source; most are population-based registry/incidence studies rather than cohort studies. A PMID "
   "(or DOI where none exists) is given for every study so each can be located individually."
   % (_ninc, _elig_clause), True)
-P("Role in synthesis records, for each study, whether quantitative data were extractable and how the "
-  "study was used, with the reason it was or was not selected as a cell representative: “Representative "
-  "for N cell(s)” = supplied the main-analysis benchmark for N analytic cells (group × dimension), with "
-  "the selection basis in parentheses (sole estimate in the cell, or best in the cell by "
-  "coverage/recency/comparator); “overlap for M” = also contributed M overlapping estimates carried only "
-  "in the sensitivity re-selection; “Overlap/sensitivity only” = every estimate overlapped a cell already "
-  "represented by another study, followed by why it was not selected (superseded within its registry "
-  "family by a broader-coverage or more-recent representative; an unlinked registry outranked by an "
-  "IHS-linked source for AI/AN; an external out-of-paper NHW reference; or no usable rate ratio); "
-  "“Narrative only” = met inclusion but contributed no quantitative estimate, with the reason given per "
-  "study — no recoverable NHW comparison (most), a race–NHW breast IRR reported only as an annual trend "
-  "(not a single poolable estimate), or a summary report re-reporting registry incidence already "
-  "quantified from a dedicated primary study for the same registry and period. One representative is "
-  "selected per analytic cell (selection criteria in Methods and Supplementary Table 4).", True)
+P("Role in synthesis states, for each study, whether quantitative data were extractable and how the "
+  "study was used, with the per-study reason it was or was not selected as a cell representative: "
+  "“Representative for N cell(s)” — supplied the main-analysis benchmark for N analytic cells "
+  "(group × dimension), the selection basis in parentheses; “overlap for M” — also contributed M "
+  "overlapping estimates kept only for the sensitivity re-selection; “Overlap/sensitivity only” — "
+  "every estimate overlapped an already-represented cell, with the reason it was not selected; "
+  "“Narrative only” — met inclusion but yielded no quantitative estimate, with the reason given. "
+  "One representative is selected per analytic cell (criteria in Methods and Supplementary Table 4).", True)
 PB()
 
 # ---- S4 excluded (no record_id) ----
