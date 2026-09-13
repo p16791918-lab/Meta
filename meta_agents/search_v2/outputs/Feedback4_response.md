@@ -165,3 +165,7 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
 - **비표준 표준화 의심**: rec 436(2000-2023 전국) — Black/White = 174.9/228.9 = 0.76으로 전국
  합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, 이상값 점검 목록에 표시하고
  narrative 유지(대표 대체 불가).
+
+---
+
+**현재 최종 카운트**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 213, cells 85, reps 23, sens-only 32, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.

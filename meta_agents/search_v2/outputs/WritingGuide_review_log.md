@@ -28,5 +28,3 @@
 **Supplementary Table 5**: Q9(전 연구 NA, 채점 제외) 열 삭제, 처리 사유는 Note에 유지(피드백의 Q9 보고 요구는 충족). legend에서 NA 제거(Q1–Q8엔 NA 없음).
 
 **민감도 4번째 추가(표준인구 이질성)**: 표준인구 차이가 비교가능성을 제한한다는 지적에 직접 답하도록 "2000 US 표준으로 통일된 추정치만" 재선정(Table 6d) 추가. 결과: representatives 85개 중 83개가 이미 2000 US 표준 → 83 unchanged / 2 changed(Black 수용체 subtype, 1960 Segi world→2000 US, 같은 방향) / 0 dropped. 표준인구 이질성이 실제로는 미미함을 정량 입증. Methods "checked in four ways", Results, Discussion, 내부 정합성 검증(332개 비교) 통과.
-
-**현재 최종 카운트(최종 집계)**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 213, cells 85, reps 23, sens-only 32, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.
