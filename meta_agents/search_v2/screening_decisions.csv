@@ -4,7 +4,7 @@ record_id,stage,decision,display_reason,sub_reason,title
 2,TA,include,,SEER subtype incidence by race,US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status
 3,TA,include,,ILC incidence by race US registry,"Lobular breast cancer statistics, 2025"
 4,TA,exclude,Not relevant to the research question/topic,mortality surveillance not incidence,"Cancer mortality surveillance--United States, 1990-2000."
-5,TA,include,,stage IV incidence SEER (check race/outcome at FT),"Stage IV Breast Cancer Incidence and Survival, 2010-202"
+5,TA,include,,stage IV incidence SEER (check race/outcome at FT),"Stage IV Breast Cancer Incidence and Survival, 2010-2021"
 6,TA,exclude,Not relevant to the research question/topic,air-pollution risk-factor cohort (HR) not incidence rates,Air Pollution and Breast Cancer Incidence in the Multiethnic Cohort Study
 7,TA,exclude,Not relevant to the research question/topic,breast ALCL lymphoma not breast carcinoma,Anaplastic Large Cell Lymphoma of the Breast by Race and Ethnicity
 8,TA,exclude,Not relevant to the research question/topic,socioeconomic/affluence focus not race incidence,Affluence and Breast Cancer

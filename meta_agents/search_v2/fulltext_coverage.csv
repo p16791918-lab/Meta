@@ -3,7 +3,7 @@ record_id,year,pmid,doi,source,chars,title
 1,2019,31577379,10.3322/caac.21583,manual-pdf,68595,"Breast cancer statistics, 2019"
 2,2014,24777111,10.1093/jnci/dju055,manual-pdf,40117,US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status
 3,2025,41055508,10.1002/cncr.70061,cached,20600,"Lobular breast cancer statistics, 2025"
-5,2026,42118535,10.1001/jamanetworkopen.2026.12042,cached,30825,"Stage IV Breast Cancer Incidence and Survival, 2010-202"
+5,2026,42118535,10.1001/jamanetworkopen.2026.12042,cached,30825,"Stage IV Breast Cancer Incidence and Survival, 2010-2021"
 10,2025,41082230,10.1001/jamanetworkopen.2025.37160,cached,22354,Breast Cancer Incidence Rates in Ghanaian and US Black Women from 2013 Through 2015
 11,2021,34545941,10.3322/caac.21695,manual-pdf,109487,"Cancer statistics for the US Hispanic/Latino population, 2021"
 12,2025,41086189,10.1371/journal.pone.0334128,cached,40210,Disparities and trends of the incidence and mortality of female-specific cancers in the United States

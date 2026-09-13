@@ -12,7 +12,7 @@ Full-text reports assessed and excluded (PRISMA 2020, item 16b). Total excluded 
 
 | # | Study (title, year) | PMID | DOI | Exclusion reason | Detail |
 |---|---|---|---|---|---|
-| 1 | Stage IV Breast Cancer Incidence and Survival, 2010-202 (2026) | 42118535 | 10.1001/jamanetworkopen.2026.12042 | Did not report the outcome of interest | stage IV-specific incidence not overall invasive by race vs NHW |
+| 1 | Stage IV Breast Cancer Incidence and Survival, 2010-2021 (2026) | 42118535 | 10.1001/jamanetworkopen.2026.12042 | Did not report the outcome of interest | stage IV-specific incidence not overall invasive by race vs NHW |
 | 2 | Breast cancer among hispanic and non-hispanic white women in Arizona (2007) | 18065856 |  | Did not report the outcome of interest | tumor-characteristic odds (stage/size) NHW-ref; no age-adjusted incidence rate per 100k reported |
 | 3 | Triple-negative breast cancer incidence in the United States: ecological correlations with area-level sociodemographics, healthcare, and health behaviors (2021) | 32671723 | 10.1007/s12282-020-01132-w | Did not report the outcome of interest | ecological area-level TNBC correlates; no race-specific incidence vs NHW |
 | 4 | Race/Ethnicity and Age Distribution of Breast Cancer Diagnosis in the United  States (2018) | 29516087 | 10.1001/jamasurg.2018.0035 | Did not report the outcome of interest | JAMA research letter; reports age distribution & stage NOT age-adjusted incidence rates |

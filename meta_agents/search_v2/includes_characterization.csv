@@ -3,7 +3,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 1,2019,ACS-BreastStats,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21583,31577379,"Breast cancer statistics, 2019"
 2,2014,PRIMARY,subtype:TNBC;male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:pacific island,10.1093/jnci/dju055,24777111,US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status
 3,2025,ACS-BreastStats,RECURRING-REPORT,multi-registry-aggregate,10.1002/cncr.70061,41055508,"Lobular breast cancer statistics, 2025"
-5,2026,PRIMARY,subtype:TNBC,SEER,10.1001/jamanetworkopen.2026.12042,42118535,"Stage IV Breast Cancer Incidence and Survival, 2010-202"
+5,2026,PRIMARY,subtype:TNBC,SEER,10.1001/jamanetworkopen.2026.12042,42118535,"Stage IV Breast Cancer Incidence and Survival, 2010-2021"
 10,2025,PRIMARY,subtype:HR/HER2;male-BC;grp:Hispanic;grp:AfricanBorn,SEER,10.1001/jamanetworkopen.2025.37160,41082230,Breast Cancer Incidence Rates in Ghanaian and US Black Women from 2013 Through 2015
 11,2021,ACS-Hispanic,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21695,34545941,"Cancer statistics for the US Hispanic/Latino population, 2021"
 12,2025,PRIMARY,male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,SEER;AK-Native;state/regional:pacific island,10.1371/journal.pone.0334128,41086189,Disparities and trends of the incidence and mortality of female-specific cancers in the United States
