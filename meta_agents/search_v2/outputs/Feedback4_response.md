@@ -1,13 +1,12 @@
 # 4차 피드백 대응 정리 (Response to 4th-round comments)
 
-각 코멘트에 대해 어떻게 수정했는지 항목별로 정리합니다. 원 코멘트는 `Advice/Feedback4.md` 참조.
+각 코멘트(원문 `Advice/Feedback4.md`)를 항목 번호 아래 그대로 싣고, 그 아래에 대응한 수정 내용을 말머리로 정리합니다.
+
 ---
 
-## 항목 1. AI/AN 자료원 분류와 대표값 선정 — 완료
+## 1. AI/AN 자료원 분류와 대표값 선정을 다시 검토해주세요.
 
-**지적**: Gopalani 2020이 CDC WONDER/USCS를 썼고 PRCDA를 쓰지 않았다고 명시했는데 IHS-PRCDA로 분류됨. 자료원을 바로잡고 대표값, RoB, 민감도 재확인. Northern Plains가 한 연구뿐이라는 설명도 재검토.
-
-**수정**:
+Gopalani 2020은 CDC WONDER/USCS 자료를 사용했고 PRCDA 분류를 사용하지 않았다고 명시하고 있는데, 현재는 IHS-PRCDA 자료로 분류되어 있습니다. 이는 IHS-linked 자료를 우선한다는 선정 근거에 영향을 주므로, 자료원 분류를 바로잡고 대표값·RoB·민감도분석을 다시 확인해주세요. 같은 원논문에 Northern Plains 추정치도 있으므로, 해당 지역 자료가 한 연구뿐이라는 설명도 재검토해야 합니다.
 - **자료원 정정**: Gopalani 2020(rec 500)을 원문대로 **USCS(NPCR+SEER, unlinked)**로 정정(원문 Methods: "We did not use [PRCDA] classifications"). IHS-linked 오분류를 제거.
 - **대표값 재선정**: 진짜 IHS-PRCDA national 자료인 **Melkonian 2019**(rec 2510, breast RR **0.87** vs NHW, 원문 "Non-Hispanic white was chosen as the reference")가 AI/AN aggregate 대표가 됨. **0.56 → 0.87**. 원문에 CI, case count가 없어 **point estimate**로 제시(피드백 4항 취지와 일치, 근사 계산 안 함).
 - **순위 재편**: Hispanic 0.72 < AANHPI 0.77 < AI/AN 0.87 < NHB 0.93 → **최저는 Hispanic**(기존엔 AI/AN). Abstract, Results, Discussion 반영.
@@ -19,18 +18,19 @@
 
 ---
 
-## 항목 2. 포함, 분석 배정, 대표값 선정 기준의 일관 적용 — 완료
+## 2. 연구 포함·분석 배정·대표값 선정 기준을 일관되게 적용해주세요.
 
-**지적**: 중복 연구의 제외/민감도 포함 기준 불명확, Wingo 2008을 narrative-only로 분류한 이유, 연구별 추출가능, 선택/미선택 이유 기록, 'analytic cell당 하나' 일관 기술, 중복 판정을 registry 명칭이 아니라 지역, 기간, 인구로.
-
-**수정**:
+일부 중복 연구는 리뷰에서 제외하고 다른 중복 연구는 민감도분석에 포함한 이유가 명확하지 않습니다. Wingo 2008처럼 NHW 비교자료가 있는 연구를 narrative-only로 분류한 이유도 확인해주세요. 연구별로 정량자료 추출 가능 여부와 대표값 선택·미선택 이유를 기록하고, 선정 단위도 'analytic cell당 하나'로 일관되게 기술해주세요. 단순한 registry 명칭뿐 아니라 실제 지역·관찰기간·대상 인구의 중복 여부를 확인해야 합니다.
 - **Wingo 2008 재분류**: rec 134는 IHS-linked(CHSDA) AI/AN-vs-NHW breast **RR + 95% CI**를 IHS region별로 보고하는데 narrative-only로 오분류돼 있었음("overlaps AIAN cells"를 이유로 강등한 것이 오류 — overlap이면 quant 민감도 풀에 있어야 함). **include-quant로 재분류**하고 CHSDA 값 추출(national 0.63, Northern Plains 0.89, Southern Plains 0.89, Alaska 0.99, 모두 CI 있음). 최근 IHS-linked 값이 대표를 유지하고 Wingo는 overlap/sensitivity로 편입(옵션 C).
 - **연구별 로그**: Supplementary Table 2(included studies)에 **"Role in synthesis" 컬럼** 추가 — 각 연구가 (a) 정량 추출 가능했는지, (b) 몇 개 analytic cell의 대표인지 / overlap-only인지 / narrative-only인지와 그 이유를 명시. 예: Gomez 2026 "Representative for 10 cells; overlap for 6", Wingo "Overlap/sensitivity only (4 cells)", Gopalani "Overlap only (1 cell)", 대표 미선택 사유는 Supplementary Table 4의 main_analysis 열과 연결.
 - **선정 단위 통일**: 'analytic cell(group × dimension)당 대표 하나'로 Methods, Supplementary Table 2/4 legend에서 일관 기술.
 - **중복 판정 기준**: registry 명칭이 아니라 **registry family + 지역 + 관찰기간 + 대상 인구**로 겹침을 판정(Supplementary Table 4에 registry, region, period, group을 함께 표기해 셀 내 overlap을 확인).
 - **제외 vs 민감도 구분 기준 명시**(Methods): 같은 registry, 기간, 인구의 추정치를 재출판한 **중복 데이터셋은 제외**, 같은 registry family라도 **다른 기간, 지역, subset이면 별개 추정으로 보고 민감도 overlap으로 유지**.
 
-## 항목 3. 비교군, 기간, 연령, 효과지표 재검증 — 완료
+## 3. 주요 추출값뿐 아니라 비교군·기간·연령·효과지표를 함께 재검증해주세요.
+
+자료원 분류 오류가 확인된 만큼 master dataset의 핵심 정보를 원문과 다시 대조해주세요. 예를 들어 Sung 2020은 여성 비교자료를 포함하지만, 현재 보충자료의 성별·비교군·관찰기간 표기를 재확인해야 합니다. NHW와 unstratified White를 구분하고, SIR로 보고된 값도 직접표준화 발생률비와 같은 방식으로 해석할 수 있는지 확인해주세요. 표준인구가 원문에 명시되지 않았다면 발생률 크기로 추정하지 말고 '불명확'으로 기록해주세요.
+
 **정량 연구 전수 정독**(48편, `Feedback4_reverify_log.md`)으로 각 편의 비교군(NHW vs unstratified White), 관찰기간, 성별(여성 한정), 표준인구, 효과지표(IRR/SIR/rate)를 원문 대조.
 - **비교군 명시**: unstratified White(†) = Gleason, Cronin, Baquet, Anderson, Richardson, Gopalani 계열, SIR = Goggins(US White 표준), external NHW = Nash 2022. 코드가 `NHW_OK={NHW, White (NH), external}`로 정확히 구분(민감도3에서 † 제거).
 - **오류 교정**: Sung 2020 비교군 White→NHW, 기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
@@ -51,7 +51,10 @@
 - **Keegan 2007(rec 463) — narrative 강등**: 원문이 6개 Asian subgroup의 rate/trend만 보고하고 same-source NHW rate를 제공하지 않아 IRR 복원 불가 → 정량 정의 미충족으로 narrative 재분류.
 - **AI/AN subtype(rec 286 HR+/HER2- 0.74, rec 155 TNBC 0.86) — 대표 유지(A)**: IHS-linked subtype 자료가 없어 unlinked가 유일 자료이므로, undercount 한계를 명시하고 대표로 유지(Alaska Native 선례와 동일 논리).
 
-## 항목 4. 연령표준화 IRR의 CI 계산 재검토 — 완료
+## 4. 연령표준화 발생률비의 신뢰구간 계산 방법을 재검토해주세요.
+
+Supplementary Note 1에서 총 사건 수만을 이용한 Poisson CI를 연령표준화 발생률비에 적용한 부분은 수정이 필요한지 확인해주세요. 원문 발생률의 SE/CI를 우선 활용하고, 정보가 부족하면 점추정치만 제시하거나 근사 계산의 한계를 명시해주세요. Loo 2019의 1.35 (1.347–1.351)처럼 매우 좁은 CI는 원문에도 있는 값이지만, 계산법이나 정오표를 확인할 필요가 있습니다. 직접 보고된 값이라는 이유만으로 통계적 타당성이 확보되는 것은 아닙니다.
+
 - **항구 점검 추가**: `crosscheck_master.py [G]`가 모든 보고 CI의 순서, bracket(점추정 포함)을 검증하고, subgroup×subtype의 비현실적으로 좁은 CI를 경고.
 - **Loo 2019(rec 161) — PDF Table 1 렌더링으로 최종 해결**: poppler 설치 후 Table 1(Number of Cases + IR 95% CI)을 확인. 원문 **rate CI는 사례수에 맞게 정상이나 IRR CI만 5–228배 비현실적으로 좁음**(rate CI로 재계산 시 예: NH HR+/HER2+ [1.347,1.351]→[0.96,1.88]). 정오표 없이 원문 데이터로 IRR CI 오류 증명. → **Loo 14개 subtype IRR CI를 Table 1 rate CI로 delta method 재계산해 교체**(computed-from-rates-with-CI, DERIVATIONS §2 등록). 전사 오류(NH HR+/HER2+ 1.34→**1.35**)도 정정. 누락 Japanese TNBC 1.07도 추출.
 - **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
@@ -62,7 +65,10 @@
 - **rec 169(Ellington), 49(Mills), 3267(Kem)**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → **근사임을 Methods와 DERIVATIONS §3에 명시**("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
 - DERIVATIONS의 부정확한 "rec 203, rec 182" 표기 정정(rec 203은 directly-reported-IRR).
 
-## 항목 5. 연구 간 비교 한계, 민감도 해석 반영 — 완료
+## 5. 연구 간 비교의 한계와 민감도분석 결과를 해석에 반영해주세요.
+
+NHW 대비 비율로 변환하더라도 표준인구·연령·지역·관찰기간의 차이는 사라지지 않으므로, "standard population largely cancels"라는 설명은 수정해주세요. 오래된 자료를 포함하는 만큼 'contemporary benchmark'라는 표현도 재검토해야 합니다. Figure 2에는 서로 다른 연구의 aggregate와 subgroup을 배치했다는 점을 명시하고, Japanese처럼 low-RoB 분석에서 방향이 바뀌는 결과는 본문에서 설명해주세요. 연구 교체에 따른 변화에는 RoB뿐 아니라 시기·지역·비교군 차이도 영향을 줄 수 있습니다.
+
 - **총괄(민감도 결과를 해석에 반영)**: Discussion에 3개 민감도분석의 결론을 명시 — "제한 시 대표가
  **바뀐 셀은 11, 5, 1개뿐**이고, 나머지 차이는 자격 추정치 부재로 **drop된 것이지 불일치가 아님**;
  변화는 near-null AANHPI subgroup, 연령 셀(Japanese 등)에 몰려, aggregate 순서는 robust하나 일부
@@ -84,7 +90,10 @@
  견고하지 않음을 보이며, 이 변화는 RoB뿐 아니라 대체 연구의 기간, 지역, 비교군 차이도 반영한다.
  Supplementary Table 6의 changed/dropped 셀도 RoB 단독 효과가 아니라 그 관점에서 읽어야 함"을 추가.
 
-## 항목 6. 서술적 종합, 검토 절차 보고 완성 — 완료
+## 6. 서술적 종합과 검토 절차의 보고를 완성해주세요.
+
+Narrative synthesis 114편이 제공한 결과를 nativity, 연령, 시간 추세, 지역 등 주요 주제로 정리하고 근거 연구를 연결해주세요. LLM 선별에 사용한 모델과 역할, 사람이 재검토한 표본 수, 발견한 누락 및 후속 조치도 보고해주세요. PROSPERO 등록 준비 중 문구는 실제 등록 상태로 정리하고, 사전 프로토콜과 분석 후 변경사항을 구분해주세요. JBI 평가에서는 Q9를 '해당 없음'으로 설명하면서 표에는 Y로 기록한 부분과 전체 RoB 판정 기준도 확인해주세요.
+
 - **① narrative 110편 주제별 정리 + 근거연구 연결**: 6개 주제로 분류(제목, 집단, outcome 키워드) —
  Molecular subtype/histology 22, Geography/region 23, Age/early-onset 20, SES/screening 9,
  Nativity/immigrant 8, Time trends 8, Other(subgroup-descriptive) 20 (합 110). Results의
@@ -114,7 +123,38 @@
 
 ---
 
-## 추가 검증. narrative 전편(114→112→110) 개별 재대조 (사용자 "narrative는", "114개를 다 봤다고") 완료
+## 7. 이 리뷰가 기존 연구에 추가하는 기여를 명확히 하고, 제출자료를 최종 점검해주세요.
+
+각 cell의 결과가 단일 연구에서 선택된 값인 만큼, 기존 연구들을 함께 검토함으로써 무엇이 추가로 확인되었는지 설명해야 합니다. 하위집단 차이뿐 아니라 연구 간 일치·불일치, 자료의 비교 가능성, 근거가 부족한 집단을 정리하면 기여점이 명확해질 것입니다. 마지막으로 본문·표·그림의 수치와 번호, 비교군 표시, 민감도분석의 changed/dropped 목록을 일치시키고 제출용 PDF에서 그림 잘림도 확인해주세요.
+
+- **① 리뷰 기여 명시(Discussion 신규 문단)**: 단일-연구 cell을 함께 검토해 무엇이 추가됐는지 3가지로:
+ (1) 흩어진 추정치를 하나의 NHW 기준 척도로 모아 subgroup을 상호, 대집단과 비교, (2) overlap을
+ sensitivity로 남겨 **≥2개 독립 자료원이 뒷받침하는 셀 36개 vs 단일 연구 셀 47개**를 구분하고
+ 일치/불일치를 제시(aggregate 순서, 대다수 subgroup은 제한분석에서 견고, near-null AANHPI subgroup
+ 일부는 자료원 따라 부호 전환, AI/AN은 IHS-linkage 여부에 좌우), (3) **근거부족 집단 명시**(Middle
+ Eastern, 일부 NHPI, Hispanic-origin subgroup, AI/AN 아형은 단일 지역, unlinked 자료; AI/AN 지역, 전국
+ aggregate는 CI 없는 점추정 → 전용 IHS-linked 1차 연구 필요).
+- **② 수치, 번호 정합**: Figure 1-3, Table 1, Supplementary Table 1-6 참조 전부 해소, 결번 없음.
+ 민감도 changed/dropped **목록**을 원자료와 대조 — NHW-comparator: changed 1개(Alaska Native),
+ dropped 18개(수용체 아형 16 + age-specific Black 2)로 본문 서술과 정확히 일치. crosscheck A-G PASS.
+- **③ 비교군 표시**: † (unstratified White, 6셀) 본문, Table 1 일치; **‡ (복원 CI) 신규 표기**를
+ Table 1, Figure 2에 범례와 함께 추가(항목: 복원 CI vs 원문 CI 구분).
+- **④ 그림 잘림**: Figure 2(forest) 하단 캡션이 **잘려 있던 것을 발견, 수정**(bottom margin 확대 +
+ bbox_inches tight). Figure 1(PRISMA), Figure 3(heatmap)은 잘림 없음 확인. 헤드라인 aggregate IRR
+ (0.72/0.77/0.87/0.93, NHB TNBC 1.95) 불변 확인.
+
+## 8. 본문과 Supplementary Materials의 서식에서 AI스러운 느낌을 제거해주세요.
+
+제목과 소제목의 파란색 글씨는 검정색으로 변경하고, 제목 왼쪽에 붙은 점(스타일)은 기본 스타일로 적용해주세요. 테이블 상단의 청록색 배경 등 장식적인 색상은 제거하고, 필요한 구분은 굵은 글씨와 최소한의 구분선으로 표시해주세요. 테이블 제목 아래 길게 설명한 내용은 표 아래 Note.로 옮겨 정리하고, Note에는 해당 표를 이해하는 데 필요한 분석 방법, 비교군, 기호 및 약어 설명만 남기고 Methods와 중복되는 설명은 줄여주세요.
+
+- **제목 스타일**: Word Heading 스타일(파란색+왼쪽 점) 제거 → 모든 제목을 검정 굵은 글씨(color 000000)로.
+- **표 장식 제거**: 헤더 청록 배경(E7EEF6), 섹션 배경(D9E2EF) 제거 → 굵은 글씨 + 최소 구분선(BBBBBB)만.
+- **표 제목 아래 설명 → 표 아래 Note.로 이동**: 본문 Table 1, Supplementary Table 1, 2, 5. Note에는 분석 방법, 비교군, 기호(†/‡), 약어만 남기고 Methods 중복 축소. Supplementary Table 6a/6c 소캡션은 제한조건+셀 수만 남기고 해석은 Results/Discussion으로.
+- build_*_docx.js 3종 재빌드, crosscheck A–G PASS.
+
+---
+
+## 부가. narrative 전편(114→112→110) 개별 재대조
 
 quant를 poppler로 전수 대조한 것과 동일한 기준을 **narrative 전편에 적용**해, "인종 × 유방암 발생률 ×
 NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스트 추출이 놓친 논문(Howlader형)을 찾음.
@@ -154,32 +194,12 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
  합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, `suspicious_CI_audit`에 flag하고
  narrative 유지(대표 대체 불가).
 
-## 항목 7. 리뷰 기여 명확화, 제출자료 최종 점검 — 완료
-- **① 리뷰 기여 명시(Discussion 신규 문단)**: 단일-연구 cell을 함께 검토해 무엇이 추가됐는지 3가지로:
- (1) 흩어진 추정치를 하나의 NHW 기준 척도로 모아 subgroup을 상호, 대집단과 비교, (2) overlap을
- sensitivity로 남겨 **≥2개 독립 자료원이 뒷받침하는 셀 36개 vs 단일 연구 셀 47개**를 구분하고
- 일치/불일치를 제시(aggregate 순서, 대다수 subgroup은 제한분석에서 견고, near-null AANHPI subgroup
- 일부는 자료원 따라 부호 전환, AI/AN은 IHS-linkage 여부에 좌우), (3) **근거부족 집단 명시**(Middle
- Eastern, 일부 NHPI, Hispanic-origin subgroup, AI/AN 아형은 단일 지역, unlinked 자료; AI/AN 지역, 전국
- aggregate는 CI 없는 점추정 → 전용 IHS-linked 1차 연구 필요).
-- **② 수치, 번호 정합**: Figure 1-3, Table 1, Supplementary Table 1-6 참조 전부 해소, 결번 없음.
- 민감도 changed/dropped **목록**을 원자료와 대조 — NHW-comparator: changed 1개(Alaska Native),
- dropped 18개(수용체 아형 16 + age-specific Black 2)로 본문 서술과 정확히 일치. crosscheck A-G PASS.
-- **③ 비교군 표시**: † (unstratified White, 6셀) 본문, Table 1 일치; **‡ (복원 CI) 신규 표기**를
- Table 1, Figure 2에 범례와 함께 추가(항목: 복원 CI vs 원문 CI 구분).
-- **④ 그림 잘림**: Figure 2(forest) 하단 캡션이 **잘려 있던 것을 발견, 수정**(bottom margin 확대 +
- bbox_inches tight). Figure 1(PRISMA), Figure 3(heatmap)은 잘림 없음 확인. 헤드라인 aggregate IRR
- (0.72/0.77/0.87/0.93, NHB TNBC 1.95) 불변 확인.
+---
 
-## 항목 8. 서식 de-AI (본문, Supplementary) — 완료
-- **제목 스타일**: Word Heading 스타일(파란색+왼쪽 점) 제거 → 모든 제목을 검정 굵은 글씨(color 000000)로.
-- **표 장식 제거**: 헤더 청록 배경(E7EEF6), 섹션 배경(D9E2EF) 제거 → 굵은 글씨 + 최소 구분선(BBBBBB)만.
-- **표 제목 아래 설명 → 표 아래 Note.로 이동**: 본문 Table 1, Supplementary Table 1, 2, 5. Note에는 분석 방법, 비교군, 기호(†/‡), 약어만 남기고 Methods 중복 축소. Supplementary Table 6a/6c 소캡션은 제한조건+셀 수만 남기고 해석은 Results/Discussion으로.
-- build_*_docx.js 3종 재빌드, crosscheck A–G PASS.
 
 ---
 
-## 항목 9(추가). Writing-guide 검수 및 방어적 서술 정리 (이번 세션, 사용자 지적별) — 완료
+## 부가. Writing-guide 검수 및 방어적 서술 정리 (세션 중 사용자 지적별)
 
 8개 항목 완료 후 사용자가 `WRITING_GUIDE.md` 기준 재검수를 요청하며 섹션별로 짚었고, 그 과정에서 실제 결함들을 함께 교정.
 
