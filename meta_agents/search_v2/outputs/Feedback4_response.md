@@ -20,7 +20,7 @@
 
 ## 3. 주요 추출값뿐 아니라 비교군·기간·연령·효과지표를 함께 재검증해주세요. 자료원 분류 오류가 확인된 만큼 master dataset의 핵심 정보를 원문과 다시 대조해주세요. 예를 들어 Sung 2020은 여성 비교자료를 포함하지만, 현재 보충자료의 성별·비교군·관찰기간 표기를 재확인해야 합니다. NHW와 unstratified White를 구분하고, SIR로 보고된 값도 직접표준화 발생률비와 같은 방식으로 해석할 수 있는지 확인해주세요. 표준인구가 원문에 명시되지 않았다면 발생률 크기로 추정하지 말고 '불명확'으로 기록해주세요.
 
-**정량 연구 전수 정독**(48편, `Feedback4_reverify_log.md`)으로 각 편의 비교군(NHW vs unstratified White), 관찰기간, 성별(여성 한정), 표준인구, 효과지표(IRR/SIR/rate)를 원문 대조.
+**정량 연구 전수 정독**(48편)으로 각 편의 비교군(NHW vs unstratified White), 관찰기간, 성별(여성 한정), 표준인구, 효과지표(IRR/SIR/rate)를 원문 대조.
 - **비교군 명시**: unstratified White(†) = Gleason, Cronin, Baquet, Anderson, Richardson, Gopalani 계열, SIR = Goggins(US White 표준), external NHW = Nash 2022. NHW, White (NH), external을 정확히 구분(민감도3에서 † 제거).
 - **오류 교정**: Sung 2020 비교군 White→NHW, 기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
 - **표준인구 이질성**: DavisLynn 2025 = Segi 1960 world(2000 US와 이질) 명시.
@@ -45,7 +45,6 @@
 - **Loo 2019(rec 161) — PDF Table 1 렌더링으로 최종 해결**: poppler 설치 후 Table 1(Number of Cases + IR 95% CI)을 확인. 원문 rate CI는 사례수에 맞게 정상이나 IRR CI만 5–228배 비현실적으로 좁음(rate CI로 재계산 시 예: NH HR+/HER2+ [1.347,1.351]→[0.96,1.88]). 정오표 없이 원문 데이터로 IRR CI 오류 증명. → Loo 14개 subtype IRR CI를 Table 1 rate CI로 delta method 재계산해 교체(computed-from-rates-with-CI, Supplementary Note 1 기록). 전사 오류(NH HR+/HER2+ 1.34→1.35)도 정정. 누락 Japanese TNBC 1.07도 추출.
 - **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
 
-**추가 재검토(핵심 요구였는데 초기 '완료'에서 빠졌던 부분)**:
 - **총사건수 Poisson CI를 age-standardized 발생률비에 적용한 부분 재검토**(Supplementary Note 1): 해당 행은 rec 169(Ellington), 182(Cronin), 49(Mills), 3267(Kem). 각 원문의 rate SE/CI 제공 여부를 확인.
 - **rec 182(Cronin)**: 원문이 Black 116.9[116.2–117.6]/White 122.1[121.8–122.3] rate CI를 보고 → 총사건수 Poisson을 버리고 delta method로 전환(0.957 [0.944,0.971]→[0.951,0.963]).
 - **rec 169(Ellington), 49(Mills), 3267(Kem)**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → 근사임을 Methods와 Supplementary Note 1에 명시("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
@@ -53,8 +52,8 @@
 
 ## 5. 연구 간 비교의 한계와 민감도분석 결과를 해석에 반영해주세요. NHW 대비 비율로 변환하더라도 표준인구·연령·지역·관찰기간의 차이는 사라지지 않으므로, "standard population largely cancels"라는 설명은 수정해주세요. 오래된 자료를 포함하는 만큼 'contemporary benchmark'라는 표현도 재검토해야 합니다. Figure 2에는 서로 다른 연구의 aggregate와 subgroup을 배치했다는 점을 명시하고, Japanese처럼 low-RoB 분석에서 방향이 바뀌는 결과는 본문에서 설명해주세요. 연구 교체에 따른 변화에는 RoB뿐 아니라 시기·지역·비교군 차이도 영향을 줄 수 있습니다.
 
-- **총괄(민감도 결과를 해석에 반영)**: Discussion에 3개 민감도분석의 결론을 명시 — "제한 시 대표가
- 바뀐 셀은 11, 5, 1개뿐이고, 나머지 차이는 자격 추정치 부재로 drop된 것이지 불일치가 아님;
+- **총괄(민감도 결과를 해석에 반영)**: Discussion에 4개 민감도분석의 결론을 명시 — "제한 시 대표가
+ 바뀐 셀은 13, 5, 1, 2개뿐이고, 나머지 차이는 자격 추정치 부재로 drop된 것이지 불일치가 아님;
  변화는 near-null AANHPI subgroup, 연령 셀(Japanese 등)에 몰려, aggregate 순서는 robust하나 일부
  near-null subgroup의 부호는 견고하지 않음."
 - **① "표준인구 상쇄" 취지 수정(Discussion)**: (a) 한계 문단에 "NHW 비율로 바꿔도 표준인구, 연령구조, 지역, 기간 차이는 비율 안에 남으며 공통 비교군으로 상쇄되지 않는다(셀 내부에서만 스케일 제거 성립)"를
@@ -96,7 +95,7 @@
 - **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 CRD42023437049(저자 제공)로
  교체. 사전 프로토콜(질문, 검색, 적격기준, 중복처리, quant/narrative 분리)과 등록 후 개발, 정련한 사후
  변경(analytic-cell 대표값 프레임, provenance tier, 커버리지 규칙, AI/AN IHS 우선, 수용체 아형, 연령
- 셀, 3개 민감도, narrative→quant 4편 재분류)을 구분 명시. Abstract에도 등록번호 추가.
+ 셀, 4개 민감도, narrative→quant 4편 재분류)을 구분 명시. Abstract에도 등록번호 추가.
 - **④ JBI Q9 정합 + RoB 판정 기준(Methods, 표 legend)**: Q9(response rate)를
  표에 "Yes"→"NA"로 기록(census-like registry엔 survey response rate 없음; NA는 결함으로 미집계)해
  "해당없음" 설명과 표기 일치. 전체 RoB 판정 기준(Low=No≤1 & Q7, Q8 Yes; High=No≥3; else Moderate,
@@ -200,6 +199,6 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
 
 **Supplementary Table 5**: Q9(전 연구 NA, 채점 제외) 열 삭제, 처리 사유는 Note에 유지(피드백의 Q9 보고 요구는 충족). legend에서 NA 제거(Q1–Q8엔 NA 없음).
 
-**민감도 4번째 추가(표준인구 이질성)**: 표준인구 차이가 비교가능성을 제한한다는 지적에 직접 답하도록 "2000 US 표준으로 통일된 추정치만" 재선정(Table 6d) 추가. 결과: representatives 83개 중 81개가 이미 2000 US 표준 → 81 unchanged / 2 changed(Black 수용체 subtype, 1960 Segi world→2000 US, 같은 방향) / 0 dropped. 표준인구 이질성이 실제로는 미미함을 정량 입증. Methods "checked in four ways", Results, Discussion, 내부 정합성 검증(332개 비교) 통과.
+**민감도 4번째 추가(표준인구 이질성)**: 표준인구 차이가 비교가능성을 제한한다는 지적에 직접 답하도록 "2000 US 표준으로 통일된 추정치만" 재선정(Table 6d) 추가. 결과: representatives 85개 중 83개가 이미 2000 US 표준 → 83 unchanged / 2 changed(Black 수용체 subtype, 1960 Segi world→2000 US, 같은 방향) / 0 dropped. 표준인구 이질성이 실제로는 미미함을 정량 입증. Methods "checked in four ways", Results, Discussion, 내부 정합성 검증(332개 비교) 통과.
 
-**현재 최종 카운트(최종 집계)**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 206, cells 83, reps 24, sens-only 31, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.
+**현재 최종 카운트(최종 집계)**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 213, cells 85, reps 23, sens-only 32, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.
