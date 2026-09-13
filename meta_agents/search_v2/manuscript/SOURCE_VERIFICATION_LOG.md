@@ -105,6 +105,33 @@ group x dimension the source reports but the ledger had skipped. Findings:
   only: the aggregate representative stays rec 169 (Ellington USCS, 0.769) and
   the cell was already heavily corroborated, so representatives and the
   corroboration split are unchanged.
+## Narrative-only pool re-verification (targeted, source-checked)
+Prompted by the two quant-table under-extractions above, the narrative->quant
+boundary was re-checked at the source for the highest-risk records — those whose
+ft_eligibility row shows a vs-NHW comparison and an age-adjusted/standardized
+rate or IRR (not PIR/SIR/OR/cohort/trend-only), prioritising the thinnest cells
+(Middle Eastern, South Asian, NHPI). Findings confirm the existing
+classification; no record was upgraded and no cell was added.
+- **rec 3275 (Middle Eastern, CCR) — correctly narrative (duplicate).** Its
+  female-breast row (ME 126.16 vs NHW 146.89 -> RR 0.86 [0.84-0.88]) is
+  numerically identical to the MENA representative rec 587 (Nasseri 2009, CCR
+  1988-2004, 126.2/146.9, 0.86 [0.84-0.88]) — the same ME-California population,
+  so extracting it would double-count rec 587.
+- **rec 3322 (South Asian, CCR 1988-2000) — correctly narrative (overlap).**
+  Its Table 3 compares SA/API/NHW California rates in four sub-periods (a
+  time-trend design), drawing on the same California registry as rec 236
+  (Gomez 2010 CCR 1988-2004 South Asian) that already carries the CCR South
+  Asian overlap; it adds no independent registry family.
+- **Group-coverage cross-check.** The 31 quant-covered minority groups were
+  matched against every narrative record's group: no narrative-only study
+  uniquely covers a group x dimension that lacks a representative. The unusual
+  narrative groups (USAPI, Somali, African-born vs US-born Black, Arab-American
+  by immigrant generation, single tribes such as Seneca) are nativity strata or
+  use a non-NHW comparator (US total, general population, PIR/SIR), not new
+  analytic cells.
+Conclusion: unlike the incomplete extraction found *within* already-included
+quant tables, the narrative/quant classification itself holds on re-verification.
+
 - Other comprehensive Asian sources confirmed complete for the review's cells:
   Jin 2016 (rec 4027) reports six Asian subgroups + aggregate, all extracted
   (smaller Hmong/Kampuchean/Laotian/Thai were aggregated and "too small to be
