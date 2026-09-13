@@ -140,7 +140,8 @@ giving 0.957 [0.951, 0.963] in place of the earlier total-count Poisson interval
 ## 5. Author-reported rate ratios taken as directly reported
 - **rec 587 (Middle Eastern-California).** The authors print the rate
   ratio and its CI: invasive breast 0.86 (126.2/146.9, 95% CI 0.84-0.88); taken
-  as `directly-reported-IRR`. Standard not stated but NHW=146.9 implies 2000 US.
+  as `directly-reported-IRR`. Source states the US 2000 standard (incidence-table
+  footnote: "Rates are age adjusted to the US 2000 population standards").
 - **rec 955 (Asian Indian/Pakistani).** Table 1 prints the female
   breast SIR relative to US White = 0.61 (0.56-0.66); `directly-reported-SIR`.
   Overlaps rec 234 Asian Indian/Pakistani (sensitivity).
