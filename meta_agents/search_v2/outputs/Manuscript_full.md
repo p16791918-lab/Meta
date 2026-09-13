@@ -228,13 +228,13 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
 records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
 retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
-quantitative synthesis and entered the analysis, contributing 206 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—24 supplied
+quantitative synthesis and entered the analysis, contributing 211 individual estimates across
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 111 informed the narrative synthesis (166 = 55 + 111). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
-overlapping registry-family estimates, 83 representative estimates remained, one per analytic
+overlapping registry-family estimates, 85 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
@@ -328,17 +328,17 @@ On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to the 2000 U.S. standard population changed little: 81 of the 83
+throughout. Restricting to the 2000 U.S. standard population changed little: 83 of the 85
 representatives were already standardized to it, so the restriction dropped no cell and changed
 only two Black receptor-subtype cells, each from a
 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same
 direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
 Supplementary Table 6d). Restricting to
-low-risk-of-bias studies left 62 of 83 cell representatives unchanged, with the 11 changed and 10
+low-risk-of-bias studies left 60 of 85 cell representatives unchanged, with the 13 changed and 12
 dropped cells falling mainly among the disaggregated AANHPI subgroups and, in smaller numbers, the
 receptor-subtype, age-specific, and Middle Eastern cells;
-restricting to directly reported estimates left 31 unchanged (5 changed, 47 dropped);
-restricting to NHW-comparator estimates left 64 unchanged (1 changed, 18 dropped), the dropped
+restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped);
+restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped), the dropped
 cells being those whose only representative used an unstratified White comparator — the
 receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
 Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
@@ -445,7 +445,7 @@ were scattered across separate registry reports—each with its own reference gr
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
 can be read against one another and against their aggregates in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
-separates cells corroborated by two or more independent sources (36 of the 83 analytic cells) from
+separates cells corroborated by two or more independent sources (38 of the 85 analytic cells) from
 those resting on a single study (47), and it shows where independent sources agree—most cells—and
 where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
 comparison noted above. Reviewing the studies jointly rather than singly therefore confirmed

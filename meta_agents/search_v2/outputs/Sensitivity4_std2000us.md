@@ -1,6 +1,6 @@
 # Sensitivity #4 — 2000 US standard population only (other standard populations dropped)
 
-Cells: 83 total — unchanged 81, changed 2, dropped 0.
+Cells: 85 total — unchanged 83, changed 2, dropped 0.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 

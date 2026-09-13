@@ -21,12 +21,15 @@ disaggregated-AANHPI,Vietnamese,3,0.506,0.318,0.803,98,118.48,2,<0.001,"random-e
 subtype-HRneg,Black,2,1.695,0.814,3.533,96,25.06,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0064,1.796,1.74,1.853,1,yes
 subtype-HRneg-HER2pos,Asian/PI (aggregate),2,1.299,0.401,4.213,83,5.85,1,0.016,"random-effects (PM/REML, HKSJ)",0.0144,1.41,1.332,1.492,1,yes
 subtype-HRneg-HER2pos,Black,4,1.377,1.23,1.541,85,19.42,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0032,1.29,1.26,1.32,1,no
+subtype-HRneg-HER2pos,Hispanic,2,0.948,0.231,3.893,88,8.68,1,0.003,"random-effects (PM/REML, HKSJ)",0.022,1.05,0.992,1.112,1,yes
 subtype-HRpos,Black,2,0.759,0.286,2.02,99,86.81,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0117,0.82,0.805,0.836,1,yes
 subtype-HRpos-HER2neg,Asian/PI (aggregate),2,0.775,0.176,3.41,99,110.4,1,<0.001,"random-effects (PM/REML, HKSJ)",0.027,0.87,0.855,0.885,1,yes
 subtype-HRpos-HER2neg,Black,4,0.813,0.72,0.917,97,108.79,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0055,0.79,0.785,0.795,1,no
 subtype-HRpos-HER2neg,Hispanic,3,0.723,0.48,1.088,99,139.27,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0252,0.78,0.765,0.795,1,no
+subtype-HRpos-HER2pos,Asian/PI (aggregate),2,0.946,0.263,3.4,92,13.25,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0188,1.04,1.001,1.081,1,yes
 subtype-HRpos-HER2pos,Black,4,1.04,0.949,1.14,89,27.87,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0023,1.01,0.995,1.025,1,no
 subtype-HRpos-HER2pos,Hispanic,3,0.788,0.527,1.177,93,30.74,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0192,0.91,0.88,0.941,1,no
+subtype-TNBC,AIAN,2,0.866,0.73,1.026,0,0.15,1,0.699,"random-effects (PM/REML, HKSJ)",0.0,0.86,0.798,0.927,1,yes
 subtype-TNBC,Asian/PI (aggregate),3,0.712,0.551,0.92,90,20.7,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0094,0.7,0.68,0.72,1,no
 subtype-TNBC,Black,7,1.992,1.892,2.096,82,32.75,6,<0.001,"random-effects (PM/REML, HKSJ)",0.0024,1.95,1.925,1.975,1,no
 subtype-TNBC,Hispanic,4,0.877,0.793,0.971,84,18.48,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0025,0.86,0.84,0.88,1,no

@@ -26,12 +26,15 @@ Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); hi
 | subtype-HRneg | Black | 2 | random-effects (PM/REML, HKSJ) | 1.695 (0.814-3.533) | 96 | <0.001 | 1.796 (1.740-1.853) | yes |
 | subtype-HRneg-HER2pos | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 1.299 (0.401-4.213) | 83 | 0.016 | 1.410 (1.332-1.492) | yes |
 | subtype-HRneg-HER2pos | Black | 4 | random-effects (PM/REML, HKSJ) | 1.377 (1.230-1.541) | 85 | <0.001 | 1.290 (1.260-1.320) | no |
+| subtype-HRneg-HER2pos | Hispanic | 2 | random-effects (PM/REML, HKSJ) | 0.948 (0.231-3.893) | 88 | 0.003 | 1.050 (0.992-1.112) | yes |
 | subtype-HRpos | Black | 2 | random-effects (PM/REML, HKSJ) | 0.759 (0.286-2.020) | 99 | <0.001 | 0.820 (0.805-0.836) | yes |
 | subtype-HRpos-HER2neg | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.775 (0.176-3.410) | 99 | <0.001 | 0.870 (0.855-0.885) | yes |
 | subtype-HRpos-HER2neg | Black | 4 | random-effects (PM/REML, HKSJ) | 0.813 (0.720-0.917) | 97 | <0.001 | 0.790 (0.785-0.795) | no |
 | subtype-HRpos-HER2neg | Hispanic | 3 | random-effects (PM/REML, HKSJ) | 0.723 (0.480-1.088) | 99 | <0.001 | 0.780 (0.765-0.795) | no |
+| subtype-HRpos-HER2pos | Asian/PI (aggregate) | 2 | random-effects (PM/REML, HKSJ) | 0.946 (0.263-3.400) | 92 | <0.001 | 1.040 (1.001-1.081) | yes |
 | subtype-HRpos-HER2pos | Black | 4 | random-effects (PM/REML, HKSJ) | 1.040 (0.949-1.140) | 89 | <0.001 | 1.010 (0.995-1.025) | no |
 | subtype-HRpos-HER2pos | Hispanic | 3 | random-effects (PM/REML, HKSJ) | 0.788 (0.527-1.177) | 93 | <0.001 | 0.910 (0.880-0.941) | no |
+| subtype-TNBC | AIAN | 2 | random-effects (PM/REML, HKSJ) | 0.866 (0.730-1.026) | 0 | 0.699 | 0.860 (0.798-0.927) | yes |
 | subtype-TNBC | Asian/PI (aggregate) | 3 | random-effects (PM/REML, HKSJ) | 0.712 (0.551-0.920) | 90 | <0.001 | 0.700 (0.680-0.720) | no |
 | subtype-TNBC | Black | 7 | random-effects (PM/REML, HKSJ) | 1.992 (1.892-2.096) | 82 | <0.001 | 1.950 (1.925-1.975) | no |
 | subtype-TNBC | Hispanic | 4 | random-effects (PM/REML, HKSJ) | 0.877 (0.793-0.971) | 84 | <0.001 | 0.860 (0.840-0.880) | no |

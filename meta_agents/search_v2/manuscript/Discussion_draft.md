@@ -105,7 +105,7 @@ were scattered across separate registry reports—each with its own reference gr
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
 can be read against one another and against their aggregates in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
-separates cells corroborated by two or more independent sources (36 of the 83 analytic cells) from
+separates cells corroborated by two or more independent sources (38 of the 85 analytic cells) from
 those resting on a single study (47), and it shows where independent sources agree—most cells—and
 where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
 comparison noted above. Reviewing the studies jointly rather than singly therefore confirmed

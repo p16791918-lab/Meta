@@ -54,3 +54,21 @@ all [G]-flagged cells confirmed against the source *table cell*; the remaining
 cells confirmed by presence of the reported value/CI or component rates in the
 source text plus internal recomputation (crosscheck A). No value discrepancy was
 found at this depth.
+
+## Under-extraction found and corrected (existing source, missed cells)
+Full-text re-reading of Kong 2020 (rec 286, SEER-18, NHW reference) showed it
+reports the complete 4-race x 4-subtype matrix, but only a subset had been
+extracted. The missing cells were added:
+- **New cells** (AI/AN had no estimate in these subtype dimensions):
+  AI/AN HR+/HER2+ 0.94 (0.81-1.09) and AI/AN HR-/HER2+ 1.04 (0.82-1.31).
+- **Overlaps** added for sensitivity: AI/AN TNBC 0.89 (0.76-1.04); Asian/PI
+  HR+/HER2+ 1.04 (1.00-1.08); Hispanic HR-/HER2+ 1.05 (0.99-1.11).
+Because Kong (2010-2015) is more recent than Howlader 2014 (2010 data) at equal
+SEER-national coverage and NHW comparator, Kong's Asian/PI HR+/HER2+ and Hispanic
+HR-/HER2+ correctly displaced Howlader as those two cells' representatives
+(Asian/PI HR+/HER2+ 0.85->1.04; Hispanic HR-/HER2+ 0.84->1.05); Howlader (rec 2)
+is now an overlap. Effect on counts: analytic cells 83->85, extracted estimates
+206->211, representative studies 24->23, sensitivity-only studies 31->32,
+corroborated cells 36->38 of the (now) 85. Prose, PRISMA counts, figures, and
+docx regenerated; crosscheck A-H all pass. AI/AN subtype cells remain unlinked
+(undercount caveat already in the Discussion).
