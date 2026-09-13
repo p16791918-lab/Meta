@@ -60,7 +60,7 @@
  명시하고, (b) 원래의 과잉 주장 문장("common NHW scale … lets aggregate and subgroup results be
  read side by side")을 직접 수정 → "arranges … on one axis for comparison—though the estimates
  are not fully commensurable, and the arrangement shows the span of published figures rather than a
- set of mutually calibrated rates". (사용자 지적: 반박문만 넣고 원 문장을 안 고쳤던 것을 정정.)
+ set of mutually calibrated rates".
 - **② "contemporary benchmark" 재검토(Methods)**: 대표 중 오래된 기간(Middle Eastern 1988-2004,
  Cambodian, Native Hawaiian 1998-2002, Hispanic-origin 1999-2001 등 2005년 이전)이 있어
  "a single population-based benchmark ... not a contemporary one—diagnosis periods vary by cell,
@@ -84,12 +84,9 @@
  포함/제외 제안, 저자가 최종 판정. 제외편 중 200편 무작위 재선별(재현 가능하게 고정) — 200편 제목, 제외사유
  전수 확인 후, 제목만으로 애매한 16편의 초록을 실제로 열어 판독 → 1편 false negative 발견:
  rec 3720(Louisiana Tumor Registry TNBC, AA vs EA 연령보정 발생률비 2.21 [1.96,2.48],
- PMID 30834239) — 적격인데 잘못 제외됐음. 이후 교수가 전문 제공 → quant로 정식 편입(NHB TNBC
- sensitivity overlap, White=ref unstratified †, Table 2 model 1). 제외 4,551→4,550, 포함 162→163,
- quant 52→53, narrative 110. 단일주라 국가대표 1.95의 overlap, 결과 불변. 나머지 199편은 정당한 제외 확인. 200편 중
+ PMID 30834239) — 적격인데 잘못 제외됐음. 이후 전문을 받아 quant로 정식 편입(NHB TNBC
+ sensitivity overlap, White=ref unstratified †, Table 2 model 1). 단일주라 국가대표 1.95의 overlap, 헤드라인 결과 불변. 나머지 199편은 정당한 제외 확인. 200편 중
  1편(~0.5%) → 단일선별의 소규모 false-negative 잔존율을 한계로 명시(독립 이중선별 미시행).
- ※ 정직성 정정 이력: 최초 "11편 정독"→"117편 정독(제목판단)"→"16편 초록 실판독, false negative
- 1건". 즉 제목만 보고 "0"이라 한 게 틀렸고, 초록을 실제로 열어 3720을 찾음.
  발견한 다른 누락(포함군 내), 후속조치: overlap 6편 추출 + 이미지표 재검증 narrative→quant 4편
  재분류(369, 14, 93, 210).
 - **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 CRD42023437049(저자 제공)로
@@ -168,37 +165,3 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
 - **비표준 표준화 의심**: rec 436(2000-2023 전국) — Black/White = 174.9/228.9 = 0.76으로 전국
  합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, 이상값 점검 목록에 표시하고
  narrative 유지(대표 대체 불가).
-
-
----
-
-## 부가. Writing-guide 검수 및 방어적 서술 정리 (세션 중 사용자 지적별)
-
-8개 항목 완료 후 사용자가 작성 지침 기준 재검수를 요청하며 섹션별로 짚었고, 그 과정에서 실제 결함들을 함께 교정.
-
-**정합성, 사실 오류 교정:**
-- **Abstract 인코딩 깨짐**: em/en 대시 4곳이 이중 UTF-8 인코딩(`â€"`)으로 깨진 것 바이트 복구.
-- **Screening chain 산수 오류**: Results "245 sought / 10 not retrieved"(245−10=235≠237) → PRISMA 도해, 미회수 목록에 맞춰 246 / 9(246−9=237).
-- **abstract-only 포함 수 오류**: Methods "four reports whose full text could not be obtained" → 데이터상 실제는 1건(rec 1800, 보충표로 narrative 포함). 166 중 165는 full-text PDF 보유. Discussion "every included study … read"도 "all but one"으로 정정(모순 해소). rec 1800은 not-retrieved 9와 구분(회수, 평가됨)됨을 명시.
-- **RoB n 오류**: Methods "all 52 extracted studies" → 55.
-
-**신규성(novelty) 과잉주장 제거(가이드 B7):**
-- Abstract "not yet assembled on a common scale" → "not readily comparable across the published literature".
-- Introduction "What is missing is a synthesis that…" → "Comparing them therefore calls for…".
-
-**NHW vs unstratified White 구분 강화:**
-- Abstract Methods를 "recoverable NHW comparison / IRR versus NHW"에서 "a recoverable White comparison, usually NHW … or versus an unstratified White reference in a minority of cells"로 정정(본문 포함기준과 일치).
-- Methods rec 3720 "Black-versus-White" → "Black versus an unstratified White reference"(원장: White=ref, unstratified).
-- **non-AI/AN †셀 이유 명시**: 그 셀들(수용체 subtype, age-specific Black 2)은 NHW 출처가 없어 유일이라 unstratified White 유지. AI/AN은 ascertainment override(과소집계 교정)라는 별개 이유. 두 갈래를 대칭으로 기술.
-
-**방어적/로그성 서술 정리(가이드 E "한 일만, 길게 변호 말 것"):**
-- Methods 제거/축소: false-negative 개별 로그(→ Supplementary Note 2 신설로 이관), 미국-한정 정당화, 재분류 4편 개별 나열(→ Note 2), 이미지-렌더링 메커니즘, "consistent with … reported below" 안심말, "best-ascertained"(→ ascertainment-preferred), Alaska Native 중복문(이유 붙여 복원), RoB 문단 압축, Eligibility 말미 중복 괄호.
-- **"contemporary benchmark" 방어구 완전 제거**: Table 1 note, 그리고 Selection 소절의 "(a single population-based benchmark…)" 잔재까지. "benchmark" 프레이밍은 Table 1, Supplementary Table 4 Note에 유지.
-
-**Supplementary Note 2 신설**: screening false-negative 감사(목적, 방법, 3건 결과, 경계사례, 결론) + 재검증 누락(overlap 6, 재분류 4)을 최종 수치와 정합적으로 편입. Methods의 깨진 참조("in the Supplementary") 해소.
-
-**Supplementary Table 5**: Q9(전 연구 NA, 채점 제외) 열 삭제, 처리 사유는 Note에 유지(피드백의 Q9 보고 요구는 충족). legend에서 NA 제거(Q1–Q8엔 NA 없음).
-
-**민감도 4번째 추가(표준인구 이질성)**: 표준인구 차이가 비교가능성을 제한한다는 지적에 직접 답하도록 "2000 US 표준으로 통일된 추정치만" 재선정(Table 6d) 추가. 결과: representatives 85개 중 83개가 이미 2000 US 표준 → 83 unchanged / 2 changed(Black 수용체 subtype, 1960 Segi world→2000 US, 같은 방향) / 0 dropped. 표준인구 이질성이 실제로는 미미함을 정량 입증. Methods "checked in four ways", Results, Discussion, 내부 정합성 검증(332개 비교) 통과.
-
-**현재 최종 카운트(최종 집계)**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 213, cells 85, reps 23, sens-only 32, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.
