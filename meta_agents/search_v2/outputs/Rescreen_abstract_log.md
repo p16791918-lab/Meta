@@ -46,3 +46,25 @@ found in the earlier false-negative audit (rec 3720, and the two Massachusetts
 reports). Eligibility decisions in the primary screen were sound at the abstract
 level; the residual false-negative rate for new analytic cells is effectively
 zero, with rec 995 the only additional (redundant) regional overlap.
+
+## Deeper pass — thin-cell recall and missing-abstract records
+Because the signature score depends on the abstract, two blind spots were closed
+directly. (1) A high-recall scan of the entire excluded pool for a thin-cell
+group term (Middle Eastern, specific NHPI/Asian/Hispanic-origin subgroups,
+AI/AN) together with an incidence/rate term surfaced ~283 records; reading the
+thin-cell candidates found only correctly excluded designs (clinicopathologic
+case series e.g. rec 394 Indian-Pakistani patients; proportionate-incidence
+ratios e.g. rec 3184 Laotian; LCIS/DCIS progression rec 219/431; NCDB case-
+feature studies rec 248/360; SES- or ER-status-by-subtype without a race
+comparator rec 3730/664; reviews rec 4034/3707). (2) Records whose abstract
+field was empty but whose title carried a thin-cell or incidence signal were
+checked by title and document type: nearly all are conference/meeting abstracts
+(WoS "Meeting Abstract": rec 4032 Filipino/Chamorro Guam, 4031 neighborhood-SES
+enclave, 4351 state-variation TNBC, 4383 young-women 20-49, 4277/4396 structural-
+racism subtype incidence, etc.) or letters/editorials/errata — all excluded by
+the document-type criterion, and several are conference versions of papers
+already included (e.g. the SABCS TNBC and young-women abstracts). The only two
+full articles with a missing abstract, rec 1679 (TNBC incidence within US Black
+women by social adversity — no White comparator) and rec 2147 ("The Long Red
+Line" — a structural-racism commentary), are correctly excluded. No new eligible
+study was found in either blind spot.
