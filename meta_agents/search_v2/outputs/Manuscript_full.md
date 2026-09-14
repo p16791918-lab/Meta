@@ -103,9 +103,7 @@ criteria to each record and proposed an include/exclude decision, and the author
 included set and a sample of the excluded set. To check the screening for false negatives, a random
 sample of 200 model-excluded records was re-screened (reproducible seed)—each title, its recorded
 exclusion reason, and, where the record concerned breast cancer incidence by race, its abstract and
-full text. Because an abstract was available for 99% of records, the whole excluded set was then
-re-screened at the abstract level: each record's title and abstract were signature-scored for the
-eligibility profile and the highest-scoring candidates were read in full. The
+full text—and the whole excluded set was then scanned for the signature this sample revealed. The
 audit identified three wrongly excluded studies, all neighborhood- or segregation-focused reports
 that nonetheless tabulated race-specific incidence; each was added to the quantitative synthesis as
 a single-state or regional overlap, and none changed a cell representative. The full audit, with the
