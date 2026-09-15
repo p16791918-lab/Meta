@@ -63,7 +63,7 @@ def main():
     box(ax, lmx, 5.4, lmw, 0.9, "Reports assessed for eligibility\n(n = 237)")
     arrow(ax, lmx + lmw / 2, 7.5, lmx + lmw / 2, 6.3)
     box(ax, lex, 4.7, lew, 1.7,
-        "Reports excluded (n = 71):\noverlapping / duplicate dataset (n = 55);\n"
+        "Reports excluded (n = 71):\nduplicate or redundant dataset (n = 55);\n"
         "did not report eligible outcome (n = 12);\n"
         "ineligible population (n = 3);\npreprint, not peer-reviewed (n = 1)")
     arrow(ax, lmx + lmw, 5.85, lex, 5.85)

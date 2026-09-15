@@ -59,36 +59,36 @@ rec_id,PMID,Title,Category / why you check it
 2038,,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage (2023)","D. EXCLUDED, not retrieved (POSSIBLE MISS)"
 3116,,"Time trends and racial differences in female breast cancer incidence in Pennsylvania, 1985-2004 (2011)","D. EXCLUDED, not retrieved (POSSIBLE MISS)"
 3268,17844709,Improving cancer incidence estimates for American Indians in Wisconsin (2007),"D. EXCLUDED, not retrieved (POSSIBLE MISS)"
-3,41055508,"Lobular breast cancer statistics, 2025 (2025)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+3,41055508,"Lobular breast cancer statistics, 2025 (2025)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
 5,42118535,"Stage IV Breast Cancer Incidence and Survival, 2010-202 (2026)",E. EXCLUDED w/o full text: Did not report the outcome of interest
-156,36301149,"Annual report to the nation on the status of cancer, part 1: National cancer statistics (2022)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-235,32162336,"Annual report to the nation on the status of cancer, part I: National cancer statistics (2020)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+156,36301149,"Annual report to the nation on the status of cancer, part 1: National cancer statistics (2022)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+235,32162336,"Annual report to the nation on the status of cancer, part I: National cancer statistics (2020)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
 251,32671723,"Triple-negative breast cancer incidence in the United States: ecological correlations with area-level sociodemographics, healthcare, and health behaviors (2021)",E. EXCLUDED w/o full text: Did not report the outcome of interest
 321,27118258,Risks of developing breast and colorectal cancer in association with incomes and geographic locations in Texas: A retrospective cohort study (2016),E. EXCLUDED w/o full text: Did not report the outcome of interest
-358,24343171,"Annual Report to the Nation on the status of cancer, 1975-2010, featuring  prevalence of comorbidity and impact on survival among persons with lung, colorectal, breast, or prostate cancer (2014)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-362,28376154,"Annual Report to the Nation on the Status of Cancer, 1975-2014, Featuring  Survival (2017)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-384,16958083,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations (2006)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-411,25825511,"Annual report to the nation on the status of cancer, 1975-2011, featuring incidence of breast cancer subtypes by race/ethnicity, poverty, and state (2015)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-788,31145458,"Annual Report to the Nation on the Status of Cancer, Featuring Cancer in Men and Women Age 20–49 Years (2019)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-968,19998273,"Annual report to the nation on the status of cancer, 1975-2006, featuring  colorectal cancer trends and impact of interventions (risk factors, screening, and treatment) to reduce future rates (2010)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+358,24343171,"Annual Report to the Nation on the status of cancer, 1975-2010, featuring  prevalence of comorbidity and impact on survival among persons with lung, colorectal, breast, or prostate cancer (2014)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+362,28376154,"Annual Report to the Nation on the Status of Cancer, 1975-2014, Featuring  Survival (2017)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+384,16958083,"Annual report to the nation on the status of cancer, 1975-2003, featuring cancer  among U.S. Hispanic/Latino populations (2006)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+411,25825511,"Annual report to the nation on the status of cancer, 1975-2011, featuring incidence of breast cancer subtypes by race/ethnicity, poverty, and state (2015)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+788,31145458,"Annual Report to the Nation on the Status of Cancer, Featuring Cancer in Men and Women Age 20–49 Years (2019)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+968,19998273,"Annual report to the nation on the status of cancer, 1975-2006, featuring  colorectal cancer trends and impact of interventions (risk factors, screening, and treatment) to reduce future rates (2010)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
 1462,41742962,Rising Breast Cancer Incidence and Poor Outcomes in Young Women: A Retrospective Study (2026),E. EXCLUDED w/o full text: Ineligible population
-2151,34878180,"American Cancer Society's report on the status of cancer disparities in the United States, 2021 (2022)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-2163,,Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA (2022),E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-3373,14974761,"Cancer Statistics, 2004 (2004)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-3429,11814064,"Cancer statistics, 2002 (2002)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-3522,,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cancer diagnosis (2024)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-3713,,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends (2016),E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4035,15221985,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival (2004)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4050,23297039,"Annual Report to the Nation on the Status of Cancer, 19752009, Featuring the Burden and Trends in Human Papillomavirus (HPV)Associated Cancers and HPV Vaccination Coverage Levels (2013)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4057,21969133,"Breast cancer statistics, 2011 (2011)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4065,24399786,"Cancer Statistics, 2014 (2014)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4066,21454908,"Annual Report to the Nation on the Status of Cancer, 1975-2007, Featuring Tumors of the Brain and Other Nervous System (2011)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4071,12953083,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer prevention and control (2003)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4164,19033571,"Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacco Control (2008)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4172,23335087,"Cancer statistics, 2013 (2013)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4213,22987332,"Cancer statistics for Hispanics/Latinos, 2012 (2012)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4216,22460733,"Annual Report to the Nation on the status of cancer, 1975-2008, featuring cancers associated with excess weight and lack of sufficient physical activity (2012)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
-4357,12924775,"Cancer statistics for Hispanics, 2003 (2003)",E. EXCLUDED w/o full text: Overlapping or duplicate dataset
+2151,34878180,"American Cancer Society's report on the status of cancer disparities in the United States, 2021 (2022)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+2163,,Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA (2022),E. EXCLUDED w/o full text: Duplicate or redundant dataset
+3373,14974761,"Cancer Statistics, 2004 (2004)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+3429,11814064,"Cancer statistics, 2002 (2002)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+3522,,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cancer diagnosis (2024)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+3713,,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends (2016),E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4035,15221985,"Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival (2004)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4050,23297039,"Annual Report to the Nation on the Status of Cancer, 19752009, Featuring the Burden and Trends in Human Papillomavirus (HPV)Associated Cancers and HPV Vaccination Coverage Levels (2013)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4057,21969133,"Breast cancer statistics, 2011 (2011)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4065,24399786,"Cancer Statistics, 2014 (2014)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4066,21454908,"Annual Report to the Nation on the Status of Cancer, 1975-2007, Featuring Tumors of the Brain and Other Nervous System (2011)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4071,12953083,"Annual report to the nation on the status of cancer, 1975-2000, featuring the uses of surveillance data for cancer prevention and control (2003)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4164,19033571,"Annual Report to the Nation on the Status of Cancer, 1975-2005, Featuring Trends in Lung Cancer, Tobacco Use, and Tobacco Control (2008)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4172,23335087,"Cancer statistics, 2013 (2013)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4213,22987332,"Cancer statistics for Hispanics/Latinos, 2012 (2012)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4216,22460733,"Annual Report to the Nation on the status of cancer, 1975-2008, featuring cancers associated with excess weight and lack of sufficient physical activity (2012)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
+4357,12924775,"Cancer statistics for Hispanics, 2003 (2003)",E. EXCLUDED w/o full text: Duplicate or redundant dataset
 66,34427920,Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women (2021),"F1. EXTRACTION HIGH: overall-incidence IRRs NOT in main paper (paper reports proportion-diagnosed-<50 RR, e.g. Hispanic 1.93). CHECK ONLINE SUPPLEMENT; drives SENS2. Likely reclassify to narrative."
 234,42377954,"Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022 (2026)",F2. EXTRACTION: AANHPI subgroup rates in image eTable (aggregates+NHW 139.5 already verified via supplement; verify 8 subgroup rates)
 203,19001605,Recent trends in breast cancer among younger women in the United States (2008),F3. EXTRACTION LOW (inert overlap): Black age-label <30 vs <40 mismatch; not selected anywhere

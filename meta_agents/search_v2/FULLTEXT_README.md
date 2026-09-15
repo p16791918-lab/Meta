@@ -44,7 +44,7 @@ python3 ft_screen_template.py
   - `ft_reason` (when excluding) = one of, EXACTLY:
     - `Did not report the outcome of interest`
     - `Ineligible population`
-    - `Overlapping or duplicate dataset`
+    - `Duplicate or redundant dataset`
     - `Full text unavailable`
   - `registry_family_confirmed`, `diagnosis_years`, and the extracted rates
     (`minority_rate`/`minority_ci`, `nhw_rate`/`nhw_ci`, `irr`/`irr_ci`) with the

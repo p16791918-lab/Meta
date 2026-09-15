@@ -183,7 +183,7 @@ def _risk_exc(reason):
     return {"Full text unavailable": "HIGH — not retrieved (possible missed study)",
             "Did not report the outcome of interest": "MED — excluded without full text",
             "Ineligible population": "LOW",
-            "Overlapping or duplicate dataset": "LOW — metadata-defensible"}.get(reason, "?")
+            "Duplicate or redundant dataset": "LOW — metadata-defensible"}.get(reason, "?")
 frows = []
 for r in _inc:
     if r["record_id"] not in _pdfs:

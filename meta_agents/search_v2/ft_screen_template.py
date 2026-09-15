@@ -14,7 +14,7 @@ The four full-text exclusion categories (mirror the reference PRISMA template's
 eligibility box; keep these EXACT):
   - Did not report the outcome of interest
   - Ineligible population
-  - Overlapping or duplicate dataset
+  - Duplicate or redundant dataset
   - Full text unavailable
 
 This script FILLS NOTHING it cannot derive from the existing metadata — every
@@ -36,7 +36,7 @@ OUT = os.path.join(HERE, "ft_screening_log.csv")
 FT_CATEGORIES = [
     "Did not report the outcome of interest",
     "Ineligible population",
-    "Overlapping or duplicate dataset",
+    "Duplicate or redundant dataset",
     "Full text unavailable",
 ]
 

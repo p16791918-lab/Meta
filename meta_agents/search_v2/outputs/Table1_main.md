@@ -16,7 +16,7 @@ Values are the representative population-based estimate per group (one per regis
 
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
-| Hmong | IRR | 0.164 [0.120, 0.224] ‡ | Mills2005 (Hmong 1988-2000 / NHW 1995-1999) | California-CCR | Low |
+| Hmong | IRR | 0.164 [0.120, 0.224] ‡ | Mills2005 (1988-2000) | California-CCR | Low |
 | Cambodian | IRR | 0.264 [0.204, 0.341] ‡ | Kem2007 (1998-2002) | California-CCR | Moderate |
 | Laotian/Kampuchean | IRR | 0.388 [0.350, 0.430] ‡ | Gomez2026_SEER21 (2018-2022) | SEER-national | Moderate |
 | Vietnamese | IRR | 0.586 [0.566, 0.608] ‡ | Gomez2026_SEER21 (2018-2022) | SEER-national | Moderate |

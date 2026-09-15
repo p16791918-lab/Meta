@@ -14,7 +14,7 @@ Outputs:
 Each row: record_id, citation (title, year), pmid, doi, exclusion_reason, detail.
 Full-text exclusion reason set (locked):
   Did not report the outcome of interest / Ineligible population /
-  Overlapping or duplicate dataset / Full text unavailable
+  Duplicate or redundant dataset / Full text unavailable
 """
 import csv
 import os
@@ -30,7 +30,7 @@ REASON_ORDER = [
     "Did not report the outcome of interest",
     "Ineligible population",
     "Preprint (not peer-reviewed)",
-    "Overlapping or duplicate dataset",
+    "Duplicate or redundant dataset",
     "Full text unavailable",
 ]
 
