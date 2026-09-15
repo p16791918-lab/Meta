@@ -1,6 +1,6 @@
 dimension,group,family,main_irr,main_ci,main_rec,sens_irr,sens_ci,sens_rec,status,n_all,n_kept
 disaggregated-AANHPI,Asian American (aggregate),,0.792," [0.784, 0.800]",234,0.703," [0.692, 0.715]",4027,changed,2,1
-disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.61," [0.56, 0.66]",955,changed,4,3
+disaggregated-AANHPI,Asian Indian/Pakistani,,0.958," [0.937, 0.979]",234,0.791," [0.758, 0.825]",4027,changed,4,2
 disaggregated-AANHPI,Chinese,,0.760," [0.745, 0.775]",234,0.616," [0.596, 0.637]",4027,changed,5,3
 disaggregated-AANHPI,Filipina,,0.857," [0.839, 0.874]",234,0.828," [0.803, 0.854]",4027,changed,4,2
 disaggregated-AANHPI,Japanese,,1.045," [1.009, 1.083]",234,0.951," [0.908, 0.996]",4027,changed,4,2
@@ -30,7 +30,7 @@ AIAN,AIAN (Northern Plains),,1.05,,2510,1.05,,2510,unchanged,3,2
 AIAN,AIAN (Pacific Coast),,0.93,,2510,0.93,,2510,unchanged,2,2
 AIAN,AIAN (Southern Plains),,1.33," [1.26, 1.41]",3662,1.33," [1.26, 1.41]",3662,unchanged,3,3
 AIAN,AIAN (Southwest),,0.57,,2510,0.57,,2510,unchanged,2,2
-AIAN,Alaska Native,,1.09," [0.99, 1.21]",28,1.09," [0.99, 1.21]",28,unchanged,5,5
+AIAN,Alaska Native,,1.09," [0.99, 1.21]",28,1.09," [0.99, 1.21]",28,unchanged,6,6
 Hispanic-origin,Cuban,,0.769," [0.688, 0.860]",3182,0.769," [0.688, 0.860]",3182,unchanged,1,1
 Hispanic-origin,Mexican,,0.512," [0.382, 0.686]",3182,0.512," [0.382, 0.686]",3182,unchanged,1,1
 Hispanic-origin,New Latino,,0.697," [0.629, 0.771]",3182,0.697," [0.629, 0.771]",3182,unchanged,1,1
@@ -51,10 +51,10 @@ age-lt50,Filipina,,0.768," [0.633, 0.932]",522,0.768," [0.633, 0.932]",522,uncha
 age-lt50,Hispanic,,0.74," [0.74, 0.75]",369,0.74," [0.74, 0.75]",369,unchanged,2,2
 age-lt50,Japanese,,1.479," [1.252, 1.748]",522,1.479," [1.252, 1.748]",522,unchanged,1,1
 age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",522,unchanged,1,1
-aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,13,10
-aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,10,7
-aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,16,14
-aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,14,12
+aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,14,11
+aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,11,8
+aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,18,16
+aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,15,13
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,1
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,1.459," [1.267, 1.679]",200,unchanged,1,1
@@ -78,7 +78,7 @@ subtype-HRpos-HER2pos,Native Hawaiian,,1.34," [0.96, 1.88]",161,1.34," [0.96, 1.
 subtype-TNBC,AIAN,,0.860," [0.800, 0.930]",155,0.860," [0.800, 0.930]",155,unchanged,3,2
 subtype-TNBC,Asian American (aggregate),,0.61," [0.58, 0.65]",324,0.61," [0.58, 0.65]",324,unchanged,1,1
 subtype-TNBC,Asian/PI (aggregate),,0.700," [0.680, 0.720]",155,0.700," [0.680, 0.720]",155,unchanged,4,3
-subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,10,6
+subtype-TNBC,Black,,1.950," [1.930, 1.980]",155,1.950," [1.930, 1.980]",155,unchanged,10,5
 subtype-TNBC,Chinese,,0.53," [0.31, 0.93]",161,0.53," [0.31, 0.93]",161,unchanged,1,1
 subtype-TNBC,Filipina,,0.84," [0.60, 1.18]",161,0.84," [0.60, 1.18]",161,unchanged,1,1
 subtype-TNBC,Hispanic,,0.860," [0.840, 0.880]",155,0.860," [0.840, 0.880]",155,unchanged,6,4

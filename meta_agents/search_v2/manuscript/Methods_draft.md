@@ -83,9 +83,9 @@ extraction and cross-checked each extracted value against its source, and every 
 was verified by the author against the source table, figure, or text; this verification moved four
 reports first placed in the narrative set to the quantitative synthesis (Supplementary Note 2), all
 contributing overlapping or age-specific estimates rather than displacing the national
-representatives. In all, 166
-publications were included in the systematic review; of these, 55 were eligible for quantitative
-synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
+representatives. In all, 176
+publications were included in the systematic review; of these, 58 were eligible for quantitative
+synthesis and the remaining 118 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -139,7 +139,7 @@ unstratified White) comparator, and to estimates standardized to the 2000 U.S. s
 
 ### Risk of bias
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
-for studies reporting prevalence/incidence data,¹⁴ applied to each of the 55 extracted studies by
+for studies reporting prevalence/incidence data,¹⁴ applied to each of the 58 extracted studies by
 the author (a single assessor) with large-language-model assistance (Supplementary Table 5). Item 9
 (survey response rate) was recorded as not applicable, census-like registry ascertainment having no
 response rate, so each study's rating used the eight applicable items: low risk of bias required at

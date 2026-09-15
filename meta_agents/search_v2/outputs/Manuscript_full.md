@@ -20,8 +20,8 @@ incidence rate ratio (IRR) versus NHW women, or versus an unstratified White ref
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 166 studies were included—55 eligible for quantitative
-synthesis and 111 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 176 studies were included—58 eligible for quantitative
+synthesis and 118 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI
@@ -122,9 +122,9 @@ extraction and cross-checked each extracted value against its source, and every 
 was verified by the author against the source table, figure, or text; this verification moved four
 reports first placed in the narrative set to the quantitative synthesis (Supplementary Note 2), all
 contributing overlapping or age-specific estimates rather than displacing the national
-representatives. In all, 166
-publications were included in the systematic review; of these, 55 were eligible for quantitative
-synthesis and the remaining 111 informed the narrative synthesis. Most included studies were population-based registry or incidence
+representatives. In all, 176
+publications were included in the systematic review; of these, 58 were eligible for quantitative
+synthesis and the remaining 118 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
@@ -178,7 +178,7 @@ unstratified White) comparator, and to estimates standardized to the 2000 U.S. s
 
 ### Risk of bias
 Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical appraisal checklist
-for studies reporting prevalence/incidence data,¹⁴ applied to each of the 55 extracted studies by
+for studies reporting prevalence/incidence data,¹⁴ applied to each of the 58 extracted studies by
 the author (a single assessor) with large-language-model assistance (Supplementary Table 5). Item 9
 (survey response rate) was recorded as not applicable, census-like registry ascertainment having no
 response rate, so each study's rating used the eight applicable items: low risk of bias required at
@@ -233,12 +233,12 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
-retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
-quantitative synthesis and entered the analysis, contributing 213 individual estimates across
+records for title and abstract screening. Full text was sought for 259 reports; 10 could not be
+retrieved, and of the 249 assessed, 73 were excluded (reasons in Supplementary Table 3), giving 176 included studies (Figure 1). Of these, 58 were eligible for
+quantitative synthesis and entered the analysis, contributing 219 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 111 informed the narrative synthesis (166 = 55 + 111). The extracted studies were published
+sensitivity analysis; the remaining 118 informed the narrative synthesis (176 = 58 + 118). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 85 representative estimates remained, one per analytic
@@ -298,7 +298,7 @@ unstratified-White sources and are listed in Supplementary Table 4; they are the
 cells that the sensitivity analyses show to be least stable.
 
 ### Narrative synthesis
-The 111 narrative-synthesis studies met the inclusion criteria but contributed no
+The 118 narrative-synthesis studies met the inclusion criteria but contributed no
 independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
 rate could be recovered, and a few multi-registry summary reports (for example, the annual
 reports to the nation and the annual cancer-statistics summaries) because they re-reported
@@ -331,7 +331,7 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at moderate risk, with
+On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held

@@ -11,25 +11,29 @@
 
 ## Screening
 - Records screened (title/abstract): 4,793
-- Records excluded: 4,547
-- Reports sought for retrieval: 246
-- Reports not retrieved: 9 (full text unavailable — records 157, 253, 415, 424, 428, 476,
-  2038, 3116, 3268; sought but could not be obtained, so not assessable)
-- Note: record 3720, a Louisiana Tumor Registry triple-negative study reporting an age-adjusted
-  Black-vs-White rate ratio of 2.21 (95% CI 1.96–2.48), was identified on the post-hoc screening
-  audit as wrongly excluded and added to the review; its full text was obtained and it entered the
-  quantitative synthesis as a regional overlapping estimate for the NHB triple-negative cell. This
-  is why the excluded count fell (from 4,551). A further scan of the whole excluded pool found two more wrongly excluded studies — records 2609 (Krieger 2018) and 2146 (Wright/Krieger 2022), both Massachusetts Cancer Registry reports of age-standardized breast incidence by race versus NHW — each added to the quantitative synthesis as a single-state overlap. The three additions together account for excluded 4,551 → 4,548 and the assessed/included counts rising by three.
+- Records excluded: 4,534
+- Reports sought for retrieval: 259
+- Reports not retrieved: 10 (full text unavailable — records 157, 253, 415, 424, 428, 476,
+  2038, 3116, 3268, 340; sought but could not be obtained, so not assessable)
+- Note: the model-excluded set was re-screened in full with an explicit keyword filter (breast
+  cancer + an incidence-rate term + a race/ethnicity term + a U.S. context + a registry/population-
+  based term), and the flagged candidates were retrieved and assessed at full text. This recovered
+  17 wrongly excluded reports in all (raw title/abstract exclusions 4,551 → screening-excluded
+  4,534): four found on the first audit (3720 Louisiana TNBC; 2609 and 2146 Massachusetts; 566 SEER
+  inflammatory-breast morphology) and thirteen on the filter pass (257, 452, 488 entering the
+  quantitative synthesis as overlaps; 290, 215, 176, 664, 56, 60, 304 the narrative synthesis; 3184
+  and 3193 re-excluded at eligibility; 340 sought but not retrieved). Overlap-versus-duplicate status
+  was judged from the full text, never from the abstract.
 
 ## Eligibility
-- Reports assessed for eligibility (full text): 237
-- Reports excluded: 71 (reasons in `TableS_excluded_fulltext.csv`): overlapping/duplicate
-  dataset 55; did not report eligible outcome 12; ineligible population 3; preprint 1
+- Reports assessed for eligibility (full text): 249
+- Reports excluded: 73 (reasons in `TableS_excluded_fulltext.csv`): duplicate or redundant
+  dataset 55; did not report eligible outcome 13; ineligible population 4; preprint 1
 
 ## Included
-- Studies included in review: 166
-  - Quantitative synthesis: 55 studies (all eligible studies contributed extractable estimates)
-    (23 supplied a cell representative; the other 32 contributed overlapping estimates carried
+- Studies included in review: 176
+  - Quantitative synthesis: 58 studies (all eligible studies contributed extractable estimates)
+    (23 supplied a cell representative; the other 35 contributed overlapping estimates carried
     only in the sensitivity analysis — e.g. 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR
     Asian subgroups; 461 Northern-Plains AI/AN [unlinked state registries, AI/AN-undercount];
     2137 urban AI/AN; 419 California triple-negative, age-standardized by the review from reported
@@ -39,7 +43,7 @@
     vs NHW; 93 Zahnd Delta-region 7-state subtype IRRs vs NHW; and 210 Du SEER-18 age-adjusted
     rates by race (IRR vs NHW recomputed) — all carrying rate ratios in tables missed on the
     first text pass, and all entering as overlapping or age-specific estimates.)
-  - Narrative synthesis only: 111
+  - Narrative synthesis only: 118
 
 ## Notes for the flowchart
 - Single-reviewer screening with AI assistance; state this in Methods.
@@ -47,7 +51,7 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 55 extracted studies contributed 213 estimates; 23 studies supplied at
+- The 58 extracted studies contributed 219 estimates; 23 studies supplied at
   least one main-analysis representative (85 representative estimates in all, one per analytic
-  cell), and the remaining 32 studies contributed only overlapping estimates carried in the
+  cell), and the remaining 35 studies contributed only overlapping estimates carried in the
   sensitivity analysis.

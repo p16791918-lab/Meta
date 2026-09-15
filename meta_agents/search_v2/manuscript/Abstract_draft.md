@@ -22,8 +22,8 @@ incidence rate ratio (IRR) versus NHW women, or versus an unstratified White ref
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
-**Results.** Of 4,793 records screened, 166 studies were included—55 eligible for quantitative
-synthesis and 111 narrative. Overall incidence was lower than NHW in
+**Results.** Of 4,793 records screened, 176 studies were included—58 eligible for quantitative
+synthesis and 118 narrative. Overall incidence was lower than NHW in
 each aggregate group: Hispanic/Latina 0.72, Asian American, Native Hawaiian, and Pacific
 Islander (AANHPI) 0.77, AI/AN 0.87, and non-Hispanic Black (NHB) 0.93.
 Within-group estimates ranged widely—0.16 (Hmong) to 1.21 (Native Hawaiian) across AANHPI

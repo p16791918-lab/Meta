@@ -7,7 +7,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
 | disaggregated-AANHPI | Asian American (aggregate) | 0.792 (234) | 0.703 (4027) | **changed** |
-| disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.61 (955) | **changed** |
+| disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.791 (4027) | **changed** |
 | disaggregated-AANHPI | Chinese | 0.760 (234) | 0.616 (4027) | **changed** |
 | disaggregated-AANHPI | Filipina | 0.857 (234) | 0.828 (4027) | **changed** |
 | disaggregated-AANHPI | Japanese | 1.045 (234) | 0.951 (4027) | **changed** |

@@ -33,7 +33,22 @@ sqrt(SE_min² + SE_nhw²), SE(log rate) = (ln hi − ln lo)/(2·1.96); provenanc
 `computed-from-rates-with-CI`. Rate without CI → point IRR only; provenance
 `computed-from-rates` (or `directly-reported-rate` where the source printed the rate).
 The records in each class:
-- **with CI:** rec 10, rec 161, rec 200, rec 210, rec 265, rec 333, rec 346, rec 522, rec 2131, rec 2146, rec 2609, rec 3298, rec 3398, rec 4040.
+- **with CI:** rec 10, rec 161, rec 200, rec 210, rec 265, rec 333, rec 346, rec 452, rec 488, rec 522, rec 2131, rec 2146, rec 2609, rec 3298, rec 3398, rec 4040.
+- **rec 452 (Eheman 2009, NPCR+SEER, 44 states + DC, 1999–2004).** Table 5 prints age-standardized
+  (2000 US) total invasive lobular/ductal/mixed breast IR with 95% CIs by race, White 108.1
+  [107.9–108.3]: Black 89.3/108.1 = 0.826 [0.820, 0.832], Asian/PI 51.3/108.1 = 0.475 [0.458, 0.492],
+  AIAN 68.1/108.1 = 0.630 [0.622, 0.639] (delta method); Hispanic 73.9 is referenced to Non-Hispanic
+  108.5 [108.3–108.7] = 0.681 [0.675, 0.687]. Comparator is unstratified White (Non-Hispanic for the
+  Hispanic row); a national estimate over the ductal/lobular/mixed subset (~87% of invasive breast),
+  each entering its aggregate-vs-NHW cell as a sensitivity overlap of the USCS-national representative
+  (Ellington 2022), which it does not displace (lower coverage, unstratified comparator, older period).
+  Post-hoc filter recovery.
+- **rec 488 (Liu 2015, Texas Cancer Registry, 1995–2011).** Table II prints age-adjusted (2000 US)
+  breast IR with 95% CIs, White 136.14 [131.91–140.37], Black 131.90 [129.40–134.40]: Black/White
+  = 0.969 [0.934, 1.005] (delta method). Comparator is unstratified White; the paper's own
+  stage/grade-adjusted incidence ratio is 0.98 [0.97, 0.99]. A single-state estimate entering the
+  Black aggregate-vs-NHW cell as a sensitivity overlap of the national representative. Post-hoc filter
+  recovery.
 - **rec 2609 (Krieger 2018, Massachusetts Cancer Registry, 2010–2014).** Table 2 prints
   age-standardized (2000 US) breast incidence rates with 95% CIs by race, NHW 140.8 [139.0–142.7]:
   NHB 113.6/140.8 = 0.807 [0.762, 0.855], Hispanic 86.9/140.8 = 0.617 [0.578, 0.660], Asian/PI

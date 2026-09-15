@@ -11,12 +11,12 @@ unstratified White reference) or noted as an SIR.
 
 ### Selection and characteristics of included studies
 The four databases returned 9,099 records; 4,306 duplicates were removed, leaving 4,793 unique
-records for title and abstract screening. Full text was sought for 246 reports; 9 could not be
-retrieved, and of the 237 assessed, 71 were excluded (reasons in Supplementary Table 3), giving 166 included studies (Figure 1). Of these, 55 were eligible for
-quantitative synthesis and entered the analysis, contributing 213 individual estimates across
+records for title and abstract screening. Full text was sought for 259 reports; 10 could not be
+retrieved, and of the 249 assessed, 73 were excluded (reasons in Supplementary Table 3), giving 176 included studies (Figure 1). Of these, 58 were eligible for
+quantitative synthesis and entered the analysis, contributing 219 individual estimates across
 racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁵²—23 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
-sensitivity analysis; the remaining 111 informed the narrative synthesis (166 = 55 + 111). The extracted studies were published
+sensitivity analysis; the remaining 118 informed the narrative synthesis (176 = 58 + 118). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 85 representative estimates remained, one per analytic
@@ -76,7 +76,7 @@ unstratified-White sources and are listed in Supplementary Table 4; they are the
 cells that the sensitivity analyses show to be least stable.
 
 ### Narrative synthesis
-The 111 narrative-synthesis studies met the inclusion criteria but contributed no
+The 118 narrative-synthesis studies met the inclusion criteria but contributed no
 independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
 rate could be recovered, and a few multi-registry summary reports (for example, the annual
 reports to the nation and the annual cancer-statistics summaries) because they re-reported
@@ -109,7 +109,7 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 44 of the 55 studies were at low risk of bias and 11 at moderate risk, with
+On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
