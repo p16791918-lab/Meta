@@ -101,17 +101,20 @@ records). Titles and abstracts were screened against the pre-specified eligibili
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
 included set and the excluded set. To guard against false negatives, the entire model-excluded set
-was re-screened rather than sampled. Each excluded record was re-read at the title and abstract; and
-every record that mentioned breast cancer and carried any signal of U.S. population-based incidence
-by race or ethnicity—an age-standardized or age-adjusted rate, an incidence rate ratio or
-standardized incidence ratio, and a minority-versus-White comparison within a U.S. registry—was
-additionally reviewed against its full abstract, so that a comparison reported only in the results
-would not be missed through a truncated record. This exhaustive re-screen recovered a small number of
-wrongly excluded population-based reports that tabulated race-specific incidence—added to the
-quantitative synthesis as single-state, regional, or disaggregated-subgroup overlaps, none of which
-displaced a national cell representative—and identified no further eligible studies. Every model
-decision the author accepted or overturned was recorded, and the records checked with the reasons
-retained are given in Supplementary Note 2. The author then obtained and read the full texts and
+was re-screened rather than sampled. Each excluded record was re-read at the title and full abstract,
+and every record that mentioned breast cancer and carried any signal of U.S. population-based
+incidence by race or ethnicity—an age-standardized or age-adjusted rate, an incidence rate ratio or
+standardized incidence ratio, or a minority-versus-White comparison within a U.S. registry—was
+carried forward for full-text retrieval rather than left on the abstract alone. A small number of
+wrongly excluded population-based reports were recovered this way; each was obtained and read in
+full, and its registry, diagnosis period, and population were compared against the studies already
+included, so that whether a recovered report was an overlapping estimate to retain or a duplicate to
+exclude was judged from the full text, never from the abstract. All the recovered reports proved to
+be single-state, regional, or morphology-specific studies whose race-specific data entered the
+quantitative or narrative synthesis as overlaps that did not displace a national cell
+representative, and the re-screen identified no further eligible studies. Every model decision the
+author accepted or overturned was recorded, and the records checked with the reasons retained are
+given in Supplementary Note 2. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for one report available
 only as a supplementary data table rather than a full article, which was assessed from that table
 and enters only the narrative synthesis (distinct from the nine reports not retrieved at all). The model assisted data
