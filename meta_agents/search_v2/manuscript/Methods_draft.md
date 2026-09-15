@@ -62,20 +62,20 @@ records). Titles and abstracts were screened against the pre-specified eligibili
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
 included set and the excluded set. To guard against false negatives, the entire model-excluded set
-was re-screened rather than sampled. Each excluded record was re-read at the title and full abstract,
-and every record that mentioned breast cancer and carried any signal of U.S. population-based
-incidence by race or ethnicity—an age-standardized or age-adjusted rate, an incidence rate ratio or
-standardized incidence ratio, or a minority-versus-White comparison within a U.S. registry—was
-carried forward for full-text retrieval rather than left on the abstract alone. A small number of
-wrongly excluded population-based reports were recovered this way; each was obtained and read in
-full, and its registry, diagnosis period, and population were compared against the studies already
-included, so that whether a recovered report was an overlapping estimate to retain or a duplicate to
-exclude was judged from the full text, never from the abstract. All the recovered reports proved to
-be single-state, regional, or morphology-specific studies whose race-specific data entered the
-quantitative or narrative synthesis as overlaps that did not displace a national cell
-representative, and the re-screen identified no further eligible studies. Every model decision the
-author accepted or overturned was recorded, and the records checked with the reasons retained are
-given in Supplementary Note 2. The author then obtained and read the full texts and
+(4,547 records) was re-screened rather than sampled. Each excluded title and full abstract was passed
+through an explicit keyword filter that retained a record only when it co-mentioned all five of:
+breast cancer; an incidence-rate signal (an age-standardized or age-adjusted rate, an incidence rate
+ratio, a standardized incidence ratio, or a count per 100,000); a race or ethnicity term; a
+U.S.-context term; and a cancer-registry or population-based term. Obvious non-U.S., male-only, and
+international-comparison records were then removed. The filter narrowed the 4,547 excluded records in
+sequence—3,746 with a breast mention, 1,287 of those with an incidence-rate signal, 874 with a race
+or ethnicity term, 603 in a U.S. context, and 303 with a registry or population-based term—to 183
+candidates after the non-U.S., male-only, and international records were dropped. Each of the 183
+candidates was read at its full abstract, and a candidate was carried forward for full-text retrieval
+when it reported U.S. population-based invasive female breast cancer incidence by race. Reports
+carried forward were assessed at the eligibility stage, where whether a report was an overlapping
+estimate to retain or a duplicate to exclude was judged from the full text, never from the abstract;
+the candidates carried forward, with the reasons retained, are listed in Supplementary Note 2. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for one report available
 only as a supplementary data table rather than a full article, which was assessed from that table
 and enters only the narrative synthesis (distinct from the nine reports not retrieved at all). The model assisted data
