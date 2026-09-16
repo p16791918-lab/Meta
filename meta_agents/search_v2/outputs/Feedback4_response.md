@@ -74,20 +74,31 @@
 
 ## 6. 서술적 종합과 검토 절차의 보고를 완성해주세요. Narrative synthesis 114편이 제공한 결과를 nativity, 연령, 시간 추세, 지역 등 주요 주제로 정리하고 근거 연구를 연결해주세요. LLM 선별에 사용한 모델과 역할, 사람이 재검토한 표본 수, 발견한 누락 및 후속 조치도 보고해주세요. PROSPERO 등록 준비 중 문구는 실제 등록 상태로 정리하고, 사전 프로토콜과 분석 후 변경사항을 구분해주세요. JBI 평가에서는 Q9를 '해당 없음'으로 설명하면서 표에는 Y로 기록한 부분과 전체 RoB 판정 기준도 확인해주세요.
 
-- **① narrative 110편 주제별 정리 + 근거연구 연결**: 6개 주제로 분류(제목, 집단, outcome 키워드) —
- Molecular subtype/histology 22, Geography/region 23, Age/early-onset 20, SES/screening 9,
- Nativity/immigrant 8, Time trends 8, Other(subgroup-descriptive) 20 (합 110). Results의
+- **① narrative 118편 주제별 정리 + 근거연구 연결**: 6개 주제로 분류(제목, 집단, outcome 키워드) —
+ Molecular subtype/histology 28, Geography/region 24, Age/early-onset 20, SES/screening 9,
+ Nativity/immigrant 8, Time trends 9, Other(subgroup-descriptive) 20 (합 118). Results의
  narrative 소절을 주제별 서술로 재작성(각 주제의 소견을 정량결과와 대조)하고, Supplementary
  Table 2를 주제별로 그룹화(각 연구에 PMID/DOI 부여)해 근거연구를 연결.
-- **② LLM 모델, 역할, 재검토 표본, 누락 보고(Methods)**: "large language model (Anthropic's Claude)"가
- 포함/제외 제안, 저자가 최종 판정. 제외편 중 200편 무작위 재선별(재현 가능하게 고정) — 200편 제목, 제외사유
- 전수 확인 후, 제목만으로 애매한 16편의 초록을 실제로 열어 판독 → 1편 false negative 발견:
- Hossain 2019(Louisiana Tumor Registry TNBC, AA vs EA 연령보정 발생률비 2.21 [1.96,2.48],
- PMID 30834239) — 적격인데 잘못 제외됐음. 이후 전문을 받아 quant로 정식 편입(NHB TNBC
- sensitivity overlap, White=ref unstratified †, Table 2 model 1). 단일주라 국가대표 1.95의 overlap, 헤드라인 결과 불변. 나머지 199편은 정당한 제외 확인. 200편 중
- 1편(~0.5%) → 단일선별의 소규모 false-negative 잔존율을 한계로 명시(독립 이중선별 미시행).
- 발견한 다른 누락(포함군 내), 후속조치: overlap 6편 추출 + 이미지표 재검증 narrative→quant 4편
- 재분류(Shoemaker 2018, Lee Argov 2024, Zahnd 2019, Du 2022).
+- **② LLM 모델, 역할, 재검토 표본, 누락 보고**: 제목/초록 선별은 large language model
+ (Anthropic's Claude)이 포함/제외를 제안하고 저자가 최종 판정(단일선별 + AI). **Methods 본문은 이
+ 모델 역할과 단일선별을 간결히 기술하고, 사람 재검토의 상세는 supervisor 요청(item 6)에 대한 답으로
+ 여기 피드백 응답에 보고한다.** 재검토는 제외편 전수를 대상으로 했다 — 명시적 키워드 필터(유방암 +
+ 발생률 신호[age-adjusted rate·IRR·SIR·per 100,000] + 인종/민족 + 미국 맥락 + 레지스트리/
+ population-based)를 제외 전수에 걸어 183편을 걸러내고, 그 183편의 초록을 전편 정독했다. 각 편의
+ overlap/중복 여부는 전문(full text)으로 판정했으며, 잘못 제외된 **14편을 회수**했다:
+   - **quant 편입 6편** — Hossain 2019(Louisiana TNBC, AA vs EA 2.21 [1.96,2.48], PMID 30834239),
+     Krieger 2018·Wright 2022(Massachusetts aggregate), Moore 2015(알래스카 원주민 SRR 1.14 vs 미
+     백인, IHS-CHSDA), Eheman 2009(NPCR+SEER 전국 ductal/lobular 인종별), Liu 2015(Texas Black vs
+     White). 전부 단일주·지역·전국 **sensitivity overlap**으로 편입 — 국가대표(85셀/23연구)·Table 1·
+     헤드라인 결과 불변.
+   - **narrative 편입 8편** — SEER 흑–백 발생률 RRbw(그래프), ER 표현형×흑백(그래프), Hispanic 이웃
+     발생률(논문 내 White 비교 없음), ER-status×인종 전국 추세, 염증성유방암(IBC) 발생률 2편, 선양낭성암
+     (ACC) 발생률, IBC 형태학. 정밀 in-paper White rate/IRR가 없거나 형태학·수용체 테마라 서술 종합에 기여.
+   - **eligibility 재제외 2편**(라오스 California 비례발생비[PIR]만·발생률 아님; 현역 군인 ACTUR 특수인구),
+     **미검색 1편**(Asian enclave 5주, 전문 확보 실패).
+ 단일선별의 소규모 false-negative 잔존을 한계로 명시(독립 이중선별 미시행). 포함군 내 재검증에서도
+ 이미지표를 다시 확인해 narrative→quant 4편(Shoemaker 2018, Lee Argov 2024, Zahnd 2019, Du 2022)을
+ 재분류했다.
 - **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 CRD42023437049(저자 제공)로
  교체. 사전 프로토콜(질문, 검색, 적격기준, 중복처리, quant/narrative 분리)과 등록 후 개발, 정련한 사후
  변경(analytic-cell 대표값 프레임, provenance tier, 커버리지 규칙, AI/AN IHS 우선, 수용체 아형, 연령
@@ -126,6 +137,9 @@
 ---
 
 ## 부가. narrative 전편(114→112→110) 개별 재대조
+
+*(이 절은 4차 라운드 당시 포함군 내 narrative 재대조 기록이다. 이후 제외편 전수 재스크리닝(item ②)으로
+회수가 더해져 최종은 quant 58 / narrative 118이다 — 아래 48→52, 114→110은 그 시점의 델타.)*
 
 quant를 poppler로 전수 대조한 것과 동일한 기준을 narrative 전편에 적용해, "인종 × 유방암 발생률 ×
 NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스트 추출이 놓친 논문(Howlader형)을 찾음.
