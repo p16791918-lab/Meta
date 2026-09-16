@@ -100,29 +100,22 @@ Records were de-duplicated across databases (4,306 duplicates removed, leaving 4
 records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
-included set and the excluded set. To guard against false negatives, the entire model-excluded set
-(4,547 records) was re-screened rather than sampled. Each excluded title and full abstract was passed
-through an explicit keyword filter that retained a record only when it co-mentioned all five of:
-breast cancer; an incidence-rate signal (an age-standardized or age-adjusted rate, an incidence rate
-ratio, a standardized incidence ratio, or a count per 100,000); a race or ethnicity term; a
-U.S.-context term; and a cancer-registry or population-based term. Obvious non-U.S., male-only, and
-international-comparison records were then removed. The filter narrowed the 4,547 excluded records in
-sequence—3,746 with a breast mention, 1,287 of those with an incidence-rate signal, 874 with a race
-or ethnicity term, 603 in a U.S. context, and 303 with a registry or population-based term—to 183
-candidates after the non-U.S., male-only, and international records were dropped. Each of the 183
-candidates was read at its full abstract, and a candidate was carried forward for full-text retrieval
-when it reported U.S. population-based invasive female breast cancer incidence by race. Reports
-carried forward were assessed at the eligibility stage, where whether a report was an overlapping
-estimate to retain or a duplicate to exclude was judged from the full text, never from the abstract;
-the candidates carried forward, with the reasons retained, are listed in Supplementary Note 2. The author then obtained and read the full texts and
+included set—162 studies—and the excluded set. The model-excluded records were re-screened with an
+explicit keyword filter that retained a record only when its title or full abstract co-mentioned all
+five of: breast cancer; an incidence-rate signal (an age-standardized or age-adjusted rate, an
+incidence rate ratio, a standardized incidence ratio, or a count per 100,000); a race or ethnicity
+term; a U.S.-context term; and a cancer-registry or population-based term; obvious non-U.S.,
+male-only, and international-comparison records were removed, leaving 183 candidates that were each
+read at full abstract. The re-screen recovered 14 wrongly excluded reports—six added to the
+quantitative synthesis as single-state, regional, or disaggregated overlaps and eight to the
+narrative synthesis—with each recovered report's overlap-versus-duplicate status judged from its
+full text, never from the abstract. Of the 176 studies included in the review, 162 therefore came
+from the primary screen and 14 from the re-screen. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for one report available
 only as a supplementary data table rather than a full article, which was assessed from that table
-and enters only the narrative synthesis (distinct from the nine reports not retrieved at all). The model assisted data
+and enters only the narrative synthesis. The model assisted data
 extraction and cross-checked each extracted value against its source, and every included estimate
-was verified by the author against the source table, figure, or text; this verification moved four
-reports first placed in the narrative set to the quantitative synthesis (Supplementary Note 2), all
-contributing overlapping or age-specific estimates rather than displacing the national
-representatives. In all, 176
+was verified by the author against the source table, figure, or text. In all, 176
 publications were included in the systematic review; of these, 58 were eligible for quantitative
 synthesis and the remaining 118 informed the narrative synthesis. Most included studies were population-based registry or incidence
 studies rather than cohort studies (Supplementary Table 2).

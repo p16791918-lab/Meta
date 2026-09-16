@@ -167,4 +167,4 @@ NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스�
 
 ---
 
-**현재 최종 카운트**: included 166, quant 55, narrative 111, excluded 80, not-retrieved 9, assessed 237, excluded-at-eligibility 71, estimates 213, cells 85, reps 23, sens-only 32, RoB 44 Low / 11 Moderate / 55. 내부 정합성 검증 전부 통과.
+**현재 최종 카운트**: included 176 (primary screen 162 + excluded 재스크리닝 회수 14), quant 58, narrative 118, excluded 83, not-retrieved 10, assessed 249, excluded-at-eligibility 73, estimates 219, cells 85, reps 23, sens-only 35, RoB 45 Low / 13 Moderate / 58. 내부 정합성 검증 전부 통과.

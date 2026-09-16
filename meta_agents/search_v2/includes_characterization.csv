@@ -241,3 +241,6 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 4357,2003,ACS-Hispanic,RECURRING-REPORT,multi-registry-aggregate,10.3322/canjclin.53.4.208,12924775,"Cancer statistics for Hispanics, 2003"
 4389,2013,PRIMARY,grp:Hispanic;grp:MiddleEastern/Arab,SEER;state/regional:detroit,10.1007/s10552-013-0271-4,24013772,Differences in the cancer burden among foreign-born and US-born Arab Americans living in metropolitan Detroit
 4429,2017,PRIMARY,grp:Hispanic;grp:MiddleEastern/Arab,CA-registry,10.1002/ijc.30928,28801942,"Cancer risk in different generations of Middle Eastern immigrants to California, 1988-2013"
+257,2015,PRIMARY,grp:AIAN,IHS-PRCDA;AK-Native,10.1016/s1470-2045(15)00232-6,26476758,"Cancer incidence in indigenous people in Australia, New Zealand, Canada, and the USA: A comparative population-based study"
+452,2009,PRIMARY,subtype:ductal/lobular;grp:AANHPI;grp:AIAN;grp:Hispanic,NPCR;SEER,10.1158/1055-9965.epi-08-1082,19454615,"The changing incidence of in situ and invasive ductal and lobular breast carcinomas: United States, 1999-2004"
+488,2015,PRIMARY,grp:Black,state/regional:Texas;SEER,10.3892/ijo.2015.2881,25672365,"Trends and variations in breast and colorectal cancer incidence from 1995 to 2011: A comparative study between Texas Cancer Registry and National Cancer Institute's Surveillance, Epidemiology and End Results data"
