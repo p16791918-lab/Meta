@@ -15,15 +15,11 @@
 - Reports sought for retrieval: 259
 - Reports not retrieved: 10 (full text unavailable — records 157, 253, 415, 424, 428, 476,
   2038, 3116, 3268, 340; sought but could not be obtained, so not assessable)
-- Note: the model-excluded set was re-screened in full with an explicit keyword filter (breast
-  cancer + an incidence-rate term + a race/ethnicity term + a U.S. context + a registry/population-
-  based term), and the flagged candidates were retrieved and assessed at full text. This recovered
-  17 wrongly excluded reports in all (raw title/abstract exclusions 4,551 → screening-excluded
-  4,534): four found on the first audit (3720 Louisiana TNBC; 2609 and 2146 Massachusetts; 566 SEER
-  inflammatory-breast morphology) and thirteen on the filter pass (257, 452, 488 entering the
-  quantitative synthesis as overlaps; 290, 215, 176, 664, 56, 60, 304 the narrative synthesis; 3184
-  and 3193 re-excluded at eligibility; 340 sought but not retrieved). Overlap-versus-duplicate status
-  was judged from the full text, never from the abstract.
+- Note: 17 records first marked exclude at title/abstract were, on the author's adjudication,
+  routed to reports-sought-for-retrieval rather than excluded (raw title/abstract exclusions
+  4,551 → screening-excluded 4,534); of these, three entered the quantitative synthesis as
+  overlaps, seven the narrative synthesis, two were re-excluded at full text, one was not
+  retrieved, and four earlier ones (566, 2146, 2609, 3720) entered the synthesis.
 
 ## Eligibility
 - Reports assessed for eligibility (full text): 249

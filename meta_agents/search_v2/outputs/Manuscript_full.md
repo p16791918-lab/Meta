@@ -100,17 +100,7 @@ Records were de-duplicated across databases (4,306 duplicates removed, leaving 4
 records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
 large language model (Anthropic's Claude) under the author's direction: the model applied the
 criteria to each record and proposed an include/exclude decision, and the author adjudicated the
-included set—162 studies—and the excluded set. The model-excluded records were re-screened with an
-explicit keyword filter that retained a record only when its title or full abstract co-mentioned all
-five of: breast cancer; an incidence-rate signal (an age-standardized or age-adjusted rate, an
-incidence rate ratio, a standardized incidence ratio, or a count per 100,000); a race or ethnicity
-term; a U.S.-context term; and a cancer-registry or population-based term; obvious non-U.S.,
-male-only, and international-comparison records were removed, leaving 183 candidates that were each
-read at full abstract. The re-screen recovered 14 wrongly excluded reports—six added to the
-quantitative synthesis as single-state, regional, or disaggregated overlaps and eight to the
-narrative synthesis—with each recovered report's overlap-versus-duplicate status judged from its
-full text, never from the abstract. Of the 176 studies included in the review, 162 therefore came
-from the primary screen and 14 from the re-screen. The author then obtained and read the full texts and
+included and excluded sets. The author then obtained and read the full texts and
 made all full-text eligibility and inclusion decisions personally—except for one report available
 only as a supplementary data table rather than a full article, which was assessed from that table
 and enters only the narrative synthesis. The model assisted data

@@ -42,24 +42,22 @@ The records in each class:
   Hispanic row); a national estimate over the ductal/lobular/mixed subset (~87% of invasive breast),
   each entering its aggregate-vs-NHW cell as a sensitivity overlap of the USCS-national representative
   (Ellington 2022), which it does not displace (lower coverage, unstratified comparator, older period).
-  Post-hoc filter recovery.
 - **rec 488 (Liu 2015, Texas Cancer Registry, 1995–2011).** Table II prints age-adjusted (2000 US)
   breast IR with 95% CIs, White 136.14 [131.91–140.37], Black 131.90 [129.40–134.40]: Black/White
   = 0.969 [0.934, 1.005] (delta method). Comparator is unstratified White; the paper's own
   stage/grade-adjusted incidence ratio is 0.98 [0.97, 0.99]. A single-state estimate entering the
-  Black aggregate-vs-NHW cell as a sensitivity overlap of the national representative. Post-hoc filter
-  recovery.
+  Black aggregate-vs-NHW cell as a sensitivity overlap of the national representative.
 - **rec 2609 (Krieger 2018, Massachusetts Cancer Registry, 2010–2014).** Table 2 prints
   age-standardized (2000 US) breast incidence rates with 95% CIs by race, NHW 140.8 [139.0–142.7]:
   NHB 113.6/140.8 = 0.807 [0.762, 0.855], Hispanic 86.9/140.8 = 0.617 [0.578, 0.660], Asian/PI
   90.4/140.8 = 0.642 [0.597, 0.690], AIAN 64.1/140.8 = 0.455 [0.292, 0.709] (delta method from the
   reported rate CIs). A single-state estimate; each enters its aggregate-vs-NHW cell as a sensitivity
-  overlap of the USCS-national representative. Identified on the post-hoc screening audit.
+  overlap of the USCS-national representative.
 - **rec 2146 (Wright/Krieger 2022, Massachusetts Cancer Registry, 28 HOLC municipalities, 2005–2015).**
   Table 3 prints age-standardized (2000 US) breast IR by race, NHW 146.56 [143.91–149.25]: NHB
   119.06/146.56 = 0.812 [0.772, 0.855], Hispanic 83.71 = 0.571 [0.529, 0.617], Asian/PI 83.15 = 0.567
   [0.526, 0.612], AIAN 82.57 = 0.563 [0.330, 0.963] (delta method). A single-state estimate (overlaps
-  the national aggregate reps and the other Massachusetts study, rec 2609); post-hoc screening audit.
+  the national aggregate reps and the other Massachusetts study, rec 2609).
 - **rec 210 (Du 2022, SEER 18, 2000–2018).** The table prints age-adjusted rates (2000 US std) by
   race with 95% CIs, referenced to Asian/PI (not NHW). We recompute each group's IRR vs NHW from
   the same-source rates and rate CIs by the delta method (minority IR / NHW IR 190.4 [190.0–190.8]):
