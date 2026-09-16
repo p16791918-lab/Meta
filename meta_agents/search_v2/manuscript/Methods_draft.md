@@ -54,7 +54,7 @@ ethnicity, and mortality- or survival-only reports were excluded. A publication 
 estimate already captured from the same registry, diagnosis period, and population was excluded as
 a duplicate dataset; a publication drawing on the same registry family but a different period,
 region, or subset provided a distinct estimate and was retained as an overlapping estimate for the
-sensitivity analysis, not excluded (overlap handling is described under representative selection).
+sensitivity analysis, not excluded; overlap handling is described under Selection of a representative population-based estimate.
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
