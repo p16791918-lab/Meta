@@ -5,8 +5,8 @@
 ---
 
 **Background.** In the United States, breast cancer incidence is usually reported for broad racial
-and ethnic categories. These categories can mask heterogeneity—subgroups defined by
-ancestry, nativity, and region, with receptor-defined subtypes cutting across them—so an aggregate
+and ethnic categories. Each category groups several subgroups defined by
+ancestry, nativity, and region, with receptor-defined subtypes cutting across them, so an aggregate
 rate may not reflect which subgroups are at highest and lowest risk. Estimates for these subgroups are
 scattered across separate cancer-registry studies that differ in populations, periods, and reference
 groups, and are not readily comparable across the published literature.
