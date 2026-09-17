@@ -61,6 +61,7 @@ ABBR = [
     ("PRCDA", "Purchased/Referred Care Delivery Area (IHS; formerly Contract Health Service Delivery Area, CHSDA)"),
     ("PRISMA", "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"),
     ("RoB", "risk of bias"),
+    ("SE", "standard error"),
     ("SEER", "Surveillance, Epidemiology, and End Results Program"),
     ("SIR", "standardized incidence ratio"),
     ("TNBC", "triple-negative breast cancer"),
