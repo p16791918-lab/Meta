@@ -54,7 +54,7 @@ age-lt50,Native Hawaiian,,0.858," [0.710, 1.036]",522,0.858," [0.710, 1.036]",52
 aggregate-vs-NHW,AIAN,,0.87,,2510,0.87,,2510,unchanged,14,11
 aggregate-vs-NHW,Asian/PI (aggregate),,0.769," [0.752, 0.788]",169,0.769," [0.752, 0.788]",169,unchanged,11,8
 aggregate-vs-NHW,Black,,0.933," [0.920, 0.946]",169,0.933," [0.920, 0.946]",169,unchanged,18,16
-aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,15,13
+aggregate-vs-NHW,Hispanic,,0.718," [0.707, 0.731]",169,0.718," [0.707, 0.731]",169,unchanged,14,12
 disaggregated-AANHPI,Hmong,,0.164," [0.120, 0.224]",49,0.164," [0.120, 0.224]",49,unchanged,1,1
 disaggregated-AANHPI,Native Hawaiian,,1.211," [1.123, 1.305]",4040,1.211," [1.123, 1.305]",4040,unchanged,2,1
 subtype-ERneg-PRpos,Black,,1.459," [1.267, 1.679]",200,1.459," [1.267, 1.679]",200,unchanged,1,1

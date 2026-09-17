@@ -37,9 +37,8 @@ The records in each class:
 - **rec 452 (Eheman 2009, NPCR+SEER, 44 states + DC, 1999–2004).** Table 5 prints age-standardized
   (2000 US) total invasive lobular/ductal/mixed breast IR with 95% CIs by race, White 108.1
   [107.9–108.3]: Black 89.3/108.1 = 0.826 [0.820, 0.832], Asian/PI 51.3/108.1 = 0.475 [0.458, 0.492],
-  AI/AN 68.1/108.1 = 0.630 [0.622, 0.639] (delta method); Hispanic 73.9 is referenced to Non-Hispanic
-  108.5 [108.3–108.7] = 0.681 [0.675, 0.687]. Comparator is unstratified White (Non-Hispanic for the
-  Hispanic row); a national estimate over the ductal/lobular/mixed subset (~87% of invasive breast),
+  AI/AN 68.1/108.1 = 0.630 [0.622, 0.639] (delta method). Comparator is unstratified White;
+  a national estimate over the ductal/lobular/mixed subset (~87% of invasive breast),
   each entering its aggregate-vs-NHW cell as a sensitivity overlap of the USCS-national representative
   (Ellington 2022), which it does not displace (lower coverage, unstratified comparator, older period).
 - **rec 488 (Liu 2015, Texas Cancer Registry, 1995–2011).** Table II prints age-adjusted (2000 US)

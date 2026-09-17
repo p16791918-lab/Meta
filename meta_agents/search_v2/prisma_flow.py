@@ -78,7 +78,7 @@ def main():
 
     box(ax, incx, 1.0, incw, 1.4,
         "Studies contributing ≥1 estimate to the quantitative synthesis (n = 58)\n"
-        "219 extracted estimates → 85 representative estimates (one per analytic cell), from 23 studies;\n"
+        "218 extracted estimates → 85 representative estimates (one per analytic cell), from 23 studies;\n"
         "the remaining 35 studies contributed only overlapping estimates to the sensitivity analysis",
         fc="#cfe6d4", fs=7.0)
     arrow(ax, incx + incw / 2, 3.0, incx + incw / 2, 2.4)
