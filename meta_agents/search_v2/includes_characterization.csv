@@ -221,7 +221,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 3429,2002,ACS-Annual,RECURRING-REPORT,multi-registry-aggregate,10.3322/canjclin.52.1.23,11814064,"Cancer statistics, 2002"
 3522,2024,ARN,RECURRING-REPORT,multi-registry-aggregate,10.1002/cncr.35026,,"Annual Report to the Nation on the Status of Cancer, part 2: Early assessment of the COVID-19 pandemic’s impact on cancer diagnosis"
 3640,2022,PRIMARY,subtype:TNBC;male-BC;grp:Black-White,SEER,10.1089/heq.2021.0041,,Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States
-3662,2021,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1093/aje/kwaa222,,"Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016"
+3662,2021,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1093/aje/kwaa222,33506248,"Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016"
 3713,2016,PRIMARY,grp:AANHPI,SEER,10.1007/978-3-319-41118-7_3,,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends
 3720,2019,PRIMARY,subtype:TNBC;grp:Black,state/regional:Louisiana,10.3389/fpubh.2019.00018,30834239,Neighborhood social determinants of triple negative breast cancer
 3780,2016,PRIMARY,grp:AANHPI,Kaiser-cohort,10.1007/s10552-016-0798-2,,Risk of cancer in Asian Americans: a Kaiser Permanente cohort study
