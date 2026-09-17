@@ -2,10 +2,10 @@
 """Complete the unified reference list to full Vancouver format using a PubMed
 .nbib export (authors, journal abbreviation, year, volume, issue, pages, doi).
 
-Reads the current manuscript/References_draft.md to recover each reference's
-number and PMID (order = order of appearance, 1-47), pulls the full record for
+Reads the current manuscript/References_complete.md to recover each reference's
+number and PMID (order = order of appearance, 1-64), pulls the full record for
 each PMID from the .nbib, and rewrites the numbered entries in Vancouver style.
-References without a PMID (only #44) keep their existing line and are flagged.
+References without a PMID (only the SEER*Explorer anchor, #64) keep their existing line and are flagged.
 The header note and the PMID import block are preserved.
 """
 import os
@@ -13,7 +13,7 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REFS = os.path.join(HERE, "manuscript", "References_draft.md")
+REFS = os.path.join(HERE, "manuscript", "References_complete.md")
 
 
 def parse_nbib(path):
