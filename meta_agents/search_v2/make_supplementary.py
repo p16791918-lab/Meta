@@ -169,13 +169,13 @@ def _role(r):
     if c["rep"]:
         s = "Representative for %d cell%s" % (c["rep"], "s" if c["rep"] > 1 else "")
         if c["sel"]:
-            s += " (selected: %s)" % "; ".join(sorted(c["sel"]))
+            s += " (%s)" % "; ".join(sorted(c["sel"]))
         if c["ov"]:
             s += "; overlap for %d" % c["ov"]
         return s
     s = "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
     if c["nosel"]:
-        s += " — not selected: %s" % "; ".join(sorted(c["nosel"]))
+        s += " — %s" % "; ".join(sorted(c["nosel"]))
     return s
 
 
