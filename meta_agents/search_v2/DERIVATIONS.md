@@ -72,7 +72,7 @@ The records in each class:
   66.8 [56.9–78.1] / White 114.3 [106.4–122.6] = 0.58 [0.49, 0.70] (source gave 0.58
   [0.46–0.53], which excluded its own point estimate). Verified: recomputed points reproduce
   the source IRRs (e.g. Japanese HR+/HER2− 118.1/114.3 = 1.03).
-- **point only (no CI):** rec 100, rec 381, rec 461, rec 463, rec 485, rec 4098.
+- **point only (no CI):** rec 100, rec 381, rec 461, rec 485, rec 4098.
 - Handled in other sections: §1 (rec 2), §4 (rec 234, rec 3182, rec 51), §4b (rec 4333), and the Poisson-SE records in §3.
 - **rec 10** rates use the **Segi world 1960** standard (ages 20–74), not 2000 US
   — the IRR remains comparable (a ratio); the absolute scale differs (flagged in-row).
