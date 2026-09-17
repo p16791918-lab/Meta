@@ -250,7 +250,7 @@ P("JBI items: Q1 sample frame appropriate to the target population (defined popu
 _nlow = sum(1 for r in rob if r["Overall_RoB"] == "Low")
 _nmod = sum(1 for r in rob if r["Overall_RoB"] == "Moderate")
 _nhigh = sum(1 for r in rob if r["Overall_RoB"] == "High")
-P("Overall risk of bias (over the eight applicable items; Q9 = NA excluded): Low = at most one item not met with the two key items (Q7 measurement, Q8 analysis) met; High = three or more items not met; Moderate otherwise. Of %d studies assessed, %d were Low, %d Moderate, and %d High; the Moderate ratings arise chiefly where an estimate was reported as a point value without a variance (Q8) or where race/ethnicity ascertainment was limited (Q7)."
+P("Overall risk of bias (over the eight applicable items; Q9 = NA excluded): Low = at most one item rated No and both key items (Q7 measurement, Q8 analysis) rated Yes; High = three or more items rated No; Moderate otherwise—so a single No or Unclear on either key item gives at least a Moderate rating. Of %d studies assessed, %d were Low, %d Moderate, and %d High; the Moderate ratings arise chiefly where an estimate was reported as a point value without a variance (Q8) or where race/ethnicity ascertainment was limited (Q7)."
   % (len(rob), _nlow, _nmod, _nhigh), True)
 PB()
 
