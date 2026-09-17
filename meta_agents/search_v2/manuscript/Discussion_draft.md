@@ -25,19 +25,19 @@ is the representative estimate from a separate study placed on the common NHW sc
 shows the range of published estimates—differing in registry, region, and diagnosis period—rather
 than a within-study decomposition). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
-present estimates span over the most recent SEER-21 period;²⁷ the high burden in Native Hawaiian
-women echoes reports from Hawaii;²¹ the Hispanic gradient reproduces that described among
+present estimates span over the most recent SEER-21 period;³¹ the high burden in Native Hawaiian
+women echoes reports from Hawaii;²⁴ the Hispanic gradient reproduces that described among
 first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
-prior regional and tribal analyses;¹⁰,³⁶,⁴⁰,⁴⁴ and the higher TNBC incidence in NHB women is
-concordant with prior subtype-specific work.²,²⁰ The relative ordering of groups also shifts with
+prior regional and tribal analyses;¹⁰,⁴⁴,⁴⁸,⁵³ and the higher TNBC incidence in NHB women is
+concordant with prior subtype-specific work.²,²³ The relative ordering of groups also shifts with
 the outcome examined (Figure 3).
 
 For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can
 change the direction of the small difference. Japanese women are the clearest example: the
-representative estimate, from a recent SEER-21 source,²⁷ places their overall
+representative estimate, from a recent SEER-21 source,³¹ places their overall
 incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the
 representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an
-earlier eight-state SEER+NPCR estimate⁴⁹ that places it just below (0.95). The flip does not
+earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not
 overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
 near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
 risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022)
@@ -45,7 +45,7 @@ and in the registries it draws on, either of which can move a borderline estimat
 
 Two features of the underlying data shaped these estimates.
 First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
-Health Service–linked sources, which capture these cases more completely.¹⁰,⁴⁴ The difference is
+Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The difference is
 sizeable: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
 ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
@@ -54,7 +54,7 @@ widely and reach or exceed the NHW rate in the Northern and Southern Plains—an
 unstratified White reference, among Alaska Native women (regional values in Table 1). The lower
 unlinked values are therefore best read as reflecting
 incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
-depends on how completely cases are ascertained.³⁴,⁴⁸ The IHS-linked correction, however, was
+depends on how completely cases are ascertained.⁴¹,⁵⁸ The IHS-linked correction, however, was
 available only for the aggregate and regional estimates: no Indian Health Service–linked source
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
@@ -79,7 +79,7 @@ possible contributors rather than established causes: nativity and generational 
 consistently reported, with lower incidence in some Asian and Hispanic subgroups linked to a larger
 foreign-born proportion and residence in ethnic enclaves and to rates that rise with longer U.S.
 residence,⁵,⁹ and differences in molecular-subtype distribution and in screening and access to
-care have also been described.²,²⁹ Genetic or biological mechanisms were not examined.
+care have also been described.²,³⁴ Genetic or biological mechanisms were not examined.
 
 The review has limitations.
 About three fifths of the representative rate ratios (50 of 85) were computed from published

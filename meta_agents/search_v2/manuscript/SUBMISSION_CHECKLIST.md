@@ -15,7 +15,7 @@ or process commentary.
       the absence of a second independent reviewer is stated as a limitation in Methods and the
       Discussion. If a second independent reviewer is added before submission, update this wording
       and report the inter-reviewer agreement.
-- [ ] **Reference list — adapt to target journal style.** All 52 references are already in full
+- [ ] **Reference list — adapt to target journal style.** All 64 references are already in full
       Vancouver format (author, title, journal, year;volume(issue):pages, DOI); ref 23 (CDC MMWR
       Vital Signs) has no DOI, which is expected for that report. Remaining author task: reformat to
       the chosen journal's specific reference style (e.g., via Zotero/EndNote/Mendeley) once the

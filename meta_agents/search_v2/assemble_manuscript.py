@@ -47,9 +47,9 @@ def abstract_body():
 
 
 def references():
-    """Pull the numbered reference sections from References_draft.md, dropping the
+    """Pull the numbered reference sections from References_complete.md, dropping the
     top note and the PMID import block."""
-    lines = open(os.path.join(M, "References_draft.md"), encoding="utf-8").read().split("\n")
+    lines = open(os.path.join(M, "References_complete.md"), encoding="utf-8").read().split("\n")
     out = ["## References", ""]
     for l in lines:
         if l.startswith("## PMID"):

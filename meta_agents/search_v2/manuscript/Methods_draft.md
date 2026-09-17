@@ -176,7 +176,7 @@ by default, and that default was recorded where a study reported rates from thos
 naming a standard. Where a source neither stated a standard population nor produced its rates through
 such a program (one small-area Bayesian analysis), the standard was recorded as not stated rather
 than inferred from the size of the rates. One
-estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference,
+estimate paired an Alaska Native rate with an external SEER-Explorer NHW reference⁶⁴,
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
