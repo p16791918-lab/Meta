@@ -115,9 +115,8 @@ or per 100,000), a race or ethnicity term, a U.S. context, and a cancer-registry
 population-based source. The 183 records carrying all five signals and the 478 missing a single
 signal were re-read at the full abstract, and overlap or duplication was adjudicated from the full
 text. The re-screen surfaced 17 records for re-adjudication: 14 were reinstated (6 for the
-quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible—one reporting only
-proportional incidence ratios rather than incidence rates, and one restricted to an active-duty
-military population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
+quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible on the pre-specified
+criteria—one on outcome and one on population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
 excluded at screening and 259 reports sought for retrieval.
 
 The author then obtained and read the full texts and made all full-text eligibility and inclusion
@@ -163,7 +162,7 @@ interval where available. Where a cell had no NHW-comparator source—the recept
 cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
 as the representative and marked †.
 For AI/AN populations this order was overridden in favour of
-ascertainment validity: because unlinked registries misclassify race and undercount this
+ascertainment validity: because unlinked registries tend to undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
 estimate for the same cell, ahead of both the coverage and the comparator-type preferences.
@@ -337,21 +336,20 @@ On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to the 2000 U.S. standard population changed little: 83 of the 85
-representatives were already standardized to it, so the restriction dropped no cell and changed
-only two Black receptor-subtype cells, each from a
-1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same
-direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
-Supplementary Table 6d). Restricting to
-low-risk-of-bias studies left 60 of 85 cell representatives unchanged, with the 13 changed and 12
-dropped cells falling mainly among the disaggregated AANHPI subgroups and, in smaller numbers, the
-receptor-subtype, age-specific, and Middle Eastern cells;
-restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped);
-restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped), the dropped
-cells being those whose only representative used an unstratified White comparator — the
-receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
-Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against an NHW reference (1.25).
+throughout. Restricting to low-risk-of-bias studies left 60 of 85 cell representatives unchanged,
+with the 13 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
+and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
+Table 6a); restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped;
+Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
+dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
+unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and
+the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to
+an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to
+the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already
+standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype
+cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate
+in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to
+0.70; Supplementary Table 6d).
 
 ## Discussion
 
@@ -393,9 +391,9 @@ risk of bias: the substituted study also differs in diagnosis period (2009–201
 and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 Two features of the underlying data shaped these estimates.
-First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
-Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ The correction is
-substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
+First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
+Health Service–linked sources, which capture these cases more completely.¹⁰,⁴⁴ The difference is
+sizeable: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
 ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
@@ -431,8 +429,8 @@ residence,⁵,⁹ and differences in molecular-subtype distribution and in scree
 care have also been described.²,²⁹ Genetic or biological mechanisms were not examined.
 
 The review has limitations.
-Some rate ratios were computed from published age-standardized rates rather than reported directly,
-which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
+About three fifths of the representative rate ratios (50 of 85) were computed from published
+age-standardized rates rather than reported directly, which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
 not by itself make the estimates commensurable: a ratio cancels the shared standardization only when
 its numerator and denominator come from the same source, which holds within each cell but not across
 cells, so differences in underlying age structure, registry region, and diagnosis period remain
@@ -445,9 +443,7 @@ White reference, different racial and ethnic categories, and different standard 
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance rather than by two independent reviewers; to limit selection and extraction error, the
-full text of all but one included study was read for the inclusion decision and every extracted estimate
-was checked against its source table, figure, or text. To further limit studies missed by
+assistance rather than by two independent reviewers. To limit studies missed by this
 single-reviewer screening, the excluded records were re-screened with an explicit keyword filter and
 re-read at the full abstract; because a relaxed four-of-five-signal threshold recovered studies that
 stated a needed term only in a table rather than the abstract—one giving race-specific rates without
@@ -462,11 +458,9 @@ overlapping registry-family estimates while retaining the overlaps for the sensi
 separates cells corroborated by two or more independent sources (38 of the 85 analytic cells) from
 those resting on a single study (47), and it shows where independent sources agree—most cells—and
 where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
-comparison noted above. Reviewing the studies jointly rather than singly therefore confirmed
-something no individual report, confined to its own registry and period, could establish: that the
-wide within-aggregate heterogeneity is reproducible across independent registries, stable under the
-sensitivity restrictions, and concordant with the earlier single-population studies it draws
-together—so the pattern does not depend on the choice of any one data source. Third, it makes the evidence
+comparison noted above. Reviewing the studies jointly rather than singly shows that the wide within-aggregate
+heterogeneity is reproducible across independent registries and stable under the sensitivity
+restrictions, so the pattern does not depend on any one data source. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a

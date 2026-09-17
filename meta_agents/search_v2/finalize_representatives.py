@@ -81,6 +81,8 @@ def registry_family(reg):
         return ("State: Massachusetts", 4, "national")
     if "louisiana" in s:
         return ("State: Louisiana", 4, "national")
+    if "texas" in s or "tcr" in s:
+        return ("State: Texas", 4, "national")
     # NE/ND/SD (Nebraska, North & South Dakota) Northern-Plains state registries,
     # unlinked (AI/AN undercount) — a regional multi-state subset, ranked below national.
     if "nd/sd" in s or "ne/nd" in s:

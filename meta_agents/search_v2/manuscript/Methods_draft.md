@@ -76,9 +76,8 @@ or per 100,000), a race or ethnicity term, a U.S. context, and a cancer-registry
 population-based source. The 183 records carrying all five signals and the 478 missing a single
 signal were re-read at the full abstract, and overlap or duplication was adjudicated from the full
 text. The re-screen surfaced 17 records for re-adjudication: 14 were reinstated (6 for the
-quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible—one reporting only
-proportional incidence ratios rather than incidence rates, and one restricted to an active-duty
-military population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
+quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible on the pre-specified
+criteria—one on outcome and one on population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
 excluded at screening and 259 reports sought for retrieval.
 
 The author then obtained and read the full texts and made all full-text eligibility and inclusion
@@ -124,7 +123,7 @@ interval where available. Where a cell had no NHW-comparator source—the recept
 cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
 as the representative and marked †.
 For AI/AN populations this order was overridden in favour of
-ascertainment validity: because unlinked registries misclassify race and undercount this
+ascertainment validity: because unlinked registries tend to undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
 estimate for the same cell, ahead of both the coverage and the comparator-type preferences.

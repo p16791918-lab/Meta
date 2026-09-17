@@ -5,7 +5,7 @@
 - **순위 재편**: Hispanic 0.72 < AANHPI 0.77 < AI/AN 0.87 < NHB 0.93 → 최저는 Hispanic(기존엔 AI/AN). Abstract, Results, Discussion 반영.
 - **Northern Plains**: Melkonian 2019에 Northern Plains 추정치(IHS-PRCDA, RR 1.05)가 있으므로, 현재 대표를 unlinked Watanabe-Galloway(0.90)에서 IHS-linked Melkonian(1.05)로 교체. "단일 연구뿐" 설명을 삭제(Watanabe-Galloway 2015은 overlap으로 강등). Alaska(1.26), Southern Plains(1.30) 지역값도 추출표에 추가(각각 ANTR 1.09, Melkonian 2021 1.33 대표는 유지, Melkonian 2019는 overlap).
 - **RoB**: Gopalani 2020이 unlinked가 되며 JBI Q7(race ascertainment) undercount → RoB Low 39→38, Moderate 9→10.
-- **민감도**: 재실행(저위험 55/8/10, 직접보고 36/5/32, NHW 55/1/17). 내부 정합성 검증 전부 통과.
+- **민감도**: 재실행(저위험 55/8/10, 직접보고 36/5/32, NHW 55/1/17).
 - **기간 정정**: 재확인 중 Melkonian 2019 period 2012-2016 → 2010-2015(Table 2) 오류도 정정.
 
 ---
@@ -130,7 +130,7 @@
  aggregate는 CI 없는 점추정 → 전용 IHS-linked 1차 연구 필요).
 - **② 수치, 번호 정합**: Figure 1-3, Table 1, Supplementary Table 1-6 참조 전부 해소, 결번 없음.
  민감도 changed/dropped 목록을 원자료와 대조 — NHW-comparator: changed 1개(Alaska Native),
- dropped 18개(수용체 아형 16 + age-specific Black 2)로 본문 서술과 정확히 일치. 내부 정합성 검증 통과.
+ dropped 18개(수용체 아형 16 + age-specific Black 2)로 본문 서술과 정확히 일치.
 - **③ 비교군 표시**: † (unstratified White, 6셀) 본문, Table 1 일치; ‡ (복원 CI) 신규 표기를
  Table 1, Figure 2에 범례와 함께 추가(항목: 복원 CI vs 원문 CI 구분).
 - **④ 그림 잘림**: Figure 2(forest) 하단 캡션이 잘려 있던 것을 발견, 수정(하단 여백 확대). Figure 1(PRISMA), Figure 3(heatmap)은 잘림 없음 확인. 헤드라인 aggregate IRR
@@ -141,53 +141,9 @@
 - **제목 스타일**: Word Heading 스타일(파란색+왼쪽 점) 제거 → 모든 제목을 검정 굵은 글씨로.
 - **표 장식 제거**: 헤더 청록 배경, 섹션 배경 제거 → 굵은 글씨 + 최소 구분선만.
 - **표 제목 아래 설명 → 표 아래 Note.로 이동**: 본문 Table 1, Supplementary Table 1, 2, 5. Note에는 분석 방법, 비교군, 기호(†/‡), 약어만 남기고 Methods 중복 축소. Supplementary Table 6a/6c 소캡션은 제한조건+셀 수만 남기고 해석은 Results/Discussion으로.
-- 제출용 문서 3종 재생성, 내부 정합성 검증 통과.
+- 제출용 문서 3종 재생성.
 
 ---
 
-## 부가. narrative 전편(114→112→110) 개별 재대조
 
-*(이 절은 4차 라운드 당시 포함군 내 narrative 재대조 기록이다. 이후 제외편 전수 재스크리닝(item ②)으로
-회수가 더해져 최종은 quant 58 / narrative 118이다 — 아래 48→52, 114→110은 그 시점의 델타.)*
-
-quant를 poppler로 전수 대조한 것과 동일한 기준을 narrative 전편에 적용해, "인종 × 유방암 발생률 ×
-NHW 비교"가 이미지 표에 숨어 정량 추출이 가능한데도 텍스트 추출이 놓친 논문(Howlader형)을 찾음.
-
-**절차의 정직한 기록**: 1차는 자동 검출기 2종(소수인종, White 발생률 공존 행, `[Reference]`+IRR(CI)
-패턴)을 전편에 돌리고 걸린 후보만 정밀판독 → Shoemaker 2018, Lee Argov 2024 발견. 사용자가 "114개를 다 봤냐"고 지적한
-뒤 112편 전편을 한 편씩 표 유형으로 분류하는 감사 로그(`outputs/narrative_verification_log.md`)를
-만들어 재확인 → 1차에 narrative로 잘못 넘겼던 Zahnd 2019, 210을 추가 적발. PDF 없는 4편(80, 402, 1637, 1800)은 초록만 있어 설계 근거로 판정(코호트 2, rural-urban supp-only 1, State Cancer Profiles 무CI 1).
-
-**결과 — 실제 누락 정량 4편을 quant로 재분류(48→52), narrative 114→110**:
-- **Shoemaker 2018 (Shoemaker 2018, USCS 99.1%, 2004-2013)**: Table 1이 20-49세 2000 US 표준화 IRR vs
- NHW(Tiwari CI) 직접 보고 — Black 1.03, Asian/PI 0.85, AIAN 0.70, Hispanic 0.74. 강등 사유
- "not age-adjusted vs-NHW IRR"는 사실오류. age-lt50 대표(tier 9 > 기존 Xu 2024 SEER → Xu 2024 overlap).
-- **Lee Argov 2024 (Lee Argov 2024, JAMA Netw Open, USCS ~99%, 2001-2019)**: Table 1이 ≥65세 age-adjusted
- IRR vs NHW 직접 보고 — Hispanic 0.70, AIAN 0.72, Asian/PI 0.62, Black 0.93. age-ge65 신규 차원 4셀.
-- **Zahnd 2019 (Zahnd 2019, Lower Mississippi Delta 7-state NAACCR, 2012-2014)**: Table 3-4가 NHW=Ref
- age-adjusted subtype IRR을 직접 보고 — Black 전체 1.07, HR+/HER2- 0.87, HR-/HER2+ 1.49, TNBC 2.10,
- Hispanic 0.78 등. (1차에 Table 1-2의 Delta-vs-non-Delta만 보고 race-vs-White 표를 놓쳤던 것을 정정.)
- 지역 7주 subset이라 전국 대표의 sensitivity overlap(tier 5).
-- **Du 2022 (Du 2022, SEER 18, 2000-2018)**: 인종별 age-adjusted rate+CI 보고(API 기준). 동일 출처
- rate로 IRR vs NHW를 delta method 재계산(Supplementary Note 1) — Asian/PI 0.742, Black 0.937,
- AIAN 0.676, Hispanic 0.700. 전국 aggregate 대표의 sensitivity overlap(SEER-18 tier 6).
-- 4편 모두 JBI Low. RoB 37/48→41/52 Low, 11 Moderate. 대표 79→83(age-ge65 4셀 신규), Table 1
- 헤드라인 불변. 민감도 재계산: low-RoB 62/11/10, directly-reported 31/5/47, NHW-comparator 64/1/18.
-
-**narrative 유지가 옳다고 확인된 주요 후보(오분류 아님)**:
-- **사례-사례 subtype 분포 OR**(발생률비 아님): Telli 2011(CCR Asian subtype OR), Tran 2016(Kaiser
- 코호트 HR; 인구기반 registry 아님).
-- **생존/사망 HR**: Wang 2026(race×subtype "1(Ref)…2.33"은 survival HR; 발생은 joinpoint 그림).
-- **추세지표(EAPC/APC/drift)**: Tuan 2021, Hou 2013, Davis Lynn 2018, Miller 2020, Thomas 2019 등.
-- **노출, SES 비교군**(NHW 대조 아님): Eldridge 2022(구조적 인종주의 rate ratio), Michaels 2022, Krieger 2006, Sherr 2026, Truong 2025, Williams 2022.
-- **연령-교차 미세밴드**(요약 IRR 없음): Joslyn 2005, Clarke 2012.
-- **형태학적 아형**(수용체 아형 범위 밖, ILC/IDC/IBC): Il'yasova 2011, Hirko 2013(IBC), Quinn 2025(ILC), Bunte 2025(IDC).
-- **지역 하위집단**(자체 비교가 Delta vs non-Delta): Zahnd 2019 — race×subtype rate는 계산가능하나
- 전국 대표와 overlap, 자체 비교축이 지리적이라 narrative/sensitivity 등급.
-- **비표준 표준화 의심**: Mzizi 2026(2000-2023 전국) — Black/White = 174.9/228.9 = 0.76으로 전국
- 합의치(~0.95)와 모순, NHW 228.9는 이례적 고값 → 표준화 이상으로 판단, 이상값 점검 목록에 표시하고
- narrative 유지(대표 대체 불가).
-
----
-
-**현재 최종 카운트**: included 176 (primary screen 162 + excluded 재스크리닝 회수 14), quant 58, narrative 118, excluded 83, not-retrieved 10, assessed 249, excluded-at-eligibility 73, estimates 219, cells 85, reps 23, sens-only 35, RoB 45 Low / 13 Moderate / 58. 내부 정합성 검증 전부 통과.
+**현재 최종 카운트**: included 176 (primary screen 162 + excluded 재스크리닝 회수 14), quant 58, narrative 118, excluded 83, not-retrieved 10, assessed 249, excluded-at-eligibility 73, estimates 219, cells 85, reps 23, sens-only 35, RoB 45 Low / 13 Moderate / 58.

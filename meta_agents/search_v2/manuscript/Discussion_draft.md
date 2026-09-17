@@ -44,9 +44,9 @@ risk of bias: the substituted study also differs in diagnosis period (2009–201
 and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 Two features of the underlying data shaped these estimates.
-First, unlinked registries undercount AI/AN cases, so the AI/AN estimates here draw on Indian
-Health Service–linked sources, which correct that undercounting.¹⁰,⁴⁴ The correction is
-substantial: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
+First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
+Health Service–linked sources, which capture these cases more completely.¹⁰,⁴⁴ The difference is
+sizeable: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
 ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
@@ -82,8 +82,8 @@ residence,⁵,⁹ and differences in molecular-subtype distribution and in scree
 care have also been described.²,²⁹ Genetic or biological mechanisms were not examined.
 
 The review has limitations.
-Some rate ratios were computed from published age-standardized rates rather than reported directly,
-which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
+About three fifths of the representative rate ratios (50 of 85) were computed from published
+age-standardized rates rather than reported directly, which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
 not by itself make the estimates commensurable: a ratio cancels the shared standardization only when
 its numerator and denominator come from the same source, which holds within each cell but not across
 cells, so differences in underlying age structure, registry region, and diagnosis period remain
@@ -96,9 +96,7 @@ White reference, different racial and ethnic categories, and different standard 
 estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
 narrative synthesis were not quantified, and grey literature was not searched. Screening,
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance rather than by two independent reviewers; to limit selection and extraction error, the
-full text of all but one included study was read for the inclusion decision and every extracted estimate
-was checked against its source table, figure, or text. To further limit studies missed by
+assistance rather than by two independent reviewers. To limit studies missed by this
 single-reviewer screening, the excluded records were re-screened with an explicit keyword filter and
 re-read at the full abstract; because a relaxed four-of-five-signal threshold recovered studies that
 stated a needed term only in a table rather than the abstract—one giving race-specific rates without
@@ -113,11 +111,9 @@ overlapping registry-family estimates while retaining the overlaps for the sensi
 separates cells corroborated by two or more independent sources (38 of the 85 analytic cells) from
 those resting on a single study (47), and it shows where independent sources agree—most cells—and
 where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
-comparison noted above. Reviewing the studies jointly rather than singly therefore confirmed
-something no individual report, confined to its own registry and period, could establish: that the
-wide within-aggregate heterogeneity is reproducible across independent registries, stable under the
-sensitivity restrictions, and concordant with the earlier single-population studies it draws
-together—so the pattern does not depend on the choice of any one data source. Third, it makes the evidence
+comparison noted above. Reviewing the studies jointly rather than singly shows that the wide within-aggregate
+heterogeneity is reproducible across independent registries and stable under the sensitivity
+restrictions, so the pattern does not depend on any one data source. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a

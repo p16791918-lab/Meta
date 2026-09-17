@@ -235,6 +235,7 @@ TB(["Study", "Dimension", "Group", "Comparator", "Registry family", "Period", "S
     "IRR [95% CI]", "Main analysis"],
    rows, [1500, 1450, 1700, 1700, 1550, 1050, 1150, 1750, 2050])
 P("Note. Each row is the single representative estimate selected for one analytic cell (group × dimension) for the main analysis: the broadest-coverage, most recent source with an appropriate population definition and standardization — a population-based benchmark, not a pooled estimate. Overlapping estimates from nested registries (county ⊂ state ⊂ SEER; SEER and NPCR feed USCS) are not independent and are retained only for the sensitivity re-selection.", True)
+P("Registry family: SEER-national = the pooled SEER 9/13/17/18/21/22 registries; USCS = United States Cancer Statistics, which pools SEER and NPCR to cover nearly the entire U.S. population; NAACCR = the North American Association of Central Cancer Registries; NPCR = the National Program of Cancer Registries; IHS-PRCDA = an Indian Health Service Purchased/Referred Care Delivery Area linkage that improves ascertainment of AI/AN cases; ANTR = the Alaska Native Tumor Registry; California-CCR = the California Cancer Registry; and “State: X” = a single state central registry (for example, Texas, Louisiana, or Massachusetts).", True)
 P("Comparator: the reference is shown as each source defined it — non-Hispanic White (NHW) where the source stratified by Hispanic origin, or “White (not NH-stratified)” otherwise (concentrated in the receptor-defined subtypes and AI/AN comparisons). The reference and minority rates come from the same source, period, and standard population, so each IRR is internally valid even where the reference is unstratified White; Supplementary Table 6c restricts to NHW-comparator estimates.", True)
 P("Standard population: age-standardized to the 2000 U.S. standard unless the “Std pop” column shows otherwise. The rate ratio is formed within a study, so it does not depend on that study's choice of standard population; it does not, however, make estimates from different studies mutually comparable, because their standard populations, periods, and regions still differ.", True)
 P("Main-analysis codes: “yes (representative)” = carried into the main analysis as the group's benchmark; “no (overlaps representative)” = an overlapping estimate for the same cell, used only when the representative is re-selected (Table 6); “no (AI/AN undercount)” = an unlinked-registry AI/AN estimate demoted in favour of the IHS-linked representative; “no (registry-direct anchor)” = the SEER-Explorer reference value, not a screened study; “no (external comparator)” = borrows an out-of-paper SEER-Explorer NHW rate, kept only as an overlap record; “no (no usable IRR)” = the source named the subgroup but reported no rate or ratio.", True)
@@ -347,34 +348,6 @@ for raw in d.split("\n"):
 _flush()
 PB()
 
-# ---- Supplementary Note 2: screening false-negative audit ----
-H("Supplementary Note 2. Screening false-negative audit", 1)
-P("Purpose. Because records were screened by a single reviewer with model assistance rather than by "
-  "two independent reviewers, the model's title and abstract exclusions were audited for false "
-  "negatives — eligible studies wrongly excluded.", True)
-P("Method. A random sample of 200 excluded records (Python random.seed(42)) was read against the "
-  "eligibility criteria, reading the abstract where the title was insufficient; the full excluded pool "
-  "was then scanned for the same signature — breast cancer, an incidence or rate term, a race or "
-  "ethnicity term, and a U.S. registry or population term, minus obvious-exclusion markers — and the "
-  "strongest matches read in full.", True)
-P("Result. Three wrongly excluded studies were confirmed and added to the quantitative synthesis as "
-  "single-state or regional overlaps, none changing a cell representative: a Louisiana Tumor Registry "
-  "triple-negative study (Black versus an unstratified White reference, rate ratio 2.21, 95% CI "
-  "1.96–2.48) and two Massachusetts Cancer Registry reports (Krieger 2018; Wright 2022, age-standardized "
-  "incidence by race, IRRs versus NHW by the delta method). Each is a segregation- or "
-  "neighborhood-focused report whose headline exposure is not race but which carries a secondary "
-  "race-specific incidence table. A SEER inflammatory-breast-cancer study (Schairer 2012) fit the "
-  "pattern but reports a morphological subtype outside the receptor-defined cells and went to the "
-  "narrative synthesis, and two socioeconomic-gradient studies (Akinyemiju 2015; Hernandez 2025) were "
-  "confirmed correctly excluded.", True)
-P("Conclusion. The sample yielded about one eligible study in 200 and the full-pool scan two more — a "
-  "small but non-zero residual false-negative rate; single-reviewer screening with model assistance is "
-  "recorded as a limitation in the Discussion. Separately, later source re-verification that rendered "
-  "the quantitative reports' tables as page images recovered extractable data missed on the first text "
-  "pass — additional overlapping cells within already-included studies, and four reports first placed "
-  "in the narrative set moved to the quantitative synthesis — none displacing a national "
-  "representative.", True)
-PB()
 
 json.dump(M, open(os.path.join(OUT, "_suppl_manifest.json"), "w"), ensure_ascii=False)
 from collections import Counter

@@ -113,18 +113,17 @@ On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to the 2000 U.S. standard population changed little: 83 of the 85
-representatives were already standardized to it, so the restriction dropped no cell and changed
-only two Black receptor-subtype cells, each from a
-1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same
-direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
-Supplementary Table 6d). Restricting to
-low-risk-of-bias studies left 60 of 85 cell representatives unchanged, with the 13 changed and 12
-dropped cells falling mainly among the disaggregated AANHPI subgroups and, in smaller numbers, the
-receptor-subtype, age-specific, and Middle Eastern cells;
-restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped);
-restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped), the dropped
-cells being those whose only representative used an unstratified White comparator — the
-receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska
-Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked
-estimate reported against an NHW reference (1.25).
+throughout. Restricting to low-risk-of-bias studies left 60 of 85 cell representatives unchanged,
+with the 13 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
+and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
+Table 6a); restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped;
+Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
+dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
+unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and
+the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to
+an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to
+the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already
+standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype
+cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate
+in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to
+0.70; Supplementary Table 6d).
