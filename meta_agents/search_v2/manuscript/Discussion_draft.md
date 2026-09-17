@@ -131,7 +131,5 @@ analytic cell rather than a pooled figure.
 
 ## References
 
-Superscript numbers refer to the unified reference list (`manuscript/References_draft.md`):
-2 Howlader 2014, 5 Gomez 2010, 8 Pinheiro 2009, 9 Keegan 2010, 10 Espey 2007, 20 Sung 2023,
-21 Loo 2019, 27 Gomez 2026, 29 Kong 2020, 34 Watanabe-Galloway 2015, 36 Gopalani 2020,
-40 Yazzie 2025, 44 Melkonian 2019, 48 Melkonian 2021, 49 Jin 2016.
+Superscript numbers refer to the unified reference list (`manuscript/References_complete.md`),
+which is assembled into the manuscript in place of this scaffolding block.

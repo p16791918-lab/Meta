@@ -197,4 +197,4 @@ so that each displayed estimate and each sensitivity baseline traces to the same
 
 Method-guideline citations: 13 PRISMA 2020 (Page 2021) and 14 the JBI critical appraisal
 checklist for studies reporting prevalence/incidence data (Munn 2015). Full details are in the
-unified reference list (`manuscript/References_draft.md`).
+unified reference list (`manuscript/References_complete.md`).
