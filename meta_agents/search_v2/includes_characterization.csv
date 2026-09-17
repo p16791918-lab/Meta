@@ -16,6 +16,8 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 49,2005,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,CA-registry;state/regional:wisconsin;state/regional:minnesota;state/regional:pacific island,10.1002/cncr.21525,16247793,"Cancer incidence in the Hmong in California, 1988-2000"
 51,2022,PRIMARY,grp:AANHPI;grp:AIAN,SEER;AK-Native,10.1080/22423982.2021.2013403,34918619,The Alaska Native Tumour Registry: fifty years of cancer surveillance data for  Alaska Native people
 54,2021,PRIMARY,subtype:TNBC;male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:new jersey,10.1002/ijc.33331,33099777,"Breast cancer among Asian Indian and Pakistani Americans: A surveillance, epidemiology and end results-based study"
+56,2021,PRIMARY,subtype:inflammatory,SEER,10.1007/s10549-020-05938-2,33033965,Incidence and survival of inflammatory breast cancer between 1973 and 2015 in the SEER database
+60,2014,PRIMARY,subtype:inflammatory,SEER,10.1245/s10434-013-3439-y,24366421,"Incidence of inflammatory breast cancer in women, 1992-2009, United States"
 66,2021,PRIMARY,male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:pacific island,10.1002/cncr.33846,34427920,Age distributions of breast cancer diagnosis and mortality by race and ethnicity in US women
 76,2003,PRIMARY,male-BC;grp:Black-White,SEER,10.3322/canjclin.53.6.342,15224974,Trends in breast cancer by race and ethnicity
 79,2007,PRIMARY,subtype:HR/HER2;male-BC;grp:Hispanic,state/regional:arizona,,18065856,Breast cancer among hispanic and non-hispanic white women in Arizona
@@ -44,6 +46,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 161,2019,PRIMARY,subtype:TNBC;grp:AANHPI,SEER;state/regional:hawaii;state/regional:pacific island,10.1016/j.canep.2018.11.006,30503975,The high and heterogeneous burden of breast cancer in Hawaii: A unique multiethnic U.S. Population
 165,2001,PRIMARY,grp:AANHPI;grp:Hispanic,unspecified-US-registry,10.1023/a:1011240019516,11562110,Socioeconomic status and breast cancer incidence in California for different race/ethnic groups
 169,2022,PRIMARY,male-BC;grp:AANHPI;grp:Hispanic,state/regional:pacific island,10.15585/mmwr.mm7102a2,35025856,"Trends in Breast Cancer Incidence, by Race, Ethnicity, and Age Among Women Aged ≥20 Years - United States, 1999-2018"
+176,2005,PRIMARY,grp:Hispanic;nativity,SEER,10.1002/cncr.20885,15672387,Neighborhood composition and incidence of cancer among Hispanics in the United States
 178,2019,PRIMARY,male-BC;grp:AANHPI;grp:Hispanic,state/regional:pacific island,10.1007/s10549-018-5042-1,30426307,Trends in stage at diagnosis for young breast cancer patients in the United States
 182,2012,PRIMARY,male-BC;grp:Black-White,unspecified-US-registry,,23151952,"Vital signs: Racial disparities in breast cancer severity - United States, 2005-2009"
 188,2006,PRIMARY,male-BC;grp:Black-White,unspecified-US-registry,,16737949,Trends in breast cancer by race and ethnicity: Update 2006
@@ -56,6 +59,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 207,2013,PRIMARY,male-BC;grp:AANHPI,SEER;state/regional:hawaii;state/regional:guam;state/regional:pacific island,10.1093/jnci/djt156,23878354,"Cancer incidence trends among native hawaiians and other pacific islanders in the united states, 1990-2008"
 209,2022,PRIMARY,subtype:TNBC;male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:pacific island,10.3389/fpubh.2022.1058722,36530732,Racial and regional disparities of triple negative breast cancer incidence rates in the United States: An analysis of 2011-2019 NPCR and SEER incidence data
 210,2022,PRIMARY,male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,SEER,10.1016/j.canep.2021.102076,34861613,"Breast cancer incidence trends in Asian women aged 20 or older as compared to other ethnic women in the United States from 2000 to 2018 by time period, age and tumor stage"
+215,2002,PRIMARY,subtype:ER;grp:Black,SEER,10.1023/a:1020299707510,12408373,"Estrogen receptor breast cancer phenotypes in the Surveillance, Epidemiology, and End Results database"
 226,2022,PRIMARY,subtype:TNBC;grp:Hispanic,CA-registry,10.1007/s10552-022-01557-y,35113296,"Home mortgage discrimination and incidence of triple-negative and Luminal A breast cancer among non-Hispanic Black and non-Hispanic White females in California, 2006–2015"
 234,2026,PRIMARY,subtype:TNBC;grp:AANHPI,SEER;state/regional:hawaii;state/regional:guam;state/regional:pacific island,10.1001/jamanetworkopen.2026.21250,42377954,"Breast Cancer Incidence in Asian American, Native Hawaiian, and Pacific Islander Populations, 2000-2022"
 235,2020,ARN,RECURRING-REPORT,multi-registry-aggregate,10.1002/cncr.32802,32162336,"Annual report to the nation on the status of cancer, part I: National cancer statistics"
@@ -65,6 +69,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 251,2021,PRIMARY,subtype:TNBC;grp:Hispanic,unspecified-US-registry,10.1007/s12282-020-01132-w,32671723,"Triple-negative breast cancer incidence in the United States: ecological correlations with area-level sociodemographics, healthcare, and health behaviors"
 252,2020,PRIMARY,male-BC;grp:MiddleEastern/Arab,SEER,10.1002/cncr.32846,32212335,Forty-year trends in menopausal hormone therapy use and breast cancer incidence  among postmenopausal black and white women
 253,2000,PRIMARY,male-BC;lifetime-risk;grp:Hispanic,SEER,,10761199,Breast cancer patterns and lifetime risk of developing breast cancer among Puerto Rican females.
+257,2015,PRIMARY,grp:AIAN,IHS-PRCDA;AK-Native,10.1016/s1470-2045(15)00232-6,26476758,"Cancer incidence in indigenous people in Australia, New Zealand, Canada, and the USA: A comparative population-based study"
 259,2011,PRIMARY,subtype:IBC;male-BC;grp:Hispanic,SEER,10.1007/s10549-011-1719-4,21850396,What can we learn from the age- and race/ethnicity- specific rates of inflammatory breast carcinoma?
 265,2008,PRIMARY,male-BC;grp:Black-White,SEER,10.1093/jnci/djn411,19066264,Age-related crossover in breast cancer incidence rates between black and white ethnic groups
 272,2003,PRIMARY,male-BC;grp:AANHPI;grp:AIAN,SEER;AK-Native,10.1002/cncr.11633,12973851,Cancer rates among American Indians and Alaska Natives: is there a national  perspective
@@ -72,6 +77,8 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 278,2013,PRIMARY,subtype:HR/HER2;male-BC;grp:Hispanic,SEER,10.1001/jama.2013.776,23443443,"Incidence of breast cancer with distant involvement among women in the United States, 1976 to 2009"
 284,2026,PRIMARY,male-BC;grp:AANHPI,SEER;state/regional:hawaii,10.1158/1055-9965.epi-26-0101,42065927,"Trends in Female Breast Cancer Incidence among Japanese, Korean, and US Populations: An Age-Period-Cohort Analysis"
 286,2020,PRIMARY,subtype:TNBC;subtype:lobular;male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,SEER;state/regional:pacific island,10.1001/jamanetworkopen.2020.20303,33074325,Variation in breast cancer subtype incidence and distribution by race/ethnicity in the United States from 2010 to 2015
+290,2009,PRIMARY,grp:Black,SEER,10.1093/jnci/djp176,19584327,Underlying causes of the black-white racial disparity in breast cancer mortality: A population-based analysis
+304,2010,PRIMARY,histology:adenoid-cystic,SEER,10.1186/bcr2613,20653964,Adenoid cystic carcinoma of the breast in the United States (1977 to 2006): a  population-based cohort study
 310,2007,PRIMARY,subtype:HR/HER2;subtype:lobular;male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:pacific island,10.1186/bcr1839,18162138,"Recent breast cancer trends among Asian/Pacific Islander, Hispanic, and African-American women in the US: Changes by tumor subtype"
 316,2018,PRIMARY,grp:Black-White,SEER,10.1002/cncr.31315,29509274,Early estimates of cancer incidence for 2015: Expanding to include estimates for white and black races
 321,2016,PRIMARY,male-BC,state/regional:texas,10.1186/s12885-016-2324-z,27118258,Risks of developing breast and colorectal cancer in association with incomes and geographic locations in Texas: A retrospective cohort study
@@ -105,6 +112,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 436,2026,PRIMARY,male-BC;grp:Hispanic,SEER,10.1177/10732748261470901,42466659,"Incidence, Trends, and Racial/Ethnic Disparities in Female Breast Cancer in the United States, 2000-2023: A SEER Based Study"
 438,2007,PRIMARY,subtype:HR/HER2;subtype:lobular;male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:pacific island,10.1158/1055-9965.epi-07-0546,18086787,"Changes in breast cancer incidence rates in the United States by histologic subtype and race/ethnicity, 1995 to 2004"
 448,2006,PRIMARY,male-BC;grp:AANHPI;grp:Hispanic,state/regional:massachusetts;state/regional:pacific island,10.1007/s10552-005-0408-1,16425100,"Race/ethnicity and changing US socioeconomic gradients in breast cancer incidence: California and Massachusetts, 1978-2002 (United States)"
+452,2009,PRIMARY,subtype:ductal/lobular;grp:AANHPI;grp:AIAN;grp:Hispanic,NPCR;SEER,10.1158/1055-9965.epi-08-1082,19454615,"The changing incidence of in situ and invasive ductal and lobular breast carcinomas: United States, 1999-2004"
 453,2010,PRIMARY,subtype:TNBC,unspecified-US-registry,10.1007/s10552-009-9472-2,20024610,Racial differences in the incidence of breast cancer subtypes defined by combined histologic grade and hormone receptor status
 455,2013,PRIMARY,male-BC;grp:AANHPI;grp:Hispanic,SEER;state/regional:hawaii;state/regional:pacific island,10.1038/bjc.2013.387,23907433,Comparison of clinicopathologic features and survival in young American women aged 18-39 years in different ethnic groups with breast cancer
 461,2015,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1353/hpu.2015.0089,26320932,"Trends and Patterns of Late and Unstaged Lung, Colorectal, Female Breast, and  Prostate Cancers among American Indians in the Northern Plains, 2002-2009"
@@ -115,6 +123,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 477,2026,PRIMARY,male-BC;grp:Hispanic,unspecified-US-registry,10.1007/s10552-025-02124-x,41649619,"Spillover effects of public school integration in the southern United States: diverging trends in statewide annual breast cancer incidence, 2001–2019"
 480,2015,PRIMARY,subtype:HR/HER2;male-BC;grp:AANHPI,SEER;state/regional:detroit,10.1016/j.annepidem.2014.09.006,25442056,Changes in the pattern of breast cancer burden among African American women: Evidence based on 29 states and District of Columbia during 1998 to 2010
 485,2009,PRIMARY,male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,SEER,10.1158/1055-9965.epi-08-0679,19124489,"Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005)"
+488,2015,PRIMARY,grp:Black,state/regional:Texas;SEER,10.3892/ijo.2015.2881,25672365,"Trends and variations in breast and colorectal cancer incidence from 1995 to 2011: A comparative study between Texas Cancer Registry and National Cancer Institute's Surveillance, Epidemiology and End Results data"
 500,2020,PRIMARY,male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1097/ede.0000000000001140,31764279,"Trends in Cancer Incidence among American Indians and Alaska Natives and Non-Hispanic Whites in the United States, 1999-2015"
 504,2025,PRIMARY,grp:Hispanic,CA-registry,10.1002/cam4.71088,40736150,Cancer Incidence and Trends in Persistent Poverty Areas of California by Race/Ethnicity and Sex
 510,2016,ACS-AANHPI,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21335,26766789,"Cancer statistics for Asian Americans, Native Hawaiians, and Pacific Islanders, 2016: Converging incidence in males and females"
@@ -124,11 +133,13 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 541,2022,PRIMARY,male-BC;grp:Black-White,state/regional:pennsylvania,10.1007/s10549-021-06492-1,35064367,Racial and socioeconomic disparities in breast cancer diagnosis and mortality in Pennsylvania
 543,2022,ACS-AABlack,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21718,35143040,Cancer statistics for African American/Black People 2022
 565,2017,PRIMARY,male-BC;grp:AANHPI,state/regional:hawaii;state/regional:guam,10.1016/j.canep.2017.08.005,29120826,Cancer in Guam and Hawaii: A comparison of two U.S. Island populations
+566,2012,PRIMARY,subtype:inflammatory,SEER,10.1158/1055-9965.epi-11-0833,22028401,"Association of inflammatory and noninflammatory breast cancer with socioeconomic characteristics in the surveillance, epidemiology, and end results database, 2000-2007"
 587,2009,PRIMARY,male-BC;grp:Hispanic;grp:MiddleEastern/Arab,CA-registry,10.1111/j.1524-4741.2009.00694.x,19292805,"Breast cancer in the middle eastern population of California, 1988-2004"
 603,2015,PRIMARY,male-BC;grp:Black-White,state/regional:connecticut,10.2105/ajph.2015.302640,25905822,"Secular trends, race, and geographic disparity of early-stage breast cancer incidence: 25 years of surveillance in Connecticut"
 605,2002,ARN,RECURRING-REPORT,multi-registry-aggregate,10.1002/cncr.10593,12173348,"Annual report to the nation on the status of cancer, 1973-1999, featuring implications of age and aging on U.S. cancer burden"
 612,2022,ACS-BreastStats,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21754,36190501,"Breast Cancer Statistics, 2022"
 617,2007,ARN,RECURRING-REPORT,multi-registry-aggregate,10.1002/cncr.23044,17939129,"Annual report to the nation on the status of cancer, 1975-2004, featuring cancer  in American Indians and Alaska Natives"
+664,2024,PRIMARY,subtype:ER;time-trends,NPCR+SEER,10.1002/ijc.35073,38985086,"Trends in breast cancer incidence by estrogen receptor status in the United States, 2004–2020"
 687,2005,PRIMARY,male-BC;grp:Black-White,state/regional:north carolina,10.1016/j.annepidem.2005.02.006,15922628,"Urbanization and breast cancer incidence in North Carolina, 1995-1999"
 694,2001,ARN,RECURRING-REPORT,multi-registry-aggregate,10.1093/jnci/93.11.824,11390532,"Annual report to the nation on the status of cancer (1973 through 1998),  featuring cancers with recent increasing trends"
 701,2025,PRIMARY,grp:MiddleEastern/Arab,unspecified-US-registry,10.1007/s10552-025-01968-7,39937364,"Geographic differences in early-onset breast cancer incidence trends in the USA, 2001–2020, is it time for a geographic risk score?"
@@ -164,6 +175,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 2038,2023,PRIMARY,subtype:TNBC;male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic,SEER;AK-Native,,,"Incidence trends in triple-negative breast cancer among women in the United States from 2010 to 2019 by race/ethnicity, age and tumor stage"
 2131,2022,PRIMARY,male-BC;grp:Black-White,unspecified-US-registry,10.1001/jamanetworkopen.2022.16958,35699957,"Associations of Obesity, Physical Activity, and Screening With State-Level Trends and Racial and Ethnic Disparities of Breast Cancer Incidence and Mortality in the US"
 2137,2022,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1002/cncr.34122,35119703,"Cancer disparities among non-Hispanic urban American Indian and Alaska Native populations in the United States, 1999-2017"
+2146,2022,PRIMARY,subtype:HR;grp:Black;grp:Hispanic;grp:AANHPI;grp:AIAN,state/regional:Massachusetts,10.1093/jncics/pkac016,35603845,"Breast Cancer Incidence, Hormone Receptor Status, Historical Redlining, and Current Neighborhood Characteristics in Massachusetts, 2005-2015"
 2151,2022,ACS-Disparities,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21703,34878180,"American Cancer Society's report on the status of cancer disparities in the United States, 2021"
 2163,2022,PRIMARY,subtype:HR/HER2;male-BC;grp:Hispanic;grp:AfricanBorn,SEER,10.1101/2022.02.21.22271266,,Estrogen receptor negative breast cancer incidence rates are similar in Ghanaian and Non-Hispanic Black women in the USA
 2176,2022,ACS-Annual,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21708,35020204,"Cancer statistics, 2022"
@@ -177,6 +189,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 2537,2018,ACS-Hispanic,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21494,30285281,"Cancer Statistics for Hispanics/Latinos, 2018"
 2548,2018,PRIMARY,grp:AANHPI;grp:AIAN,state/regional:minnesota;state/regional:pacific island,10.1002/cncr.31592,29975407,"Cancer patterns in Hmong in Minnesota, 2000 to 2012"
 2601,2018,ACS-Annual,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21442,29313949,"Cancer statistics, 2018"
+2609,2018,PRIMARY,grp:Black;grp:Hispanic;grp:AANHPI;grp:AIAN,state/regional:Massachusetts,10.1093/jncics/pky009,31360840,Cancer incidence and multilevel measures of residential economic and racial segregation for cancer registries
 2610,2018,PRIMARY,male-BC;grp:Black-White,SEER,10.2147/cmar.s173099,,"The fluctuating incidence, improved survival of patients with breast cancer, and disparities by age, race, and socioeconomic status by decade, 1981–2010"
 2698,2017,ACS-Annual,RECURRING-REPORT,multi-registry-aggregate,10.3322/caac.21387,28055103,"Cancer Statistics, 2017"
 2732,2016,PRIMARY,grp:AANHPI,unspecified-US-registry,10.1093/jjco/hyw119,,Incidence rate for breast cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Continents
@@ -210,6 +223,7 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 3640,2022,PRIMARY,subtype:TNBC;male-BC;grp:Black-White,SEER,10.1089/heq.2021.0041,,Structural Racism and Triple-Negative Breast Cancer among Black and White Women in the United States
 3662,2021,PRIMARY,grp:AANHPI;grp:AIAN;grp:Hispanic,AK-Native,10.1093/aje/kwaa222,,"Incidence of and Trends in the Leading Cancers with Elevated Incidence among American Indian and Alaska Native Populations, 2012-2016"
 3713,2016,PRIMARY,grp:AANHPI,SEER,10.1007/978-3-319-41118-7_3,,Cancer incidence and mortality among Filipinos in the USA and the Philippines: Patterns and trends
+3720,2019,PRIMARY,subtype:TNBC;grp:Black,state/regional:Louisiana,10.3389/fpubh.2019.00018,30834239,Neighborhood social determinants of triple negative breast cancer
 3780,2016,PRIMARY,grp:AANHPI,Kaiser-cohort,10.1007/s10552-016-0798-2,,Risk of cancer in Asian Americans: a Kaiser Permanente cohort study
 3845,2013,PRIMARY,subtype:HR/HER2;subtype:IBC;male-BC;grp:AANHPI;grp:AIAN;grp:Hispanic;grp:MiddleEastern/Arab,SEER;state/regional:detroit;state/regional:new jersey,10.1186/2193-1801-2-3,,"Characterizing inflammatory breast cancer among Arab Americans in the California, Detroit and New Jersey Surveillance, Epidemiology and End Results (SEER) registries (1988-2008)"
 3861,2011,PRIMARY,subtype:TNBC;male-BC;grp:AANHPI;grp:Hispanic,CA-registry,10.1007/s10549-010-1173-8,,Asian ethnicity and breast cancer subtypes: A study from the California Cancer Registry
@@ -241,6 +255,3 @@ record_id,year,series,pop_focus,data_source,doi,pmid,title
 4357,2003,ACS-Hispanic,RECURRING-REPORT,multi-registry-aggregate,10.3322/canjclin.53.4.208,12924775,"Cancer statistics for Hispanics, 2003"
 4389,2013,PRIMARY,grp:Hispanic;grp:MiddleEastern/Arab,SEER;state/regional:detroit,10.1007/s10552-013-0271-4,24013772,Differences in the cancer burden among foreign-born and US-born Arab Americans living in metropolitan Detroit
 4429,2017,PRIMARY,grp:Hispanic;grp:MiddleEastern/Arab,CA-registry,10.1002/ijc.30928,28801942,"Cancer risk in different generations of Middle Eastern immigrants to California, 1988-2013"
-257,2015,PRIMARY,grp:AIAN,IHS-PRCDA;AK-Native,10.1016/s1470-2045(15)00232-6,26476758,"Cancer incidence in indigenous people in Australia, New Zealand, Canada, and the USA: A comparative population-based study"
-452,2009,PRIMARY,subtype:ductal/lobular;grp:AANHPI;grp:AIAN;grp:Hispanic,NPCR;SEER,10.1158/1055-9965.epi-08-1082,19454615,"The changing incidence of in situ and invasive ductal and lobular breast carcinomas: United States, 1999-2004"
-488,2015,PRIMARY,grp:Black,state/regional:Texas;SEER,10.3892/ijo.2015.2881,25672365,"Trends and variations in breast and colorectal cancer incidence from 1995 to 2011: A comparative study between Texas Cancer Registry and National Cancer Institute's Surveillance, Epidemiology and End Results data"
