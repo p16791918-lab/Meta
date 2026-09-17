@@ -25,7 +25,7 @@ is the representative estimate from a separate study placed on the common NHW sc
 shows the range of published estimates—differing in registry, region, and diagnosis period—rather
 than a within-study decomposition). This pattern is consistent with earlier disaggregated work and extends
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
-present estimates span over the most recent SEER-21 period;³¹ the high burden in Native Hawaiian
+present estimates span over the most recent SEER period;³¹ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²⁴ the Hispanic gradient reproduces that described among
 first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
 prior regional and tribal analyses;¹⁰,⁴⁴,⁴⁸,⁵³ and the higher TNBC incidence in NHB women is
@@ -34,7 +34,7 @@ the outcome examined (Figure 3).
 
 For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can
 change the direction of the small difference. Japanese women are the clearest example: the
-representative estimate, from a recent SEER-21 source,³¹ places their overall
+representative estimate, from a recent SEER source,³¹ places their overall
 incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the
 representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an
 earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not
