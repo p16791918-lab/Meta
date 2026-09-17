@@ -58,18 +58,37 @@ sensitivity analysis, not excluded; overlap handling is described under Selectio
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
-records). Titles and abstracts were screened against the pre-specified eligibility criteria by a
-large language model (Anthropic's Claude) under the author's direction: the model applied the
-criteria to each record and proposed an include/exclude decision, and the author adjudicated the
-included and excluded sets. The author then obtained and read the full texts and
-made all full-text eligibility and inclusion decisions personally—except for one report available
-only as a supplementary data table rather than a full article, which was assessed from that table
-and enters only the narrative synthesis. The model assisted data
-extraction and cross-checked each extracted value against its source, and every included estimate
-was verified by the author against the source table, figure, or text. In all, 176
+records). Titles and abstracts were screened against the eligibility criteria set out above by a
+large language model (Anthropic's Claude) under the author's direction, working as a single human
+reviewer with model assistance rather than as two independent reviewers. Records were presented to
+the model in batches, each showing the title and the abstract truncated to the first 600
+characters; the model applied the criteria to each record and proposed an include or exclude
+decision, and the author adjudicated both sets. This first pass marked 242 records for full-text
+retrieval and 4,551 for exclusion under three standardized reasons—not relevant to the research
+question, not a U.S. population-based or registry study, and editorials, commentaries, letters, or
+conference abstracts.
+
+Because a single-reviewer screen can miss an eligible study whose abstract omits one of the
+review's key terms, the excluded records were re-screened with an explicit keyword filter. A record
+was flagged when its title and abstract together carried at least four of five signal groups:
+breast cancer (required), an incidence or age-adjusted-rate term (age-standardized rate, IRR, SIR,
+or per 100,000), a race or ethnicity term, a U.S. context, and a cancer-registry or
+population-based source. The 183 records carrying all five signals and the 478 missing a single
+signal were re-read at the full abstract, and overlap or duplication was adjudicated from the full
+text. The re-screen surfaced 17 records for re-adjudication: 14 were reinstated (6 for the
+quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible—one reporting only
+proportional incidence ratios rather than incidence rates, and one restricted to an active-duty
+military population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
+excluded at screening and 259 reports sought for retrieval.
+
+The author then obtained and read the full texts and made all full-text eligibility and inclusion
+decisions personally—except for one report available only as a supplementary data table rather than
+a full article, which was assessed from that table and enters only the narrative synthesis. The
+model assisted data extraction and cross-checked each extracted value against its source, and every
+included estimate was verified by the author against the source table, figure, or text. In all, 176
 publications were included in the systematic review; of these, 58 were eligible for quantitative
-synthesis and the remaining 118 informed the narrative synthesis. Most included studies were population-based registry or incidence
-studies rather than cohort studies (Supplementary Table 2).
+synthesis and the remaining 118 informed the narrative synthesis. Most included studies were
+population-based registry or incidence studies rather than cohort studies (Supplementary Table 2).
 
 These registries form several
 overlapping systems: the Surveillance, Epidemiology, and End Results (SEER) program collects
