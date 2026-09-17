@@ -37,7 +37,7 @@ The records in each class:
 - **rec 452 (Eheman 2009, NPCR+SEER, 44 states + DC, 1999–2004).** Table 5 prints age-standardized
   (2000 US) total invasive lobular/ductal/mixed breast IR with 95% CIs by race, White 108.1
   [107.9–108.3]: Black 89.3/108.1 = 0.826 [0.820, 0.832], Asian/PI 51.3/108.1 = 0.475 [0.458, 0.492],
-  AIAN 68.1/108.1 = 0.630 [0.622, 0.639] (delta method); Hispanic 73.9 is referenced to Non-Hispanic
+  AI/AN 68.1/108.1 = 0.630 [0.622, 0.639] (delta method); Hispanic 73.9 is referenced to Non-Hispanic
   108.5 [108.3–108.7] = 0.681 [0.675, 0.687]. Comparator is unstratified White (Non-Hispanic for the
   Hispanic row); a national estimate over the ductal/lobular/mixed subset (~87% of invasive breast),
   each entering its aggregate-vs-NHW cell as a sensitivity overlap of the USCS-national representative
@@ -50,19 +50,19 @@ The records in each class:
 - **rec 2609 (Krieger 2018, Massachusetts Cancer Registry, 2010–2014).** Table 2 prints
   age-standardized (2000 US) breast incidence rates with 95% CIs by race, NHW 140.8 [139.0–142.7]:
   NHB 113.6/140.8 = 0.807 [0.762, 0.855], Hispanic 86.9/140.8 = 0.617 [0.578, 0.660], Asian/PI
-  90.4/140.8 = 0.642 [0.597, 0.690], AIAN 64.1/140.8 = 0.455 [0.292, 0.709] (delta method from the
+  90.4/140.8 = 0.642 [0.597, 0.690], AI/AN 64.1/140.8 = 0.455 [0.292, 0.709] (delta method from the
   reported rate CIs). A single-state estimate; each enters its aggregate-vs-NHW cell as a sensitivity
   overlap of the USCS-national representative.
 - **rec 2146 (Wright/Krieger 2022, Massachusetts Cancer Registry, 28 HOLC municipalities, 2005–2015).**
   Table 3 prints age-standardized (2000 US) breast IR by race, NHW 146.56 [143.91–149.25]: NHB
   119.06/146.56 = 0.812 [0.772, 0.855], Hispanic 83.71 = 0.571 [0.529, 0.617], Asian/PI 83.15 = 0.567
-  [0.526, 0.612], AIAN 82.57 = 0.563 [0.330, 0.963] (delta method). A single-state estimate (overlaps
+  [0.526, 0.612], AI/AN 82.57 = 0.563 [0.330, 0.963] (delta method). A single-state estimate (overlaps
   the national aggregate reps and the other Massachusetts study, rec 2609).
 - **rec 210 (Du 2022, SEER 18, 2000–2018).** The table prints age-adjusted rates (2000 US std) by
   race with 95% CIs, referenced to Asian/PI (not NHW). We recompute each group's IRR vs NHW from
   the same-source rates and rate CIs by the delta method (minority IR / NHW IR 190.4 [190.0–190.8]):
   Asian/PI 141.3/190.4 = 0.742 [0.737, 0.747], NHB 178.4/190.4 = 0.937 [0.931, 0.943],
-  AIAN 128.8/190.4 = 0.676 [0.659, 0.695], Hispanic 133.3/190.4 = 0.700 [0.696, 0.705].
+  AI/AN 128.8/190.4 = 0.676 [0.659, 0.695], Hispanic 133.3/190.4 = 0.700 [0.696, 0.705].
   SEER-18 overall estimates; each enters its aggregate-vs-NHW cell as a sensitivity overlap of the
   USCS-national representative.
 - **rec 161 (Loo 2019, Hawaii HTR).** The source printed IRRs with implausibly narrow CIs
