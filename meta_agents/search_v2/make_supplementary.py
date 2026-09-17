@@ -168,15 +168,10 @@ def _role(r):
         return "Quantitative (extractable)"
     if c["rep"]:
         s = "Representative for %d cell%s" % (c["rep"], "s" if c["rep"] > 1 else "")
-        if c["sel"]:
-            s += " (%s)" % "; ".join(sorted(c["sel"]))
         if c["ov"]:
             s += "; overlap for %d" % c["ov"]
         return s
-    s = "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
-    if c["nosel"]:
-        s += " — %s" % "; ".join(sorted(c["nosel"]))
-    return s
+    return "Overlap/sensitivity only (%d cell%s)" % (c["ov"], "s" if c["ov"] > 1 else "")
 
 
 _theme_ct = _C(r.get("narr_theme", "") for r in inc if r.get("synth_group") == "narrative")
@@ -203,15 +198,13 @@ P("Note. All %d studies are included in the systematic review; not all entered t
   "source; most are population-based registry/incidence studies rather than cohort studies. A PMID "
   "(or DOI where none exists) is given for every study so each can be located individually."
   % (_ninc, _elig_clause), True)
-P("Role in synthesis states, for each study, whether quantitative data were extractable and how the "
-  "study was used, with the per-study reason it was or was not selected as a cell representative: "
-  "“Representative for N cell(s)” — supplied the main-analysis benchmark for N analytic cells "
-  "(group × dimension), the selection basis in parentheses; “overlap for M” — also contributed M "
-  "overlapping estimates kept only for the sensitivity re-selection; “Overlap/sensitivity only” — "
-  "every estimate overlapped an already-represented cell, with the reason it was not selected. "
-  "For the studies under “Narrative synthesis only” the column instead gives the reason no "
-  "quantitative estimate was taken. One representative is selected per analytic cell (criteria in "
-  "Methods and Supplementary Table 4).", True)
+P("Role in synthesis summarises, for each study, how it was used: “Representative for N cell(s)” — "
+  "supplied the main-analysis benchmark for N analytic cells (group × dimension); “overlap for M” — "
+  "also contributed M overlapping estimates kept only for the sensitivity re-selection; "
+  "“Overlap/sensitivity only” — every estimate overlapped an already-represented cell. For the "
+  "studies under “Narrative synthesis only” the column instead gives the reason no quantitative "
+  "estimate was taken. The cell-by-cell selection status and the reason each estimate was or was "
+  "not chosen as the representative are given in Supplementary Table 4 (main-analysis column).", True)
 PB()
 
 # ---- S4 excluded (no record_id) ----
