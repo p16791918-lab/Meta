@@ -146,4 +146,4 @@
 ---
 
 
-**현재 최종 카운트**: included 176 (primary screen 162 + excluded 재스크리닝 회수 14), quant 58, narrative 118, excluded 83, not-retrieved 10, assessed 249, excluded-at-eligibility 73, estimates 219, cells 85, reps 23, sens-only 35, RoB 45 Low / 13 Moderate / 58.
+**현재 최종 카운트**: included 176 (primary screen 162 + excluded 재스크리닝 회수 14), quant 58, narrative 118, excluded 83, not-retrieved 10, assessed 249, excluded-at-eligibility 73, estimates 218, cells 85, reps 23, sens-only 35, RoB 45 Low / 13 Moderate / 58.
