@@ -165,10 +165,10 @@ ascertainment validity: because unlinked registries tend to undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
 estimate for the same cell; this ascertainment preference took priority over the coverage and comparator-type criteria above.
-For Alaska Native women, for example, this ascertainment-preferred source—the IHS-eligibility-based
-Alaska Native Tumor Registry—reports against an unstratified White reference rather than NHW; it was
-kept as the representative because completeness of ascertainment took priority over comparator type,
-and its NHW-comparator alternative was carried in the sensitivity analysis.
+Alaska Native women are an example. The ascertainment-preferred source—the IHS-eligibility-based
+Alaska Native Tumor Registry—reports against an unstratified White reference rather than NHW. It was
+kept as the representative because completeness of ascertainment outweighed comparator type, and the
+NHW-comparator alternatives were carried in the sensitivity analysis.
 
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
@@ -219,9 +219,8 @@ estimate paired an Alaska Native rate with an external SEER-Explorer NHW referen
 its source having reported no in-paper White comparator; it was retained only as an overlap
 record, not as a representative. For the
 non-independence reason given above, these estimates were not combined into a pooled
-random-effects estimate; the primary result for each group is the representative population-based
-estimate, and the analysis presents the racial and ethnic differences and the subgroup
-heterogeneity group by group rather than as a single pooled value. Studies that met
+random-effects estimate; the racial and ethnic differences and the subgroup heterogeneity are
+presented group by group rather than as a single pooled value. Studies that met
 the inclusion criteria but did not provide a recoverable NHW comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
