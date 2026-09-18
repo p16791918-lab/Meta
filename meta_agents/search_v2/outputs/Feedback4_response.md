@@ -15,7 +15,7 @@
 - **Wingo 2008 재분류**: Wingo 2008는 IHS-linked(CHSDA) AI/AN-vs-NHW breast RR + 95% CI를 IHS region별로 보고하는데 narrative-only로 오분류돼 있었음("overlaps AIAN cells"를 이유로 강등한 것이 오류 — overlap이면 quant 민감도 풀에 있어야 함). include-quant로 재분류하고 CHSDA 값 추출(national 0.63, Northern Plains 0.89, Southern Plains 0.89, Alaska 0.99, 모두 CI 있음). 최근 IHS-linked 값이 대표를 유지하고 Wingo는 overlap/sensitivity로 편입.
 - **연구별 로그**: Supplementary Table 2(included studies)에 "Role in synthesis" 컬럼 추가 — 각 연구가 (a) 정량 추출 가능했는지, (b) 몇 개 analytic cell의 대표인지 / overlap-only인지 / narrative-only인지를 요약. 예: Gomez 2026 "Representative for 10 cells; overlap for 6", Wingo "Overlap/sensitivity only (7 cells)", Gopalani "Overlap/sensitivity only (1 cell)". 셀별 선택·미선택 상태와 그 이유는 Supplementary Table 4(main_analysis 열)에서 제시하고 S2에는 중복 서술하지 않음.
 - **선정 단위 통일**: 'analytic cell(group × dimension)당 대표 하나'로 Methods, Supplementary Table 2/4 legend에서 일관 기술.
-- **중복 판정 기준**: registry 명칭이 아니라 registry family + 지역 + 관찰기간 + 대상 인구로 겹침을 판정(Supplementary Table 4에 registry, region, period, group을 함께 표기해 셀 내 overlap을 확인).
+- **중복 판정 기준**: registry 명칭이 아니라 registry family + 지역 + 관찰기간 + 대상 인구로 겹침을 판정(Supplementary Table 4에 registry family, group, analytic dimension, comparator, period, standard population을 함께 표기해 셀 내 overlap을 확인; 지역·연령대는 group·dimension에 반영).
 - **제외 vs 민감도 구분 기준 명시**(Methods): 같은 registry, 기간, 인구의 추정치를 재출판한 중복 데이터셋은 제외, 같은 registry family라도 다른 기간, 지역, subset이면 별개 추정으로 보고 민감도 overlap으로 유지.
 
 ## 3. 주요 추출값뿐 아니라 비교군·기간·연령·효과지표를 함께 재검증해주세요. 자료원 분류 오류가 확인된 만큼 master dataset의 핵심 정보를 원문과 다시 대조해주세요. 예를 들어 Sung 2020은 여성 비교자료를 포함하지만, 현재 보충자료의 성별·비교군·관찰기간 표기를 재확인해야 합니다. NHW와 unstratified White를 구분하고, SIR로 보고된 값도 직접표준화 발생률비와 같은 방식으로 해석할 수 있는지 확인해주세요. 표준인구가 원문에 명시되지 않았다면 발생률 크기로 추정하지 말고 '불명확'으로 기록해주세요.
