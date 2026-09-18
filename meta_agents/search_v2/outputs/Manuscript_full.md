@@ -113,8 +113,7 @@ was flagged when its title and abstract together carried at least four of five s
 breast cancer (required), an incidence or age-adjusted-rate term (age-standardized rate, IRR, SIR,
 or per 100,000), a race or ethnicity term, a U.S. context, and a cancer-registry or
 population-based source. The 183 records carrying all five signals and the 478 missing a single
-signal were re-read at the full abstract, and overlap or duplication was adjudicated from the full
-text. The re-screen surfaced 17 records for re-adjudication: 14 were reinstated (6 for the
+signal were re-read at the full abstract. The re-screen surfaced 17 records for re-adjudication: 14 were reinstated (6 for the
 quantitative and 8 for the narrative synthesis), 2 were confirmed ineligible on the pre-specified
 criteria—one on outcome and one on population—and 1 could not be retrieved. Rerouting these 17 records left 4,534 records
 excluded at screening and 259 reports sought for retrieval.
