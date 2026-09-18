@@ -16,7 +16,7 @@ registration and are reported here as deviations from the protocol: the analytic
 with one representative population-based estimate per cell (in place of statistical pooling of
 non-independent registry estimates); the provenance tiering and the coverage-based rule for
 choosing a representative, including the preference for Indian Health Service (IHS)–linked sources for
-AI/AN populations; the receptor-defined subtype and age-band cells; the four restriction-based
+AI/AN populations; the receptor-defined subtype and age-band cells; and the four restriction-based
 sensitivity analyses.
 
 ### Search strategy
