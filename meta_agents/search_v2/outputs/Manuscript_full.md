@@ -447,7 +447,7 @@ abstracts omit two or more of the screening signals.
 What this review adds beyond the individual studies is threefold. First, it places estimates that
 were scattered across separate registry reports—each with its own reference group, standard
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
-can be read against one another and against their aggregates in one place. Second, by collapsing
+and their aggregates can be seen together in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
 separates the cells corroborated by two or more independent sources (38 of the 85 analytic cells)
 from those resting on a single study (47); where two or more sources are available they agree in
