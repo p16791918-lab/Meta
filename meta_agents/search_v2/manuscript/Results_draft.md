@@ -85,10 +85,10 @@ and period. Grouped by theme in Supplementary Table 2, they fall into six overla
 and where they reported a racial or ethnic comparison their findings were broadly consistent
 with the quantitative results.
 
-Molecular subtype and histology (23 studies) described the
+Molecular subtype and histology (28 studies) described the
 higher triple-negative and hormone-receptor-negative burden in NHB women and the predominance
 of HR+/HER2− disease in NHW women, and extended the picture to inflammatory, lobular, and ductal
-histologies that the receptor-defined cells do not capture. Geography and region (23 studies)
+histologies that the receptor-defined cells do not capture. Geography and region (24 studies)
 described variation in incidence across states, counties, and rural–urban gradients and within
 particular registries, including Delta-region, Appalachian, and single-state analyses. Age and
 early-onset (20 studies) reported racial differences concentrated in younger women, among them the
@@ -98,7 +98,7 @@ and mammography use rather than to race alone. Nativity and immigrant generation
 reported incidence rising with longer US residence and across immigrant generations in Asian,
 Hispanic, and Middle Eastern populations, echoing the nativity and enclave gradients seen in the
 quantitative subgroups. Time trends (8 studies) tracked rising incidence among Asian American women
-and falling estrogen-receptor-negative rates over recent decades. The remaining 20 were
+and falling estrogen-receptor-negative rates over recent decades. The remaining 21 were
 subgroup-specific descriptive reports—single Asian ethnicities or AI/AN young adults, for
 example—without a recoverable NHW comparison.
 

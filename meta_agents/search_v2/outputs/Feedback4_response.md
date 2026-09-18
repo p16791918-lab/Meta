@@ -76,7 +76,7 @@
 
 - **① narrative 118편 주제별 정리 + 근거연구 연결**: 6개 주제로 분류(제목, 집단, outcome 키워드) —
  Molecular subtype/histology 28, Geography/region 24, Age/early-onset 20, SES/screening 9,
- Nativity/immigrant 8, Time trends 9, Other(subgroup-descriptive) 20 (합 118). Results의
+ Nativity/immigrant 8, Time trends 8, Other(subgroup-descriptive) 21 (합 118). Results의
  narrative 소절을 주제별 서술로 재작성(각 주제의 소견을 정량결과와 대조)하고, Supplementary
  Table 2를 주제별로 그룹화(각 연구에 PMID/DOI 부여)해 근거연구를 연결.
 - **② LLM 모델, 역할, 재검토 표본, 누락 보고**: 제목/초록 선별은 large language model
