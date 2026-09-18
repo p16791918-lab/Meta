@@ -109,7 +109,7 @@
 - **③ PROSPERO 상태 정리 + 사전/사후 구분(Methods)**: 자리표시자를 CRD42023437049(저자 제공)로
  교체. 사전 프로토콜(질문, 검색, 적격기준, 중복처리, quant/narrative 분리)과 등록 후 개발, 정련한 사후
  변경(analytic-cell 대표값 프레임, provenance tier, 커버리지 규칙, AI/AN IHS 우선, 수용체 아형, 연령
- 셀, 4개 민감도, narrative→quant 4편 재분류)을 구분 명시. Abstract에도 등록번호 추가.
+ 셀, 4개 민감도)을 구분 명시. Abstract에도 등록번호 추가.
 - **④ JBI Q9 정합 + RoB 판정 기준(Methods, 표 legend)**: Q9(response rate)를
  표에 "Yes"→"NA"로 기록(census-like registry엔 survey response rate 없음; NA는 결함으로 미집계)해
  "해당없음" 설명과 표기 일치. 전체 RoB 판정 기준(Low=No≤1 & Q7, Q8 Yes; High=No≥3; else Moderate,
