@@ -111,9 +111,9 @@ statistically independent. Rather than pool such non-independent
 estimates, the analytic unit was the **analytic cell**—each racial or ethnic group crossed with one
 analytic dimension (overall incidence, a disaggregated subgroup, a receptor-defined subtype, or an
 age band)—and one
-**representative population-based estimate** was selected for each cell. Each estimate was assigned to a registry "family," and the registry, region, diagnosis period,
-age range, group, and outcome of each study were tabulated so that overlaps within a cell could be
-seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
+**representative population-based estimate** was selected for each cell. Each estimate was assigned to a registry "family," and the registry family, group, analytic
+dimension, comparator, diagnosis period, and standard population of each estimate were tabulated so
+that overlaps within a cell could be seen (Supplementary Table 4). Within a cell, the representative was chosen by applying, in order:
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
 NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
