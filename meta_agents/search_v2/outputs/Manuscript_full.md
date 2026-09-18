@@ -395,8 +395,8 @@ in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate wa
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
 widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an
 unstratified White reference, among Alaska Native women (regional values in Table 1). The lower
-unlinked values are therefore best read as reflecting
-incomplete case ascertainment rather than lower underlying incidence; the AI/AN–NHW comparison
+unlinked values therefore likely reflect incomplete case ascertainment rather than only lower
+underlying incidence; the AI/AN–NHW comparison
 depends on how completely cases are ascertained.⁴¹,⁵⁸ The IHS-linked correction, however, was
 available only for the aggregate and regional estimates: no Indian Health Service–linked source
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
