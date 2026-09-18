@@ -97,12 +97,11 @@ Association of Central Cancer Registries (NAACCR) compiles data across member re
 IHS-linked files provide case ascertainment for AI/AN populations; and
 individual state or regional registries (for example, California and Hawaii) cover single areas.
 
-From each study contributing quantitative data we extracted the
-cancer registry, geographic coverage, diagnosis period, age range, standard population, racial
-or ethnic group and comparator, outcome (overall or subtype), the reported estimate, and its
-confidence interval. Each estimate was labelled by provenance—directly reported IRR or SIR,
-computed from reported rates (with a reported or Poisson-derived variance), or read from a
-figure—and the label was retained for risk-of-bias scoring and for a provenance-restricted
+From each study contributing quantitative data, the cancer registry, geographic coverage,
+diagnosis period, age range, standard population, racial or ethnic group and comparator, outcome
+(overall or subtype), the reported estimate, and its confidence interval were extracted. Each estimate was labelled by provenance—directly reported IRR or SIR, or
+computed from reported rates (with a reported or Poisson-derived variance)—and the label was
+retained for risk-of-bias scoring and for a provenance-restricted
 sensitivity analysis.
 
 ### Selection of a representative population-based estimate
