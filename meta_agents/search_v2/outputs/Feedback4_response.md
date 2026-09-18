@@ -4,8 +4,8 @@
 - **대표값 재선정**: 진짜 IHS-PRCDA national 자료인 Melkonian 2019(breast RR 0.87 vs NHW, 원문 "Non-Hispanic white was chosen as the reference")가 AI/AN aggregate 대표가 됨. 0.56 → 0.87. 원문에 CI, case count가 없어 point estimate로 제시(근사 계산 안 함).
 - **순위 재편**: Hispanic 0.72 < AANHPI 0.77 < AI/AN 0.87 < NHB 0.93 → 최저는 Hispanic(기존엔 AI/AN). Abstract, Results, Discussion 반영.
 - **Northern Plains**: Melkonian 2019에 Northern Plains 추정치(IHS-PRCDA, RR 1.05)가 있으므로, 현재 대표를 unlinked Watanabe-Galloway(0.90)에서 IHS-linked Melkonian(1.05)로 교체. "단일 연구뿐" 설명을 삭제(Watanabe-Galloway 2015은 overlap으로 강등). Alaska(1.26), Southern Plains(1.30) 지역값도 추출표에 추가(각각 ANTR 1.09, Melkonian 2021 1.33 대표는 유지, Melkonian 2019는 overlap).
-- **RoB**: Gopalani 2020이 unlinked가 되며 JBI Q7(race ascertainment) undercount → RoB Low 39→38, Moderate 9→10.
-- **민감도**: 재실행(저위험 55/8/10, 직접보고 36/5/32, NHW 55/1/17).
+- **RoB**: Gopalani 2020이 unlinked가 되며 JBI Q7(race ascertainment) undercount로 Moderate로 분류(재스크리닝 회수분 포함 최종 RoB Low 45 / Moderate 13, 58편).
+- **민감도**: 대표 재선정 반영해 재실행(최종 unchanged/changed/dropped — 저위험 60/13/12, 직접보고 35/5/45, NHW 66/1/18, 2000US 83/2/0).
 - **기간 정정**: 재확인 중 Melkonian 2019 period 2012-2016 → 2010-2015(Table 2) 오류도 정정.
 
 ---
@@ -20,7 +20,7 @@
 
 ## 3. 주요 추출값뿐 아니라 비교군·기간·연령·효과지표를 함께 재검증해주세요. 자료원 분류 오류가 확인된 만큼 master dataset의 핵심 정보를 원문과 다시 대조해주세요. 예를 들어 Sung 2020은 여성 비교자료를 포함하지만, 현재 보충자료의 성별·비교군·관찰기간 표기를 재확인해야 합니다. NHW와 unstratified White를 구분하고, SIR로 보고된 값도 직접표준화 발생률비와 같은 방식으로 해석할 수 있는지 확인해주세요. 표준인구가 원문에 명시되지 않았다면 발생률 크기로 추정하지 말고 '불명확'으로 기록해주세요.
 
-**정량 연구 전수 정독**(55편)으로 각 편의 비교군(NHW vs unstratified White), 관찰기간, 성별(여성 한정), 표준인구, 효과지표(IRR/SIR/rate)를 원문 대조.
+**정량 연구 전수 정독**(재스크리닝 회수분 포함 최종 58편)으로 각 편의 비교군(NHW vs unstratified White), 관찰기간, 성별(여성 한정), 표준인구, 효과지표(IRR/SIR/rate)를 원문 대조.
 - **비교군 명시**: unstratified White(†) = Gleason, Cronin, Baquet, Anderson, Richardson, Gopalani 계열, SIR = Goggins(US White 표준), external NHW = Nash 2022. NHW, White (NH), external을 정확히 구분(민감도3에서 † 제거).
 - **오류 교정**: Sung 2020 비교군 White→NHW, 기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
 - **표준인구 이질성**: DavisLynn 2025 = Segi 1960 world(2000 US와 이질) 명시.
@@ -115,7 +115,7 @@
 - **④ JBI Q9 정합 + RoB 판정 기준(Methods, 표 legend)**: Q9(response rate)를
  표에 "Yes"→"NA"로 기록(census-like registry엔 survey response rate 없음; NA는 결함으로 미집계)해
  "해당없음" 설명과 표기 일치. 전체 RoB 판정 기준(Low=No≤1 & Q7, Q8 Yes; High=No≥3; else Moderate,
- 적용 8개 항목)을 표 legend와 Methods에 명시. 판정 결과 불변(41 Low/11 Moderate).
+ 적용 8개 항목)을 표 legend와 Methods에 명시. Q9 표기·판정기준 정비는 개별 판정을 바꾸지 않음(최종 45 Low/13 Moderate/58).
 
 ---
 
@@ -123,7 +123,7 @@
 
 - **① 리뷰 기여 명시(Discussion 신규 문단)**: 단일-연구 cell을 함께 검토해 무엇이 추가됐는지 3가지로:
  (1) 흩어진 추정치를 하나의 NHW 기준 척도로 모아 subgroup을 상호, 대집단과 비교, (2) overlap을
- sensitivity로 남겨 ≥2개 독립 자료원이 뒷받침하는 셀 36개 vs 단일 연구 셀 47개를 구분하고
+ sensitivity로 남겨 ≥2개 독립 자료원이 뒷받침하는 셀 38개 vs 단일 연구 셀 47개를 구분하고
  일치/불일치를 제시(aggregate 순서, 대다수 subgroup은 제한분석에서 견고, near-null AANHPI subgroup
  일부는 자료원 따라 부호 전환, AI/AN은 IHS-linkage 여부에 좌우), (3) 근거부족 집단 명시(Middle
  Eastern, 일부 NHPI, Hispanic-origin subgroup, AI/AN 아형은 단일 지역, unlinked 자료; AI/AN 지역, 전국
