@@ -45,8 +45,9 @@ groups and disaggregated subgroups (Asian American, Native Hawaiian and Pacific 
 Hispanic/Latina by origin, and AI/AN by region) and
 receptor-defined molecular subtypes were eligible. The reference group was recorded as each
 study defined it; studies that stratified the reference by Hispanic origin were treated as NHW
-and those using an unstratified White reference were labelled accordingly, and both were
-retained because the reference and minority rates came from the same source. The review was
+and those using an unstratified White reference were labelled accordingly, and studies of both
+kinds were retained because the reference and minority rates came from the same source within
+each study. The review was
 limited to U.S.-resident populations. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
 non-U.S. studies, reports that did not present invasive female breast cancer incidence by race or
 ethnicity, and mortality- or survival-only reports were excluded. A publication that re-reported an
