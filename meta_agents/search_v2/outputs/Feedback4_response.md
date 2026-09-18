@@ -60,10 +60,10 @@
  read side by side")을 직접 수정 → "arranges … on one axis for comparison—though the estimates
  are not fully commensurable, and the arrangement shows the span of published figures rather than a
  set of mutually calibrated rates".
-- **② "contemporary benchmark" 재검토(Methods)**: 대표 중 2005년 이전의 오래된 기간(Middle Eastern
- 1988-2004, Cambodian, Native Hawaiian 1998-2002, Hispanic-origin 1999-2001 등)이 있어, 'contemporary
- benchmark'라는 표현을 삭제함. 진단 기간이 셀마다 다르고 일부 대표는 2005년 이전이므로 Methods는 대표값을
- 더 이상 'contemporary'로 규정하지 않음.
+- **② "contemporary benchmark" 재검토(Methods)**: 대표 추정치의 진단 기간이 셀마다 다르고 일부는
+ 2005년 이전(예: Middle Eastern 1988-2004, Cambodian·Native Hawaiian 1998-2002, Hispanic-origin
+ 1999-2001, 일부 age 셀 1975-2004)이어서, Methods에서 대표값을 'contemporary benchmark'로 규정하던
+ 표현을 삭제함.
 - **③ Figure 2 이질 출처 명시**: forest 그림에 각주 추가("각 점은 별도 연구의 셀 대표값이며 aggregate와
  subgroup은 단일 출처가 아니고 registry, 지역, 기간, 표준인구가 다름; 다이아=aggregate, 원=subgroup,
  막대 없음=원문 CI 없음")하고 Discussion 본문에도 동일 취지 문장 추가.

@@ -54,8 +54,9 @@ Introduction rewrite (v9).
     and are not independent. The primary result is one representative population-based estimate
     per registry family; any pooling is at most a secondary consistency/sensitivity check.
 13. Do **not** describe the representative estimate as a meta-analytic pooled value (2nd-round
-    feedback §6): call it a "representative population-based estimate" or "contemporary
-    benchmark," and state its selection criteria.
+    feedback §6): call it a "representative population-based estimate" and state its selection
+    criteria. Do **not** call it a "contemporary benchmark" (4th-round feedback §5): diagnosis
+    periods differ by cell and some representatives predate 2005.
 14. Keep provenance explicit: directly-reported IRR vs computed-from-rates vs figure-extracted
     vs approximate SE. Confirm same standard population, period, and comparator before
     computing a rate ratio.
