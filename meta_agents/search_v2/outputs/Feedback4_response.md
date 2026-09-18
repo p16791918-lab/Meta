@@ -25,12 +25,12 @@
 - **오류 교정**: Sung 2020 비교군 White→NHW, 기간 2011-2015→2010-2016, Melkonian 2019 기간 2012-2016→2010-2015 등.
 - **표준인구 이질성**: DavisLynn 2025 = Segi 1960 world(2000 US와 이질) 명시.
 
-- **SIR 해석(Goggins Goggins 2009)**: SIR은 US White 연령구조 기준 간접표준화 비율로, 두 집단을 공통 표준으로 직접표준화한 IRR과 표준화 방식이 다름 → 같은 상대-White 스케일로 읽되 SIR로 표기하고 직접보고-IRR 민감도분석에서 제외함을 Methods에 명시.
-- **표준인구 원문 대조 오류 3건 정정**: Wilkinson 2002(Wilkinson) 원문 "1970 US standard" 명시인데 std_pop 누락 → 1970 US로; Anderson 2008(Anderson) 원문 "2000 US" 명시인데 "std pop cancels"라 부정확 표기 → 2000 US로; Zahrieh 2021(Zahrieh) Bayesian 소지역 분석으로 표준인구 미명시 → std_pop을 'not stated'로(rate 크기로 추정 안 함).
+- **SIR 해석(Goggins 2009)**: SIR은 US White 연령구조 기준 간접표준화 비율로, 두 집단을 공통 표준으로 직접표준화한 IRR과 표준화 방식이 다름 → 같은 상대-White 스케일로 읽되 SIR로 표기하고 직접보고-IRR 민감도분석에서 제외함을 Methods에 명시.
+- **표준인구 원문 대조 오류 3건 정정**: Wilkinson 2002 원문 "1970 US standard" 명시인데 std_pop 누락 → 1970 US로; Anderson 2008 원문 "2000 US" 명시인데 "std pop cancels"라 부정확 표기 → 2000 US로; Zahrieh 2021 Bayesian 소지역 분석으로 표준인구 미명시 → std_pop을 'not stated'로(rate 크기로 추정 안 함).
 - **표준인구 기록 방침 명시**(Methods): SEER*Stat, USCS age-adjusted는 2000 US가 프로그램 기본값이라 그대로 기록; 그 외 미명시는 'not stated'. Discussion의 "one older study used the 1970 world standard"도 실제(1970 world/US + 1960 Segi)에 맞게 수정.
-- **관찰기간 원문 대조 오류 3건 정정**(표준인구 재점검 후 기간도 전수 대조): Hendrick 2021(Hendrick) 원문 incidence "2014-2017"인데 2013-2017로 → 2014-2017; Cronin 2012(Cronin) 제목, 본문 "2005-2009"인데 2004-2008로 → 2005-2009; Richardson 2016(Richardson) 값 121.5/123.6이 원문 "During 2009-2013"인데 2011로 → 2009-2013. (IRR은 비율이라 불변, 기간 라벨만 정정.)
+- **관찰기간 원문 대조 오류 3건 정정**(표준인구 재점검 후 기간도 전수 대조): Hendrick 2021 원문 incidence "2014-2017"인데 2013-2017로 → 2014-2017; Cronin 2012 제목, 본문 "2005-2009"인데 2004-2008로 → 2005-2009; Richardson 2016 값 121.5/123.6이 원문 "During 2009-2013"인데 2011로 → 2009-2013. (IRR은 비율이라 불변, 기간 라벨만 정정.)
 - **비교군은 오류 없음 확인**: comparison_vs "White" 21행(Loo, Baquet, Gleason, Anderson)은 전수 재확인 결과 모두 unstratified White(†)로 정확. NHW/White(NH)/external은 정확.
-- **연령(age band)도 오류 없음 확인**: age-specific 8셀(Gomez 2017 young=<50, 265 <40/≥40, 199 <40, 522 <50/≥50, 146 <50[20-49], 485 ≥50)을 원문 대조 → 모두 정확.
+- **연령(age band)도 오류 없음 확인**: age-specific 8셀(Gomez 2017 <50, Anderson 2008 <40 및 ≥40, Baquet 2008 <40, Ihenacho 2023 <50 및 ≥50, Xu 2024 <50[20–49], Harper 2009 ≥50)을 원문 대조 → 모두 정확.
 
 
 **판단 결정**:
@@ -44,9 +44,9 @@
 - **Loo 2019 — PDF Table 1 렌더링으로 최종 해결**: poppler 설치 후 Table 1(Number of Cases + IR 95% CI)을 확인. 원문 rate CI는 사례수에 맞게 정상이나 IRR CI만 5–228배 비현실적으로 좁음(rate CI로 재계산 시 예: NH HR+/HER2+ [1.347,1.351]→[0.96,1.88]). 정오표 없이 원문 데이터로 IRR CI 오류 증명. → Loo 14개 subtype IRR CI를 Table 1 rate CI로 delta method 재계산해 교체(computed-from-rates-with-CI, Supplementary Note 1 기록). 전사 오류(NH HR+/HER2+ 1.34→1.35)도 정정. 누락 Japanese TNBC 1.07도 추출.
 - **원문 SE/CI 우선**: point 추정(Melkonian 2019 등 CI 미보고)은 점추정으로 제시하고 근사 계산하지 않음. 대규모 national aggregate의 좁은 CI(예: Sung 2023 TNBC 1.95[1.93-1.98])는 큰 N으로 정상임을 확인(경고만).
 
-- **총사건수 Poisson CI를 age-standardized 발생률비에 적용한 부분 재검토**(Supplementary Note 1): 해당 행은 Ellington 2022(Ellington), 182(Cronin), 49(Mills), 3267(Kem). 각 원문의 rate SE/CI 제공 여부를 확인.
-- **Cronin 2012(Cronin)**: 원문이 Black 116.9[116.2–117.6]/White 122.1[121.8–122.3] rate CI를 보고 → 총사건수 Poisson을 버리고 delta method로 전환(0.957 [0.944,0.971]→[0.951,0.963]).
-- **Ellington 2022(Ellington), 49(Mills), 3267(Kem)**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → 근사임을 Methods와 Supplementary Note 1에 명시("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
+- **총사건수 Poisson CI를 age-standardized 발생률비에 적용한 부분 재검토**(Supplementary Note 1): 해당 행은 Ellington 2022, Cronin 2012, Mills 2005, Kem 2007. 각 원문의 rate SE/CI 제공 여부를 확인.
+- **Cronin 2012**: 원문이 Black 116.9[116.2–117.6]/White 122.1[121.8–122.3] rate CI를 보고 → 총사건수 Poisson을 버리고 delta method로 전환(0.957 [0.944,0.971]→[0.951,0.963]).
+- **Ellington 2022, Mills 2005, Kem 2007**: 원문이 rate CI/SE를 제공하지 않아(rate+AAPC 또는 count만) 총사건수 Poisson 근사 불가피 → 근사임을 Methods와 Supplementary Note 1에 명시("age-standardized rate를 총사건수 분산으로 근사, age별 가중 미반영; 원문 rate SE/CI 부재 시에만 사용"). count조차 없으면 점추정으로.
 - Supplementary Note 1의 부정확한 "Brinton 2008, Cronin 2012" 표기 정정(Brinton 2008은 directly-reported-IRR).
 
 ## 5. 연구 간 비교의 한계와 민감도분석 결과를 해석에 반영해주세요. NHW 대비 비율로 변환하더라도 표준인구·연령·지역·관찰기간의 차이는 사라지지 않으므로, "standard population largely cancels"라는 설명은 수정해주세요. 오래된 자료를 포함하는 만큼 'contemporary benchmark'라는 표현도 재검토해야 합니다. Figure 2에는 서로 다른 연구의 aggregate와 subgroup을 배치했다는 점을 명시하고, Japanese처럼 low-RoB 분석에서 방향이 바뀌는 결과는 본문에서 설명해주세요. 연구 교체에 따른 변화에는 RoB뿐 아니라 시기·지역·비교군 차이도 영향을 줄 수 있습니다.
