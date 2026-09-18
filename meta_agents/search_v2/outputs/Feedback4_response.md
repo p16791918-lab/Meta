@@ -1,4 +1,4 @@
-**재스크리닝에 따른 카운트 변화(대표 결과값은 불변)**: 제외편 전수를 명시적 키워드 필터로 재검토해 14편을 회수하면서 included 162→176, quant 52→58, narrative 110→118로 늘었다. 회수분(quant 6·narrative 8)은 전부 overlap/sensitivity 또는 narrative synthesis로 편입되어 국가대표 85셀·23연구, Table 1, 헤드라인 aggregate IRR(Hispanic 0.72·AANHPI 0.77·AI/AN 0.87·NHB 0.93, NHB TNBC 1.95)은 바뀌지 않았고, 추출 estimate 수만 증가했다(최종 218). 아래 각 항목의 카운트는 이 재스크리닝 반영 후 최종값이다.
+**재스크리닝에 따른 카운트 변화(대표 결과값은 불변)**: 제외편 전수를 명시적 키워드 필터로 재검토해 14편을 회수하면서 included 162→176, quant 52→58, narrative 110→118로 늘었다. 회수분(quant 6·narrative 8)은 전부 overlap/sensitivity 또는 narrative synthesis로 편입되어 국가대표 85셀·23연구, Table 1, 헤드라인 aggregate IRR(Hispanic 0.72·AANHPI 0.77·AI/AN 0.87·NHB 0.93, NHB TNBC 1.95)은 바뀌지 않았고, 추출 estimate 수만 증가했다(최종 218). 아래 각 항목의 카운트는 이 재스크리닝 반영 후 최종값이며, 재스크리닝 방법과 회수 17편의 상세 내역은 6번 항목(②)에 있다.
 
 ---
 
