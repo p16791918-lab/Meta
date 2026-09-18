@@ -1,3 +1,7 @@
+**재스크리닝에 따른 카운트 변화(대표 결과값은 불변)**: 제외편 전수를 명시적 키워드 필터로 재검토해 14편을 회수하면서 included 162→176, quant 52→58, narrative 110→118로 늘었다. 회수분(quant 6·narrative 8)은 전부 overlap/sensitivity 또는 narrative synthesis로 편입되어 국가대표 85셀·23연구, Table 1, 헤드라인 aggregate IRR(Hispanic 0.72·AANHPI 0.77·AI/AN 0.87·NHB 0.93, NHB TNBC 1.95)은 바뀌지 않았고, 추출 estimate 수만 증가했다(최종 218). 아래 각 항목의 카운트는 이 재스크리닝 반영 후 최종값이다.
+
+---
+
 ## 1. AI/AN 자료원 분류와 대표값 선정을 다시 검토해주세요. Gopalani 2020은 CDC WONDER/USCS 자료를 사용했고 PRCDA 분류를 사용하지 않았다고 명시하고 있는데, 현재는 IHS-PRCDA 자료로 분류되어 있습니다. 이는 IHS-linked 자료를 우선한다는 선정 근거에 영향을 주므로, 자료원 분류를 바로잡고 대표값·RoB·민감도분석을 다시 확인해주세요. 같은 원논문에 Northern Plains 추정치도 있으므로, 해당 지역 자료가 한 연구뿐이라는 설명도 재검토해야 합니다.
 
 - **자료원 정정**: Gopalani 2020을 원문대로 USCS(NPCR+SEER, unlinked)로 정정(원문 Methods: "We did not use [PRCDA] classifications"). IHS-linked 오분류를 제거.
