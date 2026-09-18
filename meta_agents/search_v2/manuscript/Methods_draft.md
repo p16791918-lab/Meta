@@ -120,15 +120,17 @@ diagnosis period, a clearly documented age-standardization, and a directly repor
 interval where available. Where a cell had no NHW-comparator source—the receptor-defined subtype
 cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
 as the representative and marked †.
+
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries tend to undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
-estimate for the same cell, ahead of both the coverage and the comparator-type preferences.
+estimate for the same cell; this ascertainment preference took priority over the coverage and comparator-type criteria above.
 For Alaska Native women, for example, this ascertainment-preferred source—the IHS-eligibility-based
 Alaska Native Tumor Registry—reports against an unstratified White reference rather than NHW; it was
 kept as the representative because completeness of ascertainment took priority over comparator type,
 and its NHW-comparator alternative was carried in the sensitivity analysis.
+
 Overall, disaggregated-subgroup, subtype, and age-specific results could draw on different
 studies, but the same registry data were not entered twice for the same question. The stability
 of the selection was checked in four ways: restricting to studies at low risk of bias, to
