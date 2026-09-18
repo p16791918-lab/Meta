@@ -1,7 +1,7 @@
 ## 1. AI/AN 자료원 분류와 대표값 선정을 다시 검토해주세요. Gopalani 2020은 CDC WONDER/USCS 자료를 사용했고 PRCDA 분류를 사용하지 않았다고 명시하고 있는데, 현재는 IHS-PRCDA 자료로 분류되어 있습니다. 이는 IHS-linked 자료를 우선한다는 선정 근거에 영향을 주므로, 자료원 분류를 바로잡고 대표값·RoB·민감도분석을 다시 확인해주세요. 같은 원논문에 Northern Plains 추정치도 있으므로, 해당 지역 자료가 한 연구뿐이라는 설명도 재검토해야 합니다.
 
 - **자료원 정정**: Gopalani 2020을 원문대로 USCS(NPCR+SEER, unlinked)로 정정(원문 Methods: "We did not use [PRCDA] classifications"). IHS-linked 오분류를 제거.
-- **대표값 재선정**: 진짜 IHS-PRCDA national 자료인 Melkonian 2019(breast RR 0.87 vs NHW, 원문 "Non-Hispanic white was chosen as the reference")가 AI/AN aggregate 대표가 됨. 0.56 → 0.87. 원문에 CI, case count가 없어 point estimate로 제시(근사 계산 안 함).
+- **대표값 재선정**: 진짜 IHS-PRCDA national 자료인 Melkonian 2019(breast RR 0.87 vs NHW, 원문 "Non-Hispanic white was chosen as the reference")가 AI/AN aggregate 대표가 됨. 0.56 → 0.87. 원문이 RR을 CI 없이 직접 보고했고(directly-reported-IRR), CI를 복원할 rate CI도 case count도 없어 point estimate로 제시(근사 계산 안 함; 다른 셀의 computed CI 86개는 원문 rate CI에서 delta로 계산한 것으로, 이 재료가 없는 경우와 구분됨).
 - **순위 재편**: Hispanic 0.72 < AANHPI 0.77 < AI/AN 0.87 < NHB 0.93 → 최저는 Hispanic(기존엔 AI/AN). Abstract, Results, Discussion 반영.
 - **Northern Plains**: Melkonian 2019에 Northern Plains 추정치(IHS-PRCDA, RR 1.05)가 있으므로, 현재 대표를 unlinked Watanabe-Galloway(0.90)에서 IHS-linked Melkonian(1.05)로 교체. "단일 연구뿐" 설명을 삭제(Watanabe-Galloway 2015은 overlap으로 강등). Alaska(1.26), Southern Plains(1.30) 지역값도 추출표에 추가(각각 ANTR 1.09, Melkonian 2021 1.33 대표는 유지, Melkonian 2019는 overlap).
 - **RoB**: Gopalani 2020이 unlinked가 되며 JBI Q7(race ascertainment) undercount로 Moderate로 분류(재스크리닝 회수분 포함 최종 RoB Low 45 / Moderate 13, 58편).
