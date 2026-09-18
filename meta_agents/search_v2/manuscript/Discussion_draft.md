@@ -104,12 +104,10 @@ were scattered across separate registry reports—each with its own reference gr
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
 can be read against one another and against their aggregates in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
-separates cells corroborated by two or more independent sources (38 of the 85 analytic cells) from
-those resting on a single study (47), and it shows where independent sources agree—most cells—and
-where they diverge, chiefly the near-null AANHPI subgroups and the ascertainment-dependent AI/AN
-comparison noted above. Reviewing the studies jointly rather than singly shows that the wide within-aggregate
-heterogeneity is reproducible across independent registries and stable under the sensitivity
-restrictions, so the pattern does not depend on any one data source. Third, it makes the evidence
+separates the cells corroborated by two or more independent sources (38 of the 85 analytic cells)
+from those resting on a single study (47); where two or more sources are available they agree in
+most cells, diverging chiefly in the near-null AANHPI subgroups and the ascertainment-dependent
+AI/AN comparison. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
 subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
 source, and the AI/AN regional and national aggregate figures are point estimates without a
