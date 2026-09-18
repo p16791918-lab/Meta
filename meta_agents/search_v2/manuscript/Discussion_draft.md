@@ -96,9 +96,8 @@ narrative synthesis were not quantified, and grey literature was not searched. S
 full-text selection, and extraction were carried out by a single reviewer with large-language-model
 assistance rather than by two independent reviewers. To limit studies missed by this
 single-reviewer screening, the excluded records were re-screened at the full abstract with an
-explicit keyword filter; because the relaxed four-of-five-signal threshold recovered
-reports that stated a needed term only in a table, the residual risk of a missed study is
-confined to reports whose abstracts omit two or more of the screening signals.
+explicit keyword filter, leaving the residual risk of a missed study confined to reports whose
+abstracts omit two or more of the screening signals.
 
 What this review adds beyond the individual studies is threefold. First, it places estimates that
 were scattered across separate registry reports—each with its own reference group, standard
