@@ -17,8 +17,7 @@ with one representative population-based estimate per cell (in place of statisti
 non-independent registry estimates); the provenance tiering and the coverage-based rule for
 choosing a representative, including the preference for Indian Health Service (IHS)–linked sources for
 AI/AN populations; the receptor-defined subtype and age-band cells; the four restriction-based
-sensitivity analyses; and the reclassification of four reports from the narrative to the
-quantitative synthesis after their source tables were re-verified as page images.
+sensitivity analyses.
 
 ### Search strategy
 Four databases were searched on 7 August 2026: MEDLINE via PubMed, Embase (embase.com
