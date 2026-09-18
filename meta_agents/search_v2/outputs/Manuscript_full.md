@@ -225,9 +225,8 @@ the inclusion criteria but did not provide a recoverable NHW comparison were not
 placed on the IRR scale; these were summarized narratively by racial or ethnic group and outcome.
 Analyses were carried out in Python 3 using SciPy.
 
-All quantitative results were generated from a single master extraction dataset: the main-text
-table, the forest figures, and the sensitivity tables were all regenerated from it and cross-checked
-so that each displayed estimate and each sensitivity baseline traces to the same underlying value.
+All quantitative results were generated from a single master extraction dataset, from which the
+main-text table, the forest figures, and the sensitivity tables were regenerated.
 
 ## Results
 
