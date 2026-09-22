@@ -126,8 +126,9 @@ were scattered across separate registry reports—each with its own reference gr
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
 and their aggregates can be seen together in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
-separates the cells supported by more than one source, each from a different registry family (38 of
-the 85 analytic cells), from those resting on a single study (47). These sources are not fully
+separates the cells that more than one study could fill (38 of the 85 analytic cells, and in 27 of
+those the studies come from at least two different registry families) from those resting on a single
+study (47). These sources are not fully
 independent—US registries are nested, so publications from different families can still draw on
 overlapping cases—but where more than one is available they agree in
 most cells, diverging chiefly in the near-null AANHPI subgroups and the ascertainment-dependent
