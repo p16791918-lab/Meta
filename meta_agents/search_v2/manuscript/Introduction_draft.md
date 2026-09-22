@@ -12,7 +12,7 @@ Race and ethnicity are recorded in a few broad categories, and rates differ with
 
 These estimates are dispersed across separate studies. They are drawn from cancer registries whose populations overlap, and from different periods, age-standardization methods, and reference groups—some studies comparing against White women, others specifically against NHW women. Because many draw on the same or nested registry populations, their estimates are not independent, and combining them directly counts some women more than once. Comparing them therefore calls for gathering the disaggregated estimates across registries, reducing overlapping ones to a single representative, and appraising the quality of what remains.
 
-We reviewed U.S. studies of breast cancer incidence by race and ethnicity and combined them as incidence rate ratios (IRRs) relative to NHW women. The focus was on the disaggregated AANHPI and Hispanic-origin subgroups, on AI/AN women by region, and on the main receptor-defined subtypes. The main analysis retains one representative population-based estimate per registry family, and each contributing study was appraised with the Joanna Briggs Institute checklist for studies reporting prevalence and incidence data.
+We reviewed U.S. studies of breast cancer incidence by race and ethnicity and combined them as incidence rate ratios (IRRs) relative to NHW women. The focus was on the disaggregated AANHPI and Hispanic-origin subgroups, on AI/AN women by region, and on the main receptor-defined subtypes. The main analysis retains one representative population-based estimate per analytic cell, and each contributing study was appraised with the Joanna Briggs Institute checklist for studies reporting prevalence and incidence data.
 
 ---
 

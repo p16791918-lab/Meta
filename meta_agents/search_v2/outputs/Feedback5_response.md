@@ -31,3 +31,15 @@
 - **Supplementary Note 1 표현 정정**: rec 2 항목의 "IRR is invariant to the 20+ vs all-age standard"도 단정적 표현이므로 "essentially unaffected"(0–19세가 분자·분모에 거의 기여하지 않음)로 완화.
 
 - **경험적 근거는 별도로 유지**: 표준인구 제한 민감도분석(2000 US 표준으로 제한)에서 85셀 중 83셀이 불변, 2셀만 변경(1960 Segi 표준 대표가 2000 US 표준 추정치로 교체, HR− 1.80→1.60, HR+ 0.82→0.70)이라는 결과는 그대로 보고. 이는 "표준인구가 비율에 영향이 없다"는 주장이 아니라, 이 자료에서는 대부분 대표값이 이미 2000 US 표준이어서 실제 영향이 제한적이었다는 경험적 관찰로 기술.
+
+---
+
+## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
+
+- **중복 제외 vs 서술적 종합 잔류 — 실제 적용 규칙을 Methods에 명시**: 제외된 83편 중 51편이 연례/주기적 통계 시리즈의 **이전 연도판**(Breast cancer statistics 2015·2019, Cancer statistics for African Americans 2016·2022, Annual Report to the Nation 1973–1999 ~ 1975–2014 등)임을 확인. 즉 실제로는 "**시리즈별로 최신 적격판 1편만 남기고 이전 판은 중복으로 제외**"하는 규칙이 적용되고 있었으나 Methods에 서술되지 않아 지적된 불일치가 발생. Methods 적격기준에 해당 규칙과, **남긴 최신판은 해당 registry·기간의 발생률을 전담 primary 연구가 이미 제공하므로 대표값 후보로 쓰지 않고 서술적 종합에만 기여**한다는 점을 명시. 이로써 Giaquinto 2024(rec 0, Breast cancer statistics 2024)와 Saka 2025(rec 4294, Cancer statistics for African American and Black people 2025)가 같은 사유로 narrative에 남는 근거가 드러남.
+
+- **Li 2025 분류 사유 수정**: 해당 연구는 rec 46(JAMA Netw Open 2025, SEER 22개 레지스트리 2010–2019, joinpoint 연간변화율 분석)으로 확인. 종전 표기 "single poolable estimate가 아님"은 pooling을 하지 않는 현재 분석 방식과 맞지 않으므로, 실제 사유인 **"연간 추세(annual percentage change)로만 보고해 단면 연령표준화율·비율을 추출할 수 없음"**으로 교체.
+
+- **Supplementary Table 2의 narrative 사유 전면 실제화**: 점검 결과 narrative 118편 중 **103편이 "No recoverable NHW comparison" 한 문구로 일괄 표시**되고 있었음(개별 사유 부여는 15편). 실제 사유는 시리즈 재보고 9, 추세만 28, 사회경제적 비교 6, 비미국 비교군 5, 비율 아님(PIR 등) 5, 그림 전용 4 등으로 다양하므로, 적격성 기록에 사유가 있는 경우 그 사유를 유형별 문구로 표시하도록 수정 → **개별 사유 표시가 15편에서 57편으로 확대**. 사유 기록이 없는 나머지는 포괄 사유("NHW 기준 연령표준화율·비율을 복구할 수 없음")로 표시하고, 어떤 경우에 개별 사유가 표시되고 어떤 경우에 포괄 사유가 표시되는지를 Supplementary Table 2 Note에 명시.
+
+- **대표값 선정 단위 표기 통일**: Introduction("one representative population-based estimate per registry family"), Table 1 Note("one per registry family"), 본문 표·그림 Note에 남아 있던 **"per registry family"를 Methods의 "per analytic cell"로 통일**. registry family는 셀 내부의 중복 판정 단위로만 쓰인다는 점을 작성 지침에도 반영.

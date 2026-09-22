@@ -151,18 +151,34 @@ for e in rd("ft_eligibility.csv"):
     if e.get("ft_decision") == "include-narrative":
         rsn = ((e.get("ft_reason", "") or "") + " " + (e.get("note", "") or "")).lower()
         rid = e.get("record_id", "")
-        if "trend" in rsn and "poolable" in rsn:
-            _narr[rid] = ("A race–NHW breast IRR is reported, but as an annual trend, not a single "
-                          "poolable estimate")
-        elif "secondary synthesis" in rsn or "not pooled to avoid" in rsn or "duplicat" in rsn:
-            _narr[rid] = ("Re-reports registry incidence already quantified from a dedicated primary "
-                          "study for the same registry and period")
+        if "secondary synthesis" in rsn or "not pooled to avoid" in rsn or "duplicat" in rsn:
+            _narr[rid] = ("Most recent edition of a recurring statistics series; re-reports registry "
+                          "incidence already provided by the dedicated primary study for that "
+                          "registry and period")
+        elif "trend" in rsn or "apc" in rsn or "annual percent" in rsn:
+            _narr[rid] = ("Reports incidence as an annual trend (annual percentage change) rather "
+                          "than a cross-sectional age-standardized rate or ratio, so no cell "
+                          "estimate could be extracted")
+        elif "pir" in rsn or "proportional incidence" in rsn:
+            _narr[rid] = ("Reports a proportional incidence measure rather than an age-standardized "
+                          "incidence rate, so no rate ratio could be extracted")
+        elif "figure" in rsn or "graph" in rsn:
+            _narr[rid] = ("Race-specific rates appear only in a figure without the underlying "
+                          "values, so no cell estimate could be extracted")
+        elif "sep" in rsn or "socioeconomic" in rsn or "ses-grad" in rsn or "rii" in rsn:
+            _narr[rid] = ("Reports incidence by socioeconomic position rather than an NHW-referenced "
+                          "race comparison")
+        elif "non-us" in rsn or "migrant" in rsn or "osaka" in rsn:
+            _narr[rid] = ("The comparison group is a non-U.S. population, so no NHW-referenced "
+                          "estimate could be extracted")
 
 
 def _role(r):
     g = r.get("synth_group", "")
     if g == "narrative":
-        return _narr.get(r.get("record_id", ""), "No recoverable NHW comparison")
+        return _narr.get(r.get("record_id", ""),
+                         "No NHW-referenced age-standardized rate or ratio could be recovered "
+                         "from the report")
     if g == "quant-eligible":
         return "Quant-eligible; no extractable data"
     c = _rep.get(r.get("record_id", ""))
@@ -205,7 +221,10 @@ P("Role in synthesis summarises, for each study, how it was used: “Representat
   "also contributed M overlapping estimates kept only for the sensitivity re-selection; "
   "“Overlap/sensitivity only” — every estimate overlapped an already-represented cell. For the "
   "studies under “Narrative synthesis only” the column instead gives the reason no quantitative "
-  "estimate was taken. The cell-by-cell selection status and the reason each estimate was or was "
+  "estimate was taken: the specific reason where the eligibility record states one (a recurring "
+  "statistics series, an annual-trend-only report, a proportional incidence measure, values shown "
+  "only in a figure, a socioeconomic rather than racial comparison, or a non-U.S. comparison "
+  "group), otherwise the general reason that no NHW-referenced rate or ratio could be recovered. The cell-by-cell selection status and the reason each estimate was or was "
   "not chosen as the representative are given in Supplementary Table 4 (main-analysis column).", True)
 PB()
 

@@ -52,7 +52,8 @@ Introduction rewrite (v9).
 12. Do **not** present a pooled random-effects IRR, I², or τ² as a primary result (2nd-round
     feedback §5): estimates within a group come from overlapping/nested registry populations
     and are not independent. The primary result is one representative population-based estimate
-    per registry family; any pooling is at most a secondary consistency/sensitivity check.
+    per analytic cell (group x dimension), with registry family used to judge overlap within a cell;
+    any pooling is at most a secondary consistency/sensitivity check.
 13. Do **not** describe the representative estimate as a meta-analytic pooled value (2nd-round
     feedback §6): call it a "representative population-based estimate" and state its selection
     criteria. Do **not** call it a "contemporary benchmark" (4th-round feedback §5): diagnosis
