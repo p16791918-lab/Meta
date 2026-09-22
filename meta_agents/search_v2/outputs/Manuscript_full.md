@@ -89,17 +89,22 @@ kinds were retained because the reference and minority rates came from the same 
 each study. The review was
 limited to U.S.-resident populations. Reviews, editorials, letters, conference abstracts, preprints (not peer-reviewed),
 non-U.S. studies, reports that did not present invasive female breast cancer incidence by race or
-ethnicity, and mortality- or survival-only reports were excluded. A publication that re-reported an
-estimate already captured from the same registry, diagnosis period, and population was excluded as
-a duplicate dataset; a publication drawing on the same registry family but a different period,
-region, or subset provided a distinct estimate and was retained as an overlapping estimate for the
-sensitivity analysis, not excluded; overlap handling is described under Selection of a representative population-based estimate.
-Recurring statistics series—the annual cancer-statistics reports and the Annual Report to the
-Nation—re-report incidence for largely the same registries and periods from one edition to the next.
-For each series the most recent eligible edition was retained and the earlier editions were excluded
-as duplicates. Because a retained edition re-reports registry incidence that the dedicated primary
-study for that registry and period already provides, it was not treated as a candidate
-representative and contributes only to the narrative synthesis.
+ethnicity, and mortality- or survival-only reports were excluded.
+
+A publication that re-reported an estimate already captured from the same registry, diagnosis
+period, and population was not an independent estimate, so it was never a candidate representative.
+Two such cases were distinguished by whether another included publication already carries the same
+content. A report whose content is carried by an included publication adds nothing to the review and
+was excluded as a duplicate dataset: this covers the earlier editions of a recurring statistics
+series and the preprint or book-chapter version of an included analysis (55 reports, 51 of them
+earlier editions of the annual cancer-statistics reports or the Annual Report to the Nation). The
+most recent eligible edition of such a series is the only edition carrying that series' current
+account, so it was retained in the review; because the registry incidence it reports is already
+provided by the dedicated primary study for that registry and period, it contributes only to the
+narrative synthesis. Separately, a publication drawing on the same registry family but a different
+period, region, or subset provided a distinct estimate and was retained as an overlapping estimate
+for the sensitivity analysis, not excluded; overlap handling is described under Selection of a
+representative population-based estimate.
 
 ### Study selection and data extraction
 Records were de-duplicated across databases (4,306 duplicates removed, leaving 4,793 unique
