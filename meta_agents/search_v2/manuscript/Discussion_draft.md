@@ -50,7 +50,11 @@ differences run together. The unlinked estimate covers 1999–2015 and the IHS-l
 and the AI/AN ratio rose over that interval. The IHS-linked figure is confined to
 Purchased/Referred Care Delivery Area counties, and that restriction applies to the NHW comparison
 group as well, so its numerator and denominator both describe a different population from the
-national one. Only the third difference—how AI/AN race was ascertained—is the linkage itself. Among IHS-linked national estimates the ratio also rose over time, from 0.63
+national one. Those counties contain or adjoin federally recognized tribal lands and hold about 53%
+of the U.S. AI/AN population, with regional coverage from 16% in the East to all of Alaska,⁵³ so the
+IHS-linked figures describe about half of this population rather than the whole of it, and the
+better-covered regions are those where AI/AN residents make up a larger share of the county
+population. Only the third difference—how AI/AN race was ascertained—is the linkage itself. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
 widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an
