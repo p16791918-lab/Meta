@@ -18,8 +18,8 @@ with how it was derived, so each is reproducible. Estimates reported by the sour
     √[(SE_min/std_min)² + (SE_nhw/std_nhw)²]. Provenance =
     `computed-from-rates-with-CI` (e.g., TNBC Black 1.82 [1.70, 1.95],
     HR+/HER2− AANHPI 0.69 [0.66, 0.72]).
-  - IRR is invariant to the 20+ vs all-age standard (ages 0–19 contribute ≈0 to
-    both numerator and denominator).
+  - IRR is essentially unaffected by the 20+ vs all-age standard (ages 0–19
+    contribute ≈0 to both numerator and denominator).
 
 - **rec 419 (Amirikia 2011, CCR).** Table 2 gives TNBC rates by 5 age groups
   (0–39, 40–49, 50–59, 60–74, ≥75) per race; standardized to the 2000 US standard
