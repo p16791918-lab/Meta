@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Build the registry-overlap characterization table (Table S-A) for included
 studies, so non-independent (overlapping) registry data can be collapsed to one
-representative estimate per registry family in the quantitative synthesis.
+representative estimate per analytic cell in the quantitative synthesis
+(registry family is the unit used to judge overlap within a cell).
 
 For each included study (ft_eligibility.csv include-*), extract from the full text:
   - registry system  : SEER version(s), USCS(NPCR+SEER), NAACCR/CiNA, or the

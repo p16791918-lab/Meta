@@ -52,12 +52,13 @@ for r in t1:
         cur = r["dimension"]
         tbl["rows"].append({"section": cur})
     tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
-                        "%s (%s)" % (cite(r["study"]), r["period"]),
+                        "%s%s (%s)" % (cite(r["study"]), r.get("ref", ""), r["period"]),
                         r.get("registry", ""), r["rob"]])
 # Note placed below the table (analysis method, comparator, symbols, abbreviations only).
 P("Note. Each cell shows one representative population-based estimate — the most recent, "
   "broadest-coverage registry estimate per analytic cell — not a pooled estimate; the "
   "selection rule and its robustness are given in the Methods and Supplementary Table 6. "
+  "Each representative study is followed by its number in the reference list. "
   "The effect measure is the incidence rate ratio (IRR) unless marked as a standardized "
   "incidence ratio (SIR); comparisons are versus non-Hispanic White (NHW) women. "
   "† the study's reference was an unstratified White group (not stratified by Hispanic "

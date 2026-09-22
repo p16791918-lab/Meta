@@ -18,6 +18,7 @@ def GT(groups, subs, rows, w): M.append({"type": "gtable", "groups": groups, "su
 def ST(rows, w): M.append({"type": "stable", "rows": rows, "widths": w})
 def PB(): M.append({"type": "pagebreak"})
 def rd(p): return list(csv.DictReader(open(os.path.join(HERE, p), encoding="utf-8")))
+from ref_numbers import cite_ref
 from labels import disp_group, disp_dim, disp_comparator
 def cite(ay): return re.sub(r"\s*(\d{4})", r" \1", ay.split("_")[0]).strip()  # Kohler2015_SEER18 -> Kohler 2015
 # First-author labels for the included studies, derived offline from the raw
@@ -241,7 +242,7 @@ rep = rd("TableSA_main_representatives.csv")
 rows = []
 for r in rep:
     irr = r["irr"]; ci = f" [{r['irr_ci_lo']}, {r['irr_ci_hi']}]" if r['irr_ci_lo'] else ""
-    rows.append([cite(r["author_year"]), disp_dim(r["outcome_dim"]), disp_group(r["minority_group"]),
+    rows.append([cite(r["author_year"]) + cite_ref(r["record_id"]), disp_dim(r["outcome_dim"]), disp_group(r["minority_group"]),
                  disp_comparator(r.get("comparison_vs", "")), r["registry_family"], r["period"],
                  (r.get("std_pop", "") or "—"), (irr + ci) if irr else "-",
                  r["main_analysis"]])
@@ -255,6 +256,7 @@ _S4N = len(rows)
 _S4REP = sum(1 for r in rows if r[-1].startswith("yes"))
 _S4ANCH = sum(1 for r in rows if "anchor" in r[-1])
 P("Note. This table lists every extracted estimate, not only the ones carried into the main analysis; the “Main analysis” column says which role each plays. Of the %d rows, %d are the representative selected for one analytic cell (group × dimension) — the broadest-coverage, most recent source with an appropriate population definition and standardization, a population-based estimate rather than a pooled one — and the remaining %d are overlaps and demoted or anchor records. Excluding the %d registry-direct anchor rows, which are reference values rather than screened studies, leaves the %d extracted estimates reported in the text. Overlapping estimates from nested registries (county ⊂ state ⊂ SEER; SEER and NPCR feed USCS) are not independent and are retained only for the sensitivity re-selection." % (_S4N, _S4REP, _S4N - _S4REP, _S4ANCH, _S4N - _S4ANCH), True)
+P("Study: the author and year, followed by the study's number in the reference list.", True)
 P("Registry family: SEER-national = the pooled SEER 9/13/17/18/21/22 registries; USCS = United States Cancer Statistics, which pools SEER and NPCR to cover nearly the entire U.S. population; NAACCR = the North American Association of Central Cancer Registries; NPCR = the National Program of Cancer Registries; IHS-PRCDA = an Indian Health Service Purchased/Referred Care Delivery Area linkage that improves ascertainment of AI/AN cases; ANTR = the Alaska Native Tumor Registry; California-CCR = the California Cancer Registry; and “State: X” = a single state central registry (for example, Texas, Louisiana, or Massachusetts).", True)
 P("Comparator: the reference is shown as each source defined it — non-Hispanic White (NHW) where the source stratified by Hispanic origin, or “White (not NH-stratified)” otherwise (concentrated in the receptor-defined subtypes and AI/AN comparisons). The reference and minority rates come from the same source, period, and standard population, so each IRR is internally valid even where the reference is unstratified White; Supplementary Table 6c restricts to NHW-comparator estimates.", True)
 P("Standard population: age-standardized to the 2000 U.S. standard unless the “Std pop” column shows otherwise. Each rate ratio is formed within one study, so its numerator and denominator share that study's standard population, period, and region and the ratio is internally consistent. The ratio does not, however, cancel the standard population — the age-specific rates of two groups differ in shape, so a different set of standard weights would shift their standardized rates, and their ratio, by different amounts — nor does it make estimates from different studies mutually comparable, because their standard populations, periods, and regions still differ.", True)

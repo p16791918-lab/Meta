@@ -28,7 +28,7 @@ Conclusion → References.
 | **Figure 3** | Heatmap — IRR by racial/ethnic group × analytic dimension (overall, age, receptor subtypes, TNBC) | `Fig_heatmap.png` | Feedback #11 (pattern shifts by dimension) |
 
 **No meta-analysis results table anywhere.** The main analysis selects one
-representative per registry family — it does not pool — so no pooled IRR, k, I², or
+representative per analytic cell — it does not pool — so no pooled IRR, k, I², or
 Cochran's Q p is presented as a result. A naive pool of the all-included
 overlapping estimates was examined only as an internal consistency check (its
 I² ≈ 99–100% reflects the non-independence of overlapping registry data, which is

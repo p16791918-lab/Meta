@@ -215,7 +215,7 @@ def main():
               % (name, d["irr"], d["tau2"], d["I2"], d["lo_z"], d["hi_z"], d["lo_hk"], d["hi_hk"]))
     print("\n  -> DL and PM/REML tau^2 differ; HKSJ widens the CI vs z (t_{k-1}).")
     print("  -> High I^2 here reflects NON-INDEPENDENT overlapping registry data;")
-    print("     the MAIN analysis uses one representative per registry family instead.")
+    print("     the MAIN analysis keeps one representative per analytic cell instead.")
 
     # ---- MAIN forest: one representative estimate per group, per dimension ----
     print("\n" + "=" * 92)

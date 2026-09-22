@@ -9,6 +9,8 @@ from labels import disp_group
 import os
 from collections import defaultdict
 
+from ref_numbers import cite_ref
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "outputs")
 REPS = os.path.join(HERE, "TableSA_main_representatives.csv")
@@ -105,7 +107,7 @@ def main():
             eff = "SIR" if "SIR" in pv else "IRR"
             rows.append(dict(dimension=seclabel(g), outcome_dim=dim, group=g,
                              effect=eff, estimate=est,
-                             study=auth, period=period,
+                             study=auth, ref=cite_ref(r["record_id"]).strip(), period=period,
                              registry=r.get("registry_family", ""),
                              rob=qual.get(r["record_id"], "NA")))
 
@@ -113,7 +115,7 @@ def main():
     # section heading (the AANHPI dimension is shown as two sections). Carrying the
     # raw dimension lets the cross-check pair each Table 1 cell with its figure row.
     cols = ["dimension", "outcome_dim", "group", "effect", "estimate", "study",
-            "period", "registry", "rob"]
+            "ref", "period", "registry", "rob"]
     with open(os.path.join(OUT, "Table1_main.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     with open(os.path.join(OUT, "Table1_main.md"), "w", encoding="utf-8") as f:

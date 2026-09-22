@@ -106,3 +106,17 @@
 - **지역값·비교군 표시 일치 확인**: Figure 2가 실제로 그린 27개 행 전부를 Table 1과 1:1 대조 — 새로 넣은 AI/AN 지역 4건(Southwest 0.57·East 0.61·Pacific Coast 0.93·Northern Plains 1.05)이 모두 "(point est.)"로 표와 동일하게 표시되고, † 표기는 Alaska Native 1.09 [0.99–1.21] 한 건으로 표·그림이 일치하며 그 외 행에 잘못 붙은 †는 없음. ‡ 표기(리뷰 계산 구간)도 전 행 일치. **불일치 0건.**
 
 - **재발 방지 점검 추가**: 표와 그림이 다시 어긋나지 않도록 교차점검에 **[I] Table 1 vs 본문 그림** 항목을 신설 — Table 1의 38개 cell과 **Figure 2가 실제로 그린 27개 행**을 각각 **값·구간·† 표기·‡ 표기 네 가지 모두** 대조(총 65건). Figure 2는 행 목록을 코드에 직접 적는 방식이라 입력 파일만 대조하면 *행이 빠지거나 다른 cell을 가리키는* 오류를 못 잡으므로, 그림 생성 시 **실제로 그린 내용을 별도 파일로 남기고** 그것을 검사 대상으로 삼음. 검사가 실제로 작동하는지는 고의로 값·구간·† 세 가지를 틀리게 넣어 **3건 모두 검출됨**을 확인. 현재 65/65 통과. 대조를 정확히 하기 위해 Table 1 출력에 analytic dimension 열을 추가(표의 섹션 제목은 표시용이라 AANHPI가 두 섹션으로 나뉘어 있었음). 전체 교차점검 A–I 전부 통과.
+
+---
+
+## 전체 검수 (7개 항목 + 작성지침)
+
+- **7개 항목 재검수**: 각 항목의 수정이 실제 파일에 반영됐는지 21개 항목으로 기계 점검 — Miller 자료원 정정·Native Hawaiian 대표 1.270·Kong 역수(0.96, provenance)·Goggins registry subset(1번), 표준인구 비상쇄 서술과 S4 Note(2번), SIR 제외 필터·네 표 dropped 제시·변경 전후 연구 병기(3번), RoB 41/17·분산 없는 Q8=Yes 0건·평가단위 명시(4번), 중복 제외 vs narrative 잔류 기준(5번), independent 표현 삭제·PRCDA 53%·세 요인 기술(6번), Figure 2의 AI/AN 7개 지역·† 1건·forest 85 cell(7번) **전부 확인**. 교차점검 A–I도 전부 통과.
+
+- **작성지침 대조**: 금지 표현(수사적 동사, 절대 표현, LLM 상투구, 1인칭 단수, 폐기 용어 API·Asian/Pacific Islander·Blacks/Whites, "contemporary benchmark")을 본문 전체에 기계 검색 → **위반 0건**. 문장 길이 분산도 각 섹션 표준편차 17–30 단어(최단 4–10, 최장 87–124)로 단조롭지 않음. 인용 분산 원칙에 따라 4개가 묶여 있던 곳 1건(AI/AN 지역 범위 + Navajo)을 **지역 보고(¹⁰,⁵³)와 Navajo Nation 분석(⁴⁸)으로 분리**하고, 해당 claim을 뒷받침하지 않는 전국 unlinked 연구(⁴⁴) 인용은 제거.
+
+- **선정 단위 표기 잔여분 정리**: 1·5번에서 Introduction·Table 1의 "per registry family"를 "per analytic cell"로 통일했으나, 내부 산출물과 코드 주석(results_tables.py, meta_analysis_v2.py, make_registry_overlap.py, MANUSCRIPT_VS_SUPPLE.md)에 같은 표현이 남아 있어 함께 통일. 제출 문서에는 영향 없음.
+
+- **참고문헌 도달성 결함 발견·수정**: 참고문헌 64건 중 **39건이 본문·표 어디에서도 인용되지 않아** 번호가 가리켜지지 않는 상태였음(추정치를 공급한 연구들이 Table 1·Supplementary Table 4에 저자·연도로만 표기되고 번호가 없었기 때문). 두 표의 연구 칸에 **참고문헌 번호를 대괄호로 병기**(예: "Ellington 2022 [25]", "Melkonian 2019 [53]")하고 각 표 Note에 그 의미를 명시 → **64건 전부 도달 가능**. 표 셀은 위첨자로 조판되지 않으므로 대괄호를 사용.
+
+- **은퇴 파일 정리**: 더 이상 어디에서도 참조되지 않는 `manuscript/References_draft.md`(구 초안 참고목록) 삭제. 현재 참고목록은 `References_complete.md` 단일본.

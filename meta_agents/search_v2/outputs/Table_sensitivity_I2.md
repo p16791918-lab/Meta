@@ -1,6 +1,6 @@
 # Table. Between-study heterogeneity: all-included (sensitivity) vs one-per-family (main)
 
-Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); high I2 reflects non-independent overlapping registry data. Main = single representative per registry family.
+Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + HKSJ CI); high I2 reflects non-independent overlapping registry data. Main = the single representative kept for that analytic cell.
 
 | Dimension | Group | k | Model | Sensitivity IRR (95%% CI) | I2%% | Q p | Main IRR (95%% CI) | HKSJ unstable (k<3) |
 |----|----|----|----|----|----|----|----|----|

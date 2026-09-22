@@ -122,7 +122,7 @@ def main():
                 "vs one-per-family (main)\n\n")
         f.write("Sensitivity = all overlapping estimates pooled (Paule-Mandel tau2 + "
                 "HKSJ CI); high I2 reflects non-independent overlapping registry data. "
-                "Main = single representative per registry family.\n\n")
+                "Main = the single representative kept for that analytic cell.\n\n")
         f.write("| Dimension | Group | k | Model | Sensitivity IRR (95%% CI) | I2%% | Q p | Main IRR (95%% CI) | HKSJ unstable (k<3) |\n")
         f.write("|----|----|----|----|----|----|----|----|----|\n")
         for r in srows:
@@ -149,8 +149,8 @@ def main():
         f.write("\nDL and Paule-Mandel/REML tau2 differ; HKSJ widens the CI relative "
                 "to the z-based interval. The high I2 is attributable to pooling "
                 "non-independent overlapping registry estimates, not to real "
-                "biological heterogeneity; the main analysis avoids it by using one "
-                "representative per registry family.\n")
+                "biological heterogeneity; the main analysis avoids it by keeping one "
+                "representative per analytic cell.\n")
     # ---- per-cell estimator comparison (DL vs PM/REML vs HKSJ) ----
     ec = []
     for (dim, grp), cr in cells.items():

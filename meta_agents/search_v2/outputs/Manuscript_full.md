@@ -397,8 +397,9 @@ is the representative estimate from a separate study placed on the common NHW sc
 it: Gomez and colleagues first documented the variation among Asian American subgroups,⁵ which the
 present estimates span over the most recent SEER period;³¹ the high burden in Native Hawaiian
 women echoes reports from Hawaii;²⁴ the Hispanic gradient reproduces that described among
-first-generation U.S. Hispanics;⁸ the AI/AN regional range and the low Navajo-area rate align with
-prior regional and tribal analyses;¹⁰,⁴⁴,⁴⁸,⁵³ and the higher TNBC incidence in NHB women is
+first-generation U.S. Hispanics;⁸ the AI/AN regional range follows the pattern in earlier
+Indian Health Service–linked regional reports,¹⁰,⁵³ and the low Navajo-area rate that in the Navajo
+Nation registry analysis;⁴⁸ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²³ The relative ordering of groups also shifts with
 the outcome examined (Figure 3).
 
