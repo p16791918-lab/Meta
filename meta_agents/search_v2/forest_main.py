@@ -19,7 +19,15 @@ for r in csv.DictReader(open(SRC, encoding="utf-8")):
                                        r.get("ci_source", "reported"),
                                        r.get("comparator", "NHW"))
 
+# The rows below name their cells by hand, so record which cell each drawn row
+# took its numbers from. crosscheck_master check I reads the sidecar and pairs
+# every drawn row with its Table 1 cell; without it the check could only compare
+# Table 1 with the figure's input file, not with what the figure put on the page.
+_KEYS = []
+
+
 def g(dim, grp):
+    _KEYS.append((dim, grp))
     return d[(dim, grp)]
 
 blocks = [
@@ -75,6 +83,15 @@ for bi, (title, items) in enumerate(blocks):
         rows.append(("point", y) + it)
         y -= 1.0
 ymin = y
+
+with open(os.path.join(OUT, "_fig2_rows.csv"), "w", newline="", encoding="utf-8") as _f:
+    _w = csv.writer(_f)
+    _w.writerow(["label", "dimension", "group", "irr", "ci_lo", "ci_hi", "comparator", "ci_source"])
+    _drawn = [r for r in rows if r[0] == "point"]
+    assert len(_drawn) == len(_KEYS), "drawn rows and recorded cells disagree"
+    for (dim, grp), row in zip(_KEYS, _drawn):
+        _, _y, _lab, _irr, _lo, _hi, _csrc, _cmp, _agg = row
+        _w.writerow([_lab, dim, grp, _irr, _lo, _hi, _cmp, _csrc])
 
 fig, ax = plt.subplots(figsize=(10.5, 12.2))
 fig.subplots_adjust(left=0.34, right=0.80, top=0.96, bottom=0.05)

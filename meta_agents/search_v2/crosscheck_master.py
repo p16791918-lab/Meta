@@ -465,6 +465,39 @@ def check_I():
         if ("\u2021" in est) != (f.get("ci_source") == "computed"):
             fails.append(("I-provenance", r["group"],
                           "Table 1 %s vs forest ci_source %s" % (est, f.get("ci_source"))))
+
+    # Figure 2 names its rows by hand, so checking Table 1 against the figure's
+    # input file would not catch a row that names the wrong cell or is left out.
+    # forest_main.py records what it drew; pair each drawn row with Table 1.
+    fig = os.path.join(OUT, "_fig2_rows.csv")
+    if os.path.exists(fig):
+        t1 = {}
+        for r in csv.DictReader(open(t1p, encoding="utf-8")):
+            t1[(r["outcome_dim"], norm_g(r["group"]))] = r["estimate"]
+        for r in csv.DictReader(open(fig, encoding="utf-8")):
+            key = (r["dimension"], norm_g(r["group"]))
+            est = t1.get(key)
+            if est is None:
+                continue          # the figure may show a cell Table 1 does not list
+            checked += 1
+            lo, hi = num(r["ci_lo"]), num(r["ci_hi"])
+            drawn = ("%s (point est.)" % r["irr"] if close(lo, hi, 1e-12)
+                     else "%s [%s, %s]" % (r["irr"], r["ci_lo"], r["ci_hi"]))
+            if r.get("comparator") != "NHW":
+                drawn += " \u2020"
+            if r.get("ci_source") == "computed" and not close(lo, hi, 1e-12):
+                drawn += " \u2021"
+            t_irr = num(est.split("[")[0].split("(")[0].strip())
+            ok = t_irr is not None and close(t_irr, num(r["irr"]), 1e-6)
+            ok = ok and (("point est." in est) == close(lo, hi, 1e-12))
+            if ok and "[" in est:
+                tl, th = [num(x) for x in est.split("[")[1].split("]")[0].split(",")]
+                ok = close(tl, lo, 1e-6) and close(th, hi, 1e-6)
+            ok = ok and ("\u2020" in est) == ("\u2020" in drawn)
+            ok = ok and ("\u2021" in est) == ("\u2021" in drawn)
+            if not ok:
+                fails.append(("I-figure", r["label"],
+                              "Figure 2 draws %s; Table 1 has %s" % (drawn, est)))
     return checked, fails
 
 
