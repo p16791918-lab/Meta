@@ -158,6 +158,15 @@ response rate, so each study's rating used the eight applicable items: low risk 
 most one "No" with a "Yes" on the two key items—valid measurement (item 7, including race and
 ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance);
 three or more "No" ratings gave high risk of bias, and any other combination a moderate rating.
+Each study was appraised as the source of the estimates taken from it here, not as a whole
+publication: items that depend on the estimate—in particular the variance requirement in item
+8—were judged on the estimates extracted for this review, counting a variance as available when the
+source printed an interval or when one could be recovered from what the source reports. A study
+whose extracted estimates carry no interval therefore rates "No" on item 8 whether or not the source
+printed the ratio itself, which places a point estimate without a variance at moderate rather than
+low risk of bias. That rating reflects incomplete reporting of uncertainty rather than evidence that
+the estimate is biased, and it is the reason several large registry analyses that report ratios
+without intervals are rated moderate.
 Certainty of evidence was not graded, the review being descriptive rather than an estimate of a
 causal effect.
 

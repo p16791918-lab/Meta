@@ -1,11 +1,16 @@
 # Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)
 
-Cells: 85 total — unchanged 59, changed 14, dropped 12.
+Cells: 85 total — unchanged 54, changed 19, dropped 12.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
 | Dimension | Group | Main IRR (rec) | Sensitivity IRR (rec) | Status |
 |----|----|----|----|----|
+| AIAN | AIAN (East) | 0.61 (2510) | 0.53 (134) | **changed** |
+| AIAN | AIAN (Northern Plains) | 1.05 (2510) | 0.89 (134) | **changed** |
+| AIAN | AIAN (Pacific Coast) | 0.93 (2510) | 0.52 (134) | **changed** |
+| AIAN | AIAN (Southwest) | 0.57 (2510) | 0.41 (134) | **changed** |
+| aggregate-vs-NHW | AIAN | 0.87 (2510) | 0.63 (134) | **changed** |
 | disaggregated-AANHPI | Asian American (aggregate) | 0.792 (234) | 0.703 (4027) | **changed** |
 | disaggregated-AANHPI | Asian Indian/Pakistani | 0.958 (234) | 0.791 (4027) | **changed** |
 | disaggregated-AANHPI | Chinese | 0.760 (234) | 0.616 (4027) | **changed** |

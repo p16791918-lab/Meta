@@ -2,7 +2,7 @@
 
 Nine JBI items rated Yes/No/Unclear/NA. Q9 (response rate) is recorded NA for every study because census-like registry ascertainment has no survey response rate; NA is not counted as a defect. Overall risk of bias uses the eight applicable items: **Low** = 0-1 No and Q7 (measurement) = Yes and Q8 (analysis) = Yes; **High** = 3 or more No; **Moderate** = otherwise (including any single No on the key items Q7 or Q8). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
+Overall (58 studies): {'Low': 41, 'Moderate': 17}. Main-analysis representatives: {'Low': 16, 'Moderate': 6}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -15,7 +15,7 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 51 | Nash2022 | ANTR (Alaska Native Tumour | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 66 | Hendrick2021_SEER9 | SEER 9 | 2014-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 93 | Zahnd2019_Delta | Delta Region (7-state NAAC | 2012-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 100 | Liu2012_LACounty | LA County (SEER) | 2007 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 100 | Liu2012_LACounty | LA County (SEER) | 2007 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 107 | Zahrieh2021_NM-SEER | New Mexico (SEER) | 2005-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | NA | **Moderate** |
 | 134 | Wingo2008_IHS-CHSDA | IHS-PRCDA (CHSDA, SEER-NPC | 1999-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 146 | Xu2024_SEER | SEER | 2000-2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
@@ -26,7 +26,7 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 199 | Baquet2008_SEER9 | SEER 9 | 1995-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 200 | Gleason2012_SEER | SEER | 2004-2008 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 203 | Brinton2008_SEER13 | SEER 13 | 1992-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 209 | Zhang 2022 | NPCR+SEER (USCS) | 2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 209 | Zhang 2022 | NPCR+SEER (USCS) | 2019 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 210 | Du2022_SEER18 | SEER 18 | 2000-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 234 | Gomez2026_SEER21 | SEER-21 | 2018-2022 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
 | 236 | Gomez 2010 | California Cancer Registry | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
@@ -40,7 +40,7 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 381 | Lund2010_AtlantaSEER | Metropolitan Atlanta (SEER | 2003-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 419 | Amirikia 2011 | California Cancer Registry | 1988-2006 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 452 | Eheman2009_NPCR-SEER | NPCR+SEER (~92%, 44 states | 1999-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 461 | Watanabe-Galloway 2015 | NE/ND/SD state registries | 2002-2009 | Yes | Yes | Yes | Yes | Unclear | Yes | No | Yes | NA | **Moderate** |
+| 461 | Watanabe-Galloway 2015 | NE/ND/SD state registries | 2002-2009 | Yes | Yes | Yes | Yes | Unclear | Yes | No | No | NA | **Moderate** |
 | 485 | Harper2009_SEER | SEER 9 | 1997-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 488 | Liu2015_Texas | Texas Cancer Registry (TCR | 1995-2011 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
 | 500 | Gopalani2020_31764279 | USCS(NPCR+SEER) | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
@@ -49,10 +49,10 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 955 | Goggins2009 | SEER 7-registry subset (CT | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | NA | **Moderate** |
 | 1478 | Yazzie2025_Navajo | Navajo Nation registry (IH | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 2146 | Wright2022_MA_redlining | Massachusetts Cancer Regis | 2005-2015 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
 | 2406 | Sung2020_USCS50 | USCS 50-state (NPCR+SEER) | 2010-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 2510 | Melkonian2019_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2010-2015 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 2609 | Krieger2018_MA | Massachusetts Cancer Regis | 2010-2014 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Yes | NA | **Low** |
 | 3182 | Pinheiro2009_FL | Florida Cancer Registry | 1999-2001 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 3267 | Kem2007 | California-CCR + Puget Sou | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |

@@ -104,13 +104,18 @@ def appraise(s):
         j["Q7_measurement"] = ("Yes", "standard registry race/ethnicity coding; ICD-O condition coding")
     # Q8 appropriate statistical analysis — standardization + variance
     std_ok = bool(re.search(r"2000 us|1970|world|segi|standard|age-adjust", s["std"].lower()))
-    direct = any(p.startswith("directly") for p in provs)
     withvar = any(("with-CI" in p or "Poisson" in p) for p in provs)
-    has_var = s["cis"] > 0 or direct or withvar
+    # Q8 asks for an appropriate analysis: standardization to a stated standard AND an
+    # uncertainty estimate. Judge the variance on whether one is actually available for the
+    # estimates extracted here — either printed by the source or recoverable from what it
+    # reports — not on whether the source happened to print the ratio itself. Keying it to a
+    # directly reported ratio let point estimates with no interval pass as if they had a
+    # variance, which is why Melkonian 2019 (no CI) read Yes while Harper 2009 (no CI) read No.
+    has_var = s["cis"] > 0 or withvar
     if std_ok and has_var:
-        j["Q8_analysis"] = ("Yes", "age-standardized to a stated standard with a reported/computed variance")
+        j["Q8_analysis"] = ("Yes", "age-standardized to a stated standard with a reported or recoverable variance")
     elif not has_var:
-        j["Q8_analysis"] = ("No", "age-adjusted estimate reported as a point value without a variance/CI")
+        j["Q8_analysis"] = ("No", "no variance or confidence interval available for the extracted estimates — neither printed by the source nor recoverable from it")
     else:
         j["Q8_analysis"] = ("Unclear", "standard population not clearly stated")
     # Q9 response rate — not applicable to census-like registry (recorded NA, not Yes,

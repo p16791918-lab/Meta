@@ -46,6 +46,19 @@
 
 ---
 
+## 4. RoB 판정 기준과 개별 연구 평가의 일관성을 확인해주세요.
+
+- **불일치 원인 확인**: Q8 판정 코드가 분산 유무를 `s["cis"] > 0 or direct or withvar`로 계산하고 있었고, 여기서 `direct`는 **provenance가 원문 보고 비율이면 참**이 되도록 돼 있었음. 그 결과 원문이 비율을 인쇄했지만 신뢰구간이 없는 연구는 분산이 있는 것처럼 통과 → Melkonian 2019(directly-reported-IRR, 추출 7행 모두 CI 없음)는 Q8=Yes·Low, Harper 2009(computed-from-rates, 추출 4행 모두 CI 없음)는 Q8=No·Moderate로 **같은 조건에서 판정이 갈렸음**.
+
+- **기준을 일관되게 적용**: 지적대로 설정한 기준(적절한 연령표준화 + 분산 추정치)을 그대로 유지하되, 분산 요건을 **원문이 비율을 인쇄했는지가 아니라 추출된 추정치에 분산이 실제로 있는지**(원문 인쇄 또는 원문 정보로 복구 가능)로 판정하도록 수정. 해당되는 5편(Melkonian 2019·Melkonian 2022·Liu 2012·Zhang 2022·Watanabe-Galloway 2015)이 Q8=No로 정정되어 **RoB Low 45 → 41편, Moderate 13 → 17편**, 대표 공급 연구의 RoB는 Low 16·Moderate 6.
+
+- **평가 단위 명시**: "연구 전체와 추출한 추정치 중 무엇을 평가했는지"를 Methods와 Supplementary Table 5 Note에 명시 — **각 연구는 이 리뷰가 그 연구에서 가져온 추정치의 출처로서 평가**하며, 추정치에 의존하는 항목(특히 Q8의 분산 요건)은 추출된 추정치를 기준으로 판정한다고 기술.
+
+- **CI 미보고의 해석 주의**: "CI 미보고 자체가 반드시 높은 비뚤림 위험을 의미하지는 않는다"는 지적을 반영해, Methods와 S5 Note에 **이 Q8=No는 불확실성 보고가 불완전하다는 뜻이며 추정치가 편향되었다는 근거가 아니라는 점**과, 그 때문에 비율을 구간 없이 보고한 대규모 레지스트리 분석 몇 편이 moderate로 분류된다는 점을 함께 명시.
+
+- **low-risk-only 분석에 반영**: 판정 변경을 민감도분석에 그대로 반영해 6a가 **59/14/12 → 54 unchanged / 19 changed / 12 dropped**로 갱신. 가장 큰 변화는 AI/AN 국가 aggregate로, 저위험 제한 시 대표가 **IHS-linked 0.87(2010–2015) → IHS-linked 0.63(1999–2004)**으로 교체됨. 이는 본문에서 이미 기술한 IHS-linked 추정치의 시간적 상승과 같은 방향이지 동일 기간에 대한 두 자료원의 불일치가 아니지만, 이 교체로 **AI/AN이 Hispanic/Latina 아래로 내려가 aggregate 순위가 저위험 제한 하에서는 유지되지 않음**. Results와 Discussion에 해당 수치와 함께 "순위와 일부 near-null 부호를 확정된 것으로 읽지 말 것"을 명시.
+---
+
 ## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
 
 - **중복 제외 vs 서술적 종합 잔류 — 구분 원리를 Methods에 명시**: 종전 Methods는 "같은 registry·기간·인구의 재보고는 제외"만 기술해, 같은 사유가 적힌 연구가 narrative로 남아 있는 것과 어긋났음. 실제 판정 기준은 **"이미 포함된 다른 출판물이 그 내용을 담고 있는가"**였으므로 이를 원리로 명시하고 두 경우를 구분해 서술: ① 재보고는 독립 추정치가 아니어서 **어느 경우에도 대표값 후보가 되지 않음**; ② 그중 포함된 다른 출판물이 내용을 이미 담은 것(같은 시리즈의 **이전 연도판**, 포함된 분석의 **preprint·book-chapter판**)은 리뷰에 새 정보를 더하지 않으므로 **제외**(중복 55편 중 51편이 연례 통계 시리즈 이전판, 4편이 preprint·book-chapter 중복); ③ 반면 **시리즈의 최신 적격판**은 그 시리즈의 현재 서술을 담은 유일한 판이므로 리뷰에는 포함하되, 해당 registry·기간의 발생률은 전담 primary 연구가 이미 제공하므로 **서술적 종합에만 기여**; ④ 같은 registry family라도 기간·지역·subset이 다르면 별개 추정치로 보아 **민감도 overlap으로 유지**. 이로써 Giaquinto 2024(rec 0)와 Saka 2025(rec 4294)가 narrative에 남는 근거와, 같은 시리즈 이전판들이 제외된 근거가 하나의 기준으로 설명됨. 참고로 제외된 83편 중 51편이 연례 통계 시리즈의 **이전 연도판**(Breast cancer statistics 2015·2019, Cancer statistics for African Americans 2016·2022, Annual Report to the Nation 1973–1999 ~ 1975–2014 등)임을 확인. 즉 실제로는 "**시리즈별로 최신 적격판 1편만 남기고 이전 판은 중복으로 제외**"하는 규칙이 적용되고 있었으나 Methods에 서술되지 않아 지적된 불일치가 발생. Methods 적격기준에 해당 규칙과, **남긴 최신판은 해당 registry·기간의 발생률을 전담 primary 연구가 이미 제공하므로 대표값 후보로 쓰지 않고 서술적 종합에만 기여**한다는 점을 명시. 이로써 Giaquinto 2024(rec 0, Breast cancer statistics 2024)와 Saka 2025(rec 4294, Cancer statistics for African American and Black people 2025)가 같은 사유로 narrative에 남는 근거가 드러남.

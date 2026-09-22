@@ -197,6 +197,15 @@ response rate, so each study's rating used the eight applicable items: low risk 
 most one "No" with a "Yes" on the two key items—valid measurement (item 7, including race and
 ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance);
 three or more "No" ratings gave high risk of bias, and any other combination a moderate rating.
+Each study was appraised as the source of the estimates taken from it here, not as a whole
+publication: items that depend on the estimate—in particular the variance requirement in item
+8—were judged on the estimates extracted for this review, counting a variance as available when the
+source printed an interval or when one could be recovered from what the source reports. A study
+whose extracted estimates carry no interval therefore rates "No" on item 8 whether or not the source
+printed the ratio itself, which places a point estimate without a variance at moderate rather than
+low risk of bias. That rating reflects incomplete reporting of uncertainty rather than evidence that
+the estimate is biased, and it is the reason several large registry analyses that report ratios
+without intervals are rated moderate.
 Certainty of evidence was not graded, the review being descriptive rather than an estimate of a
 causal effect.
 
@@ -341,14 +350,16 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at moderate risk, with
+On the JBI checklist, 41 of the 58 studies were at low risk of bias and 17 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to low-risk-of-bias studies left 59 of 85 cell representatives unchanged,
-with the 14 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
-and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
-Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
+throughout. Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged,
+with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
+and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle
+Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced
+the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63)
+(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
 SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
@@ -422,14 +433,19 @@ chiefly the receptor-defined subtypes, can shift a ratio slightly.
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a
 set of mutually calibrated rates. The
-main pattern held across the four sensitivity analyses in the cells that each restriction could
-re-examine: few of those cells changed representative. Most of the remaining cells were dropped
-because no estimate met the restriction, and a dropped cell is untested under that restriction
-rather than confirmed by it—the directly-reported restriction alone leaves 46 of the 85 cells
-unexamined, because registries publish rates rather than ratios. Standard-population differences changed little, and the changes that did
-occur clustered in the disaggregated AANHPI subgroups and the age-specific cells whose estimates sit
-near the NHW rate, as with the Japanese cell above, so the aggregate ordering is robust
-while a few near-null subgroup signs are not.
+main pattern held for most of the cells each restriction could re-examine, but not uniformly. Cells
+that no estimate could fill under a restriction were dropped, and a dropped cell is untested under
+that restriction rather than confirmed by it—the directly-reported restriction alone leaves 46 of
+the 85 cells unexamined, because registries publish rates rather than ratios. Standard-population
+differences changed little. The low-risk-of-bias restriction moved the most cells (19 of the 66 it
+could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose
+estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells. The AI/AN
+change is the largest: restricting to low-risk-of-bias studies replaces the IHS-linked national
+aggregate of 0.87 (2010–2015) with the earlier IHS-linked estimate of 0.63 (1999–2004), the same
+rise over time described above rather than two sources disagreeing about one period. That
+substitution nonetheless moves AI/AN below Hispanic/Latina women, so the ordering of the aggregates
+is not preserved under that restriction, and neither the ordering nor a few near-null subgroup signs
+should be read as established.
 
 The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most

@@ -65,14 +65,19 @@ chiefly the receptor-defined subtypes, can shift a ratio slightly.
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a
 set of mutually calibrated rates. The
-main pattern held across the four sensitivity analyses in the cells that each restriction could
-re-examine: few of those cells changed representative. Most of the remaining cells were dropped
-because no estimate met the restriction, and a dropped cell is untested under that restriction
-rather than confirmed by it—the directly-reported restriction alone leaves 46 of the 85 cells
-unexamined, because registries publish rates rather than ratios. Standard-population differences changed little, and the changes that did
-occur clustered in the disaggregated AANHPI subgroups and the age-specific cells whose estimates sit
-near the NHW rate, as with the Japanese cell above, so the aggregate ordering is robust
-while a few near-null subgroup signs are not.
+main pattern held for most of the cells each restriction could re-examine, but not uniformly. Cells
+that no estimate could fill under a restriction were dropped, and a dropped cell is untested under
+that restriction rather than confirmed by it—the directly-reported restriction alone leaves 46 of
+the 85 cells unexamined, because registries publish rates rather than ratios. Standard-population
+differences changed little. The low-risk-of-bias restriction moved the most cells (19 of the 66 it
+could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose
+estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells. The AI/AN
+change is the largest: restricting to low-risk-of-bias studies replaces the IHS-linked national
+aggregate of 0.87 (2010–2015) with the earlier IHS-linked estimate of 0.63 (1999–2004), the same
+rise over time described above rather than two sources disagreeing about one period. That
+substitution nonetheless moves AI/AN below Hispanic/Latina women, so the ordering of the aggregates
+is not preserved under that restriction, and neither the ordering nor a few near-null subgroup signs
+should be read as established.
 
 The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most

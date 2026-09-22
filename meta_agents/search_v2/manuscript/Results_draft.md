@@ -109,14 +109,16 @@ used varied reference groups, standard populations, and reporting formats, their
 summarized qualitatively rather than placed on the common IRR scale.
 
 ### Risk of bias and sensitivity analyses
-On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at moderate risk, with
+On the JBI checklist, 41 of the 58 studies were at low risk of bias and 17 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to low-risk-of-bias studies left 59 of 85 cell representatives unchanged,
-with the 14 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
-and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
-Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
+throughout. Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged,
+with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
+and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle
+Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced
+the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63)
+(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
 SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
