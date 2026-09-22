@@ -414,6 +414,60 @@ def check_H(rows):
     return len(seen), fails
 
 
+def check_I():
+    """Table 1 and the main-text figures must come from one final dataset.
+
+    Table 1 prints the ledger's interval; the figures are drawn from
+    outputs/Table_main_forest.csv. When that file re-derived its interval from the
+    log-scale SE, 47 of its rows disagreed with Table 1 in the third decimal (the
+    AANHPI aggregate read [0.752, 0.788] in the table and [0.751, 0.787] in the
+    figure), and it carried point estimates for the aggregate dimension only, so
+    the figure's AI/AN block showed three regions where the table listed seven.
+    Check every Table 1 cell against its forest row: same IRR, same bounds, and
+    the same two markers (dagger for an unstratified White reference, double
+    dagger for an interval computed by the review)."""
+    t1p = os.path.join(OUT, "Table1_main.csv")
+    fmp = os.path.join(OUT, "Table_main_forest.csv")
+    for p_ in (t1p, fmp):
+        if not os.path.exists(p_):
+            return 0, [("I-missing", os.path.basename(p_), "not generated")]
+    fm = {}
+    for r in csv.DictReader(open(fmp, encoding="utf-8")):
+        fm[(r["dimension"], norm_g(r["group"]))] = r
+    fails, checked = [], 0
+    for r in csv.DictReader(open(t1p, encoding="utf-8")):
+        est = r["estimate"]
+        f = fm.get((r["outcome_dim"], norm_g(r["group"])))
+        if f is None:
+            fails.append(("I-missing-cell", r["group"], "in Table 1 but not in the forest table"))
+            continue
+        checked += 1
+        irr = num(est.split("[")[0].split("(")[0].strip())
+        if irr is None or not close(irr, num(f["irr"]), 1e-6):
+            fails.append(("I-irr", r["group"], "Table 1 %s vs forest %s" % (est, f["irr"])))
+            continue
+        is_point = "point est." in est
+        f_point = close(num(f["ci_lo"]), num(f["ci_hi"]), 1e-12)
+        if is_point != f_point:
+            fails.append(("I-ci-shape", r["group"],
+                          "Table 1 %s vs forest [%s, %s]" % (est, f["ci_lo"], f["ci_hi"])))
+            continue
+        if not is_point:
+            lo, hi = [num(x) for x in est.split("[")[1].split("]")[0].split(",")]
+            if not (close(lo, num(f["ci_lo"]), 1e-6) and close(hi, num(f["ci_hi"]), 1e-6)):
+                fails.append(("I-ci", r["group"],
+                              "Table 1 [%s, %s] vs forest [%s, %s]"
+                              % (lo, hi, f["ci_lo"], f["ci_hi"])))
+                continue
+        if ("\u2020" in est) != (f.get("comparator", "NHW") != "NHW"):
+            fails.append(("I-comparator", r["group"],
+                          "Table 1 %s vs forest comparator %s" % (est, f.get("comparator"))))
+        if ("\u2021" in est) != (f.get("ci_source") == "computed"):
+            fails.append(("I-provenance", r["group"],
+                          "Table 1 %s vs forest ci_source %s" % (est, f.get("ci_source"))))
+    return checked, fails
+
+
 def main():
     rows = led_rows()
     ok = True
@@ -500,6 +554,16 @@ def main():
             print("    FAIL rec %s (%s) registry='%s' — %s" % (rid, ay, reg, why))
     else:
         print("    PASS — every author-label source token matches its registry classification")
+
+    nI, fI = check_I()
+    print("\n[I] Table 1 vs main-text figures (%d cells)" % nI)
+    if fI:
+        ok = False
+        for f in fI:
+            print("    FAIL", f)
+    else:
+        print("    PASS — every Table 1 cell matches its figure row in value, "
+              "interval, and markers")
 
     print("\n" + "=" * 78)
     print("RESULT:", "ALL CHECKS PASS" if ok else "FAILURES ABOVE")

@@ -94,9 +94,18 @@ function buildTable(m) {
   });
   return new Table({ columnWidths: ws, width: { size: PAGEW, type: WidthType.DXA }, borders, rows: [head, ...body] });
 }
-function figureBlocks() {
+// Table 1 is wide and is laid out landscape; the figures are tall portrait images
+// and are laid out portrait. Putting a figure 8 inches tall on a landscape page
+// leaves only 7 inches of usable height, which clipped the bottom rows of Figure 2
+// and its note in the PDF conversion. Split the manifest between the two sections
+// at the first figure heading.
+function manifestSplit() {
   const M = JSON.parse(fs.readFileSync(MANIFEST, "utf8"));
-  const out = [para("Tables and Figures", { bold: true, size: 28, heading: HeadingLevel.HEADING_1, after: 160 })];
+  const i = M.findIndex(m => m.type === "heading" && /^Figure 1\b/.test(m.text || ""));
+  return i < 0 ? [M, []] : [M.slice(0, i), M.slice(i)];
+}
+function figureBlocks(M, title) {
+  const out = [para(title, { bold: true, size: 28, heading: HeadingLevel.HEADING_1, after: 160 })];
   for (const m of M) {
     if (m.type === "heading") out.push(new Paragraph({ children: [new TextRun({ text: m.text, font: LFONT, size: 22, bold: true })], spacing: { before: 160, after: 100 } }));
     else if (m.type === "para") out.push(new Paragraph({ children: [new TextRun({ text: m.text, font: LFONT, size: 16, italics: !!m.italic })], spacing: { after: 120, line: 260 } }));
@@ -111,7 +120,8 @@ const doc = new Document({
   styles: { default: { document: { run: { font: FONT, size: 24 } } } },
   sections: [
     { properties: { page: { margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } } }, children: textBlocks() },
-    { properties: { page: { size: { orientation: PageOrientation.LANDSCAPE }, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks() },
+    { properties: { page: { size: { orientation: PageOrientation.LANDSCAPE }, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[0], "Tables") },
+    { properties: { page: { margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[1], "Figures") },
   ],
 });
 Packer.toBuffer(doc).then(b => { fs.writeFileSync(OUTDOCX, b); console.log("wrote Manuscript_Full.docx (text + Table 1 + Figures 1-3)"); });

@@ -58,6 +58,12 @@ def load():
             "rid": r["record_id"], "dim": r["outcome_dim"],
             "grp": r["minority_group"], "y": y, "se": se, "v": se * se,
             "irr": float(irr), "is_rep": reps.get(key, "").startswith("yes"),
+            # The bounds as the ledger holds them. Pooling uses y and se, but any
+            # table or figure that displays a single estimate's interval must show
+            # these rather than exp(y +/- Z*se): a reported interval need not be
+            # symmetric on the log scale, so the round-trip through se shifts the
+            # bounds in the third decimal and would disagree with Table 1.
+            "lo": float(lo), "hi": float(hi),
             "prov": r.get("provenance", ""),
         })
     return rows

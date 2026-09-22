@@ -430,7 +430,8 @@ population. Only the third difference—how AI/AN race was ascertained—is the 
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
 widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an
-unstratified White reference, among Alaska Native women (regional values in Table 1). The lower
+unstratified White reference, among Alaska Native women (regional values in Table 1 and Figure 2).
+The lower
 unlinked values therefore likely reflect incomplete case ascertainment, together with the wider
 diagnosis periods and the national rather than PRCDA coverage of those sources, rather than only
 lower underlying incidence; the AI/AN–NHW comparison

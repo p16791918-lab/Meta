@@ -103,12 +103,17 @@ def main():
             if (lo and hi) and pv.startswith("computed"):
                 est += " ‡"
             eff = "SIR" if "SIR" in pv else "IRR"
-            rows.append(dict(dimension=seclabel(g), group=g, effect=eff, estimate=est,
+            rows.append(dict(dimension=seclabel(g), outcome_dim=dim, group=g,
+                             effect=eff, estimate=est,
                              study=auth, period=period,
                              registry=r.get("registry_family", ""),
                              rob=qual.get(r["record_id"], "NA")))
 
-    cols = ["dimension", "group", "effect", "estimate", "study", "period", "registry", "rob"]
+    # outcome_dim is the analytic dimension itself; "dimension" is the display
+    # section heading (the AANHPI dimension is shown as two sections). Carrying the
+    # raw dimension lets the cross-check pair each Table 1 cell with its figure row.
+    cols = ["dimension", "outcome_dim", "group", "effect", "estimate", "study",
+            "period", "registry", "rob"]
     with open(os.path.join(OUT, "Table1_main.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     with open(os.path.join(OUT, "Table1_main.md"), "w", encoding="utf-8") as f:

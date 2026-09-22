@@ -16,7 +16,8 @@ SRC = os.path.join(OUT, "Table_main_forest.csv")
 d = {}
 for r in csv.DictReader(open(SRC, encoding="utf-8")):
     d[(r["dimension"], r["group"])] = (float(r["irr"]), float(r["ci_lo"]), float(r["ci_hi"]),
-                                       r.get("ci_source", "reported"))
+                                       r.get("ci_source", "reported"),
+                                       r.get("comparator", "NHW"))
 
 def g(dim, grp):
     return d[(dim, grp)]
@@ -45,9 +46,17 @@ blocks = [
         ("Cuban", *g("Hispanic-origin", "Cuban"), False),
         ("Puerto Rican", *g("Hispanic-origin", "Puerto Rican"), False),
     ]),
+    # All seven AI/AN regional cells, in the same order and with the same values as
+    # Table 1. Four of them (Southwest, East, Pacific Coast, Northern Plains) are
+    # point estimates whose source prints no interval; they are drawn without a bar
+    # rather than left out, so the figure covers the regions the table lists.
     ("American Indian and Alaska Native", [
         ("AI/AN aggregate", *g("aggregate-vs-NHW", "AIAN"), True),
         ("Navajo area", *g("AIAN", "AIAN (Navajo)"), False),
+        ("Southwest", *g("AIAN", "AIAN (Southwest)"), False),
+        ("East", *g("AIAN", "AIAN (East)"), False),
+        ("Pacific Coast", *g("AIAN", "AIAN (Pacific Coast)"), False),
+        ("Northern Plains", *g("AIAN", "AIAN (Northern Plains)"), False),
         ("Alaska Native", *g("AIAN", "Alaska Native"), False),
         ("Southern Plains", *g("AIAN", "AIAN (Southern Plains)"), False),
     ]),
@@ -67,8 +76,8 @@ for bi, (title, items) in enumerate(blocks):
         y -= 1.0
 ymin = y
 
-fig, ax = plt.subplots(figsize=(10.5, 13.6))
-fig.subplots_adjust(left=0.34, right=0.80, top=0.93, bottom=0.14)
+fig, ax = plt.subplots(figsize=(10.5, 12.2))
+fig.subplots_adjust(left=0.34, right=0.80, top=0.96, bottom=0.05)
 trans = ax.get_yaxis_transform()          # x: axes fraction, y: data
 ax.axvline(1.0, color="#3a5a80", ls="--", lw=1.1, zorder=1)
 
@@ -81,7 +90,7 @@ for row in rows:
         ax.text(-0.44, yy, title, transform=trans, fontsize=12, fontweight="bold",
                 va="center", ha="left")
         continue
-    _, yy, lab, irr, lo, hi, csrc, agg = row
+    _, yy, lab, irr, lo, hi, csrc, cmp_, agg = row
     is_point = (lo == hi)                       # source reported no CI (point estimate)
     computed_ci = (not is_point) and (csrc == "computed")
     if not is_point:
@@ -104,6 +113,8 @@ for row in rows:
         ci += 1
         ax.text(-0.37, yy, lab, transform=trans, fontsize=10, va="center", ha="left")
     txt = f"{irr:.3f} (point est.)" if is_point else f"{irr:.3f} [{lo:.3f}, {hi:.3f}]"
+    if cmp_ != "NHW":
+        txt += " †"                        # dagger: reference is an unstratified White group
     if computed_ci:
         txt += " ‡"                        # double dagger: CI computed by the review
     ax.text(1.03, yy, txt, transform=trans,
@@ -123,16 +134,9 @@ ax.xaxis.set_major_formatter(mticker.FixedFormatter(["0.1", "0.2", "0.5", "1.0",
 ax.set_xlabel("Incidence rate ratio versus non-Hispanic White reference (log scale)", fontsize=11)
 ax.text(0.32, 1.28, "Lower incidence", transform=trans, fontsize=10, color="#555", ha="center")
 ax.text(1.28, 1.28, "Higher incidence", transform=trans, fontsize=10, color="#555", ha="center")
-ax.set_title("Aggregate-to-disaggregated heterogeneity with 95% confidence intervals",
-             fontsize=12.5, pad=16)
-fig.text(0.055, 0.105,
-         "Each point is the representative estimate for one analytic cell, drawn from a separate "
-         "study; the aggregate and its subgroups are\nnot from a single source and differ in "
-         "registry, region, diagnosis period, and standard population. Diamonds mark aggregate "
-         "groups,\ncircles subgroups; a point without a bar had no confidence interval in its source. "
-         "A solid bar is a 95% CI reported directly in the\nsource; a lighter dashed bar with ‡ is a CI "
-         "the review computed (delta method from the source's rate CIs, or a Poisson approximation).",
-         fontsize=7.6, color="#555", ha="left", va="top")
+# The figure heading and the Note paragraph beneath the image carry the title and the
+# legend (make_maintext.py). Keeping them out of the PNG lets them reflow in the
+# document instead of being clipped with the image in the PDF conversion.
 fig.savefig(os.path.join(OUT, "Fig_forest_main.png"), dpi=200, bbox_inches="tight", pad_inches=0.25)
 plt.close(fig)
 print("wrote outputs/Fig_forest_main.png")

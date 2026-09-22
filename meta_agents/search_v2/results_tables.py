@@ -7,7 +7,6 @@
 Reuses the computational functions in meta_analysis_v2.py.
 """
 import csv
-import math
 import os
 from collections import defaultdict
 
@@ -16,7 +15,6 @@ import meta_analysis_v2 as M
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "outputs")
 os.makedirs(OUT, exist_ok=True)
-Z = M.Z
 
 DIM_ORDER = ["aggregate-vs-NHW", "disaggregated-AANHPI", "disaggregated-MENA",
              "Hispanic-origin", "AIAN", "male-BC",
@@ -34,35 +32,53 @@ def main():
         cells[(r["dim"], r["grp"])].append(r)
 
     # ---- MAIN forest ----
+    # Comparator as each source defined it, so a figure drawn from this table can
+    # mark the unstratified-White rows exactly where Table 1 marks them.
+    NHW_SET = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
+    cmp_of = {}
+    for rr in csv.DictReader(open(os.path.join(HERE, "TableSA_main_representatives.csv"), encoding="utf-8")):
+        cv = (rr.get("comparison_vs") or "").strip()
+        cmp_of[(rr["record_id"], rr["outcome_dim"], rr["minority_group"])] = (
+            "NHW" if (cv in NHW_SET or cv.startswith("foreign-born")) else "White (unstratified)")
+
+    def comparator(rid, dim, grp):
+        return cmp_of.get((rid, dim, grp), "NHW")
+
     frows = []
     for (dim, grp), cr in cells.items():
         for r in cr:
             if not r["is_rep"]:
                 continue
-            lo = math.exp(r["y"] - Z * r["se"])
-            hi = math.exp(r["y"] + Z * r["se"])
             frows.append(dict(dimension=dim, group=grp, irr=round(r["irr"], 3),
-                              ci_lo=round(lo, 3), ci_hi=round(hi, 3), record=r["rid"],
-                              ci_source=("computed" if r.get("prov", "").startswith("computed") else "reported")))
+                              ci_lo=r["lo"], ci_hi=r["hi"], record=r["rid"],
+                              ci_source=("computed" if r.get("prov", "").startswith("computed") else "reported"),
+                              comparator=comparator(r["rid"], dim, grp)))
     # A representative whose source reports no CI (and no case count for a Poisson
-    # approximation) is a point estimate; it is dropped by the variance-based loader
-    # above. Add it to the forest for the aggregate row only (the three category
-    # anchors), marked as a point estimate (ci_lo == ci_hi == irr).
+    # approximation) is a point estimate, so the variance-based loader above drops
+    # it. Carry every such representative here, in whatever dimension it falls,
+    # marked as a point estimate (ci_lo == ci_hi == irr): this table is the data
+    # behind the main-text figures, and leaving them out made the figure's AI/AN
+    # block show fewer regions than Table 1.
     have = {(f["dimension"], f["group"]) for f in frows}
     for rr in csv.DictReader(open(os.path.join(HERE, "TableSA_main_representatives.csv"), encoding="utf-8")):
-        if (rr["main_analysis"].startswith("yes") and rr["outcome_dim"] == "aggregate-vs-NHW"
-                and rr["irr"].strip() and (rr["outcome_dim"], rr["minority_group"]) not in have):
+        if (rr["main_analysis"].startswith("yes") and rr["irr"].strip()
+                and (rr["outcome_dim"], rr["minority_group"]) not in have):
             v = round(float(rr["irr"]), 3)
             frows.append(dict(dimension=rr["outcome_dim"], group=rr["minority_group"],
-                              irr=v, ci_lo=v, ci_hi=v, record=rr["record_id"], ci_source="point"))
+                              irr=v, ci_lo=v, ci_hi=v, record=rr["record_id"], ci_source="point",
+                              comparator=comparator(rr["record_id"], rr["outcome_dim"],
+                                                    rr["minority_group"])))
     dim_rank = {d: i for i, d in enumerate(DIM_ORDER)}
     frows.sort(key=lambda x: (dim_rank.get(x["dimension"], 99), x["irr"]))
     with open(os.path.join(OUT, "Table_main_forest.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["dimension", "group", "irr", "ci_lo", "ci_hi", "record", "ci_source"])
+        w = csv.DictWriter(f, fieldnames=["dimension", "group", "irr", "ci_lo", "ci_hi",
+                                          "record", "ci_source", "comparator"])
         w.writeheader(); w.writerows(frows)
     with open(os.path.join(OUT, "Table_main_forest.md"), "w", encoding="utf-8") as f:
         f.write("# Table. Main analysis — representative IRR vs non-Hispanic White\n\n")
-        f.write("One estimate per registry family; not pooled across groups.\n\n")
+        f.write("One estimate per analytic cell; not pooled across groups. "
+                "Intervals are those held in the ledger (as reported in the source, or "
+                "as computed for this review), not re-derived from the log-scale SE.\n\n")
         cur = None
         for r in frows:
             if r["dimension"] != cur:
