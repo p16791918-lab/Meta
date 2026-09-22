@@ -440,12 +440,14 @@ the 85 cells unexamined, because registries publish rates rather than ratios. St
 differences changed little. The low-risk-of-bias restriction moved the most cells (19 of the 66 it
 could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose
 estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells. The AI/AN
-change is the largest: restricting to low-risk-of-bias studies replaces the IHS-linked national
-aggregate of 0.87 (2010–2015) with the earlier IHS-linked estimate of 0.63 (1999–2004), the same
-rise over time described above rather than two sources disagreeing about one period. That
-substitution nonetheless moves AI/AN below Hispanic/Latina women, so the ordering of the aggregates
-is not preserved under that restriction, and neither the ordering nor a few near-null subgroup signs
-should be read as established.
+change is the largest, and it turns on how uncertainty was reported rather than on a difference in
+bias. The national aggregate's representative—the 2010–2015 IHS-linked estimate of 0.87—is rated
+moderate only because it prints no confidence interval, so the restriction replaces it with the
+1999–2004 IHS-linked estimate of 0.63, which does print intervals. The gap between the two is the
+rise over time described above, not two sources disagreeing about one period. That substitution
+nonetheless moves AI/AN below Hispanic/Latina women, so the ordering of the aggregates is not
+preserved under that restriction, and neither the ordering nor a few near-null subgroup signs should
+be read as established.
 
 The review is descriptive and does not identify causes. Several explanations proposed in the included studies are best treated as
 possible contributors rather than established causes: nativity and generational status are the most
