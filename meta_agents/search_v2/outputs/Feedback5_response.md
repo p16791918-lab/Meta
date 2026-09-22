@@ -60,7 +60,7 @@
 
 - **대안 제시 — 분산 요건을 Q8에서 분리하는 방안(지시 요청)**: 위 근거로 현행(분산 요건 유지)을 기본으로 반영했으나, 신뢰구간 미보고가 엄밀히는 비뚤림이 아니라는 점을 더 중시한다면 **Q8은 "명시된 표준인구로의 적절한 연령표준화"만 판정하고, 분산·구간 보고 여부는 RoB 등급과 분리해 별도로 기록**하는 방식도 가능합니다(분산 출처는 이미 Table 1의 ‡ 표기와 provenance 열로 추적 중이므로 정보 손실은 없습니다). 이 경우 실제 영향을 계산해 보면 Q8=No 9편이 Yes로 바뀌어 **RoB가 Low 41·Moderate 17 → Low 49·Moderate 9**, 저위험 제한 민감도가 **54/19/12 → 63 unchanged·14 changed·8 dropped**가 되고, Melkonian 2019가 Low로 복귀하므로 **AI/AN aggregate의 0.87 → 0.63 교체와 AI/AN 관련 9개 cell의 변경·탈락이 모두 사라집니다**. 두 방식 모두 내부적으로 일관되며 어느 쪽이든 그에 맞춰 RoB 표·민감도·본문 서술을 함께 갱신할 수 있으므로, 비뚤림 위험 평가에 불확실성 보고를 포함할지에 대한 지시를 주시면 반영하겠습니다.
 
-- **low-risk-only 분석에 반영**: 판정 변경을 민감도분석에 그대로 반영해 6a가 **59/14/12 → 54 unchanged / 19 changed / 12 dropped**로 갱신. 가장 큰 변화는 AI/AN 국가 aggregate로, 저위험 제한 시 대표가 **IHS-linked 0.87(2010–2015) → IHS-linked 0.63(1999–2004)**으로 교체됨. 교체 기전은 **불확실성 보고 형식의 차이**로, 주분석 대표인 Melkonian 2019는 추출 7행 모두 신뢰구간이 없어(Q8=No) moderate로 분류되어 제한에서 빠지고, 구간을 모두 보고한 Wingo 2008(7/7행 CI, Low)이 같은 IHS 계열 내에서 그 자리를 채움. 이는 본문에서 이미 기술한 IHS-linked 추정치의 시간적 상승과 같은 방향이지 동일 기간에 대한 두 자료원의 불일치가 아니지만, 이 교체로 **AI/AN이 Hispanic/Latina 아래로 내려가 aggregate 순위가 저위험 제한 하에서는 유지되지 않음**. Results와 Discussion에 해당 수치와 함께 "순위와 일부 near-null 부호를 확정된 것으로 읽지 말 것"을 명시.
+- **low-risk-only 분석에 반영**: 판정 변경을 민감도분석에 그대로 반영해 6a가 **59/14/12 → 54 unchanged / 19 changed / 12 dropped**로 갱신. 가장 큰 변화는 AI/AN 국가 aggregate로, 저위험 제한 시 대표가 **IHS-linked 0.87(2010–2015) → IHS-linked 0.63(1999–2004)**으로 교체됨. 교체 기전은 **불확실성 보고 형식의 차이**로, 주분석 대표인 Melkonian 2019는 추출 7행 모두 신뢰구간이 없어(Q8=No) moderate로 분류되어 제한에서 빠지고, 구간을 모두 보고한 Wingo 2008(7/7행 CI, Low)이 같은 IHS 계열 내에서 그 자리를 채움. 이는 본문에서 이미 기술한 IHS-linked 추정치의 시간적 상승과 같은 방향이지 동일 기간에 대한 두 자료원의 불일치가 아니지만, 이 교체로 **AI/AN이 Hispanic/Latina 아래로 내려가 aggregate 순위가 저위험 제한 하에서는 유지되지 않음**. Results와 Discussion에 해당 수치와 함께 "순위와 일부 near-null 부호를 확정된 것으로 읽지 말 것"을 명시. 반영 여부는 세 가지로 검증 — ① 6a에서 대표로 투입된 Moderate 연구 0건, ② 판정이 바뀐 5편이 6a 대표로 남은 건 0건, ③ 주분석에서 그 5편이 대표였던 5개 cell이 모두 changed로 전환. 내부 점검의 민감도-대표 정합(340쌍)과 본문 카운트 점검도 통과.
 ---
 
 ## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
@@ -72,3 +72,13 @@
 - **Supplementary Table 2의 narrative 사유 전면 실제화**: 점검 결과 narrative 118편 중 **103편이 "No recoverable NHW comparison" 한 문구로 일괄 표시**되고 있었음(개별 사유 부여는 15편). 실제 사유는 시리즈 재보고 9, 추세만 28, 사회경제적 비교 6, 비미국 비교군 5, 비율 아님(PIR 등) 5, 그림 전용 4 등으로 다양하므로, 적격성 기록에 사유가 있는 경우 그 사유를 유형별 문구로 표시하도록 수정 → **개별 사유 표시가 15편에서 57편으로 확대**. 사유 기록이 없는 나머지는 포괄 사유("NHW 기준 연령표준화율·비율을 복구할 수 없음")로 표시하고, 어떤 경우에 개별 사유가 표시되고 어떤 경우에 포괄 사유가 표시되는지를 Supplementary Table 2 Note에 명시.
 
 - **대표값 선정 단위 표기 통일**: Introduction("one representative population-based estimate per registry family"), Table 1 Note("one per registry family"), 본문 표·그림 Note에 남아 있던 **"per registry family"를 Methods의 "per analytic cell"로 통일**. registry family는 셀 내부의 중복 판정 단위로만 쓰인다는 점을 작성 지침에도 반영.
+
+---
+
+## 6. Discussion의 일부 해석을 신중하게 수정해주세요.
+
+- **"independent sources" 표현 삭제**: 겹치는 레지스트리에서 나온 논문들을 독립 자료원으로 부르지 않도록, 기여 서술의 "cells corroborated by two or more **independent sources**"를 **"서로 다른 registry family에서 온 둘 이상의 자료원이 뒷받침하는 cell"**로 교체하고, 이어서 **"미국 레지스트리는 중첩 구조이므로 서로 다른 family의 출판물도 겹치는 사례를 포함할 수 있어 이들이 완전히 독립적이지는 않다"**는 단서를 명시. 38 vs 47이라는 구분 자체는 유지하되 그 근거를 "독립성"이 아니라 "자료원 수"로 재정의. Results의 narrative 서술에 있던 "no **independent** quantitative estimate"도 중의성이 있어 "no **extractable** quantitative estimate"로 수정(Introduction과 Supplementary Table 4 Note의 "중첩 레지스트리 추정치는 독립적이지 않다"는 서술은 올바른 취지이므로 유지).
+
+- **AI/AN 0.56 → 0.87 해석 수정**: 두 값이 서로 다른 연구라는 점을 명시하고, 차이를 IHS linkage 단독 효과로 설명하지 않도록 **세 가지 차이를 함께 기술**. ① **관찰기간** — unlinked 추정치(Gopalani 2020, USCS)는 1999–2015, IHS-linked 추정치(Melkonian 2019)는 2010–2015이며 AI/AN 비율은 그 구간에 상승(IHS-linked 내부에서도 1999–2004의 0.63 → 2010–2015의 0.87). ② **대상 지역과 PRCDA 적용 범위** — IHS-linked 값은 Purchased/Referred Care Delivery Area 카운티로 한정되고, 원문이 "(whites) living in IHS purchased/referred care delivery area counties"로 밝힌 대로 **이 제한이 NHW 비교군에도 적용**되므로 분자·분모가 모두 전국 인구와 다른 집단을 기술. ③ **인종 확인 방식(linkage)** — 셋 중 이것만이 연계 자체의 효과. 본문에 "세 차이가 함께 작용하며 그중 세 번째만 linkage"라고 명시.
+
+- **연쇄 서술 정합**: "unlinked 값이 낮은 것은 불완전한 사례 확인을 반영한다"는 문장도 **더 넓은 진단기간과 PRCDA가 아닌 전국 커버리지를 함께** 반영한 것으로 수정하고, 이어지는 결론도 "AI/AN–NHW 비교는 자료원의 **사례 확인 방식과 진단기간·지리적 범위에 함께 좌우된다**"로 교체.

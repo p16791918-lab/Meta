@@ -77,7 +77,7 @@ cells that the sensitivity analyses show to be least stable.
 
 ### Narrative synthesis
 The 118 narrative-synthesis studies met the inclusion criteria but contributed no
-independent quantitative estimate—most because no IRR or NHW-referenced age-standardized
+extractable quantitative estimate—most because no IRR or NHW-referenced age-standardized
 rate could be recovered, and a few multi-registry summary reports (for example, the annual
 reports to the nation and the annual cancer-statistics summaries) because they re-reported
 registry incidence already quantified from the dedicated primary study for the same registry

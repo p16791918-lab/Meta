@@ -43,16 +43,23 @@ and in the registries it draws on, either of which can move a borderline estimat
 
 Two features of the underlying data shaped these estimates.
 First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
-Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The difference is
-sizeable: the national aggregate from an unlinked source (0.56) rises to 0.87 once IHS-linked
-ascertainment is used. Among IHS-linked national estimates the ratio also rose over time, from 0.63
+Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The two national
+figures differ substantially—0.56 from an unlinked source and 0.87 from an IHS-linked one—but they
+come from separate studies, so the gap cannot be read as the effect of linkage alone. Three
+differences run together. The unlinked estimate covers 1999–2015 and the IHS-linked one 2010–2015,
+and the AI/AN ratio rose over that interval. The IHS-linked figure is confined to
+Purchased/Referred Care Delivery Area counties, and that restriction applies to the NHW comparison
+group as well, so its numerator and denominator both describe a different population from the
+national one. Only the third difference—how AI/AN race was ascertained—is the linkage itself. Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
 widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an
 unstratified White reference, among Alaska Native women (regional values in Table 1). The lower
-unlinked values therefore likely reflect incomplete case ascertainment rather than only lower
-underlying incidence; the AI/AN–NHW comparison
-depends on how completely cases are ascertained.⁴¹,⁵⁸ The IHS-linked correction, however, was
+unlinked values therefore likely reflect incomplete case ascertainment, together with the wider
+diagnosis periods and the national rather than PRCDA coverage of those sources, rather than only
+lower underlying incidence; the AI/AN–NHW comparison
+therefore depends on the source's ascertainment as well as its diagnosis period and geographic
+scope.⁴¹,⁵⁸ The IHS-linked correction, however, was
 available only for the aggregate and regional estimates: no Indian Health Service–linked source
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
@@ -115,8 +122,10 @@ were scattered across separate registry reports—each with its own reference gr
 population, and diagnosis period—onto a single NHW-referenced scale, so the disaggregated subgroups
 and their aggregates can be seen together in one place. Second, by collapsing
 overlapping registry-family estimates while retaining the overlaps for the sensitivity analysis, it
-separates the cells corroborated by two or more independent sources (38 of the 85 analytic cells)
-from those resting on a single study (47); where two or more sources are available they agree in
+separates the cells supported by more than one source, each from a different registry family (38 of
+the 85 analytic cells), from those resting on a single study (47). These sources are not fully
+independent—US registries are nested, so publications from different families can still draw on
+overlapping cases—but where more than one is available they agree in
 most cells, diverging chiefly in the near-null AANHPI subgroups and the ascertainment-dependent
 AI/AN comparison. Third, it makes the evidence
 gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
