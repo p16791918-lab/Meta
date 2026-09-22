@@ -29,7 +29,7 @@
 ## Included
 - Studies included in review: 176
   - Quantitative synthesis: 58 studies (all eligible studies contributed extractable estimates)
-    (23 supplied a cell representative; the other 35 contributed overlapping estimates carried
+    (22 supplied a cell representative; the other 36 contributed overlapping estimates carried
     only in the sensitivity analysis — e.g. 236 CCR Asian subgroups; 4027 eight-state SEER+NPCR
     Asian subgroups; 461 Northern-Plains AI/AN [unlinked state registries, AI/AN-undercount];
     2137 urban AI/AN; 419 California triple-negative, age-standardized by the review from reported
@@ -47,7 +47,7 @@
   used); label the top-left box "Records identified from databases (n = 9,099)".
 - Report Embase as "Advanced Search, n = 3,248"; report PubMed/MEDLINE as one
   source (not two).
-- The 58 extracted studies contributed 218 estimates; 23 studies supplied at
+- The 58 extracted studies contributed 218 estimates; 22 studies supplied at
   least one main-analysis representative (85 representative estimates in all, one per analytic
-  cell), and the remaining 35 studies contributed only overlapping estimates carried in the
+  cell), and the remaining 36 studies contributed only overlapping estimates carried in the
   sensitivity analysis.

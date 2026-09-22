@@ -35,7 +35,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | disaggregated-AANHPI | Japanese | 1.045 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Korean | 0.677 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Laotian/Kampuchean | 0.388 (234) | - (-) | **dropped** |
-| disaggregated-AANHPI | Native Hawaiian | 1.211 (4040) | - (-) | **dropped** |
+| disaggregated-AANHPI | Native Hawaiian | 1.270 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Native Hawaiian/PI (aggregate) | 1.212 (234) | - (-) | **dropped** |
 | disaggregated-AANHPI | Vietnamese | 0.586 (234) | - (-) | **dropped** |
 | subtype-ERneg-PRpos | Black | 1.459 (200) | - (-) | **dropped** |

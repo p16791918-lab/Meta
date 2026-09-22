@@ -1,6 +1,6 @@
 # Sensitivity #1 — low-risk-of-bias studies only (Moderate/High dropped)
 
-Cells: 85 total — unchanged 60, changed 13, dropped 12.
+Cells: 85 total — unchanged 59, changed 14, dropped 12.
 
 Only cells where the representative CHANGED or DROPPED are shown in full below; all others are unchanged.
 
@@ -12,6 +12,7 @@ Only cells where the representative CHANGED or DROPPED are shown in full below; 
 | disaggregated-AANHPI | Filipina | 0.857 (234) | 0.828 (4027) | **changed** |
 | disaggregated-AANHPI | Japanese | 1.045 (234) | 0.951 (4027) | **changed** |
 | disaggregated-AANHPI | Korean | 0.677 (234) | 0.562 (4027) | **changed** |
+| disaggregated-AANHPI | Native Hawaiian | 1.270 (234) | 1.211 (4040) | **changed** |
 | disaggregated-AANHPI | Vietnamese | 0.586 (234) | 0.537 (4027) | **changed** |
 | subtype-HRneg-HER2pos | Asian/PI (aggregate) | 1.41 (286) | 1.17 (2) | **changed** |
 | subtype-HRneg-HER2pos | Hispanic | 1.05 (286) | 0.84 (2) | **changed** |

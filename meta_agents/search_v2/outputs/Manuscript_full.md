@@ -235,7 +235,7 @@ The four databases returned 9,099 records; 4,306 duplicates were removed, leavin
 records for title and abstract screening. Full text was sought for 259 reports; 10 could not be
 retrieved, and of the 249 assessed, 73 were excluded (reasons in Supplementary Table 3), giving 176 included studies (Figure 1). Of these, 58 were eligible for
 quantitative synthesis and entered the analysis, contributing 218 individual estimates across
-racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁶³—23 supplied
+racial/ethnic groups and analytic dimensions²⁻⁹,¹¹⁻¹²,¹⁵⁻⁶³—22 supplied
 a cell representative, and the remainder contributed overlapping estimates carried only in the
 sensitivity analysis; the remaining 118 informed the narrative synthesis (176 = 58 + 118). The extracted studies were published
 between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tribal
@@ -261,7 +261,7 @@ Within the AANHPI aggregate, incidence varied across Asian American subgroups fr
 Chinese 0.76 (0.75–0.78), Filipina 0.86 (0.84–0.87), and Asian Indian/Pakistani 0.96 (0.94–0.98)
 in between; the Asian American aggregate was 0.79 (0.78–0.80). Among Native Hawaiian
 and Pacific Islander (NHPI) subgroups, Guamanian/Chamorro/Samoan women had an IRR of 0.72
-(0.64–0.82) and Native Hawaiian women 1.21 (1.12–1.31), with an NHPI aggregate of 1.21
+(0.64–0.82) and Native Hawaiian women 1.27 (1.21–1.33), with an NHPI aggregate of 1.21
 (1.17–1.26) (Table 1; Figure 2).
 
 ### Hispanic/Latina by country of origin
@@ -334,8 +334,8 @@ On the JBI checklist, 45 of the 58 studies were at low risk of bias and 13 at mo
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
 representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to low-risk-of-bias studies left 60 of 85 cell representatives unchanged,
-with the 13 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
+throughout. Restricting to low-risk-of-bias studies left 59 of 85 cell representatives unchanged,
+with the 14 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
 and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
 Table 6a); restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
@@ -362,7 +362,7 @@ below the NHW rate.
 
 The central observation is that these aggregate figures average over the wide variation among the
 subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
-Japanese women; Native Hawaiian women (1.21) and the NHPI
+Japanese women; Native Hawaiian women (1.27) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
 Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2; each aggregate and subgroup

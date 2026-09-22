@@ -2,7 +2,7 @@
 
 Nine JBI items rated Yes/No/Unclear/NA. Q9 (response rate) is recorded NA for every study because census-like registry ascertainment has no survey response rate; NA is not counted as a defect. Overall risk of bias uses the eight applicable items: **Low** = 0-1 No and Q7 (measurement) = Yes and Q8 (analysis) = Yes; **High** = 3 or more No; **Moderate** = otherwise (including any single No on the key items Q7 or Q8). The checklist was applied by the author (a single assessor) with large-language-model assistance.
 
-Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives: {'Low': 18, 'Moderate': 5}
+Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives: {'Low': 17, 'Moderate': 5}
 
 | Rec | Study | Registry | Period | Q1_frame | Q2_sampling | Q3_size | Q4_described | Q5_coverage | Q6_condition | Q7_measurement | Q8_analysis | Q9_response | RoB |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -61,6 +61,6 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 3662 | Melkonian2021_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 3720 | Hossain2019_Louisiana | Louisiana Tumor Registry | 2010-2012 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Unclear | NA | **Moderate** |
 | 4027 | Jin 2016 | 8-state SEER+NPCR (Jin) | 2009-2011 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 4040 | Miller2008_NAACCR-API | NAACCR/SEER API (state+SEE | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 4040 | Miller2008_NAACCR-API | Hawaii Tumor Registry (Nat | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 4098 | McCracken2007_CCR | California Cancer Registry | 2000-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 4333 | Wilkinson2002 | Florida (Miami-Dade FCDS) | 1990-1998 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |

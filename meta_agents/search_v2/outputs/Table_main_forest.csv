@@ -14,8 +14,8 @@ disaggregated-AANHPI,Asian American (aggregate),0.792,0.784,0.8,234,computed
 disaggregated-AANHPI,Filipina,0.857,0.84,0.875,234,computed
 disaggregated-AANHPI,Asian Indian/Pakistani,0.958,0.937,0.979,234,computed
 disaggregated-AANHPI,Japanese,1.045,1.009,1.083,234,computed
-disaggregated-AANHPI,Native Hawaiian,1.211,1.123,1.305,4040,computed
 disaggregated-AANHPI,Native Hawaiian/PI (aggregate),1.212,1.168,1.258,234,computed
+disaggregated-AANHPI,Native Hawaiian,1.27,1.213,1.33,234,computed
 disaggregated-MENA,Middle Eastern,0.86,0.84,0.88,587,reported
 Hispanic-origin,Mexican,0.512,0.382,0.686,3182,computed
 Hispanic-origin,New Latino,0.697,0.63,0.772,3182,computed

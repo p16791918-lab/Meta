@@ -32,7 +32,7 @@ Values are the representative population-based estimate per group (one per regis
 | Group | Effect | Estimate [95% CI] | Representative study | Registry | RoB |
 |----|----|----|----|----|----|
 | Guamanian/Chamorro/Samoan | IRR | 0.723 [0.641, 0.817] ‡ | Gomez2026_SEER21 (2018-2022) | SEER-national | Moderate |
-| Native Hawaiian | IRR | 1.211 [1.123, 1.305] ‡ | Miller2008_NAACCR-API (1998-2002) | NAACCR/CiNA (~93%) | Low |
+| Native Hawaiian | IRR | 1.270 [1.213, 1.330] ‡ | Gomez2026_SEER21 (2018-2022) | SEER-national | Moderate |
 | Native Hawaiian/PI (aggregate) | IRR | 1.212 [1.168, 1.258] ‡ | Gomez2026_SEER21 (2018-2022) | SEER-national | Moderate |
 
 **Hispanic/Latina by country of origin**

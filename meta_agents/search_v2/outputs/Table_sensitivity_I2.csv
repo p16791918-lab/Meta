@@ -8,7 +8,7 @@ age-lt50,Black,2,1.021,0.902,1.156,79,4.72,1,0.030,"random-effects (PM/REML, HKS
 age-lt50,Hispanic,2,0.749,0.633,0.888,92,12.52,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0003,0.74,0.735,0.745,1,yes
 aggregate-vs-NHW,AIAN,13,0.682,0.622,0.747,99,1638.29,12,<0.001,"random-effects (PM/REML, HKSJ)",0.0199,,,,0,no
 aggregate-vs-NHW,Asian/PI (aggregate),11,0.728,0.636,0.832,100,2887.97,10,<0.001,"random-effects (PM/REML, HKSJ)",0.0394,0.769,0.751,0.787,1,no
-aggregate-vs-NHW,Black,18,0.935,0.9,0.971,99,2323.1,17,<0.001,"random-effects (PM/REML, HKSJ)",0.0058,0.933,0.92,0.946,1,no
+aggregate-vs-NHW,Black,18,0.931,0.898,0.965,99,2146.2,17,<0.001,"random-effects (PM/REML, HKSJ)",0.0051,0.933,0.92,0.946,1,no
 aggregate-vs-NHW,Hispanic,14,0.696,0.659,0.736,99,1575.14,13,<0.001,"random-effects (PM/REML, HKSJ)",0.0089,0.718,0.706,0.73,1,no
 disaggregated-AANHPI,Asian American (aggregate),2,0.746,0.35,1.592,99,147.81,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0071,0.792,0.784,0.8,1,yes
 disaggregated-AANHPI,Asian Indian/Pakistani,4,0.704,0.46,1.076,99,396.67,3,<0.001,"random-effects (PM/REML, HKSJ)",0.0703,0.958,0.937,0.979,1,no
@@ -16,7 +16,7 @@ disaggregated-AANHPI,Chinese,3,0.618,0.37,1.032,100,628.13,2,<0.001,"random-effe
 disaggregated-AANHPI,Filipina,3,0.787,0.586,1.058,99,200.01,2,<0.001,"random-effects (PM/REML, HKSJ)",0.014,0.857,0.84,0.875,1,no
 disaggregated-AANHPI,Japanese,3,0.887,0.529,1.487,99,281.66,2,<0.001,"random-effects (PM/REML, HKSJ)",0.0429,1.045,1.009,1.083,1,no
 disaggregated-AANHPI,Korean,4,0.419,0.201,0.876,100,660.27,3,<0.001,"random-effects (PM/REML, HKSJ)",0.213,0.677,0.654,0.701,1,no
-disaggregated-AANHPI,Native Hawaiian,2,1.252,0.95,1.651,11,1.12,1,0.290,"random-effects (PM/REML, HKSJ)",0.0001,1.211,1.123,1.305,1,yes
+disaggregated-AANHPI,Native Hawaiian,2,1.252,0.95,1.651,11,1.12,1,0.290,"random-effects (PM/REML, HKSJ)",0.0001,1.27,1.213,1.33,1,yes
 disaggregated-AANHPI,Vietnamese,3,0.506,0.318,0.803,98,118.48,2,<0.001,"random-effects (PM/REML, HKSJ)",0.034,0.586,0.565,0.607,1,no
 subtype-HRneg,Black,2,1.695,0.814,3.533,96,25.06,1,<0.001,"random-effects (PM/REML, HKSJ)",0.0064,1.796,1.74,1.853,1,yes
 subtype-HRneg-HER2pos,Asian/PI (aggregate),2,1.299,0.401,4.213,83,5.85,1,0.016,"random-effects (PM/REML, HKSJ)",0.0144,1.41,1.332,1.492,1,yes

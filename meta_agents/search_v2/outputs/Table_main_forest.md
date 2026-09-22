@@ -27,8 +27,8 @@ One estimate per registry family; not pooled across groups.
 | Filipina | 0.857 | 0.840-0.875 | 234 |
 | Asian Indian/Pakistani | 0.958 | 0.937-0.979 | 234 |
 | Japanese | 1.045 | 1.009-1.083 | 234 |
-| Native Hawaiian | 1.211 | 1.123-1.305 | 4040 |
 | Native Hawaiian/PI (aggregate) | 1.212 | 1.168-1.258 | 234 |
+| Native Hawaiian | 1.270 | 1.213-1.330 | 234 |
 
 **disaggregated-MENA**
 

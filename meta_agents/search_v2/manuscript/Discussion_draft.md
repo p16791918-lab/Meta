@@ -17,7 +17,7 @@ below the NHW rate.
 
 The central observation is that these aggregate figures average over the wide variation among the
 subgroups they contain. Among Asian American subgroups the IRR ranged from 0.16 in Hmong women to 1.05 in
-Japanese women; Native Hawaiian women (1.21) and the NHPI
+Japanese women; Native Hawaiian women (1.27) and the NHPI
 aggregate (1.21) exceeded the NHW rate; Hispanic incidence rose from 0.51 in Mexican women to 0.83
 in Puerto Rican women; and AI/AN incidence ranged from 0.49 in the Navajo area to 1.33 in the
 Southern Plains, against a national AI/AN aggregate of 0.87 (Figure 2; each aggregate and subgroup

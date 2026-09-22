@@ -160,9 +160,13 @@ giving 0.957 [0.951, 0.963] in place of the earlier total-count Poisson interval
 
 ## 6. Direction conversion
 - **rec 286.** Subtype IRRs are printed minority-vs-NHW (verified from
-  "In [minority]… higher/lower than NHW") and taken as-is. The overall Black
-  statement is printed NHW-vs-Black (1.04); it would invert to 0.96 but was left
-  unrecorded as ambiguous.
+  "In [minority]… higher/lower than NHW") and taken as-is. The overall comparison for
+  Black women is printed the other way round — "non-Hispanic White women was 31.3 …,
+  which was higher compared with the incidence among Black women (IRR, 1.04; 95% CI,
+  1.02–1.05)" — whereas the same paragraph gives the paper's other aggregates as
+  minority-vs-NHW (Asian/PI 0.90, AI/AN 0.82, Hispanic 0.79). That row is therefore
+  inverted to Black/NHW 0.96 [0.95, 0.98] so its direction matches both the review's
+  scale and the paper's own other aggregates; provenance `directly-reported-IRR-inverted`.
 
 ## 7. Overlap studies entered for the sensitivity analysis (not representatives)
 These five were read from full text and enter the ledger only as
