@@ -6,13 +6,17 @@ const path = require("path");
 const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
   Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, ImageRun,
-  PageOrientation,
+  PageOrientation, PageBreak,
 } = require("docx");
 
 const FONT = "Times New Roman";
 const SRC = path.join(__dirname, "Manuscript_full.md");
 const MANIFEST = path.join(__dirname, "_maintext_manifest.json");
 const OUTDOCX = path.join(__dirname, "Manuscript_Full.docx");
+// State the page size rather than leaving it to the reader's default: Word assumes
+// Letter and LibreOffice A4, which paginates the same file differently and cost
+// the figures 0.25 inch of width in the PDF conversion.
+const LETTER = { width: 12240, height: 15840 };
 
 // ---- text (markdown) rendering ------------------------------------------------
 // Unicode superscript digits/signs used for reference callouts. Rendered with a
@@ -111,7 +115,9 @@ function figureBlocks(M, title) {
     else if (m.type === "para") out.push(new Paragraph({ children: [new TextRun({ text: m.text, font: LFONT, size: 16, italics: !!m.italic })], spacing: { after: 120, line: 260 } }));
     else if (m.type === "table") out.push(buildTable(m));
     else if (m.type === "image") { const buf = fs.readFileSync(m.path); out.push(new Paragraph({ children: [new ImageRun({ type: "png", data: buf, transformation: { width: m.w, height: m.h } })] })); }
-    // ignore pagebreak markers; the section flows continuously
+    // Honour the page breaks: without them a figure heading can be left at the
+    // foot of one page and its figure pushed to the next.
+    else if (m.type === "pagebreak") out.push(new Paragraph({ children: [new PageBreak()] }));
   }
   return out;
 }
@@ -119,9 +125,9 @@ function figureBlocks(M, title) {
 const doc = new Document({
   styles: { default: { document: { run: { font: FONT, size: 24 } } } },
   sections: [
-    { properties: { page: { margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } } }, children: textBlocks() },
-    { properties: { page: { size: { orientation: PageOrientation.LANDSCAPE }, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[0], "Tables") },
-    { properties: { page: { margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[1], "Figures") },
+    { properties: { page: { size: LETTER, margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } } }, children: textBlocks() },
+    { properties: { page: { size: { ...LETTER, orientation: PageOrientation.LANDSCAPE }, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[0], "Tables") },
+    { properties: { page: { size: LETTER, margin: { top: 1080, bottom: 1080, left: 1080, right: 1080 } } }, children: figureBlocks(manifestSplit()[1], "Figures") },
   ],
 });
 Packer.toBuffer(doc).then(b => { fs.writeFileSync(OUTDOCX, b); console.log("wrote Manuscript_Full.docx (text + Table 1 + Figures 1-3)"); });

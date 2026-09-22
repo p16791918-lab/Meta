@@ -23,8 +23,8 @@ def IMG(p, w, h): M.append({"type": "image", "path": os.path.join(OUT, p), "w": 
 
 def IMG_FIT(p, max_w, max_h):
     """Embed a figure at its own aspect ratio, scaled to fit inside max_w x max_h
-    (pixels at 96 dpi, i.e. the printable area of the page less the heading and the
-    Note). Reading the size from the file keeps a regenerated figure from being
+    (pixels at 96 dpi). The box is the narrower of the Letter and A4 printable
+    areas less the heading and the Note, so the page fits either paper size. Reading the size from the file keeps a regenerated figure from being
     stretched, and keeps a tall figure from running off the bottom of the page in
     the PDF conversion."""
     from PIL import Image
@@ -76,13 +76,13 @@ PB()
 
 # ==== Figures ====
 H("Figure 1. PRISMA 2020 flow diagram", 1)
-IMG_FIT("Fig_PRISMA.png", 660, 780)
+IMG_FIT("Fig_PRISMA.png", 634, 780)
 PB()
 H("Figure 2. Aggregate-to-disaggregated heterogeneity in breast cancer incidence "
   "(representative IRR vs non-Hispanic White, 95% CI): the Asian American, Native Hawaiian "
   "and Pacific Islander (AANHPI), Hispanic/Latina, and American Indian and Alaska Native "
   "(AI/AN) aggregates, each shown with its subgroups", 1)
-IMG_FIT("Fig_forest_main.png", 660, 780)
+IMG_FIT("Fig_forest_main.png", 634, 720)
 P("Note. Each point is the representative estimate for one analytic cell, drawn from a separate "
   "study; an aggregate and its subgroups differ in registry, region, diagnosis period, and "
   "standard population. Diamonds mark aggregate groups, circles subgroups. A solid bar is a 95% "
@@ -92,7 +92,7 @@ P("Note. Each point is the representative estimate for one analytic cell, drawn 
 PB()
 H("Figure 3. Incidence rate ratio by racial or ethnic group and analytic dimension "
   "(representative estimate vs non-Hispanic White; 1.0 = the NHW rate)", 1)
-IMG_FIT("Fig_heatmap.png", 660, 780)
+IMG_FIT("Fig_heatmap.png", 634, 780)
 
 json.dump(M, open(os.path.join(OUT, "_maintext_manifest.json"), "w"), ensure_ascii=False)
 from collections import Counter
