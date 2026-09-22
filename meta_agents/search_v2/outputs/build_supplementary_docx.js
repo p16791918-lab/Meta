@@ -144,11 +144,13 @@ const doc = new Document({
         margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
       children: mainKids,
     },
-    { // portrait: figures
+    // portrait: figures. Only when there are any — an empty section still
+    // prints a blank page at the end of the document.
+    ...(figKids.length ? [{
       properties: { page: { size: { width: 12240, height: 15840 },
         margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
       children: figKids,
-    },
+    }] : []),
   ],
 });
 Packer.toBuffer(doc).then(b => { fs.writeFileSync("Supplementary_Materials.docx", b); console.log("wrote Supplementary_Materials.docx (" + (mainKids.length + figKids.length) + " blocks)"); });
