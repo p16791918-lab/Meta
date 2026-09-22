@@ -46,7 +46,7 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 500 | Gopalani2020_31764279 | USCS(NPCR+SEER) | 1999-2015 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
 | 522 | Ihenacho2023_HTR | Hawaii Tumor Registry (SEE | 2010-2014 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 587 | Nasseri2009 | California-CCR | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | NA | **Moderate** |
-| 955 | Goggins2009 | SEER (SF/Seattle/Detroit/A | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | NA | **Moderate** |
+| 955 | Goggins2009 | SEER 7-registry subset (CT | 1988-2004 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Unclear | NA | **Moderate** |
 | 1478 | Yazzie2025_Navajo | Navajo Nation registry (IH | 2014-2018 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 2131 | Xie2022_USCS | USCS(NPCR+SEER) | 1999-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 2137 | Melkonian 2022 | USCS-AIAD urban (IHS-linke | 2008-2017 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
@@ -61,6 +61,6 @@ Overall (58 studies): {'Low': 45, 'Moderate': 13}. Main-analysis representatives
 | 3662 | Melkonian2021_IHS-PRCDA | IHS-linked (NPCR/SEER, PRC | 2012-2016 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 3720 | Hossain2019_Louisiana | Louisiana Tumor Registry | 2010-2012 | Yes | Yes | Yes | Yes | Unclear | Yes | Yes | Unclear | NA | **Moderate** |
 | 4027 | Jin 2016 | 8-state SEER+NPCR (Jin) | 2009-2011 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
-| 4040 | Miller2008_NAACCR-API | Hawaii Tumor Registry (Nat | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
+| 4040 | Miller2008_HTR | Hawaii Tumor Registry (Nat | 1998-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |
 | 4098 | McCracken2007_CCR | California Cancer Registry | 2000-2002 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | NA | **Moderate** |
 | 4333 | Wilkinson2002 | Florida (Miami-Dade FCDS) | 1990-1998 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | NA | **Low** |

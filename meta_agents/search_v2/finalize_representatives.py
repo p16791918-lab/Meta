@@ -67,7 +67,7 @@ def registry_family(reg):
     # state but far less than the full national USCS/NAACCR file; rank it below
     # national SEER so the national representative is preferred.
     if ("8-state" in s or "eight-state" in s or "8 state" in s or "7-state" in s
-            or "delta" in s or "lower mississippi" in s):
+            or "delta" in s or "lower mississippi" in s or "registry subset" in s):
         return ("Multi-state registry subset (regional)", 5, "national")
     if "uscs" in s or "50-state" in s or "npcr" in s:
         return ("USCS(NPCR+SEER ~99%)", 9, "national")
