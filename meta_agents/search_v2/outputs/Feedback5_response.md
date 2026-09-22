@@ -14,6 +14,8 @@
 
 - **비교 방향 전수 점검(추가 확인)**: 같은 문제의 잔존 여부를 추출표 전체로 점검. 발생률에서 계산한 122행은 minority ÷ NHW로 방향이 고정되고 내부 점검에서 원문 발생률로 재검증됨. 원문 보고값 98행 중 같은 셀에 추정치가 3개 이상 있어 상호 대조가 가능한 행에서 방향 이탈 후보 3건 검출 → Nash 2022는 외부 NHW 기준을 쓴 계산값, Wingo 2008은 원문이 national 0.63·Northern Plains 0.89·Southern Plains 0.89·Alaska 0.99로 모두 minority 기준, Zahnd 2019는 원문 "non-Hispanic Black women had … higher rates than non-Hispanic White women (RR = 1.07; 95% CI 1.04–1.11)"로 확인되어 3건 모두 방향 정확. 셀 내 대조가 불가능한 33행 중 1을 넘는 9행도 NHB 여성의 40세·50세 미만 교차(1.01–1.16), Asian/Hispanic/AI·AN의 HR−/HER2+ 아형(1.04–1.41) 등 알려진 소견과 부합. 방향 반전이 필요한 행은 Kong 2020 overall Black 1건.
 
+- **자료원 기재 전수 점검(추가 확인)**: Miller 건과 같은 유형(원문의 실제 자료원 범위와 기재 불일치)이 다른 연구에도 남아 있는지 점검. 이 유형은 라벨-분류 자동 점검으로는 걸러지지 않으므로, 대표값을 공급하는 22개 연구의 자료원 기재를 원문 범위와 대조. ① 소수 subgroup의 대표이면서 전국급 coverage로 분류된 10건은 모두 Gomez 2026이며, 원문이 "21 registries (excluding Alaska and Seattle, Washington)"와 표 제목 "SEER-21 Program"으로 전국 집계를 명시하고 특정 주 한정 서술이 없어 기재가 정확함을 확인. ② 나머지 대표 자료원(Hawaii Tumor Registry, California-CCR, Florida, IHS-PRCDA, Alaska Native Tumor Registry, USCS, SEER)도 모두 실제 범위대로 분류돼 있음 — Navajo Nation 레지스트리는 Navajo 지역 셀의 대표이므로 지역 한정이 정합. ③ SEER 하위범위(9/17/18/21)를 단일 'SEER-national' tier로 묶은 설계상 단순화가 있으나, 좁은 SEER가 같은 셀의 더 넓은 SEER 추정치를 이겨 대표가 된 사례는 **0건**으로 선정 왜곡 없음. 결과적으로 자료원 기재 정정이 필요한 연구는 Miller 2008 1건.
+
 ---
 
 ## 2. 표준인구의 영향이 비율에서 상쇄된다는 설명을 수정해주세요.
