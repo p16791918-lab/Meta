@@ -95,6 +95,13 @@ def registry_family(reg):
         return ("California-CCR", 3, "national")
     if "hawaii" in s:
         return ("Hawaii Tumor Registry (SEER)", 2, "national")
+    # Single SEER registries covering one metropolitan area or one state — these
+    # are named SEER registries, not the national SEER program, so they rank with
+    # the other single-area/single-state sources rather than at SEER-national.
+    if "atlanta" in s:
+        return ("SEER: Metropolitan Atlanta", 2, "national")
+    if "new mexico" in s:
+        return ("State: New Mexico (SEER)", 4, "national")
     if "seer" in s:               # plain SEER national (9/13/17/18/21/22)
         return ("SEER-national", 6, "national")
     return ("Other/unspecified", 1, "national")
