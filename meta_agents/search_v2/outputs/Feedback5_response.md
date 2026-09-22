@@ -34,18 +34,6 @@
 
 ---
 
-## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
-
-- **중복 제외 vs 서술적 종합 잔류 — 구분 원리를 Methods에 명시**: 종전 Methods는 "같은 registry·기간·인구의 재보고는 제외"만 기술해, 같은 사유가 적힌 연구가 narrative로 남아 있는 것과 어긋났음. 실제 판정 기준은 **"이미 포함된 다른 출판물이 그 내용을 담고 있는가"**였으므로 이를 원리로 명시하고 두 경우를 구분해 서술: ① 재보고는 독립 추정치가 아니어서 **어느 경우에도 대표값 후보가 되지 않음**; ② 그중 포함된 다른 출판물이 내용을 이미 담은 것(같은 시리즈의 **이전 연도판**, 포함된 분석의 **preprint·book-chapter판**)은 리뷰에 새 정보를 더하지 않으므로 **제외**(중복 55편 중 51편이 연례 통계 시리즈 이전판, 4편이 preprint·book-chapter 중복); ③ 반면 **시리즈의 최신 적격판**은 그 시리즈의 현재 서술을 담은 유일한 판이므로 리뷰에는 포함하되, 해당 registry·기간의 발생률은 전담 primary 연구가 이미 제공하므로 **서술적 종합에만 기여**; ④ 같은 registry family라도 기간·지역·subset이 다르면 별개 추정치로 보아 **민감도 overlap으로 유지**. 이로써 Giaquinto 2024(rec 0)와 Saka 2025(rec 4294)가 narrative에 남는 근거와, 같은 시리즈 이전판들이 제외된 근거가 하나의 기준으로 설명됨. 참고로 제외된 83편 중 51편이 연례 통계 시리즈의 **이전 연도판**(Breast cancer statistics 2015·2019, Cancer statistics for African Americans 2016·2022, Annual Report to the Nation 1973–1999 ~ 1975–2014 등)임을 확인. 즉 실제로는 "**시리즈별로 최신 적격판 1편만 남기고 이전 판은 중복으로 제외**"하는 규칙이 적용되고 있었으나 Methods에 서술되지 않아 지적된 불일치가 발생. Methods 적격기준에 해당 규칙과, **남긴 최신판은 해당 registry·기간의 발생률을 전담 primary 연구가 이미 제공하므로 대표값 후보로 쓰지 않고 서술적 종합에만 기여**한다는 점을 명시. 이로써 Giaquinto 2024(rec 0, Breast cancer statistics 2024)와 Saka 2025(rec 4294, Cancer statistics for African American and Black people 2025)가 같은 사유로 narrative에 남는 근거가 드러남.
-
-- **Li 2025 분류 사유 수정**: 해당 연구는 rec 46(JAMA Netw Open 2025, SEER 22개 레지스트리 2010–2019, joinpoint 연간변화율 분석)으로 확인. 종전 표기 "single poolable estimate가 아님"은 pooling을 하지 않는 현재 분석 방식과 맞지 않으므로, 실제 사유인 **"연간 추세(annual percentage change)로만 보고해 단면 연령표준화율·비율을 추출할 수 없음"**으로 교체.
-
-- **Supplementary Table 2의 narrative 사유 전면 실제화**: 점검 결과 narrative 118편 중 **103편이 "No recoverable NHW comparison" 한 문구로 일괄 표시**되고 있었음(개별 사유 부여는 15편). 실제 사유는 시리즈 재보고 9, 추세만 28, 사회경제적 비교 6, 비미국 비교군 5, 비율 아님(PIR 등) 5, 그림 전용 4 등으로 다양하므로, 적격성 기록에 사유가 있는 경우 그 사유를 유형별 문구로 표시하도록 수정 → **개별 사유 표시가 15편에서 57편으로 확대**. 사유 기록이 없는 나머지는 포괄 사유("NHW 기준 연령표준화율·비율을 복구할 수 없음")로 표시하고, 어떤 경우에 개별 사유가 표시되고 어떤 경우에 포괄 사유가 표시되는지를 Supplementary Table 2 Note에 명시.
-
-- **대표값 선정 단위 표기 통일**: Introduction("one representative population-based estimate per registry family"), Table 1 Note("one per registry family"), 본문 표·그림 Note에 남아 있던 **"per registry family"를 Methods의 "per analytic cell"로 통일**. registry family는 셀 내부의 중복 판정 단위로만 쓰인다는 점을 작성 지침에도 반영.
-
----
-
 ## 3. 민감도분석의 조건과 실제 결과를 일치시켜주세요.
 
 - **Goggins 2009 SIR — 조건과 코드 불일치 정정**: Methods는 SIR이 간접표준화이므로 directly-reported-IRR 민감도에서 제외한다고 서술했으나, 코드의 필터 집합이 `{directly-reported-IRR, directly-reported-SIR}`로 **SIR을 포함**하고 표 제목도 "IRR/SIR only"였음. 지적대로 코드를 Methods에 맞춰 필터에서 SIR을 제거하고, 표 제목·캡션·Note를 "directly reported IRR only(간접표준화 SIR 제외)"로 수정. 그 결과 Goggins 2009의 0.61 [0.56–0.66]이 Table 6b에서 빠지고 Asian Indian/Pakistani 셀은 dropped로 이동 → **6b 결과가 35 unchanged / 5 changed / 45 dropped → 35 unchanged / 4 changed / 46 dropped**로 갱신(Results 서술도 함께 수정). 한편 Kong 2020의 역수 변환 행(item 1)은 원문 보고값의 방향만 바꾼 것이어서 계산 유도값과 구분해 directly-reported 계열에 포함시키고, 그 처리 근거를 코드 주석과 Note에 명시.
@@ -55,3 +43,15 @@
 - **변경 전후 출처 연구 표시**: 네 표의 값 컬럼에 해당 추정치를 공급한 연구를 병기하도록 변경 — "Main analysis: IRR [95% CI] — study"와 "Under restriction: IRR [95% CI] — study". 따라서 changed 셀에서는 **교체된 연구와 교체한 연구가 한 행에서 함께** 보이고(예: Japanese 아형 셀에서 Gomez 2026 → Jin 2016), dropped 셀은 "not available under this restriction"으로 표시.
 
 - **dropped cell 해석 주의 명시**: 제한을 충족하지 못해 제외된 cell을 견고성 확인으로 읽지 않도록, Supplementary Table 6 Note에 "dropped cell은 그 제한 하에서 **검증되지 않은(untested)** 것이며 확인된 것이 아니다"를 명시. Discussion의 민감도 서술도 "대부분의 차이가 불일치가 아니라 자격 미충족에 따른 drop"이라는 안심형 표현을 걷어내고, **각 제한이 재검토할 수 있었던 cell에 한해 패턴이 유지되었으며 directly-reported 제한만으로도 85개 중 46개 cell이 미검토로 남는다**는 사실을 함께 기술.
+
+---
+
+## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
+
+- **중복 제외 vs 서술적 종합 잔류 — 구분 원리를 Methods에 명시**: 종전 Methods는 "같은 registry·기간·인구의 재보고는 제외"만 기술해, 같은 사유가 적힌 연구가 narrative로 남아 있는 것과 어긋났음. 실제 판정 기준은 **"이미 포함된 다른 출판물이 그 내용을 담고 있는가"**였으므로 이를 원리로 명시하고 두 경우를 구분해 서술: ① 재보고는 독립 추정치가 아니어서 **어느 경우에도 대표값 후보가 되지 않음**; ② 그중 포함된 다른 출판물이 내용을 이미 담은 것(같은 시리즈의 **이전 연도판**, 포함된 분석의 **preprint·book-chapter판**)은 리뷰에 새 정보를 더하지 않으므로 **제외**(중복 55편 중 51편이 연례 통계 시리즈 이전판, 4편이 preprint·book-chapter 중복); ③ 반면 **시리즈의 최신 적격판**은 그 시리즈의 현재 서술을 담은 유일한 판이므로 리뷰에는 포함하되, 해당 registry·기간의 발생률은 전담 primary 연구가 이미 제공하므로 **서술적 종합에만 기여**; ④ 같은 registry family라도 기간·지역·subset이 다르면 별개 추정치로 보아 **민감도 overlap으로 유지**. 이로써 Giaquinto 2024(rec 0)와 Saka 2025(rec 4294)가 narrative에 남는 근거와, 같은 시리즈 이전판들이 제외된 근거가 하나의 기준으로 설명됨. 참고로 제외된 83편 중 51편이 연례 통계 시리즈의 **이전 연도판**(Breast cancer statistics 2015·2019, Cancer statistics for African Americans 2016·2022, Annual Report to the Nation 1973–1999 ~ 1975–2014 등)임을 확인. 즉 실제로는 "**시리즈별로 최신 적격판 1편만 남기고 이전 판은 중복으로 제외**"하는 규칙이 적용되고 있었으나 Methods에 서술되지 않아 지적된 불일치가 발생. Methods 적격기준에 해당 규칙과, **남긴 최신판은 해당 registry·기간의 발생률을 전담 primary 연구가 이미 제공하므로 대표값 후보로 쓰지 않고 서술적 종합에만 기여**한다는 점을 명시. 이로써 Giaquinto 2024(rec 0, Breast cancer statistics 2024)와 Saka 2025(rec 4294, Cancer statistics for African American and Black people 2025)가 같은 사유로 narrative에 남는 근거가 드러남.
+
+- **Li 2025 분류 사유 수정**: 해당 연구는 rec 46(JAMA Netw Open 2025, SEER 22개 레지스트리 2010–2019, joinpoint 연간변화율 분석)으로 확인. 종전 표기 "single poolable estimate가 아님"은 pooling을 하지 않는 현재 분석 방식과 맞지 않으므로, 실제 사유인 **"연간 추세(annual percentage change)로만 보고해 단면 연령표준화율·비율을 추출할 수 없음"**으로 교체.
+
+- **Supplementary Table 2의 narrative 사유 전면 실제화**: 점검 결과 narrative 118편 중 **103편이 "No recoverable NHW comparison" 한 문구로 일괄 표시**되고 있었음(개별 사유 부여는 15편). 실제 사유는 시리즈 재보고 9, 추세만 28, 사회경제적 비교 6, 비미국 비교군 5, 비율 아님(PIR 등) 5, 그림 전용 4 등으로 다양하므로, 적격성 기록에 사유가 있는 경우 그 사유를 유형별 문구로 표시하도록 수정 → **개별 사유 표시가 15편에서 57편으로 확대**. 사유 기록이 없는 나머지는 포괄 사유("NHW 기준 연령표준화율·비율을 복구할 수 없음")로 표시하고, 어떤 경우에 개별 사유가 표시되고 어떤 경우에 포괄 사유가 표시되는지를 Supplementary Table 2 Note에 명시.
+
+- **대표값 선정 단위 표기 통일**: Introduction("one representative population-based estimate per registry family"), Table 1 Note("one per registry family"), 본문 표·그림 Note에 남아 있던 **"per registry family"를 Methods의 "per analytic cell"로 통일**. registry family는 셀 내부의 중복 판정 단위로만 쓰인다는 점을 작성 지침에도 반영.
