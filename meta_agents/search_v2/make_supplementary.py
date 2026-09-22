@@ -276,27 +276,54 @@ PB()
 # ---- S10 sensitivity ----
 H("Supplementary Table 6. Sensitivity analyses", 1)
 from collections import Counter as _Ctr
+# record_id -> reader-facing author-year, so each row can name the study that filled
+# the cell in the main analysis and the one that replaces it under the restriction.
+_sens_ay = {}
+for _r in rd("breast_extraction.csv"):
+    _sens_ay.setdefault(_r["record_id"], _r.get("author_year", ""))
+
+
+def _sens_src(rec):
+    if not rec:
+        return ""
+    lab = _sens_ay.get(rec, "")
+    return (" — " + cite(lab)) if lab else ""
+
+
+def _sens_rows(rows):
+    out = []
+    for r in rows:
+        main = r["main_irr"] + r.get("main_ci", "") + _sens_src(r.get("main_rec"))
+        sens = ((r["sens_irr"] + r.get("sens_ci", "") + _sens_src(r.get("sens_rec")))
+                if r["sens_irr"] else "not available under this restriction")
+        out.append([disp_dim(r["dimension"]), disp_group(r["group"]), main, sens, r["status"]])
+    return out
+
+
+_SENS_HDR = ["Dimension", "Group", "Main analysis: IRR [95% CI] — study",
+             "Under restriction: IRR [95% CI] — study", "Status"]
+_SENS_W = [1400, 1800, 3400, 3400, 800]
 s1 = rd("outputs/Sensitivity1_good_rob.csv"); ch1 = [r for r in s1 if r["status"] != "unchanged"]
 _c1 = _Ctr(r["status"] for r in s1)
 P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c1["unchanged"], sum(_c1.values()), _c1["changed"], _c1["dropped"]))
-TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch1], [1800, 2200, 3000, 3000, 900])
-s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] == "changed"]
+TB(_SENS_HDR, _sens_rows(ch1), _SENS_W)
+s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] != "unchanged"]
 _c2 = _Ctr(r["status"] for r in s2)
-P("Table 6b. Directly-reported-only (computed estimates dropped): %d unchanged, %d changed, %d dropped — most disaggregated/subtype cells rely on computed rates (registries report rates, not ratios)."
+P("Table 6b. Directly-reported IRR only (estimates the review computed from rates, and the single SIR, are dropped): %d unchanged, %d changed, %d dropped — most disaggregated and subtype cells rely on computed rates, because registries publish rates rather than ratios."
   % (_c2["unchanged"], _c2["changed"], _c2["dropped"]))
-TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch2], [1800, 2200, 3000, 3000, 900])
+TB(_SENS_HDR, _sens_rows(ch2), _SENS_W)
 s3 = rd("outputs/Sensitivity3_nhw_only.csv"); ch3 = [r for r in s3 if r["status"] != "unchanged"]
 _c3 = _Ctr(r["status"] for r in s3)
 P("Table 6c. Non-Hispanic White comparator only (unstratified-White comparators dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c3["unchanged"], sum(_c3.values()), _c3["changed"], _c3["dropped"]))
-TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch3], [1800, 2200, 3000, 3000, 900])
+TB(_SENS_HDR, _sens_rows(ch3), _SENS_W)
 s4 = rd("outputs/Sensitivity4_std2000us.csv"); ch4 = [r for r in s4 if r["status"] != "unchanged"]
 _c4 = _Ctr(r["status"] for r in s4)
 P("Table 6d. 2000 U.S. standard population only (estimates on other standard populations dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c4["unchanged"], sum(_c4.values()), _c4["changed"], _c4["dropped"]))
-TB(["Dimension", "Group", "Main IRR [95% CI]", "Sens IRR [95% CI]", "Status"], [[disp_dim(r["dimension"]), disp_group(r["group"]), r["main_irr"] + r.get("main_ci", ""), (r["sens_irr"] + r.get("sens_ci", "")) if r["sens_irr"] else "-", r["status"]] for r in ch4], [1800, 2200, 3000, 3000, 900])
-P("Main IRR = representative estimate in the main analysis. Sens IRR = the representative re-selected after applying the sensitivity restriction (low-risk-of-bias only in Table 6a; author-reported IRR/SIR only in Table 6b; NHW-comparator only in Table 6c; 2000 U.S. standard population only in Table 6d). Status: unchanged = same study remains the representative; changed = a different study becomes the representative (its IRR is shown); dropped = no eligible estimate remained for that cell (Sens IRR = “–”). Only changed/dropped cells are listed; the remaining cells were unchanged. A “dropped” cell means no estimate met the restriction, not that the main estimate changed.", True)
+TB(_SENS_HDR, _sens_rows(ch4), _SENS_W)
+P("The first value column is the representative estimate in the main analysis; the second is the representative re-selected after applying the restriction (low-risk-of-bias only in Table 6a; directly reported IRR only in Table 6b, where the SIR is excluded because it standardizes indirectly to the reference population; NHW-comparator only in Table 6c; 2000 U.S. standard population only in Table 6d). Each value is followed by the study that supplied it, so a changed cell shows both the study that is replaced and the study that replaces it. Status: unchanged = the same study remains the representative; changed = a different study becomes the representative; dropped = no estimate in that cell met the restriction. Every changed and dropped cell is listed; the cells not listed were unchanged. A dropped cell is not evidence that the main estimate is robust — the restriction leaves that cell untested, so dropped cells should be read as unexamined under that restriction rather than as confirmation.", True)
 PB()
 
 # ==== NOTES (after all tables) ====

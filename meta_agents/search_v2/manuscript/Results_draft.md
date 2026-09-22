@@ -116,7 +116,8 @@ representative selection was examined in four ways (Supplementary Table 6), and 
 throughout. Restricting to low-risk-of-bias studies left 59 of 85 cell representatives unchanged,
 with the 14 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
 and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
-Table 6a); restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped;
+Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
+SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
 unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and

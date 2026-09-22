@@ -348,7 +348,8 @@ representative selection was examined in four ways (Supplementary Table 6), and 
 throughout. Restricting to low-risk-of-bias studies left 59 of 85 cell representatives unchanged,
 with the 14 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
 and, in smaller numbers, the receptor-subtype, age-specific, and Middle Eastern cells (Supplementary
-Table 6a); restricting to directly reported estimates left 35 unchanged (5 changed, 45 dropped;
+Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
+SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
 unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and
@@ -421,9 +422,11 @@ chiefly the receptor-defined subtypes, can shift a ratio slightly.
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a
 set of mutually calibrated rates. The
-main pattern held across the four sensitivity analyses: few cells changed representative on
-restriction, and most of the differences were cells dropped for lack of a qualifying estimate rather
-than cells that disagreed. Standard-population differences changed little, and the changes that did
+main pattern held across the four sensitivity analyses in the cells that each restriction could
+re-examine: few of those cells changed representative. Most of the remaining cells were dropped
+because no estimate met the restriction, and a dropped cell is untested under that restriction
+rather than confirmed by it—the directly-reported restriction alone leaves 46 of the 85 cells
+unexamined, because registries publish rates rather than ratios. Standard-population differences changed little, and the changes that did
 occur clustered in the disaggregated AANHPI subgroups and the age-specific cells whose estimates sit
 near the NHW rate, as with the Japanese cell above, so the aggregate ordering is robust
 while a few near-null subgroup signs are not.

@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """Sensitivity analyses requested (Feedback 6):
   #1  Low-RoB-only : keep only studies rated low risk of bias (JBI).
-  #2  Directly-reported-only : keep only estimates the source printed as a ratio
-      (provenance directly-reported-IRR / -SIR); drop everything we computed.
+  #2  Directly-reported-only : keep only estimates the source printed as a directly
+      standardized rate ratio (provenance directly-reported-IRR, including the one row
+      inverted from an NHW-vs-minority statement). Estimates the review computed from
+      rates are dropped, and so is the standardized incidence ratio (SIR), which
+      standardizes indirectly to the reference population and is therefore not the same
+      quantity as the directly standardized IRRs this restriction is meant to isolate.
 
 For every main-analysis cell (outcome_dim x group x registry-family), re-select
 the best representative from the filtered rows using the SAME selection rule as
@@ -20,7 +24,7 @@ LED = os.path.join(HERE, "breast_extraction.csv")
 ROB = os.path.join(HERE, "outputs", "TableS_risk_of_bias.csv")
 OUT = os.path.join(HERE, "outputs")
 QUAR = {"UNVERIFIED", "UNVERIFIED-table", "NO-FULLTEXT"}
-DIRECT = {"directly-reported-IRR", "directly-reported-SIR"}
+DIRECT = {"directly-reported-IRR", "directly-reported-IRR-inverted"}
 # reference groups that are (or are equivalent to) non-Hispanic White
 NHW_OK = {"NHW", "White (NH)", "NHW (external SEER-Explorer)"}
 
@@ -181,7 +185,7 @@ def main():
 
     c2 = write(run(rows, lambda r: r["provenance"] in DIRECT, mainrep, "SENS2"),
                "Sensitivity2_directly_reported",
-               "Sensitivity #2 — directly-reported IRR/SIR only (computed estimates dropped)")
+               "Sensitivity #2 — directly-reported IRR only (computed estimates and the SIR dropped)")
     print("\n#2 directly-reported-only:", dict(c2))
 
     c1 = write(run(rows, lambda r: r["_qual"] == "Low", mainrep, "SENS1"),
