@@ -42,8 +42,8 @@ near-null difference is not robust for this subgroup. Such a change on restricti
 risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022)
 and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
-Two features of the underlying data shaped these estimates.
-First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
+Two features of the underlying data shaped these estimates: how AI/AN cases were ascertained, and
+which White group each source compared against. Unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
 Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The two national
 figures differ substantially—0.56 from an unlinked source and 0.87 from an IHS-linked one—but they
 come from separate studies, so the gap cannot be read as the effect of linkage alone. Three
@@ -55,7 +55,9 @@ national one. Those counties contain or adjoin federally recognized tribal lands
 of the U.S. AI/AN population, with regional coverage from 16% in the East to all of Alaska,⁵³ so the
 IHS-linked figures describe about half of this population rather than the whole of it, and the
 better-covered regions are those where AI/AN residents make up a larger share of the county
-population. Only the third difference—how AI/AN race was ascertained—is the linkage itself. Among IHS-linked national estimates the ratio also rose over time, from 0.63
+population. Only the third difference—how AI/AN race was ascertained—is the linkage itself.
+
+Among IHS-linked national estimates the ratio also rose over time, from 0.63
 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the
 representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary
 widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an
@@ -69,8 +71,10 @@ scope.⁴¹,⁵⁸ The IHS-linked correction, however, was
 available only for the aggregate and regional estimates: no Indian Health Service–linked source
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
-understate the true rates. Second, reference
-groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an
+understate the true rates.
+
+Reference
+groups also differed across sources—66 of the 85 representatives used an NHW comparator and 19 an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
 16 of them receptor-defined subtypes, can shift a ratio slightly.
