@@ -35,6 +35,7 @@ echo "\n--- manuscript and manifests"
 python3 make_maintext.py              # figure sizes read from the regenerated PNGs
 python3 make_supplementary.py
 python3 assemble_manuscript.py
+python3 make_changelog.py             # which paragraphs changed this round, and why
 
 echo "\n--- cross-check (gates the document build)"
 python3 crosscheck_master.py
@@ -42,7 +43,7 @@ python3 crosscheck_master.py
 echo "\n--- documents"
 cd outputs
 for b in build_maintext_docx.js build_supplementary_docx.js build_manuscript_docx.js \
-         build_feedback5_docx.js; do
+         build_feedback5_docx.js build_changelog_docx.js; do
     [ -f "$b" ] && node "$b"
 done
 cd ..

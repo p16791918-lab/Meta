@@ -9,7 +9,7 @@
 set -e
 cd "$(dirname "$0")/outputs"
 PROFILE="${TMPDIR:-/tmp}/lo-profile-$$"
-for f in Manuscript_Full Main_Text_Tables_Figures Supplementary_Materials Feedback5_Response; do
+for f in Manuscript_Full Main_Text_Tables_Figures Supplementary_Materials Feedback5_Response Changes_for_review; do
     [ -f "$f.docx" ] || continue
     soffice --headless --norestore -env:UserInstallation="file://$PROFILE" \
             --convert-to pdf --outdir . "$f.docx" >/dev/null 2>&1

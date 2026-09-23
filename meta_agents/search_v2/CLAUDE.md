@@ -30,4 +30,16 @@
 
 Key paths: ledger `breast_extraction.csv`; display labels `labels.py`; deliverable generators
 `make_*.py` → `outputs/build_*_docx.js`; drafts in `manuscript/`; source PDFs in `fulltext/<rec>.pdf`.
+
+**Rebuild with `./build_all.sh`**, never one generator by hand: it runs the chain in dependency
+order and will not write the documents unless `crosscheck_master.py` passes. It ends by converting
+the documents to PDF (`build_pdfs.sh`; needs `libreoffice-writer`, which `libreoffice-core` alone
+does not provide) — layout faults such as a clipped figure show up only there.
+
+**Every change to the manuscript prose must be findable by the supervisor.** `make_changelog.py`
+reads the git history for the round and writes `outputs/Changes_for_review.(md|docx|pdf)`: for each
+changed paragraph, its section, a phrase to search for in the Word or PDF file, the sentences before
+and after, and the commit subject as the reason. It runs inside `build_all.sh`, so it stays current
+as long as each change is committed with a subject that says why. It defaults to the current round
+and takes `--round N` or a commit range for an earlier one.
 Work on branch `claude/usage-question-q3vm84`; commit and push after each meaningful change.
