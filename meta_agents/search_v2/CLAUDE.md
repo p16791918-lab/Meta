@@ -42,4 +42,7 @@ changed paragraph, its section, a phrase to search for in the Word or PDF file, 
 and after, and the commit subject as the reason. It runs inside `build_all.sh`, so it stays current
 as long as each change is committed with a subject that says why. It defaults to the current round
 and takes `--round N` or a commit range for an earlier one.
+
+A correction found outside the supervisor's numbered items still goes in the round's response
+document, under the closing **추가 수정** section, so nothing reaches them unannounced.
 Work on branch `claude/usage-question-q3vm84`; commit and push after each meaningful change.

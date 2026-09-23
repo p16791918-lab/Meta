@@ -128,3 +128,13 @@
 - **지역값·비교군 표시 일치 확인**: Figure 2가 실제로 그린 27개 행 전부를 Table 1과 1:1 대조 — 새로 넣은 AI/AN 지역 4건(Southwest 0.57·East 0.61·Pacific Coast 0.93·Northern Plains 1.05)이 모두 "(point est.)"로 표와 동일하게 표시되고, † 표기는 Alaska Native 1.09 [0.99–1.21] 한 건으로 표·그림이 일치하며 그 외 행에 잘못 붙은 †는 없음. ‡ 표기(리뷰 계산 구간)도 전 행 일치. **불일치 0건.**
 
 - **재발 방지 점검 추가**: 표와 그림이 다시 어긋나지 않도록 교차점검에 **[I] Table 1 vs 본문 그림** 항목을 신설 — Table 1의 38개 cell과 **Figure 2가 실제로 그린 27개 행**을 각각 **값·구간·† 표기·‡ 표기 네 가지 모두** 대조(총 65건). Figure 2는 행 목록을 코드에 직접 적는 방식이라 입력 파일만 대조하면 *행이 빠지거나 다른 cell을 가리키는* 오류를 못 잡으므로, 그림 생성 시 **실제로 그린 내용을 별도 파일로 남기고** 그것을 검사 대상으로 삼음. 검사가 실제로 작동하는지는 고의로 값·구간·† 세 가지를 틀리게 넣어 **3건 모두 검출됨**을 확인. 현재 65/65 통과. 대조를 정확히 하기 위해 Table 1 출력에 analytic dimension 열을 추가(표의 섹션 제목은 표시용이라 AANHPI가 두 섹션으로 나뉘어 있었음). 전체 교차점검 A–I 전부 통과.
+
+---
+
+## 추가 수정 (피드백 항목 외, 자체 점검에서 발견)
+
+- **비층화 White 비교군 셀 수 명시 및 구성 정정**: 본문이 해당 셀을 "a minority of cells"로만 서술하고 있어 Table 1의 † 표기 수와 대조가 안 됐음. 실제로 세어 **85개 셀 중 19개**임을 확인하고 Abstract·Results 개요·Discussion 2곳을 숫자로 교체("in 19 of the 85 cells", "NHW for 66 of the 85 representatives and an unstratified White group for the other 19").
+
+  구성 서술에도 두 건의 오류가 있어 함께 정정. ① Methods·Results가 해당 셀을 "**the** receptor-defined subtype cells and two age-specific Black cells"로 적어 **아형 셀 전부(36개)가 해당되는 것처럼** 읽혔으나 실제는 **36개 중 16개** → "16 of the 36 receptor-defined subtype cells"로 수정. ② **Alaska Native 1건이 목록에서 누락**돼 있었음 — Table 1에서 †가 붙은 셀을 본문 목록과 대조하면 찾을 수 없는 상태였음. 다만 이 셀은 성격이 달라 별도로 기술: 나머지 18개는 **NHW 비교군 자료가 아예 없어** †가 붙은 반면, Alaska Native는 **NHW 자료가 존재하는데도 coverage 우선 규칙이 비층화 White 기준 registry를 선택**해 붙은 것. 이 차이가 6c(NHW 비교군 제한)에서 18개는 dropped, Alaska Native만 changed(1.09 → IHS-linked 1.25)로 갈리는 이유이므로 Methods에 명시.
+
+- **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.

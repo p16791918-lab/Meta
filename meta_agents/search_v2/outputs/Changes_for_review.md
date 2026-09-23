@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (28개 문단)
+범위: `42fa0b5` … `HEAD` (34개 문단)
 
 ---
 
@@ -19,6 +19,18 @@
 - Within-group estimates ranged widely—0.16 (Hmong) to 1.27 (Native Hawaiian) across AANHPI subgroups, 0.51 (Mexican) to 0.83 (Puerto Rican) by Hispanic origin, and 0.49 (Navajo area) to 1.33 (Southern Plains) across AI/AN regions.
 
 *사유: Fix the Abstract's Native Hawaiian value and what Supplementary Table 4 says it holds*
+
+### 2. Abstract — 수정
+
+**찾기:** `Each was an incidence rate ratio (IRR) versus NHW women, or versus…`
+
+**변경 전**
+- Each was an incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in a minority of cells; ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
+
+**변경 후**
+- Each was an incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in 19 of the 85 cells; ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed with the Joanna Briggs Institute checklist for incidence data.
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
 
 ---
 
@@ -146,6 +158,19 @@ A publication that re-reported an estimate already captured from the same regist
 
 *사유: Describe the checklist's own output exactly*
 
+### 10. Selection of a representative population-based estimate — 수정
+
+**찾기:** `Where a cell had no NHW-comparator source—18 cells, being 16 of the…`
+
+**변경 전**
+- Where a cell had no NHW-comparator source—the receptor-defined subtype cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept as the representative and marked †.
+
+**변경 후**
+- Where a cell had no NHW-comparator source—18 cells, being 16 of the 36 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an unstratified White comparator was kept as the representative and marked †.
+- One further cell, Alaska Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference; 19 of the 85 representatives carry the mark in all.
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
+
 ---
 
 ## Results
@@ -223,6 +248,30 @@ A publication that re-reported an estimate already captured from the same regist
 - The 118 narrative-synthesis studies met the inclusion criteria but contributed no extractable quantitative estimate—most because no IRR or NHW-referenced age-standardized rate could be recovered, and a few multi-registry summary reports (for example, the annual reports to the nation and the annual cancer-statistics summaries) because they re-reported registry incidence already quantified from the dedicated primary study for the same registry and period.
 
 *사유: Feedback5 item 6: drop "independent sources" and unpack the AI/AN 0.56-0.87 gap*
+
+### 7. Selection and characteristics of included studies — 수정
+
+**찾기:** `The reference group was NHW for 66 of the 85 representatives and…`
+
+**변경 전**
+- The reference group was NHW in most studies and an unstratified White group in a minority (marked †;
+
+**변경 후**
+- The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19 (marked †;
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
+
+### 8. Risk of bias and sensitivity analyses — 수정
+
+**찾기:** `Supplementary Table 6c), the 18 dropped cells being those whose only representative…`
+
+**변경 전**
+- Supplementary Table 6c), the dropped cells being those whose only representative used an unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
+
+**변경 후**
+- Supplementary Table 6c), the 18 dropped cells being those whose only representative used an unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and below age 40 — and the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
 
 ---
 
@@ -376,4 +425,28 @@ A publication that re-reported an estimate already captured from the same regist
 - Hispanics;⁸ the AI/AN regional range follows the pattern in earlier Indian Health Service–linked regional reports,¹⁰,⁵³ and the low Navajo-area rate that in the Navajo Nation registry analysis;⁴⁸ and the higher TNBC incidence in NHB women is concordant with prior subtype-specific work.²,²³ The relative ordering of groups also shifts with the outcome examined (Figure 3).
 
 *사유: Make every reference reachable, and finish the writing-guide sweep*
+
+### 12. Discussion — 수정
+
+**찾기:** `This review assembled disaggregated, population-based estimates of invasive breast cancer incidence for…`
+
+**변경 전**
+- This review assembled disaggregated, population-based estimates of invasive breast cancer incidence for U.S. racial and ethnic groups against a common NHW comparator (an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
+
+**변경 후**
+- This review assembled disaggregated, population-based estimates of invasive breast cancer incidence for U.S. racial and ethnic groups against a common NHW comparator (an unstratified White reference for 19 of the 85 cells, most of them receptor-defined subtypes).
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
+
+### 13. Discussion — 수정
+
+**찾기:** `Second, reference groups differed across sources—66 of the 85 representatives used an…`
+
+**변경 전**
+- Second, reference groups differed across sources—most used an NHW comparator and a minority an unstratified White reference—so each comparator was recorded as its source defined it and a sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells, chiefly the receptor-defined subtypes, can shift a ratio slightly.
+
+**변경 후**
+- Second, reference groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an unstratified White reference—so each comparator was recorded as its source defined it and a sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells, 16 of them receptor-defined subtypes, can shift a ratio slightly.
+
+*사유: Give the number of unstratified-White cells instead of calling them a minority*
 
