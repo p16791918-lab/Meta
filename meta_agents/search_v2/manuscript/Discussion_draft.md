@@ -145,11 +145,12 @@ independent—US registries are nested, so publications from different families 
 overlapping cases—but where more than one is available they agree in
 most cells, diverging chiefly in the near-null AANHPI subgroups and the ascertainment-dependent
 AI/AN comparison. Third, it makes the evidence
-gaps explicit: Middle Eastern women, several Native Hawaiian and Pacific Islander and Hispanic-origin
-subgroups, and AI/AN incidence by molecular subtype each rest on a single regional or unlinked
-source, and the AI/AN regional and national aggregate figures are point estimates without a
-confidence interval—groups for which a dedicated, and for AI/AN an IHS-linked, primary study is still
-needed. Because studies differed in diagnosis period and region, these estimates are
+gaps explicit: Middle Eastern women, the four Hispanic-origin subgroups and two of the Pacific
+Islander ones rest on a single source apiece, and AI/AN incidence by molecular subtype rests on
+unlinked registries throughout and on a single source in three of its four cells. Four of the seven
+AI/AN regional figures and the national aggregate are point estimates without a confidence
+interval. These are the groups for which a dedicated, and for AI/AN an IHS-linked, primary study is
+still needed. Because studies differed in diagnosis period and region, these estimates are
 best read as a comparable-scale summary of the available evidence, with the provenance and comparator
 of each recorded—marked in the main-text table and figures (computed CI ‡; unstratified White †) and
 named in full in Supplementary Table 4—so readers can weigh them.

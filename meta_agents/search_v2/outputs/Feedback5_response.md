@@ -163,4 +163,6 @@
 
 - **Discussion 한계 문단의 누락 보완 및 분리**: 한계 문단이 293단어 한 덩어리에 여섯 가지 한계를 담고 있었고, **"Finally,"** 뒤에 두 개의 한계가 더 이어져 신호가 어긋났음 → 네 문단으로 나누고 "Finally"를 실제 마지막 항목으로 옮김(31·142·55·74단어). 내용상 **단일 평가자 한계에서 비뚤림 평가가 빠져 있던 것을 보완** — 종전에는 "Screening, full-text selection, and extraction"만 단일 평가자로 수행했다고 적었으나 **비뚤림 평가도 저자 1인이 수행**했고(Methods에 기술돼 있음) **JBI 체크리스트 자체가 두 명의 평가자를 권장**하므로, 해당 목록에 risk-of-bias appraisal을 포함하고 체크리스트 권고와 다르다는 점을 명시. 2차 피드백이 "JBI를 2인 독립 평가로"를 지적한 사안이므로 한계에 드러나 있어야 함.
 
+- **기여점 문단의 근거 공백 서술 정정**: "AI/AN의 **지역값과 전국 aggregate가 신뢰구간 없는 점추정치**"라고 일반화하고 있었으나, 지역값 7개 중 **구간이 있는 것이 3개**(Navajo 0.49 [0.44–0.55], Alaska Native 1.09 [0.99–1.21], Southern Plains 1.33 [1.26–1.41])이므로 사실과 달랐음 → **"지역값 7개 중 4개와 전국 aggregate"**로 정정. 같은 문장의 다른 주장도 데이터로 재확인해 구체화 — 단일 자료원 셀은 Middle Eastern 1개, **Hispanic-origin 4개 전부**, Pacific Islander 2개이고, AI/AN 아형은 **4개 셀 모두 unlinked 레지스트리 기반이되 단일 자료원인 것은 3개**(TNBC는 3개 자료원)이므로 "each rest on a single regional or unlinked source"라는 뭉뚱그린 표현을 각각의 실제 수로 교체.
+
 - **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.

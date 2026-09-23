@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (65개 문단)
+범위: `42fa0b5` … `HEAD` (69개 문단)
 
 ---
 
@@ -810,4 +810,47 @@ For the subgroups whose incidence sits close to the NHW rate, which study repres
 For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can change the direction of the small difference. Japanese women are the clearest example: the representative estimate, from a recent SEER source,³¹ places their overall incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a near-null difference is not robust for this subgroup. Such a change on restriction reflects more than risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022) and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 *사유: Revert the paragraph move in the Discussion*
+
+### 23. Discussion — 수정
+
+**찾기:** `The review has limitations. About three fifths of the representative rate ratios…`
+
+**변경 전**
+- Expressing each group's incidence as a ratio to the NHW rate does not by itself make the estimates commensurable.
+- Within a cell the numerator and denominator share one standard population, period, and region, so the ratio is internally consistent; the ratio does not, however, cancel the standard population, because the age-specific rates of two groups differ in shape and another set of standard weights would move their standardized rates—and so their ratio—by different amounts.
+- Across cells, differences in standard population, underlying age structure, registry region, and diagnosis period therefore remain embedded.
+- Diagnosis period and registry region are the main limits on cross-cell comparability; standard population differed less—most estimates used the 2000 US standard, with a 1970 (world or US) or the 1960 Segi world standard in a few older studies, and restricting to the 2000 US standard left the pattern essentially unchanged.
+- The review was restricted to U.S.-resident populations, so the estimates are not generalizable to countries that use a different White reference, different racial and ethnic categories, and different standard populations.
+- Finally, estimates for the smallest subgroups rested on limited numbers, studies contributing only to the narrative synthesis were not quantified, and grey literature was not searched.
+- Screening, full-text selection, and extraction were carried out by a single reviewer with large-language-model assistance rather than by two independent reviewers.
+- To limit studies missed by this single-reviewer screening, the excluded records were re-screened at the full abstract with an explicit keyword filter, leaving the residual risk of a missed study confined to reports whose abstracts omit two or more of the screening signals.
+
+*사유: Add the appraisal to the single-reviewer limitation, and split the paragraph*
+
+### 24. Discussion — 추가
+
+**찾기:** `Expressing each group's incidence as a ratio to the NHW rate does…`
+
+**추가된 문단**
+Expressing each group's incidence as a ratio to the NHW rate does not by itself make the estimates commensurable. Within a cell the numerator and denominator share one standard population, period, and region, so the ratio is internally consistent; the ratio does not, however, cancel the standard population, because the age-specific rates of two groups differ in shape and another set of standard weights would move their standardized rates—and so their ratio—by different amounts. Across cells, differences in standard population, underlying age structure, registry region, and diagnosis period therefore remain embedded. Diagnosis period and registry region are the main limits on cross-cell comparability; standard population differed less—most estimates used the 2000 US standard, with a 1970 (world or US) or the 1960 Segi world standard in a few older studies, and restricting to the 2000 US standard left the pattern essentially unchanged.
+
+*사유: Add the appraisal to the single-reviewer limitation, and split the paragraph*
+
+### 25. Discussion — 추가
+
+**찾기:** `The review was restricted to U.S.-resident populations, so the estimates are not…`
+
+**추가된 문단**
+The review was restricted to U.S.-resident populations, so the estimates are not generalizable to countries that use a different White reference, different racial and ethnic categories, and different standard populations. Estimates for the smallest subgroups rested on limited numbers, studies contributing only to the narrative synthesis were not quantified, and grey literature was not searched.
+
+*사유: Add the appraisal to the single-reviewer limitation, and split the paragraph*
+
+### 26. Discussion — 추가
+
+**찾기:** `Finally, screening, full-text selection, extraction, and the risk-of-bias appraisal were carried out…`
+
+**추가된 문단**
+Finally, screening, full-text selection, extraction, and the risk-of-bias appraisal were carried out by a single reviewer with large-language-model assistance rather than by two independent reviewers, which the appraisal checklist asks for. To limit studies missed by this single-reviewer screening, the excluded records were re-screened at the full abstract with an explicit keyword filter, leaving the residual risk of a missed study confined to reports whose abstracts omit two or more of the screening signals.
+
+*사유: Add the appraisal to the single-reviewer limitation, and split the paragraph*
 
