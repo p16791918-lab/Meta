@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (59개 문단)
+범위: `42fa0b5` … `HEAD` (60개 문단)
 
 ---
 
@@ -320,6 +320,21 @@ Certainty of evidence was not graded, the review being descriptive rather than a
 - The comparator criterion was given up in the same way, and Alaska Native women are the example.
 
 *사유: Say what the AI/AN selection override costs in coverage*
+
+### 23. Selection of a representative population-based estimate — 수정
+
+**찾기:** `For the national AI/AN cell this set aside a source covering about…`
+
+**변경 전**
+- Breadth of coverage does not substitute for correct ascertainment here: a national registry covers nearly the whole population but assigns race by observation, so its AI/AN numerator is undercounted, whereas a linked source counts those cases and applies its geographic restriction to the comparison group as well.
+- For the national AI/AN cell this meant setting aside a source covering about 99% of the U.S. population for one confined to Purchased/Referred Care Delivery Area counties, which hold about half the AI/AN population; the demoted estimates were carried in the sensitivity analysis.
+- The comparator criterion was given up in the same way, and Alaska Native women are the example.
+
+**변경 후**
+- For the national AI/AN cell this set aside a source covering about 99% of the U.S. population for one confined to Purchased/Referred Care Delivery Area counties; the demoted estimates were carried in the sensitivity analysis.
+- Alaska Native women are an example on the comparator side.
+
+*사유: Cut the argument back out of the AI/AN override rule*
 
 ---
 

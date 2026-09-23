@@ -115,22 +115,28 @@ summarized qualitatively rather than placed on the common IRR scale.
 On the JBI checklist, 41 of the 58 studies were at low risk of bias and 17 at moderate risk, with
 none at high risk (Supplementary Table 5); the moderate ratings arose mainly where an estimate
 was reported without a variance, the standard population was not clearly specified, or race and ethnicity ascertainment was limited. The
-representative selection was examined in four ways (Supplementary Table 6), and the pattern held
-throughout. Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged,
+representative selection was examined in four ways (Supplementary Table 6). Each restriction
+re-selected a representative in the cells it could fill and dropped the rest.
+
+Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged,
 with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups
 and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle
-Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced
-the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63)
-(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized
-SIRs—left 35 unchanged (4 changed, 46 dropped;
-Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
-dropped; Supplementary Table 6c), the 18 dropped cells being those whose only representative used an
-unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and
-below age 40 — and
-the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to
-an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to
+Eastern cells. The largest change was the AI/AN national aggregate, where the restriction replaced
+the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63), moving
+AI/AN below Hispanic/Latina women (Supplementary Table 6a).
+
+Restricting to directly reported IRRs—which also excludes the two indirectly standardized
+SIRs—left 35 unchanged (4 changed, 46 dropped; Supplementary Table 6b).
+
+Restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
+dropped; Supplementary Table 6c). The 18 dropped cells are those whose only representative used an
+unstratified White comparator—16 receptor-defined subtype cells and the two Black cells above and
+below age 40—and the one changed cell is Alaska Native, whose unstratified-White representative
+(1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25).
+
+Restricting to
 the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already
-standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype
+standardized to it: it dropped no cell and changed only two Black receptor-subtype
 cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate
 in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to
 0.70; Supplementary Table 6d).
