@@ -422,6 +422,17 @@ Nation registry analysis;⁴⁸ and the higher TNBC incidence in NHB women is
 concordant with prior subtype-specific work.²,²³ The relative ordering of groups also shifts with
 the outcome examined (Figure 3).
 
+For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can
+change the direction of the small difference. Japanese women are the clearest example: the
+representative estimate, from a recent SEER source,³¹ places their overall
+incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the
+representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an
+earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not
+overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
+near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
+risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022)
+and in the registries it draws on, either of which can move a borderline estimate across 1.0.
+
 Two features of the underlying data shaped these estimates: how AI/AN cases were ascertained, and
 which White group each source compared against. Unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian
 Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The two national
@@ -458,17 +469,6 @@ groups also differed across sources—66 of the 85 representatives used an NHW c
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
 16 of them receptor-defined subtypes, can shift a ratio slightly.
-
-For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can
-change the direction of the small difference. Japanese women are the clearest example: the
-representative estimate, from a recent SEER source,³¹ places their overall
-incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the
-representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an
-earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not
-overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a
-near-null difference is not robust for this subgroup. Such a change on restriction reflects more than
-risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022)
-and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a
