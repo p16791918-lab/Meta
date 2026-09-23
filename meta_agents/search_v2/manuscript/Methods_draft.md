@@ -146,13 +146,9 @@ ascertainment validity: because unlinked registries tend to undercount this
 population, an estimate with Indian Health Service–based ascertainment—the IHS-PRCDA linkage, or a
 dedicated registry such as the Alaska Native Tumor Registry—was preferred over an unlinked-registry
 estimate for the same cell; this ascertainment preference took priority over the coverage and comparator-type criteria above.
-Breadth of coverage does not substitute for correct ascertainment here: a national registry covers
-nearly the whole population but assigns race by observation, so its AI/AN numerator is undercounted,
-whereas a linked source counts those cases and applies its geographic restriction to the comparison
-group as well. For the national AI/AN cell this meant setting aside a source covering about 99% of
-the U.S. population for one confined to Purchased/Referred Care Delivery Area counties, which hold
-about half the AI/AN population; the demoted estimates were carried in the sensitivity analysis.
-The comparator criterion was given up in the same way, and Alaska Native women are the example. The ascertainment-preferred source—the IHS-eligibility-based
+For the national AI/AN cell this set aside a source covering about 99% of the U.S. population for
+one confined to Purchased/Referred Care Delivery Area counties; the demoted estimates were carried
+in the sensitivity analysis. Alaska Native women are an example on the comparator side. The ascertainment-preferred source—the IHS-eligibility-based
 Alaska Native Tumor Registry—reports against an unstratified White reference rather than NHW. It was
 kept as the representative because completeness of ascertainment outweighed comparator type, and the
 NHW-comparator alternatives were carried in the sensitivity analysis.

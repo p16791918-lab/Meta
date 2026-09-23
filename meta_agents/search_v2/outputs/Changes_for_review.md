@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (58개 문단)
+범위: `42fa0b5` … `HEAD` (59개 문단)
 
 ---
 
@@ -306,6 +306,20 @@ A study whose extracted estimates carry no interval therefore rates "No" on item
 Certainty of evidence was not graded, the review being descriptive rather than an estimate of a causal effect.
 
 *사유: Break up the risk-of-bias block in Methods*
+
+### 22. Selection of a representative population-based estimate — 수정
+
+**찾기:** `Breadth of coverage does not substitute for correct ascertainment here: a national…`
+
+**변경 전**
+- Alaska Native women are an example.
+
+**변경 후**
+- Breadth of coverage does not substitute for correct ascertainment here: a national registry covers nearly the whole population but assigns race by observation, so its AI/AN numerator is undercounted, whereas a linked source counts those cases and applies its geographic restriction to the comparison group as well.
+- For the national AI/AN cell this meant setting aside a source covering about 99% of the U.S. population for one confined to Purchased/Referred Care Delivery Area counties, which hold about half the AI/AN population; the demoted estimates were carried in the sensitivity analysis.
+- The comparator criterion was given up in the same way, and Alaska Native women are the example.
+
+*사유: Say what the AI/AN selection override costs in coverage*
 
 ---
 
