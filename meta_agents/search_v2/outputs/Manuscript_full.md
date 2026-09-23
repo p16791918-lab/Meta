@@ -464,9 +464,8 @@ reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
 understate the true rates.
 
-Reference
-groups also differed across sources—66 of the 85 representatives used an NHW comparator and 19 an
-unstratified White reference—so each comparator was recorded as its source defined it and a
+Reference groups also differed across sources—66 of the 85 representatives used an NHW comparator
+and 19 an unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
 16 of them receptor-defined subtypes, can shift a ratio slightly.
 

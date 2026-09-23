@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (56개 문단)
+범위: `42fa0b5` … `HEAD` (58개 문단)
 
 ---
 
@@ -712,4 +712,20 @@ For the subgroups whose incidence sits close to the NHW rate, which study repres
 For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can change the direction of the small difference. Japanese women are the clearest example: the representative estimate, from a recent SEER source,³¹ places their overall incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a near-null difference is not robust for this subgroup. Such a change on restriction reflects more than risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022) and in the registries it draws on, either of which can move a borderline estimate across 1.0.
 
 *사유: Put the two robustness paragraphs together in the Discussion*
+
+### 21. Discussion — 추가
+
+**찾기:** `For the subgroups whose incidence sits close to the NHW rate, which…`
+
+**추가된 문단**
+For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can change the direction of the small difference. Japanese women are the clearest example: the representative estimate, from a recent SEER source,³¹ places their overall incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a near-null difference is not robust for this subgroup. Such a change on restriction reflects more than risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022) and in the registries it draws on, either of which can move a borderline estimate across 1.0.
+
+*사유: Revert the paragraph move in the Discussion*
+
+### 22. Discussion — 삭제
+
+**삭제된 문단**
+For the subgroups whose incidence sits close to the NHW rate, which study represents the cell can change the direction of the small difference. Japanese women are the clearest example: the representative estimate, from a recent SEER source,³¹ places their overall incidence just above the NHW rate (1.05), but that study is at moderate risk of bias, and when the representative selection is restricted to low-risk-of-bias studies the cell is instead filled by an earlier eight-state SEER+NPCR estimate⁶⁰ that places it just below (0.95). The flip does not overturn the finding that Japanese incidence is near the NHW level, but it shows that the sign of a near-null difference is not robust for this subgroup. Such a change on restriction reflects more than risk of bias: the substituted study also differs in diagnosis period (2009–2011 versus 2018–2022) and in the registries it draws on, either of which can move a borderline estimate across 1.0.
+
+*사유: Revert the paragraph move in the Discussion*
 
