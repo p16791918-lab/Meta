@@ -169,10 +169,11 @@ NHW (rather than an unstratified White) comparator, then the most recent and lon
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available. Where a cell had no NHW-comparator source—18 cells, being 16 of the 36
 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an
-unstratified White comparator was kept as the representative and marked †. One further cell, Alaska
-Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above
-having selected the registry that reports against an unstratified White reference; 19 of the 85
-representatives carry the mark in all.
+unstratified White comparator was kept as the representative. One further cell, Alaska
+Native, also rests on one although an NHW-comparator source exists for it, the broader-coverage rule
+above having selected the registry that reports against an unstratified White reference, so 19 of
+the 85 representatives use an unstratified White reference in all. Each estimate's comparator is
+named in Supplementary Table 4; where such a cell appears in the main text it is marked †.
 
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries tend to undercount this
@@ -275,8 +276,9 @@ and the 38 covering the principal comparisons—overall incidence, the disaggreg
 Hispanic-origin subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
 shown in Table 1; the remaining cells, chiefly the other receptor-defined subtypes and the
 age-specific comparisons, are in the Supplementary Materials. The reference group was NHW for 66 of
-the 85 representatives and an unstratified White group for the other 19, marked † wherever they
-appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
+the 85 representatives and an unstratified White group for the other 19; five of those are among the
+cells shown in Table 1, where they carry a †, and Supplementary Table 4 names the comparator of
+every extracted estimate in a column rather than by mark.
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
@@ -521,7 +523,8 @@ source, and the AI/AN regional and national aggregate figures are point estimate
 confidence interval—groups for which a dedicated, and for AI/AN an IHS-linked, primary study is still
 needed. Because studies differed in diagnosis period and region, these estimates are
 best read as a comparable-scale summary of the available evidence, with the provenance and comparator
-of each (computed CI ‡; unstratified White †) marked so readers can weigh them.
+of each recorded—marked in the main-text table and figures (computed CI ‡; unstratified White †) and
+named in full in Supplementary Table 4—so readers can weigh them.
 
 In summary, aggregate racial and ethnic categories describe broad differences in U.S. breast cancer
 incidence but do not capture the range within them, and the subtype pattern for NHB women departs

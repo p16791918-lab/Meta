@@ -25,8 +25,9 @@ and the 38 covering the principal comparisons—overall incidence, the disaggreg
 Hispanic-origin subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
 shown in Table 1; the remaining cells, chiefly the other receptor-defined subtypes and the
 age-specific comparisons, are in the Supplementary Materials. The reference group was NHW for 66 of
-the 85 representatives and an unstratified White group for the other 19, marked † wherever they
-appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
+the 85 representatives and an unstratified White group for the other 19; five of those are among the
+cells shown in Table 1, where they carry a †, and Supplementary Table 4 names the comparator of
+every extracted estimate in a column rather than by mark.
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate

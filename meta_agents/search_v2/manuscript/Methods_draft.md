@@ -130,10 +130,11 @@ NHW (rather than an unstratified White) comparator, then the most recent and lon
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
 interval where available. Where a cell had no NHW-comparator source—18 cells, being 16 of the 36
 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an
-unstratified White comparator was kept as the representative and marked †. One further cell, Alaska
-Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above
-having selected the registry that reports against an unstratified White reference; 19 of the 85
-representatives carry the mark in all.
+unstratified White comparator was kept as the representative. One further cell, Alaska
+Native, also rests on one although an NHW-comparator source exists for it, the broader-coverage rule
+above having selected the registry that reports against an unstratified White reference, so 19 of
+the 85 representatives use an unstratified White reference in all. Each estimate's comparator is
+named in Supplementary Table 4; where such a cell appears in the main text it is marked †.
 
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries tend to undercount this

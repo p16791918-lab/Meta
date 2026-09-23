@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (34개 문단)
+범위: `42fa0b5` … `HEAD` (35개 문단)
 
 ---
 
@@ -272,6 +272,21 @@ A publication that re-reported an estimate already captured from the same regist
 - Supplementary Table 6c), the 18 dropped cells being those whose only representative used an unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and below age 40 — and the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
 
 *사유: Give the number of unstratified-White cells instead of calling them a minority*
+
+### 9. Selection and characteristics of included studies — 수정
+
+**찾기:** `After collapsing overlapping registry-family estimates, 85 representative estimates remained, one per analytic…`
+
+**변경 전**
+- After collapsing overlapping registry-family estimates, 85 representative estimates remained, one per analytic cell; all are listed in Supplementary Table 4, and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are shown in Table 1.
+- The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19 (marked †;
+- Supplementary Table 4).
+
+**변경 후**
+- After collapsing overlapping registry-family estimates, 85 representative estimates remained, one per analytic cell; all are listed in Supplementary Table 4, and the 38 covering the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are shown in Table 1; the remaining cells, chiefly the other receptor-defined subtypes and the age-specific comparisons, are in the Supplementary Materials.
+- The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19, marked † wherever they appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
+
+*사유: Say where the daggered cells are, since Table 1 holds 38 of the 85*
 
 ---
 
