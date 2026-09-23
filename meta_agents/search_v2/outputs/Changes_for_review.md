@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (35개 문단)
+범위: `42fa0b5` … `HEAD` (38개 문단)
 
 ---
 
@@ -171,6 +171,21 @@ A publication that re-reported an estimate already captured from the same regist
 
 *사유: Give the number of unstratified-White cells instead of calling them a minority*
 
+### 11. Selection of a representative population-based estimate — 수정
+
+**찾기:** `Where a cell had no NHW-comparator source—18 cells, being 16 of the…`
+
+**변경 전**
+- Where a cell had no NHW-comparator source—18 cells, being 16 of the 36 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an unstratified White comparator was kept as the representative and marked †.
+- One further cell, Alaska Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference; 19 of the 85 representatives carry the mark in all.
+
+**변경 후**
+- Where a cell had no NHW-comparator source—18 cells, being 16 of the 36 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an unstratified White comparator was kept as the representative.
+- One further cell, Alaska Native, also rests on one although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference, so 19 of the 85 representatives use an unstratified White reference in all.
+- Each estimate's comparator is named in Supplementary Table 4; where such a cell appears in the main text it is marked †.
+
+*사유: Stop pointing at daggers in Supplementary Table 4, which has none*
+
 ---
 
 ## Results
@@ -287,6 +302,18 @@ A publication that re-reported an estimate already captured from the same regist
 - The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19, marked † wherever they appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
 
 *사유: Say where the daggered cells are, since Table 1 holds 38 of the 85*
+
+### 10. Selection and characteristics of included studies — 수정
+
+**찾기:** `The reference group was NHW for 66 of the 85 representatives and…`
+
+**변경 전**
+- The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19, marked † wherever they appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
+
+**변경 후**
+- The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19; five of those are among the cells shown in Table 1, where they carry a †, and Supplementary Table 4 names the comparator of every extracted estimate in a column rather than by mark.
+
+*사유: Stop pointing at daggers in Supplementary Table 4, which has none*
 
 ---
 
@@ -464,4 +491,16 @@ A publication that re-reported an estimate already captured from the same regist
 - Second, reference groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an unstratified White reference—so each comparator was recorded as its source defined it and a sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells, 16 of them receptor-defined subtypes, can shift a ratio slightly.
 
 *사유: Give the number of unstratified-White cells instead of calling them a minority*
+
+### 14. Discussion — 수정
+
+**찾기:** `Because studies differed in diagnosis period and region, these estimates are best…`
+
+**변경 전**
+- Because studies differed in diagnosis period and region, these estimates are best read as a comparable-scale summary of the available evidence, with the provenance and comparator of each (computed CI ‡; unstratified White †) marked so readers can weigh them.
+
+**변경 후**
+- Because studies differed in diagnosis period and region, these estimates are best read as a comparable-scale summary of the available evidence, with the provenance and comparator of each recorded—marked in the main-text table and figures (computed CI ‡; unstratified White †) and named in full in Supplementary Table 4—so readers can weigh them.
+
+*사유: Stop pointing at daggers in Supplementary Table 4, which has none*
 
