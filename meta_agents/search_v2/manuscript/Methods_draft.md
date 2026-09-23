@@ -154,8 +154,10 @@ Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical apprai
 for studies reporting prevalence/incidence data,¹⁴ applied to each of the 58 extracted studies by
 the author (a single assessor) with large-language-model assistance (Supplementary Table 5). Item 9
 (survey response rate) was recorded as not applicable, census-like registry ascertainment having no
-response rate, so each study's rating used the eight applicable items: low risk of bias required at
-most one "No" with a "Yes" on the two key items—valid measurement (item 7, including race and
+response rate, so each study's rating used the eight applicable items. The checklist records a
+Yes, No or Unclear for each item and leaves the summary judgement to the reviewer, so the following
+rule was set for this review: low risk of bias required at
+most one "No" with a "Yes" on the two items treated here as key—valid measurement (item 7, including race and
 ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance);
 three or more "No" ratings gave high risk of bias, and any other combination a moderate rating.
 Each study was appraised as the source of the estimates taken from it here rather than as a whole
