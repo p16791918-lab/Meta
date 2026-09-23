@@ -111,9 +111,13 @@ individual state or regional registries (for example, California and Hawaii) cov
 From each study contributing quantitative data, the cancer registry, geographic coverage,
 diagnosis period, age range, standard population, racial or ethnic group and comparator, outcome
 (overall or subtype), the reported estimate, and its confidence interval were extracted. Each estimate was labelled by provenance—directly reported IRR or SIR, or
-computed from reported rates (with a reported or Poisson-derived variance)—and the label was
-retained for risk-of-bias scoring and for a provenance-restricted
-sensitivity analysis.
+computed from the rates the source reported (with a reported or Poisson-derived variance, or none
+where neither was available)—and the label was retained for risk-of-bias scoring and for a
+provenance-restricted sensitivity analysis. Every estimate was recorded with the minority group as
+the numerator and the White reference as the denominator. Where a source reported a ratio the other
+way round, it was inverted to that direction and labelled as inverted rather than recomputed, which
+happened once: a study that reported its overall Black comparison as NHW over Black while giving its
+other group comparisons the usual way (Supplementary Note 1).
 
 ### Selection of a representative population-based estimate
 Because SEER and NPCR both feed USCS and many registries report into more than one of these

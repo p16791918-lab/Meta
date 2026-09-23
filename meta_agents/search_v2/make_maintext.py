@@ -43,15 +43,18 @@ H("Table 1. Incidence rate ratios of invasive breast cancer among U.S. racial an
   "ethnic groups relative to non-Hispanic White women, by analytic dimension", 1)
 # Single Table 1: analytic dimensions are full-width section rows within one table.
 t1 = rd("outputs/Table1_main.csv")
-TB(["Group", "Effect", "Estimate [95% CI]", "Representative study", "Registry family",
-    "RoB"], [], [3050, 1000, 2850, 2650, 2250, 1300])
+# No "Effect" column: every representative is an incidence rate ratio, so the
+# column carried one value in all 38 rows. The two SIRs are overlaps and appear
+# in Supplementary Table 4, not here.
+TB(["Group", "Estimate [95% CI]", "Representative study", "Registry family",
+    "RoB"], [], [3250, 3000, 2800, 2400, 1600])
 tbl = M[-1]
 cur = None
 for r in t1:
     if r["dimension"] != cur:
         cur = r["dimension"]
         tbl["rows"].append({"section": cur})
-    tbl["rows"].append([disp_group(r["group"]), r["effect"], r["estimate"],
+    tbl["rows"].append([disp_group(r["group"]), r["estimate"],
                         "%s%s (%s)" % (cite(r["study"]), r.get("ref", ""), r["period"]),
                         r.get("registry", ""), r["rob"]])
 # Note placed below the table (analysis method, comparator, symbols, abbreviations only).

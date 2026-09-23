@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (38개 문단)
+범위: `42fa0b5` … `HEAD` (41개 문단)
 
 ---
 
@@ -186,6 +186,19 @@ A publication that re-reported an estimate already captured from the same regist
 
 *사유: Stop pointing at daggers in Supplementary Table 4, which has none*
 
+### 12. Statistical analysis — 수정
+
+**찾기:** `Two sources reported a standardized incidence ratio (SIR) rather than an IRR—South…`
+
+**변경 전**
+- One source reported a standardized incidence ratio (SIR) rather than an IRR (South Asian women against a US White standard); because an SIR indirectly standardizes to the reference population's age structure rather than expressing two directly standardized rates on a common standard, it was read on the same relative-to-White scale but labelled as an SIR (Supplementary Table 4) and excluded from the directly-reported-IRR sensitivity analysis.
+
+**변경 후**
+- Two sources reported a standardized incidence ratio (SIR) rather than an IRR—South Asian women and Alaska Native women, each against the US White population; because an SIR indirectly standardizes to the reference population's age structure rather than expressing two directly standardized rates on a common standard, both were read on the same relative-to-White scale but labelled as SIRs (Supplementary Table 4) and excluded from the directly-reported-IRR sensitivity analysis.
+- Neither is the representative for its cell, so no estimate reported in the main text is an SIR.
+
+*사유: There are two SIRs, not one, and neither reaches the main text*
+
 ---
 
 ## Results
@@ -314,6 +327,30 @@ A publication that re-reported an estimate already captured from the same regist
 - The reference group was NHW for 66 of the 85 representatives and an unstratified White group for the other 19; five of those are among the cells shown in Table 1, where they carry a †, and Supplementary Table 4 names the comparator of every extracted estimate in a column rather than by mark.
 
 *사유: Stop pointing at daggers in Supplementary Table 4, which has none*
+
+### 11. Results — 수정
+
+**찾기:** `IRRs are versus NHW women unless marked † (an unstratified White reference).`
+
+**변경 전**
+- IRRs are versus NHW women unless marked † (an unstratified White reference) or noted as an SIR.
+
+**변경 후**
+- IRRs are versus NHW women unless marked † (an unstratified White reference).
+
+*사유: There are two SIRs, not one, and neither reaches the main text*
+
+### 12. Risk of bias and sensitivity analyses — 수정
+
+**찾기:** `Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with…`
+
+**변경 전**
+- Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63) (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized SIR—left 35 unchanged (4 changed, 46 dropped;
+
+**변경 후**
+- Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63) (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized SIRs—left 35 unchanged (4 changed, 46 dropped;
+
+*사유: There are two SIRs, not one, and neither reaches the main text*
 
 ---
 

@@ -147,4 +147,10 @@
 
   아울러 **두 SIR 모두 overlap 전용이어서 85개 대표값에는 SIR이 0건**임을 확인. 그런데 Table 1 Note와 Results 머리말이 "IRR unless marked as an SIR", "or noted as an SIR"처럼 **독자가 찾을 수 없는 표기를 약속**하고 있었으므로 해당 문구를 삭제하고 "본문 추정치는 전부 IRR"로 명시. Methods에도 "Neither is the representative for its cell, so no estimate reported in the main text is an SIR"을 추가해 두 SIR이 어디에 남아 있는지(Supplementary Table 4) 분명히 함. 6b 민감도는 코드가 이미 두 건 모두 제외하고 있어 **수치는 불변**(35 unchanged / 4 changed / 46 dropped).
 
+- **Table 1 Effect 열 삭제**: 대표값 85개가 전부 IRR이므로 Table 1의 Effect 열이 38행 모두 "IRR" 한 값이었음 → 열 삭제하고 남은 열 너비를 재배분. 효과측정 단위는 Note에 "the effect measure is the incidence rate ratio (IRR) throughout"로 기술.
+
+- **Methods의 SIR·provenance 서술 보완**: SIR 관련 서술을 재점검하며 두 건을 추가 정정. ① **비율 방향 규칙이 Methods에 없었음** — 모든 추정치를 소수집단÷White 방향으로 기록하고, 원문이 반대 방향으로 보고한 경우 **역수 변환 후 그렇게 표시한다**는 규칙(item 1의 Kong 2020 처리 근거)이 Methods에 기술돼 있지 않아 추가. ② provenance 목록이 실제 라벨을 다 포괄하지 못해(분산 없이 원문 발생률만 있는 경우) "with a reported or Poisson-derived variance, or none where neither was available"로 보완.
+
+- **Supplementary Table 4의 SIR 표시 누락 정정**: Methods가 두 SIR을 "labelled as SIRs (Supplementary Table 4)"라고 하나, 실제 S4에서는 **Goggins 2009만 Std pop 칸에 "SIR (indirect…)"로 드러나고 Moore 2015는 "world standard (IARC)"로 적혀 SIR인지 알 수 없었음**. 손으로 적은 Std pop 문자열이 아니라 **provenance 라벨에서 자동으로** 추정치 옆에 `(SIR)`을 붙이도록 수정 → 두 건 모두 표시됨. S4에 효과측정 Note도 추가("an incidence rate ratio unless marked (SIR)… 두 SIR은 모두 overlap이므로 모든 대표값과 본문 추정치는 rate ratio").
+
 - **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.
