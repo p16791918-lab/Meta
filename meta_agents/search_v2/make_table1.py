@@ -122,7 +122,7 @@ def main():
         f.write("# Table 1. Incidence rate ratios of invasive breast cancer among "
                 "U.S. racial/ethnic groups relative to non-Hispanic White women\n\n")
         f.write("Values are the representative population-based estimate per group "
-                "(one per analytic cell). Effect measure: IRR unless noted (SIR). "
+                "(one per analytic cell). Every representative is an incidence rate ratio. "
                 "RoB = risk of bias. † reference is an unstratified White group (not NHW). "
                 "‡ 95%% CI computed by the review (delta method from the source's rate CIs, or a "
                 "Poisson approximation), not reported directly; all unmarked CIs are as reported in "

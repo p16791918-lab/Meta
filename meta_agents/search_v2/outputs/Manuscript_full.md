@@ -233,12 +233,13 @@ age-specific weighting, and it was used only where the source reported neither a
 nor a rate interval (four aggregate estimates and two small single-group rates). Where even the case
 count was unavailable, the estimate was carried as a point estimate without a confidence interval.
 Each representative therefore
-rested on a directly reported ratio or on minority and reference rates from the same source. One
-source reported a standardized incidence ratio (SIR) rather than an IRR (South Asian women against
-a US White standard); because an SIR indirectly standardizes to the reference population's age
-structure rather than expressing two directly standardized rates on a common standard, it was read
-on the same relative-to-White scale but labelled as an SIR (Supplementary Table 4) and excluded
-from the directly-reported-IRR sensitivity analysis. The standard population was recorded as each
+rested on a directly reported ratio or on minority and reference rates from the same source. Two
+sources reported a standardized incidence ratio (SIR) rather than an IRR—South Asian women and
+Alaska Native women, each against the US White population; because an SIR indirectly standardizes to
+the reference population's age structure rather than expressing two directly standardized rates on a
+common standard, both were read on the same relative-to-White scale but labelled as SIRs
+(Supplementary Table 4) and excluded from the directly-reported-IRR sensitivity analysis. Neither is
+the representative for its cell, so no estimate reported in the main text is an SIR. The standard population was recorded as each
 source stated it—2000 US for most, with a 1970 world or 1970 US standard in a few older studies and
 the 1960 Segi world standard in one; SEER*Stat and USCS age-adjusted rates use the 2000 US standard
 by default, and that default was recorded where a study reported rates from those programs without
@@ -372,8 +373,8 @@ with the 19 changed and 12 dropped cells falling mainly among the disaggregated 
 and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle
 Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced
 the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63)
-(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
-SIR—left 35 unchanged (4 changed, 46 dropped;
+(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized
+SIRs—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the 18 dropped cells being those whose only representative used an
 unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and

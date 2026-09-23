@@ -314,7 +314,7 @@ P("Table 6a. Low-risk-of-bias only (Moderate/High-RoB studies dropped): %d of %d
 TB(_SENS_HDR, _sens_rows(ch1), _SENS_W)
 s2 = rd("outputs/Sensitivity2_directly_reported.csv"); ch2 = [r for r in s2 if r["status"] != "unchanged"]
 _c2 = _Ctr(r["status"] for r in s2)
-P("Table 6b. Directly-reported IRR only (estimates the review computed from rates, and the single SIR, are dropped): %d unchanged, %d changed, %d dropped — most disaggregated and subtype cells rely on computed rates, because registries publish rates rather than ratios."
+P("Table 6b. Directly-reported IRR only (estimates the review computed from rates, and the two SIRs, are dropped): %d unchanged, %d changed, %d dropped — most disaggregated and subtype cells rely on computed rates, because registries publish rates rather than ratios."
   % (_c2["unchanged"], _c2["changed"], _c2["dropped"]))
 TB(_SENS_HDR, _sens_rows(ch2), _SENS_W)
 s3 = rd("outputs/Sensitivity3_nhw_only.csv"); ch3 = [r for r in s3 if r["status"] != "unchanged"]
@@ -327,7 +327,7 @@ _c4 = _Ctr(r["status"] for r in s4)
 P("Table 6d. 2000 U.S. standard population only (estimates on other standard populations dropped): %d of %d cells unchanged, %d changed, %d dropped."
   % (_c4["unchanged"], sum(_c4.values()), _c4["changed"], _c4["dropped"]))
 TB(_SENS_HDR, _sens_rows(ch4), _SENS_W)
-P("The first value column is the representative estimate in the main analysis; the second is the representative re-selected after applying the restriction (low-risk-of-bias only in Table 6a; directly reported IRR only in Table 6b, where the SIR is excluded because it standardizes indirectly to the reference population; NHW-comparator only in Table 6c; 2000 U.S. standard population only in Table 6d). Each value is followed by the study that supplied it, so a changed cell shows both the study that is replaced and the study that replaces it. Status: unchanged = the same study remains the representative; changed = a different study becomes the representative; dropped = no estimate in that cell met the restriction. Every changed and dropped cell is listed; the cells not listed were unchanged. A dropped cell is not evidence that the main estimate is robust — the restriction leaves that cell untested, so dropped cells should be read as unexamined under that restriction rather than as confirmation.", True)
+P("The first value column is the representative estimate in the main analysis; the second is the representative re-selected after applying the restriction (low-risk-of-bias only in Table 6a; directly reported IRR only in Table 6b, where the two SIRs are excluded because they standardize indirectly to the reference population; NHW-comparator only in Table 6c; 2000 U.S. standard population only in Table 6d). Each value is followed by the study that supplied it, so a changed cell shows both the study that is replaced and the study that replaces it. Status: unchanged = the same study remains the representative; changed = a different study becomes the representative; dropped = no estimate in that cell met the restriction. Every changed and dropped cell is listed; the cells not listed were unchanged. A dropped cell is not evidence that the main estimate is robust — the restriction leaves that cell untested, so dropped cells should be read as unexamined under that restriction rather than as confirmation.", True)
 PB()
 
 # ==== NOTES (after all tables) ====

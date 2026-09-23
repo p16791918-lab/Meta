@@ -1,4 +1,4 @@
-# Sensitivity #2 — directly-reported IRR only (computed estimates and the SIR dropped)
+# Sensitivity #2 — directly-reported IRR only (computed estimates and the two SIRs dropped)
 
 Cells: 85 total — unchanged 35, changed 4, dropped 46.
 

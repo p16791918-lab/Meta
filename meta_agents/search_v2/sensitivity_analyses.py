@@ -4,7 +4,7 @@
   #2  Directly-reported-only : keep only estimates the source printed as a directly
       standardized rate ratio (provenance directly-reported-IRR, including the one row
       inverted from an NHW-vs-minority statement). Estimates the review computed from
-      rates are dropped, and so is the standardized incidence ratio (SIR), which
+      rates are dropped, and so are the two standardized incidence ratios (SIRs), which
       standardizes indirectly to the reference population and is therefore not the same
       quantity as the directly standardized IRRs this restriction is meant to isolate.
 
@@ -185,7 +185,7 @@ def main():
 
     c2 = write(run(rows, lambda r: r["provenance"] in DIRECT, mainrep, "SENS2"),
                "Sensitivity2_directly_reported",
-               "Sensitivity #2 — directly-reported IRR only (computed estimates and the SIR dropped)")
+               "Sensitivity #2 — directly-reported IRR only (computed estimates and the two SIRs dropped)")
     print("\n#2 directly-reported-only:", dict(c2))
 
     c1 = write(run(rows, lambda r: r["_qual"] == "Low", mainrep, "SENS1"),

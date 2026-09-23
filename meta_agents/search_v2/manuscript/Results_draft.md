@@ -3,7 +3,7 @@
 *Racial and Ethnic Differences in Breast Cancer Incidence in the United States: A Systematic Review with Quantitative Synthesis*
 
 IRRs are versus NHW women unless marked † (an
-unstratified White reference) or noted as an SIR.
+unstratified White reference).
 
 ---
 
@@ -121,8 +121,8 @@ with the 19 changed and 12 dropped cells falling mainly among the disaggregated 
 and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle
 Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced
 the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63)
-(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
-SIR—left 35 unchanged (4 changed, 46 dropped;
+(Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized
+SIRs—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
 dropped; Supplementary Table 6c), the 18 dropped cells being those whose only representative used an
 unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and

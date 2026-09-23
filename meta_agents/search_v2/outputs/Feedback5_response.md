@@ -143,4 +143,8 @@
 
   구성 서술에도 두 건의 오류가 있어 함께 정정. ① Methods·Results가 해당 셀을 "**the** receptor-defined subtype cells and two age-specific Black cells"로 적어 **아형 셀 전부(36개)가 해당되는 것처럼** 읽혔으나 실제는 **36개 중 16개** → "16 of the 36 receptor-defined subtype cells"로 수정. ② **Alaska Native 1건이 목록에서 누락**돼 있었음 — Table 1에서 †가 붙은 셀을 본문 목록과 대조하면 찾을 수 없는 상태였음. 다만 이 셀은 성격이 달라 별도로 기술: 나머지 18개는 **NHW 비교군 자료가 아예 없어** †가 붙은 반면, Alaska Native는 **NHW 자료가 존재하는데도 coverage 우선 규칙이 비층화 White 기준 registry를 선택**해 붙은 것. 이 차이가 6c(NHW 비교군 제한)에서 18개는 dropped, Alaska Native만 changed(1.09 → IHS-linked 1.25)로 갈리는 이유이므로 Methods에 명시.
 
+- **SIR 개수 오기 정정 및 표기 약속 삭제**: 본문·보충자료가 일관되게 **"the single SIR"**(SIR 1건)로 서술하고 있었으나 실제로는 **2건** — Goggins 2009(Asian Indian/Pakistani, 0.61)와 **Moore 2015(Alaska Native, 1.14)**. Methods·Results·Supplementary Table 6b 캡션·6 Note·민감도 코드 주석을 모두 2건으로 정정.
+
+  아울러 **두 SIR 모두 overlap 전용이어서 85개 대표값에는 SIR이 0건**임을 확인. 그런데 Table 1 Note와 Results 머리말이 "IRR unless marked as an SIR", "or noted as an SIR"처럼 **독자가 찾을 수 없는 표기를 약속**하고 있었으므로 해당 문구를 삭제하고 "본문 추정치는 전부 IRR"로 명시. Methods에도 "Neither is the representative for its cell, so no estimate reported in the main text is an SIR"을 추가해 두 SIR이 어디에 남아 있는지(Supplementary Table 4) 분명히 함. 6b 민감도는 코드가 이미 두 건 모두 제외하고 있어 **수치는 불변**(35 unchanged / 4 changed / 46 dropped).
+
 - **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.
