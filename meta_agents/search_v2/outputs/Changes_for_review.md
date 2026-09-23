@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (60개 문단)
+범위: `42fa0b5` … `HEAD` (65개 문단)
 
 ---
 
@@ -488,6 +488,59 @@ Certainty of evidence was not graded, the review being descriptive rather than a
 - Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63) (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized SIRs—left 35 unchanged (4 changed, 46 dropped;
 
 *사유: There are two SIRs, not one, and neither reaches the main text*
+
+### 13. Risk of bias and sensitivity analyses — 수정
+
+**찾기:** `The representative selection was examined in four ways (Supplementary Table 6).`
+
+**변경 전**
+- The representative selection was examined in four ways (Supplementary Table 6), and the pattern held throughout.
+- Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle Eastern cells; the largest change was the AI/AN national aggregate, where the restriction replaced the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63) (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the two indirectly standardized SIRs—left 35 unchanged (4 changed, 46 dropped;
+- Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped;
+- Supplementary Table 6c), the 18 dropped cells being those whose only representative used an unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and below age 40 — and the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already standardized to it, so the restriction dropped no cell and changed only two Black receptor-subtype cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70;
+- Supplementary Table 6d).
+
+**변경 후**
+- The representative selection was examined in four ways (Supplementary Table 6).
+- Each restriction re-selected a representative in the cells it could fill and dropped the rest.
+
+*사유: Stop Results claiming the pattern held throughout*
+
+### 14. Risk of bias and sensitivity analyses — 추가
+
+**찾기:** `Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with…`
+
+**추가된 문단**
+Restricting to low-risk-of-bias studies left 54 of 85 cell representatives unchanged, with the 19 changed and 12 dropped cells falling mainly among the disaggregated AANHPI subgroups and the AI/AN cells, and in smaller numbers among the receptor-subtype, age-specific, and Middle Eastern cells. The largest change was the AI/AN national aggregate, where the restriction replaced the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate (0.63), moving AI/AN below Hispanic/Latina women (Supplementary Table 6a).
+
+*사유: Stop Results claiming the pattern held throughout*
+
+### 15. Risk of bias and sensitivity analyses — 추가
+
+**찾기:** `Restricting to directly reported IRRs—which also excludes the two indirectly standardized SIRs—left…`
+
+**추가된 문단**
+Restricting to directly reported IRRs—which also excludes the two indirectly standardized SIRs—left 35 unchanged (4 changed, 46 dropped; Supplementary Table 6b).
+
+*사유: Stop Results claiming the pattern held throughout*
+
+### 16. Risk of bias and sensitivity analyses — 추가
+
+**찾기:** `Restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped; Supplementary…`
+
+**추가된 문단**
+Restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18 dropped; Supplementary Table 6c). The 18 dropped cells are those whose only representative used an unstratified White comparator—16 receptor-defined subtype cells and the two Black cells above and below age 40—and the one changed cell is Alaska Native, whose unstratified-White representative (1.09) gave way to an Indian Health Service–linked estimate reported against an NHW reference (1.25).
+
+*사유: Stop Results claiming the pattern held throughout*
+
+### 17. Risk of bias and sensitivity analyses — 추가
+
+**찾기:** `Restricting to the 2000 U.S. standard population changed little, since 83 of…`
+
+**추가된 문단**
+Restricting to the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already standardized to it: it dropped no cell and changed only two Black receptor-subtype cells, each from a 1960 Segi-world-standardized representative to a 2000 U.S.–standardized estimate in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-positive 0.82 to 0.70; Supplementary Table 6d).
+
+*사유: Stop Results claiming the pattern held throughout*
 
 ---
 

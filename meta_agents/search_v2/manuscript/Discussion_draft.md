@@ -106,7 +106,9 @@ care have also been described.²,³⁴ Genetic or biological mechanisms were not
 
 The review has limitations.
 About three fifths of the representative rate ratios (50 of 85) were computed from published
-age-standardized rates rather than reported directly, which can move a ratio slightly. Expressing each group's incidence as a ratio to the NHW rate does
+age-standardized rates rather than reported directly, which can move a ratio slightly.
+
+Expressing each group's incidence as a ratio to the NHW rate does
 not by itself make the estimates commensurable. Within a cell the numerator and denominator share one
 standard population, period, and region, so the ratio is internally consistent; the ratio does not,
 however, cancel the standard population, because the age-specific rates of two groups differ in shape
@@ -115,13 +117,18 @@ different amounts. Across cells, differences in standard population, underlying 
 registry region, and diagnosis period therefore remain embedded. Diagnosis period and registry region are the main limits on cross-cell comparability;
 standard population differed less—most estimates used the 2000 US standard, with a 1970 (world or US)
 or the 1960 Segi world standard in a few older studies, and restricting to the 2000 US standard left
-the pattern essentially unchanged. The review was restricted to
+the pattern essentially unchanged.
+
+The review was restricted to
 U.S.-resident populations, so the estimates are not generalizable to countries that use a different
-White reference, different racial and ethnic categories, and different standard populations. Finally,
-estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
-narrative synthesis were not quantified, and grey literature was not searched. Screening,
-full-text selection, and extraction were carried out by a single reviewer with large-language-model
-assistance rather than by two independent reviewers. To limit studies missed by this
+White reference, different racial and ethnic categories, and different standard populations.
+Estimates for the smallest subgroups rested on limited numbers, studies contributing only to the
+narrative synthesis were not quantified, and grey literature was not searched.
+
+Finally, screening,
+full-text selection, extraction, and the risk-of-bias appraisal were carried out by a single
+reviewer with large-language-model assistance rather than by two independent reviewers, which the
+appraisal checklist asks for. To limit studies missed by this
 single-reviewer screening, the excluded records were re-screened at the full abstract with an
 explicit keyword filter, leaving the residual risk of a missed study confined to reports whose
 abstracts omit two or more of the screening signals.
