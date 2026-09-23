@@ -18,7 +18,7 @@ quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
 dimension was selected, not pooled; for American Indian and Alaska Native (AI/AN) populations, an
 Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an
-incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in a minority of cells;
+incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in 19 of the 85 cells;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 

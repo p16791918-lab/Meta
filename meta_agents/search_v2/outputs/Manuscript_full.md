@@ -16,7 +16,7 @@ quantitatively, the
 rest narratively. Because registries overlap, one representative estimate per group and
 dimension was selected, not pooled; for American Indian and Alaska Native (AI/AN) populations, an
 Indian Health Service–linked estimate was preferred to counter registry undercounting. Each was an
-incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in a minority of cells;
+incidence rate ratio (IRR) versus NHW women, or versus an unstratified White reference in 19 of the 85 cells;
 ratios not reported directly were recomputed from one master dataset, and risk of bias was assessed
 with the Joanna Briggs Institute checklist for incidence data.
 
@@ -167,9 +167,12 @@ that overlaps within a cell could be seen (Supplementary Table 4). Within a cell
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
 NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
-interval where available. Where a cell had no NHW-comparator source—the receptor-defined subtype
-cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
-as the representative and marked †.
+interval where available. Where a cell had no NHW-comparator source—18 cells, being 16 of the 36
+receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an
+unstratified White comparator was kept as the representative and marked †. One further cell, Alaska
+Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above
+having selected the registry that reports against an unstratified White reference; 19 of the 85
+representatives carry the mark in all.
 
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries tend to undercount this
@@ -270,8 +273,8 @@ overlapping registry-family estimates, 85 representative estimates remained, one
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
-shown in Table 1. The reference group was NHW in most studies and
-an unstratified White group in a minority (marked †; Supplementary Table 4).
+shown in Table 1. The reference group was NHW for 66 of the 85 representatives and
+an unstratified White group for the other 19 (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
@@ -368,8 +371,9 @@ the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate 
 (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
 SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
-dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
-unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and
+dropped; Supplementary Table 6c), the 18 dropped cells being those whose only representative used an
+unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and
+below age 40 — and
 the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to
 an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to
 the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already
@@ -382,7 +386,7 @@ in the same direction (hormone-receptor-negative 1.80 to 1.60, hormone-receptor-
 
 This review assembled disaggregated, population-based estimates of invasive breast cancer
 incidence for U.S. racial and ethnic groups against a common NHW comparator
-(an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
+(an unstratified White reference for 19 of the 85 cells, most of them receptor-defined subtypes).
 At the aggregate level, each minority group had lower overall incidence than NHW women—Hispanic/Latina women had the lowest IRR (0.72), followed by
 AANHPI (0.77) and AI/AN (0.87)
 women, with NHB women closest to NHW (0.93). For TNBC, however, NHB women had the highest
@@ -444,10 +448,10 @@ available only for the aggregate and regional estimates: no Indian Health Servic
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
 understate the true rates. Second, reference
-groups differed across sources—most used an NHW comparator and a minority an
+groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
-chiefly the receptor-defined subtypes, can shift a ratio slightly.
+16 of them receptor-defined subtypes, can shift a ratio slightly.
 
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a

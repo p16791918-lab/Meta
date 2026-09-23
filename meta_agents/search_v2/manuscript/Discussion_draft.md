@@ -8,7 +8,7 @@
 
 This review assembled disaggregated, population-based estimates of invasive breast cancer
 incidence for U.S. racial and ethnic groups against a common NHW comparator
-(an unstratified White reference for a minority of cells, chiefly the receptor-defined subtypes).
+(an unstratified White reference for 19 of the 85 cells, most of them receptor-defined subtypes).
 At the aggregate level, each minority group had lower overall incidence than NHW women—Hispanic/Latina women had the lowest IRR (0.72), followed by
 AANHPI (0.77) and AI/AN (0.87)
 women, with NHB women closest to NHW (0.93). For TNBC, however, NHB women had the highest
@@ -70,10 +70,10 @@ available only for the aggregate and regional estimates: no Indian Health Servic
 reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the
 HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may
 understate the true rates. Second, reference
-groups differed across sources—most used an NHW comparator and a minority an
+groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an
 unstratified White reference—so each comparator was recorded as its source defined it and a
 sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells,
-chiefly the receptor-defined subtypes, can shift a ratio slightly.
+16 of them receptor-defined subtypes, can shift a ratio slightly.
 
 These cell estimates are not fully commensurable, for the reasons set out under the limitations
 below, so their arrangement on the common NHW scale shows the span of published figures rather than a

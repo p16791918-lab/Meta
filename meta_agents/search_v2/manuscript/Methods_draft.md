@@ -128,9 +128,12 @@ that overlaps within a cell could be seen (Supplementary Table 4). Within a cell
 the broadest population coverage (USCS > NAACCR > SEER-national > state or regional), then a
 NHW (rather than an unstratified White) comparator, then the most recent and longest
 diagnosis period, a clearly documented age-standardization, and a directly reported confidence
-interval where available. Where a cell had no NHW-comparator source—the receptor-defined subtype
-cells and two age-specific Black cells—the estimate using an unstratified White comparator was kept
-as the representative and marked †.
+interval where available. Where a cell had no NHW-comparator source—18 cells, being 16 of the 36
+receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an
+unstratified White comparator was kept as the representative and marked †. One further cell, Alaska
+Native, is marked † although an NHW-comparator source exists for it, the broader-coverage rule above
+having selected the registry that reports against an unstratified White reference; 19 of the 85
+representatives carry the mark in all.
 
 For AI/AN populations this order was overridden in favour of
 ascertainment validity: because unlinked registries tend to undercount this

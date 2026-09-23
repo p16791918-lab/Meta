@@ -23,8 +23,8 @@ overlapping registry-family estimates, 85 representative estimates remained, one
 cell; all are listed in Supplementary Table 4,
 and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
 subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
-shown in Table 1. The reference group was NHW in most studies and
-an unstratified White group in a minority (marked †; Supplementary Table 4).
+shown in Table 1. The reference group was NHW for 66 of the 85 representatives and
+an unstratified White group for the other 19 (marked †; Supplementary Table 4).
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate
@@ -121,8 +121,9 @@ the 2010-2015 IHS-linked estimate (0.87) with the 1999-2004 IHS-linked estimate 
 (Supplementary Table 6a); restricting to directly reported IRRs—which also excludes the single indirectly standardized
 SIR—left 35 unchanged (4 changed, 46 dropped;
 Supplementary Table 6b); restricting to NHW-comparator estimates left 66 unchanged (1 changed, 18
-dropped; Supplementary Table 6c), the dropped cells being those whose only representative used an
-unstratified White comparator — the receptor-defined subtypes and two age-specific Black cells — and
+dropped; Supplementary Table 6c), the 18 dropped cells being those whose only representative used an
+unstratified White comparator — 16 receptor-defined subtype cells and the two Black cells above and
+below age 40 — and
 the one changed cell being Alaska Native, whose unstratified-White representative (1.09) gave way to
 an Indian Health Service–linked estimate reported against an NHW reference (1.25); and restricting to
 the 2000 U.S. standard population changed little, since 83 of the 85 representatives were already
