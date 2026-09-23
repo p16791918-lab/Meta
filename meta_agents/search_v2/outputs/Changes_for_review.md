@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (44개 문단)
+범위: `42fa0b5` … `HEAD` (46개 문단)
 
 ---
 
@@ -241,6 +241,30 @@ A publication that re-reported an estimate already captured from the same regist
 A publication drawing on the same registry family but a different period, region, or subset was a different matter. Such a report gave a distinct estimate and was retained as an overlapping one for the sensitivity analysis rather than excluded; its handling is described under Selection of a representative population-based estimate.
 
 *사유: Rewrite the duplicate-handling paragraph in eligibility*
+
+### 16. Study selection and data extraction — 수정
+
+**찾기:** `Records were presented to the model in batches, each showing the title…`
+
+**변경 전**
+- Records were presented to the model in batches, each showing the title and the abstract truncated to the first 600 characters; the model applied the criteria to each record and proposed an include or exclude decision, and the author adjudicated both sets.
+
+**변경 후**
+- Records were presented to the model in batches, each showing the title and the abstract truncated to the first 600 characters; the model applied the criteria to each record and proposed an include or exclude decision, and the author reviewed the proposals of each kind.
+
+*사유: Name what two pronouns in Methods refer to*
+
+### 17. Selection of a representative population-based estimate — 수정
+
+**찾기:** `One further cell, Alaska Native, also rests on an unstratified White comparator…`
+
+**변경 전**
+- One further cell, Alaska Native, also rests on one although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference, so 19 of the 85 representatives use an unstratified White reference in all.
+
+**변경 후**
+- One further cell, Alaska Native, also rests on an unstratified White comparator although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference; 19 of the 85 representatives use such a reference in all.
+
+*사유: Name what two pronouns in Methods refer to*
 
 ---
 
