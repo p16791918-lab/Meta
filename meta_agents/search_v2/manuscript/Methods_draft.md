@@ -53,18 +53,19 @@ non-U.S. studies, reports that did not present invasive female breast cancer inc
 ethnicity, and mortality- or survival-only reports were excluded.
 
 A publication that re-reported an estimate already captured from the same registry, diagnosis
-period, and population was not an independent estimate, so it was never a candidate representative.
-Two such cases were distinguished by whether another included publication already carries the same
-content. A report whose content is carried by an included publication adds nothing to the review and
-was excluded as a duplicate dataset: this covers the earlier editions of a recurring statistics
-series and the preprint or book-chapter version of an included analysis (55 reports, 51 of them
-earlier editions of the annual cancer-statistics reports or the Annual Report to the Nation). The
-most recent eligible edition of such a series is the only edition carrying that series' current
-account, so it was retained in the review; because the registry incidence it reports is already
-provided by the dedicated primary study for that registry and period, it contributes only to the
-narrative synthesis. Separately, a publication drawing on the same registry family but a different
-period, region, or subset provided a distinct estimate and was retained as an overlapping estimate
-for the sensitivity analysis, not excluded; overlap handling is described under Selection of a
+period, and population was not an independent estimate, so it was never taken as a representative.
+What then became of it depended on whether another included publication already carried the same
+content. Where one did, the re-report added nothing and was excluded as a duplicate dataset: 55
+reports, of which 51 were earlier editions of the annual cancer-statistics reports or of the Annual
+Report to the Nation, two were preprint versions of an included analysis, and two were book
+chapters. Where none did, the report was kept. This applied to the most recent eligible edition of a
+recurring series, which is the only edition carrying that series' current account; since the
+registry incidence it reports already came from the dedicated primary study for that registry and
+period, it contributed to the narrative synthesis alone.
+
+A publication drawing on the same registry family but a different period, region, or subset was a
+different matter. Such a report gave a distinct estimate and was retained as an overlapping one for
+the sensitivity analysis rather than excluded; its handling is described under Selection of a
 representative population-based estimate.
 
 ### Study selection and data extraction

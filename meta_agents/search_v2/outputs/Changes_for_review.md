@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (41개 문단)
+범위: `42fa0b5` … `HEAD` (42개 문단)
 
 ---
 
@@ -198,6 +198,20 @@ A publication that re-reported an estimate already captured from the same regist
 - Neither is the representative for its cell, so no estimate reported in the main text is an SIR.
 
 *사유: There are two SIRs, not one, and neither reaches the main text*
+
+### 13. Study selection and data extraction — 수정
+
+**찾기:** `Each estimate was labelled by provenance—directly reported IRR or SIR, or computed…`
+
+**변경 전**
+- Each estimate was labelled by provenance—directly reported IRR or SIR, or computed from reported rates (with a reported or Poisson-derived variance)—and the label was retained for risk-of-bias scoring and for a provenance-restricted sensitivity analysis.
+
+**변경 후**
+- Each estimate was labelled by provenance—directly reported IRR or SIR, or computed from the rates the source reported (with a reported or Poisson-derived variance, or none where neither was available)—and the label was retained for risk-of-bias scoring and for a provenance-restricted sensitivity analysis.
+- Every estimate was recorded with the minority group as the numerator and the White reference as the denominator.
+- Where a source reported a ratio the other way round, it was inverted to that direction and labelled as inverted rather than recomputed, which happened once: a study that reported its overall Black comparison as NHW over Black while giving its other group comparisons the usual way (Supplementary Note 1).
+
+*사유: Drop Table 1's Effect column, and fix what Methods says about SIRs*
 
 ---
 
