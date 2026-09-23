@@ -1,8 +1,8 @@
-5차 피드백 각 항목에 대한 수정 내용과 근거. 모든 수치는 수정 후 재생성한 최종 데이터에서 재계산한 값이며, 표·그림·보충자료·제출 문서는 동일한 추출표에서 함께 재생성.
-
----
-
 ## 1. 자료원과 effect estimate의 비교 방향을 다시 확인해주세요.
+
+> Miller 2008의 Native Hawaiian 자료는 Hawaii에 한정되는데, Table 1과 Supplementary Table 4에는 "NAACCR/CiNA (~93%)"로 기재되어 있습니다. 자료원과 coverage를 수정하고, Gomez 2026의 추정치를 포함해 기존 선정 규칙에 따라 대표값을 다시 확인해주세요.
+>
+> 또한 Supplementary Note 1에서는 Kong 2020의 overall Black 값 1.04가 NHW/Black 방향이어서 기록하지 않았다고 설명하지만, 추출표에는 Black/NHW 값처럼 남아 있습니다. 원문을 확인해 제외 여부 또는 역수 변환을 일관되게 반영해주세요.
 
 - **Miller 2008 자료원·coverage 정정**: 원문 "Native Hawaiian rates calculated only for the state of Hawaii"로 확인 — Hawaii Tumor Registry가 Native Hawaiian 혈통 환자를 전수 분류하기 때문에 Native Hawaiian 발생률만 Hawaii 주로 한정 보고. Table 1·Supplementary Table 4의 "NAACCR/CiNA (~93%)"는 과대 기재였으므로 **Hawaii Tumor Registry(Native Hawaiian은 Hawaii 주 한정)**로 정정하고, 자료원 라벨도 `NAACCR-API` → `HTR`로 맞춰 라벨-coverage 불일치 제거.
 
@@ -12,9 +12,9 @@
 
 - **Kong 2020 비교 방향 정정**: 원문이 overall만 NHW를 분자로 서술("non-Hispanic White women was 31.3 …, which was higher compared with the incidence among Black women (IRR, 1.04; 95% CI, 1.02–1.05)")하고 같은 문단의 다른 aggregate는 minority 기준(Asian/PI 0.90, AI/AN 0.82, Hispanic 0.79)임을 확인 — 한 논문 내 방향 혼재. 해당 행을 **Black/NHW 0.96 [0.95–0.98]**로 역수 변환하고 provenance를 `directly-reported-IRR-inverted`로 표기. Supplementary Note 1의 "방향 모호로 미기록" 설명도 실제 처리(역수)와 일치하게 수정. 역수 후 값은 같은 셀 분포(0.81–0.98)·대표값 Ellington 2022(0.933)·동시기 SEER 추정치(Du 0.937, Gomez 0.941, Davis Lynn 0.971)와 정합.
 
-- **비교 방향 전수 점검(추가 확인)**: 같은 문제의 잔존 여부를 추출표 전체로 점검. 발생률에서 계산한 122행은 minority ÷ NHW로 방향이 고정되고 내부 점검에서 원문 발생률로 재검증됨. 원문 보고값 98행 중 같은 셀에 추정치가 3개 이상 있어 상호 대조가 가능한 행에서 방향 이탈 후보 3건 검출 → Nash 2022는 외부 NHW 기준을 쓴 계산값, Wingo 2008은 원문이 national 0.63·Northern Plains 0.89·Southern Plains 0.89·Alaska 0.99로 모두 minority 기준, Zahnd 2019는 원문 "non-Hispanic Black women had … higher rates than non-Hispanic White women (RR = 1.07; 95% CI 1.04–1.11)"로 확인되어 3건 모두 방향 정확. 셀 내 대조가 불가능한 33행 중 1을 넘는 9행도 NHB 여성의 40세·50세 미만 교차(1.01–1.16), Asian/Hispanic/AI·AN의 HR−/HER2+ 아형(1.04–1.41) 등 알려진 소견과 부합. 방향 반전이 필요한 행은 Kong 2020 overall Black 1건.
+- **비교 방향 전수 점검**: 같은 문제의 잔존 여부를 추출표 전체로 점검. 발생률에서 계산한 122행은 minority ÷ NHW로 방향이 고정되고 내부 점검에서 원문 발생률로 재검증됨. 원문 보고값 98행 중 같은 셀에 추정치가 3개 이상 있어 상호 대조가 가능한 행에서 방향 이탈 후보 3건 검출 → Nash 2022는 외부 NHW 기준을 쓴 계산값, Wingo 2008은 원문이 national 0.63·Northern Plains 0.89·Southern Plains 0.89·Alaska 0.99로 모두 minority 기준, Zahnd 2019는 원문 "non-Hispanic Black women had … higher rates than non-Hispanic White women (RR = 1.07; 95% CI 1.04–1.11)"로 확인되어 3건 모두 방향 정확. 셀 내 대조가 불가능한 33행 중 1을 넘는 9행도 NHB 여성의 40세·50세 미만 교차(1.01–1.16), Asian/Hispanic/AI·AN의 HR−/HER2+ 아형(1.04–1.41) 등 알려진 소견과 부합. 방향 반전이 필요한 행은 Kong 2020 overall Black 1건.
 
-- **자료원 기재 전수 점검(추가 확인)**: Miller 건과 같은 유형(원문의 실제 자료원 범위와 기재 불일치)이 다른 연구에도 남아 있는지 점검. 이 유형은 라벨-분류 자동 점검으로는 걸러지지 않으므로, 대표값을 공급하는 22개 연구와 overlap 전용 연구까지 자료원 기재를 원문 범위와 대조. ① 소수 subgroup의 대표이면서 전국급 coverage로 분류된 10건은 모두 Gomez 2026이며, 원문이 "21 registries (excluding Alaska and Seattle, Washington)"와 표 제목 "SEER-21 Program"으로 전국 집계를 명시하고 특정 주 한정 서술이 없어 기재가 정확함을 확인. ② 나머지 대표 자료원(Hawaii Tumor Registry, California-CCR, Florida, IHS-PRCDA, Alaska Native Tumor Registry, USCS, SEER)도 모두 실제 범위대로 분류돼 있음 — Navajo Nation 레지스트리는 Navajo 지역 셀의 대표이므로 지역 한정이 정합. ③ SEER 하위범위(9/17/18/21)를 단일 'SEER-national' tier로 묶은 설계상 단순화가 있으나, 좁은 SEER가 같은 셀의 더 넓은 SEER 추정치를 이겨 대표가 된 사례는 **0건**으로 선정 왜곡 없음. ④ overlap 전용 연구까지 같은 기준으로 확대 점검한 결과 **Goggins 2009에서 같은 유형의 오류를 1건 추가 발견** — 추출표 registry에는 "SEER (SF/Seattle/Detroit/Atlanta/CT/LA/SanJose)"로 7개 registry가 정확히 기재돼 있었으나 coverage 분류 규칙이 문자열의 'SEER'만 보고 전국급(SEER-national)으로 tier를 부여하고 있었음. 원문이 "data from the seven SEER registries … Connecticut, and the cities of San Francisco, San Jose, Los Angeles, Detroit, Seattle, and Atlanta"로 전국 SEER이 아님을 명시하므로, registry 표기를 "SEER 7-registry subset"으로 정리하고 분류 규칙에 registry-subset 조건을 추가해 Jin 2016(8-state SEER+NPCR)과 같은 regional tier로 재분류. Goggins는 overlap 전용이어서 주분석 대표·헤드라인 결과는 불변이고, 민감도 카운트도 변동 없음. ⑤ 여기서 두 건 모두 *분류 규칙이 문자열을 잘못 읽은* 유형이었으므로, 점검을 개별 연구가 아니라 **추출표의 고유 registry 문자열 39개 전부 × 부여된 coverage tier**로 확대해 전수 대조 → **2건 추가 발견**. "Metropolitan Atlanta (SEER)"(Lund 2010)와 "New Mexico (SEER)"(Zahrieh 2021)는 SEER 프로그램의 **단일 대도시·단일 주 registry**인데 문자열의 'SEER' 때문에 전국급 tier로 분류돼 있었음. 각각 단일 지역 tier(LA County와 동급)·단일 주 tier로 재분류. 두 연구 모두 overlap 전용이고(Zahrieh 2021은 AI/AN undercount로 이미 강등된 행) 민감도 대표 교체에도 투입되지 않아 주분석 대표·Table 1·헤드라인 결과·민감도 카운트는 모두 불변. 다만 'New Mexico'는 지역을 시사하는 키워드 자동 탐색으로는 걸리지 않아 39개 문자열을 하나씩 확인해 찾았음을 부기함. 결과적으로 자료원 분류 정정은 Miller 2008·Goggins 2009·Lund 2010·Zahrieh 2021 4건이며, 39개 문자열 전수 대조에서 남은 불일치는 없음.
+- **자료원 기재 전수 점검**: Miller 건과 같은 유형(원문의 실제 자료원 범위와 기재 불일치)이 다른 연구에도 남아 있는지 점검. 이 유형은 라벨-분류 자동 점검으로는 걸러지지 않으므로, 대표값을 공급하는 22개 연구와 overlap 전용 연구까지 자료원 기재를 원문 범위와 대조. ① 소수 subgroup의 대표이면서 전국급 coverage로 분류된 10건은 모두 Gomez 2026이며, 원문이 "21 registries (excluding Alaska and Seattle, Washington)"와 표 제목 "SEER-21 Program"으로 전국 집계를 명시하고 특정 주 한정 서술이 없어 기재가 정확함을 확인. ② 나머지 대표 자료원(Hawaii Tumor Registry, California-CCR, Florida, IHS-PRCDA, Alaska Native Tumor Registry, USCS, SEER)도 모두 실제 범위대로 분류돼 있음 — Navajo Nation 레지스트리는 Navajo 지역 셀의 대표이므로 지역 한정이 정합. ③ SEER 하위범위(9/17/18/21)를 단일 'SEER-national' tier로 묶은 설계상 단순화가 있으나, 좁은 SEER가 같은 셀의 더 넓은 SEER 추정치를 이겨 대표가 된 사례는 **0건**으로 선정 왜곡 없음. ④ overlap 전용 연구까지 같은 기준으로 확대 점검한 결과 **Goggins 2009에서 같은 유형의 오류를 1건 추가 발견** — 추출표 registry에는 "SEER (SF/Seattle/Detroit/Atlanta/CT/LA/SanJose)"로 7개 registry가 정확히 기재돼 있었으나 coverage 분류 규칙이 문자열의 'SEER'만 보고 전국급(SEER-national)으로 tier를 부여하고 있었음. 원문이 "data from the seven SEER registries … Connecticut, and the cities of San Francisco, San Jose, Los Angeles, Detroit, Seattle, and Atlanta"로 전국 SEER이 아님을 명시하므로, registry 표기를 "SEER 7-registry subset"으로 정리하고 분류 규칙에 registry-subset 조건을 추가해 전국급에서 내림. **다만 이를 Jin 2016(8-state SEER+NPCR)과 같은 라벨로 묶은 것은 부정확하여 재검토함** — Goggins의 7개 registry는 Connecticut 1개 주를 빼면 San Francisco·San Jose·Los Angeles·Detroit·Seattle·Atlanta의 **대도시 단위**이고, Jin 2016은 California·Florida·Hawaii·Illinois·New Jersey·New York·Texas·Washington **8개 주 전체**로 원문 기준 미국 Asian American 인구의 68%를 포괄함. 따라서 Goggins에는 별도 라벨("SEER multi-registry subset (metropolitan areas)")을 부여해 대도시 집합임이 드러나도록 함. 등급(tier)은 같은 구간에 둠 — 분류 사다리에 "여러 주"와 "한 주" 사이의 중간 등급이 없고, 두 연구가 같은 셀에서 만나는 유일한 지점인 Asian Indian/Pakistani 셀에서는 등급이 같아도 **진단기간 순위(2009–2011 vs 1988–2004)로 Jin이 선택**되므로 등급 동률이 선정 결과를 바꾸지 않음을 확인. Goggins는 overlap 전용이어서 주분석 대표·헤드라인 결과는 불변이고, 민감도 카운트도 변동 없음. ⑤ 여기서 두 건 모두 *분류 규칙이 문자열을 잘못 읽은* 유형이었으므로, 점검을 개별 연구가 아니라 **추출표의 고유 registry 문자열 39개 전부 × 부여된 coverage tier**로 확대해 전수 대조 → **2건 추가 발견**. "Metropolitan Atlanta (SEER)"(Lund 2010)와 "New Mexico (SEER)"(Zahrieh 2021)는 SEER 프로그램의 **단일 대도시·단일 주 registry**인데 문자열의 'SEER' 때문에 전국급 tier로 분류돼 있었음. 각각 단일 지역 tier(LA County와 동급)·단일 주 tier로 재분류. 두 연구 모두 overlap 전용이고(Zahrieh 2021은 AI/AN undercount로 이미 강등된 행) 민감도 대표 교체에도 투입되지 않아 주분석 대표·Table 1·헤드라인 결과·민감도 카운트는 모두 불변. 다만 'New Mexico'는 지역을 시사하는 키워드 자동 탐색으로는 걸리지 않아 39개 문자열을 하나씩 확인해 찾았음을 부기함. 결과적으로 자료원 분류 정정은 Miller 2008·Goggins 2009·Lund 2010·Zahrieh 2021 4건이며, 39개 문자열 전수 대조에서 남은 불일치는 없음.
 
 - **이전 점검이 두 건을 놓친 이유와 점검 방식 보완**: 4차 라운드에서 대표 연구 전수를 원문과 대조했고(자료원·기간·비교군·값) 그 기록은 `SOURCE_VERIFICATION_LOG`에 남아 있으나, 자료원 점검이 **논문이 명시한 data system 단위**로 이루어진 것이 한계였음. Miller 2008은 논문 수준 자료원(NAACCR/SEER API registries)이 기재와 일치했고 Native Hawaiian만 Hawaii로 한정된다는 **그룹 단위 제한**은 그 단위에서 드러나지 않아 통과. Goggins 2009는 registry 문자열 자체가 정확해 원문 대조로도 걸리지 않고, **분류 규칙이 문자열의 'SEER'만 보고 tier를 부여**한 것이 문제여서 라벨-분류 자동 점검(라벨과 분류가 서로 모순되는 경우만 탐지)도 통과. 이번 라운드에서는 점검 단위를 **그룹 × 자료원**으로 바꾸고, 기재뿐 아니라 **분류 규칙이 부여한 coverage tier가 원문 범위와 일치하는지**까지 확인하는 방식으로 보완. 그 결과 위 2건을 찾아 정정했고, 동일 기준으로 남은 연구에서는 추가 불일치가 확인되지 않음.
 
@@ -22,9 +22,11 @@
 
 ## 2. 표준인구의 영향이 비율에서 상쇄된다는 설명을 수정해주세요.
 
-- **지적 수용**: 같은 표준인구를 쓰더라도 두 집단의 연령별 발생률 곡선 형태가 다르면 표준 가중치를 달리 잡을 때 각 집단의 표준화율이 서로 다른 폭으로 움직이므로, 그 비율도 표준인구에 따라 달라짐. 따라서 "비율이 표준인구 선택에 의존하지 않는다"는 종전 서술은 부정확한 것으로 확인.
+> Discussion과 Supplementary Table 4 Note에 같은 연구 내 비율은 표준인구의 영향을 받지 않는다는 설명이 남아 있습니다. 같은 표준인구를 사용하더라도 연령표준화율의 비율은 표준인구의 가중치에 따라 달라질 수 있습니다. 해당 표현을 수정하고, NHW 대비 비율로 제시하더라도 연구 간 표준인구·지역·관찰기간의 차이가 해소되지는 않음을 명시해주세요.
 
 - **Discussion 한계 문단 수정**: "비율이 공유 표준화를 상쇄한다(a ratio cancels the shared standardization)"는 표현을 삭제하고, ① 셀 내부에서는 분자·분모가 하나의 표준인구·기간·지역을 공유하므로 비율이 **내부적으로 일관**하다는 점과 ② 그럼에도 **비율이 표준인구를 상쇄하지는 않는다**(두 집단의 연령별 발생률 형태가 달라 다른 표준 가중치는 표준화율과 그 비율을 서로 다른 폭으로 이동시킴)는 점을 구분해 기술. 이어서 **셀 간에는 표준인구·연령구조·지역·진단기간 차이가 그대로 남는다**고 명시.
+
+- **①(셀 내부 일관성) 근거 확인**: "셀 내부에서는 분자·분모가 하나의 표준인구·기간·지역을 공유한다"는 서술이 예외 없이 성립하는지 대표값 85개를 전수 확인 — 모든 대표값이 **한 논문 안에서 소수집단 발생률과 NHW 발생률을 짝지어 만든 비율**이며, 외부 자료의 비교군을 끌어온 행(SEER*Explorer NHW율을 빌린 Nash 2022 등)은 **대표값에 1건도 없음**(overlap 전용으로만 보유). 간접표준화 SIR도 대표값에 **0건**(provenance 분포: computed-from-rates-with-CI 41, directly-reported-IRR 35, Poisson-SE 5, computed-from-rates 4). 따라서 ①은 85개 셀 전부에 대해 성립하며, ②(표준인구 비상쇄)와 모순되지 않음 — ①은 *한 비율 안에서 두 율이 같은 가중치로 표준화됐다*는 뜻이고, ②는 *그 가중치를 바꾸면 비율 자체가 움직인다*는 뜻으로 서로 다른 층위의 진술.
 
 - **Supplementary Table 4 Note 수정**: "연구 내에서 형성되므로 그 연구의 표준인구 선택에 의존하지 않는다"를 삭제하고, 같은 취지(셀 내부 일관성 / 표준인구 비상쇄 / 연구 간 비교 불가)로 재작성. NHW 대비 비율로 제시해도 연구 간 표준인구·기간·지역 차이가 해소되지 않음을 Note에 유지.
 
@@ -36,9 +38,13 @@
 
 ## 3. 민감도분석의 조건과 실제 결과를 일치시켜주세요.
 
+> Methods와 답변서에서는 Goggins 2009의 SIR을 directly-reported-IRR 분석에서 제외했다고 했지만, Supplementary Table 6b에는 해당 값인 0.61 [0.56–0.66]이 남아 있습니다. 분석 조건과 코드를 확인해 수정해주세요.
+>
+> Table 6b에서 제외됐다고 보고한 45개 cell도 표에 제시하고, 대표값이 변경된 경우에는 변경 전후의 출처 연구를 함께 표시해주세요. 제한조건을 충족하지 못해 제외된 cell은 결과의 견고함이 확인된 것으로 해석하지 않도록 주의해주세요.
+
 - **Goggins 2009 SIR — 조건과 코드 불일치 정정**: Methods는 SIR이 간접표준화이므로 directly-reported-IRR 민감도에서 제외한다고 서술했으나, 코드의 필터 집합이 `{directly-reported-IRR, directly-reported-SIR}`로 **SIR을 포함**하고 표 제목도 "IRR/SIR only"였음. 지적대로 코드를 Methods에 맞춰 필터에서 SIR을 제거하고, 표 제목·캡션·Note를 "directly reported IRR only(간접표준화 SIR 제외)"로 수정. 그 결과 Goggins 2009의 0.61 [0.56–0.66]이 Table 6b에서 빠지고 Asian Indian/Pakistani 셀은 dropped로 이동 → **6b 결과가 35 unchanged / 5 changed / 45 dropped → 35 unchanged / 4 changed / 46 dropped**로 갱신(Results 서술도 함께 수정). 한편 Kong 2020의 역수 변환 행(item 1)은 원문 보고값의 방향만 바꾼 것이어서 계산 유도값과 구분해 directly-reported 계열에 포함시키고, 그 처리 근거를 코드 주석과 Note에 명시.
 
-- **제외된 cell 전부 제시**: Table 6b만 changed 셀만 싣고 dropped를 생략하고 있었음(6a·6c·6d는 이미 changed·dropped 모두 제시). 6b도 dropped를 모두 포함하도록 수정해 **네 표 모두 changed·dropped 전 cell을 제시**(보충표 행 수 624 → 669).
+- **제외된 cell 전부 제시**: Table 6b만 changed 셀만 싣고 dropped를 생략하고 있었음(6a·6c·6d는 이미 changed·dropped 모두 제시). 6b도 dropped를 모두 포함하도록 수정해 **네 표 모두 changed·dropped 전 cell을 제시**(보충표 행 수 624 → 669; 이후 S2 사유 문구 정리로 현재 665).
 
 - **변경 전후 출처 연구 표시**: 네 표의 값 컬럼에 해당 추정치를 공급한 연구를 병기하도록 변경 — "Main analysis: IRR [95% CI] — study"와 "Under restriction: IRR [95% CI] — study". 따라서 changed 셀에서는 **교체된 연구와 교체한 연구가 한 행에서 함께** 보이고(예: Japanese 아형 셀에서 Gomez 2026 → Jin 2016), dropped 셀은 "not available under this restriction"으로 표시.
 
@@ -47,6 +53,8 @@
 ---
 
 ## 4. RoB 판정 기준과 개별 연구 평가의 일관성을 확인해주세요.
+
+> 현재 Q8 기준은 적절한 연령표준화와 분산 추정치를 요구하지만, CI가 없다고 설명한 Melkonian 2019는 Q8=Yes, Low로 평가한 반면 Harper 2009는 분산 미보고로 Q8=No입니다. CI 미보고 자체가 반드시 높은 비뚤림 위험을 의미하지는 않지만, 설정한 기준은 일관되게 적용해야 합니다. 연구 전체와 추출한 추정치 중 무엇을 평가한 것인지 명확히 하고, 판정이 변경되면 low-risk-only 분석에도 반영해주세요.
 
 - **불일치 원인 확인**: Q8 판정 코드가 분산 유무를 `s["cis"] > 0 or direct or withvar`로 계산하고 있었고, 여기서 `direct`는 **provenance가 원문 보고 비율이면 참**이 되도록 돼 있었음. 그 결과 원문이 비율을 인쇄했지만 신뢰구간이 없는 연구는 분산이 있는 것처럼 통과 → Melkonian 2019(directly-reported-IRR, 추출 7행 모두 CI 없음)는 Q8=Yes·Low, Harper 2009(computed-from-rates, 추출 4행 모두 CI 없음)는 Q8=No·Moderate로 **같은 조건에서 판정이 갈렸음**.
 
@@ -58,12 +66,16 @@
 
 - **CI 미보고의 해석 주의**: "CI 미보고 자체가 반드시 높은 비뚤림 위험을 의미하지는 않는다"는 지적을 반영해, Methods와 S5 Note에 **이 Q8=No는 불확실성 보고가 불완전하다는 뜻이며 추정치가 편향되었다는 근거가 아니라는 점**과, 그 때문에 비율을 구간 없이 보고한 대규모 레지스트리 분석 몇 편이 moderate로 분류된다는 점을 함께 명시.
 
-- **대안 제시 — 분산 요건을 Q8에서 분리하는 방안(지시 요청)**: 위 근거로 현행(분산 요건 유지)을 기본으로 반영했으나, 신뢰구간 미보고가 엄밀히는 비뚤림이 아니라는 점을 더 중시한다면 **Q8은 "명시된 표준인구로의 적절한 연령표준화"만 판정하고, 분산·구간 보고 여부는 RoB 등급과 분리해 별도로 기록**하는 방식도 가능합니다(분산 출처는 이미 Table 1의 ‡ 표기와 provenance 열로 추적 중이므로 정보 손실은 없습니다). 이 경우 실제 영향을 계산해 보면 Q8=No 9편이 Yes로 바뀌어 **RoB가 Low 41·Moderate 17 → Low 49·Moderate 9**, 저위험 제한 민감도가 **54/19/12 → 63 unchanged·14 changed·8 dropped**가 되고, Melkonian 2019가 Low로 복귀하므로 **AI/AN aggregate의 0.87 → 0.63 교체와 AI/AN 관련 9개 cell의 변경·탈락이 모두 사라집니다**. 두 방식 모두 내부적으로 일관되며 어느 쪽이든 그에 맞춰 RoB 표·민감도·본문 서술을 함께 갱신할 수 있으므로, 비뚤림 위험 평가에 불확실성 보고를 포함할지에 대한 지시를 주시면 반영하겠습니다.
+- **대안 제시 — 분산 요건을 Q8에서 분리하는 방안(지시 요청)**: 위 근거로 현행(분산 요건 유지)을 기본으로 반영했으나, 신뢰구간 미보고가 엄밀히는 비뚤림이 아니라는 점을 더 중시한다면 **Q8은 "명시된 표준인구로의 적절한 연령표준화"만 판정하고, 분산·구간 보고 여부는 RoB 등급과 분리해 별도로 기록**하는 방식도 가능합니다(분산 출처는 이미 Table 1의 ‡ 표기와 provenance 열로 추적 중이므로 정보 손실은 없습니다). 이 경우 실제 영향을 계산해 보면 Q8=No 9편이 Yes로 바뀌어 **RoB가 Low 41·Moderate 17 → Low 49·Moderate 9**, 저위험 제한 민감도가 **54/19/12 → 63 unchanged·14 changed·8 dropped**가 되고, Melkonian 2019가 Low로 복귀하므로 **AI/AN aggregate의 0.87 → 0.63 교체와 AI/AN 관련 9개 cell의 변경·탈락이 모두 사라집니다**. 이 분리가 통용되는 방식인지도 확인함 — **비뚤림 위험과 정밀도(imprecision)를 별개 영역으로 다루는 것은 근거 평가에서 표준적**이며, 대표적으로 GRADE는 imprecision을 risk of bias와 독립된 등급 하락 영역으로 둠. 따라서 분산·구간 보고를 RoB 등급에서 떼어 별도로 기록하는 방식 자체는 임의적 고안이 아니라 기존 관행에 부합함. 다만 **JBI prevalence 체크리스트 Q8('적절한 통계분석') 해설이 신뢰구간 보고를 명시적으로 요구하는지는 이 환경에서 원문 지침을 열람할 수 없어 확인하지 못했고**, 확인 전에는 어느 쪽이 JBI의 의도에 더 가까운지 단정하지 않겠습니다. 두 방식 모두 내부적으로 일관되며 어느 쪽이든 그에 맞춰 RoB 표·민감도·본문 서술을 함께 갱신할 수 있으므로, 비뚤림 위험 평가에 불확실성 보고를 포함할지에 대한 지시를 주시면 반영하겠습니다.
 
 - **low-risk-only 분석에 반영**: 판정 변경을 민감도분석에 그대로 반영해 6a가 **59/14/12 → 54 unchanged / 19 changed / 12 dropped**로 갱신. 가장 큰 변화는 AI/AN 국가 aggregate로, 저위험 제한 시 대표가 **IHS-linked 0.87(2010–2015) → IHS-linked 0.63(1999–2004)**으로 교체됨. 교체 기전은 **불확실성 보고 형식의 차이**로, 주분석 대표인 Melkonian 2019는 추출 7행 모두 신뢰구간이 없어(Q8=No) moderate로 분류되어 제한에서 빠지고, 구간을 모두 보고한 Wingo 2008(7/7행 CI, Low)이 같은 IHS 계열 내에서 그 자리를 채움. 이는 본문에서 이미 기술한 IHS-linked 추정치의 시간적 상승과 같은 방향이지 동일 기간에 대한 두 자료원의 불일치가 아니지만, 이 교체로 **AI/AN이 Hispanic/Latina 아래로 내려가 aggregate 순위가 저위험 제한 하에서는 유지되지 않음**. Results와 Discussion에 해당 수치와 함께 "순위와 일부 near-null 부호를 확정된 것으로 읽지 말 것"을 명시. 반영 여부는 세 가지로 검증 — ① 6a에서 대표로 투입된 Moderate 연구 0건, ② 판정이 바뀐 5편이 6a 대표로 남은 건 0건, ③ 주분석에서 그 5편이 대표였던 5개 cell이 모두 changed로 전환. 내부 점검의 민감도-대표 정합(340쌍)과 본문 카운트 점검도 통과.
 ---
 
 ## 5. 연구의 포함·제외 및 synthesis 분류 기준을 통일해주세요.
+
+> Methods에서는 같은 registry·기간·인구의 재보고를 제외한다고 했지만, Supplementary Table 2의 Giaquinto 2024와 Saka 2025는 같은 이유를 기재하면서 narrative 연구로 포함하고 있습니다. 중복 연구를 제외하는 경우와 서술적 종합에 남기는 경우를 명확히 구분해주세요.
+>
+> Li 2025의 분류 사유인 "single poolable estimate가 아님"도 현재 분석 방식과 맞지 않으므로, 수치 추출 가능 여부 등 실제 사유로 수정해주세요. Introduction과 Table 1에 남아 있는 대표값 선정 단위 "per registry family"도 Methods의 "per analytic cell"과 통일해주세요.
 
 - **중복 제외 vs 서술적 종합 잔류 — 구분 원리를 Methods에 명시**: 종전 Methods는 "같은 registry·기간·인구의 재보고는 제외"만 기술해, 같은 사유가 적힌 연구가 narrative로 남아 있는 것과 어긋났음. 실제 판정 기준은 **"이미 포함된 다른 출판물이 그 내용을 담고 있는가"**였으므로 이를 원리로 명시하고 두 경우를 구분해 서술: ① 재보고는 독립 추정치가 아니어서 **어느 경우에도 대표값 후보가 되지 않음**; ② 그중 포함된 다른 출판물이 내용을 이미 담은 것(같은 시리즈의 **이전 연도판**, 포함된 분석의 **preprint·book-chapter판**)은 리뷰에 새 정보를 더하지 않으므로 **제외**(중복 55편 중 51편이 연례 통계 시리즈 이전판, 4편이 preprint·book-chapter 중복); ③ 반면 **시리즈의 최신 적격판**은 그 시리즈의 현재 서술을 담은 유일한 판이므로 리뷰에는 포함하되, 해당 registry·기간의 발생률은 전담 primary 연구가 이미 제공하므로 **서술적 종합에만 기여**; ④ 같은 registry family라도 기간·지역·subset이 다르면 별개 추정치로 보아 **민감도 overlap으로 유지**. 이로써 Giaquinto 2024(rec 0)와 Saka 2025(rec 4294)가 narrative에 남는 근거와, 같은 시리즈 이전판들이 제외된 근거가 하나의 기준으로 설명됨. 참고로 제외된 83편 중 51편이 연례 통계 시리즈의 **이전 연도판**(Breast cancer statistics 2015·2019, Cancer statistics for African Americans 2016·2022, Annual Report to the Nation 1973–1999 ~ 1975–2014 등)임을 확인. 즉 실제로는 "**시리즈별로 최신 적격판 1편만 남기고 이전 판은 중복으로 제외**"하는 규칙이 적용되고 있었으나 Methods에 서술되지 않아 지적된 불일치가 발생. Methods 적격기준에 해당 규칙과, **남긴 최신판은 해당 registry·기간의 발생률을 전담 primary 연구가 이미 제공하므로 대표값 후보로 쓰지 않고 서술적 종합에만 기여**한다는 점을 명시. 이로써 Giaquinto 2024(rec 0, Breast cancer statistics 2024)와 Saka 2025(rec 4294, Cancer statistics for African American and Black people 2025)가 같은 사유로 narrative에 남는 근거가 드러남.
 
@@ -71,11 +83,17 @@
 
 - **Supplementary Table 2의 narrative 사유 전면 실제화**: 점검 결과 narrative 118편 중 **103편이 "No recoverable NHW comparison" 한 문구로 일괄 표시**되고 있었음(개별 사유 부여는 15편). 실제 사유는 시리즈 재보고 9, 추세만 28, 사회경제적 비교 6, 비미국 비교군 5, 비율 아님(PIR 등) 5, 그림 전용 4 등으로 다양하므로, 적격성 기록에 사유가 있는 경우 그 사유를 유형별 문구로 표시하도록 수정 → **개별 사유 표시가 15편에서 57편으로 확대**. 사유 기록이 없는 나머지는 포괄 사유("NHW 기준 연령표준화율·비율을 복구할 수 없음")로 표시하고, 어떤 경우에 개별 사유가 표시되고 어떤 경우에 포괄 사유가 표시되는지를 Supplementary Table 2 Note에 명시.
 
+- **Supplementary Table 2 사유 문구 간결화**: 사유 문구가 최장 164자로 길어 표에서 읽기 어려웠으므로 전 유형을 축약 — "연간 추세로만 보고해 단면 연령표준화율·비율을 추출할 수 없음"(164자) → "Reports an annual trend, not a cross-sectional rate or ratio"(60자) 식으로, 최장 119자·대부분 65자 이내로 정리. 표시되는 사유 유형과 편수는 그대로 유지.
+
+- **자료원 약어 표기 정정**: Supplementary Table 2의 Data source 열에 약어가 풀리지 않거나 앞뒤가 어긋난 곳을 정정. 특히 **`SC`가 두 가지 뜻으로 쓰이고 있었음** — rec 402는 "State Cancer Profiles (SC)"로 적혀 SC가 State Cancer Profiles의 약어처럼 읽혔으나 원문은 **South Carolina** 주 연구였고, rec 453의 "SC + Ohio"도 South Carolina를 뜻함. 각각 **"State Cancer Profiles (South Carolina)"**, **"South Carolina and Ohio state registries (non-SEER)"**로 수정. 나머지 약어도 초출에서 풀어씀 — **CI5 = Cancer Incidence in Five Continents**(IARC 국제 발생률 자료집, rec 284·2732), **HCHS/SOL = Hispanic Community Health Study/Study of Latinos**(rec 1637). 셋 다 narrative 전용 연구로 추정치에는 관여하지 않음.
+
 - **대표값 선정 단위 표기 통일**: Introduction("one representative population-based estimate per registry family"), Table 1 Note("one per registry family"), 본문 표·그림 Note에 남아 있던 **"per registry family"를 Methods의 "per analytic cell"로 통일**. registry family는 셀 내부의 중복 판정 단위로만 쓰인다는 점을 작성 지침에도 반영.
 
 ---
 
 ## 6. Discussion의 일부 해석을 신중하게 수정해주세요.
+
+> 겹치는 registry를 이용한 여러 논문을 "independent sources"로 표현하지 않도록 수정해주세요. 또한 AI/AN 추정치가 0.56에서 0.87로 달라진 것은 서로 다른 연구의 비교이므로, 그 차이 전체를 IHS linkage의 효과로 설명해서는 안 됩니다. 관찰기간과 대상 지역의 차이 및 PRCDA 자료의 적용 범위를 함께 설명해주세요.
 
 - **"independent sources" 표현 삭제**: 겹치는 레지스트리에서 나온 논문들을 독립 자료원으로 부르지 않도록, 기여 서술의 "cells corroborated by two or more **independent sources**"를 **"서로 다른 registry family에서 온 둘 이상의 자료원이 뒷받침하는 cell"**로 교체하고, 이어서 **"미국 레지스트리는 중첩 구조이므로 서로 다른 family의 출판물도 겹치는 사례를 포함할 수 있어 이들이 완전히 독립적이지는 않다"**는 단서를 명시. 38 vs 47이라는 구분 자체는 유지하되 그 근거를 "독립성"이 아니라 "자료원 수"로 재정의. **다만 이 교체 과정에서 수치-문구 불일치가 발생했음을 재점검에서 확인하고 정정** — 38/47은 85개 cell 중 **추출 가능한 추정치를 2편 이상 가진 cell(38) 대 1편뿐인 cell(47)** 의 구분으로 계산된 값인데, 교체된 문구가 이를 "**서로 다른 registry family**에서 온 둘 이상"으로 서술해 조건을 더 좁게 표현하고 있었음. 실제로 재계산하면 서로 다른 registry family가 2개 이상인 cell은 **27개**(38개의 부분집합, 나머지 11개는 같은 family 내 복수 연구)이므로, 본문을 "**2편 이상이 채울 수 있었던 cell 38개(그중 27개는 서로 다른 registry family 2개 이상에서 옴) 대 1편뿐인 47개**"로 두 수치를 모두 제시하도록 수정. 이어지는 "레지스트리 중첩으로 서로 다른 family도 완전히 독립적이지는 않다"는 단서는 그대로 유지. Results의 narrative 서술에 있던 "no **independent** quantitative estimate"도 중의성이 있어 "no **extractable** quantitative estimate"로 수정(Introduction과 Supplementary Table 4 Note의 "중첩 레지스트리 추정치는 독립적이지 않다"는 서술은 올바른 취지이므로 유지).
 
@@ -86,6 +104,8 @@
 ---
 
 ## 7. 표·그림의 수치와 최종 문서의 배치를 확인해주세요.
+
+> 색상과 표 서식은 개선됐지만, PDF 변환본에서는 Figure 2 하단의 일부 지역값과 설명이 여전히 잘립니다. 또한 AANHPI aggregate의 CI가 Table 1에서는 [0.752–0.788], Figure 2에서는 [0.751–0.787]로 다릅니다. 표와 그림을 동일한 최종 데이터에서 생성하고, 추가된 지역값과 White/NHW 비교군 표시도 일치하는지 확인해주세요.
 
 - **CI 불일치 원인 확인 — 그림이 구간을 재계산하고 있었음**: Table 1은 추출표에 저장된 구간을 그대로 인쇄하는 반면, 그림의 원본 데이터(`Table_main_forest.csv`)는 구간을 버리고 **로그척도 표준오차만 보관한 뒤 exp(y ± 1.96·SE)로 다시 만들고** 있었음. 원문 보고 구간은 로그척도에서 대칭이 아닌 경우가 많아 이 왕복 과정에서 소수 셋째 자리가 이동 → 지적하신 AANHPI aggregate가 표 [0.752–0.788], 그림 [0.751–0.787]로 갈렸음. 점검 결과 같은 유형의 불일치가 **76행 중 47행**에 있었음(예: Hispanic aggregate 0.707–0.731 vs 0.706–0.730, Navajo 0.44–0.55 vs 0.438–0.548). 그림 데이터가 추출표의 구간을 **그대로** 싣도록 수정(SE는 가중·pooling 계산에만 사용) → 47건 전부 해소되어 **표와 그림의 구간이 전 cell에서 동일**.
 
@@ -106,17 +126,3 @@
 - **지역값·비교군 표시 일치 확인**: Figure 2가 실제로 그린 27개 행 전부를 Table 1과 1:1 대조 — 새로 넣은 AI/AN 지역 4건(Southwest 0.57·East 0.61·Pacific Coast 0.93·Northern Plains 1.05)이 모두 "(point est.)"로 표와 동일하게 표시되고, † 표기는 Alaska Native 1.09 [0.99–1.21] 한 건으로 표·그림이 일치하며 그 외 행에 잘못 붙은 †는 없음. ‡ 표기(리뷰 계산 구간)도 전 행 일치. **불일치 0건.**
 
 - **재발 방지 점검 추가**: 표와 그림이 다시 어긋나지 않도록 교차점검에 **[I] Table 1 vs 본문 그림** 항목을 신설 — Table 1의 38개 cell과 **Figure 2가 실제로 그린 27개 행**을 각각 **값·구간·† 표기·‡ 표기 네 가지 모두** 대조(총 65건). Figure 2는 행 목록을 코드에 직접 적는 방식이라 입력 파일만 대조하면 *행이 빠지거나 다른 cell을 가리키는* 오류를 못 잡으므로, 그림 생성 시 **실제로 그린 내용을 별도 파일로 남기고** 그것을 검사 대상으로 삼음. 검사가 실제로 작동하는지는 고의로 값·구간·† 세 가지를 틀리게 넣어 **3건 모두 검출됨**을 확인. 현재 65/65 통과. 대조를 정확히 하기 위해 Table 1 출력에 analytic dimension 열을 추가(표의 섹션 제목은 표시용이라 AANHPI가 두 섹션으로 나뉘어 있었음). 전체 교차점검 A–I 전부 통과.
-
----
-
-## 전체 검수 (7개 항목 + 작성지침)
-
-- **7개 항목 재검수**: 각 항목의 수정이 실제 파일에 반영됐는지 21개 항목으로 기계 점검 — Miller 자료원 정정·Native Hawaiian 대표 1.270·Kong 역수(0.96, provenance)·Goggins registry subset(1번), 표준인구 비상쇄 서술과 S4 Note(2번), SIR 제외 필터·네 표 dropped 제시·변경 전후 연구 병기(3번), RoB 41/17·분산 없는 Q8=Yes 0건·평가단위 명시(4번), 중복 제외 vs narrative 잔류 기준(5번), independent 표현 삭제·PRCDA 53%·세 요인 기술(6번), Figure 2의 AI/AN 7개 지역·† 1건·forest 85 cell(7번) **전부 확인**. 교차점검 A–I도 전부 통과.
-
-- **작성지침 대조**: 금지 표현(수사적 동사, 절대 표현, LLM 상투구, 1인칭 단수, 폐기 용어 API·Asian/Pacific Islander·Blacks/Whites, "contemporary benchmark")을 본문 전체에 기계 검색 → **위반 0건**. 문장 길이 분산도 각 섹션 표준편차 17–30 단어(최단 4–10, 최장 87–124)로 단조롭지 않음. 인용 분산 원칙에 따라 4개가 묶여 있던 곳 1건(AI/AN 지역 범위 + Navajo)을 **지역 보고(¹⁰,⁵³)와 Navajo Nation 분석(⁴⁸)으로 분리**하고, 해당 claim을 뒷받침하지 않는 전국 unlinked 연구(⁴⁴) 인용은 제거.
-
-- **선정 단위 표기 잔여분 정리**: 1·5번에서 Introduction·Table 1의 "per registry family"를 "per analytic cell"로 통일했으나, 내부 산출물과 코드 주석(results_tables.py, meta_analysis_v2.py, make_registry_overlap.py, MANUSCRIPT_VS_SUPPLE.md)에 같은 표현이 남아 있어 함께 통일. 제출 문서에는 영향 없음.
-
-- **참고문헌 도달성 결함 발견·수정**: 참고문헌 64건 중 **39건이 본문·표 어디에서도 인용되지 않아** 번호가 가리켜지지 않는 상태였음(추정치를 공급한 연구들이 Table 1·Supplementary Table 4에 저자·연도로만 표기되고 번호가 없었기 때문). 두 표의 연구 칸에 **참고문헌 번호를 대괄호로 병기**(예: "Ellington 2022 [25]", "Melkonian 2019 [53]")하고 각 표 Note에 그 의미를 명시 → **64건 전부 도달 가능**. 표 셀은 위첨자로 조판되지 않으므로 대괄호를 사용.
-
-- **은퇴 파일 정리**: 더 이상 어디에서도 참조되지 않는 `manuscript/References_draft.md`(구 초안 참고목록) 삭제. 현재 참고목록은 `References_complete.md` 단일본.

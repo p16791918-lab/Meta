@@ -66,8 +66,15 @@ def registry_family(reg):
     # A fixed multi-state (e.g., 8-state) SEER+NPCR subset covers more than one
     # state but far less than the full national USCS/NAACCR file; rank it below
     # national SEER so the national representative is preferred.
+    # Goggins' set is seven SEER registries, six of them metropolitan areas plus
+    # Connecticut — narrower than a whole-state subset, so it is named for what it
+    # is rather than folded into the multi-state label. It shares the band: the
+    # ladder has no finer rung between "several states" and "one state", and in the
+    # one cell where it meets a whole-state subset the diagnosis period decides.
+    if "registry subset" in s:
+        return ("SEER multi-registry subset (metropolitan areas)", 5, "national")
     if ("8-state" in s or "eight-state" in s or "8 state" in s or "7-state" in s
-            or "delta" in s or "lower mississippi" in s or "registry subset" in s):
+            or "delta" in s or "lower mississippi" in s):
         return ("Multi-state registry subset (regional)", 5, "national")
     if "uscs" in s or "50-state" in s or "npcr" in s:
         return ("USCS(NPCR+SEER ~99%)", 9, "national")

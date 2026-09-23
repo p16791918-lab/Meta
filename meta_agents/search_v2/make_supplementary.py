@@ -153,33 +153,25 @@ for e in rd("ft_eligibility.csv"):
         rsn = ((e.get("ft_reason", "") or "") + " " + (e.get("note", "") or "")).lower()
         rid = e.get("record_id", "")
         if "secondary synthesis" in rsn or "not pooled to avoid" in rsn or "duplicat" in rsn:
-            _narr[rid] = ("Most recent edition of a recurring statistics series; re-reports registry "
-                          "incidence already provided by the dedicated primary study for that "
-                          "registry and period")
+            _narr[rid] = ("Latest edition of a statistics series; its rates are already supplied "
+                          "by the primary study for that registry and period")
         elif "trend" in rsn or "apc" in rsn or "annual percent" in rsn:
-            _narr[rid] = ("Reports incidence as an annual trend (annual percentage change) rather "
-                          "than a cross-sectional age-standardized rate or ratio, so no cell "
-                          "estimate could be extracted")
+            _narr[rid] = ("Reports an annual trend, not a cross-sectional rate or ratio")
         elif "pir" in rsn or "proportional incidence" in rsn:
-            _narr[rid] = ("Reports a proportional incidence measure rather than an age-standardized "
-                          "incidence rate, so no rate ratio could be extracted")
+            _narr[rid] = ("Reports a proportional incidence measure, not an incidence rate")
         elif "figure" in rsn or "graph" in rsn:
-            _narr[rid] = ("Race-specific rates appear only in a figure without the underlying "
-                          "values, so no cell estimate could be extracted")
+            _narr[rid] = ("Race-specific rates appear only in a figure, without the values")
         elif "sep" in rsn or "socioeconomic" in rsn or "ses-grad" in rsn or "rii" in rsn:
-            _narr[rid] = ("Reports incidence by socioeconomic position rather than an NHW-referenced "
-                          "race comparison")
+            _narr[rid] = ("Compares by socioeconomic position, not against NHW women")
         elif "non-us" in rsn or "migrant" in rsn or "osaka" in rsn:
-            _narr[rid] = ("The comparison group is a non-U.S. population, so no NHW-referenced "
-                          "estimate could be extracted")
+            _narr[rid] = ("The comparison group is a non-U.S. population")
 
 
 def _role(r):
     g = r.get("synth_group", "")
     if g == "narrative":
         return _narr.get(r.get("record_id", ""),
-                         "No NHW-referenced age-standardized rate or ratio could be recovered "
-                         "from the report")
+                         "No NHW-referenced rate or ratio could be recovered")
     if g == "quant-eligible":
         return "Quant-eligible; no extractable data"
     c = _rep.get(r.get("record_id", ""))
