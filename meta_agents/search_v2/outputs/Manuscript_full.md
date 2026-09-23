@@ -271,10 +271,12 @@ between 2002 and 2026 and drew on SEER, NPCR and USCS, NAACCR, IHS-linked and tr
 registries, and individual state or regional registries (Supplementary Table 2). After collapsing
 overlapping registry-family estimates, 85 representative estimates remained, one per analytic
 cell; all are listed in Supplementary Table 4,
-and the principal comparisons—overall incidence, the disaggregated AANHPI and Hispanic-origin
-subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
-shown in Table 1. The reference group was NHW for 66 of the 85 representatives and
-an unstratified White group for the other 19 (marked †; Supplementary Table 4).
+and the 38 covering the principal comparisons—overall incidence, the disaggregated AANHPI and
+Hispanic-origin subgroups, AI/AN by region, Middle Eastern populations, and TNBC—are
+shown in Table 1; the remaining cells, chiefly the other receptor-defined subtypes and the
+age-specific comparisons, are in the Supplementary Materials. The reference group was NHW for 66 of
+the 85 representatives and an unstratified White group for the other 19, marked † wherever they
+appear—five of them in Table 1 and the other 14 in Supplementary Table 4.
 
 ### Overall invasive breast cancer incidence
 Relative to NHW women, overall invasive breast cancer incidence was lower in each aggregate

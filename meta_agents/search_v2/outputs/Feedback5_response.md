@@ -135,6 +135,8 @@
 
 - **비층화 White 비교군 셀 수 명시 및 구성 정정**: 본문이 해당 셀을 "a minority of cells"로만 서술하고 있어 Table 1의 † 표기 수와 대조가 안 됐음. 실제로 세어 **85개 셀 중 19개**임을 확인하고 Abstract·Results 개요·Discussion 2곳을 숫자로 교체("in 19 of the 85 cells", "NHW for 66 of the 85 representatives and an unstratified White group for the other 19").
 
+  다만 **85개 중 Table 1에 실리는 것은 38개**(18개 analytic dimension 중 6개)이므로, 본문의 19라는 숫자와 Table 1에서 세어지는 † 개수가 어긋납니다. 실제로 **19개 중 Table 1에 보이는 것은 5개, 나머지 14개는 보충자료에만** 있음. 이 점을 Results에 명시하고("marked † wherever they appear—five of them in Table 1 and the other 14 in Supplementary Table 4"), Table 1 Note에도 **이 표가 85개 중 38개를 싣는다는 점**과 **† 19개 중 5개가 이 표에 나타난다는 점**을 추가.
+
   구성 서술에도 두 건의 오류가 있어 함께 정정. ① Methods·Results가 해당 셀을 "**the** receptor-defined subtype cells and two age-specific Black cells"로 적어 **아형 셀 전부(36개)가 해당되는 것처럼** 읽혔으나 실제는 **36개 중 16개** → "16 of the 36 receptor-defined subtype cells"로 수정. ② **Alaska Native 1건이 목록에서 누락**돼 있었음 — Table 1에서 †가 붙은 셀을 본문 목록과 대조하면 찾을 수 없는 상태였음. 다만 이 셀은 성격이 달라 별도로 기술: 나머지 18개는 **NHW 비교군 자료가 아예 없어** †가 붙은 반면, Alaska Native는 **NHW 자료가 존재하는데도 coverage 우선 규칙이 비층화 White 기준 registry를 선택**해 붙은 것. 이 차이가 6c(NHW 비교군 제한)에서 18개는 dropped, Alaska Native만 changed(1.09 → IHS-linked 1.25)로 갈리는 이유이므로 Methods에 명시.
 
 - **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.

@@ -55,14 +55,17 @@ for r in t1:
                         "%s%s (%s)" % (cite(r["study"]), r.get("ref", ""), r["period"]),
                         r.get("registry", ""), r["rob"]])
 # Note placed below the table (analysis method, comparator, symbols, abbreviations only).
-P("Note. Each cell shows one representative population-based estimate — the most recent, "
+P("Note. This table shows 38 of the 85 analytic cells, those covering the principal comparisons; "
+  "the rest, chiefly the other receptor-defined subtypes and the age-specific comparisons, are in "
+  "Supplementary Table 4. Each cell shows one representative population-based estimate — the most recent, "
   "broadest-coverage registry estimate per analytic cell — not a pooled estimate; the "
   "selection rule and its robustness are given in the Methods and Supplementary Table 6. "
   "Each representative study is followed by its number in the reference list. "
   "The effect measure is the incidence rate ratio (IRR) unless marked as a standardized "
   "incidence ratio (SIR); comparisons are versus non-Hispanic White (NHW) women. "
   "† the study's reference was an unstratified White group (not stratified by Hispanic "
-  "origin), examined in the NHW-comparator sensitivity analysis (Supplementary Table 6c). "
+  "origin), examined in the NHW-comparator sensitivity analysis (Supplementary Table 6c); "
+  "5 of the 19 cells so marked appear in this table. "
   "‡ the 95% confidence interval was computed by the reviewers from published rates rather "
   "than reported in the source. NHB, non-Hispanic Black; AANHPI, Asian American, Native "
   "Hawaiian, and Pacific Islander (NHPI, the Pacific Islander subset, shown separately); "
