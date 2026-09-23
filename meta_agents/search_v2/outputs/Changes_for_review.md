@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (50개 문단)
+범위: `42fa0b5` … `HEAD` (51개 문단)
 
 ---
 
@@ -648,4 +648,16 @@ Certainty of evidence was not graded, the review being descriptive rather than a
 - Because studies differed in diagnosis period and region, these estimates are best read as a comparable-scale summary of the available evidence, with the provenance and comparator of each recorded—marked in the main-text table and figures (computed CI ‡; unstratified White †) and named in full in Supplementary Table 4—so readers can weigh them.
 
 *사유: Stop pointing at daggers in Supplementary Table 4, which has none*
+
+### 15. Discussion — 수정
+
+**찾기:** `The low-risk-of-bias restriction moved the most cells (19 of the 73 it…`
+
+**변경 전**
+- The low-risk-of-bias restriction moved the most cells (19 of the 66 it could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells.
+
+**변경 후**
+- The low-risk-of-bias restriction moved the most cells (19 of the 73 it could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells.
+
+*사유: Fix the denominator in the Discussion's sensitivity paragraph*
 

@@ -322,7 +322,35 @@ def check_E():
                           ("dropped", st.count("dropped")),
                           ("reexamined", st.count("unchanged") + st.count("changed"))):
             c["sens_%s_%s" % (lbl, suffix)] = n
+    # Title/abstract screening split, and the narrative themes: both recomputable,
+    # both stated in the prose, neither previously probed.
+    sd = os.path.join(HERE, "screening_decisions.csv")
+    if os.path.exists(sd):
+        dec = [r.get("decision", "") for r in csv.DictReader(open(sd, encoding="utf-8"))]
+        c["screen_include"] = dec.count("include")
+        c["screen_exclude"] = dec.count("exclude")
+    ti = os.path.join(HERE, "TableS_included_studies.csv")
+    if os.path.exists(ti):
+        th = [(r.get("narr_theme") or "") for r in csv.DictReader(open(ti, encoding="utf-8"))
+              if r.get("synth_group") == "narrative"]
+        for key, name in [("theme_subtype", "Molecular subtype & histology"),
+                          ("theme_geography", "Geography & region"),
+                          ("theme_age", "Age & early-onset"),
+                          ("theme_ses", "Socioeconomic status & screening"),
+                          ("theme_nativity", "Nativity & immigrant generation"),
+                          ("theme_trends", "Time trends"),
+                          ("theme_other", "Other (subgroup-specific descriptive)")]:
+            c[key] = th.count(name)
     probes += [
+        ("Methods_draft.md", r"first pass marked (\d[\d,]*) records for full-text retrieval", "screen_include"),
+        ("Methods_draft.md", r"full-text retrieval and ([\d,]+) for exclusion", "screen_exclude"),
+        ("Results_draft.md", r"Molecular subtype and histology \((\d+) studies\)", "theme_subtype"),
+        ("Results_draft.md", r"Geography and region \((\d+) studies\)", "theme_geography"),
+        ("Results_draft.md", r"early-onset \((\d+) studies\)", "theme_age"),
+        ("Results_draft.md", r"screening \((\d+) studies\)", "theme_ses"),
+        ("Results_draft.md", r"immigrant generation \((\d+) studies\)", "theme_nativity"),
+        ("Results_draft.md", r"Time trends \((\d+) studies\)", "theme_trends"),
+        ("Results_draft.md", r"The remaining (\d+) were\s*subgroup-specific", "theme_other"),
         ("Results_draft.md", r"low-risk-of-bias studies left (\d+) of 85 cell representatives unchanged", "sens_6a_unchanged"),
         ("Results_draft.md", r"with the (\d+) changed and \d+ dropped cells", "sens_6a_changed"),
         ("Results_draft.md", r"with the \d+ changed and (\d+) dropped cells", "sens_6a_dropped"),
@@ -348,7 +376,7 @@ def check_E():
                           % (key, c[key])))
             continue
         checked += 1
-        got = int(m.group(1))
+        got = int(m.group(1).replace(",", ""))
         if got != c[key]:
             fails.append(("E-count", fn, "%s: prose says %d, data gives %d"
                           % (key, got, c[key])))
