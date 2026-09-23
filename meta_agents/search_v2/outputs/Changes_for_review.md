@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (42개 문단)
+범위: `42fa0b5` … `HEAD` (44개 문단)
 
 ---
 
@@ -212,6 +212,35 @@ A publication that re-reported an estimate already captured from the same regist
 - Where a source reported a ratio the other way round, it was inverted to that direction and labelled as inverted rather than recomputed, which happened once: a study that reported its overall Black comparison as NHW over Black while giving its other group comparisons the usual way (Supplementary Note 1).
 
 *사유: Drop Table 1's Effect column, and fix what Methods says about SIRs*
+
+### 14. Eligibility criteria — 수정
+
+**찾기:** `A publication that re-reported an estimate already captured from the same registry,…`
+
+**변경 전**
+- A publication that re-reported an estimate already captured from the same registry, diagnosis period, and population was not an independent estimate, so it was never a candidate representative.
+- Two such cases were distinguished by whether another included publication already carries the same content.
+- A report whose content is carried by an included publication adds nothing to the review and was excluded as a duplicate dataset: this covers the earlier editions of a recurring statistics series and the preprint or book-chapter version of an included analysis (55 reports, 51 of them earlier editions of the annual cancer-statistics reports or the Annual Report to the Nation).
+- The most recent eligible edition of such a series is the only edition carrying that series' current account, so it was retained in the review; because the registry incidence it reports is already provided by the dedicated primary study for that registry and period, it contributes only to the narrative synthesis.
+- Separately, a publication drawing on the same registry family but a different period, region, or subset provided a distinct estimate and was retained as an overlapping estimate for the sensitivity analysis, not excluded; overlap handling is described under Selection of a representative population-based estimate.
+
+**변경 후**
+- A publication that re-reported an estimate already captured from the same registry, diagnosis period, and population was not an independent estimate, so it was never taken as a representative.
+- What then became of it depended on whether another included publication already carried the same content.
+- Where one did, the re-report added nothing and was excluded as a duplicate dataset: 55 reports, of which 51 were earlier editions of the annual cancer-statistics reports or of the Annual Report to the Nation, two were preprint versions of an included analysis, and two were book chapters.
+- Where none did, the report was kept.
+- This applied to the most recent eligible edition of a recurring series, which is the only edition carrying that series' current account; since the registry incidence it reports already came from the dedicated primary study for that registry and period, it contributed to the narrative synthesis alone.
+
+*사유: Rewrite the duplicate-handling paragraph in eligibility*
+
+### 15. Eligibility criteria — 추가
+
+**찾기:** `A publication drawing on the same registry family but a different period,…`
+
+**추가된 문단**
+A publication drawing on the same registry family but a different period, region, or subset was a different matter. Such a report gave a distinct estimate and was retained as an overlapping one for the sensitivity analysis rather than excluded; its handling is described under Selection of a representative population-based estimate.
+
+*사유: Rewrite the duplicate-handling paragraph in eligibility*
 
 ---
 

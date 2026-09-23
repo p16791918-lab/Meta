@@ -114,7 +114,7 @@ large language model (Anthropic's Claude) under the author's direction, working 
 reviewer with model assistance rather than as two independent reviewers. Records were presented to
 the model in batches, each showing the title and the abstract truncated to the first 600
 characters; the model applied the criteria to each record and proposed an include or exclude
-decision, and the author adjudicated both sets. This first pass marked 242 records for full-text
+decision, and the author reviewed the proposals of each kind. This first pass marked 242 records for full-text
 retrieval and 4,551 for exclusion under three standardized reasons—not relevant to the research
 question, not a U.S. population-based or registry study, and editorials, commentaries, letters, or
 conference abstracts.
@@ -175,9 +175,9 @@ diagnosis period, a clearly documented age-standardization, and a directly repor
 interval where available. Where a cell had no NHW-comparator source—18 cells, being 16 of the 36
 receptor-defined subtype cells and the two Black cells above and below age 40—the estimate using an
 unstratified White comparator was kept as the representative. One further cell, Alaska
-Native, also rests on one although an NHW-comparator source exists for it, the broader-coverage rule
-above having selected the registry that reports against an unstratified White reference, so 19 of
-the 85 representatives use an unstratified White reference in all. Each estimate's comparator is
+Native, also rests on an unstratified White comparator although an NHW-comparator source exists for
+it, the broader-coverage rule above having selected the registry that reports against an
+unstratified White reference; 19 of the 85 representatives use such a reference in all. Each estimate's comparator is
 named in Supplementary Table 4; where such a cell appears in the main text it is marked †.
 
 For AI/AN populations this order was overridden in favour of
