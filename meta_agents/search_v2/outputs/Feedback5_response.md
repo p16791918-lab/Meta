@@ -153,4 +153,8 @@
 
 - **Supplementary Table 4의 SIR 표시 누락 정정**: Methods가 두 SIR을 "labelled as SIRs (Supplementary Table 4)"라고 하나, 실제 S4에서는 **Goggins 2009만 Std pop 칸에 "SIR (indirect…)"로 드러나고 Moore 2015는 "world standard (IARC)"로 적혀 SIR인지 알 수 없었음**. 손으로 적은 Std pop 문자열이 아니라 **provenance 라벨에서 자동으로** 추정치 옆에 `(SIR)`을 붙이도록 수정 → 두 건 모두 표시됨. S4에 효과측정 Note도 추가("an incidence rate ratio unless marked (SIR)… 두 SIR은 모두 overlap이므로 모든 대표값과 본문 추정치는 rate ratio").
 
+- **Discussion 민감도 문단의 수치 오류 정정**: "저위험 제한이 가장 많은 셀을 움직였다(**19 of the 66** it could re-examine)"에서 분모가 틀렸음 — 6a가 재검토할 수 있었던 셀은 85 − dropped 12 = **73개**이고, **66은 6c(NHW 비교군 제한)의 unchanged 수**로 다른 민감도의 값이 섞여 들어간 것. **73**으로 정정(19/73).
+
+  같은 유형(네 민감도 사이에서 숫자가 교차 오염되는 오류)이 재발하지 않도록 교차점검 [E]에 **민감도 수치 probe를 추가** — 6a–6d 각각의 unchanged·changed·dropped와 **재검토 가능 셀 수(unchanged+changed)**를 해당 산출 파일에서 재계산해 본문 서술과 대조(점검 대상 32개 → **42개**). 검사가 실제로 작동하는지는 고의로 66으로 되돌려 **검출됨**을 확인.
+
 - **본문 수정 내역 문서 신설**: 어느 문단이 어떻게 바뀌었는지 원고에서 바로 확인하실 수 있도록 **`Changes_for_review`(별도 문서)**를 함께 제출. 문단별로 ① 소속 섹션 ② **원고에서 Ctrl+F로 검색할 문구**(바뀐 문장 기준) ③ 변경 전/후 문장 ④ 수정 사유를 표시. 이번 라운드 기준 **28개 문단**(Discussion 11·Methods 9·Results 6·Abstract 1·Introduction 1). 이후 라운드에서도 자동 갱신됨.

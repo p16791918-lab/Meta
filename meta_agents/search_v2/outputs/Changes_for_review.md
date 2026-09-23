@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (46개 문단)
+범위: `42fa0b5` … `HEAD` (50개 문단)
 
 ---
 
@@ -265,6 +265,47 @@ A publication drawing on the same registry family but a different period, region
 - One further cell, Alaska Native, also rests on an unstratified White comparator although an NHW-comparator source exists for it, the broader-coverage rule above having selected the registry that reports against an unstratified White reference; 19 of the 85 representatives use such a reference in all.
 
 *사유: Name what two pronouns in Methods refer to*
+
+### 18. Risk of bias — 수정
+
+**찾기:** `Risk of bias was assessed with the Joanna Briggs Institute (JBI) critical…`
+
+**변경 전**
+- Each study was appraised as the source of the estimates taken from it here rather than as a whole publication, and the items divide accordingly.
+- Items 1 to 7 describe the study and its registry—the sample frame, case ascertainment, case numbers, description of setting and population, coverage, identification of invasive breast cancer, and how race and ethnicity were measured—and were judged at that level, so they do not change with which estimates were extracted.
+- Item 8 depends on the estimates themselves and was judged on those extracted for this review, a variance counting as available when the source printed an interval or when one could be recovered from what the source reports.
+- A study whose extracted estimates carry no interval therefore rates "No" on item 8 whether or not the source printed the ratio itself, which places a point estimate without a variance at moderate rather than low risk of bias.
+- That rating reflects incomplete reporting of uncertainty rather than evidence that the estimate is biased, and it is the reason several large registry analyses that report ratios without intervals are rated moderate.
+- Certainty of evidence was not graded, the review being descriptive rather than an estimate of a causal effect.
+
+*사유: Break up the risk-of-bias block in Methods*
+
+### 19. Risk of bias — 추가
+
+**찾기:** `Each study was appraised as the source of the estimates taken from…`
+
+**추가된 문단**
+Each study was appraised as the source of the estimates taken from it here rather than as a whole publication, and the items divide accordingly. Items 1 to 7 describe the study and its registry—the sample frame, case ascertainment, case numbers, description of setting and population, coverage, identification of invasive breast cancer, and how race and ethnicity were measured—and were judged at that level, so they do not change with which estimates were extracted. Item 8 depends on the estimates themselves and was judged on those extracted for this review, a variance counting as available when the source printed an interval or when an interval could be recovered from what the source reports.
+
+*사유: Break up the risk-of-bias block in Methods*
+
+### 20. Risk of bias — 추가
+
+**찾기:** `A study whose extracted estimates carry no interval therefore rates "No" on…`
+
+**추가된 문단**
+A study whose extracted estimates carry no interval therefore rates "No" on item 8 whether or not the source printed the ratio itself, which places a point estimate without a variance at moderate rather than low risk of bias. That rating reflects incomplete reporting of uncertainty rather than evidence that the estimate is biased, and it is the reason several large registry analyses that report ratios without intervals are rated moderate.
+
+*사유: Break up the risk-of-bias block in Methods*
+
+### 21. Risk of bias — 추가
+
+**찾기:** `Certainty of evidence was not graded, the review being descriptive rather than…`
+
+**추가된 문단**
+Certainty of evidence was not graded, the review being descriptive rather than an estimate of a causal effect.
+
+*사유: Break up the risk-of-bias block in Methods*
 
 ---
 

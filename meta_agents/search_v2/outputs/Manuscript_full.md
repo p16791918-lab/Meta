@@ -473,7 +473,7 @@ main pattern held for most of the cells each restriction could re-examine, but n
 that no estimate could fill under a restriction were dropped, and a dropped cell is untested under
 that restriction rather than confirmed by it—the directly-reported restriction alone leaves 46 of
 the 85 cells unexamined, because registries publish rates rather than ratios. Standard-population
-differences changed little. The low-risk-of-bias restriction moved the most cells (19 of the 66 it
+differences changed little. The low-risk-of-bias restriction moved the most cells (19 of the 73 it
 could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose
 estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells. The AI/AN
 change is the largest, and it turns on how uncertainty was reported rather than on a difference in

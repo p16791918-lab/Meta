@@ -307,6 +307,33 @@ def check_E():
         ("Abstract_draft.md", r"(\d+)\s+eligible for quantitative", "quant"),
         ("Abstract_draft.md", r"and\s+(\d+)\s+narrative", "narrative"),
     ]
+    # Sensitivity counts stated in the prose. These are easy to cross-wire between
+    # the four analyses — "19 of the 66 it could re-examine" took 66 from the NHW
+    # restriction while 19 came from the low-risk one — so recompute each from its
+    # own table. "re-examined" is unchanged + changed, the cells the restriction
+    # could actually fill.
+    for fn, lbl in [("Sensitivity1_good_rob", "6a"), ("Sensitivity2_directly_reported", "6b"),
+                    ("Sensitivity3_nhw_only", "6c"), ("Sensitivity4_std2000us", "6d")]:
+        fp = os.path.join(OUT, fn + ".csv")
+        if not os.path.exists(fp):
+            continue
+        st = [r["status"] for r in csv.DictReader(open(fp, encoding="utf-8"))]
+        for suffix, n in (("unchanged", st.count("unchanged")), ("changed", st.count("changed")),
+                          ("dropped", st.count("dropped")),
+                          ("reexamined", st.count("unchanged") + st.count("changed"))):
+            c["sens_%s_%s" % (lbl, suffix)] = n
+    probes += [
+        ("Results_draft.md", r"low-risk-of-bias studies left (\d+) of 85 cell representatives unchanged", "sens_6a_unchanged"),
+        ("Results_draft.md", r"with the (\d+) changed and \d+ dropped cells", "sens_6a_changed"),
+        ("Results_draft.md", r"with the \d+ changed and (\d+) dropped cells", "sens_6a_dropped"),
+        ("Results_draft.md", r"SIRs—left (\d+) unchanged", "sens_6b_unchanged"),
+        ("Results_draft.md", r"unchanged \((\d+) changed, \d+ dropped;\s*Supplementary Table 6b", "sens_6b_changed"),
+        ("Results_draft.md", r"unchanged \(\d+ changed, (\d+) dropped;\s*Supplementary Table 6b", "sens_6b_dropped"),
+        ("Results_draft.md", r"NHW-comparator estimates left (\d+) unchanged", "sens_6c_unchanged"),
+        ("Discussion_draft.md", r"moved the most cells \((\d+) of the \d+ it\s*could re-examine\)", "sens_6a_changed"),
+        ("Discussion_draft.md", r"moved the most cells \(\d+ of the (\d+) it\s*could re-examine\)", "sens_6a_reexamined"),
+        ("Discussion_draft.md", r"restriction alone leaves (\d+) of\s*the 85 cells unexamined", "sens_6b_dropped"),
+    ]
     fails, checked = [], 0
     all_probes = [(os.path.join(MAN, fn), pat, key) for fn, pat, key in probes] + \
                  [(os.path.join(HERE, fn), pat, key) for fn, pat, key in here_probes]
