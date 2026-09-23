@@ -2,7 +2,7 @@
 
 원고 본문에서 바뀐 문단만 모았습니다. **찾기** 항목을 Word나 PDF에서 Ctrl+F로 검색하면 해당 문단으로 바로 갑니다. 표·그림·보충자료의 수치 변경은 피드백 응답서에 있습니다.
 
-범위: `42fa0b5` … `HEAD` (51개 문단)
+범위: `42fa0b5` … `HEAD` (54개 문단)
 
 ---
 
@@ -660,4 +660,40 @@ Certainty of evidence was not graded, the review being descriptive rather than a
 - The low-risk-of-bias restriction moved the most cells (19 of the 73 it could re-examine), concentrated in the disaggregated AANHPI subgroups, the age-specific cells whose estimates sit near the NHW rate, as with the Japanese cell above, and the AI/AN cells.
 
 *사유: Fix the denominator in the Discussion's sensitivity paragraph*
+
+### 16. Discussion — 수정
+
+**찾기:** `Two features of the underlying data shaped these estimates: how AI/AN cases…`
+
+**변경 전**
+- Two features of the underlying data shaped these estimates.
+- First, unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The two national figures differ substantially—0.56 from an unlinked source and 0.87 from an IHS-linked one—but they come from separate studies, so the gap cannot be read as the effect of linkage alone.
+- Among IHS-linked national estimates the ratio also rose over time, from 0.63 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the representative and the earlier one retained for sensitivity.
+- The IHS-linked regional estimates vary widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an unstratified White reference, among Alaska Native women (regional values in Table 1 and Figure 2).
+- The lower unlinked values therefore likely reflect incomplete case ascertainment, together with the wider diagnosis periods and the national rather than PRCDA coverage of those sources, rather than only lower underlying incidence; the AI/AN–NHW comparison therefore depends on the source's ascertainment as well as its diagnosis period and geographic scope.⁴¹,⁵⁸ The IHS-linked correction, however, was available only for the aggregate and regional estimates: no Indian Health Service–linked source reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may understate the true rates.
+- Second, reference groups differed across sources—66 of the 85 representatives used an NHW comparator and 19 an unstratified White reference—so each comparator was recorded as its source defined it and a sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells, 16 of them receptor-defined subtypes, can shift a ratio slightly.
+
+**변경 후**
+- Two features of the underlying data shaped these estimates: how AI/AN cases were ascertained, and which White group each source compared against.
+- Unlinked registries tend to undercount AI/AN cases, so the AI/AN estimates here draw on Indian Health Service–linked sources, which capture these cases more completely.¹⁰,⁵³ The two national figures differ substantially—0.56 from an unlinked source and 0.87 from an IHS-linked one—but they come from separate studies, so the gap cannot be read as the effect of linkage alone.
+
+*사유: Break up the 419-word paragraph in the Discussion*
+
+### 17. Discussion — 추가
+
+**찾기:** `Among IHS-linked national estimates the ratio also rose over time, from 0.63…`
+
+**추가된 문단**
+Among IHS-linked national estimates the ratio also rose over time, from 0.63 in 1999–2004 to 0.87 in 2010–2015, so the most recent IHS-linked estimate was taken as the representative and the earlier one retained for sensitivity. The IHS-linked regional estimates vary widely and reach or exceed the NHW rate in the Northern and Southern Plains—and, against an unstratified White reference, among Alaska Native women (regional values in Table 1 and Figure 2). The lower unlinked values therefore likely reflect incomplete case ascertainment, together with the wider diagnosis periods and the national rather than PRCDA coverage of those sources, rather than only lower underlying incidence; the AI/AN–NHW comparison therefore depends on the source's ascertainment as well as its diagnosis period and geographic scope.⁴¹,⁵⁸ The IHS-linked correction, however, was available only for the aggregate and regional estimates: no Indian Health Service–linked source reported AI/AN incidence by molecular subtype, so the AI/AN subtype figures (for example, the HR-positive/HER2-negative and triple-negative cells) rest on unlinked registries and may understate the true rates.
+
+*사유: Break up the 419-word paragraph in the Discussion*
+
+### 18. Discussion — 추가
+
+**찾기:** `Reference groups also differed across sources—66 of the 85 representatives used an…`
+
+**추가된 문단**
+Reference groups also differed across sources—66 of the 85 representatives used an NHW comparator and 19 an unstratified White reference—so each comparator was recorded as its source defined it and a sensitivity analysis was restricted to NHW-comparator estimates; the unstratified-White cells, 16 of them receptor-defined subtypes, can shift a ratio slightly.
+
+*사유: Break up the 419-word paragraph in the Discussion*
 
