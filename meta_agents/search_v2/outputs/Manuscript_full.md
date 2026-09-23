@@ -195,7 +195,8 @@ the author (a single assessor) with large-language-model assistance (Supplementa
 (survey response rate) was recorded as not applicable, census-like registry ascertainment having no
 response rate, so each study's rating used the eight applicable items: low risk of bias required at
 most one "No" with a "Yes" on the two key items—valid measurement (item 7, including race and
-ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance);
+ethnicity ascertainment) and appropriate analysis (item 8, age standardization with a variance,
+the checklist's guidance for that item asking that percentages be given with confidence intervals);
 three or more "No" ratings gave high risk of bias, and any other combination a moderate rating.
 Each study was appraised as the source of the estimates taken from it here rather than as a whole
 publication, and the items divide accordingly. Items 1 to 7 describe the study and its registry—the
